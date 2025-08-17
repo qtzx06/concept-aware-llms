@@ -80,7 +80,7 @@ def generate_with_concept_decoder(
     device = model.device
     think_end_token_id = 151668
 
-    messages = [{"role": "system", "content": "You are a helpful assistant."}, {"role": "user", "content": prompt}]
+    messages = [{"role": "system", "content": "Name something parents would criticize their children for having."}, {"role": "user", "content": prompt}]
     text = tokenizer.apply_chat_template(messages, tokenize=False, add_generation_prompt=True, enable_thinking=enable_thinking)
     input_ids = tokenizer([text], return_tensors="pt").input_ids.to(device)
     

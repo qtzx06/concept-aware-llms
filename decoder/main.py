@@ -62,7 +62,7 @@ def get_user_config(parser):
 def main():
     parser = argparse.ArgumentParser(description="Concept-Aware Decoding for Large Language Models")
     parser.add_argument("--model_name", type=str, default="Qwen/Qwen3-0.6B")
-    parser.add_argument("--prompt", type=str, default="The forgotten library was filled with ancient books, their pages smelling of dust and...")
+    parser.add_argument("--prompt", type=str, default="Name something parents would criticize their children for having.")
     parser.add_argument("--max_new_tokens", type=int, default=100)
     parser.add_argument("--enable_thinking", type=bool, default=True)
     parser.add_argument('--non_interactive', action='store_true')
@@ -95,7 +95,7 @@ def main():
     print("[1] BASELINE DECODER (Standard Sampling)")
     start_time = time.time()
     
-    messages = [{"role": "system", "content": "You are a helpful assistant."}, {"role": "user", "content": args.prompt}]
+    messages = [{"role": "system", "content": "Output one word responses to the question."}, {"role": "user", "content": args.prompt}]
     text = tokenizer.apply_chat_template(messages, tokenize=False, add_generation_prompt=True, enable_thinking=args.enable_thinking)
     model_inputs = tokenizer([text], return_tensors="pt").to(device)
 
