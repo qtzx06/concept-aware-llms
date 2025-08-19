@@ -1,47 +1,66 @@
 --- Step 16 Log ---
 
 == Filtered Candidates ==
-Token: ' Today' (ID: 11201), Prob: 0.6172
-Token: ' today' (ID: 3351), Prob: 0.0093
-Token: 'Today' (ID: 15364), Prob: 0.0020
-Token: ' TODAY' (ID: 40262), Prob: 0.0020
-Token: ' Tomorrow' (ID: 54996), Prob: 0.0014
-Token: '.Today' (ID: 72672), Prob: 0.0013
-Token: ' Please' (ID: 5209), Prob: 0.0008
-Token: ' Together' (ID: 31155), Prob: 0.0007
-Token: ' People' (ID: 8853), Prob: 0.0005
-Token: ' Tod' (ID: 58583), Prob: 0.0005
-Token: ' Tonight' (ID: 54214), Prob: 0.0005
-Token: ' Day' (ID: 6059), Prob: 0.0004
-Token: ' Also' (ID: 7281), Prob: 0.0004
-Token: ' Children' (ID: 15044), Prob: 0.0004
-Token: ' Let' (ID: 6771), Prob: 0.0004
-Token: ' Everyone' (ID: 21455), Prob: 0.0004
-Token: ' Young' (ID: 13263), Prob: 0.0004
-Token: ' Yesterday' (ID: 60033), Prob: 0.0004
+Token: ' description' (ID: 4008), Prob: 0.0016
+Token: ' message' (ID: 1943), Prob: 0.0013
+Token: ' prompt' (ID: 9934), Prob: 0.0012
+Token: ' given' (ID: 2661), Prob: 0.0007
+Token: ' exactly' (ID: 6896), Prob: 0.0006
+Token: ' response' (ID: 2033), Prob: 0.0005
+Token: ' including' (ID: 2670), Prob: 0.0005
+Token: ' list' (ID: 1140), Prob: 0.0004
+Token: ' question' (ID: 3405), Prob: 0.0004
+Token: ' statement' (ID: 5114), Prob: 0.0003
+Token: ' text' (ID: 1467), Prob: 0.0003
+Token: ' except' (ID: 3650), Prob: 0.0003
+Token: ' without' (ID: 2041), Prob: 0.0002
+Token: ' answer' (ID: 4226), Prob: 0.0002
+Token: ' please' (ID: 4486), Prob: 0.0002
+Token: ' include' (ID: 2924), Prob: 0.0002
+Token: ' wording' (ID: 60227), Prob: 0.0002
+Token: ' within' (ID: 2878), Prob: 0.0002
+Token: ' example' (ID: 3110), Prob: 0.0001
+Token: ' items' (ID: 3589), Prob: 0.0001
+Token: ' plus' (ID: 5519), Prob: 0.0001
+Token: ' sentence' (ID: 11652), Prob: 0.0001
+Token: ' information' (ID: 1995), Prob: 0.0001
+Token: ' title' (ID: 2265), Prob: 0.0001
+Token: ' provided' (ID: 3897), Prob: 0.0001
+Token: ' words' (ID: 4244), Prob: 0.0001
+Token: ' match' (ID: 2432), Prob: 0.0001
+Token: ' along' (ID: 3156), Prob: 0.0001
+Token: ' unless' (ID: 7241), Prob: 0.0001
 
 == Ranked Concepts (Clusters) ==
-Rank 1 | Concept Score: 0.6328
-  Tokens: [' Today', ' today', 'Today', ' TODAY', '.Today']
-Rank 2 | Concept Score: 0.0017
-  Tokens: [' Tomorrow', ' Yesterday']
-Rank 3 | Concept Score: 0.0012
-  Tokens: [' Please', ' Let']
-Rank 4 | Concept Score: 0.0009
-  Tokens: [' People', ' Everyone']
-Rank 5 | Concept Score: 0.0007
-  Tokens: [' Together']
-Rank 6 | Concept Score: 0.0005
-  Tokens: [' Tod']
-Rank 7 | Concept Score: 0.0005
-  Tokens: [' Tonight']
-Rank 8 | Concept Score: 0.0004
-  Tokens: [' Children']
-Rank 9 | Concept Score: 0.0004
-  Tokens: [' Day']
-Rank 10 | Concept Score: 0.0004
-  Tokens: [' Also']
-Rank 11 | Concept Score: 0.0004
-  Tokens: [' Young']
+Rank 1 | Centroid: ' sentence' | Score: 0.0018
+  Tokens: [' message', ' statement', ' sentence']
+Rank 2 | Centroid: ' description' | Score: 0.0017
+  Tokens: [' description', ' example']
+Rank 3 | Centroid: ' prompt' | Score: 0.0015
+  Tokens: [' prompt', ' question']
+Rank 4 | Centroid: ' given' | Score: 0.0008
+  Tokens: [' given', ' provided']
+Rank 5 | Centroid: ' response' | Score: 0.0008
+  Tokens: [' response', ' answer']
+Rank 6 | Centroid: ' including' | Score: 0.0007
+  Tokens: [' including', ' include']
+Rank 7 | Centroid: ' unless' | Score: 0.0006
+  Tokens: [' except', ' without', ' unless']
+Rank 8 | Centroid: ' exactly' | Score: 0.0006
+  Tokens: [' exactly']
+Rank 9 | Centroid: ' list' | Score: 0.0005
+  Tokens: [' list', ' items']
+Rank 10 | Centroid: ' text' | Score: 0.0004
+  Tokens: [' text', ' title']
+Rank 11 | Centroid: ' along' | Score: 0.0004
+  Tokens: [' within', ' plus', ' along']
+Rank 12 | Centroid: ' wording' | Score: 0.0003
+  Tokens: [' wording', ' words']
+Rank 13 | Centroid: ' please' | Score: 0.0002
+  Tokens: [' please']
+Rank 14 | Centroid: ' information' | Score: 0.0001
+  Tokens: [' information']
+Rank 15 | Centroid: ' match' | Score: 0.0001
+  Tokens: [' match']
 
-**Chosen Concept:** Rank 1 with score 0.6328
+**Chosen Concept:** Rank 1

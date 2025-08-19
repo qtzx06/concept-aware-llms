@@ -1,0 +1,92 @@
+--- Step 107 Log ---
+
+== Filtered Candidates ==
+Token: ' sense' (ID: 5530), Prob: 1.0000
+Token: ' senses' (ID: 37107), Prob: 0.0000
+Token: ' make' (ID: 1281), Prob: 0.0000
+Token: ' Sense' (ID: 46229), Prob: 0.0000
+Token: ' seem' (ID: 2803), Prob: 0.0000
+Token: ' sound' (ID: 5112), Prob: 0.0000
+Token: 'sense' (ID: 97835), Prob: 0.0000
+Token: ' feel' (ID: 2666), Prob: 0.0000
+Token: ' sens' (ID: 6097), Prob: 0.0000
+Token: ' something' (ID: 2494), Prob: 0.0000
+Token: ' speak' (ID: 6468), Prob: 0.0000
+Token: ' mean' (ID: 3076), Prob: 0.0000
+Token: ' sentido' (ID: 64384), Prob: 0.0000
+Token: 'ense' (ID: 1117), Prob: 0.0000
+Token: ' sensible' (ID: 37661), Prob: 0.0000
+Token: ' good' (ID: 1661), Prob: 0.0000
+Token: ' taste' (ID: 12656), Prob: 0.0000
+Token: ' sure' (ID: 2704), Prob: 0.0000
+Token: ' food' (ID: 3607), Prob: 0.0000
+Token: ' smell' (ID: 22068), Prob: 0.0000
+Token: ' meaning' (ID: 7290), Prob: 0.0000
+Token: ' sell' (ID: 4559), Prob: 0.0000
+Token: ' much' (ID: 1753), Prob: 0.0000
+Token: ' stand' (ID: 2498), Prob: 0.0000
+Token: 'Sense' (ID: 61009), Prob: 0.0000
+Token: ' sexual' (ID: 7244), Prob: 0.0000
+Token: ' sensory' (ID: 47969), Prob: 0.0000
+Token: ' use' (ID: 990), Prob: 0.0000
+Token: ' satisfy' (ID: 26553), Prob: 0.0000
+Token: ' sex' (ID: 1839), Prob: 0.0000
+Token: ' matter' (ID: 4925), Prob: 0.0000
+Token: ' count' (ID: 1760), Prob: 0.0000
+Token: ' sounds' (ID: 10362), Prob: 0.0000
+Token: ' great' (ID: 2244), Prob: 0.0000
+Token: ' listen' (ID: 8844), Prob: 0.0000
+Token: ' nonsense' (ID: 40802), Prob: 0.0000
+Token: ' little' (ID: 2632), Prob: 0.0000
+Token: ' sponge' (ID: 68348), Prob: 0.0000
+Token: ' send' (ID: 3624), Prob: 0.0000
+Token: ' sen' (ID: 6124), Prob: 0.0000
+Token: ' sensing' (ID: 59099), Prob: 0.0000
+Token: ' work' (ID: 975), Prob: 0.0000
+Token: ' sleep' (ID: 6084), Prob: 0.0000
+Token: ' eat' (ID: 8180), Prob: 0.0000
+Token: ' exist' (ID: 3000), Prob: 0.0000
+Token: ' respect' (ID: 5091), Prob: 0.0000
+Token: ' sage' (ID: 38261), Prob: 0.0000
+Token: ' say' (ID: 1977), Prob: 0.0000
+Token: ' happen' (ID: 3537), Prob: 0.0000
+
+== Ranked Concepts (Clusters) ==
+Rank 1 | Centroid: ' Sense' | Score: 1.0000
+  Tokens: [' sense', ' senses', ' Sense', 'sense', ' sentido', 'Sense']
+Rank 2 | Centroid: ' use' | Score: 0.0000
+  Tokens: [' make', ' use', ' work']
+Rank 3 | Centroid: ' seem' | Score: 0.0000
+  Tokens: [' seem', ' satisfy', ' exist', ' happen']
+Rank 4 | Centroid: ' sound' | Score: 0.0000
+  Tokens: [' sound', ' sounds']
+Rank 5 | Centroid: ' smell' | Score: 0.0000
+  Tokens: [' feel', ' taste', ' smell']
+Rank 6 | Centroid: ' sensing' | Score: 0.0000
+  Tokens: [' sens', ' sensory', ' sen', ' sensing']
+Rank 7 | Centroid: ' something' | Score: 0.0000
+  Tokens: [' something', ' sure']
+Rank 8 | Centroid: ' mean' | Score: 0.0000
+  Tokens: [' mean', ' meaning']
+Rank 9 | Centroid: ' speak' | Score: 0.0000
+  Tokens: [' speak', ' say']
+Rank 10 | Centroid: ' great' | Score: 0.0000
+  Tokens: [' good', ' much', ' great', ' little']
+Rank 11 | Centroid: ' sensible' | Score: 0.0000
+  Tokens: [' sensible', ' nonsense', ' sponge', ' sage']
+Rank 12 | Centroid: 'ense' | Score: 0.0000
+  Tokens: ['ense']
+Rank 13 | Centroid: ' sexual' | Score: 0.0000
+  Tokens: [' food', ' sexual', ' sex']
+Rank 14 | Centroid: ' eat' | Score: 0.0000
+  Tokens: [' sell', ' listen', ' send', ' sleep', ' eat']
+Rank 15 | Centroid: ' stand' | Score: 0.0000
+  Tokens: [' stand']
+Rank 16 | Centroid: ' matter' | Score: 0.0000
+  Tokens: [' matter']
+Rank 17 | Centroid: ' count' | Score: 0.0000
+  Tokens: [' count']
+Rank 18 | Centroid: ' respect' | Score: 0.0000
+  Tokens: [' respect']
+
+**Chosen Concept:** Rank 1

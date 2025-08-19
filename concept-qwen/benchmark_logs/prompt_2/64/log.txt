@@ -1,147 +1,82 @@
 --- Step 64 Log ---
 
 == Filtered Candidates ==
-Token: ' disease' (ID: 8457), Prob: 0.2041
-Token: ' researchers' (ID: 11811), Prob: 0.1094
-Token: ' fungus' (ID: 78802), Prob: 0.0515
-Token: ' current' (ID: 1482), Prob: 0.0332
-Token: ' problem' (ID: 3491), Prob: 0.0332
-Token: ' patients' (ID: 6835), Prob: 0.0312
-Token: ' presence' (ID: 9362), Prob: 0.0228
-Token: ' first' (ID: 1156), Prob: 0.0201
-Token: ' discovery' (ID: 18335), Prob: 0.0167
-Token: ' scientists' (ID: 13923), Prob: 0.0148
-Token: ' research' (ID: 3412), Prob: 0.0108
-Token: ' patient' (ID: 8720), Prob: 0.0101
-Token: ' study' (ID: 3920), Prob: 0.0084
-Token: ' team' (ID: 2083), Prob: 0.0066
-Token: ' fact' (ID: 2097), Prob: 0.0062
-Token: ' actual' (ID: 5042), Prob: 0.0062
-Token: ' virus' (ID: 16770), Prob: 0.0062
-Token: ' data' (ID: 821), Prob: 0.0058
-Token: ' results' (ID: 3059), Prob: 0.0058
-Token: ' health' (ID: 2820), Prob: 0.0054
-Token: ' question' (ID: 3405), Prob: 0.0054
-Token: ' situation' (ID: 6534), Prob: 0.0054
-Token: ' fungal' (ID: 94347), Prob: 0.0054
-Token: ' existing' (ID: 6350), Prob: 0.0051
-Token: ' existence' (ID: 13885), Prob: 0.0051
-Token: ' main' (ID: 1887), Prob: 0.0048
-Token: ' planet' (ID: 11580), Prob: 0.0048
-Token: ' initial' (ID: 2856), Prob: 0.0045
-Token: ' original' (ID: 4024), Prob: 0.0045
-Token: ' symptoms' (ID: 13495), Prob: 0.0045
-Token: ' findings' (ID: 14613), Prob: 0.0045
-Token: ' recent' (ID: 3213), Prob: 0.0042
-Token: ' lack' (ID: 6853), Prob: 0.0042
-Token: ' population' (ID: 7042), Prob: 0.0040
-Token: ' new' (ID: 501), Prob: 0.0033
-Token: ' researcher' (ID: 31085), Prob: 0.0031
-Token: ' illness' (ID: 17125), Prob: 0.0029
-Token: ' assumption' (ID: 24335), Prob: 0.0029
-Token: ' bacteria' (ID: 23157), Prob: 0.0027
-Token: ' fungi' (ID: 80440), Prob: 0.0026
-Token: ' real' (ID: 1931), Prob: 0.0024
-Token: ' latest' (ID: 5535), Prob: 0.0024
-Token: ' experiment' (ID: 9342), Prob: 0.0024
-Token: ' environment' (ID: 4573), Prob: 0.0023
-Token: ' doctors' (ID: 16026), Prob: 0.0023
-Token: ' location' (ID: 3728), Prob: 0.0020
-Token: ' exact' (ID: 4734), Prob: 0.0020
-Token: ' next' (ID: 1790), Prob: 0.0019
-Token: ' story' (ID: 3364), Prob: 0.0019
-Token: ' doctor' (ID: 10668), Prob: 0.0019
-Token: ' people' (ID: 1251), Prob: 0.0018
-Token: ' local' (ID: 2205), Prob: 0.0018
-Token: ' source' (ID: 2530), Prob: 0.0018
-Token: ' government' (ID: 3033), Prob: 0.0018
-Token: ' previous' (ID: 3681), Prob: 0.0018
-Token: ' island' (ID: 12922), Prob: 0.0017
-Token: ' infection' (ID: 18873), Prob: 0.0017
-Token: ' use' (ID: 990), Prob: 0.0016
-Token: ' evidence' (ID: 5904), Prob: 0.0016
-Token: ' sample' (ID: 6077), Prob: 0.0016
-Token: ' treatment' (ID: 6380), Prob: 0.0016
-Token: ' climate' (ID: 9977), Prob: 0.0016
-Token: ' information' (ID: 1995), Prob: 0.0015
-Token: ' condition' (ID: 2971), Prob: 0.0015
-Token: ' issue' (ID: 4265), Prob: 0.0015
-Token: ' analysis' (ID: 6358), Prob: 0.0015
-Token: ' scenario' (ID: 15048), Prob: 0.0015
-Token: ' inhabitants' (ID: 39671), Prob: 0.0015
-Token: ' process' (ID: 1882), Prob: 0.0014
-Token: ' development' (ID: 4401), Prob: 0.0014
-Token: ' reality' (ID: 8729), Prob: 0.0014
-Token: ' diseases' (ID: 18808), Prob: 0.0014
-Token: ' cure' (ID: 26116), Prob: 0.0014
-Token: ' Mars' (ID: 21048), Prob: 0.0013
-Token: ' scientist' (ID: 27468), Prob: 0.0013
-Token: ' field' (ID: 2070), Prob: 0.0012
-Token: ' amount' (ID: 3311), Prob: 0.0012
-Token: ' atmosphere' (ID: 16566), Prob: 0.0012
-Token: ' report' (ID: 1895), Prob: 0.0011
-Token: ' human' (ID: 3738), Prob: 0.0011
-Token: ' test' (ID: 1273), Prob: 0.0011
-Token: ' last' (ID: 1537), Prob: 0.0011
-Token: ' origin' (ID: 6238), Prob: 0.0011
-Token: ' truth' (ID: 8046), Prob: 0.0011
-Token: ' authors' (ID: 12014), Prob: 0.0011
-Token: ' university' (ID: 12103), Prob: 0.0011
-Token: ' number' (ID: 1372), Prob: 0.0010
-Token: ' effect' (ID: 2456), Prob: 0.0010
-Token: ' risk' (ID: 5214), Prob: 0.0010
-Token: ' tumor' (ID: 35154), Prob: 0.0010
-Token: ' type' (ID: 943), Prob: 0.0009
-Token: ' case' (ID: 1142), Prob: 0.0009
-Token: ' group' (ID: 1874), Prob: 0.0009
-Token: ' majority' (ID: 8686), Prob: 0.0009
-Token: ' cancer' (ID: 9387), Prob: 0.0009
-Token: ' plants' (ID: 10779), Prob: 0.0009
+Token: ' yes' (ID: 9834), Prob: 0.7930
+Token: ' yeah' (ID: 21639), Prob: 0.0004
+Token: ' maybe' (ID: 7196), Prob: 0.0002
+Token: ' something' (ID: 2494), Prob: 0.0002
+Token: ' nothing' (ID: 4302), Prob: 0.0001
+Token: ' hello' (ID: 23811), Prob: 0.0001
+Token: ' etc' (ID: 4992), Prob: 0.0001
+Token: ' exactly' (ID: 6896), Prob: 0.0001
+Token: ' negative' (ID: 8225), Prob: 0.0001
+Token: ' also' (ID: 1083), Prob: 0.0001
+Token: ' okay' (ID: 16910), Prob: 0.0001
+Token: ' wait' (ID: 3783), Prob: 0.0000
+Token: ' Yes' (ID: 7414), Prob: 0.0000
+Token: ' answer' (ID: 4226), Prob: 0.0000
+Token: ' none' (ID: 6857), Prob: 0.0000
+Token: ' positive' (ID: 6785), Prob: 0.0000
+Token: 'yes' (ID: 9693), Prob: 0.0000
+Token: ' one' (ID: 825), Prob: 0.0000
+Token: ' whether' (ID: 3425), Prob: 0.0000
+Token: ' YES' (ID: 14080), Prob: 0.0000
+Token: ' say' (ID: 1977), Prob: 0.0000
+Token: ' always' (ID: 2677), Prob: 0.0000
+Token: ' sure' (ID: 2704), Prob: 0.0000
+Token: ' unknown' (ID: 9788), Prob: 0.0000
+Token: '=yes' (ID: 59565), Prob: 0.0000
+Token: ' without' (ID: 2041), Prob: 0.0000
+Token: ' possible' (ID: 3204), Prob: 0.0000
+Token: ' depends' (ID: 13798), Prob: 0.0000
+Token: ' either' (ID: 2987), Prob: 0.0000
+Token: ' correct' (ID: 4396), Prob: 0.0000
+Token: ' another' (ID: 2441), Prob: 0.0000
+Token: ' enough' (ID: 3322), Prob: 0.0000
+Token: ' even' (ID: 1496), Prob: 0.0000
+Token: ' please' (ID: 4486), Prob: 0.0000
+Token: ' impossible' (ID: 11997), Prob: 0.0000
+Token: ' based' (ID: 3118), Prob: 0.0000
+Token: ' zero' (ID: 7168), Prob: 0.0000
+Token: ' definitely' (ID: 8491), Prob: 0.0000
+Token: ' cannot' (ID: 4157), Prob: 0.0000
 
 == Ranked Concepts (Clusters) ==
-Rank 1 | Concept Score: 0.2676
-  Tokens: [' disease', ' patients', ' patient', ' health', ' symptoms', ' illness', ' doctors', ' doctor', ' diseases', ' cure', ' tumor', ' cancer']
-Rank 2 | Concept Score: 0.1406
-  Tokens: [' researchers', ' scientists', ' research', ' researcher', ' scientist', ' authors']
-Rank 3 | Concept Score: 0.0698
-  Tokens: [' fungus', ' virus', ' fungal', ' bacteria', ' fungi', ' infection']
-Rank 4 | Concept Score: 0.0679
-  Tokens: [' current', ' first', ' recent', ' new', ' latest', ' next', ' previous', ' last']
-Rank 5 | Concept Score: 0.0420
-  Tokens: [' problem', ' question', ' issue', ' effect', ' risk']
-Rank 6 | Concept Score: 0.0322
-  Tokens: [' presence', ' existence', ' lack']
-Rank 7 | Concept Score: 0.0312
-  Tokens: [' discovery', ' results', ' findings', ' use', ' evidence', ' report']
-Rank 8 | Concept Score: 0.0205
-  Tokens: [' team', ' data', ' information', ' process', ' field', ' human', ' number', ' type', ' group']
-Rank 9 | Concept Score: 0.0166
-  Tokens: [' main', ' initial', ' original', ' source', ' origin']
-Rank 10 | Concept Score: 0.0149
-  Tokens: [' study', ' experiment', ' sample', ' analysis', ' test']
-Rank 11 | Concept Score: 0.0128
-  Tokens: [' population', ' environment', ' location', ' government', ' climate', ' atmosphere']
-Rank 12 | Concept Score: 0.0112
-  Tokens: [' situation', ' story', ' condition', ' scenario', ' case']
-Rank 13 | Concept Score: 0.0106
-  Tokens: [' actual', ' real', ' exact']
-Rank 14 | Concept Score: 0.0087
-  Tokens: [' planet', ' island', ' Mars', ' plants']
-Rank 15 | Concept Score: 0.0086
-  Tokens: [' fact', ' reality', ' truth']
-Rank 16 | Concept Score: 0.0051
-  Tokens: [' existing']
-Rank 17 | Concept Score: 0.0032
-  Tokens: [' people', ' inhabitants']
-Rank 18 | Concept Score: 0.0029
-  Tokens: [' treatment', ' development']
-Rank 19 | Concept Score: 0.0029
-  Tokens: [' assumption']
-Rank 20 | Concept Score: 0.0022
-  Tokens: [' amount', ' majority']
-Rank 21 | Concept Score: 0.0018
-  Tokens: [' local']
-Rank 22 | Concept Score: 0.0011
-  Tokens: [' university']
+Rank 1 | Centroid: ' yes' | Score: 0.7930
+  Tokens: [' yes', ' yeah', ' Yes', 'yes', ' YES', ' sure', '=yes']
+Rank 2 | Centroid: ' nothing' | Score: 0.0003
+  Tokens: [' something', ' nothing', ' none']
+Rank 3 | Centroid: ' maybe' | Score: 0.0002
+  Tokens: [' maybe']
+Rank 4 | Centroid: ' negative' | Score: 0.0001
+  Tokens: [' negative', ' positive', ' zero']
+Rank 5 | Centroid: ' definitely' | Score: 0.0001
+  Tokens: [' exactly', ' always', ' definitely']
+Rank 6 | Centroid: ' hello' | Score: 0.0001
+  Tokens: [' hello', ' please']
+Rank 7 | Centroid: ' etc' | Score: 0.0001
+  Tokens: [' etc']
+Rank 8 | Centroid: ' wait' | Score: 0.0001
+  Tokens: [' wait', ' say']
+Rank 9 | Centroid: ' also' | Score: 0.0001
+  Tokens: [' also']
+Rank 10 | Centroid: ' answer' | Score: 0.0001
+  Tokens: [' answer', ' correct']
+Rank 11 | Centroid: ' okay' | Score: 0.0001
+  Tokens: [' okay']
+Rank 12 | Centroid: ' impossible' | Score: 0.0001
+  Tokens: [' unknown', ' possible', ' impossible']
+Rank 13 | Centroid: ' whether' | Score: 0.0001
+  Tokens: [' whether', ' either']
+Rank 14 | Centroid: ' one' | Score: 0.0000
+  Tokens: [' one', ' another']
+Rank 15 | Centroid: ' based' | Score: 0.0000
+  Tokens: [' without', ' depends', ' based']
+Rank 16 | Centroid: ' enough' | Score: 0.0000
+  Tokens: [' enough']
+Rank 17 | Centroid: ' even' | Score: 0.0000
+  Tokens: [' even']
+Rank 18 | Centroid: ' cannot' | Score: 0.0000
+  Tokens: [' cannot']
 
-**Chosen Concept:** Rank 1 with score 0.2676
+**Chosen Concept:** Rank 1

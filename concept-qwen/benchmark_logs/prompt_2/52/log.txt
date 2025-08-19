@@ -1,0 +1,84 @@
+--- Step 52 Log ---
+
+== Filtered Candidates ==
+Token: ' yes' (ID: 9834), Prob: 0.5586
+Token: ' something' (ID: 2494), Prob: 0.0005
+Token: ' yeah' (ID: 21639), Prob: 0.0004
+Token: ' maybe' (ID: 7196), Prob: 0.0004
+Token: ' nothing' (ID: 4302), Prob: 0.0002
+Token: ' negative' (ID: 8225), Prob: 0.0002
+Token: ' etc' (ID: 4992), Prob: 0.0001
+Token: ' exactly' (ID: 6896), Prob: 0.0001
+Token: ' hello' (ID: 23811), Prob: 0.0001
+Token: ' none' (ID: 6857), Prob: 0.0001
+Token: ' also' (ID: 1083), Prob: 0.0001
+Token: ' wait' (ID: 3783), Prob: 0.0001
+Token: ' answer' (ID: 4226), Prob: 0.0001
+Token: ' okay' (ID: 16910), Prob: 0.0001
+Token: ' one' (ID: 825), Prob: 0.0001
+Token: ' Yes' (ID: 7414), Prob: 0.0001
+Token: ' whether' (ID: 3425), Prob: 0.0001
+Token: ' positive' (ID: 6785), Prob: 0.0000
+Token: ' sure' (ID: 2704), Prob: 0.0000
+Token: ' unknown' (ID: 9788), Prob: 0.0000
+Token: ' without' (ID: 2041), Prob: 0.0000
+Token: ' say' (ID: 1977), Prob: 0.0000
+Token: ' definitely' (ID: 8491), Prob: 0.0000
+Token: 'yes' (ID: 9693), Prob: 0.0000
+Token: ' depends' (ID: 13798), Prob: 0.0000
+Token: ' either' (ID: 2987), Prob: 0.0000
+Token: ' possible' (ID: 3204), Prob: 0.0000
+Token: ' always' (ID: 2677), Prob: 0.0000
+Token: ' impossible' (ID: 11997), Prob: 0.0000
+Token: ' YES' (ID: 14080), Prob: 0.0000
+Token: ' another' (ID: 2441), Prob: 0.0000
+Token: ' correct' (ID: 4396), Prob: 0.0000
+Token: ' enough' (ID: 3322), Prob: 0.0000
+Token: ' cannot' (ID: 4157), Prob: 0.0000
+Token: ' please' (ID: 4486), Prob: 0.0000
+Token: ' even' (ID: 1496), Prob: 0.0000
+Token: '=yes' (ID: 59565), Prob: 0.0000
+Token: ' zero' (ID: 7168), Prob: 0.0000
+Token: ' perhaps' (ID: 8365), Prob: 0.0000
+Token: ' still' (ID: 2058), Prob: 0.0000
+Token: ' neither' (ID: 13866), Prob: 0.0000
+
+== Ranked Concepts (Clusters) ==
+Rank 1 | Centroid: ' yes' | Score: 0.5586
+  Tokens: [' yes', ' yeah', ' Yes', ' sure', 'yes', ' YES', '=yes']
+Rank 2 | Centroid: ' something' | Score: 0.0005
+  Tokens: [' something']
+Rank 3 | Centroid: ' maybe' | Score: 0.0004
+  Tokens: [' maybe', ' possible', ' perhaps']
+Rank 4 | Centroid: ' none' | Score: 0.0003
+  Tokens: [' nothing', ' none', ' neither']
+Rank 5 | Centroid: ' negative' | Score: 0.0002
+  Tokens: [' negative', ' positive', ' zero']
+Rank 6 | Centroid: ' wait' | Score: 0.0002
+  Tokens: [' wait', ' say', ' depends']
+Rank 7 | Centroid: ' still' | Score: 0.0001
+  Tokens: [' also', ' always', ' still']
+Rank 8 | Centroid: ' exactly' | Score: 0.0001
+  Tokens: [' exactly']
+Rank 9 | Centroid: ' etc' | Score: 0.0001
+  Tokens: [' etc']
+Rank 10 | Centroid: ' impossible' | Score: 0.0001
+  Tokens: [' unknown', ' without', ' impossible', ' cannot']
+Rank 11 | Centroid: ' hello' | Score: 0.0001
+  Tokens: [' hello']
+Rank 12 | Centroid: ' answer' | Score: 0.0001
+  Tokens: [' answer', ' correct']
+Rank 13 | Centroid: ' okay' | Score: 0.0001
+  Tokens: [' okay', ' enough']
+Rank 14 | Centroid: ' one' | Score: 0.0001
+  Tokens: [' one', ' another']
+Rank 15 | Centroid: ' whether' | Score: 0.0001
+  Tokens: [' whether', ' either']
+Rank 16 | Centroid: ' definitely' | Score: 0.0000
+  Tokens: [' definitely']
+Rank 17 | Centroid: ' please' | Score: 0.0000
+  Tokens: [' please']
+Rank 18 | Centroid: ' even' | Score: 0.0000
+  Tokens: [' even']
+
+**Chosen Concept:** Rank 1

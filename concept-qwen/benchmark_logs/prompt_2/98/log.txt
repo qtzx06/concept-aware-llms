@@ -1,144 +1,82 @@
 --- Step 98 Log ---
 
 == Filtered Candidates ==
-Token: ' enzyme' (ID: 48142), Prob: 0.3359
-Token: ' researchers' (ID: 11811), Prob: 0.1406
-Token: ' fungus' (ID: 78802), Prob: 0.1235
-Token: ' team' (ID: 2083), Prob: 0.0400
-Token: ' current' (ID: 1482), Prob: 0.0354
-Token: ' research' (ID: 3412), Prob: 0.0244
-Token: ' experiment' (ID: 9342), Prob: 0.0167
-Token: ' disease' (ID: 8457), Prob: 0.0148
-Token: ' scientists' (ID: 13923), Prob: 0.0139
-Token: ' results' (ID: 3059), Prob: 0.0123
-Token: ' presence' (ID: 9362), Prob: 0.0108
-Token: ' sample' (ID: 6077), Prob: 0.0090
-Token: ' study' (ID: 3920), Prob: 0.0084
-Token: ' discovery' (ID: 18335), Prob: 0.0079
-Token: ' researcher' (ID: 31085), Prob: 0.0074
-Token: ' test' (ID: 1273), Prob: 0.0066
-Token: ' problem' (ID: 3491), Prob: 0.0066
-Token: ' enzymes' (ID: 54967), Prob: 0.0066
-Token: ' patients' (ID: 6835), Prob: 0.0054
-Token: ' findings' (ID: 14613), Prob: 0.0054
-Token: ' fungal' (ID: 94347), Prob: 0.0051
-Token: ' samples' (ID: 10469), Prob: 0.0045
-Token: ' existing' (ID: 6350), Prob: 0.0037
-Token: ' new' (ID: 501), Prob: 0.0035
-Token: ' experimental' (ID: 22000), Prob: 0.0035
-Token: ' actual' (ID: 5042), Prob: 0.0033
-Token: ' experiments' (ID: 21204), Prob: 0.0033
-Token: ' fungi' (ID: 80440), Prob: 0.0033
-Token: ' data' (ID: 821), Prob: 0.0031
-Token: ' original' (ID: 4024), Prob: 0.0024
-Token: ' evidence' (ID: 5904), Prob: 0.0019
-Token: ' analysis' (ID: 6358), Prob: 0.0018
-Token: ' patient' (ID: 8720), Prob: 0.0018
-Token: ' laboratory' (ID: 26594), Prob: 0.0018
-Token: ' field' (ID: 2070), Prob: 0.0017
-Token: ' latest' (ID: 5535), Prob: 0.0017
-Token: ' beta' (ID: 13440), Prob: 0.0017
-Token: ' virus' (ID: 16770), Prob: 0.0016
-Token: ' first' (ID: 1156), Prob: 0.0015
-Token: ' lack' (ID: 6853), Prob: 0.0014
-Token: ' testing' (ID: 7497), Prob: 0.0014
-Token: ' scientist' (ID: 27468), Prob: 0.0014
-Token: ' real' (ID: 1931), Prob: 0.0013
-Token: ' tests' (ID: 7032), Prob: 0.0013
-Token: ' alpha' (ID: 8287), Prob: 0.0013
-Token: ' absence' (ID: 19265), Prob: 0.0013
-Token: ' lab' (ID: 10072), Prob: 0.0012
-Token: ' fact' (ID: 2097), Prob: 0.0011
-Token: ' tested' (ID: 12510), Prob: 0.0011
-Token: ' recent' (ID: 3213), Prob: 0.0010
-Token: ' genome' (ID: 32769), Prob: 0.0010
-Token: ' result' (ID: 1102), Prob: 0.0009
-Token: ' found' (ID: 1730), Prob: 0.0009
-Token: ' protein' (ID: 12833), Prob: 0.0009
-Token: ' detection' (ID: 17984), Prob: 0.0009
-Token: ' initial' (ID: 2856), Prob: 0.0009
-Token: ' university' (ID: 12103), Prob: 0.0009
-Token: ' bacteria' (ID: 23157), Prob: 0.0009
-Token: ' health' (ID: 2820), Prob: 0.0008
-Token: ' information' (ID: 1995), Prob: 0.0008
-Token: ' available' (ID: 2500), Prob: 0.0008
-Token: ' infection' (ID: 18873), Prob: 0.0008
-Token: ' organism' (ID: 46020), Prob: 0.0008
-Token: ' finding' (ID: 9271), Prob: 0.0007
-Token: ' genetic' (ID: 18929), Prob: 0.0007
-Token: ' human' (ID: 3738), Prob: 0.0006
-Token: ' amount' (ID: 3311), Prob: 0.0006
-Token: ' sequence' (ID: 8500), Prob: 0.0006
-Token: ' environment' (ID: 4573), Prob: 0.0005
-Token: ' mutation' (ID: 26374), Prob: 0.0005
-Token: ' present' (ID: 3042), Prob: 0.0005
-Token: ' organisms' (ID: 43204), Prob: 0.0005
-Token: ' group' (ID: 1874), Prob: 0.0005
-Token: ' previous' (ID: 3681), Prob: 0.0005
-Token: ' newly' (ID: 13631), Prob: 0.0005
-Token: ' tumor' (ID: 35154), Prob: 0.0005
-Token: ' type' (ID: 943), Prob: 0.0004
-Token: ' next' (ID: 1790), Prob: 0.0004
-Token: ' teams' (ID: 7263), Prob: 0.0004
-Token: ' observed' (ID: 13166), Prob: 0.0004
-Token: ' condition' (ID: 2971), Prob: 0.0004
-Token: ' discovered' (ID: 11105), Prob: 0.0004
-Token: ' bio' (ID: 16905), Prob: 0.0004
-Token: ' measurement' (ID: 18662), Prob: 0.0004
-Token: ' lead' (ID: 2990), Prob: 0.0004
-Token: ' question' (ID: 3405), Prob: 0.0004
-Token: ' production' (ID: 5670), Prob: 0.0004
-Token: ' find' (ID: 1477), Prob: 0.0003
-Token: ' report' (ID: 1895), Prob: 0.0003
-Token: ' three' (ID: 2326), Prob: 0.0003
-Token: ' source' (ID: 2530), Prob: 0.0003
-Token: ' currently' (ID: 5023), Prob: 0.0003
-Token: ' animal' (ID: 9864), Prob: 0.0003
-Token: ' two' (ID: 1378), Prob: 0.0003
-Token: ' control' (ID: 2524), Prob: 0.0003
+Token: ' something' (ID: 2494), Prob: 0.9844
+Token: ' etc' (ID: 4992), Prob: 0.0052
+Token: ' yes' (ID: 9834), Prob: 0.0012
+Token: ' anything' (ID: 4113), Prob: 0.0002
+Token: ' maybe' (ID: 7196), Prob: 0.0001
+Token: ' sometimes' (ID: 7025), Prob: 0.0000
+Token: ' even' (ID: 1496), Prob: 0.0000
+Token: ' someone' (ID: 4325), Prob: 0.0000
+Token: ' Something' (ID: 24656), Prob: 0.0000
+Token: ' somewhere' (ID: 14696), Prob: 0.0000
+Token: ' whatever' (ID: 8820), Prob: 0.0000
+Token: ' option' (ID: 2999), Prob: 0.0000
+Token: ' nothing' (ID: 4302), Prob: 0.0000
+Token: ' except' (ID: 3650), Prob: 0.0000
+Token: ' similar' (ID: 4428), Prob: 0.0000
+Token: ' everything' (ID: 4297), Prob: 0.0000
+Token: ' thing' (ID: 3166), Prob: 0.0000
+Token: 'something' (ID: 33331), Prob: 0.0000
+Token: ' YES' (ID: 14080), Prob: 0.0000
+Token: ' depending' (ID: 11649), Prob: 0.0000
+Token: ' also' (ID: 1083), Prob: 0.0000
+Token: ' since' (ID: 2474), Prob: 0.0000
+Token: ' things' (ID: 2513), Prob: 0.0000
+Token: ' options' (ID: 2606), Prob: 0.0000
+Token: ' possibly' (ID: 10767), Prob: 0.0000
+Token: ' another' (ID: 2441), Prob: 0.0000
+Token: ' plus' (ID: 5519), Prob: 0.0000
+Token: ' answer' (ID: 4226), Prob: 0.0000
+Token: ' okay' (ID: 16910), Prob: 0.0000
+Token: ' one' (ID: 825), Prob: 0.0000
+Token: ' two' (ID: 1378), Prob: 0.0000
+Token: ' certain' (ID: 3654), Prob: 0.0000
+Token: ' possible' (ID: 3204), Prob: 0.0000
+Token: ' som' (ID: 1757), Prob: 0.0000
+Token: ' based' (ID: 3118), Prob: 0.0000
+Token: ' three' (ID: 2326), Prob: 0.0000
+Token: ' example' (ID: 3110), Prob: 0.0000
+Token: ' sure' (ID: 2704), Prob: 0.0000
+Token: ' unless' (ID: 7241), Prob: 0.0000
+Token: ' specific' (ID: 3151), Prob: 0.0000
+Token: ' however' (ID: 4764), Prob: 0.0000
+Token: ' sorry' (ID: 14589), Prob: 0.0000
+Token: ' enough' (ID: 3322), Prob: 0.0000
+Token: ' otherwise' (ID: 5937), Prob: 0.0000
+Token: ' perhaps' (ID: 8365), Prob: 0.0000
 
 == Ranked Concepts (Clusters) ==
-Rank 1 | Concept Score: 0.4824
-  Tokens: [' enzyme', ' fungus', ' enzymes', ' fungal', ' fungi', ' virus', ' genome', ' protein', ' bacteria', ' infection', ' organism', ' genetic', ' mutation', ' organisms', ' bio', ' animal']
-Rank 2 | Concept Score: 0.1973
-  Tokens: [' researchers', ' research', ' scientists', ' study', ' researcher', ' scientist', ' university']
-Rank 3 | Concept Score: 0.0479
-  Tokens: [' current', ' existing', ' new', ' latest', ' recent', ' available', ' previous', ' newly', ' next', ' currently']
-Rank 4 | Concept Score: 0.0432
-  Tokens: [' team', ' field', ' sequence', ' group', ' teams']
-Rank 5 | Concept Score: 0.0265
-  Tokens: [' experiment', ' experimental', ' experiments', ' laboratory', ' lab']
-Rank 6 | Concept Score: 0.0233
-  Tokens: [' disease', ' patients', ' patient', ' health', ' tumor']
-Rank 7 | Concept Score: 0.0172
-  Tokens: [' discovery', ' findings', ' found', ' detection', ' finding', ' observed', ' discovered', ' find']
-Rank 8 | Concept Score: 0.0140
-  Tokens: [' presence', ' lack', ' absence', ' present']
-Rank 9 | Concept Score: 0.0135
-  Tokens: [' sample', ' samples']
-Rank 10 | Concept Score: 0.0132
-  Tokens: [' results', ' result']
-Rank 11 | Concept Score: 0.0129
-  Tokens: [' actual', ' original', ' beta', ' first', ' real', ' alpha', ' initial', ' three', ' two']
-Rank 12 | Concept Score: 0.0123
-  Tokens: [' problem', ' data', ' fact', ' information', ' condition', ' question']
-Rank 13 | Concept Score: 0.0103
-  Tokens: [' test', ' testing', ' tests', ' tested']
-Rank 14 | Concept Score: 0.0036
-  Tokens: [' evidence', ' analysis']
-Rank 15 | Concept Score: 0.0010
-  Tokens: [' production', ' source', ' control']
-Rank 16 | Concept Score: 0.0008
-  Tokens: [' type', ' lead']
-Rank 17 | Concept Score: 0.0006
-  Tokens: [' human']
-Rank 18 | Concept Score: 0.0006
-  Tokens: [' amount']
-Rank 19 | Concept Score: 0.0005
-  Tokens: [' environment']
-Rank 20 | Concept Score: 0.0004
-  Tokens: [' measurement']
-Rank 21 | Concept Score: 0.0003
-  Tokens: [' report']
+Rank 1 | Centroid: ' something' | Score: 0.9844
+  Tokens: [' something', ' someone', ' Something', ' somewhere', 'something']
+Rank 2 | Centroid: ' certain' | Score: 0.0052
+  Tokens: [' etc', ' similar', ' certain', ' specific']
+Rank 3 | Centroid: ' yes' | Score: 0.0012
+  Tokens: [' yes', ' YES', ' sure']
+Rank 4 | Centroid: ' things' | Score: 0.0002
+  Tokens: [' anything', ' whatever', ' nothing', ' everything', ' thing', ' things']
+Rank 5 | Centroid: ' perhaps' | Score: 0.0001
+  Tokens: [' maybe', ' sometimes', ' possibly', ' possible', ' perhaps']
+Rank 6 | Centroid: ' even' | Score: 0.0000
+  Tokens: [' even']
+Rank 7 | Centroid: ' option' | Score: 0.0000
+  Tokens: [' option', ' options', ' answer']
+Rank 8 | Centroid: ' except' | Score: 0.0000
+  Tokens: [' except', ' since', ' plus', ' unless']
+Rank 9 | Centroid: ' two' | Score: 0.0000
+  Tokens: [' one', ' two', ' three']
+Rank 10 | Centroid: ' depending' | Score: 0.0000
+  Tokens: [' depending', ' based']
+Rank 11 | Centroid: ' another' | Score: 0.0000
+  Tokens: [' another', ' som']
+Rank 12 | Centroid: ' also' | Score: 0.0000
+  Tokens: [' also', ' example']
+Rank 13 | Centroid: ' okay' | Score: 0.0000
+  Tokens: [' okay', ' sorry']
+Rank 14 | Centroid: ' however' | Score: 0.0000
+  Tokens: [' however', ' otherwise']
+Rank 15 | Centroid: ' enough' | Score: 0.0000
+  Tokens: [' enough']
 
-**Chosen Concept:** Rank 1 with score 0.4824
+**Chosen Concept:** Rank 1

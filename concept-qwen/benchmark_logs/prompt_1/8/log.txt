@@ -1,0 +1,137 @@
+--- Step 8 Log ---
+
+== Filtered Candidates ==
+Token: ' paragraph' (ID: 14311), Prob: 0.9922
+Token: ' sentence' (ID: 11652), Prob: 0.0022
+Token: ' line' (ID: 1555), Prob: 0.0001
+Token: ' long' (ID: 1293), Prob: 0.0001
+Token: ' powerful' (ID: 7988), Prob: 0.0001
+Token: ' coherent' (ID: 55787), Prob: 0.0000
+Token: ' continuous' (ID: 19259), Prob: 0.0000
+Token: ' short' (ID: 2805), Prob: 0.0000
+Token: ' para' (ID: 3348), Prob: 0.0000
+Token: ' well' (ID: 1632), Prob: 0.0000
+Token: ' paragraphs' (ID: 42643), Prob: 0.0000
+Token: '-line' (ID: 8447), Prob: 0.0000
+Token: ' Paragraph' (ID: 49351), Prob: 0.0000
+Token: ' English' (ID: 6364), Prob: 0.0000
+Token: ' extended' (ID: 11577), Prob: 0.0000
+Token: ' persuasive' (ID: 65243), Prob: 0.0000
+Token: ' strong' (ID: 3746), Prob: 0.0000
+Token: ' flowing' (ID: 35512), Prob: 0.0000
+Token: ' large' (ID: 3460), Prob: 0.0000
+Token: ' concise' (ID: 63594), Prob: 0.0000
+Token: ' par' (ID: 1346), Prob: 0.0000
+Token: 'paragraph' (ID: 27727), Prob: 0.0000
+Token: ' full' (ID: 2480), Prob: 0.0000
+Token: ' meaningful' (ID: 22414), Prob: 0.0000
+Token: ' romantic' (ID: 23467), Prob: 0.0000
+Token: ' cohesive' (ID: 86416), Prob: 0.0000
+Token: ' emotional' (ID: 14269), Prob: 0.0000
+Token: ' passage' (ID: 21085), Prob: 0.0000
+Token: '-length' (ID: 29325), Prob: 0.0000
+Token: ' captivating' (ID: 85182), Prob: 0.0000
+Token: ' essay' (ID: 8895), Prob: 0.0000
+Token: ' conversation' (ID: 10435), Prob: 0.0000
+Token: ' complete' (ID: 4583), Prob: 0.0000
+Token: '_paragraph' (ID: 96713), Prob: 0.0000
+Token: ' big' (ID: 2409), Prob: 0.0000
+Token: ' tweet' (ID: 11809), Prob: 0.0000
+Token: ' phrase' (ID: 17133), Prob: 0.0000
+Token: ' quote' (ID: 12641), Prob: 0.0000
+Token: ' comprehensive' (ID: 15817), Prob: 0.0000
+Token: ' thought' (ID: 3381), Prob: 0.0000
+Token: ' dramatic' (ID: 21771), Prob: 0.0000
+Token: '-long' (ID: 23791), Prob: 0.0000
+Token: ' passionate' (ID: 24425), Prob: 0.0000
+Token: ' compelling' (ID: 28622), Prob: 0.0000
+Token: ' poem' (ID: 32794), Prob: 0.0000
+Token: ' extremely' (ID: 9016), Prob: 0.0000
+Token: ' written' (ID: 5326), Prob: 0.0000
+Token: ' mon' (ID: 1615), Prob: 0.0000
+Token: ' piece' (ID: 6573), Prob: 0.0000
+Token: '-person' (ID: 28045), Prob: 0.0000
+Token: ' highly' (ID: 7548), Prob: 0.0000
+Token: ' bold' (ID: 13939), Prob: 0.0000
+Token: ' natural' (ID: 5810), Prob: 0.0000
+Token: ' narrative' (ID: 19221), Prob: 0.0000
+Token: ' metaphor' (ID: 45350), Prob: 0.0000
+Token: ' perfectly' (ID: 13942), Prob: 0.0000
+Token: ' lengthy' (ID: 34206), Prob: 0.0000
+Token: ' uninterrupted' (ID: 98150), Prob: 0.0000
+Token: ' one' (ID: 825), Prob: 0.0000
+Token: ' message' (ID: 1943), Prob: 0.0000
+Token: ' page' (ID: 2150), Prob: 0.0000
+Token: ' really' (ID: 2167), Prob: 0.0000
+Token: ' story' (ID: 3364), Prob: 0.0000
+Token: '-word' (ID: 37328), Prob: 0.0000
+Token: ' motivational' (ID: 87359), Prob: 0.0000
+Token: ' parallel' (ID: 15279), Prob: 0.0000
+Token: '-minded' (ID: 33323), Prob: 0.0000
+Token: ' enthusiastic' (ID: 41602), Prob: 0.0000
+Token: ' humorous' (ID: 69846), Prob: 0.0000
+Token: ' perfect' (ID: 4727), Prob: 0.0000
+Token: ' inspirational' (ID: 56214), Prob: 0.0000
+Token: ' immersive' (ID: 64180), Prob: 0.0000
+Token: ' heartfelt' (ID: 83111), Prob: 0.0000
+Token: ' single' (ID: 3175), Prob: 0.0000
+Token: ' statement' (ID: 5114), Prob: 0.0000
+Token: ' example' (ID: 3110), Prob: 0.0000
+Token: ' beautiful' (ID: 6233), Prob: 0.0000
+Token: ' overly' (ID: 38432), Prob: 0.0000
+Token: ' person' (ID: 1697), Prob: 0.0000
+Token: ' response' (ID: 2033), Prob: 0.0000
+Token: ' completely' (ID: 6587), Prob: 0.0000
+Token: ' engaging' (ID: 22570), Prob: 0.0000
+Token: ' psychological' (ID: 23187), Prob: 0.0000
+Token: ' elaborate' (ID: 35967), Prob: 0.0000
+Token: ' continuation' (ID: 41171), Prob: 0.0000
+Token: ' poetic' (ID: 75434), Prob: 0.0000
+
+== Ranked Concepts (Clusters) ==
+Rank 1 | Centroid: ' paragraph' | Score: 0.9922
+  Tokens: [' paragraph', ' paragraphs', ' Paragraph', 'paragraph', '_paragraph']
+Rank 2 | Centroid: ' phrase' | Score: 0.0022
+  Tokens: [' sentence', ' essay', ' tweet', ' phrase', ' quote', ' poem', ' statement']
+Rank 3 | Centroid: ' lengthy' | Score: 0.0002
+  Tokens: [' long', ' short', ' extended', '-length', '-long', ' lengthy']
+Rank 4 | Centroid: ' line' | Score: 0.0001
+  Tokens: [' line', '-line']
+Rank 5 | Centroid: ' continuous' | Score: 0.0001
+  Tokens: [' coherent', ' continuous', ' cohesive', ' uninterrupted', ' continuation']
+Rank 6 | Centroid: ' extremely' | Score: 0.0001
+  Tokens: [' powerful', ' well', ' extremely', ' highly', ' really', ' beautiful', ' overly']
+Rank 7 | Centroid: ' captivating' | Score: 0.0000
+  Tokens: [' persuasive', ' meaningful', ' captivating', ' dramatic', ' passionate', ' compelling', ' motivational', ' enthusiastic', ' humorous', ' inspirational', ' immersive', ' heartfelt', ' engaging']
+Rank 8 | Centroid: ' par' | Score: 0.0000
+  Tokens: [' para', ' par', ' parallel']
+Rank 9 | Centroid: ' large' | Score: 0.0000
+  Tokens: [' strong', ' large', ' big', ' bold']
+Rank 10 | Centroid: ' English' | Score: 0.0000
+  Tokens: [' English', ' written']
+Rank 11 | Centroid: ' emotional' | Score: 0.0000
+  Tokens: [' romantic', ' emotional', ' psychological', ' poetic']
+Rank 12 | Centroid: ' comprehensive' | Score: 0.0000
+  Tokens: [' concise', ' comprehensive', ' elaborate']
+Rank 13 | Centroid: ' narrative' | Score: 0.0000
+  Tokens: [' conversation', ' narrative', ' metaphor', ' story']
+Rank 14 | Centroid: ' flowing' | Score: 0.0000
+  Tokens: [' flowing']
+Rank 15 | Centroid: ' full' | Score: 0.0000
+  Tokens: [' full', ' complete']
+Rank 16 | Centroid: ' single' | Score: 0.0000
+  Tokens: [' mon', ' natural', ' one', ' single']
+Rank 17 | Centroid: ' message' | Score: 0.0000
+  Tokens: [' thought', ' message', ' example', ' response']
+Rank 18 | Centroid: ' passage' | Score: 0.0000
+  Tokens: [' passage', ' page']
+Rank 19 | Centroid: ' perfectly' | Score: 0.0000
+  Tokens: [' perfectly', ' perfect', ' completely']
+Rank 20 | Centroid: ' piece' | Score: 0.0000
+  Tokens: [' piece', '-minded']
+Rank 21 | Centroid: '-person' | Score: 0.0000
+  Tokens: ['-person', ' person']
+Rank 22 | Centroid: '-word' | Score: 0.0000
+  Tokens: ['-word']
+
+**Chosen Concept:** Rank 1

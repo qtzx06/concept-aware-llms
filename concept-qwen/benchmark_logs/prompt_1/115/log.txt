@@ -1,110 +1,144 @@
 --- Step 115 Log ---
 
 == Filtered Candidates ==
-Token: ' cry' (ID: 15729), Prob: 0.9922
-Token: ' crying' (ID: 30199), Prob: 0.0041
-Token: ' cried' (ID: 38069), Prob: 0.0009
-Token: ' Cry' (ID: 42705), Prob: 0.0001
-Token: ' etc' (ID: 4992), Prob: 0.0001
-Token: ' cries' (ID: 57745), Prob: 0.0001
-Token: 'cry' (ID: 61138), Prob: 0.0001
-Token: ' try' (ID: 1430), Prob: 0.0000
-Token: ' love' (ID: 2948), Prob: 0.0000
-Token: ' wait' (ID: 3783), Prob: 0.0000
-Token: ' write' (ID: 3270), Prob: 0.0000
-Token: ' repeat' (ID: 13153), Prob: 0.0000
-Token: ' please' (ID: 4486), Prob: 0.0000
-Token: ' cro' (ID: 14093), Prob: 0.0000
-Token: ' sorry' (ID: 14589), Prob: 0.0000
-Token: ' scream' (ID: 45689), Prob: 0.0000
-Token: ' break' (ID: 1438), Prob: 0.0000
-Token: ' thank' (ID: 9702), Prob: 0.0000
-Token: ' catch' (ID: 2287), Prob: 0.0000
-Token: ' yeah' (ID: 21639), Prob: 0.0000
-Token: ' create' (ID: 1855), Prob: 0.0000
-Token: ' cough' (ID: 39600), Prob: 0.0000
-Token: ' ask' (ID: 2548), Prob: 0.0000
-Token: ' die' (ID: 2746), Prob: 0.0000
-Token: ' lie' (ID: 10246), Prob: 0.0000
-Token: ' cow' (ID: 19362), Prob: 0.0000
-Token: ' tears' (ID: 23139), Prob: 0.0000
-Token: ' drip' (ID: 72499), Prob: 0.0000
-Token: ' tear' (ID: 17576), Prob: 0.0000
-Token: ' sigh' (ID: 30138), Prob: 0.0000
-Token: ' yes' (ID: 9834), Prob: 0.0000
-Token: ' cri' (ID: 27558), Prob: 0.0000
-Token: ' fall' (ID: 4399), Prob: 0.0000
-Token: ' cheer' (ID: 25032), Prob: 0.0000
-Token: ' count' (ID: 1760), Prob: 0.0000
-Token: ' sing' (ID: 7780), Prob: 0.0000
-Token: ' sad' (ID: 12421), Prob: 0.0000
-Token: ' tie' (ID: 18131), Prob: 0.0000
-Token: ' awe' (ID: 50417), Prob: 0.0000
-Token: ' end' (ID: 835), Prob: 0.0000
-Token: ' pain' (ID: 6646), Prob: 0.0000
-Token: ' baby' (ID: 8770), Prob: 0.0000
-Token: ' dry' (ID: 9058), Prob: 0.0000
-Token: ' add' (ID: 912), Prob: 0.0000
-Token: ' let' (ID: 1077), Prob: 0.0000
-Token: ' feel' (ID: 2666), Prob: 0.0000
-Token: ' joy' (ID: 15888), Prob: 0.0000
-Token: ' climax' (ID: 70195), Prob: 0.0000
-Token: ' care' (ID: 2453), Prob: 0.0000
-Token: ' maybe' (ID: 7196), Prob: 0.0000
-Token: ' tired' (ID: 19227), Prob: 0.0000
-Token: ' goodbye' (ID: 46455), Prob: 0.0000
-Token: ' crowd' (ID: 13428), Prob: 0.0000
-Token: ' one' (ID: 825), Prob: 0.0000
-Token: ' shout' (ID: 41123), Prob: 0.0000
+Token: ' sadness' (ID: 50878), Prob: 0.2734
+Token: ' overwhelm' (ID: 95748), Prob: 0.0889
+Token: ' overwhelming' (ID: 22024), Prob: 0.0540
+Token: ' loss' (ID: 4709), Prob: 0.0420
+Token: ' despair' (ID: 45896), Prob: 0.0121
+Token: ' crying' (ID: 30199), Prob: 0.0083
+Token: ' sorrow' (ID: 57496), Prob: 0.0083
+Token: ' loneliness' (ID: 73940), Prob: 0.0064
+Token: ' losing' (ID: 13188), Prob: 0.0057
+Token: ' overwhelmed' (ID: 42106), Prob: 0.0050
+Token: ' empt' (ID: 53069), Prob: 0.0050
+Token: ' tears' (ID: 23139), Prob: 0.0039
+Token: ' emotional' (ID: 14269), Prob: 0.0022
+Token: ' suff' (ID: 8489), Prob: 0.0021
+Token: ' exhaustion' (ID: 69563), Prob: 0.0021
+Token: ' grief' (ID: 37284), Prob: 0.0018
+Token: ' devastation' (ID: 81915), Prob: 0.0015
+Token: ' longing' (ID: 78322), Prob: 0.0014
+Token: ' vulnerability' (ID: 33004), Prob: 0.0013
+Token: ' feeling' (ID: 8266), Prob: 0.0011
+Token: ' help' (ID: 1492), Prob: 0.0010
+Token: ' deep' (ID: 5538), Prob: 0.0010
+Token: ' emotion' (ID: 19772), Prob: 0.0008
+Token: ' pain' (ID: 6646), Prob: 0.0007
+Token: ' intense' (ID: 18894), Prob: 0.0007
+Token: ' chaos' (ID: 26915), Prob: 0.0006
+Token: ' heart' (ID: 4746), Prob: 0.0005
+Token: ' desperation' (ID: 73324), Prob: 0.0005
+Token: ' drowning' (ID: 73437), Prob: 0.0005
+Token: ' confusion' (ID: 21340), Prob: 0.0004
+Token: ' immense' (ID: 37783), Prob: 0.0004
+Token: ' melanch' (ID: 86063), Prob: 0.0004
+Token: ' joy' (ID: 15888), Prob: 0.0003
+Token: ' distress' (ID: 34004), Prob: 0.0003
+Token: ' something' (ID: 2494), Prob: 0.0003
+Token: ' shock' (ID: 10755), Prob: 0.0003
+Token: ' missing' (ID: 7402), Prob: 0.0003
+Token: ' tear' (ID: 17576), Prob: 0.0003
+Token: ' depression' (ID: 18210), Prob: 0.0003
+Token: ' weakness' (ID: 23078), Prob: 0.0002
+Token: ' love' (ID: 2948), Prob: 0.0002
+Token: ' wanting' (ID: 19211), Prob: 0.0002
+Token: ' profound' (ID: 27155), Prob: 0.0002
+Token: ' struggle' (ID: 14651), Prob: 0.0002
+Token: ' letting' (ID: 20194), Prob: 0.0002
+Token: ' sob' (ID: 11493), Prob: 0.0002
+Token: ' needing' (ID: 32821), Prob: 0.0002
+Token: ' solitude' (ID: 98444), Prob: 0.0002
+Token: ' emotions' (ID: 21261), Prob: 0.0002
+Token: ' inade' (ID: 39106), Prob: 0.0002
+Token: ' frustration' (ID: 31986), Prob: 0.0001
+Token: ' des' (ID: 939), Prob: 0.0001
+Token: ' lost' (ID: 5558), Prob: 0.0001
+Token: ' extreme' (ID: 14226), Prob: 0.0001
+Token: ' turmoil' (ID: 62255), Prob: 0.0001
+Token: ' sor' (ID: 24534), Prob: 0.0001
+Token: ' happiness' (ID: 23009), Prob: 0.0001
+Token: ' disappointment' (ID: 40598), Prob: 0.0001
+Token: ' breaking' (ID: 14719), Prob: 0.0001
+Token: ' deprivation' (ID: 68664), Prob: 0.0001
+Token: ' tearing' (ID: 55736), Prob: 0.0001
+Token: ' disbelief' (ID: 73254), Prob: 0.0001
+Token: ' empty' (ID: 4287), Prob: 0.0001
+Token: ' failure' (ID: 7901), Prob: 0.0001
+Token: ' inability' (ID: 37450), Prob: 0.0001
+Token: ' wide' (ID: 6884), Prob: 0.0001
+Token: ' anxiety' (ID: 18056), Prob: 0.0001
+Token: ' anger' (ID: 19234), Prob: 0.0001
+Token: ' anguish' (ID: 94922), Prob: 0.0001
+Token: ' hope' (ID: 3900), Prob: 0.0001
+Token: ' empathy' (ID: 47351), Prob: 0.0001
+Token: ' pouring' (ID: 50413), Prob: 0.0001
+Token: ' low' (ID: 3347), Prob: 0.0001
+Token: ' inner' (ID: 9179), Prob: 0.0001
+Token: ' endless' (ID: 25678), Prob: 0.0001
+Token: ' realization' (ID: 48703), Prob: 0.0001
+Token: ' getting' (ID: 3709), Prob: 0.0001
+Token: ' experiencing' (ID: 24084), Prob: 0.0001
+Token: ' total' (ID: 2790), Prob: 0.0000
+Token: ' complete' (ID: 4583), Prob: 0.0000
+Token: ' hurt' (ID: 12898), Prob: 0.0000
+Token: ' struggling' (ID: 19962), Prob: 0.0000
+Token: ' fatigue' (ID: 35609), Prob: 0.0000
+Token: ' lack' (ID: 6853), Prob: 0.0000
+Token: ' isolation' (ID: 30298), Prob: 0.0000
+Token: ' expressing' (ID: 36710), Prob: 0.0000
+Token: ' nostalgia' (ID: 64775), Prob: 0.0000
+Token: ' betrayal' (ID: 67276), Prob: 0.0000
+Token: ' trembling' (ID: 91988), Prob: 0.0000
 
 == Ranked Concepts (Clusters) ==
-Rank 1 | Concept Score: 0.9961
-  Tokens: [' cry', ' crying', ' cried', ' Cry', ' cries', 'cry', ' cri']
-Rank 2 | Concept Score: 0.0001
-  Tokens: [' etc', ' baby', ' maybe']
-Rank 3 | Concept Score: 0.0001
-  Tokens: [' try', ' write', ' ask', ' let']
-Rank 4 | Concept Score: 0.0000
-  Tokens: [' love', ' pain', ' joy', ' care']
-Rank 5 | Concept Score: 0.0000
-  Tokens: [' wait', ' feel']
-Rank 6 | Concept Score: 0.0000
-  Tokens: [' repeat', ' break']
-Rank 7 | Concept Score: 0.0000
-  Tokens: [' please', ' sorry']
-Rank 8 | Concept Score: 0.0000
-  Tokens: [' die', ' lie', ' fall', ' tie']
-Rank 9 | Concept Score: 0.0000
-  Tokens: [' scream', ' sigh', ' shout']
-Rank 10 | Concept Score: 0.0000
-  Tokens: [' cro', ' cow']
-Rank 11 | Concept Score: 0.0000
-  Tokens: [' create', ' add', ' one']
-Rank 12 | Concept Score: 0.0000
-  Tokens: [' yeah', ' yes']
-Rank 13 | Concept Score: 0.0000
-  Tokens: [' tears', ' tear']
-Rank 14 | Concept Score: 0.0000
-  Tokens: [' thank', ' goodbye']
-Rank 15 | Concept Score: 0.0000
-  Tokens: [' drip', ' dry']
-Rank 16 | Concept Score: 0.0000
-  Tokens: [' cough', ' tired']
-Rank 17 | Concept Score: 0.0000
-  Tokens: [' catch']
-Rank 18 | Concept Score: 0.0000
-  Tokens: [' awe', ' crowd']
-Rank 19 | Concept Score: 0.0000
-  Tokens: [' cheer']
-Rank 20 | Concept Score: 0.0000
-  Tokens: [' count']
-Rank 21 | Concept Score: 0.0000
-  Tokens: [' sing']
-Rank 22 | Concept Score: 0.0000
-  Tokens: [' sad']
-Rank 23 | Concept Score: 0.0000
-  Tokens: [' end']
-Rank 24 | Concept Score: 0.0000
-  Tokens: [' climax']
+Rank 1 | Centroid: ' sorrow' | Score: 0.2852
+  Tokens: [' sadness', ' sorrow', ' grief', ' melanch', ' happiness', ' anger', ' anguish']
+Rank 2 | Centroid: ' overwhelm' | Score: 0.1475
+  Tokens: [' overwhelm', ' overwhelming', ' overwhelmed']
+Rank 3 | Centroid: ' lost' | Score: 0.0479
+  Tokens: [' loss', ' losing', ' lost']
+Rank 4 | Centroid: ' despair' | Score: 0.0193
+  Tokens: [' despair', ' loneliness', ' desperation', ' solitude', ' disbelief', ' nostalgia']
+Rank 5 | Centroid: ' tear' | Score: 0.0126
+  Tokens: [' crying', ' tears', ' tear', ' tearing']
+Rank 6 | Centroid: ' empt' | Score: 0.0051
+  Tokens: [' empt', ' empty']
+Rank 7 | Centroid: ' emotions' | Score: 0.0044
+  Tokens: [' emotional', ' feeling', ' emotion', ' emotions', ' empathy']
+Rank 8 | Centroid: ' fatigue' | Score: 0.0035
+  Tokens: [' exhaustion', ' vulnerability', ' deprivation', ' fatigue']
+Rank 9 | Centroid: ' profound' | Score: 0.0025
+  Tokens: [' deep', ' intense', ' immense', ' profound', ' extreme', ' wide', ' low', ' endless']
+Rank 10 | Centroid: ' total' | Score: 0.0021
+  Tokens: [' help', ' heart', ' something', ' des', ' inner', ' total', ' complete']
+Rank 11 | Centroid: ' suff' | Score: 0.0021
+  Tokens: [' suff']
+Rank 12 | Centroid: ' devastation' | Score: 0.0016
+  Tokens: [' devastation', ' turmoil']
+Rank 13 | Centroid: ' longing' | Score: 0.0014
+  Tokens: [' longing']
+Rank 14 | Centroid: ' chaos' | Score: 0.0013
+  Tokens: [' chaos', ' confusion', ' shock']
+Rank 15 | Centroid: ' pain' | Score: 0.0011
+  Tokens: [' pain', ' distress', ' hurt']
+Rank 16 | Centroid: ' getting' | Score: 0.0008
+  Tokens: [' wanting', ' letting', ' needing', ' breaking', ' pouring', ' getting', ' experiencing', ' expressing']
+Rank 17 | Centroid: ' struggling' | Score: 0.0007
+  Tokens: [' weakness', ' struggle', ' inade', ' inability', ' struggling']
+Rank 18 | Centroid: ' joy' | Score: 0.0006
+  Tokens: [' joy', ' love', ' hope']
+Rank 19 | Centroid: ' drowning' | Score: 0.0006
+  Tokens: [' drowning', ' trembling']
+Rank 20 | Centroid: ' lack' | Score: 0.0004
+  Tokens: [' missing', ' failure', ' lack']
+Rank 21 | Centroid: ' depression' | Score: 0.0003
+  Tokens: [' depression', ' anxiety']
+Rank 22 | Centroid: ' disappointment' | Score: 0.0003
+  Tokens: [' frustration', ' disappointment', ' betrayal']
+Rank 23 | Centroid: ' sob' | Score: 0.0003
+  Tokens: [' sob', ' sor']
+Rank 24 | Centroid: ' realization' | Score: 0.0001
+  Tokens: [' realization', ' isolation']
 
-**Chosen Concept:** Rank 1 with score 0.9961
+**Chosen Concept:** Rank 1

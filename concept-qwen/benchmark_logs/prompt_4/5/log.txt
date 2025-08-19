@@ -1,44 +1,71 @@
 --- Step 5 Log ---
 
 == Filtered Candidates ==
-Token: ' Secrets' (ID: 52079), Prob: 0.0022
-Token: ' Whether' (ID: 13139), Prob: 0.0021
-Token: ' First' (ID: 5512), Prob: 0.0011
-Token: ' Good' (ID: 7684), Prob: 0.0011
-Token: ' Something' (ID: 24656), Prob: 0.0011
-Token: ' One' (ID: 3776), Prob: 0.0009
-Token: ' Love' (ID: 10689), Prob: 0.0009
-Token: ' Things' (ID: 20093), Prob: 0.0008
-Token: ' True' (ID: 3007), Prob: 0.0007
-Token: ' Every' (ID: 7209), Prob: 0.0007
-Token: ' Life' (ID: 9414), Prob: 0.0006
-Token: ' Right' (ID: 10083), Prob: 0.0006
-Token: ' Everything' (ID: 20094), Prob: 0.0006
-Token: ' Emp' (ID: 13409), Prob: 0.0005
-Token: ' Better' (ID: 23434), Prob: 0.0005
+Token: ' one' (ID: 825), Prob: 0.0078
+Token: ' three' (ID: 2326), Prob: 0.0050
+Token: ' two' (ID: 1378), Prob: 0.0030
+Token: ' names' (ID: 5036), Prob: 0.0030
+Token: ' name' (ID: 829), Prob: 0.0022
+Token: ' specific' (ID: 3151), Prob: 0.0018
+Token: ' five' (ID: 4236), Prob: 0.0015
+Token: ' something' (ID: 2494), Prob: 0.0014
+Token: ' exactly' (ID: 6896), Prob: 0.0013
+Token: ' four' (ID: 3040), Prob: 0.0012
+Token: ' details' (ID: 3565), Prob: 0.0010
+Token: ' children' (ID: 2841), Prob: 0.0007
+Token: ' every' (ID: 1449), Prob: 0.0006
+Token: ' child' (ID: 1682), Prob: 0.0006
+Token: ' title' (ID: 2265), Prob: 0.0005
+Token: ' everything' (ID: 4297), Prob: 0.0005
+Token: ' first' (ID: 1156), Prob: 0.0005
+Token: ' traits' (ID: 24055), Prob: 0.0005
+Token: ' points' (ID: 3501), Prob: 0.0004
+Token: ' personal' (ID: 4345), Prob: 0.0004
+Token: ' birth' (ID: 7194), Prob: 0.0004
+Token: ' examples' (ID: 10295), Prob: 0.0004
+Token: ' either' (ID: 2987), Prob: 0.0003
+Token: ' multiple' (ID: 5248), Prob: 0.0003
+Token: ' explanation' (ID: 16148), Prob: 0.0003
+Token: ' description' (ID: 4008), Prob: 0.0003
+Token: ' elements' (ID: 5424), Prob: 0.0003
+Token: ' Name' (ID: 3988), Prob: 0.0002
+Token: ' titles' (ID: 15311), Prob: 0.0002
+Token: ' NAME' (ID: 19122), Prob: 0.0002
+Token: ' named' (ID: 6941), Prob: 0.0002
+Token: ' words' (ID: 4244), Prob: 0.0002
+Token: ' reasoning' (ID: 32711), Prob: 0.0002
+Token: ' within' (ID: 2878), Prob: 0.0002
+Token: ' several' (ID: 3807), Prob: 0.0002
+Token: ' bold' (ID: 13939), Prob: 0.0002
 
 == Ranked Concepts (Clusters) ==
-Rank 1 | Concept Score: 0.0022
-  Tokens: [' Secrets']
-Rank 2 | Concept Score: 0.0021
-  Tokens: [' Whether']
-Rank 3 | Concept Score: 0.0020
-  Tokens: [' First', ' One']
-Rank 4 | Concept Score: 0.0019
-  Tokens: [' Something', ' Things']
-Rank 5 | Concept Score: 0.0016
-  Tokens: [' Good', ' Better']
-Rank 6 | Concept Score: 0.0013
-  Tokens: [' Every', ' Everything']
-Rank 7 | Concept Score: 0.0009
-  Tokens: [' Love']
-Rank 8 | Concept Score: 0.0007
-  Tokens: [' True']
-Rank 9 | Concept Score: 0.0006
-  Tokens: [' Right']
-Rank 10 | Concept Score: 0.0006
-  Tokens: [' Life']
-Rank 11 | Concept Score: 0.0005
-  Tokens: [' Emp']
+Rank 1 | Centroid: ' three' | Score: 0.0107
+  Tokens: [' three', ' two', ' five', ' four']
+Rank 2 | Centroid: ' one' | Score: 0.0082
+  Tokens: [' one', ' first']
+Rank 3 | Centroid: ' name' | Score: 0.0060
+  Tokens: [' names', ' name', ' Name', ' NAME', ' named']
+Rank 4 | Centroid: ' everything' | Score: 0.0026
+  Tokens: [' something', ' every', ' everything']
+Rank 5 | Centroid: ' elements' | Score: 0.0023
+  Tokens: [' details', ' points', ' examples', ' elements', ' words']
+Rank 6 | Centroid: ' specific' | Score: 0.0018
+  Tokens: [' specific']
+Rank 7 | Centroid: ' children' | Score: 0.0013
+  Tokens: [' children', ' child']
+Rank 8 | Centroid: ' exactly' | Score: 0.0013
+  Tokens: [' exactly']
+Rank 9 | Centroid: ' personal' | Score: 0.0008
+  Tokens: [' personal', ' birth']
+Rank 10 | Centroid: ' title' | Score: 0.0008
+  Tokens: [' title', ' titles']
+Rank 11 | Centroid: ' explanation' | Score: 0.0008
+  Tokens: [' explanation', ' description', ' reasoning']
+Rank 12 | Centroid: ' traits' | Score: 0.0007
+  Tokens: [' traits', ' bold']
+Rank 13 | Centroid: ' either' | Score: 0.0005
+  Tokens: [' either', ' within']
+Rank 14 | Centroid: ' multiple' | Score: 0.0005
+  Tokens: [' multiple', ' several']
 
-**Chosen Concept:** Rank 1 with score 0.0022
+**Chosen Concept:** Rank 1

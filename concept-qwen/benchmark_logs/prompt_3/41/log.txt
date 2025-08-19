@@ -1,0 +1,91 @@
+--- Step 41 Log ---
+
+== Filtered Candidates ==
+Token: ' old' (ID: 2310), Prob: 1.0000
+Token: ' older' (ID: 9014), Prob: 0.0003
+Token: ' young' (ID: 3908), Prob: 0.0001
+Token: ' long' (ID: 1293), Prob: 0.0000
+Token: ' elderly' (ID: 28820), Prob: 0.0000
+Token: '(old' (ID: 21972), Prob: 0.0000
+Token: 'old' (ID: 813), Prob: 0.0000
+Token: '-old' (ID: 6284), Prob: 0.0000
+Token: '	old' (ID: 61828), Prob: 0.0000
+Token: ' ancient' (ID: 13833), Prob: 0.0000
+Token: ' oldest' (ID: 23513), Prob: 0.0000
+Token: ' cold' (ID: 9255), Prob: 0.0000
+Token: ' Old' (ID: 10621), Prob: 0.0000
+Token: ' new' (ID: 501), Prob: 0.0000
+Token: '.old' (ID: 46061), Prob: 0.0000
+Token: ' tall' (ID: 16217), Prob: 0.0000
+Token: ' well' (ID: 1632), Prob: 0.0000
+Token: '_old' (ID: 21108), Prob: 0.0000
+Token: ' OLD' (ID: 64891), Prob: 0.0000
+Token: ' fast' (ID: 4937), Prob: 0.0000
+Token: ' aging' (ID: 28984), Prob: 0.0000
+Token: ' away' (ID: 3123), Prob: 0.0000
+Token: ' aged' (ID: 19749), Prob: 0.0000
+Token: ' child' (ID: 1682), Prob: 0.0000
+Token: ' large' (ID: 3460), Prob: 0.0000
+Token: ' full' (ID: 2480), Prob: 0.0000
+Token: ' slow' (ID: 6301), Prob: 0.0000
+Token: ' small' (ID: 2613), Prob: 0.0000
+Token: ' along' (ID: 3156), Prob: 0.0000
+Token: ' wide' (ID: 6884), Prob: 0.0000
+Token: ' end' (ID: 835), Prob: 0.0000
+Token: ' late' (ID: 3309), Prob: 0.0000
+Token: ' tired' (ID: 19227), Prob: 0.0000
+Token: ' strong' (ID: 3746), Prob: 0.0000
+Token: ' empty' (ID: 4287), Prob: 0.0000
+Token: ' like' (ID: 1075), Prob: 0.0000
+Token: ' age' (ID: 4231), Prob: 0.0000
+Token: ' alone' (ID: 7484), Prob: 0.0000
+Token: ' grow' (ID: 3063), Prob: 0.0000
+Token: ' rich' (ID: 9080), Prob: 0.0000
+Token: ' oil' (ID: 5590), Prob: 0.0000
+Token: ' high' (ID: 1550), Prob: 0.0000
+Token: ' close' (ID: 3265), Prob: 0.0000
+Token: ' outdated' (ID: 40526), Prob: 0.0000
+Token: ' without' (ID: 2041), Prob: 0.0000
+Token: ' always' (ID: 2677), Prob: 0.0000
+Token: ' easy' (ID: 4135), Prob: 0.0000
+Token: ' often' (ID: 3545), Prob: 0.0000
+
+== Ranked Concepts (Clusters) ==
+Rank 1 | Centroid: ' old' | Score: 1.0000
+  Tokens: [' old', '(old', 'old', '-old', '\told', ' Old', '.old', '_old', ' OLD']
+Rank 2 | Centroid: ' older' | Score: 0.0004
+  Tokens: [' older', ' elderly', ' ancient', ' oldest', ' outdated']
+Rank 3 | Centroid: ' young' | Score: 0.0001
+  Tokens: [' young', ' child']
+Rank 4 | Centroid: ' high' | Score: 0.0000
+  Tokens: [' long', ' tall', ' wide', ' strong', ' high']
+Rank 5 | Centroid: ' slow' | Score: 0.0000
+  Tokens: [' cold', ' fast', ' slow']
+Rank 6 | Centroid: ' new' | Score: 0.0000
+  Tokens: [' new', ' full']
+Rank 7 | Centroid: ' aged' | Score: 0.0000
+  Tokens: [' aging', ' aged', ' age']
+Rank 8 | Centroid: ' rich' | Score: 0.0000
+  Tokens: [' well', ' rich', ' easy']
+Rank 9 | Centroid: ' away' | Score: 0.0000
+  Tokens: [' away', ' along']
+Rank 10 | Centroid: ' large' | Score: 0.0000
+  Tokens: [' large', ' small']
+Rank 11 | Centroid: ' tired' | Score: 0.0000
+  Tokens: [' tired', ' empty']
+Rank 12 | Centroid: ' late' | Score: 0.0000
+  Tokens: [' late', ' close']
+Rank 13 | Centroid: ' alone' | Score: 0.0000
+  Tokens: [' alone', ' without']
+Rank 14 | Centroid: ' always' | Score: 0.0000
+  Tokens: [' always', ' often']
+Rank 15 | Centroid: ' end' | Score: 0.0000
+  Tokens: [' end']
+Rank 16 | Centroid: ' like' | Score: 0.0000
+  Tokens: [' like']
+Rank 17 | Centroid: ' grow' | Score: 0.0000
+  Tokens: [' grow']
+Rank 18 | Centroid: ' oil' | Score: 0.0000
+  Tokens: [' oil']
+
+**Chosen Concept:** Rank 1

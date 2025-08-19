@@ -1,41 +1,127 @@
 --- Step 9 Log ---
 
 == Filtered Candidates ==
-Token: ' Made' (ID: 18802), Prob: 0.0027
-Token: ' Choices' (ID: 78191), Prob: 0.0018
-Token: ' Makes' (ID: 36870), Prob: 0.0015
-Token: ' Make' (ID: 7405), Prob: 0.0013
-Token: ' Without' (ID: 17147), Prob: 0.0009
-Token: ' Based' (ID: 20205), Prob: 0.0007
-Token: ' Today' (ID: 11201), Prob: 0.0006
-Token: ' made' (ID: 1865), Prob: 0.0006
-Token: ' Whether' (ID: 13139), Prob: 0.0005
-Token: ' Making' (ID: 24288), Prob: 0.0005
-Token: ' Would' (ID: 18885), Prob: 0.0004
-Token: ' Choose' (ID: 22201), Prob: 0.0004
+Token: ' traits' (ID: 24055), Prob: 0.2080
+Token: ' four' (ID: 3040), Prob: 0.0596
+Token: ' points' (ID: 3501), Prob: 0.0248
+Token: ' items' (ID: 3589), Prob: 0.0171
+Token: ' elements' (ID: 5424), Prob: 0.0151
+Token: ' options' (ID: 2606), Prob: 0.0133
+Token: ' attributes' (ID: 8201), Prob: 0.0133
+Token: ' five' (ID: 4236), Prob: 0.0092
+Token: ' terms' (ID: 3793), Prob: 0.0086
+Token: ' features' (ID: 4419), Prob: 0.0086
+Token: ' categories' (ID: 11059), Prob: 0.0081
+Token: ' characteristics' (ID: 17452), Prob: 0.0076
+Token: ' words' (ID: 4244), Prob: 0.0052
+Token: ' list' (ID: 1140), Prob: 0.0036
+Token: ' details' (ID: 3565), Prob: 0.0032
+Token: ' criteria' (ID: 12890), Prob: 0.0032
+Token: ' lists' (ID: 11469), Prob: 0.0026
+Token: ' things' (ID: 2513), Prob: 0.0025
+Token: ' skills' (ID: 7361), Prob: 0.0025
+Token: ' names' (ID: 5036), Prob: 0.0020
+Token: ' three' (ID: 2326), Prob: 0.0017
+Token: ' aspects' (ID: 13566), Prob: 0.0016
+Token: ' abilities' (ID: 17541), Prob: 0.0016
+Token: ' topics' (ID: 13347), Prob: 0.0015
+Token: ' factors' (ID: 9363), Prob: 0.0012
+Token: ' qualities' (ID: 28500), Prob: 0.0012
+Token: ' keywords' (ID: 20844), Prob: 0.0012
+Token: ' requirements' (ID: 8502), Prob: 0.0011
+Token: ' six' (ID: 4743), Prob: 0.0010
+Token: ' pairs' (ID: 13530), Prob: 0.0009
+Token: ' themes' (ID: 21386), Prob: 0.0009
+Token: ' choices' (ID: 11454), Prob: 0.0008
+Token: ' concepts' (ID: 18940), Prob: 0.0008
+Token: ' characters' (ID: 5766), Prob: 0.0008
+Token: ' components' (ID: 6813), Prob: 0.0008
+Token: ' activities' (ID: 7488), Prob: 0.0008
+Token: ' listed' (ID: 10007), Prob: 0.0008
+Token: ' statements' (ID: 12239), Prob: 0.0008
+Token: ' types' (ID: 4494), Prob: 0.0007
+Token: ' properties' (ID: 5888), Prob: 0.0007
+Token: ' questions' (ID: 4755), Prob: 0.0007
+Token: ' ideas' (ID: 6708), Prob: 0.0007
+Token: ' examples' (ID: 10295), Prob: 0.0007
+Token: ' phrases' (ID: 31747), Prob: 0.0007
+Token: ' values' (ID: 2750), Prob: 0.0006
+Token: ' lines' (ID: 5128), Prob: 0.0006
+Token: ' facts' (ID: 13064), Prob: 0.0006
+Token: ' two' (ID: 1378), Prob: 0.0006
+Token: ' fields' (ID: 5043), Prob: 0.0006
+Token: ' trait' (ID: 17567), Prob: 0.0006
+Token: ' ten' (ID: 5779), Prob: 0.0005
+Token: ' descriptions' (ID: 27787), Prob: 0.0005
+Token: ' nouns' (ID: 89838), Prob: 0.0005
+Token: ' numbers' (ID: 5109), Prob: 0.0004
+Token: ' key' (ID: 1376), Prob: 0.0004
+Token: ' parameters' (ID: 5029), Prob: 0.0004
+Token: ' ingredients' (ID: 13966), Prob: 0.0004
+Token: ' methods' (ID: 5413), Prob: 0.0004
+Token: ' areas' (ID: 5671), Prob: 0.0003
+Token: ' sentences' (ID: 22870), Prob: 0.0003
+Token: ' possible' (ID: 3204), Prob: 0.0003
+Token: ' possibilities' (ID: 23607), Prob: 0.0003
+Token: ' information' (ID: 1995), Prob: 0.0003
+Token: ' conditions' (ID: 4682), Prob: 0.0003
+Token: ' clues' (ID: 42675), Prob: 0.0003
+Token: ' verbs' (ID: 61846), Prob: 0.0003
+Token: ' sub' (ID: 1186), Prob: 0.0003
+Token: ' children' (ID: 2841), Prob: 0.0003
+Token: ' subjects' (ID: 14878), Prob: 0.0003
+Token: ' principles' (ID: 16170), Prob: 0.0003
+Token: ' definitions' (ID: 17473), Prob: 0.0003
+Token: ' groups' (ID: 5203), Prob: 0.0002
+Token: ' answers' (ID: 11253), Prob: 0.0002
+Token: ' entities' (ID: 14744), Prob: 0.0002
 
 == Ranked Concepts (Clusters) ==
-Rank 1 | Concept Score: 0.0027
-  Tokens: [' Made']
-Rank 2 | Concept Score: 0.0018
-  Tokens: [' Choices']
-Rank 3 | Concept Score: 0.0017
-  Tokens: [' Make', ' Making']
-Rank 4 | Concept Score: 0.0015
-  Tokens: [' Makes']
-Rank 5 | Concept Score: 0.0009
-  Tokens: [' Without']
-Rank 6 | Concept Score: 0.0007
-  Tokens: [' Based']
-Rank 7 | Concept Score: 0.0006
-  Tokens: [' Today']
-Rank 8 | Concept Score: 0.0006
-  Tokens: [' made']
-Rank 9 | Concept Score: 0.0005
-  Tokens: [' Whether']
-Rank 10 | Concept Score: 0.0004
-  Tokens: [' Would']
-Rank 11 | Concept Score: 0.0004
-  Tokens: [' Choose']
+Rank 1 | Centroid: ' traits' | Score: 0.2402
+  Tokens: [' traits', ' attributes', ' features', ' characteristics', ' qualities', ' properties', ' trait']
+Rank 2 | Centroid: ' five' | Score: 0.0728
+  Tokens: [' four', ' five', ' three', ' six', ' two', ' ten']
+Rank 3 | Centroid: ' items' | Score: 0.0356
+  Tokens: [' items', ' elements', ' things', ' components', ' ingredients']
+Rank 4 | Centroid: ' values' | Score: 0.0265
+  Tokens: [' points', ' values', ' lines', ' numbers']
+Rank 5 | Centroid: ' possibilities' | Score: 0.0147
+  Tokens: [' options', ' choices', ' possible', ' possibilities']
+Rank 6 | Centroid: ' phrases' | Score: 0.0090
+  Tokens: [' words', ' keywords', ' statements', ' phrases', ' nouns', ' sentences', ' verbs']
+Rank 7 | Centroid: ' categories' | Score: 0.0088
+  Tokens: [' categories', ' types']
+Rank 8 | Centroid: ' terms' | Score: 0.0086
+  Tokens: [' terms']
+Rank 9 | Centroid: ' list' | Score: 0.0069
+  Tokens: [' list', ' lists', ' listed']
+Rank 10 | Centroid: ' criteria' | Score: 0.0049
+  Tokens: [' criteria', ' requirements', ' parameters', ' conditions']
+Rank 11 | Centroid: ' abilities' | Score: 0.0048
+  Tokens: [' skills', ' abilities', ' activities']
+Rank 12 | Centroid: ' clues' | Score: 0.0044
+  Tokens: [' details', ' facts', ' information', ' clues']
+Rank 13 | Centroid: ' aspects' | Score: 0.0028
+  Tokens: [' aspects', ' factors']
+Rank 14 | Centroid: ' topics' | Score: 0.0026
+  Tokens: [' topics', ' themes', ' subjects']
+Rank 15 | Centroid: ' names' | Score: 0.0020
+  Tokens: [' names']
+Rank 16 | Centroid: ' groups' | Score: 0.0020
+  Tokens: [' pairs', ' fields', ' areas', ' groups']
+Rank 17 | Centroid: ' ideas' | Score: 0.0013
+  Tokens: [' ideas', ' examples']
+Rank 18 | Centroid: ' concepts' | Score: 0.0011
+  Tokens: [' concepts', ' principles']
+Rank 19 | Centroid: ' characters' | Score: 0.0010
+  Tokens: [' characters', ' entities']
+Rank 20 | Centroid: ' children' | Score: 0.0009
+  Tokens: [' key', ' sub', ' children']
+Rank 21 | Centroid: ' questions' | Score: 0.0009
+  Tokens: [' questions', ' answers']
+Rank 22 | Centroid: ' descriptions' | Score: 0.0008
+  Tokens: [' descriptions', ' definitions']
+Rank 23 | Centroid: ' methods' | Score: 0.0004
+  Tokens: [' methods']
 
-**Chosen Concept:** Rank 1 with score 0.0027
+**Chosen Concept:** Rank 1

@@ -1,85 +1,90 @@
 --- Step 146 Log ---
 
 == Filtered Candidates ==
-Token: ' Assume' (ID: 62197), Prob: 0.9727
-Token: ' Assuming' (ID: 63964), Prob: 0.0066
-Token: ' Let' (ID: 6771), Prob: 0.0024
-Token: ' Ass' (ID: 2688), Prob: 0.0007
-Token: ' Suppose' (ID: 82610), Prob: 0.0005
-Token: ' Based' (ID: 20205), Prob: 0.0004
-Token: ' Imagine' (ID: 37791), Prob: 0.0002
-Token: ' assume' (ID: 9658), Prob: 0.0002
-Token: ' Keep' (ID: 13655), Prob: 0.0002
-Token: ' Maybe' (ID: 10696), Prob: 0.0002
-Token: ' Answer' (ID: 21806), Prob: 0.0002
-Token: ' Also' (ID: 7281), Prob: 0.0001
-Token: ' Use' (ID: 5443), Prob: 0.0001
-Token: ' Adjust' (ID: 27196), Prob: 0.0001
-Token: ' Ask' (ID: 20437), Prob: 0.0001
-Token: ' Wait' (ID: 13824), Prob: 0.0000
-Token: ' Please' (ID: 5209), Prob: 0.0000
-Token: ' Explain' (ID: 81917), Prob: 0.0000
-Token: ' Make' (ID: 7405), Prob: 0.0000
-Token: ' According' (ID: 10548), Prob: 0.0000
-Token: ' Ensure' (ID: 29279), Prob: 0.0000
-Token: 'Ass' (ID: 5615), Prob: 0.0000
-Token: ' Hmm' (ID: 88190), Prob: 0.0000
-Token: ' Choose' (ID: 22201), Prob: 0.0000
-Token: ' Buy' (ID: 11292), Prob: 0.0000
-Token: ' Think' (ID: 21149), Prob: 0.0000
-Token: ' Apply' (ID: 20552), Prob: 0.0000
-Token: ' Analy' (ID: 37427), Prob: 0.0000
-Token: ' Take' (ID: 11778), Prob: 0.0000
-Token: ' Finally' (ID: 17375), Prob: 0.0000
-Token: ' Yes' (ID: 7414), Prob: 0.0000
-Token: ' Since' (ID: 8704), Prob: 0.0000
-Token: ' Therefore' (ID: 15277), Prob: 0.0000
-Token: ' Assess' (ID: 81835), Prob: 0.0000
-Token: ' Assign' (ID: 31639), Prob: 0.0000
-Token: ' Consider' (ID: 21144), Prob: 0.0000
-Token: ' Say' (ID: 24917), Prob: 0.0000
-Token: ' Discuss' (ID: 65279), Prob: 0.0000
-Token: ' Continue' (ID: 15003), Prob: 0.0000
-Token: ' Define' (ID: 18614), Prob: 0.0000
-Token: ' Associate' (ID: 32368), Prob: 0.0000
-Token: ' However' (ID: 4354), Prob: 0.0000
+Token: 'ting' (ID: 1280), Prob: 1.0000
+Token: ' ting' (ID: 42227), Prob: 0.0000
+Token: 'ten' (ID: 1960), Prob: 0.0000
+Token: 'tings' (ID: 2065), Prob: 0.0000
+Token: 'tering' (ID: 59385), Prob: 0.0000
+Token: 'TING' (ID: 25043), Prob: 0.0000
+Token: ' letting' (ID: 20194), Prob: 0.0000
+Token: ' getting' (ID: 3709), Prob: 0.0000
+Token: ' trying' (ID: 4460), Prob: 0.0000
+Token: ' putting' (ID: 10687), Prob: 0.0000
+Token: 'ted' (ID: 6565), Prob: 0.0000
+Token: ' testing' (ID: 7497), Prob: 0.0000
+Token: 'tant' (ID: 60412), Prob: 0.0000
+Token: ' terminating' (ID: 70581), Prob: 0.0000
+Token: 'iting' (ID: 5853), Prob: 0.0000
+Token: ' talking' (ID: 7404), Prob: 0.0000
+Token: ' turning' (ID: 13054), Prob: 0.0000
+Token: ' telling' (ID: 11629), Prob: 0.0000
+Token: ' training' (ID: 4862), Prob: 0.0000
+Token: ' taking' (ID: 4633), Prob: 0.0000
+Token: ' tightening' (ID: 76780), Prob: 0.0000
+Token: 'ton' (ID: 777), Prob: 0.0000
+Token: 'tin' (ID: 55971), Prob: 0.0000
+Token: 'til' (ID: 1646), Prob: 0.0000
+Token: 'tit' (ID: 16903), Prob: 0.0000
+Token: ' thinking' (ID: 7274), Prob: 0.0000
+Token: ' changing' (ID: 10018), Prob: 0.0000
+Token: 'ping' (ID: 9989), Prob: 0.0000
+Token: ' Ting' (ID: 98532), Prob: 0.0000
+Token: ' using' (ID: 1667), Prob: 0.0000
+Token: ' translating' (ID: 66271), Prob: 0.0000
+Token: ' time' (ID: 882), Prob: 0.0000
+Token: ' ten' (ID: 5779), Prob: 0.0000
+Token: ' total' (ID: 2790), Prob: 0.0000
+Token: ' timing' (ID: 18405), Prob: 0.0000
+Token: ' touching' (ID: 30587), Prob: 0.0000
+Token: ' tent' (ID: 15632), Prob: 0.0000
+Token: 'tee' (ID: 6547), Prob: 0.0000
+Token: ' tying' (ID: 62043), Prob: 0.0000
+Token: ' tit' (ID: 8142), Prob: 0.0000
+Token: ' transferring' (ID: 49951), Prob: 0.0000
+Token: ' passing' (ID: 12299), Prob: 0.0000
+Token: ' choosing' (ID: 18774), Prob: 0.0000
+Token: 'tem' (ID: 870), Prob: 0.0000
+Token: ' saying' (ID: 5488), Prob: 0.0000
+Token: ' giving' (ID: 7086), Prob: 0.0000
+Token: ' tin' (ID: 24790), Prob: 0.0000
+Token: 'ter' (ID: 465), Prob: 0.0000
+Token: ' bringing' (ID: 12678), Prob: 0.0000
+Token: ' tally' (ID: 52295), Prob: 0.0000
+Token: ' tossing' (ID: 84051), Prob: 0.0000
+Token: ' sleeping' (ID: 21127), Prob: 0.0000
+Token: 'ing' (ID: 287), Prob: 0.0000
 
 == Ranked Concepts (Clusters) ==
-Rank 1 | Concept Score: 0.9805
-  Tokens: [' Assume', ' Assuming', ' Ass', ' assume', 'Ass']
-Rank 2 | Concept Score: 0.0029
-  Tokens: [' Let', ' Suppose']
-Rank 3 | Concept Score: 0.0007
-  Tokens: [' Based', ' Also', ' Please', ' According', ' Finally', ' Since', ' Therefore', ' However']
-Rank 4 | Concept Score: 0.0003
-  Tokens: [' Imagine', ' Think', ' Consider']
-Rank 5 | Concept Score: 0.0002
-  Tokens: [' Maybe', ' Hmm', ' Yes']
-Rank 6 | Concept Score: 0.0002
-  Tokens: [' Keep', ' Continue']
-Rank 7 | Concept Score: 0.0002
-  Tokens: [' Answer']
-Rank 8 | Concept Score: 0.0001
-  Tokens: [' Use', ' Make', ' Apply']
-Rank 9 | Concept Score: 0.0001
-  Tokens: [' Ask', ' Buy']
-Rank 10 | Concept Score: 0.0001
-  Tokens: [' Adjust']
-Rank 11 | Concept Score: 0.0001
-  Tokens: [' Explain', ' Discuss']
-Rank 12 | Concept Score: 0.0001
-  Tokens: [' Choose', ' Define']
-Rank 13 | Concept Score: 0.0001
-  Tokens: [' Analy', ' Assess']
-Rank 14 | Concept Score: 0.0000
-  Tokens: [' Wait']
-Rank 15 | Concept Score: 0.0000
-  Tokens: [' Assign', ' Associate']
-Rank 16 | Concept Score: 0.0000
-  Tokens: [' Ensure']
-Rank 17 | Concept Score: 0.0000
-  Tokens: [' Take']
-Rank 18 | Concept Score: 0.0000
-  Tokens: [' Say']
+Rank 1 | Centroid: 'ting' | Score: 1.0000
+  Tokens: ['ting', 'tings', 'TING', 'ted']
+Rank 2 | Centroid: ' ting' | Score: 0.0000
+  Tokens: [' ting', ' Ting']
+Rank 3 | Centroid: ' ten' | Score: 0.0000
+  Tokens: ['ten', ' ten', ' tent']
+Rank 4 | Centroid: 'tering' | Score: 0.0000
+  Tokens: ['tering', 'ter']
+Rank 5 | Centroid: ' putting' | Score: 0.0000
+  Tokens: [' letting', ' getting', ' trying', ' putting', ' talking', ' telling', ' taking', ' thinking', ' using', ' choosing', ' saying', ' giving', ' bringing']
+Rank 6 | Centroid: ' timing' | Score: 0.0000
+  Tokens: [' testing', ' training', ' time', ' total', ' timing']
+Rank 7 | Centroid: ' tossing' | Score: 0.0000
+  Tokens: [' terminating', ' tightening', ' touching', ' tying', ' tally', ' tossing', ' sleeping']
+Rank 8 | Centroid: ' transferring' | Score: 0.0000
+  Tokens: [' turning', ' changing', ' translating', ' transferring', ' passing']
+Rank 9 | Centroid: 'iting' | Score: 0.0000
+  Tokens: ['iting', 'ping']
+Rank 10 | Centroid: 'til' | Score: 0.0000
+  Tokens: ['ton', 'til', 'tem']
+Rank 11 | Centroid: 'tant' | Score: 0.0000
+  Tokens: ['tant']
+Rank 12 | Centroid: 'tin' | Score: 0.0000
+  Tokens: ['tin', ' tin']
+Rank 13 | Centroid: 'tit' | Score: 0.0000
+  Tokens: ['tit', ' tit']
+Rank 14 | Centroid: 'tee' | Score: 0.0000
+  Tokens: ['tee']
+Rank 15 | Centroid: 'ing' | Score: 0.0000
+  Tokens: ['ing']
 
-**Chosen Concept:** Rank 1 with score 0.9805
+**Chosen Concept:** Rank 1

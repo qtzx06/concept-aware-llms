@@ -1,108 +1,138 @@
 --- Step 92 Log ---
 
 == Filtered Candidates ==
-Token: ' time' (ID: 882), Prob: 0.9531
-Token: ' zone' (ID: 10143), Prob: 0.0369
-Token: ' region' (ID: 5537), Prob: 0.0008
-Token: ' location' (ID: 3728), Prob: 0.0008
-Token: ' timezone' (ID: 33957), Prob: 0.0007
-Token: ' hour' (ID: 6460), Prob: 0.0006
-Token: ' city' (ID: 3283), Prob: 0.0005
-Token: ' destination' (ID: 9106), Prob: 0.0004
-Token: ' date' (ID: 2400), Prob: 0.0002
-Token: ' state' (ID: 1584), Prob: 0.0001
-Token: ' area' (ID: 3082), Prob: 0.0001
-Token: ' one' (ID: 825), Prob: 0.0001
-Token: ' point' (ID: 1459), Prob: 0.0001
-Token: ' position' (ID: 2309), Prob: 0.0001
-Token: ' times' (ID: 3039), Prob: 0.0000
-Token: ' immediately' (ID: 7069), Prob: 0.0000
-Token: ' clock' (ID: 8866), Prob: 0.0000
-Token: ' floor' (ID: 6422), Prob: 0.0000
-Token: ' day' (ID: 1899), Prob: 0.0000
-Token: ' zones' (ID: 25395), Prob: 0.0000
-Token: ' directly' (ID: 5961), Prob: 0.0000
-Token: ' flight' (ID: 10971), Prob: 0.0000
-Token: ' room' (ID: 3054), Prob: 0.0000
-Token: ' longitude' (ID: 20515), Prob: 0.0000
-Token: ' space' (ID: 3550), Prob: 0.0000
-Token: ' air' (ID: 3720), Prob: 0.0000
-Token: ' airport' (ID: 16733), Prob: 0.0000
-Token: ' moment' (ID: 4445), Prob: 0.0000
-Token: ' town' (ID: 6290), Prob: 0.0000
-Token: ' instant' (ID: 9690), Prob: 0.0000
-Token: ' period' (ID: 4168), Prob: 0.0000
+Token: ' statement' (ID: 5114), Prob: 1.0000
+Token: ' sentence' (ID: 11652), Prob: 0.0000
+Token: ' answer' (ID: 4226), Prob: 0.0000
+Token: ' statements' (ID: 12239), Prob: 0.0000
+Token: ' Statement' (ID: 21756), Prob: 0.0000
+Token: ' final' (ID: 1590), Prob: 0.0000
+Token: ' story' (ID: 3364), Prob: 0.0000
+Token: ' general' (ID: 4586), Prob: 0.0000
+Token: ' stated' (ID: 10982), Prob: 0.0000
+Token: 'statement' (ID: 24184), Prob: 0.0000
+Token: ' conclusion' (ID: 16688), Prob: 0.0000
+Token: ' following' (ID: 2701), Prob: 0.0000
+Token: ' situation' (ID: 6534), Prob: 0.0000
+Token: ' paragraph' (ID: 14311), Prob: 0.0000
+Token: ' subject' (ID: 3832), Prob: 0.0000
+Token: ' original' (ID: 4024), Prob: 0.0000
+Token: ' question' (ID: 3405), Prob: 0.0000
+Token: ' student' (ID: 5458), Prob: 0.0000
+Token: ' phrase' (ID: 17133), Prob: 0.0000
+Token: ' given' (ID: 2661), Prob: 0.0000
+Token: ' choice' (ID: 5754), Prob: 0.0000
+Token: ' correct' (ID: 4396), Prob: 0.0000
+Token: ' meaning' (ID: 7290), Prob: 0.0000
+Token: ' text' (ID: 1467), Prob: 0.0000
+Token: ' table' (ID: 1965), Prob: 0.0000
+Token: ' information' (ID: 1995), Prob: 0.0000
+Token: ' response' (ID: 2033), Prob: 0.0000
+Token: ' description' (ID: 4008), Prob: 0.0000
+Token: ' time' (ID: 882), Prob: 0.0000
+Token: ' summary' (ID: 12126), Prob: 0.0000
+Token: ' number' (ID: 1372), Prob: 0.0000
+Token: ' claim' (ID: 3717), Prob: 0.0000
+Token: ' truth' (ID: 8046), Prob: 0.0000
+Token: ' study' (ID: 3920), Prob: 0.0000
+Token: ' assistant' (ID: 17847), Prob: 0.0000
+Token: ' sentiment' (ID: 25975), Prob: 0.0000
 Token: ' two' (ID: 1378), Prob: 0.0000
-Token: ' country' (ID: 3146), Prob: 0.0000
-Token: ' port' (ID: 2635), Prob: 0.0000
-Token: ' timed' (ID: 25182), Prob: 0.0000
-Token: ' continent' (ID: 31743), Prob: 0.0000
-Token: ' address' (ID: 2621), Prob: 0.0000
-Token: ' due' (ID: 4152), Prob: 0.0000
-Token: '-time' (ID: 7246), Prob: 0.0000
-Token: ' future' (ID: 3853), Prob: 0.0000
-Token: ' round' (ID: 4778), Prob: 0.0000
-Token: ' exactly' (ID: 6896), Prob: 0.0000
-Token: ' locale' (ID: 18565), Prob: 0.0000
-Token: ' timeline' (ID: 24808), Prob: 0.0000
-Token: ' place' (ID: 1992), Prob: 0.0000
-Token: ' node' (ID: 2436), Prob: 0.0000
-Token: ' ground' (ID: 4910), Prob: 0.0000
-Token: ' minute' (ID: 9383), Prob: 0.0000
-Token: ' east' (ID: 10984), Prob: 0.0000
-Token: ' side' (ID: 3108), Prob: 0.0000
-Token: ' station' (ID: 8056), Prob: 0.0000
-Token: ' territory' (ID: 17971), Prob: 0.0000
-Token: ' timing' (ID: 18405), Prob: 0.0000
-Token: ' tunnel' (ID: 25629), Prob: 0.0000
-Token: ' year' (ID: 1042), Prob: 0.0000
-Token: ' Time' (ID: 4120), Prob: 0.0000
-Token: ' Zone' (ID: 22178), Prob: 0.0000
-Token: ' via' (ID: 4566), Prob: 0.0000
-Token: ' universe' (ID: 15494), Prob: 0.0000
+Token: ' message' (ID: 1943), Prob: 0.0000
+Token: ' stat' (ID: 2793), Prob: 0.0000
+Token: ' amount' (ID: 3311), Prob: 0.0000
+Token: '	statement' (ID: 89566), Prob: 0.0000
+Token: ' change' (ID: 2297), Prob: 0.0000
+Token: ' argument' (ID: 5693), Prob: 0.0000
+Token: ' suff' (ID: 8489), Prob: 0.0000
+Token: ' structure' (ID: 5944), Prob: 0.0000
+Token: ' solution' (ID: 6291), Prob: 0.0000
+Token: ' letter' (ID: 6524), Prob: 0.0000
+Token: ' moment' (ID: 4445), Prob: 0.0000
+Token: ' scene' (ID: 6109), Prob: 0.0000
+Token: ' second' (ID: 2086), Prob: 0.0000
+Token: ' expression' (ID: 7493), Prob: 0.0000
+Token: ' wording' (ID: 60227), Prob: 0.0000
+Token: ' string' (ID: 914), Prob: 0.0000
+Token: ' previous' (ID: 3681), Prob: 0.0000
+Token: ' user' (ID: 1196), Prob: 0.0000
+Token: ' reason' (ID: 2874), Prob: 0.0000
+Token: ' prompt' (ID: 9934), Prob: 0.0000
+Token: ' motion' (ID: 11379), Prob: 0.0000
+Token: ' state' (ID: 1584), Prob: 0.0000
+Token: ' rest' (ID: 2732), Prob: 0.0000
+Token: ' standard' (ID: 5297), Prob: 0.0000
+Token: ' theme' (ID: 6912), Prob: 0.0000
+Token: ' passage' (ID: 21085), Prob: 0.0000
+Token: ' suggestion' (ID: 23776), Prob: 0.0000
+Token: ' assertion' (ID: 27419), Prob: 0.0000
+Token: ' premise' (ID: 40202), Prob: 0.0000
+Token: ' one' (ID: 825), Prob: 0.0000
+Token: 'Statement' (ID: 8636), Prob: 0.0000
+Token: ' initial' (ID: 2856), Prob: 0.0000
+Token: ' assumption' (ID: 24335), Prob: 0.0000
+Token: ' best' (ID: 1850), Prob: 0.0000
+Token: ' entire' (ID: 4453), Prob: 0.0000
+Token: ' problem' (ID: 3491), Prob: 0.0000
+Token: ' topic' (ID: 8544), Prob: 0.0000
+Token: ' reasoning' (ID: 32711), Prob: 0.0000
+Token: ' comment' (ID: 3980), Prob: 0.0000
+Token: ' image' (ID: 2168), Prob: 0.0000
+Token: ' context' (ID: 2266), Prob: 0.0000
+Token: ' beginning' (ID: 7167), Prob: 0.0000
+Token: ' construction' (ID: 8086), Prob: 0.0000
+Token: ' blank' (ID: 10113), Prob: 0.0000
+Token: ' justification' (ID: 41435), Prob: 0.0000
+Token: ' system' (ID: 1849), Prob: 0.0000
 
 == Ranked Concepts (Clusters) ==
-Rank 1 | Concept Score: 0.9531
-  Tokens: [' time', ' times', '-time', ' Time']
-Rank 2 | Concept Score: 0.0378
-  Tokens: [' zone', ' region', ' area', ' zones', ' Zone']
-Rank 3 | Concept Score: 0.0013
-  Tokens: [' location', ' destination', ' position', ' locale', ' place']
-Rank 4 | Concept Score: 0.0007
-  Tokens: [' timezone', ' longitude']
-Rank 5 | Concept Score: 0.0007
-  Tokens: [' hour', ' day', ' period', ' minute', ' year']
-Rank 6 | Concept Score: 0.0005
-  Tokens: [' city', ' town', ' country', ' continent']
-Rank 7 | Concept Score: 0.0002
-  Tokens: [' date']
-Rank 8 | Concept Score: 0.0001
-  Tokens: [' one', ' two', ' due', ' future', ' via']
-Rank 9 | Concept Score: 0.0001
-  Tokens: [' state']
-Rank 10 | Concept Score: 0.0001
-  Tokens: [' immediately', ' directly', ' exactly']
-Rank 11 | Concept Score: 0.0001
-  Tokens: [' clock', ' timed', ' timeline', ' timing']
-Rank 12 | Concept Score: 0.0001
-  Tokens: [' floor', ' room', ' ground']
-Rank 13 | Concept Score: 0.0001
-  Tokens: [' flight', ' air', ' tunnel']
-Rank 14 | Concept Score: 0.0001
-  Tokens: [' point', ' node']
-Rank 15 | Concept Score: 0.0001
-  Tokens: [' airport', ' port', ' station']
-Rank 16 | Concept Score: 0.0000
-  Tokens: [' moment', ' instant']
-Rank 17 | Concept Score: 0.0000
-  Tokens: [' round', ' side']
-Rank 18 | Concept Score: 0.0000
-  Tokens: [' space']
-Rank 19 | Concept Score: 0.0000
-  Tokens: [' territory', ' universe']
-Rank 20 | Concept Score: 0.0000
-  Tokens: [' address']
-Rank 21 | Concept Score: 0.0000
-  Tokens: [' east']
+Rank 1 | Centroid: ' statement' | Score: 1.0000
+  Tokens: [' statement', ' statements', ' Statement', ' stated', 'statement', '\tstatement', 'Statement']
+Rank 2 | Centroid: ' phrase' | Score: 0.0000
+  Tokens: [' sentence', ' paragraph', ' phrase', ' wording']
+Rank 3 | Centroid: ' answer' | Score: 0.0000
+  Tokens: [' answer', ' choice', ' response', ' solution']
+Rank 4 | Centroid: ' initial' | Score: 0.0000
+  Tokens: [' final', ' general', ' following', ' original', ' previous', ' standard', ' initial', ' beginning']
+Rank 5 | Centroid: ' assertion' | Score: 0.0000
+  Tokens: [' conclusion', ' claim', ' assistant', ' suggestion', ' assertion', ' premise', ' assumption']
+Rank 6 | Centroid: ' message' | Score: 0.0000
+  Tokens: [' story', ' message', ' image']
+Rank 7 | Centroid: ' study' | Score: 0.0000
+  Tokens: [' student', ' table', ' study']
+Rank 8 | Centroid: ' situation' | Score: 0.0000
+  Tokens: [' situation', ' scene']
+Rank 9 | Centroid: ' topic' | Score: 0.0000
+  Tokens: [' subject', ' theme', ' topic']
+Rank 10 | Centroid: ' correct' | Score: 0.0000
+  Tokens: [' given', ' correct', ' blank']
+Rank 11 | Centroid: ' motion' | Score: 0.0000
+  Tokens: [' truth', ' change', ' suff', ' motion', ' rest', ' best']
+Rank 12 | Centroid: ' question' | Score: 0.0000
+  Tokens: [' question', ' problem']
+Rank 13 | Centroid: ' information' | Score: 0.0000
+  Tokens: [' information', ' time']
+Rank 14 | Centroid: ' two' | Score: 0.0000
+  Tokens: [' two', ' second', ' user', ' one', ' entire']
+Rank 15 | Centroid: ' text' | Score: 0.0000
+  Tokens: [' text', ' letter', ' string']
+Rank 16 | Centroid: ' description' | Score: 0.0000
+  Tokens: [' description', ' expression']
+Rank 17 | Centroid: ' number' | Score: 0.0000
+  Tokens: [' number', ' amount']
+Rank 18 | Centroid: ' prompt' | Score: 0.0000
+  Tokens: [' sentiment', ' moment', ' prompt']
+Rank 19 | Centroid: ' reasoning' | Score: 0.0000
+  Tokens: [' argument', ' reason', ' reasoning', ' justification']
+Rank 20 | Centroid: ' summary' | Score: 0.0000
+  Tokens: [' summary', ' passage']
+Rank 21 | Centroid: ' meaning' | Score: 0.0000
+  Tokens: [' meaning']
+Rank 22 | Centroid: ' structure' | Score: 0.0000
+  Tokens: [' structure', ' context', ' construction', ' system']
+Rank 23 | Centroid: ' stat' | Score: 0.0000
+  Tokens: [' stat', ' state']
+Rank 24 | Centroid: ' comment' | Score: 0.0000
+  Tokens: [' comment']
 
-**Chosen Concept:** Rank 1 with score 0.9531
+**Chosen Concept:** Rank 1

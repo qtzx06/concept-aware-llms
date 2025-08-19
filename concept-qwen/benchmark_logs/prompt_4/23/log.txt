@@ -1,60 +1,60 @@
 --- Step 23 Log ---
 
 == Filtered Candidates ==
-Token: ' Today' (ID: 11201), Prob: 0.8789
-Token: ' today' (ID: 3351), Prob: 0.0059
-Token: 'Today' (ID: 15364), Prob: 0.0019
-Token: '.Today' (ID: 72672), Prob: 0.0017
-Token: ' TODAY' (ID: 40262), Prob: 0.0016
-Token: ' Tomorrow' (ID: 54996), Prob: 0.0006
-Token: ' Together' (ID: 31155), Prob: 0.0004
-Token: ' Topics' (ID: 40894), Prob: 0.0004
-Token: ' Tonight' (ID: 54214), Prob: 0.0004
-Token: ' Yesterday' (ID: 60033), Prob: 0.0003
-Token: ' Tod' (ID: 58583), Prob: 0.0003
-Token: ' Please' (ID: 5209), Prob: 0.0002
-Token: ' Children' (ID: 15044), Prob: 0.0002
-Token: ' Also' (ID: 7281), Prob: 0.0002
-Token: ' Day' (ID: 6059), Prob: 0.0002
-Token: ' Dreams' (ID: 52618), Prob: 0.0002
-Token: ' Daily' (ID: 13385), Prob: 0.0002
-Token: ' Everyone' (ID: 21455), Prob: 0.0002
-Token: ' Yes' (ID: 7414), Prob: 0.0001
-Token: ' Recently' (ID: 40996), Prob: 0.0001
-Token: ' People' (ID: 8853), Prob: 0.0001
-Token: ' Later' (ID: 24885), Prob: 0.0001
-Token: ' Tour' (ID: 14644), Prob: 0.0001
-Token: ' Let' (ID: 6771), Prob: 0.0001
-Token: ' Days' (ID: 21192), Prob: 0.0001
+Token: ' prompt' (ID: 9934), Prob: 0.4727
+Token: ' message' (ID: 1943), Prob: 0.0077
+Token: ' Prompt' (ID: 59501), Prob: 0.0014
+Token: ' list' (ID: 1140), Prob: 0.0013
+Token: ' prompts' (ID: 50932), Prob: 0.0005
+Token: ' except' (ID: 3650), Prob: 0.0004
+Token: ' example' (ID: 3110), Prob: 0.0004
+Token: ' question' (ID: 3405), Prob: 0.0004
+Token: ' answer' (ID: 4226), Prob: 0.0004
+Token: ' description' (ID: 4008), Prob: 0.0003
+Token: ' within' (ID: 2878), Prob: 0.0003
+Token: ' response' (ID: 2033), Prob: 0.0002
+Token: ' item' (ID: 1509), Prob: 0.0002
+Token: 'prompt' (ID: 40581), Prob: 0.0002
+Token: ' format' (ID: 3561), Prob: 0.0002
+Token: ' according' (ID: 4092), Prob: 0.0002
+Token: ' please' (ID: 4486), Prob: 0.0002
+Token: ' including' (ID: 2670), Prob: 0.0002
+Token: ' wording' (ID: 60227), Prob: 0.0002
+Token: ' content' (ID: 2213), Prob: 0.0002
+Token: ' title' (ID: 2265), Prob: 0.0002
+Token: ' include' (ID: 2924), Prob: 0.0001
+Token: ' bold' (ID: 13939), Prob: 0.0001
+Token: '(prompt' (ID: 72253), Prob: 0.0001
+Token: ' Please' (ID: 5209), Prob: 0.0001
+Token: ' messages' (ID: 6605), Prob: 0.0001
+Token: ' hint' (ID: 13012), Prob: 0.0001
 
 == Ranked Concepts (Clusters) ==
-Rank 1 | Concept Score: 0.8906
-  Tokens: [' Today', ' today', 'Today', '.Today', ' TODAY']
-Rank 2 | Concept Score: 0.0010
-  Tokens: [' Tomorrow', ' Tonight']
-Rank 3 | Concept Score: 0.0007
-  Tokens: [' Please', ' Also', ' Yes', ' Let']
-Rank 4 | Concept Score: 0.0004
-  Tokens: [' Day', ' Daily', ' Days']
-Rank 5 | Concept Score: 0.0004
-  Tokens: [' Topics']
-Rank 6 | Concept Score: 0.0004
-  Tokens: [' Together']
-Rank 7 | Concept Score: 0.0003
-  Tokens: [' Yesterday']
-Rank 8 | Concept Score: 0.0003
-  Tokens: [' Everyone', ' People']
-Rank 9 | Concept Score: 0.0003
-  Tokens: [' Tod']
-Rank 10 | Concept Score: 0.0002
-  Tokens: [' Children']
-Rank 11 | Concept Score: 0.0002
-  Tokens: [' Dreams']
-Rank 12 | Concept Score: 0.0001
-  Tokens: [' Recently']
-Rank 13 | Concept Score: 0.0001
-  Tokens: [' Later']
-Rank 14 | Concept Score: 0.0001
-  Tokens: [' Tour']
+Rank 1 | Centroid: ' prompt' | Score: 0.4746
+  Tokens: [' prompt', ' Prompt', ' prompts', 'prompt', '(prompt']
+Rank 2 | Centroid: ' message' | Score: 0.0078
+  Tokens: [' message', ' messages']
+Rank 3 | Centroid: ' list' | Score: 0.0015
+  Tokens: [' list', ' item']
+Rank 4 | Centroid: ' according' | Score: 0.0009
+  Tokens: [' except', ' within', ' according']
+Rank 5 | Centroid: ' question' | Score: 0.0008
+  Tokens: [' question', ' answer']
+Rank 6 | Centroid: ' description' | Score: 0.0005
+  Tokens: [' description', ' wording']
+Rank 7 | Centroid: ' example' | Score: 0.0004
+  Tokens: [' example']
+Rank 8 | Centroid: ' format' | Score: 0.0003
+  Tokens: [' format', ' bold']
+Rank 9 | Centroid: ' content' | Score: 0.0003
+  Tokens: [' content', ' title']
+Rank 10 | Centroid: ' please' | Score: 0.0003
+  Tokens: [' please', ' Please']
+Rank 11 | Centroid: ' including' | Score: 0.0003
+  Tokens: [' including', ' include']
+Rank 12 | Centroid: ' response' | Score: 0.0002
+  Tokens: [' response']
+Rank 13 | Centroid: ' hint' | Score: 0.0001
+  Tokens: [' hint']
 
-**Chosen Concept:** Rank 1 with score 0.8906
+**Chosen Concept:** Rank 1

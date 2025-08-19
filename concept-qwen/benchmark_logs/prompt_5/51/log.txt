@@ -1,0 +1,72 @@
+--- Step 51 Log ---
+
+== Filtered Candidates ==
+Token: ' could' (ID: 1410), Prob: 1.0000
+Token: ' vary' (ID: 13289), Prob: 0.0001
+Token: ' Could' (ID: 16503), Prob: 0.0001
+Token: ' may' (ID: 1231), Prob: 0.0000
+Token: ' since' (ID: 2474), Prob: 0.0000
+Token: ' would' (ID: 1035), Prob: 0.0000
+Token: ' must' (ID: 1969), Prob: 0.0000
+Token: 'could' (ID: 28077), Prob: 0.0000
+Token: ' might' (ID: 2578), Prob: 0.0000
+Token: ' count' (ID: 1760), Prob: 0.0000
+Token: ' differ' (ID: 1745), Prob: 0.0000
+Token: ' change' (ID: 2297), Prob: 0.0000
+Token: ' either' (ID: 2987), Prob: 0.0000
+Token: 'Could' (ID: 12895), Prob: 0.0000
+Token: ' cannot' (ID: 4157), Prob: 0.0000
+Token: ' need' (ID: 1184), Prob: 0.0000
+Token: ' every' (ID: 1449), Prob: 0.0000
+Token: ' contain' (ID: 6644), Prob: 0.0000
+Token: ' possibly' (ID: 10767), Prob: 0.0000
+Token: ' based' (ID: 3118), Prob: 0.0000
+Token: ' check' (ID: 1779), Prob: 0.0000
+Token: ' depend' (ID: 6761), Prob: 0.0000
+Token: ' depending' (ID: 11649), Prob: 0.0000
+Token: ' slightly' (ID: 10078), Prob: 0.0000
+Token: ' another' (ID: 2441), Prob: 0.0000
+Token: ' couple' (ID: 5625), Prob: 0.0000
+Token: ' indicate' (ID: 13216), Prob: 0.0000
+Token: ' maybe' (ID: 7196), Prob: 0.0000
+Token: ' carefully' (ID: 15516), Prob: 0.0000
+Token: ' varying' (ID: 28765), Prob: 0.0000
+Token: ' include' (ID: 2924), Prob: 0.0000
+Token: ' cancel' (ID: 9121), Prob: 0.0000
+Token: ' cell' (ID: 2779), Prob: 0.0000
+Token: ' given' (ID: 2661), Prob: 0.0000
+Token: ' within' (ID: 2878), Prob: 0.0000
+Token: ' according' (ID: 4092), Prob: 0.0000
+Token: ' choose' (ID: 5157), Prob: 0.0000
+
+== Ranked Concepts (Clusters) ==
+Rank 1 | Centroid: ' Could' | Score: 1.0000
+  Tokens: [' could', ' Could', 'could', 'Could']
+Rank 2 | Centroid: ' vary' | Score: 0.0001
+  Tokens: [' vary', ' differ', ' varying']
+Rank 3 | Centroid: ' maybe' | Score: 0.0000
+  Tokens: [' may', ' might', ' possibly', ' maybe']
+Rank 4 | Centroid: ' must' | Score: 0.0000
+  Tokens: [' would', ' must', ' cannot', ' need']
+Rank 5 | Centroid: ' within' | Score: 0.0000
+  Tokens: [' since', ' given', ' within']
+Rank 6 | Centroid: ' check' | Score: 0.0000
+  Tokens: [' count', ' change', ' check']
+Rank 7 | Centroid: ' either' | Score: 0.0000
+  Tokens: [' either']
+Rank 8 | Centroid: ' contain' | Score: 0.0000
+  Tokens: [' contain', ' indicate', ' include']
+Rank 9 | Centroid: ' every' | Score: 0.0000
+  Tokens: [' every', ' another']
+Rank 10 | Centroid: ' depend' | Score: 0.0000
+  Tokens: [' depend', ' depending']
+Rank 11 | Centroid: ' based' | Score: 0.0000
+  Tokens: [' based', ' according']
+Rank 12 | Centroid: ' slightly' | Score: 0.0000
+  Tokens: [' slightly', ' carefully']
+Rank 13 | Centroid: ' couple' | Score: 0.0000
+  Tokens: [' couple', ' cell']
+Rank 14 | Centroid: ' cancel' | Score: 0.0000
+  Tokens: [' cancel', ' choose']
+
+**Chosen Concept:** Rank 1

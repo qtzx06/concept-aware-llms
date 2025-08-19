@@ -1,102 +1,132 @@
 --- Step 4 Log ---
 
 == Filtered Candidates ==
-Token: ' else' (ID: 770), Prob: 0.1660
-Token: ' wants' (ID: 6801), Prob: 0.0239
-Token: ' says' (ID: 2727), Prob: 0.0198
-Token: ' comes' (ID: 4041), Prob: 0.0165
-Token: ' say' (ID: 1977), Prob: 0.0145
-Token: ' like' (ID: 1075), Prob: 0.0120
-Token: ' goes' (ID: 5780), Prob: 0.0078
-Token: ' come' (ID: 2525), Prob: 0.0073
-Token: ' could' (ID: 1410), Prob: 0.0068
-Token: ' knows' (ID: 8788), Prob: 0.0068
-Token: ' would' (ID: 1035), Prob: 0.0053
-Token: ' asks' (ID: 17064), Prob: 0.0044
-Token: ' gets' (ID: 5221), Prob: 0.0039
-Token: ' gives' (ID: 6696), Prob: 0.0039
-Token: ' takes' (ID: 4990), Prob: 0.0037
-Token: ' named' (ID: 6941), Prob: 0.0037
-Token: ' might' (ID: 2578), Prob: 0.0029
-Token: ' needs' (ID: 3880), Prob: 0.0029
-Token: ' tells' (ID: 10742), Prob: 0.0029
-Token: ' said' (ID: 1053), Prob: 0.0027
-Token: ' know' (ID: 1414), Prob: 0.0027
-Token: ' ask' (ID: 2548), Prob: 0.0022
-Token: ' came' (ID: 3697), Prob: 0.0022
-Token: ' enters' (ID: 28833), Prob: 0.0021
-Token: ' walks' (ID: 22479), Prob: 0.0020
-Token: ' get' (ID: 633), Prob: 0.0018
-Token: ' want' (ID: 1366), Prob: 0.0017
-Token: ' makes' (ID: 3643), Prob: 0.0017
-Token: ' may' (ID: 1231), Prob: 0.0016
-Token: ' calls' (ID: 6738), Prob: 0.0014
-Token: ' helps' (ID: 8609), Prob: 0.0014
-Token: ' called' (ID: 2598), Prob: 0.0014
-Token: ' already' (ID: 2669), Prob: 0.0014
-Token: ' buys' (ID: 49531), Prob: 0.0014
-Token: ' new' (ID: 501), Prob: 0.0013
-Token: ' dies' (ID: 8725), Prob: 0.0013
-Token: ' decides' (ID: 27627), Prob: 0.0013
-Token: ' starts' (ID: 8471), Prob: 0.0012
-Token: ' chooses' (ID: 39911), Prob: 0.0012
-Token: ' hears' (ID: 52059), Prob: 0.0012
-Token: ' give' (ID: 2968), Prob: 0.0011
-Token: ' uses' (ID: 5711), Prob: 0.0011
-Token: ' meets' (ID: 20027), Prob: 0.0011
-Token: ' arrives' (ID: 29682), Prob: 0.0011
-Token: ' take' (ID: 1896), Prob: 0.0011
-Token: ' tell' (ID: 3291), Prob: 0.0011
-Token: ' tries' (ID: 16297), Prob: 0.0010
-Token: ' receives' (ID: 21189), Prob: 0.0010
-Token: ' choose' (ID: 5157), Prob: 0.0009
-Token: ' whose' (ID: 6693), Prob: 0.0009
-Token: ' call' (ID: 1618), Prob: 0.0009
-Token: ' visits' (ID: 21051), Prob: 0.0009
-Token: ' must' (ID: 1969), Prob: 0.0008
-Token: ' buy' (ID: 3695), Prob: 0.0008
-Token: ' went' (ID: 3937), Prob: 0.0008
-Token: ' find' (ID: 1477), Prob: 0.0008
-Token: ' invest' (ID: 2725), Prob: 0.0008
+Token: ' grow' (ID: 3063), Prob: 0.0339
+Token: ' know' (ID: 1414), Prob: 0.0281
+Token: ' take' (ID: 1896), Prob: 0.0182
+Token: ' get' (ID: 633), Prob: 0.0097
+Token: ' stay' (ID: 4717), Prob: 0.0092
+Token: ' choose' (ID: 5157), Prob: 0.0081
+Token: ' play' (ID: 1486), Prob: 0.0071
+Token: ' learn' (ID: 3960), Prob: 0.0071
+Token: ' leave' (ID: 5274), Prob: 0.0067
+Token: ' feel' (ID: 2666), Prob: 0.0063
+Token: ' become' (ID: 3635), Prob: 0.0063
+Token: ' sleep' (ID: 6084), Prob: 0.0055
+Token: ' use' (ID: 990), Prob: 0.0041
+Token: ' help' (ID: 1492), Prob: 0.0041
+Token: ' enter' (ID: 3725), Prob: 0.0041
+Token: ' walk' (ID: 4227), Prob: 0.0036
+Token: ' sit' (ID: 2444), Prob: 0.0034
+Token: ' start' (ID: 1191), Prob: 0.0026
+Token: ' make' (ID: 1281), Prob: 0.0026
+Token: ' care' (ID: 2453), Prob: 0.0026
+Token: ' away' (ID: 3123), Prob: 0.0026
+Token: ' attend' (ID: 9417), Prob: 0.0026
+Token: ' develop' (ID: 2225), Prob: 0.0025
+Token: ' step' (ID: 3019), Prob: 0.0025
+Token: ' decide' (ID: 10279), Prob: 0.0025
+Token: ' see' (ID: 1490), Prob: 0.0023
+Token: ' drop' (ID: 5943), Prob: 0.0023
+Token: ' speak' (ID: 6468), Prob: 0.0023
+Token: ' run' (ID: 1598), Prob: 0.0022
+Token: ' come' (ID: 2525), Prob: 0.0022
+Token: ' abuse' (ID: 11480), Prob: 0.0022
+Token: ' look' (ID: 1401), Prob: 0.0020
+Token: ' keep' (ID: 2506), Prob: 0.0020
+Token: ' say' (ID: 1977), Prob: 0.0019
+Token: ' work' (ID: 975), Prob: 0.0018
+Token: ' think' (ID: 1744), Prob: 0.0018
+Token: ' goes' (ID: 5780), Prob: 0.0018
+Token: ' remain' (ID: 7146), Prob: 0.0018
+Token: ' spend' (ID: 8329), Prob: 0.0018
+Token: ' return' (ID: 470), Prob: 0.0017
+Token: ' buy' (ID: 3695), Prob: 0.0017
+Token: ' join' (ID: 5138), Prob: 0.0017
+Token: ' move' (ID: 3271), Prob: 0.0016
+Token: ' watch' (ID: 3736), Prob: 0.0016
+Token: ' study' (ID: 3920), Prob: 0.0016
+Token: ' ask' (ID: 2548), Prob: 0.0015
+Token: ' receive' (ID: 5258), Prob: 0.0015
+Token: ' meet' (ID: 3367), Prob: 0.0014
+Token: ' handle' (ID: 3705), Prob: 0.0014
+Token: ' age' (ID: 4231), Prob: 0.0014
+Token: ' exit' (ID: 4869), Prob: 0.0014
+Token: ' fall' (ID: 4399), Prob: 0.0013
+Token: ' forget' (ID: 10667), Prob: 0.0013
+Token: ' read' (ID: 1349), Prob: 0.0012
+Token: ' experience' (ID: 3139), Prob: 0.0012
+Token: ' understand' (ID: 3535), Prob: 0.0012
+Token: ' cry' (ID: 15729), Prob: 0.0012
+Token: ' pass' (ID: 1494), Prob: 0.0012
+Token: ' put' (ID: 2182), Prob: 0.0012
+Token: ' continue' (ID: 3060), Prob: 0.0012
+Token: ' face' (ID: 3579), Prob: 0.0012
+Token: ' close' (ID: 3265), Prob: 0.0011
+Token: ' travel' (ID: 5821), Prob: 0.0011
+Token: ' eat' (ID: 8180), Prob: 0.0011
+Token: ' inherit' (ID: 23749), Prob: 0.0011
 
 == Ranked Concepts (Clusters) ==
-Rank 1 | Concept Score: 0.1816
-  Tokens: [' else', ' like', ' already', ' new', ' whose']
-Rank 2 | Concept Score: 0.0369
-  Tokens: [' says', ' say', ' said']
-Rank 3 | Concept Score: 0.0286
-  Tokens: [' wants', ' needs', ' want']
-Rank 4 | Concept Score: 0.0260
-  Tokens: [' comes', ' come', ' came']
-Rank 5 | Concept Score: 0.0175
-  Tokens: [' could', ' would', ' might', ' may', ' must']
-Rank 6 | Concept Score: 0.0095
-  Tokens: [' knows', ' know']
-Rank 7 | Concept Score: 0.0093
-  Tokens: [' gets', ' starts', ' uses', ' meets', ' tries', ' receives']
-Rank 8 | Concept Score: 0.0085
-  Tokens: [' goes', ' went']
-Rank 9 | Concept Score: 0.0073
-  Tokens: [' named', ' calls', ' called', ' call']
-Rank 10 | Concept Score: 0.0071
-  Tokens: [' gives', ' makes', ' helps']
-Rank 11 | Concept Score: 0.0067
-  Tokens: [' asks', ' ask']
-Rank 12 | Concept Score: 0.0047
-  Tokens: [' takes', ' take']
-Rank 13 | Concept Score: 0.0039
-  Tokens: [' tells', ' tell']
-Rank 14 | Concept Score: 0.0037
-  Tokens: [' get', ' give', ' find']
-Rank 15 | Concept Score: 0.0034
-  Tokens: [' decides', ' chooses', ' choose']
-Rank 16 | Concept Score: 0.0032
-  Tokens: [' enters', ' arrives']
-Rank 17 | Concept Score: 0.0029
-  Tokens: [' buys', ' buy', ' invest']
-Rank 18 | Concept Score: 0.0028
-  Tokens: [' walks', ' visits']
-Rank 19 | Concept Score: 0.0025
-  Tokens: [' dies', ' hears']
+Rank 1 | Centroid: ' grow' | Score: 0.0339
+  Tokens: [' grow']
+Rank 2 | Centroid: ' understand' | Score: 0.0334
+  Tokens: [' know', ' see', ' think', ' understand']
+Rank 3 | Centroid: ' get' | Score: 0.0317
+  Tokens: [' take', ' get', ' make', ' put']
+Rank 4 | Centroid: ' remain' | Score: 0.0142
+  Tokens: [' stay', ' keep', ' remain', ' continue']
+Rank 5 | Centroid: ' use' | Score: 0.0129
+  Tokens: [' play', ' use', ' work']
+Rank 6 | Centroid: ' choose' | Score: 0.0105
+  Tokens: [' choose', ' decide']
+Rank 7 | Centroid: ' drop' | Score: 0.0087
+  Tokens: [' start', ' step', ' drop', ' fall']
+Rank 8 | Centroid: ' become' | Score: 0.0084
+  Tokens: [' become', ' come']
+Rank 9 | Centroid: ' exit' | Score: 0.0083
+  Tokens: [' enter', ' return', ' exit', ' pass']
+Rank 10 | Centroid: ' feel' | Score: 0.0083
+  Tokens: [' feel', ' look']
+Rank 11 | Centroid: ' help' | Score: 0.0081
+  Tokens: [' help', ' care', ' handle']
+Rank 12 | Centroid: ' eat' | Score: 0.0072
+  Tokens: [' attend', ' spend', ' buy', ' eat']
+Rank 13 | Centroid: ' learn' | Score: 0.0071
+  Tokens: [' learn']
+Rank 14 | Centroid: ' move' | Score: 0.0070
+  Tokens: [' walk', ' goes', ' move']
+Rank 15 | Centroid: ' leave' | Score: 0.0067
+  Tokens: [' leave']
+Rank 16 | Centroid: ' sleep' | Score: 0.0066
+  Tokens: [' sleep', ' travel']
+Rank 17 | Centroid: ' ask' | Score: 0.0057
+  Tokens: [' speak', ' say', ' ask']
+Rank 18 | Centroid: ' receive' | Score: 0.0053
+  Tokens: [' develop', ' receive', ' meet']
+Rank 19 | Centroid: ' abuse' | Score: 0.0036
+  Tokens: [' abuse', ' age']
+Rank 20 | Centroid: ' sit' | Score: 0.0034
+  Tokens: [' sit']
+Rank 21 | Centroid: ' watch' | Score: 0.0032
+  Tokens: [' watch', ' study']
+Rank 22 | Centroid: ' away' | Score: 0.0026
+  Tokens: [' away']
+Rank 23 | Centroid: ' experience' | Score: 0.0024
+  Tokens: [' experience', ' face']
+Rank 24 | Centroid: ' run' | Score: 0.0022
+  Tokens: [' run']
+Rank 25 | Centroid: ' join' | Score: 0.0017
+  Tokens: [' join']
+Rank 26 | Centroid: ' forget' | Score: 0.0013
+  Tokens: [' forget']
+Rank 27 | Centroid: ' cry' | Score: 0.0012
+  Tokens: [' cry']
+Rank 28 | Centroid: ' read' | Score: 0.0012
+  Tokens: [' read']
+Rank 29 | Centroid: ' inherit' | Score: 0.0011
+  Tokens: [' inherit']
+Rank 30 | Centroid: ' close' | Score: 0.0011
+  Tokens: [' close']
 
-**Chosen Concept:** Rank 1 with score 0.1816
+**Chosen Concept:** Rank 1

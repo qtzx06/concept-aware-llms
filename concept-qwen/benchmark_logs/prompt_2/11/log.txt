@@ -1,0 +1,61 @@
+--- Step 11 Log ---
+
+== Filtered Candidates ==
+Token: ' points' (ID: 3501), Prob: 0.0000
+Token: ' yes' (ID: 9834), Prob: 0.0000
+Token: ' point' (ID: 1459), Prob: 0.0000
+Token: ' Yes' (ID: 7414), Prob: 0.0000
+Token: ' either' (ID: 2987), Prob: 0.0000
+Token: ' via' (ID: 4566), Prob: 0.0000
+Token: ' whether' (ID: 3425), Prob: 0.0000
+Token: ' Point' (ID: 5126), Prob: 0.0000
+Token: ' Code' (ID: 6119), Prob: 0.0000
+Token: ' correct' (ID: 4396), Prob: 0.0000
+Token: ' Explanation' (ID: 71287), Prob: 0.0000
+Token: ' Points' (ID: 20725), Prob: 0.0000
+Token: ' font' (ID: 3301), Prob: 0.0000
+Token: ' according' (ID: 4092), Prob: 0.0000
+Token: ' current' (ID: 1482), Prob: 0.0000
+Token: ' code' (ID: 2038), Prob: 0.0000
+Token: ' examples' (ID: 10295), Prob: 0.0000
+Token: ' explanation' (ID: 16148), Prob: 0.0000
+Token: ' example' (ID: 3110), Prob: 0.0000
+Token: ' Description' (ID: 7662), Prob: 0.0000
+Token: ' pointer' (ID: 7445), Prob: 0.0000
+Token: ' new' (ID: 501), Prob: 0.0000
+Token: ' using' (ID: 1667), Prob: 0.0000
+Token: ' check' (ID: 1779), Prob: 0.0000
+Token: ' based' (ID: 3118), Prob: 0.0000
+Token: ' tags' (ID: 9492), Prob: 0.0000
+Token: ' YES' (ID: 14080), Prob: 0.0000
+Token: ' Type' (ID: 3990), Prob: 0.0000
+Token: ' Check' (ID: 4248), Prob: 0.0000
+Token: 'ing' (ID: 287), Prob: 0.0000
+
+== Ranked Concepts (Clusters) ==
+Rank 1 | Centroid: ' points' | Score: 0.0001
+  Tokens: [' points', ' point', ' Point', ' Points']
+Rank 2 | Centroid: ' Yes' | Score: 0.0000
+  Tokens: [' yes', ' Yes', ' YES']
+Rank 3 | Centroid: ' either' | Score: 0.0000
+  Tokens: [' either', ' whether']
+Rank 4 | Centroid: ' based' | Score: 0.0000
+  Tokens: [' via', ' according', ' using', ' based']
+Rank 5 | Centroid: ' current' | Score: 0.0000
+  Tokens: [' correct', ' current', ' new']
+Rank 6 | Centroid: ' Explanation' | Score: 0.0000
+  Tokens: [' Explanation', ' explanation', ' Description']
+Rank 7 | Centroid: ' Code' | Score: 0.0000
+  Tokens: [' Code', ' code']
+Rank 8 | Centroid: ' font' | Score: 0.0000
+  Tokens: [' font', ' tags', ' Type']
+Rank 9 | Centroid: ' examples' | Score: 0.0000
+  Tokens: [' examples', ' example']
+Rank 10 | Centroid: ' check' | Score: 0.0000
+  Tokens: [' check', ' Check']
+Rank 11 | Centroid: ' pointer' | Score: 0.0000
+  Tokens: [' pointer']
+Rank 12 | Centroid: 'ing' | Score: 0.0000
+  Tokens: ['ing']
+
+**Chosen Concept:** Rank 1

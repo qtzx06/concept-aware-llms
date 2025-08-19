@@ -1,103 +1,169 @@
 --- Step 55 Log ---
 
 == Filtered Candidates ==
-Token: ' cry' (ID: 15729), Prob: 0.9727
-Token: ' crying' (ID: 30199), Prob: 0.0122
-Token: ' cried' (ID: 38069), Prob: 0.0016
-Token: ' etc' (ID: 4992), Prob: 0.0005
-Token: ' cries' (ID: 57745), Prob: 0.0002
-Token: ' Cry' (ID: 42705), Prob: 0.0001
-Token: ' love' (ID: 2948), Prob: 0.0001
-Token: ' try' (ID: 1430), Prob: 0.0001
-Token: 'cry' (ID: 61138), Prob: 0.0001
-Token: ' wait' (ID: 3783), Prob: 0.0001
-Token: ' write' (ID: 3270), Prob: 0.0000
-Token: ' repeat' (ID: 13153), Prob: 0.0000
-Token: ' scream' (ID: 45689), Prob: 0.0000
-Token: ' cro' (ID: 14093), Prob: 0.0000
-Token: ' tears' (ID: 23139), Prob: 0.0000
-Token: ' break' (ID: 1438), Prob: 0.0000
-Token: ' please' (ID: 4486), Prob: 0.0000
-Token: ' thank' (ID: 9702), Prob: 0.0000
-Token: ' sorry' (ID: 14589), Prob: 0.0000
-Token: ' tear' (ID: 17576), Prob: 0.0000
-Token: ' fall' (ID: 4399), Prob: 0.0000
-Token: ' catch' (ID: 2287), Prob: 0.0000
-Token: ' end' (ID: 835), Prob: 0.0000
-Token: ' create' (ID: 1855), Prob: 0.0000
-Token: ' sing' (ID: 7780), Prob: 0.0000
-Token: ' lie' (ID: 10246), Prob: 0.0000
-Token: ' feel' (ID: 2666), Prob: 0.0000
-Token: ' sigh' (ID: 30138), Prob: 0.0000
-Token: ' pain' (ID: 6646), Prob: 0.0000
-Token: ' maybe' (ID: 7196), Prob: 0.0000
-Token: ' sad' (ID: 12421), Prob: 0.0000
-Token: ' drip' (ID: 72499), Prob: 0.0000
-Token: ' die' (ID: 2746), Prob: 0.0000
-Token: ' yeah' (ID: 21639), Prob: 0.0000
-Token: ' cough' (ID: 39600), Prob: 0.0000
-Token: ' cow' (ID: 19362), Prob: 0.0000
-Token: ' count' (ID: 1760), Prob: 0.0000
-Token: ' dry' (ID: 9058), Prob: 0.0000
-Token: ' joy' (ID: 15888), Prob: 0.0000
-Token: ' climax' (ID: 70195), Prob: 0.0000
-Token: ' baby' (ID: 8770), Prob: 0.0000
-Token: ' goodbye' (ID: 46455), Prob: 0.0000
-Token: ' let' (ID: 1077), Prob: 0.0000
-Token: ' ask' (ID: 2548), Prob: 0.0000
-Token: ' yes' (ID: 9834), Prob: 0.0000
-Token: ' add' (ID: 912), Prob: 0.0000
-Token: ' make' (ID: 1281), Prob: 0.0000
-Token: ' tie' (ID: 18131), Prob: 0.0000
-Token: ' one' (ID: 825), Prob: 0.0000
-Token: ' sleep' (ID: 6084), Prob: 0.0000
-Token: ' cheer' (ID: 25032), Prob: 0.0000
-Token: ' run' (ID: 1598), Prob: 0.0000
-Token: ' tired' (ID: 19227), Prob: 0.0000
-Token: ' awe' (ID: 50417), Prob: 0.0000
+Token: ' convey' (ID: 20001), Prob: 0.5859
+Token: ' make' (ID: 1281), Prob: 0.2158
+Token: ' express' (ID: 3158), Prob: 0.0292
+Token: ' show' (ID: 1473), Prob: 0.0201
+Token: ' describe' (ID: 7512), Prob: 0.0156
+Token: ' capture' (ID: 12322), Prob: 0.0138
+Token: ' connect' (ID: 4564), Prob: 0.0107
+Token: ' paint' (ID: 6177), Prob: 0.0095
+Token: ' illustrate' (ID: 40368), Prob: 0.0095
+Token: ' help' (ID: 1492), Prob: 0.0084
+Token: ' enhance' (ID: 18379), Prob: 0.0084
+Token: ' evoke' (ID: 94163), Prob: 0.0084
+Token: ' create' (ID: 1855), Prob: 0.0074
+Token: ' emphasize' (ID: 45932), Prob: 0.0074
+Token: ' add' (ID: 912), Prob: 0.0058
+Token: ' explain' (ID: 10339), Prob: 0.0045
+Token: ' highlight' (ID: 11167), Prob: 0.0045
+Token: ' person' (ID: 1697), Prob: 0.0027
+Token: ' represent' (ID: 4009), Prob: 0.0027
+Token: ' relate' (ID: 28143), Prob: 0.0021
+Token: ' compare' (ID: 9429), Prob: 0.0016
+Token: ' depict' (ID: 42404), Prob: 0.0016
+Token: ' draw' (ID: 4038), Prob: 0.0012
+Token: ' simplify' (ID: 39721), Prob: 0.0011
+Token: ' keep' (ID: 2506), Prob: 0.0010
+Token: ' give' (ID: 2968), Prob: 0.0010
+Token: ' bring' (ID: 4446), Prob: 0.0010
+Token: ' symbol' (ID: 7735), Prob: 0.0007
+Token: ' simulate' (ID: 37453), Prob: 0.0007
+Token: ' imply' (ID: 33508), Prob: 0.0006
+Token: ' encaps' (ID: 42569), Prob: 0.0006
+Token: ' con' (ID: 390), Prob: 0.0006
+Token: ' rel' (ID: 1351), Prob: 0.0006
+Token: ' exagger' (ID: 37930), Prob: 0.0006
+Token: ' transport' (ID: 7557), Prob: 0.0005
+Token: ' portray' (ID: 24878), Prob: 0.0005
+Token: ' visualize' (ID: 50087), Prob: 0.0005
+Token: ' get' (ID: 633), Prob: 0.0005
+Token: ' really' (ID: 2167), Prob: 0.0004
+Token: ' amplify' (ID: 96068), Prob: 0.0004
+Token: ' engage' (ID: 16579), Prob: 0.0003
+Token: ' tie' (ID: 18131), Prob: 0.0003
+Token: ' communicate' (ID: 19032), Prob: 0.0003
+Token: ' elaborate' (ID: 35967), Prob: 0.0003
+Token: ' appeal' (ID: 14303), Prob: 0.0003
+Token: ' human' (ID: 3738), Prob: 0.0003
+Token: ' elevate' (ID: 68630), Prob: 0.0002
+Token: ' feel' (ID: 2666), Prob: 0.0002
+Token: ' deepen' (ID: 91692), Prob: 0.0002
+Token: ' imagine' (ID: 12793), Prob: 0.0002
+Token: ' wrap' (ID: 15061), Prob: 0.0002
+Token: ' personalize' (ID: 80838), Prob: 0.0002
+Token: ' let' (ID: 1077), Prob: 0.0002
+Token: ' height' (ID: 2608), Prob: 0.0002
+Token: ' reach' (ID: 5545), Prob: 0.0002
+Token: ' mirror' (ID: 17846), Prob: 0.0002
+Token: ' demonstrate' (ID: 19869), Prob: 0.0001
+Token: ' comp' (ID: 1367), Prob: 0.0001
+Token: ' focus' (ID: 5244), Prob: 0.0001
+Token: ' link' (ID: 2656), Prob: 0.0001
+Token: ' indicate' (ID: 13216), Prob: 0.0001
+Token: ' explore' (ID: 13186), Prob: 0.0001
+Token: ' clarify' (ID: 37163), Prob: 0.0001
+Token: ' find' (ID: 1477), Prob: 0.0001
+Token: ' reflect' (ID: 8708), Prob: 0.0001
+Token: ' vivid' (ID: 42020), Prob: 0.0001
+Token: ' mimic' (ID: 55359), Prob: 0.0001
+Token: ' grasp' (ID: 33377), Prob: 0.0001
+Token: ' transfer' (ID: 8317), Prob: 0.0001
+Token: ' generalize' (ID: 92540), Prob: 0.0001
+Token: ' talk' (ID: 3061), Prob: 0.0001
+Token: ' personal' (ID: 4345), Prob: 0.0001
+Token: ' soften' (ID: 79945), Prob: 0.0001
+Token: ' clearly' (ID: 9355), Prob: 0.0001
+Token: ' liken' (ID: 54285), Prob: 0.0001
+Token: ' enrich' (ID: 30418), Prob: 0.0001
+Token: ' put' (ID: 2182), Prob: 0.0001
+Token: ' ease' (ID: 14219), Prob: 0.0001
+Token: ' build' (ID: 1936), Prob: 0.0001
+Token: ' suggest' (ID: 4190), Prob: 0.0001
+Token: ' ground' (ID: 4910), Prob: 0.0001
+Token: ' deep' (ID: 5538), Prob: 0.0001
+Token: ' compound' (ID: 23628), Prob: 0.0001
+Token: ' include' (ID: 2924), Prob: 0.0001
+Token: ' write' (ID: 3270), Prob: 0.0001
+Token: ' EXPRESS' (ID: 16427), Prob: 0.0001
+Token: ' avoid' (ID: 5648), Prob: 0.0000
+Token: ' strengthen' (ID: 19681), Prob: 0.0000
+Token: ' inspire' (ID: 30640), Prob: 0.0000
+Token: ' reveal' (ID: 16400), Prob: 0.0000
+Token: ' capt' (ID: 6427), Prob: 0.0000
+Token: ' combine' (ID: 15963), Prob: 0.0000
+Token: ' intens' (ID: 24245), Prob: 0.0000
+Token: ' showcase' (ID: 34783), Prob: 0.0000
+Token: ' set' (ID: 738), Prob: 0.0000
+Token: ' empath' (ID: 35581), Prob: 0.0000
 
 == Ranked Concepts (Clusters) ==
-Rank 1 | Concept Score: 0.9883
-  Tokens: [' cry', ' crying', ' cried', ' cries', ' Cry', 'cry']
-Rank 2 | Concept Score: 0.0005
-  Tokens: [' etc', ' maybe', ' yeah', ' yes']
-Rank 3 | Concept Score: 0.0002
-  Tokens: [' try', ' write', ' create', ' let', ' ask', ' add', ' make']
-Rank 4 | Concept Score: 0.0002
-  Tokens: [' love', ' pain', ' joy', ' awe']
-Rank 5 | Concept Score: 0.0001
-  Tokens: [' please', ' thank', ' sorry']
-Rank 6 | Concept Score: 0.0001
-  Tokens: [' repeat', ' end', ' one']
-Rank 7 | Concept Score: 0.0001
-  Tokens: [' scream', ' sigh']
-Rank 8 | Concept Score: 0.0001
-  Tokens: [' tears', ' tear']
-Rank 9 | Concept Score: 0.0001
-  Tokens: [' wait']
-Rank 10 | Concept Score: 0.0001
-  Tokens: [' cro', ' dry']
-Rank 11 | Concept Score: 0.0001
-  Tokens: [' fall', ' lie', ' tie']
-Rank 12 | Concept Score: 0.0000
-  Tokens: [' sing', ' die', ' sleep']
-Rank 13 | Concept Score: 0.0000
-  Tokens: [' break', ' run']
-Rank 14 | Concept Score: 0.0000
-  Tokens: [' drip', ' climax']
-Rank 15 | Concept Score: 0.0000
-  Tokens: [' cow', ' baby']
-Rank 16 | Concept Score: 0.0000
-  Tokens: [' sad', ' tired']
-Rank 17 | Concept Score: 0.0000
-  Tokens: [' cough', ' cheer']
-Rank 18 | Concept Score: 0.0000
-  Tokens: [' catch']
-Rank 19 | Concept Score: 0.0000
+Rank 1 | Centroid: ' convey' | Score: 0.5859
+  Tokens: [' convey', ' con', ' transport', ' transfer', ' talk']
+Rank 2 | Centroid: ' create' | Score: 0.2324
+  Tokens: [' make', ' create', ' add', ' keep', ' give', ' bring', ' get', ' find']
+Rank 3 | Centroid: ' demonstrate' | Score: 0.0500
+  Tokens: [' show', ' describe', ' illustrate', ' highlight', ' demonstrate', ' indicate', ' suggest', ' reveal', ' showcase']
+Rank 4 | Centroid: ' express' | Score: 0.0292
+  Tokens: [' express', ' EXPRESS']
+Rank 5 | Centroid: ' capture' | Score: 0.0145
+  Tokens: [' capture', ' encaps', ' capt']
+Rank 6 | Centroid: ' emphasize' | Score: 0.0126
+  Tokens: [' emphasize', ' explain', ' imply', ' clarify']
+Rank 7 | Centroid: ' connect' | Score: 0.0107
+  Tokens: [' connect']
+Rank 8 | Centroid: ' paint' | Score: 0.0095
+  Tokens: [' paint']
+Rank 9 | Centroid: ' enhance' | Score: 0.0093
+  Tokens: [' enhance', ' amplify', ' elevate', ' deepen', ' enrich', ' strengthen', ' intens']
+Rank 10 | Centroid: ' evoke' | Score: 0.0088
+  Tokens: [' evoke', ' engage', ' avoid', ' inspire']
+Rank 11 | Centroid: ' help' | Score: 0.0084
+  Tokens: [' help']
+Rank 12 | Centroid: ' represent' | Score: 0.0034
+  Tokens: [' represent', ' symbol']
+Rank 13 | Centroid: ' person' | Score: 0.0031
+  Tokens: [' person', ' human', ' personal']
+Rank 14 | Centroid: ' relate' | Score: 0.0027
+  Tokens: [' relate', ' rel']
+Rank 15 | Centroid: ' depict' | Score: 0.0022
+  Tokens: [' depict', ' portray']
+Rank 16 | Centroid: ' compare' | Score: 0.0017
+  Tokens: [' compare', ' combine']
+Rank 17 | Centroid: ' simulate' | Score: 0.0015
+  Tokens: [' simulate', ' visualize', ' imagine', ' mimic']
+Rank 18 | Centroid: ' write' | Score: 0.0013
+  Tokens: [' draw', ' build', ' write']
+Rank 19 | Centroid: ' simplify' | Score: 0.0013
+  Tokens: [' simplify', ' generalize', ' soften']
+Rank 20 | Centroid: ' exagger' | Score: 0.0009
+  Tokens: [' exagger', ' elaborate']
+Rank 21 | Centroid: ' tie' | Score: 0.0006
+  Tokens: [' tie', ' wrap', ' link']
+Rank 22 | Centroid: ' reach' | Score: 0.0006
+  Tokens: [' appeal', ' reach', ' grasp']
+Rank 23 | Centroid: ' clearly' | Score: 0.0005
+  Tokens: [' really', ' clearly', ' ease']
+Rank 24 | Centroid: ' communicate' | Score: 0.0005
+  Tokens: [' communicate', ' explore']
+Rank 25 | Centroid: ' set' | Score: 0.0003
+  Tokens: [' let', ' put', ' ground', ' set']
+Rank 26 | Centroid: ' mirror' | Score: 0.0003
+  Tokens: [' mirror', ' reflect']
+Rank 27 | Centroid: ' height' | Score: 0.0002
+  Tokens: [' height', ' deep']
+Rank 28 | Centroid: ' vivid' | Score: 0.0002
+  Tokens: [' vivid', ' liken', ' empath']
+Rank 29 | Centroid: ' comp' | Score: 0.0002
+  Tokens: [' comp', ' compound']
+Rank 30 | Centroid: ' feel' | Score: 0.0002
   Tokens: [' feel']
-Rank 20 | Concept Score: 0.0000
-  Tokens: [' count']
-Rank 21 | Concept Score: 0.0000
-  Tokens: [' goodbye']
+Rank 31 | Centroid: ' personalize' | Score: 0.0002
+  Tokens: [' personalize']
+Rank 32 | Centroid: ' focus' | Score: 0.0001
+  Tokens: [' focus']
+Rank 33 | Centroid: ' include' | Score: 0.0001
+  Tokens: [' include']
 
-**Chosen Concept:** Rank 1 with score 0.9883
+**Chosen Concept:** Rank 1

@@ -1,66 +1,87 @@
 --- Step 95 Log ---
 
 == Filtered Candidates ==
-Token: ' one' (ID: 825), Prob: 0.7969
-Token: ' two' (ID: 1378), Prob: 0.0349
-Token: ' three' (ID: 2326), Prob: 0.0045
-Token: ' twice' (ID: 10917), Prob: 0.0020
-Token: ' four' (ID: 3040), Prob: 0.0010
-Token: ' five' (ID: 4236), Prob: 0.0009
-Token: ' immediately' (ID: 7069), Prob: 0.0008
-Token: ' exactly' (ID: 6896), Prob: 0.0007
-Token: ' midnight' (ID: 32333), Prob: 0.0006
-Token: ' halfway' (ID: 41336), Prob: 0.0005
-Token: ' ahead' (ID: 8305), Prob: 0.0005
-Token: ' six' (ID: 4743), Prob: 0.0004
-Token: ' across' (ID: 3941), Prob: 0.0004
-Token: ' half' (ID: 4279), Prob: 0.0004
-Token: ' opposite' (ID: 14002), Prob: 0.0004
-Token: ' seven' (ID: 8094), Prob: 0.0004
-Token: ' earlier' (ID: 6788), Prob: 0.0004
-Token: ' directly' (ID: 5961), Prob: 0.0003
-Token: ' behind' (ID: 4815), Prob: 0.0003
-Token: ' ONE' (ID: 24038), Prob: 0.0003
-Token: ' every' (ID: 1449), Prob: 0.0003
-Token: ' within' (ID: 2878), Prob: 0.0003
-Token: ' One' (ID: 3776), Prob: 0.0002
-Token: ' either' (ID: 2987), Prob: 0.0002
-Token: ' hours' (ID: 4115), Prob: 0.0002
-Token: ' according' (ID: 4092), Prob: 0.0002
-Token: ' equal' (ID: 6144), Prob: 0.0002
-Token: ' noon' (ID: 37145), Prob: 0.0002
-Token: ' hour' (ID: 6460), Prob: 0.0002
-Token: ' forward' (ID: 4637), Prob: 0.0002
-Token: ' prior' (ID: 4867), Prob: 0.0002
-Token: ' time' (ID: 882), Prob: 0.0001
-Token: ' around' (ID: 2163), Prob: 0.0001
-Token: ' straight' (ID: 7678), Prob: 0.0001
-Token: ' twelve' (ID: 29235), Prob: 0.0001
+Token: ' sense' (ID: 5530), Prob: 1.0000
+Token: ' senses' (ID: 37107), Prob: 0.0000
+Token: ' Sense' (ID: 46229), Prob: 0.0000
+Token: ' sentido' (ID: 64384), Prob: 0.0000
+Token: ' sound' (ID: 5112), Prob: 0.0000
+Token: ' make' (ID: 1281), Prob: 0.0000
+Token: ' sens' (ID: 6097), Prob: 0.0000
+Token: ' seem' (ID: 2803), Prob: 0.0000
+Token: 'sense' (ID: 97835), Prob: 0.0000
+Token: 'ense' (ID: 1117), Prob: 0.0000
+Token: ' good' (ID: 1661), Prob: 0.0000
+Token: ' much' (ID: 1753), Prob: 0.0000
+Token: ' little' (ID: 2632), Prob: 0.0000
+Token: ' sen' (ID: 6124), Prob: 0.0000
+Token: ' something' (ID: 2494), Prob: 0.0000
+Token: ' meaning' (ID: 7290), Prob: 0.0000
+Token: ' great' (ID: 2244), Prob: 0.0000
+Token: ' sensory' (ID: 47969), Prob: 0.0000
+Token: 'Sense' (ID: 61009), Prob: 0.0000
+Token: ' sensible' (ID: 37661), Prob: 0.0000
+Token: ' sensing' (ID: 59099), Prob: 0.0000
+Token: ' feel' (ID: 2666), Prob: 0.0000
+Token: ' nonsense' (ID: 40802), Prob: 0.0000
+Token: ' sponge' (ID: 68348), Prob: 0.0000
+Token: ' mean' (ID: 3076), Prob: 0.0000
+Token: ' sure' (ID: 2704), Prob: 0.0000
+Token: ' sexual' (ID: 7244), Prob: 0.0000
+Token: ' sell' (ID: 4559), Prob: 0.0000
+Token: ' send' (ID: 3624), Prob: 0.0000
+Token: ' speak' (ID: 6468), Prob: 0.0000
+Token: ' smell' (ID: 22068), Prob: 0.0000
+Token: ' sensor' (ID: 12002), Prob: 0.0000
+Token: ' sounds' (ID: 10362), Prob: 0.0000
+Token: ' use' (ID: 990), Prob: 0.0000
+Token: ' science' (ID: 8038), Prob: 0.0000
+Token: ' perfect' (ID: 4727), Prob: 0.0000
+Token: ' stand' (ID: 2498), Prob: 0.0000
+Token: ' taste' (ID: 12656), Prob: 0.0000
+Token: ' sex' (ID: 1839), Prob: 0.0000
+Token: ' count' (ID: 1760), Prob: 0.0000
+Token: ' exist' (ID: 3000), Prob: 0.0000
+Token: ' significance' (ID: 25361), Prob: 0.0000
+Token: ' matter' (ID: 4925), Prob: 0.0000
+Token: ' absolutely' (ID: 10875), Prob: 0.0000
+Token: ' sufficient' (ID: 14016), Prob: 0.0000
+Token: ' physics' (ID: 21321), Prob: 0.0000
+Token: ' complete' (ID: 4583), Prob: 0.0000
+Token: ' listen' (ID: 8844), Prob: 0.0000
 
 == Ranked Concepts (Clusters) ==
-Rank 1 | Concept Score: 0.7969
-  Tokens: [' one', ' ONE', ' One']
-Rank 2 | Concept Score: 0.0422
-  Tokens: [' two', ' three', ' four', ' five', ' six', ' seven', ' twelve']
-Rank 3 | Concept Score: 0.0029
-  Tokens: [' twice', ' halfway', ' half']
-Rank 4 | Concept Score: 0.0020
-  Tokens: [' immediately', ' exactly', ' directly', ' straight']
-Rank 5 | Concept Score: 0.0011
-  Tokens: [' across', ' behind', ' within', ' around']
-Rank 6 | Concept Score: 0.0007
-  Tokens: [' midnight', ' noon']
-Rank 7 | Concept Score: 0.0007
-  Tokens: [' ahead', ' forward']
-Rank 8 | Concept Score: 0.0006
-  Tokens: [' opposite', ' equal']
-Rank 9 | Concept Score: 0.0005
-  Tokens: [' earlier', ' prior']
-Rank 10 | Concept Score: 0.0005
-  Tokens: [' hours', ' hour', ' time']
-Rank 11 | Concept Score: 0.0005
-  Tokens: [' every', ' according']
-Rank 12 | Concept Score: 0.0002
-  Tokens: [' either']
+Rank 1 | Centroid: ' Sense' | Score: 1.0000
+  Tokens: [' sense', ' senses', ' Sense', ' sentido', 'sense', 'Sense']
+Rank 2 | Centroid: ' sensor' | Score: 0.0000
+  Tokens: [' sens', ' sen', ' sensory', ' sensible', ' sensing', ' sensor']
+Rank 3 | Centroid: ' sound' | Score: 0.0000
+  Tokens: [' sound', ' sounds']
+Rank 4 | Centroid: ' make' | Score: 0.0000
+  Tokens: [' make', ' use']
+Rank 5 | Centroid: ' sell' | Score: 0.0000
+  Tokens: [' seem', ' sell', ' send', ' speak', ' stand', ' exist', ' listen']
+Rank 6 | Centroid: ' good' | Score: 0.0000
+  Tokens: [' good', ' much', ' great', ' perfect', ' sufficient', ' complete']
+Rank 7 | Centroid: 'ense' | Score: 0.0000
+  Tokens: ['ense']
+Rank 8 | Centroid: ' absolutely' | Score: 0.0000
+  Tokens: [' little', ' sure', ' absolutely']
+Rank 9 | Centroid: ' meaning' | Score: 0.0000
+  Tokens: [' meaning', ' mean', ' significance']
+Rank 10 | Centroid: ' something' | Score: 0.0000
+  Tokens: [' something', ' nonsense']
+Rank 11 | Centroid: ' smell' | Score: 0.0000
+  Tokens: [' feel', ' smell', ' taste']
+Rank 12 | Centroid: ' sexual' | Score: 0.0000
+  Tokens: [' sexual', ' sex']
+Rank 13 | Centroid: ' sponge' | Score: 0.0000
+  Tokens: [' sponge']
+Rank 14 | Centroid: ' science' | Score: 0.0000
+  Tokens: [' science', ' physics']
+Rank 15 | Centroid: ' count' | Score: 0.0000
+  Tokens: [' count']
+Rank 16 | Centroid: ' matter' | Score: 0.0000
+  Tokens: [' matter']
 
-**Chosen Concept:** Rank 1 with score 0.7969
+**Chosen Concept:** Rank 1

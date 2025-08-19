@@ -1,0 +1,89 @@
+--- Step 39 Log ---
+
+== Filtered Candidates ==
+Token: ' like' (ID: 1075), Prob: 0.9961
+Token: ' else' (ID: 770), Prob: 0.0025
+Token: ' yes' (ID: 9834), Prob: 0.0001
+Token: ' similar' (ID: 4428), Prob: 0.0000
+Token: ' maybe' (ID: 7196), Prob: 0.0000
+Token: ' etc' (ID: 4992), Prob: 0.0000
+Token: ' Like' (ID: 8909), Prob: 0.0000
+Token: ' missing' (ID: 7402), Prob: 0.0000
+Token: ' elif' (ID: 4409), Prob: 0.0000
+Token: ' include' (ID: 2924), Prob: 0.0000
+Token: 'like' (ID: 4803), Prob: 0.0000
+Token: ' list' (ID: 1140), Prob: 0.0000
+Token: '-like' (ID: 12681), Prob: 0.0000
+Token: ' less' (ID: 2686), Prob: 0.0000
+Token: ' LIKE' (ID: 20529), Prob: 0.0000
+Token: ' related' (ID: 5435), Prob: 0.0000
+Token: ' around' (ID: 2163), Prob: 0.0000
+Token: ' otherwise' (ID: 5937), Prob: 0.0000
+Token: ' possible' (ID: 3204), Prob: 0.0000
+Token: ' including' (ID: 2670), Prob: 0.0000
+Token: '_like' (ID: 25535), Prob: 0.0000
+Token: ' might' (ID: 2578), Prob: 0.0000
+Token: ' say' (ID: 1977), Prob: 0.0000
+Token: ' limited' (ID: 7199), Prob: 0.0000
+Token: ' likes' (ID: 13151), Prob: 0.0000
+Token: ' based' (ID: 3118), Prob: 0.0000
+Token: '.like' (ID: 66318), Prob: 0.0000
+Token: ' negative' (ID: 8225), Prob: 0.0000
+Token: ' inside' (ID: 4766), Prob: 0.0000
+Token: ' towards' (ID: 6974), Prob: 0.0000
+Token: ' much' (ID: 1753), Prob: 0.0000
+Token: ' relevant' (ID: 9760), Prob: 0.0000
+Token: ' short' (ID: 2805), Prob: 0.0000
+Token: ' along' (ID: 3156), Prob: 0.0000
+Token: ' unsure' (ID: 42903), Prob: 0.0000
+Token: ' something' (ID: 2494), Prob: 0.0000
+Token: 'Like' (ID: 12949), Prob: 0.0000
+Token: ' important' (ID: 2989), Prob: 0.0000
+Token: ' usually' (ID: 5990), Prob: 0.0000
+Token: ' unknown' (ID: 9788), Prob: 0.0000
+Token: ' slightly' (ID: 10078), Prob: 0.0000
+Token: ' noisy' (ID: 49280), Prob: 0.0000
+Token: ' impossible' (ID: 11997), Prob: 0.0000
+Token: ' though' (ID: 3498), Prob: 0.0000
+Token: ' misleading' (ID: 37209), Prob: 0.0000
+Token: ' different' (ID: 2155), Prob: 0.0000
+Token: ' within' (ID: 2878), Prob: 0.0000
+Token: ' appropriate' (ID: 8311), Prob: 0.0000
+
+== Ranked Concepts (Clusters) ==
+Rank 1 | Centroid: ' Like' | Score: 0.9961
+  Tokens: [' like', ' Like', 'like', '-like', ' LIKE', '_like', ' likes', '.like', 'Like']
+Rank 2 | Centroid: ' else' | Score: 0.0025
+  Tokens: [' else', ' elif', ' otherwise']
+Rank 3 | Centroid: ' yes' | Score: 0.0001
+  Tokens: [' yes', ' though']
+Rank 4 | Centroid: ' similar' | Score: 0.0000
+  Tokens: [' similar']
+Rank 5 | Centroid: ' maybe' | Score: 0.0000
+  Tokens: [' maybe', ' possible', ' might']
+Rank 6 | Centroid: ' etc' | Score: 0.0000
+  Tokens: [' etc', ' something']
+Rank 7 | Centroid: ' include' | Score: 0.0000
+  Tokens: [' include', ' including']
+Rank 8 | Centroid: ' unknown' | Score: 0.0000
+  Tokens: [' missing', ' unsure', ' unknown', ' impossible']
+Rank 9 | Centroid: ' within' | Score: 0.0000
+  Tokens: [' around', ' inside', ' towards', ' along', ' within']
+Rank 10 | Centroid: ' list' | Score: 0.0000
+  Tokens: [' list', ' say']
+Rank 11 | Centroid: ' relevant' | Score: 0.0000
+  Tokens: [' related', ' relevant', ' important', ' appropriate']
+Rank 12 | Centroid: ' less' | Score: 0.0000
+  Tokens: [' less', ' much', ' slightly']
+Rank 13 | Centroid: ' misleading' | Score: 0.0000
+  Tokens: [' negative', ' noisy', ' misleading']
+Rank 14 | Centroid: ' limited' | Score: 0.0000
+  Tokens: [' limited', ' short']
+Rank 15 | Centroid: ' based' | Score: 0.0000
+  Tokens: [' based']
+Rank 16 | Centroid: ' usually' | Score: 0.0000
+  Tokens: [' usually']
+Rank 17 | Centroid: ' different' | Score: 0.0000
+  Tokens: [' different']
+
+**Chosen Concept:** Rank 1

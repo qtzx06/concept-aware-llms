@@ -1,0 +1,125 @@
+--- Step 40 Log ---
+
+== Filtered Candidates ==
+Token: ' Mention' (ID: 85148), Prob: 0.5156
+Token: ' Maybe' (ID: 10696), Prob: 0.1157
+Token: ' Use' (ID: 5443), Prob: 0.1021
+Token: ' Include' (ID: 29734), Prob: 0.1021
+Token: ' Words' (ID: 27630), Prob: 0.0425
+Token: ' Describe' (ID: 60785), Prob: 0.0200
+Token: ' Express' (ID: 17399), Prob: 0.0095
+Token: ' Talk' (ID: 18976), Prob: 0.0084
+Token: ' Highlight' (ID: 55994), Prob: 0.0057
+Token: ' Con' (ID: 1200), Prob: 0.0048
+Token: ' Focus' (ID: 25806), Prob: 0.0048
+Token: ' Perhaps' (ID: 18765), Prob: 0.0042
+Token: ' Show' (ID: 6928), Prob: 0.0029
+Token: ' Think' (ID: 21149), Prob: 0.0027
+Token: ' Make' (ID: 7405), Prob: 0.0024
+Token: ' Reference' (ID: 17207), Prob: 0.0024
+Token: ' Incorpor' (ID: 53704), Prob: 0.0024
+Token: ' Avoid' (ID: 34006), Prob: 0.0020
+Token: ' Need' (ID: 14656), Prob: 0.0016
+Token: ' Let' (ID: 6771), Prob: 0.0015
+Token: ' Connect' (ID: 13015), Prob: 0.0013
+Token: ' Combine' (ID: 46812), Prob: 0.0011
+Token: ' Add' (ID: 2691), Prob: 0.0009
+Token: ' Compare' (ID: 23768), Prob: 0.0009
+Token: ' Des' (ID: 3874), Prob: 0.0005
+Token: ' Something' (ID: 24656), Prob: 0.0005
+Token: ' Like' (ID: 8909), Prob: 0.0003
+Token: ' Person' (ID: 7357), Prob: 0.0003
+Token: ' Rep' (ID: 3321), Prob: 0.0003
+Token: ' Specific' (ID: 28262), Prob: 0.0003
+Token: ' mention' (ID: 6286), Prob: 0.0003
+Token: ' Address' (ID: 9177), Prob: 0.0003
+Token: ' Also' (ID: 7281), Prob: 0.0002
+Token: ' List' (ID: 1759), Prob: 0.0002
+Token: ' Start' (ID: 5145), Prob: 0.0002
+Token: ' End' (ID: 3972), Prob: 0.0002
+Token: ' Instead' (ID: 12090), Prob: 0.0002
+Token: ' Structure' (ID: 28596), Prob: 0.0002
+Token: ' Keywords' (ID: 55695), Prob: 0.0002
+Token: ' Create' (ID: 4230), Prob: 0.0002
+Token: ' Personal' (ID: 19207), Prob: 0.0002
+Token: ' Could' (ID: 16503), Prob: 0.0002
+Token: ' Ask' (ID: 20437), Prob: 0.0002
+Token: ' Including' (ID: 55121), Prob: 0.0002
+Token: ' Contrast' (ID: 90048), Prob: 0.0002
+Token: ' People' (ID: 8853), Prob: 0.0001
+Token: ' Keep' (ID: 13655), Prob: 0.0001
+Token: ' Link' (ID: 5948), Prob: 0.0001
+Token: ' Possible' (ID: 36107), Prob: 0.0001
+Token: ' Met' (ID: 6212), Prob: 0.0001
+Token: ' Consider' (ID: 21144), Prob: 0.0001
+Token: ' Name' (ID: 3988), Prob: 0.0001
+Token: ' Since' (ID: 8704), Prob: 0.0001
+Token: ' Language' (ID: 11434), Prob: 0.0001
+Token: ' Set' (ID: 2573), Prob: 0.0001
+Token: ' Int' (ID: 1333), Prob: 0.0001
+Token: ' include' (ID: 2924), Prob: 0.0001
+Token: ' Tell' (ID: 24647), Prob: 0.0001
+Token: ' Discuss' (ID: 65279), Prob: 0.0001
+Token: ' Employ' (ID: 20782), Prob: 0.0001
+Token: ' Next' (ID: 9295), Prob: 0.0001
+Token: ' Please' (ID: 5209), Prob: 0.0001
+Token: ' Specify' (ID: 47395), Prob: 0.0001
+Token: ' Enc' (ID: 10751), Prob: 0.0001
+Token: 'mention' (ID: 29248), Prob: 0.0001
+Token: ' Blend' (ID: 54148), Prob: 0.0001
+Token: ' Rec' (ID: 4067), Prob: 0.0001
+Token: ' Try' (ID: 9735), Prob: 0.0001
+Token: ' Break' (ID: 15623), Prob: 0.0001
+Token: ' Soft' (ID: 24079), Prob: 0.0001
+Token: ' Examples' (ID: 25311), Prob: 0.0001
+Token: ' Stress' (ID: 50468), Prob: 0.0001
+
+== Ranked Concepts (Clusters) ==
+Rank 1 | Centroid: ' mention' | Score: 0.5156
+  Tokens: [' Mention', ' mention', 'mention']
+Rank 2 | Centroid: ' Perhaps' | Score: 0.1216
+  Tokens: [' Maybe', ' Perhaps', ' Something', ' Also', ' Instead', ' Could', ' Possible', ' Since', ' Please']
+Rank 3 | Centroid: ' Include' | Score: 0.1045
+  Tokens: [' Include', ' Incorpor', ' Including', ' include']
+Rank 4 | Centroid: ' Start' | Score: 0.1040
+  Tokens: [' Use', ' Need', ' Start', ' End', ' Break']
+Rank 5 | Centroid: ' Words' | Score: 0.0427
+  Tokens: [' Words', ' Keywords', ' Language', ' Examples']
+Rank 6 | Centroid: ' Describe' | Score: 0.0201
+  Tokens: [' Describe', ' Discuss', ' Specify']
+Rank 7 | Centroid: ' Highlight' | Score: 0.0107
+  Tokens: [' Highlight', ' Focus', ' Address']
+Rank 8 | Centroid: ' Express' | Score: 0.0095
+  Tokens: [' Express', ' Employ']
+Rank 9 | Centroid: ' Talk' | Score: 0.0084
+  Tokens: [' Talk']
+Rank 10 | Centroid: ' Rec' | Score: 0.0059
+  Tokens: [' Con', ' Des', ' Rep', ' Met', ' Int', ' Enc', ' Rec']
+Rank 11 | Centroid: ' Make' | Score: 0.0056
+  Tokens: [' Think', ' Make', ' Ask', ' Keep', ' Tell', ' Try']
+Rank 12 | Centroid: ' Create' | Score: 0.0040
+  Tokens: [' Show', ' Add', ' Create', ' Set']
+Rank 13 | Centroid: ' Reference' | Score: 0.0025
+  Tokens: [' Reference', ' Link']
+Rank 14 | Centroid: ' Avoid' | Score: 0.0021
+  Tokens: [' Avoid', ' Consider']
+Rank 15 | Centroid: ' Let' | Score: 0.0015
+  Tokens: [' Let', ' Next']
+Rank 16 | Centroid: ' Connect' | Score: 0.0013
+  Tokens: [' Connect']
+Rank 17 | Centroid: ' Combine' | Score: 0.0011
+  Tokens: [' Combine', ' Blend']
+Rank 18 | Centroid: ' Contrast' | Score: 0.0011
+  Tokens: [' Compare', ' Contrast', ' Stress']
+Rank 19 | Centroid: ' Person' | Score: 0.0006
+  Tokens: [' Person', ' Personal', ' People']
+Rank 20 | Centroid: ' Specific' | Score: 0.0005
+  Tokens: [' Specific', ' Structure']
+Rank 21 | Centroid: ' Like' | Score: 0.0003
+  Tokens: [' Like']
+Rank 22 | Centroid: ' List' | Score: 0.0003
+  Tokens: [' List', ' Name']
+Rank 23 | Centroid: ' Soft' | Score: 0.0001
+  Tokens: [' Soft']
+
+**Chosen Concept:** Rank 1

@@ -1,87 +1,85 @@
 --- Step 49 Log ---
 
 == Filtered Candidates ==
-Token: ' time' (ID: 882), Prob: 0.8086
-Token: ' zone' (ID: 10143), Prob: 0.1094
-Token: ' one' (ID: 825), Prob: 0.0021
-Token: ' location' (ID: 3728), Prob: 0.0021
-Token: ' region' (ID: 5537), Prob: 0.0020
-Token: ' destination' (ID: 9106), Prob: 0.0012
-Token: ' timezone' (ID: 33957), Prob: 0.0012
-Token: ' date' (ID: 2400), Prob: 0.0005
-Token: ' hour' (ID: 6460), Prob: 0.0003
-Token: ' city' (ID: 3283), Prob: 0.0003
-Token: ' state' (ID: 1584), Prob: 0.0002
-Token: ' flight' (ID: 10971), Prob: 0.0002
-Token: ' point' (ID: 1459), Prob: 0.0002
-Token: ' area' (ID: 3082), Prob: 0.0002
-Token: ' position' (ID: 2309), Prob: 0.0001
-Token: ' period' (ID: 4168), Prob: 0.0001
-Token: ' moment' (ID: 4445), Prob: 0.0001
-Token: ' Zone' (ID: 22178), Prob: 0.0001
-Token: ' due' (ID: 4152), Prob: 0.0001
-Token: ' zones' (ID: 25395), Prob: 0.0001
-Token: ' room' (ID: 3054), Prob: 0.0001
-Token: ' floor' (ID: 6422), Prob: 0.0001
-Token: ' slot' (ID: 9446), Prob: 0.0001
-Token: 'zone' (ID: 8684), Prob: 0.0001
-Token: ' clock' (ID: 8866), Prob: 0.0001
-Token: ' arrival' (ID: 18647), Prob: 0.0001
-Token: ' day' (ID: 1899), Prob: 0.0001
-Token: ' times' (ID: 3039), Prob: 0.0001
-Token: ' country' (ID: 3146), Prob: 0.0001
-Token: ' space' (ID: 3550), Prob: 0.0001
-Token: ' longitude' (ID: 20515), Prob: 0.0001
-Token: ' Time' (ID: 4120), Prob: 0.0000
-Token: ' trip' (ID: 8411), Prob: 0.0000
-Token: ' timeframe' (ID: 69953), Prob: 0.0000
-Token: '(time' (ID: 9730), Prob: 0.0000
-Token: ' travel' (ID: 5821), Prob: 0.0000
-Token: '-time' (ID: 7246), Prob: 0.0000
-Token: ' timeline' (ID: 24808), Prob: 0.0000
-Token: ' tunnel' (ID: 25629), Prob: 0.0000
-Token: ' address' (ID: 2621), Prob: 0.0000
-Token: ' timeZone' (ID: 98764), Prob: 0.0000
-Token: ' current' (ID: 1482), Prob: 0.0000
-Token: ' port' (ID: 2635), Prob: 0.0000
-Token: ' timestamp' (ID: 11441), Prob: 0.0000
+Token: 'Answer' (ID: 16141), Prob: 0.7617
+Token: 'Based' (ID: 28715), Prob: 0.0801
+Token: 'Okay' (ID: 32313), Prob: 0.0035
+Token: 'Question' (ID: 14582), Prob: 0.0029
+Token: 'Explanation' (ID: 69769), Prob: 0.0023
+Token: 'Please' (ID: 5501), Prob: 0.0012
+Token: 'Since' (ID: 12549), Prob: 0.0011
+Token: 'Yes' (ID: 9454), Prob: 0.0010
+Token: 'Possible' (ID: 65222), Prob: 0.0009
+Token: 'Word' (ID: 10879), Prob: 0.0007
+Token: 'Problem' (ID: 31198), Prob: 0.0006
+Token: 'Solution' (ID: 36842), Prob: 0.0006
+Token: 'Think' (ID: 38687), Prob: 0.0006
+Token: 'Note' (ID: 9112), Prob: 0.0005
+Token: 'Final' (ID: 19357), Prob: 0.0005
+Token: 'Let' (ID: 10061), Prob: 0.0004
+Token: 'Therefore' (ID: 54815), Prob: 0.0004
+Token: 'Reason' (ID: 25139), Prob: 0.0004
+Token: 'Would' (ID: 27989), Prob: 0.0004
+Token: 'based' (ID: 29939), Prob: 0.0004
+Token: 'Alright' (ID: 71486), Prob: 0.0004
+Token: 'Step' (ID: 8304), Prob: 0.0004
+Token: 'Wait' (ID: 14190), Prob: 0.0003
+Token: 'Choose' (ID: 24051), Prob: 0.0003
+Token: 'Check' (ID: 3973), Prob: 0.0003
+Token: 'Given' (ID: 22043), Prob: 0.0003
+Token: 'Group' (ID: 2808), Prob: 0.0002
+Token: ' Based' (ID: 20205), Prob: 0.0002
+Token: 'Monday' (ID: 35239), Prob: 0.0002
+Token: 'Actually' (ID: 52592), Prob: 0.0002
+Token: 'Response' (ID: 2582), Prob: 0.0002
+Token: 'Maybe' (ID: 21390), Prob: 0.0002
+Token: 'According' (ID: 11190), Prob: 0.0002
+Token: 'Make' (ID: 8078), Prob: 0.0002
+Token: 'Example' (ID: 13314), Prob: 0.0002
+Token: 'Analysis' (ID: 26573), Prob: 0.0002
+Token: 'Generate' (ID: 31115), Prob: 0.0002
+Token: 'Exercise' (ID: 52709), Prob: 0.0002
+Token: 'Even' (ID: 13159), Prob: 0.0002
+Token: 'Thus' (ID: 44500), Prob: 0.0002
+Token: 'WordPress' (ID: 92202), Prob: 0.0002
+Token: 'Jake' (ID: 94236), Prob: 0.0002
+Token: 'Click' (ID: 2612), Prob: 0.0002
+Token: 'Statement' (ID: 8636), Prob: 0.0002
 
 == Ranked Concepts (Clusters) ==
-Rank 1 | Concept Score: 0.8086
-  Tokens: [' time', ' times', ' Time', '(time', '-time']
-Rank 2 | Concept Score: 0.1094
-  Tokens: [' zone', ' Zone', ' zones', 'zone']
-Rank 3 | Concept Score: 0.0023
-  Tokens: [' one', ' due', ' current']
-Rank 4 | Concept Score: 0.0022
-  Tokens: [' location', ' position']
-Rank 5 | Concept Score: 0.0022
-  Tokens: [' region', ' area']
-Rank 6 | Concept Score: 0.0015
-  Tokens: [' destination', ' flight', ' arrival', ' trip', ' travel']
-Rank 7 | Concept Score: 0.0013
-  Tokens: [' timezone', ' longitude', ' timeZone']
-Rank 8 | Concept Score: 0.0005
-  Tokens: [' date']
-Rank 9 | Concept Score: 0.0005
-  Tokens: [' city', ' state', ' country']
-Rank 10 | Concept Score: 0.0004
-  Tokens: [' hour', ' day']
-Rank 11 | Concept Score: 0.0003
-  Tokens: [' point', ' moment']
-Rank 12 | Concept Score: 0.0002
-  Tokens: [' clock', ' timeframe', ' timeline', ' timestamp']
-Rank 13 | Concept Score: 0.0001
-  Tokens: [' room', ' floor']
-Rank 14 | Concept Score: 0.0001
-  Tokens: [' slot', ' space']
-Rank 15 | Concept Score: 0.0001
-  Tokens: [' period']
-Rank 16 | Concept Score: 0.0000
-  Tokens: [' tunnel']
-Rank 17 | Concept Score: 0.0000
-  Tokens: [' address']
-Rank 18 | Concept Score: 0.0000
-  Tokens: [' port']
+Rank 1 | Centroid: 'Answer' | Score: 0.7617
+  Tokens: ['Answer', 'Solution', 'Response']
+Rank 2 | Centroid: 'Based' | Score: 0.0811
+  Tokens: ['Based', 'based', ' Based', 'According']
+Rank 3 | Centroid: 'Okay' | Score: 0.0049
+  Tokens: ['Okay', 'Yes', 'Alright']
+Rank 4 | Centroid: 'Question' | Score: 0.0035
+  Tokens: ['Question', 'Problem']
+Rank 5 | Centroid: 'Explanation' | Score: 0.0029
+  Tokens: ['Explanation', 'Reason', 'Analysis']
+Rank 6 | Centroid: 'Choose' | Score: 0.0023
+  Tokens: ['Please', 'Would', 'Choose', 'Make', 'Generate']
+Rank 7 | Centroid: 'Since' | Score: 0.0014
+  Tokens: ['Since', 'Given']
+Rank 8 | Centroid: 'Possible' | Score: 0.0012
+  Tokens: ['Possible', 'Maybe']
+Rank 9 | Centroid: 'Group' | Score: 0.0011
+  Tokens: ['Note', 'Step', 'Group']
+Rank 10 | Centroid: 'Check' | Score: 0.0010
+  Tokens: ['Think', 'Check', 'Click']
+Rank 11 | Centroid: 'Word' | Score: 0.0009
+  Tokens: ['Word', 'Statement']
+Rank 12 | Centroid: 'Let' | Score: 0.0008
+  Tokens: ['Let', 'Wait']
+Rank 13 | Centroid: 'Final' | Score: 0.0007
+  Tokens: ['Final', 'Even']
+Rank 14 | Centroid: 'Therefore' | Score: 0.0006
+  Tokens: ['Therefore', 'Thus']
+Rank 15 | Centroid: 'Jake' | Score: 0.0006
+  Tokens: ['Monday', 'WordPress', 'Jake']
+Rank 16 | Centroid: 'Example' | Score: 0.0004
+  Tokens: ['Example', 'Exercise']
+Rank 17 | Centroid: 'Actually' | Score: 0.0002
+  Tokens: ['Actually']
 
-**Chosen Concept:** Rank 1 with score 0.8086
+**Chosen Concept:** Rank 1

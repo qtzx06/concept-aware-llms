@@ -1,54 +1,69 @@
 --- Step 19 Log ---
 
 == Filtered Candidates ==
-Token: ' Today' (ID: 11201), Prob: 0.8828
-Token: ' today' (ID: 3351), Prob: 0.0081
-Token: 'Today' (ID: 15364), Prob: 0.0019
-Token: ' TODAY' (ID: 40262), Prob: 0.0019
-Token: '.Today' (ID: 72672), Prob: 0.0013
-Token: ' Tomorrow' (ID: 54996), Prob: 0.0005
-Token: ' Tonight' (ID: 54214), Prob: 0.0004
-Token: ' Together' (ID: 31155), Prob: 0.0003
-Token: ' Yesterday' (ID: 60033), Prob: 0.0003
-Token: ' Please' (ID: 5209), Prob: 0.0002
-Token: ' Day' (ID: 6059), Prob: 0.0002
-Token: ' Daily' (ID: 13385), Prob: 0.0002
-Token: ' Everyone' (ID: 21455), Prob: 0.0002
-Token: ' Recently' (ID: 40996), Prob: 0.0001
-Token: ' Also' (ID: 7281), Prob: 0.0001
-Token: ' Yes' (ID: 7414), Prob: 0.0001
-Token: ' People' (ID: 8853), Prob: 0.0001
-Token: ' Later' (ID: 24885), Prob: 0.0001
-Token: ' Tod' (ID: 58583), Prob: 0.0001
-Token: ' Tour' (ID: 14644), Prob: 0.0001
-Token: ' Children' (ID: 15044), Prob: 0.0001
-Token: ' Topics' (ID: 40894), Prob: 0.0001
-Token: ' Thank' (ID: 9731), Prob: 0.0001
+Token: ' prompt' (ID: 9934), Prob: 0.0332
+Token: ' message' (ID: 1943), Prob: 0.0045
+Token: ' list' (ID: 1140), Prob: 0.0033
+Token: ' including' (ID: 2670), Prob: 0.0010
+Token: ' description' (ID: 4008), Prob: 0.0007
+Token: ' include' (ID: 2924), Prob: 0.0006
+Token: ' example' (ID: 3110), Prob: 0.0006
+Token: ' except' (ID: 3650), Prob: 0.0005
+Token: ' item' (ID: 1509), Prob: 0.0004
+Token: ' items' (ID: 3589), Prob: 0.0004
+Token: ' given' (ID: 2661), Prob: 0.0004
+Token: ' response' (ID: 2033), Prob: 0.0003
+Token: ' exactly' (ID: 6896), Prob: 0.0003
+Token: ' text' (ID: 1467), Prob: 0.0003
+Token: ' title' (ID: 2265), Prob: 0.0003
+Token: ' like' (ID: 1075), Prob: 0.0003
+Token: ' without' (ID: 2041), Prob: 0.0003
+Token: ' body' (ID: 2487), Prob: 0.0003
+Token: ' within' (ID: 2878), Prob: 0.0003
+Token: ' format' (ID: 3561), Prob: 0.0003
+Token: ' display' (ID: 3037), Prob: 0.0003
+Token: ' box' (ID: 3745), Prob: 0.0003
+Token: ' wording' (ID: 60227), Prob: 0.0003
+Token: ' question' (ID: 3405), Prob: 0.0003
+Token: ' listed' (ID: 10007), Prob: 0.0003
+Token: ' containing' (ID: 8482), Prob: 0.0002
+Token: ' listing' (ID: 14838), Prob: 0.0002
+Token: ' according' (ID: 4092), Prob: 0.0002
+Token: ' Prompt' (ID: 59501), Prob: 0.0002
+Token: ' please' (ID: 4486), Prob: 0.0002
 
 == Ranked Concepts (Clusters) ==
-Rank 1 | Concept Score: 0.8945
-  Tokens: [' Today', ' today', 'Today', ' TODAY', '.Today']
-Rank 2 | Concept Score: 0.0009
-  Tokens: [' Tomorrow', ' Tonight']
-Rank 3 | Concept Score: 0.0004
-  Tokens: [' Please', ' Yes', ' Thank']
-Rank 4 | Concept Score: 0.0004
-  Tokens: [' Everyone', ' People', ' Children']
-Rank 5 | Concept Score: 0.0003
-  Tokens: [' Day', ' Daily']
-Rank 6 | Concept Score: 0.0003
-  Tokens: [' Yesterday']
-Rank 7 | Concept Score: 0.0003
-  Tokens: [' Together']
-Rank 8 | Concept Score: 0.0003
-  Tokens: [' Recently', ' Also']
-Rank 9 | Concept Score: 0.0001
-  Tokens: [' Tod']
-Rank 10 | Concept Score: 0.0001
-  Tokens: [' Later']
-Rank 11 | Concept Score: 0.0001
-  Tokens: [' Tour']
-Rank 12 | Concept Score: 0.0001
-  Tokens: [' Topics']
+Rank 1 | Centroid: ' prompt' | Score: 0.0334
+  Tokens: [' prompt', ' Prompt']
+Rank 2 | Centroid: ' message' | Score: 0.0048
+  Tokens: [' message', ' response']
+Rank 3 | Centroid: ' listing' | Score: 0.0038
+  Tokens: [' list', ' listed', ' listing']
+Rank 4 | Centroid: ' including' | Score: 0.0018
+  Tokens: [' including', ' include', ' containing']
+Rank 5 | Centroid: ' without' | Score: 0.0013
+  Tokens: [' except', ' without', ' within', ' according']
+Rank 6 | Centroid: ' description' | Score: 0.0010
+  Tokens: [' description', ' wording']
+Rank 7 | Centroid: ' item' | Score: 0.0008
+  Tokens: [' item', ' items']
+Rank 8 | Centroid: ' text' | Score: 0.0007
+  Tokens: [' text', ' title']
+Rank 9 | Centroid: ' example' | Score: 0.0006
+  Tokens: [' example']
+Rank 10 | Centroid: ' format' | Score: 0.0006
+  Tokens: [' format', ' display']
+Rank 11 | Centroid: ' exactly' | Score: 0.0005
+  Tokens: [' exactly', ' please']
+Rank 12 | Centroid: ' given' | Score: 0.0004
+  Tokens: [' given']
+Rank 13 | Centroid: ' like' | Score: 0.0003
+  Tokens: [' like']
+Rank 14 | Centroid: ' body' | Score: 0.0003
+  Tokens: [' body']
+Rank 15 | Centroid: ' box' | Score: 0.0003
+  Tokens: [' box']
+Rank 16 | Centroid: ' question' | Score: 0.0003
+  Tokens: [' question']
 
-**Chosen Concept:** Rank 1 with score 0.8945
+**Chosen Concept:** Rank 1

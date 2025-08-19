@@ -1,92 +1,119 @@
 --- Step 35 Log ---
 
 == Filtered Candidates ==
-Token: ' money' (ID: 3220), Prob: 0.9141
-Token: ' back' (ID: 1182), Prob: 0.0148
-Token: ' paid' (ID: 7171), Prob: 0.0017
-Token: ' help' (ID: 1492), Prob: 0.0013
-Token: ' cash' (ID: 8350), Prob: 0.0010
-Token: ' something' (ID: 2494), Prob: 0.0007
-Token: ' revenge' (ID: 36069), Prob: 0.0003
-Token: ' credit' (ID: 6668), Prob: 0.0002
-Token: ' funds' (ID: 10514), Prob: 0.0002
-Token: ' financial' (ID: 5896), Prob: 0.0002
-Token: ' payment' (ID: 8160), Prob: 0.0002
-Token: ' enough' (ID: 3322), Prob: 0.0002
-Token: ' another' (ID: 2441), Prob: 0.0002
-Token: ' rid' (ID: 9279), Prob: 0.0002
-Token: ' stolen' (ID: 22329), Prob: 0.0002
-Token: ' part' (ID: 949), Prob: 0.0001
-Token: ' real' (ID: 1931), Prob: 0.0001
-Token: ' away' (ID: 3123), Prob: 0.0001
-Token: ' profit' (ID: 11372), Prob: 0.0001
-Token: ' dollars' (ID: 11192), Prob: 0.0001
-Token: ' information' (ID: 1995), Prob: 0.0001
-Token: ' replaced' (ID: 12575), Prob: 0.0001
-Token: ' coins' (ID: 18762), Prob: 0.0001
-Token: ' full' (ID: 2480), Prob: 0.0001
-Token: ' things' (ID: 2513), Prob: 0.0001
-Token: ' monetary' (ID: 32284), Prob: 0.0001
-Token: ' property' (ID: 3343), Prob: 0.0001
-Token: ' compensation' (ID: 19857), Prob: 0.0001
-Token: ' access' (ID: 2615), Prob: 0.0001
-Token: ' gold' (ID: 6623), Prob: 0.0001
-Token: ' coin' (ID: 16254), Prob: 0.0001
-Token: ' replacement' (ID: 13723), Prob: 0.0001
-Token: ' lost' (ID: 5558), Prob: 0.0001
-Token: ' benefits' (ID: 7567), Prob: 0.0001
-Token: ' someone' (ID: 4325), Prob: 0.0001
-Token: ' ahead' (ID: 8305), Prob: 0.0001
-Token: ' rich' (ID: 9080), Prob: 0.0001
-Token: ' Money' (ID: 17633), Prob: 0.0001
-Token: ' job' (ID: 2618), Prob: 0.0001
-Token: ' whatever' (ID: 8820), Prob: 0.0001
-Token: ' work' (ID: 975), Prob: 0.0001
-Token: ' even' (ID: 1496), Prob: 0.0001
-Token: ' free' (ID: 1910), Prob: 0.0001
-Token: ' power' (ID: 2355), Prob: 0.0001
-Token: ' payments' (ID: 14173), Prob: 0.0001
-Token: ' around' (ID: 2163), Prob: 0.0001
-Token: ' food' (ID: 3607), Prob: 0.0001
-Token: ' somewhere' (ID: 14696), Prob: 0.0001
-Token: ' one' (ID: 825), Prob: 0.0000
-Token: ' ready' (ID: 5527), Prob: 0.0000
-Token: ' funding' (ID: 10773), Prob: 0.0000
+Token: ' family' (ID: 2997), Prob: 0.9961
+Token: ' home' (ID: 2114), Prob: 0.0006
+Token: ' Family' (ID: 12238), Prob: 0.0000
+Token: ' company' (ID: 2813), Prob: 0.0000
+Token: ' house' (ID: 3753), Prob: 0.0000
+Token: ' care' (ID: 2453), Prob: 0.0000
+Token: ' families' (ID: 8521), Prob: 0.0000
+Token: 'family' (ID: 18984), Prob: 0.0000
+Token: ' child' (ID: 1682), Prob: 0.0000
+Token: ' system' (ID: 1849), Prob: 0.0000
+Token: ' country' (ID: 3146), Prob: 0.0000
+Token: ' household' (ID: 13732), Prob: 0.0000
+Token: ' future' (ID: 3853), Prob: 0.0000
+Token: ' parents' (ID: 6562), Prob: 0.0000
+Token: ' mother' (ID: 6554), Prob: 0.0000
+Token: ' world' (ID: 1879), Prob: 0.0000
+Token: ' school' (ID: 2906), Prob: 0.0000
+Token: ' parent' (ID: 2681), Prob: 0.0000
+Token: ' name' (ID: 829), Prob: 0.0000
+Token: ' room' (ID: 3054), Prob: 0.0000
+Token: ' environment' (ID: 4573), Prob: 0.0000
+Token: ' factory' (ID: 8633), Prob: 0.0000
+Token: ' next' (ID: 1790), Prob: 0.0000
+Token: ' familia' (ID: 50947), Prob: 0.0000
+Token: ' familial' (ID: 97204), Prob: 0.0000
+Token: ' children' (ID: 2841), Prob: 0.0000
+Token: ' community' (ID: 3942), Prob: 0.0000
+Token: ' first' (ID: 1156), Prob: 0.0000
+Token: ' current' (ID: 1482), Prob: 0.0000
+Token: ' following' (ID: 2701), Prob: 0.0000
+Token: ' wrong' (ID: 4969), Prob: 0.0000
+Token: ' hospital' (ID: 8777), Prob: 0.0000
+Token: ' kitchen' (ID: 9780), Prob: 0.0000
+Token: ' nursing' (ID: 27356), Prob: 0.0000
+Token: ' education' (ID: 6731), Prob: 0.0000
+Token: ' parenting' (ID: 47958), Prob: 0.0000
+Token: ' father' (ID: 6981), Prob: 0.0000
+Token: ' farm' (ID: 8785), Prob: 0.0000
+Token: ' year' (ID: 1042), Prob: 0.0000
+Token: ' way' (ID: 1616), Prob: 0.0000
+Token: 'Family' (ID: 15192), Prob: 0.0000
+Token: ' famil' (ID: 43426), Prob: 0.0000
+Token: ' long' (ID: 1293), Prob: 0.0000
+Token: ' nursery' (ID: 55126), Prob: 0.0000
+Token: ' city' (ID: 3283), Prob: 0.0000
+Token: ' new' (ID: 501), Prob: 0.0000
+Token: ' class' (ID: 536), Prob: 0.0000
+Token: ' old' (ID: 2310), Prob: 0.0000
+Token: ' study' (ID: 3920), Prob: 0.0000
+Token: ' facility' (ID: 12481), Prob: 0.0000
+Token: ' day' (ID: 1899), Prob: 0.0000
+Token: ' field' (ID: 2070), Prob: 0.0000
+Token: ' party' (ID: 4614), Prob: 0.0000
+Token: ' FAMILY' (ID: 87469), Prob: 0.0000
+Token: ' fam' (ID: 2091), Prob: 0.0000
+Token: ' center' (ID: 4126), Prob: 0.0000
+Token: ' living' (ID: 5382), Prob: 0.0000
+Token: ' extended' (ID: 11577), Prob: 0.0000
+Token: ' government' (ID: 3033), Prob: 0.0000
+Token: ' four' (ID: 3040), Prob: 0.0000
+Token: ' money' (ID: 3220), Prob: 0.0000
+Token: '_FAMILY' (ID: 80828), Prob: 0.0000
+Token: ' car' (ID: 1803), Prob: 0.0000
+Token: ' life' (ID: 2272), Prob: 0.0000
+Token: ' right' (ID: 1290), Prob: 0.0000
+Token: ' full' (ID: 2480), Prob: 0.0000
+Token: ' baby' (ID: 8770), Prob: 0.0000
+Token: '-family' (ID: 17190), Prob: 0.0000
+Token: ' knowledge' (ID: 6540), Prob: 0.0000
+Token: ' traditional' (ID: 8606), Prob: 0.0000
+Token: '_family' (ID: 26823), Prob: 0.0000
+Token: ' hands' (ID: 6078), Prob: 0.0000
+Token: ' group' (ID: 1874), Prob: 0.0000
+Token: ' relationship' (ID: 5025), Prob: 0.0000
+Token: ' cycle' (ID: 10775), Prob: 0.0000
+Token: ' nuclear' (ID: 11249), Prob: 0.0000
+Token: ' childhood' (ID: 19990), Prob: 0.0000
+Token: ' parental' (ID: 45579), Prob: 0.0000
+Token: ' public' (ID: 584), Prob: 0.0000
+Token: ' financial' (ID: 5896), Prob: 0.0000
 
 == Ranked Concepts (Clusters) ==
-Rank 1 | Concept Score: 0.9141
-  Tokens: [' money', ' cash', ' funds', ' financial', ' dollars', ' monetary', ' Money', ' funding']
-Rank 2 | Concept Score: 0.0150
-  Tokens: [' back', ' away', ' ahead', ' around']
-Rank 3 | Concept Score: 0.0019
-  Tokens: [' paid', ' payment', ' payments']
-Rank 4 | Concept Score: 0.0015
-  Tokens: [' help', ' information', ' access']
-Rank 5 | Concept Score: 0.0010
-  Tokens: [' something', ' things', ' someone', ' whatever', ' somewhere']
-Rank 6 | Concept Score: 0.0005
-  Tokens: [' revenge', ' rid']
-Rank 7 | Concept Score: 0.0004
-  Tokens: [' credit', ' profit', ' benefits']
-Rank 8 | Concept Score: 0.0004
-  Tokens: [' real', ' full', ' rich', ' free', ' ready']
-Rank 9 | Concept Score: 0.0003
-  Tokens: [' another', ' part', ' one']
-Rank 10 | Concept Score: 0.0003
-  Tokens: [' coins', ' gold', ' coin']
-Rank 11 | Concept Score: 0.0002
-  Tokens: [' stolen', ' lost']
-Rank 12 | Concept Score: 0.0002
-  Tokens: [' replaced', ' replacement']
-Rank 13 | Concept Score: 0.0002
-  Tokens: [' job', ' work', ' food']
-Rank 14 | Concept Score: 0.0002
-  Tokens: [' enough']
-Rank 15 | Concept Score: 0.0001
-  Tokens: [' property', ' power']
-Rank 16 | Concept Score: 0.0001
-  Tokens: [' compensation']
-Rank 17 | Concept Score: 0.0001
-  Tokens: [' even']
+Rank 1 | Centroid: ' Family' | Score: 0.9961
+  Tokens: [' family', ' Family', ' families', 'family', ' familia', ' familial', 'Family', ' famil', ' FAMILY', ' fam', '_FAMILY', '-family', '_family']
+Rank 2 | Centroid: ' house' | Score: 0.0007
+  Tokens: [' home', ' house', ' household', ' room', ' kitchen']
+Rank 3 | Centroid: ' country' | Score: 0.0001
+  Tokens: [' company', ' country', ' city', ' party']
+Rank 4 | Centroid: ' parents' | Score: 0.0001
+  Tokens: [' parents', ' mother', ' parent', ' parenting', ' father', ' parental']
+Rank 5 | Centroid: ' traditional' | Score: 0.0000
+  Tokens: [' name', ' first', ' current', ' long', ' new', ' old', ' extended', ' four', ' full', ' traditional']
+Rank 6 | Centroid: ' year' | Score: 0.0000
+  Tokens: [' care', ' year', ' way', ' day', ' car', ' cycle']
+Rank 7 | Centroid: ' hospital' | Score: 0.0000
+  Tokens: [' school', ' factory', ' hospital', ' farm', ' nursery', ' facility']
+Rank 8 | Centroid: ' child' | Score: 0.0000
+  Tokens: [' child', ' children', ' baby', ' childhood']
+Rank 9 | Centroid: ' next' | Score: 0.0000
+  Tokens: [' future', ' next', ' following']
+Rank 10 | Centroid: ' group' | Score: 0.0000
+  Tokens: [' system', ' class', ' field', ' group']
+Rank 11 | Centroid: ' environment' | Score: 0.0000
+  Tokens: [' world', ' environment', ' relationship']
+Rank 12 | Centroid: ' financial' | Score: 0.0000
+  Tokens: [' nursing', ' education', ' money', ' knowledge', ' nuclear', ' financial']
+Rank 13 | Centroid: ' right' | Score: 0.0000
+  Tokens: [' wrong', ' center', ' right', ' hands']
+Rank 14 | Centroid: ' government' | Score: 0.0000
+  Tokens: [' community', ' government', ' public']
+Rank 15 | Centroid: ' living' | Score: 0.0000
+  Tokens: [' living', ' life']
+Rank 16 | Centroid: ' study' | Score: 0.0000
+  Tokens: [' study']
 
-**Chosen Concept:** Rank 1 with score 0.9141
+**Chosen Concept:** Rank 1

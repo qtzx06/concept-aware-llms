@@ -1,112 +1,119 @@
 --- Step 112 Log ---
 
 == Filtered Candidates ==
-Token: ' get' (ID: 633), Prob: 1.0000
-Token: ' take' (ID: 1896), Prob: 0.0000
-Token: ' gain' (ID: 8722), Prob: 0.0000
-Token: ' make' (ID: 1281), Prob: 0.0000
-Token: ' buy' (ID: 3695), Prob: 0.0000
-Token: ' give' (ID: 2968), Prob: 0.0000
-Token: ' gets' (ID: 5221), Prob: 0.0000
-Token: ' find' (ID: 1477), Prob: 0.0000
-Token: ' obtain' (ID: 6851), Prob: 0.0000
-Token: ' got' (ID: 2684), Prob: 0.0000
-Token: ' replace' (ID: 8290), Prob: 0.0000
-Token: ' return' (ID: 470), Prob: 0.0000
-Token: ' retrieve' (ID: 17179), Prob: 0.0000
-Token: ' use' (ID: 990), Prob: 0.0000
-Token: ' regain' (ID: 48555), Prob: 0.0000
-Token: ' catch' (ID: 2287), Prob: 0.0000
-Token: ' Get' (ID: 2126), Prob: 0.0000
-Token: ' keep' (ID: 2506), Prob: 0.0000
-Token: ' getting' (ID: 3709), Prob: 0.0000
-Token: ' pay' (ID: 2291), Prob: 0.0000
-Token: ' earn' (ID: 7232), Prob: 0.0000
-Token: ' see' (ID: 1490), Prob: 0.0000
-Token: ' steal' (ID: 26571), Prob: 0.0000
-Token: ' receive' (ID: 5258), Prob: 0.0000
-Token: '/get' (ID: 23302), Prob: 0.0000
-Token: 'get' (ID: 455), Prob: 0.0000
-Token: ' put' (ID: 2182), Prob: 0.0000
-Token: ' recover' (ID: 11731), Prob: 0.0000
-Token: '.get' (ID: 670), Prob: 0.0000
-Token: ' acquire' (ID: 21256), Prob: 0.0000
-Token: ' let' (ID: 1077), Prob: 0.0000
-Token: ' fix' (ID: 5046), Prob: 0.0000
-Token: ' come' (ID: 2525), Prob: 0.0000
-Token: ' set' (ID: 738), Prob: 0.0000
-Token: ' ask' (ID: 2548), Prob: 0.0000
-Token: ' collect' (ID: 6530), Prob: 0.0000
-Token: ' achieve' (ID: 11075), Prob: 0.0000
-Token: ' break' (ID: 1438), Prob: 0.0000
-Token: '	get' (ID: 10366), Prob: 0.0000
-Token: ' trade' (ID: 6559), Prob: 0.0000
-Token: ' enter' (ID: 3725), Prob: 0.0000
-Token: ' learn' (ID: 3960), Prob: 0.0000
-Token: ' grab' (ID: 11633), Prob: 0.0000
-Token: ' say' (ID: 1977), Prob: 0.0000
-Token: ' GET' (ID: 7890), Prob: 0.0000
-Token: '(get' (ID: 5433), Prob: 0.0000
-Token: '-get' (ID: 22491), Prob: 0.0000
-Token: ' try' (ID: 1430), Prob: 0.0000
-Token: ' restore' (ID: 14952), Prob: 0.0000
-Token: ' sell' (ID: 4559), Prob: 0.0000
-Token: ' swap' (ID: 14291), Prob: 0.0000
-Token: ' change' (ID: 2297), Prob: 0.0000
-Token: ' extract' (ID: 8649), Prob: 0.0000
-Token: ' lose' (ID: 9052), Prob: 0.0000
-Token: ' gather' (ID: 9567), Prob: 0.0000
+Token: ' grow' (ID: 3063), Prob: 1.0000
+Token: ' grown' (ID: 14700), Prob: 0.0002
+Token: ' growth' (ID: 6513), Prob: 0.0001
+Token: ' grows' (ID: 27715), Prob: 0.0001
+Token: ' growing' (ID: 7826), Prob: 0.0001
+Token: ' grew' (ID: 13938), Prob: 0.0000
+Token: ' get' (ID: 633), Prob: 0.0000
+Token: ' old' (ID: 2310), Prob: 0.0000
+Token: ' stay' (ID: 4717), Prob: 0.0000
+Token: ' age' (ID: 4231), Prob: 0.0000
 Token: ' become' (ID: 3635), Prob: 0.0000
-Token: ' file' (ID: 1034), Prob: 0.0000
+Token: ' young' (ID: 3908), Prob: 0.0000
+Token: ' raise' (ID: 4828), Prob: 0.0000
+Token: ' rise' (ID: 10000), Prob: 0.0000
+Token: ' leave' (ID: 5274), Prob: 0.0000
+Token: ' eat' (ID: 8180), Prob: 0.0000
+Token: 'grow' (ID: 66218), Prob: 0.0000
+Token: ' keep' (ID: 2506), Prob: 0.0000
+Token: ' Grow' (ID: 46560), Prob: 0.0000
+Token: ' live' (ID: 3887), Prob: 0.0000
+Token: ' mature' (ID: 14851), Prob: 0.0000
+Token: ' engage' (ID: 16579), Prob: 0.0000
+Token: ' round' (ID: 4778), Prob: 0.0000
 Token: ' start' (ID: 1191), Prob: 0.0000
+Token: ' take' (ID: 1896), Prob: 0.0000
+Token: ' sleep' (ID: 6084), Prob: 0.0000
+Token: ' make' (ID: 1281), Prob: 0.0000
+Token: ' continue' (ID: 3060), Prob: 0.0000
+Token: ' read' (ID: 1349), Prob: 0.0000
+Token: ' use' (ID: 990), Prob: 0.0000
+Token: ' choose' (ID: 5157), Prob: 0.0000
+Token: ' cross' (ID: 5312), Prob: 0.0000
+Token: ' gather' (ID: 9567), Prob: 0.0000
+Token: ' long' (ID: 1293), Prob: 0.0000
+Token: ' spend' (ID: 8329), Prob: 0.0000
+Token: ' forget' (ID: 10667), Prob: 0.0000
+Token: ' group' (ID: 1874), Prob: 0.0000
+Token: ' move' (ID: 3271), Prob: 0.0000
+Token: ' reach' (ID: 5545), Prob: 0.0000
+Token: ' care' (ID: 2453), Prob: 0.0000
+Token: ' years' (ID: 1635), Prob: 0.0000
+Token: ' ask' (ID: 2548), Prob: 0.0000
+Token: ' close' (ID: 3265), Prob: 0.0000
+Token: ' develop' (ID: 2225), Prob: 0.0000
+Token: ' give' (ID: 2968), Prob: 0.0000
+Token: ' across' (ID: 3941), Prob: 0.0000
+Token: ' forever' (ID: 15683), Prob: 0.0000
+Token: ' graduate' (ID: 19023), Prob: 0.0000
+Token: ' open' (ID: 1787), Prob: 0.0000
+Token: ' gain' (ID: 8722), Prob: 0.0000
+Token: ' aged' (ID: 19749), Prob: 0.0000
+Token: ' catch' (ID: 2287), Prob: 0.0000
+Token: ' come' (ID: 2525), Prob: 0.0000
+Token: ' focus' (ID: 5244), Prob: 0.0000
+Token: ' green' (ID: 6176), Prob: 0.0000
+Token: ' older' (ID: 9014), Prob: 0.0000
+Token: ' groom' (ID: 39841), Prob: 0.0000
+Token: ' generate' (ID: 6923), Prob: 0.0000
 Token: ' look' (ID: 1401), Prob: 0.0000
-Token: ' claim' (ID: 3717), Prob: 0.0000
-Token: ' track' (ID: 3754), Prob: 0.0000
+Token: ' feel' (ID: 2666), Prob: 0.0000
+Token: ' younger' (ID: 14650), Prob: 0.0000
+Token: ' foster' (ID: 29987), Prob: 0.0000
+Token: ' join' (ID: 5138), Prob: 0.0000
+Token: ' youth' (ID: 12537), Prob: 0.0000
+Token: ' cry' (ID: 15729), Prob: 0.0000
+Token: ' run' (ID: 1598), Prob: 0.0000
 
 == Ranked Concepts (Clusters) ==
-Rank 1 | Concept Score: 1.0000
-  Tokens: [' get', ' gets', ' got', ' Get', ' getting', '/get', 'get', '.get', '\tget', ' GET', '(get', '-get']
-Rank 2 | Concept Score: 0.0000
-  Tokens: [' take', ' make', ' keep', ' try', ' start', ' look']
-Rank 3 | Concept Score: 0.0000
-  Tokens: [' gain']
-Rank 4 | Concept Score: 0.0000
-  Tokens: [' obtain', ' earn', ' receive', ' acquire', ' achieve']
-Rank 5 | Concept Score: 0.0000
-  Tokens: [' buy', ' pay', ' sell']
-Rank 6 | Concept Score: 0.0000
-  Tokens: [' find', ' see']
-Rank 7 | Concept Score: 0.0000
-  Tokens: [' give']
-Rank 8 | Concept Score: 0.0000
-  Tokens: [' use', ' put', ' set', ' file']
-Rank 9 | Concept Score: 0.0000
-  Tokens: [' regain', ' recover', ' restore', ' lose']
-Rank 10 | Concept Score: 0.0000
-  Tokens: [' retrieve', ' collect', ' grab', ' extract', ' gather']
-Rank 11 | Concept Score: 0.0000
-  Tokens: [' replace', ' fix']
-Rank 12 | Concept Score: 0.0000
-  Tokens: [' return', ' break']
-Rank 13 | Concept Score: 0.0000
-  Tokens: [' catch']
-Rank 14 | Concept Score: 0.0000
-  Tokens: [' let', ' ask', ' say']
-Rank 15 | Concept Score: 0.0000
-  Tokens: [' steal']
-Rank 16 | Concept Score: 0.0000
-  Tokens: [' come', ' become']
-Rank 17 | Concept Score: 0.0000
-  Tokens: [' trade', ' swap']
-Rank 18 | Concept Score: 0.0000
-  Tokens: [' enter']
-Rank 19 | Concept Score: 0.0000
-  Tokens: [' learn']
-Rank 20 | Concept Score: 0.0000
-  Tokens: [' change']
-Rank 21 | Concept Score: 0.0000
-  Tokens: [' claim']
-Rank 22 | Concept Score: 0.0000
-  Tokens: [' track']
+Rank 1 | Centroid: ' grow' | Score: 1.0000
+  Tokens: [' grow', ' grown', ' growth', ' grows', ' growing', ' grew', 'grow', ' Grow']
+Rank 2 | Centroid: ' younger' | Score: 0.0001
+  Tokens: [' old', ' age', ' young', ' aged', ' older', ' younger', ' youth']
+Rank 3 | Centroid: ' keep' | Score: 0.0000
+  Tokens: [' stay', ' leave', ' keep', ' continue']
+Rank 4 | Centroid: ' give' | Score: 0.0000
+  Tokens: [' get', ' take', ' make', ' give']
+Rank 5 | Centroid: ' raise' | Score: 0.0000
+  Tokens: [' raise', ' rise']
+Rank 6 | Centroid: ' generate' | Score: 0.0000
+  Tokens: [' engage', ' choose', ' gather', ' ask', ' develop', ' generate']
+Rank 7 | Centroid: ' become' | Score: 0.0000
+  Tokens: [' become', ' come']
+Rank 8 | Centroid: ' green' | Score: 0.0000
+  Tokens: [' live', ' round', ' group', ' green']
+Rank 9 | Centroid: ' start' | Score: 0.0000
+  Tokens: [' start', ' read', ' use', ' move', ' run']
+Rank 10 | Centroid: ' eat' | Score: 0.0000
+  Tokens: [' eat', ' spend']
+Rank 11 | Centroid: ' foster' | Score: 0.0000
+  Tokens: [' graduate', ' groom', ' foster']
+Rank 12 | Centroid: ' mature' | Score: 0.0000
+  Tokens: [' mature']
+Rank 13 | Centroid: ' cross' | Score: 0.0000
+  Tokens: [' cross', ' across']
+Rank 14 | Centroid: ' long' | Score: 0.0000
+  Tokens: [' long', ' forever']
+Rank 15 | Centroid: ' forget' | Score: 0.0000
+  Tokens: [' forget', ' focus']
+Rank 16 | Centroid: ' close' | Score: 0.0000
+  Tokens: [' close', ' open']
+Rank 17 | Centroid: ' sleep' | Score: 0.0000
+  Tokens: [' sleep']
+Rank 18 | Centroid: ' care' | Score: 0.0000
+  Tokens: [' care', ' cry']
+Rank 19 | Centroid: ' gain' | Score: 0.0000
+  Tokens: [' gain', ' catch']
+Rank 20 | Centroid: ' look' | Score: 0.0000
+  Tokens: [' look', ' feel']
+Rank 21 | Centroid: ' reach' | Score: 0.0000
+  Tokens: [' reach']
+Rank 22 | Centroid: ' years' | Score: 0.0000
+  Tokens: [' years']
+Rank 23 | Centroid: ' join' | Score: 0.0000
+  Tokens: [' join']
 
-**Chosen Concept:** Rank 1 with score 1.0000
+**Chosen Concept:** Rank 1

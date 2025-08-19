@@ -1,69 +1,133 @@
 --- Step 134 Log ---
 
 == Filtered Candidates ==
-Token: ' else' (ID: 770), Prob: 1.0000
-Token: ' may' (ID: 1231), Prob: 0.0000
-Token: ' elif' (ID: 4409), Prob: 0.0000
-Token: ' someone' (ID: 4325), Prob: 0.0000
-Token: '	else' (ID: 2466), Prob: 0.0000
-Token: 'else' (ID: 1503), Prob: 0.0000
-Token: ' another' (ID: 2441), Prob: 0.0000
-Token: ' even' (ID: 1496), Prob: 0.0000
-Token: ' Else' (ID: 18804), Prob: 0.0000
-Token: ' might' (ID: 2578), Prob: 0.0000
-Token: ' maybe' (ID: 7196), Prob: 0.0000
-Token: '_else' (ID: 62628), Prob: 0.0000
-Token: ' ELSE' (ID: 52926), Prob: 0.0000
-Token: ' try' (ID: 1430), Prob: 0.0000
-Token: ' different' (ID: 2155), Prob: 0.0000
-Token: ' otherwise' (ID: 5937), Prob: 0.0000
-Token: ' els' (ID: 20712), Prob: 0.0000
-Token: ' could' (ID: 1410), Prob: 0.0000
-Token: ' elsewhere' (ID: 17920), Prob: 0.0000
-Token: 'Else' (ID: 22971), Prob: 0.0000
-Token: ' person' (ID: 1697), Prob: 0.0000
-Token: ' etc' (ID: 4992), Prob: 0.0000
-Token: ' eth' (ID: 8372), Prob: 0.0000
-Token: ' ever' (ID: 3512), Prob: 0.0000
-Token: ' est' (ID: 1788), Prob: 0.0000
-Token: ' new' (ID: 501), Prob: 0.0000
-Token: ' online' (ID: 2860), Prob: 0.0000
-Token: ' estr' (ID: 29507), Prob: 0.0000
-Token: ' would' (ID: 1035), Prob: 0.0000
-Token: ' must' (ID: 1969), Prob: 0.0000
-Token: ' elseif' (ID: 11755), Prob: 0.0000
-Token: ' except' (ID: 3650), Prob: 0.0000
-Token: ' say' (ID: 1977), Prob: 0.0000
-Token: ' still' (ID: 2058), Prob: 0.0000
+Token: ' family' (ID: 2997), Prob: 1.0000
+Token: ' home' (ID: 2114), Prob: 0.0000
+Token: ' Family' (ID: 12238), Prob: 0.0000
+Token: ' familia' (ID: 50947), Prob: 0.0000
+Token: ' families' (ID: 8521), Prob: 0.0000
+Token: 'family' (ID: 18984), Prob: 0.0000
+Token: ' famil' (ID: 43426), Prob: 0.0000
+Token: ' country' (ID: 3146), Prob: 0.0000
+Token: ' child' (ID: 1682), Prob: 0.0000
+Token: ' fam' (ID: 2091), Prob: 0.0000
+Token: ' familial' (ID: 97204), Prob: 0.0000
+Token: ' company' (ID: 2813), Prob: 0.0000
+Token: ' category' (ID: 5582), Prob: 0.0000
+Token: ' mother' (ID: 6554), Prob: 0.0000
+Token: ' future' (ID: 3853), Prob: 0.0000
+Token: ' factory' (ID: 8633), Prob: 0.0000
+Token: ' parent' (ID: 2681), Prob: 0.0000
+Token: ' FAMILY' (ID: 87469), Prob: 0.0000
+Token: ' father' (ID: 6981), Prob: 0.0000
+Token: 'Family' (ID: 15192), Prob: 0.0000
+Token: ' city' (ID: 3283), Prob: 0.0000
+Token: ' facility' (ID: 12481), Prob: 0.0000
+Token: ' first' (ID: 1156), Prob: 0.0000
+Token: ' children' (ID: 2841), Prob: 0.0000
+Token: ' house' (ID: 3753), Prob: 0.0000
+Token: '_family' (ID: 26823), Prob: 0.0000
+Token: ' name' (ID: 829), Prob: 0.0000
+Token: ' famille' (ID: 66528), Prob: 0.0000
+Token: ' farm' (ID: 8785), Prob: 0.0000
+Token: ' household' (ID: 13732), Prob: 0.0000
+Token: '_FAMILY' (ID: 80828), Prob: 0.0000
+Token: '-family' (ID: 17190), Prob: 0.0000
+Token: ' system' (ID: 1849), Prob: 0.0000
+Token: ' room' (ID: 3054), Prob: 0.0000
+Token: ' current' (ID: 1482), Prob: 0.0000
+Token: '.family' (ID: 67947), Prob: 0.0000
+Token: ' year' (ID: 1042), Prob: 0.0000
+Token: ' kitchen' (ID: 9780), Prob: 0.0000
+Token: ' community' (ID: 3942), Prob: 0.0000
+Token: ' class' (ID: 536), Prob: 0.0000
+Token: ' field' (ID: 2070), Prob: 0.0000
+Token: ' legacy' (ID: 19588), Prob: 0.0000
+Token: ' care' (ID: 2453), Prob: 0.0000
+Token: ' família' (ID: 132492), Prob: 0.0000
+Token: ' day' (ID: 1899), Prob: 0.0000
+Token: ' following' (ID: 2701), Prob: 0.0000
+Token: ' couple' (ID: 5625), Prob: 0.0000
+Token: ' baby' (ID: 8770), Prob: 0.0000
+Token: ' childhood' (ID: 19990), Prob: 0.0000
+Token: ' next' (ID: 1790), Prob: 0.0000
+Token: ' full' (ID: 2480), Prob: 0.0000
+Token: ' center' (ID: 4126), Prob: 0.0000
+Token: ' floor' (ID: 6422), Prob: 0.0000
+Token: ' parents' (ID: 6562), Prob: 0.0000
+Token: ' foundation' (ID: 16266), Prob: 0.0000
+Token: ' charity' (ID: 22846), Prob: 0.0000
+Token: ' journey' (ID: 11618), Prob: 0.0000
+Token: ' time' (ID: 882), Prob: 0.0000
+Token: ' language' (ID: 4128), Prob: 0.0000
+Token: ' living' (ID: 5382), Prob: 0.0000
+Token: ' capital' (ID: 6722), Prob: 0.0000
+Token: ' way' (ID: 1616), Prob: 0.0000
+Token: ' environment' (ID: 4573), Prob: 0.0000
+Token: ' government' (ID: 3033), Prob: 0.0000
+Token: ' memory' (ID: 4938), Prob: 0.0000
+Token: ' level' (ID: 2188), Prob: 0.0000
+Token: ' school' (ID: 2906), Prob: 0.0000
+Token: ' camp' (ID: 3113), Prob: 0.0000
+Token: ' car' (ID: 1803), Prob: 0.0000
+Token: ' parenting' (ID: 47958), Prob: 0.0000
+Token: ' case' (ID: 1142), Prob: 0.0000
+Token: ' love' (ID: 2948), Prob: 0.0000
+Token: ' space' (ID: 3550), Prob: 0.0000
+Token: ' general' (ID: 4586), Prob: 0.0000
+Token: ' library' (ID: 6733), Prob: 0.0000
+Token: ' clan' (ID: 38462), Prob: 0.0000
+Token: ' final' (ID: 1590), Prob: 0.0000
+Token: ' framework' (ID: 12626), Prob: 0.0000
+Token: ' location' (ID: 3728), Prob: 0.0000
+Token: ' party' (ID: 4614), Prob: 0.0000
+Token: ' queue' (ID: 7177), Prob: 0.0000
+Token: ' summer' (ID: 7324), Prob: 0.0000
 
 == Ranked Concepts (Clusters) ==
-Rank 1 | Concept Score: 1.0000
-  Tokens: [' else', ' elif', '\telse', 'else', ' Else', '_else', ' ELSE', 'Else', ' elseif']
-Rank 2 | Concept Score: 0.0000
-  Tokens: [' may', ' might', ' could', ' would', ' must']
-Rank 3 | Concept Score: 0.0000
-  Tokens: [' someone', ' person']
-Rank 4 | Concept Score: 0.0000
-  Tokens: [' another', ' elsewhere']
-Rank 5 | Concept Score: 0.0000
-  Tokens: [' even']
-Rank 6 | Concept Score: 0.0000
-  Tokens: [' els', ' eth', ' est', ' estr']
-Rank 7 | Concept Score: 0.0000
-  Tokens: [' maybe']
-Rank 8 | Concept Score: 0.0000
-  Tokens: [' different', ' new']
-Rank 9 | Concept Score: 0.0000
-  Tokens: [' try', ' say']
-Rank 10 | Concept Score: 0.0000
-  Tokens: [' otherwise']
-Rank 11 | Concept Score: 0.0000
-  Tokens: [' etc', ' except']
-Rank 12 | Concept Score: 0.0000
-  Tokens: [' ever']
-Rank 13 | Concept Score: 0.0000
-  Tokens: [' online']
-Rank 14 | Concept Score: 0.0000
-  Tokens: [' still']
+Rank 1 | Centroid: ' Family' | Score: 1.0000
+  Tokens: [' family', ' Family', ' familia', ' families', 'family', ' famil', ' fam', ' familial', ' FAMILY', 'Family', '_family', ' famille', '_FAMILY', '-family', '.family', ' família']
+Rank 2 | Centroid: ' household' | Score: 0.0000
+  Tokens: [' home', ' house', ' farm', ' household', ' kitchen']
+Rank 3 | Centroid: ' country' | Score: 0.0000
+  Tokens: [' country', ' company', ' factory', ' city', ' community', ' government', ' school', ' library', ' party']
+Rank 4 | Centroid: ' parents' | Score: 0.0000
+  Tokens: [' mother', ' parent', ' father', ' parents', ' parenting']
+Rank 5 | Centroid: ' child' | Score: 0.0000
+  Tokens: [' child', ' children', ' baby', ' childhood']
+Rank 6 | Centroid: ' next' | Score: 0.0000
+  Tokens: [' future', ' first', ' current', ' following', ' next', ' full', ' final']
+Rank 7 | Centroid: ' category' | Score: 0.0000
+  Tokens: [' category', ' system', ' class']
+Rank 8 | Centroid: ' facility' | Score: 0.0000
+  Tokens: [' facility', ' center', ' queue']
+Rank 9 | Centroid: ' time' | Score: 0.0000
+  Tokens: [' name', ' time', ' space']
+Rank 10 | Centroid: ' day' | Score: 0.0000
+  Tokens: [' year', ' day', ' way', ' level']
+Rank 11 | Centroid: ' camp' | Score: 0.0000
+  Tokens: [' couple', ' camp', ' car', ' case']
+Rank 12 | Centroid: ' room' | Score: 0.0000
+  Tokens: [' room', ' floor']
+Rank 13 | Centroid: ' foundation' | Score: 0.0000
+  Tokens: [' foundation', ' journey', ' framework']
+Rank 14 | Centroid: ' location' | Score: 0.0000
+  Tokens: [' language', ' environment', ' location']
+Rank 15 | Centroid: ' legacy' | Score: 0.0000
+  Tokens: [' legacy', ' charity']
+Rank 16 | Centroid: ' care' | Score: 0.0000
+  Tokens: [' care', ' love']
+Rank 17 | Centroid: ' capital' | Score: 0.0000
+  Tokens: [' capital', ' memory']
+Rank 18 | Centroid: ' field' | Score: 0.0000
+  Tokens: [' field']
+Rank 19 | Centroid: ' living' | Score: 0.0000
+  Tokens: [' living']
+Rank 20 | Centroid: ' clan' | Score: 0.0000
+  Tokens: [' clan']
+Rank 21 | Centroid: ' general' | Score: 0.0000
+  Tokens: [' general']
+Rank 22 | Centroid: ' summer' | Score: 0.0000
+  Tokens: [' summer']
 
-**Chosen Concept:** Rank 1 with score 1.0000
+**Chosen Concept:** Rank 1

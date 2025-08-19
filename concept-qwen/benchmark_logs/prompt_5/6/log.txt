@@ -1,0 +1,95 @@
+--- Step 6 Log ---
+
+== Filtered Candidates ==
+Token: ' makes' (ID: 3643), Prob: 0.0044
+Token: ' follows' (ID: 11017), Prob: 0.0021
+Token: ' could' (ID: 1410), Prob: 0.0008
+Token: ' contains' (ID: 5610), Prob: 0.0008
+Token: ' represents' (ID: 10868), Prob: 0.0007
+Token: ' correctly' (ID: 12440), Prob: 0.0007
+Token: ' would' (ID: 1035), Prob: 0.0004
+Token: ' may' (ID: 1231), Prob: 0.0003
+Token: ' describes' (ID: 16555), Prob: 0.0003
+Token: ' must' (ID: 1969), Prob: 0.0003
+Token: ' refers' (ID: 19257), Prob: 0.0001
+Token: ' agrees' (ID: 32908), Prob: 0.0001
+Token: ' applies' (ID: 16790), Prob: 0.0001
+Token: ' supports' (ID: 11554), Prob: 0.0001
+Token: ' implies' (ID: 23945), Prob: 0.0001
+Token: ' reflects' (ID: 25963), Prob: 0.0001
+Token: ' qualifies' (ID: 79907), Prob: 0.0001
+Token: ' starts' (ID: 8471), Prob: 0.0001
+Token: ' logically' (ID: 73045), Prob: 0.0001
+Token: ' regarding' (ID: 8826), Prob: 0.0001
+Token: ' indicates' (ID: 14807), Prob: 0.0001
+Token: ' best' (ID: 1850), Prob: 0.0001
+Token: ' seems' (ID: 4977), Prob: 0.0001
+Token: ' make' (ID: 1281), Prob: 0.0001
+Token: ' holds' (ID: 9982), Prob: 0.0001
+Token: ' whether' (ID: 3425), Prob: 0.0001
+Token: ' follow' (ID: 1795), Prob: 0.0001
+Token: ' requires' (ID: 7460), Prob: 0.0001
+Token: ' includes' (ID: 5646), Prob: 0.0000
+Token: ' sentence' (ID: 11652), Prob: 0.0000
+Token: ' fits' (ID: 18304), Prob: 0.0000
+Token: ' corresponds' (ID: 33210), Prob: 0.0000
+Token: ' made' (ID: 1865), Prob: 0.0000
+Token: ' begins' (ID: 12033), Prob: 0.0000
+Token: ' involves' (ID: 17601), Prob: 0.0000
+Token: ' constitutes' (ID: 41575), Prob: 0.0000
+Token: ' conforms' (ID: 95164), Prob: 0.0000
+Token: ' needs' (ID: 3880), Prob: 0.0000
+Token: ' statement' (ID: 5114), Prob: 0.0000
+Token: ' completes' (ID: 44595), Prob: 0.0000
+Token: ' says' (ID: 2727), Prob: 0.0000
+Token: ' forms' (ID: 7586), Prob: 0.0000
+Token: ' determines' (ID: 26569), Prob: 0.0000
+Token: ' continues' (ID: 9539), Prob: 0.0000
+Token: ' takes' (ID: 4990), Prob: 0.0000
+Token: ' ends' (ID: 10335), Prob: 0.0000
+Token: ' belongs' (ID: 17180), Prob: 0.0000
+Token: ' matches' (ID: 9071), Prob: 0.0000
+Token: ' depends' (ID: 13798), Prob: 0.0000
+Token: ' assumes' (ID: 21484), Prob: 0.0000
+
+== Ranked Concepts (Clusters) ==
+Rank 1 | Centroid: ' make' | Score: 0.0045
+  Tokens: [' makes', ' make', ' made']
+Rank 2 | Centroid: ' follows' | Score: 0.0021
+  Tokens: [' follows', ' follow']
+Rank 3 | Centroid: ' could' | Score: 0.0018
+  Tokens: [' could', ' would', ' may', ' must']
+Rank 4 | Centroid: ' refers' | Score: 0.0015
+  Tokens: [' represents', ' describes', ' refers', ' applies', ' reflects', ' indicates', ' corresponds', ' belongs']
+Rank 5 | Centroid: ' involves' | Score: 0.0010
+  Tokens: [' contains', ' implies', ' includes', ' involves', ' assumes']
+Rank 6 | Centroid: ' correctly' | Score: 0.0007
+  Tokens: [' correctly', ' logically']
+Rank 7 | Centroid: ' conforms' | Score: 0.0002
+  Tokens: [' agrees', ' fits', ' conforms', ' matches']
+Rank 8 | Centroid: ' begins' | Score: 0.0002
+  Tokens: [' starts', ' begins', ' completes', ' continues', ' ends']
+Rank 9 | Centroid: ' qualifies' | Score: 0.0001
+  Tokens: [' qualifies', ' constitutes']
+Rank 10 | Centroid: ' regarding' | Score: 0.0001
+  Tokens: [' regarding', ' whether']
+Rank 11 | Centroid: ' statement' | Score: 0.0001
+  Tokens: [' sentence', ' statement', ' says']
+Rank 12 | Centroid: ' supports' | Score: 0.0001
+  Tokens: [' supports']
+Rank 13 | Centroid: ' seems' | Score: 0.0001
+  Tokens: [' seems', ' depends']
+Rank 14 | Centroid: ' requires' | Score: 0.0001
+  Tokens: [' requires', ' needs']
+Rank 15 | Centroid: ' best' | Score: 0.0001
+  Tokens: [' best']
+Rank 16 | Centroid: ' holds' | Score: 0.0001
+  Tokens: [' holds']
+Rank 17 | Centroid: ' determines' | Score: 0.0000
+  Tokens: [' determines']
+Rank 18 | Centroid: ' forms' | Score: 0.0000
+  Tokens: [' forms']
+Rank 19 | Centroid: ' takes' | Score: 0.0000
+  Tokens: [' takes']
+
+**Chosen Concept:** Rank 1

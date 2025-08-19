@@ -1,86 +1,75 @@
 --- Step 10 Log ---
 
 == Filtered Candidates ==
-Token: ' back' (ID: 1182), Prob: 0.0898
-Token: ' money' (ID: 3220), Prob: 0.0095
-Token: ' help' (ID: 1492), Prob: 0.0048
-Token: ' instead' (ID: 4518), Prob: 0.0048
-Token: ' via' (ID: 4566), Prob: 0.0042
-Token: ' without' (ID: 2041), Prob: 0.0025
-Token: ' owed' (ID: 47909), Prob: 0.0014
-Token: ' worth' (ID: 5802), Prob: 0.0012
-Token: ' quickly' (ID: 6157), Prob: 0.0011
-Token: ' away' (ID: 3123), Prob: 0.0009
-Token: ' loan' (ID: 11679), Prob: 0.0009
-Token: ' benefits' (ID: 7567), Prob: 0.0009
-Token: ' change' (ID: 2297), Prob: 0.0008
-Token: ' like' (ID: 1075), Prob: 0.0007
-Token: ' using' (ID: 1667), Prob: 0.0007
-Token: ' ahead' (ID: 8305), Prob: 0.0007
-Token: ' first' (ID: 1156), Prob: 0.0006
-Token: ' based' (ID: 3118), Prob: 0.0006
-Token: ' exchange' (ID: 9289), Prob: 0.0006
-Token: ' paid' (ID: 7171), Prob: 0.0006
-Token: ' earned' (ID: 15303), Prob: 0.0005
-Token: ' even' (ID: 1496), Prob: 0.0005
-Token: ' interest' (ID: 2734), Prob: 0.0005
-Token: ' done' (ID: 2814), Prob: 0.0005
-Token: ' buy' (ID: 3695), Prob: 0.0005
-Token: ' behind' (ID: 4815), Prob: 0.0005
-Token: ' straight' (ID: 7678), Prob: 0.0005
-Token: ' loans' (ID: 16606), Prob: 0.0005
-Token: ' made' (ID: 1865), Prob: 0.0004
-Token: ' online' (ID: 2860), Prob: 0.0004
-Token: ' right' (ID: 1290), Prob: 0.0004
-Token: ' backed' (ID: 21411), Prob: 0.0004
-Token: ' stolen' (ID: 22329), Prob: 0.0004
-Token: ' going' (ID: 2087), Prob: 0.0004
-Token: ' given' (ID: 2661), Prob: 0.0004
-Token: 'back' (ID: 1419), Prob: 0.0003
-Token: ' coming' (ID: 5001), Prob: 0.0003
-Token: ' elsewhere' (ID: 17920), Prob: 0.0003
-Token: ' exchanged' (ID: 47401), Prob: 0.0003
+Token: 'Let' (ID: 10061), Prob: 0.0894
+Token: 'Taking' (ID: 50097), Prob: 0.0054
+Token: 'Child' (ID: 3652), Prob: 0.0050
+Token: 'Therefore' (ID: 54815), Prob: 0.0042
+Token: 'Children' (ID: 11539), Prob: 0.0037
+Token: 'Answer' (ID: 16141), Prob: 0.0037
+Token: 'Parents' (ID: 61769), Prob: 0.0035
+Token: 'Rew' (ID: 58465), Prob: 0.0031
+Token: 'Using' (ID: 16429), Prob: 0.0029
+Token: 'Help' (ID: 12689), Prob: 0.0027
+Token: 'Parent' (ID: 8387), Prob: 0.0025
+Token: 'Maybe' (ID: 21390), Prob: 0.0022
+Token: 'Going' (ID: 46339), Prob: 0.0021
+Token: 'Trading' (ID: 96161), Prob: 0.0021
+Token: 'Please' (ID: 5501), Prob: 0.0020
+Token: 'Making' (ID: 42246), Prob: 0.0020
+Token: 'Learning' (ID: 47467), Prob: 0.0020
+Token: 'Educ' (ID: 97882), Prob: 0.0020
+Token: 'Make' (ID: 8078), Prob: 0.0019
+Token: 'Keeping' (ID: 71347), Prob: 0.0019
+Token: 'Putting' (ID: 97904), Prob: 0.0019
+Token: 'Home' (ID: 7623), Prob: 0.0017
+Token: 'Give' (ID: 35127), Prob: 0.0017
+Token: 'Changing' (ID: 59046), Prob: 0.0017
+Token: 'One' (ID: 3966), Prob: 0.0016
+Token: 'Would' (ID: 27989), Prob: 0.0016
+Token: 'Family' (ID: 15192), Prob: 0.0015
+Token: 'Moving' (ID: 39732), Prob: 0.0015
+Token: 'Young' (ID: 40572), Prob: 0.0015
+Token: 'Wait' (ID: 14190), Prob: 0.0014
+Token: 'Keep' (ID: 19434), Prob: 0.0014
+Token: 'Working' (ID: 33978), Prob: 0.0014
+Token: 'Trade' (ID: 39173), Prob: 0.0014
+Token: 'Rather' (ID: 63902), Prob: 0.0014
 
 == Ranked Concepts (Clusters) ==
-Rank 1 | Concept Score: 0.0908
-  Tokens: [' back', ' backed', 'back']
-Rank 2 | Concept Score: 0.0099
-  Tokens: [' money', ' buy']
-Rank 3 | Concept Score: 0.0088
-  Tokens: [' via', ' without', ' like', ' using', ' based']
-Rank 4 | Concept Score: 0.0062
-  Tokens: [' help', ' change', ' first']
-Rank 5 | Concept Score: 0.0048
-  Tokens: [' instead']
-Rank 6 | Concept Score: 0.0025
-  Tokens: [' owed', ' paid', ' earned']
-Rank 7 | Concept Score: 0.0015
-  Tokens: [' quickly', ' online']
-Rank 8 | Concept Score: 0.0014
-  Tokens: [' loan', ' loans']
-Rank 9 | Concept Score: 0.0013
-  Tokens: [' away', ' elsewhere']
-Rank 10 | Concept Score: 0.0012
-  Tokens: [' worth']
-Rank 11 | Concept Score: 0.0012
-  Tokens: [' ahead', ' behind']
-Rank 12 | Concept Score: 0.0009
-  Tokens: [' exchange', ' exchanged']
-Rank 13 | Concept Score: 0.0009
-  Tokens: [' done', ' made']
-Rank 14 | Concept Score: 0.0009
-  Tokens: [' benefits']
-Rank 15 | Concept Score: 0.0009
-  Tokens: [' straight', ' right']
-Rank 16 | Concept Score: 0.0007
-  Tokens: [' going', ' coming']
-Rank 17 | Concept Score: 0.0005
-  Tokens: [' even']
-Rank 18 | Concept Score: 0.0005
-  Tokens: [' interest']
-Rank 19 | Concept Score: 0.0004
-  Tokens: [' stolen']
-Rank 20 | Concept Score: 0.0004
-  Tokens: [' given']
+Rank 1 | Centroid: 'Let' | Score: 0.0942
+  Tokens: ['Let', 'Please', 'Would', 'Wait']
+Rank 2 | Centroid: 'Going' | Score: 0.0126
+  Tokens: ['Taking', 'Going', 'Putting', 'Changing', 'Moving']
+Rank 3 | Centroid: 'Child' | Score: 0.0087
+  Tokens: ['Child', 'Children']
+Rank 4 | Centroid: 'Therefore' | Score: 0.0079
+  Tokens: ['Therefore', 'Maybe', 'Rather']
+Rank 5 | Centroid: 'Parents' | Score: 0.0060
+  Tokens: ['Parents', 'Parent']
+Rank 6 | Centroid: 'Help' | Score: 0.0045
+  Tokens: ['Help', 'Give']
+Rank 7 | Centroid: 'Learning' | Score: 0.0039
+  Tokens: ['Learning', 'Educ']
+Rank 8 | Centroid: 'Making' | Score: 0.0038
+  Tokens: ['Making', 'Make']
+Rank 9 | Centroid: 'Answer' | Score: 0.0037
+  Tokens: ['Answer']
+Rank 10 | Centroid: 'Trading' | Score: 0.0035
+  Tokens: ['Trading', 'Trade']
+Rank 11 | Centroid: 'Keeping' | Score: 0.0033
+  Tokens: ['Keeping', 'Keep']
+Rank 12 | Centroid: 'Home' | Score: 0.0033
+  Tokens: ['Home', 'Family']
+Rank 13 | Centroid: 'Rew' | Score: 0.0031
+  Tokens: ['Rew']
+Rank 14 | Centroid: 'Using' | Score: 0.0029
+  Tokens: ['Using']
+Rank 15 | Centroid: 'One' | Score: 0.0016
+  Tokens: ['One']
+Rank 16 | Centroid: 'Young' | Score: 0.0015
+  Tokens: ['Young']
+Rank 17 | Centroid: 'Working' | Score: 0.0014
+  Tokens: ['Working']
 
-**Chosen Concept:** Rank 1 with score 0.0908
+**Chosen Concept:** Rank 1

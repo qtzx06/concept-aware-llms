@@ -1,79 +1,91 @@
 --- Step 113 Log ---
 
 == Filtered Candidates ==
-Token: ' money' (ID: 3220), Prob: 1.0000
-Token: ' back' (ID: 1182), Prob: 0.0001
-Token: ' cash' (ID: 8350), Prob: 0.0000
-Token: ' coin' (ID: 16254), Prob: 0.0000
-Token: ' Money' (ID: 17633), Prob: 0.0000
-Token: '_money' (ID: 34065), Prob: 0.0000
-Token: ' monetary' (ID: 32284), Prob: 0.0000
-Token: ' something' (ID: 2494), Prob: 0.0000
-Token: ' paid' (ID: 7171), Prob: 0.0000
-Token: ' payment' (ID: 8160), Prob: 0.0000
-Token: ' profit' (ID: 11372), Prob: 0.0000
-Token: ' information' (ID: 1995), Prob: 0.0000
-Token: ' help' (ID: 1492), Prob: 0.0000
-Token: ' gold' (ID: 6623), Prob: 0.0000
-Token: ' income' (ID: 7911), Prob: 0.0000
-Token: ' funds' (ID: 10514), Prob: 0.0000
-Token: 'money' (ID: 28259), Prob: 0.0000
-Token: ' food' (ID: 3607), Prob: 0.0000
-Token: ' mail' (ID: 8072), Prob: 0.0000
-Token: ' metal' (ID: 9317), Prob: 0.0000
-Token: ' mon' (ID: 1615), Prob: 0.0000
-Token: ' dollars' (ID: 11192), Prob: 0.0000
-Token: ' milk' (ID: 14074), Prob: 0.0000
-Token: ' enough' (ID: 3322), Prob: 0.0000
-Token: 'Money' (ID: 24786), Prob: 0.0000
-Token: ' music' (ID: 4627), Prob: 0.0000
-Token: ' magic' (ID: 10963), Prob: 0.0000
-Token: ' currency' (ID: 11413), Prob: 0.0000
-Token: ' blood' (ID: 6543), Prob: 0.0000
-Token: ' message' (ID: 1943), Prob: 0.0000
-Token: ' dinero' (ID: 65808), Prob: 0.0000
-Token: ' one' (ID: 825), Prob: 0.0000
-Token: ' financial' (ID: 5896), Prob: 0.0000
-Token: ' lost' (ID: 5558), Prob: 0.0000
-Token: ' MONEY' (ID: 93462), Prob: 0.0000
-Token: ' dollar' (ID: 17692), Prob: 0.0000
-Token: ' home' (ID: 2114), Prob: 0.0000
-Token: ' funding' (ID: 10773), Prob: 0.0000
-Token: ' loan' (ID: 11679), Prob: 0.0000
-Token: '.money' (ID: 59909), Prob: 0.0000
+Token: ' old' (ID: 2310), Prob: 1.0000
+Token: ' older' (ID: 9014), Prob: 0.0001
+Token: ' young' (ID: 3908), Prob: 0.0000
+Token: ' elderly' (ID: 28820), Prob: 0.0000
+Token: '(old' (ID: 21972), Prob: 0.0000
+Token: ' long' (ID: 1293), Prob: 0.0000
+Token: 'old' (ID: 813), Prob: 0.0000
+Token: '-old' (ID: 6284), Prob: 0.0000
+Token: '	old' (ID: 61828), Prob: 0.0000
+Token: '.old' (ID: 46061), Prob: 0.0000
+Token: ' Old' (ID: 10621), Prob: 0.0000
+Token: ' cold' (ID: 9255), Prob: 0.0000
+Token: '_old' (ID: 21108), Prob: 0.0000
+Token: ' ancient' (ID: 13833), Prob: 0.0000
+Token: ' oldest' (ID: 23513), Prob: 0.0000
+Token: ' tall' (ID: 16217), Prob: 0.0000
+Token: ' new' (ID: 501), Prob: 0.0000
+Token: ' OLD' (ID: 64891), Prob: 0.0000
+Token: ' child' (ID: 1682), Prob: 0.0000
+Token: ' away' (ID: 3123), Prob: 0.0000
+Token: ' oil' (ID: 5590), Prob: 0.0000
+Token: ' slow' (ID: 6301), Prob: 0.0000
+Token: ' well' (ID: 1632), Prob: 0.0000
+Token: ' aged' (ID: 19749), Prob: 0.0000
+Token: ' full' (ID: 2480), Prob: 0.0000
+Token: ' aging' (ID: 28984), Prob: 0.0000
+Token: ' large' (ID: 3460), Prob: 0.0000
+Token: ' fast' (ID: 4937), Prob: 0.0000
+Token: ' open' (ID: 1787), Prob: 0.0000
+Token: ' outdated' (ID: 40526), Prob: 0.0000
+Token: ' late' (ID: 3309), Prob: 0.0000
+Token: ' wide' (ID: 6884), Prob: 0.0000
+Token: ' end' (ID: 835), Prob: 0.0000
+Token: ' empty' (ID: 4287), Prob: 0.0000
+Token: ' small' (ID: 2613), Prob: 0.0000
+Token: ' age' (ID: 4231), Prob: 0.0000
+Token: ' always' (ID: 2677), Prob: 0.0000
+Token: ' ultra' (ID: 23998), Prob: 0.0000
+Token: ' obsolete' (ID: 46066), Prob: 0.0000
+Token: ' easy' (ID: 4135), Prob: 0.0000
+Token: ' without' (ID: 2041), Prob: 0.0000
+Token: ' along' (ID: 3156), Prob: 0.0000
+Token: ' elder' (ID: 22130), Prob: 0.0000
+Token: 'OLD' (ID: 7863), Prob: 0.0000
+Token: ' low' (ID: 3347), Prob: 0.0000
+Token: ' odd' (ID: 10322), Prob: 0.0000
+Token: ' tired' (ID: 19227), Prob: 0.0000
+Token: ' high' (ID: 1550), Prob: 0.0000
+Token: ' still' (ID: 2058), Prob: 0.0000
+Token: ' often' (ID: 3545), Prob: 0.0000
+Token: ' strong' (ID: 3746), Prob: 0.0000
+Token: ' alone' (ID: 7484), Prob: 0.0000
 
 == Ranked Concepts (Clusters) ==
-Rank 1 | Concept Score: 1.0000
-  Tokens: [' money', ' Money', '_money', 'money', 'Money', ' dinero', ' MONEY', '.money']
-Rank 2 | Concept Score: 0.0001
-  Tokens: [' back', ' home']
-Rank 3 | Concept Score: 0.0000
-  Tokens: [' cash', ' funds', ' financial', ' funding']
-Rank 4 | Concept Score: 0.0000
-  Tokens: [' coin', ' monetary', ' currency']
-Rank 5 | Concept Score: 0.0000
-  Tokens: [' food', ' milk', ' music', ' blood']
-Rank 6 | Concept Score: 0.0000
-  Tokens: [' paid', ' payment']
-Rank 7 | Concept Score: 0.0000
-  Tokens: [' gold', ' metal', ' magic']
-Rank 8 | Concept Score: 0.0000
-  Tokens: [' something', ' one']
-Rank 9 | Concept Score: 0.0000
-  Tokens: [' information', ' help']
-Rank 10 | Concept Score: 0.0000
-  Tokens: [' profit', ' income']
-Rank 11 | Concept Score: 0.0000
-  Tokens: [' mail', ' message']
-Rank 12 | Concept Score: 0.0000
-  Tokens: [' dollars', ' dollar']
-Rank 13 | Concept Score: 0.0000
-  Tokens: [' mon']
-Rank 14 | Concept Score: 0.0000
-  Tokens: [' enough']
-Rank 15 | Concept Score: 0.0000
-  Tokens: [' lost']
-Rank 16 | Concept Score: 0.0000
-  Tokens: [' loan']
+Rank 1 | Centroid: ' old' | Score: 1.0000
+  Tokens: [' old', '(old', 'old', '-old', '\told', '.old', ' Old', '_old', ' OLD', 'OLD']
+Rank 2 | Centroid: ' older' | Score: 0.0001
+  Tokens: [' older', ' elderly', ' ancient', ' oldest', ' elder']
+Rank 3 | Centroid: ' young' | Score: 0.0000
+  Tokens: [' young', ' child']
+Rank 4 | Centroid: ' large' | Score: 0.0000
+  Tokens: [' long', ' tall', ' large', ' late', ' wide', ' small', ' strong']
+Rank 5 | Centroid: ' cold' | Score: 0.0000
+  Tokens: [' cold']
+Rank 6 | Centroid: ' new' | Score: 0.0000
+  Tokens: [' new']
+Rank 7 | Centroid: ' low' | Score: 0.0000
+  Tokens: [' slow', ' fast', ' low', ' high']
+Rank 8 | Centroid: ' without' | Score: 0.0000
+  Tokens: [' away', ' without', ' along', ' alone']
+Rank 9 | Centroid: ' aged' | Score: 0.0000
+  Tokens: [' aged', ' aging', ' age']
+Rank 10 | Centroid: ' empty' | Score: 0.0000
+  Tokens: [' full', ' open', ' empty']
+Rank 11 | Centroid: ' oil' | Score: 0.0000
+  Tokens: [' oil', ' odd']
+Rank 12 | Centroid: ' outdated' | Score: 0.0000
+  Tokens: [' outdated', ' obsolete', ' tired']
+Rank 13 | Centroid: ' well' | Score: 0.0000
+  Tokens: [' well']
+Rank 14 | Centroid: ' always' | Score: 0.0000
+  Tokens: [' always', ' still', ' often']
+Rank 15 | Centroid: ' ultra' | Score: 0.0000
+  Tokens: [' ultra', ' easy']
+Rank 16 | Centroid: ' end' | Score: 0.0000
+  Tokens: [' end']
 
-**Chosen Concept:** Rank 1 with score 1.0000
+**Chosen Concept:** Rank 1

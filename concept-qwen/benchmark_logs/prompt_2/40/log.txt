@@ -1,74 +1,90 @@
 --- Step 40 Log ---
 
 == Filtered Candidates ==
-Token: ' Scientists' (ID: 56016), Prob: 0.0332
-Token: ' However' (ID: 4354), Prob: 0.0294
-Token: ' Based' (ID: 20205), Prob: 0.0215
-Token: ' Therefore' (ID: 15277), Prob: 0.0123
-Token: ' Also' (ID: 7281), Prob: 0.0048
-Token: ' According' (ID: 10548), Prob: 0.0040
-Token: ' Mars' (ID: 21048), Prob: 0.0040
-Token: ' Since' (ID: 8704), Prob: 0.0037
-Token: ' Thus' (ID: 14301), Prob: 0.0035
-Token: ' Given' (ID: 16246), Prob: 0.0035
-Token: ' NASA' (ID: 21431), Prob: 0.0035
-Token: ' Hence' (ID: 31040), Prob: 0.0021
-Token: ' Researchers' (ID: 58150), Prob: 0.0020
-Token: ' Using' (ID: 12091), Prob: 0.0019
-Token: ' Could' (ID: 16503), Prob: 0.0017
-Token: ' Despite' (ID: 17715), Prob: 0.0017
-Token: ' Research' (ID: 8319), Prob: 0.0014
-Token: ' Due' (ID: 23662), Prob: 0.0014
-Token: ' Plan' (ID: 9680), Prob: 0.0012
-Token: ' Even' (ID: 7418), Prob: 0.0010
-Token: ' Yet' (ID: 14626), Prob: 0.0010
-Token: ' Assuming' (ID: 63964), Prob: 0.0010
-Token: ' Explain' (ID: 81917), Prob: 0.0010
-Token: ' Science' (ID: 9965), Prob: 0.0009
-Token: ' Although' (ID: 10328), Prob: 0.0009
-Token: ' Today' (ID: 11201), Prob: 0.0009
-Token: ' Would' (ID: 18885), Prob: 0.0009
-Token: ' Experts' (ID: 50759), Prob: 0.0008
-Token: ' Scientist' (ID: 67309), Prob: 0.0008
-Token: ' Please' (ID: 5209), Prob: 0.0008
-Token: ' Let' (ID: 6771), Prob: 0.0008
-Token: ' Maybe' (ID: 10696), Prob: 0.0008
-Token: ' Perhaps' (ID: 18765), Prob: 0.0007
-Token: ' Currently' (ID: 24150), Prob: 0.0007
-Token: ' Future' (ID: 12498), Prob: 0.0007
+Token: ' yes' (ID: 9834), Prob: 0.1807
+Token: ' something' (ID: 2494), Prob: 0.0009
+Token: ' maybe' (ID: 7196), Prob: 0.0007
+Token: ' nothing' (ID: 4302), Prob: 0.0003
+Token: ' negative' (ID: 8225), Prob: 0.0003
+Token: ' yeah' (ID: 21639), Prob: 0.0002
+Token: ' etc' (ID: 4992), Prob: 0.0001
+Token: ' none' (ID: 6857), Prob: 0.0001
+Token: ' exactly' (ID: 6896), Prob: 0.0001
+Token: ' hello' (ID: 23811), Prob: 0.0001
+Token: ' wait' (ID: 3783), Prob: 0.0001
+Token: ' unknown' (ID: 9788), Prob: 0.0001
+Token: ' also' (ID: 1083), Prob: 0.0001
+Token: ' answer' (ID: 4226), Prob: 0.0001
+Token: ' one' (ID: 825), Prob: 0.0001
+Token: ' okay' (ID: 16910), Prob: 0.0001
+Token: ' definitely' (ID: 8491), Prob: 0.0001
+Token: ' sure' (ID: 2704), Prob: 0.0000
+Token: ' depends' (ID: 13798), Prob: 0.0000
+Token: ' without' (ID: 2041), Prob: 0.0000
+Token: ' whether' (ID: 3425), Prob: 0.0000
+Token: ' impossible' (ID: 11997), Prob: 0.0000
+Token: ' possible' (ID: 3204), Prob: 0.0000
+Token: ' perhaps' (ID: 8365), Prob: 0.0000
+Token: ' neither' (ID: 13866), Prob: 0.0000
+Token: ' either' (ID: 2987), Prob: 0.0000
+Token: ' false' (ID: 895), Prob: 0.0000
+Token: ' another' (ID: 2441), Prob: 0.0000
+Token: ' enough' (ID: 3322), Prob: 0.0000
+Token: ' Yes' (ID: 7414), Prob: 0.0000
+Token: ' still' (ID: 2058), Prob: 0.0000
+Token: ' cannot' (ID: 4157), Prob: 0.0000
+Token: ' correct' (ID: 4396), Prob: 0.0000
+Token: ' positive' (ID: 6785), Prob: 0.0000
+Token: ' depending' (ID: 11649), Prob: 0.0000
+Token: ' even' (ID: 1496), Prob: 0.0000
+Token: ' zero' (ID: 7168), Prob: 0.0000
+Token: ' missing' (ID: 7402), Prob: 0.0000
+Token: ' say' (ID: 1977), Prob: 0.0000
+Token: ' always' (ID: 2677), Prob: 0.0000
+Token: ' based' (ID: 3118), Prob: 0.0000
+Token: ' neg' (ID: 4184), Prob: 0.0000
+Token: ' please' (ID: 4486), Prob: 0.0000
+Token: ' possibly' (ID: 10767), Prob: 0.0000
+Token: ' unsure' (ID: 42903), Prob: 0.0000
 
 == Ranked Concepts (Clusters) ==
-Rank 1 | Concept Score: 0.0356
-  Tokens: [' Based', ' According', ' Since', ' Given', ' Using', ' Assuming']
-Rank 2 | Concept Score: 0.0349
-  Tokens: [' Scientists', ' Science', ' Scientist']
-Rank 3 | Concept Score: 0.0339
-  Tokens: [' However', ' Despite', ' Even', ' Yet', ' Although']
-Rank 4 | Concept Score: 0.0179
-  Tokens: [' Therefore', ' Thus', ' Hence']
-Rank 5 | Concept Score: 0.0075
-  Tokens: [' Mars', ' NASA']
-Rank 6 | Concept Score: 0.0048
-  Tokens: [' Also']
-Rank 7 | Concept Score: 0.0034
-  Tokens: [' Researchers', ' Research']
-Rank 8 | Concept Score: 0.0025
-  Tokens: [' Could', ' Would']
-Rank 9 | Concept Score: 0.0018
-  Tokens: [' Explain', ' Please']
-Rank 10 | Concept Score: 0.0016
-  Tokens: [' Today', ' Currently']
-Rank 11 | Concept Score: 0.0015
-  Tokens: [' Maybe', ' Perhaps']
-Rank 12 | Concept Score: 0.0014
-  Tokens: [' Due']
-Rank 13 | Concept Score: 0.0012
-  Tokens: [' Plan']
-Rank 14 | Concept Score: 0.0008
-  Tokens: [' Experts']
-Rank 15 | Concept Score: 0.0008
-  Tokens: [' Let']
-Rank 16 | Concept Score: 0.0007
-  Tokens: [' Future']
+Rank 1 | Centroid: ' yes' | Score: 0.1807
+  Tokens: [' yes', ' yeah', ' sure', ' Yes']
+Rank 2 | Centroid: ' something' | Score: 0.0009
+  Tokens: [' something']
+Rank 3 | Centroid: ' possibly' | Score: 0.0008
+  Tokens: [' maybe', ' possible', ' perhaps', ' possibly']
+Rank 4 | Centroid: ' none' | Score: 0.0005
+  Tokens: [' nothing', ' none', ' neither']
+Rank 5 | Centroid: ' negative' | Score: 0.0004
+  Tokens: [' negative', ' positive', ' zero', ' neg']
+Rank 6 | Centroid: ' one' | Score: 0.0002
+  Tokens: [' wait', ' one', ' another', ' say']
+Rank 7 | Centroid: ' impossible' | Score: 0.0002
+  Tokens: [' unknown', ' impossible', ' cannot', ' missing', ' unsure']
+Rank 8 | Centroid: ' hello' | Score: 0.0002
+  Tokens: [' hello', ' okay']
+Rank 9 | Centroid: ' exactly' | Score: 0.0001
+  Tokens: [' exactly', ' enough']
+Rank 10 | Centroid: ' etc' | Score: 0.0001
+  Tokens: [' etc']
+Rank 11 | Centroid: ' still' | Score: 0.0001
+  Tokens: [' also', ' still', ' always']
+Rank 12 | Centroid: ' answer' | Score: 0.0001
+  Tokens: [' answer', ' correct']
+Rank 13 | Centroid: ' depending' | Score: 0.0001
+  Tokens: [' depends', ' depending', ' based']
+Rank 14 | Centroid: ' whether' | Score: 0.0001
+  Tokens: [' whether', ' either']
+Rank 15 | Centroid: ' definitely' | Score: 0.0001
+  Tokens: [' definitely']
+Rank 16 | Centroid: ' without' | Score: 0.0000
+  Tokens: [' without']
+Rank 17 | Centroid: ' false' | Score: 0.0000
+  Tokens: [' false']
+Rank 18 | Centroid: ' even' | Score: 0.0000
+  Tokens: [' even']
+Rank 19 | Centroid: ' please' | Score: 0.0000
+  Tokens: [' please']
 
-**Chosen Concept:** Rank 1 with score 0.0356
+**Chosen Concept:** Rank 1

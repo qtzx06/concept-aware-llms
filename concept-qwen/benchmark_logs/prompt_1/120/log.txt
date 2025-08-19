@@ -1,0 +1,134 @@
+--- Step 120 Log ---
+
+== Filtered Candidates ==
+Token: ' tears' (ID: 23139), Prob: 0.3203
+Token: ' overwhelmed' (ID: 42106), Prob: 0.0811
+Token: ' heart' (ID: 4746), Prob: 0.0557
+Token: ' overwhelm' (ID: 95748), Prob: 0.0232
+Token: ' overwhelming' (ID: 22024), Prob: 0.0160
+Token: ' eyes' (ID: 6414), Prob: 0.0063
+Token: ' drowning' (ID: 73437), Prob: 0.0055
+Token: ' waves' (ID: 16876), Prob: 0.0049
+Token: ' sorrow' (ID: 57496), Prob: 0.0040
+Token: ' trembling' (ID: 91988), Prob: 0.0036
+Token: ' rain' (ID: 11174), Prob: 0.0028
+Token: ' tear' (ID: 17576), Prob: 0.0026
+Token: ' storms' (ID: 43483), Prob: 0.0026
+Token: ' storm' (ID: 13458), Prob: 0.0023
+Token: ' endless' (ID: 25678), Prob: 0.0020
+Token: ' exhaustion' (ID: 69563), Prob: 0.0019
+Token: ' hearts' (ID: 22662), Prob: 0.0018
+Token: ' despair' (ID: 45896), Prob: 0.0015
+Token: ' heavy' (ID: 8811), Prob: 0.0013
+Token: ' crying' (ID: 30199), Prob: 0.0013
+Token: ' overwhel' (ID: 16783), Prob: 0.0012
+Token: ' pouring' (ID: 50413), Prob: 0.0012
+Token: ' pain' (ID: 6646), Prob: 0.0012
+Token: ' shadows' (ID: 34512), Prob: 0.0012
+Token: ' feeling' (ID: 8266), Prob: 0.0010
+Token: ' exhausted' (ID: 37919), Prob: 0.0010
+Token: ' longing' (ID: 78322), Prob: 0.0010
+Token: ' hollow' (ID: 41802), Prob: 0.0009
+Token: ' emotions' (ID: 21261), Prob: 0.0007
+Token: ' skies' (ID: 49293), Prob: 0.0007
+Token: ' raining' (ID: 83253), Prob: 0.0007
+Token: ' shattered' (ID: 55367), Prob: 0.0007
+Token: ' light' (ID: 3100), Prob: 0.0006
+Token: ' suff' (ID: 8489), Prob: 0.0006
+Token: ' oceans' (ID: 53180), Prob: 0.0006
+Token: ' moon' (ID: 17788), Prob: 0.0005
+Token: ' burden' (ID: 22305), Prob: 0.0005
+Token: ' sadness' (ID: 50878), Prob: 0.0005
+Token: ' loneliness' (ID: 73940), Prob: 0.0005
+Token: ' sky' (ID: 12884), Prob: 0.0005
+Token: ' grief' (ID: 37284), Prob: 0.0005
+Token: ' soaked' (ID: 68875), Prob: 0.0005
+Token: ' ache' (ID: 77731), Prob: 0.0005
+Token: ' lost' (ID: 5558), Prob: 0.0004
+Token: ' flood' (ID: 17726), Prob: 0.0004
+Token: ' tearing' (ID: 55736), Prob: 0.0004
+Token: ' deep' (ID: 5538), Prob: 0.0004
+Token: ' soul' (ID: 13527), Prob: 0.0004
+Token: ' chaos' (ID: 26915), Prob: 0.0004
+Token: ' overflowing' (ID: 93215), Prob: 0.0004
+Token: ' weight' (ID: 4680), Prob: 0.0004
+Token: ' darkness' (ID: 26298), Prob: 0.0004
+Token: ' thunder' (ID: 36843), Prob: 0.0004
+Token: ' stars' (ID: 9759), Prob: 0.0004
+Token: ' empt' (ID: 53069), Prob: 0.0004
+Token: ' night' (ID: 3729), Prob: 0.0003
+Token: ' empty' (ID: 4287), Prob: 0.0003
+Token: ' falling' (ID: 15679), Prob: 0.0003
+Token: ' wind' (ID: 9956), Prob: 0.0003
+Token: ' clouds' (ID: 29514), Prob: 0.0003
+Token: ' drown' (ID: 86868), Prob: 0.0003
+Token: ' love' (ID: 2948), Prob: 0.0003
+Token: ' blood' (ID: 6543), Prob: 0.0003
+Token: ' broken' (ID: 10865), Prob: 0.0003
+Token: ' des' (ID: 939), Prob: 0.0003
+Token: ' dawn' (ID: 38393), Prob: 0.0003
+Token: ' anguish' (ID: 94922), Prob: 0.0003
+Token: ' burning' (ID: 19675), Prob: 0.0003
+Token: ' heaven' (ID: 22274), Prob: 0.0003
+Token: ' washed' (ID: 37493), Prob: 0.0003
+Token: ' earth' (ID: 9393), Prob: 0.0002
+Token: ' wet' (ID: 14401), Prob: 0.0002
+Token: ' floods' (ID: 60172), Prob: 0.0002
+Token: ' swirling' (ID: 92278), Prob: 0.0002
+Token: ' like' (ID: 1075), Prob: 0.0002
+Token: ' loss' (ID: 4709), Prob: 0.0002
+Token: ' hands' (ID: 6078), Prob: 0.0002
+Token: ' memories' (ID: 18923), Prob: 0.0002
+Token: ' choked' (ID: 93643), Prob: 0.0002
+Token: ' crimson' (ID: 96019), Prob: 0.0002
+Token: ' ocean' (ID: 17951), Prob: 0.0002
+Token: ' rivers' (ID: 35517), Prob: 0.0002
+Token: ' heartbeat' (ID: 52105), Prob: 0.0002
+
+== Ranked Concepts (Clusters) ==
+Rank 1 | Centroid: ' tear' | Score: 0.3242
+  Tokens: [' tears', ' tear', ' crying', ' tearing']
+Rank 2 | Centroid: ' overwhelm' | Score: 0.1221
+  Tokens: [' overwhelmed', ' overwhelm', ' overwhelming', ' overwhel', ' overflowing']
+Rank 3 | Centroid: ' heart' | Score: 0.0649
+  Tokens: [' heart', ' eyes', ' hearts', ' soul', ' blood', ' hands', ' heartbeat']
+Rank 4 | Centroid: ' sorrow' | Score: 0.0092
+  Tokens: [' sorrow', ' despair', ' feeling', ' longing', ' sadness', ' loneliness', ' ache', ' anguish']
+Rank 5 | Centroid: ' storm' | Score: 0.0092
+  Tokens: [' rain', ' storms', ' storm', ' raining', ' thunder', ' wind']
+Rank 6 | Centroid: ' drowning' | Score: 0.0065
+  Tokens: [' drowning', ' soaked', ' drown', ' washed']
+Rank 7 | Centroid: ' oceans' | Score: 0.0059
+  Tokens: [' waves', ' oceans', ' ocean', ' rivers']
+Rank 8 | Centroid: ' swirling' | Score: 0.0040
+  Tokens: [' trembling', ' swirling', ' crimson']
+Rank 9 | Centroid: ' exhausted' | Score: 0.0038
+  Tokens: [' exhaustion', ' exhausted', ' shattered', ' choked']
+Rank 10 | Centroid: ' empty' | Score: 0.0036
+  Tokens: [' endless', ' hollow', ' empt', ' empty']
+Rank 11 | Centroid: ' sky' | Score: 0.0029
+  Tokens: [' skies', ' moon', ' sky', ' stars', ' clouds', ' heaven', ' earth']
+Rank 12 | Centroid: ' heavy' | Score: 0.0027
+  Tokens: [' heavy', ' light', ' deep', ' weight']
+Rank 13 | Centroid: ' darkness' | Score: 0.0021
+  Tokens: [' shadows', ' darkness', ' night', ' dawn']
+Rank 14 | Centroid: ' grief' | Score: 0.0019
+  Tokens: [' pain', ' grief', ' love']
+Rank 15 | Centroid: ' pouring' | Score: 0.0018
+  Tokens: [' pouring', ' falling', ' burning']
+Rank 16 | Centroid: ' emotions' | Score: 0.0010
+  Tokens: [' emotions', ' memories']
+Rank 17 | Centroid: ' lost' | Score: 0.0009
+  Tokens: [' lost', ' broken', ' loss']
+Rank 18 | Centroid: ' flood' | Score: 0.0009
+  Tokens: [' flood', ' wet', ' floods']
+Rank 19 | Centroid: ' suff' | Score: 0.0006
+  Tokens: [' suff']
+Rank 20 | Centroid: ' burden' | Score: 0.0005
+  Tokens: [' burden']
+Rank 21 | Centroid: ' des' | Score: 0.0005
+  Tokens: [' des', ' like']
+Rank 22 | Centroid: ' chaos' | Score: 0.0004
+  Tokens: [' chaos']
+
+**Chosen Concept:** Rank 1

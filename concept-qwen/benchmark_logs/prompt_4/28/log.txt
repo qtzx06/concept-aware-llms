@@ -1,49 +1,61 @@
 --- Step 28 Log ---
 
 == Filtered Candidates ==
-Token: ' today' (ID: 3351), Prob: 0.7695
-Token: ' Today' (ID: 11201), Prob: 0.0718
-Token: '.Today' (ID: 72672), Prob: 0.0017
-Token: 'Today' (ID: 15364), Prob: 0.0015
-Token: ' day' (ID: 1899), Prob: 0.0012
-Token: ' tomorrow' (ID: 16577), Prob: 0.0012
-Token: 'today' (ID: 30113), Prob: 0.0011
-Token: ' TODAY' (ID: 40262), Prob: 0.0007
-Token: '(today' (ID: 75693), Prob: 0.0005
-Token: ' tonight' (ID: 17913), Prob: 0.0004
-Token: ' yesterday' (ID: 13671), Prob: 0.0002
-Token: ' daily' (ID: 7298), Prob: 0.0002
-Token: ' children' (ID: 2841), Prob: 0.0002
-Token: ' days' (ID: 2849), Prob: 0.0002
-Token: '.today' (ID: 37787), Prob: 0.0002
-Token: '_today' (ID: 68717), Prob: 0.0002
-Token: ' everyday' (ID: 17778), Prob: 0.0001
-Token: ' Tuesday' (ID: 7589), Prob: 0.0001
+Token: ' message' (ID: 1943), Prob: 0.9141
+Token: ' prompt' (ID: 9934), Prob: 0.0148
+Token: ' messages' (ID: 6605), Prob: 0.0016
+Token: '.message' (ID: 6698), Prob: 0.0005
+Token: 'message' (ID: 1994), Prob: 0.0003
+Token: ' question' (ID: 3405), Prob: 0.0002
+Token: ' Message' (ID: 4856), Prob: 0.0002
+Token: ' statement' (ID: 5114), Prob: 0.0002
+Token: '(message' (ID: 7333), Prob: 0.0002
+Token: ' list' (ID: 1140), Prob: 0.0001
+Token: ' item' (ID: 1509), Prob: 0.0001
+Token: ' response' (ID: 2033), Prob: 0.0001
+Token: ' answer' (ID: 4226), Prob: 0.0001
+Token: ' point' (ID: 1459), Prob: 0.0001
+Token: ' content' (ID: 2213), Prob: 0.0001
+Token: ' except' (ID: 3650), Prob: 0.0001
+Token: ':message' (ID: 91473), Prob: 0.0001
+Token: ' description' (ID: 4008), Prob: 0.0001
+Token: 'Message' (ID: 2052), Prob: 0.0001
+Token: ' example' (ID: 3110), Prob: 0.0001
+Token: ' phrase' (ID: 17133), Prob: 0.0001
+Token: ' information' (ID: 1995), Prob: 0.0000
+Token: ' sentence' (ID: 11652), Prob: 0.0000
+Token: '	message' (ID: 24753), Prob: 0.0000
+Token: ' user' (ID: 1196), Prob: 0.0000
+Token: ' text' (ID: 1467), Prob: 0.0000
+Token: '_message' (ID: 6462), Prob: 0.0000
+Token: ' instruction' (ID: 7600), Prob: 0.0000
 
 == Ranked Concepts (Clusters) ==
-Rank 1 | Concept Score: 0.8438
-  Tokens: [' today', ' Today', 'Today', 'today']
-Rank 2 | Concept Score: 0.0017
-  Tokens: ['.Today']
-Rank 3 | Concept Score: 0.0014
-  Tokens: [' day', ' days']
-Rank 4 | Concept Score: 0.0012
-  Tokens: [' tomorrow']
-Rank 5 | Concept Score: 0.0007
-  Tokens: [' TODAY']
-Rank 6 | Concept Score: 0.0005
-  Tokens: ['(today']
-Rank 7 | Concept Score: 0.0004
-  Tokens: [' tonight']
-Rank 8 | Concept Score: 0.0003
-  Tokens: [' daily', ' everyday']
-Rank 9 | Concept Score: 0.0003
-  Tokens: ['.today', '_today']
-Rank 10 | Concept Score: 0.0002
-  Tokens: [' yesterday']
-Rank 11 | Concept Score: 0.0002
-  Tokens: [' children']
-Rank 12 | Concept Score: 0.0001
-  Tokens: [' Tuesday']
+Rank 1 | Centroid: ' message' | Score: 0.9180
+  Tokens: [' message', ' messages', '.message', 'message', ' Message', '(message', 'Message', '\tmessage', '_message']
+Rank 2 | Centroid: ' prompt' | Score: 0.0148
+  Tokens: [' prompt']
+Rank 3 | Centroid: ' phrase' | Score: 0.0003
+  Tokens: [' statement', ' phrase', ' sentence']
+Rank 4 | Centroid: ' question' | Score: 0.0002
+  Tokens: [' question']
+Rank 5 | Centroid: ' response' | Score: 0.0002
+  Tokens: [' response', ' answer']
+Rank 6 | Centroid: ' item' | Score: 0.0001
+  Tokens: [' item', ' user']
+Rank 7 | Centroid: ' instruction' | Score: 0.0001
+  Tokens: [' description', ' information', ' instruction']
+Rank 8 | Centroid: ' list' | Score: 0.0001
+  Tokens: [' list']
+Rank 9 | Centroid: ' content' | Score: 0.0001
+  Tokens: [' content', ' text']
+Rank 10 | Centroid: ':message' | Score: 0.0001
+  Tokens: [':message']
+Rank 11 | Centroid: ' point' | Score: 0.0001
+  Tokens: [' point']
+Rank 12 | Centroid: ' except' | Score: 0.0001
+  Tokens: [' except']
+Rank 13 | Centroid: ' example' | Score: 0.0001
+  Tokens: [' example']
 
-**Chosen Concept:** Rank 1 with score 0.8438
+**Chosen Concept:** Rank 1

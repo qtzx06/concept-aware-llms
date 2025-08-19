@@ -1,0 +1,120 @@
+--- Step 64 Log ---
+
+== Filtered Candidates ==
+Token: ' smoothly' (ID: 38411), Prob: 0.5469
+Token: ' naturally' (ID: 17712), Prob: 0.3320
+Token: ' well' (ID: 1632), Prob: 0.0398
+Token: ' logically' (ID: 73045), Prob: 0.0089
+Token: ' seamlessly' (ID: 60340), Prob: 0.0037
+Token: ' clearly' (ID: 9355), Prob: 0.0009
+Token: ' intuit' (ID: 96201), Prob: 0.0006
+Token: ' easily' (ID: 6707), Prob: 0.0004
+Token: ' without' (ID: 2041), Prob: 0.0004
+Token: ' emotionally' (ID: 37583), Prob: 0.0004
+Token: ' properly' (ID: 10277), Prob: 0.0003
+Token: ' consistently' (ID: 20699), Prob: 0.0003
+Token: ' smooth' (ID: 10876), Prob: 0.0002
+Token: ' comfortably' (ID: 44669), Prob: 0.0002
+Token: ' like' (ID: 1075), Prob: 0.0001
+Token: ' nicely' (ID: 28821), Prob: 0.0001
+Token: ' beautifully' (ID: 31619), Prob: 0.0001
+Token: ' together' (ID: 3786), Prob: 0.0001
+Token: ' effortlessly' (ID: 68604), Prob: 0.0001
+Token: ' calmly' (ID: 72070), Prob: 0.0001
+Token: ' confidently' (ID: 76976), Prob: 0.0001
+Token: ' natural' (ID: 5810), Prob: 0.0001
+Token: ' quickly' (ID: 6157), Prob: 0.0001
+Token: ' perfectly' (ID: 13942), Prob: 0.0001
+Token: ' gracefully' (ID: 78499), Prob: 0.0001
+Token: ' neatly' (ID: 62166), Prob: 0.0001
+Token: ' effectively' (ID: 13444), Prob: 0.0001
+Token: ' correctly' (ID: 12440), Prob: 0.0000
+Token: ' continuously' (ID: 30878), Prob: 0.0000
+Token: ' reasonably' (ID: 28446), Prob: 0.0000
+Token: ' eleg' (ID: 17720), Prob: 0.0000
+Token: ' completely' (ID: 6587), Prob: 0.0000
+Token: ' directly' (ID: 5961), Prob: 0.0000
+Token: ' flu' (ID: 19660), Prob: 0.0000
+Token: ' gradually' (ID: 26024), Prob: 0.0000
+Token: ' normally' (ID: 14279), Prob: 0.0000
+Token: ' cleanly' (ID: 96875), Prob: 0.0000
+Token: ' tightly' (ID: 38969), Prob: 0.0000
+Token: ' connect' (ID: 4564), Prob: 0.0000
+Token: ' conc' (ID: 3529), Prob: 0.0000
+Token: ' throughout' (ID: 6814), Prob: 0.0000
+Token: ' chron' (ID: 25986), Prob: 0.0000
+Token: ' steadily' (ID: 41971), Prob: 0.0000
+Token: ' consec' (ID: 19908), Prob: 0.0000
+Token: ' spontaneously' (ID: 87458), Prob: 0.0000
+Token: ' emotion' (ID: 19772), Prob: 0.0000
+Token: ' quite' (ID: 5008), Prob: 0.0000
+Token: ' freely' (ID: 25580), Prob: 0.0000
+Token: ' efficiently' (ID: 29720), Prob: 0.0000
+Token: ' really' (ID: 2167), Prob: 0.0000
+Token: ' rhythm' (ID: 36290), Prob: 0.0000
+Token: ' sens' (ID: 6097), Prob: 0.0000
+Token: ' within' (ID: 2878), Prob: 0.0000
+Token: ' closely' (ID: 15148), Prob: 0.0000
+Token: ' succinct' (ID: 98632), Prob: 0.0000
+Token: ' suddenly' (ID: 14843), Prob: 0.0000
+Token: ' slowly' (ID: 13970), Prob: 0.0000
+Token: ' creatively' (ID: 92296), Prob: 0.0000
+Token: ' con' (ID: 390), Prob: 0.0000
+Token: ' visually' (ID: 42295), Prob: 0.0000
+Token: 'smooth' (ID: 56866), Prob: 0.0000
+Token: ' one' (ID: 825), Prob: 0.0000
+Token: ' mus' (ID: 3091), Prob: 0.0000
+Token: ' pretty' (ID: 5020), Prob: 0.0000
+Token: ' fluid' (ID: 15590), Prob: 0.0000
+Token: ' appropriately' (ID: 34901), Prob: 0.0000
+Token: ' right' (ID: 1290), Prob: 0.0000
+Token: ' successfully' (ID: 7790), Prob: 0.0000
+Token: ' carefully' (ID: 15516), Prob: 0.0000
+Token: ' gently' (ID: 29273), Prob: 0.0000
+Token: ' immediately' (ID: 7069), Prob: 0.0000
+
+== Ranked Concepts (Clusters) ==
+Rank 1 | Centroid: ' smooth' | Score: 0.5469
+  Tokens: [' smoothly', ' smooth', 'smooth']
+Rank 2 | Centroid: ' naturally' | Score: 0.3320
+  Tokens: [' naturally', ' natural', ' normally']
+Rank 3 | Centroid: ' well' | Score: 0.0398
+  Tokens: [' well']
+Rank 4 | Centroid: ' emotionally' | Score: 0.0093
+  Tokens: [' logically', ' emotionally', ' emotion', ' creatively', ' visually']
+Rank 5 | Centroid: ' effortlessly' | Score: 0.0041
+  Tokens: [' seamlessly', ' comfortably', ' effortlessly', ' confidently', ' efficiently']
+Rank 6 | Centroid: ' clearly' | Score: 0.0010
+  Tokens: [' clearly', ' completely']
+Rank 7 | Centroid: ' intuit' | Score: 0.0006
+  Tokens: [' intuit']
+Rank 8 | Centroid: ' immediately' | Score: 0.0005
+  Tokens: [' easily', ' quickly', ' directly', ' immediately']
+Rank 9 | Centroid: ' within' | Score: 0.0005
+  Tokens: [' without', ' together', ' throughout', ' within']
+Rank 10 | Centroid: ' properly' | Score: 0.0004
+  Tokens: [' properly', ' effectively', ' correctly', ' appropriately', ' successfully']
+Rank 11 | Centroid: ' neatly' | Score: 0.0004
+  Tokens: [' nicely', ' beautifully', ' perfectly', ' neatly', ' cleanly']
+Rank 12 | Centroid: ' consistently' | Score: 0.0003
+  Tokens: [' consistently', ' continuously']
+Rank 13 | Centroid: ' calmly' | Score: 0.0002
+  Tokens: [' calmly', ' gracefully']
+Rank 14 | Centroid: ' one' | Score: 0.0001
+  Tokens: [' like', ' one', ' right']
+Rank 15 | Centroid: ' rhythm' | Score: 0.0001
+  Tokens: [' flu', ' connect', ' chron', ' rhythm', ' sens', ' mus', ' fluid']
+Rank 16 | Centroid: ' pretty' | Score: 0.0001
+  Tokens: [' reasonably', ' quite', ' really', ' pretty']
+Rank 17 | Centroid: ' gradually' | Score: 0.0000
+  Tokens: [' gradually', ' steadily', ' suddenly', ' slowly', ' gently']
+Rank 18 | Centroid: ' eleg' | Score: 0.0000
+  Tokens: [' eleg', ' succinct']
+Rank 19 | Centroid: ' conc' | Score: 0.0000
+  Tokens: [' conc', ' consec', ' con']
+Rank 20 | Centroid: ' closely' | Score: 0.0000
+  Tokens: [' tightly', ' closely', ' carefully']
+Rank 21 | Centroid: ' spontaneously' | Score: 0.0000
+  Tokens: [' spontaneously', ' freely']
+
+**Chosen Concept:** Rank 1

@@ -1,104 +1,72 @@
 --- Step 63 Log ---
 
 == Filtered Candidates ==
-Token: ' zone' (ID: 10143), Prob: 1.0000
-Token: ' zones' (ID: 25395), Prob: 0.0001
-Token: 'zone' (ID: 8684), Prob: 0.0000
-Token: ' Zone' (ID: 22178), Prob: 0.0000
-Token: ' region' (ID: 5537), Prob: 0.0000
-Token: '-zone' (ID: 77763), Prob: 0.0000
-Token: '.zone' (ID: 57808), Prob: 0.0000
-Token: ' period' (ID: 4168), Prob: 0.0000
-Token: '_zone' (ID: 28692), Prob: 0.0000
-Token: '(zone' (ID: 74228), Prob: 0.0000
-Token: ' timezone' (ID: 33957), Prob: 0.0000
-Token: ' state' (ID: 1584), Prob: 0.0000
-Token: ' zero' (ID: 7168), Prob: 0.0000
-Token: ' slot' (ID: 9446), Prob: 0.0000
-Token: ' constraint' (ID: 21568), Prob: 0.0000
-Token: ' district' (ID: 9290), Prob: 0.0000
-Token: ' lane' (ID: 21272), Prob: 0.0000
-Token: 'Zone' (ID: 15363), Prob: 0.0000
-Token: ' transfer' (ID: 8317), Prob: 0.0000
-Token: ' station' (ID: 8056), Prob: 0.0000
-Token: ' loop' (ID: 6337), Prob: 0.0000
-Token: ' transition' (ID: 9142), Prob: 0.0000
-Token: ' longitude' (ID: 20515), Prob: 0.0000
-Token: ' zoning' (ID: 64978), Prob: 0.0000
-Token: ' location' (ID: 3728), Prob: 0.0000
-Token: ' province' (ID: 16847), Prob: 0.0000
-Token: ' window' (ID: 3241), Prob: 0.0000
-Token: '_ZONE' (ID: 60742), Prob: 0.0000
-Token: ' clock' (ID: 8866), Prob: 0.0000
-Token: ' tunnel' (ID: 25629), Prob: 0.0000
-Token: ' area' (ID: 3082), Prob: 0.0000
-Token: ' center' (ID: 4126), Prob: 0.0000
-Token: ' tone' (ID: 16232), Prob: 0.0000
-Token: ' destination' (ID: 9106), Prob: 0.0000
-Token: ' zona' (ID: 44012), Prob: 0.0000
-Token: ' offset' (ID: 4347), Prob: 0.0000
-Token: ' time' (ID: 882), Prob: 0.0000
-Token: ' plane' (ID: 11031), Prob: 0.0000
-Token: ' one' (ID: 825), Prob: 0.0000
-Token: ' base' (ID: 2331), Prob: 0.0000
-Token: ' machine' (ID: 5662), Prob: 0.0000
-Token: ' box' (ID: 3745), Prob: 0.0000
-Token: ' domain' (ID: 7947), Prob: 0.0000
-Token: ' difference' (ID: 6672), Prob: 0.0000
-Token: ' zip' (ID: 10308), Prob: 0.0000
-Token: ' east' (ID: 10984), Prob: 0.0000
-Token: ' triangle' (ID: 21495), Prob: 0.0000
-Token: ' ion' (ID: 27672), Prob: 0.0000
-Token: ' shift' (ID: 6407), Prob: 0.0000
-Token: ' band' (ID: 7055), Prob: 0.0000
-Token: ' interval' (ID: 9873), Prob: 0.0000
-Token: ' hole' (ID: 14178), Prob: 0.0000
-Token: ' due' (ID: 4152), Prob: 0.0000
-Token: 'ZONE' (ID: 56502), Prob: 0.0000
-Token: ' horizon' (ID: 34074), Prob: 0.0000
-Token: ' two' (ID: 1378), Prob: 0.0000
-Token: ' focus' (ID: 5244), Prob: 0.0000
-Token: ' instant' (ID: 9690), Prob: 0.0000
-Token: ' frame' (ID: 4034), Prob: 0.0000
+Token: ' could' (ID: 1410), Prob: 1.0000
+Token: ' Could' (ID: 16503), Prob: 0.0001
+Token: ' vary' (ID: 13289), Prob: 0.0000
+Token: ' may' (ID: 1231), Prob: 0.0000
+Token: ' since' (ID: 2474), Prob: 0.0000
+Token: ' would' (ID: 1035), Prob: 0.0000
+Token: 'could' (ID: 28077), Prob: 0.0000
+Token: ' must' (ID: 1969), Prob: 0.0000
+Token: ' count' (ID: 1760), Prob: 0.0000
+Token: ' change' (ID: 2297), Prob: 0.0000
+Token: ' might' (ID: 2578), Prob: 0.0000
+Token: ' differ' (ID: 1745), Prob: 0.0000
+Token: 'Could' (ID: 12895), Prob: 0.0000
+Token: ' cannot' (ID: 4157), Prob: 0.0000
+Token: ' either' (ID: 2987), Prob: 0.0000
+Token: ' every' (ID: 1449), Prob: 0.0000
+Token: ' need' (ID: 1184), Prob: 0.0000
+Token: ' contain' (ID: 6644), Prob: 0.0000
+Token: ' possibly' (ID: 10767), Prob: 0.0000
+Token: ' couple' (ID: 5625), Prob: 0.0000
+Token: ' indicate' (ID: 13216), Prob: 0.0000
+Token: ' cell' (ID: 2779), Prob: 0.0000
+Token: ' based' (ID: 3118), Prob: 0.0000
+Token: ' depend' (ID: 6761), Prob: 0.0000
+Token: ' slightly' (ID: 10078), Prob: 0.0000
+Token: ' check' (ID: 1779), Prob: 0.0000
+Token: ' cancel' (ID: 9121), Prob: 0.0000
+Token: ' another' (ID: 2441), Prob: 0.0000
+Token: ' depending' (ID: 11649), Prob: 0.0000
+Token: ' according' (ID: 4092), Prob: 0.0000
+Token: ' carefully' (ID: 15516), Prob: 0.0000
+Token: ' Count' (ID: 4504), Prob: 0.0000
+Token: ' choose' (ID: 5157), Prob: 0.0000
+Token: ' say' (ID: 1977), Prob: 0.0000
+Token: ' concerning' (ID: 18310), Prob: 0.0000
+Token: ' maybe' (ID: 7196), Prob: 0.0000
+Token: ' varying' (ID: 28765), Prob: 0.0000
 
 == Ranked Concepts (Clusters) ==
-Rank 1 | Concept Score: 1.0000
-  Tokens: [' zone', ' zones', 'zone', ' Zone', '-zone', '.zone', '_zone', '(zone', 'Zone', ' zoning', '_ZONE', ' zona', 'ZONE']
-Rank 2 | Concept Score: 0.0000
-  Tokens: [' region', ' area']
-Rank 3 | Concept Score: 0.0000
-  Tokens: [' period', ' window', ' interval']
-Rank 4 | Concept Score: 0.0000
-  Tokens: [' slot', ' lane', ' tunnel', ' hole']
-Rank 5 | Concept Score: 0.0000
-  Tokens: [' timezone', ' longitude', ' east']
-Rank 6 | Concept Score: 0.0000
-  Tokens: [' transfer', ' transition', ' offset', ' difference', ' shift']
-Rank 7 | Concept Score: 0.0000
-  Tokens: [' district', ' province', ' domain']
-Rank 8 | Concept Score: 0.0000
-  Tokens: [' zero', ' one', ' due', ' two']
-Rank 9 | Concept Score: 0.0000
-  Tokens: [' state']
-Rank 10 | Concept Score: 0.0000
-  Tokens: [' station', ' plane', ' machine', ' band']
-Rank 11 | Concept Score: 0.0000
-  Tokens: [' constraint']
-Rank 12 | Concept Score: 0.0000
-  Tokens: [' loop', ' zip', ' triangle']
-Rank 13 | Concept Score: 0.0000
-  Tokens: [' location', ' destination']
-Rank 14 | Concept Score: 0.0000
-  Tokens: [' clock', ' time']
-Rank 15 | Concept Score: 0.0000
-  Tokens: [' center', ' base']
-Rank 16 | Concept Score: 0.0000
-  Tokens: [' tone', ' ion']
-Rank 17 | Concept Score: 0.0000
-  Tokens: [' box', ' frame']
-Rank 18 | Concept Score: 0.0000
-  Tokens: [' horizon', ' instant']
-Rank 19 | Concept Score: 0.0000
-  Tokens: [' focus']
+Rank 1 | Centroid: ' could' | Score: 1.0000
+  Tokens: [' could', ' Could', ' would', 'could', 'Could']
+Rank 2 | Centroid: ' vary' | Score: 0.0000
+  Tokens: [' vary', ' differ', ' varying']
+Rank 3 | Centroid: ' maybe' | Score: 0.0000
+  Tokens: [' may', ' might', ' possibly', ' maybe']
+Rank 4 | Centroid: ' according' | Score: 0.0000
+  Tokens: [' since', ' based', ' according']
+Rank 5 | Centroid: ' must' | Score: 0.0000
+  Tokens: [' must', ' cannot', ' need']
+Rank 6 | Centroid: ' count' | Score: 0.0000
+  Tokens: [' count', ' Count']
+Rank 7 | Centroid: ' check' | Score: 0.0000
+  Tokens: [' change', ' check', ' cancel']
+Rank 8 | Centroid: ' either' | Score: 0.0000
+  Tokens: [' either']
+Rank 9 | Centroid: ' every' | Score: 0.0000
+  Tokens: [' every', ' another']
+Rank 10 | Centroid: ' couple' | Score: 0.0000
+  Tokens: [' couple', ' cell']
+Rank 11 | Centroid: ' contain' | Score: 0.0000
+  Tokens: [' contain']
+Rank 12 | Centroid: ' indicate' | Score: 0.0000
+  Tokens: [' indicate', ' choose', ' say']
+Rank 13 | Centroid: ' slightly' | Score: 0.0000
+  Tokens: [' slightly', ' carefully', ' concerning']
+Rank 14 | Centroid: ' depend' | Score: 0.0000
+  Tokens: [' depend', ' depending']
 
-**Chosen Concept:** Rank 1 with score 1.0000
+**Chosen Concept:** Rank 1

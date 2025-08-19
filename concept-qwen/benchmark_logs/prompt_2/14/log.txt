@@ -1,0 +1,82 @@
+--- Step 14 Log ---
+
+== Filtered Candidates ==
+Token: ' something' (ID: 2494), Prob: 0.0135
+Token: ' things' (ID: 2513), Prob: 0.0120
+Token: ' multiple' (ID: 5248), Prob: 0.0106
+Token: ' anything' (ID: 4113), Prob: 0.0056
+Token: ' details' (ID: 3565), Prob: 0.0034
+Token: ' points' (ID: 3501), Prob: 0.0032
+Token: ' one' (ID: 825), Prob: 0.0028
+Token: ' yes' (ID: 9834), Prob: 0.0027
+Token: ' questions' (ID: 4755), Prob: 0.0024
+Token: ' examples' (ID: 10295), Prob: 0.0020
+Token: ' specific' (ID: 3151), Prob: 0.0017
+Token: ' possible' (ID: 3204), Prob: 0.0015
+Token: ' numbers' (ID: 5109), Prob: 0.0015
+Token: ' answers' (ID: 11253), Prob: 0.0014
+Token: ' answer' (ID: 4226), Prob: 0.0013
+Token: ' information' (ID: 1995), Prob: 0.0012
+Token: ' different' (ID: 2155), Prob: 0.0012
+Token: ' elements' (ID: 5424), Prob: 0.0012
+Token: ' topics' (ID: 13347), Prob: 0.0011
+Token: ' items' (ID: 3589), Prob: 0.0010
+Token: ' several' (ID: 3807), Prob: 0.0010
+Token: ' additional' (ID: 5107), Prob: 0.0009
+Token: ' descriptions' (ID: 27787), Prob: 0.0009
+Token: ' words' (ID: 4244), Prob: 0.0008
+Token: ' description' (ID: 4008), Prob: 0.0007
+Token: ' time' (ID: 882), Prob: 0.0006
+Token: ' title' (ID: 2265), Prob: 0.0006
+Token: ' relevant' (ID: 9760), Prob: 0.0006
+Token: ' bullet' (ID: 17432), Prob: 0.0006
+Token: ' keywords' (ID: 20844), Prob: 0.0006
+Token: ' number' (ID: 1372), Prob: 0.0005
+Token: ' key' (ID: 1376), Prob: 0.0005
+Token: ' whether' (ID: 3425), Prob: 0.0005
+Token: ' point' (ID: 1459), Prob: 0.0005
+Token: ' adding' (ID: 7842), Prob: 0.0005
+Token: ' extra' (ID: 4960), Prob: 0.0005
+Token: ' names' (ID: 5036), Prob: 0.0005
+Token: ' technical' (ID: 10916), Prob: 0.0005
+Token: ' like' (ID: 1075), Prob: 0.0004
+Token: ' location' (ID: 3728), Prob: 0.0004
+Token: ' parts' (ID: 5479), Prob: 0.0004
+Token: ' categories' (ID: 11059), Prob: 0.0004
+Token: ' scientific' (ID: 12344), Prob: 0.0004
+
+== Ranked Concepts (Clusters) ==
+Rank 1 | Centroid: ' something' | Score: 0.0311
+  Tokens: [' something', ' things', ' anything']
+Rank 2 | Centroid: ' several' | Score: 0.0128
+  Tokens: [' multiple', ' different', ' several']
+Rank 3 | Centroid: ' answers' | Score: 0.0051
+  Tokens: [' questions', ' answers', ' answer']
+Rank 4 | Centroid: ' items' | Score: 0.0046
+  Tokens: [' examples', ' elements', ' items', ' parts']
+Rank 5 | Centroid: ' details' | Score: 0.0046
+  Tokens: [' details', ' information']
+Rank 6 | Centroid: ' relevant' | Score: 0.0043
+  Tokens: [' specific', ' possible', ' relevant', ' key']
+Rank 7 | Centroid: ' one' | Score: 0.0039
+  Tokens: [' one', ' time', ' like']
+Rank 8 | Centroid: ' points' | Score: 0.0037
+  Tokens: [' points', ' point']
+Rank 9 | Centroid: ' yes' | Score: 0.0032
+  Tokens: [' yes', ' whether']
+Rank 10 | Centroid: ' keywords' | Score: 0.0029
+  Tokens: [' topics', ' words', ' keywords', ' categories']
+Rank 11 | Centroid: ' numbers' | Score: 0.0020
+  Tokens: [' numbers', ' number']
+Rank 12 | Centroid: ' additional' | Score: 0.0018
+  Tokens: [' additional', ' adding', ' extra']
+Rank 13 | Centroid: ' descriptions' | Score: 0.0016
+  Tokens: [' descriptions', ' description']
+Rank 14 | Centroid: ' technical' | Score: 0.0014
+  Tokens: [' bullet', ' technical', ' scientific']
+Rank 15 | Centroid: ' title' | Score: 0.0011
+  Tokens: [' title', ' names']
+Rank 16 | Centroid: ' location' | Score: 0.0004
+  Tokens: [' location']
+
+**Chosen Concept:** Rank 1

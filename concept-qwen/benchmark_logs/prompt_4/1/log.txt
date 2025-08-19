@@ -1,57 +1,54 @@
 --- Step 1 Log ---
 
 == Filtered Candidates ==
-Token: ' Let' (ID: 6771), Prob: 0.0262
-Token: ' Please' (ID: 5209), Prob: 0.0132
-Token: ' Children' (ID: 15044), Prob: 0.0036
-Token: ' Born' (ID: 37816), Prob: 0.0033
-Token: ' Read' (ID: 4457), Prob: 0.0031
-Token: ' Also' (ID: 7281), Prob: 0.0031
-Token: ' Maybe' (ID: 10696), Prob: 0.0031
-Token: ' One' (ID: 3776), Prob: 0.0026
-Token: ' May' (ID: 3217), Prob: 0.0024
-Token: ' Since' (ID: 8704), Prob: 0.0024
-Token: ' Brave' (ID: 69208), Prob: 0.0023
-Token: ' Would' (ID: 18885), Prob: 0.0022
-Token: ' Based' (ID: 20205), Prob: 0.0022
-Token: ' Yes' (ID: 7414), Prob: 0.0017
-Token: ' However' (ID: 4354), Prob: 0.0016
-Token: ' Therefore' (ID: 15277), Prob: 0.0016
-Token: ' According' (ID: 10548), Prob: 0.0015
-Token: ' Despite' (ID: 17715), Prob: 0.0015
-Token: ' Well' (ID: 8325), Prob: 0.0014
-Token: ' born' (ID: 9223), Prob: 0.0014
-Token: ' Make' (ID: 7405), Prob: 0.0013
-Token: ' Describe' (ID: 60785), Prob: 0.0012
+Token: 'Answer' (ID: 16141), Prob: 0.0135
+Token: 'Let' (ID: 10061), Prob: 0.0105
+Token: 'Children' (ID: 11539), Prob: 0.0082
+Token: 'Okay' (ID: 32313), Prob: 0.0064
+Token: 'Yes' (ID: 9454), Prob: 0.0056
+Token: ' Children' (ID: 15044), Prob: 0.0030
+Token: 'Generate' (ID: 31115), Prob: 0.0028
+Token: 'Child' (ID: 3652), Prob: 0.0021
+Token: 'Welcome' (ID: 13936), Prob: 0.0021
+Token: 'Please' (ID: 5501), Prob: 0.0019
+Token: 'Based' (ID: 28715), Prob: 0.0017
+Token: 'Tag' (ID: 5668), Prob: 0.0015
+Token: 'Name' (ID: 675), Prob: 0.0014
+Token: 'Use' (ID: 10253), Prob: 0.0014
+Token: 'Alright' (ID: 71486), Prob: 0.0014
+Token: ' Tags' (ID: 27683), Prob: 0.0013
+Token: 'Tell' (ID: 40451), Prob: 0.0013
+Token: 'Create' (ID: 4021), Prob: 0.0011
+Token: 'First' (ID: 5338), Prob: 0.0011
+Token: 'Would' (ID: 27989), Prob: 0.0011
+Token: 'Click' (ID: 2612), Prob: 0.0010
 
 == Ranked Concepts (Clusters) ==
-Rank 1 | Concept Score: 0.0396
-  Tokens: [' Let', ' Please']
-Rank 2 | Concept Score: 0.0071
-  Tokens: [' Since', ' However', ' Therefore', ' Despite']
-Rank 3 | Concept Score: 0.0056
-  Tokens: [' Maybe', ' May']
-Rank 4 | Concept Score: 0.0047
-  Tokens: [' Born', ' born']
-Rank 5 | Concept Score: 0.0036
-  Tokens: [' Based', ' According']
-Rank 6 | Concept Score: 0.0036
-  Tokens: [' Children']
-Rank 7 | Concept Score: 0.0031
-  Tokens: [' Read']
-Rank 8 | Concept Score: 0.0031
-  Tokens: [' Also']
-Rank 9 | Concept Score: 0.0026
-  Tokens: [' One']
-Rank 10 | Concept Score: 0.0025
-  Tokens: [' Make', ' Describe']
-Rank 11 | Concept Score: 0.0023
-  Tokens: [' Brave']
-Rank 12 | Concept Score: 0.0022
-  Tokens: [' Would']
-Rank 13 | Concept Score: 0.0017
-  Tokens: [' Yes']
-Rank 14 | Concept Score: 0.0014
-  Tokens: [' Well']
+Rank 1 | Centroid: 'Answer' | Score: 0.0135
+  Tokens: ['Answer']
+Rank 2 | Centroid: 'Children' | Score: 0.0132
+  Tokens: ['Children', ' Children', 'Child']
+Rank 3 | Centroid: 'Let' | Score: 0.0116
+  Tokens: ['Let', 'First']
+Rank 4 | Centroid: 'Okay' | Score: 0.0078
+  Tokens: ['Okay', 'Alright']
+Rank 5 | Centroid: 'Yes' | Score: 0.0056
+  Tokens: ['Yes']
+Rank 6 | Centroid: 'Please' | Score: 0.0051
+  Tokens: ['Welcome', 'Please', 'Would']
+Rank 7 | Centroid: 'Generate' | Score: 0.0039
+  Tokens: ['Generate', 'Create']
+Rank 8 | Centroid: 'Tag' | Score: 0.0028
+  Tokens: ['Tag', ' Tags']
+Rank 9 | Centroid: 'Based' | Score: 0.0017
+  Tokens: ['Based']
+Rank 10 | Centroid: 'Name' | Score: 0.0014
+  Tokens: ['Name']
+Rank 11 | Centroid: 'Use' | Score: 0.0014
+  Tokens: ['Use']
+Rank 12 | Centroid: 'Tell' | Score: 0.0013
+  Tokens: ['Tell']
+Rank 13 | Centroid: 'Click' | Score: 0.0010
+  Tokens: ['Click']
 
-**Chosen Concept:** Rank 1 with score 0.0396
+**Chosen Concept:** Rank 1

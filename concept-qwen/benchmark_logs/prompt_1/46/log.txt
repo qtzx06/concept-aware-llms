@@ -1,0 +1,142 @@
+--- Step 46 Log ---
+
+== Filtered Candidates ==
+Token: ' words' (ID: 4244), Prob: 0.0430
+Token: ' using' (ID: 1667), Prob: 0.0381
+Token: ' making' (ID: 3259), Prob: 0.0334
+Token: ' clich' (ID: 62592), Prob: 0.0109
+Token: ' saying' (ID: 5488), Prob: 0.0058
+Token: ' getting' (ID: 3709), Prob: 0.0052
+Token: ' naming' (ID: 34948), Prob: 0.0040
+Token: ' sounding' (ID: 48127), Prob: 0.0040
+Token: ' going' (ID: 2087), Prob: 0.0020
+Token: ' knowing' (ID: 14063), Prob: 0.0018
+Token: ' giving' (ID: 7086), Prob: 0.0017
+Token: ' specifying' (ID: 37838), Prob: 0.0014
+Token: ' mentioning' (ID: 44291), Prob: 0.0014
+Token: ' needing' (ID: 32821), Prob: 0.0013
+Token: ' describing' (ID: 22692), Prob: 0.0012
+Token: ' listing' (ID: 14838), Prob: 0.0008
+Token: ' name' (ID: 829), Prob: 0.0007
+Token: ' talking' (ID: 7404), Prob: 0.0007
+Token: ' forcing' (ID: 24913), Prob: 0.0007
+Token: ' becoming' (ID: 10454), Prob: 0.0006
+Token: ' telling' (ID: 11629), Prob: 0.0006
+Token: ' stating' (ID: 27798), Prob: 0.0005
+Token: ' labeling' (ID: 54302), Prob: 0.0005
+Token: ' names' (ID: 5036), Prob: 0.0005
+Token: ' feeling' (ID: 8266), Prob: 0.0005
+Token: ' losing' (ID: 13188), Prob: 0.0004
+Token: ' explaining' (ID: 25021), Prob: 0.0004
+Token: ' mixing' (ID: 26792), Prob: 0.0004
+Token: ' necessarily' (ID: 14312), Prob: 0.0003
+Token: ' writing' (ID: 4378), Prob: 0.0003
+Token: ' focusing' (ID: 21080), Prob: 0.0003
+Token: ' trying' (ID: 4460), Prob: 0.0003
+Token: ' stere' (ID: 22646), Prob: 0.0003
+Token: ' revealing' (ID: 30620), Prob: 0.0003
+Token: ' labels' (ID: 9201), Prob: 0.0003
+Token: ' blaming' (ID: 58671), Prob: 0.0003
+Token: ' sugar' (ID: 13163), Prob: 0.0002
+Token: ' vague' (ID: 39046), Prob: 0.0002
+Token: ' letting' (ID: 20194), Prob: 0.0002
+Token: ' spelling' (ID: 42429), Prob: 0.0002
+Token: ' limiting' (ID: 32894), Prob: 0.0002
+Token: ' elabor' (ID: 24940), Prob: 0.0002
+Token: ' description' (ID: 4008), Prob: 0.0002
+Token: ' directly' (ID: 5961), Prob: 0.0002
+Token: ' adding' (ID: 7842), Prob: 0.0002
+Token: ' diving' (ID: 42415), Prob: 0.0002
+Token: ' putting' (ID: 10687), Prob: 0.0001
+Token: ' causing' (ID: 14381), Prob: 0.0001
+Token: ' repeating' (ID: 39816), Prob: 0.0001
+Token: ' technical' (ID: 10916), Prob: 0.0001
+Token: ' judgment' (ID: 19407), Prob: 0.0001
+Token: ' word' (ID: 3409), Prob: 0.0001
+Token: ' details' (ID: 3565), Prob: 0.0001
+Token: ' personal' (ID: 4345), Prob: 0.0001
+Token: ' speaking' (ID: 12094), Prob: 0.0001
+Token: ' direct' (ID: 2118), Prob: 0.0001
+Token: ' choosing' (ID: 18774), Prob: 0.0001
+Token: ' overwhelming' (ID: 22024), Prob: 0.0001
+Token: ' taking' (ID: 4633), Prob: 0.0001
+Token: ' calling' (ID: 8098), Prob: 0.0001
+Token: ' guilt' (ID: 33851), Prob: 0.0001
+Token: ' actually' (ID: 3520), Prob: 0.0001
+Token: ' overs' (ID: 17460), Prob: 0.0001
+Token: ' exagger' (ID: 37930), Prob: 0.0001
+Token: ' hesitation' (ID: 64337), Prob: 0.0001
+Token: ' hiding' (ID: 25037), Prob: 0.0001
+Token: ' showing' (ID: 9027), Prob: 0.0001
+Token: ' washing' (ID: 27686), Prob: 0.0001
+Token: ' wording' (ID: 60227), Prob: 0.0001
+Token: ' heavy' (ID: 8811), Prob: 0.0001
+Token: ' overly' (ID: 38432), Prob: 0.0001
+Token: ' finding' (ID: 9271), Prob: 0.0001
+Token: ' literally' (ID: 15901), Prob: 0.0001
+Token: ' lying' (ID: 20446), Prob: 0.0001
+Token: ' detailing' (ID: 44193), Prob: 0.0001
+Token: ' oversh' (ID: 65471), Prob: 0.0001
+Token: ' attrib' (ID: 17329), Prob: 0.0001
+Token: ' pretending' (ID: 54806), Prob: 0.0001
+Token: ' leaving' (ID: 9380), Prob: 0.0001
+Token: ' bias' (ID: 15470), Prob: 0.0001
+Token: ' spo' (ID: 19451), Prob: 0.0001
+Token: ' jumping' (ID: 29002), Prob: 0.0001
+Token: ' normal' (ID: 4622), Prob: 0.0001
+Token: ' explanation' (ID: 16148), Prob: 0.0001
+Token: ' filtering' (ID: 29670), Prob: 0.0001
+Token: ' relying' (ID: 38561), Prob: 0.0001
+Token: ' coming' (ID: 5001), Prob: 0.0001
+
+== Ranked Concepts (Clusters) ==
+Rank 1 | Centroid: ' getting' | Score: 0.0447
+  Tokens: [' making', ' getting', ' going', ' giving', ' becoming', ' losing', ' trying', ' letting', ' adding', ' putting', ' causing', ' choosing', ' taking', ' leaving', ' coming']
+Rank 2 | Centroid: ' words' | Score: 0.0435
+  Tokens: [' words', ' spelling', ' word', ' wording']
+Rank 3 | Centroid: ' using' | Score: 0.0381
+  Tokens: [' using']
+Rank 4 | Centroid: ' overly' | Score: 0.0115
+  Tokens: [' clich', ' stere', ' overs', ' exagger', ' overly', ' oversh']
+Rank 5 | Centroid: ' stating' | Score: 0.0098
+  Tokens: [' saying', ' specifying', ' mentioning', ' telling', ' stating']
+Rank 6 | Centroid: ' names' | Score: 0.0059
+  Tokens: [' naming', ' name', ' labeling', ' names', ' labels']
+Rank 7 | Centroid: ' sounding' | Score: 0.0040
+  Tokens: [' sounding']
+Rank 8 | Centroid: ' relying' | Score: 0.0032
+  Tokens: [' knowing', ' needing', ' pretending', ' relying']
+Rank 9 | Centroid: ' explaining' | Score: 0.0020
+  Tokens: [' describing', ' explaining', ' elabor', ' description', ' explanation']
+Rank 10 | Centroid: ' talking' | Score: 0.0012
+  Tokens: [' talking', ' writing', ' speaking', ' lying']
+Rank 11 | Centroid: ' hesitation' | Score: 0.0010
+  Tokens: [' feeling', ' vague', ' judgment', ' guilt', ' hesitation']
+Rank 12 | Centroid: ' forcing' | Score: 0.0010
+  Tokens: [' forcing', ' limiting', ' hiding', ' filtering']
+Rank 13 | Centroid: ' listing' | Score: 0.0008
+  Tokens: [' listing']
+Rank 14 | Centroid: ' sugar' | Score: 0.0008
+  Tokens: [' sugar', ' technical', ' personal', ' heavy', ' bias', ' spo', ' normal']
+Rank 15 | Centroid: ' jumping' | Score: 0.0006
+  Tokens: [' mixing', ' diving', ' jumping']
+Rank 16 | Centroid: ' literally' | Score: 0.0005
+  Tokens: [' necessarily', ' actually', ' literally']
+Rank 17 | Centroid: ' revealing' | Score: 0.0004
+  Tokens: [' revealing', ' showing']
+Rank 18 | Centroid: ' washing' | Score: 0.0004
+  Tokens: [' repeating', ' overwhelming', ' washing']
+Rank 19 | Centroid: ' blaming' | Score: 0.0003
+  Tokens: [' blaming', ' attrib']
+Rank 20 | Centroid: ' focusing' | Score: 0.0003
+  Tokens: [' focusing']
+Rank 21 | Centroid: ' directly' | Score: 0.0003
+  Tokens: [' directly', ' direct']
+Rank 22 | Centroid: ' details' | Score: 0.0002
+  Tokens: [' details', ' detailing']
+Rank 23 | Centroid: ' calling' | Score: 0.0001
+  Tokens: [' calling']
+Rank 24 | Centroid: ' finding' | Score: 0.0001
+  Tokens: [' finding']
+
+**Chosen Concept:** Rank 1

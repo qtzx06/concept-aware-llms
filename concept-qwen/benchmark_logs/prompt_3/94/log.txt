@@ -1,77 +1,113 @@
 --- Step 94 Log ---
 
 == Filtered Candidates ==
-Token: ' Assume' (ID: 62197), Prob: 0.9141
-Token: ' Let' (ID: 6771), Prob: 0.0139
-Token: ' Assuming' (ID: 63964), Prob: 0.0096
-Token: ' Based' (ID: 20205), Prob: 0.0013
-Token: ' Suppose' (ID: 82610), Prob: 0.0011
-Token: ' Ass' (ID: 2688), Prob: 0.0009
-Token: ' Answer' (ID: 21806), Prob: 0.0007
-Token: ' Maybe' (ID: 10696), Prob: 0.0007
-Token: ' Keep' (ID: 13655), Prob: 0.0006
-Token: ' Imagine' (ID: 37791), Prob: 0.0006
-Token: ' Also' (ID: 7281), Prob: 0.0005
-Token: ' assume' (ID: 9658), Prob: 0.0003
-Token: ' Wait' (ID: 13824), Prob: 0.0003
-Token: ' Adjust' (ID: 27196), Prob: 0.0002
-Token: ' Please' (ID: 5209), Prob: 0.0002
-Token: ' Use' (ID: 5443), Prob: 0.0002
-Token: ' Hmm' (ID: 88190), Prob: 0.0002
-Token: ' According' (ID: 10548), Prob: 0.0001
-Token: ' Make' (ID: 7405), Prob: 0.0001
-Token: ' Ask' (ID: 20437), Prob: 0.0001
-Token: ' Take' (ID: 11778), Prob: 0.0001
-Token: ' Explain' (ID: 81917), Prob: 0.0001
-Token: ' Yes' (ID: 7414), Prob: 0.0001
-Token: ' Buy' (ID: 11292), Prob: 0.0001
-Token: ' Analy' (ID: 37427), Prob: 0.0001
-Token: ' Therefore' (ID: 15277), Prob: 0.0001
-Token: ' Think' (ID: 21149), Prob: 0.0001
-Token: ' Ensure' (ID: 29279), Prob: 0.0001
-Token: ' Say' (ID: 24917), Prob: 0.0001
-Token: ' However' (ID: 4354), Prob: 0.0001
-Token: ' Continue' (ID: 15003), Prob: 0.0001
-Token: ' Choose' (ID: 22201), Prob: 0.0001
-Token: 'Ass' (ID: 5615), Prob: 0.0001
-Token: ' Finally' (ID: 17375), Prob: 0.0001
-Token: ' Apply' (ID: 20552), Prob: 0.0001
-Token: ' Determine' (ID: 29901), Prob: 0.0001
-Token: ' Assign' (ID: 31639), Prob: 0.0001
-Token: ' Note' (ID: 7036), Prob: 0.0001
-Token: ' Consider' (ID: 21144), Prob: 0.0001
-Token: ' Okay' (ID: 35439), Prob: 0.0001
+Token: ' grow' (ID: 3063), Prob: 0.9961
+Token: ' grown' (ID: 14700), Prob: 0.0003
+Token: ' growth' (ID: 6513), Prob: 0.0001
+Token: ' grows' (ID: 27715), Prob: 0.0001
+Token: ' growing' (ID: 7826), Prob: 0.0001
+Token: ' old' (ID: 2310), Prob: 0.0001
+Token: ' get' (ID: 633), Prob: 0.0000
+Token: ' stay' (ID: 4717), Prob: 0.0000
+Token: ' grew' (ID: 13938), Prob: 0.0000
+Token: ' age' (ID: 4231), Prob: 0.0000
+Token: ' become' (ID: 3635), Prob: 0.0000
+Token: ' young' (ID: 3908), Prob: 0.0000
+Token: ' rise' (ID: 10000), Prob: 0.0000
+Token: ' raise' (ID: 4828), Prob: 0.0000
+Token: ' eat' (ID: 8180), Prob: 0.0000
+Token: ' leave' (ID: 5274), Prob: 0.0000
+Token: ' keep' (ID: 2506), Prob: 0.0000
+Token: ' live' (ID: 3887), Prob: 0.0000
+Token: ' mature' (ID: 14851), Prob: 0.0000
+Token: ' start' (ID: 1191), Prob: 0.0000
+Token: ' take' (ID: 1896), Prob: 0.0000
+Token: ' engage' (ID: 16579), Prob: 0.0000
+Token: ' Grow' (ID: 46560), Prob: 0.0000
+Token: ' round' (ID: 4778), Prob: 0.0000
+Token: ' sleep' (ID: 6084), Prob: 0.0000
+Token: 'grow' (ID: 66218), Prob: 0.0000
+Token: ' make' (ID: 1281), Prob: 0.0000
+Token: ' continue' (ID: 3060), Prob: 0.0000
+Token: ' long' (ID: 1293), Prob: 0.0000
+Token: ' read' (ID: 1349), Prob: 0.0000
+Token: ' cross' (ID: 5312), Prob: 0.0000
+Token: ' use' (ID: 990), Prob: 0.0000
+Token: ' choose' (ID: 5157), Prob: 0.0000
+Token: ' reach' (ID: 5545), Prob: 0.0000
+Token: ' spend' (ID: 8329), Prob: 0.0000
+Token: ' forever' (ID: 15683), Prob: 0.0000
+Token: ' gather' (ID: 9567), Prob: 0.0000
+Token: ' forget' (ID: 10667), Prob: 0.0000
+Token: ' years' (ID: 1635), Prob: 0.0000
+Token: ' care' (ID: 2453), Prob: 0.0000
+Token: ' close' (ID: 3265), Prob: 0.0000
+Token: ' move' (ID: 3271), Prob: 0.0000
+Token: ' develop' (ID: 2225), Prob: 0.0000
+Token: ' ask' (ID: 2548), Prob: 0.0000
+Token: ' across' (ID: 3941), Prob: 0.0000
+Token: ' come' (ID: 2525), Prob: 0.0000
+Token: ' older' (ID: 9014), Prob: 0.0000
+Token: ' graduate' (ID: 19023), Prob: 0.0000
+Token: ' open' (ID: 1787), Prob: 0.0000
+Token: ' group' (ID: 1874), Prob: 0.0000
+Token: ' catch' (ID: 2287), Prob: 0.0000
+Token: ' give' (ID: 2968), Prob: 0.0000
+Token: ' green' (ID: 6176), Prob: 0.0000
+Token: ' look' (ID: 1401), Prob: 0.0000
+Token: ' learn' (ID: 3960), Prob: 0.0000
+Token: ' gain' (ID: 8722), Prob: 0.0000
+Token: ' aged' (ID: 19749), Prob: 0.0000
+Token: ' feel' (ID: 2666), Prob: 0.0000
+Token: ' focus' (ID: 5244), Prob: 0.0000
+Token: ' youth' (ID: 12537), Prob: 0.0000
+Token: ' younger' (ID: 14650), Prob: 0.0000
+Token: ' receive' (ID: 5258), Prob: 0.0000
+Token: ' generate' (ID: 6923), Prob: 0.0000
+Token: ' cry' (ID: 15729), Prob: 0.0000
 
 == Ranked Concepts (Clusters) ==
-Rank 1 | Concept Score: 0.9258
-  Tokens: [' Assume', ' Assuming', ' Ass', ' assume', 'Ass']
-Rank 2 | Concept Score: 0.0150
-  Tokens: [' Let', ' Suppose']
-Rank 3 | Concept Score: 0.0014
-  Tokens: [' Based', ' According']
-Rank 4 | Concept Score: 0.0010
-  Tokens: [' Maybe', ' Hmm', ' Yes', ' Okay']
-Rank 5 | Concept Score: 0.0010
-  Tokens: [' Also', ' Please', ' Therefore', ' However', ' Finally']
-Rank 6 | Concept Score: 0.0007
-  Tokens: [' Keep', ' Continue']
-Rank 7 | Concept Score: 0.0007
-  Tokens: [' Answer']
-Rank 8 | Concept Score: 0.0007
-  Tokens: [' Imagine', ' Think', ' Consider']
-Rank 9 | Concept Score: 0.0005
-  Tokens: [' Wait', ' Ask', ' Buy']
-Rank 10 | Concept Score: 0.0004
-  Tokens: [' Use', ' Make', ' Ensure']
-Rank 11 | Concept Score: 0.0004
-  Tokens: [' Adjust', ' Analy', ' Assign']
-Rank 12 | Concept Score: 0.0003
-  Tokens: [' Explain', ' Choose', ' Apply', ' Determine']
-Rank 13 | Concept Score: 0.0001
-  Tokens: [' Take']
-Rank 14 | Concept Score: 0.0001
-  Tokens: [' Say']
-Rank 15 | Concept Score: 0.0001
-  Tokens: [' Note']
+Rank 1 | Centroid: ' grow' | Score: 0.9961
+  Tokens: [' grow', ' grown', ' growth', ' grows', ' growing', ' grew', ' Grow', 'grow']
+Rank 2 | Centroid: ' younger' | Score: 0.0001
+  Tokens: [' old', ' age', ' young', ' mature', ' older', ' aged', ' youth', ' younger']
+Rank 3 | Centroid: ' keep' | Score: 0.0001
+  Tokens: [' stay', ' leave', ' keep', ' continue']
+Rank 4 | Centroid: ' give' | Score: 0.0001
+  Tokens: [' get', ' take', ' make', ' give']
+Rank 5 | Centroid: ' become' | Score: 0.0000
+  Tokens: [' become', ' reach', ' come']
+Rank 6 | Centroid: ' generate' | Score: 0.0000
+  Tokens: [' engage', ' choose', ' gather', ' develop', ' ask', ' generate']
+Rank 7 | Centroid: ' rise' | Score: 0.0000
+  Tokens: [' rise', ' raise']
+Rank 8 | Centroid: ' eat' | Score: 0.0000
+  Tokens: [' eat', ' spend', ' learn', ' receive']
+Rank 9 | Centroid: ' use' | Score: 0.0000
+  Tokens: [' start', ' use', ' care', ' focus']
+Rank 10 | Centroid: ' move' | Score: 0.0000
+  Tokens: [' live', ' move', ' group']
+Rank 11 | Centroid: ' long' | Score: 0.0000
+  Tokens: [' long', ' forever', ' years']
+Rank 12 | Centroid: ' round' | Score: 0.0000
+  Tokens: [' round', ' green']
+Rank 13 | Centroid: ' cross' | Score: 0.0000
+  Tokens: [' cross', ' across']
+Rank 14 | Centroid: ' sleep' | Score: 0.0000
+  Tokens: [' sleep']
+Rank 15 | Centroid: ' close' | Score: 0.0000
+  Tokens: [' close', ' open']
+Rank 16 | Centroid: ' catch' | Score: 0.0000
+  Tokens: [' catch', ' gain']
+Rank 17 | Centroid: ' look' | Score: 0.0000
+  Tokens: [' look', ' feel']
+Rank 18 | Centroid: ' read' | Score: 0.0000
+  Tokens: [' read']
+Rank 19 | Centroid: ' forget' | Score: 0.0000
+  Tokens: [' forget']
+Rank 20 | Centroid: ' graduate' | Score: 0.0000
+  Tokens: [' graduate']
+Rank 21 | Centroid: ' cry' | Score: 0.0000
+  Tokens: [' cry']
 
-**Chosen Concept:** Rank 1 with score 0.9258
+**Chosen Concept:** Rank 1

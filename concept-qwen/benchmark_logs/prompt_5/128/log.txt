@@ -1,65 +1,142 @@
 --- Step 128 Log ---
 
 == Filtered Candidates ==
-Token: ' compared' (ID: 7707), Prob: 0.5078
-Token: ' according' (ID: 4092), Prob: 0.0003
-Token: ' compare' (ID: 9429), Prob: 0.0002
-Token: ' comparing' (ID: 26297), Prob: 0.0001
-Token: ' every' (ID: 1449), Prob: 0.0001
-Token: ' based' (ID: 3118), Prob: 0.0001
-Token: ' today' (ID: 3351), Prob: 0.0001
-Token: ' relative' (ID: 8674), Prob: 0.0001
-Token: ' earlier' (ID: 6788), Prob: 0.0001
-Token: ' rather' (ID: 4751), Prob: 0.0001
-Token: ' time' (ID: 882), Prob: 0.0001
-Token: ' immediately' (ID: 7069), Prob: 0.0001
-Token: ' unless' (ID: 7241), Prob: 0.0001
+Token: ' statement' (ID: 5114), Prob: 1.0000
+Token: ' sentence' (ID: 11652), Prob: 0.0000
+Token: ' answer' (ID: 4226), Prob: 0.0000
+Token: ' statements' (ID: 12239), Prob: 0.0000
+Token: ' Statement' (ID: 21756), Prob: 0.0000
+Token: ' story' (ID: 3364), Prob: 0.0000
+Token: ' final' (ID: 1590), Prob: 0.0000
+Token: 'statement' (ID: 24184), Prob: 0.0000
+Token: ' stated' (ID: 10982), Prob: 0.0000
+Token: ' general' (ID: 4586), Prob: 0.0000
+Token: ' situation' (ID: 6534), Prob: 0.0000
+Token: ' conclusion' (ID: 16688), Prob: 0.0000
+Token: ' paragraph' (ID: 14311), Prob: 0.0000
+Token: ' question' (ID: 3405), Prob: 0.0000
+Token: ' subject' (ID: 3832), Prob: 0.0000
+Token: ' original' (ID: 4024), Prob: 0.0000
+Token: ' following' (ID: 2701), Prob: 0.0000
+Token: ' student' (ID: 5458), Prob: 0.0000
+Token: ' phrase' (ID: 17133), Prob: 0.0000
+Token: ' choice' (ID: 5754), Prob: 0.0000
+Token: ' text' (ID: 1467), Prob: 0.0000
+Token: ' response' (ID: 2033), Prob: 0.0000
+Token: ' given' (ID: 2661), Prob: 0.0000
+Token: ' table' (ID: 1965), Prob: 0.0000
+Token: ' description' (ID: 4008), Prob: 0.0000
+Token: ' information' (ID: 1995), Prob: 0.0000
+Token: ' correct' (ID: 4396), Prob: 0.0000
+Token: ' meaning' (ID: 7290), Prob: 0.0000
+Token: ' summary' (ID: 12126), Prob: 0.0000
+Token: ' claim' (ID: 3717), Prob: 0.0000
+Token: ' stat' (ID: 2793), Prob: 0.0000
+Token: ' truth' (ID: 8046), Prob: 0.0000
+Token: ' time' (ID: 882), Prob: 0.0000
+Token: ' message' (ID: 1943), Prob: 0.0000
+Token: ' sentiment' (ID: 25975), Prob: 0.0000
+Token: ' number' (ID: 1372), Prob: 0.0000
+Token: '	statement' (ID: 89566), Prob: 0.0000
+Token: ' two' (ID: 1378), Prob: 0.0000
+Token: ' study' (ID: 3920), Prob: 0.0000
+Token: ' moment' (ID: 4445), Prob: 0.0000
+Token: ' solution' (ID: 6291), Prob: 0.0000
+Token: ' suff' (ID: 8489), Prob: 0.0000
+Token: ' assistant' (ID: 17847), Prob: 0.0000
+Token: ' amount' (ID: 3311), Prob: 0.0000
+Token: ' previous' (ID: 3681), Prob: 0.0000
+Token: ' expression' (ID: 7493), Prob: 0.0000
+Token: ' string' (ID: 914), Prob: 0.0000
+Token: ' second' (ID: 2086), Prob: 0.0000
+Token: ' scene' (ID: 6109), Prob: 0.0000
+Token: ' letter' (ID: 6524), Prob: 0.0000
+Token: ' suggestion' (ID: 23776), Prob: 0.0000
+Token: ' wording' (ID: 60227), Prob: 0.0000
+Token: ' argument' (ID: 5693), Prob: 0.0000
+Token: 'Statement' (ID: 8636), Prob: 0.0000
+Token: ' prompt' (ID: 9934), Prob: 0.0000
+Token: ' change' (ID: 2297), Prob: 0.0000
+Token: ' structure' (ID: 5944), Prob: 0.0000
+Token: ' state' (ID: 1584), Prob: 0.0000
+Token: ' motion' (ID: 11379), Prob: 0.0000
+Token: ' assertion' (ID: 27419), Prob: 0.0000
+Token: ' premise' (ID: 40202), Prob: 0.0000
+Token: ' user' (ID: 1196), Prob: 0.0000
+Token: ' initial' (ID: 2856), Prob: 0.0000
+Token: ' standard' (ID: 5297), Prob: 0.0000
+Token: ' theme' (ID: 6912), Prob: 0.0000
 Token: ' one' (ID: 825), Prob: 0.0000
-Token: ' would' (ID: 1035), Prob: 0.0000
-Token: ' Compared' (ID: 58713), Prob: 0.0000
-Token: ' later' (ID: 2937), Prob: 0.0000
-Token: ' known' (ID: 3881), Prob: 0.0000
-Token: ' since' (ID: 2474), Prob: 0.0000
-Token: ' except' (ID: 3650), Prob: 0.0000
-Token: ' instead' (ID: 4518), Prob: 0.0000
-Token: ' early' (ID: 4124), Prob: 0.0000
-Token: ' must' (ID: 1969), Prob: 0.0000
-Token: ' due' (ID: 4152), Prob: 0.0000
-Token: ' tomorrow' (ID: 16577), Prob: 0.0000
-Token: ' please' (ID: 4486), Prob: 0.0000
-Token: ' combined' (ID: 10856), Prob: 0.0000
-Token: ' COM' (ID: 7682), Prob: 0.0000
-Token: ' said' (ID: 1053), Prob: 0.0000
-Token: ' depending' (ID: 11649), Prob: 0.0000
+Token: ' assumption' (ID: 24335), Prob: 0.0000
+Token: ' beginning' (ID: 7167), Prob: 0.0000
+Token: ' topic' (ID: 8544), Prob: 0.0000
+Token: ' reason' (ID: 2874), Prob: 0.0000
+Token: ' problem' (ID: 3491), Prob: 0.0000
+Token: ' comment' (ID: 3980), Prob: 0.0000
+Token: ' entire' (ID: 4453), Prob: 0.0000
+Token: '_statement' (ID: 37404), Prob: 0.0000
+Token: ' stimulus' (ID: 38435), Prob: 0.0000
+Token: ' passage' (ID: 21085), Prob: 0.0000
+Token: ' best' (ID: 1850), Prob: 0.0000
+Token: ' context' (ID: 2266), Prob: 0.0000
+Token: ' rest' (ID: 2732), Prob: 0.0000
+Token: ' photo' (ID: 6548), Prob: 0.0000
+Token: ' tweet' (ID: 11809), Prob: 0.0000
+Token: ' hypothesis' (ID: 30078), Prob: 0.0000
+Token: ' author' (ID: 3150), Prob: 0.0000
 
 == Ranked Concepts (Clusters) ==
-Rank 1 | Concept Score: 0.5078
-  Tokens: [' compared', ' compare', ' comparing', ' Compared']
-Rank 2 | Concept Score: 0.0005
-  Tokens: [' according', ' based', ' depending']
-Rank 3 | Concept Score: 0.0002
-  Tokens: [' earlier', ' immediately', ' later', ' early']
-Rank 4 | Concept Score: 0.0001
-  Tokens: [' today', ' tomorrow']
-Rank 5 | Concept Score: 0.0001
-  Tokens: [' every']
-Rank 6 | Concept Score: 0.0001
-  Tokens: [' time', ' one']
-Rank 7 | Concept Score: 0.0001
-  Tokens: [' relative']
-Rank 8 | Concept Score: 0.0001
-  Tokens: [' rather', ' instead']
-Rank 9 | Concept Score: 0.0001
-  Tokens: [' unless', ' except']
-Rank 10 | Concept Score: 0.0001
-  Tokens: [' would', ' must']
-Rank 11 | Concept Score: 0.0001
-  Tokens: [' since', ' due']
-Rank 12 | Concept Score: 0.0001
-  Tokens: [' known', ' said']
-Rank 13 | Concept Score: 0.0000
-  Tokens: [' combined', ' COM']
-Rank 14 | Concept Score: 0.0000
-  Tokens: [' please']
+Rank 1 | Centroid: ' statement' | Score: 1.0000
+  Tokens: [' statement', ' statements', ' Statement', 'statement', ' stated', '\tstatement', 'Statement', '_statement']
+Rank 2 | Centroid: ' sentence' | Score: 0.0000
+  Tokens: [' sentence', ' paragraph', ' phrase', ' sentiment', ' wording', ' passage']
+Rank 3 | Centroid: ' answer' | Score: 0.0000
+  Tokens: [' answer', ' choice', ' response', ' solution']
+Rank 4 | Centroid: ' initial' | Score: 0.0000
+  Tokens: [' final', ' original', ' following', ' given', ' correct', ' previous', ' initial', ' beginning', ' entire']
+Rank 5 | Centroid: ' photo' | Score: 0.0000
+  Tokens: [' story', ' photo', ' tweet']
+Rank 6 | Centroid: ' assertion' | Score: 0.0000
+  Tokens: [' conclusion', ' claim', ' suggestion', ' argument', ' assertion', ' premise', ' assumption', ' hypothesis']
+Rank 7 | Centroid: ' two' | Score: 0.0000
+  Tokens: [' general', ' two', ' second', ' standard', ' one', ' best']
+Rank 8 | Centroid: ' situation' | Score: 0.0000
+  Tokens: [' situation', ' scene', ' structure', ' context']
+Rank 9 | Centroid: ' topic' | Score: 0.0000
+  Tokens: [' subject', ' theme', ' topic']
+Rank 10 | Centroid: ' question' | Score: 0.0000
+  Tokens: [' question', ' problem']
+Rank 11 | Centroid: ' number' | Score: 0.0000
+  Tokens: [' information', ' time', ' number', ' amount', ' change']
+Rank 12 | Centroid: ' student' | Score: 0.0000
+  Tokens: [' student', ' user']
+Rank 13 | Centroid: ' text' | Score: 0.0000
+  Tokens: [' text', ' string', ' letter']
+Rank 14 | Centroid: ' summary' | Score: 0.0000
+  Tokens: [' summary', ' truth']
+Rank 15 | Centroid: ' description' | Score: 0.0000
+  Tokens: [' description', ' expression']
+Rank 16 | Centroid: ' stat' | Score: 0.0000
+  Tokens: [' stat', ' state']
+Rank 17 | Centroid: ' table' | Score: 0.0000
+  Tokens: [' table']
+Rank 18 | Centroid: ' message' | Score: 0.0000
+  Tokens: [' message', ' comment']
+Rank 19 | Centroid: ' meaning' | Score: 0.0000
+  Tokens: [' meaning']
+Rank 20 | Centroid: ' moment' | Score: 0.0000
+  Tokens: [' moment', ' motion']
+Rank 21 | Centroid: ' assistant' | Score: 0.0000
+  Tokens: [' assistant', ' author']
+Rank 22 | Centroid: ' study' | Score: 0.0000
+  Tokens: [' study']
+Rank 23 | Centroid: ' prompt' | Score: 0.0000
+  Tokens: [' prompt', ' stimulus']
+Rank 24 | Centroid: ' suff' | Score: 0.0000
+  Tokens: [' suff']
+Rank 25 | Centroid: ' reason' | Score: 0.0000
+  Tokens: [' reason']
+Rank 26 | Centroid: ' rest' | Score: 0.0000
+  Tokens: [' rest']
 
-**Chosen Concept:** Rank 1 with score 0.5078
+**Chosen Concept:** Rank 1

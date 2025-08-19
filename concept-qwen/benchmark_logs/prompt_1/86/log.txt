@@ -1,0 +1,52 @@
+--- Step 86 Log ---
+
+== Filtered Candidates ==
+Token: ' must' (ID: 1969), Prob: 0.0001
+Token: ' according' (ID: 4092), Prob: 0.0001
+Token: ' within' (ID: 2878), Prob: 0.0000
+Token: ' Description' (ID: 7662), Prob: 0.0000
+Token: ' would' (ID: 1035), Prob: 0.0000
+Token: ' via' (ID: 4566), Prob: 0.0000
+Token: ' long' (ID: 1293), Prob: 0.0000
+Token: ' may' (ID: 1231), Prob: 0.0000
+Token: ' using' (ID: 1667), Prob: 0.0000
+Token: ' description' (ID: 4008), Prob: 0.0000
+Token: ' based' (ID: 3118), Prob: 0.0000
+Token: ' one' (ID: 825), Prob: 0.0000
+Token: ' whether' (ID: 3425), Prob: 0.0000
+Token: ' Answer' (ID: 21806), Prob: 0.0000
+Token: ' Yes' (ID: 7414), Prob: 0.0000
+Token: ' According' (ID: 10548), Prob: 0.0000
+Token: ' provided' (ID: 3897), Prob: 0.0000
+Token: ' examples' (ID: 10295), Prob: 0.0000
+Token: ' along' (ID: 3156), Prob: 0.0000
+Token: ' Code' (ID: 6119), Prob: 0.0000
+Token: ' might' (ID: 2578), Prob: 0.0000
+
+== Ranked Concepts (Clusters) ==
+Rank 1 | Centroid: ' may' | Score: 0.0002
+  Tokens: [' must', ' would', ' may', ' might']
+Rank 2 | Centroid: ' according' | Score: 0.0001
+  Tokens: [' according', ' based', ' According']
+Rank 3 | Centroid: ' Description' | Score: 0.0001
+  Tokens: [' Description', ' description']
+Rank 4 | Centroid: ' within' | Score: 0.0000
+  Tokens: [' within', ' along']
+Rank 5 | Centroid: ' via' | Score: 0.0000
+  Tokens: [' via', ' using']
+Rank 6 | Centroid: ' whether' | Score: 0.0000
+  Tokens: [' whether', ' Yes']
+Rank 7 | Centroid: ' long' | Score: 0.0000
+  Tokens: [' long']
+Rank 8 | Centroid: ' one' | Score: 0.0000
+  Tokens: [' one']
+Rank 9 | Centroid: ' Answer' | Score: 0.0000
+  Tokens: [' Answer']
+Rank 10 | Centroid: ' provided' | Score: 0.0000
+  Tokens: [' provided']
+Rank 11 | Centroid: ' examples' | Score: 0.0000
+  Tokens: [' examples']
+Rank 12 | Centroid: ' Code' | Score: 0.0000
+  Tokens: [' Code']
+
+**Chosen Concept:** Rank 1

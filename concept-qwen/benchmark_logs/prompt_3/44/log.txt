@@ -1,73 +1,114 @@
 --- Step 44 Log ---
 
 == Filtered Candidates ==
-Token: ' else' (ID: 770), Prob: 0.9922
-Token: ' remains' (ID: 8458), Prob: 0.0022
-Token: ' except' (ID: 3650), Prob: 0.0003
-Token: ' stays' (ID: 26558), Prob: 0.0002
-Token: ' otherwise' (ID: 5937), Prob: 0.0001
-Token: ' Else' (ID: 18804), Prob: 0.0001
-Token: ' remaining' (ID: 9664), Prob: 0.0001
-Token: ' still' (ID: 2058), Prob: 0.0001
-Token: ' everything' (ID: 4297), Prob: 0.0000
-Token: ' etc' (ID: 4992), Prob: 0.0000
-Token: ' must' (ID: 1969), Prob: 0.0000
-Token: ' remain' (ID: 7146), Prob: 0.0000
-Token: '	else' (ID: 2466), Prob: 0.0000
-Token: ' remained' (ID: 14616), Prob: 0.0000
-Token: ' things' (ID: 2513), Prob: 0.0000
-Token: ' ELSE' (ID: 52926), Prob: 0.0000
-Token: ' something' (ID: 2494), Prob: 0.0000
-Token: ' nothing' (ID: 4302), Prob: 0.0000
-Token: ' elif' (ID: 4409), Prob: 0.0000
-Token: ' goes' (ID: 5780), Prob: 0.0000
-Token: ' seems' (ID: 4977), Prob: 0.0000
-Token: ' others' (ID: 3800), Prob: 0.0000
-Token: ' elsewhere' (ID: 17920), Prob: 0.0000
-Token: 'else' (ID: 1503), Prob: 0.0000
-Token: ' another' (ID: 2441), Prob: 0.0000
-Token: ' changes' (ID: 4344), Prob: 0.0000
-Token: ' related' (ID: 5435), Prob: 0.0000
-Token: ' gets' (ID: 5221), Prob: 0.0000
-Token: ' together' (ID: 3786), Prob: 0.0000
-Token: ' plus' (ID: 5519), Prob: 0.0000
-Token: ' stayed' (ID: 19613), Prob: 0.0000
-Token: ' less' (ID: 2686), Prob: 0.0000
-Token: ' equal' (ID: 6144), Prob: 0.0000
-Token: ' equals' (ID: 16819), Prob: 0.0000
-Token: ' like' (ID: 1075), Prob: 0.0000
-Token: ' rest' (ID: 2732), Prob: 0.0000
-Token: ' thing' (ID: 3166), Prob: 0.0000
-Token: ' els' (ID: 20712), Prob: 0.0000
+Token: ' family' (ID: 2997), Prob: 1.0000
+Token: ' home' (ID: 2114), Prob: 0.0002
+Token: ' Family' (ID: 12238), Prob: 0.0001
+Token: ' company' (ID: 2813), Prob: 0.0000
+Token: ' families' (ID: 8521), Prob: 0.0000
+Token: 'family' (ID: 18984), Prob: 0.0000
+Token: ' child' (ID: 1682), Prob: 0.0000
+Token: ' house' (ID: 3753), Prob: 0.0000
+Token: ' familia' (ID: 50947), Prob: 0.0000
+Token: ' mother' (ID: 6554), Prob: 0.0000
+Token: ' room' (ID: 3054), Prob: 0.0000
+Token: ' future' (ID: 3853), Prob: 0.0000
+Token: ' parent' (ID: 2681), Prob: 0.0000
+Token: ' household' (ID: 13732), Prob: 0.0000
+Token: ' factory' (ID: 8633), Prob: 0.0000
+Token: ' children' (ID: 2841), Prob: 0.0000
+Token: ' country' (ID: 3146), Prob: 0.0000
+Token: ' fam' (ID: 2091), Prob: 0.0000
+Token: ' first' (ID: 1156), Prob: 0.0000
+Token: ' parents' (ID: 6562), Prob: 0.0000
+Token: ' familial' (ID: 97204), Prob: 0.0000
+Token: ' famil' (ID: 43426), Prob: 0.0000
+Token: ' name' (ID: 829), Prob: 0.0000
+Token: ' world' (ID: 1879), Prob: 0.0000
+Token: ' system' (ID: 1849), Prob: 0.0000
+Token: ' care' (ID: 2453), Prob: 0.0000
+Token: ' father' (ID: 6981), Prob: 0.0000
+Token: ' category' (ID: 5582), Prob: 0.0000
+Token: ' farm' (ID: 8785), Prob: 0.0000
+Token: ' day' (ID: 1899), Prob: 0.0000
+Token: ' community' (ID: 3942), Prob: 0.0000
+Token: ' kitchen' (ID: 9780), Prob: 0.0000
+Token: 'Family' (ID: 15192), Prob: 0.0000
+Token: ' next' (ID: 1790), Prob: 0.0000
+Token: ' following' (ID: 2701), Prob: 0.0000
+Token: ' field' (ID: 2070), Prob: 0.0000
+Token: ' environment' (ID: 4573), Prob: 0.0000
+Token: ' year' (ID: 1042), Prob: 0.0000
+Token: ' way' (ID: 1616), Prob: 0.0000
+Token: ' city' (ID: 3283), Prob: 0.0000
+Token: ' school' (ID: 2906), Prob: 0.0000
+Token: ' class' (ID: 536), Prob: 0.0000
+Token: ' new' (ID: 501), Prob: 0.0000
+Token: ' center' (ID: 4126), Prob: 0.0000
+Token: ' nursery' (ID: 55126), Prob: 0.0000
+Token: ' facility' (ID: 12481), Prob: 0.0000
+Token: ' car' (ID: 1803), Prob: 0.0000
+Token: ' camp' (ID: 3113), Prob: 0.0000
+Token: ' FAMILY' (ID: 87469), Prob: 0.0000
+Token: '_family' (ID: 26823), Prob: 0.0000
+Token: ' current' (ID: 1482), Prob: 0.0000
+Token: ' baby' (ID: 8770), Prob: 0.0000
+Token: ' parenting' (ID: 47958), Prob: 0.0000
+Token: ' love' (ID: 2948), Prob: 0.0000
+Token: ' study' (ID: 3920), Prob: 0.0000
+Token: ' party' (ID: 4614), Prob: 0.0000
+Token: ' couple' (ID: 5625), Prob: 0.0000
+Token: ' hospital' (ID: 8777), Prob: 0.0000
+Token: ' night' (ID: 3729), Prob: 0.0000
+Token: ' grand' (ID: 6662), Prob: 0.0000
+Token: ' summer' (ID: 7324), Prob: 0.0000
+Token: ' three' (ID: 2326), Prob: 0.0000
+Token: ' childhood' (ID: 19990), Prob: 0.0000
+Token: ' full' (ID: 2480), Prob: 0.0000
+Token: ' money' (ID: 3220), Prob: 0.0000
+Token: ' lab' (ID: 10072), Prob: 0.0000
+Token: '-family' (ID: 17190), Prob: 0.0000
+Token: ' famille' (ID: 66528), Prob: 0.0000
+Token: ' group' (ID: 1874), Prob: 0.0000
+Token: ' relationship' (ID: 5025), Prob: 0.0000
+Token: ' living' (ID: 5382), Prob: 0.0000
+Token: ' sky' (ID: 12884), Prob: 0.0000
+Token: ' time' (ID: 882), Prob: 0.0000
+Token: ' four' (ID: 3040), Prob: 0.0000
+Token: ' capital' (ID: 6722), Prob: 0.0000
 
 == Ranked Concepts (Clusters) ==
-Rank 1 | Concept Score: 0.9922
-  Tokens: [' else', ' otherwise', ' Else', '\telse', ' ELSE', ' elif', 'else']
-Rank 2 | Concept Score: 0.0025
-  Tokens: [' remains', ' stays', ' remaining', ' remain', ' remained', ' stayed']
-Rank 3 | Concept Score: 0.0003
-  Tokens: [' except', ' plus']
-Rank 4 | Concept Score: 0.0001
-  Tokens: [' everything', ' things', ' something', ' nothing', ' thing']
-Rank 5 | Concept Score: 0.0001
-  Tokens: [' still', ' less']
-Rank 6 | Concept Score: 0.0000
-  Tokens: [' goes', ' seems', ' changes', ' gets']
-Rank 7 | Concept Score: 0.0000
-  Tokens: [' etc']
-Rank 8 | Concept Score: 0.0000
-  Tokens: [' must']
-Rank 9 | Concept Score: 0.0000
-  Tokens: [' others', ' elsewhere', ' another']
-Rank 10 | Concept Score: 0.0000
-  Tokens: [' related', ' like']
-Rank 11 | Concept Score: 0.0000
-  Tokens: [' equal', ' equals']
-Rank 12 | Concept Score: 0.0000
-  Tokens: [' together']
-Rank 13 | Concept Score: 0.0000
-  Tokens: [' els']
-Rank 14 | Concept Score: 0.0000
-  Tokens: [' rest']
+Rank 1 | Centroid: ' Family' | Score: 1.0000
+  Tokens: [' family', ' Family', ' families', 'family', ' familia', ' fam', ' familial', ' famil', 'Family', ' FAMILY', '_family', '-family', ' famille']
+Rank 2 | Centroid: ' house' | Score: 0.0002
+  Tokens: [' home', ' house', ' room', ' household', ' kitchen']
+Rank 3 | Centroid: ' country' | Score: 0.0000
+  Tokens: [' company', ' country', ' city', ' school', ' camp', ' party']
+Rank 4 | Centroid: ' parents' | Score: 0.0000
+  Tokens: [' mother', ' parent', ' parents', ' father', ' parenting']
+Rank 5 | Centroid: ' child' | Score: 0.0000
+  Tokens: [' child', ' children', ' nursery', ' baby', ' childhood']
+Rank 6 | Centroid: ' new' | Score: 0.0000
+  Tokens: [' future', ' first', ' next', ' following', ' new', ' current', ' full']
+Rank 7 | Centroid: ' category' | Score: 0.0000
+  Tokens: [' system', ' category', ' community', ' field', ' class', ' group']
+Rank 8 | Centroid: ' hospital' | Score: 0.0000
+  Tokens: [' factory', ' farm', ' facility', ' hospital']
+Rank 9 | Centroid: ' love' | Score: 0.0000
+  Tokens: [' care', ' car', ' love', ' couple']
+Rank 10 | Centroid: ' day' | Score: 0.0000
+  Tokens: [' day', ' year', ' night', ' summer']
+Rank 11 | Centroid: ' environment' | Score: 0.0000
+  Tokens: [' world', ' environment', ' relationship']
+Rank 12 | Centroid: ' name' | Score: 0.0000
+  Tokens: [' name', ' grand', ' time']
+Rank 13 | Centroid: ' lab' | Score: 0.0000
+  Tokens: [' center', ' study', ' lab', ' capital']
+Rank 14 | Centroid: ' sky' | Score: 0.0000
+  Tokens: [' way', ' money', ' sky']
+Rank 15 | Centroid: ' three' | Score: 0.0000
+  Tokens: [' three', ' four']
+Rank 16 | Centroid: ' living' | Score: 0.0000
+  Tokens: [' living']
 
-**Chosen Concept:** Rank 1 with score 0.9922
+**Chosen Concept:** Rank 1

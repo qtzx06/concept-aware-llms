@@ -1,0 +1,142 @@
+--- Step 146 Log ---
+
+== Filtered Candidates ==
+Token: ' like' (ID: 1075), Prob: 0.3906
+Token: ' natural' (ID: 5810), Prob: 0.0869
+Token: ' intense' (ID: 18894), Prob: 0.0767
+Token: ' overwhelming' (ID: 22024), Prob: 0.0598
+Token: ' unstoppable' (ID: 92664), Prob: 0.0598
+Token: ' strong' (ID: 3746), Prob: 0.0320
+Token: ' real' (ID: 1931), Prob: 0.0265
+Token: ' powerful' (ID: 7988), Prob: 0.0265
+Token: ' inevitable' (ID: 30252), Prob: 0.0125
+Token: ' unavoidable' (ID: 83016), Prob: 0.0086
+Token: ' stronger' (ID: 16245), Prob: 0.0076
+Token: ' impactful' (ID: 97890), Prob: 0.0076
+Token: ' genuine' (ID: 22011), Prob: 0.0071
+Token: ' deep' (ID: 5538), Prob: 0.0067
+Token: ' something' (ID: 2494), Prob: 0.0056
+Token: ' significant' (ID: 5089), Prob: 0.0052
+Token: ' uncont' (ID: 69993), Prob: 0.0041
+Token: ' personal' (ID: 4345), Prob: 0.0036
+Token: ' profound' (ID: 27155), Prob: 0.0036
+Token: ' immediate' (ID: 13922), Prob: 0.0034
+Token: ' relieved' (ID: 50412), Prob: 0.0020
+Token: ' tangible' (ID: 49301), Prob: 0.0019
+Token: ' physical' (ID: 6961), Prob: 0.0017
+Token: ' heavy' (ID: 8811), Prob: 0.0014
+Token: ' transformative' (ID: 86335), Prob: 0.0014
+Token: ' almost' (ID: 4558), Prob: 0.0012
+Token: ' urgent' (ID: 33671), Prob: 0.0011
+Token: ' forced' (ID: 9575), Prob: 0.0010
+Token: ' universal' (ID: 20178), Prob: 0.0010
+Token: ' even' (ID: 1496), Prob: 0.0010
+Token: ' different' (ID: 2155), Prob: 0.0010
+Token: ' imminent' (ID: 50451), Prob: 0.0009
+Token: ' relie' (ID: 58544), Prob: 0.0009
+Token: ' unexpected' (ID: 16500), Prob: 0.0009
+Token: ' everything' (ID: 4297), Prob: 0.0008
+Token: ' suff' (ID: 8489), Prob: 0.0008
+Token: ' full' (ID: 2480), Prob: 0.0007
+Token: ' pure' (ID: 10526), Prob: 0.0007
+Token: ' emotional' (ID: 14269), Prob: 0.0007
+Token: ' empowering' (ID: 65288), Prob: 0.0007
+Token: ' right' (ID: 1290), Prob: 0.0007
+Token: ' every' (ID: 1449), Prob: 0.0007
+Token: ' special' (ID: 3281), Prob: 0.0007
+Token: ' familiar' (ID: 11285), Prob: 0.0007
+Token: ' relief' (ID: 15957), Prob: 0.0007
+Token: ' expressive' (ID: 77123), Prob: 0.0007
+Token: ' connected' (ID: 8433), Prob: 0.0006
+Token: ' washed' (ID: 37493), Prob: 0.0006
+Token: ' spontaneous' (ID: 53457), Prob: 0.0006
+Token: ' true' (ID: 830), Prob: 0.0006
+Token: ' specific' (ID: 3151), Prob: 0.0006
+Token: ' essential' (ID: 7565), Prob: 0.0006
+Token: ' authentic' (ID: 13210), Prob: 0.0006
+Token: ' everywhere' (ID: 16852), Prob: 0.0006
+Token: ' complete' (ID: 4583), Prob: 0.0005
+Token: ' impossible' (ID: 11997), Prob: 0.0005
+Token: ' tears' (ID: 23139), Prob: 0.0005
+Token: ' irresistible' (ID: 85829), Prob: 0.0005
+Token: ' important' (ID: 2989), Prob: 0.0005
+Token: ' amazing' (ID: 7897), Prob: 0.0005
+Token: ' involuntary' (ID: 90505), Prob: 0.0005
+Token: ' overpower' (ID: 97787), Prob: 0.0005
+Token: ' meaningful' (ID: 22414), Prob: 0.0005
+Token: ' necessary' (ID: 5871), Prob: 0.0004
+Token: ' alive' (ID: 13675), Prob: 0.0004
+Token: ' fulfilled' (ID: 40734), Prob: 0.0004
+Token: ' part' (ID: 949), Prob: 0.0004
+Token: ' unique' (ID: 4911), Prob: 0.0004
+Token: ' undeniable' (ID: 80732), Prob: 0.0004
+Token: ' deeply' (ID: 17247), Prob: 0.0004
+Token: ' impact' (ID: 5421), Prob: 0.0004
+Token: ' beautiful' (ID: 6233), Prob: 0.0004
+Token: ' broken' (ID: 10865), Prob: 0.0004
+Token: ' instant' (ID: 9690), Prob: 0.0003
+Token: ' devastating' (ID: 32218), Prob: 0.0003
+Token: ' transc' (ID: 41490), Prob: 0.0003
+Token: ' sudden' (ID: 10968), Prob: 0.0003
+Token: ' incredible' (ID: 15050), Prob: 0.0003
+Token: ' symbolic' (ID: 35296), Prob: 0.0003
+Token: ' vivid' (ID: 42020), Prob: 0.0003
+Token: ' cleansing' (ID: 58952), Prob: 0.0003
+Token: ' surreal' (ID: 64523), Prob: 0.0003
+Token: ' comforting' (ID: 68030), Prob: 0.0003
+
+== Ranked Concepts (Clusters) ==
+Rank 1 | Centroid: ' like' | Score: 0.3926
+  Tokens: [' like', ' even', ' right', ' part']
+Rank 2 | Centroid: ' physical' | Score: 0.0923
+  Tokens: [' natural', ' personal', ' physical']
+Rank 3 | Centroid: ' profound' | Score: 0.0889
+  Tokens: [' intense', ' deep', ' profound', ' heavy', ' deeply', ' vivid']
+Rank 4 | Centroid: ' unavoidable' | Score: 0.0864
+  Tokens: [' unstoppable', ' inevitable', ' unavoidable', ' uncont', ' impossible', ' irresistible', ' undeniable']
+Rank 5 | Centroid: ' strong' | Score: 0.0659
+  Tokens: [' strong', ' powerful', ' stronger']
+Rank 6 | Centroid: ' overwhelming' | Score: 0.0603
+  Tokens: [' overwhelming', ' overpower']
+Rank 7 | Centroid: ' genuine' | Score: 0.0349
+  Tokens: [' real', ' genuine', ' true', ' authentic']
+Rank 8 | Centroid: ' everything' | Score: 0.0088
+  Tokens: [' something', ' almost', ' everything', ' every', ' everywhere']
+Rank 9 | Centroid: ' impactful' | Score: 0.0079
+  Tokens: [' impactful', ' impact']
+Rank 10 | Centroid: ' essential' | Score: 0.0067
+  Tokens: [' significant', ' essential', ' important', ' necessary']
+Rank 11 | Centroid: ' immediate' | Score: 0.0060
+  Tokens: [' immediate', ' urgent', ' imminent', ' instant', ' sudden']
+Rank 12 | Centroid: ' relief' | Score: 0.0036
+  Tokens: [' relieved', ' relie', ' relief']
+Rank 13 | Centroid: ' comforting' | Score: 0.0034
+  Tokens: [' transformative', ' empowering', ' expressive', ' surreal', ' comforting']
+Rank 14 | Centroid: ' specific' | Score: 0.0026
+  Tokens: [' different', ' special', ' specific', ' unique']
+Rank 15 | Centroid: ' spontaneous' | Score: 0.0020
+  Tokens: [' unexpected', ' spontaneous', ' involuntary']
+Rank 16 | Centroid: ' full' | Score: 0.0020
+  Tokens: [' full', ' pure', ' complete']
+Rank 17 | Centroid: ' tangible' | Score: 0.0019
+  Tokens: [' tangible']
+Rank 18 | Centroid: ' washed' | Score: 0.0018
+  Tokens: [' washed', ' alive', ' fulfilled', ' cleansing']
+Rank 19 | Centroid: ' universal' | Score: 0.0017
+  Tokens: [' universal', ' familiar']
+Rank 20 | Centroid: ' amazing' | Score: 0.0015
+  Tokens: [' amazing', ' beautiful', ' devastating', ' incredible']
+Rank 21 | Centroid: ' suff' | Score: 0.0014
+  Tokens: [' suff', ' connected']
+Rank 22 | Centroid: ' forced' | Score: 0.0010
+  Tokens: [' forced']
+Rank 23 | Centroid: ' emotional' | Score: 0.0010
+  Tokens: [' emotional', ' symbolic']
+Rank 24 | Centroid: ' tears' | Score: 0.0009
+  Tokens: [' tears', ' transc']
+Rank 25 | Centroid: ' meaningful' | Score: 0.0005
+  Tokens: [' meaningful']
+Rank 26 | Centroid: ' broken' | Score: 0.0004
+  Tokens: [' broken']
+
+**Chosen Concept:** Rank 1

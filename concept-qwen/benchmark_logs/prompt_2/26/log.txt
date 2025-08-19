@@ -1,67 +1,86 @@
 --- Step 26 Log ---
 
 == Filtered Candidates ==
-Token: ' However' (ID: 4354), Prob: 0.0190
-Token: ' Scientists' (ID: 56016), Prob: 0.0179
-Token: ' Also' (ID: 7281), Prob: 0.0139
-Token: ' According' (ID: 10548), Prob: 0.0027
-Token: ' Researchers' (ID: 58150), Prob: 0.0026
-Token: ' Additionally' (ID: 22406), Prob: 0.0021
-Token: ' Therefore' (ID: 15277), Prob: 0.0019
-Token: ' Research' (ID: 8319), Prob: 0.0017
-Token: ' Based' (ID: 20205), Prob: 0.0017
-Token: ' Since' (ID: 8704), Prob: 0.0015
-Token: ' Thus' (ID: 14301), Prob: 0.0012
-Token: ' Mars' (ID: 21048), Prob: 0.0011
-Token: ' Inside' (ID: 27368), Prob: 0.0011
-Token: ' NASA' (ID: 21431), Prob: 0.0010
-Token: ' Furthermore' (ID: 23405), Prob: 0.0010
-Token: ' Even' (ID: 7418), Prob: 0.0009
-Token: ' Describe' (ID: 60785), Prob: 0.0009
-Token: ' One' (ID: 3776), Prob: 0.0008
-Token: ' Using' (ID: 12091), Prob: 0.0008
-Token: ' Despite' (ID: 17715), Prob: 0.0008
-Token: ' Moreover' (ID: 22827), Prob: 0.0008
-Token: ' Due' (ID: 23662), Prob: 0.0008
-Token: ' Let' (ID: 6771), Prob: 0.0007
-Token: ' Meanwhile' (ID: 25894), Prob: 0.0007
-Token: ' Hence' (ID: 31040), Prob: 0.0007
-Token: ' Although' (ID: 10328), Prob: 0.0006
-Token: ' Though' (ID: 17594), Prob: 0.0006
-Token: ' Humans' (ID: 64994), Prob: 0.0006
-Token: ' People' (ID: 8853), Prob: 0.0005
-Token: ' Recently' (ID: 40996), Prob: 0.0005
-Token: ' Plants' (ID: 49198), Prob: 0.0005
-Token: ' Analysis' (ID: 18320), Prob: 0.0005
-Token: ' Within' (ID: 24236), Prob: 0.0005
-Token: ' Certain' (ID: 34111), Prob: 0.0005
+Token: ' something' (ID: 2494), Prob: 0.4180
+Token: ' etc' (ID: 4992), Prob: 0.2539
+Token: ' yes' (ID: 9834), Prob: 0.0183
+Token: ' maybe' (ID: 7196), Prob: 0.0041
+Token: ' nothing' (ID: 4302), Prob: 0.0019
+Token: ' anything' (ID: 4113), Prob: 0.0013
+Token: ' based' (ID: 3118), Prob: 0.0009
+Token: ' depending' (ID: 11649), Prob: 0.0008
+Token: ' sometimes' (ID: 7025), Prob: 0.0003
+Token: ' negative' (ID: 8225), Prob: 0.0003
+Token: ' also' (ID: 1083), Prob: 0.0002
+Token: ' except' (ID: 3650), Prob: 0.0002
+Token: ' even' (ID: 1496), Prob: 0.0002
+Token: ' perhaps' (ID: 8365), Prob: 0.0002
+Token: ' whatever' (ID: 8820), Prob: 0.0002
+Token: ' else' (ID: 770), Prob: 0.0002
+Token: ' another' (ID: 2441), Prob: 0.0002
+Token: ' answer' (ID: 4226), Prob: 0.0002
+Token: ' somewhere' (ID: 14696), Prob: 0.0002
+Token: ' since' (ID: 2474), Prob: 0.0001
+Token: ' otherwise' (ID: 5937), Prob: 0.0001
+Token: ' someone' (ID: 4325), Prob: 0.0001
+Token: ' description' (ID: 4008), Prob: 0.0001
+Token: ' without' (ID: 2041), Prob: 0.0001
+Token: ' similar' (ID: 4428), Prob: 0.0001
+Token: ' depends' (ID: 13798), Prob: 0.0001
+Token: ' wait' (ID: 3783), Prob: 0.0001
+Token: ' plus' (ID: 5519), Prob: 0.0001
+Token: ' possibly' (ID: 10767), Prob: 0.0001
+Token: ' one' (ID: 825), Prob: 0.0001
+Token: ' thing' (ID: 3166), Prob: 0.0001
+Token: ' like' (ID: 1075), Prob: 0.0001
+Token: ' things' (ID: 2513), Prob: 0.0001
+Token: ' please' (ID: 4486), Prob: 0.0001
+Token: ' possible' (ID: 3204), Prob: 0.0001
+Token: ' none' (ID: 6857), Prob: 0.0001
+Token: ' unless' (ID: 7241), Prob: 0.0001
+Token: ' specific' (ID: 3151), Prob: 0.0001
+Token: ' everything' (ID: 4297), Prob: 0.0001
+Token: ' sorry' (ID: 14589), Prob: 0.0001
+Token: ' certain' (ID: 3654), Prob: 0.0001
+Token: ' however' (ID: 4764), Prob: 0.0001
+Token: ' yeah' (ID: 21639), Prob: 0.0001
+Token: ' false' (ID: 895), Prob: 0.0000
+Token: ' missing' (ID: 7402), Prob: 0.0000
 
 == Ranked Concepts (Clusters) ==
-Rank 1 | Concept Score: 0.0222
-  Tokens: [' Scientists', ' Researchers', ' Research']
-Rank 2 | Concept Score: 0.0220
-  Tokens: [' However', ' Even', ' Despite', ' Although', ' Though']
-Rank 3 | Concept Score: 0.0179
-  Tokens: [' Also', ' Additionally', ' Furthermore', ' Moreover']
-Rank 4 | Concept Score: 0.0052
-  Tokens: [' According', ' Based', ' Using']
-Rank 5 | Concept Score: 0.0038
-  Tokens: [' Therefore', ' Thus', ' Hence']
-Rank 6 | Concept Score: 0.0022
-  Tokens: [' Since', ' Let']
-Rank 7 | Concept Score: 0.0021
-  Tokens: [' Mars', ' NASA']
-Rank 8 | Concept Score: 0.0017
-  Tokens: [' One', ' Due']
-Rank 9 | Concept Score: 0.0017
-  Tokens: [' Humans', ' People', ' Plants']
-Rank 10 | Concept Score: 0.0016
-  Tokens: [' Inside', ' Within']
-Rank 11 | Concept Score: 0.0014
-  Tokens: [' Describe', ' Analysis']
-Rank 12 | Concept Score: 0.0011
-  Tokens: [' Recently', ' Certain']
-Rank 13 | Concept Score: 0.0007
-  Tokens: [' Meanwhile']
+Rank 1 | Centroid: ' something' | Score: 0.4219
+  Tokens: [' something', ' nothing', ' anything', ' whatever', ' thing', ' things', ' everything']
+Rank 2 | Centroid: ' etc' | Score: 0.2539
+  Tokens: [' etc', ' even']
+Rank 3 | Centroid: ' yes' | Score: 0.0183
+  Tokens: [' yes', ' yeah']
+Rank 4 | Centroid: ' perhaps' | Score: 0.0047
+  Tokens: [' maybe', ' sometimes', ' perhaps', ' possibly', ' possible']
+Rank 5 | Centroid: ' depending' | Score: 0.0018
+  Tokens: [' based', ' depending', ' depends']
+Rank 6 | Centroid: ' unless' | Score: 0.0005
+  Tokens: [' except', ' since', ' without', ' unless']
+Rank 7 | Centroid: ' wait' | Score: 0.0004
+  Tokens: [' answer', ' description', ' wait', ' missing']
+Rank 8 | Centroid: ' else' | Score: 0.0003
+  Tokens: [' else', ' otherwise']
+Rank 9 | Centroid: ' negative' | Score: 0.0003
+  Tokens: [' negative', ' false']
+Rank 10 | Centroid: ' also' | Score: 0.0003
+  Tokens: [' also', ' however']
+Rank 11 | Centroid: ' another' | Score: 0.0003
+  Tokens: [' another', ' one']
+Rank 12 | Centroid: ' somewhere' | Score: 0.0003
+  Tokens: [' somewhere', ' someone']
+Rank 13 | Centroid: ' similar' | Score: 0.0002
+  Tokens: [' similar', ' like']
+Rank 14 | Centroid: ' please' | Score: 0.0001
+  Tokens: [' please', ' sorry']
+Rank 15 | Centroid: ' specific' | Score: 0.0001
+  Tokens: [' specific', ' certain']
+Rank 16 | Centroid: ' plus' | Score: 0.0001
+  Tokens: [' plus']
+Rank 17 | Centroid: ' none' | Score: 0.0001
+  Tokens: [' none']
 
-**Chosen Concept:** Rank 1 with score 0.0222
+**Chosen Concept:** Rank 1

@@ -1,0 +1,88 @@
+--- Step 111 Log ---
+
+== Filtered Candidates ==
+Token: ' child' (ID: 1682), Prob: 1.0000
+Token: ' kid' (ID: 10369), Prob: 0.0001
+Token: '(child' (ID: 17794), Prob: 0.0001
+Token: ' children' (ID: 2841), Prob: 0.0000
+Token: ' parent' (ID: 2681), Prob: 0.0000
+Token: ' family' (ID: 2997), Prob: 0.0000
+Token: ' Child' (ID: 9391), Prob: 0.0000
+Token: ' baby' (ID: 8770), Prob: 0.0000
+Token: ' young' (ID: 3908), Prob: 0.0000
+Token: ' youth' (ID: 12537), Prob: 0.0000
+Token: '	child' (ID: 58391), Prob: 0.0000
+Token: '-child' (ID: 23484), Prob: 0.0000
+Token: '.child' (ID: 17531), Prob: 0.0000
+Token: ' infant' (ID: 30283), Prob: 0.0000
+Token: ' home' (ID: 2114), Prob: 0.0000
+Token: ' childhood' (ID: 19990), Prob: 0.0000
+Token: '_child' (ID: 17268), Prob: 0.0000
+Token: 'child' (ID: 3048), Prob: 0.0000
+Token: ' mother' (ID: 6554), Prob: 0.0000
+Token: ' care' (ID: 2453), Prob: 0.0000
+Token: ' student' (ID: 5458), Prob: 0.0000
+Token: ' grand' (ID: 6662), Prob: 0.0000
+Token: ' toddler' (ID: 51235), Prob: 0.0000
+Token: ' adult' (ID: 6683), Prob: 0.0000
+Token: ' girl' (ID: 3743), Prob: 0.0000
+Token: ' boy' (ID: 8171), Prob: 0.0000
+Token: ' one' (ID: 825), Prob: 0.0000
+Token: ' user' (ID: 1196), Prob: 0.0000
+Token: ' cat' (ID: 8251), Prob: 0.0000
+Token: ' CHILD' (ID: 72520), Prob: 0.0000
+Token: ' key' (ID: 1376), Prob: 0.0000
+Token: ' childcare' (ID: 79171), Prob: 0.0000
+Token: ' daughter' (ID: 9803), Prob: 0.0000
+Token: ' teen' (ID: 9378), Prob: 0.0000
+Token: '[child' (ID: 85483), Prob: 0.0000
+Token: ' check' (ID: 1779), Prob: 0.0000
+Token: ' grow' (ID: 3063), Prob: 0.0000
+Token: ' old' (ID: 2310), Prob: 0.0000
+Token: ' chapter' (ID: 12453), Prob: 0.0000
+Token: ' age' (ID: 4231), Prob: 0.0000
+Token: 'Child' (ID: 3652), Prob: 0.0000
+Token: ' charge' (ID: 6757), Prob: 0.0000
+Token: ' car' (ID: 1803), Prob: 0.0000
+Token: ' change' (ID: 2297), Prob: 0.0000
+Token: ' father' (ID: 6981), Prob: 0.0000
+Token: ' youngster' (ID: 82271), Prob: 0.0000
+Token: ' day' (ID: 1899), Prob: 0.0000
+
+== Ranked Concepts (Clusters) ==
+Rank 1 | Centroid: ' child' | Score: 1.0000
+  Tokens: [' child', '(child', ' children', ' Child', '\tchild', '-child', '.child', '_child', 'child', ' CHILD', '[child', 'Child']
+Rank 2 | Centroid: ' boy' | Score: 0.0001
+  Tokens: [' kid', ' girl', ' boy']
+Rank 3 | Centroid: ' infant' | Score: 0.0000
+  Tokens: [' baby', ' infant', ' toddler']
+Rank 4 | Centroid: ' mother' | Score: 0.0000
+  Tokens: [' parent', ' mother', ' daughter', ' father']
+Rank 5 | Centroid: ' family' | Score: 0.0000
+  Tokens: [' family', ' home']
+Rank 6 | Centroid: ' young' | Score: 0.0000
+  Tokens: [' young', ' youth', ' teen', ' youngster']
+Rank 7 | Centroid: ' car' | Score: 0.0000
+  Tokens: [' care', ' cat', ' car']
+Rank 8 | Centroid: ' grand' | Score: 0.0000
+  Tokens: [' grand', ' adult']
+Rank 9 | Centroid: ' student' | Score: 0.0000
+  Tokens: [' student', ' user']
+Rank 10 | Centroid: ' childhood' | Score: 0.0000
+  Tokens: [' childhood']
+Rank 11 | Centroid: ' one' | Score: 0.0000
+  Tokens: [' one', ' key']
+Rank 12 | Centroid: ' old' | Score: 0.0000
+  Tokens: [' old', ' age']
+Rank 13 | Centroid: ' check' | Score: 0.0000
+  Tokens: [' check', ' change']
+Rank 14 | Centroid: ' chapter' | Score: 0.0000
+  Tokens: [' chapter', ' charge']
+Rank 15 | Centroid: ' childcare' | Score: 0.0000
+  Tokens: [' childcare']
+Rank 16 | Centroid: ' grow' | Score: 0.0000
+  Tokens: [' grow']
+Rank 17 | Centroid: ' day' | Score: 0.0000
+  Tokens: [' day']
+
+**Chosen Concept:** Rank 1

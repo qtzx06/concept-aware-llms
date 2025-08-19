@@ -1,106 +1,145 @@
 --- Step 51 Log ---
 
 == Filtered Candidates ==
-Token: ' cry' (ID: 15729), Prob: 0.9688
-Token: ' crying' (ID: 30199), Prob: 0.0108
-Token: ' cried' (ID: 38069), Prob: 0.0014
-Token: ' etc' (ID: 4992), Prob: 0.0005
-Token: ' cries' (ID: 57745), Prob: 0.0002
-Token: ' Cry' (ID: 42705), Prob: 0.0002
-Token: ' love' (ID: 2948), Prob: 0.0001
-Token: ' try' (ID: 1430), Prob: 0.0001
-Token: ' wait' (ID: 3783), Prob: 0.0001
-Token: 'cry' (ID: 61138), Prob: 0.0001
-Token: ' write' (ID: 3270), Prob: 0.0001
-Token: ' scream' (ID: 45689), Prob: 0.0001
-Token: ' repeat' (ID: 13153), Prob: 0.0000
-Token: ' please' (ID: 4486), Prob: 0.0000
-Token: ' break' (ID: 1438), Prob: 0.0000
-Token: ' cro' (ID: 14093), Prob: 0.0000
-Token: ' thank' (ID: 9702), Prob: 0.0000
-Token: ' tears' (ID: 23139), Prob: 0.0000
-Token: ' tear' (ID: 17576), Prob: 0.0000
-Token: ' fall' (ID: 4399), Prob: 0.0000
-Token: ' sorry' (ID: 14589), Prob: 0.0000
-Token: ' sing' (ID: 7780), Prob: 0.0000
-Token: ' lie' (ID: 10246), Prob: 0.0000
-Token: ' end' (ID: 835), Prob: 0.0000
-Token: ' catch' (ID: 2287), Prob: 0.0000
-Token: ' feel' (ID: 2666), Prob: 0.0000
-Token: ' create' (ID: 1855), Prob: 0.0000
-Token: ' pain' (ID: 6646), Prob: 0.0000
-Token: ' sad' (ID: 12421), Prob: 0.0000
-Token: ' maybe' (ID: 7196), Prob: 0.0000
-Token: ' yeah' (ID: 21639), Prob: 0.0000
-Token: ' sigh' (ID: 30138), Prob: 0.0000
-Token: ' die' (ID: 2746), Prob: 0.0000
-Token: ' cow' (ID: 19362), Prob: 0.0000
-Token: ' drip' (ID: 72499), Prob: 0.0000
-Token: ' count' (ID: 1760), Prob: 0.0000
-Token: ' ask' (ID: 2548), Prob: 0.0000
-Token: ' dry' (ID: 9058), Prob: 0.0000
-Token: ' joy' (ID: 15888), Prob: 0.0000
-Token: ' cough' (ID: 39600), Prob: 0.0000
-Token: ' climax' (ID: 70195), Prob: 0.0000
-Token: ' let' (ID: 1077), Prob: 0.0000
-Token: ' make' (ID: 1281), Prob: 0.0000
-Token: ' baby' (ID: 8770), Prob: 0.0000
-Token: ' yes' (ID: 9834), Prob: 0.0000
-Token: ' goodbye' (ID: 46455), Prob: 0.0000
-Token: ' add' (ID: 912), Prob: 0.0000
-Token: ' run' (ID: 1598), Prob: 0.0000
-Token: ' care' (ID: 2453), Prob: 0.0000
-Token: ' tie' (ID: 18131), Prob: 0.0000
-Token: ' one' (ID: 825), Prob: 0.0000
-Token: ' sleep' (ID: 6084), Prob: 0.0000
-Token: ' cheer' (ID: 25032), Prob: 0.0000
-Token: ' express' (ID: 3158), Prob: 0.0000
-Token: ' share' (ID: 4332), Prob: 0.0000
+Token: ' Use' (ID: 5443), Prob: 0.3594
+Token: ' Con' (ID: 1200), Prob: 0.1167
+Token: ' Include' (ID: 29734), Prob: 0.1030
+Token: ' Maybe' (ID: 10696), Prob: 0.0908
+Token: ' Keep' (ID: 13655), Prob: 0.0625
+Token: ' End' (ID: 3972), Prob: 0.0430
+Token: ' Make' (ID: 7405), Prob: 0.0430
+Token: ' Avoid' (ID: 34006), Prob: 0.0378
+Token: ' Add' (ID: 2691), Prob: 0.0295
+Token: ' Highlight' (ID: 55994), Prob: 0.0123
+Token: ' Also' (ID: 7281), Prob: 0.0109
+Token: ' Perhaps' (ID: 18765), Prob: 0.0084
+Token: ' Focus' (ID: 25806), Prob: 0.0084
+Token: ' Let' (ID: 6771), Prob: 0.0062
+Token: ' Show' (ID: 6928), Prob: 0.0045
+Token: ' Ensure' (ID: 29279), Prob: 0.0045
+Token: ' Describe' (ID: 60785), Prob: 0.0031
+Token: ' Incorpor' (ID: 53704), Prob: 0.0027
+Token: ' Connect' (ID: 13015), Prob: 0.0026
+Token: ' Combine' (ID: 46812), Prob: 0.0021
+Token: ' Express' (ID: 17399), Prob: 0.0020
+Token: ' Mention' (ID: 85148), Prob: 0.0016
+Token: ' Create' (ID: 4230), Prob: 0.0015
+Token: ' Check' (ID: 4248), Prob: 0.0015
+Token: ' Finally' (ID: 17375), Prob: 0.0011
+Token: ' Balance' (ID: 30846), Prob: 0.0011
+Token: ' Structure' (ID: 28596), Prob: 0.0011
+Token: ' Words' (ID: 27630), Prob: 0.0009
+Token: ' Talk' (ID: 18976), Prob: 0.0009
+Token: ' Need' (ID: 14656), Prob: 0.0008
+Token: ' Think' (ID: 21149), Prob: 0.0007
+Token: ' Address' (ID: 9177), Prob: 0.0006
+Token: ' Ask' (ID: 20437), Prob: 0.0006
+Token: ' Try' (ID: 9735), Prob: 0.0006
+Token: ' Wrap' (ID: 42187), Prob: 0.0004
+Token: ' Reference' (ID: 17207), Prob: 0.0004
+Token: ' Explore' (ID: 44052), Prob: 0.0004
+Token: ' Blend' (ID: 54148), Prob: 0.0003
+Token: ' Could' (ID: 16503), Prob: 0.0003
+Token: ' Repeat' (ID: 44801), Prob: 0.0003
+Token: ' Get' (ID: 2126), Prob: 0.0003
+Token: ' Int' (ID: 1333), Prob: 0.0003
+Token: ' Employ' (ID: 20782), Prob: 0.0003
+Token: ' Consider' (ID: 21144), Prob: 0.0003
+Token: ' Pay' (ID: 11471), Prob: 0.0002
+Token: ' Feel' (ID: 31733), Prob: 0.0002
+Token: ' Reflect' (ID: 34598), Prob: 0.0002
+Token: ' Since' (ID: 8704), Prob: 0.0002
+Token: ' Play' (ID: 7054), Prob: 0.0002
+Token: ' Build' (ID: 7854), Prob: 0.0002
+Token: ' Enc' (ID: 10751), Prob: 0.0002
+Token: ' Choose' (ID: 22201), Prob: 0.0002
+Token: ' Practice' (ID: 26984), Prob: 0.0002
+Token: ' Personal' (ID: 19207), Prob: 0.0002
+Token: ' Something' (ID: 24656), Prob: 0.0002
+Token: ' Start' (ID: 5145), Prob: 0.0001
+Token: ' Wait' (ID: 13824), Prob: 0.0001
+Token: ' Lastly' (ID: 70709), Prob: 0.0001
+Token: ' People' (ID: 8853), Prob: 0.0001
+Token: ' Offer' (ID: 24498), Prob: 0.0001
+Token: ' Give' (ID: 20678), Prob: 0.0001
+Token: ' Compare' (ID: 23768), Prob: 0.0001
+Token: ' Provide' (ID: 39565), Prob: 0.0001
+Token: ' Find' (ID: 7379), Prob: 0.0001
+Token: ' Last' (ID: 7996), Prob: 0.0001
+Token: ' Control' (ID: 7779), Prob: 0.0001
+Token: ' Instead' (ID: 12090), Prob: 0.0001
+Token: ' Finish' (ID: 35533), Prob: 0.0001
+Token: ' Discuss' (ID: 65279), Prob: 0.0001
+Token: ' Allow' (ID: 26530), Prob: 0.0001
+Token: ' Showcase' (ID: 87063), Prob: 0.0001
+Token: ' include' (ID: 2924), Prob: 0.0001
+Token: ' Inf' (ID: 14921), Prob: 0.0001
+Token: ' Expand' (ID: 50141), Prob: 0.0001
+Token: ' Stress' (ID: 50468), Prob: 0.0001
+Token: ' Read' (ID: 4457), Prob: 0.0001
+Token: ' Poss' (ID: 41045), Prob: 0.0001
+Token: ' Keywords' (ID: 55695), Prob: 0.0001
 
 == Ranked Concepts (Clusters) ==
-Rank 1 | Concept Score: 0.9805
-  Tokens: [' cry', ' crying', ' cried', ' cries', ' Cry', 'cry']
-Rank 2 | Concept Score: 0.0005
-  Tokens: [' etc', ' baby']
-Rank 3 | Concept Score: 0.0002
-  Tokens: [' try', ' write', ' create', ' ask', ' let', ' make', ' add']
-Rank 4 | Concept Score: 0.0001
-  Tokens: [' love', ' care']
-Rank 5 | Concept Score: 0.0001
-  Tokens: [' scream', ' sigh', ' cough', ' climax']
-Rank 6 | Concept Score: 0.0001
-  Tokens: [' repeat', ' break', ' run']
-Rank 7 | Concept Score: 0.0001
-  Tokens: [' fall', ' lie', ' die', ' tie']
-Rank 8 | Concept Score: 0.0001
-  Tokens: [' wait']
-Rank 9 | Concept Score: 0.0001
-  Tokens: [' please', ' sorry']
-Rank 10 | Concept Score: 0.0001
-  Tokens: [' tears', ' tear']
-Rank 11 | Concept Score: 0.0001
-  Tokens: [' pain', ' sad', ' joy']
-Rank 12 | Concept Score: 0.0000
-  Tokens: [' maybe', ' yeah', ' yes']
-Rank 13 | Concept Score: 0.0000
-  Tokens: [' thank', ' goodbye']
-Rank 14 | Concept Score: 0.0000
-  Tokens: [' cro']
-Rank 15 | Concept Score: 0.0000
-  Tokens: [' sing', ' sleep']
-Rank 16 | Concept Score: 0.0000
-  Tokens: [' end', ' one']
-Rank 17 | Concept Score: 0.0000
-  Tokens: [' catch', ' share']
-Rank 18 | Concept Score: 0.0000
-  Tokens: [' drip', ' dry']
-Rank 19 | Concept Score: 0.0000
-  Tokens: [' cow', ' cheer']
-Rank 20 | Concept Score: 0.0000
-  Tokens: [' feel']
-Rank 21 | Concept Score: 0.0000
-  Tokens: [' count']
-Rank 22 | Concept Score: 0.0000
-  Tokens: [' express']
+Rank 1 | Centroid: ' Use' | Score: 0.3594
+  Tokens: [' Use', ' Need']
+Rank 2 | Centroid: ' Int' | Score: 0.1172
+  Tokens: [' Con', ' Int', ' Enc', ' Inf']
+Rank 3 | Centroid: ' Include' | Score: 0.1060
+  Tokens: [' Include', ' Incorpor', ' include']
+Rank 4 | Centroid: ' Perhaps' | Score: 0.0996
+  Tokens: [' Maybe', ' Perhaps', ' Could', ' Something']
+Rank 5 | Centroid: ' Keep' | Score: 0.0625
+  Tokens: [' Keep']
+Rank 6 | Centroid: ' Create' | Score: 0.0452
+  Tokens: [' Make', ' Create', ' Get', ' Build', ' Choose', ' Find']
+Rank 7 | Centroid: ' End' | Score: 0.0432
+  Tokens: [' End', ' Start']
+Rank 8 | Centroid: ' Avoid' | Score: 0.0378
+  Tokens: [' Avoid', ' Allow']
+Rank 9 | Centroid: ' Add' | Score: 0.0295
+  Tokens: [' Add']
+Rank 10 | Centroid: ' Since' | Score: 0.0173
+  Tokens: [' Also', ' Let', ' Since', ' Instead']
+Rank 11 | Centroid: ' Highlight' | Score: 0.0139
+  Tokens: [' Highlight', ' Mention']
+Rank 12 | Centroid: ' Words' | Score: 0.0105
+  Tokens: [' Focus', ' Words', ' Address', ' Reference', ' Keywords']
+Rank 13 | Centroid: ' Connect' | Score: 0.0048
+  Tokens: [' Connect', ' Express', ' Reflect']
+Rank 14 | Centroid: ' Give' | Score: 0.0048
+  Tokens: [' Show', ' Give', ' Provide']
+Rank 15 | Centroid: ' Ensure' | Score: 0.0045
+  Tokens: [' Ensure']
+Rank 16 | Centroid: ' Describe' | Score: 0.0038
+  Tokens: [' Describe', ' Explore', ' Compare', ' Discuss', ' Showcase']
+Rank 17 | Centroid: ' Blend' | Score: 0.0036
+  Tokens: [' Combine', ' Balance', ' Blend']
+Rank 18 | Centroid: ' Ask' | Score: 0.0027
+  Tokens: [' Check', ' Ask', ' Try', ' Read']
+Rank 19 | Centroid: ' Lastly' | Score: 0.0014
+  Tokens: [' Finally', ' Lastly', ' Last']
+Rank 20 | Centroid: ' Control' | Score: 0.0014
+  Tokens: [' Structure', ' Practice', ' Control']
+Rank 21 | Centroid: ' Talk' | Score: 0.0009
+  Tokens: [' Talk']
+Rank 22 | Centroid: ' Expand' | Score: 0.0008
+  Tokens: [' Wrap', ' Repeat', ' Expand']
+Rank 23 | Centroid: ' Think' | Score: 0.0007
+  Tokens: [' Think']
+Rank 24 | Centroid: ' Offer' | Score: 0.0005
+  Tokens: [' Employ', ' Offer', ' Poss']
+Rank 25 | Centroid: ' Pay' | Score: 0.0004
+  Tokens: [' Pay', ' Play']
+Rank 26 | Centroid: ' Feel' | Score: 0.0004
+  Tokens: [' Feel', ' Wait']
+Rank 27 | Centroid: ' Personal' | Score: 0.0003
+  Tokens: [' Personal', ' People']
+Rank 28 | Centroid: ' Consider' | Score: 0.0003
+  Tokens: [' Consider']
+Rank 29 | Centroid: ' Finish' | Score: 0.0001
+  Tokens: [' Finish']
+Rank 30 | Centroid: ' Stress' | Score: 0.0001
+  Tokens: [' Stress']
 
-**Chosen Concept:** Rank 1 with score 0.9805
+**Chosen Concept:** Rank 1

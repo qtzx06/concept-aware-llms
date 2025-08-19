@@ -11,6 +11,7 @@ from concept_qwen_utilities import (
     get_candidate_embeddings,
     cluster_embeddings,
     visualize_clusters,
+    find_centroid_token,
     GRAMMAR_CRITICAL_TOKENS
 )
 
@@ -58,23 +59,32 @@ class ConceptDecoder:
                 f.write("== Filtered Candidates ==\n")
                 for tid, prob in zip(filtered_ids, filtered_probs):
                     f.write(f"Token: '{self.tokenizer.decode(tid)}' (ID: {tid.item()}), Prob: {prob.item():.4f}\n")
+
                 f.write("\n== Ranked Concepts (Clusters) ==\n")
                 for i, (prob, concept_tokens) in enumerate(ranked_concepts):
-                    f.write(f"Rank {i+1} | Concept Score: {prob:.4f}\n")
+                    cluster_mask = torch.from_numpy(np.isin(filtered_ids.cpu(), concept_tokens.cpu())).to(self.device)
+                    cluster_embeds = embeddings[cluster_mask]
+                    centroid_token = find_centroid_token(cluster_embeds, concept_tokens, self.tokenizer)
+                    
+                    f.write(f"Rank {i+1} | Centroid: '{centroid_token}' | Score: {prob:.4f}\n")
                     f.write(f"  Tokens: {[self.tokenizer.decode(t) for t in concept_tokens]}\n")
-                f.write(f"\n**Chosen Concept:** Rank {chosen_concept_rank} with score {ranked_concepts[chosen_concept_rank-1][0]:.4f}\n")
+                
+                f.write(f"\n**Chosen Concept:** Rank {chosen_concept_rank}\n")
 
     def _get_next_token_dist(self, logits):
         k = self.config.get('top_k', 100)
         top_k_ids, top_k_probs = get_top_k_candidates(logits, k)
         
+        # "Grammar First" Hybrid Approach:
+        # Check if the top candidate is a critical grammar token.
         top_token_str = self.tokenizer.decode(top_k_ids[0], skip_special_tokens=True).strip()
         if top_token_str in GRAMMAR_CRITICAL_TOKENS:
-            return top_k_ids[0]
+            return top_k_ids[0] # If so, use it directly and skip clustering.
 
+        # If not grammar, proceed with concept clustering as before.
         filtered_ids, filtered_probs = filter_candidates(top_k_ids, top_k_probs, self.tokenizer)
         if filtered_ids.nelement() == 0:
-            return top_k_ids[0]
+            return top_k_ids[0] # Fallback to top token if filter is too aggressive
 
         embeddings = get_candidate_embeddings(self.model, filtered_ids)
         

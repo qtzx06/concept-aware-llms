@@ -1,80 +1,122 @@
 --- Step 34 Log ---
 
 == Filtered Candidates ==
-Token: ' directly' (ID: 5961), Prob: 0.0256
-Token: ' either' (ID: 2987), Prob: 0.0074
-Token: ' exactly' (ID: 6896), Prob: 0.0074
-Token: ' without' (ID: 2041), Prob: 0.0061
-Token: ' within' (ID: 2878), Prob: 0.0057
-Token: ' first' (ID: 1156), Prob: 0.0051
-Token: ' based' (ID: 3118), Prob: 0.0051
-Token: ' using' (ID: 1667), Prob: 0.0045
-Token: ' according' (ID: 4092), Prob: 0.0045
-Token: ' immediately' (ID: 7069), Prob: 0.0045
-Token: ' via' (ID: 4566), Prob: 0.0029
-Token: ' regardless' (ID: 15484), Prob: 0.0027
-Token: ' every' (ID: 1449), Prob: 0.0022
-Token: ' prior' (ID: 4867), Prob: 0.0019
-Token: ' simultaneously' (ID: 24303), Prob: 0.0016
-Token: ' even' (ID: 1496), Prob: 0.0015
-Token: ' twice' (ID: 10917), Prob: 0.0015
-Token: ' three' (ID: 2326), Prob: 0.0014
-Token: ' one' (ID: 825), Prob: 0.0014
-Token: ' located' (ID: 7407), Prob: 0.0012
-Token: ' whenever' (ID: 15356), Prob: 0.0012
-Token: ' time' (ID: 882), Prob: 0.0010
-Token: ' two' (ID: 1378), Prob: 0.0010
-Token: ' earlier' (ID: 6788), Prob: 0.0008
-Token: ' ahead' (ID: 8305), Prob: 0.0007
-Token: ' depending' (ID: 11649), Prob: 0.0005
-Token: ' instead' (ID: 4518), Prob: 0.0005
-Token: ' right' (ID: 1290), Prob: 0.0004
-Token: ' across' (ID: 3941), Prob: 0.0004
-Token: ' behind' (ID: 4815), Prob: 0.0004
-Token: ' straight' (ID: 7678), Prob: 0.0004
-Token: ' starting' (ID: 5916), Prob: 0.0004
-Token: ' unless' (ID: 7241), Prob: 0.0004
-Token: ' somewhere' (ID: 14696), Prob: 0.0004
-Token: ' five' (ID: 4236), Prob: 0.0004
-Token: ' faster' (ID: 10596), Prob: 0.0003
-Token: ' strictly' (ID: 25470), Prob: 0.0003
-Token: ' whether' (ID: 3425), Prob: 0.0003
-Token: ' due' (ID: 4152), Prob: 0.0003
-Token: ' given' (ID: 2661), Prob: 0.0003
-Token: ' near' (ID: 3143), Prob: 0.0003
+Token: ' make' (ID: 1281), Prob: 0.6797
+Token: ' likely' (ID: 4363), Prob: 0.0205
+Token: ' logically' (ID: 73045), Prob: 0.0110
+Token: ' generally' (ID: 8789), Prob: 0.0052
+Token: ' seem' (ID: 2803), Prob: 0.0046
+Token: ' probably' (ID: 4658), Prob: 0.0036
+Token: ' definitely' (ID: 8491), Prob: 0.0028
+Token: ' work' (ID: 975), Prob: 0.0023
+Token: ' include' (ID: 2924), Prob: 0.0023
+Token: ' typically' (ID: 11136), Prob: 0.0023
+Token: ' need' (ID: 1184), Prob: 0.0019
+Token: ' still' (ID: 2058), Prob: 0.0014
+Token: ' mean' (ID: 3076), Prob: 0.0010
+Token: ' appear' (ID: 4994), Prob: 0.0009
+Token: ' clearly' (ID: 9355), Prob: 0.0009
+Token: ' follow' (ID: 1795), Prob: 0.0008
+Token: ' imply' (ID: 33508), Prob: 0.0007
+Token: ' fit' (ID: 4946), Prob: 0.0007
+Token: ' hold' (ID: 3331), Prob: 0.0007
+Token: ' usually' (ID: 5990), Prob: 0.0007
+Token: ' certainly' (ID: 7838), Prob: 0.0006
+Token: ' correctly' (ID: 12440), Prob: 0.0006
+Token: ' require' (ID: 1373), Prob: 0.0005
+Token: ' support' (ID: 1824), Prob: 0.0004
+Token: ' presumably' (ID: 35448), Prob: 0.0004
+Token: ' read' (ID: 1349), Prob: 0.0004
+Token: ' contain' (ID: 6644), Prob: 0.0004
+Token: ' actually' (ID: 3520), Prob: 0.0004
+Token: ' describe' (ID: 7512), Prob: 0.0004
+Token: ' indeed' (ID: 12824), Prob: 0.0004
+Token: ' normally' (ID: 14279), Prob: 0.0004
+Token: ' mostly' (ID: 10008), Prob: 0.0003
+Token: ' involve' (ID: 21058), Prob: 0.0003
+Token: ' reasonably' (ID: 28446), Prob: 0.0003
+Token: ' also' (ID: 1083), Prob: 0.0003
+Token: ' look' (ID: 1401), Prob: 0.0002
+Token: ' either' (ID: 2987), Prob: 0.0002
+Token: ' agree' (ID: 7503), Prob: 0.0002
+Token: ' take' (ID: 1896), Prob: 0.0002
+Token: ' relate' (ID: 28143), Prob: 0.0002
+Token: ' align' (ID: 5285), Prob: 0.0002
+Token: ' sense' (ID: 5530), Prob: 0.0002
+Token: ' explain' (ID: 10339), Prob: 0.0002
+Token: ' depend' (ID: 6761), Prob: 0.0002
+Token: ' apply' (ID: 3796), Prob: 0.0002
+Token: ' feel' (ID: 2666), Prob: 0.0001
+Token: ' commonly' (ID: 16626), Prob: 0.0001
+Token: ' convey' (ID: 20001), Prob: 0.0001
+Token: ' satisfy' (ID: 26553), Prob: 0.0001
+Token: ' necessarily' (ID: 14312), Prob: 0.0001
+Token: ' suggest' (ID: 4190), Prob: 0.0001
+Token: ' possibly' (ID: 10767), Prob: 0.0001
+Token: ' making' (ID: 3259), Prob: 0.0001
+Token: ' indicate' (ID: 13216), Prob: 0.0001
+Token: ' makes' (ID: 3643), Prob: 0.0001
+Token: ' benefit' (ID: 8760), Prob: 0.0001
+Token: ' best' (ID: 1850), Prob: 0.0001
+Token: ' match' (ID: 2432), Prob: 0.0001
+Token: ' provide' (ID: 3410), Prob: 0.0001
+Token: ' flow' (ID: 6396), Prob: 0.0001
+Token: ' find' (ID: 1477), Prob: 0.0001
+Token: ' successfully' (ID: 7790), Prob: 0.0001
+Token: ' properly' (ID: 10277), Prob: 0.0001
+Token: ' use' (ID: 990), Prob: 0.0001
+Token: ' correspond' (ID: 7866), Prob: 0.0001
+Token: ' naturally' (ID: 17712), Prob: 0.0001
+Token: ' accurately' (ID: 29257), Prob: 0.0001
+Token: ' technically' (ID: 31554), Prob: 0.0001
+Token: ' sound' (ID: 5112), Prob: 0.0001
+Token: ' refer' (ID: 8300), Prob: 0.0001
+Token: ' say' (ID: 1977), Prob: 0.0001
+Token: ' therefore' (ID: 8916), Prob: 0.0001
+Token: ' appropriately' (ID: 34901), Prob: 0.0001
+Token: ' receive' (ID: 5258), Prob: 0.0001
+Token: ' reflect' (ID: 8708), Prob: 0.0001
+Token: ' effectively' (ID: 13444), Prob: 0.0001
+Token: ' check' (ID: 1779), Prob: 0.0001
+Token: ' directly' (ID: 5961), Prob: 0.0001
+Token: ' consistently' (ID: 20699), Prob: 0.0001
+Token: ' evaluate' (ID: 15442), Prob: 0.0001
+Token: ' create' (ID: 1855), Prob: 0.0001
+Token: ' proceed' (ID: 10354), Prob: 0.0001
+Token: ' made' (ID: 1865), Prob: 0.0001
+Token: ' stand' (ID: 2498), Prob: 0.0001
+Token: ' meet' (ID: 3367), Prob: 0.0001
 
 == Ranked Concepts (Clusters) ==
-Rank 1 | Concept Score: 0.0396
-  Tokens: [' directly', ' exactly', ' immediately', ' simultaneously', ' strictly']
-Rank 2 | Concept Score: 0.0103
-  Tokens: [' based', ' according', ' depending', ' given']
-Rank 3 | Concept Score: 0.0084
-  Tokens: [' first', ' prior', ' earlier', ' starting', ' faster']
-Rank 4 | Concept Score: 0.0077
-  Tokens: [' either', ' whether']
-Rank 5 | Concept Score: 0.0077
-  Tokens: [' using', ' via', ' due']
-Rank 6 | Concept Score: 0.0066
-  Tokens: [' without', ' instead']
-Rank 7 | Concept Score: 0.0062
-  Tokens: [' within', ' across']
-Rank 8 | Concept Score: 0.0042
-  Tokens: [' three', ' one', ' two', ' five']
-Rank 9 | Concept Score: 0.0034
-  Tokens: [' every', ' whenever']
-Rank 10 | Concept Score: 0.0031
-  Tokens: [' regardless', ' unless']
-Rank 11 | Concept Score: 0.0016
-  Tokens: [' located', ' somewhere']
-Rank 12 | Concept Score: 0.0015
-  Tokens: [' even']
-Rank 13 | Concept Score: 0.0015
-  Tokens: [' twice']
-Rank 14 | Concept Score: 0.0013
-  Tokens: [' time', ' near']
-Rank 15 | Concept Score: 0.0011
-  Tokens: [' ahead', ' behind']
-Rank 16 | Concept Score: 0.0009
-  Tokens: [' right', ' straight']
+Rank 1 | Centroid: ' make' | Score: 0.6797
+  Tokens: [' make', ' making', ' makes', ' made']
+Rank 2 | Centroid: ' probably' | Score: 0.0249
+  Tokens: [' likely', ' probably', ' presumably', ' either', ' possibly']
+Rank 3 | Centroid: ' properly' | Score: 0.0135
+  Tokens: [' logically', ' clearly', ' correctly', ' reasonably', ' successfully', ' properly', ' naturally', ' accurately', ' technically', ' appropriately', ' effectively', ' directly', ' consistently']
+Rank 4 | Centroid: ' typically' | Score: 0.0090
+  Tokens: [' generally', ' typically', ' usually', ' normally', ' mostly', ' commonly']
+Rank 5 | Centroid: ' certainly' | Score: 0.0060
+  Tokens: [' definitely', ' still', ' certainly', ' actually', ' indeed', ' also', ' necessarily', ' therefore']
+Rank 6 | Centroid: ' seem' | Score: 0.0059
+  Tokens: [' seem', ' appear', ' sense', ' feel', ' sound']
+Rank 7 | Centroid: ' use' | Score: 0.0048
+  Tokens: [' work', ' need', ' support', ' benefit', ' use']
+Rank 8 | Centroid: ' provide' | Score: 0.0040
+  Tokens: [' include', ' require', ' contain', ' involve', ' apply', ' provide', ' receive', ' evaluate', ' create', ' proceed']
+Rank 9 | Centroid: ' find' | Score: 0.0026
+  Tokens: [' follow', ' hold', ' read', ' look', ' take', ' flow', ' find', ' check', ' stand']
+Rank 10 | Centroid: ' indicate' | Score: 0.0017
+  Tokens: [' imply', ' describe', ' explain', ' convey', ' suggest', ' indicate']
+Rank 11 | Centroid: ' mean' | Score: 0.0010
+  Tokens: [' mean', ' say']
+Rank 12 | Centroid: ' match' | Score: 0.0010
+  Tokens: [' fit', ' align', ' match']
+Rank 13 | Centroid: ' satisfy' | Score: 0.0007
+  Tokens: [' agree', ' relate', ' satisfy', ' correspond', ' reflect', ' meet']
+Rank 14 | Centroid: ' depend' | Score: 0.0003
+  Tokens: [' depend', ' refer']
+Rank 15 | Centroid: ' best' | Score: 0.0001
+  Tokens: [' best']
 
-**Chosen Concept:** Rank 1 with score 0.0396
+**Chosen Concept:** Rank 1

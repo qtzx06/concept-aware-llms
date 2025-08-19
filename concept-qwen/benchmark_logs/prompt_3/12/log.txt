@@ -1,0 +1,112 @@
+--- Step 12 Log ---
+
+== Filtered Candidates ==
+Token: ' child' (ID: 1682), Prob: 0.4629
+Token: ' children' (ID: 2841), Prob: 0.0062
+Token: ' family' (ID: 2997), Prob: 0.0055
+Token: ' parents' (ID: 6562), Prob: 0.0038
+Token: ' parent' (ID: 2681), Prob: 0.0035
+Token: ' baby' (ID: 8770), Prob: 0.0027
+Token: ' kid' (ID: 10369), Prob: 0.0027
+Token: ' young' (ID: 3908), Prob: 0.0019
+Token: ' youth' (ID: 12537), Prob: 0.0019
+Token: ' one' (ID: 825), Prob: 0.0018
+Token: ' kids' (ID: 6837), Prob: 0.0018
+Token: ' mother' (ID: 6554), Prob: 0.0016
+Token: ' future' (ID: 3853), Prob: 0.0009
+Token: ' adult' (ID: 6683), Prob: 0.0009
+Token: ' another' (ID: 2441), Prob: 0.0009
+Token: ' girl' (ID: 3743), Prob: 0.0009
+Token: ' father' (ID: 6981), Prob: 0.0007
+Token: ' care' (ID: 2453), Prob: 0.0007
+Token: ' someone' (ID: 4325), Prob: 0.0006
+Token: ' boy' (ID: 8171), Prob: 0.0006
+Token: ' daughter' (ID: 9803), Prob: 0.0006
+Token: ' infant' (ID: 30283), Prob: 0.0005
+Token: ' Child' (ID: 9391), Prob: 0.0005
+Token: ' little' (ID: 2632), Prob: 0.0004
+Token: ' son' (ID: 4438), Prob: 0.0004
+Token: ' others' (ID: 3800), Prob: 0.0004
+Token: ' teen' (ID: 9378), Prob: 0.0003
+Token: ' dad' (ID: 17760), Prob: 0.0003
+Token: ' sibling' (ID: 44223), Prob: 0.0003
+Token: ' toddler' (ID: 51235), Prob: 0.0003
+Token: ' home' (ID: 2114), Prob: 0.0003
+Token: ' old' (ID: 2310), Prob: 0.0003
+Token: ' small' (ID: 2613), Prob: 0.0003
+Token: ' older' (ID: 9014), Prob: 0.0003
+Token: ' teenager' (ID: 31539), Prob: 0.0003
+Token: ' money' (ID: 3220), Prob: 0.0003
+Token: ' childhood' (ID: 19990), Prob: 0.0003
+Token: ' way' (ID: 1616), Prob: 0.0003
+Token: ' person' (ID: 1697), Prob: 0.0003
+Token: ' education' (ID: 6731), Prob: 0.0003
+Token: ' younger' (ID: 14650), Prob: 0.0003
+Token: ' good' (ID: 1661), Prob: 0.0002
+Token: ' life' (ID: 2272), Prob: 0.0002
+Token: ' school' (ID: 2906), Prob: 0.0002
+Token: ' grandparents' (ID: 55335), Prob: 0.0002
+Token: ' grow' (ID: 3063), Prob: 0.0002
+Token: ' something' (ID: 2494), Prob: 0.0002
+Token: ' mom' (ID: 3368), Prob: 0.0002
+Token: ' friend' (ID: 4238), Prob: 0.0002
+Token: ' student' (ID: 5458), Prob: 0.0002
+Token: ' hand' (ID: 1424), Prob: 0.0002
+Token: ' brother' (ID: 10641), Prob: 0.0002
+Token: ' siblings' (ID: 36683), Prob: 0.0002
+Token: ' house' (ID: 3753), Prob: 0.0002
+Token: ' spouse' (ID: 30980), Prob: 0.0002
+Token: ' new' (ID: 501), Prob: 0.0001
+Token: ' two' (ID: 1378), Prob: 0.0001
+Token: ' nature' (ID: 6993), Prob: 0.0001
+Token: ' wife' (ID: 7403), Prob: 0.0001
+Token: ' orphan' (ID: 12746), Prob: 0.0001
+Token: ' free' (ID: 1910), Prob: 0.0001
+Token: ' grand' (ID: 6662), Prob: 0.0001
+Token: ' sister' (ID: 12923), Prob: 0.0001
+Token: ' grandchildren' (ID: 49751), Prob: 0.0001
+Token: ' love' (ID: 2948), Prob: 0.0001
+Token: ' elder' (ID: 22130), Prob: 0.0001
+Token: ' time' (ID: 882), Prob: 0.0001
+
+== Ranked Concepts (Clusters) ==
+Rank 1 | Centroid: ' child' | Score: 0.4785
+  Tokens: [' child', ' children', ' baby', ' kid', ' kids', ' infant', ' Child', ' toddler', ' childhood']
+Rank 2 | Centroid: ' father' | Score: 0.0101
+  Tokens: [' parents', ' parent', ' mother', ' father', ' dad', ' mom']
+Rank 3 | Centroid: ' family' | Score: 0.0055
+  Tokens: [' family']
+Rank 4 | Centroid: ' teenager' | Score: 0.0054
+  Tokens: [' young', ' youth', ' adult', ' teen', ' teenager']
+Rank 5 | Centroid: ' two' | Score: 0.0032
+  Tokens: [' one', ' little', ' small', ' good', ' new', ' two', ' free']
+Rank 6 | Centroid: ' someone' | Score: 0.0021
+  Tokens: [' another', ' someone', ' others', ' something']
+Rank 7 | Centroid: ' girl' | Score: 0.0015
+  Tokens: [' girl', ' boy']
+Rank 8 | Centroid: ' money' | Score: 0.0012
+  Tokens: [' money', ' way', ' life', ' nature', ' love', ' time']
+Rank 9 | Centroid: ' older' | Score: 0.0011
+  Tokens: [' old', ' older', ' younger', ' elder']
+Rank 10 | Centroid: ' daughter' | Score: 0.0010
+  Tokens: [' daughter', ' son']
+Rank 11 | Centroid: ' sibling' | Score: 0.0010
+  Tokens: [' sibling', ' friend', ' brother', ' siblings', ' sister']
+Rank 12 | Centroid: ' future' | Score: 0.0009
+  Tokens: [' future']
+Rank 13 | Centroid: ' care' | Score: 0.0009
+  Tokens: [' care', ' grow']
+Rank 14 | Centroid: ' school' | Score: 0.0007
+  Tokens: [' education', ' school', ' student']
+Rank 15 | Centroid: ' house' | Score: 0.0007
+  Tokens: [' home', ' hand', ' house']
+Rank 16 | Centroid: ' grandchildren' | Score: 0.0005
+  Tokens: [' grandparents', ' grand', ' grandchildren']
+Rank 17 | Centroid: ' spouse' | Score: 0.0003
+  Tokens: [' spouse', ' wife']
+Rank 18 | Centroid: ' person' | Score: 0.0003
+  Tokens: [' person']
+Rank 19 | Centroid: ' orphan' | Score: 0.0001
+  Tokens: [' orphan']
+
+**Chosen Concept:** Rank 1

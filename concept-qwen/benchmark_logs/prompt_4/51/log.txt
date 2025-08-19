@@ -1,53 +1,68 @@
 --- Step 51 Log ---
 
 == Filtered Candidates ==
-Token: ' today' (ID: 3351), Prob: 0.9805
-Token: ' Today' (ID: 11201), Prob: 0.0109
-Token: 'today' (ID: 30113), Prob: 0.0004
-Token: '(today' (ID: 75693), Prob: 0.0004
-Token: 'Today' (ID: 15364), Prob: 0.0003
-Token: '.Today' (ID: 72672), Prob: 0.0002
-Token: ' tomorrow' (ID: 16577), Prob: 0.0002
-Token: ' TODAY' (ID: 40262), Prob: 0.0001
-Token: ' tonight' (ID: 17913), Prob: 0.0001
-Token: ' day' (ID: 1899), Prob: 0.0001
-Token: '_today' (ID: 68717), Prob: 0.0001
-Token: ' daily' (ID: 7298), Prob: 0.0000
-Token: ' yesterday' (ID: 13671), Prob: 0.0000
-Token: ' yes' (ID: 9834), Prob: 0.0000
-Token: ' aujourd' (ID: 74704), Prob: 0.0000
-Token: '.today' (ID: 37787), Prob: 0.0000
-Token: ' Tuesday' (ID: 7589), Prob: 0.0000
-Token: ' everyday' (ID: 17778), Prob: 0.0000
-Token: ' currently' (ID: 5023), Prob: 0.0000
-Token: ' days' (ID: 2849), Prob: 0.0000
-Token: ' tod' (ID: 11530), Prob: 0.0000
-Token: ' present' (ID: 3042), Prob: 0.0000
-Token: ' hoy' (ID: 48741), Prob: 0.0000
-Token: ' current' (ID: 1482), Prob: 0.0000
+Token: ' prompt' (ID: 9934), Prob: 0.9609
+Token: ' message' (ID: 1943), Prob: 0.0013
+Token: ' Prompt' (ID: 59501), Prob: 0.0006
+Token: ' prompts' (ID: 50932), Prob: 0.0003
+Token: '(prompt' (ID: 72253), Prob: 0.0002
+Token: 'prompt' (ID: 40581), Prob: 0.0002
+Token: ' question' (ID: 3405), Prob: 0.0001
+Token: ' potential' (ID: 4650), Prob: 0.0000
+Token: ' prompted' (ID: 28646), Prob: 0.0000
+Token: 'Prompt' (ID: 54615), Prob: 0.0000
+Token: ' within' (ID: 2878), Prob: 0.0000
+Token: ' hint' (ID: 13012), Prob: 0.0000
+Token: ' prompting' (ID: 49645), Prob: 0.0000
+Token: ' example' (ID: 3110), Prob: 0.0000
+Token: '_prompt' (ID: 61421), Prob: 0.0000
+Token: ' bold' (ID: 13939), Prob: 0.0000
+Token: ' motif' (ID: 59512), Prob: 0.0000
+Token: ' list' (ID: 1140), Prob: 0.0000
+Token: ' point' (ID: 1459), Prob: 0.0000
+Token: ' prom' (ID: 2706), Prob: 0.0000
+Token: ' keyword' (ID: 16174), Prob: 0.0000
+Token: ' wording' (ID: 60227), Prob: 0.0000
+Token: ' post' (ID: 1736), Prob: 0.0000
+Token: ' theme' (ID: 6912), Prob: 0.0000
+Token: ' promise' (ID: 11222), Prob: 0.0000
+Token: ' format' (ID: 3561), Prob: 0.0000
+Token: ' Please' (ID: 5209), Prob: 0.0000
+Token: ' topic' (ID: 8544), Prob: 0.0000
+Token: '.prompt' (ID: 65399), Prob: 0.0000
 
 == Ranked Concepts (Clusters) ==
-Rank 1 | Concept Score: 0.9922
-  Tokens: [' today', ' Today', 'today', 'Today', ' TODAY']
-Rank 2 | Concept Score: 0.0007
-  Tokens: ['(today', '.Today', '_today', '.today']
-Rank 3 | Concept Score: 0.0003
-  Tokens: [' tomorrow', ' tonight', ' yesterday']
-Rank 4 | Concept Score: 0.0001
-  Tokens: [' day', ' days']
-Rank 5 | Concept Score: 0.0001
-  Tokens: [' daily', ' everyday']
-Rank 6 | Concept Score: 0.0000
-  Tokens: [' aujourd', ' hoy']
-Rank 7 | Concept Score: 0.0000
-  Tokens: [' yes']
-Rank 8 | Concept Score: 0.0000
-  Tokens: [' Tuesday']
-Rank 9 | Concept Score: 0.0000
-  Tokens: [' currently', ' current']
-Rank 10 | Concept Score: 0.0000
-  Tokens: [' tod']
-Rank 11 | Concept Score: 0.0000
-  Tokens: [' present']
+Rank 1 | Centroid: 'Prompt' | Score: 0.9609
+  Tokens: [' prompt', ' Prompt', '(prompt', 'prompt', 'Prompt', '_prompt', '.prompt']
+Rank 2 | Centroid: ' message' | Score: 0.0013
+  Tokens: [' message']
+Rank 3 | Centroid: ' prompts' | Score: 0.0003
+  Tokens: [' prompts', ' prompted', ' prompting']
+Rank 4 | Centroid: ' potential' | Score: 0.0001
+  Tokens: [' potential', ' within']
+Rank 5 | Centroid: ' theme' | Score: 0.0001
+  Tokens: [' motif', ' theme', ' topic']
+Rank 6 | Centroid: ' question' | Score: 0.0001
+  Tokens: [' question']
+Rank 7 | Centroid: ' bold' | Score: 0.0000
+  Tokens: [' bold', ' Please']
+Rank 8 | Centroid: ' prom' | Score: 0.0000
+  Tokens: [' prom', ' promise']
+Rank 9 | Centroid: ' hint' | Score: 0.0000
+  Tokens: [' hint']
+Rank 10 | Centroid: ' example' | Score: 0.0000
+  Tokens: [' example']
+Rank 11 | Centroid: ' list' | Score: 0.0000
+  Tokens: [' list']
+Rank 12 | Centroid: ' point' | Score: 0.0000
+  Tokens: [' point']
+Rank 13 | Centroid: ' wording' | Score: 0.0000
+  Tokens: [' wording']
+Rank 14 | Centroid: ' keyword' | Score: 0.0000
+  Tokens: [' keyword']
+Rank 15 | Centroid: ' post' | Score: 0.0000
+  Tokens: [' post']
+Rank 16 | Centroid: ' format' | Score: 0.0000
+  Tokens: [' format']
 
-**Chosen Concept:** Rank 1 with score 0.9922
+**Chosen Concept:** Rank 1

@@ -1,0 +1,143 @@
+--- Step 12 Log ---
+
+== Filtered Candidates ==
+Token: ' crying' (ID: 30199), Prob: 0.2500
+Token: ' making' (ID: 3259), Prob: 0.0559
+Token: ' sadness' (ID: 50878), Prob: 0.0264
+Token: ' tears' (ID: 23139), Prob: 0.0233
+Token: ' longing' (ID: 78322), Prob: 0.0182
+Token: ' wanting' (ID: 19211), Prob: 0.0125
+Token: ' needing' (ID: 32821), Prob: 0.0110
+Token: ' love' (ID: 2948), Prob: 0.0076
+Token: ' despair' (ID: 45896), Prob: 0.0046
+Token: ' loss' (ID: 4709), Prob: 0.0030
+Token: ' pain' (ID: 6646), Prob: 0.0028
+Token: ' sorrow' (ID: 57496), Prob: 0.0026
+Token: ' grief' (ID: 37284), Prob: 0.0023
+Token: ' overwhelming' (ID: 22024), Prob: 0.0018
+Token: ' loneliness' (ID: 73940), Prob: 0.0016
+Token: ' loving' (ID: 21258), Prob: 0.0013
+Token: ' emotional' (ID: 14269), Prob: 0.0010
+Token: ' desire' (ID: 12591), Prob: 0.0010
+Token: ' deep' (ID: 5538), Prob: 0.0008
+Token: ' joy' (ID: 15888), Prob: 0.0008
+Token: ' intense' (ID: 18894), Prob: 0.0007
+Token: ' desperation' (ID: 73324), Prob: 0.0007
+Token: ' losing' (ID: 13188), Prob: 0.0006
+Token: ' affection' (ID: 36705), Prob: 0.0006
+Token: ' feeling' (ID: 8266), Prob: 0.0006
+Token: ' happiness' (ID: 23009), Prob: 0.0006
+Token: ' getting' (ID: 3709), Prob: 0.0005
+Token: ' need' (ID: 1184), Prob: 0.0005
+Token: ' help' (ID: 1492), Prob: 0.0004
+Token: ' cry' (ID: 15729), Prob: 0.0004
+Token: ' vulnerability' (ID: 33004), Prob: 0.0004
+Token: ' sympathy' (ID: 45984), Prob: 0.0004
+Token: ' want' (ID: 1366), Prob: 0.0004
+Token: ' emotion' (ID: 19772), Prob: 0.0004
+Token: ' anger' (ID: 19234), Prob: 0.0003
+Token: ' weakness' (ID: 23078), Prob: 0.0003
+Token: ' expressing' (ID: 36710), Prob: 0.0003
+Token: ' misery' (ID: 57601), Prob: 0.0003
+Token: ' frustration' (ID: 31986), Prob: 0.0002
+Token: ' inability' (ID: 37450), Prob: 0.0002
+Token: ' admiration' (ID: 65839), Prob: 0.0002
+Token: ' ecstasy' (ID: 92563), Prob: 0.0002
+Token: ' something' (ID: 2494), Prob: 0.0002
+Token: ' missing' (ID: 7402), Prob: 0.0002
+Token: ' sob' (ID: 11493), Prob: 0.0002
+Token: ' letting' (ID: 20194), Prob: 0.0002
+Token: ' self' (ID: 656), Prob: 0.0002
+Token: ' make' (ID: 1281), Prob: 0.0002
+Token: ' strong' (ID: 3746), Prob: 0.0002
+Token: ' anguish' (ID: 94922), Prob: 0.0002
+Token: ' complete' (ID: 4583), Prob: 0.0002
+Token: ' becoming' (ID: 10454), Prob: 0.0002
+Token: ' regret' (ID: 22231), Prob: 0.0002
+Token: ' agony' (ID: 78830), Prob: 0.0002
+Token: ' nostalgia' (ID: 64775), Prob: 0.0002
+Token: ' tear' (ID: 17576), Prob: 0.0002
+Token: ' eup' (ID: 63943), Prob: 0.0002
+Token: ' overwhelm' (ID: 95748), Prob: 0.0002
+Token: ' pure' (ID: 10526), Prob: 0.0002
+Token: ' empathy' (ID: 47351), Prob: 0.0002
+Token: ' dependency' (ID: 24036), Prob: 0.0001
+Token: ' mourning' (ID: 75250), Prob: 0.0001
+Token: ' trembling' (ID: 91988), Prob: 0.0001
+Token: ' profound' (ID: 27155), Prob: 0.0001
+Token: ' excitement' (ID: 27262), Prob: 0.0001
+Token: ' personal' (ID: 4345), Prob: 0.0001
+Token: ' suff' (ID: 8489), Prob: 0.0001
+Token: ' suffering' (ID: 15691), Prob: 0.0001
+Token: ' distress' (ID: 34004), Prob: 0.0001
+Token: ' melanch' (ID: 86063), Prob: 0.0001
+Token: ' extreme' (ID: 14226), Prob: 0.0001
+Token: ' devastation' (ID: 81915), Prob: 0.0001
+Token: ' emotions' (ID: 21261), Prob: 0.0001
+Token: ' touching' (ID: 30587), Prob: 0.0001
+Token: ' tearing' (ID: 55736), Prob: 0.0001
+Token: ' overpower' (ID: 97787), Prob: 0.0001
+Token: ' abuse' (ID: 11480), Prob: 0.0001
+Token: ' shame' (ID: 20973), Prob: 0.0001
+Token: ' disappointment' (ID: 40598), Prob: 0.0001
+Token: ' betrayal' (ID: 67276), Prob: 0.0001
+Token: ' jealousy' (ID: 79722), Prob: 0.0001
+Token: ' breaking' (ID: 14719), Prob: 0.0001
+Token: ' depression' (ID: 18210), Prob: 0.0001
+Token: ' attachment' (ID: 19984), Prob: 0.0001
+Token: ' addiction' (ID: 26373), Prob: 0.0001
+Token: ' dependence' (ID: 43293), Prob: 0.0001
+
+== Ranked Concepts (Clusters) ==
+Rank 1 | Centroid: ' crying' | Score: 0.2500
+  Tokens: [' crying', ' cry', ' trembling']
+Rank 2 | Centroid: ' make' | Score: 0.0569
+  Tokens: [' making', ' help', ' something', ' make', ' suff']
+Rank 3 | Centroid: ' sorrow' | Score: 0.0315
+  Tokens: [' sadness', ' sorrow', ' grief', ' mourning', ' melanch']
+Rank 4 | Centroid: ' want' | Score: 0.0253
+  Tokens: [' wanting', ' needing', ' desire', ' need', ' want']
+Rank 5 | Centroid: ' tear' | Score: 0.0238
+  Tokens: [' tears', ' sob', ' tear', ' tearing']
+Rank 6 | Centroid: ' longing' | Score: 0.0182
+  Tokens: [' longing']
+Rank 7 | Centroid: ' love' | Score: 0.0089
+  Tokens: [' love', ' loving']
+Rank 8 | Centroid: ' anguish' | Score: 0.0082
+  Tokens: [' despair', ' loneliness', ' desperation', ' misery', ' frustration', ' ecstasy', ' anguish', ' agony', ' devastation', ' disappointment']
+Rank 9 | Centroid: ' losing' | Score: 0.0038
+  Tokens: [' loss', ' losing', ' missing']
+Rank 10 | Centroid: ' pain' | Score: 0.0029
+  Tokens: [' pain', ' distress']
+Rank 11 | Centroid: ' profound' | Score: 0.0024
+  Tokens: [' deep', ' intense', ' strong', ' complete', ' pure', ' profound', ' extreme']
+Rank 12 | Centroid: ' emotions' | Score: 0.0023
+  Tokens: [' emotional', ' feeling', ' emotion', ' anger', ' emotions']
+Rank 13 | Centroid: ' overwhelming' | Score: 0.0021
+  Tokens: [' overwhelming', ' overwhelm', ' overpower']
+Rank 14 | Centroid: ' admiration' | Score: 0.0017
+  Tokens: [' affection', ' sympathy', ' admiration', ' nostalgia', ' empathy', ' jealousy']
+Rank 15 | Centroid: ' joy' | Score: 0.0014
+  Tokens: [' joy', ' happiness']
+Rank 16 | Centroid: ' getting' | Score: 0.0014
+  Tokens: [' getting', ' expressing', ' letting', ' becoming', ' touching', ' breaking']
+Rank 17 | Centroid: ' dependency' | Score: 0.0008
+  Tokens: [' vulnerability', ' dependency', ' depression', ' addiction', ' dependence']
+Rank 18 | Centroid: ' weakness' | Score: 0.0005
+  Tokens: [' weakness', ' inability']
+Rank 19 | Centroid: ' self' | Score: 0.0003
+  Tokens: [' self', ' personal']
+Rank 20 | Centroid: ' eup' | Score: 0.0003
+  Tokens: [' eup', ' excitement']
+Rank 21 | Centroid: ' regret' | Score: 0.0003
+  Tokens: [' regret', ' shame']
+Rank 22 | Centroid: ' suffering' | Score: 0.0001
+  Tokens: [' suffering']
+Rank 23 | Centroid: ' abuse' | Score: 0.0001
+  Tokens: [' abuse']
+Rank 24 | Centroid: ' betrayal' | Score: 0.0001
+  Tokens: [' betrayal']
+Rank 25 | Centroid: ' attachment' | Score: 0.0001
+  Tokens: [' attachment']
+
+**Chosen Concept:** Rank 1

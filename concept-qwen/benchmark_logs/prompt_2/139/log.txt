@@ -1,0 +1,77 @@
+--- Step 139 Log ---
+
+== Filtered Candidates ==
+Token: ' like' (ID: 1075), Prob: 1.0000
+Token: ' else' (ID: 770), Prob: 0.0001
+Token: ' yes' (ID: 9834), Prob: 0.0000
+Token: ' Like' (ID: 8909), Prob: 0.0000
+Token: ' similar' (ID: 4428), Prob: 0.0000
+Token: 'like' (ID: 4803), Prob: 0.0000
+Token: ' elif' (ID: 4409), Prob: 0.0000
+Token: ' LIKE' (ID: 20529), Prob: 0.0000
+Token: ' list' (ID: 1140), Prob: 0.0000
+Token: '_like' (ID: 25535), Prob: 0.0000
+Token: '-like' (ID: 12681), Prob: 0.0000
+Token: '.like' (ID: 66318), Prob: 0.0000
+Token: ' likes' (ID: 13151), Prob: 0.0000
+Token: ' maybe' (ID: 7196), Prob: 0.0000
+Token: 'Like' (ID: 12949), Prob: 0.0000
+Token: ' around' (ID: 2163), Prob: 0.0000
+Token: ' include' (ID: 2924), Prob: 0.0000
+Token: ' much' (ID: 1753), Prob: 0.0000
+Token: ' since' (ID: 2474), Prob: 0.0000
+Token: ' etc' (ID: 4992), Prob: 0.0000
+Token: ' seperti' (ID: 67720), Prob: 0.0000
+Token: ' including' (ID: 2670), Prob: 0.0000
+Token: ' yeah' (ID: 21639), Prob: 0.0000
+Token: ' limited' (ID: 7199), Prob: 0.0000
+Token: ' related' (ID: 5435), Prob: 0.0000
+Token: ' based' (ID: 3118), Prob: 0.0000
+Token: ' nice' (ID: 6419), Prob: 0.0000
+Token: ' say' (ID: 1977), Prob: 0.0000
+Token: ' possible' (ID: 3204), Prob: 0.0000
+Token: ' quite' (ID: 5008), Prob: 0.0000
+Token: ' last' (ID: 1537), Prob: 0.0000
+Token: ' kind' (ID: 3093), Prob: 0.0000
+Token: ' otherwise' (ID: 5937), Prob: 0.0000
+Token: ' little' (ID: 2632), Prob: 0.0000
+Token: ' important' (ID: 2989), Prob: 0.0000
+Token: ' usually' (ID: 5990), Prob: 0.0000
+Token: ' really' (ID: 2167), Prob: 0.0000
+Token: ' listed' (ID: 10007), Prob: 0.0000
+Token: ' liked' (ID: 14915), Prob: 0.0000
+Token: ' relevant' (ID: 9760), Prob: 0.0000
+Token: ' lists' (ID: 11469), Prob: 0.0000
+Token: ' please' (ID: 4486), Prob: 0.0000
+
+== Ranked Concepts (Clusters) ==
+Rank 1 | Centroid: ' Like' | Score: 1.0000
+  Tokens: [' like', ' Like', 'like', ' LIKE', '_like', '-like', '.like', 'Like', ' seperti']
+Rank 2 | Centroid: ' else' | Score: 0.0001
+  Tokens: [' else', ' elif', ' otherwise']
+Rank 3 | Centroid: ' yes' | Score: 0.0000
+  Tokens: [' yes', ' yeah']
+Rank 4 | Centroid: ' similar' | Score: 0.0000
+  Tokens: [' similar']
+Rank 5 | Centroid: ' list' | Score: 0.0000
+  Tokens: [' list', ' listed', ' lists']
+Rank 6 | Centroid: ' quite' | Score: 0.0000
+  Tokens: [' much', ' nice', ' quite', ' little', ' usually', ' really']
+Rank 7 | Centroid: ' maybe' | Score: 0.0000
+  Tokens: [' maybe', ' possible', ' please']
+Rank 8 | Centroid: ' likes' | Score: 0.0000
+  Tokens: [' likes', ' liked']
+Rank 9 | Centroid: ' include' | Score: 0.0000
+  Tokens: [' include', ' including']
+Rank 10 | Centroid: ' based' | Score: 0.0000
+  Tokens: [' since', ' limited', ' based']
+Rank 11 | Centroid: ' etc' | Score: 0.0000
+  Tokens: [' etc', ' say', ' kind']
+Rank 12 | Centroid: ' around' | Score: 0.0000
+  Tokens: [' around']
+Rank 13 | Centroid: ' relevant' | Score: 0.0000
+  Tokens: [' related', ' important', ' relevant']
+Rank 14 | Centroid: ' last' | Score: 0.0000
+  Tokens: [' last']
+
+**Chosen Concept:** Rank 1

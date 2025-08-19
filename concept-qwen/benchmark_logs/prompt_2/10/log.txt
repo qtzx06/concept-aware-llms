@@ -1,81 +1,79 @@
 --- Step 10 Log ---
 
 == Filtered Candidates ==
-Token: ' due' (ID: 4152), Prob: 0.0156
-Token: ' among' (ID: 4221), Prob: 0.0137
-Token: ' across' (ID: 3941), Prob: 0.0069
-Token: ' within' (ID: 2878), Prob: 0.0065
-Token: ' throughout' (ID: 6814), Prob: 0.0042
-Token: ' via' (ID: 4566), Prob: 0.0039
-Token: ' even' (ID: 1496), Prob: 0.0017
-Token: ' along' (ID: 3156), Prob: 0.0017
-Token: ' without' (ID: 2041), Prob: 0.0015
-Token: ' inside' (ID: 4766), Prob: 0.0015
-Token: ' around' (ID: 2163), Prob: 0.0014
-Token: ' like' (ID: 1075), Prob: 0.0009
-Token: ' according' (ID: 4092), Prob: 0.0009
-Token: ' upon' (ID: 5193), Prob: 0.0008
-Token: ' despite' (ID: 8818), Prob: 0.0007
-Token: ' thanks' (ID: 9339), Prob: 0.0007
-Token: ' enough' (ID: 3322), Prob: 0.0004
-Token: ' though' (ID: 3498), Prob: 0.0003
-Token: ' everywhere' (ID: 16852), Prob: 0.0003
-Token: ' causing' (ID: 14381), Prob: 0.0003
-Token: ' depending' (ID: 11649), Prob: 0.0003
-Token: ' every' (ID: 1449), Prob: 0.0003
-Token: ' amongst' (ID: 23183), Prob: 0.0003
-Token: ' outside' (ID: 4889), Prob: 0.0002
-Token: ' unless' (ID: 7241), Prob: 0.0002
-Token: ' using' (ID: 1667), Prob: 0.0002
-Token: ' since' (ID: 2474), Prob: 0.0002
-Token: ' toward' (ID: 8841), Prob: 0.0002
-Token: ' following' (ID: 2701), Prob: 0.0002
-Token: ' online' (ID: 2860), Prob: 0.0002
-Token: ' near' (ID: 3143), Prob: 0.0002
-Token: ' beyond' (ID: 7797), Prob: 0.0001
-Token: ' spreading' (ID: 30035), Prob: 0.0001
-Token: ' first' (ID: 1156), Prob: 0.0001
-Token: ' soon' (ID: 5135), Prob: 0.0001
-Token: ' initially' (ID: 15102), Prob: 0.0001
-Token: ' towards' (ID: 6974), Prob: 0.0001
-Token: ' spread' (ID: 8865), Prob: 0.0001
+Token: 'Answer' (ID: 16141), Prob: 0.3926
+Token: 'Yes' (ID: 9454), Prob: 0.0874
+Token: 'Question' (ID: 14582), Prob: 0.0771
+Token: 'Based' (ID: 28715), Prob: 0.0152
+Token: 'yes' (ID: 9693), Prob: 0.0034
+Token: 'Word' (ID: 10879), Prob: 0.0021
+Token: 'Okay' (ID: 32313), Prob: 0.0021
+Token: 'Let' (ID: 10061), Prob: 0.0012
+Token: '"The' (ID: 10022), Prob: 0.0010
+Token: 'Title' (ID: 3851), Prob: 0.0009
+Token: 'YES' (ID: 14004), Prob: 0.0008
+Token: 'Would' (ID: 27989), Prob: 0.0007
+Token: 'Dep' (ID: 7839), Prob: 0.0006
+Token: 'Text' (ID: 1178), Prob: 0.0005
+Token: 'ANS' (ID: 11692), Prob: 0.0005
+Token: 'Subject' (ID: 13019), Prob: 0.0005
+Token: 'Whether' (ID: 24700), Prob: 0.0004
+Token: 'Sentence' (ID: 84564), Prob: 0.0004
+Token: 'Sure' (ID: 39814), Prob: 0.0004
+Token: 'Please' (ID: 5501), Prob: 0.0003
+Token: 'Statement' (ID: 8636), Prob: 0.0003
+Token: 'Possible' (ID: 65222), Prob: 0.0003
+Token: 'Available' (ID: 16485), Prob: 0.0003
+Token: 'Alright' (ID: 71486), Prob: 0.0003
+Token: 'Problem' (ID: 31198), Prob: 0.0002
+Token: 'Pass' (ID: 12187), Prob: 0.0002
+Token: 'Questions' (ID: 35249), Prob: 0.0002
+Token: 'QUESTION' (ID: 52428), Prob: 0.0002
+Token: 'word' (ID: 1158), Prob: 0.0002
+Token: 'According' (ID: 11190), Prob: 0.0002
+Token: '"What' (ID: 30337), Prob: 0.0002
+Token: 'Ass' (ID: 5615), Prob: 0.0002
+Token: 'WORD' (ID: 7227), Prob: 0.0002
+Token: 'question' (ID: 7841), Prob: 0.0002
+Token: 'based' (ID: 29939), Prob: 0.0002
+Token: 'World' (ID: 10134), Prob: 0.0001
+Token: 'Unless' (ID: 35587), Prob: 0.0001
+Token: '"Yes' (ID: 57741), Prob: 0.0001
+Token: '"If' (ID: 26708), Prob: 0.0001
+Token: '.Does' (ID: 64027), Prob: 0.0001
+Token: 'First' (ID: 5338), Prob: 0.0001
+Token: 'Thought' (ID: 84169), Prob: 0.0001
+Token: 'Follow' (ID: 12480), Prob: 0.0001
+Token: 'Given' (ID: 22043), Prob: 0.0001
 
 == Ranked Concepts (Clusters) ==
-Rank 1 | Concept Score: 0.0203
-  Tokens: [' due', ' via', ' thanks']
-Rank 2 | Concept Score: 0.0140
-  Tokens: [' among', ' amongst']
-Rank 3 | Concept Score: 0.0100
-  Tokens: [' across', ' along', ' around']
-Rank 4 | Concept Score: 0.0084
-  Tokens: [' within', ' inside', ' outside', ' beyond']
-Rank 5 | Concept Score: 0.0048
-  Tokens: [' throughout', ' everywhere', ' every']
-Rank 6 | Concept Score: 0.0025
-  Tokens: [' even', ' despite']
-Rank 7 | Concept Score: 0.0023
-  Tokens: [' without', ' though', ' unless', ' since']
-Rank 8 | Concept Score: 0.0012
-  Tokens: [' according', ' depending']
-Rank 9 | Concept Score: 0.0009
-  Tokens: [' like']
-Rank 10 | Concept Score: 0.0008
-  Tokens: [' upon']
-Rank 11 | Concept Score: 0.0004
-  Tokens: [' enough']
-Rank 12 | Concept Score: 0.0004
-  Tokens: [' using', ' following']
-Rank 13 | Concept Score: 0.0003
-  Tokens: [' first', ' soon', ' initially']
-Rank 14 | Concept Score: 0.0003
-  Tokens: [' causing']
-Rank 15 | Concept Score: 0.0003
-  Tokens: [' toward', ' towards']
-Rank 16 | Concept Score: 0.0002
-  Tokens: [' spreading', ' spread']
-Rank 17 | Concept Score: 0.0002
-  Tokens: [' online']
-Rank 18 | Concept Score: 0.0002
-  Tokens: [' near']
+Rank 1 | Centroid: 'Answer' | Score: 0.3926
+  Tokens: ['Answer', 'ANS']
+Rank 2 | Centroid: 'Yes' | Score: 0.0918
+  Tokens: ['Yes', 'yes', 'YES', 'Sure']
+Rank 3 | Centroid: 'Question' | Score: 0.0781
+  Tokens: ['Question', 'Problem', 'Questions', 'QUESTION', 'question']
+Rank 4 | Centroid: 'Based' | Score: 0.0156
+  Tokens: ['Based', 'According', 'based']
+Rank 5 | Centroid: 'Word' | Score: 0.0026
+  Tokens: ['Word', 'word', 'WORD', 'World']
+Rank 6 | Centroid: 'Let' | Score: 0.0024
+  Tokens: ['Let', 'Dep', 'Pass', 'Ass', 'First', 'Follow']
+Rank 7 | Centroid: 'Okay' | Score: 0.0023
+  Tokens: ['Okay', 'Alright']
+Rank 8 | Centroid: 'Title' | Score: 0.0019
+  Tokens: ['Title', 'Text', 'Subject']
+Rank 9 | Centroid: '"If' | Score: 0.0015
+  Tokens: ['"The', '"What', '"Yes', '"If']
+Rank 10 | Centroid: 'Would' | Score: 0.0014
+  Tokens: ['Would', 'Whether', 'Unless', '.Does']
+Rank 11 | Centroid: 'Sentence' | Score: 0.0007
+  Tokens: ['Sentence', 'Statement']
+Rank 12 | Centroid: 'Possible' | Score: 0.0006
+  Tokens: ['Possible', 'Available']
+Rank 13 | Centroid: 'Please' | Score: 0.0004
+  Tokens: ['Please', 'Given']
+Rank 14 | Centroid: 'Thought' | Score: 0.0001
+  Tokens: ['Thought']
 
-**Chosen Concept:** Rank 1 with score 0.0203
+**Chosen Concept:** Rank 1

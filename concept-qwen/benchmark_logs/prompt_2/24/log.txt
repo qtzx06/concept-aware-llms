@@ -1,147 +1,83 @@
 --- Step 24 Log ---
 
 == Filtered Candidates ==
-Token: ' soil' (ID: 17171), Prob: 0.3555
-Token: ' atmosphere' (ID: 16566), Prob: 0.3145
-Token: ' environment' (ID: 4573), Prob: 0.0791
-Token: ' surface' (ID: 7329), Prob: 0.0544
-Token: ' ecosystem' (ID: 24982), Prob: 0.0214
-Token: ' habitat' (ID: 38546), Prob: 0.0188
-Token: ' bios' (ID: 48454), Prob: 0.0129
-Token: ' base' (ID: 2331), Prob: 0.0061
-Token: ' crust' (ID: 39612), Prob: 0.0054
-Token: ' colony' (ID: 40936), Prob: 0.0045
-Token: ' terrain' (ID: 24869), Prob: 0.0039
-Token: ' ground' (ID: 4910), Prob: 0.0035
-Token: ' bed' (ID: 4845), Prob: 0.0029
-Token: ' planet' (ID: 11580), Prob: 0.0029
-Token: ' landscape' (ID: 18414), Prob: 0.0027
-Token: ' land' (ID: 4268), Prob: 0.0025
-Token: ' dust' (ID: 15797), Prob: 0.0022
-Token: ' reg' (ID: 1217), Prob: 0.0021
-Token: ' air' (ID: 3720), Prob: 0.0021
-Token: ' orbit' (ID: 26507), Prob: 0.0021
-Token: ' biome' (ID: 83610), Prob: 0.0020
-Token: ' system' (ID: 1849), Prob: 0.0018
-Token: ' moon' (ID: 17788), Prob: 0.0016
-Token: ' colonies' (ID: 47928), Prob: 0.0016
-Token: ' climate' (ID: 9977), Prob: 0.0015
-Token: ' jungle' (ID: 44420), Prob: 0.0015
-Token: ' high' (ID: 1550), Prob: 0.0014
-Token: ' structure' (ID: 5944), Prob: 0.0011
-Token: ' Atmos' (ID: 53828), Prob: 0.0010
-Token: ' field' (ID: 2070), Prob: 0.0009
-Token: ' habitats' (ID: 70599), Prob: 0.0009
-Token: ' gravity' (ID: 23249), Prob: 0.0009
-Token: ' Soil' (ID: 75519), Prob: 0.0009
-Token: ' subs' (ID: 5147), Prob: 0.0008
-Token: ' underground' (ID: 25260), Prob: 0.0008
-Token: ' soils' (ID: 68461), Prob: 0.0008
-Token: ' space' (ID: 3550), Prob: 0.0007
-Token: ' plant' (ID: 6008), Prob: 0.0007
-Token: ' setting' (ID: 6243), Prob: 0.0007
-Token: ' rock' (ID: 6946), Prob: 0.0007
-Token: ' plants' (ID: 10779), Prob: 0.0007
-Token: ' greenhouse' (ID: 36547), Prob: 0.0007
-Token: ' ecosystems' (ID: 60851), Prob: 0.0007
-Token: ' city' (ID: 3283), Prob: 0.0007
-Token: ' Environment' (ID: 11586), Prob: 0.0006
-Token: ' rocks' (ID: 23035), Prob: 0.0006
-Token: ' caves' (ID: 65564), Prob: 0.0006
-Token: ' sky' (ID: 12884), Prob: 0.0006
-Token: ' desert' (ID: 23603), Prob: 0.0006
-Token: ' Dust' (ID: 31993), Prob: 0.0006
-Token: ' cell' (ID: 2779), Prob: 0.0005
-Token: ' skin' (ID: 6787), Prob: 0.0005
-Token: ' sand' (ID: 9278), Prob: 0.0005
-Token: ' atmospheric' (ID: 44375), Prob: 0.0005
-Token: ' plains' (ID: 77366), Prob: 0.0005
-Token: ' flora' (ID: 80988), Prob: 0.0005
-Token: ' red' (ID: 2518), Prob: 0.0005
-Token: ' core' (ID: 6200), Prob: 0.0005
-Token: ' weather' (ID: 9104), Prob: 0.0005
-Token: ' atmos' (ID: 13720), Prob: 0.0005
-Token: ' Desert' (ID: 42186), Prob: 0.0005
-Token: ' black' (ID: 3691), Prob: 0.0004
-Token: ' des' (ID: 939), Prob: 0.0004
-Token: ' Mars' (ID: 21048), Prob: 0.0004
-Token: ' crystal' (ID: 25055), Prob: 0.0004
-Token: ' house' (ID: 3753), Prob: 0.0003
-Token: ' green' (ID: 6176), Prob: 0.0003
-Token: ' clouds' (ID: 29514), Prob: 0.0003
-Token: ' hollow' (ID: 41802), Prob: 0.0003
-Token: ' structures' (ID: 14389), Prob: 0.0003
-Token: ' rot' (ID: 5749), Prob: 0.0003
-Token: ' mining' (ID: 11673), Prob: 0.0003
-Token: ' walls' (ID: 14285), Prob: 0.0003
-Token: ' rings' (ID: 24544), Prob: 0.0003
-Token: ' surfaces' (ID: 26431), Prob: 0.0003
-Token: ' settlement' (ID: 17079), Prob: 0.0003
-Token: ' environments' (ID: 21737), Prob: 0.0003
-Token: ' envi' (ID: 49264), Prob: 0.0003
-Token: ' home' (ID: 2114), Prob: 0.0002
-Token: ' hus' (ID: 9045), Prob: 0.0002
-Token: ' homes' (ID: 10415), Prob: 0.0002
-Token: ' shell' (ID: 12528), Prob: 0.0002
-Token: ' forest' (ID: 13638), Prob: 0.0002
-Token: ' cave' (ID: 25385), Prob: 0.0002
-Token: ' terra' (ID: 59561), Prob: 0.0002
-Token: ' fields' (ID: 5043), Prob: 0.0002
+Token: ' yes' (ID: 9834), Prob: 0.0317
+Token: ' maybe' (ID: 7196), Prob: 0.0041
+Token: ' something' (ID: 2494), Prob: 0.0020
+Token: ' negative' (ID: 8225), Prob: 0.0010
+Token: ' nothing' (ID: 4302), Prob: 0.0007
+Token: ' none' (ID: 6857), Prob: 0.0003
+Token: ' etc' (ID: 4992), Prob: 0.0003
+Token: ' perhaps' (ID: 8365), Prob: 0.0003
+Token: ' unknown' (ID: 9788), Prob: 0.0003
+Token: ' neither' (ID: 13866), Prob: 0.0002
+Token: ' answer' (ID: 4226), Prob: 0.0002
+Token: ' either' (ID: 2987), Prob: 0.0002
+Token: ' possible' (ID: 3204), Prob: 0.0002
+Token: ' definitely' (ID: 8491), Prob: 0.0002
+Token: ' false' (ID: 895), Prob: 0.0002
+Token: ' also' (ID: 1083), Prob: 0.0002
+Token: ' based' (ID: 3118), Prob: 0.0002
+Token: ' whether' (ID: 3425), Prob: 0.0002
+Token: ' wait' (ID: 3783), Prob: 0.0001
+Token: ' possibly' (ID: 10767), Prob: 0.0001
+Token: ' another' (ID: 2441), Prob: 0.0001
+Token: ' sure' (ID: 2704), Prob: 0.0001
+Token: ' exactly' (ID: 6896), Prob: 0.0001
+Token: ' depending' (ID: 11649), Prob: 0.0001
+Token: ' impossible' (ID: 11997), Prob: 0.0001
+Token: ' depends' (ID: 13798), Prob: 0.0001
+Token: ' yeah' (ID: 21639), Prob: 0.0001
+Token: ' else' (ID: 770), Prob: 0.0001
+Token: ' one' (ID: 825), Prob: 0.0001
+Token: ' missing' (ID: 7402), Prob: 0.0001
+Token: ' disagree' (ID: 28295), Prob: 0.0001
+Token: ' please' (ID: 4486), Prob: 0.0001
+Token: ' without' (ID: 2041), Prob: 0.0001
+Token: ' otherwise' (ID: 5937), Prob: 0.0001
+Token: ' could' (ID: 1410), Prob: 0.0001
+Token: ' even' (ID: 1496), Prob: 0.0001
+Token: ' different' (ID: 2155), Prob: 0.0001
+Token: ' anything' (ID: 4113), Prob: 0.0001
+Token: ' hello' (ID: 23811), Prob: 0.0001
+Token: ' correct' (ID: 4396), Prob: 0.0001
 
 == Ranked Concepts (Clusters) ==
-Rank 1 | Concept Score: 0.3633
-  Tokens: [' soil', ' terrain', ' landscape', ' Soil', ' soils', ' terra']
-Rank 2 | Concept Score: 0.3184
-  Tokens: [' atmosphere', ' climate', ' Atmos', ' atmospheric', ' atmos']
-Rank 3 | Concept Score: 0.0801
-  Tokens: [' environment', ' Environment', ' environments', ' envi']
-Rank 4 | Concept Score: 0.0552
-  Tokens: [' surface', ' skin', ' surfaces']
-Rank 5 | Concept Score: 0.0417
-  Tokens: [' ecosystem', ' habitat', ' habitats', ' ecosystems']
-Rank 6 | Concept Score: 0.0151
-  Tokens: [' bios', ' biome', ' hus']
-Rank 7 | Concept Score: 0.0079
-  Tokens: [' planet', ' orbit', ' moon', ' gravity', ' Mars']
-Rank 8 | Concept Score: 0.0068
-  Tokens: [' bed', ' high', ' city', ' cell', ' red', ' black', ' green']
-Rank 9 | Concept Score: 0.0068
-  Tokens: [' base', ' core', ' shell']
-Rank 10 | Concept Score: 0.0064
-  Tokens: [' colony', ' colonies', ' settlement']
-Rank 11 | Concept Score: 0.0060
-  Tokens: [' ground', ' land']
-Rank 12 | Concept Score: 0.0057
-  Tokens: [' crust', ' hollow']
-Rank 13 | Concept Score: 0.0034
-  Tokens: [' jungle', ' desert', ' plains', ' Desert', ' forest']
-Rank 14 | Concept Score: 0.0033
-  Tokens: [' dust', ' Dust', ' des']
-Rank 15 | Concept Score: 0.0032
-  Tokens: [' air', ' sky', ' weather']
-Rank 16 | Concept Score: 0.0031
-  Tokens: [' rock', ' rocks', ' caves', ' sand', ' mining', ' cave']
-Rank 17 | Concept Score: 0.0025
-  Tokens: [' system', ' setting']
-Rank 18 | Concept Score: 0.0024
-  Tokens: [' reg', ' rot']
-Rank 19 | Concept Score: 0.0020
-  Tokens: [' plant', ' plants', ' flora']
-Rank 20 | Concept Score: 0.0016
-  Tokens: [' subs', ' space']
-Rank 21 | Concept Score: 0.0014
-  Tokens: [' structure', ' structures']
-Rank 22 | Concept Score: 0.0012
-  Tokens: [' field', ' fields']
-Rank 23 | Concept Score: 0.0009
-  Tokens: [' crystal', ' walls', ' rings']
-Rank 24 | Concept Score: 0.0008
-  Tokens: [' underground']
-Rank 25 | Concept Score: 0.0008
-  Tokens: [' house', ' home', ' homes']
-Rank 26 | Concept Score: 0.0007
-  Tokens: [' greenhouse']
-Rank 27 | Concept Score: 0.0003
-  Tokens: [' clouds']
+Rank 1 | Centroid: ' yes' | Score: 0.0322
+  Tokens: [' yes', ' definitely', ' sure', ' yeah']
+Rank 2 | Centroid: ' perhaps' | Score: 0.0048
+  Tokens: [' maybe', ' perhaps', ' possible', ' possibly', ' could']
+Rank 3 | Centroid: ' something' | Score: 0.0028
+  Tokens: [' something', ' nothing', ' anything']
+Rank 4 | Centroid: ' negative' | Score: 0.0011
+  Tokens: [' negative', ' false']
+Rank 5 | Centroid: ' none' | Score: 0.0006
+  Tokens: [' none', ' neither']
+Rank 6 | Centroid: ' unknown' | Score: 0.0005
+  Tokens: [' unknown', ' impossible', ' missing']
+Rank 7 | Centroid: ' hello' | Score: 0.0004
+  Tokens: [' answer', ' please', ' hello']
+Rank 8 | Centroid: ' another' | Score: 0.0004
+  Tokens: [' also', ' another', ' one']
+Rank 9 | Centroid: ' depending' | Score: 0.0004
+  Tokens: [' based', ' depending', ' depends']
+Rank 10 | Centroid: ' either' | Score: 0.0004
+  Tokens: [' either', ' whether']
+Rank 11 | Centroid: ' etc' | Score: 0.0003
+  Tokens: [' etc']
+Rank 12 | Centroid: ' else' | Score: 0.0002
+  Tokens: [' else', ' otherwise']
+Rank 13 | Centroid: ' exactly' | Score: 0.0002
+  Tokens: [' exactly', ' different']
+Rank 14 | Centroid: ' wait' | Score: 0.0001
+  Tokens: [' wait']
+Rank 15 | Centroid: ' disagree' | Score: 0.0001
+  Tokens: [' disagree']
+Rank 16 | Centroid: ' without' | Score: 0.0001
+  Tokens: [' without']
+Rank 17 | Centroid: ' even' | Score: 0.0001
+  Tokens: [' even']
+Rank 18 | Centroid: ' correct' | Score: 0.0001
+  Tokens: [' correct']
 
-**Chosen Concept:** Rank 1 with score 0.3633
+**Chosen Concept:** Rank 1

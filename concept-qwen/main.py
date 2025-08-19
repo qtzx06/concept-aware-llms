@@ -4,6 +4,7 @@ import os
 import pandas as pd
 import warnings
 import re
+import shutil
 from pathlib import Path
 from transformers import AutoModelForCausalLM, AutoTokenizer
 
@@ -63,10 +64,19 @@ def run_baseline(prompt, model, tokenizer, config):
 def run_benchmark(model, tokenizer, device, benchmark_config):
     """Runs a benchmark on the WritingPrompts dataset."""
     print("\n--- Starting Automatic Benchmark ---")
+
+    # Clear previous benchmark logs if logging is enabled for this run
+    if benchmark_config.get('logging_enabled', False):
+        script_dir = Path(__file__).parent.resolve()
+        benchmark_log_dir = script_dir / 'benchmark_logs'
+        if benchmark_log_dir.exists():
+            print(f"Clearing old logs in {benchmark_log_dir}...")
+            shutil.rmtree(benchmark_log_dir)
+
     print("Loading benchmark dataset (euclaise/writingprompts)...")
+    num_prompts = benchmark_config.get('num_prompts', 10)
     # Use the 'test' split for a fair evaluation on unseen data.
-    # Using a small, random sample for quick testing. Increase 'range' for a full benchmark.
-    dataset = load_dataset("euclaise/writingprompts", split="test").shuffle(seed=42).select(range(10))
+    dataset = load_dataset("euclaise/writingprompts", split="test").shuffle(seed=42).select(range(num_prompts))
     
     print("Loading semantic similarity model (all-MiniLM-L6-v2)...")
 
@@ -87,9 +97,7 @@ def run_benchmark(model, tokenizer, device, benchmark_config):
     concept_decoder = ConceptDecoder(model, tokenizer, concept_config)
 
     for i, item in enumerate(dataset):
-        prompt_raw = item['prompt']
-        # More robustly clean the prompt to remove any [tag] style instructions from the start.
-        prompt = re.sub(r'^[[.*?]]\s*', '', prompt_raw).strip()
+        prompt = item['prompt']
         
         if benchmark_config.get('logging_enabled', False):
             concept_decoder.set_log_prompt_id(i + 1) # Tell decoder which prompt it's on
@@ -148,6 +156,7 @@ def main():
                 ['logs', 'visuals', 'both'],
                 'both'
             )
+        benchmark_config['num_prompts'] = get_user_input("Enter number of prompts to run", 10, int)
         run_benchmark(model, tokenizer, device, benchmark_config)
         return
 
@@ -183,9 +192,7 @@ def main():
     ####### MANUAL PROMPTING #######
     ################################
     
-    prompt_raw = "The moon is actually a giant egg , and it has just started to hatch ."
-    # More robustly clean the prompt to remove any [tag] style instructions from the start.
-    prompt = re.sub(r'^\[.*?\]\s*', '', prompt_raw).strip()
+    prompt = "The moon is actually a giant egg , and it has just started to hatch ."
     
     run_baseline(prompt, model, tokenizer, baseline_config)
     

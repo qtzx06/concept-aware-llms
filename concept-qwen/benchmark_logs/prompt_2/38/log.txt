@@ -1,0 +1,82 @@
+--- Step 38 Log ---
+
+== Filtered Candidates ==
+Token: ' something' (ID: 2494), Prob: 0.8242
+Token: ' etc' (ID: 4992), Prob: 0.0767
+Token: ' yes' (ID: 9834), Prob: 0.0133
+Token: ' maybe' (ID: 7196), Prob: 0.0016
+Token: ' anything' (ID: 4113), Prob: 0.0012
+Token: ' nothing' (ID: 4302), Prob: 0.0007
+Token: ' even' (ID: 1496), Prob: 0.0003
+Token: ' sometimes' (ID: 7025), Prob: 0.0002
+Token: ' depending' (ID: 11649), Prob: 0.0002
+Token: ' somewhere' (ID: 14696), Prob: 0.0002
+Token: ' someone' (ID: 4325), Prob: 0.0001
+Token: ' except' (ID: 3650), Prob: 0.0001
+Token: ' whatever' (ID: 8820), Prob: 0.0001
+Token: ' also' (ID: 1083), Prob: 0.0001
+Token: ' based' (ID: 3118), Prob: 0.0001
+Token: ' possibly' (ID: 10767), Prob: 0.0001
+Token: ' negative' (ID: 8225), Prob: 0.0001
+Token: ' since' (ID: 2474), Prob: 0.0001
+Token: ' perhaps' (ID: 8365), Prob: 0.0001
+Token: ' thing' (ID: 3166), Prob: 0.0001
+Token: ' another' (ID: 2441), Prob: 0.0001
+Token: ' similar' (ID: 4428), Prob: 0.0001
+Token: ' answer' (ID: 4226), Prob: 0.0001
+Token: ' possible' (ID: 3204), Prob: 0.0001
+Token: ' everything' (ID: 4297), Prob: 0.0000
+Token: ' otherwise' (ID: 5937), Prob: 0.0000
+Token: ' plus' (ID: 5519), Prob: 0.0000
+Token: ' Something' (ID: 24656), Prob: 0.0000
+Token: ' one' (ID: 825), Prob: 0.0000
+Token: ' unless' (ID: 7241), Prob: 0.0000
+Token: ' however' (ID: 4764), Prob: 0.0000
+Token: ' okay' (ID: 16910), Prob: 0.0000
+Token: ' else' (ID: 770), Prob: 0.0000
+Token: ' option' (ID: 2999), Prob: 0.0000
+Token: ' description' (ID: 4008), Prob: 0.0000
+Token: ' som' (ID: 1757), Prob: 0.0000
+Token: ' things' (ID: 2513), Prob: 0.0000
+Token: ' like' (ID: 1075), Prob: 0.0000
+Token: ' certain' (ID: 3654), Prob: 0.0000
+Token: ' sorry' (ID: 14589), Prob: 0.0000
+Token: ' example' (ID: 3110), Prob: 0.0000
+Token: ' false' (ID: 895), Prob: 0.0000
+Token: ' two' (ID: 1378), Prob: 0.0000
+Token: ' sure' (ID: 2704), Prob: 0.0000
+Token: ' specific' (ID: 3151), Prob: 0.0000
+Token: ' exactly' (ID: 6896), Prob: 0.0000
+Token: ' yeah' (ID: 21639), Prob: 0.0000
+
+== Ranked Concepts (Clusters) ==
+Rank 1 | Centroid: ' something' | Score: 0.8281
+  Tokens: [' something', ' anything', ' nothing', ' whatever', ' thing', ' everything', ' Something', ' things']
+Rank 2 | Centroid: ' etc' | Score: 0.0767
+  Tokens: [' etc', ' however']
+Rank 3 | Centroid: ' yeah' | Score: 0.0134
+  Tokens: [' yes', ' okay', ' sorry', ' sure', ' yeah']
+Rank 4 | Centroid: ' perhaps' | Score: 0.0020
+  Tokens: [' maybe', ' sometimes', ' possibly', ' perhaps', ' possible']
+Rank 5 | Centroid: ' unless' | Score: 0.0005
+  Tokens: [' depending', ' except', ' based', ' since', ' plus', ' unless']
+Rank 6 | Centroid: ' even' | Score: 0.0004
+  Tokens: [' even', ' also']
+Rank 7 | Centroid: ' somewhere' | Score: 0.0003
+  Tokens: [' somewhere', ' someone']
+Rank 8 | Centroid: ' description' | Score: 0.0001
+  Tokens: [' answer', ' option', ' description', ' example']
+Rank 9 | Centroid: ' negative' | Score: 0.0001
+  Tokens: [' negative', ' false', ' exactly']
+Rank 10 | Centroid: ' one' | Score: 0.0001
+  Tokens: [' another', ' one', ' two']
+Rank 11 | Centroid: ' similar' | Score: 0.0001
+  Tokens: [' similar', ' like']
+Rank 12 | Centroid: ' otherwise' | Score: 0.0001
+  Tokens: [' otherwise', ' else']
+Rank 13 | Centroid: ' certain' | Score: 0.0000
+  Tokens: [' certain', ' specific']
+Rank 14 | Centroid: ' som' | Score: 0.0000
+  Tokens: [' som']
+
+**Chosen Concept:** Rank 1

@@ -1,77 +1,119 @@
 --- Step 64 Log ---
 
 == Filtered Candidates ==
-Token: ' exactly' (ID: 6896), Prob: 0.5000
-Token: ' one' (ID: 825), Prob: 0.0320
-Token: ' directly' (ID: 5961), Prob: 0.0134
-Token: ' immediately' (ID: 7069), Prob: 0.0067
-Token: ' using' (ID: 1667), Prob: 0.0030
-Token: ' without' (ID: 2041), Prob: 0.0026
-Token: ' two' (ID: 1378), Prob: 0.0023
-Token: ' three' (ID: 2326), Prob: 0.0023
-Token: ' either' (ID: 2987), Prob: 0.0023
-Token: ' based' (ID: 3118), Prob: 0.0019
-Token: ' precisely' (ID: 23638), Prob: 0.0019
-Token: ' via' (ID: 4566), Prob: 0.0018
-Token: ' within' (ID: 2878), Prob: 0.0017
-Token: ' according' (ID: 4092), Prob: 0.0013
-Token: ' even' (ID: 1496), Prob: 0.0012
-Token: ' located' (ID: 7407), Prob: 0.0012
-Token: ' straight' (ID: 7678), Prob: 0.0009
-Token: ' twice' (ID: 10917), Prob: 0.0009
-Token: ' instantly' (ID: 21818), Prob: 0.0009
-Token: ' starting' (ID: 5916), Prob: 0.0008
-Token: ' every' (ID: 1449), Prob: 0.0007
-Token: ' across' (ID: 3941), Prob: 0.0007
-Token: ' regardless' (ID: 15484), Prob: 0.0006
-Token: ' strictly' (ID: 25470), Prob: 0.0006
-Token: ' behind' (ID: 4815), Prob: 0.0006
-Token: ' except' (ID: 3650), Prob: 0.0005
-Token: ' five' (ID: 4236), Prob: 0.0005
-Token: ' somewhere' (ID: 14696), Prob: 0.0005
-Token: ' next' (ID: 1790), Prob: 0.0004
-Token: ' following' (ID: 2701), Prob: 0.0004
-Token: ' depending' (ID: 11649), Prob: 0.0004
-Token: ' simultaneously' (ID: 24303), Prob: 0.0004
-Token: ' first' (ID: 1156), Prob: 0.0004
-Token: ' approximately' (ID: 13187), Prob: 0.0004
-Token: ' beyond' (ID: 7797), Prob: 0.0004
-Token: ' right' (ID: 1290), Prob: 0.0003
-Token: ' earlier' (ID: 6788), Prob: 0.0003
-Token: ' ahead' (ID: 8305), Prob: 0.0003
+Token: ' vary' (ID: 13289), Prob: 1.0000
+Token: ' differ' (ID: 1745), Prob: 0.0000
+Token: ' varies' (ID: 34227), Prob: 0.0000
+Token: ' vari' (ID: 4151), Prob: 0.0000
+Token: 'vary' (ID: 82976), Prob: 0.0000
+Token: ' varied' (ID: 27730), Prob: 0.0000
+Token: ' var' (ID: 762), Prob: 0.0000
+Token: ' variety' (ID: 8045), Prob: 0.0000
+Token: ' involve' (ID: 21058), Prob: 0.0000
+Token: ' include' (ID: 2924), Prob: 0.0000
+Token: ' varying' (ID: 28765), Prob: 0.0000
+Token: ' diver' (ID: 36341), Prob: 0.0000
+Token: ' variation' (ID: 22990), Prob: 0.0000
+Token: ' refer' (ID: 8300), Prob: 0.0000
+Token: ' change' (ID: 2297), Prob: 0.0000
+Token: ' slightly' (ID: 10078), Prob: 0.0000
+Token: ' variable' (ID: 3890), Prob: 0.0000
+Token: ' range' (ID: 2088), Prob: 0.0000
+Token: ' arise' (ID: 30789), Prob: 0.0000
+Token: ' depend' (ID: 6761), Prob: 0.0000
+Token: ' variant' (ID: 11424), Prob: 0.0000
+Token: ' also' (ID: 1083), Prob: 0.0000
+Token: ' appear' (ID: 4994), Prob: 0.0000
+Token: ' arrive' (ID: 17331), Prob: 0.0000
+Token: ' variations' (ID: 26244), Prob: 0.0000
+Token: ' take' (ID: 1896), Prob: 0.0000
+Token: ' various' (ID: 5257), Prob: 0.0000
+Token: ' relate' (ID: 28143), Prob: 0.0000
+Token: ' stay' (ID: 4717), Prob: 0.0000
+Token: ' verify' (ID: 10146), Prob: 0.0000
+Token: ' variance' (ID: 32273), Prob: 0.0000
+Token: ' remain' (ID: 7146), Prob: 0.0000
+Token: ' exceed' (ID: 12488), Prob: 0.0000
+Token: ' avoid' (ID: 5648), Prob: 0.0000
+Token: ' use' (ID: 990), Prob: 0.0000
+Token: ' specify' (ID: 13837), Prob: 0.0000
+Token: ' adjust' (ID: 7500), Prob: 0.0000
+Token: ' Vari' (ID: 27868), Prob: 0.0000
+Token: ' require' (ID: 1373), Prob: 0.0000
+Token: ' show' (ID: 1473), Prob: 0.0000
+Token: ' bar' (ID: 3619), Prob: 0.0000
+Token: ' consist' (ID: 6685), Prob: 0.0000
+Token: '.var' (ID: 19526), Prob: 0.0000
+Token: ' share' (ID: 4332), Prob: 0.0000
+Token: ' rely' (ID: 17188), Prob: 0.0000
+Token: ' say' (ID: 1977), Prob: 0.0000
+Token: ' yield' (ID: 7540), Prob: 0.0000
+Token: ' look' (ID: 1401), Prob: 0.0000
+Token: ' still' (ID: 2058), Prob: 0.0000
+Token: ' alter' (ID: 11596), Prob: 0.0000
+Token: ' add' (ID: 912), Prob: 0.0000
+Token: ' exist' (ID: 3000), Prob: 0.0000
+Token: ' either' (ID: 2987), Prob: 0.0000
+Token: ' leave' (ID: 5274), Prob: 0.0000
+Token: ' fly' (ID: 11466), Prob: 0.0000
+Token: ' differently' (ID: 21303), Prob: 0.0000
+Token: ' start' (ID: 1191), Prob: 0.0000
+Token: ' lie' (ID: 10246), Prob: 0.0000
+Token: ' break' (ID: 1438), Prob: 0.0000
+Token: ' Var' (ID: 8735), Prob: 0.0000
+Token: ' stand' (ID: 2498), Prob: 0.0000
+Token: ' violate' (ID: 40487), Prob: 0.0000
+Token: ' occur' (ID: 12170), Prob: 0.0000
+Token: ' modify' (ID: 5602), Prob: 0.0000
+Token: ' never' (ID: 2581), Prob: 0.0000
+Token: ' provide' (ID: 3410), Prob: 0.0000
+Token: 'var' (ID: 947), Prob: 0.0000
+Token: ' come' (ID: 2525), Prob: 0.0000
+Token: ' divide' (ID: 21749), Prob: 0.0000
+Token: ' give' (ID: 2968), Prob: 0.0000
+Token: ' apply' (ID: 3796), Prob: 0.0000
+Token: ' carry' (ID: 6777), Prob: 0.0000
+Token: ' represent' (ID: 4009), Prob: 0.0000
+Token: ' reflect' (ID: 8708), Prob: 0.0000
+Token: ' indicate' (ID: 13216), Prob: 0.0000
+Token: ' different' (ID: 2155), Prob: 0.0000
+Token: ' mean' (ID: 3076), Prob: 0.0000
+Token: ' potentially' (ID: 13581), Prob: 0.0000
 
 == Ranked Concepts (Clusters) ==
-Rank 1 | Concept Score: 0.5039
-  Tokens: [' exactly', ' precisely', ' strictly', ' approximately']
-Rank 2 | Concept Score: 0.0371
-  Tokens: [' one', ' two', ' three', ' five']
-Rank 3 | Concept Score: 0.0214
-  Tokens: [' directly', ' immediately', ' instantly', ' simultaneously']
-Rank 4 | Concept Score: 0.0054
-  Tokens: [' without', ' within', ' across', ' beyond']
-Rank 5 | Concept Score: 0.0048
-  Tokens: [' using', ' via']
-Rank 6 | Concept Score: 0.0037
-  Tokens: [' based', ' according', ' depending']
-Rank 7 | Concept Score: 0.0023
-  Tokens: [' even', ' regardless', ' except']
-Rank 8 | Concept Score: 0.0023
-  Tokens: [' either']
-Rank 9 | Concept Score: 0.0016
-  Tokens: [' located', ' somewhere']
-Rank 10 | Concept Score: 0.0013
-  Tokens: [' straight', ' right']
-Rank 11 | Concept Score: 0.0011
-  Tokens: [' next', ' first', ' earlier']
-Rank 12 | Concept Score: 0.0009
-  Tokens: [' twice']
-Rank 13 | Concept Score: 0.0008
-  Tokens: [' behind', ' ahead']
-Rank 14 | Concept Score: 0.0008
-  Tokens: [' starting']
-Rank 15 | Concept Score: 0.0007
-  Tokens: [' every']
-Rank 16 | Concept Score: 0.0004
-  Tokens: [' following']
+Rank 1 | Centroid: ' vary' | Score: 1.0000
+  Tokens: [' vary', ' varies', 'vary', ' varied', ' variety', ' varying', ' various']
+Rank 2 | Centroid: ' different' | Score: 0.0000
+  Tokens: [' differ', ' differently', ' different']
+Rank 3 | Centroid: ' Vari' | Score: 0.0000
+  Tokens: [' vari', ' var', ' variation', ' variable', ' variant', ' variations', ' variance', ' Vari', '.var', ' Var', 'var']
+Rank 4 | Centroid: ' rely' | Score: 0.0000
+  Tokens: [' involve', ' include', ' depend', ' relate', ' require', ' consist', ' rely']
+Rank 5 | Centroid: ' diver' | Score: 0.0000
+  Tokens: [' diver']
+Rank 6 | Centroid: ' arise' | Score: 0.0000
+  Tokens: [' arise', ' appear', ' arrive', ' exceed', ' exist', ' lie', ' violate', ' occur', ' come']
+Rank 7 | Centroid: ' potentially' | Score: 0.0000
+  Tokens: [' slightly', ' also', ' still', ' either', ' never', ' potentially']
+Rank 8 | Centroid: ' represent' | Score: 0.0000
+  Tokens: [' refer', ' stand', ' represent', ' reflect', ' mean']
+Rank 9 | Centroid: ' alter' | Score: 0.0000
+  Tokens: [' change', ' adjust', ' alter', ' modify']
+Rank 10 | Centroid: ' take' | Score: 0.0000
+  Tokens: [' take', ' use', ' share', ' look', ' leave', ' fly', ' start', ' carry']
+Rank 11 | Centroid: ' range' | Score: 0.0000
+  Tokens: [' range', ' bar']
+Rank 12 | Centroid: ' provide' | Score: 0.0000
+  Tokens: [' verify', ' specify', ' show', ' provide', ' give', ' indicate']
+Rank 13 | Centroid: ' stay' | Score: 0.0000
+  Tokens: [' stay', ' remain']
+Rank 14 | Centroid: ' add' | Score: 0.0000
+  Tokens: [' avoid', ' add', ' apply']
+Rank 15 | Centroid: ' say' | Score: 0.0000
+  Tokens: [' say']
+Rank 16 | Centroid: ' yield' | Score: 0.0000
+  Tokens: [' yield']
+Rank 17 | Centroid: ' break' | Score: 0.0000
+  Tokens: [' break', ' divide']
 
-**Chosen Concept:** Rank 1 with score 0.5039
+**Chosen Concept:** Rank 1

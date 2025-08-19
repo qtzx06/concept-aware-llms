@@ -1,44 +1,66 @@
 --- Step 1 Log ---
 
 == Filtered Candidates ==
-Token: ' Please' (ID: 5209), Prob: 0.0042
-Token: ' Based' (ID: 20205), Prob: 0.0033
-Token: ' However' (ID: 4354), Prob: 0.0029
-Token: ' According' (ID: 10548), Prob: 0.0029
-Token: ' Let' (ID: 6771), Prob: 0.0025
-Token: ' Since' (ID: 8704), Prob: 0.0021
-Token: ' Given' (ID: 16246), Prob: 0.0015
-Token: ' NASA' (ID: 21431), Prob: 0.0014
-Token: ' Describe' (ID: 60785), Prob: 0.0014
-Token: ' Description' (ID: 7662), Prob: 0.0013
-Token: ' Scientists' (ID: 56016), Prob: 0.0013
-Token: ' Also' (ID: 7281), Prob: 0.0011
-Token: ' World' (ID: 4337), Prob: 0.0010
-Token: ' Mars' (ID: 21048), Prob: 0.0010
-Token: ' Source' (ID: 8748), Prob: 0.0008
+Token: 'Answer' (ID: 16141), Prob: 0.0586
+Token: 'Based' (ID: 28715), Prob: 0.0139
+Token: 'Okay' (ID: 32313), Prob: 0.0102
+Token: 'Yes' (ID: 9454), Prob: 0.0031
+Token: 'Let' (ID: 10061), Prob: 0.0031
+Token: 'Alright' (ID: 71486), Prob: 0.0031
+Token: 'Source' (ID: 3608), Prob: 0.0029
+Token: 'Possible' (ID: 65222), Prob: 0.0027
+Token: 'Question' (ID: 14582), Prob: 0.0026
+Token: 'Generate' (ID: 31115), Prob: 0.0024
+Token: 'World' (ID: 10134), Prob: 0.0023
+Token: 'Also' (ID: 13394), Prob: 0.0020
+Token: ' Based' (ID: 20205), Prob: 0.0019
+Token: 'Context' (ID: 1972), Prob: 0.0017
+Token: 'First' (ID: 5338), Prob: 0.0017
+Token: 'Maybe' (ID: 21390), Prob: 0.0017
+Token: 'Describe' (ID: 74785), Prob: 0.0017
+Token: 'Scientists' (ID: 71226), Prob: 0.0014
+Token: 'Please' (ID: 5501), Prob: 0.0013
+Token: 'Next' (ID: 5847), Prob: 0.0013
+Token: '"The' (ID: 10022), Prob: 0.0013
+Token: 'Current' (ID: 5405), Prob: 0.0012
+Token: 'Another' (ID: 14037), Prob: 0.0012
+Token: 'Translate' (ID: 27473), Prob: 0.0012
+Token: 'Tell' (ID: 40451), Prob: 0.0012
+Token: ' Answer' (ID: 21806), Prob: 0.0011
+Token: 'Title' (ID: 3851), Prob: 0.0011
+Token: 'According' (ID: 11190), Prob: 0.0010
+Token: 'Choose' (ID: 24051), Prob: 0.0010
 
 == Ranked Concepts (Clusters) ==
-Rank 1 | Concept Score: 0.0062
-  Tokens: [' Based', ' According']
-Rank 2 | Concept Score: 0.0050
-  Tokens: [' However', ' Since']
-Rank 3 | Concept Score: 0.0042
-  Tokens: [' Please']
-Rank 4 | Concept Score: 0.0027
-  Tokens: [' Describe', ' Description']
-Rank 5 | Concept Score: 0.0025
-  Tokens: [' Let']
-Rank 6 | Concept Score: 0.0024
-  Tokens: [' NASA', ' Mars']
-Rank 7 | Concept Score: 0.0015
-  Tokens: [' Given']
-Rank 8 | Concept Score: 0.0013
-  Tokens: [' Scientists']
-Rank 9 | Concept Score: 0.0011
-  Tokens: [' Also']
-Rank 10 | Concept Score: 0.0010
-  Tokens: [' World']
-Rank 11 | Concept Score: 0.0008
-  Tokens: [' Source']
+Rank 1 | Centroid: 'Answer' | Score: 0.0598
+  Tokens: ['Answer', ' Answer']
+Rank 2 | Centroid: 'Based' | Score: 0.0168
+  Tokens: ['Based', ' Based', 'According']
+Rank 3 | Centroid: 'Okay' | Score: 0.0164
+  Tokens: ['Okay', 'Yes', 'Alright']
+Rank 4 | Centroid: 'Generate' | Score: 0.0063
+  Tokens: ['Generate', 'Describe', 'Translate', 'Choose']
+Rank 5 | Centroid: 'Another' | Score: 0.0046
+  Tokens: ['Also', 'Scientists', 'Another']
+Rank 6 | Centroid: 'Let' | Score: 0.0044
+  Tokens: ['Let', 'Please']
+Rank 7 | Centroid: 'Possible' | Score: 0.0044
+  Tokens: ['Possible', 'Maybe']
+Rank 8 | Centroid: 'First' | Score: 0.0030
+  Tokens: ['First', 'Next']
+Rank 9 | Centroid: 'Source' | Score: 0.0029
+  Tokens: ['Source']
+Rank 10 | Centroid: 'Context' | Score: 0.0029
+  Tokens: ['Context', 'Current']
+Rank 11 | Centroid: 'Question' | Score: 0.0026
+  Tokens: ['Question']
+Rank 12 | Centroid: 'World' | Score: 0.0023
+  Tokens: ['World']
+Rank 13 | Centroid: '"The' | Score: 0.0013
+  Tokens: ['"The']
+Rank 14 | Centroid: 'Tell' | Score: 0.0012
+  Tokens: ['Tell']
+Rank 15 | Centroid: 'Title' | Score: 0.0011
+  Tokens: ['Title']
 
-**Chosen Concept:** Rank 1 with score 0.0062
+**Chosen Concept:** Rank 1

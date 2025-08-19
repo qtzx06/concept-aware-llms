@@ -1,97 +1,92 @@
 --- Step 91 Log ---
 
 == Filtered Candidates ==
-Token: ' making' (ID: 3259), Prob: 0.9961
-Token: ' paying' (ID: 12515), Prob: 0.0013
-Token: ' make' (ID: 1281), Prob: 0.0001
-Token: ' payments' (ID: 14173), Prob: 0.0001
-Token: ' Making' (ID: 24288), Prob: 0.0000
-Token: ' taking' (ID: 4633), Prob: 0.0000
-Token: ' makes' (ID: 3643), Prob: 0.0000
-Token: ' money' (ID: 3220), Prob: 0.0000
-Token: ' getting' (ID: 3709), Prob: 0.0000
-Token: ' buying' (ID: 11833), Prob: 0.0000
-Token: ' mak' (ID: 50916), Prob: 0.0000
-Token: ' made' (ID: 1865), Prob: 0.0000
-Token: ' giving' (ID: 7086), Prob: 0.0000
-Token: ' becoming' (ID: 10454), Prob: 0.0000
-Token: ' replacing' (ID: 24891), Prob: 0.0000
-Token: ' calling' (ID: 8098), Prob: 0.0000
-Token: ' going' (ID: 2087), Prob: 0.0000
-Token: ' moving' (ID: 7218), Prob: 0.0000
-Token: ' payment' (ID: 8160), Prob: 0.0000
-Token: ' working' (ID: 3238), Prob: 0.0000
-Token: ' leaving' (ID: 9380), Prob: 0.0000
-Token: ' keeping' (ID: 10282), Prob: 0.0000
-Token: ' maybe' (ID: 7196), Prob: 0.0000
-Token: ' writing' (ID: 4378), Prob: 0.0000
-Token: ' remaining' (ID: 9664), Prob: 0.0000
-Token: ' asking' (ID: 10161), Prob: 0.0000
-Token: ' breaking' (ID: 14719), Prob: 0.0000
-Token: ' maintaining' (ID: 20337), Prob: 0.0000
-Token: ' trying' (ID: 4460), Prob: 0.0000
-Token: ' letting' (ID: 20194), Prob: 0.0000
-Token: ' using' (ID: 1667), Prob: 0.0000
-Token: ' dealing' (ID: 14550), Prob: 0.0000
-Token: ' MAK' (ID: 71411), Prob: 0.0000
-Token: 'making' (ID: 27836), Prob: 0.0000
-Token: ' managing' (ID: 18150), Prob: 0.0000
-Token: ' receiving' (ID: 12308), Prob: 0.0000
-Token: ' bringing' (ID: 12678), Prob: 0.0000
-Token: ' spending' (ID: 10164), Prob: 0.0000
-Token: ' putting' (ID: 10687), Prob: 0.0000
-Token: ' monthly' (ID: 15088), Prob: 0.0000
-Token: ' earning' (ID: 27644), Prob: 0.0000
-Token: 'Making' (ID: 42246), Prob: 0.0000
-Token: ' continuing' (ID: 14354), Prob: 0.0000
-Token: '-making' (ID: 27746), Prob: 0.0000
-Token: ' missing' (ID: 7402), Prob: 0.0000
-Token: ' changing' (ID: 10018), Prob: 0.0000
-Token: ' starting' (ID: 5916), Prob: 0.0000
-Token: ' adding' (ID: 7842), Prob: 0.0000
-Token: ' watching' (ID: 10099), Prob: 0.0000
-Token: ' coming' (ID: 5001), Prob: 0.0000
-Token: ' creating' (ID: 6825), Prob: 0.0000
-Token: ' selling' (ID: 11236), Prob: 0.0000
-Token: ' sending' (ID: 11628), Prob: 0.0000
-Token: ' causing' (ID: 14381), Prob: 0.0000
-Token: ' manufacturing' (ID: 14919), Prob: 0.0000
-Token: ' purchasing' (ID: 22577), Prob: 0.0000
+Token: 'Let' (ID: 10061), Prob: 0.9609
+Token: 'Answer' (ID: 16141), Prob: 0.0019
+Token: 'Yes' (ID: 9454), Prob: 0.0016
+Token: 'Okay' (ID: 32313), Prob: 0.0005
+Token: 'Word' (ID: 10879), Prob: 0.0003
+Token: 'Wait' (ID: 14190), Prob: 0.0003
+Token: 'Last' (ID: 5842), Prob: 0.0003
+Token: 'Ret' (ID: 12020), Prob: 0.0003
+Token: 'Maybe' (ID: 21390), Prob: 0.0002
+Token: 'Tweet' (ID: 48362), Prob: 0.0002
+Token: 'Back' (ID: 3707), Prob: 0.0002
+Token: 'Based' (ID: 28715), Prob: 0.0002
+Token: 'Correct' (ID: 33092), Prob: 0.0002
+Token: 'Get' (ID: 1949), Prob: 0.0001
+Token: 'Therefore' (ID: 54815), Prob: 0.0001
+Token: 'Please' (ID: 5501), Prob: 0.0001
+Token: 'One' (ID: 3966), Prob: 0.0001
+Token: 'Every' (ID: 11510), Prob: 0.0001
+Token: 'Reply' (ID: 20841), Prob: 0.0001
+Token: 'Among' (ID: 33610), Prob: 0.0001
+Token: 'Exactly' (ID: 65357), Prob: 0.0001
+Token: 'Given' (ID: 22043), Prob: 0.0001
+Token: 'Finally' (ID: 23949), Prob: 0.0001
+Token: 'Home' (ID: 7623), Prob: 0.0001
+Token: 'Ass' (ID: 5615), Prob: 0.0001
+Token: 'Explanation' (ID: 69769), Prob: 0.0001
+Token: ' Let' (ID: 6771), Prob: 0.0001
+Token: 'Question' (ID: 14582), Prob: 0.0001
+Token: 'Set' (ID: 1649), Prob: 0.0001
+Token: 'Click' (ID: 2612), Prob: 0.0001
+Token: 'Tag' (ID: 5668), Prob: 0.0001
+Token: 'According' (ID: 11190), Prob: 0.0001
+Token: 'Help' (ID: 12689), Prob: 0.0001
+Token: 'Today' (ID: 15364), Prob: 0.0001
+Token: 'List' (ID: 852), Prob: 0.0001
+Token: 'Count' (ID: 2507), Prob: 0.0001
+Token: 'June' (ID: 27160), Prob: 0.0001
+Token: 'Perhaps' (ID: 31476), Prob: 0.0001
+Token: 'View' (ID: 851), Prob: 0.0001
+Token: 'None' (ID: 4064), Prob: 0.0001
+Token: 'Even' (ID: 13159), Prob: 0.0001
+Token: 'Paragraph' (ID: 42165), Prob: 0.0001
+Token: 'Alright' (ID: 71486), Prob: 0.0001
+Token: 'End' (ID: 3727), Prob: 0.0001
+Token: 'Still' (ID: 23322), Prob: 0.0001
 
 == Ranked Concepts (Clusters) ==
-Rank 1 | Concept Score: 0.9961
-  Tokens: [' making', ' make', ' Making', ' makes', ' mak', ' made', ' MAK', 'making', 'Making', '-making']
-Rank 2 | Concept Score: 0.0014
-  Tokens: [' paying', ' payments', ' money', ' payment']
-Rank 3 | Concept Score: 0.0000
-  Tokens: [' taking', ' giving', ' leaving', ' letting', ' bringing', ' putting']
-Rank 4 | Concept Score: 0.0000
-  Tokens: [' getting', ' becoming', ' creating', ' causing']
-Rank 5 | Concept Score: 0.0000
-  Tokens: [' buying', ' spending', ' selling', ' purchasing']
-Rank 6 | Concept Score: 0.0000
-  Tokens: [' calling', ' asking', ' trying', ' using']
-Rank 7 | Concept Score: 0.0000
-  Tokens: [' going', ' moving', ' coming']
-Rank 8 | Concept Score: 0.0000
-  Tokens: [' keeping', ' maintaining', ' managing']
-Rank 9 | Concept Score: 0.0000
-  Tokens: [' working', ' dealing', ' watching']
-Rank 10 | Concept Score: 0.0000
-  Tokens: [' replacing', ' adding']
-Rank 11 | Concept Score: 0.0000
-  Tokens: [' maybe', ' monthly', ' missing']
-Rank 12 | Concept Score: 0.0000
-  Tokens: [' receiving', ' earning', ' sending']
-Rank 13 | Concept Score: 0.0000
-  Tokens: [' remaining', ' continuing']
-Rank 14 | Concept Score: 0.0000
-  Tokens: [' breaking', ' changing']
-Rank 15 | Concept Score: 0.0000
-  Tokens: [' writing']
-Rank 16 | Concept Score: 0.0000
-  Tokens: [' starting']
-Rank 17 | Concept Score: 0.0000
-  Tokens: [' manufacturing']
+Rank 1 | Centroid: 'Let' | Score: 0.9609
+  Tokens: ['Let', ' Let']
+Rank 2 | Centroid: 'Okay' | Score: 0.0022
+  Tokens: ['Yes', 'Okay', 'Alright']
+Rank 3 | Centroid: 'Answer' | Score: 0.0019
+  Tokens: ['Answer', 'Question']
+Rank 4 | Centroid: 'Wait' | Score: 0.0005
+  Tokens: ['Wait', 'Ret']
+Rank 5 | Centroid: 'One' | Score: 0.0004
+  Tokens: ['Last', 'One', 'None']
+Rank 6 | Centroid: 'Word' | Score: 0.0004
+  Tokens: ['Word', 'Tag']
+Rank 7 | Centroid: 'Get' | Score: 0.0004
+  Tokens: ['Get', 'Set', 'List', 'Count', 'View']
+Rank 8 | Centroid: 'Every' | Score: 0.0004
+  Tokens: ['Therefore', 'Every', 'Today', 'Even']
+Rank 9 | Centroid: 'Click' | Score: 0.0003
+  Tokens: ['Tweet', 'Click', 'Paragraph']
+Rank 10 | Centroid: 'According' | Score: 0.0003
+  Tokens: ['Based', 'Given', 'According']
+Rank 11 | Centroid: 'Perhaps' | Score: 0.0003
+  Tokens: ['Maybe', 'June', 'Perhaps']
+Rank 12 | Centroid: 'Correct' | Score: 0.0002
+  Tokens: ['Correct', 'Explanation']
+Rank 13 | Centroid: 'Among' | Score: 0.0002
+  Tokens: ['Among', 'Finally']
+Rank 14 | Centroid: 'Back' | Score: 0.0002
+  Tokens: ['Back']
+Rank 15 | Centroid: 'Ass' | Score: 0.0002
+  Tokens: ['Ass', 'Help']
+Rank 16 | Centroid: 'Home' | Score: 0.0001
+  Tokens: ['Home', 'End']
+Rank 17 | Centroid: 'Please' | Score: 0.0001
+  Tokens: ['Please']
+Rank 18 | Centroid: 'Reply' | Score: 0.0001
+  Tokens: ['Reply']
+Rank 19 | Centroid: 'Exactly' | Score: 0.0001
+  Tokens: ['Exactly']
+Rank 20 | Centroid: 'Still' | Score: 0.0001
+  Tokens: ['Still']
 
-**Chosen Concept:** Rank 1 with score 0.9961
+**Chosen Concept:** Rank 1

@@ -1,111 +1,142 @@
 --- Step 13 Log ---
 
 == Filtered Candidates ==
-Token: ' renew' (ID: 13873), Prob: 0.0299
-Token: ' paying' (ID: 12515), Prob: 0.0264
-Token: ' taking' (ID: 4633), Prob: 0.0248
-Token: ' going' (ID: 2087), Prob: 0.0219
-Token: ' getting' (ID: 3709), Prob: 0.0219
-Token: ' trading' (ID: 11133), Prob: 0.0117
-Token: ' giving' (ID: 7086), Prob: 0.0103
-Token: ' buying' (ID: 11833), Prob: 0.0103
-Token: ' using' (ID: 1667), Prob: 0.0081
-Token: ' continuing' (ID: 14354), Prob: 0.0076
-Token: ' replacing' (ID: 24891), Prob: 0.0076
-Token: ' keeping' (ID: 10282), Prob: 0.0071
-Token: ' letting' (ID: 20194), Prob: 0.0071
-Token: ' helping' (ID: 10476), Prob: 0.0067
-Token: ' selling' (ID: 11236), Prob: 0.0063
-Token: ' trying' (ID: 4460), Prob: 0.0055
-Token: ' working' (ID: 3238), Prob: 0.0052
-Token: ' making' (ID: 3259), Prob: 0.0052
-Token: ' leaving' (ID: 9380), Prob: 0.0052
-Token: ' staying' (ID: 19429), Prob: 0.0052
-Token: ' losing' (ID: 13188), Prob: 0.0041
-Token: ' something' (ID: 2494), Prob: 0.0034
-Token: ' waiting' (ID: 8580), Prob: 0.0034
-Token: ' returning' (ID: 13451), Prob: 0.0032
-Token: ' spending' (ID: 10164), Prob: 0.0028
-Token: ' joining' (ID: 18169), Prob: 0.0028
-Token: ' another' (ID: 2441), Prob: 0.0025
-Token: ' asking' (ID: 10161), Prob: 0.0022
-Token: ' someone' (ID: 4325), Prob: 0.0020
-Token: ' coming' (ID: 5001), Prob: 0.0019
-Token: ' starting' (ID: 5916), Prob: 0.0019
-Token: ' allowing' (ID: 10693), Prob: 0.0019
-Token: ' trade' (ID: 6559), Prob: 0.0018
-Token: ' maybe' (ID: 7196), Prob: 0.0018
-Token: ' switching' (ID: 27765), Prob: 0.0017
-Token: ' dealing' (ID: 14550), Prob: 0.0015
-Token: ' playing' (ID: 5619), Prob: 0.0014
-Token: ' sending' (ID: 11628), Prob: 0.0014
-Token: ' purchasing' (ID: 22577), Prob: 0.0014
-Token: ' proceeding' (ID: 38447), Prob: 0.0013
-Token: ' relying' (ID: 38561), Prob: 0.0013
-Token: ' money' (ID: 3220), Prob: 0.0012
-Token: ' receiving' (ID: 12308), Prob: 0.0012
-Token: ' needing' (ID: 32821), Prob: 0.0012
-Token: ' stealing' (ID: 37998), Prob: 0.0012
-Token: ' exchanging' (ID: 78431), Prob: 0.0012
-Token: ' living' (ID: 5382), Prob: 0.0012
-Token: ' following' (ID: 2701), Prob: 0.0011
-Token: ' looking' (ID: 3330), Prob: 0.0011
-Token: ' moving' (ID: 7218), Prob: 0.0011
-Token: ' putting' (ID: 10687), Prob: 0.0011
-Token: ' repairing' (ID: 67237), Prob: 0.0011
-Token: ' let' (ID: 1077), Prob: 0.0010
-Token: ' pay' (ID: 2291), Prob: 0.0010
-Token: ' running' (ID: 4303), Prob: 0.0010
-Token: ' renting' (ID: 52227), Prob: 0.0010
-Token: ' changing' (ID: 10018), Prob: 0.0010
-Token: ' pursuing' (ID: 33018), Prob: 0.0010
-Token: ' becoming' (ID: 10454), Prob: 0.0009
-Token: ' passing' (ID: 12299), Prob: 0.0009
-Token: ' quitting' (ID: 68084), Prob: 0.0009
-Token: ' calling' (ID: 8098), Prob: 0.0009
-Token: ' competing' (ID: 26168), Prob: 0.0009
-Token: ' renewal' (ID: 42801), Prob: 0.0009
-Token: ' swapping' (ID: 63719), Prob: 0.0009
-Token: ' still' (ID: 2058), Prob: 0.0008
+Token: ' grow' (ID: 3063), Prob: 0.7500
+Token: ' become' (ID: 3635), Prob: 0.0155
+Token: ' learn' (ID: 3960), Prob: 0.0078
+Token: ' get' (ID: 633), Prob: 0.0069
+Token: ' stay' (ID: 4717), Prob: 0.0069
+Token: ' take' (ID: 1896), Prob: 0.0050
+Token: ' develop' (ID: 2225), Prob: 0.0027
+Token: ' live' (ID: 3887), Prob: 0.0025
+Token: ' know' (ID: 1414), Prob: 0.0024
+Token: ' leave' (ID: 5274), Prob: 0.0024
+Token: ' spend' (ID: 8329), Prob: 0.0021
+Token: ' care' (ID: 2453), Prob: 0.0020
+Token: ' feel' (ID: 2666), Prob: 0.0020
+Token: ' choose' (ID: 5157), Prob: 0.0019
+Token: ' inherit' (ID: 23749), Prob: 0.0019
+Token: ' forget' (ID: 10667), Prob: 0.0015
+Token: ' keep' (ID: 2506), Prob: 0.0014
+Token: ' help' (ID: 1492), Prob: 0.0013
+Token: ' work' (ID: 975), Prob: 0.0012
+Token: ' remain' (ID: 7146), Prob: 0.0011
+Token: ' mature' (ID: 14851), Prob: 0.0010
+Token: ' make' (ID: 1281), Prob: 0.0009
+Token: ' raise' (ID: 4828), Prob: 0.0009
+Token: ' play' (ID: 1486), Prob: 0.0009
+Token: ' sleep' (ID: 6084), Prob: 0.0009
+Token: ' eat' (ID: 8180), Prob: 0.0009
+Token: ' lose' (ID: 9052), Prob: 0.0009
+Token: ' move' (ID: 3271), Prob: 0.0008
+Token: ' grows' (ID: 27715), Prob: 0.0008
+Token: ' continue' (ID: 3060), Prob: 0.0008
+Token: ' use' (ID: 990), Prob: 0.0007
+Token: ' focus' (ID: 5244), Prob: 0.0007
+Token: ' lead' (ID: 2990), Prob: 0.0007
+Token: ' experience' (ID: 3139), Prob: 0.0007
+Token: ' suffer' (ID: 7676), Prob: 0.0007
+Token: ' growing' (ID: 7826), Prob: 0.0007
+Token: ' start' (ID: 1191), Prob: 0.0006
+Token: ' run' (ID: 1598), Prob: 0.0006
+Token: ' study' (ID: 3920), Prob: 0.0006
+Token: ' age' (ID: 4231), Prob: 0.0006
+Token: ' enjoy' (ID: 4669), Prob: 0.0006
+Token: ' come' (ID: 2525), Prob: 0.0006
+Token: ' receive' (ID: 5258), Prob: 0.0006
+Token: ' rise' (ID: 10000), Prob: 0.0006
+Token: ' walk' (ID: 4227), Prob: 0.0006
+Token: ' fall' (ID: 4399), Prob: 0.0006
+Token: ' see' (ID: 1490), Prob: 0.0005
+Token: ' join' (ID: 5138), Prob: 0.0005
+Token: ' rely' (ID: 17188), Prob: 0.0005
+Token: ' gain' (ID: 8722), Prob: 0.0005
+Token: ' thrive' (ID: 40872), Prob: 0.0005
+Token: ' reach' (ID: 5545), Prob: 0.0004
+Token: ' love' (ID: 2948), Prob: 0.0004
+Token: ' face' (ID: 3579), Prob: 0.0004
+Token: ' depend' (ID: 6761), Prob: 0.0004
+Token: ' earn' (ID: 7232), Prob: 0.0004
+Token: ' grown' (ID: 14700), Prob: 0.0004
+Token: ' pursue' (ID: 22729), Prob: 0.0004
+Token: ' meet' (ID: 3367), Prob: 0.0004
+Token: ' finish' (ID: 6248), Prob: 0.0004
+Token: ' look' (ID: 1401), Prob: 0.0004
+Token: ' follow' (ID: 1795), Prob: 0.0004
+Token: ' miss' (ID: 3116), Prob: 0.0004
+Token: ' benefit' (ID: 8760), Prob: 0.0004
+Token: ' find' (ID: 1477), Prob: 0.0003
+Token: ' think' (ID: 1744), Prob: 0.0003
+Token: ' change' (ID: 2297), Prob: 0.0003
+Token: ' cry' (ID: 15729), Prob: 0.0003
+Token: ' form' (ID: 1352), Prob: 0.0003
+Token: ' build' (ID: 1936), Prob: 0.0003
+Token: ' create' (ID: 1855), Prob: 0.0003
+Token: ' old' (ID: 2310), Prob: 0.0003
+Token: ' away' (ID: 3123), Prob: 0.0003
+Token: ' fail' (ID: 3690), Prob: 0.0003
+Token: ' decide' (ID: 10279), Prob: 0.0003
+Token: ' turn' (ID: 2484), Prob: 0.0003
+Token: ' enter' (ID: 3725), Prob: 0.0003
+Token: ' achieve' (ID: 11075), Prob: 0.0003
+Token: ' loose' (ID: 20174), Prob: 0.0003
+Token: ' close' (ID: 3265), Prob: 0.0003
+Token: ' return' (ID: 470), Prob: 0.0003
 
 == Ranked Concepts (Clusters) ==
-Rank 1 | Concept Score: 0.0356
-  Tokens: [' giving', ' keeping', ' helping', ' making', ' leaving', ' putting']
-Rank 2 | Concept Score: 0.0320
-  Tokens: [' getting', ' staying', ' losing', ' becoming']
-Rank 3 | Concept Score: 0.0317
-  Tokens: [' renew', ' repairing', ' renewal']
-Rank 4 | Concept Score: 0.0286
-  Tokens: [' paying', ' money', ' pay']
-Rank 5 | Concept Score: 0.0277
-  Tokens: [' going', ' coming', ' starting', ' moving', ' passing']
-Rank 6 | Concept Score: 0.0275
-  Tokens: [' taking', ' sending', ' receiving']
-Rank 7 | Concept Score: 0.0231
-  Tokens: [' buying', ' selling', ' spending', ' purchasing', ' stealing', ' renting']
-Rank 8 | Concept Score: 0.0227
-  Tokens: [' using', ' trying', ' asking', ' dealing', ' relying', ' needing', ' looking', ' pursuing', ' calling']
-Rank 9 | Concept Score: 0.0135
-  Tokens: [' trading', ' trade']
-Rank 10 | Concept Score: 0.0123
-  Tokens: [' replacing', ' switching', ' exchanging', ' changing', ' swapping']
-Rank 11 | Concept Score: 0.0121
-  Tokens: [' working', ' waiting', ' playing', ' living', ' running']
-Rank 12 | Concept Score: 0.0101
-  Tokens: [' letting', ' allowing', ' let']
-Rank 13 | Concept Score: 0.0096
-  Tokens: [' something', ' another', ' someone', ' maybe']
-Rank 14 | Concept Score: 0.0089
-  Tokens: [' continuing', ' proceeding']
-Rank 15 | Concept Score: 0.0037
-  Tokens: [' joining', ' quitting']
-Rank 16 | Concept Score: 0.0032
-  Tokens: [' returning']
-Rank 17 | Concept Score: 0.0011
-  Tokens: [' following']
-Rank 18 | Concept Score: 0.0009
-  Tokens: [' competing']
-Rank 19 | Concept Score: 0.0008
-  Tokens: [' still']
+Rank 1 | Centroid: ' grow' | Score: 0.7500
+  Tokens: [' grow', ' grows', ' growing', ' grown']
+Rank 2 | Centroid: ' become' | Score: 0.0170
+  Tokens: [' become', ' come', ' reach', ' meet']
+Rank 3 | Centroid: ' make' | Score: 0.0135
+  Tokens: [' get', ' take', ' make', ' find', ' create']
+Rank 4 | Centroid: ' stay' | Score: 0.0126
+  Tokens: [' stay', ' leave', ' keep', ' remain', ' continue']
+Rank 5 | Centroid: ' earn' | Score: 0.0121
+  Tokens: [' learn', ' spend', ' eat', ' receive', ' earn', ' achieve']
+Rank 6 | Centroid: ' think' | Score: 0.0056
+  Tokens: [' know', ' feel', ' see', ' look', ' think']
+Rank 7 | Centroid: ' decide' | Score: 0.0049
+  Tokens: [' develop', ' choose', ' decide']
+Rank 8 | Centroid: ' enjoy' | Score: 0.0034
+  Tokens: [' inherit', ' enjoy', ' thrive', ' pursue']
+Rank 9 | Centroid: ' start' | Score: 0.0032
+  Tokens: [' play', ' lead', ' start', ' run', ' follow']
+Rank 10 | Centroid: ' live' | Score: 0.0031
+  Tokens: [' live', ' walk']
+Rank 11 | Centroid: ' study' | Score: 0.0027
+  Tokens: [' work', ' sleep', ' study']
+Rank 12 | Centroid: ' care' | Score: 0.0027
+  Tokens: [' care', ' focus']
+Rank 13 | Centroid: ' help' | Score: 0.0023
+  Tokens: [' help', ' use', ' form']
+Rank 14 | Centroid: ' age' | Score: 0.0019
+  Tokens: [' mature', ' age', ' old']
+Rank 15 | Centroid: ' raise' | Score: 0.0018
+  Tokens: [' raise', ' rise', ' return']
+Rank 16 | Centroid: ' rely' | Score: 0.0016
+  Tokens: [' suffer', ' rely', ' depend']
+Rank 17 | Centroid: ' forget' | Score: 0.0015
+  Tokens: [' forget']
+Rank 18 | Centroid: ' move' | Score: 0.0014
+  Tokens: [' move', ' change', ' turn']
+Rank 19 | Centroid: ' fail' | Score: 0.0012
+  Tokens: [' fall', ' miss', ' fail']
+Rank 20 | Centroid: ' join' | Score: 0.0012
+  Tokens: [' join', ' finish', ' enter']
+Rank 21 | Centroid: ' experience' | Score: 0.0011
+  Tokens: [' experience', ' face']
+Rank 22 | Centroid: ' lose' | Score: 0.0009
+  Tokens: [' lose']
+Rank 23 | Centroid: ' gain' | Score: 0.0008
+  Tokens: [' gain', ' benefit']
+Rank 24 | Centroid: ' love' | Score: 0.0008
+  Tokens: [' love', ' cry']
+Rank 25 | Centroid: ' loose' | Score: 0.0005
+  Tokens: [' loose', ' close']
+Rank 26 | Centroid: ' build' | Score: 0.0003
+  Tokens: [' build']
+Rank 27 | Centroid: ' away' | Score: 0.0003
+  Tokens: [' away']
 
-**Chosen Concept:** Rank 1 with score 0.0356
+**Chosen Concept:** Rank 1

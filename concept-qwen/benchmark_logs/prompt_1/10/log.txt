@@ -1,0 +1,115 @@
+--- Step 10 Log ---
+
+== Filtered Candidates ==
+Token: ' something' (ID: 2494), Prob: 0.0132
+Token: ' making' (ID: 3259), Prob: 0.0125
+Token: ' feeling' (ID: 8266), Prob: 0.0097
+Token: ' feelings' (ID: 15650), Prob: 0.0085
+Token: ' emotions' (ID: 21261), Prob: 0.0085
+Token: ' tears' (ID: 23139), Prob: 0.0031
+Token: ' love' (ID: 2948), Prob: 0.0025
+Token: ' wanting' (ID: 19211), Prob: 0.0023
+Token: ' anger' (ID: 19234), Prob: 0.0022
+Token: ' sadness' (ID: 50878), Prob: 0.0020
+Token: ' crying' (ID: 30199), Prob: 0.0017
+Token: ' pain' (ID: 6646), Prob: 0.0016
+Token: ' gratitude' (ID: 45035), Prob: 0.0016
+Token: ' intense' (ID: 18894), Prob: 0.0015
+Token: ' emotion' (ID: 19772), Prob: 0.0014
+Token: ' frustration' (ID: 31986), Prob: 0.0012
+Token: ' strong' (ID: 3746), Prob: 0.0011
+Token: ' longing' (ID: 78322), Prob: 0.0010
+Token: ' deep' (ID: 5538), Prob: 0.0010
+Token: ' sorrow' (ID: 57496), Prob: 0.0010
+Token: ' joy' (ID: 15888), Prob: 0.0007
+Token: ' admiration' (ID: 65839), Prob: 0.0007
+Token: ' happiness' (ID: 23009), Prob: 0.0006
+Token: ' despair' (ID: 45896), Prob: 0.0006
+Token: ' emotional' (ID: 14269), Prob: 0.0006
+Token: ' loving' (ID: 21258), Prob: 0.0006
+Token: ' make' (ID: 1281), Prob: 0.0005
+Token: ' grief' (ID: 37284), Prob: 0.0005
+Token: ' needing' (ID: 32821), Prob: 0.0005
+Token: ' affection' (ID: 36705), Prob: 0.0005
+Token: ' excitement' (ID: 27262), Prob: 0.0004
+Token: ' empathy' (ID: 47351), Prob: 0.0004
+Token: ' someone' (ID: 4325), Prob: 0.0004
+Token: ' loneliness' (ID: 73940), Prob: 0.0003
+Token: ' self' (ID: 656), Prob: 0.0003
+Token: ' everything' (ID: 4297), Prob: 0.0003
+Token: ' desire' (ID: 12591), Prob: 0.0003
+Token: ' overwhelming' (ID: 22024), Prob: 0.0002
+Token: ' regret' (ID: 22231), Prob: 0.0002
+Token: ' Make' (ID: 7405), Prob: 0.0002
+Token: ' pure' (ID: 10526), Prob: 0.0001
+Token: ' heartfelt' (ID: 83111), Prob: 0.0001
+Token: ' pity' (ID: 56943), Prob: 0.0001
+Token: ' extreme' (ID: 14226), Prob: 0.0001
+Token: ' awe' (ID: 50417), Prob: 0.0001
+Token: ' ecstasy' (ID: 92563), Prob: 0.0001
+Token: ' fear' (ID: 8679), Prob: 0.0001
+Token: ' agony' (ID: 78830), Prob: 0.0001
+Token: ' profound' (ID: 27155), Prob: 0.0001
+Token: ' sympathy' (ID: 45984), Prob: 0.0001
+Token: ' need' (ID: 1184), Prob: 0.0001
+Token: ' romantic' (ID: 23467), Prob: 0.0001
+Token: ' rage' (ID: 32949), Prob: 0.0001
+Token: ' anguish' (ID: 94922), Prob: 0.0001
+Token: ' compassion' (ID: 29381), Prob: 0.0001
+Token: ' jealousy' (ID: 79722), Prob: 0.0001
+Token: ' want' (ID: 1366), Prob: 0.0001
+Token: ' disappointment' (ID: 40598), Prob: 0.0001
+Token: ' misery' (ID: 57601), Prob: 0.0001
+Token: ' one' (ID: 825), Prob: 0.0001
+Token: ' getting' (ID: 3709), Prob: 0.0001
+Token: ' raw' (ID: 7112), Prob: 0.0001
+Token: ' vulnerability' (ID: 33004), Prob: 0.0001
+Token: ' eup' (ID: 63943), Prob: 0.0001
+Token: ' thoughts' (ID: 11303), Prob: 0.0001
+Token: ' makes' (ID: 3643), Prob: 0.0001
+
+== Ranked Concepts (Clusters) ==
+Rank 1 | Centroid: ' feelings' | Score: 0.0183
+  Tokens: [' feeling', ' feelings', ' thoughts']
+Rank 2 | Centroid: ' something' | Score: 0.0139
+  Tokens: [' something', ' someone', ' everything']
+Rank 3 | Centroid: ' make' | Score: 0.0132
+  Tokens: [' making', ' make', ' Make', ' makes']
+Rank 4 | Centroid: ' emotions' | Score: 0.0105
+  Tokens: [' emotions', ' emotion', ' emotional']
+Rank 5 | Centroid: ' tears' | Score: 0.0048
+  Tokens: [' tears', ' crying']
+Rank 6 | Centroid: ' anguish' | Score: 0.0043
+  Tokens: [' sadness', ' sorrow', ' despair', ' grief', ' agony', ' anguish', ' misery']
+Rank 7 | Centroid: ' profound' | Score: 0.0040
+  Tokens: [' intense', ' strong', ' deep', ' overwhelming', ' extreme', ' profound']
+Rank 8 | Centroid: ' love' | Score: 0.0036
+  Tokens: [' love', ' loving', ' affection', ' awe']
+Rank 9 | Centroid: ' want' | Score: 0.0032
+  Tokens: [' wanting', ' needing', ' desire', ' need', ' want']
+Rank 10 | Centroid: ' admiration' | Score: 0.0024
+  Tokens: [' gratitude', ' admiration', ' jealousy']
+Rank 11 | Centroid: ' anger' | Score: 0.0022
+  Tokens: [' anger', ' rage']
+Rank 12 | Centroid: ' frustration' | Score: 0.0017
+  Tokens: [' frustration', ' loneliness', ' disappointment', ' vulnerability']
+Rank 13 | Centroid: ' pain' | Score: 0.0016
+  Tokens: [' pain']
+Rank 14 | Centroid: ' joy' | Score: 0.0014
+  Tokens: [' joy', ' happiness']
+Rank 15 | Centroid: ' longing' | Score: 0.0010
+  Tokens: [' longing']
+Rank 16 | Centroid: ' compassion' | Score: 0.0007
+  Tokens: [' empathy', ' pity', ' sympathy', ' compassion']
+Rank 17 | Centroid: ' ecstasy' | Score: 0.0006
+  Tokens: [' excitement', ' ecstasy', ' eup']
+Rank 18 | Centroid: ' raw' | Score: 0.0006
+  Tokens: [' self', ' pure', ' one', ' raw']
+Rank 19 | Centroid: ' regret' | Score: 0.0003
+  Tokens: [' regret', ' fear']
+Rank 20 | Centroid: ' heartfelt' | Score: 0.0002
+  Tokens: [' heartfelt', ' romantic']
+Rank 21 | Centroid: ' getting' | Score: 0.0001
+  Tokens: [' getting']
+
+**Chosen Concept:** Rank 1

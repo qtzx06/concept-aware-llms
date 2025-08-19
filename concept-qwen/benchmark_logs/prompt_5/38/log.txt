@@ -1,59 +1,95 @@
 --- Step 38 Log ---
 
 == Filtered Candidates ==
-Token: ' compared' (ID: 7707), Prob: 0.0013
-Token: ' according' (ID: 4092), Prob: 0.0008
-Token: ' every' (ID: 1449), Prob: 0.0006
-Token: ' time' (ID: 882), Prob: 0.0003
-Token: ' due' (ID: 4152), Prob: 0.0003
-Token: ' unless' (ID: 7241), Prob: 0.0003
-Token: ' instead' (ID: 4518), Prob: 0.0002
-Token: ' rather' (ID: 4751), Prob: 0.0002
-Token: ' based' (ID: 3118), Prob: 0.0002
-Token: ' today' (ID: 3351), Prob: 0.0002
-Token: ' using' (ID: 1667), Prob: 0.0001
-Token: ' without' (ID: 2041), Prob: 0.0001
-Token: ' one' (ID: 825), Prob: 0.0001
-Token: ' midnight' (ID: 32333), Prob: 0.0001
-Token: ' depending' (ID: 11649), Prob: 0.0001
-Token: ' noon' (ID: 37145), Prob: 0.0001
-Token: ' tomorrow' (ID: 16577), Prob: 0.0001
-Token: ' regardless' (ID: 15484), Prob: 0.0000
-Token: ' next' (ID: 1790), Prob: 0.0000
-Token: ' arriving' (ID: 32011), Prob: 0.0000
-Token: ' even' (ID: 1496), Prob: 0.0000
-Token: ' since' (ID: 2474), Prob: 0.0000
-Token: ' whenever' (ID: 15356), Prob: 0.0000
-Token: ' starting' (ID: 5916), Prob: 0.0000
-Token: ' Monday' (ID: 7014), Prob: 0.0000
-Token: ' going' (ID: 2087), Prob: 0.0000
+Token: ' points' (ID: 3501), Prob: 0.0179
+Token: ' Points' (ID: 20725), Prob: 0.0085
+Token: ' Point' (ID: 5126), Prob: 0.0011
+Token: ' Explanation' (ID: 71287), Prob: 0.0004
+Token: ' Type' (ID: 3990), Prob: 0.0003
+Token: ' Details' (ID: 12309), Prob: 0.0003
+Token: ' point' (ID: 1459), Prob: 0.0003
+Token: ' Sheet' (ID: 27741), Prob: 0.0003
+Token: ' either' (ID: 2987), Prob: 0.0002
+Token: ' Check' (ID: 4248), Prob: 0.0002
+Token: ' Description' (ID: 7662), Prob: 0.0002
+Token: ' details' (ID: 3565), Prob: 0.0002
+Token: ' type' (ID: 943), Prob: 0.0001
+Token: ' According' (ID: 10548), Prob: 0.0001
+Token: ' according' (ID: 4092), Prob: 0.0001
+Token: ' whether' (ID: 3425), Prob: 0.0001
+Token: ' description' (ID: 4008), Prob: 0.0000
+Token: ' correct' (ID: 4396), Prob: 0.0000
+Token: ' Line' (ID: 7083), Prob: 0.0000
+Token: ' Bank' (ID: 8547), Prob: 0.0000
+Token: ' Correct' (ID: 39970), Prob: 0.0000
+Token: ' sheet' (ID: 10834), Prob: 0.0000
+Token: ' form' (ID: 1352), Prob: 0.0000
+Token: ' explanation' (ID: 16148), Prob: 0.0000
+Token: ' Either' (ID: 20988), Prob: 0.0000
+Token: ' contains' (ID: 5610), Prob: 0.0000
+Token: ' Constraints' (ID: 87473), Prob: 0.0000
+Token: ' must' (ID: 1969), Prob: 0.0000
+Token: ' Code' (ID: 6119), Prob: 0.0000
+Token: ' Summary' (ID: 21517), Prob: 0.0000
+Token: ' Answer' (ID: 21806), Prob: 0.0000
+Token: ' check' (ID: 1779), Prob: 0.0000
+Token: ' Review' (ID: 10294), Prob: 0.0000
+Token: ' Button' (ID: 6601), Prob: 0.0000
+Token: ' checks' (ID: 12341), Prob: 0.0000
+Token: ' Rules' (ID: 22847), Prob: 0.0000
+Token: ' Verified' (ID: 63169), Prob: 0.0000
+Token: ' List' (ID: 1759), Prob: 0.0000
+Token: ' format' (ID: 3561), Prob: 0.0000
+Token: ' Analysis' (ID: 18320), Prob: 0.0000
+Token: ' Yes' (ID: 7414), Prob: 0.0000
+Token: ' Style' (ID: 11913), Prob: 0.0000
+Token: ' Maker' (ID: 40528), Prob: 0.0000
+Token: ' based' (ID: 3118), Prob: 0.0000
+Token: ' Key' (ID: 5309), Prob: 0.0000
+Token: ' credits' (ID: 20141), Prob: 0.0000
+Token: ' style' (ID: 1707), Prob: 0.0000
+Token: ' via' (ID: 4566), Prob: 0.0000
+Token: ' Search' (ID: 7542), Prob: 0.0000
+Token: ' refers' (ID: 19257), Prob: 0.0000
+Token: ' Sentence' (ID: 79542), Prob: 0.0000
+Token: ' key' (ID: 1376), Prob: 0.0000
 
 == Ranked Concepts (Clusters) ==
-Rank 1 | Concept Score: 0.0013
-  Tokens: [' compared']
-Rank 2 | Concept Score: 0.0010
-  Tokens: [' according', ' based', ' depending']
-Rank 3 | Concept Score: 0.0006
-  Tokens: [' every', ' whenever']
-Rank 4 | Concept Score: 0.0005
-  Tokens: [' instead', ' rather']
-Rank 5 | Concept Score: 0.0004
-  Tokens: [' time', ' one']
-Rank 6 | Concept Score: 0.0004
-  Tokens: [' unless', ' without']
-Rank 7 | Concept Score: 0.0003
-  Tokens: [' due', ' since']
-Rank 8 | Concept Score: 0.0002
-  Tokens: [' today', ' tomorrow']
-Rank 9 | Concept Score: 0.0002
-  Tokens: [' midnight', ' noon', ' Monday']
-Rank 10 | Concept Score: 0.0001
-  Tokens: [' using']
-Rank 11 | Concept Score: 0.0001
-  Tokens: [' arriving', ' starting', ' going']
-Rank 12 | Concept Score: 0.0001
-  Tokens: [' regardless', ' even']
-Rank 13 | Concept Score: 0.0000
-  Tokens: [' next']
+Rank 1 | Centroid: ' points' | Score: 0.0278
+  Tokens: [' points', ' Points', ' Point', ' point']
+Rank 2 | Centroid: ' Description' | Score: 0.0007
+  Tokens: [' Explanation', ' Description', ' description', ' explanation', ' Summary', ' Review', ' Analysis']
+Rank 3 | Centroid: ' Details' | Score: 0.0005
+  Tokens: [' Details', ' details', ' contains']
+Rank 4 | Centroid: ' Type' | Score: 0.0004
+  Tokens: [' Type', ' type']
+Rank 5 | Centroid: ' Sheet' | Score: 0.0003
+  Tokens: [' Sheet', ' sheet']
+Rank 6 | Centroid: ' either' | Score: 0.0003
+  Tokens: [' either', ' whether', ' Either']
+Rank 7 | Centroid: ' check' | Score: 0.0002
+  Tokens: [' Check', ' check', ' checks']
+Rank 8 | Centroid: ' according' | Score: 0.0002
+  Tokens: [' According', ' according', ' based', ' refers']
+Rank 9 | Centroid: ' Button' | Score: 0.0001
+  Tokens: [' Line', ' Bank', ' Button', ' List']
+Rank 10 | Centroid: ' Correct' | Score: 0.0001
+  Tokens: [' correct', ' Correct', ' Yes']
+Rank 11 | Centroid: ' Constraints' | Score: 0.0001
+  Tokens: [' Constraints', ' Code', ' Rules', ' Maker', ' Sentence']
+Rank 12 | Centroid: ' style' | Score: 0.0001
+  Tokens: [' form', ' format', ' Style', ' style']
+Rank 13 | Centroid: ' must' | Score: 0.0000
+  Tokens: [' must', ' via']
+Rank 14 | Centroid: ' Key' | Score: 0.0000
+  Tokens: [' Key', ' key']
+Rank 15 | Centroid: ' Answer' | Score: 0.0000
+  Tokens: [' Answer']
+Rank 16 | Centroid: ' Verified' | Score: 0.0000
+  Tokens: [' Verified']
+Rank 17 | Centroid: ' credits' | Score: 0.0000
+  Tokens: [' credits']
+Rank 18 | Centroid: ' Search' | Score: 0.0000
+  Tokens: [' Search']
 
-**Chosen Concept:** Rank 1 with score 0.0013
+**Chosen Concept:** Rank 1

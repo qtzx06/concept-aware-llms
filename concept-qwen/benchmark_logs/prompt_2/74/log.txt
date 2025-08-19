@@ -1,133 +1,82 @@
 --- Step 74 Log ---
 
 == Filtered Candidates ==
-Token: ' patients' (ID: 6835), Prob: 0.4336
-Token: ' first' (ID: 1156), Prob: 0.2637
-Token: ' group' (ID: 1874), Prob: 0.0403
-Token: ' patient' (ID: 8720), Prob: 0.0203
-Token: ' people' (ID: 1251), Prob: 0.0168
-Token: ' infected' (ID: 28274), Prob: 0.0168
-Token: ' initial' (ID: 2856), Prob: 0.0140
-Token: ' researchers' (ID: 11811), Prob: 0.0116
-Token: ' entire' (ID: 4453), Prob: 0.0109
-Token: ' majority' (ID: 8686), Prob: 0.0066
-Token: ' last' (ID: 1537), Prob: 0.0062
-Token: ' original' (ID: 4024), Prob: 0.0058
-Token: ' scientists' (ID: 13923), Prob: 0.0042
-Token: ' astronauts' (ID: 68422), Prob: 0.0033
-Token: ' research' (ID: 3412), Prob: 0.0029
-Token: ' population' (ID: 7042), Prob: 0.0027
-Token: ' planet' (ID: 11580), Prob: 0.0026
-Token: ' Mars' (ID: 21048), Prob: 0.0024
-Token: ' team' (ID: 2083), Prob: 0.0023
-Token: ' three' (ID: 2326), Prob: 0.0023
-Token: ' disease' (ID: 8457), Prob: 0.0023
-Token: ' humans' (ID: 12677), Prob: 0.0021
-Token: ' survivors' (ID: 31596), Prob: 0.0018
-Token: ' explor' (ID: 47439), Prob: 0.0018
-Token: ' test' (ID: 1273), Prob: 0.0017
-Token: ' pilot' (ID: 17708), Prob: 0.0016
-Token: ' individuals' (ID: 7775), Prob: 0.0015
-Token: ' participants' (ID: 13026), Prob: 0.0015
-Token: ' remaining' (ID: 9664), Prob: 0.0014
-Token: ' plants' (ID: 10779), Prob: 0.0014
-Token: ' aliens' (ID: 36119), Prob: 0.0013
-Token: ' two' (ID: 1378), Prob: 0.0012
-Token: ' human' (ID: 3738), Prob: 0.0012
-Token: ' inhabitants' (ID: 39671), Prob: 0.0012
-Token: ' new' (ID: 501), Prob: 0.0011
-Token: ' main' (ID: 1887), Prob: 0.0011
-Token: ' animals' (ID: 9898), Prob: 0.0011
-Token: ' ones' (ID: 6174), Prob: 0.0011
-Token: ' experiment' (ID: 9342), Prob: 0.0011
-Token: ' crew' (ID: 13627), Prob: 0.0011
-Token: ' organisms' (ID: 43204), Prob: 0.0010
-Token: ' Martian' (ID: 81028), Prob: 0.0010
-Token: ' previous' (ID: 3681), Prob: 0.0009
-Token: ' victims' (ID: 12415), Prob: 0.0009
-Token: ' sick' (ID: 14036), Prob: 0.0009
-Token: ' soldiers' (ID: 14856), Prob: 0.0009
-Token: ' early' (ID: 4124), Prob: 0.0009
-Token: ' students' (ID: 4143), Prob: 0.0009
-Token: ' five' (ID: 4236), Prob: 0.0009
-Token: ' many' (ID: 1657), Prob: 0.0007
-Token: ' young' (ID: 3908), Prob: 0.0007
-Token: ' residents' (ID: 10826), Prob: 0.0007
-Token: ' passengers' (ID: 22172), Prob: 0.0007
-Token: ' volunteers' (ID: 23010), Prob: 0.0007
-Token: ' pilots' (ID: 35277), Prob: 0.0007
-Token: ' stranded' (ID: 62105), Prob: 0.0007
-Token: ' sample' (ID: 6077), Prob: 0.0006
-Token: ' doctors' (ID: 16026), Prob: 0.0006
-Token: ' researcher' (ID: 31085), Prob: 0.0006
-Token: ' colony' (ID: 40936), Prob: 0.0006
-Token: ' health' (ID: 2820), Prob: 0.0005
-Token: ' hospital' (ID: 8777), Prob: 0.0005
-Token: ' already' (ID: 2669), Prob: 0.0005
-Token: ' third' (ID: 4843), Prob: 0.0005
-Token: ' initially' (ID: 15102), Prob: 0.0005
-Token: ' second' (ID: 2086), Prob: 0.0005
-Token: ' thousands' (ID: 9037), Prob: 0.0005
-Token: ' healthy' (ID: 9314), Prob: 0.0005
-Token: ' virus' (ID: 16770), Prob: 0.0005
-Token: ' surviving' (ID: 39646), Prob: 0.0005
-Token: ' children' (ID: 2841), Prob: 0.0004
-Token: ' whole' (ID: 4361), Prob: 0.0004
-Token: ' trapped' (ID: 30591), Prob: 0.0004
-Token: ' local' (ID: 2205), Prob: 0.0004
-Token: ' small' (ID: 2613), Prob: 0.0004
-Token: ' planets' (ID: 32875), Prob: 0.0004
-Token: ' medical' (ID: 6457), Prob: 0.0004
-Token: ' cancer' (ID: 9387), Prob: 0.0004
-Token: ' experimental' (ID: 22000), Prob: 0.0004
-Token: ' scientist' (ID: 27468), Prob: 0.0004
-Token: ' villagers' (ID: 60821), Prob: 0.0004
-Token: ' person' (ID: 1697), Prob: 0.0004
-Token: ' players' (ID: 4217), Prob: 0.0004
-Token: ' groups' (ID: 5203), Prob: 0.0004
-Token: ' Earth' (ID: 9237), Prob: 0.0004
-Token: ' injured' (ID: 15532), Prob: 0.0004
-Token: ' captured' (ID: 17006), Prob: 0.0004
-Token: ' current' (ID: 1482), Prob: 0.0003
-Token: ' six' (ID: 4743), Prob: 0.0003
-Token: ' doctor' (ID: 10668), Prob: 0.0003
-Token: ' newly' (ID: 13631), Prob: 0.0003
-Token: ' camp' (ID: 3113), Prob: 0.0003
+Token: ' something' (ID: 2494), Prob: 0.9727
+Token: ' etc' (ID: 4992), Prob: 0.0108
+Token: ' yes' (ID: 9834), Prob: 0.0017
+Token: ' anything' (ID: 4113), Prob: 0.0003
+Token: ' maybe' (ID: 7196), Prob: 0.0001
+Token: ' even' (ID: 1496), Prob: 0.0001
+Token: ' sometimes' (ID: 7025), Prob: 0.0001
+Token: ' someone' (ID: 4325), Prob: 0.0000
+Token: ' somewhere' (ID: 14696), Prob: 0.0000
+Token: ' nothing' (ID: 4302), Prob: 0.0000
+Token: ' whatever' (ID: 8820), Prob: 0.0000
+Token: ' Something' (ID: 24656), Prob: 0.0000
+Token: ' option' (ID: 2999), Prob: 0.0000
+Token: ' except' (ID: 3650), Prob: 0.0000
+Token: ' everything' (ID: 4297), Prob: 0.0000
+Token: ' also' (ID: 1083), Prob: 0.0000
+Token: ' depending' (ID: 11649), Prob: 0.0000
+Token: ' thing' (ID: 3166), Prob: 0.0000
+Token: ' similar' (ID: 4428), Prob: 0.0000
+Token: ' another' (ID: 2441), Prob: 0.0000
+Token: ' possibly' (ID: 10767), Prob: 0.0000
+Token: ' plus' (ID: 5519), Prob: 0.0000
+Token: ' certain' (ID: 3654), Prob: 0.0000
+Token: 'something' (ID: 33331), Prob: 0.0000
+Token: ' things' (ID: 2513), Prob: 0.0000
+Token: ' one' (ID: 825), Prob: 0.0000
+Token: ' som' (ID: 1757), Prob: 0.0000
+Token: ' YES' (ID: 14080), Prob: 0.0000
+Token: ' since' (ID: 2474), Prob: 0.0000
+Token: ' answer' (ID: 4226), Prob: 0.0000
+Token: ' based' (ID: 3118), Prob: 0.0000
+Token: ' possible' (ID: 3204), Prob: 0.0000
+Token: ' okay' (ID: 16910), Prob: 0.0000
+Token: ' two' (ID: 1378), Prob: 0.0000
+Token: ' options' (ID: 2606), Prob: 0.0000
+Token: ' specific' (ID: 3151), Prob: 0.0000
+Token: ' three' (ID: 2326), Prob: 0.0000
+Token: ' example' (ID: 3110), Prob: 0.0000
+Token: ' sure' (ID: 2704), Prob: 0.0000
+Token: ' enough' (ID: 3322), Prob: 0.0000
+Token: ' however' (ID: 4764), Prob: 0.0000
+Token: ' otherwise' (ID: 5937), Prob: 0.0000
+Token: ' unless' (ID: 7241), Prob: 0.0000
+Token: ' perhaps' (ID: 8365), Prob: 0.0000
+Token: ' sorry' (ID: 14589), Prob: 0.0000
 
 == Ranked Concepts (Clusters) ==
-Rank 1 | Concept Score: 0.4609
-  Tokens: [' patients', ' patient', ' disease', ' sick', ' doctors', ' health', ' hospital', ' healthy', ' medical', ' cancer', ' doctor']
-Rank 2 | Concept Score: 0.2715
-  Tokens: [' first', ' last', ' third', ' second']
-Rank 3 | Concept Score: 0.0466
-  Tokens: [' group', ' population', ' team', ' ones', ' groups']
-Rank 4 | Concept Score: 0.0261
-  Tokens: [' initial', ' original', ' new', ' main', ' previous', ' early', ' already', ' initially', ' local', ' small', ' current']
-Rank 5 | Concept Score: 0.0198
-  Tokens: [' researchers', ' scientists', ' research', ' researcher', ' scientist']
-Rank 6 | Concept Score: 0.0197
-  Tokens: [' infected', ' stranded', ' virus', ' surviving', ' trapped', ' injured', ' captured']
-Rank 7 | Concept Score: 0.0188
-  Tokens: [' people', ' individuals', ' children']
-Rank 8 | Concept Score: 0.0179
-  Tokens: [' entire', ' majority', ' whole']
-Rank 9 | Concept Score: 0.0114
-  Tokens: [' astronauts', ' planet', ' Mars', ' aliens', ' Martian', ' planets', ' Earth']
-Rank 10 | Concept Score: 0.0102
-  Tokens: [' survivors', ' participants', ' inhabitants', ' victims', ' soldiers', ' students', ' residents', ' passengers', ' volunteers', ' villagers', ' players']
-Rank 11 | Concept Score: 0.0073
-  Tokens: [' humans', ' plants', ' human', ' animals', ' organisms', ' person']
-Rank 12 | Concept Score: 0.0055
-  Tokens: [' explor', ' test', ' experiment', ' sample', ' experimental']
-Rank 13 | Concept Score: 0.0055
-  Tokens: [' three', ' two', ' five', ' many', ' six']
-Rank 14 | Concept Score: 0.0029
-  Tokens: [' remaining', ' young', ' thousands', ' newly']
-Rank 15 | Concept Score: 0.0022
-  Tokens: [' pilot', ' pilots']
-Rank 16 | Concept Score: 0.0011
-  Tokens: [' crew']
-Rank 17 | Concept Score: 0.0009
-  Tokens: [' colony', ' camp']
+Rank 1 | Centroid: ' something' | Score: 0.9727
+  Tokens: [' something', ' someone', ' somewhere', ' Something', 'something']
+Rank 2 | Centroid: ' certain' | Score: 0.0108
+  Tokens: [' etc', ' similar', ' certain', ' specific']
+Rank 3 | Centroid: ' yes' | Score: 0.0017
+  Tokens: [' yes', ' YES', ' sure']
+Rank 4 | Centroid: ' things' | Score: 0.0004
+  Tokens: [' anything', ' nothing', ' whatever', ' everything', ' thing', ' things']
+Rank 5 | Centroid: ' perhaps' | Score: 0.0002
+  Tokens: [' maybe', ' sometimes', ' possibly', ' possible', ' perhaps']
+Rank 6 | Centroid: ' even' | Score: 0.0001
+  Tokens: [' even']
+Rank 7 | Centroid: ' unless' | Score: 0.0000
+  Tokens: [' except', ' depending', ' plus', ' since', ' based', ' unless']
+Rank 8 | Centroid: ' option' | Score: 0.0000
+  Tokens: [' option', ' answer', ' options']
+Rank 9 | Centroid: ' two' | Score: 0.0000
+  Tokens: [' one', ' two', ' three']
+Rank 10 | Centroid: ' also' | Score: 0.0000
+  Tokens: [' also', ' example']
+Rank 11 | Centroid: ' okay' | Score: 0.0000
+  Tokens: [' okay', ' sorry']
+Rank 12 | Centroid: ' another' | Score: 0.0000
+  Tokens: [' another']
+Rank 13 | Centroid: ' however' | Score: 0.0000
+  Tokens: [' however', ' otherwise']
+Rank 14 | Centroid: ' som' | Score: 0.0000
+  Tokens: [' som']
+Rank 15 | Centroid: ' enough' | Score: 0.0000
+  Tokens: [' enough']
 
-**Chosen Concept:** Rank 1 with score 0.4609
+**Chosen Concept:** Rank 1

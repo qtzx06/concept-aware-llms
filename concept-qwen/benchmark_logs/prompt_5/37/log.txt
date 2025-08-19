@@ -1,87 +1,89 @@
 --- Step 37 Log ---
 
 == Filtered Candidates ==
-Token: ' earlier' (ID: 6788), Prob: 0.0547
-Token: ' ahead' (ID: 8305), Prob: 0.0481
-Token: ' later' (ID: 2937), Prob: 0.0122
-Token: ' prior' (ID: 4867), Prob: 0.0107
-Token: ' away' (ID: 3123), Prob: 0.0033
-Token: ' behind' (ID: 4815), Prob: 0.0012
-Token: ' forward' (ID: 4637), Prob: 0.0011
-Token: ' less' (ID: 2686), Prob: 0.0009
-Token: ' back' (ID: 1182), Prob: 0.0006
-Token: ' per' (ID: 817), Prob: 0.0006
-Token: ' apart' (ID: 10747), Prob: 0.0006
-Token: ' early' (ID: 4124), Prob: 0.0006
-Token: ' late' (ID: 3309), Prob: 0.0005
-Token: ' either' (ID: 2987), Prob: 0.0005
-Token: ' past' (ID: 3267), Prob: 0.0005
-Token: ' ago' (ID: 4134), Prob: 0.0005
-Token: ' east' (ID: 10984), Prob: 0.0004
-Token: ' within' (ID: 2878), Prob: 0.0003
-Token: ' faster' (ID: 10596), Prob: 0.0002
-Token: ' regardless' (ID: 15484), Prob: 0.0002
-Token: ' sooner' (ID: 30273), Prob: 0.0002
-Token: ' north' (ID: 10200), Prob: 0.0002
-Token: ' every' (ID: 1449), Prob: 0.0002
-Token: ' different' (ID: 2155), Prob: 0.0002
-Token: ' directly' (ID: 5961), Prob: 0.0002
-Token: ' west' (ID: 9710), Prob: 0.0002
-Token: ' straight' (ID: 7678), Prob: 0.0001
-Token: ' beyond' (ID: 7797), Prob: 0.0001
-Token: ' difference' (ID: 6672), Prob: 0.0001
-Token: ' according' (ID: 4092), Prob: 0.0001
-Token: ' without' (ID: 2041), Prob: 0.0001
-Token: ' immediately' (ID: 7069), Prob: 0.0001
-Token: ' time' (ID: 882), Prob: 0.0001
-Token: ' inside' (ID: 4766), Prob: 0.0001
-Token: ' outside' (ID: 4889), Prob: 0.0001
-Token: ' one' (ID: 825), Prob: 0.0001
-Token: ' even' (ID: 1496), Prob: 0.0001
-Token: ' instead' (ID: 4518), Prob: 0.0001
-Token: ' beforehand' (ID: 51059), Prob: 0.0001
-Token: ' closer' (ID: 12128), Prob: 0.0001
-Token: ' depending' (ID: 11649), Prob: 0.0001
-Token: ' using' (ID: 1667), Prob: 0.0001
-Token: ' front' (ID: 4065), Prob: 0.0001
-Token: ' south' (ID: 9806), Prob: 0.0001
-Token: ' following' (ID: 2701), Prob: 0.0001
-Token: ' previous' (ID: 3681), Prob: 0.0001
-Token: ' travel' (ID: 5821), Prob: 0.0001
-Token: ' exactly' (ID: 6896), Prob: 0.0001
-Token: ' differently' (ID: 21303), Prob: 0.0001
-Token: ' since' (ID: 2474), Prob: 0.0000
+Token: 'Answer' (ID: 16141), Prob: 0.1025
+Token: 'Based' (ID: 28715), Prob: 0.0427
+Token: 'Question' (ID: 14582), Prob: 0.0244
+Token: 'Possible' (ID: 65222), Prob: 0.0157
+Token: 'Explanation' (ID: 69769), Prob: 0.0131
+Token: 'Word' (ID: 10879), Prob: 0.0066
+Token: 'Please' (ID: 5501), Prob: 0.0058
+Token: 'Okay' (ID: 32313), Prob: 0.0051
+Token: 'Let' (ID: 10061), Prob: 0.0035
+Token: 'Choose' (ID: 24051), Prob: 0.0035
+Token: 'First' (ID: 5338), Prob: 0.0033
+Token: 'Reason' (ID: 25139), Prob: 0.0026
+Token: 'Think' (ID: 38687), Prob: 0.0026
+Token: 'Note' (ID: 9112), Prob: 0.0018
+Token: 'Since' (ID: 12549), Prob: 0.0018
+Token: 'Example' (ID: 13314), Prob: 0.0018
+Token: 'Would' (ID: 27989), Prob: 0.0018
+Token: 'Source' (ID: 3608), Prob: 0.0017
+Token: 'Select' (ID: 3379), Prob: 0.0016
+Token: 'Step' (ID: 8304), Prob: 0.0016
+Token: 'Generate' (ID: 31115), Prob: 0.0016
+Token: 'Check' (ID: 3973), Prob: 0.0014
+Token: 'Problem' (ID: 31198), Prob: 0.0014
+Token: 'Make' (ID: 8078), Prob: 0.0013
+Token: 'Maybe' (ID: 21390), Prob: 0.0012
+Token: 'Consider' (ID: 37175), Prob: 0.0012
+Token: 'Therefore' (ID: 54815), Prob: 0.0012
+Token: 'Use' (ID: 10253), Prob: 0.0011
+Token: 'Describe' (ID: 74785), Prob: 0.0011
+Token: 'Ass' (ID: 5615), Prob: 0.0010
+Token: 'Final' (ID: 19357), Prob: 0.0010
+Token: 'Jake' (ID: 94236), Prob: 0.0010
+Token: 'According' (ID: 11190), Prob: 0.0009
+Token: 'Review' (ID: 19432), Prob: 0.0009
+Token: 'Time' (ID: 1462), Prob: 0.0009
+Token: 'One' (ID: 3966), Prob: 0.0009
+Token: 'Assistant' (ID: 71703), Prob: 0.0009
+Token: 'Choices' (ID: 89283), Prob: 0.0009
+Token: 'Discuss' (ID: 96554), Prob: 0.0009
+Token: 'Given' (ID: 22043), Prob: 0.0008
+Token: 'Rew' (ID: 58465), Prob: 0.0008
+Token: 'Discussion' (ID: 71021), Prob: 0.0008
 
 == Ranked Concepts (Clusters) ==
-Rank 1 | Concept Score: 0.0679
-  Tokens: [' earlier', ' later', ' early', ' late']
-Rank 2 | Concept Score: 0.0493
-  Tokens: [' ahead', ' behind']
-Rank 3 | Concept Score: 0.0113
-  Tokens: [' prior', ' past', ' previous']
-Rank 4 | Concept Score: 0.0044
-  Tokens: [' away', ' apart', ' ago']
-Rank 5 | Concept Score: 0.0018
-  Tokens: [' forward', ' back', ' front']
-Rank 6 | Concept Score: 0.0014
-  Tokens: [' less', ' faster', ' sooner', ' closer']
-Rank 7 | Concept Score: 0.0010
-  Tokens: [' per', ' every', ' one', ' using', ' following']
-Rank 8 | Concept Score: 0.0009
-  Tokens: [' east', ' north', ' west', ' south']
-Rank 9 | Concept Score: 0.0008
-  Tokens: [' regardless', ' according', ' without', ' even', ' instead', ' depending', ' since']
-Rank 10 | Concept Score: 0.0007
-  Tokens: [' within', ' beyond', ' inside', ' outside']
-Rank 11 | Concept Score: 0.0005
-  Tokens: [' directly', ' straight', ' immediately', ' exactly']
-Rank 12 | Concept Score: 0.0005
-  Tokens: [' either']
-Rank 13 | Concept Score: 0.0004
-  Tokens: [' different', ' difference', ' differently']
-Rank 14 | Concept Score: 0.0002
-  Tokens: [' time', ' travel']
-Rank 15 | Concept Score: 0.0001
-  Tokens: [' beforehand']
+Rank 1 | Centroid: 'Question' | Score: 0.1279
+  Tokens: ['Answer', 'Question', 'Problem']
+Rank 2 | Centroid: 'According' | Score: 0.0476
+  Tokens: ['Based', 'Since', 'Therefore', 'According', 'Given']
+Rank 3 | Centroid: 'Maybe' | Score: 0.0221
+  Tokens: ['Possible', 'Okay', 'Maybe']
+Rank 4 | Centroid: 'Explanation' | Score: 0.0156
+  Tokens: ['Explanation', 'Reason']
+Rank 5 | Centroid: 'Please' | Score: 0.0076
+  Tokens: ['Please', 'Would']
+Rank 6 | Centroid: 'Word' | Score: 0.0066
+  Tokens: ['Word']
+Rank 7 | Centroid: 'Choose' | Score: 0.0060
+  Tokens: ['Choose', 'Select', 'Choices']
+Rank 8 | Centroid: 'Check' | Score: 0.0051
+  Tokens: ['Think', 'Check', 'Use']
+Rank 9 | Centroid: 'Let' | Score: 0.0047
+  Tokens: ['Let', 'Consider']
+Rank 10 | Centroid: 'First' | Score: 0.0042
+  Tokens: ['First', 'One']
+Rank 11 | Centroid: 'Generate' | Score: 0.0039
+  Tokens: ['Generate', 'Make', 'Describe']
+Rank 12 | Centroid: 'Discuss' | Score: 0.0027
+  Tokens: ['Review', 'Discuss', 'Discussion']
+Rank 13 | Centroid: 'Source' | Score: 0.0025
+  Tokens: ['Source', 'Time']
+Rank 14 | Centroid: 'Jake' | Score: 0.0018
+  Tokens: ['Jake', 'Rew']
+Rank 15 | Centroid: 'Example' | Score: 0.0018
+  Tokens: ['Example']
+Rank 16 | Centroid: 'Note' | Score: 0.0018
+  Tokens: ['Note']
+Rank 17 | Centroid: 'Step' | Score: 0.0016
+  Tokens: ['Step']
+Rank 18 | Centroid: 'Ass' | Score: 0.0010
+  Tokens: ['Ass']
+Rank 19 | Centroid: 'Final' | Score: 0.0010
+  Tokens: ['Final']
+Rank 20 | Centroid: 'Assistant' | Score: 0.0009
+  Tokens: ['Assistant']
 
-**Chosen Concept:** Rank 1 with score 0.0679
+**Chosen Concept:** Rank 1

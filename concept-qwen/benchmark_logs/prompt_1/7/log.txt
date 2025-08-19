@@ -1,114 +1,151 @@
 --- Step 7 Log ---
 
 == Filtered Candidates ==
-Token: ' cry' (ID: 15729), Prob: 0.1631
-Token: ' tears' (ID: 23139), Prob: 0.1533
-Token: ' crying' (ID: 30199), Prob: 0.0322
-Token: ' heart' (ID: 4746), Prob: 0.0236
-Token: ' cried' (ID: 38069), Prob: 0.0236
-Token: ' feel' (ID: 2666), Prob: 0.0134
-Token: ' tear' (ID: 17576), Prob: 0.0134
-Token: ' scream' (ID: 45689), Prob: 0.0118
-Token: ' love' (ID: 2948), Prob: 0.0104
-Token: ' eyes' (ID: 6414), Prob: 0.0104
-Token: ' pain' (ID: 6646), Prob: 0.0098
-Token: ' emotion' (ID: 19772), Prob: 0.0092
-Token: ' fall' (ID: 4399), Prob: 0.0081
-Token: ' sadness' (ID: 50878), Prob: 0.0072
-Token: ' sorrow' (ID: 57496), Prob: 0.0072
-Token: ' feeling' (ID: 8266), Prob: 0.0067
-Token: ' break' (ID: 1438), Prob: 0.0056
-Token: ' eye' (ID: 7912), Prob: 0.0044
-Token: ' sad' (ID: 12421), Prob: 0.0041
-Token: ' make' (ID: 1281), Prob: 0.0034
-Token: ' ache' (ID: 77731), Prob: 0.0034
-Token: ' grief' (ID: 37284), Prob: 0.0032
-Token: ' flow' (ID: 6396), Prob: 0.0030
-Token: ' lose' (ID: 9052), Prob: 0.0030
-Token: ' emotional' (ID: 14269), Prob: 0.0028
-Token: ' joy' (ID: 15888), Prob: 0.0028
-Token: ' smile' (ID: 15289), Prob: 0.0026
-Token: ' cries' (ID: 57745), Prob: 0.0026
-Token: ' laugh' (ID: 12550), Prob: 0.0025
-Token: ' shed' (ID: 24354), Prob: 0.0025
-Token: ' emotions' (ID: 21261), Prob: 0.0023
-Token: ' lost' (ID: 5558), Prob: 0.0022
-Token: ' broken' (ID: 10865), Prob: 0.0022
-Token: ' feelings' (ID: 15650), Prob: 0.0021
-Token: ' let' (ID: 1077), Prob: 0.0018
-Token: ' rainbow' (ID: 47613), Prob: 0.0018
-Token: ' crush' (ID: 5030), Prob: 0.0017
-Token: ' beat' (ID: 9382), Prob: 0.0017
-Token: ' soft' (ID: 8413), Prob: 0.0016
-Token: ' look' (ID: 1401), Prob: 0.0015
-Token: ' broke' (ID: 14422), Prob: 0.0015
-Token: ' angry' (ID: 18514), Prob: 0.0015
-Token: ' mother' (ID: 6554), Prob: 0.0014
-Token: ' sob' (ID: 11493), Prob: 0.0013
-Token: ' soul' (ID: 13527), Prob: 0.0013
-Token: ' despair' (ID: 45896), Prob: 0.0013
-Token: ' run' (ID: 1598), Prob: 0.0012
-Token: ' express' (ID: 3158), Prob: 0.0012
-Token: ' touch' (ID: 5796), Prob: 0.0012
-Token: ' happy' (ID: 6247), Prob: 0.0012
-Token: ' lament' (ID: 50372), Prob: 0.0012
-Token: ' bleed' (ID: 66006), Prob: 0.0012
-Token: ' loss' (ID: 4709), Prob: 0.0012
-Token: ' hurt' (ID: 12898), Prob: 0.0012
-Token: ' anger' (ID: 19234), Prob: 0.0012
-Token: ' regret' (ID: 22231), Prob: 0.0012
-Token: ' longing' (ID: 78322), Prob: 0.0012
-Token: ' stream' (ID: 4269), Prob: 0.0011
-Token: ' felt' (ID: 6476), Prob: 0.0011
-Token: ' rain' (ID: 11174), Prob: 0.0011
-Token: ' show' (ID: 1473), Prob: 0.0010
-Token: ' passion' (ID: 11677), Prob: 0.0010
-Token: ' trembling' (ID: 91988), Prob: 0.0010
-Token: ' laughter' (ID: 42114), Prob: 0.0010
-Token: ' please' (ID: 4486), Prob: 0.0009
-Token: ' maybe' (ID: 7196), Prob: 0.0009
-Token: ' breaking' (ID: 14719), Prob: 0.0009
-Token: ' upset' (ID: 22459), Prob: 0.0009
-Token: ' hearts' (ID: 22662), Prob: 0.0009
-Token: ' mourn' (ID: 59134), Prob: 0.0009
-Token: ' get' (ID: 633), Prob: 0.0009
+Token: ' single' (ID: 3175), Prob: 0.8242
+Token: ' paragraph' (ID: 14311), Prob: 0.1260
+Token: ' sentence' (ID: 11652), Prob: 0.0133
+Token: ' one' (ID: 825), Prob: 0.0081
+Token: ' powerful' (ID: 7988), Prob: 0.0038
+Token: ' short' (ID: 2805), Prob: 0.0030
+Token: ' long' (ID: 1293), Prob: 0.0015
+Token: ' poem' (ID: 32794), Prob: 0.0014
+Token: ' line' (ID: 1555), Prob: 0.0006
+Token: ' strong' (ID: 3746), Prob: 0.0006
+Token: ' story' (ID: 3364), Prob: 0.0005
+Token: ' romantic' (ID: 23467), Prob: 0.0005
+Token: ' creative' (ID: 11521), Prob: 0.0004
+Token: ' poetic' (ID: 75434), Prob: 0.0004
+Token: ' heartfelt' (ID: 83111), Prob: 0.0004
+Token: ' really' (ID: 2167), Prob: 0.0003
+Token: ' motivational' (ID: 87359), Prob: 0.0003
+Token: ' tweet' (ID: 11809), Prob: 0.0003
+Token: ' compelling' (ID: 28622), Prob: 0.0002
+Token: ' persuasive' (ID: 65243), Prob: 0.0002
+Token: ' humorous' (ID: 69846), Prob: 0.0002
+Token: ' dramatic' (ID: 21771), Prob: 0.0002
+Token: ' request' (ID: 1681), Prob: 0.0002
+Token: ' well' (ID: 1632), Prob: 0.0002
+Token: ' super' (ID: 2256), Prob: 0.0002
+Token: ' beautiful' (ID: 6233), Prob: 0.0002
+Token: ' way' (ID: 1616), Prob: 0.0002
+Token: ' message' (ID: 1943), Prob: 0.0002
+Token: ' response' (ID: 2033), Prob: 0.0002
+Token: ' quote' (ID: 12641), Prob: 0.0002
+Token: ' mon' (ID: 1615), Prob: 0.0001
+Token: ' thought' (ID: 3381), Prob: 0.0001
+Token: ' statement' (ID: 5114), Prob: 0.0001
+Token: ' scene' (ID: 6109), Prob: 0.0001
+Token: ' passionate' (ID: 24425), Prob: 0.0001
+Token: ' description' (ID: 4008), Prob: 0.0001
+Token: ' simple' (ID: 4285), Prob: 0.0001
+Token: ' personal' (ID: 4345), Prob: 0.0001
+Token: ' highly' (ID: 7548), Prob: 0.0001
+Token: ' self' (ID: 656), Prob: 0.0001
+Token: ' pretty' (ID: 5020), Prob: 0.0001
+Token: ' song' (ID: 5492), Prob: 0.0001
+Token: ' singular' (ID: 33944), Prob: 0.0001
+Token: ' first' (ID: 1156), Prob: 0.0001
+Token: ' captivating' (ID: 85182), Prob: 0.0001
+Token: ' high' (ID: 1550), Prob: 0.0001
+Token: ' big' (ID: 2409), Prob: 0.0001
+Token: ' sad' (ID: 12421), Prob: 0.0001
+Token: ' funny' (ID: 15173), Prob: 0.0001
+Token: ' vivid' (ID: 42020), Prob: 0.0001
+Token: ' full' (ID: 2480), Prob: 0.0001
+Token: ' couple' (ID: 5625), Prob: 0.0001
+Token: ' brief' (ID: 9814), Prob: 0.0001
+Token: ' bold' (ID: 13939), Prob: 0.0001
+Token: ' metaphor' (ID: 45350), Prob: 0.0001
+Token: ' person' (ID: 1697), Prob: 0.0001
+Token: ' cry' (ID: 15729), Prob: 0.0001
+Token: ' love' (ID: 2948), Prob: 0.0001
+Token: ' concise' (ID: 63594), Prob: 0.0001
+Token: ' lyric' (ID: 68335), Prob: 0.0001
+Token: ' shocking' (ID: 33634), Prob: 0.0001
+Token: ' phrase' (ID: 17133), Prob: 0.0000
+Token: ' catchy' (ID: 85505), Prob: 0.0000
+Token: ' scenario' (ID: 15048), Prob: 0.0000
+Token: ' magical' (ID: 23702), Prob: 0.0000
+Token: ' coherent' (ID: 55787), Prob: 0.0000
+Token: ' specific' (ID: 3151), Prob: 0.0000
+Token: ' query' (ID: 3239), Prob: 0.0000
+Token: ' command' (ID: 3210), Prob: 0.0000
+Token: ' complete' (ID: 4583), Prob: 0.0000
+Token: ' prompt' (ID: 9934), Prob: 0.0000
+Token: ' joke' (ID: 21646), Prob: 0.0000
+Token: ' slogan' (ID: 51537), Prob: 0.0000
+Token: ' happy' (ID: 6247), Prob: 0.0000
+Token: ' perfectly' (ID: 13942), Prob: 0.0000
+Token: ' punch' (ID: 20380), Prob: 0.0000
+Token: ' glowing' (ID: 48492), Prob: 0.0000
+Token: ' lot' (ID: 2696), Prob: 0.0000
+Token: ' feeling' (ID: 8266), Prob: 0.0000
+Token: ' summary' (ID: 12126), Prob: 0.0000
+Token: ' punishment' (ID: 24093), Prob: 0.0000
+Token: ' final' (ID: 1590), Prob: 0.0000
+Token: ' multi' (ID: 7299), Prob: 0.0000
+Token: ' warm' (ID: 8205), Prob: 0.0000
+Token: ' descriptive' (ID: 52844), Prob: 0.0000
+Token: ' great' (ID: 2244), Prob: 0.0000
+Token: ' passage' (ID: 21085), Prob: 0.0000
+Token: ' question' (ID: 3405), Prob: 0.0000
+Token: ' quick' (ID: 3974), Prob: 0.0000
+Token: ' conversation' (ID: 10435), Prob: 0.0000
+Token: ' famous' (ID: 11245), Prob: 0.0000
+Token: ' horror' (ID: 21452), Prob: 0.0000
+Token: ' perfect' (ID: 4727), Prob: 0.0000
+Token: ' completely' (ID: 6587), Prob: 0.0000
+Token: ' thank' (ID: 9702), Prob: 0.0000
+Token: ' birthday' (ID: 15198), Prob: 0.0000
 
 == Ranked Concepts (Clusters) ==
-Rank 1 | Concept Score: 0.2344
-  Tokens: [' cry', ' crying', ' cried', ' scream', ' cries', ' trembling']
-Rank 2 | Concept Score: 0.1680
-  Tokens: [' tears', ' tear', ' crush']
-Rank 3 | Concept Score: 0.0405
-  Tokens: [' heart', ' eyes', ' eye', ' soul', ' hearts']
-Rank 4 | Concept Score: 0.0275
-  Tokens: [' sadness', ' sorrow', ' sad', ' grief', ' despair', ' lament', ' regret', ' longing', ' mourn']
-Rank 5 | Concept Score: 0.0233
-  Tokens: [' feel', ' feeling', ' feelings', ' felt']
-Rank 6 | Concept Score: 0.0155
-  Tokens: [' love', ' joy', ' happy', ' passion']
-Rank 7 | Concept Score: 0.0144
-  Tokens: [' pain', ' ache', ' hurt']
-Rank 8 | Concept Score: 0.0143
-  Tokens: [' emotion', ' emotional', ' emotions']
-Rank 9 | Concept Score: 0.0117
-  Tokens: [' make', ' let', ' look', ' express', ' show', ' please', ' maybe', ' get']
-Rank 10 | Concept Score: 0.0102
-  Tokens: [' break', ' broken', ' broke', ' breaking']
-Rank 11 | Concept Score: 0.0093
-  Tokens: [' fall', ' run']
-Rank 12 | Concept Score: 0.0084
-  Tokens: [' flow', ' rainbow', ' mother', ' stream', ' rain']
-Rank 13 | Concept Score: 0.0063
-  Tokens: [' lose', ' lost', ' loss']
-Rank 14 | Concept Score: 0.0061
-  Tokens: [' smile', ' laugh', ' laughter']
-Rank 15 | Concept Score: 0.0058
-  Tokens: [' shed', ' beat', ' soft']
-Rank 16 | Concept Score: 0.0036
-  Tokens: [' angry', ' anger', ' upset']
-Rank 17 | Concept Score: 0.0026
-  Tokens: [' sob', ' bleed']
-Rank 18 | Concept Score: 0.0012
-  Tokens: [' touch']
+Rank 1 | Centroid: ' single' | Score: 0.8320
+  Tokens: [' single', ' one', ' line', ' super', ' mon', ' self', ' first', ' multi']
+Rank 2 | Centroid: ' sentence' | Score: 0.1396
+  Tokens: [' paragraph', ' sentence', ' statement', ' phrase', ' passage']
+Rank 3 | Centroid: ' short' | Score: 0.0047
+  Tokens: [' short', ' long', ' simple', ' brief', ' quick']
+Rank 4 | Centroid: ' strong' | Score: 0.0045
+  Tokens: [' powerful', ' strong', ' bold']
+Rank 5 | Centroid: ' song' | Score: 0.0020
+  Tokens: [' poem', ' tweet', ' quote', ' song', ' lyric', ' slogan']
+Rank 6 | Centroid: ' humorous' | Score: 0.0019
+  Tokens: [' romantic', ' creative', ' poetic', ' motivational', ' humorous', ' funny', ' magical']
+Rank 7 | Centroid: ' captivating' | Score: 0.0016
+  Tokens: [' heartfelt', ' compelling', ' persuasive', ' dramatic', ' beautiful', ' passionate', ' captivating', ' vivid', ' catchy', ' glowing', ' famous']
+Rank 8 | Centroid: ' scenario' | Score: 0.0007
+  Tokens: [' story', ' scene', ' scenario', ' conversation']
+Rank 9 | Centroid: ' request' | Score: 0.0007
+  Tokens: [' request', ' message', ' response', ' query', ' command', ' prompt', ' question']
+Rank 10 | Centroid: ' pretty' | Score: 0.0005
+  Tokens: [' really', ' pretty', ' couple', ' lot']
+Rank 11 | Centroid: ' highly' | Score: 0.0005
+  Tokens: [' well', ' highly', ' high', ' big', ' great']
+Rank 12 | Centroid: ' personal' | Score: 0.0002
+  Tokens: [' personal', ' person', ' specific', ' final']
+Rank 13 | Centroid: ' descriptive' | Score: 0.0002
+  Tokens: [' description', ' concise', ' summary', ' descriptive']
+Rank 14 | Centroid: ' happy' | Score: 0.0002
+  Tokens: [' sad', ' love', ' happy', ' feeling', ' birthday']
+Rank 15 | Centroid: ' completely' | Score: 0.0002
+  Tokens: [' full', ' complete', ' perfectly', ' perfect', ' completely']
+Rank 16 | Centroid: ' way' | Score: 0.0002
+  Tokens: [' way']
+Rank 17 | Centroid: ' shocking' | Score: 0.0001
+  Tokens: [' shocking', ' punch', ' punishment', ' horror']
+Rank 18 | Centroid: ' thought' | Score: 0.0001
+  Tokens: [' thought']
+Rank 19 | Centroid: ' singular' | Score: 0.0001
+  Tokens: [' singular']
+Rank 20 | Centroid: ' cry' | Score: 0.0001
+  Tokens: [' cry', ' thank']
+Rank 21 | Centroid: ' metaphor' | Score: 0.0001
+  Tokens: [' metaphor']
+Rank 22 | Centroid: ' coherent' | Score: 0.0000
+  Tokens: [' coherent']
+Rank 23 | Centroid: ' joke' | Score: 0.0000
+  Tokens: [' joke']
+Rank 24 | Centroid: ' warm' | Score: 0.0000
+  Tokens: [' warm']
 
-**Chosen Concept:** Rank 1 with score 0.2344
+**Chosen Concept:** Rank 1

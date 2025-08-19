@@ -1,106 +1,78 @@
 --- Step 89 Log ---
 
 == Filtered Candidates ==
-Token: ' cry' (ID: 15729), Prob: 0.9922
-Token: ' crying' (ID: 30199), Prob: 0.0041
-Token: ' cried' (ID: 38069), Prob: 0.0009
-Token: ' etc' (ID: 4992), Prob: 0.0001
-Token: ' Cry' (ID: 42705), Prob: 0.0001
-Token: ' cries' (ID: 57745), Prob: 0.0001
-Token: 'cry' (ID: 61138), Prob: 0.0001
-Token: ' try' (ID: 1430), Prob: 0.0000
-Token: ' love' (ID: 2948), Prob: 0.0000
-Token: ' wait' (ID: 3783), Prob: 0.0000
-Token: ' write' (ID: 3270), Prob: 0.0000
-Token: ' repeat' (ID: 13153), Prob: 0.0000
-Token: ' cro' (ID: 14093), Prob: 0.0000
-Token: ' scream' (ID: 45689), Prob: 0.0000
-Token: ' please' (ID: 4486), Prob: 0.0000
-Token: ' sorry' (ID: 14589), Prob: 0.0000
-Token: ' break' (ID: 1438), Prob: 0.0000
-Token: ' thank' (ID: 9702), Prob: 0.0000
-Token: ' lie' (ID: 10246), Prob: 0.0000
-Token: ' catch' (ID: 2287), Prob: 0.0000
-Token: ' create' (ID: 1855), Prob: 0.0000
-Token: ' yeah' (ID: 21639), Prob: 0.0000
-Token: ' tears' (ID: 23139), Prob: 0.0000
-Token: ' tear' (ID: 17576), Prob: 0.0000
-Token: ' cow' (ID: 19362), Prob: 0.0000
-Token: ' sigh' (ID: 30138), Prob: 0.0000
-Token: ' ask' (ID: 2548), Prob: 0.0000
-Token: ' die' (ID: 2746), Prob: 0.0000
-Token: ' fall' (ID: 4399), Prob: 0.0000
-Token: ' drip' (ID: 72499), Prob: 0.0000
-Token: ' yes' (ID: 9834), Prob: 0.0000
-Token: ' cough' (ID: 39600), Prob: 0.0000
-Token: ' sing' (ID: 7780), Prob: 0.0000
-Token: ' end' (ID: 835), Prob: 0.0000
-Token: ' sad' (ID: 12421), Prob: 0.0000
-Token: ' cheer' (ID: 25032), Prob: 0.0000
-Token: ' count' (ID: 1760), Prob: 0.0000
-Token: ' climax' (ID: 70195), Prob: 0.0000
-Token: ' add' (ID: 912), Prob: 0.0000
-Token: ' let' (ID: 1077), Prob: 0.0000
-Token: ' feel' (ID: 2666), Prob: 0.0000
-Token: ' pain' (ID: 6646), Prob: 0.0000
-Token: ' cri' (ID: 27558), Prob: 0.0000
-Token: ' dry' (ID: 9058), Prob: 0.0000
-Token: ' joy' (ID: 15888), Prob: 0.0000
-Token: ' tie' (ID: 18131), Prob: 0.0000
-Token: ' care' (ID: 2453), Prob: 0.0000
-Token: ' maybe' (ID: 7196), Prob: 0.0000
-Token: ' goodbye' (ID: 46455), Prob: 0.0000
-Token: ' awe' (ID: 50417), Prob: 0.0000
-Token: ' baby' (ID: 8770), Prob: 0.0000
-Token: ' make' (ID: 1281), Prob: 0.0000
-Token: ' one' (ID: 825), Prob: 0.0000
-Token: ' crowd' (ID: 13428), Prob: 0.0000
-Token: ' run' (ID: 1598), Prob: 0.0000
+Token: ' one' (ID: 825), Prob: 0.2393
+Token: ' three' (ID: 2326), Prob: 0.0471
+Token: ' four' (ID: 3040), Prob: 0.0366
+Token: ' two' (ID: 1378), Prob: 0.0325
+Token: ' five' (ID: 4236), Prob: 0.0325
+Token: ' six' (ID: 4743), Prob: 0.0135
+Token: ' seven' (ID: 8094), Prob: 0.0050
+Token: ' eight' (ID: 8063), Prob: 0.0039
+Token: ' ten' (ID: 5779), Prob: 0.0022
+Token: ' ONE' (ID: 24038), Prob: 0.0012
+Token: ' nine' (ID: 11627), Prob: 0.0010
+Token: ' words' (ID: 4244), Prob: 0.0004
+Token: ' twenty' (ID: 17073), Prob: 0.0004
+Token: ' twelve' (ID: 29235), Prob: 0.0004
+Token: ' paragraph' (ID: 14311), Prob: 0.0003
+Token: ' eleven' (ID: 44214), Prob: 0.0002
+Token: ' paragraphs' (ID: 42643), Prob: 0.0002
+Token: ' thirty' (ID: 26127), Prob: 0.0002
+Token: ' sentence' (ID: 11652), Prob: 0.0001
+Token: ' word' (ID: 3409), Prob: 0.0001
+Token: ' fourteen' (ID: 62260), Prob: 0.0001
+Token: ' fifteen' (ID: 36655), Prob: 0.0001
+Token: ' fifty' (ID: 32417), Prob: 0.0001
+Token: ' FOUR' (ID: 74091), Prob: 0.0001
+Token: ' exactly' (ID: 6896), Prob: 0.0001
+Token: ' sixteen' (ID: 58039), Prob: 0.0001
+Token: ' THREE' (ID: 14040), Prob: 0.0001
+Token: ' thirteen' (ID: 60659), Prob: 0.0001
+Token: ' eighteen' (ID: 62034), Prob: 0.0001
+Token: ' seventeen' (ID: 81397), Prob: 0.0001
+Token: ' enough' (ID: 3322), Prob: 0.0001
+Token: ' One' (ID: 3776), Prob: 0.0001
+Token: ' following' (ID: 2701), Prob: 0.0001
+Token: ' forty' (ID: 35398), Prob: 0.0001
+Token: ' TWO' (ID: 46258), Prob: 0.0001
+Token: ' half' (ID: 4279), Prob: 0.0001
+Token: ' Paragraph' (ID: 49351), Prob: 0.0001
+Token: ' zero' (ID: 7168), Prob: 0.0000
+Token: ' twice' (ID: 10917), Prob: 0.0000
+Token: ' SIX' (ID: 97638), Prob: 0.0000
+Token: ' several' (ID: 3807), Prob: 0.0000
+Token: 'one' (ID: 603), Prob: 0.0000
+Token: ' fewer' (ID: 16745), Prob: 0.0000
+Token: ' first' (ID: 1156), Prob: 0.0000
+Token: ' matching' (ID: 12579), Prob: 0.0000
 
 == Ranked Concepts (Clusters) ==
-Rank 1 | Concept Score: 0.9961
-  Tokens: [' cry', ' crying', ' cried', ' Cry', ' cries', 'cry', ' scream', ' cri']
-Rank 2 | Concept Score: 0.0001
-  Tokens: [' etc', ' maybe']
-Rank 3 | Concept Score: 0.0001
-  Tokens: [' try', ' write', ' create', ' ask', ' add', ' let', ' make']
-Rank 4 | Concept Score: 0.0001
-  Tokens: [' love', ' sad', ' pain', ' joy']
-Rank 5 | Concept Score: 0.0000
-  Tokens: [' cro', ' cow', ' cough', ' baby']
-Rank 6 | Concept Score: 0.0000
-  Tokens: [' wait', ' feel']
-Rank 7 | Concept Score: 0.0000
-  Tokens: [' repeat', ' end', ' one', ' run']
-Rank 8 | Concept Score: 0.0000
-  Tokens: [' sorry', ' thank', ' goodbye']
-Rank 9 | Concept Score: 0.0000
-  Tokens: [' lie', ' fall', ' tie']
-Rank 10 | Concept Score: 0.0000
-  Tokens: [' tears', ' tear']
-Rank 11 | Concept Score: 0.0000
-  Tokens: [' yeah', ' yes']
-Rank 12 | Concept Score: 0.0000
-  Tokens: [' please']
-Rank 13 | Concept Score: 0.0000
-  Tokens: [' drip', ' climax']
-Rank 14 | Concept Score: 0.0000
-  Tokens: [' break']
-Rank 15 | Concept Score: 0.0000
-  Tokens: [' sing', ' dry']
-Rank 16 | Concept Score: 0.0000
-  Tokens: [' catch']
-Rank 17 | Concept Score: 0.0000
-  Tokens: [' awe', ' crowd']
-Rank 18 | Concept Score: 0.0000
-  Tokens: [' sigh']
-Rank 19 | Concept Score: 0.0000
-  Tokens: [' die']
-Rank 20 | Concept Score: 0.0000
-  Tokens: [' cheer']
-Rank 21 | Concept Score: 0.0000
-  Tokens: [' count']
-Rank 22 | Concept Score: 0.0000
-  Tokens: [' care']
+Rank 1 | Centroid: ' one' | Score: 0.2402
+  Tokens: [' one', ' ONE', ' One', 'one']
+Rank 2 | Centroid: ' seven' | Score: 0.1396
+  Tokens: [' three', ' four', ' five', ' six', ' seven', ' eight', ' nine']
+Rank 3 | Centroid: ' two' | Score: 0.0325
+  Tokens: [' two', ' several']
+Rank 4 | Centroid: ' fifteen' | Score: 0.0040
+  Tokens: [' ten', ' twenty', ' twelve', ' eleven', ' thirty', ' fourteen', ' fifteen', ' fifty', ' sixteen', ' thirteen', ' eighteen', ' seventeen', ' forty']
+Rank 5 | Centroid: ' paragraph' | Score: 0.0007
+  Tokens: [' paragraph', ' paragraphs', ' sentence', ' Paragraph']
+Rank 6 | Centroid: ' words' | Score: 0.0006
+  Tokens: [' words', ' word']
+Rank 7 | Centroid: ' FOUR' | Score: 0.0003
+  Tokens: [' FOUR', ' THREE', ' TWO', ' SIX']
+Rank 8 | Centroid: ' exactly' | Score: 0.0001
+  Tokens: [' exactly']
+Rank 9 | Centroid: ' half' | Score: 0.0001
+  Tokens: [' half', ' twice']
+Rank 10 | Centroid: ' following' | Score: 0.0001
+  Tokens: [' following', ' matching']
+Rank 11 | Centroid: ' zero' | Score: 0.0001
+  Tokens: [' zero', ' fewer']
+Rank 12 | Centroid: ' enough' | Score: 0.0001
+  Tokens: [' enough']
+Rank 13 | Centroid: ' first' | Score: 0.0000
+  Tokens: [' first']
 
-**Chosen Concept:** Rank 1 with score 0.9961
+**Chosen Concept:** Rank 1

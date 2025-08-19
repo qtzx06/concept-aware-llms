@@ -1,52 +1,62 @@
 --- Step 10 Log ---
 
 == Filtered Candidates ==
-Token: ' Today' (ID: 11201), Prob: 0.0042
-Token: ' Earlier' (ID: 46893), Prob: 0.0023
-Token: ' Choices' (ID: 78191), Prob: 0.0020
-Token: ' Later' (ID: 24885), Prob: 0.0012
-Token: ' Within' (ID: 24236), Prob: 0.0011
-Token: ' Behind' (ID: 42374), Prob: 0.0009
-Token: ' Often' (ID: 34916), Prob: 0.0009
-Token: ' Since' (ID: 8704), Prob: 0.0007
-Token: ' Without' (ID: 17147), Prob: 0.0007
-Token: ' Right' (ID: 10083), Prob: 0.0006
-Token: ' Recently' (ID: 40996), Prob: 0.0005
-Token: ' Every' (ID: 7209), Prob: 0.0005
-Token: ' Around' (ID: 32816), Prob: 0.0005
-Token: ' Dec' (ID: 3714), Prob: 0.0004
-Token: ' Soon' (ID: 31762), Prob: 0.0004
-Token: ' Prior' (ID: 31399), Prob: 0.0004
-Token: ' Outside' (ID: 41151), Prob: 0.0004
-Token: ' Throughout' (ID: 45882), Prob: 0.0004
-Token: ' Ahead' (ID: 76444), Prob: 0.0004
+Token: ' listed' (ID: 10007), Prob: 0.0060
+Token: ' traits' (ID: 24055), Prob: 0.0056
+Token: ' mentioned' (ID: 9733), Prob: 0.0014
+Token: ' names' (ID: 5036), Prob: 0.0012
+Token: ' described' (ID: 7481), Prob: 0.0009
+Token: ' given' (ID: 2661), Prob: 0.0009
+Token: ' plus' (ID: 5519), Prob: 0.0008
+Token: ' points' (ID: 3501), Prob: 0.0006
+Token: ' list' (ID: 1140), Prob: 0.0003
+Token: ' related' (ID: 5435), Prob: 0.0003
+Token: ' attributes' (ID: 8201), Prob: 0.0003
+Token: ' descriptions' (ID: 27787), Prob: 0.0003
+Token: ' based' (ID: 3118), Prob: 0.0002
+Token: ' provided' (ID: 3897), Prob: 0.0002
+Token: ' cards' (ID: 7411), Prob: 0.0002
+Token: ' trait' (ID: 17567), Prob: 0.0002
+Token: ' associated' (ID: 5815), Prob: 0.0002
+Token: ' lists' (ID: 11469), Prob: 0.0002
+Token: ' individually' (ID: 31299), Prob: 0.0002
+Token: ' identified' (ID: 10820), Prob: 0.0002
+Token: ' assigned' (ID: 12607), Prob: 0.0002
+Token: ' along' (ID: 3156), Prob: 0.0001
+Token: ' shown' (ID: 6839), Prob: 0.0001
+Token: ' selected' (ID: 4091), Prob: 0.0001
+Token: ' within' (ID: 2878), Prob: 0.0001
+Token: ' four' (ID: 3040), Prob: 0.0001
+Token: ' defined' (ID: 4512), Prob: 0.0001
+Token: ' explained' (ID: 11247), Prob: 0.0001
+Token: ' descriptors' (ID: 47517), Prob: 0.0001
 
 == Ranked Concepts (Clusters) ==
-Rank 1 | Concept Score: 0.0048
-  Tokens: [' Today', ' Recently']
-Rank 2 | Concept Score: 0.0035
-  Tokens: [' Earlier', ' Later']
-Rank 3 | Concept Score: 0.0020
-  Tokens: [' Choices']
-Rank 4 | Concept Score: 0.0019
-  Tokens: [' Within', ' Around', ' Outside']
-Rank 5 | Concept Score: 0.0014
-  Tokens: [' Since', ' Without']
-Rank 6 | Concept Score: 0.0009
-  Tokens: [' Behind']
-Rank 7 | Concept Score: 0.0009
-  Tokens: [' Often']
-Rank 8 | Concept Score: 0.0009
-  Tokens: [' Every', ' Throughout']
-Rank 9 | Concept Score: 0.0006
-  Tokens: [' Right']
-Rank 10 | Concept Score: 0.0004
-  Tokens: [' Dec']
-Rank 11 | Concept Score: 0.0004
-  Tokens: [' Soon']
-Rank 12 | Concept Score: 0.0004
-  Tokens: [' Ahead']
-Rank 13 | Concept Score: 0.0004
-  Tokens: [' Prior']
+Rank 1 | Centroid: ' list' | Score: 0.0064
+  Tokens: [' listed', ' list', ' lists']
+Rank 2 | Centroid: ' traits' | Score: 0.0061
+  Tokens: [' traits', ' attributes', ' trait']
+Rank 3 | Centroid: ' described' | Score: 0.0026
+  Tokens: [' mentioned', ' described', ' shown', ' explained']
+Rank 4 | Centroid: ' along' | Score: 0.0013
+  Tokens: [' plus', ' based', ' along', ' within']
+Rank 5 | Centroid: ' names' | Score: 0.0012
+  Tokens: [' names']
+Rank 6 | Centroid: ' given' | Score: 0.0011
+  Tokens: [' given', ' provided']
+Rank 7 | Centroid: ' points' | Score: 0.0006
+  Tokens: [' points']
+Rank 8 | Centroid: ' identified' | Score: 0.0005
+  Tokens: [' identified', ' assigned', ' selected', ' defined']
+Rank 9 | Centroid: ' related' | Score: 0.0005
+  Tokens: [' related', ' associated']
+Rank 10 | Centroid: ' descriptions' | Score: 0.0004
+  Tokens: [' descriptions', ' descriptors']
+Rank 11 | Centroid: ' cards' | Score: 0.0002
+  Tokens: [' cards']
+Rank 12 | Centroid: ' individually' | Score: 0.0002
+  Tokens: [' individually']
+Rank 13 | Centroid: ' four' | Score: 0.0001
+  Tokens: [' four']
 
-**Chosen Concept:** Rank 1 with score 0.0048
+**Chosen Concept:** Rank 1

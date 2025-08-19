@@ -1,0 +1,137 @@
+--- Step 78 Log ---
+
+== Filtered Candidates ==
+Token: ' structure' (ID: 5944), Prob: 0.3672
+Token: ' word' (ID: 3409), Prob: 0.1055
+Token: ' clarity' (ID: 31273), Prob: 0.1055
+Token: ' punctuation' (ID: 61503), Prob: 0.0820
+Token: ' ensure' (ID: 5978), Prob: 0.0723
+Token: ' sentence' (ID: 11652), Prob: 0.0498
+Token: ' make' (ID: 1281), Prob: 0.0439
+Token: ' syntax' (ID: 19482), Prob: 0.0208
+Token: ' coherence' (ID: 77825), Prob: 0.0183
+Token: ' flow' (ID: 6396), Prob: 0.0087
+Token: ' tone' (ID: 16232), Prob: 0.0087
+Token: ' vocabulary' (ID: 34918), Prob: 0.0087
+Token: ' style' (ID: 1707), Prob: 0.0076
+Token: ' use' (ID: 990), Prob: 0.0067
+Token: ' rhythm' (ID: 36290), Prob: 0.0067
+Token: ' adjust' (ID: 7500), Prob: 0.0052
+Token: ' try' (ID: 1430), Prob: 0.0049
+Token: ' readability' (ID: 91494), Prob: 0.0049
+Token: ' check' (ID: 1779), Prob: 0.0046
+Token: ' repetition' (ID: 53415), Prob: 0.0036
+Token: ' language' (ID: 4128), Prob: 0.0030
+Token: ' wording' (ID: 60227), Prob: 0.0028
+Token: ' grammar' (ID: 31428), Prob: 0.0026
+Token: ' words' (ID: 4244), Prob: 0.0025
+Token: ' consistency' (ID: 28137), Prob: 0.0021
+Token: ' keep' (ID: 2506), Prob: 0.0019
+Token: ' spelling' (ID: 42429), Prob: 0.0017
+Token: ' redundancy' (ID: 89373), Prob: 0.0017
+Token: ' pacing' (ID: 82140), Prob: 0.0016
+Token: ' avoid' (ID: 5648), Prob: 0.0015
+Token: ' simplicity' (ID: 38975), Prob: 0.0010
+Token: ' conc' (ID: 3529), Prob: 0.0008
+Token: ' overall' (ID: 8084), Prob: 0.0008
+Token: ' punct' (ID: 31355), Prob: 0.0008
+Token: ' choose' (ID: 5157), Prob: 0.0007
+Token: ' start' (ID: 1191), Prob: 0.0006
+Token: ' connect' (ID: 4564), Prob: 0.0006
+Token: ' balance' (ID: 8172), Prob: 0.0006
+Token: ' tense' (ID: 42687), Prob: 0.0006
+Token: ' pick' (ID: 3735), Prob: 0.0005
+Token: ' spacing' (ID: 25943), Prob: 0.0004
+Token: ' join' (ID: 5138), Prob: 0.0004
+Token: ' sentences' (ID: 22870), Prob: 0.0004
+Token: ' phrases' (ID: 31747), Prob: 0.0004
+Token: ' feel' (ID: 2666), Prob: 0.0004
+Token: ' correct' (ID: 4396), Prob: 0.0004
+Token: ' flu' (ID: 19660), Prob: 0.0004
+Token: ' read' (ID: 1349), Prob: 0.0003
+Token: ' improve' (ID: 7269), Prob: 0.0003
+Token: ' replace' (ID: 8290), Prob: 0.0003
+Token: ' get' (ID: 633), Prob: 0.0003
+Token: ' correctness' (ID: 57323), Prob: 0.0003
+Token: ' form' (ID: 1352), Prob: 0.0003
+Token: ' length' (ID: 3084), Prob: 0.0003
+Token: ' switch' (ID: 3398), Prob: 0.0003
+Token: ' transitions' (ID: 33592), Prob: 0.0002
+Token: ' usage' (ID: 10431), Prob: 0.0002
+Token: ' clich' (ID: 62592), Prob: 0.0002
+Token: ' connectivity' (ID: 30257), Prob: 0.0002
+Token: ' simplify' (ID: 39721), Prob: 0.0002
+Token: ' syll' (ID: 47604), Prob: 0.0002
+Token: ' keyword' (ID: 16174), Prob: 0.0002
+Token: ' see' (ID: 1490), Prob: 0.0002
+Token: ' adapt' (ID: 10515), Prob: 0.0002
+Token: ' keywords' (ID: 20844), Prob: 0.0002
+Token: ' smooth' (ID: 10876), Prob: 0.0002
+Token: ' phrase' (ID: 17133), Prob: 0.0002
+Token: ' add' (ID: 912), Prob: 0.0002
+Token: ' anything' (ID: 4113), Prob: 0.0002
+Token: ' stylist' (ID: 66373), Prob: 0.0002
+Token: ' reach' (ID: 5545), Prob: 0.0001
+Token: ' complexity' (ID: 23094), Prob: 0.0001
+Token: ' free' (ID: 1910), Prob: 0.0001
+Token: ' paragraph' (ID: 14311), Prob: 0.0001
+Token: ' readiness' (ID: 61692), Prob: 0.0001
+Token: ' fluid' (ID: 15590), Prob: 0.0001
+Token: ' formatting' (ID: 36566), Prob: 0.0001
+Token: ' write' (ID: 3270), Prob: 0.0001
+Token: ' watch' (ID: 3736), Prob: 0.0001
+Token: ' natural' (ID: 5810), Prob: 0.0001
+Token: ' proper' (ID: 6169), Prob: 0.0001
+Token: ' connectors' (ID: 57070), Prob: 0.0001
+Token: ' put' (ID: 2182), Prob: 0.0001
+Token: ' include' (ID: 2924), Prob: 0.0001
+Token: ' past' (ID: 3267), Prob: 0.0001
+Token: ' sem' (ID: 5234), Prob: 0.0001
+Token: ' speak' (ID: 6468), Prob: 0.0001
+Token: ' possible' (ID: 3204), Prob: 0.0001
+
+== Ranked Concepts (Clusters) ==
+Rank 1 | Centroid: ' style' | Score: 0.3750
+  Tokens: [' structure', ' style', ' form']
+Rank 2 | Centroid: ' phrase' | Score: 0.1592
+  Tokens: [' word', ' sentence', ' words', ' sentences', ' phrases', ' keyword', ' keywords', ' phrase', ' paragraph']
+Rank 3 | Centroid: ' clarity' | Score: 0.1377
+  Tokens: [' clarity', ' coherence', ' readability', ' repetition', ' consistency', ' redundancy', ' simplicity', ' complexity', ' readiness']
+Rank 4 | Centroid: ' punctuation' | Score: 0.0830
+  Tokens: [' punctuation', ' punct', ' syll']
+Rank 5 | Centroid: ' ensure' | Score: 0.0752
+  Tokens: [' ensure', ' avoid', ' choose', ' improve', ' replace', ' simplify', ' include']
+Rank 6 | Centroid: ' get' | Score: 0.0635
+  Tokens: [' make', ' use', ' try', ' check', ' keep', ' start', ' get', ' see', ' add', ' reach']
+Rank 7 | Centroid: ' grammar' | Score: 0.0396
+  Tokens: [' syntax', ' vocabulary', ' language', ' wording', ' grammar', ' spelling']
+Rank 8 | Centroid: ' rhythm' | Score: 0.0179
+  Tokens: [' tone', ' rhythm', ' pacing', ' tense', ' spacing']
+Rank 9 | Centroid: ' fluid' | Score: 0.0096
+  Tokens: [' flow', ' flu', ' switch', ' transitions', ' fluid']
+Rank 10 | Centroid: ' adjust' | Score: 0.0054
+  Tokens: [' adjust', ' adapt']
+Rank 11 | Centroid: ' connect' | Score: 0.0013
+  Tokens: [' connect', ' join', ' connectivity', ' connectors']
+Rank 12 | Centroid: ' free' | Score: 0.0013
+  Tokens: [' conc', ' free', ' natural', ' past', ' sem']
+Rank 13 | Centroid: ' write' | Score: 0.0011
+  Tokens: [' pick', ' read', ' write', ' watch', ' put']
+Rank 14 | Centroid: ' overall' | Score: 0.0011
+  Tokens: [' overall', ' smooth', ' possible']
+Rank 15 | Centroid: ' balance' | Score: 0.0008
+  Tokens: [' balance', ' length']
+Rank 16 | Centroid: ' correct' | Score: 0.0008
+  Tokens: [' correct', ' correctness', ' proper']
+Rank 17 | Centroid: ' stylist' | Score: 0.0005
+  Tokens: [' clich', ' stylist', ' formatting']
+Rank 18 | Centroid: ' feel' | Score: 0.0004
+  Tokens: [' feel']
+Rank 19 | Centroid: ' usage' | Score: 0.0002
+  Tokens: [' usage']
+Rank 20 | Centroid: ' anything' | Score: 0.0002
+  Tokens: [' anything']
+Rank 21 | Centroid: ' speak' | Score: 0.0001
+  Tokens: [' speak']
+
+**Chosen Concept:** Rank 1

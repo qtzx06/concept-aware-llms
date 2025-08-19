@@ -1,76 +1,91 @@
 --- Step 68 Log ---
 
 == Filtered Candidates ==
-Token: ' Assume' (ID: 62197), Prob: 0.3320
-Token: ' Let' (ID: 6771), Prob: 0.2930
-Token: ' Assuming' (ID: 63964), Prob: 0.0165
-Token: ' Maybe' (ID: 10696), Prob: 0.0065
-Token: ' Based' (ID: 20205), Prob: 0.0061
-Token: ' Please' (ID: 5209), Prob: 0.0031
-Token: ' Also' (ID: 7281), Prob: 0.0031
-Token: ' Suppose' (ID: 82610), Prob: 0.0024
-Token: ' Keep' (ID: 13655), Prob: 0.0022
-Token: ' Answer' (ID: 21806), Prob: 0.0017
-Token: ' Wait' (ID: 13824), Prob: 0.0015
-Token: ' Ass' (ID: 2688), Prob: 0.0013
-Token: ' Hmm' (ID: 88190), Prob: 0.0012
-Token: ' Imagine' (ID: 37791), Prob: 0.0010
-Token: ' Use' (ID: 5443), Prob: 0.0009
-Token: ' According' (ID: 10548), Prob: 0.0008
-Token: ' However' (ID: 4354), Prob: 0.0008
-Token: ' Therefore' (ID: 15277), Prob: 0.0008
-Token: ' Take' (ID: 11778), Prob: 0.0007
-Token: ' Still' (ID: 16377), Prob: 0.0007
-Token: ' Perhaps' (ID: 18765), Prob: 0.0006
-Token: ' Determine' (ID: 29901), Prob: 0.0006
-Token: ' Make' (ID: 7405), Prob: 0.0006
-Token: ' Continue' (ID: 15003), Prob: 0.0006
-Token: ' Adjust' (ID: 27196), Prob: 0.0006
-Token: ' Given' (ID: 16246), Prob: 0.0006
-Token: ' Ask' (ID: 20437), Prob: 0.0005
-Token: ' Say' (ID: 24917), Prob: 0.0005
-Token: ' Explain' (ID: 81917), Prob: 0.0005
-Token: ' let' (ID: 1077), Prob: 0.0004
-Token: ' Get' (ID: 2126), Prob: 0.0004
-Token: ' Yes' (ID: 7414), Prob: 0.0004
-Token: ' Okay' (ID: 35439), Prob: 0.0004
-Token: ' Alright' (ID: 97593), Prob: 0.0004
-Token: ' Write' (ID: 9645), Prob: 0.0004
+Token: ' old' (ID: 2310), Prob: 1.0000
+Token: ' older' (ID: 9014), Prob: 0.0001
+Token: ' young' (ID: 3908), Prob: 0.0000
+Token: ' elderly' (ID: 28820), Prob: 0.0000
+Token: ' long' (ID: 1293), Prob: 0.0000
+Token: '(old' (ID: 21972), Prob: 0.0000
+Token: 'old' (ID: 813), Prob: 0.0000
+Token: '-old' (ID: 6284), Prob: 0.0000
+Token: '	old' (ID: 61828), Prob: 0.0000
+Token: '.old' (ID: 46061), Prob: 0.0000
+Token: ' cold' (ID: 9255), Prob: 0.0000
+Token: ' Old' (ID: 10621), Prob: 0.0000
+Token: ' ancient' (ID: 13833), Prob: 0.0000
+Token: '_old' (ID: 21108), Prob: 0.0000
+Token: ' oldest' (ID: 23513), Prob: 0.0000
+Token: ' tall' (ID: 16217), Prob: 0.0000
+Token: ' new' (ID: 501), Prob: 0.0000
+Token: ' OLD' (ID: 64891), Prob: 0.0000
+Token: ' well' (ID: 1632), Prob: 0.0000
+Token: ' away' (ID: 3123), Prob: 0.0000
+Token: ' slow' (ID: 6301), Prob: 0.0000
+Token: ' child' (ID: 1682), Prob: 0.0000
+Token: ' aged' (ID: 19749), Prob: 0.0000
+Token: ' fast' (ID: 4937), Prob: 0.0000
+Token: ' full' (ID: 2480), Prob: 0.0000
+Token: ' oil' (ID: 5590), Prob: 0.0000
+Token: ' aging' (ID: 28984), Prob: 0.0000
+Token: ' large' (ID: 3460), Prob: 0.0000
+Token: ' end' (ID: 835), Prob: 0.0000
+Token: ' wide' (ID: 6884), Prob: 0.0000
+Token: ' small' (ID: 2613), Prob: 0.0000
+Token: ' late' (ID: 3309), Prob: 0.0000
+Token: ' empty' (ID: 4287), Prob: 0.0000
+Token: ' outdated' (ID: 40526), Prob: 0.0000
+Token: ' open' (ID: 1787), Prob: 0.0000
+Token: ' age' (ID: 4231), Prob: 0.0000
+Token: ' easy' (ID: 4135), Prob: 0.0000
+Token: ' always' (ID: 2677), Prob: 0.0000
+Token: ' high' (ID: 1550), Prob: 0.0000
+Token: ' without' (ID: 2041), Prob: 0.0000
+Token: ' along' (ID: 3156), Prob: 0.0000
+Token: ' strong' (ID: 3746), Prob: 0.0000
+Token: ' alone' (ID: 7484), Prob: 0.0000
+Token: ' obsolete' (ID: 46066), Prob: 0.0000
+Token: ' often' (ID: 3545), Prob: 0.0000
+Token: 'OLD' (ID: 7863), Prob: 0.0000
+Token: ' tired' (ID: 19227), Prob: 0.0000
+Token: ' ultra' (ID: 23998), Prob: 0.0000
+Token: ' like' (ID: 1075), Prob: 0.0000
+Token: ' rich' (ID: 9080), Prob: 0.0000
+Token: ' great' (ID: 2244), Prob: 0.0000
+Token: ' elder' (ID: 22130), Prob: 0.0000
 
 == Ranked Concepts (Clusters) ==
-Rank 1 | Concept Score: 0.3496
-  Tokens: [' Assume', ' Assuming', ' Ass']
-Rank 2 | Concept Score: 0.2930
-  Tokens: [' Let', ' let']
-Rank 3 | Concept Score: 0.0077
-  Tokens: [' Please', ' Also', ' However', ' Therefore']
-Rank 4 | Concept Score: 0.0074
-  Tokens: [' Based', ' According', ' Given']
-Rank 5 | Concept Score: 0.0071
-  Tokens: [' Maybe', ' Perhaps']
-Rank 6 | Concept Score: 0.0034
-  Tokens: [' Suppose', ' Imagine']
-Rank 7 | Concept Score: 0.0028
-  Tokens: [' Keep', ' Continue']
-Rank 8 | Concept Score: 0.0027
-  Tokens: [' Use', ' Take', ' Make', ' Get']
-Rank 9 | Concept Score: 0.0020
-  Tokens: [' Hmm', ' Okay', ' Alright']
-Rank 10 | Concept Score: 0.0017
-  Tokens: [' Answer']
-Rank 11 | Concept Score: 0.0015
-  Tokens: [' Wait']
-Rank 12 | Concept Score: 0.0015
-  Tokens: [' Determine', ' Explain', ' Write']
-Rank 13 | Concept Score: 0.0007
-  Tokens: [' Still']
-Rank 14 | Concept Score: 0.0006
-  Tokens: [' Adjust']
-Rank 15 | Concept Score: 0.0005
-  Tokens: [' Say']
-Rank 16 | Concept Score: 0.0005
-  Tokens: [' Ask']
-Rank 17 | Concept Score: 0.0004
-  Tokens: [' Yes']
+Rank 1 | Centroid: ' old' | Score: 1.0000
+  Tokens: [' old', '(old', 'old', '-old', '\told', '.old', ' Old', '_old', ' OLD', 'OLD']
+Rank 2 | Centroid: ' elderly' | Score: 0.0001
+  Tokens: [' older', ' elderly', ' oldest', ' aged', ' aging', ' age', ' elder']
+Rank 3 | Centroid: ' young' | Score: 0.0000
+  Tokens: [' young', ' child']
+Rank 4 | Centroid: ' wide' | Score: 0.0000
+  Tokens: [' long', ' tall', ' wide', ' high']
+Rank 5 | Centroid: ' outdated' | Score: 0.0000
+  Tokens: [' ancient', ' outdated', ' obsolete']
+Rank 6 | Centroid: ' cold' | Score: 0.0000
+  Tokens: [' cold']
+Rank 7 | Centroid: ' slow' | Score: 0.0000
+  Tokens: [' slow', ' fast', ' late', ' easy', ' ultra']
+Rank 8 | Centroid: ' without' | Score: 0.0000
+  Tokens: [' away', ' without', ' along', ' alone', ' like']
+Rank 9 | Centroid: ' new' | Score: 0.0000
+  Tokens: [' new']
+Rank 10 | Centroid: ' large' | Score: 0.0000
+  Tokens: [' large', ' small', ' strong', ' great']
+Rank 11 | Centroid: ' empty' | Score: 0.0000
+  Tokens: [' oil', ' empty', ' open']
+Rank 12 | Centroid: ' well' | Score: 0.0000
+  Tokens: [' well', ' rich']
+Rank 13 | Centroid: ' full' | Score: 0.0000
+  Tokens: [' full']
+Rank 14 | Centroid: ' always' | Score: 0.0000
+  Tokens: [' always', ' often']
+Rank 15 | Centroid: ' end' | Score: 0.0000
+  Tokens: [' end']
+Rank 16 | Centroid: ' tired' | Score: 0.0000
+  Tokens: [' tired']
 
-**Chosen Concept:** Rank 1 with score 0.3496
+**Chosen Concept:** Rank 1

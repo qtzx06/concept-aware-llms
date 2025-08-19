@@ -1,61 +1,66 @@
 --- Step 3 Log ---
 
 == Filtered Candidates ==
-Token: ' children' (ID: 2841), Prob: 0.0117
-Token: ' Children' (ID: 15044), Prob: 0.0103
-Token: ' kids' (ID: 6837), Prob: 0.0028
-Token: ' every' (ID: 1449), Prob: 0.0017
-Token: ' others' (ID: 3800), Prob: 0.0015
-Token: ' Kids' (ID: 22522), Prob: 0.0015
-Token: ' everyone' (ID: 5019), Prob: 0.0010
-Token: ' slip' (ID: 21134), Prob: 0.0009
-Token: ' one' (ID: 825), Prob: 0.0008
-Token: ' people' (ID: 1251), Prob: 0.0007
-Token: ' someone' (ID: 4325), Prob: 0.0007
-Token: ' nature' (ID: 6993), Prob: 0.0007
-Token: ' Others' (ID: 25028), Prob: 0.0007
-Token: ' freedom' (ID: 11290), Prob: 0.0006
-Token: ' love' (ID: 2948), Prob: 0.0006
-Token: ' Love' (ID: 10689), Prob: 0.0005
-Token: ' grow' (ID: 3063), Prob: 0.0005
-Token: ' girls' (ID: 7571), Prob: 0.0005
-Token: ' Child' (ID: 9391), Prob: 0.0005
-Token: ' child' (ID: 1682), Prob: 0.0005
-Token: ' live' (ID: 3887), Prob: 0.0005
-Token: ' goes' (ID: 5780), Prob: 0.0005
-Token: ' Girls' (ID: 20065), Prob: 0.0005
-Token: ' Birds' (ID: 56528), Prob: 0.0005
-Token: ' help' (ID: 1492), Prob: 0.0004
-Token: ' loose' (ID: 20174), Prob: 0.0004
+Token: ' must' (ID: 1969), Prob: 0.0054
+Token: ' needed' (ID: 4362), Prob: 0.0022
+Token: ' would' (ID: 1035), Prob: 0.0009
+Token: ' need' (ID: 1184), Prob: 0.0006
+Token: ' required' (ID: 2567), Prob: 0.0006
+Token: ' based' (ID: 3118), Prob: 0.0004
+Token: ' could' (ID: 1410), Prob: 0.0004
+Token: ' may' (ID: 1231), Prob: 0.0003
+Token: ' list' (ID: 1140), Prob: 0.0003
+Token: ' summary' (ID: 12126), Prob: 0.0002
+Token: ' per' (ID: 817), Prob: 0.0002
+Token: ' according' (ID: 4092), Prob: 0.0002
+Token: ' include' (ID: 2924), Prob: 0.0002
+Token: ' regarding' (ID: 8826), Prob: 0.0002
+Token: ' please' (ID: 4486), Prob: 0.0001
+Token: ' made' (ID: 1865), Prob: 0.0001
+Token: ' possible' (ID: 3204), Prob: 0.0001
+Token: ' might' (ID: 2578), Prob: 0.0001
+Token: ' within' (ID: 2878), Prob: 0.0001
+Token: ' explaining' (ID: 25021), Prob: 0.0001
+Token: ' related' (ID: 5435), Prob: 0.0001
+Token: ' including' (ID: 2670), Prob: 0.0001
+Token: ' along' (ID: 3156), Prob: 0.0001
+Token: ' generated' (ID: 7907), Prob: 0.0001
+Token: ' listed' (ID: 10007), Prob: 0.0001
+Token: ' suggested' (ID: 11827), Prob: 0.0001
+Token: ' using' (ID: 1667), Prob: 0.0001
+Token: ' follow' (ID: 1795), Prob: 0.0001
+Token: ' provided' (ID: 3897), Prob: 0.0001
+Token: ' included' (ID: 5230), Prob: 0.0001
+Token: ' describing' (ID: 22692), Prob: 0.0001
 
 == Ranked Concepts (Clusters) ==
-Rank 1 | Concept Score: 0.0271
-  Tokens: [' children', ' Children', ' kids', ' Kids', ' Child', ' child']
-Rank 2 | Concept Score: 0.0026
-  Tokens: [' every', ' everyone']
-Rank 3 | Concept Score: 0.0021
-  Tokens: [' others', ' Others']
-Rank 4 | Concept Score: 0.0015
-  Tokens: [' people', ' someone']
-Rank 5 | Concept Score: 0.0014
-  Tokens: [' slip', ' goes']
-Rank 6 | Concept Score: 0.0011
-  Tokens: [' love', ' Love']
-Rank 7 | Concept Score: 0.0010
-  Tokens: [' grow', ' live']
-Rank 8 | Concept Score: 0.0010
-  Tokens: [' girls', ' Girls']
-Rank 9 | Concept Score: 0.0008
-  Tokens: [' one']
-Rank 10 | Concept Score: 0.0007
-  Tokens: [' nature']
-Rank 11 | Concept Score: 0.0006
-  Tokens: [' freedom']
-Rank 12 | Concept Score: 0.0005
-  Tokens: [' Birds']
-Rank 13 | Concept Score: 0.0004
-  Tokens: [' loose']
-Rank 14 | Concept Score: 0.0004
-  Tokens: [' help']
+Rank 1 | Centroid: ' must' | Score: 0.0060
+  Tokens: [' must', ' need']
+Rank 2 | Centroid: ' needed' | Score: 0.0028
+  Tokens: [' needed', ' required']
+Rank 3 | Centroid: ' might' | Score: 0.0018
+  Tokens: [' would', ' could', ' may', ' might']
+Rank 4 | Centroid: ' according' | Score: 0.0008
+  Tokens: [' based', ' according', ' along', ' using']
+Rank 5 | Centroid: ' describing' | Score: 0.0004
+  Tokens: [' summary', ' explaining', ' describing']
+Rank 6 | Centroid: ' include' | Score: 0.0003
+  Tokens: [' include', ' including', ' included']
+Rank 7 | Centroid: ' list' | Score: 0.0003
+  Tokens: [' list', ' listed']
+Rank 8 | Centroid: ' per' | Score: 0.0003
+  Tokens: [' per', ' within']
+Rank 9 | Centroid: ' regarding' | Score: 0.0003
+  Tokens: [' regarding', ' related']
+Rank 10 | Centroid: ' generated' | Score: 0.0003
+  Tokens: [' made', ' generated', ' provided']
+Rank 11 | Centroid: ' please' | Score: 0.0001
+  Tokens: [' please']
+Rank 12 | Centroid: ' possible' | Score: 0.0001
+  Tokens: [' possible']
+Rank 13 | Centroid: ' suggested' | Score: 0.0001
+  Tokens: [' suggested']
+Rank 14 | Centroid: ' follow' | Score: 0.0001
+  Tokens: [' follow']
 
-**Chosen Concept:** Rank 1 with score 0.0271
+**Chosen Concept:** Rank 1

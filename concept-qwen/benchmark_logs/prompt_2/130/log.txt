@@ -1,134 +1,80 @@
 --- Step 130 Log ---
 
 == Filtered Candidates ==
-Token: ' also' (ID: 1083), Prob: 0.4414
-Token: ' cause' (ID: 5240), Prob: 0.4414
-Token: ' lead' (ID: 2990), Prob: 0.0049
-Token: ' pose' (ID: 17040), Prob: 0.0013
-Token: ' produce' (ID: 8193), Prob: 0.0008
-Token: ' result' (ID: 1102), Prob: 0.0007
-Token: ' carry' (ID: 6777), Prob: 0.0006
-Token: ' present' (ID: 3042), Prob: 0.0005
-Token: ' act' (ID: 1160), Prob: 0.0004
-Token: ' contain' (ID: 6644), Prob: 0.0004
-Token: ' sometimes' (ID: 7025), Prob: 0.0004
-Token: ' kill' (ID: 5505), Prob: 0.0003
-Token: ' affect' (ID: 7802), Prob: 0.0003
-Token: ' create' (ID: 1855), Prob: 0.0003
-Token: ' still' (ID: 2058), Prob: 0.0003
-Token: ' potentially' (ID: 13581), Prob: 0.0002
-Token: ' damage' (ID: 5557), Prob: 0.0002
-Token: ' trigger' (ID: 8183), Prob: 0.0002
-Token: ' bring' (ID: 4446), Prob: 0.0001
-Token: ' come' (ID: 2525), Prob: 0.0001
-Token: ' causes' (ID: 11137), Prob: 0.0001
-Token: ' harm' (ID: 11428), Prob: 0.0001
-Token: ' make' (ID: 1281), Prob: 0.0001
-Token: ' take' (ID: 1896), Prob: 0.0001
-Token: ' provide' (ID: 3410), Prob: 0.0001
-Token: ' play' (ID: 1486), Prob: 0.0001
-Token: ' possibly' (ID: 10767), Prob: 0.0001
-Token: ' caused' (ID: 8881), Prob: 0.0001
-Token: ' contribute' (ID: 16792), Prob: 0.0001
-Token: ' somehow' (ID: 16925), Prob: 0.0001
-Token: ' induce' (ID: 48753), Prob: 0.0001
-Token: ' side' (ID: 3108), Prob: 0.0001
-Token: ' actually' (ID: 3520), Prob: 0.0001
-Token: ' interfere' (ID: 39878), Prob: 0.0001
-Token: ' require' (ID: 1373), Prob: 0.0001
-Token: ' show' (ID: 1473), Prob: 0.0001
-Token: ' fail' (ID: 3690), Prob: 0.0001
-Token: ' appear' (ID: 4994), Prob: 0.0001
-Token: ' accidentally' (ID: 32384), Prob: 0.0001
-Token: ' become' (ID: 3635), Prob: 0.0001
-Token: ' negatively' (ID: 47191), Prob: 0.0001
-Token: ' work' (ID: 975), Prob: 0.0000
-Token: ' causing' (ID: 14381), Prob: 0.0000
-Token: ' otherwise' (ID: 5937), Prob: 0.0000
-Token: ' eventually' (ID: 9583), Prob: 0.0000
-Token: ' interact' (ID: 16282), Prob: 0.0000
-Token: ' already' (ID: 2669), Prob: 0.0000
-Token: ' allow' (ID: 2138), Prob: 0.0000
-Token: ' develop' (ID: 2225), Prob: 0.0000
-Token: ' exist' (ID: 3000), Prob: 0.0000
-Token: ' suffer' (ID: 7676), Prob: 0.0000
-Token: ' serve' (ID: 8683), Prob: 0.0000
-Token: ' include' (ID: 2924), Prob: 0.0000
-Token: ' initially' (ID: 15102), Prob: 0.0000
-Token: ' adversely' (ID: 68114), Prob: 0.0000
-Token: ' give' (ID: 2968), Prob: 0.0000
-Token: ' destroy' (ID: 6921), Prob: 0.0000
-Token: ' add' (ID: 912), Prob: 0.0000
-Token: ' need' (ID: 1184), Prob: 0.0000
-Token: ' possess' (ID: 15218), Prob: 0.0000
-Token: ' help' (ID: 1492), Prob: 0.0000
-Token: ' reduce' (ID: 7949), Prob: 0.0000
-Token: ' conflict' (ID: 12055), Prob: 0.0000
-Token: ' prove' (ID: 12118), Prob: 0.0000
-Token: ' prevent' (ID: 5358), Prob: 0.0000
-Token: ' introduce' (ID: 19131), Prob: 0.0000
-Token: ' behave' (ID: 35692), Prob: 0.0000
-Token: ' offer' (ID: 3010), Prob: 0.0000
-Token: ' increase' (ID: 5263), Prob: 0.0000
-Token: ' may' (ID: 1231), Prob: 0.0000
-Token: ' raise' (ID: 4828), Prob: 0.0000
-Token: ' endanger' (ID: 36937), Prob: 0.0000
-Token: 'also' (ID: 18654), Prob: 0.0000
-Token: ' turn' (ID: 2484), Prob: 0.0000
-Token: ' generate' (ID: 6923), Prob: 0.0000
-Token: ' activate' (ID: 20276), Prob: 0.0000
-Token: ' occasionally' (ID: 22930), Prob: 0.0000
-Token: ' accompany' (ID: 19226), Prob: 0.0000
-Token: ' risk' (ID: 5214), Prob: 0.0000
-Token: ' poison' (ID: 20476), Prob: 0.0000
-Token: ' impact' (ID: 5421), Prob: 0.0000
-Token: ' vary' (ID: 13289), Prob: 0.0000
-Token: ' threaten' (ID: 39150), Prob: 0.0000
+Token: ' something' (ID: 2494), Prob: 0.9883
+Token: ' etc' (ID: 4992), Prob: 0.0031
+Token: ' yes' (ID: 9834), Prob: 0.0012
+Token: ' anything' (ID: 4113), Prob: 0.0002
+Token: ' maybe' (ID: 7196), Prob: 0.0000
+Token: ' sometimes' (ID: 7025), Prob: 0.0000
+Token: ' someone' (ID: 4325), Prob: 0.0000
+Token: ' Something' (ID: 24656), Prob: 0.0000
+Token: ' option' (ID: 2999), Prob: 0.0000
+Token: ' even' (ID: 1496), Prob: 0.0000
+Token: ' somewhere' (ID: 14696), Prob: 0.0000
+Token: ' nothing' (ID: 4302), Prob: 0.0000
+Token: ' whatever' (ID: 8820), Prob: 0.0000
+Token: ' everything' (ID: 4297), Prob: 0.0000
+Token: ' YES' (ID: 14080), Prob: 0.0000
+Token: ' except' (ID: 3650), Prob: 0.0000
+Token: ' similar' (ID: 4428), Prob: 0.0000
+Token: ' options' (ID: 2606), Prob: 0.0000
+Token: ' thing' (ID: 3166), Prob: 0.0000
+Token: 'something' (ID: 33331), Prob: 0.0000
+Token: ' plus' (ID: 5519), Prob: 0.0000
+Token: ' answer' (ID: 4226), Prob: 0.0000
+Token: ' possibly' (ID: 10767), Prob: 0.0000
+Token: ' okay' (ID: 16910), Prob: 0.0000
+Token: ' two' (ID: 1378), Prob: 0.0000
+Token: ' since' (ID: 2474), Prob: 0.0000
+Token: ' things' (ID: 2513), Prob: 0.0000
+Token: ' one' (ID: 825), Prob: 0.0000
+Token: ' depending' (ID: 11649), Prob: 0.0000
+Token: ' another' (ID: 2441), Prob: 0.0000
+Token: ' also' (ID: 1083), Prob: 0.0000
+Token: ' possible' (ID: 3204), Prob: 0.0000
+Token: ' certain' (ID: 3654), Prob: 0.0000
+Token: ' three' (ID: 2326), Prob: 0.0000
+Token: ' som' (ID: 1757), Prob: 0.0000
+Token: ' based' (ID: 3118), Prob: 0.0000
+Token: ' sure' (ID: 2704), Prob: 0.0000
+Token: ' example' (ID: 3110), Prob: 0.0000
+Token: ' unless' (ID: 7241), Prob: 0.0000
+Token: ' enough' (ID: 3322), Prob: 0.0000
+Token: ' specific' (ID: 3151), Prob: 0.0000
+Token: ' however' (ID: 4764), Prob: 0.0000
+Token: ' sorry' (ID: 14589), Prob: 0.0000
+Token: ' four' (ID: 3040), Prob: 0.0000
+Token: ' perhaps' (ID: 8365), Prob: 0.0000
 
 == Ranked Concepts (Clusters) ==
-Rank 1 | Concept Score: 0.4414
-  Tokens: [' also', ' still', ' already', 'also']
-Rank 2 | Concept Score: 0.4414
-  Tokens: [' cause', ' causes', ' caused', ' causing']
-Rank 3 | Concept Score: 0.0056
-  Tokens: [' lead', ' carry', ' take', ' turn']
-Rank 4 | Concept Score: 0.0019
-  Tokens: [' pose', ' present', ' exist', ' possess']
-Rank 5 | Concept Score: 0.0016
-  Tokens: [' produce', ' create', ' bring', ' make', ' contribute', ' develop', ' add', ' reduce', ' introduce', ' increase', ' raise', ' generate']
-Rank 6 | Concept Score: 0.0010
-  Tokens: [' result', ' affect', ' impact']
-Rank 7 | Concept Score: 0.0007
-  Tokens: [' sometimes', ' potentially', ' possibly', ' eventually', ' may', ' occasionally']
-Rank 8 | Concept Score: 0.0006
-  Tokens: [' contain', ' require', ' appear', ' accompany', ' vary']
-Rank 9 | Concept Score: 0.0005
-  Tokens: [' act', ' interact', ' behave']
-Rank 10 | Concept Score: 0.0004
-  Tokens: [' kill', ' destroy', ' endanger', ' poison', ' threaten']
-Rank 11 | Concept Score: 0.0003
-  Tokens: [' damage', ' harm', ' conflict', ' risk']
-Rank 12 | Concept Score: 0.0003
-  Tokens: [' somehow', ' actually', ' accidentally', ' otherwise', ' initially']
-Rank 13 | Concept Score: 0.0003
-  Tokens: [' provide', ' show', ' allow', ' include', ' give', ' prove']
-Rank 14 | Concept Score: 0.0002
-  Tokens: [' come', ' become']
-Rank 15 | Concept Score: 0.0002
-  Tokens: [' play', ' work', ' help']
-Rank 16 | Concept Score: 0.0002
-  Tokens: [' trigger']
-Rank 17 | Concept Score: 0.0001
-  Tokens: [' induce', ' prevent', ' activate']
-Rank 18 | Concept Score: 0.0001
-  Tokens: [' side', ' need']
-Rank 19 | Concept Score: 0.0001
-  Tokens: [' fail', ' suffer']
-Rank 20 | Concept Score: 0.0001
-  Tokens: [' negatively', ' adversely']
-Rank 21 | Concept Score: 0.0001
-  Tokens: [' interfere']
-Rank 22 | Concept Score: 0.0001
-  Tokens: [' serve', ' offer']
+Rank 1 | Centroid: ' something' | Score: 0.9883
+  Tokens: [' something', ' anything', ' Something', ' nothing', ' whatever', ' everything', ' thing', 'something', ' things']
+Rank 2 | Centroid: ' etc' | Score: 0.0032
+  Tokens: [' etc', ' similar']
+Rank 3 | Centroid: ' yes' | Score: 0.0012
+  Tokens: [' yes', ' YES', ' okay', ' sure']
+Rank 4 | Centroid: ' perhaps' | Score: 0.0001
+  Tokens: [' maybe', ' sometimes', ' possibly', ' possible', ' perhaps']
+Rank 5 | Centroid: ' someone' | Score: 0.0001
+  Tokens: [' someone', ' somewhere', ' another', ' som']
+Rank 6 | Centroid: ' option' | Score: 0.0000
+  Tokens: [' option', ' options', ' answer']
+Rank 7 | Centroid: ' unless' | Score: 0.0000
+  Tokens: [' except', ' plus', ' since', ' depending', ' based', ' unless']
+Rank 8 | Centroid: ' even' | Score: 0.0000
+  Tokens: [' even']
+Rank 9 | Centroid: ' three' | Score: 0.0000
+  Tokens: [' two', ' one', ' three', ' four']
+Rank 10 | Centroid: ' also' | Score: 0.0000
+  Tokens: [' also', ' example']
+Rank 11 | Centroid: ' certain' | Score: 0.0000
+  Tokens: [' certain', ' specific']
+Rank 12 | Centroid: ' enough' | Score: 0.0000
+  Tokens: [' enough']
+Rank 13 | Centroid: ' however' | Score: 0.0000
+  Tokens: [' however']
+Rank 14 | Centroid: ' sorry' | Score: 0.0000
+  Tokens: [' sorry']
 
-**Chosen Concept:** Rank 1 with score 0.4414
+**Chosen Concept:** Rank 1

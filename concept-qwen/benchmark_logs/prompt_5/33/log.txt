@@ -1,95 +1,90 @@
 --- Step 33 Log ---
 
 == Filtered Candidates ==
-Token: ' zone' (ID: 10143), Prob: 0.9961
-Token: ' zones' (ID: 25395), Prob: 0.0005
-Token: 'zone' (ID: 8684), Prob: 0.0003
-Token: ' region' (ID: 5537), Prob: 0.0003
-Token: ' Zone' (ID: 22178), Prob: 0.0002
-Token: ' period' (ID: 4168), Prob: 0.0002
-Token: ' slot' (ID: 9446), Prob: 0.0001
-Token: '-zone' (ID: 77763), Prob: 0.0001
-Token: ' time' (ID: 882), Prob: 0.0000
-Token: ' timezone' (ID: 33957), Prob: 0.0000
-Token: '_zone' (ID: 28692), Prob: 0.0000
-Token: '.zone' (ID: 57808), Prob: 0.0000
-Token: ' longitude' (ID: 20515), Prob: 0.0000
-Token: ' frame' (ID: 4034), Prob: 0.0000
-Token: ' state' (ID: 1584), Prob: 0.0000
-Token: ' station' (ID: 8056), Prob: 0.0000
-Token: ' shift' (ID: 6407), Prob: 0.0000
-Token: ' location' (ID: 3728), Prob: 0.0000
-Token: ' due' (ID: 4152), Prob: 0.0000
-Token: ' offset' (ID: 4347), Prob: 0.0000
-Token: ' clock' (ID: 8866), Prob: 0.0000
-Token: ' using' (ID: 1667), Prob: 0.0000
-Token: ' district' (ID: 9290), Prob: 0.0000
-Token: 'Zone' (ID: 15363), Prob: 0.0000
-Token: ' according' (ID: 4092), Prob: 0.0000
-Token: ' base' (ID: 2331), Prob: 0.0000
-Token: ' lane' (ID: 21272), Prob: 0.0000
-Token: ' interval' (ID: 9873), Prob: 0.0000
-Token: ' area' (ID: 3082), Prob: 0.0000
-Token: ' based' (ID: 3118), Prob: 0.0000
-Token: ' via' (ID: 4566), Prob: 0.0000
-Token: ' difference' (ID: 6672), Prob: 0.0000
-Token: ' block' (ID: 2504), Prob: 0.0000
-Token: ' plane' (ID: 11031), Prob: 0.0000
-Token: '(zone' (ID: 74228), Prob: 0.0000
-Token: ' band' (ID: 7055), Prob: 0.0000
-Token: ' one' (ID: 825), Prob: 0.0000
-Token: ' box' (ID: 3745), Prob: 0.0000
-Token: ' hour' (ID: 6460), Prob: 0.0000
-Token: ' destination' (ID: 9106), Prob: 0.0000
-Token: ' province' (ID: 16847), Prob: 0.0000
-Token: ' point' (ID: 1459), Prob: 0.0000
-Token: ' without' (ID: 2041), Prob: 0.0000
-Token: ' transfer' (ID: 8317), Prob: 0.0000
-Token: ' sector' (ID: 10486), Prob: 0.0000
-Token: ' within' (ID: 2878), Prob: 0.0000
-Token: ' window' (ID: 3241), Prob: 0.0000
-Token: ' format' (ID: 3561), Prob: 0.0000
-Token: ' machine' (ID: 5662), Prob: 0.0000
-Token: ' loop' (ID: 6337), Prob: 0.0000
-Token: ' exactly' (ID: 6896), Prob: 0.0000
-Token: ' tone' (ID: 16232), Prob: 0.0000
-Token: ' zona' (ID: 44012), Prob: 0.0000
-Token: '_ZONE' (ID: 60742), Prob: 0.0000
+Token: ' makes' (ID: 3643), Prob: 0.1108
+Token: ' would' (ID: 1035), Prob: 0.0977
+Token: ' seems' (ID: 4977), Prob: 0.0170
+Token: ' must' (ID: 1969), Prob: 0.0117
+Token: ' likely' (ID: 4363), Prob: 0.0063
+Token: ' probably' (ID: 4658), Prob: 0.0020
+Token: ' definitely' (ID: 8491), Prob: 0.0020
+Token: ' logically' (ID: 73045), Prob: 0.0020
+Token: ' could' (ID: 1410), Prob: 0.0018
+Token: ' clearly' (ID: 9355), Prob: 0.0017
+Token: ' correctly' (ID: 12440), Prob: 0.0017
+Token: ' appears' (ID: 7952), Prob: 0.0012
+Token: ' contains' (ID: 5610), Prob: 0.0008
+Token: ' includes' (ID: 5646), Prob: 0.0007
+Token: ' says' (ID: 2727), Prob: 0.0006
+Token: ' generally' (ID: 8789), Prob: 0.0006
+Token: ' might' (ID: 2578), Prob: 0.0006
+Token: ' describes' (ID: 16555), Prob: 0.0006
+Token: ' follows' (ID: 11017), Prob: 0.0005
+Token: ' may' (ID: 1231), Prob: 0.0005
+Token: ' made' (ID: 1865), Prob: 0.0004
+Token: ' needs' (ID: 3880), Prob: 0.0004
+Token: ' certainly' (ID: 7838), Prob: 0.0004
+Token: ' implies' (ID: 23945), Prob: 0.0003
+Token: ' provides' (ID: 5707), Prob: 0.0003
+Token: ' refers' (ID: 19257), Prob: 0.0003
+Token: ' actually' (ID: 3520), Prob: 0.0002
+Token: ' works' (ID: 4278), Prob: 0.0002
+Token: ' discusses' (ID: 34334), Prob: 0.0002
+Token: ' make' (ID: 1281), Prob: 0.0002
+Token: ' supports' (ID: 11554), Prob: 0.0002
+Token: ' properly' (ID: 10277), Prob: 0.0002
+Token: ' fits' (ID: 18304), Prob: 0.0002
+Token: ' matches' (ID: 9071), Prob: 0.0002
+Token: ' indeed' (ID: 12824), Prob: 0.0002
+Token: ' presents' (ID: 18404), Prob: 0.0002
+Token: ' assumes' (ID: 21484), Prob: 0.0002
+Token: ' accurately' (ID: 29257), Prob: 0.0002
+Token: ' making' (ID: 3259), Prob: 0.0001
+Token: ' suggests' (ID: 13230), Prob: 0.0001
+Token: ' involves' (ID: 17601), Prob: 0.0001
+Token: ' typically' (ID: 11136), Prob: 0.0001
+Token: ' usually' (ID: 5990), Prob: 0.0001
+Token: ' gives' (ID: 6696), Prob: 0.0001
+Token: ' also' (ID: 1083), Prob: 0.0001
+Token: ' still' (ID: 2058), Prob: 0.0001
+Token: ' uses' (ID: 5711), Prob: 0.0001
+Token: ' either' (ID: 2987), Prob: 0.0001
+Token: ' align' (ID: 5285), Prob: 0.0001
+Token: ' mostly' (ID: 10008), Prob: 0.0001
+Token: ' agrees' (ID: 32908), Prob: 0.0001
+Token: ' mentions' (ID: 33845), Prob: 0.0001
+Token: ' given' (ID: 2661), Prob: 0.0001
+Token: ' directly' (ID: 5961), Prob: 0.0001
+Token: ' holds' (ID: 9982), Prob: 0.0001
+Token: ' meets' (ID: 20027), Prob: 0.0001
+Token: ' provided' (ID: 3897), Prob: 0.0001
+Token: ' shows' (ID: 4933), Prob: 0.0001
+Token: ' requires' (ID: 7460), Prob: 0.0001
 
 == Ranked Concepts (Clusters) ==
-Rank 1 | Concept Score: 0.9961
-  Tokens: [' zone', ' zones', 'zone', ' Zone', '-zone', '_zone', '.zone', 'Zone', '(zone', ' zona', '_ZONE']
-Rank 2 | Concept Score: 0.0003
-  Tokens: [' region', ' area']
-Rank 3 | Concept Score: 0.0002
-  Tokens: [' period', ' interval', ' sector']
-Rank 4 | Concept Score: 0.0001
-  Tokens: [' slot', ' frame']
-Rank 5 | Concept Score: 0.0001
-  Tokens: [' time', ' timezone', ' clock', ' hour']
-Rank 6 | Concept Score: 0.0001
-  Tokens: [' due', ' using', ' according', ' via', ' without', ' within']
-Rank 7 | Concept Score: 0.0001
-  Tokens: [' longitude', ' station', ' lane']
-Rank 8 | Concept Score: 0.0001
-  Tokens: [' shift', ' offset', ' difference', ' transfer']
-Rank 9 | Concept Score: 0.0000
-  Tokens: [' block', ' box', ' window', ' loop']
-Rank 10 | Concept Score: 0.0000
-  Tokens: [' plane', ' band', ' format', ' tone']
-Rank 11 | Concept Score: 0.0000
-  Tokens: [' state']
-Rank 12 | Concept Score: 0.0000
-  Tokens: [' location', ' destination']
-Rank 13 | Concept Score: 0.0000
-  Tokens: [' base', ' based']
-Rank 14 | Concept Score: 0.0000
-  Tokens: [' district', ' province']
-Rank 15 | Concept Score: 0.0000
-  Tokens: [' one', ' point']
-Rank 16 | Concept Score: 0.0000
-  Tokens: [' machine']
-Rank 17 | Concept Score: 0.0000
-  Tokens: [' exactly']
+Rank 1 | Centroid: ' might' | Score: 0.1123
+  Tokens: [' would', ' must', ' could', ' might', ' may']
+Rank 2 | Centroid: ' make' | Score: 0.1118
+  Tokens: [' makes', ' made', ' make', ' making']
+Rank 3 | Centroid: ' suggests' | Score: 0.0222
+  Tokens: [' seems', ' appears', ' contains', ' includes', ' says', ' describes', ' implies', ' refers', ' discusses', ' assumes', ' suggests', ' involves', ' mentions', ' shows']
+Rank 4 | Centroid: ' definitely' | Score: 0.0123
+  Tokens: [' likely', ' probably', ' definitely', ' clearly', ' certainly']
+Rank 5 | Centroid: ' correctly' | Score: 0.0041
+  Tokens: [' logically', ' correctly', ' properly', ' accurately', ' directly']
+Rank 6 | Centroid: ' usually' | Score: 0.0009
+  Tokens: [' generally', ' typically', ' usually', ' mostly']
+Rank 7 | Centroid: ' matches' | Score: 0.0008
+  Tokens: [' supports', ' fits', ' matches', ' align', ' agrees', ' meets']
+Rank 8 | Centroid: ' requires' | Score: 0.0008
+  Tokens: [' needs', ' works', ' uses', ' requires']
+Rank 9 | Centroid: ' provides' | Score: 0.0007
+  Tokens: [' provides', ' presents', ' gives', ' given', ' provided']
+Rank 10 | Centroid: ' follows' | Score: 0.0006
+  Tokens: [' follows', ' holds']
+Rank 11 | Centroid: ' indeed' | Score: 0.0006
+  Tokens: [' actually', ' indeed', ' also', ' still']
+Rank 12 | Centroid: ' either' | Score: 0.0001
+  Tokens: [' either']
 
-**Chosen Concept:** Rank 1 with score 0.9961
+**Chosen Concept:** Rank 1

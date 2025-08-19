@@ -1,0 +1,64 @@
+--- Step 12 Log ---
+
+== Filtered Candidates ==
+Token: ' must' (ID: 1969), Prob: 0.0010
+Token: ' based' (ID: 3118), Prob: 0.0006
+Token: ' needed' (ID: 4362), Prob: 0.0004
+Token: ' possible' (ID: 3204), Prob: 0.0003
+Token: ' may' (ID: 1231), Prob: 0.0002
+Token: ' would' (ID: 1035), Prob: 0.0002
+Token: ' make' (ID: 1281), Prob: 0.0002
+Token: ' made' (ID: 1865), Prob: 0.0002
+Token: ' need' (ID: 1184), Prob: 0.0001
+Token: ' explanation' (ID: 16148), Prob: 0.0001
+Token: ' could' (ID: 1410), Prob: 0.0001
+Token: ' required' (ID: 2567), Prob: 0.0001
+Token: ' might' (ID: 2578), Prob: 0.0001
+Token: ' list' (ID: 1140), Prob: 0.0001
+Token: ' like' (ID: 1075), Prob: 0.0001
+Token: ' per' (ID: 817), Prob: 0.0001
+Token: ' maybe' (ID: 7196), Prob: 0.0001
+Token: ' summary' (ID: 12126), Prob: 0.0001
+Token: ' related' (ID: 5435), Prob: 0.0000
+Token: ' separated' (ID: 18663), Prob: 0.0000
+Token: ' using' (ID: 1667), Prob: 0.0000
+Token: ' explained' (ID: 11247), Prob: 0.0000
+Token: ' description' (ID: 4008), Prob: 0.0000
+Token: ' according' (ID: 4092), Prob: 0.0000
+Token: ' please' (ID: 4486), Prob: 0.0000
+Token: ' show' (ID: 1473), Prob: 0.0000
+Token: ' regarding' (ID: 8826), Prob: 0.0000
+Token: ' explaining' (ID: 25021), Prob: 0.0000
+Token: '-based' (ID: 5980), Prob: 0.0000
+Token: ' explain' (ID: 10339), Prob: 0.0000
+Token: ' yes' (ID: 9834), Prob: 0.0000
+
+== Ranked Concepts (Clusters) ==
+Rank 1 | Centroid: ' might' | Score: 0.0017
+  Tokens: [' must', ' may', ' would', ' could', ' might']
+Rank 2 | Centroid: ' based' | Score: 0.0008
+  Tokens: [' based', ' using', ' according', '-based']
+Rank 3 | Centroid: ' needed' | Score: 0.0006
+  Tokens: [' needed', ' need', ' required']
+Rank 4 | Centroid: ' possible' | Score: 0.0004
+  Tokens: [' possible', ' maybe']
+Rank 5 | Centroid: ' make' | Score: 0.0004
+  Tokens: [' make', ' made']
+Rank 6 | Centroid: ' explain' | Score: 0.0002
+  Tokens: [' explanation', ' explained', ' explaining', ' explain']
+Rank 7 | Centroid: ' regarding' | Score: 0.0001
+  Tokens: [' related', ' separated', ' regarding']
+Rank 8 | Centroid: ' list' | Score: 0.0001
+  Tokens: [' list', ' show']
+Rank 9 | Centroid: ' summary' | Score: 0.0001
+  Tokens: [' summary', ' description']
+Rank 10 | Centroid: ' like' | Score: 0.0001
+  Tokens: [' like']
+Rank 11 | Centroid: ' per' | Score: 0.0001
+  Tokens: [' per']
+Rank 12 | Centroid: ' please' | Score: 0.0000
+  Tokens: [' please']
+Rank 13 | Centroid: ' yes' | Score: 0.0000
+  Tokens: [' yes']
+
+**Chosen Concept:** Rank 1

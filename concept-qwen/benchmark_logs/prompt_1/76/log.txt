@@ -1,0 +1,112 @@
+--- Step 76 Log ---
+
+== Filtered Candidates ==
+Token: ' grammar' (ID: 31428), Prob: 0.0236
+Token: ' word' (ID: 3409), Prob: 0.0004
+Token: ' tone' (ID: 16232), Prob: 0.0003
+Token: ' sentence' (ID: 11652), Prob: 0.0002
+Token: ' punctuation' (ID: 61503), Prob: 0.0001
+Token: ' syll' (ID: 47604), Prob: 0.0001
+Token: ' length' (ID: 3084), Prob: 0.0000
+Token: ' rhythm' (ID: 36290), Prob: 0.0000
+Token: ' words' (ID: 4244), Prob: 0.0000
+Token: ' lengths' (ID: 28316), Prob: 0.0000
+Token: ' language' (ID: 4128), Prob: 0.0000
+Token: ' syntax' (ID: 19482), Prob: 0.0000
+Token: ' synonyms' (ID: 85406), Prob: 0.0000
+Token: ' consistency' (ID: 28137), Prob: 0.0000
+Token: ' gramm' (ID: 68125), Prob: 0.0000
+Token: ' repetition' (ID: 53415), Prob: 0.0000
+Token: ' keywords' (ID: 20844), Prob: 0.0000
+Token: ' vocabulary' (ID: 34918), Prob: 0.0000
+Token: ' clarity' (ID: 31273), Prob: 0.0000
+Token: ' pronunciation' (ID: 70622), Prob: 0.0000
+Token: ' readability' (ID: 91494), Prob: 0.0000
+Token: ' simplicity' (ID: 38975), Prob: 0.0000
+Token: ' redundancy' (ID: 89373), Prob: 0.0000
+Token: ' technical' (ID: 10916), Prob: 0.0000
+Token: ' tense' (ID: 42687), Prob: 0.0000
+Token: ' structure' (ID: 5944), Prob: 0.0000
+Token: ' spelling' (ID: 42429), Prob: 0.0000
+Token: ' every' (ID: 1449), Prob: 0.0000
+Token: ' sentences' (ID: 22870), Prob: 0.0000
+Token: '-word' (ID: 37328), Prob: 0.0000
+Token: ' paragraph' (ID: 14311), Prob: 0.0000
+Token: ' synonym' (ID: 73350), Prob: 0.0000
+Token: ' Grammar' (ID: 61977), Prob: 0.0000
+Token: ' everything' (ID: 4297), Prob: 0.0000
+Token: ' complexity' (ID: 23094), Prob: 0.0000
+Token: ' conjug' (ID: 63280), Prob: 0.0000
+Token: ' rhyme' (ID: 96934), Prob: 0.0000
+Token: ' linguistic' (ID: 64667), Prob: 0.0000
+Token: ' balance' (ID: 8172), Prob: 0.0000
+Token: ' emotions' (ID: 21261), Prob: 0.0000
+Token: ' verbs' (ID: 61846), Prob: 0.0000
+Token: ' conson' (ID: 77505), Prob: 0.0000
+Token: ' conc' (ID: 3529), Prob: 0.0000
+Token: ' coherence' (ID: 77825), Prob: 0.0000
+Token: ' alignment' (ID: 17189), Prob: 0.0000
+Token: ' verb' (ID: 18607), Prob: 0.0000
+Token: ' contr' (ID: 6027), Prob: 0.0000
+Token: ' sensory' (ID: 47969), Prob: 0.0000
+Token: 'Grammar' (ID: 97178), Prob: 0.0000
+Token: ' phrases' (ID: 31747), Prob: 0.0000
+Token: ' accessibility' (ID: 39700), Prob: 0.0000
+Token: ' character' (ID: 3668), Prob: 0.0000
+Token: ' concentration' (ID: 19950), Prob: 0.0000
+Token: ' without' (ID: 2041), Prob: 0.0000
+Token: ' different' (ID: 2155), Prob: 0.0000
+Token: ' commas' (ID: 76602), Prob: 0.0000
+Token: ' parts' (ID: 5479), Prob: 0.0000
+Token: ' wording' (ID: 60227), Prob: 0.0000
+Token: ' spacing' (ID: 25943), Prob: 0.0000
+Token: ' key' (ID: 1376), Prob: 0.0000
+Token: ' overall' (ID: 8084), Prob: 0.0000
+Token: ' timing' (ID: 18405), Prob: 0.0000
+Token: ' lingu' (ID: 38503), Prob: 0.0000
+Token: ' whether' (ID: 3425), Prob: 0.0000
+Token: ' depth' (ID: 7990), Prob: 0.0000
+Token: ' dependencies' (ID: 19543), Prob: 0.0000
+Token: ' flow' (ID: 6396), Prob: 0.0000
+Token: ' sensitivity' (ID: 26443), Prob: 0.0000
+Token: ' tones' (ID: 41976), Prob: 0.0000
+
+== Ranked Concepts (Clusters) ==
+Rank 1 | Centroid: ' grammar' | Score: 0.0237
+  Tokens: [' grammar', ' language', ' syntax', ' gramm', ' vocabulary', ' Grammar', ' linguistic', 'Grammar', ' lingu']
+Rank 2 | Centroid: ' word' | Score: 0.0005
+  Tokens: [' word', ' words', '-word', ' wording']
+Rank 3 | Centroid: ' tone' | Score: 0.0003
+  Tokens: [' tone', ' tones']
+Rank 4 | Centroid: ' sentences' | Score: 0.0002
+  Tokens: [' sentence', ' sentences', ' paragraph', ' phrases']
+Rank 5 | Centroid: ' punctuation' | Score: 0.0001
+  Tokens: [' punctuation', ' commas']
+Rank 6 | Centroid: ' pronunciation' | Score: 0.0001
+  Tokens: [' syll', ' pronunciation', ' spelling', ' rhyme']
+Rank 7 | Centroid: ' length' | Score: 0.0001
+  Tokens: [' length', ' lengths', ' depth']
+Rank 8 | Centroid: ' rhythm' | Score: 0.0000
+  Tokens: [' rhythm', ' structure', ' balance', ' timing', ' flow']
+Rank 9 | Centroid: ' clarity' | Score: 0.0000
+  Tokens: [' consistency', ' repetition', ' clarity', ' readability', ' simplicity', ' redundancy', ' complexity', ' coherence', ' accessibility']
+Rank 10 | Centroid: ' synonyms' | Score: 0.0000
+  Tokens: [' synonyms', ' synonym']
+Rank 11 | Centroid: ' verbs' | Score: 0.0000
+  Tokens: [' keywords', ' verbs', ' verb']
+Rank 12 | Centroid: ' without' | Score: 0.0000
+  Tokens: [' technical', ' without', ' different', ' parts', ' key']
+Rank 13 | Centroid: ' concentration' | Score: 0.0000
+  Tokens: [' conjug', ' conson', ' conc', ' contr', ' concentration']
+Rank 14 | Centroid: ' everything' | Score: 0.0000
+  Tokens: [' every', ' everything', ' overall', ' whether']
+Rank 15 | Centroid: ' tense' | Score: 0.0000
+  Tokens: [' tense', ' emotions']
+Rank 16 | Centroid: ' sensory' | Score: 0.0000
+  Tokens: [' sensory', ' dependencies', ' sensitivity']
+Rank 17 | Centroid: ' alignment' | Score: 0.0000
+  Tokens: [' alignment', ' spacing']
+Rank 18 | Centroid: ' character' | Score: 0.0000
+  Tokens: [' character']
+
+**Chosen Concept:** Rank 1

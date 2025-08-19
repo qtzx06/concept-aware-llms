@@ -1,66 +1,78 @@
 --- Step 95 Log ---
 
 == Filtered Candidates ==
-Token: ' However' (ID: 4354), Prob: 0.0454
-Token: ' Therefore' (ID: 15277), Prob: 0.0178
-Token: ' Scientists' (ID: 56016), Prob: 0.0178
-Token: ' Researchers' (ID: 58150), Prob: 0.0167
-Token: ' Also' (ID: 7281), Prob: 0.0115
-Token: ' Based' (ID: 20205), Prob: 0.0101
-Token: ' Since' (ID: 8704), Prob: 0.0054
-Token: ' According' (ID: 10548), Prob: 0.0054
-Token: ' Research' (ID: 8319), Prob: 0.0048
-Token: ' Despite' (ID: 17715), Prob: 0.0031
-Token: ' Thus' (ID: 14301), Prob: 0.0026
-Token: ' Even' (ID: 7418), Prob: 0.0023
-Token: ' Additionally' (ID: 22406), Prob: 0.0023
-Token: ' Furthermore' (ID: 23405), Prob: 0.0021
-Token: ' Without' (ID: 17147), Prob: 0.0019
-Token: ' Let' (ID: 6771), Prob: 0.0015
-Token: ' Moreover' (ID: 22827), Prob: 0.0015
-Token: ' Due' (ID: 23662), Prob: 0.0013
-Token: ' Hence' (ID: 31040), Prob: 0.0013
-Token: ' Given' (ID: 16246), Prob: 0.0011
-Token: ' Explain' (ID: 81917), Prob: 0.0011
-Token: ' Please' (ID: 5209), Prob: 0.0011
-Token: ' Suppose' (ID: 82610), Prob: 0.0011
-Token: ' One' (ID: 3776), Prob: 0.0010
-Token: ' Unfortunately' (ID: 18656), Prob: 0.0010
-Token: ' Currently' (ID: 24150), Prob: 0.0010
-Token: ' Otherwise' (ID: 18214), Prob: 0.0009
-Token: ' Alpha' (ID: 24708), Prob: 0.0009
-Token: ' Find' (ID: 7379), Prob: 0.0008
-Token: ' Although' (ID: 10328), Prob: 0.0008
-Token: ' Using' (ID: 12091), Prob: 0.0008
-Token: ' Engine' (ID: 8200), Prob: 0.0006
-Token: ' Today' (ID: 11201), Prob: 0.0006
+Token: ' like' (ID: 1075), Prob: 1.0000
+Token: ' else' (ID: 770), Prob: 0.0002
+Token: ' yes' (ID: 9834), Prob: 0.0000
+Token: ' Like' (ID: 8909), Prob: 0.0000
+Token: ' similar' (ID: 4428), Prob: 0.0000
+Token: ' elif' (ID: 4409), Prob: 0.0000
+Token: 'like' (ID: 4803), Prob: 0.0000
+Token: ' LIKE' (ID: 20529), Prob: 0.0000
+Token: ' list' (ID: 1140), Prob: 0.0000
+Token: '_like' (ID: 25535), Prob: 0.0000
+Token: '-like' (ID: 12681), Prob: 0.0000
+Token: ' maybe' (ID: 7196), Prob: 0.0000
+Token: ' include' (ID: 2924), Prob: 0.0000
+Token: '.like' (ID: 66318), Prob: 0.0000
+Token: ' etc' (ID: 4992), Prob: 0.0000
+Token: ' likes' (ID: 13151), Prob: 0.0000
+Token: ' around' (ID: 2163), Prob: 0.0000
+Token: 'Like' (ID: 12949), Prob: 0.0000
+Token: ' much' (ID: 1753), Prob: 0.0000
+Token: ' including' (ID: 2670), Prob: 0.0000
+Token: ' related' (ID: 5435), Prob: 0.0000
+Token: ' limited' (ID: 7199), Prob: 0.0000
+Token: ' otherwise' (ID: 5937), Prob: 0.0000
+Token: ' based' (ID: 3118), Prob: 0.0000
+Token: ' possible' (ID: 3204), Prob: 0.0000
+Token: ' say' (ID: 1977), Prob: 0.0000
+Token: ' since' (ID: 2474), Prob: 0.0000
+Token: ' yeah' (ID: 21639), Prob: 0.0000
+Token: ' missing' (ID: 7402), Prob: 0.0000
+Token: ' important' (ID: 2989), Prob: 0.0000
+Token: ' nice' (ID: 6419), Prob: 0.0000
+Token: ' seperti' (ID: 67720), Prob: 0.0000
+Token: ' little' (ID: 2632), Prob: 0.0000
+Token: ' last' (ID: 1537), Prob: 0.0000
+Token: ' usually' (ID: 5990), Prob: 0.0000
+Token: ' relevant' (ID: 9760), Prob: 0.0000
+Token: ' listed' (ID: 10007), Prob: 0.0000
+Token: ' might' (ID: 2578), Prob: 0.0000
+Token: ' kind' (ID: 3093), Prob: 0.0000
+Token: ' liked' (ID: 14915), Prob: 0.0000
+Token: ' less' (ID: 2686), Prob: 0.0000
 
 == Ranked Concepts (Clusters) ==
-Rank 1 | Concept Score: 0.0464
-  Tokens: [' However', ' Unfortunately']
-Rank 2 | Concept Score: 0.0393
-  Tokens: [' Scientists', ' Researchers', ' Research']
-Rank 3 | Concept Score: 0.0217
-  Tokens: [' Therefore', ' Thus', ' Hence']
-Rank 4 | Concept Score: 0.0173
-  Tokens: [' Also', ' Additionally', ' Furthermore', ' Moreover']
-Rank 5 | Concept Score: 0.0164
-  Tokens: [' Based', ' According', ' Using']
-Rank 6 | Concept Score: 0.0079
-  Tokens: [' Since', ' Due', ' Given']
-Rank 7 | Concept Score: 0.0061
-  Tokens: [' Despite', ' Even', ' Although']
-Rank 8 | Concept Score: 0.0034
-  Tokens: [' Let', ' Suppose', ' Find']
-Rank 9 | Concept Score: 0.0028
-  Tokens: [' Without', ' Otherwise']
-Rank 10 | Concept Score: 0.0022
-  Tokens: [' Explain', ' Please']
-Rank 11 | Concept Score: 0.0019
-  Tokens: [' One', ' Alpha']
-Rank 12 | Concept Score: 0.0016
-  Tokens: [' Currently', ' Today']
-Rank 13 | Concept Score: 0.0006
-  Tokens: [' Engine']
+Rank 1 | Centroid: ' Like' | Score: 1.0000
+  Tokens: [' like', ' Like', 'like', ' LIKE', '_like', '-like', '.like', 'Like', ' seperti']
+Rank 2 | Centroid: ' else' | Score: 0.0002
+  Tokens: [' else', ' elif', ' otherwise']
+Rank 3 | Centroid: ' yes' | Score: 0.0000
+  Tokens: [' yes', ' yeah']
+Rank 4 | Centroid: ' related' | Score: 0.0000
+  Tokens: [' similar', ' related', ' relevant']
+Rank 5 | Centroid: ' list' | Score: 0.0000
+  Tokens: [' list', ' listed']
+Rank 6 | Centroid: ' maybe' | Score: 0.0000
+  Tokens: [' maybe', ' possible', ' might']
+Rank 7 | Centroid: ' include' | Score: 0.0000
+  Tokens: [' include', ' including']
+Rank 8 | Centroid: ' less' | Score: 0.0000
+  Tokens: [' much', ' limited', ' little', ' less']
+Rank 9 | Centroid: ' etc' | Score: 0.0000
+  Tokens: [' etc', ' say']
+Rank 10 | Centroid: ' likes' | Score: 0.0000
+  Tokens: [' likes', ' liked']
+Rank 11 | Centroid: ' around' | Score: 0.0000
+  Tokens: [' around']
+Rank 12 | Centroid: ' important' | Score: 0.0000
+  Tokens: [' missing', ' important', ' nice']
+Rank 13 | Centroid: ' based' | Score: 0.0000
+  Tokens: [' based', ' since']
+Rank 14 | Centroid: ' last' | Score: 0.0000
+  Tokens: [' last', ' kind']
+Rank 15 | Centroid: ' usually' | Score: 0.0000
+  Tokens: [' usually']
 
-**Chosen Concept:** Rank 1 with score 0.0464
+**Chosen Concept:** Rank 1

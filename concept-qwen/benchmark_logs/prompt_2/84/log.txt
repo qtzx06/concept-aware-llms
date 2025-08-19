@@ -1,97 +1,75 @@
 --- Step 84 Log ---
 
 == Filtered Candidates ==
-Token: ' must' (ID: 1969), Prob: 0.0688
-Token: ' may' (ID: 1231), Prob: 0.0369
-Token: ' could' (ID: 1410), Prob: 0.0254
-Token: ' might' (ID: 2578), Prob: 0.0154
-Token: ' found' (ID: 1730), Prob: 0.0106
-Token: ' used' (ID: 1483), Prob: 0.0099
-Token: ' needs' (ID: 3880), Prob: 0.0064
-Token: ' responsible' (ID: 8480), Prob: 0.0064
-Token: ' would' (ID: 1035), Prob: 0.0060
-Token: ' growth' (ID: 6513), Prob: 0.0050
-Token: ' inside' (ID: 4766), Prob: 0.0044
-Token: ' grows' (ID: 27715), Prob: 0.0037
-Token: ' requires' (ID: 7460), Prob: 0.0027
-Token: ' causes' (ID: 11137), Prob: 0.0027
-Token: ' type' (ID: 943), Prob: 0.0020
-Token: ' cannot' (ID: 4157), Prob: 0.0020
-Token: ' contained' (ID: 12985), Prob: 0.0018
-Token: ' within' (ID: 2878), Prob: 0.0015
-Token: ' present' (ID: 3042), Prob: 0.0014
-Token: ' causing' (ID: 14381), Prob: 0.0014
-Token: ' spreads' (ID: 42553), Prob: 0.0014
-Token: ' likely' (ID: 4363), Prob: 0.0013
-Token: ' appears' (ID: 7952), Prob: 0.0013
-Token: ' spread' (ID: 8865), Prob: 0.0013
-Token: ' fungus' (ID: 78802), Prob: 0.0012
-Token: ' actually' (ID: 3520), Prob: 0.0010
-Token: ' produces' (ID: 18644), Prob: 0.0010
-Token: ' exists' (ID: 6724), Prob: 0.0009
-Token: ' required' (ID: 2567), Prob: 0.0009
-Token: ' probably' (ID: 4658), Prob: 0.0009
-Token: ' infection' (ID: 18873), Prob: 0.0009
-Token: ' currently' (ID: 5023), Prob: 0.0008
-Token: ' contains' (ID: 5610), Prob: 0.0008
-Token: ' produced' (ID: 8947), Prob: 0.0008
-Token: ' plays' (ID: 11088), Prob: 0.0008
-Token: ' alone' (ID: 7484), Prob: 0.0008
-Token: ' strain' (ID: 25716), Prob: 0.0008
-Token: ' also' (ID: 1083), Prob: 0.0007
-Token: ' needed' (ID: 4362), Prob: 0.0007
-Token: ' remains' (ID: 8458), Prob: 0.0007
-Token: ' acts' (ID: 14056), Prob: 0.0007
-Token: ' species' (ID: 9419), Prob: 0.0007
-Token: ' seems' (ID: 4977), Prob: 0.0006
-Token: ' still' (ID: 2058), Prob: 0.0005
-Token: ' growing' (ID: 7826), Prob: 0.0005
-Token: ' caused' (ID: 8881), Prob: 0.0005
-Token: ' somehow' (ID: 16925), Prob: 0.0005
-Token: ' strains' (ID: 41300), Prob: 0.0005
-Token: ' fungi' (ID: 80440), Prob: 0.0005
-Token: ' virus' (ID: 16770), Prob: 0.0005
-Token: ' population' (ID: 7042), Prob: 0.0005
-Token: ' released' (ID: 5880), Prob: 0.0004
-Token: ' infect' (ID: 33427), Prob: 0.0004
-Token: ' provides' (ID: 5707), Prob: 0.0004
-Token: ' located' (ID: 7407), Prob: 0.0004
-Token: ' prevents' (ID: 27934), Prob: 0.0004
-Token: ' plants' (ID: 10779), Prob: 0.0003
-Token: ' discovered' (ID: 11105), Prob: 0.0003
-Token: ' bacteria' (ID: 23157), Prob: 0.0003
-Token: ' spreading' (ID: 30035), Prob: 0.0003
-Token: ' cause' (ID: 5240), Prob: 0.0003
-Token: ' supports' (ID: 11554), Prob: 0.0003
-Token: ' originally' (ID: 13214), Prob: 0.0003
-Token: ' belongs' (ID: 17180), Prob: 0.0003
+Token: ' yes' (ID: 9834), Prob: 0.9219
+Token: ' yeah' (ID: 21639), Prob: 0.0004
+Token: ' maybe' (ID: 7196), Prob: 0.0001
+Token: ' something' (ID: 2494), Prob: 0.0001
+Token: ' hello' (ID: 23811), Prob: 0.0001
+Token: ' etc' (ID: 4992), Prob: 0.0001
+Token: ' nothing' (ID: 4302), Prob: 0.0000
+Token: 'yes' (ID: 9693), Prob: 0.0000
+Token: ' exactly' (ID: 6896), Prob: 0.0000
+Token: ' Yes' (ID: 7414), Prob: 0.0000
+Token: ' also' (ID: 1083), Prob: 0.0000
+Token: ' wait' (ID: 3783), Prob: 0.0000
+Token: ' okay' (ID: 16910), Prob: 0.0000
+Token: ' positive' (ID: 6785), Prob: 0.0000
+Token: ' negative' (ID: 8225), Prob: 0.0000
+Token: ' whether' (ID: 3425), Prob: 0.0000
+Token: ' answer' (ID: 4226), Prob: 0.0000
+Token: ' YES' (ID: 14080), Prob: 0.0000
+Token: ' none' (ID: 6857), Prob: 0.0000
+Token: '=yes' (ID: 59565), Prob: 0.0000
+Token: ' one' (ID: 825), Prob: 0.0000
+Token: ' say' (ID: 1977), Prob: 0.0000
+Token: ' always' (ID: 2677), Prob: 0.0000
+Token: ' sure' (ID: 2704), Prob: 0.0000
+Token: ' possible' (ID: 3204), Prob: 0.0000
+Token: ' unknown' (ID: 9788), Prob: 0.0000
+Token: ' without' (ID: 2041), Prob: 0.0000
+Token: ' either' (ID: 2987), Prob: 0.0000
+Token: ' correct' (ID: 4396), Prob: 0.0000
+Token: ' another' (ID: 2441), Prob: 0.0000
+Token: ' based' (ID: 3118), Prob: 0.0000
+Token: ' depends' (ID: 13798), Prob: 0.0000
+Token: ' even' (ID: 1496), Prob: 0.0000
+Token: ' enough' (ID: 3322), Prob: 0.0000
+Token: ' please' (ID: 4486), Prob: 0.0000
+Token: ' zero' (ID: 7168), Prob: 0.0000
 
 == Ranked Concepts (Clusters) ==
-Rank 1 | Concept Score: 0.1543
-  Tokens: [' must', ' may', ' could', ' might', ' would', ' cannot']
-Rank 2 | Concept Score: 0.0164
-  Tokens: [' used', ' responsible']
-Rank 3 | Concept Score: 0.0125
-  Tokens: [' found', ' produced', ' released', ' located', ' discovered']
-Rank 4 | Concept Score: 0.0107
-  Tokens: [' needs', ' requires', ' required', ' needed']
-Rank 5 | Concept Score: 0.0100
-  Tokens: [' inside', ' contained', ' within', ' present', ' alone']
-Rank 6 | Concept Score: 0.0092
-  Tokens: [' growth', ' grows', ' growing']
-Rank 7 | Concept Score: 0.0073
-  Tokens: [' appears', ' exists', ' contains', ' plays', ' remains', ' acts', ' seems', ' provides', ' prevents', ' supports', ' belongs']
-Rank 8 | Concept Score: 0.0061
-  Tokens: [' likely', ' actually', ' probably', ' currently', ' also', ' still', ' somehow', ' originally']
-Rank 9 | Concept Score: 0.0049
-  Tokens: [' causes', ' causing', ' caused', ' cause']
-Rank 10 | Concept Score: 0.0047
-  Tokens: [' type', ' strain', ' species', ' strains', ' population', ' plants']
-Rank 11 | Concept Score: 0.0038
-  Tokens: [' fungus', ' infection', ' fungi', ' virus', ' infect', ' bacteria']
-Rank 12 | Concept Score: 0.0030
-  Tokens: [' spreads', ' spread', ' spreading']
-Rank 13 | Concept Score: 0.0010
-  Tokens: [' produces']
+Rank 1 | Centroid: ' yes' | Score: 0.9219
+  Tokens: [' yes', ' yeah', 'yes', ' Yes', ' YES', '=yes', ' sure']
+Rank 2 | Centroid: ' nothing' | Score: 0.0002
+  Tokens: [' something', ' nothing', ' none']
+Rank 3 | Centroid: ' maybe' | Score: 0.0001
+  Tokens: [' maybe', ' possible']
+Rank 4 | Centroid: ' always' | Score: 0.0001
+  Tokens: [' exactly', ' also', ' always']
+Rank 5 | Centroid: ' hello' | Score: 0.0001
+  Tokens: [' hello', ' please']
+Rank 6 | Centroid: ' negative' | Score: 0.0001
+  Tokens: [' positive', ' negative', ' zero']
+Rank 7 | Centroid: ' etc' | Score: 0.0001
+  Tokens: [' etc']
+Rank 8 | Centroid: ' wait' | Score: 0.0000
+  Tokens: [' wait', ' say']
+Rank 9 | Centroid: ' whether' | Score: 0.0000
+  Tokens: [' whether', ' either']
+Rank 10 | Centroid: ' answer' | Score: 0.0000
+  Tokens: [' answer', ' correct']
+Rank 11 | Centroid: ' okay' | Score: 0.0000
+  Tokens: [' okay']
+Rank 12 | Centroid: ' based' | Score: 0.0000
+  Tokens: [' without', ' based', ' depends']
+Rank 13 | Centroid: ' one' | Score: 0.0000
+  Tokens: [' one', ' another']
+Rank 14 | Centroid: ' unknown' | Score: 0.0000
+  Tokens: [' unknown']
+Rank 15 | Centroid: ' even' | Score: 0.0000
+  Tokens: [' even']
+Rank 16 | Centroid: ' enough' | Score: 0.0000
+  Tokens: [' enough']
 
-**Chosen Concept:** Rank 1 with score 0.1543
+**Chosen Concept:** Rank 1

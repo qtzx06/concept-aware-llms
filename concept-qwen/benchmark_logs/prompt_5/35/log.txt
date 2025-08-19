@@ -1,71 +1,109 @@
 --- Step 35 Log ---
 
 == Filtered Candidates ==
-Token: ' one' (ID: 825), Prob: 0.0747
-Token: ' two' (ID: 1378), Prob: 0.0200
-Token: ' twice' (ID: 10917), Prob: 0.0188
-Token: ' every' (ID: 1449), Prob: 0.0147
-Token: ' three' (ID: 2326), Prob: 0.0147
-Token: ' within' (ID: 2878), Prob: 0.0042
-Token: ' five' (ID: 4236), Prob: 0.0042
-Token: ' according' (ID: 4092), Prob: 0.0039
-Token: ' four' (ID: 3040), Prob: 0.0024
-Token: ' halfway' (ID: 41336), Prob: 0.0024
-Token: ' directly' (ID: 5961), Prob: 0.0016
-Token: ' immediately' (ID: 7069), Prob: 0.0016
-Token: ' half' (ID: 4279), Prob: 0.0015
-Token: ' seven' (ID: 8094), Prob: 0.0014
-Token: ' behind' (ID: 4815), Prob: 0.0013
-Token: ' exactly' (ID: 6896), Prob: 0.0011
-Token: ' based' (ID: 3118), Prob: 0.0010
-Token: ' six' (ID: 4743), Prob: 0.0010
-Token: ' midnight' (ID: 32333), Prob: 0.0010
-Token: ' right' (ID: 1290), Prob: 0.0009
-Token: ' twenty' (ID: 17073), Prob: 0.0008
-Token: ' across' (ID: 3941), Prob: 0.0007
-Token: ' ten' (ID: 5779), Prob: 0.0007
-Token: ' straight' (ID: 7678), Prob: 0.0007
-Token: ' either' (ID: 2987), Prob: 0.0007
-Token: ' via' (ID: 4566), Prob: 0.0007
-Token: ' whenever' (ID: 15356), Prob: 0.0007
-Token: ' enough' (ID: 3322), Prob: 0.0006
-Token: ' due' (ID: 4152), Prob: 0.0006
-Token: ' noon' (ID: 37145), Prob: 0.0006
-Token: ' minutes' (ID: 4420), Prob: 0.0005
-Token: ' using' (ID: 1667), Prob: 0.0005
-Token: ' equal' (ID: 6144), Prob: 0.0004
-Token: ' eight' (ID: 8063), Prob: 0.0004
-Token: ' depending' (ID: 11649), Prob: 0.0004
-Token: ' opposite' (ID: 14002), Prob: 0.0004
+Token: ' sense' (ID: 5530), Prob: 0.9805
+Token: ' logical' (ID: 19819), Prob: 0.0058
+Token: ' good' (ID: 1661), Prob: 0.0010
+Token: ' reasonable' (ID: 13276), Prob: 0.0007
+Token: ' complete' (ID: 4583), Prob: 0.0005
+Token: ' full' (ID: 2480), Prob: 0.0003
+Token: ' sens' (ID: 6097), Prob: 0.0002
+Token: ' sensible' (ID: 37661), Prob: 0.0002
+Token: ' proper' (ID: 6169), Prob: 0.0002
+Token: ' great' (ID: 2244), Prob: 0.0001
+Token: ' correct' (ID: 4396), Prob: 0.0001
+Token: ' meaningful' (ID: 22414), Prob: 0.0001
+Token: ' senses' (ID: 37107), Prob: 0.0001
+Token: ' sensory' (ID: 47969), Prob: 0.0001
+Token: ' sufficient' (ID: 14016), Prob: 0.0001
+Token: ' scientific' (ID: 12344), Prob: 0.0001
+Token: ' much' (ID: 1753), Prob: 0.0001
+Token: ' clear' (ID: 2797), Prob: 0.0001
+Token: ' perfect' (ID: 4727), Prob: 0.0001
+Token: ' gramm' (ID: 68125), Prob: 0.0001
+Token: ' general' (ID: 4586), Prob: 0.0001
+Token: ' significant' (ID: 5089), Prob: 0.0001
+Token: ' physical' (ID: 6961), Prob: 0.0000
+Token: ' logic' (ID: 12218), Prob: 0.0000
+Token: ' plausible' (ID: 49334), Prob: 0.0000
+Token: ' appropriate' (ID: 8311), Prob: 0.0000
+Token: ' overall' (ID: 8084), Prob: 0.0000
+Token: ' total' (ID: 2790), Prob: 0.0000
+Token: ' absolutely' (ID: 10875), Prob: 0.0000
+Token: ' sound' (ID: 5112), Prob: 0.0000
+Token: ' direct' (ID: 2118), Prob: 0.0000
+Token: ' make' (ID: 1281), Prob: 0.0000
+Token: ' valid' (ID: 2697), Prob: 0.0000
+Token: ' meaning' (ID: 7290), Prob: 0.0000
+Token: ' biological' (ID: 23275), Prob: 0.0000
+Token: ' semantic' (ID: 41733), Prob: 0.0000
+Token: ' logically' (ID: 73045), Prob: 0.0000
+Token: ' emotional' (ID: 14269), Prob: 0.0000
+Token: ' enough' (ID: 3322), Prob: 0.0000
+Token: ' obvious' (ID: 8036), Prob: 0.0000
+Token: ' one' (ID: 825), Prob: 0.0000
+Token: ' Sense' (ID: 46229), Prob: 0.0000
+Token: ' better' (ID: 2664), Prob: 0.0000
+Token: ' simple' (ID: 4285), Prob: 0.0000
+Token: ' immediate' (ID: 13922), Prob: 0.0000
+Token: ' sentido' (ID: 64384), Prob: 0.0000
+Token: ' reference' (ID: 5785), Prob: 0.0000
+Token: ' apparent' (ID: 9981), Prob: 0.0000
+Token: ' intuitive' (ID: 41679), Prob: 0.0000
+Token: ' substantial' (ID: 11924), Prob: 0.0000
+Token: ' considerable' (ID: 23839), Prob: 0.0000
+Token: ' use' (ID: 990), Prob: 0.0000
+Token: ' little' (ID: 2632), Prob: 0.0000
+Token: ' possible' (ID: 3204), Prob: 0.0000
+Token: ' absolute' (ID: 10740), Prob: 0.0000
+Token: ' extensive' (ID: 16376), Prob: 0.0000
+Token: ' reasonably' (ID: 28446), Prob: 0.0000
+Token: ' maximum' (ID: 7192), Prob: 0.0000
+Token: ' true' (ID: 830), Prob: 0.0000
+Token: ' comprehensive' (ID: 15817), Prob: 0.0000
+Token: ' conceptual' (ID: 43801), Prob: 0.0000
+Token: ' either' (ID: 2987), Prob: 0.0000
+Token: ' generally' (ID: 8789), Prob: 0.0000
+Token: ' adequate' (ID: 25532), Prob: 0.0000
+Token: ' practical' (ID: 14976), Prob: 0.0000
+Token: ' realistic' (ID: 25489), Prob: 0.0000
 
 == Ranked Concepts (Clusters) ==
-Rank 1 | Concept Score: 0.0947
-  Tokens: [' one', ' two']
-Rank 2 | Concept Score: 0.0256
-  Tokens: [' three', ' five', ' four', ' seven', ' six', ' twenty', ' ten', ' eight']
-Rank 3 | Concept Score: 0.0227
-  Tokens: [' twice', ' halfway', ' half']
-Rank 4 | Concept Score: 0.0154
-  Tokens: [' every', ' whenever']
-Rank 5 | Concept Score: 0.0062
-  Tokens: [' within', ' behind', ' across']
-Rank 6 | Concept Score: 0.0060
-  Tokens: [' according', ' based', ' due', ' depending']
-Rank 7 | Concept Score: 0.0044
-  Tokens: [' directly', ' immediately', ' exactly']
-Rank 8 | Concept Score: 0.0021
-  Tokens: [' midnight', ' noon', ' minutes']
-Rank 9 | Concept Score: 0.0016
-  Tokens: [' right', ' straight']
-Rank 10 | Concept Score: 0.0012
-  Tokens: [' via', ' using']
-Rank 11 | Concept Score: 0.0007
-  Tokens: [' either']
-Rank 12 | Concept Score: 0.0006
-  Tokens: [' enough']
-Rank 13 | Concept Score: 0.0004
-  Tokens: [' equal']
-Rank 14 | Concept Score: 0.0004
-  Tokens: [' opposite']
+Rank 1 | Centroid: ' sense' | Score: 0.9805
+  Tokens: [' sense', ' sens', ' senses', ' sensory', ' Sense', ' sentido']
+Rank 2 | Centroid: ' logical' | Score: 0.0060
+  Tokens: [' logical', ' gramm', ' logic', ' logically']
+Rank 3 | Centroid: ' good' | Score: 0.0010
+  Tokens: [' good', ' better']
+Rank 4 | Centroid: ' reasonable' | Score: 0.0010
+  Tokens: [' reasonable', ' sensible', ' plausible', ' reasonably', ' realistic']
+Rank 5 | Centroid: ' comprehensive' | Score: 0.0008
+  Tokens: [' complete', ' full', ' maximum', ' comprehensive']
+Rank 6 | Centroid: ' proper' | Score: 0.0003
+  Tokens: [' proper', ' correct', ' appropriate']
+Rank 7 | Centroid: ' conceptual' | Score: 0.0002
+  Tokens: [' scientific', ' physical', ' biological', ' semantic', ' emotional', ' intuitive', ' conceptual', ' practical']
+Rank 8 | Centroid: ' little' | Score: 0.0002
+  Tokens: [' great', ' much', ' little']
+Rank 9 | Centroid: ' obvious' | Score: 0.0002
+  Tokens: [' clear', ' direct', ' obvious', ' simple', ' immediate', ' apparent']
+Rank 10 | Centroid: ' meaningful' | Score: 0.0001
+  Tokens: [' meaningful', ' meaning']
+Rank 11 | Centroid: ' overall' | Score: 0.0001
+  Tokens: [' general', ' overall', ' total', ' generally']
+Rank 12 | Centroid: ' sufficient' | Score: 0.0001
+  Tokens: [' sufficient', ' enough', ' adequate']
+Rank 13 | Centroid: ' perfect' | Score: 0.0001
+  Tokens: [' perfect', ' reference']
+Rank 14 | Centroid: ' substantial' | Score: 0.0001
+  Tokens: [' significant', ' substantial', ' considerable', ' extensive']
+Rank 15 | Centroid: ' make' | Score: 0.0001
+  Tokens: [' make', ' one', ' use', ' either']
+Rank 16 | Centroid: ' valid' | Score: 0.0000
+  Tokens: [' valid', ' possible', ' true']
+Rank 17 | Centroid: ' absolutely' | Score: 0.0000
+  Tokens: [' absolutely', ' absolute']
+Rank 18 | Centroid: ' sound' | Score: 0.0000
+  Tokens: [' sound']
 
-**Chosen Concept:** Rank 1 with score 0.0947
+**Chosen Concept:** Rank 1

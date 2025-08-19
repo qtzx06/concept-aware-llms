@@ -1,0 +1,104 @@
+--- Step 88 Log ---
+
+== Filtered Candidates ==
+Token: ' exactly' (ID: 6896), Prob: 0.0200
+Token: ' specific' (ID: 3151), Prob: 0.0121
+Token: ' less' (ID: 2686), Prob: 0.0057
+Token: ' one' (ID: 825), Prob: 0.0051
+Token: ' two' (ID: 1378), Prob: 0.0045
+Token: ' emojis' (ID: 99066), Prob: 0.0042
+Token: ' words' (ID: 4244), Prob: 0.0039
+Token: ' three' (ID: 2326), Prob: 0.0037
+Token: ' five' (ID: 4236), Prob: 0.0031
+Token: ' four' (ID: 3040), Prob: 0.0021
+Token: ' proper' (ID: 6169), Prob: 0.0021
+Token: ' within' (ID: 2878), Prob: 0.0014
+Token: ' fewer' (ID: 16745), Prob: 0.0014
+Token: ' six' (ID: 4743), Prob: 0.0011
+Token: ' verbs' (ID: 61846), Prob: 0.0008
+Token: ' multiple' (ID: 5248), Prob: 0.0007
+Token: ' paragraph' (ID: 14311), Prob: 0.0007
+Token: ' emotion' (ID: 19772), Prob: 0.0007
+Token: ' elements' (ID: 5424), Prob: 0.0007
+Token: ' keywords' (ID: 20844), Prob: 0.0006
+Token: ' emoji' (ID: 42365), Prob: 0.0006
+Token: ' exact' (ID: 4734), Prob: 0.0005
+Token: ' vivid' (ID: 42020), Prob: 0.0005
+Token: ' every' (ID: 1449), Prob: 0.0005
+Token: ' emotional' (ID: 14269), Prob: 0.0005
+Token: ' first' (ID: 1156), Prob: 0.0004
+Token: ' either' (ID: 2987), Prob: 0.0004
+Token: ' correct' (ID: 4396), Prob: 0.0004
+Token: ' enough' (ID: 3322), Prob: 0.0004
+Token: ' certain' (ID: 3654), Prob: 0.0004
+Token: ' ten' (ID: 5779), Prob: 0.0004
+Token: ' natural' (ID: 5810), Prob: 0.0004
+Token: ' emotions' (ID: 21261), Prob: 0.0004
+Token: ' single' (ID: 3175), Prob: 0.0004
+Token: ' seven' (ID: 8094), Prob: 0.0004
+Token: ' sentence' (ID: 11652), Prob: 0.0004
+Token: ' lowercase' (ID: 42047), Prob: 0.0004
+Token: ' key' (ID: 1376), Prob: 0.0003
+Token: ' paragraphs' (ID: 42643), Prob: 0.0003
+Token: ' direct' (ID: 2118), Prob: 0.0003
+Token: ' full' (ID: 2480), Prob: 0.0003
+Token: ' several' (ID: 3807), Prob: 0.0003
+Token: ' English' (ID: 6364), Prob: 0.0003
+Token: ' bold' (ID: 13939), Prob: 0.0003
+Token: ' eight' (ID: 8063), Prob: 0.0003
+Token: ' sentences' (ID: 22870), Prob: 0.0003
+Token: ' word' (ID: 3409), Prob: 0.0003
+Token: ' capital' (ID: 6722), Prob: 0.0003
+Token: ' quotes' (ID: 17194), Prob: 0.0003
+Token: ' phrases' (ID: 31747), Prob: 0.0003
+Token: ' bullet' (ID: 17432), Prob: 0.0003
+Token: ' title' (ID: 2265), Prob: 0.0002
+Token: ' something' (ID: 2494), Prob: 0.0002
+Token: ' technical' (ID: 10916), Prob: 0.0002
+Token: ' body' (ID: 2487), Prob: 0.0002
+
+== Ranked Concepts (Clusters) ==
+Rank 1 | Centroid: ' exactly' | Score: 0.0205
+  Tokens: [' exactly', ' exact']
+Rank 2 | Centroid: ' five' | Score: 0.0155
+  Tokens: [' two', ' three', ' five', ' four', ' six', ' ten', ' seven', ' eight']
+Rank 3 | Centroid: ' specific' | Score: 0.0125
+  Tokens: [' specific', ' certain']
+Rank 4 | Centroid: ' less' | Score: 0.0072
+  Tokens: [' less', ' fewer']
+Rank 5 | Centroid: ' words' | Score: 0.0060
+  Tokens: [' words', ' verbs', ' keywords', ' word', ' phrases']
+Rank 6 | Centroid: ' one' | Score: 0.0055
+  Tokens: [' one', ' first']
+Rank 7 | Centroid: ' emojis' | Score: 0.0048
+  Tokens: [' emojis', ' emoji']
+Rank 8 | Centroid: ' within' | Score: 0.0026
+  Tokens: [' within', ' every', ' either', ' something']
+Rank 9 | Centroid: ' proper' | Score: 0.0025
+  Tokens: [' proper', ' correct']
+Rank 10 | Centroid: ' sentences' | Score: 0.0020
+  Tokens: [' paragraph', ' sentence', ' paragraphs', ' sentences', ' quotes']
+Rank 11 | Centroid: ' emotions' | Score: 0.0016
+  Tokens: [' emotion', ' emotional', ' emotions']
+Rank 12 | Centroid: ' multiple' | Score: 0.0011
+  Tokens: [' multiple', ' several']
+Rank 13 | Centroid: ' bold' | Score: 0.0010
+  Tokens: [' lowercase', ' bold', ' capital']
+Rank 14 | Centroid: ' vivid' | Score: 0.0008
+  Tokens: [' vivid', ' bullet']
+Rank 15 | Centroid: ' natural' | Score: 0.0007
+  Tokens: [' natural', ' key']
+Rank 16 | Centroid: ' elements' | Score: 0.0007
+  Tokens: [' elements']
+Rank 17 | Centroid: ' direct' | Score: 0.0006
+  Tokens: [' direct', ' full']
+Rank 18 | Centroid: ' single' | Score: 0.0006
+  Tokens: [' single', ' body']
+Rank 19 | Centroid: ' title' | Score: 0.0005
+  Tokens: [' title', ' technical']
+Rank 20 | Centroid: ' enough' | Score: 0.0004
+  Tokens: [' enough']
+Rank 21 | Centroid: ' English' | Score: 0.0003
+  Tokens: [' English']
+
+**Chosen Concept:** Rank 1

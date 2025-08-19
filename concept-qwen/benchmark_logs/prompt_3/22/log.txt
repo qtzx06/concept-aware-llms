@@ -1,50 +1,118 @@
 --- Step 22 Log ---
 
 == Filtered Candidates ==
-Token: ' things' (ID: 2513), Prob: 0.0008
-Token: ' way' (ID: 1616), Prob: 0.0001
-Token: ' everything' (ID: 4297), Prob: 0.0001
-Token: ' described' (ID: 7481), Prob: 0.0001
-Token: ' today' (ID: 3351), Prob: 0.0001
-Token: ' something' (ID: 2494), Prob: 0.0000
-Token: ' thing' (ID: 3166), Prob: 0.0000
-Token: ' remains' (ID: 8458), Prob: 0.0000
-Token: ' left' (ID: 2115), Prob: 0.0000
-Token: ' though' (ID: 3498), Prob: 0.0000
-Token: ' except' (ID: 3650), Prob: 0.0000
-Token: ' forward' (ID: 4637), Prob: 0.0000
-Token: ' everyone' (ID: 5019), Prob: 0.0000
-Token: ' set' (ID: 738), Prob: 0.0000
-Token: ' back' (ID: 1182), Prob: 0.0000
-Token: ' nothing' (ID: 4302), Prob: 0.0000
-Token: ' said' (ID: 1053), Prob: 0.0000
-Token: ' like' (ID: 1075), Prob: 0.0000
-Token: ' people' (ID: 1251), Prob: 0.0000
-Token: ' first' (ID: 1156), Prob: 0.0000
-Token: ' shown' (ID: 6839), Prob: 0.0000
+Token: ' grow' (ID: 3063), Prob: 0.9727
+Token: ' old' (ID: 2310), Prob: 0.0013
+Token: ' stay' (ID: 4717), Prob: 0.0009
+Token: ' get' (ID: 633), Prob: 0.0006
+Token: ' growing' (ID: 7826), Prob: 0.0006
+Token: ' grown' (ID: 14700), Prob: 0.0005
+Token: ' grows' (ID: 27715), Prob: 0.0005
+Token: ' become' (ID: 3635), Prob: 0.0004
+Token: ' age' (ID: 4231), Prob: 0.0003
+Token: ' young' (ID: 3908), Prob: 0.0002
+Token: ' rise' (ID: 10000), Prob: 0.0002
+Token: ' take' (ID: 1896), Prob: 0.0002
+Token: ' leave' (ID: 5274), Prob: 0.0002
+Token: ' live' (ID: 3887), Prob: 0.0002
+Token: ' keep' (ID: 2506), Prob: 0.0002
+Token: ' raise' (ID: 4828), Prob: 0.0001
+Token: ' sleep' (ID: 6084), Prob: 0.0001
+Token: ' growth' (ID: 6513), Prob: 0.0001
+Token: ' spend' (ID: 8329), Prob: 0.0001
+Token: ' care' (ID: 2453), Prob: 0.0001
+Token: ' eat' (ID: 8180), Prob: 0.0001
+Token: ' older' (ID: 9014), Prob: 0.0001
+Token: ' learn' (ID: 3960), Prob: 0.0001
+Token: ' grew' (ID: 13938), Prob: 0.0001
+Token: ' choose' (ID: 5157), Prob: 0.0001
+Token: ' mature' (ID: 14851), Prob: 0.0001
+Token: ' make' (ID: 1281), Prob: 0.0001
+Token: ' come' (ID: 2525), Prob: 0.0001
+Token: ' continue' (ID: 3060), Prob: 0.0001
+Token: ' reach' (ID: 5545), Prob: 0.0001
+Token: ' use' (ID: 990), Prob: 0.0001
+Token: ' know' (ID: 1414), Prob: 0.0001
+Token: ' remain' (ID: 7146), Prob: 0.0001
+Token: ' feel' (ID: 2666), Prob: 0.0001
+Token: ' move' (ID: 3271), Prob: 0.0001
+Token: ' forget' (ID: 10667), Prob: 0.0001
+Token: ' start' (ID: 1191), Prob: 0.0000
+Token: ' develop' (ID: 2225), Prob: 0.0000
+Token: ' finish' (ID: 6248), Prob: 0.0000
+Token: ' run' (ID: 1598), Prob: 0.0000
+Token: ' close' (ID: 3265), Prob: 0.0000
+Token: ' walk' (ID: 4227), Prob: 0.0000
+Token: ' read' (ID: 1349), Prob: 0.0000
+Token: ' fall' (ID: 4399), Prob: 0.0000
+Token: ' forever' (ID: 15683), Prob: 0.0000
+Token: ' cry' (ID: 15729), Prob: 0.0000
+Token: ' graduate' (ID: 19023), Prob: 0.0000
+Token: ' help' (ID: 1492), Prob: 0.0000
+Token: ' ask' (ID: 2548), Prob: 0.0000
+Token: ' return' (ID: 470), Prob: 0.0000
+Token: ' youth' (ID: 12537), Prob: 0.0000
+Token: ' aged' (ID: 19749), Prob: 0.0000
+Token: ' years' (ID: 1635), Prob: 0.0000
+Token: ' meet' (ID: 3367), Prob: 0.0000
+Token: ' receive' (ID: 5258), Prob: 0.0000
+Token: ' younger' (ID: 14650), Prob: 0.0000
+Token: ' inherit' (ID: 23749), Prob: 0.0000
+Token: ' play' (ID: 1486), Prob: 0.0000
+Token: ' burn' (ID: 8231), Prob: 0.0000
+Token: ' change' (ID: 2297), Prob: 0.0000
+Token: ' join' (ID: 5138), Prob: 0.0000
+Token: ' gain' (ID: 8722), Prob: 0.0000
+Token: ' work' (ID: 975), Prob: 0.0000
+Token: ' open' (ID: 1787), Prob: 0.0000
+Token: ' turn' (ID: 2484), Prob: 0.0000
+Token: ' cross' (ID: 5312), Prob: 0.0000
+Token: ' long' (ID: 1293), Prob: 0.0000
 
 == Ranked Concepts (Clusters) ==
-Rank 1 | Concept Score: 0.0010
-  Tokens: [' things', ' everything', ' something', ' thing', ' nothing']
-Rank 2 | Concept Score: 0.0001
-  Tokens: [' way']
-Rank 3 | Concept Score: 0.0001
-  Tokens: [' described', ' said', ' shown']
-Rank 4 | Concept Score: 0.0001
-  Tokens: [' today']
-Rank 5 | Concept Score: 0.0001
-  Tokens: [' remains', ' left']
-Rank 6 | Concept Score: 0.0000
-  Tokens: [' though', ' except']
-Rank 7 | Concept Score: 0.0000
-  Tokens: [' forward', ' back']
-Rank 8 | Concept Score: 0.0000
-  Tokens: [' everyone', ' people']
-Rank 9 | Concept Score: 0.0000
-  Tokens: [' set']
-Rank 10 | Concept Score: 0.0000
-  Tokens: [' like']
-Rank 11 | Concept Score: 0.0000
-  Tokens: [' first']
+Rank 1 | Centroid: ' grow' | Score: 0.9727
+  Tokens: [' grow', ' growing', ' grown', ' grows', ' growth', ' grew']
+Rank 2 | Centroid: ' younger' | Score: 0.0021
+  Tokens: [' old', ' age', ' young', ' older', ' mature', ' youth', ' aged', ' younger']
+Rank 3 | Centroid: ' stay' | Score: 0.0013
+  Tokens: [' stay', ' leave', ' keep', ' continue', ' remain']
+Rank 4 | Centroid: ' get' | Score: 0.0009
+  Tokens: [' get', ' take', ' make']
+Rank 5 | Centroid: ' become' | Score: 0.0005
+  Tokens: [' become', ' come']
+Rank 6 | Centroid: ' rise' | Score: 0.0004
+  Tokens: [' rise', ' raise', ' fall', ' return']
+Rank 7 | Centroid: ' learn' | Score: 0.0003
+  Tokens: [' eat', ' learn', ' develop', ' read', ' receive']
+Rank 8 | Centroid: ' ask' | Score: 0.0002
+  Tokens: [' choose', ' know', ' feel', ' ask']
+Rank 9 | Centroid: ' help' | Score: 0.0002
+  Tokens: [' care', ' use', ' help', ' work']
+Rank 10 | Centroid: ' spend' | Score: 0.0002
+  Tokens: [' spend', ' forget']
+Rank 11 | Centroid: ' live' | Score: 0.0002
+  Tokens: [' live']
+Rank 12 | Centroid: ' move' | Score: 0.0001
+  Tokens: [' move', ' start', ' change', ' turn']
+Rank 13 | Centroid: ' sleep' | Score: 0.0001
+  Tokens: [' sleep']
+Rank 14 | Centroid: ' reach' | Score: 0.0001
+  Tokens: [' reach', ' meet']
+Rank 15 | Centroid: ' long' | Score: 0.0001
+  Tokens: [' forever', ' years', ' long']
+Rank 16 | Centroid: ' finish' | Score: 0.0001
+  Tokens: [' finish', ' join']
+Rank 17 | Centroid: ' run' | Score: 0.0001
+  Tokens: [' run', ' play']
+Rank 18 | Centroid: ' walk' | Score: 0.0001
+  Tokens: [' walk', ' burn']
+Rank 19 | Centroid: ' graduate' | Score: 0.0001
+  Tokens: [' graduate', ' inherit']
+Rank 20 | Centroid: ' close' | Score: 0.0001
+  Tokens: [' close', ' open']
+Rank 21 | Centroid: ' cry' | Score: 0.0001
+  Tokens: [' cry', ' cross']
+Rank 22 | Centroid: ' gain' | Score: 0.0000
+  Tokens: [' gain']
 
-**Chosen Concept:** Rank 1 with score 0.0010
+**Chosen Concept:** Rank 1

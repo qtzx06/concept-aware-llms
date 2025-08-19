@@ -1,0 +1,137 @@
+--- Step 20 Log ---
+
+== Filtered Candidates ==
+Token: ' start' (ID: 1191), Prob: 0.1992
+Token: ' identify' (ID: 10542), Prob: 0.0393
+Token: ' establish' (ID: 5695), Prob: 0.0270
+Token: ' set' (ID: 738), Prob: 0.0210
+Token: ' mention' (ID: 6286), Prob: 0.0210
+Token: ' describe' (ID: 7512), Prob: 0.0164
+Token: ' need' (ID: 1184), Prob: 0.0145
+Token: ' use' (ID: 990), Prob: 0.0068
+Token: ' maybe' (ID: 7196), Prob: 0.0060
+Token: ' introduce' (ID: 19131), Prob: 0.0044
+Token: ' capture' (ID: 12322), Prob: 0.0036
+Token: ' define' (ID: 6979), Prob: 0.0032
+Token: ' express' (ID: 3158), Prob: 0.0023
+Token: ' highlight' (ID: 11167), Prob: 0.0021
+Token: ' structure' (ID: 5944), Prob: 0.0018
+Token: ' acknowledge' (ID: 24645), Prob: 0.0017
+Token: ' make' (ID: 1281), Prob: 0.0016
+Token: ' create' (ID: 1855), Prob: 0.0014
+Token: ' choose' (ID: 5157), Prob: 0.0014
+Token: ' find' (ID: 1477), Prob: 0.0013
+Token: ' address' (ID: 2621), Prob: 0.0013
+Token: ' include' (ID: 2924), Prob: 0.0013
+Token: ' connect' (ID: 4564), Prob: 0.0012
+Token: ' decide' (ID: 10279), Prob: 0.0012
+Token: ' focus' (ID: 5244), Prob: 0.0010
+Token: ' consider' (ID: 2908), Prob: 0.0008
+Token: ' emphasize' (ID: 45932), Prob: 0.0008
+Token: ' specify' (ID: 13837), Prob: 0.0008
+Token: ' determine' (ID: 8253), Prob: 0.0006
+Token: ' natural' (ID: 5810), Prob: 0.0005
+Token: ' get' (ID: 633), Prob: 0.0004
+Token: ' understand' (ID: 3535), Prob: 0.0004
+Token: ' needs' (ID: 3880), Prob: 0.0004
+Token: ' present' (ID: 3042), Prob: 0.0003
+Token: ' talk' (ID: 3061), Prob: 0.0003
+Token: ' perhaps' (ID: 8365), Prob: 0.0003
+Token: ' convey' (ID: 20001), Prob: 0.0003
+Token: ' break' (ID: 1438), Prob: 0.0003
+Token: ' pick' (ID: 3735), Prob: 0.0003
+Token: ' words' (ID: 4244), Prob: 0.0003
+Token: ' setting' (ID: 6243), Prob: 0.0003
+Token: ' ensure' (ID: 5978), Prob: 0.0003
+Token: ' phrases' (ID: 31747), Prob: 0.0003
+Token: ' incorporate' (ID: 32335), Prob: 0.0003
+Token: ' explain' (ID: 10339), Prob: 0.0002
+Token: ' recognize' (ID: 15282), Prob: 0.0002
+Token: ' frame' (ID: 4034), Prob: 0.0002
+Token: ' starting' (ID: 5916), Prob: 0.0002
+Token: ' probably' (ID: 4658), Prob: 0.0002
+Token: ' write' (ID: 3270), Prob: 0.0002
+Token: ' phrase' (ID: 17133), Prob: 0.0002
+Token: ' outline' (ID: 21101), Prob: 0.0002
+Token: ' try' (ID: 1430), Prob: 0.0002
+Token: ' note' (ID: 5185), Prob: 0.0002
+Token: ' clearly' (ID: 9355), Prob: 0.0002
+Token: ' translate' (ID: 14683), Prob: 0.0002
+Token: ' clarify' (ID: 37163), Prob: 0.0001
+Token: ' add' (ID: 912), Prob: 0.0001
+Token: ' something' (ID: 2494), Prob: 0.0001
+Token: ' intro' (ID: 19706), Prob: 0.0001
+Token: ' emotions' (ID: 21261), Prob: 0.0001
+Token: ' language' (ID: 4128), Prob: 0.0001
+Token: ' setup' (ID: 6505), Prob: 0.0001
+Token: ' grab' (ID: 11633), Prob: 0.0001
+Token: ' base' (ID: 2331), Prob: 0.0001
+Token: ' imagine' (ID: 12793), Prob: 0.0001
+Token: ' person' (ID: 1697), Prob: 0.0001
+Token: ' sentence' (ID: 11652), Prob: 0.0001
+Token: ' give' (ID: 2968), Prob: 0.0001
+Token: ' empath' (ID: 35581), Prob: 0.0001
+Token: ' vivid' (ID: 42020), Prob: 0.0001
+Token: ' body' (ID: 2487), Prob: 0.0001
+Token: ' description' (ID: 4008), Prob: 0.0001
+Token: ' think' (ID: 1744), Prob: 0.0001
+Token: ' build' (ID: 1936), Prob: 0.0001
+Token: ' begin' (ID: 3161), Prob: 0.0001
+Token: ' lay' (ID: 10962), Prob: 0.0001
+Token: ' activate' (ID: 20276), Prob: 0.0001
+
+== Ranked Concepts (Clusters) ==
+Rank 1 | Centroid: ' start' | Score: 0.1992
+  Tokens: [' start', ' starting', ' begin']
+Rank 2 | Centroid: ' determine' | Score: 0.0471
+  Tokens: [' identify', ' define', ' choose', ' decide', ' specify', ' determine', ' understand', ' ensure']
+Rank 3 | Centroid: ' establish' | Score: 0.0271
+  Tokens: [' establish', ' activate']
+Rank 4 | Centroid: ' need' | Score: 0.0217
+  Tokens: [' need', ' use', ' needs']
+Rank 5 | Centroid: ' setting' | Score: 0.0214
+  Tokens: [' set', ' setting', ' setup']
+Rank 6 | Centroid: ' mention' | Score: 0.0211
+  Tokens: [' mention', ' note']
+Rank 7 | Centroid: ' describe' | Score: 0.0167
+  Tokens: [' describe', ' explain', ' description']
+Rank 8 | Centroid: ' perhaps' | Score: 0.0067
+  Tokens: [' maybe', ' perhaps', ' probably', ' something']
+Rank 9 | Centroid: ' incorporate' | Score: 0.0059
+  Tokens: [' introduce', ' include', ' incorporate']
+Rank 10 | Centroid: ' capture' | Score: 0.0052
+  Tokens: [' capture', ' connect', ' convey', ' grab']
+Rank 11 | Centroid: ' create' | Score: 0.0049
+  Tokens: [' make', ' create', ' find', ' get', ' give']
+Rank 12 | Centroid: ' emphasize' | Score: 0.0049
+  Tokens: [' highlight', ' acknowledge', ' emphasize', ' recognize']
+Rank 13 | Centroid: ' express' | Score: 0.0025
+  Tokens: [' express', ' write']
+Rank 14 | Centroid: ' address' | Score: 0.0024
+  Tokens: [' address', ' focus']
+Rank 15 | Centroid: ' person' | Score: 0.0023
+  Tokens: [' structure', ' frame', ' base', ' person', ' body']
+Rank 16 | Centroid: ' try' | Score: 0.0012
+  Tokens: [' natural', ' break', ' pick', ' try']
+Rank 17 | Centroid: ' think' | Score: 0.0010
+  Tokens: [' consider', ' imagine', ' think']
+Rank 18 | Centroid: ' phrase' | Score: 0.0010
+  Tokens: [' words', ' phrases', ' phrase', ' language', ' sentence']
+Rank 19 | Centroid: ' present' | Score: 0.0005
+  Tokens: [' present', ' intro']
+Rank 20 | Centroid: ' talk' | Score: 0.0003
+  Tokens: [' talk']
+Rank 21 | Centroid: ' add' | Score: 0.0003
+  Tokens: [' add', ' build', ' lay']
+Rank 22 | Centroid: ' clearly' | Score: 0.0002
+  Tokens: [' clearly', ' vivid']
+Rank 23 | Centroid: ' emotions' | Score: 0.0002
+  Tokens: [' emotions', ' empath']
+Rank 24 | Centroid: ' outline' | Score: 0.0002
+  Tokens: [' outline']
+Rank 25 | Centroid: ' translate' | Score: 0.0002
+  Tokens: [' translate']
+Rank 26 | Centroid: ' clarify' | Score: 0.0001
+  Tokens: [' clarify']
+
+**Chosen Concept:** Rank 1

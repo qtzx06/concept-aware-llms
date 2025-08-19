@@ -1,0 +1,79 @@
+--- Step 18 Log ---
+
+== Filtered Candidates ==
+Token: ' something' (ID: 2494), Prob: 0.0396
+Token: ' based' (ID: 3118), Prob: 0.0114
+Token: ' yes' (ID: 9834), Prob: 0.0100
+Token: ' maybe' (ID: 7196), Prob: 0.0089
+Token: ' etc' (ID: 4992), Prob: 0.0031
+Token: ' nothing' (ID: 4302), Prob: 0.0022
+Token: ' since' (ID: 2474), Prob: 0.0021
+Token: ' perhaps' (ID: 8365), Prob: 0.0015
+Token: ' aliens' (ID: 36119), Prob: 0.0010
+Token: ' Mars' (ID: 21048), Prob: 0.0009
+Token: ' depending' (ID: 11649), Prob: 0.0008
+Token: ' description' (ID: 4008), Prob: 0.0005
+Token: ' explain' (ID: 10339), Prob: 0.0005
+Token: ' negative' (ID: 8225), Prob: 0.0004
+Token: ' alien' (ID: 19594), Prob: 0.0004
+Token: ' also' (ID: 1083), Prob: 0.0004
+Token: ' please' (ID: 4486), Prob: 0.0004
+Token: ' NASA' (ID: 21431), Prob: 0.0004
+Token: ' someone' (ID: 4325), Prob: 0.0003
+Token: ' however' (ID: 4764), Prob: 0.0003
+Token: ' sometimes' (ID: 7025), Prob: 0.0003
+Token: ' possibly' (ID: 10767), Prob: 0.0003
+Token: ' according' (ID: 4092), Prob: 0.0003
+Token: ' anything' (ID: 4113), Prob: 0.0003
+Token: ' reason' (ID: 2874), Prob: 0.0003
+Token: ' whether' (ID: 3425), Prob: 0.0003
+Token: ' due' (ID: 4152), Prob: 0.0003
+Token: ' science' (ID: 8038), Prob: 0.0003
+Token: ' another' (ID: 2441), Prob: 0.0003
+Token: ' like' (ID: 1075), Prob: 0.0002
+Token: ' details' (ID: 3565), Prob: 0.0002
+Token: ' describe' (ID: 7512), Prob: 0.0002
+Token: ' either' (ID: 2987), Prob: 0.0002
+Token: ' answer' (ID: 4226), Prob: 0.0002
+Token: ' depends' (ID: 13798), Prob: 0.0002
+Token: ' come' (ID: 2525), Prob: 0.0002
+Token: ' examples' (ID: 10295), Prob: 0.0002
+Token: ' wait' (ID: 3783), Prob: 0.0002
+Token: ' therefore' (ID: 8916), Prob: 0.0002
+Token: ' planet' (ID: 11580), Prob: 0.0002
+Token: ' one' (ID: 825), Prob: 0.0002
+Token: ' example' (ID: 3110), Prob: 0.0002
+
+== Ranked Concepts (Clusters) ==
+Rank 1 | Centroid: ' something' | Score: 0.0420
+  Tokens: [' something', ' nothing', ' anything']
+Rank 2 | Centroid: ' depending' | Score: 0.0126
+  Tokens: [' based', ' depending', ' according', ' depends']
+Rank 3 | Centroid: ' perhaps' | Score: 0.0110
+  Tokens: [' maybe', ' perhaps', ' sometimes', ' possibly']
+Rank 4 | Centroid: ' yes' | Score: 0.0107
+  Tokens: [' yes', ' negative', ' answer']
+Rank 5 | Centroid: ' aliens' | Score: 0.0031
+  Tokens: [' aliens', ' Mars', ' alien', ' NASA', ' science', ' planet']
+Rank 6 | Centroid: ' etc' | Score: 0.0031
+  Tokens: [' etc']
+Rank 7 | Centroid: ' due' | Score: 0.0026
+  Tokens: [' since', ' due', ' like']
+Rank 8 | Centroid: ' describe' | Score: 0.0014
+  Tokens: [' description', ' explain', ' details', ' describe']
+Rank 9 | Centroid: ' therefore' | Score: 0.0009
+  Tokens: [' also', ' however', ' therefore']
+Rank 10 | Centroid: ' another' | Score: 0.0007
+  Tokens: [' someone', ' another', ' one']
+Rank 11 | Centroid: ' whether' | Score: 0.0005
+  Tokens: [' whether', ' either']
+Rank 12 | Centroid: ' please' | Score: 0.0004
+  Tokens: [' please']
+Rank 13 | Centroid: ' come' | Score: 0.0004
+  Tokens: [' come', ' wait']
+Rank 14 | Centroid: ' examples' | Score: 0.0003
+  Tokens: [' examples', ' example']
+Rank 15 | Centroid: ' reason' | Score: 0.0003
+  Tokens: [' reason']
+
+**Chosen Concept:** Rank 1

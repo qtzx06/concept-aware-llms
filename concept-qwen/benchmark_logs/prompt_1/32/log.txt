@@ -1,0 +1,117 @@
+--- Step 32 Log ---
+
+== Filtered Candidates ==
+Token: ' Use' (ID: 5443), Prob: 0.1309
+Token: ' Next' (ID: 9295), Prob: 0.0095
+Token: ' Include' (ID: 29734), Prob: 0.0016
+Token: ' Mention' (ID: 85148), Prob: 0.0016
+Token: ' Describe' (ID: 60785), Prob: 0.0006
+Token: ' Need' (ID: 14656), Prob: 0.0003
+Token: ' Highlight' (ID: 55994), Prob: 0.0002
+Token: ' Add' (ID: 2691), Prob: 0.0002
+Token: ' Second' (ID: 10440), Prob: 0.0001
+Token: ' Incorpor' (ID: 53704), Prob: 0.0001
+Token: ' Words' (ID: 27630), Prob: 0.0001
+Token: ' Int' (ID: 1333), Prob: 0.0001
+Token: ' Connect' (ID: 13015), Prob: 0.0001
+Token: ' Con' (ID: 1200), Prob: 0.0001
+Token: ' Using' (ID: 12091), Prob: 0.0001
+Token: ' Express' (ID: 17399), Prob: 0.0000
+Token: ' Follow' (ID: 11112), Prob: 0.0000
+Token: ' Combine' (ID: 46812), Prob: 0.0000
+Token: ' Explain' (ID: 81917), Prob: 0.0000
+Token: ' Let' (ID: 6771), Prob: 0.0000
+Token: ' Body' (ID: 13958), Prob: 0.0000
+Token: ' Enc' (ID: 10751), Prob: 0.0000
+Token: ' Choose' (ID: 22201), Prob: 0.0000
+Token: ' Link' (ID: 5948), Prob: 0.0000
+Token: ' Keep' (ID: 13655), Prob: 0.0000
+Token: ' Talk' (ID: 18976), Prob: 0.0000
+Token: ' Avoid' (ID: 34006), Prob: 0.0000
+Token: ' Expand' (ID: 50141), Prob: 0.0000
+Token: ' Des' (ID: 3874), Prob: 0.0000
+Token: ' Create' (ID: 4230), Prob: 0.0000
+Token: ' Show' (ID: 6928), Prob: 0.0000
+Token: ' Wait' (ID: 13824), Prob: 0.0000
+Token: ' Specify' (ID: 47395), Prob: 0.0000
+Token: ' Since' (ID: 8704), Prob: 0.0000
+Token: ' Specific' (ID: 28262), Prob: 0.0000
+Token: ' Usage' (ID: 24567), Prob: 0.0000
+Token: ' Set' (ID: 2573), Prob: 0.0000
+Token: ' Build' (ID: 7854), Prob: 0.0000
+Token: ' Define' (ID: 18614), Prob: 0.0000
+Token: ' Needs' (ID: 43140), Prob: 0.0000
+Token: ' Focus' (ID: 25806), Prob: 0.0000
+Token: ' Reference' (ID: 17207), Prob: 0.0000
+Token: ' Keywords' (ID: 55695), Prob: 0.0000
+Token: ' Continue' (ID: 15003), Prob: 0.0000
+Token: ' Maybe' (ID: 10696), Prob: 0.0000
+Token: ' use' (ID: 990), Prob: 0.0000
+Token: ' Insert' (ID: 17101), Prob: 0.0000
+Token: ' People' (ID: 8853), Prob: 0.0000
+Token: ' Establish' (ID: 39398), Prob: 0.0000
+Token: ' Including' (ID: 55121), Prob: 0.0000
+Token: ' Common' (ID: 7718), Prob: 0.0000
+Token: ' Make' (ID: 7405), Prob: 0.0000
+Token: 'Use' (ID: 10253), Prob: 0.0000
+Token: ' Discuss' (ID: 65279), Prob: 0.0000
+Token: ' Third' (ID: 20861), Prob: 0.0000
+Token: ' List' (ID: 1759), Prob: 0.0000
+Token: ' Spec' (ID: 10956), Prob: 0.0000
+Token: ' Inf' (ID: 14921), Prob: 0.0000
+Token: ' Personal' (ID: 19207), Prob: 0.0000
+Token: ' Ask' (ID: 20437), Prob: 0.0000
+Token: ' Transition' (ID: 37721), Prob: 0.0000
+Token: ' Bring' (ID: 39124), Prob: 0.0000
+Token: ' Break' (ID: 15623), Prob: 0.0000
+Token: ' Push' (ID: 22950), Prob: 0.0000
+
+== Ranked Concepts (Clusters) ==
+Rank 1 | Centroid: ' Use' | Score: 0.1309
+  Tokens: [' Use', ' Using', ' Usage', ' use', 'Use']
+Rank 2 | Centroid: ' Second' | Score: 0.0096
+  Tokens: [' Next', ' Second', ' Third']
+Rank 3 | Centroid: ' Mention' | Score: 0.0019
+  Tokens: [' Mention', ' Highlight']
+Rank 4 | Centroid: ' Include' | Score: 0.0018
+  Tokens: [' Include', ' Incorpor', ' Including']
+Rank 5 | Centroid: ' Explain' | Score: 0.0006
+  Tokens: [' Describe', ' Explain', ' Show', ' Discuss']
+Rank 6 | Centroid: ' Need' | Score: 0.0003
+  Tokens: [' Need', ' Needs']
+Rank 7 | Centroid: ' Add' | Score: 0.0002
+  Tokens: [' Add', ' Set']
+Rank 8 | Centroid: ' Expand' | Score: 0.0001
+  Tokens: [' Connect', ' Combine', ' Expand', ' Continue', ' Establish']
+Rank 9 | Centroid: ' Words' | Score: 0.0001
+  Tokens: [' Words', ' Talk', ' Keywords']
+Rank 10 | Centroid: ' Int' | Score: 0.0001
+  Tokens: [' Int', ' List']
+Rank 11 | Centroid: ' Con' | Score: 0.0001
+  Tokens: [' Con', ' Enc', ' Des', ' Inf']
+Rank 12 | Centroid: ' Create' | Score: 0.0001
+  Tokens: [' Choose', ' Keep', ' Create', ' Build', ' Make', ' Ask', ' Bring']
+Rank 13 | Centroid: ' Reference' | Score: 0.0000
+  Tokens: [' Link', ' Focus', ' Reference', ' Transition']
+Rank 14 | Centroid: ' Let' | Score: 0.0000
+  Tokens: [' Let', ' Wait']
+Rank 15 | Centroid: ' Express' | Score: 0.0000
+  Tokens: [' Express']
+Rank 16 | Centroid: ' Follow' | Score: 0.0000
+  Tokens: [' Follow']
+Rank 17 | Centroid: ' People' | Score: 0.0000
+  Tokens: [' Body', ' People', ' Personal']
+Rank 18 | Centroid: ' Specify' | Score: 0.0000
+  Tokens: [' Specify', ' Define']
+Rank 19 | Centroid: ' Since' | Score: 0.0000
+  Tokens: [' Since', ' Maybe']
+Rank 20 | Centroid: ' Avoid' | Score: 0.0000
+  Tokens: [' Avoid']
+Rank 21 | Centroid: ' Specific' | Score: 0.0000
+  Tokens: [' Specific', ' Spec']
+Rank 22 | Centroid: ' Push' | Score: 0.0000
+  Tokens: [' Insert', ' Break', ' Push']
+Rank 23 | Centroid: ' Common' | Score: 0.0000
+  Tokens: [' Common']
+
+**Chosen Concept:** Rank 1

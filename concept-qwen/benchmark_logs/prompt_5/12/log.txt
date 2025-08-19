@@ -1,122 +1,67 @@
 --- Step 12 Log ---
 
 == Filtered Candidates ==
-Token: ' traveler' (ID: 62765), Prob: 0.8828
-Token: ' travel' (ID: 5821), Prob: 0.0640
-Token: ' machine' (ID: 5662), Prob: 0.0183
-Token: ' travelers' (ID: 39286), Prob: 0.0118
-Token: ' traveling' (ID: 20971), Prob: 0.0011
-Token: ' traveled' (ID: 30696), Prob: 0.0011
-Token: '-tr' (ID: 10188), Prob: 0.0009
-Token: ' travels' (ID: 34192), Prob: 0.0006
-Token: ' trip' (ID: 8411), Prob: 0.0006
-Token: ' loop' (ID: 6337), Prob: 0.0003
-Token: ' device' (ID: 3671), Prob: 0.0003
-Token: ' tele' (ID: 7963), Prob: 0.0002
-Token: ' journey' (ID: 11618), Prob: 0.0002
-Token: ' machines' (ID: 12645), Prob: 0.0002
-Token: ' must' (ID: 1969), Prob: 0.0002
-Token: ' teleport' (ID: 49489), Prob: 0.0002
-Token: ' could' (ID: 1410), Prob: 0.0002
-Token: ' transfer' (ID: 8317), Prob: 0.0002
-Token: ' would' (ID: 1035), Prob: 0.0001
-Token: ' zone' (ID: 10143), Prob: 0.0001
-Token: ' zones' (ID: 25395), Prob: 0.0001
-Token: ' clock' (ID: 8866), Prob: 0.0001
-Token: ' traveller' (ID: 85194), Prob: 0.0001
-Token: ' agent' (ID: 8315), Prob: 0.0001
-Token: ' passenger' (ID: 23148), Prob: 0.0001
-Token: ' passage' (ID: 21085), Prob: 0.0001
-Token: ' jump' (ID: 7784), Prob: 0.0001
-Token: ' ship' (ID: 8284), Prob: 0.0001
-Token: ' worker' (ID: 11864), Prob: 0.0001
-Token: ' walk' (ID: 4227), Prob: 0.0001
-Token: ' skip' (ID: 10706), Prob: 0.0001
-Token: ' portal' (ID: 23132), Prob: 0.0001
-Token: ' door' (ID: 6006), Prob: 0.0001
-Token: ' tunnel' (ID: 25629), Prob: 0.0001
-Token: ' user' (ID: 1196), Prob: 0.0001
-Token: ' flight' (ID: 10971), Prob: 0.0001
-Token: ' worm' (ID: 34211), Prob: 0.0001
-Token: ' going' (ID: 2087), Prob: 0.0001
-Token: ' cannot' (ID: 4157), Prob: 0.0001
-Token: ' period' (ID: 4168), Prob: 0.0001
-Token: ' accelerator' (ID: 64356), Prob: 0.0001
-Token: ' back' (ID: 1182), Prob: 0.0001
-Token: ' limit' (ID: 3930), Prob: 0.0001
-Token: ' ability' (ID: 5726), Prob: 0.0001
-Token: ' may' (ID: 1231), Prob: 0.0001
-Token: ' stop' (ID: 2936), Prob: 0.0001
-Token: ' button' (ID: 3137), Prob: 0.0001
-Token: ' dilation' (ID: 74278), Prob: 0.0001
-Token: ' man' (ID: 883), Prob: 0.0000
-Token: ' region' (ID: 5537), Prob: 0.0000
-Token: ' mechanism' (ID: 16953), Prob: 0.0000
-Token: ' beings' (ID: 22977), Prob: 0.0000
-Token: ' paradox' (ID: 51213), Prob: 0.0000
-Token: ' function' (ID: 729), Prob: 0.0000
-Token: ' pass' (ID: 1494), Prob: 0.0000
-Token: ' transport' (ID: 7557), Prob: 0.0000
-Token: ' delay' (ID: 7626), Prob: 0.0000
-Token: ' plane' (ID: 11031), Prob: 0.0000
-Token: ' bomb' (ID: 12764), Prob: 0.0000
-Token: ' slip' (ID: 21134), Prob: 0.0000
-Token: ' move' (ID: 3271), Prob: 0.0000
-Token: ' computer' (ID: 6366), Prob: 0.0000
-Token: ' fabric' (ID: 13055), Prob: 0.0000
-Token: ' lever' (ID: 27505), Prob: 0.0000
-Token: ' master' (ID: 7341), Prob: 0.0000
-Token: ' jumps' (ID: 34208), Prob: 0.0000
-Token: ' person' (ID: 1697), Prob: 0.0000
-Token: ' leader' (ID: 7653), Prob: 0.0000
-Token: ' vessel' (ID: 26182), Prob: 0.0000
-Token: ' keeper' (ID: 53416), Prob: 0.0000
-Token: ' element' (ID: 2392), Prob: 0.0000
+Token: ' given' (ID: 2661), Prob: 0.6250
+Token: ' provided' (ID: 3897), Prob: 0.2305
+Token: ' presented' (ID: 10449), Prob: 0.0214
+Token: ' available' (ID: 2500), Prob: 0.0019
+Token: ' contained' (ID: 12985), Prob: 0.0010
+Token: ' present' (ID: 3042), Prob: 0.0003
+Token: ' listed' (ID: 10007), Prob: 0.0001
+Token: ' included' (ID: 5230), Prob: 0.0001
+Token: ' Given' (ID: 16246), Prob: 0.0001
+Token: ' shown' (ID: 6839), Prob: 0.0001
+Token: ' added' (ID: 3694), Prob: 0.0001
+Token: ' within' (ID: 2878), Prob: 0.0001
+Token: ' found' (ID: 1730), Prob: 0.0001
+Token: ' regarding' (ID: 8826), Prob: 0.0001
+Token: ' supplied' (ID: 17221), Prob: 0.0001
+Token: ' described' (ID: 7481), Prob: 0.0000
+Token: ' obtained' (ID: 12180), Prob: 0.0000
+Token: ' retrieved' (ID: 30403), Prob: 0.0000
+Token: ' mentioned' (ID: 9733), Prob: 0.0000
+Token: ' inside' (ID: 4766), Prob: 0.0000
+Token: ' stated' (ID: 10982), Prob: 0.0000
+Token: ' introduced' (ID: 11523), Prob: 0.0000
+Token: ' already' (ID: 2669), Prob: 0.0000
+Token: ' received' (ID: 3949), Prob: 0.0000
+Token: ' currently' (ID: 5023), Prob: 0.0000
+Token: ' written' (ID: 5326), Prob: 0.0000
+Token: 'provided' (ID: 63425), Prob: 0.0000
+Token: ' give' (ID: 2968), Prob: 0.0000
+Token: ' gives' (ID: 6696), Prob: 0.0000
+Token: ' gathered' (ID: 20190), Prob: 0.0000
+Token: ' quoted' (ID: 23237), Prob: 0.0000
+Token: ' known' (ID: 3881), Prob: 0.0000
 
 == Ranked Concepts (Clusters) ==
-Rank 1 | Concept Score: 0.8945
-  Tokens: [' traveler', ' travelers', ' traveller', ' passenger']
-Rank 2 | Concept Score: 0.0679
-  Tokens: [' travel', ' traveling', ' traveled', '-tr', ' travels']
-Rank 3 | Concept Score: 0.0188
-  Tokens: [' machine', ' device', ' machines', ' mechanism', ' computer']
-Rank 4 | Concept Score: 0.0008
-  Tokens: [' trip', ' journey', ' going']
-Rank 5 | Concept Score: 0.0006
-  Tokens: [' tele', ' teleport', ' transfer', ' transport']
-Rank 6 | Concept Score: 0.0006
-  Tokens: [' must', ' could', ' would', ' cannot', ' may']
-Rank 7 | Concept Score: 0.0005
-  Tokens: [' loop', ' door', ' paradox']
-Rank 8 | Concept Score: 0.0004
-  Tokens: [' clock', ' back', ' ability', ' button', ' function', ' element']
-Rank 9 | Concept Score: 0.0004
-  Tokens: [' jump', ' walk', ' skip', ' stop', ' slip', ' jumps']
-Rank 10 | Concept Score: 0.0003
-  Tokens: [' zone', ' zones', ' region']
-Rank 11 | Concept Score: 0.0003
-  Tokens: [' portal', ' tunnel', ' worm', ' dilation']
-Rank 12 | Concept Score: 0.0003
-  Tokens: [' agent', ' worker', ' keeper']
-Rank 13 | Concept Score: 0.0002
-  Tokens: [' ship', ' flight', ' plane', ' vessel']
-Rank 14 | Concept Score: 0.0002
-  Tokens: [' period', ' limit', ' delay']
-Rank 15 | Concept Score: 0.0002
-  Tokens: [' user', ' man', ' person']
-Rank 16 | Concept Score: 0.0001
-  Tokens: [' passage', ' pass']
-Rank 17 | Concept Score: 0.0001
-  Tokens: [' accelerator', ' lever']
-Rank 18 | Concept Score: 0.0001
-  Tokens: [' master', ' leader']
-Rank 19 | Concept Score: 0.0000
-  Tokens: [' beings']
-Rank 20 | Concept Score: 0.0000
-  Tokens: [' bomb']
-Rank 21 | Concept Score: 0.0000
-  Tokens: [' fabric']
-Rank 22 | Concept Score: 0.0000
-  Tokens: [' move']
+Rank 1 | Centroid: ' give' | Score: 0.6250
+  Tokens: [' given', ' Given', ' give', ' gives']
+Rank 2 | Centroid: ' provided' | Score: 0.2305
+  Tokens: [' provided', ' supplied', 'provided']
+Rank 3 | Centroid: ' presented' | Score: 0.0217
+  Tokens: [' presented', ' present']
+Rank 4 | Centroid: ' available' | Score: 0.0019
+  Tokens: [' available', ' known']
+Rank 5 | Centroid: ' contained' | Score: 0.0011
+  Tokens: [' contained', ' included']
+Rank 6 | Centroid: ' mentioned' | Score: 0.0003
+  Tokens: [' listed', ' described', ' mentioned', ' stated', ' quoted']
+Rank 7 | Centroid: ' obtained' | Score: 0.0002
+  Tokens: [' obtained', ' retrieved', ' received', ' gathered']
+Rank 8 | Centroid: ' added' | Score: 0.0001
+  Tokens: [' added', ' introduced']
+Rank 9 | Centroid: ' within' | Score: 0.0001
+  Tokens: [' within', ' inside']
+Rank 10 | Centroid: ' shown' | Score: 0.0001
+  Tokens: [' shown']
+Rank 11 | Centroid: ' already' | Score: 0.0001
+  Tokens: [' already', ' currently']
+Rank 12 | Centroid: ' found' | Score: 0.0001
+  Tokens: [' found']
+Rank 13 | Centroid: ' regarding' | Score: 0.0001
+  Tokens: [' regarding']
+Rank 14 | Centroid: ' written' | Score: 0.0000
+  Tokens: [' written']
 
-**Chosen Concept:** Rank 1 with score 0.8945
+**Chosen Concept:** Rank 1

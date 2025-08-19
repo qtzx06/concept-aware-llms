@@ -11,7 +11,7 @@ import nltk
 
 # A set of tokens that are critical for grammar and should sometimes bypass concept clustering.
 # This includes common punctuation and a few essential stopwords.
-GRAMMAR_CRITICAL_TOKENS = {'.', ',', '?', '!', "'s", "'", "of", "in", "to", "a", "the"}
+GRAMMAR_CRITICAL_TOKENS = {'.', ',', '?', '!', "'s", "'", "of", "in", "to", "a", "the", "and", "but", "on", "with"}
 
 # ensure the stopwords dataset from nltk is available
 try:
@@ -81,6 +81,17 @@ def cluster_embeddings(embeddings, distance_threshold=0.45):
         linkage='average'
     )
     return clustering.fit_predict(reduced_embeddings)
+
+def find_centroid_token(cluster_embeddings, cluster_token_ids, tokenizer):
+    """Finds the token whose embedding is closest to the cluster's centroid."""
+    if cluster_embeddings.nelement() == 0:
+        return "N/A"
+    
+    with torch.no_grad():
+        centroid = torch.mean(cluster_embeddings.to(torch.float32), dim=0)
+        distances = torch.cdist(cluster_embeddings.to(torch.float32), centroid.unsqueeze(0))
+        closest_token_index = torch.argmin(distances)
+        return tokenizer.decode(cluster_token_ids[closest_token_index])
 
 def visualize_clusters(embeddings, cluster_labels, token_ids, tokenizer, log_path):
     """Saves a t-SNE visualization of the clusters."""

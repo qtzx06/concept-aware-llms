@@ -1,116 +1,139 @@
 --- Step 80 Log ---
 
 == Filtered Candidates ==
-Token: ' zone' (ID: 10143), Prob: 1.0000
-Token: ' Zone' (ID: 22178), Prob: 0.0000
-Token: ' zones' (ID: 25395), Prob: 0.0000
-Token: 'zone' (ID: 8684), Prob: 0.0000
-Token: '.zone' (ID: 57808), Prob: 0.0000
-Token: ' region' (ID: 5537), Prob: 0.0000
+Token: ' statement' (ID: 5114), Prob: 1.0000
+Token: ' sentence' (ID: 11652), Prob: 0.0000
+Token: ' answer' (ID: 4226), Prob: 0.0000
+Token: ' statements' (ID: 12239), Prob: 0.0000
+Token: ' Statement' (ID: 21756), Prob: 0.0000
+Token: ' final' (ID: 1590), Prob: 0.0000
+Token: 'statement' (ID: 24184), Prob: 0.0000
+Token: ' situation' (ID: 6534), Prob: 0.0000
+Token: ' story' (ID: 3364), Prob: 0.0000
+Token: ' stated' (ID: 10982), Prob: 0.0000
+Token: ' following' (ID: 2701), Prob: 0.0000
+Token: ' general' (ID: 4586), Prob: 0.0000
+Token: ' paragraph' (ID: 14311), Prob: 0.0000
+Token: ' conclusion' (ID: 16688), Prob: 0.0000
+Token: ' subject' (ID: 3832), Prob: 0.0000
+Token: ' question' (ID: 3405), Prob: 0.0000
+Token: ' phrase' (ID: 17133), Prob: 0.0000
+Token: ' given' (ID: 2661), Prob: 0.0000
+Token: ' student' (ID: 5458), Prob: 0.0000
+Token: ' original' (ID: 4024), Prob: 0.0000
+Token: ' choice' (ID: 5754), Prob: 0.0000
+Token: ' information' (ID: 1995), Prob: 0.0000
+Token: ' correct' (ID: 4396), Prob: 0.0000
+Token: ' claim' (ID: 3717), Prob: 0.0000
+Token: ' description' (ID: 4008), Prob: 0.0000
+Token: ' number' (ID: 1372), Prob: 0.0000
+Token: ' text' (ID: 1467), Prob: 0.0000
+Token: ' table' (ID: 1965), Prob: 0.0000
 Token: ' time' (ID: 882), Prob: 0.0000
-Token: ' period' (ID: 4168), Prob: 0.0000
-Token: '-zone' (ID: 77763), Prob: 0.0000
-Token: '(zone' (ID: 74228), Prob: 0.0000
-Token: 'Zone' (ID: 15363), Prob: 0.0000
-Token: ' clock' (ID: 8866), Prob: 0.0000
-Token: ' timezone' (ID: 33957), Prob: 0.0000
-Token: ' tone' (ID: 16232), Prob: 0.0000
-Token: '_zone' (ID: 28692), Prob: 0.0000
-Token: ' state' (ID: 1584), Prob: 0.0000
-Token: ' difference' (ID: 6672), Prob: 0.0000
-Token: ' zero' (ID: 7168), Prob: 0.0000
-Token: ' transition' (ID: 9142), Prob: 0.0000
-Token: ' center' (ID: 4126), Prob: 0.0000
-Token: ' zona' (ID: 44012), Prob: 0.0000
-Token: ' format' (ID: 3561), Prob: 0.0000
-Token: ' offset' (ID: 4347), Prob: 0.0000
-Token: ' transfer' (ID: 8317), Prob: 0.0000
-Token: ' constraint' (ID: 21568), Prob: 0.0000
-Token: ' slot' (ID: 9446), Prob: 0.0000
-Token: '_ZONE' (ID: 60742), Prob: 0.0000
-Token: ' longitude' (ID: 20515), Prob: 0.0000
-Token: ' point' (ID: 1459), Prob: 0.0000
-Token: ' date' (ID: 2400), Prob: 0.0000
-Token: ' base' (ID: 2331), Prob: 0.0000
-Token: ' duration' (ID: 8090), Prob: 0.0000
-Token: ' location' (ID: 3728), Prob: 0.0000
-Token: ' due' (ID: 4152), Prob: 0.0000
-Token: ' moment' (ID: 4445), Prob: 0.0000
-Token: ' zoning' (ID: 64978), Prob: 0.0000
-Token: ' frame' (ID: 4034), Prob: 0.0000
-Token: ' tunnel' (ID: 25629), Prob: 0.0000
-Token: ' district' (ID: 9290), Prob: 0.0000
-Token: ' relation' (ID: 12687), Prob: 0.0000
-Token: ' window' (ID: 3241), Prob: 0.0000
-Token: ' east' (ID: 10984), Prob: 0.0000
-Token: ' interval' (ID: 9873), Prob: 0.0000
-Token: ' plane' (ID: 11031), Prob: 0.0000
-Token: ' area' (ID: 3082), Prob: 0.0000
-Token: ' hour' (ID: 6460), Prob: 0.0000
-Token: ' constant' (ID: 6783), Prob: 0.0000
+Token: ' response' (ID: 2033), Prob: 0.0000
+Token: ' meaning' (ID: 7290), Prob: 0.0000
+Token: ' study' (ID: 3920), Prob: 0.0000
+Token: ' summary' (ID: 12126), Prob: 0.0000
+Token: ' truth' (ID: 8046), Prob: 0.0000
+Token: ' assistant' (ID: 17847), Prob: 0.0000
+Token: ' two' (ID: 1378), Prob: 0.0000
+Token: ' message' (ID: 1943), Prob: 0.0000
 Token: ' change' (ID: 2297), Prob: 0.0000
-Token: ' station' (ID: 8056), Prob: 0.0000
-Token: ' province' (ID: 16847), Prob: 0.0000
-Token: 'ZONE' (ID: 56502), Prob: 0.0000
-Token: ' node' (ID: 2436), Prob: 0.0000
-Token: ' according' (ID: 4092), Prob: 0.0000
-Token: ' today' (ID: 3351), Prob: 0.0000
-Token: ' focus' (ID: 5244), Prob: 0.0000
-Token: ' zip' (ID: 10308), Prob: 0.0000
-Token: ' one' (ID: 825), Prob: 0.0000
-Token: ' box' (ID: 3745), Prob: 0.0000
-Token: ' band' (ID: 7055), Prob: 0.0000
-Token: ' instant' (ID: 9690), Prob: 0.0000
-Token: ' city' (ID: 3283), Prob: 0.0000
-Token: ' border' (ID: 3886), Prob: 0.0000
+Token: ' argument' (ID: 5693), Prob: 0.0000
+Token: '	statement' (ID: 89566), Prob: 0.0000
+Token: ' stat' (ID: 2793), Prob: 0.0000
+Token: ' amount' (ID: 3311), Prob: 0.0000
+Token: ' sentiment' (ID: 25975), Prob: 0.0000
+Token: ' scene' (ID: 6109), Prob: 0.0000
+Token: ' expression' (ID: 7493), Prob: 0.0000
+Token: ' passage' (ID: 21085), Prob: 0.0000
+Token: ' letter' (ID: 6524), Prob: 0.0000
+Token: ' structure' (ID: 5944), Prob: 0.0000
+Token: ' suff' (ID: 8489), Prob: 0.0000
+Token: 'Statement' (ID: 8636), Prob: 0.0000
+Token: ' state' (ID: 1584), Prob: 0.0000
+Token: ' rest' (ID: 2732), Prob: 0.0000
+Token: ' solution' (ID: 6291), Prob: 0.0000
+Token: ' prompt' (ID: 9934), Prob: 0.0000
+Token: ' assertion' (ID: 27419), Prob: 0.0000
+Token: ' second' (ID: 2086), Prob: 0.0000
+Token: ' previous' (ID: 3681), Prob: 0.0000
+Token: ' moment' (ID: 4445), Prob: 0.0000
+Token: ' motion' (ID: 11379), Prob: 0.0000
+Token: ' assumption' (ID: 24335), Prob: 0.0000
+Token: ' reason' (ID: 2874), Prob: 0.0000
 Token: ' standard' (ID: 5297), Prob: 0.0000
-Token: ' shift' (ID: 6407), Prob: 0.0000
-Token: ' ion' (ID: 27672), Prob: 0.0000
-Token: ' block' (ID: 2504), Prob: 0.0000
-Token: ' ratio' (ID: 11341), Prob: 0.0000
+Token: ' premise' (ID: 40202), Prob: 0.0000
+Token: ' wording' (ID: 60227), Prob: 0.0000
+Token: ' one' (ID: 825), Prob: 0.0000
+Token: ' string' (ID: 914), Prob: 0.0000
+Token: ' user' (ID: 1196), Prob: 0.0000
+Token: ' theme' (ID: 6912), Prob: 0.0000
+Token: ' topic' (ID: 8544), Prob: 0.0000
+Token: ' suggestion' (ID: 23776), Prob: 0.0000
+Token: ' problem' (ID: 3491), Prob: 0.0000
+Token: ' comment' (ID: 3980), Prob: 0.0000
+Token: ' reasoning' (ID: 32711), Prob: 0.0000
+Token: ' entire' (ID: 4453), Prob: 0.0000
+Token: ' comparison' (ID: 12313), Prob: 0.0000
+Token: ' hypothesis' (ID: 30078), Prob: 0.0000
+Token: ' computer' (ID: 6366), Prob: 0.0000
+Token: ' photo' (ID: 6548), Prob: 0.0000
+Token: ' construction' (ID: 8086), Prob: 0.0000
+Token: ' scenario' (ID: 15048), Prob: 0.0000
+Token: ' stimulus' (ID: 38435), Prob: 0.0000
+Token: ' system' (ID: 1849), Prob: 0.0000
+Token: ' author' (ID: 3150), Prob: 0.0000
+Token: '_statement' (ID: 37404), Prob: 0.0000
 
 == Ranked Concepts (Clusters) ==
-Rank 1 | Concept Score: 1.0000
-  Tokens: [' zone', ' Zone', ' zones', 'zone', '.zone', '-zone', '(zone', 'Zone', '_zone', ' zona', '_ZONE', ' zoning', 'ZONE']
-Rank 2 | Concept Score: 0.0000
-  Tokens: [' time', ' clock', ' timezone', ' date', ' hour']
-Rank 3 | Concept Score: 0.0000
-  Tokens: [' region', ' area']
-Rank 4 | Concept Score: 0.0000
-  Tokens: [' period', ' duration', ' interval']
-Rank 5 | Concept Score: 0.0000
-  Tokens: [' tone', ' format', ' constraint']
-Rank 6 | Concept Score: 0.0000
-  Tokens: [' zero', ' due', ' constant', ' according', ' today', ' one', ' standard']
-Rank 7 | Concept Score: 0.0000
-  Tokens: [' transition', ' transfer', ' change', ' shift']
-Rank 8 | Concept Score: 0.0000
-  Tokens: [' difference', ' relation', ' ratio']
-Rank 9 | Concept Score: 0.0000
-  Tokens: [' slot', ' frame', ' window', ' box', ' block']
-Rank 10 | Concept Score: 0.0000
-  Tokens: [' state']
-Rank 11 | Concept Score: 0.0000
-  Tokens: [' center']
-Rank 12 | Concept Score: 0.0000
-  Tokens: [' longitude', ' east']
-Rank 13 | Concept Score: 0.0000
-  Tokens: [' offset']
-Rank 14 | Concept Score: 0.0000
-  Tokens: [' point', ' node']
-Rank 15 | Concept Score: 0.0000
-  Tokens: [' tunnel', ' station', ' ion']
-Rank 16 | Concept Score: 0.0000
-  Tokens: [' district', ' province', ' city']
-Rank 17 | Concept Score: 0.0000
-  Tokens: [' base', ' border']
-Rank 18 | Concept Score: 0.0000
-  Tokens: [' location', ' focus']
-Rank 19 | Concept Score: 0.0000
-  Tokens: [' moment', ' instant']
-Rank 20 | Concept Score: 0.0000
-  Tokens: [' plane', ' band']
-Rank 21 | Concept Score: 0.0000
-  Tokens: [' zip']
+Rank 1 | Centroid: ' statement' | Score: 1.0000
+  Tokens: [' statement', ' statements', ' Statement', 'statement', ' stated', '\tstatement', 'Statement', '_statement']
+Rank 2 | Centroid: ' phrase' | Score: 0.0000
+  Tokens: [' sentence', ' paragraph', ' phrase', ' wording']
+Rank 3 | Centroid: ' question' | Score: 0.0000
+  Tokens: [' answer', ' question', ' problem']
+Rank 4 | Centroid: ' two' | Score: 0.0000
+  Tokens: [' final', ' following', ' general', ' given', ' original', ' correct', ' two', ' second', ' previous', ' standard', ' one', ' entire']
+Rank 5 | Centroid: ' assertion' | Score: 0.0000
+  Tokens: [' conclusion', ' claim', ' argument', ' assertion', ' assumption', ' premise', ' suggestion', ' hypothesis']
+Rank 6 | Centroid: ' scenario' | Score: 0.0000
+  Tokens: [' situation', ' scene', ' scenario']
+Rank 7 | Centroid: ' story' | Score: 0.0000
+  Tokens: [' story']
+Rank 8 | Centroid: ' summary' | Score: 0.0000
+  Tokens: [' information', ' table', ' summary', ' structure', ' comparison', ' construction']
+Rank 9 | Centroid: ' topic' | Score: 0.0000
+  Tokens: [' subject', ' theme', ' topic']
+Rank 10 | Centroid: ' student' | Score: 0.0000
+  Tokens: [' student', ' study', ' user', ' computer']
+Rank 11 | Centroid: ' solution' | Score: 0.0000
+  Tokens: [' choice', ' response', ' solution']
+Rank 12 | Centroid: ' number' | Score: 0.0000
+  Tokens: [' number', ' time', ' change']
+Rank 13 | Centroid: ' reasoning' | Score: 0.0000
+  Tokens: [' meaning', ' amount', ' reason', ' reasoning']
+Rank 14 | Centroid: ' text' | Score: 0.0000
+  Tokens: [' text', ' letter', ' string']
+Rank 15 | Centroid: ' description' | Score: 0.0000
+  Tokens: [' description', ' expression']
+Rank 16 | Centroid: ' stimulus' | Score: 0.0000
+  Tokens: [' sentiment', ' prompt', ' moment', ' stimulus']
+Rank 17 | Centroid: ' truth' | Score: 0.0000
+  Tokens: [' truth', ' motion']
+Rank 18 | Centroid: ' assistant' | Score: 0.0000
+  Tokens: [' assistant', ' author']
+Rank 19 | Centroid: ' stat' | Score: 0.0000
+  Tokens: [' stat', ' state']
+Rank 20 | Centroid: ' suff' | Score: 0.0000
+  Tokens: [' suff', ' rest']
+Rank 21 | Centroid: ' passage' | Score: 0.0000
+  Tokens: [' passage', ' photo']
+Rank 22 | Centroid: ' message' | Score: 0.0000
+  Tokens: [' message']
+Rank 23 | Centroid: ' comment' | Score: 0.0000
+  Tokens: [' comment']
+Rank 24 | Centroid: ' system' | Score: 0.0000
+  Tokens: [' system']
 
-**Chosen Concept:** Rank 1 with score 1.0000
+**Chosen Concept:** Rank 1

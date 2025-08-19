@@ -1,110 +1,124 @@
 --- Step 9 Log ---
 
 == Filtered Candidates ==
-Token: ' cry' (ID: 15729), Prob: 0.1235
-Token: ' tears' (ID: 23139), Prob: 0.0703
-Token: ' cried' (ID: 38069), Prob: 0.0167
-Token: ' scream' (ID: 45689), Prob: 0.0167
-Token: ' feel' (ID: 2666), Prob: 0.0157
-Token: ' crying' (ID: 30199), Prob: 0.0115
-Token: ' tear' (ID: 17576), Prob: 0.0095
-Token: ' love' (ID: 2948), Prob: 0.0090
-Token: ' heart' (ID: 4746), Prob: 0.0090
-Token: ' pain' (ID: 6646), Prob: 0.0090
-Token: ' fall' (ID: 4399), Prob: 0.0084
-Token: ' emotion' (ID: 19772), Prob: 0.0084
-Token: ' sorrow' (ID: 57496), Prob: 0.0079
-Token: ' break' (ID: 1438), Prob: 0.0061
-Token: ' make' (ID: 1281), Prob: 0.0054
-Token: ' etc' (ID: 4992), Prob: 0.0054
-Token: ' lose' (ID: 9052), Prob: 0.0033
-Token: ' laugh' (ID: 12550), Prob: 0.0029
-Token: ' feeling' (ID: 8266), Prob: 0.0026
-Token: ' joy' (ID: 15888), Prob: 0.0024
-Token: ' eyes' (ID: 6414), Prob: 0.0021
-Token: ' ache' (ID: 77731), Prob: 0.0021
-Token: ' flow' (ID: 6396), Prob: 0.0020
-Token: ' maybe' (ID: 7196), Prob: 0.0019
-Token: ' eye' (ID: 7912), Prob: 0.0019
-Token: ' emotional' (ID: 14269), Prob: 0.0019
-Token: ' grief' (ID: 37284), Prob: 0.0019
-Token: ' cries' (ID: 57745), Prob: 0.0018
-Token: ' sadness' (ID: 50878), Prob: 0.0017
-Token: ' sad' (ID: 12421), Prob: 0.0016
-Token: ' bleed' (ID: 66006), Prob: 0.0015
-Token: ' come' (ID: 2525), Prob: 0.0014
-Token: ' express' (ID: 3158), Prob: 0.0014
-Token: ' look' (ID: 1401), Prob: 0.0013
-Token: ' run' (ID: 1598), Prob: 0.0013
-Token: ' lament' (ID: 50372), Prob: 0.0013
-Token: ' let' (ID: 1077), Prob: 0.0012
-Token: ' share' (ID: 4332), Prob: 0.0012
-Token: ' please' (ID: 4486), Prob: 0.0012
-Token: ' beat' (ID: 9382), Prob: 0.0012
-Token: ' broken' (ID: 10865), Prob: 0.0012
-Token: ' angry' (ID: 18514), Prob: 0.0012
-Token: ' shed' (ID: 24354), Prob: 0.0012
-Token: ' mourn' (ID: 59134), Prob: 0.0011
-Token: ' smile' (ID: 15289), Prob: 0.0011
-Token: ' get' (ID: 633), Prob: 0.0010
-Token: ' soft' (ID: 8413), Prob: 0.0010
-Token: ' feelings' (ID: 15650), Prob: 0.0010
-Token: ' emotions' (ID: 21261), Prob: 0.0010
-Token: ' crush' (ID: 5030), Prob: 0.0009
-Token: ' touch' (ID: 5796), Prob: 0.0009
-Token: ' show' (ID: 1473), Prob: 0.0009
-Token: ' lost' (ID: 5558), Prob: 0.0009
-Token: ' mother' (ID: 6554), Prob: 0.0009
-Token: ' want' (ID: 1366), Prob: 0.0008
-Token: ' suffer' (ID: 7676), Prob: 0.0008
-Token: ' kiss' (ID: 21057), Prob: 0.0008
-Token: ' one' (ID: 825), Prob: 0.0008
-Token: ' passion' (ID: 11677), Prob: 0.0008
-Token: ' soul' (ID: 13527), Prob: 0.0008
-Token: ' broke' (ID: 14422), Prob: 0.0008
+Token: ' expressing' (ID: 36710), Prob: 0.0080
+Token: ' making' (ID: 3259), Prob: 0.0055
+Token: ' starting' (ID: 5916), Prob: 0.0038
+Token: ' describing' (ID: 22692), Prob: 0.0038
+Token: ' using' (ID: 1667), Prob: 0.0018
+Token: ' saying' (ID: 5488), Prob: 0.0018
+Token: ' explaining' (ID: 25021), Prob: 0.0018
+Token: ' addressing' (ID: 27020), Prob: 0.0010
+Token: ' filled' (ID: 10199), Prob: 0.0008
+Token: ' responding' (ID: 29338), Prob: 0.0006
+Token: ' talking' (ID: 7404), Prob: 0.0005
+Token: ' asking' (ID: 10161), Prob: 0.0005
+Token: ' highlighting' (ID: 38586), Prob: 0.0004
+Token: ' titled' (ID: 24849), Prob: 0.0003
+Token: ' stating' (ID: 27798), Prob: 0.0003
+Token: ' made' (ID: 1865), Prob: 0.0002
+Token: ' introducing' (ID: 31918), Prob: 0.0002
+Token: ' reflecting' (ID: 41752), Prob: 0.0002
+Token: ' praising' (ID: 80578), Prob: 0.0002
+Token: ' response' (ID: 2033), Prob: 0.0001
+Token: ' written' (ID: 5326), Prob: 0.0001
+Token: ' telling' (ID: 11629), Prob: 0.0001
+Token: ' discussing' (ID: 24392), Prob: 0.0001
+Token: ' like' (ID: 1075), Prob: 0.0001
+Token: ' beginning' (ID: 7167), Prob: 0.0001
+Token: ' expression' (ID: 7493), Prob: 0.0001
+Token: ' mentioning' (ID: 44291), Prob: 0.0001
+Token: ' poem' (ID: 32794), Prob: 0.0001
+Token: ' called' (ID: 2598), Prob: 0.0001
+Token: ' covering' (ID: 18202), Prob: 0.0001
+Token: ' declaring' (ID: 36531), Prob: 0.0001
+Token: ' inspired' (ID: 14606), Prob: 0.0001
+Token: ' invoking' (ID: 46028), Prob: 0.0001
+Token: ' summar' (ID: 28285), Prob: 0.0001
+Token: ' demonstrating' (ID: 44196), Prob: 0.0001
+Token: ' containing' (ID: 8482), Prob: 0.0001
+Token: ' comparing' (ID: 26297), Prob: 0.0001
+Token: ' emphasizing' (ID: 80903), Prob: 0.0001
+Token: ' ending' (ID: 13391), Prob: 0.0001
+Token: ' description' (ID: 4008), Prob: 0.0000
+Token: ' mixing' (ID: 26792), Prob: 0.0000
+Token: ' without' (ID: 2041), Prob: 0.0000
+Token: ' creating' (ID: 6825), Prob: 0.0000
+Token: ' calling' (ID: 8098), Prob: 0.0000
+Token: ' showing' (ID: 9027), Prob: 0.0000
+Token: ' encouraging' (ID: 25836), Prob: 0.0000
+Token: ' capturing' (ID: 39780), Prob: 0.0000
+Token: ' begging' (ID: 59106), Prob: 0.0000
+Token: ' showcasing' (ID: 66808), Prob: 0.0000
+Token: ' thanking' (ID: 93021), Prob: 0.0000
+Token: ' expl' (ID: 3247), Prob: 0.0000
+Token: ' dealing' (ID: 14550), Prob: 0.0000
+Token: ' addressed' (ID: 20068), Prob: 0.0000
+Token: ' crying' (ID: 30199), Prob: 0.0000
+Token: ' celebrating' (ID: 31589), Prob: 0.0000
+Token: ' reacting' (ID: 73050), Prob: 0.0000
+Token: ' feeling' (ID: 8266), Prob: 0.0000
+Token: ' focusing' (ID: 21080), Prob: 0.0000
+Token: ' detailing' (ID: 44193), Prob: 0.0000
+Token: ' imagining' (ID: 76624), Prob: 0.0000
+Token: ' message' (ID: 1943), Prob: 0.0000
+Token: ' requesting' (ID: 34692), Prob: 0.0000
+Token: ' express' (ID: 3158), Prob: 0.0000
+Token: ' writing' (ID: 4378), Prob: 0.0000
+Token: ' directed' (ID: 15540), Prob: 0.0000
+Token: ' promoting' (ID: 22136), Prob: 0.0000
+Token: ' full' (ID: 2480), Prob: 0.0000
+Token: ' complete' (ID: 4583), Prob: 0.0000
+Token: ' even' (ID: 1496), Prob: 0.0000
+Token: ' featuring' (ID: 16445), Prob: 0.0000
+Token: ' centered' (ID: 30188), Prob: 0.0000
+Token: ' incorporating' (ID: 51813), Prob: 0.0000
+Token: ' setting' (ID: 6243), Prob: 0.0000
 
 == Ranked Concepts (Clusters) ==
-Rank 1 | Concept Score: 0.1699
-  Tokens: [' cry', ' cried', ' scream', ' crying', ' cries']
-Rank 2 | Concept Score: 0.0801
-  Tokens: [' tears', ' tear']
-Rank 3 | Concept Score: 0.0193
-  Tokens: [' feel', ' feeling', ' feelings']
-Rank 4 | Concept Score: 0.0187
-  Tokens: [' make', ' etc', ' maybe', ' let', ' please', ' get', ' show', ' want', ' one']
-Rank 5 | Concept Score: 0.0166
-  Tokens: [' sorrow', ' grief', ' sadness', ' sad', ' lament', ' angry', ' mourn']
-Rank 6 | Concept Score: 0.0137
-  Tokens: [' heart', ' eyes', ' eye', ' soul']
-Rank 7 | Concept Score: 0.0121
-  Tokens: [' love', ' joy', ' passion']
-Rank 8 | Concept Score: 0.0117
-  Tokens: [' fall', ' flow', ' run']
-Rank 9 | Concept Score: 0.0113
-  Tokens: [' emotion', ' emotional', ' emotions']
-Rank 10 | Concept Score: 0.0111
-  Tokens: [' pain', ' ache']
-Rank 11 | Concept Score: 0.0081
-  Tokens: [' break', ' broken', ' broke']
-Rank 12 | Concept Score: 0.0054
-  Tokens: [' lose', ' shed', ' lost']
-Rank 13 | Concept Score: 0.0040
-  Tokens: [' laugh', ' smile']
-Rank 14 | Concept Score: 0.0027
-  Tokens: [' come', ' look']
-Rank 15 | Concept Score: 0.0026
-  Tokens: [' express', ' share']
-Rank 16 | Concept Score: 0.0022
-  Tokens: [' beat', ' soft']
-Rank 17 | Concept Score: 0.0018
-  Tokens: [' touch', ' kiss']
-Rank 18 | Concept Score: 0.0015
-  Tokens: [' bleed']
-Rank 19 | Concept Score: 0.0009
-  Tokens: [' crush']
-Rank 20 | Concept Score: 0.0009
-  Tokens: [' mother']
-Rank 21 | Concept Score: 0.0008
-  Tokens: [' suffer']
+Rank 1 | Centroid: ' expressing' | Score: 0.0082
+  Tokens: [' expressing', ' expression', ' express']
+Rank 2 | Centroid: ' creating' | Score: 0.0074
+  Tokens: [' making', ' using', ' mixing', ' creating', ' setting']
+Rank 3 | Centroid: ' describing' | Score: 0.0056
+  Tokens: [' describing', ' explaining', ' detailing']
+Rank 4 | Centroid: ' beginning' | Score: 0.0040
+  Tokens: [' starting', ' beginning', ' ending', ' feeling']
+Rank 5 | Centroid: ' stating' | Score: 0.0023
+  Tokens: [' saying', ' stating', ' telling', ' mentioning']
+Rank 6 | Centroid: ' addressing' | Score: 0.0010
+  Tokens: [' addressing', ' dealing', ' addressed']
+Rank 7 | Centroid: ' full' | Score: 0.0009
+  Tokens: [' filled', ' full', ' complete']
+Rank 8 | Centroid: ' responding' | Score: 0.0008
+  Tokens: [' responding', ' response', ' reacting']
+Rank 9 | Centroid: ' talking' | Score: 0.0006
+  Tokens: [' talking', ' discussing']
+Rank 10 | Centroid: ' showcasing' | Score: 0.0006
+  Tokens: [' highlighting', ' demonstrating', ' emphasizing', ' showing', ' showcasing']
+Rank 11 | Centroid: ' requesting' | Score: 0.0006
+  Tokens: [' asking', ' begging', ' crying', ' requesting']
+Rank 12 | Centroid: ' titled' | Score: 0.0005
+  Tokens: [' titled', ' called', ' inspired', ' directed', ' centered']
+Rank 13 | Centroid: ' invoking' | Score: 0.0005
+  Tokens: [' introducing', ' declaring', ' invoking', ' comparing', ' imagining']
+Rank 14 | Centroid: ' without' | Score: 0.0004
+  Tokens: [' made', ' like', ' without', ' even']
+Rank 15 | Centroid: ' praising' | Score: 0.0003
+  Tokens: [' praising', ' thanking', ' celebrating']
+Rank 16 | Centroid: ' incorporating' | Score: 0.0003
+  Tokens: [' reflecting', ' capturing', ' incorporating']
+Rank 17 | Centroid: ' description' | Score: 0.0003
+  Tokens: [' poem', ' summar', ' description', ' message']
+Rank 18 | Centroid: ' featuring' | Score: 0.0002
+  Tokens: [' covering', ' containing', ' focusing', ' featuring']
+Rank 19 | Centroid: ' written' | Score: 0.0002
+  Tokens: [' written', ' writing']
+Rank 20 | Centroid: ' encouraging' | Score: 0.0001
+  Tokens: [' encouraging', ' promoting']
+Rank 21 | Centroid: ' calling' | Score: 0.0000
+  Tokens: [' calling']
+Rank 22 | Centroid: ' expl' | Score: 0.0000
+  Tokens: [' expl']
 
-**Chosen Concept:** Rank 1 with score 0.1699
+**Chosen Concept:** Rank 1

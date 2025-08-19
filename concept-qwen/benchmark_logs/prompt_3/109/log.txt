@@ -1,53 +1,99 @@
 --- Step 109 Log ---
 
 == Filtered Candidates ==
-Token: ' may' (ID: 1231), Prob: 1.0000
-Token: ' May' (ID: 3217), Prob: 0.0003
-Token: ' might' (ID: 2578), Prob: 0.0002
-Token: ' MAY' (ID: 39230), Prob: 0.0000
-Token: 'may' (ID: 18358), Prob: 0.0000
-Token: ' maybe' (ID: 7196), Prob: 0.0000
-Token: ' mail' (ID: 8072), Prob: 0.0000
-Token: 'May' (ID: 11109), Prob: 0.0000
-Token: ' could' (ID: 1410), Prob: 0.0000
-Token: ' would' (ID: 1035), Prob: 0.0000
-Token: ' perhaps' (ID: 8365), Prob: 0.0000
-Token: ' must' (ID: 1969), Prob: 0.0000
-Token: ' possibly' (ID: 10767), Prob: 0.0000
-Token: ' male' (ID: 8593), Prob: 0.0000
-Token: ' goes' (ID: 5780), Prob: 0.0000
-Token: ' wants' (ID: 6801), Prob: 0.0000
-Token: ' also' (ID: 1083), Prob: 0.0000
-Token: ' still' (ID: 2058), Prob: 0.0000
-Token: ' group' (ID: 1874), Prob: 0.0000
-Token: ' possible' (ID: 3204), Prob: 0.0000
-Token: ' mar' (ID: 3594), Prob: 0.0000
-Token: ' per' (ID: 817), Prob: 0.0000
+Token: 'Let' (ID: 10061), Prob: 0.9688
+Token: 'Yes' (ID: 9454), Prob: 0.0014
+Token: 'Answer' (ID: 16141), Prob: 0.0014
+Token: 'Okay' (ID: 32313), Prob: 0.0005
+Token: 'Word' (ID: 10879), Prob: 0.0003
+Token: 'Ret' (ID: 12020), Prob: 0.0002
+Token: 'Wait' (ID: 14190), Prob: 0.0002
+Token: 'Last' (ID: 5842), Prob: 0.0002
+Token: 'Tweet' (ID: 48362), Prob: 0.0002
+Token: 'Maybe' (ID: 21390), Prob: 0.0002
+Token: 'Back' (ID: 3707), Prob: 0.0002
+Token: 'Based' (ID: 28715), Prob: 0.0001
+Token: 'Get' (ID: 1949), Prob: 0.0001
+Token: 'Please' (ID: 5501), Prob: 0.0001
+Token: 'Correct' (ID: 33092), Prob: 0.0001
+Token: 'Exactly' (ID: 65357), Prob: 0.0001
+Token: 'Finally' (ID: 23949), Prob: 0.0001
+Token: 'Every' (ID: 11510), Prob: 0.0001
+Token: 'Reply' (ID: 20841), Prob: 0.0001
+Token: 'One' (ID: 3966), Prob: 0.0001
+Token: 'Among' (ID: 33610), Prob: 0.0001
+Token: 'Therefore' (ID: 54815), Prob: 0.0001
+Token: ' Let' (ID: 6771), Prob: 0.0001
+Token: 'Even' (ID: 13159), Prob: 0.0001
+Token: 'Explanation' (ID: 69769), Prob: 0.0001
+Token: 'Help' (ID: 12689), Prob: 0.0001
+Token: 'Given' (ID: 22043), Prob: 0.0001
+Token: 'Click' (ID: 2612), Prob: 0.0001
+Token: 'Tag' (ID: 5668), Prob: 0.0001
+Token: 'Home' (ID: 7623), Prob: 0.0001
+Token: 'Ass' (ID: 5615), Prob: 0.0001
+Token: 'Question' (ID: 14582), Prob: 0.0001
+Token: 'Perhaps' (ID: 31476), Prob: 0.0001
+Token: 'View' (ID: 851), Prob: 0.0001
+Token: 'June' (ID: 27160), Prob: 0.0001
+Token: 'According' (ID: 11190), Prob: 0.0001
+Token: 'Today' (ID: 15364), Prob: 0.0001
+Token: 'Alright' (ID: 71486), Prob: 0.0001
+Token: 'List' (ID: 852), Prob: 0.0000
+Token: 'Set' (ID: 1649), Prob: 0.0000
+Token: 'None' (ID: 4064), Prob: 0.0000
+Token: 'Still' (ID: 23322), Prob: 0.0000
+Token: 'End' (ID: 3727), Prob: 0.0000
+Token: 'See' (ID: 9830), Prob: 0.0000
+Token: 'Enough' (ID: 95801), Prob: 0.0000
+Token: 'West' (ID: 23306), Prob: 0.0000
 
 == Ranked Concepts (Clusters) ==
-Rank 1 | Concept Score: 1.0000
-  Tokens: [' may', ' might']
-Rank 2 | Concept Score: 0.0003
-  Tokens: [' May', ' MAY', 'may', 'May']
-Rank 3 | Concept Score: 0.0000
-  Tokens: [' maybe', ' perhaps', ' possibly', ' possible']
-Rank 4 | Concept Score: 0.0000
-  Tokens: [' could', ' would', ' must']
-Rank 5 | Concept Score: 0.0000
-  Tokens: [' mail']
-Rank 6 | Concept Score: 0.0000
-  Tokens: [' male']
-Rank 7 | Concept Score: 0.0000
-  Tokens: [' also', ' still']
-Rank 8 | Concept Score: 0.0000
-  Tokens: [' goes']
-Rank 9 | Concept Score: 0.0000
-  Tokens: [' wants']
-Rank 10 | Concept Score: 0.0000
-  Tokens: [' group']
-Rank 11 | Concept Score: 0.0000
-  Tokens: [' mar']
-Rank 12 | Concept Score: 0.0000
-  Tokens: [' per']
+Rank 1 | Centroid: 'Let' | Score: 0.9688
+  Tokens: ['Let', ' Let']
+Rank 2 | Centroid: 'Okay' | Score: 0.0020
+  Tokens: ['Yes', 'Okay', 'Alright']
+Rank 3 | Centroid: 'Answer' | Score: 0.0015
+  Tokens: ['Answer', 'Explanation', 'Question']
+Rank 4 | Centroid: 'According' | Score: 0.0004
+  Tokens: ['Based', 'Among', 'Therefore', 'Given', 'According']
+Rank 5 | Centroid: 'Ret' | Score: 0.0004
+  Tokens: ['Ret', 'Wait']
+Rank 6 | Centroid: 'Get' | Score: 0.0003
+  Tokens: ['Get', 'View', 'List', 'Set', 'See']
+Rank 7 | Centroid: 'Word' | Score: 0.0003
+  Tokens: ['Word', 'West']
+Rank 8 | Centroid: 'Last' | Score: 0.0003
+  Tokens: ['Last', 'Finally']
+Rank 9 | Centroid: 'Perhaps' | Score: 0.0003
+  Tokens: ['Maybe', 'Perhaps', 'June']
+Rank 10 | Centroid: 'Tweet' | Score: 0.0003
+  Tokens: ['Tweet', 'Click']
+Rank 11 | Centroid: 'Every' | Score: 0.0002
+  Tokens: ['Every', 'Even']
+Rank 12 | Centroid: 'Exactly' | Score: 0.0002
+  Tokens: ['Exactly', 'Enough']
+Rank 13 | Centroid: 'Back' | Score: 0.0002
+  Tokens: ['Back']
+Rank 14 | Centroid: 'Help' | Score: 0.0001
+  Tokens: ['Help', 'Ass']
+Rank 15 | Centroid: 'Home' | Score: 0.0001
+  Tokens: ['Home', 'End']
+Rank 16 | Centroid: 'Correct' | Score: 0.0001
+  Tokens: ['Correct']
+Rank 17 | Centroid: 'Please' | Score: 0.0001
+  Tokens: ['Please']
+Rank 18 | Centroid: 'Reply' | Score: 0.0001
+  Tokens: ['Reply']
+Rank 19 | Centroid: 'One' | Score: 0.0001
+  Tokens: ['One']
+Rank 20 | Centroid: 'Tag' | Score: 0.0001
+  Tokens: ['Tag']
+Rank 21 | Centroid: 'Today' | Score: 0.0001
+  Tokens: ['Today']
+Rank 22 | Centroid: 'None' | Score: 0.0000
+  Tokens: ['None']
+Rank 23 | Centroid: 'Still' | Score: 0.0000
+  Tokens: ['Still']
 
-**Chosen Concept:** Rank 1 with score 1.0000
+**Chosen Concept:** Rank 1

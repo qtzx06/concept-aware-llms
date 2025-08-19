@@ -1,107 +1,84 @@
 --- Step 73 Log ---
 
 == Filtered Candidates ==
-Token: ' displayed' (ID: 12596), Prob: 0.9062
-Token: ' immediately' (ID: 7069), Prob: 0.0311
-Token: ' shown' (ID: 6839), Prob: 0.0166
-Token: ' directly' (ID: 5961), Prob: 0.0012
-Token: ' displaying' (ID: 27940), Prob: 0.0009
-Token: ' currently' (ID: 5023), Prob: 0.0008
-Token: ' display' (ID: 3037), Prob: 0.0006
-Token: ' previously' (ID: 8597), Prob: 0.0005
-Token: ' played' (ID: 6342), Prob: 0.0003
-Token: ' initially' (ID: 15102), Prob: 0.0003
-Token: ' represented' (ID: 15251), Prob: 0.0002
-Token: ' prior' (ID: 4867), Prob: 0.0002
-Token: ' recorded' (ID: 12433), Prob: 0.0002
-Token: ' already' (ID: 2669), Prob: 0.0002
-Token: ' stored' (ID: 9768), Prob: 0.0002
-Token: ' adjacent' (ID: 23942), Prob: 0.0002
-Token: ' corresponding' (ID: 12159), Prob: 0.0002
-Token: ' presented' (ID: 10449), Prob: 0.0001
-Token: ' immediate' (ID: 13922), Prob: 0.0001
-Token: ' indicated' (ID: 16317), Prob: 0.0001
-Token: ' originally' (ID: 13214), Prob: 0.0001
-Token: ' expressed' (ID: 13302), Prob: 0.0001
-Token: ' visible' (ID: 9434), Prob: 0.0001
-Token: ' listed' (ID: 10007), Prob: 0.0001
-Token: ' stated' (ID: 10982), Prob: 0.0001
-Token: ' observed' (ID: 13166), Prob: 0.0001
-Token: ' described' (ID: 7481), Prob: 0.0001
-Token: ' calculated' (ID: 16588), Prob: 0.0001
-Token: ' labeled' (ID: 29829), Prob: 0.0001
-Token: ' exhibited' (ID: 50613), Prob: 0.0001
-Token: ' otherwise' (ID: 5937), Prob: 0.0001
-Token: ' earlier' (ID: 6788), Prob: 0.0001
-Token: ' illustrated' (ID: 35662), Prob: 0.0001
-Token: ' time' (ID: 882), Prob: 0.0001
-Token: ' plotted' (ID: 67583), Prob: 0.0001
-Token: ' located' (ID: 7407), Prob: 0.0001
-Token: ' advertised' (ID: 45741), Prob: 0.0001
-Token: ' seen' (ID: 3884), Prob: 0.0001
-Token: ' read' (ID: 1349), Prob: 0.0001
-Token: ' experienced' (ID: 10321), Prob: 0.0001
-Token: ' viewed' (ID: 19334), Prob: 0.0001
-Token: ' showing' (ID: 9027), Prob: 0.0001
-Token: ' closest' (ID: 18093), Prob: 0.0001
-Token: ' exactly' (ID: 6896), Prob: 0.0001
-Token: ' watched' (ID: 15384), Prob: 0.0001
-Token: ' printed' (ID: 16709), Prob: 0.0001
-Token: ' computed' (ID: 24182), Prob: 0.0001
-Token: ' depicted' (ID: 43794), Prob: 0.0001
-Token: ' two' (ID: 1378), Prob: 0.0000
-Token: ' displaced' (ID: 48146), Prob: 0.0000
-Token: ' reflected' (ID: 25911), Prob: 0.0000
-Token: ' given' (ID: 2661), Prob: 0.0000
-Token: ' within' (ID: 2878), Prob: 0.0000
-Token: ' normally' (ID: 14279), Prob: 0.0000
-Token: ' preceding' (ID: 37746), Prob: 0.0000
-Token: ' spoken' (ID: 21355), Prob: 0.0000
-Token: ' midnight' (ID: 32333), Prob: 0.0000
-Token: ' provided' (ID: 3897), Prob: 0.0000
-Token: ' due' (ID: 4152), Prob: 0.0000
-Token: ' reported' (ID: 4961), Prob: 0.0000
-Token: ' written' (ID: 5326), Prob: 0.0000
-Token: ' implied' (ID: 6131), Prob: 0.0000
-Token: ' drawn' (ID: 14764), Prob: 0.0000
-Token: ' next' (ID: 1790), Prob: 0.0000
-Token: ' showed' (ID: 8542), Prob: 0.0000
-Token: ' clearly' (ID: 9355), Prob: 0.0000
+Token: 'Answer' (ID: 16141), Prob: 0.9062
+Token: 'Based' (ID: 28715), Prob: 0.0579
+Token: 'Okay' (ID: 32313), Prob: 0.0010
+Token: 'Question' (ID: 14582), Prob: 0.0006
+Token: 'Since' (ID: 12549), Prob: 0.0002
+Token: 'Yes' (ID: 9454), Prob: 0.0002
+Token: 'based' (ID: 29939), Prob: 0.0002
+Token: 'Problem' (ID: 31198), Prob: 0.0002
+Token: 'Please' (ID: 5501), Prob: 0.0002
+Token: 'Alright' (ID: 71486), Prob: 0.0002
+Token: 'Final' (ID: 19357), Prob: 0.0002
+Token: ' Based' (ID: 20205), Prob: 0.0002
+Token: 'Explanation' (ID: 69769), Prob: 0.0002
+Token: 'Step' (ID: 8304), Prob: 0.0001
+Token: 'Note' (ID: 9112), Prob: 0.0001
+Token: 'Therefore' (ID: 54815), Prob: 0.0001
+Token: 'Wait' (ID: 14190), Prob: 0.0001
+Token: ' Answer' (ID: 21806), Prob: 0.0001
+Token: 'Possible' (ID: 65222), Prob: 0.0001
+Token: 'Solution' (ID: 36842), Prob: 0.0001
+Token: 'Finally' (ID: 23949), Prob: 0.0001
+Token: 'Actually' (ID: 52592), Prob: 0.0001
+Token: 'Response' (ID: 2582), Prob: 0.0001
+Token: 'Check' (ID: 3973), Prob: 0.0001
+Token: 'Let' (ID: 10061), Prob: 0.0001
+Token: 'Word' (ID: 10879), Prob: 0.0001
+Token: 'However' (ID: 11209), Prob: 0.0001
+Token: 'Given' (ID: 22043), Prob: 0.0001
+Token: 'Group' (ID: 2808), Prob: 0.0001
+Token: 'Even' (ID: 13159), Prob: 0.0001
+Token: 'Choose' (ID: 24051), Prob: 0.0001
+Token: 'Analysis' (ID: 26573), Prob: 0.0001
+Token: 'Thus' (ID: 44500), Prob: 0.0001
+Token: 'Would' (ID: 27989), Prob: 0.0001
+Token: 'Base' (ID: 3978), Prob: 0.0000
+Token: 'Number' (ID: 2833), Prob: 0.0000
+Token: 'Maybe' (ID: 21390), Prob: 0.0000
+Token: 'Think' (ID: 38687), Prob: 0.0000
+Token: 'Exercise' (ID: 52709), Prob: 0.0000
+Token: 'Another' (ID: 14037), Prob: 0.0000
+Token: 'Back' (ID: 3707), Prob: 0.0000
+Token: 'Ass' (ID: 5615), Prob: 0.0000
+Token: 'Every' (ID: 11510), Prob: 0.0000
+Token: 'Describe' (ID: 74785), Prob: 0.0000
+Token: 'According' (ID: 11190), Prob: 0.0000
 
 == Ranked Concepts (Clusters) ==
-Rank 1 | Concept Score: 0.9062
-  Tokens: [' displayed', ' displaying', ' display', ' exhibited']
-Rank 2 | Concept Score: 0.0325
-  Tokens: [' immediately', ' directly', ' immediate', ' exactly', ' clearly']
-Rank 3 | Concept Score: 0.0167
-  Tokens: [' shown', ' showing', ' showed']
-Rank 4 | Concept Score: 0.0014
-  Tokens: [' currently', ' initially', ' already', ' originally', ' otherwise', ' normally']
-Rank 5 | Concept Score: 0.0008
-  Tokens: [' previously', ' prior', ' earlier', ' preceding']
-Rank 6 | Concept Score: 0.0008
-  Tokens: [' represented', ' indicated', ' listed', ' stated', ' described', ' illustrated', ' depicted']
-Rank 7 | Concept Score: 0.0005
-  Tokens: [' stored', ' calculated', ' plotted', ' printed', ' computed']
-Rank 8 | Concept Score: 0.0004
-  Tokens: [' adjacent', ' corresponding', ' closest', ' next']
-Rank 9 | Concept Score: 0.0003
-  Tokens: [' observed', ' seen', ' experienced', ' viewed', ' watched']
-Rank 10 | Concept Score: 0.0003
-  Tokens: [' played', ' located']
-Rank 11 | Concept Score: 0.0003
-  Tokens: [' expressed', ' advertised', ' reflected', ' implied']
-Rank 12 | Concept Score: 0.0003
-  Tokens: [' time', ' read', ' two', ' within', ' due']
-Rank 13 | Concept Score: 0.0002
-  Tokens: [' recorded', ' reported']
-Rank 14 | Concept Score: 0.0002
-  Tokens: [' labeled', ' spoken', ' written', ' drawn']
-Rank 15 | Concept Score: 0.0002
-  Tokens: [' presented', ' given', ' provided']
-Rank 16 | Concept Score: 0.0001
-  Tokens: [' visible']
-Rank 17 | Concept Score: 0.0001
-  Tokens: [' displaced', ' midnight']
+Rank 1 | Centroid: ' Answer' | Score: 0.9062
+  Tokens: ['Answer', ' Answer', 'Response']
+Rank 2 | Centroid: 'Based' | Score: 0.0583
+  Tokens: ['Based', 'based', ' Based', 'According']
+Rank 3 | Centroid: 'Okay' | Score: 0.0014
+  Tokens: ['Okay', 'Yes', 'Alright']
+Rank 4 | Centroid: 'Question' | Score: 0.0009
+  Tokens: ['Question', 'Problem', 'Exercise']
+Rank 5 | Centroid: 'Choose' | Score: 0.0004
+  Tokens: ['Please', 'Choose', 'Would', 'Think', 'Describe']
+Rank 6 | Centroid: 'Explanation' | Score: 0.0003
+  Tokens: ['Explanation', 'Solution', 'Analysis']
+Rank 7 | Centroid: 'Since' | Score: 0.0003
+  Tokens: ['Since', 'Given']
+Rank 8 | Centroid: 'Therefore' | Score: 0.0003
+  Tokens: ['Therefore', 'However', 'Thus']
+Rank 9 | Centroid: 'Final' | Score: 0.0002
+  Tokens: ['Final', 'Finally']
+Rank 10 | Centroid: 'Every' | Score: 0.0002
+  Tokens: ['Actually', 'Even', 'Another', 'Every']
+Rank 11 | Centroid: 'Step' | Score: 0.0002
+  Tokens: ['Step', 'Check']
+Rank 12 | Centroid: 'Wait' | Score: 0.0002
+  Tokens: ['Wait', 'Let']
+Rank 13 | Centroid: 'Number' | Score: 0.0002
+  Tokens: ['Word', 'Group', 'Number']
+Rank 14 | Centroid: 'Note' | Score: 0.0002
+  Tokens: ['Note', 'Ass']
+Rank 15 | Centroid: 'Possible' | Score: 0.0001
+  Tokens: ['Possible', 'Maybe']
+Rank 16 | Centroid: 'Base' | Score: 0.0001
+  Tokens: ['Base', 'Back']
 
-**Chosen Concept:** Rank 1 with score 0.9062
+**Chosen Concept:** Rank 1

@@ -1,0 +1,125 @@
+--- Step 60 Log ---
+
+== Filtered Candidates ==
+Token: ' sure' (ID: 2704), Prob: 0.8438
+Token: ' sentences' (ID: 22870), Prob: 0.0000
+Token: ' every' (ID: 1449), Prob: 0.0000
+Token: ' ensure' (ID: 5978), Prob: 0.0000
+Token: ' connections' (ID: 13234), Prob: 0.0000
+Token: ' use' (ID: 990), Prob: 0.0000
+Token: ' certain' (ID: 3654), Prob: 0.0000
+Token: ' phrases' (ID: 31747), Prob: 0.0000
+Token: ' transitions' (ID: 33592), Prob: 0.0000
+Token: ' dialogue' (ID: 21276), Prob: 0.0000
+Token: ' words' (ID: 4244), Prob: 0.0000
+Token: ' concise' (ID: 63594), Prob: 0.0000
+Token: ' things' (ID: 2513), Prob: 0.0000
+Token: ' sentence' (ID: 11652), Prob: 0.0000
+Token: ' time' (ID: 882), Prob: 0.0000
+Token: ' connection' (ID: 3633), Prob: 0.0000
+Token: ' everything' (ID: 4297), Prob: 0.0000
+Token: ' sense' (ID: 5530), Prob: 0.0000
+Token: ' language' (ID: 4128), Prob: 0.0000
+Token: ' paragraphs' (ID: 42643), Prob: 0.0000
+Token: ' reference' (ID: 5785), Prob: 0.0000
+Token: ' one' (ID: 825), Prob: 0.0000
+Token: ' absolutely' (ID: 10875), Prob: 0.0000
+Token: ' emotions' (ID: 21261), Prob: 0.0000
+Token: 'sure' (ID: 19098), Prob: 0.0000
+Token: ' grammar' (ID: 31428), Prob: 0.0000
+Token: ' talk' (ID: 3061), Prob: 0.0000
+Token: ' two' (ID: 1378), Prob: 0.0000
+Token: ' everyone' (ID: 5019), Prob: 0.0000
+Token: ' references' (ID: 15057), Prob: 0.0000
+Token: ' passive' (ID: 27879), Prob: 0.0000
+Token: ' adjustments' (ID: 32974), Prob: 0.0000
+Token: ' three' (ID: 2326), Prob: 0.0000
+Token: ' specific' (ID: 3151), Prob: 0.0000
+Token: ' Sure' (ID: 22555), Prob: 0.0000
+Token: ' key' (ID: 1376), Prob: 0.0000
+Token: ' ensuring' (ID: 22573), Prob: 0.0000
+Token: ' short' (ID: 2805), Prob: 0.0000
+Token: ' emojis' (ID: 99066), Prob: 0.0000
+Token: ' requests' (ID: 7388), Prob: 0.0000
+Token: ' focus' (ID: 5244), Prob: 0.0000
+Token: ' punctuation' (ID: 61503), Prob: 0.0000
+Token: ' eye' (ID: 7912), Prob: 0.0000
+Token: ' jokes' (ID: 31420), Prob: 0.0000
+Token: ' structure' (ID: 5944), Prob: 0.0000
+Token: ' complex' (ID: 6351), Prob: 0.0000
+Token: ' confident' (ID: 16506), Prob: 0.0000
+Token: ' promises' (ID: 20647), Prob: 0.0000
+Token: ' metaph' (ID: 30668), Prob: 0.0000
+Token: ' aseg' (ID: 64744), Prob: 0.0000
+Token: ' conf' (ID: 2335), Prob: 0.0000
+Token: ' contr' (ID: 6027), Prob: 0.0000
+Token: ' emphasis' (ID: 24654), Prob: 0.0000
+Token: ' general' (ID: 4586), Prob: 0.0000
+Token: ' nature' (ID: 6993), Prob: 0.0000
+Token: ' bullet' (ID: 17432), Prob: 0.0000
+Token: ' suggestions' (ID: 18225), Prob: 0.0000
+Token: ' curly' (ID: 68103), Prob: 0.0000
+Token: ' sûr' (ID: 96617), Prob: 0.0000
+Token: ' something' (ID: 2494), Prob: 0.0000
+Token: ' choices' (ID: 11454), Prob: 0.0000
+Token: ' personal' (ID: 4345), Prob: 0.0000
+Token: ' bold' (ID: 13939), Prob: 0.0000
+Token: ' make' (ID: 1281), Prob: 0.0000
+Token: ' conversation' (ID: 10435), Prob: 0.0000
+Token: ' long' (ID: 1293), Prob: 0.0000
+Token: ' points' (ID: 3501), Prob: 0.0000
+Token: ' notes' (ID: 8388), Prob: 0.0000
+Token: ' emotional' (ID: 14269), Prob: 0.0000
+Token: ' tense' (ID: 42687), Prob: 0.0000
+Token: ' yes' (ID: 9834), Prob: 0.0000
+Token: ' collective' (ID: 21750), Prob: 0.0000
+Token: ' text' (ID: 1467), Prob: 0.0000
+Token: ' links' (ID: 7746), Prob: 0.0000
+
+== Ranked Concepts (Clusters) ==
+Rank 1 | Centroid: ' sure' | Score: 0.8438
+  Tokens: [' sure', 'sure', ' Sure', ' confident', ' sûr', ' yes']
+Rank 2 | Centroid: ' sentences' | Score: 0.0000
+  Tokens: [' sentences', ' phrases', ' words', ' sentence', ' language', ' paragraphs', ' grammar', ' punctuation']
+Rank 3 | Centroid: ' everything' | Score: 0.0000
+  Tokens: [' every', ' things', ' everything', ' absolutely', ' everyone', ' something']
+Rank 4 | Centroid: ' connections' | Score: 0.0000
+  Tokens: [' connections', ' transitions', ' connection', ' links']
+Rank 5 | Centroid: ' ensure' | Score: 0.0000
+  Tokens: [' ensure', ' ensuring', ' aseg']
+Rank 6 | Centroid: ' make' | Score: 0.0000
+  Tokens: [' use', ' key', ' eye', ' make']
+Rank 7 | Centroid: ' two' | Score: 0.0000
+  Tokens: [' certain', ' one', ' two', ' three', ' specific']
+Rank 8 | Centroid: ' conversation' | Score: 0.0000
+  Tokens: [' dialogue', ' talk', ' conversation']
+Rank 9 | Centroid: ' concise' | Score: 0.0000
+  Tokens: [' concise', ' bullet', ' curly']
+Rank 10 | Centroid: ' long' | Score: 0.0000
+  Tokens: [' time', ' short', ' complex', ' contr', ' long']
+Rank 11 | Centroid: ' suggestions' | Score: 0.0000
+  Tokens: [' adjustments', ' requests', ' jokes', ' promises', ' suggestions', ' choices']
+Rank 12 | Centroid: ' reference' | Score: 0.0000
+  Tokens: [' reference', ' references']
+Rank 13 | Centroid: ' emotions' | Score: 0.0000
+  Tokens: [' emotions', ' emojis', ' emotional']
+Rank 14 | Centroid: ' sense' | Score: 0.0000
+  Tokens: [' sense']
+Rank 15 | Centroid: ' collective' | Score: 0.0000
+  Tokens: [' passive', ' general', ' personal', ' collective']
+Rank 16 | Centroid: ' focus' | Score: 0.0000
+  Tokens: [' focus', ' emphasis']
+Rank 17 | Centroid: ' structure' | Score: 0.0000
+  Tokens: [' structure', ' nature']
+Rank 18 | Centroid: ' conf' | Score: 0.0000
+  Tokens: [' conf', ' bold']
+Rank 19 | Centroid: ' points' | Score: 0.0000
+  Tokens: [' points', ' notes']
+Rank 20 | Centroid: ' metaph' | Score: 0.0000
+  Tokens: [' metaph']
+Rank 21 | Centroid: ' tense' | Score: 0.0000
+  Tokens: [' tense']
+Rank 22 | Centroid: ' text' | Score: 0.0000
+  Tokens: [' text']
+
+**Chosen Concept:** Rank 1

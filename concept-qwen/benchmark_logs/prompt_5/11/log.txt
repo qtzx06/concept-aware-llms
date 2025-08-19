@@ -1,151 +1,155 @@
 --- Step 11 Log ---
 
 == Filtered Candidates ==
-Token: ' time' (ID: 882), Prob: 0.3438
-Token: ' traveler' (ID: 62765), Prob: 0.2090
-Token: ' friend' (ID: 4238), Prob: 0.0767
-Token: ' person' (ID: 1697), Prob: 0.0171
-Token: ' travel' (ID: 5821), Prob: 0.0134
-Token: ' two' (ID: 1378), Prob: 0.0076
-Token: ' travelers' (ID: 39286), Prob: 0.0071
-Token: ' spaceship' (ID: 84842), Prob: 0.0067
-Token: ' first' (ID: 1156), Prob: 0.0052
-Token: ' probability' (ID: 18927), Prob: 0.0049
-Token: ' amount' (ID: 3311), Prob: 0.0046
-Token: ' teleport' (ID: 49489), Prob: 0.0046
-Token: ' user' (ID: 1196), Prob: 0.0041
-Token: ' alien' (ID: 19594), Prob: 0.0041
-Token: ' following' (ID: 2701), Prob: 0.0034
-Token: ' man' (ID: 883), Prob: 0.0028
-Token: ' universe' (ID: 15494), Prob: 0.0028
-Token: ' total' (ID: 2790), Prob: 0.0026
-Token: ' space' (ID: 3550), Prob: 0.0026
-Token: ' ability' (ID: 5726), Prob: 0.0026
-Token: ' immortal' (ID: 59114), Prob: 0.0026
-Token: ' number' (ID: 1372), Prob: 0.0025
-Token: ' friends' (ID: 4780), Prob: 0.0025
-Token: ' system' (ID: 1849), Prob: 0.0023
-Token: ' world' (ID: 1879), Prob: 0.0023
-Token: ' trip' (ID: 8411), Prob: 0.0022
-Token: ' player' (ID: 2781), Prob: 0.0020
-Token: ' times' (ID: 3039), Prob: 0.0020
-Token: ' passenger' (ID: 23148), Prob: 0.0019
-Token: ' traveling' (ID: 20971), Prob: 0.0018
-Token: ' astronaut' (ID: 46633), Prob: 0.0018
-Token: ' rules' (ID: 5601), Prob: 0.0017
-Token: ' ship' (ID: 8284), Prob: 0.0015
-Token: ' problem' (ID: 3491), Prob: 0.0013
-Token: ' passage' (ID: 21085), Prob: 0.0013
-Token: ' current' (ID: 1482), Prob: 0.0012
-Token: ' machine' (ID: 5662), Prob: 0.0012
-Token: ' main' (ID: 1887), Prob: 0.0012
-Token: ' energy' (ID: 4802), Prob: 0.0012
-Token: ' transfer' (ID: 8317), Prob: 0.0012
-Token: ' planet' (ID: 11580), Prob: 0.0012
-Token: ' scientist' (ID: 27468), Prob: 0.0012
-Token: ' maximum' (ID: 7192), Prob: 0.0011
-Token: ' clock' (ID: 8866), Prob: 0.0011
-Token: ' speed' (ID: 4628), Prob: 0.0010
-Token: ' journey' (ID: 11618), Prob: 0.0010
-Token: ' arrival' (ID: 18647), Prob: 0.0010
-Token: ' key' (ID: 1376), Prob: 0.0010
-Token: ' best' (ID: 1850), Prob: 0.0010
-Token: ' character' (ID: 3668), Prob: 0.0010
-Token: ' future' (ID: 3853), Prob: 0.0010
-Token: ' explorer' (ID: 52967), Prob: 0.0010
-Token: ' present' (ID: 3042), Prob: 0.0009
-Token: ' transport' (ID: 7557), Prob: 0.0009
-Token: ' function' (ID: 729), Prob: 0.0008
-Token: ' power' (ID: 2355), Prob: 0.0008
+Token: ' information' (ID: 1995), Prob: 0.2393
+Token: ' passage' (ID: 21085), Prob: 0.1455
+Token: ' given' (ID: 2661), Prob: 0.1279
+Token: ' provided' (ID: 3897), Prob: 0.0996
+Token: ' text' (ID: 1467), Prob: 0.0286
+Token: ' context' (ID: 2266), Prob: 0.0251
+Token: ' article' (ID: 4549), Prob: 0.0197
+Token: ' previous' (ID: 3681), Prob: 0.0173
+Token: ' first' (ID: 1156), Prob: 0.0119
+Token: ' movie' (ID: 5700), Prob: 0.0119
+Token: ' scenario' (ID: 15048), Prob: 0.0119
+Token: ' story' (ID: 3364), Prob: 0.0112
+Token: ' content' (ID: 2213), Prob: 0.0087
+Token: ' dialogue' (ID: 21276), Prob: 0.0082
+Token: ' following' (ID: 2701), Prob: 0.0072
+Token: ' world' (ID: 1879), Prob: 0.0068
+Token: ' reading' (ID: 5290), Prob: 0.0056
+Token: ' original' (ID: 4024), Prob: 0.0053
+Token: ' conversation' (ID: 10435), Prob: 0.0053
+Token: ' prompt' (ID: 9934), Prob: 0.0050
+Token: ' premise' (ID: 40202), Prob: 0.0050
+Token: ' example' (ID: 3110), Prob: 0.0039
+Token: ' plot' (ID: 7089), Prob: 0.0039
+Token: ' paragraph' (ID: 14311), Prob: 0.0032
+Token: ' scene' (ID: 6109), Prob: 0.0030
+Token: ' logical' (ID: 19819), Prob: 0.0028
+Token: ' novel' (ID: 11514), Prob: 0.0025
+Token: ' prior' (ID: 4867), Prob: 0.0023
+Token: ' situation' (ID: 6534), Prob: 0.0023
+Token: ' logic' (ID: 12218), Prob: 0.0022
+Token: ' word' (ID: 3409), Prob: 0.0021
+Token: ' book' (ID: 2311), Prob: 0.0019
+Token: ' character' (ID: 3668), Prob: 0.0019
+Token: ' material' (ID: 3684), Prob: 0.0019
+Token: ' opening' (ID: 8568), Prob: 0.0019
+Token: ' two' (ID: 1378), Prob: 0.0018
+Token: ' characters' (ID: 5766), Prob: 0.0018
+Token: ' concept' (ID: 7286), Prob: 0.0018
+Token: ' sentence' (ID: 11652), Prob: 0.0018
+Token: ' initial' (ID: 2856), Prob: 0.0017
+Token: ' narrative' (ID: 19221), Prob: 0.0016
+Token: ' choices' (ID: 11454), Prob: 0.0015
+Token: ' work' (ID: 975), Prob: 0.0014
+Token: ' description' (ID: 4008), Prob: 0.0014
+Token: ' time' (ID: 882), Prob: 0.0013
+Token: ' model' (ID: 1614), Prob: 0.0013
+Token: ' knowledge' (ID: 6540), Prob: 0.0013
+Token: ' sample' (ID: 6077), Prob: 0.0013
+Token: ' setting' (ID: 6243), Prob: 0.0012
+Token: ' theme' (ID: 6912), Prob: 0.0012
+Token: ' preceding' (ID: 37746), Prob: 0.0012
+Token: ' details' (ID: 3565), Prob: 0.0011
+Token: ' current' (ID: 1482), Prob: 0.0010
+Token: ' facts' (ID: 13064), Prob: 0.0010
+Token: ' options' (ID: 2606), Prob: 0.0009
+Token: ' reasoning' (ID: 32711), Prob: 0.0009
+Token: ' rules' (ID: 5601), Prob: 0.0009
+Token: ' premises' (ID: 33922), Prob: 0.0009
+Token: ' argument' (ID: 5693), Prob: 0.0008
+Token: ' earlier' (ID: 6788), Prob: 0.0008
+Token: ' contents' (ID: 8794), Prob: 0.0008
 Token: ' possible' (ID: 3204), Prob: 0.0008
-Token: ' distance' (ID: 6010), Prob: 0.0008
-Token: ' one' (ID: 825), Prob: 0.0008
-Token: ' original' (ID: 4024), Prob: 0.0008
-Token: ' tele' (ID: 7963), Prob: 0.0008
-Token: ' aliens' (ID: 36119), Prob: 0.0008
-Token: ' light' (ID: 3100), Prob: 0.0007
-Token: ' past' (ID: 3267), Prob: 0.0007
-Token: ' flight' (ID: 10971), Prob: 0.0007
-Token: ' hero' (ID: 11821), Prob: 0.0007
-Token: ' transportation' (ID: 17903), Prob: 0.0007
-Token: ' toaster' (ID: 89818), Prob: 0.0007
-Token: ' human' (ID: 3738), Prob: 0.0006
-Token: ' limit' (ID: 3930), Prob: 0.0006
-Token: ' Time' (ID: 4120), Prob: 0.0006
-Token: ' normal' (ID: 4622), Prob: 0.0006
-Token: ' living' (ID: 5382), Prob: 0.0006
-Token: ' manager' (ID: 6645), Prob: 0.0006
-Token: ' Earth' (ID: 9237), Prob: 0.0006
+Token: ' dialog' (ID: 7254), Prob: 0.0008
+Token: ' discussion' (ID: 10219), Prob: 0.0008
+Token: ' textbook' (ID: 55085), Prob: 0.0008
+Token: ' statement' (ID: 5114), Prob: 0.0007
+Token: ' examples' (ID: 10295), Prob: 0.0007
+Token: ' readings' (ID: 39074), Prob: 0.0007
+Token: ' data' (ID: 821), Prob: 0.0007
+Token: ' pre' (ID: 855), Prob: 0.0007
+Token: ' World' (ID: 4337), Prob: 0.0007
+Token: ' literary' (ID: 31365), Prob: 0.0007
+Token: ' new' (ID: 501), Prob: 0.0006
 Token: ' question' (ID: 3405), Prob: 0.0006
-Token: ' door' (ID: 6006), Prob: 0.0006
-Token: ' spacecraft' (ID: 41540), Prob: 0.0006
-Token: ' survivor' (ID: 48648), Prob: 0.0006
-Token: ' fact' (ID: 2097), Prob: 0.0005
-Token: ' three' (ID: 2326), Prob: 0.0005
-Token: ' correct' (ID: 4396), Prob: 0.0005
-Token: ' allowed' (ID: 5420), Prob: 0.0005
-Token: ' characters' (ID: 5766), Prob: 0.0005
-Token: ' rule' (ID: 5912), Prob: 0.0005
-Token: ' assistant' (ID: 17847), Prob: 0.0005
-Token: ' object' (ID: 1633), Prob: 0.0005
-Token: ' password' (ID: 3552), Prob: 0.0005
-Token: ' moment' (ID: 4445), Prob: 0.0005
-Token: ' frequency' (ID: 11639), Prob: 0.0005
-Token: ' escape' (ID: 12449), Prob: 0.0005
-Token: ' Travel' (ID: 18097), Prob: 0.0005
-Token: ' passengers' (ID: 22172), Prob: 0.0005
-Token: ' device' (ID: 3671), Prob: 0.0005
-Token: ' age' (ID: 4231), Prob: 0.0005
-Token: ' imm' (ID: 4893), Prob: 0.0005
+Token: ' answer' (ID: 4226), Prob: 0.0006
+Token: ' existing' (ID: 6350), Prob: 0.0006
+Token: ' interaction' (ID: 16230), Prob: 0.0006
+Token: ' graphic' (ID: 20514), Prob: 0.0006
+Token: ' fact' (ID: 2097), Prob: 0.0006
+Token: ' events' (ID: 4357), Prob: 0.0006
+Token: ' relationship' (ID: 5025), Prob: 0.0006
+Token: ' English' (ID: 6364), Prob: 0.0006
+Token: ' definition' (ID: 7271), Prob: 0.0006
+Token: ' sentences' (ID: 22870), Prob: 0.0006
+Token: ' image' (ID: 2168), Prob: 0.0005
+Token: ' idea' (ID: 4522), Prob: 0.0005
+Token: ' science' (ID: 8038), Prob: 0.0005
+Token: ' surrounding' (ID: 14590), Prob: 0.0005
+Token: ' poem' (ID: 32794), Prob: 0.0005
+Token: ' news' (ID: 3669), Prob: 0.0005
+Token: ' instructions' (ID: 11221), Prob: 0.0005
+Token: ' assumption' (ID: 24335), Prob: 0.0005
+Token: ' hypothetical' (ID: 58059), Prob: 0.0005
+Token: ' picture' (ID: 6802), Prob: 0.0005
+Token: ' game' (ID: 1809), Prob: 0.0004
+Token: ' real' (ID: 1931), Prob: 0.0004
 
 == Ranked Concepts (Clusters) ==
-Rank 1 | Concept Score: 0.3477
-  Tokens: [' time', ' times', ' clock', ' Time', ' moment', ' age']
-Rank 2 | Concept Score: 0.2188
-  Tokens: [' traveler', ' travelers', ' passenger', ' passengers']
-Rank 3 | Concept Score: 0.0791
-  Tokens: [' friend', ' friends']
-Rank 4 | Concept Score: 0.0222
-  Tokens: [' travel', ' trip', ' traveling', ' transfer', ' journey', ' transport', ' flight', ' transportation', ' Travel']
-Rank 5 | Concept Score: 0.0210
-  Tokens: [' person', ' man', ' human', ' object']
-Rank 6 | Concept Score: 0.0194
-  Tokens: [' two', ' first', ' following', ' key', ' best', ' one', ' three']
-Rank 7 | Concept Score: 0.0172
-  Tokens: [' spaceship', ' alien', ' astronaut', ' ship', ' planet', ' aliens', ' Earth', ' spacecraft']
-Rank 8 | Concept Score: 0.0095
-  Tokens: [' amount', ' ability', ' maximum', ' limit', ' allowed']
-Rank 9 | Concept Score: 0.0073
-  Tokens: [' probability', ' speed', ' distance', ' frequency']
-Rank 10 | Concept Score: 0.0065
-  Tokens: [' total', ' main', ' possible', ' original', ' normal', ' correct']
-Rank 11 | Concept Score: 0.0063
-  Tokens: [' scientist', ' explorer', ' hero', ' toaster', ' manager', ' door', ' survivor', ' assistant', ' password']
-Rank 12 | Concept Score: 0.0062
-  Tokens: [' teleport', ' arrival', ' escape']
-Rank 13 | Concept Score: 0.0061
-  Tokens: [' user', ' player']
-Rank 14 | Concept Score: 0.0057
-  Tokens: [' number', ' problem', ' function', ' question', ' fact']
-Rank 15 | Concept Score: 0.0051
-  Tokens: [' universe', ' world']
-Rank 16 | Concept Score: 0.0041
-  Tokens: [' system', ' machine', ' device']
-Rank 17 | Concept Score: 0.0038
-  Tokens: [' current', ' future', ' present', ' past']
-Rank 18 | Concept Score: 0.0031
-  Tokens: [' immortal', ' imm']
-Rank 19 | Concept Score: 0.0027
-  Tokens: [' energy', ' power', ' light']
-Rank 20 | Concept Score: 0.0026
-  Tokens: [' space']
-Rank 21 | Concept Score: 0.0022
-  Tokens: [' rules', ' rule']
-Rank 22 | Concept Score: 0.0019
-  Tokens: [' passage', ' living']
-Rank 23 | Concept Score: 0.0015
+Rank 1 | Centroid: ' content' | Score: 0.2520
+  Tokens: [' information', ' content', ' material', ' knowledge', ' contents', ' data']
+Rank 2 | Centroid: ' given' | Score: 0.2285
+  Tokens: [' given', ' provided', ' possible']
+Rank 3 | Centroid: ' readings' | Score: 0.1514
+  Tokens: [' passage', ' reading', ' readings']
+Rank 4 | Centroid: ' previous' | Score: 0.0500
+  Tokens: [' previous', ' first', ' following', ' original', ' prior', ' initial', ' preceding', ' current', ' earlier', ' pre', ' existing']
+Rank 5 | Centroid: ' scenario' | Score: 0.0425
+  Tokens: [' context', ' scenario', ' scene', ' situation']
+Rank 6 | Centroid: ' text' | Score: 0.0306
+  Tokens: [' text', ' word']
+Rank 7 | Centroid: ' literary' | Score: 0.0242
+  Tokens: [' article', ' book', ' textbook', ' literary', ' English', ' poem']
+Rank 8 | Centroid: ' dialogue' | Score: 0.0205
+  Tokens: [' dialogue', ' conversation', ' prompt', ' dialog', ' discussion', ' interaction']
+Rank 9 | Centroid: ' movie' | Score: 0.0193
+  Tokens: [' movie', ' plot', ' novel', ' graphic', ' game']
+Rank 10 | Centroid: ' story' | Score: 0.0128
+  Tokens: [' story', ' narrative']
+Rank 11 | Centroid: ' World' | Score: 0.0086
+  Tokens: [' world', ' setting', ' World']
+Rank 12 | Centroid: ' concept' | Score: 0.0063
+  Tokens: [' concept', ' description', ' theme', ' argument', ' definition', ' idea']
+Rank 13 | Centroid: ' premise' | Score: 0.0063
+  Tokens: [' premise', ' premises', ' assumption']
+Rank 14 | Centroid: ' sentence' | Score: 0.0063
+  Tokens: [' paragraph', ' sentence', ' statement', ' sentences']
+Rank 15 | Centroid: ' logic' | Score: 0.0060
+  Tokens: [' logical', ' logic', ' reasoning']
+Rank 16 | Centroid: ' example' | Score: 0.0058
+  Tokens: [' example', ' sample', ' examples']
+Rank 17 | Centroid: ' two' | Score: 0.0056
+  Tokens: [' two', ' work', ' time', ' new', ' real']
+Rank 18 | Centroid: ' options' | Score: 0.0040
+  Tokens: [' choices', ' details', ' options', ' instructions']
+Rank 19 | Centroid: ' character' | Score: 0.0038
   Tokens: [' character', ' characters']
-Rank 24 | Concept Score: 0.0008
-  Tokens: [' tele']
+Rank 20 | Centroid: ' facts' | Score: 0.0026
+  Tokens: [' facts', ' fact', ' science', ' news']
+Rank 21 | Centroid: ' opening' | Score: 0.0025
+  Tokens: [' opening', ' surrounding']
+Rank 22 | Centroid: ' picture' | Score: 0.0023
+  Tokens: [' model', ' image', ' picture']
+Rank 23 | Centroid: ' rules' | Score: 0.0014
+  Tokens: [' rules', ' events']
+Rank 24 | Centroid: ' question' | Score: 0.0013
+  Tokens: [' question', ' answer']
+Rank 25 | Centroid: ' relationship' | Score: 0.0006
+  Tokens: [' relationship']
+Rank 26 | Centroid: ' hypothetical' | Score: 0.0005
+  Tokens: [' hypothetical']
 
-**Chosen Concept:** Rank 1 with score 0.3477
+**Chosen Concept:** Rank 1

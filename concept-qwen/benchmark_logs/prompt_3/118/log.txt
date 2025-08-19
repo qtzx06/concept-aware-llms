@@ -1,86 +1,101 @@
 --- Step 118 Log ---
 
 == Filtered Candidates ==
-Token: ' payments' (ID: 14173), Prob: 1.0000
-Token: 'payments' (ID: 63043), Prob: 0.0000
-Token: ' payment' (ID: 8160), Prob: 0.0000
-Token: ' Payments' (ID: 57876), Prob: 0.0000
-Token: ' money' (ID: 3220), Prob: 0.0000
-Token: 'Payments' (ID: 87646), Prob: 0.0000
-Token: '_payments' (ID: 91257), Prob: 0.0000
-Token: ' transactions' (ID: 14131), Prob: 0.0000
-Token: ' paid' (ID: 7171), Prob: 0.0000
-Token: ' pay' (ID: 2291), Prob: 0.0000
-Token: ' withdrawals' (ID: 85204), Prob: 0.0000
-Token: ' emissions' (ID: 20143), Prob: 0.0000
-Token: ' communications' (ID: 16893), Prob: 0.0000
-Token: ' payouts' (ID: 89529), Prob: 0.0000
-Token: ' calculations' (ID: 28117), Prob: 0.0000
-Token: ' purchases' (ID: 23491), Prob: 0.0000
-Token: ' pai' (ID: 60600), Prob: 0.0000
-Token: ' paying' (ID: 12515), Prob: 0.0000
-Token: ' pays' (ID: 21241), Prob: 0.0000
-Token: ' funds' (ID: 10514), Prob: 0.0000
-Token: ' parts' (ID: 5479), Prob: 0.0000
-Token: ' calls' (ID: 6738), Prob: 0.0000
-Token: ' full' (ID: 2480), Prob: 0.0000
-Token: ' monthly' (ID: 15088), Prob: 0.0000
-Token: ' movements' (ID: 19029), Prob: 0.0000
-Token: ' returns' (ID: 4675), Prob: 0.0000
-Token: ' cash' (ID: 8350), Prob: 0.0000
-Token: ' dollars' (ID: 11192), Prob: 0.0000
-Token: ' partial' (ID: 7130), Prob: 0.0000
-Token: ' sure' (ID: 2704), Prob: 0.0000
-Token: ' decisions' (ID: 11181), Prob: 0.0000
-Token: ' negotiations' (ID: 23449), Prob: 0.0000
-Token: ' payable' (ID: 44591), Prob: 0.0000
-Token: ' repay' (ID: 53338), Prob: 0.0000
-Token: ' financial' (ID: 5896), Prob: 0.0000
-Token: ' statements' (ID: 12239), Prob: 0.0000
-Token: ' admissions' (ID: 47811), Prob: 0.0000
-Token: ' shipments' (ID: 58621), Prob: 0.0000
-Token: ' changes' (ID: 4344), Prob: 0.0000
-Token: ' expenditures' (ID: 52769), Prob: 0.0000
-Token: ' complaints' (ID: 21171), Prob: 0.0000
-Token: ' sales' (ID: 6625), Prob: 0.0000
-Token: ' donations' (ID: 23957), Prob: 0.0000
-Token: ' monetary' (ID: 32284), Prob: 0.0000
-Token: ' adjustments' (ID: 32974), Prob: 0.0000
-Token: ' deposits' (ID: 33651), Prob: 0.0000
-Token: ' PAY' (ID: 49377), Prob: 0.0000
-Token: ' sums' (ID: 36398), Prob: 0.0000
-Token: ' something' (ID: 2494), Prob: 0.0000
+Token: 'Let' (ID: 10061), Prob: 0.9727
+Token: 'Yes' (ID: 9454), Prob: 0.0013
+Token: 'Answer' (ID: 16141), Prob: 0.0011
+Token: 'Okay' (ID: 32313), Prob: 0.0006
+Token: 'Word' (ID: 10879), Prob: 0.0002
+Token: 'Ret' (ID: 12020), Prob: 0.0002
+Token: 'Last' (ID: 5842), Prob: 0.0002
+Token: 'Wait' (ID: 14190), Prob: 0.0002
+Token: 'Tweet' (ID: 48362), Prob: 0.0002
+Token: 'Back' (ID: 3707), Prob: 0.0001
+Token: 'Maybe' (ID: 21390), Prob: 0.0001
+Token: 'Based' (ID: 28715), Prob: 0.0001
+Token: 'Get' (ID: 1949), Prob: 0.0001
+Token: 'Finally' (ID: 23949), Prob: 0.0001
+Token: 'Please' (ID: 5501), Prob: 0.0001
+Token: 'Correct' (ID: 33092), Prob: 0.0001
+Token: 'Exactly' (ID: 65357), Prob: 0.0001
+Token: 'Every' (ID: 11510), Prob: 0.0001
+Token: 'Reply' (ID: 20841), Prob: 0.0001
+Token: ' Let' (ID: 6771), Prob: 0.0001
+Token: 'Among' (ID: 33610), Prob: 0.0001
+Token: 'One' (ID: 3966), Prob: 0.0001
+Token: 'Given' (ID: 22043), Prob: 0.0001
+Token: 'Even' (ID: 13159), Prob: 0.0001
+Token: 'Home' (ID: 7623), Prob: 0.0001
+Token: 'Question' (ID: 14582), Prob: 0.0001
+Token: 'Therefore' (ID: 54815), Prob: 0.0001
+Token: 'Help' (ID: 12689), Prob: 0.0001
+Token: 'Explanation' (ID: 69769), Prob: 0.0001
+Token: 'Click' (ID: 2612), Prob: 0.0001
+Token: 'Ass' (ID: 5615), Prob: 0.0001
+Token: 'Tag' (ID: 5668), Prob: 0.0001
+Token: 'Alright' (ID: 71486), Prob: 0.0001
+Token: 'June' (ID: 27160), Prob: 0.0001
+Token: 'View' (ID: 851), Prob: 0.0001
+Token: 'According' (ID: 11190), Prob: 0.0001
+Token: 'Perhaps' (ID: 31476), Prob: 0.0001
+Token: 'List' (ID: 852), Prob: 0.0000
+Token: 'Today' (ID: 15364), Prob: 0.0000
+Token: 'Latest' (ID: 31992), Prob: 0.0000
+Token: 'Set' (ID: 1649), Prob: 0.0000
+Token: 'West' (ID: 23306), Prob: 0.0000
+Token: 'Still' (ID: 23322), Prob: 0.0000
+Token: 'Enough' (ID: 95801), Prob: 0.0000
+Token: 'End' (ID: 3727), Prob: 0.0000
+Token: 'None' (ID: 4064), Prob: 0.0000
 
 == Ranked Concepts (Clusters) ==
-Rank 1 | Concept Score: 1.0000
-  Tokens: [' payments', 'payments', ' payment', ' Payments', 'Payments', '_payments', ' payouts', ' PAY']
-Rank 2 | Concept Score: 0.0000
-  Tokens: [' money', ' funds', ' cash', ' dollars', ' financial', ' monetary']
-Rank 3 | Concept Score: 0.0000
-  Tokens: [' paid', ' pay', ' paying', ' pays', ' payable']
-Rank 4 | Concept Score: 0.0000
-  Tokens: [' transactions', ' communications', ' calculations', ' negotiations', ' statements', ' complaints']
-Rank 5 | Concept Score: 0.0000
-  Tokens: [' withdrawals', ' donations', ' deposits']
-Rank 6 | Concept Score: 0.0000
-  Tokens: [' emissions', ' admissions']
-Rank 7 | Concept Score: 0.0000
-  Tokens: [' purchases', ' shipments', ' expenditures']
-Rank 8 | Concept Score: 0.0000
-  Tokens: [' parts', ' full', ' partial']
-Rank 9 | Concept Score: 0.0000
-  Tokens: [' movements', ' decisions', ' changes', ' adjustments']
-Rank 10 | Concept Score: 0.0000
-  Tokens: [' calls', ' returns']
-Rank 11 | Concept Score: 0.0000
-  Tokens: [' pai']
-Rank 12 | Concept Score: 0.0000
-  Tokens: [' monthly', ' sales']
-Rank 13 | Concept Score: 0.0000
-  Tokens: [' sure', ' something']
-Rank 14 | Concept Score: 0.0000
-  Tokens: [' repay']
-Rank 15 | Concept Score: 0.0000
-  Tokens: [' sums']
+Rank 1 | Centroid: 'Let' | Score: 0.9727
+  Tokens: ['Let', ' Let']
+Rank 2 | Centroid: 'Okay' | Score: 0.0019
+  Tokens: ['Yes', 'Okay', 'Alright']
+Rank 3 | Centroid: 'Answer' | Score: 0.0012
+  Tokens: ['Answer', 'Question', 'Explanation']
+Rank 4 | Centroid: 'Latest' | Score: 0.0004
+  Tokens: ['Last', 'Finally', 'Today', 'Latest']
+Rank 5 | Centroid: 'West' | Score: 0.0003
+  Tokens: ['Word', 'Home', 'West']
+Rank 6 | Centroid: 'According' | Score: 0.0003
+  Tokens: ['Based', 'Given', 'Therefore', 'According']
+Rank 7 | Centroid: 'Get' | Score: 0.0003
+  Tokens: ['Get', 'View', 'List', 'Set']
+Rank 8 | Centroid: 'Every' | Score: 0.0002
+  Tokens: ['Every', 'Among', 'Even']
+Rank 9 | Centroid: 'Tweet' | Score: 0.0002
+  Tokens: ['Tweet', 'Click']
+Rank 10 | Centroid: 'Ret' | Score: 0.0002
+  Tokens: ['Ret']
+Rank 11 | Centroid: 'Maybe' | Score: 0.0002
+  Tokens: ['Maybe', 'Perhaps']
+Rank 12 | Centroid: 'Wait' | Score: 0.0002
+  Tokens: ['Wait']
+Rank 13 | Centroid: 'Back' | Score: 0.0001
+  Tokens: ['Back']
+Rank 14 | Centroid: 'Exactly' | Score: 0.0001
+  Tokens: ['Exactly', 'Enough']
+Rank 15 | Centroid: 'Tag' | Score: 0.0001
+  Tokens: ['Tag', 'June']
+Rank 16 | Centroid: 'Please' | Score: 0.0001
+  Tokens: ['Please']
+Rank 17 | Centroid: 'Correct' | Score: 0.0001
+  Tokens: ['Correct']
+Rank 18 | Centroid: 'Reply' | Score: 0.0001
+  Tokens: ['Reply']
+Rank 19 | Centroid: 'One' | Score: 0.0001
+  Tokens: ['One']
+Rank 20 | Centroid: 'Help' | Score: 0.0001
+  Tokens: ['Help']
+Rank 21 | Centroid: 'Ass' | Score: 0.0001
+  Tokens: ['Ass']
+Rank 22 | Centroid: 'Still' | Score: 0.0000
+  Tokens: ['Still']
+Rank 23 | Centroid: 'None' | Score: 0.0000
+  Tokens: ['None']
+Rank 24 | Centroid: 'End' | Score: 0.0000
+  Tokens: ['End']
 
-**Chosen Concept:** Rank 1 with score 1.0000
+**Chosen Concept:** Rank 1

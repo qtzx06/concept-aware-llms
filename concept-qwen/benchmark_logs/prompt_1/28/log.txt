@@ -1,0 +1,155 @@
+--- Step 28 Log ---
+
+== Filtered Candidates ==
+Token: ' like' (ID: 1075), Prob: 0.8906
+Token: ' intense' (ID: 18894), Prob: 0.0128
+Token: ' personal' (ID: 4345), Prob: 0.0068
+Token: ' universal' (ID: 20178), Prob: 0.0060
+Token: ' strong' (ID: 3746), Prob: 0.0044
+Token: ' vivid' (ID: 42020), Prob: 0.0022
+Token: ' profound' (ID: 27155), Prob: 0.0017
+Token: ' raw' (ID: 7112), Prob: 0.0013
+Token: ' simple' (ID: 4285), Prob: 0.0010
+Token: ' heartfelt' (ID: 83111), Prob: 0.0010
+Token: ' rel' (ID: 1351), Prob: 0.0009
+Token: ' immediate' (ID: 13922), Prob: 0.0009
+Token: ' urgent' (ID: 33671), Prob: 0.0009
+Token: ' general' (ID: 4586), Prob: 0.0007
+Token: ' intimate' (ID: 31387), Prob: 0.0007
+Token: ' poetic' (ID: 75434), Prob: 0.0007
+Token: ' specific' (ID: 3151), Prob: 0.0006
+Token: ' related' (ID: 5435), Prob: 0.0005
+Token: ' vague' (ID: 39046), Prob: 0.0005
+Token: ' basic' (ID: 6770), Prob: 0.0005
+Token: ' natural' (ID: 5810), Prob: 0.0004
+Token: ' deep' (ID: 5538), Prob: 0.0004
+Token: ' visceral' (ID: 88016), Prob: 0.0004
+Token: ' initial' (ID: 2856), Prob: 0.0003
+Token: ' passionate' (ID: 24425), Prob: 0.0003
+Token: ' primal' (ID: 86181), Prob: 0.0003
+Token: ' powerful' (ID: 7988), Prob: 0.0003
+Token: ' nostalgic' (ID: 82274), Prob: 0.0003
+Token: ' emotional' (ID: 14269), Prob: 0.0002
+Token: ' grand' (ID: 6662), Prob: 0.0002
+Token: ' familiar' (ID: 11285), Prob: 0.0002
+Token: ' warm' (ID: 8205), Prob: 0.0002
+Token: ' bold' (ID: 13939), Prob: 0.0002
+Token: ' common' (ID: 4185), Prob: 0.0002
+Token: ' positive' (ID: 6785), Prob: 0.0002
+Token: ' vulnerable' (ID: 19563), Prob: 0.0002
+Token: ' overwhelming' (ID: 22024), Prob: 0.0002
+Token: ' sincere' (ID: 48324), Prob: 0.0002
+Token: ' generic' (ID: 13954), Prob: 0.0002
+Token: ' existential' (ID: 66639), Prob: 0.0002
+Token: ' straightforward' (ID: 30339), Prob: 0.0001
+Token: ' broad' (ID: 7205), Prob: 0.0001
+Token: ' soft' (ID: 8413), Prob: 0.0001
+Token: ' dramatic' (ID: 21771), Prob: 0.0001
+Token: ' romantic' (ID: 23467), Prob: 0.0001
+Token: ' descriptive' (ID: 52844), Prob: 0.0001
+Token: ' intros' (ID: 25528), Prob: 0.0001
+Token: ' clich' (ID: 62592), Prob: 0.0001
+Token: ' abstract' (ID: 8115), Prob: 0.0001
+Token: ' sad' (ID: 12421), Prob: 0.0001
+Token: ' longing' (ID: 78322), Prob: 0.0001
+Token: ' fierce' (ID: 41342), Prob: 0.0001
+Token: ' impactful' (ID: 97890), Prob: 0.0001
+Token: ' unexpected' (ID: 16500), Prob: 0.0001
+Token: ' direct' (ID: 2118), Prob: 0.0001
+Token: ' big' (ID: 2409), Prob: 0.0001
+Token: ' concrete' (ID: 14175), Prob: 0.0001
+Token: ' everyday' (ID: 17778), Prob: 0.0001
+Token: ' metaphor' (ID: 45350), Prob: 0.0001
+Token: ' fundamental' (ID: 15811), Prob: 0.0001
+Token: ' expressing' (ID: 36710), Prob: 0.0001
+Token: ' wide' (ID: 6884), Prob: 0.0001
+Token: ' shy' (ID: 32294), Prob: 0.0001
+Token: ' heart' (ID: 4746), Prob: 0.0001
+Token: ' expressive' (ID: 77123), Prob: 0.0001
+Token: ' physical' (ID: 6961), Prob: 0.0001
+Token: ' genuine' (ID: 22011), Prob: 0.0000
+Token: ' intrinsic' (ID: 46601), Prob: 0.0000
+Token: ' universally' (ID: 60428), Prob: 0.0000
+Token: ' mundane' (ID: 68682), Prob: 0.0000
+Token: ' similar' (ID: 4428), Prob: 0.0000
+Token: ' relating' (ID: 22527), Prob: 0.0000
+Token: ' poignant' (ID: 92347), Prob: 0.0000
+Token: ' close' (ID: 3265), Prob: 0.0000
+Token: ' casual' (ID: 16334), Prob: 0.0000
+Token: ' instinct' (ID: 30555), Prob: 0.0000
+Token: ' almost' (ID: 4558), Prob: 0.0000
+Token: ' complex' (ID: 6351), Prob: 0.0000
+Token: ' literal' (ID: 23141), Prob: 0.0000
+Token: ' innocent' (ID: 24243), Prob: 0.0000
+Token: ' around' (ID: 2163), Prob: 0.0000
+Token: ' along' (ID: 3156), Prob: 0.0000
+Token: ' traumatic' (ID: 53186), Prob: 0.0000
+Token: ' absolute' (ID: 10740), Prob: 0.0000
+Token: ' akin' (ID: 51907), Prob: 0.0000
+Token: ' timeless' (ID: 57005), Prob: 0.0000
+
+== Ranked Concepts (Clusters) ==
+Rank 1 | Centroid: ' akin' | Score: 0.8906
+  Tokens: [' like', ' similar', ' akin']
+Rank 2 | Centroid: ' intense' | Score: 0.0157
+  Tokens: [' intense', ' profound', ' urgent', ' powerful', ' fierce']
+Rank 3 | Centroid: ' concrete' | Score: 0.0075
+  Tokens: [' personal', ' specific', ' concrete', ' physical']
+Rank 4 | Centroid: ' universal' | Score: 0.0069
+  Tokens: [' universal', ' general', ' generic', ' universally']
+Rank 5 | Centroid: ' broad' | Score: 0.0055
+  Tokens: [' strong', ' deep', ' grand', ' bold', ' broad', ' big', ' wide']
+Rank 6 | Centroid: ' vivid' | Score: 0.0023
+  Tokens: [' vivid', ' dramatic']
+Rank 7 | Centroid: ' basic' | Score: 0.0019
+  Tokens: [' simple', ' basic', ' common', ' straightforward', ' fundamental']
+Rank 8 | Centroid: ' romantic' | Score: 0.0016
+  Tokens: [' poetic', ' nostalgic', ' emotional', ' romantic', ' descriptive', ' clich', ' metaphor', ' traumatic']
+Rank 9 | Centroid: ' relating' | Score: 0.0015
+  Tokens: [' rel', ' related', ' relating']
+Rank 10 | Centroid: ' raw' | Score: 0.0013
+  Tokens: [' raw']
+Rank 11 | Centroid: ' immediate' | Score: 0.0013
+  Tokens: [' immediate', ' initial', ' direct']
+Rank 12 | Centroid: ' sincere' | Score: 0.0013
+  Tokens: [' heartfelt', ' sincere', ' genuine']
+Rank 13 | Centroid: ' intros' | Score: 0.0011
+  Tokens: [' intimate', ' visceral', ' intros']
+Rank 14 | Centroid: ' natural' | Score: 0.0006
+  Tokens: [' natural', ' positive']
+Rank 15 | Centroid: ' vague' | Score: 0.0005
+  Tokens: [' vague']
+Rank 16 | Centroid: ' poignant' | Score: 0.0004
+  Tokens: [' passionate', ' impactful', ' poignant']
+Rank 17 | Centroid: ' instinct' | Score: 0.0004
+  Tokens: [' primal', ' intrinsic', ' instinct', ' literal']
+Rank 18 | Centroid: ' warm' | Score: 0.0003
+  Tokens: [' warm', ' soft']
+Rank 19 | Centroid: ' expressive' | Score: 0.0003
+  Tokens: [' existential', ' expressing', ' expressive']
+Rank 20 | Centroid: ' vulnerable' | Score: 0.0002
+  Tokens: [' vulnerable', ' unexpected']
+Rank 21 | Centroid: ' familiar' | Score: 0.0002
+  Tokens: [' familiar']
+Rank 22 | Centroid: ' overwhelming' | Score: 0.0002
+  Tokens: [' overwhelming']
+Rank 23 | Centroid: ' mundane' | Score: 0.0002
+  Tokens: [' everyday', ' mundane', ' casual']
+Rank 24 | Centroid: ' sad' | Score: 0.0001
+  Tokens: [' sad', ' shy']
+Rank 25 | Centroid: ' around' | Score: 0.0001
+  Tokens: [' close', ' almost', ' around', ' along']
+Rank 26 | Centroid: ' abstract' | Score: 0.0001
+  Tokens: [' abstract']
+Rank 27 | Centroid: ' longing' | Score: 0.0001
+  Tokens: [' longing']
+Rank 28 | Centroid: ' innocent' | Score: 0.0001
+  Tokens: [' innocent', ' timeless']
+Rank 29 | Centroid: ' heart' | Score: 0.0001
+  Tokens: [' heart']
+Rank 30 | Centroid: ' complex' | Score: 0.0000
+  Tokens: [' complex']
+Rank 31 | Centroid: ' absolute' | Score: 0.0000
+  Tokens: [' absolute']
+
+**Chosen Concept:** Rank 1

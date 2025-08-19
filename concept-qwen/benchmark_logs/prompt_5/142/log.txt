@@ -1,66 +1,110 @@
 --- Step 142 Log ---
 
 == Filtered Candidates ==
-Token: ' Therefore' (ID: 15277), Prob: 0.2754
-Token: ' Wait' (ID: 13824), Prob: 0.0272
-Token: ' However' (ID: 4354), Prob: 0.0199
-Token: ' Thus' (ID: 14301), Prob: 0.0114
-Token: ' Additionally' (ID: 22406), Prob: 0.0107
-Token: ' Hence' (ID: 31040), Prob: 0.0089
-Token: ' Finally' (ID: 17375), Prob: 0.0078
-Token: ' Also' (ID: 7281), Prob: 0.0054
-Token: ' Let' (ID: 6771), Prob: 0.0050
-Token: ' According' (ID: 10548), Prob: 0.0047
-Token: ' Please' (ID: 5209), Prob: 0.0042
-Token: ' Based' (ID: 20205), Prob: 0.0029
-Token: ' Since' (ID: 8704), Prob: 0.0020
-Token: ' Hmm' (ID: 88190), Prob: 0.0016
-Token: ' Answer' (ID: 21806), Prob: 0.0015
-Token: ' Given' (ID: 16246), Prob: 0.0011
-Token: ' Determine' (ID: 29901), Prob: 0.0010
-Token: ' Time' (ID: 4120), Prob: 0.0009
-Token: ' Still' (ID: 16377), Prob: 0.0009
-Token: ' Furthermore' (ID: 23405), Prob: 0.0008
-Token: ' One' (ID: 3776), Prob: 0.0006
-Token: ' Due' (ID: 23662), Prob: 0.0006
-Token: ' Similarly' (ID: 34239), Prob: 0.0005
-Token: ' Question' (ID: 15846), Prob: 0.0005
-Token: ' Explain' (ID: 81917), Prob: 0.0004
-Token: ' Yes' (ID: 7414), Prob: 0.0004
-Token: ' Correct' (ID: 39970), Prob: 0.0004
-Token: ' Assume' (ID: 62197), Prob: 0.0004
-Token: ' Eventually' (ID: 37174), Prob: 0.0004
+Token: ' make' (ID: 1281), Prob: 1.0000
+Token: ' making' (ID: 3259), Prob: 0.0000
+Token: ' makes' (ID: 3643), Prob: 0.0000
+Token: ' made' (ID: 1865), Prob: 0.0000
+Token: 'make' (ID: 6927), Prob: 0.0000
+Token: ' also' (ID: 1083), Prob: 0.0000
+Token: ' Make' (ID: 7405), Prob: 0.0000
+Token: ' take' (ID: 1896), Prob: 0.0000
+Token: ' mak' (ID: 50916), Prob: 0.0000
+Token: ' seem' (ID: 2803), Prob: 0.0000
+Token: '.make' (ID: 10117), Prob: 0.0000
+Token: '(make' (ID: 36944), Prob: 0.0000
+Token: ' maken' (ID: 54056), Prob: 0.0000
+Token: ' mean' (ID: 3076), Prob: 0.0000
+Token: ' still' (ID: 2058), Prob: 0.0000
+Token: ' please' (ID: 4486), Prob: 0.0000
+Token: '	make' (ID: 77438), Prob: 0.0000
+Token: ' need' (ID: 1184), Prob: 0.0000
+Token: ' match' (ID: 2432), Prob: 0.0000
+Token: ' definitely' (ID: 8491), Prob: 0.0000
+Token: ' look' (ID: 1401), Prob: 0.0000
+Token: ' work' (ID: 975), Prob: 0.0000
+Token: ' probably' (ID: 4658), Prob: 0.0000
+Token: ' sense' (ID: 5530), Prob: 0.0000
+Token: ' read' (ID: 1349), Prob: 0.0000
+Token: ' include' (ID: 2924), Prob: 0.0000
+Token: 'Make' (ID: 8078), Prob: 0.0000
+Token: ' likely' (ID: 4363), Prob: 0.0000
+Token: ' require' (ID: 1373), Prob: 0.0000
+Token: ' MAKE' (ID: 36821), Prob: 0.0000
+Token: ' give' (ID: 2968), Prob: 0.0000
+Token: ' accept' (ID: 4193), Prob: 0.0000
+Token: '_make' (ID: 28230), Prob: 0.0000
+Token: ' say' (ID: 1977), Prob: 0.0000
+Token: ' use' (ID: 990), Prob: 0.0000
+Token: ' math' (ID: 6888), Prob: 0.0000
+Token: ' always' (ID: 2677), Prob: 0.0000
+Token: ' mostly' (ID: 10008), Prob: 0.0000
+Token: ' logically' (ID: 73045), Prob: 0.0000
+Token: ' sound' (ID: 5112), Prob: 0.0000
+Token: ' see' (ID: 1490), Prob: 0.0000
+Token: ' communicate' (ID: 19032), Prob: 0.0000
+Token: ' become' (ID: 3635), Prob: 0.0000
+Token: ' like' (ID: 1075), Prob: 0.0000
+Token: ' come' (ID: 2525), Prob: 0.0000
+Token: ' ask' (ID: 2548), Prob: 0.0000
+Token: ' consider' (ID: 2908), Prob: 0.0000
+Token: ' appear' (ID: 4994), Prob: 0.0000
+Token: ' meet' (ID: 3367), Prob: 0.0000
+Token: ' contain' (ID: 6644), Prob: 0.0000
+Token: ' assume' (ID: 9658), Prob: 0.0000
+Token: ' clearly' (ID: 9355), Prob: 0.0000
+Token: ' somehow' (ID: 16925), Prob: 0.0000
+Token: ' correctly' (ID: 12440), Prob: 0.0000
+Token: ' form' (ID: 1352), Prob: 0.0000
+Token: ' consist' (ID: 6685), Prob: 0.0000
+Token: ' indicate' (ID: 13216), Prob: 0.0000
+Token: ' would' (ID: 1035), Prob: 0.0000
+Token: ' satisfy' (ID: 26553), Prob: 0.0000
+Token: '-make' (ID: 94219), Prob: 0.0000
+Token: ' feel' (ID: 2666), Prob: 0.0000
+Token: ' cause' (ID: 5240), Prob: 0.0000
+Token: ' indeed' (ID: 12824), Prob: 0.0000
+Token: ' mainly' (ID: 14576), Prob: 0.0000
+Token: ' end' (ID: 835), Prob: 0.0000
 
 == Ranked Concepts (Clusters) ==
-Rank 1 | Concept Score: 0.2949
-  Tokens: [' Therefore', ' Thus', ' Hence']
-Rank 2 | Concept Score: 0.0374
-  Tokens: [' However', ' Additionally', ' Also', ' Furthermore', ' Similarly']
-Rank 3 | Concept Score: 0.0272
-  Tokens: [' Wait']
-Rank 4 | Concept Score: 0.0082
-  Tokens: [' Finally', ' Eventually']
-Rank 5 | Concept Score: 0.0076
-  Tokens: [' According', ' Based']
-Rank 6 | Concept Score: 0.0050
-  Tokens: [' Let']
-Rank 7 | Concept Score: 0.0042
-  Tokens: [' Please']
-Rank 8 | Concept Score: 0.0037
-  Tokens: [' Since', ' Given', ' Due']
-Rank 9 | Concept Score: 0.0021
-  Tokens: [' Hmm', ' Yes']
-Rank 10 | Concept Score: 0.0020
-  Tokens: [' Answer', ' Question']
-Rank 11 | Concept Score: 0.0018
-  Tokens: [' Determine', ' Explain', ' Assume']
-Rank 12 | Concept Score: 0.0009
-  Tokens: [' Still']
-Rank 13 | Concept Score: 0.0009
-  Tokens: [' Time']
-Rank 14 | Concept Score: 0.0006
-  Tokens: [' One']
-Rank 15 | Concept Score: 0.0004
-  Tokens: [' Correct']
+Rank 1 | Centroid: ' make' | Score: 1.0000
+  Tokens: [' make', ' making', ' makes', ' made', 'make', ' Make', ' mak', '.make', '(make', ' maken', '\tmake', 'Make', ' MAKE', '_make', '-make']
+Rank 2 | Centroid: ' definitely' | Score: 0.0000
+  Tokens: [' also', ' still', ' definitely', ' always', ' indeed']
+Rank 3 | Centroid: ' consider' | Score: 0.0000
+  Tokens: [' take', ' look', ' say', ' see', ' ask', ' consider', ' assume']
+Rank 4 | Centroid: ' seem' | Score: 0.0000
+  Tokens: [' seem', ' appear']
+Rank 5 | Centroid: ' mean' | Score: 0.0000
+  Tokens: [' mean']
+Rank 6 | Centroid: ' please' | Score: 0.0000
+  Tokens: [' please']
+Rank 7 | Centroid: ' need' | Score: 0.0000
+  Tokens: [' need', ' require', ' use']
+Rank 8 | Centroid: ' satisfy' | Score: 0.0000
+  Tokens: [' match', ' meet', ' satisfy']
+Rank 9 | Centroid: ' probably' | Score: 0.0000
+  Tokens: [' probably', ' likely']
+Rank 10 | Centroid: ' feel' | Score: 0.0000
+  Tokens: [' sense', ' sound', ' feel']
+Rank 11 | Centroid: ' would' | Score: 0.0000
+  Tokens: [' read', ' like', ' would', ' end']
+Rank 12 | Centroid: ' contain' | Score: 0.0000
+  Tokens: [' include', ' contain', ' consist', ' indicate']
+Rank 13 | Centroid: ' cause' | Score: 0.0000
+  Tokens: [' work', ' form', ' cause']
+Rank 14 | Centroid: ' become' | Score: 0.0000
+  Tokens: [' give', ' become', ' come']
+Rank 15 | Centroid: ' clearly' | Score: 0.0000
+  Tokens: [' logically', ' clearly', ' somehow', ' correctly']
+Rank 16 | Centroid: ' accept' | Score: 0.0000
+  Tokens: [' accept']
+Rank 17 | Centroid: ' mostly' | Score: 0.0000
+  Tokens: [' mostly', ' mainly']
+Rank 18 | Centroid: ' math' | Score: 0.0000
+  Tokens: [' math']
+Rank 19 | Centroid: ' communicate' | Score: 0.0000
+  Tokens: [' communicate']
 
-**Chosen Concept:** Rank 1 with score 0.2949
+**Chosen Concept:** Rank 1

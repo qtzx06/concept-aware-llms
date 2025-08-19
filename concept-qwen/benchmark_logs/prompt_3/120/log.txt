@@ -1,80 +1,89 @@
 --- Step 120 Log ---
 
 == Filtered Candidates ==
-Token: ' Assume' (ID: 62197), Prob: 0.9609
-Token: ' Assuming' (ID: 63964), Prob: 0.0078
-Token: ' Let' (ID: 6771), Prob: 0.0035
-Token: ' Ass' (ID: 2688), Prob: 0.0007
-Token: ' Suppose' (ID: 82610), Prob: 0.0006
-Token: ' Based' (ID: 20205), Prob: 0.0006
-Token: ' Imagine' (ID: 37791), Prob: 0.0004
-Token: ' Keep' (ID: 13655), Prob: 0.0003
-Token: ' Answer' (ID: 21806), Prob: 0.0003
-Token: ' assume' (ID: 9658), Prob: 0.0003
-Token: ' Maybe' (ID: 10696), Prob: 0.0003
-Token: ' Also' (ID: 7281), Prob: 0.0002
-Token: ' Use' (ID: 5443), Prob: 0.0001
-Token: ' Adjust' (ID: 27196), Prob: 0.0001
-Token: ' Please' (ID: 5209), Prob: 0.0001
-Token: ' Wait' (ID: 13824), Prob: 0.0001
-Token: ' Ask' (ID: 20437), Prob: 0.0001
-Token: ' Make' (ID: 7405), Prob: 0.0001
-Token: ' According' (ID: 10548), Prob: 0.0001
-Token: ' Explain' (ID: 81917), Prob: 0.0001
-Token: ' Hmm' (ID: 88190), Prob: 0.0001
-Token: ' Think' (ID: 21149), Prob: 0.0001
-Token: ' Ensure' (ID: 29279), Prob: 0.0000
-Token: 'Ass' (ID: 5615), Prob: 0.0000
-Token: ' Yes' (ID: 7414), Prob: 0.0000
-Token: ' Buy' (ID: 11292), Prob: 0.0000
-Token: ' Choose' (ID: 22201), Prob: 0.0000
-Token: ' Analy' (ID: 37427), Prob: 0.0000
-Token: ' Take' (ID: 11778), Prob: 0.0000
-Token: ' Therefore' (ID: 15277), Prob: 0.0000
-Token: ' Apply' (ID: 20552), Prob: 0.0000
-Token: ' Say' (ID: 24917), Prob: 0.0000
-Token: ' Finally' (ID: 17375), Prob: 0.0000
-Token: ' Continue' (ID: 15003), Prob: 0.0000
-Token: ' Assign' (ID: 31639), Prob: 0.0000
-Token: ' However' (ID: 4354), Prob: 0.0000
-Token: ' Since' (ID: 8704), Prob: 0.0000
-Token: ' Consider' (ID: 21144), Prob: 0.0000
-Token: ' Discuss' (ID: 65279), Prob: 0.0000
-Token: ' Assess' (ID: 81835), Prob: 0.0000
-Token: ' Note' (ID: 7036), Prob: 0.0000
+Token: ' child' (ID: 1682), Prob: 1.0000
+Token: ' kid' (ID: 10369), Prob: 0.0001
+Token: '(child' (ID: 17794), Prob: 0.0001
+Token: ' children' (ID: 2841), Prob: 0.0000
+Token: ' parent' (ID: 2681), Prob: 0.0000
+Token: ' family' (ID: 2997), Prob: 0.0000
+Token: ' baby' (ID: 8770), Prob: 0.0000
+Token: ' Child' (ID: 9391), Prob: 0.0000
+Token: ' young' (ID: 3908), Prob: 0.0000
+Token: ' youth' (ID: 12537), Prob: 0.0000
+Token: '	child' (ID: 58391), Prob: 0.0000
+Token: '-child' (ID: 23484), Prob: 0.0000
+Token: '.child' (ID: 17531), Prob: 0.0000
+Token: ' infant' (ID: 30283), Prob: 0.0000
+Token: ' childhood' (ID: 19990), Prob: 0.0000
+Token: ' home' (ID: 2114), Prob: 0.0000
+Token: '_child' (ID: 17268), Prob: 0.0000
+Token: 'child' (ID: 3048), Prob: 0.0000
+Token: ' mother' (ID: 6554), Prob: 0.0000
+Token: ' student' (ID: 5458), Prob: 0.0000
+Token: ' grand' (ID: 6662), Prob: 0.0000
+Token: ' care' (ID: 2453), Prob: 0.0000
+Token: ' adult' (ID: 6683), Prob: 0.0000
+Token: ' toddler' (ID: 51235), Prob: 0.0000
+Token: ' girl' (ID: 3743), Prob: 0.0000
+Token: ' boy' (ID: 8171), Prob: 0.0000
+Token: ' user' (ID: 1196), Prob: 0.0000
+Token: ' one' (ID: 825), Prob: 0.0000
+Token: ' key' (ID: 1376), Prob: 0.0000
+Token: ' cat' (ID: 8251), Prob: 0.0000
+Token: ' CHILD' (ID: 72520), Prob: 0.0000
+Token: ' childcare' (ID: 79171), Prob: 0.0000
+Token: ' teen' (ID: 9378), Prob: 0.0000
+Token: ' daughter' (ID: 9803), Prob: 0.0000
+Token: ' grow' (ID: 3063), Prob: 0.0000
+Token: '[child' (ID: 85483), Prob: 0.0000
+Token: ' check' (ID: 1779), Prob: 0.0000
+Token: ' chapter' (ID: 12453), Prob: 0.0000
+Token: ' old' (ID: 2310), Prob: 0.0000
+Token: ' age' (ID: 4231), Prob: 0.0000
+Token: ' car' (ID: 1803), Prob: 0.0000
+Token: ' change' (ID: 2297), Prob: 0.0000
+Token: 'Child' (ID: 3652), Prob: 0.0000
+Token: ' charge' (ID: 6757), Prob: 0.0000
+Token: ' youngster' (ID: 82271), Prob: 0.0000
+Token: ' sub' (ID: 1186), Prob: 0.0000
+Token: ' future' (ID: 3853), Prob: 0.0000
+Token: ' father' (ID: 6981), Prob: 0.0000
 
 == Ranked Concepts (Clusters) ==
-Rank 1 | Concept Score: 0.9688
-  Tokens: [' Assume', ' Assuming', ' Ass', ' assume', 'Ass']
-Rank 2 | Concept Score: 0.0041
-  Tokens: [' Let', ' Suppose']
-Rank 3 | Concept Score: 0.0007
-  Tokens: [' Based', ' According']
-Rank 4 | Concept Score: 0.0005
-  Tokens: [' Maybe', ' Wait', ' Hmm', ' Yes']
-Rank 5 | Concept Score: 0.0004
-  Tokens: [' Imagine', ' Think', ' Consider']
-Rank 6 | Concept Score: 0.0003
-  Tokens: [' Also', ' Therefore', ' Finally', ' However', ' Since']
-Rank 7 | Concept Score: 0.0003
-  Tokens: [' Keep', ' Continue']
-Rank 8 | Concept Score: 0.0003
-  Tokens: [' Answer']
-Rank 9 | Concept Score: 0.0002
-  Tokens: [' Use', ' Make', ' Choose', ' Apply']
-Rank 10 | Concept Score: 0.0002
-  Tokens: [' Adjust', ' Analy', ' Assign', ' Assess']
-Rank 11 | Concept Score: 0.0002
-  Tokens: [' Ask', ' Buy', ' Say']
-Rank 12 | Concept Score: 0.0001
-  Tokens: [' Explain', ' Discuss']
-Rank 13 | Concept Score: 0.0001
-  Tokens: [' Please']
-Rank 14 | Concept Score: 0.0000
-  Tokens: [' Ensure']
-Rank 15 | Concept Score: 0.0000
-  Tokens: [' Take']
-Rank 16 | Concept Score: 0.0000
-  Tokens: [' Note']
+Rank 1 | Centroid: ' child' | Score: 1.0000
+  Tokens: [' child', '(child', ' children', ' Child', '\tchild', '-child', '.child', '_child', 'child', ' CHILD', '[child', 'Child']
+Rank 2 | Centroid: ' boy' | Score: 0.0001
+  Tokens: [' kid', ' girl', ' boy']
+Rank 3 | Centroid: ' infant' | Score: 0.0000
+  Tokens: [' baby', ' infant', ' adult', ' toddler']
+Rank 4 | Centroid: ' mother' | Score: 0.0000
+  Tokens: [' parent', ' mother', ' daughter', ' father']
+Rank 5 | Centroid: ' family' | Score: 0.0000
+  Tokens: [' family', ' home']
+Rank 6 | Centroid: ' young' | Score: 0.0000
+  Tokens: [' young', ' youth', ' teen', ' youngster']
+Rank 7 | Centroid: ' student' | Score: 0.0000
+  Tokens: [' student', ' user']
+Rank 8 | Centroid: ' childhood' | Score: 0.0000
+  Tokens: [' childhood']
+Rank 9 | Centroid: ' grand' | Score: 0.0000
+  Tokens: [' grand', ' sub']
+Rank 10 | Centroid: ' one' | Score: 0.0000
+  Tokens: [' one', ' key']
+Rank 11 | Centroid: ' care' | Score: 0.0000
+  Tokens: [' care']
+Rank 12 | Centroid: ' cat' | Score: 0.0000
+  Tokens: [' cat', ' car']
+Rank 13 | Centroid: ' grow' | Score: 0.0000
+  Tokens: [' grow', ' future']
+Rank 14 | Centroid: ' old' | Score: 0.0000
+  Tokens: [' old', ' age']
+Rank 15 | Centroid: ' chapter' | Score: 0.0000
+  Tokens: [' chapter', ' charge']
+Rank 16 | Centroid: ' check' | Score: 0.0000
+  Tokens: [' check', ' change']
+Rank 17 | Centroid: ' childcare' | Score: 0.0000
+  Tokens: [' childcare']
 
-**Chosen Concept:** Rank 1 with score 0.9688
+**Chosen Concept:** Rank 1

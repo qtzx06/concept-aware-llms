@@ -1,58 +1,83 @@
 --- Step 28 Log ---
 
 == Filtered Candidates ==
-Token: ' Mars' (ID: 21048), Prob: 0.0001
-Token: ' something' (ID: 2494), Prob: 0.0001
-Token: ' based' (ID: 3118), Prob: 0.0000
-Token: ' due' (ID: 4152), Prob: 0.0000
-Token: ' Earth' (ID: 9237), Prob: 0.0000
-Token: ' NASA' (ID: 21431), Prob: 0.0000
-Token: ' disease' (ID: 8457), Prob: 0.0000
-Token: ' scientists' (ID: 13923), Prob: 0.0000
-Token: ' using' (ID: 1667), Prob: 0.0000
-Token: ' possible' (ID: 3204), Prob: 0.0000
-Token: ' cancer' (ID: 9387), Prob: 0.0000
-Token: ' space' (ID: 3550), Prob: 0.0000
-Token: ' since' (ID: 2474), Prob: 0.0000
-Token: ' two' (ID: 1378), Prob: 0.0000
-Token: ' whether' (ID: 3425), Prob: 0.0000
-Token: ' humans' (ID: 12677), Prob: 0.0000
-Token: ' similar' (ID: 4428), Prob: 0.0000
-Token: ' one' (ID: 825), Prob: 0.0000
-Token: ' first' (ID: 1156), Prob: 0.0000
-Token: ' either' (ID: 2987), Prob: 0.0000
-Token: ' plants' (ID: 10779), Prob: 0.0000
-Token: ' new' (ID: 501), Prob: 0.0000
-Token: ' science' (ID: 8038), Prob: 0.0000
-Token: ' however' (ID: 4764), Prob: 0.0000
-Token: ' damage' (ID: 5557), Prob: 0.0000
-Token: ' initially' (ID: 15102), Prob: 0.0000
-Token: ' DNA' (ID: 15552), Prob: 0.0000
+Token: ' yes' (ID: 9834), Prob: 0.0413
+Token: ' something' (ID: 2494), Prob: 0.0021
+Token: ' maybe' (ID: 7196), Prob: 0.0015
+Token: ' negative' (ID: 8225), Prob: 0.0005
+Token: ' nothing' (ID: 4302), Prob: 0.0005
+Token: ' etc' (ID: 4992), Prob: 0.0002
+Token: ' none' (ID: 6857), Prob: 0.0002
+Token: ' answer' (ID: 4226), Prob: 0.0001
+Token: ' unknown' (ID: 9788), Prob: 0.0001
+Token: ' wait' (ID: 3783), Prob: 0.0001
+Token: ' yeah' (ID: 21639), Prob: 0.0001
+Token: ' false' (ID: 895), Prob: 0.0001
+Token: ' also' (ID: 1083), Prob: 0.0001
+Token: ' definitely' (ID: 8491), Prob: 0.0001
+Token: ' exactly' (ID: 6896), Prob: 0.0001
+Token: ' perhaps' (ID: 8365), Prob: 0.0001
+Token: ' neither' (ID: 13866), Prob: 0.0001
+Token: ' sure' (ID: 2704), Prob: 0.0001
+Token: ' one' (ID: 825), Prob: 0.0001
+Token: ' possible' (ID: 3204), Prob: 0.0001
+Token: ' depends' (ID: 13798), Prob: 0.0001
+Token: ' either' (ID: 2987), Prob: 0.0001
+Token: ' based' (ID: 3118), Prob: 0.0001
+Token: ' another' (ID: 2441), Prob: 0.0001
+Token: ' whether' (ID: 3425), Prob: 0.0001
+Token: ' anything' (ID: 4113), Prob: 0.0001
+Token: ' depending' (ID: 11649), Prob: 0.0001
+Token: ' hello' (ID: 23811), Prob: 0.0001
+Token: ' else' (ID: 770), Prob: 0.0001
+Token: ' without' (ID: 2041), Prob: 0.0001
+Token: ' impossible' (ID: 11997), Prob: 0.0000
+Token: ' please' (ID: 4486), Prob: 0.0000
+Token: ' okay' (ID: 16910), Prob: 0.0000
+Token: ' missing' (ID: 7402), Prob: 0.0000
+Token: ' possibly' (ID: 10767), Prob: 0.0000
+Token: ' correct' (ID: 4396), Prob: 0.0000
+Token: ' otherwise' (ID: 5937), Prob: 0.0000
+Token: ' disagree' (ID: 28295), Prob: 0.0000
+Token: ' even' (ID: 1496), Prob: 0.0000
+Token: ' different' (ID: 2155), Prob: 0.0000
+Token: ' cannot' (ID: 4157), Prob: 0.0000
+Token: ' neg' (ID: 4184), Prob: 0.0000
 
 == Ranked Concepts (Clusters) ==
-Rank 1 | Concept Score: 0.0002
-  Tokens: [' Mars', ' Earth', ' NASA']
-Rank 2 | Concept Score: 0.0001
-  Tokens: [' based', ' due', ' using', ' since']
-Rank 3 | Concept Score: 0.0001
-  Tokens: [' disease', ' cancer', ' damage', ' DNA']
-Rank 4 | Concept Score: 0.0001
-  Tokens: [' something', ' similar']
-Rank 5 | Concept Score: 0.0001
-  Tokens: [' two', ' one', ' new']
-Rank 6 | Concept Score: 0.0000
-  Tokens: [' scientists', ' science']
-Rank 7 | Concept Score: 0.0000
-  Tokens: [' whether', ' either']
-Rank 8 | Concept Score: 0.0000
-  Tokens: [' humans', ' plants']
-Rank 9 | Concept Score: 0.0000
-  Tokens: [' first', ' initially']
-Rank 10 | Concept Score: 0.0000
-  Tokens: [' possible']
-Rank 11 | Concept Score: 0.0000
-  Tokens: [' space']
-Rank 12 | Concept Score: 0.0000
-  Tokens: [' however']
+Rank 1 | Centroid: ' yeah' | Score: 0.0415
+  Tokens: [' yes', ' yeah', ' definitely', ' sure', ' okay']
+Rank 2 | Centroid: ' something' | Score: 0.0026
+  Tokens: [' something', ' nothing', ' anything']
+Rank 3 | Centroid: ' possibly' | Score: 0.0017
+  Tokens: [' maybe', ' perhaps', ' possible', ' possibly']
+Rank 4 | Centroid: ' neg' | Score: 0.0006
+  Tokens: [' negative', ' false', ' neg']
+Rank 5 | Centroid: ' none' | Score: 0.0003
+  Tokens: [' none', ' neither', ' cannot']
+Rank 6 | Centroid: ' hello' | Score: 0.0002
+  Tokens: [' answer', ' hello', ' please']
+Rank 7 | Centroid: ' etc' | Score: 0.0002
+  Tokens: [' etc']
+Rank 8 | Centroid: ' another' | Score: 0.0002
+  Tokens: [' also', ' one', ' another', ' even']
+Rank 9 | Centroid: ' unknown' | Score: 0.0002
+  Tokens: [' unknown', ' impossible', ' missing']
+Rank 10 | Centroid: ' depending' | Score: 0.0002
+  Tokens: [' depends', ' based', ' depending']
+Rank 11 | Centroid: ' either' | Score: 0.0001
+  Tokens: [' either', ' whether']
+Rank 12 | Centroid: ' wait' | Score: 0.0001
+  Tokens: [' wait']
+Rank 13 | Centroid: ' exactly' | Score: 0.0001
+  Tokens: [' exactly', ' different']
+Rank 14 | Centroid: ' else' | Score: 0.0001
+  Tokens: [' else', ' otherwise']
+Rank 15 | Centroid: ' without' | Score: 0.0001
+  Tokens: [' without']
+Rank 16 | Centroid: ' correct' | Score: 0.0000
+  Tokens: [' correct']
+Rank 17 | Centroid: ' disagree' | Score: 0.0000
+  Tokens: [' disagree']
 
-**Chosen Concept:** Rank 1 with score 0.0002
+**Chosen Concept:** Rank 1

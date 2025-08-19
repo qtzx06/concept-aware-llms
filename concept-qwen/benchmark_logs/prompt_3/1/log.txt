@@ -1,47 +1,45 @@
 --- Step 1 Log ---
 
 == Filtered Candidates ==
-Token: ' Let' (ID: 6771), Prob: 0.0203
-Token: ' Please' (ID: 5209), Prob: 0.0123
-Token: ' Instead' (ID: 12090), Prob: 0.0055
-Token: ' However' (ID: 4354), Prob: 0.0051
-Token: ' Therefore' (ID: 15277), Prob: 0.0051
-Token: ' Since' (ID: 8704), Prob: 0.0035
-Token: ' Maybe' (ID: 10696), Prob: 0.0035
-Token: ' Explain' (ID: 81917), Prob: 0.0024
-Token: ' Rather' (ID: 25764), Prob: 0.0017
-Token: ' Perhaps' (ID: 18765), Prob: 0.0015
-Token: ' Give' (ID: 20678), Prob: 0.0014
-Token: ' Today' (ID: 11201), Prob: 0.0013
-Token: ' Trade' (ID: 17214), Prob: 0.0012
-Token: ' Would' (ID: 18885), Prob: 0.0011
-Token: ' Based' (ID: 20205), Prob: 0.0011
-Token: ' One' (ID: 3776), Prob: 0.0011
-Token: ' instead' (ID: 4518), Prob: 0.0011
-Token: ' let' (ID: 1077), Prob: 0.0010
+Token: 'Let' (ID: 10061), Prob: 0.0199
+Token: 'Answer' (ID: 16141), Prob: 0.0146
+Token: ' Let' (ID: 6771), Prob: 0.0045
+Token: ' Please' (ID: 5209), Prob: 0.0031
+Token: ' Based' (ID: 20205), Prob: 0.0027
+Token: 'Based' (ID: 28715), Prob: 0.0027
+Token: 'Yes' (ID: 9454), Prob: 0.0025
+Token: 'Please' (ID: 5501), Prob: 0.0024
+Token: 'Okay' (ID: 32313), Prob: 0.0019
+Token: ' Answer' (ID: 21806), Prob: 0.0014
+Token: 'Every' (ID: 11510), Prob: 0.0014
+Token: 'Maybe' (ID: 21390), Prob: 0.0014
+Token: 'Word' (ID: 10879), Prob: 0.0012
+Token: 'Since' (ID: 12549), Prob: 0.0012
+Token: 'Therefore' (ID: 54815), Prob: 0.0012
+Token: ' Question' (ID: 15846), Prob: 0.0011
 
 == Ranked Concepts (Clusters) ==
-Rank 1 | Concept Score: 0.0212
-  Tokens: [' Let', ' let']
-Rank 2 | Concept Score: 0.0147
-  Tokens: [' Please', ' Explain']
-Rank 3 | Concept Score: 0.0138
-  Tokens: [' However', ' Therefore', ' Since']
-Rank 4 | Concept Score: 0.0082
-  Tokens: [' Instead', ' Rather', ' instead']
-Rank 5 | Concept Score: 0.0050
-  Tokens: [' Maybe', ' Perhaps']
-Rank 6 | Concept Score: 0.0014
-  Tokens: [' Give']
-Rank 7 | Concept Score: 0.0013
-  Tokens: [' Today']
-Rank 8 | Concept Score: 0.0012
-  Tokens: [' Trade']
-Rank 9 | Concept Score: 0.0011
-  Tokens: [' Would']
-Rank 10 | Concept Score: 0.0011
-  Tokens: [' Based']
-Rank 11 | Concept Score: 0.0011
-  Tokens: [' One']
+Rank 1 | Centroid: 'Let' | Score: 0.0244
+  Tokens: ['Let', ' Let']
+Rank 2 | Centroid: 'Answer' | Score: 0.0160
+  Tokens: ['Answer', ' Answer']
+Rank 3 | Centroid: ' Please' | Score: 0.0054
+  Tokens: [' Please', 'Please']
+Rank 4 | Centroid: ' Based' | Score: 0.0054
+  Tokens: [' Based', 'Based']
+Rank 5 | Centroid: 'Yes' | Score: 0.0025
+  Tokens: ['Yes']
+Rank 6 | Centroid: 'Since' | Score: 0.0024
+  Tokens: ['Since', 'Therefore']
+Rank 7 | Centroid: 'Okay' | Score: 0.0019
+  Tokens: ['Okay']
+Rank 8 | Centroid: 'Every' | Score: 0.0014
+  Tokens: ['Every']
+Rank 9 | Centroid: 'Maybe' | Score: 0.0014
+  Tokens: ['Maybe']
+Rank 10 | Centroid: 'Word' | Score: 0.0012
+  Tokens: ['Word']
+Rank 11 | Centroid: ' Question' | Score: 0.0011
+  Tokens: [' Question']
 
-**Chosen Concept:** Rank 1 with score 0.0212
+**Chosen Concept:** Rank 1

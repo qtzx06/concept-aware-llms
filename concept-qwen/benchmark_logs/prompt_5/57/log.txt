@@ -1,120 +1,80 @@
 --- Step 57 Log ---
 
 == Filtered Candidates ==
-Token: ' must' (ID: 1969), Prob: 0.5508
-Token: ' cannot' (ID: 4157), Prob: 0.0243
-Token: ' needs' (ID: 3880), Prob: 0.0167
-Token: ' wants' (ID: 6801), Prob: 0.0130
-Token: ' may' (ID: 1231), Prob: 0.0070
-Token: ' arrives' (ID: 29682), Prob: 0.0035
-Token: ' also' (ID: 1083), Prob: 0.0033
-Token: ' receives' (ID: 21189), Prob: 0.0026
-Token: ' uses' (ID: 5711), Prob: 0.0024
-Token: ' knows' (ID: 8788), Prob: 0.0024
-Token: ' could' (ID: 1410), Prob: 0.0023
-Token: ' wishes' (ID: 24240), Prob: 0.0014
-Token: ' always' (ID: 2677), Prob: 0.0013
-Token: ' consumes' (ID: 59506), Prob: 0.0013
-Token: ' requires' (ID: 7460), Prob: 0.0012
-Token: ' would' (ID: 1035), Prob: 0.0011
-Token: ' decides' (ID: 27627), Prob: 0.0011
-Token: ' walks' (ID: 22479), Prob: 0.0010
-Token: ' might' (ID: 2578), Prob: 0.0009
-Token: ' travels' (ID: 34192), Prob: 0.0009
-Token: ' never' (ID: 2581), Prob: 0.0008
-Token: ' takes' (ID: 4990), Prob: 0.0008
-Token: ' chooses' (ID: 39911), Prob: 0.0008
-Token: ' leaves' (ID: 10901), Prob: 0.0007
-Token: ' starts' (ID: 8471), Prob: 0.0007
-Token: ' encounters' (ID: 33906), Prob: 0.0007
-Token: ' plans' (ID: 6649), Prob: 0.0006
-Token: ' begins' (ID: 12033), Prob: 0.0006
-Token: ' flies' (ID: 37104), Prob: 0.0006
-Token: ' discovers' (ID: 51014), Prob: 0.0006
-Token: ' meets' (ID: 20027), Prob: 0.0006
-Token: ' faces' (ID: 12300), Prob: 0.0006
-Token: ' finds' (ID: 13719), Prob: 0.0005
-Token: ' carries' (ID: 23377), Prob: 0.0005
-Token: ' believes' (ID: 13605), Prob: 0.0004
-Token: ' refuses' (ID: 40616), Prob: 0.0004
-Token: ' returns' (ID: 4675), Prob: 0.0004
-Token: ' experiences' (ID: 11449), Prob: 0.0004
-Token: ' pays' (ID: 21241), Prob: 0.0004
-Token: ' notices' (ID: 34771), Prob: 0.0004
-Token: ' makes' (ID: 3643), Prob: 0.0003
-Token: ' spends' (ID: 37102), Prob: 0.0003
-Token: ' earns' (ID: 63759), Prob: 0.0003
-Token: ' enters' (ID: 28833), Prob: 0.0003
-Token: ' wears' (ID: 37300), Prob: 0.0003
-Token: ' eats' (ID: 49677), Prob: 0.0003
-Token: ' realizes' (ID: 51594), Prob: 0.0003
-Token: ' feels' (ID: 11074), Prob: 0.0003
-Token: ' gains' (ID: 19619), Prob: 0.0003
-Token: ' enjoys' (ID: 31738), Prob: 0.0003
-Token: ' loses' (ID: 32191), Prob: 0.0003
-Token: ' intends' (ID: 43230), Prob: 0.0003
-Token: ' observes' (ID: 80199), Prob: 0.0003
-Token: ' gets' (ID: 5221), Prob: 0.0002
-Token: ' remains' (ID: 8458), Prob: 0.0002
-Token: ' sees' (ID: 15634), Prob: 0.0002
-Token: ' wakes' (ID: 61567), Prob: 0.0002
-Token: ' attempts' (ID: 13553), Prob: 0.0002
-Token: ' desires' (ID: 30997), Prob: 0.0002
-Token: ' hears' (ID: 52059), Prob: 0.0002
-Token: ' prefers' (ID: 53964), Prob: 0.0002
-Token: ' appears' (ID: 7952), Prob: 0.0002
-Token: ' already' (ID: 2669), Prob: 0.0002
-Token: ' lives' (ID: 6305), Prob: 0.0002
-Token: ' holds' (ID: 9982), Prob: 0.0002
-Token: ' drinks' (ID: 20987), Prob: 0.0002
-Token: ' owns' (ID: 24256), Prob: 0.0002
-Token: ' still' (ID: 2058), Prob: 0.0002
-Token: ' comes' (ID: 4041), Prob: 0.0002
-Token: ' follows' (ID: 11017), Prob: 0.0002
-Token: ' learns' (ID: 46210), Prob: 0.0002
-Token: ' allows' (ID: 6147), Prob: 0.0002
-Token: ' asks' (ID: 17064), Prob: 0.0002
-Token: ' maintains' (ID: 31995), Prob: 0.0002
-Token: ' burns' (ID: 43054), Prob: 0.0002
-Token: ' continues' (ID: 9539), Prob: 0.0001
-Token: ' controls' (ID: 11574), Prob: 0.0001
+Token: ' would' (ID: 1035), Prob: 1.0000
+Token: ' makes' (ID: 3643), Prob: 0.0007
+Token: ' made' (ID: 1865), Prob: 0.0000
+Token: ' could' (ID: 1410), Prob: 0.0000
+Token: ' might' (ID: 2578), Prob: 0.0000
+Token: ' seems' (ID: 4977), Prob: 0.0000
+Token: ' Would' (ID: 18885), Prob: 0.0000
+Token: ' also' (ID: 1083), Prob: 0.0000
+Token: ' may' (ID: 1231), Prob: 0.0000
+Token: ' making' (ID: 3259), Prob: 0.0000
+Token: ' must' (ID: 1969), Prob: 0.0000
+Token: ' make' (ID: 1281), Prob: 0.0000
+Token: 'would' (ID: 40350), Prob: 0.0000
+Token: ' works' (ID: 4278), Prob: 0.0000
+Token: ' assumes' (ID: 21484), Prob: 0.0000
+Token: ' technically' (ID: 31554), Prob: 0.0000
+Token: ' still' (ID: 2058), Prob: 0.0000
+Token: ' logically' (ID: 73045), Prob: 0.0000
+Token: ' shows' (ID: 4933), Prob: 0.0000
+Token: ' ends' (ID: 10335), Prob: 0.0000
+Token: ' within' (ID: 2878), Prob: 0.0000
+Token: ' based' (ID: 3118), Prob: 0.0000
+Token: ' würde' (ID: 58881), Prob: 0.0000
+Token: ' includes' (ID: 5646), Prob: 0.0000
+Token: ' matches' (ID: 9071), Prob: 0.0000
+Token: ' takes' (ID: 4990), Prob: 0.0000
+Token: ' contains' (ID: 5610), Prob: 0.0000
+Token: ' contrad' (ID: 22296), Prob: 0.0000
+Token: ' cannot' (ID: 4157), Prob: 0.0000
+Token: ' sounds' (ID: 10362), Prob: 0.0000
+Token: ' though' (ID: 3498), Prob: 0.0000
+Token: ' math' (ID: 6888), Prob: 0.0000
+Token: ' corresponds' (ID: 33210), Prob: 0.0000
+Token: 'Would' (ID: 27989), Prob: 0.0000
+Token: ' meets' (ID: 20027), Prob: 0.0000
+Token: ' relates' (ID: 35616), Prob: 0.0000
+Token: ' reads' (ID: 15804), Prob: 0.0000
+Token: ' says' (ID: 2727), Prob: 0.0000
+Token: ' needs' (ID: 3880), Prob: 0.0000
+Token: ' otherwise' (ID: 5937), Prob: 0.0000
+Token: ' modifies' (ID: 82949), Prob: 0.0000
 
 == Ranked Concepts (Clusters) ==
-Rank 1 | Concept Score: 0.5859
-  Tokens: [' must', ' cannot', ' may', ' could', ' would', ' might']
-Rank 2 | Concept Score: 0.0204
-  Tokens: [' needs', ' uses', ' requires']
-Rank 3 | Concept Score: 0.0148
-  Tokens: [' wants', ' wishes', ' intends', ' desires']
-Rank 4 | Concept Score: 0.0057
-  Tokens: [' also', ' always', ' never', ' already', ' still']
-Rank 5 | Concept Score: 0.0057
-  Tokens: [' arrives', ' starts', ' begins', ' returns', ' enters', ' comes']
-Rank 6 | Concept Score: 0.0055
-  Tokens: [' knows', ' decides', ' chooses', ' believes', ' refuses', ' prefers', ' owns']
-Rank 7 | Concept Score: 0.0033
-  Tokens: [' receives', ' gains', ' loses', ' gets']
-Rank 8 | Concept Score: 0.0029
-  Tokens: [' consumes', ' pays', ' spends', ' earns', ' wears', ' eats']
-Rank 9 | Concept Score: 0.0027
-  Tokens: [' discovers', ' finds', ' notices', ' realizes', ' observes', ' sees', ' hears', ' learns']
-Rank 10 | Concept Score: 0.0022
-  Tokens: [' takes', ' meets', ' makes', ' appears', ' follows', ' allows']
-Rank 11 | Concept Score: 0.0020
-  Tokens: [' walks', ' faces', ' wakes', ' lives']
-Rank 12 | Concept Score: 0.0019
-  Tokens: [' travels', ' flies', ' drinks', ' burns']
-Rank 13 | Concept Score: 0.0012
-  Tokens: [' carries', ' remains', ' holds', ' maintains', ' continues']
-Rank 14 | Concept Score: 0.0011
-  Tokens: [' encounters', ' experiences']
-Rank 15 | Concept Score: 0.0010
-  Tokens: [' plans', ' attempts', ' controls']
-Rank 16 | Concept Score: 0.0007
-  Tokens: [' leaves']
-Rank 17 | Concept Score: 0.0005
-  Tokens: [' feels', ' enjoys']
-Rank 18 | Concept Score: 0.0002
-  Tokens: [' asks']
+Rank 1 | Centroid: ' Would' | Score: 1.0000
+  Tokens: [' would', ' Would', 'would', ' würde', 'Would']
+Rank 2 | Centroid: ' make' | Score: 0.0008
+  Tokens: [' makes', ' made', ' making', ' make']
+Rank 3 | Centroid: ' may' | Score: 0.0000
+  Tokens: [' could', ' might', ' may', ' must', ' cannot']
+Rank 4 | Centroid: ' seems' | Score: 0.0000
+  Tokens: [' seems']
+Rank 5 | Centroid: ' also' | Score: 0.0000
+  Tokens: [' also', ' still']
+Rank 6 | Centroid: ' logically' | Score: 0.0000
+  Tokens: [' technically', ' logically', ' math']
+Rank 7 | Centroid: ' corresponds' | Score: 0.0000
+  Tokens: [' assumes', ' corresponds', ' relates', ' modifies']
+Rank 8 | Centroid: ' says' | Score: 0.0000
+  Tokens: [' shows', ' takes', ' reads', ' says']
+Rank 9 | Centroid: ' works' | Score: 0.0000
+  Tokens: [' works']
+Rank 10 | Centroid: ' within' | Score: 0.0000
+  Tokens: [' within', ' based', ' though']
+Rank 11 | Centroid: ' ends' | Score: 0.0000
+  Tokens: [' ends', ' needs']
+Rank 12 | Centroid: ' includes' | Score: 0.0000
+  Tokens: [' includes', ' contains']
+Rank 13 | Centroid: ' matches' | Score: 0.0000
+  Tokens: [' matches', ' meets']
+Rank 14 | Centroid: ' contrad' | Score: 0.0000
+  Tokens: [' contrad']
+Rank 15 | Centroid: ' sounds' | Score: 0.0000
+  Tokens: [' sounds']
+Rank 16 | Centroid: ' otherwise' | Score: 0.0000
+  Tokens: [' otherwise']
 
-**Chosen Concept:** Rank 1 with score 0.5859
+**Chosen Concept:** Rank 1

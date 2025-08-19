@@ -1,0 +1,139 @@
+--- Step 130 Log ---
+
+== Filtered Candidates ==
+Token: ' sound' (ID: 5112), Prob: 0.7305
+Token: ' forced' (ID: 9575), Prob: 0.0771
+Token: ' seem' (ID: 2803), Prob: 0.0104
+Token: ' complex' (ID: 6351), Prob: 0.0049
+Token: ' complicated' (ID: 16965), Prob: 0.0038
+Token: ' feel' (ID: 2666), Prob: 0.0034
+Token: ' sounds' (ID: 10362), Prob: 0.0023
+Token: ' overly' (ID: 38432), Prob: 0.0023
+Token: ' look' (ID: 1401), Prob: 0.0018
+Token: ' obvious' (ID: 8036), Prob: 0.0009
+Token: ' heavy' (ID: 8811), Prob: 0.0009
+Token: ' confusing' (ID: 30615), Prob: 0.0007
+Token: ' clich' (ID: 62592), Prob: 0.0007
+Token: ' unclear' (ID: 24416), Prob: 0.0006
+Token: ' awkward' (ID: 28759), Prob: 0.0006
+Token: ' personal' (ID: 4345), Prob: 0.0005
+Token: ' fake' (ID: 12418), Prob: 0.0005
+Token: ' cheesy' (ID: 86747), Prob: 0.0004
+Token: ' clear' (ID: 2797), Prob: 0.0003
+Token: ' flow' (ID: 6396), Prob: 0.0003
+Token: ' exaggerated' (ID: 61158), Prob: 0.0003
+Token: ' loud' (ID: 17361), Prob: 0.0002
+Token: ' hard' (ID: 2588), Prob: 0.0002
+Token: ' explicit' (ID: 11464), Prob: 0.0002
+Token: ' overwhelming' (ID: 22024), Prob: 0.0001
+Token: ' trivial' (ID: 35647), Prob: 0.0001
+Token: ' make' (ID: 1281), Prob: 0.0001
+Token: ' predictable' (ID: 44107), Prob: 0.0001
+Token: ' excessive' (ID: 26541), Prob: 0.0001
+Token: ' strange' (ID: 14888), Prob: 0.0001
+Token: ' emotional' (ID: 14269), Prob: 0.0001
+Token: ' stressful' (ID: 45783), Prob: 0.0001
+Token: ' conv' (ID: 5686), Prob: 0.0001
+Token: ' redundant' (ID: 47732), Prob: 0.0001
+Token: ' bulky' (ID: 77821), Prob: 0.0001
+Token: ' jump' (ID: 7784), Prob: 0.0001
+Token: ' sounded' (ID: 34308), Prob: 0.0001
+Token: ' strong' (ID: 3746), Prob: 0.0001
+Token: ' simple' (ID: 4285), Prob: 0.0001
+Token: ' unnecessary' (ID: 25165), Prob: 0.0001
+Token: ' unrealistic' (ID: 70885), Prob: 0.0001
+Token: ' generic' (ID: 13954), Prob: 0.0001
+Token: ' come' (ID: 2525), Prob: 0.0001
+Token: ' worse' (ID: 10960), Prob: 0.0001
+Token: ' hollow' (ID: 41802), Prob: 0.0001
+Token: ' repetitive' (ID: 58077), Prob: 0.0001
+Token: ' messy' (ID: 45846), Prob: 0.0000
+Token: ' sad' (ID: 12421), Prob: 0.0000
+Token: ' rushed' (ID: 32241), Prob: 0.0000
+Token: ' super' (ID: 2256), Prob: 0.0000
+Token: ' force' (ID: 5344), Prob: 0.0000
+Token: ' dramatic' (ID: 21771), Prob: 0.0000
+Token: ' crowded' (ID: 38213), Prob: 0.0000
+Token: ' mean' (ID: 3076), Prob: 0.0000
+Token: ' abstract' (ID: 8115), Prob: 0.0000
+Token: ' scary' (ID: 28465), Prob: 0.0000
+Token: ' intense' (ID: 18894), Prob: 0.0000
+Token: ' vague' (ID: 39046), Prob: 0.0000
+Token: ' superficial' (ID: 58815), Prob: 0.0000
+Token: ' impossible' (ID: 11997), Prob: 0.0000
+Token: ' concrete' (ID: 14175), Prob: 0.0000
+Token: ' funny' (ID: 15173), Prob: 0.0000
+Token: ' artificial' (ID: 20443), Prob: 0.0000
+Token: ' abrupt' (ID: 42977), Prob: 0.0000
+Token: ' sounding' (ID: 48127), Prob: 0.0000
+Token: ' run' (ID: 1598), Prob: 0.0000
+Token: ' bold' (ID: 13939), Prob: 0.0000
+Token: ' self' (ID: 656), Prob: 0.0000
+Token: ' tricky' (ID: 33453), Prob: 0.0000
+Token: ' clutter' (ID: 53816), Prob: 0.0000
+Token: ' difficult' (ID: 5000), Prob: 0.0000
+Token: ' sense' (ID: 5530), Prob: 0.0000
+Token: ' like' (ID: 1075), Prob: 0.0000
+Token: ' word' (ID: 3409), Prob: 0.0000
+Token: ' easy' (ID: 4135), Prob: 0.0000
+Token: ' appear' (ID: 4994), Prob: 0.0000
+Token: ' unnatural' (ID: 80746), Prob: 0.0000
+Token: ' bad' (ID: 3873), Prob: 0.0000
+Token: ' sudden' (ID: 10968), Prob: 0.0000
+Token: ' elaborate' (ID: 35967), Prob: 0.0000
+Token: ' specific' (ID: 3151), Prob: 0.0000
+Token: ' happen' (ID: 3537), Prob: 0.0000
+
+== Ranked Concepts (Clusters) ==
+Rank 1 | Centroid: ' sounds' | Score: 0.7344
+  Tokens: [' sound', ' sounds', ' sounded', ' sounding']
+Rank 2 | Centroid: ' forced' | Score: 0.0776
+  Tokens: [' forced', ' flow', ' force', ' mean']
+Rank 3 | Centroid: ' appear' | Score: 0.0106
+  Tokens: [' seem', ' come', ' appear', ' happen']
+Rank 4 | Centroid: ' complex' | Score: 0.0088
+  Tokens: [' complex', ' complicated']
+Rank 5 | Centroid: ' feel' | Score: 0.0054
+  Tokens: [' feel', ' look', ' make', ' sense', ' like']
+Rank 6 | Centroid: ' excessive' | Score: 0.0028
+  Tokens: [' overly', ' overwhelming', ' excessive', ' redundant', ' unnecessary']
+Rank 7 | Centroid: ' obvious' | Score: 0.0014
+  Tokens: [' obvious', ' clear', ' trivial', ' simple', ' easy']
+Rank 8 | Centroid: ' crowded' | Score: 0.0014
+  Tokens: [' clich', ' cheesy', ' stressful', ' bulky', ' rushed', ' crowded', ' clutter']
+Rank 9 | Centroid: ' tricky' | Score: 0.0014
+  Tokens: [' confusing', ' awkward', ' messy', ' tricky']
+Rank 10 | Centroid: ' heavy' | Score: 0.0009
+  Tokens: [' heavy', ' intense']
+Rank 11 | Centroid: ' fake' | Score: 0.0007
+  Tokens: [' fake', ' emotional', ' hollow', ' superficial']
+Rank 12 | Centroid: ' concrete' | Score: 0.0007
+  Tokens: [' personal', ' generic', ' abstract', ' concrete', ' specific']
+Rank 13 | Centroid: ' unclear' | Score: 0.0006
+  Tokens: [' unclear', ' vague']
+Rank 14 | Centroid: ' unrealistic' | Score: 0.0004
+  Tokens: [' exaggerated', ' unrealistic', ' artificial', ' unnatural']
+Rank 15 | Centroid: ' bold' | Score: 0.0003
+  Tokens: [' loud', ' strong', ' bold']
+Rank 16 | Centroid: ' strange' | Score: 0.0002
+  Tokens: [' strange', ' worse', ' scary', ' funny']
+Rank 17 | Centroid: ' hard' | Score: 0.0002
+  Tokens: [' hard', ' difficult']
+Rank 18 | Centroid: ' explicit' | Score: 0.0002
+  Tokens: [' explicit']
+Rank 19 | Centroid: ' super' | Score: 0.0002
+  Tokens: [' conv', ' super', ' self']
+Rank 20 | Centroid: ' predictable' | Score: 0.0001
+  Tokens: [' predictable']
+Rank 21 | Centroid: ' jump' | Score: 0.0001
+  Tokens: [' jump', ' run']
+Rank 22 | Centroid: ' sudden' | Score: 0.0001
+  Tokens: [' dramatic', ' abrupt', ' sudden']
+Rank 23 | Centroid: ' sad' | Score: 0.0001
+  Tokens: [' sad', ' word', ' bad']
+Rank 24 | Centroid: ' repetitive' | Score: 0.0001
+  Tokens: [' repetitive', ' elaborate']
+Rank 25 | Centroid: ' impossible' | Score: 0.0000
+  Tokens: [' impossible']
+
+**Chosen Concept:** Rank 1

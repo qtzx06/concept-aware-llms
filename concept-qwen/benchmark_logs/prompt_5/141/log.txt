@@ -1,0 +1,70 @@
+--- Step 141 Log ---
+
+== Filtered Candidates ==
+Token: ' would' (ID: 1035), Prob: 1.0000
+Token: ' makes' (ID: 3643), Prob: 0.0001
+Token: ' made' (ID: 1865), Prob: 0.0000
+Token: ' could' (ID: 1410), Prob: 0.0000
+Token: ' might' (ID: 2578), Prob: 0.0000
+Token: ' Would' (ID: 18885), Prob: 0.0000
+Token: ' seems' (ID: 4977), Prob: 0.0000
+Token: 'would' (ID: 40350), Prob: 0.0000
+Token: ' must' (ID: 1969), Prob: 0.0000
+Token: ' making' (ID: 3259), Prob: 0.0000
+Token: ' make' (ID: 1281), Prob: 0.0000
+Token: ' also' (ID: 1083), Prob: 0.0000
+Token: ' may' (ID: 1231), Prob: 0.0000
+Token: ' assumes' (ID: 21484), Prob: 0.0000
+Token: ' still' (ID: 2058), Prob: 0.0000
+Token: 'Would' (ID: 27989), Prob: 0.0000
+Token: ' logically' (ID: 73045), Prob: 0.0000
+Token: ' würde' (ID: 58881), Prob: 0.0000
+Token: ' shows' (ID: 4933), Prob: 0.0000
+Token: ' ends' (ID: 10335), Prob: 0.0000
+Token: ' technically' (ID: 31554), Prob: 0.0000
+Token: ' works' (ID: 4278), Prob: 0.0000
+Token: ' takes' (ID: 4990), Prob: 0.0000
+Token: ' includes' (ID: 5646), Prob: 0.0000
+Token: ' based' (ID: 3118), Prob: 0.0000
+Token: ' matches' (ID: 9071), Prob: 0.0000
+Token: ' within' (ID: 2878), Prob: 0.0000
+Token: ' math' (ID: 6888), Prob: 0.0000
+Token: ' five' (ID: 4236), Prob: 0.0000
+Token: ' holds' (ID: 9982), Prob: 0.0000
+Token: ' contrad' (ID: 22296), Prob: 0.0000
+Token: ' corresponds' (ID: 33210), Prob: 0.0000
+Token: ' serait' (ID: 86164), Prob: 0.0000
+Token: ' aloud' (ID: 70411), Prob: 0.0000
+Token: ' contains' (ID: 5610), Prob: 0.0000
+Token: ' slightly' (ID: 10078), Prob: 0.0000
+Token: ' always' (ID: 2677), Prob: 0.0000
+
+== Ranked Concepts (Clusters) ==
+Rank 1 | Centroid: 'would' | Score: 1.0000
+  Tokens: [' would', ' Would', 'would', 'Would', ' würde', ' serait']
+Rank 2 | Centroid: ' make' | Score: 0.0002
+  Tokens: [' makes', ' made', ' making', ' make']
+Rank 3 | Centroid: ' may' | Score: 0.0000
+  Tokens: [' could', ' might', ' must', ' may']
+Rank 4 | Centroid: ' takes' | Score: 0.0000
+  Tokens: [' seems', ' assumes', ' shows', ' takes', ' holds']
+Rank 5 | Centroid: ' still' | Score: 0.0000
+  Tokens: [' also', ' still', ' always']
+Rank 6 | Centroid: ' technically' | Score: 0.0000
+  Tokens: [' logically', ' technically', ' slightly']
+Rank 7 | Centroid: ' within' | Score: 0.0000
+  Tokens: [' based', ' within', ' five']
+Rank 8 | Centroid: ' corresponds' | Score: 0.0000
+  Tokens: [' matches', ' contrad', ' corresponds']
+Rank 9 | Centroid: ' ends' | Score: 0.0000
+  Tokens: [' ends']
+Rank 10 | Centroid: ' works' | Score: 0.0000
+  Tokens: [' works']
+Rank 11 | Centroid: ' includes' | Score: 0.0000
+  Tokens: [' includes', ' contains']
+Rank 12 | Centroid: ' math' | Score: 0.0000
+  Tokens: [' math']
+Rank 13 | Centroid: ' aloud' | Score: 0.0000
+  Tokens: [' aloud']
+
+**Chosen Concept:** Rank 1

@@ -1,103 +1,109 @@
 --- Step 101 Log ---
 
 == Filtered Candidates ==
-Token: ' cry' (ID: 15729), Prob: 0.9922
-Token: ' crying' (ID: 30199), Prob: 0.0046
-Token: ' cried' (ID: 38069), Prob: 0.0009
-Token: ' etc' (ID: 4992), Prob: 0.0001
-Token: ' Cry' (ID: 42705), Prob: 0.0001
-Token: ' cries' (ID: 57745), Prob: 0.0001
-Token: 'cry' (ID: 61138), Prob: 0.0001
-Token: ' try' (ID: 1430), Prob: 0.0001
-Token: ' love' (ID: 2948), Prob: 0.0000
-Token: ' wait' (ID: 3783), Prob: 0.0000
-Token: ' repeat' (ID: 13153), Prob: 0.0000
-Token: ' write' (ID: 3270), Prob: 0.0000
-Token: ' scream' (ID: 45689), Prob: 0.0000
-Token: ' please' (ID: 4486), Prob: 0.0000
-Token: ' cro' (ID: 14093), Prob: 0.0000
-Token: ' sorry' (ID: 14589), Prob: 0.0000
-Token: ' break' (ID: 1438), Prob: 0.0000
-Token: ' thank' (ID: 9702), Prob: 0.0000
-Token: ' catch' (ID: 2287), Prob: 0.0000
-Token: ' tear' (ID: 17576), Prob: 0.0000
-Token: ' yeah' (ID: 21639), Prob: 0.0000
-Token: ' tears' (ID: 23139), Prob: 0.0000
-Token: ' cow' (ID: 19362), Prob: 0.0000
-Token: ' sigh' (ID: 30138), Prob: 0.0000
-Token: ' cough' (ID: 39600), Prob: 0.0000
-Token: ' create' (ID: 1855), Prob: 0.0000
-Token: ' ask' (ID: 2548), Prob: 0.0000
-Token: ' fall' (ID: 4399), Prob: 0.0000
-Token: ' lie' (ID: 10246), Prob: 0.0000
-Token: ' drip' (ID: 72499), Prob: 0.0000
-Token: ' yes' (ID: 9834), Prob: 0.0000
-Token: ' die' (ID: 2746), Prob: 0.0000
-Token: ' sing' (ID: 7780), Prob: 0.0000
-Token: ' count' (ID: 1760), Prob: 0.0000
-Token: ' cheer' (ID: 25032), Prob: 0.0000
-Token: ' end' (ID: 835), Prob: 0.0000
-Token: ' feel' (ID: 2666), Prob: 0.0000
-Token: ' sad' (ID: 12421), Prob: 0.0000
-Token: ' let' (ID: 1077), Prob: 0.0000
-Token: ' pain' (ID: 6646), Prob: 0.0000
-Token: ' awe' (ID: 50417), Prob: 0.0000
-Token: ' baby' (ID: 8770), Prob: 0.0000
-Token: ' cri' (ID: 27558), Prob: 0.0000
-Token: ' add' (ID: 912), Prob: 0.0000
-Token: ' maybe' (ID: 7196), Prob: 0.0000
-Token: ' joy' (ID: 15888), Prob: 0.0000
-Token: ' tie' (ID: 18131), Prob: 0.0000
-Token: ' climax' (ID: 70195), Prob: 0.0000
-Token: ' run' (ID: 1598), Prob: 0.0000
-Token: ' dry' (ID: 9058), Prob: 0.0000
-Token: ' goodbye' (ID: 46455), Prob: 0.0000
-Token: ' shout' (ID: 41123), Prob: 0.0000
+Token: ' one' (ID: 825), Prob: 0.0062
+Token: ' exactly' (ID: 6896), Prob: 0.0037
+Token: ' every' (ID: 1449), Prob: 0.0029
+Token: ' sentence' (ID: 11652), Prob: 0.0009
+Token: ' lowercase' (ID: 42047), Prob: 0.0009
+Token: ' markdown' (ID: 50494), Prob: 0.0008
+Token: ' bold' (ID: 13939), Prob: 0.0006
+Token: ' two' (ID: 1378), Prob: 0.0005
+Token: ' specific' (ID: 3151), Prob: 0.0005
+Token: ' place' (ID: 1992), Prob: 0.0004
+Token: ' plain' (ID: 14396), Prob: 0.0004
+Token: ' three' (ID: 2326), Prob: 0.0003
+Token: ' paragraph' (ID: 14311), Prob: 0.0003
+Token: ' sentences' (ID: 22870), Prob: 0.0003
+Token: ' quotes' (ID: 17194), Prob: 0.0003
+Token: ' English' (ID: 6364), Prob: 0.0002
+Token: ' parentheses' (ID: 73975), Prob: 0.0002
+Token: ' text' (ID: 1467), Prob: 0.0001
+Token: ' first' (ID: 1156), Prob: 0.0001
+Token: ' different' (ID: 2155), Prob: 0.0001
+Token: ' somewhere' (ID: 14696), Prob: 0.0001
+Token: ' context' (ID: 2266), Prob: 0.0001
+Token: ' line' (ID: 1555), Prob: 0.0001
+Token: ' another' (ID: 2441), Prob: 0.0001
+Token: ' capital' (ID: 6722), Prob: 0.0001
+Token: ' title' (ID: 2265), Prob: 0.0001
+Token: ' multiple' (ID: 5248), Prob: 0.0001
+Token: ' third' (ID: 4843), Prob: 0.0001
+Token: ' singular' (ID: 33944), Prob: 0.0001
+Token: ' full' (ID: 2480), Prob: 0.0000
+Token: ' uppercase' (ID: 39482), Prob: 0.0000
+Token: ' content' (ID: 2213), Prob: 0.0000
+Token: ' either' (ID: 2987), Prob: 0.0000
+Token: ' proper' (ID: 6169), Prob: 0.0000
+Token: ' Spanish' (ID: 15154), Prob: 0.0000
+Token: ' anywhere' (ID: 12379), Prob: 0.0000
+Token: ' exact' (ID: 4734), Prob: 0.0000
+Token: ' addition' (ID: 5256), Prob: 0.0000
+Token: ' appropriate' (ID: 8311), Prob: 0.0000
+Token: ' total' (ID: 2790), Prob: 0.0000
+Token: ' single' (ID: 3175), Prob: 0.0000
+Token: ' relation' (ID: 12687), Prob: 0.0000
+Token: ' quotation' (ID: 54231), Prob: 0.0000
+Token: ' response' (ID: 2033), Prob: 0.0000
+Token: ' paragraphs' (ID: 42643), Prob: 0.0000
+Token: ' certain' (ID: 3654), Prob: 0.0000
+Token: ' front' (ID: 4065), Prob: 0.0000
+Token: ' mind' (ID: 3971), Prob: 0.0000
+Token: ' bullet' (ID: 17432), Prob: 0.0000
+Token: ' within' (ID: 2878), Prob: 0.0000
+Token: ' terms' (ID: 3793), Prob: 0.0000
+Token: ' natural' (ID: 5810), Prob: 0.0000
+Token: ' punctuation' (ID: 61503), Prob: 0.0000
+Token: ' body' (ID: 2487), Prob: 0.0000
+Token: ' phrases' (ID: 31747), Prob: 0.0000
+Token: 'appropri' (ID: 75471), Prob: 0.0000
+Token: ' capitals' (ID: 92999), Prob: 0.0000
+Token: ' particular' (ID: 3953), Prob: 0.0000
+Token: ' caps' (ID: 18568), Prob: 0.0000
+Token: ' order' (ID: 1973), Prob: 0.0000
+Token: ' correct' (ID: 4396), Prob: 0.0000
+Token: ' brackets' (ID: 38929), Prob: 0.0000
+Token: ' places' (ID: 7482), Prob: 0.0000
+Token: ' key' (ID: 1376), Prob: 0.0000
+Token: ' several' (ID: 3807), Prob: 0.0000
+Token: ' words' (ID: 4244), Prob: 0.0000
 
 == Ranked Concepts (Clusters) ==
-Rank 1 | Concept Score: 0.9961
-  Tokens: [' cry', ' crying', ' cried', ' Cry', ' cries', 'cry', ' cri']
-Rank 2 | Concept Score: 0.0001
-  Tokens: [' etc', ' maybe']
-Rank 3 | Concept Score: 0.0001
-  Tokens: [' try', ' ask', ' let']
-Rank 4 | Concept Score: 0.0000
-  Tokens: [' repeat', ' write', ' create', ' add', ' run']
-Rank 5 | Concept Score: 0.0000
-  Tokens: [' love', ' awe', ' joy']
-Rank 6 | Concept Score: 0.0000
-  Tokens: [' please', ' sorry', ' thank']
-Rank 7 | Concept Score: 0.0000
-  Tokens: [' wait']
-Rank 8 | Concept Score: 0.0000
-  Tokens: [' cro', ' cow', ' baby', ' dry']
-Rank 9 | Concept Score: 0.0000
-  Tokens: [' scream', ' sigh', ' shout']
-Rank 10 | Concept Score: 0.0000
-  Tokens: [' fall', ' lie', ' die', ' tie']
-Rank 11 | Concept Score: 0.0000
-  Tokens: [' tear', ' tears']
-Rank 12 | Concept Score: 0.0000
-  Tokens: [' catch', ' sing']
-Rank 13 | Concept Score: 0.0000
-  Tokens: [' yeah', ' yes']
-Rank 14 | Concept Score: 0.0000
-  Tokens: [' cough', ' climax']
-Rank 15 | Concept Score: 0.0000
-  Tokens: [' break']
-Rank 16 | Concept Score: 0.0000
-  Tokens: [' feel', ' pain']
-Rank 17 | Concept Score: 0.0000
-  Tokens: [' drip']
-Rank 18 | Concept Score: 0.0000
-  Tokens: [' count']
-Rank 19 | Concept Score: 0.0000
-  Tokens: [' cheer']
-Rank 20 | Concept Score: 0.0000
-  Tokens: [' sad']
-Rank 21 | Concept Score: 0.0000
-  Tokens: [' end']
-Rank 22 | Concept Score: 0.0000
-  Tokens: [' goodbye']
+Rank 1 | Centroid: ' two' | Score: 0.0074
+  Tokens: [' one', ' two', ' three', ' first', ' different', ' another', ' multiple', ' third', ' several']
+Rank 2 | Centroid: ' exactly' | Score: 0.0038
+  Tokens: [' exactly', ' exact']
+Rank 3 | Centroid: ' somewhere' | Score: 0.0031
+  Tokens: [' every', ' somewhere', ' either', ' anywhere', ' within']
+Rank 4 | Centroid: ' paragraph' | Score: 0.0016
+  Tokens: [' sentence', ' paragraph', ' sentences', ' paragraphs', ' punctuation']
+Rank 5 | Centroid: ' bold' | Score: 0.0014
+  Tokens: [' markdown', ' bold', ' bullet']
+Rank 6 | Centroid: ' uppercase' | Score: 0.0011
+  Tokens: [' lowercase', ' English', ' uppercase', ' Spanish']
+Rank 7 | Centroid: ' specific' | Score: 0.0005
+  Tokens: [' specific', ' certain', ' particular']
+Rank 8 | Centroid: ' single' | Score: 0.0005
+  Tokens: [' plain', ' singular', ' full', ' single', ' natural']
+Rank 9 | Centroid: ' quotes' | Score: 0.0005
+  Tokens: [' quotes', ' parentheses', ' quotation', ' brackets']
+Rank 10 | Centroid: ' place' | Score: 0.0004
+  Tokens: [' place', ' places']
+Rank 11 | Centroid: ' text' | Score: 0.0003
+  Tokens: [' text', ' context', ' title', ' content', ' body']
+Rank 12 | Centroid: ' addition' | Score: 0.0002
+  Tokens: [' line', ' addition', ' relation', ' response', ' order']
+Rank 13 | Centroid: ' appropriate' | Score: 0.0001
+  Tokens: [' proper', ' appropriate', 'appropri', ' correct']
+Rank 14 | Centroid: ' capital' | Score: 0.0001
+  Tokens: [' capital', ' capitals', ' caps']
+Rank 15 | Centroid: ' phrases' | Score: 0.0001
+  Tokens: [' terms', ' phrases', ' words']
+Rank 16 | Centroid: ' total' | Score: 0.0000
+  Tokens: [' total', ' key']
+Rank 17 | Centroid: ' front' | Score: 0.0000
+  Tokens: [' front']
+Rank 18 | Centroid: ' mind' | Score: 0.0000
+  Tokens: [' mind']
 
-**Chosen Concept:** Rank 1 with score 0.9961
+**Chosen Concept:** Rank 1

@@ -1,78 +1,88 @@
 --- Step 147 Log ---
 
 == Filtered Candidates ==
-Token: ' everything' (ID: 4297), Prob: 1.0000
-Token: ' everyone' (ID: 5019), Prob: 0.0002
-Token: 'everything' (ID: 72726), Prob: 0.0001
-Token: ' Everything' (ID: 20094), Prob: 0.0001
-Token: ' things' (ID: 2513), Prob: 0.0000
-Token: ' nothing' (ID: 4302), Prob: 0.0000
-Token: ' every' (ID: 1449), Prob: 0.0000
-Token: ' something' (ID: 2494), Prob: 0.0000
-Token: ' everywhere' (ID: 16852), Prob: 0.0000
-Token: 'Everything' (ID: 34964), Prob: 0.0000
-Token: ' anything' (ID: 4113), Prob: 0.0000
-Token: ' otherwise' (ID: 5937), Prob: 0.0000
-Token: ' throughout' (ID: 6814), Prob: 0.0000
-Token: ' tudo' (ID: 55696), Prob: 0.0000
-Token: ' completely' (ID: 6587), Prob: 0.0000
-Token: ' etc' (ID: 4992), Prob: 0.0000
-Token: ' everybody' (ID: 16083), Prob: 0.0000
-Token: ' absolutely' (ID: 10875), Prob: 0.0000
-Token: ' alles' (ID: 35951), Prob: 0.0000
-Token: ' except' (ID: 3650), Prob: 0.0000
-Token: ' exactly' (ID: 6896), Prob: 0.0000
-Token: ' entirely' (ID: 11368), Prob: 0.0000
-Token: ' whatever' (ID: 8820), Prob: 0.0000
-Token: ' EVERY' (ID: 44874), Prob: 0.0000
-Token: ' unless' (ID: 7241), Prob: 0.0000
-Token: ' overall' (ID: 8084), Prob: 0.0000
-Token: ' entire' (ID: 4453), Prob: 0.0000
-Token: ' altogether' (ID: 30055), Prob: 0.0000
-Token: ' also' (ID: 1083), Prob: 0.0000
-Token: ' however' (ID: 4764), Prob: 0.0000
-Token: ' whenever' (ID: 15356), Prob: 0.0000
-Token: ' everyday' (ID: 17778), Prob: 0.0000
-Token: ' according' (ID: 4092), Prob: 0.0000
-Token: ' without' (ID: 2041), Prob: 0.0000
-Token: ' ever' (ID: 3512), Prob: 0.0000
-Token: 'everyone' (ID: 91957), Prob: 0.0000
-Token: ' always' (ID: 2677), Prob: 0.0000
+Token: ' child' (ID: 1682), Prob: 1.0000
+Token: ' kid' (ID: 10369), Prob: 0.0001
+Token: '(child' (ID: 17794), Prob: 0.0001
+Token: ' children' (ID: 2841), Prob: 0.0000
+Token: ' baby' (ID: 8770), Prob: 0.0000
+Token: ' Child' (ID: 9391), Prob: 0.0000
+Token: ' family' (ID: 2997), Prob: 0.0000
+Token: ' parent' (ID: 2681), Prob: 0.0000
+Token: ' youth' (ID: 12537), Prob: 0.0000
+Token: '	child' (ID: 58391), Prob: 0.0000
+Token: ' young' (ID: 3908), Prob: 0.0000
+Token: '.child' (ID: 17531), Prob: 0.0000
+Token: '-child' (ID: 23484), Prob: 0.0000
+Token: ' childhood' (ID: 19990), Prob: 0.0000
+Token: ' infant' (ID: 30283), Prob: 0.0000
+Token: '_child' (ID: 17268), Prob: 0.0000
+Token: 'child' (ID: 3048), Prob: 0.0000
+Token: ' home' (ID: 2114), Prob: 0.0000
+Token: ' student' (ID: 5458), Prob: 0.0000
+Token: ' mother' (ID: 6554), Prob: 0.0000
+Token: ' grand' (ID: 6662), Prob: 0.0000
+Token: ' toddler' (ID: 51235), Prob: 0.0000
+Token: ' care' (ID: 2453), Prob: 0.0000
+Token: ' girl' (ID: 3743), Prob: 0.0000
+Token: ' adult' (ID: 6683), Prob: 0.0000
+Token: ' boy' (ID: 8171), Prob: 0.0000
+Token: ' user' (ID: 1196), Prob: 0.0000
+Token: ' key' (ID: 1376), Prob: 0.0000
+Token: '[child' (ID: 85483), Prob: 0.0000
+Token: ' check' (ID: 1779), Prob: 0.0000
+Token: ' CHILD' (ID: 72520), Prob: 0.0000
+Token: ' daughter' (ID: 9803), Prob: 0.0000
+Token: ' childcare' (ID: 79171), Prob: 0.0000
+Token: ' cat' (ID: 8251), Prob: 0.0000
+Token: ' one' (ID: 825), Prob: 0.0000
+Token: ' grow' (ID: 3063), Prob: 0.0000
+Token: ' teen' (ID: 9378), Prob: 0.0000
+Token: ' chapter' (ID: 12453), Prob: 0.0000
+Token: ' old' (ID: 2310), Prob: 0.0000
+Token: ' age' (ID: 4231), Prob: 0.0000
+Token: 'Child' (ID: 3652), Prob: 0.0000
+Token: ' charge' (ID: 6757), Prob: 0.0000
+Token: ' youngster' (ID: 82271), Prob: 0.0000
+Token: ' cell' (ID: 2779), Prob: 0.0000
+Token: ' city' (ID: 3283), Prob: 0.0000
+Token: ' sub' (ID: 1186), Prob: 0.0000
+Token: ' car' (ID: 1803), Prob: 0.0000
+Token: ' change' (ID: 2297), Prob: 0.0000
+Token: ' getChild' (ID: 76518), Prob: 0.0000
+Token: ' day' (ID: 1899), Prob: 0.0000
+Token: ' father' (ID: 6981), Prob: 0.0000
 
 == Ranked Concepts (Clusters) ==
-Rank 1 | Concept Score: 1.0000
-  Tokens: [' everything', 'everything', ' Everything', 'Everything', ' tudo', ' alles']
-Rank 2 | Concept Score: 0.0002
-  Tokens: [' everyone', ' everybody', 'everyone']
-Rank 3 | Concept Score: 0.0001
-  Tokens: [' things', ' nothing', ' something', ' anything', ' whatever']
-Rank 4 | Concept Score: 0.0000
-  Tokens: [' every', ' everywhere', ' EVERY']
-Rank 5 | Concept Score: 0.0000
-  Tokens: [' otherwise']
-Rank 6 | Concept Score: 0.0000
-  Tokens: [' completely', ' entirely', ' altogether']
-Rank 7 | Concept Score: 0.0000
-  Tokens: [' throughout']
-Rank 8 | Concept Score: 0.0000
-  Tokens: [' absolutely', ' exactly']
-Rank 9 | Concept Score: 0.0000
-  Tokens: [' etc']
-Rank 10 | Concept Score: 0.0000
-  Tokens: [' except', ' unless']
-Rank 11 | Concept Score: 0.0000
-  Tokens: [' overall', ' entire']
-Rank 12 | Concept Score: 0.0000
-  Tokens: [' according', ' without']
-Rank 13 | Concept Score: 0.0000
-  Tokens: [' ever', ' always']
-Rank 14 | Concept Score: 0.0000
-  Tokens: [' also']
-Rank 15 | Concept Score: 0.0000
-  Tokens: [' however']
-Rank 16 | Concept Score: 0.0000
-  Tokens: [' whenever']
-Rank 17 | Concept Score: 0.0000
-  Tokens: [' everyday']
+Rank 1 | Centroid: ' child' | Score: 1.0000
+  Tokens: [' child', '(child', ' children', ' Child', '\tchild', '.child', '-child', '_child', 'child', '[child', ' CHILD', 'Child', ' getChild']
+Rank 2 | Centroid: ' young' | Score: 0.0001
+  Tokens: [' kid', ' youth', ' young', ' teen', ' youngster']
+Rank 3 | Centroid: ' infant' | Score: 0.0000
+  Tokens: [' baby', ' infant', ' toddler', ' adult']
+Rank 4 | Centroid: ' mother' | Score: 0.0000
+  Tokens: [' parent', ' mother', ' daughter', ' father']
+Rank 5 | Centroid: ' family' | Score: 0.0000
+  Tokens: [' family', ' home']
+Rank 6 | Centroid: ' childhood' | Score: 0.0000
+  Tokens: [' childhood', ' childcare']
+Rank 7 | Centroid: ' check' | Score: 0.0000
+  Tokens: [' key', ' check', ' one', ' change']
+Rank 8 | Centroid: ' student' | Score: 0.0000
+  Tokens: [' student', ' user']
+Rank 9 | Centroid: ' girl' | Score: 0.0000
+  Tokens: [' girl', ' boy']
+Rank 10 | Centroid: ' car' | Score: 0.0000
+  Tokens: [' care', ' cat', ' car']
+Rank 11 | Centroid: ' grand' | Score: 0.0000
+  Tokens: [' grand', ' sub']
+Rank 12 | Centroid: ' chapter' | Score: 0.0000
+  Tokens: [' chapter', ' charge']
+Rank 13 | Centroid: ' city' | Score: 0.0000
+  Tokens: [' cell', ' city', ' day']
+Rank 14 | Centroid: ' old' | Score: 0.0000
+  Tokens: [' old', ' age']
+Rank 15 | Centroid: ' grow' | Score: 0.0000
+  Tokens: [' grow']
 
-**Chosen Concept:** Rank 1 with score 1.0000
+**Chosen Concept:** Rank 1

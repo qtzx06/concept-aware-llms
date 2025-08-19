@@ -1,0 +1,84 @@
+--- Step 14 Log ---
+
+== Filtered Candidates ==
+Token: ' Let' (ID: 6771), Prob: 0.6055
+Token: ' First' (ID: 5512), Prob: 0.0640
+Token: ' Hmm' (ID: 88190), Prob: 0.0046
+Token: ' Maybe' (ID: 10696), Prob: 0.0032
+Token: ' Since' (ID: 8704), Prob: 0.0022
+Token: ' Need' (ID: 14656), Prob: 0.0009
+Token: ' Alright' (ID: 97593), Prob: 0.0003
+Token: ' However' (ID: 4354), Prob: 0.0002
+Token: ' Wait' (ID: 13824), Prob: 0.0002
+Token: ' Well' (ID: 8325), Prob: 0.0002
+Token: ' Initially' (ID: 58556), Prob: 0.0002
+Token: ' Probably' (ID: 37154), Prob: 0.0001
+Token: ' Using' (ID: 12091), Prob: 0.0001
+Token: ' Words' (ID: 27630), Prob: 0.0001
+Token: ' Starting' (ID: 27657), Prob: 0.0001
+Token: ' Start' (ID: 5145), Prob: 0.0001
+Token: ' Make' (ID: 7405), Prob: 0.0000
+Token: ' Perhaps' (ID: 18765), Prob: 0.0000
+Token: ' Without' (ID: 17147), Prob: 0.0000
+Token: ' Usually' (ID: 32967), Prob: 0.0000
+Token: ' One' (ID: 3776), Prob: 0.0000
+Token: ' Even' (ID: 7418), Prob: 0.0000
+Token: ' Today' (ID: 11201), Prob: 0.0000
+Token: ' let' (ID: 1077), Prob: 0.0000
+Token: ' Long' (ID: 5724), Prob: 0.0000
+Token: ' Time' (ID: 4120), Prob: 0.0000
+Token: ' Please' (ID: 5209), Prob: 0.0000
+Token: ' Normally' (ID: 51683), Prob: 0.0000
+Token: ' Making' (ID: 24288), Prob: 0.0000
+Token: ' Firstly' (ID: 76695), Prob: 0.0000
+Token: ' Something' (ID: 24656), Prob: 0.0000
+Token: ' Typically' (ID: 45302), Prob: 0.0000
+Token: ' first' (ID: 1156), Prob: 0.0000
+Token: ' Needs' (ID: 43140), Prob: 0.0000
+Token: ' Focus' (ID: 25806), Prob: 0.0000
+Token: ' Instead' (ID: 12090), Prob: 0.0000
+Token: ' Wow' (ID: 45717), Prob: 0.0000
+Token: ' Assuming' (ID: 63964), Prob: 0.0000
+Token: ' Simple' (ID: 8993), Prob: 0.0000
+Token: ' Like' (ID: 8909), Prob: 0.0000
+Token: ' Given' (ID: 16246), Prob: 0.0000
+Token: ' Think' (ID: 21149), Prob: 0.0000
+Token: ' Considering' (ID: 55777), Prob: 0.0000
+Token: ' Crafting' (ID: 97169), Prob: 0.0000
+Token: ' Good' (ID: 7684), Prob: 0.0000
+
+== Ranked Concepts (Clusters) ==
+Rank 1 | Centroid: ' Let' | Score: 0.6055
+  Tokens: [' Let', ' let']
+Rank 2 | Centroid: ' First' | Score: 0.0640
+  Tokens: [' First', ' Firstly', ' first']
+Rank 3 | Centroid: ' Hmm' | Score: 0.0052
+  Tokens: [' Hmm', ' Alright', ' Wait', ' Wow']
+Rank 4 | Centroid: ' Perhaps' | Score: 0.0034
+  Tokens: [' Maybe', ' Probably', ' Perhaps', ' Something']
+Rank 5 | Centroid: ' However' | Score: 0.0025
+  Tokens: [' Since', ' However', ' Without', ' Even', ' Today', ' Instead']
+Rank 6 | Centroid: ' Need' | Score: 0.0009
+  Tokens: [' Need', ' Needs']
+Rank 7 | Centroid: ' Typically' | Score: 0.0003
+  Tokens: [' Initially', ' Usually', ' Normally', ' Typically']
+Rank 8 | Centroid: ' Well' | Score: 0.0002
+  Tokens: [' Well', ' Good']
+Rank 9 | Centroid: ' Starting' | Score: 0.0002
+  Tokens: [' Starting', ' Start']
+Rank 10 | Centroid: ' Considering' | Score: 0.0001
+  Tokens: [' Using', ' Assuming', ' Given', ' Considering']
+Rank 11 | Centroid: ' Time' | Score: 0.0001
+  Tokens: [' Words', ' Time', ' Focus']
+Rank 12 | Centroid: ' Making' | Score: 0.0001
+  Tokens: [' Make', ' Making', ' Crafting']
+Rank 13 | Centroid: ' One' | Score: 0.0001
+  Tokens: [' One', ' Long', ' Simple']
+Rank 14 | Centroid: ' Please' | Score: 0.0000
+  Tokens: [' Please']
+Rank 15 | Centroid: ' Like' | Score: 0.0000
+  Tokens: [' Like']
+Rank 16 | Centroid: ' Think' | Score: 0.0000
+  Tokens: [' Think']
+
+**Chosen Concept:** Rank 1

@@ -1,108 +1,88 @@
 --- Step 45 Log ---
 
 == Filtered Candidates ==
-Token: ' prior' (ID: 4867), Prob: 0.0211
-Token: ' ahead' (ID: 8305), Prob: 0.0128
-Token: ' following' (ID: 2701), Prob: 0.0053
-Token: ' preceding' (ID: 37746), Prob: 0.0039
-Token: ' behind' (ID: 4815), Prob: 0.0034
-Token: ' previous' (ID: 3681), Prob: 0.0025
-Token: ' earlier' (ID: 6788), Prob: 0.0020
-Token: ' next' (ID: 1790), Prob: 0.0018
-Token: ' outside' (ID: 4889), Prob: 0.0011
-Token: ' afterward' (ID: 47943), Prob: 0.0011
-Token: ' adjacent' (ID: 23942), Prob: 0.0008
-Token: ' upon' (ID: 5193), Prob: 0.0008
-Token: ' beyond' (ID: 7797), Prob: 0.0005
-Token: ' past' (ID: 3267), Prob: 0.0004
-Token: ' beforehand' (ID: 51059), Prob: 0.0004
-Token: ' later' (ID: 2937), Prob: 0.0003
-Token: ' afterwards' (ID: 26807), Prob: 0.0003
-Token: ' forward' (ID: 4637), Prob: 0.0002
-Token: ' subsequent' (ID: 17420), Prob: 0.0002
-Token: ' thereafter' (ID: 44995), Prob: 0.0002
-Token: ' nearby' (ID: 14046), Prob: 0.0001
-Token: ' preced' (ID: 16201), Prob: 0.0001
-Token: ' downstream' (ID: 51352), Prob: 0.0001
-Token: ' beside' (ID: 29388), Prob: 0.0001
-Token: ' upstream' (ID: 41730), Prob: 0.0001
-Token: ' within' (ID: 2878), Prob: 0.0001
-Token: ' previously' (ID: 8597), Prob: 0.0001
-Token: ' surrounding' (ID: 14590), Prob: 0.0001
-Token: ' aft' (ID: 59701), Prob: 0.0001
-Token: ' around' (ID: 2163), Prob: 0.0001
-Token: ' available' (ID: 2500), Prob: 0.0001
-Token: ' across' (ID: 3941), Prob: 0.0001
-Token: ' back' (ID: 1182), Prob: 0.0001
-Token: ' right' (ID: 1290), Prob: 0.0001
-Token: ' away' (ID: 3123), Prob: 0.0001
-Token: ' ago' (ID: 4134), Prob: 0.0001
-Token: ' immediately' (ID: 7069), Prob: 0.0001
-Token: ' near' (ID: 3143), Prob: 0.0001
-Token: ' according' (ID: 4092), Prob: 0.0001
-Token: ' coming' (ID: 5001), Prob: 0.0001
-Token: ' time' (ID: 882), Prob: 0.0001
-Token: ' one' (ID: 825), Prob: 0.0001
-Token: ' left' (ID: 2115), Prob: 0.0001
-Token: ' west' (ID: 9710), Prob: 0.0001
-Token: ' clockwise' (ID: 65670), Prob: 0.0001
-Token: ' east' (ID: 10984), Prob: 0.0000
-Token: ' neighboring' (ID: 41517), Prob: 0.0000
-Token: ' north' (ID: 10200), Prob: 0.0000
-Token: ' inside' (ID: 4766), Prob: 0.0000
-Token: ' closer' (ID: 12128), Prob: 0.0000
-Token: ' due' (ID: 4152), Prob: 0.0000
-Token: ' opposite' (ID: 14002), Prob: 0.0000
-Token: ' followed' (ID: 8110), Prob: 0.0000
-Token: ' beneath' (ID: 23969), Prob: 0.0000
-Token: ' succeeding' (ID: 72720), Prob: 0.0000
+Token: ' would' (ID: 1035), Prob: 0.9844
+Token: ' makes' (ID: 3643), Prob: 0.0085
+Token: ' made' (ID: 1865), Prob: 0.0002
+Token: ' might' (ID: 2578), Prob: 0.0001
+Token: ' could' (ID: 1410), Prob: 0.0001
+Token: ' also' (ID: 1083), Prob: 0.0001
+Token: ' seems' (ID: 4977), Prob: 0.0001
+Token: ' making' (ID: 3259), Prob: 0.0000
+Token: ' Would' (ID: 18885), Prob: 0.0000
+Token: ' may' (ID: 1231), Prob: 0.0000
+Token: ' must' (ID: 1969), Prob: 0.0000
+Token: ' still' (ID: 2058), Prob: 0.0000
+Token: ' make' (ID: 1281), Prob: 0.0000
+Token: ' works' (ID: 4278), Prob: 0.0000
+Token: ' shows' (ID: 4933), Prob: 0.0000
+Token: ' technically' (ID: 31554), Prob: 0.0000
+Token: ' logically' (ID: 73045), Prob: 0.0000
+Token: ' includes' (ID: 5646), Prob: 0.0000
+Token: ' matches' (ID: 9071), Prob: 0.0000
+Token: ' ends' (ID: 10335), Prob: 0.0000
+Token: ' within' (ID: 2878), Prob: 0.0000
+Token: ' contains' (ID: 5610), Prob: 0.0000
+Token: ' definitely' (ID: 8491), Prob: 0.0000
+Token: ' clearly' (ID: 9355), Prob: 0.0000
+Token: ' assumes' (ID: 21484), Prob: 0.0000
+Token: 'would' (ID: 40350), Prob: 0.0000
+Token: ' based' (ID: 3118), Prob: 0.0000
+Token: ' meets' (ID: 20027), Prob: 0.0000
+Token: ' supports' (ID: 11554), Prob: 0.0000
+Token: ' sounds' (ID: 10362), Prob: 0.0000
+Token: ' probably' (ID: 4658), Prob: 0.0000
+Token: ' says' (ID: 2727), Prob: 0.0000
+Token: '-making' (ID: 27746), Prob: 0.0000
+Token: ' likely' (ID: 4363), Prob: 0.0000
+Token: ' reads' (ID: 15804), Prob: 0.0000
+Token: ' needs' (ID: 3880), Prob: 0.0000
+Token: ' takes' (ID: 4990), Prob: 0.0000
+Token: ' describes' (ID: 16555), Prob: 0.0000
+Token: ' contrad' (ID: 22296), Prob: 0.0000
+Token: ' agrees' (ID: 32908), Prob: 0.0000
+Token: ' fits' (ID: 18304), Prob: 0.0000
+Token: ' discusses' (ID: 34334), Prob: 0.0000
+Token: ' math' (ID: 6888), Prob: 0.0000
+Token: ' becomes' (ID: 9044), Prob: 0.0000
+Token: ' cannot' (ID: 4157), Prob: 0.0000
 
 == Ranked Concepts (Clusters) ==
-Rank 1 | Concept Score: 0.0298
-  Tokens: [' prior', ' preceding', ' previous', ' earlier', ' preced', ' previously']
-Rank 2 | Concept Score: 0.0162
-  Tokens: [' ahead', ' behind']
-Rank 3 | Concept Score: 0.0054
-  Tokens: [' following', ' followed', ' succeeding']
-Rank 4 | Concept Score: 0.0020
-  Tokens: [' outside', ' beyond', ' beside', ' within', ' across', ' inside', ' beneath']
-Rank 5 | Concept Score: 0.0020
-  Tokens: [' afterward', ' later', ' afterwards', ' subsequent', ' thereafter']
-Rank 6 | Concept Score: 0.0018
-  Tokens: [' next']
-Rank 7 | Concept Score: 0.0011
-  Tokens: [' adjacent', ' nearby', ' surrounding', ' neighboring']
-Rank 8 | Concept Score: 0.0009
-  Tokens: [' upon', ' around']
-Rank 9 | Concept Score: 0.0004
-  Tokens: [' past']
-Rank 10 | Concept Score: 0.0004
-  Tokens: [' beforehand']
-Rank 11 | Concept Score: 0.0004
-  Tokens: [' forward', ' back', ' away']
-Rank 12 | Concept Score: 0.0002
-  Tokens: [' downstream', ' upstream']
-Rank 13 | Concept Score: 0.0002
-  Tokens: [' coming', ' time', ' one', ' due']
-Rank 14 | Concept Score: 0.0001
-  Tokens: [' west', ' east', ' north']
-Rank 15 | Concept Score: 0.0001
-  Tokens: [' right', ' left']
-Rank 16 | Concept Score: 0.0001
-  Tokens: [' near', ' closer']
-Rank 17 | Concept Score: 0.0001
-  Tokens: [' aft']
-Rank 18 | Concept Score: 0.0001
-  Tokens: [' available']
-Rank 19 | Concept Score: 0.0001
-  Tokens: [' ago']
-Rank 20 | Concept Score: 0.0001
-  Tokens: [' immediately']
-Rank 21 | Concept Score: 0.0001
-  Tokens: [' according']
-Rank 22 | Concept Score: 0.0001
-  Tokens: [' clockwise']
-Rank 23 | Concept Score: 0.0000
-  Tokens: [' opposite']
+Rank 1 | Centroid: 'would' | Score: 0.9844
+  Tokens: [' would', ' Would', 'would']
+Rank 2 | Centroid: ' make' | Score: 0.0088
+  Tokens: [' makes', ' made', ' making', ' make', '-making']
+Rank 3 | Centroid: ' might' | Score: 0.0001
+  Tokens: [' might', ' could', ' may']
+Rank 4 | Centroid: ' also' | Score: 0.0001
+  Tokens: [' also', ' still']
+Rank 5 | Centroid: ' seems' | Score: 0.0001
+  Tokens: [' seems']
+Rank 6 | Centroid: ' describes' | Score: 0.0000
+  Tokens: [' shows', ' assumes', ' says', ' reads', ' takes', ' describes', ' discusses']
+Rank 7 | Centroid: ' must' | Score: 0.0000
+  Tokens: [' must', ' needs', ' cannot']
+Rank 8 | Centroid: ' technically' | Score: 0.0000
+  Tokens: [' technically', ' logically']
+Rank 9 | Centroid: ' matches' | Score: 0.0000
+  Tokens: [' matches', ' meets', ' supports', ' fits']
+Rank 10 | Centroid: ' works' | Score: 0.0000
+  Tokens: [' works', ' sounds']
+Rank 11 | Centroid: ' includes' | Score: 0.0000
+  Tokens: [' includes', ' contains']
+Rank 12 | Centroid: ' within' | Score: 0.0000
+  Tokens: [' within', ' based']
+Rank 13 | Centroid: ' definitely' | Score: 0.0000
+  Tokens: [' definitely', ' clearly']
+Rank 14 | Centroid: ' ends' | Score: 0.0000
+  Tokens: [' ends']
+Rank 15 | Centroid: ' probably' | Score: 0.0000
+  Tokens: [' probably', ' likely']
+Rank 16 | Centroid: ' contrad' | Score: 0.0000
+  Tokens: [' contrad', ' agrees']
+Rank 17 | Centroid: ' math' | Score: 0.0000
+  Tokens: [' math']
+Rank 18 | Centroid: ' becomes' | Score: 0.0000
+  Tokens: [' becomes']
 
-**Chosen Concept:** Rank 1 with score 0.0298
+**Chosen Concept:** Rank 1

@@ -1,55 +1,86 @@
 --- Step 48 Log ---
 
 == Filtered Candidates ==
-Token: ' things' (ID: 2513), Prob: 0.7500
-Token: ' ways' (ID: 5510), Prob: 0.0003
-Token: ' everything' (ID: 4297), Prob: 0.0003
-Token: ' something' (ID: 2494), Prob: 0.0001
-Token: ' matters' (ID: 12850), Prob: 0.0001
-Token: ' Things' (ID: 20093), Prob: 0.0001
-Token: ' way' (ID: 1616), Prob: 0.0001
-Token: ' thing' (ID: 3166), Prob: 0.0001
-Token: ' stuff' (ID: 6259), Prob: 0.0000
-Token: ' events' (ID: 4357), Prob: 0.0000
-Token: 'things' (ID: 57074), Prob: 0.0000
-Token: ' items' (ID: 3589), Prob: 0.0000
-Token: ' affairs' (ID: 21978), Prob: 0.0000
-Token: 'Things' (ID: 41475), Prob: 0.0000
-Token: ' facts' (ID: 13064), Prob: 0.0000
-Token: ' factors' (ID: 9363), Prob: 0.0000
-Token: ' situations' (ID: 14740), Prob: 0.0000
-Token: ' nothing' (ID: 4302), Prob: 0.0000
-Token: ' people' (ID: 1251), Prob: 0.0000
-Token: ' times' (ID: 3039), Prob: 0.0000
-Token: ' except' (ID: 3650), Prob: 0.0000
-Token: ' anything' (ID: 4113), Prob: 0.0000
-Token: ' problems' (ID: 5322), Prob: 0.0000
-Token: ' issues' (ID: 4714), Prob: 0.0000
-Token: ' back' (ID: 1182), Prob: 0.0000
-Token: ' parts' (ID: 5479), Prob: 0.0000
+Token: ' child' (ID: 1682), Prob: 0.9805
+Token: ' kid' (ID: 10369), Prob: 0.0005
+Token: ' Child' (ID: 9391), Prob: 0.0003
+Token: ' children' (ID: 2841), Prob: 0.0003
+Token: ' parent' (ID: 2681), Prob: 0.0002
+Token: ' family' (ID: 2997), Prob: 0.0002
+Token: ' baby' (ID: 8770), Prob: 0.0002
+Token: ' young' (ID: 3908), Prob: 0.0001
+Token: ' youth' (ID: 12537), Prob: 0.0001
+Token: '(child' (ID: 17794), Prob: 0.0001
+Token: ' home' (ID: 2114), Prob: 0.0001
+Token: ' infant' (ID: 30283), Prob: 0.0000
+Token: '-child' (ID: 23484), Prob: 0.0000
+Token: ' one' (ID: 825), Prob: 0.0000
+Token: ' mother' (ID: 6554), Prob: 0.0000
+Token: '	child' (ID: 58391), Prob: 0.0000
+Token: ' toddler' (ID: 51235), Prob: 0.0000
+Token: ' student' (ID: 5458), Prob: 0.0000
+Token: ' adult' (ID: 6683), Prob: 0.0000
+Token: ' care' (ID: 2453), Prob: 0.0000
+Token: ' teen' (ID: 9378), Prob: 0.0000
+Token: ' girl' (ID: 3743), Prob: 0.0000
+Token: '_child' (ID: 17268), Prob: 0.0000
+Token: ' childhood' (ID: 19990), Prob: 0.0000
+Token: 'child' (ID: 3048), Prob: 0.0000
+Token: ' boy' (ID: 8171), Prob: 0.0000
+Token: ' CHILD' (ID: 72520), Prob: 0.0000
+Token: ' grand' (ID: 6662), Prob: 0.0000
+Token: ' daughter' (ID: 9803), Prob: 0.0000
+Token: ' kids' (ID: 6837), Prob: 0.0000
+Token: ' user' (ID: 1196), Prob: 0.0000
+Token: ' old' (ID: 2310), Prob: 0.0000
+Token: ' small' (ID: 2613), Prob: 0.0000
+Token: '.child' (ID: 17531), Prob: 0.0000
+Token: ' parents' (ID: 6562), Prob: 0.0000
+Token: ' father' (ID: 6981), Prob: 0.0000
+Token: ' word' (ID: 3409), Prob: 0.0000
+Token: ' car' (ID: 1803), Prob: 0.0000
+Token: ' younger' (ID: 14650), Prob: 0.0000
+Token: ' childcare' (ID: 79171), Prob: 0.0000
+Token: ' grow' (ID: 3063), Prob: 0.0000
+Token: ' son' (ID: 4438), Prob: 0.0000
+Token: ' new' (ID: 501), Prob: 0.0000
+Token: ' away' (ID: 3123), Prob: 0.0000
+Token: ' future' (ID: 3853), Prob: 0.0000
 
 == Ranked Concepts (Clusters) ==
-Rank 1 | Concept Score: 0.7500
-  Tokens: [' things', ' Things', ' thing', ' stuff', 'things', 'Things']
-Rank 2 | Concept Score: 0.0004
-  Tokens: [' everything', ' something', ' nothing', ' anything']
-Rank 3 | Concept Score: 0.0004
-  Tokens: [' ways', ' way']
-Rank 4 | Concept Score: 0.0001
-  Tokens: [' matters', ' affairs']
-Rank 5 | Concept Score: 0.0000
-  Tokens: [' events', ' situations']
-Rank 6 | Concept Score: 0.0000
-  Tokens: [' facts', ' factors']
-Rank 7 | Concept Score: 0.0000
-  Tokens: [' items', ' parts']
-Rank 8 | Concept Score: 0.0000
-  Tokens: [' people', ' times']
-Rank 9 | Concept Score: 0.0000
-  Tokens: [' problems', ' issues']
-Rank 10 | Concept Score: 0.0000
-  Tokens: [' except']
-Rank 11 | Concept Score: 0.0000
-  Tokens: [' back']
+Rank 1 | Centroid: ' child' | Score: 0.9805
+  Tokens: [' child', ' Child', ' children', '(child', '-child', '\tchild', '_child', 'child', ' CHILD', '.child']
+Rank 2 | Centroid: ' kid' | Score: 0.0005
+  Tokens: [' kid', ' kids']
+Rank 3 | Centroid: ' infant' | Score: 0.0002
+  Tokens: [' baby', ' infant', ' toddler']
+Rank 4 | Centroid: ' family' | Score: 0.0002
+  Tokens: [' family', ' home']
+Rank 5 | Centroid: ' parent' | Score: 0.0002
+  Tokens: [' parent', ' mother', ' parents', ' father']
+Rank 6 | Centroid: ' young' | Score: 0.0002
+  Tokens: [' young', ' youth', ' younger']
+Rank 7 | Centroid: ' one' | Score: 0.0000
+  Tokens: [' one', ' word']
+Rank 8 | Centroid: ' adult' | Score: 0.0000
+  Tokens: [' adult', ' teen']
+Rank 9 | Centroid: ' student' | Score: 0.0000
+  Tokens: [' student', ' user']
+Rank 10 | Centroid: ' girl' | Score: 0.0000
+  Tokens: [' girl', ' boy']
+Rank 11 | Centroid: ' new' | Score: 0.0000
+  Tokens: [' old', ' small', ' new']
+Rank 12 | Centroid: ' care' | Score: 0.0000
+  Tokens: [' care', ' car']
+Rank 13 | Centroid: ' childhood' | Score: 0.0000
+  Tokens: [' childhood', ' childcare']
+Rank 14 | Centroid: ' daughter' | Score: 0.0000
+  Tokens: [' daughter', ' son']
+Rank 15 | Centroid: ' grow' | Score: 0.0000
+  Tokens: [' grow', ' future']
+Rank 16 | Centroid: ' grand' | Score: 0.0000
+  Tokens: [' grand']
+Rank 17 | Centroid: ' away' | Score: 0.0000
+  Tokens: [' away']
 
-**Chosen Concept:** Rank 1 with score 0.7500
+**Chosen Concept:** Rank 1

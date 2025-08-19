@@ -1,100 +1,92 @@
 --- Step 73 Log ---
 
 == Filtered Candidates ==
-Token: ' way' (ID: 1616), Prob: 0.9570
-Token: ' ways' (ID: 5510), Prob: 0.0001
-Token: ' manner' (ID: 11566), Prob: 0.0001
-Token: ' Way' (ID: 12149), Prob: 0.0000
-Token: ' like' (ID: 1075), Prob: 0.0000
-Token: ' following' (ID: 2701), Prob: 0.0000
-Token: 'way' (ID: 3117), Prob: 0.0000
-Token: ' WAY' (ID: 24400), Prob: 0.0000
-Token: ' thing' (ID: 3166), Prob: 0.0000
-Token: ' day' (ID: 1899), Prob: 0.0000
-Token: '-way' (ID: 26798), Prob: 0.0000
-Token: ' case' (ID: 1142), Prob: 0.0000
-Token: ' situation' (ID: 6534), Prob: 0.0000
-Token: ' right' (ID: 1290), Prob: 0.0000
-Token: ' week' (ID: 2003), Prob: 0.0000
-Token: ' original' (ID: 4024), Prob: 0.0000
-Token: 'Way' (ID: 35054), Prob: 0.0000
-Token: '.way' (ID: 90888), Prob: 0.0000
-Token: ' year' (ID: 1042), Prob: 0.0000
-Token: '_way' (ID: 48936), Prob: 0.0000
-Token: ' kind' (ID: 3093), Prob: 0.0000
-Token: ' fashion' (ID: 11153), Prob: 0.0000
-Token: ' place' (ID: 1992), Prob: 0.0000
-Token: ' similar' (ID: 4428), Prob: 0.0000
-Token: ' whole' (ID: 4361), Prob: 0.0000
-Token: ' say' (ID: 1977), Prob: 0.0000
-Token: ' road' (ID: 5636), Prob: 0.0000
-Token: ' one' (ID: 825), Prob: 0.0000
-Token: ' nature' (ID: 6993), Prob: 0.0000
-Token: ' new' (ID: 501), Prob: 0.0000
-Token: ' usual' (ID: 13475), Prob: 0.0000
-Token: ' path' (ID: 1815), Prob: 0.0000
-Token: ' matter' (ID: 4925), Prob: 0.0000
-Token: ' exact' (ID: 4734), Prob: 0.0000
-Token: ' method' (ID: 1714), Prob: 0.0000
-Token: ' previous' (ID: 3681), Prob: 0.0000
-Token: ' world' (ID: 1879), Prob: 0.0000
-Token: ' straight' (ID: 7678), Prob: 0.0000
-Token: ' sam' (ID: 9962), Prob: 0.0000
-Token: ' war' (ID: 4116), Prob: 0.0000
-Token: ' constant' (ID: 6783), Prob: 0.0000
-Token: ' trade' (ID: 6559), Prob: 0.0000
-Token: ' façon' (ID: 75307), Prob: 0.0000
-Token: ' water' (ID: 3015), Prob: 0.0000
-Token: ' web' (ID: 3482), Prob: 0.0000
-Token: ' part' (ID: 949), Prob: 0.0000
-Token: ' money' (ID: 3220), Prob: 0.0000
-Token: ' background' (ID: 4004), Prob: 0.0000
-Token: ' time' (ID: 882), Prob: 0.0000
-Token: ' work' (ID: 975), Prob: 0.0000
-Token: ' current' (ID: 1482), Prob: 0.0000
-Token: ' better' (ID: 2664), Prob: 0.0000
-Token: ' direction' (ID: 5106), Prob: 0.0000
+Token: 'Let' (ID: 10061), Prob: 0.9570
+Token: 'Answer' (ID: 16141), Prob: 0.0027
+Token: 'Yes' (ID: 9454), Prob: 0.0014
+Token: 'Okay' (ID: 32313), Prob: 0.0005
+Token: 'Word' (ID: 10879), Prob: 0.0004
+Token: 'Wait' (ID: 14190), Prob: 0.0003
+Token: 'Last' (ID: 5842), Prob: 0.0003
+Token: 'Ret' (ID: 12020), Prob: 0.0002
+Token: 'Back' (ID: 3707), Prob: 0.0002
+Token: 'Maybe' (ID: 21390), Prob: 0.0002
+Token: 'Reply' (ID: 20841), Prob: 0.0002
+Token: 'Correct' (ID: 33092), Prob: 0.0002
+Token: 'Tweet' (ID: 48362), Prob: 0.0002
+Token: 'Get' (ID: 1949), Prob: 0.0002
+Token: 'Please' (ID: 5501), Prob: 0.0002
+Token: 'Based' (ID: 28715), Prob: 0.0002
+Token: 'One' (ID: 3966), Prob: 0.0001
+Token: 'Finally' (ID: 23949), Prob: 0.0001
+Token: 'Home' (ID: 7623), Prob: 0.0001
+Token: 'Every' (ID: 11510), Prob: 0.0001
+Token: 'Exactly' (ID: 65357), Prob: 0.0001
+Token: ' Let' (ID: 6771), Prob: 0.0001
+Token: 'Among' (ID: 33610), Prob: 0.0001
+Token: 'Set' (ID: 1649), Prob: 0.0001
+Token: 'Click' (ID: 2612), Prob: 0.0001
+Token: 'Ass' (ID: 5615), Prob: 0.0001
+Token: 'Help' (ID: 12689), Prob: 0.0001
+Token: 'Question' (ID: 14582), Prob: 0.0001
+Token: 'Given' (ID: 22043), Prob: 0.0001
+Token: 'Therefore' (ID: 54815), Prob: 0.0001
+Token: 'Explanation' (ID: 69769), Prob: 0.0001
+Token: 'According' (ID: 11190), Prob: 0.0001
+Token: 'Even' (ID: 13159), Prob: 0.0001
+Token: 'Perhaps' (ID: 31476), Prob: 0.0001
+Token: 'Tag' (ID: 5668), Prob: 0.0001
+Token: 'View' (ID: 851), Prob: 0.0001
+Token: 'Leave' (ID: 21833), Prob: 0.0001
+Token: 'Repeat' (ID: 38718), Prob: 0.0001
+Token: 'Today' (ID: 15364), Prob: 0.0001
+Token: 'Alright' (ID: 71486), Prob: 0.0001
+Token: 'Result' (ID: 2077), Prob: 0.0001
+Token: 'Count' (ID: 2507), Prob: 0.0001
+Token: 'End' (ID: 3727), Prob: 0.0001
 
 == Ranked Concepts (Clusters) ==
-Rank 1 | Concept Score: 0.9570
-  Tokens: [' way', ' ways', ' Way', 'way', ' WAY', '-way', 'Way', '.way', '_way']
-Rank 2 | Concept Score: 0.0001
-  Tokens: [' manner', ' fashion', ' façon']
-Rank 3 | Concept Score: 0.0000
-  Tokens: [' like', ' similar', ' say']
-Rank 4 | Concept Score: 0.0000
-  Tokens: [' day', ' week', ' year']
-Rank 5 | Concept Score: 0.0000
-  Tokens: [' case', ' situation']
-Rank 6 | Concept Score: 0.0000
-  Tokens: [' thing', ' whole']
-Rank 7 | Concept Score: 0.0000
-  Tokens: [' following']
-Rank 8 | Concept Score: 0.0000
-  Tokens: [' right', ' one', ' new', ' better']
-Rank 9 | Concept Score: 0.0000
-  Tokens: [' original', ' usual', ' previous', ' current']
-Rank 10 | Concept Score: 0.0000
-  Tokens: [' kind', ' nature']
-Rank 11 | Concept Score: 0.0000
-  Tokens: [' war', ' trade', ' water', ' web', ' work']
-Rank 12 | Concept Score: 0.0000
-  Tokens: [' place', ' part']
-Rank 13 | Concept Score: 0.0000
-  Tokens: [' exact', ' straight']
-Rank 14 | Concept Score: 0.0000
-  Tokens: [' matter', ' money']
-Rank 15 | Concept Score: 0.0000
-  Tokens: [' path', ' direction']
-Rank 16 | Concept Score: 0.0000
-  Tokens: [' road']
-Rank 17 | Concept Score: 0.0000
-  Tokens: [' world', ' time']
-Rank 18 | Concept Score: 0.0000
-  Tokens: [' constant', ' background']
-Rank 19 | Concept Score: 0.0000
-  Tokens: [' method']
-Rank 20 | Concept Score: 0.0000
-  Tokens: [' sam']
+Rank 1 | Centroid: 'Let' | Score: 0.9570
+  Tokens: ['Let', ' Let']
+Rank 2 | Centroid: 'Answer' | Score: 0.0029
+  Tokens: ['Answer', 'Question', 'Explanation']
+Rank 3 | Centroid: 'Okay' | Score: 0.0019
+  Tokens: ['Yes', 'Okay', 'Alright']
+Rank 4 | Centroid: 'Wait' | Score: 0.0006
+  Tokens: ['Wait', 'Ret']
+Rank 5 | Centroid: 'Word' | Score: 0.0004
+  Tokens: ['Word']
+Rank 6 | Centroid: 'Last' | Score: 0.0004
+  Tokens: ['Last', 'Finally']
+Rank 7 | Centroid: 'According' | Score: 0.0004
+  Tokens: ['Based', 'Given', 'Therefore', 'According']
+Rank 8 | Centroid: 'Get' | Score: 0.0004
+  Tokens: ['Get', 'Set', 'View', 'Count']
+Rank 9 | Centroid: 'Every' | Score: 0.0003
+  Tokens: ['One', 'Every', 'Even']
+Rank 10 | Centroid: 'Correct' | Score: 0.0003
+  Tokens: ['Correct', 'Exactly']
+Rank 11 | Centroid: 'Maybe' | Score: 0.0003
+  Tokens: ['Maybe', 'Perhaps']
+Rank 12 | Centroid: 'Reply' | Score: 0.0003
+  Tokens: ['Reply', 'Repeat']
+Rank 13 | Centroid: 'Tweet' | Score: 0.0002
+  Tokens: ['Tweet', 'Tag']
+Rank 14 | Centroid: 'Back' | Score: 0.0002
+  Tokens: ['Back']
+Rank 15 | Centroid: 'Home' | Score: 0.0002
+  Tokens: ['Home', 'Help']
+Rank 16 | Centroid: 'Among' | Score: 0.0002
+  Tokens: ['Among', 'Today']
+Rank 17 | Centroid: 'Please' | Score: 0.0002
+  Tokens: ['Please']
+Rank 18 | Centroid: 'Click' | Score: 0.0001
+  Tokens: ['Click', 'Leave']
+Rank 19 | Centroid: 'Ass' | Score: 0.0001
+  Tokens: ['Ass']
+Rank 20 | Centroid: 'End' | Score: 0.0001
+  Tokens: ['End']
+Rank 21 | Centroid: 'Result' | Score: 0.0001
+  Tokens: ['Result']
 
-**Chosen Concept:** Rank 1 with score 0.9570
+**Chosen Concept:** Rank 1

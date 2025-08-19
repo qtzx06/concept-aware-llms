@@ -1,0 +1,85 @@
+--- Step 47 Log ---
+
+== Filtered Candidates ==
+Token: ' sense' (ID: 5530), Prob: 1.0000
+Token: ' senses' (ID: 37107), Prob: 0.0001
+Token: ' sentido' (ID: 64384), Prob: 0.0000
+Token: ' sens' (ID: 6097), Prob: 0.0000
+Token: ' Sense' (ID: 46229), Prob: 0.0000
+Token: ' meaning' (ID: 7290), Prob: 0.0000
+Token: ' great' (ID: 2244), Prob: 0.0000
+Token: ' sensory' (ID: 47969), Prob: 0.0000
+Token: ' good' (ID: 1661), Prob: 0.0000
+Token: ' sound' (ID: 5112), Prob: 0.0000
+Token: ' sen' (ID: 6124), Prob: 0.0000
+Token: ' sensible' (ID: 37661), Prob: 0.0000
+Token: ' something' (ID: 2494), Prob: 0.0000
+Token: ' logical' (ID: 19819), Prob: 0.0000
+Token: ' sufficient' (ID: 14016), Prob: 0.0000
+Token: ' seem' (ID: 2803), Prob: 0.0000
+Token: ' much' (ID: 1753), Prob: 0.0000
+Token: ' full' (ID: 2480), Prob: 0.0000
+Token: ' complete' (ID: 4583), Prob: 0.0000
+Token: ' significant' (ID: 5089), Prob: 0.0000
+Token: ' reasonable' (ID: 13276), Prob: 0.0000
+Token: ' little' (ID: 2632), Prob: 0.0000
+Token: ' yes' (ID: 9834), Prob: 0.0000
+Token: ' somewhat' (ID: 14400), Prob: 0.0000
+Token: 'sense' (ID: 97835), Prob: 0.0000
+Token: ' enough' (ID: 3322), Prob: 0.0000
+Token: ' perfect' (ID: 4727), Prob: 0.0000
+Token: ' sure' (ID: 2704), Prob: 0.0000
+Token: ' greater' (ID: 7046), Prob: 0.0000
+Token: ' direct' (ID: 2118), Prob: 0.0000
+Token: ' use' (ID: 990), Prob: 0.0000
+Token: ' meaningful' (ID: 22414), Prob: 0.0000
+Token: 'Sense' (ID: 61009), Prob: 0.0000
+Token: ' make' (ID: 1281), Prob: 0.0000
+Token: ' simple' (ID: 4285), Prob: 0.0000
+Token: ' scientific' (ID: 12344), Prob: 0.0000
+Token: ' significance' (ID: 25361), Prob: 0.0000
+Token: ' feel' (ID: 2666), Prob: 0.0000
+Token: ' science' (ID: 8038), Prob: 0.0000
+Token: ' absolutely' (ID: 10875), Prob: 0.0000
+Token: ' respect' (ID: 5091), Prob: 0.0000
+Token: ' sponge' (ID: 68348), Prob: 0.0000
+Token: ' nonsense' (ID: 40802), Prob: 0.0000
+Token: ' economic' (ID: 6955), Prob: 0.0000
+Token: ' sentence' (ID: 11652), Prob: 0.0000
+Token: ' total' (ID: 2790), Prob: 0.0000
+Token: ' sensing' (ID: 59099), Prob: 0.0000
+Token: ' less' (ID: 2686), Prob: 0.0000
+
+== Ranked Concepts (Clusters) ==
+Rank 1 | Centroid: ' Sense' | Score: 1.0000
+  Tokens: [' sense', ' senses', ' sentido', ' Sense', 'sense', 'Sense']
+Rank 2 | Centroid: ' sensing' | Score: 0.0000
+  Tokens: [' sens', ' sensory', ' sen', ' sensing']
+Rank 3 | Centroid: ' significance' | Score: 0.0000
+  Tokens: [' meaning', ' significant', ' meaningful', ' significance']
+Rank 4 | Centroid: ' greater' | Score: 0.0000
+  Tokens: [' great', ' much', ' little', ' greater', ' less']
+Rank 5 | Centroid: ' seem' | Score: 0.0000
+  Tokens: [' sound', ' seem', ' feel']
+Rank 6 | Centroid: ' sensible' | Score: 0.0000
+  Tokens: [' sensible', ' reasonable']
+Rank 7 | Centroid: ' complete' | Score: 0.0000
+  Tokens: [' full', ' complete', ' perfect', ' direct', ' simple', ' total']
+Rank 8 | Centroid: ' good' | Score: 0.0000
+  Tokens: [' good']
+Rank 9 | Centroid: ' something' | Score: 0.0000
+  Tokens: [' something', ' somewhat']
+Rank 10 | Centroid: ' economic' | Score: 0.0000
+  Tokens: [' logical', ' nonsense', ' economic']
+Rank 11 | Centroid: ' sufficient' | Score: 0.0000
+  Tokens: [' sufficient', ' enough']
+Rank 12 | Centroid: ' sure' | Score: 0.0000
+  Tokens: [' yes', ' sure', ' absolutely']
+Rank 13 | Centroid: ' use' | Score: 0.0000
+  Tokens: [' use', ' make', ' respect']
+Rank 14 | Centroid: ' scientific' | Score: 0.0000
+  Tokens: [' scientific', ' science']
+Rank 15 | Centroid: ' sponge' | Score: 0.0000
+  Tokens: [' sponge', ' sentence']
+
+**Chosen Concept:** Rank 1

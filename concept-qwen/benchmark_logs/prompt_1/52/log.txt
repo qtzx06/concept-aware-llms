@@ -1,0 +1,149 @@
+--- Step 52 Log ---
+
+== Filtered Candidates ==
+Token: ' metaph' (ID: 30668), Prob: 0.3223
+Token: ' sensory' (ID: 47969), Prob: 0.2217
+Token: ' words' (ID: 4244), Prob: 0.1348
+Token: ' strong' (ID: 3746), Prob: 0.1187
+Token: ' descriptive' (ID: 52844), Prob: 0.0437
+Token: ' simple' (ID: 4285), Prob: 0.0161
+Token: ' repetition' (ID: 53415), Prob: 0.0076
+Token: ' metaphor' (ID: 45350), Prob: 0.0067
+Token: ' synonyms' (ID: 85406), Prob: 0.0046
+Token: ' sim' (ID: 1643), Prob: 0.0041
+Token: ' short' (ID: 2805), Prob: 0.0041
+Token: ' contr' (ID: 6027), Prob: 0.0036
+Token: ' complex' (ID: 6351), Prob: 0.0032
+Token: ' phrases' (ID: 31747), Prob: 0.0032
+Token: ' poetic' (ID: 75434), Prob: 0.0032
+Token: ' personal' (ID: 4345), Prob: 0.0030
+Token: ' concrete' (ID: 14175), Prob: 0.0022
+Token: ' active' (ID: 4541), Prob: 0.0020
+Token: ' rhetorical' (ID: 85968), Prob: 0.0019
+Token: ' emojis' (ID: 99066), Prob: 0.0019
+Token: ' clich' (ID: 62592), Prob: 0.0014
+Token: ' action' (ID: 1917), Prob: 0.0012
+Token: ' actions' (ID: 6168), Prob: 0.0010
+Token: ' common' (ID: 4185), Prob: 0.0010
+Token: ' natural' (ID: 5810), Prob: 0.0009
+Token: ' positive' (ID: 6785), Prob: 0.0008
+Token: ' physical' (ID: 6961), Prob: 0.0008
+Token: ' expressive' (ID: 77123), Prob: 0.0008
+Token: ' emotional' (ID: 14269), Prob: 0.0007
+Token: ' powerful' (ID: 7988), Prob: 0.0006
+Token: ' rel' (ID: 1351), Prob: 0.0006
+Token: ' soft' (ID: 8413), Prob: 0.0006
+Token: ' concise' (ID: 63594), Prob: 0.0006
+Token: ' collo' (ID: 80948), Prob: 0.0006
+Token: ' past' (ID: 3267), Prob: 0.0005
+Token: ' technical' (ID: 10916), Prob: 0.0005
+Token: ' universal' (ID: 20178), Prob: 0.0004
+Token: ' analog' (ID: 23400), Prob: 0.0004
+Token: ' imagery' (ID: 40445), Prob: 0.0004
+Token: ' emotions' (ID: 21261), Prob: 0.0004
+Token: ' verbs' (ID: 61846), Prob: 0.0003
+Token: ' direct' (ID: 2118), Prob: 0.0003
+Token: ' different' (ID: 2155), Prob: 0.0003
+Token: ' literary' (ID: 31365), Prob: 0.0003
+Token: ' language' (ID: 4128), Prob: 0.0003
+Token: ' dynamic' (ID: 8741), Prob: 0.0003
+Token: ' passive' (ID: 27879), Prob: 0.0003
+Token: ' word' (ID: 3409), Prob: 0.0002
+Token: ' appropriate' (ID: 8311), Prob: 0.0002
+Token: ' contrasting' (ID: 73955), Prob: 0.0002
+Token: ' rhyme' (ID: 96934), Prob: 0.0002
+Token: ' imper' (ID: 16772), Prob: 0.0002
+Token: ' long' (ID: 1293), Prob: 0.0002
+Token: ' symbols' (ID: 17738), Prob: 0.0002
+Token: ' everyday' (ID: 17778), Prob: 0.0002
+Token: ' proper' (ID: 6169), Prob: 0.0002
+Token: ' vivid' (ID: 42020), Prob: 0.0002
+Token: ' transition' (ID: 9142), Prob: 0.0002
+Token: ' impactful' (ID: 97890), Prob: 0.0002
+Token: ' varied' (ID: 27730), Prob: 0.0002
+Token: ' senses' (ID: 37107), Prob: 0.0002
+Token: ' first' (ID: 1156), Prob: 0.0002
+Token: ' casual' (ID: 16334), Prob: 0.0002
+Token: ' terms' (ID: 3793), Prob: 0.0002
+Token: ' general' (ID: 4586), Prob: 0.0002
+Token: ' negative' (ID: 8225), Prob: 0.0002
+Token: ' examples' (ID: 10295), Prob: 0.0002
+Token: ' symbolic' (ID: 35296), Prob: 0.0002
+Token: ' descriptors' (ID: 47517), Prob: 0.0002
+Token: ' multiple' (ID: 5248), Prob: 0.0001
+Token: ' nature' (ID: 6993), Prob: 0.0001
+Token: ' collective' (ID: 21750), Prob: 0.0001
+Token: ' inclusive' (ID: 28308), Prob: 0.0001
+Token: ' person' (ID: 1697), Prob: 0.0001
+Token: ' emot' (ID: 10172), Prob: 0.0001
+Token: ' romantic' (ID: 23467), Prob: 0.0001
+Token: ' free' (ID: 1910), Prob: 0.0001
+Token: ' intense' (ID: 18894), Prob: 0.0001
+Token: ' excl' (ID: 80284), Prob: 0.0001
+Token: ' paren' (ID: 37940), Prob: 0.0001
+Token: ' sensual' (ID: 59617), Prob: 0.0001
+Token: ' specific' (ID: 3151), Prob: 0.0001
+Token: ' body' (ID: 2487), Prob: 0.0001
+Token: ' ple' (ID: 7100), Prob: 0.0001
+Token: ' possess' (ID: 15218), Prob: 0.0001
+Token: ' colorful' (ID: 33866), Prob: 0.0001
+Token: ' figur' (ID: 55655), Prob: 0.0001
+Token: ' quant' (ID: 10272), Prob: 0.0001
+
+== Ranked Concepts (Clusters) ==
+Rank 1 | Centroid: ' metaphor' | Score: 0.3340
+  Tokens: [' metaph', ' metaphor', ' sim', ' analog', ' figur']
+Rank 2 | Centroid: ' sensory' | Score: 0.2217
+  Tokens: [' sensory', ' senses', ' sensual']
+Rank 3 | Centroid: ' words' | Score: 0.1357
+  Tokens: [' words', ' language', ' word', ' terms']
+Rank 4 | Centroid: ' powerful' | Score: 0.1230
+  Tokens: [' strong', ' complex', ' powerful', ' dynamic', ' intense']
+Rank 5 | Centroid: ' descriptive' | Score: 0.0439
+  Tokens: [' descriptive', ' descriptors']
+Rank 6 | Centroid: ' universal' | Score: 0.0178
+  Tokens: [' simple', ' common', ' universal', ' general', ' specific']
+Rank 7 | Centroid: ' verbs' | Score: 0.0103
+  Tokens: [' synonyms', ' phrases', ' emojis', ' verbs', ' rhyme']
+Rank 8 | Centroid: ' contrasting' | Score: 0.0080
+  Tokens: [' repetition', ' contrasting', ' varied']
+Rank 9 | Centroid: ' literary' | Score: 0.0055
+  Tokens: [' poetic', ' rhetorical', ' literary', ' romantic']
+Rank 10 | Centroid: ' short' | Score: 0.0049
+  Tokens: [' short', ' soft', ' long']
+Rank 11 | Centroid: ' quant' | Score: 0.0045
+  Tokens: [' contr', ' past', ' imper', ' quant']
+Rank 12 | Centroid: ' person' | Score: 0.0032
+  Tokens: [' personal', ' person', ' body']
+Rank 13 | Centroid: ' concrete' | Score: 0.0023
+  Tokens: [' concrete', ' collective']
+Rank 14 | Centroid: ' active' | Score: 0.0023
+  Tokens: [' active', ' passive']
+Rank 15 | Centroid: ' action' | Score: 0.0022
+  Tokens: [' action', ' actions']
+Rank 16 | Centroid: ' clich' | Score: 0.0020
+  Tokens: [' clich', ' collo']
+Rank 17 | Centroid: ' vivid' | Score: 0.0018
+  Tokens: [' expressive', ' concise', ' vivid', ' impactful', ' colorful']
+Rank 18 | Centroid: ' natural' | Score: 0.0018
+  Tokens: [' natural', ' rel', ' transition', ' nature']
+Rank 19 | Centroid: ' emotional' | Score: 0.0012
+  Tokens: [' emotional', ' emotions', ' emot']
+Rank 20 | Centroid: ' positive' | Score: 0.0009
+  Tokens: [' positive', ' negative']
+Rank 21 | Centroid: ' appropriate' | Score: 0.0009
+  Tokens: [' different', ' appropriate', ' proper', ' multiple']
+Rank 22 | Centroid: ' casual' | Score: 0.0009
+  Tokens: [' technical', ' everyday', ' casual']
+Rank 23 | Centroid: ' symbolic' | Score: 0.0008
+  Tokens: [' imagery', ' symbols', ' symbolic']
+Rank 24 | Centroid: ' physical' | Score: 0.0008
+  Tokens: [' physical']
+Rank 25 | Centroid: ' first' | Score: 0.0006
+  Tokens: [' direct', ' first', ' free']
+Rank 26 | Centroid: ' possess' | Score: 0.0006
+  Tokens: [' inclusive', ' excl', ' paren', ' ple', ' possess']
+Rank 27 | Centroid: ' examples' | Score: 0.0002
+  Tokens: [' examples']
+
+**Chosen Concept:** Rank 1

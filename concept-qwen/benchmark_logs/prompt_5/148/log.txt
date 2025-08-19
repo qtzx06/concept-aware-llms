@@ -1,115 +1,120 @@
 --- Step 148 Log ---
 
 == Filtered Candidates ==
-Token: ' fly' (ID: 11466), Prob: 1.0000
-Token: ' travel' (ID: 5821), Prob: 0.0001
-Token: ' flight' (ID: 10971), Prob: 0.0001
-Token: ' flying' (ID: 16307), Prob: 0.0001
-Token: ' wait' (ID: 3783), Prob: 0.0000
-Token: ' Fly' (ID: 20182), Prob: 0.0000
-Token: ' take' (ID: 1896), Prob: 0.0000
-Token: 'fly' (ID: 21642), Prob: 0.0000
-Token: ' stay' (ID: 4717), Prob: 0.0000
-Token: ' always' (ID: 2677), Prob: 0.0000
-Token: ' make' (ID: 1281), Prob: 0.0000
-Token: ' flew' (ID: 31022), Prob: 0.0000
+Token: ' vary' (ID: 13289), Prob: 1.0000
+Token: ' differ' (ID: 1745), Prob: 0.0000
+Token: ' varies' (ID: 34227), Prob: 0.0000
+Token: ' vari' (ID: 4151), Prob: 0.0000
+Token: ' varied' (ID: 27730), Prob: 0.0000
+Token: 'vary' (ID: 82976), Prob: 0.0000
+Token: ' variety' (ID: 8045), Prob: 0.0000
+Token: ' involve' (ID: 21058), Prob: 0.0000
+Token: ' var' (ID: 762), Prob: 0.0000
+Token: ' include' (ID: 2924), Prob: 0.0000
+Token: ' varying' (ID: 28765), Prob: 0.0000
 Token: ' also' (ID: 1083), Prob: 0.0000
-Token: ' find' (ID: 1477), Prob: 0.0000
-Token: ' choose' (ID: 5157), Prob: 0.0000
-Token: ' follow' (ID: 1795), Prob: 0.0000
-Token: ' flies' (ID: 37104), Prob: 0.0000
-Token: ' pay' (ID: 2291), Prob: 0.0000
-Token: ' leave' (ID: 5274), Prob: 0.0000
-Token: ' spend' (ID: 8329), Prob: 0.0000
-Token: ' fill' (ID: 5155), Prob: 0.0000
+Token: ' refer' (ID: 8300), Prob: 0.0000
+Token: ' variation' (ID: 22990), Prob: 0.0000
+Token: ' diver' (ID: 36341), Prob: 0.0000
+Token: ' range' (ID: 2088), Prob: 0.0000
+Token: ' change' (ID: 2297), Prob: 0.0000
+Token: ' variable' (ID: 3890), Prob: 0.0000
+Token: ' slightly' (ID: 10078), Prob: 0.0000
+Token: ' variant' (ID: 11424), Prob: 0.0000
+Token: ' variance' (ID: 32273), Prob: 0.0000
+Token: ' variations' (ID: 26244), Prob: 0.0000
+Token: ' relate' (ID: 28143), Prob: 0.0000
+Token: ' arise' (ID: 30789), Prob: 0.0000
+Token: ' appear' (ID: 4994), Prob: 0.0000
+Token: ' verify' (ID: 10146), Prob: 0.0000
+Token: ' depend' (ID: 6761), Prob: 0.0000
 Token: ' arrive' (ID: 17331), Prob: 0.0000
-Token: ' lie' (ID: 10246), Prob: 0.0000
-Token: ' drive' (ID: 6541), Prob: 0.0000
-Token: ' rely' (ID: 17188), Prob: 0.0000
-Token: ' float' (ID: 2224), Prob: 0.0000
-Token: ' fall' (ID: 4399), Prob: 0.0000
-Token: ' exactly' (ID: 6896), Prob: 0.0000
-Token: ' face' (ID: 3579), Prob: 0.0000
-Token: ' land' (ID: 4268), Prob: 0.0000
-Token: ' align' (ID: 5285), Prob: 0.0000
-Token: ' use' (ID: 990), Prob: 0.0000
-Token: ' perform' (ID: 2736), Prob: 0.0000
-Token: ' flip' (ID: 18287), Prob: 0.0000
-Token: ' directly' (ID: 5961), Prob: 0.0000
-Token: ' immediately' (ID: 7069), Prob: 0.0000
-Token: ' return' (ID: 470), Prob: 0.0000
-Token: ' feed' (ID: 5395), Prob: 0.0000
-Token: ' finally' (ID: 5499), Prob: 0.0000
-Token: ' ride' (ID: 11877), Prob: 0.0000
-Token: ' walk' (ID: 4227), Prob: 0.0000
-Token: ' carry' (ID: 6777), Prob: 0.0000
-Token: ' add' (ID: 912), Prob: 0.0000
-Token: ' run' (ID: 1598), Prob: 0.0000
-Token: ' meet' (ID: 3367), Prob: 0.0000
-Token: ' complete' (ID: 4583), Prob: 0.0000
-Token: ' jump' (ID: 7784), Prob: 0.0000
-Token: ' lay' (ID: 10962), Prob: 0.0000
-Token: ' ensure' (ID: 5978), Prob: 0.0000
-Token: ' flee' (ID: 27400), Prob: 0.0000
-Token: ' move' (ID: 3271), Prob: 0.0000
-Token: ' fulfill' (ID: 20423), Prob: 0.0000
-Token: ' fetch' (ID: 7807), Prob: 0.0000
-Token: ' ask' (ID: 2548), Prob: 0.0000
-Token: ' fix' (ID: 5046), Prob: 0.0000
+Token: ' avoid' (ID: 5648), Prob: 0.0000
+Token: ' various' (ID: 5257), Prob: 0.0000
+Token: ' exceed' (ID: 12488), Prob: 0.0000
 Token: ' remain' (ID: 7146), Prob: 0.0000
-Token: ' adjust' (ID: 7500), Prob: 0.0000
-Token: ' create' (ID: 1855), Prob: 0.0000
-Token: ' send' (ID: 3624), Prob: 0.0000
-Token: ' connect' (ID: 4564), Prob: 0.0000
+Token: ' take' (ID: 1896), Prob: 0.0000
+Token: ' use' (ID: 990), Prob: 0.0000
 Token: ' specify' (ID: 13837), Prob: 0.0000
-Token: ' get' (ID: 633), Prob: 0.0000
+Token: ' Vari' (ID: 27868), Prob: 0.0000
+Token: ' require' (ID: 1373), Prob: 0.0000
+Token: ' still' (ID: 2058), Prob: 0.0000
+Token: ' stay' (ID: 4717), Prob: 0.0000
+Token: ' adjust' (ID: 7500), Prob: 0.0000
+Token: ' never' (ID: 2581), Prob: 0.0000
+Token: ' look' (ID: 1401), Prob: 0.0000
+Token: ' consist' (ID: 6685), Prob: 0.0000
+Token: ' show' (ID: 1473), Prob: 0.0000
+Token: ' say' (ID: 1977), Prob: 0.0000
+Token: ' add' (ID: 912), Prob: 0.0000
+Token: '.var' (ID: 19526), Prob: 0.0000
+Token: ' apply' (ID: 3796), Prob: 0.0000
+Token: ' share' (ID: 4332), Prob: 0.0000
+Token: ' modify' (ID: 5602), Prob: 0.0000
+Token: ' rely' (ID: 17188), Prob: 0.0000
+Token: ' point' (ID: 1459), Prob: 0.0000
+Token: ' rotate' (ID: 16919), Prob: 0.0000
+Token: ' leave' (ID: 5274), Prob: 0.0000
+Token: ' potentially' (ID: 13581), Prob: 0.0000
+Token: ' give' (ID: 2968), Prob: 0.0000
+Token: ' provide' (ID: 3410), Prob: 0.0000
+Token: ' bar' (ID: 3619), Prob: 0.0000
+Token: ' lie' (ID: 10246), Prob: 0.0000
+Token: ' occur' (ID: 12170), Prob: 0.0000
+Token: ' alternate' (ID: 24609), Prob: 0.0000
+Token: ' exist' (ID: 3000), Prob: 0.0000
+Token: ' differently' (ID: 21303), Prob: 0.0000
+Token: ' alter' (ID: 11596), Prob: 0.0000
+Token: ' start' (ID: 1191), Prob: 0.0000
+Token: ' yield' (ID: 7540), Prob: 0.0000
+Token: ' indicate' (ID: 13216), Prob: 0.0000
+Token: ' similarly' (ID: 29193), Prob: 0.0000
+Token: ' violate' (ID: 40487), Prob: 0.0000
+Token: ' mean' (ID: 3076), Prob: 0.0000
+Token: ' mention' (ID: 6286), Prob: 0.0000
+Token: ' break' (ID: 1438), Prob: 0.0000
+Token: ' either' (ID: 2987), Prob: 0.0000
+Token: ' fly' (ID: 11466), Prob: 0.0000
+Token: ' represent' (ID: 4009), Prob: 0.0000
+Token: ' round' (ID: 4778), Prob: 0.0000
+Token: ' follow' (ID: 1795), Prob: 0.0000
+Token: ' suggest' (ID: 4190), Prob: 0.0000
+Token: ' contain' (ID: 6644), Prob: 0.0000
 
 == Ranked Concepts (Clusters) ==
-Rank 1 | Concept Score: 1.0000
-  Tokens: [' fly', ' flight', ' flying', ' Fly', 'fly', ' flew', ' flies']
-Rank 2 | Concept Score: 0.0001
-  Tokens: [' take', ' make', ' find', ' use', ' create', ' get']
-Rank 3 | Concept Score: 0.0001
-  Tokens: [' travel', ' drive', ' ride', ' walk', ' jump']
-Rank 4 | Concept Score: 0.0001
-  Tokens: [' stay', ' leave', ' spend', ' remain']
-Rank 5 | Concept Score: 0.0001
-  Tokens: [' wait', ' follow']
-Rank 6 | Concept Score: 0.0000
-  Tokens: [' always', ' also', ' finally']
-Rank 7 | Concept Score: 0.0000
-  Tokens: [' choose', ' ensure', ' ask', ' adjust', ' specify']
-Rank 8 | Concept Score: 0.0000
-  Tokens: [' pay', ' feed', ' carry', ' send']
-Rank 9 | Concept Score: 0.0000
-  Tokens: [' lie', ' fall', ' lay']
-Rank 10 | Concept Score: 0.0000
-  Tokens: [' exactly', ' directly', ' immediately']
-Rank 11 | Concept Score: 0.0000
-  Tokens: [' fill', ' fetch', ' fix']
-Rank 12 | Concept Score: 0.0000
-  Tokens: [' perform', ' add', ' connect']
-Rank 13 | Concept Score: 0.0000
-  Tokens: [' float', ' flip']
-Rank 14 | Concept Score: 0.0000
-  Tokens: [' arrive']
-Rank 15 | Concept Score: 0.0000
-  Tokens: [' run', ' move']
-Rank 16 | Concept Score: 0.0000
-  Tokens: [' rely']
-Rank 17 | Concept Score: 0.0000
-  Tokens: [' meet', ' fulfill']
-Rank 18 | Concept Score: 0.0000
-  Tokens: [' face']
-Rank 19 | Concept Score: 0.0000
-  Tokens: [' land']
-Rank 20 | Concept Score: 0.0000
-  Tokens: [' align']
-Rank 21 | Concept Score: 0.0000
-  Tokens: [' return']
-Rank 22 | Concept Score: 0.0000
-  Tokens: [' complete']
-Rank 23 | Concept Score: 0.0000
-  Tokens: [' flee']
+Rank 1 | Centroid: ' vary' | Score: 1.0000
+  Tokens: [' vary', ' varies', ' varied', 'vary', ' variety', ' varying', ' various']
+Rank 2 | Centroid: ' differ' | Score: 0.0000
+  Tokens: [' differ']
+Rank 3 | Centroid: ' Vari' | Score: 0.0000
+  Tokens: [' vari', ' var', ' variation', ' variable', ' variant', ' variance', ' variations', ' Vari', '.var']
+Rank 4 | Centroid: ' rely' | Score: 0.0000
+  Tokens: [' involve', ' include', ' refer', ' relate', ' depend', ' require', ' consist', ' rely', ' contain']
+Rank 5 | Centroid: ' arise' | Score: 0.0000
+  Tokens: [' arise', ' appear', ' arrive', ' exceed', ' occur', ' violate']
+Rank 6 | Centroid: ' also' | Score: 0.0000
+  Tokens: [' also', ' still', ' never', ' potentially', ' either']
+Rank 7 | Centroid: ' alter' | Score: 0.0000
+  Tokens: [' change', ' adjust', ' add', ' modify', ' alter']
+Rank 8 | Centroid: ' diver' | Score: 0.0000
+  Tokens: [' diver', ' alternate']
+Rank 9 | Centroid: ' provide' | Score: 0.0000
+  Tokens: [' verify', ' avoid', ' specify', ' apply', ' rotate', ' give', ' provide']
+Rank 10 | Centroid: ' range' | Score: 0.0000
+  Tokens: [' range']
+Rank 11 | Centroid: ' differently' | Score: 0.0000
+  Tokens: [' slightly', ' differently', ' similarly']
+Rank 12 | Centroid: ' take' | Score: 0.0000
+  Tokens: [' take', ' use', ' look', ' share', ' start', ' follow']
+Rank 13 | Centroid: ' remain' | Score: 0.0000
+  Tokens: [' remain', ' stay']
+Rank 14 | Centroid: ' indicate' | Score: 0.0000
+  Tokens: [' show', ' say', ' indicate', ' mention', ' represent', ' suggest']
+Rank 15 | Centroid: ' yield' | Score: 0.0000
+  Tokens: [' leave', ' yield', ' break', ' fly', ' round']
+Rank 16 | Centroid: ' bar' | Score: 0.0000
+  Tokens: [' point', ' bar', ' mean']
+Rank 17 | Centroid: ' lie' | Score: 0.0000
+  Tokens: [' lie', ' exist']
 
-**Chosen Concept:** Rank 1 with score 1.0000
+**Chosen Concept:** Rank 1

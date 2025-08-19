@@ -1,0 +1,136 @@
+--- Step 98 Log ---
+
+== Filtered Candidates ==
+Token: ' family' (ID: 2997), Prob: 1.0000
+Token: ' Family' (ID: 12238), Prob: 0.0000
+Token: ' home' (ID: 2114), Prob: 0.0000
+Token: ' category' (ID: 5582), Prob: 0.0000
+Token: ' country' (ID: 3146), Prob: 0.0000
+Token: 'family' (ID: 18984), Prob: 0.0000
+Token: ' families' (ID: 8521), Prob: 0.0000
+Token: ' familia' (ID: 50947), Prob: 0.0000
+Token: ' child' (ID: 1682), Prob: 0.0000
+Token: ' factory' (ID: 8633), Prob: 0.0000
+Token: ' company' (ID: 2813), Prob: 0.0000
+Token: ' city' (ID: 3283), Prob: 0.0000
+Token: ' room' (ID: 3054), Prob: 0.0000
+Token: ' future' (ID: 3853), Prob: 0.0000
+Token: ' language' (ID: 4128), Prob: 0.0000
+Token: ' mother' (ID: 6554), Prob: 0.0000
+Token: ' FAMILY' (ID: 87469), Prob: 0.0000
+Token: ' system' (ID: 1849), Prob: 0.0000
+Token: ' children' (ID: 2841), Prob: 0.0000
+Token: ' field' (ID: 2070), Prob: 0.0000
+Token: 'Family' (ID: 15192), Prob: 0.0000
+Token: ' way' (ID: 1616), Prob: 0.0000
+Token: ' facility' (ID: 12481), Prob: 0.0000
+Token: ' class' (ID: 536), Prob: 0.0000
+Token: ' name' (ID: 829), Prob: 0.0000
+Token: ' year' (ID: 1042), Prob: 0.0000
+Token: ' parent' (ID: 2681), Prob: 0.0000
+Token: ' kitchen' (ID: 9780), Prob: 0.0000
+Token: ' familial' (ID: 97204), Prob: 0.0000
+Token: ' fam' (ID: 2091), Prob: 0.0000
+Token: ' space' (ID: 3550), Prob: 0.0000
+Token: ' following' (ID: 2701), Prob: 0.0000
+Token: ' world' (ID: 1879), Prob: 0.0000
+Token: ' first' (ID: 1156), Prob: 0.0000
+Token: ' farm' (ID: 8785), Prob: 0.0000
+Token: ' father' (ID: 6981), Prob: 0.0000
+Token: ' baby' (ID: 8770), Prob: 0.0000
+Token: '_family' (ID: 26823), Prob: 0.0000
+Token: ' famil' (ID: 43426), Prob: 0.0000
+Token: ' house' (ID: 3753), Prob: 0.0000
+Token: ' community' (ID: 3942), Prob: 0.0000
+Token: ' journey' (ID: 11618), Prob: 0.0000
+Token: ' sky' (ID: 12884), Prob: 0.0000
+Token: ' day' (ID: 1899), Prob: 0.0000
+Token: ' environment' (ID: 4573), Prob: 0.0000
+Token: ' folder' (ID: 8527), Prob: 0.0000
+Token: ' queue' (ID: 7177), Prob: 0.0000
+Token: ' current' (ID: 1482), Prob: 0.0000
+Token: ' next' (ID: 1790), Prob: 0.0000
+Token: ' school' (ID: 2906), Prob: 0.0000
+Token: ' floor' (ID: 6422), Prob: 0.0000
+Token: ' capital' (ID: 6722), Prob: 0.0000
+Token: ' parenting' (ID: 47958), Prob: 0.0000
+Token: ' full' (ID: 2480), Prob: 0.0000
+Token: ' center' (ID: 4126), Prob: 0.0000
+Token: '_FAMILY' (ID: 80828), Prob: 0.0000
+Token: ' time' (ID: 882), Prob: 0.0000
+Token: ' government' (ID: 3033), Prob: 0.0000
+Token: ' camp' (ID: 3113), Prob: 0.0000
+Token: ' location' (ID: 3728), Prob: 0.0000
+Token: ' garden' (ID: 13551), Prob: 0.0000
+Token: ' household' (ID: 13732), Prob: 0.0000
+Token: ' charity' (ID: 22846), Prob: 0.0000
+Token: ' nursery' (ID: 55126), Prob: 0.0000
+Token: ' quality' (ID: 4271), Prob: 0.0000
+Token: ' library' (ID: 6733), Prob: 0.0000
+Token: ' summer' (ID: 7324), Prob: 0.0000
+Token: '-family' (ID: 17190), Prob: 0.0000
+Token: ' night' (ID: 3729), Prob: 0.0000
+Token: ' network' (ID: 3922), Prob: 0.0000
+Token: ' memory' (ID: 4938), Prob: 0.0000
+Token: ' couple' (ID: 5625), Prob: 0.0000
+Token: ' knowledge' (ID: 6540), Prob: 0.0000
+Token: ' parents' (ID: 6562), Prob: 0.0000
+Token: ' remaining' (ID: 9664), Prob: 0.0000
+Token: ' winter' (ID: 12406), Prob: 0.0000
+Token: ' famille' (ID: 66528), Prob: 0.0000
+Token: ' game' (ID: 1809), Prob: 0.0000
+Token: ' general' (ID: 4586), Prob: 0.0000
+Token: ' apartment' (ID: 13154), Prob: 0.0000
+Token: ' car' (ID: 1803), Prob: 0.0000
+Token: ' context' (ID: 2266), Prob: 0.0000
+Token: ' fall' (ID: 4399), Prob: 0.0000
+Token: ' party' (ID: 4614), Prob: 0.0000
+Token: ' living' (ID: 5382), Prob: 0.0000
+Token: ' legacy' (ID: 19588), Prob: 0.0000
+Token: ' care' (ID: 2453), Prob: 0.0000
+
+== Ranked Concepts (Clusters) ==
+Rank 1 | Centroid: ' Family' | Score: 1.0000
+  Tokens: [' family', ' Family', 'family', ' families', ' familia', ' FAMILY', 'Family', ' familial', ' fam', '_family', ' famil', '_FAMILY', '-family', ' famille']
+Rank 2 | Centroid: ' country' | Score: 0.0000
+  Tokens: [' country', ' company', ' city', ' community', ' school', ' government', ' party']
+Rank 3 | Centroid: ' household' | Score: 0.0000
+  Tokens: [' home', ' kitchen', ' house', ' household', ' apartment']
+Rank 4 | Centroid: ' library' | Score: 0.0000
+  Tokens: [' category', ' library', ' network']
+Rank 5 | Centroid: ' child' | Score: 0.0000
+  Tokens: [' child', ' children', ' baby']
+Rank 6 | Centroid: ' next' | Score: 0.0000
+  Tokens: [' future', ' following', ' first', ' current', ' next', ' full', ' remaining']
+Rank 7 | Centroid: ' farm' | Score: 0.0000
+  Tokens: [' factory', ' farm', ' camp', ' garden']
+Rank 8 | Centroid: ' parents' | Score: 0.0000
+  Tokens: [' mother', ' parent', ' father', ' parenting', ' parents']
+Rank 9 | Centroid: ' floor' | Score: 0.0000
+  Tokens: [' room', ' space', ' sky', ' floor']
+Rank 10 | Centroid: ' location' | Score: 0.0000
+  Tokens: [' language', ' way', ' environment', ' location', ' context']
+Rank 11 | Centroid: ' winter' | Score: 0.0000
+  Tokens: [' year', ' journey', ' day', ' summer', ' night', ' winter']
+Rank 12 | Centroid: ' system' | Score: 0.0000
+  Tokens: [' system', ' world', ' game']
+Rank 13 | Centroid: ' field' | Score: 0.0000
+  Tokens: [' field', ' class']
+Rank 14 | Centroid: ' folder' | Score: 0.0000
+  Tokens: [' facility', ' folder', ' queue']
+Rank 15 | Centroid: ' knowledge' | Score: 0.0000
+  Tokens: [' capital', ' quality', ' memory', ' knowledge', ' general']
+Rank 16 | Centroid: ' name' | Score: 0.0000
+  Tokens: [' name', ' time']
+Rank 17 | Centroid: ' car' | Score: 0.0000
+  Tokens: [' couple', ' car', ' care']
+Rank 18 | Centroid: ' center' | Score: 0.0000
+  Tokens: [' center', ' fall']
+Rank 19 | Centroid: ' living' | Score: 0.0000
+  Tokens: [' living', ' legacy']
+Rank 20 | Centroid: ' charity' | Score: 0.0000
+  Tokens: [' charity']
+Rank 21 | Centroid: ' nursery' | Score: 0.0000
+  Tokens: [' nursery']
+
+**Chosen Concept:** Rank 1

@@ -1,0 +1,141 @@
+--- Step 134 Log ---
+
+== Filtered Candidates ==
+Token: ' metaph' (ID: 30668), Prob: 0.9141
+Token: ' vivid' (ID: 42020), Prob: 0.0215
+Token: ' imagery' (ID: 40445), Prob: 0.0131
+Token: ' sensory' (ID: 47969), Prob: 0.0023
+Token: ' metaphor' (ID: 45350), Prob: 0.0018
+Token: ' descriptive' (ID: 52844), Prob: 0.0008
+Token: ' sim' (ID: 1643), Prob: 0.0006
+Token: ' images' (ID: 5335), Prob: 0.0005
+Token: ' natural' (ID: 5810), Prob: 0.0005
+Token: ' words' (ID: 4244), Prob: 0.0004
+Token: ' phrases' (ID: 31747), Prob: 0.0004
+Token: ' strong' (ID: 3746), Prob: 0.0004
+Token: ' simple' (ID: 4285), Prob: 0.0004
+Token: ' emojis' (ID: 99066), Prob: 0.0004
+Token: ' synonyms' (ID: 85406), Prob: 0.0003
+Token: ' nature' (ID: 6993), Prob: 0.0002
+Token: ' poetic' (ID: 75434), Prob: 0.0002
+Token: ' verbs' (ID: 61846), Prob: 0.0002
+Token: ' action' (ID: 1917), Prob: 0.0002
+Token: ' active' (ID: 4541), Prob: 0.0001
+Token: ' figur' (ID: 55655), Prob: 0.0001
+Token: ' examples' (ID: 10295), Prob: 0.0001
+Token: ' something' (ID: 2494), Prob: 0.0001
+Token: ' descriptions' (ID: 27787), Prob: 0.0001
+Token: ' short' (ID: 2805), Prob: 0.0001
+Token: ' symbols' (ID: 17738), Prob: 0.0001
+Token: ' concise' (ID: 63594), Prob: 0.0001
+Token: ' imagination' (ID: 27799), Prob: 0.0001
+Token: ' clich' (ID: 62592), Prob: 0.0001
+Token: ' personal' (ID: 4345), Prob: 0.0001
+Token: ' actions' (ID: 6168), Prob: 0.0001
+Token: ' concrete' (ID: 14175), Prob: 0.0000
+Token: ' soft' (ID: 8413), Prob: 0.0000
+Token: ' emotions' (ID: 21261), Prob: 0.0000
+Token: ' language' (ID: 4128), Prob: 0.0000
+Token: ' vibrant' (ID: 32976), Prob: 0.0000
+Token: ' rich' (ID: 9080), Prob: 0.0000
+Token: ' impactful' (ID: 97890), Prob: 0.0000
+Token: ' colorful' (ID: 33866), Prob: 0.0000
+Token: ' analog' (ID: 23400), Prob: 0.0000
+Token: ' repetition' (ID: 53415), Prob: 0.0000
+Token: ' past' (ID: 3267), Prob: 0.0000
+Token: ' visual' (ID: 9124), Prob: 0.0000
+Token: ' beautiful' (ID: 6233), Prob: 0.0000
+Token: ' powerful' (ID: 7988), Prob: 0.0000
+Token: ' bold' (ID: 13939), Prob: 0.0000
+Token: ' emotional' (ID: 14269), Prob: 0.0000
+Token: ' expressive' (ID: 77123), Prob: 0.0000
+Token: ' person' (ID: 1697), Prob: 0.0000
+Token: ' visuals' (ID: 52977), Prob: 0.0000
+Token: ' rhetorical' (ID: 85968), Prob: 0.0000
+Token: ' descriptors' (ID: 47517), Prob: 0.0000
+Token: ' literary' (ID: 31365), Prob: 0.0000
+Token: ' idi' (ID: 40660), Prob: 0.0000
+Token: ' rhyme' (ID: 96934), Prob: 0.0000
+Token: ' clear' (ID: 2797), Prob: 0.0000
+Token: ' creative' (ID: 11521), Prob: 0.0000
+Token: ' dialogue' (ID: 21276), Prob: 0.0000
+Token: ' sentences' (ID: 22870), Prob: 0.0000
+Token: ' physical' (ID: 6961), Prob: 0.0000
+Token: ' body' (ID: 2487), Prob: 0.0000
+Token: ' syn' (ID: 6782), Prob: 0.0000
+Token: ' transition' (ID: 9142), Prob: 0.0000
+Token: ' flow' (ID: 6396), Prob: 0.0000
+Token: ' common' (ID: 4185), Prob: 0.0000
+Token: ' proper' (ID: 6169), Prob: 0.0000
+Token: ' colors' (ID: 7987), Prob: 0.0000
+Token: ' met' (ID: 2270), Prob: 0.0000
+Token: ' positive' (ID: 6785), Prob: 0.0000
+Token: ' imaginative' (ID: 76261), Prob: 0.0000
+Token: ' long' (ID: 1293), Prob: 0.0000
+Token: ' terms' (ID: 3793), Prob: 0.0000
+Token: ' comparison' (ID: 12313), Prob: 0.0000
+Token: ' dramatic' (ID: 21771), Prob: 0.0000
+Token: ' varied' (ID: 27730), Prob: 0.0000
+Token: ' scenery' (ID: 50231), Prob: 0.0000
+Token: ' contrasting' (ID: 73955), Prob: 0.0000
+Token: ' different' (ID: 2155), Prob: 0.0000
+Token: ' description' (ID: 4008), Prob: 0.0000
+Token: ' appropriate' (ID: 8311), Prob: 0.0000
+Token: ' familiar' (ID: 11285), Prob: 0.0000
+Token: ' senses' (ID: 37107), Prob: 0.0000
+Token: ' image' (ID: 2168), Prob: 0.0000
+Token: ' dynamic' (ID: 8741), Prob: 0.0000
+Token: ' environmental' (ID: 12158), Prob: 0.0000
+Token: ' everyday' (ID: 17778), Prob: 0.0000
+Token: ' humor' (ID: 27385), Prob: 0.0000
+Token: ' elements' (ID: 5424), Prob: 0.0000
+
+== Ranked Concepts (Clusters) ==
+Rank 1 | Centroid: ' metaph' | Score: 0.9141
+  Tokens: [' metaph', ' metaphor']
+Rank 2 | Centroid: ' vibrant' | Score: 0.0216
+  Tokens: [' vivid', ' vibrant', ' impactful', ' colorful', ' beautiful']
+Rank 3 | Centroid: ' images' | Score: 0.0135
+  Tokens: [' imagery', ' images', ' image']
+Rank 4 | Centroid: ' emotions' | Score: 0.0023
+  Tokens: [' sensory', ' emotions', ' emotional', ' senses']
+Rank 5 | Centroid: ' phrases' | Score: 0.0010
+  Tokens: [' words', ' phrases', ' language', ' sentences', ' terms']
+Rank 6 | Centroid: ' descriptions' | Score: 0.0009
+  Tokens: [' descriptive', ' descriptions', ' descriptors', ' description']
+Rank 7 | Centroid: ' verbs' | Score: 0.0008
+  Tokens: [' emojis', ' synonyms', ' verbs']
+Rank 8 | Centroid: ' natural' | Score: 0.0008
+  Tokens: [' natural', ' nature', ' body', ' transition', ' flow']
+Rank 9 | Centroid: ' powerful' | Score: 0.0007
+  Tokens: [' strong', ' active', ' rich', ' powerful', ' bold', ' clear', ' dynamic']
+Rank 10 | Centroid: ' analog' | Score: 0.0007
+  Tokens: [' sim', ' analog', ' past', ' syn', ' met']
+Rank 11 | Centroid: ' short' | Score: 0.0005
+  Tokens: [' simple', ' short', ' soft', ' long']
+Rank 12 | Centroid: ' poetic' | Score: 0.0005
+  Tokens: [' poetic', ' figur', ' clich', ' rhetorical', ' literary', ' idi', ' rhyme', ' scenery', ' humor']
+Rank 13 | Centroid: ' appropriate' | Score: 0.0003
+  Tokens: [' something', ' personal', ' concrete', ' person', ' common', ' proper', ' positive', ' different', ' appropriate', ' familiar', ' everyday']
+Rank 14 | Centroid: ' action' | Score: 0.0002
+  Tokens: [' action', ' actions']
+Rank 15 | Centroid: ' elements' | Score: 0.0002
+  Tokens: [' examples', ' symbols', ' elements']
+Rank 16 | Centroid: ' imagination' | Score: 0.0001
+  Tokens: [' imagination', ' imaginative']
+Rank 17 | Centroid: ' contrasting' | Score: 0.0001
+  Tokens: [' repetition', ' comparison', ' varied', ' contrasting']
+Rank 18 | Centroid: ' concise' | Score: 0.0001
+  Tokens: [' concise']
+Rank 19 | Centroid: ' dramatic' | Score: 0.0001
+  Tokens: [' expressive', ' creative', ' dramatic']
+Rank 20 | Centroid: ' visual' | Score: 0.0001
+  Tokens: [' visual', ' visuals']
+Rank 21 | Centroid: ' physical' | Score: 0.0000
+  Tokens: [' physical', ' environmental']
+Rank 22 | Centroid: ' dialogue' | Score: 0.0000
+  Tokens: [' dialogue']
+Rank 23 | Centroid: ' colors' | Score: 0.0000
+  Tokens: [' colors']
+
+**Chosen Concept:** Rank 1

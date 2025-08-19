@@ -1,106 +1,122 @@
 --- Step 125 Log ---
 
 == Filtered Candidates ==
-Token: ' cry' (ID: 15729), Prob: 0.9922
-Token: ' crying' (ID: 30199), Prob: 0.0041
-Token: ' cried' (ID: 38069), Prob: 0.0010
-Token: ' Cry' (ID: 42705), Prob: 0.0001
-Token: ' cries' (ID: 57745), Prob: 0.0001
-Token: ' etc' (ID: 4992), Prob: 0.0001
-Token: 'cry' (ID: 61138), Prob: 0.0001
-Token: ' try' (ID: 1430), Prob: 0.0000
-Token: ' love' (ID: 2948), Prob: 0.0000
-Token: ' wait' (ID: 3783), Prob: 0.0000
-Token: ' write' (ID: 3270), Prob: 0.0000
-Token: ' repeat' (ID: 13153), Prob: 0.0000
-Token: ' scream' (ID: 45689), Prob: 0.0000
-Token: ' please' (ID: 4486), Prob: 0.0000
-Token: ' cro' (ID: 14093), Prob: 0.0000
-Token: ' sorry' (ID: 14589), Prob: 0.0000
-Token: ' break' (ID: 1438), Prob: 0.0000
-Token: ' catch' (ID: 2287), Prob: 0.0000
-Token: ' thank' (ID: 9702), Prob: 0.0000
-Token: ' cough' (ID: 39600), Prob: 0.0000
-Token: ' sigh' (ID: 30138), Prob: 0.0000
-Token: ' create' (ID: 1855), Prob: 0.0000
-Token: ' tear' (ID: 17576), Prob: 0.0000
-Token: ' cow' (ID: 19362), Prob: 0.0000
-Token: ' tears' (ID: 23139), Prob: 0.0000
-Token: ' cri' (ID: 27558), Prob: 0.0000
-Token: ' drip' (ID: 72499), Prob: 0.0000
-Token: ' lie' (ID: 10246), Prob: 0.0000
-Token: ' yeah' (ID: 21639), Prob: 0.0000
-Token: ' ask' (ID: 2548), Prob: 0.0000
-Token: ' die' (ID: 2746), Prob: 0.0000
-Token: ' cheer' (ID: 25032), Prob: 0.0000
-Token: ' yes' (ID: 9834), Prob: 0.0000
-Token: ' count' (ID: 1760), Prob: 0.0000
-Token: ' fall' (ID: 4399), Prob: 0.0000
-Token: ' sing' (ID: 7780), Prob: 0.0000
-Token: ' sad' (ID: 12421), Prob: 0.0000
-Token: ' tired' (ID: 19227), Prob: 0.0000
-Token: ' awe' (ID: 50417), Prob: 0.0000
-Token: ' feel' (ID: 2666), Prob: 0.0000
-Token: ' pain' (ID: 6646), Prob: 0.0000
-Token: ' dry' (ID: 9058), Prob: 0.0000
-Token: ' joy' (ID: 15888), Prob: 0.0000
-Token: ' tie' (ID: 18131), Prob: 0.0000
-Token: ' let' (ID: 1077), Prob: 0.0000
-Token: ' crowd' (ID: 13428), Prob: 0.0000
-Token: ' end' (ID: 835), Prob: 0.0000
-Token: ' add' (ID: 912), Prob: 0.0000
-Token: ' care' (ID: 2453), Prob: 0.0000
-Token: ' baby' (ID: 8770), Prob: 0.0000
-Token: ' climax' (ID: 70195), Prob: 0.0000
-Token: ' shout' (ID: 41123), Prob: 0.0000
-Token: ' make' (ID: 1281), Prob: 0.0000
-Token: ' wipe' (ID: 39094), Prob: 0.0000
-Token: ' one' (ID: 825), Prob: 0.0000
-Token: ' run' (ID: 1598), Prob: 0.0000
-Token: ' maybe' (ID: 7196), Prob: 0.0000
+Token: ' specific' (ID: 3151), Prob: 0.5195
+Token: ' something' (ID: 2494), Prob: 0.0045
+Token: ' emotions' (ID: 21261), Prob: 0.0027
+Token: ' specifics' (ID: 48349), Prob: 0.0015
+Token: ' crying' (ID: 30199), Prob: 0.0014
+Token: ' tears' (ID: 23139), Prob: 0.0007
+Token: ' physical' (ID: 6961), Prob: 0.0006
+Token: ' different' (ID: 2155), Prob: 0.0003
+Token: ' personal' (ID: 4345), Prob: 0.0003
+Token: ' experiencing' (ID: 24084), Prob: 0.0003
+Token: ' individual' (ID: 3842), Prob: 0.0003
+Token: ' seeing' (ID: 9120), Prob: 0.0003
+Token: ' concrete' (ID: 14175), Prob: 0.0003
+Token: ' metaph' (ID: 30668), Prob: 0.0003
+Token: ' details' (ID: 3565), Prob: 0.0003
+Token: ' vivid' (ID: 42020), Prob: 0.0003
+Token: 'ing' (ID: 287), Prob: 0.0002
+Token: ' visual' (ID: 9124), Prob: 0.0002
+Token: ' images' (ID: 5335), Prob: 0.0002
+Token: ' expressing' (ID: 36710), Prob: 0.0002
+Token: ' sensory' (ID: 47969), Prob: 0.0002
+Token: ' rain' (ID: 11174), Prob: 0.0002
+Token: ' moments' (ID: 13943), Prob: 0.0002
+Token: ' emotional' (ID: 14269), Prob: 0.0002
+Token: ' parts' (ID: 5479), Prob: 0.0002
+Token: ' feeling' (ID: 8266), Prob: 0.0002
+Token: ' imagery' (ID: 40445), Prob: 0.0002
+Token: ' touching' (ID: 30587), Prob: 0.0002
+Token: ' overcoming' (ID: 72917), Prob: 0.0002
+Token: ' past' (ID: 3267), Prob: 0.0001
+Token: ' exact' (ID: 4734), Prob: 0.0001
+Token: ' maybe' (ID: 7196), Prob: 0.0001
+Token: ' memories' (ID: 18923), Prob: 0.0001
+Token: ' losing' (ID: 13188), Prob: 0.0001
+Token: ' someone' (ID: 4325), Prob: 0.0001
+Token: ' watching' (ID: 10099), Prob: 0.0001
+Token: ' trembling' (ID: 91988), Prob: 0.0001
+Token: ' things' (ID: 2513), Prob: 0.0001
+Token: ' natural' (ID: 5810), Prob: 0.0001
+Token: ' empathy' (ID: 47351), Prob: 0.0001
+Token: ' looking' (ID: 3330), Prob: 0.0001
+Token: ' multiple' (ID: 5248), Prob: 0.0001
+Token: ' feelings' (ID: 15650), Prob: 0.0001
+Token: ' eyes' (ID: 6414), Prob: 0.0001
+Token: ' examples' (ID: 10295), Prob: 0.0001
+Token: ' breaking' (ID: 14719), Prob: 0.0001
+Token: ' loss' (ID: 4709), Prob: 0.0001
+Token: ' visuals' (ID: 52977), Prob: 0.0001
+Token: ' possible' (ID: 3204), Prob: 0.0001
+Token: ' reaching' (ID: 18739), Prob: 0.0001
+Token: ' mixing' (ID: 26792), Prob: 0.0001
+Token: ' pouring' (ID: 50413), Prob: 0.0001
+Token: ' elements' (ID: 5424), Prob: 0.0001
+Token: ' nature' (ID: 6993), Prob: 0.0001
+Token: ' colors' (ID: 7987), Prob: 0.0001
+Token: ' body' (ID: 2487), Prob: 0.0001
+Token: ' pain' (ID: 6646), Prob: 0.0001
+Token: ' immediate' (ID: 13922), Prob: 0.0001
+Token: ' avoiding' (ID: 30426), Prob: 0.0001
+Token: ' trying' (ID: 4460), Prob: 0.0000
+Token: ' specifically' (ID: 11689), Prob: 0.0000
+Token: ' without' (ID: 2041), Prob: 0.0000
+Token: ' making' (ID: 3259), Prob: 0.0000
+Token: ' actual' (ID: 5042), Prob: 0.0000
+Token: ' words' (ID: 4244), Prob: 0.0000
+Token: ' experiences' (ID: 11449), Prob: 0.0000
+Token: ' detailed' (ID: 11682), Prob: 0.0000
+Token: ' longing' (ID: 78322), Prob: 0.0000
+Token: ' heart' (ID: 4746), Prob: 0.0000
+Token: ' wanting' (ID: 19211), Prob: 0.0000
+Token: ' describing' (ID: 22692), Prob: 0.0000
+Token: ' sadness' (ID: 50878), Prob: 0.0000
+Token: ' raining' (ID: 83253), Prob: 0.0000
+Token: 'ting' (ID: 1280), Prob: 0.0000
+Token: ' using' (ID: 1667), Prob: 0.0000
+Token: ' exactly' (ID: 6896), Prob: 0.0000
+Token: ' causing' (ID: 14381), Prob: 0.0000
+Token: ' loving' (ID: 21258), Prob: 0.0000
+Token: ' vulnerability' (ID: 33004), Prob: 0.0000
 
 == Ranked Concepts (Clusters) ==
-Rank 1 | Concept Score: 0.9961
-  Tokens: [' cry', ' crying', ' cried', ' Cry', ' cries', 'cry', ' cri']
-Rank 2 | Concept Score: 0.0001
-  Tokens: [' etc']
-Rank 3 | Concept Score: 0.0001
-  Tokens: [' try', ' write', ' create', ' ask', ' let', ' add', ' make']
-Rank 4 | Concept Score: 0.0000
-  Tokens: [' love', ' sad', ' pain', ' joy']
-Rank 5 | Concept Score: 0.0000
-  Tokens: [' wait', ' catch']
-Rank 6 | Concept Score: 0.0000
-  Tokens: [' please', ' sorry', ' thank']
-Rank 7 | Concept Score: 0.0000
-  Tokens: [' repeat', ' break', ' run']
-Rank 8 | Concept Score: 0.0000
-  Tokens: [' scream', ' sigh', ' shout']
-Rank 9 | Concept Score: 0.0000
-  Tokens: [' lie', ' die', ' fall', ' tie']
-Rank 10 | Concept Score: 0.0000
-  Tokens: [' cro', ' baby']
-Rank 11 | Concept Score: 0.0000
-  Tokens: [' cough', ' cow']
-Rank 12 | Concept Score: 0.0000
-  Tokens: [' yeah', ' yes', ' maybe']
-Rank 13 | Concept Score: 0.0000
-  Tokens: [' tear', ' tears']
-Rank 14 | Concept Score: 0.0000
-  Tokens: [' count', ' end', ' one']
-Rank 15 | Concept Score: 0.0000
-  Tokens: [' awe', ' crowd', ' climax']
-Rank 16 | Concept Score: 0.0000
-  Tokens: [' cheer', ' tired']
-Rank 17 | Concept Score: 0.0000
-  Tokens: [' dry', ' wipe']
-Rank 18 | Concept Score: 0.0000
-  Tokens: [' drip']
-Rank 19 | Concept Score: 0.0000
-  Tokens: [' sing']
-Rank 20 | Concept Score: 0.0000
-  Tokens: [' feel']
-Rank 21 | Concept Score: 0.0000
-  Tokens: [' care']
+Rank 1 | Centroid: ' specifics' | Score: 0.5195
+  Tokens: [' specific', ' specifics', ' details', ' specifically', ' detailed']
+Rank 2 | Centroid: ' something' | Score: 0.0048
+  Tokens: [' something', ' maybe', ' someone', ' things']
+Rank 3 | Centroid: ' emotions' | Score: 0.0035
+  Tokens: [' emotions', ' sensory', ' emotional', ' feeling', ' empathy', ' feelings', ' longing', ' sadness']
+Rank 4 | Centroid: ' crying' | Score: 0.0025
+  Tokens: [' crying', ' tears', ' rain', ' trembling', ' pouring', ' raining', ' loving']
+Rank 5 | Centroid: ' causing' | Score: 0.0013
+  Tokens: [' experiencing', ' expressing', ' touching', ' overcoming', ' breaking', ' reaching', ' mixing', ' avoiding', ' trying', ' making', ' describing', ' using', ' causing']
+Rank 6 | Centroid: ' personal' | Score: 0.0012
+  Tokens: [' physical', ' personal', ' individual']
+Rank 7 | Centroid: ' visuals' | Score: 0.0010
+  Tokens: [' vivid', ' visual', ' images', ' imagery', ' visuals', ' colors']
+Rank 8 | Centroid: ' exact' | Score: 0.0005
+  Tokens: [' concrete', ' exact', ' immediate', ' actual', ' exactly']
+Rank 9 | Centroid: ' watching' | Score: 0.0005
+  Tokens: [' seeing', ' watching', ' looking', ' wanting']
+Rank 10 | Centroid: ' different' | Score: 0.0005
+  Tokens: [' different', ' multiple', ' possible']
+Rank 11 | Centroid: ' natural' | Score: 0.0004
+  Tokens: [' past', ' natural', ' nature', ' body', ' without']
+Rank 12 | Centroid: ' elements' | Score: 0.0003
+  Tokens: [' parts', ' examples', ' elements', ' words']
+Rank 13 | Centroid: ' memories' | Score: 0.0003
+  Tokens: [' moments', ' memories', ' experiences']
+Rank 14 | Centroid: ' metaph' | Score: 0.0003
+  Tokens: [' metaph']
+Rank 15 | Centroid: 'ing' | Score: 0.0003
+  Tokens: ['ing', 'ting']
+Rank 16 | Centroid: ' losing' | Score: 0.0002
+  Tokens: [' losing', ' loss', ' vulnerability']
+Rank 17 | Centroid: ' pain' | Score: 0.0001
+  Tokens: [' pain', ' heart']
+Rank 18 | Centroid: ' eyes' | Score: 0.0001
+  Tokens: [' eyes']
 
-**Chosen Concept:** Rank 1 with score 0.9961
+**Chosen Concept:** Rank 1

@@ -1,146 +1,150 @@
 --- Step 13 Log ---
 
 == Filtered Candidates ==
-Token: ' presence' (ID: 9362), Prob: 0.1006
-Token: ' use' (ID: 990), Prob: 0.0688
-Token: ' lack' (ID: 6853), Prob: 0.0306
-Token: ' high' (ID: 1550), Prob: 0.0254
-Token: ' bacteria' (ID: 23157), Prob: 0.0186
-Token: ' environment' (ID: 4573), Prob: 0.0175
-Token: ' increased' (ID: 7172), Prob: 0.0113
-Token: ' virus' (ID: 16770), Prob: 0.0113
-Token: ' infection' (ID: 18873), Prob: 0.0082
-Token: ' fact' (ID: 2097), Prob: 0.0073
-Token: ' combination' (ID: 10601), Prob: 0.0060
-Token: ' interaction' (ID: 16230), Prob: 0.0060
-Token: ' manipulation' (ID: 33686), Prob: 0.0060
-Token: ' activation' (ID: 15099), Prob: 0.0057
-Token: ' influence' (ID: 10173), Prob: 0.0053
-Token: ' planet' (ID: 11580), Prob: 0.0053
-Token: ' effect' (ID: 2456), Prob: 0.0050
-Token: ' body' (ID: 2487), Prob: 0.0050
-Token: ' human' (ID: 3738), Prob: 0.0050
-Token: ' effects' (ID: 6239), Prob: 0.0047
-Token: ' patient' (ID: 8720), Prob: 0.0047
-Token: ' exposure' (ID: 14338), Prob: 0.0047
-Token: ' genetic' (ID: 18929), Prob: 0.0047
-Token: ' way' (ID: 1616), Prob: 0.0044
-Token: ' infected' (ID: 28274), Prob: 0.0044
-Token: ' natural' (ID: 5810), Prob: 0.0042
-Token: ' power' (ID: 2355), Prob: 0.0039
-Token: ' movement' (ID: 7203), Prob: 0.0039
-Token: ' immune' (ID: 22077), Prob: 0.0039
-Token: ' action' (ID: 1917), Prob: 0.0037
-Token: ' new' (ID: 501), Prob: 0.0030
-Token: ' ability' (ID: 5726), Prob: 0.0030
-Token: ' alien' (ID: 19594), Prob: 0.0030
-Token: ' mutation' (ID: 26374), Prob: 0.0030
-Token: ' malfunction' (ID: 71187), Prob: 0.0030
-Token: ' damage' (ID: 5557), Prob: 0.0029
-Token: ' moon' (ID: 17788), Prob: 0.0029
-Token: ' impact' (ID: 5421), Prob: 0.0027
-Token: ' fever' (ID: 33553), Prob: 0.0027
-Token: ' contact' (ID: 3645), Prob: 0.0025
-Token: ' energy' (ID: 4802), Prob: 0.0025
-Token: ' unique' (ID: 4911), Prob: 0.0025
-Token: ' temperature' (ID: 9315), Prob: 0.0025
-Token: ' first' (ID: 1156), Prob: 0.0024
-Token: ' increase' (ID: 5263), Prob: 0.0024
-Token: ' disease' (ID: 8457), Prob: 0.0024
-Token: ' aliens' (ID: 36119), Prob: 0.0024
-Token: ' amount' (ID: 3311), Prob: 0.0022
-Token: ' low' (ID: 3347), Prob: 0.0022
-Token: ' patients' (ID: 6835), Prob: 0.0022
-Token: ' chemical' (ID: 11483), Prob: 0.0022
-Token: ' enhanced' (ID: 23922), Prob: 0.0022
-Token: ' contamination' (ID: 46710), Prob: 0.0022
-Token: ' population' (ID: 7042), Prob: 0.0021
-Token: ' heat' (ID: 8628), Prob: 0.0021
-Token: ' absence' (ID: 19265), Prob: 0.0021
-Token: ' time' (ID: 882), Prob: 0.0020
-Token: ' release' (ID: 4879), Prob: 0.0020
-Token: ' direct' (ID: 2118), Prob: 0.0018
-Token: ' activity' (ID: 5702), Prob: 0.0018
-Token: ' electromagnetic' (ID: 65569), Prob: 0.0018
-Token: ' recent' (ID: 3213), Prob: 0.0017
-Token: ' strong' (ID: 3746), Prob: 0.0017
-Token: ' increasing' (ID: 7703), Prob: 0.0017
-Token: ' rapid' (ID: 11048), Prob: 0.0017
-Token: ' existence' (ID: 13885), Prob: 0.0017
-Token: ' radiation' (ID: 24403), Prob: 0.0017
-Token: ' people' (ID: 1251), Prob: 0.0016
-Token: ' higher' (ID: 5080), Prob: 0.0016
-Token: ' brain' (ID: 8109), Prob: 0.0016
-Token: ' emotional' (ID: 14269), Prob: 0.0016
-Token: ' psychological' (ID: 23187), Prob: 0.0016
-Token: ' magnetic' (ID: 23970), Prob: 0.0016
-Token: ' proximity' (ID: 36743), Prob: 0.0015
-Token: ' microbes' (ID: 79627), Prob: 0.0015
-Token: ' help' (ID: 1492), Prob: 0.0014
-Token: ' following' (ID: 2701), Prob: 0.0014
-Token: ' stress' (ID: 8464), Prob: 0.0014
-Token: ' spread' (ID: 8865), Prob: 0.0013
-Token: ' stars' (ID: 9759), Prob: 0.0013
-Token: ' rise' (ID: 10000), Prob: 0.0013
-Token: ' environmental' (ID: 12158), Prob: 0.0013
-Token: ' consumption' (ID: 15293), Prob: 0.0013
-Token: ' inability' (ID: 37450), Prob: 0.0013
-Token: ' level' (ID: 2188), Prob: 0.0013
-Token: ' imm' (ID: 4893), Prob: 0.0013
-Token: ' factor' (ID: 8168), Prob: 0.0013
-Token: ' balance' (ID: 8172), Prob: 0.0013
-Token: ' misuse' (ID: 61751), Prob: 0.0013
-Token: ' change' (ID: 2297), Prob: 0.0012
-Token: ' social' (ID: 3590), Prob: 0.0012
-Token: ' growth' (ID: 6513), Prob: 0.0012
-Token: ' usage' (ID: 10431), Prob: 0.0012
+Token: ' include' (ID: 2924), Prob: 0.2598
+Token: ' help' (ID: 1492), Prob: 0.1387
+Token: ' vary' (ID: 13289), Prob: 0.0742
+Token: ' overlap' (ID: 27248), Prob: 0.0214
+Token: ' differ' (ID: 1745), Prob: 0.0101
+Token: ' show' (ID: 1473), Prob: 0.0045
+Token: ' contain' (ID: 6644), Prob: 0.0042
+Token: ' also' (ID: 1083), Prob: 0.0037
+Token: ' look' (ID: 1401), Prob: 0.0029
+Token: ' come' (ID: 2525), Prob: 0.0024
+Token: ' need' (ID: 1184), Prob: 0.0022
+Token: ' indicate' (ID: 13216), Prob: 0.0019
+Token: ' give' (ID: 2968), Prob: 0.0016
+Token: ' make' (ID: 1281), Prob: 0.0015
+Token: ' suggest' (ID: 4190), Prob: 0.0015
+Token: ' require' (ID: 1373), Prob: 0.0009
+Token: ' add' (ID: 912), Prob: 0.0008
+Token: ' appear' (ID: 4994), Prob: 0.0007
+Token: ' range' (ID: 2088), Prob: 0.0006
+Token: ' change' (ID: 2297), Prob: 0.0006
+Token: ' take' (ID: 1896), Prob: 0.0006
+Token: ' cover' (ID: 3421), Prob: 0.0006
+Token: ' consist' (ID: 6685), Prob: 0.0006
+Token: ' get' (ID: 633), Prob: 0.0005
+Token: ' point' (ID: 1459), Prob: 0.0005
+Token: ' use' (ID: 990), Prob: 0.0005
+Token: ' list' (ID: 1140), Prob: 0.0005
+Token: ' provide' (ID: 3410), Prob: 0.0005
+Token: ' repeat' (ID: 13153), Prob: 0.0005
+Token: ' refer' (ID: 8300), Prob: 0.0004
+Token: ' say' (ID: 1977), Prob: 0.0004
+Token: ' depend' (ID: 6761), Prob: 0.0004
+Token: ' seem' (ID: 2803), Prob: 0.0003
+Token: ' lead' (ID: 2990), Prob: 0.0003
+Token: ' describe' (ID: 7512), Prob: 0.0003
+Token: ' involve' (ID: 21058), Prob: 0.0003
+Token: ' follow' (ID: 1795), Prob: 0.0003
+Token: ' increase' (ID: 5263), Prob: 0.0003
+Token: ' mention' (ID: 6286), Prob: 0.0003
+Token: ' sometimes' (ID: 7025), Prob: 0.0003
+Token: ' assist' (ID: 7789), Prob: 0.0003
+Token: ' reflect' (ID: 8708), Prob: 0.0003
+Token: ' confuse' (ID: 58117), Prob: 0.0003
+Token: ' form' (ID: 1352), Prob: 0.0003
+Token: ' matter' (ID: 4925), Prob: 0.0003
+Token: ' exceed' (ID: 12488), Prob: 0.0003
+Token: ' influence' (ID: 10173), Prob: 0.0002
+Token: ' extend' (ID: 13036), Prob: 0.0002
+Token: ' allow' (ID: 2138), Prob: 0.0002
+Token: ' explain' (ID: 10339), Prob: 0.0002
+Token: ' conflict' (ID: 12055), Prob: 0.0002
+Token: ' work' (ID: 975), Prob: 0.0002
+Token: ' improve' (ID: 7269), Prob: 0.0002
+Token: ' highlight' (ID: 11167), Prob: 0.0002
+Token: ' contradict' (ID: 42461), Prob: 0.0002
+Token: ' start' (ID: 1191), Prob: 0.0002
+Token: ' support' (ID: 1824), Prob: 0.0002
+Token: ' exist' (ID: 3000), Prob: 0.0002
+Token: ' relate' (ID: 28143), Prob: 0.0002
+Token: ' count' (ID: 1760), Prob: 0.0002
+Token: ' represent' (ID: 4009), Prob: 0.0002
+Token: ' like' (ID: 1075), Prob: 0.0002
+Token: ' affect' (ID: 7802), Prob: 0.0002
+Token: ' clarify' (ID: 37163), Prob: 0.0002
+Token: ' apply' (ID: 3796), Prob: 0.0001
+Token: ' expand' (ID: 9225), Prob: 0.0001
+Token: ' diver' (ID: 36341), Prob: 0.0001
+Token: ' still' (ID: 2058), Prob: 0.0001
+Token: ' focus' (ID: 5244), Prob: 0.0001
+Token: ' resemble' (ID: 51180), Prob: 0.0001
+Token: ' guide' (ID: 8474), Prob: 0.0001
+Token: ' serve' (ID: 8683), Prob: 0.0001
+Token: ' want' (ID: 1366), Prob: 0.0001
+Token: ' create' (ID: 1855), Prob: 0.0001
+Token: ' offer' (ID: 3010), Prob: 0.0001
+Token: ' contribute' (ID: 16792), Prob: 0.0001
+Token: ' intersect' (ID: 31796), Prob: 0.0001
+Token: ' inter' (ID: 946), Prob: 0.0001
+Token: ' consider' (ID: 2908), Prob: 0.0001
+Token: ' even' (ID: 1496), Prob: 0.0001
+Token: ' state' (ID: 1584), Prob: 0.0001
+Token: ' answer' (ID: 4226), Prob: 0.0001
+Token: ' includes' (ID: 5646), Prob: 0.0001
+Token: ' mis' (ID: 5786), Prob: 0.0001
+Token: ' span' (ID: 9390), Prob: 0.0001
+Token: ' spread' (ID: 8865), Prob: 0.0001
+Token: ' match' (ID: 2432), Prob: 0.0001
 
 == Ranked Concepts (Clusters) ==
-Rank 1 | Concept Score: 0.1406
-  Tokens: [' presence', ' lack', ' ability', ' absence', ' existence', ' proximity', ' inability']
-Rank 2 | Concept Score: 0.0806
-  Tokens: [' use', ' manipulation', ' release', ' consumption', ' misuse', ' usage']
-Rank 3 | Concept Score: 0.0491
-  Tokens: [' bacteria', ' virus', ' infection', ' infected', ' fever', ' disease', ' microbes']
-Rank 4 | Concept Score: 0.0442
-  Tokens: [' high', ' new', ' unique', ' first', ' low', ' direct', ' recent', ' strong', ' rapid', ' higher']
-Rank 5 | Concept Score: 0.0227
-  Tokens: [' increased', ' increase', ' enhanced', ' increasing', ' spread', ' rise', ' change', ' growth']
-Rank 6 | Concept Score: 0.0188
-  Tokens: [' environment', ' environmental']
-Rank 7 | Concept Score: 0.0177
-  Tokens: [' influence', ' effect', ' effects', ' impact']
-Rank 8 | Concept Score: 0.0165
-  Tokens: [' planet', ' alien', ' moon', ' aliens', ' brain', ' stars']
-Rank 9 | Concept Score: 0.0154
-  Tokens: [' genetic', ' chemical', ' electromagnetic', ' radiation', ' emotional', ' psychological', ' magnetic']
-Rank 10 | Concept Score: 0.0151
-  Tokens: [' activation', ' movement', ' action', ' activity']
-Rank 11 | Concept Score: 0.0144
-  Tokens: [' fact', ' way', ' following', ' factor']
-Rank 12 | Concept Score: 0.0121
-  Tokens: [' body', ' power', ' time', ' level']
-Rank 13 | Concept Score: 0.0107
-  Tokens: [' interaction', ' exposure']
-Rank 14 | Concept Score: 0.0104
-  Tokens: [' human', ' natural', ' social']
-Rank 15 | Concept Score: 0.0085
-  Tokens: [' patient', ' patients', ' people']
-Rank 16 | Concept Score: 0.0085
-  Tokens: [' energy', ' temperature', ' heat', ' stress']
-Rank 17 | Concept Score: 0.0081
-  Tokens: [' combination', ' population']
-Rank 18 | Concept Score: 0.0052
-  Tokens: [' malfunction', ' contamination']
-Rank 19 | Concept Score: 0.0052
-  Tokens: [' immune', ' imm']
-Rank 20 | Concept Score: 0.0043
-  Tokens: [' damage', ' help']
-Rank 21 | Concept Score: 0.0035
-  Tokens: [' amount', ' balance']
-Rank 22 | Concept Score: 0.0030
-  Tokens: [' mutation']
-Rank 23 | Concept Score: 0.0025
-  Tokens: [' contact']
+Rank 1 | Centroid: ' include' | Score: 0.2656
+  Tokens: [' include', ' contain', ' consist', ' involve', ' includes']
+Rank 2 | Centroid: ' assist' | Score: 0.1396
+  Tokens: [' help', ' assist', ' support', ' guide']
+Rank 3 | Centroid: ' vary' | Score: 0.0850
+  Tokens: [' vary', ' differ', ' depend', ' exceed', ' exist']
+Rank 4 | Centroid: ' intersect' | Score: 0.0222
+  Tokens: [' overlap', ' conflict', ' contradict', ' diver', ' intersect', ' inter', ' mis']
+Rank 5 | Centroid: ' follow' | Score: 0.0056
+  Tokens: [' look', ' come', ' follow']
+Rank 6 | Centroid: ' show' | Score: 0.0049
+  Tokens: [' show', ' say']
+Rank 7 | Centroid: ' also' | Score: 0.0043
+  Tokens: [' also', ' sometimes', ' like', ' still', ' even']
+Rank 8 | Centroid: ' indicate' | Score: 0.0042
+  Tokens: [' indicate', ' suggest', ' describe', ' explain', ' highlight']
+Rank 9 | Centroid: ' create' | Score: 0.0037
+  Tokens: [' make', ' add', ' take', ' get', ' apply', ' create']
+Rank 10 | Centroid: ' need' | Score: 0.0033
+  Tokens: [' need', ' require', ' want']
+Rank 11 | Centroid: ' provide' | Score: 0.0026
+  Tokens: [' give', ' provide', ' allow', ' serve', ' offer']
+Rank 12 | Centroid: ' list' | Score: 0.0013
+  Tokens: [' point', ' list', ' count', ' state']
+Rank 13 | Centroid: ' seem' | Score: 0.0012
+  Tokens: [' appear', ' seem', ' resemble']
+Rank 14 | Centroid: ' represent' | Score: 0.0010
+  Tokens: [' refer', ' reflect', ' relate', ' represent']
+Rank 15 | Centroid: ' change' | Score: 0.0009
+  Tokens: [' change', ' increase']
+Rank 16 | Centroid: ' use' | Score: 0.0009
+  Tokens: [' use', ' work', ' start']
+Rank 17 | Centroid: ' expand' | Score: 0.0008
+  Tokens: [' repeat', ' extend', ' expand']
+Rank 18 | Centroid: ' span' | Score: 0.0008
+  Tokens: [' range', ' span', ' spread']
+Rank 19 | Centroid: ' cover' | Score: 0.0007
+  Tokens: [' cover', ' focus']
+Rank 20 | Centroid: ' lead' | Score: 0.0006
+  Tokens: [' lead', ' form']
+Rank 21 | Centroid: ' confuse' | Score: 0.0004
+  Tokens: [' confuse', ' clarify']
+Rank 22 | Centroid: ' influence' | Score: 0.0004
+  Tokens: [' influence', ' affect']
+Rank 23 | Centroid: ' improve' | Score: 0.0003
+  Tokens: [' improve', ' contribute']
+Rank 24 | Centroid: ' mention' | Score: 0.0003
+  Tokens: [' mention']
+Rank 25 | Centroid: ' matter' | Score: 0.0003
+  Tokens: [' matter']
+Rank 26 | Centroid: ' consider' | Score: 0.0001
+  Tokens: [' consider']
+Rank 27 | Centroid: ' answer' | Score: 0.0001
+  Tokens: [' answer']
+Rank 28 | Centroid: ' match' | Score: 0.0001
+  Tokens: [' match']
 
-**Chosen Concept:** Rank 1 with score 0.1406
+**Chosen Concept:** Rank 1

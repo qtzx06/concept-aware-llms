@@ -1,100 +1,82 @@
 --- Step 74 Log ---
 
 == Filtered Candidates ==
-Token: ' immediately' (ID: 7069), Prob: 0.7891
-Token: ' earlier' (ID: 6788), Prob: 0.0056
-Token: ' two' (ID: 1378), Prob: 0.0053
-Token: ' later' (ID: 2937), Prob: 0.0032
-Token: ' directly' (ID: 5961), Prob: 0.0032
-Token: ' exactly' (ID: 6896), Prob: 0.0028
-Token: ' prior' (ID: 4867), Prob: 0.0022
-Token: ' next' (ID: 1790), Prob: 0.0018
-Token: ' one' (ID: 825), Prob: 0.0016
-Token: ' three' (ID: 2326), Prob: 0.0013
-Token: ' right' (ID: 1290), Prob: 0.0012
-Token: ' previously' (ID: 8597), Prob: 0.0011
-Token: ' within' (ID: 2878), Prob: 0.0006
-Token: ' currently' (ID: 5023), Prob: 0.0006
-Token: ' shortly' (ID: 19620), Prob: 0.0006
-Token: ' initially' (ID: 15102), Prob: 0.0005
-Token: ' yesterday' (ID: 13671), Prob: 0.0005
-Token: ' immediate' (ID: 13922), Prob: 0.0005
-Token: ' today' (ID: 3351), Prob: 0.0004
-Token: ' immedi' (ID: 5551), Prob: 0.0004
-Token: ' afterward' (ID: 47943), Prob: 0.0003
-Token: ' upon' (ID: 5193), Prob: 0.0003
-Token: ' instantly' (ID: 21818), Prob: 0.0003
-Token: ' previous' (ID: 3681), Prob: 0.0002
-Token: ' behind' (ID: 4815), Prob: 0.0002
-Token: ' Immediately' (ID: 68252), Prob: 0.0002
-Token: ' five' (ID: 4236), Prob: 0.0002
-Token: ' hours' (ID: 4115), Prob: 0.0002
-Token: ' subsequently' (ID: 27420), Prob: 0.0002
-Token: ' beyond' (ID: 7797), Prob: 0.0002
-Token: ' originally' (ID: 13214), Prob: 0.0002
-Token: ' minutes' (ID: 4420), Prob: 0.0001
-Token: ' soon' (ID: 5135), Prob: 0.0001
-Token: ' recently' (ID: 5926), Prob: 0.0001
-Token: ' several' (ID: 3807), Prob: 0.0001
-Token: ' tomorrow' (ID: 16577), Prob: 0.0001
-Token: ' simultaneously' (ID: 24303), Prob: 0.0001
-Token: ' following' (ID: 2701), Prob: 0.0001
-Token: ' seven' (ID: 8094), Prob: 0.0001
-Token: ' afterwards' (ID: 26807), Prob: 0.0001
-Token: ' beforehand' (ID: 51059), Prob: 0.0001
-Token: ' less' (ID: 2686), Prob: 0.0001
-Token: ' subsequent' (ID: 17420), Prob: 0.0001
-Token: ' adjacent' (ID: 23942), Prob: 0.0001
-Token: ' last' (ID: 1537), Prob: 0.0001
-Token: ' four' (ID: 3040), Prob: 0.0001
-Token: ' normally' (ID: 14279), Prob: 0.0001
-Token: ' seconds' (ID: 6486), Prob: 0.0001
-Token: ' sooner' (ID: 30273), Prob: 0.0001
-Token: ' current' (ID: 1482), Prob: 0.0001
-Token: ' either' (ID: 2987), Prob: 0.0001
-Token: ' twice' (ID: 10917), Prob: 0.0001
-Token: ' locally' (ID: 23490), Prob: 0.0001
-Token: 'Immediately' (ID: 95693), Prob: 0.0001
-Token: ' already' (ID: 2669), Prob: 0.0001
-Token: ' time' (ID: 882), Prob: 0.0001
-Token: ' preceding' (ID: 37746), Prob: 0.0001
-Token: ' first' (ID: 1156), Prob: 0.0001
-Token: ' ten' (ID: 5779), Prob: 0.0001
+Token: ' points' (ID: 3501), Prob: 0.9844
+Token: ' based' (ID: 3118), Prob: 0.0003
+Token: ' Points' (ID: 20725), Prob: 0.0003
+Token: ' could' (ID: 1410), Prob: 0.0002
+Token: ' point' (ID: 1459), Prob: 0.0001
+Token: ' depends' (ID: 13798), Prob: 0.0001
+Token: ' options' (ID: 2606), Prob: 0.0001
+Token: ' choices' (ID: 11454), Prob: 0.0000
+Token: ' may' (ID: 1231), Prob: 0.0000
+Token: ' whether' (ID: 3425), Prob: 0.0000
+Token: ' might' (ID: 2578), Prob: 0.0000
+Token: ' according' (ID: 4092), Prob: 0.0000
+Token: ' yes' (ID: 9834), Prob: 0.0000
+Token: ' would' (ID: 1035), Prob: 0.0000
+Token: ' possible' (ID: 3204), Prob: 0.0000
+Token: ' Point' (ID: 5126), Prob: 0.0000
+Token: ' four' (ID: 3040), Prob: 0.0000
+Token: ' seems' (ID: 4977), Prob: 0.0000
+Token: ' questions' (ID: 4755), Prob: 0.0000
+Token: '(points' (ID: 32450), Prob: 0.0000
+Token: ' please' (ID: 4486), Prob: 0.0000
+Token: ' checks' (ID: 12341), Prob: 0.0000
+Token: ' makes' (ID: 3643), Prob: 0.0000
+Token: ' puntos' (ID: 60889), Prob: 0.0000
+Token: ' correct' (ID: 4396), Prob: 0.0000
+Token: 'points' (ID: 7706), Prob: 0.0000
+Token: '_points' (ID: 12928), Prob: 0.0000
+Token: ' sentences' (ID: 22870), Prob: 0.0000
+Token: ' either' (ID: 2987), Prob: 0.0000
+Token: ' cannot' (ID: 4157), Prob: 0.0000
+Token: ' key' (ID: 1376), Prob: 0.0000
+Token: ' must' (ID: 1969), Prob: 0.0000
+Token: ' cells' (ID: 7761), Prob: 0.0000
+Token: ' since' (ID: 2474), Prob: 0.0000
+Token: ' given' (ID: 2661), Prob: 0.0000
+Token: 'Points' (ID: 11411), Prob: 0.0000
+Token: ' contains' (ID: 5610), Prob: 0.0000
+Token: ' instructions' (ID: 11221), Prob: 0.0000
+Token: ' pairs' (ID: 13530), Prob: 0.0000
+Token: ' errors' (ID: 5975), Prob: 0.0000
+Token: ' differs' (ID: 43542), Prob: 0.0000
+Token: ' ends' (ID: 10335), Prob: 0.0000
+Token: ' possibly' (ID: 10767), Prob: 0.0000
+Token: ' statements' (ID: 12239), Prob: 0.0000
+Token: ' possibilities' (ID: 23607), Prob: 0.0000
+Token: ' needs' (ID: 3880), Prob: 0.0000
+Token: ' probably' (ID: 4658), Prob: 0.0000
+Token: ' Yes' (ID: 7414), Prob: 0.0000
+Token: ' words' (ID: 4244), Prob: 0.0000
 
 == Ranked Concepts (Clusters) ==
-Rank 1 | Concept Score: 0.7891
-  Tokens: [' immediately', ' immediate', ' immedi', ' instantly', ' Immediately', 'Immediately']
-Rank 2 | Concept Score: 0.0081
-  Tokens: [' earlier', ' prior', ' previous', ' preceding']
-Rank 3 | Concept Score: 0.0073
-  Tokens: [' two', ' three', ' five', ' several', ' seven', ' four', ' twice', ' ten']
-Rank 4 | Concept Score: 0.0061
-  Tokens: [' directly', ' exactly', ' either']
-Rank 5 | Concept Score: 0.0039
-  Tokens: [' later', ' afterward', ' subsequently', ' afterwards', ' subsequent']
-Rank 6 | Concept Score: 0.0029
-  Tokens: [' one', ' right', ' less']
-Rank 7 | Concept Score: 0.0018
-  Tokens: [' previously', ' initially', ' originally', ' already']
-Rank 8 | Concept Score: 0.0018
-  Tokens: [' next']
-Rank 9 | Concept Score: 0.0012
-  Tokens: [' within', ' upon', ' behind', ' beyond']
-Rank 10 | Concept Score: 0.0010
-  Tokens: [' yesterday', ' today', ' tomorrow']
-Rank 11 | Concept Score: 0.0008
-  Tokens: [' shortly', ' soon', ' sooner']
-Rank 12 | Concept Score: 0.0008
-  Tokens: [' currently', ' recently', ' current']
-Rank 13 | Concept Score: 0.0004
-  Tokens: [' hours', ' minutes', ' seconds', ' time']
-Rank 14 | Concept Score: 0.0003
-  Tokens: [' simultaneously', ' normally', ' locally']
-Rank 15 | Concept Score: 0.0002
-  Tokens: [' following', ' adjacent']
-Rank 16 | Concept Score: 0.0001
-  Tokens: [' last', ' first']
-Rank 17 | Concept Score: 0.0001
-  Tokens: [' beforehand']
+Rank 1 | Centroid: ' points' | Score: 0.9844
+  Tokens: [' points', ' Points', ' point', ' Point', '(points', ' puntos', 'points', '_points', 'Points']
+Rank 2 | Centroid: ' according' | Score: 0.0003
+  Tokens: [' based', ' according', ' since', ' given']
+Rank 3 | Centroid: ' may' | Score: 0.0002
+  Tokens: [' could', ' may', ' might', ' would', ' cannot', ' must']
+Rank 4 | Centroid: ' options' | Score: 0.0001
+  Tokens: [' options', ' choices', ' possibilities']
+Rank 5 | Centroid: ' seems' | Score: 0.0001
+  Tokens: [' depends', ' seems', ' makes', ' contains', ' differs', ' ends', ' needs']
+Rank 6 | Centroid: ' whether' | Score: 0.0000
+  Tokens: [' whether', ' either']
+Rank 7 | Centroid: ' sentences' | Score: 0.0000
+  Tokens: [' questions', ' sentences', ' instructions', ' statements', ' words']
+Rank 8 | Centroid: ' yes' | Score: 0.0000
+  Tokens: [' yes', ' Yes']
+Rank 9 | Centroid: ' possibly' | Score: 0.0000
+  Tokens: [' possible', ' possibly', ' probably']
+Rank 10 | Centroid: ' four' | Score: 0.0000
+  Tokens: [' four', ' key']
+Rank 11 | Centroid: ' errors' | Score: 0.0000
+  Tokens: [' checks', ' correct', ' errors']
+Rank 12 | Centroid: ' cells' | Score: 0.0000
+  Tokens: [' cells', ' pairs']
+Rank 13 | Centroid: ' please' | Score: 0.0000
+  Tokens: [' please']
 
-**Chosen Concept:** Rank 1 with score 0.7891
+**Chosen Concept:** Rank 1

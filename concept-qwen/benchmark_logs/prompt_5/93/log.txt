@@ -1,97 +1,72 @@
 --- Step 93 Log ---
 
 == Filtered Candidates ==
-Token: ' zone' (ID: 10143), Prob: 1.0000
-Token: ' zones' (ID: 25395), Prob: 0.0002
-Token: ' time' (ID: 882), Prob: 0.0001
-Token: ' region' (ID: 5537), Prob: 0.0001
-Token: 'zone' (ID: 8684), Prob: 0.0001
-Token: ' Zone' (ID: 22178), Prob: 0.0001
-Token: ' timezone' (ID: 33957), Prob: 0.0000
-Token: ' period' (ID: 4168), Prob: 0.0000
-Token: '-zone' (ID: 77763), Prob: 0.0000
-Token: '.zone' (ID: 57808), Prob: 0.0000
-Token: ' state' (ID: 1584), Prob: 0.0000
-Token: ' location' (ID: 3728), Prob: 0.0000
-Token: ' slot' (ID: 9446), Prob: 0.0000
-Token: '_zone' (ID: 28692), Prob: 0.0000
-Token: ' clock' (ID: 8866), Prob: 0.0000
-Token: ' tone' (ID: 16232), Prob: 0.0000
-Token: ' area' (ID: 3082), Prob: 0.0000
-Token: ' longitude' (ID: 20515), Prob: 0.0000
-Token: '(zone' (ID: 74228), Prob: 0.0000
-Token: ' base' (ID: 2331), Prob: 0.0000
-Token: ' instant' (ID: 9690), Prob: 0.0000
-Token: ' destination' (ID: 9106), Prob: 0.0000
-Token: ' center' (ID: 4126), Prob: 0.0000
-Token: ' district' (ID: 9290), Prob: 0.0000
-Token: ' band' (ID: 7055), Prob: 0.0000
-Token: ' transfer' (ID: 8317), Prob: 0.0000
-Token: ' lane' (ID: 21272), Prob: 0.0000
-Token: ' hour' (ID: 6460), Prob: 0.0000
-Token: 'Zone' (ID: 15363), Prob: 0.0000
-Token: ' offset' (ID: 4347), Prob: 0.0000
-Token: ' date' (ID: 2400), Prob: 0.0000
-Token: ' province' (ID: 16847), Prob: 0.0000
-Token: ' transition' (ID: 9142), Prob: 0.0000
-Token: ' due' (ID: 4152), Prob: 0.0000
-Token: ' plane' (ID: 11031), Prob: 0.0000
-Token: ' tunnel' (ID: 25629), Prob: 0.0000
-Token: ' station' (ID: 8056), Prob: 0.0000
-Token: ' format' (ID: 3561), Prob: 0.0000
-Token: ' interval' (ID: 9873), Prob: 0.0000
-Token: ' zona' (ID: 44012), Prob: 0.0000
-Token: ' zoning' (ID: 64978), Prob: 0.0000
-Token: ' one' (ID: 825), Prob: 0.0000
-Token: ' zero' (ID: 7168), Prob: 0.0000
-Token: ' domain' (ID: 7947), Prob: 0.0000
-Token: ' constraint' (ID: 21568), Prob: 0.0000
-Token: ' duration' (ID: 8090), Prob: 0.0000
-Token: ' point' (ID: 1459), Prob: 0.0000
-Token: ' block' (ID: 2504), Prob: 0.0000
-Token: ' moment' (ID: 4445), Prob: 0.0000
-Token: ' difference' (ID: 6672), Prob: 0.0000
-Token: ' front' (ID: 4065), Prob: 0.0000
-Token: ' unit' (ID: 4982), Prob: 0.0000
+Token: ' would' (ID: 1035), Prob: 1.0000
+Token: ' makes' (ID: 3643), Prob: 0.0004
+Token: ' made' (ID: 1865), Prob: 0.0000
+Token: ' could' (ID: 1410), Prob: 0.0000
+Token: ' might' (ID: 2578), Prob: 0.0000
+Token: ' seems' (ID: 4977), Prob: 0.0000
+Token: ' Would' (ID: 18885), Prob: 0.0000
+Token: ' making' (ID: 3259), Prob: 0.0000
+Token: ' must' (ID: 1969), Prob: 0.0000
+Token: 'would' (ID: 40350), Prob: 0.0000
+Token: ' also' (ID: 1083), Prob: 0.0000
+Token: ' make' (ID: 1281), Prob: 0.0000
+Token: ' may' (ID: 1231), Prob: 0.0000
+Token: ' assumes' (ID: 21484), Prob: 0.0000
+Token: ' works' (ID: 4278), Prob: 0.0000
+Token: ' ends' (ID: 10335), Prob: 0.0000
+Token: ' still' (ID: 2058), Prob: 0.0000
+Token: ' logically' (ID: 73045), Prob: 0.0000
+Token: ' shows' (ID: 4933), Prob: 0.0000
+Token: ' technically' (ID: 31554), Prob: 0.0000
+Token: ' würde' (ID: 58881), Prob: 0.0000
+Token: ' includes' (ID: 5646), Prob: 0.0000
+Token: ' matches' (ID: 9071), Prob: 0.0000
+Token: ' takes' (ID: 4990), Prob: 0.0000
+Token: 'Would' (ID: 27989), Prob: 0.0000
+Token: ' based' (ID: 3118), Prob: 0.0000
+Token: ' contains' (ID: 5610), Prob: 0.0000
+Token: ' math' (ID: 6888), Prob: 0.0000
+Token: ' corresponds' (ID: 33210), Prob: 0.0000
+Token: ' within' (ID: 2878), Prob: 0.0000
+Token: ' five' (ID: 4236), Prob: 0.0000
+Token: ' holds' (ID: 9982), Prob: 0.0000
+Token: ' contrad' (ID: 22296), Prob: 0.0000
+Token: ' modifies' (ID: 82949), Prob: 0.0000
+Token: ' says' (ID: 2727), Prob: 0.0000
+Token: ' refers' (ID: 19257), Prob: 0.0000
+Token: ' needs' (ID: 3880), Prob: 0.0000
+Token: ' always' (ID: 2677), Prob: 0.0000
+Token: ' becomes' (ID: 9044), Prob: 0.0000
 
 == Ranked Concepts (Clusters) ==
-Rank 1 | Concept Score: 1.0000
-  Tokens: [' zone', ' zones', 'zone', ' Zone', '-zone', '.zone', '_zone', '(zone', 'Zone', ' zona', ' zoning']
-Rank 2 | Concept Score: 0.0002
-  Tokens: [' time', ' timezone', ' clock', ' date']
-Rank 3 | Concept Score: 0.0001
-  Tokens: [' region', ' area']
-Rank 4 | Concept Score: 0.0000
-  Tokens: [' period', ' interval', ' duration']
-Rank 5 | Concept Score: 0.0000
-  Tokens: [' slot', ' tone', ' band', ' plane', ' block']
-Rank 6 | Concept Score: 0.0000
-  Tokens: [' location', ' destination']
-Rank 7 | Concept Score: 0.0000
-  Tokens: [' state', ' point']
-Rank 8 | Concept Score: 0.0000
-  Tokens: [' base', ' due', ' one', ' zero']
-Rank 9 | Concept Score: 0.0000
-  Tokens: [' transfer', ' offset', ' transition', ' difference']
-Rank 10 | Concept Score: 0.0000
-  Tokens: [' longitude', ' lane']
-Rank 11 | Concept Score: 0.0000
-  Tokens: [' district', ' province']
-Rank 12 | Concept Score: 0.0000
-  Tokens: [' instant', ' moment']
-Rank 13 | Concept Score: 0.0000
-  Tokens: [' center', ' unit']
-Rank 14 | Concept Score: 0.0000
-  Tokens: [' tunnel', ' station']
-Rank 15 | Concept Score: 0.0000
-  Tokens: [' hour']
-Rank 16 | Concept Score: 0.0000
-  Tokens: [' format']
-Rank 17 | Concept Score: 0.0000
-  Tokens: [' constraint']
-Rank 18 | Concept Score: 0.0000
-  Tokens: [' domain']
-Rank 19 | Concept Score: 0.0000
-  Tokens: [' front']
+Rank 1 | Centroid: ' Would' | Score: 1.0000
+  Tokens: [' would', ' Would', 'would', ' würde', 'Would']
+Rank 2 | Centroid: ' make' | Score: 0.0005
+  Tokens: [' makes', ' made', ' making', ' make']
+Rank 3 | Centroid: ' may' | Score: 0.0000
+  Tokens: [' could', ' might', ' must', ' may']
+Rank 4 | Centroid: ' seems' | Score: 0.0000
+  Tokens: [' seems', ' assumes', ' shows', ' takes', ' holds', ' says', ' becomes']
+Rank 5 | Centroid: ' still' | Score: 0.0000
+  Tokens: [' also', ' still', ' always']
+Rank 6 | Centroid: ' logically' | Score: 0.0000
+  Tokens: [' logically', ' technically']
+Rank 7 | Centroid: ' ends' | Score: 0.0000
+  Tokens: [' ends', ' needs']
+Rank 8 | Centroid: ' works' | Score: 0.0000
+  Tokens: [' works']
+Rank 9 | Centroid: ' corresponds' | Score: 0.0000
+  Tokens: [' matches', ' corresponds', ' contrad']
+Rank 10 | Centroid: ' includes' | Score: 0.0000
+  Tokens: [' includes', ' contains', ' refers']
+Rank 11 | Centroid: ' within' | Score: 0.0000
+  Tokens: [' based', ' within', ' five']
+Rank 12 | Centroid: ' math' | Score: 0.0000
+  Tokens: [' math']
+Rank 13 | Centroid: ' modifies' | Score: 0.0000
+  Tokens: [' modifies']
 
-**Chosen Concept:** Rank 1 with score 1.0000
+**Chosen Concept:** Rank 1

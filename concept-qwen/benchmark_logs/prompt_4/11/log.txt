@@ -1,22 +1,64 @@
 --- Step 11 Log ---
 
 == Filtered Candidates ==
-Token: ' Today' (ID: 11201), Prob: 0.0009
-Token: ' Even' (ID: 7418), Prob: 0.0005
-Token: ' Whether' (ID: 13139), Prob: 0.0004
-Token: ' Based' (ID: 20205), Prob: 0.0004
-Token: ' Alone' (ID: 69308), Prob: 0.0003
+Token: ' items' (ID: 3589), Prob: 0.0087
+Token: ' elements' (ID: 5424), Prob: 0.0025
+Token: ' traits' (ID: 24055), Prob: 0.0017
+Token: ' names' (ID: 5036), Prob: 0.0009
+Token: ' listed' (ID: 10007), Prob: 0.0008
+Token: ' given' (ID: 2661), Prob: 0.0008
+Token: 'ings' (ID: 819), Prob: 0.0007
+Token: ' provided' (ID: 3897), Prob: 0.0005
+Token: ' entries' (ID: 10695), Prob: 0.0005
+Token: ' plus' (ID: 5519), Prob: 0.0004
+Token: ' attributes' (ID: 8201), Prob: 0.0004
+Token: ' words' (ID: 4244), Prob: 0.0003
+Token: ' points' (ID: 3501), Prob: 0.0003
+Token: ' including' (ID: 2670), Prob: 0.0002
+Token: ' mentioned' (ID: 9733), Prob: 0.0002
+Token: ' features' (ID: 4419), Prob: 0.0002
+Token: ' item' (ID: 1509), Prob: 0.0002
+Token: ' options' (ID: 2606), Prob: 0.0002
+Token: ' four' (ID: 3040), Prob: 0.0002
+Token: ' three' (ID: 2326), Prob: 0.0002
+Token: ' within' (ID: 2878), Prob: 0.0002
+Token: ' five' (ID: 4236), Prob: 0.0002
+Token: ' terms' (ID: 3793), Prob: 0.0002
+Token: ' list' (ID: 1140), Prob: 0.0001
+Token: ' characters' (ID: 5766), Prob: 0.0001
+Token: ' shown' (ID: 6839), Prob: 0.0001
+Token: ' based' (ID: 3118), Prob: 0.0001
+Token: ' included' (ID: 5230), Prob: 0.0001
+Token: ' descriptions' (ID: 27787), Prob: 0.0001
+Token: ' using' (ID: 1667), Prob: 0.0001
+Token: ' keywords' (ID: 20844), Prob: 0.0001
 
 == Ranked Concepts (Clusters) ==
-Rank 1 | Concept Score: 0.0009
-  Tokens: [' Today']
-Rank 2 | Concept Score: 0.0005
-  Tokens: [' Even']
-Rank 3 | Concept Score: 0.0004
-  Tokens: [' Whether']
-Rank 4 | Concept Score: 0.0004
-  Tokens: [' Based']
-Rank 5 | Concept Score: 0.0003
-  Tokens: [' Alone']
+Rank 1 | Centroid: ' items' | Score: 0.0089
+  Tokens: [' items', ' item']
+Rank 2 | Centroid: ' elements' | Score: 0.0033
+  Tokens: [' elements', ' entries', ' points']
+Rank 3 | Centroid: ' traits' | Score: 0.0025
+  Tokens: [' traits', ' attributes', ' features', ' options']
+Rank 4 | Centroid: ' given' | Score: 0.0013
+  Tokens: [' given', ' provided']
+Rank 5 | Centroid: ' names' | Score: 0.0010
+  Tokens: [' names', ' descriptions']
+Rank 6 | Centroid: ' listed' | Score: 0.0009
+  Tokens: [' listed', ' list']
+Rank 7 | Centroid: ' including' | Score: 0.0007
+  Tokens: [' plus', ' including', ' included']
+Rank 8 | Centroid: 'ings' | Score: 0.0007
+  Tokens: ['ings']
+Rank 9 | Centroid: ' four' | Score: 0.0006
+  Tokens: [' four', ' three', ' five']
+Rank 10 | Centroid: ' words' | Score: 0.0006
+  Tokens: [' words', ' terms', ' keywords']
+Rank 11 | Centroid: ' mentioned' | Score: 0.0004
+  Tokens: [' mentioned', ' shown']
+Rank 12 | Centroid: ' using' | Score: 0.0004
+  Tokens: [' within', ' based', ' using']
+Rank 13 | Centroid: ' characters' | Score: 0.0001
+  Tokens: [' characters']
 
-**Chosen Concept:** Rank 1 with score 0.0009
+**Chosen Concept:** Rank 1

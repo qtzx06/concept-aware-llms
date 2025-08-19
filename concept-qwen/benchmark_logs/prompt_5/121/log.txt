@@ -1,122 +1,87 @@
 --- Step 121 Log ---
 
 == Filtered Candidates ==
-Token: ' destination' (ID: 9106), Prob: 1.0000
-Token: ' time' (ID: 882), Prob: 0.0003
-Token: ' next' (ID: 1790), Prob: 0.0001
-Token: ' location' (ID: 3728), Prob: 0.0001
-Token: ' source' (ID: 2530), Prob: 0.0000
-Token: '(destination' (ID: 48076), Prob: 0.0000
-Token: 'destination' (ID: 17997), Prob: 0.0000
-Token: ' current' (ID: 1482), Prob: 0.0000
-Token: ' purpose' (ID: 7428), Prob: 0.0000
-Token: ' following' (ID: 2701), Prob: 0.0000
-Token: ' dest' (ID: 3201), Prob: 0.0000
-Token: ' origin' (ID: 6238), Prob: 0.0000
-Token: ' arrival' (ID: 18647), Prob: 0.0000
-Token: ' target' (ID: 2169), Prob: 0.0000
-Token: ' date' (ID: 2400), Prob: 0.0000
-Token: ' exact' (ID: 4734), Prob: 0.0000
-Token: ' new' (ID: 501), Prob: 0.0000
-Token: ' end' (ID: 835), Prob: 0.0000
-Token: ' nearest' (ID: 23480), Prob: 0.0000
-Token: ' one' (ID: 825), Prob: 0.0000
-Token: ' second' (ID: 2086), Prob: 0.0000
-Token: ' correct' (ID: 4396), Prob: 0.0000
-Token: '.destination' (ID: 35018), Prob: 0.0000
-Token: ' original' (ID: 4024), Prob: 0.0000
-Token: ' destinations' (ID: 33105), Prob: 0.0000
-Token: ' direction' (ID: 5106), Prob: 0.0000
-Token: ' beginning' (ID: 7167), Prob: 0.0000
-Token: ' maximum' (ID: 7192), Prob: 0.0000
-Token: ' Destination' (ID: 41728), Prob: 0.0000
-Token: ' first' (ID: 1156), Prob: 0.0000
-Token: ' position' (ID: 2309), Prob: 0.0000
-Token: ' distance' (ID: 6010), Prob: 0.0000
-Token: ' desired' (ID: 12685), Prob: 0.0000
-Token: ' point' (ID: 1459), Prob: 0.0000
-Token: ' intended' (ID: 10602), Prob: 0.0000
-Token: ' final' (ID: 1590), Prob: 0.0000
-Token: ' place' (ID: 1992), Prob: 0.0000
-Token: ' present' (ID: 3042), Prob: 0.0000
-Token: ' immediate' (ID: 13922), Prob: 0.0000
-Token: ' landing' (ID: 20327), Prob: 0.0000
-Token: ' previous' (ID: 3681), Prob: 0.0000
-Token: ' departure' (ID: 24915), Prob: 0.0000
-Token: ' future' (ID: 3853), Prob: 0.0000
-Token: ' actual' (ID: 5042), Prob: 0.0000
-Token: ' latest' (ID: 5535), Prob: 0.0000
-Token: ' destiny' (ID: 46076), Prob: 0.0000
-Token: ' destin' (ID: 50987), Prob: 0.0000
-Token: ' flight' (ID: 10971), Prob: 0.0000
-Token: ' direct' (ID: 2118), Prob: 0.0000
-Token: ' opposite' (ID: 14002), Prob: 0.0000
-Token: ' clock' (ID: 8866), Prob: 0.0000
-Token: ' airport' (ID: 16733), Prob: 0.0000
-Token: ' bottom' (ID: 5622), Prob: 0.0000
-Token: ' unknown' (ID: 9788), Prob: 0.0000
-Token: ' specific' (ID: 3151), Prob: 0.0000
-Token: ' start' (ID: 1191), Prob: 0.0000
-Token: ' home' (ID: 2114), Prob: 0.0000
-Token: ' closest' (ID: 18093), Prob: 0.0000
-Token: ' city' (ID: 3283), Prob: 0.0000
-Token: ' region' (ID: 5537), Prob: 0.0000
-Token: ' intention' (ID: 14602), Prob: 0.0000
-Token: ' respective' (ID: 19511), Prob: 0.0000
-Token: '_destination' (ID: 56344), Prob: 0.0000
-Token: ' presence' (ID: 9362), Prob: 0.0000
-Token: ' two' (ID: 1378), Prob: 0.0000
-Token: ' goal' (ID: 5795), Prob: 0.0000
-Token: ' last' (ID: 1537), Prob: 0.0000
-Token: ' front' (ID: 4065), Prob: 0.0000
-Token: ' moment' (ID: 4445), Prob: 0.0000
-Token: ' existing' (ID: 6350), Prob: 0.0000
-Token: ' intent' (ID: 7385), Prob: 0.0000
-Token: ' remaining' (ID: 9664), Prob: 0.0000
-Token: ' east' (ID: 10984), Prob: 0.0000
-Token: ' forest' (ID: 13638), Prob: 0.0000
-Token: ' right' (ID: 1290), Prob: 0.0000
-Token: ' duration' (ID: 8090), Prob: 0.0000
-Token: ' designated' (ID: 23195), Prob: 0.0000
+Token: 'Answer' (ID: 16141), Prob: 0.9023
+Token: 'Based' (ID: 28715), Prob: 0.0654
+Token: 'Okay' (ID: 32313), Prob: 0.0014
+Token: 'Question' (ID: 14582), Prob: 0.0006
+Token: 'Alright' (ID: 71486), Prob: 0.0004
+Token: 'Yes' (ID: 9454), Prob: 0.0002
+Token: 'Since' (ID: 12549), Prob: 0.0002
+Token: ' Based' (ID: 20205), Prob: 0.0002
+Token: 'based' (ID: 29939), Prob: 0.0002
+Token: 'Problem' (ID: 31198), Prob: 0.0002
+Token: 'Final' (ID: 19357), Prob: 0.0001
+Token: ' Answer' (ID: 21806), Prob: 0.0001
+Token: 'Finally' (ID: 23949), Prob: 0.0001
+Token: 'Wait' (ID: 14190), Prob: 0.0001
+Token: 'Please' (ID: 5501), Prob: 0.0001
+Token: 'Even' (ID: 13159), Prob: 0.0001
+Token: 'Note' (ID: 9112), Prob: 0.0001
+Token: 'Explanation' (ID: 69769), Prob: 0.0001
+Token: 'Let' (ID: 10061), Prob: 0.0001
+Token: 'Given' (ID: 22043), Prob: 0.0001
+Token: 'Choose' (ID: 24051), Prob: 0.0001
+Token: 'Actually' (ID: 52592), Prob: 0.0001
+Token: 'Solution' (ID: 36842), Prob: 0.0001
+Token: 'Step' (ID: 8304), Prob: 0.0001
+Token: 'Every' (ID: 11510), Prob: 0.0001
+Token: 'Therefore' (ID: 54815), Prob: 0.0001
+Token: 'Number' (ID: 2833), Prob: 0.0000
+Token: 'Check' (ID: 3973), Prob: 0.0000
+Token: 'Analysis' (ID: 26573), Prob: 0.0000
+Token: 'Back' (ID: 3707), Prob: 0.0000
+Token: 'Word' (ID: 10879), Prob: 0.0000
+Token: 'Well' (ID: 11395), Prob: 0.0000
+Token: 'Exercise' (ID: 52709), Prob: 0.0000
+Token: 'However' (ID: 11209), Prob: 0.0000
+Token: 'Response' (ID: 2582), Prob: 0.0000
+Token: 'Group' (ID: 2808), Prob: 0.0000
+Token: 'None' (ID: 4064), Prob: 0.0000
+Token: 'Decision' (ID: 74846), Prob: 0.0000
+Token: 'Would' (ID: 27989), Prob: 0.0000
+Token: 'Thus' (ID: 44500), Prob: 0.0000
+Token: 'Answers' (ID: 47232), Prob: 0.0000
+Token: 'Click' (ID: 2612), Prob: 0.0000
+Token: 'Ass' (ID: 5615), Prob: 0.0000
+Token: 'Also' (ID: 13394), Prob: 0.0000
+Token: 'Describe' (ID: 74785), Prob: 0.0000
+Token: 'According' (ID: 11190), Prob: 0.0000
 
 == Ranked Concepts (Clusters) ==
-Rank 1 | Concept Score: 1.0000
-  Tokens: [' destination', '(destination', 'destination', ' dest', '.destination', ' destinations', ' Destination', ' destiny', ' destin', '_destination']
-Rank 2 | Concept Score: 0.0004
-  Tokens: [' time', ' date', ' distance', ' clock', ' moment', ' duration']
-Rank 3 | Concept Score: 0.0001
-  Tokens: [' next', ' following', ' future', ' remaining']
-Rank 4 | Concept Score: 0.0001
-  Tokens: [' location', ' direction', ' position', ' point', ' place', ' region']
-Rank 5 | Concept Score: 0.0001
-  Tokens: [' source', ' origin', ' original']
-Rank 6 | Concept Score: 0.0000
-  Tokens: [' current', ' new', ' previous', ' existing']
-Rank 7 | Concept Score: 0.0000
-  Tokens: [' purpose', ' desired', ' intended', ' intention', ' goal', ' intent']
-Rank 8 | Concept Score: 0.0000
-  Tokens: [' exact', ' correct', ' immediate', ' actual', ' direct', ' specific']
-Rank 9 | Concept Score: 0.0000
-  Tokens: [' arrival', ' landing', ' departure', ' flight', ' airport']
-Rank 10 | Concept Score: 0.0000
-  Tokens: [' nearest', ' maximum', ' latest', ' closest']
-Rank 11 | Concept Score: 0.0000
-  Tokens: [' end', ' beginning', ' start']
-Rank 12 | Concept Score: 0.0000
-  Tokens: [' second', ' first', ' final', ' last']
-Rank 13 | Concept Score: 0.0000
-  Tokens: [' one', ' bottom', ' home', ' two', ' front', ' right']
-Rank 14 | Concept Score: 0.0000
-  Tokens: [' target']
-Rank 15 | Concept Score: 0.0000
-  Tokens: [' present', ' presence']
-Rank 16 | Concept Score: 0.0000
-  Tokens: [' opposite', ' respective', ' designated']
-Rank 17 | Concept Score: 0.0000
-  Tokens: [' east', ' forest']
-Rank 18 | Concept Score: 0.0000
-  Tokens: [' unknown']
-Rank 19 | Concept Score: 0.0000
-  Tokens: [' city']
+Rank 1 | Centroid: ' Answer' | Score: 0.9023
+  Tokens: ['Answer', ' Answer', 'Response', 'Answers']
+Rank 2 | Centroid: 'Based' | Score: 0.0659
+  Tokens: ['Based', ' Based', 'based', 'According']
+Rank 3 | Centroid: 'Okay' | Score: 0.0020
+  Tokens: ['Okay', 'Alright', 'Yes']
+Rank 4 | Centroid: 'Question' | Score: 0.0008
+  Tokens: ['Question', 'Problem', 'Exercise']
+Rank 5 | Centroid: 'Therefore' | Score: 0.0005
+  Tokens: ['Since', 'Let', 'Given', 'Therefore', 'However', 'Thus']
+Rank 6 | Centroid: 'Final' | Score: 0.0003
+  Tokens: ['Final', 'Finally']
+Rank 7 | Centroid: 'Choose' | Score: 0.0002
+  Tokens: ['Please', 'Choose', 'Click', 'Describe']
+Rank 8 | Centroid: 'Check' | Score: 0.0002
+  Tokens: ['Wait', 'Step', 'Check']
+Rank 9 | Centroid: 'Every' | Score: 0.0002
+  Tokens: ['Even', 'Every', 'Well']
+Rank 10 | Centroid: 'Explanation' | Score: 0.0002
+  Tokens: ['Explanation', 'Solution']
+Rank 11 | Centroid: 'Number' | Score: 0.0001
+  Tokens: ['Number', 'Word', 'Group']
+Rank 12 | Centroid: 'Note' | Score: 0.0001
+  Tokens: ['Note', 'Ass']
+Rank 13 | Centroid: 'Actually' | Score: 0.0001
+  Tokens: ['Actually', 'Also']
+Rank 14 | Centroid: 'Analysis' | Score: 0.0001
+  Tokens: ['Analysis', 'Decision']
+Rank 15 | Centroid: 'Back' | Score: 0.0000
+  Tokens: ['Back']
+Rank 16 | Centroid: 'None' | Score: 0.0000
+  Tokens: ['None']
+Rank 17 | Centroid: 'Would' | Score: 0.0000
+  Tokens: ['Would']
 
-**Chosen Concept:** Rank 1 with score 1.0000
+**Chosen Concept:** Rank 1

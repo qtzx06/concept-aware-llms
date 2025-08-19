@@ -1,0 +1,134 @@
+--- Step 30 Log ---
+
+== Filtered Candidates ==
+Token: ' overwhelmed' (ID: 42106), Prob: 0.8242
+Token: ' lost' (ID: 5558), Prob: 0.0410
+Token: ' helpless' (ID: 62528), Prob: 0.0182
+Token: ' sad' (ID: 12421), Prob: 0.0125
+Token: ' sadness' (ID: 50878), Prob: 0.0067
+Token: ' broken' (ID: 10865), Prob: 0.0052
+Token: ' overwhelming' (ID: 22024), Prob: 0.0049
+Token: ' something' (ID: 2494), Prob: 0.0036
+Token: ' deep' (ID: 5538), Prob: 0.0034
+Token: ' deeply' (ID: 17247), Prob: 0.0032
+Token: ' intense' (ID: 18894), Prob: 0.0028
+Token: ' heart' (ID: 4746), Prob: 0.0026
+Token: ' vulnerable' (ID: 19563), Prob: 0.0025
+Token: ' completely' (ID: 6587), Prob: 0.0023
+Token: ' lonely' (ID: 39566), Prob: 0.0018
+Token: ' trapped' (ID: 30591), Prob: 0.0017
+Token: ' tears' (ID: 23139), Prob: 0.0014
+Token: ' desperate' (ID: 27395), Prob: 0.0014
+Token: ' exhausted' (ID: 37919), Prob: 0.0013
+Token: ' hopeless' (ID: 74223), Prob: 0.0012
+Token: ' emotions' (ID: 21261), Prob: 0.0010
+Token: ' upset' (ID: 22459), Prob: 0.0009
+Token: ' like' (ID: 1075), Prob: 0.0008
+Token: ' pain' (ID: 6646), Prob: 0.0008
+Token: ' alone' (ID: 7484), Prob: 0.0008
+Token: ' crushed' (ID: 32645), Prob: 0.0007
+Token: ' defeated' (ID: 23283), Prob: 0.0007
+Token: ' empty' (ID: 4287), Prob: 0.0006
+Token: ' emotional' (ID: 14269), Prob: 0.0006
+Token: ' incredibly' (ID: 16815), Prob: 0.0006
+Token: ' stuck' (ID: 15700), Prob: 0.0005
+Token: ' unable' (ID: 11889), Prob: 0.0005
+Token: ' sorrow' (ID: 57496), Prob: 0.0005
+Token: ' everything' (ID: 4297), Prob: 0.0004
+Token: ' full' (ID: 2480), Prob: 0.0004
+Token: ' hurt' (ID: 12898), Prob: 0.0004
+Token: ' alive' (ID: 13675), Prob: 0.0004
+Token: ' devastated' (ID: 57997), Prob: 0.0004
+Token: ' abandoned' (ID: 22978), Prob: 0.0004
+Token: ' emotionally' (ID: 37583), Prob: 0.0004
+Token: ' despair' (ID: 45896), Prob: 0.0004
+Token: ' pure' (ID: 10526), Prob: 0.0003
+Token: ' powerless' (ID: 84352), Prob: 0.0003
+Token: ' compelled' (ID: 47884), Prob: 0.0003
+Token: ' strong' (ID: 3746), Prob: 0.0003
+Token: ' overwhelm' (ID: 95748), Prob: 0.0003
+Token: ' raw' (ID: 7112), Prob: 0.0003
+Token: ' overcome' (ID: 22279), Prob: 0.0003
+Token: ' joy' (ID: 15888), Prob: 0.0002
+Token: ' relieved' (ID: 50412), Prob: 0.0002
+Token: ' sorry' (ID: 14589), Prob: 0.0002
+Token: ' emotion' (ID: 19772), Prob: 0.0002
+Token: ' overwhelmingly' (ID: 54634), Prob: 0.0002
+Token: ' filled' (ID: 10199), Prob: 0.0002
+Token: ' intensely' (ID: 69633), Prob: 0.0002
+Token: ' terrible' (ID: 17478), Prob: 0.0002
+Token: ' frustrated' (ID: 32530), Prob: 0.0002
+Token: ' utterly' (ID: 37531), Prob: 0.0002
+Token: ' loss' (ID: 4709), Prob: 0.0002
+Token: ' genuine' (ID: 22011), Prob: 0.0002
+Token: ' left' (ID: 2115), Prob: 0.0002
+Token: ' guilty' (ID: 16007), Prob: 0.0002
+Token: ' angry' (ID: 18514), Prob: 0.0002
+Token: ' powerful' (ID: 7988), Prob: 0.0002
+Token: ' heavy' (ID: 8811), Prob: 0.0002
+Token: ' profound' (ID: 27155), Prob: 0.0002
+Token: ' really' (ID: 2167), Prob: 0.0001
+Token: ' extremely' (ID: 9016), Prob: 0.0001
+Token: ' truly' (ID: 9428), Prob: 0.0001
+Token: ' weak' (ID: 7469), Prob: 0.0001
+Token: ' anxious' (ID: 37000), Prob: 0.0001
+Token: ' washed' (ID: 37493), Prob: 0.0001
+Token: ' longing' (ID: 78322), Prob: 0.0001
+Token: ' complete' (ID: 4583), Prob: 0.0001
+Token: ' tired' (ID: 19227), Prob: 0.0001
+Token: ' tear' (ID: 17576), Prob: 0.0001
+Token: ' torn' (ID: 21145), Prob: 0.0001
+Token: ' numb' (ID: 56271), Prob: 0.0001
+Token: ' wide' (ID: 6884), Prob: 0.0001
+Token: ' confused' (ID: 21815), Prob: 0.0001
+Token: ' suppressed' (ID: 54989), Prob: 0.0001
+Token: ' disappointed' (ID: 24402), Prob: 0.0001
+Token: ' awful' (ID: 24607), Prob: 0.0001
+
+== Ranked Concepts (Clusters) ==
+Rank 1 | Centroid: ' overwhelming' | Score: 0.8281
+  Tokens: [' overwhelmed', ' overwhelming', ' overwhelm', ' overcome', ' overwhelmingly']
+Rank 2 | Centroid: ' lost' | Score: 0.0420
+  Tokens: [' lost', ' like', ' loss', ' left']
+Rank 3 | Centroid: ' helpless' | Score: 0.0219
+  Tokens: [' helpless', ' vulnerable', ' unable', ' powerless', ' compelled', ' guilty']
+Rank 4 | Centroid: ' sorrow' | Score: 0.0201
+  Tokens: [' sad', ' sadness', ' sorrow', ' despair', ' longing']
+Rank 5 | Centroid: ' profound' | Score: 0.0096
+  Tokens: [' deep', ' deeply', ' intense', ' intensely', ' profound']
+Rank 6 | Centroid: ' abandoned' | Score: 0.0095
+  Tokens: [' broken', ' trapped', ' crushed', ' defeated', ' stuck', ' abandoned', ' confused', ' suppressed']
+Rank 7 | Centroid: ' desperate' | Score: 0.0044
+  Tokens: [' lonely', ' desperate', ' hopeless']
+Rank 8 | Centroid: ' something' | Score: 0.0040
+  Tokens: [' something', ' everything']
+Rank 9 | Centroid: ' joy' | Score: 0.0036
+  Tokens: [' heart', ' pain', ' joy']
+Rank 10 | Centroid: ' incredibly' | Score: 0.0032
+  Tokens: [' completely', ' incredibly', ' utterly', ' extremely']
+Rank 11 | Centroid: ' frustrated' | Score: 0.0024
+  Tokens: [' exhausted', ' devastated', ' relieved', ' frustrated', ' tired', ' disappointed']
+Rank 12 | Centroid: ' emotional' | Score: 0.0022
+  Tokens: [' emotions', ' emotional', ' emotionally', ' emotion']
+Rank 13 | Centroid: ' pure' | Score: 0.0017
+  Tokens: [' alone', ' alive', ' pure', ' raw']
+Rank 14 | Centroid: ' tear' | Score: 0.0016
+  Tokens: [' tears', ' tear', ' torn']
+Rank 15 | Centroid: ' full' | Score: 0.0013
+  Tokens: [' empty', ' full', ' filled', ' complete']
+Rank 16 | Centroid: ' angry' | Score: 0.0012
+  Tokens: [' upset', ' angry', ' anxious']
+Rank 17 | Centroid: ' strong' | Score: 0.0008
+  Tokens: [' strong', ' powerful', ' heavy', ' weak', ' wide']
+Rank 18 | Centroid: ' hurt' | Score: 0.0006
+  Tokens: [' hurt', ' sorry']
+Rank 19 | Centroid: ' truly' | Score: 0.0005
+  Tokens: [' genuine', ' really', ' truly']
+Rank 20 | Centroid: ' terrible' | Score: 0.0003
+  Tokens: [' terrible', ' awful']
+Rank 21 | Centroid: ' washed' | Score: 0.0001
+  Tokens: [' washed']
+Rank 22 | Centroid: ' numb' | Score: 0.0001
+  Tokens: [' numb']
+
+**Chosen Concept:** Rank 1

@@ -1,84 +1,112 @@
 --- Step 139 Log ---
 
 == Filtered Candidates ==
-Token: ' money' (ID: 3220), Prob: 1.0000
-Token: ' back' (ID: 1182), Prob: 0.0001
-Token: ' cash' (ID: 8350), Prob: 0.0000
-Token: ' coin' (ID: 16254), Prob: 0.0000
-Token: ' Money' (ID: 17633), Prob: 0.0000
-Token: '_money' (ID: 34065), Prob: 0.0000
-Token: ' monetary' (ID: 32284), Prob: 0.0000
-Token: ' something' (ID: 2494), Prob: 0.0000
-Token: ' payment' (ID: 8160), Prob: 0.0000
-Token: ' profit' (ID: 11372), Prob: 0.0000
-Token: 'money' (ID: 28259), Prob: 0.0000
-Token: ' paid' (ID: 7171), Prob: 0.0000
-Token: ' information' (ID: 1995), Prob: 0.0000
-Token: ' mon' (ID: 1615), Prob: 0.0000
-Token: ' food' (ID: 3607), Prob: 0.0000
-Token: ' mail' (ID: 8072), Prob: 0.0000
-Token: ' gold' (ID: 6623), Prob: 0.0000
-Token: ' income' (ID: 7911), Prob: 0.0000
-Token: ' metal' (ID: 9317), Prob: 0.0000
-Token: ' funds' (ID: 10514), Prob: 0.0000
-Token: ' milk' (ID: 14074), Prob: 0.0000
-Token: ' help' (ID: 1492), Prob: 0.0000
-Token: ' music' (ID: 4627), Prob: 0.0000
-Token: ' blood' (ID: 6543), Prob: 0.0000
-Token: ' magic' (ID: 10963), Prob: 0.0000
-Token: ' dollars' (ID: 11192), Prob: 0.0000
-Token: 'Money' (ID: 24786), Prob: 0.0000
-Token: ' currency' (ID: 11413), Prob: 0.0000
-Token: ' message' (ID: 1943), Prob: 0.0000
-Token: ' dinero' (ID: 65808), Prob: 0.0000
-Token: ' enough' (ID: 3322), Prob: 0.0000
-Token: ' one' (ID: 825), Prob: 0.0000
-Token: ' financial' (ID: 5896), Prob: 0.0000
-Token: ' MONEY' (ID: 93462), Prob: 0.0000
-Token: '.money' (ID: 59909), Prob: 0.0000
-Token: ' dinheiro' (ID: 96487), Prob: 0.0000
-Token: ' home' (ID: 2114), Prob: 0.0000
-Token: ' lost' (ID: 5558), Prob: 0.0000
-Token: ' loan' (ID: 11679), Prob: 0.0000
-Token: ' moon' (ID: 17788), Prob: 0.0000
-Token: ' funding' (ID: 10773), Prob: 0.0000
-Token: ' dollar' (ID: 17692), Prob: 0.0000
-Token: ' credit' (ID: 6668), Prob: 0.0000
+Token: ' grow' (ID: 3063), Prob: 1.0000
+Token: ' grown' (ID: 14700), Prob: 0.0002
+Token: ' growth' (ID: 6513), Prob: 0.0001
+Token: ' grows' (ID: 27715), Prob: 0.0001
+Token: ' growing' (ID: 7826), Prob: 0.0001
+Token: ' grew' (ID: 13938), Prob: 0.0000
+Token: ' get' (ID: 633), Prob: 0.0000
+Token: ' old' (ID: 2310), Prob: 0.0000
+Token: ' stay' (ID: 4717), Prob: 0.0000
+Token: ' age' (ID: 4231), Prob: 0.0000
+Token: ' become' (ID: 3635), Prob: 0.0000
+Token: ' raise' (ID: 4828), Prob: 0.0000
+Token: ' young' (ID: 3908), Prob: 0.0000
+Token: ' rise' (ID: 10000), Prob: 0.0000
+Token: ' eat' (ID: 8180), Prob: 0.0000
+Token: ' engage' (ID: 16579), Prob: 0.0000
+Token: 'grow' (ID: 66218), Prob: 0.0000
+Token: ' round' (ID: 4778), Prob: 0.0000
+Token: ' leave' (ID: 5274), Prob: 0.0000
+Token: ' mature' (ID: 14851), Prob: 0.0000
+Token: ' Grow' (ID: 46560), Prob: 0.0000
+Token: ' keep' (ID: 2506), Prob: 0.0000
+Token: ' start' (ID: 1191), Prob: 0.0000
+Token: ' live' (ID: 3887), Prob: 0.0000
+Token: ' take' (ID: 1896), Prob: 0.0000
+Token: ' make' (ID: 1281), Prob: 0.0000
+Token: ' sleep' (ID: 6084), Prob: 0.0000
+Token: ' gather' (ID: 9567), Prob: 0.0000
+Token: ' use' (ID: 990), Prob: 0.0000
+Token: ' read' (ID: 1349), Prob: 0.0000
+Token: ' group' (ID: 1874), Prob: 0.0000
+Token: ' continue' (ID: 3060), Prob: 0.0000
+Token: ' cross' (ID: 5312), Prob: 0.0000
+Token: ' reach' (ID: 5545), Prob: 0.0000
+Token: ' long' (ID: 1293), Prob: 0.0000
+Token: ' choose' (ID: 5157), Prob: 0.0000
+Token: ' spend' (ID: 8329), Prob: 0.0000
+Token: ' forget' (ID: 10667), Prob: 0.0000
+Token: ' develop' (ID: 2225), Prob: 0.0000
+Token: ' move' (ID: 3271), Prob: 0.0000
+Token: ' care' (ID: 2453), Prob: 0.0000
+Token: ' ask' (ID: 2548), Prob: 0.0000
+Token: ' gain' (ID: 8722), Prob: 0.0000
+Token: ' graduate' (ID: 19023), Prob: 0.0000
+Token: ' groom' (ID: 39841), Prob: 0.0000
+Token: ' years' (ID: 1635), Prob: 0.0000
+Token: ' catch' (ID: 2287), Prob: 0.0000
+Token: ' focus' (ID: 5244), Prob: 0.0000
+Token: ' give' (ID: 2968), Prob: 0.0000
+Token: ' generate' (ID: 6923), Prob: 0.0000
+Token: ' aged' (ID: 19749), Prob: 0.0000
+Token: ' foster' (ID: 29987), Prob: 0.0000
+Token: ' open' (ID: 1787), Prob: 0.0000
+Token: ' come' (ID: 2525), Prob: 0.0000
+Token: ' feel' (ID: 2666), Prob: 0.0000
+Token: ' close' (ID: 3265), Prob: 0.0000
+Token: ' green' (ID: 6176), Prob: 0.0000
+Token: ' older' (ID: 9014), Prob: 0.0000
+Token: ' forever' (ID: 15683), Prob: 0.0000
+Token: ' look' (ID: 1401), Prob: 0.0000
+Token: ' across' (ID: 3941), Prob: 0.0000
+Token: ' run' (ID: 1598), Prob: 0.0000
+Token: ' walk' (ID: 4227), Prob: 0.0000
+Token: ' younger' (ID: 14650), Prob: 0.0000
+Token: ' youth' (ID: 12537), Prob: 0.0000
+Token: ' garden' (ID: 13551), Prob: 0.0000
+Token: ' learn' (ID: 3960), Prob: 0.0000
 
 == Ranked Concepts (Clusters) ==
-Rank 1 | Concept Score: 1.0000
-  Tokens: [' money', ' Money', '_money', 'money', 'Money', ' dinero', ' MONEY', '.money', ' dinheiro']
-Rank 2 | Concept Score: 0.0001
-  Tokens: [' back', ' home']
-Rank 3 | Concept Score: 0.0000
-  Tokens: [' cash', ' profit', ' income', ' financial']
-Rank 4 | Concept Score: 0.0000
-  Tokens: [' coin', ' monetary', ' currency']
-Rank 5 | Concept Score: 0.0000
-  Tokens: [' payment', ' paid']
-Rank 6 | Concept Score: 0.0000
-  Tokens: [' gold', ' metal', ' magic']
-Rank 7 | Concept Score: 0.0000
-  Tokens: [' food', ' music', ' blood']
-Rank 8 | Concept Score: 0.0000
-  Tokens: [' mail', ' milk', ' moon']
-Rank 9 | Concept Score: 0.0000
-  Tokens: [' something', ' one']
-Rank 10 | Concept Score: 0.0000
-  Tokens: [' information', ' message']
-Rank 11 | Concept Score: 0.0000
-  Tokens: [' funds', ' funding']
-Rank 12 | Concept Score: 0.0000
-  Tokens: [' dollars', ' dollar']
-Rank 13 | Concept Score: 0.0000
-  Tokens: [' mon']
-Rank 14 | Concept Score: 0.0000
-  Tokens: [' help']
-Rank 15 | Concept Score: 0.0000
-  Tokens: [' loan', ' credit']
-Rank 16 | Concept Score: 0.0000
-  Tokens: [' enough']
-Rank 17 | Concept Score: 0.0000
-  Tokens: [' lost']
+Rank 1 | Centroid: ' grow' | Score: 1.0000
+  Tokens: [' grow', ' grown', ' growth', ' grows', ' growing', ' grew', 'grow', ' Grow']
+Rank 2 | Centroid: ' younger' | Score: 0.0000
+  Tokens: [' old', ' age', ' young', ' aged', ' older', ' younger', ' youth']
+Rank 3 | Centroid: ' give' | Score: 0.0000
+  Tokens: [' get', ' engage', ' take', ' make', ' gather', ' choose', ' develop', ' ask', ' give', ' generate']
+Rank 4 | Centroid: ' stay' | Score: 0.0000
+  Tokens: [' stay', ' leave', ' feel', ' look']
+Rank 5 | Centroid: ' raise' | Score: 0.0000
+  Tokens: [' raise', ' rise']
+Rank 6 | Centroid: ' become' | Score: 0.0000
+  Tokens: [' become', ' reach', ' come']
+Rank 7 | Centroid: ' eat' | Score: 0.0000
+  Tokens: [' eat', ' spend', ' forget', ' learn']
+Rank 8 | Centroid: ' use' | Score: 0.0000
+  Tokens: [' start', ' use', ' care', ' focus']
+Rank 9 | Centroid: ' close' | Score: 0.0000
+  Tokens: [' live', ' group', ' open', ' close']
+Rank 10 | Centroid: ' mature' | Score: 0.0000
+  Tokens: [' mature', ' years']
+Rank 11 | Centroid: ' keep' | Score: 0.0000
+  Tokens: [' keep', ' continue']
+Rank 12 | Centroid: ' round' | Score: 0.0000
+  Tokens: [' round', ' green']
+Rank 13 | Centroid: ' walk' | Score: 0.0000
+  Tokens: [' sleep', ' move', ' walk']
+Rank 14 | Centroid: ' graduate' | Score: 0.0000
+  Tokens: [' graduate', ' groom', ' garden']
+Rank 15 | Centroid: ' read' | Score: 0.0000
+  Tokens: [' read', ' run']
+Rank 16 | Centroid: ' cross' | Score: 0.0000
+  Tokens: [' cross', ' across']
+Rank 17 | Centroid: ' long' | Score: 0.0000
+  Tokens: [' long', ' forever']
+Rank 18 | Centroid: ' gain' | Score: 0.0000
+  Tokens: [' gain', ' catch']
+Rank 19 | Centroid: ' foster' | Score: 0.0000
+  Tokens: [' foster']
 
-**Chosen Concept:** Rank 1 with score 1.0000
+**Chosen Concept:** Rank 1

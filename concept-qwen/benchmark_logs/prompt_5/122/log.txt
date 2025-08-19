@@ -1,91 +1,83 @@
 --- Step 122 Log ---
 
 == Filtered Candidates ==
-Token: ' time' (ID: 882), Prob: 0.9961
-Token: ' zone' (ID: 10143), Prob: 0.0012
-Token: ' timezone' (ID: 33957), Prob: 0.0001
-Token: ' hour' (ID: 6460), Prob: 0.0000
-Token: ' city' (ID: 3283), Prob: 0.0000
-Token: ' region' (ID: 5537), Prob: 0.0000
-Token: ' location' (ID: 3728), Prob: 0.0000
-Token: ' times' (ID: 3039), Prob: 0.0000
-Token: ' area' (ID: 3082), Prob: 0.0000
-Token: ' date' (ID: 2400), Prob: 0.0000
-Token: ' state' (ID: 1584), Prob: 0.0000
-Token: '(time' (ID: 9730), Prob: 0.0000
-Token: ' destination' (ID: 9106), Prob: 0.0000
-Token: '_time' (ID: 3009), Prob: 0.0000
-Token: ' tim' (ID: 6792), Prob: 0.0000
-Token: ' Time' (ID: 4120), Prob: 0.0000
-Token: ' one' (ID: 825), Prob: 0.0000
-Token: ' moment' (ID: 4445), Prob: 0.0000
-Token: '-time' (ID: 7246), Prob: 0.0000
-Token: ' clock' (ID: 8866), Prob: 0.0000
-Token: ' position' (ID: 2309), Prob: 0.0000
-Token: '.time' (ID: 6378), Prob: 0.0000
-Token: ' timed' (ID: 25182), Prob: 0.0000
-Token: ' air' (ID: 3720), Prob: 0.0000
-Token: ' day' (ID: 1899), Prob: 0.0000
-Token: ' point' (ID: 1459), Prob: 0.0000
-Token: ' age' (ID: 4231), Prob: 0.0000
-Token: ' Zeit' (ID: 28831), Prob: 0.0000
-Token: ' year' (ID: 1042), Prob: 0.0000
-Token: ' room' (ID: 3054), Prob: 0.0000
-Token: ' floor' (ID: 6422), Prob: 0.0000
-Token: ' timing' (ID: 18405), Prob: 0.0000
-Token: 'time' (ID: 1678), Prob: 0.0000
-Token: ' immediately' (ID: 7069), Prob: 0.0000
-Token: ' system' (ID: 1849), Prob: 0.0000
-Token: ' flight' (ID: 10971), Prob: 0.0000
-Token: ' timeline' (ID: 24808), Prob: 0.0000
-Token: '/time' (ID: 35263), Prob: 0.0000
-Token: ' space' (ID: 3550), Prob: 0.0000
-Token: ' universe' (ID: 15494), Prob: 0.0000
-Token: ' future' (ID: 3853), Prob: 0.0000
-Token: ' round' (ID: 4778), Prob: 0.0000
-Token: ' era' (ID: 11385), Prob: 0.0000
-Token: '"time' (ID: 32139), Prob: 0.0000
-Token: ' period' (ID: 4168), Prob: 0.0000
-Token: ' address' (ID: 2621), Prob: 0.0000
-Token: ' night' (ID: 3729), Prob: 0.0000
-Token: ' east' (ID: 10984), Prob: 0.0000
-Token: ' timestamp' (ID: 11441), Prob: 0.0000
-Token: ' territory' (ID: 17971), Prob: 0.0000
-Token: ' experience' (ID: 3139), Prob: 0.0000
-Token: ' country' (ID: 3146), Prob: 0.0000
-Token: ' airport' (ID: 16733), Prob: 0.0000
-Token: '	time' (ID: 21957), Prob: 0.0000
+Token: ' points' (ID: 3501), Prob: 0.9961
+Token: ' could' (ID: 1410), Prob: 0.0003
+Token: ' Points' (ID: 20725), Prob: 0.0001
+Token: ' point' (ID: 1459), Prob: 0.0001
+Token: ' based' (ID: 3118), Prob: 0.0000
+Token: ' options' (ID: 2606), Prob: 0.0000
+Token: ' depends' (ID: 13798), Prob: 0.0000
+Token: ' choices' (ID: 11454), Prob: 0.0000
+Token: ' might' (ID: 2578), Prob: 0.0000
+Token: '(points' (ID: 32450), Prob: 0.0000
+Token: ' questions' (ID: 4755), Prob: 0.0000
+Token: ' may' (ID: 1231), Prob: 0.0000
+Token: ' would' (ID: 1035), Prob: 0.0000
+Token: ' four' (ID: 3040), Prob: 0.0000
+Token: ' according' (ID: 4092), Prob: 0.0000
+Token: ' please' (ID: 4486), Prob: 0.0000
+Token: ' must' (ID: 1969), Prob: 0.0000
+Token: 'points' (ID: 7706), Prob: 0.0000
+Token: 'Points' (ID: 11411), Prob: 0.0000
+Token: ' Point' (ID: 5126), Prob: 0.0000
+Token: ' puntos' (ID: 60889), Prob: 0.0000
+Token: '_points' (ID: 12928), Prob: 0.0000
+Token: ' seems' (ID: 4977), Prob: 0.0000
+Token: ' possible' (ID: 3204), Prob: 0.0000
+Token: ' needs' (ID: 3880), Prob: 0.0000
+Token: ' yes' (ID: 9834), Prob: 0.0000
+Token: ' whether' (ID: 3425), Prob: 0.0000
+Token: ' checks' (ID: 12341), Prob: 0.0000
+Token: ' instructions' (ID: 11221), Prob: 0.0000
+Token: ' errors' (ID: 5975), Prob: 0.0000
+Token: ' contains' (ID: 5610), Prob: 0.0000
+Token: ' sentences' (ID: 22870), Prob: 0.0000
+Token: ' ends' (ID: 10335), Prob: 0.0000
+Token: ' possibilities' (ID: 23607), Prob: 0.0000
+Token: ' makes' (ID: 3643), Prob: 0.0000
+Token: ' cannot' (ID: 4157), Prob: 0.0000
+Token: ' correct' (ID: 4396), Prob: 0.0000
+Token: ' pairs' (ID: 13530), Prob: 0.0000
+Token: '	points' (ID: 67499), Prob: 0.0000
+Token: ' key' (ID: 1376), Prob: 0.0000
+Token: ' cells' (ID: 7761), Prob: 0.0000
+Token: ' correctly' (ID: 12440), Prob: 0.0000
+Token: ' boxes' (ID: 14697), Prob: 0.0000
+Token: ' requires' (ID: 7460), Prob: 0.0000
+Token: ' parts' (ID: 5479), Prob: 0.0000
+Token: ' details' (ID: 3565), Prob: 0.0000
+Token: ' since' (ID: 2474), Prob: 0.0000
+Token: ' words' (ID: 4244), Prob: 0.0000
+Token: ' probably' (ID: 4658), Prob: 0.0000
+Token: ' examples' (ID: 10295), Prob: 0.0000
 
 == Ranked Concepts (Clusters) ==
-Rank 1 | Concept Score: 0.9961
-  Tokens: [' time', ' times', '(time', '_time', ' Time', '-time', '.time', ' Zeit', 'time', '/time', '"time', '\ttime']
-Rank 2 | Concept Score: 0.0012
-  Tokens: [' zone', ' region', ' area', ' territory']
-Rank 3 | Concept Score: 0.0001
-  Tokens: [' timezone']
-Rank 4 | Concept Score: 0.0001
-  Tokens: [' hour', ' day', ' year', ' night']
-Rank 5 | Concept Score: 0.0001
-  Tokens: [' city', ' state', ' country']
-Rank 6 | Concept Score: 0.0000
-  Tokens: [' location', ' destination', ' position', ' point']
-Rank 7 | Concept Score: 0.0000
-  Tokens: [' tim', ' clock', ' timed', ' timing', ' timeline', ' timestamp']
-Rank 8 | Concept Score: 0.0000
-  Tokens: [' one', ' moment', ' immediately', ' experience']
-Rank 9 | Concept Score: 0.0000
-  Tokens: [' date']
-Rank 10 | Concept Score: 0.0000
-  Tokens: [' air', ' flight', ' east', ' airport']
-Rank 11 | Concept Score: 0.0000
-  Tokens: [' room', ' floor', ' round']
-Rank 12 | Concept Score: 0.0000
-  Tokens: [' system', ' universe', ' future']
-Rank 13 | Concept Score: 0.0000
-  Tokens: [' age', ' address']
-Rank 14 | Concept Score: 0.0000
-  Tokens: [' era', ' period']
-Rank 15 | Concept Score: 0.0000
-  Tokens: [' space']
+Rank 1 | Centroid: ' points' | Score: 0.9961
+  Tokens: [' points', ' Points', ' point', '(points', 'points', 'Points', ' Point', ' puntos', '_points', '\tpoints']
+Rank 2 | Centroid: ' may' | Score: 0.0003
+  Tokens: [' could', ' might', ' may', ' would', ' must', ' cannot']
+Rank 3 | Centroid: ' according' | Score: 0.0000
+  Tokens: [' based', ' according', ' since']
+Rank 4 | Centroid: ' options' | Score: 0.0000
+  Tokens: [' options', ' choices']
+Rank 5 | Centroid: ' requires' | Score: 0.0000
+  Tokens: [' depends', ' seems', ' needs', ' contains', ' makes', ' requires']
+Rank 6 | Centroid: ' sentences' | Score: 0.0000
+  Tokens: [' questions', ' instructions', ' sentences', ' details', ' words', ' examples']
+Rank 7 | Centroid: ' whether' | Score: 0.0000
+  Tokens: [' yes', ' whether', ' checks']
+Rank 8 | Centroid: ' four' | Score: 0.0000
+  Tokens: [' four', ' key']
+Rank 9 | Centroid: ' please' | Score: 0.0000
+  Tokens: [' please']
+Rank 10 | Centroid: ' possible' | Score: 0.0000
+  Tokens: [' possible', ' possibilities', ' probably']
+Rank 11 | Centroid: ' boxes' | Score: 0.0000
+  Tokens: [' pairs', ' cells', ' boxes', ' parts']
+Rank 12 | Centroid: ' correct' | Score: 0.0000
+  Tokens: [' errors', ' correct', ' correctly']
+Rank 13 | Centroid: ' ends' | Score: 0.0000
+  Tokens: [' ends']
 
-**Chosen Concept:** Rank 1 with score 0.9961
+**Chosen Concept:** Rank 1

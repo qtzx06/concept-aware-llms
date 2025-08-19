@@ -1,151 +1,78 @@
 --- Step 104 Log ---
 
 == Filtered Candidates ==
-Token: ' problem' (ID: 3491), Prob: 0.1099
-Token: ' side' (ID: 3108), Prob: 0.0972
-Token: ' negative' (ID: 8225), Prob: 0.0757
-Token: ' harmful' (ID: 27756), Prob: 0.0520
-Token: ' serious' (ID: 6001), Prob: 0.0405
-Token: ' certain' (ID: 3654), Prob: 0.0378
-Token: ' similar' (ID: 4428), Prob: 0.0356
-Token: ' disease' (ID: 8457), Prob: 0.0295
-Token: ' dangerous' (ID: 11406), Prob: 0.0295
-Token: ' toxic' (ID: 20836), Prob: 0.0231
-Token: ' different' (ID: 2155), Prob: 0.0216
-Token: ' health' (ID: 2820), Prob: 0.0149
-Token: ' deadly' (ID: 24142), Prob: 0.0149
-Token: ' fatal' (ID: 18582), Prob: 0.0131
-Token: ' mutation' (ID: 26374), Prob: 0.0131
-Token: ' significant' (ID: 5089), Prob: 0.0116
-Token: ' severe' (ID: 15386), Prob: 0.0116
-Token: ' chemical' (ID: 11483), Prob: 0.0102
-Token: ' lethal' (ID: 43989), Prob: 0.0085
-Token: ' risk' (ID: 5214), Prob: 0.0075
-Token: ' type' (ID: 943), Prob: 0.0070
-Token: ' major' (ID: 3598), Prob: 0.0070
-Token: ' variety' (ID: 8045), Prob: 0.0070
-Token: ' lot' (ID: 2696), Prob: 0.0066
-Token: ' toxicity' (ID: 56911), Prob: 0.0066
-Token: ' toxin' (ID: 97434), Prob: 0.0062
-Token: ' reaction' (ID: 12720), Prob: 0.0058
-Token: ' death' (ID: 4545), Prob: 0.0055
-Token: ' secondary' (ID: 14246), Prob: 0.0051
-Token: ' virus' (ID: 16770), Prob: 0.0051
-Token: ' rapid' (ID: 11048), Prob: 0.0048
-Token: ' decrease' (ID: 18472), Prob: 0.0048
-Token: ' poisoning' (ID: 51136), Prob: 0.0048
-Token: ' cancer' (ID: 9387), Prob: 0.0043
-Token: ' second' (ID: 2086), Prob: 0.0040
-Token: ' positive' (ID: 6785), Prob: 0.0040
-Token: ' chain' (ID: 8781), Prob: 0.0040
-Token: ' paradox' (ID: 51213), Prob: 0.0040
-Token: ' metabolic' (ID: 40761), Prob: 0.0038
-Token: ' deficiency' (ID: 47194), Prob: 0.0038
-Token: ' malfunction' (ID: 71187), Prob: 0.0038
-Token: ' number' (ID: 1372), Prob: 0.0033
-Token: ' long' (ID: 1293), Prob: 0.0031
-Token: ' new' (ID: 501), Prob: 0.0029
-Token: ' kind' (ID: 3093), Prob: 0.0027
-Token: ' form' (ID: 1352), Prob: 0.0026
-Token: ' potential' (ID: 4650), Prob: 0.0024
-Token: ' biological' (ID: 23275), Prob: 0.0024
-Token: ' tumor' (ID: 35154), Prob: 0.0024
-Token: ' danger' (ID: 7978), Prob: 0.0021
-Token: ' genetic' (ID: 18929), Prob: 0.0021
-Token: ' high' (ID: 1550), Prob: 0.0019
-Token: ' host' (ID: 3468), Prob: 0.0019
-Token: ' damage' (ID: 5557), Prob: 0.0019
-Token: ' poison' (ID: 20476), Prob: 0.0019
-Token: ' damaging' (ID: 33346), Prob: 0.0019
-Token: ' cellular' (ID: 34593), Prob: 0.0019
-Token: ' possible' (ID: 3204), Prob: 0.0018
-Token: ' greater' (ID: 7046), Prob: 0.0018
-Token: ' potentially' (ID: 13581), Prob: 0.0018
-Token: ' neuro' (ID: 17773), Prob: 0.0018
-Token: ' large' (ID: 3460), Prob: 0.0017
-Token: ' third' (ID: 4843), Prob: 0.0017
-Token: ' catastrophic' (ID: 53577), Prob: 0.0017
-Token: ' specific' (ID: 3151), Prob: 0.0016
-Token: ' human' (ID: 3738), Prob: 0.0016
-Token: ' mut' (ID: 5206), Prob: 0.0016
-Token: ' series' (ID: 4013), Prob: 0.0015
-Token: ' medical' (ID: 6457), Prob: 0.0015
-Token: ' non' (ID: 2477), Prob: 0.0014
-Token: ' strong' (ID: 3746), Prob: 0.0014
-Token: ' bacterial' (ID: 44864), Prob: 0.0014
-Token: ' fungal' (ID: 94347), Prob: 0.0014
-Token: ' life' (ID: 2272), Prob: 0.0013
-Token: ' condition' (ID: 2971), Prob: 0.0013
-Token: ' particular' (ID: 3953), Prob: 0.0013
-Token: ' powerful' (ID: 7988), Prob: 0.0013
-Token: ' rare' (ID: 8848), Prob: 0.0013
-Token: ' massive' (ID: 10951), Prob: 0.0012
-Token: ' collateral' (ID: 51408), Prob: 0.0012
-Token: ' par' (ID: 1346), Prob: 0.0011
-Token: ' direct' (ID: 2118), Prob: 0.0011
-Token: ' short' (ID: 2805), Prob: 0.0011
-Token: ' deg' (ID: 5254), Prob: 0.0011
-Token: ' drug' (ID: 5506), Prob: 0.0011
-Token: ' harm' (ID: 11428), Prob: 0.0011
-Token: ' paras' (ID: 32303), Prob: 0.0011
-Token: ' normal' (ID: 4622), Prob: 0.0011
-Token: ' dose' (ID: 19115), Prob: 0.0011
-Token: ' viral' (ID: 28862), Prob: 0.0011
-Token: ' detrimental' (ID: 63969), Prob: 0.0011
-Token: ' range' (ID: 2088), Prob: 0.0010
-Token: ' local' (ID: 2205), Prob: 0.0010
-Token: ' bad' (ID: 3873), Prob: 0.0010
-Token: ' great' (ID: 2244), Prob: 0.0009
-Token: ' loss' (ID: 4709), Prob: 0.0009
-Token: ' chronic' (ID: 20601), Prob: 0.0009
-Token: ' physiological' (ID: 52094), Prob: 0.0009
+Token: ' yes' (ID: 9834), Prob: 0.9492
+Token: ' yeah' (ID: 21639), Prob: 0.0003
+Token: ' something' (ID: 2494), Prob: 0.0001
+Token: ' maybe' (ID: 7196), Prob: 0.0001
+Token: 'yes' (ID: 9693), Prob: 0.0000
+Token: ' hello' (ID: 23811), Prob: 0.0000
+Token: ' nothing' (ID: 4302), Prob: 0.0000
+Token: ' etc' (ID: 4992), Prob: 0.0000
+Token: ' Yes' (ID: 7414), Prob: 0.0000
+Token: ' exactly' (ID: 6896), Prob: 0.0000
+Token: ' also' (ID: 1083), Prob: 0.0000
+Token: ' wait' (ID: 3783), Prob: 0.0000
+Token: ' YES' (ID: 14080), Prob: 0.0000
+Token: ' okay' (ID: 16910), Prob: 0.0000
+Token: ' positive' (ID: 6785), Prob: 0.0000
+Token: '=yes' (ID: 59565), Prob: 0.0000
+Token: ' whether' (ID: 3425), Prob: 0.0000
+Token: ' answer' (ID: 4226), Prob: 0.0000
+Token: ' negative' (ID: 8225), Prob: 0.0000
+Token: ' always' (ID: 2677), Prob: 0.0000
+Token: ' one' (ID: 825), Prob: 0.0000
+Token: ' none' (ID: 6857), Prob: 0.0000
+Token: ' say' (ID: 1977), Prob: 0.0000
+Token: ' sure' (ID: 2704), Prob: 0.0000
+Token: ' unknown' (ID: 9788), Prob: 0.0000
+Token: ' possible' (ID: 3204), Prob: 0.0000
+Token: ' without' (ID: 2041), Prob: 0.0000
+Token: ' based' (ID: 3118), Prob: 0.0000
+Token: ' please' (ID: 4486), Prob: 0.0000
+Token: ' zero' (ID: 7168), Prob: 0.0000
+Token: ' another' (ID: 2441), Prob: 0.0000
+Token: ' either' (ID: 2987), Prob: 0.0000
+Token: ' correct' (ID: 4396), Prob: 0.0000
+Token: ' depends' (ID: 13798), Prob: 0.0000
+Token: ' even' (ID: 1496), Prob: 0.0000
+Token: ' yet' (ID: 3602), Prob: 0.0000
+Token: ' enough' (ID: 3322), Prob: 0.0000
 
 == Ranked Concepts (Clusters) ==
-Rank 1 | Concept Score: 0.1226
-  Tokens: [' harmful', ' dangerous', ' deadly', ' fatal', ' lethal', ' damaging', ' catastrophic', ' detrimental']
-Rank 2 | Concept Score: 0.1118
-  Tokens: [' problem', ' deg', ' loss']
-Rank 3 | Concept Score: 0.1040
-  Tokens: [' side', ' death', ' life']
-Rank 4 | Concept Score: 0.0981
-  Tokens: [' certain', ' similar', ' different', ' specific', ' particular']
-Rank 5 | Concept Score: 0.0957
-  Tokens: [' disease', ' toxic', ' health', ' toxicity', ' toxin', ' poisoning', ' cancer', ' tumor', ' poison', ' drug', ' dose']
-Rank 6 | Concept Score: 0.0796
-  Tokens: [' negative', ' positive']
-Rank 7 | Concept Score: 0.0762
-  Tokens: [' serious', ' significant', ' severe', ' major', ' greater', ' powerful', ' massive', ' great']
-Rank 8 | Concept Score: 0.0305
-  Tokens: [' type', ' variety', ' chain', ' number', ' kind', ' form', ' series', ' condition', ' range']
-Rank 9 | Concept Score: 0.0304
-  Tokens: [' chemical', ' reaction', ' metabolic', ' biological', ' genetic', ' cellular', ' neuro', ' medical', ' physiological']
-Rank 10 | Concept Score: 0.0164
-  Tokens: [' risk', ' malfunction', ' danger', ' damage', ' harm']
-Rank 11 | Concept Score: 0.0147
-  Tokens: [' mutation', ' mut']
-Rank 12 | Concept Score: 0.0140
-  Tokens: [' rapid', ' long', ' high', ' large', ' strong', ' short']
-Rank 13 | Concept Score: 0.0108
-  Tokens: [' secondary', ' second', ' third']
-Rank 14 | Concept Score: 0.0098
-  Tokens: [' decrease', ' deficiency', ' collateral']
-Rank 15 | Concept Score: 0.0090
-  Tokens: [' virus', ' bacterial', ' fungal', ' viral']
-Rank 16 | Concept Score: 0.0082
-  Tokens: [' paradox', ' host', ' par', ' paras']
-Rank 17 | Concept Score: 0.0066
-  Tokens: [' lot']
-Rank 18 | Concept Score: 0.0060
-  Tokens: [' potential', ' possible', ' potentially']
-Rank 19 | Concept Score: 0.0055
-  Tokens: [' new', ' non', ' direct']
-Rank 20 | Concept Score: 0.0037
-  Tokens: [' human', ' normal', ' local']
-Rank 21 | Concept Score: 0.0013
-  Tokens: [' rare']
-Rank 22 | Concept Score: 0.0010
-  Tokens: [' bad']
-Rank 23 | Concept Score: 0.0009
-  Tokens: [' chronic']
+Rank 1 | Centroid: ' yes' | Score: 0.9492
+  Tokens: [' yes', ' yeah', 'yes', ' Yes', ' YES', '=yes', ' sure']
+Rank 2 | Centroid: ' nothing' | Score: 0.0001
+  Tokens: [' something', ' nothing', ' none']
+Rank 3 | Centroid: ' maybe' | Score: 0.0001
+  Tokens: [' maybe', ' possible']
+Rank 4 | Centroid: ' always' | Score: 0.0001
+  Tokens: [' exactly', ' also', ' always']
+Rank 5 | Centroid: ' hello' | Score: 0.0000
+  Tokens: [' hello', ' please']
+Rank 6 | Centroid: ' negative' | Score: 0.0000
+  Tokens: [' positive', ' negative', ' zero']
+Rank 7 | Centroid: ' etc' | Score: 0.0000
+  Tokens: [' etc']
+Rank 8 | Centroid: ' wait' | Score: 0.0000
+  Tokens: [' wait', ' say']
+Rank 9 | Centroid: ' okay' | Score: 0.0000
+  Tokens: [' okay']
+Rank 10 | Centroid: ' whether' | Score: 0.0000
+  Tokens: [' whether', ' either']
+Rank 11 | Centroid: ' another' | Score: 0.0000
+  Tokens: [' one', ' another', ' yet']
+Rank 12 | Centroid: ' answer' | Score: 0.0000
+  Tokens: [' answer']
+Rank 13 | Centroid: ' based' | Score: 0.0000
+  Tokens: [' without', ' based', ' depends']
+Rank 14 | Centroid: ' unknown' | Score: 0.0000
+  Tokens: [' unknown']
+Rank 15 | Centroid: ' correct' | Score: 0.0000
+  Tokens: [' correct']
+Rank 16 | Centroid: ' even' | Score: 0.0000
+  Tokens: [' even']
+Rank 17 | Centroid: ' enough' | Score: 0.0000
+  Tokens: [' enough']
 
-**Chosen Concept:** Rank 1 with score 0.1226
+**Chosen Concept:** Rank 1

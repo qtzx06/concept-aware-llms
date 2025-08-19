@@ -1,95 +1,77 @@
 --- Step 99 Log ---
 
 == Filtered Candidates ==
-Token: ' alpha' (ID: 8287), Prob: 0.6797
-Token: ' cannot' (ID: 4157), Prob: 0.0071
-Token: ' beta' (ID: 13440), Prob: 0.0055
-Token: ' enzyme' (ID: 48142), Prob: 0.0046
-Token: ' must' (ID: 1969), Prob: 0.0033
-Token: ' found' (ID: 1730), Prob: 0.0031
-Token: ' could' (ID: 1410), Prob: 0.0028
-Token: ' Alpha' (ID: 24708), Prob: 0.0019
-Token: ' appears' (ID: 7952), Prob: 0.0016
-Token: ' may' (ID: 1231), Prob: 0.0012
-Token: ' lacks' (ID: 36756), Prob: 0.0011
-Token: ' levels' (ID: 5866), Prob: 0.0010
-Token: ' needs' (ID: 3880), Prob: 0.0009
-Token: ' alone' (ID: 7484), Prob: 0.0009
-Token: ' gamma' (ID: 21619), Prob: 0.0009
-Token: ' remains' (ID: 8458), Prob: 0.0008
-Token: ' level' (ID: 2188), Prob: 0.0007
-Token: ' requires' (ID: 7460), Prob: 0.0007
-Token: ' produced' (ID: 8947), Prob: 0.0007
-Token: ' exists' (ID: 6724), Prob: 0.0006
-Token: '-alpha' (ID: 64538), Prob: 0.0006
-Token: ' still' (ID: 2058), Prob: 0.0005
-Token: ' contains' (ID: 5610), Prob: 0.0005
-Token: ' activity' (ID: 5702), Prob: 0.0005
-Token: ' required' (ID: 2567), Prob: 0.0005
-Token: ' seems' (ID: 4977), Prob: 0.0005
-Token: ' also' (ID: 1083), Prob: 0.0005
-Token: ' comes' (ID: 4041), Prob: 0.0005
-Token: ' protein' (ID: 12833), Prob: 0.0005
-Token: ' system' (ID: 1849), Prob: 0.0004
-Token: ' would' (ID: 1035), Prob: 0.0004
-Token: ' might' (ID: 2578), Prob: 0.0003
-Token: ' chain' (ID: 8781), Prob: 0.0003
-Token: ' deficiency' (ID: 47194), Prob: 0.0003
-Token: ' content' (ID: 2213), Prob: 0.0003
-Token: ' production' (ID: 5670), Prob: 0.0003
-Token: ' available' (ID: 2500), Prob: 0.0003
-Token: ' gene' (ID: 14862), Prob: 0.0003
-Token: ' type' (ID: 943), Prob: 0.0003
-Token: ' test' (ID: 1273), Prob: 0.0003
-Token: ' present' (ID: 3042), Prob: 0.0003
-Token: ' becomes' (ID: 9044), Prob: 0.0003
-Token: ' concentration' (ID: 19950), Prob: 0.0003
-Token: ' already' (ID: 2669), Prob: 0.0002
-Token: ' within' (ID: 2878), Prob: 0.0002
-Token: ' delta' (ID: 9477), Prob: 0.0002
-Token: ' fails' (ID: 14525), Prob: 0.0002
-Token: ' dosage' (ID: 45940), Prob: 0.0002
-Token: ' enzymes' (ID: 54967), Prob: 0.0002
-Token: ' currently' (ID: 5023), Prob: 0.0002
-Token: ' contained' (ID: 12985), Prob: 0.0002
-Token: ' used' (ID: 1483), Prob: 0.0002
-Token: ' structure' (ID: 5944), Prob: 0.0002
-Token: ' activation' (ID: 15099), Prob: 0.0002
-Token: ' produces' (ID: 18644), Prob: 0.0002
-Token: ' due' (ID: 4152), Prob: 0.0001
-Token: ' discovered' (ID: 11105), Prob: 0.0001
-Token: ' encoded' (ID: 20498), Prob: 0.0001
+Token: ' like' (ID: 1075), Prob: 1.0000
+Token: ' else' (ID: 770), Prob: 0.0002
+Token: ' yes' (ID: 9834), Prob: 0.0000
+Token: ' Like' (ID: 8909), Prob: 0.0000
+Token: ' similar' (ID: 4428), Prob: 0.0000
+Token: ' elif' (ID: 4409), Prob: 0.0000
+Token: 'like' (ID: 4803), Prob: 0.0000
+Token: ' LIKE' (ID: 20529), Prob: 0.0000
+Token: ' list' (ID: 1140), Prob: 0.0000
+Token: '_like' (ID: 25535), Prob: 0.0000
+Token: ' include' (ID: 2924), Prob: 0.0000
+Token: '-like' (ID: 12681), Prob: 0.0000
+Token: ' maybe' (ID: 7196), Prob: 0.0000
+Token: '.like' (ID: 66318), Prob: 0.0000
+Token: ' likes' (ID: 13151), Prob: 0.0000
+Token: ' etc' (ID: 4992), Prob: 0.0000
+Token: 'Like' (ID: 12949), Prob: 0.0000
+Token: ' around' (ID: 2163), Prob: 0.0000
+Token: ' including' (ID: 2670), Prob: 0.0000
+Token: ' related' (ID: 5435), Prob: 0.0000
+Token: ' much' (ID: 1753), Prob: 0.0000
+Token: ' limited' (ID: 7199), Prob: 0.0000
+Token: ' based' (ID: 3118), Prob: 0.0000
+Token: ' possible' (ID: 3204), Prob: 0.0000
+Token: ' say' (ID: 1977), Prob: 0.0000
+Token: ' otherwise' (ID: 5937), Prob: 0.0000
+Token: ' since' (ID: 2474), Prob: 0.0000
+Token: ' important' (ID: 2989), Prob: 0.0000
+Token: ' relevant' (ID: 9760), Prob: 0.0000
+Token: ' seperti' (ID: 67720), Prob: 0.0000
+Token: ' yeah' (ID: 21639), Prob: 0.0000
+Token: ' nice' (ID: 6419), Prob: 0.0000
+Token: ' missing' (ID: 7402), Prob: 0.0000
+Token: ' listed' (ID: 10007), Prob: 0.0000
+Token: ' last' (ID: 1537), Prob: 0.0000
+Token: ' might' (ID: 2578), Prob: 0.0000
+Token: ' little' (ID: 2632), Prob: 0.0000
+Token: ' usually' (ID: 5990), Prob: 0.0000
+Token: ' kind' (ID: 3093), Prob: 0.0000
+Token: ' liked' (ID: 14915), Prob: 0.0000
 
 == Ranked Concepts (Clusters) ==
-Rank 1 | Concept Score: 0.6875
-  Tokens: [' alpha', ' beta', ' Alpha', ' gamma', '-alpha', ' delta']
-Rank 2 | Concept Score: 0.0151
-  Tokens: [' cannot', ' must', ' could', ' may', ' would', ' might']
-Rank 3 | Concept Score: 0.0060
-  Tokens: [' enzyme', ' protein', ' deficiency', ' gene', ' enzymes', ' encoded']
-Rank 4 | Concept Score: 0.0055
-  Tokens: [' appears', ' lacks', ' remains', ' exists', ' seems', ' comes', ' becomes', ' fails']
-Rank 5 | Concept Score: 0.0038
-  Tokens: [' found', ' available', ' present', ' discovered']
-Rank 6 | Concept Score: 0.0022
-  Tokens: [' needs', ' requires', ' required']
-Rank 7 | Concept Score: 0.0018
-  Tokens: [' levels', ' level']
-Rank 8 | Concept Score: 0.0014
-  Tokens: [' still', ' also', ' already', ' currently']
-Rank 9 | Concept Score: 0.0014
-  Tokens: [' system', ' chain', ' type', ' test', ' structure']
-Rank 10 | Concept Score: 0.0012
-  Tokens: [' produced', ' production', ' produces']
-Rank 11 | Concept Score: 0.0009
-  Tokens: [' activity', ' dosage', ' activation']
-Rank 12 | Concept Score: 0.0009
-  Tokens: [' alone']
-Rank 13 | Concept Score: 0.0008
-  Tokens: [' content', ' concentration', ' within']
-Rank 14 | Concept Score: 0.0007
-  Tokens: [' contains', ' contained']
-Rank 15 | Concept Score: 0.0003
-  Tokens: [' used', ' due']
+Rank 1 | Centroid: ' Like' | Score: 1.0000
+  Tokens: [' like', ' Like', 'like', ' LIKE', '_like', '-like', '.like', 'Like', ' seperti']
+Rank 2 | Centroid: ' else' | Score: 0.0002
+  Tokens: [' else', ' elif', ' otherwise']
+Rank 3 | Centroid: ' yes' | Score: 0.0000
+  Tokens: [' yes', ' yeah']
+Rank 4 | Centroid: ' related' | Score: 0.0000
+  Tokens: [' similar', ' related', ' relevant']
+Rank 5 | Centroid: ' include' | Score: 0.0000
+  Tokens: [' include', ' including']
+Rank 6 | Centroid: ' list' | Score: 0.0000
+  Tokens: [' list', ' listed']
+Rank 7 | Centroid: ' maybe' | Score: 0.0000
+  Tokens: [' maybe', ' possible', ' might']
+Rank 8 | Centroid: ' etc' | Score: 0.0000
+  Tokens: [' etc', ' say']
+Rank 9 | Centroid: ' likes' | Score: 0.0000
+  Tokens: [' likes', ' liked']
+Rank 10 | Centroid: ' much' | Score: 0.0000
+  Tokens: [' much', ' usually']
+Rank 11 | Centroid: ' around' | Score: 0.0000
+  Tokens: [' around']
+Rank 12 | Centroid: ' limited' | Score: 0.0000
+  Tokens: [' limited', ' little']
+Rank 13 | Centroid: ' important' | Score: 0.0000
+  Tokens: [' important', ' nice', ' missing']
+Rank 14 | Centroid: ' based' | Score: 0.0000
+  Tokens: [' based', ' since']
+Rank 15 | Centroid: ' last' | Score: 0.0000
+  Tokens: [' last', ' kind']
 
-**Chosen Concept:** Rank 1 with score 0.6875
+**Chosen Concept:** Rank 1

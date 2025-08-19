@@ -1,81 +1,73 @@
 --- Step 147 Log ---
 
 == Filtered Candidates ==
-Token: ' must' (ID: 1969), Prob: 0.9922
-Token: ' cannot' (ID: 4157), Prob: 0.0003
-Token: ' needs' (ID: 3880), Prob: 0.0003
-Token: ' may' (ID: 1231), Prob: 0.0001
-Token: ' would' (ID: 1035), Prob: 0.0001
-Token: ' flies' (ID: 37104), Prob: 0.0001
-Token: ' could' (ID: 1410), Prob: 0.0000
-Token: ' meets' (ID: 20027), Prob: 0.0000
-Token: ' arrives' (ID: 29682), Prob: 0.0000
-Token: ' Must' (ID: 15465), Prob: 0.0000
-Token: ' receives' (ID: 21189), Prob: 0.0000
-Token: ' makes' (ID: 3643), Prob: 0.0000
-Token: ' knows' (ID: 8788), Prob: 0.0000
-Token: ' moves' (ID: 10797), Prob: 0.0000
+Token: ' could' (ID: 1410), Prob: 1.0000
+Token: ' Could' (ID: 16503), Prob: 0.0000
+Token: ' since' (ID: 2474), Prob: 0.0000
+Token: ' would' (ID: 1035), Prob: 0.0000
+Token: ' may' (ID: 1231), Prob: 0.0000
+Token: ' count' (ID: 1760), Prob: 0.0000
+Token: ' must' (ID: 1969), Prob: 0.0000
+Token: 'could' (ID: 28077), Prob: 0.0000
+Token: ' vary' (ID: 13289), Prob: 0.0000
 Token: ' might' (ID: 2578), Prob: 0.0000
-Token: ' immediately' (ID: 7069), Prob: 0.0000
-Token: ' begins' (ID: 12033), Prob: 0.0000
-Token: ' man' (ID: 883), Prob: 0.0000
-Token: ' always' (ID: 2677), Prob: 0.0000
-Token: ' exactly' (ID: 6896), Prob: 0.0000
-Token: ' MUST' (ID: 27732), Prob: 0.0000
-Token: ' travels' (ID: 34192), Prob: 0.0000
-Token: ' finally' (ID: 5499), Prob: 0.0000
-Token: ' assumes' (ID: 21484), Prob: 0.0000
-Token: ' never' (ID: 2581), Prob: 0.0000
-Token: ' returns' (ID: 4675), Prob: 0.0000
-Token: ' leaves' (ID: 10901), Prob: 0.0000
-Token: ' decides' (ID: 27627), Prob: 0.0000
-Token: ' takes' (ID: 4990), Prob: 0.0000
-Token: ' uses' (ID: 5711), Prob: 0.0000
-Token: ' fly' (ID: 11466), Prob: 0.0000
-Token: ' therefore' (ID: 8916), Prob: 0.0000
-Token: ' becomes' (ID: 9044), Prob: 0.0000
+Token: 'Could' (ID: 12895), Prob: 0.0000
+Token: ' cannot' (ID: 4157), Prob: 0.0000
 Token: ' every' (ID: 1449), Prob: 0.0000
-Token: ' ends' (ID: 10335), Prob: 0.0000
-Token: 'must' (ID: 24812), Prob: 0.0000
-Token: ' comes' (ID: 4041), Prob: 0.0000
-Token: ' wants' (ID: 6801), Prob: 0.0000
-Token: ' requires' (ID: 7460), Prob: 0.0000
-Token: ' faces' (ID: 12300), Prob: 0.0000
-Token: ' stays' (ID: 26558), Prob: 0.0000
-Token: ' spends' (ID: 37102), Prob: 0.0000
+Token: ' change' (ID: 2297), Prob: 0.0000
+Token: ' either' (ID: 2987), Prob: 0.0000
+Token: ' possibly' (ID: 10767), Prob: 0.0000
+Token: ' need' (ID: 1184), Prob: 0.0000
+Token: ' cell' (ID: 2779), Prob: 0.0000
+Token: ' contain' (ID: 6644), Prob: 0.0000
+Token: ' based' (ID: 3118), Prob: 0.0000
+Token: ' carefully' (ID: 15516), Prob: 0.0000
+Token: ' differ' (ID: 1745), Prob: 0.0000
+Token: ' according' (ID: 4092), Prob: 0.0000
+Token: ' slightly' (ID: 10078), Prob: 0.0000
+Token: ' choose' (ID: 5157), Prob: 0.0000
+Token: ' indicate' (ID: 13216), Prob: 0.0000
+Token: ' another' (ID: 2441), Prob: 0.0000
+Token: ' four' (ID: 3040), Prob: 0.0000
+Token: ' possible' (ID: 3204), Prob: 0.0000
+Token: ' cancel' (ID: 9121), Prob: 0.0000
+Token: ' concerning' (ID: 18310), Prob: 0.0000
+Token: ' depending' (ID: 11649), Prob: 0.0000
+Token: ' cells' (ID: 7761), Prob: 0.0000
+Token: ' five' (ID: 4236), Prob: 0.0000
+Token: ' exactly' (ID: 6896), Prob: 0.0000
+Token: ' seem' (ID: 2803), Prob: 0.0000
+Token: ' per' (ID: 817), Prob: 0.0000
+Token: ' check' (ID: 1779), Prob: 0.0000
 
 == Ranked Concepts (Clusters) ==
-Rank 1 | Concept Score: 0.9922
-  Tokens: [' must', ' Must', ' MUST', 'must']
-Rank 2 | Concept Score: 0.0005
-  Tokens: [' cannot', ' may', ' would', ' could', ' might']
-Rank 3 | Concept Score: 0.0003
-  Tokens: [' needs', ' knows', ' uses', ' wants', ' requires']
-Rank 4 | Concept Score: 0.0001
-  Tokens: [' flies', ' fly']
-Rank 5 | Concept Score: 0.0001
-  Tokens: [' meets', ' begins', ' returns']
-Rank 6 | Concept Score: 0.0000
-  Tokens: [' makes', ' assumes', ' takes', ' becomes']
-Rank 7 | Concept Score: 0.0000
-  Tokens: [' arrives', ' comes']
-Rank 8 | Concept Score: 0.0000
-  Tokens: [' receives', ' decides', ' spends']
-Rank 9 | Concept Score: 0.0000
-  Tokens: [' moves', ' travels', ' stays']
-Rank 10 | Concept Score: 0.0000
-  Tokens: [' immediately', ' exactly', ' every']
-Rank 11 | Concept Score: 0.0000
-  Tokens: [' always', ' never']
-Rank 12 | Concept Score: 0.0000
-  Tokens: [' leaves', ' ends']
-Rank 13 | Concept Score: 0.0000
-  Tokens: [' man']
-Rank 14 | Concept Score: 0.0000
-  Tokens: [' finally']
-Rank 15 | Concept Score: 0.0000
-  Tokens: [' therefore']
-Rank 16 | Concept Score: 0.0000
-  Tokens: [' faces']
+Rank 1 | Centroid: ' Could' | Score: 1.0000
+  Tokens: [' could', ' Could', 'could', 'Could']
+Rank 2 | Centroid: ' must' | Score: 0.0000
+  Tokens: [' would', ' must', ' cannot', ' need']
+Rank 3 | Centroid: ' according' | Score: 0.0000
+  Tokens: [' since', ' based', ' according', ' depending']
+Rank 4 | Centroid: ' may' | Score: 0.0000
+  Tokens: [' may', ' might']
+Rank 5 | Centroid: ' check' | Score: 0.0000
+  Tokens: [' count', ' cancel', ' check']
+Rank 6 | Centroid: ' vary' | Score: 0.0000
+  Tokens: [' vary', ' change', ' differ', ' choose']
+Rank 7 | Centroid: ' every' | Score: 0.0000
+  Tokens: [' every', ' per']
+Rank 8 | Centroid: ' possibly' | Score: 0.0000
+  Tokens: [' possibly', ' possible']
+Rank 9 | Centroid: ' slightly' | Score: 0.0000
+  Tokens: [' carefully', ' slightly', ' another', ' exactly']
+Rank 10 | Centroid: ' either' | Score: 0.0000
+  Tokens: [' either']
+Rank 11 | Centroid: ' indicate' | Score: 0.0000
+  Tokens: [' contain', ' indicate', ' seem']
+Rank 12 | Centroid: ' cell' | Score: 0.0000
+  Tokens: [' cell', ' cells']
+Rank 13 | Centroid: ' four' | Score: 0.0000
+  Tokens: [' four', ' five']
+Rank 14 | Centroid: ' concerning' | Score: 0.0000
+  Tokens: [' concerning']
 
-**Chosen Concept:** Rank 1 with score 0.9922
+**Chosen Concept:** Rank 1

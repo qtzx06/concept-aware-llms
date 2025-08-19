@@ -1,118 +1,76 @@
 --- Step 80 Log ---
 
 == Filtered Candidates ==
-Token: ' team' (ID: 2083), Prob: 0.5156
-Token: ' findings' (ID: 14613), Prob: 0.0330
-Token: ' group' (ID: 1874), Prob: 0.0199
-Token: ' teams' (ID: 7263), Prob: 0.0137
-Token: ' scientists' (ID: 13923), Prob: 0.0107
-Token: ' results' (ID: 3059), Prob: 0.0045
-Token: ' paper' (ID: 5567), Prob: 0.0020
-Token: ' report' (ID: 1895), Prob: 0.0019
-Token: ' groups' (ID: 5203), Prob: 0.0019
-Token: ' lab' (ID: 10072), Prob: 0.0014
-Token: ' study' (ID: 3920), Prob: 0.0014
-Token: ' data' (ID: 821), Prob: 0.0010
-Token: ' conducted' (ID: 13075), Prob: 0.0010
-Token: ' work' (ID: 975), Prob: 0.0009
-Token: ' reports' (ID: 6682), Prob: 0.0009
-Token: ' personnel' (ID: 16849), Prob: 0.0009
-Token: ' project' (ID: 2390), Prob: 0.0008
-Token: ' scientist' (ID: 27468), Prob: 0.0008
-Token: ' department' (ID: 9292), Prob: 0.0008
-Token: ' laboratory' (ID: 26594), Prob: 0.0007
-Token: ' experts' (ID: 11647), Prob: 0.0007
-Token: ' efforts' (ID: 8869), Prob: 0.0006
-Token: ' article' (ID: 4549), Prob: 0.0006
-Token: ' workers' (ID: 7337), Prob: 0.0006
-Token: ' papers' (ID: 15689), Prob: 0.0006
-Token: ' assistant' (ID: 17847), Prob: 0.0006
-Token: ' assistants' (ID: 56519), Prob: 0.0006
-Token: ' community' (ID: 3942), Prob: 0.0006
-Token: ' researchers' (ID: 11811), Prob: 0.0006
-Token: ' institute' (ID: 43698), Prob: 0.0005
-Token: ' staff' (ID: 5570), Prob: 0.0005
-Token: ' leaders' (ID: 6036), Prob: 0.0005
-Token: ' led' (ID: 6069), Prob: 0.0005
-Token: ' mission' (ID: 8954), Prob: 0.0004
-Token: 'ers' (ID: 388), Prob: 0.0004
-Token: ' lead' (ID: 2990), Prob: 0.0004
-Token: ' find' (ID: 1477), Prob: 0.0003
-Token: ' published' (ID: 4652), Prob: 0.0003
-Token: ' committee' (ID: 12801), Prob: 0.0003
-Token: ' studies' (ID: 7822), Prob: 0.0003
-Token: ' hypothesis' (ID: 30078), Prob: 0.0003
-Token: ' station' (ID: 8056), Prob: 0.0003
-Token: ' institutions' (ID: 14336), Prob: 0.0003
-Token: ' institution' (ID: 14898), Prob: 0.0003
-Token: ' methods' (ID: 5413), Prob: 0.0003
-Token: ' done' (ID: 2814), Prob: 0.0002
-Token: ' leader' (ID: 7653), Prob: 0.0002
-Token: ' facility' (ID: 12481), Prob: 0.0002
-Token: ' effort' (ID: 5041), Prob: 0.0002
-Token: ' crew' (ID: 13627), Prob: 0.0002
-Token: ' panel' (ID: 6945), Prob: 0.0002
-Token: ' experiment' (ID: 9342), Prob: 0.0002
-Token: ' officials' (ID: 7359), Prob: 0.0002
-Token: ' firm' (ID: 7474), Prob: 0.0002
-Token: ' protocol' (ID: 11507), Prob: 0.0002
-Token: ' research' (ID: 3412), Prob: 0.0002
-Token: ' model' (ID: 1614), Prob: 0.0001
-Token: ' field' (ID: 2070), Prob: 0.0001
-Token: ' finding' (ID: 9271), Prob: 0.0001
-Token: ' program' (ID: 2025), Prob: 0.0001
-Token: ' center' (ID: 4126), Prob: 0.0001
-Token: ' organization' (ID: 7321), Prob: 0.0001
-Token: ' experiments' (ID: 21204), Prob: 0.0001
-Token: ' plan' (ID: 3119), Prob: 0.0001
-Token: ' animals' (ID: 9898), Prob: 0.0001
-Token: ' board' (ID: 4479), Prob: 0.0001
-Token: ' unit' (ID: 4982), Prob: 0.0001
-Token: ' sample' (ID: 6077), Prob: 0.0001
-Token: ' journal' (ID: 8322), Prob: 0.0001
-Token: ' breakthrough' (ID: 41345), Prob: 0.0001
-Token: ' analysis' (ID: 6358), Prob: 0.0001
+Token: ' yes' (ID: 9834), Prob: 0.8906
+Token: ' yeah' (ID: 21639), Prob: 0.0004
+Token: ' maybe' (ID: 7196), Prob: 0.0001
+Token: ' something' (ID: 2494), Prob: 0.0001
+Token: ' hello' (ID: 23811), Prob: 0.0001
+Token: ' etc' (ID: 4992), Prob: 0.0001
+Token: ' nothing' (ID: 4302), Prob: 0.0001
+Token: ' exactly' (ID: 6896), Prob: 0.0000
+Token: 'yes' (ID: 9693), Prob: 0.0000
+Token: ' Yes' (ID: 7414), Prob: 0.0000
+Token: ' also' (ID: 1083), Prob: 0.0000
+Token: ' negative' (ID: 8225), Prob: 0.0000
+Token: ' okay' (ID: 16910), Prob: 0.0000
+Token: ' wait' (ID: 3783), Prob: 0.0000
+Token: ' positive' (ID: 6785), Prob: 0.0000
+Token: ' whether' (ID: 3425), Prob: 0.0000
+Token: ' answer' (ID: 4226), Prob: 0.0000
+Token: ' none' (ID: 6857), Prob: 0.0000
+Token: ' YES' (ID: 14080), Prob: 0.0000
+Token: '=yes' (ID: 59565), Prob: 0.0000
+Token: ' one' (ID: 825), Prob: 0.0000
+Token: ' say' (ID: 1977), Prob: 0.0000
+Token: ' always' (ID: 2677), Prob: 0.0000
+Token: ' sure' (ID: 2704), Prob: 0.0000
+Token: ' possible' (ID: 3204), Prob: 0.0000
+Token: ' unknown' (ID: 9788), Prob: 0.0000
+Token: ' without' (ID: 2041), Prob: 0.0000
+Token: ' either' (ID: 2987), Prob: 0.0000
+Token: ' correct' (ID: 4396), Prob: 0.0000
+Token: ' depends' (ID: 13798), Prob: 0.0000
+Token: ' another' (ID: 2441), Prob: 0.0000
+Token: ' based' (ID: 3118), Prob: 0.0000
+Token: ' please' (ID: 4486), Prob: 0.0000
+Token: ' even' (ID: 1496), Prob: 0.0000
+Token: ' enough' (ID: 3322), Prob: 0.0000
+Token: ' zero' (ID: 7168), Prob: 0.0000
+Token: ' impossible' (ID: 11997), Prob: 0.0000
 
 == Ranked Concepts (Clusters) ==
-Rank 1 | Concept Score: 0.5508
-  Tokens: [' team', ' group', ' teams', ' groups']
-Rank 2 | Concept Score: 0.0378
-  Tokens: [' findings', ' results', ' find', ' finding']
-Rank 3 | Concept Score: 0.0142
-  Tokens: [' scientists', ' scientist', ' experts', ' assistant', ' assistants', ' researchers', ' officials', ' animals']
-Rank 4 | Concept Score: 0.0036
-  Tokens: [' paper', ' article', ' papers', ' published', ' journal']
-Rank 5 | Concept Score: 0.0031
-  Tokens: [' report', ' reports', ' hypothesis']
-Rank 6 | Concept Score: 0.0025
-  Tokens: [' lab', ' laboratory', ' experiment', ' experiments']
-Rank 7 | Concept Score: 0.0021
-  Tokens: [' personnel', ' workers', ' staff', ' crew']
-Rank 8 | Concept Score: 0.0020
-  Tokens: [' work', ' efforts', ' methods', ' effort']
-Rank 9 | Concept Score: 0.0020
-  Tokens: [' institute', ' station', ' institutions', ' institution', ' facility', ' firm', ' center', ' organization']
-Rank 10 | Concept Score: 0.0019
-  Tokens: [' study', ' studies', ' research', ' analysis']
-Rank 11 | Concept Score: 0.0016
-  Tokens: [' leaders', ' led', ' lead', ' leader']
-Rank 12 | Concept Score: 0.0014
-  Tokens: [' project', ' protocol', ' model', ' program', ' plan']
-Rank 13 | Concept Score: 0.0012
-  Tokens: [' conducted', ' done']
-Rank 14 | Concept Score: 0.0011
-  Tokens: [' department', ' committee']
-Rank 15 | Concept Score: 0.0010
-  Tokens: [' data']
-Rank 16 | Concept Score: 0.0007
-  Tokens: [' community', ' unit']
-Rank 17 | Concept Score: 0.0006
-  Tokens: [' panel', ' field', ' board', ' sample']
-Rank 18 | Concept Score: 0.0004
-  Tokens: [' mission']
-Rank 19 | Concept Score: 0.0004
-  Tokens: ['ers']
-Rank 20 | Concept Score: 0.0001
-  Tokens: [' breakthrough']
+Rank 1 | Centroid: ' yes' | Score: 0.8906
+  Tokens: [' yes', ' yeah', 'yes', ' Yes', ' YES', '=yes', ' sure']
+Rank 2 | Centroid: ' nothing' | Score: 0.0002
+  Tokens: [' something', ' nothing', ' none']
+Rank 3 | Centroid: ' maybe' | Score: 0.0001
+  Tokens: [' maybe']
+Rank 4 | Centroid: ' etc' | Score: 0.0001
+  Tokens: [' etc', ' wait']
+Rank 5 | Centroid: ' hello' | Score: 0.0001
+  Tokens: [' hello', ' please']
+Rank 6 | Centroid: ' negative' | Score: 0.0001
+  Tokens: [' negative', ' positive', ' zero']
+Rank 7 | Centroid: ' exactly' | Score: 0.0001
+  Tokens: [' exactly', ' always']
+Rank 8 | Centroid: ' also' | Score: 0.0000
+  Tokens: [' also', ' even']
+Rank 9 | Centroid: ' whether' | Score: 0.0000
+  Tokens: [' whether', ' either']
+Rank 10 | Centroid: ' answer' | Score: 0.0000
+  Tokens: [' answer', ' correct']
+Rank 11 | Centroid: ' okay' | Score: 0.0000
+  Tokens: [' okay']
+Rank 12 | Centroid: ' impossible' | Score: 0.0000
+  Tokens: [' possible', ' unknown', ' impossible']
+Rank 13 | Centroid: ' based' | Score: 0.0000
+  Tokens: [' without', ' depends', ' based']
+Rank 14 | Centroid: ' one' | Score: 0.0000
+  Tokens: [' one', ' another']
+Rank 15 | Centroid: ' say' | Score: 0.0000
+  Tokens: [' say']
+Rank 16 | Centroid: ' enough' | Score: 0.0000
+  Tokens: [' enough']
 
-**Chosen Concept:** Rank 1 with score 0.5508
+**Chosen Concept:** Rank 1

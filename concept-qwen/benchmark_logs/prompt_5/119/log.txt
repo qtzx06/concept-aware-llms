@@ -1,0 +1,97 @@
+--- Step 119 Log ---
+
+== Filtered Candidates ==
+Token: ' sense' (ID: 5530), Prob: 1.0000
+Token: ' senses' (ID: 37107), Prob: 0.0000
+Token: ' Sense' (ID: 46229), Prob: 0.0000
+Token: ' sound' (ID: 5112), Prob: 0.0000
+Token: ' sentido' (ID: 64384), Prob: 0.0000
+Token: ' seem' (ID: 2803), Prob: 0.0000
+Token: ' make' (ID: 1281), Prob: 0.0000
+Token: ' sens' (ID: 6097), Prob: 0.0000
+Token: 'sense' (ID: 97835), Prob: 0.0000
+Token: ' sensible' (ID: 37661), Prob: 0.0000
+Token: 'ense' (ID: 1117), Prob: 0.0000
+Token: ' sensory' (ID: 47969), Prob: 0.0000
+Token: ' feel' (ID: 2666), Prob: 0.0000
+Token: 'Sense' (ID: 61009), Prob: 0.0000
+Token: ' something' (ID: 2494), Prob: 0.0000
+Token: ' nonsense' (ID: 40802), Prob: 0.0000
+Token: ' meaning' (ID: 7290), Prob: 0.0000
+Token: ' good' (ID: 1661), Prob: 0.0000
+Token: ' sure' (ID: 2704), Prob: 0.0000
+Token: ' sen' (ID: 6124), Prob: 0.0000
+Token: ' smell' (ID: 22068), Prob: 0.0000
+Token: ' mean' (ID: 3076), Prob: 0.0000
+Token: ' much' (ID: 1753), Prob: 0.0000
+Token: ' sensing' (ID: 59099), Prob: 0.0000
+Token: ' use' (ID: 990), Prob: 0.0000
+Token: ' little' (ID: 2632), Prob: 0.0000
+Token: ' speak' (ID: 6468), Prob: 0.0000
+Token: ' sponge' (ID: 68348), Prob: 0.0000
+Token: ' sounds' (ID: 10362), Prob: 0.0000
+Token: ' sell' (ID: 4559), Prob: 0.0000
+Token: ' matter' (ID: 4925), Prob: 0.0000
+Token: ' significance' (ID: 25361), Prob: 0.0000
+Token: ' sexual' (ID: 7244), Prob: 0.0000
+Token: ' great' (ID: 2244), Prob: 0.0000
+Token: ' send' (ID: 3624), Prob: 0.0000
+Token: ' taste' (ID: 12656), Prob: 0.0000
+Token: ' satisfy' (ID: 26553), Prob: 0.0000
+Token: ' stand' (ID: 2498), Prob: 0.0000
+Token: ' respect' (ID: 5091), Prob: 0.0000
+Token: ' yes' (ID: 9834), Prob: 0.0000
+Token: ' listen' (ID: 8844), Prob: 0.0000
+Token: ' suggest' (ID: 4190), Prob: 0.0000
+Token: ' significant' (ID: 5089), Prob: 0.0000
+Token: ' logical' (ID: 19819), Prob: 0.0000
+Token: ' count' (ID: 1760), Prob: 0.0000
+Token: ' sex' (ID: 1839), Prob: 0.0000
+Token: ' sufficient' (ID: 14016), Prob: 0.0000
+Token: 'ence' (ID: 763), Prob: 0.0000
+Token: ' sentence' (ID: 11652), Prob: 0.0000
+Token: ' work' (ID: 975), Prob: 0.0000
+
+== Ranked Concepts (Clusters) ==
+Rank 1 | Centroid: ' Sense' | Score: 1.0000
+  Tokens: [' sense', ' Sense', ' sentido', 'sense', 'Sense']
+Rank 2 | Centroid: ' sensory' | Score: 0.0000
+  Tokens: [' senses', ' sens', ' sensory', ' sensing']
+Rank 3 | Centroid: ' sound' | Score: 0.0000
+  Tokens: [' sound', ' sounds']
+Rank 4 | Centroid: ' seem' | Score: 0.0000
+  Tokens: [' seem', ' feel']
+Rank 5 | Centroid: ' send' | Score: 0.0000
+  Tokens: [' make', ' speak', ' sell', ' send', ' satisfy', ' listen', ' suggest']
+Rank 6 | Centroid: ' sensible' | Score: 0.0000
+  Tokens: [' sensible', ' logical']
+Rank 7 | Centroid: 'ense' | Score: 0.0000
+  Tokens: ['ense', 'ence']
+Rank 8 | Centroid: ' great' | Score: 0.0000
+  Tokens: [' good', ' much', ' little', ' great', ' sufficient']
+Rank 9 | Centroid: ' meaning' | Score: 0.0000
+  Tokens: [' meaning', ' mean']
+Rank 10 | Centroid: ' nonsense' | Score: 0.0000
+  Tokens: [' nonsense', ' sponge']
+Rank 11 | Centroid: ' something' | Score: 0.0000
+  Tokens: [' something']
+Rank 12 | Centroid: ' sure' | Score: 0.0000
+  Tokens: [' sure', ' yes']
+Rank 13 | Centroid: ' smell' | Score: 0.0000
+  Tokens: [' smell', ' taste']
+Rank 14 | Centroid: ' use' | Score: 0.0000
+  Tokens: [' use', ' respect', ' count', ' work']
+Rank 15 | Centroid: ' sen' | Score: 0.0000
+  Tokens: [' sen']
+Rank 16 | Centroid: ' significance' | Score: 0.0000
+  Tokens: [' significance', ' significant']
+Rank 17 | Centroid: ' sexual' | Score: 0.0000
+  Tokens: [' sexual', ' sex']
+Rank 18 | Centroid: ' matter' | Score: 0.0000
+  Tokens: [' matter']
+Rank 19 | Centroid: ' stand' | Score: 0.0000
+  Tokens: [' stand']
+Rank 20 | Centroid: ' sentence' | Score: 0.0000
+  Tokens: [' sentence']
+
+**Chosen Concept:** Rank 1

@@ -1,139 +1,81 @@
 --- Step 118 Log ---
 
 == Filtered Candidates ==
-Token: ' type' (ID: 943), Prob: 0.8047
-Token: ' fungus' (ID: 78802), Prob: 0.0747
-Token: ' enzyme' (ID: 48142), Prob: 0.0583
-Token: ' kind' (ID: 3093), Prob: 0.0215
-Token: ' fungal' (ID: 94347), Prob: 0.0024
-Token: ' species' (ID: 9419), Prob: 0.0019
-Token: ' disease' (ID: 8457), Prob: 0.0015
-Token: ' virus' (ID: 16770), Prob: 0.0005
-Token: ' organism' (ID: 46020), Prob: 0.0005
-Token: ' protein' (ID: 12833), Prob: 0.0004
-Token: ' fungi' (ID: 80440), Prob: 0.0003
-Token: ' gene' (ID: 14862), Prob: 0.0003
-Token: ' combination' (ID: 10601), Prob: 0.0003
-Token: ' mutation' (ID: 26374), Prob: 0.0003
-Token: ' enemy' (ID: 9175), Prob: 0.0002
-Token: ' strain' (ID: 25716), Prob: 0.0002
-Token: ' structure' (ID: 5944), Prob: 0.0002
-Token: ' version' (ID: 2319), Prob: 0.0002
-Token: ' variant' (ID: 11424), Prob: 0.0002
-Token: ' function' (ID: 729), Prob: 0.0002
-Token: ' path' (ID: 1815), Prob: 0.0002
-Token: ' one' (ID: 825), Prob: 0.0002
-Token: ' similar' (ID: 4428), Prob: 0.0002
-Token: ' enzym' (ID: 30911), Prob: 0.0002
-Token: ' form' (ID: 1352), Prob: 0.0001
-Token: ' environment' (ID: 4573), Prob: 0.0001
-Token: ' infection' (ID: 18873), Prob: 0.0001
-Token: '-type' (ID: 10604), Prob: 0.0001
-Token: ' toxin' (ID: 97434), Prob: 0.0001
-Token: ' life' (ID: 2272), Prob: 0.0001
-Token: ' condition' (ID: 2971), Prob: 0.0001
-Token: ' treatment' (ID: 6380), Prob: 0.0001
-Token: ' set' (ID: 738), Prob: 0.0001
-Token: ' amount' (ID: 3311), Prob: 0.0001
-Token: ' pair' (ID: 6716), Prob: 0.0001
-Token: ' source' (ID: 2530), Prob: 0.0001
-Token: ' situation' (ID: 6534), Prob: 0.0001
-Token: ' substance' (ID: 19699), Prob: 0.0001
-Token: ' case' (ID: 1142), Prob: 0.0001
-Token: ' yet' (ID: 3602), Prob: 0.0001
-Token: ' human' (ID: 3738), Prob: 0.0001
-Token: ' level' (ID: 2188), Prob: 0.0001
-Token: ' plant' (ID: 6008), Prob: 0.0001
-Token: ' amino' (ID: 41400), Prob: 0.0001
-Token: ' genetic' (ID: 18929), Prob: 0.0001
-Token: ' product' (ID: 1985), Prob: 0.0001
-Token: ' genome' (ID: 32769), Prob: 0.0001
-Token: ' molecule' (ID: 41930), Prob: 0.0001
-Token: ' system' (ID: 1849), Prob: 0.0001
-Token: ' group' (ID: 1874), Prob: 0.0001
-Token: ' effect' (ID: 2456), Prob: 0.0001
-Token: ' DNA' (ID: 15552), Prob: 0.0001
-Token: ' creature' (ID: 17218), Prob: 0.0001
-Token: ' insect' (ID: 25989), Prob: 0.0001
-Token: ' animal' (ID: 9864), Prob: 0.0001
-Token: ' chemical' (ID: 11483), Prob: 0.0001
-Token: ' variety' (ID: 8045), Prob: 0.0000
-Token: ' alpha' (ID: 8287), Prob: 0.0000
-Token: ' genus' (ID: 63577), Prob: 0.0000
-Token: ' way' (ID: 1616), Prob: 0.0000
+Token: ' something' (ID: 2494), Prob: 0.9844
+Token: ' etc' (ID: 4992), Prob: 0.0046
+Token: ' yes' (ID: 9834), Prob: 0.0013
+Token: ' anything' (ID: 4113), Prob: 0.0002
+Token: ' maybe' (ID: 7196), Prob: 0.0000
+Token: ' even' (ID: 1496), Prob: 0.0000
+Token: ' Something' (ID: 24656), Prob: 0.0000
+Token: ' option' (ID: 2999), Prob: 0.0000
+Token: ' someone' (ID: 4325), Prob: 0.0000
+Token: ' sometimes' (ID: 7025), Prob: 0.0000
+Token: ' somewhere' (ID: 14696), Prob: 0.0000
+Token: ' whatever' (ID: 8820), Prob: 0.0000
+Token: ' nothing' (ID: 4302), Prob: 0.0000
+Token: ' except' (ID: 3650), Prob: 0.0000
+Token: ' similar' (ID: 4428), Prob: 0.0000
+Token: ' everything' (ID: 4297), Prob: 0.0000
+Token: ' YES' (ID: 14080), Prob: 0.0000
 Token: ' thing' (ID: 3166), Prob: 0.0000
-Token: ' piece' (ID: 6573), Prob: 0.0000
-Token: ' beta' (ID: 13440), Prob: 0.0000
-Token: ' trait' (ID: 17567), Prob: 0.0000
-Token: ' illness' (ID: 17125), Prob: 0.0000
-Token: ' mixture' (ID: 20980), Prob: 0.0000
-Token: ' like' (ID: 1075), Prob: 0.0000
-Token: ' fish' (ID: 7640), Prob: 0.0000
-Token: ' sequence' (ID: 8500), Prob: 0.0000
-Token: ' dangerous' (ID: 11406), Prob: 0.0000
-Token: ' mechanism' (ID: 16953), Prob: 0.0000
-Token: ' arrangement' (ID: 26112), Prob: 0.0000
+Token: ' options' (ID: 2606), Prob: 0.0000
+Token: ' since' (ID: 2474), Prob: 0.0000
+Token: ' answer' (ID: 4226), Prob: 0.0000
+Token: ' plus' (ID: 5519), Prob: 0.0000
+Token: ' depending' (ID: 11649), Prob: 0.0000
+Token: 'something' (ID: 33331), Prob: 0.0000
+Token: ' possibly' (ID: 10767), Prob: 0.0000
+Token: ' okay' (ID: 16910), Prob: 0.0000
+Token: ' one' (ID: 825), Prob: 0.0000
+Token: ' also' (ID: 1083), Prob: 0.0000
+Token: ' two' (ID: 1378), Prob: 0.0000
+Token: ' another' (ID: 2441), Prob: 0.0000
+Token: ' possible' (ID: 3204), Prob: 0.0000
+Token: ' things' (ID: 2513), Prob: 0.0000
+Token: ' based' (ID: 3118), Prob: 0.0000
+Token: ' certain' (ID: 3654), Prob: 0.0000
+Token: ' som' (ID: 1757), Prob: 0.0000
+Token: ' three' (ID: 2326), Prob: 0.0000
+Token: ' sure' (ID: 2704), Prob: 0.0000
+Token: ' unless' (ID: 7241), Prob: 0.0000
+Token: ' example' (ID: 3110), Prob: 0.0000
 Token: ' enough' (ID: 3322), Prob: 0.0000
-Token: ' types' (ID: 4494), Prob: 0.0000
-Token: ' energy' (ID: 4802), Prob: 0.0000
-Token: ' configuration' (ID: 6546), Prob: 0.0000
-Token: ' planet' (ID: 11580), Prob: 0.0000
-Token: ' bacteria' (ID: 23157), Prob: 0.0000
-Token: ' ecosystem' (ID: 24982), Prob: 0.0000
-Token: ' biological' (ID: 23275), Prob: 0.0000
-Token: ' mushroom' (ID: 57366), Prob: 0.0000
-Token: ' Type' (ID: 3990), Prob: 0.0000
-Token: ' unique' (ID: 4911), Prob: 0.0000
-Token: ' pattern' (ID: 5383), Prob: 0.0000
+Token: ' however' (ID: 4764), Prob: 0.0000
+Token: ' specific' (ID: 3151), Prob: 0.0000
+Token: ' otherwise' (ID: 5937), Prob: 0.0000
+Token: ' sorry' (ID: 14589), Prob: 0.0000
 
 == Ranked Concepts (Clusters) ==
-Rank 1 | Concept Score: 0.8281
-  Tokens: [' type', ' kind', '-type', ' types', ' Type']
-Rank 2 | Concept Score: 0.0776
-  Tokens: [' fungus', ' fungal', ' fungi', ' bacteria', ' mushroom']
-Rank 3 | Concept Score: 0.0593
-  Tokens: [' enzyme', ' protein', ' enzym', ' toxin', ' substance', ' amino', ' molecule', ' chemical']
-Rank 4 | Concept Score: 0.0024
-  Tokens: [' disease', ' virus', ' enemy', ' infection', ' illness']
-Rank 5 | Concept Score: 0.0019
-  Tokens: [' species', ' genus']
-Rank 6 | Concept Score: 0.0008
-  Tokens: [' gene', ' mutation', ' genetic', ' genome', ' DNA', ' trait']
-Rank 7 | Concept Score: 0.0007
-  Tokens: [' organism', ' creature', ' planet', ' ecosystem']
-Rank 8 | Concept Score: 0.0006
-  Tokens: [' structure', ' environment', ' system', ' sequence', ' mechanism', ' arrangement', ' configuration', ' pattern']
-Rank 9 | Concept Score: 0.0006
-  Tokens: [' one', ' similar', ' life', ' human', ' like']
-Rank 10 | Concept Score: 0.0005
-  Tokens: [' strain', ' variant', ' variety']
-Rank 11 | Concept Score: 0.0004
-  Tokens: [' version', ' form', ' source']
-Rank 12 | Concept Score: 0.0003
-  Tokens: [' set', ' pair', ' group', ' unique']
-Rank 13 | Concept Score: 0.0003
-  Tokens: [' combination', ' mixture']
-Rank 14 | Concept Score: 0.0003
-  Tokens: [' amount', ' level', ' way', ' thing']
-Rank 15 | Concept Score: 0.0003
-  Tokens: [' plant', ' insect', ' animal', ' fish', ' biological']
-Rank 16 | Concept Score: 0.0003
-  Tokens: [' condition', ' situation', ' effect']
-Rank 17 | Concept Score: 0.0003
-  Tokens: [' path', ' case']
-Rank 18 | Concept Score: 0.0002
-  Tokens: [' function']
-Rank 19 | Concept Score: 0.0002
-  Tokens: [' yet', ' dangerous', ' enough']
-Rank 20 | Concept Score: 0.0001
-  Tokens: [' treatment']
-Rank 21 | Concept Score: 0.0001
-  Tokens: [' alpha', ' beta']
-Rank 22 | Concept Score: 0.0001
-  Tokens: [' product']
-Rank 23 | Concept Score: 0.0000
-  Tokens: [' piece']
-Rank 24 | Concept Score: 0.0000
-  Tokens: [' energy']
+Rank 1 | Centroid: ' something' | Score: 0.9844
+  Tokens: [' something', ' Something', ' someone', ' somewhere', 'something']
+Rank 2 | Centroid: ' certain' | Score: 0.0046
+  Tokens: [' etc', ' similar', ' certain', ' specific']
+Rank 3 | Centroid: ' yes' | Score: 0.0013
+  Tokens: [' yes', ' YES', ' sure']
+Rank 4 | Centroid: ' things' | Score: 0.0002
+  Tokens: [' anything', ' whatever', ' nothing', ' everything', ' thing', ' things']
+Rank 5 | Centroid: ' possibly' | Score: 0.0001
+  Tokens: [' maybe', ' sometimes', ' possibly', ' possible']
+Rank 6 | Centroid: ' option' | Score: 0.0000
+  Tokens: [' option', ' options', ' answer']
+Rank 7 | Centroid: ' unless' | Score: 0.0000
+  Tokens: [' except', ' since', ' plus', ' depending', ' based', ' unless']
+Rank 8 | Centroid: ' even' | Score: 0.0000
+  Tokens: [' even']
+Rank 9 | Centroid: ' two' | Score: 0.0000
+  Tokens: [' one', ' two', ' three']
+Rank 10 | Centroid: ' another' | Score: 0.0000
+  Tokens: [' another', ' som']
+Rank 11 | Centroid: ' okay' | Score: 0.0000
+  Tokens: [' okay', ' sorry']
+Rank 12 | Centroid: ' also' | Score: 0.0000
+  Tokens: [' also']
+Rank 13 | Centroid: ' however' | Score: 0.0000
+  Tokens: [' however', ' otherwise']
+Rank 14 | Centroid: ' example' | Score: 0.0000
+  Tokens: [' example']
+Rank 15 | Centroid: ' enough' | Score: 0.0000
+  Tokens: [' enough']
 
-**Chosen Concept:** Rank 1 with score 0.8281
+**Chosen Concept:** Rank 1

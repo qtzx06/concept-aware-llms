@@ -1,56 +1,62 @@
 --- Step 21 Log ---
 
 == Filtered Candidates ==
-Token: ' Today' (ID: 11201), Prob: 0.8477
-Token: ' today' (ID: 3351), Prob: 0.0065
-Token: 'Today' (ID: 15364), Prob: 0.0021
-Token: '.Today' (ID: 72672), Prob: 0.0017
-Token: ' TODAY' (ID: 40262), Prob: 0.0014
-Token: ' Tomorrow' (ID: 54996), Prob: 0.0007
-Token: ' Together' (ID: 31155), Prob: 0.0005
-Token: ' Tonight' (ID: 54214), Prob: 0.0004
-Token: ' Yesterday' (ID: 60033), Prob: 0.0004
-Token: ' Please' (ID: 5209), Prob: 0.0003
-Token: ' Also' (ID: 7281), Prob: 0.0003
-Token: ' Topics' (ID: 40894), Prob: 0.0003
-Token: ' Children' (ID: 15044), Prob: 0.0002
-Token: ' Tod' (ID: 58583), Prob: 0.0002
-Token: ' Day' (ID: 6059), Prob: 0.0002
-Token: ' Daily' (ID: 13385), Prob: 0.0002
-Token: ' Recently' (ID: 40996), Prob: 0.0002
-Token: ' People' (ID: 8853), Prob: 0.0002
-Token: ' Dreams' (ID: 52618), Prob: 0.0002
-Token: ' Everyone' (ID: 21455), Prob: 0.0002
-Token: ' Let' (ID: 6771), Prob: 0.0002
-Token: ' Yes' (ID: 7414), Prob: 0.0002
-Token: ' Later' (ID: 24885), Prob: 0.0002
+Token: ' prompt' (ID: 9934), Prob: 0.1963
+Token: ' message' (ID: 1943), Prob: 0.0067
+Token: ' list' (ID: 1140), Prob: 0.0025
+Token: ' example' (ID: 3110), Prob: 0.0007
+Token: ' Prompt' (ID: 59501), Prob: 0.0007
+Token: ' except' (ID: 3650), Prob: 0.0006
+Token: ' including' (ID: 2670), Prob: 0.0004
+Token: ' description' (ID: 4008), Prob: 0.0004
+Token: ' within' (ID: 2878), Prob: 0.0004
+Token: ' include' (ID: 2924), Prob: 0.0004
+Token: ' answer' (ID: 4226), Prob: 0.0004
+Token: ' response' (ID: 2033), Prob: 0.0003
+Token: ' according' (ID: 4092), Prob: 0.0003
+Token: ' question' (ID: 3405), Prob: 0.0003
+Token: ' display' (ID: 3037), Prob: 0.0003
+Token: ' wording' (ID: 60227), Prob: 0.0003
+Token: ' item' (ID: 1509), Prob: 0.0002
+Token: ' without' (ID: 2041), Prob: 0.0002
+Token: ' title' (ID: 2265), Prob: 0.0002
+Token: ' prompts' (ID: 50932), Prob: 0.0002
+Token: ' given' (ID: 2661), Prob: 0.0002
+Token: ' format' (ID: 3561), Prob: 0.0002
+Token: ' please' (ID: 4486), Prob: 0.0002
+Token: ' body' (ID: 2487), Prob: 0.0002
+Token: ' bold' (ID: 13939), Prob: 0.0002
 
 == Ranked Concepts (Clusters) ==
-Rank 1 | Concept Score: 0.8594
-  Tokens: [' Today', ' today', 'Today', '.Today', ' TODAY']
-Rank 2 | Concept Score: 0.0011
-  Tokens: [' Tomorrow', ' Tonight']
-Rank 3 | Concept Score: 0.0008
-  Tokens: [' Please', ' Also', ' Let']
-Rank 4 | Concept Score: 0.0005
-  Tokens: [' Yesterday', ' Recently']
-Rank 5 | Concept Score: 0.0005
-  Tokens: [' Together']
-Rank 6 | Concept Score: 0.0004
-  Tokens: [' Day', ' Daily']
-Rank 7 | Concept Score: 0.0003
-  Tokens: [' People', ' Everyone']
-Rank 8 | Concept Score: 0.0003
-  Tokens: [' Topics']
-Rank 9 | Concept Score: 0.0002
-  Tokens: [' Tod']
-Rank 10 | Concept Score: 0.0002
-  Tokens: [' Children']
-Rank 11 | Concept Score: 0.0002
-  Tokens: [' Dreams']
-Rank 12 | Concept Score: 0.0002
-  Tokens: [' Yes']
-Rank 13 | Concept Score: 0.0002
-  Tokens: [' Later']
+Rank 1 | Centroid: ' prompt' | Score: 0.1973
+  Tokens: [' prompt', ' Prompt', ' prompts']
+Rank 2 | Centroid: ' description' | Score: 0.0074
+  Tokens: [' message', ' description', ' title']
+Rank 3 | Centroid: ' list' | Score: 0.0027
+  Tokens: [' list', ' item']
+Rank 4 | Centroid: ' without' | Score: 0.0009
+  Tokens: [' within', ' according', ' without']
+Rank 5 | Centroid: ' except' | Score: 0.0008
+  Tokens: [' except', ' please']
+Rank 6 | Centroid: ' including' | Score: 0.0008
+  Tokens: [' including', ' include']
+Rank 7 | Centroid: ' example' | Score: 0.0007
+  Tokens: [' example']
+Rank 8 | Centroid: ' answer' | Score: 0.0007
+  Tokens: [' answer', ' response']
+Rank 9 | Centroid: ' question' | Score: 0.0003
+  Tokens: [' question']
+Rank 10 | Centroid: ' display' | Score: 0.0003
+  Tokens: [' display']
+Rank 11 | Centroid: ' wording' | Score: 0.0003
+  Tokens: [' wording']
+Rank 12 | Centroid: ' format' | Score: 0.0002
+  Tokens: [' format']
+Rank 13 | Centroid: ' given' | Score: 0.0002
+  Tokens: [' given']
+Rank 14 | Centroid: ' bold' | Score: 0.0002
+  Tokens: [' bold']
+Rank 15 | Centroid: ' body' | Score: 0.0002
+  Tokens: [' body']
 
-**Chosen Concept:** Rank 1 with score 0.8594
+**Chosen Concept:** Rank 1

@@ -1,49 +1,64 @@
 --- Step 3 Log ---
 
 == Filtered Candidates ==
-Token: ' something' (ID: 2494), Prob: 0.0080
-Token: ' one' (ID: 825), Prob: 0.0028
-Token: ' someone' (ID: 4325), Prob: 0.0022
-Token: ' today' (ID: 3351), Prob: 0.0010
-Token: ' two' (ID: 1378), Prob: 0.0010
-Token: 'ings' (ID: 819), Prob: 0.0009
-Token: ' nothing' (ID: 4302), Prob: 0.0009
+Token: ' kids' (ID: 6837), Prob: 0.0047
+Token: ' parents' (ID: 6562), Prob: 0.0042
+Token: ' one' (ID: 825), Prob: 0.0029
+Token: ' children' (ID: 2841), Prob: 0.0029
+Token: ' someone' (ID: 4325), Prob: 0.0025
+Token: ' something' (ID: 2494), Prob: 0.0017
+Token: ' slip' (ID: 21134), Prob: 0.0017
+Token: ' others' (ID: 3800), Prob: 0.0015
+Token: ' students' (ID: 4143), Prob: 0.0014
+Token: ' goes' (ID: 5780), Prob: 0.0014
+Token: ' away' (ID: 3123), Prob: 0.0011
+Token: ' Children' (ID: 15044), Prob: 0.0010
+Token: ' Kids' (ID: 22522), Prob: 0.0009
 Token: ' say' (ID: 1977), Prob: 0.0008
-Token: ' first' (ID: 1156), Prob: 0.0007
-Token: ' instead' (ID: 4518), Prob: 0.0006
-Token: ' back' (ID: 1182), Prob: 0.0006
-Token: ' three' (ID: 2326), Prob: 0.0004
-Token: ' whatever' (ID: 8820), Prob: 0.0004
-Token: ' maybe' (ID: 7196), Prob: 0.0004
-Token: ' yes' (ID: 9834), Prob: 0.0004
-Token: ' right' (ID: 1290), Prob: 0.0004
+Token: ' back' (ID: 1182), Prob: 0.0007
+Token: ' young' (ID: 3908), Prob: 0.0007
+Token: ' Parents' (ID: 42926), Prob: 0.0007
+Token: ' Young' (ID: 13263), Prob: 0.0006
+Token: ' home' (ID: 2114), Prob: 0.0006
+Token: ' words' (ID: 4244), Prob: 0.0005
+Token: ' family' (ID: 2997), Prob: 0.0005
+Token: ' get' (ID: 633), Prob: 0.0005
+Token: ' loose' (ID: 20174), Prob: 0.0005
+Token: ' child' (ID: 1682), Prob: 0.0004
+Token: ' trade' (ID: 6559), Prob: 0.0004
+Token: ' youth' (ID: 12537), Prob: 0.0004
+Token: ' another' (ID: 2441), Prob: 0.0004
+Token: ' come' (ID: 2525), Prob: 0.0004
+Token: ' went' (ID: 3937), Prob: 0.0004
+Token: ' baby' (ID: 8770), Prob: 0.0004
+Token: ' Others' (ID: 25028), Prob: 0.0004
 
 == Ranked Concepts (Clusters) ==
-Rank 1 | Concept Score: 0.0101
-  Tokens: [' something', ' someone']
-Rank 2 | Concept Score: 0.0028
-  Tokens: [' one']
-Rank 3 | Concept Score: 0.0014
-  Tokens: [' two', ' three']
-Rank 4 | Concept Score: 0.0013
-  Tokens: [' nothing', ' whatever']
-Rank 5 | Concept Score: 0.0010
-  Tokens: [' today']
-Rank 6 | Concept Score: 0.0009
-  Tokens: ['ings']
-Rank 7 | Concept Score: 0.0008
-  Tokens: [' say']
-Rank 8 | Concept Score: 0.0007
-  Tokens: [' first']
-Rank 9 | Concept Score: 0.0006
-  Tokens: [' instead']
-Rank 10 | Concept Score: 0.0006
-  Tokens: [' back']
-Rank 11 | Concept Score: 0.0004
-  Tokens: [' yes']
-Rank 12 | Concept Score: 0.0004
-  Tokens: [' maybe']
-Rank 13 | Concept Score: 0.0004
-  Tokens: [' right']
+Rank 1 | Centroid: ' children' | Score: 0.0103
+  Tokens: [' kids', ' children', ' Children', ' Kids', ' child', ' baby']
+Rank 2 | Centroid: ' someone' | Score: 0.0076
+  Tokens: [' one', ' someone', ' something', ' another']
+Rank 3 | Centroid: ' parents' | Score: 0.0049
+  Tokens: [' parents', ' Parents']
+Rank 4 | Centroid: ' others' | Score: 0.0020
+  Tokens: [' others', ' Others']
+Rank 5 | Centroid: ' goes' | Score: 0.0018
+  Tokens: [' goes', ' went']
+Rank 6 | Centroid: ' young' | Score: 0.0018
+  Tokens: [' young', ' Young', ' youth']
+Rank 7 | Centroid: ' away' | Score: 0.0017
+  Tokens: [' away', ' back']
+Rank 8 | Centroid: ' slip' | Score: 0.0017
+  Tokens: [' slip']
+Rank 9 | Centroid: ' get' | Score: 0.0017
+  Tokens: [' say', ' get', ' come']
+Rank 10 | Centroid: ' students' | Score: 0.0014
+  Tokens: [' students']
+Rank 11 | Centroid: ' home' | Score: 0.0011
+  Tokens: [' home', ' family']
+Rank 12 | Centroid: ' words' | Score: 0.0010
+  Tokens: [' words', ' trade']
+Rank 13 | Centroid: ' loose' | Score: 0.0005
+  Tokens: [' loose']
 
-**Chosen Concept:** Rank 1 with score 0.0101
+**Chosen Concept:** Rank 1

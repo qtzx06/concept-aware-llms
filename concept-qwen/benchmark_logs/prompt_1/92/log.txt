@@ -1,0 +1,108 @@
+--- Step 92 Log ---
+
+== Filtered Candidates ==
+Token: ' use' (ID: 990), Prob: 0.0825
+Token: ' using' (ID: 1667), Prob: 0.0391
+Token: ' exactly' (ID: 6896), Prob: 0.0391
+Token: ' start' (ID: 1191), Prob: 0.0184
+Token: ' starting' (ID: 5916), Prob: 0.0143
+Token: ' must' (ID: 1969), Prob: 0.0127
+Token: ' written' (ID: 5326), Prob: 0.0127
+Token: ' one' (ID: 825), Prob: 0.0099
+Token: ' include' (ID: 2924), Prob: 0.0068
+Token: ' contain' (ID: 6644), Prob: 0.0064
+Token: ' two' (ID: 1378), Prob: 0.0047
+Token: ' avoid' (ID: 5648), Prob: 0.0047
+Token: ' without' (ID: 2041), Prob: 0.0044
+Token: ' three' (ID: 2326), Prob: 0.0041
+Token: ' including' (ID: 2670), Prob: 0.0041
+Token: ' single' (ID: 3175), Prob: 0.0039
+Token: ' make' (ID: 1281), Prob: 0.0036
+Token: ' containing' (ID: 8482), Prob: 0.0032
+Token: ' follow' (ID: 1795), Prob: 0.0022
+Token: ' within' (ID: 2878), Prob: 0.0022
+Token: ' end' (ID: 835), Prob: 0.0021
+Token: ' write' (ID: 3270), Prob: 0.0021
+Token: ' mention' (ID: 6286), Prob: 0.0021
+Token: ' describe' (ID: 7512), Prob: 0.0021
+Token: ' five' (ID: 4236), Prob: 0.0019
+Token: ' answer' (ID: 4226), Prob: 0.0017
+Token: ' uses' (ID: 5711), Prob: 0.0017
+Token: ' words' (ID: 4244), Prob: 0.0015
+Token: ' beginning' (ID: 7167), Prob: 0.0014
+Token: ' separated' (ID: 18663), Prob: 0.0013
+Token: ' consisting' (ID: 30606), Prob: 0.0013
+Token: ' made' (ID: 1865), Prob: 0.0013
+Token: ' four' (ID: 3040), Prob: 0.0013
+Token: ' contains' (ID: 5610), Prob: 0.0011
+Token: ' starts' (ID: 8471), Prob: 0.0010
+Token: ' begin' (ID: 3161), Prob: 0.0009
+Token: ' word' (ID: 3409), Prob: 0.0009
+Token: ' specify' (ID: 13837), Prob: 0.0009
+Token: ' less' (ID: 2686), Prob: 0.0009
+Token: ' following' (ID: 2701), Prob: 0.0009
+Token: ' cannot' (ID: 4157), Prob: 0.0009
+Token: ' consist' (ID: 6685), Prob: 0.0009
+Token: ' ending' (ID: 13391), Prob: 0.0008
+Token: ' composed' (ID: 23415), Prob: 0.0008
+Token: ' correct' (ID: 4396), Prob: 0.0008
+Token: ' formatted' (ID: 23126), Prob: 0.0008
+Token: ' comma' (ID: 31683), Prob: 0.0008
+Token: ' first' (ID: 1156), Prob: 0.0007
+Token: ' minimum' (ID: 8028), Prob: 0.0007
+Token: ' structured' (ID: 32930), Prob: 0.0007
+Token: ' maybe' (ID: 7196), Prob: 0.0007
+Token: ' followed' (ID: 8110), Prob: 0.0006
+Token: ' keep' (ID: 2506), Prob: 0.0006
+Token: ' multiple' (ID: 5248), Prob: 0.0006
+Token: ' eight' (ID: 8063), Prob: 0.0006
+Token: ' seven' (ID: 8094), Prob: 0.0006
+Token: ' explain' (ID: 10339), Prob: 0.0006
+Token: ' please' (ID: 4486), Prob: 0.0006
+Token: ' like' (ID: 1075), Prob: 0.0005
+Token: ' six' (ID: 4743), Prob: 0.0005
+Token: ' directly' (ID: 5961), Prob: 0.0005
+Token: ' every' (ID: 1449), Prob: 0.0005
+Token: ' focus' (ID: 5244), Prob: 0.0005
+Token: ' complete' (ID: 4583), Prob: 0.0005
+Token: ' completely' (ID: 6587), Prob: 0.0004
+Token: ' entirely' (ID: 11368), Prob: 0.0004
+Token: ' includes' (ID: 5646), Prob: 0.0004
+Token: ' clearly' (ID: 9355), Prob: 0.0004
+Token: ' state' (ID: 1584), Prob: 0.0004
+Token: ' total' (ID: 2790), Prob: 0.0004
+Token: ' except' (ID: 3650), Prob: 0.0004
+
+== Ranked Concepts (Clusters) ==
+Rank 1 | Centroid: ' uses' | Score: 0.1235
+  Tokens: [' use', ' using', ' uses']
+Rank 2 | Centroid: ' completely' | Score: 0.0425
+  Tokens: [' exactly', ' correct', ' directly', ' complete', ' completely', ' entirely', ' clearly', ' total']
+Rank 3 | Centroid: ' start' | Score: 0.0391
+  Tokens: [' start', ' starting', ' end', ' beginning', ' starts', ' begin', ' ending']
+Rank 4 | Centroid: ' make' | Score: 0.0184
+  Tokens: [' must', ' make', ' made', ' cannot']
+Rank 5 | Centroid: ' formatted' | Score: 0.0183
+  Tokens: [' written', ' write', ' separated', ' formatted', ' comma', ' structured']
+Rank 6 | Centroid: ' single' | Score: 0.0143
+  Tokens: [' one', ' single', ' multiple']
+Rank 7 | Centroid: ' contain' | Score: 0.0137
+  Tokens: [' contain', ' containing', ' consisting', ' contains', ' consist', ' composed']
+Rank 8 | Centroid: ' five' | Score: 0.0137
+  Tokens: [' two', ' three', ' five', ' four', ' eight', ' seven', ' six']
+Rank 9 | Centroid: ' explain' | Score: 0.0131
+  Tokens: [' avoid', ' mention', ' describe', ' answer', ' specify', ' keep', ' explain', ' focus']
+Rank 10 | Centroid: ' includes' | Score: 0.0113
+  Tokens: [' include', ' including', ' includes']
+Rank 11 | Centroid: ' without' | Score: 0.0095
+  Tokens: [' without', ' within', ' less', ' minimum', ' like', ' every', ' except']
+Rank 12 | Centroid: ' follow' | Score: 0.0037
+  Tokens: [' follow', ' following', ' followed']
+Rank 13 | Centroid: ' words' | Score: 0.0028
+  Tokens: [' words', ' word', ' state']
+Rank 14 | Centroid: ' maybe' | Score: 0.0012
+  Tokens: [' maybe', ' please']
+Rank 15 | Centroid: ' first' | Score: 0.0007
+  Tokens: [' first']
+
+**Chosen Concept:** Rank 1

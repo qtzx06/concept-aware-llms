@@ -1,71 +1,119 @@
 --- Step 5 Log ---
 
 == Filtered Candidates ==
-Token: ' cry' (ID: 15729), Prob: 0.0143
-Token: ' love' (ID: 2948), Prob: 0.0072
-Token: ' crying' (ID: 30199), Prob: 0.0060
-Token: ' tears' (ID: 23139), Prob: 0.0023
-Token: ' emotion' (ID: 19772), Prob: 0.0021
-Token: ' like' (ID: 1075), Prob: 0.0018
-Token: ' LOVE' (ID: 39735), Prob: 0.0012
-Token: ' pain' (ID: 6646), Prob: 0.0011
-Token: ' dream' (ID: 7904), Prob: 0.0011
-Token: ' heart' (ID: 4746), Prob: 0.0010
-Token: ' cried' (ID: 38069), Prob: 0.0010
-Token: ' rainbow' (ID: 47613), Prob: 0.0010
-Token: ' tear' (ID: 17576), Prob: 0.0008
-Token: ' emotional' (ID: 14269), Prob: 0.0007
-Token: ' soul' (ID: 13527), Prob: 0.0007
-Token: ' inside' (ID: 4766), Prob: 0.0006
-Token: ' cow' (ID: 19362), Prob: 0.0006
-Token: ' Cry' (ID: 42705), Prob: 0.0006
-Token: ' eyes' (ID: 6414), Prob: 0.0006
-Token: ' eye' (ID: 7912), Prob: 0.0006
-Token: ' play' (ID: 1486), Prob: 0.0005
-Token: ' scream' (ID: 45689), Prob: 0.0005
-Token: ' anger' (ID: 19234), Prob: 0.0004
-Token: ' sorrow' (ID: 57496), Prob: 0.0004
-Token: ' empathy' (ID: 47351), Prob: 0.0004
-Token: ' come' (ID: 2525), Prob: 0.0004
-Token: ' fall' (ID: 4399), Prob: 0.0004
-Token: ' rain' (ID: 11174), Prob: 0.0004
-Token: ' sad' (ID: 12421), Prob: 0.0004
-Token: ' grief' (ID: 37284), Prob: 0.0004
-Token: ' feel' (ID: 2666), Prob: 0.0004
-Token: ' words' (ID: 4244), Prob: 0.0004
-Token: ' please' (ID: 4486), Prob: 0.0003
-Token: ' baby' (ID: 8770), Prob: 0.0003
-Token: ' Love' (ID: 10689), Prob: 0.0003
-Token: ' emotions' (ID: 21261), Prob: 0.0003
+Token: ' wants' (ID: 6801), Prob: 0.9336
+Token: ' asked' (ID: 4588), Prob: 0.0104
+Token: ' said' (ID: 1053), Prob: 0.0063
+Token: ' probably' (ID: 4658), Prob: 0.0063
+Token: ' wrote' (ID: 6139), Prob: 0.0049
+Token: ' says' (ID: 2727), Prob: 0.0043
+Token: ' might' (ID: 2578), Prob: 0.0034
+Token: ' wanted' (ID: 4829), Prob: 0.0006
+Token: ' want' (ID: 1366), Prob: 0.0006
+Token: ' made' (ID: 1865), Prob: 0.0006
+Token: ' needs' (ID: 3880), Prob: 0.0004
+Token: ' asks' (ID: 17064), Prob: 0.0003
+Token: ' sent' (ID: 3208), Prob: 0.0003
+Token: ' would' (ID: 1035), Prob: 0.0003
+Token: ' provided' (ID: 3897), Prob: 0.0002
+Token: ' mentioned' (ID: 9733), Prob: 0.0002
+Token: ' requested' (ID: 11223), Prob: 0.0001
+Token: ' told' (ID: 3229), Prob: 0.0001
+Token: ' gave' (ID: 6551), Prob: 0.0001
+Token: ' started' (ID: 3855), Prob: 0.0001
+Token: ' seems' (ID: 4977), Prob: 0.0000
+Token: ' really' (ID: 2167), Prob: 0.0000
+Token: ' wishes' (ID: 24240), Prob: 0.0000
+Token: ' requests' (ID: 7388), Prob: 0.0000
+Token: ' tried' (ID: 6679), Prob: 0.0000
+Token: ' could' (ID: 1410), Prob: 0.0000
+Token: ' writes' (ID: 13914), Prob: 0.0000
+Token: ' created' (ID: 3465), Prob: 0.0000
+Token: ' starts' (ID: 8471), Prob: 0.0000
+Token: ' tells' (ID: 10742), Prob: 0.0000
+Token: ' text' (ID: 1467), Prob: 0.0000
+Token: ' got' (ID: 2684), Prob: 0.0000
+Token: ' likely' (ID: 4363), Prob: 0.0000
+Token: ' instruction' (ID: 7600), Prob: 0.0000
+Token: ' asking' (ID: 10161), Prob: 0.0000
+Token: ' presented' (ID: 10449), Prob: 0.0000
+Token: ' ordered' (ID: 11457), Prob: 0.0000
+Token: ' request' (ID: 1681), Prob: 0.0000
+Token: ' described' (ID: 7481), Prob: 0.0000
+Token: ' may' (ID: 1231), Prob: 0.0000
+Token: ' loves' (ID: 15803), Prob: 0.0000
+Token: ' input' (ID: 1946), Prob: 0.0000
+Token: ' called' (ID: 2598), Prob: 0.0000
+Token: ' posted' (ID: 8454), Prob: 0.0000
+Token: ' commands' (ID: 11293), Prob: 0.0000
+Token: ' initially' (ID: 15102), Prob: 0.0000
+Token: ' Wants' (ID: 77478), Prob: 0.0000
+Token: ' maybe' (ID: 7196), Prob: 0.0000
+Token: ' specified' (ID: 5189), Prob: 0.0000
+Token: ' written' (ID: 5326), Prob: 0.0000
+Token: ' basically' (ID: 13221), Prob: 0.0000
+Token: ' thinks' (ID: 15482), Prob: 0.0000
+Token: ' used' (ID: 1483), Prob: 0.0000
+Token: ' likes' (ID: 13151), Prob: 0.0000
+Token: ' makes' (ID: 3643), Prob: 0.0000
+Token: ' instructions' (ID: 11221), Prob: 0.0000
+Token: ' instructed' (ID: 40975), Prob: 0.0000
+Token: ' put' (ID: 2182), Prob: 0.0000
+Token: ' directed' (ID: 15540), Prob: 0.0000
+Token: ' desires' (ID: 30997), Prob: 0.0000
+Token: ' sees' (ID: 15634), Prob: 0.0000
+Token: ' example' (ID: 3110), Prob: 0.0000
+Token: ' writing' (ID: 4378), Prob: 0.0000
+Token: ' requires' (ID: 7460), Prob: 0.0000
+Token: ' expects' (ID: 24297), Prob: 0.0000
+Token: ' typed' (ID: 31969), Prob: 0.0000
+Token: ' gives' (ID: 6696), Prob: 0.0000
+Token: ' let' (ID: 1077), Prob: 0.0000
+Token: ' expressed' (ID: 13302), Prob: 0.0000
+Token: ' wanting' (ID: 19211), Prob: 0.0000
+Token: ' gets' (ID: 5221), Prob: 0.0000
+Token: ' saying' (ID: 5488), Prob: 0.0000
+Token: ' composed' (ID: 23415), Prob: 0.0000
+Token: ' saw' (ID: 5485), Prob: 0.0000
+Token: ' pointed' (ID: 14283), Prob: 0.0000
+Token: ' first' (ID: 1156), Prob: 0.0000
+Token: ' compared' (ID: 7707), Prob: 0.0000
+Token: ' went' (ID: 3937), Prob: 0.0000
 
 == Ranked Concepts (Clusters) ==
-Rank 1 | Concept Score: 0.0225
-  Tokens: [' cry', ' crying', ' cried', ' Cry', ' scream']
-Rank 2 | Concept Score: 0.0087
-  Tokens: [' love', ' LOVE', ' Love']
-Rank 3 | Concept Score: 0.0035
-  Tokens: [' emotion', ' emotional', ' empathy', ' emotions']
-Rank 4 | Concept Score: 0.0032
-  Tokens: [' tears', ' tear']
-Rank 5 | Concept Score: 0.0028
-  Tokens: [' like', ' inside', ' please']
-Rank 6 | Concept Score: 0.0027
-  Tokens: [' pain', ' anger', ' sorrow', ' sad', ' grief']
-Rank 7 | Concept Score: 0.0020
-  Tokens: [' dream', ' cow', ' baby']
-Rank 8 | Concept Score: 0.0017
-  Tokens: [' heart', ' soul']
-Rank 9 | Concept Score: 0.0014
-  Tokens: [' rainbow', ' rain']
-Rank 10 | Concept Score: 0.0011
-  Tokens: [' eyes', ' eye']
-Rank 11 | Concept Score: 0.0008
-  Tokens: [' come', ' fall']
-Rank 12 | Concept Score: 0.0005
-  Tokens: [' play']
-Rank 13 | Concept Score: 0.0004
-  Tokens: [' feel']
-Rank 14 | Concept Score: 0.0004
-  Tokens: [' words']
+Rank 1 | Centroid: ' wants' | Score: 0.9336
+  Tokens: [' wants', ' wanted', ' want', ' wishes', ' Wants', ' desires', ' wanting']
+Rank 2 | Centroid: ' asks' | Score: 0.0109
+  Tokens: [' asked', ' asks', ' requested', ' requests', ' asking', ' request']
+Rank 3 | Centroid: ' says' | Score: 0.0106
+  Tokens: [' said', ' says', ' saying']
+Rank 4 | Centroid: ' probably' | Score: 0.0064
+  Tokens: [' probably', ' really', ' likely', ' maybe', ' basically']
+Rank 5 | Centroid: ' wrote' | Score: 0.0049
+  Tokens: [' wrote', ' writes', ' written', ' writing']
+Rank 6 | Centroid: ' might' | Score: 0.0037
+  Tokens: [' might', ' would', ' could', ' may']
+Rank 7 | Centroid: ' created' | Score: 0.0007
+  Tokens: [' made', ' started', ' created', ' used', ' compared']
+Rank 8 | Centroid: ' thinks' | Score: 0.0004
+  Tokens: [' needs', ' loves', ' thinks', ' likes', ' sees', ' requires', ' expects']
+Rank 9 | Centroid: ' described' | Score: 0.0004
+  Tokens: [' provided', ' mentioned', ' presented', ' described', ' posted', ' specified', ' expressed', ' pointed']
+Rank 10 | Centroid: ' gave' | Score: 0.0004
+  Tokens: [' sent', ' gave', ' tried', ' got', ' put', ' went']
+Rank 11 | Centroid: ' told' | Score: 0.0001
+  Tokens: [' told', ' tells']
+Rank 12 | Centroid: ' gives' | Score: 0.0001
+  Tokens: [' seems', ' starts', ' makes', ' gives', ' gets']
+Rank 13 | Centroid: ' instructions' | Score: 0.0001
+  Tokens: [' instruction', ' ordered', ' commands', ' instructions', ' instructed', ' directed']
+Rank 14 | Centroid: ' initially' | Score: 0.0001
+  Tokens: [' text', ' input', ' initially', ' example', ' first']
+Rank 15 | Centroid: ' called' | Score: 0.0000
+  Tokens: [' called']
+Rank 16 | Centroid: ' typed' | Score: 0.0000
+  Tokens: [' typed', ' composed']
+Rank 17 | Centroid: ' let' | Score: 0.0000
+  Tokens: [' let', ' saw']
 
-**Chosen Concept:** Rank 1 with score 0.0225
+**Chosen Concept:** Rank 1

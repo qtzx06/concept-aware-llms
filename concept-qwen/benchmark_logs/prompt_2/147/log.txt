@@ -1,56 +1,81 @@
 --- Step 147 Log ---
 
 == Filtered Candidates ==
-Token: ' correctly' (ID: 12440), Prob: 0.0006
-Token: ' clearly' (ID: 9355), Prob: 0.0003
-Token: ' according' (ID: 4092), Prob: 0.0003
-Token: ' logically' (ID: 73045), Prob: 0.0002
-Token: ' accurately' (ID: 29257), Prob: 0.0002
-Token: ' regarding' (ID: 8826), Prob: 0.0002
-Token: ' properly' (ID: 10277), Prob: 0.0002
-Token: ' carefully' (ID: 15516), Prob: 0.0001
-Token: ' using' (ID: 1667), Prob: 0.0001
-Token: ' based' (ID: 3118), Prob: 0.0001
+Token: ' like' (ID: 1075), Prob: 1.0000
+Token: ' else' (ID: 770), Prob: 0.0001
+Token: ' yes' (ID: 9834), Prob: 0.0000
+Token: ' Like' (ID: 8909), Prob: 0.0000
+Token: ' similar' (ID: 4428), Prob: 0.0000
+Token: ' elif' (ID: 4409), Prob: 0.0000
+Token: 'like' (ID: 4803), Prob: 0.0000
+Token: ' LIKE' (ID: 20529), Prob: 0.0000
+Token: '-like' (ID: 12681), Prob: 0.0000
+Token: '_like' (ID: 25535), Prob: 0.0000
+Token: ' list' (ID: 1140), Prob: 0.0000
+Token: '.like' (ID: 66318), Prob: 0.0000
+Token: ' likes' (ID: 13151), Prob: 0.0000
+Token: 'Like' (ID: 12949), Prob: 0.0000
+Token: ' maybe' (ID: 7196), Prob: 0.0000
+Token: ' much' (ID: 1753), Prob: 0.0000
+Token: ' around' (ID: 2163), Prob: 0.0000
+Token: ' include' (ID: 2924), Prob: 0.0000
+Token: ' seperti' (ID: 67720), Prob: 0.0000
+Token: ' etc' (ID: 4992), Prob: 0.0000
+Token: ' since' (ID: 2474), Prob: 0.0000
+Token: ' including' (ID: 2670), Prob: 0.0000
 Token: ' related' (ID: 5435), Prob: 0.0000
-Token: ' appropriately' (ID: 34901), Prob: 0.0000
-Token: ' posed' (ID: 36160), Prob: 0.0000
-Token: ' explicitly' (ID: 20975), Prob: 0.0000
-Token: ' statement' (ID: 5114), Prob: 0.0000
-Token: ' precisely' (ID: 23638), Prob: 0.0000
-Token: ' one' (ID: 825), Prob: 0.0000
-Token: ' directly' (ID: 5961), Prob: 0.0000
-Token: ' exactly' (ID: 6896), Prob: 0.0000
-Token: ' accordingly' (ID: 27079), Prob: 0.0000
-Token: ' first' (ID: 1156), Prob: 0.0000
-Token: ' like' (ID: 1075), Prob: 0.0000
-Token: ' asked' (ID: 4588), Prob: 0.0000
-Token: ' thoroughly' (ID: 26364), Prob: 0.0000
-Token: ' objectively' (ID: 84021), Prob: 0.0000
+Token: ' yeah' (ID: 21639), Prob: 0.0000
+Token: ' limited' (ID: 7199), Prob: 0.0000
+Token: ' nice' (ID: 6419), Prob: 0.0000
+Token: ' based' (ID: 3118), Prob: 0.0000
+Token: ' otherwise' (ID: 5937), Prob: 0.0000
+Token: ' possible' (ID: 3204), Prob: 0.0000
+Token: ' quite' (ID: 5008), Prob: 0.0000
+Token: ' important' (ID: 2989), Prob: 0.0000
+Token: ' last' (ID: 1537), Prob: 0.0000
+Token: ' say' (ID: 1977), Prob: 0.0000
+Token: ' kind' (ID: 3093), Prob: 0.0000
+Token: ' little' (ID: 2632), Prob: 0.0000
+Token: ' relevant' (ID: 9760), Prob: 0.0000
+Token: ' listed' (ID: 10007), Prob: 0.0000
+Token: ' lists' (ID: 11469), Prob: 0.0000
+Token: ' liked' (ID: 14915), Prob: 0.0000
+Token: ' really' (ID: 2167), Prob: 0.0000
+Token: ' usually' (ID: 5990), Prob: 0.0000
+Token: ' slightly' (ID: 10078), Prob: 0.0000
 
 == Ranked Concepts (Clusters) ==
-Rank 1 | Concept Score: 0.0009
-  Tokens: [' correctly', ' accurately', ' properly']
-Rank 2 | Concept Score: 0.0004
-  Tokens: [' clearly', ' carefully', ' thoroughly']
-Rank 3 | Concept Score: 0.0004
-  Tokens: [' according', ' using', ' based']
-Rank 4 | Concept Score: 0.0003
-  Tokens: [' logically', ' objectively']
-Rank 5 | Concept Score: 0.0002
-  Tokens: [' regarding', ' related']
-Rank 6 | Concept Score: 0.0001
-  Tokens: [' appropriately', ' accordingly']
-Rank 7 | Concept Score: 0.0001
-  Tokens: [' explicitly', ' directly']
-Rank 8 | Concept Score: 0.0001
-  Tokens: [' posed', ' asked']
-Rank 9 | Concept Score: 0.0000
-  Tokens: [' precisely', ' exactly']
-Rank 10 | Concept Score: 0.0000
-  Tokens: [' one', ' first']
-Rank 11 | Concept Score: 0.0000
-  Tokens: [' statement']
-Rank 12 | Concept Score: 0.0000
-  Tokens: [' like']
+Rank 1 | Centroid: ' Like' | Score: 1.0000
+  Tokens: [' like', ' Like', 'like', ' LIKE', '-like', '_like', '.like', 'Like', ' seperti']
+Rank 2 | Centroid: ' else' | Score: 0.0001
+  Tokens: [' else', ' elif', ' otherwise']
+Rank 3 | Centroid: ' yes' | Score: 0.0000
+  Tokens: [' yes', ' yeah']
+Rank 4 | Centroid: ' similar' | Score: 0.0000
+  Tokens: [' similar']
+Rank 5 | Centroid: ' list' | Score: 0.0000
+  Tokens: [' list', ' listed', ' lists']
+Rank 6 | Centroid: ' likes' | Score: 0.0000
+  Tokens: [' likes', ' liked']
+Rank 7 | Centroid: ' quite' | Score: 0.0000
+  Tokens: [' much', ' quite', ' little', ' usually', ' slightly']
+Rank 8 | Centroid: ' maybe' | Score: 0.0000
+  Tokens: [' maybe', ' possible']
+Rank 9 | Centroid: ' include' | Score: 0.0000
+  Tokens: [' include', ' including']
+Rank 10 | Centroid: ' based' | Score: 0.0000
+  Tokens: [' since', ' based', ' last']
+Rank 11 | Centroid: ' relevant' | Score: 0.0000
+  Tokens: [' related', ' important', ' relevant']
+Rank 12 | Centroid: ' around' | Score: 0.0000
+  Tokens: [' around']
+Rank 13 | Centroid: ' etc' | Score: 0.0000
+  Tokens: [' etc', ' say']
+Rank 14 | Centroid: ' nice' | Score: 0.0000
+  Tokens: [' nice', ' really']
+Rank 15 | Centroid: ' limited' | Score: 0.0000
+  Tokens: [' limited']
+Rank 16 | Centroid: ' kind' | Score: 0.0000
+  Tokens: [' kind']
 
-**Chosen Concept:** Rank 1 with score 0.0009
+**Chosen Concept:** Rank 1

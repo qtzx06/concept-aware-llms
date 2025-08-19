@@ -1,0 +1,147 @@
+--- Step 98 Log ---
+
+== Filtered Candidates ==
+Token: ' word' (ID: 3409), Prob: 0.3027
+Token: ' hashtag' (ID: 47077), Prob: 0.1260
+Token: ' emoji' (ID: 42365), Prob: 0.0437
+Token: ' text' (ID: 1467), Prob: 0.0233
+Token: ' correct' (ID: 4396), Prob: 0.0233
+Token: ' user' (ID: 1196), Prob: 0.0194
+Token: ' number' (ID: 1372), Prob: 0.0194
+Token: ' following' (ID: 2701), Prob: 0.0182
+Token: ' phrase' (ID: 17133), Prob: 0.0182
+Token: ' hashtags' (ID: 81861), Prob: 0.0182
+Token: ' words' (ID: 4244), Prob: 0.0161
+Token: ' proper' (ID: 6169), Prob: 0.0161
+Token: ' exact' (ID: 4734), Prob: 0.0104
+Token: ' sentence' (ID: 11652), Prob: 0.0086
+Token: ' tag' (ID: 4772), Prob: 0.0081
+Token: ' emojis' (ID: 99066), Prob: 0.0081
+Token: ' key' (ID: 1376), Prob: 0.0076
+Token: ' required' (ID: 2567), Prob: 0.0076
+Token: ' keyword' (ID: 16174), Prob: 0.0076
+Token: ' name' (ID: 829), Prob: 0.0067
+Token: ' specific' (ID: 3151), Prob: 0.0063
+Token: ' character' (ID: 3668), Prob: 0.0059
+Token: ' requested' (ID: 11223), Prob: 0.0056
+Token: ' emotion' (ID: 19772), Prob: 0.0052
+Token: ' markdown' (ID: 50494), Prob: 0.0052
+Token: ' title' (ID: 2265), Prob: 0.0049
+Token: ' answer' (ID: 4226), Prob: 0.0043
+Token: ' paragraph' (ID: 14311), Prob: 0.0043
+Token: ' numbers' (ID: 5109), Prob: 0.0036
+Token: ' appropriate' (ID: 8311), Prob: 0.0036
+Token: ' placeholder' (ID: 5878), Prob: 0.0034
+Token: ' term' (ID: 4647), Prob: 0.0032
+Token: ' bold' (ID: 13939), Prob: 0.0032
+Token: ' line' (ID: 1555), Prob: 0.0030
+Token: ' image' (ID: 2168), Prob: 0.0030
+Token: ' string' (ID: 914), Prob: 0.0028
+Token: ' original' (ID: 4024), Prob: 0.0028
+Token: ' necessary' (ID: 5871), Prob: 0.0028
+Token: ' prompt' (ID: 9934), Prob: 0.0026
+Token: ' tags' (ID: 9492), Prob: 0.0025
+Token: ' punctuation' (ID: 61503), Prob: 0.0025
+Token: ' username' (ID: 5934), Prob: 0.0023
+Token: ' letter' (ID: 6524), Prob: 0.0023
+Token: ' symbol' (ID: 7735), Prob: 0.0023
+Token: ' query' (ID: 3239), Prob: 0.0022
+Token: ' format' (ID: 3561), Prob: 0.0022
+Token: ' author' (ID: 3150), Prob: 0.0019
+Token: ' use' (ID: 990), Prob: 0.0018
+Token: ' quote' (ID: 12641), Prob: 0.0018
+Token: ' characters' (ID: 5766), Prob: 0.0017
+Token: ' final' (ID: 1590), Prob: 0.0016
+Token: ' keywords' (ID: 20844), Prob: 0.0016
+Token: ' command' (ID: 3210), Prob: 0.0014
+Token: ' instruction' (ID: 7600), Prob: 0.0014
+Token: ' full' (ID: 2480), Prob: 0.0013
+Token: ' initial' (ID: 2856), Prob: 0.0013
+Token: ' specified' (ID: 5189), Prob: 0.0013
+Token: ' mark' (ID: 1868), Prob: 0.0012
+Token: ' element' (ID: 2392), Prob: 0.0012
+Token: ' relevant' (ID: 9760), Prob: 0.0012
+Token: ' example' (ID: 3110), Prob: 0.0012
+Token: ' names' (ID: 5036), Prob: 0.0012
+Token: ' first' (ID: 1156), Prob: 0.0011
+Token: ' heading' (ID: 14496), Prob: 0.0011
+Token: ' closing' (ID: 15316), Prob: 0.0011
+Token: ' quotes' (ID: 17194), Prob: 0.0011
+Token: ' tweet' (ID: 11809), Prob: 0.0010
+Token: ' response' (ID: 2033), Prob: 0.0009
+Token: ' option' (ID: 2999), Prob: 0.0009
+Token: ' feeling' (ID: 8266), Prob: 0.0009
+Token: ' highlighted' (ID: 26366), Prob: 0.0009
+Token: ' sentiment' (ID: 25975), Prob: 0.0009
+Token: ' person' (ID: 1697), Prob: 0.0008
+Token: ' code' (ID: 2038), Prob: 0.0008
+Token: ' content' (ID: 2213), Prob: 0.0008
+Token: ' opening' (ID: 8568), Prob: 0.0008
+Token: ' topic' (ID: 8544), Prob: 0.0008
+Token: ' date' (ID: 2400), Prob: 0.0007
+Token: ' core' (ID: 6200), Prob: 0.0007
+Token: ' star' (ID: 6774), Prob: 0.0007
+Token: ' desired' (ID: 12685), Prob: 0.0007
+Token: ' verb' (ID: 18607), Prob: 0.0007
+Token: ' comma' (ID: 31683), Prob: 0.0007
+Token: ' request' (ID: 1681), Prob: 0.0007
+Token: ' subject' (ID: 3832), Prob: 0.0007
+Token: ' mention' (ID: 6286), Prob: 0.0007
+Token: ' capital' (ID: 6722), Prob: 0.0007
+Token: ' post' (ID: 1736), Prob: 0.0006
+Token: ' section' (ID: 3772), Prob: 0.0006
+Token: ' reply' (ID: 9851), Prob: 0.0006
+Token: ' abbreviation' (ID: 71478), Prob: 0.0006
+Token: ' help' (ID: 1492), Prob: 0.0005
+
+== Ranked Concepts (Clusters) ==
+Rank 1 | Centroid: ' phrase' | Score: 0.3594
+  Tokens: [' word', ' phrase', ' words', ' sentence', ' keyword', ' term', ' keywords', ' verb']
+Rank 2 | Centroid: ' emojis' | Score: 0.2041
+  Tokens: [' hashtag', ' emoji', ' hashtags', ' emojis', ' emotion', ' tweet', ' feeling', ' sentiment']
+Rank 3 | Centroid: ' appropriate' | Score: 0.0610
+  Tokens: [' correct', ' proper', ' exact', ' specific', ' appropriate', ' relevant']
+Rank 4 | Centroid: ' letter' | Score: 0.0308
+  Tokens: [' text', ' string', ' letter', ' symbol']
+Rank 5 | Centroid: ' user' | Score: 0.0289
+  Tokens: [' user', ' line', ' image', ' element', ' person', ' code', ' star']
+Rank 6 | Centroid: ' initial' | Score: 0.0262
+  Tokens: [' following', ' original', ' final', ' full', ' initial', ' first']
+Rank 7 | Centroid: ' number' | Score: 0.0229
+  Tokens: [' number', ' numbers']
+Rank 8 | Centroid: ' name' | Score: 0.0179
+  Tokens: [' name', ' title', ' username', ' format', ' names', ' date']
+Rank 9 | Centroid: ' required' | Score: 0.0179
+  Tokens: [' required', ' requested', ' necessary', ' specified', ' desired']
+Rank 10 | Centroid: ' reply' | Score: 0.0141
+  Tokens: [' answer', ' prompt', ' query', ' command', ' instruction', ' response', ' request', ' reply']
+Rank 11 | Centroid: ' bold' | Score: 0.0126
+  Tokens: [' markdown', ' placeholder', ' bold', ' highlighted']
+Rank 12 | Centroid: ' tag' | Score: 0.0105
+  Tokens: [' tag', ' tags']
+Rank 13 | Centroid: ' quote' | Score: 0.0104
+  Tokens: [' paragraph', ' punctuation', ' quote', ' quotes', ' comma']
+Rank 14 | Centroid: ' core' | Score: 0.0091
+  Tokens: [' key', ' content', ' core']
+Rank 15 | Centroid: ' character' | Score: 0.0076
+  Tokens: [' character', ' characters']
+Rank 16 | Centroid: ' use' | Score: 0.0029
+  Tokens: [' use', ' post', ' help']
+Rank 17 | Centroid: ' author' | Score: 0.0026
+  Tokens: [' author', ' capital']
+Rank 18 | Centroid: ' example' | Score: 0.0021
+  Tokens: [' example', ' option']
+Rank 19 | Centroid: ' topic' | Score: 0.0020
+  Tokens: [' topic', ' subject', ' section']
+Rank 20 | Centroid: ' closing' | Score: 0.0019
+  Tokens: [' closing', ' opening']
+Rank 21 | Centroid: ' mark' | Score: 0.0012
+  Tokens: [' mark']
+Rank 22 | Centroid: ' heading' | Score: 0.0011
+  Tokens: [' heading']
+Rank 23 | Centroid: ' mention' | Score: 0.0007
+  Tokens: [' mention']
+Rank 24 | Centroid: ' abbreviation' | Score: 0.0006
+  Tokens: [' abbreviation']
+
+**Chosen Concept:** Rank 1

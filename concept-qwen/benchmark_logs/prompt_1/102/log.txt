@@ -1,0 +1,134 @@
+--- Step 102 Log ---
+
+== Filtered Candidates ==
+Token: ' sentence' (ID: 11652), Prob: 0.6016
+Token: ' place' (ID: 1992), Prob: 0.1523
+Token: ' line' (ID: 1555), Prob: 0.0142
+Token: ' instance' (ID: 2867), Prob: 0.0125
+Token: ' location' (ID: 3728), Prob: 0.0085
+Token: ' phrase' (ID: 17133), Prob: 0.0059
+Token: ' paragraph' (ID: 14311), Prob: 0.0055
+Token: ' part' (ID: 949), Prob: 0.0046
+Token: ' way' (ID: 1616), Prob: 0.0020
+Token: ' spot' (ID: 7702), Prob: 0.0020
+Token: ' specific' (ID: 3151), Prob: 0.0019
+Token: ' word' (ID: 3409), Prob: 0.0017
+Token: ' position' (ID: 2309), Prob: 0.0016
+Token: ' context' (ID: 2266), Prob: 0.0007
+Token: ' sense' (ID: 5530), Prob: 0.0006
+Token: ' occurrence' (ID: 31559), Prob: 0.0006
+Token: ' form' (ID: 1352), Prob: 0.0003
+Token: ' example' (ID: 3110), Prob: 0.0003
+Token: ' mention' (ID: 6286), Prob: 0.0002
+Token: ' clause' (ID: 21647), Prob: 0.0002
+Token: ' exact' (ID: 4734), Prob: 0.0002
+Token: ' single' (ID: 3175), Prob: 0.0002
+Token: ' statement' (ID: 5114), Prob: 0.0002
+Token: ' keyword' (ID: 16174), Prob: 0.0001
+Token: ' case' (ID: 1142), Prob: 0.0001
+Token: ' text' (ID: 1467), Prob: 0.0001
+Token: ' section' (ID: 3772), Prob: 0.0001
+Token: ' use' (ID: 990), Prob: 0.0001
+Token: ' particular' (ID: 3953), Prob: 0.0001
+Token: ' segment' (ID: 10238), Prob: 0.0001
+Token: ' key' (ID: 1376), Prob: 0.0001
+Token: ' piece' (ID: 6573), Prob: 0.0001
+Token: ' sentences' (ID: 22870), Prob: 0.0001
+Token: ' complete' (ID: 4583), Prob: 0.0001
+Token: ' placement' (ID: 21448), Prob: 0.0001
+Token: ' expression' (ID: 7493), Prob: 0.0001
+Token: ' element' (ID: 2392), Prob: 0.0001
+Token: '-place' (ID: 41661), Prob: 0.0001
+Token: ' natural' (ID: 5810), Prob: 0.0001
+Token: ' term' (ID: 4647), Prob: 0.0001
+Token: ' instruction' (ID: 7600), Prob: 0.0001
+Token: ' lowercase' (ID: 42047), Prob: 0.0000
+Token: ' point' (ID: 1459), Prob: 0.0000
+Token: ' possible' (ID: 3204), Prob: 0.0000
+Token: ' moment' (ID: 4445), Prob: 0.0000
+Token: ' manner' (ID: 11566), Prob: 0.0000
+Token: ' language' (ID: 4128), Prob: 0.0000
+Token: ' state' (ID: 1584), Prob: 0.0000
+Token: ' full' (ID: 2480), Prob: 0.0000
+Token: ' space' (ID: 3550), Prob: 0.0000
+Token: ' separate' (ID: 8651), Prob: 0.0000
+Token: ' answer' (ID: 4226), Prob: 0.0000
+Token: ' continuous' (ID: 19259), Prob: 0.0000
+Token: ' meaningful' (ID: 22414), Prob: 0.0000
+Token: ' response' (ID: 2033), Prob: 0.0000
+Token: ' format' (ID: 3561), Prob: 0.0000
+Token: ' passage' (ID: 21085), Prob: 0.0000
+Token: ' syll' (ID: 47604), Prob: 0.0000
+Token: ' pass' (ID: 1494), Prob: 0.0000
+Token: ' within' (ID: 2878), Prob: 0.0000
+Token: ' relevant' (ID: 9760), Prob: 0.0000
+Token: ' scenario' (ID: 15048), Prob: 0.0000
+Token: ' entry' (ID: 4343), Prob: 0.0000
+Token: ' places' (ID: 7482), Prob: 0.0000
+Token: ' occasion' (ID: 13101), Prob: 0.0000
+Token: ' noun' (ID: 36921), Prob: 0.0000
+Token: ' clear' (ID: 2797), Prob: 0.0000
+Token: ' half' (ID: 4279), Prob: 0.0000
+Token: ' set' (ID: 738), Prob: 0.0000
+Token: ' list' (ID: 1140), Prob: 0.0000
+Token: 'place' (ID: 2007), Prob: 0.0000
+Token: ' condition' (ID: 2971), Prob: 0.0000
+Token: ' iteration' (ID: 19569), Prob: 0.0000
+Token: ' message' (ID: 1943), Prob: 0.0000
+Token: ' narrative' (ID: 19221), Prob: 0.0000
+Token: ' move' (ID: 3271), Prob: 0.0000
+Token: ' slip' (ID: 21134), Prob: 0.0000
+Token: ' singular' (ID: 33944), Prob: 0.0000
+Token: ' direction' (ID: 5106), Prob: 0.0000
+Token: ' definition' (ID: 7271), Prob: 0.0000
+Token: ' somewhere' (ID: 14696), Prob: 0.0000
+Token: ' slide' (ID: 14983), Prob: 0.0000
+Token: ' markdown' (ID: 50494), Prob: 0.0000
+
+== Ranked Concepts (Clusters) ==
+Rank 1 | Centroid: ' sentence' | Score: 0.6055
+  Tokens: [' sentence', ' paragraph', ' clause', ' sentences']
+Rank 2 | Centroid: ' place' | Score: 0.1523
+  Tokens: [' place', ' placement', '-place', ' places', 'place']
+Rank 3 | Centroid: ' list' | Score: 0.0143
+  Tokens: [' line', ' point', ' state', ' set', ' list']
+Rank 4 | Centroid: ' scenario' | Score: 0.0130
+  Tokens: [' instance', ' example', ' case', ' moment', ' scenario', ' occasion']
+Rank 5 | Centroid: ' location' | Score: 0.0102
+  Tokens: [' location', ' position', ' condition', ' direction']
+Rank 6 | Centroid: ' phrase' | Score: 0.0078
+  Tokens: [' phrase', ' word', ' keyword', ' term', ' noun']
+Rank 7 | Centroid: ' section' | Score: 0.0049
+  Tokens: [' part', ' section', ' segment', ' piece']
+Rank 8 | Centroid: ' manner' | Score: 0.0038
+  Tokens: [' way', ' context', ' sense', ' form', ' manner', ' format']
+Rank 9 | Centroid: ' specific' | Score: 0.0024
+  Tokens: [' specific', ' exact', ' single', ' particular', ' natural', ' singular']
+Rank 10 | Centroid: ' slip' | Score: 0.0021
+  Tokens: [' spot', ' space', ' slip', ' slide']
+Rank 11 | Centroid: ' occurrence' | Score: 0.0006
+  Tokens: [' occurrence', ' iteration']
+Rank 12 | Centroid: ' message' | Score: 0.0004
+  Tokens: [' mention', ' statement', ' message']
+Rank 13 | Centroid: ' meaningful' | Score: 0.0004
+  Tokens: [' complete', ' possible', ' full', ' separate', ' continuous', ' meaningful', ' within', ' relevant', ' clear', ' half']
+Rank 14 | Centroid: ' answer' | Score: 0.0002
+  Tokens: [' use', ' answer', ' response']
+Rank 15 | Centroid: ' text' | Score: 0.0001
+  Tokens: [' text', ' language']
+Rank 16 | Centroid: ' expression' | Score: 0.0001
+  Tokens: [' expression', ' instruction', ' definition']
+Rank 17 | Centroid: ' narrative' | Score: 0.0001
+  Tokens: [' lowercase', ' syll', ' narrative', ' markdown']
+Rank 18 | Centroid: ' element' | Score: 0.0001
+  Tokens: [' element', ' entry']
+Rank 19 | Centroid: ' key' | Score: 0.0001
+  Tokens: [' key']
+Rank 20 | Centroid: ' passage' | Score: 0.0001
+  Tokens: [' passage', ' pass']
+Rank 21 | Centroid: ' move' | Score: 0.0000
+  Tokens: [' move']
+Rank 22 | Centroid: ' somewhere' | Score: 0.0000
+  Tokens: [' somewhere']
+
+**Chosen Concept:** Rank 1

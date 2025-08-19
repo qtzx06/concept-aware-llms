@@ -1,122 +1,141 @@
 --- Step 56 Log ---
 
 == Filtered Candidates ==
-Token: ' traveler' (ID: 62765), Prob: 0.9922
-Token: ' travel' (ID: 5821), Prob: 0.0017
-Token: ' travelers' (ID: 39286), Prob: 0.0015
-Token: ' zone' (ID: 10143), Prob: 0.0013
-Token: ' zones' (ID: 25395), Prob: 0.0008
-Token: ' machine' (ID: 5662), Prob: 0.0002
-Token: ' traveling' (ID: 20971), Prob: 0.0001
-Token: ' worker' (ID: 11864), Prob: 0.0001
-Token: ' travels' (ID: 34192), Prob: 0.0001
-Token: ' traveled' (ID: 30696), Prob: 0.0000
-Token: '-tr' (ID: 10188), Prob: 0.0000
-Token: ' passenger' (ID: 23148), Prob: 0.0000
-Token: ' tele' (ID: 7963), Prob: 0.0000
-Token: ' manager' (ID: 6645), Prob: 0.0000
-Token: ' traveller' (ID: 85194), Prob: 0.0000
-Token: ' region' (ID: 5537), Prob: 0.0000
-Token: ' transfer' (ID: 8317), Prob: 0.0000
-Token: ' trip' (ID: 8411), Prob: 0.0000
-Token: ' leader' (ID: 7653), Prob: 0.0000
-Token: ' keeper' (ID: 53416), Prob: 0.0000
-Token: ' must' (ID: 1969), Prob: 0.0000
-Token: ' friend' (ID: 4238), Prob: 0.0000
-Token: ' teleport' (ID: 49489), Prob: 0.0000
-Token: ' two' (ID: 1378), Prob: 0.0000
-Token: ' plane' (ID: 11031), Prob: 0.0000
-Token: ' period' (ID: 4168), Prob: 0.0000
-Token: ' agent' (ID: 8315), Prob: 0.0000
-Token: ' lover' (ID: 30557), Prob: 0.0000
-Token: ' operator' (ID: 5675), Prob: 0.0000
-Token: ' journey' (ID: 11618), Prob: 0.0000
-Token: ' zero' (ID: 7168), Prob: 0.0000
-Token: ' clock' (ID: 8866), Prob: 0.0000
-Token: ' tunnel' (ID: 25629), Prob: 0.0000
-Token: ' trader' (ID: 44365), Prob: 0.0000
-Token: ' would' (ID: 1035), Prob: 0.0000
-Token: ' stop' (ID: 2936), Prob: 0.0000
-Token: ' visitor' (ID: 20181), Prob: 0.0000
-Token: ' explorer' (ID: 52967), Prob: 0.0000
-Token: ' phone' (ID: 4540), Prob: 0.0000
-Token: ' airline' (ID: 32475), Prob: 0.0000
-Token: ' hotel' (ID: 9500), Prob: 0.0000
-Token: ' regions' (ID: 13604), Prob: 0.0000
-Token: ' driver' (ID: 5579), Prob: 0.0000
+Token: ' statement' (ID: 5114), Prob: 1.0000
+Token: ' sentence' (ID: 11652), Prob: 0.0000
+Token: ' statements' (ID: 12239), Prob: 0.0000
+Token: ' Statement' (ID: 21756), Prob: 0.0000
+Token: ' answer' (ID: 4226), Prob: 0.0000
+Token: ' story' (ID: 3364), Prob: 0.0000
+Token: ' general' (ID: 4586), Prob: 0.0000
+Token: ' situation' (ID: 6534), Prob: 0.0000
+Token: ' given' (ID: 2661), Prob: 0.0000
+Token: ' student' (ID: 5458), Prob: 0.0000
+Token: ' stated' (ID: 10982), Prob: 0.0000
+Token: 'statement' (ID: 24184), Prob: 0.0000
+Token: ' subject' (ID: 3832), Prob: 0.0000
+Token: ' phrase' (ID: 17133), Prob: 0.0000
+Token: ' time' (ID: 882), Prob: 0.0000
+Token: ' question' (ID: 3405), Prob: 0.0000
+Token: ' paragraph' (ID: 14311), Prob: 0.0000
+Token: ' final' (ID: 1590), Prob: 0.0000
+Token: ' conclusion' (ID: 16688), Prob: 0.0000
+Token: ' following' (ID: 2701), Prob: 0.0000
+Token: ' original' (ID: 4024), Prob: 0.0000
+Token: ' choice' (ID: 5754), Prob: 0.0000
+Token: ' claim' (ID: 3717), Prob: 0.0000
+Token: ' text' (ID: 1467), Prob: 0.0000
+Token: ' information' (ID: 1995), Prob: 0.0000
+Token: ' description' (ID: 4008), Prob: 0.0000
+Token: ' study' (ID: 3920), Prob: 0.0000
+Token: ' number' (ID: 1372), Prob: 0.0000
+Token: ' change' (ID: 2297), Prob: 0.0000
+Token: ' argument' (ID: 5693), Prob: 0.0000
 Token: ' user' (ID: 1196), Prob: 0.0000
-Token: ' destination' (ID: 9106), Prob: 0.0000
-Token: ' trainer' (ID: 28894), Prob: 0.0000
-Token: ' diplomat' (ID: 67950), Prob: 0.0000
-Token: ' vessel' (ID: 26182), Prob: 0.0000
-Token: ' container' (ID: 5476), Prob: 0.0000
-Token: ' warrior' (ID: 37390), Prob: 0.0000
-Token: ' location' (ID: 3728), Prob: 0.0000
-Token: ' transition' (ID: 9142), Prob: 0.0000
-Token: ' flight' (ID: 10971), Prob: 0.0000
-Token: ' alien' (ID: 19594), Prob: 0.0000
-Token: ' tourist' (ID: 29970), Prob: 0.0000
-Token: ' wearer' (ID: 84602), Prob: 0.0000
-Token: ' space' (ID: 3550), Prob: 0.0000
-Token: ' partner' (ID: 8263), Prob: 0.0000
-Token: ' hero' (ID: 11821), Prob: 0.0000
-Token: ' ship' (ID: 8284), Prob: 0.0000
-Token: ' walker' (ID: 62524), Prob: 0.0000
-Token: '-zone' (ID: 77763), Prob: 0.0000
-Token: ' device' (ID: 3671), Prob: 0.0000
-Token: ' loop' (ID: 6337), Prob: 0.0000
-Token: ' Travel' (ID: 18097), Prob: 0.0000
-Token: ' twin' (ID: 27397), Prob: 0.0000
-Token: ' donor' (ID: 34458), Prob: 0.0000
-Token: ' immigrant' (ID: 36550), Prob: 0.0000
-Token: ' mechanic' (ID: 44139), Prob: 0.0000
+Token: ' two' (ID: 1378), Prob: 0.0000
+Token: ' table' (ID: 1965), Prob: 0.0000
+Token: ' scene' (ID: 6109), Prob: 0.0000
+Token: ' summary' (ID: 12126), Prob: 0.0000
+Token: ' stat' (ID: 2793), Prob: 0.0000
+Token: ' truth' (ID: 8046), Prob: 0.0000
+Token: ' passage' (ID: 21085), Prob: 0.0000
+Token: ' message' (ID: 1943), Prob: 0.0000
+Token: ' assistant' (ID: 17847), Prob: 0.0000
+Token: ' sentiment' (ID: 25975), Prob: 0.0000
+Token: ' response' (ID: 2033), Prob: 0.0000
+Token: ' meaning' (ID: 7290), Prob: 0.0000
+Token: ' amount' (ID: 3311), Prob: 0.0000
+Token: ' relationship' (ID: 5025), Prob: 0.0000
+Token: ' hypothesis' (ID: 30078), Prob: 0.0000
+Token: ' state' (ID: 1584), Prob: 0.0000
+Token: ' rest' (ID: 2732), Prob: 0.0000
+Token: ' reason' (ID: 2874), Prob: 0.0000
+Token: ' theme' (ID: 6912), Prob: 0.0000
+Token: '	statement' (ID: 89566), Prob: 0.0000
+Token: ' previous' (ID: 3681), Prob: 0.0000
+Token: ' letter' (ID: 6524), Prob: 0.0000
+Token: 'Statement' (ID: 8636), Prob: 0.0000
+Token: ' person' (ID: 1697), Prob: 0.0000
+Token: ' expression' (ID: 7493), Prob: 0.0000
+Token: ' suggestion' (ID: 23776), Prob: 0.0000
+Token: ' assumption' (ID: 24335), Prob: 0.0000
+Token: ' structure' (ID: 5944), Prob: 0.0000
+Token: ' character' (ID: 3668), Prob: 0.0000
+Token: ' meeting' (ID: 6438), Prob: 0.0000
+Token: ' prompt' (ID: 9934), Prob: 0.0000
+Token: ' correct' (ID: 4396), Prob: 0.0000
+Token: ' motion' (ID: 11379), Prob: 0.0000
+Token: ' tweet' (ID: 11809), Prob: 0.0000
+Token: ' premise' (ID: 40202), Prob: 0.0000
+Token: ' second' (ID: 2086), Prob: 0.0000
+Token: ' social' (ID: 3590), Prob: 0.0000
 Token: ' computer' (ID: 6366), Prob: 0.0000
-Token: ' difference' (ID: 6672), Prob: 0.0000
-Token: ' shown' (ID: 6839), Prob: 0.0000
-Token: ' skip' (ID: 10706), Prob: 0.0000
+Token: ' moment' (ID: 4445), Prob: 0.0000
+Token: ' standard' (ID: 5297), Prob: 0.0000
+Token: ' topic' (ID: 8544), Prob: 0.0000
+Token: ' comparison' (ID: 12313), Prob: 0.0000
+Token: ' scenario' (ID: 15048), Prob: 0.0000
+Token: ' reasoning' (ID: 32711), Prob: 0.0000
+Token: ' stimulus' (ID: 38435), Prob: 0.0000
+Token: ' string' (ID: 914), Prob: 0.0000
+Token: ' construction' (ID: 8086), Prob: 0.0000
+Token: ' joke' (ID: 21646), Prob: 0.0000
+Token: ' problem' (ID: 3491), Prob: 0.0000
+Token: ' comment' (ID: 3980), Prob: 0.0000
+Token: ' death' (ID: 4545), Prob: 0.0000
 
 == Ranked Concepts (Clusters) ==
-Rank 1 | Concept Score: 0.9961
-  Tokens: [' traveler', ' travel', ' travelers', ' traveling', ' travels', ' traveled', ' traveller', ' trip', ' journey', ' Travel']
-Rank 2 | Concept Score: 0.0021
-  Tokens: [' zone', ' zones', '-zone']
-Rank 3 | Concept Score: 0.0002
-  Tokens: [' machine', ' device', ' computer']
-Rank 4 | Concept Score: 0.0001
-  Tokens: [' worker']
-Rank 5 | Concept Score: 0.0001
-  Tokens: [' manager', ' leader', ' agent', ' operator', ' driver', ' mechanic']
-Rank 6 | Concept Score: 0.0001
-  Tokens: [' transfer', ' must', ' two', ' zero', ' would', ' transition', ' difference']
-Rank 7 | Concept Score: 0.0000
-  Tokens: [' keeper', ' lover', ' trader', ' explorer', ' trainer', ' diplomat', ' walker']
-Rank 8 | Concept Score: 0.0000
-  Tokens: [' tele', ' teleport', ' phone']
-Rank 9 | Concept Score: 0.0000
-  Tokens: [' passenger', ' visitor', ' tourist', ' immigrant']
-Rank 10 | Concept Score: 0.0000
-  Tokens: ['-tr']
-Rank 11 | Concept Score: 0.0000
-  Tokens: [' region', ' period', ' regions', ' location']
-Rank 12 | Concept Score: 0.0000
-  Tokens: [' plane', ' airline', ' hotel', ' flight', ' alien']
-Rank 13 | Concept Score: 0.0000
-  Tokens: [' clock', ' stop', ' loop', ' shown', ' skip']
-Rank 14 | Concept Score: 0.0000
-  Tokens: [' friend', ' partner', ' donor']
-Rank 15 | Concept Score: 0.0000
-  Tokens: [' vessel', ' container', ' ship']
-Rank 16 | Concept Score: 0.0000
-  Tokens: [' tunnel', ' twin']
-Rank 17 | Concept Score: 0.0000
-  Tokens: [' warrior', ' wearer']
-Rank 18 | Concept Score: 0.0000
-  Tokens: [' user']
-Rank 19 | Concept Score: 0.0000
-  Tokens: [' destination']
-Rank 20 | Concept Score: 0.0000
-  Tokens: [' space']
-Rank 21 | Concept Score: 0.0000
-  Tokens: [' hero']
+Rank 1 | Centroid: ' statement' | Score: 1.0000
+  Tokens: [' statement', ' statements', ' Statement', ' stated', 'statement', '\tstatement', 'Statement']
+Rank 2 | Centroid: ' sentence' | Score: 0.0000
+  Tokens: [' sentence', ' phrase', ' paragraph', ' message']
+Rank 3 | Centroid: ' response' | Score: 0.0000
+  Tokens: [' answer', ' choice', ' response']
+Rank 4 | Centroid: ' two' | Score: 0.0000
+  Tokens: [' general', ' given', ' following', ' original', ' two', ' previous', ' correct', ' second', ' social', ' standard']
+Rank 5 | Centroid: ' scenario' | Score: 0.0000
+  Tokens: [' situation', ' scene', ' scenario']
+Rank 6 | Centroid: ' story' | Score: 0.0000
+  Tokens: [' story']
+Rank 7 | Centroid: ' student' | Score: 0.0000
+  Tokens: [' student', ' user', ' person', ' computer']
+Rank 8 | Centroid: ' assumption' | Score: 0.0000
+  Tokens: [' conclusion', ' argument', ' hypothesis', ' suggestion', ' assumption', ' premise']
+Rank 9 | Centroid: ' time' | Score: 0.0000
+  Tokens: [' time', ' change']
+Rank 10 | Centroid: ' topic' | Score: 0.0000
+  Tokens: [' subject', ' theme', ' topic']
+Rank 11 | Centroid: ' question' | Score: 0.0000
+  Tokens: [' question', ' problem']
+Rank 12 | Centroid: ' final' | Score: 0.0000
+  Tokens: [' final', ' meeting']
+Rank 13 | Centroid: ' description' | Score: 0.0000
+  Tokens: [' description', ' relationship', ' structure', ' comparison', ' construction']
+Rank 14 | Centroid: ' information' | Score: 0.0000
+  Tokens: [' information', ' table', ' expression']
+Rank 15 | Centroid: ' letter' | Score: 0.0000
+  Tokens: [' text', ' letter', ' character', ' string']
+Rank 16 | Centroid: ' summary' | Score: 0.0000
+  Tokens: [' study', ' summary', ' death']
+Rank 17 | Centroid: ' claim' | Score: 0.0000
+  Tokens: [' claim', ' assistant']
+Rank 18 | Centroid: ' number' | Score: 0.0000
+  Tokens: [' number', ' amount']
+Rank 19 | Centroid: ' tweet' | Score: 0.0000
+  Tokens: [' sentiment', ' tweet', ' stimulus', ' joke']
+Rank 20 | Centroid: ' motion' | Score: 0.0000
+  Tokens: [' truth', ' rest', ' motion']
+Rank 21 | Centroid: ' stat' | Score: 0.0000
+  Tokens: [' stat', ' state']
+Rank 22 | Centroid: ' reason' | Score: 0.0000
+  Tokens: [' reason', ' reasoning']
+Rank 23 | Centroid: ' prompt' | Score: 0.0000
+  Tokens: [' prompt', ' moment']
+Rank 24 | Centroid: ' passage' | Score: 0.0000
+  Tokens: [' passage']
+Rank 25 | Centroid: ' meaning' | Score: 0.0000
+  Tokens: [' meaning']
+Rank 26 | Centroid: ' comment' | Score: 0.0000
+  Tokens: [' comment']
 
-**Chosen Concept:** Rank 1 with score 0.9961
+**Chosen Concept:** Rank 1

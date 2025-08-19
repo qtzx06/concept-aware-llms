@@ -1,55 +1,54 @@
 --- Step 1 Log ---
 
 == Filtered Candidates ==
-Token: ' According' (ID: 10548), Prob: 0.0030
-Token: ' One' (ID: 3776), Prob: 0.0019
-Token: ' Let' (ID: 6771), Prob: 0.0017
-Token: ' Since' (ID: 8704), Prob: 0.0016
-Token: ' Together' (ID: 31155), Prob: 0.0012
-Token: ' Describe' (ID: 60785), Prob: 0.0012
-Token: ' However' (ID: 4354), Prob: 0.0009
-Token: ' Today' (ID: 11201), Prob: 0.0009
-Token: ' Time' (ID: 4120), Prob: 0.0008
-Token: ' Later' (ID: 24885), Prob: 0.0007
-Token: ' Two' (ID: 9043), Prob: 0.0006
-Token: ' Tomorrow' (ID: 54996), Prob: 0.0006
-Token: ' Discuss' (ID: 65279), Prob: 0.0006
-Token: ' Upon' (ID: 29438), Prob: 0.0005
-Token: ' Please' (ID: 5209), Prob: 0.0005
-Token: ' Although' (ID: 10328), Prob: 0.0005
-Token: ' Using' (ID: 12091), Prob: 0.0005
-Token: ' Based' (ID: 20205), Prob: 0.0005
-Token: ' Meanwhile' (ID: 25894), Prob: 0.0005
-Token: ' Despite' (ID: 17715), Prob: 0.0004
-Token: ' Initially' (ID: 58556), Prob: 0.0004
-Token: ' Friend' (ID: 11587), Prob: 0.0003
+Token: 'Answer' (ID: 16141), Prob: 0.0535
+Token: 'Let' (ID: 10061), Prob: 0.0064
+Token: 'Question' (ID: 14582), Prob: 0.0023
+Token: 'Two' (ID: 11613), Prob: 0.0016
+Token: ' Question' (ID: 15846), Prob: 0.0013
+Token: ' Answer' (ID: 21806), Prob: 0.0013
+Token: 'Tag' (ID: 5668), Prob: 0.0012
+Token: 'Friday' (ID: 34620), Prob: 0.0012
+Token: 'First' (ID: 5338), Prob: 0.0011
+Token: 'Ass' (ID: 5615), Prob: 0.0011
+Token: 'Okay' (ID: 32313), Prob: 0.0011
+Token: 'Context' (ID: 1972), Prob: 0.0010
+Token: 'Fill' (ID: 14449), Prob: 0.0010
+Token: 'Setting' (ID: 15400), Prob: 0.0010
+Token: 'Based' (ID: 28715), Prob: 0.0010
+Token: 'Saturday' (ID: 33674), Prob: 0.0010
+Token: 'Imagine' (ID: 51057), Prob: 0.0010
+Token: 'Discussion' (ID: 71021), Prob: 0.0010
+Token: 'Word' (ID: 10879), Prob: 0.0010
 
 == Ranked Concepts (Clusters) ==
-Rank 1 | Concept Score: 0.0039
-  Tokens: [' According', ' Using', ' Based']
-Rank 2 | Concept Score: 0.0033
-  Tokens: [' Since', ' However', ' Although', ' Despite']
-Rank 3 | Concept Score: 0.0025
-  Tokens: [' One', ' Two']
-Rank 4 | Concept Score: 0.0022
-  Tokens: [' Let', ' Please']
-Rank 5 | Concept Score: 0.0017
-  Tokens: [' Describe', ' Discuss']
-Rank 6 | Concept Score: 0.0014
-  Tokens: [' Today', ' Tomorrow']
-Rank 7 | Concept Score: 0.0012
-  Tokens: [' Together']
-Rank 8 | Concept Score: 0.0008
-  Tokens: [' Time']
-Rank 9 | Concept Score: 0.0007
-  Tokens: [' Later']
-Rank 10 | Concept Score: 0.0005
-  Tokens: [' Upon']
-Rank 11 | Concept Score: 0.0005
-  Tokens: [' Meanwhile']
-Rank 12 | Concept Score: 0.0004
-  Tokens: [' Initially']
-Rank 13 | Concept Score: 0.0003
-  Tokens: [' Friend']
+Rank 1 | Centroid: 'Answer' | Score: 0.0547
+  Tokens: ['Answer', ' Answer']
+Rank 2 | Centroid: 'Let' | Score: 0.0074
+  Tokens: ['Let', 'Imagine']
+Rank 3 | Centroid: 'Question' | Score: 0.0037
+  Tokens: ['Question', ' Question']
+Rank 4 | Centroid: 'Two' | Score: 0.0027
+  Tokens: ['Two', 'First']
+Rank 5 | Centroid: 'Friday' | Score: 0.0022
+  Tokens: ['Friday', 'Saturday']
+Rank 6 | Centroid: 'Tag' | Score: 0.0012
+  Tokens: ['Tag']
+Rank 7 | Centroid: 'Okay' | Score: 0.0011
+  Tokens: ['Okay']
+Rank 8 | Centroid: 'Ass' | Score: 0.0011
+  Tokens: ['Ass']
+Rank 9 | Centroid: 'Fill' | Score: 0.0010
+  Tokens: ['Fill']
+Rank 10 | Centroid: 'Context' | Score: 0.0010
+  Tokens: ['Context']
+Rank 11 | Centroid: 'Based' | Score: 0.0010
+  Tokens: ['Based']
+Rank 12 | Centroid: 'Discussion' | Score: 0.0010
+  Tokens: ['Discussion']
+Rank 13 | Centroid: 'Setting' | Score: 0.0010
+  Tokens: ['Setting']
+Rank 14 | Centroid: 'Word' | Score: 0.0010
+  Tokens: ['Word']
 
-**Chosen Concept:** Rank 1 with score 0.0039
+**Chosen Concept:** Rank 1

@@ -1,52 +1,75 @@
 --- Step 148 Log ---
 
 == Filtered Candidates ==
-Token: ' according' (ID: 4092), Prob: 0.0122
-Token: ' based' (ID: 3118), Prob: 0.0019
-Token: ' logically' (ID: 73045), Prob: 0.0014
-Token: ' using' (ID: 1667), Prob: 0.0012
-Token: ' Answer' (ID: 21806), Prob: 0.0006
-Token: ' answering' (ID: 35764), Prob: 0.0004
-Token: ' answer' (ID: 4226), Prob: 0.0004
-Token: ' without' (ID: 2041), Prob: 0.0003
-Token: ' within' (ID: 2878), Prob: 0.0002
-Token: ' one' (ID: 825), Prob: 0.0002
-Token: ' regarding' (ID: 8826), Prob: 0.0002
-Token: ' answered' (ID: 18577), Prob: 0.0001
-Token: ' depending' (ID: 11649), Prob: 0.0001
-Token: ' via' (ID: 4566), Prob: 0.0001
-Token: 'Answer' (ID: 16141), Prob: 0.0001
-Token: ' considering' (ID: 12831), Prob: 0.0001
-Token: ' According' (ID: 10548), Prob: 0.0000
-Token: ' per' (ID: 817), Prob: 0.0000
-Token: ' assuming' (ID: 25538), Prob: 0.0000
-Token: ' formulated' (ID: 59294), Prob: 0.0000
-Token: ' related' (ID: 5435), Prob: 0.0000
-Token: ' step' (ID: 3019), Prob: 0.0000
-Token: ' explained' (ID: 11247), Prob: 0.0000
+Token: ' yes' (ID: 9834), Prob: 0.9883
+Token: ' yeah' (ID: 21639), Prob: 0.0002
+Token: 'yes' (ID: 9693), Prob: 0.0000
+Token: ' something' (ID: 2494), Prob: 0.0000
+Token: ' Yes' (ID: 7414), Prob: 0.0000
+Token: ' maybe' (ID: 7196), Prob: 0.0000
+Token: ' hello' (ID: 23811), Prob: 0.0000
+Token: ' YES' (ID: 14080), Prob: 0.0000
+Token: '=yes' (ID: 59565), Prob: 0.0000
+Token: ' exactly' (ID: 6896), Prob: 0.0000
+Token: ' whether' (ID: 3425), Prob: 0.0000
+Token: ' nothing' (ID: 4302), Prob: 0.0000
+Token: ' etc' (ID: 4992), Prob: 0.0000
+Token: ' positive' (ID: 6785), Prob: 0.0000
+Token: ' okay' (ID: 16910), Prob: 0.0000
+Token: ' also' (ID: 1083), Prob: 0.0000
+Token: ' wait' (ID: 3783), Prob: 0.0000
+Token: ' answer' (ID: 4226), Prob: 0.0000
+Token: ' always' (ID: 2677), Prob: 0.0000
+Token: ' say' (ID: 1977), Prob: 0.0000
+Token: ' one' (ID: 825), Prob: 0.0000
+Token: ' sure' (ID: 2704), Prob: 0.0000
+Token: ' negative' (ID: 8225), Prob: 0.0000
+Token: ' yet' (ID: 3602), Prob: 0.0000
+Token: ' none' (ID: 6857), Prob: 0.0000
+Token: ' possible' (ID: 3204), Prob: 0.0000
+Token: ' please' (ID: 4486), Prob: 0.0000
+Token: ' zero' (ID: 7168), Prob: 0.0000
+Token: ' either' (ID: 2987), Prob: 0.0000
+Token: ' based' (ID: 3118), Prob: 0.0000
+Token: ' unknown' (ID: 9788), Prob: 0.0000
+Token: ' enough' (ID: 3322), Prob: 0.0000
+Token: ' without' (ID: 2041), Prob: 0.0000
+Token: ' correct' (ID: 4396), Prob: 0.0000
 
 == Ranked Concepts (Clusters) ==
-Rank 1 | Concept Score: 0.0142
-  Tokens: [' according', ' based', ' depending', ' According']
-Rank 2 | Concept Score: 0.0015
-  Tokens: [' Answer', ' answering', ' answer', ' answered', 'Answer']
-Rank 3 | Concept Score: 0.0014
-  Tokens: [' logically']
-Rank 4 | Concept Score: 0.0013
-  Tokens: [' using', ' via']
-Rank 5 | Concept Score: 0.0005
-  Tokens: [' without', ' within']
-Rank 6 | Concept Score: 0.0002
-  Tokens: [' regarding', ' related']
-Rank 7 | Concept Score: 0.0002
+Rank 1 | Centroid: ' yes' | Score: 0.9883
+  Tokens: [' yes', ' yeah', 'yes', ' Yes', ' YES', '=yes']
+Rank 2 | Centroid: ' nothing' | Score: 0.0000
+  Tokens: [' something', ' nothing', ' none']
+Rank 3 | Centroid: ' hello' | Score: 0.0000
+  Tokens: [' hello', ' okay']
+Rank 4 | Centroid: ' always' | Score: 0.0000
+  Tokens: [' exactly', ' also', ' always']
+Rank 5 | Centroid: ' maybe' | Score: 0.0000
+  Tokens: [' maybe', ' possible']
+Rank 6 | Centroid: ' positive' | Score: 0.0000
+  Tokens: [' positive', ' negative']
+Rank 7 | Centroid: ' whether' | Score: 0.0000
+  Tokens: [' whether', ' either']
+Rank 8 | Centroid: ' wait' | Score: 0.0000
+  Tokens: [' wait', ' say']
+Rank 9 | Centroid: ' etc' | Score: 0.0000
+  Tokens: [' etc']
+Rank 10 | Centroid: ' answer' | Score: 0.0000
+  Tokens: [' answer', ' correct']
+Rank 11 | Centroid: ' without' | Score: 0.0000
+  Tokens: [' please', ' based', ' without']
+Rank 12 | Centroid: ' one' | Score: 0.0000
   Tokens: [' one']
-Rank 8 | Concept Score: 0.0001
-  Tokens: [' considering', ' assuming']
-Rank 9 | Concept Score: 0.0001
-  Tokens: [' formulated', ' explained']
-Rank 10 | Concept Score: 0.0000
-  Tokens: [' per']
-Rank 11 | Concept Score: 0.0000
-  Tokens: [' step']
+Rank 13 | Centroid: ' sure' | Score: 0.0000
+  Tokens: [' sure']
+Rank 14 | Centroid: ' yet' | Score: 0.0000
+  Tokens: [' yet']
+Rank 15 | Centroid: ' zero' | Score: 0.0000
+  Tokens: [' zero']
+Rank 16 | Centroid: ' unknown' | Score: 0.0000
+  Tokens: [' unknown']
+Rank 17 | Centroid: ' enough' | Score: 0.0000
+  Tokens: [' enough']
 
-**Chosen Concept:** Rank 1 with score 0.0142
+**Chosen Concept:** Rank 1

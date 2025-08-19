@@ -1,0 +1,49 @@
+--- Step 2 Log ---
+
+== Filtered Candidates ==
+Token: ' either' (ID: 2987), Prob: 0.0000
+Token: ' explanation' (ID: 16148), Prob: 0.0000
+Token: ' whether' (ID: 3425), Prob: 0.0000
+Token: ' questions' (ID: 4755), Prob: 0.0000
+Token: ' one' (ID: 825), Prob: 0.0000
+Token: ' question' (ID: 3405), Prob: 0.0000
+Token: ' description' (ID: 4008), Prob: 0.0000
+Token: ' according' (ID: 4092), Prob: 0.0000
+Token: ' answer' (ID: 4226), Prob: 0.0000
+Token: ' yes' (ID: 9834), Prob: 0.0000
+Token: ' points' (ID: 3501), Prob: 0.0000
+Token: ' please' (ID: 4486), Prob: 0.0000
+Token: ' point' (ID: 1459), Prob: 0.0000
+Token: 'ing' (ID: 287), Prob: 0.0000
+Token: ' using' (ID: 1667), Prob: 0.0000
+Token: ' sentence' (ID: 11652), Prob: 0.0000
+Token: ' examples' (ID: 10295), Prob: 0.0000
+Token: ' Answer' (ID: 21806), Prob: 0.0000
+
+== Ranked Concepts (Clusters) ==
+Rank 1 | Centroid: ' either' | Score: 0.0000
+  Tokens: [' either', ' whether']
+Rank 2 | Centroid: ' explanation' | Score: 0.0000
+  Tokens: [' explanation', ' description']
+Rank 3 | Centroid: ' questions' | Score: 0.0000
+  Tokens: [' questions', ' question']
+Rank 4 | Centroid: ' points' | Score: 0.0000
+  Tokens: [' points', ' point']
+Rank 5 | Centroid: ' according' | Score: 0.0000
+  Tokens: [' according', ' using']
+Rank 6 | Centroid: ' answer' | Score: 0.0000
+  Tokens: [' answer', ' Answer']
+Rank 7 | Centroid: ' yes' | Score: 0.0000
+  Tokens: [' yes']
+Rank 8 | Centroid: ' one' | Score: 0.0000
+  Tokens: [' one']
+Rank 9 | Centroid: ' please' | Score: 0.0000
+  Tokens: [' please']
+Rank 10 | Centroid: 'ing' | Score: 0.0000
+  Tokens: ['ing']
+Rank 11 | Centroid: ' sentence' | Score: 0.0000
+  Tokens: [' sentence']
+Rank 12 | Centroid: ' examples' | Score: 0.0000
+  Tokens: [' examples']
+
+**Chosen Concept:** Rank 1

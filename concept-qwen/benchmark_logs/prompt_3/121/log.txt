@@ -1,78 +1,119 @@
 --- Step 121 Log ---
 
 == Filtered Candidates ==
-Token: ' everything' (ID: 4297), Prob: 1.0000
-Token: ' everyone' (ID: 5019), Prob: 0.0003
-Token: 'everything' (ID: 72726), Prob: 0.0001
-Token: ' Everything' (ID: 20094), Prob: 0.0001
-Token: ' things' (ID: 2513), Prob: 0.0000
-Token: ' nothing' (ID: 4302), Prob: 0.0000
-Token: ' every' (ID: 1449), Prob: 0.0000
-Token: ' something' (ID: 2494), Prob: 0.0000
-Token: ' everywhere' (ID: 16852), Prob: 0.0000
-Token: 'Everything' (ID: 34964), Prob: 0.0000
-Token: ' anything' (ID: 4113), Prob: 0.0000
-Token: ' otherwise' (ID: 5937), Prob: 0.0000
-Token: ' throughout' (ID: 6814), Prob: 0.0000
-Token: ' completely' (ID: 6587), Prob: 0.0000
-Token: ' tudo' (ID: 55696), Prob: 0.0000
-Token: ' etc' (ID: 4992), Prob: 0.0000
-Token: ' except' (ID: 3650), Prob: 0.0000
-Token: ' everybody' (ID: 16083), Prob: 0.0000
-Token: ' whatever' (ID: 8820), Prob: 0.0000
-Token: ' absolutely' (ID: 10875), Prob: 0.0000
-Token: ' entirely' (ID: 11368), Prob: 0.0000
-Token: ' exactly' (ID: 6896), Prob: 0.0000
-Token: ' alles' (ID: 35951), Prob: 0.0000
-Token: ' EVERY' (ID: 44874), Prob: 0.0000
-Token: ' unless' (ID: 7241), Prob: 0.0000
-Token: ' overall' (ID: 8084), Prob: 0.0000
-Token: ' also' (ID: 1083), Prob: 0.0000
-Token: ' entire' (ID: 4453), Prob: 0.0000
-Token: ' altogether' (ID: 30055), Prob: 0.0000
-Token: ' however' (ID: 4764), Prob: 0.0000
-Token: ' whenever' (ID: 15356), Prob: 0.0000
-Token: ' without' (ID: 2041), Prob: 0.0000
-Token: ' everyday' (ID: 17778), Prob: 0.0000
-Token: ' always' (ID: 2677), Prob: 0.0000
-Token: ' according' (ID: 4092), Prob: 0.0000
-Token: 'everyone' (ID: 91957), Prob: 0.0000
-Token: ' ever' (ID: 3512), Prob: 0.0000
+Token: ' grow' (ID: 3063), Prob: 1.0000
+Token: ' grown' (ID: 14700), Prob: 0.0002
+Token: ' growth' (ID: 6513), Prob: 0.0001
+Token: ' grows' (ID: 27715), Prob: 0.0001
+Token: ' growing' (ID: 7826), Prob: 0.0001
+Token: ' grew' (ID: 13938), Prob: 0.0000
+Token: ' get' (ID: 633), Prob: 0.0000
+Token: ' stay' (ID: 4717), Prob: 0.0000
+Token: ' old' (ID: 2310), Prob: 0.0000
+Token: ' age' (ID: 4231), Prob: 0.0000
+Token: ' become' (ID: 3635), Prob: 0.0000
+Token: ' raise' (ID: 4828), Prob: 0.0000
+Token: ' young' (ID: 3908), Prob: 0.0000
+Token: ' rise' (ID: 10000), Prob: 0.0000
+Token: ' leave' (ID: 5274), Prob: 0.0000
+Token: ' eat' (ID: 8180), Prob: 0.0000
+Token: ' engage' (ID: 16579), Prob: 0.0000
+Token: ' Grow' (ID: 46560), Prob: 0.0000
+Token: 'grow' (ID: 66218), Prob: 0.0000
+Token: ' keep' (ID: 2506), Prob: 0.0000
+Token: ' mature' (ID: 14851), Prob: 0.0000
+Token: ' round' (ID: 4778), Prob: 0.0000
+Token: ' live' (ID: 3887), Prob: 0.0000
+Token: ' start' (ID: 1191), Prob: 0.0000
+Token: ' take' (ID: 1896), Prob: 0.0000
+Token: ' make' (ID: 1281), Prob: 0.0000
+Token: ' continue' (ID: 3060), Prob: 0.0000
+Token: ' sleep' (ID: 6084), Prob: 0.0000
+Token: ' use' (ID: 990), Prob: 0.0000
+Token: ' read' (ID: 1349), Prob: 0.0000
+Token: ' gather' (ID: 9567), Prob: 0.0000
+Token: ' long' (ID: 1293), Prob: 0.0000
+Token: ' forget' (ID: 10667), Prob: 0.0000
+Token: ' group' (ID: 1874), Prob: 0.0000
+Token: ' choose' (ID: 5157), Prob: 0.0000
+Token: ' cross' (ID: 5312), Prob: 0.0000
+Token: ' reach' (ID: 5545), Prob: 0.0000
+Token: ' spend' (ID: 8329), Prob: 0.0000
+Token: ' move' (ID: 3271), Prob: 0.0000
+Token: ' develop' (ID: 2225), Prob: 0.0000
+Token: ' ask' (ID: 2548), Prob: 0.0000
+Token: ' care' (ID: 2453), Prob: 0.0000
+Token: ' give' (ID: 2968), Prob: 0.0000
+Token: ' focus' (ID: 5244), Prob: 0.0000
+Token: ' forever' (ID: 15683), Prob: 0.0000
+Token: ' years' (ID: 1635), Prob: 0.0000
+Token: ' catch' (ID: 2287), Prob: 0.0000
+Token: ' close' (ID: 3265), Prob: 0.0000
+Token: ' gain' (ID: 8722), Prob: 0.0000
+Token: ' graduate' (ID: 19023), Prob: 0.0000
+Token: ' open' (ID: 1787), Prob: 0.0000
+Token: ' across' (ID: 3941), Prob: 0.0000
+Token: ' green' (ID: 6176), Prob: 0.0000
+Token: ' groom' (ID: 39841), Prob: 0.0000
+Token: ' look' (ID: 1401), Prob: 0.0000
+Token: ' come' (ID: 2525), Prob: 0.0000
+Token: ' feel' (ID: 2666), Prob: 0.0000
+Token: ' generate' (ID: 6923), Prob: 0.0000
+Token: ' aged' (ID: 19749), Prob: 0.0000
+Token: ' foster' (ID: 29987), Prob: 0.0000
+Token: ' run' (ID: 1598), Prob: 0.0000
+Token: ' learn' (ID: 3960), Prob: 0.0000
+Token: ' walk' (ID: 4227), Prob: 0.0000
+Token: ' join' (ID: 5138), Prob: 0.0000
+Token: ' youth' (ID: 12537), Prob: 0.0000
+Token: ' receive' (ID: 5258), Prob: 0.0000
 
 == Ranked Concepts (Clusters) ==
-Rank 1 | Concept Score: 1.0000
-  Tokens: [' everything', 'everything', ' Everything', 'Everything', ' tudo', ' alles']
-Rank 2 | Concept Score: 0.0003
-  Tokens: [' everyone', ' everybody', 'everyone']
-Rank 3 | Concept Score: 0.0001
-  Tokens: [' things', ' nothing', ' something', ' anything', ' whatever']
-Rank 4 | Concept Score: 0.0000
-  Tokens: [' every', ' everywhere', ' EVERY']
-Rank 5 | Concept Score: 0.0000
-  Tokens: [' otherwise']
-Rank 6 | Concept Score: 0.0000
-  Tokens: [' completely', ' entirely', ' altogether']
-Rank 7 | Concept Score: 0.0000
-  Tokens: [' throughout']
-Rank 8 | Concept Score: 0.0000
-  Tokens: [' absolutely', ' exactly']
-Rank 9 | Concept Score: 0.0000
-  Tokens: [' except', ' unless']
-Rank 10 | Concept Score: 0.0000
-  Tokens: [' etc']
-Rank 11 | Concept Score: 0.0000
-  Tokens: [' overall', ' entire']
-Rank 12 | Concept Score: 0.0000
-  Tokens: [' without', ' according']
-Rank 13 | Concept Score: 0.0000
-  Tokens: [' also']
-Rank 14 | Concept Score: 0.0000
-  Tokens: [' always', ' ever']
-Rank 15 | Concept Score: 0.0000
-  Tokens: [' however']
-Rank 16 | Concept Score: 0.0000
-  Tokens: [' whenever']
-Rank 17 | Concept Score: 0.0000
-  Tokens: [' everyday']
+Rank 1 | Centroid: ' grow' | Score: 1.0000
+  Tokens: [' grow', ' grown', ' growth', ' grows', ' growing', ' grew', ' Grow', 'grow']
+Rank 2 | Centroid: ' young' | Score: 0.0000
+  Tokens: [' old', ' age', ' young', ' aged', ' youth']
+Rank 3 | Centroid: ' stay' | Score: 0.0000
+  Tokens: [' stay', ' leave', ' keep', ' look', ' feel']
+Rank 4 | Centroid: ' give' | Score: 0.0000
+  Tokens: [' get', ' take', ' make', ' give']
+Rank 5 | Centroid: ' raise' | Score: 0.0000
+  Tokens: [' raise', ' rise']
+Rank 6 | Centroid: ' generate' | Score: 0.0000
+  Tokens: [' engage', ' gather', ' choose', ' develop', ' ask', ' generate']
+Rank 7 | Centroid: ' become' | Score: 0.0000
+  Tokens: [' become', ' come', ' receive']
+Rank 8 | Centroid: ' eat' | Score: 0.0000
+  Tokens: [' eat', ' spend', ' learn']
+Rank 9 | Centroid: ' start' | Score: 0.0000
+  Tokens: [' start', ' use']
+Rank 10 | Centroid: ' live' | Score: 0.0000
+  Tokens: [' live', ' group']
+Rank 11 | Centroid: ' mature' | Score: 0.0000
+  Tokens: [' mature', ' years']
+Rank 12 | Centroid: ' round' | Score: 0.0000
+  Tokens: [' round', ' green']
+Rank 13 | Centroid: ' walk' | Score: 0.0000
+  Tokens: [' move', ' run', ' walk', ' join']
+Rank 14 | Centroid: ' gain' | Score: 0.0000
+  Tokens: [' reach', ' catch', ' gain']
+Rank 15 | Centroid: ' continue' | Score: 0.0000
+  Tokens: [' continue', ' forever']
+Rank 16 | Centroid: ' foster' | Score: 0.0000
+  Tokens: [' graduate', ' groom', ' foster']
+Rank 17 | Centroid: ' cross' | Score: 0.0000
+  Tokens: [' cross', ' across']
+Rank 18 | Centroid: ' care' | Score: 0.0000
+  Tokens: [' care', ' focus']
+Rank 19 | Centroid: ' close' | Score: 0.0000
+  Tokens: [' close', ' open']
+Rank 20 | Centroid: ' sleep' | Score: 0.0000
+  Tokens: [' sleep']
+Rank 21 | Centroid: ' read' | Score: 0.0000
+  Tokens: [' read']
+Rank 22 | Centroid: ' forget' | Score: 0.0000
+  Tokens: [' forget']
+Rank 23 | Centroid: ' long' | Score: 0.0000
+  Tokens: [' long']
 
-**Chosen Concept:** Rank 1 with score 1.0000
+**Chosen Concept:** Rank 1

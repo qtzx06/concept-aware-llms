@@ -1,0 +1,141 @@
+--- Step 5 Log ---
+
+== Filtered Candidates ==
+Token: ' statement' (ID: 5114), Prob: 0.3281
+Token: ' statements' (ID: 12239), Prob: 0.3281
+Token: ' sentence' (ID: 11652), Prob: 0.0391
+Token: ' sentences' (ID: 22870), Prob: 0.0144
+Token: ' argument' (ID: 5693), Prob: 0.0060
+Token: ' claims' (ID: 8186), Prob: 0.0060
+Token: ' claim' (ID: 3717), Prob: 0.0041
+Token: ' items' (ID: 3589), Prob: 0.0032
+Token: ' two' (ID: 1378), Prob: 0.0030
+Token: ' assumptions' (ID: 31846), Prob: 0.0020
+Token: ' arguments' (ID: 5977), Prob: 0.0018
+Token: ' options' (ID: 2606), Prob: 0.0016
+Token: ' question' (ID: 3405), Prob: 0.0015
+Token: ' premise' (ID: 40202), Prob: 0.0015
+Token: ' premises' (ID: 33922), Prob: 0.0014
+Token: ' paragraph' (ID: 14311), Prob: 0.0013
+Token: ' assertions' (ID: 54836), Prob: 0.0013
+Token: ' information' (ID: 1995), Prob: 0.0013
+Token: ' questions' (ID: 4755), Prob: 0.0012
+Token: ' assumption' (ID: 24335), Prob: 0.0012
+Token: ' passage' (ID: 21085), Prob: 0.0010
+Token: ' lines' (ID: 5128), Prob: 0.0009
+Token: ' item' (ID: 1509), Prob: 0.0007
+Token: ' propositions' (ID: 83273), Prob: 0.0007
+Token: ' reasoning' (ID: 32711), Prob: 0.0007
+Token: ' proposition' (ID: 40080), Prob: 0.0007
+Token: ' text' (ID: 1467), Prob: 0.0006
+Token: ' events' (ID: 4357), Prob: 0.0006
+Token: ' pairs' (ID: 13530), Prob: 0.0006
+Token: ' assertion' (ID: 27419), Prob: 0.0005
+Token: ' hypothesis' (ID: 30078), Prob: 0.0005
+Token: ' scenario' (ID: 15048), Prob: 0.0004
+Token: ' situation' (ID: 6534), Prob: 0.0004
+Token: ' conditional' (ID: 34687), Prob: 0.0004
+Token: ' inference' (ID: 44378), Prob: 0.0004
+Token: ' ideas' (ID: 6708), Prob: 0.0003
+Token: ' conclusion' (ID: 16688), Prob: 0.0003
+Token: ' determines' (ID: 26569), Prob: 0.0003
+Token: ' judgments' (ID: 58258), Prob: 0.0003
+Token: ' judgment' (ID: 19407), Prob: 0.0003
+Token: ' phrases' (ID: 31747), Prob: 0.0003
+Token: ' must' (ID: 1969), Prob: 0.0003
+Token: ' answer' (ID: 4226), Prob: 0.0003
+Token: ' represents' (ID: 10868), Prob: 0.0003
+Token: ' Statement' (ID: 21756), Prob: 0.0003
+Token: ' sample' (ID: 6077), Prob: 0.0002
+Token: ' actions' (ID: 6168), Prob: 0.0002
+Token: ' facts' (ID: 13064), Prob: 0.0002
+Token: ' applies' (ID: 16790), Prob: 0.0002
+Token: ' option' (ID: 2999), Prob: 0.0002
+Token: ' describes' (ID: 16555), Prob: 0.0002
+Token: ' view' (ID: 1651), Prob: 0.0002
+Token: ' three' (ID: 2326), Prob: 0.0002
+Token: ' complex' (ID: 6351), Prob: 0.0002
+Token: ' pair' (ID: 6716), Prob: 0.0002
+Token: ' line' (ID: 1555), Prob: 0.0002
+Token: ' four' (ID: 3040), Prob: 0.0002
+Token: ' makes' (ID: 3643), Prob: 0.0002
+Token: ' five' (ID: 4236), Prob: 0.0002
+Token: ' choices' (ID: 11454), Prob: 0.0002
+Token: ' event' (ID: 1538), Prob: 0.0002
+Token: ' characters' (ID: 5766), Prob: 0.0002
+Token: ' description' (ID: 4008), Prob: 0.0002
+Token: ' descriptions' (ID: 27787), Prob: 0.0002
+Token: ' structure' (ID: 5944), Prob: 0.0002
+Token: ' logic' (ID: 12218), Prob: 0.0002
+Token: ' would' (ID: 1035), Prob: 0.0002
+Token: ' follows' (ID: 11017), Prob: 0.0002
+Token: ' situations' (ID: 14740), Prob: 0.0002
+Token: ' belief' (ID: 16396), Prob: 0.0002
+Token: ' clause' (ID: 21647), Prob: 0.0002
+Token: ' fact' (ID: 2097), Prob: 0.0001
+Token: ' character' (ID: 3668), Prob: 0.0001
+Token: ' views' (ID: 6194), Prob: 0.0001
+Token: ' sequence' (ID: 8500), Prob: 0.0001
+Token: ' phrase' (ID: 17133), Prob: 0.0001
+Token: ' logical' (ID: 19819), Prob: 0.0001
+Token: ' scenarios' (ID: 25283), Prob: 0.0001
+Token: ' points' (ID: 3501), Prob: 0.0001
+Token: ' words' (ID: 4244), Prob: 0.0001
+Token: ' passes' (ID: 16211), Prob: 0.0001
+Token: ' implications' (ID: 24154), Prob: 0.0001
+Token: ' pre' (ID: 855), Prob: 0.0001
+Token: ' condition' (ID: 2971), Prob: 0.0001
+
+== Ranked Concepts (Clusters) ==
+Rank 1 | Centroid: ' statement' | Score: 0.6562
+  Tokens: [' statement', ' statements', ' Statement']
+Rank 2 | Centroid: ' phrase' | Score: 0.0554
+  Tokens: [' sentence', ' sentences', ' paragraph', ' phrases', ' clause', ' phrase', ' words']
+Rank 3 | Centroid: ' claims' | Score: 0.0120
+  Tokens: [' claims', ' claim', ' assertions', ' assertion']
+Rank 4 | Centroid: ' reasoning' | Score: 0.0088
+  Tokens: [' argument', ' arguments', ' reasoning', ' logic', ' logical']
+Rank 5 | Centroid: ' options' | Score: 0.0060
+  Tokens: [' items', ' options', ' item', ' option', ' choices']
+Rank 6 | Centroid: ' assumptions' | Score: 0.0042
+  Tokens: [' assumptions', ' premises', ' propositions', ' implications']
+Rank 7 | Centroid: ' assumption' | Score: 0.0040
+  Tokens: [' premise', ' assumption', ' hypothesis', ' inference', ' conclusion', ' belief']
+Rank 8 | Centroid: ' three' | Score: 0.0036
+  Tokens: [' two', ' three', ' four', ' five']
+Rank 9 | Centroid: ' question' | Score: 0.0018
+  Tokens: [' question', ' answer']
+Rank 10 | Centroid: ' makes' | Score: 0.0016
+  Tokens: [' determines', ' must', ' represents', ' applies', ' makes', ' would', ' follows']
+Rank 11 | Centroid: ' views' | Score: 0.0016
+  Tokens: [' information', ' view', ' views']
+Rank 12 | Centroid: ' lines' | Score: 0.0013
+  Tokens: [' lines', ' line', ' points']
+Rank 13 | Centroid: ' questions' | Score: 0.0012
+  Tokens: [' questions']
+Rank 14 | Centroid: ' situations' | Score: 0.0011
+  Tokens: [' scenario', ' situation', ' situations', ' scenarios']
+Rank 15 | Centroid: ' passage' | Score: 0.0011
+  Tokens: [' passage', ' passes']
+Rank 16 | Centroid: ' conditional' | Score: 0.0011
+  Tokens: [' conditional', ' sample', ' structure', ' sequence', ' condition']
+Rank 17 | Centroid: ' text' | Score: 0.0009
+  Tokens: [' text', ' complex', ' pre']
+Rank 18 | Centroid: ' pairs' | Score: 0.0008
+  Tokens: [' pairs', ' pair']
+Rank 19 | Centroid: ' events' | Score: 0.0008
+  Tokens: [' events', ' event']
+Rank 20 | Centroid: ' proposition' | Score: 0.0007
+  Tokens: [' proposition']
+Rank 21 | Centroid: ' judgments' | Score: 0.0006
+  Tokens: [' judgments', ' judgment']
+Rank 22 | Centroid: ' descriptions' | Score: 0.0006
+  Tokens: [' describes', ' description', ' descriptions']
+Rank 23 | Centroid: ' ideas' | Score: 0.0006
+  Tokens: [' ideas', ' actions']
+Rank 24 | Centroid: ' facts' | Score: 0.0004
+  Tokens: [' facts', ' fact']
+Rank 25 | Centroid: ' characters' | Score: 0.0003
+  Tokens: [' characters', ' character']
+
+**Chosen Concept:** Rank 1

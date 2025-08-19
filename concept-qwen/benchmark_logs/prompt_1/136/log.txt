@@ -1,0 +1,99 @@
+--- Step 136 Log ---
+
+== Filtered Candidates ==
+Token: ' like' (ID: 1075), Prob: 0.5352
+Token: ' related' (ID: 5435), Prob: 0.0052
+Token: ' naturally' (ID: 17712), Prob: 0.0003
+Token: ' involving' (ID: 15860), Prob: 0.0001
+Token: ' creatively' (ID: 92296), Prob: 0.0001
+Token: ' effectively' (ID: 13444), Prob: 0.0001
+Token: ' relating' (ID: 22527), Prob: 0.0001
+Token: ' without' (ID: 2041), Prob: 0.0001
+Token: ' comparing' (ID: 26297), Prob: 0.0000
+Token: ' subtly' (ID: 86317), Prob: 0.0000
+Token: ' around' (ID: 2163), Prob: 0.0000
+Token: ' connected' (ID: 8433), Prob: 0.0000
+Token: ' appropriately' (ID: 34901), Prob: 0.0000
+Token: ' instead' (ID: 4518), Prob: 0.0000
+Token: ' describing' (ID: 22692), Prob: 0.0000
+Token: ' throughout' (ID: 6814), Prob: 0.0000
+Token: ' clearly' (ID: 9355), Prob: 0.0000
+Token: ' compared' (ID: 7707), Prob: 0.0000
+Token: ' connecting' (ID: 20913), Prob: 0.0000
+Token: ' maybe' (ID: 7196), Prob: 0.0000
+Token: ' even' (ID: 1496), Prob: 0.0000
+Token: ' towards' (ID: 6974), Prob: 0.0000
+Token: ' well' (ID: 1632), Prob: 0.0000
+Token: ' sparing' (ID: 94955), Prob: 0.0000
+Token: ' clever' (ID: 27699), Prob: 0.0000
+Token: ' similar' (ID: 4428), Prob: 0.0000
+Token: ' correctly' (ID: 12440), Prob: 0.0000
+Token: ' perhaps' (ID: 8365), Prob: 0.0000
+Token: ' properly' (ID: 10277), Prob: 0.0000
+Token: ' easily' (ID: 6707), Prob: 0.0000
+Token: ' showing' (ID: 9027), Prob: 0.0000
+Token: ' rel' (ID: 1351), Prob: 0.0000
+Token: ' regarding' (ID: 8826), Prob: 0.0000
+Token: ' tied' (ID: 17339), Prob: 0.0000
+Token: ' vivid' (ID: 42020), Prob: 0.0000
+Token: ' since' (ID: 2474), Prob: 0.0000
+Token: ' indirectly' (ID: 45245), Prob: 0.0000
+Token: ' inspired' (ID: 14606), Prob: 0.0000
+Token: ' somehow' (ID: 16925), Prob: 0.0000
+Token: ' yet' (ID: 3602), Prob: 0.0000
+Token: ' often' (ID: 3545), Prob: 0.0000
+Token: ' could' (ID: 1410), Prob: 0.0000
+Token: ' carefully' (ID: 15516), Prob: 0.0000
+Token: ' suggesting' (ID: 22561), Prob: 0.0000
+Token: '-like' (ID: 12681), Prob: 0.0000
+Token: ' linking' (ID: 30699), Prob: 0.0000
+Token: ' rather' (ID: 4751), Prob: 0.0000
+Token: ' briefly' (ID: 26753), Prob: 0.0000
+Token: ' smoothly' (ID: 38411), Prob: 0.0000
+Token: ' similarly' (ID: 29193), Prob: 0.0000
+Token: ' inside' (ID: 4766), Prob: 0.0000
+Token: 'like' (ID: 4803), Prob: 0.0000
+Token: ' relevant' (ID: 9760), Prob: 0.0000
+Token: ' effortlessly' (ID: 68604), Prob: 0.0000
+Token: ' directly' (ID: 5961), Prob: 0.0000
+Token: ' consistently' (ID: 20699), Prob: 0.0000
+
+== Ranked Concepts (Clusters) ==
+Rank 1 | Centroid: 'like' | Score: 0.5352
+  Tokens: [' like', '-like', 'like']
+Rank 2 | Centroid: ' related' | Score: 0.0052
+  Tokens: [' related', ' relevant']
+Rank 3 | Centroid: ' effortlessly' | Score: 0.0003
+  Tokens: [' naturally', ' clearly', ' easily', ' smoothly', ' effortlessly', ' consistently']
+Rank 4 | Centroid: ' regarding' | Score: 0.0002
+  Tokens: [' involving', ' relating', ' regarding']
+Rank 5 | Centroid: ' subtly' | Score: 0.0001
+  Tokens: [' creatively', ' subtly', ' briefly']
+Rank 6 | Centroid: ' throughout' | Score: 0.0001
+  Tokens: [' without', ' around', ' throughout', ' towards', ' since', ' inside']
+Rank 7 | Centroid: ' properly' | Score: 0.0001
+  Tokens: [' effectively', ' appropriately', ' correctly', ' properly', ' carefully']
+Rank 8 | Centroid: ' comparing' | Score: 0.0000
+  Tokens: [' comparing', ' compared']
+Rank 9 | Centroid: ' connected' | Score: 0.0000
+  Tokens: [' connected', ' connecting', ' tied', ' linking']
+Rank 10 | Centroid: ' suggesting' | Score: 0.0000
+  Tokens: [' describing', ' showing', ' suggesting']
+Rank 11 | Centroid: ' instead' | Score: 0.0000
+  Tokens: [' instead', ' rather']
+Rank 12 | Centroid: ' perhaps' | Score: 0.0000
+  Tokens: [' maybe', ' perhaps', ' often', ' could']
+Rank 13 | Centroid: ' yet' | Score: 0.0000
+  Tokens: [' even', ' well', ' yet']
+Rank 14 | Centroid: ' similar' | Score: 0.0000
+  Tokens: [' similar', ' inspired', ' similarly']
+Rank 15 | Centroid: ' sparing' | Score: 0.0000
+  Tokens: [' sparing', ' rel']
+Rank 16 | Centroid: ' clever' | Score: 0.0000
+  Tokens: [' clever', ' somehow']
+Rank 17 | Centroid: ' indirectly' | Score: 0.0000
+  Tokens: [' indirectly', ' directly']
+Rank 18 | Centroid: ' vivid' | Score: 0.0000
+  Tokens: [' vivid']
+
+**Chosen Concept:** Rank 1

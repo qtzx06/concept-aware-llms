@@ -1,56 +1,71 @@
 --- Step 40 Log ---
 
 == Filtered Candidates ==
-Token: ' today' (ID: 3351), Prob: 0.9648
-Token: ' Today' (ID: 11201), Prob: 0.0156
-Token: 'today' (ID: 30113), Prob: 0.0005
-Token: 'Today' (ID: 15364), Prob: 0.0004
-Token: '.Today' (ID: 72672), Prob: 0.0004
-Token: '(today' (ID: 75693), Prob: 0.0004
-Token: ' tomorrow' (ID: 16577), Prob: 0.0003
-Token: ' tonight' (ID: 17913), Prob: 0.0002
-Token: ' day' (ID: 1899), Prob: 0.0002
-Token: ' TODAY' (ID: 40262), Prob: 0.0002
-Token: ' daily' (ID: 7298), Prob: 0.0001
-Token: '_today' (ID: 68717), Prob: 0.0001
-Token: ' yesterday' (ID: 13671), Prob: 0.0001
-Token: ' yes' (ID: 9834), Prob: 0.0000
-Token: '.today' (ID: 37787), Prob: 0.0000
-Token: ' Tuesday' (ID: 7589), Prob: 0.0000
-Token: ' everyday' (ID: 17778), Prob: 0.0000
-Token: ' aujourd' (ID: 74704), Prob: 0.0000
-Token: ' days' (ID: 2849), Prob: 0.0000
-Token: ' children' (ID: 2841), Prob: 0.0000
-Token: ' tod' (ID: 11530), Prob: 0.0000
-Token: ' currently' (ID: 5023), Prob: 0.0000
-Token: ' young' (ID: 3908), Prob: 0.0000
-Token: ' present' (ID: 3042), Prob: 0.0000
-Token: ' every' (ID: 1449), Prob: 0.0000
+Token: ' message' (ID: 1943), Prob: 0.9609
+Token: ' prompt' (ID: 9934), Prob: 0.0094
+Token: ' messages' (ID: 6605), Prob: 0.0014
+Token: '.message' (ID: 6698), Prob: 0.0004
+Token: ' Message' (ID: 4856), Prob: 0.0002
+Token: ' question' (ID: 3405), Prob: 0.0002
+Token: '(message' (ID: 7333), Prob: 0.0002
+Token: 'message' (ID: 1994), Prob: 0.0001
+Token: ' statement' (ID: 5114), Prob: 0.0001
+Token: ' answer' (ID: 4226), Prob: 0.0000
+Token: ' list' (ID: 1140), Prob: 0.0000
+Token: ' response' (ID: 2033), Prob: 0.0000
+Token: ' information' (ID: 1995), Prob: 0.0000
+Token: 'Message' (ID: 2052), Prob: 0.0000
+Token: ' content' (ID: 2213), Prob: 0.0000
+Token: ':message' (ID: 91473), Prob: 0.0000
+Token: ' item' (ID: 1509), Prob: 0.0000
+Token: ' phrase' (ID: 17133), Prob: 0.0000
+Token: '	message' (ID: 24753), Prob: 0.0000
+Token: ' example' (ID: 3110), Prob: 0.0000
+Token: ' user' (ID: 1196), Prob: 0.0000
+Token: ' point' (ID: 1459), Prob: 0.0000
+Token: ' description' (ID: 4008), Prob: 0.0000
+Token: ' theme' (ID: 6912), Prob: 0.0000
+Token: '_message' (ID: 6462), Prob: 0.0000
+Token: ' wording' (ID: 60227), Prob: 0.0000
+Token: ' image' (ID: 2168), Prob: 0.0000
+Token: ' except' (ID: 3650), Prob: 0.0000
+Token: ' instruction' (ID: 7600), Prob: 0.0000
+Token: ' sentence' (ID: 11652), Prob: 0.0000
+Token: ' motif' (ID: 59512), Prob: 0.0000
+Token: ' text' (ID: 1467), Prob: 0.0000
 
 == Ranked Concepts (Clusters) ==
-Rank 1 | Concept Score: 0.9805
-  Tokens: [' today', ' Today', 'today', 'Today', ' TODAY', ' aujourd']
-Rank 2 | Concept Score: 0.0009
-  Tokens: ['.Today', '(today', '_today', '.today']
-Rank 3 | Concept Score: 0.0006
-  Tokens: [' tomorrow', ' tonight', ' yesterday']
-Rank 4 | Concept Score: 0.0002
-  Tokens: [' day', ' days']
-Rank 5 | Concept Score: 0.0001
-  Tokens: [' daily', ' everyday']
-Rank 6 | Concept Score: 0.0000
-  Tokens: [' yes']
-Rank 7 | Concept Score: 0.0000
-  Tokens: [' children', ' young']
-Rank 8 | Concept Score: 0.0000
-  Tokens: [' Tuesday']
-Rank 9 | Concept Score: 0.0000
-  Tokens: [' tod']
-Rank 10 | Concept Score: 0.0000
-  Tokens: [' currently']
-Rank 11 | Concept Score: 0.0000
-  Tokens: [' present']
-Rank 12 | Concept Score: 0.0000
-  Tokens: [' every']
+Rank 1 | Centroid: ' message' | Score: 0.9648
+  Tokens: [' message', ' messages', '.message', ' Message', '(message', 'message', 'Message', '\tmessage', '_message']
+Rank 2 | Centroid: ' prompt' | Score: 0.0094
+  Tokens: [' prompt']
+Rank 3 | Centroid: ' question' | Score: 0.0002
+  Tokens: [' question']
+Rank 4 | Centroid: ' phrase' | Score: 0.0002
+  Tokens: [' statement', ' phrase', ' wording', ' sentence']
+Rank 5 | Centroid: ' answer' | Score: 0.0001
+  Tokens: [' answer', ' response']
+Rank 6 | Centroid: ' information' | Score: 0.0000
+  Tokens: [' information', ' instruction']
+Rank 7 | Centroid: ' content' | Score: 0.0000
+  Tokens: [' content', ' text']
+Rank 8 | Centroid: ' example' | Score: 0.0000
+  Tokens: [' example', ' image']
+Rank 9 | Centroid: ' list' | Score: 0.0000
+  Tokens: [' list']
+Rank 10 | Centroid: ' theme' | Score: 0.0000
+  Tokens: [' theme', ' motif']
+Rank 11 | Centroid: ':message' | Score: 0.0000
+  Tokens: [':message']
+Rank 12 | Centroid: ' item' | Score: 0.0000
+  Tokens: [' item']
+Rank 13 | Centroid: ' point' | Score: 0.0000
+  Tokens: [' point']
+Rank 14 | Centroid: ' user' | Score: 0.0000
+  Tokens: [' user']
+Rank 15 | Centroid: ' description' | Score: 0.0000
+  Tokens: [' description']
+Rank 16 | Centroid: ' except' | Score: 0.0000
+  Tokens: [' except']
 
-**Chosen Concept:** Rank 1 with score 0.9805
+**Chosen Concept:** Rank 1

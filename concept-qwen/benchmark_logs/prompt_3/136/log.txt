@@ -1,100 +1,92 @@
 --- Step 136 Log ---
 
 == Filtered Candidates ==
-Token: ' try' (ID: 1430), Prob: 1.0000
-Token: ' get' (ID: 633), Prob: 0.0001
-Token: ' trying' (ID: 4460), Prob: 0.0000
-Token: ' attempt' (ID: 4774), Prob: 0.0000
-Token: ' ask' (ID: 2548), Prob: 0.0000
-Token: ' take' (ID: 1896), Prob: 0.0000
-Token: ' want' (ID: 1366), Prob: 0.0000
-Token: ' think' (ID: 1744), Prob: 0.0000
-Token: ' tries' (ID: 16297), Prob: 0.0000
-Token: ' trade' (ID: 6559), Prob: 0.0000
-Token: ' tried' (ID: 6679), Prob: 0.0000
-Token: ' cry' (ID: 15729), Prob: 0.0000
-Token: ' tri' (ID: 2406), Prob: 0.0000
-Token: ' give' (ID: 2968), Prob: 0.0000
-Token: ' make' (ID: 1281), Prob: 0.0000
-Token: ' throw' (ID: 2510), Prob: 0.0000
-Token: ' Try' (ID: 9735), Prob: 0.0000
-Token: ' return' (ID: 470), Prob: 0.0000
-Token: ' also' (ID: 1083), Prob: 0.0000
-Token: ' trial' (ID: 9091), Prob: 0.0000
-Token: ' still' (ID: 2058), Prob: 0.0000
-Token: ' put' (ID: 2182), Prob: 0.0000
-Token: ' choose' (ID: 5157), Prob: 0.0000
-Token: ' say' (ID: 1977), Prob: 0.0000
-Token: '.try' (ID: 48779), Prob: 0.0000
-Token: ' find' (ID: 1477), Prob: 0.0000
-Token: '	try' (ID: 6799), Prob: 0.0000
-Token: ' consider' (ID: 2908), Prob: 0.0000
-Token: ' strive' (ID: 36006), Prob: 0.0000
-Token: ' claim' (ID: 3717), Prob: 0.0000
-Token: ' use' (ID: 990), Prob: 0.0000
-Token: ' tell' (ID: 3291), Prob: 0.0000
-Token: ' respond' (ID: 5889), Prob: 0.0000
-Token: ' need' (ID: 1184), Prob: 0.0000
-Token: ' three' (ID: 2326), Prob: 0.0000
-Token: ' buy' (ID: 3695), Prob: 0.0000
-Token: ' start' (ID: 1191), Prob: 0.0000
-Token: ' request' (ID: 1681), Prob: 0.0000
-Token: 'try' (ID: 1539), Prob: 0.0000
-Token: ' TRY' (ID: 78481), Prob: 0.0000
-Token: ' trip' (ID: 8411), Prob: 0.0000
-Token: ' apply' (ID: 3796), Prob: 0.0000
-Token: ' retry' (ID: 22683), Prob: 0.0000
-Token: ' test' (ID: 1273), Prob: 0.0000
-Token: ' see' (ID: 1490), Prob: 0.0000
-Token: ' catch' (ID: 2287), Prob: 0.0000
-Token: ' help' (ID: 1492), Prob: 0.0000
-Token: ' right' (ID: 1290), Prob: 0.0000
-Token: ' wait' (ID: 3783), Prob: 0.0000
-Token: ' come' (ID: 2525), Prob: 0.0000
-Token: ' tend' (ID: 8376), Prob: 0.0000
-Token: ' pay' (ID: 2291), Prob: 0.0000
-Token: ' check' (ID: 1779), Prob: 0.0000
-Token: ' please' (ID: 4486), Prob: 0.0000
-Token: '_try' (ID: 53283), Prob: 0.0000
+Token: 'Let' (ID: 10061), Prob: 0.9766
+Token: 'Yes' (ID: 9454), Prob: 0.0011
+Token: 'Answer' (ID: 16141), Prob: 0.0007
+Token: 'Okay' (ID: 32313), Prob: 0.0005
+Token: 'Ret' (ID: 12020), Prob: 0.0002
+Token: 'Word' (ID: 10879), Prob: 0.0002
+Token: 'Last' (ID: 5842), Prob: 0.0002
+Token: 'Wait' (ID: 14190), Prob: 0.0002
+Token: 'Tweet' (ID: 48362), Prob: 0.0001
+Token: 'Get' (ID: 1949), Prob: 0.0001
+Token: 'Back' (ID: 3707), Prob: 0.0001
+Token: 'Finally' (ID: 23949), Prob: 0.0001
+Token: 'Maybe' (ID: 21390), Prob: 0.0001
+Token: 'Based' (ID: 28715), Prob: 0.0001
+Token: 'Every' (ID: 11510), Prob: 0.0001
+Token: 'Exactly' (ID: 65357), Prob: 0.0001
+Token: 'Please' (ID: 5501), Prob: 0.0001
+Token: 'One' (ID: 3966), Prob: 0.0001
+Token: ' Let' (ID: 6771), Prob: 0.0001
+Token: 'Even' (ID: 13159), Prob: 0.0001
+Token: 'Given' (ID: 22043), Prob: 0.0001
+Token: 'Correct' (ID: 33092), Prob: 0.0001
+Token: 'Among' (ID: 33610), Prob: 0.0001
+Token: 'Reply' (ID: 20841), Prob: 0.0001
+Token: 'Therefore' (ID: 54815), Prob: 0.0001
+Token: 'Alright' (ID: 71486), Prob: 0.0001
+Token: 'Help' (ID: 12689), Prob: 0.0001
+Token: 'Home' (ID: 7623), Prob: 0.0001
+Token: 'Explanation' (ID: 69769), Prob: 0.0001
+Token: 'Ass' (ID: 5615), Prob: 0.0000
+Token: 'List' (ID: 852), Prob: 0.0000
+Token: 'Click' (ID: 2612), Prob: 0.0000
+Token: 'Question' (ID: 14582), Prob: 0.0000
+Token: 'June' (ID: 27160), Prob: 0.0000
+Token: 'Latest' (ID: 31992), Prob: 0.0000
+Token: 'West' (ID: 23306), Prob: 0.0000
+Token: 'View' (ID: 851), Prob: 0.0000
+Token: 'Tag' (ID: 5668), Prob: 0.0000
+Token: 'According' (ID: 11190), Prob: 0.0000
+Token: 'Today' (ID: 15364), Prob: 0.0000
+Token: 'Set' (ID: 1649), Prob: 0.0000
+Token: 'Perhaps' (ID: 31476), Prob: 0.0000
+Token: 'Paragraph' (ID: 42165), Prob: 0.0000
+Token: 'Enough' (ID: 95801), Prob: 0.0000
+Token: 'None' (ID: 4064), Prob: 0.0000
 
 == Ranked Concepts (Clusters) ==
-Rank 1 | Concept Score: 1.0000
-  Tokens: [' try', ' trying', ' attempt', ' tries', ' tried', ' Try', '.try', '\ttry', 'try', ' TRY', '_try']
-Rank 2 | Concept Score: 0.0001
-  Tokens: [' get', ' take', ' make', ' find']
-Rank 3 | Concept Score: 0.0000
-  Tokens: [' ask', ' claim', ' request']
-Rank 4 | Concept Score: 0.0000
-  Tokens: [' want', ' use', ' need', ' tend']
-Rank 5 | Concept Score: 0.0000
-  Tokens: [' think', ' consider', ' see']
-Rank 6 | Concept Score: 0.0000
-  Tokens: [' trade', ' buy', ' pay']
-Rank 7 | Concept Score: 0.0000
-  Tokens: [' throw', ' return', ' start', ' catch']
-Rank 8 | Concept Score: 0.0000
-  Tokens: [' give', ' put', ' help', ' come']
-Rank 9 | Concept Score: 0.0000
-  Tokens: [' tri', ' three', ' trip']
-Rank 10 | Concept Score: 0.0000
-  Tokens: [' choose', ' respond', ' apply', ' please']
-Rank 11 | Concept Score: 0.0000
-  Tokens: [' also', ' still']
-Rank 12 | Concept Score: 0.0000
-  Tokens: [' cry']
-Rank 13 | Concept Score: 0.0000
-  Tokens: [' trial', ' test']
-Rank 14 | Concept Score: 0.0000
-  Tokens: [' say', ' tell']
-Rank 15 | Concept Score: 0.0000
-  Tokens: [' strive']
-Rank 16 | Concept Score: 0.0000
-  Tokens: [' retry']
-Rank 17 | Concept Score: 0.0000
-  Tokens: [' right']
-Rank 18 | Concept Score: 0.0000
-  Tokens: [' wait']
-Rank 19 | Concept Score: 0.0000
-  Tokens: [' check']
+Rank 1 | Centroid: 'Let' | Score: 0.9766
+  Tokens: ['Let', ' Let']
+Rank 2 | Centroid: 'Okay' | Score: 0.0016
+  Tokens: ['Yes', 'Okay', 'Alright']
+Rank 3 | Centroid: 'Answer' | Score: 0.0008
+  Tokens: ['Answer', 'Explanation', 'Question']
+Rank 4 | Centroid: 'Ret' | Score: 0.0004
+  Tokens: ['Ret', 'Wait']
+Rank 5 | Centroid: 'West' | Score: 0.0003
+  Tokens: ['Word', 'Home', 'West']
+Rank 6 | Centroid: 'Latest' | Score: 0.0003
+  Tokens: ['Last', 'Latest', 'Today']
+Rank 7 | Centroid: 'According' | Score: 0.0003
+  Tokens: ['Based', 'Given', 'Therefore', 'According']
+Rank 8 | Centroid: 'Get' | Score: 0.0002
+  Tokens: ['Get', 'List', 'View', 'Set']
+Rank 9 | Centroid: 'Click' | Score: 0.0002
+  Tokens: ['Tweet', 'Click', 'Tag']
+Rank 10 | Centroid: 'Every' | Score: 0.0002
+  Tokens: ['Every', 'One', 'Even']
+Rank 11 | Centroid: 'Finally' | Score: 0.0002
+  Tokens: ['Finally', 'Please']
+Rank 12 | Centroid: 'Maybe' | Score: 0.0001
+  Tokens: ['Maybe', 'Perhaps']
+Rank 13 | Centroid: 'Correct' | Score: 0.0001
+  Tokens: ['Correct', 'Reply']
+Rank 14 | Centroid: 'Exactly' | Score: 0.0001
+  Tokens: ['Exactly', 'Enough']
+Rank 15 | Centroid: 'Back' | Score: 0.0001
+  Tokens: ['Back']
+Rank 16 | Centroid: 'Help' | Score: 0.0001
+  Tokens: ['Help', 'Ass']
+Rank 17 | Centroid: 'Among' | Score: 0.0001
+  Tokens: ['Among']
+Rank 18 | Centroid: 'June' | Score: 0.0000
+  Tokens: ['June']
+Rank 19 | Centroid: 'Paragraph' | Score: 0.0000
+  Tokens: ['Paragraph']
+Rank 20 | Centroid: 'None' | Score: 0.0000
+  Tokens: ['None']
 
-**Chosen Concept:** Rank 1 with score 1.0000
+**Chosen Concept:** Rank 1
