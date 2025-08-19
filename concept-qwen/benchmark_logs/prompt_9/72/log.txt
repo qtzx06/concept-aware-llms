@@ -1,0 +1,109 @@
+--- Step 72 Log ---
+
+== Filtered Candidates ==
+Token: ' He' (ID: 1260), Prob: 0.2734
+Token: ' His' (ID: 5301), Prob: 0.2734
+Token: ' Du' (ID: 15687), Prob: 0.1875
+Token: ' The' (ID: 576), Prob: 0.0287
+Token: ' In' (ID: 758), Prob: 0.0287
+Token: ' However' (ID: 4354), Prob: 0.0135
+Token: ' But' (ID: 1988), Prob: 0.0120
+Token: ' After' (ID: 4636), Prob: 0.0120
+Token: ' During' (ID: 11954), Prob: 0.0093
+Token: ' As' (ID: 1634), Prob: 0.0082
+Token: ' At' (ID: 2411), Prob: 0.0056
+Token: ' When' (ID: 3197), Prob: 0.0056
+Token: ' According' (ID: 10548), Prob: 0.0039
+Token: ' It' (ID: 1084), Prob: 0.0030
+Token: ' This' (ID: 1096), Prob: 0.0030
+Token: ' Although' (ID: 10328), Prob: 0.0030
+Token: ' So' (ID: 2055), Prob: 0.0027
+Token: ' There' (ID: 2619), Prob: 0.0021
+Token: ' From' (ID: 5542), Prob: 0.0021
+Token: ' Because' (ID: 9211), Prob: 0.0021
+Token: ' Through' (ID: 16904), Prob: 0.0018
+Token: ' Due' (ID: 23662), Prob: 0.0016
+Token: ' Later' (ID: 24885), Prob: 0.0014
+Token: 'Du' (ID: 42074), Prob: 0.0014
+Token: ' Though' (ID: 17594), Prob: 0.0013
+Token: ' For' (ID: 1752), Prob: 0.0011
+Token: ' With' (ID: 3085), Prob: 0.0011
+Token: ' Most' (ID: 7496), Prob: 0.0011
+Token: ' Many' (ID: 8999), Prob: 0.0011
+Token: ' A' (ID: 362), Prob: 0.0010
+Token: ' Therefore' (ID: 15277), Prob: 0.0010
+Token: 'His' (ID: 15986), Prob: 0.0009
+Token: ' Despite' (ID: 17715), Prob: 0.0009
+Token: ' Among' (ID: 21658), Prob: 0.0009
+Token: ' Fu' (ID: 29253), Prob: 0.0008
+Token: ' And' (ID: 1597), Prob: 0.0007
+Token: ' By' (ID: 3216), Prob: 0.0007
+Token: ' What' (ID: 3555), Prob: 0.0007
+Token: ' One' (ID: 3776), Prob: 0.0007
+Token: ' These' (ID: 4220), Prob: 0.0007
+Token: ' Of' (ID: 4940), Prob: 0.0007
+Token: ' Since' (ID: 8704), Prob: 0.0007
+Token: ' Under' (ID: 9449), Prob: 0.0007
+Token: ' Before' (ID: 13235), Prob: 0.0006
+Token: ' his' (ID: 806), Prob: 0.0005
+Token: ' All' (ID: 2009), Prob: 0.0005
+Token: ' Like' (ID: 8909), Prob: 0.0005
+Token: ' Throughout' (ID: 45882), Prob: 0.0005
+Token: ' D' (ID: 422), Prob: 0.0005
+Token: ' Hu' (ID: 21793), Prob: 0.0005
+Token: 'He' (ID: 1519), Prob: 0.0004
+Token: ' While' (ID: 5976), Prob: 0.0004
+Token: ' Two' (ID: 9043), Prob: 0.0004
+Token: ' Which' (ID: 15920), Prob: 0.0004
+Token: ' Unfortunately' (ID: 18656), Prob: 0.0004
+Token: ' he' (ID: 566), Prob: 0.0003
+Token: ' On' (ID: 1913), Prob: 0.0003
+Token: ' To' (ID: 2014), Prob: 0.0003
+Token: ' Thus' (ID: 14301), Prob: 0.0003
+Token: ' Together' (ID: 31155), Prob: 0.0003
+Token: ' Along' (ID: 31844), Prob: 0.0003
+Token: ' That' (ID: 2938), Prob: 0.0003
+Token: ' Some' (ID: 4329), Prob: 0.0003
+Token: ' Life' (ID: 9414), Prob: 0.0003
+Token: ' We' (ID: 1205), Prob: 0.0002
+Token: ' How' (ID: 2585), Prob: 0.0002
+Token: ' Po' (ID: 13808), Prob: 0.0002
+Token: ' Li' (ID: 14511), Prob: 0.0002
+Token: ' Unlike' (ID: 26048), Prob: 0.0002
+Token: ' They' (ID: 2379), Prob: 0.0002
+
+== Ranked Concepts (Clusters) ==
+Rank 1 | Centroid: ' His' | Score: 0.2754
+  Tokens: [' His', 'His', ' his']
+Rank 2 | Centroid: ' He' | Score: 0.2734
+  Tokens: [' He', 'He', ' he']
+Rank 3 | Centroid: ' Du' | Score: 0.1885
+  Tokens: [' Du', 'Du']
+Rank 4 | Centroid: ' For' | Score: 0.0488
+  Tokens: [' In', ' As', ' At', ' From', ' For', ' With', ' By', ' Of', ' On', ' To']
+Rank 5 | Centroid: ' This' | Score: 0.0393
+  Tokens: [' The', ' It', ' This', ' There', ' What', ' These', ' Which', ' We', ' How', ' They']
+Rank 6 | Centroid: ' During' | Score: 0.0320
+  Tokens: [' After', ' During', ' When', ' According', ' Before', ' Throughout']
+Rank 7 | Centroid: ' Although' | Score: 0.0222
+  Tokens: [' However', ' Although', ' Because', ' Though', ' Despite', ' Since', ' While', ' Unfortunately']
+Rank 8 | Centroid: ' Therefore' | Score: 0.0168
+  Tokens: [' But', ' So', ' Therefore', ' And', ' Thus', ' That']
+Rank 9 | Centroid: ' Many' | Score: 0.0041
+  Tokens: [' Most', ' Many', ' One', ' All', ' Two', ' Some']
+Rank 10 | Centroid: ' Through' | Score: 0.0040
+  Tokens: [' Through', ' Among', ' Under', ' Together', ' Along']
+Rank 11 | Centroid: ' Hu' | Score: 0.0017
+  Tokens: [' Fu', ' Hu', ' Po', ' Li']
+Rank 12 | Centroid: ' Due' | Score: 0.0016
+  Tokens: [' Due']
+Rank 13 | Centroid: ' A' | Score: 0.0014
+  Tokens: [' A', ' D']
+Rank 14 | Centroid: ' Later' | Score: 0.0014
+  Tokens: [' Later']
+Rank 15 | Centroid: ' Like' | Score: 0.0008
+  Tokens: [' Like', ' Unlike']
+Rank 16 | Centroid: ' Life' | Score: 0.0003
+  Tokens: [' Life']
+
+**Chosen Concept:** Rank 1

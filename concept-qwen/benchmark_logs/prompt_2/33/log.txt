@@ -1,0 +1,120 @@
+--- Step 33 Log ---
+
+== Filtered Candidates ==
+Token: ' year' (ID: 1042), Prob: 0.5664
+Token: ' years' (ID: 1635), Prob: 0.3906
+Token: ' season' (ID: 3200), Prob: 0.0194
+Token: ' seasons' (ID: 15584), Prob: 0.0071
+Token: ' two' (ID: 1378), Prob: 0.0043
+Token: ' months' (ID: 3951), Prob: 0.0030
+Token: ' three' (ID: 2326), Prob: 0.0007
+Token: ' decade' (ID: 13212), Prob: 0.0005
+Token: ' summer' (ID: 7324), Prob: 0.0004
+Token: ' few' (ID: 2421), Prob: 0.0003
+Token: ' five' (ID: 4236), Prob: 0.0002
+Token: ' spring' (ID: 10464), Prob: 0.0002
+Token: ' four' (ID: 3040), Prob: 0.0002
+Token: ' six' (ID: 4743), Prob: 0.0001
+Token: ' series' (ID: 4013), Prob: 0.0001
+Token: ' weeks' (ID: 5555), Prob: 0.0001
+Token: ' winter' (ID: 12406), Prob: 0.0001
+Token: ' month' (ID: 2254), Prob: 0.0001
+Token: ' episode' (ID: 9234), Prob: 0.0001
+Token: ' theatre' (ID: 33496), Prob: 0.0001
+Token: ' period' (ID: 4168), Prob: 0.0001
+Token: ' autumn' (ID: 41674), Prob: 0.0001
+Token: ' week' (ID: 2003), Prob: 0.0000
+Token: 'year' (ID: 3157), Prob: 0.0000
+Token: ' calendar' (ID: 13168), Prob: 0.0000
+Token: ' episodes' (ID: 17770), Prob: 0.0000
+Token: ' seven' (ID: 8094), Prob: 0.0000
+Token: ' decades' (ID: 10793), Prob: 0.0000
+Token: ' production' (ID: 5670), Prob: 0.0000
+Token: ' several' (ID: 3807), Prob: 0.0000
+Token: ' television' (ID: 12425), Prob: 0.0000
+Token: ' twelve' (ID: 29235), Prob: 0.0000
+Token: ' days' (ID: 2849), Prob: 0.0000
+Token: ' January' (ID: 6058), Prob: 0.0000
+Token: ' eight' (ID: 8063), Prob: 0.0000
+Token: ' Years' (ID: 22315), Prob: 0.0000
+Token: ' theater' (ID: 26705), Prob: 0.0000
+Token: ' Season' (ID: 14263), Prob: 0.0000
+Token: ' academic' (ID: 14250), Prob: 0.0000
+Token: ' March' (ID: 5470), Prob: 0.0000
+Token: ' Year' (ID: 9742), Prob: 0.0000
+Token: ' Spring' (ID: 12252), Prob: 0.0000
+Token: ' theatrical' (ID: 65233), Prob: 0.0000
+Token: ' film' (ID: 4531), Prob: 0.0000
+Token: ' and' (ID: 323), Prob: 0.0000
+Token: ' show' (ID: 1473), Prob: 0.0000
+Token: ' stage' (ID: 6430), Prob: 0.0000
+Token: ' February' (ID: 7400), Prob: 0.0000
+Token: ' nine' (ID: 11627), Prob: 0.0000
+Token: ' April' (ID: 5813), Prob: 0.0000
+Token: 'years' (ID: 41720), Prob: 0.0000
+Token: ' September' (ID: 6122), Prob: 0.0000
+Token: ' edition' (ID: 13688), Prob: 0.0000
+Token: ' winters' (ID: 84982), Prob: 0.0000
+Token: ' fall' (ID: 4399), Prob: 0.0000
+Token: ' couple' (ID: 5625), Prob: 0.0000
+Token: ' twenty' (ID: 17073), Prob: 0.0000
+Token: ' ye' (ID: 19478), Prob: 0.0000
+Token: ' the' (ID: 279), Prob: 0.0000
+Token: ' May' (ID: 3217), Prob: 0.0000
+Token: ' June' (ID: 5534), Prob: 0.0000
+Token: ' quarter' (ID: 8338), Prob: 0.0000
+Token: ' July' (ID: 5768), Prob: 0.0000
+Token: ' ten' (ID: 5779), Prob: 0.0000
+Token: ' stages' (ID: 17628), Prob: 0.0000
+Token: ' BBC' (ID: 18096), Prob: 0.0000
+Token: ' time' (ID: 882), Prob: 0.0000
+Token: ' October' (ID: 6527), Prob: 0.0000
+Token: ' December' (ID: 6652), Prob: 0.0000
+Token: ' thirteen' (ID: 60659), Prob: 0.0000
+Token: ' subsequent' (ID: 17420), Prob: 0.0000
+Token: ' one' (ID: 825), Prob: 0.0000
+Token: ' theat' (ID: 46113), Prob: 0.0000
+Token: ' summers' (ID: 79669), Prob: 0.0000
+Token: ' shows' (ID: 4933), Prob: 0.0000
+Token: ' TV' (ID: 5883), Prob: 0.0000
+Token: ' editions' (ID: 46534), Prob: 0.0000
+Token: ' term' (ID: 4647), Prob: 0.0000
+Token: ' August' (ID: 6156), Prob: 0.0000
+Token: ' November' (ID: 6702), Prob: 0.0000
+Token: ' tour' (ID: 7216), Prob: 0.0000
+
+== Ranked Concepts (Clusters) ==
+Rank 1 | Centroid: ' year' | Score: 0.5664
+  Tokens: [' year', ' decade', 'year', ' Year']
+Rank 2 | Centroid: ' years' | Score: 0.3945
+  Tokens: [' years', ' months', ' weeks', ' decades', ' days', ' Years', 'years']
+Rank 3 | Centroid: ' season' | Score: 0.0266
+  Tokens: [' season', ' seasons', ' Season']
+Rank 4 | Centroid: ' seven' | Score: 0.0057
+  Tokens: [' two', ' three', ' five', ' four', ' six', ' seven', ' several', ' twelve', ' eight', ' nine', ' twenty', ' ten', ' thirteen']
+Rank 5 | Centroid: ' summer' | Score: 0.0008
+  Tokens: [' summer', ' spring', ' winter', ' autumn', ' Spring', ' winters', ' fall', ' summers']
+Rank 6 | Centroid: ' few' | Score: 0.0003
+  Tokens: [' few', ' couple']
+Rank 7 | Centroid: ' month' | Score: 0.0002
+  Tokens: [' month', ' week', ' calendar', ' quarter']
+Rank 8 | Centroid: ' episode' | Score: 0.0001
+  Tokens: [' episode', ' episodes']
+Rank 9 | Centroid: ' theatre' | Score: 0.0001
+  Tokens: [' theatre', ' theater', ' theatrical', ' theat']
+Rank 10 | Centroid: ' February' | Score: 0.0001
+  Tokens: [' January', ' March', ' February', ' April', ' September', ' May', ' June', ' July', ' October', ' December', ' August', ' November']
+Rank 11 | Centroid: ' period' | Score: 0.0001
+  Tokens: [' period', ' term']
+Rank 12 | Centroid: ' television' | Score: 0.0001
+  Tokens: [' television', ' academic', ' film', ' BBC', ' TV', ' tour']
+Rank 13 | Centroid: ' the' | Score: 0.0000
+  Tokens: [' series', ' production', ' and', ' show', ' the', ' time', ' subsequent', ' one', ' shows']
+Rank 14 | Centroid: ' stage' | Score: 0.0000
+  Tokens: [' stage', ' stages']
+Rank 15 | Centroid: ' edition' | Score: 0.0000
+  Tokens: [' edition', ' editions']
+Rank 16 | Centroid: ' ye' | Score: 0.0000
+  Tokens: [' ye']
+
+**Chosen Concept:** Rank 1

@@ -1,93 +1,98 @@
 --- Step 63 Log ---
 
 == Filtered Candidates ==
-Token: ' could' (ID: 1410), Prob: 0.8008
-Token: ' might' (ID: 2578), Prob: 0.0188
-Token: ' arises' (ID: 47182), Prob: 0.0079
-Token: ' would' (ID: 1035), Prob: 0.0061
-Token: ' comes' (ID: 4041), Prob: 0.0016
-Token: ' involves' (ID: 17601), Prob: 0.0015
-Token: ' seems' (ID: 4977), Prob: 0.0007
-Token: ' probably' (ID: 4658), Prob: 0.0004
-Token: ' perhaps' (ID: 8365), Prob: 0.0003
-Token: ' like' (ID: 1075), Prob: 0.0003
-Token: ' related' (ID: 5435), Prob: 0.0003
-Token: ' likely' (ID: 4363), Prob: 0.0002
-Token: ' needs' (ID: 3880), Prob: 0.0002
-Token: ' maybe' (ID: 7196), Prob: 0.0001
-Token: ' may' (ID: 1231), Prob: 0.0001
-Token: ' around' (ID: 2163), Prob: 0.0001
-Token: ' must' (ID: 1969), Prob: 0.0001
-Token: ' involving' (ID: 15860), Prob: 0.0001
-Token: ' involved' (ID: 6398), Prob: 0.0001
-Token: ' occurs' (ID: 13666), Prob: 0.0000
-Token: ' part' (ID: 949), Prob: 0.0000
-Token: '-related' (ID: 13904), Prob: 0.0000
-Token: ' within' (ID: 2878), Prob: 0.0000
-Token: ' inside' (ID: 4766), Prob: 0.0000
-Token: ' element' (ID: 2392), Prob: 0.0000
-Token: ' happens' (ID: 8573), Prob: 0.0000
-Token: ' elements' (ID: 5424), Prob: 0.0000
-Token: ' sounds' (ID: 10362), Prob: 0.0000
-Token: ' appears' (ID: 7952), Prob: 0.0000
-Token: ' revolves' (ID: 78376), Prob: 0.0000
-Token: ' something' (ID: 2494), Prob: 0.0000
-Token: ' due' (ID: 4152), Prob: 0.0000
-Token: ' starts' (ID: 8471), Prob: 0.0000
-Token: ' feels' (ID: 11074), Prob: 0.0000
-Token: ' often' (ID: 3545), Prob: 0.0000
-Token: ' usually' (ID: 5990), Prob: 0.0000
-Token: ' suggests' (ID: 13230), Prob: 0.0000
-Token: ' surrounding' (ID: 14590), Prob: 0.0000
-Token: ' nearby' (ID: 14046), Prob: 0.0000
-Token: ' since' (ID: 2474), Prob: 0.0000
-Token: ' possible' (ID: 3204), Prob: 0.0000
-Token: ' points' (ID: 3501), Prob: 0.0000
-Token: ' includes' (ID: 5646), Prob: 0.0000
-Token: ' relates' (ID: 35616), Prob: 0.0000
-Token: ' introduces' (ID: 38919), Prob: 0.0000
-Token: ' options' (ID: 2606), Prob: 0.0000
-Token: ' angle' (ID: 9210), Prob: 0.0000
-Token: ' adds' (ID: 11367), Prob: 0.0000
-Token: ' right' (ID: 1290), Prob: 0.0000
-Token: ' surrounds' (ID: 70274), Prob: 0.0000
-Token: ' ideas' (ID: 6708), Prob: 0.0000
-Token: ' feelings' (ID: 15650), Prob: 0.0000
-Token: ' resolution' (ID: 10935), Prob: 0.0000
-Token: ' arise' (ID: 30789), Prob: 0.0000
+Token: ' It' (ID: 1084), Prob: 1.0000
+Token: ' it' (ID: 432), Prob: 0.0005
+Token: 'It' (ID: 2132), Prob: 0.0000
+Token: ' If' (ID: 1416), Prob: 0.0000
+Token: ' Its' (ID: 11445), Prob: 0.0000
+Token: ' IT' (ID: 8700), Prob: 0.0000
+Token: ' I' (ID: 358), Prob: 0.0000
+Token: '.It' (ID: 27528), Prob: 0.0000
+Token: ' The' (ID: 576), Prob: 0.0000
+Token: ' In' (ID: 758), Prob: 0.0000
+Token: ' What' (ID: 3555), Prob: 0.0000
+Token: ' Let' (ID: 6771), Prob: 0.0000
+Token: ' This' (ID: 1096), Prob: 0.0000
+Token: ' At' (ID: 2411), Prob: 0.0000
+Token: '_it' (ID: 14631), Prob: 0.0000
+Token: ' That' (ID: 2938), Prob: 0.0000
+Token: ' Ice' (ID: 19939), Prob: 0.0000
+Token: ' the' (ID: 279), Prob: 0.0000
+Token: ' With' (ID: 3085), Prob: 0.0000
+Token: ' Of' (ID: 4940), Prob: 0.0000
+Token: ' We' (ID: 1205), Prob: 0.0000
+Token: '	It' (ID: 61535), Prob: 0.0000
+Token: ' Time' (ID: 4120), Prob: 0.0000
+Token: ' Yet' (ID: 14626), Prob: 0.0000
+Token: ' Life' (ID: 9414), Prob: 0.0000
+Token: ' For' (ID: 1752), Prob: 0.0000
+Token: ''It' (ID: 74650), Prob: 0.0000
+Token: ' Il' (ID: 7543), Prob: 0.0000
+Token: ' Is' (ID: 2160), Prob: 0.0000
+Token: ' Italy' (ID: 15344), Prob: 0.0000
+Token: ' One' (ID: 3776), Prob: 0.0000
+Token: ' Out' (ID: 4371), Prob: 0.0000
+Token: ' W' (ID: 467), Prob: 0.0000
+Token: ' Part' (ID: 3660), Prob: 0.0000
+Token: ' White' (ID: 5807), Prob: 0.0000
+Token: '-it' (ID: 37511), Prob: 0.0000
+Token: ' But' (ID: 1988), Prob: 0.0000
+Token: ' Id' (ID: 5223), Prob: 0.0000
+Token: '"It' (ID: 12077), Prob: 0.0000
+Token: ' Now' (ID: 4695), Prob: 0.0000
+Token: ' Water' (ID: 9959), Prob: 0.0000
+Token: ' Ireland' (ID: 14648), Prob: 0.0000
+Token: ' Not' (ID: 2806), Prob: 0.0000
+Token: ' When' (ID: 3197), Prob: 0.0000
+Token: ' These' (ID: 4220), Prob: 0.0000
+Token: ' Work' (ID: 5547), Prob: 0.0000
+Token: ' if' (ID: 421), Prob: 0.0000
+Token: ' You' (ID: 1446), Prob: 0.0000
+Token: ' Kit' (ID: 20951), Prob: 0.0000
+Token: ' Wit' (ID: 71859), Prob: 0.0000
+Token: ' A' (ID: 362), Prob: 0.0000
+Token: ' On' (ID: 1913), Prob: 0.0000
+Token: ' Wait' (ID: 13824), Prob: 0.0000
+Token: ' T' (ID: 350), Prob: 0.0000
+Token: ' However' (ID: 4354), Prob: 0.0000
+Token: ' Note' (ID: 7036), Prob: 0.0000
+Token: ',it' (ID: 79724), Prob: 0.0000
 
 == Ranked Concepts (Clusters) ==
-Rank 1 | Centroid: ' might' | Score: 0.8242
-  Tokens: [' could', ' might', ' would', ' may', ' must']
-Rank 2 | Centroid: ' arises' | Score: 0.0096
-  Tokens: [' arises', ' comes', ' occurs', ' happens', ' arise']
-Rank 3 | Centroid: ' involves' | Score: 0.0017
-  Tokens: [' involves', ' involving', ' involved']
-Rank 4 | Centroid: ' perhaps' | Score: 0.0010
-  Tokens: [' probably', ' perhaps', ' likely', ' maybe', ' possible']
-Rank 5 | Centroid: ' seems' | Score: 0.0008
-  Tokens: [' seems', ' appears', ' starts', ' suggests', ' includes', ' introduces', ' adds']
-Rank 6 | Centroid: ' within' | Score: 0.0004
-  Tokens: [' like', ' within', ' inside', ' due', ' since', ' right']
-Rank 7 | Centroid: ' related' | Score: 0.0003
-  Tokens: [' related', '-related', ' relates']
-Rank 8 | Centroid: ' surrounding' | Score: 0.0002
-  Tokens: [' around', ' surrounding', ' nearby', ' surrounds']
-Rank 9 | Centroid: ' needs' | Score: 0.0002
-  Tokens: [' needs']
-Rank 10 | Centroid: ' feelings' | Score: 0.0001
-  Tokens: [' sounds', ' feels', ' options', ' ideas', ' feelings']
-Rank 11 | Centroid: ' element' | Score: 0.0001
-  Tokens: [' element', ' elements', ' angle']
-Rank 12 | Centroid: ' part' | Score: 0.0001
-  Tokens: [' part', ' points']
-Rank 13 | Centroid: ' often' | Score: 0.0000
-  Tokens: [' often', ' usually']
-Rank 14 | Centroid: ' revolves' | Score: 0.0000
-  Tokens: [' revolves']
-Rank 15 | Centroid: ' something' | Score: 0.0000
-  Tokens: [' something']
-Rank 16 | Centroid: ' resolution' | Score: 0.0000
-  Tokens: [' resolution']
+Rank 1 | Centroid: ' It' | Score: 1.0000
+  Tokens: [' It', ' it', 'It', '.It', '_it', '\tIt', "'It", '-it', '"It', ',it']
+Rank 2 | Centroid: ' If' | Score: 0.0000
+  Tokens: [' If', ' if']
+Rank 3 | Centroid: ' Its' | Score: 0.0000
+  Tokens: [' Its']
+Rank 4 | Centroid: ' IT' | Score: 0.0000
+  Tokens: [' IT']
+Rank 5 | Centroid: ' This' | Score: 0.0000
+  Tokens: [' The', ' What', ' Let', ' This', ' That', ' We', ' When', ' These', ' You']
+Rank 6 | Centroid: ' the' | Score: 0.0000
+  Tokens: [' I', ' the', ' W', ' A', ' T']
+Rank 7 | Centroid: ' For' | Score: 0.0000
+  Tokens: [' In', ' At', ' With', ' Of', ' For', ' On']
+Rank 8 | Centroid: ' Il' | Score: 0.0000
+  Tokens: [' Ice', ' Il', ' Is', ' Id']
+Rank 9 | Centroid: ' Water' | Score: 0.0000
+  Tokens: [' Time', ' Life', ' White', ' Water', ' Work']
+Rank 10 | Centroid: ' However' | Score: 0.0000
+  Tokens: [' Yet', ' But', ' Now', ' However']
+Rank 11 | Centroid: ' Not' | Score: 0.0000
+  Tokens: [' Part', ' Not', ' Note']
+Rank 12 | Centroid: ' Italy' | Score: 0.0000
+  Tokens: [' Italy', ' Ireland']
+Rank 13 | Centroid: ' One' | Score: 0.0000
+  Tokens: [' One']
+Rank 14 | Centroid: ' Out' | Score: 0.0000
+  Tokens: [' Out']
+Rank 15 | Centroid: ' Kit' | Score: 0.0000
+  Tokens: [' Kit']
+Rank 16 | Centroid: ' Wit' | Score: 0.0000
+  Tokens: [' Wit']
+Rank 17 | Centroid: ' Wait' | Score: 0.0000
+  Tokens: [' Wait']
 
 **Chosen Concept:** Rank 1

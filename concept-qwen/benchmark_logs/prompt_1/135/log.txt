@@ -1,149 +1,113 @@
 --- Step 135 Log ---
 
 == Filtered Candidates ==
-Token: ' home' (ID: 2114), Prob: 0.5078
-Token: ' house' (ID: 3753), Prob: 0.4492
-Token: ' family' (ID: 2997), Prob: 0.0030
-Token: ' room' (ID: 3054), Prob: 0.0028
-Token: ' childhood' (ID: 19990), Prob: 0.0023
-Token: ' current' (ID: 1482), Prob: 0.0018
-Token: ' hometown' (ID: 43016), Prob: 0.0016
-Token: ' old' (ID: 2310), Prob: 0.0013
-Token: ' original' (ID: 4024), Prob: 0.0011
-Token: ' previous' (ID: 3681), Prob: 0.0009
-Token: ' personal' (ID: 4345), Prob: 0.0007
-Token: ' living' (ID: 5382), Prob: 0.0007
-Token: ' kitchen' (ID: 9780), Prob: 0.0006
-Token: ' first' (ID: 1156), Prob: 0.0006
-Token: ' usual' (ID: 13475), Prob: 0.0006
-Token: ' new' (ID: 501), Prob: 0.0005
-Token: ' main' (ID: 1887), Prob: 0.0005
-Token: ' household' (ID: 13732), Prob: 0.0005
-Token: ' backyard' (ID: 35660), Prob: 0.0004
-Token: ' present' (ID: 3042), Prob: 0.0004
-Token: ' bedroom' (ID: 13829), Prob: 0.0004
-Token: ' small' (ID: 2613), Prob: 0.0003
-Token: ' immediate' (ID: 13922), Prob: 0.0003
-Token: ' town' (ID: 6290), Prob: 0.0003
-Token: ' mother' (ID: 6554), Prob: 0.0002
-Token: ' city' (ID: 3283), Prob: 0.0002
-Token: ' physical' (ID: 6961), Prob: 0.0002
-Token: ' daily' (ID: 7298), Prob: 0.0002
-Token: ' apartment' (ID: 13154), Prob: 0.0002
-Token: ' natural' (ID: 5810), Prob: 0.0002
-Token: ' private' (ID: 869), Prob: 0.0002
-Token: ' former' (ID: 4741), Prob: 0.0002
-Token: ' favorite' (ID: 6930), Prob: 0.0002
-Token: ' neighborhood' (ID: 12534), Prob: 0.0002
-Token: ' normal' (ID: 4622), Prob: 0.0002
-Token: ' residence' (ID: 21682), Prob: 0.0002
-Token: ' hom' (ID: 4998), Prob: 0.0002
-Token: ' village' (ID: 14126), Prob: 0.0002
-Token: ' past' (ID: 3267), Prob: 0.0002
-Token: ' familiar' (ID: 11285), Prob: 0.0002
-Token: ' place' (ID: 1992), Prob: 0.0001
-Token: ' actual' (ID: 5042), Prob: 0.0001
-Token: ' primary' (ID: 6028), Prob: 0.0001
-Token: ' interior' (ID: 14791), Prob: 0.0001
-Token: ' parents' (ID: 6562), Prob: 0.0001
-Token: ' real' (ID: 1931), Prob: 0.0001
-Token: ' life' (ID: 2272), Prob: 0.0001
-Token: ' traditional' (ID: 8606), Prob: 0.0001
-Token: ' environment' (ID: 4573), Prob: 0.0001
-Token: ' father' (ID: 6981), Prob: 0.0001
-Token: ' heart' (ID: 4746), Prob: 0.0001
-Token: ' everyday' (ID: 17778), Prob: 0.0001
-Token: ' native' (ID: 9867), Prob: 0.0001
-Token: ' typical' (ID: 14260), Prob: 0.0001
-Token: ' initial' (ID: 2856), Prob: 0.0001
-Token: ' car' (ID: 1803), Prob: 0.0001
-Token: ' school' (ID: 2906), Prob: 0.0001
-Token: ' dream' (ID: 7904), Prob: 0.0001
-Token: ' domestic' (ID: 12728), Prob: 0.0001
-Token: ' garden' (ID: 13551), Prob: 0.0001
-Token: ' day' (ID: 1899), Prob: 0.0001
-Token: ' second' (ID: 2086), Prob: 0.0001
-Token: ' regular' (ID: 5792), Prob: 0.0001
-Token: ' country' (ID: 3146), Prob: 0.0001
-Token: ' grandmother' (ID: 38184), Prob: 0.0001
-Token: ' office' (ID: 5163), Prob: 0.0001
-Token: ' studio' (ID: 14029), Prob: 0.0001
-Token: ' homeland' (ID: 55236), Prob: 0.0001
-Token: ' ancestral' (ID: 77671), Prob: 0.0001
-Token: ' back' (ID: 1182), Prob: 0.0001
-Token: ' character' (ID: 3668), Prob: 0.0001
-Token: ' local' (ID: 2205), Prob: 0.0001
-Token: ' front' (ID: 4065), Prob: 0.0000
-Token: ' early' (ID: 4124), Prob: 0.0000
-Token: ' classroom' (ID: 24017), Prob: 0.0000
-Token: ' outside' (ID: 4889), Prob: 0.0000
-Token: ' homes' (ID: 10415), Prob: 0.0000
-Token: ' parent' (ID: 2681), Prob: 0.0000
-Token: ' late' (ID: 3309), Prob: 0.0000
-Token: ' morning' (ID: 6556), Prob: 0.0000
-Token: ' residential' (ID: 20057), Prob: 0.0000
-Token: ' attic' (ID: 73621), Prob: 0.0000
-Token: ' mind' (ID: 3971), Prob: 0.0000
-Token: ' imagination' (ID: 27799), Prob: 0.0000
-Token: ' world' (ID: 1879), Prob: 0.0000
-Token: ' inner' (ID: 9179), Prob: 0.0000
-Token: ' housing' (ID: 11721), Prob: 0.0000
-Token: ' head' (ID: 1968), Prob: 0.0000
-Token: ' modern' (ID: 6481), Prob: 0.0000
-Token: ' yard' (ID: 19515), Prob: 0.0000
-Token: ' cottage' (ID: 45622), Prob: 0.0000
-Token: ' dwelling' (ID: 50588), Prob: 0.0000
-Token: ' final' (ID: 1590), Prob: 0.0000
-Token: ' location' (ID: 3728), Prob: 0.0000
-Token: ' prison' (ID: 9343), Prob: 0.0000
-Token: ' outdoor' (ID: 15789), Prob: 0.0000
-Token: ' rural' (ID: 19082), Prob: 0.0000
-Token: ' ordinary' (ID: 19119), Prob: 0.0000
+Token: ' appeared' (ID: 9723), Prob: 1.0000
+Token: 'appeared' (ID: 98467), Prob: 0.0000
+Token: ' appear' (ID: 4994), Prob: 0.0000
+Token: ' played' (ID: 6342), Prob: 0.0000
+Token: ' appears' (ID: 7952), Prob: 0.0000
+Token: ' been' (ID: 1012), Prob: 0.0000
+Token: ' starred' (ID: 58235), Prob: 0.0000
+Token: ' acted' (ID: 30432), Prob: 0.0000
+Token: ' performed' (ID: 10660), Prob: 0.0000
+Token: ' featured' (ID: 14766), Prob: 0.0000
+Token: ' appearing' (ID: 25377), Prob: 0.0000
+Token: ' worked' (ID: 6439), Prob: 0.0000
+Token: ' apare' (ID: 55170), Prob: 0.0000
+Token: ' appearance' (ID: 11094), Prob: 0.0000
+Token: ' participated' (ID: 30308), Prob: 0.0000
+Token: ' served' (ID: 10223), Prob: 0.0000
+Token: ' represented' (ID: 15251), Prob: 0.0000
+Token: ' in' (ID: 304), Prob: 0.0000
+Token: ' remained' (ID: 14616), Prob: 0.0000
+Token: ' appare' (ID: 96162), Prob: 0.0000
+Token: ' also' (ID: 1083), Prob: 0.0000
+Token: ' portrayed' (ID: 44777), Prob: 0.0000
+Token: ' continued' (ID: 8570), Prob: 0.0000
+Token: ' produced' (ID: 8947), Prob: 0.0000
+Token: ' made' (ID: 1865), Prob: 0.0000
+Token: ' prepared' (ID: 10030), Prob: 0.0000
+Token: ' apparently' (ID: 13812), Prob: 0.0000
+Token: ' seen' (ID: 3884), Prob: 0.0000
+Token: ' presented' (ID: 10449), Prob: 0.0000
+Token: ' emerged' (ID: 21992), Prob: 0.0000
+Token: 'Appe' (ID: 84363), Prob: 0.0000
+Token: ' aired' (ID: 41987), Prob: 0.0000
+Token: ' a' (ID: 264), Prob: 0.0000
+Token: ' appearances' (ID: 26255), Prob: 0.0000
+Token: ' previously' (ID: 8597), Prob: 0.0000
+Token: ' occurred' (ID: 10017), Prob: 0.0000
+Token: ' added' (ID: 3694), Prob: 0.0000
+Token: ' joined' (ID: 10859), Prob: 0.0000
+Token: ' stared' (ID: 44035), Prob: 0.0000
+Token: ' preceded' (ID: 52480), Prob: 0.0000
+Token: ' returned' (ID: 5927), Prob: 0.0000
+Token: ' contributed' (ID: 19590), Prob: 0.0000
+Token: ' entered' (ID: 10636), Prob: 0.0000
+Token: ' Appe' (ID: 28054), Prob: 0.0000
+Token: ' considered' (ID: 6509), Prob: 0.0000
+Token: ' formed' (ID: 14122), Prob: 0.0000
+Token: ' collaborated' (ID: 77074), Prob: 0.0000
+Token: ' referred' (ID: 13862), Prob: 0.0000
+Token: ' accepted' (ID: 11666), Prob: 0.0000
+Token: ' had' (ID: 1030), Prob: 0.0000
+Token: ' re' (ID: 312), Prob: 0.0000
+Token: ' began' (ID: 6009), Prob: 0.0000
+Token: ' photographed' (ID: 56203), Prob: 0.0000
+Token: ' premiered' (ID: 84070), Prob: 0.0000
+Token: ' provided' (ID: 3897), Prob: 0.0000
+Token: ' written' (ID: 5326), Prob: 0.0000
+Token: ' arrived' (ID: 11465), Prob: 0.0000
+Token: ' disappeared' (ID: 28396), Prob: 0.0000
+Token: ' appealed' (ID: 52282), Prob: 0.0000
+Token: ' and' (ID: 323), Prob: 0.0000
+Token: ' placed' (ID: 9099), Prob: 0.0000
+Token: ' seemed' (ID: 9324), Prob: 0.0000
 
 == Ranked Concepts (Clusters) ==
-Rank 1 | Centroid: ' home' | Score: 0.5078
-  Tokens: [' home', ' hom', ' domestic', ' homes']
-Rank 2 | Centroid: ' residential' | Score: 0.4492
-  Tokens: [' house', ' household', ' residence', ' residential', ' housing', ' dwelling']
-Rank 3 | Centroid: ' previous' | Score: 0.0049
-  Tokens: [' current', ' old', ' previous', ' present', ' former', ' past']
-Rank 4 | Centroid: ' kitchen' | Score: 0.0044
-  Tokens: [' room', ' kitchen', ' bedroom', ' apartment', ' garden', ' office', ' studio', ' classroom', ' attic', ' yard', ' prison']
-Rank 5 | Centroid: ' parents' | Score: 0.0036
-  Tokens: [' family', ' mother', ' parents', ' father', ' parent']
-Rank 6 | Centroid: ' ancestral' | Score: 0.0025
-  Tokens: [' childhood', ' grandmother', ' ancestral']
-Rank 7 | Centroid: ' hometown' | Score: 0.0024
-  Tokens: [' hometown', ' backyard', ' neighborhood', ' homeland', ' cottage', ' rural']
-Rank 8 | Centroid: ' first' | Score: 0.0022
-  Tokens: [' first', ' new', ' main', ' small', ' primary', ' second', ' final']
-Rank 9 | Centroid: ' initial' | Score: 0.0015
-  Tokens: [' original', ' immediate', ' initial']
-Rank 10 | Centroid: ' native' | Score: 0.0015
-  Tokens: [' personal', ' physical', ' natural', ' private', ' native', ' local']
-Rank 11 | Centroid: ' usual' | Score: 0.0012
-  Tokens: [' usual', ' normal', ' familiar', ' traditional', ' typical', ' regular', ' ordinary']
-Rank 12 | Centroid: ' town' | Score: 0.0008
-  Tokens: [' town', ' city', ' village', ' school', ' country']
-Rank 13 | Centroid: ' living' | Score: 0.0008
-  Tokens: [' living', ' life']
-Rank 14 | Centroid: ' daily' | Score: 0.0005
-  Tokens: [' daily', ' everyday', ' day', ' morning']
-Rank 15 | Centroid: ' location' | Score: 0.0004
-  Tokens: [' place', ' environment', ' character', ' world', ' location']
-Rank 16 | Centroid: ' actual' | Score: 0.0003
-  Tokens: [' actual', ' real', ' modern']
-Rank 17 | Centroid: ' heart' | Score: 0.0003
-  Tokens: [' heart', ' back', ' front', ' mind', ' head']
-Rank 18 | Centroid: ' interior' | Score: 0.0003
-  Tokens: [' interior', ' outside', ' inner', ' outdoor']
-Rank 19 | Centroid: ' favorite' | Score: 0.0002
-  Tokens: [' favorite']
-Rank 20 | Centroid: ' dream' | Score: 0.0001
-  Tokens: [' dream', ' imagination']
-Rank 21 | Centroid: ' early' | Score: 0.0001
-  Tokens: [' early', ' late']
-Rank 22 | Centroid: ' car' | Score: 0.0001
-  Tokens: [' car']
+Rank 1 | Centroid: ' appear' | Score: 1.0000
+  Tokens: [' appeared', 'appeared', ' appear', ' appears', ' appearing', ' apare', ' appearance', ' appearances']
+Rank 2 | Centroid: ' served' | Score: 0.0000
+  Tokens: [' played', ' acted', ' worked', ' served']
+Rank 3 | Centroid: ' been' | Score: 0.0000
+  Tokens: [' been', ' had']
+Rank 4 | Centroid: ' starred' | Score: 0.0000
+  Tokens: [' starred', ' stared']
+Rank 5 | Centroid: ' portrayed' | Score: 0.0000
+  Tokens: [' featured', ' represented', ' portrayed', ' presented', ' provided']
+Rank 6 | Centroid: ' produced' | Score: 0.0000
+  Tokens: [' performed', ' produced', ' made', ' formed', ' placed']
+Rank 7 | Centroid: ' participated' | Score: 0.0000
+  Tokens: [' participated', ' contributed', ' collaborated']
+Rank 8 | Centroid: ' in' | Score: 0.0000
+  Tokens: [' in', ' also', ' a', ' re', ' and']
+Rank 9 | Centroid: ' seemed' | Score: 0.0000
+  Tokens: [' remained', ' began', ' disappeared', ' seemed']
+Rank 10 | Centroid: ' appare' | Score: 0.0000
+  Tokens: [' appare']
+Rank 11 | Centroid: ' prepared' | Score: 0.0000
+  Tokens: [' prepared', ' joined']
+Rank 12 | Centroid: ' continued' | Score: 0.0000
+  Tokens: [' continued']
+Rank 13 | Centroid: ' apparently' | Score: 0.0000
+  Tokens: [' apparently', ' previously']
+Rank 14 | Centroid: ' emerged' | Score: 0.0000
+  Tokens: [' emerged', ' occurred', ' arrived']
+Rank 15 | Centroid: 'Appe' | Score: 0.0000
+  Tokens: ['Appe', ' Appe', ' appealed']
+Rank 16 | Centroid: ' seen' | Score: 0.0000
+  Tokens: [' seen', ' written']
+Rank 17 | Centroid: ' aired' | Score: 0.0000
+  Tokens: [' aired', ' premiered']
+Rank 18 | Centroid: ' returned' | Score: 0.0000
+  Tokens: [' returned', ' entered']
+Rank 19 | Centroid: ' added' | Score: 0.0000
+  Tokens: [' added', ' accepted']
+Rank 20 | Centroid: ' considered' | Score: 0.0000
+  Tokens: [' considered', ' referred']
+Rank 21 | Centroid: ' preceded' | Score: 0.0000
+  Tokens: [' preceded']
+Rank 22 | Centroid: ' photographed' | Score: 0.0000
+  Tokens: [' photographed']
 
 **Chosen Concept:** Rank 1

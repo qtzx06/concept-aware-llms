@@ -1,0 +1,109 @@
+--- Step 124 Log ---
+
+== Filtered Candidates ==
+Token: ' Pool' (ID: 22728), Prob: 1.0000
+Token: ' P' (ID: 393), Prob: 0.0000
+Token: 'Pool' (ID: 10551), Prob: 0.0000
+Token: '_pool' (ID: 15709), Prob: 0.0000
+Token: ' Path' (ID: 7933), Prob: 0.0000
+Token: ' pool' (ID: 7314), Prob: 0.0000
+Token: ' Po' (ID: 13808), Prob: 0.0000
+Token: ' Plot' (ID: 26033), Prob: 0.0000
+Token: ' Hall' (ID: 10926), Prob: 0.0000
+Token: ' Pair' (ID: 25995), Prob: 0.0000
+Token: ' Flow' (ID: 22452), Prob: 0.0000
+Token: ' Project' (ID: 5787), Prob: 0.0000
+Token: '	P' (ID: 10025), Prob: 0.0000
+Token: ' Plant' (ID: 17838), Prob: 0.0000
+Token: '.Pool' (ID: 89701), Prob: 0.0000
+Token: ' Pump' (ID: 33726), Prob: 0.0000
+Token: '_POOL' (ID: 51924), Prob: 0.0000
+Token: ' Player' (ID: 7312), Prob: 0.0000
+Token: ' Pod' (ID: 16821), Prob: 0.0000
+Token: ' Film' (ID: 16631), Prob: 0.0000
+Token: ' Echo' (ID: 37806), Prob: 0.0000
+Token: ' and' (ID: 323), Prob: 0.0000
+Token: ' Pal' (ID: 10925), Prob: 0.0000
+Token: ' Park' (ID: 5540), Prob: 0.0000
+Token: ' Field' (ID: 8601), Prob: 0.0000
+Token: ' Cell' (ID: 13972), Prob: 0.0000
+Token: ' Pipe' (ID: 27805), Prob: 0.0000
+Token: ' Duel' (ID: 57194), Prob: 0.0000
+Token: 'pool' (ID: 10285), Prob: 0.0000
+Token: ' Patient' (ID: 28924), Prob: 0.0000
+Token: ' Podcast' (ID: 29769), Prob: 0.0000
+Token: ' Movie' (ID: 13944), Prob: 0.0000
+Token: ' Poll' (ID: 24385), Prob: 0.0000
+Token: ' Pull' (ID: 31828), Prob: 0.0000
+Token: ' Fluid' (ID: 59596), Prob: 0.0000
+Token: ' Pond' (ID: 70865), Prob: 0.0000
+Token: ' in' (ID: 304), Prob: 0.0000
+Token: ' Group' (ID: 5737), Prob: 0.0000
+Token: '_P' (ID: 1088), Prob: 0.0000
+Token: ' Population' (ID: 39529), Prob: 0.0000
+Token: ' Pulse' (ID: 49249), Prob: 0.0000
+Token: ' Play' (ID: 7054), Prob: 0.0000
+Token: ' Family' (ID: 12238), Prob: 0.0000
+Token: ' Aqu' (ID: 22959), Prob: 0.0000
+Token: '-P' (ID: 9299), Prob: 0.0000
+Token: ' PO' (ID: 12932), Prob: 0.0000
+Token: ' Row' (ID: 10801), Prob: 0.0000
+Token: ' Body' (ID: 13958), Prob: 0.0000
+Token: ' D' (ID: 422), Prob: 0.0000
+Token: ' Photo' (ID: 10828), Prob: 0.0000
+Token: ' Tank' (ID: 31394), Prob: 0.0000
+Token: ' of' (ID: 315), Prob: 0.0000
+Token: ' Post' (ID: 3877), Prob: 0.0000
+Token: ' Potion' (ID: 74841), Prob: 0.0000
+Token: ' Part' (ID: 3660), Prob: 0.0000
+Token: ' Police' (ID: 10082), Prob: 0.0000
+Token: ' Gallery' (ID: 19295), Prob: 0.0000
+Token: '.pool' (ID: 38963), Prob: 0.0000
+Token: ' Place' (ID: 10771), Prob: 0.0000
+Token: ' Kill' (ID: 26835), Prob: 0.0000
+Token: ' Puzzle' (ID: 60012), Prob: 0.0000
+Token: ' G' (ID: 479), Prob: 0.0000
+Token: ' Fish' (ID: 16608), Prob: 0.0000
+Token: ' Picture' (ID: 24568), Prob: 0.0000
+Token: ' Lobby' (ID: 62966), Prob: 0.0000
+Token: ' by' (ID: 553), Prob: 0.0000
+Token: ' Pol' (ID: 3651), Prob: 0.0000
+Token: ' Loop' (ID: 21359), Prob: 0.0000
+Token: ' Poison' (ID: 51112), Prob: 0.0000
+Token: ' as' (ID: 438), Prob: 0.0000
+
+== Ranked Concepts (Clusters) ==
+Rank 1 | Centroid: ' Pool' | Score: 1.0000
+  Tokens: [' Pool', 'Pool', '_pool', ' pool', '.Pool', '_POOL', ' Park', 'pool', '.pool']
+Rank 2 | Centroid: '_P' | Score: 0.0000
+  Tokens: [' P', '\tP', '_P', '-P']
+Rank 3 | Centroid: ' Group' | Score: 0.0000
+  Tokens: [' Path', ' Pair', ' Field', ' Cell', ' Group', ' Population', ' Family', ' Row', ' Body']
+Rank 4 | Centroid: ' Po' | Score: 0.0000
+  Tokens: [' Po', ' PO', ' Poison']
+Rank 5 | Centroid: ' Plot' | Score: 0.0000
+  Tokens: [' Plot', ' Play']
+Rank 6 | Centroid: ' Lobby' | Score: 0.0000
+  Tokens: [' Hall', ' Duel', ' Lobby']
+Rank 7 | Centroid: ' Fish' | Score: 0.0000
+  Tokens: [' Flow', ' Pipe', ' Fluid', ' Aqu', ' Tank', ' Fish']
+Rank 8 | Centroid: ' Patient' | Score: 0.0000
+  Tokens: [' Plant', ' Player', ' Patient']
+Rank 9 | Centroid: ' Part' | Score: 0.0000
+  Tokens: [' Project', ' Post', ' Part', ' Place']
+Rank 10 | Centroid: ' Podcast' | Score: 0.0000
+  Tokens: [' Pod', ' Podcast', ' Pond']
+Rank 11 | Centroid: ' in' | Score: 0.0000
+  Tokens: [' and', ' in', ' D', ' of', ' G', ' by', ' as']
+Rank 12 | Centroid: ' Movie' | Score: 0.0000
+  Tokens: [' Film', ' Movie', ' Photo', ' Gallery', ' Picture']
+Rank 13 | Centroid: ' Pulse' | Score: 0.0000
+  Tokens: [' Echo', ' Pull', ' Pulse']
+Rank 14 | Centroid: ' Police' | Score: 0.0000
+  Tokens: [' Pal', ' Poll', ' Police', ' Pol']
+Rank 15 | Centroid: ' Potion' | Score: 0.0000
+  Tokens: [' Pump', ' Potion', ' Puzzle']
+Rank 16 | Centroid: ' Kill' | Score: 0.0000
+  Tokens: [' Kill', ' Loop']
+
+**Chosen Concept:** Rank 1

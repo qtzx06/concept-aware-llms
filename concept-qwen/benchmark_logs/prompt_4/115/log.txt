@@ -1,0 +1,83 @@
+--- Step 115 Log ---
+
+== Filtered Candidates ==
+Token: ' same' (ID: 1852), Prob: 1.0000
+Token: ' year' (ID: 1042), Prob: 0.0001
+Token: 'same' (ID: 24063), Prob: 0.0000
+Token: ' Same' (ID: 25739), Prob: 0.0000
+Token: '_same' (ID: 33574), Prob: 0.0000
+Token: ' time' (ID: 882), Prob: 0.0000
+Token: 'Same' (ID: 19198), Prob: 0.0000
+Token: ' first' (ID: 1156), Prob: 0.0000
+Token: ' very' (ID: 1602), Prob: 0.0000
+Token: ' sam' (ID: 9962), Prob: 0.0000
+Token: ' sama' (ID: 66623), Prob: 0.0000
+Token: ' the' (ID: 279), Prob: 0.0000
+Token: ' following' (ID: 2701), Prob: 0.0000
+Token: ' exact' (ID: 4734), Prob: 0.0000
+Token: '.same' (ID: 97503), Prob: 0.0000
+Token: ' day' (ID: 1899), Prob: 0.0000
+Token: ' month' (ID: 2254), Prob: 0.0000
+Token: ' date' (ID: 2400), Prob: 0.0000
+Token: ' years' (ID: 1635), Prob: 0.0000
+Token: ' single' (ID: 3175), Prob: 0.0000
+Token: ' last' (ID: 1537), Prob: 0.0000
+Token: ' s' (ID: 274), Prob: 0.0000
+Token: ' second' (ID: 2086), Prob: 0.0000
+Token: ' sa' (ID: 822), Prob: 0.0000
+Token: ' one' (ID: 825), Prob: 0.0000
+Token: ' only' (ID: 1172), Prob: 0.0000
+Token: ' total' (ID: 2790), Prob: 0.0000
+Token: ' Year' (ID: 9742), Prob: 0.0000
+Token: ' mesma' (ID: 94310), Prob: 0.0000
+Token: ' mismo' (ID: 35894), Prob: 0.0000
+Token: ' summer' (ID: 7324), Prob: 0.0000
+Token: ' in' (ID: 304), Prob: 0.0000
+Token: ' name' (ID: 829), Prob: 0.0000
+Token: ' similar' (ID: 4428), Prob: 0.0000
+Token: ' sole' (ID: 13309), Prob: 0.0000
+Token: ' samen' (ID: 81457), Prob: 0.0000
+Token: ' misma' (ID: 60709), Prob: 0.0000
+Token: ' B' (ID: 425), Prob: 0.0000
+Token: ' season' (ID: 3200), Prob: 0.0000
+Token: ' previous' (ID: 3681), Prob: 0.0000
+Token: ' week' (ID: 2003), Prob: 0.0000
+Token: ' United' (ID: 3639), Prob: 0.0000
+Token: ' entire' (ID: 4453), Prob: 0.0000
+Token: ' SAME' (ID: 83490), Prob: 0.0000
+Token: ' latter' (ID: 15271), Prob: 0.0000
+Token: ' and' (ID: 323), Prob: 0.0000
+Token: ' self' (ID: 656), Prob: 0.0000
+Token: ' which' (ID: 892), Prob: 0.0000
+
+== Ranked Concepts (Clusters) ==
+Rank 1 | Centroid: ' same' | Score: 1.0000
+  Tokens: [' same', 'same', ' Same', '_same', 'Same', '.same', ' mesma', ' mismo', ' misma', ' SAME']
+Rank 2 | Centroid: ' year' | Score: 0.0001
+  Tokens: [' year', ' years', ' Year']
+Rank 3 | Centroid: ' date' | Score: 0.0000
+  Tokens: [' time', ' date', ' name']
+Rank 4 | Centroid: ' very' | Score: 0.0000
+  Tokens: [' very', ' exact', ' total', ' entire']
+Rank 5 | Centroid: ' sam' | Score: 0.0000
+  Tokens: [' sam', ' sama', ' samen']
+Rank 6 | Centroid: ' first' | Score: 0.0000
+  Tokens: [' first', ' second']
+Rank 7 | Centroid: ' the' | Score: 0.0000
+  Tokens: [' the', ' s', ' one', ' in', ' B', ' and', ' self', ' which']
+Rank 8 | Centroid: ' week' | Score: 0.0000
+  Tokens: [' day', ' month', ' week']
+Rank 9 | Centroid: ' last' | Score: 0.0000
+  Tokens: [' following', ' last', ' latter']
+Rank 10 | Centroid: ' sole' | Score: 0.0000
+  Tokens: [' single', ' only', ' sole', ' United']
+Rank 11 | Centroid: ' summer' | Score: 0.0000
+  Tokens: [' summer', ' season']
+Rank 12 | Centroid: ' sa' | Score: 0.0000
+  Tokens: [' sa']
+Rank 13 | Centroid: ' similar' | Score: 0.0000
+  Tokens: [' similar']
+Rank 14 | Centroid: ' previous' | Score: 0.0000
+  Tokens: [' previous']
+
+**Chosen Concept:** Rank 1

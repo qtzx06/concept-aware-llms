@@ -1,0 +1,122 @@
+--- Step 37 Log ---
+
+== Filtered Candidates ==
+Token: ' mainly' (ID: 14576), Prob: 0.4414
+Token: ' most' (ID: 1429), Prob: 0.3047
+Token: ' primarily' (ID: 15503), Prob: 0.0679
+Token: ' arguing' (ID: 29574), Prob: 0.0282
+Token: ' likely' (ID: 4363), Prob: 0.0220
+Token: ' trying' (ID: 4460), Prob: 0.0220
+Token: ' discussing' (ID: 24392), Prob: 0.0171
+Token: ' emphasizing' (ID: 80903), Prob: 0.0171
+Token: ' making' (ID: 3259), Prob: 0.0092
+Token: ' explaining' (ID: 25021), Prob: 0.0071
+Token: ' probably' (ID: 4658), Prob: 0.0049
+Token: ' talking' (ID: 7404), Prob: 0.0034
+Token: ' suggesting' (ID: 22561), Prob: 0.0026
+Token: ' more' (ID: 803), Prob: 0.0023
+Token: ' not' (ID: 537), Prob: 0.0020
+Token: ' using' (ID: 1667), Prob: 0.0020
+Token: ' mostly' (ID: 10008), Prob: 0.0018
+Token: ' in' (ID: 304), Prob: 0.0012
+Token: ' a' (ID: 264), Prob: 0.0009
+Token: ' the' (ID: 279), Prob: 0.0009
+Token: ' writing' (ID: 4378), Prob: 0.0009
+Token: ' saying' (ID: 5488), Prob: 0.0009
+Token: ' essentially' (ID: 15791), Prob: 0.0009
+Token: ' attempting' (ID: 19405), Prob: 0.0009
+Token: ' focusing' (ID: 21080), Prob: 0.0009
+Token: ' focused' (ID: 10735), Prob: 0.0008
+Token: ' concerned' (ID: 11658), Prob: 0.0008
+Token: ' addressing' (ID: 27020), Prob: 0.0008
+Token: ' interpreting' (ID: 65644), Prob: 0.0008
+Token: ' to' (ID: 311), Prob: 0.0007
+Token: ' providing' (ID: 8241), Prob: 0.0007
+Token: ' clearly' (ID: 9355), Prob: 0.0007
+Token: ' referring' (ID: 22023), Prob: 0.0007
+Token: ' implying' (ID: 72867), Prob: 0.0006
+Token: ' supporting' (ID: 12613), Prob: 0.0005
+Token: ' advocating' (ID: 58316), Prob: 0.0005
+Token: ' NOT' (ID: 4183), Prob: 0.0005
+Token: ' possibly' (ID: 10767), Prob: 0.0005
+Token: ' indicating' (ID: 18860), Prob: 0.0005
+Token: ' describing' (ID: 22692), Prob: 0.0005
+Token: ' presenting' (ID: 31544), Prob: 0.0005
+Token: ' very' (ID: 1602), Prob: 0.0004
+Token: ' particularly' (ID: 7945), Prob: 0.0004
+Token: ' pointing' (ID: 21633), Prob: 0.0004
+Token: ' defending' (ID: 28169), Prob: 0.0004
+Token: ' introducing' (ID: 31918), Prob: 0.0004
+Token: ' aiming' (ID: 37078), Prob: 0.0004
+Token: ' an' (ID: 458), Prob: 0.0004
+Token: ' analyzing' (ID: 41018), Prob: 0.0004
+Token: ' asserting' (ID: 42425), Prob: 0.0004
+Token: ' MOST' (ID: 79099), Prob: 0.0004
+Token: ' giving' (ID: 7086), Prob: 0.0003
+Token: ' speaking' (ID: 12094), Prob: 0.0003
+Token: ' highlighting' (ID: 38586), Prob: 0.0003
+Token: ' commenting' (ID: 40265), Prob: 0.0003
+Token: ' criticizing' (ID: 67988), Prob: 0.0003
+Token: ' stating' (ID: 27798), Prob: 0.0003
+Token: ' best' (ID: 1850), Prob: 0.0002
+Token: ' Most' (ID: 7496), Prob: 0.0002
+Token: ' basically' (ID: 13221), Prob: 0.0002
+Token: ' expressing' (ID: 36710), Prob: 0.0002
+Token: ' from' (ID: 504), Prob: 0.0002
+Token: ' highly' (ID: 7548), Prob: 0.0002
+Token: ' especially' (ID: 5310), Prob: 0.0002
+Token: ' critical' (ID: 9023), Prob: 0.0002
+Token: ' intended' (ID: 10602), Prob: 0.0002
+Token: ' considering' (ID: 12831), Prob: 0.0002
+Token: ' drawing' (ID: 13330), Prob: 0.0002
+Token: ' convinced' (ID: 22166), Prob: 0.0002
+Token: ' developing' (ID: 11220), Prob: 0.0001
+Token: ' promoting' (ID: 22136), Prob: 0.0001
+Token: ' examining' (ID: 37836), Prob: 0.0001
+Token: ' proposing' (ID: 56415), Prob: 0.0001
+Token: ' conveying' (ID: 93065), Prob: 0.0001
+Token: ' applying' (ID: 18950), Prob: 0.0001
+Token: ' presumably' (ID: 35448), Prob: 0.0001
+Token: ' least' (ID: 3245), Prob: 0.0001
+Token: ' seeking' (ID: 10887), Prob: 0.0001
+Token: ' telling' (ID: 11629), Prob: 0.0001
+Token: ' devoted' (ID: 28229), Prob: 0.0001
+Token: ' looking' (ID: 3330), Prob: 0.0001
+
+== Ranked Concepts (Clusters) ==
+Rank 1 | Centroid: ' mainly' | Score: 0.5117
+  Tokens: [' mainly', ' primarily', ' mostly', ' essentially', ' basically']
+Rank 2 | Centroid: ' most' | Score: 0.3066
+  Tokens: [' most', ' NOT', ' MOST', ' best', ' Most', ' least']
+Rank 3 | Centroid: ' advocating' | Score: 0.0297
+  Tokens: [' arguing', ' advocating', ' asserting', ' criticizing', ' proposing', ' conveying']
+Rank 4 | Centroid: ' probably' | Score: 0.0281
+  Tokens: [' likely', ' probably', ' clearly', ' possibly', ' presumably']
+Rank 5 | Centroid: ' trying' | Score: 0.0233
+  Tokens: [' trying', ' attempting', ' aiming', ' seeking']
+Rank 6 | Centroid: ' indicating' | Score: 0.0211
+  Tokens: [' emphasizing', ' suggesting', ' implying', ' indicating', ' highlighting']
+Rank 7 | Centroid: ' providing' | Score: 0.0189
+  Tokens: [' making', ' explaining', ' providing', ' describing', ' presenting', ' introducing', ' giving', ' expressing', ' promoting']
+Rank 8 | Centroid: ' analyzing' | Score: 0.0183
+  Tokens: [' discussing', ' interpreting', ' analyzing', ' examining']
+Rank 9 | Centroid: ' the' | Score: 0.0106
+  Tokens: [' more', ' not', ' using', ' in', ' a', ' the', ' to', ' an', ' from']
+Rank 10 | Centroid: ' talking' | Score: 0.0049
+  Tokens: [' talking', ' writing', ' speaking', ' commenting']
+Rank 11 | Centroid: ' focusing' | Score: 0.0023
+  Tokens: [' focusing', ' focused', ' addressing']
+Rank 12 | Centroid: ' stating' | Score: 0.0023
+  Tokens: [' saying', ' referring', ' pointing', ' stating', ' telling']
+Rank 13 | Centroid: ' particularly' | Score: 0.0012
+  Tokens: [' very', ' particularly', ' highly', ' especially']
+Rank 14 | Centroid: ' devoted' | Score: 0.0012
+  Tokens: [' concerned', ' intended', ' convinced', ' devoted']
+Rank 15 | Centroid: ' defending' | Score: 0.0011
+  Tokens: [' supporting', ' defending', ' developing']
+Rank 16 | Centroid: ' considering' | Score: 0.0004
+  Tokens: [' considering', ' applying', ' looking']
+Rank 17 | Centroid: ' critical' | Score: 0.0004
+  Tokens: [' critical', ' drawing']
+
+**Chosen Concept:** Rank 1

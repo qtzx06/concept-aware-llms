@@ -1,158 +1,107 @@
 --- Step 93 Log ---
 
 == Filtered Candidates ==
-Token: ' event' (ID: 1538), Prob: 0.3184
-Token: ' situation' (ID: 6534), Prob: 0.2480
-Token: ' occurrence' (ID: 31559), Prob: 0.2188
-Token: ' incident' (ID: 10455), Prob: 0.0913
-Token: ' outcome' (ID: 15274), Prob: 0.0261
-Token: ' thing' (ID: 3166), Prob: 0.0159
-Token: ' experience' (ID: 3139), Prob: 0.0140
-Token: ' happening' (ID: 12482), Prob: 0.0058
-Token: ' happen' (ID: 3537), Prob: 0.0052
-Token: ' development' (ID: 4401), Prob: 0.0043
-Token: ' consequence' (ID: 28674), Prob: 0.0038
-Token: ' discovery' (ID: 18335), Prob: 0.0033
-Token: ' phenomenon' (ID: 24844), Prob: 0.0031
-Token: ' accident' (ID: 11423), Prob: 0.0029
-Token: ' person' (ID: 1697), Prob: 0.0022
-Token: ' revelation' (ID: 38910), Prob: 0.0022
-Token: ' moment' (ID: 4445), Prob: 0.0015
-Token: ' encounter' (ID: 12828), Prob: 0.0015
-Token: ' interaction' (ID: 16230), Prob: 0.0015
-Token: ' twist' (ID: 26646), Prob: 0.0015
-Token: ' conclusion' (ID: 16688), Prob: 0.0014
-Token: ' problem' (ID: 3491), Prob: 0.0013
-Token: ' result' (ID: 1102), Prob: 0.0012
-Token: ' connection' (ID: 3633), Prob: 0.0012
-Token: ' action' (ID: 1917), Prob: 0.0011
-Token: ' reaction' (ID: 12720), Prob: 0.0007
-Token: ' scenario' (ID: 15048), Prob: 0.0007
-Token: ' mystery' (ID: 22531), Prob: 0.0007
-Token: ' story' (ID: 3364), Prob: 0.0005
-Token: ' ending' (ID: 13391), Prob: 0.0005
-Token: ' issue' (ID: 4265), Prob: 0.0004
-Token: ' sensation' (ID: 36292), Prob: 0.0004
-Token: ' turn' (ID: 2484), Prob: 0.0004
-Token: ' effect' (ID: 2456), Prob: 0.0004
-Token: ' behavior' (ID: 7709), Prob: 0.0004
-Token: ' day' (ID: 1899), Prob: 0.0003
-Token: ' truth' (ID: 8046), Prob: 0.0003
-Token: ' change' (ID: 2297), Prob: 0.0003
-Token: ' realization' (ID: 48703), Prob: 0.0003
-Token: ' place' (ID: 1992), Prob: 0.0003
-Token: ' condition' (ID: 2971), Prob: 0.0003
-Token: ' activity' (ID: 5702), Prob: 0.0003
-Token: ' anomaly' (ID: 62948), Prob: 0.0003
-Token: ' events' (ID: 4357), Prob: 0.0002
-Token: ' occurrences' (ID: 56015), Prob: 0.0002
-Token: ' episode' (ID: 9234), Prob: 0.0002
-Token: ' observation' (ID: 21930), Prob: 0.0002
-Token: ' feeling' (ID: 8266), Prob: 0.0002
-Token: ' transformation' (ID: 17991), Prob: 0.0002
-Token: ' mish' (ID: 63396), Prob: 0.0002
-Token: ' past' (ID: 3267), Prob: 0.0002
-Token: ' coincidence' (ID: 49178), Prob: 0.0002
-Token: ' character' (ID: 3668), Prob: 0.0002
-Token: ' plot' (ID: 7089), Prob: 0.0002
-Token: ' adventure' (ID: 17943), Prob: 0.0001
-Token: ' act' (ID: 1160), Prob: 0.0001
-Token: ' end' (ID: 835), Prob: 0.0001
-Token: ' object' (ID: 1633), Prob: 0.0001
-Token: ' conflict' (ID: 12055), Prob: 0.0001
-Token: ' aftermath' (ID: 39596), Prob: 0.0001
-Token: ' setting' (ID: 6243), Prob: 0.0001
-Token: ' meeting' (ID: 6438), Prob: 0.0001
-Token: ' reality' (ID: 8729), Prob: 0.0001
-Token: ' impact' (ID: 5421), Prob: 0.0001
-Token: ' scene' (ID: 6109), Prob: 0.0001
-Token: ' happened' (ID: 6932), Prob: 0.0001
-Token: ' news' (ID: 3669), Prob: 0.0001
-Token: ' detail' (ID: 7716), Prob: 0.0001
-Token: ' odd' (ID: 10322), Prob: 0.0001
-Token: ' visitor' (ID: 20181), Prob: 0.0001
-Token: ' circumstance' (ID: 52137), Prob: 0.0001
-Token: ' misunderstanding' (ID: 69747), Prob: 0.0001
-Token: ' response' (ID: 2033), Prob: 0.0001
-Token: ' atmosphere' (ID: 16566), Prob: 0.0001
-Token: ' man' (ID: 883), Prob: 0.0001
-Token: ' cause' (ID: 5240), Prob: 0.0001
-Token: ' perception' (ID: 20431), Prob: 0.0001
-Token: ' supernatural' (ID: 48958), Prob: 0.0001
-Token: ' party' (ID: 4614), Prob: 0.0001
-Token: ' arrival' (ID: 18647), Prob: 0.0001
-Token: ' disturbance' (ID: 64758), Prob: 0.0001
-Token: ' awakening' (ID: 74049), Prob: 0.0001
-Token: ' item' (ID: 1509), Prob: 0.0001
-Token: ' relationship' (ID: 5025), Prob: 0.0001
-Token: ' phenomena' (ID: 43147), Prob: 0.0001
-Token: ' predic' (ID: 78334), Prob: 0.0001
-Token: ' night' (ID: 3729), Prob: 0.0001
-Token: ' mix' (ID: 6514), Prob: 0.0001
-Token: ' narrative' (ID: 19221), Prob: 0.0001
-Token: ' tale' (ID: 23281), Prob: 0.0001
-Token: ' fate' (ID: 24382), Prob: 0.0001
-Token: ' message' (ID: 1943), Prob: 0.0001
-Token: ' memory' (ID: 4938), Prob: 0.0001
-Token: ' beginning' (ID: 7167), Prob: 0.0001
-Token: ' happens' (ID: 8573), Prob: 0.0001
+Token: ' recurring' (ID: 45250), Prob: 1.0000
+Token: ' recurrent' (ID: 64074), Prob: 0.0000
+Token: ' repeating' (ID: 39816), Prob: 0.0000
+Token: ' repeated' (ID: 11504), Prob: 0.0000
+Token: ' lasting' (ID: 28769), Prob: 0.0000
+Token: ' rec' (ID: 1395), Prob: 0.0000
+Token: ' repetitive' (ID: 58077), Prob: 0.0000
+Token: ' returning' (ID: 13451), Prob: 0.0000
+Token: ' occurring' (ID: 30865), Prob: 0.0000
+Token: ' recurrence' (ID: 75193), Prob: 0.0000
+Token: ' growing' (ID: 7826), Prob: 0.0000
+Token: ' frequent' (ID: 20757), Prob: 0.0000
+Token: ' a' (ID: 264), Prob: 0.0000
+Token: 'curring' (ID: 45739), Prob: 0.0000
+Token: ' Rec' (ID: 4067), Prob: 0.0000
+Token: ' ré' (ID: 9333), Prob: 0.0000
+Token: ' differing' (ID: 60369), Prob: 0.0000
+Token: ' continuing' (ID: 14354), Prob: 0.0000
+Token: ' recent' (ID: 3213), Prob: 0.0000
+Token: ' major' (ID: 3598), Prob: 0.0000
+Token: ' reiterated' (ID: 65747), Prob: 0.0000
+Token: ' rising' (ID: 16062), Prob: 0.0000
+Token: ' chronic' (ID: 20601), Prob: 0.0000
+Token: ' rer' (ID: 48547), Prob: 0.0000
+Token: ' re' (ID: 312), Prob: 0.0000
+Token: ' recur' (ID: 63548), Prob: 0.0000
+Token: ' varying' (ID: 28765), Prob: 0.0000
+Token: ' repetition' (ID: 53415), Prob: 0.0000
+Token: ' rare' (ID: 8848), Prob: 0.0000
+Token: ' notable' (ID: 27190), Prob: 0.0000
+Token: ' rounding' (ID: 51562), Prob: 0.0000
+Token: ' reigning' (ID: 89956), Prob: 0.0000
+Token: ' permanent' (ID: 15330), Prob: 0.0000
+Token: ' cameo' (ID: 94056), Prob: 0.0000
+Token: ' decade' (ID: 13212), Prob: 0.0000
+Token: ' preceding' (ID: 37746), Prob: 0.0000
+Token: ' regular' (ID: 5792), Prob: 0.0000
+Token: ' recruiting' (ID: 31859), Prob: 0.0000
+Token: ' non' (ID: 2477), Prob: 0.0000
+Token: ' recount' (ID: 40186), Prob: 0.0000
+Token: ' recalling' (ID: 88646), Prob: 0.0000
+Token: ' rallying' (ID: 90056), Prob: 0.0000
+Token: ' passing' (ID: 12299), Prob: 0.0000
+Token: ' closing' (ID: 15316), Prob: 0.0000
+Token: ' dormant' (ID: 88360), Prob: 0.0000
+Token: ' character' (ID: 3668), Prob: 0.0000
+Token: ' recreation' (ID: 45944), Prob: 0.0000
+Token: ' pioneering' (ID: 70574), Prob: 0.0000
+Token: ' rounded' (ID: 17976), Prob: 0.0000
+Token: ' recovering' (ID: 41286), Prob: 0.0000
+Token: ' repeat' (ID: 13153), Prob: 0.0000
+Token: ' contributing' (ID: 28720), Prob: 0.0000
+Token: ' prevalent' (ID: 45841), Prob: 0.0000
+Token: ' budding' (ID: 85633), Prob: 0.0000
+Token: ' subsequent' (ID: 17420), Prob: 0.0000
+Token: ' overarching' (ID: 97436), Prob: 0.0000
+Token: ' recap' (ID: 53999), Prob: 0.0000
+Token: ' retiring' (ID: 59773), Prob: 0.0000
+Token: ' multic' (ID: 91420), Prob: 0.0000
+Token: ' curious' (ID: 22208), Prob: 0.0000
+Token: ' rever' (ID: 35137), Prob: 0.0000
+Token: ' prolific' (ID: 62000), Prob: 0.0000
 
 == Ranked Concepts (Clusters) ==
-Rank 1 | Centroid: ' event' | Score: 0.4121
-  Tokens: [' event', ' incident', ' accident', ' events', ' episode']
-Rank 2 | Centroid: ' situation' | Score: 0.2490
-  Tokens: [' situation', ' scenario', ' condition', ' scene', ' circumstance']
-Rank 3 | Centroid: ' happens' | Score: 0.2334
-  Tokens: [' occurrence', ' happening', ' happen', ' phenomenon', ' occurrences', ' happened', ' phenomena', ' happens']
-Rank 4 | Centroid: ' outcome' | Score: 0.0327
-  Tokens: [' outcome', ' consequence', ' conclusion', ' result', ' aftermath']
-Rank 5 | Centroid: ' issue' | Score: 0.0176
-  Tokens: [' thing', ' problem', ' issue']
-Rank 6 | Centroid: ' activity' | Score: 0.0159
-  Tokens: [' experience', ' action', ' behavior', ' activity', ' act']
-Rank 7 | Centroid: ' revelation' | Score: 0.0060
-  Tokens: [' discovery', ' revelation', ' realization', ' observation']
-Rank 8 | Centroid: ' connection' | Score: 0.0057
-  Tokens: [' development', ' connection', ' transformation', ' relationship']
-Rank 9 | Centroid: ' person' | Score: 0.0027
-  Tokens: [' person', ' place', ' object', ' man', ' item']
-Rank 10 | Centroid: ' reaction' | Score: 0.0023
-  Tokens: [' interaction', ' reaction', ' response']
-Rank 11 | Centroid: ' day' | Score: 0.0022
-  Tokens: [' moment', ' day', ' past', ' news', ' party', ' night', ' memory']
-Rank 12 | Centroid: ' twist' | Score: 0.0022
-  Tokens: [' twist', ' turn', ' change', ' mix']
-Rank 13 | Centroid: ' encounter' | Score: 0.0015
-  Tokens: [' encounter']
-Rank 14 | Centroid: ' adventure' | Score: 0.0011
-  Tokens: [' mystery', ' mish', ' adventure', ' supernatural']
-Rank 15 | Centroid: ' ending' | Score: 0.0009
-  Tokens: [' ending', ' end', ' setting', ' meeting', ' beginning']
-Rank 16 | Centroid: ' narrative' | Score: 0.0009
-  Tokens: [' story', ' plot', ' narrative', ' tale', ' fate']
-Rank 17 | Centroid: ' sensation' | Score: 0.0007
-  Tokens: [' sensation', ' feeling', ' perception']
-Rank 18 | Centroid: ' impact' | Score: 0.0005
-  Tokens: [' effect', ' impact', ' cause']
-Rank 19 | Centroid: ' truth' | Score: 0.0004
-  Tokens: [' truth', ' reality']
-Rank 20 | Centroid: ' anomaly' | Score: 0.0004
-  Tokens: [' anomaly', ' odd']
-Rank 21 | Centroid: ' misunderstanding' | Score: 0.0003
-  Tokens: [' coincidence', ' misunderstanding', ' disturbance']
-Rank 22 | Centroid: ' character' | Score: 0.0002
-  Tokens: [' character']
-Rank 23 | Centroid: ' detail' | Score: 0.0002
-  Tokens: [' detail', ' message']
-Rank 24 | Centroid: ' conflict' | Score: 0.0001
-  Tokens: [' conflict']
-Rank 25 | Centroid: ' arrival' | Score: 0.0001
-  Tokens: [' arrival', ' awakening']
-Rank 26 | Centroid: ' visitor' | Score: 0.0001
-  Tokens: [' visitor']
-Rank 27 | Centroid: ' atmosphere' | Score: 0.0001
-  Tokens: [' atmosphere']
-Rank 28 | Centroid: ' predic' | Score: 0.0001
-  Tokens: [' predic']
+Rank 1 | Centroid: ' recurrent' | Score: 1.0000
+  Tokens: [' recurring', ' recurrent', ' recurrence', ' recur']
+Rank 2 | Centroid: ' repeated' | Score: 0.0000
+  Tokens: [' repeating', ' repeated', ' repetitive', ' reiterated', ' repetition', ' repeat']
+Rank 3 | Centroid: ' permanent' | Score: 0.0000
+  Tokens: [' lasting', ' chronic', ' permanent']
+Rank 4 | Centroid: ' Rec' | Score: 0.0000
+  Tokens: [' rec', ' Rec', ' recreation']
+Rank 5 | Centroid: ' returning' | Score: 0.0000
+  Tokens: [' returning', ' continuing', ' passing', ' closing', ' contributing']
+Rank 6 | Centroid: ' occurring' | Score: 0.0000
+  Tokens: [' occurring', 'curring']
+Rank 7 | Centroid: ' growing' | Score: 0.0000
+  Tokens: [' growing', ' rising']
+Rank 8 | Centroid: ' a' | Score: 0.0000
+  Tokens: [' a', ' major', ' rare', ' non']
+Rank 9 | Centroid: ' frequent' | Score: 0.0000
+  Tokens: [' frequent', ' regular']
+Rank 10 | Centroid: ' re' | Score: 0.0000
+  Tokens: [' ré', ' rer', ' re', ' rever']
+Rank 11 | Centroid: ' differing' | Score: 0.0000
+  Tokens: [' differing', ' varying', ' preceding', ' subsequent']
+Rank 12 | Centroid: ' pioneering' | Score: 0.0000
+  Tokens: [' cameo', ' rallying', ' pioneering', ' overarching', ' prolific']
+Rank 13 | Centroid: ' recalling' | Score: 0.0000
+  Tokens: [' recruiting', ' recount', ' recalling', ' recap']
+Rank 14 | Centroid: ' recent' | Score: 0.0000
+  Tokens: [' recent', ' character']
+Rank 15 | Centroid: ' budding' | Score: 0.0000
+  Tokens: [' reigning', ' dormant', ' budding']
+Rank 16 | Centroid: ' notable' | Score: 0.0000
+  Tokens: [' notable', ' prevalent', ' curious']
+Rank 17 | Centroid: ' rounding' | Score: 0.0000
+  Tokens: [' rounding', ' rounded']
+Rank 18 | Centroid: ' decade' | Score: 0.0000
+  Tokens: [' decade', ' multic']
+Rank 19 | Centroid: ' recovering' | Score: 0.0000
+  Tokens: [' recovering', ' retiring']
 
 **Chosen Concept:** Rank 1

@@ -1,0 +1,137 @@
+--- Step 13 Log ---
+
+== Filtered Candidates ==
+Token: ' family' (ID: 2997), Prob: 0.3027
+Token: ' name' (ID: 829), Prob: 0.1621
+Token: ' birth' (ID: 7194), Prob: 0.1426
+Token: ' early' (ID: 4124), Prob: 0.0596
+Token: ' mother' (ID: 6554), Prob: 0.0527
+Token: ' parents' (ID: 6562), Prob: 0.0464
+Token: ' father' (ID: 6981), Prob: 0.0361
+Token: ' first' (ID: 1156), Prob: 0.0249
+Token: ' birthday' (ID: 15198), Prob: 0.0220
+Token: ' childhood' (ID: 19990), Prob: 0.0220
+Token: ' given' (ID: 2661), Prob: 0.0092
+Token: ' surname' (ID: 39753), Prob: 0.0092
+Token: ' full' (ID: 2480), Prob: 0.0063
+Token: ' official' (ID: 3946), Prob: 0.0049
+Token: ' maternal' (ID: 49050), Prob: 0.0049
+Token: ' life' (ID: 2272), Prob: 0.0038
+Token: ' later' (ID: 2937), Prob: 0.0038
+Token: ' ancestors' (ID: 37518), Prob: 0.0038
+Token: ' earliest' (ID: 29658), Prob: 0.0026
+Token: ' middle' (ID: 6149), Prob: 0.0023
+Token: ' grandfather' (ID: 37850), Prob: 0.0020
+Token: ' poetry' (ID: 31249), Prob: 0.0018
+Token: ' nickname' (ID: 29399), Prob: 0.0016
+Token: ' paternal' (ID: 92267), Prob: 0.0016
+Token: ' last' (ID: 1537), Prob: 0.0014
+Token: ' second' (ID: 2086), Prob: 0.0014
+Token: ' home' (ID: 2114), Prob: 0.0014
+Token: ' fore' (ID: 2241), Prob: 0.0012
+Token: ' great' (ID: 2244), Prob: 0.0012
+Token: ' date' (ID: 2400), Prob: 0.0011
+Token: ' wife' (ID: 7403), Prob: 0.0011
+Token: ' younger' (ID: 14650), Prob: 0.0011
+Token: ' clan' (ID: 38462), Prob: 0.0011
+Token: ' original' (ID: 4024), Prob: 0.0010
+Token: ' Chinese' (ID: 8453), Prob: 0.0010
+Token: ' household' (ID: 13732), Prob: 0.0010
+Token: ' hometown' (ID: 43016), Prob: 0.0010
+Token: ' native' (ID: 9867), Prob: 0.0009
+Token: ' s' (ID: 274), Prob: 0.0008
+Token: ' house' (ID: 3753), Prob: 0.0008
+Token: ' personal' (ID: 4345), Prob: 0.0008
+Token: ' was' (ID: 572), Prob: 0.0006
+Token: ' most' (ID: 1429), Prob: 0.0006
+Token: ' names' (ID: 5036), Prob: 0.0006
+Token: ' youth' (ID: 12537), Prob: 0.0006
+Token: ' elder' (ID: 22130), Prob: 0.0006
+Token: ' courtesy' (ID: 26013), Prob: 0.0005
+Token: ' poetic' (ID: 75434), Prob: 0.0005
+Token: ' z' (ID: 1147), Prob: 0.0004
+Token: ' own' (ID: 1828), Prob: 0.0004
+Token: ' place' (ID: 1992), Prob: 0.0004
+Token: ' entire' (ID: 4453), Prob: 0.0004
+Token: ' n' (ID: 308), Prob: 0.0004
+Token: ' two' (ID: 1378), Prob: 0.0004
+Token: ' famous' (ID: 11245), Prob: 0.0004
+Token: ' relatives' (ID: 28558), Prob: 0.0004
+Token: ' literary' (ID: 31365), Prob: 0.0004
+Token: ' ancestral' (ID: 77671), Prob: 0.0004
+Token: ' son' (ID: 4438), Prob: 0.0003
+Token: ' third' (ID: 4843), Prob: 0.0003
+Token: ' boy' (ID: 8171), Prob: 0.0003
+Token: ' nick' (ID: 15988), Prob: 0.0003
+Token: ' descendants' (ID: 48346), Prob: 0.0003
+Token: ' birthdays' (ID: 91850), Prob: 0.0003
+Token: ' traditional' (ID: 8606), Prob: 0.0003
+Token: ' grandmother' (ID: 38184), Prob: 0.0003
+Token: ' high' (ID: 1550), Prob: 0.0002
+Token: ' height' (ID: 2608), Prob: 0.0002
+Token: ' whole' (ID: 4361), Prob: 0.0002
+Token: ' talent' (ID: 10772), Prob: 0.0002
+Token: ' mothers' (ID: 26600), Prob: 0.0002
+Token: ' lineage' (ID: 63909), Prob: 0.0002
+Token: ' handwriting' (ID: 91709), Prob: 0.0002
+Token: ' child' (ID: 1682), Prob: 0.0002
+Token: ' old' (ID: 2310), Prob: 0.0002
+Token: ' four' (ID: 3040), Prob: 0.0002
+Token: ' character' (ID: 3668), Prob: 0.0002
+Token: ' eight' (ID: 8063), Prob: 0.0002
+Token: ' tomb' (ID: 43080), Prob: 0.0002
+Token: ' real' (ID: 1931), Prob: 0.0002
+Token: ' three' (ID: 2326), Prob: 0.0002
+Token: ' parent' (ID: 2681), Prob: 0.0002
+Token: ' initial' (ID: 2856), Prob: 0.0002
+Token: ' earlier' (ID: 6788), Prob: 0.0002
+Token: ' favorite' (ID: 6930), Prob: 0.0002
+Token: ' dates' (ID: 12713), Prob: 0.0002
+Token: ' infant' (ID: 30283), Prob: 0.0002
+Token: ' talents' (ID: 33932), Prob: 0.0002
+Token: ' patron' (ID: 35280), Prob: 0.0002
+Token: ' main' (ID: 1887), Prob: 0.0002
+
+== Ranked Concepts (Clusters) ==
+Rank 1 | Centroid: ' household' | Score: 0.3066
+  Tokens: [' family', ' home', ' household', ' house']
+Rank 2 | Centroid: ' name' | Score: 0.1738
+  Tokens: [' name', ' surname', ' nickname', ' names', ' nick']
+Rank 3 | Centroid: ' birthday' | Score: 0.1650
+  Tokens: [' birth', ' birthday', ' birthdays']
+Rank 4 | Centroid: ' mother' | Score: 0.1455
+  Tokens: [' mother', ' parents', ' father', ' maternal', ' grandfather', ' paternal', ' wife', ' grandmother', ' mothers', ' parent']
+Rank 5 | Centroid: ' earlier' | Score: 0.0674
+  Tokens: [' early', ' later', ' earliest', ' original', ' old', ' initial', ' earlier']
+Rank 6 | Centroid: ' second' | Score: 0.0304
+  Tokens: [' first', ' middle', ' last', ' second', ' third']
+Rank 7 | Centroid: ' child' | Score: 0.0249
+  Tokens: [' childhood', ' younger', ' youth', ' elder', ' boy', ' child', ' infant']
+Rank 8 | Centroid: ' was' | Score: 0.0125
+  Tokens: [' given', ' s', ' was', ' most', ' z', ' n', ' high', ' real', ' main']
+Rank 9 | Centroid: ' Chinese' | Score: 0.0083
+  Tokens: [' official', ' fore', ' great', ' Chinese']
+Rank 10 | Centroid: ' entire' | Score: 0.0073
+  Tokens: [' full', ' own', ' entire', ' whole']
+Rank 11 | Centroid: ' ancestors' | Score: 0.0071
+  Tokens: [' ancestors', ' clan', ' hometown', ' relatives', ' ancestral', ' descendants', ' lineage']
+Rank 12 | Centroid: ' height' | Score: 0.0054
+  Tokens: [' life', ' personal', ' place', ' height', ' character']
+Rank 13 | Centroid: ' poetic' | Score: 0.0031
+  Tokens: [' poetry', ' poetic', ' literary', ' handwriting', ' patron']
+Rank 14 | Centroid: ' date' | Score: 0.0013
+  Tokens: [' date', ' dates']
+Rank 15 | Centroid: ' native' | Score: 0.0011
+  Tokens: [' native', ' traditional']
+Rank 16 | Centroid: ' three' | Score: 0.0010
+  Tokens: [' two', ' four', ' eight', ' three']
+Rank 17 | Centroid: ' courtesy' | Score: 0.0007
+  Tokens: [' courtesy', ' tomb']
+Rank 18 | Centroid: ' famous' | Score: 0.0005
+  Tokens: [' famous', ' favorite']
+Rank 19 | Centroid: ' talent' | Score: 0.0004
+  Tokens: [' talent', ' talents']
+Rank 20 | Centroid: ' son' | Score: 0.0003
+  Tokens: [' son']
+
+**Chosen Concept:** Rank 1

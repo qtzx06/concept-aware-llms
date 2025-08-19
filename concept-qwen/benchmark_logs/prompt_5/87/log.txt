@@ -1,139 +1,131 @@
 --- Step 87 Log ---
 
 == Filtered Candidates ==
-Token: ' details' (ID: 3565), Prob: 0.0859
-Token: ' emotions' (ID: 21261), Prob: 0.0757
-Token: ' specific' (ID: 3151), Prob: 0.0591
-Token: ' elements' (ID: 5424), Prob: 0.0459
-Token: ' sensory' (ID: 47969), Prob: 0.0459
-Token: ' dialogue' (ID: 21276), Prob: 0.0280
-Token: ' actions' (ID: 6168), Prob: 0.0055
-Token: ' interactions' (ID: 21880), Prob: 0.0055
-Token: ' action' (ID: 1917), Prob: 0.0043
-Token: ' conflict' (ID: 12055), Prob: 0.0024
-Token: ' emotional' (ID: 14269), Prob: 0.0024
-Token: ' characters' (ID: 5766), Prob: 0.0019
-Token: ' descriptive' (ID: 52844), Prob: 0.0018
-Token: ' family' (ID: 2997), Prob: 0.0015
-Token: ' setting' (ID: 6243), Prob: 0.0012
-Token: ' something' (ID: 2494), Prob: 0.0007
-Token: ' interaction' (ID: 16230), Prob: 0.0007
-Token: ' emotion' (ID: 19772), Prob: 0.0007
-Token: ' themes' (ID: 21386), Prob: 0.0006
-Token: ' imagination' (ID: 27799), Prob: 0.0005
-Token: ' environmental' (ID: 12158), Prob: 0.0005
-Token: ' names' (ID: 5036), Prob: 0.0004
-Token: ' supporting' (ID: 12613), Prob: 0.0004
-Token: ' obstacles' (ID: 31016), Prob: 0.0004
-Token: ' descriptions' (ID: 27787), Prob: 0.0004
-Token: ' challenges' (ID: 11513), Prob: 0.0003
-Token: ' specifics' (ID: 48349), Prob: 0.0003
-Token: ' personal' (ID: 4345), Prob: 0.0003
-Token: ' maybe' (ID: 7196), Prob: 0.0003
-Token: ' vivid' (ID: 42020), Prob: 0.0003
-Token: ' character' (ID: 3668), Prob: 0.0002
-Token: ' three' (ID: 2326), Prob: 0.0002
-Token: ' nature' (ID: 6993), Prob: 0.0002
+Token: ' BBC' (ID: 18096), Prob: 0.5391
+Token: ' play' (ID: 1486), Prob: 0.1357
+Token: ' TV' (ID: 5883), Prob: 0.0442
+Token: ' role' (ID: 3476), Prob: 0.0237
+Token: ' series' (ID: 4013), Prob: 0.0237
+Token: ' UK' (ID: 6424), Prob: 0.0237
+Token: ' television' (ID: 12425), Prob: 0.0184
+Token: ' British' (ID: 7855), Prob: 0.0162
+Token: ' film' (ID: 4531), Prob: 0.0087
+Token: ' comedy' (ID: 22358), Prob: 0.0087
+Token: ' show' (ID: 1473), Prob: 0.0053
+Token: ' National' (ID: 5055), Prob: 0.0053
+Token: ' United' (ID: 3639), Prob: 0.0036
+Token: ' sitcom' (ID: 80366), Prob: 0.0036
+Token: ' production' (ID: 5670), Prob: 0.0032
+Token: ' stage' (ID: 6430), Prob: 0.0032
+Token: ' Royal' (ID: 16194), Prob: 0.0032
+Token: ' movie' (ID: 5700), Prob: 0.0028
+Token: ' Australian' (ID: 13369), Prob: 0.0028
+Token: ' same' (ID: 1852), Prob: 0.0025
+Token: ' West' (ID: 4312), Prob: 0.0025
+Token: ' first' (ID: 1156), Prob: 0.0019
+Token: ' US' (ID: 2274), Prob: 0.0019
+Token: ' Play' (ID: 7054), Prob: 0.0019
+Token: ' third' (ID: 4843), Prob: 0.0015
+Token: ' Broadway' (ID: 36676), Prob: 0.0015
+Token: ' drama' (ID: 19584), Prob: 0.0013
+Token: ' ITV' (ID: 93355), Prob: 0.0013
+Token: ' Canadian' (ID: 11888), Prob: 0.0012
+Token: ' radio' (ID: 8887), Prob: 0.0011
+Token: ' American' (ID: 3693), Prob: 0.0010
+Token: ' plays' (ID: 11088), Prob: 0.0010
+Token: ' ABC' (ID: 19360), Prob: 0.0010
+Token: ' short' (ID: 2805), Prob: 0.0009
+Token: ' episode' (ID: 9234), Prob: 0.0009
+Token: ' cast' (ID: 6311), Prob: 0.0008
+Token: ' CBS' (ID: 24029), Prob: 0.0008
+Token: ' HBO' (ID: 42878), Prob: 0.0008
+Token: ' title' (ID: 2265), Prob: 0.0007
+Token: ' London' (ID: 7148), Prob: 0.0007
+Token: ' theatre' (ID: 33496), Prob: 0.0007
+Token: ' New' (ID: 1532), Prob: 0.0006
+Token: ' musical' (ID: 17795), Prob: 0.0006
+Token: ' following' (ID: 2701), Prob: 0.0006
+Token: ' U' (ID: 547), Prob: 0.0006
+Token: ' second' (ID: 2086), Prob: 0.0006
+Token: ' CBC' (ID: 45512), Prob: 0.0006
+Token: ' French' (ID: 8585), Prob: 0.0005
+Token: ' hit' (ID: 4201), Prob: 0.0005
+Token: ' The' (ID: 576), Prob: 0.0005
+Token: ' English' (ID: 6364), Prob: 0.0005
+Token: ' NBC' (ID: 23521), Prob: 0.0004
+Token: ' B' (ID: 425), Prob: 0.0004
+Token: ' East' (ID: 6326), Prob: 0.0004
+Token: ' broadcast' (ID: 12899), Prob: 0.0004
+Token: ' national' (ID: 5313), Prob: 0.0003
+Token: ' North' (ID: 4787), Prob: 0.0003
+Token: ' R' (ID: 431), Prob: 0.0003
+Token: ' Scottish' (ID: 26096), Prob: 0.0002
+Token: ' soap' (ID: 26785), Prob: 0.0002
+Token: ' M' (ID: 386), Prob: 0.0002
+Token: ' lead' (ID: 2990), Prob: 0.0002
+Token: ' web' (ID: 3482), Prob: 0.0002
+Token: ' Brit' (ID: 5450), Prob: 0.0002
+Token: ' fourth' (ID: 11737), Prob: 0.0002
+Token: ' Role' (ID: 15404), Prob: 0.0002
+Token: ' programme' (ID: 18136), Prob: 0.0002
+Token: ' documentary' (ID: 24954), Prob: 0.0002
+Token: ' min' (ID: 1308), Prob: 0.0002
 Token: ' two' (ID: 1378), Prob: 0.0002
-Token: ' different' (ID: 2155), Prob: 0.0002
-Token: ' natural' (ID: 5810), Prob: 0.0002
-Token: ' activities' (ID: 7488), Prob: 0.0002
-Token: ' feelings' (ID: 15650), Prob: 0.0002
-Token: ' traits' (ID: 24055), Prob: 0.0002
-Token: ' symbols' (ID: 17738), Prob: 0.0001
-Token: ' environment' (ID: 4573), Prob: 0.0001
-Token: ' imagery' (ID: 40445), Prob: 0.0001
-Token: ' parents' (ID: 6562), Prob: 0.0001
-Token: ' weather' (ID: 9104), Prob: 0.0001
-Token: ' moments' (ID: 13943), Prob: 0.0001
-Token: ' settings' (ID: 5003), Prob: 0.0001
-Token: ' seasons' (ID: 15584), Prob: 0.0001
-Token: ' dynamics' (ID: 29195), Prob: 0.0001
-Token: ' friends' (ID: 4780), Prob: 0.0001
-Token: ' arch' (ID: 5325), Prob: 0.0001
-Token: ' growth' (ID: 6513), Prob: 0.0001
-Token: ' conflicts' (ID: 25800), Prob: 0.0001
-Token: ' reactions' (ID: 24473), Prob: 0.0001
-Token: ' warmth' (ID: 40363), Prob: 0.0001
-Token: ' movement' (ID: 7203), Prob: 0.0001
-Token: ' magical' (ID: 23702), Prob: 0.0001
-Token: ' teamwork' (ID: 83533), Prob: 0.0001
-Token: ' village' (ID: 14126), Prob: 0.0001
-Token: ' realistic' (ID: 25489), Prob: 0.0001
-Token: ' rel' (ID: 1351), Prob: 0.0001
-Token: ' plot' (ID: 7089), Prob: 0.0001
-Token: ' cultural' (ID: 12752), Prob: 0.0001
-Token: ' detail' (ID: 7716), Prob: 0.0001
-Token: ' aspects' (ID: 13566), Prob: 0.0001
-Token: ' typical' (ID: 14260), Prob: 0.0001
-Token: ' proper' (ID: 6169), Prob: 0.0001
-Token: ' scenes' (ID: 16065), Prob: 0.0001
-Token: ' motivations' (ID: 64831), Prob: 0.0001
-Token: ' relationships' (ID: 11871), Prob: 0.0001
-Token: ' historical' (ID: 13656), Prob: 0.0001
-Token: ' protagonist' (ID: 45584), Prob: 0.0000
-Token: ' building' (ID: 4752), Prob: 0.0000
-Token: ' detailed' (ID: 11682), Prob: 0.0000
-Token: ' characteristics' (ID: 17452), Prob: 0.0000
-Token: ' key' (ID: 1376), Prob: 0.0000
-Token: ' language' (ID: 4128), Prob: 0.0000
-Token: ' dialog' (ID: 7254), Prob: 0.0000
-Token: ' tension' (ID: 23504), Prob: 0.0000
-Token: ' siblings' (ID: 36683), Prob: 0.0000
-Token: ' things' (ID: 2513), Prob: 0.0000
+Token: ' South' (ID: 4882), Prob: 0.0002
+Token: ' German' (ID: 5938), Prob: 0.0002
+Token: ' charity' (ID: 22846), Prob: 0.0002
+Token: ' BA' (ID: 33489), Prob: 0.0002
+Token: ' award' (ID: 10084), Prob: 0.0002
+Token: ' A' (ID: 362), Prob: 0.0002
+Token: ' E' (ID: 468), Prob: 0.0002
+Token: ' T' (ID: 350), Prob: 0.0002
+Token: ' public' (ID: 584), Prob: 0.0002
+Token: ' bi' (ID: 6032), Prob: 0.0002
+Token: ' upcoming' (ID: 14487), Prob: 0.0002
+Token: ' premiere' (ID: 34852), Prob: 0.0002
+Token: ' the' (ID: 279), Prob: 0.0002
+Token: ' final' (ID: 1590), Prob: 0.0002
+Token: ' medical' (ID: 6457), Prob: 0.0002
+Token: ' USA' (ID: 7279), Prob: 0.0002
+Token: ' Radio' (ID: 13484), Prob: 0.0002
+Token: ' theater' (ID: 26705), Prob: 0.0002
+Token: ' anthology' (ID: 83008), Prob: 0.0002
+Token: ' period' (ID: 4168), Prob: 0.0001
+Token: ' guest' (ID: 8640), Prob: 0.0001
+Token: ' Euro' (ID: 19461), Prob: 0.0001
+Token: ' biography' (ID: 47245), Prob: 0.0001
+Token: ' G' (ID: 479), Prob: 0.0001
+Token: ' Tony' (ID: 18528), Prob: 0.0001
+Token: ' H' (ID: 472), Prob: 0.0001
 
 == Ranked Concepts (Clusters) ==
-Rank 1 | Centroid: ' emotions' | Score: 0.1250
-  Tokens: [' emotions', ' sensory', ' emotional', ' emotion', ' feelings']
-Rank 2 | Centroid: ' details' | Score: 0.0864
-  Tokens: [' details', ' specifics', ' detail', ' detailed']
-Rank 3 | Centroid: ' two' | Score: 0.0598
-  Tokens: [' specific', ' three', ' two', ' different', ' typical', ' proper', ' key']
-Rank 4 | Centroid: ' elements' | Score: 0.0459
-  Tokens: [' elements', ' aspects']
-Rank 5 | Centroid: ' dialogue' | Score: 0.0280
-  Tokens: [' dialogue', ' dialog']
-Rank 6 | Centroid: ' actions' | Score: 0.0099
-  Tokens: [' actions', ' action', ' activities']
-Rank 7 | Centroid: ' interactions' | Score: 0.0065
-  Tokens: [' interactions', ' interaction', ' dynamics', ' reactions', ' movement', ' relationships']
-Rank 8 | Centroid: ' conflict' | Score: 0.0026
-  Tokens: [' conflict', ' conflicts', ' tension']
-Rank 9 | Centroid: ' descriptive' | Score: 0.0025
-  Tokens: [' descriptive', ' descriptions', ' vivid', ' realistic']
-Rank 10 | Centroid: ' characters' | Score: 0.0023
-  Tokens: [' characters', ' character', ' traits', ' characteristics']
-Rank 11 | Centroid: ' setting' | Score: 0.0018
-  Tokens: [' setting', ' supporting', ' settings', ' building']
-Rank 12 | Centroid: ' siblings' | Score: 0.0017
-  Tokens: [' family', ' parents', ' friends', ' siblings']
-Rank 13 | Centroid: ' environmental' | Score: 0.0011
-  Tokens: [' environmental', ' nature', ' natural', ' environment', ' weather']
-Rank 14 | Centroid: ' something' | Score: 0.0011
-  Tokens: [' something', ' maybe', ' things']
-Rank 15 | Centroid: ' imagery' | Score: 0.0008
-  Tokens: [' imagination', ' imagery', ' warmth', ' teamwork']
-Rank 16 | Centroid: ' themes' | Score: 0.0008
-  Tokens: [' themes', ' symbols', ' scenes']
-Rank 17 | Centroid: ' obstacles' | Score: 0.0008
-  Tokens: [' obstacles', ' challenges', ' motivations']
-Rank 18 | Centroid: ' cultural' | Score: 0.0005
-  Tokens: [' personal', ' magical', ' cultural', ' historical']
-Rank 19 | Centroid: ' names' | Score: 0.0004
-  Tokens: [' names']
-Rank 20 | Centroid: ' arch' | Score: 0.0001
-  Tokens: [' arch', ' rel']
-Rank 21 | Centroid: ' moments' | Score: 0.0001
-  Tokens: [' moments']
-Rank 22 | Centroid: ' seasons' | Score: 0.0001
-  Tokens: [' seasons']
-Rank 23 | Centroid: ' village' | Score: 0.0001
-  Tokens: [' village', ' language']
-Rank 24 | Centroid: ' growth' | Score: 0.0001
-  Tokens: [' growth']
-Rank 25 | Centroid: ' plot' | Score: 0.0001
-  Tokens: [' plot']
-Rank 26 | Centroid: ' protagonist' | Score: 0.0000
-  Tokens: [' protagonist']
+Rank 1 | Centroid: ' BBC' | Score: 0.5430
+  Tokens: [' BBC', ' ITV', ' ABC', ' CBS', ' HBO', ' CBC', ' NBC', ' BA']
+Rank 2 | Centroid: ' play' | Score: 0.1387
+  Tokens: [' play', ' Play', ' plays']
+Rank 3 | Centroid: ' radio' | Score: 0.0645
+  Tokens: [' TV', ' television', ' radio', ' broadcast', ' Radio']
+Rank 4 | Centroid: ' British' | Score: 0.0508
+  Tokens: [' UK', ' British', ' Royal', ' Australian', ' Canadian', ' American', ' London', ' French', ' English', ' Scottish', ' Brit', ' German', ' Euro']
+Rank 5 | Centroid: ' medical' | Score: 0.0361
+  Tokens: [' series', ' show', ' production', ' short', ' cast', ' title', ' hit', ' lead', ' min', ' public', ' bi', ' medical', ' period']
+Rank 6 | Centroid: ' theatre' | Score: 0.0308
+  Tokens: [' film', ' comedy', ' sitcom', ' stage', ' movie', ' Broadway', ' drama', ' theatre', ' theater']
+Rank 7 | Centroid: ' role' | Score: 0.0239
+  Tokens: [' role', ' Role']
+Rank 8 | Centroid: ' US' | Score: 0.0113
+  Tokens: [' National', ' United', ' US', ' national', ' USA']
+Rank 9 | Centroid: ' third' | Score: 0.0042
+  Tokens: [' first', ' third', ' second', ' fourth']
+Rank 10 | Centroid: ' two' | Score: 0.0037
+  Tokens: [' same', ' following', ' web', ' two', ' final']
+Rank 11 | Centroid: ' the' | Score: 0.0035
+  Tokens: [' New', ' U', ' The', ' B', ' R', ' M', ' A', ' E', ' T', ' the', ' G', ' H']
+Rank 12 | Centroid: ' South' | Score: 0.0034
+  Tokens: [' West', ' East', ' North', ' South']
+Rank 13 | Centroid: ' documentary' | Score: 0.0029
+  Tokens: [' episode', ' soap', ' programme', ' documentary', ' charity', ' award', ' upcoming', ' premiere', ' anthology', ' guest', ' biography', ' Tony']
+Rank 14 | Centroid: ' musical' | Score: 0.0006
+  Tokens: [' musical']
 
 **Chosen Concept:** Rank 1

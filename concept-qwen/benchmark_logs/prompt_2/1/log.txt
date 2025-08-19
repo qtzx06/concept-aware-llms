@@ -1,78 +1,111 @@
 --- Step 1 Log ---
 
 == Filtered Candidates ==
-Token: 'Okay' (ID: 32313), Prob: 0.0325
-Token: 'Alright' (ID: 71486), Prob: 0.0173
-Token: '"The' (ID: 10022), Prob: 0.0093
-Token: 'Narr' (ID: 63279), Prob: 0.0087
-Token: 'Story' (ID: 17938), Prob: 0.0050
-Token: 'First' (ID: 5338), Prob: 0.0039
-Token: 'Let' (ID: 10061), Prob: 0.0034
-Token: 'Well' (ID: 11395), Prob: 0.0027
-Token: 'Emb' (ID: 98786), Prob: 0.0025
-Token: '"In' (ID: 32603), Prob: 0.0023
-Token: 'Based' (ID: 28715), Prob: 0.0019
-Token: '"As' (ID: 47140), Prob: 0.0016
-Token: 'Hello' (ID: 9707), Prob: 0.0013
-Token: 'Two' (ID: 11613), Prob: 0.0013
-Token: 'Step' (ID: 8304), Prob: 0.0012
-Token: 'Use' (ID: 10253), Prob: 0.0012
-Token: 'Mar' (ID: 12061), Prob: 0.0010
-Token: 'Thanks' (ID: 12658), Prob: 0.0010
-Token: 'Good' (ID: 15216), Prob: 0.0010
-Token: '"Our' (ID: 51725), Prob: 0.0010
-Token: 'Car' (ID: 8852), Prob: 0.0009
-Token: 'Insert' (ID: 13780), Prob: 0.0009
-Token: 'Describe' (ID: 74785), Prob: 0.0009
-Token: 'Response' (ID: 2582), Prob: 0.0008
-Token: 'Start' (ID: 3479), Prob: 0.0008
-Token: 'Part' (ID: 5800), Prob: 0.0008
-Token: 'Grand' (ID: 40151), Prob: 0.0008
-Token: 'Tell' (ID: 40451), Prob: 0.0008
-Token: 'Since' (ID: 12549), Prob: 0.0007
-Token: 'Sure' (ID: 39814), Prob: 0.0007
-Token: 'Using' (ID: 16429), Prob: 0.0007
-Token: 'Looking' (ID: 22464), Prob: 0.0007
-Token: 'Think' (ID: 38687), Prob: 0.0007
+Token: ' In' (ID: 758), Prob: 0.3008
+Token: ' B' (ID: 425), Prob: 0.1826
+Token: ' He' (ID: 1260), Prob: 0.1108
+Token: ' The' (ID: 576), Prob: 0.0669
+Token: ' His' (ID: 5301), Prob: 0.0280
+Token: ' It' (ID: 1084), Prob: 0.0247
+Token: ' After' (ID: 4636), Prob: 0.0091
+Token: ' This' (ID: 1096), Prob: 0.0071
+Token: ' A' (ID: 362), Prob: 0.0062
+Token: ' As' (ID: 1634), Prob: 0.0049
+Token: ' At' (ID: 2411), Prob: 0.0049
+Token: ' During' (ID: 11954), Prob: 0.0038
+Token: ' On' (ID: 1913), Prob: 0.0029
+Token: ' Later' (ID: 24885), Prob: 0.0029
+Token: ' That' (ID: 2938), Prob: 0.0026
+Token: 'B' (ID: 33), Prob: 0.0023
+Token: ' Since' (ID: 8704), Prob: 0.0020
+Token: ' From' (ID: 5542), Prob: 0.0016
+Token: ' Following' (ID: 22713), Prob: 0.0014
+Token: ' Between' (ID: 27133), Prob: 0.0014
+Token: 'In' (ID: 641), Prob: 0.0012
+Token: ' These' (ID: 4220), Prob: 0.0012
+Token: ' Wh' (ID: 1232), Prob: 0.0011
+Token: ' For' (ID: 1752), Prob: 0.0011
+Token: ' There' (ID: 2619), Prob: 0.0010
+Token: ' How' (ID: 2585), Prob: 0.0008
+Token: ' Then' (ID: 5005), Prob: 0.0008
+Token: ' According' (ID: 10548), Prob: 0.0008
+Token: ' By' (ID: 3216), Prob: 0.0007
+Token: ' Also' (ID: 7281), Prob: 0.0007
+Token: 'He' (ID: 1519), Prob: 0.0007
+Token: ' I' (ID: 358), Prob: 0.0006
+Token: ' Despite' (ID: 17715), Prob: 0.0006
+Token: ' R' (ID: 431), Prob: 0.0005
+Token: ' An' (ID: 1527), Prob: 0.0005
+Token: ' What' (ID: 3555), Prob: 0.0005
+Token: ' While' (ID: 5976), Prob: 0.0005
+Token: ' Two' (ID: 9043), Prob: 0.0005
+Token: 'The' (ID: 785), Prob: 0.0004
+Token: ' Its' (ID: 11445), Prob: 0.0004
+Token: ' Around' (ID: 32816), Prob: 0.0004
+Token: ' in' (ID: 304), Prob: 0.0004
+Token: ' When' (ID: 3197), Prob: 0.0004
+Token: ' However' (ID: 4354), Prob: 0.0003
+Token: ' Finally' (ID: 17375), Prob: 0.0003
+Token: ' Prior' (ID: 31399), Prob: 0.0003
+Token: '2' (ID: 17), Prob: 0.0003
+Token: ' With' (ID: 3085), Prob: 0.0003
+Token: ' Sub' (ID: 3719), Prob: 0.0003
+Token: ' Other' (ID: 6944), Prob: 0.0003
+Token: ' Another' (ID: 13293), Prob: 0.0003
+Token: 'His' (ID: 15986), Prob: 0.0003
+Token: ' Upon' (ID: 29438), Prob: 0.0003
+Token: ' One' (ID: 3776), Prob: 0.0002
+Token: ' Although' (ID: 10328), Prob: 0.0002
+Token: ' Before' (ID: 13235), Prob: 0.0002
+Token: ' Earlier' (ID: 46893), Prob: 0.0002
+Token: ' Soon' (ID: 31762), Prob: 0.0002
+Token: ' Re' (ID: 1032), Prob: 0.0002
+Token: ' Over' (ID: 6065), Prob: 0.0002
+Token: ' Through' (ID: 16904), Prob: 0.0002
+Token: ' Additionally' (ID: 22406), Prob: 0.0002
+Token: ' Outside' (ID: 41151), Prob: 0.0002
+Token: ' Next' (ID: 9295), Prob: 0.0002
+Token: ' W' (ID: 467), Prob: 0.0001
+Token: ' Based' (ID: 20205), Prob: 0.0001
+Token: ' Eventually' (ID: 37174), Prob: 0.0001
+Token: ' Throughout' (ID: 45882), Prob: 0.0001
+Token: ' he' (ID: 566), Prob: 0.0001
+Token: ' Both' (ID: 11733), Prob: 0.0001
+Token: ' They' (ID: 2379), Prob: 0.0001
+Token: ' Under' (ID: 9449), Prob: 0.0001
 
 == Ranked Concepts (Clusters) ==
-Rank 1 | Centroid: 'Okay' | Score: 0.0498
-  Tokens: ['Okay', 'Alright']
-Rank 2 | Centroid: '"The' | Score: 0.0142
-  Tokens: ['"The', '"In', '"As', '"Our']
-Rank 3 | Centroid: 'Narr' | Score: 0.0137
-  Tokens: ['Narr', 'Story']
-Rank 4 | Centroid: 'First' | Score: 0.0047
-  Tokens: ['First', 'Start']
-Rank 5 | Centroid: 'Well' | Score: 0.0036
-  Tokens: ['Well', 'Good']
-Rank 6 | Centroid: 'Let' | Score: 0.0034
-  Tokens: ['Let']
-Rank 7 | Centroid: 'Since' | Score: 0.0033
-  Tokens: ['Based', 'Since', 'Looking']
-Rank 8 | Centroid: 'Emb' | Score: 0.0025
-  Tokens: ['Emb']
-Rank 9 | Centroid: 'Describe' | Score: 0.0023
-  Tokens: ['Describe', 'Tell', 'Think']
-Rank 10 | Centroid: 'Step' | Score: 0.0020
-  Tokens: ['Step', 'Part']
-Rank 11 | Centroid: 'Mar' | Score: 0.0020
-  Tokens: ['Mar', 'Car']
-Rank 12 | Centroid: 'Use' | Score: 0.0019
-  Tokens: ['Use', 'Using']
-Rank 13 | Centroid: 'Two' | Score: 0.0013
-  Tokens: ['Two']
-Rank 14 | Centroid: 'Hello' | Score: 0.0013
-  Tokens: ['Hello']
-Rank 15 | Centroid: 'Thanks' | Score: 0.0010
-  Tokens: ['Thanks']
-Rank 16 | Centroid: 'Insert' | Score: 0.0009
-  Tokens: ['Insert']
-Rank 17 | Centroid: 'Grand' | Score: 0.0008
-  Tokens: ['Grand']
-Rank 18 | Centroid: 'Response' | Score: 0.0008
-  Tokens: ['Response']
-Rank 19 | Centroid: 'Sure' | Score: 0.0007
-  Tokens: ['Sure']
+Rank 1 | Centroid: 'In' | Score: 0.3027
+  Tokens: [' In', 'In', ' in']
+Rank 2 | Centroid: ' B' | Score: 0.1924
+  Tokens: [' B', ' A', 'B', ' I', ' R', '2', ' Re', ' W']
+Rank 3 | Centroid: ' He' | Score: 0.1118
+  Tokens: [' He', 'He', ' he']
+Rank 4 | Centroid: ' The' | Score: 0.0991
+  Tokens: [' The', ' It', ' This', 'The']
+Rank 5 | Centroid: ' His' | Score: 0.0287
+  Tokens: [' His', ' Its', 'His']
+Rank 6 | Centroid: ' As' | Score: 0.0132
+  Tokens: [' As', ' At', ' On', ' An']
+Rank 7 | Centroid: ' For' | Score: 0.0131
+  Tokens: [' After', ' From', ' For', ' By', ' With', ' Upon']
+Rank 8 | Centroid: ' During' | Score: 0.0074
+  Tokens: [' During', ' Following', ' Between', ' Around', ' Through', ' Based', ' Throughout']
+Rank 9 | Centroid: ' Additionally' | Score: 0.0070
+  Tokens: [' That', ' These', ' There', ' Then', ' Also', ' However', ' Additionally', ' They']
+Rank 10 | Centroid: ' Although' | Score: 0.0045
+  Tokens: [' Since', ' According', ' Despite', ' While', ' When', ' Although']
+Rank 11 | Centroid: ' Eventually' | Score: 0.0036
+  Tokens: [' Later', ' Finally', ' Soon', ' Eventually']
+Rank 12 | Centroid: ' What' | Score: 0.0024
+  Tokens: [' Wh', ' How', ' What']
+Rank 13 | Centroid: ' Two' | Score: 0.0015
+  Tokens: [' Two', ' Other', ' Another', ' One', ' Next', ' Both']
+Rank 14 | Centroid: ' Before' | Score: 0.0007
+  Tokens: [' Prior', ' Before', ' Earlier']
+Rank 15 | Centroid: ' Over' | Score: 0.0005
+  Tokens: [' Over', ' Outside', ' Under']
+Rank 16 | Centroid: ' Sub' | Score: 0.0003
+  Tokens: [' Sub']
 
 **Chosen Concept:** Rank 1

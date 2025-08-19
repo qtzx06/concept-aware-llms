@@ -1,153 +1,137 @@
 --- Step 38 Log ---
 
 == Filtered Candidates ==
-Token: ' two' (ID: 1378), Prob: 0.5156
-Token: ' kids' (ID: 6837), Prob: 0.4023
-Token: ' young' (ID: 3908), Prob: 0.0227
-Token: ' children' (ID: 2841), Prob: 0.0200
-Token: ' family' (ID: 2997), Prob: 0.0051
-Token: ' problem' (ID: 3491), Prob: 0.0045
-Token: ' situation' (ID: 6534), Prob: 0.0045
-Token: ' issue' (ID: 4265), Prob: 0.0016
-Token: ' long' (ID: 1293), Prob: 0.0014
-Token: ' ill' (ID: 5862), Prob: 0.0010
-Token: ' problems' (ID: 5322), Prob: 0.0009
-Token: ' destination' (ID: 9106), Prob: 0.0009
-Token: ' time' (ID: 882), Prob: 0.0007
-Token: ' three' (ID: 2326), Prob: 0.0006
-Token: ' route' (ID: 6021), Prob: 0.0005
-Token: ' journey' (ID: 11618), Prob: 0.0005
-Token: ' reason' (ID: 2874), Prob: 0.0005
-Token: ' issues' (ID: 4714), Prob: 0.0005
-Token: ' twins' (ID: 43636), Prob: 0.0005
-Token: ' location' (ID: 3728), Prob: 0.0005
-Token: ' cause' (ID: 5240), Prob: 0.0004
-Token: ' trip' (ID: 8411), Prob: 0.0004
-Token: ' conflict' (ID: 12055), Prob: 0.0003
-Token: ' illness' (ID: 17125), Prob: 0.0003
-Token: ' reasons' (ID: 7966), Prob: 0.0003
-Token: ' road' (ID: 5636), Prob: 0.0003
-Token: ' parents' (ID: 6562), Prob: 0.0003
-Token: ' cars' (ID: 9331), Prob: 0.0003
-Token: ' circumstances' (ID: 13161), Prob: 0.0003
-Token: ' emotions' (ID: 21261), Prob: 0.0003
-Token: ' siblings' (ID: 36683), Prob: 0.0003
-Token: ' result' (ID: 1102), Prob: 0.0002
-Token: ' details' (ID: 3565), Prob: 0.0002
-Token: ' challenges' (ID: 11513), Prob: 0.0002
-Token: ' impact' (ID: 5421), Prob: 0.0002
-Token: ' setting' (ID: 6243), Prob: 0.0002
-Token: ' purpose' (ID: 7428), Prob: 0.0002
-Token: ' old' (ID: 2310), Prob: 0.0002
-Token: ' specific' (ID: 3151), Prob: 0.0002
-Token: ' age' (ID: 4231), Prob: 0.0002
-Token: ' couple' (ID: 5625), Prob: 0.0002
-Token: ' years' (ID: 1635), Prob: 0.0002
-Token: ' setup' (ID: 6505), Prob: 0.0002
-Token: ' number' (ID: 1372), Prob: 0.0002
-Token: ' main' (ID: 1887), Prob: 0.0002
-Token: ' frustration' (ID: 31986), Prob: 0.0002
-Token: ' duration' (ID: 8090), Prob: 0.0002
-Token: ' incident' (ID: 10455), Prob: 0.0002
-Token: ' big' (ID: 2409), Prob: 0.0001
-Token: ' youth' (ID: 12537), Prob: 0.0001
-Token: ' people' (ID: 1251), Prob: 0.0001
+Token: ' role' (ID: 3476), Prob: 0.7539
+Token: ' lead' (ID: 2990), Prob: 0.0791
+Token: ' title' (ID: 2265), Prob: 0.0698
+Token: ' part' (ID: 949), Prob: 0.0258
+Token: ' character' (ID: 3668), Prob: 0.0258
+Token: ' leading' (ID: 6388), Prob: 0.0177
+Token: ' supporting' (ID: 12613), Prob: 0.0031
+Token: ' main' (ID: 1887), Prob: 0.0016
+Token: ' male' (ID: 8593), Prob: 0.0016
+Token: ' recurring' (ID: 45250), Prob: 0.0016
+Token: ' minor' (ID: 8922), Prob: 0.0009
+Token: ' small' (ID: 2613), Prob: 0.0006
+Token: ' young' (ID: 3908), Prob: 0.0006
+Token: ' villain' (ID: 39048), Prob: 0.0006
+Token: ' titular' (ID: 80105), Prob: 0.0006
+Token: ' e' (ID: 384), Prob: 0.0005
+Token: ' voice' (ID: 7743), Prob: 0.0005
+Token: ' fictional' (ID: 43582), Prob: 0.0005
+Token: ' central' (ID: 8622), Prob: 0.0004
+Token: ' same' (ID: 1852), Prob: 0.0004
+Token: ' bass' (ID: 21529), Prob: 0.0004
+Token: ' antagonist' (ID: 81059), Prob: 0.0004
+Token: ' pivotal' (ID: 59750), Prob: 0.0003
+Token: ' younger' (ID: 14650), Prob: 0.0003
+Token: ' dual' (ID: 18579), Prob: 0.0003
+Token: ' starring' (ID: 39400), Prob: 0.0003
+Token: ' guest' (ID: 8640), Prob: 0.0002
+Token: ' principal' (ID: 12435), Prob: 0.0002
+Token: ' first' (ID: 1156), Prob: 0.0002
+Token: ' secondary' (ID: 14246), Prob: 0.0002
+Token: ' Lead' (ID: 29882), Prob: 0.0002
+Token: ' opposite' (ID: 14002), Prob: 0.0002
+Token: ' roles' (ID: 12783), Prob: 0.0002
+Token: ' film' (ID: 4531), Prob: 0.0002
+Token: ' major' (ID: 3598), Prob: 0.0002
+Token: ' English' (ID: 6364), Prob: 0.0002
+Token: ' protagonist' (ID: 45584), Prob: 0.0002
+Token: ' actor' (ID: 12089), Prob: 0.0001
+Token: ' female' (ID: 8778), Prob: 0.0001
+Token: ' rôle' (ID: 137614), Prob: 0.0001
+Token: ' father' (ID: 6981), Prob: 0.0001
 Token: ' short' (ID: 2805), Prob: 0.0001
-Token: ' role' (ID: 3476), Prob: 0.0001
-Token: ' emotional' (ID: 14269), Prob: 0.0001
-Token: ' days' (ID: 2849), Prob: 0.0001
-Token: ' outcome' (ID: 15274), Prob: 0.0001
-Token: ' arrival' (ID: 18647), Prob: 0.0001
-Token: ' story' (ID: 3364), Prob: 0.0001
-Token: ' younger' (ID: 14650), Prob: 0.0001
-Token: ' struggle' (ID: 14651), Prob: 0.0001
-Token: ' struggles' (ID: 27870), Prob: 0.0001
-Token: ' infants' (ID: 41434), Prob: 0.0001
-Token: ' presence' (ID: 9362), Prob: 0.0001
-Token: ' scenario' (ID: 15048), Prob: 0.0001
-Token: ' passengers' (ID: 22172), Prob: 0.0001
-Token: ' environment' (ID: 4573), Prob: 0.0001
-Token: ' lack' (ID: 6853), Prob: 0.0001
-Token: ' challenge' (ID: 8645), Prob: 0.0001
-Token: ' trouble' (ID: 12264), Prob: 0.0001
-Token: ' dilemma' (ID: 54767), Prob: 0.0001
-Token: ' experience' (ID: 3139), Prob: 0.0001
-Token: ' vehicles' (ID: 11474), Prob: 0.0001
-Token: ' affected' (ID: 11495), Prob: 0.0001
-Token: ' key' (ID: 1376), Prob: 0.0001
-Token: ' small' (ID: 2613), Prob: 0.0001
-Token: ' participants' (ID: 13026), Prob: 0.0001
-Token: ' timeline' (ID: 24808), Prob: 0.0001
-Token: ' elderly' (ID: 28820), Prob: 0.0001
-Token: ' goal' (ID: 5795), Prob: 0.0001
-Token: ' weather' (ID: 9104), Prob: 0.0001
-Token: ' adults' (ID: 12598), Prob: 0.0001
-Token: ' negative' (ID: 8225), Prob: 0.0001
-Token: ' babies' (ID: 23920), Prob: 0.0001
-Token: ' toddlers' (ID: 78835), Prob: 0.0001
-Token: ' context' (ID: 2266), Prob: 0.0000
-Token: ' incidents' (ID: 23546), Prob: 0.0000
-Token: ' path' (ID: 1815), Prob: 0.0000
-Token: ' tasks' (ID: 9079), Prob: 0.0000
-Token: ' problematic' (ID: 34933), Prob: 0.0000
+Token: ' British' (ID: 7855), Prob: 0.0001
+Token: ' prominent' (ID: 20469), Prob: 0.0001
+Token: ' Role' (ID: 15404), Prob: 0.0001
+Token: ' television' (ID: 12425), Prob: 0.0001
+Token: ' in' (ID: 304), Prob: 0.0001
+Token: ' side' (ID: 3108), Prob: 0.0001
+Token: ' cameo' (ID: 94056), Prob: 0.0001
+Token: ' r' (ID: 435), Prob: 0.0001
+Token: ' series' (ID: 4013), Prob: 0.0001
+Token: ' iconic' (ID: 26277), Prob: 0.0001
+Token: ' co' (ID: 1062), Prob: 0.0001
+Token: ' dramatic' (ID: 21771), Prob: 0.0001
+Token: ' romantic' (ID: 23467), Prob: 0.0001
+Token: ' final' (ID: 1590), Prob: 0.0001
+Token: ' Canadian' (ID: 11888), Prob: 0.0001
+Token: ' comedic' (ID: 94371), Prob: 0.0001
+Token: ' second' (ID: 2086), Prob: 0.0001
+Token: ' son' (ID: 4438), Prob: 0.0001
+Token: ' third' (ID: 4843), Prob: 0.0001
 Token: ' child' (ID: 1682), Prob: 0.0000
-Token: ' place' (ID: 1992), Prob: 0.0000
-Token: ' immediate' (ID: 13922), Prob: 0.0000
-Token: ' destinations' (ID: 33105), Prob: 0.0000
-Token: ' items' (ID: 3589), Prob: 0.0000
-Token: ' elements' (ID: 5424), Prob: 0.0000
-Token: ' topic' (ID: 8544), Prob: 0.0000
-Token: ' trips' (ID: 22466), Prob: 0.0000
-Token: ' things' (ID: 2513), Prob: 0.0000
-Token: ' bad' (ID: 3873), Prob: 0.0000
-Token: ' motivation' (ID: 24798), Prob: 0.0000
+Token: ' assistant' (ID: 17847), Prob: 0.0000
+Token: ' new' (ID: 501), Prob: 0.0000
+Token: ' key' (ID: 1376), Prob: 0.0000
+Token: ' support' (ID: 1824), Prob: 0.0000
+Token: ' acclaimed' (ID: 48982), Prob: 0.0000
+Token: ' musical' (ID: 17795), Prob: 0.0000
+Token: ' re' (ID: 312), Prob: 0.0000
+Token: ' parts' (ID: 5479), Prob: 0.0000
+Token: ' anti' (ID: 7147), Prob: 0.0000
+Token: ' leads' (ID: 11508), Prob: 0.0000
+Token: ' junior' (ID: 26052), Prob: 0.0000
+Token: ' police' (ID: 4282), Prob: 0.0000
+Token: ' TV' (ID: 5883), Prob: 0.0000
+Token: ' smaller' (ID: 9155), Prob: 0.0000
+Token: ' youngest' (ID: 38537), Prob: 0.0000
+Token: ' Supporting' (ID: 73996), Prob: 0.0000
+Token: ' long' (ID: 1293), Prob: 0.0000
+Token: ' most' (ID: 1429), Prob: 0.0000
+Token: ' portrayal' (ID: 73933), Prob: 0.0000
+Token: ' French' (ID: 8585), Prob: 0.0000
+Token: ' fourth' (ID: 11737), Prob: 0.0000
+Token: ' newly' (ID: 13631), Prob: 0.0000
+Token: ' comic' (ID: 19724), Prob: 0.0000
+Token: ' teenage' (ID: 33168), Prob: 0.0000
+Token: ' detective' (ID: 44159), Prob: 0.0000
+Token: ' a' (ID: 264), Prob: 0.0000
+Token: ' only' (ID: 1172), Prob: 0.0000
+Token: ' larger' (ID: 8131), Prob: 0.0000
+Token: ' older' (ID: 9014), Prob: 0.0000
+Token: ' Title' (ID: 10869), Prob: 0.0000
 
 == Ranked Concepts (Clusters) ==
-Rank 1 | Centroid: ' two' | Score: 0.5195
-  Tokens: [' two', ' long', ' three', ' specific', ' number', ' main', ' big', ' short', ' key', ' small', ' bad']
-Rank 2 | Centroid: ' children' | Score: 0.4238
-  Tokens: [' kids', ' children', ' twins', ' parents', ' siblings', ' infants', ' adults', ' babies', ' toddlers', ' child']
-Rank 3 | Centroid: ' young' | Score: 0.0234
-  Tokens: [' young', ' old', ' age', ' youth', ' younger', ' elderly']
-Rank 4 | Centroid: ' problems' | Score: 0.0077
-  Tokens: [' problem', ' issue', ' problems', ' issues', ' trouble', ' problematic']
-Rank 5 | Centroid: ' scenario' | Score: 0.0052
-  Tokens: [' situation', ' setting', ' setup', ' story', ' scenario', ' environment', ' timeline', ' context']
-Rank 6 | Centroid: ' family' | Score: 0.0052
-  Tokens: [' family', ' couple']
-Rank 7 | Centroid: ' journey' | Score: 0.0018
-  Tokens: [' route', ' journey', ' trip', ' road', ' path', ' trips']
-Rank 8 | Centroid: ' incidents' | Score: 0.0015
-  Tokens: [' ill', ' illness', ' incident', ' incidents']
-Rank 9 | Centroid: ' destination' | Score: 0.0012
-  Tokens: [' destination', ' purpose', ' goal', ' destinations', ' motivation']
-Rank 10 | Centroid: ' reason' | Score: 0.0012
-  Tokens: [' reason', ' cause', ' reasons']
-Rank 11 | Centroid: ' days' | Score: 0.0012
-  Tokens: [' time', ' years', ' duration', ' days']
-Rank 12 | Centroid: ' struggle' | Score: 0.0011
-  Tokens: [' conflict', ' challenges', ' frustration', ' struggle', ' struggles', ' challenge', ' dilemma']
-Rank 13 | Centroid: ' location' | Score: 0.0006
-  Tokens: [' location', ' role', ' place']
-Rank 14 | Centroid: ' outcome' | Score: 0.0006
-  Tokens: [' result', ' impact', ' outcome', ' affected']
-Rank 15 | Centroid: ' vehicles' | Score: 0.0005
-  Tokens: [' cars', ' passengers', ' vehicles', ' participants']
-Rank 16 | Centroid: ' emotional' | Score: 0.0005
-  Tokens: [' emotions', ' emotional', ' negative', ' immediate']
-Rank 17 | Centroid: ' items' | Score: 0.0005
-  Tokens: [' details', ' people', ' items', ' elements', ' things']
-Rank 18 | Centroid: ' circumstances' | Score: 0.0003
-  Tokens: [' circumstances']
-Rank 19 | Centroid: ' presence' | Score: 0.0002
-  Tokens: [' presence', ' lack']
-Rank 20 | Centroid: ' experience' | Score: 0.0001
-  Tokens: [' experience', ' weather']
-Rank 21 | Centroid: ' arrival' | Score: 0.0001
-  Tokens: [' arrival']
-Rank 22 | Centroid: ' tasks' | Score: 0.0000
-  Tokens: [' tasks']
-Rank 23 | Centroid: ' topic' | Score: 0.0000
-  Tokens: [' topic']
+Rank 1 | Centroid: ' role' | Score: 0.7539
+  Tokens: [' role', ' roles', ' rôle', ' Role']
+Rank 2 | Centroid: ' lead' | Score: 0.0972
+  Tokens: [' lead', ' leading', ' Lead', ' leads']
+Rank 3 | Centroid: ' title' | Score: 0.0703
+  Tokens: [' title', ' titular', ' Title']
+Rank 4 | Centroid: ' in' | Score: 0.0269
+  Tokens: [' part', ' e', ' short', ' in', ' side', ' r', ' co', ' new', ' re', ' parts', ' long', ' most', ' a', ' only']
+Rank 5 | Centroid: ' television' | Score: 0.0264
+  Tokens: [' character', ' opposite', ' film', ' actor', ' television', ' TV']
+Rank 6 | Centroid: ' major' | Score: 0.0035
+  Tokens: [' main', ' minor', ' central', ' principal', ' major', ' prominent', ' key']
+Rank 7 | Centroid: ' supporting' | Score: 0.0032
+  Tokens: [' supporting', ' support', ' Supporting']
+Rank 8 | Centroid: ' comedic' | Score: 0.0022
+  Tokens: [' villain', ' fictional', ' antagonist', ' starring', ' protagonist', ' cameo', ' iconic', ' dramatic', ' comedic', ' acclaimed', ' portrayal', ' comic', ' detective']
+Rank 9 | Centroid: ' recurring' | Score: 0.0019
+  Tokens: [' recurring', ' pivotal']
+Rank 10 | Centroid: ' male' | Score: 0.0018
+  Tokens: [' male', ' female']
+Rank 11 | Centroid: ' British' | Score: 0.0014
+  Tokens: [' voice', ' bass', ' English', ' British', ' romantic', ' Canadian', ' musical', ' police', ' French']
+Rank 12 | Centroid: ' younger' | Score: 0.0010
+  Tokens: [' young', ' younger', ' junior', ' youngest', ' newly', ' teenage', ' older']
+Rank 13 | Centroid: ' smaller' | Score: 0.0007
+  Tokens: [' small', ' smaller', ' larger']
+Rank 14 | Centroid: ' first' | Score: 0.0006
+  Tokens: [' same', ' first', ' final']
+Rank 15 | Centroid: ' third' | Score: 0.0003
+  Tokens: [' secondary', ' second', ' third', ' fourth']
+Rank 16 | Centroid: ' guest' | Score: 0.0003
+  Tokens: [' guest', ' assistant']
+Rank 17 | Centroid: ' dual' | Score: 0.0003
+  Tokens: [' dual']
+Rank 18 | Centroid: ' father' | Score: 0.0002
+  Tokens: [' father', ' son', ' child']
+Rank 19 | Centroid: ' series' | Score: 0.0001
+  Tokens: [' series', ' anti']
 
 **Chosen Concept:** Rank 1

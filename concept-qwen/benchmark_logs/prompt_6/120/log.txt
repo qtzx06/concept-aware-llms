@@ -1,0 +1,123 @@
+--- Step 120 Log ---
+
+== Filtered Candidates ==
+Token: ' film' (ID: 4531), Prob: 0.9961
+Token: ' movie' (ID: 5700), Prob: 0.0019
+Token: ' films' (ID: 12351), Prob: 0.0001
+Token: ' television' (ID: 12425), Prob: 0.0001
+Token: ' TV' (ID: 5883), Prob: 0.0000
+Token: ' first' (ID: 1156), Prob: 0.0000
+Token: ' Film' (ID: 16631), Prob: 0.0000
+Token: ' same' (ID: 1852), Prob: 0.0000
+Token: ' short' (ID: 2805), Prob: 0.0000
+Token: ' third' (ID: 4843), Prob: 0.0000
+Token: ' comedy' (ID: 22358), Prob: 0.0000
+Token: 'film' (ID: 30155), Prob: 0.0000
+Token: ' sequel' (ID: 34761), Prob: 0.0000
+Token: ' the' (ID: 279), Prob: 0.0000
+Token: ' The' (ID: 576), Prob: 0.0000
+Token: ' second' (ID: 2086), Prob: 0.0000
+Token: ' horror' (ID: 21452), Prob: 0.0000
+Token: ' series' (ID: 4013), Prob: 0.0000
+Token: ' feature' (ID: 4565), Prob: 0.0000
+Token: ' motion' (ID: 11379), Prob: 0.0000
+Token: ' T' (ID: 350), Prob: 0.0000
+Token: ' episode' (ID: 9234), Prob: 0.0000
+Token: ' following' (ID: 2701), Prob: 0.0000
+Token: ' final' (ID: 1590), Prob: 0.0000
+Token: ' drama' (ID: 19584), Prob: 0.0000
+Token: ' action' (ID: 1917), Prob: 0.0000
+Token: ' DVD' (ID: 18092), Prob: 0.0000
+Token: ' D' (ID: 422), Prob: 0.0000
+Token: ' documentary' (ID: 24954), Prob: 0.0000
+Token: ' March' (ID: 5470), Prob: 0.0000
+Token: ' two' (ID: 1378), Prob: 0.0000
+Token: ' April' (ID: 5813), Prob: 0.0000
+Token: ' filming' (ID: 38870), Prob: 0.0000
+Token: ' thriller' (ID: 53361), Prob: 0.0000
+Token: ' July' (ID: 5768), Prob: 0.0000
+Token: ' fourth' (ID: 11737), Prob: 0.0000
+Token: ' fifth' (ID: 17702), Prob: 0.0000
+Token: ' summer' (ID: 7324), Prob: 0.0000
+Token: ' web' (ID: 3482), Prob: 0.0000
+Token: ' science' (ID: 8038), Prob: 0.0000
+Token: ' American' (ID: 3693), Prob: 0.0000
+Token: ' legal' (ID: 5777), Prob: 0.0000
+Token: ' fictional' (ID: 43582), Prob: 0.0000
+Token: ' June' (ID: 5534), Prob: 0.0000
+Token: ' French' (ID: 8585), Prob: 0.0000
+Token: ' musical' (ID: 17795), Prob: 0.0000
+Token: ' S' (ID: 328), Prob: 0.0000
+Token: ' independent' (ID: 9489), Prob: 0.0000
+Token: ' crime' (ID: 9778), Prob: 0.0000
+Token: ' medical' (ID: 6457), Prob: 0.0000
+Token: ' September' (ID: 6122), Prob: 0.0000
+Token: ' a' (ID: 264), Prob: 0.0000
+Token: ' show' (ID: 1473), Prob: 0.0000
+Token: ' bi' (ID: 6032), Prob: 0.0000
+Token: ' band' (ID: 7055), Prob: 0.0000
+Token: ' video' (ID: 2766), Prob: 0.0000
+Token: ' production' (ID: 5670), Prob: 0.0000
+Token: ' February' (ID: 7400), Prob: 0.0000
+Token: ' hospital' (ID: 8777), Prob: 0.0000
+Token: ' A' (ID: 362), Prob: 0.0000
+Token: ' United' (ID: 3639), Prob: 0.0000
+Token: ' January' (ID: 6058), Prob: 0.0000
+Token: ' murder' (ID: 9901), Prob: 0.0000
+Token: ' sci' (ID: 37974), Prob: 0.0000
+Token: ' theatrical' (ID: 65233), Prob: 0.0000
+Token: ' role' (ID: 3476), Prob: 0.0000
+Token: ' music' (ID: 4627), Prob: 0.0000
+Token: ' live' (ID: 3887), Prob: 0.0000
+Token: ' small' (ID: 2613), Prob: 0.0000
+Token: ' October' (ID: 6527), Prob: 0.0000
+Token: ' sports' (ID: 9833), Prob: 0.0000
+Token: ' anthology' (ID: 83008), Prob: 0.0000
+Token: ' martial' (ID: 36859), Prob: 0.0000
+Token: ' fall' (ID: 4399), Prob: 0.0000
+Token: ' financial' (ID: 5896), Prob: 0.0000
+Token: ' album' (ID: 8017), Prob: 0.0000
+Token: ' latter' (ID: 15271), Prob: 0.0000
+Token: ' bio' (ID: 16905), Prob: 0.0000
+Token: ' flick' (ID: 28347), Prob: 0.0000
+Token: ' other' (ID: 1008), Prob: 0.0000
+
+== Ranked Concepts (Clusters) ==
+Rank 1 | Centroid: ' film' | Score: 1.0000
+  Tokens: [' film', ' movie', ' films', ' Film', 'film', ' filming']
+Rank 2 | Centroid: ' television' | Score: 0.0001
+  Tokens: [' television', ' TV', ' DVD', ' video']
+Rank 3 | Centroid: ' third' | Score: 0.0001
+  Tokens: [' first', ' third', ' second', ' fourth', ' fifth']
+Rank 4 | Centroid: ' the' | Score: 0.0001
+  Tokens: [' short', ' the', ' The', ' T', ' D', ' two', ' S', ' a', ' A', ' small', ' other']
+Rank 5 | Centroid: ' comedy' | Score: 0.0001
+  Tokens: [' comedy', ' sequel', ' horror', ' drama', ' documentary', ' thriller', ' fictional', ' theatrical', ' anthology']
+Rank 6 | Centroid: ' American' | Score: 0.0000
+  Tokens: [' same', ' following', ' American', ' French', ' United', ' latter']
+Rank 7 | Centroid: ' July' | Score: 0.0000
+  Tokens: [' March', ' April', ' July', ' summer', ' June', ' September', ' February', ' January', ' October']
+Rank 8 | Centroid: ' crime' | Score: 0.0000
+  Tokens: [' motion', ' action', ' crime', ' murder', ' sports', ' martial']
+Rank 9 | Centroid: ' series' | Score: 0.0000
+  Tokens: [' series', ' episode']
+Rank 10 | Centroid: ' role' | Score: 0.0000
+  Tokens: [' feature', ' final', ' role', ' fall']
+Rank 11 | Centroid: ' show' | Score: 0.0000
+  Tokens: [' web', ' show', ' production', ' live']
+Rank 12 | Centroid: ' medical' | Score: 0.0000
+  Tokens: [' legal', ' medical', ' hospital', ' financial']
+Rank 13 | Centroid: ' science' | Score: 0.0000
+  Tokens: [' science', ' sci']
+Rank 14 | Centroid: ' musical' | Score: 0.0000
+  Tokens: [' musical', ' music']
+Rank 15 | Centroid: ' band' | Score: 0.0000
+  Tokens: [' band', ' album']
+Rank 16 | Centroid: ' bi' | Score: 0.0000
+  Tokens: [' bi', ' bio']
+Rank 17 | Centroid: ' independent' | Score: 0.0000
+  Tokens: [' independent']
+Rank 18 | Centroid: ' flick' | Score: 0.0000
+  Tokens: [' flick']
+
+**Chosen Concept:** Rank 1

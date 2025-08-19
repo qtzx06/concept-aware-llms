@@ -1,112 +1,159 @@
 --- Step 9 Log ---
 
 == Filtered Candidates ==
-Token: ' need' (ID: 1184), Prob: 0.0001
-Token: ' get' (ID: 633), Prob: 0.0001
-Token: ' create' (ID: 1855), Prob: 0.0000
-Token: ' outline' (ID: 21101), Prob: 0.0000
-Token: ' start' (ID: 1191), Prob: 0.0000
-Token: ' identify' (ID: 10542), Prob: 0.0000
-Token: ' maybe' (ID: 7196), Prob: 0.0000
-Token: ' user' (ID: 1196), Prob: 0.0000
-Token: ' make' (ID: 1281), Prob: 0.0000
-Token: ' extract' (ID: 8649), Prob: 0.0000
-Token: ' find' (ID: 1477), Prob: 0.0000
-Token: ' background' (ID: 4004), Prob: 0.0000
-Token: ' understand' (ID: 3535), Prob: 0.0000
-Token: ' someone' (ID: 4325), Prob: 0.0000
-Token: ' figure' (ID: 7071), Prob: 0.0000
-Token: ' title' (ID: 2265), Prob: 0.0000
-Token: ' name' (ID: 829), Prob: 0.0000
-Token: ' break' (ID: 1438), Prob: 0.0000
-Token: ' gather' (ID: 9567), Prob: 0.0000
-Token: ' write' (ID: 3270), Prob: 0.0000
-Token: ' prompt' (ID: 9934), Prob: 0.0000
-Token: ' read' (ID: 1349), Prob: 0.0000
-Token: ' grab' (ID: 11633), Prob: 0.0000
-Token: ' tackle' (ID: 21403), Prob: 0.0000
-Token: ' pick' (ID: 3735), Prob: 0.0000
-Token: ' parse' (ID: 4715), Prob: 0.0000
-Token: ' people' (ID: 1251), Prob: 0.0000
-Token: ' point' (ID: 1459), Prob: 0.0000
-Token: ' users' (ID: 3847), Prob: 0.0000
-Token: ' take' (ID: 1896), Prob: 0.0000
-Token: ' summarize' (ID: 62079), Prob: 0.0000
-Token: ' something' (ID: 2494), Prob: 0.0000
-Token: ' set' (ID: 738), Prob: 0.0000
-Token: ' establish' (ID: 5695), Prob: 0.0000
-Token: ' got' (ID: 2684), Prob: 0.0000
-Token: ' everyone' (ID: 5019), Prob: 0.0000
-Token: ' let' (ID: 1077), Prob: 0.0000
-Token: ' introduce' (ID: 19131), Prob: 0.0000
-Token: ' determine' (ID: 8253), Prob: 0.0000
-Token: ' decide' (ID: 10279), Prob: 0.0000
-Token: ' readers' (ID: 12726), Prob: 0.0000
-Token: ' needs' (ID: 3880), Prob: 0.0000
-Token: ' structure' (ID: 5944), Prob: 0.0000
-Token: ' paragraph' (ID: 14311), Prob: 0.0000
-Token: ' check' (ID: 1779), Prob: 0.0000
-Token: ' focus' (ID: 5244), Prob: 0.0000
-Token: ' want' (ID: 1366), Prob: 0.0000
-Token: ' based' (ID: 3118), Prob: 0.0000
-Token: ' meet' (ID: 3367), Prob: 0.0000
-Token: ' translate' (ID: 14683), Prob: 0.0000
-Token: ' compose' (ID: 30335), Prob: 0.0000
-Token: ' characters' (ID: 5766), Prob: 0.0000
-Token: ' main' (ID: 1887), Prob: 0.0000
-Token: ' cover' (ID: 3421), Prob: 0.0000
-Token: ' handle' (ID: 3705), Prob: 0.0000
-Token: ' connect' (ID: 4564), Prob: 0.0000
-Token: ' tell' (ID: 3291), Prob: 0.0000
-Token: ' cut' (ID: 3931), Prob: 0.0000
-Token: ' analyze' (ID: 23643), Prob: 0.0000
-Token: ' acknowledge' (ID: 24645), Prob: 0.0000
-Token: ' base' (ID: 2331), Prob: 0.0000
-Token: ' character' (ID: 3668), Prob: 0.0000
-Token: ' define' (ID: 6979), Prob: 0.0000
+Token: ' Bill' (ID: 8596), Prob: 0.2139
+Token: ' Thick' (ID: 81277), Prob: 0.1670
+Token: ' S' (ID: 328), Prob: 0.0693
+Token: ' Young' (ID: 13263), Prob: 0.0289
+Token: ' Wire' (ID: 19378), Prob: 0.0226
+Token: ' X' (ID: 1599), Prob: 0.0199
+Token: ' Office' (ID: 8246), Prob: 0.0199
+Token: ' Crown' (ID: 28643), Prob: 0.0187
+Token: ' Long' (ID: 5724), Prob: 0.0121
+Token: ' Good' (ID: 7684), Prob: 0.0121
+Token: ' Last' (ID: 7996), Prob: 0.0121
+Token: ' Arch' (ID: 9494), Prob: 0.0107
+Token: ' Division' (ID: 14489), Prob: 0.0083
+Token: ' Clo' (ID: 18679), Prob: 0.0069
+Token: ' F' (ID: 434), Prob: 0.0065
+Token: ' Pers' (ID: 20465), Prob: 0.0065
+Token: ' Missing' (ID: 35264), Prob: 0.0065
+Token: ' O' (ID: 506), Prob: 0.0061
+Token: ' Professionals' (ID: 70402), Prob: 0.0061
+Token: ' Mind' (ID: 22904), Prob: 0.0057
+Token: ' A' (ID: 362), Prob: 0.0054
+Token: ' League' (ID: 8953), Prob: 0.0050
+Token: ' Shield' (ID: 29743), Prob: 0.0050
+Token: ' Prison' (ID: 41518), Prob: 0.0050
+Token: ' L' (ID: 444), Prob: 0.0047
+Token: ' Royal' (ID: 16194), Prob: 0.0045
+Token: ' W' (ID: 467), Prob: 0.0037
+Token: ' Red' (ID: 3731), Prob: 0.0037
+Token: ' Fall' (ID: 14785), Prob: 0.0037
+Token: ' Mental' (ID: 37795), Prob: 0.0037
+Token: ' D' (ID: 422), Prob: 0.0035
+Token: ' Mag' (ID: 6879), Prob: 0.0035
+Token: ' Synd' (ID: 41219), Prob: 0.0035
+Token: ' Elephant' (ID: 78089), Prob: 0.0035
+Token: ' Apprentice' (ID: 83891), Prob: 0.0035
+Token: ' IT' (ID: 8700), Prob: 0.0033
+Token: ' Ne' (ID: 4182), Prob: 0.0031
+Token: ' West' (ID: 4312), Prob: 0.0031
+Token: ' Americans' (ID: 8877), Prob: 0.0031
+Token: ' Bank' (ID: 8547), Prob: 0.0029
+Token: ' East' (ID: 6326), Prob: 0.0027
+Token: ' New' (ID: 1532), Prob: 0.0025
+Token: ' Fast' (ID: 17288), Prob: 0.0025
+Token: ' Sarah' (ID: 20445), Prob: 0.0025
+Token: ' In' (ID: 758), Prob: 0.0024
+Token: ' Re' (ID: 1032), Prob: 0.0024
+Token: ' Fourth' (ID: 35074), Prob: 0.0024
+Token: ' Killing' (ID: 69577), Prob: 0.0024
+Token: ' North' (ID: 4787), Prob: 0.0022
+Token: ' Sl' (ID: 6852), Prob: 0.0022
+Token: ' Casual' (ID: 48822), Prob: 0.0021
+Token: ' Streets' (ID: 65518), Prob: 0.0021
+Token: ' Republic' (ID: 5429), Prob: 0.0020
+Token: ' Deep' (ID: 18183), Prob: 0.0020
+Token: ' Elder' (ID: 38569), Prob: 0.0020
+Token: ' B' (ID: 425), Prob: 0.0019
+Token: ' Truth' (ID: 29098), Prob: 0.0019
+Token: ' World' (ID: 4337), Prob: 0.0017
+Token: ' Fifth' (ID: 22843), Prob: 0.0017
+Token: ' Black' (ID: 5235), Prob: 0.0016
+Token: ' Ash' (ID: 14595), Prob: 0.0016
+Token: ' Lost' (ID: 27252), Prob: 0.0016
+Token: ' Witness' (ID: 48899), Prob: 0.0016
+Token: ' Ro' (ID: 11830), Prob: 0.0015
+Token: ' Mob' (ID: 34906), Prob: 0.0015
+Token: ' Hollow' (ID: 48693), Prob: 0.0015
+Token: ' K' (ID: 730), Prob: 0.0014
+Token: ' It' (ID: 1084), Prob: 0.0014
+Token: ' Trust' (ID: 16816), Prob: 0.0014
+Token: ' Golden' (ID: 17809), Prob: 0.0014
+Token: ' Guardian' (ID: 24454), Prob: 0.0014
+Token: ' Wolf' (ID: 25230), Prob: 0.0014
+Token: ' Add' (ID: 2691), Prob: 0.0013
+Token: ' Prime' (ID: 12518), Prob: 0.0012
+Token: ' M' (ID: 386), Prob: 0.0011
+Token: ' Jack' (ID: 7607), Prob: 0.0011
+Token: ' Sun' (ID: 8059), Prob: 0.0011
+Token: ' Stand' (ID: 15577), Prob: 0.0011
+Token: ' Great' (ID: 8513), Prob: 0.0011
+Token: ' History' (ID: 11099), Prob: 0.0011
+Token: ' H' (ID: 472), Prob: 0.0010
+Token: ' End' (ID: 3972), Prob: 0.0010
+Token: ' River' (ID: 10948), Prob: 0.0010
+Token: ' C' (ID: 356), Prob: 0.0009
+Token: ' White' (ID: 5807), Prob: 0.0009
+Token: ' Third' (ID: 20861), Prob: 0.0009
+Token: ' Pill' (ID: 34136), Prob: 0.0009
+Token: ' Adventures' (ID: 50579), Prob: 0.0009
+Token: ' Quick' (ID: 17251), Prob: 0.0009
+Token: ' Bridge' (ID: 19874), Prob: 0.0009
+Token: ' Wind' (ID: 22087), Prob: 0.0009
+Token: ' Hour' (ID: 30833), Prob: 0.0009
+Token: ' V' (ID: 647), Prob: 0.0008
+Token: ' Qu' (ID: 3406), Prob: 0.0008
+Token: ' Day' (ID: 6059), Prob: 0.0008
+Token: ' Street' (ID: 6686), Prob: 0.0008
+Token: ' Taking' (ID: 35825), Prob: 0.0008
+Token: ' Depart' (ID: 39755), Prob: 0.0008
 
 == Ranked Concepts (Clusters) ==
-Rank 1 | Centroid: ' need' | Score: 0.0001
-  Tokens: [' need', ' needs', ' want']
-Rank 2 | Centroid: ' get' | Score: 0.0001
-  Tokens: [' get', ' got', ' let']
-Rank 3 | Centroid: ' create' | Score: 0.0000
-  Tokens: [' create', ' make', ' find', ' tell']
-Rank 4 | Centroid: ' outline' | Score: 0.0000
-  Tokens: [' outline', ' background', ' title', ' name', ' structure']
-Rank 5 | Centroid: ' start' | Score: 0.0000
-  Tokens: [' start', ' cover']
-Rank 6 | Centroid: ' someone' | Score: 0.0000
-  Tokens: [' maybe', ' someone', ' people', ' something', ' everyone']
-Rank 7 | Centroid: ' determine' | Score: 0.0000
-  Tokens: [' identify', ' determine', ' decide', ' define']
-Rank 8 | Centroid: ' user' | Score: 0.0000
-  Tokens: [' user', ' users']
-Rank 9 | Centroid: ' establish' | Score: 0.0000
-  Tokens: [' understand', ' summarize', ' establish', ' introduce', ' compose', ' acknowledge']
-Rank 10 | Centroid: ' parse' | Score: 0.0000
-  Tokens: [' extract', ' parse', ' translate', ' analyze']
-Rank 11 | Centroid: ' take' | Score: 0.0000
-  Tokens: [' break', ' grab', ' pick', ' take', ' cut']
-Rank 12 | Centroid: ' read' | Score: 0.0000
-  Tokens: [' write', ' read', ' readers']
-Rank 13 | Centroid: ' figure' | Score: 0.0000
-  Tokens: [' figure']
-Rank 14 | Centroid: ' gather' | Score: 0.0000
-  Tokens: [' gather', ' meet', ' connect']
-Rank 15 | Centroid: ' prompt' | Score: 0.0000
-  Tokens: [' prompt', ' focus']
-Rank 16 | Centroid: ' tackle' | Score: 0.0000
-  Tokens: [' tackle', ' handle']
-Rank 17 | Centroid: ' point' | Score: 0.0000
-  Tokens: [' point', ' main']
-Rank 18 | Centroid: ' set' | Score: 0.0000
-  Tokens: [' set', ' check']
-Rank 19 | Centroid: ' based' | Score: 0.0000
-  Tokens: [' based', ' base']
-Rank 20 | Centroid: ' characters' | Score: 0.0000
-  Tokens: [' characters', ' character']
-Rank 21 | Centroid: ' paragraph' | Score: 0.0000
-  Tokens: [' paragraph']
+Rank 1 | Centroid: ' Bill' | Score: 0.2158
+  Tokens: [' Bill', ' Jack', ' Pill']
+Rank 2 | Centroid: ' Taking' | Score: 0.1807
+  Tokens: [' Thick', ' Clo', ' Killing', ' Casual', ' Hollow', ' Taking']
+Rank 3 | Centroid: ' D' | Score: 0.1299
+  Tokens: [' S', ' X', ' F', ' O', ' A', ' L', ' W', ' D', ' In', ' B', ' K', ' It', ' M', ' H', ' C', ' V']
+Rank 4 | Centroid: ' River' | Score: 0.0383
+  Tokens: [' Crown', ' League', ' Shield', ' Royal', ' Republic', ' Guardian', ' River', ' Bridge']
+Rank 5 | Centroid: ' Young' | Score: 0.0289
+  Tokens: [' Young']
+Rank 6 | Centroid: ' Wolf' | Score: 0.0248
+  Tokens: [' Wire', ' Wolf', ' Wind']
+Rank 7 | Centroid: ' Prison' | Score: 0.0210
+  Tokens: [' Professionals', ' Prison', ' Apprentice', ' Americans', ' Trust', ' History', ' Adventures']
+Rank 8 | Centroid: ' Office' | Score: 0.0199
+  Tokens: [' Office']
+Rank 9 | Centroid: ' Quick' | Score: 0.0186
+  Tokens: [' Good', ' Fast', ' Deep', ' Great', ' Quick']
+Rank 10 | Centroid: ' Mental' | Score: 0.0159
+  Tokens: [' Mind', ' Mental', ' Mag', ' Truth', ' Prime']
+Rank 11 | Centroid: ' Long' | Score: 0.0146
+  Tokens: [' Long', ' New']
+Rank 12 | Centroid: ' Depart' | Score: 0.0139
+  Tokens: [' Division', ' Fall', ' Stand', ' Depart']
+Rank 13 | Centroid: ' Last' | Score: 0.0131
+  Tokens: [' Last', ' End']
+Rank 14 | Centroid: ' Arch' | Score: 0.0123
+  Tokens: [' Arch', ' Ash']
+Rank 15 | Centroid: ' Sarah' | Score: 0.0089
+  Tokens: [' Elephant', ' Sarah', ' Elder', ' Hour']
+Rank 16 | Centroid: ' Missing' | Score: 0.0081
+  Tokens: [' Missing', ' Lost']
+Rank 17 | Centroid: ' East' | Score: 0.0080
+  Tokens: [' West', ' East', ' North']
+Rank 18 | Centroid: ' Black' | Score: 0.0076
+  Tokens: [' Red', ' Black', ' Golden', ' White']
+Rank 19 | Centroid: ' Re' | Score: 0.0067
+  Tokens: [' Ne', ' Re', ' Add']
+Rank 20 | Centroid: ' Mob' | Score: 0.0066
+  Tokens: [' Synd', ' Witness', ' Mob']
+Rank 21 | Centroid: ' Pers' | Score: 0.0065
+  Tokens: [' Pers']
+Rank 22 | Centroid: ' Fourth' | Score: 0.0051
+  Tokens: [' Fourth', ' Fifth', ' Third']
+Rank 23 | Centroid: ' Bank' | Score: 0.0046
+  Tokens: [' Bank', ' World']
+Rank 24 | Centroid: ' Qu' | Score: 0.0046
+  Tokens: [' Sl', ' Ro', ' Qu']
+Rank 25 | Centroid: ' IT' | Score: 0.0033
+  Tokens: [' IT']
+Rank 26 | Centroid: ' Streets' | Score: 0.0029
+  Tokens: [' Streets', ' Street']
+Rank 27 | Centroid: ' Sun' | Score: 0.0019
+  Tokens: [' Sun', ' Day']
 
 **Chosen Concept:** Rank 1

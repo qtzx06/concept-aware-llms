@@ -1,0 +1,106 @@
+--- Step 2 Log ---
+
+== Filtered Candidates ==
+Token: ' the' (ID: 279), Prob: 0.0286
+Token: ' March' (ID: 5470), Prob: 0.0027
+Token: ' January' (ID: 6058), Prob: 0.0018
+Token: ' addition' (ID: 5256), Prob: 0.0014
+Token: ' April' (ID: 5813), Prob: 0.0014
+Token: ' a' (ID: 264), Prob: 0.0013
+Token: ' June' (ID: 5534), Prob: 0.0013
+Token: ' July' (ID: 5768), Prob: 0.0013
+Token: ' May' (ID: 3217), Prob: 0.0011
+Token: ' early' (ID: 4124), Prob: 0.0011
+Token: ' August' (ID: 6156), Prob: 0.0011
+Token: ' October' (ID: 6527), Prob: 0.0011
+Token: ' November' (ID: 6702), Prob: 0.0010
+Token: ' February' (ID: 7400), Prob: 0.0009
+Token: ' his' (ID: 806), Prob: 0.0008
+Token: ' September' (ID: 6122), Prob: 0.0008
+Token: ' December' (ID: 6652), Prob: 0.0007
+Token: ' late' (ID: 3309), Prob: 0.0005
+Token: ' that' (ID: 429), Prob: 0.0004
+Token: ' this' (ID: 419), Prob: 0.0003
+Token: ' London' (ID: 7148), Prob: 0.0001
+Token: ' summer' (ID: 7324), Prob: 0.0001
+Token: ' an' (ID: 458), Prob: 0.0001
+Token: ' later' (ID: 2937), Prob: 0.0001
+Token: ' spring' (ID: 10464), Prob: 0.0001
+Token: ' mid' (ID: 5099), Prob: 0.0001
+Token: ' autumn' (ID: 41674), Prob: 0.0001
+Token: '2' (ID: 17), Prob: 0.0001
+Token: ' The' (ID: 576), Prob: 0.0000
+Token: ' which' (ID: 892), Prob: 0.0000
+Token: ' Spring' (ID: 12252), Prob: 0.0000
+Token: ' what' (ID: 1128), Prob: 0.0000
+Token: ' recent' (ID: 3213), Prob: 0.0000
+Token: ' more' (ID: 803), Prob: 0.0000
+Token: ' its' (ID: 1181), Prob: 0.0000
+Token: ' one' (ID: 825), Prob: 0.0000
+Token: ' fall' (ID: 4399), Prob: 0.0000
+Token: ' subsequent' (ID: 17420), Prob: 0.0000
+Token: ' and' (ID: 323), Prob: 0.0000
+Token: ' another' (ID: 2441), Prob: 0.0000
+Token: ' television' (ID: 12425), Prob: 0.0000
+Token: ' collaboration' (ID: 20031), Prob: 0.0000
+Token: ' England' (ID: 9448), Prob: 0.0000
+Token: ' twenty' (ID: 17073), Prob: 0.0000
+Token: ' order' (ID: 1973), Prob: 0.0000
+Token: ' BBC' (ID: 18096), Prob: 0.0000
+Token: ' her' (ID: 1059), Prob: 0.0000
+Token: ' both' (ID: 2176), Prob: 0.0000
+Token: ' partnership' (ID: 15305), Prob: 0.0000
+Token: ' Summer' (ID: 18836), Prob: 0.0000
+Token: ' British' (ID: 7855), Prob: 0.0000
+Token: ' Season' (ID: 14263), Prob: 0.0000
+Token: ' Fall' (ID: 14785), Prob: 0.0000
+Token: ' these' (ID: 1493), Prob: 0.0000
+Token: ' Britain' (ID: 13224), Prob: 0.0000
+Token: ' Autumn' (ID: 59802), Prob: 0.0000
+Token: ' season' (ID: 3200), Prob: 0.0000
+Token: ' their' (ID: 862), Prob: 0.0000
+Token: ' between' (ID: 1948), Prob: 0.0000
+Token: ' total' (ID: 2790), Prob: 0.0000
+Token: ' contrast' (ID: 12872), Prob: 0.0000
+Token: ' A' (ID: 362), Prob: 0.0000
+Token: ' short' (ID: 2805), Prob: 0.0000
+Token: ' recognition' (ID: 17843), Prob: 0.0000
+Token: ' theatre' (ID: 33496), Prob: 0.0000
+Token: ' two' (ID: 1378), Prob: 0.0000
+Token: ' Europe' (ID: 4505), Prob: 0.0000
+Token: ' winter' (ID: 12406), Prob: 0.0000
+Token: ' preparation' (ID: 17975), Prob: 0.0000
+Token: ' turn' (ID: 2484), Prob: 0.0000
+Token: ' terms' (ID: 3793), Prob: 0.0000
+Token: ' Early' (ID: 22752), Prob: 0.0000
+Token: ' South' (ID: 4882), Prob: 0.0000
+Token: ' earlier' (ID: 6788), Prob: 0.0000
+Token: ' France' (ID: 9625), Prob: 0.0000
+Token: ' New' (ID: 1532), Prob: 0.0000
+Token: ' doing' (ID: 3730), Prob: 0.0000
+
+== Ranked Concepts (Clusters) ==
+Rank 1 | Centroid: ' the' | Score: 0.0309
+  Tokens: [' the', ' a', ' that', ' this', ' an', '2', ' The', ' which', ' what', ' more', ' one', ' and', ' another', ' both', ' these', ' between', ' A', ' two']
+Rank 2 | Centroid: ' February' | Score: 0.0150
+  Tokens: [' March', ' January', ' April', ' June', ' July', ' May', ' August', ' October', ' November', ' February', ' September', ' December']
+Rank 3 | Centroid: ' early' | Score: 0.0017
+  Tokens: [' early', ' late', ' mid', ' Early', ' earlier']
+Rank 4 | Centroid: ' collaboration' | Score: 0.0015
+  Tokens: [' addition', ' television', ' collaboration', ' twenty', ' order', ' partnership', ' recognition', ' theatre', ' preparation']
+Rank 5 | Centroid: ' their' | Score: 0.0008
+  Tokens: [' his', ' its', ' her', ' their']
+Rank 6 | Centroid: ' summer' | Score: 0.0003
+  Tokens: [' summer', ' spring', ' autumn', ' Spring', ' Summer', ' Autumn', ' winter']
+Rank 7 | Centroid: ' Britain' | Score: 0.0002
+  Tokens: [' London', ' England', ' BBC', ' British', ' Britain', ' Europe', ' South', ' France']
+Rank 8 | Centroid: ' subsequent' | Score: 0.0001
+  Tokens: [' later', ' recent', ' subsequent']
+Rank 9 | Centroid: ' doing' | Score: 0.0000
+  Tokens: [' total', ' contrast', ' short', ' turn', ' terms', ' New', ' doing']
+Rank 10 | Centroid: ' fall' | Score: 0.0000
+  Tokens: [' fall', ' Fall']
+Rank 11 | Centroid: ' Season' | Score: 0.0000
+  Tokens: [' Season', ' season']
+
+**Chosen Concept:** Rank 1

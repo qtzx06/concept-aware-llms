@@ -1,114 +1,98 @@
 --- Step 116 Log ---
 
 == Filtered Candidates ==
-Token: ' Check' (ID: 4248), Prob: 0.4395
-Token: ' Let' (ID: 6771), Prob: 0.2676
-Token: ' Also' (ID: 7281), Prob: 0.1260
-Token: ' Avoid' (ID: 34006), Prob: 0.1260
-Token: ' Alright' (ID: 97593), Prob: 0.0193
-Token: ' Keep' (ID: 13655), Prob: 0.0063
-Token: ' Make' (ID: 7405), Prob: 0.0034
-Token: ' Use' (ID: 5443), Prob: 0.0023
-Token: ' Maybe' (ID: 10696), Prob: 0.0014
-Token: ' Double' (ID: 7093), Prob: 0.0012
-Token: ' Need' (ID: 14656), Prob: 0.0012
-Token: ' Wait' (ID: 13824), Prob: 0.0011
-Token: ' Okay' (ID: 35439), Prob: 0.0010
-Token: ' Watch' (ID: 10357), Prob: 0.0002
-Token: ' Hmm' (ID: 88190), Prob: 0.0002
-Token: ' Words' (ID: 27630), Prob: 0.0001
-Token: ' Think' (ID: 21149), Prob: 0.0001
-Token: ' Got' (ID: 24528), Prob: 0.0001
-Token: ' Start' (ID: 5145), Prob: 0.0001
-Token: ' Mention' (ID: 85148), Prob: 0.0001
-Token: ' Get' (ID: 2126), Prob: 0.0000
-Token: ' Yeah' (ID: 21607), Prob: 0.0000
-Token: ' Ensure' (ID: 29279), Prob: 0.0000
-Token: ' Word' (ID: 9322), Prob: 0.0000
-Token: ' Include' (ID: 29734), Prob: 0.0000
-Token: ' Checking' (ID: 46093), Prob: 0.0000
-Token: ' check' (ID: 1779), Prob: 0.0000
-Token: ' Proof' (ID: 36991), Prob: 0.0000
-Token: ' Since' (ID: 8704), Prob: 0.0000
-Token: ' Sounds' (ID: 44141), Prob: 0.0000
-Token: 'Check' (ID: 3973), Prob: 0.0000
-Token: ' Plus' (ID: 12343), Prob: 0.0000
-Token: ' Could' (ID: 16503), Prob: 0.0000
-Token: ' Try' (ID: 9735), Prob: 0.0000
-Token: ' Structure' (ID: 28596), Prob: 0.0000
-Token: ' Bring' (ID: 39124), Prob: 0.0000
-Token: 'Avoid' (ID: 52116), Prob: 0.0000
-Token: ' Read' (ID: 4457), Prob: 0.0000
-Token: ' Control' (ID: 7779), Prob: 0.0000
-Token: ' Checks' (ID: 24843), Prob: 0.0000
-Token: ' Checked' (ID: 93361), Prob: 0.0000
-Token: ' also' (ID: 1083), Prob: 0.0000
-Token: ' Add' (ID: 2691), Prob: 0.0000
-Token: ' Please' (ID: 5209), Prob: 0.0000
-Token: ' Review' (ID: 10294), Prob: 0.0000
-Token: ' avoid' (ID: 5648), Prob: 0.0000
-Token: ' Possible' (ID: 36107), Prob: 0.0000
-Token: ' Rev' (ID: 10107), Prob: 0.0000
-Token: ' Probably' (ID: 37154), Prob: 0.0000
-Token: ' Good' (ID: 7684), Prob: 0.0000
-Token: ' Perhaps' (ID: 18765), Prob: 0.0000
-Token: ' Talk' (ID: 18976), Prob: 0.0000
-Token: ' Finally' (ID: 17375), Prob: 0.0000
-Token: ' Look' (ID: 9192), Prob: 0.0000
-Token: ' Time' (ID: 4120), Prob: 0.0000
-Token: ' Show' (ID: 6928), Prob: 0.0000
-Token: ' Write' (ID: 9645), Prob: 0.0000
-Token: ' Organ' (ID: 10762), Prob: 0.0000
-Token: 'Also' (ID: 13394), Prob: 0.0000
-Token: ' First' (ID: 5512), Prob: 0.0000
-Token: ' Still' (ID: 16377), Prob: 0.0000
-Token: '-check' (ID: 15934), Prob: 0.0000
-Token: ' Stay' (ID: 28737), Prob: 0.0000
-Token: ' Oops' (ID: 95252), Prob: 0.0000
-Token: ' Verify' (ID: 25429), Prob: 0.0000
-Token: ' Trim' (ID: 44376), Prob: 0.0000
-Token: ' Feel' (ID: 31733), Prob: 0.0000
+Token: ' year' (ID: 1042), Prob: 1.0000
+Token: ' as' (ID: 438), Prob: 0.0000
+Token: ' time' (ID: 882), Prob: 0.0000
+Token: ' day' (ID: 1899), Prob: 0.0000
+Token: 'year' (ID: 3157), Prob: 0.0000
+Token: ' Year' (ID: 9742), Prob: 0.0000
+Token: ' month' (ID: 2254), Prob: 0.0000
+Token: ' years' (ID: 1635), Prob: 0.0000
+Token: ' week' (ID: 2003), Prob: 0.0000
+Token: ' the' (ID: 279), Prob: 0.0000
+Token: ' in' (ID: 304), Prob: 0.0000
+Token: ' YEAR' (ID: 50905), Prob: 0.0000
+Token: ' date' (ID: 2400), Prob: 0.0000
+Token: '-year' (ID: 4666), Prob: 0.0000
+Token: ' he' (ID: 566), Prob: 0.0000
+Token: ' way' (ID: 1616), Prob: 0.0000
+Token: ' one' (ID: 825), Prob: 0.0000
+Token: ' era' (ID: 11385), Prob: 0.0000
+Token: ' period' (ID: 4168), Prob: 0.0000
+Token: ' for' (ID: 369), Prob: 0.0000
+Token: ' century' (ID: 9294), Prob: 0.0000
+Token: 'Year' (ID: 9490), Prob: 0.0000
+Token: '_year' (ID: 14645), Prob: 0.0000
+Token: ' to' (ID: 311), Prob: 0.0000
+Token: ' y' (ID: 379), Prob: 0.0000
+Token: ' where' (ID: 1380), Prob: 0.0000
+Token: '.year' (ID: 24414), Prob: 0.0000
+Token: ' region' (ID: 5537), Prob: 0.0000
+Token: ' when' (ID: 979), Prob: 0.0000
+Token: ' city' (ID: 3283), Prob: 0.0000
+Token: ' I' (ID: 358), Prob: 0.0000
+Token: ' decade' (ID: 13212), Prob: 0.0000
+Token: ' and' (ID: 323), Prob: 0.0000
+Token: ' number' (ID: 1372), Prob: 0.0000
+Token: ' you' (ID: 498), Prob: 0.0000
+Token: ' that' (ID: 429), Prob: 0.0000
+Token: ' thing' (ID: 3166), Prob: 0.0000
+Token: ' năm' (ID: 128290), Prob: 0.0000
+Token: ' second' (ID: 2086), Prob: 0.0000
+Token: ' season' (ID: 3200), Prob: 0.0000
+Token: ' minute' (ID: 9383), Prob: 0.0000
+Token: ' universe' (ID: 15494), Prob: 0.0000
+Token: ' which' (ID: 892), Prob: 0.0000
+Token: ' system' (ID: 1849), Prob: 0.0000
+Token: ' hour' (ID: 6460), Prob: 0.0000
+Token: ' room' (ID: 3054), Prob: 0.0000
+Token: ' country' (ID: 3146), Prob: 0.0000
+Token: ' birthday' (ID: 15198), Prob: 0.0000
+Token: ' it' (ID: 432), Prob: 0.0000
+Token: ' with' (ID: 448), Prob: 0.0000
+Token: ' row' (ID: 2802), Prob: 0.0000
+Token: ' age' (ID: 4231), Prob: 0.0000
+Token: ' of' (ID: 315), Prob: 0.0000
+Token: ' world' (ID: 1879), Prob: 0.0000
+Token: ' school' (ID: 2906), Prob: 0.0000
+Token: ' string' (ID: 914), Prob: 0.0000
+Token: ' birth' (ID: 7194), Prob: 0.0000
+Token: ' from' (ID: 504), Prob: 0.0000
+Token: ' scene' (ID: 6109), Prob: 0.0000
 
 == Ranked Concepts (Clusters) ==
-Rank 1 | Centroid: ' Check' | Score: 0.4395
-  Tokens: [' Check', ' Checking', ' check', 'Check', ' Checks', ' Checked', '-check']
-Rank 2 | Centroid: ' Let' | Score: 0.2676
-  Tokens: [' Let', ' First']
-Rank 3 | Centroid: ' Also' | Score: 0.1260
-  Tokens: [' Also', ' Plus', ' also', 'Also']
-Rank 4 | Centroid: ' Avoid' | Score: 0.1260
-  Tokens: [' Avoid', 'Avoid', ' avoid']
-Rank 5 | Centroid: ' Okay' | Score: 0.0205
-  Tokens: [' Alright', ' Okay', ' Hmm', ' Yeah', ' Oops']
-Rank 6 | Centroid: ' Stay' | Score: 0.0074
-  Tokens: [' Keep', ' Wait', ' Stay']
-Rank 7 | Centroid: ' Get' | Score: 0.0058
-  Tokens: [' Make', ' Use', ' Start', ' Get', ' Bring', ' Add', ' Show', ' Write']
-Rank 8 | Centroid: ' Perhaps' | Score: 0.0014
-  Tokens: [' Maybe', ' Since', ' Could', ' Please', ' Possible', ' Probably', ' Perhaps', ' Finally']
-Rank 9 | Centroid: ' Double' | Score: 0.0012
-  Tokens: [' Double', ' Time']
-Rank 10 | Centroid: ' Need' | Score: 0.0012
-  Tokens: [' Need']
-Rank 11 | Centroid: ' Look' | Score: 0.0003
-  Tokens: [' Watch', ' Think', ' Read', ' Talk', ' Look']
-Rank 12 | Centroid: ' Words' | Score: 0.0001
-  Tokens: [' Words', ' Word']
-Rank 13 | Centroid: ' Got' | Score: 0.0001
-  Tokens: [' Got', ' Good']
-Rank 14 | Centroid: ' Mention' | Score: 0.0001
-  Tokens: [' Mention']
-Rank 15 | Centroid: ' Ensure' | Score: 0.0001
-  Tokens: [' Ensure', ' Include', ' Verify']
-Rank 16 | Centroid: ' Review' | Score: 0.0000
-  Tokens: [' Proof', ' Review', ' Rev']
-Rank 17 | Centroid: ' Structure' | Score: 0.0000
-  Tokens: [' Structure', ' Control', ' Organ', ' Trim']
-Rank 18 | Centroid: ' Sounds' | Score: 0.0000
-  Tokens: [' Sounds', ' Feel']
-Rank 19 | Centroid: ' Try' | Score: 0.0000
-  Tokens: [' Try']
-Rank 20 | Centroid: ' Still' | Score: 0.0000
-  Tokens: [' Still']
+Rank 1 | Centroid: ' year' | Score: 1.0000
+  Tokens: [' year', 'year', ' Year', ' years', ' YEAR', '-year', 'Year', '_year', '.year', ' năm']
+Rank 2 | Centroid: ' the' | Score: 0.0000
+  Tokens: [' as', ' the', ' in', ' one', ' for', ' to', ' y', ' where', ' when', ' I', ' and', ' you', ' that', ' which', ' it', ' with', ' of', ' from']
+Rank 3 | Centroid: ' time' | Score: 0.0000
+  Tokens: [' time', ' date', ' age']
+Rank 4 | Centroid: ' week' | Score: 0.0000
+  Tokens: [' day', ' month', ' week', ' minute', ' hour']
+Rank 5 | Centroid: ' era' | Score: 0.0000
+  Tokens: [' era', ' period']
+Rank 6 | Centroid: ' he' | Score: 0.0000
+  Tokens: [' he', ' second']
+Rank 7 | Centroid: ' way' | Score: 0.0000
+  Tokens: [' way', ' thing']
+Rank 8 | Centroid: ' country' | Score: 0.0000
+  Tokens: [' region', ' city', ' country']
+Rank 9 | Centroid: ' century' | Score: 0.0000
+  Tokens: [' century', ' decade']
+Rank 10 | Centroid: ' birthday' | Score: 0.0000
+  Tokens: [' birthday', ' school', ' birth']
+Rank 11 | Centroid: ' number' | Score: 0.0000
+  Tokens: [' number', ' string']
+Rank 12 | Centroid: ' universe' | Score: 0.0000
+  Tokens: [' universe', ' world']
+Rank 13 | Centroid: ' room' | Score: 0.0000
+  Tokens: [' room', ' scene']
+Rank 14 | Centroid: ' season' | Score: 0.0000
+  Tokens: [' season']
+Rank 15 | Centroid: ' system' | Score: 0.0000
+  Tokens: [' system']
+Rank 16 | Centroid: ' row' | Score: 0.0000
+  Tokens: [' row']
 
 **Chosen Concept:** Rank 1

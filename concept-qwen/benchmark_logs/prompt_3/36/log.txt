@@ -1,0 +1,114 @@
+--- Step 36 Log ---
+
+== Filtered Candidates ==
+Token: ' recurring' (ID: 45250), Prob: 0.9961
+Token: ' rec' (ID: 1395), Prob: 0.0001
+Token: ' guest' (ID: 8640), Prob: 0.0001
+Token: ' recurrent' (ID: 64074), Prob: 0.0001
+Token: ' repeating' (ID: 39816), Prob: 0.0000
+Token: ' returning' (ID: 13451), Prob: 0.0000
+Token: ' supporting' (ID: 12613), Prob: 0.0000
+Token: ' regular' (ID: 5792), Prob: 0.0000
+Token: ' touring' (ID: 47451), Prob: 0.0000
+Token: ' continuing' (ID: 14354), Prob: 0.0000
+Token: ' re' (ID: 312), Prob: 0.0000
+Token: ' non' (ID: 2477), Prob: 0.0000
+Token: ' rer' (ID: 48547), Prob: 0.0000
+Token: ' recur' (ID: 63548), Prob: 0.0000
+Token: ' character' (ID: 3668), Prob: 0.0000
+Token: ' growing' (ID: 7826), Prob: 0.0000
+Token: ' frequent' (ID: 20757), Prob: 0.0000
+Token: ' directing' (ID: 44990), Prob: 0.0000
+Token: ' leading' (ID: 6388), Prob: 0.0000
+Token: ' starring' (ID: 39400), Prob: 0.0000
+Token: ' occurring' (ID: 30865), Prob: 0.0000
+Token: ' co' (ID: 1062), Prob: 0.0000
+Token: ' varying' (ID: 28765), Prob: 0.0000
+Token: ' lasting' (ID: 28769), Prob: 0.0000
+Token: ' r' (ID: 435), Prob: 0.0000
+Token: ' repeated' (ID: 11504), Prob: 0.0000
+Token: ' different' (ID: 2155), Prob: 0.0000
+Token: ' series' (ID: 4013), Prob: 0.0000
+Token: ' visiting' (ID: 16721), Prob: 0.0000
+Token: ' backing' (ID: 24668), Prob: 0.0000
+Token: ' Rec' (ID: 4067), Prob: 0.0000
+Token: ' closing' (ID: 15316), Prob: 0.0000
+Token: ' contributing' (ID: 28720), Prob: 0.0000
+Token: ' recalling' (ID: 88646), Prob: 0.0000
+Token: ' running' (ID: 4303), Prob: 0.0000
+Token: ' special' (ID: 3281), Prob: 0.0000
+Token: ' showing' (ID: 9027), Prob: 0.0000
+Token: ' recurrence' (ID: 75193), Prob: 0.0000
+Token: ' later' (ID: 2937), Prob: 0.0000
+Token: ' radio' (ID: 8887), Prob: 0.0000
+Token: ' permanent' (ID: 15330), Prob: 0.0000
+Token: ' rising' (ID: 16062), Prob: 0.0000
+Token: ' weekly' (ID: 17059), Prob: 0.0000
+Token: ' recovering' (ID: 41286), Prob: 0.0000
+Token: ' BBC' (ID: 18096), Prob: 0.0000
+Token: ' chronic' (ID: 20601), Prob: 0.0000
+Token: ' sequel' (ID: 34761), Prob: 0.0000
+Token: ' parody' (ID: 66165), Prob: 0.0000
+Token: ' cameo' (ID: 94056), Prob: 0.0000
+Token: ' founding' (ID: 35230), Prob: 0.0000
+Token: ' major' (ID: 3598), Prob: 0.0000
+Token: ' television' (ID: 12425), Prob: 0.0000
+Token: ' repetitive' (ID: 58077), Prob: 0.0000
+Token: ' changing' (ID: 10018), Prob: 0.0000
+Token: ' performing' (ID: 16380), Prob: 0.0000
+Token: ' new' (ID: 501), Prob: 0.0000
+Token: ' narrator' (ID: 64171), Prob: 0.0000
+Token: ' concluding' (ID: 71026), Prob: 0.0000
+Token: ' appearing' (ID: 25377), Prob: 0.0000
+Token: ' reigning' (ID: 89956), Prob: 0.0000
+Token: ' role' (ID: 3476), Prob: 0.0000
+Token: ' popular' (ID: 5411), Prob: 0.0000
+Token: ' rotating' (ID: 41396), Prob: 0.0000
+Token: ' moving' (ID: 7218), Prob: 0.0000
+Token: ' minor' (ID: 8922), Prob: 0.0000
+
+== Ranked Concepts (Clusters) ==
+Rank 1 | Centroid: ' Rec' | Score: 0.9961
+  Tokens: [' recurring', ' rec', ' recurrent', ' recur', ' Rec', ' recurrence']
+Rank 2 | Centroid: ' touring' | Score: 0.0001
+  Tokens: [' guest', ' touring', ' visiting']
+Rank 3 | Centroid: ' repeated' | Score: 0.0001
+  Tokens: [' repeating', ' repeated', ' repetitive']
+Rank 4 | Centroid: ' supporting' | Score: 0.0000
+  Tokens: [' supporting', ' directing', ' leading', ' starring', ' backing', ' contributing', ' showing']
+Rank 5 | Centroid: ' non' | Score: 0.0000
+  Tokens: [' re', ' non', ' co', ' r', ' different', ' new']
+Rank 6 | Centroid: ' returning' | Score: 0.0000
+  Tokens: [' returning', ' recovering']
+Rank 7 | Centroid: ' changing' | Score: 0.0000
+  Tokens: [' continuing', ' growing', ' varying', ' rising', ' changing', ' rotating', ' moving']
+Rank 8 | Centroid: ' frequent' | Score: 0.0000
+  Tokens: [' regular', ' frequent', ' weekly']
+Rank 9 | Centroid: ' rer' | Score: 0.0000
+  Tokens: [' rer']
+Rank 10 | Centroid: ' permanent' | Score: 0.0000
+  Tokens: [' lasting', ' permanent', ' chronic']
+Rank 11 | Centroid: ' parody' | Score: 0.0000
+  Tokens: [' sequel', ' parody', ' cameo', ' narrator']
+Rank 12 | Centroid: ' character' | Score: 0.0000
+  Tokens: [' character', ' role']
+Rank 13 | Centroid: ' television' | Score: 0.0000
+  Tokens: [' radio', ' BBC', ' television']
+Rank 14 | Centroid: ' concluding' | Score: 0.0000
+  Tokens: [' closing', ' founding', ' concluding']
+Rank 15 | Centroid: ' occurring' | Score: 0.0000
+  Tokens: [' occurring', ' appearing']
+Rank 16 | Centroid: ' series' | Score: 0.0000
+  Tokens: [' series', ' later']
+Rank 17 | Centroid: ' running' | Score: 0.0000
+  Tokens: [' running', ' performing']
+Rank 18 | Centroid: ' special' | Score: 0.0000
+  Tokens: [' special', ' popular']
+Rank 19 | Centroid: ' major' | Score: 0.0000
+  Tokens: [' major', ' minor']
+Rank 20 | Centroid: ' recalling' | Score: 0.0000
+  Tokens: [' recalling']
+Rank 21 | Centroid: ' reigning' | Score: 0.0000
+  Tokens: [' reigning']
+
+**Chosen Concept:** Rank 1

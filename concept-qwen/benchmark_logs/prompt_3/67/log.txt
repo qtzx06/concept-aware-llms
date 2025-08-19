@@ -1,156 +1,108 @@
 --- Step 67 Log ---
 
 == Filtered Candidates ==
-Token: ' conversation' (ID: 10435), Prob: 0.9062
-Token: ' relationship' (ID: 5025), Prob: 0.0212
-Token: ' friendly' (ID: 11657), Prob: 0.0212
-Token: ' casual' (ID: 16334), Prob: 0.0114
-Token: ' meaningful' (ID: 22414), Prob: 0.0089
-Token: ' friendship' (ID: 26509), Prob: 0.0089
-Token: ' chat' (ID: 6236), Prob: 0.0029
-Token: ' dialogue' (ID: 21276), Prob: 0.0020
-Token: ' talk' (ID: 3061), Prob: 0.0015
-Token: ' connection' (ID: 3633), Prob: 0.0015
-Token: ' discussion' (ID: 10219), Prob: 0.0011
-Token: ' romantic' (ID: 23467), Prob: 0.0011
-Token: ' new' (ID: 501), Prob: 0.0011
-Token: ' meeting' (ID: 6438), Prob: 0.0008
-Token: ' friend' (ID: 4238), Prob: 0.0008
-Token: ' serious' (ID: 6001), Prob: 0.0007
-Token: ' good' (ID: 1661), Prob: 0.0006
-Token: ' date' (ID: 2400), Prob: 0.0005
-Token: ' genuine' (ID: 22011), Prob: 0.0004
-Token: ' playful' (ID: 56069), Prob: 0.0004
-Token: ' pleasant' (ID: 23795), Prob: 0.0004
-Token: ' lively' (ID: 48177), Prob: 0.0003
-Token: ' warm' (ID: 8205), Prob: 0.0003
-Token: ' spontaneous' (ID: 53457), Prob: 0.0002
-Token: ' long' (ID: 1293), Prob: 0.0002
-Token: ' funny' (ID: 15173), Prob: 0.0002
-Token: ' non' (ID: 2477), Prob: 0.0002
-Token: ' nice' (ID: 6419), Prob: 0.0002
-Token: ' harmless' (ID: 52897), Prob: 0.0002
-Token: ' humorous' (ID: 69846), Prob: 0.0002
-Token: ' small' (ID: 2613), Prob: 0.0002
-Token: ' talking' (ID: 7404), Prob: 0.0002
-Token: ' normal' (ID: 4622), Prob: 0.0001
-Token: ' strange' (ID: 14888), Prob: 0.0001
-Token: ' heartfelt' (ID: 83111), Prob: 0.0001
-Token: ' story' (ID: 3364), Prob: 0.0001
-Token: ' dating' (ID: 4924), Prob: 0.0001
-Token: ' mon' (ID: 1615), Prob: 0.0001
-Token: ' close' (ID: 3265), Prob: 0.0001
-Token: ' bond' (ID: 10815), Prob: 0.0001
-Token: ' beneficial' (ID: 23699), Prob: 0.0001
-Token: ' bonding' (ID: 63086), Prob: 0.0001
-Token: ' positive' (ID: 6785), Prob: 0.0001
-Token: ' communication' (ID: 10535), Prob: 0.0001
-Token: ' comfortable' (ID: 10655), Prob: 0.0001
-Token: ' quiet' (ID: 11340), Prob: 0.0001
-Token: ' life' (ID: 2272), Prob: 0.0001
-Token: ' routine' (ID: 14021), Prob: 0.0001
-Token: ' rapport' (ID: 38374), Prob: 0.0001
-Token: ' random' (ID: 4194), Prob: 0.0001
-Token: ' ban' (ID: 8943), Prob: 0.0001
-Token: ' interaction' (ID: 16230), Prob: 0.0001
-Token: ' fun' (ID: 2464), Prob: 0.0001
-Token: ' personal' (ID: 4345), Prob: 0.0001
-Token: ' happy' (ID: 6247), Prob: 0.0001
-Token: ' simple' (ID: 4285), Prob: 0.0001
-Token: ' conversations' (ID: 20959), Prob: 0.0001
-Token: ' seemingly' (ID: 22660), Prob: 0.0001
-Token: ' comforting' (ID: 68030), Prob: 0.0001
-Token: ' private' (ID: 869), Prob: 0.0001
-Token: ' bad' (ID: 3873), Prob: 0.0000
-Token: ' joke' (ID: 21646), Prob: 0.0000
-Token: ' reluctant' (ID: 42940), Prob: 0.0000
-Token: ' late' (ID: 3309), Prob: 0.0000
-Token: ' convers' (ID: 7517), Prob: 0.0000
-Token: ' witty' (ID: 82633), Prob: 0.0000
-Token: ' day' (ID: 1899), Prob: 0.0000
-Token: ' deep' (ID: 5538), Prob: 0.0000
-Token: ' mysterious' (ID: 25382), Prob: 0.0000
-Token: ' romance' (ID: 29263), Prob: 0.0000
-Token: ' flirt' (ID: 52630), Prob: 0.0000
-Token: ' game' (ID: 1809), Prob: 0.0000
-Token: ' laugh' (ID: 12550), Prob: 0.0000
-Token: ' misunderstanding' (ID: 69747), Prob: 0.0000
-Token: ' problematic' (ID: 34933), Prob: 0.0000
-Token: ' real' (ID: 1931), Prob: 0.0000
-Token: ' short' (ID: 2805), Prob: 0.0000
-Token: ' light' (ID: 3100), Prob: 0.0000
-Token: ' difficult' (ID: 5000), Prob: 0.0000
-Token: ' social' (ID: 3590), Prob: 0.0000
-Token: ' natural' (ID: 5810), Prob: 0.0000
-Token: ' interesting' (ID: 7040), Prob: 0.0000
-Token: ' mundane' (ID: 68682), Prob: 0.0000
-Token: ' cold' (ID: 9255), Prob: 0.0000
-Token: ' weird' (ID: 16283), Prob: 0.0000
-Token: ' gentle' (ID: 21700), Prob: 0.0000
-Token: ' healthy' (ID: 9314), Prob: 0.0000
-Token: ' smooth' (ID: 10876), Prob: 0.0000
-Token: ' awkward' (ID: 28759), Prob: 0.0000
-Token: ' charming' (ID: 34409), Prob: 0.0000
-Token: ' safe' (ID: 6092), Prob: 0.0000
-Token: ' unexpected' (ID: 16500), Prob: 0.0000
-Token: ' true' (ID: 830), Prob: 0.0000
+Token: ' BBC' (ID: 18096), Prob: 0.9961
+Token: ' television' (ID: 12425), Prob: 0.0002
+Token: 'BBC' (ID: 66755), Prob: 0.0002
+Token: ' TV' (ID: 5883), Prob: 0.0001
+Token: ' UK' (ID: 6424), Prob: 0.0001
+Token: ' British' (ID: 7855), Prob: 0.0001
+Token: ' ABC' (ID: 19360), Prob: 0.0001
+Token: ' same' (ID: 1852), Prob: 0.0001
+Token: ' BB' (ID: 18270), Prob: 0.0000
+Token: ' B' (ID: 425), Prob: 0.0000
+Token: ' bbc' (ID: 90626), Prob: 0.0000
+Token: ' CBC' (ID: 45512), Prob: 0.0000
 Token: ' series' (ID: 4013), Prob: 0.0000
-Token: ' daily' (ID: 7298), Prob: 0.0000
-Token: ' tense' (ID: 42687), Prob: 0.0000
-Token: ' meaningless' (ID: 55926), Prob: 0.0000
-Token: ' relation' (ID: 12687), Prob: 0.0000
-Token: ' passionate' (ID: 24425), Prob: 0.0000
+Token: ' broadcast' (ID: 12899), Prob: 0.0000
+Token: ' BC' (ID: 18040), Prob: 0.0000
+Token: ' the' (ID: 279), Prob: 0.0000
+Token: ' NBC' (ID: 23521), Prob: 0.0000
+Token: ' radio' (ID: 8887), Prob: 0.0000
+Token: ' Australian' (ID: 13369), Prob: 0.0000
+Token: ' film' (ID: 4531), Prob: 0.0000
+Token: ' broadcasting' (ID: 48827), Prob: 0.0000
+Token: ' CBS' (ID: 24029), Prob: 0.0000
+Token: ' Scottish' (ID: 26096), Prob: 0.0000
+Token: ' following' (ID: 2701), Prob: 0.0000
+Token: ' HBO' (ID: 42878), Prob: 0.0000
+Token: ' first' (ID: 1156), Prob: 0.0000
+Token: ' A' (ID: 362), Prob: 0.0000
+Token: ' United' (ID: 3639), Prob: 0.0000
+Token: ' other' (ID: 1008), Prob: 0.0000
+Token: ' sitcom' (ID: 80366), Prob: 0.0000
+Token: ' The' (ID: 576), Prob: 0.0000
+Token: ' BA' (ID: 33489), Prob: 0.0000
+Token: ' televised' (ID: 75610), Prob: 0.0000
+Token: ' episode' (ID: 9234), Prob: 0.0000
+Token: ' PBS' (ID: 59045), Prob: 0.0000
+Token: ' comedy' (ID: 22358), Prob: 0.0000
+Token: 'bbc' (ID: 84185), Prob: 0.0000
+Token: ' Television' (ID: 40345), Prob: 0.0000
+Token: ' third' (ID: 4843), Prob: 0.0000
+Token: ' ITV' (ID: 93355), Prob: 0.0000
+Token: ' FCC' (ID: 37576), Prob: 0.0000
+Token: ' recurring' (ID: 45250), Prob: 0.0000
+Token: ' T' (ID: 350), Prob: 0.0000
+Token: ' public' (ID: 584), Prob: 0.0000
+Token: ' role' (ID: 3476), Prob: 0.0000
+Token: ' BTC' (ID: 36045), Prob: 0.0000
+Token: ' Broadway' (ID: 36676), Prob: 0.0000
+Token: ' archive' (ID: 18132), Prob: 0.0000
+Token: ' subsequent' (ID: 17420), Prob: 0.0000
+Token: ' year' (ID: 1042), Prob: 0.0000
+Token: ' tele' (ID: 7963), Prob: 0.0000
+Token: ' D' (ID: 422), Prob: 0.0000
+Token: ' two' (ID: 1378), Prob: 0.0000
+Token: ' North' (ID: 4787), Prob: 0.0000
+Token: ' movie' (ID: 5700), Prob: 0.0000
+Token: ' Wikipedia' (ID: 26587), Prob: 0.0000
+Token: ' various' (ID: 5257), Prob: 0.0000
+Token: ' newspaper' (ID: 16803), Prob: 0.0000
+Token: ' televis' (ID: 89965), Prob: 0.0000
+Token: ' football' (ID: 8964), Prob: 0.0000
+Token: ' BR' (ID: 18803), Prob: 0.0000
+Token: ' BD' (ID: 39310), Prob: 0.0000
+Token: ' media' (ID: 3687), Prob: 0.0000
+Token: ' NFL' (ID: 12588), Prob: 0.0000
+Token: ' E' (ID: 468), Prob: 0.0000
+Token: ' U' (ID: 547), Prob: 0.0000
+Token: ' P' (ID: 393), Prob: 0.0000
+Token: ' show' (ID: 1473), Prob: 0.0000
+Token: ' second' (ID: 2086), Prob: 0.0000
+Token: ' USA' (ID: 7279), Prob: 0.0000
+Token: ' YouTube' (ID: 13370), Prob: 0.0000
+Token: ' Yorkshire' (ID: 50227), Prob: 0.0000
+Token: ' BBB' (ID: 94458), Prob: 0.0000
 
 == Ranked Concepts (Clusters) ==
-Rank 1 | Centroid: ' conversation' | Score: 0.9141
-  Tokens: [' conversation', ' chat', ' dialogue', ' talk', ' discussion', ' meeting', ' talking', ' communication', ' interaction', ' conversations', ' convers']
-Rank 2 | Centroid: ' relationship' | Score: 0.0231
-  Tokens: [' relationship', ' connection', ' bond', ' bonding', ' rapport', ' relation']
-Rank 3 | Centroid: ' pleasant' | Score: 0.0221
-  Tokens: [' friendly', ' pleasant', ' harmless', ' beneficial', ' comfortable', ' happy', ' gentle', ' healthy', ' safe']
-Rank 4 | Centroid: ' casual' | Score: 0.0117
-  Tokens: [' casual', ' spontaneous']
-Rank 5 | Centroid: ' genuine' | Score: 0.0101
-  Tokens: [' meaningful', ' serious', ' genuine', ' real', ' true']
-Rank 6 | Centroid: ' friendship' | Score: 0.0096
-  Tokens: [' friendship', ' friend']
-Rank 7 | Centroid: ' non' | Score: 0.0013
-  Tokens: [' new', ' non', ' mon']
-Rank 8 | Centroid: ' romance' | Score: 0.0012
-  Tokens: [' romantic', ' romance', ' flirt']
-Rank 9 | Centroid: ' good' | Score: 0.0009
-  Tokens: [' good', ' nice', ' bad']
-Rank 10 | Centroid: ' humorous' | Score: 0.0007
-  Tokens: [' playful', ' humorous', ' joke', ' witty', ' laugh']
-Rank 11 | Centroid: ' date' | Score: 0.0007
-  Tokens: [' date', ' dating', ' day', ' daily']
-Rank 12 | Centroid: ' long' | Score: 0.0006
-  Tokens: [' long', ' small', ' close', ' late', ' deep', ' short']
-Rank 13 | Centroid: ' heartfelt' | Score: 0.0005
-  Tokens: [' lively', ' heartfelt', ' comforting', ' charming', ' passionate']
-Rank 14 | Centroid: ' warm' | Score: 0.0004
-  Tokens: [' warm', ' quiet', ' cold']
-Rank 15 | Centroid: ' weird' | Score: 0.0003
-  Tokens: [' strange', ' mysterious', ' problematic', ' difficult', ' weird', ' awkward', ' unexpected']
-Rank 16 | Centroid: ' personal' | Score: 0.0003
-  Tokens: [' positive', ' random', ' personal', ' private', ' natural']
-Rank 17 | Centroid: ' game' | Score: 0.0002
-  Tokens: [' story', ' fun', ' game']
-Rank 18 | Centroid: ' normal' | Score: 0.0002
-  Tokens: [' normal', ' routine']
-Rank 19 | Centroid: ' funny' | Score: 0.0002
-  Tokens: [' funny', ' interesting']
-Rank 20 | Centroid: ' meaningless' | Score: 0.0002
-  Tokens: [' seemingly', ' reluctant', ' misunderstanding', ' mundane', ' meaningless']
-Rank 21 | Centroid: ' smooth' | Score: 0.0001
-  Tokens: [' simple', ' light', ' smooth']
-Rank 22 | Centroid: ' ban' | Score: 0.0001
-  Tokens: [' ban', ' social']
-Rank 23 | Centroid: ' life' | Score: 0.0001
-  Tokens: [' life']
-Rank 24 | Centroid: ' series' | Score: 0.0000
-  Tokens: [' series']
-Rank 25 | Centroid: ' tense' | Score: 0.0000
-  Tokens: [' tense']
+Rank 1 | Centroid: ' BBC' | Score: 0.9961
+  Tokens: [' BBC', 'BBC', ' bbc', 'bbc']
+Rank 2 | Centroid: ' television' | Score: 0.0003
+  Tokens: [' television', ' TV', ' televised', ' Television', ' ITV', ' televis']
+Rank 3 | Centroid: ' British' | Score: 0.0002
+  Tokens: [' UK', ' British', ' Australian', ' Scottish', ' Yorkshire']
+Rank 4 | Centroid: ' CBS' | Score: 0.0001
+  Tokens: [' ABC', ' CBC', ' NBC', ' CBS', ' HBO', ' PBS']
+Rank 5 | Centroid: ' various' | Score: 0.0001
+  Tokens: [' same', ' following', ' other', ' public', ' subsequent', ' two', ' various']
+Rank 6 | Centroid: ' BB' | Score: 0.0000
+  Tokens: [' BB', ' BC', ' BA', ' BTC', ' BR', ' BD', ' BBB']
+Rank 7 | Centroid: ' the' | Score: 0.0000
+  Tokens: [' B', ' the', ' A', ' The', ' T', ' D', ' E', ' U', ' P']
+Rank 8 | Centroid: ' broadcast' | Score: 0.0000
+  Tokens: [' broadcast', ' radio', ' broadcasting', ' FCC']
+Rank 9 | Centroid: ' year' | Score: 0.0000
+  Tokens: [' series', ' episode', ' recurring', ' role', ' archive', ' year', ' show']
+Rank 10 | Centroid: ' movie' | Score: 0.0000
+  Tokens: [' film', ' movie', ' Wikipedia', ' newspaper', ' football', ' media', ' YouTube']
+Rank 11 | Centroid: ' second' | Score: 0.0000
+  Tokens: [' first', ' third', ' second']
+Rank 12 | Centroid: ' United' | Score: 0.0000
+  Tokens: [' United', ' North', ' NFL', ' USA']
+Rank 13 | Centroid: ' sitcom' | Score: 0.0000
+  Tokens: [' sitcom', ' comedy', ' Broadway']
+Rank 14 | Centroid: ' tele' | Score: 0.0000
+  Tokens: [' tele']
 
 **Chosen Concept:** Rank 1

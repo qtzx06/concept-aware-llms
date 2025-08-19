@@ -1,0 +1,92 @@
+--- Step 83 Log ---
+
+== Filtered Candidates ==
+Token: ' year' (ID: 1042), Prob: 1.0000
+Token: ' same' (ID: 1852), Prob: 0.0000
+Token: ' years' (ID: 1635), Prob: 0.0000
+Token: 'year' (ID: 3157), Prob: 0.0000
+Token: ' Year' (ID: 9742), Prob: 0.0000
+Token: '_year' (ID: 14645), Prob: 0.0000
+Token: '.year' (ID: 24414), Prob: 0.0000
+Token: '-year' (ID: 4666), Prob: 0.0000
+Token: ' y' (ID: 379), Prob: 0.0000
+Token: ' YEAR' (ID: 50905), Prob: 0.0000
+Token: ' date' (ID: 2400), Prob: 0.0000
+Token: ' ye' (ID: 19478), Prob: 0.0000
+Token: ' period' (ID: 4168), Prob: 0.0000
+Token: ' and' (ID: 323), Prob: 0.0000
+Token: ' năm' (ID: 128290), Prob: 0.0000
+Token: ' the' (ID: 279), Prob: 0.0000
+Token: 'Year' (ID: 9490), Prob: 0.0000
+Token: ' time' (ID: 882), Prob: 0.0000
+Token: ' calendar' (ID: 13168), Prob: 0.0000
+Token: ' way' (ID: 1616), Prob: 0.0000
+Token: ' following' (ID: 2701), Prob: 0.0000
+Token: ' season' (ID: 3200), Prob: 0.0000
+Token: ' particular' (ID: 3953), Prob: 0.0000
+Token: ' summer' (ID: 7324), Prob: 0.0000
+Token: ' film' (ID: 4531), Prob: 0.0000
+Token: ' article' (ID: 4549), Prob: 0.0000
+Token: ' fact' (ID: 2097), Prob: 0.0000
+Token: ' release' (ID: 4879), Prob: 0.0000
+Token: ' yr' (ID: 42338), Prob: 0.0000
+Token: ' name' (ID: 829), Prob: 0.0000
+Token: ' current' (ID: 1482), Prob: 0.0000
+Token: ' family' (ID: 2997), Prob: 0.0000
+Token: ' area' (ID: 3082), Prob: 0.0000
+Token: ' era' (ID: 11385), Prob: 0.0000
+Token: ' decade' (ID: 13212), Prob: 0.0000
+Token: ' for' (ID: 369), Prob: 0.0000
+Token: '\n' (ID: 1699), Prob: 0.0000
+Token: ' birth' (ID: 7194), Prob: 0.0000
+Token: ' winter' (ID: 12406), Prob: 0.0000
+Token: ' ya' (ID: 13526), Prob: 0.0000
+Token: ' day' (ID: 1899), Prob: 0.0000
+Token: ' role' (ID: 3476), Prob: 0.0000
+Token: ' given' (ID: 2661), Prob: 0.0000
+Token: ' to' (ID: 311), Prob: 0.0000
+Token: ' one' (ID: 825), Prob: 0.0000
+Token: ' book' (ID: 2311), Prob: 0.0000
+Token: ' box' (ID: 3745), Prob: 0.0000
+Token: ' term' (ID: 4647), Prob: 0.0000
+Token: ' annual' (ID: 9775), Prob: 0.0000
+Token: ' first' (ID: 1156), Prob: 0.0000
+Token: ' second' (ID: 2086), Prob: 0.0000
+Token: ' tahun' (ID: 57523), Prob: 0.0000
+Token: 'y' (ID: 88), Prob: 0.0000
+Token: ' upcoming' (ID: 14487), Prob: 0.0000
+Token: ' yearly' (ID: 44270), Prob: 0.0000
+
+== Ranked Concepts (Clusters) ==
+Rank 1 | Centroid: ' year' | Score: 1.0000
+  Tokens: [' year', ' years', 'year', ' Year', '_year', '.year', '-year', ' YEAR', ' năm', 'Year', ' decade', ' tahun']
+Rank 2 | Centroid: ' following' | Score: 0.0000
+  Tokens: [' same', ' following', ' current', ' given', ' upcoming']
+Rank 3 | Centroid: ' date' | Score: 0.0000
+  Tokens: [' date', ' calendar', ' day']
+Rank 4 | Centroid: ' y' | Score: 0.0000
+  Tokens: [' y', 'y']
+Rank 5 | Centroid: ' ya' | Score: 0.0000
+  Tokens: [' ye', ' yr', ' ya']
+Rank 6 | Centroid: ' era' | Score: 0.0000
+  Tokens: [' period', ' time', ' area', ' era']
+Rank 7 | Centroid: ' the' | Score: 0.0000
+  Tokens: [' and', ' the', ' for', '\\n', ' to', ' one']
+Rank 8 | Centroid: ' book' | Score: 0.0000
+  Tokens: [' film', ' article', ' release', ' family', ' book', ' box']
+Rank 9 | Centroid: ' summer' | Score: 0.0000
+  Tokens: [' season', ' summer', ' winter']
+Rank 10 | Centroid: ' way' | Score: 0.0000
+  Tokens: [' way', ' fact']
+Rank 11 | Centroid: ' name' | Score: 0.0000
+  Tokens: [' name', ' role', ' term']
+Rank 12 | Centroid: ' particular' | Score: 0.0000
+  Tokens: [' particular']
+Rank 13 | Centroid: ' first' | Score: 0.0000
+  Tokens: [' first', ' second']
+Rank 14 | Centroid: ' annual' | Score: 0.0000
+  Tokens: [' annual', ' yearly']
+Rank 15 | Centroid: ' birth' | Score: 0.0000
+  Tokens: [' birth']
+
+**Chosen Concept:** Rank 1

@@ -1,89 +1,113 @@
 --- Step 138 Log ---
 
 == Filtered Candidates ==
-Token: ' two' (ID: 1378), Prob: 0.9844
-Token: ' three' (ID: 2326), Prob: 0.0096
-Token: ' one' (ID: 825), Prob: 0.0022
-Token: ' four' (ID: 3040), Prob: 0.0015
-Token: ' five' (ID: 4236), Prob: 0.0010
-Token: ' six' (ID: 4743), Prob: 0.0006
-Token: ' twenty' (ID: 17073), Prob: 0.0002
-Token: ' Two' (ID: 9043), Prob: 0.0002
-Token: ' set' (ID: 738), Prob: 0.0001
-Token: ' number' (ID: 1372), Prob: 0.0001
-Token: ' seven' (ID: 8094), Prob: 0.0001
-Token: ' eight' (ID: 8063), Prob: 0.0001
-Token: ' second' (ID: 2086), Prob: 0.0000
-Token: '-two' (ID: 37402), Prob: 0.0000
-Token: ' twelve' (ID: 29235), Prob: 0.0000
-Token: ' twice' (ID: 10917), Prob: 0.0000
-Token: ' ten' (ID: 5779), Prob: 0.0000
-Token: ' pair' (ID: 6716), Prob: 0.0000
-Token: ' scene' (ID: 6109), Prob: 0.0000
-Token: ' nine' (ID: 11627), Prob: 0.0000
-Token: ' may' (ID: 1231), Prob: 0.0000
-Token: ' must' (ID: 1969), Prob: 0.0000
-Token: ' zero' (ID: 7168), Prob: 0.0000
-Token: ' Three' (ID: 14513), Prob: 0.0000
-Token: '_two' (ID: 23241), Prob: 0.0000
-Token: ' another' (ID: 2441), Prob: 0.0000
-Token: ' sets' (ID: 7289), Prob: 0.0000
-Token: 'Two' (ID: 11613), Prob: 0.0000
-Token: ' setting' (ID: 6243), Prob: 0.0000
-Token: ' outside' (ID: 4889), Prob: 0.0000
-Token: ' numbers' (ID: 5109), Prob: 0.0000
-Token: 'two' (ID: 19789), Prob: 0.0000
-Token: ' deux' (ID: 25552), Prob: 0.0000
-Token: ' part' (ID: 949), Prob: 0.0000
-Token: ' zwei' (ID: 40462), Prob: 0.0000
-Token: ' segment' (ID: 10238), Prob: 0.0000
-Token: '.two' (ID: 93080), Prob: 0.0000
-Token: ' time' (ID: 882), Prob: 0.0000
-Token: ' list' (ID: 1140), Prob: 0.0000
-Token: ' review' (ID: 3395), Prob: 0.0000
-Token: ' format' (ID: 3561), Prob: 0.0000
-Token: ' space' (ID: 3550), Prob: 0.0000
-Token: ' based' (ID: 3118), Prob: 0.0000
-Token: ' due' (ID: 4152), Prob: 0.0000
-Token: ' Six' (ID: 18680), Prob: 0.0000
-Token: ' details' (ID: 3565), Prob: 0.0000
-Token: ' multiple' (ID: 5248), Prob: 0.0000
-Token: ' nature' (ID: 6993), Prob: 0.0000
-Token: ' total' (ID: 2790), Prob: 0.0000
-Token: ' location' (ID: 3728), Prob: 0.0000
-Token: ' TWO' (ID: 46258), Prob: 0.0000
-Token: ' Twenty' (ID: 43856), Prob: 0.0000
+Token: ' BBC' (ID: 18096), Prob: 1.0000
+Token: ' TV' (ID: 5883), Prob: 0.0002
+Token: 'BBC' (ID: 66755), Prob: 0.0002
+Token: ' television' (ID: 12425), Prob: 0.0001
+Token: ' UK' (ID: 6424), Prob: 0.0001
+Token: ' British' (ID: 7855), Prob: 0.0001
+Token: ' series' (ID: 4013), Prob: 0.0001
+Token: ' ABC' (ID: 19360), Prob: 0.0001
+Token: ' CBC' (ID: 45512), Prob: 0.0000
+Token: ' bbc' (ID: 90626), Prob: 0.0000
+Token: ' HBO' (ID: 42878), Prob: 0.0000
+Token: ' BB' (ID: 18270), Prob: 0.0000
+Token: ' CBS' (ID: 24029), Prob: 0.0000
+Token: ' ITV' (ID: 93355), Prob: 0.0000
+Token: ' Netflix' (ID: 22642), Prob: 0.0000
+Token: ' broadcast' (ID: 12899), Prob: 0.0000
+Token: ' NBC' (ID: 23521), Prob: 0.0000
+Token: ' following' (ID: 2701), Prob: 0.0000
+Token: ' PBS' (ID: 59045), Prob: 0.0000
+Token: ' Broadway' (ID: 36676), Prob: 0.0000
+Token: ' B' (ID: 425), Prob: 0.0000
+Token: ' sitcom' (ID: 80366), Prob: 0.0000
+Token: ' The' (ID: 576), Prob: 0.0000
+Token: ' film' (ID: 4531), Prob: 0.0000
+Token: ' broadcasting' (ID: 48827), Prob: 0.0000
+Token: ' role' (ID: 3476), Prob: 0.0000
+Token: ' CCTV' (ID: 70238), Prob: 0.0000
+Token: ' the' (ID: 279), Prob: 0.0000
+Token: 'bbc' (ID: 84185), Prob: 0.0000
+Token: ' Scottish' (ID: 26096), Prob: 0.0000
+Token: ' Amazon' (ID: 8176), Prob: 0.0000
+Token: ' T' (ID: 350), Prob: 0.0000
+Token: ' A' (ID: 362), Prob: 0.0000
+Token: ' radio' (ID: 8887), Prob: 0.0000
+Token: ' comedy' (ID: 22358), Prob: 0.0000
+Token: ' first' (ID: 1156), Prob: 0.0000
+Token: ' Brit' (ID: 5450), Prob: 0.0000
+Token: ' Australian' (ID: 13369), Prob: 0.0000
+Token: ' drama' (ID: 19584), Prob: 0.0000
+Token: ' NHS' (ID: 36281), Prob: 0.0000
+Token: ' United' (ID: 3639), Prob: 0.0000
+Token: ' National' (ID: 5055), Prob: 0.0000
+Token: ' movie' (ID: 5700), Prob: 0.0000
+Token: ' CB' (ID: 21318), Prob: 0.0000
+Token: ' G' (ID: 479), Prob: 0.0000
+Token: ' I' (ID: 358), Prob: 0.0000
+Token: ' Radio' (ID: 13484), Prob: 0.0000
+Token: ' show' (ID: 1473), Prob: 0.0000
+Token: ' BC' (ID: 18040), Prob: 0.0000
+Token: ' DVD' (ID: 18092), Prob: 0.0000
+Token: ' Crown' (ID: 28643), Prob: 0.0000
+Token: ' televised' (ID: 75610), Prob: 0.0000
+Token: ' D' (ID: 422), Prob: 0.0000
+Token: ' same' (ID: 1852), Prob: 0.0000
+Token: ' North' (ID: 4787), Prob: 0.0000
+Token: ' WWE' (ID: 33438), Prob: 0.0000
+Token: ' BTC' (ID: 36045), Prob: 0.0000
+Token: ' AMC' (ID: 74309), Prob: 0.0000
+Token: ' televis' (ID: 89965), Prob: 0.0000
+Token: ' BA' (ID: 33489), Prob: 0.0000
+Token: ' Royal' (ID: 16194), Prob: 0.0000
+Token: ' GB' (ID: 18865), Prob: 0.0000
+Token: ' West' (ID: 4312), Prob: 0.0000
+Token: ' English' (ID: 6364), Prob: 0.0000
+Token: ' Television' (ID: 40345), Prob: 0.0000
+Token: ' various' (ID: 5257), Prob: 0.0000
+Token: ' programme' (ID: 18136), Prob: 0.0000
+Token: ' CNN' (ID: 19769), Prob: 0.0000
+Token: ' documentary' (ID: 24954), Prob: 0.0000
+Token: ' Broadcast' (ID: 31965), Prob: 0.0000
+Token: ' BBB' (ID: 94458), Prob: 0.0000
+Token: ' S' (ID: 328), Prob: 0.0000
 
 == Ranked Concepts (Clusters) ==
-Rank 1 | Centroid: ' Two' | Score: 0.9844
-  Tokens: [' two', ' Two', '-two', '_two', 'Two', 'two', ' deux', ' zwei', '.two', ' TWO']
-Rank 2 | Centroid: ' three' | Score: 0.0111
-  Tokens: [' three', ' four', ' Three']
-Rank 3 | Centroid: ' one' | Score: 0.0022
-  Tokens: [' one', ' multiple']
-Rank 4 | Centroid: ' six' | Score: 0.0018
-  Tokens: [' five', ' six', ' seven', ' eight', ' twelve', ' ten', ' nine', ' Six']
-Rank 5 | Centroid: ' twenty' | Score: 0.0002
-  Tokens: [' twenty', ' Twenty']
-Rank 6 | Centroid: ' sets' | Score: 0.0001
-  Tokens: [' set', ' sets', ' setting']
-Rank 7 | Centroid: ' number' | Score: 0.0001
-  Tokens: [' number', ' numbers']
-Rank 8 | Centroid: ' another' | Score: 0.0000
-  Tokens: [' second', ' another', ' outside']
-Rank 9 | Centroid: ' twice' | Score: 0.0000
-  Tokens: [' twice']
-Rank 10 | Centroid: ' may' | Score: 0.0000
-  Tokens: [' may', ' must', ' review', ' based', ' due', ' details']
-Rank 11 | Centroid: ' pair' | Score: 0.0000
-  Tokens: [' pair', ' list']
-Rank 12 | Centroid: ' scene' | Score: 0.0000
-  Tokens: [' scene', ' location']
-Rank 13 | Centroid: ' time' | Score: 0.0000
-  Tokens: [' zero', ' time', ' space', ' total']
-Rank 14 | Centroid: ' part' | Score: 0.0000
-  Tokens: [' part', ' segment']
-Rank 15 | Centroid: ' format' | Score: 0.0000
-  Tokens: [' format', ' nature']
+Rank 1 | Centroid: ' BBC' | Score: 1.0000
+  Tokens: [' BBC', 'BBC', ' bbc', 'bbc']
+Rank 2 | Centroid: ' television' | Score: 0.0003
+  Tokens: [' TV', ' television', ' televised', ' televis', ' Television']
+Rank 3 | Centroid: ' British' | Score: 0.0002
+  Tokens: [' UK', ' British', ' Scottish', ' Brit', ' Australian', ' NHS', ' English']
+Rank 4 | Centroid: ' CBS' | Score: 0.0001
+  Tokens: [' CBC', ' HBO', ' CBS', ' NBC', ' PBS', ' CNN']
+Rank 5 | Centroid: ' various' | Score: 0.0001
+  Tokens: [' series', ' following', ' role', ' first', ' show', ' same', ' various']
+Rank 6 | Centroid: ' ABC' | Score: 0.0001
+  Tokens: [' ABC']
+Rank 7 | Centroid: ' BB' | Score: 0.0000
+  Tokens: [' BB', ' CB', ' BC', ' BTC', ' BA', ' GB', ' BBB']
+Rank 8 | Centroid: ' ITV' | Score: 0.0000
+  Tokens: [' ITV', ' CCTV']
+Rank 9 | Centroid: ' movie' | Score: 0.0000
+  Tokens: [' Netflix', ' film', ' movie', ' DVD', ' documentary']
+Rank 10 | Centroid: ' the' | Score: 0.0000
+  Tokens: [' B', ' The', ' the', ' T', ' A', ' G', ' I', ' D', ' S']
+Rank 11 | Centroid: ' broadcast' | Score: 0.0000
+  Tokens: [' broadcast', ' broadcasting', ' Broadcast']
+Rank 12 | Centroid: ' comedy' | Score: 0.0000
+  Tokens: [' Broadway', ' sitcom', ' comedy', ' drama']
+Rank 13 | Centroid: ' North' | Score: 0.0000
+  Tokens: [' United', ' National', ' North', ' West']
+Rank 14 | Centroid: ' WWE' | Score: 0.0000
+  Tokens: [' Amazon', ' WWE', ' AMC']
+Rank 15 | Centroid: ' radio' | Score: 0.0000
+  Tokens: [' radio', ' Radio']
+Rank 16 | Centroid: ' Crown' | Score: 0.0000
+  Tokens: [' Crown', ' Royal']
+Rank 17 | Centroid: ' programme' | Score: 0.0000
+  Tokens: [' programme']
 
 **Chosen Concept:** Rank 1

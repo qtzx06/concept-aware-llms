@@ -1,0 +1,133 @@
+--- Step 32 Log ---
+
+== Filtered Candidates ==
+Token: ' Pool' (ID: 22728), Prob: 0.5195
+Token: ' of' (ID: 315), Prob: 0.1484
+Token: ' in' (ID: 304), Prob: 0.0796
+Token: ' by' (ID: 553), Prob: 0.0258
+Token: ' at' (ID: 518), Prob: 0.0227
+Token: ' and' (ID: 323), Prob: 0.0095
+Token: ' Place' (ID: 10771), Prob: 0.0051
+Token: ' Well' (ID: 8325), Prob: 0.0045
+Token: ' Girl' (ID: 11363), Prob: 0.0031
+Token: ' Hour' (ID: 30833), Prob: 0.0023
+Token: ' Child' (ID: 9391), Prob: 0.0021
+Token: ' City' (ID: 4311), Prob: 0.0016
+Token: ' Tour' (ID: 14644), Prob: 0.0016
+Token: ' on' (ID: 389), Prob: 0.0015
+Token: ' as' (ID: 438), Prob: 0.0013
+Token: ' Light' (ID: 8658), Prob: 0.0011
+Token: ' Duck' (ID: 45770), Prob: 0.0010
+Token: ' Elev' (ID: 54564), Prob: 0.0010
+Token: ' Feeling' (ID: 73558), Prob: 0.0010
+Token: ' Beach' (ID: 12721), Prob: 0.0009
+Token: ' Dove' (ID: 88984), Prob: 0.0009
+Token: ' Tower' (ID: 21938), Prob: 0.0008
+Token: ' Room' (ID: 10420), Prob: 0.0008
+Token: ' Sea' (ID: 15029), Prob: 0.0008
+Token: ' Girls' (ID: 20065), Prob: 0.0008
+Token: ' Mirror' (ID: 33854), Prob: 0.0008
+Token: ' Spar' (ID: 69806), Prob: 0.0008
+Token: ' with' (ID: 448), Prob: 0.0007
+Token: ' Rep' (ID: 3321), Prob: 0.0007
+Token: ' Kind' (ID: 16840), Prob: 0.0007
+Token: ' Heart' (ID: 17965), Prob: 0.0006
+Token: ' Republic' (ID: 5429), Prob: 0.0006
+Token: ' Days' (ID: 21192), Prob: 0.0006
+Token: ' Club' (ID: 10140), Prob: 0.0004
+Token: ' P' (ID: 393), Prob: 0.0004
+Token: ' L' (ID: 444), Prob: 0.0004
+Token: ' House' (ID: 4678), Prob: 0.0004
+Token: ' Meadow' (ID: 88742), Prob: 0.0004
+Token: ' Queen' (ID: 16259), Prob: 0.0003
+Token: ' is' (ID: 374), Prob: 0.0003
+Token: ' followed' (ID: 8110), Prob: 0.0003
+Token: 'pool' (ID: 10285), Prob: 0.0003
+Token: ' Fun' (ID: 16071), Prob: 0.0003
+Token: ' Boy' (ID: 16180), Prob: 0.0003
+Token: ' Lounge' (ID: 49667), Prob: 0.0003
+Token: ' Day' (ID: 6059), Prob: 0.0003
+Token: ' Tree' (ID: 8942), Prob: 0.0003
+Token: ' Life' (ID: 9414), Prob: 0.0003
+Token: ' Elephant' (ID: 78089), Prob: 0.0003
+Token: ' Man' (ID: 2363), Prob: 0.0003
+Token: ' Sky' (ID: 14722), Prob: 0.0003
+Token: ' Cat' (ID: 17358), Prob: 0.0003
+Token: ' Experiment' (ID: 46793), Prob: 0.0003
+Token: ' Creek' (ID: 23198), Prob: 0.0003
+Token: ' Corp' (ID: 21863), Prob: 0.0002
+Token: ' O' (ID: 506), Prob: 0.0002
+Token: ' Shore' (ID: 44719), Prob: 0.0002
+Token: ' Bee' (ID: 37430), Prob: 0.0002
+Token: ' for' (ID: 369), Prob: 0.0002
+Token: ' Blue' (ID: 8697), Prob: 0.0002
+Token: ' or' (ID: 476), Prob: 0.0002
+Token: ' Type' (ID: 3990), Prob: 0.0002
+Token: ' Em' (ID: 5748), Prob: 0.0002
+Token: ' Trust' (ID: 16816), Prob: 0.0002
+Token: ' Orange' (ID: 21958), Prob: 0.0002
+Token: ' Recap' (ID: 98034), Prob: 0.0002
+Token: ' River' (ID: 10948), Prob: 0.0002
+Token: ' Cherry' (ID: 44705), Prob: 0.0002
+Token: ' Mood' (ID: 93567), Prob: 0.0002
+Token: ' Trilogy' (ID: 96213), Prob: 0.0002
+Token: ' Song' (ID: 18971), Prob: 0.0002
+Token: ' Ocean' (ID: 21575), Prob: 0.0002
+Token: ' Years' (ID: 22315), Prob: 0.0002
+Token: ' well' (ID: 1632), Prob: 0.0002
+Token: ' Moon' (ID: 17330), Prob: 0.0002
+Token: ' to' (ID: 311), Prob: 0.0001
+Token: ' Swan' (ID: 43401), Prob: 0.0001
+Token: ' G' (ID: 479), Prob: 0.0001
+Token: ' was' (ID: 572), Prob: 0.0001
+Token: ' Group' (ID: 5737), Prob: 0.0001
+Token: ' Virgin' (ID: 11214), Prob: 0.0001
+Token: ' Dir' (ID: 30094), Prob: 0.0001
+Token: ' Ducks' (ID: 67782), Prob: 0.0001
+Token: ' Company' (ID: 8188), Prob: 0.0001
+Token: ' Phoenix' (ID: 22672), Prob: 0.0001
+Token: ' Quart' (ID: 69084), Prob: 0.0001
+
+== Ranked Concepts (Clusters) ==
+Rank 1 | Centroid: ' Pool' | Score: 0.5195
+  Tokens: [' Pool', 'pool']
+Rank 2 | Centroid: ' in' | Score: 0.2910
+  Tokens: [' of', ' in', ' by', ' at', ' and', ' on', ' as', ' with', ' is', ' for', ' or', ' to', ' was']
+Rank 3 | Centroid: ' House' | Score: 0.0087
+  Tokens: [' Place', ' Hour', ' Room', ' House', ' Song']
+Rank 4 | Centroid: ' Girl' | Score: 0.0066
+  Tokens: [' Girl', ' Child', ' Girls', ' Boy', ' Man']
+Rank 5 | Centroid: ' Well' | Score: 0.0046
+  Tokens: [' Well', ' well']
+Rank 6 | Centroid: ' Duck' | Score: 0.0038
+  Tokens: [' Duck', ' Dove', ' Spar', ' Meadow', ' Elephant', ' Bee', ' Swan', ' Ducks']
+Rank 7 | Centroid: ' Ocean' | Score: 0.0032
+  Tokens: [' Beach', ' Sea', ' Tree', ' Sky', ' Creek', ' Shore', ' River', ' Ocean', ' Moon']
+Rank 8 | Centroid: ' Tour' | Score: 0.0029
+  Tokens: [' Tour', ' Tower', ' Club']
+Rank 9 | Centroid: ' Feeling' | Score: 0.0025
+  Tokens: [' Elev', ' Feeling', ' Lounge', ' Mood']
+Rank 10 | Centroid: ' Life' | Score: 0.0020
+  Tokens: [' Light', ' Heart', ' Life']
+Rank 11 | Centroid: ' Days' | Score: 0.0019
+  Tokens: [' Kind', ' Days', ' Day', ' Type', ' Years']
+Rank 12 | Centroid: ' City' | Score: 0.0016
+  Tokens: [' City']
+Rank 13 | Centroid: ' Rep' | Score: 0.0014
+  Tokens: [' Rep', ' Republic', ' Recap']
+Rank 14 | Centroid: ' L' | Score: 0.0013
+  Tokens: [' P', ' L', ' O', ' Em', ' G']
+Rank 15 | Centroid: ' Queen' | Score: 0.0013
+  Tokens: [' Mirror', ' Queen', ' Virgin']
+Rank 16 | Centroid: ' Fun' | Score: 0.0011
+  Tokens: [' Fun', ' Experiment', ' Trust', ' Trilogy', ' Quart']
+Rank 17 | Centroid: ' Orange' | Score: 0.0007
+  Tokens: [' Blue', ' Orange', ' Cherry', ' Phoenix']
+Rank 18 | Centroid: ' Company' | Score: 0.0005
+  Tokens: [' Corp', ' Group', ' Company']
+Rank 19 | Centroid: ' Cat' | Score: 0.0004
+  Tokens: [' Cat', ' Dir']
+Rank 20 | Centroid: ' followed' | Score: 0.0003
+  Tokens: [' followed']
+
+**Chosen Concept:** Rank 1

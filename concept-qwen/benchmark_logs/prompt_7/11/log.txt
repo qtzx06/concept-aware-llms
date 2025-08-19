@@ -1,0 +1,128 @@
+--- Step 11 Log ---
+
+== Filtered Candidates ==
+Token: ' classical' (ID: 28824), Prob: 0.5156
+Token: ' tradition' (ID: 13815), Prob: 0.1895
+Token: ' style' (ID: 1707), Prob: 0.1147
+Token: ' form' (ID: 1352), Prob: 0.0698
+Token: ' traditional' (ID: 8606), Prob: 0.0226
+Token: ' classic' (ID: 11416), Prob: 0.0137
+Token: ' romantic' (ID: 23467), Prob: 0.0073
+Token: ' real' (ID: 1931), Prob: 0.0057
+Token: ' realm' (ID: 21889), Prob: 0.0057
+Token: ' Tang' (ID: 40362), Prob: 0.0039
+Token: ' Classical' (ID: 67433), Prob: 0.0039
+Token: ' ball' (ID: 4935), Prob: 0.0024
+Token: ' realistic' (ID: 25489), Prob: 0.0013
+Token: ' category' (ID: 5582), Prob: 0.0011
+Token: ' spirit' (ID: 8913), Prob: 0.0009
+Token: ' landscape' (ID: 18414), Prob: 0.0009
+Token: ' realism' (ID: 68771), Prob: 0.0009
+Token: ' plains' (ID: 77366), Prob: 0.0008
+Token: ' forms' (ID: 7586), Prob: 0.0007
+Token: ' i' (ID: 600), Prob: 0.0006
+Token: ' middle' (ID: 6149), Prob: 0.0006
+Token: ' folk' (ID: 27936), Prob: 0.0006
+Token: ' long' (ID: 1293), Prob: 0.0005
+Token: ' classics' (ID: 52705), Prob: 0.0005
+Token: ' format' (ID: 3561), Prob: 0.0004
+Token: ' common' (ID: 4185), Prob: 0.0004
+Token: ' serious' (ID: 6001), Prob: 0.0004
+Token: ' nature' (ID: 6993), Prob: 0.0004
+Token: ' emotional' (ID: 14269), Prob: 0.0004
+Token: ' formal' (ID: 15908), Prob: 0.0004
+Token: ' service' (ID: 2473), Prob: 0.0003
+Token: ' heart' (ID: 4746), Prob: 0.0003
+Token: ' Chinese' (ID: 8453), Prob: 0.0003
+Token: ' historical' (ID: 13656), Prob: 0.0003
+Token: ' mood' (ID: 19671), Prob: 0.0003
+Token: ' themes' (ID: 21386), Prob: 0.0003
+Token: ' poetic' (ID: 75434), Prob: 0.0003
+Token: ' Tradition' (ID: 80478), Prob: 0.0003
+Token: ' epic' (ID: 24679), Prob: 0.0003
+Token: ' line' (ID: 1555), Prob: 0.0002
+Token: ' subject' (ID: 3832), Prob: 0.0002
+Token: ' genre' (ID: 17328), Prob: 0.0002
+Token: ' vern' (ID: 71593), Prob: 0.0002
+Token: ' melanch' (ID: 86063), Prob: 0.0002
+Token: ' great' (ID: 2244), Prob: 0.0002
+Token: ' model' (ID: 1614), Prob: 0.0002
+Token: ' Middle' (ID: 12592), Prob: 0.0002
+Token: ' ancient' (ID: 13833), Prob: 0.0002
+Token: ' Classic' (ID: 21837), Prob: 0.0002
+Token: ' traditions' (ID: 30906), Prob: 0.0002
+Token: ' philosophical' (ID: 40803), Prob: 0.0002
+Token: ' b' (ID: 293), Prob: 0.0002
+Token: ' son' (ID: 4438), Prob: 0.0002
+Token: ' Du' (ID: 15687), Prob: 0.0002
+Token: ' eleg' (ID: 17720), Prob: 0.0002
+Token: ' Gong' (ID: 97375), Prob: 0.0002
+Token: ' he' (ID: 566), Prob: 0.0001
+Token: ' school' (ID: 2906), Prob: 0.0001
+Token: ' profound' (ID: 27155), Prob: 0.0001
+Token: ' Buddhist' (ID: 46741), Prob: 0.0001
+Token: ' Dao' (ID: 51581), Prob: 0.0001
+Token: ' simple' (ID: 4285), Prob: 0.0001
+Token: ' poetry' (ID: 31249), Prob: 0.0001
+Token: ' realms' (ID: 76463), Prob: 0.0001
+Token: ' the' (ID: 279), Prob: 0.0001
+Token: ' more' (ID: 803), Prob: 0.0001
+Token: ' mode' (ID: 3856), Prob: 0.0001
+Token: ' lines' (ID: 5128), Prob: 0.0001
+Token: ' national' (ID: 5313), Prob: 0.0001
+Token: ' Real' (ID: 8800), Prob: 0.0001
+Token: ' styles' (ID: 9222), Prob: 0.0001
+Token: ' fu' (ID: 18415), Prob: 0.0001
+Token: ' verse' (ID: 32387), Prob: 0.0001
+Token: ' Traditional' (ID: 45460), Prob: 0.0001
+Token: ' l' (ID: 326), Prob: 0.0001
+Token: ' strict' (ID: 7304), Prob: 0.0001
+Token: ' pure' (ID: 10526), Prob: 0.0001
+Token: ' categories' (ID: 11059), Prob: 0.0001
+Token: ' literary' (ID: 31365), Prob: 0.0001
+Token: ' pastoral' (ID: 89271), Prob: 0.0001
+Token: ' high' (ID: 1550), Prob: 0.0001
+
+== Ranked Concepts (Clusters) ==
+Rank 1 | Centroid: ' classical' | Score: 0.5352
+  Tokens: [' classical', ' classic', ' Classical', ' classics', ' Classic']
+Rank 2 | Centroid: ' tradition' | Score: 0.2129
+  Tokens: [' tradition', ' traditional', ' Tradition', ' traditions', ' Traditional']
+Rank 3 | Centroid: ' style' | Score: 0.1157
+  Tokens: [' style', ' format', ' nature', ' mode', ' styles']
+Rank 4 | Centroid: ' form' | Score: 0.0708
+  Tokens: [' form', ' forms', ' formal']
+Rank 5 | Centroid: ' poetic' | Score: 0.0081
+  Tokens: [' romantic', ' poetic', ' philosophical', ' poetry', ' verse', ' literary']
+Rank 6 | Centroid: ' Real' | Score: 0.0079
+  Tokens: [' real', ' realistic', ' realism', ' Real']
+Rank 7 | Centroid: ' realms' | Score: 0.0061
+  Tokens: [' realm', ' themes', ' realms']
+Rank 8 | Centroid: ' Chinese' | Score: 0.0053
+  Tokens: [' Tang', ' plains', ' Chinese', ' Gong', ' Dao']
+Rank 9 | Centroid: ' the' | Score: 0.0029
+  Tokens: [' i', ' long', ' common', ' service', ' model', ' b', ' son', ' he', ' simple', ' the', ' more', ' l', ' high']
+Rank 10 | Centroid: ' Du' | Score: 0.0026
+  Tokens: [' ball', ' Du', ' fu']
+Rank 11 | Centroid: ' mood' | Score: 0.0020
+  Tokens: [' spirit', ' landscape', ' mood']
+Rank 12 | Centroid: ' category' | Score: 0.0014
+  Tokens: [' category', ' subject', ' categories']
+Rank 13 | Centroid: ' serious' | Score: 0.0011
+  Tokens: [' serious', ' heart', ' great', ' strict', ' pure']
+Rank 14 | Centroid: ' middle' | Score: 0.0009
+  Tokens: [' middle', ' Middle', ' school']
+Rank 15 | Centroid: ' profound' | Score: 0.0008
+  Tokens: [' epic', ' melanch', ' profound', ' Buddhist', ' pastoral']
+Rank 16 | Centroid: ' folk' | Score: 0.0008
+  Tokens: [' folk', ' ancient']
+Rank 17 | Centroid: ' emotional' | Score: 0.0008
+  Tokens: [' emotional', ' historical', ' national']
+Rank 18 | Centroid: ' vern' | Score: 0.0004
+  Tokens: [' vern', ' eleg']
+Rank 19 | Centroid: ' line' | Score: 0.0003
+  Tokens: [' line', ' lines']
+Rank 20 | Centroid: ' genre' | Score: 0.0002
+  Tokens: [' genre']
+
+**Chosen Concept:** Rank 1

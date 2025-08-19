@@ -1,159 +1,102 @@
 --- Step 127 Log ---
 
 == Filtered Candidates ==
-Token: ' include' (ID: 2924), Prob: 0.0439
-Token: ' begin' (ID: 3161), Prob: 0.0183
-Token: ' start' (ID: 1191), Prob: 0.0162
-Token: ' focus' (ID: 5244), Prob: 0.0098
-Token: ' take' (ID: 1896), Prob: 0.0077
-Token: ' describe' (ID: 7512), Prob: 0.0077
-Token: ' involve' (ID: 21058), Prob: 0.0077
-Token: ' show' (ID: 1473), Prob: 0.0067
-Token: ' introduce' (ID: 19131), Prob: 0.0060
-Token: ' set' (ID: 738), Prob: 0.0036
-Token: ' end' (ID: 835), Prob: 0.0036
-Token: ' contain' (ID: 6644), Prob: 0.0036
-Token: ' feature' (ID: 4565), Prob: 0.0028
-Token: ' occur' (ID: 12170), Prob: 0.0022
-Token: ' open' (ID: 1787), Prob: 0.0018
-Token: ' consist' (ID: 6685), Prob: 0.0015
-Token: ' establish' (ID: 5695), Prob: 0.0014
-Token: ' present' (ID: 3042), Prob: 0.0011
-Token: ' conclude' (ID: 31094), Prob: 0.0010
-Token: ' depict' (ID: 42404), Prob: 0.0010
-Token: ' follow' (ID: 1795), Prob: 0.0009
-Token: ' center' (ID: 4126), Prob: 0.0008
-Token: ' happen' (ID: 3537), Prob: 0.0005
-Token: ' place' (ID: 1992), Prob: 0.0004
-Token: ' lead' (ID: 2990), Prob: 0.0004
-Token: ' represent' (ID: 4009), Prob: 0.0004
-Token: ' showcase' (ID: 34783), Prob: 0.0004
-Token: ' come' (ID: 2525), Prob: 0.0003
-Token: ' highlight' (ID: 11167), Prob: 0.0003
-Token: ' detail' (ID: 7716), Prob: 0.0003
-Token: ' also' (ID: 1083), Prob: 0.0002
-Token: ' incorporate' (ID: 32335), Prob: 0.0002
-Token: ' tell' (ID: 3291), Prob: 0.0002
-Token: ' correspond' (ID: 7866), Prob: 0.0002
-Token: ' address' (ID: 2621), Prob: 0.0001
-Token: ' refer' (ID: 8300), Prob: 0.0001
-Token: ' relate' (ID: 28143), Prob: 0.0001
-Token: ' appear' (ID: 4994), Prob: 0.0001
-Token: ' clearly' (ID: 9355), Prob: 0.0001
-Token: ' discuss' (ID: 4263), Prob: 0.0001
-Token: ' rev' (ID: 5772), Prob: 0.0001
-Token: ' directly' (ID: 5961), Prob: 0.0001
-Token: ' reflect' (ID: 8708), Prob: 0.0001
-Token: ' demonstrate' (ID: 19869), Prob: 0.0001
-Token: ' mark' (ID: 1868), Prob: 0.0001
-Token: ' feel' (ID: 2666), Prob: 0.0001
-Token: ' close' (ID: 3265), Prob: 0.0001
-Token: ' indicate' (ID: 13216), Prob: 0.0001
-Token: ' mention' (ID: 6286), Prob: 0.0001
-Token: ' provide' (ID: 3410), Prob: 0.0001
-Token: ' deal' (ID: 3484), Prob: 0.0001
-Token: ' state' (ID: 1584), Prob: 0.0001
-Token: ' develop' (ID: 2225), Prob: 0.0001
-Token: ' emphasize' (ID: 45932), Prob: 0.0001
-Token: ' create' (ID: 1855), Prob: 0.0001
-Token: ' display' (ID: 3037), Prob: 0.0001
-Token: ' write' (ID: 3270), Prob: 0.0001
-Token: ' cover' (ID: 3421), Prob: 0.0001
-Token: ' immediately' (ID: 7069), Prob: 0.0001
-Token: ' use' (ID: 990), Prob: 0.0001
-Token: ' give' (ID: 2968), Prob: 0.0001
-Token: ' serve' (ID: 8683), Prob: 0.0001
-Token: ' reveal' (ID: 16400), Prob: 0.0001
-Token: ' require' (ID: 1373), Prob: 0.0001
-Token: ' transition' (ID: 9142), Prob: 0.0001
-Token: ' identify' (ID: 10542), Prob: 0.0001
-Token: ' plot' (ID: 7089), Prob: 0.0001
-Token: ' explore' (ID: 13186), Prob: 0.0001
-Token: ' preced' (ID: 16201), Prob: 0.0001
-Token: ' explain' (ID: 10339), Prob: 0.0001
-Token: ' make' (ID: 1281), Prob: 0.0001
-Token: ' always' (ID: 2677), Prob: 0.0001
-Token: ' meet' (ID: 3367), Prob: 0.0001
-Token: ' connect' (ID: 4564), Prob: 0.0001
-Token: ' portray' (ID: 24878), Prob: 0.0001
-Token: ' title' (ID: 2265), Prob: 0.0001
-Token: ' talk' (ID: 3061), Prob: 0.0001
-Token: ' narr' (ID: 13408), Prob: 0.0001
-Token: ' first' (ID: 1156), Prob: 0.0001
-Token: ' reference' (ID: 5785), Prob: 0.0001
-Token: ' bring' (ID: 4446), Prob: 0.0000
-Token: ' naturally' (ID: 17712), Prob: 0.0000
-Token: ' name' (ID: 829), Prob: 0.0000
-Token: ' look' (ID: 1401), Prob: 0.0000
-Token: ' last' (ID: 1537), Prob: 0.0000
-Token: ' belong' (ID: 9173), Prob: 0.0000
-Token: ' specify' (ID: 13837), Prob: 0.0000
-Token: ' work' (ID: 975), Prob: 0.0000
-Token: ' build' (ID: 1936), Prob: 0.0000
-Token: ' report' (ID: 1895), Prob: 0.0000
-Token: ' match' (ID: 2432), Prob: 0.0000
-Token: ' choose' (ID: 5157), Prob: 0.0000
+Token: ' BBC' (ID: 18096), Prob: 1.0000
+Token: 'BBC' (ID: 66755), Prob: 0.0001
+Token: ' television' (ID: 12425), Prob: 0.0000
+Token: ' bbc' (ID: 90626), Prob: 0.0000
+Token: ' ABC' (ID: 19360), Prob: 0.0000
+Token: ' TV' (ID: 5883), Prob: 0.0000
+Token: ' CBC' (ID: 45512), Prob: 0.0000
+Token: ' BB' (ID: 18270), Prob: 0.0000
+Token: ' UK' (ID: 6424), Prob: 0.0000
+Token: ' British' (ID: 7855), Prob: 0.0000
+Token: ' NBC' (ID: 23521), Prob: 0.0000
+Token: ' CBS' (ID: 24029), Prob: 0.0000
+Token: ' broadcast' (ID: 12899), Prob: 0.0000
+Token: ' broadcasting' (ID: 48827), Prob: 0.0000
+Token: 'bbc' (ID: 84185), Prob: 0.0000
+Token: ' BC' (ID: 18040), Prob: 0.0000
+Token: ' B' (ID: 425), Prob: 0.0000
+Token: ' series' (ID: 4013), Prob: 0.0000
+Token: ' the' (ID: 279), Prob: 0.0000
+Token: ' HBO' (ID: 42878), Prob: 0.0000
+Token: ' Television' (ID: 40345), Prob: 0.0000
+Token: ' The' (ID: 576), Prob: 0.0000
+Token: ' ITV' (ID: 93355), Prob: 0.0000
+Token: ' Broadcasting' (ID: 63460), Prob: 0.0000
+Token: ' BBB' (ID: 94458), Prob: 0.0000
+Token: ' film' (ID: 4531), Prob: 0.0000
+Token: ' other' (ID: 1008), Prob: 0.0000
+Token: ' GCC' (ID: 44938), Prob: 0.0000
+Token: ' Britann' (ID: 97420), Prob: 0.0000
+Token: ' PBS' (ID: 59045), Prob: 0.0000
+Token: ' Bible' (ID: 16947), Prob: 0.0000
+Token: ' televis' (ID: 89965), Prob: 0.0000
+Token: ' movie' (ID: 5700), Prob: 0.0000
+Token: ' GBP' (ID: 83261), Prob: 0.0000
+Token: ' in' (ID: 304), Prob: 0.0000
+Token: ' public' (ID: 584), Prob: 0.0000
+Token: ' role' (ID: 3476), Prob: 0.0000
+Token: ' Broadway' (ID: 36676), Prob: 0.0000
+Token: ' CCTV' (ID: 70238), Prob: 0.0000
+Token: ' Netflix' (ID: 22642), Prob: 0.0000
+Token: ' radio' (ID: 8887), Prob: 0.0000
+Token: ' and' (ID: 323), Prob: 0.0000
+Token: ' United' (ID: 3639), Prob: 0.0000
+Token: ' Broadcast' (ID: 31965), Prob: 0.0000
+Token: ' various' (ID: 5257), Prob: 0.0000
+Token: ' Crown' (ID: 28643), Prob: 0.0000
+Token: ' Britain' (ID: 13224), Prob: 0.0000
+Token: ' A' (ID: 362), Prob: 0.0000
+Token: ' Bollywood' (ID: 64186), Prob: 0.0000
+Token: ' I' (ID: 358), Prob: 0.0000
+Token: ' BTC' (ID: 36045), Prob: 0.0000
+Token: ' of' (ID: 315), Prob: 0.0000
+Token: ' same' (ID: 1852), Prob: 0.0000
+Token: ' televised' (ID: 75610), Prob: 0.0000
+Token: ' title' (ID: 2265), Prob: 0.0000
+Token: ' media' (ID: 3687), Prob: 0.0000
+Token: ' North' (ID: 4787), Prob: 0.0000
+Token: ' sitcom' (ID: 80366), Prob: 0.0000
+Token: ' T' (ID: 350), Prob: 0.0000
 
 == Ranked Concepts (Clusters) ==
-Rank 1 | Centroid: ' involve' | Score: 0.0571
-  Tokens: [' include', ' involve', ' contain', ' consist', ' incorporate', ' require']
-Rank 2 | Centroid: ' start' | Score: 0.0381
-  Tokens: [' begin', ' start', ' end']
-Rank 3 | Centroid: ' center' | Score: 0.0110
-  Tokens: [' focus', ' center', ' place']
-Rank 4 | Centroid: ' establish' | Score: 0.0085
-  Tokens: [' introduce', ' establish', ' conclude', ' develop', ' explore']
-Rank 5 | Centroid: ' take' | Score: 0.0082
-  Tokens: [' take', ' lead', ' feel', ' look', ' work']
-Rank 6 | Centroid: ' indicate' | Score: 0.0080
-  Tokens: [' describe', ' indicate', ' identify', ' explain', ' specify']
-Rank 7 | Centroid: ' showcase' | Score: 0.0074
-  Tokens: [' show', ' showcase', ' demonstrate', ' display', ' reveal']
-Rank 8 | Centroid: ' first' | Score: 0.0057
-  Tokens: [' set', ' open', ' close', ' state', ' first', ' last']
-Rank 9 | Centroid: ' occur' | Score: 0.0029
-  Tokens: [' occur', ' happen', ' appear', ' belong']
-Rank 10 | Centroid: ' feature' | Score: 0.0028
-  Tokens: [' feature']
-Rank 11 | Centroid: ' report' | Score: 0.0013
-  Tokens: [' present', ' plot', ' narr', ' report']
-Rank 12 | Centroid: ' depict' | Score: 0.0011
-  Tokens: [' depict', ' portray']
-Rank 13 | Centroid: ' follow' | Score: 0.0010
-  Tokens: [' follow', ' preced']
-Rank 14 | Centroid: ' immediately' | Score: 0.0007
-  Tokens: [' also', ' clearly', ' directly', ' immediately', ' always', ' naturally']
-Rank 15 | Centroid: ' represent' | Score: 0.0007
-  Tokens: [' represent', ' correspond', ' reflect']
-Rank 16 | Centroid: ' bring' | Score: 0.0005
-  Tokens: [' come', ' serve', ' bring']
-Rank 17 | Centroid: ' highlight' | Score: 0.0004
-  Tokens: [' highlight', ' emphasize']
-Rank 18 | Centroid: ' detail' | Score: 0.0004
-  Tokens: [' detail', ' mention']
-Rank 19 | Centroid: ' provide' | Score: 0.0004
-  Tokens: [' provide', ' create', ' give', ' make', ' choose']
-Rank 20 | Centroid: ' address' | Score: 0.0003
-  Tokens: [' address', ' deal', ' cover']
-Rank 21 | Centroid: ' name' | Score: 0.0002
-  Tokens: [' rev', ' title', ' name']
-Rank 22 | Centroid: ' refer' | Score: 0.0002
-  Tokens: [' refer', ' reference']
-Rank 23 | Centroid: ' tell' | Score: 0.0002
-  Tokens: [' tell']
-Rank 24 | Centroid: ' discuss' | Score: 0.0002
-  Tokens: [' discuss', ' talk']
-Rank 25 | Centroid: ' relate' | Score: 0.0001
-  Tokens: [' relate']
-Rank 26 | Centroid: ' write' | Score: 0.0001
-  Tokens: [' write', ' build']
-Rank 27 | Centroid: ' meet' | Score: 0.0001
-  Tokens: [' meet', ' connect']
-Rank 28 | Centroid: ' transition' | Score: 0.0001
-  Tokens: [' transition', ' match']
-Rank 29 | Centroid: ' mark' | Score: 0.0001
-  Tokens: [' mark']
-Rank 30 | Centroid: ' use' | Score: 0.0001
-  Tokens: [' use']
+Rank 1 | Centroid: ' BBC' | Score: 1.0000
+  Tokens: [' BBC', 'BBC', ' bbc', 'bbc']
+Rank 2 | Centroid: ' television' | Score: 0.0000
+  Tokens: [' television', ' TV', ' Television', ' televis', ' televised']
+Rank 3 | Centroid: ' ABC' | Score: 0.0000
+  Tokens: [' ABC', ' BC']
+Rank 4 | Centroid: ' CBS' | Score: 0.0000
+  Tokens: [' CBC', ' NBC', ' CBS', ' HBO', ' PBS']
+Rank 5 | Centroid: ' BB' | Score: 0.0000
+  Tokens: [' BB', ' BBB', ' BTC']
+Rank 6 | Centroid: ' British' | Score: 0.0000
+  Tokens: [' UK', ' British', ' Britain']
+Rank 7 | Centroid: ' broadcasting' | Score: 0.0000
+  Tokens: [' broadcast', ' broadcasting', ' Broadcasting', ' radio', ' Broadcast']
+Rank 8 | Centroid: ' the' | Score: 0.0000
+  Tokens: [' B', ' the', ' The', ' in', ' and', ' A', ' I', ' of', ' T']
+Rank 9 | Centroid: ' various' | Score: 0.0000
+  Tokens: [' series', ' other', ' public', ' various', ' same']
+Rank 10 | Centroid: ' movie' | Score: 0.0000
+  Tokens: [' film', ' movie', ' Broadway', ' Netflix', ' Bollywood', ' sitcom']
+Rank 11 | Centroid: ' GCC' | Score: 0.0000
+  Tokens: [' GCC', ' GBP']
+Rank 12 | Centroid: ' ITV' | Score: 0.0000
+  Tokens: [' ITV']
+Rank 13 | Centroid: ' Bible' | Score: 0.0000
+  Tokens: [' Bible', ' Crown']
+Rank 14 | Centroid: ' role' | Score: 0.0000
+  Tokens: [' role', ' title']
+Rank 15 | Centroid: ' Britann' | Score: 0.0000
+  Tokens: [' Britann']
+Rank 16 | Centroid: ' United' | Score: 0.0000
+  Tokens: [' United', ' North']
+Rank 17 | Centroid: ' CCTV' | Score: 0.0000
+  Tokens: [' CCTV']
+Rank 18 | Centroid: ' media' | Score: 0.0000
+  Tokens: [' media']
 
 **Chosen Concept:** Rank 1

@@ -1,164 +1,109 @@
 --- Step 11 Log ---
 
 == Filtered Candidates ==
-Token: ' create' (ID: 1855), Prob: 0.7422
-Token: ' start' (ID: 1191), Prob: 0.1650
-Token: ' make' (ID: 1281), Prob: 0.0369
-Token: ' follow' (ID: 1795), Prob: 0.0175
-Token: ' take' (ID: 1896), Prob: 0.0082
-Token: ' write' (ID: 3270), Prob: 0.0044
-Token: ' capture' (ID: 12322), Prob: 0.0030
-Token: ' include' (ID: 2924), Prob: 0.0021
-Token: ' incorporate' (ID: 32335), Prob: 0.0018
-Token: ' paraph' (ID: 62230), Prob: 0.0018
-Token: ' summarize' (ID: 62079), Prob: 0.0016
-Token: ' structure' (ID: 5944), Prob: 0.0013
-Token: ' focus' (ID: 5244), Prob: 0.0010
-Token: ' craft' (ID: 10770), Prob: 0.0010
-Token: ' adapt' (ID: 10515), Prob: 0.0006
-Token: ' rewrite' (ID: 18130), Prob: 0.0006
-Token: ' get' (ID: 633), Prob: 0.0005
-Token: ' pick' (ID: 3735), Prob: 0.0005
-Token: ' translate' (ID: 14683), Prob: 0.0005
-Token: ' outline' (ID: 21101), Prob: 0.0005
-Token: ' convert' (ID: 5508), Prob: 0.0004
-Token: ' figure' (ID: 7071), Prob: 0.0004
-Token: ' detail' (ID: 7716), Prob: 0.0004
-Token: ' highlight' (ID: 11167), Prob: 0.0004
-Token: ' describe' (ID: 7512), Prob: 0.0004
-Token: ' build' (ID: 1936), Prob: 0.0003
-Token: ' present' (ID: 3042), Prob: 0.0003
-Token: ' cond' (ID: 9756), Prob: 0.0003
-Token: ' base' (ID: 2331), Prob: 0.0002
-Token: ' tell' (ID: 3291), Prob: 0.0002
-Token: ' introduce' (ID: 19131), Prob: 0.0002
-Token: ' understand' (ID: 3535), Prob: 0.0002
-Token: ' mention' (ID: 6286), Prob: 0.0002
-Token: ' format' (ID: 3561), Prob: 0.0002
-Token: ' transform' (ID: 5165), Prob: 0.0002
-Token: ' generate' (ID: 6923), Prob: 0.0002
-Token: ' expand' (ID: 9225), Prob: 0.0002
-Token: ' combine' (ID: 15963), Prob: 0.0002
-Token: ' recreate' (ID: 52775), Prob: 0.0002
-Token: ' set' (ID: 738), Prob: 0.0002
-Token: ' add' (ID: 912), Prob: 0.0002
-Token: ' form' (ID: 1352), Prob: 0.0002
-Token: ' turn' (ID: 2484), Prob: 0.0002
-Token: ' keep' (ID: 2506), Prob: 0.0002
-Token: ' grab' (ID: 11633), Prob: 0.0001
-Token: ' integrate' (ID: 31072), Prob: 0.0001
-Token: ' cover' (ID: 3421), Prob: 0.0001
-Token: ' copy' (ID: 2975), Prob: 0.0001
-Token: ' identify' (ID: 10542), Prob: 0.0001
-Token: ' come' (ID: 2525), Prob: 0.0001
-Token: ' blend' (ID: 20334), Prob: 0.0001
-Token: ' use' (ID: 990), Prob: 0.0001
-Token: ' recall' (ID: 19091), Prob: 0.0001
-Token: ' know' (ID: 1414), Prob: 0.0001
-Token: ' stick' (ID: 9214), Prob: 0.0001
-Token: ' remember' (ID: 6099), Prob: 0.0001
-Token: ' modify' (ID: 5602), Prob: 0.0001
-Token: ' parse' (ID: 4715), Prob: 0.0000
-Token: ' establish' (ID: 5695), Prob: 0.0000
-Token: ' mimic' (ID: 55359), Prob: 0.0000
-Token: ' revive' (ID: 58716), Prob: 0.0000
-Token: ' imagine' (ID: 12793), Prob: 0.0000
-Token: ' bring' (ID: 4446), Prob: 0.0000
-Token: ' put' (ID: 2182), Prob: 0.0000
-Token: ' develop' (ID: 2225), Prob: 0.0000
-Token: ' extract' (ID: 8649), Prob: 0.0000
-Token: ' update' (ID: 2647), Prob: 0.0000
-Token: ' begin' (ID: 3161), Prob: 0.0000
-Token: ' find' (ID: 1477), Prob: 0.0000
-Token: ' acknowledge' (ID: 24645), Prob: 0.0000
-Token: ' inspire' (ID: 30640), Prob: 0.0000
-Token: ' visualize' (ID: 50087), Prob: 0.0000
-Token: ' check' (ID: 1779), Prob: 0.0000
-Token: ' enhance' (ID: 18379), Prob: 0.0000
-Token: ' frame' (ID: 4034), Prob: 0.0000
-Token: ' connect' (ID: 4564), Prob: 0.0000
-Token: ' merge' (ID: 10880), Prob: 0.0000
-Token: ' read' (ID: 1349), Prob: 0.0000
-Token: ' break' (ID: 1438), Prob: 0.0000
-Token: ' decide' (ID: 10279), Prob: 0.0000
-Token: ' think' (ID: 1744), Prob: 0.0000
-Token: ' change' (ID: 2297), Prob: 0.0000
-Token: ' draft' (ID: 9960), Prob: 0.0000
-Token: ' wrap' (ID: 15061), Prob: 0.0000
-Token: ' transition' (ID: 9142), Prob: 0.0000
-Token: ' convey' (ID: 20001), Prob: 0.0000
-Token: ' personalize' (ID: 80838), Prob: 0.0000
-Token: ' open' (ID: 1787), Prob: 0.0000
-Token: ' handle' (ID: 3705), Prob: 0.0000
-Token: ' replicate' (ID: 45013), Prob: 0.0000
-Token: ' prompt' (ID: 9934), Prob: 0.0000
-Token: ' interpret' (ID: 14198), Prob: 0.0000
-Token: ' inf' (ID: 4132), Prob: 0.0000
-Token: ' rev' (ID: 5772), Prob: 0.0000
-Token: ' pull' (ID: 6815), Prob: 0.0000
+Token: ' the' (ID: 279), Prob: 0.0530
+Token: ' a' (ID: 264), Prob: 0.0014
+Token: ' two' (ID: 1378), Prob: 0.0008
+Token: ' which' (ID: 892), Prob: 0.0006
+Token: ' later' (ID: 2937), Prob: 0.0005
+Token: ' episodes' (ID: 17770), Prob: 0.0005
+Token: ' three' (ID: 2326), Prob: 0.0004
+Token: ' its' (ID: 1181), Prob: 0.0003
+Token: ' several' (ID: 3807), Prob: 0.0002
+Token: ' four' (ID: 3040), Prob: 0.0001
+Token: ' various' (ID: 5257), Prob: 0.0001
+Token: ' both' (ID: 2176), Prob: 0.0001
+Token: ' an' (ID: 458), Prob: 0.0001
+Token: ' Season' (ID: 14263), Prob: 0.0001
+Token: ' subsequent' (ID: 17420), Prob: 0.0001
+Token: ' other' (ID: 1008), Prob: 0.0001
+Token: ' early' (ID: 4124), Prob: 0.0001
+Token: ' multiple' (ID: 5248), Prob: 0.0001
+Token: ' season' (ID: 3200), Prob: 0.0001
+Token: ' episode' (ID: 9234), Prob: 0.0001
+Token: ' twenty' (ID: 17073), Prob: 0.0001
+Token: ' that' (ID: 429), Prob: 0.0001
+Token: ' late' (ID: 3309), Prob: 0.0001
+Token: ' more' (ID: 803), Prob: 0.0001
+Token: ' different' (ID: 2155), Prob: 0.0001
+Token: ' series' (ID: 4013), Prob: 0.0001
+Token: ' five' (ID: 4236), Prob: 0.0001
+Token: ' one' (ID: 825), Prob: 0.0000
+Token: '2' (ID: 17), Prob: 0.0000
+Token: ' The' (ID: 576), Prob: 0.0000
+Token: ' another' (ID: 2441), Prob: 0.0000
+Token: ' January' (ID: 6058), Prob: 0.0000
+Token: ' his' (ID: 806), Prob: 0.0000
+Token: ' six' (ID: 4743), Prob: 0.0000
+Token: ' March' (ID: 5470), Prob: 0.0000
+Token: ' April' (ID: 5813), Prob: 0.0000
+Token: ' as' (ID: 438), Prob: 0.0000
+Token: ' October' (ID: 6527), Prob: 0.0000
+Token: ' some' (ID: 1045), Prob: 0.0000
+Token: ' May' (ID: 3217), Prob: 0.0000
+Token: ' September' (ID: 6122), Prob: 0.0000
+Token: ' guest' (ID: 8640), Prob: 0.0000
+Token: ' seasons' (ID: 15584), Prob: 0.0000
+Token: ' July' (ID: 5768), Prob: 0.0000
+Token: ' consecutive' (ID: 23921), Prob: 0.0000
+Token: ' this' (ID: 419), Prob: 0.0000
+Token: ' February' (ID: 7400), Prob: 0.0000
+Token: ' eight' (ID: 8063), Prob: 0.0000
+Token: ' recurring' (ID: 45250), Prob: 0.0000
+Token: ' June' (ID: 5534), Prob: 0.0000
+Token: ' August' (ID: 6156), Prob: 0.0000
+Token: ' November' (ID: 6702), Prob: 0.0000
+Token: ' supporting' (ID: 12613), Prob: 0.0000
+Token: ' mid' (ID: 5099), Prob: 0.0000
+Token: ' December' (ID: 6652), Prob: 0.0000
+Token: ' addition' (ID: 5256), Prob: 0.0000
+Token: ' seven' (ID: 8094), Prob: 0.0000
+Token: ' roles' (ID: 12783), Prob: 0.0000
+Token: ' Episode' (ID: 19832), Prob: 0.0000
+Token: ' London' (ID: 7148), Prob: 0.0000
+Token: ' what' (ID: 1128), Prob: 0.0000
+Token: ' each' (ID: 1817), Prob: 0.0000
+Token: ' ten' (ID: 5779), Prob: 0.0000
+Token: ' regular' (ID: 5792), Prob: 0.0000
+Token: '1' (ID: 16), Prob: 0.0000
+Token: ' and' (ID: 323), Prob: 0.0000
+Token: ' many' (ID: 1657), Prob: 0.0000
+Token: ' short' (ID: 2805), Prob: 0.0000
+Token: ' numerous' (ID: 12114), Prob: 0.0000
+Token: ' successive' (ID: 48924), Prob: 0.0000
+Token: ' parts' (ID: 5479), Prob: 0.0000
+Token: ' epis' (ID: 66494), Prob: 0.0000
+Token: ' in' (ID: 304), Prob: 0.0000
+Token: ' around' (ID: 2163), Prob: 0.0000
+Token: ' varying' (ID: 28765), Prob: 0.0000
+Token: ' their' (ID: 862), Prob: 0.0000
+Token: ' summer' (ID: 7324), Prob: 0.0000
+Token: ' year' (ID: 1042), Prob: 0.0000
+Token: ' future' (ID: 3853), Prob: 0.0000
+Token: ' role' (ID: 3476), Prob: 0.0000
 
 == Ranked Concepts (Clusters) ==
-Rank 1 | Centroid: ' create' | Score: 0.7422
-  Tokens: [' create', ' build', ' generate', ' develop']
-Rank 2 | Centroid: ' start' | Score: 0.1650
-  Tokens: [' start', ' begin']
-Rank 3 | Centroid: ' get' | Score: 0.0376
-  Tokens: [' make', ' get', ' add', ' find']
-Rank 4 | Centroid: ' use' | Score: 0.0176
-  Tokens: [' follow', ' use', ' check']
-Rank 5 | Centroid: ' bring' | Score: 0.0085
-  Tokens: [' take', ' keep', ' come', ' bring']
-Rank 6 | Centroid: ' write' | Score: 0.0044
-  Tokens: [' write', ' read']
-Rank 7 | Centroid: ' describe' | Score: 0.0044
-  Tokens: [' include', ' summarize', ' describe', ' introduce', ' establish']
-Rank 8 | Centroid: ' convey' | Score: 0.0031
-  Tokens: [' capture', ' cover', ' convey']
-Rank 9 | Centroid: ' incorporate' | Score: 0.0023
-  Tokens: [' incorporate', ' combine', ' integrate', ' modify', ' inspire', ' enhance', ' personalize']
-Rank 10 | Centroid: ' cond' | Score: 0.0021
-  Tokens: [' paraph', ' cond', ' inf']
-Rank 11 | Centroid: ' format' | Score: 0.0017
-  Tokens: [' structure', ' format', ' form', ' frame']
-Rank 12 | Centroid: ' highlight' | Score: 0.0015
-  Tokens: [' outline', ' detail', ' highlight', ' mention', ' acknowledge']
-Rank 13 | Centroid: ' convert' | Score: 0.0011
-  Tokens: [' translate', ' convert', ' transform']
-Rank 14 | Centroid: ' craft' | Score: 0.0010
-  Tokens: [' craft', ' draft', ' prompt']
-Rank 15 | Centroid: ' focus' | Score: 0.0010
-  Tokens: [' focus']
-Rank 16 | Centroid: ' grab' | Score: 0.0007
-  Tokens: [' pick', ' grab', ' stick', ' pull']
-Rank 17 | Centroid: ' blend' | Score: 0.0007
-  Tokens: [' adapt', ' blend', ' merge']
-Rank 18 | Centroid: ' rewrite' | Score: 0.0006
-  Tokens: [' rewrite', ' update']
-Rank 19 | Centroid: ' present' | Score: 0.0006
-  Tokens: [' present', ' base']
-Rank 20 | Centroid: ' remember' | Score: 0.0005
-  Tokens: [' tell', ' recall', ' know', ' remember', ' think']
-Rank 21 | Centroid: ' figure' | Score: 0.0004
-  Tokens: [' figure']
-Rank 22 | Centroid: ' replicate' | Score: 0.0004
-  Tokens: [' recreate', ' copy', ' mimic', ' revive', ' replicate']
-Rank 23 | Centroid: ' identify' | Score: 0.0004
-  Tokens: [' understand', ' identify', ' imagine', ' visualize']
-Rank 24 | Centroid: ' transition' | Score: 0.0002
-  Tokens: [' turn', ' break', ' change', ' transition']
-Rank 25 | Centroid: ' set' | Score: 0.0002
-  Tokens: [' set', ' put', ' open']
-Rank 26 | Centroid: ' expand' | Score: 0.0002
-  Tokens: [' expand']
-Rank 27 | Centroid: ' parse' | Score: 0.0001
-  Tokens: [' parse', ' extract', ' interpret']
-Rank 28 | Centroid: ' connect' | Score: 0.0000
-  Tokens: [' connect', ' handle']
-Rank 29 | Centroid: ' decide' | Score: 0.0000
-  Tokens: [' decide']
-Rank 30 | Centroid: ' wrap' | Score: 0.0000
-  Tokens: [' wrap']
-Rank 31 | Centroid: ' rev' | Score: 0.0000
-  Tokens: [' rev']
+Rank 1 | Centroid: ' the' | Score: 0.0554
+  Tokens: [' the', ' a', ' which', ' an', ' that', ' more', ' one', '2', ' The', ' as', '1', ' and', ' in']
+Rank 2 | Centroid: ' five' | Score: 0.0015
+  Tokens: [' two', ' three', ' four', ' twenty', ' five', ' six', ' eight', ' seven', ' ten']
+Rank 3 | Centroid: ' this' | Score: 0.0007
+  Tokens: [' its', ' both', ' other', ' another', ' his', ' some', ' this', ' what', ' each', ' their']
+Rank 4 | Centroid: ' subsequent' | Score: 0.0006
+  Tokens: [' later', ' subsequent', ' future']
+Rank 5 | Centroid: ' episode' | Score: 0.0006
+  Tokens: [' episodes', ' episode', ' Episode', ' epis']
+Rank 6 | Centroid: ' numerous' | Score: 0.0005
+  Tokens: [' several', ' various', ' multiple', ' different', ' many', ' numerous', ' varying']
+Rank 7 | Centroid: ' February' | Score: 0.0002
+  Tokens: [' January', ' March', ' April', ' October', ' May', ' September', ' July', ' February', ' June', ' August', ' November', ' December']
+Rank 8 | Centroid: ' season' | Score: 0.0002
+  Tokens: [' Season', ' season', ' seasons', ' summer', ' year']
+Rank 9 | Centroid: ' late' | Score: 0.0002
+  Tokens: [' early', ' late', ' mid', ' short']
+Rank 10 | Centroid: ' consecutive' | Score: 0.0001
+  Tokens: [' series', ' guest', ' consecutive', ' recurring', ' supporting', ' addition', ' London', ' regular', ' successive']
+Rank 11 | Centroid: ' roles' | Score: 0.0000
+  Tokens: [' roles', ' parts', ' around', ' role']
 
 **Chosen Concept:** Rank 1

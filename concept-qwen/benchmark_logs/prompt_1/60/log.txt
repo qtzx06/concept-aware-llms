@@ -1,144 +1,118 @@
 --- Step 60 Log ---
 
 == Filtered Candidates ==
-Token: ' home' (ID: 2114), Prob: 0.2246
-Token: ' house' (ID: 3753), Prob: 0.1543
-Token: ' family' (ID: 2997), Prob: 0.1060
-Token: ' character' (ID: 3668), Prob: 0.0500
-Token: ' child' (ID: 1682), Prob: 0.0442
-Token: ' life' (ID: 2272), Prob: 0.0251
-Token: ' children' (ID: 2841), Prob: 0.0222
-Token: ' second' (ID: 2086), Prob: 0.0173
-Token: ' two' (ID: 1378), Prob: 0.0153
-Token: ' mother' (ID: 6554), Prob: 0.0126
-Token: ' daughter' (ID: 9803), Prob: 0.0119
-Token: ' sister' (ID: 12923), Prob: 0.0119
-Token: ' wife' (ID: 7403), Prob: 0.0112
-Token: ' new' (ID: 501), Prob: 0.0105
-Token: ' characters' (ID: 5766), Prob: 0.0087
-Token: ' parents' (ID: 6562), Prob: 0.0082
-Token: ' younger' (ID: 14650), Prob: 0.0082
-Token: ' friend' (ID: 4238), Prob: 0.0072
-Token: ' son' (ID: 4438), Prob: 0.0072
-Token: ' father' (ID: 6981), Prob: 0.0072
-Token: ' emotions' (ID: 21261), Prob: 0.0072
-Token: ' first' (ID: 1156), Prob: 0.0068
-Token: ' protagonist' (ID: 45584), Prob: 0.0064
-Token: ' story' (ID: 3364), Prob: 0.0056
-Token: ' relationship' (ID: 5025), Prob: 0.0047
-Token: ' brother' (ID: 10641), Prob: 0.0047
-Token: ' culture' (ID: 7674), Prob: 0.0044
-Token: ' feelings' (ID: 15650), Prob: 0.0044
-Token: ' personal' (ID: 4345), Prob: 0.0041
-Token: ' thoughts' (ID: 11303), Prob: 0.0041
-Token: ' next' (ID: 1790), Prob: 0.0034
-Token: ' neighbor' (ID: 9565), Prob: 0.0032
-Token: ' reflection' (ID: 21844), Prob: 0.0030
-Token: ' refuge' (ID: 14510), Prob: 0.0028
-Token: ' childhood' (ID: 19990), Prob: 0.0028
-Token: ' identity' (ID: 9569), Prob: 0.0027
-Token: ' third' (ID: 4843), Prob: 0.0025
-Token: ' conflict' (ID: 12055), Prob: 0.0025
-Token: ' perspective' (ID: 13057), Prob: 0.0023
-Token: ' world' (ID: 1879), Prob: 0.0022
-Token: ' main' (ID: 1887), Prob: 0.0021
-Token: ' friends' (ID: 4780), Prob: 0.0021
-Token: ' actions' (ID: 6168), Prob: 0.0019
-Token: ' mind' (ID: 3971), Prob: 0.0018
-Token: ' crisis' (ID: 11251), Prob: 0.0018
-Token: ' situation' (ID: 6534), Prob: 0.0017
-Token: ' emotional' (ID: 14269), Prob: 0.0017
-Token: ' current' (ID: 1482), Prob: 0.0016
-Token: ' previous' (ID: 3681), Prob: 0.0016
-Token: ' immediate' (ID: 13922), Prob: 0.0016
-Token: ' three' (ID: 2326), Prob: 0.0015
-Token: ' husband' (ID: 9972), Prob: 0.0015
-Token: ' cultural' (ID: 12752), Prob: 0.0015
-Token: ' grief' (ID: 37284), Prob: 0.0015
-Token: ' heart' (ID: 4746), Prob: 0.0014
-Token: ' journey' (ID: 11618), Prob: 0.0014
-Token: ' anxiety' (ID: 18056), Prob: 0.0014
-Token: ' role' (ID: 3476), Prob: 0.0013
-Token: ' escape' (ID: 12449), Prob: 0.0012
-Token: ' neighbors' (ID: 18709), Prob: 0.0012
-Token: ' past' (ID: 3267), Prob: 0.0011
-Token: ' internal' (ID: 5306), Prob: 0.0011
-Token: ' domestic' (ID: 12728), Prob: 0.0011
-Token: ' work' (ID: 975), Prob: 0.0010
-Token: ' experience' (ID: 3139), Prob: 0.0010
-Token: ' hope' (ID: 3900), Prob: 0.0010
-Token: ' young' (ID: 3908), Prob: 0.0010
-Token: ' focus' (ID: 5244), Prob: 0.0010
-Token: ' grandmother' (ID: 38184), Prob: 0.0010
-Token: ' experiences' (ID: 11449), Prob: 0.0010
-Token: ' dream' (ID: 7904), Prob: 0.0009
-Token: ' presence' (ID: 9362), Prob: 0.0009
-Token: ' room' (ID: 3054), Prob: 0.0008
-Token: ' community' (ID: 3942), Prob: 0.0008
-Token: ' inner' (ID: 9179), Prob: 0.0008
-Token: ' household' (ID: 13732), Prob: 0.0008
-Token: ' dreams' (ID: 18707), Prob: 0.0008
-Token: ' fear' (ID: 8679), Prob: 0.0008
-Token: ' older' (ID: 9014), Prob: 0.0008
-Token: ' narrative' (ID: 19221), Prob: 0.0007
-Token: ' trauma' (ID: 29888), Prob: 0.0007
-Token: ' host' (ID: 3468), Prob: 0.0007
-Token: ' reflections' (ID: 62751), Prob: 0.0007
-Token: ' partner' (ID: 8263), Prob: 0.0006
-Token: ' twin' (ID: 27397), Prob: 0.0006
-Token: ' physical' (ID: 6961), Prob: 0.0006
-Token: ' spouse' (ID: 30980), Prob: 0.0006
-Token: ' colleague' (ID: 36344), Prob: 0.0006
-Token: ' hometown' (ID: 43016), Prob: 0.0006
-Token: ' dilemma' (ID: 54767), Prob: 0.0006
-Token: ' future' (ID: 3853), Prob: 0.0005
-Token: ' view' (ID: 1651), Prob: 0.0005
-Token: ' old' (ID: 2310), Prob: 0.0005
-Token: ' job' (ID: 2618), Prob: 0.0005
-Token: ' environment' (ID: 4573), Prob: 0.0005
-Token: ' concern' (ID: 4643), Prob: 0.0005
-Token: ' memories' (ID: 18923), Prob: 0.0005
+Token: ' He' (ID: 1260), Prob: 0.8281
+Token: ' In' (ID: 758), Prob: 0.0771
+Token: ' His' (ID: 5301), Prob: 0.0134
+Token: ' Since' (ID: 8704), Prob: 0.0072
+Token: ' B' (ID: 425), Prob: 0.0063
+Token: ' As' (ID: 1634), Prob: 0.0043
+Token: ' Also' (ID: 7281), Prob: 0.0026
+Token: ' The' (ID: 576), Prob: 0.0023
+Token: ' After' (ID: 4636), Prob: 0.0018
+Token: ' Robert' (ID: 8397), Prob: 0.0018
+Token: ' This' (ID: 1096), Prob: 0.0016
+Token: ' Has' (ID: 11443), Prob: 0.0016
+Token: ' Additionally' (ID: 22406), Prob: 0.0016
+Token: ' What' (ID: 3555), Prob: 0.0012
+Token: ' Later' (ID: 24885), Prob: 0.0011
+Token: ' There' (ID: 2619), Prob: 0.0010
+Token: ' Between' (ID: 27133), Prob: 0.0009
+Token: ' For' (ID: 1752), Prob: 0.0008
+Token: ' And' (ID: 1597), Prob: 0.0007
+Token: ' However' (ID: 4354), Prob: 0.0007
+Token: ' It' (ID: 1084), Prob: 0.0006
+Token: 'He' (ID: 1519), Prob: 0.0006
+Token: ' Furthermore' (ID: 23405), Prob: 0.0005
+Token: ' At' (ID: 2411), Prob: 0.0005
+Token: ' These' (ID: 4220), Prob: 0.0004
+Token: ' From' (ID: 5542), Prob: 0.0004
+Token: ' Recently' (ID: 40996), Prob: 0.0004
+Token: ' A' (ID: 362), Prob: 0.0004
+Token: ' On' (ID: 1913), Prob: 0.0004
+Token: ' Please' (ID: 5209), Prob: 0.0003
+Token: ' Other' (ID: 6944), Prob: 0.0003
+Token: ' According' (ID: 10548), Prob: 0.0003
+Token: ' During' (ID: 11954), Prob: 0.0003
+Token: ' Which' (ID: 15920), Prob: 0.0003
+Token: ' Despite' (ID: 17715), Prob: 0.0003
+Token: ' Most' (ID: 7496), Prob: 0.0002
+Token: ' has' (ID: 702), Prob: 0.0002
+Token: ' Finally' (ID: 17375), Prob: 0.0002
+Token: ' he' (ID: 566), Prob: 0.0002
+Token: ' Given' (ID: 16246), Prob: 0.0002
+Token: ' Following' (ID: 22713), Prob: 0.0002
+Token: ' I' (ID: 358), Prob: 0.0002
+Token: ' Now' (ID: 4695), Prob: 0.0002
+Token: ' Oh' (ID: 8670), Prob: 0.0002
+Token: ' R' (ID: 431), Prob: 0.0001
+Token: ' With' (ID: 3085), Prob: 0.0001
+Token: ' More' (ID: 4398), Prob: 0.0001
+Token: ' Then' (ID: 5005), Prob: 0.0001
+Token: ' Where' (ID: 10967), Prob: 0.0001
+Token: ' Before' (ID: 13235), Prob: 0.0001
+Token: ' Wait' (ID: 13824), Prob: 0.0001
+Token: ' Throughout' (ID: 45882), Prob: 0.0001
+Token: ' But' (ID: 1988), Prob: 0.0001
+Token: ' So' (ID: 2055), Prob: 0.0001
+Token: ' Is' (ID: 2160), Prob: 0.0001
+Token: ' Rob' (ID: 4892), Prob: 0.0001
+Token: ' Note' (ID: 7036), Prob: 0.0001
+Token: ' One' (ID: 3776), Prob: 0.0001
+Token: ' Although' (ID: 10328), Prob: 0.0001
+Token: ' Another' (ID: 13293), Prob: 0.0001
+Token: ' Further' (ID: 15533), Prob: 0.0001
+Token: ' Bob' (ID: 14261), Prob: 0.0001
+Token: ' Moreover' (ID: 22827), Prob: 0.0001
+Token: ' How' (ID: 2585), Prob: 0.0001
+Token: ' While' (ID: 5976), Prob: 0.0001
+Token: ' Who' (ID: 10479), Prob: 0.0001
+Token: ' Some' (ID: 4329), Prob: 0.0001
+Token: ' Prior' (ID: 31399), Prob: 0.0001
+Token: ' When' (ID: 3197), Prob: 0.0001
+Token: ' Soon' (ID: 31762), Prob: 0.0001
+Token: ' You' (ID: 1446), Prob: 0.0001
+Token: ' Apart' (ID: 34702), Prob: 0.0001
+Token: ' and' (ID: 323), Prob: 0.0001
 
 == Ranked Concepts (Clusters) ==
-Rank 1 | Centroid: ' household' | Score: 0.4883
-  Tokens: [' home', ' house', ' family', ' domestic', ' room', ' household', ' host']
-Rank 2 | Centroid: ' father' | Score: 0.0781
-  Tokens: [' mother', ' daughter', ' sister', ' wife', ' parents', ' son', ' father', ' brother', ' husband', ' grandmother', ' spouse']
-Rank 3 | Centroid: ' characters' | Score: 0.0737
-  Tokens: [' character', ' characters', ' protagonist', ' culture', ' identity', ' cultural']
-Rank 4 | Centroid: ' children' | Score: 0.0693
-  Tokens: [' child', ' children', ' childhood']
-Rank 5 | Centroid: ' second' | Score: 0.0454
-  Tokens: [' second', ' two', ' first', ' third', ' main', ' three']
-Rank 6 | Centroid: ' job' | Score: 0.0308
-  Tokens: [' life', ' world', ' role', ' work', ' view', ' job']
-Rank 7 | Centroid: ' previous' | Score: 0.0188
-  Tokens: [' new', ' next', ' current', ' previous', ' past', ' future']
-Rank 8 | Centroid: ' narrative' | Score: 0.0178
-  Tokens: [' story', ' relationship', ' perspective', ' situation', ' journey', ' presence', ' narrative', ' environment']
-Rank 9 | Centroid: ' emotions' | Score: 0.0177
-  Tokens: [' emotions', ' feelings', ' emotional', ' grief', ' anxiety', ' fear', ' trauma']
-Rank 10 | Centroid: ' friend' | Score: 0.0154
-  Tokens: [' friend', ' neighbor', ' friends', ' neighbors', ' partner', ' twin', ' colleague']
-Rank 11 | Centroid: ' older' | Score: 0.0105
-  Tokens: [' younger', ' young', ' older', ' old']
-Rank 12 | Centroid: ' internal' | Score: 0.0082
-  Tokens: [' personal', ' immediate', ' internal', ' inner', ' physical']
-Rank 13 | Centroid: ' reflection' | Score: 0.0065
-  Tokens: [' reflection', ' refuge', ' reflections']
-Rank 14 | Centroid: ' crisis' | Score: 0.0064
-  Tokens: [' conflict', ' crisis', ' focus', ' dilemma', ' concern']
-Rank 15 | Centroid: ' dreams' | Score: 0.0059
-  Tokens: [' thoughts', ' dream', ' dreams']
-Rank 16 | Centroid: ' heart' | Score: 0.0043
-  Tokens: [' mind', ' heart', ' hope']
-Rank 17 | Centroid: ' actions' | Score: 0.0031
-  Tokens: [' actions', ' escape']
-Rank 18 | Centroid: ' experiences' | Score: 0.0025
-  Tokens: [' experience', ' experiences', ' memories']
-Rank 19 | Centroid: ' community' | Score: 0.0008
-  Tokens: [' community']
-Rank 20 | Centroid: ' hometown' | Score: 0.0006
-  Tokens: [' hometown']
+Rank 1 | Centroid: ' He' | Score: 0.8438
+  Tokens: [' He', ' His', 'He', ' he']
+Rank 2 | Centroid: ' For' | Score: 0.0830
+  Tokens: [' In', ' As', ' For', ' At', ' On']
+Rank 3 | Centroid: ' Although' | Score: 0.0086
+  Tokens: [' Since', ' According', ' During', ' Despite', ' Given', ' Throughout', ' Although', ' While']
+Rank 4 | Centroid: ' A' | Score: 0.0070
+  Tokens: [' B', ' A', ' I', ' R', ' and']
+Rank 5 | Centroid: ' This' | Score: 0.0059
+  Tokens: [' The', ' This', ' There', ' It', ' These', ' You']
+Rank 6 | Centroid: ' Furthermore' | Score: 0.0049
+  Tokens: [' Also', ' Additionally', ' Furthermore', ' Further', ' Moreover']
+Rank 7 | Centroid: ' Before' | Score: 0.0031
+  Tokens: [' After', ' Between', ' Following', ' Before', ' Prior']
+Rank 8 | Centroid: ' Robert' | Score: 0.0020
+  Tokens: [' Robert', ' Rob', ' Bob']
+Rank 9 | Centroid: ' Has' | Score: 0.0019
+  Tokens: [' Has', ' has', ' Is']
+Rank 10 | Centroid: ' What' | Score: 0.0019
+  Tokens: [' What', ' Which', ' Where', ' How', ' Who']
+Rank 11 | Centroid: ' Soon' | Score: 0.0016
+  Tokens: [' Later', ' Recently', ' Soon']
+Rank 12 | Centroid: ' Some' | Score: 0.0010
+  Tokens: [' Other', ' Most', ' More', ' One', ' Another', ' Some']
+Rank 13 | Centroid: ' But' | Score: 0.0009
+  Tokens: [' And', ' But', ' So']
+Rank 14 | Centroid: ' However' | Score: 0.0007
+  Tokens: [' However']
+Rank 15 | Centroid: ' With' | Score: 0.0006
+  Tokens: [' From', ' With', ' When']
+Rank 16 | Centroid: ' Then' | Score: 0.0005
+  Tokens: [' Finally', ' Now', ' Then']
+Rank 17 | Centroid: ' Please' | Score: 0.0004
+  Tokens: [' Please', ' Note']
+Rank 18 | Centroid: ' Oh' | Score: 0.0003
+  Tokens: [' Oh', ' Wait']
+Rank 19 | Centroid: ' Apart' | Score: 0.0001
+  Tokens: [' Apart']
 
 **Chosen Concept:** Rank 1

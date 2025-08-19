@@ -1,0 +1,121 @@
+--- Step 74 Log ---
+
+== Filtered Candidates ==
+Token: 'et' (ID: 295), Prob: 0.9570
+Token: 'etic' (ID: 5298), Prob: 0.0420
+Token: 'ets' (ID: 1415), Prob: 0.0014
+Token: 'em' (ID: 336), Prob: 0.0007
+Token: 'etical' (ID: 44508), Prob: 0.0001
+Token: 'ems' (ID: 11852), Prob: 0.0000
+Token: 'ef' (ID: 823), Prob: 0.0000
+Token: 'ett' (ID: 7066), Prob: 0.0000
+Token: 'etr' (ID: 17366), Prob: 0.0000
+Token: 'eta' (ID: 1915), Prob: 0.0000
+Token: 'etics' (ID: 24279), Prob: 0.0000
+Token: 'ete' (ID: 7714), Prob: 0.0000
+Token: 'ète' (ID: 65422), Prob: 0.0000
+Token: ' et' (ID: 1842), Prob: 0.0000
+Token: 'ew' (ID: 365), Prob: 0.0000
+Token: 'ewe' (ID: 87723), Prob: 0.0000
+Token: ' Shen' (ID: 57780), Prob: 0.0000
+Token: ' Qu' (ID: 3406), Prob: 0.0000
+Token: 'etc' (ID: 12107), Prob: 0.0000
+Token: 'eme' (ID: 3894), Prob: 0.0000
+Token: 'emi' (ID: 21780), Prob: 0.0000
+Token: 'eter' (ID: 1404), Prob: 0.0000
+Token: '(et' (ID: 76222), Prob: 0.0000
+Token: ' Fan' (ID: 24714), Prob: 0.0000
+Token: '-et' (ID: 96010), Prob: 0.0000
+Token: 'etz' (ID: 42189), Prob: 0.0000
+Token: 'etri' (ID: 93123), Prob: 0.0000
+Token: 'ET' (ID: 1348), Prob: 0.0000
+Token: 'osopher' (ID: 45359), Prob: 0.0000
+Token: 'en' (ID: 268), Prob: 0.0000
+Token: '.et' (ID: 38832), Prob: 0.0000
+Token: 'eting' (ID: 11619), Prob: 0.0000
+Token: 'ethe' (ID: 18522), Prob: 0.0000
+Token: 'etically' (ID: 36674), Prob: 0.0000
+Token: 'ovement' (ID: 14458), Prob: 0.0000
+Token: 'etric' (ID: 16340), Prob: 0.0000
+Token: 'eti' (ID: 50898), Prob: 0.0000
+Token: 'eth' (ID: 769), Prob: 0.0000
+Token: 'oh' (ID: 2267), Prob: 0.0000
+Token: ' Sage' (ID: 53284), Prob: 0.0000
+Token: 'om' (ID: 316), Prob: 0.0000
+Token: ' Lin' (ID: 8564), Prob: 0.0000
+Token: 'emer' (ID: 40896), Prob: 0.0000
+Token: ' Ps' (ID: 11802), Prob: 0.0000
+Token: 'ewriter' (ID: 72480), Prob: 0.0000
+Token: 'est' (ID: 477), Prob: 0.0000
+Token: 'emon' (ID: 7291), Prob: 0.0000
+Token: ' Emperor' (ID: 34314), Prob: 0.0000
+Token: 'ety' (ID: 2611), Prob: 0.0000
+Token: ' Han' (ID: 20644), Prob: 0.0000
+Token: 'eten' (ID: 33748), Prob: 0.0000
+Token: ' Genius' (ID: 77801), Prob: 0.0000
+Token: ' Xin' (ID: 69661), Prob: 0.0000
+Token: 'el' (ID: 301), Prob: 0.0000
+Token: ' X' (ID: 1599), Prob: 0.0000
+Token: 'zi' (ID: 8345), Prob: 0.0000
+Token: 'eties' (ID: 25559), Prob: 0.0000
+Token: 'eted' (ID: 24481), Prob: 0.0000
+Token: 'emes' (ID: 15660), Prob: 0.0000
+Token: ' Mi' (ID: 20740), Prob: 0.0000
+Token: 'ite' (ID: 632), Prob: 0.0000
+Token: 'esser' (ID: 36370), Prob: 0.0000
+Token: 'in' (ID: 258), Prob: 0.0000
+Token: 'emas' (ID: 34162), Prob: 0.0000
+Token: 'ont' (ID: 544), Prob: 0.0000
+Token: 'eman' (ID: 15977), Prob: 0.0000
+Token: ' Gong' (ID: 97375), Prob: 0.0000
+Token: 'empl' (ID: 25892), Prob: 0.0000
+Token: 'ery' (ID: 722), Prob: 0.0000
+Token: 'etry' (ID: 15149), Prob: 0.0000
+Token: ' Du' (ID: 15687), Prob: 0.0000
+Token: 'eming' (ID: 73814), Prob: 0.0000
+Token: 'quer' (ID: 15959), Prob: 0.0000
+Token: ' Fu' (ID: 29253), Prob: 0.0000
+Token: ' Wen' (ID: 61223), Prob: 0.0000
+Token: ' Coach' (ID: 27176), Prob: 0.0000
+Token: ' Creator' (ID: 35678), Prob: 0.0000
+Token: 'emaker' (ID: 58675), Prob: 0.0000
+Token: 'ent' (ID: 306), Prob: 0.0000
+Token: 'etur' (ID: 31841), Prob: 0.0000
+Token: ' Heart' (ID: 17965), Prob: 0.0000
+Token: ' Chef' (ID: 35975), Prob: 0.0000
+
+== Ranked Concepts (Clusters) ==
+Rank 1 | Centroid: 'et' | Score: 0.9570
+  Tokens: ['et', 'ets', 'ett', 'etz', 'ET', 'eti']
+Rank 2 | Centroid: 'etic' | Score: 0.0420
+  Tokens: ['etic', 'etical', 'etics', 'etically']
+Rank 3 | Centroid: 'em' | Score: 0.0007
+  Tokens: ['em', 'ems', 'eme', 'emi', 'emer', 'emon', 'emes', 'emas', 'eman', 'empl', 'eming']
+Rank 4 | Centroid: ' X' | Score: 0.0000
+  Tokens: ['ef', 'en', 'oh', 'om', 'est', 'el', ' X', 'in', 'ont', 'ent']
+Rank 5 | Centroid: 'etr' | Score: 0.0000
+  Tokens: ['etr', 'etri', 'etric', 'etry']
+Rank 6 | Centroid: 'eta' | Score: 0.0000
+  Tokens: ['eta', 'ète', 'eth', 'ety', 'eties']
+Rank 7 | Centroid: ' et' | Score: 0.0000
+  Tokens: [' et', 'etc', '(et', '-et', '.et']
+Rank 8 | Centroid: ' Han' | Score: 0.0000
+  Tokens: [' Shen', ' Qu', ' Fan', ' Sage', ' Lin', ' Ps', ' Han', ' Xin', ' Mi', ' Gong', ' Du', ' Fu', ' Wen', ' Heart']
+Rank 9 | Centroid: 'ete' | Score: 0.0000
+  Tokens: ['ete', 'eter', 'eting', 'eten', 'eted']
+Rank 10 | Centroid: 'ew' | Score: 0.0000
+  Tokens: ['ew', 'ewe', 'ewriter']
+Rank 11 | Centroid: ' Chef' | Score: 0.0000
+  Tokens: ['osopher', 'ovement', ' Emperor', ' Genius', 'quer', ' Coach', ' Creator', ' Chef']
+Rank 12 | Centroid: 'ethe' | Score: 0.0000
+  Tokens: ['ethe', 'esser']
+Rank 13 | Centroid: 'zi' | Score: 0.0000
+  Tokens: ['zi', 'ite']
+Rank 14 | Centroid: 'ery' | Score: 0.0000
+  Tokens: ['ery']
+Rank 15 | Centroid: 'emaker' | Score: 0.0000
+  Tokens: ['emaker']
+Rank 16 | Centroid: 'etur' | Score: 0.0000
+  Tokens: ['etur']
+
+**Chosen Concept:** Rank 1

@@ -1,0 +1,91 @@
+--- Step 94 Log ---
+
+== Filtered Candidates ==
+Token: ' character' (ID: 3668), Prob: 1.0000
+Token: 'character' (ID: 19190), Prob: 0.0000
+Token: ' characters' (ID: 5766), Prob: 0.0000
+Token: '.character' (ID: 47179), Prob: 0.0000
+Token: ' Character' (ID: 15633), Prob: 0.0000
+Token: ' char' (ID: 1161), Prob: 0.0000
+Token: ' chapter' (ID: 12453), Prob: 0.0000
+Token: ' actor' (ID: 12089), Prob: 0.0000
+Token: ' characteristic' (ID: 28583), Prob: 0.0000
+Token: ' characterized' (ID: 31871), Prob: 0.0000
+Token: '(character' (ID: 49901), Prob: 0.0000
+Token: ' karakter' (ID: 90755), Prob: 0.0000
+Token: ' person' (ID: 1697), Prob: 0.0000
+Token: 'Character' (ID: 12404), Prob: 0.0000
+Token: ' guest' (ID: 8640), Prob: 0.0000
+Token: ' car' (ID: 1803), Prob: 0.0000
+Token: ' role' (ID: 3476), Prob: 0.0000
+Token: ' and' (ID: 323), Prob: 0.0000
+Token: ' characterization' (ID: 59893), Prob: 0.0000
+Token: ' characterize' (ID: 69655), Prob: 0.0000
+Token: ' a' (ID: 264), Prob: 0.0000
+Token: ' Charles' (ID: 14927), Prob: 0.0000
+Token: ' player' (ID: 2781), Prob: 0.0000
+Token: ' The' (ID: 576), Prob: 0.0000
+Token: ' narrator' (ID: 64171), Prob: 0.0000
+Token: ' star' (ID: 6774), Prob: 0.0000
+Token: ' CHARACTER' (ID: 70805), Prob: 0.0000
+Token: ' in' (ID: 304), Prob: 0.0000
+Token: ' class' (ID: 536), Prob: 0.0000
+Token: ' chart' (ID: 9487), Prob: 0.0000
+Token: ' channel' (ID: 5496), Prob: 0.0000
+Token: ' computer' (ID: 6366), Prob: 0.0000
+Token: ' artist' (ID: 10049), Prob: 0.0000
+Token: ' television' (ID: 12425), Prob: 0.0000
+Token: '_character' (ID: 40988), Prob: 0.0000
+Token: ' the' (ID: 279), Prob: 0.0000
+Token: ' child' (ID: 1682), Prob: 0.0000
+Token: ' account' (ID: 2692), Prob: 0.0000
+Token: ' career' (ID: 6931), Prob: 0.0000
+Token: ' B' (ID: 425), Prob: 0.0000
+Token: ' March' (ID: 5470), Prob: 0.0000
+Token: ' creature' (ID: 17218), Prob: 0.0000
+Token: ' caracter' (ID: 32229), Prob: 0.0000
+Token: ' characteristics' (ID: 17452), Prob: 0.0000
+Token: ' figure' (ID: 7071), Prob: 0.0000
+Token: ' customer' (ID: 6002), Prob: 0.0000
+Token: ' charter' (ID: 37024), Prob: 0.0000
+Token: '_CHARACTER' (ID: 68877), Prob: 0.0000
+Token: ' caractère' (ID: 143704), Prob: 0.0000
+Token: ' c' (ID: 272), Prob: 0.0000
+Token: ' I' (ID: 358), Prob: 0.0000
+Token: ' case' (ID: 1142), Prob: 0.0000
+Token: ' champion' (ID: 18319), Prob: 0.0000
+Token: ' In' (ID: 758), Prob: 0.0000
+
+== Ranked Concepts (Clusters) ==
+Rank 1 | Centroid: 'character' | Score: 1.0000
+  Tokens: [' character', 'character', ' characters', '.character', ' Character', ' characteristic', ' characterized', '(character', ' karakter', 'Character', ' characterization', ' characterize', ' CHARACTER', '_character', ' caracter', ' characteristics', '_CHARACTER', ' caractère']
+Rank 2 | Centroid: ' char' | Score: 0.0000
+  Tokens: [' char']
+Rank 3 | Centroid: ' actor' | Score: 0.0000
+  Tokens: [' actor', ' narrator', ' artist', ' champion']
+Rank 4 | Centroid: ' chapter' | Score: 0.0000
+  Tokens: [' chapter', ' channel']
+Rank 5 | Centroid: ' the' | Score: 0.0000
+  Tokens: [' and', ' a', ' The', ' in', ' the', ' B', ' c', ' I', ' In']
+Rank 6 | Centroid: ' child' | Score: 0.0000
+  Tokens: [' person', ' player', ' child', ' creature']
+Rank 7 | Centroid: ' guest' | Score: 0.0000
+  Tokens: [' guest', ' customer']
+Rank 8 | Centroid: ' car' | Score: 0.0000
+  Tokens: [' car', ' star']
+Rank 9 | Centroid: ' charter' | Score: 0.0000
+  Tokens: [' Charles', ' chart', ' charter']
+Rank 10 | Centroid: ' television' | Score: 0.0000
+  Tokens: [' computer', ' television', ' career']
+Rank 11 | Centroid: ' role' | Score: 0.0000
+  Tokens: [' role']
+Rank 12 | Centroid: ' class' | Score: 0.0000
+  Tokens: [' class', ' case']
+Rank 13 | Centroid: ' account' | Score: 0.0000
+  Tokens: [' account']
+Rank 14 | Centroid: ' March' | Score: 0.0000
+  Tokens: [' March']
+Rank 15 | Centroid: ' figure' | Score: 0.0000
+  Tokens: [' figure']
+
+**Chosen Concept:** Rank 1

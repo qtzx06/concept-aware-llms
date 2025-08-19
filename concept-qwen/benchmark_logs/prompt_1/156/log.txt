@@ -1,0 +1,108 @@
+--- Step 156 Log ---
+
+== Filtered Candidates ==
+Token: ' BBC' (ID: 18096), Prob: 0.9961
+Token: ' TV' (ID: 5883), Prob: 0.0004
+Token: ' television' (ID: 12425), Prob: 0.0002
+Token: 'BBC' (ID: 66755), Prob: 0.0002
+Token: ' series' (ID: 4013), Prob: 0.0001
+Token: ' UK' (ID: 6424), Prob: 0.0001
+Token: ' British' (ID: 7855), Prob: 0.0001
+Token: ' ABC' (ID: 19360), Prob: 0.0001
+Token: ' CBC' (ID: 45512), Prob: 0.0001
+Token: ' CBS' (ID: 24029), Prob: 0.0000
+Token: ' BB' (ID: 18270), Prob: 0.0000
+Token: ' bbc' (ID: 90626), Prob: 0.0000
+Token: ' HBO' (ID: 42878), Prob: 0.0000
+Token: ' ITV' (ID: 93355), Prob: 0.0000
+Token: ' NBC' (ID: 23521), Prob: 0.0000
+Token: ' broadcast' (ID: 12899), Prob: 0.0000
+Token: ' Netflix' (ID: 22642), Prob: 0.0000
+Token: ' Broadway' (ID: 36676), Prob: 0.0000
+Token: ' Crown' (ID: 28643), Prob: 0.0000
+Token: ' broadcasting' (ID: 48827), Prob: 0.0000
+Token: ' following' (ID: 2701), Prob: 0.0000
+Token: ' CCTV' (ID: 70238), Prob: 0.0000
+Token: ' sitcom' (ID: 80366), Prob: 0.0000
+Token: ' The' (ID: 576), Prob: 0.0000
+Token: ' PBS' (ID: 59045), Prob: 0.0000
+Token: 'bbc' (ID: 84185), Prob: 0.0000
+Token: ' film' (ID: 4531), Prob: 0.0000
+Token: ' the' (ID: 279), Prob: 0.0000
+Token: ' B' (ID: 425), Prob: 0.0000
+Token: ' National' (ID: 5055), Prob: 0.0000
+Token: ' Scottish' (ID: 26096), Prob: 0.0000
+Token: ' role' (ID: 3476), Prob: 0.0000
+Token: ' United' (ID: 3639), Prob: 0.0000
+Token: ' North' (ID: 4787), Prob: 0.0000
+Token: ' first' (ID: 1156), Prob: 0.0000
+Token: ' Brit' (ID: 5450), Prob: 0.0000
+Token: ' televised' (ID: 75610), Prob: 0.0000
+Token: ' T' (ID: 350), Prob: 0.0000
+Token: ' BC' (ID: 18040), Prob: 0.0000
+Token: ' NHS' (ID: 36281), Prob: 0.0000
+Token: ' Royal' (ID: 16194), Prob: 0.0000
+Token: ' GB' (ID: 18865), Prob: 0.0000
+Token: ' I' (ID: 358), Prob: 0.0000
+Token: ' A' (ID: 362), Prob: 0.0000
+Token: ' BBB' (ID: 94458), Prob: 0.0000
+Token: ' G' (ID: 479), Prob: 0.0000
+Token: ' Television' (ID: 40345), Prob: 0.0000
+Token: ' Australian' (ID: 13369), Prob: 0.0000
+Token: ' CB' (ID: 21318), Prob: 0.0000
+Token: ' of' (ID: 315), Prob: 0.0000
+Token: ' various' (ID: 5257), Prob: 0.0000
+Token: ' show' (ID: 1473), Prob: 0.0000
+Token: ' popular' (ID: 5411), Prob: 0.0000
+Token: ' WWE' (ID: 33438), Prob: 0.0000
+Token: ' BTC' (ID: 36045), Prob: 0.0000
+Token: ' D' (ID: 422), Prob: 0.0000
+Token: ' same' (ID: 1852), Prob: 0.0000
+Token: ' movie' (ID: 5700), Prob: 0.0000
+Token: ' radio' (ID: 8887), Prob: 0.0000
+Token: ' Britann' (ID: 97420), Prob: 0.0000
+Token: ' and' (ID: 323), Prob: 0.0000
+Token: ' English' (ID: 6364), Prob: 0.0000
+Token: ' drama' (ID: 19584), Prob: 0.0000
+Token: ' Broadcast' (ID: 31965), Prob: 0.0000
+Token: ' Radio' (ID: 13484), Prob: 0.0000
+Token: ' programme' (ID: 18136), Prob: 0.0000
+Token: ' CNN' (ID: 19769), Prob: 0.0000
+Token: ' comedy' (ID: 22358), Prob: 0.0000
+Token: ' televis' (ID: 89965), Prob: 0.0000
+Token: ' public' (ID: 584), Prob: 0.0000
+Token: ' West' (ID: 4312), Prob: 0.0000
+
+== Ranked Concepts (Clusters) ==
+Rank 1 | Centroid: ' BBC' | Score: 0.9961
+  Tokens: [' BBC', 'BBC', ' bbc', 'bbc']
+Rank 2 | Centroid: ' television' | Score: 0.0006
+  Tokens: [' TV', ' television', ' ITV', ' CCTV', ' televised', ' Television', ' televis']
+Rank 3 | Centroid: ' British' | Score: 0.0002
+  Tokens: [' UK', ' British', ' Scottish', ' NHS', ' Australian', ' English']
+Rank 4 | Centroid: ' BC' | Score: 0.0002
+  Tokens: [' ABC', ' CBC', ' BB', ' BC', ' GB', ' BBB', ' CB', ' BTC']
+Rank 5 | Centroid: ' various' | Score: 0.0001
+  Tokens: [' series', ' following', ' first', ' various', ' show', ' popular', ' same', ' public']
+Rank 6 | Centroid: ' CBS' | Score: 0.0001
+  Tokens: [' CBS', ' HBO', ' NBC', ' PBS', ' CNN']
+Rank 7 | Centroid: ' movie' | Score: 0.0000
+  Tokens: [' Netflix', ' Broadway', ' sitcom', ' film', ' WWE', ' movie', ' drama', ' comedy']
+Rank 8 | Centroid: ' the' | Score: 0.0000
+  Tokens: [' The', ' the', ' B', ' T', ' I', ' A', ' G', ' of', ' D', ' and']
+Rank 9 | Centroid: ' broadcast' | Score: 0.0000
+  Tokens: [' broadcast', ' broadcasting', ' radio', ' Broadcast', ' Radio']
+Rank 10 | Centroid: ' Crown' | Score: 0.0000
+  Tokens: [' Crown', ' Royal']
+Rank 11 | Centroid: ' National' | Score: 0.0000
+  Tokens: [' National', ' United']
+Rank 12 | Centroid: ' North' | Score: 0.0000
+  Tokens: [' North', ' West']
+Rank 13 | Centroid: ' Brit' | Score: 0.0000
+  Tokens: [' Brit', ' Britann']
+Rank 14 | Centroid: ' role' | Score: 0.0000
+  Tokens: [' role']
+Rank 15 | Centroid: ' programme' | Score: 0.0000
+  Tokens: [' programme']
+
+**Chosen Concept:** Rank 1

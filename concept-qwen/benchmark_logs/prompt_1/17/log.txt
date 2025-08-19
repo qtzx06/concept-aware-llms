@@ -1,155 +1,130 @@
 --- Step 17 Log ---
 
 == Filtered Candidates ==
-Token: ' aspect' (ID: 12893), Prob: 0.0698
-Token: ' culture' (ID: 7674), Prob: 0.0579
-Token: ' type' (ID: 943), Prob: 0.0479
-Token: ' perspective' (ID: 13057), Prob: 0.0422
-Token: ' cultural' (ID: 12752), Prob: 0.0352
-Token: ' ethnic' (ID: 21551), Prob: 0.0273
-Token: ' profession' (ID: 4808), Prob: 0.0256
-Token: ' personality' (ID: 17294), Prob: 0.0256
-Token: ' genre' (ID: 17328), Prob: 0.0256
-Token: ' role' (ID: 3476), Prob: 0.0188
-Token: ' ideology' (ID: 33549), Prob: 0.0176
-Token: ' ethnicity' (ID: 56878), Prob: 0.0176
-Token: ' kind' (ID: 3093), Prob: 0.0166
-Token: ' philosophy' (ID: 19128), Prob: 0.0156
-Token: ' language' (ID: 4128), Prob: 0.0137
-Token: ' background' (ID: 4004), Prob: 0.0129
-Token: ' trait' (ID: 17567), Prob: 0.0129
-Token: ' religion' (ID: 13587), Prob: 0.0121
-Token: ' emotion' (ID: 19772), Prob: 0.0114
-Token: ' character' (ID: 3668), Prob: 0.0107
-Token: ' identity' (ID: 9569), Prob: 0.0107
-Token: ' part' (ID: 949), Prob: 0.0101
-Token: ' gender' (ID: 9825), Prob: 0.0101
-Token: ' person' (ID: 1697), Prob: 0.0095
-Token: ' branch' (ID: 8870), Prob: 0.0089
-Token: ' skill' (ID: 9947), Prob: 0.0089
-Token: ' style' (ID: 1707), Prob: 0.0083
-Token: ' side' (ID: 3108), Prob: 0.0078
-Token: ' social' (ID: 3590), Prob: 0.0074
-Token: ' approach' (ID: 5486), Prob: 0.0074
-Token: ' class' (ID: 536), Prob: 0.0069
-Token: ' emotional' (ID: 14269), Prob: 0.0065
-Token: ' set' (ID: 738), Prob: 0.0054
-Token: ' attitude' (ID: 18915), Prob: 0.0054
-Token: ' dialect' (ID: 42279), Prob: 0.0054
-Token: ' lifestyle' (ID: 18899), Prob: 0.0050
-Token: ' group' (ID: 1874), Prob: 0.0047
-Token: ' theme' (ID: 6912), Prob: 0.0047
-Token: ' discipline' (ID: 25364), Prob: 0.0047
-Token: ' mindset' (ID: 39443), Prob: 0.0047
-Token: ' nationality' (ID: 58243), Prob: 0.0047
-Token: ' life' (ID: 2272), Prob: 0.0045
-Token: ' philosophical' (ID: 40803), Prob: 0.0045
-Token: ' attribute' (ID: 7035), Prob: 0.0042
-Token: ' concept' (ID: 7286), Prob: 0.0042
-Token: ' species' (ID: 9419), Prob: 0.0042
-Token: ' point' (ID: 1459), Prob: 0.0039
-Token: ' age' (ID: 4231), Prob: 0.0039
-Token: ' area' (ID: 3082), Prob: 0.0037
-Token: ' dimension' (ID: 12871), Prob: 0.0037
-Token: ' field' (ID: 2070), Prob: 0.0033
-Token: ' experience' (ID: 3139), Prob: 0.0033
-Token: ' department' (ID: 9292), Prob: 0.0033
-Token: ' family' (ID: 2997), Prob: 0.0031
-Token: ' worldview' (ID: 77062), Prob: 0.0031
-Token: ' function' (ID: 729), Prob: 0.0029
-Token: ' section' (ID: 3772), Prob: 0.0029
-Token: ' race' (ID: 6957), Prob: 0.0029
-Token: ' facet' (ID: 44507), Prob: 0.0029
-Token: ' viewpoint' (ID: 58385), Prob: 0.0029
-Token: ' view' (ID: 1651), Prob: 0.0027
-Token: ' persona' (ID: 27955), Prob: 0.0027
-Token: ' setting' (ID: 6243), Prob: 0.0025
-Token: ' physical' (ID: 6961), Prob: 0.0025
-Token: ' generation' (ID: 9471), Prob: 0.0025
-Token: ' mental' (ID: 10502), Prob: 0.0025
-Token: ' personal' (ID: 4345), Prob: 0.0024
-Token: ' demographic' (ID: 37362), Prob: 0.0024
-Token: ' world' (ID: 1879), Prob: 0.0022
-Token: ' ideological' (ID: 41833), Prob: 0.0022
-Token: ' value' (ID: 897), Prob: 0.0021
-Token: ' level' (ID: 2188), Prob: 0.0021
-Token: ' orientation' (ID: 16725), Prob: 0.0021
-Token: ' form' (ID: 1352), Prob: 0.0020
-Token: ' place' (ID: 1992), Prob: 0.0019
-Token: ' ability' (ID: 5726), Prob: 0.0019
-Token: ' opinion' (ID: 9459), Prob: 0.0019
-Token: ' country' (ID: 3146), Prob: 0.0017
-Token: ' voice' (ID: 7743), Prob: 0.0017
-Token: ' position' (ID: 2309), Prob: 0.0016
-Token: ' segment' (ID: 10238), Prob: 0.0016
-Token: ' socioeconomic' (ID: 79331), Prob: 0.0016
-Token: ' way' (ID: 1616), Prob: 0.0015
-Token: ' element' (ID: 2392), Prob: 0.0015
-Token: ' community' (ID: 3942), Prob: 0.0015
-Token: ' region' (ID: 5537), Prob: 0.0015
-Token: ' human' (ID: 3738), Prob: 0.0014
-Token: ' environment' (ID: 4573), Prob: 0.0014
-Token: ' political' (ID: 4948), Prob: 0.0014
-Token: ' stage' (ID: 6430), Prob: 0.0014
-Token: ' psychological' (ID: 23187), Prob: 0.0014
-Token: ' motivation' (ID: 24798), Prob: 0.0014
-Token: ' relationship' (ID: 5025), Prob: 0.0013
-Token: ' national' (ID: 5313), Prob: 0.0013
+Token: ' series' (ID: 4013), Prob: 0.9688
+Token: ' drama' (ID: 19584), Prob: 0.0227
+Token: ' comedy' (ID: 22358), Prob: 0.0024
+Token: ' crime' (ID: 9778), Prob: 0.0019
+Token: ' serial' (ID: 6146), Prob: 0.0011
+Token: ' television' (ID: 12425), Prob: 0.0007
+Token: ' show' (ID: 1473), Prob: 0.0004
+Token: ' Series' (ID: 11131), Prob: 0.0004
+Token: ' soap' (ID: 26785), Prob: 0.0004
+Token: ' thriller' (ID: 53361), Prob: 0.0003
+Token: ' variety' (ID: 8045), Prob: 0.0002
+Token: ' feature' (ID: 4565), Prob: 0.0001
+Token: ' sitcom' (ID: 80366), Prob: 0.0001
+Token: ' dramas' (ID: 87726), Prob: 0.0001
+Token: ' TV' (ID: 5883), Prob: 0.0001
+Token: ' documentary' (ID: 24954), Prob: 0.0001
+Token: ' anthology' (ID: 83008), Prob: 0.0001
+Token: ' and' (ID: 323), Prob: 0.0001
+Token: ' police' (ID: 4282), Prob: 0.0000
+Token: ' min' (ID: 1308), Prob: 0.0000
+Token: ' mini' (ID: 13420), Prob: 0.0000
+Token: ' sci' (ID: 37974), Prob: 0.0000
+Token: ' programme' (ID: 18136), Prob: 0.0000
+Token: ' detective' (ID: 44159), Prob: 0.0000
+Token: ' spin' (ID: 12616), Prob: 0.0000
+Token: ' film' (ID: 4531), Prob: 0.0000
+Token: ' legal' (ID: 5777), Prob: 0.0000
+Token: ' franchise' (ID: 19024), Prob: 0.0000
+Token: ' fantasy' (ID: 18378), Prob: 0.0000
+Token: ' serie' (ID: 32878), Prob: 0.0000
+Token: ' sequel' (ID: 34761), Prob: 0.0000
+Token: '-series' (ID: 56332), Prob: 0.0000
+Token: ' daytime' (ID: 61082), Prob: 0.0000
+Token: ' shows' (ID: 4933), Prob: 0.0000
+Token: ' science' (ID: 8038), Prob: 0.0000
+Token: ' horror' (ID: 21452), Prob: 0.0000
+Token: ' mystery' (ID: 22531), Prob: 0.0000
+Token: 'series' (ID: 19880), Prob: 0.0000
+Token: ' prime' (ID: 10250), Prob: 0.0000
+Token: ' political' (ID: 4948), Prob: 0.0000
+Token: ' Drama' (ID: 46469), Prob: 0.0000
+Token: ' sketch' (ID: 25529), Prob: 0.0000
+Token: ' western' (ID: 18494), Prob: 0.0000
+Token: ' adaptation' (ID: 33085), Prob: 0.0000
+Token: '1' (ID: 16), Prob: 0.0000
+Token: ' program' (ID: 2025), Prob: 0.0000
+Token: ' production' (ID: 5670), Prob: 0.0000
+Token: ' venture' (ID: 25191), Prob: 0.0000
+Token: '-Series' (ID: 91731), Prob: 0.0000
+Token: ' The' (ID: 576), Prob: 0.0000
+Token: ' Show' (ID: 6928), Prob: 0.0000
+Token: ' reality' (ID: 8729), Prob: 0.0000
+Token: ' medical' (ID: 6457), Prob: 0.0000
+Token: ' popular' (ID: 5411), Prob: 0.0000
+Token: ' cop' (ID: 6162), Prob: 0.0000
+Token: ' broadcast' (ID: 12899), Prob: 0.0000
+Token: ' Crime' (ID: 23900), Prob: 0.0000
+Token: ' documentaries' (ID: 87366), Prob: 0.0000
+Token: ' radio' (ID: 8887), Prob: 0.0000
+Token: ' Feature' (ID: 19998), Prob: 0.0000
+Token: ' romantic' (ID: 23467), Prob: 0.0000
+Token: ' dramatic' (ID: 21771), Prob: 0.0000
+Token: ' Television' (ID: 40345), Prob: 0.0000
+Token: ' Prime' (ID: 12518), Prob: 0.0000
+Token: ' spy' (ID: 21236), Prob: 0.0000
+Token: ' Scottish' (ID: 26096), Prob: 0.0000
+Token: ' quiz' (ID: 27124), Prob: 0.0000
+Token: ' tv' (ID: 11086), Prob: 0.0000
+Token: ' Channel' (ID: 13434), Prob: 0.0000
+Token: ' televis' (ID: 89965), Prob: 0.0000
+Token: ' based' (ID: 3118), Prob: 0.0000
+Token: ' historical' (ID: 13656), Prob: 0.0000
+Token: ' fiction' (ID: 16989), Prob: 0.0000
+Token: ' Continuing' (ID: 81017), Prob: 0.0000
+Token: ' chat' (ID: 6236), Prob: 0.0000
+Token: ' dr' (ID: 1353), Prob: 0.0000
+Token: ' British' (ID: 7855), Prob: 0.0000
+Token: ' Quiz' (ID: 41148), Prob: 0.0000
+Token: ' Variety' (ID: 70732), Prob: 0.0000
+Token: ' movie' (ID: 5700), Prob: 0.0000
+Token: ' hit' (ID: 4201), Prob: 0.0000
 
 == Ranked Concepts (Clusters) ==
-Rank 1 | Centroid: ' ideology' | Score: 0.1167
-  Tokens: [' culture', ' ideology', ' philosophy', ' language', ' religion']
-Rank 2 | Centroid: ' aspect' | Score: 0.0762
-  Tokens: [' aspect', ' dimension', ' facet']
-Rank 3 | Centroid: ' type' | Score: 0.0742
-  Tokens: [' type', ' kind', ' style', ' way']
-Rank 4 | Centroid: ' ethnicity' | Score: 0.0640
-  Tokens: [' ethnic', ' ethnicity', ' gender', ' nationality', ' demographic', ' socioeconomic']
-Rank 5 | Centroid: ' psychological' | Score: 0.0635
-  Tokens: [' cultural', ' social', ' emotional', ' philosophical', ' physical', ' mental', ' ideological', ' political', ' psychological']
-Rank 6 | Centroid: ' viewpoint' | Score: 0.0527
-  Tokens: [' perspective', ' worldview', ' viewpoint', ' view', ' opinion']
-Rank 7 | Centroid: ' person' | Score: 0.0522
-  Tokens: [' personality', ' character', ' person', ' persona', ' personal', ' human']
-Rank 8 | Centroid: ' ability' | Score: 0.0447
-  Tokens: [' role', ' identity', ' skill', ' experience', ' ability', ' relationship']
-Rank 9 | Centroid: ' genre' | Score: 0.0356
-  Tokens: [' genre', ' dialect', ' discipline']
-Rank 10 | Centroid: ' section' | Score: 0.0320
-  Tokens: [' part', ' branch', ' area', ' department', ' section', ' segment', ' region']
-Rank 11 | Centroid: ' profession' | Score: 0.0256
-  Tokens: [' profession']
-Rank 12 | Centroid: ' set' | Score: 0.0215
-  Tokens: [' class', ' set', ' group', ' setting', ' form']
-Rank 13 | Centroid: ' attribute' | Score: 0.0186
-  Tokens: [' trait', ' attribute', ' element']
-Rank 14 | Centroid: ' environment' | Score: 0.0181
-  Tokens: [' background', ' world', ' community', ' environment']
-Rank 15 | Centroid: ' concept' | Score: 0.0162
-  Tokens: [' approach', ' theme', ' concept']
-Rank 16 | Centroid: ' emotion' | Score: 0.0127
-  Tokens: [' emotion', ' motivation']
-Rank 17 | Centroid: ' attitude' | Score: 0.0122
-  Tokens: [' attitude', ' mindset', ' orientation']
-Rank 18 | Centroid: ' stage' | Score: 0.0113
-  Tokens: [' side', ' level', ' stage']
-Rank 19 | Centroid: ' lifestyle' | Score: 0.0095
-  Tokens: [' lifestyle', ' life']
-Rank 20 | Centroid: ' position' | Score: 0.0092
-  Tokens: [' point', ' place', ' voice', ' position']
-Rank 21 | Centroid: ' species' | Score: 0.0071
-  Tokens: [' species', ' race']
-Rank 22 | Centroid: ' function' | Score: 0.0050
-  Tokens: [' function', ' value']
-Rank 23 | Centroid: ' age' | Score: 0.0039
-  Tokens: [' age']
-Rank 24 | Centroid: ' field' | Score: 0.0033
-  Tokens: [' field']
-Rank 25 | Centroid: ' family' | Score: 0.0031
-  Tokens: [' family']
-Rank 26 | Centroid: ' country' | Score: 0.0030
-  Tokens: [' country', ' national']
-Rank 27 | Centroid: ' generation' | Score: 0.0025
-  Tokens: [' generation']
+Rank 1 | Centroid: ' series' | Score: 0.9688
+  Tokens: [' series', ' serial', ' Series', ' serie', '-series', 'series', '-Series']
+Rank 2 | Centroid: ' drama' | Score: 0.0228
+  Tokens: [' drama', ' dramas', ' Drama', ' dramatic']
+Rank 3 | Centroid: ' fantasy' | Score: 0.0027
+  Tokens: [' comedy', ' thriller', ' fantasy', ' horror', ' mystery', ' romantic', ' fiction']
+Rank 4 | Centroid: ' crime' | Score: 0.0019
+  Tokens: [' crime', ' police', ' detective', ' Crime', ' spy']
+Rank 5 | Centroid: ' television' | Score: 0.0008
+  Tokens: [' television', ' TV', ' broadcast', ' radio', ' Television', ' tv', ' televis']
+Rank 6 | Centroid: ' soap' | Score: 0.0005
+  Tokens: [' soap', ' sitcom']
+Rank 7 | Centroid: ' show' | Score: 0.0004
+  Tokens: [' show', ' shows', ' Show']
+Rank 8 | Centroid: ' variety' | Score: 0.0002
+  Tokens: [' variety', ' Variety']
+Rank 9 | Centroid: ' The' | Score: 0.0001
+  Tokens: [' and', ' min', ' mini', ' legal', ' political', '1', ' production', ' The', ' medical', ' popular', ' based', ' historical', ' dr', ' British', ' hit']
+Rank 10 | Centroid: ' feature' | Score: 0.0001
+  Tokens: [' feature', ' Feature']
+Rank 11 | Centroid: ' documentary' | Score: 0.0001
+  Tokens: [' documentary', ' film', ' documentaries', ' movie']
+Rank 12 | Centroid: ' anthology' | Score: 0.0001
+  Tokens: [' anthology', ' franchise', ' sequel']
+Rank 13 | Centroid: ' science' | Score: 0.0000
+  Tokens: [' sci', ' science', ' reality']
+Rank 14 | Centroid: ' quiz' | Score: 0.0000
+  Tokens: [' spin', ' venture', ' quiz', ' Quiz']
+Rank 15 | Centroid: ' programme' | Score: 0.0000
+  Tokens: [' programme', ' program']
+Rank 16 | Centroid: ' Scottish' | Score: 0.0000
+  Tokens: [' daytime', ' Scottish', ' Continuing']
+Rank 17 | Centroid: ' western' | Score: 0.0000
+  Tokens: [' western', ' adaptation']
+Rank 18 | Centroid: ' prime' | Score: 0.0000
+  Tokens: [' prime', ' Prime']
+Rank 19 | Centroid: ' sketch' | Score: 0.0000
+  Tokens: [' sketch']
+Rank 20 | Centroid: ' cop' | Score: 0.0000
+  Tokens: [' cop', ' chat']
+Rank 21 | Centroid: ' Channel' | Score: 0.0000
+  Tokens: [' Channel']
 
 **Chosen Concept:** Rank 1

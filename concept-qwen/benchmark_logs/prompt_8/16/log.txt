@@ -1,0 +1,126 @@
+--- Step 16 Log ---
+
+== Filtered Candidates ==
+Token: ' The' (ID: 576), Prob: 0.1738
+Token: ' In' (ID: 758), Prob: 0.0928
+Token: ' This' (ID: 1096), Prob: 0.0820
+Token: ' Therefore' (ID: 15277), Prob: 0.0723
+Token: ' For' (ID: 1752), Prob: 0.0386
+Token: ' As' (ID: 1634), Prob: 0.0342
+Token: ' Thus' (ID: 14301), Prob: 0.0342
+Token: ' It' (ID: 1084), Prob: 0.0302
+Token: ' So' (ID: 2055), Prob: 0.0266
+Token: ' Hence' (ID: 31040), Prob: 0.0208
+Token: ' They' (ID: 2379), Prob: 0.0142
+Token: ' According' (ID: 10548), Prob: 0.0126
+Token: ' But' (ID: 1988), Prob: 0.0111
+Token: ' When' (ID: 3197), Prob: 0.0111
+Token: ' These' (ID: 4220), Prob: 0.0111
+Token: ' However' (ID: 4354), Prob: 0.0098
+Token: ' By' (ID: 3216), Prob: 0.0086
+Token: ' To' (ID: 2014), Prob: 0.0076
+Token: ' Such' (ID: 15132), Prob: 0.0076
+Token: ' Du' (ID: 15687), Prob: 0.0067
+Token: ' Moreover' (ID: 22827), Prob: 0.0067
+Token: ' If' (ID: 1416), Prob: 0.0052
+Token: ' Burton' (ID: 53655), Prob: 0.0052
+Token: ' A' (ID: 362), Prob: 0.0046
+Token: ' That' (ID: 2938), Prob: 0.0046
+Token: ' Their' (ID: 10964), Prob: 0.0046
+Token: ' What' (ID: 3555), Prob: 0.0041
+Token: ' Furthermore' (ID: 23405), Prob: 0.0041
+Token: ' He' (ID: 1260), Prob: 0.0032
+Token: ' Because' (ID: 9211), Prob: 0.0032
+Token: ' Since' (ID: 8704), Prob: 0.0028
+Token: ' Consequently' (ID: 52023), Prob: 0.0028
+Token: ' And' (ID: 1597), Prob: 0.0025
+Token: ' With' (ID: 3085), Prob: 0.0022
+Token: ' Also' (ID: 7281), Prob: 0.0022
+Token: ' I' (ID: 358), Prob: 0.0019
+Token: ' There' (ID: 2619), Prob: 0.0019
+Token: ' One' (ID: 3776), Prob: 0.0019
+Token: ' From' (ID: 5542), Prob: 0.0019
+Token: ' Through' (ID: 16904), Prob: 0.0019
+Token: ' At' (ID: 2411), Prob: 0.0017
+Token: ' How' (ID: 2585), Prob: 0.0017
+Token: ' Even' (ID: 7418), Prob: 0.0017
+Token: ' Which' (ID: 15920), Prob: 0.0017
+Token: ' Similarly' (ID: 34239), Prob: 0.0017
+Token: ' We' (ID: 1205), Prob: 0.0015
+Token: ' An' (ID: 1527), Prob: 0.0015
+Token: ' On' (ID: 1913), Prob: 0.0015
+Token: ' Some' (ID: 4329), Prob: 0.0015
+Token: ' Many' (ID: 8999), Prob: 0.0015
+Token: ' Although' (ID: 10328), Prob: 0.0015
+Token: ' Accordingly' (ID: 62809), Prob: 0.0015
+Token: ' Additionally' (ID: 22406), Prob: 0.0013
+Token: 'The' (ID: 785), Prob: 0.0012
+Token: ' His' (ID: 5301), Prob: 0.0012
+Token: ' Most' (ID: 7496), Prob: 0.0010
+Token: ' Using' (ID: 12091), Prob: 0.0010
+Token: ' Another' (ID: 13293), Prob: 0.0010
+Token: ' Given' (ID: 16246), Prob: 0.0010
+Token: ' Here' (ID: 5692), Prob: 0.0009
+Token: ' While' (ID: 5976), Prob: 0.0009
+Token: ' Under' (ID: 9449), Prob: 0.0009
+Token: ' Though' (ID: 17594), Prob: 0.0009
+Token: ' Indeed' (ID: 22348), Prob: 0.0009
+Token: ' Each' (ID: 8886), Prob: 0.0008
+Token: ' Rather' (ID: 25764), Prob: 0.0008
+Token: ' Watson' (ID: 31480), Prob: 0.0008
+Token: 'Therefore' (ID: 54815), Prob: 0.0008
+Token: ' Discuss' (ID: 65279), Prob: 0.0008
+Token: ' the' (ID: 279), Prob: 0.0007
+Token: ' After' (ID: 4636), Prob: 0.0007
+Token: ' Like' (ID: 8909), Prob: 0.0007
+Token: ' Yet' (ID: 14626), Prob: 0.0007
+Token: ' Modern' (ID: 18265), Prob: 0.0007
+Token: ' Perhaps' (ID: 18765), Prob: 0.0007
+Token: ' Now' (ID: 4695), Prob: 0.0006
+Token: ' Chinese' (ID: 8453), Prob: 0.0006
+Token: ' During' (ID: 11954), Prob: 0.0006
+Token: ' Much' (ID: 23309), Prob: 0.0006
+
+== Ranked Concepts (Clusters) ==
+Rank 1 | Centroid: ' The' | Score: 0.2891
+  Tokens: [' The', ' This', ' It', ' We', 'The']
+Rank 2 | Centroid: ' For' | Score: 0.1895
+  Tokens: [' In', ' For', ' As', ' By', ' To', ' With', ' From', ' At', ' On']
+Rank 3 | Centroid: ' Therefore' | Score: 0.1318
+  Tokens: [' Therefore', ' Thus', ' Hence', ' Consequently', ' Accordingly', 'Therefore']
+Rank 4 | Centroid: ' They' | Score: 0.0327
+  Tokens: [' They', ' These', ' Their', ' There', ' Each']
+Rank 5 | Centroid: ' So' | Score: 0.0297
+  Tokens: [' So', ' And', ' Now']
+Rank 6 | Centroid: ' But' | Score: 0.0216
+  Tokens: [' But', ' However', ' Yet']
+Rank 7 | Centroid: ' Using' | Score: 0.0188
+  Tokens: [' According', ' Through', ' Using', ' Given', ' Under', ' After', ' During']
+Rank 8 | Centroid: ' Additionally' | Score: 0.0171
+  Tokens: [' Moreover', ' Furthermore', ' Also', ' Similarly', ' Additionally', ' Another']
+Rank 9 | Centroid: ' When' | Score: 0.0164
+  Tokens: [' When', ' If']
+Rank 10 | Centroid: ' Discuss' | Score: 0.0096
+  Tokens: [' Du', ' Watson', ' Discuss', ' Modern', ' Chinese']
+Rank 11 | Centroid: ' Like' | Score: 0.0092
+  Tokens: [' Such', ' Rather', ' Like']
+Rank 12 | Centroid: ' A' | Score: 0.0087
+  Tokens: [' A', ' I', ' An', ' the']
+Rank 13 | Centroid: ' What' | Score: 0.0075
+  Tokens: [' What', ' How', ' Which']
+Rank 14 | Centroid: ' Many' | Score: 0.0066
+  Tokens: [' One', ' Some', ' Many', ' Most', ' Much']
+Rank 15 | Centroid: ' Because' | Score: 0.0060
+  Tokens: [' Because', ' Since']
+Rank 16 | Centroid: ' That' | Score: 0.0055
+  Tokens: [' That', ' Here']
+Rank 17 | Centroid: ' Burton' | Score: 0.0052
+  Tokens: [' Burton']
+Rank 18 | Centroid: ' Although' | Score: 0.0050
+  Tokens: [' Even', ' Although', ' While', ' Though']
+Rank 19 | Centroid: ' He' | Score: 0.0043
+  Tokens: [' He', ' His']
+Rank 20 | Centroid: ' Indeed' | Score: 0.0016
+  Tokens: [' Indeed', ' Perhaps']
+
+**Chosen Concept:** Rank 1

@@ -1,0 +1,106 @@
+--- Step 62 Log ---
+
+== Filtered Candidates ==
+Token: ' dynasty' (ID: 66846), Prob: 0.7578
+Token: ' Dynasty' (ID: 73395), Prob: 0.1689
+Token: ' period' (ID: 4168), Prob: 0.0294
+Token: ' poetry' (ID: 31249), Prob: 0.0139
+Token: ' era' (ID: 11385), Prob: 0.0123
+Token: ' Poetry' (ID: 67687), Prob: 0.0017
+Token: ' Period' (ID: 25492), Prob: 0.0010
+Token: ' style' (ID: 1707), Prob: 0.0005
+Token: ' poetic' (ID: 75434), Prob: 0.0003
+Token: ' and' (ID: 323), Prob: 0.0003
+Token: ' poet' (ID: 39260), Prob: 0.0003
+Token: 'Dyn' (ID: 95709), Prob: 0.0003
+Token: ' court' (ID: 5473), Prob: 0.0002
+Token: ' poem' (ID: 32794), Prob: 0.0002
+Token: ' China' (ID: 5616), Prob: 0.0002
+Token: ' school' (ID: 2906), Prob: 0.0002
+Token: ' times' (ID: 3039), Prob: 0.0002
+Token: ' dyn' (ID: 31070), Prob: 0.0002
+Token: ' Po' (ID: 13808), Prob: 0.0001
+Token: ' Dyn' (ID: 43938), Prob: 0.0001
+Token: ' Song' (ID: 18971), Prob: 0.0001
+Token: ' in' (ID: 304), Prob: 0.0001
+Token: ' age' (ID: 4231), Prob: 0.0001
+Token: ' School' (ID: 6022), Prob: 0.0001
+Token: ' poets' (ID: 72972), Prob: 0.0001
+Token: ' poems' (ID: 44219), Prob: 0.0000
+Token: ' Renaissance' (ID: 54283), Prob: 0.0000
+Token: ' Era' (ID: 47588), Prob: 0.0000
+Token: ' Chinese' (ID: 8453), Prob: 0.0000
+Token: ' regime' (ID: 17484), Prob: 0.0000
+Token: ' verse' (ID: 32387), Prob: 0.0000
+Token: ' class' (ID: 536), Prob: 0.0000
+Token: ' culture' (ID: 7674), Prob: 0.0000
+Token: ' epoch' (ID: 16342), Prob: 0.0000
+Token: ' genre' (ID: 17328), Prob: 0.0000
+Token: ' periods' (ID: 18346), Prob: 0.0000
+Token: ' literary' (ID: 31365), Prob: 0.0000
+Token: ' people' (ID: 1251), Prob: 0.0000
+Token: ' during' (ID: 2337), Prob: 0.0000
+Token: ' tradition' (ID: 13815), Prob: 0.0000
+Token: ' or' (ID: 476), Prob: 0.0000
+Token: ' to' (ID: 311), Prob: 0.0000
+Token: ' society' (ID: 8232), Prob: 0.0000
+Token: ' Empire' (ID: 20448), Prob: 0.0000
+Token: ' er' (ID: 2714), Prob: 0.0000
+Token: ' Age' (ID: 13081), Prob: 0.0000
+Token: ' imperial' (ID: 34279), Prob: 0.0000
+Token: ' song' (ID: 5492), Prob: 0.0000
+Token: ' civilization' (ID: 34917), Prob: 0.0000
+Token: ' of' (ID: 315), Prob: 0.0000
+Token: ' time' (ID: 882), Prob: 0.0000
+Token: ' Classic' (ID: 21837), Prob: 0.0000
+Token: ' prose' (ID: 60701), Prob: 0.0000
+Token: ' literature' (ID: 17206), Prob: 0.0000
+Token: '-era' (ID: 51343), Prob: 0.0000
+Token: ' history' (ID: 3840), Prob: 0.0000
+Token: ' empire' (ID: 31347), Prob: 0.0000
+Token: ' Z' (ID: 1863), Prob: 0.0000
+Token: ' Court' (ID: 7154), Prob: 0.0000
+Token: ' classics' (ID: 52705), Prob: 0.0000
+Token: ' dynamic' (ID: 8741), Prob: 0.0000
+Token: ' X' (ID: 1599), Prob: 0.0000
+Token: ' for' (ID: 369), Prob: 0.0000
+Token: ' movement' (ID: 7203), Prob: 0.0000
+Token: ' Golden' (ID: 17809), Prob: 0.0000
+Token: ' Republic' (ID: 5429), Prob: 0.0000
+Token: ' as' (ID: 438), Prob: 0.0000
+
+== Ranked Concepts (Clusters) ==
+Rank 1 | Centroid: ' Dyn' | Score: 0.9258
+  Tokens: [' dynasty', ' Dynasty', 'Dyn', ' dyn', ' Dyn', ' dynamic']
+Rank 2 | Centroid: ' period' | Score: 0.0304
+  Tokens: [' period', ' Period', ' periods']
+Rank 3 | Centroid: ' poetry' | Score: 0.0167
+  Tokens: [' poetry', ' Poetry', ' poetic', ' poet', ' poem', ' Po', ' poets', ' poems', ' verse']
+Rank 4 | Centroid: ' era' | Score: 0.0123
+  Tokens: [' era', ' Era', ' epoch', ' er', '-era']
+Rank 5 | Centroid: ' culture' | Score: 0.0005
+  Tokens: [' style', ' culture', ' tradition', ' society', ' civilization', ' history', ' movement']
+Rank 6 | Centroid: ' and' | Score: 0.0005
+  Tokens: [' and', ' in', ' class', ' during', ' or', ' to', ' of', ' Z', ' X', ' for', ' as']
+Rank 7 | Centroid: ' Song' | Score: 0.0003
+  Tokens: [' China', ' Song', ' Chinese', ' song']
+Rank 8 | Centroid: ' court' | Score: 0.0002
+  Tokens: [' court', ' Court']
+Rank 9 | Centroid: ' school' | Score: 0.0002
+  Tokens: [' school', ' School']
+Rank 10 | Centroid: ' time' | Score: 0.0002
+  Tokens: [' times', ' people', ' time']
+Rank 11 | Centroid: ' Classic' | Score: 0.0001
+  Tokens: [' Renaissance', ' genre', ' Classic', ' classics']
+Rank 12 | Centroid: ' age' | Score: 0.0001
+  Tokens: [' age', ' Age']
+Rank 13 | Centroid: ' literary' | Score: 0.0000
+  Tokens: [' literary', ' prose', ' literature']
+Rank 14 | Centroid: ' Empire' | Score: 0.0000
+  Tokens: [' Empire', ' imperial', ' empire', ' Republic']
+Rank 15 | Centroid: ' regime' | Score: 0.0000
+  Tokens: [' regime']
+Rank 16 | Centroid: ' Golden' | Score: 0.0000
+  Tokens: [' Golden']
+
+**Chosen Concept:** Rank 1

@@ -1,0 +1,80 @@
+--- Step 122 Log ---
+
+== Filtered Candidates ==
+Token: ' United' (ID: 3639), Prob: 1.0000
+Token: ' UK' (ID: 6424), Prob: 0.0000
+Token: 'United' (ID: 22372), Prob: 0.0000
+Token: ' united' (ID: 28192), Prob: 0.0000
+Token: ' University' (ID: 3822), Prob: 0.0000
+Token: ' the' (ID: 279), Prob: 0.0000
+Token: ' North' (ID: 4787), Prob: 0.0000
+Token: ' television' (ID: 12425), Prob: 0.0000
+Token: ' U' (ID: 547), Prob: 0.0000
+Token: ' British' (ID: 7855), Prob: 0.0000
+Token: ' universe' (ID: 15494), Prob: 0.0000
+Token: ' The' (ID: 576), Prob: 0.0000
+Token: ' Kingdom' (ID: 15072), Prob: 0.0000
+Token: ' Un' (ID: 1230), Prob: 0.0000
+Token: ' Universal' (ID: 25500), Prob: 0.0000
+Token: ' year' (ID: 1042), Prob: 0.0000
+Token: ' same' (ID: 1852), Prob: 0.0000
+Token: ' Commonwealth' (ID: 37198), Prob: 0.0000
+Token: ' USA' (ID: 7279), Prob: 0.0000
+Token: ' country' (ID: 3146), Prob: 0.0000
+Token: ' entire' (ID: 4453), Prob: 0.0000
+Token: ' Universe' (ID: 28749), Prob: 0.0000
+Token: ' in' (ID: 304), Prob: 0.0000
+Token: ' Queen' (ID: 16259), Prob: 0.0000
+Token: ' Unified' (ID: 72434), Prob: 0.0000
+Token: ' South' (ID: 4882), Prob: 0.0000
+Token: ' Netherlands' (ID: 25662), Prob: 0.0000
+Token: ' English' (ID: 6364), Prob: 0.0000
+Token: ' Middle' (ID: 12592), Prob: 0.0000
+Token: ' BBC' (ID: 18096), Prob: 0.0000
+Token: ' Northern' (ID: 16926), Prob: 0.0000
+Token: ' Great' (ID: 8513), Prob: 0.0000
+Token: ' B' (ID: 425), Prob: 0.0000
+Token: ' Union' (ID: 9145), Prob: 0.0000
+Token: ' Midlands' (ID: 80151), Prob: 0.0000
+Token: ' New' (ID: 1532), Prob: 0.0000
+Token: ' Univers' (ID: 15545), Prob: 0.0000
+Token: ' London' (ID: 7148), Prob: 0.0000
+Token: ' Victoria' (ID: 22417), Prob: 0.0000
+Token: ' and' (ID: 323), Prob: 0.0000
+Token: ' West' (ID: 4312), Prob: 0.0000
+Token: ' Lord' (ID: 10214), Prob: 0.0000
+Token: ' Television' (ID: 40345), Prob: 0.0000
+Token: ' Yuk' (ID: 57663), Prob: 0.0000
+Token: ' first' (ID: 1156), Prob: 0.0000
+
+== Ranked Concepts (Clusters) ==
+Rank 1 | Centroid: ' United' | Score: 1.0000
+  Tokens: [' United', 'United', ' USA']
+Rank 2 | Centroid: ' British' | Score: 0.0000
+  Tokens: [' UK', ' British', ' English', ' BBC', ' London']
+Rank 3 | Centroid: ' united' | Score: 0.0000
+  Tokens: [' united', ' Unified']
+Rank 4 | Centroid: ' universe' | Score: 0.0000
+  Tokens: [' University', ' universe', ' Universal', ' Universe', ' Univers']
+Rank 5 | Centroid: ' the' | Score: 0.0000
+  Tokens: [' the', ' U', ' The', ' Un', ' in', ' B', ' New', ' and', ' first']
+Rank 6 | Centroid: ' North' | Score: 0.0000
+  Tokens: [' North', ' South', ' Northern', ' West']
+Rank 7 | Centroid: ' television' | Score: 0.0000
+  Tokens: [' television', ' Television']
+Rank 8 | Centroid: ' Queen' | Score: 0.0000
+  Tokens: [' Kingdom', ' Commonwealth', ' Queen', ' Lord']
+Rank 9 | Centroid: ' entire' | Score: 0.0000
+  Tokens: [' year', ' same', ' entire']
+Rank 10 | Centroid: ' country' | Score: 0.0000
+  Tokens: [' country', ' Netherlands']
+Rank 11 | Centroid: ' Middle' | Score: 0.0000
+  Tokens: [' Middle', ' Midlands']
+Rank 12 | Centroid: ' Victoria' | Score: 0.0000
+  Tokens: [' Victoria', ' Yuk']
+Rank 13 | Centroid: ' Great' | Score: 0.0000
+  Tokens: [' Great']
+Rank 14 | Centroid: ' Union' | Score: 0.0000
+  Tokens: [' Union']
+
+**Chosen Concept:** Rank 1

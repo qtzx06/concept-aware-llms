@@ -1,106 +1,132 @@
 --- Step 20 Log ---
 
 == Filtered Candidates ==
-Token: ' Let' (ID: 6771), Prob: 0.0015
-Token: ' Original' (ID: 17230), Prob: 0.0005
-Token: ' Start' (ID: 5145), Prob: 0.0003
-Token: ' Starting' (ID: 27657), Prob: 0.0003
-Token: ' Hmm' (ID: 88190), Prob: 0.0001
-Token: ' Maybe' (ID: 10696), Prob: 0.0000
-Token: ' Alright' (ID: 97593), Prob: 0.0000
-Token: ' User' (ID: 2657), Prob: 0.0000
-Token: ' Wait' (ID: 13824), Prob: 0.0000
-Token: ' Make' (ID: 7405), Prob: 0.0000
-Token: 'Original' (ID: 18395), Prob: 0.0000
-Token: ' Person' (ID: 7357), Prob: 0.0000
-Token: ' Got' (ID: 24528), Prob: 0.0000
-Token: ' Story' (ID: 15106), Prob: 0.0000
-Token: ' Time' (ID: 4120), Prob: 0.0000
-Token: ' Keep' (ID: 13655), Prob: 0.0000
-Token: ' Well' (ID: 8325), Prob: 0.0000
-Token: ' Get' (ID: 2126), Prob: 0.0000
-Token: ' Since' (ID: 8704), Prob: 0.0000
-Token: ' Main' (ID: 4697), Prob: 0.0000
-Token: ' Task' (ID: 5430), Prob: 0.0000
-Token: ' Okay' (ID: 35439), Prob: 0.0000
-Token: ' Context' (ID: 9608), Prob: 0.0000
-Token: ' Started' (ID: 35812), Prob: 0.0000
-Token: ' Initially' (ID: 58556), Prob: 0.0000
-Token: ' Initial' (ID: 4127), Prob: 0.0000
-Token: ' Starts' (ID: 47728), Prob: 0.0000
-Token: ' Please' (ID: 5209), Prob: 0.0000
-Token: ' Starter' (ID: 59787), Prob: 0.0000
-Token: ' Existing' (ID: 68471), Prob: 0.0000
-Token: ' Comb' (ID: 22454), Prob: 0.0000
-Token: ' Title' (ID: 10869), Prob: 0.0000
-Token: ' Traditional' (ID: 45460), Prob: 0.0000
-Token: ' People' (ID: 8853), Prob: 0.0000
-Token: ' Take' (ID: 11778), Prob: 0.0000
-Token: ' Begin' (ID: 18597), Prob: 0.0000
-Token: ' Owner' (ID: 25833), Prob: 0.0000
-Token: ' Proper' (ID: 64558), Prob: 0.0000
-Token: ' Originally' (ID: 24805), Prob: 0.0000
-Token: ' Find' (ID: 7379), Prob: 0.0000
-Token: ' Place' (ID: 10771), Prob: 0.0000
-Token: ' Users' (ID: 14627), Prob: 0.0000
-Token: ' Break' (ID: 15623), Prob: 0.0000
-Token: ' Available' (ID: 16136), Prob: 0.0000
-Token: ' Looking' (ID: 21131), Prob: 0.0000
-Token: ' Probably' (ID: 37154), Prob: 0.0000
-Token: ' Suppose' (ID: 82610), Prob: 0.0000
-Token: ' start' (ID: 1191), Prob: 0.0000
-Token: ' original' (ID: 4024), Prob: 0.0000
-Token: ' However' (ID: 4354), Prob: 0.0000
-Token: ' Self' (ID: 10115), Prob: 0.0000
-Token: ' Community' (ID: 12062), Prob: 0.0000
-Token: ' Paragraph' (ID: 49351), Prob: 0.0000
-Token: ' Personal' (ID: 19207), Prob: 0.0000
-Token: ' Grammar' (ID: 61977), Prob: 0.0000
-Token: ' Short' (ID: 10698), Prob: 0.0000
-Token: ' Given' (ID: 16246), Prob: 0.0000
-Token: ' Good' (ID: 7684), Prob: 0.0000
-Token: ' Remember' (ID: 19881), Prob: 0.0000
-Token: ' Imagine' (ID: 37791), Prob: 0.0000
-Token: ' Source' (ID: 8748), Prob: 0.0000
-Token: ' Amy' (ID: 28693), Prob: 0.0000
-Token: ' Structure' (ID: 28596), Prob: 0.0000
+Token: ' episode' (ID: 9234), Prob: 0.4375
+Token: ' role' (ID: 3476), Prob: 0.3867
+Token: ' third' (ID: 4843), Prob: 0.0359
+Token: ' fourth' (ID: 11737), Prob: 0.0193
+Token: ' second' (ID: 2086), Prob: 0.0103
+Token: ' title' (ID: 2265), Prob: 0.0091
+Token: ' episodes' (ID: 17770), Prob: 0.0091
+Token: ' series' (ID: 4013), Prob: 0.0071
+Token: ' fifth' (ID: 17702), Prob: 0.0063
+Token: ' sixth' (ID: 25031), Prob: 0.0049
+Token: ' first' (ID: 1156), Prob: 0.0033
+Token: ' part' (ID: 949), Prob: 0.0029
+Token: ' recurring' (ID: 45250), Prob: 0.0026
+Token: ' final' (ID: 1590), Prob: 0.0023
+Token: ' season' (ID: 3200), Prob: 0.0023
+Token: ' character' (ID: 3668), Prob: 0.0018
+Token: ' comedy' (ID: 22358), Prob: 0.0016
+Token: ' lead' (ID: 2990), Prob: 0.0014
+Token: ' pilot' (ID: 17708), Prob: 0.0010
+Token: ' same' (ID: 1852), Prob: 0.0008
+Token: ' short' (ID: 2805), Prob: 0.0007
+Token: ' guest' (ID: 8640), Prob: 0.0007
+Token: ' three' (ID: 2326), Prob: 0.0006
+Token: ' middle' (ID: 6149), Prob: 0.0006
+Token: ' UK' (ID: 6424), Prob: 0.0006
+Token: ' television' (ID: 12425), Prob: 0.0006
+Token: ' supporting' (ID: 12613), Prob: 0.0006
+Token: ' roles' (ID: 12783), Prob: 0.0006
+Token: ' main' (ID: 1887), Prob: 0.0005
+Token: ' spin' (ID: 12616), Prob: 0.0005
+Token: ' BBC' (ID: 18096), Prob: 0.0005
+Token: ' two' (ID: 1378), Prob: 0.0005
+Token: ' tw' (ID: 4384), Prob: 0.0004
+Token: ' Christmas' (ID: 10074), Prob: 0.0004
+Token: ' eighth' (ID: 36377), Prob: 0.0004
+Token: ' cast' (ID: 6311), Prob: 0.0003
+Token: ' seventh' (ID: 30387), Prob: 0.0003
+Token: ' tenth' (ID: 55666), Prob: 0.0003
+Token: ' British' (ID: 7855), Prob: 0.0003
+Token: ' central' (ID: 8622), Prob: 0.0003
+Token: ' pivotal' (ID: 59750), Prob: 0.0003
+Token: ' sitcom' (ID: 80366), Prob: 0.0003
+Token: ' TV' (ID: 5883), Prob: 0.0002
+Token: ' four' (ID: 3040), Prob: 0.0002
+Token: ' Role' (ID: 15404), Prob: 0.0002
+Token: ' Third' (ID: 20861), Prob: 0.0002
+Token: ' show' (ID: 1473), Prob: 0.0002
+Token: ' United' (ID: 3639), Prob: 0.0002
+Token: ' early' (ID: 4124), Prob: 0.0002
+Token: ' six' (ID: 4743), Prob: 0.0002
+Token: ' political' (ID: 4948), Prob: 0.0002
+Token: ' fictional' (ID: 43582), Prob: 0.0002
+Token: ' mid' (ID: 5099), Prob: 0.0001
+Token: ' leading' (ID: 6388), Prob: 0.0001
+Token: ' department' (ID: 9292), Prob: 0.0001
+Token: ' ele' (ID: 10510), Prob: 0.0001
+Token: ' Season' (ID: 14263), Prob: 0.0001
+Token: ' sequel' (ID: 34761), Prob: 0.0001
+Token: ' storyline' (ID: 50628), Prob: 0.0001
+Token: ' animated' (ID: 11371), Prob: 0.0001
+Token: ' twenty' (ID: 17073), Prob: 0.0001
+Token: ' starring' (ID: 39400), Prob: 0.0001
+Token: ' comedic' (ID: 94371), Prob: 0.0001
+Token: ' min' (ID: 1308), Prob: 0.0001
+Token: ' later' (ID: 2937), Prob: 0.0001
+Token: ' London' (ID: 7148), Prob: 0.0001
+Token: ' mini' (ID: 13420), Prob: 0.0001
+Token: ' story' (ID: 3364), Prob: 0.0001
+Token: ' ninth' (ID: 42541), Prob: 0.0001
+Token: ' US' (ID: 2274), Prob: 0.0001
+Token: ' following' (ID: 2701), Prob: 0.0001
+Token: ' film' (ID: 4531), Prob: 0.0001
+Token: ' regular' (ID: 5792), Prob: 0.0001
+Token: ' drama' (ID: 19584), Prob: 0.0001
+Token: ' ensemble' (ID: 39026), Prob: 0.0001
+Token: ' run' (ID: 1598), Prob: 0.0001
+Token: ' programme' (ID: 18136), Prob: 0.0001
+Token: ' portrayal' (ID: 73933), Prob: 0.0001
+Token: ' titular' (ID: 80105), Prob: 0.0001
+Token: ' Canadian' (ID: 11888), Prob: 0.0001
+Token: ' finale' (ID: 36298), Prob: 0.0001
+Token: ' D' (ID: 422), Prob: 0.0001
+Token: ' eight' (ID: 8063), Prob: 0.0001
+Token: ' minor' (ID: 8922), Prob: 0.0001
+Token: ' comic' (ID: 19724), Prob: 0.0001
+Token: ' the' (ID: 279), Prob: 0.0001
+Token: ' side' (ID: 3108), Prob: 0.0001
+Token: ' Second' (ID: 10440), Prob: 0.0001
+Token: ' companion' (ID: 21741), Prob: 0.0001
 
 == Ranked Concepts (Clusters) ==
-Rank 1 | Centroid: ' Since' | Score: 0.0015
-  Tokens: [' Let', ' Since', ' However', ' Given']
-Rank 2 | Centroid: ' Start' | Score: 0.0007
-  Tokens: [' Start', ' Starting', ' Started', ' Starts', ' Starter', ' Begin', ' start']
-Rank 3 | Centroid: ' Original' | Score: 0.0005
-  Tokens: [' Original', 'Original', ' Originally', ' original']
-Rank 4 | Centroid: ' Okay' | Score: 0.0001
-  Tokens: [' Hmm', ' Alright', ' Got', ' Okay']
-Rank 5 | Centroid: ' Maybe' | Score: 0.0000
-  Tokens: [' Maybe', ' Please', ' Looking', ' Probably', ' Suppose', ' Remember', ' Imagine']
-Rank 6 | Centroid: ' User' | Score: 0.0000
-  Tokens: [' User', ' Owner', ' Users']
-Rank 7 | Centroid: ' Wait' | Score: 0.0000
-  Tokens: [' Wait']
-Rank 8 | Centroid: ' Make' | Score: 0.0000
-  Tokens: [' Make', ' Keep', ' Get', ' Take', ' Find', ' Break']
-Rank 9 | Centroid: ' Time' | Score: 0.0000
-  Tokens: [' Time', ' Task', ' Title']
-Rank 10 | Centroid: ' Person' | Score: 0.0000
-  Tokens: [' Person', ' People', ' Personal']
-Rank 11 | Centroid: ' Good' | Score: 0.0000
-  Tokens: [' Well', ' Proper', ' Self', ' Good']
-Rank 12 | Centroid: ' Story' | Score: 0.0000
-  Tokens: [' Story', ' Source']
-Rank 13 | Centroid: ' Grammar' | Score: 0.0000
-  Tokens: [' Context', ' Community', ' Paragraph', ' Grammar', ' Amy', ' Structure']
-Rank 14 | Centroid: ' Main' | Score: 0.0000
-  Tokens: [' Main', ' Traditional', ' Short']
-Rank 15 | Centroid: ' Initially' | Score: 0.0000
-  Tokens: [' Initially', ' Initial']
-Rank 16 | Centroid: ' Existing' | Score: 0.0000
-  Tokens: [' Existing', ' Available']
-Rank 17 | Centroid: ' Comb' | Score: 0.0000
-  Tokens: [' Comb']
-Rank 18 | Centroid: ' Place' | Score: 0.0000
-  Tokens: [' Place']
+Rank 1 | Centroid: ' episodes' | Score: 0.4551
+  Tokens: [' episode', ' episodes', ' series', ' pilot']
+Rank 2 | Centroid: ' role' | Score: 0.3867
+  Tokens: [' role', ' roles', ' Role']
+Rank 3 | Centroid: ' fifth' | Score: 0.0781
+  Tokens: [' third', ' fourth', ' second', ' fifth', ' sixth', ' eighth', ' seventh', ' tenth', ' Third', ' ninth', ' Second']
+Rank 4 | Centroid: ' title' | Score: 0.0099
+  Tokens: [' title', ' supporting', ' sequel', ' titular', ' companion']
+Rank 5 | Centroid: ' the' | Score: 0.0090
+  Tokens: [' first', ' part', ' same', ' short', ' main', ' show', ' following', ' regular', ' D', ' the', ' side']
+Rank 6 | Centroid: ' ensemble' | Score: 0.0054
+  Tokens: [' recurring', ' character', ' guest', ' department', ' ensemble', ' programme']
+Rank 7 | Centroid: ' comedy' | Score: 0.0029
+  Tokens: [' comedy', ' sitcom', ' fictional', ' storyline', ' animated', ' starring', ' comedic', ' story', ' drama', ' portrayal', ' comic']
+Rank 8 | Centroid: ' season' | Score: 0.0025
+  Tokens: [' season', ' Season']
+Rank 9 | Centroid: ' final' | Score: 0.0024
+  Tokens: [' final', ' finale']
+Rank 10 | Centroid: ' four' | Score: 0.0020
+  Tokens: [' three', ' two', ' tw', ' four', ' six', ' twenty', ' eight']
+Rank 11 | Centroid: ' lead' | Score: 0.0019
+  Tokens: [' lead', ' cast', ' leading', ' run']
+Rank 12 | Centroid: ' UK' | Score: 0.0018
+  Tokens: [' UK', ' BBC', ' British', ' United', ' London', ' US', ' Canadian']
+Rank 13 | Centroid: ' mid' | Score: 0.0013
+  Tokens: [' middle', ' central', ' early', ' mid', ' later']
+Rank 14 | Centroid: ' television' | Score: 0.0009
+  Tokens: [' television', ' TV', ' film']
+Rank 15 | Centroid: ' spin' | Score: 0.0008
+  Tokens: [' spin', ' pivotal']
+Rank 16 | Centroid: ' Christmas' | Score: 0.0006
+  Tokens: [' Christmas', ' political']
+Rank 17 | Centroid: ' mini' | Score: 0.0003
+  Tokens: [' min', ' mini', ' minor']
+Rank 18 | Centroid: ' ele' | Score: 0.0001
+  Tokens: [' ele']
 
 **Chosen Concept:** Rank 1

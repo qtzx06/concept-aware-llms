@@ -1,83 +1,147 @@
 --- Step 25 Log ---
 
 == Filtered Candidates ==
-Token: ' Key' (ID: 5309), Prob: 0.0007
-Token: ' Let' (ID: 6771), Prob: 0.0005
-Token: ' Main' (ID: 4697), Prob: 0.0001
-Token: ' Start' (ID: 5145), Prob: 0.0001
-Token: ' Original' (ID: 17230), Prob: 0.0001
-Token: ' Person' (ID: 7357), Prob: 0.0001
-Token: ' Hmm' (ID: 88190), Prob: 0.0000
-Token: ' Two' (ID: 9043), Prob: 0.0000
-Token: ' Maybe' (ID: 10696), Prob: 0.0000
-Token: '"He' (ID: 26326), Prob: 0.0000
-Token: ' Starting' (ID: 27657), Prob: 0.0000
-Token: ' Someone' (ID: 34172), Prob: 0.0000
-Token: ' User' (ID: 2657), Prob: 0.0000
-Token: ' Starts' (ID: 47728), Prob: 0.0000
-Token: ' Henry' (ID: 17599), Prob: 0.0000
-Token: ' Heath' (ID: 47462), Prob: 0.0000
-Token: ' People' (ID: 8853), Prob: 0.0000
-Token: ' Heather' (ID: 46263), Prob: 0.0000
-Token: ' Highlight' (ID: 55994), Prob: 0.0000
-Token: ' Got' (ID: 24528), Prob: 0.0000
-Token: ' Wait' (ID: 13824), Prob: 0.0000
-Token: ' Three' (ID: 14513), Prob: 0.0000
-Token: ' Important' (ID: 43821), Prob: 0.0000
-Token: ' Says' (ID: 46459), Prob: 0.0000
-Token: ' Mention' (ID: 85148), Prob: 0.0000
-Token: ' Sentence' (ID: 79542), Prob: 0.0000
-Token: ' First' (ID: 5512), Prob: 0.0000
-Token: ' John' (ID: 3757), Prob: 0.0000
-Token: ' Points' (ID: 20725), Prob: 0.0000
-Token: ' Okay' (ID: 35439), Prob: 0.0000
-Token: ' Alright' (ID: 97593), Prob: 0.0000
-Token: ' Speaker' (ID: 29073), Prob: 0.0000
-Token: ' Initially' (ID: 58556), Prob: 0.0000
-Token: ' Highlights' (ID: 52200), Prob: 0.0000
-Token: ' Time' (ID: 4120), Prob: 0.0000
-Token: ' Words' (ID: 27630), Prob: 0.0000
-Token: ' Begins' (ID: 91308), Prob: 0.0000
-Token: ' Find' (ID: 7379), Prob: 0.0000
-Token: ' Notes' (ID: 18068), Prob: 0.0000
-Token: ' Started' (ID: 35812), Prob: 0.0000
-Token: ' Scene' (ID: 17494), Prob: 0.0000
-Token: ' Notice' (ID: 24742), Prob: 0.0000
-Token: ' Well' (ID: 8325), Prob: 0.0000
-Token: ' Found' (ID: 12315), Prob: 0.0000
+Token: ' also' (ID: 1083), Prob: 0.3223
+Token: ' appeared' (ID: 9723), Prob: 0.2217
+Token: ' was' (ID: 572), Prob: 0.1348
+Token: ' played' (ID: 6342), Prob: 0.1348
+Token: ' starred' (ID: 58235), Prob: 0.0496
+Token: ' had' (ID: 1030), Prob: 0.0234
+Token: ' made' (ID: 1865), Prob: 0.0206
+Token: ' guest' (ID: 8640), Prob: 0.0142
+Token: ' portrayed' (ID: 44777), Prob: 0.0110
+Token: ' did' (ID: 1521), Prob: 0.0098
+Token: ' performed' (ID: 10660), Prob: 0.0098
+Token: ' joined' (ID: 10859), Prob: 0.0076
+Token: ' took' (ID: 3867), Prob: 0.0067
+Token: ' co' (ID: 1062), Prob: 0.0028
+Token: ' repr' (ID: 30636), Prob: 0.0028
+Token: ' acted' (ID: 30432), Prob: 0.0025
+Token: ' returned' (ID: 5927), Prob: 0.0012
+Token: ' wrote' (ID: 6139), Prob: 0.0010
+Token: ' worked' (ID: 6439), Prob: 0.0010
+Token: ' featured' (ID: 14766), Prob: 0.0010
+Token: ' became' (ID: 6116), Prob: 0.0009
+Token: ' won' (ID: 2765), Prob: 0.0008
+Token: ' completed' (ID: 8145), Prob: 0.0008
+Token: ' re' (ID: 312), Prob: 0.0007
+Token: ' began' (ID: 6009), Prob: 0.0007
+Token: ' participated' (ID: 30308), Prob: 0.0007
+Token: ' started' (ID: 3855), Prob: 0.0006
+Token: ' received' (ID: 3949), Prob: 0.0006
+Token: ' released' (ID: 5880), Prob: 0.0006
+Token: ' provided' (ID: 3897), Prob: 0.0005
+Token: ' directed' (ID: 15540), Prob: 0.0005
+Token: ' contributed' (ID: 19590), Prob: 0.0004
+Token: ' got' (ID: 2684), Prob: 0.0003
+Token: ' gave' (ID: 6551), Prob: 0.0003
+Token: ' voiced' (ID: 51368), Prob: 0.0003
+Token: ' again' (ID: 1549), Prob: 0.0003
+Token: ' appears' (ID: 7952), Prob: 0.0002
+Token: ' continued' (ID: 8570), Prob: 0.0002
+Token: ' produced' (ID: 8947), Prob: 0.0002
+Token: ' landed' (ID: 26120), Prob: 0.0002
+Token: ' filmed' (ID: 41408), Prob: 0.0002
+Token: ' finished' (ID: 8060), Prob: 0.0002
+Token: ' presented' (ID: 10449), Prob: 0.0002
+Token: ' gained' (ID: 18163), Prob: 0.0002
+Token: ' attended' (ID: 18178), Prob: 0.0002
+Token: ' audition' (ID: 61888), Prob: 0.0002
+Token: ' signed' (ID: 8499), Prob: 0.0002
+Token: ' served' (ID: 10223), Prob: 0.0002
+Token: ' married' (ID: 12224), Prob: 0.0002
+Token: ' represented' (ID: 15251), Prob: 0.0002
+Token: ' hosted' (ID: 21009), Prob: 0.0002
+Token: ' came' (ID: 3697), Prob: 0.0002
+Token: ' supported' (ID: 7248), Prob: 0.0001
+Token: ' lent' (ID: 47807), Prob: 0.0001
+Token: ' would' (ID: 1035), Prob: 0.0001
+Token: ' went' (ID: 3937), Prob: 0.0001
+Token: ' star' (ID: 6774), Prob: 0.0001
+Token: ' appear' (ID: 4994), Prob: 0.0001
+Token: ' recorded' (ID: 12433), Prob: 0.0001
+Token: ' earned' (ID: 15303), Prob: 0.0001
+Token: ' competed' (ID: 66135), Prob: 0.0001
+Token: ' collaborated' (ID: 77074), Prob: 0.0001
+Token: ' and' (ID: 323), Prob: 0.0001
+Token: ' has' (ID: 702), Prob: 0.0001
+Token: ' were' (ID: 1033), Prob: 0.0001
+Token: ' found' (ID: 1730), Prob: 0.0001
+Token: ' moved' (ID: 7726), Prob: 0.0001
+Token: ' sang' (ID: 28240), Prob: 0.0001
+Token: ' then' (ID: 1221), Prob: 0.0001
+Token: ' left' (ID: 2115), Prob: 0.0001
+Token: ' created' (ID: 3465), Prob: 0.0001
+Token: ' cast' (ID: 6311), Prob: 0.0001
+Token: ' first' (ID: 1156), Prob: 0.0001
+Token: ' helped' (ID: 8910), Prob: 0.0001
+Token: ' stars' (ID: 9759), Prob: 0.0001
+Token: ' toured' (ID: 90613), Prob: 0.0001
+Token: ' read' (ID: 1349), Prob: 0.0001
+Token: ' held' (ID: 5644), Prob: 0.0001
+Token: ' repeated' (ID: 11504), Prob: 0.0001
+Token: ' embarked' (ID: 78020), Prob: 0.0001
+Token: ' added' (ID: 3694), Prob: 0.0001
+Token: ' turned' (ID: 6519), Prob: 0.0001
+Token: ' Also' (ID: 7281), Prob: 0.0001
+Token: ' entered' (ID: 10636), Prob: 0.0001
+Token: ' replaced' (ID: 12575), Prob: 0.0001
+Token: ' formed' (ID: 14122), Prob: 0.0001
+Token: ' scored' (ID: 16548), Prob: 0.0001
+Token: ' composed' (ID: 23415), Prob: 0.0001
+Token: ' briefly' (ID: 26753), Prob: 0.0001
+Token: ' as' (ID: 438), Prob: 0.0000
 
 == Ranked Concepts (Clusters) ==
-Rank 1 | Centroid: ' Key' | Score: 0.0008
-  Tokens: [' Key', ' Main', ' Time']
-Rank 2 | Centroid: ' Wait' | Score: 0.0005
-  Tokens: [' Let', ' Wait', ' Well']
-Rank 3 | Centroid: ' Starts' | Score: 0.0001
-  Tokens: [' Start', ' Starting', ' Starts', ' Begins', ' Started']
-Rank 4 | Centroid: ' People' | Score: 0.0001
-  Tokens: [' Person', ' Someone', ' User', ' People']
-Rank 5 | Centroid: ' Original' | Score: 0.0001
-  Tokens: [' Original', ' Initially']
-Rank 6 | Centroid: ' Okay' | Score: 0.0001
-  Tokens: [' Hmm', ' Maybe', ' Okay', ' Alright']
-Rank 7 | Centroid: ' Two' | Score: 0.0000
-  Tokens: [' Two', ' Three', ' First']
-Rank 8 | Centroid: ' Heather' | Score: 0.0000
-  Tokens: [' Henry', ' Heath', ' Heather', ' John']
-Rank 9 | Centroid: '"He' | Score: 0.0000
-  Tokens: ['"He']
-Rank 10 | Centroid: ' Highlight' | Score: 0.0000
-  Tokens: [' Highlight', ' Important', ' Highlights']
-Rank 11 | Centroid: ' Says' | Score: 0.0000
-  Tokens: [' Says', ' Mention']
-Rank 12 | Centroid: ' Sentence' | Score: 0.0000
-  Tokens: [' Sentence', ' Speaker', ' Scene']
-Rank 13 | Centroid: ' Got' | Score: 0.0000
-  Tokens: [' Got']
-Rank 14 | Centroid: ' Points' | Score: 0.0000
-  Tokens: [' Points', ' Words']
-Rank 15 | Centroid: ' Notes' | Score: 0.0000
-  Tokens: [' Notes', ' Notice']
-Rank 16 | Centroid: ' Find' | Score: 0.0000
-  Tokens: [' Find', ' Found']
+Rank 1 | Centroid: ' also' | Score: 0.3223
+  Tokens: [' also', ' again', ' then', ' Also', ' briefly']
+Rank 2 | Centroid: ' appear' | Score: 0.2217
+  Tokens: [' appeared', ' appears', ' appear']
+Rank 3 | Centroid: ' was' | Score: 0.1680
+  Tokens: [' was', ' had', ' did', ' would', ' has', ' were']
+Rank 4 | Centroid: ' helped' | Score: 0.1387
+  Tokens: [' played', ' acted', ' worked', ' contributed', ' served', ' helped']
+Rank 5 | Centroid: ' stars' | Score: 0.0498
+  Tokens: [' starred', ' star', ' stars']
+Rank 6 | Centroid: ' created' | Score: 0.0315
+  Tokens: [' made', ' performed', ' released', ' produced', ' created', ' formed', ' composed']
+Rank 7 | Centroid: ' guest' | Score: 0.0152
+  Tokens: [' guest', ' featured']
+Rank 8 | Centroid: ' presented' | Score: 0.0119
+  Tokens: [' portrayed', ' provided', ' presented', ' represented']
+Rank 9 | Centroid: ' began' | Score: 0.0108
+  Tokens: [' took', ' wrote', ' became', ' began', ' started', ' got', ' gave', ' came', ' went']
+Rank 10 | Centroid: ' completed' | Score: 0.0088
+  Tokens: [' joined', ' completed', ' finished', ' married']
+Rank 11 | Centroid: ' and' | Score: 0.0039
+  Tokens: [' co', ' re', ' and', ' left', ' first', ' read', ' as']
+Rank 12 | Centroid: ' repr' | Score: 0.0028
+  Tokens: [' repr']
+Rank 13 | Centroid: ' recorded' | Score: 0.0013
+  Tokens: [' directed', ' voiced', ' filmed', ' signed', ' recorded']
+Rank 14 | Centroid: ' returned' | Score: 0.0012
+  Tokens: [' returned', ' entered']
+Rank 15 | Centroid: ' participated' | Score: 0.0011
+  Tokens: [' participated', ' attended', ' competed', ' collaborated']
+Rank 16 | Centroid: ' gained' | Score: 0.0009
+  Tokens: [' received', ' gained', ' earned']
+Rank 17 | Centroid: ' won' | Score: 0.0008
+  Tokens: [' won']
+Rank 18 | Centroid: ' embarked' | Score: 0.0006
+  Tokens: [' landed', ' audition', ' toured', ' embarked']
+Rank 19 | Centroid: ' hosted' | Score: 0.0004
+  Tokens: [' hosted', ' supported', ' held']
+Rank 20 | Centroid: ' continued' | Score: 0.0003
+  Tokens: [' continued', ' repeated']
+Rank 21 | Centroid: ' moved' | Score: 0.0002
+  Tokens: [' moved', ' added', ' turned', ' replaced']
+Rank 22 | Centroid: ' lent' | Score: 0.0002
+  Tokens: [' lent', ' sang']
+Rank 23 | Centroid: ' found' | Score: 0.0001
+  Tokens: [' found']
+Rank 24 | Centroid: ' cast' | Score: 0.0001
+  Tokens: [' cast']
+Rank 25 | Centroid: ' scored' | Score: 0.0001
+  Tokens: [' scored']
 
 **Chosen Concept:** Rank 1

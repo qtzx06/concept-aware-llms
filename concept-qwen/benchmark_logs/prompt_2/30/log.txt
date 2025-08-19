@@ -1,109 +1,113 @@
 --- Step 30 Log ---
 
 == Filtered Candidates ==
-Token: ' like' (ID: 1075), Prob: 0.0229
-Token: ' sentence' (ID: 11652), Prob: 0.0179
-Token: ' similar' (ID: 4428), Prob: 0.0021
-Token: ' mentioning' (ID: 44291), Prob: 0.0015
-Token: ' involving' (ID: 15860), Prob: 0.0007
-Token: ' line' (ID: 1555), Prob: 0.0006
-Token: ' describing' (ID: 22692), Prob: 0.0005
-Token: ' related' (ID: 5435), Prob: 0.0005
-Token: ' paragraph' (ID: 14311), Prob: 0.0004
-Token: ' around' (ID: 2163), Prob: 0.0003
-Token: ' introducing' (ID: 31918), Prob: 0.0003
-Token: ' scene' (ID: 6109), Prob: 0.0002
-Token: ' statement' (ID: 5114), Prob: 0.0001
-Token: ' showing' (ID: 9027), Prob: 0.0001
-Token: ' regarding' (ID: 8826), Prob: 0.0001
-Token: ' mention' (ID: 6286), Prob: 0.0001
-Token: ' event' (ID: 1538), Prob: 0.0001
-Token: ' description' (ID: 4008), Prob: 0.0001
-Token: ' detail' (ID: 7716), Prob: 0.0001
-Token: ' using' (ID: 1667), Prob: 0.0000
-Token: ' talking' (ID: 7404), Prob: 0.0000
-Token: ' scenario' (ID: 15048), Prob: 0.0000
-Token: ' phrase' (ID: 17133), Prob: 0.0000
-Token: ' part' (ID: 949), Prob: 0.0000
-Token: ' hook' (ID: 9704), Prob: 0.0000
-Token: ' story' (ID: 3364), Prob: 0.0000
-Token: ' highlighting' (ID: 38586), Prob: 0.0000
-Token: ' word' (ID: 3409), Prob: 0.0000
-Token: ' stating' (ID: 27798), Prob: 0.0000
-Token: ' comparing' (ID: 26297), Prob: 0.0000
-Token: ' details' (ID: 3565), Prob: 0.0000
-Token: ' explaining' (ID: 25021), Prob: 0.0000
-Token: ' first' (ID: 1156), Prob: 0.0000
-Token: ' bringing' (ID: 12678), Prob: 0.0000
-Token: ' moment' (ID: 4445), Prob: 0.0000
-Token: ' time' (ID: 882), Prob: 0.0000
-Token: '-like' (ID: 12681), Prob: 0.0000
-Token: '—the' (ID: 21677), Prob: 0.0000
-Token: ' detailing' (ID: 44193), Prob: 0.0000
-Token: ' metaphor' (ID: 45350), Prob: 0.0000
-Token: ' point' (ID: 1459), Prob: 0.0000
-Token: ' saying' (ID: 5488), Prob: 0.0000
-Token: ' telling' (ID: 11629), Prob: 0.0000
-Token: ' typical' (ID: 14260), Prob: 0.0000
-Token: ' giving' (ID: 7086), Prob: 0.0000
-Token: ' since' (ID: 2474), Prob: 0.0000
-Token: ' something' (ID: 2494), Prob: 0.0000
-Token: ' making' (ID: 3259), Prob: 0.0000
-Token: ' relevant' (ID: 9760), Prob: 0.0000
-Token: ' meeting' (ID: 6438), Prob: 0.0000
-Token: ' providing' (ID: 8241), Prob: 0.0000
-Token: ' sentences' (ID: 22870), Prob: 0.0000
-Token: ' action' (ID: 1917), Prob: 0.0000
-Token: ' familiar' (ID: 11285), Prob: 0.0000
-Token: ' summary' (ID: 12126), Prob: 0.0000
-Token: ' relating' (ID: 22527), Prob: 0.0000
-Token: ' present' (ID: 3042), Prob: 0.0000
-Token: ' discussing' (ID: 24392), Prob: 0.0000
-Token: ' topic' (ID: 8544), Prob: 0.0000
-Token: ' including' (ID: 2670), Prob: 0.0000
-Token: ' setting' (ID: 6243), Prob: 0.0000
-Token: ' situation' (ID: 6534), Prob: 0.0000
-Token: ' capturing' (ID: 39780), Prob: 0.0000
-Token: ' vivid' (ID: 42020), Prob: 0.0000
+Token: ' In' (ID: 758), Prob: 0.2910
+Token: ' He' (ID: 1260), Prob: 0.2275
+Token: ' B' (ID: 425), Prob: 0.0737
+Token: ' The' (ID: 576), Prob: 0.0271
+Token: ' His' (ID: 5301), Prob: 0.0211
+Token: ' This' (ID: 1096), Prob: 0.0100
+Token: ' That' (ID: 2938), Prob: 0.0088
+Token: ' After' (ID: 4636), Prob: 0.0088
+Token: ' Later' (ID: 24885), Prob: 0.0078
+Token: ' As' (ID: 1634), Prob: 0.0047
+Token: ' During' (ID: 11954), Prob: 0.0047
+Token: ' A' (ID: 362), Prob: 0.0042
+Token: ' At' (ID: 2411), Prob: 0.0042
+Token: ' Then' (ID: 5005), Prob: 0.0032
+Token: ' Also' (ID: 7281), Prob: 0.0032
+Token: ' It' (ID: 1084), Prob: 0.0022
+Token: ' On' (ID: 1913), Prob: 0.0017
+Token: ' From' (ID: 5542), Prob: 0.0017
+Token: 'In' (ID: 641), Prob: 0.0015
+Token: 'He' (ID: 1519), Prob: 0.0015
+Token: ' How' (ID: 2585), Prob: 0.0015
+Token: ' Between' (ID: 27133), Prob: 0.0015
+Token: ' These' (ID: 4220), Prob: 0.0014
+Token: ' Following' (ID: 22713), Prob: 0.0014
+Token: ' For' (ID: 1752), Prob: 0.0012
+Token: ' Since' (ID: 8704), Prob: 0.0012
+Token: 'B' (ID: 33), Prob: 0.0011
+Token: ' Around' (ID: 32816), Prob: 0.0009
+Token: '2' (ID: 17), Prob: 0.0008
+Token: ' By' (ID: 3216), Prob: 0.0006
+Token: ' However' (ID: 4354), Prob: 0.0006
+Token: ' Wh' (ID: 1232), Prob: 0.0006
+Token: ' There' (ID: 2619), Prob: 0.0006
+Token: ' Finally' (ID: 17375), Prob: 0.0006
+Token: ' Despite' (ID: 17715), Prob: 0.0006
+Token: ' According' (ID: 10548), Prob: 0.0005
+Token: ' Additionally' (ID: 22406), Prob: 0.0005
+Token: ' While' (ID: 5976), Prob: 0.0004
+Token: ' Two' (ID: 9043), Prob: 0.0004
+Token: ' Another' (ID: 13293), Prob: 0.0004
+Token: ' Outside' (ID: 41151), Prob: 0.0004
+Token: ' What' (ID: 3555), Prob: 0.0004
+Token: ' An' (ID: 1527), Prob: 0.0003
+Token: ' With' (ID: 3085), Prob: 0.0003
+Token: ' When' (ID: 3197), Prob: 0.0003
+Token: ' Other' (ID: 6944), Prob: 0.0003
+Token: ' Sub' (ID: 3719), Prob: 0.0003
+Token: ' One' (ID: 3776), Prob: 0.0002
+Token: ' Next' (ID: 9295), Prob: 0.0002
+Token: 'His' (ID: 15986), Prob: 0.0002
+Token: ' Throughout' (ID: 45882), Prob: 0.0002
+Token: '1' (ID: 16), Prob: 0.0002
+Token: ' I' (ID: 358), Prob: 0.0002
+Token: 'The' (ID: 785), Prob: 0.0002
+Token: ' Through' (ID: 16904), Prob: 0.0002
+Token: 'Later' (ID: 29982), Prob: 0.0002
+Token: ' Prior' (ID: 31399), Prob: 0.0002
+Token: ' Soon' (ID: 31762), Prob: 0.0002
+Token: ' Towards' (ID: 93865), Prob: 0.0002
+Token: ' he' (ID: 566), Prob: 0.0002
+Token: ' Over' (ID: 6065), Prob: 0.0002
+Token: ' Although' (ID: 10328), Prob: 0.0002
+Token: 'During' (ID: 16014), Prob: 0.0002
+Token: ' Before' (ID: 13235), Prob: 0.0002
+Token: ' Eventually' (ID: 37174), Prob: 0.0002
+Token: ' Earlier' (ID: 46893), Prob: 0.0002
+Token: ' in' (ID: 304), Prob: 0.0001
+Token: ' Afterwards' (ID: 86540), Prob: 0.0001
+Token: ' Upon' (ID: 29438), Prob: 0.0001
+Token: ' Tow' (ID: 40393), Prob: 0.0001
+Token: ' Meanwhile' (ID: 25894), Prob: 0.0001
+Token: ' Though' (ID: 17594), Prob: 0.0001
 
 == Ranked Concepts (Clusters) ==
-Rank 1 | Centroid: '-like' | Score: 0.0251
-  Tokens: [' like', ' similar', '-like', ' something']
-Rank 2 | Centroid: ' sentence' | Score: 0.0186
-  Tokens: [' sentence', ' paragraph', ' statement', ' phrase', ' word', ' sentences']
-Rank 3 | Centroid: ' mentioning' | Score: 0.0015
-  Tokens: [' mentioning', ' mention']
-Rank 4 | Centroid: ' relating' | Score: 0.0013
-  Tokens: [' involving', ' related', ' regarding', ' relevant', ' relating']
-Rank 5 | Centroid: ' hook' | Score: 0.0008
-  Tokens: [' line', ' event', ' hook', ' moment', ' time', ' point', ' action']
-Rank 6 | Centroid: ' stating' | Score: 0.0008
-  Tokens: [' describing', ' showing', ' highlighting', ' stating', ' explaining', ' saying', ' telling']
-Rank 7 | Centroid: ' using' | Score: 0.0004
-  Tokens: [' around', ' using', ' since', ' including']
-Rank 8 | Centroid: ' providing' | Score: 0.0004
-  Tokens: [' introducing', ' bringing', ' giving', ' making', ' providing', ' capturing']
-Rank 9 | Centroid: ' scenario' | Score: 0.0003
-  Tokens: [' scene', ' scenario', ' situation']
-Rank 10 | Centroid: ' details' | Score: 0.0001
-  Tokens: [' detail', ' details', ' detailing']
-Rank 11 | Centroid: ' discussing' | Score: 0.0001
-  Tokens: [' talking', ' comparing', ' discussing']
-Rank 12 | Centroid: ' description' | Score: 0.0001
-  Tokens: [' description', ' summary']
-Rank 13 | Centroid: ' first' | Score: 0.0001
-  Tokens: [' part', ' first', ' present']
-Rank 14 | Centroid: ' vivid' | Score: 0.0000
-  Tokens: [' metaphor', ' typical', ' familiar', ' vivid']
-Rank 15 | Centroid: ' story' | Score: 0.0000
-  Tokens: [' story']
-Rank 16 | Centroid: '—the' | Score: 0.0000
-  Tokens: ['—the']
-Rank 17 | Centroid: ' meeting' | Score: 0.0000
-  Tokens: [' meeting']
-Rank 18 | Centroid: ' topic' | Score: 0.0000
-  Tokens: [' topic']
-Rank 19 | Centroid: ' setting' | Score: 0.0000
-  Tokens: [' setting']
+Rank 1 | Centroid: ' in' | Score: 0.2988
+  Tokens: [' In', ' A', 'In', '2', '1', ' I', ' in']
+Rank 2 | Centroid: ' He' | Score: 0.2500
+  Tokens: [' He', ' His', 'He', 'His', ' he']
+Rank 3 | Centroid: ' B' | Score: 0.0757
+  Tokens: [' B', 'B', ' Wh', ' Sub']
+Rank 4 | Centroid: ' This' | Score: 0.0527
+  Tokens: [' The', ' This', ' That', ' It', ' How', ' These', ' However', ' There', ' What', 'The']
+Rank 5 | Centroid: ' For' | Score: 0.0145
+  Tokens: [' As', ' At', ' On', ' From', ' For', ' By', ' With']
+Rank 6 | Centroid: ' After' | Score: 0.0089
+  Tokens: [' After', ' Upon']
+Rank 7 | Centroid: ' During' | Score: 0.0082
+  Tokens: [' During', ' Between', ' Around', ' Outside', ' Throughout', ' Through', 'During']
+Rank 8 | Centroid: ' Later' | Score: 0.0082
+  Tokens: [' Later', 'Later', ' Earlier']
+Rank 9 | Centroid: ' Additionally' | Score: 0.0077
+  Tokens: [' Then', ' Also', ' Finally', ' Additionally', ' Meanwhile']
+Rank 10 | Centroid: ' Although' | Score: 0.0033
+  Tokens: [' Since', ' Despite', ' According', ' While', ' When', ' Although', ' Though']
+Rank 11 | Centroid: ' Before' | Score: 0.0017
+  Tokens: [' Following', ' Prior', ' Before']
+Rank 12 | Centroid: ' One' | Score: 0.0014
+  Tokens: [' Two', ' Another', ' Other', ' One']
+Rank 13 | Centroid: ' Eventually' | Score: 0.0005
+  Tokens: [' Soon', ' Eventually', ' Afterwards']
+Rank 14 | Centroid: ' An' | Score: 0.0003
+  Tokens: [' An']
+Rank 15 | Centroid: ' Towards' | Score: 0.0003
+  Tokens: [' Towards', ' Tow']
+Rank 16 | Centroid: ' Next' | Score: 0.0002
+  Tokens: [' Next']
+Rank 17 | Centroid: ' Over' | Score: 0.0002
+  Tokens: [' Over']
 
 **Chosen Concept:** Rank 1

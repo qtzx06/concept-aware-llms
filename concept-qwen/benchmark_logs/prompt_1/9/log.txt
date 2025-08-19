@@ -1,105 +1,146 @@
 --- Step 9 Log ---
 
 == Filtered Candidates ==
-Token: ' one' (ID: 825), Prob: 0.2002
-Token: ' two' (ID: 1378), Prob: 0.0393
-Token: ' set' (ID: 738), Prob: 0.0060
-Token: ' use' (ID: 990), Prob: 0.0053
-Token: ' characters' (ID: 5766), Prob: 0.0044
-Token: ' show' (ID: 1473), Prob: 0.0037
-Token: ' must' (ID: 1969), Prob: 0.0037
-Token: ' three' (ID: 2326), Prob: 0.0037
-Token: ' named' (ID: 6941), Prob: 0.0032
-Token: ' describe' (ID: 7512), Prob: 0.0032
-Token: ' dialogue' (ID: 21276), Prob: 0.0032
-Token: ' develop' (ID: 2225), Prob: 0.0030
-Token: ' either' (ID: 2987), Prob: 0.0025
-Token: ' present' (ID: 3042), Prob: 0.0025
-Token: ' male' (ID: 8593), Prob: 0.0025
-Token: ' first' (ID: 1156), Prob: 0.0022
-Token: ' distinct' (ID: 12460), Prob: 0.0022
-Token: ' character' (ID: 3668), Prob: 0.0021
-Token: ' using' (ID: 1667), Prob: 0.0016
-Token: ' including' (ID: 2670), Prob: 0.0015
-Token: ' clearly' (ID: 9355), Prob: 0.0015
-Token: ' include' (ID: 2924), Prob: 0.0014
-Token: ' whose' (ID: 6693), Prob: 0.0014
-Token: ' introduce' (ID: 19131), Prob: 0.0014
-Token: ' different' (ID: 2155), Prob: 0.0014
-Token: ' written' (ID: 5326), Prob: 0.0014
-Token: ' perhaps' (ID: 8365), Prob: 0.0012
-Token: ' separated' (ID: 18663), Prob: 0.0012
-Token: ' female' (ID: 8778), Prob: 0.0011
-Token: ' create' (ID: 1855), Prob: 0.0011
-Token: ' showing' (ID: 9027), Prob: 0.0009
-Token: ' make' (ID: 1281), Prob: 0.0009
-Token: ' Alice' (ID: 29405), Prob: 0.0009
-Token: ' conflict' (ID: 12055), Prob: 0.0008
-Token: ' every' (ID: 1449), Prob: 0.0008
-Token: ' someone' (ID: 4325), Prob: 0.0008
-Token: ' spoken' (ID: 21355), Prob: 0.0008
-Token: ' establish' (ID: 5695), Prob: 0.0007
-Token: ' protagonist' (ID: 45584), Prob: 0.0007
-Token: ' provide' (ID: 3410), Prob: 0.0006
-Token: ' neither' (ID: 13866), Prob: 0.0006
-Token: ' based' (ID: 3118), Prob: 0.0006
-Token: ' possibly' (ID: 10767), Prob: 0.0006
-Token: ' centered' (ID: 30188), Prob: 0.0006
-Token: ' protagonists' (ID: 94635), Prob: 0.0006
-Token: ' like' (ID: 1075), Prob: 0.0005
-Token: ' non' (ID: 2477), Prob: 0.0005
-Token: ' something' (ID: 2494), Prob: 0.0005
-Token: ' meet' (ID: 3367), Prob: 0.0005
-Token: ' names' (ID: 5036), Prob: 0.0005
-Token: ' living' (ID: 5382), Prob: 0.0005
-Token: ' name' (ID: 829), Prob: 0.0005
-Token: ' plot' (ID: 7089), Prob: 0.0005
-Token: ' maybe' (ID: 7196), Prob: 0.0005
-Token: ' person' (ID: 1697), Prob: 0.0005
-Token: ' clear' (ID: 2797), Prob: 0.0004
-Token: ' shown' (ID: 6839), Prob: 0.0004
-Token: ' supporting' (ID: 12613), Prob: 0.0004
-Token: ' write' (ID: 3270), Prob: 0.0004
-Token: ' tell' (ID: 3291), Prob: 0.0004
-Token: ' beginning' (ID: 7167), Prob: 0.0004
-Token: ' give' (ID: 2968), Prob: 0.0004
+Token: ' The' (ID: 576), Prob: 0.6484
+Token: ' Casual' (ID: 48822), Prob: 0.0251
+Token: ' Doctor' (ID: 18635), Prob: 0.0134
+Token: ' Sherlock' (ID: 60626), Prob: 0.0118
+Token: ' Heart' (ID: 17965), Prob: 0.0060
+Token: ' Top' (ID: 6909), Prob: 0.0041
+Token: ' War' (ID: 5004), Prob: 0.0039
+Token: ' Black' (ID: 5235), Prob: 0.0039
+Token: ' I' (ID: 358), Prob: 0.0034
+Token: ' A' (ID: 362), Prob: 0.0034
+Token: ' Victoria' (ID: 22417), Prob: 0.0034
+Token: ' Cold' (ID: 23185), Prob: 0.0034
+Token: ' My' (ID: 3017), Prob: 0.0032
+Token: ' Out' (ID: 4371), Prob: 0.0032
+Token: ' East' (ID: 6326), Prob: 0.0032
+Token: ' Blue' (ID: 8697), Prob: 0.0028
+Token: ' Death' (ID: 15911), Prob: 0.0028
+Token: ' Blood' (ID: 20070), Prob: 0.0028
+Token: ' Happy' (ID: 23355), Prob: 0.0028
+Token: ' and' (ID: 323), Prob: 0.0027
+Token: ' Red' (ID: 3731), Prob: 0.0022
+Token: ' Four' (ID: 13322), Prob: 0.0022
+Token: ' Big' (ID: 6164), Prob: 0.0021
+Token: ' Coron' (ID: 47083), Prob: 0.0021
+Token: ' School' (ID: 6022), Prob: 0.0017
+Token: ' Life' (ID: 9414), Prob: 0.0017
+Token: ' Past' (ID: 23640), Prob: 0.0016
+Token: ' on' (ID: 389), Prob: 0.0015
+Token: ' D' (ID: 422), Prob: 0.0015
+Token: ' Crime' (ID: 23900), Prob: 0.0015
+Token: ' One' (ID: 3776), Prob: 0.0014
+Token: ' F' (ID: 434), Prob: 0.0013
+Token: ' New' (ID: 1532), Prob: 0.0013
+Token: ' Burn' (ID: 18039), Prob: 0.0012
+Token: ' H' (ID: 472), Prob: 0.0011
+Token: ' Cor' (ID: 4463), Prob: 0.0011
+Token: ' Long' (ID: 5724), Prob: 0.0011
+Token: ' White' (ID: 5807), Prob: 0.0011
+Token: ' Prison' (ID: 41518), Prob: 0.0011
+Token: ' Doctors' (ID: 53843), Prob: 0.0011
+Token: ' Revenge' (ID: 80549), Prob: 0.0011
+Token: ' Kill' (ID: 26835), Prob: 0.0010
+Token: ' Three' (ID: 14513), Prob: 0.0010
+Token: ' Fire' (ID: 6647), Prob: 0.0009
+Token: ' Edge' (ID: 10349), Prob: 0.0009
+Token: ' Dog' (ID: 14254), Prob: 0.0009
+Token: ' Killing' (ID: 69577), Prob: 0.0009
+Token: ' T' (ID: 350), Prob: 0.0009
+Token: ' Two' (ID: 9043), Prob: 0.0009
+Token: ' Lost' (ID: 27252), Prob: 0.0009
+Token: ' in' (ID: 304), Prob: 0.0008
+Token: ' No' (ID: 2308), Prob: 0.0008
+Token: ' Father' (ID: 20322), Prob: 0.0008
+Token: ' Dr' (ID: 2926), Prob: 0.0007
+Token: ' Mr' (ID: 4392), Prob: 0.0007
+Token: ' David' (ID: 6798), Prob: 0.0007
+Token: ' Last' (ID: 7996), Prob: 0.0007
+Token: ' Love' (ID: 10689), Prob: 0.0007
+Token: ' Battlefield' (ID: 70635), Prob: 0.0007
+Token: ' Point' (ID: 5126), Prob: 0.0007
+Token: ' Question' (ID: 15846), Prob: 0.0007
+Token: ' W' (ID: 467), Prob: 0.0006
+Token: ' Barn' (ID: 22421), Prob: 0.0006
+Token: ' Playing' (ID: 39451), Prob: 0.0006
+Token: ' Man' (ID: 2363), Prob: 0.0006
+Token: ' Men' (ID: 11012), Prob: 0.0006
+Token: ' Adventure' (ID: 32012), Prob: 0.0006
+Token: ' Sp' (ID: 3089), Prob: 0.0006
+Token: ' Border' (ID: 13992), Prob: 0.0006
+Token: ' Hol' (ID: 15696), Prob: 0.0006
+Token: ' Cro' (ID: 24592), Prob: 0.0006
+Token: ' Mystery' (ID: 48005), Prob: 0.0006
+Token: ' following' (ID: 2701), Prob: 0.0005
+Token: ' Grand' (ID: 10304), Prob: 0.0005
+Token: ' Band' (ID: 16936), Prob: 0.0005
+Token: ' Shadow' (ID: 24298), Prob: 0.0005
+Token: ' Waterloo' (ID: 76375), Prob: 0.0005
+Token: ' K' (ID: 730), Prob: 0.0005
+Token: ' High' (ID: 5124), Prob: 0.0005
+Token: ' Attack' (ID: 20790), Prob: 0.0005
+Token: ' Five' (ID: 20924), Prob: 0.0005
+Token: ' Torch' (ID: 78743), Prob: 0.0005
+Token: ' of' (ID: 315), Prob: 0.0005
+Token: ' This' (ID: 1096), Prob: 0.0005
+Token: ' Home' (ID: 5379), Prob: 0.0005
+Token: ' Snow' (ID: 18901), Prob: 0.0005
+Token: ' Lincoln' (ID: 24379), Prob: 0.0005
+Token: ' Strict' (ID: 52881), Prob: 0.0005
+Token: ' S' (ID: 328), Prob: 0.0004
 
 == Ranked Concepts (Clusters) ==
-Rank 1 | Centroid: ' two' | Score: 0.2480
-  Tokens: [' one', ' two', ' three', ' first', ' different', ' every', ' non']
-Rank 2 | Centroid: ' use' | Score: 0.0150
-  Tokens: [' set', ' use', ' must']
-Rank 3 | Centroid: ' provide' | Score: 0.0122
-  Tokens: [' describe', ' develop', ' introduce', ' create', ' make', ' establish', ' provide', ' meet', ' tell', ' give']
-Rank 4 | Centroid: ' characters' | Score: 0.0078
-  Tokens: [' characters', ' character', ' protagonist', ' protagonists']
-Rank 5 | Centroid: ' show' | Score: 0.0075
-  Tokens: [' show', ' present', ' showing', ' shown']
-Rank 6 | Centroid: ' including' | Score: 0.0057
-  Tokens: [' using', ' including', ' include', ' based', ' like']
-Rank 7 | Centroid: ' Alice' | Score: 0.0049
-  Tokens: [' dialogue', ' Alice', ' conflict']
-Rank 8 | Centroid: ' neither' | Score: 0.0046
-  Tokens: [' either', ' whose', ' neither']
-Rank 9 | Centroid: ' names' | Score: 0.0043
-  Tokens: [' named', ' names', ' name']
-Rank 10 | Centroid: ' male' | Score: 0.0036
-  Tokens: [' male', ' female']
-Rank 11 | Centroid: ' perhaps' | Score: 0.0036
-  Tokens: [' perhaps', ' someone', ' possibly', ' something', ' maybe']
-Rank 12 | Centroid: ' distinct' | Score: 0.0034
-  Tokens: [' distinct', ' separated']
-Rank 13 | Centroid: ' written' | Score: 0.0031
-  Tokens: [' written', ' spoken', ' centered', ' write']
-Rank 14 | Centroid: ' clearly' | Score: 0.0020
-  Tokens: [' clearly', ' clear']
-Rank 15 | Centroid: ' supporting' | Score: 0.0008
-  Tokens: [' supporting', ' beginning']
-Rank 16 | Centroid: ' living' | Score: 0.0005
-  Tokens: [' living']
-Rank 17 | Centroid: ' plot' | Score: 0.0005
-  Tokens: [' plot']
-Rank 18 | Centroid: ' person' | Score: 0.0005
-  Tokens: [' person']
+Rank 1 | Centroid: ' The' | Score: 0.6680
+  Tokens: [' The', ' I', ' A', ' and', ' on', ' D', ' F', ' H', ' T', ' in', ' No', ' W', ' K', ' of', ' This', ' S']
+Rank 2 | Centroid: ' Sherlock' | Score: 0.0430
+  Tokens: [' Casual', ' Sherlock', ' Victoria', ' Prison', ' Cro', ' Waterloo', ' Lincoln']
+Rank 3 | Centroid: ' Doctor' | Score: 0.0162
+  Tokens: [' Doctor', ' Doctors', ' Dog', ' Father']
+Rank 4 | Centroid: ' Love' | Score: 0.0101
+  Tokens: [' Heart', ' Happy', ' Love', ' Hol']
+Rank 5 | Centroid: ' Black' | Score: 0.0100
+  Tokens: [' Black', ' Blue', ' Red', ' White']
+Rank 6 | Centroid: ' Out' | Score: 0.0087
+  Tokens: [' Top', ' Out', ' Last', ' Point']
+Rank 7 | Centroid: ' School' | Score: 0.0073
+  Tokens: [' War', ' School', ' Life']
+Rank 8 | Centroid: ' Blood' | Score: 0.0072
+  Tokens: [' Cold', ' Blood', ' Torch', ' Snow']
+Rank 9 | Centroid: ' Three' | Score: 0.0059
+  Tokens: [' Four', ' One', ' Three', ' Two', ' Five']
+Rank 10 | Centroid: ' Kill' | Score: 0.0048
+  Tokens: [' Death', ' Kill', ' Killing']
+Rank 11 | Centroid: ' Man' | Score: 0.0044
+  Tokens: [' My', ' Man', ' Men']
+Rank 12 | Centroid: ' Big' | Score: 0.0042
+  Tokens: [' Big', ' Long', ' Grand', ' High']
+Rank 13 | Centroid: ' East' | Score: 0.0036
+  Tokens: [' East', ' Home']
+Rank 14 | Centroid: ' Coron' | Score: 0.0032
+  Tokens: [' Coron', ' Cor']
+Rank 15 | Centroid: ' Adventure' | Score: 0.0031
+  Tokens: [' Revenge', ' Lost', ' Adventure', ' Mystery']
+Rank 16 | Centroid: ' Burn' | Score: 0.0026
+  Tokens: [' Burn', ' Fire', ' Band']
+Rank 17 | Centroid: ' Past' | Score: 0.0023
+  Tokens: [' Past', ' Question']
+Rank 18 | Centroid: ' Mr' | Score: 0.0021
+  Tokens: [' Dr', ' Mr', ' David']
+Rank 19 | Centroid: ' Crime' | Score: 0.0021
+  Tokens: [' Crime', ' Barn']
+Rank 20 | Centroid: ' Border' | Score: 0.0020
+  Tokens: [' Edge', ' Border', ' Shadow']
+Rank 21 | Centroid: ' Attack' | Score: 0.0018
+  Tokens: [' Battlefield', ' Playing', ' Attack']
+Rank 22 | Centroid: ' New' | Score: 0.0013
+  Tokens: [' New']
+Rank 23 | Centroid: ' Sp' | Score: 0.0006
+  Tokens: [' Sp']
+Rank 24 | Centroid: ' following' | Score: 0.0005
+  Tokens: [' following']
+Rank 25 | Centroid: ' Strict' | Score: 0.0005
+  Tokens: [' Strict']
 
 **Chosen Concept:** Rank 1

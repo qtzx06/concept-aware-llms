@@ -1,0 +1,148 @@
+--- Step 28 Log ---
+
+== Filtered Candidates ==
+Token: ' guest' (ID: 8640), Prob: 0.4746
+Token: ' regular' (ID: 5792), Prob: 0.0938
+Token: ' member' (ID: 4462), Prob: 0.0825
+Token: ' cast' (ID: 6311), Prob: 0.0500
+Token: ' supporting' (ID: 12613), Prob: 0.0500
+Token: ' featured' (ID: 14766), Prob: 0.0442
+Token: ' lead' (ID: 2990), Prob: 0.0143
+Token: ' producer' (ID: 16851), Prob: 0.0143
+Token: ' co' (ID: 1062), Prob: 0.0127
+Token: ' contestant' (ID: 87222), Prob: 0.0127
+Token: ' part' (ID: 949), Prob: 0.0099
+Token: ' set' (ID: 738), Prob: 0.0060
+Token: ' student' (ID: 5458), Prob: 0.0060
+Token: ' finalist' (ID: 97391), Prob: 0.0053
+Token: ' production' (ID: 5670), Prob: 0.0047
+Token: ' writer' (ID: 6916), Prob: 0.0047
+Token: ' runner' (ID: 22259), Prob: 0.0047
+Token: ' judge' (ID: 11651), Prob: 0.0041
+Token: ' substitute' (ID: 27679), Prob: 0.0041
+Token: ' casting' (ID: 24172), Prob: 0.0036
+Token: ' director' (ID: 7538), Prob: 0.0028
+Token: ' Guest' (ID: 26215), Prob: 0.0025
+Token: ' supporter' (ID: 36463), Prob: 0.0025
+Token: ' stand' (ID: 2498), Prob: 0.0022
+Token: ' participant' (ID: 24880), Prob: 0.0022
+Token: ' stage' (ID: 6430), Prob: 0.0019
+Token: ' presenter' (ID: 33656), Prob: 0.0019
+Token: ' performer' (ID: 48154), Prob: 0.0019
+Token: ' short' (ID: 2805), Prob: 0.0017
+Token: ' dancer' (ID: 63582), Prob: 0.0017
+Token: ' recipient' (ID: 21713), Prob: 0.0015
+Token: ' nominee' (ID: 28211), Prob: 0.0015
+Token: ' bar' (ID: 3619), Prob: 0.0013
+Token: ' leading' (ID: 6388), Prob: 0.0013
+Token: ' winner' (ID: 13632), Prob: 0.0013
+Token: ' vocal' (ID: 25407), Prob: 0.0013
+Token: ' founding' (ID: 35230), Prob: 0.0013
+Token: ' special' (ID: 3281), Prob: 0.0010
+Token: ' contributor' (ID: 25305), Prob: 0.0010
+Token: ' teenager' (ID: 31539), Prob: 0.0010
+Token: ' playwright' (ID: 98368), Prob: 0.0010
+Token: ' series' (ID: 4013), Prob: 0.0009
+Token: ' script' (ID: 5316), Prob: 0.0009
+Token: ' replacement' (ID: 13723), Prob: 0.0009
+Token: ' resident' (ID: 18967), Prob: 0.0009
+Token: ' graduate' (ID: 19023), Prob: 0.0009
+Token: ' visitor' (ID: 20181), Prob: 0.0009
+Token: ' junior' (ID: 26052), Prob: 0.0009
+Token: ' starring' (ID: 39400), Prob: 0.0009
+Token: ' support' (ID: 1824), Prob: 0.0008
+Token: ' young' (ID: 3908), Prob: 0.0008
+Token: ' double' (ID: 1990), Prob: 0.0007
+Token: ' star' (ID: 6774), Prob: 0.0007
+Token: ' central' (ID: 8622), Prob: 0.0007
+Token: ' volunteer' (ID: 25144), Prob: 0.0007
+Token: ' development' (ID: 4401), Prob: 0.0006
+Token: ' London' (ID: 7148), Prob: 0.0006
+Token: ' BBC' (ID: 18096), Prob: 0.0006
+Token: ' freelance' (ID: 45109), Prob: 0.0006
+Token: ' company' (ID: 2813), Prob: 0.0006
+Token: ' coach' (ID: 7247), Prob: 0.0006
+Token: ' male' (ID: 8593), Prob: 0.0006
+Token: ' television' (ID: 12425), Prob: 0.0006
+Token: ' passenger' (ID: 23148), Prob: 0.0006
+Token: ' very' (ID: 1602), Prob: 0.0005
+Token: ' child' (ID: 1682), Prob: 0.0005
+Token: ' solo' (ID: 13529), Prob: 0.0005
+Token: ' cinemat' (ID: 87022), Prob: 0.0005
+Token: ' new' (ID: 501), Prob: 0.0005
+Token: ' small' (ID: 2613), Prob: 0.0005
+Token: ' minor' (ID: 8922), Prob: 0.0005
+Token: ' mentor' (ID: 35428), Prob: 0.0005
+Token: ' T' (ID: 350), Prob: 0.0004
+Token: ' second' (ID: 2086), Prob: 0.0004
+Token: ' British' (ID: 7855), Prob: 0.0004
+Token: ' dram' (ID: 13548), Prob: 0.0004
+Token: ' musical' (ID: 17795), Prob: 0.0004
+Token: ' nominated' (ID: 37948), Prob: 0.0004
+Token: ' chorus' (ID: 55810), Prob: 0.0004
+Token: ' voice' (ID: 7743), Prob: 0.0004
+Token: ' festival' (ID: 18780), Prob: 0.0004
+Token: ' singer' (ID: 22757), Prob: 0.0004
+Token: ' main' (ID: 1887), Prob: 0.0003
+Token: ' fellow' (ID: 12357), Prob: 0.0003
+Token: ' backing' (ID: 24668), Prob: 0.0003
+Token: ' rider' (ID: 37126), Prob: 0.0003
+Token: ' make' (ID: 1281), Prob: 0.0003
+Token: ' non' (ID: 2477), Prob: 0.0003
+Token: ' National' (ID: 5055), Prob: 0.0003
+Token: ' reader' (ID: 6604), Prob: 0.0003
+Token: ' youth' (ID: 12537), Prob: 0.0003
+Token: ' crew' (ID: 13627), Prob: 0.0003
+Token: ' visiting' (ID: 16721), Prob: 0.0003
+Token: ' theatre' (ID: 33496), Prob: 0.0003
+Token: ' stunt' (ID: 59025), Prob: 0.0003
+Token: ' train' (ID: 5426), Prob: 0.0003
+Token: ' principal' (ID: 12435), Prob: 0.0003
+
+== Ranked Concepts (Clusters) ==
+Rank 1 | Centroid: ' guest' | Score: 0.4805
+  Tokens: [' guest', ' Guest', ' resident', ' visitor', ' passenger', ' visiting']
+Rank 2 | Centroid: ' make' | Score: 0.1318
+  Tokens: [' regular', ' co', ' part', ' set', ' stand', ' bar', ' special', ' series', ' double', ' central', ' very', ' new', ' T', ' second', ' main', ' make', ' non', ' National']
+Rank 3 | Centroid: ' contestant' | Score: 0.1050
+  Tokens: [' member', ' contestant', ' runner', ' participant', ' recipient', ' contributor', ' rider']
+Rank 4 | Centroid: ' cast' | Score: 0.0537
+  Tokens: [' cast', ' casting']
+Rank 5 | Centroid: ' supporting' | Score: 0.0537
+  Tokens: [' supporting', ' supporter', ' support', ' backing']
+Rank 6 | Centroid: ' featured' | Score: 0.0452
+  Tokens: [' featured', ' starring']
+Rank 7 | Centroid: ' writer' | Score: 0.0281
+  Tokens: [' producer', ' writer', ' director', ' presenter', ' performer', ' dancer', ' singer', ' reader']
+Rank 8 | Centroid: ' lead' | Score: 0.0156
+  Tokens: [' lead', ' leading']
+Rank 9 | Centroid: ' teenager' | Score: 0.0095
+  Tokens: [' student', ' teenager', ' junior', ' young', ' child', ' youth']
+Rank 10 | Centroid: ' nominee' | Score: 0.0085
+  Tokens: [' finalist', ' nominee', ' winner', ' nominated']
+Rank 11 | Centroid: ' production' | Score: 0.0059
+  Tokens: [' production', ' development', ' company']
+Rank 12 | Centroid: ' theatre' | Score: 0.0057
+  Tokens: [' stage', ' playwright', ' script', ' television', ' cinemat', ' dram', ' theatre']
+Rank 13 | Centroid: ' substitute' | Score: 0.0054
+  Tokens: [' substitute', ' replacement', ' fellow']
+Rank 14 | Centroid: ' judge' | Score: 0.0047
+  Tokens: [' judge', ' coach']
+Rank 15 | Centroid: ' small' | Score: 0.0034
+  Tokens: [' short', ' star', ' small', ' minor']
+Rank 16 | Centroid: ' festival' | Score: 0.0026
+  Tokens: [' founding', ' freelance', ' festival', ' stunt']
+Rank 17 | Centroid: ' vocal' | Score: 0.0026
+  Tokens: [' vocal', ' musical', ' chorus', ' voice']
+Rank 18 | Centroid: ' mentor' | Score: 0.0021
+  Tokens: [' graduate', ' volunteer', ' mentor']
+Rank 19 | Centroid: ' British' | Score: 0.0017
+  Tokens: [' London', ' BBC', ' British']
+Rank 20 | Centroid: ' male' | Score: 0.0008
+  Tokens: [' male', ' train']
+Rank 21 | Centroid: ' solo' | Score: 0.0008
+  Tokens: [' solo', ' principal']
+Rank 22 | Centroid: ' crew' | Score: 0.0003
+  Tokens: [' crew']
+
+**Chosen Concept:** Rank 1

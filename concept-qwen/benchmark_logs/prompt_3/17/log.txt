@@ -1,85 +1,136 @@
 --- Step 17 Log ---
 
 == Filtered Candidates ==
-Token: ' First' (ID: 5512), Prob: 0.1377
-Token: ' Let' (ID: 6771), Prob: 0.0349
-Token: ' Hmm' (ID: 88190), Prob: 0.0015
-Token: ' Start' (ID: 5145), Prob: 0.0007
-Token: ' Original' (ID: 17230), Prob: 0.0003
-Token: ' Starting' (ID: 27657), Prob: 0.0003
-Token: ' Need' (ID: 14656), Prob: 0.0001
-Token: ' Alright' (ID: 97593), Prob: 0.0001
-Token: ' Initial' (ID: 4127), Prob: 0.0000
-Token: ' Main' (ID: 4697), Prob: 0.0000
-Token: ' Two' (ID: 9043), Prob: 0.0000
-Token: ' Maybe' (ID: 10696), Prob: 0.0000
-Token: ' Wait' (ID: 13824), Prob: 0.0000
-Token: ' Started' (ID: 35812), Prob: 0.0000
-Token: ' Initially' (ID: 58556), Prob: 0.0000
-Token: ' Well' (ID: 8325), Prob: 0.0000
-Token: ' first' (ID: 1156), Prob: 0.0000
-Token: ' Sentence' (ID: 79542), Prob: 0.0000
-Token: ' Starts' (ID: 47728), Prob: 0.0000
-Token: ' Key' (ID: 5309), Prob: 0.0000
-Token: ' Focus' (ID: 25806), Prob: 0.0000
-Token: 'First' (ID: 5338), Prob: 0.0000
-Token: ' Three' (ID: 14513), Prob: 0.0000
-Token: ' Important' (ID: 43821), Prob: 0.0000
-Token: ' Time' (ID: 4120), Prob: 0.0000
-Token: ' Got' (ID: 24528), Prob: 0.0000
-Token: ' Breaking' (ID: 51524), Prob: 0.0000
-Token: ' One' (ID: 3776), Prob: 0.0000
-Token: ' Firstly' (ID: 76695), Prob: 0.0000
-Token: ' Okay' (ID: 35439), Prob: 0.0000
-Token: ' Story' (ID: 15106), Prob: 0.0000
-Token: ' Split' (ID: 27810), Prob: 0.0000
-Token: ' Sent' (ID: 23361), Prob: 0.0000
-Token: ' Needs' (ID: 43140), Prob: 0.0000
-Token: ' Scene' (ID: 17494), Prob: 0.0000
-Token: ' Points' (ID: 20725), Prob: 0.0000
-Token: ' Originally' (ID: 24805), Prob: 0.0000
-Token: ' Good' (ID: 7684), Prob: 0.0000
-Token: ' Make' (ID: 7405), Prob: 0.0000
-Token: ' Highlight' (ID: 55994), Prob: 0.0000
-Token: ' Scenes' (ID: 83183), Prob: 0.0000
-Token: ' Rew' (ID: 31691), Prob: 0.0000
-Token: ' Person' (ID: 7357), Prob: 0.0000
-Token: ' Words' (ID: 27630), Prob: 0.0000
-Token: ' Break' (ID: 15623), Prob: 0.0000
-Token: ' Get' (ID: 2126), Prob: 0.0000
-Token: ' Also' (ID: 7281), Prob: 0.0000
-Token: ' Keep' (ID: 13655), Prob: 0.0000
-Token: ' Find' (ID: 7379), Prob: 0.0000
-Token: ' Context' (ID: 9608), Prob: 0.0000
+Token: ' regular' (ID: 5792), Prob: 0.3555
+Token: ' guest' (ID: 8640), Prob: 0.3555
+Token: ' recurring' (ID: 45250), Prob: 0.0618
+Token: ' character' (ID: 3668), Prob: 0.0084
+Token: ' member' (ID: 4462), Prob: 0.0074
+Token: ' radio' (ID: 8887), Prob: 0.0074
+Token: ' producer' (ID: 16851), Prob: 0.0074
+Token: ' supporting' (ID: 12613), Prob: 0.0057
+Token: ' narrator' (ID: 64171), Prob: 0.0057
+Token: ' new' (ID: 501), Prob: 0.0045
+Token: ' young' (ID: 3908), Prob: 0.0039
+Token: ' cast' (ID: 6311), Prob: 0.0039
+Token: ' voice' (ID: 7743), Prob: 0.0039
+Token: ' male' (ID: 8593), Prob: 0.0035
+Token: ' presenter' (ID: 33656), Prob: 0.0031
+Token: ' farmer' (ID: 36400), Prob: 0.0027
+Token: ' local' (ID: 2205), Prob: 0.0024
+Token: ' non' (ID: 2477), Prob: 0.0024
+Token: ' series' (ID: 4013), Prob: 0.0024
+Token: ' substitute' (ID: 27679), Prob: 0.0021
+Token: ' seasonal' (ID: 35799), Prob: 0.0021
+Token: ' script' (ID: 5316), Prob: 0.0019
+Token: ' weekly' (ID: 17059), Prob: 0.0019
+Token: ' co' (ID: 1062), Prob: 0.0016
+Token: ' writer' (ID: 6916), Prob: 0.0016
+Token: ' permanent' (ID: 15330), Prob: 0.0016
+Token: ' viewer' (ID: 25708), Prob: 0.0016
+Token: ' stand' (ID: 2498), Prob: 0.0014
+Token: ' live' (ID: 3887), Prob: 0.0014
+Token: ' minor' (ID: 8922), Prob: 0.0014
+Token: ' television' (ID: 12425), Prob: 0.0013
+Token: ' host' (ID: 3468), Prob: 0.0011
+Token: ' temporary' (ID: 13340), Prob: 0.0011
+Token: ' supporter' (ID: 36463), Prob: 0.0011
+Token: ' lead' (ID: 2990), Prob: 0.0011
+Token: ' country' (ID: 3146), Prob: 0.0011
+Token: ' daily' (ID: 7298), Prob: 0.0011
+Token: ' journalist' (ID: 22825), Prob: 0.0011
+Token: ' replacement' (ID: 13723), Prob: 0.0010
+Token: ' Guest' (ID: 26215), Prob: 0.0010
+Token: ' fan' (ID: 8405), Prob: 0.0009
+Token: ' correspondent' (ID: 48564), Prob: 0.0009
+Token: ' stage' (ID: 6430), Prob: 0.0009
+Token: ' reader' (ID: 6604), Prob: 0.0009
+Token: ' dram' (ID: 13548), Prob: 0.0009
+Token: ' consultant' (ID: 30660), Prob: 0.0009
+Token: ' cameo' (ID: 94056), Prob: 0.0009
+Token: ' part' (ID: 949), Prob: 0.0008
+Token: ' support' (ID: 1824), Prob: 0.0008
+Token: ' special' (ID: 3281), Prob: 0.0008
+Token: ' child' (ID: 1682), Prob: 0.0008
+Token: ' frequent' (ID: 20757), Prob: 0.0008
+Token: ' contributor' (ID: 25305), Prob: 0.0008
+Token: ' fictional' (ID: 43582), Prob: 0.0008
+Token: ' season' (ID: 3200), Prob: 0.0007
+Token: ' BBC' (ID: 18096), Prob: 0.0007
+Token: ' contemporary' (ID: 18706), Prob: 0.0007
+Token: ' number' (ID: 1372), Prob: 0.0007
+Token: ' different' (ID: 2155), Prob: 0.0007
+Token: ' house' (ID: 3753), Prob: 0.0006
+Token: ' resident' (ID: 18967), Prob: 0.0006
+Token: ' rural' (ID: 19082), Prob: 0.0006
+Token: ' freelance' (ID: 45109), Prob: 0.0006
+Token: ' re' (ID: 312), Prob: 0.0006
+Token: ' long' (ID: 1293), Prob: 0.0006
+Token: ' TV' (ID: 5883), Prob: 0.0006
+Token: ' regional' (ID: 15130), Prob: 0.0006
+Token: ' contestant' (ID: 87222), Prob: 0.0006
+Token: ' national' (ID: 5313), Prob: 0.0006
+Token: ' professional' (ID: 6584), Prob: 0.0006
+Token: ' farm' (ID: 8785), Prob: 0.0006
+Token: ' sound' (ID: 5112), Prob: 0.0005
+Token: ' companion' (ID: 21741), Prob: 0.0005
+Token: ' volunteer' (ID: 25144), Prob: 0.0005
+Token: ' short' (ID: 2805), Prob: 0.0005
+Token: ' background' (ID: 4004), Prob: 0.0005
+Token: ' film' (ID: 4531), Prob: 0.0005
+Token: ' remote' (ID: 8699), Prob: 0.0005
+Token: ' musical' (ID: 17795), Prob: 0.0005
+Token: ' visitor' (ID: 20181), Prob: 0.0005
+Token: ' Regular' (ID: 28800), Prob: 0.0005
+Token: ' player' (ID: 2781), Prob: 0.0004
+Token: ' commentator' (ID: 68736), Prob: 0.0004
+Token: ' cost' (ID: 2783), Prob: 0.0004
+Token: ' feature' (ID: 4565), Prob: 0.0004
+Token: ' screen' (ID: 4171), Prob: 0.0004
+Token: ' production' (ID: 5670), Prob: 0.0004
+Token: ' leading' (ID: 6388), Prob: 0.0004
+Token: ' reporter' (ID: 18960), Prob: 0.0004
 
 == Ranked Concepts (Clusters) ==
-Rank 1 | Centroid: 'First' | Score: 0.1377
-  Tokens: [' First', ' first', 'First', ' Firstly']
-Rank 2 | Centroid: ' Get' | Score: 0.0349
-  Tokens: [' Let', ' Wait', ' Got', ' Make', ' Get', ' Keep', ' Find']
-Rank 3 | Centroid: ' Okay' | Score: 0.0016
-  Tokens: [' Hmm', ' Alright', ' Well', ' Okay']
-Rank 4 | Centroid: ' Start' | Score: 0.0010
-  Tokens: [' Start', ' Starting', ' Started', ' Starts']
-Rank 5 | Centroid: ' Initially' | Score: 0.0003
-  Tokens: [' Original', ' Initial', ' Initially', ' Originally']
-Rank 6 | Centroid: ' Need' | Score: 0.0001
-  Tokens: [' Need', ' Needs']
-Rank 7 | Centroid: ' Important' | Score: 0.0001
-  Tokens: [' Main', ' Key', ' Focus', ' Important', ' Time', ' Highlight']
-Rank 8 | Centroid: ' Two' | Score: 0.0000
-  Tokens: [' Two', ' Three', ' One']
-Rank 9 | Centroid: ' Maybe' | Score: 0.0000
-  Tokens: [' Maybe', ' Also']
-Rank 10 | Centroid: ' Sentence' | Score: 0.0000
-  Tokens: [' Sentence', ' Sent', ' Person', ' Words']
-Rank 11 | Centroid: ' Breaking' | Score: 0.0000
-  Tokens: [' Breaking', ' Split', ' Rew', ' Break']
-Rank 12 | Centroid: ' Scene' | Score: 0.0000
-  Tokens: [' Story', ' Scene', ' Scenes', ' Context']
-Rank 13 | Centroid: ' Points' | Score: 0.0000
-  Tokens: [' Points']
-Rank 14 | Centroid: ' Good' | Score: 0.0000
-  Tokens: [' Good']
+Rank 1 | Centroid: ' Regular' | Score: 0.4219
+  Tokens: [' regular', ' recurring', ' weekly', ' daily', ' frequent', ' Regular']
+Rank 2 | Centroid: ' guest' | Score: 0.3574
+  Tokens: [' guest', ' host', ' Guest']
+Rank 3 | Centroid: ' series' | Score: 0.0227
+  Tokens: [' character', ' cast', ' voice', ' series', ' script', ' stage', ' sound', ' background', ' feature']
+Rank 4 | Centroid: ' journalist' | Score: 0.0212
+  Tokens: [' producer', ' narrator', ' presenter', ' journalist', ' correspondent', ' consultant', ' contributor', ' contestant', ' commentator', ' reporter']
+Rank 5 | Centroid: ' new' | Score: 0.0190
+  Tokens: [' new', ' young', ' non', ' co', ' stand', ' part', ' special', ' number', ' different', ' re', ' long', ' short', ' cost']
+Rank 6 | Centroid: ' television' | Score: 0.0109
+  Tokens: [' radio', ' television', ' BBC', ' TV', ' film', ' screen']
+Rank 7 | Centroid: ' member' | Score: 0.0080
+  Tokens: [' member', ' resident']
+Rank 8 | Centroid: ' support' | Score: 0.0077
+  Tokens: [' supporting', ' supporter', ' support']
+Rank 9 | Centroid: ' regional' | Score: 0.0061
+  Tokens: [' local', ' minor', ' rural', ' regional', ' national', ' remote']
+Rank 10 | Centroid: ' farm' | Score: 0.0050
+  Tokens: [' farmer', ' country', ' house', ' farm']
+Rank 11 | Centroid: ' male' | Score: 0.0049
+  Tokens: [' male', ' live']
+Rank 12 | Centroid: ' reader' | Score: 0.0046
+  Tokens: [' writer', ' viewer', ' reader', ' visitor']
+Rank 13 | Centroid: ' temporary' | Score: 0.0041
+  Tokens: [' permanent', ' temporary', ' contemporary', ' professional']
+Rank 14 | Centroid: ' replacement' | Score: 0.0035
+  Tokens: [' substitute', ' replacement', ' production']
+Rank 15 | Centroid: ' seasonal' | Score: 0.0033
+  Tokens: [' seasonal', ' season', ' musical']
+Rank 16 | Centroid: ' child' | Score: 0.0022
+  Tokens: [' fan', ' child', ' player']
+Rank 17 | Centroid: ' freelance' | Score: 0.0020
+  Tokens: [' cameo', ' freelance', ' volunteer']
+Rank 18 | Centroid: ' dram' | Score: 0.0017
+  Tokens: [' dram', ' fictional']
+Rank 19 | Centroid: ' lead' | Score: 0.0014
+  Tokens: [' lead', ' leading']
+Rank 20 | Centroid: ' companion' | Score: 0.0005
+  Tokens: [' companion']
 
 **Chosen Concept:** Rank 1

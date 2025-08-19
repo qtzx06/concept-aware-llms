@@ -1,150 +1,89 @@
 --- Step 146 Log ---
 
 == Filtered Candidates ==
-Token: ' narrator' (ID: 64171), Prob: 0.7031
-Token: ' home' (ID: 2114), Prob: 0.2285
-Token: ' house' (ID: 3753), Prob: 0.0310
-Token: ' main' (ID: 1887), Prob: 0.0273
-Token: ' narrative' (ID: 19221), Prob: 0.0007
-Token: ' homes' (ID: 10415), Prob: 0.0005
-Token: ' protagonist' (ID: 45584), Prob: 0.0005
-Token: ' family' (ID: 2997), Prob: 0.0003
-Token: ' story' (ID: 3364), Prob: 0.0002
-Token: ' narration' (ID: 85080), Prob: 0.0002
-Token: ' speaker' (ID: 18601), Prob: 0.0002
-Token: ' city' (ID: 3283), Prob: 0.0002
-Token: ' character' (ID: 3668), Prob: 0.0001
-Token: ' narr' (ID: 13408), Prob: 0.0001
-Token: ' location' (ID: 3728), Prob: 0.0001
-Token: ' room' (ID: 3054), Prob: 0.0001
-Token: ' town' (ID: 6290), Prob: 0.0001
-Token: ' homeowner' (ID: 66698), Prob: 0.0001
-Token: ' person' (ID: 1697), Prob: 0.0001
-Token: ' host' (ID: 3468), Prob: 0.0001
-Token: ' place' (ID: 1992), Prob: 0.0001
-Token: ' author' (ID: 3150), Prob: 0.0001
-Token: ' setting' (ID: 6243), Prob: 0.0001
-Token: ' writer' (ID: 6916), Prob: 0.0001
-Token: ' reader' (ID: 6604), Prob: 0.0001
-Token: ' country' (ID: 3146), Prob: 0.0001
-Token: ' door' (ID: 6006), Prob: 0.0001
-Token: ' camera' (ID: 6249), Prob: 0.0001
-Token: ' natural' (ID: 5810), Prob: 0.0001
-Token: ' mother' (ID: 6554), Prob: 0.0001
-Token: ' hometown' (ID: 43016), Prob: 0.0001
-Token: ' community' (ID: 3942), Prob: 0.0001
-Token: ' outside' (ID: 4889), Prob: 0.0001
-Token: ' hom' (ID: 4998), Prob: 0.0001
-Token: ' audience' (ID: 10650), Prob: 0.0001
-Token: ' immediate' (ID: 13922), Prob: 0.0001
-Token: ' primary' (ID: 6028), Prob: 0.0001
-Token: ' usual' (ID: 13475), Prob: 0.0001
-Token: ' household' (ID: 13732), Prob: 0.0001
-Token: ' mansion' (ID: 51428), Prob: 0.0001
-Token: ' environment' (ID: 4573), Prob: 0.0001
-Token: ' scene' (ID: 6109), Prob: 0.0000
-Token: ' mainstream' (ID: 20729), Prob: 0.0000
-Token: ' first' (ID: 1156), Prob: 0.0000
-Token: ' current' (ID: 1482), Prob: 0.0000
-Token: ' school' (ID: 2906), Prob: 0.0000
-Token: ' world' (ID: 1879), Prob: 0.0000
-Token: ' original' (ID: 4024), Prob: 0.0000
-Token: ' houses' (ID: 14967), Prob: 0.0000
-Token: ' principal' (ID: 12435), Prob: 0.0000
-Token: ' homeland' (ID: 55236), Prob: 0.0000
-Token: ' previous' (ID: 3681), Prob: 0.0000
-Token: ' walls' (ID: 14285), Prob: 0.0000
-Token: ' news' (ID: 3669), Prob: 0.0000
-Token: ' village' (ID: 14126), Prob: 0.0000
-Token: ' public' (ID: 584), Prob: 0.0000
-Token: ' center' (ID: 4126), Prob: 0.0000
-Token: ' building' (ID: 4752), Prob: 0.0000
-Token: ' surroundings' (ID: 39090), Prob: 0.0000
-Token: ' two' (ID: 1378), Prob: 0.0000
-Token: ' neighbor' (ID: 9565), Prob: 0.0000
-Token: ' listener' (ID: 11446), Prob: 0.0000
-Token: ' familiar' (ID: 11285), Prob: 0.0000
-Token: ' name' (ID: 829), Prob: 0.0000
-Token: ' owner' (ID: 6372), Prob: 0.0000
-Token: ' normal' (ID: 4622), Prob: 0.0000
-Token: ' new' (ID: 501), Prob: 0.0000
-Token: ' parent' (ID: 2681), Prob: 0.0000
-Token: ' window' (ID: 3241), Prob: 0.0000
-Token: ' physical' (ID: 6961), Prob: 0.0000
-Token: ' national' (ID: 5313), Prob: 0.0000
-Token: ' traditional' (ID: 8606), Prob: 0.0000
-Token: ' premises' (ID: 33922), Prob: 0.0000
-Token: ' housing' (ID: 11721), Prob: 0.0000
-Token: ' university' (ID: 12103), Prob: 0.0000
-Token: ' casa' (ID: 24249), Prob: 0.0000
-Token: 'home' (ID: 5117), Prob: 0.0000
-Token: ' norm' (ID: 7465), Prob: 0.0000
-Token: ' hero' (ID: 11821), Prob: 0.0000
-Token: ' neighborhood' (ID: 12534), Prob: 0.0000
-Token: ' site' (ID: 2747), Prob: 0.0000
-Token: ' major' (ID: 3598), Prob: 0.0000
-Token: ' wall' (ID: 7002), Prob: 0.0000
-Token: ' user' (ID: 1196), Prob: 0.0000
-Token: ' front' (ID: 4065), Prob: 0.0000
-Token: ' characters' (ID: 5766), Prob: 0.0000
-Token: ' plot' (ID: 7089), Prob: 0.0000
-Token: ' residence' (ID: 21682), Prob: 0.0000
-Token: ' nar' (ID: 43569), Prob: 0.0000
-Token: ' heart' (ID: 4746), Prob: 0.0000
-Token: ' body' (ID: 2487), Prob: 0.0000
-Token: ' friend' (ID: 4238), Prob: 0.0000
-Token: ' nation' (ID: 6995), Prob: 0.0000
-Token: ' weather' (ID: 9104), Prob: 0.0000
-Token: ' publisher' (ID: 21262), Prob: 0.0000
-Token: ' shelter' (ID: 22906), Prob: 0.0000
-Token: ' range' (ID: 2088), Prob: 0.0000
+Token: ' series' (ID: 4013), Prob: 1.0000
+Token: ' Series' (ID: 11131), Prob: 0.0000
+Token: 'series' (ID: 19880), Prob: 0.0000
+Token: '.series' (ID: 48649), Prob: 0.0000
+Token: ' television' (ID: 12425), Prob: 0.0000
+Token: ' serie' (ID: 32878), Prob: 0.0000
+Token: '(series' (ID: 70851), Prob: 0.0000
+Token: ' and' (ID: 323), Prob: 0.0000
+Token: ' The' (ID: 576), Prob: 0.0000
+Token: ' TV' (ID: 5883), Prob: 0.0000
+Token: ' the' (ID: 279), Prob: 0.0000
+Token: ' programme' (ID: 18136), Prob: 0.0000
+Token: 'Series' (ID: 25544), Prob: 0.0000
+Token: ' série' (ID: 46428), Prob: 0.0000
+Token: ' show' (ID: 1473), Prob: 0.0000
+Token: ' serial' (ID: 6146), Prob: 0.0000
+Token: ' drama' (ID: 19584), Prob: 0.0000
+Token: ' season' (ID: 3200), Prob: 0.0000
+Token: ' program' (ID: 2025), Prob: 0.0000
+Token: ' Crown' (ID: 28643), Prob: 0.0000
+Token: '-series' (ID: 56332), Prob: 0.0000
+Token: ' service' (ID: 2473), Prob: 0.0000
+Token: ' s' (ID: 274), Prob: 0.0000
+Token: ' franchise' (ID: 19024), Prob: 0.0000
+Token: ' studio' (ID: 14029), Prob: 0.0000
+Token: ''s' (ID: 594), Prob: 0.0000
+Token: ' theatre' (ID: 33496), Prob: 0.0000
+Token: ' channel' (ID: 5496), Prob: 0.0000
+Token: ' sitcom' (ID: 80366), Prob: 0.0000
+Token: ' sequence' (ID: 8500), Prob: 0.0000
+Token: ' radio' (ID: 8887), Prob: 0.0000
+Token: ' station' (ID: 8056), Prob: 0.0000
+Token: '_series' (ID: 35015), Prob: 0.0000
+Token: ' of' (ID: 315), Prob: 0.0000
+Token: ' SERIES' (ID: 95844), Prob: 0.0000
+Token: ' police' (ID: 4282), Prob: 0.0000
+Token: ' Royal' (ID: 16194), Prob: 0.0000
+Token: ' In' (ID: 758), Prob: 0.0000
+Token: ' in' (ID: 304), Prob: 0.0000
+Token: ' team' (ID: 2083), Prob: 0.0000
+Token: ' Sirius' (ID: 60034), Prob: 0.0000
+Token: ' New' (ID: 1532), Prob: 0.0000
+Token: '1' (ID: 16), Prob: 0.0000
+Token: ' a' (ID: 264), Prob: 0.0000
+Token: ' I' (ID: 358), Prob: 0.0000
+Token: ' since' (ID: 2474), Prob: 0.0000
+Token: ' sports' (ID: 9833), Prob: 0.0000
+Token: ' seri' (ID: 93346), Prob: 0.0000
+Token: ' D' (ID: 422), Prob: 0.0000
+Token: ' broadcast' (ID: 12899), Prob: 0.0000
+Token: ' Scottish' (ID: 26096), Prob: 0.0000
+Token: ' This' (ID: 1096), Prob: 0.0000
+Token: ' comedy' (ID: 22358), Prob: 0.0000
+Token: ' shows' (ID: 4933), Prob: 0.0000
+Token: ' BBC' (ID: 18096), Prob: 0.0000
+Token: ' trilogy' (ID: 56786), Prob: 0.0000
 
 == Ranked Concepts (Clusters) ==
-Rank 1 | Centroid: ' protagonist' | Score: 0.7031
-  Tokens: [' narrator', ' protagonist', ' hero']
-Rank 2 | Centroid: ' home' | Score: 0.2285
-  Tokens: [' home', ' hom', 'home', ' heart']
-Rank 3 | Centroid: ' houses' | Score: 0.0317
-  Tokens: [' house', ' homes', ' mansion', ' houses', ' housing', ' casa', ' residence', ' shelter']
-Rank 4 | Centroid: ' main' | Score: 0.0275
-  Tokens: [' main', ' primary', ' principal', ' major', ' front']
-Rank 5 | Centroid: ' narrative' | Score: 0.0012
-  Tokens: [' narrative', ' story', ' narration', ' narr', ' nar']
-Rank 6 | Centroid: ' writer' | Score: 0.0006
-  Tokens: [' speaker', ' author', ' writer', ' reader', ' camera', ' audience', ' listener', ' publisher']
-Rank 7 | Centroid: ' mother' | Score: 0.0004
-  Tokens: [' family', ' mother', ' community', ' parent']
-Rank 8 | Centroid: ' country' | Score: 0.0004
-  Tokens: [' city', ' town', ' country', ' school', ' village', ' national', ' university', ' nation']
-Rank 9 | Centroid: ' usual' | Score: 0.0003
-  Tokens: [' natural', ' usual', ' mainstream', ' original', ' previous', ' familiar', ' normal', ' physical', ' traditional', ' norm']
-Rank 10 | Centroid: ' location' | Score: 0.0003
-  Tokens: [' location', ' place', ' scene', ' center', ' site', ' plot']
-Rank 11 | Centroid: ' wall' | Score: 0.0003
-  Tokens: [' room', ' door', ' walls', ' window', ' wall', ' range']
-Rank 12 | Centroid: ' homeowner' | Score: 0.0003
-  Tokens: [' homeowner', ' hometown', ' household', ' homeland']
-Rank 13 | Centroid: ' two' | Score: 0.0002
-  Tokens: [' first', ' current', ' public', ' two', ' name', ' new']
-Rank 14 | Centroid: ' character' | Score: 0.0002
-  Tokens: [' character', ' characters']
-Rank 15 | Centroid: ' surroundings' | Score: 0.0001
-  Tokens: [' outside', ' environment', ' surroundings', ' weather']
-Rank 16 | Centroid: ' host' | Score: 0.0001
-  Tokens: [' host', ' owner']
-Rank 17 | Centroid: ' setting' | Score: 0.0001
-  Tokens: [' setting', ' building']
-Rank 18 | Centroid: ' person' | Score: 0.0001
-  Tokens: [' person', ' user']
-Rank 19 | Centroid: ' immediate' | Score: 0.0001
-  Tokens: [' immediate']
-Rank 20 | Centroid: ' world' | Score: 0.0000
-  Tokens: [' world', ' body']
-Rank 21 | Centroid: ' neighbor' | Score: 0.0000
-  Tokens: [' neighbor', ' neighborhood', ' friend']
-Rank 22 | Centroid: ' news' | Score: 0.0000
-  Tokens: [' news']
-Rank 23 | Centroid: ' premises' | Score: 0.0000
-  Tokens: [' premises']
+Rank 1 | Centroid: ' series' | Score: 1.0000
+  Tokens: [' series', ' Series', 'series', '.series', ' serie', '(series', 'Series', ' série', '-series', '_series', ' SERIES']
+Rank 2 | Centroid: ' television' | Score: 0.0000
+  Tokens: [' television', ' TV', ' radio', ' broadcast', ' BBC']
+Rank 3 | Centroid: ' the' | Score: 0.0000
+  Tokens: [' and', ' The', ' the', ' s', "'s", ' of', ' In', ' in', ' New', '1', ' a', ' I', ' since', ' D', ' This']
+Rank 4 | Centroid: ' program' | Score: 0.0000
+  Tokens: [' programme', ' program', ' service']
+Rank 5 | Centroid: ' sequence' | Score: 0.0000
+  Tokens: [' season', ' franchise', ' sequence', ' team']
+Rank 6 | Centroid: ' comedy' | Score: 0.0000
+  Tokens: [' drama', ' theatre', ' sitcom', ' comedy']
+Rank 7 | Centroid: ' show' | Score: 0.0000
+  Tokens: [' show', ' shows']
+Rank 8 | Centroid: ' serial' | Score: 0.0000
+  Tokens: [' serial', ' seri']
+Rank 9 | Centroid: ' station' | Score: 0.0000
+  Tokens: [' studio', ' channel', ' station']
+Rank 10 | Centroid: ' Crown' | Score: 0.0000
+  Tokens: [' Crown', ' Royal']
+Rank 11 | Centroid: ' police' | Score: 0.0000
+  Tokens: [' police', ' sports']
+Rank 12 | Centroid: ' Sirius' | Score: 0.0000
+  Tokens: [' Sirius', ' Scottish']
+Rank 13 | Centroid: ' trilogy' | Score: 0.0000
+  Tokens: [' trilogy']
 
 **Chosen Concept:** Rank 1

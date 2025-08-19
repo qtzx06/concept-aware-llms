@@ -1,79 +1,120 @@
 --- Step 98 Log ---
 
 == Filtered Candidates ==
-Token: ' given' (ID: 2661), Prob: 0.0101
-Token: ' like' (ID: 1075), Prob: 0.0079
-Token: ' provided' (ID: 3897), Prob: 0.0033
-Token: ' first' (ID: 1156), Prob: 0.0009
-Token: ' similar' (ID: 4428), Prob: 0.0004
-Token: ' used' (ID: 1483), Prob: 0.0003
-Token: ' online' (ID: 2860), Prob: 0.0002
-Token: ' earlier' (ID: 6788), Prob: 0.0002
-Token: ' elsewhere' (ID: 17920), Prob: 0.0001
-Token: ' available' (ID: 2500), Prob: 0.0001
-Token: ' taken' (ID: 4429), Prob: 0.0001
-Token: ' already' (ID: 2669), Prob: 0.0001
-Token: ' inspired' (ID: 14606), Prob: 0.0001
-Token: ' around' (ID: 2163), Prob: 0.0001
-Token: ' mentioned' (ID: 9733), Prob: 0.0000
-Token: ' related' (ID: 5435), Prob: 0.0000
-Token: ' found' (ID: 1730), Prob: 0.0000
-Token: ' using' (ID: 1667), Prob: 0.0000
-Token: ' come' (ID: 2525), Prob: 0.0000
-Token: ' might' (ID: 2578), Prob: 0.0000
-Token: ' written' (ID: 5326), Prob: 0.0000
-Token: ' maybe' (ID: 7196), Prob: 0.0000
-Token: ' planned' (ID: 12909), Prob: 0.0000
-Token: ' mixed' (ID: 9519), Prob: 0.0000
-Token: ' would' (ID: 1035), Prob: 0.0000
-Token: ' could' (ID: 1410), Prob: 0.0000
-Token: ' next' (ID: 1790), Prob: 0.0000
-Token: ' nearby' (ID: 14046), Prob: 0.0000
-Token: ' people' (ID: 1251), Prob: 0.0000
-Token: ' done' (ID: 2814), Prob: 0.0000
-Token: ' coming' (ID: 5001), Prob: 0.0000
-Token: ' suggested' (ID: 11827), Prob: 0.0000
-Token: ' later' (ID: 2937), Prob: 0.0000
-Token: ' beforehand' (ID: 51059), Prob: 0.0000
-Token: ' along' (ID: 3156), Prob: 0.0000
-Token: ' included' (ID: 5230), Prob: 0.0000
-Token: ' combined' (ID: 10856), Prob: 0.0000
-Token: ' words' (ID: 4244), Prob: 0.0000
+Token: ' The' (ID: 576), Prob: 0.9961
+Token: ' Thick' (ID: 81277), Prob: 0.0001
+Token: 'The' (ID: 785), Prob: 0.0001
+Token: ' the' (ID: 279), Prob: 0.0001
+Token: ' A' (ID: 362), Prob: 0.0000
+Token: ' Burn' (ID: 18039), Prob: 0.0000
+Token: ' of' (ID: 315), Prob: 0.0000
+Token: ' THE' (ID: 3168), Prob: 0.0000
+Token: ' That' (ID: 2938), Prob: 0.0000
+Token: ' Doctor' (ID: 18635), Prob: 0.0000
+Token: ' T' (ID: 350), Prob: 0.0000
+Token: ' House' (ID: 4678), Prob: 0.0000
+Token: ' Thin' (ID: 69622), Prob: 0.0000
+Token: ' In' (ID: 758), Prob: 0.0000
+Token: ' United' (ID: 3639), Prob: 0.0000
+Token: ' Star' (ID: 7679), Prob: 0.0000
+Token: ' He' (ID: 1260), Prob: 0.0000
+Token: ' Fire' (ID: 6647), Prob: 0.0000
+Token: ' Radio' (ID: 13484), Prob: 0.0000
+Token: ' Big' (ID: 6164), Prob: 0.0000
+Token: ' There' (ID: 2619), Prob: 0.0000
+Token: ' Time' (ID: 4120), Prob: 0.0000
+Token: ' Television' (ID: 40345), Prob: 0.0000
+Token: ' Red' (ID: 3731), Prob: 0.0000
+Token: ' Black' (ID: 5235), Prob: 0.0000
+Token: ' Top' (ID: 6909), Prob: 0.0000
+Token: ' Sherlock' (ID: 60626), Prob: 0.0000
+Token: ' and' (ID: 323), Prob: 0.0000
+Token: ' Th' (ID: 663), Prob: 0.0000
+Token: ' One' (ID: 3776), Prob: 0.0000
+Token: ' Of' (ID: 4940), Prob: 0.0000
+Token: ' BBC' (ID: 18096), Prob: 0.0000
+Token: ' I' (ID: 358), Prob: 0.0000
+Token: ' This' (ID: 1096), Prob: 0.0000
+Token: ' B' (ID: 425), Prob: 0.0000
+Token: ' John' (ID: 3757), Prob: 0.0000
+Token: ' National' (ID: 5055), Prob: 0.0000
+Token: ' Theatre' (ID: 26221), Prob: 0.0000
+Token: ' Citizens' (ID: 39896), Prob: 0.0000
+Token: ' Citizen' (ID: 46217), Prob: 0.0000
+Token: ' What' (ID: 3555), Prob: 0.0000
+Token: ' R' (ID: 431), Prob: 0.0000
+Token: ' High' (ID: 5124), Prob: 0.0000
+Token: ' Home' (ID: 5379), Prob: 0.0000
+Token: ' D' (ID: 422), Prob: 0.0000
+Token: ' White' (ID: 5807), Prob: 0.0000
+Token: ' Another' (ID: 13293), Prob: 0.0000
+Token: ' Thunder' (ID: 26691), Prob: 0.0000
+Token: ' Prison' (ID: 41518), Prob: 0.0000
+Token: ' As' (ID: 1634), Prob: 0.0000
+Token: ' Jack' (ID: 7607), Prob: 0.0000
+Token: ' that' (ID: 429), Prob: 0.0000
+Token: ' which' (ID: 892), Prob: 0.0000
+Token: ' It' (ID: 1084), Prob: 0.0000
+Token: ' Play' (ID: 7054), Prob: 0.0000
+Token: ' Planet' (ID: 28835), Prob: 0.0000
+Token: ' TV' (ID: 5883), Prob: 0.0000
+Token: ' British' (ID: 7855), Prob: 0.0000
+Token: ' Two' (ID: 9043), Prob: 0.0000
+Token: ' in' (ID: 304), Prob: 0.0000
+Token: ' An' (ID: 1527), Prob: 0.0000
+Token: ' South' (ID: 4882), Prob: 0.0000
+Token: ' Life' (ID: 9414), Prob: 0.0000
+Token: ' Empire' (ID: 20448), Prob: 0.0000
+Token: ' Chicken' (ID: 33519), Prob: 0.0000
+Token: ' War' (ID: 5004), Prob: 0.0000
+Token: ' Trust' (ID: 16816), Prob: 0.0000
+Token: ' Per' (ID: 3616), Prob: 0.0000
+Token: ' Office' (ID: 8246), Prob: 0.0000
+Token: ' as' (ID: 438), Prob: 0.0000
+Token: ' L' (ID: 444), Prob: 0.0000
+Token: ' Under' (ID: 9449), Prob: 0.0000
+Token: ' Channel' (ID: 13434), Prob: 0.0000
+Token: ' he' (ID: 566), Prob: 0.0000
+Token: ' Wh' (ID: 1232), Prob: 0.0000
+Token: ' Out' (ID: 4371), Prob: 0.0000
+Token: ' Mr' (ID: 4392), Prob: 0.0000
 
 == Ranked Concepts (Clusters) ==
-Rank 1 | Centroid: ' provided' | Score: 0.0136
-  Tokens: [' given', ' provided', ' available', ' found', ' included']
-Rank 2 | Centroid: ' like' | Score: 0.0079
-  Tokens: [' like']
-Rank 3 | Centroid: ' first' | Score: 0.0009
-  Tokens: [' first']
-Rank 4 | Centroid: ' similar' | Score: 0.0005
-  Tokens: [' similar', ' inspired', ' related']
-Rank 5 | Centroid: ' used' | Score: 0.0004
-  Tokens: [' used', ' using']
-Rank 6 | Centroid: ' earlier' | Score: 0.0003
-  Tokens: [' earlier', ' already', ' beforehand']
-Rank 7 | Centroid: ' people' | Score: 0.0002
-  Tokens: [' online', ' people', ' words']
-Rank 8 | Centroid: ' taken' | Score: 0.0002
-  Tokens: [' taken', ' written', ' done']
-Rank 9 | Centroid: ' elsewhere' | Score: 0.0001
-  Tokens: [' elsewhere']
-Rank 10 | Centroid: ' might' | Score: 0.0001
-  Tokens: [' might', ' maybe', ' would', ' could']
-Rank 11 | Centroid: ' around' | Score: 0.0001
-  Tokens: [' around', ' along']
-Rank 12 | Centroid: ' suggested' | Score: 0.0001
-  Tokens: [' mentioned', ' planned', ' suggested']
-Rank 13 | Centroid: ' come' | Score: 0.0000
-  Tokens: [' come', ' coming']
-Rank 14 | Centroid: ' mixed' | Score: 0.0000
-  Tokens: [' mixed', ' combined']
-Rank 15 | Centroid: ' nearby' | Score: 0.0000
-  Tokens: [' nearby']
-Rank 16 | Centroid: ' next' | Score: 0.0000
-  Tokens: [' next']
-Rank 17 | Centroid: ' later' | Score: 0.0000
-  Tokens: [' later']
+Rank 1 | Centroid: ' The' | Score: 0.9961
+  Tokens: [' The', 'The', ' THE', ' That', ' There', ' This', ' What', ' It']
+Rank 2 | Centroid: ' Thin' | Score: 0.0001
+  Tokens: [' Thick', ' Thin', ' Th']
+Rank 3 | Centroid: ' the' | Score: 0.0001
+  Tokens: [' the', ' of', ' and', ' that', ' which', ' in', ' as']
+Rank 4 | Centroid: ' D' | Score: 0.0001
+  Tokens: [' A', ' T', ' I', ' B', ' R', ' D', ' L']
+Rank 5 | Centroid: ' Fire' | Score: 0.0000
+  Tokens: [' Burn', ' Fire', ' Prison', ' Play', ' War', ' Trust']
+Rank 6 | Centroid: ' John' | Score: 0.0000
+  Tokens: [' United', ' Sherlock', ' John', ' National', ' Jack', ' British', ' South', ' Mr']
+Rank 7 | Centroid: ' Doctor' | Score: 0.0000
+  Tokens: [' Doctor', ' Star', ' Planet', ' Empire', ' Office']
+Rank 8 | Centroid: ' Time' | Score: 0.0000
+  Tokens: [' House', ' Time', ' Home', ' Life', ' Per']
+Rank 9 | Centroid: ' TV' | Score: 0.0000
+  Tokens: [' Radio', ' Television', ' BBC', ' TV', ' Channel']
+Rank 10 | Centroid: ' Black' | Score: 0.0000
+  Tokens: [' Big', ' Red', ' Black', ' White']
+Rank 11 | Centroid: ' As' | Score: 0.0000
+  Tokens: [' In', ' As', ' An']
+Rank 12 | Centroid: ' One' | Score: 0.0000
+  Tokens: [' One', ' Another', ' Two']
+Rank 13 | Centroid: ' Chicken' | Score: 0.0000
+  Tokens: [' Theatre', ' Thunder', ' Chicken']
+Rank 14 | Centroid: ' Top' | Score: 0.0000
+  Tokens: [' Top', ' High']
+Rank 15 | Centroid: ' He' | Score: 0.0000
+  Tokens: [' He', ' he']
+Rank 16 | Centroid: ' Of' | Score: 0.0000
+  Tokens: [' Of', ' Under', ' Out']
+Rank 17 | Centroid: ' Citizens' | Score: 0.0000
+  Tokens: [' Citizens', ' Citizen']
+Rank 18 | Centroid: ' Wh' | Score: 0.0000
+  Tokens: [' Wh']
 
 **Chosen Concept:** Rank 1

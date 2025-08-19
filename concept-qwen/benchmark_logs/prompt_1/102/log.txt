@@ -1,90 +1,109 @@
 --- Step 102 Log ---
 
 == Filtered Candidates ==
-Token: ' together' (ID: 3786), Prob: 0.3535
-Token: ' behind' (ID: 4815), Prob: 0.0006
-Token: ' home' (ID: 2114), Prob: 0.0005
-Token: ' scene' (ID: 6109), Prob: 0.0005
-Token: ' feeling' (ID: 8266), Prob: 0.0004
-Token: ' due' (ID: 4152), Prob: 0.0003
-Token: ' safely' (ID: 21000), Prob: 0.0003
-Token: ' permanently' (ID: 30759), Prob: 0.0003
-Token: 'coming' (ID: 4959), Prob: 0.0003
-Token: ' forever' (ID: 15683), Prob: 0.0003
-Token: ' alone' (ID: 7484), Prob: 0.0002
-Token: ' based' (ID: 3118), Prob: 0.0002
-Token: ' following' (ID: 2701), Prob: 0.0001
-Token: ' separately' (ID: 25156), Prob: 0.0001
-Token: ' place' (ID: 1992), Prob: 0.0001
-Token: ' without' (ID: 2041), Prob: 0.0001
-Token: ' outside' (ID: 4889), Prob: 0.0001
-Token: ' meaning' (ID: 7290), Prob: 0.0001
-Token: ' one' (ID: 825), Prob: 0.0001
-Token: ' setting' (ID: 6243), Prob: 0.0001
-Token: ' unexpectedly' (ID: 50609), Prob: 0.0001
-Token: ' using' (ID: 1667), Prob: 0.0001
-Token: ' towards' (ID: 6974), Prob: 0.0001
-Token: ' peacefully' (ID: 66779), Prob: 0.0001
-Token: ' like' (ID: 1075), Prob: 0.0001
-Token: ' away' (ID: 3123), Prob: 0.0001
-Token: ' carrying' (ID: 15331), Prob: 0.0001
-Token: ' within' (ID: 2878), Prob: 0.0001
-Token: ' respectively' (ID: 15576), Prob: 0.0001
-Token: ' toward' (ID: 8841), Prob: 0.0001
-Token: ' sanctuary' (ID: 50539), Prob: 0.0001
-Token: ' space' (ID: 3550), Prob: 0.0001
-Token: ' combined' (ID: 10856), Prob: 0.0001
-Token: ' seeking' (ID: 10887), Prob: 0.0001
-Token: ' later' (ID: 2937), Prob: 0.0001
-Token: ' transformed' (ID: 23507), Prob: 0.0001
-Token: ' environment' (ID: 4573), Prob: 0.0001
-Token: ' world' (ID: 1879), Prob: 0.0000
-Token: ' depending' (ID: 11649), Prob: 0.0000
-Token: ' alive' (ID: 13675), Prob: 0.0000
-Token: ' differently' (ID: 21303), Prob: 0.0000
-Token: ' soon' (ID: 5135), Prob: 0.0000
-Token: ' voluntarily' (ID: 53423), Prob: 0.0000
-Token: ' changed' (ID: 5497), Prob: 0.0000
-Token: ' filled' (ID: 10199), Prob: 0.0000
-Token: ' expecting' (ID: 22331), Prob: 0.0000
-Token: ' surrounded' (ID: 22865), Prob: 0.0000
+Token: ' BBC' (ID: 18096), Prob: 0.9961
+Token: ' TV' (ID: 5883), Prob: 0.0008
+Token: ' series' (ID: 4013), Prob: 0.0004
+Token: ' television' (ID: 12425), Prob: 0.0004
+Token: 'BBC' (ID: 66755), Prob: 0.0003
+Token: ' UK' (ID: 6424), Prob: 0.0002
+Token: ' British' (ID: 7855), Prob: 0.0002
+Token: ' ABC' (ID: 19360), Prob: 0.0002
+Token: ' CBC' (ID: 45512), Prob: 0.0001
+Token: ' bbc' (ID: 90626), Prob: 0.0001
+Token: ' BB' (ID: 18270), Prob: 0.0001
+Token: ' CBS' (ID: 24029), Prob: 0.0000
+Token: ' HBO' (ID: 42878), Prob: 0.0000
+Token: ' ITV' (ID: 93355), Prob: 0.0000
+Token: ' Netflix' (ID: 22642), Prob: 0.0000
+Token: ' following' (ID: 2701), Prob: 0.0000
+Token: ' broadcast' (ID: 12899), Prob: 0.0000
+Token: ' sitcom' (ID: 80366), Prob: 0.0000
+Token: ' film' (ID: 4531), Prob: 0.0000
+Token: ' B' (ID: 425), Prob: 0.0000
+Token: ' NBC' (ID: 23521), Prob: 0.0000
+Token: ' PBS' (ID: 59045), Prob: 0.0000
+Token: ' role' (ID: 3476), Prob: 0.0000
+Token: ' The' (ID: 576), Prob: 0.0000
+Token: ' Broadway' (ID: 36676), Prob: 0.0000
+Token: ' broadcasting' (ID: 48827), Prob: 0.0000
+Token: ' CCTV' (ID: 70238), Prob: 0.0000
+Token: ' the' (ID: 279), Prob: 0.0000
+Token: ' first' (ID: 1156), Prob: 0.0000
+Token: 'bbc' (ID: 84185), Prob: 0.0000
+Token: ' drama' (ID: 19584), Prob: 0.0000
+Token: ' comedy' (ID: 22358), Prob: 0.0000
+Token: ' Australian' (ID: 13369), Prob: 0.0000
+Token: ' movie' (ID: 5700), Prob: 0.0000
+Token: ' T' (ID: 350), Prob: 0.0000
+Token: ' DVD' (ID: 18092), Prob: 0.0000
+Token: ' A' (ID: 362), Prob: 0.0000
+Token: ' Amazon' (ID: 8176), Prob: 0.0000
+Token: ' Scottish' (ID: 26096), Prob: 0.0000
+Token: ' National' (ID: 5055), Prob: 0.0000
+Token: ' radio' (ID: 8887), Prob: 0.0000
+Token: ' CB' (ID: 21318), Prob: 0.0000
+Token: ' Crown' (ID: 28643), Prob: 0.0000
+Token: ' G' (ID: 479), Prob: 0.0000
+Token: ' Brit' (ID: 5450), Prob: 0.0000
+Token: ' Royal' (ID: 16194), Prob: 0.0000
+Token: ' D' (ID: 422), Prob: 0.0000
+Token: ' show' (ID: 1473), Prob: 0.0000
+Token: ' WWE' (ID: 33438), Prob: 0.0000
+Token: ' BA' (ID: 33489), Prob: 0.0000
+Token: ' United' (ID: 3639), Prob: 0.0000
+Token: ' North' (ID: 4787), Prob: 0.0000
+Token: ' third' (ID: 4843), Prob: 0.0000
+Token: ' NHS' (ID: 36281), Prob: 0.0000
+Token: ' public' (ID: 584), Prob: 0.0000
+Token: ' various' (ID: 5257), Prob: 0.0000
+Token: ' I' (ID: 358), Prob: 0.0000
+Token: ' same' (ID: 1852), Prob: 0.0000
+Token: ' Radio' (ID: 13484), Prob: 0.0000
+Token: ' West' (ID: 4312), Prob: 0.0000
+Token: ' Series' (ID: 11131), Prob: 0.0000
+Token: ' GB' (ID: 18865), Prob: 0.0000
+Token: ' Victoria' (ID: 22417), Prob: 0.0000
+Token: ' documentary' (ID: 24954), Prob: 0.0000
+Token: ' Television' (ID: 40345), Prob: 0.0000
+Token: ' televised' (ID: 75610), Prob: 0.0000
+Token: ' period' (ID: 4168), Prob: 0.0000
+Token: ' latter' (ID: 15271), Prob: 0.0000
+Token: ' anthology' (ID: 83008), Prob: 0.0000
+Token: ' popular' (ID: 5411), Prob: 0.0000
+Token: ' AMC' (ID: 74309), Prob: 0.0000
+Token: ' English' (ID: 6364), Prob: 0.0000
+Token: ' programme' (ID: 18136), Prob: 0.0000
+Token: ' sequel' (ID: 34761), Prob: 0.0000
 
 == Ranked Concepts (Clusters) ==
-Rank 1 | Centroid: ' together' | Score: 0.3535
-  Tokens: [' together', ' alone', ' combined']
-Rank 2 | Centroid: ' permanently' | Score: 0.0011
-  Tokens: [' safely', ' permanently', ' forever', ' unexpectedly', ' peacefully', ' voluntarily']
-Rank 3 | Centroid: ' based' | Score: 0.0009
-  Tokens: [' due', ' based', ' following', ' using', ' like', ' depending']
-Rank 4 | Centroid: ' within' | Score: 0.0008
-  Tokens: [' behind', ' outside', ' within']
-Rank 5 | Centroid: ' environment' | Score: 0.0008
-  Tokens: [' scene', ' place', ' space', ' environment', ' world']
-Rank 6 | Centroid: ' home' | Score: 0.0006
-  Tokens: [' home', ' setting']
-Rank 7 | Centroid: ' feeling' | Score: 0.0006
-  Tokens: [' feeling', ' meaning', ' carrying']
-Rank 8 | Centroid: ' separately' | Score: 0.0003
-  Tokens: [' separately', ' respectively', ' differently']
-Rank 9 | Centroid: 'coming' | Score: 0.0003
-  Tokens: ['coming']
-Rank 10 | Centroid: ' transformed' | Score: 0.0002
-  Tokens: [' transformed', ' changed', ' filled', ' surrounded']
-Rank 11 | Centroid: ' towards' | Score: 0.0002
-  Tokens: [' towards', ' toward']
-Rank 12 | Centroid: ' without' | Score: 0.0001
-  Tokens: [' without']
-Rank 13 | Centroid: ' later' | Score: 0.0001
-  Tokens: [' later', ' soon']
-Rank 14 | Centroid: ' seeking' | Score: 0.0001
-  Tokens: [' seeking', ' expecting']
-Rank 15 | Centroid: ' one' | Score: 0.0001
-  Tokens: [' one']
-Rank 16 | Centroid: ' away' | Score: 0.0001
-  Tokens: [' away']
-Rank 17 | Centroid: ' sanctuary' | Score: 0.0001
-  Tokens: [' sanctuary']
-Rank 18 | Centroid: ' alive' | Score: 0.0000
-  Tokens: [' alive']
+Rank 1 | Centroid: ' BBC' | Score: 0.9961
+  Tokens: [' BBC', 'BBC', ' bbc', 'bbc']
+Rank 2 | Centroid: ' television' | Score: 0.0012
+  Tokens: [' TV', ' television', ' ITV', ' CCTV', ' Television', ' televised']
+Rank 3 | Centroid: ' series' | Score: 0.0004
+  Tokens: [' series', ' Series']
+Rank 4 | Centroid: ' British' | Score: 0.0004
+  Tokens: [' UK', ' British', ' Australian', ' Scottish', ' Brit', ' Royal', ' United', ' NHS', ' Victoria', ' English']
+Rank 5 | Centroid: ' CBS' | Score: 0.0003
+  Tokens: [' ABC', ' CBC', ' CBS', ' HBO', ' NBC', ' PBS']
+Rank 6 | Centroid: ' BB' | Score: 0.0001
+  Tokens: [' BB', ' CB', ' BA', ' GB']
+Rank 7 | Centroid: ' movie' | Score: 0.0000
+  Tokens: [' sitcom', ' film', ' drama', ' comedy', ' movie', ' DVD', ' documentary', ' anthology']
+Rank 8 | Centroid: ' the' | Score: 0.0000
+  Tokens: [' B', ' The', ' the', ' T', ' A', ' G', ' D', ' I']
+Rank 9 | Centroid: ' Netflix' | Score: 0.0000
+  Tokens: [' Netflix', ' Broadway', ' Amazon', ' WWE', ' AMC']
+Rank 10 | Centroid: ' radio' | Score: 0.0000
+  Tokens: [' broadcast', ' broadcasting', ' radio', ' Radio']
+Rank 11 | Centroid: ' following' | Score: 0.0000
+  Tokens: [' following', ' third', ' same', ' latter', ' sequel']
+Rank 12 | Centroid: ' various' | Score: 0.0000
+  Tokens: [' role', ' first', ' show', ' public', ' various', ' popular']
+Rank 13 | Centroid: ' North' | Score: 0.0000
+  Tokens: [' National', ' North', ' West', ' period']
+Rank 14 | Centroid: ' Crown' | Score: 0.0000
+  Tokens: [' Crown', ' programme']
 
 **Chosen Concept:** Rank 1

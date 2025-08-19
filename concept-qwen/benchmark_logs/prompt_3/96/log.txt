@@ -1,0 +1,105 @@
+--- Step 96 Log ---
+
+== Filtered Candidates ==
+Token: ' In' (ID: 758), Prob: 0.6719
+Token: ' B' (ID: 425), Prob: 0.1030
+Token: ' He' (ID: 1260), Prob: 0.0430
+Token: ' The' (ID: 576), Prob: 0.0084
+Token: ' This' (ID: 1096), Prob: 0.0045
+Token: ' His' (ID: 5301), Prob: 0.0045
+Token: ' Between' (ID: 27133), Prob: 0.0024
+Token: ' From' (ID: 5542), Prob: 0.0021
+Token: ' It' (ID: 1084), Prob: 0.0019
+Token: ' As' (ID: 1634), Prob: 0.0015
+Token: ' For' (ID: 1752), Prob: 0.0011
+Token: ' On' (ID: 1913), Prob: 0.0011
+Token: ' That' (ID: 2938), Prob: 0.0011
+Token: ' These' (ID: 4220), Prob: 0.0011
+Token: ' During' (ID: 11954), Prob: 0.0010
+Token: ' Also' (ID: 7281), Prob: 0.0009
+Token: ' in' (ID: 304), Prob: 0.0008
+Token: ' What' (ID: 3555), Prob: 0.0008
+Token: ' According' (ID: 10548), Prob: 0.0008
+Token: 'In' (ID: 641), Prob: 0.0007
+Token: ' And' (ID: 1597), Prob: 0.0007
+Token: ' So' (ID: 2055), Prob: 0.0007
+Token: ' However' (ID: 4354), Prob: 0.0007
+Token: ' After' (ID: 4636), Prob: 0.0007
+Token: ' Then' (ID: 5005), Prob: 0.0007
+Token: ' Since' (ID: 8704), Prob: 0.0007
+Token: ' I' (ID: 358), Prob: 0.0006
+Token: ' At' (ID: 2411), Prob: 0.0006
+Token: ' A' (ID: 362), Prob: 0.0005
+Token: ' There' (ID: 2619), Prob: 0.0005
+Token: ' By' (ID: 3216), Prob: 0.0005
+Token: ' When' (ID: 3197), Prob: 0.0004
+Token: ' Where' (ID: 10967), Prob: 0.0003
+Token: ' Despite' (ID: 17715), Prob: 0.0003
+Token: 'B' (ID: 33), Prob: 0.0003
+Token: ' But' (ID: 1988), Prob: 0.0003
+Token: ' How' (ID: 2585), Prob: 0.0003
+Token: ' Finally' (ID: 17375), Prob: 0.0003
+Token: ' Later' (ID: 24885), Prob: 0.0003
+Token: ' Please' (ID: 5209), Prob: 0.0002
+Token: ' Around' (ID: 32816), Prob: 0.0002
+Token: '1' (ID: 16), Prob: 0.0002
+Token: ' he' (ID: 566), Prob: 0.0002
+Token: ' Wait' (ID: 13824), Prob: 0.0002
+Token: ' Given' (ID: 16246), Prob: 0.0002
+Token: '2' (ID: 17), Prob: 0.0002
+Token: ' and' (ID: 323), Prob: 0.0002
+Token: ' With' (ID: 3085), Prob: 0.0002
+Token: ' Until' (ID: 28970), Prob: 0.0002
+Token: ' Additionally' (ID: 22406), Prob: 0.0002
+Token: ' While' (ID: 5976), Prob: 0.0001
+Token: ' Has' (ID: 11443), Prob: 0.0001
+Token: ' Furthermore' (ID: 23405), Prob: 0.0001
+Token: ' Throughout' (ID: 45882), Prob: 0.0001
+Token: 'He' (ID: 1519), Prob: 0.0001
+Token: ' All' (ID: 2009), Prob: 0.0001
+Token: ' Which' (ID: 15920), Prob: 0.0001
+Token: ' Based' (ID: 20205), Prob: 0.0001
+Token: ' See' (ID: 3496), Prob: 0.0001
+Token: ' Over' (ID: 6065), Prob: 0.0001
+Token: ' Following' (ID: 22713), Prob: 0.0001
+Token: ' Similarly' (ID: 34239), Prob: 0.0001
+Token: ' Eventually' (ID: 37174), Prob: 0.0001
+Token: ' Although' (ID: 10328), Prob: 0.0001
+Token: ' Again' (ID: 13759), Prob: 0.0001
+Token: ' Continued' (ID: 50621), Prob: 0.0001
+
+== Ranked Concepts (Clusters) ==
+Rank 1 | Centroid: ' In' | Score: 0.6719
+  Tokens: [' In', 'In']
+Rank 2 | Centroid: ' B' | Score: 0.1035
+  Tokens: [' B', 'B']
+Rank 3 | Centroid: ' He' | Score: 0.0479
+  Tokens: [' He', ' His', ' he', 'He']
+Rank 4 | Centroid: ' This' | Score: 0.0165
+  Tokens: [' The', ' This', ' It', ' These', ' There']
+Rank 5 | Centroid: ' For' | Score: 0.0071
+  Tokens: [' From', ' As', ' For', ' On', ' At', ' By', ' With']
+Rank 6 | Centroid: ' What' | Score: 0.0030
+  Tokens: [' That', ' What', ' Where', ' How', ' Please', ' Which', ' See']
+Rank 7 | Centroid: ' Between' | Score: 0.0028
+  Tokens: [' Between', ' Around', ' Over']
+Rank 8 | Centroid: '1' | Score: 0.0025
+  Tokens: [' in', ' I', ' A', '1', '2', ' and']
+Rank 9 | Centroid: ' Additionally' | Score: 0.0023
+  Tokens: [' Also', ' Then', ' Finally', ' Additionally', ' Furthermore', ' Similarly', ' Again']
+Rank 10 | Centroid: ' Although' | Score: 0.0023
+  Tokens: [' However', ' Since', ' When', ' Despite', ' While', ' Although']
+Rank 11 | Centroid: ' During' | Score: 0.0020
+  Tokens: [' During', ' After', ' Until', ' Throughout']
+Rank 12 | Centroid: ' But' | Score: 0.0018
+  Tokens: [' And', ' So', ' But', ' All']
+Rank 13 | Centroid: ' According' | Score: 0.0012
+  Tokens: [' According', ' Given', ' Based', ' Following']
+Rank 14 | Centroid: ' Later' | Score: 0.0004
+  Tokens: [' Later', ' Eventually']
+Rank 15 | Centroid: ' Wait' | Score: 0.0003
+  Tokens: [' Wait', ' Has']
+Rank 16 | Centroid: ' Continued' | Score: 0.0001
+  Tokens: [' Continued']
+
+**Chosen Concept:** Rank 1

@@ -1,0 +1,109 @@
+--- Step 103 Log ---
+
+== Filtered Candidates ==
+Token: ' episode' (ID: 9234), Prob: 1.0000
+Token: ' episodes' (ID: 17770), Prob: 0.0002
+Token: ' same' (ID: 1852), Prob: 0.0001
+Token: ' season' (ID: 3200), Prob: 0.0001
+Token: ' April' (ID: 5813), Prob: 0.0001
+Token: ' second' (ID: 2086), Prob: 0.0000
+Token: ' premiere' (ID: 34852), Prob: 0.0000
+Token: 'episode' (ID: 39291), Prob: 0.0000
+Token: ' first' (ID: 1156), Prob: 0.0000
+Token: ' January' (ID: 6058), Prob: 0.0000
+Token: ' finale' (ID: 36298), Prob: 0.0000
+Token: ' third' (ID: 4843), Prob: 0.0000
+Token: ' final' (ID: 1590), Prob: 0.0000
+Token: ' June' (ID: 5534), Prob: 0.0000
+Token: ' Episode' (ID: 19832), Prob: 0.0000
+Token: ' September' (ID: 6122), Prob: 0.0000
+Token: ' fourth' (ID: 11737), Prob: 0.0000
+Token: ' March' (ID: 5470), Prob: 0.0000
+Token: ' the' (ID: 279), Prob: 0.0000
+Token: ' week' (ID: 2003), Prob: 0.0000
+Token: ' epis' (ID: 66494), Prob: 0.0000
+Token: ' February' (ID: 7400), Prob: 0.0000
+Token: ' July' (ID: 5768), Prob: 0.0000
+Token: ' December' (ID: 6652), Prob: 0.0000
+Token: ' May' (ID: 3217), Prob: 0.0000
+Token: ' series' (ID: 4013), Prob: 0.0000
+Token: ' summer' (ID: 7324), Prob: 0.0000
+Token: ' following' (ID: 2701), Prob: 0.0000
+Token: ' period' (ID: 4168), Prob: 0.0000
+Token: ' October' (ID: 6527), Prob: 0.0000
+Token: ' television' (ID: 12425), Prob: 0.0000
+Token: ' S' (ID: 328), Prob: 0.0000
+Token: ' pilot' (ID: 17708), Prob: 0.0000
+Token: ' August' (ID: 6156), Prob: 0.0000
+Token: ' early' (ID: 4124), Prob: 0.0000
+Token: ' special' (ID: 3281), Prob: 0.0000
+Token: ' ep' (ID: 4155), Prob: 0.0000
+Token: ' The' (ID: 576), Prob: 0.0000
+Token: ' sequel' (ID: 34761), Prob: 0.0000
+Token: ' two' (ID: 1378), Prob: 0.0000
+Token: ' three' (ID: 2326), Prob: 0.0000
+Token: ' Season' (ID: 14263), Prob: 0.0000
+Token: ' upcoming' (ID: 14487), Prob: 0.0000
+Token: ' show' (ID: 1473), Prob: 0.0000
+Token: ' November' (ID: 6702), Prob: 0.0000
+Token: ' United' (ID: 3639), Prob: 0.0000
+Token: ' issue' (ID: 4265), Prob: 0.0000
+Token: ' guest' (ID: 8640), Prob: 0.0000
+Token: ' later' (ID: 2937), Prob: 0.0000
+Token: ' sixth' (ID: 25031), Prob: 0.0000
+Token: ' fifth' (ID: 17702), Prob: 0.0000
+Token: ' and' (ID: 323), Prob: 0.0000
+Token: ' event' (ID: 1538), Prob: 0.0000
+Token: ' title' (ID: 2265), Prob: 0.0000
+Token: ' next' (ID: 1790), Prob: 0.0000
+Token: ' T' (ID: 350), Prob: 0.0000
+Token: ' alternate' (ID: 24609), Prob: 0.0000
+Token: ' middle' (ID: 6149), Prob: 0.0000
+Token: ' segment' (ID: 10238), Prob: 0.0000
+Token: ' D' (ID: 422), Prob: 0.0000
+Token: ' incident' (ID: 10455), Prob: 0.0000
+Token: ' in' (ID: 304), Prob: 0.0000
+Token: ' M' (ID: 386), Prob: 0.0000
+Token: ' other' (ID: 1008), Prob: 0.0000
+Token: ' last' (ID: 1537), Prob: 0.0000
+Token: ' eps' (ID: 17986), Prob: 0.0000
+Token: ' film' (ID: 4531), Prob: 0.0000
+Token: ' spring' (ID: 10464), Prob: 0.0000
+Token: ' subsequent' (ID: 17420), Prob: 0.0000
+Token: ' one' (ID: 825), Prob: 0.0000
+Token: ' four' (ID: 3040), Prob: 0.0000
+Token: ' mid' (ID: 5099), Prob: 0.0000
+
+== Ranked Concepts (Clusters) ==
+Rank 1 | Centroid: ' episode' | Score: 1.0000
+  Tokens: [' episode', ' episodes', 'episode', ' Episode', ' epis']
+Rank 2 | Centroid: ' television' | Score: 0.0001
+  Tokens: [' same', ' premiere', ' television', ' pilot', ' special', ' show', ' United', ' guest', ' title', ' film']
+Rank 3 | Centroid: ' February' | Score: 0.0001
+  Tokens: [' April', ' January', ' June', ' September', ' March', ' February', ' July', ' December', ' May', ' October', ' August', ' November']
+Rank 4 | Centroid: ' season' | Score: 0.0001
+  Tokens: [' season', ' week', ' summer', ' Season', ' spring']
+Rank 5 | Centroid: ' fourth' | Score: 0.0000
+  Tokens: [' second', ' third', ' fourth', ' sixth', ' fifth']
+Rank 6 | Centroid: ' finale' | Score: 0.0000
+  Tokens: [' finale', ' final']
+Rank 7 | Centroid: ' first' | Score: 0.0000
+  Tokens: [' first', ' last']
+Rank 8 | Centroid: ' the' | Score: 0.0000
+  Tokens: [' the', ' S', ' The', ' and', ' T', ' D', ' in', ' M']
+Rank 9 | Centroid: ' event' | Score: 0.0000
+  Tokens: [' series', ' period', ' issue', ' event', ' segment', ' incident']
+Rank 10 | Centroid: ' subsequent' | Score: 0.0000
+  Tokens: [' sequel', ' upcoming', ' later', ' next', ' subsequent']
+Rank 11 | Centroid: ' three' | Score: 0.0000
+  Tokens: [' two', ' three', ' one', ' four']
+Rank 12 | Centroid: ' mid' | Score: 0.0000
+  Tokens: [' early', ' middle', ' mid']
+Rank 13 | Centroid: ' following' | Score: 0.0000
+  Tokens: [' following', ' other']
+Rank 14 | Centroid: ' ep' | Score: 0.0000
+  Tokens: [' ep', ' eps']
+Rank 15 | Centroid: ' alternate' | Score: 0.0000
+  Tokens: [' alternate']
+
+**Chosen Concept:** Rank 1

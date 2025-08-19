@@ -1,153 +1,93 @@
 --- Step 80 Log ---
 
 == Filtered Candidates ==
-Token: ' friend' (ID: 4238), Prob: 0.1895
-Token: ' situation' (ID: 6534), Prob: 0.1147
-Token: ' person' (ID: 1697), Prob: 0.1016
-Token: ' character' (ID: 3668), Prob: 0.0654
-Token: ' mysterious' (ID: 25382), Prob: 0.0422
-Token: ' mystery' (ID: 22531), Prob: 0.0374
-Token: ' supernatural' (ID: 48958), Prob: 0.0352
-Token: ' misunderstanding' (ID: 69747), Prob: 0.0240
-Token: ' friendship' (ID: 26509), Prob: 0.0226
-Token: ' magical' (ID: 23702), Prob: 0.0188
-Token: ' stranger' (ID: 33958), Prob: 0.0146
-Token: ' ghost' (ID: 19866), Prob: 0.0114
-Token: ' romantic' (ID: 23467), Prob: 0.0101
-Token: ' prank' (ID: 75273), Prob: 0.0101
-Token: ' relationship' (ID: 5025), Prob: 0.0089
-Token: ' mis' (ID: 5786), Prob: 0.0069
-Token: ' strange' (ID: 14888), Prob: 0.0061
-Token: ' family' (ID: 2997), Prob: 0.0057
-Token: ' secret' (ID: 6234), Prob: 0.0050
-Token: ' scenario' (ID: 15048), Prob: 0.0050
-Token: ' friendly' (ID: 11657), Prob: 0.0047
-Token: ' twist' (ID: 26646), Prob: 0.0047
-Token: ' therapist' (ID: 41763), Prob: 0.0039
-Token: ' playful' (ID: 56069), Prob: 0.0037
-Token: ' day' (ID: 1899), Prob: 0.0035
-Token: ' small' (ID: 2613), Prob: 0.0033
-Token: ' new' (ID: 501), Prob: 0.0031
-Token: ' child' (ID: 1682), Prob: 0.0031
-Token: ' story' (ID: 3364), Prob: 0.0031
-Token: ' connection' (ID: 3633), Prob: 0.0031
-Token: ' conflict' (ID: 12055), Prob: 0.0031
-Token: ' funny' (ID: 15173), Prob: 0.0031
-Token: ' thriller' (ID: 53361), Prob: 0.0031
-Token: ' love' (ID: 2948), Prob: 0.0029
-Token: ' mix' (ID: 6514), Prob: 0.0029
-Token: ' sudden' (ID: 10968), Prob: 0.0029
-Token: ' metaphor' (ID: 45350), Prob: 0.0029
-Token: ' past' (ID: 3267), Prob: 0.0027
-Token: ' close' (ID: 3265), Prob: 0.0025
-Token: ' meeting' (ID: 6438), Prob: 0.0025
-Token: ' hidden' (ID: 8177), Prob: 0.0024
-Token: ' mistake' (ID: 16523), Prob: 0.0024
-Token: ' teacher' (ID: 11079), Prob: 0.0022
-Token: ' real' (ID: 1931), Prob: 0.0021
-Token: ' personal' (ID: 4345), Prob: 0.0021
-Token: ' moment' (ID: 4445), Prob: 0.0021
-Token: ' pet' (ID: 6753), Prob: 0.0021
-Token: ' fantasy' (ID: 18378), Prob: 0.0021
-Token: ' tourist' (ID: 29970), Prob: 0.0021
-Token: ' humorous' (ID: 69846), Prob: 0.0021
-Token: ' date' (ID: 2400), Prob: 0.0020
-Token: ' heart' (ID: 4746), Prob: 0.0020
-Token: ' good' (ID: 1661), Prob: 0.0019
-Token: ' quirky' (ID: 67132), Prob: 0.0019
-Token: ' plot' (ID: 7089), Prob: 0.0017
-Token: ' minor' (ID: 8922), Prob: 0.0017
-Token: ' mundane' (ID: 68682), Prob: 0.0017
-Token: ' place' (ID: 1992), Prob: 0.0016
-Token: ' bad' (ID: 3873), Prob: 0.0016
-Token: ' traveler' (ID: 62765), Prob: 0.0016
-Token: ' common' (ID: 4185), Prob: 0.0015
-Token: ' lost' (ID: 5558), Prob: 0.0015
-Token: ' scene' (ID: 6109), Prob: 0.0015
-Token: ' dream' (ID: 7904), Prob: 0.0015
-Token: ' partner' (ID: 8263), Prob: 0.0015
-Token: ' conversation' (ID: 10435), Prob: 0.0015
-Token: ' romance' (ID: 29263), Prob: 0.0015
-Token: ' problem' (ID: 3491), Prob: 0.0014
-Token: ' mystical' (ID: 68432), Prob: 0.0014
-Token: ' joke' (ID: 21646), Prob: 0.0014
-Token: ' mish' (ID: 63396), Prob: 0.0014
-Token: ' social' (ID: 3590), Prob: 0.0013
-Token: ' detective' (ID: 44159), Prob: 0.0013
-Token: ' drama' (ID: 19584), Prob: 0.0012
-Token: ' comedy' (ID: 22358), Prob: 0.0012
-Token: ' tragic' (ID: 34179), Prob: 0.0012
-Token: ' colleague' (ID: 36344), Prob: 0.0012
-Token: ' normal' (ID: 4622), Prob: 0.0011
-Token: ' serious' (ID: 6001), Prob: 0.0011
-Token: ' murder' (ID: 9901), Prob: 0.0011
-Token: ' time' (ID: 882), Prob: 0.0011
-Token: ' man' (ID: 883), Prob: 0.0011
-Token: ' red' (ID: 2518), Prob: 0.0011
-Token: ' night' (ID: 3729), Prob: 0.0011
-Token: ' natural' (ID: 5810), Prob: 0.0011
-Token: ' neighbor' (ID: 9565), Prob: 0.0011
-Token: ' journalist' (ID: 22825), Prob: 0.0011
-Token: ' visitor' (ID: 20181), Prob: 0.0010
-Token: ' thief' (ID: 57735), Prob: 0.0010
-Token: ' doctor' (ID: 10668), Prob: 0.0009
-Token: ' victim' (ID: 11734), Prob: 0.0009
-Token: ' surprise' (ID: 12761), Prob: 0.0009
-Token: ' narrator' (ID: 64171), Prob: 0.0009
-Token: ' comedic' (ID: 94371), Prob: 0.0009
-Token: ' setting' (ID: 6243), Prob: 0.0009
-Token: ' physical' (ID: 6961), Prob: 0.0009
-Token: ' holiday' (ID: 13257), Prob: 0.0009
-Token: ' psychological' (ID: 23187), Prob: 0.0009
+Token: ' year' (ID: 1042), Prob: 1.0000
+Token: ' years' (ID: 1635), Prob: 0.0000
+Token: ' decade' (ID: 13212), Prob: 0.0000
+Token: 'year' (ID: 3157), Prob: 0.0000
+Token: ' month' (ID: 2254), Prob: 0.0000
+Token: ' week' (ID: 2003), Prob: 0.0000
+Token: ' season' (ID: 3200), Prob: 0.0000
+Token: ' series' (ID: 4013), Prob: 0.0000
+Token: ' period' (ID: 4168), Prob: 0.0000
+Token: ' y' (ID: 379), Prob: 0.0000
+Token: ' Year' (ID: 9742), Prob: 0.0000
+Token: ' role' (ID: 3476), Prob: 0.0000
+Token: ' calendar' (ID: 13168), Prob: 0.0000
+Token: ' he' (ID: 566), Prob: 0.0000
+Token: '-year' (ID: 4666), Prob: 0.0000
+Token: ' and' (ID: 323), Prob: 0.0000
+Token: ' day' (ID: 1899), Prob: 0.0000
+Token: ' century' (ID: 9294), Prob: 0.0000
+Token: ' time' (ID: 882), Prob: 0.0000
+Token: ' two' (ID: 1378), Prob: 0.0000
+Token: ' as' (ID: 438), Prob: 0.0000
+Token: ' YEAR' (ID: 50905), Prob: 0.0000
+Token: ' way' (ID: 1616), Prob: 0.0000
+Token: '.year' (ID: 24414), Prob: 0.0000
+Token: ' the' (ID: 279), Prob: 0.0000
+Token: ' film' (ID: 4531), Prob: 0.0000
+Token: ' country' (ID: 3146), Prob: 0.0000
+Token: ' television' (ID: 12425), Prob: 0.0000
+Token: ' academic' (ID: 14250), Prob: 0.0000
+Token: ' năm' (ID: 128290), Prob: 0.0000
+Token: ' annual' (ID: 9775), Prob: 0.0000
+Token: ' city' (ID: 3283), Prob: 0.0000
+Token: '_year' (ID: 14645), Prob: 0.0000
+Token: ' summer' (ID: 7324), Prob: 0.0000
+Token: ' ye' (ID: 19478), Prob: 0.0000
+Token: ' minute' (ID: 9383), Prob: 0.0000
+Token: ' era' (ID: 11385), Prob: 0.0000
+Token: 'Year' (ID: 9490), Prob: 0.0000
+Token: ' winter' (ID: 12406), Prob: 0.0000
+Token: ' in' (ID: 304), Prob: 0.0000
+Token: ' hour' (ID: 6460), Prob: 0.0000
+Token: ' family' (ID: 2997), Prob: 0.0000
+Token: ' region' (ID: 5537), Prob: 0.0000
+Token: ' it' (ID: 432), Prob: 0.0000
+Token: ' yer' (ID: 54195), Prob: 0.0000
+Token: ' tahun' (ID: 57523), Prob: 0.0000
+Token: ' a' (ID: 264), Prob: 0.0000
+Token: ' I' (ID: 358), Prob: 0.0000
+Token: ' episode' (ID: 9234), Prob: 0.0000
+Token: ' subsequent' (ID: 17420), Prob: 0.0000
+Token: ' yearly' (ID: 44270), Prob: 0.0000
+Token: 'y' (ID: 88), Prob: 0.0000
+Token: ' of' (ID: 315), Prob: 0.0000
+Token: ' you' (ID: 498), Prob: 0.0000
+Token: ' university' (ID: 12103), Prob: 0.0000
+Token: ' yr' (ID: 42338), Prob: 0.0000
+Token: ' s' (ID: 274), Prob: 0.0000
+Token: ' financial' (ID: 5896), Prob: 0.0000
 
 == Ranked Concepts (Clusters) ==
-Rank 1 | Centroid: ' friend' | Score: 0.2207
-  Tokens: [' friend', ' friendship', ' friendly', ' partner', ' colleague', ' neighbor']
-Rank 2 | Centroid: ' scenario' | Score: 0.1260
-  Tokens: [' situation', ' scenario', ' story', ' scene', ' problem']
-Rank 3 | Centroid: ' person' | Score: 0.1055
-  Tokens: [' person', ' child', ' man']
-Rank 4 | Centroid: ' mysterious' | Score: 0.0879
-  Tokens: [' mysterious', ' mystery', ' secret', ' hidden', ' surprise']
-Rank 5 | Centroid: ' character' | Score: 0.0654
-  Tokens: [' character']
-Rank 6 | Centroid: ' mystical' | Score: 0.0571
-  Tokens: [' supernatural', ' magical', ' mundane', ' mystical']
-Rank 7 | Centroid: ' mis' | Score: 0.0393
-  Tokens: [' misunderstanding', ' mis', ' twist', ' mistake', ' mish']
-Rank 8 | Centroid: ' humorous' | Score: 0.0243
-  Tokens: [' prank', ' playful', ' funny', ' humorous', ' quirky', ' joke', ' comedy', ' comedic']
-Rank 9 | Centroid: ' romance' | Score: 0.0204
-  Tokens: [' romantic', ' thriller', ' fantasy', ' romance', ' detective', ' drama', ' murder']
-Rank 10 | Centroid: ' love' | Score: 0.0179
-  Tokens: [' family', ' love', ' past', ' close', ' pet', ' heart']
-Rank 11 | Centroid: ' connection' | Score: 0.0165
-  Tokens: [' relationship', ' connection', ' conflict', ' conversation']
-Rank 12 | Centroid: ' tourist' | Score: 0.0157
-  Tokens: [' therapist', ' teacher', ' tourist', ' traveler', ' journalist', ' visitor', ' thief', ' doctor', ' victim', ' narrator']
-Rank 13 | Centroid: ' bad' | Score: 0.0153
-  Tokens: [' small', ' new', ' good', ' minor', ' bad', ' common', ' serious', ' red']
-Rank 14 | Centroid: ' stranger' | Score: 0.0146
-  Tokens: [' stranger']
-Rank 15 | Centroid: ' ghost' | Score: 0.0129
-  Tokens: [' ghost', ' dream']
-Rank 16 | Centroid: ' day' | Score: 0.0113
-  Tokens: [' day', ' moment', ' date', ' place', ' time', ' night']
-Rank 17 | Centroid: ' strange' | Score: 0.0090
-  Tokens: [' strange', ' sudden']
-Rank 18 | Centroid: ' social' | Score: 0.0085
-  Tokens: [' real', ' personal', ' social', ' normal', ' natural', ' physical']
-Rank 19 | Centroid: ' mix' | Score: 0.0044
-  Tokens: [' mix', ' lost']
-Rank 20 | Centroid: ' metaphor' | Score: 0.0038
-  Tokens: [' metaphor', ' psychological']
-Rank 21 | Centroid: ' meeting' | Score: 0.0034
-  Tokens: [' meeting', ' setting']
-Rank 22 | Centroid: ' plot' | Score: 0.0017
-  Tokens: [' plot']
-Rank 23 | Centroid: ' tragic' | Score: 0.0012
-  Tokens: [' tragic']
-Rank 24 | Centroid: ' holiday' | Score: 0.0009
-  Tokens: [' holiday']
+Rank 1 | Centroid: '_year' | Score: 1.0000
+  Tokens: [' year', ' years', 'year', ' Year', '-year', ' YEAR', '.year', ' năm', '_year', 'Year', ' tahun']
+Rank 2 | Centroid: ' decade' | Score: 0.0000
+  Tokens: [' decade', ' period', ' century', ' era']
+Rank 3 | Centroid: ' week' | Score: 0.0000
+  Tokens: [' month', ' week', ' day', ' minute', ' hour']
+Rank 4 | Centroid: ' the' | Score: 0.0000
+  Tokens: [' he', ' and', ' two', ' as', ' the', ' in', ' it', ' a', ' I', ' of', ' you', ' s']
+Rank 5 | Centroid: ' summer' | Score: 0.0000
+  Tokens: [' season', ' summer', ' winter']
+Rank 6 | Centroid: ' series' | Score: 0.0000
+  Tokens: [' series', ' episode']
+Rank 7 | Centroid: ' city' | Score: 0.0000
+  Tokens: [' role', ' country', ' city', ' family', ' region']
+Rank 8 | Centroid: ' y' | Score: 0.0000
+  Tokens: [' y', 'y']
+Rank 9 | Centroid: ' calendar' | Score: 0.0000
+  Tokens: [' calendar']
+Rank 10 | Centroid: ' university' | Score: 0.0000
+  Tokens: [' film', ' television', ' academic', ' subsequent', ' university', ' financial']
+Rank 11 | Centroid: ' time' | Score: 0.0000
+  Tokens: [' time']
+Rank 12 | Centroid: ' way' | Score: 0.0000
+  Tokens: [' way']
+Rank 13 | Centroid: ' yer' | Score: 0.0000
+  Tokens: [' ye', ' yer', ' yr']
+Rank 14 | Centroid: ' annual' | Score: 0.0000
+  Tokens: [' annual', ' yearly']
 
 **Chosen Concept:** Rank 1

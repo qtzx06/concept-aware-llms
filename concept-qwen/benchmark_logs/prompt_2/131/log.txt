@@ -1,109 +1,89 @@
 --- Step 131 Log ---
 
 == Filtered Candidates ==
-Token: ' wrong' (ID: 4969), Prob: 0.9961
-Token: ' right' (ID: 1290), Prob: 0.0013
-Token: ' bad' (ID: 3873), Prob: 0.0005
-Token: ' wrongly' (ID: 71209), Prob: 0.0000
-Token: 'wrong' (ID: 34870), Prob: 0.0000
-Token: ' south' (ID: 9806), Prob: 0.0000
-Token: ' poorly' (ID: 30455), Prob: 0.0000
-Token: ' rough' (ID: 11165), Prob: 0.0000
-Token: ' incorrect' (ID: 15114), Prob: 0.0000
-Token: ' sideways' (ID: 73729), Prob: 0.0000
-Token: '_wrong' (ID: 75198), Prob: 0.0000
-Token: ' astr' (ID: 22311), Prob: 0.0000
-Token: ' worse' (ID: 10960), Prob: 0.0000
-Token: ' badly' (ID: 24569), Prob: 0.0000
-Token: ' well' (ID: 1632), Prob: 0.0000
-Token: ' WRONG' (ID: 98660), Prob: 0.0000
-Token: ' Wrong' (ID: 40756), Prob: 0.0000
-Token: ' incorrectly' (ID: 43347), Prob: 0.0000
-Token: ' awkward' (ID: 28759), Prob: 0.0000
-Token: ' mis' (ID: 5786), Prob: 0.0000
-Token: ' weird' (ID: 16283), Prob: 0.0000
-Token: ' back' (ID: 1182), Prob: 0.0000
-Token: ' funny' (ID: 15173), Prob: 0.0000
-Token: ' flawed' (ID: 46908), Prob: 0.0000
-Token: ' strange' (ID: 14888), Prob: 0.0000
-Token: ' poor' (ID: 7852), Prob: 0.0000
-Token: ' beyond' (ID: 7797), Prob: 0.0000
-Token: ' fine' (ID: 6915), Prob: 0.0000
-Token: ' tough' (ID: 11045), Prob: 0.0000
-Token: ' sad' (ID: 12421), Prob: 0.0000
-Token: ' hay' (ID: 17669), Prob: 0.0000
-Token: ' differently' (ID: 21303), Prob: 0.0000
-Token: ' problematic' (ID: 34933), Prob: 0.0000
-Token: ' behind' (ID: 4815), Prob: 0.0000
-Token: 'Wrong' (ID: 29185), Prob: 0.0000
-Token: ' problems' (ID: 5322), Prob: 0.0000
-Token: ' sour' (ID: 20282), Prob: 0.0000
-Token: ' apart' (ID: 10747), Prob: 0.0000
-Token: ' good' (ID: 1661), Prob: 0.0000
-Token: ' rocky' (ID: 55517), Prob: 0.0000
-Token: ' okay' (ID: 16910), Prob: 0.0000
-Token: ' partly' (ID: 27037), Prob: 0.0000
-Token: ' trag' (ID: 71602), Prob: 0.0000
-Token: ' somehow' (ID: 16925), Prob: 0.0000
-Token: ' correct' (ID: 4396), Prob: 0.0000
-Token: ' slow' (ID: 6301), Prob: 0.0000
-Token: ' hard' (ID: 2588), Prob: 0.0000
-Token: ' better' (ID: 2664), Prob: 0.0000
-Token: ' erroneous' (ID: 76672), Prob: 0.0000
-Token: ' terrible' (ID: 17478), Prob: 0.0000
-Token: ' messy' (ID: 45846), Prob: 0.0000
-Token: ' faulty' (ID: 57571), Prob: 0.0000
-Token: ' broken' (ID: 10865), Prob: 0.0000
-Token: ' way' (ID: 1616), Prob: 0.0000
-Token: ' straight' (ID: 7678), Prob: 0.0000
-Token: ' mist' (ID: 8600), Prob: 0.0000
-Token: ' mostly' (ID: 10008), Prob: 0.0000
-Token: ' tricky' (ID: 33453), Prob: 0.0000
-Token: ' backward' (ID: 27555), Prob: 0.0000
-Token: ' awful' (ID: 24607), Prob: 0.0000
-Token: ' uns' (ID: 6975), Prob: 0.0000
-Token: ' odd' (ID: 10322), Prob: 0.0000
-Token: ' nuts' (ID: 29949), Prob: 0.0000
-Token: ' flaw' (ID: 25700), Prob: 0.0000
+Token: ' Theatre' (ID: 26221), Prob: 1.0000
+Token: ' Theater' (ID: 37471), Prob: 0.0000
+Token: ' theatre' (ID: 33496), Prob: 0.0000
+Token: ' The' (ID: 576), Prob: 0.0000
+Token: ' in' (ID: 304), Prob: 0.0000
+Token: ' Centre' (ID: 14481), Prob: 0.0000
+Token: ' Stage' (ID: 22112), Prob: 0.0000
+Token: 'The' (ID: 785), Prob: 0.0000
+Token: ' and' (ID: 323), Prob: 0.0000
+Token: ' the' (ID: 279), Prob: 0.0000
+Token: ' Shakespeare' (ID: 41382), Prob: 0.0000
+Token: ' of' (ID: 315), Prob: 0.0000
+Token: ' Play' (ID: 7054), Prob: 0.0000
+Token: ' on' (ID: 389), Prob: 0.0000
+Token: ' Library' (ID: 11635), Prob: 0.0000
+Token: ' Youth' (ID: 29060), Prob: 0.0000
+Token: ' Theodore' (ID: 76349), Prob: 0.0000
+Token: ' for' (ID: 369), Prob: 0.0000
+Token: ' at' (ID: 518), Prob: 0.0000
+Token: ' Chamber' (ID: 31379), Prob: 0.0000
+Token: '/The' (ID: 47748), Prob: 0.0000
+Token: ' Street' (ID: 6686), Prob: 0.0000
+Token: ' Hall' (ID: 10926), Prob: 0.0000
+Token: '.The' (ID: 11568), Prob: 0.0000
+Token: ' Thames' (ID: 81188), Prob: 0.0000
+Token: '"The' (ID: 10022), Prob: 0.0000
+Token: ' Tea' (ID: 30025), Prob: 0.0000
+Token: ' Studios' (ID: 30262), Prob: 0.0000
+Token: ' theat' (ID: 46113), Prob: 0.0000
+Token: ' Theo' (ID: 84137), Prob: 0.0000
+Token: ' Choir' (ID: 98332), Prob: 0.0000
+Token: ' during' (ID: 2337), Prob: 0.0000
+Token: ' Brewery' (ID: 65627), Prob: 0.0000
+Token: ' Hotel' (ID: 14552), Prob: 0.0000
+Token: ' Trust' (ID: 16816), Prob: 0.0000
+Token: ' Prize' (ID: 31193), Prob: 0.0000
+Token: ' d' (ID: 294), Prob: 0.0000
+Token: ' as' (ID: 438), Prob: 0.0000
+Token: ' by' (ID: 553), Prob: 0.0000
+Token: ' Telephone' (ID: 56930), Prob: 0.0000
+Token: ' Audience' (ID: 64900), Prob: 0.0000
+Token: ' Exhibition' (ID: 66933), Prob: 0.0000
+Token: ' stage' (ID: 6430), Prob: 0.0000
+Token: '_the' (ID: 16068), Prob: 0.0000
+Token: ' Television' (ID: 40345), Prob: 0.0000
+Token: ' Contemporary' (ID: 47202), Prob: 0.0000
+Token: ' Tud' (ID: 90151), Prob: 0.0000
+Token: ' London' (ID: 7148), Prob: 0.0000
+Token: ' Labour' (ID: 18486), Prob: 0.0000
+Token: ' House' (ID: 4678), Prob: 0.0000
+Token: ' Hospital' (ID: 15079), Prob: 0.0000
+Token: ' theatrical' (ID: 65233), Prob: 0.0000
 
 == Ranked Concepts (Clusters) ==
-Rank 1 | Centroid: ' Wrong' | Score: 0.9961
-  Tokens: [' wrong', ' wrongly', 'wrong', ' incorrect', '_wrong', ' WRONG', ' Wrong', ' incorrectly', 'Wrong', ' erroneous']
-Rank 2 | Centroid: ' right' | Score: 0.0013
-  Tokens: [' right', ' correct']
-Rank 3 | Centroid: ' bad' | Score: 0.0005
-  Tokens: [' bad', ' worse', ' poor', ' good']
-Rank 4 | Centroid: ' south' | Score: 0.0000
-  Tokens: [' south', ' astr', ' hay', ' sour', ' uns', ' nuts']
-Rank 5 | Centroid: ' poorly' | Score: 0.0000
-  Tokens: [' poorly', ' badly']
-Rank 6 | Centroid: ' tough' | Score: 0.0000
-  Tokens: [' rough', ' tough', ' slow', ' hard']
-Rank 7 | Centroid: ' backward' | Score: 0.0000
-  Tokens: [' sideways', ' back', ' backward']
-Rank 8 | Centroid: ' weird' | Score: 0.0000
-  Tokens: [' weird', ' funny', ' strange', ' odd']
-Rank 9 | Centroid: ' flawed' | Score: 0.0000
-  Tokens: [' flawed', ' problematic', ' problems', ' faulty', ' broken', ' flaw']
-Rank 10 | Centroid: ' well' | Score: 0.0000
-  Tokens: [' well', ' better']
-Rank 11 | Centroid: ' messy' | Score: 0.0000
-  Tokens: [' awkward', ' rocky', ' messy', ' tricky']
-Rank 12 | Centroid: ' beyond' | Score: 0.0000
-  Tokens: [' beyond', ' behind', ' apart']
-Rank 13 | Centroid: ' partly' | Score: 0.0000
-  Tokens: [' differently', ' partly', ' somehow', ' mostly']
-Rank 14 | Centroid: ' mis' | Score: 0.0000
-  Tokens: [' mis', ' mist']
-Rank 15 | Centroid: ' fine' | Score: 0.0000
-  Tokens: [' fine', ' okay', ' straight']
-Rank 16 | Centroid: ' sad' | Score: 0.0000
-  Tokens: [' sad']
-Rank 17 | Centroid: ' terrible' | Score: 0.0000
-  Tokens: [' terrible', ' awful']
-Rank 18 | Centroid: ' trag' | Score: 0.0000
-  Tokens: [' trag']
-Rank 19 | Centroid: ' way' | Score: 0.0000
-  Tokens: [' way']
+Rank 1 | Centroid: ' theatre' | Score: 1.0000
+  Tokens: [' Theatre', ' Theater', ' theatre', ' theat', ' theatrical']
+Rank 2 | Centroid: '.The' | Score: 0.0000
+  Tokens: [' The', 'The', '/The', '.The', '"The', '_the']
+Rank 3 | Centroid: ' in' | Score: 0.0000
+  Tokens: [' in', ' and', ' the', ' of', ' on', ' for', ' at', ' during', ' d', ' as', ' by']
+Rank 4 | Centroid: ' Centre' | Score: 0.0000
+  Tokens: [' Centre', ' Labour']
+Rank 5 | Centroid: ' Stage' | Score: 0.0000
+  Tokens: [' Stage', ' stage']
+Rank 6 | Centroid: ' Shakespeare' | Score: 0.0000
+  Tokens: [' Shakespeare', ' Tud']
+Rank 7 | Centroid: ' Hotel' | Score: 0.0000
+  Tokens: [' Library', ' Brewery', ' Hotel', ' Exhibition', ' Hospital']
+Rank 8 | Centroid: ' Youth' | Score: 0.0000
+  Tokens: [' Youth', ' Choir', ' Audience', ' Contemporary']
+Rank 9 | Centroid: ' Play' | Score: 0.0000
+  Tokens: [' Play', ' Trust']
+Rank 10 | Centroid: ' House' | Score: 0.0000
+  Tokens: [' Street', ' Hall', ' House']
+Rank 11 | Centroid: ' Theodore' | Score: 0.0000
+  Tokens: [' Theodore', ' Theo']
+Rank 12 | Centroid: ' Television' | Score: 0.0000
+  Tokens: [' Tea', ' Telephone', ' Television']
+Rank 13 | Centroid: ' Studios' | Score: 0.0000
+  Tokens: [' Studios', ' Prize']
+Rank 14 | Centroid: ' Thames' | Score: 0.0000
+  Tokens: [' Thames', ' London']
+Rank 15 | Centroid: ' Chamber' | Score: 0.0000
+  Tokens: [' Chamber']
 
 **Chosen Concept:** Rank 1

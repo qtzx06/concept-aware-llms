@@ -1,0 +1,123 @@
+--- Step 91 Log ---
+
+== Filtered Candidates ==
+Token: ' performed' (ID: 10660), Prob: 0.9922
+Token: ' produced' (ID: 8947), Prob: 0.0032
+Token: ' also' (ID: 1083), Prob: 0.0013
+Token: ' again' (ID: 1549), Prob: 0.0003
+Token: ' staged' (ID: 50057), Prob: 0.0002
+Token: ' later' (ID: 2937), Prob: 0.0002
+Token: ' a' (ID: 264), Prob: 0.0001
+Token: ' presented' (ID: 10449), Prob: 0.0001
+Token: ' per' (ID: 817), Prob: 0.0001
+Token: ' then' (ID: 1221), Prob: 0.0001
+Token: ' performance' (ID: 5068), Prob: 0.0001
+Token: ' played' (ID: 6342), Prob: 0.0001
+Token: ' re' (ID: 312), Prob: 0.0001
+Token: ' directed' (ID: 15540), Prob: 0.0001
+Token: ' subsequently' (ID: 27420), Prob: 0.0001
+Token: ' written' (ID: 5326), Prob: 0.0001
+Token: ' the' (ID: 279), Prob: 0.0001
+Token: ' followed' (ID: 8110), Prob: 0.0001
+Token: ' perform' (ID: 2736), Prob: 0.0000
+Token: ' in' (ID: 304), Prob: 0.0000
+Token: ' published' (ID: 4652), Prob: 0.0000
+Token: ' performing' (ID: 16380), Prob: 0.0000
+Token: ' done' (ID: 2814), Prob: 0.0000
+Token: ' premiered' (ID: 84070), Prob: 0.0000
+Token: ' at' (ID: 518), Prob: 0.0000
+Token: ' repeated' (ID: 11504), Prob: 0.0000
+Token: ' an' (ID: 458), Prob: 0.0000
+Token: ' seen' (ID: 3884), Prob: 0.0000
+Token: ' awarded' (ID: 21328), Prob: 0.0000
+Token: ' performances' (ID: 23675), Prob: 0.0000
+Token: ' first' (ID: 1156), Prob: 0.0000
+Token: ' released' (ID: 5880), Prob: 0.0000
+Token: ' shown' (ID: 6839), Prob: 0.0000
+Token: ' reviewed' (ID: 21926), Prob: 0.0000
+Token: ' promoted' (ID: 28926), Prob: 0.0000
+Token: ' another' (ID: 2441), Prob: 0.0000
+Token: ' once' (ID: 3055), Prob: 0.0000
+Token: ' featured' (ID: 14766), Prob: 0.0000
+Token: ' part' (ID: 949), Prob: 0.0000
+Token: 'Performed' (ID: 14855), Prob: 0.0000
+Token: ' transferred' (ID: 22409), Prob: 0.0000
+Token: ' not' (ID: 537), Prob: 0.0000
+Token: ' perf' (ID: 21784), Prob: 0.0000
+Token: ' filmed' (ID: 41408), Prob: 0.0000
+Token: ' to' (ID: 311), Prob: 0.0000
+Token: ' received' (ID: 3949), Prob: 0.0000
+Token: ' translated' (ID: 24531), Prob: 0.0000
+Token: ' rehe' (ID: 47206), Prob: 0.0000
+Token: ' scheduled' (ID: 13537), Prob: 0.0000
+Token: ' adapted' (ID: 29364), Prob: 0.0000
+Token: ' continued' (ID: 8570), Prob: 0.0000
+Token: ' recorded' (ID: 12433), Prob: 0.0000
+Token: ' now' (ID: 1431), Prob: 0.0000
+Token: ' returned' (ID: 5927), Prob: 0.0000
+Token: ' given' (ID: 2661), Prob: 0.0000
+Token: ' portrayed' (ID: 44777), Prob: 0.0000
+Token: ' opened' (ID: 8930), Prob: 0.0000
+Token: ' prepared' (ID: 10030), Prob: 0.0000
+Token: ' further' (ID: 4623), Prob: 0.0000
+Token: ' preceded' (ID: 52480), Prob: 0.0000
+Token: ' on' (ID: 389), Prob: 0.0000
+Token: ' previously' (ID: 8597), Prob: 0.0000
+Token: ' broadcast' (ID: 12899), Prob: 0.0000
+Token: ' held' (ID: 5644), Prob: 0.0000
+Token: ' represented' (ID: 15251), Prob: 0.0000
+Token: ' televised' (ID: 75610), Prob: 0.0000
+Token: ' planned' (ID: 12909), Prob: 0.0000
+Token: ' conducted' (ID: 13075), Prob: 0.0000
+Token: ' moved' (ID: 7726), Prob: 0.0000
+Token: ' performs' (ID: 26674), Prob: 0.0000
+Token: ' reported' (ID: 4961), Prob: 0.0000
+Token: ' considered' (ID: 6509), Prob: 0.0000
+Token: ' similarly' (ID: 29193), Prob: 0.0000
+Token: ' toured' (ID: 90613), Prob: 0.0000
+Token: ' funded' (ID: 23906), Prob: 0.0000
+Token: ' repr' (ID: 30636), Prob: 0.0000
+Token: ' by' (ID: 553), Prob: 0.0000
+Token: ' his' (ID: 806), Prob: 0.0000
+Token: ' made' (ID: 1865), Prob: 0.0000
+Token: ' eventually' (ID: 9583), Prob: 0.0000
+
+== Ranked Concepts (Clusters) ==
+Rank 1 | Centroid: ' performs' | Score: 0.9922
+  Tokens: [' performed', ' performance', ' perform', ' performing', ' performances', 'Performed', ' perf', ' performs']
+Rank 2 | Centroid: ' returned' | Score: 0.0032
+  Tokens: [' produced', ' released', ' transferred', ' received', ' translated', ' returned', ' opened', ' held', ' moved']
+Rank 3 | Centroid: ' also' | Score: 0.0013
+  Tokens: [' also', ' once', ' now', ' previously']
+Rank 4 | Centroid: ' the' | Score: 0.0005
+  Tokens: [' a', ' per', ' re', ' the', ' in', ' at', ' an', ' first', ' part', ' not', ' to', ' on', ' by', ' his']
+Rank 5 | Centroid: ' subsequently' | Score: 0.0004
+  Tokens: [' later', ' then', ' subsequently', ' eventually']
+Rank 6 | Centroid: ' another' | Score: 0.0003
+  Tokens: [' again', ' another', ' similarly']
+Rank 7 | Centroid: ' scheduled' | Score: 0.0003
+  Tokens: [' staged', ' directed', ' scheduled', ' planned']
+Rank 8 | Centroid: ' portrayed' | Score: 0.0002
+  Tokens: [' presented', ' seen', ' shown', ' given', ' portrayed', ' represented', ' considered']
+Rank 9 | Centroid: ' awarded' | Score: 0.0002
+  Tokens: [' played', ' premiered', ' awarded', ' reviewed', ' promoted', ' toured']
+Rank 10 | Centroid: ' recorded' | Score: 0.0001
+  Tokens: [' written', ' published', ' recorded', ' reported']
+Rank 11 | Centroid: ' followed' | Score: 0.0001
+  Tokens: [' followed', ' preceded']
+Rank 12 | Centroid: ' conducted' | Score: 0.0000
+  Tokens: [' done', ' conducted', ' made']
+Rank 13 | Centroid: ' continued' | Score: 0.0000
+  Tokens: [' repeated', ' continued', ' further']
+Rank 14 | Centroid: ' televised' | Score: 0.0000
+  Tokens: [' filmed', ' broadcast', ' televised', ' funded']
+Rank 15 | Centroid: ' rehe' | Score: 0.0000
+  Tokens: [' rehe', ' prepared']
+Rank 16 | Centroid: ' featured' | Score: 0.0000
+  Tokens: [' featured']
+Rank 17 | Centroid: ' adapted' | Score: 0.0000
+  Tokens: [' adapted']
+Rank 18 | Centroid: ' repr' | Score: 0.0000
+  Tokens: [' repr']
+
+**Chosen Concept:** Rank 1

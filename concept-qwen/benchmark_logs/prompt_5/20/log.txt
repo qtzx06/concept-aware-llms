@@ -1,151 +1,120 @@
 --- Step 20 Log ---
 
 == Filtered Candidates ==
-Token: ' key' (ID: 1376), Prob: 0.5547
-Token: ' main' (ID: 1887), Prob: 0.4316
-Token: ' core' (ID: 6200), Prob: 0.0070
-Token: ' elements' (ID: 5424), Prob: 0.0023
-Token: ' essential' (ID: 7565), Prob: 0.0012
-Token: ' characters' (ID: 5766), Prob: 0.0007
-Token: ' central' (ID: 8622), Prob: 0.0006
-Token: ' necessary' (ID: 5871), Prob: 0.0001
-Token: ' primary' (ID: 6028), Prob: 0.0001
-Token: ' setting' (ID: 6243), Prob: 0.0001
-Token: ' theme' (ID: 6912), Prob: 0.0001
-Token: ' important' (ID: 2989), Prob: 0.0001
-Token: ' themes' (ID: 21386), Prob: 0.0001
-Token: ' keywords' (ID: 20844), Prob: 0.0001
-Token: ' major' (ID: 3598), Prob: 0.0000
-Token: ' emotional' (ID: 14269), Prob: 0.0000
-Token: ' protagonist' (ID: 45584), Prob: 0.0000
-Token: ' three' (ID: 2326), Prob: 0.0000
-Token: ' suggested' (ID: 11827), Prob: 0.0000
-Token: ' crucial' (ID: 16587), Prob: 0.0000
-Token: ' character' (ID: 3668), Prob: 0.0000
-Token: ' suggestions' (ID: 18225), Prob: 0.0000
-Token: ' possible' (ID: 3204), Prob: 0.0000
-Token: ' critical' (ID: 9023), Prob: 0.0000
-Token: ' essence' (ID: 27491), Prob: 0.0000
-Token: ' relevant' (ID: 9760), Prob: 0.0000
-Token: ' emotions' (ID: 21261), Prob: 0.0000
-Token: ' story' (ID: 3364), Prob: 0.0000
-Token: ' prompt' (ID: 9934), Prob: 0.0000
-Token: ' plot' (ID: 7089), Prob: 0.0000
-Token: ' original' (ID: 4024), Prob: 0.0000
-Token: ' narrative' (ID: 19221), Prob: 0.0000
-Token: ' content' (ID: 2213), Prob: 0.0000
-Token: ' significant' (ID: 5089), Prob: 0.0000
-Token: ' subject' (ID: 3832), Prob: 0.0000
-Token: ' common' (ID: 4185), Prob: 0.0000
-Token: ' basic' (ID: 6770), Prob: 0.0000
-Token: ' user' (ID: 1196), Prob: 0.0000
-Token: ' structure' (ID: 5944), Prob: 0.0000
-Token: ' unique' (ID: 4911), Prob: 0.0000
-Token: ' components' (ID: 6813), Prob: 0.0000
-Token: ' names' (ID: 5036), Prob: 0.0000
-Token: ' two' (ID: 1378), Prob: 0.0000
-Token: ' person' (ID: 1697), Prob: 0.0000
-Token: ' source' (ID: 2530), Prob: 0.0000
-Token: ' five' (ID: 4236), Prob: 0.0000
-Token: ' events' (ID: 4357), Prob: 0.0000
-Token: ' emotion' (ID: 19772), Prob: 0.0000
-Token: ' four' (ID: 3040), Prob: 0.0000
-Token: ' suggest' (ID: 4190), Prob: 0.0000
-Token: ' name' (ID: 829), Prob: 0.0000
-Token: ' recurring' (ID: 45250), Prob: 0.0000
-Token: ' suggestion' (ID: 23776), Prob: 0.0000
-Token: ' title' (ID: 2265), Prob: 0.0000
-Token: ' given' (ID: 2661), Prob: 0.0000
-Token: ' details' (ID: 3565), Prob: 0.0000
-Token: ' required' (ID: 2567), Prob: 0.0000
-Token: ' supporting' (ID: 12613), Prob: 0.0000
-Token: ' scenario' (ID: 15048), Prob: 0.0000
-Token: ' words' (ID: 4244), Prob: 0.0000
-Token: ' clues' (ID: 42675), Prob: 0.0000
-Token: ' event' (ID: 1538), Prob: 0.0000
-Token: ' different' (ID: 2155), Prob: 0.0000
-Token: ' specific' (ID: 3151), Prob: 0.0000
-Token: ' conflict' (ID: 12055), Prob: 0.0000
-Token: ' ingredients' (ID: 13966), Prob: 0.0000
-Token: ' Key' (ID: 5309), Prob: 0.0000
-Token: ' scene' (ID: 6109), Prob: 0.0000
-Token: ' weather' (ID: 9104), Prob: 0.0000
-Token: ' recommended' (ID: 11102), Prob: 0.0000
-Token: ' keyword' (ID: 16174), Prob: 0.0000
-Token: ' tone' (ID: 16232), Prob: 0.0000
-Token: ' message' (ID: 1943), Prob: 0.0000
-Token: ' element' (ID: 2392), Prob: 0.0000
-Token: ' mood' (ID: 19671), Prob: 0.0000
-Token: ' underlying' (ID: 16533), Prob: 0.0000
-Token: ' text' (ID: 1467), Prob: 0.0000
-Token: ' context' (ID: 2266), Prob: 0.0000
-Token: ' existing' (ID: 6350), Prob: 0.0000
-Token: ' prompts' (ID: 50932), Prob: 0.0000
-Token: ' problem' (ID: 3491), Prob: 0.0000
-Token: ' positive' (ID: 6785), Prob: 0.0000
-Token: ' sentence' (ID: 11652), Prob: 0.0000
-Token: ' sentiment' (ID: 25975), Prob: 0.0000
-Token: ' initial' (ID: 2856), Prob: 0.0000
-Token: 'main' (ID: 3817), Prob: 0.0000
-Token: ' six' (ID: 4743), Prob: 0.0000
-Token: ' opening' (ID: 8568), Prob: 0.0000
-Token: ' summary' (ID: 12126), Prob: 0.0000
-Token: ' recommendations' (ID: 18564), Prob: 0.0000
-Token: ' recommendation' (ID: 27682), Prob: 0.0000
-Token: ' thematic' (ID: 94768), Prob: 0.0000
-Token: ' general' (ID: 4586), Prob: 0.0000
-Token: ' meeting' (ID: 6438), Prob: 0.0000
-Token: ' number' (ID: 1372), Prob: 0.0000
-Token: ' inc' (ID: 3625), Prob: 0.0000
-Token: ' subjects' (ID: 14878), Prob: 0.0000
-Token: ' Main' (ID: 4697), Prob: 0.0000
+Token: ' In' (ID: 758), Prob: 0.2041
+Token: ' He' (ID: 1260), Prob: 0.1807
+Token: ' B' (ID: 425), Prob: 0.1592
+Token: ' The' (ID: 576), Prob: 0.0518
+Token: ' His' (ID: 5301), Prob: 0.0115
+Token: ' A' (ID: 362), Prob: 0.0055
+Token: ' At' (ID: 2411), Prob: 0.0048
+Token: ' After' (ID: 4636), Prob: 0.0048
+Token: ' As' (ID: 1634), Prob: 0.0042
+Token: ' During' (ID: 11954), Prob: 0.0042
+Token: ' This' (ID: 1096), Prob: 0.0033
+Token: ' Between' (ID: 27133), Prob: 0.0029
+Token: ' Also' (ID: 7281), Prob: 0.0026
+Token: ' It' (ID: 1084), Prob: 0.0023
+Token: ' However' (ID: 4354), Prob: 0.0023
+Token: ' According' (ID: 10548), Prob: 0.0023
+Token: ' These' (ID: 4220), Prob: 0.0020
+Token: ' Since' (ID: 8704), Prob: 0.0020
+Token: ' Later' (ID: 24885), Prob: 0.0020
+Token: ' When' (ID: 3197), Prob: 0.0016
+Token: ' On' (ID: 1913), Prob: 0.0014
+Token: ' From' (ID: 5542), Prob: 0.0014
+Token: ' While' (ID: 5976), Prob: 0.0011
+Token: ' Around' (ID: 32816), Prob: 0.0011
+Token: 'B' (ID: 33), Prob: 0.0009
+Token: ' For' (ID: 1752), Prob: 0.0009
+Token: ' That' (ID: 2938), Prob: 0.0009
+Token: 'He' (ID: 1519), Prob: 0.0008
+Token: ' Another' (ID: 13293), Prob: 0.0008
+Token: ' Following' (ID: 22713), Prob: 0.0008
+Token: ' Other' (ID: 6944), Prob: 0.0007
+Token: ' Despite' (ID: 17715), Prob: 0.0007
+Token: ' There' (ID: 2619), Prob: 0.0007
+Token: ' One' (ID: 3776), Prob: 0.0006
+Token: 'In' (ID: 641), Prob: 0.0005
+Token: ' Robert' (ID: 8397), Prob: 0.0005
+Token: ' Additionally' (ID: 22406), Prob: 0.0005
+Token: ' An' (ID: 1527), Prob: 0.0004
+Token: ' By' (ID: 3216), Prob: 0.0004
+Token: ' Although' (ID: 10328), Prob: 0.0004
+Token: ' Both' (ID: 11733), Prob: 0.0004
+Token: ' Two' (ID: 9043), Prob: 0.0003
+Token: ' he' (ID: 566), Prob: 0.0003
+Token: ' Then' (ID: 5005), Prob: 0.0003
+Token: ' Similarly' (ID: 34239), Prob: 0.0003
+Token: ' With' (ID: 3085), Prob: 0.0002
+Token: ' Some' (ID: 4329), Prob: 0.0002
+Token: ' Given' (ID: 16246), Prob: 0.0002
+Token: ' Burn' (ID: 18039), Prob: 0.0002
+Token: '2' (ID: 17), Prob: 0.0002
+Token: ' All' (ID: 2009), Prob: 0.0002
+Token: ' Finally' (ID: 17375), Prob: 0.0002
+Token: ' Though' (ID: 17594), Prob: 0.0002
+Token: ' Unlike' (ID: 26048), Prob: 0.0002
+Token: ' Together' (ID: 31155), Prob: 0.0002
+Token: ' Prior' (ID: 31399), Prob: 0.0002
+Token: ' Outside' (ID: 41151), Prob: 0.0002
+Token: ' in' (ID: 304), Prob: 0.0002
+Token: ' But' (ID: 1988), Prob: 0.0002
+Token: ' So' (ID: 2055), Prob: 0.0002
+Token: ' They' (ID: 2379), Prob: 0.0002
+Token: ' She' (ID: 2932), Prob: 0.0002
+Token: ' Over' (ID: 6065), Prob: 0.0002
+Token: ' Like' (ID: 8909), Prob: 0.0002
+Token: ' Furthermore' (ID: 23405), Prob: 0.0002
+Token: ' Along' (ID: 31844), Prob: 0.0002
+Token: ' I' (ID: 358), Prob: 0.0001
+Token: ' R' (ID: 431), Prob: 0.0001
+Token: 'The' (ID: 785), Prob: 0.0001
+Token: ' And' (ID: 1597), Prob: 0.0001
+Token: ' Upon' (ID: 29438), Prob: 0.0001
+Token: ' What' (ID: 3555), Prob: 0.0001
+Token: ' British' (ID: 7855), Prob: 0.0001
+Token: ' Answer' (ID: 21806), Prob: 0.0001
+Token: ' Sub' (ID: 3719), Prob: 0.0001
 
 == Ranked Concepts (Clusters) ==
-Rank 1 | Centroid: ' key' | Score: 0.5547
-  Tokens: [' key', ' Key']
-Rank 2 | Centroid: ' main' | Score: 0.4395
-  Tokens: [' main', ' core', ' central', ' primary', ' major', ' basic', 'main', ' Main']
-Rank 3 | Centroid: ' elements' | Score: 0.0023
-  Tokens: [' elements', ' components', ' ingredients', ' element']
-Rank 4 | Centroid: ' crucial' | Score: 0.0015
-  Tokens: [' essential', ' necessary', ' important', ' crucial', ' critical', ' relevant', ' significant', ' required']
-Rank 5 | Centroid: ' characters' | Score: 0.0008
-  Tokens: [' characters', ' protagonist', ' character']
-Rank 6 | Centroid: ' themes' | Score: 0.0002
-  Tokens: [' theme', ' themes', ' thematic']
-Rank 7 | Centroid: ' narrative' | Score: 0.0002
-  Tokens: [' setting', ' story', ' plot', ' narrative', ' scenario', ' conflict', ' scene', ' context']
-Rank 8 | Centroid: ' keywords' | Score: 0.0001
-  Tokens: [' keywords', ' words', ' clues', ' keyword']
-Rank 9 | Centroid: ' suggestions' | Score: 0.0001
-  Tokens: [' suggested', ' suggestions', ' suggest', ' suggestion', ' recommended', ' recommendations', ' recommendation']
-Rank 10 | Centroid: ' initial' | Score: 0.0001
-  Tokens: [' possible', ' original', ' common', ' unique', ' given', ' supporting', ' different', ' specific', ' underlying', ' existing', ' positive', ' initial', ' general']
-Rank 11 | Centroid: ' emotions' | Score: 0.0001
-  Tokens: [' emotional', ' emotions', ' emotion', ' weather', ' tone', ' mood', ' sentiment']
-Rank 12 | Centroid: ' four' | Score: 0.0001
-  Tokens: [' three', ' two', ' five', ' four', ' six']
-Rank 13 | Centroid: ' person' | Score: 0.0000
-  Tokens: [' user', ' structure', ' person']
-Rank 14 | Centroid: ' prompt' | Score: 0.0000
-  Tokens: [' prompt', ' message', ' prompts', ' sentence']
-Rank 15 | Centroid: ' essence' | Score: 0.0000
-  Tokens: [' essence']
-Rank 16 | Centroid: ' name' | Score: 0.0000
-  Tokens: [' names', ' name', ' title', ' text', ' number']
-Rank 17 | Centroid: ' content' | Score: 0.0000
-  Tokens: [' content', ' details']
-Rank 18 | Centroid: ' subject' | Score: 0.0000
-  Tokens: [' subject', ' subjects']
-Rank 19 | Centroid: ' event' | Score: 0.0000
-  Tokens: [' events', ' event', ' meeting']
-Rank 20 | Centroid: ' problem' | Score: 0.0000
-  Tokens: [' source', ' problem', ' inc']
-Rank 21 | Centroid: ' recurring' | Score: 0.0000
-  Tokens: [' recurring']
-Rank 22 | Centroid: ' summary' | Score: 0.0000
-  Tokens: [' summary']
-Rank 23 | Centroid: ' opening' | Score: 0.0000
-  Tokens: [' opening']
+Rank 1 | Centroid: 'In' | Score: 0.2051
+  Tokens: [' In', 'In', ' in']
+Rank 2 | Centroid: ' He' | Score: 0.1934
+  Tokens: [' He', ' His', 'He', ' he', ' She']
+Rank 3 | Centroid: ' B' | Score: 0.1660
+  Tokens: [' B', ' A', 'B', '2', ' I', ' R']
+Rank 4 | Centroid: ' The' | Score: 0.0605
+  Tokens: [' The', ' This', ' It', ' These', ' There', ' They', 'The', ' What']
+Rank 5 | Centroid: ' When' | Score: 0.0153
+  Tokens: [' After', ' During', ' According', ' Since', ' When', ' Given', ' Upon']
+Rank 6 | Centroid: ' For' | Score: 0.0134
+  Tokens: [' At', ' As', ' On', ' From', ' For', ' By', ' With']
+Rank 7 | Centroid: ' Although' | Score: 0.0050
+  Tokens: [' However', ' While', ' Despite', ' Although', ' Though', ' Unlike', ' Like']
+Rank 8 | Centroid: ' Around' | Score: 0.0045
+  Tokens: [' Between', ' Around', ' Outside', ' Over', ' Along']
+Rank 9 | Centroid: ' Additionally' | Score: 0.0041
+  Tokens: [' Also', ' Additionally', ' Then', ' Similarly', ' Finally', ' Furthermore']
+Rank 10 | Centroid: ' Two' | Score: 0.0031
+  Tokens: [' Another', ' Other', ' One', ' Both', ' Two', ' Some']
+Rank 11 | Centroid: ' Later' | Score: 0.0020
+  Tokens: [' Later']
+Rank 12 | Centroid: ' Following' | Score: 0.0010
+  Tokens: [' Following', ' Prior']
+Rank 13 | Centroid: ' That' | Score: 0.0009
+  Tokens: [' That']
+Rank 14 | Centroid: ' British' | Score: 0.0009
+  Tokens: [' Robert', ' Burn', ' British']
+Rank 15 | Centroid: ' An' | Score: 0.0006
+  Tokens: [' An', ' All']
+Rank 16 | Centroid: ' But' | Score: 0.0005
+  Tokens: [' But', ' So', ' And']
+Rank 17 | Centroid: ' Together' | Score: 0.0002
+  Tokens: [' Together']
+Rank 18 | Centroid: ' Answer' | Score: 0.0001
+  Tokens: [' Answer']
+Rank 19 | Centroid: ' Sub' | Score: 0.0001
+  Tokens: [' Sub']
 
 **Chosen Concept:** Rank 1

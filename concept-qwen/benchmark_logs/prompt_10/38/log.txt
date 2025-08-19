@@ -1,0 +1,122 @@
+--- Step 38 Log ---
+
+== Filtered Candidates ==
+Token: ' Du' (ID: 15687), Prob: 0.9336
+Token: ' Wang' (ID: 28246), Prob: 0.0361
+Token: ' Zhang' (ID: 36020), Prob: 0.0049
+Token: ' Bai' (ID: 84908), Prob: 0.0038
+Token: ' Han' (ID: 20644), Prob: 0.0030
+Token: ' Lu' (ID: 18360), Prob: 0.0023
+Token: ' Liu' (ID: 37705), Prob: 0.0018
+Token: ' C' (ID: 356), Prob: 0.0011
+Token: ' Chen' (ID: 24495), Prob: 0.0009
+Token: ' Bo' (ID: 2516), Prob: 0.0007
+Token: ' and' (ID: 323), Prob: 0.0005
+Token: ' Qu' (ID: 3406), Prob: 0.0005
+Token: ' Wei' (ID: 52448), Prob: 0.0005
+Token: ' J' (ID: 619), Prob: 0.0004
+Token: ' Su' (ID: 16931), Prob: 0.0003
+Token: ' Chang' (ID: 43372), Prob: 0.0003
+Token: 'Du' (ID: 42074), Prob: 0.0003
+Token: ' Tao' (ID: 59508), Prob: 0.0003
+Token: ' B' (ID: 425), Prob: 0.0002
+Token: ' G' (ID: 479), Prob: 0.0002
+Token: ' Li' (ID: 14511), Prob: 0.0001
+Token: ' of' (ID: 315), Prob: 0.0001
+Token: ' Yang' (ID: 24474), Prob: 0.0001
+Token: ' D' (ID: 422), Prob: 0.0001
+Token: ' to' (ID: 311), Prob: 0.0001
+Token: ' Ma' (ID: 11331), Prob: 0.0001
+Token: ' Luo' (ID: 66383), Prob: 0.0001
+Token: ' Meng' (ID: 60054), Prob: 0.0001
+Token: ' Dr' (ID: 2926), Prob: 0.0001
+Token: ' known' (ID: 3881), Prob: 0.0001
+Token: ' Gong' (ID: 97375), Prob: 0.0001
+Token: ' Wu' (ID: 36130), Prob: 0.0001
+Token: ' S' (ID: 328), Prob: 0.0000
+Token: ' Yan' (ID: 24213), Prob: 0.0000
+Token: ' poet' (ID: 39260), Prob: 0.0000
+Token: ' Shen' (ID: 57780), Prob: 0.0000
+Token: ' Yuan' (ID: 68884), Prob: 0.0000
+Token: ' X' (ID: 1599), Prob: 0.0000
+Token: ' monk' (ID: 62672), Prob: 0.0000
+Token: ' who' (ID: 879), Prob: 0.0000
+Token: ' compared' (ID: 7707), Prob: 0.0000
+Token: ' O' (ID: 506), Prob: 0.0000
+Token: ' famous' (ID: 11245), Prob: 0.0000
+Token: ' Z' (ID: 1863), Prob: 0.0000
+Token: ' Zhu' (ID: 67744), Prob: 0.0000
+Token: ' poets' (ID: 72972), Prob: 0.0000
+Token: ' Ch' (ID: 910), Prob: 0.0000
+Token: ' Sir' (ID: 16759), Prob: 0.0000
+Token: ' Song' (ID: 18971), Prob: 0.0000
+Token: ' Zh' (ID: 33349), Prob: 0.0000
+Token: ' W' (ID: 467), Prob: 0.0000
+Token: ' Jiang' (ID: 60822), Prob: 0.0000
+Token: ' Q' (ID: 1207), Prob: 0.0000
+Token: ' Dong' (ID: 52383), Prob: 0.0000
+Token: ''s' (ID: 594), Prob: 0.0000
+Token: ' Ban' (ID: 22730), Prob: 0.0000
+Token: ' Ding' (ID: 79373), Prob: 0.0000
+Token: ' was' (ID: 572), Prob: 0.0000
+Token: ' Jian' (ID: 87304), Prob: 0.0000
+Token: ' Gu' (ID: 4570), Prob: 0.0000
+Token: ' Mao' (ID: 56178), Prob: 0.0000
+Token: ' Bà' (ID: 132934), Prob: 0.0000
+Token: ' Sun' (ID: 8059), Prob: 0.0000
+Token: ' Wen' (ID: 61223), Prob: 0.0000
+Token: ' Fu' (ID: 29253), Prob: 0.0000
+Token: ' Sh' (ID: 1417), Prob: 0.0000
+Token: ' himself' (ID: 5561), Prob: 0.0000
+Token: ' Ku' (ID: 32379), Prob: 0.0000
+Token: ' Jin' (ID: 38511), Prob: 0.0000
+Token: ' Yao' (ID: 89930), Prob: 0.0000
+Token: ' He' (ID: 1260), Prob: 0.0000
+Token: ' du' (ID: 3845), Prob: 0.0000
+Token: ' Zhou' (ID: 66827), Prob: 0.0000
+Token: ' Hong' (ID: 19180), Prob: 0.0000
+Token: ' Feng' (ID: 42658), Prob: 0.0000
+Token: ' his' (ID: 806), Prob: 0.0000
+Token: ' Xu' (ID: 56414), Prob: 0.0000
+Token: ' Hans' (ID: 24807), Prob: 0.0000
+Token: ' Duke' (ID: 26356), Prob: 0.0000
+
+== Ranked Concepts (Clusters) ==
+Rank 1 | Centroid: ' Du' | Score: 0.9336
+  Tokens: [' Du', 'Du', ' du', ' Duke']
+Rank 2 | Centroid: ' Zhang' | Score: 0.0432
+  Tokens: [' Wang', ' Zhang', ' Liu', ' Yang', ' Luo', ' Wu', ' Yuan', ' Zhu', ' Yao', ' Zhou', ' Xu']
+Rank 3 | Centroid: ' Ban' | Score: 0.0045
+  Tokens: [' Bai', ' Bo', ' Ban', ' Bà']
+Rank 4 | Centroid: ' Gu' | Score: 0.0031
+  Tokens: [' Lu', ' Qu', ' Su', ' Gu', ' Fu', ' Ku']
+Rank 5 | Centroid: ' Han' | Score: 0.0030
+  Tokens: [' Han', ' Hans']
+Rank 6 | Centroid: ' D' | Score: 0.0021
+  Tokens: [' C', ' J', ' B', ' G', ' D', ' S', ' X', ' O', ' Z', ' W', ' Q']
+Rank 7 | Centroid: ' Chen' | Score: 0.0012
+  Tokens: [' Chen', ' Chang', ' Shen']
+Rank 8 | Centroid: ' Jiang' | Score: 0.0009
+  Tokens: [' Wei', ' Tao', ' Meng', ' Gong', ' Jiang', ' Jian', ' Mao', ' Wen', ' Jin', ' Hong', ' Feng']
+Rank 9 | Centroid: ' and' | Score: 0.0008
+  Tokens: [' and', ' of', ' to', ' who', ' compared', "'s", ' was']
+Rank 10 | Centroid: ' Li' | Score: 0.0001
+  Tokens: [' Li']
+Rank 11 | Centroid: ' Sh' | Score: 0.0001
+  Tokens: [' Dr', ' Ch', ' Sh']
+Rank 12 | Centroid: ' Ma' | Score: 0.0001
+  Tokens: [' Ma', ' Sun']
+Rank 13 | Centroid: ' known' | Score: 0.0001
+  Tokens: [' known', ' famous']
+Rank 14 | Centroid: ' Dong' | Score: 0.0001
+  Tokens: [' Yan', ' Dong', ' Ding']
+Rank 15 | Centroid: ' his' | Score: 0.0000
+  Tokens: [' himself', ' He', ' his']
+Rank 16 | Centroid: ' Sir' | Score: 0.0000
+  Tokens: [' Sir']
+Rank 17 | Centroid: ' Zh' | Score: 0.0000
+  Tokens: [' Zh']
+Rank 18 | Centroid: ' poet' | Score: 0.0000
+  Tokens: [' poet', ' monk', ' poets', ' Song']
+
+**Chosen Concept:** Rank 1

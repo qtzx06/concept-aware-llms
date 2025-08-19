@@ -1,0 +1,137 @@
+--- Step 48 Log ---
+
+== Filtered Candidates ==
+Token: ' Poetry' (ID: 67687), Prob: 0.2793
+Token: ' Dynasty' (ID: 73395), Prob: 0.1699
+Token: ' poetry' (ID: 31249), Prob: 0.1494
+Token: ' court' (ID: 5473), Prob: 0.1318
+Token: ' dynasty' (ID: 66846), Prob: 0.1318
+Token: ' literary' (ID: 31365), Prob: 0.0486
+Token: ' poet' (ID: 39260), Prob: 0.0084
+Token: ' Court' (ID: 7154), Prob: 0.0074
+Token: ' Imperial' (ID: 29913), Prob: 0.0058
+Token: ' San' (ID: 5836), Prob: 0.0045
+Token: ' Hall' (ID: 10926), Prob: 0.0045
+Token: ' poem' (ID: 32794), Prob: 0.0045
+Token: ' imperial' (ID: 34279), Prob: 0.0024
+Token: ' Literary' (ID: 73624), Prob: 0.0021
+Token: ' X' (ID: 1599), Prob: 0.0019
+Token: ' liter' (ID: 6935), Prob: 0.0019
+Token: ' elite' (ID: 20685), Prob: 0.0019
+Token: ' Po' (ID: 13808), Prob: 0.0015
+Token: ' canon' (ID: 43816), Prob: 0.0013
+Token: ' Academy' (ID: 15815), Prob: 0.0011
+Token: ' government' (ID: 3033), Prob: 0.0010
+Token: ' hall' (ID: 13994), Prob: 0.0010
+Token: ' prom' (ID: 2706), Prob: 0.0009
+Token: ' poets' (ID: 72972), Prob: 0.0009
+Token: ' poems' (ID: 44219), Prob: 0.0007
+Token: 'wen' (ID: 16948), Prob: 0.0006
+Token: 'y' (ID: 88), Prob: 0.0005
+Token: ' Society' (ID: 13278), Prob: 0.0005
+Token: ' and' (ID: 323), Prob: 0.0005
+Token: ' Z' (ID: 1863), Prob: 0.0005
+Token: ' Chang' (ID: 43372), Prob: 0.0004
+Token: 'hua' (ID: 91236), Prob: 0.0004
+Token: ' tri' (ID: 2406), Prob: 0.0003
+Token: ' Chinese' (ID: 8453), Prob: 0.0003
+Token: ' Royal' (ID: 16194), Prob: 0.0003
+Token: ' clan' (ID: 38462), Prob: 0.0003
+Token: ' academy' (ID: 43345), Prob: 0.0003
+Token: ' society' (ID: 8232), Prob: 0.0003
+Token: ' Great' (ID: 8513), Prob: 0.0003
+Token: ' scholar' (ID: 18145), Prob: 0.0003
+Token: ' Scholar' (ID: 24525), Prob: 0.0003
+Token: ' Cultural' (ID: 40233), Prob: 0.0003
+Token: ' clique' (ID: 80379), Prob: 0.0003
+Token: ' G' (ID: 479), Prob: 0.0003
+Token: ''s' (ID: 594), Prob: 0.0003
+Token: ' history' (ID: 3840), Prob: 0.0003
+Token: ' circle' (ID: 12671), Prob: 0.0003
+Token: ' cultural' (ID: 12752), Prob: 0.0003
+Token: ' literature' (ID: 17206), Prob: 0.0003
+Token: ' royal' (ID: 29236), Prob: 0.0003
+Token: ' poetic' (ID: 75434), Prob: 0.0003
+Token: ' style' (ID: 1707), Prob: 0.0002
+Token: 'ban' (ID: 6850), Prob: 0.0002
+Token: ' Central' (ID: 10684), Prob: 0.0002
+Token: ' Literature' (ID: 46370), Prob: 0.0002
+Token: ' University' (ID: 3822), Prob: 0.0002
+Token: ' China' (ID: 5616), Prob: 0.0002
+Token: ' era' (ID: 11385), Prob: 0.0002
+Token: ' Li' (ID: 14511), Prob: 0.0002
+Token: ' Han' (ID: 20644), Prob: 0.0002
+Token: ' Ban' (ID: 22730), Prob: 0.0002
+Token: ' Palace' (ID: 30296), Prob: 0.0002
+Token: ' community' (ID: 3942), Prob: 0.0002
+Token: ' j' (ID: 502), Prob: 0.0002
+Token: ' regular' (ID: 5792), Prob: 0.0002
+Token: ' School' (ID: 6022), Prob: 0.0002
+Token: ' military' (ID: 6277), Prob: 0.0002
+Token: ' Acad' (ID: 12364), Prob: 0.0002
+Token: ' Dun' (ID: 28738), Prob: 0.0002
+Token: ' Secret' (ID: 8599), Prob: 0.0002
+Token: ' people' (ID: 1251), Prob: 0.0002
+Token: ' capital' (ID: 6722), Prob: 0.0002
+Token: ' Circle' (ID: 21224), Prob: 0.0002
+Token: 'l' (ID: 75), Prob: 0.0001
+Token: ' secret' (ID: 6234), Prob: 0.0001
+Token: 'shan' (ID: 82127), Prob: 0.0001
+Token: ' Sh' (ID: 1417), Prob: 0.0001
+Token: ' music' (ID: 4627), Prob: 0.0001
+Token: ' Tang' (ID: 40362), Prob: 0.0001
+Token: ' Ritual' (ID: 87788), Prob: 0.0001
+Token: ' S' (ID: 328), Prob: 0.0001
+Token: ' culture' (ID: 7674), Prob: 0.0001
+Token: ' Music' (ID: 10717), Prob: 0.0001
+Token: ' Fan' (ID: 24714), Prob: 0.0001
+Token: ' customs' (ID: 34769), Prob: 0.0001
+Token: ' Buddhist' (ID: 46741), Prob: 0.0001
+Token: ' Code' (ID: 6119), Prob: 0.0001
+Token: ' faction' (ID: 36380), Prob: 0.0001
+
+== Ranked Concepts (Clusters) ==
+Rank 1 | Centroid: ' poetry' | Score: 0.4453
+  Tokens: [' Poetry', ' poetry', ' poet', ' poem', ' Po', ' poets', ' poems', ' poetic']
+Rank 2 | Centroid: ' dynasty' | Score: 0.3027
+  Tokens: [' Dynasty', ' dynasty', ' clan']
+Rank 3 | Centroid: ' Court' | Score: 0.1396
+  Tokens: [' court', ' Court', ' Palace']
+Rank 4 | Centroid: ' literary' | Score: 0.0530
+  Tokens: [' literary', ' Literary', ' liter', ' literature', ' Literature']
+Rank 5 | Centroid: ' imperial' | Score: 0.0109
+  Tokens: [' Imperial', ' imperial', ' elite', ' Royal', ' royal', ' military']
+Rank 6 | Centroid: ' Hall' | Score: 0.0055
+  Tokens: [' Hall', ' hall']
+Rank 7 | Centroid: ' and' | Score: 0.0052
+  Tokens: [' X', 'y', ' and', ' Z', ' tri', ' G', "'s", ' style', ' j', ' people', 'l', ' S', ' Code']
+Rank 8 | Centroid: ' Sh' | Score: 0.0049
+  Tokens: [' San', ' Li', ' Sh']
+Rank 9 | Centroid: ' Academy' | Score: 0.0026
+  Tokens: [' Academy', ' academy', ' scholar', ' Scholar', ' University', ' School', ' Acad']
+Rank 10 | Centroid: ' Chinese' | Score: 0.0018
+  Tokens: [' Chang', 'hua', ' Chinese', ' China', ' Han', ' Tang', ' Buddhist']
+Rank 11 | Centroid: ' Great' | Score: 0.0016
+  Tokens: [' prom', ' Great', ' Central', ' regular']
+Rank 12 | Centroid: ' Fan' | Score: 0.0016
+  Tokens: [' canon', 'shan', ' Fan']
+Rank 13 | Centroid: ' society' | Score: 0.0012
+  Tokens: [' Society', ' society', ' era', ' community']
+Rank 14 | Centroid: ' government' | Score: 0.0012
+  Tokens: [' government', ' capital']
+Rank 15 | Centroid: ' cultural' | Score: 0.0010
+  Tokens: [' Cultural', ' history', ' cultural', ' culture', ' customs']
+Rank 16 | Centroid: ' Circle' | Score: 0.0008
+  Tokens: [' clique', ' circle', ' Circle', ' faction']
+Rank 17 | Centroid: 'wen' | Score: 0.0006
+  Tokens: ['wen']
+Rank 18 | Centroid: ' Ban' | Score: 0.0006
+  Tokens: ['ban', ' Ban', ' Dun']
+Rank 19 | Centroid: ' Secret' | Score: 0.0003
+  Tokens: [' Secret', ' secret']
+Rank 20 | Centroid: ' music' | Score: 0.0003
+  Tokens: [' music', ' Music']
+Rank 21 | Centroid: ' Ritual' | Score: 0.0001
+  Tokens: [' Ritual']
+
+**Chosen Concept:** Rank 1

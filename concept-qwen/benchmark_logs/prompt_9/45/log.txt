@@ -1,0 +1,132 @@
+--- Step 45 Log ---
+
+== Filtered Candidates ==
+Token: ' Tang' (ID: 40362), Prob: 0.8516
+Token: ' court' (ID: 5473), Prob: 0.0544
+Token: ' imperial' (ID: 34279), Prob: 0.0227
+Token: ' Song' (ID: 18971), Prob: 0.0095
+Token: ' time' (ID: 882), Prob: 0.0051
+Token: ' Han' (ID: 20644), Prob: 0.0045
+Token: ' official' (ID: 3946), Prob: 0.0039
+Token: ' S' (ID: 328), Prob: 0.0027
+Token: ' Southern' (ID: 16244), Prob: 0.0021
+Token: ' school' (ID: 2906), Prob: 0.0016
+Token: ' government' (ID: 3033), Prob: 0.0016
+Token: ' capital' (ID: 6722), Prob: 0.0016
+Token: ' famous' (ID: 11245), Prob: 0.0016
+Token: ' dynasty' (ID: 66846), Prob: 0.0016
+Token: ' high' (ID: 1550), Prob: 0.0014
+Token: ' late' (ID: 3309), Prob: 0.0014
+Token: ' High' (ID: 5124), Prob: 0.0014
+Token: ' prestigious' (ID: 40285), Prob: 0.0011
+Token: ' literary' (ID: 31365), Prob: 0.0010
+Token: ' N' (ID: 451), Prob: 0.0009
+Token: ' eighth' (ID: 36377), Prob: 0.0008
+Token: ' Jin' (ID: 38511), Prob: 0.0008
+Token: ' state' (ID: 1584), Prob: 0.0007
+Token: ' early' (ID: 4124), Prob: 0.0007
+Token: ' era' (ID: 11385), Prob: 0.0007
+Token: ' Capital' (ID: 18374), Prob: 0.0007
+Token: ' palace' (ID: 43339), Prob: 0.0007
+Token: ' Kai' (ID: 50610), Prob: 0.0007
+Token: ' local' (ID: 2205), Prob: 0.0005
+Token: ' political' (ID: 4948), Prob: 0.0004
+Token: ' Secret' (ID: 8599), Prob: 0.0004
+Token: ' Northern' (ID: 16926), Prob: 0.0004
+Token: ' Wei' (ID: 52448), Prob: 0.0004
+Token: ' Ming' (ID: 55883), Prob: 0.0004
+Token: ' later' (ID: 2937), Prob: 0.0004
+Token: ' Literary' (ID: 73624), Prob: 0.0004
+Token: ' so' (ID: 773), Prob: 0.0003
+Token: ' Imperial' (ID: 29913), Prob: 0.0003
+Token: ' T' (ID: 350), Prob: 0.0003
+Token: ' height' (ID: 2608), Prob: 0.0003
+Token: ' Later' (ID: 24885), Prob: 0.0003
+Token: ' Z' (ID: 1863), Prob: 0.0003
+Token: ' old' (ID: 2310), Prob: 0.0002
+Token: ' School' (ID: 6022), Prob: 0.0002
+Token: ' Court' (ID: 7154), Prob: 0.0002
+Token: ' Chinese' (ID: 8453), Prob: 0.0002
+Token: ' Three' (ID: 14513), Prob: 0.0002
+Token: ' empire' (ID: 31347), Prob: 0.0002
+Token: ' prevailing' (ID: 60029), Prob: 0.0002
+Token: ' highest' (ID: 8426), Prob: 0.0002
+Token: ' Eastern' (ID: 18028), Prob: 0.0002
+Token: ' bureaucracy' (ID: 63831), Prob: 0.0002
+Token: ' Sh' (ID: 1417), Prob: 0.0002
+Token: ' mid' (ID: 5099), Prob: 0.0002
+Token: ' Grand' (ID: 10304), Prob: 0.0002
+Token: ' Nan' (ID: 32142), Prob: 0.0002
+Token: ' e' (ID: 384), Prob: 0.0002
+Token: ' Dun' (ID: 28738), Prob: 0.0002
+Token: ' renowned' (ID: 35948), Prob: 0.0002
+Token: ' Li' (ID: 14511), Prob: 0.0001
+Token: ' Ministry' (ID: 19640), Prob: 0.0001
+Token: ' Songs' (ID: 39100), Prob: 0.0001
+Token: ' bureaucratic' (ID: 79395), Prob: 0.0001
+Token: ' southern' (ID: 18070), Prob: 0.0001
+Token: ' cabinet' (ID: 21921), Prob: 0.0001
+Token: ' reign' (ID: 30302), Prob: 0.0001
+Token: ' Chang' (ID: 43372), Prob: 0.0001
+Token: ' Poetry' (ID: 67687), Prob: 0.0001
+Token: ' eastern' (ID: 23149), Prob: 0.0001
+Token: ' secret' (ID: 6234), Prob: 0.0001
+Token: ' Central' (ID: 10684), Prob: 0.0001
+Token: ' Middle' (ID: 12592), Prob: 0.0001
+Token: ' Conf' (ID: 14974), Prob: 0.0001
+Token: ' Six' (ID: 18680), Prob: 0.0001
+Token: ' D' (ID: 422), Prob: 0.0001
+Token: ' country' (ID: 3146), Prob: 0.0001
+Token: ' National' (ID: 5055), Prob: 0.0001
+Token: ' military' (ID: 6277), Prob: 0.0001
+Token: ' civil' (ID: 8267), Prob: 0.0001
+Token: ' influential' (ID: 31449), Prob: 0.0001
+Token: ' scholarly' (ID: 62581), Prob: 0.0001
+Token: ' New' (ID: 1532), Prob: 0.0001
+Token: ' realm' (ID: 21889), Prob: 0.0001
+Token: ' Chen' (ID: 24495), Prob: 0.0001
+Token: ' Zhou' (ID: 66827), Prob: 0.0001
+Token: ' W' (ID: 467), Prob: 0.0001
+Token: ' style' (ID: 1707), Prob: 0.0001
+Token: ' examination' (ID: 23568), Prob: 0.0001
+Token: ' State' (ID: 3234), Prob: 0.0001
+
+== Ranked Concepts (Clusters) ==
+Rank 1 | Centroid: ' Chen' | Score: 0.8594
+  Tokens: [' Tang', ' Han', ' Jin', ' Kai', ' Wei', ' Ming', ' Chinese', ' Nan', ' Dun', ' Li', ' Chang', ' Conf', ' Chen', ' Zhou']
+Rank 2 | Centroid: ' School' | Score: 0.0566
+  Tokens: [' court', ' school', ' School', ' Court']
+Rank 3 | Centroid: ' imperial' | Score: 0.0232
+  Tokens: [' imperial', ' Imperial', ' empire']
+Rank 4 | Centroid: ' S' | Score: 0.0109
+  Tokens: [' time', ' S', ' N', ' local', ' so', ' T', ' Z', ' old', ' Sh', ' e', ' D', ' New', ' W', ' style']
+Rank 5 | Centroid: ' Song' | Score: 0.0096
+  Tokens: [' Song', ' Songs']
+Rank 6 | Centroid: ' renowned' | Score: 0.0095
+  Tokens: [' official', ' famous', ' prestigious', ' literary', ' political', ' Literary', ' prevailing', ' bureaucracy', ' renowned', ' bureaucratic', ' Poetry', ' influential', ' scholarly', ' examination']
+Rank 7 | Centroid: ' High' | Score: 0.0036
+  Tokens: [' high', ' High', ' height', ' highest', ' Grand']
+Rank 8 | Centroid: ' Southern' | Score: 0.0030
+  Tokens: [' Southern', ' Northern', ' Eastern', ' southern', ' eastern', ' Central']
+Rank 9 | Centroid: ' later' | Score: 0.0028
+  Tokens: [' late', ' early', ' later', ' Later']
+Rank 10 | Centroid: ' palace' | Score: 0.0026
+  Tokens: [' dynasty', ' palace', ' Ministry', ' cabinet']
+Rank 11 | Centroid: ' State' | Score: 0.0025
+  Tokens: [' government', ' state', ' country', ' National', ' State']
+Rank 12 | Centroid: ' capital' | Score: 0.0023
+  Tokens: [' capital', ' Capital']
+Rank 13 | Centroid: ' realm' | Score: 0.0009
+  Tokens: [' era', ' reign', ' realm']
+Rank 14 | Centroid: ' eighth' | Score: 0.0008
+  Tokens: [' eighth']
+Rank 15 | Centroid: ' Secret' | Score: 0.0005
+  Tokens: [' Secret', ' secret']
+Rank 16 | Centroid: ' Three' | Score: 0.0003
+  Tokens: [' Three', ' Six']
+Rank 17 | Centroid: ' mid' | Score: 0.0003
+  Tokens: [' mid', ' Middle']
+Rank 18 | Centroid: ' military' | Score: 0.0002
+  Tokens: [' military', ' civil']
+
+**Chosen Concept:** Rank 1

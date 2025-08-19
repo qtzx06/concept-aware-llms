@@ -1,166 +1,150 @@
 --- Step 60 Log ---
 
 == Filtered Candidates ==
-Token: ' town' (ID: 6290), Prob: 0.5078
-Token: ' village' (ID: 14126), Prob: 0.3945
-Token: ' house' (ID: 3753), Prob: 0.0471
-Token: ' city' (ID: 3283), Prob: 0.0153
-Token: ' room' (ID: 3054), Prob: 0.0082
-Token: ' community' (ID: 3942), Prob: 0.0056
-Token: ' home' (ID: 2114), Prob: 0.0039
-Token: ' apartment' (ID: 13154), Prob: 0.0034
-Token: ' place' (ID: 1992), Prob: 0.0027
-Token: ' area' (ID: 3082), Prob: 0.0018
-Token: ' neighborhood' (ID: 12534), Prob: 0.0018
-Token: ' country' (ID: 3146), Prob: 0.0007
-Token: ' family' (ID: 2997), Prob: 0.0006
-Token: ' building' (ID: 4752), Prob: 0.0004
-Token: ' mountain' (ID: 16301), Prob: 0.0004
-Token: ' cottage' (ID: 45622), Prob: 0.0004
-Token: ' forest' (ID: 13638), Prob: 0.0004
-Token: ' attic' (ID: 73621), Prob: 0.0003
-Token: ' park' (ID: 6118), Prob: 0.0002
-Token: ' backyard' (ID: 35660), Prob: 0.0002
-Token: ' part' (ID: 949), Prob: 0.0002
-Token: ' island' (ID: 12922), Prob: 0.0001
-Token: ' hometown' (ID: 43016), Prob: 0.0001
-Token: ' rural' (ID: 19082), Prob: 0.0001
-Token: ' valley' (ID: 33581), Prob: 0.0001
-Token: ' environment' (ID: 4573), Prob: 0.0001
-Token: ' garden' (ID: 13551), Prob: 0.0001
-Token: ' cabin' (ID: 13386), Prob: 0.0001
-Token: ' region' (ID: 5537), Prob: 0.0000
-Token: ' studio' (ID: 14029), Prob: 0.0000
-Token: ' wooden' (ID: 22360), Prob: 0.0000
-Token: ' world' (ID: 1879), Prob: 0.0000
-Token: ' space' (ID: 3550), Prob: 0.0000
-Token: ' cave' (ID: 25385), Prob: 0.0000
-Token: ' hill' (ID: 23946), Prob: 0.0000
-Token: ' courtyard' (ID: 65285), Prob: 0.0000
-Token: ' household' (ID: 13732), Prob: 0.0000
-Token: ' remote' (ID: 8699), Prob: 0.0000
-Token: ' farm' (ID: 8785), Prob: 0.0000
-Token: ' plot' (ID: 7089), Prob: 0.0000
-Token: ' square' (ID: 9334), Prob: 0.0000
-Token: ' countryside' (ID: 46867), Prob: 0.0000
-Token: ' orphan' (ID: 12746), Prob: 0.0000
-Token: ' urban' (ID: 15662), Prob: 0.0000
-Token: ' coastal' (ID: 34235), Prob: 0.0000
-Token: ' corner' (ID: 9131), Prob: 0.0000
-Token: ' flat' (ID: 10063), Prob: 0.0000
-Token: ' dorm' (ID: 29109), Prob: 0.0000
-Token: ' school' (ID: 2906), Prob: 0.0000
-Token: ' castle' (ID: 32584), Prob: 0.0000
-Token: '-town' (ID: 82903), Prob: 0.0000
-Token: ' block' (ID: 2504), Prob: 0.0000
-Token: ' setting' (ID: 6243), Prob: 0.0000
-Token: ' jungle' (ID: 44420), Prob: 0.0000
-Token: ' tree' (ID: 4916), Prob: 0.0000
-Token: ' story' (ID: 3364), Prob: 0.0000
-Token: ' land' (ID: 4268), Prob: 0.0000
-Token: ' box' (ID: 3745), Prob: 0.0000
-Token: ' yard' (ID: 19515), Prob: 0.0000
-Token: ' kitchen' (ID: 9780), Prob: 0.0000
-Token: ' bedroom' (ID: 13829), Prob: 0.0000
-Token: ' settlement' (ID: 17079), Prob: 0.0000
-Token: ' piece' (ID: 6573), Prob: 0.0000
-Token: ' shop' (ID: 8061), Prob: 0.0000
-Token: ' society' (ID: 8232), Prob: 0.0000
-Token: ' desert' (ID: 23603), Prob: 0.0000
-Token: ' balcony' (ID: 43852), Prob: 0.0000
-Token: ' way' (ID: 1616), Prob: 0.0000
-Token: ' suburban' (ID: 45218), Prob: 0.0000
-Token: ' toy' (ID: 21357), Prob: 0.0000
-Token: ' isolated' (ID: 24203), Prob: 0.0000
-Token: ' tower' (ID: 21271), Prob: 0.0000
-Token: ' location' (ID: 3728), Prob: 0.0000
-Token: ' basement' (ID: 30641), Prob: 0.0000
-Token: ' hut' (ID: 75879), Prob: 0.0000
-Token: ' shelter' (ID: 22906), Prob: 0.0000
-Token: ' budget' (ID: 8039), Prob: 0.0000
-Token: ' street' (ID: 8592), Prob: 0.0000
-Token: ' camp' (ID: 3113), Prob: 0.0000
-Token: ' section' (ID: 3772), Prob: 0.0000
-Token: ' living' (ID: 5382), Prob: 0.0000
-Token: ' structure' (ID: 5944), Prob: 0.0000
-Token: 'house' (ID: 7675), Prob: 0.0000
-Token: ' plane' (ID: 11031), Prob: 0.0000
-Token: ' district' (ID: 9290), Prob: 0.0000
-Token: ' classroom' (ID: 24017), Prob: 0.0000
-Token: ' child' (ID: 1682), Prob: 0.0000
-Token: ' mansion' (ID: 51428), Prob: 0.0000
-Token: ' rain' (ID: 11174), Prob: 0.0000
-Token: ' residential' (ID: 20057), Prob: 0.0000
-Token: ' woods' (ID: 32533), Prob: 0.0000
-Token: ' porch' (ID: 44647), Prob: 0.0000
-Token: ' workshop' (ID: 25073), Prob: 0.0000
-Token: ' car' (ID: 1803), Prob: 0.0000
-Token: ' kingdom' (ID: 25079), Prob: 0.0000
+Token: ' The' (ID: 576), Prob: 0.7656
+Token: ' Casual' (ID: 48822), Prob: 0.0149
+Token: ' Doctor' (ID: 18635), Prob: 0.0103
+Token: ' Cold' (ID: 23185), Prob: 0.0070
+Token: ' Black' (ID: 5235), Prob: 0.0066
+Token: ' Yes' (ID: 7414), Prob: 0.0055
+Token: ' Sherlock' (ID: 60626), Prob: 0.0049
+Token: ' East' (ID: 6326), Prob: 0.0045
+Token: ' Life' (ID: 9414), Prob: 0.0045
+Token: ' New' (ID: 1532), Prob: 0.0043
+Token: ' Red' (ID: 3731), Prob: 0.0040
+Token: ' A' (ID: 362), Prob: 0.0026
+Token: ' War' (ID: 5004), Prob: 0.0023
+Token: ' Victoria' (ID: 22417), Prob: 0.0023
+Token: ' Happy' (ID: 23355), Prob: 0.0022
+Token: ' White' (ID: 5807), Prob: 0.0019
+Token: ' Top' (ID: 6909), Prob: 0.0018
+Token: ' School' (ID: 6022), Prob: 0.0017
+Token: ' No' (ID: 2308), Prob: 0.0016
+Token: ' Strict' (ID: 52881), Prob: 0.0012
+Token: ' I' (ID: 358), Prob: 0.0012
+Token: ' This' (ID: 1096), Prob: 0.0012
+Token: ' One' (ID: 3776), Prob: 0.0012
+Token: ' Love' (ID: 10689), Prob: 0.0012
+Token: ' F' (ID: 434), Prob: 0.0011
+Token: ' Our' (ID: 5633), Prob: 0.0011
+Token: ' Last' (ID: 7996), Prob: 0.0011
+Token: ' Four' (ID: 13322), Prob: 0.0011
+Token: ' Trust' (ID: 16816), Prob: 0.0011
+Token: ' Money' (ID: 17633), Prob: 0.0010
+Token: ' Time' (ID: 4120), Prob: 0.0010
+Token: ' Mr' (ID: 4392), Prob: 0.0010
+Token: ' My' (ID: 3017), Prob: 0.0009
+Token: ' Out' (ID: 4371), Prob: 0.0009
+Token: ' Just' (ID: 4599), Prob: 0.0009
+Token: ' Big' (ID: 6164), Prob: 0.0009
+Token: ' House' (ID: 4678), Prob: 0.0008
+Token: ' Only' (ID: 8278), Prob: 0.0008
+Token: ' Snow' (ID: 18901), Prob: 0.0008
+Token: ' Doctors' (ID: 53843), Prob: 0.0008
+Token: ' Men' (ID: 11012), Prob: 0.0008
+Token: ' Hol' (ID: 15696), Prob: 0.0008
+Token: ' In' (ID: 758), Prob: 0.0007
+Token: ' Home' (ID: 5379), Prob: 0.0007
+Token: ' Being' (ID: 20690), Prob: 0.0007
+Token: ' Prison' (ID: 41518), Prob: 0.0007
+Token: ' Thick' (ID: 81277), Prob: 0.0007
+Token: ' the' (ID: 279), Prob: 0.0007
+Token: ' U' (ID: 547), Prob: 0.0007
+Token: ' Sp' (ID: 3089), Prob: 0.0007
+Token: ' More' (ID: 4398), Prob: 0.0007
+Token: ' Cle' (ID: 36002), Prob: 0.0007
+Token: ' on' (ID: 389), Prob: 0.0007
+Token: ' Mon' (ID: 3128), Prob: 0.0007
+Token: ' Question' (ID: 15846), Prob: 0.0007
+Token: ' in' (ID: 304), Prob: 0.0006
+Token: ' S' (ID: 328), Prob: 0.0006
+Token: ' Not' (ID: 2806), Prob: 0.0006
+Token: ' Blue' (ID: 8697), Prob: 0.0006
+Token: ' Mer' (ID: 8755), Prob: 0.0006
+Token: ' D' (ID: 422), Prob: 0.0006
+Token: ' Heart' (ID: 17965), Prob: 0.0006
+Token: ' Have' (ID: 12243), Prob: 0.0005
+Token: ' Death' (ID: 15911), Prob: 0.0005
+Token: ' Mrs' (ID: 17618), Prob: 0.0005
+Token: ' Father' (ID: 20322), Prob: 0.0005
+Token: ' Wolf' (ID: 25230), Prob: 0.0005
+Token: ' Planet' (ID: 28835), Prob: 0.0005
+Token: ' Q' (ID: 1207), Prob: 0.0005
+Token: ' Dr' (ID: 2926), Prob: 0.0005
+Token: ' Two' (ID: 9043), Prob: 0.0005
+Token: ' Women' (ID: 10973), Prob: 0.0005
+Token: ' Another' (ID: 13293), Prob: 0.0005
+Token: ' Catch' (ID: 20930), Prob: 0.0005
+Token: ' Pride' (ID: 42146), Prob: 0.0005
+Token: ' Good' (ID: 7684), Prob: 0.0005
+Token: ' Secret' (ID: 8599), Prob: 0.0005
+Token: ' Past' (ID: 23640), Prob: 0.0005
+Token: ' Inside' (ID: 27368), Prob: 0.0005
+Token: ' Torch' (ID: 78743), Prob: 0.0005
+Token: ' High' (ID: 5124), Prob: 0.0005
+Token: ' David' (ID: 6798), Prob: 0.0005
+Token: ' Sl' (ID: 6852), Prob: 0.0005
+Token: ' Private' (ID: 9679), Prob: 0.0005
+Token: ' Never' (ID: 14695), Prob: 0.0005
+Token: ' Cro' (ID: 24592), Prob: 0.0005
+Token: ' Waiting' (ID: 52186), Prob: 0.0005
+Token: ' G' (ID: 479), Prob: 0.0004
+Token: ' It' (ID: 1084), Prob: 0.0004
+Token: ' Army' (ID: 13011), Prob: 0.0004
+Token: ' Tomorrow' (ID: 54996), Prob: 0.0004
 
 == Ranked Concepts (Clusters) ==
-Rank 1 | Centroid: ' town' | Score: 0.9180
-  Tokens: [' town', ' village', ' city', ' hometown', '-town']
-Rank 2 | Centroid: ' house' | Score: 0.0510
-  Tokens: [' house', ' home', ' household', 'house']
-Rank 3 | Centroid: ' room' | Score: 0.0082
-  Tokens: [' room']
-Rank 4 | Centroid: ' community' | Score: 0.0057
-  Tokens: [' community', ' world', ' society']
-Rank 5 | Centroid: ' courtyard' | Score: 0.0041
-  Tokens: [' apartment', ' attic', ' backyard', ' courtyard', ' kitchen', ' bedroom', ' balcony', ' basement', ' porch']
-Rank 6 | Centroid: ' region' | Score: 0.0037
-  Tokens: [' area', ' neighborhood', ' region', ' district']
-Rank 7 | Centroid: ' location' | Score: 0.0027
-  Tokens: [' place', ' way', ' location']
-Rank 8 | Centroid: ' country' | Score: 0.0007
-  Tokens: [' country', ' kingdom']
-Rank 9 | Centroid: ' mountain' | Score: 0.0007
-  Tokens: [' mountain', ' island', ' valley', ' hill']
-Rank 10 | Centroid: ' family' | Score: 0.0006
-  Tokens: [' family']
-Rank 11 | Centroid: ' castle' | Score: 0.0005
-  Tokens: [' cottage', ' cabin', ' cave', ' castle', ' hut', ' mansion']
-Rank 12 | Centroid: ' forest' | Score: 0.0005
-  Tokens: [' forest', ' wooden', ' jungle', ' tree', ' desert', ' woods']
-Rank 13 | Centroid: ' building' | Score: 0.0004
-  Tokens: [' building']
-Rank 14 | Centroid: ' park' | Score: 0.0003
-  Tokens: [' park', ' garden']
-Rank 15 | Centroid: ' section' | Score: 0.0002
-  Tokens: [' part', ' square', ' block', ' box', ' piece', ' section']
-Rank 16 | Centroid: ' rural' | Score: 0.0002
-  Tokens: [' rural', ' countryside', ' urban', ' coastal', ' suburban']
-Rank 17 | Centroid: ' setting' | Score: 0.0001
-  Tokens: [' environment', ' setting', ' settlement', ' structure']
-Rank 18 | Centroid: ' workshop' | Score: 0.0001
-  Tokens: [' studio', ' story', ' shop', ' classroom', ' workshop']
-Rank 19 | Centroid: ' flat' | Score: 0.0000
-  Tokens: [' remote', ' flat', ' living']
-Rank 20 | Centroid: ' farm' | Score: 0.0000
-  Tokens: [' farm', ' land', ' rain']
-Rank 21 | Centroid: ' space' | Score: 0.0000
-  Tokens: [' space', ' plane']
-Rank 22 | Centroid: ' orphan' | Score: 0.0000
-  Tokens: [' orphan', ' isolated']
-Rank 23 | Centroid: ' corner' | Score: 0.0000
-  Tokens: [' corner', ' tower']
-Rank 24 | Centroid: ' dorm' | Score: 0.0000
-  Tokens: [' dorm', ' shelter']
-Rank 25 | Centroid: ' school' | Score: 0.0000
-  Tokens: [' school', ' camp']
-Rank 26 | Centroid: ' plot' | Score: 0.0000
-  Tokens: [' plot']
-Rank 27 | Centroid: ' toy' | Score: 0.0000
-  Tokens: [' toy', ' child']
-Rank 28 | Centroid: ' yard' | Score: 0.0000
-  Tokens: [' yard']
-Rank 29 | Centroid: ' budget' | Score: 0.0000
-  Tokens: [' budget']
-Rank 30 | Centroid: ' street' | Score: 0.0000
-  Tokens: [' street']
-Rank 31 | Centroid: ' residential' | Score: 0.0000
-  Tokens: [' residential']
-Rank 32 | Centroid: ' car' | Score: 0.0000
-  Tokens: [' car']
+Rank 1 | Centroid: ' This' | Score: 0.7734
+  Tokens: [' The', ' No', ' This', ' My', ' Just', ' In', ' More', ' Not', ' It']
+Rank 2 | Centroid: ' Casual' | Score: 0.0165
+  Tokens: [' Casual', ' Trust', ' Catch']
+Rank 3 | Centroid: ' Blue' | Score: 0.0140
+  Tokens: [' Black', ' Red', ' White', ' Big', ' Blue']
+Rank 4 | Centroid: ' Doctor' | Score: 0.0117
+  Tokens: [' Doctor', ' Doctors', ' Father']
+Rank 5 | Centroid: ' the' | Score: 0.0096
+  Tokens: [' A', ' I', ' F', ' the', ' U', ' on', ' in', ' S', ' D', ' Q', ' G']
+Rank 6 | Centroid: ' Cro' | Score: 0.0090
+  Tokens: [' Cold', ' Snow', ' Cle', ' Cro']
+Rank 7 | Centroid: ' Have' | Score: 0.0085
+  Tokens: [' Yes', ' Only', ' Being', ' Have', ' Never', ' Waiting']
+Rank 8 | Centroid: ' High' | Score: 0.0084
+  Tokens: [' East', ' Top', ' Last', ' Past', ' High']
+Rank 9 | Centroid: ' Sherlock' | Score: 0.0081
+  Tokens: [' Sherlock', ' Victoria', ' Pride', ' Torch']
+Rank 10 | Centroid: ' Life' | Score: 0.0078
+  Tokens: [' Life', ' Love', ' Time', ' Heart', ' Death']
+Rank 11 | Centroid: ' Two' | Score: 0.0043
+  Tokens: [' One', ' Our', ' Four', ' Two', ' Another']
+Rank 12 | Centroid: ' New' | Score: 0.0043
+  Tokens: [' New']
+Rank 13 | Centroid: ' Army' | Score: 0.0034
+  Tokens: [' School', ' Prison', ' Planet', ' Army']
+Rank 14 | Centroid: ' Mon' | Score: 0.0029
+  Tokens: [' Men', ' Hol', ' Mon', ' Mer']
+Rank 15 | Centroid: ' Happy' | Score: 0.0026
+  Tokens: [' Happy', ' Good']
+Rank 16 | Centroid: ' War' | Score: 0.0023
+  Tokens: [' War']
+Rank 17 | Centroid: ' Private' | Score: 0.0022
+  Tokens: [' Strict', ' Secret', ' Private']
+Rank 18 | Centroid: ' Women' | Score: 0.0021
+  Tokens: [' Money', ' Wolf', ' Women']
+Rank 19 | Centroid: ' House' | Score: 0.0016
+  Tokens: [' House', ' Home']
+Rank 20 | Centroid: ' Mr' | Score: 0.0015
+  Tokens: [' Mr', ' Mrs']
+Rank 21 | Centroid: ' Sp' | Score: 0.0011
+  Tokens: [' Sp', ' Sl']
+Rank 22 | Centroid: ' Dr' | Score: 0.0010
+  Tokens: [' Dr', ' David']
+Rank 23 | Centroid: ' Inside' | Score: 0.0009
+  Tokens: [' Inside', ' Tomorrow']
+Rank 24 | Centroid: ' Out' | Score: 0.0009
+  Tokens: [' Out']
+Rank 25 | Centroid: ' Thick' | Score: 0.0007
+  Tokens: [' Thick']
+Rank 26 | Centroid: ' Question' | Score: 0.0007
+  Tokens: [' Question']
 
 **Chosen Concept:** Rank 1

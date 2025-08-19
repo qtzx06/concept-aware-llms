@@ -1,0 +1,105 @@
+--- Step 91 Log ---
+
+== Filtered Candidates ==
+Token: ' BBC' (ID: 18096), Prob: 1.0000
+Token: 'BBC' (ID: 66755), Prob: 0.0002
+Token: ' bbc' (ID: 90626), Prob: 0.0001
+Token: ' BB' (ID: 18270), Prob: 0.0000
+Token: ' ABC' (ID: 19360), Prob: 0.0000
+Token: ' B' (ID: 425), Prob: 0.0000
+Token: 'bbc' (ID: 84185), Prob: 0.0000
+Token: ' British' (ID: 7855), Prob: 0.0000
+Token: ' Britann' (ID: 97420), Prob: 0.0000
+Token: ' CBC' (ID: 45512), Prob: 0.0000
+Token: ' Crown' (ID: 28643), Prob: 0.0000
+Token: ' television' (ID: 12425), Prob: 0.0000
+Token: ' BC' (ID: 18040), Prob: 0.0000
+Token: ' CBS' (ID: 24029), Prob: 0.0000
+Token: ' BBB' (ID: 94458), Prob: 0.0000
+Token: ' TV' (ID: 5883), Prob: 0.0000
+Token: ' Bible' (ID: 16947), Prob: 0.0000
+Token: ' UK' (ID: 6424), Prob: 0.0000
+Token: ' broadcast' (ID: 12899), Prob: 0.0000
+Token: ' the' (ID: 279), Prob: 0.0000
+Token: ' NBC' (ID: 23521), Prob: 0.0000
+Token: ' D' (ID: 422), Prob: 0.0000
+Token: ' The' (ID: 576), Prob: 0.0000
+Token: ' Television' (ID: 40345), Prob: 0.0000
+Token: ' GCC' (ID: 44938), Prob: 0.0000
+Token: ' Britain' (ID: 13224), Prob: 0.0000
+Token: ' GBP' (ID: 83261), Prob: 0.0000
+Token: ' CCC' (ID: 91474), Prob: 0.0000
+Token: ' broadcasting' (ID: 48827), Prob: 0.0000
+Token: ' Microsoft' (ID: 5100), Prob: 0.0000
+Token: ' IBM' (ID: 27922), Prob: 0.0000
+Token: ' Britt' (ID: 63017), Prob: 0.0000
+Token: ' I' (ID: 358), Prob: 0.0000
+Token: ' crown' (ID: 26533), Prob: 0.0000
+Token: ' ICC' (ID: 58232), Prob: 0.0000
+Token: ' T' (ID: 350), Prob: 0.0000
+Token: ' Bobby' (ID: 37381), Prob: 0.0000
+Token: ' abbreviation' (ID: 71478), Prob: 0.0000
+Token: ' Broadcasting' (ID: 63460), Prob: 0.0000
+Token: ' C' (ID: 356), Prob: 0.0000
+Token: ' series' (ID: 4013), Prob: 0.0000
+Token: ' Brit' (ID: 5450), Prob: 0.0000
+Token: ' HBO' (ID: 42878), Prob: 0.0000
+Token: ' A' (ID: 362), Prob: 0.0000
+Token: ' CCTV' (ID: 70238), Prob: 0.0000
+Token: ' E' (ID: 468), Prob: 0.0000
+Token: ' Prince' (ID: 19351), Prob: 0.0000
+Token: ' NHS' (ID: 36281), Prob: 0.0000
+Token: ' FCC' (ID: 37576), Prob: 0.0000
+Token: ' P' (ID: 393), Prob: 0.0000
+Token: ' Broadcast' (ID: 31965), Prob: 0.0000
+Token: ' Bollywood' (ID: 64186), Prob: 0.0000
+Token: ' ITV' (ID: 93355), Prob: 0.0000
+Token: ' title' (ID: 2265), Prob: 0.0000
+Token: ' Royal' (ID: 16194), Prob: 0.0000
+Token: ' CDC' (ID: 39309), Prob: 0.0000
+Token: ' G' (ID: 479), Prob: 0.0000
+Token: ' first' (ID: 1156), Prob: 0.0000
+Token: ' Scottish' (ID: 26096), Prob: 0.0000
+Token: ' Bib' (ID: 29445), Prob: 0.0000
+Token: ' Billy' (ID: 32819), Prob: 0.0000
+Token: ' Birmingham' (ID: 35837), Prob: 0.0000
+Token: ' Yorkshire' (ID: 50227), Prob: 0.0000
+Token: ' Bing' (ID: 53487), Prob: 0.0000
+Token: ' North' (ID: 4787), Prob: 0.0000
+Token: ' USS' (ID: 38508), Prob: 0.0000
+
+== Ranked Concepts (Clusters) ==
+Rank 1 | Centroid: ' BBC' | Score: 1.0000
+  Tokens: [' BBC', 'BBC', ' bbc', 'bbc']
+Rank 2 | Centroid: ' BB' | Score: 0.0000
+  Tokens: [' BB', ' BBB']
+Rank 3 | Centroid: ' ABC' | Score: 0.0000
+  Tokens: [' ABC', ' BC']
+Rank 4 | Centroid: ' the' | Score: 0.0000
+  Tokens: [' B', ' the', ' D', ' The', ' I', ' T', ' C', ' A', ' E', ' P', ' G', ' first']
+Rank 5 | Centroid: ' CBS' | Score: 0.0000
+  Tokens: [' CBC', ' CBS', ' NBC', ' HBO']
+Rank 6 | Centroid: ' British' | Score: 0.0000
+  Tokens: [' British', ' UK', ' Britain', ' GBP', ' NHS', ' Scottish', ' Birmingham', ' Yorkshire']
+Rank 7 | Centroid: ' television' | Score: 0.0000
+  Tokens: [' television', ' TV', ' Television', ' CCTV', ' ITV']
+Rank 8 | Centroid: ' Brit' | Score: 0.0000
+  Tokens: [' Britann', ' Britt', ' Brit']
+Rank 9 | Centroid: ' Crown' | Score: 0.0000
+  Tokens: [' Crown', ' crown', ' Prince', ' Royal']
+Rank 10 | Centroid: ' Billy' | Score: 0.0000
+  Tokens: [' Bible', ' Bobby', ' Bib', ' Billy', ' Bing']
+Rank 11 | Centroid: ' ICC' | Score: 0.0000
+  Tokens: [' GCC', ' CCC', ' ICC', ' FCC', ' CDC']
+Rank 12 | Centroid: ' broadcasting' | Score: 0.0000
+  Tokens: [' broadcast', ' broadcasting', ' Broadcasting', ' Broadcast']
+Rank 13 | Centroid: ' Microsoft' | Score: 0.0000
+  Tokens: [' Microsoft', ' IBM', ' North']
+Rank 14 | Centroid: ' title' | Score: 0.0000
+  Tokens: [' abbreviation', ' series', ' title']
+Rank 15 | Centroid: ' Bollywood' | Score: 0.0000
+  Tokens: [' Bollywood']
+Rank 16 | Centroid: ' USS' | Score: 0.0000
+  Tokens: [' USS']
+
+**Chosen Concept:** Rank 1

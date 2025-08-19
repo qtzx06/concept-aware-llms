@@ -1,157 +1,164 @@
 --- Step 14 Log ---
 
 == Filtered Candidates ==
-Token: ' statement' (ID: 5114), Prob: 0.9961
-Token: ' sentence' (ID: 11652), Prob: 0.0028
-Token: ' message' (ID: 1943), Prob: 0.0001
-Token: ' text' (ID: 1467), Prob: 0.0001
-Token: ' phrase' (ID: 17133), Prob: 0.0001
-Token: ' instruction' (ID: 7600), Prob: 0.0000
-Token: ' story' (ID: 3364), Prob: 0.0000
-Token: ' quote' (ID: 12641), Prob: 0.0000
-Token: ' paragraph' (ID: 14311), Prob: 0.0000
-Token: ' statements' (ID: 12239), Prob: 0.0000
-Token: ' prompt' (ID: 9934), Prob: 0.0000
-Token: ' sentiment' (ID: 25975), Prob: 0.0000
-Token: 'statement' (ID: 24184), Prob: 0.0000
-Token: ' query' (ID: 3239), Prob: 0.0000
-Token: ' narrative' (ID: 19221), Prob: 0.0000
-Token: ' string' (ID: 914), Prob: 0.0000
-Token: ' passage' (ID: 21085), Prob: 0.0000
-Token: ' original' (ID: 4024), Prob: 0.0000
-Token: ' short' (ID: 2805), Prob: 0.0000
-Token: ' news' (ID: 3669), Prob: 0.0000
-Token: ' stmt' (ID: 20020), Prob: 0.0000
-Token: ' stanza' (ID: 95436), Prob: 0.0000
-Token: ' summary' (ID: 12126), Prob: 0.0000
-Token: ' user' (ID: 1196), Prob: 0.0000
-Token: ' line' (ID: 1555), Prob: 0.0000
-Token: ' JSON' (ID: 4718), Prob: 0.0000
-Token: ' embedded' (ID: 22864), Prob: 0.0000
-Token: ' key' (ID: 1376), Prob: 0.0000
-Token: ' bullet' (ID: 17432), Prob: 0.0000
-Token: ' example' (ID: 3110), Prob: 0.0000
-Token: ' scenario' (ID: 15048), Prob: 0.0000
-Token: ' HTML' (ID: 9308), Prob: 0.0000
-Token: ' meta' (ID: 8823), Prob: 0.0000
-Token: ' response' (ID: 2033), Prob: 0.0000
-Token: ' Statement' (ID: 21756), Prob: 0.0000
-Token: ' insertion' (ID: 35927), Prob: 0.0000
-Token: ' Vietnamese' (ID: 48477), Prob: 0.0000
-Token: ' task' (ID: 3383), Prob: 0.0000
-Token: ' medical' (ID: 6457), Prob: 0.0000
-Token: ' emotional' (ID: 14269), Prob: 0.0000
-Token: ' Arabic' (ID: 34117), Prob: 0.0000
-Token: ' Chinese' (ID: 8453), Prob: 0.0000
-Token: ' instructional' (ID: 71245), Prob: 0.0000
-Token: ' content' (ID: 2213), Prob: 0.0000
-Token: ' extended' (ID: 11577), Prob: 0.0000
-Token: ' nested' (ID: 24034), Prob: 0.0000
-Token: ' verse' (ID: 32387), Prob: 0.0000
-Token: ' stat' (ID: 2793), Prob: 0.0000
-Token: ' tweet' (ID: 11809), Prob: 0.0000
-Token: ' student' (ID: 5458), Prob: 0.0000
-Token: ' notice' (ID: 5293), Prob: 0.0000
-Token: ' fact' (ID: 2097), Prob: 0.0000
-Token: ' Japanese' (ID: 10769), Prob: 0.0000
-Token: ' final' (ID: 1590), Prob: 0.0000
-Token: ' scene' (ID: 6109), Prob: 0.0000
-Token: ' reminder' (ID: 26528), Prob: 0.0000
-Token: ' body' (ID: 2487), Prob: 0.0000
-Token: ' stimulus' (ID: 38435), Prob: 0.0000
-Token: ' context' (ID: 2266), Prob: 0.0000
-Token: ' stem' (ID: 19101), Prob: 0.0000
-Token: ' proverb' (ID: 78438), Prob: 0.0000
-Token: ' SQL' (ID: 7870), Prob: 0.0000
-Token: ' inner' (ID: 9179), Prob: 0.0000
-Token: ' SMS' (ID: 29909), Prob: 0.0000
-Token: ' embedding' (ID: 39088), Prob: 0.0000
-Token: ' poetic' (ID: 75434), Prob: 0.0000
-Token: '	statement' (ID: 89566), Prob: 0.0000
-Token: ' thought' (ID: 3381), Prob: 0.0000
-Token: ' emotion' (ID: 19772), Prob: 0.0000
-Token: ' sub' (ID: 1186), Prob: 0.0000
-Token: ' part' (ID: 949), Prob: 0.0000
-Token: ' training' (ID: 4862), Prob: 0.0000
-Token: ' situation' (ID: 6534), Prob: 0.0000
-Token: ' truth' (ID: 8046), Prob: 0.0000
-Token: ' assistant' (ID: 17847), Prob: 0.0000
-Token: ' statistical' (ID: 28464), Prob: 0.0000
-Token: ' new' (ID: 501), Prob: 0.0000
-Token: ' specific' (ID: 3151), Prob: 0.0000
-Token: ' question' (ID: 3405), Prob: 0.0000
-Token: ' sentences' (ID: 22870), Prob: 0.0000
-Token: ' narration' (ID: 85080), Prob: 0.0000
-Token: ' multi' (ID: 7299), Prob: 0.0000
-Token: ' segment' (ID: 10238), Prob: 0.0000
-Token: ' educational' (ID: 16229), Prob: 0.0000
-Token: ' sting' (ID: 54313), Prob: 0.0000
-Token: ' script' (ID: 5316), Prob: 0.0000
-Token: ' English' (ID: 6364), Prob: 0.0000
-Token: ' journey' (ID: 11618), Prob: 0.0000
-Token: ' invitation' (ID: 28688), Prob: 0.0000
-Token: ' concise' (ID: 63594), Prob: 0.0000
-Token: ' child' (ID: 1682), Prob: 0.0000
-Token: ' insert' (ID: 5656), Prob: 0.0000
-Token: ' snippet' (ID: 43065), Prob: 0.0000
-Token: ' input' (ID: 1946), Prob: 0.0000
-Token: ' ending' (ID: 13391), Prob: 0.0000
-Token: ' storyline' (ID: 50628), Prob: 0.0000
-Token: ' speech' (ID: 8806), Prob: 0.0000
-Token: ' observation' (ID: 21930), Prob: 0.0000
+Token: ' Thick' (ID: 81277), Prob: 0.1758
+Token: ' Last' (ID: 7996), Prob: 0.0942
+Token: ' Arch' (ID: 9494), Prob: 0.0942
+Token: ' Good' (ID: 7684), Prob: 0.0270
+Token: ' Great' (ID: 8513), Prob: 0.0175
+Token: ' Young' (ID: 13263), Prob: 0.0164
+Token: ' Casual' (ID: 48822), Prob: 0.0164
+Token: ' Streets' (ID: 65518), Prob: 0.0164
+Token: ' L' (ID: 444), Prob: 0.0144
+Token: ' Missing' (ID: 35264), Prob: 0.0144
+Token: ' Mend' (ID: 45111), Prob: 0.0112
+Token: ' F' (ID: 434), Prob: 0.0106
+Token: ' Office' (ID: 8246), Prob: 0.0106
+Token: ' Only' (ID: 8278), Prob: 0.0099
+Token: ' Professionals' (ID: 70402), Prob: 0.0099
+Token: ' IT' (ID: 8700), Prob: 0.0093
+Token: ' Apprentice' (ID: 83891), Prob: 0.0093
+Token: ' Lost' (ID: 27252), Prob: 0.0087
+Token: ' Fall' (ID: 14785), Prob: 0.0077
+Token: ' Crown' (ID: 28643), Prob: 0.0077
+Token: ' Mind' (ID: 22904), Prob: 0.0073
+Token: ' S' (ID: 328), Prob: 0.0068
+Token: ' One' (ID: 3776), Prob: 0.0064
+Token: ' Bill' (ID: 8596), Prob: 0.0064
+Token: ' Royal' (ID: 16194), Prob: 0.0064
+Token: ' Witness' (ID: 48899), Prob: 0.0053
+Token: ' Past' (ID: 23640), Prob: 0.0050
+Token: ' Black' (ID: 5235), Prob: 0.0047
+Token: ' Fast' (ID: 17288), Prob: 0.0047
+Token: ' Truth' (ID: 29098), Prob: 0.0047
+Token: ' Night' (ID: 12826), Prob: 0.0041
+Token: ' Doctors' (ID: 53843), Prob: 0.0041
+Token: ' League' (ID: 8953), Prob: 0.0036
+Token: ' Chair' (ID: 16090), Prob: 0.0036
+Token: ' D' (ID: 422), Prob: 0.0034
+Token: ' End' (ID: 3972), Prob: 0.0034
+Token: ' Strict' (ID: 52881), Prob: 0.0034
+Token: ' Red' (ID: 3731), Prob: 0.0032
+Token: ' Sarah' (ID: 20445), Prob: 0.0032
+Token: ' O' (ID: 506), Prob: 0.0030
+Token: ' In' (ID: 758), Prob: 0.0030
+Token: ' Tomorrow' (ID: 54996), Prob: 0.0030
+Token: ' Clo' (ID: 18679), Prob: 0.0028
+Token: ' Sing' (ID: 10833), Prob: 0.0027
+Token: ' Hills' (ID: 24919), Prob: 0.0027
+Token: ' Chase' (ID: 34574), Prob: 0.0027
+Token: ' Sun' (ID: 8059), Prob: 0.0025
+Token: ' Forest' (ID: 19988), Prob: 0.0025
+Token: ' Archive' (ID: 29702), Prob: 0.0025
+Token: ' B' (ID: 425), Prob: 0.0023
+Token: ' Hollow' (ID: 48693), Prob: 0.0023
+Token: ' Elephant' (ID: 78089), Prob: 0.0023
+Token: ' Trust' (ID: 16816), Prob: 0.0022
+Token: ' Invisible' (ID: 89038), Prob: 0.0022
+Token: ' Re' (ID: 1032), Prob: 0.0021
+Token: ' It' (ID: 1084), Prob: 0.0021
+Token: ' Capt' (ID: 16603), Prob: 0.0021
+Token: ' Generation' (ID: 23470), Prob: 0.0021
+Token: ' Republic' (ID: 5429), Prob: 0.0020
+Token: ' Americans' (ID: 8877), Prob: 0.0018
+Token: ' Catch' (ID: 20930), Prob: 0.0018
+Token: ' Fel' (ID: 26154), Prob: 0.0018
+Token: ' Game' (ID: 4050), Prob: 0.0017
+Token: ' Long' (ID: 5724), Prob: 0.0017
+Token: ' Big' (ID: 6164), Prob: 0.0017
+Token: ' Commission' (ID: 9652), Prob: 0.0017
+Token: ' Car' (ID: 3261), Prob: 0.0016
+Token: ' I' (ID: 358), Prob: 0.0015
+Token: ' Day' (ID: 6059), Prob: 0.0015
+Token: ' Mag' (ID: 6879), Prob: 0.0015
+Token: ' History' (ID: 11099), Prob: 0.0015
+Token: ' Olympics' (ID: 31963), Prob: 0.0015
+Token: ' Crit' (ID: 33207), Prob: 0.0015
+Token: ' Forgotten' (ID: 94447), Prob: 0.0015
+Token: ' K' (ID: 730), Prob: 0.0014
+Token: ' Wire' (ID: 19378), Prob: 0.0014
+Token: ' Mob' (ID: 34906), Prob: 0.0014
+Token: ' Sunday' (ID: 7270), Prob: 0.0013
+Token: ' Corn' (ID: 21330), Prob: 0.0013
+Token: ' Inside' (ID: 27368), Prob: 0.0013
+Token: ' Wrong' (ID: 40756), Prob: 0.0013
+Token: ' White' (ID: 5807), Prob: 0.0013
+Token: ' Collection' (ID: 11101), Prob: 0.0013
+Token: ' Sky' (ID: 14722), Prob: 0.0013
+Token: ' Step' (ID: 14822), Prob: 0.0013
+Token: ' Golden' (ID: 17809), Prob: 0.0013
+Token: ' Mark' (ID: 4389), Prob: 0.0012
+Token: ' Master' (ID: 10824), Prob: 0.0012
+Token: ' Ever' (ID: 17892), Prob: 0.0012
+Token: ' Flying' (ID: 46052), Prob: 0.0012
+Token: ' New' (ID: 1532), Prob: 0.0011
+Token: ' Street' (ID: 6686), Prob: 0.0011
+Token: ' Hand' (ID: 8536), Prob: 0.0011
+Token: ' Professor' (ID: 16642), Prob: 0.0011
+Token: ' Capture' (ID: 39885), Prob: 0.0011
+Token: ' Prison' (ID: 41518), Prob: 0.0011
+Token: ' Invent' (ID: 92158), Prob: 0.0011
 
 == Ranked Concepts (Clusters) ==
-Rank 1 | Centroid: ' statement' | Score: 0.9961
-  Tokens: [' statement', ' statements', 'statement', ' stmt', ' Statement', '\tstatement']
-Rank 2 | Centroid: ' sentence' | Score: 0.0029
-  Tokens: [' sentence', ' phrase', ' quote', ' paragraph', ' verse', ' tweet', ' sentences', ' speech']
-Rank 3 | Centroid: ' message' | Score: 0.0001
-  Tokens: [' message', ' prompt', ' response', ' task', ' question']
-Rank 4 | Centroid: ' text' | Score: 0.0001
-  Tokens: [' text', ' original', ' content', ' input']
-Rank 5 | Centroid: ' invitation' | Score: 0.0000
-  Tokens: [' instruction', ' notice', ' reminder', ' invitation', ' observation']
-Rank 6 | Centroid: ' narrative' | Score: 0.0000
-  Tokens: [' story', ' narrative', ' narration', ' journey', ' storyline']
-Rank 7 | Centroid: ' emotion' | Score: 0.0000
-  Tokens: [' sentiment', ' emotional', ' emotion']
-Rank 8 | Centroid: ' string' | Score: 0.0000
-  Tokens: [' string', ' line', ' part']
-Rank 9 | Centroid: ' snippet' | Score: 0.0000
-  Tokens: [' passage', ' stanza', ' segment', ' snippet']
-Rank 10 | Centroid: ' query' | Score: 0.0000
-  Tokens: [' query', ' script']
-Rank 11 | Centroid: ' multi' | Score: 0.0000
-  Tokens: [' short', ' meta', ' extended', ' final', ' multi', ' ending']
-Rank 12 | Centroid: ' new' | Score: 0.0000
-  Tokens: [' user', ' key', ' body', ' sub', ' new', ' specific']
-Rank 13 | Centroid: ' embedded' | Score: 0.0000
-  Tokens: [' embedded', ' insertion', ' nested', ' inner', ' embedding', ' insert']
-Rank 14 | Centroid: ' truth' | Score: 0.0000
-  Tokens: [' news', ' fact', ' thought', ' truth']
-Rank 15 | Centroid: ' scenario' | Score: 0.0000
-  Tokens: [' example', ' scenario', ' scene', ' context', ' situation']
-Rank 16 | Centroid: ' concise' | Score: 0.0000
-  Tokens: [' summary', ' bullet', ' concise']
-Rank 17 | Centroid: ' HTML' | Score: 0.0000
-  Tokens: [' JSON', ' HTML', ' SQL', ' SMS']
-Rank 18 | Centroid: ' Chinese' | Score: 0.0000
-  Tokens: [' Vietnamese', ' Arabic', ' Chinese', ' Japanese', ' English']
-Rank 19 | Centroid: ' student' | Score: 0.0000
-  Tokens: [' medical', ' student', ' child']
-Rank 20 | Centroid: ' instructional' | Score: 0.0000
-  Tokens: [' instructional', ' assistant', ' educational']
-Rank 21 | Centroid: ' stat' | Score: 0.0000
-  Tokens: [' stat', ' statistical']
-Rank 22 | Centroid: ' proverb' | Score: 0.0000
-  Tokens: [' proverb', ' poetic']
-Rank 23 | Centroid: ' stimulus' | Score: 0.0000
-  Tokens: [' stimulus']
-Rank 24 | Centroid: ' stem' | Score: 0.0000
-  Tokens: [' stem']
-Rank 25 | Centroid: ' training' | Score: 0.0000
-  Tokens: [' training']
-Rank 26 | Centroid: ' sting' | Score: 0.0000
-  Tokens: [' sting']
+Rank 1 | Centroid: ' Thick' | Score: 0.1855
+  Tokens: [' Thick', ' Strict', ' Sing', ' Hollow', ' Wire']
+Rank 2 | Centroid: ' Last' | Score: 0.1064
+  Tokens: [' Last', ' Mind', ' Past']
+Rank 3 | Centroid: ' Archive' | Score: 0.1011
+  Tokens: [' Arch', ' Sarah', ' Archive', ' Invent']
+Rank 4 | Centroid: ' It' | Score: 0.0664
+  Tokens: [' L', ' F', ' IT', ' S', ' One', ' D', ' O', ' In', ' B', ' Re', ' It', ' I', ' K']
+Rank 5 | Centroid: ' Good' | Score: 0.0654
+  Tokens: [' Good', ' Great', ' Young', ' Long', ' Big', ' New']
+Rank 6 | Centroid: ' Street' | Score: 0.0359
+  Tokens: [' Casual', ' Streets', ' Generation', ' Street']
+Rank 7 | Centroid: ' Lost' | Score: 0.0282
+  Tokens: [' Missing', ' Lost', ' Invisible', ' Forgotten', ' Wrong']
+Rank 8 | Centroid: ' Doctors' | Score: 0.0267
+  Tokens: [' Professionals', ' Apprentice', ' Doctors', ' Americans', ' Olympics']
+Rank 9 | Centroid: ' Crown' | Score: 0.0142
+  Tokens: [' Crown', ' Royal']
+Rank 10 | Centroid: ' Mend' | Score: 0.0132
+  Tokens: [' Mend', ' Republic']
+Rank 11 | Centroid: ' Only' | Score: 0.0112
+  Tokens: [' Only', ' Inside']
+Rank 12 | Centroid: ' Office' | Score: 0.0106
+  Tokens: [' Office']
+Rank 13 | Centroid: ' Black' | Score: 0.0104
+  Tokens: [' Black', ' Red', ' White', ' Golden']
+Rank 14 | Centroid: ' Commission' | Score: 0.0103
+  Tokens: [' League', ' Chair', ' Commission', ' Collection']
+Rank 15 | Centroid: ' Game' | Score: 0.0096
+  Tokens: [' Bill', ' Game', ' Mob']
+Rank 16 | Centroid: ' Prison' | Score: 0.0091
+  Tokens: [' Witness', ' Chase', ' Prison']
+Rank 17 | Centroid: ' Day' | Score: 0.0082
+  Tokens: [' Night', ' Day', ' Sunday', ' Step']
+Rank 18 | Centroid: ' Fall' | Score: 0.0077
+  Tokens: [' Fall']
+Rank 19 | Centroid: ' Truth' | Score: 0.0069
+  Tokens: [' Truth', ' Trust']
+Rank 20 | Centroid: ' Fast' | Score: 0.0065
+  Tokens: [' Fast', ' Fel']
+Rank 21 | Centroid: ' Forest' | Score: 0.0063
+  Tokens: [' Hills', ' Forest', ' Flying']
+Rank 22 | Centroid: ' Clo' | Score: 0.0056
+  Tokens: [' Clo', ' Crit', ' Ever']
+Rank 23 | Centroid: ' Capture' | Score: 0.0050
+  Tokens: [' Capt', ' Catch', ' Capture']
+Rank 24 | Centroid: ' Tomorrow' | Score: 0.0045
+  Tokens: [' Tomorrow', ' History']
+Rank 25 | Centroid: ' Sun' | Score: 0.0038
+  Tokens: [' Sun', ' Sky']
+Rank 26 | Centroid: ' Elephant' | Score: 0.0037
+  Tokens: [' Elephant', ' Corn']
+Rank 27 | Centroid: ' Professor' | Score: 0.0035
+  Tokens: [' Mark', ' Master', ' Professor']
+Rank 28 | Centroid: ' End' | Score: 0.0034
+  Tokens: [' End']
+Rank 29 | Centroid: ' Car' | Score: 0.0031
+  Tokens: [' Car', ' Mag']
+Rank 30 | Centroid: ' Hand' | Score: 0.0011
+  Tokens: [' Hand']
 
 **Chosen Concept:** Rank 1

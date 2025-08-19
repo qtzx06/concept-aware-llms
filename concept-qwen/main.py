@@ -6,7 +6,16 @@ import warnings
 import re
 import shutil
 from pathlib import Path
+import nltk
 from transformers import AutoModelForCausalLM, AutoTokenizer
+
+# Ensure the NLTK sentence tokenizer is available
+try:
+    nltk.data.find('tokenizers/punkt')
+except nltk.downloader.DownloadError:
+    print("Downloading NLTK's 'punkt' tokenizer...")
+    nltk.download('punkt')
+
 
 # Suppress the specific hipBLASLt warning
 warnings.filterwarnings("ignore", message="Attempting to use hipBLASLt on an unsupported architecture!")
@@ -41,6 +50,7 @@ def run_baseline(prompt, model, tokenizer, config):
     
     gen_params = {
         "max_new_tokens": config.get('max_new_tokens', 100),
+        "repetition_penalty": config.get('repetition_penalty', 1.0)
     }
 
     if strategy == 'sampling':
@@ -62,10 +72,9 @@ def run_baseline(prompt, model, tokenizer, config):
     return output[len(prompt):].strip()
 
 def run_benchmark(model, tokenizer, device, benchmark_config):
-    """Runs a benchmark on the WritingPrompts dataset."""
-    print("\n--- Starting Automatic Benchmark ---")
+    """Runs a more robust benchmark on the WikiText dataset for factual continuation."""
+    print("\n--- Starting Automatic Benchmark (Factual Continuation) ---")
 
-    # Clear previous benchmark logs if logging is enabled for this run
     if benchmark_config.get('logging_enabled', False):
         script_dir = Path(__file__).parent.resolve()
         benchmark_log_dir = script_dir / 'benchmark_logs'
@@ -73,44 +82,70 @@ def run_benchmark(model, tokenizer, device, benchmark_config):
             print(f"Clearing old logs in {benchmark_log_dir}...")
             shutil.rmtree(benchmark_log_dir)
 
-    print("Loading benchmark dataset (krisha05/story-generation-dataset)...")
+    print("Loading benchmark dataset (Salesforce/wikitext)...")
     num_prompts = benchmark_config.get('num_prompts', 10)
-    # Use the 'train' split as this dataset doesn't have a 'test' split.
-    dataset = load_dataset("krisha05/story-generation-dataset", split="train").shuffle(seed=42).select(range(num_prompts))
+    dataset = load_dataset("Salesforce/wikitext", "wikitext-103-raw-v1", split="test")
     
+    # --- Pre-process dataset to create prompt/completion pairs ---
+    tasks = []
+    for item in dataset:
+        article = item['text']
+        paragraphs = article.split('\n\n')
+        for paragraph in paragraphs:
+            if not paragraph.strip():
+                continue
+            sentences = nltk.sent_tokenize(paragraph)
+            if len(sentences) >= 4: # Ensure the paragraph is long enough
+                split_point = len(sentences) // 2
+                prompt = " ".join(sentences[:split_point])
+                reference_story = " ".join(sentences[split_point:])
+                tasks.append({'prompt': prompt, 'reference_story': reference_story})
+                if len(tasks) >= num_prompts:
+                    break
+        if len(tasks) >= num_prompts:
+            break
+    
+    print(f"Created {len(tasks)} factual continuation tasks.")
     print("Loading semantic similarity model (all-MiniLM-L6-v2)...")
-
     similarity_model = SentenceTransformer('all-MiniLM-L6-v2').to(device)
 
     results = []
-    # Use default 'sampling' for both decoders for a fair comparison
     baseline_config = {'strategy': 'sampling', 'max_new_tokens': 150}
-    
-    # --- Prepare Concept Decoder with Benchmark Config ---
-    concept_config = {'strategy': 'sampling', 'max_new_tokens': 150}
-    concept_config.update(benchmark_config) # Add logging settings
+    concept_config = {
+        'strategy': 'sampling', 
+        'logging_enabled': benchmark_config.get('logging_enabled', False),
+        'log_mode': benchmark_config.get('log_mode', 'both'),
+        'max_new_tokens': 150
+    }
     if benchmark_config.get('logging_enabled', False):
-        # FIX: Create an absolute path for the benchmark logs directory
         script_dir = Path(__file__).parent.resolve()
         concept_config['log_dir_base'] = script_dir / 'benchmark_logs'
     
     concept_decoder = ConceptDecoder(model, tokenizer, concept_config)
 
-    for i, item in enumerate(dataset):
-        prompt = item['instruction']
-        reference_story = item['output']
+    for i, task in enumerate(tasks):
+        prompt = task['prompt']
+        reference_story = task['reference_story']
+        
+        # --- DYNAMICALLY SET GENERATION LENGTH ---
+        # Set max_new_tokens to be 120% of the reference completion's length
+        # This gives the model enough room without letting it "yap"
+        reference_length = len(tokenizer(reference_story).input_ids)
+        dynamic_max_tokens = int(reference_length * 1.2)
+        
+        baseline_config['max_new_tokens'] = dynamic_max_tokens
+        concept_decoder.config['max_new_tokens'] = dynamic_max_tokens # Update the decoder's config directly
         
         if benchmark_config.get('logging_enabled', False):
-            concept_decoder.set_log_prompt_id(i + 1) # Tell decoder which prompt it's on
+            concept_decoder.set_log_prompt_id(i + 1)
 
-        print(f"\n--- Benchmarking Prompt {i+1}/{len(dataset)} ---")
-        print(f"Prompt: {prompt[:100]}...")
+        print(f"\n--- Benchmarking Prompt {i+1}/{len(tasks)} ---")
+        print(f"Prompt: {prompt[:150]}...")
+        print(f"(Reference length: {reference_length} tokens, Generating max: {dynamic_max_tokens} tokens)")
 
-        # Generate with both methods
         baseline_gen = run_baseline(prompt, model, tokenizer, baseline_config)
         concept_gen = concept_decoder.generate(prompt)
 
-        # Calculate semantic similarity
         ref_embedding = similarity_model.encode(reference_story, convert_to_tensor=True)
         base_embedding = similarity_model.encode(baseline_gen, convert_to_tensor=True)
         concept_embedding = similarity_model.encode(concept_gen, convert_to_tensor=True)
@@ -128,18 +163,18 @@ def run_benchmark(model, tokenizer, device, benchmark_config):
         })
 
     results_df = pd.DataFrame(results)
-    results_df.to_csv("benchmark_results.csv", index=False)
+    results_df.to_csv("benchmark_results_wikitext.csv", index=False)
     print("\n--- Benchmark Complete ---")
-    print("Results saved to benchmark_results.csv")
+    print("Results saved to benchmark_results_wikitext.csv")
     
-    # Print summary statistics
     print("\n--- Summary Statistics ---")
     print(results_df[['similarity_score_baseline', 'similarity_score_concept']].describe())
 
 
+
 def main():
     device = "cuda" if torch.cuda.is_available() else "cpu"
-    model_name = "Qwen/Qwen3-0.6B"
+    model_name = "Qwen/Qwen3-1.7B"
     
     print(f"Loading model: {model_name} on device: {device}...")
     model = AutoModelForCausalLM.from_pretrained(model_name, torch_dtype="auto").to(device)
@@ -192,7 +227,7 @@ def main():
     ####### MANUAL PROMPTING #######
     ################################
     
-    prompt = "The moon is actually a giant egg , and it has just started to hatch ."
+    prompt = "Robert Boulter is an English film , television and theatre actor . He had a guest @-@ starring role on the television series The Bill in 2000 . This ..."
     
     run_baseline(prompt, model, tokenizer, baseline_config)
     

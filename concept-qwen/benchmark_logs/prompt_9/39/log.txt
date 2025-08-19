@@ -1,0 +1,138 @@
+--- Step 39 Log ---
+
+== Filtered Candidates ==
+Token: ' poet' (ID: 39260), Prob: 0.3848
+Token: ' scholar' (ID: 18145), Prob: 0.1416
+Token: ' official' (ID: 3946), Prob: 0.1099
+Token: ' states' (ID: 5302), Prob: 0.0520
+Token: ' physician' (ID: 27279), Prob: 0.0245
+Token: ' man' (ID: 883), Prob: 0.0149
+Token: ' minister' (ID: 12725), Prob: 0.0149
+Token: ' painter' (ID: 29481), Prob: 0.0149
+Token: ' politician' (ID: 35938), Prob: 0.0149
+Token: ' military' (ID: 6277), Prob: 0.0131
+Token: ' historian' (ID: 42968), Prob: 0.0131
+Token: ' court' (ID: 5473), Prob: 0.0103
+Token: ' call' (ID: 1618), Prob: 0.0090
+Token: ' general' (ID: 4586), Prob: 0.0090
+Token: ' Tang' (ID: 40362), Prob: 0.0055
+Token: ' musician' (ID: 38744), Prob: 0.0048
+Token: ' and' (ID: 323), Prob: 0.0043
+Token: ' literary' (ID: 31365), Prob: 0.0043
+Token: ' figure' (ID: 7071), Prob: 0.0038
+Token: ' Conf' (ID: 14974), Prob: 0.0038
+Token: ' local' (ID: 2205), Prob: 0.0033
+Token: ' governor' (ID: 19044), Prob: 0.0033
+Token: ' mathematic' (ID: 20976), Prob: 0.0033
+Token: ' merchant' (ID: 29238), Prob: 0.0033
+Token: ' writer' (ID: 6916), Prob: 0.0029
+Token: ' liter' (ID: 6935), Prob: 0.0029
+Token: ' doctor' (ID: 10668), Prob: 0.0029
+Token: ' teacher' (ID: 11079), Prob: 0.0026
+Token: ' administrator' (ID: 28093), Prob: 0.0026
+Token: ' person' (ID: 1697), Prob: 0.0023
+Token: ' political' (ID: 4948), Prob: 0.0023
+Token: ' Chinese' (ID: 8453), Prob: 0.0020
+Token: ' silk' (ID: 39944), Prob: 0.0020
+Token: ' philosopher' (ID: 54375), Prob: 0.0020
+Token: ' officer' (ID: 9452), Prob: 0.0018
+Token: ' strategist' (ID: 64135), Prob: 0.0018
+Token: ' government' (ID: 3033), Prob: 0.0016
+Token: ' soldier' (ID: 26110), Prob: 0.0016
+Token: ' Buddhist' (ID: 46741), Prob: 0.0016
+Token: ' chancellor' (ID: 76175), Prob: 0.0014
+Token: ' civil' (ID: 8267), Prob: 0.0012
+Token: ' Song' (ID: 18971), Prob: 0.0012
+Token: ' Han' (ID: 20644), Prob: 0.0012
+Token: ' diplomat' (ID: 67950), Prob: 0.0012
+Token: ' litter' (ID: 38582), Prob: 0.0011
+Token: ' author' (ID: 3150), Prob: 0.0010
+Token: ' leader' (ID: 7653), Prob: 0.0010
+Token: ' composer' (ID: 39450), Prob: 0.0010
+Token: ' recl' (ID: 47420), Prob: 0.0010
+Token: ' architect' (ID: 11470), Prob: 0.0008
+Token: ' thinker' (ID: 97536), Prob: 0.0008
+Token: ' Minister' (ID: 9486), Prob: 0.0007
+Token: ' historical' (ID: 13656), Prob: 0.0007
+Token: ' tea' (ID: 15243), Prob: 0.0007
+Token: ' monk' (ID: 62672), Prob: 0.0007
+Token: ' chronic' (ID: 20601), Prob: 0.0007
+Token: ' imperial' (ID: 34279), Prob: 0.0007
+Token: ' economist' (ID: 45115), Prob: 0.0007
+Token: ' state' (ID: 1584), Prob: 0.0006
+Token: ' judge' (ID: 11651), Prob: 0.0006
+Token: ' lawyer' (ID: 15417), Prob: 0.0006
+Token: ' noble' (ID: 34382), Prob: 0.0006
+Token: ' g' (ID: 342), Prob: 0.0005
+Token: ' or' (ID: 476), Prob: 0.0005
+Token: ' army' (ID: 13390), Prob: 0.0005
+Token: ' farmer' (ID: 36400), Prob: 0.0005
+Token: ' gentleman' (ID: 45129), Prob: 0.0005
+Token: ' magistrate' (ID: 94091), Prob: 0.0005
+Token: ' for' (ID: 369), Prob: 0.0005
+Token: ' ge' (ID: 3893), Prob: 0.0005
+Token: ' artist' (ID: 10049), Prob: 0.0005
+Token: ' singer' (ID: 22757), Prob: 0.0005
+Token: ' X' (ID: 1599), Prob: 0.0005
+Token: ' master' (ID: 7341), Prob: 0.0005
+Token: ' talent' (ID: 10772), Prob: 0.0004
+Token: ' contemporary' (ID: 18706), Prob: 0.0004
+Token: ' poetry' (ID: 31249), Prob: 0.0004
+Token: ' s' (ID: 274), Prob: 0.0004
+Token: ' critic' (ID: 9741), Prob: 0.0004
+Token: ' northern' (ID: 18172), Prob: 0.0004
+Token: ' secretary' (ID: 19067), Prob: 0.0004
+Token: ' e' (ID: 384), Prob: 0.0004
+Token: ' high' (ID: 1550), Prob: 0.0004
+Token: ' academic' (ID: 14250), Prob: 0.0004
+Token: ' martial' (ID: 36859), Prob: 0.0004
+Token: ' patriotic' (ID: 76684), Prob: 0.0004
+Token: ' but' (ID: 714), Prob: 0.0004
+
+== Ranked Concepts (Clusters) ==
+Rank 1 | Centroid: ' poet' | Score: 0.4102
+  Tokens: [' poet', ' painter', ' musician', ' writer', ' author', ' composer', ' architect', ' artist', ' singer']
+Rank 2 | Centroid: ' philosopher' | Score: 0.1631
+  Tokens: [' scholar', ' historian', ' mathematic', ' philosopher', ' strategist', ' thinker', ' economist']
+Rank 3 | Centroid: ' official' | Score: 0.1113
+  Tokens: [' official', ' government']
+Rank 4 | Centroid: ' states' | Score: 0.0525
+  Tokens: [' states', ' state']
+Rank 5 | Centroid: ' physician' | Score: 0.0354
+  Tokens: [' physician', ' doctor', ' teacher', ' administrator', ' officer', ' lawyer', ' farmer']
+Rank 6 | Centroid: ' and' | Score: 0.0295
+  Tokens: [' call', ' general', ' and', ' local', ' g', ' or', ' for', ' ge', ' X', ' s', ' e', ' high', ' but']
+Rank 7 | Centroid: ' Minister' | Score: 0.0208
+  Tokens: [' minister', ' governor', ' chancellor', ' Minister', ' secretary']
+Rank 8 | Centroid: ' man' | Score: 0.0177
+  Tokens: [' man', ' person', ' gentleman']
+Rank 9 | Centroid: ' Buddhist' | Score: 0.0168
+  Tokens: [' Tang', ' Conf', ' Chinese', ' silk', ' Buddhist', ' Han', ' tea']
+Rank 10 | Centroid: ' politician' | Score: 0.0161
+  Tokens: [' politician', ' diplomat']
+Rank 11 | Centroid: ' military' | Score: 0.0156
+  Tokens: [' military', ' soldier', ' army', ' martial']
+Rank 12 | Centroid: ' judge' | Score: 0.0114
+  Tokens: [' court', ' judge', ' magistrate']
+Rank 13 | Centroid: ' literary' | Score: 0.0087
+  Tokens: [' literary', ' liter', ' litter', ' poetry']
+Rank 14 | Centroid: ' talent' | Score: 0.0046
+  Tokens: [' figure', ' master', ' talent']
+Rank 15 | Centroid: ' merchant' | Score: 0.0041
+  Tokens: [' merchant', ' monk']
+Rank 16 | Centroid: ' political' | Score: 0.0033
+  Tokens: [' political', ' imperial', ' patriotic']
+Rank 17 | Centroid: ' contemporary' | Score: 0.0022
+  Tokens: [' historical', ' chronic', ' contemporary', ' northern']
+Rank 18 | Centroid: ' civil' | Score: 0.0016
+  Tokens: [' civil', ' academic']
+Rank 19 | Centroid: ' recl' | Score: 0.0015
+  Tokens: [' recl', ' noble']
+Rank 20 | Centroid: ' Song' | Score: 0.0012
+  Tokens: [' Song']
+Rank 21 | Centroid: ' leader' | Score: 0.0010
+  Tokens: [' leader']
+Rank 22 | Centroid: ' critic' | Score: 0.0004
+  Tokens: [' critic']
+
+**Chosen Concept:** Rank 1

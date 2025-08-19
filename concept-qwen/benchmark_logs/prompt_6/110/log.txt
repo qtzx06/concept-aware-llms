@@ -1,0 +1,94 @@
+--- Step 110 Log ---
+
+== Filtered Candidates ==
+Token: ' April' (ID: 5813), Prob: 0.9961
+Token: ' the' (ID: 279), Prob: 0.0002
+Token: ' March' (ID: 5470), Prob: 0.0002
+Token: ' May' (ID: 3217), Prob: 0.0002
+Token: ' June' (ID: 5534), Prob: 0.0001
+Token: ' July' (ID: 5768), Prob: 0.0001
+Token: 'April' (ID: 28046), Prob: 0.0000
+Token: ' August' (ID: 6156), Prob: 0.0000
+Token: ' early' (ID: 4124), Prob: 0.0000
+Token: ' late' (ID: 3309), Prob: 0.0000
+Token: ' april' (ID: 73700), Prob: 0.0000
+Token: ' September' (ID: 6122), Prob: 0.0000
+Token: ' February' (ID: 7400), Prob: 0.0000
+Token: ' a' (ID: 264), Prob: 0.0000
+Token: ' January' (ID: 6058), Prob: 0.0000
+Token: ' October' (ID: 6527), Prob: 0.0000
+Token: ' four' (ID: 3040), Prob: 0.0000
+Token: ' his' (ID: 806), Prob: 0.0000
+Token: ' which' (ID: 892), Prob: 0.0000
+Token: ' November' (ID: 6702), Prob: 0.0000
+Token: ' that' (ID: 429), Prob: 0.0000
+Token: ' addition' (ID: 5256), Prob: 0.0000
+Token: ' mid' (ID: 5099), Prob: 0.0000
+Token: ' and' (ID: 323), Prob: 0.0000
+Token: ' December' (ID: 6652), Prob: 0.0000
+Token: ' spring' (ID: 10464), Prob: 0.0000
+Token: ' an' (ID: 458), Prob: 0.0000
+Token: ' one' (ID: 825), Prob: 0.0000
+Token: ' this' (ID: 419), Prob: 0.0000
+Token: ' in' (ID: 304), Prob: 0.0000
+Token: '4' (ID: 19), Prob: 0.0000
+Token: ' fourth' (ID: 11737), Prob: 0.0000
+Token: ' Spring' (ID: 12252), Prob: 0.0000
+Token: ' another' (ID: 2441), Prob: 0.0000
+Token: ' what' (ID: 1128), Prob: 0.0000
+Token: ' Early' (ID: 22752), Prob: 0.0000
+Token: ' summer' (ID: 7324), Prob: 0.0000
+Token: ' part' (ID: 949), Prob: 0.0000
+Token: ' may' (ID: 1231), Prob: 0.0000
+Token: ' episode' (ID: 9234), Prob: 0.0000
+Token: ' Apr' (ID: 5076), Prob: 0.0000
+Token: ' Ap' (ID: 5232), Prob: 0.0000
+Token: ' of' (ID: 315), Prob: 0.0000
+Token: ' on' (ID: 389), Prob: 0.0000
+Token: ' APR' (ID: 52426), Prob: 0.0000
+Token: ' The' (ID: 576), Prob: 0.0000
+Token: ' its' (ID: 1181), Prob: 0.0000
+Token: ' both' (ID: 2176), Prob: 0.0000
+Token: ' for' (ID: 369), Prob: 0.0000
+Token: ' earlier' (ID: 6788), Prob: 0.0000
+Token: ' some' (ID: 1045), Prob: 0.0000
+Token: ' accordance' (ID: 18353), Prob: 0.0000
+Token: ' Late' (ID: 35831), Prob: 0.0000
+Token: ' he' (ID: 566), Prob: 0.0000
+Token: ' abril' (ID: 87287), Prob: 0.0000
+Token: ' AP' (ID: 10106), Prob: 0.0000
+Token: ' Andrew' (ID: 13615), Prob: 0.0000
+Token: ' it' (ID: 432), Prob: 0.0000
+Token: ' W' (ID: 467), Prob: 0.0000
+Token: ' later' (ID: 2937), Prob: 0.0000
+Token: ' avril' (ID: 99036), Prob: 0.0000
+
+== Ranked Concepts (Clusters) ==
+Rank 1 | Centroid: ' April' | Score: 0.9961
+  Tokens: [' April', 'April', ' april', ' abril', ' avril']
+Rank 2 | Centroid: ' September' | Score: 0.0004
+  Tokens: [' March', ' June', ' July', ' August', ' September', ' February', ' January', ' October', ' November', ' December']
+Rank 3 | Centroid: ' the' | Score: 0.0002
+  Tokens: [' the', ' a', ' an', ' one', ' this', ' another', ' what', ' its', ' both', ' some', ' it']
+Rank 4 | Centroid: ' May' | Score: 0.0002
+  Tokens: [' May', ' may']
+Rank 5 | Centroid: ' late' | Score: 0.0000
+  Tokens: [' early', ' late', ' mid', ' Early', ' Late']
+Rank 6 | Centroid: ' and' | Score: 0.0000
+  Tokens: [' which', ' that', ' and', ' in', '4', ' of', ' on', ' The', ' for', ' W']
+Rank 7 | Centroid: ' four' | Score: 0.0000
+  Tokens: [' four', ' fourth']
+Rank 8 | Centroid: ' his' | Score: 0.0000
+  Tokens: [' his', ' he']
+Rank 9 | Centroid: ' accordance' | Score: 0.0000
+  Tokens: [' addition', ' episode', ' accordance', ' Andrew']
+Rank 10 | Centroid: ' spring' | Score: 0.0000
+  Tokens: [' spring', ' Spring', ' summer']
+Rank 11 | Centroid: ' AP' | Score: 0.0000
+  Tokens: [' Apr', ' Ap', ' APR', ' AP']
+Rank 12 | Centroid: ' earlier' | Score: 0.0000
+  Tokens: [' earlier', ' later']
+Rank 13 | Centroid: ' part' | Score: 0.0000
+  Tokens: [' part']
+
+**Chosen Concept:** Rank 1

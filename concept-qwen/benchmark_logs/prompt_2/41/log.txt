@@ -1,130 +1,153 @@
 --- Step 41 Log ---
 
 == Filtered Candidates ==
-Token: ' Include' (ID: 29734), Prob: 0.2715
-Token: ' Talk' (ID: 18976), Prob: 0.0879
-Token: ' Add' (ID: 2691), Prob: 0.0119
-Token: ' Describe' (ID: 60785), Prob: 0.0119
-Token: ' Highlight' (ID: 55994), Prob: 0.0082
-Token: ' Use' (ID: 5443), Prob: 0.0064
-Token: ' Discuss' (ID: 65279), Prob: 0.0039
-Token: ' Mention' (ID: 85148), Prob: 0.0039
-Token: ' State' (ID: 3234), Prob: 0.0013
-Token: ' Int' (ID: 1333), Prob: 0.0008
-Token: ' Address' (ID: 9177), Prob: 0.0004
-Token: ' Explain' (ID: 81917), Prob: 0.0004
-Token: ' Note' (ID: 7036), Prob: 0.0004
-Token: ' Reference' (ID: 17207), Prob: 0.0003
-Token: ' Say' (ID: 24917), Prob: 0.0003
-Token: ' List' (ID: 1759), Prob: 0.0002
-Token: ' talk' (ID: 3061), Prob: 0.0002
-Token: ' Focus' (ID: 25806), Prob: 0.0002
-Token: ' Con' (ID: 1200), Prob: 0.0002
-Token: ' Start' (ID: 5145), Prob: 0.0002
-Token: ' Point' (ID: 5126), Prob: 0.0001
-Token: ' Create' (ID: 4230), Prob: 0.0001
-Token: ' Next' (ID: 9295), Prob: 0.0001
-Token: ' Talks' (ID: 80447), Prob: 0.0001
-Token: ' Express' (ID: 17399), Prob: 0.0001
-Token: ' Wait' (ID: 13824), Prob: 0.0001
-Token: ' Words' (ID: 27630), Prob: 0.0001
-Token: ' Deal' (ID: 26263), Prob: 0.0001
-Token: ' Show' (ID: 6928), Prob: 0.0001
-Token: ' Details' (ID: 12309), Prob: 0.0001
-Token: ' Things' (ID: 20093), Prob: 0.0001
-Token: ' Contrast' (ID: 90048), Prob: 0.0001
-Token: ' Insert' (ID: 17101), Prob: 0.0001
-Token: ' Detail' (ID: 25771), Prob: 0.0001
-Token: ' Set' (ID: 2573), Prob: 0.0001
-Token: ' Points' (ID: 20725), Prob: 0.0001
-Token: ' Problems' (ID: 44535), Prob: 0.0001
-Token: ' Stress' (ID: 50468), Prob: 0.0001
-Token: ' Reflect' (ID: 34598), Prob: 0.0001
-Token: ' Incorpor' (ID: 53704), Prob: 0.0001
-Token: ' Call' (ID: 7143), Prob: 0.0001
-Token: ' Also' (ID: 7281), Prob: 0.0001
-Token: ' Since' (ID: 8704), Prob: 0.0001
-Token: ' Combine' (ID: 46812), Prob: 0.0001
-Token: ' Ind' (ID: 2263), Prob: 0.0000
-Token: ' Let' (ID: 6771), Prob: 0.0000
-Token: ' Outline' (ID: 51909), Prob: 0.0000
-Token: ' Follow' (ID: 11112), Prob: 0.0000
-Token: ' Tell' (ID: 24647), Prob: 0.0000
-Token: ' Bring' (ID: 39124), Prob: 0.0000
-Token: ' Name' (ID: 3988), Prob: 0.0000
-Token: ' Work' (ID: 5547), Prob: 0.0000
-Token: ' Give' (ID: 20678), Prob: 0.0000
-Token: ' Problem' (ID: 22079), Prob: 0.0000
-Token: ' Maybe' (ID: 10696), Prob: 0.0000
-Token: ' Conflict' (ID: 58585), Prob: 0.0000
-Token: ' Touch' (ID: 19338), Prob: 0.0000
-Token: ' Something' (ID: 24656), Prob: 0.0000
-Token: ' Flash' (ID: 17263), Prob: 0.0000
-Token: 'talk' (ID: 35241), Prob: 0.0000
-Token: ' Transition' (ID: 37721), Prob: 0.0000
-Token: ' Including' (ID: 55121), Prob: 0.0000
-Token: ' Time' (ID: 4120), Prob: 0.0000
-Token: ' Connect' (ID: 13015), Prob: 0.0000
-Token: ' Handle' (ID: 13760), Prob: 0.0000
-Token: ' Fill' (ID: 21979), Prob: 0.0000
-Token: ' Ack' (ID: 50982), Prob: 0.0000
-Token: ' Get' (ID: 2126), Prob: 0.0000
-Token: ' Write' (ID: 9645), Prob: 0.0000
-Token: ' Keep' (ID: 13655), Prob: 0.0000
-Token: ' Expand' (ID: 50141), Prob: 0.0000
-Token: ' Speak' (ID: 67201), Prob: 0.0000
-Token: ' Throw' (ID: 31345), Prob: 0.0000
-Token: ' Explore' (ID: 44052), Prob: 0.0000
-Token: ' Pose' (ID: 50373), Prob: 0.0000
+Token: ' young' (ID: 3908), Prob: 0.0569
+Token: ' character' (ID: 3668), Prob: 0.0503
+Token: ' man' (ID: 883), Prob: 0.0173
+Token: ' police' (ID: 4282), Prob: 0.0173
+Token: ' British' (ID: 7855), Prob: 0.0120
+Token: ' male' (ID: 8593), Prob: 0.0099
+Token: ' new' (ID: 501), Prob: 0.0087
+Token: ' minor' (ID: 8922), Prob: 0.0087
+Token: ' doctor' (ID: 10668), Prob: 0.0082
+Token: ' soldier' (ID: 26110), Prob: 0.0082
+Token: ' child' (ID: 1682), Prob: 0.0077
+Token: ' student' (ID: 5458), Prob: 0.0077
+Token: ' teacher' (ID: 11079), Prob: 0.0072
+Token: ' detective' (ID: 44159), Prob: 0.0072
+Token: ' school' (ID: 2906), Prob: 0.0068
+Token: ' fish' (ID: 7640), Prob: 0.0064
+Token: ' member' (ID: 4462), Prob: 0.0060
+Token: ' boy' (ID: 8171), Prob: 0.0060
+Token: ' middle' (ID: 6149), Prob: 0.0056
+Token: ' small' (ID: 2613), Prob: 0.0053
+Token: ' lead' (ID: 2990), Prob: 0.0053
+Token: ' junior' (ID: 26052), Prob: 0.0053
+Token: ' fictional' (ID: 43582), Prob: 0.0053
+Token: ' bar' (ID: 3619), Prob: 0.0050
+Token: ' former' (ID: 4741), Prob: 0.0050
+Token: ' senior' (ID: 9990), Prob: 0.0050
+Token: ' supporting' (ID: 12613), Prob: 0.0050
+Token: ' journalist' (ID: 22825), Prob: 0.0050
+Token: ' nurse' (ID: 28098), Prob: 0.0050
+Token: ' jan' (ID: 32862), Prob: 0.0050
+Token: ' taxi' (ID: 32505), Prob: 0.0047
+Token: ' security' (ID: 4763), Prob: 0.0044
+Token: ' government' (ID: 3033), Prob: 0.0041
+Token: ' judge' (ID: 11651), Prob: 0.0041
+Token: ' university' (ID: 12103), Prob: 0.0041
+Token: ' teenager' (ID: 31539), Prob: 0.0041
+Token: ' teenage' (ID: 33168), Prob: 0.0041
+Token: ' waiter' (ID: 67169), Prob: 0.0041
+Token: ' street' (ID: 8592), Prob: 0.0039
+Token: ' patient' (ID: 8720), Prob: 0.0039
+Token: ' barr' (ID: 30939), Prob: 0.0039
+Token: ' very' (ID: 1602), Prob: 0.0036
+Token: ' father' (ID: 6981), Prob: 0.0036
+Token: ' central' (ID: 8622), Prob: 0.0036
+Token: ' French' (ID: 8585), Prob: 0.0032
+Token: ' television' (ID: 12425), Prob: 0.0032
+Token: ' lawyer' (ID: 15417), Prob: 0.0032
+Token: ' producer' (ID: 16851), Prob: 0.0032
+Token: ' priest' (ID: 27086), Prob: 0.0032
+Token: ' consultant' (ID: 30660), Prob: 0.0032
+Token: ' prisoner' (ID: 41850), Prob: 0.0032
+Token: ' recurring' (ID: 45250), Prob: 0.0032
+Token: ' key' (ID: 1376), Prob: 0.0030
+Token: ' medical' (ID: 6457), Prob: 0.0030
+Token: ' guest' (ID: 8640), Prob: 0.0028
+Token: ' secondary' (ID: 14246), Prob: 0.0028
+Token: ' scientist' (ID: 27468), Prob: 0.0028
+Token: ' firefighter' (ID: 94165), Prob: 0.0028
+Token: ' military' (ID: 6277), Prob: 0.0027
+Token: ' non' (ID: 2477), Prob: 0.0025
+Token: ' leading' (ID: 6388), Prob: 0.0025
+Token: ' principal' (ID: 12435), Prob: 0.0025
+Token: ' director' (ID: 7538), Prob: 0.0023
+Token: ' minister' (ID: 12725), Prob: 0.0023
+Token: ' solic' (ID: 29744), Prob: 0.0023
+Token: ' high' (ID: 1550), Prob: 0.0022
+Token: ' stand' (ID: 2498), Prob: 0.0022
+Token: ' political' (ID: 4948), Prob: 0.0022
+Token: ' TV' (ID: 5883), Prob: 0.0021
+Token: ' professor' (ID: 14227), Prob: 0.0021
+Token: ' politician' (ID: 35938), Prob: 0.0021
+Token: ' playwright' (ID: 98368), Prob: 0.0021
+Token: ' b' (ID: 293), Prob: 0.0019
+Token: ' major' (ID: 3598), Prob: 0.0019
+Token: ' prison' (ID: 9343), Prob: 0.0019
+Token: ' veteran' (ID: 20820), Prob: 0.0019
+Token: ' policeman' (ID: 78580), Prob: 0.0019
+Token: ' local' (ID: 2205), Prob: 0.0017
+Token: ' single' (ID: 3175), Prob: 0.0017
+Token: ' bus' (ID: 5828), Prob: 0.0017
+Token: ' hospital' (ID: 8777), Prob: 0.0017
+Token: ' Scottish' (ID: 26096), Prob: 0.0017
+Token: ' therapist' (ID: 41763), Prob: 0.0017
+Token: ' support' (ID: 1824), Prob: 0.0016
+Token: ' main' (ID: 1887), Prob: 0.0016
+Token: ' black' (ID: 3691), Prob: 0.0016
+Token: ' substitute' (ID: 27679), Prob: 0.0016
+Token: ' technician' (ID: 53511), Prob: 0.0016
+Token: ' narrator' (ID: 64171), Prob: 0.0016
+Token: ' female' (ID: 8778), Prob: 0.0015
+Token: ' fellow' (ID: 12357), Prob: 0.0015
+Token: ' homeless' (ID: 22994), Prob: 0.0015
+Token: ' farmer' (ID: 36400), Prob: 0.0015
+Token: ' short' (ID: 2805), Prob: 0.0014
+Token: ' Canadian' (ID: 11888), Prob: 0.0014
+Token: ' newly' (ID: 13631), Prob: 0.0014
+Token: ' blind' (ID: 18020), Prob: 0.0014
+Token: ' reporter' (ID: 18960), Prob: 0.0014
 
 == Ranked Concepts (Clusters) ==
-Rank 1 | Centroid: ' Include' | Score: 0.2715
-  Tokens: [' Include', ' Incorpor', ' Including']
-Rank 2 | Centroid: ' Talk' | Score: 0.0884
-  Tokens: [' Talk', ' talk', ' Talks', 'talk', ' Speak']
-Rank 3 | Centroid: ' Create' | Score: 0.0186
-  Tokens: [' Add', ' Use', ' Create', ' Show', ' Set', ' Get', ' Write']
-Rank 4 | Centroid: ' Explain' | Score: 0.0162
-  Tokens: [' Describe', ' Discuss', ' Explain']
-Rank 5 | Centroid: ' Details' | Score: 0.0084
-  Tokens: [' Highlight', ' Details', ' Detail', ' Outline']
-Rank 6 | Centroid: ' Mention' | Score: 0.0039
-  Tokens: [' Mention']
-Rank 7 | Centroid: ' Name' | Score: 0.0015
-  Tokens: [' State', ' List', ' Name', ' Time']
-Rank 8 | Centroid: ' Ind' | Score: 0.0010
-  Tokens: [' Int', ' Con', ' Ind']
-Rank 9 | Centroid: ' Address' | Score: 0.0007
-  Tokens: [' Address', ' Reference']
-Rank 10 | Centroid: ' Since' | Score: 0.0007
-  Tokens: [' Note', ' Next', ' Also', ' Since', ' Let']
-Rank 11 | Centroid: ' Tell' | Score: 0.0003
-  Tokens: [' Say', ' Tell', ' Give']
-Rank 12 | Centroid: ' Wait' | Score: 0.0003
-  Tokens: [' Start', ' Wait', ' Call', ' Work']
-Rank 13 | Centroid: ' Conflict' | Score: 0.0002
-  Tokens: [' Contrast', ' Stress', ' Reflect', ' Conflict', ' Transition']
-Rank 14 | Centroid: ' Focus' | Score: 0.0002
-  Tokens: [' Focus', ' Flash']
-Rank 15 | Centroid: ' Something' | Score: 0.0002
-  Tokens: [' Words', ' Things', ' Maybe', ' Something']
-Rank 16 | Centroid: ' Point' | Score: 0.0002
-  Tokens: [' Point', ' Points']
-Rank 17 | Centroid: ' Explore' | Score: 0.0002
-  Tokens: [' Express', ' Connect', ' Expand', ' Explore']
-Rank 18 | Centroid: ' Fill' | Score: 0.0001
-  Tokens: [' Insert', ' Follow', ' Fill']
-Rank 19 | Centroid: ' Bring' | Score: 0.0001
-  Tokens: [' Combine', ' Bring', ' Keep', ' Throw']
-Rank 20 | Centroid: ' Deal' | Score: 0.0001
-  Tokens: [' Deal', ' Handle']
-Rank 21 | Centroid: ' Problems' | Score: 0.0001
-  Tokens: [' Problems', ' Problem']
-Rank 22 | Centroid: ' Touch' | Score: 0.0000
-  Tokens: [' Touch']
-Rank 23 | Centroid: ' Ack' | Score: 0.0000
-  Tokens: [' Ack']
-Rank 24 | Centroid: ' Pose' | Score: 0.0000
-  Tokens: [' Pose']
+Rank 1 | Centroid: ' teenage' | Score: 0.0811
+  Tokens: [' young', ' middle', ' junior', ' senior', ' teenager', ' teenage']
+Rank 2 | Centroid: ' character' | Score: 0.0525
+  Tokens: [' character', ' stand']
+Rank 3 | Centroid: ' journalist' | Score: 0.0369
+  Tokens: [' journalist', ' judge', ' lawyer', ' producer', ' consultant', ' scientist', ' director', ' minister', ' professor', ' playwright', ' therapist', ' technician', ' narrator', ' reporter']
+Rank 4 | Centroid: ' doctor' | Score: 0.0339
+  Tokens: [' doctor', ' soldier', ' teacher', ' nurse', ' patient', ' farmer']
+Rank 5 | Centroid: ' police' | Score: 0.0320
+  Tokens: [' police', ' taxi', ' security', ' street', ' bus']
+Rank 6 | Centroid: ' small' | Score: 0.0308
+  Tokens: [' new', ' small', ' very', ' non', ' high', ' b', ' local', ' single', ' black', ' short']
+Rank 7 | Centroid: ' major' | Score: 0.0243
+  Tokens: [' minor', ' central', ' key', ' secondary', ' principal', ' major', ' main']
+Rank 8 | Centroid: ' British' | Score: 0.0237
+  Tokens: [' British', ' fictional', ' French', ' Scottish', ' Canadian']
+Rank 9 | Centroid: ' child' | Score: 0.0215
+  Tokens: [' child', ' student', ' boy']
+Rank 10 | Centroid: ' policeman' | Score: 0.0215
+  Tokens: [' detective', ' waiter', ' priest', ' firefighter', ' politician', ' policeman']
+Rank 11 | Centroid: ' man' | Score: 0.0173
+  Tokens: [' man']
+Rank 12 | Centroid: ' male' | Score: 0.0151
+  Tokens: [' male', ' father', ' female']
+Rank 13 | Centroid: ' barr' | Score: 0.0138
+  Tokens: [' bar', ' jan', ' barr']
+Rank 14 | Centroid: ' military' | Score: 0.0137
+  Tokens: [' government', ' medical', ' military', ' political', ' hospital']
+Rank 15 | Centroid: ' television' | Score: 0.0117
+  Tokens: [' fish', ' television', ' TV']
+Rank 16 | Centroid: ' school' | Score: 0.0109
+  Tokens: [' school', ' university']
+Rank 17 | Centroid: ' member' | Score: 0.0089
+  Tokens: [' member', ' guest']
+Rank 18 | Centroid: ' newly' | Score: 0.0079
+  Tokens: [' former', ' fellow', ' newly']
+Rank 19 | Centroid: ' lead' | Score: 0.0078
+  Tokens: [' lead', ' leading']
+Rank 20 | Centroid: ' recurring' | Score: 0.0070
+  Tokens: [' recurring', ' solic', ' blind']
+Rank 21 | Centroid: ' prison' | Score: 0.0067
+  Tokens: [' prisoner', ' prison', ' homeless']
+Rank 22 | Centroid: ' supporting' | Score: 0.0066
+  Tokens: [' supporting', ' support']
+Rank 23 | Centroid: ' veteran' | Score: 0.0019
+  Tokens: [' veteran']
+Rank 24 | Centroid: ' substitute' | Score: 0.0016
+  Tokens: [' substitute']
 
 **Chosen Concept:** Rank 1

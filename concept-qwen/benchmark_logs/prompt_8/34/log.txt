@@ -1,0 +1,116 @@
+--- Step 34 Log ---
+
+== Filtered Candidates ==
+Token: ' this' (ID: 419), Prob: 0.5742
+Token: ' the' (ID: 279), Prob: 0.3965
+Token: ' these' (ID: 1493), Prob: 0.0093
+Token: ' a' (ID: 264), Prob: 0.0034
+Token: ' Du' (ID: 15687), Prob: 0.0014
+Token: ' Chinese' (ID: 8453), Prob: 0.0010
+Token: ' The' (ID: 576), Prob: 0.0007
+Token: ' such' (ID: 1741), Prob: 0.0006
+Token: ' an' (ID: 458), Prob: 0.0005
+Token: ' that' (ID: 429), Prob: 0.0005
+Token: ' his' (ID: 806), Prob: 0.0003
+Token: ' traditional' (ID: 8606), Prob: 0.0002
+Token: ' one' (ID: 825), Prob: 0.0001
+Token: ' our' (ID: 1039), Prob: 0.0001
+Token: ' This' (ID: 1096), Prob: 0.0001
+Token: ' many' (ID: 1657), Prob: 0.0001
+Token: ' each' (ID: 1817), Prob: 0.0001
+Token: ' Interpret' (ID: 72077), Prob: 0.0001
+Token: ' your' (ID: 697), Prob: 0.0001
+Token: ' modern' (ID: 6481), Prob: 0.0001
+Token: ' Po' (ID: 13808), Prob: 0.0001
+Token: ' interpretation' (ID: 22845), Prob: 0.0001
+Token: ' classical' (ID: 28824), Prob: 0.0001
+Token: ' poetry' (ID: 31249), Prob: 0.0001
+Token: ' D' (ID: 422), Prob: 0.0001
+Token: ' my' (ID: 847), Prob: 0.0001
+Token: ' any' (ID: 894), Prob: 0.0001
+Token: ' some' (ID: 1045), Prob: 0.0001
+Token: ' China' (ID: 5616), Prob: 0.0001
+Token: ' all' (ID: 678), Prob: 0.0001
+Token: ' T' (ID: 350), Prob: 0.0000
+Token: ' Western' (ID: 10867), Prob: 0.0000
+Token: ' A' (ID: 362), Prob: 0.0000
+Token: ' Hu' (ID: 21793), Prob: 0.0000
+Token: ' Fu' (ID: 29253), Prob: 0.0000
+Token: 'this' (ID: 574), Prob: 0.0000
+Token: ' Bur' (ID: 12369), Prob: 0.0000
+Token: ' what' (ID: 1128), Prob: 0.0000
+Token: ' Zhou' (ID: 66827), Prob: 0.0000
+Token: ' Zhu' (ID: 67744), Prob: 0.0000
+Token: ' most' (ID: 1429), Prob: 0.0000
+Token: ' Li' (ID: 14511), Prob: 0.0000
+Token: ' Traditional' (ID: 45460), Prob: 0.0000
+Token: ' Zhang' (ID: 36020), Prob: 0.0000
+Token: ' both' (ID: 2176), Prob: 0.0000
+Token: ' du' (ID: 3845), Prob: 0.0000
+Token: ' those' (ID: 1846), Prob: 0.0000
+Token: ' Han' (ID: 20644), Prob: 0.0000
+Token: ' Modern' (ID: 18265), Prob: 0.0000
+Token: ' it' (ID: 432), Prob: 0.0000
+Token: ' which' (ID: 892), Prob: 0.0000
+Token: ' today' (ID: 3351), Prob: 0.0000
+Token: ' Wang' (ID: 28246), Prob: 0.0000
+Token: ' W' (ID: 467), Prob: 0.0000
+Token: ' their' (ID: 862), Prob: 0.0000
+Token: ' poems' (ID: 44219), Prob: 0.0000
+Token: ' C' (ID: 356), Prob: 0.0000
+Token: ' H' (ID: 472), Prob: 0.0000
+Token: ' another' (ID: 2441), Prob: 0.0000
+Token: ' Conf' (ID: 14974), Prob: 0.0000
+Token: ' Liu' (ID: 37705), Prob: 0.0000
+Token: ' text' (ID: 1467), Prob: 0.0000
+Token: ' whom' (ID: 8711), Prob: 0.0000
+Token: ' historical' (ID: 13656), Prob: 0.0000
+Token: ' ancient' (ID: 13833), Prob: 0.0000
+Token: ' Yu' (ID: 27273), Prob: 0.0000
+Token: ' commentary' (ID: 30610), Prob: 0.0000
+Token: ' literary' (ID: 31365), Prob: 0.0000
+Token: ' criticism' (ID: 18817), Prob: 0.0000
+Token: ' texts' (ID: 21984), Prob: 0.0000
+Token: ' Wu' (ID: 36130), Prob: 0.0000
+Token: ' Qing' (ID: 61912), Prob: 0.0000
+Token: ' Sh' (ID: 1417), Prob: 0.0000
+Token: ' Lu' (ID: 18360), Prob: 0.0000
+Token: ' Volume' (ID: 20265), Prob: 0.0000
+Token: ' Poetry' (ID: 67687), Prob: 0.0000
+Token: ' B' (ID: 425), Prob: 0.0000
+Token: ' every' (ID: 1449), Prob: 0.0000
+Token: ' English' (ID: 6364), Prob: 0.0000
+
+== Ranked Concepts (Clusters) ==
+Rank 1 | Centroid: ' this' | Score: 0.5820
+  Tokens: [' this', ' these', ' This', 'this']
+Rank 2 | Centroid: ' the' | Score: 0.4023
+  Tokens: [' the', ' a', ' an', ' his', ' one', ' our', ' many', ' each', ' your', ' my', ' any', ' some', ' all', ' most', ' both', ' those', ' it', ' their', ' another', ' every']
+Rank 3 | Centroid: ' Du' | Score: 0.0015
+  Tokens: [' Du', ' du']
+Rank 4 | Centroid: ' Zhang' | Score: 0.0013
+  Tokens: [' Chinese', ' China', ' Zhou', ' Zhu', ' Li', ' Zhang', ' Han', ' Wang', ' Liu', ' Yu', ' Wu', ' Qing']
+Rank 5 | Centroid: ' that' | Score: 0.0011
+  Tokens: [' such', ' that', ' what', ' which']
+Rank 6 | Centroid: ' D' | Score: 0.0009
+  Tokens: [' The', ' D', ' T', ' A', ' W', ' C', ' H', ' Sh', ' B']
+Rank 7 | Centroid: ' traditional' | Score: 0.0003
+  Tokens: [' traditional', ' classical', ' Traditional', ' historical', ' ancient']
+Rank 8 | Centroid: ' poetry' | Score: 0.0002
+  Tokens: [' Po', ' poetry', ' poems', ' literary', ' Poetry']
+Rank 9 | Centroid: ' interpretation' | Score: 0.0002
+  Tokens: [' Interpret', ' interpretation', ' commentary', ' criticism']
+Rank 10 | Centroid: ' Hu' | Score: 0.0002
+  Tokens: [' Hu', ' Fu', ' Bur', ' Lu']
+Rank 11 | Centroid: ' modern' | Score: 0.0001
+  Tokens: [' modern', ' Modern', ' today']
+Rank 12 | Centroid: ' Western' | Score: 0.0001
+  Tokens: [' Western', ' English']
+Rank 13 | Centroid: ' texts' | Score: 0.0001
+  Tokens: [' text', ' texts', ' Volume']
+Rank 14 | Centroid: ' Conf' | Score: 0.0000
+  Tokens: [' Conf']
+Rank 15 | Centroid: ' whom' | Score: 0.0000
+  Tokens: [' whom']
+
+**Chosen Concept:** Rank 1

@@ -1,146 +1,140 @@
 --- Step 66 Log ---
 
 == Filtered Candidates ==
-Token: ' village' (ID: 14126), Prob: 0.2520
-Token: ' tower' (ID: 21271), Prob: 0.1738
-Token: ' community' (ID: 3942), Prob: 0.1055
-Token: ' family' (ID: 2997), Prob: 0.0564
-Token: ' villagers' (ID: 60821), Prob: 0.0302
-Token: ' lack' (ID: 6853), Prob: 0.0236
-Token: ' parents' (ID: 6562), Prob: 0.0208
-Token: ' building' (ID: 4752), Prob: 0.0183
-Token: ' town' (ID: 6290), Prob: 0.0143
-Token: ' materials' (ID: 7236), Prob: 0.0143
-Token: ' weather' (ID: 9104), Prob: 0.0143
-Token: ' local' (ID: 2205), Prob: 0.0118
-Token: ' parent' (ID: 2681), Prob: 0.0118
-Token: ' environment' (ID: 4573), Prob: 0.0118
-Token: ' elders' (ID: 60676), Prob: 0.0104
-Token: ' need' (ID: 1184), Prob: 0.0092
-Token: ' competition' (ID: 10707), Prob: 0.0081
-Token: ' old' (ID: 2310), Prob: 0.0067
-Token: ' natural' (ID: 5810), Prob: 0.0067
-Token: ' challenge' (ID: 8645), Prob: 0.0060
-Token: ' cost' (ID: 2783), Prob: 0.0049
-Token: ' father' (ID: 6981), Prob: 0.0049
-Token: ' time' (ID: 882), Prob: 0.0046
-Token: ' child' (ID: 1682), Prob: 0.0044
-Token: ' neighbor' (ID: 9565), Prob: 0.0044
-Token: ' mother' (ID: 6554), Prob: 0.0041
-Token: ' teacher' (ID: 11079), Prob: 0.0041
-Token: ' fear' (ID: 8679), Prob: 0.0036
-Token: ' resources' (ID: 4963), Prob: 0.0034
-Token: ' forest' (ID: 13638), Prob: 0.0025
-Token: ' mountain' (ID: 16301), Prob: 0.0025
-Token: ' house' (ID: 3753), Prob: 0.0023
-Token: ' builder' (ID: 7363), Prob: 0.0023
-Token: ' wall' (ID: 7002), Prob: 0.0022
-Token: ' material' (ID: 3684), Prob: 0.0019
-Token: ' traditional' (ID: 8606), Prob: 0.0019
-Token: ' importance' (ID: 12650), Prob: 0.0019
-Token: ' surrounding' (ID: 14590), Prob: 0.0019
-Token: ' toy' (ID: 21357), Prob: 0.0019
-Token: ' loss' (ID: 4709), Prob: 0.0018
-Token: ' challenges' (ID: 11513), Prob: 0.0018
-Token: ' absence' (ID: 19265), Prob: 0.0018
-Token: ' city' (ID: 3283), Prob: 0.0017
-Token: ' elder' (ID: 22130), Prob: 0.0017
-Token: ' main' (ID: 1887), Prob: 0.0016
-Token: ' tree' (ID: 4916), Prob: 0.0016
-Token: ' construction' (ID: 8086), Prob: 0.0016
-Token: ' rules' (ID: 5601), Prob: 0.0015
-Token: ' structure' (ID: 5944), Prob: 0.0015
-Token: ' limited' (ID: 7199), Prob: 0.0013
-Token: ' world' (ID: 1879), Prob: 0.0012
-Token: ' children' (ID: 2841), Prob: 0.0012
-Token: ' money' (ID: 3220), Prob: 0.0012
-Token: ' difficulty' (ID: 16829), Prob: 0.0012
-Token: ' school' (ID: 2906), Prob: 0.0012
-Token: ' needs' (ID: 3880), Prob: 0.0012
-Token: ' outside' (ID: 4889), Prob: 0.0012
-Token: ' walls' (ID: 14285), Prob: 0.0011
-Token: ' big' (ID: 2409), Prob: 0.0010
-Token: ' weight' (ID: 4680), Prob: 0.0010
-Token: ' conflict' (ID: 12055), Prob: 0.0010
-Token: ' size' (ID: 1379), Prob: 0.0010
-Token: ' idea' (ID: 4522), Prob: 0.0010
-Token: ' environmental' (ID: 12158), Prob: 0.0010
-Token: ' neighbors' (ID: 18709), Prob: 0.0010
-Token: ' siblings' (ID: 36683), Prob: 0.0009
-Token: ' grandmother' (ID: 38184), Prob: 0.0009
-Token: ' power' (ID: 2355), Prob: 0.0009
-Token: ' owner' (ID: 6372), Prob: 0.0009
-Token: ' pressure' (ID: 7262), Prob: 0.0008
-Token: ' danger' (ID: 7978), Prob: 0.0008
-Token: ' river' (ID: 14796), Prob: 0.0008
-Token: ' dangers' (ID: 35964), Prob: 0.0008
-Token: ' guardian' (ID: 46032), Prob: 0.0008
-Token: ' scarcity' (ID: 81384), Prob: 0.0008
-Token: ' use' (ID: 990), Prob: 0.0008
-Token: ' height' (ID: 2608), Prob: 0.0008
-Token: ' small' (ID: 2613), Prob: 0.0008
-Token: ' problem' (ID: 3491), Prob: 0.0008
-Token: ' strict' (ID: 7304), Prob: 0.0008
-Token: ' desire' (ID: 12591), Prob: 0.0008
-Token: ' jungle' (ID: 44420), Prob: 0.0008
-Token: ' nearby' (ID: 14046), Prob: 0.0007
-Token: ' people' (ID: 1251), Prob: 0.0007
-Token: ' brother' (ID: 10641), Prob: 0.0007
-Token: ' usual' (ID: 13475), Prob: 0.0007
-Token: ' surroundings' (ID: 39090), Prob: 0.0007
-Token: ' storm' (ID: 13458), Prob: 0.0006
-Token: ' tall' (ID: 16217), Prob: 0.0006
-Token: ' clan' (ID: 38462), Prob: 0.0006
-Token: ' land' (ID: 4268), Prob: 0.0006
-Token: ' friends' (ID: 4780), Prob: 0.0006
-Token: ' adult' (ID: 6683), Prob: 0.0006
-Token: ' growing' (ID: 7826), Prob: 0.0006
-Token: ' council' (ID: 14833), Prob: 0.0005
-Token: ' high' (ID: 1550), Prob: 0.0005
-Token: ' stone' (ID: 9798), Prob: 0.0005
-Token: ' noise' (ID: 11980), Prob: 0.0005
-Token: ' tradition' (ID: 13815), Prob: 0.0005
+Token: ' played' (ID: 6342), Prob: 0.6367
+Token: ' was' (ID: 572), Prob: 0.2061
+Token: ' appeared' (ID: 9723), Prob: 0.0859
+Token: ' portrayed' (ID: 44777), Prob: 0.0117
+Token: ' had' (ID: 1030), Prob: 0.0103
+Token: ' also' (ID: 1083), Prob: 0.0062
+Token: ' performed' (ID: 10660), Prob: 0.0049
+Token: ' made' (ID: 1865), Prob: 0.0038
+Token: ' provided' (ID: 3897), Prob: 0.0033
+Token: ' acted' (ID: 30432), Prob: 0.0029
+Token: ' starred' (ID: 58235), Prob: 0.0029
+Token: ' guest' (ID: 8640), Prob: 0.0023
+Token: ' co' (ID: 1062), Prob: 0.0018
+Token: ' took' (ID: 3867), Prob: 0.0016
+Token: ' appears' (ID: 7952), Prob: 0.0016
+Token: ' did' (ID: 1521), Prob: 0.0012
+Token: ' joined' (ID: 10859), Prob: 0.0011
+Token: ' again' (ID: 1549), Prob: 0.0010
+Token: ' met' (ID: 2270), Prob: 0.0010
+Token: ' repr' (ID: 30636), Prob: 0.0010
+Token: ' worked' (ID: 6439), Prob: 0.0008
+Token: ' featured' (ID: 14766), Prob: 0.0008
+Token: ' and' (ID: 323), Prob: 0.0007
+Token: ' is' (ID: 374), Prob: 0.0007
+Token: ' served' (ID: 10223), Prob: 0.0007
+Token: ' shared' (ID: 6094), Prob: 0.0004
+Token: ' became' (ID: 6116), Prob: 0.0004
+Token: ' voiced' (ID: 51368), Prob: 0.0004
+Token: ' re' (ID: 312), Prob: 0.0003
+Token: ' plays' (ID: 11088), Prob: 0.0003
+Token: ' first' (ID: 1156), Prob: 0.0003
+Token: ' gave' (ID: 6551), Prob: 0.0002
+Token: ' contributed' (ID: 19590), Prob: 0.0002
+Token: ' helped' (ID: 8910), Prob: 0.0002
+Token: ' participated' (ID: 30308), Prob: 0.0002
+Token: ' would' (ID: 1035), Prob: 0.0002
+Token: ' once' (ID: 3055), Prob: 0.0002
+Token: ' wrote' (ID: 6139), Prob: 0.0002
+Token: ' supported' (ID: 7248), Prob: 0.0001
+Token: ' portrays' (ID: 96506), Prob: 0.0001
+Token: ' has' (ID: 702), Prob: 0.0001
+Token: ' came' (ID: 3697), Prob: 0.0001
+Token: ' briefly' (ID: 26753), Prob: 0.0001
+Token: ' play' (ID: 1486), Prob: 0.0001
+Token: ' got' (ID: 2684), Prob: 0.0001
+Token: ' received' (ID: 3949), Prob: 0.0001
+Token: ' sat' (ID: 7578), Prob: 0.0001
+Token: ' often' (ID: 3545), Prob: 0.0001
+Token: ' began' (ID: 6009), Prob: 0.0001
+Token: ' showed' (ID: 8542), Prob: 0.0001
+Token: ' continued' (ID: 8570), Prob: 0.0001
+Token: ' represented' (ID: 15251), Prob: 0.0001
+Token: ' repeated' (ID: 11504), Prob: 0.0001
+Token: ' replaced' (ID: 12575), Prob: 0.0001
+Token: ' sang' (ID: 28240), Prob: 0.0001
+Token: ' hosted' (ID: 21009), Prob: 0.0001
+Token: ' lent' (ID: 47807), Prob: 0.0001
+Token: ' audition' (ID: 61888), Prob: 0.0001
+Token: ' as' (ID: 438), Prob: 0.0001
+Token: ' found' (ID: 1730), Prob: 0.0001
+Token: ' cameo' (ID: 94056), Prob: 0.0001
+Token: ' said' (ID: 1053), Prob: 0.0001
+Token: ' star' (ID: 6774), Prob: 0.0001
+Token: ' filled' (ID: 10199), Prob: 0.0001
+Token: ' spoke' (ID: 12290), Prob: 0.0001
+Token: ' appear' (ID: 4994), Prob: 0.0000
+Token: ' started' (ID: 3855), Prob: 0.0000
+Token: ' returned' (ID: 5927), Prob: 0.0000
+Token: ' formed' (ID: 14122), Prob: 0.0000
+Token: ' told' (ID: 3229), Prob: 0.0000
+Token: ' directed' (ID: 15540), Prob: 0.0000
+Token: ' gained' (ID: 18163), Prob: 0.0000
+Token: ' assisted' (ID: 37961), Prob: 0.0000
+Token: ' described' (ID: 7481), Prob: 0.0000
+Token: ' stated' (ID: 10982), Prob: 0.0000
+Token: ' married' (ID: 12224), Prob: 0.0000
+Token: ' originated' (ID: 43753), Prob: 0.0000
+Token: ' famously' (ID: 50187), Prob: 0.0000
+Token: ' read' (ID: 1349), Prob: 0.0000
+Token: ' altern' (ID: 6919), Prob: 0.0000
+Token: ' stars' (ID: 9759), Prob: 0.0000
+Token: ' stood' (ID: 14638), Prob: 0.0000
+Token: ' regularly' (ID: 15502), Prob: 0.0000
+Token: ' attended' (ID: 18178), Prob: 0.0000
+Token: ' collaborated' (ID: 77074), Prob: 0.0000
+Token: ' produced' (ID: 8947), Prob: 0.0000
+Token: ' wore' (ID: 27570), Prob: 0.0000
+Token: ' doubled' (ID: 34617), Prob: 0.0000
+Token: ' created' (ID: 3465), Prob: 0.0000
+Token: ' rose' (ID: 16009), Prob: 0.0000
+Token: ' stared' (ID: 44035), Prob: 0.0000
 
 == Ranked Concepts (Clusters) ==
-Rank 1 | Centroid: ' village' | Score: 0.4043
-  Tokens: [' village', ' community', ' villagers', ' town', ' city', ' clan', ' council']
-Rank 2 | Centroid: ' wall' | Score: 0.1768
-  Tokens: [' tower', ' wall', ' walls']
-Rank 3 | Centroid: ' father' | Score: 0.1094
-  Tokens: [' family', ' parents', ' parent', ' father', ' child', ' mother', ' teacher', ' children', ' siblings', ' brother']
-Rank 4 | Centroid: ' lack' | Score: 0.0464
-  Tokens: [' lack', ' need', ' fear', ' importance', ' loss', ' absence', ' needs', ' idea', ' scarcity', ' use', ' desire']
-Rank 5 | Centroid: ' surroundings' | Score: 0.0309
-  Tokens: [' weather', ' environment', ' surrounding', ' outside', ' environmental', ' surroundings']
-Rank 6 | Centroid: ' builder' | Score: 0.0243
-  Tokens: [' building', ' builder', ' construction', ' structure', ' stone']
-Rank 7 | Centroid: ' local' | Score: 0.0206
-  Tokens: [' local', ' natural', ' limited', ' people']
-Rank 8 | Centroid: ' challenges' | Score: 0.0205
-  Tokens: [' competition', ' challenge', ' challenges', ' difficulty', ' conflict', ' danger', ' dangers', ' problem']
-Rank 9 | Centroid: ' materials' | Score: 0.0197
-  Tokens: [' materials', ' resources', ' material']
-Rank 10 | Centroid: ' money' | Score: 0.0143
-  Tokens: [' cost', ' time', ' money', ' weight', ' power', ' pressure', ' height']
-Rank 11 | Centroid: ' elders' | Score: 0.0139
-  Tokens: [' elders', ' elder', ' grandmother', ' guardian']
-Rank 12 | Centroid: ' forest' | Score: 0.0122
-  Tokens: [' forest', ' mountain', ' house', ' tree', ' school', ' river', ' jungle', ' storm']
-Rank 13 | Centroid: ' traditional' | Score: 0.0106
-  Tokens: [' old', ' traditional', ' strict', ' usual', ' tradition']
-Rank 14 | Centroid: ' neighbors' | Score: 0.0066
-  Tokens: [' neighbor', ' neighbors', ' nearby', ' friends']
-Rank 15 | Centroid: ' big' | Score: 0.0055
-  Tokens: [' main', ' big', ' size', ' small', ' tall', ' high']
-Rank 16 | Centroid: ' noise' | Score: 0.0023
-  Tokens: [' world', ' land', ' noise']
-Rank 17 | Centroid: ' rules' | Score: 0.0021
-  Tokens: [' rules', ' growing']
-Rank 18 | Centroid: ' toy' | Score: 0.0019
-  Tokens: [' toy']
-Rank 19 | Centroid: ' owner' | Score: 0.0009
-  Tokens: [' owner']
-Rank 20 | Centroid: ' adult' | Score: 0.0006
-  Tokens: [' adult']
+Rank 1 | Centroid: ' plays' | Score: 0.6367
+  Tokens: [' played', ' plays', ' play']
+Rank 2 | Centroid: ' is' | Score: 0.2197
+  Tokens: [' was', ' had', ' did', ' and', ' is', ' would', ' has', ' as']
+Rank 3 | Centroid: ' appear' | Score: 0.0874
+  Tokens: [' appeared', ' appears', ' appear']
+Rank 4 | Centroid: ' portrayed' | Score: 0.0126
+  Tokens: [' portrayed', ' featured', ' portrays']
+Rank 5 | Centroid: ' created' | Score: 0.0092
+  Tokens: [' performed', ' made', ' contributed', ' received', ' found', ' returned', ' formed', ' gained', ' produced', ' created']
+Rank 6 | Centroid: ' also' | Score: 0.0079
+  Tokens: [' also', ' again', ' first', ' once', ' briefly', ' often', ' famously', ' regularly']
+Rank 7 | Centroid: ' helped' | Score: 0.0051
+  Tokens: [' acted', ' worked', ' served', ' helped', ' participated', ' supported', ' assisted', ' attended', ' collaborated']
+Rank 8 | Centroid: ' provided' | Score: 0.0033
+  Tokens: [' provided']
+Rank 9 | Centroid: ' re' | Score: 0.0031
+  Tokens: [' co', ' met', ' re', ' read']
+Rank 10 | Centroid: ' stars' | Score: 0.0031
+  Tokens: [' starred', ' star', ' stars', ' stared']
+Rank 11 | Centroid: ' hosted' | Score: 0.0029
+  Tokens: [' guest', ' shared', ' hosted', ' lent', ' directed']
+Rank 12 | Centroid: ' gave' | Score: 0.0028
+  Tokens: [' took', ' became', ' gave', ' wrote', ' came', ' got', ' began', ' showed']
+Rank 13 | Centroid: ' replaced' | Score: 0.0012
+  Tokens: [' joined', ' replaced', ' filled']
+Rank 14 | Centroid: ' repr' | Score: 0.0011
+  Tokens: [' repr', ' sat']
+Rank 15 | Centroid: ' voiced' | Score: 0.0005
+  Tokens: [' voiced', ' audition', ' cameo', ' married']
+Rank 16 | Centroid: ' described' | Score: 0.0002
+  Tokens: [' represented', ' said', ' told', ' described', ' stated']
+Rank 17 | Centroid: ' repeated' | Score: 0.0002
+  Tokens: [' continued', ' repeated', ' altern', ' doubled']
+Rank 18 | Centroid: ' sang' | Score: 0.0001
+  Tokens: [' sang', ' rose']
+Rank 19 | Centroid: ' spoke' | Score: 0.0001
+  Tokens: [' spoke', ' wore']
+Rank 20 | Centroid: ' started' | Score: 0.0001
+  Tokens: [' started', ' originated']
+Rank 21 | Centroid: ' stood' | Score: 0.0000
+  Tokens: [' stood']
 
 **Chosen Concept:** Rank 1

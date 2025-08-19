@@ -1,0 +1,64 @@
+--- Step 71 Log ---
+
+== Filtered Candidates ==
+Token: ' of' (ID: 315), Prob: 0.0347
+Token: ' B' (ID: 425), Prob: 0.0047
+Token: ' in' (ID: 304), Prob: 0.0013
+Token: ' and' (ID: 323), Prob: 0.0009
+Token: ''s' (ID: 594), Prob: 0.0003
+Token: ' by' (ID: 553), Prob: 0.0002
+Token: '.B' (ID: 1785), Prob: 0.0001
+Token: ' from' (ID: 504), Prob: 0.0001
+Token: ' during' (ID: 2337), Prob: 0.0001
+Token: ' through' (ID: 1526), Prob: 0.0000
+Token: ' according' (ID: 4092), Prob: 0.0000
+Token: ' as' (ID: 438), Prob: 0.0000
+Token: '\n' (ID: 1699), Prob: 0.0000
+Token: ' to' (ID: 311), Prob: 0.0000
+Token: 'B' (ID: 33), Prob: 0.0000
+Token: ' C' (ID: 356), Prob: 0.0000
+Token: ' based' (ID: 3118), Prob: 0.0000
+Token: ' D' (ID: 422), Prob: 0.0000
+Token: ' is' (ID: 374), Prob: 0.0000
+Token: ' for' (ID: 369), Prob: 0.0000
+Token: ' with' (ID: 448), Prob: 0.0000
+Token: ' The' (ID: 576), Prob: 0.0000
+Token: ' at' (ID: 518), Prob: 0.0000
+Token: ' about' (ID: 911), Prob: 0.0000
+Token: ' when' (ID: 979), Prob: 0.0000
+Token: ' itself' (ID: 5086), Prob: 0.0000
+Token: ' on' (ID: 389), Prob: 0.0000
+Token: ' within' (ID: 2878), Prob: 0.0000
+Token: '	B' (ID: 12791), Prob: 0.0000
+Token: ' interpretation' (ID: 22845), Prob: 0.0000
+Token: ' text' (ID: 1467), Prob: 0.0000
+Token: ' works' (ID: 4278), Prob: 0.0000
+Token: ' texts' (ID: 21984), Prob: 0.0000
+Token: ' work' (ID: 975), Prob: 0.0000
+Token: ' that' (ID: 429), Prob: 0.0000
+
+== Ranked Concepts (Clusters) ==
+Rank 1 | Centroid: ' in' | Score: 0.0374
+  Tokens: [' of', ' in', ' and', ' by', ' from', ' as', ' to', ' is', ' for', ' with', ' at', ' on', ' that']
+Rank 2 | Centroid: ' B' | Score: 0.0048
+  Tokens: [' B', '.B', 'B', '\tB']
+Rank 3 | Centroid: ''s' | Score: 0.0003
+  Tokens: ["'s", '\\n']
+Rank 4 | Centroid: ' during' | Score: 0.0001
+  Tokens: [' during', ' through', ' when', ' within']
+Rank 5 | Centroid: ' according' | Score: 0.0001
+  Tokens: [' according', ' based']
+Rank 6 | Centroid: ' C' | Score: 0.0001
+  Tokens: [' C', ' D', ' The']
+Rank 7 | Centroid: ' text' | Score: 0.0000
+  Tokens: [' text', ' texts']
+Rank 8 | Centroid: ' works' | Score: 0.0000
+  Tokens: [' works', ' work']
+Rank 9 | Centroid: ' about' | Score: 0.0000
+  Tokens: [' about']
+Rank 10 | Centroid: ' itself' | Score: 0.0000
+  Tokens: [' itself']
+Rank 11 | Centroid: ' interpretation' | Score: 0.0000
+  Tokens: [' interpretation']
+
+**Chosen Concept:** Rank 1

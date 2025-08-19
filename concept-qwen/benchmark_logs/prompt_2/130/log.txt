@@ -1,113 +1,99 @@
 --- Step 130 Log ---
 
 == Filtered Candidates ==
-Token: ' went' (ID: 3937), Prob: 0.9531
-Token: ' going' (ID: 2087), Prob: 0.0198
-Token: ' gone' (ID: 8048), Prob: 0.0027
-Token: ' failed' (ID: 4641), Prob: 0.0016
-Token: ' wrong' (ID: 4969), Prob: 0.0016
-Token: ' happened' (ID: 6932), Prob: 0.0010
-Token: ' messed' (ID: 64202), Prob: 0.0006
-Token: ' got' (ID: 2684), Prob: 0.0005
-Token: ' fell' (ID: 11052), Prob: 0.0002
-Token: ' might' (ID: 2578), Prob: 0.0001
-Token: ' ended' (ID: 9482), Prob: 0.0001
-Token: ' started' (ID: 3855), Prob: 0.0001
-Token: ' turned' (ID: 6519), Prob: 0.0001
-Token: ' could' (ID: 1410), Prob: 0.0000
-Token: ' goes' (ID: 5780), Prob: 0.0000
-Token: ' happening' (ID: 12482), Prob: 0.0000
-Token: ' happen' (ID: 3537), Prob: 0.0000
-Token: ' worked' (ID: 6439), Prob: 0.0000
-Token: ' ran' (ID: 10613), Prob: 0.0000
-Token: ' took' (ID: 3867), Prob: 0.0000
-Token: ' bad' (ID: 3873), Prob: 0.0000
-Token: ' getting' (ID: 3709), Prob: 0.0000
-Token: ' became' (ID: 6116), Prob: 0.0000
-Token: ' may' (ID: 1231), Prob: 0.0000
-Token: ' came' (ID: 3697), Prob: 0.0000
-Token: ' tried' (ID: 6679), Prob: 0.0000
-Token: ' made' (ID: 1865), Prob: 0.0000
-Token: ' mis' (ID: 5786), Prob: 0.0000
-Token: ' like' (ID: 1075), Prob: 0.0000
-Token: ' broke' (ID: 14422), Prob: 0.0000
-Token: ' mish' (ID: 63396), Prob: 0.0000
-Token: ' flew' (ID: 31022), Prob: 0.0000
-Token: ' falling' (ID: 15679), Prob: 0.0000
-Token: ' changed' (ID: 5497), Prob: 0.0000
-Token: ' Went' (ID: 53759), Prob: 0.0000
-Token: ' sometimes' (ID: 7025), Prob: 0.0000
-Token: ' maybe' (ID: 7196), Prob: 0.0000
-Token: ' caused' (ID: 8881), Prob: 0.0000
-Token: ' fall' (ID: 4399), Prob: 0.0000
-Token: ' seemed' (ID: 9324), Prob: 0.0000
-Token: ' worse' (ID: 10960), Prob: 0.0000
-Token: ' malfunction' (ID: 71187), Prob: 0.0000
-Token: ' get' (ID: 633), Prob: 0.0000
-Token: ' still' (ID: 2058), Prob: 0.0000
-Token: ' missed' (ID: 13628), Prob: 0.0000
-Token: ' occurred' (ID: 10017), Prob: 0.0000
-Token: ' failing' (ID: 21394), Prob: 0.0000
-Token: ' things' (ID: 2513), Prob: 0.0000
-Token: ' problems' (ID: 5322), Prob: 0.0000
-Token: ' felt' (ID: 6476), Prob: 0.0000
-Token: ' seem' (ID: 2803), Prob: 0.0000
-Token: ' somehow' (ID: 16925), Prob: 0.0000
-Token: ' wors' (ID: 46193), Prob: 0.0000
-Token: ' mess' (ID: 9435), Prob: 0.0000
-Token: ' slipped' (ID: 42478), Prob: 0.0000
-Token: ' fal' (ID: 25484), Prob: 0.0000
-Token: ' broken' (ID: 10865), Prob: 0.0000
-Token: ' back' (ID: 1182), Prob: 0.0000
-Token: ' sank' (ID: 64230), Prob: 0.0000
-Token: ' set' (ID: 738), Prob: 0.0000
-Token: ' uns' (ID: 6975), Prob: 0.0000
-Token: ' stuck' (ID: 15700), Prob: 0.0000
-Token: ' messing' (ID: 75751), Prob: 0.0000
-Token: ' left' (ID: 2115), Prob: 0.0000
-Token: ' needed' (ID: 4362), Prob: 0.0000
-Token: ' lost' (ID: 5558), Prob: 0.0000
+Token: ' Court' (ID: 7154), Prob: 1.0000
+Token: ' court' (ID: 5473), Prob: 0.0000
+Token: 'Court' (ID: 75774), Prob: 0.0000
+Token: ' Theatre' (ID: 26221), Prob: 0.0000
+Token: ' Art' (ID: 5166), Prob: 0.0000
+Token: ' Courts' (ID: 65463), Prob: 0.0000
+Token: ' College' (ID: 9126), Prob: 0.0000
+Token: ' Crown' (ID: 28643), Prob: 0.0000
+Token: ' Museum' (ID: 16328), Prob: 0.0000
+Token: ' Shakespeare' (ID: 41382), Prob: 0.0000
+Token: 'court' (ID: 62758), Prob: 0.0000
+Token: ' Academy' (ID: 15815), Prob: 0.0000
+Token: ' COURT' (ID: 95700), Prob: 0.0000
+Token: ' The' (ID: 576), Prob: 0.0000
+Token: ' Book' (ID: 5893), Prob: 0.0000
+Token: ' Library' (ID: 11635), Prob: 0.0000
+Token: ' Cour' (ID: 6244), Prob: 0.0000
+Token: ' Institute' (ID: 9976), Prob: 0.0000
+Token: ' Cart' (ID: 13115), Prob: 0.0000
+Token: ' in' (ID: 304), Prob: 0.0000
+Token: ' cout' (ID: 5034), Prob: 0.0000
+Token: ' Cultural' (ID: 40233), Prob: 0.0000
+Token: ' Tour' (ID: 14644), Prob: 0.0000
+Token: ' Literary' (ID: 73624), Prob: 0.0000
+Token: ' Circuit' (ID: 27218), Prob: 0.0000
+Token: ' D' (ID: 422), Prob: 0.0000
+Token: ' Play' (ID: 7054), Prob: 0.0000
+Token: ' Road' (ID: 9536), Prob: 0.0000
+Token: ' Cup' (ID: 10861), Prob: 0.0000
+Token: ' Cul' (ID: 31694), Prob: 0.0000
+Token: ' Dram' (ID: 79110), Prob: 0.0000
+Token: ' C' (ID: 356), Prob: 0.0000
+Token: ' London' (ID: 7148), Prob: 0.0000
+Token: ' Garden' (ID: 19021), Prob: 0.0000
+Token: ' Curve' (ID: 53677), Prob: 0.0000
+Token: ' Central' (ID: 10684), Prob: 0.0000
+Token: ' Centre' (ID: 14481), Prob: 0.0000
+Token: ' Audience' (ID: 64900), Prob: 0.0000
+Token: ' Cross' (ID: 11261), Prob: 0.0000
+Token: ' Society' (ID: 13278), Prob: 0.0000
+Token: ' Hotel' (ID: 14552), Prob: 0.0000
+Token: ' the' (ID: 279), Prob: 0.0000
+Token: ' Film' (ID: 16631), Prob: 0.0000
+Token: ' Country' (ID: 14106), Prob: 0.0000
+Token: ' and' (ID: 323), Prob: 0.0000
+Token: ' Exchange' (ID: 18705), Prob: 0.0000
+Token: ' Variety' (ID: 70732), Prob: 0.0000
+Token: ' Coffee' (ID: 26079), Prob: 0.0000
+Token: ' Company' (ID: 8188), Prob: 0.0000
+Token: ' Bank' (ID: 8547), Prob: 0.0000
+Token: ' Group' (ID: 5737), Prob: 0.0000
+Token: ' Crop' (ID: 67320), Prob: 0.0000
 
 == Ranked Concepts (Clusters) ==
-Rank 1 | Centroid: ' went' | Score: 0.9766
-  Tokens: [' went', ' going', ' gone', ' goes', ' Went']
-Rank 2 | Centroid: ' mis' | Score: 0.0017
-  Tokens: [' wrong', ' bad', ' mis', ' mish', ' malfunction']
-Rank 3 | Centroid: ' failed' | Score: 0.0016
-  Tokens: [' failed', ' missed', ' failing', ' lost']
-Rank 4 | Centroid: ' happened' | Score: 0.0011
-  Tokens: [' happened', ' happening', ' happen', ' occurred']
-Rank 5 | Centroid: ' messing' | Score: 0.0006
-  Tokens: [' messed', ' mess', ' messing']
-Rank 6 | Centroid: ' get' | Score: 0.0006
-  Tokens: [' got', ' getting', ' get']
-Rank 7 | Centroid: ' started' | Score: 0.0002
-  Tokens: [' ended', ' started', ' turned', ' worked', ' changed']
-Rank 8 | Centroid: ' might' | Score: 0.0002
-  Tokens: [' might', ' could', ' may']
-Rank 9 | Centroid: ' fall' | Score: 0.0002
-  Tokens: [' fell', ' falling', ' fall', ' fal']
-Rank 10 | Centroid: ' became' | Score: 0.0001
-  Tokens: [' ran', ' took', ' became', ' came']
-Rank 11 | Centroid: ' left' | Score: 0.0000
-  Tokens: [' like', ' still', ' back', ' set', ' uns', ' left', ' needed']
-Rank 12 | Centroid: ' made' | Score: 0.0000
-  Tokens: [' made', ' caused']
-Rank 13 | Centroid: ' maybe' | Score: 0.0000
-  Tokens: [' sometimes', ' maybe', ' things', ' somehow']
-Rank 14 | Centroid: ' tried' | Score: 0.0000
-  Tokens: [' tried']
-Rank 15 | Centroid: ' slipped' | Score: 0.0000
-  Tokens: [' flew', ' slipped', ' sank']
-Rank 16 | Centroid: ' broke' | Score: 0.0000
-  Tokens: [' broke', ' broken']
-Rank 17 | Centroid: ' seemed' | Score: 0.0000
-  Tokens: [' seemed', ' felt', ' seem']
-Rank 18 | Centroid: ' worse' | Score: 0.0000
-  Tokens: [' worse', ' wors']
-Rank 19 | Centroid: ' problems' | Score: 0.0000
-  Tokens: [' problems']
-Rank 20 | Centroid: ' stuck' | Score: 0.0000
-  Tokens: [' stuck']
+Rank 1 | Centroid: ' Court' | Score: 1.0000
+  Tokens: [' Court', ' court', 'Court', ' Courts', 'court', ' COURT', ' cout']
+Rank 2 | Centroid: ' Theatre' | Score: 0.0000
+  Tokens: [' Theatre', ' Shakespeare', ' Dram', ' Audience']
+Rank 3 | Centroid: ' Art' | Score: 0.0000
+  Tokens: [' Art', ' Book', ' Cart']
+Rank 4 | Centroid: ' Museum' | Score: 0.0000
+  Tokens: [' College', ' Museum', ' Academy', ' Library', ' Institute']
+Rank 5 | Centroid: ' Crop' | Score: 0.0000
+  Tokens: [' Crown', ' Cross', ' Crop']
+Rank 6 | Centroid: ' the' | Score: 0.0000
+  Tokens: [' The', ' in', ' D', ' C', ' the', ' and']
+Rank 7 | Centroid: ' Cultural' | Score: 0.0000
+  Tokens: [' Cultural', ' Literary', ' Film']
+Rank 8 | Centroid: ' Coffee' | Score: 0.0000
+  Tokens: [' Cup', ' Cul', ' Coffee']
+Rank 9 | Centroid: ' Company' | Score: 0.0000
+  Tokens: [' Road', ' Country', ' Company', ' Group']
+Rank 10 | Centroid: ' Hotel' | Score: 0.0000
+  Tokens: [' Garden', ' Hotel', ' Bank']
+Rank 11 | Centroid: ' Cour' | Score: 0.0000
+  Tokens: [' Cour']
+Rank 12 | Centroid: ' Central' | Score: 0.0000
+  Tokens: [' Central', ' Centre']
+Rank 13 | Centroid: ' Tour' | Score: 0.0000
+  Tokens: [' Tour']
+Rank 14 | Centroid: ' Circuit' | Score: 0.0000
+  Tokens: [' Circuit']
+Rank 15 | Centroid: ' Play' | Score: 0.0000
+  Tokens: [' Play']
+Rank 16 | Centroid: ' London' | Score: 0.0000
+  Tokens: [' London']
+Rank 17 | Centroid: ' Curve' | Score: 0.0000
+  Tokens: [' Curve']
+Rank 18 | Centroid: ' Society' | Score: 0.0000
+  Tokens: [' Society']
+Rank 19 | Centroid: ' Variety' | Score: 0.0000
+  Tokens: [' Variety']
+Rank 20 | Centroid: ' Exchange' | Score: 0.0000
+  Tokens: [' Exchange']
 
 **Chosen Concept:** Rank 1

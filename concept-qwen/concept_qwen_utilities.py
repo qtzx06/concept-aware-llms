@@ -11,7 +11,13 @@ import nltk
 
 # A set of tokens that are critical for grammar and should sometimes bypass concept clustering.
 # This includes common punctuation and a few essential stopwords.
-GRAMMAR_CRITICAL_TOKENS = {'.', ',', '?', '!', "'s", "'", "of", "in", "to", "a", "the", "and", "but", "on", "with"}
+GRAMMAR_CRITICAL_TOKENS = {
+    '.', ',', '?', '!', "'s", "'", '"',
+    'a', 'an', 'the', 'and', 'but', 'or', 'so', 'if', 'for', 'of', 'in', 'to', 'on', 'with', 'by', 'at', 'from',
+    'is', 'are', 'was', 'were', 'be', 'been', 'have', 'has', 'had', 'do', 'does', 'did',
+    'he', 'she', 'it', 'they', 'we', 'you', 'I',
+    'that', 'which', 'who', 'what', 'when', 'where', 'why', 'how'
+}
 
 # ensure the stopwords dataset from nltk is available
 try:
@@ -27,19 +33,19 @@ def get_top_k_candidates(logits, k):
     top_k_probs, top_k_ids = torch.topk(probs, k, dim=-1)
     return top_k_ids.squeeze(), top_k_probs.squeeze()
 
-def filter_candidates(token_ids, token_probs, tokenizer, min_length=3):
+def filter_candidates(token_ids, token_probs, tokenizer):
     """
-    Filters out stopwords, short tokens, and other non-meaningful tokens.
+    A much more relaxed filter. The main goal is to remove tokens that are not
+    decodable as meaningful text (e.g., pure whitespace, control characters).
+    The "lobotomy" of removing stopwords and short words is GONE.
     """
     filtered_ids = []
     filtered_probs = []
     for token_id, prob in zip(token_ids, token_probs):
-        token_str = tokenizer.decode(token_id, skip_special_tokens=True).strip()
-        # Stricter filter: ensure the token contains at least one letter
-        if (token_str and 
-            len(token_str) >= min_length and 
-            token_str.lower() not in STOPWORDS and 
-            re.search(r'[a-zA-Z]', token_str)):
+        token_str = tokenizer.decode(token_id)
+        # The main goal is to filter out non-linguistic or purely functional tokens.
+        # We keep it simple: if it has at least one letter or number, it's a candidate.
+        if re.search(r'[a-zA-Z0-9]', token_str):
             filtered_ids.append(token_id)
             filtered_probs.append(prob)
     
@@ -48,6 +54,7 @@ def filter_candidates(token_ids, token_probs, tokenizer, min_length=3):
                torch.tensor([], device=token_probs.device, dtype=torch.float)
 
     return torch.tensor(filtered_ids, device=token_ids.device), torch.tensor(filtered_probs, device=token_probs.device)
+
 
 def get_candidate_embeddings(model, token_ids):
     """Gets the embedding vectors for the filtered candidate tokens."""

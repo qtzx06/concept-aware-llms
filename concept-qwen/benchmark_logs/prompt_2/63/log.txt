@@ -1,0 +1,110 @@
+--- Step 63 Log ---
+
+== Filtered Candidates ==
+Token: ' London' (ID: 7148), Prob: 0.8438
+Token: ' the' (ID: 279), Prob: 0.1465
+Token: ' a' (ID: 264), Prob: 0.0010
+Token: ' Strat' (ID: 52935), Prob: 0.0010
+Token: ' Not' (ID: 2806), Prob: 0.0004
+Token: ' May' (ID: 3217), Prob: 0.0004
+Token: ' B' (ID: 425), Prob: 0.0003
+Token: ' South' (ID: 4882), Prob: 0.0003
+Token: ' March' (ID: 5470), Prob: 0.0003
+Token: ' St' (ID: 794), Prob: 0.0001
+Token: ' central' (ID: 8622), Prob: 0.0001
+Token: ' West' (ID: 4312), Prob: 0.0001
+Token: ' April' (ID: 5813), Prob: 0.0001
+Token: ' Is' (ID: 2160), Prob: 0.0001
+Token: ' January' (ID: 6058), Prob: 0.0001
+Token: ' February' (ID: 7400), Prob: 0.0001
+Token: ' June' (ID: 5534), Prob: 0.0001
+Token: ' Central' (ID: 10684), Prob: 0.0001
+Token: ' New' (ID: 1532), Prob: 0.0000
+Token: ' G' (ID: 479), Prob: 0.0000
+Token: ' Ch' (ID: 910), Prob: 0.0000
+Token: ' So' (ID: 2055), Prob: 0.0000
+Token: ' White' (ID: 5807), Prob: 0.0000
+Token: ' Bristol' (ID: 43939), Prob: 0.0000
+Token: ' Sh' (ID: 1417), Prob: 0.0000
+Token: ' The' (ID: 576), Prob: 0.0000
+Token: ' East' (ID: 6326), Prob: 0.0000
+Token: ' Westminster' (ID: 46943), Prob: 0.0000
+Token: ' Manchester' (ID: 19361), Prob: 0.0000
+Token: ' November' (ID: 6702), Prob: 0.0000
+Token: ' Hol' (ID: 15696), Prob: 0.0000
+Token: ' T' (ID: 350), Prob: 0.0000
+Token: ' North' (ID: 4787), Prob: 0.0000
+Token: ' Beth' (ID: 28003), Prob: 0.0000
+Token: ' west' (ID: 9710), Prob: 0.0000
+Token: ' H' (ID: 472), Prob: 0.0000
+Token: ' July' (ID: 5768), Prob: 0.0000
+Token: ' Pic' (ID: 25898), Prob: 0.0000
+Token: ' Pall' (ID: 71360), Prob: 0.0000
+Token: ' an' (ID: 458), Prob: 0.0000
+Token: ' L' (ID: 444), Prob: 0.0000
+Token: ' England' (ID: 9448), Prob: 0.0000
+Token: ' Lond' (ID: 79593), Prob: 0.0000
+Token: ' Britain' (ID: 13224), Prob: 0.0000
+Token: ' Strand' (ID: 77302), Prob: 0.0000
+Token: ' Dr' (ID: 2926), Prob: 0.0000
+Token: ' Cambridge' (ID: 23641), Prob: 0.0000
+Token: ' W' (ID: 467), Prob: 0.0000
+Token: 'London' (ID: 39572), Prob: 0.0000
+Token: ' Edinburgh' (ID: 40306), Prob: 0.0000
+Token: ' east' (ID: 10984), Prob: 0.0000
+Token: ' Stre' (ID: 35672), Prob: 0.0000
+Token: ' Seven' (ID: 29948), Prob: 0.0000
+Token: ' Mary' (ID: 10244), Prob: 0.0000
+Token: ' off' (ID: 1007), Prob: 0.0000
+Token: ' Covent' (ID: 88717), Prob: 0.0000
+Token: ' Finch' (ID: 95233), Prob: 0.0000
+Token: ' York' (ID: 4261), Prob: 0.0000
+Token: ' Ber' (ID: 8907), Prob: 0.0000
+Token: ' Bath' (ID: 19161), Prob: 0.0000
+Token: ' Shaft' (ID: 95759), Prob: 0.0000
+Token: ' Str' (ID: 4509), Prob: 0.0000
+Token: ' Ham' (ID: 9582), Prob: 0.0000
+Token: ' October' (ID: 6527), Prob: 0.0000
+Token: ' Shakespeare' (ID: 41382), Prob: 0.0000
+Token: ' Guild' (ID: 32492), Prob: 0.0000
+Token: ' and' (ID: 323), Prob: 0.0000
+Token: ' King' (ID: 6210), Prob: 0.0000
+Token: ' December' (ID: 6652), Prob: 0.0000
+Token: ' north' (ID: 10200), Prob: 0.0000
+Token: ' Paris' (ID: 12095), Prob: 0.0000
+Token: ' P' (ID: 393), Prob: 0.0000
+Token: ' September' (ID: 6122), Prob: 0.0000
+Token: ' Bank' (ID: 8547), Prob: 0.0000
+Token: ' Cl' (ID: 2435), Prob: 0.0000
+Token: ' Black' (ID: 5235), Prob: 0.0000
+Token: ' Green' (ID: 7840), Prob: 0.0000
+
+== Ranked Concepts (Clusters) ==
+Rank 1 | Centroid: ' London' | Score: 0.8438
+  Tokens: [' London', ' Westminster', ' Manchester', ' England', ' Lond', ' Britain', ' Cambridge', 'London', ' Edinburgh', ' Covent', ' York', ' Paris']
+Rank 2 | Centroid: ' the' | Score: 0.1484
+  Tokens: [' the', ' a', ' Not', ' B', ' Is', ' G', ' So', ' The', ' T', ' H', ' an', ' L', ' W', ' and', ' P']
+Rank 3 | Centroid: ' February' | Score: 0.0011
+  Tokens: [' May', ' March', ' April', ' January', ' February', ' June', ' November', ' July', ' October', ' December', ' September']
+Rank 4 | Centroid: ' Str' | Score: 0.0010
+  Tokens: [' Strat', ' Strand', ' Stre', ' Str']
+Rank 5 | Centroid: ' east' | Score: 0.0005
+  Tokens: [' South', ' West', ' East', ' North', ' west', ' east', ' north']
+Rank 6 | Centroid: ' Ch' | Score: 0.0002
+  Tokens: [' St', ' Ch', ' Sh', ' Dr', ' Cl']
+Rank 7 | Centroid: ' central' | Score: 0.0002
+  Tokens: [' central', ' Central']
+Rank 8 | Centroid: ' Shakespeare' | Score: 0.0001
+  Tokens: [' Hol', ' Pic', ' Pall', ' Seven', ' Finch', ' Shaft', ' Ham', ' Shakespeare', ' Guild']
+Rank 9 | Centroid: ' Beth' | Score: 0.0001
+  Tokens: [' Bristol', ' Beth', ' Ber', ' Bath', ' Bank']
+Rank 10 | Centroid: ' Black' | Score: 0.0001
+  Tokens: [' White', ' King', ' Black', ' Green']
+Rank 11 | Centroid: ' New' | Score: 0.0000
+  Tokens: [' New']
+Rank 12 | Centroid: ' Mary' | Score: 0.0000
+  Tokens: [' Mary']
+Rank 13 | Centroid: ' off' | Score: 0.0000
+  Tokens: [' off']
+
+**Chosen Concept:** Rank 1

@@ -1,156 +1,99 @@
 --- Step 86 Log ---
 
 == Filtered Candidates ==
-Token: ' way' (ID: 1616), Prob: 0.1885
-Token: ' strange' (ID: 14888), Prob: 0.1885
-Token: ' normal' (ID: 4622), Prob: 0.0786
-Token: ' place' (ID: 1992), Prob: 0.0693
-Token: ' public' (ID: 584), Prob: 0.0542
-Token: ' situation' (ID: 6534), Prob: 0.0327
-Token: ' casual' (ID: 16334), Prob: 0.0327
-Token: ' weird' (ID: 16283), Prob: 0.0199
-Token: ' mysterious' (ID: 25382), Prob: 0.0199
-Token: ' playful' (ID: 56069), Prob: 0.0165
-Token: ' fun' (ID: 2464), Prob: 0.0155
-Token: ' humorous' (ID: 69846), Prob: 0.0146
-Token: ' non' (ID: 2477), Prob: 0.0114
-Token: ' funny' (ID: 15173), Prob: 0.0107
-Token: ' setting' (ID: 6243), Prob: 0.0100
-Token: ' surprising' (ID: 14861), Prob: 0.0100
-Token: ' different' (ID: 2155), Prob: 0.0094
-Token: ' unexpected' (ID: 16500), Prob: 0.0089
-Token: ' mundane' (ID: 68682), Prob: 0.0083
-Token: ' dark' (ID: 6319), Prob: 0.0069
-Token: ' typical' (ID: 14260), Prob: 0.0057
-Token: ' quirky' (ID: 67132), Prob: 0.0054
-Token: ' harmless' (ID: 52897), Prob: 0.0047
-Token: ' usual' (ID: 13475), Prob: 0.0045
-Token: ' natural' (ID: 5810), Prob: 0.0042
-Token: ' unusual' (ID: 18511), Prob: 0.0042
-Token: ' new' (ID: 501), Prob: 0.0037
-Token: ' private' (ID: 869), Prob: 0.0037
-Token: ' friendly' (ID: 11657), Prob: 0.0037
-Token: ' room' (ID: 3054), Prob: 0.0035
-Token: ' relaxed' (ID: 30367), Prob: 0.0035
-Token: ' safe' (ID: 6092), Prob: 0.0031
-Token: ' quiet' (ID: 11340), Prob: 0.0031
-Token: ' manner' (ID: 11566), Prob: 0.0031
-Token: ' serious' (ID: 6001), Prob: 0.0027
-Token: ' familiar' (ID: 11285), Prob: 0.0027
-Token: ' peculiar' (ID: 43697), Prob: 0.0027
-Token: ' creepy' (ID: 50840), Prob: 0.0025
-Token: ' seemingly' (ID: 22660), Prob: 0.0024
-Token: ' bizarre' (ID: 32188), Prob: 0.0022
-Token: ' chaotic' (ID: 51987), Prob: 0.0021
-Token: ' social' (ID: 3590), Prob: 0.0019
-Token: ' certain' (ID: 3654), Prob: 0.0019
-Token: ' romantic' (ID: 23467), Prob: 0.0019
-Token: ' trivial' (ID: 35647), Prob: 0.0019
-Token: ' secretive' (ID: 82999), Prob: 0.0019
-Token: ' confusing' (ID: 30615), Prob: 0.0017
-Token: ' meaningful' (ID: 22414), Prob: 0.0016
-Token: ' common' (ID: 4185), Prob: 0.0015
-Token: ' foreign' (ID: 7214), Prob: 0.0015
-Token: ' formal' (ID: 15908), Prob: 0.0015
-Token: ' workplace' (ID: 26368), Prob: 0.0015
-Token: ' lively' (ID: 48177), Prob: 0.0015
-Token: ' moment' (ID: 4445), Prob: 0.0014
-Token: ' unique' (ID: 4911), Prob: 0.0014
-Token: ' hidden' (ID: 8177), Prob: 0.0014
-Token: ' disturbing' (ID: 33873), Prob: 0.0014
-Token: ' subtle' (ID: 26447), Prob: 0.0014
-Token: ' cafe' (ID: 40930), Prob: 0.0014
-Token: ' whims' (ID: 69105), Prob: 0.0014
-Token: ' vulnerable' (ID: 19563), Prob: 0.0013
-Token: ' store' (ID: 3553), Prob: 0.0012
-Token: ' comfortable' (ID: 10655), Prob: 0.0012
-Token: ' dangerous' (ID: 11406), Prob: 0.0012
-Token: ' distracting' (ID: 81298), Prob: 0.0012
-Token: ' town' (ID: 6290), Prob: 0.0011
-Token: ' compromising' (ID: 75000), Prob: 0.0011
-Token: ' magical' (ID: 23702), Prob: 0.0011
-Token: ' problematic' (ID: 34933), Prob: 0.0011
-Token: ' special' (ID: 3281), Prob: 0.0010
-Token: ' low' (ID: 3347), Prob: 0.0010
-Token: ' meeting' (ID: 6438), Prob: 0.0010
-Token: ' neutral' (ID: 20628), Prob: 0.0010
-Token: ' curious' (ID: 22208), Prob: 0.0010
-Token: ' park' (ID: 6118), Prob: 0.0009
-Token: ' silly' (ID: 29471), Prob: 0.0009
-Token: ' suspicious' (ID: 31327), Prob: 0.0009
-Token: ' context' (ID: 2266), Prob: 0.0009
-Token: ' secret' (ID: 6234), Prob: 0.0009
-Token: ' specific' (ID: 3151), Prob: 0.0008
-Token: ' light' (ID: 3100), Prob: 0.0008
-Token: ' awkward' (ID: 28759), Prob: 0.0008
-Token: ' particular' (ID: 3953), Prob: 0.0007
-Token: ' negative' (ID: 8225), Prob: 0.0007
-Token: ' tense' (ID: 42687), Prob: 0.0007
-Token: ' wrong' (ID: 4969), Prob: 0.0006
-Token: ' sensitive' (ID: 16216), Prob: 0.0006
-Token: ' dramatic' (ID: 21771), Prob: 0.0006
-Token: ' completely' (ID: 6587), Prob: 0.0006
-Token: ' pub' (ID: 6675), Prob: 0.0006
-Token: ' coffee' (ID: 10799), Prob: 0.0006
-Token: ' pleasant' (ID: 23795), Prob: 0.0006
-Token: ' bad' (ID: 3873), Prob: 0.0005
-Token: ' group' (ID: 1874), Prob: 0.0005
-Token: ' small' (ID: 2613), Prob: 0.0005
-Token: ' cold' (ID: 9255), Prob: 0.0005
-Token: ' cute' (ID: 18838), Prob: 0.0005
+Token: ' BBC' (ID: 18096), Prob: 1.0000
+Token: 'BBC' (ID: 66755), Prob: 0.0002
+Token: ' same' (ID: 1852), Prob: 0.0001
+Token: ' television' (ID: 12425), Prob: 0.0001
+Token: ' British' (ID: 7855), Prob: 0.0000
+Token: ' UK' (ID: 6424), Prob: 0.0000
+Token: ' ABC' (ID: 19360), Prob: 0.0000
+Token: ' BB' (ID: 18270), Prob: 0.0000
+Token: ' TV' (ID: 5883), Prob: 0.0000
+Token: ' bbc' (ID: 90626), Prob: 0.0000
+Token: ' CBC' (ID: 45512), Prob: 0.0000
+Token: ' B' (ID: 425), Prob: 0.0000
+Token: ' broadcast' (ID: 12899), Prob: 0.0000
+Token: ' the' (ID: 279), Prob: 0.0000
+Token: ' series' (ID: 4013), Prob: 0.0000
+Token: ' BC' (ID: 18040), Prob: 0.0000
+Token: ' NBC' (ID: 23521), Prob: 0.0000
+Token: ' broadcasting' (ID: 48827), Prob: 0.0000
+Token: ' first' (ID: 1156), Prob: 0.0000
+Token: ' following' (ID: 2701), Prob: 0.0000
+Token: ' radio' (ID: 8887), Prob: 0.0000
+Token: ' CBS' (ID: 24029), Prob: 0.0000
+Token: ' HBO' (ID: 42878), Prob: 0.0000
+Token: 'bbc' (ID: 84185), Prob: 0.0000
+Token: ' Scottish' (ID: 26096), Prob: 0.0000
+Token: ' sitcom' (ID: 80366), Prob: 0.0000
+Token: ' Australian' (ID: 13369), Prob: 0.0000
+Token: ' PBS' (ID: 59045), Prob: 0.0000
+Token: ' televised' (ID: 75610), Prob: 0.0000
+Token: ' public' (ID: 584), Prob: 0.0000
+Token: ' United' (ID: 3639), Prob: 0.0000
+Token: ' episode' (ID: 9234), Prob: 0.0000
+Token: ' BTC' (ID: 36045), Prob: 0.0000
+Token: ' other' (ID: 1008), Prob: 0.0000
+Token: ' film' (ID: 4531), Prob: 0.0000
+Token: ' comedy' (ID: 22358), Prob: 0.0000
+Token: ' A' (ID: 362), Prob: 0.0000
+Token: ' FCC' (ID: 37576), Prob: 0.0000
+Token: ' of' (ID: 315), Prob: 0.0000
+Token: ' The' (ID: 576), Prob: 0.0000
+Token: ' televis' (ID: 89965), Prob: 0.0000
+Token: ' various' (ID: 5257), Prob: 0.0000
+Token: ' Television' (ID: 40345), Prob: 0.0000
+Token: ' BBB' (ID: 94458), Prob: 0.0000
+Token: ' tele' (ID: 7963), Prob: 0.0000
+Token: ' Bible' (ID: 16947), Prob: 0.0000
+Token: ' in' (ID: 304), Prob: 0.0000
+Token: ' two' (ID: 1378), Prob: 0.0000
+Token: ' show' (ID: 1473), Prob: 0.0000
+Token: ' third' (ID: 4843), Prob: 0.0000
+Token: ' CCTV' (ID: 70238), Prob: 0.0000
+Token: ' T' (ID: 350), Prob: 0.0000
+Token: ' year' (ID: 1042), Prob: 0.0000
+Token: ' GCC' (ID: 44938), Prob: 0.0000
+Token: ' YouTube' (ID: 13370), Prob: 0.0000
+Token: ' BBQ' (ID: 45277), Prob: 0.0000
+Token: ' Yorkshire' (ID: 50227), Prob: 0.0000
+Token: ' police' (ID: 4282), Prob: 0.0000
+Token: ' BA' (ID: 33489), Prob: 0.0000
+Token: ' recurring' (ID: 45250), Prob: 0.0000
 
 == Ranked Concepts (Clusters) ==
-Rank 1 | Centroid: ' strange' | Score: 0.2559
-  Tokens: [' strange', ' weird', ' mysterious', ' surprising', ' unexpected', ' unusual', ' peculiar', ' bizarre']
-Rank 2 | Centroid: ' manner' | Score: 0.2266
-  Tokens: [' way', ' situation', ' manner', ' moment', ' context']
-Rank 3 | Centroid: ' typical' | Score: 0.0928
-  Tokens: [' normal', ' typical', ' usual', ' familiar', ' common']
-Rank 4 | Centroid: ' setting' | Score: 0.0806
-  Tokens: [' place', ' setting', ' meeting', ' group']
-Rank 5 | Centroid: ' public' | Score: 0.0586
-  Tokens: [' public', ' private', ' pub']
-Rank 6 | Centroid: ' quirky' | Score: 0.0535
-  Tokens: [' playful', ' humorous', ' funny', ' quirky', ' lively', ' whims', ' magical', ' curious', ' silly', ' cute']
-Rank 7 | Centroid: ' casual' | Score: 0.0464
-  Tokens: [' casual', ' mundane', ' relaxed', ' trivial']
-Rank 8 | Centroid: ' dark' | Score: 0.0209
-  Tokens: [' non', ' dark', ' low', ' light', ' small', ' cold']
-Rank 9 | Centroid: ' fun' | Score: 0.0155
-  Tokens: [' fun']
-Rank 10 | Centroid: ' new' | Score: 0.0146
-  Tokens: [' different', ' new', ' foreign']
-Rank 11 | Centroid: ' pleasant' | Score: 0.0132
-  Tokens: [' harmless', ' friendly', ' safe', ' comfortable', ' pleasant']
-Rank 12 | Centroid: ' coffee' | Score: 0.0102
-  Tokens: [' room', ' workplace', ' cafe', ' store', ' town', ' park', ' coffee']
-Rank 13 | Centroid: ' confusing' | Score: 0.0095
-  Tokens: [' confusing', ' disturbing', ' dangerous', ' distracting', ' compromising', ' problematic', ' suspicious', ' awkward']
-Rank 14 | Centroid: ' social' | Score: 0.0076
-  Tokens: [' natural', ' social', ' formal']
-Rank 15 | Centroid: ' specific' | Score: 0.0058
-  Tokens: [' certain', ' unique', ' special', ' specific', ' particular']
-Rank 16 | Centroid: ' hidden' | Score: 0.0055
-  Tokens: [' secretive', ' hidden', ' subtle', ' secret']
-Rank 17 | Centroid: ' creepy' | Score: 0.0046
-  Tokens: [' creepy', ' chaotic']
-Rank 18 | Centroid: ' quiet' | Score: 0.0040
-  Tokens: [' quiet', ' neutral']
-Rank 19 | Centroid: ' serious' | Score: 0.0034
-  Tokens: [' serious', ' negative']
-Rank 20 | Centroid: ' romantic' | Score: 0.0025
-  Tokens: [' romantic', ' dramatic']
-Rank 21 | Centroid: ' seemingly' | Score: 0.0024
-  Tokens: [' seemingly']
-Rank 22 | Centroid: ' vulnerable' | Score: 0.0019
-  Tokens: [' vulnerable', ' sensitive']
-Rank 23 | Centroid: ' meaningful' | Score: 0.0016
-  Tokens: [' meaningful']
-Rank 24 | Centroid: ' wrong' | Score: 0.0011
-  Tokens: [' wrong', ' bad']
-Rank 25 | Centroid: ' tense' | Score: 0.0007
-  Tokens: [' tense']
-Rank 26 | Centroid: ' completely' | Score: 0.0006
-  Tokens: [' completely']
+Rank 1 | Centroid: ' BBC' | Score: 1.0000
+  Tokens: [' BBC', 'BBC', ' bbc', 'bbc']
+Rank 2 | Centroid: ' television' | Score: 0.0001
+  Tokens: [' television', ' TV', ' televised', ' televis', ' Television']
+Rank 3 | Centroid: ' British' | Score: 0.0001
+  Tokens: [' British', ' UK', ' Scottish', ' Australian', ' United', ' Yorkshire']
+Rank 4 | Centroid: ' two' | Score: 0.0001
+  Tokens: [' same', ' first', ' following', ' public', ' other', ' various', ' two', ' third']
+Rank 5 | Centroid: ' BC' | Score: 0.0000
+  Tokens: [' ABC', ' BC', ' BA']
+Rank 6 | Centroid: ' BB' | Score: 0.0000
+  Tokens: [' BB', ' BBB', ' BBQ']
+Rank 7 | Centroid: ' CBS' | Score: 0.0000
+  Tokens: [' CBC', ' NBC', ' CBS', ' HBO', ' PBS']
+Rank 8 | Centroid: ' the' | Score: 0.0000
+  Tokens: [' B', ' the', ' A', ' of', ' The', ' in', ' show', ' T']
+Rank 9 | Centroid: ' broadcast' | Score: 0.0000
+  Tokens: [' broadcast', ' broadcasting', ' radio']
+Rank 10 | Centroid: ' recurring' | Score: 0.0000
+  Tokens: [' series', ' episode', ' year', ' recurring']
+Rank 11 | Centroid: ' comedy' | Score: 0.0000
+  Tokens: [' sitcom', ' film', ' comedy']
+Rank 12 | Centroid: ' GCC' | Score: 0.0000
+  Tokens: [' BTC', ' FCC', ' GCC']
+Rank 13 | Centroid: ' CCTV' | Score: 0.0000
+  Tokens: [' CCTV', ' YouTube']
+Rank 14 | Centroid: ' Bible' | Score: 0.0000
+  Tokens: [' Bible']
+Rank 15 | Centroid: ' tele' | Score: 0.0000
+  Tokens: [' tele']
+Rank 16 | Centroid: ' police' | Score: 0.0000
+  Tokens: [' police']
 
 **Chosen Concept:** Rank 1

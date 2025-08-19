@@ -1,0 +1,134 @@
+--- Step 59 Log ---
+
+== Filtered Candidates ==
+Token: ' educated' (ID: 32042), Prob: 0.5234
+Token: '-educated' (ID: 87681), Prob: 0.4082
+Token: ' respected' (ID: 30287), Prob: 0.0066
+Token: '-read' (ID: 28806), Prob: 0.0040
+Token: ' known' (ID: 3881), Prob: 0.0035
+Token: '-ac' (ID: 37598), Prob: 0.0027
+Token: '-reg' (ID: 32163), Prob: 0.0021
+Token: '-re' (ID: 5504), Prob: 0.0013
+Token: '-connected' (ID: 72188), Prob: 0.0011
+Token: '-known' (ID: 21309), Prob: 0.0010
+Token: ' aware' (ID: 7853), Prob: 0.0009
+Token: ' born' (ID: 9223), Prob: 0.0009
+Token: ' brought' (ID: 7117), Prob: 0.0007
+Token: '-b' (ID: 1455), Prob: 0.0006
+Token: ' connected' (ID: 8433), Prob: 0.0006
+Token: '-pre' (ID: 21334), Prob: 0.0006
+Token: ' read' (ID: 1349), Prob: 0.0005
+Token: '-in' (ID: 3419), Prob: 0.0005
+Token: '-res' (ID: 11588), Prob: 0.0005
+Token: ' bred' (ID: 54087), Prob: 0.0005
+Token: ' liked' (ID: 14915), Prob: 0.0005
+Token: ' received' (ID: 3949), Prob: 0.0004
+Token: ' trained' (ID: 16176), Prob: 0.0004
+Token: ' vers' (ID: 5436), Prob: 0.0004
+Token: ' education' (ID: 6731), Prob: 0.0004
+Token: ' prepared' (ID: 10030), Prob: 0.0004
+Token: ' regarded' (ID: 26361), Prob: 0.0003
+Token: 'educated' (ID: 65349), Prob: 0.0003
+Token: ' Educ' (ID: 10145), Prob: 0.0003
+Token: ' loved' (ID: 10245), Prob: 0.0003
+Token: '-off' (ID: 12462), Prob: 0.0003
+Token: '-ra' (ID: 58301), Prob: 0.0003
+Token: '-trained' (ID: 68924), Prob: 0.0003
+Token: '-m' (ID: 1448), Prob: 0.0002
+Token: '-d' (ID: 1737), Prob: 0.0002
+Token: ' learned' (ID: 9498), Prob: 0.0002
+Token: '-tr' (ID: 10188), Prob: 0.0002
+Token: '-born' (ID: 39160), Prob: 0.0002
+Token: '-established' (ID: 63768), Prob: 0.0002
+Token: ' established' (ID: 9555), Prob: 0.0002
+Token: '-c' (ID: 1786), Prob: 0.0002
+Token: ' treated' (ID: 11758), Prob: 0.0002
+Token: ' cultivated' (ID: 66066), Prob: 0.0001
+Token: ' acquainted' (ID: 72634), Prob: 0.0001
+Token: ' raised' (ID: 9226), Prob: 0.0001
+Token: '-lo' (ID: 26480), Prob: 0.0001
+Token: ' cared' (ID: 41677), Prob: 0.0001
+Token: ' cultured' (ID: 88848), Prob: 0.0001
+Token: ' off' (ID: 1007), Prob: 0.0001
+Token: '-s' (ID: 1331), Prob: 0.0001
+Token: ' supported' (ID: 7248), Prob: 0.0001
+Token: '-be' (ID: 15150), Prob: 0.0001
+Token: ' influenced' (ID: 27061), Prob: 0.0001
+Token: ' situated' (ID: 30083), Prob: 0.0001
+Token: '-g' (ID: 2371), Prob: 0.0001
+Token: ' taught' (ID: 15599), Prob: 0.0001
+Token: ' nour' (ID: 45698), Prob: 0.0001
+Token: '-fed' (ID: 78000), Prob: 0.0001
+Token: '-f' (ID: 2220), Prob: 0.0001
+Token: '-aware' (ID: 65004), Prob: 0.0001
+Token: ' in' (ID: 304), Prob: 0.0001
+Token: '-p' (ID: 2268), Prob: 0.0001
+Token: ' informed' (ID: 15987), Prob: 0.0001
+Token: ' traveled' (ID: 30696), Prob: 0.0001
+Token: '-position' (ID: 33524), Prob: 0.0001
+Token: ' endowed' (ID: 97628), Prob: 0.0001
+Token: ' taken' (ID: 4429), Prob: 0.0001
+Token: ' educ' (ID: 4729), Prob: 0.0001
+Token: ' placed' (ID: 9099), Prob: 0.0001
+Token: ' accepted' (ID: 11666), Prob: 0.0001
+Token: ' recognized' (ID: 14975), Prob: 0.0001
+Token: ' equipped' (ID: 18650), Prob: 0.0001
+Token: ' positioned' (ID: 34228), Prob: 0.0001
+Token: '-rounded' (ID: 64218), Prob: 0.0001
+Token: ' provided' (ID: 3897), Prob: 0.0000
+Token: ' scho' (ID: 77040), Prob: 0.0000
+Token: ' able' (ID: 2952), Prob: 0.0000
+Token: 'versed' (ID: 43776), Prob: 0.0000
+Token: '-pro' (ID: 9838), Prob: 0.0000
+Token: ' educate' (ID: 38070), Prob: 0.0000
+Token: ' groom' (ID: 39841), Prob: 0.0000
+Token: '-ex' (ID: 10187), Prob: 0.0000
+Token: '-dis' (ID: 10475), Prob: 0.0000
+Token: '-int' (ID: 20052), Prob: 0.0000
+Token: ' accustomed' (ID: 52084), Prob: 0.0000
+
+== Ranked Concepts (Clusters) ==
+Rank 1 | Centroid: ' educated' | Score: 0.9336
+  Tokens: [' educated', '-educated', ' education', 'educated', ' Educ', ' educ', ' educate']
+Rank 2 | Centroid: '-known' | Score: 0.0112
+  Tokens: [' respected', ' known', '-known', ' accepted', ' recognized']
+Rank 3 | Centroid: '-b' | Score: 0.0101
+  Tokens: ['-ac', '-reg', '-re', '-b', '-pre', '-in', '-res', '-m', '-d', '-tr', '-c', '-lo', '-s', '-be', '-g', '-f', '-p', '-pro', '-ex', '-dis', '-int']
+Rank 4 | Centroid: '-read' | Score: 0.0045
+  Tokens: ['-read', ' read']
+Rank 5 | Centroid: '-connected' | Score: 0.0018
+  Tokens: ['-connected', ' connected']
+Rank 6 | Centroid: ' brought' | Score: 0.0013
+  Tokens: [' brought', ' received', ' in', ' taken', ' provided']
+Rank 7 | Centroid: ' aware' | Score: 0.0012
+  Tokens: [' aware', ' acquainted', '-aware', ' able', ' accustomed']
+Rank 8 | Centroid: ' liked' | Score: 0.0012
+  Tokens: [' liked', ' regarded', ' loved', ' cared']
+Rank 9 | Centroid: ' born' | Score: 0.0011
+  Tokens: [' born', '-born']
+Rank 10 | Centroid: ' trained' | Score: 0.0009
+  Tokens: [' trained', '-trained', ' cultivated', ' cultured']
+Rank 11 | Centroid: ' bred' | Score: 0.0006
+  Tokens: [' bred', ' groom']
+Rank 12 | Centroid: ' vers' | Score: 0.0005
+  Tokens: [' vers', ' scho', 'versed']
+Rank 13 | Centroid: ' prepared' | Score: 0.0004
+  Tokens: [' prepared', ' informed']
+Rank 14 | Centroid: ' learned' | Score: 0.0004
+  Tokens: [' learned', ' taught', ' traveled']
+Rank 15 | Centroid: '-ra' | Score: 0.0004
+  Tokens: ['-ra', ' raised']
+Rank 16 | Centroid: '-established' | Score: 0.0004
+  Tokens: ['-established', ' established']
+Rank 17 | Centroid: ' influenced' | Score: 0.0004
+  Tokens: [' treated', ' supported', ' influenced']
+Rank 18 | Centroid: '-off' | Score: 0.0004
+  Tokens: ['-off', ' off']
+Rank 19 | Centroid: ' positioned' | Score: 0.0003
+  Tokens: [' situated', ' endowed', ' placed', ' equipped', ' positioned']
+Rank 20 | Centroid: ' nour' | Score: 0.0002
+  Tokens: [' nour', '-fed']
+Rank 21 | Centroid: '-position' | Score: 0.0001
+  Tokens: ['-position', '-rounded']
+
+**Chosen Concept:** Rank 1

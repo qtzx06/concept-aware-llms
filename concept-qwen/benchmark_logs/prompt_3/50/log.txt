@@ -1,99 +1,106 @@
 --- Step 50 Log ---
 
 == Filtered Candidates ==
-Token: ' one' (ID: 825), Prob: 0.0001
-Token: ' someone' (ID: 4325), Prob: 0.0000
-Token: ' characters' (ID: 5766), Prob: 0.0000
-Token: ' emotions' (ID: 21261), Prob: 0.0000
-Token: ' something' (ID: 2494), Prob: 0.0000
-Token: ' two' (ID: 1378), Prob: 0.0000
-Token: ' three' (ID: 2326), Prob: 0.0000
-Token: ' love' (ID: 2948), Prob: 0.0000
-Token: ' possible' (ID: 3204), Prob: 0.0000
-Token: ' themes' (ID: 21386), Prob: 0.0000
-Token: ' plausible' (ID: 49334), Prob: 0.0000
-Token: ' dialogue' (ID: 21276), Prob: 0.0000
-Token: ' emotional' (ID: 14269), Prob: 0.0000
-Token: ' either' (ID: 2987), Prob: 0.0000
-Token: ' character' (ID: 3668), Prob: 0.0000
-Token: ' events' (ID: 4357), Prob: 0.0000
-Token: ' empathy' (ID: 47351), Prob: 0.0000
-Token: ' friendship' (ID: 26509), Prob: 0.0000
-Token: ' maybe' (ID: 7196), Prob: 0.0000
-Token: ' natural' (ID: 5810), Prob: 0.0000
-Token: ' people' (ID: 1251), Prob: 0.0000
-Token: ' relationships' (ID: 11871), Prob: 0.0000
-Token: ' conflict' (ID: 12055), Prob: 0.0000
-Token: ' connecting' (ID: 20913), Prob: 0.0000
-Token: ' interactions' (ID: 21880), Prob: 0.0000
-Token: ' making' (ID: 3259), Prob: 0.0000
-Token: ' multiple' (ID: 5248), Prob: 0.0000
-Token: ' none' (ID: 6857), Prob: 0.0000
-Token: ' existing' (ID: 6350), Prob: 0.0000
-Token: ' understanding' (ID: 8660), Prob: 0.0000
-Token: ' scenarios' (ID: 25283), Prob: 0.0000
-Token: ' friends' (ID: 4780), Prob: 0.0000
-Token: ' setting' (ID: 6243), Prob: 0.0000
-Token: ' humor' (ID: 27385), Prob: 0.0000
-Token: ' everyone' (ID: 5019), Prob: 0.0000
-Token: ' consistency' (ID: 28137), Prob: 0.0000
-Token: ' logical' (ID: 19819), Prob: 0.0000
-Token: ' elements' (ID: 5424), Prob: 0.0000
-Token: ' happy' (ID: 6247), Prob: 0.0000
-Token: ' adding' (ID: 7842), Prob: 0.0000
-Token: ' scenes' (ID: 16065), Prob: 0.0000
-Token: ' time' (ID: 882), Prob: 0.0000
-Token: ' specific' (ID: 3151), Prob: 0.0000
-Token: ' feelings' (ID: 15650), Prob: 0.0000
-Token: ' unexpected' (ID: 16500), Prob: 0.0000
-Token: ' Alice' (ID: 29405), Prob: 0.0000
-Token: ' trust' (ID: 6950), Prob: 0.0000
-Token: ' relevance' (ID: 40861), Prob: 0.0000
-Token: ' overcoming' (ID: 72917), Prob: 0.0000
-Token: ' teamwork' (ID: 83533), Prob: 0.0000
-Token: ' family' (ID: 2997), Prob: 0.0000
-Token: ' everything' (ID: 4297), Prob: 0.0000
-Token: ' potential' (ID: 4650), Prob: 0.0000
-Token: ' logic' (ID: 12218), Prob: 0.0000
-Token: ' situations' (ID: 14740), Prob: 0.0000
-Token: ' curiosity' (ID: 40228), Prob: 0.0000
+Token: ' The' (ID: 576), Prob: 0.9961
+Token: 'The' (ID: 785), Prob: 0.0002
+Token: ' the' (ID: 279), Prob: 0.0001
+Token: ' A' (ID: 362), Prob: 0.0000
+Token: ' THE' (ID: 3168), Prob: 0.0000
+Token: ' T' (ID: 350), Prob: 0.0000
+Token: ' Doctor' (ID: 18635), Prob: 0.0000
+Token: ' BBC' (ID: 18096), Prob: 0.0000
+Token: ' Star' (ID: 7679), Prob: 0.0000
+Token: ' Top' (ID: 6909), Prob: 0.0000
+Token: ' Radio' (ID: 13484), Prob: 0.0000
+Token: ' Sherlock' (ID: 60626), Prob: 0.0000
+Token: ' D' (ID: 422), Prob: 0.0000
+Token: ' This' (ID: 1096), Prob: 0.0000
+Token: ' In' (ID: 758), Prob: 0.0000
+Token: ' B' (ID: 425), Prob: 0.0000
+Token: ' TV' (ID: 5883), Prob: 0.0000
+Token: ' He' (ID: 1260), Prob: 0.0000
+Token: ' As' (ID: 1634), Prob: 0.0000
+Token: ' House' (ID: 4678), Prob: 0.0000
+Token: ' Home' (ID: 5379), Prob: 0.0000
+Token: ' and' (ID: 323), Prob: 0.0000
+Token: ' John' (ID: 3757), Prob: 0.0000
+Token: ' One' (ID: 3776), Prob: 0.0000
+Token: ' I' (ID: 358), Prob: 0.0000
+Token: ' Dr' (ID: 2926), Prob: 0.0000
+Token: ' South' (ID: 4882), Prob: 0.0000
+Token: ' Big' (ID: 6164), Prob: 0.0000
+Token: ' That' (ID: 2938), Prob: 0.0000
+Token: ' Time' (ID: 4120), Prob: 0.0000
+Token: ' Black' (ID: 5235), Prob: 0.0000
+Token: ' Her' (ID: 6252), Prob: 0.0000
+Token: ' Thunder' (ID: 26691), Prob: 0.0000
+Token: ' My' (ID: 3017), Prob: 0.0000
+Token: ' Red' (ID: 3731), Prob: 0.0000
+Token: ' Victoria' (ID: 22417), Prob: 0.0000
+Token: ' Television' (ID: 40345), Prob: 0.0000
+Token: ' Th' (ID: 663), Prob: 0.0000
+Token: ' Saturday' (ID: 7728), Prob: 0.0000
+Token: ' Coron' (ID: 47083), Prob: 0.0000
+Token: ' Little' (ID: 14671), Prob: 0.0000
+Token: '.The' (ID: 11568), Prob: 0.0000
+Token: ' Thames' (ID: 81188), Prob: 0.0000
+Token: ' R' (ID: 431), Prob: 0.0000
+Token: ' Play' (ID: 7054), Prob: 0.0000
+Token: ' Family' (ID: 12238), Prob: 0.0000
+Token: ' An' (ID: 1527), Prob: 0.0000
+Token: ' British' (ID: 7855), Prob: 0.0000
+Token: ' Ash' (ID: 14595), Prob: 0.0000
+Token: ' Happy' (ID: 23355), Prob: 0.0000
+Token: ' F' (ID: 434), Prob: 0.0000
+Token: ' East' (ID: 6326), Prob: 0.0000
+Token: ' Two' (ID: 9043), Prob: 0.0000
+Token: ' of' (ID: 315), Prob: 0.0000
+Token: ' What' (ID: 3555), Prob: 0.0000
+Token: ' Out' (ID: 4371), Prob: 0.0000
+Token: ' Another' (ID: 13293), Prob: 0.0000
+Token: ' Empire' (ID: 20448), Prob: 0.0000
+Token: ' Life' (ID: 9414), Prob: 0.0000
+Token: ' Young' (ID: 13263), Prob: 0.0000
+Token: ' P' (ID: 393), Prob: 0.0000
 
 == Ranked Concepts (Clusters) ==
-Rank 1 | Centroid: ' two' | Score: 0.0001
-  Tokens: [' one', ' two', ' three', ' multiple', ' time', ' specific']
-Rank 2 | Centroid: ' someone' | Score: 0.0000
-  Tokens: [' someone', ' something', ' people', ' everyone', ' everything']
-Rank 3 | Centroid: ' emotions' | Score: 0.0000
-  Tokens: [' emotions', ' emotional', ' feelings']
-Rank 4 | Centroid: ' characters' | Score: 0.0000
-  Tokens: [' characters', ' character']
-Rank 5 | Centroid: ' possible' | Score: 0.0000
-  Tokens: [' possible', ' plausible', ' maybe', ' potential']
-Rank 6 | Centroid: ' scenarios' | Score: 0.0000
-  Tokens: [' themes', ' events', ' scenarios', ' scenes', ' situations']
-Rank 7 | Centroid: ' conflict' | Score: 0.0000
-  Tokens: [' dialogue', ' conflict', ' consistency', ' trust', ' relevance']
-Rank 8 | Centroid: ' friendship' | Score: 0.0000
-  Tokens: [' love', ' friendship', ' teamwork']
-Rank 9 | Centroid: ' adding' | Score: 0.0000
-  Tokens: [' connecting', ' making', ' existing', ' setting', ' adding', ' overcoming']
-Rank 10 | Centroid: ' relationships' | Score: 0.0000
-  Tokens: [' relationships', ' interactions', ' friends', ' family']
-Rank 11 | Centroid: ' curiosity' | Score: 0.0000
-  Tokens: [' empathy', ' humor', ' curiosity']
-Rank 12 | Centroid: ' either' | Score: 0.0000
-  Tokens: [' either']
-Rank 13 | Centroid: ' natural' | Score: 0.0000
-  Tokens: [' natural']
-Rank 14 | Centroid: ' understanding' | Score: 0.0000
-  Tokens: [' understanding', ' Alice']
-Rank 15 | Centroid: ' happy' | Score: 0.0000
-  Tokens: [' happy', ' unexpected']
-Rank 16 | Centroid: ' logical' | Score: 0.0000
-  Tokens: [' logical', ' logic']
-Rank 17 | Centroid: ' none' | Score: 0.0000
-  Tokens: [' none']
-Rank 18 | Centroid: ' elements' | Score: 0.0000
-  Tokens: [' elements']
+Rank 1 | Centroid: ' The' | Score: 0.9961
+  Tokens: [' The', 'The', ' the', ' THE', '.The']
+Rank 2 | Centroid: ' A' | Score: 0.0001
+  Tokens: [' A', ' T', ' D', ' B', ' and', ' I', ' R', ' F', ' of', ' P']
+Rank 3 | Centroid: ' Doctor' | Score: 0.0000
+  Tokens: [' Doctor', ' Dr', ' Thunder']
+Rank 4 | Centroid: ' Television' | Score: 0.0000
+  Tokens: [' Radio', ' TV', ' Television']
+Rank 5 | Centroid: ' Home' | Score: 0.0000
+  Tokens: [' House', ' Home', ' Time', ' Family', ' Life']
+Rank 6 | Centroid: ' British' | Score: 0.0000
+  Tokens: [' BBC', ' Victoria', ' British']
+Rank 7 | Centroid: ' This' | Score: 0.0000
+  Tokens: [' This', ' That', ' My', ' What']
+Rank 8 | Centroid: ' Sherlock' | Score: 0.0000
+  Tokens: [' Sherlock', ' John', ' Thames']
+Rank 9 | Centroid: ' As' | Score: 0.0000
+  Tokens: [' In', ' As', ' An']
+Rank 10 | Centroid: ' Big' | Score: 0.0000
+  Tokens: [' Big', ' Black', ' Red', ' Little', ' Young']
+Rank 11 | Centroid: ' Star' | Score: 0.0000
+  Tokens: [' Star', ' Coron']
+Rank 12 | Centroid: ' Top' | Score: 0.0000
+  Tokens: [' Top']
+Rank 13 | Centroid: ' One' | Score: 0.0000
+  Tokens: [' One', ' Two', ' Out', ' Another']
+Rank 14 | Centroid: ' He' | Score: 0.0000
+  Tokens: [' He', ' Her']
+Rank 15 | Centroid: ' South' | Score: 0.0000
+  Tokens: [' South', ' East']
+Rank 16 | Centroid: ' Saturday' | Score: 0.0000
+  Tokens: [' Saturday', ' Empire']
+Rank 17 | Centroid: ' Play' | Score: 0.0000
+  Tokens: [' Play', ' Happy']
+Rank 18 | Centroid: ' Th' | Score: 0.0000
+  Tokens: [' Th']
+Rank 19 | Centroid: ' Ash' | Score: 0.0000
+  Tokens: [' Ash']
 
 **Chosen Concept:** Rank 1

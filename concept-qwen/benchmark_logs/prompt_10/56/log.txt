@@ -1,0 +1,133 @@
+--- Step 56 Log ---
+
+== Filtered Candidates ==
+Token: ' most' (ID: 1429), Prob: 0.2930
+Token: ' greatest' (ID: 12196), Prob: 0.1377
+Token: ' great' (ID: 2244), Prob: 0.1074
+Token: ' four' (ID: 3040), Prob: 0.0449
+Token: ' Four' (ID: 13322), Prob: 0.0349
+Token: ' masters' (ID: 35367), Prob: 0.0272
+Token: ' Three' (ID: 14513), Prob: 0.0239
+Token: ' finest' (ID: 27707), Prob: 0.0239
+Token: ' Seven' (ID: 29948), Prob: 0.0187
+Token: ' seven' (ID: 8094), Prob: 0.0165
+Token: ' three' (ID: 2326), Prob: 0.0089
+Token: ' best' (ID: 1850), Prob: 0.0069
+Token: ' five' (ID: 4236), Prob: 0.0069
+Token: ' Five' (ID: 20924), Prob: 0.0069
+Token: ' foremost' (ID: 42680), Prob: 0.0069
+Token: ' leading' (ID: 6388), Prob: 0.0061
+Token: ' grand' (ID: 6662), Prob: 0.0061
+Token: ' top' (ID: 1909), Prob: 0.0053
+Token: ' pioneers' (ID: 82307), Prob: 0.0053
+Token: ' few' (ID: 2421), Prob: 0.0047
+Token: ' major' (ID: 3598), Prob: 0.0042
+Token: ' outstanding' (ID: 18781), Prob: 0.0042
+Token: ' founders' (ID: 47627), Prob: 0.0042
+Token: ' earliest' (ID: 29658), Prob: 0.0033
+Token: ' representatives' (ID: 23130), Prob: 0.0029
+Token: ' founding' (ID: 35230), Prob: 0.0029
+Token: ' Eight' (ID: 35844), Prob: 0.0025
+Token: ' important' (ID: 2989), Prob: 0.0022
+Token: ' national' (ID: 5313), Prob: 0.0022
+Token: ' master' (ID: 7341), Prob: 0.0020
+Token: ' eight' (ID: 8063), Prob: 0.0020
+Token: ' poets' (ID: 72972), Prob: 0.0020
+Token: ' classic' (ID: 11416), Prob: 0.0017
+Token: ' Nine' (ID: 37066), Prob: 0.0017
+Token: ' representative' (ID: 18239), Prob: 0.0015
+Token: ' fathers' (ID: 39217), Prob: 0.0015
+Token: ' Top' (ID: 6909), Prob: 0.0014
+Token: ' pillars' (ID: 63882), Prob: 0.0014
+Token: ' two' (ID: 1378), Prob: 0.0012
+Token: ' main' (ID: 1887), Prob: 0.0012
+Token: ' first' (ID: 1156), Prob: 0.0009
+Token: ' Ten' (ID: 17695), Prob: 0.0009
+Token: ' seminal' (ID: 89673), Prob: 0.0009
+Token: ' early' (ID: 4124), Prob: 0.0008
+Token: ' famous' (ID: 11245), Prob: 0.0008
+Token: ' classical' (ID: 28824), Prob: 0.0008
+Token: ' Six' (ID: 18680), Prob: 0.0007
+Token: ' towering' (ID: 86694), Prob: 0.0007
+Token: ' key' (ID: 1376), Prob: 0.0006
+Token: ' six' (ID: 4743), Prob: 0.0006
+Token: ' Po' (ID: 13808), Prob: 0.0006
+Token: ' more' (ID: 803), Prob: 0.0006
+Token: ' pre' (ID: 855), Prob: 0.0006
+Token: ' Most' (ID: 7496), Prob: 0.0006
+Token: ' Grand' (ID: 10304), Prob: 0.0006
+Token: ' nine' (ID: 11627), Prob: 0.0006
+Token: ' immortal' (ID: 59114), Prob: 0.0006
+Token: ' National' (ID: 5055), Prob: 0.0005
+Token: ' prominent' (ID: 20469), Prob: 0.0005
+Token: ' for' (ID: 369), Prob: 0.0004
+Token: ' ten' (ID: 5779), Prob: 0.0004
+Token: ' minor' (ID: 8922), Prob: 0.0004
+Token: ' Tang' (ID: 40362), Prob: 0.0004
+Token: ' essential' (ID: 7565), Prob: 0.0004
+Token: ' leaders' (ID: 6036), Prob: 0.0003
+Token: ' classics' (ID: 52705), Prob: 0.0003
+Token: ' predecessors' (ID: 61440), Prob: 0.0003
+Token: ' Greatest' (ID: 61812), Prob: 0.0003
+Token: ' pioneering' (ID: 70574), Prob: 0.0003
+Token: ' original' (ID: 4024), Prob: 0.0003
+Token: ' oldest' (ID: 23513), Prob: 0.0003
+Token: ' fore' (ID: 2241), Prob: 0.0002
+Token: ' core' (ID: 6200), Prob: 0.0002
+Token: ' fine' (ID: 6915), Prob: 0.0002
+Token: ' foundational' (ID: 88228), Prob: 0.0002
+Token: ' elite' (ID: 20685), Prob: 0.0002
+Token: ' ranks' (ID: 20803), Prob: 0.0002
+Token: ' Minor' (ID: 29793), Prob: 0.0002
+Token: ' Great' (ID: 8513), Prob: 0.0002
+Token: ' notable' (ID: 27190), Prob: 0.0002
+Token: ' Masters' (ID: 33622), Prob: 0.0002
+Token: ' Twenty' (ID: 43856), Prob: 0.0002
+Token: ' eminent' (ID: 83529), Prob: 0.0002
+Token: ' dominant' (ID: 24456), Prob: 0.0002
+Token: ' literary' (ID: 31365), Prob: 0.0002
+Token: ' father' (ID: 6981), Prob: 0.0002
+
+== Ranked Concepts (Clusters) ==
+Rank 1 | Centroid: ' Most' | Score: 0.3340
+  Tokens: [' most', ' finest', ' best', ' foremost', ' earliest', ' Most', ' oldest']
+Rank 2 | Centroid: ' greatest' | Score: 0.1377
+  Tokens: [' greatest', ' Greatest']
+Rank 3 | Centroid: ' seven' | Score: 0.1177
+  Tokens: [' Four', ' Three', ' Seven', ' seven', ' five', ' Five', ' Eight', ' eight', ' Nine', ' Ten', ' Six', ' six', ' nine', ' ten', ' Twenty']
+Rank 4 | Centroid: ' Great' | Score: 0.1143
+  Tokens: [' great', ' grand', ' Grand', ' Great']
+Rank 5 | Centroid: ' three' | Score: 0.0549
+  Tokens: [' four', ' three', ' two']
+Rank 6 | Centroid: ' masters' | Score: 0.0294
+  Tokens: [' masters', ' master', ' Masters']
+Rank 7 | Centroid: ' pioneering' | Score: 0.0155
+  Tokens: [' pioneers', ' founders', ' founding', ' pillars', ' seminal', ' predecessors', ' pioneering', ' foundational']
+Rank 8 | Centroid: ' important' | Score: 0.0107
+  Tokens: [' leading', ' important', ' main', ' key', ' essential', ' core']
+Rank 9 | Centroid: ' top' | Score: 0.0067
+  Tokens: [' top', ' Top']
+Rank 10 | Centroid: ' for' | Score: 0.0063
+  Tokens: [' few', ' more', ' pre', ' for']
+Rank 11 | Centroid: ' prominent' | Score: 0.0060
+  Tokens: [' outstanding', ' towering', ' prominent', ' notable', ' eminent', ' dominant']
+Rank 12 | Centroid: ' minor' | Score: 0.0048
+  Tokens: [' major', ' minor', ' Minor']
+Rank 13 | Centroid: ' representatives' | Score: 0.0047
+  Tokens: [' representatives', ' representative', ' leaders']
+Rank 14 | Centroid: ' classic' | Score: 0.0037
+  Tokens: [' classic', ' famous', ' classical', ' classics']
+Rank 15 | Centroid: ' National' | Score: 0.0034
+  Tokens: [' national', ' Po', ' National']
+Rank 16 | Centroid: ' literary' | Score: 0.0027
+  Tokens: [' poets', ' immortal', ' literary']
+Rank 17 | Centroid: ' father' | Score: 0.0026
+  Tokens: [' fathers', ' Tang', ' fore', ' ranks', ' father']
+Rank 18 | Centroid: ' first' | Score: 0.0020
+  Tokens: [' first', ' early', ' original']
+Rank 19 | Centroid: ' fine' | Score: 0.0002
+  Tokens: [' fine']
+Rank 20 | Centroid: ' elite' | Score: 0.0002
+  Tokens: [' elite']
+
+**Chosen Concept:** Rank 1

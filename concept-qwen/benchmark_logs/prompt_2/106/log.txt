@@ -1,0 +1,135 @@
+--- Step 106 Log ---
+
+== Filtered Candidates ==
+Token: ' played' (ID: 6342), Prob: 0.7773
+Token: ' appeared' (ID: 9723), Prob: 0.1191
+Token: ' was' (ID: 572), Prob: 0.0342
+Token: ' starred' (ID: 58235), Prob: 0.0234
+Token: ' joined' (ID: 10859), Prob: 0.0076
+Token: ' also' (ID: 1083), Prob: 0.0059
+Token: ' returned' (ID: 5927), Prob: 0.0046
+Token: ' made' (ID: 1865), Prob: 0.0028
+Token: ' again' (ID: 1549), Prob: 0.0022
+Token: ' portrayed' (ID: 44777), Prob: 0.0019
+Token: ' had' (ID: 1030), Prob: 0.0015
+Token: ' took' (ID: 3867), Prob: 0.0015
+Token: ' repr' (ID: 30636), Prob: 0.0013
+Token: ' re' (ID: 312), Prob: 0.0012
+Token: ' performed' (ID: 10660), Prob: 0.0012
+Token: ' became' (ID: 6116), Prob: 0.0009
+Token: ' continued' (ID: 8570), Prob: 0.0006
+Token: ' participated' (ID: 30308), Prob: 0.0006
+Token: ' co' (ID: 1062), Prob: 0.0005
+Token: ' directed' (ID: 15540), Prob: 0.0005
+Token: ' would' (ID: 1035), Prob: 0.0005
+Token: ' did' (ID: 1521), Prob: 0.0004
+Token: ' acted' (ID: 30432), Prob: 0.0004
+Token: ' received' (ID: 3949), Prob: 0.0003
+Token: ' began' (ID: 6009), Prob: 0.0003
+Token: ' then' (ID: 1221), Prob: 0.0003
+Token: ' won' (ID: 2765), Prob: 0.0003
+Token: ' wrote' (ID: 6139), Prob: 0.0003
+Token: ' moved' (ID: 7726), Prob: 0.0003
+Token: ' once' (ID: 3055), Prob: 0.0003
+Token: ' produced' (ID: 8947), Prob: 0.0003
+Token: ' released' (ID: 5880), Prob: 0.0002
+Token: ' star' (ID: 6774), Prob: 0.0002
+Token: ' play' (ID: 1486), Prob: 0.0002
+Token: ' went' (ID: 3937), Prob: 0.0002
+Token: ' appears' (ID: 7952), Prob: 0.0002
+Token: ' guest' (ID: 8640), Prob: 0.0002
+Token: ' repeated' (ID: 11504), Prob: 0.0002
+Token: ' has' (ID: 702), Prob: 0.0001
+Token: ' started' (ID: 3855), Prob: 0.0001
+Token: ' worked' (ID: 6439), Prob: 0.0001
+Token: ' turned' (ID: 6519), Prob: 0.0001
+Token: ' followed' (ID: 8110), Prob: 0.0001
+Token: ' earned' (ID: 15303), Prob: 0.0001
+Token: ' gained' (ID: 18163), Prob: 0.0001
+Token: ' created' (ID: 3465), Prob: 0.0001
+Token: ' completed' (ID: 8145), Prob: 0.0001
+Token: ' left' (ID: 2115), Prob: 0.0001
+Token: ' featured' (ID: 14766), Prob: 0.0001
+Token: ' voiced' (ID: 51368), Prob: 0.0001
+Token: ' added' (ID: 3694), Prob: 0.0001
+Token: ' came' (ID: 3697), Prob: 0.0001
+Token: ' is' (ID: 374), Prob: 0.0001
+Token: ' got' (ID: 2684), Prob: 0.0001
+Token: ' further' (ID: 4623), Prob: 0.0001
+Token: ' plays' (ID: 11088), Prob: 0.0001
+Token: ' and' (ID: 323), Prob: 0.0001
+Token: ' reunited' (ID: 76879), Prob: 0.0001
+Token: ' later' (ID: 2937), Prob: 0.0001
+Token: ' signed' (ID: 8499), Prob: 0.0001
+Token: ' married' (ID: 12224), Prob: 0.0001
+Token: ' formed' (ID: 14122), Prob: 0.0001
+Token: ' represented' (ID: 15251), Prob: 0.0001
+Token: ' audition' (ID: 61888), Prob: 0.0001
+Token: ' found' (ID: 1730), Prob: 0.0000
+Token: ' gave' (ID: 6551), Prob: 0.0000
+Token: ' entered' (ID: 10636), Prob: 0.0000
+Token: ' attended' (ID: 18178), Prob: 0.0000
+Token: ' contributed' (ID: 19590), Prob: 0.0000
+Token: ' finished' (ID: 8060), Prob: 0.0000
+Token: ' rejo' (ID: 46941), Prob: 0.0000
+Token: ' embarked' (ID: 78020), Prob: 0.0000
+Token: ' provided' (ID: 3897), Prob: 0.0000
+Token: ' stars' (ID: 9759), Prob: 0.0000
+Token: ' served' (ID: 10223), Prob: 0.0000
+Token: ' landed' (ID: 26120), Prob: 0.0000
+Token: ' stared' (ID: 44035), Prob: 0.0000
+Token: ' presented' (ID: 10449), Prob: 0.0000
+Token: ' replaced' (ID: 12575), Prob: 0.0000
+Token: ' accepted' (ID: 11666), Prob: 0.0000
+Token: ' studied' (ID: 19476), Prob: 0.0000
+Token: ' adapted' (ID: 29364), Prob: 0.0000
+Token: ' helped' (ID: 8910), Prob: 0.0000
+Token: ' will' (ID: 686), Prob: 0.0000
+Token: ' remained' (ID: 14616), Prob: 0.0000
+Token: ' transferred' (ID: 22409), Prob: 0.0000
+
+== Ranked Concepts (Clusters) ==
+Rank 1 | Centroid: ' plays' | Score: 0.7773
+  Tokens: [' played', ' play', ' plays']
+Rank 2 | Centroid: ' appeared' | Score: 0.1191
+  Tokens: [' appeared', ' appears']
+Rank 3 | Centroid: ' is' | Score: 0.0369
+  Tokens: [' was', ' had', ' would', ' did', ' has', ' is', ' and', ' will']
+Rank 4 | Centroid: ' stars' | Score: 0.0237
+  Tokens: [' starred', ' star', ' stars', ' stared']
+Rank 5 | Centroid: ' also' | Score: 0.0088
+  Tokens: [' also', ' again', ' then', ' once', ' further', ' later']
+Rank 6 | Centroid: ' created' | Score: 0.0086
+  Tokens: [' returned', ' made', ' moved', ' produced', ' released', ' turned', ' created', ' added', ' formed', ' entered', ' transferred']
+Rank 7 | Centroid: ' joined' | Score: 0.0077
+  Tokens: [' joined', ' reunited', ' rejo', ' replaced']
+Rank 8 | Centroid: ' gave' | Score: 0.0031
+  Tokens: [' took', ' became', ' wrote', ' went', ' came', ' got', ' gave', ' remained']
+Rank 9 | Centroid: ' portrayed' | Score: 0.0021
+  Tokens: [' portrayed', ' featured', ' represented', ' provided', ' presented']
+Rank 10 | Centroid: ' re' | Score: 0.0018
+  Tokens: [' re', ' co', ' left']
+Rank 11 | Centroid: ' repr' | Score: 0.0015
+  Tokens: [' repr', ' guest']
+Rank 12 | Centroid: ' helped' | Score: 0.0013
+  Tokens: [' participated', ' acted', ' worked', ' contributed', ' served', ' helped']
+Rank 13 | Centroid: ' performed' | Score: 0.0012
+  Tokens: [' performed', ' studied']
+Rank 14 | Centroid: ' directed' | Score: 0.0008
+  Tokens: [' directed', ' voiced', ' signed', ' married', ' audition', ' accepted']
+Rank 15 | Centroid: ' continued' | Score: 0.0008
+  Tokens: [' continued', ' repeated']
+Rank 16 | Centroid: ' received' | Score: 0.0007
+  Tokens: [' received', ' earned', ' gained', ' found']
+Rank 17 | Centroid: ' began' | Score: 0.0005
+  Tokens: [' began', ' started']
+Rank 18 | Centroid: ' won' | Score: 0.0003
+  Tokens: [' won']
+Rank 19 | Centroid: ' followed' | Score: 0.0002
+  Tokens: [' followed', ' attended']
+Rank 20 | Centroid: ' completed' | Score: 0.0002
+  Tokens: [' completed', ' finished', ' adapted']
+Rank 21 | Centroid: ' embarked' | Score: 0.0001
+  Tokens: [' embarked', ' landed']
+
+**Chosen Concept:** Rank 1

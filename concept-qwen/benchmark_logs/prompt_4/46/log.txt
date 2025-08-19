@@ -1,0 +1,125 @@
+--- Step 46 Log ---
+
+== Filtered Candidates ==
+Token: ' Kingdom' (ID: 15072), Prob: 0.9961
+Token: ' States' (ID: 4180), Prob: 0.0041
+Token: ' kingdom' (ID: 25079), Prob: 0.0001
+Token: ' King' (ID: 6210), Prob: 0.0000
+Token: ' Arab' (ID: 10756), Prob: 0.0000
+Token: ' Nations' (ID: 19140), Prob: 0.0000
+Token: 'King' (ID: 33555), Prob: 0.0000
+Token: ' Province' (ID: 37794), Prob: 0.0000
+Token: ' S' (ID: 328), Prob: 0.0000
+Token: ' Pro' (ID: 1298), Prob: 0.0000
+Token: ' Re' (ID: 1032), Prob: 0.0000
+Token: ' UK' (ID: 6424), Prob: 0.0000
+Token: ' Counties' (ID: 92888), Prob: 0.0000
+Token: ' United' (ID: 3639), Prob: 0.0000
+Token: ' states' (ID: 5302), Prob: 0.0000
+Token: ' Republic' (ID: 5429), Prob: 0.0000
+Token: ' Kings' (ID: 24019), Prob: 0.0000
+Token: ' Kind' (ID: 16840), Prob: 0.0000
+Token: ' State' (ID: 3234), Prob: 0.0000
+Token: ' British' (ID: 7855), Prob: 0.0000
+Token: ' K' (ID: 730), Prob: 0.0000
+Token: ' KING' (ID: 73811), Prob: 0.0000
+Token: ' in' (ID: 304), Prob: 0.0000
+Token: ' St' (ID: 794), Prob: 0.0000
+Token: ' South' (ID: 4882), Prob: 0.0000
+Token: ' the' (ID: 279), Prob: 0.0000
+Token: '-K' (ID: 15843), Prob: 0.0000
+Token: ' Kin' (ID: 30891), Prob: 0.0000
+Token: ' Services' (ID: 8307), Prob: 0.0000
+Token: ' Cities' (ID: 37273), Prob: 0.0000
+Token: ' England' (ID: 9448), Prob: 0.0000
+Token: ' Britain' (ID: 13224), Prob: 0.0000
+Token: ' Empire' (ID: 20448), Prob: 0.0000
+Token: ' Brit' (ID: 5450), Prob: 0.0000
+Token: ' Federation' (ID: 27232), Prob: 0.0000
+Token: ' Bristol' (ID: 43939), Prob: 0.0000
+Token: ' Methodist' (ID: 67501), Prob: 0.0000
+Token: ' Wales' (ID: 22931), Prob: 0.0000
+Token: ' Technologies' (ID: 24561), Prob: 0.0000
+Token: 'States' (ID: 23256), Prob: 0.0000
+Token: ' Netherlands' (ID: 25662), Prob: 0.0000
+Token: ' provinces' (ID: 39921), Prob: 0.0000
+Token: ' and' (ID: 323), Prob: 0.0000
+Token: ' Ireland' (ID: 14648), Prob: 0.0000
+Token: ' Football' (ID: 20761), Prob: 0.0000
+Token: 'ashire' (ID: 96314), Prob: 0.0000
+Token: ' Birmingham' (ID: 35837), Prob: 0.0000
+Token: ' Midlands' (ID: 80151), Prob: 0.0000
+Token: ' Middle' (ID: 12592), Prob: 0.0000
+Token: ' Hebrew' (ID: 36266), Prob: 0.0000
+Token: ' Jerusalem' (ID: 25445), Prob: 0.0000
+Token: ' Rugby' (ID: 50902), Prob: 0.0000
+Token: ' Reg' (ID: 3184), Prob: 0.0000
+Token: ' of' (ID: 315), Prob: 0.0000
+Token: ' Places' (ID: 44736), Prob: 0.0000
+Token: ' East' (ID: 6326), Prob: 0.0000
+Token: ' Sl' (ID: 6852), Prob: 0.0000
+Token: ' City' (ID: 4311), Prob: 0.0000
+Token: ' Forces' (ID: 29400), Prob: 0.0000
+Token: ' London' (ID: 7148), Prob: 0.0000
+Token: ' York' (ID: 4261), Prob: 0.0000
+Token: ' kingdoms' (ID: 95406), Prob: 0.0000
+Token: ' Church' (ID: 9257), Prob: 0.0000
+Token: ' Bible' (ID: 16947), Prob: 0.0000
+Token: 'king' (ID: 10566), Prob: 0.0000
+Token: ' Kn' (ID: 13620), Prob: 0.0000
+Token: ' Ken' (ID: 14259), Prob: 0.0000
+Token: ' B' (ID: 425), Prob: 0.0000
+Token: ' Utilities' (ID: 34994), Prob: 0.0000
+Token: ' Countries' (ID: 53737), Prob: 0.0000
+Token: ' Protestant' (ID: 59653), Prob: 0.0000
+Token: ' The' (ID: 576), Prob: 0.0000
+Token: ' Irish' (ID: 17623), Prob: 0.0000
+Token: ' counties' (ID: 30176), Prob: 0.0000
+Token: ' Gates' (ID: 35493), Prob: 0.0000
+Token: ' National' (ID: 5055), Prob: 0.0000
+Token: ' Kenya' (ID: 36666), Prob: 0.0000
+Token: ' Realm' (ID: 41106), Prob: 0.0000
+Token: ' Parents' (ID: 42926), Prob: 0.0000
+Token: ' Arabia' (ID: 23061), Prob: 0.0000
+
+== Ranked Concepts (Clusters) ==
+Rank 1 | Centroid: 'King' | Score: 0.9961
+  Tokens: [' Kingdom', ' kingdom', ' King', 'King', ' Kings', ' KING', ' kingdoms', 'king']
+Rank 2 | Centroid: ' States' | Score: 0.0041
+  Tokens: [' States', ' states', ' State', 'States']
+Rank 3 | Centroid: ' Arab' | Score: 0.0000
+  Tokens: [' Arab', ' Arabia']
+Rank 4 | Centroid: ' Nations' | Score: 0.0000
+  Tokens: [' Nations', ' Countries']
+Rank 5 | Centroid: ' British' | Score: 0.0000
+  Tokens: [' UK', ' British', ' England', ' Britain', ' Brit', ' Bristol', ' Birmingham', ' London', ' York']
+Rank 6 | Centroid: ' Province' | Score: 0.0000
+  Tokens: [' Province', ' provinces']
+Rank 7 | Centroid: ' Pro' | Score: 0.0000
+  Tokens: [' Pro', ' Reg']
+Rank 8 | Centroid: ' Empire' | Score: 0.0000
+  Tokens: [' Republic', ' Empire', ' Federation', ' Realm']
+Rank 9 | Centroid: ' Counties' | Score: 0.0000
+  Tokens: [' Counties', ' counties']
+Rank 10 | Centroid: '-K' | Score: 0.0000
+  Tokens: [' Kind', '-K', ' Kin', ' Kn', ' Ken']
+Rank 11 | Centroid: ' Services' | Score: 0.0000
+  Tokens: [' Services', ' Technologies', ' Football', ' Rugby', ' Places', ' Forces', ' Utilities', ' Gates', ' Parents']
+Rank 12 | Centroid: ' South' | Score: 0.0000
+  Tokens: [' South', ' Middle', ' East']
+Rank 13 | Centroid: ' the' | Score: 0.0000
+  Tokens: [' S', ' Re', ' K', ' in', ' St', ' the', ' and', ' of', ' Sl', ' B', ' The']
+Rank 14 | Centroid: ' Protestant' | Score: 0.0000
+  Tokens: [' Methodist', ' Hebrew', ' Church', ' Bible', ' Protestant']
+Rank 15 | Centroid: ' Ireland' | Score: 0.0000
+  Tokens: [' Wales', ' Ireland', ' Irish', ' Kenya']
+Rank 16 | Centroid: 'ashire' | Score: 0.0000
+  Tokens: ['ashire', ' Midlands', ' Jerusalem']
+Rank 17 | Centroid: ' Cities' | Score: 0.0000
+  Tokens: [' Cities', ' City']
+Rank 18 | Centroid: ' Netherlands' | Score: 0.0000
+  Tokens: [' Netherlands']
+Rank 19 | Centroid: ' United' | Score: 0.0000
+  Tokens: [' United', ' National']
+
+**Chosen Concept:** Rank 1

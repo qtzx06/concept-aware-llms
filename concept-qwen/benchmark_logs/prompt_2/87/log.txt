@@ -1,0 +1,135 @@
+--- Step 87 Log ---
+
+== Filtered Candidates ==
+Token: ' Moon' (ID: 17330), Prob: 0.9375
+Token: ' Sun' (ID: 8059), Prob: 0.0413
+Token: ' Sea' (ID: 15029), Prob: 0.0081
+Token: ' River' (ID: 10948), Prob: 0.0043
+Token: ' Month' (ID: 19397), Prob: 0.0008
+Token: ' Water' (ID: 9959), Prob: 0.0006
+Token: ' Sky' (ID: 14722), Prob: 0.0006
+Token: ' Lake' (ID: 11678), Prob: 0.0002
+Token: ' Rain' (ID: 21911), Prob: 0.0002
+Token: ' Ocean' (ID: 21575), Prob: 0.0001
+Token: ' Earth' (ID: 9237), Prob: 0.0001
+Token: ' Mo' (ID: 6050), Prob: 0.0001
+Token: ' Cloud' (ID: 14817), Prob: 0.0001
+Token: ' Mountain' (ID: 18634), Prob: 0.0001
+Token: ' Star' (ID: 7679), Prob: 0.0001
+Token: ' Wind' (ID: 22087), Prob: 0.0001
+Token: ' Deep' (ID: 18183), Prob: 0.0001
+Token: ' Dragon' (ID: 16145), Prob: 0.0001
+Token: ' Tide' (ID: 71016), Prob: 0.0001
+Token: ' M' (ID: 386), Prob: 0.0001
+Token: ' Man' (ID: 2363), Prob: 0.0001
+Token: ' Stone' (ID: 14302), Prob: 0.0001
+Token: ' Flood' (ID: 56127), Prob: 0.0001
+Token: ' Wood' (ID: 12131), Prob: 0.0000
+Token: ' T' (ID: 350), Prob: 0.0000
+Token: ' World' (ID: 4337), Prob: 0.0000
+Token: ' Light' (ID: 8658), Prob: 0.0000
+Token: ' Eye' (ID: 27829), Prob: 0.0000
+Token: 'Moon' (ID: 76019), Prob: 0.0000
+Token: ' S' (ID: 328), Prob: 0.0000
+Token: ' Storm' (ID: 21862), Prob: 0.0000
+Token: ' City' (ID: 4311), Prob: 0.0000
+Token: ' Wolf' (ID: 25230), Prob: 0.0000
+Token: ' Whale' (ID: 96002), Prob: 0.0000
+Token: ' Night' (ID: 12826), Prob: 0.0000
+Token: ' Boat' (ID: 44232), Prob: 0.0000
+Token: ' Moor' (ID: 83448), Prob: 0.0000
+Token: ' Fire' (ID: 6647), Prob: 0.0000
+Token: ' Lion' (ID: 32099), Prob: 0.0000
+Token: ' Year' (ID: 9742), Prob: 0.0000
+Token: ' Cat' (ID: 17358), Prob: 0.0000
+Token: ' Ice' (ID: 19939), Prob: 0.0000
+Token: ' King' (ID: 6210), Prob: 0.0000
+Token: ' Tree' (ID: 8942), Prob: 0.0000
+Token: ' Fish' (ID: 16608), Prob: 0.0000
+Token: ' Thames' (ID: 81188), Prob: 0.0000
+Token: ' Stream' (ID: 9203), Prob: 0.0000
+Token: ' Dog' (ID: 14254), Prob: 0.0000
+Token: ' L' (ID: 444), Prob: 0.0000
+Token: ' Day' (ID: 6059), Prob: 0.0000
+Token: ' Land' (ID: 11426), Prob: 0.0000
+Token: ' Heart' (ID: 17965), Prob: 0.0000
+Token: ' Sword' (ID: 35651), Prob: 0.0000
+Token: ' Duck' (ID: 45770), Prob: 0.0000
+Token: ' Fog' (ID: 58148), Prob: 0.0000
+Token: ' Mirror' (ID: 33854), Prob: 0.0000
+Token: ' B' (ID: 425), Prob: 0.0000
+Token: ' Hill' (ID: 8108), Prob: 0.0000
+Token: ' Rose' (ID: 15964), Prob: 0.0000
+Token: ' Shore' (ID: 44719), Prob: 0.0000
+Token: ' Brook' (ID: 15605), Prob: 0.0000
+Token: ' Morning' (ID: 27984), Prob: 0.0000
+Token: ' Lord' (ID: 10214), Prob: 0.0000
+Token: ' Bear' (ID: 23985), Prob: 0.0000
+Token: ' Mouth' (ID: 65155), Prob: 0.0000
+Token: ' Forest' (ID: 19988), Prob: 0.0000
+Token: ' Dove' (ID: 88984), Prob: 0.0000
+Token: ' Sand' (ID: 8677), Prob: 0.0000
+Token: ' Bay' (ID: 9154), Prob: 0.0000
+Token: ' Planet' (ID: 28835), Prob: 0.0000
+Token: ' Wave' (ID: 31318), Prob: 0.0000
+Token: ' Blue' (ID: 8697), Prob: 0.0000
+Token: ' Mind' (ID: 22904), Prob: 0.0000
+Token: ' Soul' (ID: 29142), Prob: 0.0000
+Token: ' Lily' (ID: 47290), Prob: 0.0000
+Token: ' St' (ID: 794), Prob: 0.0000
+Token: ' Shadow' (ID: 24298), Prob: 0.0000
+Token: ' Red' (ID: 3731), Prob: 0.0000
+Token: ' South' (ID: 4882), Prob: 0.0000
+Token: ' Bridge' (ID: 19874), Prob: 0.0000
+Token: ' H' (ID: 472), Prob: 0.0000
+Token: ' Mill' (ID: 8220), Prob: 0.0000
+Token: ' Week' (ID: 10348), Prob: 0.0000
+Token: ' Dark' (ID: 12258), Prob: 0.0000
+Token: ' Beach' (ID: 12721), Prob: 0.0000
+Token: ' Queen' (ID: 16259), Prob: 0.0000
+
+== Ranked Concepts (Clusters) ==
+Rank 1 | Centroid: ' Moon' | Score: 0.9375
+  Tokens: [' Moon', 'Moon']
+Rank 2 | Centroid: ' Sky' | Score: 0.0420
+  Tokens: [' Sun', ' Sky', ' Star']
+Rank 3 | Centroid: ' Ocean' | Score: 0.0084
+  Tokens: [' Sea', ' Ocean', ' Boat', ' Thames', ' Shore', ' Bay', ' Beach']
+Rank 4 | Centroid: ' River' | Score: 0.0047
+  Tokens: [' River', ' Lake', ' Mountain', ' Stream', ' Hill', ' Brook', ' Bridge']
+Rank 5 | Centroid: ' Month' | Score: 0.0009
+  Tokens: [' Month', ' Night', ' Year', ' Day', ' Morning', ' Week']
+Rank 6 | Centroid: ' Water' | Score: 0.0007
+  Tokens: [' Water', ' Flood', ' Fire', ' Ice']
+Rank 7 | Centroid: ' Rain' | Score: 0.0004
+  Tokens: [' Rain', ' Cloud', ' Wind', ' Storm', ' Fog', ' Sand']
+Rank 8 | Centroid: ' Dragon' | Score: 0.0003
+  Tokens: [' Dragon', ' Wolf', ' Whale', ' Lion', ' Cat', ' Dog', ' Duck', ' Bear', ' Dove']
+Rank 9 | Centroid: ' Planet' | Score: 0.0002
+  Tokens: [' Earth', ' World', ' City', ' Planet']
+Rank 10 | Centroid: ' S' | Score: 0.0002
+  Tokens: [' M', ' T', ' S', ' L', ' B', ' St', ' H']
+Rank 11 | Centroid: ' Mo' | Score: 0.0002
+  Tokens: [' Mo', ' Moor', ' Mill']
+Rank 12 | Centroid: ' Dark' | Score: 0.0002
+  Tokens: [' Deep', ' Light', ' Blue', ' Shadow', ' Red', ' Dark']
+Rank 13 | Centroid: ' Forest' | Score: 0.0001
+  Tokens: [' Wood', ' Tree', ' Land', ' Forest']
+Rank 14 | Centroid: ' Heart' | Score: 0.0001
+  Tokens: [' Eye', ' Heart', ' Mouth', ' Mind', ' Soul']
+Rank 15 | Centroid: ' Tide' | Score: 0.0001
+  Tokens: [' Tide', ' Wave']
+Rank 16 | Centroid: ' Queen' | Score: 0.0001
+  Tokens: [' King', ' Rose', ' Lord', ' Lily', ' Queen']
+Rank 17 | Centroid: ' Stone' | Score: 0.0001
+  Tokens: [' Stone', ' Sword']
+Rank 18 | Centroid: ' Man' | Score: 0.0001
+  Tokens: [' Man']
+Rank 19 | Centroid: ' Fish' | Score: 0.0000
+  Tokens: [' Fish']
+Rank 20 | Centroid: ' Mirror' | Score: 0.0000
+  Tokens: [' Mirror']
+Rank 21 | Centroid: ' South' | Score: 0.0000
+  Tokens: [' South']
+
+**Chosen Concept:** Rank 1

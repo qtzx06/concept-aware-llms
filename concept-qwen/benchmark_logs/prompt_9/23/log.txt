@@ -1,0 +1,114 @@
+--- Step 23 Log ---
+
+== Filtered Candidates ==
+Token: ' Du' (ID: 15687), Prob: 0.8906
+Token: ' a' (ID: 264), Prob: 0.0830
+Token: ' the' (ID: 279), Prob: 0.0127
+Token: ' an' (ID: 458), Prob: 0.0025
+Token: ' Fu' (ID: 29253), Prob: 0.0008
+Token: ' two' (ID: 1378), Prob: 0.0006
+Token: 'Du' (ID: 42074), Prob: 0.0004
+Token: ' D' (ID: 422), Prob: 0.0003
+Token: ' his' (ID: 806), Prob: 0.0003
+Token: ' Gu' (ID: 4570), Prob: 0.0003
+Token: ' Duke' (ID: 26356), Prob: 0.0002
+Token: ' Dou' (ID: 17007), Prob: 0.0002
+Token: ' official' (ID: 3946), Prob: 0.0002
+Token: ' poet' (ID: 39260), Prob: 0.0002
+Token: ' Conf' (ID: 14974), Prob: 0.0001
+Token: ' Lu' (ID: 18360), Prob: 0.0001
+Token: ' Wu' (ID: 36130), Prob: 0.0001
+Token: ' Xu' (ID: 56414), Prob: 0.0001
+Token: ' Zhu' (ID: 67744), Prob: 0.0001
+Token: ' Liu' (ID: 37705), Prob: 0.0001
+Token: ' Hu' (ID: 21793), Prob: 0.0001
+Token: ' du' (ID: 3845), Prob: 0.0001
+Token: ' Emperor' (ID: 34314), Prob: 0.0001
+Token: ' one' (ID: 825), Prob: 0.0001
+Token: ' Li' (ID: 14511), Prob: 0.0000
+Token: ' Zhang' (ID: 36020), Prob: 0.0000
+Token: ' Lord' (ID: 10214), Prob: 0.0000
+Token: ' DU' (ID: 47055), Prob: 0.0000
+Token: ' famous' (ID: 11245), Prob: 0.0000
+Token: ' Zh' (ID: 33349), Prob: 0.0000
+Token: ' Minister' (ID: 9486), Prob: 0.0000
+Token: ' Lady' (ID: 20621), Prob: 0.0000
+Token: ' Zhou' (ID: 66827), Prob: 0.0000
+Token: ' Luo' (ID: 66383), Prob: 0.0000
+Token: ' another' (ID: 2441), Prob: 0.0000
+Token: ' General' (ID: 3251), Prob: 0.0000
+Token: ' officials' (ID: 7359), Prob: 0.0000
+Token: ' Wang' (ID: 28246), Prob: 0.0000
+Token: ' X' (ID: 1599), Prob: 0.0000
+Token: ' Governor' (ID: 23358), Prob: 0.0000
+Token: ' wealthy' (ID: 27894), Prob: 0.0000
+Token: ' Ma' (ID: 11331), Prob: 0.0000
+Token: ' Po' (ID: 13808), Prob: 0.0000
+Token: ' Yang' (ID: 24474), Prob: 0.0000
+Token: ' Zheng' (ID: 76447), Prob: 0.0000
+Token: ' old' (ID: 2310), Prob: 0.0000
+Token: ' noble' (ID: 34382), Prob: 0.0000
+Token: ' and' (ID: 323), Prob: 0.0000
+Token: ' both' (ID: 2176), Prob: 0.0000
+Token: ' someone' (ID: 4325), Prob: 0.0000
+Token: ' Yu' (ID: 27273), Prob: 0.0000
+Token: ' Chen' (ID: 24495), Prob: 0.0000
+Token: ' Tang' (ID: 40362), Prob: 0.0000
+Token: ' Dong' (ID: 52383), Prob: 0.0000
+Token: ' Wei' (ID: 52448), Prob: 0.0000
+Token: ' Qu' (ID: 3406), Prob: 0.0000
+Token: ' Han' (ID: 20644), Prob: 0.0000
+Token: ' Director' (ID: 10560), Prob: 0.0000
+Token: ' Chancellor' (ID: 46963), Prob: 0.0000
+Token: ' Sh' (ID: 1417), Prob: 0.0000
+Token: ' Xiao' (ID: 65590), Prob: 0.0000
+Token: ' general' (ID: 4586), Prob: 0.0000
+Token: ' Prince' (ID: 19351), Prob: 0.0000
+Token: ' influential' (ID: 31449), Prob: 0.0000
+Token: ' whom' (ID: 8711), Prob: 0.0000
+Token: ' prominent' (ID: 20469), Prob: 0.0000
+Token: ' Tu' (ID: 28649), Prob: 0.0000
+Token: ' C' (ID: 356), Prob: 0.0000
+Token: ' high' (ID: 1550), Prob: 0.0000
+Token: ' Dr' (ID: 2926), Prob: 0.0000
+Token: ' former' (ID: 4741), Prob: 0.0000
+Token: ' Dun' (ID: 28738), Prob: 0.0000
+Token: ' G' (ID: 479), Prob: 0.0000
+Token: ' Grand' (ID: 10304), Prob: 0.0000
+Token: ' Duo' (ID: 73212), Prob: 0.0000
+
+== Ranked Concepts (Clusters) ==
+Rank 1 | Centroid: ' Du' | Score: 0.8906
+  Tokens: [' Du', 'Du', ' Dou', ' du', ' DU', ' Dun', ' Duo']
+Rank 2 | Centroid: ' the' | Score: 0.0991
+  Tokens: [' a', ' the', ' an', ' two', ' his', ' one', ' and', ' both']
+Rank 3 | Centroid: ' Hu' | Score: 0.0013
+  Tokens: [' Fu', ' Gu', ' Lu', ' Hu', ' Tu']
+Rank 4 | Centroid: ' Zhang' | Score: 0.0008
+  Tokens: [' Wu', ' Xu', ' Zhu', ' Liu', ' Zhang', ' Zh', ' Zhou', ' Luo', ' Wang', ' Yang', ' Zheng', ' Yu', ' Chen', ' Tang', ' Dong', ' Wei', ' Xiao']
+Rank 5 | Centroid: ' Lord' | Score: 0.0005
+  Tokens: [' Duke', ' Emperor', ' Lord', ' Minister', ' Lady', ' Governor', ' Director', ' Chancellor', ' Prince']
+Rank 6 | Centroid: ' D' | Score: 0.0003
+  Tokens: [' D', ' X', ' C', ' Dr', ' G']
+Rank 7 | Centroid: ' official' | Score: 0.0002
+  Tokens: [' official', ' officials']
+Rank 8 | Centroid: ' poet' | Score: 0.0002
+  Tokens: [' poet', ' Po']
+Rank 9 | Centroid: ' prominent' | Score: 0.0002
+  Tokens: [' famous', ' wealthy', ' old', ' noble', ' influential', ' prominent', ' high', ' former']
+Rank 10 | Centroid: ' Conf' | Score: 0.0001
+  Tokens: [' Conf']
+Rank 11 | Centroid: ' someone' | Score: 0.0001
+  Tokens: [' another', ' someone', ' whom']
+Rank 12 | Centroid: ' Sh' | Score: 0.0001
+  Tokens: [' Ma', ' Qu', ' Sh']
+Rank 13 | Centroid: ' Li' | Score: 0.0000
+  Tokens: [' Li']
+Rank 14 | Centroid: ' General' | Score: 0.0000
+  Tokens: [' General', ' general']
+Rank 15 | Centroid: ' Han' | Score: 0.0000
+  Tokens: [' Han']
+Rank 16 | Centroid: ' Grand' | Score: 0.0000
+  Tokens: [' Grand']
+
+**Chosen Concept:** Rank 1

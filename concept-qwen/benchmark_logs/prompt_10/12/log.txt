@@ -1,0 +1,101 @@
+--- Step 12 Log ---
+
+== Filtered Candidates ==
+Token: ' dynasty' (ID: 66846), Prob: 0.5938
+Token: ' Dynasty' (ID: 73395), Prob: 0.1924
+Token: ' court' (ID: 5473), Prob: 0.1504
+Token: ' and' (ID: 323), Prob: 0.0123
+Token: ' period' (ID: 4168), Prob: 0.0051
+Token: ' in' (ID: 304), Prob: 0.0040
+Token: ' Court' (ID: 7154), Prob: 0.0027
+Token: ' era' (ID: 11385), Prob: 0.0019
+Token: ' capital' (ID: 6722), Prob: 0.0010
+Token: ' at' (ID: 518), Prob: 0.0009
+Token: ' government' (ID: 3033), Prob: 0.0006
+Token: ' Empire' (ID: 20448), Prob: 0.0005
+Token: ' during' (ID: 2337), Prob: 0.0005
+Token: ' China' (ID: 5616), Prob: 0.0004
+Token: ' from' (ID: 504), Prob: 0.0003
+Token: ' before' (ID: 1573), Prob: 0.0003
+Token: ' Period' (ID: 25492), Prob: 0.0002
+Token: ' empire' (ID: 31347), Prob: 0.0002
+Token: ' as' (ID: 438), Prob: 0.0002
+Token: 'Dyn' (ID: 95709), Prob: 0.0002
+Token: ' for' (ID: 369), Prob: 0.0001
+Token: ' when' (ID: 979), Prob: 0.0001
+Token: ' state' (ID: 1584), Prob: 0.0001
+Token: ' palace' (ID: 43339), Prob: 0.0001
+Token: ' of' (ID: 315), Prob: 0.0001
+Token: ' on' (ID: 389), Prob: 0.0001
+Token: ' imperial' (ID: 34279), Prob: 0.0001
+Token: ' to' (ID: 311), Prob: 0.0001
+Token: ' Emperor' (ID: 34314), Prob: 0.0001
+Token: ' until' (ID: 3080), Prob: 0.0001
+Token: ' administration' (ID: 8567), Prob: 0.0001
+Token: ' regime' (ID: 17484), Prob: 0.0001
+Token: ' Chinese' (ID: 8453), Prob: 0.0001
+Token: ' emperor' (ID: 56783), Prob: 0.0001
+Token: ' which' (ID: 892), Prob: 0.0001
+Token: ' Palace' (ID: 30296), Prob: 0.0001
+Token: ' Capital' (ID: 18374), Prob: 0.0000
+Token: ' courts' (ID: 18828), Prob: 0.0000
+Token: ' or' (ID: 476), Prob: 0.0000
+Token: ' under' (ID: 1212), Prob: 0.0000
+Token: ' royal' (ID: 29236), Prob: 0.0000
+Token: ' rulers' (ID: 59896), Prob: 0.0000
+Token: ' Z' (ID: 1863), Prob: 0.0000
+Token: ' kingdom' (ID: 25079), Prob: 0.0000
+Token: ' Era' (ID: 47588), Prob: 0.0000
+Token: ' with' (ID: 448), Prob: 0.0000
+Token: ' into' (ID: 1119), Prob: 0.0000
+Token: ' where' (ID: 1380), Prob: 0.0000
+Token: ' X' (ID: 1599), Prob: 0.0000
+Token: ' that' (ID: 429), Prob: 0.0000
+Token: ' dyn' (ID: 31070), Prob: 0.0000
+Token: ' arist' (ID: 63738), Prob: 0.0000
+Token: ' em' (ID: 976), Prob: 0.0000
+Token: ' State' (ID: 3234), Prob: 0.0000
+Token: ' Dyn' (ID: 43938), Prob: 0.0000
+Token: ' by' (ID: 553), Prob: 0.0000
+Token: ' administrative' (ID: 22707), Prob: 0.0000
+Token: ' Imperial' (ID: 29913), Prob: 0.0000
+Token: '-era' (ID: 51343), Prob: 0.0000
+Token: ' but' (ID: 714), Prob: 0.0000
+Token: ' people' (ID: 1251), Prob: 0.0000
+Token: ' tri' (ID: 2406), Prob: 0.0000
+Token: ' Kingdom' (ID: 15072), Prob: 0.0000
+Token: ' Dun' (ID: 28738), Prob: 0.0000
+Token: ' Chang' (ID: 43372), Prob: 0.0000
+Token: ' system' (ID: 1849), Prob: 0.0000
+Token: ' bureaucracy' (ID: 63831), Prob: 0.0000
+Token: ' Tang' (ID: 40362), Prob: 0.0000
+
+== Ranked Concepts (Clusters) ==
+Rank 1 | Centroid: ' Dyn' | Score: 0.7852
+  Tokens: [' dynasty', ' Dynasty', 'Dyn', ' dyn', ' Dyn', ' Dun']
+Rank 2 | Centroid: ' court' | Score: 0.1533
+  Tokens: [' court', ' Court', ' courts']
+Rank 3 | Centroid: ' and' | Score: 0.0194
+  Tokens: [' and', ' in', ' at', ' during', ' from', ' before', ' as', ' for', ' when', ' of', ' on', ' to', ' until', ' which', ' or', ' under', ' Z', ' with', ' into', ' where', ' X', ' that', ' by', ' but']
+Rank 4 | Centroid: ' period' | Score: 0.0053
+  Tokens: [' period', ' Period']
+Rank 5 | Centroid: ' era' | Score: 0.0020
+  Tokens: [' era', ' regime', ' Era', '-era']
+Rank 6 | Centroid: ' Capital' | Score: 0.0011
+  Tokens: [' capital', ' Capital', ' tri']
+Rank 7 | Centroid: ' emperor' | Score: 0.0011
+  Tokens: [' Empire', ' empire', ' imperial', ' Emperor', ' emperor', ' em', ' Imperial']
+Rank 8 | Centroid: ' administrative' | Score: 0.0008
+  Tokens: [' government', ' administration', ' rulers', ' arist', ' administrative', ' bureaucracy']
+Rank 9 | Centroid: ' China' | Score: 0.0005
+  Tokens: [' China', ' Chinese', ' Chang', ' Tang']
+Rank 10 | Centroid: ' palace' | Score: 0.0003
+  Tokens: [' palace', ' Palace', ' royal', ' kingdom', ' Kingdom']
+Rank 11 | Centroid: ' state' | Score: 0.0001
+  Tokens: [' state', ' State']
+Rank 12 | Centroid: ' people' | Score: 0.0000
+  Tokens: [' people']
+Rank 13 | Centroid: ' system' | Score: 0.0000
+  Tokens: [' system']
+
+**Chosen Concept:** Rank 1

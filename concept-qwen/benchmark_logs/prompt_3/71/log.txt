@@ -1,0 +1,137 @@
+--- Step 71 Log ---
+
+== Filtered Candidates ==
+Token: 'ers' (ID: 388), Prob: 1.0000
+Token: 'lers' (ID: 9254), Prob: 0.0000
+Token: 'thers' (ID: 2985), Prob: 0.0000
+Token: 'ters' (ID: 5045), Prob: 0.0000
+Token: 'wers' (ID: 23660), Prob: 0.0000
+Token: ' ers' (ID: 54395), Prob: 0.0000
+Token: 'eries' (ID: 4699), Prob: 0.0000
+Token: 'uers' (ID: 83425), Prob: 0.0000
+Token: 'es' (ID: 288), Prob: 0.0000
+Token: 'erness' (ID: 28568), Prob: 0.0000
+Token: 'esters' (ID: 75702), Prob: 0.0000
+Token: 'ERS' (ID: 4321), Prob: 0.0000
+Token: 'isters' (ID: 9303), Prob: 0.0000
+Token: 'ners' (ID: 4972), Prob: 0.0000
+Token: 'iers' (ID: 4813), Prob: 0.0000
+Token: 'gers' (ID: 10637), Prob: 0.0000
+Token: 'ets' (ID: 1415), Prob: 0.0000
+Token: 'mers' (ID: 22780), Prob: 0.0000
+Token: 'vers' (ID: 3004), Prob: 0.0000
+Token: 'bers' (ID: 1902), Prob: 0.0000
+Token: 'ies' (ID: 550), Prob: 0.0000
+Token: ''s' (ID: 594), Prob: 0.0000
+Token: 'inters' (ID: 49940), Prob: 0.0000
+Token: 'er' (ID: 261), Prob: 0.0000
+Token: 'riers' (ID: 17291), Prob: 0.0000
+Token: 'ernes' (ID: 73625), Prob: 0.0000
+Token: 'ures' (ID: 1413), Prob: 0.0000
+Token: 'arters' (ID: 14361), Prob: 0.0000
+Token: 'isers' (ID: 61280), Prob: 0.0000
+Token: 'erties' (ID: 2707), Prob: 0.0000
+Token: 'eros' (ID: 6264), Prob: 0.0000
+Token: 'ery' (ID: 722), Prob: 0.0000
+Token: 'ères' (ID: 30439), Prob: 0.0000
+Token: 'res' (ID: 416), Prob: 0.0000
+Token: 'ings' (ID: 819), Prob: 0.0000
+Token: 'urs' (ID: 1723), Prob: 0.0000
+Token: 'eners' (ID: 18223), Prob: 0.0000
+Token: 'ettes' (ID: 45903), Prob: 0.0000
+Token: 'eres' (ID: 12917), Prob: 0.0000
+Token: 'sters' (ID: 12570), Prob: 0.0000
+Token: 'aders' (ID: 6393), Prob: 0.0000
+Token: 'ervers' (ID: 18729), Prob: 0.0000
+Token: 'cers' (ID: 16832), Prob: 0.0000
+Token: '<|endoftext|>' (ID: 151643), Prob: 0.0000
+Token: 'ert' (ID: 529), Prob: 0.0000
+Token: 'asers' (ID: 59730), Prob: 0.0000
+Token: 'ler' (ID: 1536), Prob: 0.0000
+Token: 'erg' (ID: 2375), Prob: 0.0000
+Token: 'ering' (ID: 4671), Prob: 0.0000
+Token: 'rs' (ID: 5428), Prob: 0.0000
+Token: 'etypes' (ID: 67553), Prob: 0.0000
+Token: 'erson' (ID: 1270), Prob: 0.0000
+Token: 'les' (ID: 642), Prob: 0.0000
+Token: ' as' (ID: 438), Prob: 0.0000
+Token: 'kers' (ID: 26177), Prob: 0.0000
+Token: 'pers' (ID: 31290), Prob: 0.0000
+Token: 'igers' (ID: 32114), Prob: 0.0000
+Token: 'era' (ID: 2416), Prob: 0.0000
+Token: 'eras' (ID: 9247), Prob: 0.0000
+Token: 'icers' (ID: 34980), Prob: 0.0000
+Token: 'ders' (ID: 12321), Prob: 0.0000
+Token: 'erals' (ID: 17368), Prob: 0.0000
+Token: 'els' (ID: 2010), Prob: 0.0000
+Token: 'urers' (ID: 11807), Prob: 0.0000
+Token: 'erts' (ID: 15546), Prob: 0.0000
+Token: 'r' (ID: 81), Prob: 0.0000
+Token: ' brothers' (ID: 20208), Prob: 0.0000
+Token: '(es' (ID: 50236), Prob: 0.0000
+Token: 's' (ID: 82), Prob: 0.0000
+Token: 'mer' (ID: 1174), Prob: 0.0000
+Token: 'ered' (ID: 12336), Prob: 0.0000
+Token: 'ities' (ID: 1361), Prob: 0.0000
+Token: ' others' (ID: 3800), Prob: 0.0000
+Token: 'ern' (ID: 932), Prob: 0.0000
+
+== Ranked Concepts (Clusters) ==
+Rank 1 | Centroid: 'ERS' | Score: 1.0000
+  Tokens: ['ers', ' ers', 'ERS']
+Rank 2 | Centroid: 'lers' | Score: 0.0000
+  Tokens: ['lers', 'ler']
+Rank 3 | Centroid: 'thers' | Score: 0.0000
+  Tokens: ['thers', ' others']
+Rank 4 | Centroid: 'gers' | Score: 0.0000
+  Tokens: ['ters', 'ners', 'gers']
+Rank 5 | Centroid: 'wers' | Score: 0.0000
+  Tokens: ['wers', 'kers']
+Rank 6 | Centroid: 'eries' | Score: 0.0000
+  Tokens: ['eries', 'ery']
+Rank 7 | Centroid: 'urers' | Score: 0.0000
+  Tokens: ['uers', 'ures', 'urs', 'urers']
+Rank 8 | Centroid: 'icers' | Score: 0.0000
+  Tokens: ['esters', 'isters', 'isers', 'sters', 'aders', 'cers', 'asers', 'icers']
+Rank 9 | Centroid: 'ern' | Score: 0.0000
+  Tokens: ['erness', 'ernes', 'ern']
+Rank 10 | Centroid: 'es' | Score: 0.0000
+  Tokens: ['es', 'res', '(es']
+Rank 11 | Centroid: 'mer' | Score: 0.0000
+  Tokens: ['mers', 'bers', 'ders', 'mer']
+Rank 12 | Centroid: 'iers' | Score: 0.0000
+  Tokens: ['iers']
+Rank 13 | Centroid: 'ets' | Score: 0.0000
+  Tokens: ['ets']
+Rank 14 | Centroid: 'vers' | Score: 0.0000
+  Tokens: ['vers', 'pers']
+Rank 15 | Centroid: 'era' | Score: 0.0000
+  Tokens: ['er', 'eros', 'eres', 'era', 'eras']
+Rank 16 | Centroid: ' as' | Score: 0.0000
+  Tokens: ["'s", '<|endoftext|>', 'rs', ' as', 'r', 's']
+Rank 17 | Centroid: 'ies' | Score: 0.0000
+  Tokens: ['ies', 'ities']
+Rank 18 | Centroid: 'inters' | Score: 0.0000
+  Tokens: ['inters', 'ervers']
+Rank 19 | Centroid: 'riers' | Score: 0.0000
+  Tokens: ['riers']
+Rank 20 | Centroid: ' brothers' | Score: 0.0000
+  Tokens: ['arters', 'etypes', ' brothers']
+Rank 21 | Centroid: 'ert' | Score: 0.0000
+  Tokens: ['erties', 'ert', 'erson', 'erts']
+Rank 22 | Centroid: 'ères' | Score: 0.0000
+  Tokens: ['ères', 'ettes']
+Rank 23 | Centroid: 'ings' | Score: 0.0000
+  Tokens: ['ings']
+Rank 24 | Centroid: 'eners' | Score: 0.0000
+  Tokens: ['eners', 'igers']
+Rank 25 | Centroid: 'ering' | Score: 0.0000
+  Tokens: ['ering', 'ered']
+Rank 26 | Centroid: 'les' | Score: 0.0000
+  Tokens: ['les', 'els']
+Rank 27 | Centroid: 'erg' | Score: 0.0000
+  Tokens: ['erg']
+Rank 28 | Centroid: 'erals' | Score: 0.0000
+  Tokens: ['erals']
+
+**Chosen Concept:** Rank 1

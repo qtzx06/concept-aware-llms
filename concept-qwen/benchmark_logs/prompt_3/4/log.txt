@@ -1,0 +1,134 @@
+--- Step 4 Log ---
+
+== Filtered Candidates ==
+Token: ' year' (ID: 1042), Prob: 0.9961
+Token: ' season' (ID: 3200), Prob: 0.0022
+Token: ' years' (ID: 1635), Prob: 0.0003
+Token: ' period' (ID: 4168), Prob: 0.0003
+Token: ' decade' (ID: 13212), Prob: 0.0002
+Token: ' calendar' (ID: 13168), Prob: 0.0001
+Token: ' series' (ID: 4013), Prob: 0.0001
+Token: ' time' (ID: 882), Prob: 0.0001
+Token: ' theatre' (ID: 33496), Prob: 0.0001
+Token: ' month' (ID: 2254), Prob: 0.0000
+Token: ' production' (ID: 5670), Prob: 0.0000
+Token: 'year' (ID: 3157), Prob: 0.0000
+Token: ' week' (ID: 2003), Prob: 0.0000
+Token: ' summer' (ID: 7324), Prob: 0.0000
+Token: ' two' (ID: 1378), Prob: 0.0000
+Token: ' play' (ID: 1486), Prob: 0.0000
+Token: ' Year' (ID: 9742), Prob: 0.0000
+Token: ' city' (ID: 3283), Prob: 0.0000
+Token: ' role' (ID: 3476), Prob: 0.0000
+Token: ' theatrical' (ID: 65233), Prob: 0.0000
+Token: ' performance' (ID: 5068), Prob: 0.0000
+Token: ' episode' (ID: 9234), Prob: 0.0000
+Token: ' edition' (ID: 13688), Prob: 0.0000
+Token: ' timeframe' (ID: 69953), Prob: 0.0000
+Token: ' show' (ID: 1473), Prob: 0.0000
+Token: ' theater' (ID: 26705), Prob: 0.0000
+Token: ' era' (ID: 11385), Prob: 0.0000
+Token: ' winter' (ID: 12406), Prob: 0.0000
+Token: ' television' (ID: 12425), Prob: 0.0000
+Token: ' five' (ID: 4236), Prob: 0.0000
+Token: ' film' (ID: 4531), Prob: 0.0000
+Token: ' acting' (ID: 15358), Prob: 0.0000
+Token: ' fiscal' (ID: 19743), Prob: 0.0000
+Token: ' night' (ID: 3729), Prob: 0.0000
+Token: ' term' (ID: 4647), Prob: 0.0000
+Token: ' tour' (ID: 7216), Prob: 0.0000
+Token: ' programme' (ID: 18136), Prob: 0.0000
+Token: ' y' (ID: 379), Prob: 0.0000
+Token: ' three' (ID: 2326), Prob: 0.0000
+Token: ' country' (ID: 3146), Prob: 0.0000
+Token: ' seasons' (ID: 15584), Prob: 0.0000
+Token: ' London' (ID: 7148), Prob: 0.0000
+Token: ' academic' (ID: 14250), Prob: 0.0000
+Token: ' four' (ID: 3040), Prob: 0.0000
+Token: '-year' (ID: 4666), Prob: 0.0000
+Token: ' town' (ID: 6290), Prob: 0.0000
+Token: ' cycle' (ID: 10775), Prob: 0.0000
+Token: ' ye' (ID: 19478), Prob: 0.0000
+Token: ' autumn' (ID: 41674), Prob: 0.0000
+Token: ' annum' (ID: 86657), Prob: 0.0000
+Token: ' way' (ID: 1616), Prob: 0.0000
+Token: ' area' (ID: 3082), Prob: 0.0000
+Token: ' the' (ID: 279), Prob: 0.0000
+Token: ' writing' (ID: 4378), Prob: 0.0000
+Token: ' financial' (ID: 5896), Prob: 0.0000
+Token: ' performing' (ID: 16380), Prob: 0.0000
+Token: ' day' (ID: 1899), Prob: 0.0000
+Token: ' session' (ID: 3797), Prob: 0.0000
+Token: ' festival' (ID: 18780), Prob: 0.0000
+Token: ' yr' (ID: 42338), Prob: 0.0000
+Token: ' vein' (ID: 53244), Prob: 0.0000
+Token: ' run' (ID: 1598), Prob: 0.0000
+Token: ' region' (ID: 5537), Prob: 0.0000
+Token: ' stage' (ID: 6430), Prob: 0.0000
+Token: ' few' (ID: 2421), Prob: 0.0000
+Token: ' actor' (ID: 12089), Prob: 0.0000
+Token: ' evening' (ID: 11458), Prob: 0.0000
+Token: ' stretch' (ID: 14501), Prob: 0.0000
+Token: ' school' (ID: 2906), Prob: 0.0000
+Token: ' spring' (ID: 10464), Prob: 0.0000
+Token: ' venue' (ID: 21434), Prob: 0.0000
+Token: ' Y' (ID: 809), Prob: 0.0000
+Token: ' quarter' (ID: 8338), Prob: 0.0000
+Token: ' annual' (ID: 9775), Prob: 0.0000
+Token: ' six' (ID: 4743), Prob: 0.0000
+Token: ' BBC' (ID: 18096), Prob: 0.0000
+Token: ' theat' (ID: 46113), Prob: 0.0000
+Token: ' program' (ID: 2025), Prob: 0.0000
+Token: ' instance' (ID: 2867), Prob: 0.0000
+Token: ' cast' (ID: 6311), Prob: 0.0000
+Token: ' fashion' (ID: 11153), Prob: 0.0000
+Token: ' musical' (ID: 17795), Prob: 0.0000
+Token: ' in' (ID: 304), Prob: 0.0000
+
+== Ranked Concepts (Clusters) ==
+Rank 1 | Centroid: ' year' | Score: 0.9961
+  Tokens: [' year', ' years', ' decade', 'year', ' Year', '-year', ' annum', ' yr', ' annual']
+Rank 2 | Centroid: ' season' | Score: 0.0022
+  Tokens: [' season', ' seasons']
+Rank 3 | Centroid: ' era' | Score: 0.0003
+  Tokens: [' period', ' timeframe', ' era', ' cycle', ' stage']
+Rank 4 | Centroid: ' calendar' | Score: 0.0001
+  Tokens: [' calendar']
+Rank 5 | Centroid: ' series' | Score: 0.0001
+  Tokens: [' series', ' session']
+Rank 6 | Centroid: ' theatre' | Score: 0.0001
+  Tokens: [' theatre', ' theatrical', ' theater', ' television', ' film', ' actor', ' theat']
+Rank 7 | Centroid: ' time' | Score: 0.0001
+  Tokens: [' time', ' term']
+Rank 8 | Centroid: ' week' | Score: 0.0001
+  Tokens: [' month', ' week', ' night', ' day', ' evening']
+Rank 9 | Centroid: ' financial' | Score: 0.0000
+  Tokens: [' production', ' fiscal', ' academic', ' writing', ' financial', ' fashion', ' musical']
+Rank 10 | Centroid: ' summer' | Score: 0.0000
+  Tokens: [' summer', ' winter', ' autumn', ' spring']
+Rank 11 | Centroid: ' three' | Score: 0.0000
+  Tokens: [' two', ' five', ' three', ' four', ' few', ' six']
+Rank 12 | Centroid: ' city' | Score: 0.0000
+  Tokens: [' city', ' country', ' town', ' area', ' region', ' school']
+Rank 13 | Centroid: ' festival' | Score: 0.0000
+  Tokens: [' episode', ' edition', ' festival']
+Rank 14 | Centroid: ' performing' | Score: 0.0000
+  Tokens: [' performance', ' acting', ' performing', ' cast']
+Rank 15 | Centroid: ' role' | Score: 0.0000
+  Tokens: [' role', ' way', ' instance']
+Rank 16 | Centroid: ' venue' | Score: 0.0000
+  Tokens: [' London', ' vein', ' venue', ' BBC']
+Rank 17 | Centroid: ' y' | Score: 0.0000
+  Tokens: [' y', ' ye', ' Y']
+Rank 18 | Centroid: ' programme' | Score: 0.0000
+  Tokens: [' programme', ' program']
+Rank 19 | Centroid: ' tour' | Score: 0.0000
+  Tokens: [' tour']
+Rank 20 | Centroid: ' the' | Score: 0.0000
+  Tokens: [' play', ' show', ' the', ' run', ' in']
+Rank 21 | Centroid: ' stretch' | Score: 0.0000
+  Tokens: [' stretch']
+Rank 22 | Centroid: ' quarter' | Score: 0.0000
+  Tokens: [' quarter']
+
+**Chosen Concept:** Rank 1

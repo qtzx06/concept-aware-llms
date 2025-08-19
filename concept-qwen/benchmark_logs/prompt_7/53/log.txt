@@ -1,0 +1,126 @@
+--- Step 53 Log ---
+
+== Filtered Candidates ==
+Token: ' poets' (ID: 72972), Prob: 0.7812
+Token: ' Chinese' (ID: 8453), Prob: 0.0933
+Token: ' and' (ID: 323), Prob: 0.0645
+Token: ' of' (ID: 315), Prob: 0.0184
+Token: ' classical' (ID: 28824), Prob: 0.0060
+Token: ' writers' (ID: 16093), Prob: 0.0053
+Token: ' historical' (ID: 13656), Prob: 0.0036
+Token: ' Tang' (ID: 40362), Prob: 0.0036
+Token: ' literary' (ID: 31365), Prob: 0.0028
+Token: ' figures' (ID: 12396), Prob: 0.0025
+Token: ' poet' (ID: 39260), Prob: 0.0019
+Token: ' ancient' (ID: 13833), Prob: 0.0015
+Token: ' authors' (ID: 12014), Prob: 0.0013
+Token: ' historians' (ID: 50701), Prob: 0.0007
+Token: ' men' (ID: 2953), Prob: 0.0006
+Token: ' scholars' (ID: 30739), Prob: 0.0005
+Token: ' poetry' (ID: 31249), Prob: 0.0005
+Token: ' poetic' (ID: 75434), Prob: 0.0005
+Token: ' people' (ID: 1251), Prob: 0.0004
+Token: ' four' (ID: 3040), Prob: 0.0004
+Token: ' Po' (ID: 13808), Prob: 0.0004
+Token: ' poems' (ID: 44219), Prob: 0.0004
+Token: ' classic' (ID: 11416), Prob: 0.0003
+Token: ' Classical' (ID: 67433), Prob: 0.0003
+Token: ' in' (ID: 304), Prob: 0.0003
+Token: ' real' (ID: 1931), Prob: 0.0003
+Token: ' names' (ID: 5036), Prob: 0.0003
+Token: ' traditional' (ID: 8606), Prob: 0.0003
+Token: ' living' (ID: 5382), Prob: 0.0002
+Token: ' verses' (ID: 49299), Prob: 0.0002
+Token: ' lyric' (ID: 68335), Prob: 0.0002
+Token: ' national' (ID: 5313), Prob: 0.0002
+Token: ' contemporary' (ID: 18706), Prob: 0.0002
+Token: ' Han' (ID: 20644), Prob: 0.0001
+Token: ' T' (ID: 350), Prob: 0.0001
+Token: ' for' (ID: 369), Prob: 0.0001
+Token: ' liter' (ID: 6935), Prob: 0.0001
+Token: ' Song' (ID: 18971), Prob: 0.0001
+Token: ' chronic' (ID: 20601), Prob: 0.0001
+Token: ' po' (ID: 3193), Prob: 0.0001
+Token: ' individuals' (ID: 7775), Prob: 0.0001
+Token: ' sons' (ID: 25350), Prob: 0.0001
+Token: ' Classic' (ID: 21837), Prob: 0.0001
+Token: ' Ming' (ID: 55883), Prob: 0.0001
+Token: ' modern' (ID: 6481), Prob: 0.0001
+Token: ' romantic' (ID: 23467), Prob: 0.0001
+Token: ' persons' (ID: 11186), Prob: 0.0001
+Token: ' historic' (ID: 18035), Prob: 0.0001
+Token: ' pre' (ID: 855), Prob: 0.0001
+Token: ' five' (ID: 4236), Prob: 0.0001
+Token: ' native' (ID: 9867), Prob: 0.0000
+Token: ' works' (ID: 4278), Prob: 0.0000
+Token: ' em' (ID: 976), Prob: 0.0000
+Token: ' two' (ID: 1378), Prob: 0.0000
+Token: ' three' (ID: 2326), Prob: 0.0000
+Token: ' critics' (ID: 22698), Prob: 0.0000
+Token: ' personalities' (ID: 43808), Prob: 0.0000
+Token: ' as' (ID: 438), Prob: 0.0000
+Token: ' surviving' (ID: 39646), Prob: 0.0000
+Token: ' patriotic' (ID: 76684), Prob: 0.0000
+Token: ' among' (ID: 4221), Prob: 0.0000
+Token: ' faces' (ID: 12300), Prob: 0.0000
+Token: ' thinkers' (ID: 68022), Prob: 0.0000
+Token: ' famous' (ID: 11245), Prob: 0.0000
+Token: ' verse' (ID: 32387), Prob: 0.0000
+Token: ' poem' (ID: 32794), Prob: 0.0000
+Token: ' medieval' (ID: 41008), Prob: 0.0000
+Token: ' translators' (ID: 72704), Prob: 0.0000
+Token: ' post' (ID: 1736), Prob: 0.0000
+Token: ' Western' (ID: 10867), Prob: 0.0000
+Token: ' Tao' (ID: 59508), Prob: 0.0000
+Token: ' lyr' (ID: 85237), Prob: 0.0000
+Token: ' painters' (ID: 96853), Prob: 0.0000
+Token: ' contributors' (ID: 20343), Prob: 0.0000
+Token: ' composers' (ID: 94735), Prob: 0.0000
+Token: ' or' (ID: 476), Prob: 0.0000
+Token: ' six' (ID: 4743), Prob: 0.0000
+Token: ' eight' (ID: 8063), Prob: 0.0000
+Token: ' Old' (ID: 10621), Prob: 0.0000
+Token: ' cultural' (ID: 12752), Prob: 0.0000
+Token: ' dyn' (ID: 31070), Prob: 0.0000
+Token: ' to' (ID: 311), Prob: 0.0000
+Token: ' early' (ID: 4124), Prob: 0.0000
+Token: ' characters' (ID: 5766), Prob: 0.0000
+Token: ' Four' (ID: 13322), Prob: 0.0000
+Token: ' masters' (ID: 35367), Prob: 0.0000
+Token: ' Buddhist' (ID: 46741), Prob: 0.0000
+Token: ' philosophers' (ID: 60687), Prob: 0.0000
+Token: ' du' (ID: 3845), Prob: 0.0000
+
+== Ranked Concepts (Clusters) ==
+Rank 1 | Centroid: ' poetry' | Score: 0.7852
+  Tokens: [' poets', ' poet', ' poetry', ' poetic', ' Po', ' poems', ' po', ' poem']
+Rank 2 | Centroid: ' Ming' | Score: 0.0972
+  Tokens: [' Chinese', ' Tang', ' Han', ' Song', ' Ming', ' Tao', ' Buddhist']
+Rank 3 | Centroid: ' and' | Score: 0.0840
+  Tokens: [' and', ' of', ' in', ' real', ' T', ' for', ' pre', ' em', ' as', ' among', ' post', ' or', ' to', ' du']
+Rank 4 | Centroid: ' writers' | Score: 0.0073
+  Tokens: [' writers', ' authors', ' scholars', ' critics', ' thinkers', ' translators', ' painters', ' contributors', ' composers', ' masters', ' philosophers']
+Rank 5 | Centroid: ' classical' | Score: 0.0070
+  Tokens: [' classical', ' classic', ' Classical', ' traditional', ' Classic', ' famous', ' Old']
+Rank 6 | Centroid: ' historical' | Score: 0.0044
+  Tokens: [' historical', ' historians', ' historic']
+Rank 7 | Centroid: ' individuals' | Score: 0.0041
+  Tokens: [' figures', ' men', ' people', ' names', ' individuals', ' persons', ' personalities', ' faces', ' characters']
+Rank 8 | Centroid: ' literary' | Score: 0.0032
+  Tokens: [' literary', ' lyric', ' liter', ' lyr']
+Rank 9 | Centroid: ' medieval' | Score: 0.0018
+  Tokens: [' ancient', ' contemporary', ' modern', ' medieval', ' Western', ' early']
+Rank 10 | Centroid: ' four' | Score: 0.0006
+  Tokens: [' four', ' five', ' two', ' three', ' six', ' eight', ' Four']
+Rank 11 | Centroid: ' cultural' | Score: 0.0005
+  Tokens: [' national', ' chronic', ' romantic', ' native', ' patriotic', ' cultural', ' dyn']
+Rank 12 | Centroid: ' living' | Score: 0.0003
+  Tokens: [' living', ' surviving']
+Rank 13 | Centroid: ' verses' | Score: 0.0003
+  Tokens: [' verses', ' verse']
+Rank 14 | Centroid: ' sons' | Score: 0.0001
+  Tokens: [' sons']
+Rank 15 | Centroid: ' works' | Score: 0.0000
+  Tokens: [' works']
+
+**Chosen Concept:** Rank 1

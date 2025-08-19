@@ -1,0 +1,125 @@
+--- Step 29 Log ---
+
+== Filtered Candidates ==
+Token: ' The' (ID: 576), Prob: 0.2617
+Token: ' A' (ID: 362), Prob: 0.0139
+Token: ' version' (ID: 2319), Prob: 0.0102
+Token: ' T' (ID: 350), Prob: 0.0070
+Token: ' S' (ID: 328), Prob: 0.0066
+Token: ' My' (ID: 3017), Prob: 0.0054
+Token: ' Love' (ID: 10689), Prob: 0.0054
+Token: ' adaptation' (ID: 33085), Prob: 0.0054
+Token: ' I' (ID: 358), Prob: 0.0051
+Token: ' series' (ID: 4013), Prob: 0.0051
+Token: ' D' (ID: 422), Prob: 0.0048
+Token: ' Day' (ID: 6059), Prob: 0.0048
+Token: ' C' (ID: 356), Prob: 0.0045
+Token: ' No' (ID: 2308), Prob: 0.0045
+Token: ' R' (ID: 431), Prob: 0.0042
+Token: ' Night' (ID: 12826), Prob: 0.0042
+Token: ' W' (ID: 467), Prob: 0.0040
+Token: ' L' (ID: 444), Prob: 0.0037
+Token: ' H' (ID: 472), Prob: 0.0037
+Token: ' K' (ID: 730), Prob: 0.0035
+Token: ' Don' (ID: 4320), Prob: 0.0035
+Token: ' In' (ID: 758), Prob: 0.0033
+Token: ' Z' (ID: 1863), Prob: 0.0033
+Token: ' M' (ID: 386), Prob: 0.0031
+Token: ' V' (ID: 647), Prob: 0.0031
+Token: ' G' (ID: 479), Prob: 0.0029
+Token: ' and' (ID: 323), Prob: 0.0027
+Token: ' You' (ID: 1446), Prob: 0.0027
+Token: ' Black' (ID: 5235), Prob: 0.0026
+Token: ' release' (ID: 4879), Prob: 0.0024
+Token: ' St' (ID: 794), Prob: 0.0023
+Token: ' Sh' (ID: 1417), Prob: 0.0023
+Token: ' P' (ID: 393), Prob: 0.0021
+Token: ' Star' (ID: 7679), Prob: 0.0021
+Token: ' Young' (ID: 13263), Prob: 0.0021
+Token: ' Dead' (ID: 15021), Prob: 0.0021
+Token: ' B' (ID: 425), Prob: 0.0020
+Token: ' F' (ID: 434), Prob: 0.0020
+Token: ' It' (ID: 1084), Prob: 0.0020
+Token: ' X' (ID: 1599), Prob: 0.0020
+Token: ' Life' (ID: 9414), Prob: 0.0020
+Token: ' titled' (ID: 24849), Prob: 0.0019
+Token: ' We' (ID: 1205), Prob: 0.0018
+Token: ' All' (ID: 2009), Prob: 0.0018
+Token: ' Days' (ID: 21192), Prob: 0.0018
+Token: ' Y' (ID: 809), Prob: 0.0017
+Token: ' project' (ID: 2390), Prob: 0.0017
+Token: ' N' (ID: 451), Prob: 0.0016
+Token: ' Tr' (ID: 1163), Prob: 0.0016
+Token: ' What' (ID: 3555), Prob: 0.0016
+Token: ' Home' (ID: 5379), Prob: 0.0016
+Token: ' of' (ID: 315), Prob: 0.0015
+Token: ' El' (ID: 3984), Prob: 0.0015
+Token: ' Sl' (ID: 6852), Prob: 0.0015
+Token: ' Dark' (ID: 12258), Prob: 0.0015
+Token: ' Death' (ID: 15911), Prob: 0.0015
+Token: ' comedy' (ID: 22358), Prob: 0.0015
+Token: ' Out' (ID: 4371), Prob: 0.0014
+Token: ' Ch' (ID: 910), Prob: 0.0013
+Token: ' Big' (ID: 6164), Prob: 0.0013
+Token: ' Good' (ID: 7684), Prob: 0.0013
+Token: ' Under' (ID: 9449), Prob: 0.0013
+Token: ' Blood' (ID: 20070), Prob: 0.0013
+Token: ' anthology' (ID: 83008), Prob: 0.0013
+Token: ' J' (ID: 619), Prob: 0.0012
+Token: ' On' (ID: 1913), Prob: 0.0012
+Token: ' American' (ID: 3693), Prob: 0.0012
+Token: ' City' (ID: 4311), Prob: 0.0012
+Token: ' War' (ID: 5004), Prob: 0.0012
+Token: ' Die' (ID: 8408), Prob: 0.0012
+Token: ' in' (ID: 304), Prob: 0.0011
+Token: ' E' (ID: 468), Prob: 0.0011
+Token: ' Ad' (ID: 2410), Prob: 0.0011
+Token: ' called' (ID: 2598), Prob: 0.0011
+Token: ' Not' (ID: 2806), Prob: 0.0011
+Token: ' When' (ID: 3197), Prob: 0.0011
+Token: ' One' (ID: 3776), Prob: 0.0011
+Token: ' House' (ID: 4678), Prob: 0.0011
+Token: ' White' (ID: 5807), Prob: 0.0011
+Token: ' Men' (ID: 11012), Prob: 0.0011
+Token: ' directed' (ID: 15540), Prob: 0.0011
+Token: ' sequel' (ID: 34761), Prob: 0.0011
+Token: ' the' (ID: 279), Prob: 0.0011
+Token: ' O' (ID: 506), Prob: 0.0011
+Token: ' Re' (ID: 1032), Prob: 0.0011
+Token: ' There' (ID: 2619), Prob: 0.0011
+Token: ' released' (ID: 5880), Prob: 0.0011
+Token: ' Blue' (ID: 8697), Prob: 0.0011
+Token: ' festival' (ID: 18780), Prob: 0.0011
+Token: ' Midnight' (ID: 63580), Prob: 0.0011
+
+== Ranked Concepts (Clusters) ==
+Rank 1 | Centroid: ' The' | Score: 0.2910
+  Tokens: [' The', ' My', ' No', ' In', ' You', ' It', ' We', ' All', ' What', ' On', ' Not', ' When', ' One', ' There']
+Rank 2 | Centroid: ' D' | Score: 0.0884
+  Tokens: [' A', ' T', ' S', ' I', ' D', ' C', ' R', ' W', ' L', ' H', ' K', ' Z', ' M', ' V', ' G', ' P', ' B', ' F', ' X', ' Y', ' N', ' J', ' E', ' O']
+Rank 3 | Centroid: ' festival' | Score: 0.0286
+  Tokens: [' version', ' adaptation', ' series', ' project', ' comedy', ' anthology', ' American', ' sequel', ' festival']
+Rank 4 | Centroid: ' Love' | Score: 0.0193
+  Tokens: [' Love', ' Star', ' Young', ' Life', ' Home', ' Good', ' City', ' War', ' House', ' Men']
+Rank 5 | Centroid: ' St' | Score: 0.0126
+  Tokens: [' St', ' Sh', ' Tr', ' El', ' Sl', ' Ch', ' Ad', ' Re']
+Rank 6 | Centroid: ' Black' | Score: 0.0089
+  Tokens: [' Black', ' Dark', ' Big', ' Blood', ' White', ' Blue']
+Rank 7 | Centroid: ' Day' | Score: 0.0066
+  Tokens: [' Day', ' Days']
+Rank 8 | Centroid: ' and' | Score: 0.0064
+  Tokens: [' and', ' of', ' in', ' the']
+Rank 9 | Centroid: ' Night' | Score: 0.0053
+  Tokens: [' Night', ' Midnight']
+Rank 10 | Centroid: ' Death' | Score: 0.0048
+  Tokens: [' Dead', ' Death', ' Die']
+Rank 11 | Centroid: ' titled' | Score: 0.0042
+  Tokens: [' titled', ' called', ' directed']
+Rank 12 | Centroid: ' Don' | Score: 0.0035
+  Tokens: [' Don']
+Rank 13 | Centroid: ' release' | Score: 0.0035
+  Tokens: [' release', ' released']
+Rank 14 | Centroid: ' Out' | Score: 0.0027
+  Tokens: [' Out', ' Under']
+
+**Chosen Concept:** Rank 1

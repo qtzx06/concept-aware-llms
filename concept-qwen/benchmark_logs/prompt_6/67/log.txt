@@ -1,0 +1,97 @@
+--- Step 67 Log ---
+
+== Filtered Candidates ==
+Token: ' year' (ID: 1042), Prob: 1.0000
+Token: ' same' (ID: 1852), Prob: 0.0006
+Token: ' season' (ID: 3200), Prob: 0.0000
+Token: 'year' (ID: 3157), Prob: 0.0000
+Token: ' Year' (ID: 9742), Prob: 0.0000
+Token: ' decade' (ID: 13212), Prob: 0.0000
+Token: ' years' (ID: 1635), Prob: 0.0000
+Token: ' following' (ID: 2701), Prob: 0.0000
+Token: ' month' (ID: 2254), Prob: 0.0000
+Token: ' episode' (ID: 9234), Prob: 0.0000
+Token: ' summer' (ID: 7324), Prob: 0.0000
+Token: ' the' (ID: 279), Prob: 0.0000
+Token: '.year' (ID: 24414), Prob: 0.0000
+Token: ' time' (ID: 882), Prob: 0.0000
+Token: ' second' (ID: 2086), Prob: 0.0000
+Token: '-year' (ID: 4666), Prob: 0.0000
+Token: ' film' (ID: 4531), Prob: 0.0000
+Token: ' YEAR' (ID: 50905), Prob: 0.0000
+Token: '_year' (ID: 14645), Prob: 0.0000
+Token: ' very' (ID: 1602), Prob: 0.0000
+Token: ' calendar' (ID: 13168), Prob: 0.0000
+Token: ' show' (ID: 1473), Prob: 0.0000
+Token: ' first' (ID: 1156), Prob: 0.0000
+Token: ' and' (ID: 323), Prob: 0.0000
+Token: ' period' (ID: 4168), Prob: 0.0000
+Token: ' date' (ID: 2400), Prob: 0.0000
+Token: ' series' (ID: 4013), Prob: 0.0000
+Token: ' năm' (ID: 128290), Prob: 0.0000
+Token: ' in' (ID: 304), Prob: 0.0000
+Token: 'Year' (ID: 9490), Prob: 0.0000
+Token: ' television' (ID: 12425), Prob: 0.0000
+Token: ' day' (ID: 1899), Prob: 0.0000
+Token: ' era' (ID: 11385), Prob: 0.0000
+Token: ' next' (ID: 1790), Prob: 0.0000
+Token: ' particular' (ID: 3953), Prob: 0.0000
+Token: ' ye' (ID: 19478), Prob: 0.0000
+Token: ' final' (ID: 1590), Prob: 0.0000
+Token: ' upcoming' (ID: 14487), Prob: 0.0000
+Token: ' one' (ID: 825), Prob: 0.0000
+Token: ' broadcast' (ID: 12899), Prob: 0.0000
+Token: ' y' (ID: 379), Prob: 0.0000
+Token: ' as' (ID: 438), Prob: 0.0000
+Token: ' he' (ID: 566), Prob: 0.0000
+Token: ' winter' (ID: 12406), Prob: 0.0000
+Token: ' a' (ID: 264), Prob: 0.0000
+Token: ' two' (ID: 1378), Prob: 0.0000
+Token: ' fall' (ID: 4399), Prob: 0.0000
+Token: ' June' (ID: 5534), Prob: 0.0000
+Token: ' f' (ID: 282), Prob: 0.0000
+Token: ' release' (ID: 4879), Prob: 0.0000
+Token: ' week' (ID: 2003), Prob: 0.0000
+Token: ' future' (ID: 3853), Prob: 0.0000
+Token: ' subsequent' (ID: 17420), Prob: 0.0000
+Token: ' yr' (ID: 42338), Prob: 0.0000
+Token: ' follow' (ID: 1795), Prob: 0.0000
+Token: 'same' (ID: 24063), Prob: 0.0000
+Token: ' it' (ID: 432), Prob: 0.0000
+Token: ' December' (ID: 6652), Prob: 0.0000
+Token: ' año' (ID: 35816), Prob: 0.0000
+Token: ' annum' (ID: 86657), Prob: 0.0000
+Token: ' edition' (ID: 13688), Prob: 0.0000
+Token: ' new' (ID: 501), Prob: 0.0000
+
+== Ranked Concepts (Clusters) ==
+Rank 1 | Centroid: ' year' | Score: 1.0000
+  Tokens: [' year', 'year', ' Year', ' decade', ' years', '.year', '-year', ' YEAR', '_year', ' năm', 'Year', ' año', ' annum']
+Rank 2 | Centroid: ' same' | Score: 0.0006
+  Tokens: [' same', 'same']
+Rank 3 | Centroid: ' era' | Score: 0.0000
+  Tokens: [' season', ' episode', ' period', ' series', ' era', ' edition']
+Rank 4 | Centroid: ' follow' | Score: 0.0000
+  Tokens: [' following', ' show', ' follow']
+Rank 5 | Centroid: ' week' | Score: 0.0000
+  Tokens: [' month', ' day', ' week']
+Rank 6 | Centroid: ' the' | Score: 0.0000
+  Tokens: [' the', ' very', ' and', ' in', ' one', ' as', ' he', ' a', ' two', ' f', ' it', ' new']
+Rank 7 | Centroid: ' summer' | Score: 0.0000
+  Tokens: [' summer', ' winter', ' fall', ' June', ' December']
+Rank 8 | Centroid: ' first' | Score: 0.0000
+  Tokens: [' second', ' first', ' final']
+Rank 9 | Centroid: ' television' | Score: 0.0000
+  Tokens: [' film', ' television', ' broadcast', ' release']
+Rank 10 | Centroid: ' time' | Score: 0.0000
+  Tokens: [' time', ' date']
+Rank 11 | Centroid: ' calendar' | Score: 0.0000
+  Tokens: [' calendar']
+Rank 12 | Centroid: ' upcoming' | Score: 0.0000
+  Tokens: [' next', ' upcoming', ' future', ' subsequent']
+Rank 13 | Centroid: ' y' | Score: 0.0000
+  Tokens: [' ye', ' y', ' yr']
+Rank 14 | Centroid: ' particular' | Score: 0.0000
+  Tokens: [' particular']
+
+**Chosen Concept:** Rank 1

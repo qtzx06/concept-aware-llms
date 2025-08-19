@@ -1,135 +1,125 @@
 --- Step 81 Log ---
 
 == Filtered Candidates ==
-Token: ' elders' (ID: 60676), Prob: 0.0479
-Token: ' opposes' (ID: 75212), Prob: 0.0374
-Token: ' thinks' (ID: 15482), Prob: 0.0330
-Token: ' wants' (ID: 6801), Prob: 0.0291
-Token: ' values' (ID: 2750), Prob: 0.0094
-Token: ' discour' (ID: 33193), Prob: 0.0094
-Token: ' member' (ID: 4462), Prob: 0.0065
-Token: ' members' (ID: 3613), Prob: 0.0061
-Token: ' supports' (ID: 11554), Prob: 0.0054
-Token: ' decides' (ID: 27627), Prob: 0.0054
-Token: ' teaches' (ID: 32892), Prob: 0.0054
-Token: ' encourages' (ID: 36067), Prob: 0.0050
-Token: ' dis' (ID: 827), Prob: 0.0045
-Token: ' fears' (ID: 23209), Prob: 0.0033
-Token: ' feels' (ID: 11074), Prob: 0.0031
-Token: ' agrees' (ID: 32908), Prob: 0.0031
-Token: ' celebrates' (ID: 48093), Prob: 0.0025
-Token: ' rules' (ID: 5601), Prob: 0.0024
-Token: ' res' (ID: 592), Prob: 0.0021
-Token: ' believes' (ID: 13605), Prob: 0.0021
-Token: ' watches' (ID: 31760), Prob: 0.0021
-Token: ' forb' (ID: 54744), Prob: 0.0021
-Token: ' needs' (ID: 3880), Prob: 0.0020
-Token: ' prefers' (ID: 53964), Prob: 0.0014
-Token: ' expects' (ID: 24297), Prob: 0.0014
-Token: ' allows' (ID: 6147), Prob: 0.0013
-Token: ' helps' (ID: 8609), Prob: 0.0013
-Token: ' respects' (ID: 42566), Prob: 0.0011
-Token: ' disagrees' (ID: 94983), Prob: 0.0011
-Token: ' stops' (ID: 17933), Prob: 0.0010
-Token: ' blocks' (ID: 10010), Prob: 0.0008
-Token: ' tells' (ID: 10742), Prob: 0.0007
-Token: ' refuses' (ID: 40616), Prob: 0.0007
-Token: ' gathers' (ID: 85681), Prob: 0.0006
-Token: ' might' (ID: 2578), Prob: 0.0006
-Token: ' council' (ID: 14833), Prob: 0.0006
-Token: ' approves' (ID: 93830), Prob: 0.0006
-Token: ' starts' (ID: 8471), Prob: 0.0005
-Token: ' worries' (ID: 37045), Prob: 0.0005
-Token: ' says' (ID: 2727), Prob: 0.0005
-Token: ' gets' (ID: 5221), Prob: 0.0004
-Token: ' knows' (ID: 8788), Prob: 0.0004
-Token: ' sees' (ID: 15634), Prob: 0.0004
-Token: ' tries' (ID: 16297), Prob: 0.0004
-Token: ' bans' (ID: 47509), Prob: 0.0004
-Token: ' still' (ID: 2058), Prob: 0.0003
-Token: ' holds' (ID: 9982), Prob: 0.0003
-Token: ' waits' (ID: 46936), Prob: 0.0003
-Token: ' would' (ID: 1035), Prob: 0.0003
-Token: ' objects' (ID: 6171), Prob: 0.0003
-Token: ' dislikes' (ID: 98885), Prob: 0.0003
-Token: ' hes' (ID: 19779), Prob: 0.0003
-Token: ' advises' (ID: 68974), Prob: 0.0003
-Token: ' learns' (ID: 46210), Prob: 0.0003
-Token: ' rejects' (ID: 59415), Prob: 0.0003
-Token: ' finds' (ID: 13719), Prob: 0.0003
-Token: ' thought' (ID: 3381), Prob: 0.0002
-Token: ' gives' (ID: 6696), Prob: 0.0002
-Token: ' grows' (ID: 27715), Prob: 0.0002
-Token: ' considers' (ID: 31138), Prob: 0.0002
-Token: ' pushes' (ID: 40702), Prob: 0.0002
-Token: ' prohibits' (ID: 58438), Prob: 0.0002
-Token: ' object' (ID: 1633), Prob: 0.0002
-Token: ' elder' (ID: 22130), Prob: 0.0002
-Token: ' wishes' (ID: 24240), Prob: 0.0002
-Token: ' initially' (ID: 15102), Prob: 0.0002
-Token: ' makes' (ID: 3643), Prob: 0.0002
-Token: ' comes' (ID: 4041), Prob: 0.0002
-Token: ' protects' (ID: 35136), Prob: 0.0002
-Token: ' fear' (ID: 8679), Prob: 0.0002
-Token: ' figures' (ID: 12396), Prob: 0.0002
-Token: ' adm' (ID: 14591), Prob: 0.0002
-Token: ' uses' (ID: 5711), Prob: 0.0002
-Token: ' never' (ID: 2581), Prob: 0.0001
-Token: ' mind' (ID: 3971), Prob: 0.0001
-Token: ' leader' (ID: 7653), Prob: 0.0001
-Token: ' apprec' (ID: 9790), Prob: 0.0001
-Token: ' accepts' (ID: 26344), Prob: 0.0001
-Token: ' shares' (ID: 13248), Prob: 0.0001
-Token: ' prevents' (ID: 27934), Prob: 0.0001
-Token: ' requires' (ID: 7460), Prob: 0.0001
-Token: ' hopes' (ID: 16005), Prob: 0.0001
+Token: ' year' (ID: 1042), Prob: 0.9961
+Token: ' series' (ID: 4013), Prob: 0.0025
+Token: ' season' (ID: 3200), Prob: 0.0005
+Token: ' period' (ID: 4168), Prob: 0.0005
+Token: ' month' (ID: 2254), Prob: 0.0001
+Token: ' television' (ID: 12425), Prob: 0.0001
+Token: ' years' (ID: 1635), Prob: 0.0001
+Token: ' week' (ID: 2003), Prob: 0.0001
+Token: ' decade' (ID: 13212), Prob: 0.0001
+Token: ' time' (ID: 882), Prob: 0.0001
+Token: ' production' (ID: 5670), Prob: 0.0001
+Token: ' calendar' (ID: 13168), Prob: 0.0001
+Token: ' BBC' (ID: 18096), Prob: 0.0001
+Token: ' episode' (ID: 9234), Prob: 0.0000
+Token: ' role' (ID: 3476), Prob: 0.0000
+Token: ' TV' (ID: 5883), Prob: 0.0000
+Token: ' day' (ID: 1899), Prob: 0.0000
+Token: 'year' (ID: 3157), Prob: 0.0000
+Token: ' film' (ID: 4531), Prob: 0.0000
+Token: ' show' (ID: 1473), Prob: 0.0000
+Token: ' broadcast' (ID: 12899), Prob: 0.0000
+Token: ' acting' (ID: 15358), Prob: 0.0000
+Token: ' Year' (ID: 9742), Prob: 0.0000
+Token: ' edition' (ID: 13688), Prob: 0.0000
+Token: ' summer' (ID: 7324), Prob: 0.0000
+Token: ' theatre' (ID: 33496), Prob: 0.0000
+Token: ' country' (ID: 3146), Prob: 0.0000
+Token: ' play' (ID: 1486), Prob: 0.0000
+Token: ' financial' (ID: 5896), Prob: 0.0000
+Token: ' UK' (ID: 6424), Prob: 0.0000
+Token: ' two' (ID: 1378), Prob: 0.0000
+Token: ' actor' (ID: 12089), Prob: 0.0000
+Token: ' winter' (ID: 12406), Prob: 0.0000
+Token: ' annual' (ID: 9775), Prob: 0.0000
+Token: ' theatrical' (ID: 65233), Prob: 0.0000
+Token: ' stage' (ID: 6430), Prob: 0.0000
+Token: ' tour' (ID: 7216), Prob: 0.0000
+Token: ' fiscal' (ID: 19743), Prob: 0.0000
+Token: ' British' (ID: 7855), Prob: 0.0000
+Token: ' studio' (ID: 14029), Prob: 0.0000
+Token: ' cycle' (ID: 10775), Prob: 0.0000
+Token: ' theater' (ID: 26705), Prob: 0.0000
+Token: ' era' (ID: 11385), Prob: 0.0000
+Token: ' minute' (ID: 9383), Prob: 0.0000
+Token: ' musical' (ID: 17795), Prob: 0.0000
+Token: ' and' (ID: 323), Prob: 0.0000
+Token: ' interview' (ID: 7128), Prob: 0.0000
+Token: ' the' (ID: 279), Prob: 0.0000
+Token: ' writing' (ID: 4378), Prob: 0.0000
+Token: ' release' (ID: 4879), Prob: 0.0000
+Token: ' bi' (ID: 6032), Prob: 0.0000
+Token: ' radio' (ID: 8887), Prob: 0.0000
+Token: ' three' (ID: 2326), Prob: 0.0000
+Token: ' national' (ID: 5313), Prob: 0.0000
+Token: ' broadcasting' (ID: 48827), Prob: 0.0000
+Token: ' movie' (ID: 5700), Prob: 0.0000
+Token: ' academic' (ID: 14250), Prob: 0.0000
+Token: ' he' (ID: 566), Prob: 0.0000
+Token: ' anniversary' (ID: 21582), Prob: 0.0000
+Token: ' trilogy' (ID: 56786), Prob: 0.0000
+Token: ' act' (ID: 1160), Prob: 0.0000
+Token: ' way' (ID: 1616), Prob: 0.0000
+Token: ' city' (ID: 3283), Prob: 0.0000
+Token: ' night' (ID: 3729), Prob: 0.0000
+Token: ' term' (ID: 4647), Prob: 0.0000
+Token: '-year' (ID: 4666), Prob: 0.0000
+Token: ' cast' (ID: 6311), Prob: 0.0000
+Token: ' program' (ID: 2025), Prob: 0.0000
+Token: ' National' (ID: 5055), Prob: 0.0000
+Token: ' hour' (ID: 6460), Prob: 0.0000
+Token: ' media' (ID: 3687), Prob: 0.0000
+Token: ' seasons' (ID: 15584), Prob: 0.0000
+Token: ' programme' (ID: 18136), Prob: 0.0000
+Token: ' festival' (ID: 18780), Prob: 0.0000
+Token: ' book' (ID: 2311), Prob: 0.0000
+Token: ' century' (ID: 9294), Prob: 0.0000
+Token: ' fictional' (ID: 43582), Prob: 0.0000
+Token: ' January' (ID: 6058), Prob: 0.0000
+Token: ' London' (ID: 7148), Prob: 0.0000
+Token: ' autumn' (ID: 41674), Prob: 0.0000
+Token: ' anthology' (ID: 83008), Prob: 0.0000
+Token: ' y' (ID: 379), Prob: 0.0000
+Token: ' quarter' (ID: 8338), Prob: 0.0000
+Token: ' Television' (ID: 40345), Prob: 0.0000
 
 == Ranked Concepts (Clusters) ==
-Rank 1 | Centroid: ' elders' | Score: 0.0488
-  Tokens: [' elders', ' council', ' hes', ' elder']
-Rank 2 | Centroid: ' refuses' | Score: 0.0449
-  Tokens: [' opposes', ' agrees', ' prefers', ' disagrees', ' refuses', ' approves', ' dislikes', ' rejects', ' accepts']
-Rank 3 | Centroid: ' thinks' | Score: 0.0393
-  Tokens: [' thinks', ' feels', ' believes', ' says', ' knows', ' considers']
-Rank 4 | Centroid: ' wants' | Score: 0.0308
-  Tokens: [' wants', ' expects', ' wishes', ' hopes']
-Rank 5 | Centroid: ' encourages' | Score: 0.0142
-  Tokens: [' teaches', ' encourages', ' celebrates', ' tells', ' advises', ' protects']
-Rank 6 | Centroid: ' values' | Score: 0.0127
-  Tokens: [' values', ' rules', ' blocks', ' figures']
-Rank 7 | Centroid: ' member' | Score: 0.0127
-  Tokens: [' member', ' members', ' leader']
-Rank 8 | Centroid: ' prohibits' | Score: 0.0123
-  Tokens: [' discour', ' forb', ' bans', ' prohibits', ' prevents']
-Rank 9 | Centroid: ' dis' | Score: 0.0066
-  Tokens: [' dis', ' res']
-Rank 10 | Centroid: ' learns' | Score: 0.0063
-  Tokens: [' decides', ' gathers', ' learns']
-Rank 11 | Centroid: ' supports' | Score: 0.0054
-  Tokens: [' supports']
-Rank 12 | Centroid: ' fears' | Score: 0.0039
-  Tokens: [' fears', ' worries', ' fear']
-Rank 13 | Centroid: ' gives' | Score: 0.0039
-  Tokens: [' allows', ' helps', ' gets', ' holds', ' gives', ' makes', ' comes']
-Rank 14 | Centroid: ' waits' | Score: 0.0028
-  Tokens: [' watches', ' tries', ' waits']
-Rank 15 | Centroid: ' requires' | Score: 0.0022
-  Tokens: [' needs', ' uses', ' requires']
-Rank 16 | Centroid: ' would' | Score: 0.0016
-  Tokens: [' might', ' still', ' would', ' initially', ' never']
-Rank 17 | Centroid: ' stops' | Score: 0.0015
-  Tokens: [' stops', ' starts']
-Rank 18 | Centroid: ' apprec' | Score: 0.0014
-  Tokens: [' respects', ' adm', ' apprec']
-Rank 19 | Centroid: ' finds' | Score: 0.0008
-  Tokens: [' sees', ' finds', ' shares']
-Rank 20 | Centroid: ' objects' | Score: 0.0005
-  Tokens: [' objects', ' object']
-Rank 21 | Centroid: ' thought' | Score: 0.0004
-  Tokens: [' thought', ' mind']
-Rank 22 | Centroid: ' pushes' | Score: 0.0002
-  Tokens: [' pushes']
-Rank 23 | Centroid: ' grows' | Score: 0.0002
-  Tokens: [' grows']
+Rank 1 | Centroid: ' year' | Score: 0.9961
+  Tokens: [' year', ' years', ' decade', 'year', ' Year', ' annual', '-year', ' century']
+Rank 2 | Centroid: ' series' | Score: 0.0025
+  Tokens: [' series']
+Rank 3 | Centroid: ' season' | Score: 0.0005
+  Tokens: [' season', ' seasons']
+Rank 4 | Centroid: ' era' | Score: 0.0005
+  Tokens: [' period', ' episode', ' stage', ' cycle', ' era']
+Rank 5 | Centroid: ' week' | Score: 0.0002
+  Tokens: [' month', ' week', ' day', ' minute', ' night', ' hour', ' quarter']
+Rank 6 | Centroid: ' television' | Score: 0.0001
+  Tokens: [' television', ' TV', ' media', ' Television']
+Rank 7 | Centroid: ' financial' | Score: 0.0001
+  Tokens: [' production', ' financial', ' tour', ' fiscal', ' studio', ' musical', ' interview', ' writing', ' release', ' academic', ' fictional']
+Rank 8 | Centroid: ' broadcast' | Score: 0.0001
+  Tokens: [' BBC', ' broadcast', ' radio', ' broadcasting']
+Rank 9 | Centroid: ' winter' | Score: 0.0001
+  Tokens: [' calendar', ' summer', ' winter', ' January', ' autumn']
+Rank 10 | Centroid: ' theater' | Score: 0.0000
+  Tokens: [' film', ' theatre', ' theatrical', ' theater', ' movie']
+Rank 11 | Centroid: ' role' | Score: 0.0000
+  Tokens: [' role', ' bi', ' way', ' cast']
+Rank 12 | Centroid: ' National' | Score: 0.0000
+  Tokens: [' country', ' UK', ' British', ' national', ' city', ' National', ' London']
+Rank 13 | Centroid: ' acting' | Score: 0.0000
+  Tokens: [' acting', ' actor', ' act']
+Rank 14 | Centroid: ' festival' | Score: 0.0000
+  Tokens: [' edition', ' anniversary', ' trilogy', ' festival', ' anthology']
+Rank 15 | Centroid: ' the' | Score: 0.0000
+  Tokens: [' time', ' show', ' play', ' two', ' and', ' the', ' three', ' he', ' term', ' y']
+Rank 16 | Centroid: ' program' | Score: 0.0000
+  Tokens: [' program', ' programme']
+Rank 17 | Centroid: ' book' | Score: 0.0000
+  Tokens: [' book']
 
 **Chosen Concept:** Rank 1

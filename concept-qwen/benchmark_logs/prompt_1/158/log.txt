@@ -1,0 +1,97 @@
+--- Step 158 Log ---
+
+== Filtered Candidates ==
+Token: ' The' (ID: 576), Prob: 1.0000
+Token: ' Crown' (ID: 28643), Prob: 0.0001
+Token: 'The' (ID: 785), Prob: 0.0000
+Token: ' the' (ID: 279), Prob: 0.0000
+Token: ' THE' (ID: 3168), Prob: 0.0000
+Token: ' T' (ID: 350), Prob: 0.0000
+Token: ' A' (ID: 362), Prob: 0.0000
+Token: ' Time' (ID: 4120), Prob: 0.0000
+Token: ' Star' (ID: 7679), Prob: 0.0000
+Token: '.The' (ID: 11568), Prob: 0.0000
+Token: ' This' (ID: 1096), Prob: 0.0000
+Token: ' House' (ID: 4678), Prob: 0.0000
+Token: ' and' (ID: 323), Prob: 0.0000
+Token: ' In' (ID: 758), Prob: 0.0000
+Token: ' One' (ID: 3776), Prob: 0.0000
+Token: ' Her' (ID: 6252), Prob: 0.0000
+Token: ' Top' (ID: 6909), Prob: 0.0000
+Token: ' Title' (ID: 10869), Prob: 0.0000
+Token: ' He' (ID: 1260), Prob: 0.0000
+Token: ' Crow' (ID: 26893), Prob: 0.0000
+Token: ' D' (ID: 422), Prob: 0.0000
+Token: ' There' (ID: 2619), Prob: 0.0000
+Token: ' Coron' (ID: 47083), Prob: 0.0000
+Token: ' Sherlock' (ID: 60626), Prob: 0.0000
+Token: ' Prince' (ID: 19351), Prob: 0.0000
+Token: ' Empire' (ID: 20448), Prob: 0.0000
+Token: ' I' (ID: 358), Prob: 0.0000
+Token: ' Queen' (ID: 16259), Prob: 0.0000
+Token: ' Th' (ID: 663), Prob: 0.0000
+Token: ' That' (ID: 2938), Prob: 0.0000
+Token: ' Revenge' (ID: 80549), Prob: 0.0000
+Token: ' Victoria' (ID: 22417), Prob: 0.0000
+Token: ' Last' (ID: 7996), Prob: 0.0000
+Token: ' King' (ID: 6210), Prob: 0.0000
+Token: ' Royal' (ID: 16194), Prob: 0.0000
+Token: ' Doctor' (ID: 18635), Prob: 0.0000
+Token: ' Home' (ID: 5379), Prob: 0.0000
+Token: ' His' (ID: 5301), Prob: 0.0000
+Token: ' Series' (ID: 11131), Prob: 0.0000
+Token: ' B' (ID: 425), Prob: 0.0000
+Token: ' TV' (ID: 5883), Prob: 0.0000
+Token: '-The' (ID: 65006), Prob: 0.0000
+Token: ' After' (ID: 4636), Prob: 0.0000
+Token: ' of' (ID: 315), Prob: 0.0000
+Token: ' It' (ID: 1084), Prob: 0.0000
+Token: ' My' (ID: 3017), Prob: 0.0000
+Token: ' South' (ID: 4882), Prob: 0.0000
+Token: ' Kingdom' (ID: 15072), Prob: 0.0000
+Token: ' Ten' (ID: 17695), Prob: 0.0000
+Token: ' Theatre' (ID: 26221), Prob: 0.0000
+Token: ' Pride' (ID: 42146), Prob: 0.0000
+Token: ' To' (ID: 2014), Prob: 0.0000
+Token: ' Red' (ID: 3731), Prob: 0.0000
+Token: ' Two' (ID: 9043), Prob: 0.0000
+Token: ' BBC' (ID: 18096), Prob: 0.0000
+Token: ' Dr' (ID: 2926), Prob: 0.0000
+Token: ' Lord' (ID: 10214), Prob: 0.0000
+Token: ' Thunder' (ID: 26691), Prob: 0.0000
+Token: ' Other' (ID: 6944), Prob: 0.0000
+Token: '"The' (ID: 10022), Prob: 0.0000
+
+== Ranked Concepts (Clusters) ==
+Rank 1 | Centroid: '.The' | Score: 1.0000
+  Tokens: [' The', 'The', ' THE', '.The', '-The', '"The']
+Rank 2 | Centroid: ' Crown' | Score: 0.0001
+  Tokens: [' Crown', ' Crow', ' Coron']
+Rank 3 | Centroid: ' the' | Score: 0.0000
+  Tokens: [' the', ' T', ' A', ' and', ' D', ' I', ' B', ' of']
+Rank 4 | Centroid: ' Time' | Score: 0.0000
+  Tokens: [' Time', ' Top', ' Title', ' Ten']
+Rank 5 | Centroid: ' This' | Score: 0.0000
+  Tokens: [' This', ' In', ' There', ' That', ' After', ' It', ' My', ' To']
+Rank 6 | Centroid: ' His' | Score: 0.0000
+  Tokens: [' Her', ' He', ' His']
+Rank 7 | Centroid: ' King' | Score: 0.0000
+  Tokens: [' Prince', ' Queen', ' King', ' Royal', ' Kingdom', ' Lord']
+Rank 8 | Centroid: ' Star' | Score: 0.0000
+  Tokens: [' Star', ' Red']
+Rank 9 | Centroid: ' One' | Score: 0.0000
+  Tokens: [' One', ' Last', ' Two', ' Other']
+Rank 10 | Centroid: ' Home' | Score: 0.0000
+  Tokens: [' House', ' Home', ' South']
+Rank 11 | Centroid: ' Victoria' | Score: 0.0000
+  Tokens: [' Empire', ' Revenge', ' Victoria']
+Rank 12 | Centroid: ' TV' | Score: 0.0000
+  Tokens: [' Series', ' TV', ' Theatre', ' BBC']
+Rank 13 | Centroid: ' Sherlock' | Score: 0.0000
+  Tokens: [' Sherlock', ' Pride']
+Rank 14 | Centroid: ' Th' | Score: 0.0000
+  Tokens: [' Th', ' Thunder']
+Rank 15 | Centroid: ' Doctor' | Score: 0.0000
+  Tokens: [' Doctor', ' Dr']
+
+**Chosen Concept:** Rank 1

@@ -1,103 +1,136 @@
 --- Step 3 Log ---
 
 == Filtered Candidates ==
-Token: ' let' (ID: 1077), Prob: 0.3809
-Token: ' starting' (ID: 5916), Prob: 0.0002
-Token: ' start' (ID: 1191), Prob: 0.0002
-Token: ' first' (ID: 1156), Prob: 0.0001
-Token: ' user' (ID: 1196), Prob: 0.0001
-Token: ' maybe' (ID: 7196), Prob: 0.0001
-Token: ' Let' (ID: 6771), Prob: 0.0001
-Token: ' need' (ID: 1184), Prob: 0.0000
-Token: ' students' (ID: 4143), Prob: 0.0000
-Token: ' putting' (ID: 10687), Prob: 0.0000
-Token: ' story' (ID: 3364), Prob: 0.0000
-Token: ' building' (ID: 4752), Prob: 0.0000
-Token: ' got' (ID: 2684), Prob: 0.0000
-Token: ' think' (ID: 1744), Prob: 0.0000
-Token: ' okay' (ID: 16910), Prob: 0.0000
-Token: ' someone' (ID: 4325), Prob: 0.0000
-Token: ' student' (ID: 5458), Prob: 0.0000
-Token: ' getting' (ID: 3709), Prob: 0.0000
-Token: ' wait' (ID: 3783), Prob: 0.0000
-Token: ' looking' (ID: 3330), Prob: 0.0000
-Token: ' since' (ID: 2474), Prob: 0.0000
-Token: ' get' (ID: 633), Prob: 0.0000
-Token: ' users' (ID: 3847), Prob: 0.0000
-Token: ' interesting' (ID: 7040), Prob: 0.0000
-Token: ' young' (ID: 3908), Prob: 0.0000
-Token: ' girl' (ID: 3743), Prob: 0.0000
-Token: ' focusing' (ID: 21080), Prob: 0.0000
-Token: ' two' (ID: 1378), Prob: 0.0000
-Token: ' creating' (ID: 6825), Prob: 0.0000
-Token: ' perhaps' (ID: 8365), Prob: 0.0000
-Token: ' readers' (ID: 12726), Prob: 0.0000
-Token: ' imagine' (ID: 12793), Prob: 0.0000
-Token: ' focus' (ID: 5244), Prob: 0.0000
-Token: ' new' (ID: 501), Prob: 0.0000
-Token: 'let' (ID: 1149), Prob: 0.0000
-Token: ' given' (ID: 2661), Prob: 0.0000
-Token: ' following' (ID: 2701), Prob: 0.0000
-Token: ' well' (ID: 1632), Prob: 0.0000
-Token: ' starts' (ID: 8471), Prob: 0.0000
-Token: ' put' (ID: 2182), Prob: 0.0000
-Token: ' lets' (ID: 15354), Prob: 0.0000
-Token: ' time' (ID: 882), Prob: 0.0000
-Token: ' kids' (ID: 6837), Prob: 0.0000
-Token: ' small' (ID: 2613), Prob: 0.0000
-Token: ' Emily' (ID: 34166), Prob: 0.0000
-Token: ' customer' (ID: 6002), Prob: 0.0000
-Token: ' hmm' (ID: 87501), Prob: 0.0000
-Token: ' Scott' (ID: 9815), Prob: 0.0000
-Token: ' Emma' (ID: 34935), Prob: 0.0000
-Token: ' something' (ID: 2494), Prob: 0.0000
-Token: ' making' (ID: 3259), Prob: 0.0000
-Token: ' letting' (ID: 20194), Prob: 0.0000
-Token: ' suppose' (ID: 22477), Prob: 0.0000
-Token: ' tell' (ID: 3291), Prob: 0.0000
-Token: ' developing' (ID: 11220), Prob: 0.0000
-Token: ' fans' (ID: 7211), Prob: 0.0000
-Token: ' beginner' (ID: 48948), Prob: 0.0000
-Token: ' George' (ID: 9857), Prob: 0.0000
-Token: ' John' (ID: 3757), Prob: 0.0000
-Token: ' writing' (ID: 4378), Prob: 0.0000
-Token: ' seems' (ID: 4977), Prob: 0.0000
-Token: ' parents' (ID: 6562), Prob: 0.0000
+Token: ' same' (ID: 1852), Prob: 0.4062
+Token: ' following' (ID: 2701), Prob: 0.0259
+Token: ' early' (ID: 4124), Prob: 0.0259
+Token: ' summer' (ID: 7324), Prob: 0.0228
+Token: ' year' (ID: 1042), Prob: 0.0178
+Token: ' late' (ID: 3309), Prob: 0.0157
+Token: ' UK' (ID: 6424), Prob: 0.0157
+Token: ' mid' (ID: 5099), Prob: 0.0095
+Token: ' series' (ID: 4013), Prob: 0.0074
+Token: ' spring' (ID: 10464), Prob: 0.0074
+Token: ' autumn' (ID: 41674), Prob: 0.0074
+Token: ' play' (ID: 1486), Prob: 0.0045
+Token: ' television' (ID: 12425), Prob: 0.0045
+Token: ' United' (ID: 3639), Prob: 0.0035
+Token: ' fall' (ID: 4399), Prob: 0.0035
+Token: ' role' (ID: 3476), Prob: 0.0031
+Token: ' winter' (ID: 12406), Prob: 0.0031
+Token: ' film' (ID: 4531), Prob: 0.0027
+Token: ' BBC' (ID: 18096), Prob: 0.0024
+Token: ' British' (ID: 7855), Prob: 0.0021
+Token: ' TV' (ID: 5883), Prob: 0.0017
+Token: ' episode' (ID: 9234), Prob: 0.0017
+Token: ' season' (ID: 3200), Prob: 0.0015
+Token: ' past' (ID: 3267), Prob: 0.0015
+Token: ' show' (ID: 1473), Prob: 0.0013
+Token: ' years' (ID: 1635), Prob: 0.0010
+Token: ' subsequent' (ID: 17420), Prob: 0.0010
+Token: ' final' (ID: 1590), Prob: 0.0009
+Token: ' later' (ID: 2937), Prob: 0.0009
+Token: ' comedy' (ID: 22358), Prob: 0.0009
+Token: ' Spring' (ID: 12252), Prob: 0.0008
+Token: ' period' (ID: 4168), Prob: 0.0007
+Token: ' academic' (ID: 14250), Prob: 0.0007
+Token: ' first' (ID: 1156), Prob: 0.0006
+Token: ' next' (ID: 1790), Prob: 0.0006
+Token: ' English' (ID: 6364), Prob: 0.0006
+Token: ' latter' (ID: 15271), Prob: 0.0006
+Token: ' run' (ID: 1598), Prob: 0.0005
+Token: ' end' (ID: 835), Prob: 0.0005
+Token: ' movie' (ID: 5700), Prob: 0.0005
+Token: ' London' (ID: 7148), Prob: 0.0004
+Token: ' meantime' (ID: 32853), Prob: 0.0004
+Token: ' theatre' (ID: 33496), Prob: 0.0004
+Token: ' aftermath' (ID: 39596), Prob: 0.0004
+Token: ' sitcom' (ID: 80366), Prob: 0.0004
+Token: ' Fall' (ID: 14785), Prob: 0.0004
+Token: ' new' (ID: 501), Prob: 0.0003
+Token: ' last' (ID: 1537), Prob: 0.0003
+Token: ' US' (ID: 2274), Prob: 0.0003
+Token: ' beginning' (ID: 7167), Prob: 0.0003
+Token: ' lead' (ID: 2990), Prob: 0.0003
+Token: ' twenty' (ID: 17073), Prob: 0.0003
+Token: ' programme' (ID: 18136), Prob: 0.0003
+Token: ' Summer' (ID: 18836), Prob: 0.0003
+Token: ' course' (ID: 3308), Prob: 0.0003
+Token: ' middle' (ID: 6149), Prob: 0.0003
+Token: ' musical' (ID: 17795), Prob: 0.0003
+Token: ' drama' (ID: 19584), Prob: 0.0003
+Token: ' Winter' (ID: 20101), Prob: 0.0003
+Token: ' future' (ID: 3853), Prob: 0.0002
+Token: ' financial' (ID: 5896), Prob: 0.0002
+Token: ' January' (ID: 6058), Prob: 0.0002
+Token: ' cast' (ID: 6311), Prob: 0.0002
+Token: ' Play' (ID: 7054), Prob: 0.0002
+Token: ' wake' (ID: 15156), Prob: 0.0002
+Token: ' Australian' (ID: 13369), Prob: 0.0002
+Token: ' interim' (ID: 40553), Prob: 0.0002
+Token: ' two' (ID: 1378), Prob: 0.0002
+Token: ' second' (ID: 2086), Prob: 0.0002
+Token: ' West' (ID: 4312), Prob: 0.0002
+Token: ' decade' (ID: 13212), Prob: 0.0002
+Token: ' week' (ID: 2003), Prob: 0.0001
+Token: ' third' (ID: 4843), Prob: 0.0001
+Token: ' radio' (ID: 8887), Prob: 0.0001
+Token: ' nin' (ID: 19550), Prob: 0.0001
+Token: ' midst' (ID: 34346), Prob: 0.0001
+Token: ' sequel' (ID: 34761), Prob: 0.0001
+Token: ' U' (ID: 547), Prob: 0.0001
+Token: ' time' (ID: 882), Prob: 0.0001
+Token: ' current' (ID: 1482), Prob: 0.0001
+Token: ' follow' (ID: 1795), Prob: 0.0001
+Token: ' USA' (ID: 7279), Prob: 0.0001
+Token: ' plays' (ID: 11088), Prob: 0.0001
+Token: ' East' (ID: 6326), Prob: 0.0001
+Token: ' ITV' (ID: 93355), Prob: 0.0001
+Token: ' off' (ID: 1007), Prob: 0.0001
+Token: ' game' (ID: 1809), Prob: 0.0001
+Token: ' press' (ID: 3493), Prob: 0.0001
+Token: ' acting' (ID: 15358), Prob: 0.0001
 
 == Ranked Concepts (Clusters) ==
-Rank 1 | Centroid: ' let' | Score: 0.3809
-  Tokens: [' let', ' Let', 'let', ' lets', ' letting']
-Rank 2 | Centroid: ' starts' | Score: 0.0004
-  Tokens: [' starting', ' start', ' starts']
-Rank 3 | Centroid: ' two' | Score: 0.0001
-  Tokens: [' first', ' two', ' new', ' given', ' following', ' well', ' time', ' small']
-Rank 4 | Centroid: ' perhaps' | Score: 0.0001
-  Tokens: [' maybe', ' okay', ' someone', ' interesting', ' perhaps', ' hmm', ' something', ' seems']
-Rank 5 | Centroid: ' user' | Score: 0.0001
-  Tokens: [' user', ' users', ' customer']
-Rank 6 | Centroid: ' students' | Score: 0.0000
-  Tokens: [' students', ' student', ' readers', ' fans']
-Rank 7 | Centroid: ' need' | Score: 0.0000
-  Tokens: [' need', ' wait']
-Rank 8 | Centroid: ' creating' | Score: 0.0000
-  Tokens: [' building', ' looking', ' creating', ' making', ' developing', ' writing']
-Rank 9 | Centroid: ' get' | Score: 0.0000
-  Tokens: [' got', ' getting', ' get']
-Rank 10 | Centroid: ' putting' | Score: 0.0000
-  Tokens: [' putting', ' put']
-Rank 11 | Centroid: ' imagine' | Score: 0.0000
-  Tokens: [' think', ' imagine', ' suppose']
-Rank 12 | Centroid: ' story' | Score: 0.0000
-  Tokens: [' story', ' tell']
-Rank 13 | Centroid: ' kids' | Score: 0.0000
-  Tokens: [' young', ' girl', ' kids', ' parents']
-Rank 14 | Centroid: ' John' | Score: 0.0000
-  Tokens: [' Emily', ' Scott', ' Emma', ' George', ' John']
-Rank 15 | Centroid: ' focusing' | Score: 0.0000
-  Tokens: [' focusing', ' focus']
-Rank 16 | Centroid: ' since' | Score: 0.0000
-  Tokens: [' since']
-Rank 17 | Centroid: ' beginner' | Score: 0.0000
-  Tokens: [' beginner']
+Rank 1 | Centroid: ' second' | Score: 0.4082
+  Tokens: [' same', ' first', ' last', ' second', ' third']
+Rank 2 | Centroid: ' winter' | Score: 0.0422
+  Tokens: [' summer', ' spring', ' autumn', ' winter', ' Spring', ' Summer', ' Winter', ' January']
+Rank 3 | Centroid: ' early' | Score: 0.0415
+  Tokens: [' early', ' late']
+Rank 4 | Centroid: ' following' | Score: 0.0266
+  Tokens: [' following', ' next', ' follow']
+Rank 5 | Centroid: ' UK' | Score: 0.0232
+  Tokens: [' UK', ' United', ' British', ' English', ' London', ' US', ' Australian', ' U', ' USA']
+Rank 6 | Centroid: ' year' | Score: 0.0212
+  Tokens: [' year', ' season', ' years', ' period', ' decade', ' week']
+Rank 7 | Centroid: ' mid' | Score: 0.0098
+  Tokens: [' mid', ' middle']
+Rank 8 | Centroid: ' television' | Score: 0.0089
+  Tokens: [' television', ' BBC', ' TV', ' radio', ' ITV']
+Rank 9 | Centroid: ' play' | Score: 0.0081
+  Tokens: [' play', ' role', ' Play', ' plays', ' game']
+Rank 10 | Centroid: ' series' | Score: 0.0077
+  Tokens: [' series', ' course']
+Rank 11 | Centroid: ' movie' | Score: 0.0074
+  Tokens: [' film', ' episode', ' comedy', ' movie', ' theatre', ' sitcom', ' programme', ' musical', ' drama']
+Rank 12 | Centroid: ' two' | Score: 0.0043
+  Tokens: [' past', ' final', ' run', ' end', ' new', ' two', ' time', ' current', ' off', ' press']
+Rank 13 | Centroid: ' fall' | Score: 0.0039
+  Tokens: [' fall', ' Fall']
+Rank 14 | Centroid: ' later' | Score: 0.0027
+  Tokens: [' subsequent', ' later', ' latter', ' future']
+Rank 15 | Centroid: ' show' | Score: 0.0019
+  Tokens: [' show', ' lead', ' cast', ' acting']
+Rank 16 | Centroid: ' meantime' | Score: 0.0011
+  Tokens: [' meantime', ' beginning', ' interim', ' midst']
+Rank 17 | Centroid: ' academic' | Score: 0.0009
+  Tokens: [' academic', ' financial']
+Rank 18 | Centroid: ' aftermath' | Score: 0.0008
+  Tokens: [' aftermath', ' wake', ' sequel']
+Rank 19 | Centroid: ' twenty' | Score: 0.0004
+  Tokens: [' twenty', ' nin']
+Rank 20 | Centroid: ' West' | Score: 0.0003
+  Tokens: [' West', ' East']
 
 **Chosen Concept:** Rank 1

@@ -1,57 +1,114 @@
 --- Step 97 Log ---
 
 == Filtered Candidates ==
-Token: ' examples' (ID: 10295), Prob: 0.0001
-Token: ' possible' (ID: 3204), Prob: 0.0000
-Token: ' existing' (ID: 6350), Prob: 0.0000
-Token: ' details' (ID: 3565), Prob: 0.0000
-Token: '—the' (ID: 21677), Prob: 0.0000
-Token: '—if' (ID: 89763), Prob: 0.0000
-Token: ' structure' (ID: 5944), Prob: 0.0000
-Token: ' example' (ID: 3110), Prob: 0.0000
-Token: ' colors' (ID: 7987), Prob: 0.0000
-Token: ' something' (ID: 2494), Prob: 0.0000
-Token: ' specific' (ID: 3151), Prob: 0.0000
-Token: ' words' (ID: 4244), Prob: 0.0000
-Token: ' possibilities' (ID: 23607), Prob: 0.0000
-Token: ' elements' (ID: 5424), Prob: 0.0000
-Token: ' directions' (ID: 17961), Prob: 0.0000
-Token: ' specifics' (ID: 48349), Prob: 0.0000
-Token: ' options' (ID: 2606), Prob: 0.0000
-Token: ' emotions' (ID: 21261), Prob: 0.0000
-Token: ' ideas' (ID: 6708), Prob: 0.0000
-Token: ' available' (ID: 2500), Prob: 0.0000
-Token: ' characters' (ID: 5766), Prob: 0.0000
-Token: '—an' (ID: 84266), Prob: 0.0000
-Token: ' sample' (ID: 6077), Prob: 0.0000
-Token: ' maybe' (ID: 7196), Prob: 0.0000
+Token: ' series' (ID: 4013), Prob: 0.9961
+Token: ' television' (ID: 12425), Prob: 0.0007
+Token: ' TV' (ID: 5883), Prob: 0.0004
+Token: ' Series' (ID: 11131), Prob: 0.0001
+Token: ' sitcom' (ID: 80366), Prob: 0.0001
+Token: ' radio' (ID: 8887), Prob: 0.0001
+Token: ' show' (ID: 1473), Prob: 0.0000
+Token: ' programme' (ID: 18136), Prob: 0.0000
+Token: ' Radio' (ID: 13484), Prob: 0.0000
+Token: ' program' (ID: 2025), Prob: 0.0000
+Token: ' comedy' (ID: 22358), Prob: 0.0000
+Token: 'series' (ID: 19880), Prob: 0.0000
+Token: ' drama' (ID: 19584), Prob: 0.0000
+Token: ' Television' (ID: 40345), Prob: 0.0000
+Token: ' serial' (ID: 6146), Prob: 0.0000
+Token: ' and' (ID: 323), Prob: 0.0000
+Token: ' production' (ID: 5670), Prob: 0.0000
+Token: ''s' (ID: 594), Prob: 0.0000
+Token: ' One' (ID: 3776), Prob: 0.0000
+Token: ' soap' (ID: 26785), Prob: 0.0000
+Token: ' The' (ID: 576), Prob: 0.0000
+Token: ' role' (ID: 3476), Prob: 0.0000
+Token: ' variety' (ID: 8045), Prob: 0.0000
+Token: ' serie' (ID: 32878), Prob: 0.0000
+Token: ' news' (ID: 3669), Prob: 0.0000
+Token: ' broadcast' (ID: 12899), Prob: 0.0000
+Token: ' crime' (ID: 9778), Prob: 0.0000
+Token: ' the' (ID: 279), Prob: 0.0000
+Token: ' channel' (ID: 5496), Prob: 0.0000
+Token: ' reality' (ID: 8729), Prob: 0.0000
+Token: ' film' (ID: 4531), Prob: 0.0000
+Token: ' play' (ID: 1486), Prob: 0.0000
+Token: ' season' (ID: 3200), Prob: 0.0000
+Token: ' police' (ID: 4282), Prob: 0.0000
+Token: ' National' (ID: 5055), Prob: 0.0000
+Token: ' News' (ID: 5398), Prob: 0.0000
+Token: ' theatre' (ID: 33496), Prob: 0.0000
+Token: ' documentary' (ID: 24954), Prob: 0.0000
+Token: ' sketch' (ID: 25529), Prob: 0.0000
+Token: ' Channel' (ID: 13434), Prob: 0.0000
+Token: ' service' (ID: 2473), Prob: 0.0000
+Token: ' World' (ID: 4337), Prob: 0.0000
+Token: ' feature' (ID: 4565), Prob: 0.0000
+Token: ' version' (ID: 2319), Prob: 0.0000
+Token: ' single' (ID: 3175), Prob: 0.0000
+Token: ' one' (ID: 825), Prob: 0.0000
+Token: ' mini' (ID: 13420), Prob: 0.0000
+Token: ' BBC' (ID: 18096), Prob: 0.0000
+Token: ' team' (ID: 2083), Prob: 0.0000
+Token: ' interview' (ID: 7128), Prob: 0.0000
+Token: ' of' (ID: 315), Prob: 0.0000
+Token: ' short' (ID: 2805), Prob: 0.0000
+Token: ' Two' (ID: 9043), Prob: 0.0000
+Token: ' franchise' (ID: 19024), Prob: 0.0000
+Token: ' political' (ID: 4948), Prob: 0.0000
+Token: ' tele' (ID: 7963), Prob: 0.0000
+Token: ' spin' (ID: 12616), Prob: 0.0000
+Token: '1' (ID: 16), Prob: 0.0000
+Token: ' national' (ID: 5313), Prob: 0.0000
+Token: ' Royal' (ID: 16194), Prob: 0.0000
+Token: ' tv' (ID: 11086), Prob: 0.0000
+Token: '-series' (ID: 56332), Prob: 0.0000
+Token: ' min' (ID: 1308), Prob: 0.0000
+Token: ' two' (ID: 1378), Prob: 0.0000
+Token: ' station' (ID: 8056), Prob: 0.0000
+Token: ' weekly' (ID: 17059), Prob: 0.0000
+Token: ' Prime' (ID: 12518), Prob: 0.0000
+Token: ' studio' (ID: 14029), Prob: 0.0000
+Token: ' satire' (ID: 81395), Prob: 0.0000
+Token: ' hit' (ID: 4201), Prob: 0.0000
+Token: ' Three' (ID: 14513), Prob: 0.0000
+Token: ' in' (ID: 304), Prob: 0.0000
+Token: ' programs' (ID: 7468), Prob: 0.0000
+Token: ' televis' (ID: 89965), Prob: 0.0000
+Token: ' charity' (ID: 22846), Prob: 0.0000
+Token: ' programmes' (ID: 37637), Prob: 0.0000
+Token: '.series' (ID: 48649), Prob: 0.0000
+Token: '2' (ID: 17), Prob: 0.0000
+Token: ' Play' (ID: 7054), Prob: 0.0000
 
 == Ranked Concepts (Clusters) ==
-Rank 1 | Centroid: ' examples' | Score: 0.0001
-  Tokens: [' examples', ' example']
-Rank 2 | Centroid: ' possible' | Score: 0.0000
-  Tokens: [' possible', ' maybe']
-Rank 3 | Centroid: '—the' | Score: 0.0000
-  Tokens: ['—the', '—if', '—an']
-Rank 4 | Centroid: ' specifics' | Score: 0.0000
-  Tokens: [' details', ' specific', ' specifics']
-Rank 5 | Centroid: ' existing' | Score: 0.0000
-  Tokens: [' existing', ' available']
-Rank 6 | Centroid: ' characters' | Score: 0.0000
-  Tokens: [' words', ' elements', ' characters']
-Rank 7 | Centroid: ' structure' | Score: 0.0000
-  Tokens: [' structure']
-Rank 8 | Centroid: ' possibilities' | Score: 0.0000
-  Tokens: [' possibilities', ' options']
-Rank 9 | Centroid: ' colors' | Score: 0.0000
-  Tokens: [' colors']
-Rank 10 | Centroid: ' emotions' | Score: 0.0000
-  Tokens: [' emotions', ' ideas']
-Rank 11 | Centroid: ' something' | Score: 0.0000
-  Tokens: [' something']
-Rank 12 | Centroid: ' directions' | Score: 0.0000
-  Tokens: [' directions']
-Rank 13 | Centroid: ' sample' | Score: 0.0000
-  Tokens: [' sample']
+Rank 1 | Centroid: ' series' | Score: 0.9961
+  Tokens: [' series', ' Series', 'series', ' serial', ' serie', '-series', '.series']
+Rank 2 | Centroid: ' television' | Score: 0.0011
+  Tokens: [' television', ' TV', ' Television', ' tele', ' tv', ' televis']
+Rank 3 | Centroid: ' comedy' | Score: 0.0002
+  Tokens: [' sitcom', ' comedy', ' drama', ' soap', ' film', ' theatre', ' documentary', ' sketch', ' studio', ' satire']
+Rank 4 | Centroid: ' radio' | Score: 0.0001
+  Tokens: [' radio', ' Radio', ' broadcast', ' BBC']
+Rank 5 | Centroid: ' the' | Score: 0.0001
+  Tokens: [' show', ' and', "'s", ' The', ' the', ' single', ' of', '1', ' in', '2']
+Rank 6 | Centroid: ' programme' | Score: 0.0001
+  Tokens: [' programme', ' program', ' programs', ' programmes']
+Rank 7 | Centroid: ' mini' | Score: 0.0000
+  Tokens: [' production', ' service', ' feature', ' version', ' mini', ' team', ' short', ' min', ' hit']
+Rank 8 | Centroid: ' Two' | Score: 0.0000
+  Tokens: [' One', ' one', ' Two', ' two', ' Three']
+Rank 9 | Centroid: ' police' | Score: 0.0000
+  Tokens: [' crime', ' police', ' interview', ' political', ' spin', ' weekly', ' charity']
+Rank 10 | Centroid: ' variety' | Score: 0.0000
+  Tokens: [' variety', ' reality', ' franchise']
+Rank 11 | Centroid: ' channel' | Score: 0.0000
+  Tokens: [' channel', ' season', ' Channel', ' station']
+Rank 12 | Centroid: ' Play' | Score: 0.0000
+  Tokens: [' role', ' play', ' Play']
+Rank 13 | Centroid: ' National' | Score: 0.0000
+  Tokens: [' National', ' World', ' national', ' Royal', ' Prime']
+Rank 14 | Centroid: ' news' | Score: 0.0000
+  Tokens: [' news', ' News']
 
 **Chosen Concept:** Rank 1

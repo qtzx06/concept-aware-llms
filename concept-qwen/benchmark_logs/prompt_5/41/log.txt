@@ -1,104 +1,111 @@
 --- Step 41 Log ---
 
 == Filtered Candidates ==
-Token: '-step' (ID: 29208), Prob: 1.0000
-Token: ' step' (ID: 3019), Prob: 0.0004
-Token: ' Step' (ID: 14822), Prob: 0.0000
-Token: '_step' (ID: 11946), Prob: 0.0000
-Token: 'Step' (ID: 8304), Prob: 0.0000
-Token: '-star' (ID: 20680), Prob: 0.0000
-Token: '-ste' (ID: 96326), Prob: 0.0000
-Token: '-st' (ID: 5477), Prob: 0.0000
-Token: 'step' (ID: 9520), Prob: 0.0000
-Token: '(step' (ID: 38436), Prob: 0.0000
-Token: '.Step' (ID: 68402), Prob: 0.0000
-Token: '.step' (ID: 21465), Prob: 0.0000
-Token: '-th' (ID: 7563), Prob: 0.0000
-Token: '-se' (ID: 7806), Prob: 0.0000
-Token: '-start' (ID: 18935), Prob: 0.0000
-Token: '_STEP' (ID: 39968), Prob: 0.0000
-Token: '-str' (ID: 41628), Prob: 0.0000
-Token: '-store' (ID: 33252), Prob: 0.0000
-Token: ' steps' (ID: 7354), Prob: 0.0000
-Token: '-one' (ID: 18589), Prob: 0.0000
-Token: '-life' (ID: 25843), Prob: 0.0000
-Token: ' Steph' (ID: 40559), Prob: 0.0000
-Token: ' STEP' (ID: 48356), Prob: 0.0000
-Token: '-day' (ID: 11228), Prob: 0.0000
-Token: '	step' (ID: 77093), Prob: 0.0000
-Token: '-six' (ID: 54441), Prob: 0.0000
-Token: '-stop' (ID: 41211), Prob: 0.0000
-Token: '-two' (ID: 37402), Prob: 0.0000
-Token: '-second' (ID: 43863), Prob: 0.0000
-Token: '-third' (ID: 29177), Prob: 0.0000
-Token: '-span' (ID: 64060), Prob: 0.0000
-Token: '-eight' (ID: 69715), Prob: 0.0000
-Token: '-four' (ID: 41017), Prob: 0.0000
-Token: '-be' (ID: 15150), Prob: 0.0000
-Token: '-five' (ID: 35299), Prob: 0.0000
-Token: '-state' (ID: 20733), Prob: 0.0000
-Token: '-three' (ID: 48393), Prob: 0.0000
-Token: '-so' (ID: 33019), Prob: 0.0000
-Token: '-seat' (ID: 78081), Prob: 0.0000
-Token: ' stepped' (ID: 24326), Prob: 0.0000
-Token: '-the' (ID: 10603), Prob: 0.0000
-Token: '-story' (ID: 45099), Prob: 0.0000
-Token: '-def' (ID: 28799), Prob: 0.0000
-Token: 'STEP' (ID: 50389), Prob: 0.0000
-Token: '-last' (ID: 60515), Prob: 0.0000
-Token: '-tw' (ID: 97562), Prob: 0.0000
-Token: '-us' (ID: 25682), Prob: 0.0000
-Token: '-care' (ID: 40106), Prob: 0.0000
-Token: '-shot' (ID: 63530), Prob: 0.0000
-Token: '-stars' (ID: 96906), Prob: 0.0000
-Token: '-stage' (ID: 50156), Prob: 0.0000
-Token: '-town' (ID: 82903), Prob: 0.0000
-Token: '-grade' (ID: 40227), Prob: 0.0000
-Token: '-sync' (ID: 65034), Prob: 0.0000
-Token: '-sh' (ID: 7514), Prob: 0.0000
-Token: '-date' (ID: 18413), Prob: 0.0000
-Token: '-school' (ID: 34689), Prob: 0.0000
-Token: '-exp' (ID: 18376), Prob: 0.0000
-Token: '-being' (ID: 32751), Prob: 0.0000
-Token: '-click' (ID: 28118), Prob: 0.0000
-Token: '-in' (ID: 3419), Prob: 0.0000
+Token: ' the' (ID: 279), Prob: 0.0520
+Token: ' a' (ID: 264), Prob: 0.0043
+Token: ' March' (ID: 5470), Prob: 0.0023
+Token: ' January' (ID: 6058), Prob: 0.0020
+Token: ' April' (ID: 5813), Prob: 0.0016
+Token: ' early' (ID: 4124), Prob: 0.0012
+Token: ' addition' (ID: 5256), Prob: 0.0012
+Token: ' July' (ID: 5768), Prob: 0.0012
+Token: ' November' (ID: 6702), Prob: 0.0012
+Token: ' May' (ID: 3217), Prob: 0.0010
+Token: ' late' (ID: 3309), Prob: 0.0010
+Token: ' June' (ID: 5534), Prob: 0.0010
+Token: ' October' (ID: 6527), Prob: 0.0008
+Token: ' February' (ID: 7400), Prob: 0.0008
+Token: ' September' (ID: 6122), Prob: 0.0007
+Token: ' August' (ID: 6156), Prob: 0.0007
+Token: ' December' (ID: 6652), Prob: 0.0006
+Token: ' that' (ID: 429), Prob: 0.0005
+Token: ' his' (ID: 806), Prob: 0.0003
+Token: ' an' (ID: 458), Prob: 0.0003
+Token: ' this' (ID: 419), Prob: 0.0002
+Token: ' another' (ID: 2441), Prob: 0.0002
+Token: ' autumn' (ID: 41674), Prob: 0.0001
+Token: ' mid' (ID: 5099), Prob: 0.0001
+Token: ' The' (ID: 576), Prob: 0.0000
+Token: ' one' (ID: 825), Prob: 0.0000
+Token: ' later' (ID: 2937), Prob: 0.0000
+Token: ' BBC' (ID: 18096), Prob: 0.0000
+Token: ' which' (ID: 892), Prob: 0.0000
+Token: ' summer' (ID: 7324), Prob: 0.0000
+Token: ' London' (ID: 7148), Prob: 0.0000
+Token: ' and' (ID: 323), Prob: 0.0000
+Token: ' spring' (ID: 10464), Prob: 0.0000
+Token: ' what' (ID: 1128), Prob: 0.0000
+Token: ' contrast' (ID: 12872), Prob: 0.0000
+Token: '2' (ID: 17), Prob: 0.0000
+Token: ' Spring' (ID: 12252), Prob: 0.0000
+Token: ' television' (ID: 12425), Prob: 0.0000
+Token: ' order' (ID: 1973), Prob: 0.0000
+Token: ' British' (ID: 7855), Prob: 0.0000
+Token: ' some' (ID: 1045), Prob: 0.0000
+Token: ' fact' (ID: 2097), Prob: 0.0000
+Token: ' subsequent' (ID: 17420), Prob: 0.0000
+Token: ' collaboration' (ID: 20031), Prob: 0.0000
+Token: ' its' (ID: 1181), Prob: 0.0000
+Token: ' England' (ID: 9448), Prob: 0.0000
+Token: ' other' (ID: 1008), Prob: 0.0000
+Token: ' Britain' (ID: 13224), Prob: 0.0000
+Token: ' fall' (ID: 4399), Prob: 0.0000
+Token: ' two' (ID: 1378), Prob: 0.0000
+Token: ' each' (ID: 1817), Prob: 0.0000
+Token: ' A' (ID: 362), Prob: 0.0000
+Token: ' B' (ID: 425), Prob: 0.0000
+Token: ' or' (ID: 476), Prob: 0.0000
+Token: ' Autumn' (ID: 59802), Prob: 0.0000
+Token: ' these' (ID: 1493), Prob: 0.0000
+Token: ' recent' (ID: 3213), Prob: 0.0000
+Token: ' twenty' (ID: 17073), Prob: 0.0000
+Token: ' Early' (ID: 22752), Prob: 0.0000
+Token: ' more' (ID: 803), Prob: 0.0000
+Token: ' response' (ID: 2033), Prob: 0.0000
+Token: ' season' (ID: 3200), Prob: 0.0000
+Token: ' partnership' (ID: 15305), Prob: 0.0000
+Token: ' France' (ID: 9625), Prob: 0.0000
+Token: ' Season' (ID: 14263), Prob: 0.0000
+Token: ' around' (ID: 2163), Prob: 0.0000
+Token: ' earlier' (ID: 6788), Prob: 0.0000
+Token: ' Australia' (ID: 8330), Prob: 0.0000
+Token: ' both' (ID: 2176), Prob: 0.0000
+Token: ' spite' (ID: 33681), Prob: 0.0000
+Token: ' Summer' (ID: 18836), Prob: 0.0000
+Token: ' those' (ID: 1846), Prob: 0.0000
+Token: ' all' (ID: 678), Prob: 0.0000
+Token: ' Canada' (ID: 6864), Prob: 0.0000
+Token: ' winter' (ID: 12406), Prob: 0.0000
+Token: ' conjunction' (ID: 31446), Prob: 0.0000
+Token: ' New' (ID: 1532), Prob: 0.0000
+Token: ' short' (ID: 2805), Prob: 0.0000
+Token: ' In' (ID: 758), Prob: 0.0000
+Token: ' Q' (ID: 1207), Prob: 0.0000
 
 == Ranked Concepts (Clusters) ==
-Rank 1 | Centroid: ' Step' | Score: 1.0000
-  Tokens: ['-step', ' step', ' Step', '_step', 'Step', 'step', '(step', '.Step', '.step', '_STEP', ' steps', ' STEP', '\tstep', ' stepped', 'STEP']
-Rank 2 | Centroid: '-st' | Score: 0.0000
-  Tokens: ['-st', '-th', '-se', '-str', '-so', '-the', '-sh', '-in']
-Rank 3 | Centroid: '-star' | Score: 0.0000
-  Tokens: ['-star', '-stars']
-Rank 4 | Centroid: '-ste' | Score: 0.0000
-  Tokens: ['-ste', ' Steph']
-Rank 5 | Centroid: '-three' | Score: 0.0000
-  Tokens: ['-one', '-six', '-two', '-eight', '-four', '-five', '-three']
-Rank 6 | Centroid: '-start' | Score: 0.0000
-  Tokens: ['-start', '-stop']
-Rank 7 | Centroid: '-store' | Score: 0.0000
-  Tokens: ['-store', '-story']
-Rank 8 | Centroid: '-life' | Score: 0.0000
-  Tokens: ['-life', '-care', '-being']
-Rank 9 | Centroid: '-day' | Score: 0.0000
-  Tokens: ['-day', '-date']
-Rank 10 | Centroid: '-second' | Score: 0.0000
-  Tokens: ['-second', '-third', '-last']
-Rank 11 | Centroid: '-span' | Score: 0.0000
-  Tokens: ['-span']
-Rank 12 | Centroid: '-shot' | Score: 0.0000
-  Tokens: ['-seat', '-shot', '-click']
-Rank 13 | Centroid: '-state' | Score: 0.0000
-  Tokens: ['-state', '-stage']
-Rank 14 | Centroid: '-exp' | Score: 0.0000
-  Tokens: ['-def', '-tw', '-exp']
-Rank 15 | Centroid: '-be' | Score: 0.0000
-  Tokens: ['-be']
-Rank 16 | Centroid: '-us' | Score: 0.0000
-  Tokens: ['-us', '-sync']
-Rank 17 | Centroid: '-town' | Score: 0.0000
-  Tokens: ['-town', '-school']
-Rank 18 | Centroid: '-grade' | Score: 0.0000
-  Tokens: ['-grade']
+Rank 1 | Centroid: ' the' | Score: 0.0576
+  Tokens: [' the', ' a', ' that', ' his', ' an', ' this', ' one', ' which', ' what', ' some', ' its', ' two', ' each', ' these', ' more', ' around', ' both', ' those', ' all']
+Rank 2 | Centroid: ' February' | Score: 0.0140
+  Tokens: [' March', ' January', ' April', ' July', ' November', ' May', ' June', ' October', ' February', ' September', ' August', ' December']
+Rank 3 | Centroid: ' early' | Score: 0.0022
+  Tokens: [' early', ' late', ' Early', ' earlier']
+Rank 4 | Centroid: ' addition' | Score: 0.0013
+  Tokens: [' addition', ' contrast', ' order', ' fact', ' spite', ' short']
+Rank 5 | Centroid: ' another' | Score: 0.0002
+  Tokens: [' another', ' other']
+Rank 6 | Centroid: ' autumn' | Score: 0.0001
+  Tokens: [' autumn', ' summer', ' spring', ' Spring', ' fall', ' Autumn', ' Summer', ' winter']
+Rank 7 | Centroid: ' The' | Score: 0.0001
+  Tokens: [' The', ' and', '2', ' A', ' B', ' or', ' New', ' In', ' Q']
+Rank 8 | Centroid: ' Britain' | Score: 0.0001
+  Tokens: [' BBC', ' London', ' British', ' England', ' Britain', ' France', ' Australia', ' Canada']
+Rank 9 | Centroid: ' mid' | Score: 0.0001
+  Tokens: [' mid']
+Rank 10 | Centroid: ' subsequent' | Score: 0.0000
+  Tokens: [' later', ' subsequent', ' recent']
+Rank 11 | Centroid: ' collaboration' | Score: 0.0000
+  Tokens: [' television', ' collaboration', ' twenty', ' response', ' partnership', ' conjunction']
+Rank 12 | Centroid: ' season' | Score: 0.0000
+  Tokens: [' season', ' Season']
 
 **Chosen Concept:** Rank 1

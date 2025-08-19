@@ -1,163 +1,145 @@
 --- Step 51 Log ---
 
 == Filtered Candidates ==
-Token: ' tower' (ID: 21271), Prob: 0.2227
-Token: ' bridge' (ID: 14164), Prob: 0.1533
-Token: ' house' (ID: 3753), Prob: 0.1191
-Token: ' tree' (ID: 4916), Prob: 0.1050
-Token: ' model' (ID: 1614), Prob: 0.0364
-Token: ' bird' (ID: 11958), Prob: 0.0234
-Token: ' toy' (ID: 21357), Prob: 0.0234
-Token: ' castle' (ID: 32584), Prob: 0.0234
-Token: ' fort' (ID: 11845), Prob: 0.0208
-Token: ' small' (ID: 2613), Prob: 0.0194
-Token: ' robot' (ID: 12305), Prob: 0.0126
-Token: ' rocket' (ID: 24306), Prob: 0.0111
-Token: ' structure' (ID: 5944), Prob: 0.0098
-Token: ' wooden' (ID: 22360), Prob: 0.0098
-Token: ' kite' (ID: 98119), Prob: 0.0092
-Token: ' dragon' (ID: 25105), Prob: 0.0076
-Token: ' spaceship' (ID: 84842), Prob: 0.0071
-Token: ' sand' (ID: 9278), Prob: 0.0063
-Token: ' pyramid' (ID: 46797), Prob: 0.0059
-Token: ' mountain' (ID: 16301), Prob: 0.0052
-Token: ' wall' (ID: 7002), Prob: 0.0049
-Token: ' new' (ID: 501), Prob: 0.0046
-Token: ' boat' (ID: 15328), Prob: 0.0041
-Token: ' box' (ID: 3745), Prob: 0.0036
-Token: ' fire' (ID: 3940), Prob: 0.0036
-Token: ' doll' (ID: 7649), Prob: 0.0028
-Token: ' ladder' (ID: 35765), Prob: 0.0026
-Token: ' volcano' (ID: 65206), Prob: 0.0025
-Token: ' ship' (ID: 8284), Prob: 0.0020
-Token: ' wind' (ID: 9956), Prob: 0.0020
-Token: ' treasure' (ID: 31626), Prob: 0.0020
-Token: ' flying' (ID: 16307), Prob: 0.0019
-Token: ' snow' (ID: 11794), Prob: 0.0018
-Token: ' stone' (ID: 9798), Prob: 0.0017
-Token: ' garden' (ID: 13551), Prob: 0.0017
-Token: ' home' (ID: 2114), Prob: 0.0016
-Token: ' star' (ID: 6774), Prob: 0.0016
-Token: ' fortress' (ID: 69838), Prob: 0.0015
-Token: ' palace' (ID: 43339), Prob: 0.0014
-Token: ' stick' (ID: 9214), Prob: 0.0013
-Token: ' floating' (ID: 19057), Prob: 0.0013
-Token: ' LEGO' (ID: 55801), Prob: 0.0012
-Token: ' brick' (ID: 24837), Prob: 0.0012
-Token: ' statue' (ID: 34272), Prob: 0.0012
-Token: ' catapult' (ID: 95091), Prob: 0.0012
-Token: ' car' (ID: 1803), Prob: 0.0011
-Token: ' mini' (ID: 13420), Prob: 0.0011
-Token: ' water' (ID: 3015), Prob: 0.0010
-Token: ' story' (ID: 3364), Prob: 0.0010
-Token: ' clock' (ID: 8866), Prob: 0.0010
-Token: ' fence' (ID: 24650), Prob: 0.0010
-Token: ' sun' (ID: 7015), Prob: 0.0010
-Token: ' monster' (ID: 17651), Prob: 0.0010
-Token: ' play' (ID: 1486), Prob: 0.0009
-Token: ' little' (ID: 2632), Prob: 0.0009
-Token: ' building' (ID: 4752), Prob: 0.0009
-Token: ' secret' (ID: 6234), Prob: 0.0009
-Token: ' mobile' (ID: 6371), Prob: 0.0009
-Token: ' tiny' (ID: 13673), Prob: 0.0009
-Token: ' shelter' (ID: 22906), Prob: 0.0009
-Token: ' dinosaur' (ID: 62889), Prob: 0.0009
-Token: ' big' (ID: 2409), Prob: 0.0009
-Token: ' city' (ID: 3283), Prob: 0.0009
-Token: ' puzzle' (ID: 24626), Prob: 0.0009
-Token: ' tall' (ID: 16217), Prob: 0.0008
-Token: ' raft' (ID: 52455), Prob: 0.0008
-Token: ' wish' (ID: 6426), Prob: 0.0007
-Token: ' giant' (ID: 14538), Prob: 0.0007
-Token: ' swing' (ID: 18806), Prob: 0.0007
-Token: ' sword' (ID: 20214), Prob: 0.0007
-Token: ' bicycle' (ID: 34986), Prob: 0.0007
-Token: ' telescope' (ID: 55825), Prob: 0.0007
-Token: ' character' (ID: 3668), Prob: 0.0007
-Token: ' skys' (ID: 84321), Prob: 0.0007
-Token: ' cast' (ID: 6311), Prob: 0.0006
-Token: ' spring' (ID: 10464), Prob: 0.0006
-Token: ' shadow' (ID: 12455), Prob: 0.0006
-Token: ' forest' (ID: 13638), Prob: 0.0006
-Token: ' jungle' (ID: 44420), Prob: 0.0006
-Token: ' puppet' (ID: 49448), Prob: 0.0006
-Token: ' sculpture' (ID: 49967), Prob: 0.0006
-Token: ' miniature' (ID: 56763), Prob: 0.0006
-Token: ' strong' (ID: 3746), Prob: 0.0006
-Token: ' picture' (ID: 6802), Prob: 0.0006
-Token: ' bike' (ID: 12963), Prob: 0.0006
-Token: ' magical' (ID: 23702), Prob: 0.0006
-Token: ' tet' (ID: 27853), Prob: 0.0006
-Token: ' rainbow' (ID: 47613), Prob: 0.0006
-Token: ' high' (ID: 1550), Prob: 0.0005
-Token: ' solar' (ID: 12941), Prob: 0.0005
-Token: ' river' (ID: 14796), Prob: 0.0005
-Token: ' nest' (ID: 22791), Prob: 0.0005
-Token: ' bear' (ID: 11722), Prob: 0.0005
-Token: ' musical' (ID: 17795), Prob: 0.0005
-Token: ' sail' (ID: 29403), Prob: 0.0005
-Token: ' staircase' (ID: 61762), Prob: 0.0005
+Token: ' The' (ID: 576), Prob: 0.6953
+Token: ' Doctor' (ID: 18635), Prob: 0.0128
+Token: ' Cold' (ID: 23185), Prob: 0.0088
+Token: ' Sherlock' (ID: 60626), Prob: 0.0082
+Token: ' Black' (ID: 5235), Prob: 0.0078
+Token: ' East' (ID: 6326), Prob: 0.0078
+Token: ' Casual' (ID: 48822), Prob: 0.0068
+Token: ' A' (ID: 362), Prob: 0.0050
+Token: ' Victoria' (ID: 22417), Prob: 0.0039
+Token: ' New' (ID: 1532), Prob: 0.0034
+Token: ' Life' (ID: 9414), Prob: 0.0032
+Token: ' War' (ID: 5004), Prob: 0.0024
+Token: ' Red' (ID: 3731), Prob: 0.0022
+Token: ' Home' (ID: 5379), Prob: 0.0022
+Token: ' My' (ID: 3017), Prob: 0.0021
+Token: ' White' (ID: 5807), Prob: 0.0020
+Token: ' School' (ID: 6022), Prob: 0.0020
+Token: ' I' (ID: 358), Prob: 0.0018
+Token: ' Four' (ID: 13322), Prob: 0.0018
+Token: ' Out' (ID: 4371), Prob: 0.0017
+Token: ' Blue' (ID: 8697), Prob: 0.0017
+Token: ' on' (ID: 389), Prob: 0.0016
+Token: ' No' (ID: 2308), Prob: 0.0016
+Token: ' Mr' (ID: 4392), Prob: 0.0016
+Token: ' Happy' (ID: 23355), Prob: 0.0016
+Token: ' Children' (ID: 15044), Prob: 0.0015
+Token: ' Prison' (ID: 41518), Prob: 0.0015
+Token: ' Big' (ID: 6164), Prob: 0.0014
+Token: ' Top' (ID: 6909), Prob: 0.0014
+Token: ' Blood' (ID: 20070), Prob: 0.0014
+Token: ' F' (ID: 434), Prob: 0.0013
+Token: ' One' (ID: 3776), Prob: 0.0013
+Token: ' Doctors' (ID: 53843), Prob: 0.0013
+Token: ' David' (ID: 6798), Prob: 0.0013
+Token: ' Yes' (ID: 7414), Prob: 0.0013
+Token: ' and' (ID: 323), Prob: 0.0012
+Token: ' Love' (ID: 10689), Prob: 0.0012
+Token: ' Men' (ID: 11012), Prob: 0.0012
+Token: ' Money' (ID: 17633), Prob: 0.0012
+Token: ' Being' (ID: 20690), Prob: 0.0012
+Token: ' D' (ID: 422), Prob: 0.0011
+Token: ' Our' (ID: 5633), Prob: 0.0011
+Token: ' Last' (ID: 7996), Prob: 0.0011
+Token: ' Dr' (ID: 2926), Prob: 0.0010
+Token: ' Mon' (ID: 3128), Prob: 0.0010
+Token: ' Heart' (ID: 17965), Prob: 0.0009
+Token: ' Crime' (ID: 23900), Prob: 0.0009
+Token: ' Horizon' (ID: 55451), Prob: 0.0009
+Token: ' in' (ID: 304), Prob: 0.0009
+Token: ' Two' (ID: 9043), Prob: 0.0009
+Token: ' Death' (ID: 15911), Prob: 0.0009
+Token: ' T' (ID: 350), Prob: 0.0008
+Token: ' This' (ID: 1096), Prob: 0.0008
+Token: ' Father' (ID: 20322), Prob: 0.0008
+Token: ' Pride' (ID: 42146), Prob: 0.0008
+Token: ' S' (ID: 328), Prob: 0.0008
+Token: ' Just' (ID: 4599), Prob: 0.0007
+Token: ' South' (ID: 4882), Prob: 0.0007
+Token: ' High' (ID: 5124), Prob: 0.0007
+Token: ' John' (ID: 3757), Prob: 0.0007
+Token: ' James' (ID: 7801), Prob: 0.0007
+Token: ' Never' (ID: 14695), Prob: 0.0007
+Token: ' Strict' (ID: 52881), Prob: 0.0007
+Token: ' the' (ID: 279), Prob: 0.0006
+Token: ' Trust' (ID: 16816), Prob: 0.0006
+Token: ' Playing' (ID: 39451), Prob: 0.0006
+Token: ' B' (ID: 425), Prob: 0.0006
+Token: ' Mer' (ID: 8755), Prob: 0.0006
+Token: ' Three' (ID: 14513), Prob: 0.0006
+Token: ' Snow' (ID: 18901), Prob: 0.0006
+Token: ' Tomorrow' (ID: 54996), Prob: 0.0006
+Token: ' H' (ID: 472), Prob: 0.0006
+Token: ' City' (ID: 4311), Prob: 0.0006
+Token: ' Fire' (ID: 6647), Prob: 0.0006
+Token: ' Women' (ID: 10973), Prob: 0.0006
+Token: ' Hol' (ID: 15696), Prob: 0.0006
+Token: ' Burn' (ID: 18039), Prob: 0.0006
+Token: ' of' (ID: 315), Prob: 0.0005
+Token: ' Time' (ID: 4120), Prob: 0.0005
+Token: ' House' (ID: 4678), Prob: 0.0005
+Token: ' Long' (ID: 5724), Prob: 0.0005
+Token: ' Play' (ID: 7054), Prob: 0.0005
+Token: ' Past' (ID: 23640), Prob: 0.0005
+Token: ' U' (ID: 547), Prob: 0.0005
+Token: ' It' (ID: 1084), Prob: 0.0005
+Token: ' Q' (ID: 1207), Prob: 0.0005
+Token: ' Sp' (ID: 3089), Prob: 0.0005
+Token: ' Good' (ID: 7684), Prob: 0.0005
+Token: ' On' (ID: 1913), Prob: 0.0005
+Token: ' More' (ID: 4398), Prob: 0.0005
+Token: ' Band' (ID: 16936), Prob: 0.0005
+Token: ' Catch' (ID: 20930), Prob: 0.0005
 
 == Ranked Concepts (Clusters) ==
-Rank 1 | Centroid: ' ladder' | Score: 0.2314
-  Tokens: [' tower', ' pyramid', ' ladder', ' staircase']
-Rank 2 | Centroid: ' bridge' | Score: 0.1553
-  Tokens: [' bridge', ' stick', ' fence']
-Rank 3 | Centroid: ' house' | Score: 0.1216
-  Tokens: [' house', ' home', ' city']
-Rank 4 | Centroid: ' forest' | Score: 0.1138
-  Tokens: [' tree', ' mountain', ' garden', ' forest', ' jungle', ' river']
-Rank 5 | Centroid: ' fortress' | Score: 0.0471
-  Tokens: [' castle', ' fort', ' fortress', ' palace']
-Rank 6 | Centroid: ' picture' | Score: 0.0393
-  Tokens: [' model', ' story', ' wish', ' character', ' picture']
-Rank 7 | Centroid: ' boat' | Score: 0.0369
-  Tokens: [' robot', ' rocket', ' spaceship', ' boat', ' ship']
-Rank 8 | Centroid: ' bird' | Score: 0.0282
-  Tokens: [' bird', ' fire', ' spring', ' bear']
-Rank 9 | Centroid: ' toy' | Score: 0.0280
-  Tokens: [' toy', ' doll', ' LEGO', ' musical']
-Rank 10 | Centroid: ' tiny' | Score: 0.0245
-  Tokens: [' small', ' mini', ' little', ' tiny', ' big', ' giant', ' miniature']
-Rank 11 | Centroid: ' building' | Score: 0.0156
-  Tokens: [' structure', ' wall', ' building']
-Rank 12 | Centroid: ' monster' | Score: 0.0146
-  Tokens: [' dragon', ' volcano', ' treasure', ' monster', ' dinosaur', ' magical']
-Rank 13 | Centroid: ' stone' | Score: 0.0126
-  Tokens: [' wooden', ' stone', ' brick']
-Rank 14 | Centroid: ' bike' | Score: 0.0117
-  Tokens: [' kite', ' bicycle', ' telescope', ' bike', ' sail']
-Rank 15 | Centroid: ' sun' | Score: 0.0117
-  Tokens: [' sand', ' wind', ' snow', ' sun', ' solar']
-Rank 16 | Centroid: ' new' | Score: 0.0055
-  Tokens: [' new', ' mobile']
-Rank 17 | Centroid: ' flying' | Score: 0.0040
-  Tokens: [' flying', ' floating', ' swing']
-Rank 18 | Centroid: ' box' | Score: 0.0036
-  Tokens: [' box']
-Rank 19 | Centroid: ' sculpture' | Score: 0.0033
-  Tokens: [' statue', ' puzzle', ' puppet', ' sculpture']
-Rank 20 | Centroid: ' star' | Score: 0.0026
-  Tokens: [' star', ' water']
-Rank 21 | Centroid: ' high' | Score: 0.0019
-  Tokens: [' tall', ' strong', ' high']
-Rank 22 | Centroid: ' catapult' | Score: 0.0018
-  Tokens: [' catapult', ' skys']
-Rank 23 | Centroid: ' clock' | Score: 0.0017
-  Tokens: [' clock', ' shadow']
-Rank 24 | Centroid: ' secret' | Score: 0.0015
-  Tokens: [' secret', ' cast']
-Rank 25 | Centroid: ' play' | Score: 0.0015
-  Tokens: [' play', ' tet']
-Rank 26 | Centroid: ' sword' | Score: 0.0013
-  Tokens: [' sword', ' rainbow']
-Rank 27 | Centroid: ' car' | Score: 0.0011
-  Tokens: [' car']
-Rank 28 | Centroid: ' shelter' | Score: 0.0009
-  Tokens: [' shelter']
-Rank 29 | Centroid: ' raft' | Score: 0.0008
-  Tokens: [' raft']
-Rank 30 | Centroid: ' nest' | Score: 0.0005
-  Tokens: [' nest']
+Rank 1 | Centroid: ' This' | Score: 0.7031
+  Tokens: [' The', ' My', ' No', ' Yes', ' Our', ' This', ' Just', ' It', ' On', ' More']
+Rank 2 | Centroid: ' Sherlock' | Score: 0.0222
+  Tokens: [' Cold', ' Sherlock', ' Victoria', ' Strict', ' Snow']
+Rank 3 | Centroid: ' the' | Score: 0.0178
+  Tokens: [' A', ' I', ' on', ' F', ' and', ' D', ' in', ' T', ' S', ' the', ' B', ' H', ' of', ' U', ' Q']
+Rank 4 | Centroid: ' Doctor' | Score: 0.0176
+  Tokens: [' Doctor', ' Mr', ' Doctors', ' Dr', ' Father']
+Rank 5 | Centroid: ' Blue' | Score: 0.0151
+  Tokens: [' Black', ' Red', ' White', ' Blue', ' Big']
+Rank 6 | Centroid: ' Fire' | Score: 0.0132
+  Tokens: [' Casual', ' War', ' Prison', ' Crime', ' Fire', ' Burn', ' Catch']
+Rank 7 | Centroid: ' East' | Score: 0.0085
+  Tokens: [' East', ' South']
+Rank 8 | Centroid: ' Love' | Score: 0.0076
+  Tokens: [' Life', ' Blood', ' Love', ' Heart', ' Death']
+Rank 9 | Centroid: ' Home' | Score: 0.0058
+  Tokens: [' Home', ' School', ' City', ' Time', ' House']
+Rank 10 | Centroid: ' Three' | Score: 0.0046
+  Tokens: [' Four', ' One', ' Two', ' Three']
+Rank 11 | Centroid: ' Happy' | Score: 0.0035
+  Tokens: [' Happy', ' Pride', ' Tomorrow', ' Good']
+Rank 12 | Centroid: ' New' | Score: 0.0034
+  Tokens: [' New']
+Rank 13 | Centroid: ' Women' | Score: 0.0033
+  Tokens: [' Children', ' Money', ' Women']
+Rank 14 | Centroid: ' Out' | Score: 0.0028
+  Tokens: [' Out', ' Last']
+Rank 15 | Centroid: ' Men' | Score: 0.0028
+  Tokens: [' Men', ' Mon', ' Mer']
+Rank 16 | Centroid: ' High' | Score: 0.0027
+  Tokens: [' Top', ' High', ' Long']
+Rank 17 | Centroid: ' John' | Score: 0.0026
+  Tokens: [' David', ' John', ' James']
+Rank 18 | Centroid: ' Being' | Score: 0.0019
+  Tokens: [' Being', ' Never']
+Rank 19 | Centroid: ' Horizon' | Score: 0.0015
+  Tokens: [' Horizon', ' Hol']
+Rank 20 | Centroid: ' Trust' | Score: 0.0012
+  Tokens: [' Trust', ' Past']
+Rank 21 | Centroid: ' Playing' | Score: 0.0012
+  Tokens: [' Playing', ' Play']
+Rank 22 | Centroid: ' Sp' | Score: 0.0005
+  Tokens: [' Sp']
+Rank 23 | Centroid: ' Band' | Score: 0.0005
+  Tokens: [' Band']
 
 **Chosen Concept:** Rank 1

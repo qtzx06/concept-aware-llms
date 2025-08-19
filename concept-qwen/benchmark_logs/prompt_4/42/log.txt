@@ -1,140 +1,156 @@
 --- Step 42 Log ---
 
 == Filtered Candidates ==
-Token: ' like' (ID: 1075), Prob: 0.7695
-Token: ' describe' (ID: 7512), Prob: 0.0076
-Token: ' introduce' (ID: 19131), Prob: 0.0006
-Token: ' describing' (ID: 22692), Prob: 0.0006
-Token: ' something' (ID: 2494), Prob: 0.0004
-Token: ' maybe' (ID: 7196), Prob: 0.0003
-Token: ' mention' (ID: 6286), Prob: 0.0002
-Token: ' description' (ID: 4008), Prob: 0.0002
-Token: ' location' (ID: 3728), Prob: 0.0001
-Token: ' time' (ID: 882), Prob: 0.0001
-Token: ' perhaps' (ID: 8365), Prob: 0.0001
-Token: ' use' (ID: 990), Prob: 0.0001
-Token: ' name' (ID: 829), Prob: 0.0001
-Token: ' show' (ID: 1473), Prob: 0.0001
-Token: ' followed' (ID: 8110), Prob: 0.0001
-Token: ' seasons' (ID: 15584), Prob: 0.0001
-Token: ' weather' (ID: 9104), Prob: 0.0001
-Token: ' talk' (ID: 3061), Prob: 0.0001
-Token: ' get' (ID: 633), Prob: 0.0001
-Token: ' parks' (ID: 26845), Prob: 0.0001
-Token: ' descriptions' (ID: 27787), Prob: 0.0001
-Token: ' say' (ID: 1977), Prob: 0.0001
-Token: ' sun' (ID: 7015), Prob: 0.0000
-Token: ' showing' (ID: 9027), Prob: 0.0000
-Token: ' arrival' (ID: 18647), Prob: 0.0000
-Token: ' set' (ID: 738), Prob: 0.0000
-Token: ' kind' (ID: 3093), Prob: 0.0000
-Token: ' names' (ID: 5036), Prob: 0.0000
-Token: ' setting' (ID: 6243), Prob: 0.0000
-Token: ' hike' (ID: 34231), Prob: 0.0000
-Token: ' season' (ID: 3200), Prob: 0.0000
-Token: ' establish' (ID: 5695), Prob: 0.0000
-Token: ' attractions' (ID: 38491), Prob: 0.0000
-Token: ' introducing' (ID: 31918), Prob: 0.0000
-Token: ' landmarks' (ID: 59924), Prob: 0.0000
-Token: ' things' (ID: 2513), Prob: 0.0000
-Token: ' including' (ID: 2670), Prob: 0.0000
-Token: ' add' (ID: 912), Prob: 0.0000
-Token: ' place' (ID: 1992), Prob: 0.0000
-Token: ' environment' (ID: 4573), Prob: 0.0000
-Token: ' park' (ID: 6118), Prob: 0.0000
-Token: ' action' (ID: 1917), Prob: 0.0000
-Token: ' nature' (ID: 6993), Prob: 0.0000
-Token: ' activities' (ID: 7488), Prob: 0.0000
-Token: ' highlighting' (ID: 38586), Prob: 0.0000
-Token: ' using' (ID: 1667), Prob: 0.0000
-Token: ' details' (ID: 3565), Prob: 0.0000
-Token: ' pine' (ID: 33597), Prob: 0.0000
-Token: ' highlight' (ID: 11167), Prob: 0.0000
-Token: ' surroundings' (ID: 39090), Prob: 0.0000
-Token: ' present' (ID: 3042), Prob: 0.0000
-Token: ' travel' (ID: 5821), Prob: 0.0000
-Token: ' likes' (ID: 13151), Prob: 0.0000
-Token: ' arriving' (ID: 32011), Prob: 0.0000
-Token: ' type' (ID: 943), Prob: 0.0000
-Token: ' state' (ID: 1584), Prob: 0.0000
-Token: ' since' (ID: 2474), Prob: 0.0000
-Token: ' include' (ID: 2924), Prob: 0.0000
-Token: ' point' (ID: 1459), Prob: 0.0000
-Token: ' transition' (ID: 9142), Prob: 0.0000
-Token: ' going' (ID: 2087), Prob: 0.0000
-Token: ' activity' (ID: 5702), Prob: 0.0000
-Token: ' heading' (ID: 14496), Prob: 0.0000
-Token: ' excitement' (ID: 27262), Prob: 0.0000
-Token: ' scenery' (ID: 50231), Prob: 0.0000
-Token: ' title' (ID: 2265), Prob: 0.0000
-Token: ' visit' (ID: 3947), Prob: 0.0000
-Token: ' atmosphere' (ID: 16566), Prob: 0.0000
-Token: ' people' (ID: 1251), Prob: 0.0000
-Token: ' compare' (ID: 9429), Prob: 0.0000
-Token: ' sounds' (ID: 10362), Prob: 0.0000
-Token: ' paint' (ID: 6177), Prob: 0.0000
-Token: ' transportation' (ID: 17903), Prob: 0.0000
-Token: ' characters' (ID: 5766), Prob: 0.0000
-Token: ' natural' (ID: 5810), Prob: 0.0000
-Token: ' eag' (ID: 78240), Prob: 0.0000
-Token: ' getting' (ID: 3709), Prob: 0.0000
-Token: ' explore' (ID: 13186), Prob: 0.0000
-Token: ' attraction' (ID: 32364), Prob: 0.0000
-Token: ' vivid' (ID: 42020), Prob: 0.0000
-Token: ' day' (ID: 1899), Prob: 0.0000
+Token: ' born' (ID: 9223), Prob: 0.7383
+Token: ' also' (ID: 1083), Prob: 0.0776
+Token: ' a' (ID: 264), Prob: 0.0535
+Token: ' the' (ID: 279), Prob: 0.0222
+Token: ' in' (ID: 304), Prob: 0.0119
+Token: ' known' (ID: 3881), Prob: 0.0119
+Token: ' an' (ID: 458), Prob: 0.0082
+Token: ' involved' (ID: 6398), Prob: 0.0082
+Token: ' part' (ID: 949), Prob: 0.0039
+Token: ' one' (ID: 825), Prob: 0.0034
+Token: ' cast' (ID: 6311), Prob: 0.0023
+Token: ' first' (ID: 1156), Prob: 0.0021
+Token: ' featured' (ID: 14766), Prob: 0.0021
+Token: ' then' (ID: 1221), Prob: 0.0018
+Token: ' best' (ID: 1850), Prob: 0.0018
+Token: ' married' (ID: 12224), Prob: 0.0018
+Token: ' on' (ID: 389), Prob: 0.0016
+Token: ' later' (ID: 2937), Prob: 0.0016
+Token: ' appointed' (ID: 20822), Prob: 0.0016
+Token: ' invited' (ID: 18218), Prob: 0.0014
+Token: ' noted' (ID: 10342), Prob: 0.0013
+Token: ' awarded' (ID: 21328), Prob: 0.0011
+Token: ' most' (ID: 1429), Prob: 0.0010
+Token: ' very' (ID: 1602), Prob: 0.0010
+Token: ' not' (ID: 537), Prob: 0.0008
+Token: ' made' (ID: 1865), Prob: 0.0008
+Token: ' given' (ID: 2661), Prob: 0.0008
+Token: ' active' (ID: 4541), Prob: 0.0008
+Token: ' raised' (ID: 9226), Prob: 0.0008
+Token: ' listed' (ID: 10007), Prob: 0.0008
+Token: ' notable' (ID: 27190), Prob: 0.0008
+Token: ' educated' (ID: 32042), Prob: 0.0008
+Token: ' at' (ID: 518), Prob: 0.0007
+Token: ' initially' (ID: 15102), Prob: 0.0007
+Token: ' nominated' (ID: 37948), Prob: 0.0007
+Token: ' named' (ID: 6941), Prob: 0.0006
+Token: ' seen' (ID: 3884), Prob: 0.0005
+Token: ' previously' (ID: 8597), Prob: 0.0005
+Token: ' confirmed' (ID: 10774), Prob: 0.0005
+Token: ' originally' (ID: 13214), Prob: 0.0005
+Token: ' re' (ID: 312), Prob: 0.0005
+Token: ' present' (ID: 3042), Prob: 0.0005
+Token: ' arrested' (ID: 12517), Prob: 0.0005
+Token: ' working' (ID: 3238), Prob: 0.0004
+Token: ' contracted' (ID: 49968), Prob: 0.0004
+Token: ' killed' (ID: 7425), Prob: 0.0004
+Token: ' employed' (ID: 19446), Prob: 0.0004
+Token: ' knight' (ID: 46609), Prob: 0.0004
+Token: ' diagnosed' (ID: 28604), Prob: 0.0003
+Token: ' selected' (ID: 4091), Prob: 0.0003
+Token: ' brought' (ID: 7117), Prob: 0.0003
+Token: ' offered' (ID: 8900), Prob: 0.0003
+Token: ' briefly' (ID: 26753), Prob: 0.0003
+Token: ' of' (ID: 315), Prob: 0.0002
+Token: ' asked' (ID: 4588), Prob: 0.0002
+Token: ' associated' (ID: 5815), Prob: 0.0002
+Token: ' announced' (ID: 7228), Prob: 0.0002
+Token: ' chosen' (ID: 11882), Prob: 0.0002
+Token: ' introduced' (ID: 11523), Prob: 0.0002
+Token: ' actor' (ID: 12089), Prob: 0.0002
+Token: ' promoted' (ID: 28926), Prob: 0.0002
+Token: ' portrayed' (ID: 44777), Prob: 0.0002
+Token: ' called' (ID: 2598), Prob: 0.0002
+Token: ' once' (ID: 3055), Prob: 0.0002
+Token: ' taken' (ID: 4429), Prob: 0.0002
+Token: ' eventually' (ID: 9583), Prob: 0.0002
+Token: ' found' (ID: 1730), Prob: 0.0002
+Token: ' playing' (ID: 5619), Prob: 0.0002
+Token: ' signed' (ID: 8499), Prob: 0.0002
+Token: ' able' (ID: 2952), Prob: 0.0002
+Token: ' never' (ID: 2581), Prob: 0.0002
+Token: ' presented' (ID: 10449), Prob: 0.0002
+Token: ' discovered' (ID: 11105), Prob: 0.0002
+Token: ' appearing' (ID: 25377), Prob: 0.0002
+Token: ' well' (ID: 1632), Prob: 0.0002
+Token: ' British' (ID: 7855), Prob: 0.0002
+Token: ' recognized' (ID: 14975), Prob: 0.0002
+Token: ' trained' (ID: 16176), Prob: 0.0002
+Token: ' often' (ID: 3545), Prob: 0.0002
+Token: ' heavily' (ID: 16916), Prob: 0.0002
+Token: ' subsequently' (ID: 27420), Prob: 0.0002
+Token: ' considered' (ID: 6509), Prob: 0.0001
+Token: ' inspired' (ID: 14606), Prob: 0.0001
+Token: ' engaged' (ID: 16634), Prob: 0.0001
+Token: ' credited' (ID: 40757), Prob: 0.0001
+Token: ' last' (ID: 1537), Prob: 0.0001
+Token: ' among' (ID: 4221), Prob: 0.0001
+Token: ' included' (ID: 5230), Prob: 0.0001
+Token: ' acting' (ID: 15358), Prob: 0.0001
+Token: ' described' (ID: 7481), Prob: 0.0001
+Token: ' twice' (ID: 10917), Prob: 0.0001
+Token: ' granted' (ID: 11676), Prob: 0.0001
+Token: ' admitted' (ID: 16188), Prob: 0.0001
+Token: ' notably' (ID: 34046), Prob: 0.0001
+Token: ' critically' (ID: 40340), Prob: 0.0001
+Token: ' only' (ID: 1172), Prob: 0.0001
+Token: ' particularly' (ID: 7945), Prob: 0.0001
 
 == Ranked Concepts (Clusters) ==
-Rank 1 | Centroid: ' like' | Score: 0.7695
-  Tokens: [' like', ' likes', ' since']
-Rank 2 | Centroid: ' descriptions' | Score: 0.0084
-  Tokens: [' describe', ' describing', ' description', ' descriptions', ' details']
-Rank 3 | Centroid: ' maybe' | Score: 0.0008
-  Tokens: [' something', ' maybe', ' perhaps', ' things', ' people']
-Rank 4 | Centroid: ' explore' | Score: 0.0007
-  Tokens: [' introduce', ' establish', ' compare', ' explore']
-Rank 5 | Centroid: ' season' | Score: 0.0002
-  Tokens: [' seasons', ' weather', ' sun', ' season', ' pine']
-Rank 6 | Centroid: ' mention' | Score: 0.0002
-  Tokens: [' mention']
-Rank 7 | Centroid: ' showing' | Score: 0.0002
-  Tokens: [' show', ' showing', ' highlighting', ' highlight']
-Rank 8 | Centroid: ' park' | Score: 0.0002
-  Tokens: [' parks', ' hike', ' park', ' travel', ' visit']
-Rank 9 | Centroid: ' including' | Score: 0.0001
-  Tokens: [' followed', ' including', ' using', ' include']
-Rank 10 | Centroid: ' name' | Score: 0.0001
-  Tokens: [' name', ' names', ' title']
-Rank 11 | Centroid: ' time' | Score: 0.0001
-  Tokens: [' time', ' day']
-Rank 12 | Centroid: ' talk' | Score: 0.0001
-  Tokens: [' talk', ' say']
-Rank 13 | Centroid: ' use' | Score: 0.0001
-  Tokens: [' use', ' add']
-Rank 14 | Centroid: ' location' | Score: 0.0001
-  Tokens: [' location']
-Rank 15 | Centroid: ' attractions' | Score: 0.0001
-  Tokens: [' attractions', ' landmarks', ' excitement', ' scenery', ' eag', ' attraction']
-Rank 16 | Centroid: ' point' | Score: 0.0001
-  Tokens: [' set', ' place', ' present', ' state', ' point']
-Rank 17 | Centroid: ' environment' | Score: 0.0001
-  Tokens: [' setting', ' environment', ' surroundings', ' atmosphere']
-Rank 18 | Centroid: ' arriving' | Score: 0.0001
-  Tokens: [' arrival', ' introducing', ' arriving']
-Rank 19 | Centroid: ' getting' | Score: 0.0001
-  Tokens: [' get', ' going', ' getting']
-Rank 20 | Centroid: ' activity' | Score: 0.0001
-  Tokens: [' action', ' activities', ' activity']
-Rank 21 | Centroid: ' kind' | Score: 0.0001
-  Tokens: [' kind', ' type']
-Rank 22 | Centroid: ' natural' | Score: 0.0001
-  Tokens: [' nature', ' transition', ' natural']
-Rank 23 | Centroid: ' heading' | Score: 0.0000
-  Tokens: [' heading', ' vivid']
-Rank 24 | Centroid: ' sounds' | Score: 0.0000
-  Tokens: [' sounds', ' characters']
-Rank 25 | Centroid: ' transportation' | Score: 0.0000
-  Tokens: [' transportation']
-Rank 26 | Centroid: ' paint' | Score: 0.0000
-  Tokens: [' paint']
+Rank 1 | Centroid: ' brought' | Score: 0.7422
+  Tokens: [' born', ' made', ' raised', ' brought', ' introduced', ' inspired']
+Rank 2 | Centroid: ' the' | Score: 0.1069
+  Tokens: [' a', ' the', ' in', ' an', ' part', ' one', ' on', ' not', ' at', ' re', ' of', ' only']
+Rank 3 | Centroid: ' also' | Score: 0.0781
+  Tokens: [' also', ' never', ' often']
+Rank 4 | Centroid: ' known' | Score: 0.0119
+  Tokens: [' known']
+Rank 5 | Centroid: ' involved' | Score: 0.0112
+  Tokens: [' involved', ' featured', ' employed', ' associated', ' engaged', ' included']
+Rank 6 | Centroid: ' very' | Score: 0.0039
+  Tokens: [' best', ' most', ' very', ' well']
+Rank 7 | Centroid: ' subsequently' | Score: 0.0038
+  Tokens: [' then', ' later', ' eventually', ' subsequently']
+Rank 8 | Centroid: ' trained' | Score: 0.0038
+  Tokens: [' married', ' educated', ' arrested', ' killed', ' able', ' trained']
+Rank 9 | Centroid: ' granted' | Score: 0.0030
+  Tokens: [' invited', ' awarded', ' promoted', ' granted', ' admitted']
+Rank 10 | Centroid: ' selected' | Score: 0.0028
+  Tokens: [' appointed', ' nominated', ' selected', ' chosen']
+Rank 11 | Centroid: ' cast' | Score: 0.0023
+  Tokens: [' cast']
+Rank 12 | Centroid: ' first' | Score: 0.0022
+  Tokens: [' first', ' last']
+Rank 13 | Centroid: ' originally' | Score: 0.0021
+  Tokens: [' initially', ' previously', ' originally', ' once', ' twice']
+Rank 14 | Centroid: ' noted' | Score: 0.0020
+  Tokens: [' noted', ' notable']
+Rank 15 | Centroid: ' discovered' | Score: 0.0019
+  Tokens: [' seen', ' confirmed', ' diagnosed', ' found', ' discovered', ' recognized']
+Rank 16 | Centroid: ' acting' | Score: 0.0019
+  Tokens: [' active', ' working', ' actor', ' playing', ' British', ' acting']
+Rank 17 | Centroid: ' offered' | Score: 0.0015
+  Tokens: [' given', ' offered', ' asked', ' presented']
+Rank 18 | Centroid: ' described' | Score: 0.0010
+  Tokens: [' listed', ' considered', ' described']
+Rank 19 | Centroid: ' named' | Score: 0.0010
+  Tokens: [' named', ' called', ' signed']
+Rank 20 | Centroid: ' notably' | Score: 0.0008
+  Tokens: [' briefly', ' heavily', ' notably', ' critically', ' particularly']
+Rank 21 | Centroid: ' contracted' | Score: 0.0008
+  Tokens: [' contracted', ' knight']
+Rank 22 | Centroid: ' present' | Score: 0.0005
+  Tokens: [' present']
+Rank 23 | Centroid: ' portrayed' | Score: 0.0004
+  Tokens: [' portrayed', ' appearing']
+Rank 24 | Centroid: ' announced' | Score: 0.0004
+  Tokens: [' announced', ' credited']
+Rank 25 | Centroid: ' taken' | Score: 0.0002
+  Tokens: [' taken']
+Rank 26 | Centroid: ' among' | Score: 0.0001
+  Tokens: [' among']
 
 **Chosen Concept:** Rank 1

@@ -1,0 +1,77 @@
+--- Step 35 Log ---
+
+== Filtered Candidates ==
+Token: ' of' (ID: 315), Prob: 0.0028
+Token: ' and' (ID: 323), Prob: 0.0019
+Token: ' to' (ID: 311), Prob: 0.0000
+Token: ' as' (ID: 438), Prob: 0.0000
+Token: ' June' (ID: 5534), Prob: 0.0000
+Token: ' that' (ID: 429), Prob: 0.0000
+Token: ' in' (ID: 304), Prob: 0.0000
+Token: '2' (ID: 17), Prob: 0.0000
+Token: ' the' (ID: 279), Prob: 0.0000
+Token: ' or' (ID: 476), Prob: 0.0000
+Token: ' for' (ID: 369), Prob: 0.0000
+Token: ' at' (ID: 518), Prob: 0.0000
+Token: ' with' (ID: 448), Prob: 0.0000
+Token: ' July' (ID: 5768), Prob: 0.0000
+Token: '-J' (ID: 12009), Prob: 0.0000
+Token: ' on' (ID: 389), Prob: 0.0000
+Token: '-Aug' (ID: 61635), Prob: 0.0000
+Token: ' which' (ID: 892), Prob: 0.0000
+Token: ' through' (ID: 1526), Prob: 0.0000
+Token: ' by' (ID: 553), Prob: 0.0000
+Token: 'June' (ID: 27160), Prob: 0.0000
+Token: ' when' (ID: 979), Prob: 0.0000
+Token: ' May' (ID: 3217), Prob: 0.0000
+Token: ' alongside' (ID: 16263), Prob: 0.0000
+Token: ' but' (ID: 714), Prob: 0.0000
+Token: ' where' (ID: 1380), Prob: 0.0000
+Token: ' August' (ID: 6156), Prob: 0.0000
+Token: ' it' (ID: 432), Prob: 0.0000
+Token: ' an' (ID: 458), Prob: 0.0000
+Token: ' during' (ID: 2337), Prob: 0.0000
+Token: ' a' (ID: 264), Prob: 0.0000
+Token: ' twenty' (ID: 17073), Prob: 0.0000
+Token: ' while' (ID: 1393), Prob: 0.0000
+Token: ' along' (ID: 3156), Prob: 0.0000
+Token: ' this' (ID: 419), Prob: 0.0000
+Token: '.J' (ID: 3503), Prob: 0.0000
+Token: ' until' (ID: 3080), Prob: 0.0000
+Token: '1' (ID: 16), Prob: 0.0000
+Token: ' from' (ID: 504), Prob: 0.0000
+Token: 'July' (ID: 28427), Prob: 0.0000
+Token: ' under' (ID: 1212), Prob: 0.0000
+Token: ' before' (ID: 1573), Prob: 0.0000
+Token: '/A' (ID: 10360), Prob: 0.0000
+Token: ' J' (ID: 619), Prob: 0.0000
+
+== Ranked Concepts (Clusters) ==
+Rank 1 | Centroid: ' in' | Score: 0.0028
+  Tokens: [' of', ' to', ' as', ' in', ' for', ' at', ' with', ' on', ' by', ' from']
+Rank 2 | Centroid: ' and' | Score: 0.0019
+  Tokens: [' and', ' or', ' but']
+Rank 3 | Centroid: ' June' | Score: 0.0000
+  Tokens: [' June', ' July', 'June', ' May', ' August', 'July']
+Rank 4 | Centroid: ' which' | Score: 0.0000
+  Tokens: [' that', ' which', ' where']
+Rank 5 | Centroid: ' the' | Score: 0.0000
+  Tokens: [' the', ' it', ' an', ' a', ' this']
+Rank 6 | Centroid: '2' | Score: 0.0000
+  Tokens: ['2', '1']
+Rank 7 | Centroid: '.J' | Score: 0.0000
+  Tokens: ['-J', '.J', ' J']
+Rank 8 | Centroid: ' during' | Score: 0.0000
+  Tokens: [' when', ' during', ' while', ' until', ' before']
+Rank 9 | Centroid: '-Aug' | Score: 0.0000
+  Tokens: ['-Aug']
+Rank 10 | Centroid: ' through' | Score: 0.0000
+  Tokens: [' through']
+Rank 11 | Centroid: ' alongside' | Score: 0.0000
+  Tokens: [' alongside', ' along']
+Rank 12 | Centroid: ' twenty' | Score: 0.0000
+  Tokens: [' twenty', '/A']
+Rank 13 | Centroid: ' under' | Score: 0.0000
+  Tokens: [' under']
+
+**Chosen Concept:** Rank 1

@@ -1,0 +1,125 @@
+--- Step 125 Log ---
+
+== Filtered Candidates ==
+Token: ' BBC' (ID: 18096), Prob: 0.9531
+Token: ' play' (ID: 1486), Prob: 0.0120
+Token: ' TV' (ID: 5883), Prob: 0.0057
+Token: ' series' (ID: 4013), Prob: 0.0044
+Token: ' television' (ID: 12425), Prob: 0.0044
+Token: ' UK' (ID: 6424), Prob: 0.0016
+Token: ' British' (ID: 7855), Prob: 0.0010
+Token: ' role' (ID: 3476), Prob: 0.0006
+Token: ' film' (ID: 4531), Prob: 0.0006
+Token: ' show' (ID: 1473), Prob: 0.0005
+Token: ' first' (ID: 1156), Prob: 0.0004
+Token: ' National' (ID: 5055), Prob: 0.0004
+Token: ' production' (ID: 5670), Prob: 0.0004
+Token: ' Broadway' (ID: 36676), Prob: 0.0003
+Token: ' ABC' (ID: 19360), Prob: 0.0003
+Token: ' comedy' (ID: 22358), Prob: 0.0003
+Token: ' broadcast' (ID: 12899), Prob: 0.0003
+Token: ' CBC' (ID: 45512), Prob: 0.0002
+Token: ' following' (ID: 2701), Prob: 0.0002
+Token: ' movie' (ID: 5700), Prob: 0.0002
+Token: 'BBC' (ID: 66755), Prob: 0.0002
+Token: ' stage' (ID: 6430), Prob: 0.0002
+Token: ' Play' (ID: 7054), Prob: 0.0002
+Token: ' theatre' (ID: 33496), Prob: 0.0001
+Token: ' sitcom' (ID: 80366), Prob: 0.0001
+Token: ' same' (ID: 1852), Prob: 0.0001
+Token: ' United' (ID: 3639), Prob: 0.0001
+Token: ' radio' (ID: 8887), Prob: 0.0001
+Token: ' bbc' (ID: 90626), Prob: 0.0001
+Token: ' plays' (ID: 11088), Prob: 0.0001
+Token: ' B' (ID: 425), Prob: 0.0001
+Token: ' BB' (ID: 18270), Prob: 0.0001
+Token: ' West' (ID: 4312), Prob: 0.0001
+Token: ' NBC' (ID: 23521), Prob: 0.0001
+Token: ' CBS' (ID: 24029), Prob: 0.0001
+Token: ' HBO' (ID: 42878), Prob: 0.0001
+Token: ' The' (ID: 576), Prob: 0.0001
+Token: ' drama' (ID: 19584), Prob: 0.0001
+Token: ' theater' (ID: 26705), Prob: 0.0001
+Token: ' episode' (ID: 9234), Prob: 0.0001
+Token: ' the' (ID: 279), Prob: 0.0000
+Token: ' Royal' (ID: 16194), Prob: 0.0000
+Token: ' A' (ID: 362), Prob: 0.0000
+Token: ' Australian' (ID: 13369), Prob: 0.0000
+Token: ' third' (ID: 4843), Prob: 0.0000
+Token: ' work' (ID: 975), Prob: 0.0000
+Token: ' New' (ID: 1532), Prob: 0.0000
+Token: ' Television' (ID: 40345), Prob: 0.0000
+Token: ' article' (ID: 4549), Prob: 0.0000
+Token: ' national' (ID: 5313), Prob: 0.0000
+Token: ' cast' (ID: 6311), Prob: 0.0000
+Token: ' PBS' (ID: 59045), Prob: 0.0000
+Token: ' T' (ID: 350), Prob: 0.0000
+Token: ' North' (ID: 4787), Prob: 0.0000
+Token: ' London' (ID: 7148), Prob: 0.0000
+Token: ' Scottish' (ID: 26096), Prob: 0.0000
+Token: ' ITV' (ID: 93355), Prob: 0.0000
+Token: ' M' (ID: 386), Prob: 0.0000
+Token: ' U' (ID: 547), Prob: 0.0000
+Token: ' Brit' (ID: 5450), Prob: 0.0000
+Token: ' First' (ID: 5512), Prob: 0.0000
+Token: ' Burn' (ID: 18039), Prob: 0.0000
+Token: ' Netflix' (ID: 22642), Prob: 0.0000
+Token: ' anthology' (ID: 83008), Prob: 0.0000
+Token: ' programme' (ID: 18136), Prob: 0.0000
+Token: ' title' (ID: 2265), Prob: 0.0000
+Token: ' BC' (ID: 18040), Prob: 0.0000
+Token: ' Cambridge' (ID: 23641), Prob: 0.0000
+Token: ' premiere' (ID: 34852), Prob: 0.0000
+Token: ' Shakespeare' (ID: 41382), Prob: 0.0000
+Token: ' public' (ID: 584), Prob: 0.0000
+Token: ' playing' (ID: 5619), Prob: 0.0000
+Token: ' English' (ID: 6364), Prob: 0.0000
+Token: ' tele' (ID: 7963), Prob: 0.0000
+Token: ' broadcasting' (ID: 48827), Prob: 0.0000
+Token: ' program' (ID: 2025), Prob: 0.0000
+Token: ' US' (ID: 2274), Prob: 0.0000
+Token: ' book' (ID: 2311), Prob: 0.0000
+Token: ' sequel' (ID: 34761), Prob: 0.0000
+Token: ' televis' (ID: 89965), Prob: 0.0000
+Token: ' L' (ID: 444), Prob: 0.0000
+Token: ' other' (ID: 1008), Prob: 0.0000
+Token: ' web' (ID: 3482), Prob: 0.0000
+Token: ' East' (ID: 6326), Prob: 0.0000
+
+== Ranked Concepts (Clusters) ==
+Rank 1 | Centroid: ' BBC' | Score: 0.9531
+  Tokens: [' BBC', 'BBC', ' bbc']
+Rank 2 | Centroid: ' play' | Score: 0.0129
+  Tokens: [' play', ' role', ' Play', ' plays', ' playing']
+Rank 3 | Centroid: ' television' | Score: 0.0102
+  Tokens: [' TV', ' television', ' Television', ' tele', ' televis']
+Rank 4 | Centroid: ' program' | Score: 0.0049
+  Tokens: [' series', ' production', ' article', ' programme', ' title', ' program']
+Rank 5 | Centroid: ' British' | Score: 0.0028
+  Tokens: [' UK', ' British', ' Royal', ' Australian', ' London', ' Scottish', ' Brit', ' Cambridge', ' English']
+Rank 6 | Centroid: ' theatre' | Score: 0.0018
+  Tokens: [' film', ' Broadway', ' comedy', ' movie', ' stage', ' theatre', ' drama', ' theater', ' Shakespeare']
+Rank 7 | Centroid: ' show' | Score: 0.0009
+  Tokens: [' show', ' following', ' same', ' work', ' book', ' other', ' web']
+Rank 8 | Centroid: ' CBS' | Score: 0.0009
+  Tokens: [' ABC', ' CBC', ' BB', ' NBC', ' CBS', ' HBO', ' PBS', ' BC']
+Rank 9 | Centroid: ' National' | Score: 0.0006
+  Tokens: [' National', ' United', ' national', ' US']
+Rank 10 | Centroid: ' first' | Score: 0.0005
+  Tokens: [' first', ' third', ' First']
+Rank 11 | Centroid: ' broadcast' | Score: 0.0004
+  Tokens: [' broadcast', ' radio', ' broadcasting']
+Rank 12 | Centroid: ' the' | Score: 0.0004
+  Tokens: [' B', ' The', ' the', ' A', ' New', ' T', ' M', ' U', ' public', ' L']
+Rank 13 | Centroid: ' sitcom' | Score: 0.0002
+  Tokens: [' sitcom', ' ITV', ' Netflix']
+Rank 14 | Centroid: ' East' | Score: 0.0001
+  Tokens: [' West', ' North', ' East']
+Rank 15 | Centroid: ' anthology' | Score: 0.0001
+  Tokens: [' episode', ' anthology', ' premiere', ' sequel']
+Rank 16 | Centroid: ' cast' | Score: 0.0000
+  Tokens: [' cast']
+Rank 17 | Centroid: ' Burn' | Score: 0.0000
+  Tokens: [' Burn']
+
+**Chosen Concept:** Rank 1

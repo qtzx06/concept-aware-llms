@@ -1,0 +1,132 @@
+--- Step 98 Log ---
+
+== Filtered Candidates ==
+Token: 'ter' (ID: 465), Prob: 1.0000
+Token: 'ters' (ID: 5045), Prob: 0.0000
+Token: '_ter' (ID: 72493), Prob: 0.0000
+Token: 'te' (ID: 665), Prob: 0.0000
+Token: 'TER' (ID: 4198), Prob: 0.0000
+Token: 'tered' (ID: 33159), Prob: 0.0000
+Token: 'tr' (ID: 376), Prob: 0.0000
+Token: 'fter' (ID: 1046), Prob: 0.0000
+Token: ' ter' (ID: 1982), Prob: 0.0000
+Token: 'chter' (ID: 66685), Prob: 0.0000
+Token: 'tet' (ID: 72442), Prob: 0.0000
+Token: 'fer' (ID: 802), Prob: 0.0000
+Token: 'atter' (ID: 1650), Prob: 0.0000
+Token: ' TER' (ID: 48848), Prob: 0.0000
+Token: 'ver' (ID: 423), Prob: 0.0000
+Token: 'tor' (ID: 10980), Prob: 0.0000
+Token: 'th' (ID: 339), Prob: 0.0000
+Token: 'cer' (ID: 3828), Prob: 0.0000
+Token: 'ther' (ID: 696), Prob: 0.0000
+Token: 'terror' (ID: 37388), Prob: 0.0000
+Token: 'tery' (ID: 17615), Prob: 0.0000
+Token: 'setter' (ID: 88479), Prob: 0.0000
+Token: 'Ter' (ID: 21209), Prob: 0.0000
+Token: 'ifter' (ID: 37700), Prob: 0.0000
+Token: 'taire' (ID: 70137), Prob: 0.0000
+Token: ' tert' (ID: 97114), Prob: 0.0000
+Token: 'try' (ID: 1539), Prob: 0.0000
+Token: 'bert' (ID: 9160), Prob: 0.0000
+Token: ' Turner' (ID: 33031), Prob: 0.0000
+Token: 'tern' (ID: 4160), Prob: 0.0000
+Token: 'der' (ID: 1107), Prob: 0.0000
+Token: 'tier' (ID: 49335), Prob: 0.0000
+Token: 'ort' (ID: 371), Prob: 0.0000
+Token: 'arter' (ID: 5295), Prob: 0.0000
+Token: 'cter' (ID: 74069), Prob: 0.0000
+Token: 'tes' (ID: 2338), Prob: 0.0000
+Token: ' Ter' (ID: 10127), Prob: 0.0000
+Token: 'trer' (ID: 94820), Prob: 0.0000
+Token: 'uter' (ID: 27951), Prob: 0.0000
+Token: ' Monter' (ID: 64998), Prob: 0.0000
+Token: 'mer' (ID: 1174), Prob: 0.0000
+Token: 'ser' (ID: 799), Prob: 0.0000
+Token: 'etter' (ID: 21405), Prob: 0.0000
+Token: 'ert' (ID: 529), Prob: 0.0000
+Token: 'terra' (ID: 47821), Prob: 0.0000
+Token: 'ster' (ID: 3667), Prob: 0.0000
+Token: 'term' (ID: 4991), Prob: 0.0000
+Token: 'ton' (ID: 777), Prob: 0.0000
+Token: 'ts' (ID: 2576), Prob: 0.0000
+Token: 'zer' (ID: 7070), Prob: 0.0000
+Token: 'wer' (ID: 6566), Prob: 0.0000
+Token: ' terrace' (ID: 51478), Prob: 0.0000
+Token: 'true' (ID: 1866), Prob: 0.0000
+Token: 'anter' (ID: 80030), Prob: 0.0000
+Token: 'set' (ID: 746), Prob: 0.0000
+Token: 'ater' (ID: 962), Prob: 0.0000
+Token: 'met' (ID: 4059), Prob: 0.0000
+Token: 'tera' (ID: 50037), Prob: 0.0000
+Token: 'type' (ID: 1313), Prob: 0.0000
+Token: 'quer' (ID: 15959), Prob: 0.0000
+Token: 'serter' (ID: 90727), Prob: 0.0000
+Token: 'ker' (ID: 7052), Prob: 0.0000
+Token: 'ger' (ID: 1389), Prob: 0.0000
+Token: 'tero' (ID: 90389), Prob: 0.0000
+Token: ''t' (ID: 944), Prob: 0.0000
+Token: 'ten' (ID: 1960), Prob: 0.0000
+Token: 'byter' (ID: 71607), Prob: 0.0000
+Token: 'let' (ID: 1149), Prob: 0.0000
+Token: 'ertype' (ID: 45069), Prob: 0.0000
+Token: 't' (ID: 83), Prob: 0.0000
+Token: 'test' (ID: 1944), Prob: 0.0000
+Token: 'acter' (ID: 2481), Prob: 0.0000
+Token: 'verter' (ID: 8721), Prob: 0.0000
+Token: 'vert' (ID: 1621), Prob: 0.0000
+Token: 'terr' (ID: 68669), Prob: 0.0000
+Token: 'text' (ID: 1318), Prob: 0.0000
+Token: 'ture' (ID: 4974), Prob: 0.0000
+Token: 'tel' (ID: 22924), Prob: 0.0000
+Token: 'elter' (ID: 17872), Prob: 0.0000
+Token: 'tering' (ID: 59385), Prob: 0.0000
+Token: 'tur' (ID: 65367), Prob: 0.0000
+
+== Ranked Concepts (Clusters) ==
+Rank 1 | Centroid: ' Ter' | Score: 1.0000
+  Tokens: ['ter', '_ter', 'TER', ' ter', ' TER', 'Ter', ' Ter']
+Rank 2 | Centroid: 'tering' | Score: 0.0000
+  Tokens: ['ters', 'tered', 'tery', 'tern', 'tera', 'tero', 'tering']
+Rank 3 | Centroid: 'te' | Score: 0.0000
+  Tokens: ['te', 'tes', 'ton', 'ts', 'ten', 't']
+Rank 4 | Centroid: 'text' | Score: 0.0000
+  Tokens: ['tr', 'th', 'set', 'type', "'t", 'let', 'test', 'text']
+Rank 5 | Centroid: 'cter' | Score: 0.0000
+  Tokens: ['fter', 'chter', 'cter', 'acter']
+Rank 6 | Centroid: 'tet' | Score: 0.0000
+  Tokens: ['tet', 'tor', 'tier', 'tel', 'tur']
+Rank 7 | Centroid: 'ger' | Score: 0.0000
+  Tokens: ['fer', 'cer', 'der', 'mer', 'ker', 'ger']
+Rank 8 | Centroid: 'ater' | Score: 0.0000
+  Tokens: ['atter', 'arter', 'uter', 'ater']
+Rank 9 | Centroid: 'vert' | Score: 0.0000
+  Tokens: ['ver', 'verter', 'vert']
+Rank 10 | Centroid: 'terr' | Score: 0.0000
+  Tokens: ['terror', 'terra', ' terrace', 'terr']
+Rank 11 | Centroid: ' Turner' | Score: 0.0000
+  Tokens: ['ifter', ' Turner', ' Monter', 'anter', 'byter']
+Rank 12 | Centroid: 'ser' | Score: 0.0000
+  Tokens: ['ther', 'ser', 'zer']
+Rank 13 | Centroid: 'true' | Score: 0.0000
+  Tokens: ['try', 'trer', 'true']
+Rank 14 | Centroid: 'setter' | Score: 0.0000
+  Tokens: ['setter', 'serter']
+Rank 15 | Centroid: 'ert' | Score: 0.0000
+  Tokens: ['bert', 'ert', 'ertype']
+Rank 16 | Centroid: 'taire' | Score: 0.0000
+  Tokens: ['taire', 'ture']
+Rank 17 | Centroid: ' tert' | Score: 0.0000
+  Tokens: [' tert']
+Rank 18 | Centroid: 'ort' | Score: 0.0000
+  Tokens: ['ort', 'met']
+Rank 19 | Centroid: 'etter' | Score: 0.0000
+  Tokens: ['etter', 'elter']
+Rank 20 | Centroid: 'wer' | Score: 0.0000
+  Tokens: ['wer', 'quer']
+Rank 21 | Centroid: 'ster' | Score: 0.0000
+  Tokens: ['ster']
+Rank 22 | Centroid: 'term' | Score: 0.0000
+  Tokens: ['term']
+
+**Chosen Concept:** Rank 1

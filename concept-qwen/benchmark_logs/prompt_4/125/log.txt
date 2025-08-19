@@ -1,155 +1,99 @@
 --- Step 125 Log ---
 
 == Filtered Candidates ==
-Token: ' put' (ID: 2182), Prob: 0.9141
-Token: ' start' (ID: 1191), Prob: 0.0400
-Token: ' draft' (ID: 9960), Prob: 0.0354
-Token: ' piece' (ID: 6573), Prob: 0.0070
-Token: ' structure' (ID: 5944), Prob: 0.0014
-Token: ' try' (ID: 1430), Prob: 0.0011
-Token: ' begin' (ID: 3161), Prob: 0.0007
-Token: ' outline' (ID: 21101), Prob: 0.0001
-Token: ' write' (ID: 3270), Prob: 0.0001
-Token: ' get' (ID: 633), Prob: 0.0000
-Token: ' build' (ID: 1936), Prob: 0.0000
-Token: ' putting' (ID: 10687), Prob: 0.0000
-Token: ' compose' (ID: 30335), Prob: 0.0000
-Token: ' brainstorm' (ID: 86781), Prob: 0.0000
-Token: ' flesh' (ID: 24955), Prob: 0.0000
-Token: ' see' (ID: 1490), Prob: 0.0000
-Token: ' craft' (ID: 10770), Prob: 0.0000
-Token: ' pour' (ID: 4914), Prob: 0.0000
-Token: ' think' (ID: 1744), Prob: 0.0000
-Token: ' time' (ID: 882), Prob: 0.0000
-Token: ' throw' (ID: 2510), Prob: 0.0000
-Token: ' assemble' (ID: 41740), Prob: 0.0000
-Token: ' combine' (ID: 15963), Prob: 0.0000
-Token: ' arrange' (ID: 30893), Prob: 0.0000
-Token: ' pull' (ID: 6815), Prob: 0.0000
-Token: ' plan' (ID: 3119), Prob: 0.0000
-Token: ' organize' (ID: 30235), Prob: 0.0000
-Token: ' format' (ID: 3561), Prob: 0.0000
-Token: ' pick' (ID: 3735), Prob: 0.0000
-Token: ' bring' (ID: 4446), Prob: 0.0000
-Token: ' attempt' (ID: 4774), Prob: 0.0000
-Token: ' sketch' (ID: 25529), Prob: 0.0000
-Token: ' jot' (ID: 92380), Prob: 0.0000
-Token: ' jump' (ID: 7784), Prob: 0.0000
-Token: ' puts' (ID: 9521), Prob: 0.0000
-Token: ' shape' (ID: 6083), Prob: 0.0000
-Token: ' form' (ID: 1352), Prob: 0.0000
-Token: ' break' (ID: 1438), Prob: 0.0000
-Token: ' lay' (ID: 10962), Prob: 0.0000
-Token: '	put' (ID: 45062), Prob: 0.0000
-Token: ' weave' (ID: 67508), Prob: 0.0000
-Token: ' proceed' (ID: 10354), Prob: 0.0000
-Token: ' tie' (ID: 18131), Prob: 0.0000
-Token: ' construct' (ID: 9245), Prob: 0.0000
-Token: ' make' (ID: 1281), Prob: 0.0000
-Token: ' compile' (ID: 19192), Prob: 0.0000
-Token: ' stitch' (ID: 32861), Prob: 0.0000
-Token: ' str' (ID: 607), Prob: 0.0000
-Token: 'Draft' (ID: 50086), Prob: 0.0000
-Token: ' string' (ID: 914), Prob: 0.0000
-Token: ' wrap' (ID: 15061), Prob: 0.0000
-Token: ' drafting' (ID: 57900), Prob: 0.0000
-Token: ' check' (ID: 1779), Prob: 0.0000
-Token: ' group' (ID: 1874), Prob: 0.0000
-Token: ' pie' (ID: 4349), Prob: 0.0000
-Token: ' pieces' (ID: 9666), Prob: 0.0000
-Token: ' set' (ID: 738), Prob: 0.0000
-Token: ' take' (ID: 1896), Prob: 0.0000
-Token: ' struct' (ID: 2036), Prob: 0.0000
-Token: 'put' (ID: 628), Prob: 0.0000
-Token: ' word' (ID: 3409), Prob: 0.0000
-Token: ' grab' (ID: 11633), Prob: 0.0000
-Token: ' starts' (ID: 8471), Prob: 0.0000
-Token: ' cob' (ID: 33828), Prob: 0.0000
-Token: ' paraph' (ID: 62230), Prob: 0.0000
-Token: ' plot' (ID: 7089), Prob: 0.0000
-Token: ' place' (ID: 1992), Prob: 0.0000
-Token: ' chunk' (ID: 11879), Prob: 0.0000
-Token: ' prototype' (ID: 24052), Prob: 0.0000
-Token: ' gather' (ID: 9567), Prob: 0.0000
-Token: ' hit' (ID: 4201), Prob: 0.0000
-Token: ' step' (ID: 3019), Prob: 0.0000
-Token: ' stick' (ID: 9214), Prob: 0.0000
-Token: ' plug' (ID: 19633), Prob: 0.0000
-Token: ' work' (ID: 975), Prob: 0.0000
-Token: ' hammer' (ID: 23457), Prob: 0.0000
-Token: ' translate' (ID: 14683), Prob: 0.0000
-Token: ' rewrite' (ID: 18130), Prob: 0.0000
-Token: ' count' (ID: 1760), Prob: 0.0000
-Token: ' bind' (ID: 10719), Prob: 0.0000
-Token: ' visualize' (ID: 50087), Prob: 0.0000
-Token: ' hold' (ID: 3331), Prob: 0.0000
-Token: ' move' (ID: 3271), Prob: 0.0000
-Token: ' push' (ID: 4484), Prob: 0.0000
-Token: ' cut' (ID: 3931), Prob: 0.0000
-Token: ' plant' (ID: 6008), Prob: 0.0000
-Token: ' began' (ID: 6009), Prob: 0.0000
-Token: ' commence' (ID: 55345), Prob: 0.0000
-Token: '-piece' (ID: 55864), Prob: 0.0000
-Token: ' pitch' (ID: 9649), Prob: 0.0000
-Token: ' hook' (ID: 9704), Prob: 0.0000
-Token: ' goose' (ID: 62137), Prob: 0.0000
-Token: ' Draft' (ID: 28564), Prob: 0.0000
-Token: ' organ' (ID: 2872), Prob: 0.0000
-Token: ' unfold' (ID: 27472), Prob: 0.0000
-Token: ' blend' (ID: 20334), Prob: 0.0000
+Token: ' B' (ID: 425), Prob: 0.7812
+Token: ' In' (ID: 758), Prob: 0.0498
+Token: ' He' (ID: 1260), Prob: 0.0267
+Token: ' The' (ID: 576), Prob: 0.0111
+Token: ' This' (ID: 1096), Prob: 0.0046
+Token: ' His' (ID: 5301), Prob: 0.0046
+Token: ' I' (ID: 358), Prob: 0.0019
+Token: ' Please' (ID: 5209), Prob: 0.0019
+Token: ' It' (ID: 1084), Prob: 0.0013
+Token: ' There' (ID: 2619), Prob: 0.0013
+Token: ' According' (ID: 10548), Prob: 0.0013
+Token: ' As' (ID: 1634), Prob: 0.0012
+Token: ' What' (ID: 3555), Prob: 0.0009
+Token: ' However' (ID: 4354), Prob: 0.0008
+Token: ' After' (ID: 4636), Prob: 0.0008
+Token: ' A' (ID: 362), Prob: 0.0007
+Token: ' For' (ID: 1752), Prob: 0.0007
+Token: ' That' (ID: 2938), Prob: 0.0007
+Token: ' Since' (ID: 8704), Prob: 0.0007
+Token: ' On' (ID: 1913), Prob: 0.0006
+Token: ' How' (ID: 2585), Prob: 0.0006
+Token: ' When' (ID: 3197), Prob: 0.0006
+Token: ' These' (ID: 4220), Prob: 0.0006
+Token: ' Given' (ID: 16246), Prob: 0.0006
+Token: 'B' (ID: 33), Prob: 0.0004
+Token: ' During' (ID: 11954), Prob: 0.0004
+Token: ' From' (ID: 5542), Prob: 0.0004
+Token: ' Based' (ID: 20205), Prob: 0.0004
+Token: ' But' (ID: 1988), Prob: 0.0003
+Token: ' Despite' (ID: 17715), Prob: 0.0003
+Token: ' Between' (ID: 27133), Prob: 0.0003
+Token: ' At' (ID: 2411), Prob: 0.0002
+Token: ' Wait' (ID: 13824), Prob: 0.0002
+Token: ' And' (ID: 1597), Prob: 0.0002
+Token: ' So' (ID: 2055), Prob: 0.0002
+Token: ' Where' (ID: 10967), Prob: 0.0002
+Token: ' Which' (ID: 15920), Prob: 0.0002
+Token: ' Also' (ID: 7281), Prob: 0.0002
+Token: ' Why' (ID: 8429), Prob: 0.0002
+Token: ' Is' (ID: 2160), Prob: 0.0001
+Token: ' Let' (ID: 6771), Prob: 0.0001
+Token: ' Because' (ID: 9211), Prob: 0.0001
+Token: ' D' (ID: 422), Prob: 0.0001
+Token: ' Re' (ID: 1032), Prob: 0.0001
+Token: ' Has' (ID: 11443), Prob: 0.0001
+Token: ' All' (ID: 2009), Prob: 0.0001
+Token: ' One' (ID: 3776), Prob: 0.0001
+Token: ' Each' (ID: 8886), Prob: 0.0001
+Token: ' E' (ID: 468), Prob: 0.0001
+Token: ' H' (ID: 472), Prob: 0.0001
+Token: ' By' (ID: 3216), Prob: 0.0001
+Token: ' While' (ID: 5976), Prob: 0.0001
+Token: ' Then' (ID: 5005), Prob: 0.0001
+Token: ' Repeat' (ID: 44801), Prob: 0.0001
+Token: ' and' (ID: 323), Prob: 0.0001
+Token: ' P' (ID: 393), Prob: 0.0001
 
 == Ranked Concepts (Clusters) ==
-Rank 1 | Centroid: ' put' | Score: 0.9141
-  Tokens: [' put', ' putting', ' puts', '\tput', 'put']
-Rank 2 | Centroid: ' begin' | Score: 0.0408
-  Tokens: [' start', ' begin', ' starts', ' began', ' commence']
-Rank 3 | Centroid: ' Draft' | Score: 0.0354
-  Tokens: [' draft', 'Draft', ' drafting', ' Draft']
-Rank 4 | Centroid: ' piece' | Score: 0.0070
-  Tokens: [' piece', ' pie', ' pieces', ' chunk', '-piece']
-Rank 5 | Centroid: ' structure' | Score: 0.0014
-  Tokens: [' structure', ' struct']
-Rank 6 | Centroid: ' get' | Score: 0.0011
-  Tokens: [' try', ' get', ' see', ' think', ' break', ' make', ' check', ' take']
-Rank 7 | Centroid: ' sketch' | Score: 0.0001
-  Tokens: [' outline', ' craft', ' sketch', ' prototype']
-Rank 8 | Centroid: ' write' | Score: 0.0001
-  Tokens: [' write', ' rewrite']
-Rank 9 | Centroid: ' build' | Score: 0.0000
-  Tokens: [' build', ' construct']
-Rank 10 | Centroid: ' brainstorm' | Score: 0.0000
-  Tokens: [' brainstorm', ' flesh', ' jot', ' paraph', ' hammer', ' goose']
-Rank 11 | Centroid: ' combine' | Score: 0.0000
-  Tokens: [' compose', ' assemble', ' combine', ' weave', ' compile', ' gather', ' translate', ' unfold', ' blend']
-Rank 12 | Centroid: ' pull' | Score: 0.0000
-  Tokens: [' throw', ' pull', ' pick', ' jump', ' grab', ' push']
-Rank 13 | Centroid: ' pour' | Score: 0.0000
-  Tokens: [' pour', ' place']
-Rank 14 | Centroid: ' organize' | Score: 0.0000
-  Tokens: [' arrange', ' organize', ' organ']
-Rank 15 | Centroid: ' time' | Score: 0.0000
-  Tokens: [' time', ' group', ' step', ' work']
-Rank 16 | Centroid: ' format' | Score: 0.0000
-  Tokens: [' format', ' shape', ' form']
-Rank 17 | Centroid: ' plant' | Score: 0.0000
-  Tokens: [' plan', ' plot', ' plant']
-Rank 18 | Centroid: ' bring' | Score: 0.0000
-  Tokens: [' bring', ' move']
-Rank 19 | Centroid: ' attempt' | Score: 0.0000
-  Tokens: [' attempt']
-Rank 20 | Centroid: ' bind' | Score: 0.0000
-  Tokens: [' tie', ' wrap', ' bind', ' hold']
-Rank 21 | Centroid: ' set' | Score: 0.0000
-  Tokens: [' lay', ' set', ' count']
-Rank 22 | Centroid: ' string' | Score: 0.0000
-  Tokens: [' str', ' string', ' word']
-Rank 23 | Centroid: ' proceed' | Score: 0.0000
-  Tokens: [' proceed', ' visualize']
-Rank 24 | Centroid: ' stitch' | Score: 0.0000
-  Tokens: [' stitch', ' cob']
-Rank 25 | Centroid: ' hit' | Score: 0.0000
-  Tokens: [' hit', ' stick', ' cut', ' hook']
-Rank 26 | Centroid: ' plug' | Score: 0.0000
-  Tokens: [' plug', ' pitch']
+Rank 1 | Centroid: ' B' | Score: 0.7812
+  Tokens: [' B', 'B']
+Rank 2 | Centroid: ' For' | Score: 0.0530
+  Tokens: [' In', ' As', ' For', ' On', ' From', ' At', ' By']
+Rank 3 | Centroid: ' He' | Score: 0.0312
+  Tokens: [' He', ' His']
+Rank 4 | Centroid: ' This' | Score: 0.0190
+  Tokens: [' The', ' This', ' It', ' There', ' These', ' Each']
+Rank 5 | Centroid: ' A' | Score: 0.0031
+  Tokens: [' I', ' A', ' D', ' E', ' H', ' and', ' P']
+Rank 6 | Centroid: ' According' | Score: 0.0023
+  Tokens: [' According', ' Given', ' Based']
+Rank 7 | Centroid: ' What' | Score: 0.0021
+  Tokens: [' What', ' How', ' Where', ' Which', ' Why']
+Rank 8 | Centroid: ' Since' | Score: 0.0020
+  Tokens: [' However', ' Since', ' Despite', ' Because', ' While']
+Rank 9 | Centroid: ' Please' | Score: 0.0019
+  Tokens: [' Please']
+Rank 10 | Centroid: ' When' | Score: 0.0018
+  Tokens: [' After', ' When', ' During']
+Rank 11 | Centroid: ' That' | Score: 0.0010
+  Tokens: [' That', ' Also', ' Then']
+Rank 12 | Centroid: ' But' | Score: 0.0007
+  Tokens: [' But', ' And', ' So']
+Rank 13 | Centroid: ' Wait' | Score: 0.0003
+  Tokens: [' Wait', ' Repeat']
+Rank 14 | Centroid: ' Is' | Score: 0.0003
+  Tokens: [' Is', ' Has']
+Rank 15 | Centroid: ' Between' | Score: 0.0003
+  Tokens: [' Between']
+Rank 16 | Centroid: ' All' | Score: 0.0002
+  Tokens: [' All', ' One']
+Rank 17 | Centroid: ' Let' | Score: 0.0001
+  Tokens: [' Let']
+Rank 18 | Centroid: ' Re' | Score: 0.0001
+  Tokens: [' Re']
 
 **Chosen Concept:** Rank 1

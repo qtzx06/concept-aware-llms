@@ -1,0 +1,133 @@
+--- Step 49 Log ---
+
+== Filtered Candidates ==
+Token: ' series' (ID: 4013), Prob: 0.9258
+Token: ' show' (ID: 1473), Prob: 0.0593
+Token: ' movie' (ID: 5700), Prob: 0.0033
+Token: ' drama' (ID: 19584), Prob: 0.0029
+Token: ' episode' (ID: 9234), Prob: 0.0020
+Token: ' comedy' (ID: 22358), Prob: 0.0014
+Token: ' special' (ID: 3281), Prob: 0.0011
+Token: ' Show' (ID: 6928), Prob: 0.0007
+Token: ' mini' (ID: 13420), Prob: 0.0006
+Token: ' film' (ID: 4531), Prob: 0.0003
+Token: ' min' (ID: 1308), Prob: 0.0003
+Token: ' sitcom' (ID: 80366), Prob: 0.0002
+Token: ' Series' (ID: 11131), Prob: 0.0002
+Token: ' episodes' (ID: 17770), Prob: 0.0002
+Token: ' version' (ID: 2319), Prob: 0.0001
+Token: ' premiere' (ID: 34852), Prob: 0.0001
+Token: ' shows' (ID: 4933), Prob: 0.0001
+Token: ' and' (ID: 323), Prob: 0.0000
+Token: ' program' (ID: 2025), Prob: 0.0000
+Token: ' network' (ID: 3922), Prob: 0.0000
+Token: ' serial' (ID: 6146), Prob: 0.0000
+Token: ' crime' (ID: 9778), Prob: 0.0000
+Token: ' Special' (ID: 9785), Prob: 0.0000
+Token: ' pilot' (ID: 17708), Prob: 0.0000
+Token: ' variety' (ID: 8045), Prob: 0.0000
+Token: ' Western' (ID: 10867), Prob: 0.0000
+Token: ' anthology' (ID: 83008), Prob: 0.0000
+Token: ' season' (ID: 3200), Prob: 0.0000
+Token: ' western' (ID: 18494), Prob: 0.0000
+Token: '-series' (ID: 56332), Prob: 0.0000
+Token: ' specials' (ID: 59774), Prob: 0.0000
+Token: ' short' (ID: 2805), Prob: 0.0000
+Token: ' horror' (ID: 21452), Prob: 0.0000
+Token: ' adaptation' (ID: 33085), Prob: 0.0000
+Token: ' hit' (ID: 4201), Prob: 0.0000
+Token: ' movies' (ID: 9508), Prob: 0.0000
+Token: ' documentary' (ID: 24954), Prob: 0.0000
+Token: ' dramas' (ID: 87726), Prob: 0.0000
+Token: ' thriller' (ID: 53361), Prob: 0.0000
+Token: ' Drama' (ID: 46469), Prob: 0.0000
+Token: ' broadcast' (ID: 12899), Prob: 0.0000
+Token: ' Movie' (ID: 13944), Prob: 0.0000
+Token: ' soap' (ID: 26785), Prob: 0.0000
+Token: ' television' (ID: 12425), Prob: 0.0000
+Token: ' production' (ID: 5670), Prob: 0.0000
+Token: ' appearance' (ID: 11094), Prob: 0.0000
+Token: ' films' (ID: 12351), Prob: 0.0000
+Token: ' science' (ID: 8038), Prob: 0.0000
+Token: ' legal' (ID: 5777), Prob: 0.0000
+Token: ' action' (ID: 1917), Prob: 0.0000
+Token: ' anime' (ID: 22809), Prob: 0.0000
+Token: ' serie' (ID: 32878), Prob: 0.0000
+Token: ' spin' (ID: 12616), Prob: 0.0000
+Token: ' programming' (ID: 15473), Prob: 0.0000
+Token: 'series' (ID: 19880), Prob: 0.0000
+Token: ' remake' (ID: 58055), Prob: 0.0000
+Token: ' airing' (ID: 70253), Prob: 0.0000
+Token: ' Comedy' (ID: 43751), Prob: 0.0000
+Token: ' reality' (ID: 8729), Prob: 0.0000
+Token: ' mystery' (ID: 22531), Prob: 0.0000
+Token: '-m' (ID: 1448), Prob: 0.0000
+Token: ' event' (ID: 1538), Prob: 0.0000
+Token: ' stage' (ID: 6430), Prob: 0.0000
+Token: ' medical' (ID: 6457), Prob: 0.0000
+Token: '-d' (ID: 1737), Prob: 0.0000
+Token: ' Network' (ID: 8141), Prob: 0.0000
+Token: ' Mini' (ID: 19643), Prob: 0.0000
+Token: 'D' (ID: 35), Prob: 0.0000
+Token: ' dr' (ID: 1353), Prob: 0.0000
+Token: ' album' (ID: 8017), Prob: 0.0000
+Token: ' talk' (ID: 3061), Prob: 0.0000
+Token: ' station' (ID: 8056), Prob: 0.0000
+Token: ' The' (ID: 576), Prob: 0.0000
+Token: ' feature' (ID: 4565), Prob: 0.0000
+Token: ' Film' (ID: 16631), Prob: 0.0000
+Token: ' debut' (ID: 17306), Prob: 0.0000
+Token: ' sci' (ID: 37974), Prob: 0.0000
+Token: ' police' (ID: 4282), Prob: 0.0000
+Token: 'Show' (ID: 7812), Prob: 0.0000
+Token: ' programme' (ID: 18136), Prob: 0.0000
+Token: ' romantic' (ID: 23467), Prob: 0.0000
+Token: ' Version' (ID: 6079), Prob: 0.0000
+Token: ' lineup' (ID: 27512), Prob: 0.0000
+Token: ' play' (ID: 1486), Prob: 0.0000
+Token: ' screen' (ID: 4171), Prob: 0.0000
+Token: ' animated' (ID: 11371), Prob: 0.0000
+Token: ' premier' (ID: 20496), Prob: 0.0000
+Token: ' detective' (ID: 44159), Prob: 0.0000
+Token: ' Min' (ID: 3386), Prob: 0.0000
+Token: ' finale' (ID: 36298), Prob: 0.0000
+
+== Ranked Concepts (Clusters) ==
+Rank 1 | Centroid: ' series' | Score: 0.9258
+  Tokens: [' series', ' Series', ' serial', '-series', ' serie', 'series']
+Rank 2 | Centroid: ' show' | Score: 0.0601
+  Tokens: [' show', ' Show', ' shows', 'Show']
+Rank 3 | Centroid: ' drama' | Score: 0.0046
+  Tokens: [' drama', ' comedy', ' sitcom', ' dramas', ' Drama', ' Comedy']
+Rank 4 | Centroid: ' movie' | Score: 0.0037
+  Tokens: [' movie', ' film', ' movies', ' documentary', ' Movie', ' television', ' films', ' anime', ' Film']
+Rank 5 | Centroid: ' episode' | Score: 0.0022
+  Tokens: [' episode', ' episodes', ' season']
+Rank 6 | Centroid: ' Special' | Score: 0.0011
+  Tokens: [' special', ' Special', ' specials']
+Rank 7 | Centroid: ' Mini' | Score: 0.0009
+  Tokens: [' mini', ' min', ' Mini', ' Min']
+Rank 8 | Centroid: ' version' | Score: 0.0002
+  Tokens: [' version', ' pilot', ' variety', ' adaptation', ' hit', ' production', ' appearance', ' feature', ' Version']
+Rank 9 | Centroid: ' premiere' | Score: 0.0001
+  Tokens: [' premiere', ' anthology', ' remake', ' airing', ' debut', ' lineup', ' premier', ' finale']
+Rank 10 | Centroid: ' western' | Score: 0.0001
+  Tokens: [' crime', ' Western', ' western', ' science', ' legal', ' spin', ' medical', ' sci', ' police']
+Rank 11 | Centroid: ' The' | Score: 0.0001
+  Tokens: [' and', ' short', '-m', '-d', 'D', ' dr', ' The', ' play']
+Rank 12 | Centroid: ' program' | Score: 0.0000
+  Tokens: [' program', ' programming', ' programme']
+Rank 13 | Centroid: ' network' | Score: 0.0000
+  Tokens: [' network', ' broadcast', ' Network']
+Rank 14 | Centroid: ' horror' | Score: 0.0000
+  Tokens: [' horror', ' thriller', ' soap', ' reality', ' mystery', ' romantic', ' detective']
+Rank 15 | Centroid: ' event' | Score: 0.0000
+  Tokens: [' action', ' event', ' stage', ' station']
+Rank 16 | Centroid: ' album' | Score: 0.0000
+  Tokens: [' album', ' animated']
+Rank 17 | Centroid: ' talk' | Score: 0.0000
+  Tokens: [' talk']
+Rank 18 | Centroid: ' screen' | Score: 0.0000
+  Tokens: [' screen']
+
+**Chosen Concept:** Rank 1

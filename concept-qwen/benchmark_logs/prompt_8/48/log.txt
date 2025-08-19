@@ -1,0 +1,110 @@
+--- Step 48 Log ---
+
+== Filtered Candidates ==
+Token: ' its' (ID: 1181), Prob: 0.4746
+Token: ' the' (ID: 279), Prob: 0.2871
+Token: ' literary' (ID: 31365), Prob: 0.0728
+Token: ' his' (ID: 806), Prob: 0.0267
+Token: ' traditional' (ID: 8606), Prob: 0.0237
+Token: ' Chinese' (ID: 8453), Prob: 0.0209
+Token: ' their' (ID: 862), Prob: 0.0143
+Token: ' criticism' (ID: 18817), Prob: 0.0126
+Token: ' interpretation' (ID: 22845), Prob: 0.0077
+Token: ' poetry' (ID: 31249), Prob: 0.0068
+Token: ' literature' (ID: 17206), Prob: 0.0041
+Token: ' how' (ID: 1246), Prob: 0.0022
+Token: ' which' (ID: 892), Prob: 0.0019
+Token: ' classical' (ID: 28824), Prob: 0.0019
+Token: ' what' (ID: 1128), Prob: 0.0017
+Token: ' critical' (ID: 9023), Prob: 0.0017
+Token: ' art' (ID: 1947), Prob: 0.0015
+Token: ' poetic' (ID: 75434), Prob: 0.0012
+Token: ' related' (ID: 5435), Prob: 0.0009
+Token: ' critics' (ID: 22698), Prob: 0.0009
+Token: ' artistic' (ID: 31592), Prob: 0.0009
+Token: ' interpretations' (ID: 57589), Prob: 0.0009
+Token: ' interpreting' (ID: 65644), Prob: 0.0008
+Token: ' this' (ID: 419), Prob: 0.0007
+Token: ' ancient' (ID: 13833), Prob: 0.0007
+Token: ' why' (ID: 3170), Prob: 0.0006
+Token: ' tradition' (ID: 13815), Prob: 0.0005
+Token: ' it' (ID: 432), Prob: 0.0004
+Token: ' Po' (ID: 13808), Prob: 0.0004
+Token: ' scholarly' (ID: 62581), Prob: 0.0004
+Token: ' a' (ID: 264), Prob: 0.0004
+Token: ' is' (ID: 374), Prob: 0.0004
+Token: ' T' (ID: 350), Prob: 0.0003
+Token: ' cultural' (ID: 12752), Prob: 0.0003
+Token: ' aesthetics' (ID: 66223), Prob: 0.0003
+Token: ' modern' (ID: 6481), Prob: 0.0003
+Token: ' interpret' (ID: 14198), Prob: 0.0003
+Token: ' aesthetic' (ID: 36537), Prob: 0.0003
+Token: ' China' (ID: 5616), Prob: 0.0003
+Token: ' commentary' (ID: 30610), Prob: 0.0003
+Token: ' scholarship' (ID: 33125), Prob: 0.0003
+Token: ' Traditional' (ID: 45460), Prob: 0.0003
+Token: ' her' (ID: 1059), Prob: 0.0002
+Token: ' that' (ID: 429), Prob: 0.0002
+Token: ' Western' (ID: 10867), Prob: 0.0002
+Token: ' translation' (ID: 14468), Prob: 0.0002
+Token: ' Zhang' (ID: 36020), Prob: 0.0002
+Token: ' reading' (ID: 5290), Prob: 0.0002
+Token: ' analysis' (ID: 6358), Prob: 0.0002
+Token: ' theory' (ID: 10126), Prob: 0.0002
+Token: ' historical' (ID: 13656), Prob: 0.0002
+Token: ' other' (ID: 1008), Prob: 0.0002
+Token: ' Its' (ID: 11445), Prob: 0.0002
+Token: ' creative' (ID: 11521), Prob: 0.0002
+Token: ' evaluation' (ID: 16460), Prob: 0.0002
+Token: ' Tang' (ID: 40362), Prob: 0.0002
+Token: ' has' (ID: 702), Prob: 0.0001
+Token: ' style' (ID: 1707), Prob: 0.0001
+Token: ' classic' (ID: 11416), Prob: 0.0001
+Token: ' philosophy' (ID: 19128), Prob: 0.0001
+Token: ' writing' (ID: 4378), Prob: 0.0001
+Token: ' Han' (ID: 20644), Prob: 0.0001
+Token: ' appreciation' (ID: 34896), Prob: 0.0001
+Token: ' in' (ID: 304), Prob: 0.0001
+Token: ' po' (ID: 3193), Prob: 0.0001
+Token: ' moral' (ID: 15659), Prob: 0.0001
+Token: ' contemporary' (ID: 18706), Prob: 0.0001
+Token: ' painting' (ID: 18824), Prob: 0.0001
+Token: ' of' (ID: 315), Prob: 0.0001
+Token: ' comment' (ID: 3980), Prob: 0.0001
+Token: ' comments' (ID: 6042), Prob: 0.0001
+Token: ' Li' (ID: 14511), Prob: 0.0001
+Token: ' Liu' (ID: 37705), Prob: 0.0001
+Token: ' also' (ID: 1083), Prob: 0.0001
+Token: ' these' (ID: 1493), Prob: 0.0001
+Token: ' research' (ID: 3412), Prob: 0.0001
+Token: ' liter' (ID: 6935), Prob: 0.0001
+Token: ' critic' (ID: 9741), Prob: 0.0001
+Token: ' characteristics' (ID: 17452), Prob: 0.0001
+
+== Ranked Concepts (Clusters) ==
+Rank 1 | Centroid: ' its' | Score: 0.5156
+  Tokens: [' its', ' his', ' their', ' her', ' Its']
+Rank 2 | Centroid: ' the' | Score: 0.2969
+  Tokens: [' the', ' how', ' which', ' what', ' related', ' this', ' why', ' it', ' a', ' is', ' T', ' that', ' other', ' has', ' in', ' of', ' also', ' these']
+Rank 3 | Centroid: ' literary' | Score: 0.0771
+  Tokens: [' literary', ' literature', ' reading', ' writing', ' liter']
+Rank 4 | Centroid: ' traditional' | Score: 0.0278
+  Tokens: [' traditional', ' classical', ' ancient', ' tradition', ' modern', ' Traditional', ' historical', ' classic', ' contemporary']
+Rank 5 | Centroid: ' Zhang' | Score: 0.0220
+  Tokens: [' Chinese', ' China', ' Western', ' Zhang', ' Tang', ' Han', ' Li', ' Liu']
+Rank 6 | Centroid: ' critics' | Score: 0.0153
+  Tokens: [' criticism', ' critical', ' critics', ' critic']
+Rank 7 | Centroid: ' interpretation' | Score: 0.0099
+  Tokens: [' interpretation', ' interpretations', ' interpreting', ' interpret', ' translation']
+Rank 8 | Centroid: ' Po' | Score: 0.0085
+  Tokens: [' poetry', ' poetic', ' Po', ' po']
+Rank 9 | Centroid: ' artistic' | Score: 0.0038
+  Tokens: [' art', ' artistic', ' cultural', ' aesthetics', ' aesthetic', ' creative', ' moral', ' painting']
+Rank 10 | Centroid: ' scholarly' | Score: 0.0010
+  Tokens: [' scholarly', ' scholarship', ' theory', ' research']
+Rank 11 | Centroid: ' evaluation' | Score: 0.0008
+  Tokens: [' analysis', ' evaluation', ' style', ' philosophy', ' appreciation', ' characteristics']
+Rank 12 | Centroid: ' comments' | Score: 0.0005
+  Tokens: [' commentary', ' comment', ' comments']
+
+**Chosen Concept:** Rank 1

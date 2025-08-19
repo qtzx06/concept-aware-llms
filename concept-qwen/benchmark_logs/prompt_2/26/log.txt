@@ -1,124 +1,130 @@
 --- Step 26 Log ---
 
 == Filtered Candidates ==
-Token: ' start' (ID: 1191), Prob: 0.8867
-Token: ' around' (ID: 2163), Prob: 0.0126
-Token: ' something' (ID: 2494), Prob: 0.0036
-Token: ' use' (ID: 990), Prob: 0.0032
-Token: ' starting' (ID: 5916), Prob: 0.0032
-Token: ' two' (ID: 1378), Prob: 0.0022
-Token: ' add' (ID: 912), Prob: 0.0019
-Token: ' keep' (ID: 2506), Prob: 0.0019
-Token: ' structure' (ID: 5944), Prob: 0.0019
-Token: ' combine' (ID: 15963), Prob: 0.0019
-Token: ' three' (ID: 2326), Prob: 0.0015
-Token: ' include' (ID: 2924), Prob: 0.0015
-Token: ' make' (ID: 1281), Prob: 0.0013
-Token: ' four' (ID: 3040), Prob: 0.0013
-Token: ' write' (ID: 3270), Prob: 0.0012
-Token: ' split' (ID: 6718), Prob: 0.0007
-Token: ' mention' (ID: 6286), Prob: 0.0006
-Token: ' create' (ID: 1855), Prob: 0.0005
-Token: ' five' (ID: 4236), Prob: 0.0004
-Token: ' focus' (ID: 5244), Prob: 0.0004
-Token: ' describe' (ID: 7512), Prob: 0.0003
-Token: ' paraph' (ID: 62230), Prob: 0.0003
-Token: ' one' (ID: 825), Prob: 0.0003
-Token: ' summarize' (ID: 62079), Prob: 0.0002
-Token: ' take' (ID: 1896), Prob: 0.0002
-Token: ' say' (ID: 1977), Prob: 0.0002
-Token: ' tell' (ID: 3291), Prob: 0.0002
-Token: ' begin' (ID: 3161), Prob: 0.0002
-Token: ' highlight' (ID: 11167), Prob: 0.0002
-Token: ' cut' (ID: 3931), Prob: 0.0002
-Token: ' first' (ID: 1156), Prob: 0.0002
-Token: ' present' (ID: 3042), Prob: 0.0002
-Token: ' outline' (ID: 21101), Prob: 0.0002
-Token: ' put' (ID: 2182), Prob: 0.0002
-Token: ' integrate' (ID: 31072), Prob: 0.0001
-Token: ' check' (ID: 1779), Prob: 0.0001
-Token: ' within' (ID: 2878), Prob: 0.0001
-Token: ' set' (ID: 738), Prob: 0.0001
-Token: ' frame' (ID: 4034), Prob: 0.0001
-Token: ' sentence' (ID: 11652), Prob: 0.0001
-Token: ' using' (ID: 1667), Prob: 0.0001
-Token: ' need' (ID: 1184), Prob: 0.0001
-Token: ' limit' (ID: 3930), Prob: 0.0001
-Token: ' like' (ID: 1075), Prob: 0.0001
-Token: ' talk' (ID: 3061), Prob: 0.0001
-Token: ' break' (ID: 1438), Prob: 0.0001
-Token: ' suggest' (ID: 4190), Prob: 0.0001
-Token: ' half' (ID: 4279), Prob: 0.0001
-Token: ' starts' (ID: 8471), Prob: 0.0001
-Token: ' stick' (ID: 9214), Prob: 0.0001
-Token: ' six' (ID: 4743), Prob: 0.0001
-Token: ' avoid' (ID: 5648), Prob: 0.0001
-Token: ' incorporate' (ID: 32335), Prob: 0.0001
-Token: ' shorten' (ID: 73381), Prob: 0.0001
-Token: ' get' (ID: 633), Prob: 0.0001
-Token: ' wrap' (ID: 15061), Prob: 0.0001
-Token: ' find' (ID: 1477), Prob: 0.0001
-Token: ' provide' (ID: 3410), Prob: 0.0001
-Token: ' fit' (ID: 4946), Prob: 0.0001
-Token: ' story' (ID: 3364), Prob: 0.0000
-Token: ' follow' (ID: 1795), Prob: 0.0000
-Token: ' format' (ID: 3561), Prob: 0.0000
-Token: ' pick' (ID: 3735), Prob: 0.0000
-Token: ' paragraph' (ID: 14311), Prob: 0.0000
-Token: ' rewrite' (ID: 18130), Prob: 0.0000
-Token: ' give' (ID: 2968), Prob: 0.0000
-Token: ' original' (ID: 4024), Prob: 0.0000
-Token: ' phrase' (ID: 17133), Prob: 0.0000
-Token: ' place' (ID: 1992), Prob: 0.0000
-Token: ' adjust' (ID: 7500), Prob: 0.0000
-Token: ' paragraphs' (ID: 42643), Prob: 0.0000
-Token: ' think' (ID: 1744), Prob: 0.0000
-Token: ' word' (ID: 3409), Prob: 0.0000
-Token: ' look' (ID: 1401), Prob: 0.0000
-Token: ' open' (ID: 1787), Prob: 0.0000
+Token: 'r' (ID: 81), Prob: 0.9492
+Token: 'rat' (ID: 17606), Prob: 0.0471
+Token: 'rats' (ID: 62937), Prob: 0.0039
+Token: 'rate' (ID: 7698), Prob: 0.0009
+Token: 'rates' (ID: 66485), Prob: 0.0005
+Token: 'rac' (ID: 19959), Prob: 0.0001
+Token: 'rag' (ID: 4101), Prob: 0.0000
+Token: 'ut' (ID: 332), Prob: 0.0000
+Token: 'ran' (ID: 6576), Prob: 0.0000
+Token: 'race' (ID: 41183), Prob: 0.0000
+Token: 'razy' (ID: 12079), Prob: 0.0000
+Token: 'ra' (ID: 956), Prob: 0.0000
+Token: 'rated' (ID: 54273), Prob: 0.0000
+Token: 'ras' (ID: 12784), Prob: 0.0000
+Token: 'rack' (ID: 71685), Prob: 0.0000
+Token: 'rage' (ID: 47368), Prob: 0.0000
+Token: ' r' (ID: 435), Prob: 0.0000
+Token: 'raft' (ID: 2944), Prob: 0.0000
+Token: 'rap' (ID: 4611), Prob: 0.0000
+Token: 'rab' (ID: 50105), Prob: 0.0000
+Token: 'yclic' (ID: 65304), Prob: 0.0000
+Token: 'y' (ID: 88), Prob: 0.0000
+Token: 'rase' (ID: 10632), Prob: 0.0000
+Token: 'rax' (ID: 68765), Prob: 0.0000
+Token: 'ray' (ID: 11611), Prob: 0.0000
+Token: 'up' (ID: 454), Prob: 0.0000
+Token: 'rá' (ID: 37368), Prob: 0.0000
+Token: 'upy' (ID: 57498), Prob: 0.0000
+Token: ' rate' (ID: 4379), Prob: 0.0000
+Token: ' rat' (ID: 11244), Prob: 0.0000
+Token: 'rust' (ID: 35788), Prob: 0.0000
+Token: 'R' (ID: 49), Prob: 0.0000
+Token: 'ral' (ID: 3461), Prob: 0.0000
+Token: 'rade' (ID: 49076), Prob: 0.0000
+Token: 'rad' (ID: 13281), Prob: 0.0000
+Token: 'rar' (ID: 43983), Prob: 0.0000
+Token: 'rame' (ID: 2373), Prob: 0.0000
+Token: '-r' (ID: 3795), Prob: 0.0000
+Token: ' y' (ID: 379), Prob: 0.0000
+Token: 'rypt' (ID: 3571), Prob: 0.0000
+Token: 'at' (ID: 266), Prob: 0.0000
+Token: 'uracy' (ID: 29384), Prob: 0.0000
+Token: 'ris' (ID: 5963), Prob: 0.0000
+Token: 'sy' (ID: 22860), Prob: 0.0000
+Token: 'rupt' (ID: 6585), Prob: 0.0000
+Token: 'acy' (ID: 2757), Prob: 0.0000
+Token: 'rain' (ID: 29093), Prob: 0.0000
+Token: 'rn' (ID: 35622), Prob: 0.0000
+Token: 's' (ID: 82), Prob: 0.0000
+Token: 'rant' (ID: 34434), Prob: 0.0000
+Token: 'ram' (ID: 2396), Prob: 0.0000
+Token: 'rut' (ID: 69446), Prob: 0.0000
+Token: 'rank' (ID: 13129), Prob: 0.0000
+Token: 'yt' (ID: 16415), Prob: 0.0000
+Token: 'ute' (ID: 1070), Prob: 0.0000
+Token: 'ratio' (ID: 45358), Prob: 0.0000
+Token: 'rary' (ID: 3451), Prob: 0.0000
+Token: 'rup' (ID: 30622), Prob: 0.0000
+Token: 'ru' (ID: 2672), Prob: 0.0000
+Token: 'acies' (ID: 26030), Prob: 0.0000
+Token: 'ropic' (ID: 43936), Prob: 0.0000
+Token: 'ate' (ID: 349), Prob: 0.0000
+Token: 'rt' (ID: 3342), Prob: 0.0000
+Token: 'ur' (ID: 324), Prob: 0.0000
+Token: 'rit' (ID: 1003), Prob: 0.0000
+Token: '-rate' (ID: 43026), Prob: 0.0000
+Token: 'actus' (ID: 60959), Prob: 0.0000
+Token: 'am' (ID: 309), Prob: 0.0000
+Token: 'atch' (ID: 754), Prob: 0.0000
+Token: 'rü' (ID: 126354), Prob: 0.0000
+Token: 'ronic' (ID: 8370), Prob: 0.0000
+Token: 'uted' (ID: 2774), Prob: 0.0000
+Token: 'n' (ID: 77), Prob: 0.0000
+Token: 'ats' (ID: 1862), Prob: 0.0000
+Token: ' Rate' (ID: 19775), Prob: 0.0000
+Token: 'rift' (ID: 41380), Prob: 0.0000
+Token: 'raq' (ID: 10686), Prob: 0.0000
+Token: 'anical' (ID: 44883), Prob: 0.0000
+Token: 'rical' (ID: 12108), Prob: 0.0000
+Token: 'rp' (ID: 22252), Prob: 0.0000
+Token: 'upt' (ID: 7564), Prob: 0.0000
+Token: 'raz' (ID: 8703), Prob: 0.0000
+Token: 'utorial' (ID: 13888), Prob: 0.0000
+Token: ' R' (ID: 431), Prob: 0.0000
+Token: 'rr' (ID: 634), Prob: 0.0000
+Token: 'ry' (ID: 884), Prob: 0.0000
+Token: 'ration' (ID: 2165), Prob: 0.0000
 
 == Ranked Concepts (Clusters) ==
-Rank 1 | Centroid: ' start' | Score: 0.8906
-  Tokens: [' start', ' starting', ' begin', ' starts']
-Rank 2 | Centroid: ' within' | Score: 0.0166
-  Tokens: [' around', ' something', ' within', ' using', ' like']
-Rank 3 | Centroid: ' three' | Score: 0.0058
-  Tokens: [' two', ' three', ' four', ' five', ' one', ' half', ' six']
-Rank 4 | Centroid: ' provide' | Score: 0.0040
-  Tokens: [' add', ' make', ' create', ' get', ' find', ' provide', ' give']
-Rank 5 | Centroid: ' incorporate' | Score: 0.0038
-  Tokens: [' combine', ' include', ' integrate', ' avoid', ' incorporate', ' adjust']
-Rank 6 | Centroid: ' use' | Score: 0.0033
-  Tokens: [' use', ' need']
-Rank 7 | Centroid: ' take' | Score: 0.0024
-  Tokens: [' keep', ' take', ' check', ' follow', ' pick', ' look']
-Rank 8 | Centroid: ' format' | Score: 0.0022
-  Tokens: [' structure', ' frame', ' limit', ' format']
-Rank 9 | Centroid: ' rewrite' | Score: 0.0013
-  Tokens: [' write', ' shorten', ' rewrite']
-Rank 10 | Centroid: ' highlight' | Score: 0.0010
-  Tokens: [' mention', ' highlight', ' outline', ' suggest']
-Rank 11 | Centroid: ' split' | Score: 0.0010
-  Tokens: [' split', ' cut', ' break', ' wrap']
-Rank 12 | Centroid: ' describe' | Score: 0.0006
-  Tokens: [' describe', ' summarize']
-Rank 13 | Centroid: ' say' | Score: 0.0005
-  Tokens: [' say', ' tell', ' talk', ' think']
-Rank 14 | Centroid: ' focus' | Score: 0.0004
-  Tokens: [' focus', ' stick']
-Rank 15 | Centroid: ' paragraph' | Score: 0.0004
-  Tokens: [' paraph', ' paragraph', ' paragraphs']
-Rank 16 | Centroid: ' phrase' | Score: 0.0002
-  Tokens: [' sentence', ' story', ' phrase', ' word']
-Rank 17 | Centroid: ' first' | Score: 0.0002
-  Tokens: [' first', ' original']
-Rank 18 | Centroid: ' put' | Score: 0.0002
-  Tokens: [' put', ' place']
-Rank 19 | Centroid: ' present' | Score: 0.0002
-  Tokens: [' present']
-Rank 20 | Centroid: ' set' | Score: 0.0001
-  Tokens: [' set', ' open']
-Rank 21 | Centroid: ' fit' | Score: 0.0001
-  Tokens: [' fit']
+Rank 1 | Centroid: ' r' | Score: 0.9492
+  Tokens: ['r', ' r', 'R', '-r', ' R']
+Rank 2 | Centroid: 'rat' | Score: 0.0510
+  Tokens: ['rat', 'rats', ' rat', 'ratio']
+Rank 3 | Centroid: ' Rate' | Score: 0.0014
+  Tokens: ['rate', 'rates', 'rated', ' rate', '-rate', ' Rate']
+Rank 4 | Centroid: 'rar' | Score: 0.0001
+  Tokens: ['rac', 'race', 'rack', 'rage', 'rab', 'rax', 'rá', 'rade', 'rar', 'rain', 'rant', 'rank']
+Rank 5 | Centroid: 'ra' | Score: 0.0000
+  Tokens: ['rag', 'ran', 'ra', 'ras', 'rap', 'rase', 'ray', 'ral', 'rad', 'ram']
+Rank 6 | Centroid: 'ute' | Score: 0.0000
+  Tokens: ['ut', 'ute', 'uted']
+Rank 7 | Centroid: 'razy' | Score: 0.0000
+  Tokens: ['razy', 'raft', 'raq', 'raz']
+Rank 8 | Centroid: ' y' | Score: 0.0000
+  Tokens: ['y', ' y', 'sy', 's', 'yt', 'n']
+Rank 9 | Centroid: 'yclic' | Score: 0.0000
+  Tokens: ['yclic', 'ropic', 'actus', 'anical', 'utorial']
+Rank 10 | Centroid: 'up' | Score: 0.0000
+  Tokens: ['up', 'upy', 'upt']
+Rank 11 | Centroid: 'rp' | Score: 0.0000
+  Tokens: ['rust', 'rn', 'rut', 'rup', 'rü', 'rp']
+Rank 12 | Centroid: 'rr' | Score: 0.0000
+  Tokens: ['ris', 'ru', 'rt', 'rit', 'rr', 'ry']
+Rank 13 | Centroid: 'rical' | Score: 0.0000
+  Tokens: ['rame', 'rary', 'ronic', 'rical']
+Rank 14 | Centroid: 'acy' | Score: 0.0000
+  Tokens: ['uracy', 'acy', 'acies']
+Rank 15 | Centroid: 'rupt' | Score: 0.0000
+  Tokens: ['rypt', 'rupt', 'rift']
+Rank 16 | Centroid: 'at' | Score: 0.0000
+  Tokens: ['at', 'ate', 'atch', 'ats']
+Rank 17 | Centroid: 'ur' | Score: 0.0000
+  Tokens: ['ur', 'am']
+Rank 18 | Centroid: 'ration' | Score: 0.0000
+  Tokens: ['ration']
 
 **Chosen Concept:** Rank 1

@@ -1,136 +1,99 @@
 --- Step 73 Log ---
 
 == Filtered Candidates ==
-Token: ' meet' (ID: 3367), Prob: 0.2539
-Token: ' come' (ID: 2525), Prob: 0.1055
-Token: ' represent' (ID: 4009), Prob: 0.0342
-Token: ' emerge' (ID: 32944), Prob: 0.0250
-Token: ' interact' (ID: 16282), Prob: 0.0221
-Token: ' begin' (ID: 3161), Prob: 0.0152
-Token: ' find' (ID: 1477), Prob: 0.0143
-Token: ' enter' (ID: 3725), Prob: 0.0126
-Token: ' discover' (ID: 6997), Prob: 0.0104
-Token: ' learn' (ID: 3960), Prob: 0.0098
-Token: ' arrive' (ID: 17331), Prob: 0.0092
-Token: ' encounter' (ID: 12828), Prob: 0.0081
-Token: ' become' (ID: 3635), Prob: 0.0072
-Token: ' appear' (ID: 4994), Prob: 0.0072
-Token: ' develop' (ID: 2225), Prob: 0.0067
-Token: ' must' (ID: 1969), Prob: 0.0063
-Token: ' make' (ID: 1281), Prob: 0.0060
-Token: ' take' (ID: 1896), Prob: 0.0060
-Token: ' share' (ID: 4332), Prob: 0.0060
-Token: ' exchange' (ID: 9289), Prob: 0.0056
-Token: ' live' (ID: 3887), Prob: 0.0046
-Token: ' engage' (ID: 16579), Prob: 0.0046
-Token: ' experience' (ID: 3139), Prob: 0.0041
-Token: ' present' (ID: 3042), Prob: 0.0038
-Token: ' form' (ID: 1352), Prob: 0.0036
-Token: ' show' (ID: 1473), Prob: 0.0036
-Token: ' create' (ID: 1855), Prob: 0.0036
-Token: ' representing' (ID: 14064), Prob: 0.0032
-Token: ' introduce' (ID: 19131), Prob: 0.0030
-Token: ' converge' (ID: 79767), Prob: 0.0030
-Token: ' start' (ID: 1191), Prob: 0.0028
-Token: ' speak' (ID: 6468), Prob: 0.0022
-Token: ' communicate' (ID: 19032), Prob: 0.0022
-Token: ' face' (ID: 3579), Prob: 0.0021
-Token: ' move' (ID: 3271), Prob: 0.0018
-Token: ' connect' (ID: 4564), Prob: 0.0017
-Token: ' travel' (ID: 5821), Prob: 0.0017
-Token: ' return' (ID: 470), Prob: 0.0016
-Token: ' see' (ID: 1490), Prob: 0.0016
-Token: ' establish' (ID: 5695), Prob: 0.0015
-Token: ' discovered' (ID: 11105), Prob: 0.0015
-Token: ' confront' (ID: 16877), Prob: 0.0015
-Token: ' first' (ID: 1156), Prob: 0.0014
-Token: ' cross' (ID: 5312), Prob: 0.0014
-Token: ' reflect' (ID: 8708), Prob: 0.0014
-Token: ' represented' (ID: 15251), Prob: 0.0014
-Token: ' arise' (ID: 30789), Prob: 0.0014
-Token: ' change' (ID: 2297), Prob: 0.0013
-Token: ' across' (ID: 3941), Prob: 0.0013
-Token: ' explore' (ID: 13186), Prob: 0.0013
-Token: ' react' (ID: 13767), Prob: 0.0013
-Token: ' reach' (ID: 5545), Prob: 0.0011
-Token: ' transition' (ID: 9142), Prob: 0.0010
-Token: ' reveal' (ID: 16400), Prob: 0.0010
-Token: ' awaken' (ID: 41418), Prob: 0.0010
-Token: ' found' (ID: 1730), Prob: 0.0010
-Token: ' switch' (ID: 3398), Prob: 0.0010
-Token: ' visit' (ID: 3947), Prob: 0.0010
-Token: ' receive' (ID: 5258), Prob: 0.0010
-Token: ' describe' (ID: 7512), Prob: 0.0009
-Token: ' living' (ID: 5382), Prob: 0.0009
-Token: ' meeting' (ID: 6438), Prob: 0.0009
-Token: ' realize' (ID: 13083), Prob: 0.0009
-Token: ' get' (ID: 633), Prob: 0.0008
-Token: ' met' (ID: 2270), Prob: 0.0008
-Token: ' introduced' (ID: 11523), Prob: 0.0008
-Token: ' overcome' (ID: 22279), Prob: 0.0008
-Token: ' feel' (ID: 2666), Prob: 0.0008
-Token: ' talk' (ID: 3061), Prob: 0.0008
-Token: ' encountered' (ID: 23057), Prob: 0.0008
-Token: ' inter' (ID: 946), Prob: 0.0007
-Token: ' perform' (ID: 2736), Prob: 0.0007
-Token: ' understand' (ID: 3535), Prob: 0.0007
-Token: ' leave' (ID: 5274), Prob: 0.0007
-Token: ' identify' (ID: 10542), Prob: 0.0007
-Token: ' survive' (ID: 17697), Prob: 0.0007
-Token: ' relate' (ID: 28143), Prob: 0.0007
-Token: ' open' (ID: 1787), Prob: 0.0007
-Token: ' discuss' (ID: 4263), Prob: 0.0007
-Token: ' involved' (ID: 6398), Prob: 0.0007
-Token: ' set' (ID: 738), Prob: 0.0006
+Token: ' BBC' (ID: 18096), Prob: 1.0000
+Token: 'BBC' (ID: 66755), Prob: 0.0005
+Token: ' television' (ID: 12425), Prob: 0.0001
+Token: ' TV' (ID: 5883), Prob: 0.0001
+Token: ' bbc' (ID: 90626), Prob: 0.0001
+Token: ' series' (ID: 4013), Prob: 0.0000
+Token: ' UK' (ID: 6424), Prob: 0.0000
+Token: ' British' (ID: 7855), Prob: 0.0000
+Token: ' BB' (ID: 18270), Prob: 0.0000
+Token: ' the' (ID: 279), Prob: 0.0000
+Token: ' ABC' (ID: 19360), Prob: 0.0000
+Token: ' CBC' (ID: 45512), Prob: 0.0000
+Token: ' role' (ID: 3476), Prob: 0.0000
+Token: ' broadcast' (ID: 12899), Prob: 0.0000
+Token: ' CBS' (ID: 24029), Prob: 0.0000
+Token: ' broadcasting' (ID: 48827), Prob: 0.0000
+Token: ' same' (ID: 1852), Prob: 0.0000
+Token: 'bbc' (ID: 84185), Prob: 0.0000
+Token: ' ITV' (ID: 93355), Prob: 0.0000
+Token: ' radio' (ID: 8887), Prob: 0.0000
+Token: ' NBC' (ID: 23521), Prob: 0.0000
+Token: ' film' (ID: 4531), Prob: 0.0000
+Token: ' HBO' (ID: 42878), Prob: 0.0000
+Token: ' The' (ID: 576), Prob: 0.0000
+Token: ' B' (ID: 425), Prob: 0.0000
+Token: ' other' (ID: 1008), Prob: 0.0000
+Token: ' BC' (ID: 18040), Prob: 0.0000
+Token: ' first' (ID: 1156), Prob: 0.0000
+Token: ' third' (ID: 4843), Prob: 0.0000
+Token: ' production' (ID: 5670), Prob: 0.0000
+Token: ' title' (ID: 2265), Prob: 0.0000
+Token: ' Scottish' (ID: 26096), Prob: 0.0000
+Token: ' recurring' (ID: 45250), Prob: 0.0000
+Token: ' subsequent' (ID: 17420), Prob: 0.0000
+Token: ' DVD' (ID: 18092), Prob: 0.0000
+Token: ' actor' (ID: 12089), Prob: 0.0000
+Token: ' various' (ID: 5257), Prob: 0.0000
+Token: ' sitcom' (ID: 80366), Prob: 0.0000
+Token: ' following' (ID: 2701), Prob: 0.0000
+Token: ' Netflix' (ID: 22642), Prob: 0.0000
+Token: ' United' (ID: 3639), Prob: 0.0000
+Token: ' PBS' (ID: 59045), Prob: 0.0000
+Token: ' media' (ID: 3687), Prob: 0.0000
+Token: ' movie' (ID: 5700), Prob: 0.0000
+Token: ' Radio' (ID: 13484), Prob: 0.0000
+Token: ' sequel' (ID: 34761), Prob: 0.0000
+Token: ' episode' (ID: 9234), Prob: 0.0000
+Token: ' in' (ID: 304), Prob: 0.0000
+Token: ' BBB' (ID: 94458), Prob: 0.0000
+Token: ' English' (ID: 6364), Prob: 0.0000
+Token: ' CCTV' (ID: 70238), Prob: 0.0000
+Token: ' NHS' (ID: 36281), Prob: 0.0000
+Token: ' I' (ID: 358), Prob: 0.0000
+Token: ' North' (ID: 4787), Prob: 0.0000
+Token: ' Royal' (ID: 16194), Prob: 0.0000
+Token: ' Television' (ID: 40345), Prob: 0.0000
+Token: ' later' (ID: 2937), Prob: 0.0000
+Token: ' Yorkshire' (ID: 50227), Prob: 0.0000
+Token: ' televised' (ID: 75610), Prob: 0.0000
+Token: ' and' (ID: 323), Prob: 0.0000
+Token: ' T' (ID: 350), Prob: 0.0000
+Token: ' public' (ID: 584), Prob: 0.0000
+Token: ' comedy' (ID: 22358), Prob: 0.0000
+Token: ' A' (ID: 362), Prob: 0.0000
 
 == Ranked Concepts (Clusters) ==
-Rank 1 | Centroid: ' meet' | Score: 0.2559
-  Tokens: [' meet', ' meeting', ' met']
-Rank 2 | Centroid: ' arise' | Score: 0.1553
-  Tokens: [' come', ' emerge', ' arrive', ' become', ' appear', ' arise']
-Rank 3 | Centroid: ' represent' | Score: 0.0403
-  Tokens: [' represent', ' representing', ' reflect', ' represented']
-Rank 4 | Centroid: ' engage' | Score: 0.0289
-  Tokens: [' interact', ' engage', ' communicate']
-Rank 5 | Centroid: ' discovered' | Score: 0.0272
-  Tokens: [' find', ' discover', ' discovered', ' found']
-Rank 6 | Centroid: ' identify' | Score: 0.0227
-  Tokens: [' learn', ' develop', ' establish', ' explore', ' reveal', ' realize', ' understand', ' identify']
-Rank 7 | Centroid: ' start' | Score: 0.0203
-  Tokens: [' begin', ' start', ' return', ' leave']
-Rank 8 | Centroid: ' make' | Score: 0.0164
-  Tokens: [' make', ' take', ' create', ' get']
-Rank 9 | Centroid: ' must' | Score: 0.0127
-  Tokens: [' must', ' form', ' first', ' open', ' set']
-Rank 10 | Centroid: ' enter' | Score: 0.0126
-  Tokens: [' enter']
-Rank 11 | Centroid: ' encounter' | Score: 0.0125
-  Tokens: [' encounter', ' face', ' confront', ' encountered']
-Rank 12 | Centroid: ' switch' | Score: 0.0107
-  Tokens: [' exchange', ' move', ' change', ' transition', ' switch']
-Rank 13 | Centroid: ' talk' | Score: 0.0096
-  Tokens: [' share', ' speak', ' talk', ' discuss']
-Rank 14 | Centroid: ' travel' | Score: 0.0068
-  Tokens: [' experience', ' travel', ' visit']
-Rank 15 | Centroid: ' live' | Score: 0.0055
-  Tokens: [' live', ' living']
-Rank 16 | Centroid: ' show' | Score: 0.0052
-  Tokens: [' show', ' see']
-Rank 17 | Centroid: ' present' | Score: 0.0045
-  Tokens: [' present', ' involved']
-Rank 18 | Centroid: ' relate' | Score: 0.0040
-  Tokens: [' connect', ' describe', ' perform', ' relate']
-Rank 19 | Centroid: ' introduce' | Score: 0.0038
-  Tokens: [' introduce', ' introduced']
-Rank 20 | Centroid: ' converge' | Score: 0.0038
-  Tokens: [' converge', ' overcome']
-Rank 21 | Centroid: ' cross' | Score: 0.0034
-  Tokens: [' cross', ' across', ' inter']
-Rank 22 | Centroid: ' receive' | Score: 0.0028
-  Tokens: [' reach', ' receive', ' feel']
-Rank 23 | Centroid: ' awaken' | Score: 0.0017
-  Tokens: [' awaken', ' survive']
-Rank 24 | Centroid: ' react' | Score: 0.0013
-  Tokens: [' react']
+Rank 1 | Centroid: ' BBC' | Score: 1.0000
+  Tokens: [' BBC', 'BBC', ' bbc', 'bbc']
+Rank 2 | Centroid: ' television' | Score: 0.0002
+  Tokens: [' television', ' TV', ' ITV', ' CCTV', ' Television', ' televised']
+Rank 3 | Centroid: ' British' | Score: 0.0001
+  Tokens: [' UK', ' British', ' Scottish', ' United', ' English', ' NHS', ' North', ' Royal', ' Yorkshire']
+Rank 4 | Centroid: ' BB' | Score: 0.0000
+  Tokens: [' BB', ' ABC', ' BC', ' BBB']
+Rank 5 | Centroid: ' series' | Score: 0.0000
+  Tokens: [' series', ' recurring', ' sequel']
+Rank 6 | Centroid: ' CBS' | Score: 0.0000
+  Tokens: [' CBC', ' CBS', ' NBC', ' HBO', ' PBS']
+Rank 7 | Centroid: ' the' | Score: 0.0000
+  Tokens: [' the', ' The', ' B', ' in', ' I', ' and', ' T', ' A']
+Rank 8 | Centroid: ' radio' | Score: 0.0000
+  Tokens: [' broadcast', ' broadcasting', ' radio', ' Radio']
+Rank 9 | Centroid: ' title' | Score: 0.0000
+  Tokens: [' role', ' production', ' title']
+Rank 10 | Centroid: ' various' | Score: 0.0000
+  Tokens: [' same', ' other', ' first', ' third', ' various', ' following', ' public']
+Rank 11 | Centroid: ' movie' | Score: 0.0000
+  Tokens: [' film', ' DVD', ' Netflix', ' movie']
+Rank 12 | Centroid: ' comedy' | Score: 0.0000
+  Tokens: [' actor', ' sitcom', ' episode', ' comedy']
+Rank 13 | Centroid: ' subsequent' | Score: 0.0000
+  Tokens: [' subsequent', ' later']
+Rank 14 | Centroid: ' media' | Score: 0.0000
+  Tokens: [' media']
 
 **Chosen Concept:** Rank 1

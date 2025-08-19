@@ -1,0 +1,107 @@
+--- Step 21 Log ---
+
+== Filtered Candidates ==
+Token: ' year' (ID: 1042), Prob: 0.9922
+Token: ' same' (ID: 1852), Prob: 0.0085
+Token: ' season' (ID: 3200), Prob: 0.0001
+Token: ' summer' (ID: 7324), Prob: 0.0000
+Token: ' Year' (ID: 9742), Prob: 0.0000
+Token: ' the' (ID: 279), Prob: 0.0000
+Token: 'year' (ID: 3157), Prob: 0.0000
+Token: ' calendar' (ID: 13168), Prob: 0.0000
+Token: ' years' (ID: 1635), Prob: 0.0000
+Token: ' television' (ID: 12425), Prob: 0.0000
+Token: ' time' (ID: 882), Prob: 0.0000
+Token: ' month' (ID: 2254), Prob: 0.0000
+Token: ' decade' (ID: 13212), Prob: 0.0000
+Token: ' particular' (ID: 3953), Prob: 0.0000
+Token: ' period' (ID: 4168), Prob: 0.0000
+Token: ' episode' (ID: 9234), Prob: 0.0000
+Token: ' very' (ID: 1602), Prob: 0.0000
+Token: ' Same' (ID: 25739), Prob: 0.0000
+Token: ' fall' (ID: 4399), Prob: 0.0000
+Token: ' also' (ID: 1083), Prob: 0.0000
+Token: 'same' (ID: 24063), Prob: 0.0000
+Token: '-year' (ID: 4666), Prob: 0.0000
+Token: ' y' (ID: 379), Prob: 0.0000
+Token: ' as' (ID: 438), Prob: 0.0000
+Token: ' first' (ID: 1156), Prob: 0.0000
+Token: ' and' (ID: 323), Prob: 0.0000
+Token: ' ye' (ID: 19478), Prob: 0.0000
+Token: ' annum' (ID: 86657), Prob: 0.0000
+Token: ' he' (ID: 566), Prob: 0.0000
+Token: ' show' (ID: 1473), Prob: 0.0000
+Token: '_year' (ID: 14645), Prob: 0.0000
+Token: ' yr' (ID: 42338), Prob: 0.0000
+Token: ' in' (ID: 304), Prob: 0.0000
+Token: ' YEAR' (ID: 50905), Prob: 0.0000
+Token: 'Year' (ID: 9490), Prob: 0.0000
+Token: ' following' (ID: 2701), Prob: 0.0000
+Token: ' năm' (ID: 128290), Prob: 0.0000
+Token: ' f' (ID: 282), Prob: 0.0000
+Token: ' series' (ID: 4013), Prob: 0.0000
+Token: ' release' (ID: 4879), Prob: 0.0000
+Token: ' June' (ID: 5534), Prob: 0.0000
+Token: ' fiscal' (ID: 19743), Prob: 0.0000
+Token: ' day' (ID: 1899), Prob: 0.0000
+Token: ' spring' (ID: 10464), Prob: 0.0000
+Token: '.year' (ID: 24414), Prob: 0.0000
+Token: ' May' (ID: 3217), Prob: 0.0000
+Token: ' it' (ID: 432), Prob: 0.0000
+Token: ' April' (ID: 5813), Prob: 0.0000
+Token: ' theater' (ID: 26705), Prob: 0.0000
+Token: ' likewise' (ID: 37922), Prob: 0.0000
+Token: ' s' (ID: 274), Prob: 0.0000
+Token: ' July' (ID: 5768), Prob: 0.0000
+Token: ' broadcast' (ID: 12899), Prob: 0.0000
+Token: ' being' (ID: 1660), Prob: 0.0000
+Token: ' second' (ID: 2086), Prob: 0.0000
+Token: ' winter' (ID: 12406), Prob: 0.0000
+Token: ' I' (ID: 358), Prob: 0.0000
+Token: ' Y' (ID: 809), Prob: 0.0000
+Token: ' annual' (ID: 9775), Prob: 0.0000
+Token: ' Season' (ID: 14263), Prob: 0.0000
+Token: ' Television' (ID: 40345), Prob: 0.0000
+Token: ' were' (ID: 1033), Prob: 0.0000
+Token: ' film' (ID: 4531), Prob: 0.0000
+Token: ' cycle' (ID: 10775), Prob: 0.0000
+Token: ' one' (ID: 825), Prob: 0.0000
+Token: ' theatre' (ID: 33496), Prob: 0.0000
+Token: ' año' (ID: 35816), Prob: 0.0000
+Token: ' past' (ID: 3267), Prob: 0.0000
+
+== Ranked Concepts (Clusters) ==
+Rank 1 | Centroid: ' year' | Score: 0.9922
+  Tokens: [' year', ' Year', 'year', ' years', ' decade', '-year', '_year', ' YEAR', 'Year', ' năm', '.year', ' año']
+Rank 2 | Centroid: ' same' | Score: 0.0085
+  Tokens: [' same', ' Same', 'same', ' likewise']
+Rank 3 | Centroid: ' season' | Score: 0.0001
+  Tokens: [' season', ' Season']
+Rank 4 | Centroid: ' summer' | Score: 0.0000
+  Tokens: [' summer', ' fall', ' spring', ' winter']
+Rank 5 | Centroid: ' the' | Score: 0.0000
+  Tokens: [' the', ' very', ' as', ' first', ' and', ' he', ' show', ' in', ' following', ' f', ' it', ' s', ' second', ' I', ' one']
+Rank 6 | Centroid: ' cycle' | Score: 0.0000
+  Tokens: [' calendar', ' period', ' cycle']
+Rank 7 | Centroid: ' television' | Score: 0.0000
+  Tokens: [' television', ' broadcast', ' Television', ' film']
+Rank 8 | Centroid: ' time' | Score: 0.0000
+  Tokens: [' time']
+Rank 9 | Centroid: ' month' | Score: 0.0000
+  Tokens: [' month', ' day']
+Rank 10 | Centroid: ' fiscal' | Score: 0.0000
+  Tokens: [' particular', ' release', ' fiscal', ' past']
+Rank 11 | Centroid: ' y' | Score: 0.0000
+  Tokens: [' y', ' ye', ' yr', ' Y']
+Rank 12 | Centroid: ' episode' | Score: 0.0000
+  Tokens: [' episode', ' series']
+Rank 13 | Centroid: ' were' | Score: 0.0000
+  Tokens: [' also', ' being', ' were']
+Rank 14 | Centroid: ' June' | Score: 0.0000
+  Tokens: [' June', ' May', ' April', ' July']
+Rank 15 | Centroid: ' annum' | Score: 0.0000
+  Tokens: [' annum', ' annual']
+Rank 16 | Centroid: ' theater' | Score: 0.0000
+  Tokens: [' theater', ' theatre']
+
+**Chosen Concept:** Rank 1

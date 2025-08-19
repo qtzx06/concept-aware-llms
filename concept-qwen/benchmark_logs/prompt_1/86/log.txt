@@ -1,158 +1,104 @@
 --- Step 86 Log ---
 
 == Filtered Candidates ==
-Token: ' bond' (ID: 10815), Prob: 0.1650
-Token: ' relationship' (ID: 5025), Prob: 0.1133
-Token: ' deep' (ID: 5538), Prob: 0.1133
-Token: ' deeper' (ID: 19117), Prob: 0.0776
-Token: ' romantic' (ID: 23467), Prob: 0.0471
-Token: ' new' (ID: 501), Prob: 0.0417
-Token: ' mutual' (ID: 26750), Prob: 0.0417
-Token: ' connection' (ID: 3633), Prob: 0.0369
-Token: ' life' (ID: 2272), Prob: 0.0325
-Token: ' lasting' (ID: 28769), Prob: 0.0325
-Token: ' meaningful' (ID: 22414), Prob: 0.0223
-Token: ' romance' (ID: 29263), Prob: 0.0197
-Token: ' strong' (ID: 3746), Prob: 0.0173
-Token: ' friendship' (ID: 26509), Prob: 0.0173
-Token: ' personal' (ID: 4345), Prob: 0.0153
-Token: ' shared' (ID: 6094), Prob: 0.0127
-Token: ' love' (ID: 2948), Prob: 0.0120
-Token: ' future' (ID: 3853), Prob: 0.0112
-Token: ' sense' (ID: 5530), Prob: 0.0077
-Token: ' story' (ID: 3364), Prob: 0.0068
-Token: ' history' (ID: 3840), Prob: 0.0060
-Token: ' partnership' (ID: 15305), Prob: 0.0060
-Token: ' unique' (ID: 4911), Prob: 0.0050
-Token: ' complex' (ID: 6351), Prob: 0.0050
-Token: ' long' (ID: 1293), Prob: 0.0041
-Token: ' home' (ID: 2114), Prob: 0.0036
-Token: ' conflict' (ID: 12055), Prob: 0.0036
-Token: ' lifelong' (ID: 50163), Prob: 0.0032
-Token: ' child' (ID: 1682), Prob: 0.0028
-Token: ' dream' (ID: 7904), Prob: 0.0028
-Token: ' stronger' (ID: 16245), Prob: 0.0028
-Token: ' real' (ID: 1931), Prob: 0.0027
-Token: ' plan' (ID: 3119), Prob: 0.0027
-Token: ' profound' (ID: 27155), Prob: 0.0027
-Token: ' family' (ID: 2997), Prob: 0.0025
-Token: ' close' (ID: 3265), Prob: 0.0025
-Token: ' feeling' (ID: 8266), Prob: 0.0023
-Token: ' son' (ID: 4438), Prob: 0.0022
-Token: ' serious' (ID: 6001), Prob: 0.0021
-Token: ' commitment' (ID: 15155), Prob: 0.0021
-Token: ' passion' (ID: 11677), Prob: 0.0016
-Token: ' loving' (ID: 21258), Prob: 0.0015
-Token: ' special' (ID: 3281), Prob: 0.0014
-Token: ' complicated' (ID: 16965), Prob: 0.0014
-Token: ' true' (ID: 830), Prob: 0.0013
-Token: ' growing' (ID: 7826), Prob: 0.0012
-Token: ' dynamic' (ID: 8741), Prob: 0.0011
-Token: ' different' (ID: 2155), Prob: 0.0010
-Token: ' trust' (ID: 6950), Prob: 0.0010
-Token: ' conversation' (ID: 10435), Prob: 0.0010
-Token: ' small' (ID: 2613), Prob: 0.0010
-Token: ' secret' (ID: 6234), Prob: 0.0010
-Token: ' tradition' (ID: 13815), Prob: 0.0009
-Token: ' emotional' (ID: 14269), Prob: 0.0009
-Token: ' heart' (ID: 4746), Prob: 0.0009
-Token: ' physical' (ID: 6961), Prob: 0.0009
-Token: ' culture' (ID: 7674), Prob: 0.0009
-Token: ' significant' (ID: 5089), Prob: 0.0008
-Token: ' purpose' (ID: 7428), Prob: 0.0008
-Token: ' vision' (ID: 11129), Prob: 0.0008
-Token: ' fantasy' (ID: 18378), Prob: 0.0008
-Token: ' working' (ID: 3238), Prob: 0.0008
-Token: ' common' (ID: 4185), Prob: 0.0008
-Token: ' living' (ID: 5382), Prob: 0.0008
-Token: ' decision' (ID: 5480), Prob: 0.0008
-Token: ' chemistry' (ID: 29803), Prob: 0.0008
-Token: ' normal' (ID: 4622), Prob: 0.0007
-Token: ' successful' (ID: 6849), Prob: 0.0007
-Token: ' passionate' (ID: 24425), Prob: 0.0007
-Token: ' full' (ID: 2480), Prob: 0.0007
-Token: ' meaning' (ID: 7290), Prob: 0.0007
-Token: ' distinct' (ID: 12460), Prob: 0.0007
-Token: ' cultural' (ID: 12752), Prob: 0.0006
-Token: ' healthy' (ID: 9314), Prob: 0.0006
-Token: ' journey' (ID: 11618), Prob: 0.0006
-Token: ' closer' (ID: 12128), Prob: 0.0006
-Token: ' separate' (ID: 8651), Prob: 0.0006
-Token: ' mature' (ID: 14851), Prob: 0.0006
-Token: ' series' (ID: 4013), Prob: 0.0005
-Token: ' warm' (ID: 8205), Prob: 0.0005
-Token: ' creative' (ID: 11521), Prob: 0.0005
-Token: ' goal' (ID: 5795), Prob: 0.0005
-Token: ' greater' (ID: 7046), Prob: 0.0005
-Token: ' powerful' (ID: 7988), Prob: 0.0005
-Token: ' stable' (ID: 15175), Prob: 0.0005
-Token: ' second' (ID: 2086), Prob: 0.0005
-Token: ' positive' (ID: 6785), Prob: 0.0005
-Token: ' mutually' (ID: 52479), Prob: 0.0005
-Token: ' professional' (ID: 6584), Prob: 0.0004
-Token: ' theme' (ID: 6912), Prob: 0.0004
-Token: ' trusting' (ID: 68244), Prob: 0.0004
-Token: ' past' (ID: 3267), Prob: 0.0004
-Token: ' dialogue' (ID: 21276), Prob: 0.0004
-Token: ' final' (ID: 1590), Prob: 0.0004
-Token: ' daughter' (ID: 9803), Prob: 0.0004
-Token: ' daily' (ID: 7298), Prob: 0.0004
-Token: ' communication' (ID: 10535), Prob: 0.0004
-Token: ' better' (ID: 2664), Prob: 0.0003
-Token: ' career' (ID: 6931), Prob: 0.0003
+Token: ' The' (ID: 576), Prob: 1.0000
+Token: ' Crown' (ID: 28643), Prob: 0.0001
+Token: 'The' (ID: 785), Prob: 0.0000
+Token: ' Star' (ID: 7679), Prob: 0.0000
+Token: ' Doctor' (ID: 18635), Prob: 0.0000
+Token: ' Sherlock' (ID: 60626), Prob: 0.0000
+Token: ' the' (ID: 279), Prob: 0.0000
+Token: ' A' (ID: 362), Prob: 0.0000
+Token: ' House' (ID: 4678), Prob: 0.0000
+Token: ' T' (ID: 350), Prob: 0.0000
+Token: ' One' (ID: 3776), Prob: 0.0000
+Token: ' D' (ID: 422), Prob: 0.0000
+Token: ' Coron' (ID: 47083), Prob: 0.0000
+Token: ' Top' (ID: 6909), Prob: 0.0000
+Token: ' Time' (ID: 4120), Prob: 0.0000
+Token: ' THE' (ID: 3168), Prob: 0.0000
+Token: ' Victoria' (ID: 22417), Prob: 0.0000
+Token: ' and' (ID: 323), Prob: 0.0000
+Token: ' In' (ID: 758), Prob: 0.0000
+Token: ' Game' (ID: 4050), Prob: 0.0000
+Token: ' This' (ID: 1096), Prob: 0.0000
+Token: ' Her' (ID: 6252), Prob: 0.0000
+Token: ' He' (ID: 1260), Prob: 0.0000
+Token: ' Last' (ID: 7996), Prob: 0.0000
+Token: ' Empire' (ID: 20448), Prob: 0.0000
+Token: ' James' (ID: 7801), Prob: 0.0000
+Token: ' Pride' (ID: 42146), Prob: 0.0000
+Token: ' War' (ID: 5004), Prob: 0.0000
+Token: ' Queen' (ID: 16259), Prob: 0.0000
+Token: ' Ten' (ID: 17695), Prob: 0.0000
+Token: ' Revenge' (ID: 80549), Prob: 0.0000
+Token: ' Home' (ID: 5379), Prob: 0.0000
+Token: ' I' (ID: 358), Prob: 0.0000
+Token: ' Death' (ID: 15911), Prob: 0.0000
+Token: ' Prince' (ID: 19351), Prob: 0.0000
+Token: ' Red' (ID: 3731), Prob: 0.0000
+Token: ' Prison' (ID: 41518), Prob: 0.0000
+Token: ' King' (ID: 6210), Prob: 0.0000
+Token: ' David' (ID: 6798), Prob: 0.0000
+Token: '.The' (ID: 11568), Prob: 0.0000
+Token: ' Big' (ID: 6164), Prob: 0.0000
+Token: ' Friends' (ID: 22508), Prob: 0.0000
+Token: ' Dr' (ID: 2926), Prob: 0.0000
+Token: ' His' (ID: 5301), Prob: 0.0000
+Token: ' Harry' (ID: 13928), Prob: 0.0000
+Token: ' High' (ID: 5124), Prob: 0.0000
+Token: ' Title' (ID: 10869), Prob: 0.0000
+Token: ' Series' (ID: 11131), Prob: 0.0000
+Token: ' My' (ID: 3017), Prob: 0.0000
+Token: ' Black' (ID: 5235), Prob: 0.0000
+Token: ' Two' (ID: 9043), Prob: 0.0000
+Token: ' Royal' (ID: 16194), Prob: 0.0000
+Token: ' Trust' (ID: 16816), Prob: 0.0000
+Token: ' BBC' (ID: 18096), Prob: 0.0000
+Token: ' Crow' (ID: 26893), Prob: 0.0000
+Token: ' Sand' (ID: 8677), Prob: 0.0000
+Token: ' Lord' (ID: 10214), Prob: 0.0000
+Token: ' S' (ID: 328), Prob: 0.0000
+Token: ' Jack' (ID: 7607), Prob: 0.0000
+Token: ' F' (ID: 434), Prob: 0.0000
+Token: ' Cor' (ID: 4463), Prob: 0.0000
+Token: ' Life' (ID: 9414), Prob: 0.0000
+Token: ' Sky' (ID: 14722), Prob: 0.0000
+Token: ' Northern' (ID: 16926), Prob: 0.0000
+Token: ' That' (ID: 2938), Prob: 0.0000
+Token: ' John' (ID: 3757), Prob: 0.0000
+Token: ' Out' (ID: 4371), Prob: 0.0000
 
 == Ranked Concepts (Clusters) ==
-Rank 1 | Centroid: ' partnership' | Score: 0.2207
-  Tokens: [' relationship', ' mutual', ' connection', ' friendship', ' partnership', ' conflict', ' conversation', ' mutually', ' dialogue', ' communication']
-Rank 2 | Centroid: ' deep' | Score: 0.1914
-  Tokens: [' deep', ' deeper']
-Rank 3 | Centroid: ' trust' | Score: 0.1670
-  Tokens: [' bond', ' trust', ' trusting']
-Rank 4 | Centroid: ' passionate' | Score: 0.0840
-  Tokens: [' romantic', ' romance', ' love', ' passion', ' loving', ' emotional', ' passionate', ' creative']
-Rank 5 | Centroid: ' new' | Score: 0.0522
-  Tokens: [' new', ' long', ' real', ' true', ' small', ' normal', ' full']
-Rank 6 | Centroid: ' lifelong' | Score: 0.0361
-  Tokens: [' lasting', ' lifelong', ' mature']
-Rank 7 | Centroid: ' living' | Score: 0.0352
-  Tokens: [' life', ' growing', ' working', ' living']
-Rank 8 | Centroid: ' meaning' | Score: 0.0332
-  Tokens: [' meaningful', ' sense', ' feeling', ' meaning']
-Rank 9 | Centroid: ' profound' | Score: 0.0234
-  Tokens: [' strong', ' profound', ' serious', ' significant', ' powerful']
-Rank 10 | Centroid: ' future' | Score: 0.0181
-  Tokens: [' future', ' history', ' past', ' final']
-Rank 11 | Centroid: ' personal' | Score: 0.0166
-  Tokens: [' personal', ' physical', ' daily']
-Rank 12 | Centroid: ' shared' | Score: 0.0134
-  Tokens: [' shared', ' common']
-Rank 13 | Centroid: ' journey' | Score: 0.0126
-  Tokens: [' story', ' plan', ' purpose', ' decision', ' journey', ' goal', ' theme']
-Rank 14 | Centroid: ' distinct' | Score: 0.0087
-  Tokens: [' unique', ' special', ' different', ' distinct', ' separate']
-Rank 15 | Centroid: ' family' | Score: 0.0081
-  Tokens: [' home', ' family', ' secret', ' series', ' second']
-Rank 16 | Centroid: ' complex' | Score: 0.0075
-  Tokens: [' complex', ' complicated', ' dynamic']
-Rank 17 | Centroid: ' closer' | Score: 0.0068
-  Tokens: [' stronger', ' close', ' closer', ' greater', ' better']
-Rank 18 | Centroid: ' daughter' | Score: 0.0054
-  Tokens: [' child', ' son', ' daughter']
-Rank 19 | Centroid: ' dream' | Score: 0.0045
-  Tokens: [' dream', ' vision', ' fantasy']
-Rank 20 | Centroid: ' healthy' | Score: 0.0023
-  Tokens: [' successful', ' healthy', ' stable', ' positive']
-Rank 21 | Centroid: ' commitment' | Score: 0.0021
-  Tokens: [' commitment']
-Rank 22 | Centroid: ' tradition' | Score: 0.0017
-  Tokens: [' tradition', ' chemistry']
-Rank 23 | Centroid: ' culture' | Score: 0.0015
-  Tokens: [' culture', ' cultural']
-Rank 24 | Centroid: ' heart' | Score: 0.0014
-  Tokens: [' heart', ' warm']
-Rank 25 | Centroid: ' professional' | Score: 0.0004
-  Tokens: [' professional']
-Rank 26 | Centroid: ' career' | Score: 0.0003
-  Tokens: [' career']
+Rank 1 | Centroid: ' The' | Score: 1.0000
+  Tokens: [' The', 'The', ' THE', ' This', '.The', ' That']
+Rank 2 | Centroid: ' Coron' | Score: 0.0001
+  Tokens: [' Crown', ' Coron', ' Crow', ' Cor']
+Rank 3 | Centroid: ' the' | Score: 0.0000
+  Tokens: [' the', ' A', ' T', ' D', ' and', ' In', ' I', ' S', ' F']
+Rank 4 | Centroid: ' John' | Score: 0.0000
+  Tokens: [' Doctor', ' James', ' David', ' Dr', ' Harry', ' Jack', ' John']
+Rank 5 | Centroid: ' Victoria' | Score: 0.0000
+  Tokens: [' Sherlock', ' Victoria', ' Empire', ' BBC']
+Rank 6 | Centroid: ' Life' | Score: 0.0000
+  Tokens: [' House', ' Game', ' War', ' Home', ' Death', ' Life']
+Rank 7 | Centroid: ' Star' | Score: 0.0000
+  Tokens: [' Star']
+Rank 8 | Centroid: ' Two' | Score: 0.0000
+  Tokens: [' One', ' Last', ' Ten', ' Two', ' Out']
+Rank 9 | Centroid: ' High' | Score: 0.0000
+  Tokens: [' Top', ' Big', ' High']
+Rank 10 | Centroid: ' His' | Score: 0.0000
+  Tokens: [' Her', ' He', ' His', ' My']
+Rank 11 | Centroid: ' Prison' | Score: 0.0000
+  Tokens: [' Pride', ' Revenge', ' Prison', ' Friends', ' Trust']
+Rank 12 | Centroid: ' King' | Score: 0.0000
+  Tokens: [' Queen', ' Prince', ' King', ' Royal', ' Lord']
+Rank 13 | Centroid: ' Time' | Score: 0.0000
+  Tokens: [' Time']
+Rank 14 | Centroid: ' Sky' | Score: 0.0000
+  Tokens: [' Title', ' Series', ' Sand', ' Sky']
+Rank 15 | Centroid: ' Black' | Score: 0.0000
+  Tokens: [' Red', ' Black', ' Northern']
 
 **Chosen Concept:** Rank 1

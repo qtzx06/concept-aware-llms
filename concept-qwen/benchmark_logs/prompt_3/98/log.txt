@@ -1,162 +1,121 @@
 --- Step 98 Log ---
 
 == Filtered Candidates ==
-Token: ' friend' (ID: 4238), Prob: 0.4863
-Token: ' character' (ID: 3668), Prob: 0.2305
-Token: ' person' (ID: 1697), Prob: 0.0845
-Token: ' situation' (ID: 6534), Prob: 0.0659
-Token: ' friendship' (ID: 26509), Prob: 0.0147
-Token: ' relationship' (ID: 5025), Prob: 0.0115
-Token: ' stranger' (ID: 33958), Prob: 0.0115
-Token: ' conversation' (ID: 10435), Prob: 0.0089
-Token: ' serious' (ID: 6001), Prob: 0.0045
-Token: ' strange' (ID: 14888), Prob: 0.0035
-Token: ' conflict' (ID: 12055), Prob: 0.0027
-Token: ' scenario' (ID: 15048), Prob: 0.0027
-Token: ' misunderstanding' (ID: 69747), Prob: 0.0025
-Token: ' close' (ID: 3265), Prob: 0.0024
-Token: ' colleague' (ID: 36344), Prob: 0.0024
-Token: ' problem' (ID: 3491), Prob: 0.0020
-Token: ' mysterious' (ID: 25382), Prob: 0.0020
-Token: ' story' (ID: 3364), Prob: 0.0018
-Token: ' mis' (ID: 5786), Prob: 0.0016
-Token: ' friendly' (ID: 11657), Prob: 0.0016
-Token: ' romantic' (ID: 23467), Prob: 0.0015
-Token: ' personal' (ID: 4345), Prob: 0.0014
-Token: ' new' (ID: 501), Prob: 0.0011
-Token: ' good' (ID: 1661), Prob: 0.0011
-Token: ' man' (ID: 883), Prob: 0.0010
-Token: ' bad' (ID: 3873), Prob: 0.0010
-Token: ' mistake' (ID: 16523), Prob: 0.0010
-Token: ' normal' (ID: 4622), Prob: 0.0008
-Token: ' different' (ID: 2155), Prob: 0.0007
-Token: ' sudden' (ID: 10968), Prob: 0.0007
-Token: ' supernatural' (ID: 48958), Prob: 0.0007
-Token: ' mundane' (ID: 68682), Prob: 0.0007
-Token: ' social' (ID: 3590), Prob: 0.0006
-Token: ' real' (ID: 1931), Prob: 0.0006
-Token: ' connection' (ID: 3633), Prob: 0.0006
-Token: ' past' (ID: 3267), Prob: 0.0005
-Token: ' moment' (ID: 4445), Prob: 0.0005
-Token: ' casual' (ID: 16334), Prob: 0.0005
-Token: ' tragic' (ID: 34179), Prob: 0.0005
-Token: ' family' (ID: 2997), Prob: 0.0005
-Token: ' group' (ID: 1874), Prob: 0.0005
-Token: ' common' (ID: 4185), Prob: 0.0004
-Token: ' natural' (ID: 5810), Prob: 0.0004
-Token: ' scene' (ID: 6109), Prob: 0.0004
-Token: ' potential' (ID: 4650), Prob: 0.0004
-Token: ' mystery' (ID: 22531), Prob: 0.0004
-Token: ' child' (ID: 1682), Prob: 0.0004
-Token: ' series' (ID: 4013), Prob: 0.0004
-Token: ' secret' (ID: 6234), Prob: 0.0004
-Token: ' meeting' (ID: 6438), Prob: 0.0004
-Token: ' teacher' (ID: 11079), Prob: 0.0003
-Token: ' narrative' (ID: 19221), Prob: 0.0003
-Token: ' sibling' (ID: 44223), Prob: 0.0003
-Token: ' dialogue' (ID: 21276), Prob: 0.0003
-Token: ' seemingly' (ID: 22660), Prob: 0.0003
-Token: ' magical' (ID: 23702), Prob: 0.0003
-Token: ' couple' (ID: 5625), Prob: 0.0003
-Token: ' problematic' (ID: 34933), Prob: 0.0003
-Token: ' similar' (ID: 4428), Prob: 0.0003
-Token: ' professional' (ID: 6584), Prob: 0.0003
-Token: ' plot' (ID: 7089), Prob: 0.0003
-Token: ' nervous' (ID: 22596), Prob: 0.0003
-Token: ' possible' (ID: 3204), Prob: 0.0003
-Token: ' subtle' (ID: 26447), Prob: 0.0003
-Token: ' small' (ID: 2613), Prob: 0.0002
-Token: ' simple' (ID: 4285), Prob: 0.0002
-Token: ' heart' (ID: 4746), Prob: 0.0002
-Token: ' minor' (ID: 8922), Prob: 0.0002
-Token: ' funny' (ID: 15173), Prob: 0.0002
-Token: ' narrator' (ID: 64171), Prob: 0.0002
-Token: ' true' (ID: 830), Prob: 0.0002
-Token: ' user' (ID: 1196), Prob: 0.0002
-Token: ' negative' (ID: 8225), Prob: 0.0002
-Token: ' communication' (ID: 10535), Prob: 0.0002
-Token: ' sensitive' (ID: 16216), Prob: 0.0002
-Token: ' drama' (ID: 19584), Prob: 0.0002
-Token: ' twist' (ID: 26646), Prob: 0.0002
-Token: ' partner' (ID: 8263), Prob: 0.0002
-Token: ' loved' (ID: 10245), Prob: 0.0002
-Token: ' companion' (ID: 21741), Prob: 0.0002
-Token: ' lover' (ID: 30557), Prob: 0.0002
-Token: ' protagonist' (ID: 45584), Prob: 0.0002
-Token: ' humorous' (ID: 69846), Prob: 0.0002
-Token: ' former' (ID: 4741), Prob: 0.0002
-Token: ' dramatic' (ID: 21771), Prob: 0.0002
-Token: ' workplace' (ID: 26368), Prob: 0.0002
-Token: ' mutual' (ID: 26750), Prob: 0.0002
-Token: ' traumatic' (ID: 53186), Prob: 0.0002
-Token: ' third' (ID: 4843), Prob: 0.0002
-Token: ' mix' (ID: 6514), Prob: 0.0002
-Token: ' helpful' (ID: 10950), Prob: 0.0002
-Token: ' trusted' (ID: 21789), Prob: 0.0002
-Token: ' playful' (ID: 56069), Prob: 0.0002
-Token: ' previous' (ID: 3681), Prob: 0.0002
-Token: ' crisis' (ID: 11251), Prob: 0.0002
-Token: ' genuine' (ID: 22011), Prob: 0.0002
-Token: ' therapist' (ID: 41763), Prob: 0.0002
-Token: ' comforting' (ID: 68030), Prob: 0.0002
-Token: ' false' (ID: 895), Prob: 0.0001
+Token: ' same' (ID: 1852), Prob: 0.9922
+Token: ' following' (ID: 2701), Prob: 0.0019
+Token: ' year' (ID: 1042), Prob: 0.0010
+Token: ' subsequent' (ID: 17420), Prob: 0.0001
+Token: ' next' (ID: 1790), Prob: 0.0001
+Token: 'same' (ID: 24063), Prob: 0.0000
+Token: ' latter' (ID: 15271), Prob: 0.0000
+Token: ' years' (ID: 1635), Prob: 0.0000
+Token: ' summer' (ID: 7324), Prob: 0.0000
+Token: ' series' (ID: 4013), Prob: 0.0000
+Token: ' early' (ID: 4124), Prob: 0.0000
+Token: ' late' (ID: 3309), Prob: 0.0000
+Token: ' previous' (ID: 3681), Prob: 0.0000
+Token: ' first' (ID: 1156), Prob: 0.0000
+Token: ' later' (ID: 2937), Prob: 0.0000
+Token: ' season' (ID: 3200), Prob: 0.0000
+Token: ' television' (ID: 12425), Prob: 0.0000
+Token: ' decade' (ID: 13212), Prob: 0.0000
+Token: ' Same' (ID: 25739), Prob: 0.0000
+Token: ' mid' (ID: 5099), Prob: 0.0000
+Token: ' spring' (ID: 10464), Prob: 0.0000
+Token: ' film' (ID: 4531), Prob: 0.0000
+Token: ' period' (ID: 4168), Prob: 0.0000
+Token: ' academic' (ID: 14250), Prob: 0.0000
+Token: ' month' (ID: 2254), Prob: 0.0000
+Token: ' preceding' (ID: 37746), Prob: 0.0000
+Token: ' second' (ID: 2086), Prob: 0.0000
+Token: ' the' (ID: 279), Prob: 0.0000
+Token: ' UK' (ID: 6424), Prob: 0.0000
+Token: ' rest' (ID: 2732), Prob: 0.0000
+Token: ' succeeding' (ID: 72720), Prob: 0.0000
+Token: ' time' (ID: 882), Prob: 0.0000
+Token: ' BBC' (ID: 18096), Prob: 0.0000
+Token: '2' (ID: 17), Prob: 0.0000
+Token: ' British' (ID: 7855), Prob: 0.0000
+Token: ' final' (ID: 1590), Prob: 0.0000
+Token: ' past' (ID: 3267), Prob: 0.0000
+Token: ' sequel' (ID: 34761), Prob: 0.0000
+Token: ' earlier' (ID: 6788), Prob: 0.0000
+Token: ' meantime' (ID: 32853), Prob: 0.0000
+Token: ' week' (ID: 2003), Prob: 0.0000
+Token: ' last' (ID: 1537), Prob: 0.0000
+Token: ' context' (ID: 2266), Prob: 0.0000
+Token: ' similar' (ID: 4428), Prob: 0.0000
+Token: ' TV' (ID: 5883), Prob: 0.0000
+Token: 'Same' (ID: 19198), Prob: 0.0000
+Token: ' aftermath' (ID: 39596), Prob: 0.0000
+Token: '1' (ID: 16), Prob: 0.0000
+Token: ' United' (ID: 3639), Prob: 0.0000
+Token: ' winter' (ID: 12406), Prob: 0.0000
+Token: ' immediate' (ID: 13922), Prob: 0.0000
+Token: ' twenty' (ID: 17073), Prob: 0.0000
+Token: ' autumn' (ID: 41674), Prob: 0.0000
+Token: ' more' (ID: 803), Prob: 0.0000
+Token: ' two' (ID: 1378), Prob: 0.0000
+Token: ' show' (ID: 1473), Prob: 0.0000
+Token: ' course' (ID: 3308), Prob: 0.0000
+Token: ' calendar' (ID: 13168), Prob: 0.0000
+Token: ' new' (ID: 501), Prob: 0.0000
+Token: ' space' (ID: 3550), Prob: 0.0000
+Token: ' school' (ID: 2906), Prob: 0.0000
+Token: ' former' (ID: 4741), Prob: 0.0000
+Token: ' coming' (ID: 5001), Prob: 0.0000
+Token: ' movie' (ID: 5700), Prob: 0.0000
+Token: ' beginning' (ID: 7167), Prob: 0.0000
+Token: ' sequence' (ID: 8500), Prob: 0.0000
+Token: ' musical' (ID: 17795), Prob: 0.0000
+Token: ' very' (ID: 1602), Prob: 0.0000
+Token: ' follow' (ID: 1795), Prob: 0.0000
+Token: ' role' (ID: 3476), Prob: 0.0000
+Token: ' middle' (ID: 6149), Prob: 0.0000
+Token: ' upcoming' (ID: 14487), Prob: 0.0000
+Token: ' also' (ID: 1083), Prob: 0.0000
+Token: ' future' (ID: 3853), Prob: 0.0000
+Token: ' fall' (ID: 4399), Prob: 0.0000
+Token: ' other' (ID: 1008), Prob: 0.0000
+Token: ' English' (ID: 6364), Prob: 0.0000
+Token: ' and' (ID: 323), Prob: 0.0000
 
 == Ranked Concepts (Clusters) ==
-Rank 1 | Centroid: ' friend' | Score: 0.5039
-  Tokens: [' friend', ' friendship', ' colleague', ' sibling', ' partner', ' companion']
-Rank 2 | Centroid: ' character' | Score: 0.2305
-  Tokens: [' character']
-Rank 3 | Centroid: ' person' | Score: 0.0864
-  Tokens: [' person', ' man', ' child', ' user', ' third']
-Rank 4 | Centroid: ' scenario' | Score: 0.0713
-  Tokens: [' situation', ' scenario', ' problem', ' scene', ' crisis']
-Rank 5 | Centroid: ' conversation' | Score: 0.0221
-  Tokens: [' relationship', ' conversation', ' connection', ' meeting', ' dialogue', ' communication', ' mutual']
-Rank 6 | Centroid: ' mysterious' | Score: 0.0173
-  Tokens: [' stranger', ' strange', ' mysterious', ' mystery']
-Rank 7 | Centroid: ' misunderstanding' | Score: 0.0079
-  Tokens: [' conflict', ' misunderstanding', ' mis', ' mistake']
-Rank 8 | Centroid: ' serious' | Score: 0.0053
-  Tokens: [' serious', ' small', ' simple', ' minor', ' sensitive']
-Rank 9 | Centroid: ' good' | Score: 0.0045
-  Tokens: [' close', ' good', ' bad']
-Rank 10 | Centroid: ' professional' | Score: 0.0042
-  Tokens: [' personal', ' normal', ' social', ' real', ' natural', ' professional']
-Rank 11 | Centroid: ' humorous' | Score: 0.0035
-  Tokens: [' romantic', ' supernatural', ' magical', ' funny', ' drama', ' humorous', ' dramatic', ' playful', ' comforting']
-Rank 12 | Centroid: ' narrative' | Score: 0.0028
-  Tokens: [' story', ' narrative', ' plot', ' narrator', ' protagonist']
-Rank 13 | Centroid: ' different' | Score: 0.0025
-  Tokens: [' new', ' different', ' common', ' similar']
-Rank 14 | Centroid: ' subtle' | Score: 0.0022
-  Tokens: [' sudden', ' mundane', ' casual', ' subtle']
-Rank 15 | Centroid: ' friendly' | Score: 0.0018
-  Tokens: [' friendly', ' helpful']
-Rank 16 | Centroid: ' family' | Score: 0.0017
-  Tokens: [' family', ' group', ' series', ' couple']
-Rank 17 | Centroid: ' traumatic' | Score: 0.0010
-  Tokens: [' tragic', ' nervous', ' traumatic']
-Rank 18 | Centroid: ' possible' | Score: 0.0010
-  Tokens: [' potential', ' seemingly', ' possible']
-Rank 19 | Centroid: ' previous' | Score: 0.0009
-  Tokens: [' past', ' former', ' previous']
-Rank 20 | Centroid: ' therapist' | Score: 0.0007
-  Tokens: [' teacher', ' workplace', ' therapist']
-Rank 21 | Centroid: ' twist' | Score: 0.0006
-  Tokens: [' heart', ' twist', ' mix']
-Rank 22 | Centroid: ' moment' | Score: 0.0005
-  Tokens: [' moment']
-Rank 23 | Centroid: ' true' | Score: 0.0005
-  Tokens: [' true', ' genuine', ' false']
-Rank 24 | Centroid: ' loved' | Score: 0.0004
-  Tokens: [' loved', ' lover']
-Rank 25 | Centroid: ' secret' | Score: 0.0004
-  Tokens: [' secret']
-Rank 26 | Centroid: ' problematic' | Score: 0.0003
-  Tokens: [' problematic']
-Rank 27 | Centroid: ' negative' | Score: 0.0002
-  Tokens: [' negative']
-Rank 28 | Centroid: ' trusted' | Score: 0.0002
-  Tokens: [' trusted']
+Rank 1 | Centroid: ' same' | Score: 0.9922
+  Tokens: [' same', 'same', ' Same', ' similar', 'Same']
+Rank 2 | Centroid: ' upcoming' | Score: 0.0021
+  Tokens: [' following', ' subsequent', ' next', ' succeeding', ' coming', ' follow', ' upcoming', ' future']
+Rank 3 | Centroid: ' year' | Score: 0.0011
+  Tokens: [' year', ' years', ' season', ' decade', ' period', ' month', ' week', ' calendar']
+Rank 4 | Centroid: ' early' | Score: 0.0000
+  Tokens: [' early', ' late', ' earlier']
+Rank 5 | Centroid: ' autumn' | Score: 0.0000
+  Tokens: [' summer', ' spring', ' winter', ' autumn', ' fall']
+Rank 6 | Centroid: ' latter' | Score: 0.0000
+  Tokens: [' latter', ' former']
+Rank 7 | Centroid: ' twenty' | Score: 0.0000
+  Tokens: [' series', ' context', ' twenty', ' course', ' space', ' school', ' sequence']
+Rank 8 | Centroid: ' previous' | Score: 0.0000
+  Tokens: [' previous', ' preceding', ' past']
+Rank 9 | Centroid: ' the' | Score: 0.0000
+  Tokens: [' the', '2', '1', ' more', ' two', ' show', ' new', ' very', ' also', ' other', ' and']
+Rank 10 | Centroid: ' television' | Score: 0.0000
+  Tokens: [' television', ' film', ' TV', ' movie']
+Rank 11 | Centroid: ' first' | Score: 0.0000
+  Tokens: [' first', ' second', ' final', ' last']
+Rank 12 | Centroid: ' British' | Score: 0.0000
+  Tokens: [' UK', ' BBC', ' British', ' United', ' English']
+Rank 13 | Centroid: ' middle' | Score: 0.0000
+  Tokens: [' mid', ' immediate', ' beginning', ' middle']
+Rank 14 | Centroid: ' later' | Score: 0.0000
+  Tokens: [' later']
+Rank 15 | Centroid: ' academic' | Score: 0.0000
+  Tokens: [' academic', ' musical']
+Rank 16 | Centroid: ' aftermath' | Score: 0.0000
+  Tokens: [' sequel', ' meantime', ' aftermath']
+Rank 17 | Centroid: ' time' | Score: 0.0000
+  Tokens: [' time', ' role']
+Rank 18 | Centroid: ' rest' | Score: 0.0000
+  Tokens: [' rest']
 
 **Chosen Concept:** Rank 1

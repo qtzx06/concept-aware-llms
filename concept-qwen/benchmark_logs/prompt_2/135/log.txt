@@ -1,130 +1,112 @@
 --- Step 135 Log ---
 
 == Filtered Candidates ==
-Token: ' made' (ID: 1865), Prob: 0.7930
-Token: ' got' (ID: 2684), Prob: 0.0308
-Token: ' reached' (ID: 8643), Prob: 0.0187
-Token: ' destination' (ID: 9106), Prob: 0.0128
-Token: ' arrived' (ID: 11465), Prob: 0.0128
-Token: ' succeeded' (ID: 25331), Prob: 0.0022
-Token: ' make' (ID: 1281), Prob: 0.0018
-Token: ' came' (ID: 3697), Prob: 0.0016
-Token: ' ended' (ID: 9482), Prob: 0.0012
-Token: ' successful' (ID: 6849), Prob: 0.0011
-Token: ' went' (ID: 3937), Prob: 0.0010
-Token: ' resolved' (ID: 19673), Prob: 0.0009
-Token: ' achieved' (ID: 16994), Prob: 0.0007
-Token: ' making' (ID: 3259), Prob: 0.0006
-Token: ' found' (ID: 1730), Prob: 0.0005
-Token: ' success' (ID: 2393), Prob: 0.0004
-Token: ' reach' (ID: 5545), Prob: 0.0003
-Token: ' met' (ID: 2270), Prob: 0.0002
-Token: ' reaching' (ID: 18739), Prob: 0.0002
-Token: ' moved' (ID: 7726), Prob: 0.0002
-Token: ' get' (ID: 633), Prob: 0.0002
-Token: ' managed' (ID: 8975), Prob: 0.0002
-Token: ' returned' (ID: 5927), Prob: 0.0002
-Token: ' destinations' (ID: 33105), Prob: 0.0002
-Token: ' fixed' (ID: 8356), Prob: 0.0001
-Token: ' finished' (ID: 8060), Prob: 0.0001
-Token: ' saved' (ID: 6781), Prob: 0.0001
-Token: ' brought' (ID: 7117), Prob: 0.0001
-Token: ' makes' (ID: 3643), Prob: 0.0001
-Token: ' everything' (ID: 4297), Prob: 0.0001
-Token: ' completed' (ID: 8145), Prob: 0.0001
-Token: ' arriving' (ID: 32011), Prob: 0.0001
-Token: ' passed' (ID: 5823), Prob: 0.0001
-Token: ' succeed' (ID: 11996), Prob: 0.0001
-Token: ' dest' (ID: 3201), Prob: 0.0001
-Token: ' landed' (ID: 26120), Prob: 0.0001
-Token: ' done' (ID: 2814), Prob: 0.0001
-Token: ' everyone' (ID: 5019), Prob: 0.0001
-Token: ' arrival' (ID: 18647), Prob: 0.0001
-Token: ' rescued' (ID: 44333), Prob: 0.0001
-Token: ' solved' (ID: 27956), Prob: 0.0000
-Token: ' settled' (ID: 22378), Prob: 0.0000
-Token: ' resulted' (ID: 19006), Prob: 0.0000
-Token: ' things' (ID: 2513), Prob: 0.0000
-Token: ' safe' (ID: 6092), Prob: 0.0000
-Token: ' arrive' (ID: 17331), Prob: 0.0000
-Token: ' home' (ID: 2114), Prob: 0.0000
-Token: ' turned' (ID: 6519), Prob: 0.0000
-Token: ' helped' (ID: 8910), Prob: 0.0000
-Token: ' delivered' (ID: 12600), Prob: 0.0000
-Token: ' set' (ID: 738), Prob: 0.0000
-Token: ' back' (ID: 1182), Prob: 0.0000
-Token: ' restored' (ID: 27003), Prob: 0.0000
-Token: ' ending' (ID: 13391), Prob: 0.0000
-Token: ' Made' (ID: 18802), Prob: 0.0000
-Token: ' getting' (ID: 3709), Prob: 0.0000
-Token: ' worked' (ID: 6439), Prob: 0.0000
-Token: ' successfully' (ID: 7790), Prob: 0.0000
-Token: ' meant' (ID: 8791), Prob: 0.0000
-Token: ' sent' (ID: 3208), Prob: 0.0000
-Token: ' traveled' (ID: 30696), Prob: 0.0000
-Token: ' fix' (ID: 5046), Prob: 0.0000
-Token: ' became' (ID: 6116), Prob: 0.0000
-Token: ' survived' (ID: 25882), Prob: 0.0000
-Token: ' repaired' (ID: 51734), Prob: 0.0000
-Token: ' good' (ID: 1661), Prob: 0.0000
-Token: ' end' (ID: 835), Prob: 0.0000
-Token: ' triumph' (ID: 37486), Prob: 0.0000
-Token: ' okay' (ID: 16910), Prob: 0.0000
-Token: ' going' (ID: 2087), Prob: 0.0000
-Token: ' left' (ID: 2115), Prob: 0.0000
-Token: ' something' (ID: 2494), Prob: 0.0000
-Token: ' come' (ID: 2525), Prob: 0.0000
-Token: ' emerged' (ID: 21992), Prob: 0.0000
-Token: ' accomplished' (ID: 26237), Prob: 0.0000
-Token: ' received' (ID: 3949), Prob: 0.0000
-Token: ' led' (ID: 6069), Prob: 0.0000
-Token: ' connected' (ID: 8433), Prob: 0.0000
-Token: ' overcome' (ID: 22279), Prob: 0.0000
-Token: ' saw' (ID: 5485), Prob: 0.0000
-Token: ' moving' (ID: 7218), Prob: 0.0000
+Token: ' In' (ID: 758), Prob: 0.4434
+Token: ' He' (ID: 1260), Prob: 0.0874
+Token: ' This' (ID: 1096), Prob: 0.0320
+Token: ' The' (ID: 576), Prob: 0.0194
+Token: ' B' (ID: 425), Prob: 0.0104
+Token: ' How' (ID: 2585), Prob: 0.0092
+Token: ' I' (ID: 358), Prob: 0.0081
+Token: ' His' (ID: 5301), Prob: 0.0071
+Token: ' It' (ID: 1084), Prob: 0.0049
+Token: ' What' (ID: 3555), Prob: 0.0049
+Token: ' These' (ID: 4220), Prob: 0.0034
+Token: ' After' (ID: 4636), Prob: 0.0034
+Token: ' Wait' (ID: 13824), Prob: 0.0034
+Token: ' As' (ID: 1634), Prob: 0.0026
+Token: ' That' (ID: 2938), Prob: 0.0026
+Token: ' Please' (ID: 5209), Prob: 0.0026
+Token: ' According' (ID: 10548), Prob: 0.0026
+Token: ' There' (ID: 2619), Prob: 0.0023
+Token: ' From' (ID: 5542), Prob: 0.0020
+Token: ' For' (ID: 1752), Prob: 0.0018
+Token: ' Then' (ID: 5005), Prob: 0.0016
+Token: ' Between' (ID: 27133), Prob: 0.0014
+Token: ' During' (ID: 11954), Prob: 0.0012
+Token: ' A' (ID: 362), Prob: 0.0011
+Token: 'In' (ID: 641), Prob: 0.0010
+Token: ' On' (ID: 1913), Prob: 0.0010
+Token: ' At' (ID: 2411), Prob: 0.0010
+Token: ' When' (ID: 3197), Prob: 0.0010
+Token: ' Since' (ID: 8704), Prob: 0.0010
+Token: ' Also' (ID: 7281), Prob: 0.0009
+Token: ' Why' (ID: 8429), Prob: 0.0009
+Token: ' So' (ID: 2055), Prob: 0.0008
+Token: ' Where' (ID: 10967), Prob: 0.0008
+Token: ' Finally' (ID: 17375), Prob: 0.0008
+Token: ' And' (ID: 1597), Prob: 0.0007
+Token: ' Repeat' (ID: 44801), Prob: 0.0007
+Token: ' in' (ID: 304), Prob: 0.0006
+Token: ' However' (ID: 4354), Prob: 0.0006
+Token: ' Again' (ID: 13759), Prob: 0.0006
+Token: ' Ah' (ID: 16366), Prob: 0.0006
+Token: '1' (ID: 16), Prob: 0.0005
+Token: '2' (ID: 17), Prob: 0.0005
+Token: ' Oh' (ID: 8670), Prob: 0.0005
+Token: ' Later' (ID: 24885), Prob: 0.0005
+Token: 'He' (ID: 1519), Prob: 0.0004
+Token: ' Can' (ID: 2980), Prob: 0.0004
+Token: ' By' (ID: 3216), Prob: 0.0004
+Token: ' Who' (ID: 10479), Prob: 0.0004
+Token: ' he' (ID: 566), Prob: 0.0004
+Token: ' Re' (ID: 1032), Prob: 0.0004
+Token: ' Did' (ID: 14568), Prob: 0.0004
+Token: ' Which' (ID: 15920), Prob: 0.0004
+Token: ' Despite' (ID: 17715), Prob: 0.0003
+Token: ' But' (ID: 1988), Prob: 0.0003
+Token: ' Sorry' (ID: 32286), Prob: 0.0003
+Token: ' Is' (ID: 2160), Prob: 0.0002
+Token: ' Here' (ID: 5692), Prob: 0.0002
+Token: ' Based' (ID: 20205), Prob: 0.0002
+Token: ' Has' (ID: 11443), Prob: 0.0002
+Token: ' Additionally' (ID: 22406), Prob: 0.0002
+Token: ' and' (ID: 323), Prob: 0.0002
+Token: ' If' (ID: 1416), Prob: 0.0002
+Token: ' With' (ID: 3085), Prob: 0.0002
+Token: ' Sub' (ID: 3719), Prob: 0.0002
+Token: ' Given' (ID: 16246), Prob: 0.0002
+Token: ' Following' (ID: 22713), Prob: 0.0002
+Token: ' My' (ID: 3017), Prob: 0.0002
+Token: ' One' (ID: 3776), Prob: 0.0002
+Token: ' Two' (ID: 9043), Prob: 0.0002
 
 == Ranked Concepts (Clusters) ==
-Rank 1 | Centroid: ' make' | Score: 0.7969
-  Tokens: [' made', ' make', ' making', ' makes', ' Made']
-Rank 2 | Centroid: ' went' | Score: 0.0317
-  Tokens: [' got', ' went', ' led', ' saw']
-Rank 3 | Centroid: ' reach' | Score: 0.0192
-  Tokens: [' reached', ' reach', ' reaching']
-Rank 4 | Centroid: ' arrived' | Score: 0.0131
-  Tokens: [' arrived', ' arriving', ' landed', ' arrival', ' arrive']
-Rank 5 | Centroid: ' destination' | Score: 0.0131
-  Tokens: [' destination', ' destinations', ' dest']
-Rank 6 | Centroid: ' successful' | Score: 0.0039
-  Tokens: [' succeeded', ' successful', ' success', ' succeed', ' successfully', ' triumph']
-Rank 7 | Centroid: ' came' | Score: 0.0016
-  Tokens: [' came', ' come']
-Rank 8 | Centroid: ' ended' | Score: 0.0012
-  Tokens: [' ended', ' ending', ' end']
-Rank 9 | Centroid: ' resolved' | Score: 0.0012
-  Tokens: [' resolved', ' managed', ' solved', ' settled', ' repaired']
-Rank 10 | Centroid: ' completed' | Score: 0.0010
-  Tokens: [' achieved', ' finished', ' completed', ' done', ' accomplished']
-Rank 11 | Centroid: ' found' | Score: 0.0007
-  Tokens: [' found', ' met', ' sent']
-Rank 12 | Centroid: ' returned' | Score: 0.0004
-  Tokens: [' returned', ' brought', ' passed', ' received']
-Rank 13 | Centroid: ' resulted' | Score: 0.0004
-  Tokens: [' moved', ' resulted', ' turned', ' helped', ' worked', ' became', ' survived', ' emerged']
-Rank 14 | Centroid: ' getting' | Score: 0.0002
-  Tokens: [' get', ' getting', ' going', ' moving']
-Rank 15 | Centroid: ' rescued' | Score: 0.0002
-  Tokens: [' saved', ' rescued', ' delivered', ' restored']
-Rank 16 | Centroid: ' everything' | Score: 0.0002
-  Tokens: [' everything', ' everyone', ' things', ' something']
-Rank 17 | Centroid: ' good' | Score: 0.0002
-  Tokens: [' safe', ' home', ' set', ' back', ' good', ' okay', ' left', ' connected']
-Rank 18 | Centroid: ' fixed' | Score: 0.0002
-  Tokens: [' fixed', ' fix']
-Rank 19 | Centroid: ' meant' | Score: 0.0000
-  Tokens: [' meant']
-Rank 20 | Centroid: ' traveled' | Score: 0.0000
-  Tokens: [' traveled']
-Rank 21 | Centroid: ' overcome' | Score: 0.0000
-  Tokens: [' overcome']
+Rank 1 | Centroid: 'In' | Score: 0.4453
+  Tokens: [' In', 'In', ' in']
+Rank 2 | Centroid: ' He' | Score: 0.0952
+  Tokens: [' He', ' His', 'He', ' he']
+Rank 3 | Centroid: ' This' | Score: 0.0654
+  Tokens: [' This', ' The', ' It', ' These', ' That', ' There', ' However', ' Here', ' If']
+Rank 4 | Centroid: '1' | Score: 0.0208
+  Tokens: [' B', ' I', ' A', '1', '2', ' and']
+Rank 5 | Centroid: ' What' | Score: 0.0165
+  Tokens: [' How', ' What', ' Why', ' Where', ' Who', ' Which']
+Rank 6 | Centroid: ' For' | Score: 0.0090
+  Tokens: [' As', ' From', ' For', ' On', ' At', ' By', ' With']
+Rank 7 | Centroid: ' According' | Score: 0.0062
+  Tokens: [' According', ' Between', ' During', ' Despite', ' Based', ' Given', ' Following']
+Rank 8 | Centroid: ' Wait' | Score: 0.0041
+  Tokens: [' Wait', ' Repeat']
+Rank 9 | Centroid: ' Additionally' | Score: 0.0040
+  Tokens: [' Then', ' Also', ' Finally', ' Again', ' Additionally']
+Rank 10 | Centroid: ' After' | Score: 0.0034
+  Tokens: [' After']
+Rank 11 | Centroid: ' Please' | Score: 0.0029
+  Tokens: [' Please', ' Sorry']
+Rank 12 | Centroid: ' When' | Score: 0.0019
+  Tokens: [' When', ' Since']
+Rank 13 | Centroid: ' But' | Score: 0.0017
+  Tokens: [' So', ' And', ' But']
+Rank 14 | Centroid: ' Is' | Score: 0.0012
+  Tokens: [' Can', ' Did', ' Is', ' Has']
+Rank 15 | Centroid: ' Ah' | Score: 0.0010
+  Tokens: [' Ah', ' Oh']
+Rank 16 | Centroid: ' Two' | Score: 0.0008
+  Tokens: [' Later', ' One', ' Two']
+Rank 17 | Centroid: ' Re' | Score: 0.0005
+  Tokens: [' Re', ' Sub']
+Rank 18 | Centroid: ' My' | Score: 0.0002
+  Tokens: [' My']
 
 **Chosen Concept:** Rank 1

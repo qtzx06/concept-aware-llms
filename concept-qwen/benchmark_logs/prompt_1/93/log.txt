@@ -1,0 +1,100 @@
+--- Step 93 Log ---
+
+== Filtered Candidates ==
+Token: ' The' (ID: 576), Prob: 1.0000
+Token: ' Crown' (ID: 28643), Prob: 0.0001
+Token: 'The' (ID: 785), Prob: 0.0000
+Token: ' the' (ID: 279), Prob: 0.0000
+Token: ' THE' (ID: 3168), Prob: 0.0000
+Token: ' T' (ID: 350), Prob: 0.0000
+Token: ' Star' (ID: 7679), Prob: 0.0000
+Token: '.The' (ID: 11568), Prob: 0.0000
+Token: ' A' (ID: 362), Prob: 0.0000
+Token: ' In' (ID: 758), Prob: 0.0000
+Token: ' Time' (ID: 4120), Prob: 0.0000
+Token: ' House' (ID: 4678), Prob: 0.0000
+Token: ' Coron' (ID: 47083), Prob: 0.0000
+Token: ' One' (ID: 3776), Prob: 0.0000
+Token: ' Top' (ID: 6909), Prob: 0.0000
+Token: ' This' (ID: 1096), Prob: 0.0000
+Token: ' That' (ID: 2938), Prob: 0.0000
+Token: ' Empire' (ID: 20448), Prob: 0.0000
+Token: ' Crow' (ID: 26893), Prob: 0.0000
+Token: ' Prince' (ID: 19351), Prob: 0.0000
+Token: ' D' (ID: 422), Prob: 0.0000
+Token: ' He' (ID: 1260), Prob: 0.0000
+Token: ' I' (ID: 358), Prob: 0.0000
+Token: ' BBC' (ID: 18096), Prob: 0.0000
+Token: ' Revenge' (ID: 80549), Prob: 0.0000
+Token: ' TV' (ID: 5883), Prob: 0.0000
+Token: ' Royal' (ID: 16194), Prob: 0.0000
+Token: ' Sherlock' (ID: 60626), Prob: 0.0000
+Token: ' There' (ID: 2619), Prob: 0.0000
+Token: ' What' (ID: 3555), Prob: 0.0000
+Token: ' Queen' (ID: 16259), Prob: 0.0000
+Token: ' Doctor' (ID: 18635), Prob: 0.0000
+Token: ' King' (ID: 6210), Prob: 0.0000
+Token: ' Title' (ID: 10869), Prob: 0.0000
+Token: ' Another' (ID: 13293), Prob: 0.0000
+Token: ' and' (ID: 323), Prob: 0.0000
+Token: ' United' (ID: 3639), Prob: 0.0000
+Token: ' Series' (ID: 11131), Prob: 0.0000
+Token: ' ITV' (ID: 93355), Prob: 0.0000
+Token: ' Victoria' (ID: 22417), Prob: 0.0000
+Token: ' Thames' (ID: 81188), Prob: 0.0000
+Token: ' Her' (ID: 6252), Prob: 0.0000
+Token: ' It' (ID: 1084), Prob: 0.0000
+Token: ' Home' (ID: 5379), Prob: 0.0000
+Token: ' Other' (ID: 6944), Prob: 0.0000
+Token: ' Ten' (ID: 17695), Prob: 0.0000
+Token: ' B' (ID: 425), Prob: 0.0000
+Token: ' R' (ID: 431), Prob: 0.0000
+Token: ' Cor' (ID: 4463), Prob: 0.0000
+Token: ' Kingdom' (ID: 15072), Prob: 0.0000
+Token: ' Theatre' (ID: 26221), Prob: 0.0000
+Token: ' For' (ID: 1752), Prob: 0.0000
+Token: ' South' (ID: 4882), Prob: 0.0000
+Token: ' His' (ID: 5301), Prob: 0.0000
+Token: ' Sky' (ID: 14722), Prob: 0.0000
+Token: ' Th' (ID: 663), Prob: 0.0000
+Token: ' Twenty' (ID: 43856), Prob: 0.0000
+Token: ' P' (ID: 393), Prob: 0.0000
+Token: ' James' (ID: 7801), Prob: 0.0000
+Token: ' Thunder' (ID: 26691), Prob: 0.0000
+Token: ' Pride' (ID: 42146), Prob: 0.0000
+
+== Ranked Concepts (Clusters) ==
+Rank 1 | Centroid: ' The' | Score: 1.0000
+  Tokens: [' The', 'The', ' THE', '.The']
+Rank 2 | Centroid: ' Coron' | Score: 0.0001
+  Tokens: [' Crown', ' Coron', ' Crow', ' Cor']
+Rank 3 | Centroid: ' the' | Score: 0.0000
+  Tokens: [' the', ' T', ' A', ' D', ' I', ' and', ' B', ' R', ' P']
+Rank 4 | Centroid: ' This' | Score: 0.0000
+  Tokens: [' In', ' This', ' That', ' There', ' What', ' It', ' For']
+Rank 5 | Centroid: ' Time' | Score: 0.0000
+  Tokens: [' Time', ' Top', ' Title']
+Rank 6 | Centroid: ' King' | Score: 0.0000
+  Tokens: [' Prince', ' Royal', ' Queen', ' King', ' Kingdom']
+Rank 7 | Centroid: ' Sky' | Score: 0.0000
+  Tokens: [' Star', ' South', ' Sky']
+Rank 8 | Centroid: ' Victoria' | Score: 0.0000
+  Tokens: [' Empire', ' Revenge', ' Victoria', ' James', ' Pride']
+Rank 9 | Centroid: ' Sherlock' | Score: 0.0000
+  Tokens: [' Sherlock', ' Doctor', ' Thames', ' Theatre', ' Thunder']
+Rank 10 | Centroid: ' Another' | Score: 0.0000
+  Tokens: [' One', ' Another', ' Other']
+Rank 11 | Centroid: ' House' | Score: 0.0000
+  Tokens: [' House', ' Home']
+Rank 12 | Centroid: ' ITV' | Score: 0.0000
+  Tokens: [' BBC', ' TV', ' ITV']
+Rank 13 | Centroid: ' His' | Score: 0.0000
+  Tokens: [' He', ' Her', ' His']
+Rank 14 | Centroid: ' United' | Score: 0.0000
+  Tokens: [' United', ' Series']
+Rank 15 | Centroid: ' Ten' | Score: 0.0000
+  Tokens: [' Ten', ' Twenty']
+Rank 16 | Centroid: ' Th' | Score: 0.0000
+  Tokens: [' Th']
+
+**Chosen Concept:** Rank 1

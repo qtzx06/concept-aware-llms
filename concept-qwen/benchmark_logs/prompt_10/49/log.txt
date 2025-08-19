@@ -1,0 +1,121 @@
+--- Step 49 Log ---
+
+== Filtered Candidates ==
+Token: ' School' (ID: 6022), Prob: 0.6680
+Token: ' Circle' (ID: 21224), Prob: 0.1025
+Token: ' school' (ID: 2906), Prob: 0.0427
+Token: ' style' (ID: 1707), Prob: 0.0229
+Token: ' Hall' (ID: 10926), Prob: 0.0203
+Token: ' circle' (ID: 12671), Prob: 0.0157
+Token: ' Style' (ID: 11913), Prob: 0.0123
+Token: ' Academy' (ID: 15815), Prob: 0.0123
+Token: ' Movement' (ID: 27998), Prob: 0.0123
+Token: ' Society' (ID: 13278), Prob: 0.0084
+Token: ' and' (ID: 323), Prob: 0.0051
+Token: ' Association' (ID: 10024), Prob: 0.0051
+Token: ' Genre' (ID: 40295), Prob: 0.0040
+Token: ' Renaissance' (ID: 54283), Prob: 0.0040
+Token: ' movement' (ID: 7203), Prob: 0.0031
+Token: ' Club' (ID: 10140), Prob: 0.0027
+Token: ' Garden' (ID: 19021), Prob: 0.0017
+Token: ' genre' (ID: 17328), Prob: 0.0011
+Token: ' Schools' (ID: 30383), Prob: 0.0011
+Token: ' Group' (ID: 5737), Prob: 0.0010
+Token: ' scene' (ID: 6109), Prob: 0.0010
+Token: ' literary' (ID: 31365), Prob: 0.0009
+Token: ' Guild' (ID: 32492), Prob: 0.0008
+Token: ' Congress' (ID: 7992), Prob: 0.0007
+Token: ' schools' (ID: 8682), Prob: 0.0007
+Token: ' anthology' (ID: 83008), Prob: 0.0007
+Token: ' tradition' (ID: 13815), Prob: 0.0006
+Token: ' in' (ID: 304), Prob: 0.0005
+Token: ' World' (ID: 4337), Prob: 0.0005
+Token: ' of' (ID: 315), Prob: 0.0005
+Token: ' Great' (ID: 8513), Prob: 0.0005
+Token: ' Four' (ID: 13322), Prob: 0.0004
+Token: ' Generation' (ID: 23470), Prob: 0.0004
+Token: ' Eight' (ID: 35844), Prob: 0.0004
+Token: ' Gathering' (ID: 75585), Prob: 0.0004
+Token: ' Court' (ID: 7154), Prob: 0.0003
+Token: ' Studio' (ID: 18563), Prob: 0.0003
+Token: ' Nine' (ID: 37066), Prob: 0.0003
+Token: ' Dynasty' (ID: 73395), Prob: 0.0003
+Token: ' Tradition' (ID: 80478), Prob: 0.0003
+Token: ' group' (ID: 1874), Prob: 0.0002
+Token: ' Camp' (ID: 9512), Prob: 0.0002
+Token: ' Scene' (ID: 17494), Prob: 0.0002
+Token: ' circles' (ID: 25362), Prob: 0.0002
+Token: ' clique' (ID: 80379), Prob: 0.0002
+Token: ' Canon' (ID: 38116), Prob: 0.0002
+Token: ' Verse' (ID: 84068), Prob: 0.0002
+Token: ' generation' (ID: 9471), Prob: 0.0002
+Token: ' Review' (ID: 10294), Prob: 0.0002
+Token: ' Alliance' (ID: 22751), Prob: 0.0002
+Token: ' verse' (ID: 32387), Prob: 0.0002
+Token: ' Literature' (ID: 46370), Prob: 0.0002
+Token: ' Three' (ID: 14513), Prob: 0.0002
+Token: ' four' (ID: 3040), Prob: 0.0001
+Token: ' Collection' (ID: 11101), Prob: 0.0001
+Token: ' literature' (ID: 17206), Prob: 0.0001
+Token: ' Study' (ID: 19173), Prob: 0.0001
+Token: ' faction' (ID: 36380), Prob: 0.0001
+Token: ' Realm' (ID: 41106), Prob: 0.0001
+Token: ' Literary' (ID: 73624), Prob: 0.0001
+Token: ' Ensemble' (ID: 88357), Prob: 0.0001
+Token: ''s' (ID: 594), Prob: 0.0001
+Token: ' Golden' (ID: 17809), Prob: 0.0001
+Token: ' landscape' (ID: 18414), Prob: 0.0001
+Token: ' Song' (ID: 18971), Prob: 0.0001
+Token: ' Heaven' (ID: 31350), Prob: 0.0001
+Token: ' Crit' (ID: 33207), Prob: 0.0001
+Token: ' A' (ID: 362), Prob: 0.0001
+Token: ' that' (ID: 429), Prob: 0.0001
+Token: ' Cont' (ID: 2093), Prob: 0.0001
+Token: ' Her' (ID: 6252), Prob: 0.0001
+Token: ' Festival' (ID: 17322), Prob: 0.0001
+Token: ' dynasty' (ID: 66846), Prob: 0.0001
+Token: ' Quart' (ID: 69084), Prob: 0.0001
+Token: ' Scholars' (ID: 98294), Prob: 0.0001
+Token: ' X' (ID: 1599), Prob: 0.0001
+Token: ' trio' (ID: 33962), Prob: 0.0001
+Token: ' Landscape' (ID: 62541), Prob: 0.0001
+Token: ' S' (ID: 328), Prob: 0.0001
+Token: ' T' (ID: 350), Prob: 0.0001
+Token: ' association' (ID: 15010), Prob: 0.0001
+Token: ' Forum' (ID: 17538), Prob: 0.0001
+
+== Ranked Concepts (Clusters) ==
+Rank 1 | Centroid: ' schools' | Score: 0.7109
+  Tokens: [' School', ' school', ' Schools', ' schools']
+Rank 2 | Centroid: ' circle' | Score: 0.1187
+  Tokens: [' Circle', ' circle', ' circles']
+Rank 3 | Centroid: ' Guild' | Score: 0.0452
+  Tokens: [' Hall', ' Academy', ' Society', ' Club', ' Guild', ' Court', ' Camp', ' Alliance', ' Forum']
+Rank 4 | Centroid: ' Style' | Score: 0.0361
+  Tokens: [' style', ' Style', ' tradition', ' Tradition']
+Rank 5 | Centroid: ' movement' | Score: 0.0159
+  Tokens: [' Movement', ' movement', ' Generation', ' generation']
+Rank 6 | Centroid: ' and' | Score: 0.0070
+  Tokens: [' and', ' in', ' of', ' Review', "'s", ' A', ' that', ' Cont', ' Her', ' X', ' S', ' T']
+Rank 7 | Centroid: ' Group' | Score: 0.0064
+  Tokens: [' Association', ' Group', ' group', ' association']
+Rank 8 | Centroid: ' dynasty' | Score: 0.0053
+  Tokens: [' Renaissance', ' Studio', ' Dynasty', ' Canon', ' Realm', ' Ensemble', ' Heaven', ' Festival', ' dynasty']
+Rank 9 | Centroid: ' Genre' | Score: 0.0051
+  Tokens: [' Genre', ' genre']
+Rank 10 | Centroid: ' Great' | Score: 0.0035
+  Tokens: [' Garden', ' Congress', ' World', ' Great', ' Golden']
+Rank 11 | Centroid: ' Four' | Score: 0.0015
+  Tokens: [' Four', ' Eight', ' Nine', ' Three', ' four', ' Quart', ' trio']
+Rank 12 | Centroid: ' landscape' | Score: 0.0014
+  Tokens: [' scene', ' Scene', ' landscape', ' Landscape']
+Rank 13 | Centroid: ' literary' | Score: 0.0013
+  Tokens: [' literary', ' Literature', ' literature', ' Literary']
+Rank 14 | Centroid: ' faction' | Score: 0.0009
+  Tokens: [' Gathering', ' clique', ' Collection', ' faction']
+Rank 15 | Centroid: ' anthology' | Score: 0.0008
+  Tokens: [' anthology', ' Scholars']
+Rank 16 | Centroid: ' verse' | Score: 0.0007
+  Tokens: [' Verse', ' verse', ' Study', ' Song', ' Crit']
+
+**Chosen Concept:** Rank 1

@@ -1,0 +1,135 @@
+--- Step 98 Log ---
+
+== Filtered Candidates ==
+Token: 'op' (ID: 453), Prob: 1.0000
+Token: 'opr' (ID: 46288), Prob: 0.0000
+Token: ' op' (ID: 1179), Prob: 0.0000
+Token: 'ut' (ID: 332), Prob: 0.0000
+Token: 'opi' (ID: 71087), Prob: 0.0000
+Token: 'opa' (ID: 39852), Prob: 0.0000
+Token: 'ip' (ID: 573), Prob: 0.0000
+Token: 'OP' (ID: 3067), Prob: 0.0000
+Token: 'opes' (ID: 18523), Prob: 0.0000
+Token: 'udden' (ID: 37995), Prob: 0.0000
+Token: 'weeney' (ID: 90269), Prob: 0.0000
+Token: 'od' (ID: 347), Prob: 0.0000
+Token: '.W' (ID: 1175), Prob: 0.0000
+Token: 'emp' (ID: 3262), Prob: 0.0000
+Token: ' Op' (ID: 10672), Prob: 0.0000
+Token: 'lop' (ID: 22288), Prob: 0.0000
+Token: '(op' (ID: 17096), Prob: 0.0000
+Token: 'atisf' (ID: 7478), Prob: 0.0000
+Token: 'cream' (ID: 46000), Prob: 0.0000
+Token: ' Brothers' (ID: 33079), Prob: 0.0000
+Token: 'ire' (ID: 554), Prob: 0.0000
+Token: 'app' (ID: 676), Prob: 0.0000
+Token: 'imp' (ID: 6664), Prob: 0.0000
+Token: 'wo' (ID: 1126), Prob: 0.0000
+Token: 'Op' (ID: 7125), Prob: 0.0000
+Token: 'quirrel' (ID: 86640), Prob: 0.0000
+Token: ' Club' (ID: 10140), Prob: 0.0000
+Token: '.op' (ID: 12029), Prob: 0.0000
+Token: 'inf' (ID: 13573), Prob: 0.0000
+Token: 'os' (ID: 436), Prob: 0.0000
+Token: 'oped' (ID: 16367), Prob: 0.0000
+Token: 'iblings' (ID: 24229), Prob: 0.0000
+Token: 'opp' (ID: 4775), Prob: 0.0000
+Token: 'aviors' (ID: 22176), Prob: 0.0000
+Token: 'ins' (ID: 1330), Prob: 0.0000
+Token: 'uits' (ID: 11797), Prob: 0.0000
+Token: 'alk' (ID: 1692), Prob: 0.0000
+Token: 'educ' (ID: 24770), Prob: 0.0000
+Token: 'inner' (ID: 4382), Prob: 0.0000
+Token: 'noop' (ID: 40162), Prob: 0.0000
+Token: 'ucceed' (ID: 29264), Prob: 0.0000
+Token: 'opo' (ID: 55709), Prob: 0.0000
+Token: ' Corporation' (ID: 13034), Prob: 0.0000
+Token: 'iren' (ID: 46335), Prob: 0.0000
+Token: '-op' (ID: 29492), Prob: 0.0000
+Token: 'cheduling' (ID: 44356), Prob: 0.0000
+Token: '0' (ID: 15), Prob: 0.0000
+Token: 'ops' (ID: 3721), Prob: 0.0000
+Token: 'opl' (ID: 55078), Prob: 0.0000
+Token: '2' (ID: 17), Prob: 0.0000
+Token: 'ore' (ID: 460), Prob: 0.0000
+Token: 'ard' (ID: 567), Prob: 0.0000
+Token: 'opy' (ID: 1266), Prob: 0.0000
+Token: 'aff' (ID: 2649), Prob: 0.0000
+Token: 'oper' (ID: 3296), Prob: 0.0000
+Token: 'oma' (ID: 7786), Prob: 0.0000
+Token: 'addle' (ID: 20137), Prob: 0.0000
+Token: 'laughter' (ID: 51783), Prob: 0.0000
+Token: 'neath' (ID: 27817), Prob: 0.0000
+Token: 'int' (ID: 396), Prob: 0.0000
+Token: 'way' (ID: 3117), Prob: 0.0000
+Token: ' o' (ID: 297), Prob: 0.0000
+Token: 'quire' (ID: 984), Prob: 0.0000
+Token: 'pector' (ID: 18997), Prob: 0.0000
+Token: 'itter' (ID: 3248), Prob: 0.0000
+Token: 'plat' (ID: 42339), Prob: 0.0000
+Token: 'ont' (ID: 544), Prob: 0.0000
+Token: 'que' (ID: 591), Prob: 0.0000
+Token: '[op' (ID: 88293), Prob: 0.0000
+Token: 'occ' (ID: 13983), Prob: 0.0000
+Token: 'ord' (ID: 539), Prob: 0.0000
+Token: ' cop' (ID: 6162), Prob: 0.0000
+Token: 'after' (ID: 10694), Prob: 0.0000
+Token: 'ocom' (ID: 11986), Prob: 0.0000
+Token: 'adder' (ID: 20808), Prob: 0.0000
+Token: 'oping' (ID: 33707), Prob: 0.0000
+Token: '.A' (ID: 875), Prob: 0.0000
+Token: 'cent' (ID: 1168), Prob: 0.0000
+Token: 'exp' (ID: 4580), Prob: 0.0000
+Token: 'oph' (ID: 5127), Prob: 0.0000
+Token: 'aviours' (ID: 59256), Prob: 0.0000
+Token: '1' (ID: 16), Prob: 0.0000
+
+== Ranked Concepts (Clusters) ==
+Rank 1 | Centroid: ' op' | Score: 1.0000
+  Tokens: ['op', ' op', 'OP', ' Op', '(op', 'Op', '.op', 'opp', '-op', 'ops', '[op']
+Rank 2 | Centroid: 'opa' | Score: 0.0000
+  Tokens: ['opr', 'opi', 'opa', 'opo', 'opl', 'opy']
+Rank 3 | Centroid: 'od' | Score: 0.0000
+  Tokens: ['ut', 'od', 'os', 'ont']
+Rank 4 | Centroid: 'int' | Score: 0.0000
+  Tokens: ['ip', 'app', 'imp', 'inf', 'ins', 'aff', 'int', 'exp']
+Rank 5 | Centroid: ' Corporation' | Score: 0.0000
+  Tokens: ['weeney', 'atisf', 'cream', 'quirrel', ' Club', 'ucceed', ' Corporation', 'addle', 'laughter', 'neath']
+Rank 6 | Centroid: 'oped' | Score: 0.0000
+  Tokens: ['opes', 'oped', 'oper', 'oping']
+Rank 7 | Centroid: 'iblings' | Score: 0.0000
+  Tokens: ['udden', ' Brothers', 'iblings', 'cheduling']
+Rank 8 | Centroid: '0' | Score: 0.0000
+  Tokens: ['.W', '0', '2', ' o', '.A', '1']
+Rank 9 | Centroid: 'emp' | Score: 0.0000
+  Tokens: ['emp']
+Rank 10 | Centroid: 'lop' | Score: 0.0000
+  Tokens: ['lop']
+Rank 11 | Centroid: 'wo' | Score: 0.0000
+  Tokens: ['wo', 'alk', 'way']
+Rank 12 | Centroid: 'ire' | Score: 0.0000
+  Tokens: ['ire', 'iren']
+Rank 13 | Centroid: 'educ' | Score: 0.0000
+  Tokens: ['educ', 'inner', 'itter', 'adder']
+Rank 14 | Centroid: 'ord' | Score: 0.0000
+  Tokens: ['ore', 'ard', 'oma', 'occ', 'ord', 'ocom']
+Rank 15 | Centroid: 'aviors' | Score: 0.0000
+  Tokens: ['aviors', 'aviours']
+Rank 16 | Centroid: 'uits' | Score: 0.0000
+  Tokens: ['uits']
+Rank 17 | Centroid: 'noop' | Score: 0.0000
+  Tokens: ['noop']
+Rank 18 | Centroid: 'quire' | Score: 0.0000
+  Tokens: ['quire', 'que']
+Rank 19 | Centroid: 'plat' | Score: 0.0000
+  Tokens: ['plat', ' cop']
+Rank 20 | Centroid: 'pector' | Score: 0.0000
+  Tokens: ['pector']
+Rank 21 | Centroid: 'after' | Score: 0.0000
+  Tokens: ['after']
+Rank 22 | Centroid: 'cent' | Score: 0.0000
+  Tokens: ['cent']
+Rank 23 | Centroid: 'oph' | Score: 0.0000
+  Tokens: ['oph']
+
+**Chosen Concept:** Rank 1

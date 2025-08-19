@@ -1,156 +1,134 @@
 --- Step 40 Log ---
 
 == Filtered Candidates ==
-Token: ' setting' (ID: 6243), Prob: 0.4316
-Token: ' arrival' (ID: 18647), Prob: 0.1396
-Token: ' time' (ID: 882), Prob: 0.0664
-Token: ' anticipation' (ID: 49819), Prob: 0.0354
-Token: ' date' (ID: 2400), Prob: 0.0312
-Token: ' day' (ID: 1899), Prob: 0.0276
-Token: ' setup' (ID: 6505), Prob: 0.0215
-Token: ' name' (ID: 829), Prob: 0.0189
-Token: ' excitement' (ID: 27262), Prob: 0.0189
-Token: ' narrator' (ID: 64171), Prob: 0.0189
-Token: ' destination' (ID: 9106), Prob: 0.0167
-Token: ' departure' (ID: 24915), Prob: 0.0167
-Token: ' person' (ID: 1697), Prob: 0.0148
-Token: ' main' (ID: 1887), Prob: 0.0148
-Token: ' weather' (ID: 9104), Prob: 0.0090
-Token: ' traveler' (ID: 62765), Prob: 0.0079
-Token: ' location' (ID: 3728), Prob: 0.0070
-Token: ' title' (ID: 2265), Prob: 0.0062
-Token: ' general' (ID: 4586), Prob: 0.0054
-Token: ' journey' (ID: 11618), Prob: 0.0054
-Token: ' protagonist' (ID: 45584), Prob: 0.0054
-Token: ' hike' (ID: 34231), Prob: 0.0048
-Token: ' details' (ID: 3565), Prob: 0.0042
-Token: ' description' (ID: 4008), Prob: 0.0037
-Token: ' morning' (ID: 6556), Prob: 0.0033
-Token: ' author' (ID: 3150), Prob: 0.0026
-Token: ' entry' (ID: 4343), Prob: 0.0026
-Token: ' attraction' (ID: 32364), Prob: 0.0026
-Token: ' hiking' (ID: 37364), Prob: 0.0026
-Token: ' trip' (ID: 8411), Prob: 0.0023
-Token: ' route' (ID: 6021), Prob: 0.0018
-Token: ' scenery' (ID: 50231), Prob: 0.0018
-Token: ' environment' (ID: 4573), Prob: 0.0016
-Token: ' first' (ID: 1156), Prob: 0.0014
-Token: ' opening' (ID: 8568), Prob: 0.0014
-Token: ' atmosphere' (ID: 16566), Prob: 0.0014
-Token: ' purpose' (ID: 7428), Prob: 0.0012
-Token: ' overall' (ID: 8084), Prob: 0.0012
-Token: ' introduction' (ID: 16800), Prob: 0.0012
-Token: ' entrance' (ID: 19809), Prob: 0.0012
-Token: ' scene' (ID: 6109), Prob: 0.0011
-Token: ' scenic' (ID: 60981), Prob: 0.0011
-Token: ' context' (ID: 2266), Prob: 0.0009
-Token: ' feeling' (ID: 8266), Prob: 0.0009
-Token: ' preparation' (ID: 17975), Prob: 0.0009
-Token: ' initial' (ID: 2856), Prob: 0.0008
-Token: ' surroundings' (ID: 39090), Prob: 0.0008
-Token: ' adventure' (ID: 17943), Prob: 0.0007
-Token: ' discovery' (ID: 18335), Prob: 0.0007
-Token: ' moment' (ID: 4445), Prob: 0.0006
-Token: ' impression' (ID: 20792), Prob: 0.0006
-Token: ' visitor' (ID: 20181), Prob: 0.0006
-Token: ' motivation' (ID: 24798), Prob: 0.0006
-Token: ' idea' (ID: 4522), Prob: 0.0005
-Token: ' structure' (ID: 5944), Prob: 0.0005
-Token: ' reason' (ID: 2874), Prob: 0.0004
-Token: ' driver' (ID: 5579), Prob: 0.0004
-Token: ' photographer' (ID: 28767), Prob: 0.0004
-Token: ' allure' (ID: 87403), Prob: 0.0004
-Token: ' adventurer' (ID: 99135), Prob: 0.0004
-Token: ' names' (ID: 5036), Prob: 0.0004
-Token: ' season' (ID: 3200), Prob: 0.0004
-Token: ' tour' (ID: 7216), Prob: 0.0004
-Token: ' invitation' (ID: 28688), Prob: 0.0004
-Token: ' view' (ID: 1651), Prob: 0.0004
-Token: ' activity' (ID: 5702), Prob: 0.0004
-Token: ' event' (ID: 1538), Prob: 0.0003
-Token: ' character' (ID: 3668), Prob: 0.0003
-Token: ' detail' (ID: 7716), Prob: 0.0003
-Token: ' intention' (ID: 14602), Prob: 0.0003
-Token: ' vivid' (ID: 42020), Prob: 0.0003
-Token: ' experience' (ID: 3139), Prob: 0.0003
-Token: ' sound' (ID: 5112), Prob: 0.0003
-Token: ' approach' (ID: 5486), Prob: 0.0003
-Token: ' sight' (ID: 13929), Prob: 0.0003
-Token: ' type' (ID: 943), Prob: 0.0003
-Token: ' people' (ID: 1251), Prob: 0.0003
-Token: ' usual' (ID: 13475), Prob: 0.0003
-Token: ' plan' (ID: 3119), Prob: 0.0003
-Token: ' direction' (ID: 5106), Prob: 0.0003
-Token: ' perspective' (ID: 13057), Prob: 0.0003
-Token: ' explorer' (ID: 52967), Prob: 0.0003
-Token: ' story' (ID: 3364), Prob: 0.0003
-Token: ' appearance' (ID: 11094), Prob: 0.0003
-Token: ' place' (ID: 1992), Prob: 0.0002
-Token: ' beginning' (ID: 7167), Prob: 0.0002
-Token: ' significance' (ID: 25361), Prob: 0.0002
-Token: ' trek' (ID: 44588), Prob: 0.0002
-Token: ' tone' (ID: 16232), Prob: 0.0002
-Token: ' call' (ID: 1618), Prob: 0.0002
-Token: ' background' (ID: 4004), Prob: 0.0002
-Token: ' reader' (ID: 6604), Prob: 0.0002
-Token: ' timing' (ID: 18405), Prob: 0.0002
-Token: ' ambiance' (ID: 94573), Prob: 0.0002
-Token: ' planning' (ID: 9115), Prob: 0.0002
-Token: ' landscape' (ID: 18414), Prob: 0.0002
-Token: ' decision' (ID: 5480), Prob: 0.0002
-Token: ' outline' (ID: 21101), Prob: 0.0002
-Token: ' premise' (ID: 40202), Prob: 0.0002
+Token: 'ter' (ID: 465), Prob: 1.0000
+Token: 'tr' (ID: 376), Prob: 0.0000
+Token: 'tered' (ID: 33159), Prob: 0.0000
+Token: 'chter' (ID: 66685), Prob: 0.0000
+Token: 'te' (ID: 665), Prob: 0.0000
+Token: 'TER' (ID: 4198), Prob: 0.0000
+Token: 'ters' (ID: 5045), Prob: 0.0000
+Token: '_ter' (ID: 72493), Prob: 0.0000
+Token: 'th' (ID: 339), Prob: 0.0000
+Token: 'ther' (ID: 696), Prob: 0.0000
+Token: 'fer' (ID: 802), Prob: 0.0000
+Token: 'terror' (ID: 37388), Prob: 0.0000
+Token: 'fter' (ID: 1046), Prob: 0.0000
+Token: 'cer' (ID: 3828), Prob: 0.0000
+Token: 'der' (ID: 1107), Prob: 0.0000
+Token: 'ver' (ID: 423), Prob: 0.0000
+Token: 'try' (ID: 1539), Prob: 0.0000
+Token: 'tet' (ID: 72442), Prob: 0.0000
+Token: 'atter' (ID: 1650), Prob: 0.0000
+Token: 'tor' (ID: 10980), Prob: 0.0000
+Token: ' ter' (ID: 1982), Prob: 0.0000
+Token: 'tery' (ID: 17615), Prob: 0.0000
+Token: 'taire' (ID: 70137), Prob: 0.0000
+Token: 'cter' (ID: 74069), Prob: 0.0000
+Token: 'setter' (ID: 88479), Prob: 0.0000
+Token: 'mer' (ID: 1174), Prob: 0.0000
+Token: 'ster' (ID: 3667), Prob: 0.0000
+Token: 'bert' (ID: 9160), Prob: 0.0000
+Token: ' TER' (ID: 48848), Prob: 0.0000
+Token: 'tes' (ID: 2338), Prob: 0.0000
+Token: ' Turner' (ID: 33031), Prob: 0.0000
+Token: 'ts' (ID: 2576), Prob: 0.0000
+Token: 'tier' (ID: 49335), Prob: 0.0000
+Token: 'tern' (ID: 4160), Prob: 0.0000
+Token: 'ker' (ID: 7052), Prob: 0.0000
+Token: 'trer' (ID: 94820), Prob: 0.0000
+Token: 'ser' (ID: 799), Prob: 0.0000
+Token: 'terra' (ID: 47821), Prob: 0.0000
+Token: 'met' (ID: 4059), Prob: 0.0000
+Token: 'uter' (ID: 27951), Prob: 0.0000
+Token: 'ton' (ID: 777), Prob: 0.0000
+Token: 'set' (ID: 746), Prob: 0.0000
+Token: 'tera' (ID: 50037), Prob: 0.0000
+Token: ' tert' (ID: 97114), Prob: 0.0000
+Token: 'arter' (ID: 5295), Prob: 0.0000
+Token: 'wer' (ID: 6566), Prob: 0.0000
+Token: 'Ter' (ID: 21209), Prob: 0.0000
+Token: 'byter' (ID: 71607), Prob: 0.0000
+Token: 'ten' (ID: 1960), Prob: 0.0000
+Token: 'serter' (ID: 90727), Prob: 0.0000
+Token: 'true' (ID: 1866), Prob: 0.0000
+Token: ' Ter' (ID: 10127), Prob: 0.0000
+Token: 'ater' (ID: 962), Prob: 0.0000
+Token: 't' (ID: 83), Prob: 0.0000
+Token: 'per' (ID: 712), Prob: 0.0000
+Token: 'zer' (ID: 7070), Prob: 0.0000
+Token: 'riter' (ID: 2542), Prob: 0.0000
+Token: 'anter' (ID: 80030), Prob: 0.0000
+Token: 'test' (ID: 1944), Prob: 0.0000
+Token: 'ly' (ID: 398), Prob: 0.0000
+Token: 'get' (ID: 455), Prob: 0.0000
+Token: 'ture' (ID: 4974), Prob: 0.0000
+Token: 'rtle' (ID: 92436), Prob: 0.0000
+Token: 'ort' (ID: 371), Prob: 0.0000
+Token: 'ber' (ID: 652), Prob: 0.0000
+Token: 'tem' (ID: 870), Prob: 0.0000
+Token: 'ifter' (ID: 37700), Prob: 0.0000
+Token: 'wert' (ID: 54594), Prob: 0.0000
+Token: 'tel' (ID: 22924), Prob: 0.0000
+Token: 'tero' (ID: 90389), Prob: 0.0000
+Token: 'tré' (ID: 133349), Prob: 0.0000
+Token: 'term' (ID: 4991), Prob: 0.0000
+Token: 'fers' (ID: 49793), Prob: 0.0000
+Token: ' terrace' (ID: 51478), Prob: 0.0000
+Token: ' Monter' (ID: 64998), Prob: 0.0000
+Token: 'type' (ID: 1313), Prob: 0.0000
+Token: 'ger' (ID: 1389), Prob: 0.0000
+Token: 'jer' (ID: 26360), Prob: 0.0000
+Token: ''t' (ID: 944), Prob: 0.0000
+Token: 'ting' (ID: 1280), Prob: 0.0000
+Token: 'tte' (ID: 39836), Prob: 0.0000
+Token: 'etter' (ID: 21405), Prob: 0.0000
+Token: 'ct' (ID: 302), Prob: 0.0000
+Token: 'vert' (ID: 1621), Prob: 0.0000
+Token: 'tt' (ID: 5566), Prob: 0.0000
+Token: 'terr' (ID: 68669), Prob: 0.0000
+Token: 'text' (ID: 1318), Prob: 0.0000
 
 == Ranked Concepts (Clusters) ==
-Rank 1 | Centroid: ' setup' | Score: 0.4551
-  Tokens: [' setting', ' setup', ' context', ' structure', ' background']
-Rank 2 | Centroid: ' entrance' | Score: 0.1611
-  Tokens: [' arrival', ' departure', ' entry', ' introduction', ' entrance']
-Rank 3 | Centroid: ' day' | Score: 0.1387
-  Tokens: [' time', ' date', ' day', ' weather', ' morning', ' moment', ' season', ' timing']
-Rank 4 | Centroid: ' excitement' | Score: 0.0583
-  Tokens: [' anticipation', ' excitement', ' attraction', ' discovery', ' allure', ' invitation']
-Rank 5 | Centroid: ' protagonist' | Score: 0.0280
-  Tokens: [' narrator', ' protagonist', ' author', ' driver', ' photographer', ' reader']
-Rank 6 | Centroid: ' location' | Score: 0.0260
-  Tokens: [' destination', ' location', ' route', ' direction', ' place']
-Rank 7 | Centroid: ' adventurer' | Score: 0.0256
-  Tokens: [' traveler', ' journey', ' hike', ' hiking', ' trip', ' adventure', ' visitor', ' adventurer', ' tour', ' explorer', ' trek']
-Rank 8 | Centroid: ' name' | Score: 0.0255
-  Tokens: [' name', ' title', ' names']
-Rank 9 | Centroid: ' initial' | Score: 0.0255
-  Tokens: [' main', ' general', ' first', ' opening', ' overall', ' initial', ' usual', ' beginning']
-Rank 10 | Centroid: ' people' | Score: 0.0154
-  Tokens: [' person', ' type', ' people']
-Rank 11 | Centroid: ' details' | Score: 0.0049
-  Tokens: [' details', ' detail', ' vivid']
-Rank 12 | Centroid: ' environment' | Score: 0.0042
-  Tokens: [' environment', ' atmosphere', ' surroundings', ' ambiance', ' landscape']
-Rank 13 | Centroid: ' scenery' | Score: 0.0039
-  Tokens: [' scenery', ' scene', ' scenic']
-Rank 14 | Centroid: ' description' | Score: 0.0039
-  Tokens: [' description', ' outline']
-Rank 15 | Centroid: ' purpose' | Score: 0.0028
-  Tokens: [' purpose', ' motivation', ' reason', ' intention', ' significance']
-Rank 16 | Centroid: ' planning' | Score: 0.0014
-  Tokens: [' preparation', ' plan', ' planning']
-Rank 17 | Centroid: ' perspective' | Score: 0.0013
-  Tokens: [' view', ' experience', ' sight', ' perspective']
-Rank 18 | Centroid: ' feeling' | Score: 0.0013
-  Tokens: [' feeling', ' sound']
-Rank 19 | Centroid: ' impression' | Score: 0.0011
-  Tokens: [' impression', ' appearance', ' premise']
-Rank 20 | Centroid: ' activity' | Score: 0.0007
-  Tokens: [' activity', ' event']
-Rank 21 | Centroid: ' idea' | Score: 0.0007
-  Tokens: [' idea', ' decision']
-Rank 22 | Centroid: ' character' | Score: 0.0006
-  Tokens: [' character', ' story']
-Rank 23 | Centroid: ' approach' | Score: 0.0003
-  Tokens: [' approach']
-Rank 24 | Centroid: ' tone' | Score: 0.0002
-  Tokens: [' tone']
-Rank 25 | Centroid: ' call' | Score: 0.0002
-  Tokens: [' call']
+Rank 1 | Centroid: 'ter' | Score: 1.0000
+  Tokens: ['ter', 'tered', 'TER', 'ters', 'tery', 'tern', 'tera', 'tero', 'term']
+Rank 2 | Centroid: 'tr' | Score: 0.0000
+  Tokens: ['tr', 'try', 'true']
+Rank 3 | Centroid: 'cter' | Score: 0.0000
+  Tokens: ['chter', 'cter', 'ct']
+Rank 4 | Centroid: 'te' | Score: 0.0000
+  Tokens: ['te', 'tes', 'ts', 'ton', 'ten', 't', 'tem', 'ting', 'tt']
+Rank 5 | Centroid: ' Ter' | Score: 0.0000
+  Tokens: ['_ter', ' ter', ' TER', ' tert', 'Ter', ' Ter']
+Rank 6 | Centroid: 'text' | Score: 0.0000
+  Tokens: ['th', 'test', 'ly', 'type', "'t", 'text']
+Rank 7 | Centroid: 'fer' | Score: 0.0000
+  Tokens: ['fer', 'fers']
+Rank 8 | Centroid: 'ther' | Score: 0.0000
+  Tokens: ['ther']
+Rank 9 | Centroid: 'ber' | Score: 0.0000
+  Tokens: ['cer', 'der', 'mer', 'ker', 'ser', 'zer', 'ber', 'ger', 'jer']
+Rank 10 | Centroid: 'tet' | Score: 0.0000
+  Tokens: ['tet', 'tor', 'tier', 'tel', 'tte']
+Rank 11 | Centroid: 'terr' | Score: 0.0000
+  Tokens: ['terror', 'terra', ' terrace', 'terr']
+Rank 12 | Centroid: 'fter' | Score: 0.0000
+  Tokens: ['fter', 'ster']
+Rank 13 | Centroid: 'get' | Score: 0.0000
+  Tokens: ['ver', 'met', 'set', 'per', 'get', 'ort', 'vert']
+Rank 14 | Centroid: 'ater' | Score: 0.0000
+  Tokens: ['atter', 'uter', 'ater']
+Rank 15 | Centroid: 'taire' | Score: 0.0000
+  Tokens: ['taire', 'ture']
+Rank 16 | Centroid: ' Turner' | Score: 0.0000
+  Tokens: [' Turner', 'byter', 'rtle', 'ifter', ' Monter']
+Rank 17 | Centroid: 'setter' | Score: 0.0000
+  Tokens: ['setter', 'serter']
+Rank 18 | Centroid: 'wert' | Score: 0.0000
+  Tokens: ['bert', 'wer', 'wert']
+Rank 19 | Centroid: 'trer' | Score: 0.0000
+  Tokens: ['trer', 'tré']
+Rank 20 | Centroid: 'arter' | Score: 0.0000
+  Tokens: ['arter', 'riter', 'anter', 'etter']
 
 **Chosen Concept:** Rank 1

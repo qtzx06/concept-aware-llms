@@ -1,143 +1,114 @@
 --- Step 106 Log ---
 
 == Filtered Candidates ==
-Token: ' sticks' (ID: 33140), Prob: 0.5664
-Token: ' wood' (ID: 7579), Prob: 0.1270
-Token: ' bricks' (ID: 49037), Prob: 0.0598
-Token: ' blocks' (ID: 10010), Prob: 0.0410
-Token: ' stones' (ID: 26210), Prob: 0.0320
-Token: ' pine' (ID: 33597), Prob: 0.0283
-Token: ' clay' (ID: 36048), Prob: 0.0283
-Token: ' wooden' (ID: 22360), Prob: 0.0171
-Token: ' bamboo' (ID: 58882), Prob: 0.0171
-Token: ' branches' (ID: 23091), Prob: 0.0081
-Token: ' sand' (ID: 9278), Prob: 0.0071
-Token: ' old' (ID: 2310), Prob: 0.0046
-Token: ' LEGO' (ID: 55801), Prob: 0.0041
-Token: ' paper' (ID: 5567), Prob: 0.0036
-Token: ' straw' (ID: 30007), Prob: 0.0030
-Token: ' building' (ID: 4752), Prob: 0.0026
-Token: ' leaves' (ID: 10901), Prob: 0.0019
-Token: ' cardboard' (ID: 53943), Prob: 0.0019
-Token: ' stone' (ID: 9798), Prob: 0.0018
-Token: ' cotton' (ID: 23522), Prob: 0.0012
-Token: ' mud' (ID: 26183), Prob: 0.0012
-Token: ' feathers' (ID: 55894), Prob: 0.0011
-Token: ' rice' (ID: 19653), Prob: 0.0010
-Token: ' bones' (ID: 24854), Prob: 0.0010
-Token: ' pops' (ID: 47600), Prob: 0.0010
-Token: ' plastic' (ID: 12188), Prob: 0.0010
-Token: ' logs' (ID: 18422), Prob: 0.0010
-Token: ' hay' (ID: 17669), Prob: 0.0009
-Token: ' trees' (ID: 12408), Prob: 0.0009
-Token: ' small' (ID: 2613), Prob: 0.0008
-Token: ' mar' (ID: 3594), Prob: 0.0008
-Token: ' rocks' (ID: 23035), Prob: 0.0006
-Token: ' fire' (ID: 3940), Prob: 0.0005
-Token: ' construction' (ID: 8086), Prob: 0.0005
-Token: ' dried' (ID: 31620), Prob: 0.0005
-Token: ' glass' (ID: 8991), Prob: 0.0005
-Token: ' brick' (ID: 24837), Prob: 0.0005
-Token: ' glue' (ID: 37461), Prob: 0.0005
-Token: ' materials' (ID: 7236), Prob: 0.0005
-Token: ' timber' (ID: 44788), Prob: 0.0005
-Token: ' Lego' (ID: 64670), Prob: 0.0005
-Token: ' drift' (ID: 33638), Prob: 0.0004
-Token: ' oak' (ID: 37871), Prob: 0.0004
-Token: ' beams' (ID: 49945), Prob: 0.0004
-Token: ' toys' (ID: 23069), Prob: 0.0003
-Token: ' tree' (ID: 4916), Prob: 0.0003
-Token: ' saw' (ID: 5485), Prob: 0.0003
-Token: ' colored' (ID: 27197), Prob: 0.0003
-Token: ' grass' (ID: 16359), Prob: 0.0003
-Token: ' bark' (ID: 53742), Prob: 0.0003
-Token: ' playing' (ID: 5619), Prob: 0.0003
-Token: ' sun' (ID: 7015), Prob: 0.0003
-Token: ' tin' (ID: 24790), Prob: 0.0003
-Token: ' red' (ID: 2518), Prob: 0.0002
-Token: ' rope' (ID: 33420), Prob: 0.0002
-Token: ' lumber' (ID: 61453), Prob: 0.0002
-Token: ' buttons' (ID: 12424), Prob: 0.0002
-Token: ' beads' (ID: 54208), Prob: 0.0002
-Token: ' toy' (ID: 21357), Prob: 0.0002
-Token: ' household' (ID: 13732), Prob: 0.0002
-Token: ' beans' (ID: 26896), Prob: 0.0002
-Token: ' cedar' (ID: 75296), Prob: 0.0002
-Token: ' string' (ID: 914), Prob: 0.0002
-Token: ' blue' (ID: 6303), Prob: 0.0002
-Token: ' Leg' (ID: 7610), Prob: 0.0002
-Token: ' colorful' (ID: 33866), Prob: 0.0002
-Token: ' tiles' (ID: 20493), Prob: 0.0002
-Token: ' stick' (ID: 9214), Prob: 0.0001
-Token: ' palm' (ID: 32452), Prob: 0.0001
-Token: ' shells' (ID: 42954), Prob: 0.0001
-Token: ' metal' (ID: 9317), Prob: 0.0001
-Token: ' iron' (ID: 11001), Prob: 0.0001
-Token: ' com' (ID: 469), Prob: 0.0001
-Token: ' play' (ID: 1486), Prob: 0.0001
-Token: ' pieces' (ID: 9666), Prob: 0.0001
-Token: ' fallen' (ID: 20866), Prob: 0.0001
-Token: ' nuts' (ID: 29949), Prob: 0.0001
-Token: ' marble' (ID: 41290), Prob: 0.0001
-Token: ' stacking' (ID: 74072), Prob: 0.0001
-Token: ' cards' (ID: 7411), Prob: 0.0001
-Token: ' dry' (ID: 9058), Prob: 0.0001
-Token: ' block' (ID: 2504), Prob: 0.0001
-Token: ' bread' (ID: 16002), Prob: 0.0001
-Token: ' seeds' (ID: 19056), Prob: 0.0001
-Token: ' spider' (ID: 34354), Prob: 0.0001
-Token: ' str' (ID: 607), Prob: 0.0001
-Token: ' scrap' (ID: 20843), Prob: 0.0001
-Token: ' tooth' (ID: 25507), Prob: 0.0001
+Token: ' role' (ID: 3476), Prob: 1.0000
+Token: ' Prime' (ID: 12518), Prob: 0.0010
+Token: ' Role' (ID: 15404), Prob: 0.0001
+Token: ' prime' (ID: 10250), Prob: 0.0000
+Token: ' title' (ID: 2265), Prob: 0.0000
+Token: ' rôle' (ID: 137614), Prob: 0.0000
+Token: ' same' (ID: 1852), Prob: 0.0000
+Token: ' roles' (ID: 12783), Prob: 0.0000
+Token: ' part' (ID: 949), Prob: 0.0000
+Token: ' United' (ID: 3639), Prob: 0.0000
+Token: ' character' (ID: 3668), Prob: 0.0000
+Token: ' Prince' (ID: 19351), Prob: 0.0000
+Token: ' the' (ID: 279), Prob: 0.0000
+Token: 'role' (ID: 5778), Prob: 0.0000
+Token: ' British' (ID: 7855), Prob: 0.0000
+Token: ' government' (ID: 3033), Prob: 0.0000
+Token: ' lead' (ID: 2990), Prob: 0.0000
+Token: ' position' (ID: 2309), Prob: 0.0000
+Token: ' PM' (ID: 5851), Prob: 0.0000
+Token: ' Royal' (ID: 16194), Prob: 0.0000
+Token: '.role' (ID: 26006), Prob: 0.0000
+Token: ' UK' (ID: 6424), Prob: 0.0000
+Token: ' roll' (ID: 6502), Prob: 0.0000
+Token: ' Supreme' (ID: 13506), Prob: 0.0000
+Token: ' U' (ID: 547), Prob: 0.0000
+Token: ' office' (ID: 5163), Prob: 0.0000
+Token: ' voice' (ID: 7743), Prob: 0.0000
+Token: ' Lord' (ID: 10214), Prob: 0.0000
+Token: ' leading' (ID: 6388), Prob: 0.0000
+Token: ' leader' (ID: 7653), Prob: 0.0000
+Token: ' a' (ID: 264), Prob: 0.0000
+Token: ' P' (ID: 393), Prob: 0.0000
+Token: ' first' (ID: 1156), Prob: 0.0000
+Token: ' r' (ID: 435), Prob: 0.0000
+Token: ' actor' (ID: 12089), Prob: 0.0000
+Token: ' of' (ID: 315), Prob: 0.0000
+Token: ' The' (ID: 576), Prob: 0.0000
+Token: ' ro' (ID: 926), Prob: 0.0000
+Token: ' person' (ID: 1697), Prob: 0.0000
+Token: 'Role' (ID: 9030), Prob: 0.0000
+Token: ' principal' (ID: 12435), Prob: 0.0000
+Token: ' latter' (ID: 15271), Prob: 0.0000
+Token: ' T' (ID: 350), Prob: 0.0000
+Token: ' head' (ID: 1968), Prob: 0.0000
+Token: ' royal' (ID: 29236), Prob: 0.0000
+Token: ' Pr' (ID: 2340), Prob: 0.0000
+Token: ' President' (ID: 4795), Prob: 0.0000
+Token: ' political' (ID: 4948), Prob: 0.0000
+Token: ' Chief' (ID: 14344), Prob: 0.0000
+Token: ' name' (ID: 829), Prob: 0.0000
+Token: ' Russian' (ID: 8522), Prob: 0.0000
+Token: ' opposite' (ID: 14002), Prob: 0.0000
+Token: ' as' (ID: 438), Prob: 0.0000
+Token: ' room' (ID: 3054), Prob: 0.0000
+Token: ' following' (ID: 2701), Prob: 0.0000
+Token: ' other' (ID: 1008), Prob: 0.0000
+Token: ' National' (ID: 5055), Prob: 0.0000
+Token: ' stage' (ID: 6430), Prob: 0.0000
+Token: ' Prim' (ID: 35183), Prob: 0.0000
+Token: ' Principal' (ID: 36309), Prob: 0.0000
+Token: ' to' (ID: 311), Prob: 0.0000
+Token: ' public' (ID: 584), Prob: 0.0000
+Token: ' co' (ID: 1062), Prob: 0.0000
+Token: ' Public' (ID: 3066), Prob: 0.0000
+Token: ' General' (ID: 3251), Prob: 0.0000
+Token: ' series' (ID: 4013), Prob: 0.0000
+Token: ' term' (ID: 4647), Prob: 0.0000
+Token: ' MP' (ID: 9412), Prob: 0.0000
+Token: ' Central' (ID: 10684), Prob: 0.0000
+Token: ' and' (ID: 323), Prob: 0.0000
+Token: ' M' (ID: 386), Prob: 0.0000
+Token: ' main' (ID: 1887), Prob: 0.0000
+Token: ' BBC' (ID: 18096), Prob: 0.0000
+Token: ' right' (ID: 1290), Prob: 0.0000
+Token: ' world' (ID: 1879), Prob: 0.0000
 
 == Ranked Concepts (Clusters) ==
-Rank 1 | Centroid: ' sticks' | Score: 0.5664
-  Tokens: [' sticks', ' stick', ' stacking']
-Rank 2 | Centroid: ' wood' | Score: 0.1924
-  Tokens: [' wood', ' pine', ' wooden', ' bamboo', ' trees', ' timber', ' oak', ' tree', ' bark', ' lumber', ' cedar']
-Rank 3 | Centroid: ' bricks' | Score: 0.0603
-  Tokens: [' bricks', ' brick']
-Rank 4 | Centroid: ' blocks' | Score: 0.0410
-  Tokens: [' blocks', ' block']
-Rank 5 | Centroid: ' sand' | Score: 0.0366
-  Tokens: [' clay', ' sand', ' mud']
-Rank 6 | Centroid: ' stones' | Score: 0.0344
-  Tokens: [' stones', ' stone', ' rocks']
-Rank 7 | Centroid: ' branches' | Score: 0.0122
-  Tokens: [' branches', ' leaves', ' pops', ' logs', ' shells']
-Rank 8 | Centroid: ' string' | Score: 0.0066
-  Tokens: [' old', ' small', ' fire', ' saw', ' string', ' com', ' str']
-Rank 9 | Centroid: ' metal' | Score: 0.0061
-  Tokens: [' paper', ' plastic', ' glass', ' materials', ' tin', ' metal', ' iron']
-Rank 10 | Centroid: ' Lego' | Score: 0.0047
-  Tokens: [' LEGO', ' Lego', ' Leg']
-Rank 11 | Centroid: ' rice' | Score: 0.0036
-  Tokens: [' cotton', ' rice', ' hay', ' grass', ' palm', ' bread']
-Rank 12 | Centroid: ' building' | Score: 0.0032
-  Tokens: [' building', ' construction']
-Rank 13 | Centroid: ' straw' | Score: 0.0030
-  Tokens: [' straw']
-Rank 14 | Centroid: ' cardboard' | Score: 0.0024
-  Tokens: [' cardboard', ' glue']
-Rank 15 | Centroid: ' beads' | Score: 0.0023
-  Tokens: [' feathers', ' beams', ' buttons', ' beads', ' beans', ' nuts', ' seeds']
-Rank 16 | Centroid: ' blue' | Score: 0.0016
-  Tokens: [' mar', ' colored', ' red', ' blue', ' colorful']
-Rank 17 | Centroid: ' tiles' | Score: 0.0014
-  Tokens: [' bones', ' tiles', ' pieces', ' cards']
-Rank 18 | Centroid: ' dried' | Score: 0.0012
-  Tokens: [' dried', ' drift', ' dry', ' scrap']
-Rank 19 | Centroid: ' toys' | Score: 0.0009
-  Tokens: [' toys', ' playing', ' toy', ' play']
-Rank 20 | Centroid: ' rope' | Score: 0.0006
-  Tokens: [' sun', ' rope', ' spider']
-Rank 21 | Centroid: ' household' | Score: 0.0002
-  Tokens: [' household']
-Rank 22 | Centroid: ' fallen' | Score: 0.0001
-  Tokens: [' fallen']
-Rank 23 | Centroid: ' marble' | Score: 0.0001
-  Tokens: [' marble']
-Rank 24 | Centroid: ' tooth' | Score: 0.0001
-  Tokens: [' tooth']
+Rank 1 | Centroid: ' role' | Score: 1.0000
+  Tokens: [' role', ' Role', ' rôle', ' roles', 'role', '.role', ' roll', 'Role']
+Rank 2 | Centroid: ' Prime' | Score: 0.0011
+  Tokens: [' Prime', ' prime', ' Prim']
+Rank 3 | Centroid: ' name' | Score: 0.0000
+  Tokens: [' title', ' character', ' position', ' office', ' voice', ' actor', ' person', ' head', ' name', ' room', ' stage', ' term']
+Rank 4 | Centroid: ' British' | Score: 0.0000
+  Tokens: [' United', ' British', ' UK', ' Russian', ' BBC']
+Rank 5 | Centroid: ' same' | Score: 0.0000
+  Tokens: [' same', ' latter', ' opposite', ' following', ' other', ' right']
+Rank 6 | Centroid: ' first' | Score: 0.0000
+  Tokens: [' part', ' first', ' co']
+Rank 7 | Centroid: ' the' | Score: 0.0000
+  Tokens: [' the', ' U', ' a', ' P', ' r', ' of', ' The', ' ro', ' T', ' as', ' to', ' and', ' M']
+Rank 8 | Centroid: ' President' | Score: 0.0000
+  Tokens: [' Prince', ' Supreme', ' Lord', ' President']
+Rank 9 | Centroid: ' Public' | Score: 0.0000
+  Tokens: [' government', ' political', ' public', ' Public']
+Rank 10 | Centroid: ' leading' | Score: 0.0000
+  Tokens: [' lead', ' leading', ' leader']
+Rank 11 | Centroid: ' PM' | Score: 0.0000
+  Tokens: [' PM', ' Pr', ' MP']
+Rank 12 | Centroid: ' Royal' | Score: 0.0000
+  Tokens: [' Royal', ' royal']
+Rank 13 | Centroid: ' principal' | Score: 0.0000
+  Tokens: [' principal', ' Chief', ' Principal', ' main']
+Rank 14 | Centroid: ' National' | Score: 0.0000
+  Tokens: [' National', ' General', ' Central']
+Rank 15 | Centroid: ' series' | Score: 0.0000
+  Tokens: [' series']
+Rank 16 | Centroid: ' world' | Score: 0.0000
+  Tokens: [' world']
 
 **Chosen Concept:** Rank 1

@@ -1,0 +1,104 @@
+--- Step 43 Log ---
+
+== Filtered Candidates ==
+Token: ' Du' (ID: 15687), Prob: 0.4961
+Token: ' the' (ID: 279), Prob: 0.4375
+Token: ' Chinese' (ID: 8453), Prob: 0.0132
+Token: ' poetry' (ID: 31249), Prob: 0.0091
+Token: ' which' (ID: 892), Prob: 0.0043
+Token: ' traditional' (ID: 8606), Prob: 0.0026
+Token: ' Tang' (ID: 40362), Prob: 0.0023
+Token: ' classical' (ID: 28824), Prob: 0.0016
+Token: ' Li' (ID: 14511), Prob: 0.0012
+Token: ' his' (ID: 806), Prob: 0.0011
+Token: ' a' (ID: 264), Prob: 0.0008
+Token: ' Po' (ID: 13808), Prob: 0.0008
+Token: ' ancient' (ID: 13833), Prob: 0.0008
+Token: ' Zhang' (ID: 36020), Prob: 0.0008
+Token: ' literary' (ID: 31365), Prob: 0.0007
+Token: ' du' (ID: 3845), Prob: 0.0007
+Token: ' this' (ID: 419), Prob: 0.0006
+Token: ' Gu' (ID: 4570), Prob: 0.0006
+Token: ' Lu' (ID: 18360), Prob: 0.0006
+Token: ' Liu' (ID: 37705), Prob: 0.0006
+Token: ' D' (ID: 422), Prob: 0.0005
+Token: ' Wang' (ID: 28246), Prob: 0.0005
+Token: ' Mr' (ID: 4392), Prob: 0.0004
+Token: ' Fu' (ID: 29253), Prob: 0.0003
+Token: ' modern' (ID: 6481), Prob: 0.0003
+Token: ' poet' (ID: 39260), Prob: 0.0003
+Token: ' poetic' (ID: 75434), Prob: 0.0003
+Token: ' what' (ID: 1128), Prob: 0.0002
+Token: ' Conf' (ID: 14974), Prob: 0.0002
+Token: ' literature' (ID: 17206), Prob: 0.0002
+Token: ' Dun' (ID: 28738), Prob: 0.0002
+Token: ' poets' (ID: 72972), Prob: 0.0002
+Token: ' X' (ID: 1599), Prob: 0.0002
+Token: ' China' (ID: 5616), Prob: 0.0002
+Token: ' Han' (ID: 20644), Prob: 0.0002
+Token: ' Hu' (ID: 21793), Prob: 0.0002
+Token: 'Du' (ID: 42074), Prob: 0.0002
+Token: ' Yuan' (ID: 68884), Prob: 0.0002
+Token: ' Ma' (ID: 11331), Prob: 0.0002
+Token: ' poems' (ID: 44219), Prob: 0.0002
+Token: ' T' (ID: 350), Prob: 0.0002
+Token: ' Zhou' (ID: 66827), Prob: 0.0002
+Token: ' Zhu' (ID: 67744), Prob: 0.0002
+Token: ' The' (ID: 576), Prob: 0.0001
+Token: ' whom' (ID: 8711), Prob: 0.0001
+Token: ' Song' (ID: 18971), Prob: 0.0001
+Token: ' how' (ID: 1246), Prob: 0.0001
+Token: ' Z' (ID: 1863), Prob: 0.0001
+Token: ' Xu' (ID: 56414), Prob: 0.0001
+Token: ' historical' (ID: 13656), Prob: 0.0001
+Token: ' Su' (ID: 16931), Prob: 0.0001
+Token: ' Yang' (ID: 24474), Prob: 0.0001
+Token: ' its' (ID: 1181), Prob: 0.0001
+Token: ' Bai' (ID: 84908), Prob: 0.0001
+Token: ' their' (ID: 862), Prob: 0.0001
+Token: ' Da' (ID: 14235), Prob: 0.0001
+Token: ' these' (ID: 1493), Prob: 0.0001
+Token: ' scholars' (ID: 30739), Prob: 0.0001
+Token: ' Poetry' (ID: 67687), Prob: 0.0001
+Token: ' classic' (ID: 11416), Prob: 0.0001
+Token: ' contemporary' (ID: 18706), Prob: 0.0001
+Token: ' Traditional' (ID: 45460), Prob: 0.0001
+Token: ' to' (ID: 311), Prob: 0.0001
+Token: ' C' (ID: 356), Prob: 0.0001
+Token: ' Wu' (ID: 36130), Prob: 0.0001
+Token: ' reading' (ID: 5290), Prob: 0.0001
+Token: ' Chen' (ID: 24495), Prob: 0.0001
+Token: ' interpretation' (ID: 22845), Prob: 0.0001
+Token: ' Xiao' (ID: 65590), Prob: 0.0001
+Token: ' an' (ID: 458), Prob: 0.0001
+Token: ' famous' (ID: 11245), Prob: 0.0001
+
+== Ranked Concepts (Clusters) ==
+Rank 1 | Centroid: ' Du' | Score: 0.4980
+  Tokens: [' Du', ' du', ' Dun', 'Du', ' Da']
+Rank 2 | Centroid: ' the' | Score: 0.4414
+  Tokens: [' the', ' his', ' a', ' this', ' The', ' its', ' their', ' these', ' to', ' an']
+Rank 3 | Centroid: ' Chinese' | Score: 0.0134
+  Tokens: [' Chinese', ' China']
+Rank 4 | Centroid: ' poetry' | Score: 0.0110
+  Tokens: [' poetry', ' Po', ' poet', ' poetic', ' poets', ' poems', ' Poetry']
+Rank 5 | Centroid: ' what' | Score: 0.0048
+  Tokens: [' which', ' what', ' whom', ' how']
+Rank 6 | Centroid: ' traditional' | Score: 0.0044
+  Tokens: [' traditional', ' classical', ' classic', ' Traditional', ' famous']
+Rank 7 | Centroid: ' Hu' | Score: 0.0032
+  Tokens: [' Li', ' Gu', ' Lu', ' Fu', ' Hu', ' Ma', ' Su']
+Rank 8 | Centroid: ' Zhang' | Score: 0.0029
+  Tokens: [' Zhang', ' Liu', ' Wang', ' Yuan', ' Zhou', ' Zhu', ' Xu', ' Yang', ' Bai', ' Wu', ' Chen', ' Xiao']
+Rank 9 | Centroid: ' Song' | Score: 0.0029
+  Tokens: [' Tang', ' Conf', ' Han', ' Song']
+Rank 10 | Centroid: ' contemporary' | Score: 0.0013
+  Tokens: [' ancient', ' modern', ' historical', ' contemporary']
+Rank 11 | Centroid: ' literary' | Score: 0.0012
+  Tokens: [' literary', ' literature', ' scholars', ' reading', ' interpretation']
+Rank 12 | Centroid: ' D' | Score: 0.0011
+  Tokens: [' D', ' X', ' T', ' Z', ' C']
+Rank 13 | Centroid: ' Mr' | Score: 0.0004
+  Tokens: [' Mr']
+
+**Chosen Concept:** Rank 1

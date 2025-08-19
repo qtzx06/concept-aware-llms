@@ -1,156 +1,140 @@
 --- Step 75 Log ---
 
 == Filtered Candidates ==
-Token: ' build' (ID: 1936), Prob: 0.6406
-Token: ' create' (ID: 1855), Prob: 0.0981
-Token: ' innovate' (ID: 90964), Prob: 0.0864
-Token: ' explore' (ID: 13186), Prob: 0.0361
-Token: ' express' (ID: 3158), Prob: 0.0117
-Token: ' show' (ID: 1473), Prob: 0.0103
-Token: ' challenge' (ID: 8645), Prob: 0.0103
-Token: ' make' (ID: 1281), Prob: 0.0092
-Token: ' follow' (ID: 1795), Prob: 0.0038
-Token: ' change' (ID: 2297), Prob: 0.0038
-Token: ' showcase' (ID: 34783), Prob: 0.0034
-Token: ' grow' (ID: 3063), Prob: 0.0026
-Token: ' stand' (ID: 2498), Prob: 0.0023
-Token: ' break' (ID: 1438), Prob: 0.0020
-Token: ' prove' (ID: 12118), Prob: 0.0018
-Token: ' expand' (ID: 9225), Prob: 0.0016
-Token: ' pursue' (ID: 22729), Prob: 0.0016
-Token: ' learn' (ID: 3960), Prob: 0.0012
-Token: ' play' (ID: 1486), Prob: 0.0011
-Token: ' become' (ID: 3635), Prob: 0.0011
-Token: ' connect' (ID: 4564), Prob: 0.0010
-Token: ' see' (ID: 1490), Prob: 0.0008
-Token: ' leave' (ID: 5274), Prob: 0.0007
-Token: ' impress' (ID: 9897), Prob: 0.0007
-Token: ' escape' (ID: 12449), Prob: 0.0007
-Token: ' overcome' (ID: 22279), Prob: 0.0005
-Token: ' modern' (ID: 6481), Prob: 0.0005
-Token: ' improve' (ID: 7269), Prob: 0.0005
-Token: ' compete' (ID: 20259), Prob: 0.0005
-Token: ' keep' (ID: 2506), Prob: 0.0005
-Token: ' use' (ID: 990), Prob: 0.0005
-Token: ' take' (ID: 1896), Prob: 0.0004
-Token: ' defy' (ID: 89572), Prob: 0.0004
-Token: ' display' (ID: 3037), Prob: 0.0004
-Token: ' push' (ID: 4484), Prob: 0.0004
-Token: ' start' (ID: 1191), Prob: 0.0003
-Token: ' free' (ID: 1910), Prob: 0.0003
-Token: ' achieve' (ID: 11075), Prob: 0.0003
-Token: ' bring' (ID: 4446), Prob: 0.0002
-Token: ' fly' (ID: 11466), Prob: 0.0002
-Token: ' something' (ID: 2494), Prob: 0.0002
-Token: ' celebrate' (ID: 18383), Prob: 0.0002
-Token: ' preserve' (ID: 21129), Prob: 0.0002
-Token: ' join' (ID: 5138), Prob: 0.0002
-Token: ' contribute' (ID: 16792), Prob: 0.0002
-Token: ' personalize' (ID: 80838), Prob: 0.0002
-Token: ' progress' (ID: 5098), Prob: 0.0001
-Token: ' experiment' (ID: 9342), Prob: 0.0001
-Token: ' dream' (ID: 7904), Prob: 0.0001
-Token: ' climb' (ID: 25367), Prob: 0.0001
-Token: ' construct' (ID: 9245), Prob: 0.0001
-Token: ' participate' (ID: 15759), Prob: 0.0001
-Token: ' find' (ID: 1477), Prob: 0.0001
-Token: ' reach' (ID: 5545), Prob: 0.0001
-Token: ' help' (ID: 1492), Prob: 0.0001
-Token: ' share' (ID: 4332), Prob: 0.0001
-Token: ' adventure' (ID: 17943), Prob: 0.0001
-Token: ' enjoy' (ID: 4669), Prob: 0.0001
-Token: ' demonstrate' (ID: 19869), Prob: 0.0001
-Token: ' embrace' (ID: 26732), Prob: 0.0001
-Token: ' built' (ID: 5798), Prob: 0.0001
-Token: ' chase' (ID: 32486), Prob: 0.0001
-Token: ' protect' (ID: 6016), Prob: 0.0001
-Token: ' rebel' (ID: 35317), Prob: 0.0001
-Token: ' move' (ID: 3271), Prob: 0.0001
-Token: ' ignore' (ID: 10034), Prob: 0.0001
-Token: ' honor' (ID: 15669), Prob: 0.0001
-Token: ' add' (ID: 912), Prob: 0.0001
-Token: ' feel' (ID: 2666), Prob: 0.0001
-Token: ' rebuild' (ID: 31493), Prob: 0.0001
-Token: ' develop' (ID: 2225), Prob: 0.0001
-Token: ' fre' (ID: 3457), Prob: 0.0001
-Token: ' save' (ID: 3581), Prob: 0.0001
-Token: ' live' (ID: 3887), Prob: 0.0001
-Token: ' succeed' (ID: 11996), Prob: 0.0001
-Token: ' conquer' (ID: 50530), Prob: 0.0001
-Token: ' open' (ID: 1787), Prob: 0.0001
-Token: ' present' (ID: 3042), Prob: 0.0001
-Token: ' rise' (ID: 10000), Prob: 0.0001
-Token: ' invent' (ID: 17023), Prob: 0.0001
-Token: ' surpass' (ID: 52020), Prob: 0.0001
-Token: ' forge' (ID: 56628), Prob: 0.0001
-Token: ' put' (ID: 2182), Prob: 0.0001
-Token: ' master' (ID: 7341), Prob: 0.0001
-Token: ' spread' (ID: 8865), Prob: 0.0001
-Token: ' try' (ID: 1430), Prob: 0.0000
-Token: ' get' (ID: 633), Prob: 0.0000
-Token: ' act' (ID: 1160), Prob: 0.0000
-Token: ' exceed' (ID: 12488), Prob: 0.0000
-Token: ' inspire' (ID: 30640), Prob: 0.0000
-Token: ' fit' (ID: 4946), Prob: 0.0000
-Token: ' adapt' (ID: 10515), Prob: 0.0000
-Token: ' bridge' (ID: 14164), Prob: 0.0000
+Token: ' United' (ID: 3639), Prob: 0.9492
+Token: ' UK' (ID: 6424), Prob: 0.0253
+Token: ' fictional' (ID: 43582), Prob: 0.0197
+Token: ' Republic' (ID: 5429), Prob: 0.0018
+Token: ' country' (ID: 3146), Prob: 0.0005
+Token: ' British' (ID: 7855), Prob: 0.0005
+Token: ' Netherlands' (ID: 25662), Prob: 0.0004
+Token: ' Kingdom' (ID: 15072), Prob: 0.0003
+Token: ' National' (ID: 5055), Prob: 0.0003
+Token: 'United' (ID: 22372), Prob: 0.0001
+Token: ' U' (ID: 547), Prob: 0.0001
+Token: ' Isle' (ID: 54265), Prob: 0.0001
+Token: ' fict' (ID: 88107), Prob: 0.0001
+Token: ' future' (ID: 3853), Prob: 0.0001
+Token: ' nation' (ID: 6995), Prob: 0.0001
+Token: ' People' (ID: 8853), Prob: 0.0001
+Token: ' government' (ID: 3033), Prob: 0.0001
+Token: ' Philippines' (ID: 25296), Prob: 0.0001
+Token: ' Government' (ID: 10212), Prob: 0.0001
+Token: ' state' (ID: 1584), Prob: 0.0000
+Token: ' State' (ID: 3234), Prob: 0.0000
+Token: ' year' (ID: 1042), Prob: 0.0000
+Token: ' City' (ID: 4311), Prob: 0.0000
+Token: ' Federation' (ID: 27232), Prob: 0.0000
+Token: ' island' (ID: 12922), Prob: 0.0000
+Token: ' Nation' (ID: 17227), Prob: 0.0000
+Token: ' newly' (ID: 13631), Prob: 0.0000
+Token: ' new' (ID: 501), Prob: 0.0000
+Token: ' Federal' (ID: 12137), Prob: 0.0000
+Token: ' united' (ID: 28192), Prob: 0.0000
+Token: ' city' (ID: 3283), Prob: 0.0000
+Token: ' Royal' (ID: 16194), Prob: 0.0000
+Token: ' hypothetical' (ID: 58059), Prob: 0.0000
+Token: ' Canary' (ID: 98956), Prob: 0.0000
+Token: ' USA' (ID: 7279), Prob: 0.0000
+Token: ' B' (ID: 425), Prob: 0.0000
+Token: ' Commonwealth' (ID: 37198), Prob: 0.0000
+Token: ' G' (ID: 479), Prob: 0.0000
+Token: ' Un' (ID: 1230), Prob: 0.0000
+Token: ' Island' (ID: 10720), Prob: 0.0000
+Token: ' Democratic' (ID: 11396), Prob: 0.0000
+Token: ' N' (ID: 451), Prob: 0.0000
+Token: ' Queen' (ID: 16259), Prob: 0.0000
+Token: ' BBC' (ID: 18096), Prob: 0.0000
+Token: ' Holy' (ID: 18710), Prob: 0.0000
+Token: ' Independent' (ID: 21994), Prob: 0.0000
+Token: ' Union' (ID: 9145), Prob: 0.0000
+Token: ' European' (ID: 7513), Prob: 0.0000
+Token: ' the' (ID: 279), Prob: 0.0000
+Token: ' Land' (ID: 11426), Prob: 0.0000
+Token: ' Parliament' (ID: 19723), Prob: 0.0000
+Token: ' Falk' (ID: 71464), Prob: 0.0000
+Token: ' English' (ID: 6364), Prob: 0.0000
+Token: ' day' (ID: 1899), Prob: 0.0000
+Token: ' South' (ID: 4882), Prob: 0.0000
+Token: ' universe' (ID: 15494), Prob: 0.0000
+Token: ' Feder' (ID: 21099), Prob: 0.0000
+Token: ' kingdom' (ID: 25079), Prob: 0.0000
+Token: ' Duch' (ID: 60022), Prob: 0.0000
+Token: ' M' (ID: 386), Prob: 0.0000
+Token: ' same' (ID: 1852), Prob: 0.0000
+Token: ' West' (ID: 4312), Prob: 0.0000
+Token: ' Future' (ID: 12498), Prob: 0.0000
+Token: ' Caribbean' (ID: 34274), Prob: 0.0000
+Token: ' D' (ID: 422), Prob: 0.0000
+Token: ' London' (ID: 7148), Prob: 0.0000
+Token: ' Mal' (ID: 8394), Prob: 0.0000
+Token: ' NHS' (ID: 36281), Prob: 0.0000
+Token: ' L' (ID: 444), Prob: 0.0000
+Token: ' imaginary' (ID: 49952), Prob: 0.0000
+Token: ' US' (ID: 2274), Prob: 0.0000
+Token: ' Ministry' (ID: 19640), Prob: 0.0000
+Token: ' Third' (ID: 20861), Prob: 0.0000
+Token: ' republic' (ID: 34444), Prob: 0.0000
+Token: ' Isles' (ID: 85943), Prob: 0.0000
+Token: ' University' (ID: 3822), Prob: 0.0000
+Token: ' House' (ID: 4678), Prob: 0.0000
+Token: ' Conservative' (ID: 28971), Prob: 0.0000
+Token: ' Fiction' (ID: 42654), Prob: 0.0000
+Token: ' E' (ID: 468), Prob: 0.0000
+Token: ' H' (ID: 472), Prob: 0.0000
+Token: ' then' (ID: 1221), Prob: 0.0000
+Token: ' Country' (ID: 14106), Prob: 0.0000
+Token: ' World' (ID: 4337), Prob: 0.0000
+Token: ' Uk' (ID: 59313), Prob: 0.0000
+Token: ' An' (ID: 1527), Prob: 0.0000
+Token: ' character' (ID: 3668), Prob: 0.0000
+Token: ' Bahamas' (ID: 83129), Prob: 0.0000
+Token: ' R' (ID: 431), Prob: 0.0000
 
 == Ranked Concepts (Clusters) ==
-Rank 1 | Centroid: ' build' | Score: 0.6406
-  Tokens: [' build', ' construct', ' built', ' rebuild']
-Rank 2 | Centroid: ' create' | Score: 0.1074
-  Tokens: [' create', ' make', ' bring', ' add', ' get']
-Rank 3 | Centroid: ' inspire' | Score: 0.0884
-  Tokens: [' innovate', ' pursue', ' celebrate', ' personalize', ' enjoy', ' inspire']
-Rank 4 | Centroid: ' explore' | Score: 0.0374
-  Tokens: [' explore', ' learn']
-Rank 5 | Centroid: ' demonstrate' | Score: 0.0160
-  Tokens: [' show', ' showcase', ' prove', ' display', ' demonstrate']
-Rank 6 | Centroid: ' express' | Score: 0.0117
-  Tokens: [' express']
-Rank 7 | Centroid: ' adventure' | Score: 0.0106
-  Tokens: [' challenge', ' adventure', ' chase', ' rebel']
-Rank 8 | Centroid: ' take' | Score: 0.0057
-  Tokens: [' follow', ' see', ' use', ' take', ' find', ' feel', ' try']
-Rank 9 | Centroid: ' expand' | Score: 0.0054
-  Tokens: [' grow', ' expand', ' connect', ' join']
-Rank 10 | Centroid: ' climb' | Score: 0.0048
-  Tokens: [' change', ' escape', ' climb', ' move', ' rise', ' spread']
-Rank 11 | Centroid: ' start' | Score: 0.0027
-  Tokens: [' break', ' push', ' start']
-Rank 12 | Centroid: ' stand' | Score: 0.0023
-  Tokens: [' stand', ' act']
-Rank 13 | Centroid: ' achieve' | Score: 0.0022
-  Tokens: [' become', ' overcome', ' achieve', ' succeed', ' conquer', ' surpass', ' exceed']
-Rank 14 | Centroid: ' help' | Score: 0.0013
-  Tokens: [' play', ' help', ' put', ' fit']
-Rank 15 | Centroid: ' leave' | Score: 0.0012
-  Tokens: [' leave', ' keep']
-Rank 16 | Centroid: ' participate' | Score: 0.0008
-  Tokens: [' compete', ' contribute', ' participate']
-Rank 17 | Centroid: ' modern' | Score: 0.0008
-  Tokens: [' modern', ' something', ' present']
-Rank 18 | Centroid: ' impress' | Score: 0.0008
-  Tokens: [' impress', ' forge']
-Rank 19 | Centroid: ' improve' | Score: 0.0006
-  Tokens: [' improve', ' develop']
-Rank 20 | Centroid: ' embrace' | Score: 0.0006
-  Tokens: [' defy', ' embrace', ' ignore']
-Rank 21 | Centroid: ' bridge' | Score: 0.0005
-  Tokens: [' fly', ' dream', ' live', ' master', ' bridge']
-Rank 22 | Centroid: ' free' | Score: 0.0004
-  Tokens: [' free', ' fre', ' open']
-Rank 23 | Centroid: ' preserve' | Score: 0.0003
-  Tokens: [' preserve', ' protect', ' save']
-Rank 24 | Centroid: ' progress' | Score: 0.0003
-  Tokens: [' progress', ' experiment']
-Rank 25 | Centroid: ' reach' | Score: 0.0001
-  Tokens: [' reach']
-Rank 26 | Centroid: ' share' | Score: 0.0001
-  Tokens: [' share']
-Rank 27 | Centroid: ' invent' | Score: 0.0001
-  Tokens: [' invent', ' adapt']
-Rank 28 | Centroid: ' honor' | Score: 0.0001
-  Tokens: [' honor']
+Rank 1 | Centroid: ' United' | Score: 0.9492
+  Tokens: [' United', 'United', ' USA', ' US']
+Rank 2 | Centroid: ' UK' | Score: 0.0258
+  Tokens: [' UK', ' British', ' BBC', ' European', ' English', ' London', ' NHS', ' Uk']
+Rank 3 | Centroid: ' fictional' | Score: 0.0198
+  Tokens: [' fictional', ' fict', ' hypothetical', ' imaginary', ' Fiction']
+Rank 4 | Centroid: ' Republic' | Score: 0.0018
+  Tokens: [' Republic', ' Democratic', ' republic']
+Rank 5 | Centroid: ' nation' | Score: 0.0009
+  Tokens: [' country', ' National', ' nation', ' Nation', ' Country']
+Rank 6 | Centroid: ' Caribbean' | Score: 0.0005
+  Tokens: [' Netherlands', ' Philippines', ' Canary', ' Falk', ' Caribbean', ' Bahamas']
+Rank 7 | Centroid: ' Kingdom' | Score: 0.0004
+  Tokens: [' Kingdom', ' Royal', ' Queen', ' kingdom']
+Rank 8 | Centroid: ' city' | Score: 0.0002
+  Tokens: [' People', ' state', ' State', ' City', ' city']
+Rank 9 | Centroid: ' the' | Score: 0.0002
+  Tokens: [' U', ' B', ' G', ' Un', ' N', ' the', ' M', ' D', ' L', ' E', ' H', ' then', ' An', ' R']
+Rank 10 | Centroid: ' island' | Score: 0.0002
+  Tokens: [' Isle', ' island', ' Island', ' Isles']
+Rank 11 | Centroid: ' Future' | Score: 0.0001
+  Tokens: [' future', ' newly', ' Future']
+Rank 12 | Centroid: ' government' | Score: 0.0001
+  Tokens: [' government', ' Government', ' Commonwealth', ' Ministry']
+Rank 13 | Centroid: ' Federal' | Score: 0.0001
+  Tokens: [' Federation', ' Federal', ' Union', ' Feder']
+Rank 14 | Centroid: ' year' | Score: 0.0001
+  Tokens: [' year', ' Land', ' day', ' House']
+Rank 15 | Centroid: ' new' | Score: 0.0000
+  Tokens: [' new', ' same', ' character']
+Rank 16 | Centroid: ' Parliament' | Score: 0.0000
+  Tokens: [' Holy', ' Parliament', ' Duch', ' Conservative']
+Rank 17 | Centroid: ' united' | Score: 0.0000
+  Tokens: [' united', ' universe']
+Rank 18 | Centroid: ' Independent' | Score: 0.0000
+  Tokens: [' Independent', ' Third']
+Rank 19 | Centroid: ' South' | Score: 0.0000
+  Tokens: [' South', ' West']
+Rank 20 | Centroid: ' Mal' | Score: 0.0000
+  Tokens: [' Mal']
+Rank 21 | Centroid: ' University' | Score: 0.0000
+  Tokens: [' University']
+Rank 22 | Centroid: ' World' | Score: 0.0000
+  Tokens: [' World']
 
 **Chosen Concept:** Rank 1

@@ -1,0 +1,90 @@
+--- Step 150 Log ---
+
+== Filtered Candidates ==
+Token: ' The' (ID: 576), Prob: 0.0050
+Token: ' F' (ID: 434), Prob: 0.0027
+Token: ' This' (ID: 1096), Prob: 0.0018
+Token: ' In' (ID: 758), Prob: 0.0009
+Token: ' in' (ID: 304), Prob: 0.0006
+Token: ' and' (ID: 323), Prob: 0.0005
+Token: ' of' (ID: 315), Prob: 0.0002
+Token: ' Correct' (ID: 39970), Prob: 0.0002
+Token: ' Please' (ID: 5209), Prob: 0.0002
+Token: ' B' (ID: 425), Prob: 0.0002
+Token: ' Answer' (ID: 21806), Prob: 0.0002
+Token: ' A' (ID: 362), Prob: 0.0001
+Token: ' According' (ID: 10548), Prob: 0.0001
+Token: ' the' (ID: 279), Prob: 0.0000
+Token: '\n' (ID: 1699), Prob: 0.0000
+Token: ' To' (ID: 2014), Prob: 0.0000
+Token: ' It' (ID: 1084), Prob: 0.0000
+Token: ' I' (ID: 358), Prob: 0.0000
+Token: ''s' (ID: 594), Prob: 0.0000
+Token: ' Let' (ID: 6771), Prob: 0.0000
+Token: ' C' (ID: 356), Prob: 0.0000
+Token: ' with' (ID: 448), Prob: 0.0000
+Token: ' passage' (ID: 21085), Prob: 0.0000
+Token: ' as' (ID: 438), Prob: 0.0000
+Token: ' Choose' (ID: 22201), Prob: 0.0000
+Token: ' to' (ID: 311), Prob: 0.0000
+Token: ' Which' (ID: 15920), Prob: 0.0000
+Token: ' Based' (ID: 20205), Prob: 0.0000
+Token: ' this' (ID: 419), Prob: 0.0000
+Token: ' For' (ID: 1752), Prob: 0.0000
+Token: ' We' (ID: 1205), Prob: 0.0000
+Token: ' is' (ID: 374), Prob: 0.0000
+Token: ' from' (ID: 504), Prob: 0.0000
+Token: ' These' (ID: 4220), Prob: 0.0000
+Token: ' correct' (ID: 4396), Prob: 0.0000
+Token: ' Reference' (ID: 17207), Prob: 0.0000
+Token: ' As' (ID: 1634), Prob: 0.0000
+Token: ' View' (ID: 2738), Prob: 0.0000
+Token: ' according' (ID: 4092), Prob: 0.0000
+Token: ' Select' (ID: 8427), Prob: 0.0000
+Token: ' for' (ID: 369), Prob: 0.0000
+Token: ' during' (ID: 2337), Prob: 0.0000
+Token: ' views' (ID: 6194), Prob: 0.0000
+Token: ' Interpret' (ID: 72077), Prob: 0.0000
+Token: ' D' (ID: 422), Prob: 0.0000
+Token: ' There' (ID: 2619), Prob: 0.0000
+Token: ' When' (ID: 3197), Prob: 0.0000
+Token: ' What' (ID: 3555), Prob: 0.0000
+Token: ' Here' (ID: 5692), Prob: 0.0000
+Token: ' Therefore' (ID: 15277), Prob: 0.0000
+Token: 'Correct' (ID: 33092), Prob: 0.0000
+Token: ' Explanation' (ID: 71287), Prob: 0.0000
+Token: ' Passage' (ID: 98475), Prob: 0.0000
+Token: ' on' (ID: 389), Prob: 0.0000
+Token: ' that' (ID: 429), Prob: 0.0000
+Token: ' at' (ID: 518), Prob: 0.0000
+Token: ' That' (ID: 2938), Prob: 0.0000
+
+== Ranked Concepts (Clusters) ==
+Rank 1 | Centroid: ' This' | Score: 0.0072
+  Tokens: [' The', ' This', ' Please', ' It', ' Let', ' Which', ' We', ' These', ' There', ' When', ' What', ' Here', ' Therefore', ' That']
+Rank 2 | Centroid: ' A' | Score: 0.0030
+  Tokens: [' F', ' B', ' A', ' I', ' C', ' D']
+Rank 3 | Centroid: ' in' | Score: 0.0014
+  Tokens: [' in', ' and', ' of', ' the', ' with', ' as', ' to', ' is', ' from', ' for', ' on', ' at']
+Rank 4 | Centroid: ' For' | Score: 0.0009
+  Tokens: [' In', ' To', ' For', ' As']
+Rank 5 | Centroid: ' Correct' | Score: 0.0002
+  Tokens: [' Correct', ' correct', 'Correct']
+Rank 6 | Centroid: ' Explanation' | Score: 0.0002
+  Tokens: [' Answer', ' Reference', ' Interpret', ' Explanation']
+Rank 7 | Centroid: ' According' | Score: 0.0001
+  Tokens: [' According', ' Based', ' according']
+Rank 8 | Centroid: '\n' | Score: 0.0001
+  Tokens: ['\\n', "'s"]
+Rank 9 | Centroid: ' passage' | Score: 0.0000
+  Tokens: [' passage', ' Passage']
+Rank 10 | Centroid: ' Choose' | Score: 0.0000
+  Tokens: [' Choose', ' Select']
+Rank 11 | Centroid: ' this' | Score: 0.0000
+  Tokens: [' this', ' that']
+Rank 12 | Centroid: ' View' | Score: 0.0000
+  Tokens: [' View', ' views']
+Rank 13 | Centroid: ' during' | Score: 0.0000
+  Tokens: [' during']
+
+**Chosen Concept:** Rank 1

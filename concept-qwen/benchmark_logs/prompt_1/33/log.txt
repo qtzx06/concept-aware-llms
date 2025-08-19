@@ -1,141 +1,165 @@
 --- Step 33 Log ---
 
 == Filtered Candidates ==
-Token: ' main' (ID: 1887), Prob: 0.1924
-Token: ' characters' (ID: 5766), Prob: 0.1494
-Token: ' story' (ID: 3364), Prob: 0.1025
-Token: ' two' (ID: 1378), Prob: 0.0486
-Token: ' country' (ID: 3146), Prob: 0.0403
-Token: ' character' (ID: 3668), Prob: 0.0354
-Token: ' protagonist' (ID: 45584), Prob: 0.0334
-Token: ' narrative' (ID: 19221), Prob: 0.0260
-Token: ' United' (ID: 3639), Prob: 0.0178
-Token: ' city' (ID: 3283), Prob: 0.0167
-Token: ' classroom' (ID: 24017), Prob: 0.0157
-Token: ' narrator' (ID: 64171), Prob: 0.0148
-Token: ' immediate' (ID: 13922), Prob: 0.0131
-Token: ' setting' (ID: 6243), Prob: 0.0115
-Token: ' natural' (ID: 5810), Prob: 0.0102
-Token: ' normal' (ID: 4622), Prob: 0.0084
-Token: ' home' (ID: 2114), Prob: 0.0079
-Token: ' plot' (ID: 7089), Prob: 0.0074
-Token: ' usual' (ID: 13475), Prob: 0.0070
-Token: ' first' (ID: 1156), Prob: 0.0058
-Token: ' traditional' (ID: 8606), Prob: 0.0054
-Token: ' original' (ID: 4024), Prob: 0.0051
-Token: ' present' (ID: 3042), Prob: 0.0045
-Token: ' primary' (ID: 6028), Prob: 0.0042
-Token: ' typical' (ID: 14260), Prob: 0.0040
-Token: ' author' (ID: 3150), Prob: 0.0037
-Token: ' cultural' (ID: 12752), Prob: 0.0037
-Token: ' culture' (ID: 7674), Prob: 0.0035
-Token: ' ordinary' (ID: 19119), Prob: 0.0035
-Token: ' current' (ID: 1482), Prob: 0.0031
-Token: ' house' (ID: 3753), Prob: 0.0031
-Token: ' nation' (ID: 6995), Prob: 0.0031
-Token: ' protagonists' (ID: 94635), Prob: 0.0031
-Token: ' world' (ID: 1879), Prob: 0.0029
-Token: ' school' (ID: 2906), Prob: 0.0027
-Token: ' family' (ID: 2997), Prob: 0.0027
-Token: ' three' (ID: 2326), Prob: 0.0026
-Token: ' writer' (ID: 6916), Prob: 0.0026
-Token: ' storyline' (ID: 50628), Prob: 0.0024
-Token: ' major' (ID: 3598), Prob: 0.0019
-Token: ' book' (ID: 2311), Prob: 0.0018
-Token: ' town' (ID: 6290), Prob: 0.0018
-Token: ' central' (ID: 8622), Prob: 0.0018
-Token: ' local' (ID: 2205), Prob: 0.0017
-Token: ' audience' (ID: 10650), Prob: 0.0017
-Token: ' urban' (ID: 15662), Prob: 0.0017
-Token: ' everyday' (ID: 17778), Prob: 0.0017
-Token: ' speaker' (ID: 18601), Prob: 0.0017
-Token: ' workplace' (ID: 26368), Prob: 0.0017
-Token: ' real' (ID: 1931), Prob: 0.0016
-Token: ' given' (ID: 2661), Prob: 0.0016
-Token: ' common' (ID: 4185), Prob: 0.0016
-Token: ' novel' (ID: 11514), Prob: 0.0016
-Token: ' person' (ID: 1697), Prob: 0.0014
-Token: ' room' (ID: 3054), Prob: 0.0014
-Token: ' domestic' (ID: 12728), Prob: 0.0014
-Token: ' village' (ID: 14126), Prob: 0.0014
-Token: ' building' (ID: 4752), Prob: 0.0013
-Token: ' national' (ID: 5313), Prob: 0.0013
-Token: ' modern' (ID: 6481), Prob: 0.0013
-Token: ' reader' (ID: 6604), Prob: 0.0012
-Token: ' norm' (ID: 7465), Prob: 0.0012
-Token: ' group' (ID: 1874), Prob: 0.0011
-Token: ' four' (ID: 3040), Prob: 0.0011
-Token: ' class' (ID: 536), Prob: 0.0011
-Token: ' user' (ID: 1196), Prob: 0.0010
-Token: ' cities' (ID: 9720), Prob: 0.0009
-Token: ' household' (ID: 13732), Prob: 0.0009
-Token: ' settings' (ID: 5003), Prob: 0.0009
-Token: ' region' (ID: 5537), Prob: 0.0009
-Token: ' movie' (ID: 5700), Prob: 0.0009
-Token: ' interior' (ID: 14791), Prob: 0.0009
-Token: ' action' (ID: 1917), Prob: 0.0008
-Token: ' writing' (ID: 4378), Prob: 0.0008
-Token: ' environment' (ID: 4573), Prob: 0.0008
-Token: ' countries' (ID: 5837), Prob: 0.0008
-Token: ' scene' (ID: 6109), Prob: 0.0008
-Token: ' stories' (ID: 7343), Prob: 0.0008
-Token: ' work' (ID: 975), Prob: 0.0008
-Token: ' Main' (ID: 4697), Prob: 0.0008
-Token: ' student' (ID: 5458), Prob: 0.0008
-Token: ' historical' (ID: 13656), Prob: 0.0008
-Token: ' backdrop' (ID: 38477), Prob: 0.0008
-Token: ' direct' (ID: 2118), Prob: 0.0007
-Token: ' film' (ID: 4531), Prob: 0.0007
-Token: ' living' (ID: 5382), Prob: 0.0007
-Token: ' regular' (ID: 5792), Prob: 0.0007
-Token: ' realm' (ID: 21889), Prob: 0.0007
-Token: ' second' (ID: 2086), Prob: 0.0007
-Token: ' center' (ID: 4126), Prob: 0.0007
-Token: ' middle' (ID: 6149), Prob: 0.0007
-Token: ' mainstream' (ID: 20729), Prob: 0.0007
-Token: ' homeland' (ID: 55236), Prob: 0.0006
-Token: ' show' (ID: 1473), Prob: 0.0006
-Token: ' general' (ID: 4586), Prob: 0.0006
-Token: ' homes' (ID: 10415), Prob: 0.0006
+Token: ' Kingdom' (ID: 15072), Prob: 0.3359
+Token: ' of' (ID: 315), Prob: 0.1797
+Token: ' Days' (ID: 21192), Prob: 0.0962
+Token: ' Word' (ID: 9322), Prob: 0.0664
+Token: ' Man' (ID: 2363), Prob: 0.0332
+Token: ' Ship' (ID: 26803), Prob: 0.0259
+Token: ' King' (ID: 6210), Prob: 0.0167
+Token: ' Power' (ID: 7420), Prob: 0.0123
+Token: ' Reg' (ID: 3184), Prob: 0.0101
+Token: ' Resort' (ID: 33837), Prob: 0.0101
+Token: ' Men' (ID: 11012), Prob: 0.0079
+Token: ' Leg' (ID: 7610), Prob: 0.0074
+Token: ' Of' (ID: 4940), Prob: 0.0066
+Token: ' Echo' (ID: 37806), Prob: 0.0066
+Token: ' Tango' (ID: 98348), Prob: 0.0058
+Token: ' Breath' (ID: 57192), Prob: 0.0054
+Token: ' Standing' (ID: 45227), Prob: 0.0051
+Token: ' Detective' (ID: 55279), Prob: 0.0045
+Token: ' Ring' (ID: 21525), Prob: 0.0042
+Token: ' Light' (ID: 8658), Prob: 0.0040
+Token: ' Colony' (ID: 81846), Prob: 0.0040
+Token: ' Night' (ID: 12826), Prob: 0.0037
+Token: ' Queen' (ID: 16259), Prob: 0.0037
+Token: ' Friends' (ID: 22508), Prob: 0.0037
+Token: ' Few' (ID: 42915), Prob: 0.0037
+Token: ' Tong' (ID: 50391), Prob: 0.0035
+Token: ' Period' (ID: 25492), Prob: 0.0033
+Token: ' Day' (ID: 6059), Prob: 0.0029
+Token: ' Dog' (ID: 14254), Prob: 0.0029
+Token: ' Shadow' (ID: 24298), Prob: 0.0027
+Token: ' Psychiat' (ID: 60664), Prob: 0.0026
+Token: ' Edit' (ID: 8340), Prob: 0.0024
+Token: ' Party' (ID: 8554), Prob: 0.0023
+Token: ' White' (ID: 5807), Prob: 0.0020
+Token: ' Office' (ID: 8246), Prob: 0.0020
+Token: ' Show' (ID: 6928), Prob: 0.0019
+Token: ' Dim' (ID: 8126), Prob: 0.0019
+Token: 'rush' (ID: 77177), Prob: 0.0019
+Token: ' Star' (ID: 7679), Prob: 0.0018
+Token: ' Editor' (ID: 12580), Prob: 0.0018
+Token: ' Sin' (ID: 17632), Prob: 0.0017
+Token: ' Adventures' (ID: 50579), Prob: 0.0017
+Token: ' Horror' (ID: 51712), Prob: 0.0017
+Token: ' House' (ID: 4678), Prob: 0.0015
+Token: ' Tem' (ID: 8647), Prob: 0.0015
+Token: ' Mayor' (ID: 22093), Prob: 0.0014
+Token: ' Knight' (ID: 22984), Prob: 0.0014
+Token: ' Series' (ID: 11131), Prob: 0.0012
+Token: ' Stand' (ID: 15577), Prob: 0.0011
+Token: ' Hour' (ID: 30833), Prob: 0.0011
+Token: ' Pret' (ID: 61939), Prob: 0.0011
+Token: ' Log' (ID: 2835), Prob: 0.0010
+Token: ' Black' (ID: 5235), Prob: 0.0010
+Token: ' President' (ID: 4795), Prob: 0.0009
+Token: ' Republican' (ID: 9356), Prob: 0.0009
+Token: ' Generation' (ID: 23470), Prob: 0.0009
+Token: ' Ty' (ID: 13897), Prob: 0.0008
+Token: ' Emperor' (ID: 34314), Prob: 0.0008
+Token: ' Tomorrow' (ID: 54996), Prob: 0.0008
+Token: ' Voyage' (ID: 95272), Prob: 0.0008
+Token: ' T' (ID: 350), Prob: 0.0008
+Token: ' Governor' (ID: 23358), Prob: 0.0008
+Token: ' Wife' (ID: 42408), Prob: 0.0008
+Token: ' Intellectual' (ID: 76856), Prob: 0.0008
+Token: ' Samurai' (ID: 88018), Prob: 0.0008
+Token: ' Choir' (ID: 98332), Prob: 0.0007
+Token: ' Rem' (ID: 4926), Prob: 0.0007
+Token: ' Friend' (ID: 11587), Prob: 0.0007
+Token: ' Civil' (ID: 16398), Prob: 0.0007
+Token: ' Gas' (ID: 20854), Prob: 0.0006
+Token: ' Programme' (ID: 46416), Prob: 0.0006
+Token: ' Phone' (ID: 14307), Prob: 0.0006
+Token: ' Thing' (ID: 37200), Prob: 0.0006
+Token: ' Casual' (ID: 48822), Prob: 0.0006
+Token: ' St' (ID: 794), Prob: 0.0006
+Token: ' Tra' (ID: 17298), Prob: 0.0006
+Token: ' Minute' (ID: 55167), Prob: 0.0006
+Token: ' Don' (ID: 4320), Prob: 0.0005
+Token: ' Family' (ID: 12238), Prob: 0.0005
+Token: ' Stage' (ID: 22112), Prob: 0.0005
+Token: ' Comic' (ID: 39963), Prob: 0.0005
+Token: ' Debate' (ID: 82788), Prob: 0.0005
+Token: 'ing' (ID: 287), Prob: 0.0005
+Token: ' Dark' (ID: 12258), Prob: 0.0005
+Token: ' Picture' (ID: 24568), Prob: 0.0005
+Token: ' Mile' (ID: 38597), Prob: 0.0005
+Token: ' Summer' (ID: 18836), Prob: 0.0005
+Token: ' Gentle' (ID: 73469), Prob: 0.0005
+Token: ' Good' (ID: 7684), Prob: 0.0004
+Token: ' Secretary' (ID: 12386), Prob: 0.0004
+Token: ' Quarter' (ID: 34394), Prob: 0.0004
+Token: ' Romantic' (ID: 75730), Prob: 0.0004
+Token: ' Week' (ID: 10348), Prob: 0.0004
+Token: ' Nation' (ID: 17227), Prob: 0.0004
+Token: ' Holy' (ID: 18710), Prob: 0.0004
+Token: ' Turks' (ID: 71757), Prob: 0.0004
+Token: ' Session' (ID: 9164), Prob: 0.0004
+Token: ' Olymp' (ID: 14792), Prob: 0.0004
+Token: ' Ban' (ID: 22730), Prob: 0.0004
+Token: ' Train' (ID: 26125), Prob: 0.0004
 
 == Ranked Concepts (Clusters) ==
-Rank 1 | Centroid: ' main' | Score: 0.2021
-  Tokens: [' main', ' primary', ' major', ' central', ' Main', ' center', ' middle']
-Rank 2 | Centroid: ' characters' | Score: 0.1846
-  Tokens: [' characters', ' character']
-Rank 3 | Centroid: ' story' | Score: 0.1445
-  Tokens: [' story', ' narrative', ' plot', ' storyline', ' book', ' novel', ' movie', ' stories', ' film']
-Rank 4 | Centroid: ' country' | Score: 0.0635
-  Tokens: [' country', ' United', ' nation', ' national', ' countries']
-Rank 5 | Centroid: ' two' | Score: 0.0603
-  Tokens: [' two', ' first', ' three', ' given', ' four', ' second']
-Rank 6 | Centroid: ' protagonist' | Score: 0.0513
-  Tokens: [' protagonist', ' narrator', ' protagonists']
-Rank 7 | Centroid: ' immediate' | Score: 0.0413
-  Tokens: [' immediate', ' natural', ' original', ' present', ' current', ' local', ' real', ' modern', ' direct']
-Rank 8 | Centroid: ' usual' | Score: 0.0342
-  Tokens: [' normal', ' usual', ' traditional', ' typical', ' ordinary', ' everyday', ' common', ' norm', ' regular', ' general']
-Rank 9 | Centroid: ' student' | Score: 0.0239
-  Tokens: [' classroom', ' school', ' person', ' group', ' class', ' user', ' student']
-Rank 10 | Centroid: ' city' | Score: 0.0225
-  Tokens: [' city', ' town', ' urban', ' village', ' cities']
-Rank 11 | Centroid: ' household' | Score: 0.0173
-  Tokens: [' home', ' house', ' family', ' domestic', ' household', ' homeland', ' homes']
-Rank 12 | Centroid: ' setting' | Score: 0.0153
-  Tokens: [' setting', ' building', ' settings', ' environment', ' backdrop']
-Rank 13 | Centroid: ' writer' | Score: 0.0117
-  Tokens: [' author', ' writer', ' audience', ' speaker', ' reader', ' writing']
-Rank 14 | Centroid: ' cultural' | Score: 0.0081
-  Tokens: [' cultural', ' culture', ' historical']
-Rank 15 | Centroid: ' realm' | Score: 0.0045
-  Tokens: [' world', ' region', ' realm']
-Rank 16 | Centroid: ' scene' | Score: 0.0039
-  Tokens: [' workplace', ' room', ' scene']
-Rank 17 | Centroid: ' work' | Score: 0.0022
-  Tokens: [' action', ' work', ' show']
-Rank 18 | Centroid: ' interior' | Score: 0.0016
-  Tokens: [' interior', ' living']
-Rank 19 | Centroid: ' mainstream' | Score: 0.0007
-  Tokens: [' mainstream']
+Rank 1 | Centroid: ' King' | Score: 0.3594
+  Tokens: [' Kingdom', ' King', ' Queen', ' Knight', ' Emperor']
+Rank 2 | Centroid: ' of' | Score: 0.1895
+  Tokens: [' of', ' Of', ' Show', ' T', ' St']
+Rank 3 | Centroid: ' Day' | Score: 0.1030
+  Tokens: [' Days', ' Night', ' Day', ' Week']
+Rank 4 | Centroid: ' Power' | Score: 0.0806
+  Tokens: [' Word', ' Power', ' Star']
+Rank 5 | Centroid: ' Don' | Score: 0.0630
+  Tokens: [' Man', ' Reg', ' Men', ' Leg', ' Dim', ' Log', ' Rem', ' Don', ' Ban']
+Rank 6 | Centroid: ' Ship' | Score: 0.0262
+  Tokens: [' Ship', ' Nation']
+Rank 7 | Centroid: ' Romantic' | Score: 0.0153
+  Tokens: [' Detective', ' Psychiat', ' Adventures', ' Horror', ' Intellectual', ' Samurai', ' Choir', ' Casual', ' Comic', ' Debate', ' Romantic', ' Turks']
+Rank 8 | Centroid: ' Resort' | Score: 0.0145
+  Tokens: [' Resort', ' Colony', ' Olymp']
+Rank 9 | Centroid: ' Black' | Score: 0.0110
+  Tokens: [' Light', ' Shadow', ' White', ' Black', ' Dark', ' Good', ' Holy']
+Rank 10 | Centroid: ' Tong' | Score: 0.0101
+  Tokens: [' Tango', ' Tong', ' Voyage']
+Rank 11 | Centroid: ' Session' | Score: 0.0076
+  Tokens: [' Party', ' Office', ' Series', ' Programme', ' Stage', ' Picture', ' Session']
+Rank 12 | Centroid: ' Few' | Score: 0.0067
+  Tokens: [' Few', ' Dog']
+Rank 13 | Centroid: ' Echo' | Score: 0.0066
+  Tokens: [' Echo']
+Rank 14 | Centroid: ' Standing' | Score: 0.0062
+  Tokens: [' Standing', ' Stand']
+Rank 15 | Centroid: ' Breath' | Score: 0.0059
+  Tokens: [' Breath', ' Gentle']
+Rank 16 | Centroid: ' Edit' | Score: 0.0049
+  Tokens: [' Edit', ' Editor', ' Civil']
+Rank 17 | Centroid: ' Ring' | Score: 0.0048
+  Tokens: [' Ring', 'ing']
+Rank 18 | Centroid: ' Tem' | Score: 0.0045
+  Tokens: [' Sin', ' Tem', ' Ty', ' Tra']
+Rank 19 | Centroid: ' President' | Score: 0.0044
+  Tokens: [' Mayor', ' President', ' Republican', ' Governor', ' Secretary']
+Rank 20 | Centroid: ' Friends' | Score: 0.0044
+  Tokens: [' Friends', ' Friend']
+Rank 21 | Centroid: ' Period' | Score: 0.0042
+  Tokens: [' Period', ' Generation']
+Rank 22 | Centroid: ' Hour' | Score: 0.0027
+  Tokens: [' Hour', ' Minute', ' Mile', ' Quarter']
+Rank 23 | Centroid: ' House' | Score: 0.0019
+  Tokens: [' House', ' Summer']
+Rank 24 | Centroid: ' Family' | Score: 0.0019
+  Tokens: [' Wife', ' Phone', ' Family']
+Rank 25 | Centroid: 'rush' | Score: 0.0019
+  Tokens: ['rush']
+Rank 26 | Centroid: ' Tomorrow' | Score: 0.0014
+  Tokens: [' Tomorrow', ' Thing']
+Rank 27 | Centroid: ' Pret' | Score: 0.0011
+  Tokens: [' Pret']
+Rank 28 | Centroid: ' Gas' | Score: 0.0006
+  Tokens: [' Gas']
+Rank 29 | Centroid: ' Train' | Score: 0.0004
+  Tokens: [' Train']
 
 **Chosen Concept:** Rank 1

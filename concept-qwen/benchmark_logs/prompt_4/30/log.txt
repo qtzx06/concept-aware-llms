@@ -1,0 +1,107 @@
+--- Step 30 Log ---
+
+== Filtered Candidates ==
+Token: ' as' (ID: 438), Prob: 0.3535
+Token: ' he' (ID: 566), Prob: 0.3535
+Token: ' that' (ID: 429), Prob: 0.1670
+Token: ' in' (ID: 304), Prob: 0.0422
+Token: ' the' (ID: 279), Prob: 0.0330
+Token: ' of' (ID: 315), Prob: 0.0291
+Token: ' his' (ID: 806), Prob: 0.0045
+Token: ' it' (ID: 432), Prob: 0.0016
+Token: ' when' (ID: 979), Prob: 0.0013
+Token: ' and' (ID: 323), Prob: 0.0011
+Token: ' which' (ID: 892), Prob: 0.0011
+Token: ' The' (ID: 576), Prob: 0.0010
+Token: ' B' (ID: 425), Prob: 0.0004
+Token: ' a' (ID: 264), Prob: 0.0003
+Token: ' on' (ID: 389), Prob: 0.0002
+Token: ' this' (ID: 419), Prob: 0.0002
+Token: ' they' (ID: 807), Prob: 0.0001
+Token: ' for' (ID: 369), Prob: 0.0001
+Token: ' I' (ID: 358), Prob: 0.0001
+Token: ' an' (ID: 458), Prob: 0.0001
+Token: ' where' (ID: 1380), Prob: 0.0001
+Token: ' both' (ID: 2176), Prob: 0.0001
+Token: ' He' (ID: 1260), Prob: 0.0001
+Token: ' John' (ID: 3757), Prob: 0.0001
+Token: ' Mark' (ID: 4389), Prob: 0.0001
+Token: ' with' (ID: 448), Prob: 0.0000
+Token: ' at' (ID: 518), Prob: 0.0000
+Token: ' Britain' (ID: 13224), Prob: 0.0000
+Token: ' S' (ID: 328), Prob: 0.0000
+Token: ' also' (ID: 1083), Prob: 0.0000
+Token: ' T' (ID: 350), Prob: 0.0000
+Token: ' As' (ID: 1634), Prob: 0.0000
+Token: ' British' (ID: 7855), Prob: 0.0000
+Token: ' BBC' (ID: 18096), Prob: 0.0000
+Token: ' Mercury' (ID: 43562), Prob: 0.0000
+Token: ' D' (ID: 422), Prob: 0.0000
+Token: ' George' (ID: 9857), Prob: 0.0000
+Token: ' to' (ID: 311), Prob: 0.0000
+Token: ' was' (ID: 572), Prob: 0.0000
+Token: ' Derek' (ID: 42323), Prob: 0.0000
+Token: ' C' (ID: 356), Prob: 0.0000
+Token: ' by' (ID: 553), Prob: 0.0000
+Token: ' J' (ID: 619), Prob: 0.0000
+Token: ' all' (ID: 678), Prob: 0.0000
+Token: ' during' (ID: 2337), Prob: 0.0000
+Token: ' Robert' (ID: 8397), Prob: 0.0000
+Token: ' R' (ID: 431), Prob: 0.0000
+Token: ' H' (ID: 472), Prob: 0.0000
+Token: ' from' (ID: 504), Prob: 0.0000
+Token: ' William' (ID: 12375), Prob: 0.0000
+Token: ' P' (ID: 393), Prob: 0.0000
+Token: ' but' (ID: 714), Prob: 0.0000
+Token: ' since' (ID: 2474), Prob: 0.0000
+Token: ' James' (ID: 7801), Prob: 0.0000
+Token: ' television' (ID: 12425), Prob: 0.0000
+Token: ' Joseph' (ID: 15115), Prob: 0.0000
+Token: ' Tony' (ID: 18528), Prob: 0.0000
+Token: ' is' (ID: 374), Prob: 0.0000
+Token: ' we' (ID: 582), Prob: 0.0000
+Token: ' one' (ID: 825), Prob: 0.0000
+Token: ' A' (ID: 362), Prob: 0.0000
+Token: ' Billy' (ID: 32819), Prob: 0.0000
+Token: ' or' (ID: 476), Prob: 0.0000
+Token: ' these' (ID: 1493), Prob: 0.0000
+Token: ' co' (ID: 1062), Prob: 0.0000
+Token: ' after' (ID: 1283), Prob: 0.0000
+Token: ' UK' (ID: 6424), Prob: 0.0000
+Token: ' Peter' (ID: 11044), Prob: 0.0000
+Token: ' someone' (ID: 4325), Prob: 0.0000
+Token: ' America' (ID: 5159), Prob: 0.0000
+Token: ' produced' (ID: 8947), Prob: 0.0000
+Token: ' Richard' (ID: 11867), Prob: 0.0000
+
+== Ranked Concepts (Clusters) ==
+Rank 1 | Centroid: ' he' | Score: 0.3574
+  Tokens: [' he', ' his', ' He']
+Rank 2 | Centroid: ' As' | Score: 0.3555
+  Tokens: [' as', ' The', ' As']
+Rank 3 | Centroid: ' and' | Score: 0.2402
+  Tokens: [' that', ' in', ' of', ' and', ' on', ' for', ' with', ' at', ' to', ' by', ' from', ' but', ' is', ' or']
+Rank 4 | Centroid: ' the' | Score: 0.0034
+  Tokens: [' the', ' a', ' this', ' an', ' both', ' all', ' one', ' these']
+Rank 5 | Centroid: ' when' | Score: 0.0025
+  Tokens: [' when', ' which', ' where', ' during', ' since', ' after']
+Rank 6 | Centroid: ' we' | Score: 0.0018
+  Tokens: [' it', ' they', ' we']
+Rank 7 | Centroid: ' D' | Score: 0.0006
+  Tokens: [' B', ' I', ' S', ' T', ' D', ' C', ' J', ' R', ' H', ' P', ' A']
+Rank 8 | Centroid: ' William' | Score: 0.0002
+  Tokens: [' John', ' George', ' Derek', ' Robert', ' William', ' James', ' Joseph', ' Tony', ' Billy', ' Peter', ' Richard']
+Rank 9 | Centroid: ' Britain' | Score: 0.0001
+  Tokens: [' Britain', ' British', ' BBC', ' UK', ' America']
+Rank 10 | Centroid: ' television' | Score: 0.0001
+  Tokens: [' Mark', ' Mercury', ' television', ' produced']
+Rank 11 | Centroid: ' also' | Score: 0.0000
+  Tokens: [' also']
+Rank 12 | Centroid: ' was' | Score: 0.0000
+  Tokens: [' was']
+Rank 13 | Centroid: ' co' | Score: 0.0000
+  Tokens: [' co']
+Rank 14 | Centroid: ' someone' | Score: 0.0000
+  Tokens: [' someone']
+
+**Chosen Concept:** Rank 1

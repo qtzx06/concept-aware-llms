@@ -1,69 +1,98 @@
 --- Step 133 Log ---
 
 == Filtered Candidates ==
-Token: 'Okay' (ID: 32313), Prob: 0.0447
-Token: 'Alright' (ID: 71486), Prob: 0.0113
-Token: 'Answer' (ID: 16141), Prob: 0.0106
-Token: 'Wait' (ID: 14190), Prob: 0.0013
-Token: 'Winner' (ID: 50955), Prob: 0.0006
-Token: 'Chapter' (ID: 25020), Prob: 0.0005
-Token: 'Monday' (ID: 35239), Prob: 0.0004
-Token: 'Week' (ID: 17053), Prob: 0.0004
-Token: 'Key' (ID: 1592), Prob: 0.0003
-Token: 'Final' (ID: 19357), Prob: 0.0003
-Token: 'Current' (ID: 5405), Prob: 0.0002
-Token: 'Hmm' (ID: 80022), Prob: 0.0002
-Token: 'Yes' (ID: 9454), Prob: 0.0002
-Token: 'Response' (ID: 2582), Prob: 0.0002
-Token: 'Responsive' (ID: 78795), Prob: 0.0002
-Token: '"The' (ID: 10022), Prob: 0.0002
-Token: 'First' (ID: 5338), Prob: 0.0001
-Token: 'responsive' (ID: 51297), Prob: 0.0001
-Token: 'Title' (ID: 3851), Prob: 0.0001
-Token: 'Let' (ID: 10061), Prob: 0.0001
-Token: 'Great' (ID: 21396), Prob: 0.0001
-Token: 'Haunted' (ID: 96757), Prob: 0.0001
-Token: 'Mar' (ID: 12061), Prob: 0.0001
-Token: 'Even' (ID: 13159), Prob: 0.0001
-Token: 'Example' (ID: 13314), Prob: 0.0001
-Token: 'Lim' (ID: 51938), Prob: 0.0001
+Token: ' Kingdom' (ID: 15072), Prob: 1.0000
+Token: ' kingdom' (ID: 25079), Prob: 0.0000
+Token: ' King' (ID: 6210), Prob: 0.0000
+Token: ' UK' (ID: 6424), Prob: 0.0000
+Token: ' States' (ID: 4180), Prob: 0.0000
+Token: ' Britain' (ID: 13224), Prob: 0.0000
+Token: ' K' (ID: 730), Prob: 0.0000
+Token: 'King' (ID: 33555), Prob: 0.0000
+Token: ' United' (ID: 3639), Prob: 0.0000
+Token: ' KING' (ID: 73811), Prob: 0.0000
+Token: ' Kings' (ID: 24019), Prob: 0.0000
+Token: ' Kin' (ID: 30891), Prob: 0.0000
+Token: ' Kind' (ID: 16840), Prob: 0.0000
+Token: '-K' (ID: 15843), Prob: 0.0000
+Token: ' Nations' (ID: 19140), Prob: 0.0000
+Token: '.K' (ID: 11352), Prob: 0.0000
+Token: '_K' (ID: 10102), Prob: 0.0000
+Token: ' Republic' (ID: 5429), Prob: 0.0000
+Token: 'king' (ID: 10566), Prob: 0.0000
+Token: ' Islands' (ID: 22235), Prob: 0.0000
+Token: ' British' (ID: 7855), Prob: 0.0000
+Token: ' Bible' (ID: 16947), Prob: 0.0000
+Token: ' Keys' (ID: 24133), Prob: 0.0000
+Token: '(K' (ID: 16738), Prob: 0.0000
+Token: ',K' (ID: 43654), Prob: 0.0000
+Token: ' king' (ID: 11477), Prob: 0.0000
+Token: ' Questions' (ID: 23382), Prob: 0.0000
+Token: ' Keith' (ID: 31502), Prob: 0.0000
+Token: ' Kenya' (ID: 36666), Prob: 0.0000
+Token: ' the' (ID: 279), Prob: 0.0000
+Token: ' Brit' (ID: 5450), Prob: 0.0000
+Token: ' Kingston' (ID: 62469), Prob: 0.0000
+Token: ' Keyboard' (ID: 25616), Prob: 0.0000
+Token: ' Province' (ID: 37794), Prob: 0.0000
+Token: '/K' (ID: 32854), Prob: 0.0000
+Token: ' State' (ID: 3234), Prob: 0.0000
+Token: ' Bank' (ID: 8547), Prob: 0.0000
+Token: ' Countries' (ID: 53737), Prob: 0.0000
+Token: ' Savings' (ID: 57679), Prob: 0.0000
+Token: ' Lord' (ID: 10214), Prob: 0.0000
+Token: ' Kent' (ID: 17734), Prob: 0.0000
+Token: 'UK' (ID: 24537), Prob: 0.0000
+Token: ' Kensington' (ID: 95733), Prob: 0.0000
+Token: ' berk' (ID: 96583), Prob: 0.0000
+Token: 'kin' (ID: 7989), Prob: 0.0000
+Token: ' Kn' (ID: 13620), Prob: 0.0000
+Token: ' Queen' (ID: 16259), Prob: 0.0000
+Token: 'K' (ID: 42), Prob: 0.0000
+Token: ' England' (ID: 9448), Prob: 0.0000
+Token: ' kingdoms' (ID: 95406), Prob: 0.0000
+Token: ' Services' (ID: 8307), Prob: 0.0000
+Token: ' Studios' (ID: 30262), Prob: 0.0000
+Token: ' kin' (ID: 23938), Prob: 0.0000
+Token: ' Korea' (ID: 11862), Prob: 0.0000
+Token: ' Kir' (ID: 25527), Prob: 0.0000
+Token: ' The' (ID: 576), Prob: 0.0000
+Token: ' Empire' (ID: 20448), Prob: 0.0000
+Token: ' Knights' (ID: 39576), Prob: 0.0000
+Token: '[K' (ID: 53277), Prob: 0.0000
 
 == Ranked Concepts (Clusters) ==
-Rank 1 | Centroid: 'Okay' | Score: 0.0562
-  Tokens: ['Okay', 'Alright', 'Hmm']
-Rank 2 | Centroid: 'Answer' | Score: 0.0106
-  Tokens: ['Answer']
-Rank 3 | Centroid: 'Wait' | Score: 0.0013
-  Tokens: ['Wait']
-Rank 4 | Centroid: 'Monday' | Score: 0.0008
-  Tokens: ['Monday', 'Week']
-Rank 5 | Centroid: 'Chapter' | Score: 0.0006
-  Tokens: ['Chapter', 'Example']
-Rank 6 | Centroid: 'Winner' | Score: 0.0006
-  Tokens: ['Winner']
-Rank 7 | Centroid: 'Responsive' | Score: 0.0005
-  Tokens: ['Response', 'Responsive', 'responsive']
-Rank 8 | Centroid: 'Final' | Score: 0.0004
-  Tokens: ['Final', 'First']
-Rank 9 | Centroid: 'Key' | Score: 0.0003
-  Tokens: ['Key']
-Rank 10 | Centroid: 'Mar' | Score: 0.0002
-  Tokens: ['Mar', 'Lim']
-Rank 11 | Centroid: 'Current' | Score: 0.0002
-  Tokens: ['Current']
-Rank 12 | Centroid: 'Yes' | Score: 0.0002
-  Tokens: ['Yes']
-Rank 13 | Centroid: '"The' | Score: 0.0002
-  Tokens: ['"The']
-Rank 14 | Centroid: 'Haunted' | Score: 0.0001
-  Tokens: ['Haunted']
-Rank 15 | Centroid: 'Great' | Score: 0.0001
-  Tokens: ['Great']
-Rank 16 | Centroid: 'Title' | Score: 0.0001
-  Tokens: ['Title']
-Rank 17 | Centroid: 'Let' | Score: 0.0001
-  Tokens: ['Let']
-Rank 18 | Centroid: 'Even' | Score: 0.0001
-  Tokens: ['Even']
+Rank 1 | Centroid: ' kingdom' | Score: 1.0000
+  Tokens: [' Kingdom', ' kingdom', ' kingdoms']
+Rank 2 | Centroid: ' King' | Score: 0.0000
+  Tokens: [' King', 'King', ' KING', ' Kings', 'king', ' king', ' Queen']
+Rank 3 | Centroid: ' UK' | Score: 0.0000
+  Tokens: [' UK', ' Britain', ' United', ' British', ' Brit', 'UK', ' England']
+Rank 4 | Centroid: ' States' | Score: 0.0000
+  Tokens: [' States', ' State']
+Rank 5 | Centroid: '.K' | Score: 0.0000
+  Tokens: [' K', '-K', '.K', '_K', '(K', ',K', '/K', 'K', '[K']
+Rank 6 | Centroid: ' Kin' | Score: 0.0000
+  Tokens: [' Kin', 'kin', ' kin']
+Rank 7 | Centroid: ' Kind' | Score: 0.0000
+  Tokens: [' Kind']
+Rank 8 | Centroid: ' Countries' | Score: 0.0000
+  Tokens: [' Nations', ' Islands', ' Countries']
+Rank 9 | Centroid: ' Empire' | Score: 0.0000
+  Tokens: [' Republic', ' Province', ' Empire']
+Rank 10 | Centroid: ' Savings' | Score: 0.0000
+  Tokens: [' Bible', ' Questions', ' Bank', ' Savings', ' Services', ' Studios']
+Rank 11 | Centroid: ' Keyboard' | Score: 0.0000
+  Tokens: [' Keys', ' Keith', ' Keyboard']
+Rank 12 | Centroid: ' Kenya' | Score: 0.0000
+  Tokens: [' Kenya', ' berk', ' Korea', ' Kir']
+Rank 13 | Centroid: ' The' | Score: 0.0000
+  Tokens: [' the', ' Lord', ' The']
+Rank 14 | Centroid: ' Kingston' | Score: 0.0000
+  Tokens: [' Kingston', ' Kensington', ' Knights']
+Rank 15 | Centroid: ' Kent' | Score: 0.0000
+  Tokens: [' Kent']
+Rank 16 | Centroid: ' Kn' | Score: 0.0000
+  Tokens: [' Kn']
 
 **Chosen Concept:** Rank 1

@@ -1,151 +1,143 @@
 --- Step 29 Log ---
 
 == Filtered Candidates ==
-Token: ' place' (ID: 1992), Prob: 0.1045
-Token: ' specific' (ID: 3151), Prob: 0.0635
-Token: ' different' (ID: 2155), Prob: 0.0383
-Token: ' location' (ID: 3728), Prob: 0.0383
-Token: ' real' (ID: 1931), Prob: 0.0317
-Token: ' modern' (ID: 6481), Prob: 0.0299
-Token: ' natural' (ID: 5810), Prob: 0.0281
-Token: ' library' (ID: 6733), Prob: 0.0281
-Token: ' historical' (ID: 13656), Prob: 0.0264
-Token: ' setting' (ID: 6243), Prob: 0.0233
-Token: ' city' (ID: 3283), Prob: 0.0219
-Token: ' museum' (ID: 23971), Prob: 0.0171
-Token: ' foreign' (ID: 7214), Prob: 0.0132
-Token: ' cultural' (ID: 12752), Prob: 0.0125
-Token: ' small' (ID: 2613), Prob: 0.0110
-Token: ' scene' (ID: 6109), Prob: 0.0110
-Token: ' room' (ID: 3054), Prob: 0.0103
-Token: ' country' (ID: 3146), Prob: 0.0097
-Token: ' particular' (ID: 3953), Prob: 0.0091
-Token: ' traditional' (ID: 8606), Prob: 0.0091
-Token: ' park' (ID: 6118), Prob: 0.0081
-Token: ' home' (ID: 2114), Prob: 0.0071
-Token: ' public' (ID: 584), Prob: 0.0067
-Token: ' space' (ID: 3550), Prob: 0.0063
-Token: ' multicultural' (ID: 74316), Prob: 0.0063
-Token: ' forest' (ID: 13638), Prob: 0.0055
-Token: ' restaurant' (ID: 10729), Prob: 0.0052
-Token: ' non' (ID: 2477), Prob: 0.0046
-Token: ' market' (ID: 3081), Prob: 0.0046
-Token: ' common' (ID: 4185), Prob: 0.0046
-Token: ' typical' (ID: 14260), Prob: 0.0046
-Token: ' third' (ID: 4843), Prob: 0.0043
-Token: ' theater' (ID: 26705), Prob: 0.0043
-Token: ' marketplace' (ID: 29533), Prob: 0.0043
-Token: ' single' (ID: 3175), Prob: 0.0041
-Token: ' living' (ID: 5382), Prob: 0.0041
-Token: ' kitchen' (ID: 9780), Prob: 0.0041
-Token: ' physical' (ID: 6961), Prob: 0.0038
-Token: ' hotel' (ID: 9500), Prob: 0.0038
-Token: ' time' (ID: 882), Prob: 0.0036
-Token: ' world' (ID: 1879), Prob: 0.0036
-Token: ' store' (ID: 3553), Prob: 0.0036
-Token: ' village' (ID: 14126), Prob: 0.0034
-Token: ' fictional' (ID: 43582), Prob: 0.0034
-Token: ' futuristic' (ID: 79220), Prob: 0.0034
-Token: ' future' (ID: 3853), Prob: 0.0032
-Token: ' building' (ID: 4752), Prob: 0.0032
-Token: ' unique' (ID: 4911), Prob: 0.0032
-Token: ' middle' (ID: 6149), Prob: 0.0032
-Token: ' multi' (ID: 7299), Prob: 0.0032
-Token: ' contemporary' (ID: 18706), Prob: 0.0032
-Token: ' historic' (ID: 18035), Prob: 0.0030
-Token: ' large' (ID: 3460), Prob: 0.0028
-Token: ' town' (ID: 6290), Prob: 0.0028
-Token: ' character' (ID: 3668), Prob: 0.0026
-Token: ' rural' (ID: 19082), Prob: 0.0026
-Token: ' classroom' (ID: 24017), Prob: 0.0026
-Token: ' one' (ID: 825), Prob: 0.0025
-Token: ' house' (ID: 3753), Prob: 0.0025
-Token: ' new' (ID: 501), Prob: 0.0023
-Token: ' virtual' (ID: 4108), Prob: 0.0023
-Token: ' quiet' (ID: 11340), Prob: 0.0023
-Token: ' family' (ID: 2997), Prob: 0.0022
-Token: ' post' (ID: 1736), Prob: 0.0020
-Token: ' café' (ID: 51950), Prob: 0.0020
-Token: ' bar' (ID: 3619), Prob: 0.0019
-Token: ' two' (ID: 1378), Prob: 0.0018
-Token: ' major' (ID: 3598), Prob: 0.0018
-Token: ' remote' (ID: 8699), Prob: 0.0018
-Token: ' familiar' (ID: 11285), Prob: 0.0018
-Token: ' shopping' (ID: 11919), Prob: 0.0018
-Token: ' garden' (ID: 13551), Prob: 0.0018
-Token: ' desert' (ID: 23603), Prob: 0.0018
-Token: ' tourist' (ID: 29970), Prob: 0.0018
-Token: ' local' (ID: 2205), Prob: 0.0017
-Token: ' business' (ID: 2562), Prob: 0.0017
-Token: ' community' (ID: 3942), Prob: 0.0017
-Token: ' central' (ID: 8622), Prob: 0.0017
-Token: ' beach' (ID: 11321), Prob: 0.0017
-Token: ' workplace' (ID: 26368), Prob: 0.0017
-Token: ' medieval' (ID: 41008), Prob: 0.0017
-Token: ' festival' (ID: 18780), Prob: 0.0016
-Token: ' second' (ID: 2086), Prob: 0.0015
-Token: ' plaza' (ID: 71998), Prob: 0.0015
-Token: ' peaceful' (ID: 25650), Prob: 0.0014
-Token: ' present' (ID: 3042), Prob: 0.0013
-Token: ' part' (ID: 949), Prob: 0.0012
-Token: ' special' (ID: 3281), Prob: 0.0012
-Token: ' certain' (ID: 3654), Prob: 0.0012
-Token: ' general' (ID: 4586), Prob: 0.0012
-Token: ' movie' (ID: 5700), Prob: 0.0012
-Token: ' neutral' (ID: 20628), Prob: 0.0012
-Token: ' bookstore' (ID: 78661), Prob: 0.0012
-Token: ' bustling' (ID: 89156), Prob: 0.0012
-Token: ' private' (ID: 869), Prob: 0.0012
-Token: ' culture' (ID: 7674), Prob: 0.0012
-Token: ' tropical' (ID: 34048), Prob: 0.0012
-Token: ' coastal' (ID: 34235), Prob: 0.0012
+Token: ' BBC' (ID: 18096), Prob: 0.3242
+Token: ' television' (ID: 12425), Prob: 0.0723
+Token: ' TV' (ID: 5883), Prob: 0.0640
+Token: ' British' (ID: 7855), Prob: 0.0640
+Token: ' series' (ID: 4013), Prob: 0.0564
+Token: ' film' (ID: 4531), Prob: 0.0388
+Token: ' UK' (ID: 6424), Prob: 0.0388
+Token: ' ITV' (ID: 93355), Prob: 0.0267
+Token: ' drama' (ID: 19584), Prob: 0.0183
+Token: ' comedy' (ID: 22358), Prob: 0.0162
+Token: ' Channel' (ID: 13434), Prob: 0.0126
+Token: ' sitcom' (ID: 80366), Prob: 0.0111
+Token: ' films' (ID: 12351), Prob: 0.0098
+Token: ' stage' (ID: 6430), Prob: 0.0067
+Token: ' Australian' (ID: 13369), Prob: 0.0067
+Token: ' role' (ID: 3476), Prob: 0.0036
+Token: ' web' (ID: 3482), Prob: 0.0036
+Token: ' West' (ID: 4312), Prob: 0.0036
+Token: ' radio' (ID: 8887), Prob: 0.0036
+Token: ' HBO' (ID: 42878), Prob: 0.0036
+Token: ' min' (ID: 1308), Prob: 0.0032
+Token: ' National' (ID: 5055), Prob: 0.0032
+Token: ' London' (ID: 7148), Prob: 0.0032
+Token: ' short' (ID: 2805), Prob: 0.0028
+Token: ' Royal' (ID: 16194), Prob: 0.0028
+Token: ' The' (ID: 576), Prob: 0.0025
+Token: ' medical' (ID: 6457), Prob: 0.0025
+Token: ' ABC' (ID: 19360), Prob: 0.0025
+Token: ' popular' (ID: 5411), Prob: 0.0022
+Token: ' science' (ID: 8038), Prob: 0.0022
+Token: ' dramas' (ID: 87726), Prob: 0.0022
+Token: ' following' (ID: 2701), Prob: 0.0019
+Token: ' soap' (ID: 26785), Prob: 0.0019
+Token: ' US' (ID: 2274), Prob: 0.0017
+Token: ' American' (ID: 3693), Prob: 0.0017
+Token: ' movie' (ID: 5700), Prob: 0.0017
+Token: ' crime' (ID: 9778), Prob: 0.0017
+Token: ' acclaimed' (ID: 48982), Prob: 0.0017
+Token: ' plays' (ID: 11088), Prob: 0.0015
+Token: ' play' (ID: 1486), Prob: 0.0013
+Token: ' Doctor' (ID: 18635), Prob: 0.0013
+Token: ' United' (ID: 3639), Prob: 0.0010
+Token: ' hit' (ID: 4201), Prob: 0.0010
+Token: ' East' (ID: 6326), Prob: 0.0010
+Token: ' third' (ID: 4843), Prob: 0.0009
+Token: ' theatre' (ID: 33496), Prob: 0.0009
+Token: ' show' (ID: 1473), Prob: 0.0008
+Token: ' BA' (ID: 33489), Prob: 0.0008
+Token: ' long' (ID: 1293), Prob: 0.0008
+Token: ' international' (ID: 6489), Prob: 0.0008
+Token: ' first' (ID: 1156), Prob: 0.0007
+Token: ' CBS' (ID: 24029), Prob: 0.0007
+Token: ' fictional' (ID: 43582), Prob: 0.0007
+Token: ' political' (ID: 4948), Prob: 0.0006
+Token: ' independent' (ID: 9489), Prob: 0.0006
+Token: ' award' (ID: 10084), Prob: 0.0006
+Token: ' critically' (ID: 40340), Prob: 0.0006
+Token: ' Canadian' (ID: 11888), Prob: 0.0006
+Token: ' Sky' (ID: 14722), Prob: 0.0006
+Token: ' G' (ID: 479), Prob: 0.0005
+Token: ' major' (ID: 3598), Prob: 0.0005
+Token: ' police' (ID: 4282), Prob: 0.0005
+Token: ' Fox' (ID: 13282), Prob: 0.0005
+Token: ' Netflix' (ID: 22642), Prob: 0.0005
+Token: ' New' (ID: 1532), Prob: 0.0005
+Token: ' main' (ID: 1887), Prob: 0.0005
+Token: ' English' (ID: 6364), Prob: 0.0005
+Token: ' Radio' (ID: 13484), Prob: 0.0005
+Token: ' Broadway' (ID: 36676), Prob: 0.0005
+Token: ' cult' (ID: 4511), Prob: 0.0004
+Token: ' German' (ID: 5938), Prob: 0.0004
+Token: ' Play' (ID: 7054), Prob: 0.0004
+Token: ' sat' (ID: 7578), Prob: 0.0004
+Token: ' movies' (ID: 9508), Prob: 0.0004
+Token: ' dram' (ID: 13548), Prob: 0.0004
+Token: ' South' (ID: 4882), Prob: 0.0004
+Token: ' computer' (ID: 6366), Prob: 0.0004
+Token: ' USA' (ID: 7279), Prob: 0.0004
+Token: ' Japanese' (ID: 10769), Prob: 0.0004
+Token: ' Hall' (ID: 10926), Prob: 0.0004
+Token: ' sci' (ID: 37974), Prob: 0.0004
+Token: ' feature' (ID: 4565), Prob: 0.0003
+Token: ' programme' (ID: 18136), Prob: 0.0003
+Token: ' CB' (ID: 21318), Prob: 0.0003
+Token: ' e' (ID: 384), Prob: 0.0003
+Token: ' second' (ID: 2086), Prob: 0.0003
+Token: ' Victoria' (ID: 22417), Prob: 0.0003
+Token: ' documentary' (ID: 24954), Prob: 0.0003
+Token: ' Indian' (ID: 7748), Prob: 0.0003
+Token: ' mock' (ID: 7860), Prob: 0.0003
+Token: ' Amazon' (ID: 8176), Prob: 0.0003
+Token: ' episode' (ID: 9234), Prob: 0.0003
+Token: ' musical' (ID: 17795), Prob: 0.0003
+Token: ' leading' (ID: 6388), Prob: 0.0003
+Token: ' James' (ID: 7801), Prob: 0.0003
+Token: ' French' (ID: 8585), Prob: 0.0003
 
 == Ranked Concepts (Clusters) ==
-Rank 1 | Centroid: ' location' | Score: 0.1758
-  Tokens: [' place', ' location', ' setting', ' space', ' time']
-Rank 2 | Centroid: ' specific' | Score: 0.1167
-  Tokens: [' specific', ' different', ' particular', ' unique', ' special', ' certain']
-Rank 3 | Centroid: ' virtual' | Score: 0.0659
-  Tokens: [' real', ' natural', ' physical', ' virtual']
-Rank 4 | Centroid: ' contemporary' | Score: 0.0486
-  Tokens: [' modern', ' traditional', ' typical', ' contemporary', ' familiar']
-Rank 5 | Centroid: ' restaurant' | Score: 0.0432
-  Tokens: [' museum', ' restaurant', ' theater', ' kitchen', ' hotel', ' classroom', ' shopping', ' garden', ' movie', ' bookstore']
-Rank 6 | Centroid: ' historic' | Score: 0.0378
-  Tokens: [' historical', ' fictional', ' futuristic', ' historic', ' medieval']
-Rank 7 | Centroid: ' town' | Score: 0.0376
-  Tokens: [' city', ' country', ' village', ' town']
-Rank 8 | Centroid: ' large' | Score: 0.0371
-  Tokens: [' small', ' non', ' single', ' multi', ' large', ' one', ' new', ' post', ' two', ' major', ' part']
-Rank 9 | Centroid: ' library' | Score: 0.0366
-  Tokens: [' library', ' store', ' building', ' bar']
-Rank 10 | Centroid: ' house' | Score: 0.0221
-  Tokens: [' room', ' home', ' house', ' family']
-Rank 11 | Centroid: ' remote' | Score: 0.0179
-  Tokens: [' foreign', ' remote', ' central', ' neutral']
-Rank 12 | Centroid: ' public' | Score: 0.0153
-  Tokens: [' public', ' common', ' local', ' general', ' private']
-Rank 13 | Centroid: ' coastal' | Score: 0.0139
-  Tokens: [' forest', ' rural', ' desert', ' beach', ' tropical', ' coastal']
-Rank 14 | Centroid: ' cultural' | Score: 0.0136
-  Tokens: [' cultural', ' culture']
-Rank 15 | Centroid: ' marketplace' | Score: 0.0123
-  Tokens: [' market', ' marketplace', ' business', ' workplace']
-Rank 16 | Centroid: ' café' | Score: 0.0116
-  Tokens: [' park', ' café', ' plaza']
-Rank 17 | Centroid: ' scene' | Score: 0.0110
-  Tokens: [' scene']
-Rank 18 | Centroid: ' festival' | Score: 0.0096
-  Tokens: [' multicultural', ' tourist', ' festival']
-Rank 19 | Centroid: ' third' | Score: 0.0090
-  Tokens: [' third', ' middle', ' second']
-Rank 20 | Centroid: ' community' | Score: 0.0079
-  Tokens: [' world', ' character', ' community']
-Rank 21 | Centroid: ' peaceful' | Score: 0.0049
-  Tokens: [' quiet', ' peaceful', ' bustling']
-Rank 22 | Centroid: ' future' | Score: 0.0045
-  Tokens: [' future', ' present']
-Rank 23 | Centroid: ' living' | Score: 0.0041
-  Tokens: [' living']
+Rank 1 | Centroid: ' BBC' | Score: 0.3594
+  Tokens: [' BBC', ' ITV', ' HBO', ' ABC', ' BA', ' CBS', ' CB', ' Amazon']
+Rank 2 | Centroid: ' radio' | Score: 0.1406
+  Tokens: [' television', ' TV', ' radio', ' Radio']
+Rank 3 | Centroid: ' British' | Score: 0.0806
+  Tokens: [' British', ' Australian', ' London', ' Royal', ' American', ' Canadian', ' English', ' German', ' Japanese', ' Indian', ' French']
+Rank 4 | Centroid: ' main' | Score: 0.0674
+  Tokens: [' series', ' role', ' popular', ' following', ' hit', ' independent', ' major', ' main', ' feature', ' leading']
+Rank 5 | Centroid: ' movie' | Score: 0.0510
+  Tokens: [' film', ' films', ' movie', ' movies', ' documentary']
+Rank 6 | Centroid: ' drama' | Score: 0.0447
+  Tokens: [' drama', ' comedy', ' stage', ' dramas', ' theatre', ' dram']
+Rank 7 | Centroid: ' US' | Score: 0.0420
+  Tokens: [' UK', ' US', ' United', ' USA']
+Rank 8 | Centroid: ' The' | Score: 0.0153
+  Tokens: [' web', ' min', ' short', ' The', ' show', ' long', ' G', ' New', ' e', ' James']
+Rank 9 | Centroid: ' Fox' | Score: 0.0134
+  Tokens: [' Channel', ' Fox', ' Victoria']
+Rank 10 | Centroid: ' sitcom' | Score: 0.0121
+  Tokens: [' sitcom', ' Netflix', ' Broadway']
+Rank 11 | Centroid: ' acclaimed' | Score: 0.0080
+  Tokens: [' crime', ' acclaimed', ' Doctor', ' political', ' award', ' critically', ' police', ' cult', ' programme', ' mock']
+Rank 12 | Centroid: ' science' | Score: 0.0058
+  Tokens: [' medical', ' science', ' computer', ' Hall', ' sci']
+Rank 13 | Centroid: ' East' | Score: 0.0050
+  Tokens: [' West', ' East', ' South']
+Rank 14 | Centroid: ' National' | Score: 0.0039
+  Tokens: [' National', ' international']
+Rank 15 | Centroid: ' play' | Score: 0.0032
+  Tokens: [' plays', ' play', ' Play']
+Rank 16 | Centroid: ' fictional' | Score: 0.0029
+  Tokens: [' soap', ' fictional', ' episode']
+Rank 17 | Centroid: ' second' | Score: 0.0019
+  Tokens: [' third', ' first', ' second']
+Rank 18 | Centroid: ' Sky' | Score: 0.0006
+  Tokens: [' Sky']
+Rank 19 | Centroid: ' sat' | Score: 0.0004
+  Tokens: [' sat']
+Rank 20 | Centroid: ' musical' | Score: 0.0003
+  Tokens: [' musical']
 
 **Chosen Concept:** Rank 1

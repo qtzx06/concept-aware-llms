@@ -1,158 +1,129 @@
 --- Step 12 Log ---
 
 == Filtered Candidates ==
-Token: ' characters' (ID: 5766), Prob: 0.3574
-Token: ' names' (ID: 5036), Prob: 0.0796
-Token: ' traits' (ID: 24055), Prob: 0.0515
-Token: ' character' (ID: 3668), Prob: 0.0354
-Token: ' actions' (ID: 6168), Prob: 0.0354
-Token: ' name' (ID: 829), Prob: 0.0228
-Token: ' characteristics' (ID: 17452), Prob: 0.0228
-Token: ' roles' (ID: 12783), Prob: 0.0201
-Token: ' emotions' (ID: 21261), Prob: 0.0095
-Token: ' parents' (ID: 6562), Prob: 0.0090
-Token: ' voices' (ID: 23314), Prob: 0.0054
-Token: ' main' (ID: 1887), Prob: 0.0051
-Token: ' features' (ID: 4419), Prob: 0.0051
-Token: ' attributes' (ID: 8201), Prob: 0.0048
-Token: ' motives' (ID: 51040), Prob: 0.0045
-Token: ' two' (ID: 1378), Prob: 0.0042
-Token: ' stories' (ID: 7343), Prob: 0.0042
-Token: ' motivations' (ID: 64831), Prob: 0.0040
-Token: ' family' (ID: 2997), Prob: 0.0037
-Token: ' role' (ID: 3476), Prob: 0.0037
-Token: ' story' (ID: 3364), Prob: 0.0035
-Token: ' relationships' (ID: 11871), Prob: 0.0033
-Token: ' protagonists' (ID: 94635), Prob: 0.0033
-Token: ' children' (ID: 2841), Prob: 0.0029
-Token: ' personalities' (ID: 43808), Prob: 0.0029
-Token: ' lives' (ID: 6305), Prob: 0.0027
-Token: ' goals' (ID: 8845), Prob: 0.0027
-Token: ' identities' (ID: 39421), Prob: 0.0027
-Token: ' professions' (ID: 68692), Prob: 0.0027
-Token: ' perspectives' (ID: 38455), Prob: 0.0026
-Token: ' lines' (ID: 5128), Prob: 0.0024
-Token: ' personality' (ID: 17294), Prob: 0.0024
-Token: ' dialogue' (ID: 21276), Prob: 0.0021
-Token: ' descriptions' (ID: 27787), Prob: 0.0021
-Token: ' intentions' (ID: 33234), Prob: 0.0021
-Token: ' ancestors' (ID: 37518), Prob: 0.0021
-Token: ' age' (ID: 4231), Prob: 0.0020
-Token: ' origins' (ID: 32372), Prob: 0.0020
-Token: ' primary' (ID: 6028), Prob: 0.0019
-Token: ' hands' (ID: 6078), Prob: 0.0019
-Token: ' protagonist' (ID: 45584), Prob: 0.0019
-Token: ' physical' (ID: 6961), Prob: 0.0018
-Token: ' gender' (ID: 9825), Prob: 0.0018
-Token: ' voice' (ID: 7743), Prob: 0.0017
-Token: ' faces' (ID: 12300), Prob: 0.0017
-Token: ' titles' (ID: 15311), Prob: 0.0017
-Token: ' members' (ID: 3613), Prob: 0.0016
-Token: ' identity' (ID: 9569), Prob: 0.0016
-Token: ' interests' (ID: 11772), Prob: 0.0016
-Token: ' strengths' (ID: 35386), Prob: 0.0016
-Token: ' life' (ID: 2272), Prob: 0.0015
-Token: ' points' (ID: 3501), Prob: 0.0015
-Token: ' interactions' (ID: 21880), Prob: 0.0015
-Token: ' feelings' (ID: 15650), Prob: 0.0014
-Token: ' ideas' (ID: 6708), Prob: 0.0013
-Token: ' choices' (ID: 11454), Prob: 0.0013
-Token: ' siblings' (ID: 36683), Prob: 0.0013
-Token: ' objects' (ID: 6171), Prob: 0.0012
-Token: ' eyes' (ID: 6414), Prob: 0.0012
-Token: ' thoughts' (ID: 11303), Prob: 0.0012
-Token: ' possessions' (ID: 52535), Prob: 0.0012
-Token: ' personal' (ID: 4345), Prob: 0.0011
-Token: ' types' (ID: 4494), Prob: 0.0011
-Token: ' relationship' (ID: 5025), Prob: 0.0011
-Token: ' plot' (ID: 7089), Prob: 0.0011
-Token: ' inner' (ID: 9179), Prob: 0.0011
-Token: ' experiences' (ID: 11449), Prob: 0.0011
-Token: ' perspective' (ID: 13057), Prob: 0.0011
-Token: ' gestures' (ID: 52392), Prob: 0.0011
-Token: ' first' (ID: 1156), Prob: 0.0011
-Token: ' details' (ID: 3565), Prob: 0.0011
-Token: ' skills' (ID: 7361), Prob: 0.0011
-Token: ' properties' (ID: 5888), Prob: 0.0010
-Token: ' narrative' (ID: 19221), Prob: 0.0010
-Token: ' works' (ID: 4278), Prob: 0.0009
-Token: ' emotional' (ID: 14269), Prob: 0.0009
-Token: ' words' (ID: 4244), Prob: 0.0009
-Token: ' abilities' (ID: 17541), Prob: 0.0009
-Token: ' genders' (ID: 81328), Prob: 0.0009
-Token: ' major' (ID: 3598), Prob: 0.0008
-Token: ' background' (ID: 4004), Prob: 0.0008
-Token: ' origin' (ID: 6238), Prob: 0.0008
-Token: ' species' (ID: 9419), Prob: 0.0008
-Token: ' expressions' (ID: 23393), Prob: 0.0008
-Token: ' appearances' (ID: 26255), Prob: 0.0008
-Token: ' friends' (ID: 4780), Prob: 0.0008
-Token: ' letters' (ID: 11931), Prob: 0.0007
-Token: ' acts' (ID: 14056), Prob: 0.0007
-Token: ' qualities' (ID: 28500), Prob: 0.0007
-Token: ' initials' (ID: 78437), Prob: 0.0007
-Token: ' appearance' (ID: 11094), Prob: 0.0007
-Token: ' powers' (ID: 13430), Prob: 0.0007
-Token: ' themes' (ID: 21386), Prob: 0.0007
+Token: ' It' (ID: 1084), Prob: 0.9609
+Token: ' it' (ID: 432), Prob: 0.0374
+Token: 'It' (ID: 2132), Prob: 0.0000
+Token: '_it' (ID: 14631), Prob: 0.0000
+Token: 'it' (ID: 275), Prob: 0.0000
+Token: ' War' (ID: 5004), Prob: 0.0000
+Token: ' Things' (ID: 20093), Prob: 0.0000
+Token: ' IT' (ID: 8700), Prob: 0.0000
+Token: '-it' (ID: 37511), Prob: 0.0000
+Token: ' the' (ID: 279), Prob: 0.0000
+Token: ' Love' (ID: 10689), Prob: 0.0000
+Token: '	It' (ID: 61535), Prob: 0.0000
+Token: ' Time' (ID: 4120), Prob: 0.0000
+Token: '.it' (ID: 15593), Prob: 0.0000
+Token: '	it' (ID: 23374), Prob: 0.0000
+Token: ''It' (ID: 74650), Prob: 0.0000
+Token: ',it' (ID: 79724), Prob: 0.0000
+Token: ' London' (ID: 7148), Prob: 0.0000
+Token: ' Life' (ID: 9414), Prob: 0.0000
+Token: '.It' (ID: 27528), Prob: 0.0000
+Token: ' Ireland' (ID: 14648), Prob: 0.0000
+Token: ' Now' (ID: 4695), Prob: 0.0000
+Token: ' Day' (ID: 6059), Prob: 0.0000
+Token: ' The' (ID: 576), Prob: 0.0000
+Token: ' Britain' (ID: 13224), Prob: 0.0000
+Token: '(it' (ID: 13338), Prob: 0.0000
+Token: ' Winter' (ID: 20101), Prob: 0.0000
+Token: ' Battle' (ID: 16115), Prob: 0.0000
+Token: '"It' (ID: 12077), Prob: 0.0000
+Token: ' Night' (ID: 12826), Prob: 0.0000
+Token: ' England' (ID: 9448), Prob: 0.0000
+Token: ' Me' (ID: 2157), Prob: 0.0000
+Token: ' Us' (ID: 3985), Prob: 0.0000
+Token: ' This' (ID: 1096), Prob: 0.0000
+Token: ' Italy' (ID: 15344), Prob: 0.0000
+Token: ' Prop' (ID: 3911), Prob: 0.0000
+Token: ' Its' (ID: 11445), Prob: 0.0000
+Token: ' Paris' (ID: 12095), Prob: 0.0000
+Token: ' W' (ID: 467), Prob: 0.0000
+Token: ' Water' (ID: 9959), Prob: 0.0000
+Token: ' Mars' (ID: 21048), Prob: 0.0000
+Token: ' Heat' (ID: 26070), Prob: 0.0000
+Token: ' Feeling' (ID: 73558), Prob: 0.0000
+Token: ' a' (ID: 264), Prob: 0.0000
+Token: ' Summer' (ID: 18836), Prob: 0.0000
+Token: ' That' (ID: 2938), Prob: 0.0000
+Token: ' Teen' (ID: 23257), Prob: 0.0000
+Token: ' Italia' (ID: 52122), Prob: 0.0000
+Token: ' You' (ID: 1446), Prob: 0.0000
+Token: ' Everything' (ID: 20094), Prob: 0.0000
+Token: ' A' (ID: 362), Prob: 0.0000
+Token: ' Tomorrow' (ID: 54996), Prob: 0.0000
+Token: '(It' (ID: 62296), Prob: 0.0000
+Token: ' Wat' (ID: 20693), Prob: 0.0000
+Token: ' Days' (ID: 21192), Prob: 0.0000
+Token: ' Autumn' (ID: 59802), Prob: 0.0000
+Token: ' Murder' (ID: 51383), Prob: 0.0000
+Token: ' Midnight' (ID: 63580), Prob: 0.0000
+Token: ' T' (ID: 350), Prob: 0.0000
+Token: ' Sp' (ID: 3089), Prob: 0.0000
+Token: '[it' (ID: 57196), Prob: 0.0000
+Token: 'IT' (ID: 952), Prob: 0.0000
+Token: ' Fire' (ID: 6647), Prob: 0.0000
+Token: ' Wed' (ID: 6521), Prob: 0.0000
+Token: ' Times' (ID: 8523), Prob: 0.0000
+Token: ' Blood' (ID: 20070), Prob: 0.0000
+Token: ' Mid' (ID: 13699), Prob: 0.0000
+Token: ' Madness' (ID: 70328), Prob: 0.0000
+Token: ' Tide' (ID: 71016), Prob: 0.0000
+Token: ' What' (ID: 3555), Prob: 0.0000
+Token: ' I' (ID: 358), Prob: 0.0000
+Token: ' He' (ID: 1260), Prob: 0.0000
+Token: ' Nothing' (ID: 12064), Prob: 0.0000
+Token: ' Witch' (ID: 38350), Prob: 0.0000
+Token: ' Everywhere' (ID: 97225), Prob: 0.0000
+Token: ' Seasons' (ID: 67200), Prob: 0.0000
+Token: ' ITV' (ID: 93355), Prob: 0.0000
+Token: ' She' (ID: 2932), Prob: 0.0000
+Token: ' Town' (ID: 13971), Prob: 0.0000
+Token: ' Scotland' (ID: 19085), Prob: 0.0000
+Token: ' Land' (ID: 11426), Prob: 0.0000
+Token: ' H' (ID: 472), Prob: 0.0000
+Token: ' One' (ID: 3776), Prob: 0.0000
+Token: ' Hell' (ID: 23887), Prob: 0.0000
+Token: ' Crime' (ID: 23900), Prob: 0.0000
+Token: ' Ian' (ID: 28235), Prob: 0.0000
+Token: ' Het' (ID: 33166), Prob: 0.0000
+Token: ' Hunger' (ID: 66536), Prob: 0.0000
 
 == Ranked Concepts (Clusters) ==
-Rank 1 | Centroid: ' characters' | Score: 0.3926
-  Tokens: [' characters', ' character']
-Rank 2 | Centroid: ' names' | Score: 0.1050
-  Tokens: [' names', ' name', ' titles', ' initials']
-Rank 3 | Centroid: ' characteristics' | Score: 0.0859
-  Tokens: [' traits', ' characteristics', ' features', ' attributes', ' properties', ' qualities']
-Rank 4 | Centroid: ' abilities' | Score: 0.0408
-  Tokens: [' actions', ' strengths', ' choices', ' skills', ' abilities', ' powers']
-Rank 5 | Centroid: ' roles' | Score: 0.0239
-  Tokens: [' roles', ' role']
-Rank 6 | Centroid: ' siblings' | Score: 0.0214
-  Tokens: [' parents', ' family', ' children', ' ancestors', ' members', ' siblings', ' friends']
-Rank 7 | Centroid: ' main' | Score: 0.0160
-  Tokens: [' main', ' two', ' primary', ' physical', ' inner', ' first', ' major']
-Rank 8 | Centroid: ' motivations' | Score: 0.0149
-  Tokens: [' motives', ' motivations', ' goals', ' intentions', ' interests']
-Rank 9 | Centroid: ' emotions' | Score: 0.0120
-  Tokens: [' emotions', ' feelings', ' gestures']
-Rank 10 | Centroid: ' story' | Score: 0.0099
-  Tokens: [' stories', ' story', ' plot', ' narrative']
-Rank 11 | Centroid: ' voice' | Score: 0.0092
-  Tokens: [' voices', ' dialogue', ' voice']
-Rank 12 | Centroid: ' personality' | Score: 0.0074
-  Tokens: [' personalities', ' personality', ' personal', ' emotional']
-Rank 13 | Centroid: ' words' | Score: 0.0067
-  Tokens: [' lines', ' points', ' objects', ' words', ' letters']
-Rank 14 | Centroid: ' relationships' | Score: 0.0059
-  Tokens: [' relationships', ' interactions', ' relationship']
-Rank 15 | Centroid: ' genders' | Score: 0.0054
-  Tokens: [' professions', ' gender', ' genders']
-Rank 16 | Centroid: ' perspectives' | Score: 0.0052
-  Tokens: [' perspectives', ' perspective', ' appearances', ' appearance']
-Rank 17 | Centroid: ' protagonists' | Score: 0.0052
-  Tokens: [' protagonists', ' protagonist']
-Rank 18 | Centroid: ' eyes' | Score: 0.0048
-  Tokens: [' hands', ' faces', ' eyes']
-Rank 19 | Centroid: ' identities' | Score: 0.0043
-  Tokens: [' identities', ' identity']
-Rank 20 | Centroid: ' lives' | Score: 0.0042
-  Tokens: [' lives', ' life']
-Rank 21 | Centroid: ' origins' | Score: 0.0037
-  Tokens: [' origins', ' background', ' origin']
-Rank 22 | Centroid: ' ideas' | Score: 0.0036
-  Tokens: [' ideas', ' thoughts', ' experiences']
-Rank 23 | Centroid: ' descriptions' | Score: 0.0030
-  Tokens: [' descriptions', ' expressions']
-Rank 24 | Centroid: ' age' | Score: 0.0028
-  Tokens: [' age', ' species']
-Rank 25 | Centroid: ' works' | Score: 0.0017
-  Tokens: [' works', ' acts']
-Rank 26 | Centroid: ' possessions' | Score: 0.0012
-  Tokens: [' possessions']
-Rank 27 | Centroid: ' types' | Score: 0.0011
-  Tokens: [' types']
-Rank 28 | Centroid: ' details' | Score: 0.0011
-  Tokens: [' details']
-Rank 29 | Centroid: ' themes' | Score: 0.0007
-  Tokens: [' themes']
+Rank 1 | Centroid: ' It' | Score: 1.0000
+  Tokens: [' It', ' it', 'It', '_it', '-it', '\tIt', '.it', '\tit', "'It", ',it', '.It', '(it', '"It', '(It', '[it']
+Rank 2 | Centroid: 'IT' | Score: 0.0000
+  Tokens: ['it', ' IT', 'IT']
+Rank 3 | Centroid: ' Water' | Score: 0.0000
+  Tokens: [' War', ' Prop', ' Water', ' Wat', ' Wed', ' Witch']
+Rank 4 | Centroid: ' Everything' | Score: 0.0000
+  Tokens: [' Things', ' Everything', ' Nothing', ' Everywhere']
+Rank 5 | Centroid: ' the' | Score: 0.0000
+  Tokens: [' the', ' The', ' W', ' a', ' A', ' T', ' Sp', ' I', ' H']
+Rank 6 | Centroid: ' Love' | Score: 0.0000
+  Tokens: [' Love', ' Life', ' Town', ' Land']
+Rank 7 | Centroid: ' Days' | Score: 0.0000
+  Tokens: [' Time', ' Day', ' Days', ' Times']
+Rank 8 | Centroid: ' England' | Score: 0.0000
+  Tokens: [' London', ' Ireland', ' Britain', ' England', ' Italy', ' Paris', ' Italia', ' Scotland', ' Ian']
+Rank 9 | Centroid: ' This' | Score: 0.0000
+  Tokens: [' Now', ' Me', ' Us', ' This', ' Its', ' That', ' You', ' What', ' One']
+Rank 10 | Centroid: ' Murder' | Score: 0.0000
+  Tokens: [' Battle', ' Feeling', ' Teen', ' Murder', ' Fire', ' Blood', ' Madness', ' Crime']
+Rank 11 | Centroid: ' Summer' | Score: 0.0000
+  Tokens: [' Winter', ' Summer', ' Autumn', ' Seasons']
+Rank 12 | Centroid: ' Midnight' | Score: 0.0000
+  Tokens: [' Night', ' Tomorrow', ' Midnight', ' Mid']
+Rank 13 | Centroid: ' Heat' | Score: 0.0000
+  Tokens: [' Heat', ' Hell', ' Het', ' Hunger']
+Rank 14 | Centroid: ' Mars' | Score: 0.0000
+  Tokens: [' Mars']
+Rank 15 | Centroid: ' He' | Score: 0.0000
+  Tokens: [' He', ' She']
+Rank 16 | Centroid: ' Tide' | Score: 0.0000
+  Tokens: [' Tide']
+Rank 17 | Centroid: ' ITV' | Score: 0.0000
+  Tokens: [' ITV']
 
 **Chosen Concept:** Rank 1

@@ -1,0 +1,125 @@
+--- Step 152 Log ---
+
+== Filtered Candidates ==
+Token: ' M' (ID: 386), Prob: 1.0000
+Token: ' Mo' (ID: 6050), Prob: 0.0000
+Token: ' Mol' (ID: 32418), Prob: 0.0000
+Token: ' S' (ID: 328), Prob: 0.0000
+Token: ' Mob' (ID: 34906), Prob: 0.0000
+Token: 'M' (ID: 44), Prob: 0.0000
+Token: ' D' (ID: 422), Prob: 0.0000
+Token: '_M' (ID: 1245), Prob: 0.0000
+Token: ' Man' (ID: 2363), Prob: 0.0000
+Token: ' mole' (ID: 34651), Prob: 0.0000
+Token: ' C' (ID: 356), Prob: 0.0000
+Token: ' Mile' (ID: 38597), Prob: 0.0000
+Token: ' Maze' (ID: 65091), Prob: 0.0000
+Token: ' Mall' (ID: 31398), Prob: 0.0000
+Token: ' Moose' (ID: 68128), Prob: 0.0000
+Token: ' Mal' (ID: 8394), Prob: 0.0000
+Token: ' W' (ID: 467), Prob: 0.0000
+Token: ' H' (ID: 472), Prob: 0.0000
+Token: ' Mouse' (ID: 17721), Prob: 0.0000
+Token: ' P' (ID: 393), Prob: 0.0000
+Token: ' K' (ID: 730), Prob: 0.0000
+Token: ' L' (ID: 444), Prob: 0.0000
+Token: ' B' (ID: 425), Prob: 0.0000
+Token: ' Mold' (ID: 54163), Prob: 0.0000
+Token: ' T' (ID: 350), Prob: 0.0000
+Token: ' MO' (ID: 11418), Prob: 0.0000
+Token: ' Black' (ID: 5235), Prob: 0.0000
+Token: ' Mor' (ID: 8446), Prob: 0.0000
+Token: ' Mass' (ID: 9167), Prob: 0.0000
+Token: ' Mug' (ID: 63474), Prob: 0.0000
+Token: ' R' (ID: 431), Prob: 0.0000
+Token: ' G' (ID: 479), Prob: 0.0000
+Token: ' Moss' (ID: 43510), Prob: 0.0000
+Token: ' Mother' (ID: 21043), Prob: 0.0000
+Token: ' Moo' (ID: 81996), Prob: 0.0000
+Token: ' N' (ID: 451), Prob: 0.0000
+Token: ' V' (ID: 647), Prob: 0.0000
+Token: ' Re' (ID: 1032), Prob: 0.0000
+Token: ' Movie' (ID: 13944), Prob: 0.0000
+Token: ' Male' (ID: 19396), Prob: 0.0000
+Token: ' A' (ID: 362), Prob: 0.0000
+Token: ' Moon' (ID: 17330), Prob: 0.0000
+Token: ' Mach' (ID: 18294), Prob: 0.0000
+Token: ' The' (ID: 576), Prob: 0.0000
+Token: ' Mystery' (ID: 48005), Prob: 0.0000
+Token: ' In' (ID: 758), Prob: 0.0000
+Token: ' Most' (ID: 7496), Prob: 0.0000
+Token: ' Muse' (ID: 50008), Prob: 0.0000
+Token: ' Molly' (ID: 57400), Prob: 0.0000
+Token: ' Mafia' (ID: 80895), Prob: 0.0000
+Token: ' Mam' (ID: 47769), Prob: 0.0000
+Token: ' Mine' (ID: 30683), Prob: 0.0000
+Token: ' Wall' (ID: 9736), Prob: 0.0000
+Token: ' Moh' (ID: 19822), Prob: 0.0000
+Token: ' Mort' (ID: 22031), Prob: 0.0000
+Token: ' Hollow' (ID: 48693), Prob: 0.0000
+Token: ' O' (ID: 506), Prob: 0.0000
+Token: ' U' (ID: 547), Prob: 0.0000
+Token: ' Ch' (ID: 910), Prob: 0.0000
+Token: ' Mod' (ID: 5650), Prob: 0.0000
+Token: '	M' (ID: 9209), Prob: 0.0000
+Token: ' F' (ID: 434), Prob: 0.0000
+Token: ' J' (ID: 619), Prob: 0.0000
+Token: ' Other' (ID: 6944), Prob: 0.0000
+Token: ' Mel' (ID: 10978), Prob: 0.0000
+Token: ' Mail' (ID: 14874), Prob: 0.0000
+Token: ' Mun' (ID: 27882), Prob: 0.0000
+Token: ' More' (ID: 4398), Prob: 0.0000
+Token: ' Wh' (ID: 1232), Prob: 0.0000
+Token: ' Machine' (ID: 12960), Prob: 0.0000
+Token: ' Cover' (ID: 17757), Prob: 0.0000
+Token: ' Mask' (ID: 19924), Prob: 0.0000
+Token: ' Tale' (ID: 54348), Prob: 0.0000
+Token: ' Mentor' (ID: 91191), Prob: 0.0000
+Token: ' Double' (ID: 7093), Prob: 0.0000
+Token: ' Dark' (ID: 12258), Prob: 0.0000
+Token: ' E' (ID: 468), Prob: 0.0000
+Token: ' Mon' (ID: 3128), Prob: 0.0000
+Token: ' Model' (ID: 4903), Prob: 0.0000
+Token: ' m' (ID: 296), Prob: 0.0000
+Token: ' I' (ID: 358), Prob: 0.0000
+Token: ' St' (ID: 794), Prob: 0.0000
+
+== Ranked Concepts (Clusters) ==
+Rank 1 | Centroid: ' M' | Score: 1.0000
+  Tokens: [' M', 'M', '_M', '\tM', ' m']
+Rank 2 | Centroid: ' MO' | Score: 0.0000
+  Tokens: [' Mo', ' Mob', ' Moose', ' MO', ' Moo', ' Moon', ' Moh']
+Rank 3 | Centroid: ' D' | Score: 0.0000
+  Tokens: [' S', ' D', ' C', ' W', ' H', ' P', ' K', ' L', ' B', ' T', ' R', ' G', ' N', ' V', ' A', ' The', ' In', ' O', ' U', ' F', ' J', ' E', ' I']
+Rank 4 | Centroid: ' Molly' | Score: 0.0000
+  Tokens: [' Mol', ' mole', ' Mold', ' Molly']
+Rank 5 | Centroid: ' Mail' | Score: 0.0000
+  Tokens: [' Mile', ' Maze', ' Mall', ' Mug', ' Mystery', ' Muse', ' Mafia', ' Mam', ' Mail', ' Mentor']
+Rank 6 | Centroid: ' Mor' | Score: 0.0000
+  Tokens: [' Mal', ' Mor', ' Mort', ' Mel']
+Rank 7 | Centroid: ' Man' | Score: 0.0000
+  Tokens: [' Man', ' Mine', ' Model']
+Rank 8 | Centroid: ' Movie' | Score: 0.0000
+  Tokens: [' Mouse', ' Mother', ' Movie']
+Rank 9 | Centroid: ' More' | Score: 0.0000
+  Tokens: [' Black', ' Most', ' Other', ' More', ' Double', ' Dark']
+Rank 10 | Centroid: ' St' | Score: 0.0000
+  Tokens: [' Re', ' Ch', ' Wh', ' St']
+Rank 11 | Centroid: ' Moss' | Score: 0.0000
+  Tokens: [' Moss', ' Hollow']
+Rank 12 | Centroid: ' Mass' | Score: 0.0000
+  Tokens: [' Mass', ' Mask']
+Rank 13 | Centroid: ' Mach' | Score: 0.0000
+  Tokens: [' Mach', ' Machine']
+Rank 14 | Centroid: ' Wall' | Score: 0.0000
+  Tokens: [' Wall', ' Cover']
+Rank 15 | Centroid: ' Mun' | Score: 0.0000
+  Tokens: [' Mun', ' Mon']
+Rank 16 | Centroid: ' Male' | Score: 0.0000
+  Tokens: [' Male']
+Rank 17 | Centroid: ' Mod' | Score: 0.0000
+  Tokens: [' Mod']
+Rank 18 | Centroid: ' Tale' | Score: 0.0000
+  Tokens: [' Tale']
+
+**Chosen Concept:** Rank 1

@@ -1,162 +1,97 @@
 --- Step 111 Log ---
 
 == Filtered Candidates ==
-Token: ' place' (ID: 1992), Prob: 0.6758
-Token: ' new' (ID: 501), Prob: 0.1504
-Token: ' sanctuary' (ID: 50539), Prob: 0.0337
-Token: ' symbol' (ID: 7735), Prob: 0.0204
-Token: ' space' (ID: 3550), Prob: 0.0159
-Token: ' home' (ID: 2114), Prob: 0.0062
-Token: ' refuge' (ID: 14510), Prob: 0.0062
-Token: ' quiet' (ID: 11340), Prob: 0.0058
-Token: ' permanent' (ID: 15330), Prob: 0.0055
-Token: ' part' (ID: 949), Prob: 0.0052
-Token: ' safe' (ID: 6092), Prob: 0.0049
-Token: ' different' (ID: 2155), Prob: 0.0045
-Token: ' peaceful' (ID: 25650), Prob: 0.0043
-Token: ' memorial' (ID: 37917), Prob: 0.0033
-Token: ' memory' (ID: 4938), Prob: 0.0031
-Token: ' second' (ID: 2086), Prob: 0.0026
-Token: ' separate' (ID: 8651), Prob: 0.0023
-Token: ' temporary' (ID: 13340), Prob: 0.0019
-Token: ' source' (ID: 2530), Prob: 0.0015
-Token: ' living' (ID: 5382), Prob: 0.0013
-Token: ' destination' (ID: 9106), Prob: 0.0013
-Token: ' symbolic' (ID: 35296), Prob: 0.0013
-Token: ' personal' (ID: 4345), Prob: 0.0011
-Token: ' normal' (ID: 4622), Prob: 0.0010
-Token: ' dream' (ID: 7904), Prob: 0.0009
-Token: ' legacy' (ID: 19588), Prob: 0.0009
-Token: ' metaphor' (ID: 45350), Prob: 0.0008
-Token: ' familiar' (ID: 11285), Prob: 0.0007
-Token: ' beacon' (ID: 51302), Prob: 0.0007
-Token: ' small' (ID: 2613), Prob: 0.0006
-Token: ' site' (ID: 2747), Prob: 0.0006
-Token: ' reflection' (ID: 21844), Prob: 0.0006
-Token: ' shelter' (ID: 22906), Prob: 0.0006
-Token: ' life' (ID: 2272), Prob: 0.0005
-Token: ' house' (ID: 3753), Prob: 0.0005
-Token: ' shared' (ID: 6094), Prob: 0.0005
-Token: ' bridge' (ID: 14164), Prob: 0.0005
-Token: ' sacred' (ID: 31342), Prob: 0.0005
-Token: ' story' (ID: 3364), Prob: 0.0005
-Token: ' community' (ID: 3942), Prob: 0.0004
-Token: ' healing' (ID: 21052), Prob: 0.0004
-Token: ' natural' (ID: 5810), Prob: 0.0004
-Token: ' family' (ID: 2997), Prob: 0.0003
-Token: ' location' (ID: 3728), Prob: 0.0003
-Token: ' scene' (ID: 6109), Prob: 0.0003
-Token: ' lasting' (ID: 28769), Prob: 0.0003
-Token: ' safer' (ID: 29449), Prob: 0.0003
-Token: ' welcoming' (ID: 35287), Prob: 0.0003
-Token: ' renewed' (ID: 35546), Prob: 0.0003
-Token: ' world' (ID: 1879), Prob: 0.0003
-Token: ' meaningful' (ID: 22414), Prob: 0.0003
-Token: ' celebration' (ID: 24916), Prob: 0.0003
-Token: ' private' (ID: 869), Prob: 0.0003
-Token: ' center' (ID: 4126), Prob: 0.0003
-Token: ' kind' (ID: 3093), Prob: 0.0003
-Token: ' city' (ID: 3283), Prob: 0.0003
-Token: ' magical' (ID: 23702), Prob: 0.0002
-Token: ' museum' (ID: 23971), Prob: 0.0002
-Token: ' better' (ID: 2664), Prob: 0.0002
-Token: ' beautiful' (ID: 6233), Prob: 0.0002
-Token: ' gift' (ID: 8189), Prob: 0.0002
-Token: ' warm' (ID: 8205), Prob: 0.0002
-Token: ' spiritual' (ID: 17849), Prob: 0.0002
-Token: ' sustainable' (ID: 21803), Prob: 0.0002
-Token: ' peace' (ID: 8919), Prob: 0.0002
-Token: ' legend' (ID: 13016), Prob: 0.0002
-Token: ' neutral' (ID: 20628), Prob: 0.0002
-Token: ' recurring' (ID: 45250), Prob: 0.0002
-Token: ' final' (ID: 1590), Prob: 0.0002
-Token: ' reflective' (ID: 51728), Prob: 0.0002
-Token: ' future' (ID: 3853), Prob: 0.0002
-Token: ' testament' (ID: 60200), Prob: 0.0002
-Token: ' one' (ID: 825), Prob: 0.0002
-Token: ' piece' (ID: 6573), Prob: 0.0002
-Token: ' cultural' (ID: 12752), Prob: 0.0002
-Token: ' blank' (ID: 10113), Prob: 0.0002
-Token: ' silent' (ID: 21059), Prob: 0.0002
-Token: ' reminder' (ID: 26528), Prob: 0.0002
-Token: ' continuation' (ID: 41171), Prob: 0.0002
-Token: ' free' (ID: 1910), Prob: 0.0001
-Token: ' common' (ID: 4185), Prob: 0.0001
-Token: ' setting' (ID: 6243), Prob: 0.0001
-Token: ' continuing' (ID: 14354), Prob: 0.0001
-Token: ' landscape' (ID: 18414), Prob: 0.0001
-Token: ' shrine' (ID: 73548), Prob: 0.0001
-Token: ' spring' (ID: 10464), Prob: 0.0001
-Token: ' special' (ID: 3281), Prob: 0.0001
-Token: ' retreat' (ID: 30014), Prob: 0.0001
-Token: ' monument' (ID: 36897), Prob: 0.0001
-Token: ' character' (ID: 3668), Prob: 0.0001
-Token: ' land' (ID: 4268), Prob: 0.0001
-Token: ' garden' (ID: 13551), Prob: 0.0001
-Token: ' gathering' (ID: 22888), Prob: 0.0001
-Token: ' resting' (ID: 40119), Prob: 0.0001
-Token: ' lifelong' (ID: 50163), Prob: 0.0001
-Token: ' rem' (ID: 1299), Prob: 0.0001
-Token: ' rest' (ID: 2732), Prob: 0.0001
+Token: ' The' (ID: 576), Prob: 1.0000
+Token: ' Crown' (ID: 28643), Prob: 0.0001
+Token: 'The' (ID: 785), Prob: 0.0000
+Token: ' the' (ID: 279), Prob: 0.0000
+Token: ' THE' (ID: 3168), Prob: 0.0000
+Token: ' T' (ID: 350), Prob: 0.0000
+Token: '.The' (ID: 11568), Prob: 0.0000
+Token: ' A' (ID: 362), Prob: 0.0000
+Token: ' In' (ID: 758), Prob: 0.0000
+Token: ' Time' (ID: 4120), Prob: 0.0000
+Token: ' Crow' (ID: 26893), Prob: 0.0000
+Token: ' This' (ID: 1096), Prob: 0.0000
+Token: ' That' (ID: 2938), Prob: 0.0000
+Token: ' Top' (ID: 6909), Prob: 0.0000
+Token: ' Prince' (ID: 19351), Prob: 0.0000
+Token: ' Star' (ID: 7679), Prob: 0.0000
+Token: ' There' (ID: 2619), Prob: 0.0000
+Token: ' House' (ID: 4678), Prob: 0.0000
+Token: ' He' (ID: 1260), Prob: 0.0000
+Token: ' One' (ID: 3776), Prob: 0.0000
+Token: ' Empire' (ID: 20448), Prob: 0.0000
+Token: ' Coron' (ID: 47083), Prob: 0.0000
+Token: ' Title' (ID: 10869), Prob: 0.0000
+Token: ' I' (ID: 358), Prob: 0.0000
+Token: ' TV' (ID: 5883), Prob: 0.0000
+Token: ' Queen' (ID: 16259), Prob: 0.0000
+Token: ' D' (ID: 422), Prob: 0.0000
+Token: ' King' (ID: 6210), Prob: 0.0000
+Token: ' Royal' (ID: 16194), Prob: 0.0000
+Token: ' BBC' (ID: 18096), Prob: 0.0000
+Token: ' Revenge' (ID: 80549), Prob: 0.0000
+Token: ' What' (ID: 3555), Prob: 0.0000
+Token: ' Theatre' (ID: 26221), Prob: 0.0000
+Token: ' Thames' (ID: 81188), Prob: 0.0000
+Token: ' Th' (ID: 663), Prob: 0.0000
+Token: ' It' (ID: 1084), Prob: 0.0000
+Token: ' United' (ID: 3639), Prob: 0.0000
+Token: ' Kingdom' (ID: 15072), Prob: 0.0000
+Token: ' ITV' (ID: 93355), Prob: 0.0000
+Token: ' and' (ID: 323), Prob: 0.0000
+Token: ' Another' (ID: 13293), Prob: 0.0000
+Token: ' For' (ID: 1752), Prob: 0.0000
+Token: ' Her' (ID: 6252), Prob: 0.0000
+Token: ' Ten' (ID: 17695), Prob: 0.0000
+Token: ' B' (ID: 425), Prob: 0.0000
+Token: ' R' (ID: 431), Prob: 0.0000
+Token: ' To' (ID: 2014), Prob: 0.0000
+Token: '-The' (ID: 65006), Prob: 0.0000
+Token: ' Cor' (ID: 4463), Prob: 0.0000
+Token: ' Team' (ID: 7909), Prob: 0.0000
+Token: ' Series' (ID: 11131), Prob: 0.0000
+Token: ' Sherlock' (ID: 60626), Prob: 0.0000
+Token: ' P' (ID: 393), Prob: 0.0000
+Token: ' His' (ID: 5301), Prob: 0.0000
+Token: ' Other' (ID: 6944), Prob: 0.0000
+Token: ' An' (ID: 1527), Prob: 0.0000
+Token: ' Theo' (ID: 84137), Prob: 0.0000
+Token: ' Victoria' (ID: 22417), Prob: 0.0000
 
 == Ranked Concepts (Clusters) ==
-Rank 1 | Centroid: ' location' | Score: 0.6797
-  Tokens: [' place', ' source', ' destination', ' site', ' location', ' center', ' setting']
-Rank 2 | Centroid: ' different' | Score: 0.1611
-  Tokens: [' new', ' different', ' second', ' separate', ' small', ' final', ' one', ' common']
-Rank 3 | Centroid: ' refuge' | Score: 0.0408
-  Tokens: [' sanctuary', ' refuge', ' shelter', ' retreat']
-Rank 4 | Centroid: ' spiritual' | Score: 0.0236
-  Tokens: [' symbol', ' symbolic', ' metaphor', ' sacred', ' magical', ' spiritual', ' cultural']
-Rank 5 | Centroid: ' space' | Score: 0.0160
-  Tokens: [' space', ' land']
-Rank 6 | Centroid: ' quiet' | Score: 0.0108
-  Tokens: [' quiet', ' peaceful', ' warm', ' peace', ' blank', ' silent']
-Rank 7 | Centroid: ' permanent' | Score: 0.0074
-  Tokens: [' permanent', ' temporary']
-Rank 8 | Centroid: ' house' | Score: 0.0069
-  Tokens: [' home', ' house', ' garden']
-Rank 9 | Centroid: ' part' | Score: 0.0056
-  Tokens: [' part', ' kind', ' piece']
-Rank 10 | Centroid: ' safer' | Score: 0.0054
-  Tokens: [' safe', ' safer', ' better']
-Rank 11 | Centroid: ' monument' | Score: 0.0049
-  Tokens: [' memorial', ' beacon', ' museum', ' gift', ' testament', ' shrine', ' monument']
-Rank 12 | Centroid: ' memory' | Score: 0.0031
-  Tokens: [' memory']
-Rank 13 | Centroid: ' personal' | Score: 0.0030
-  Tokens: [' personal', ' normal', ' natural', ' private', ' neutral', ' special']
-Rank 14 | Centroid: ' community' | Score: 0.0022
-  Tokens: [' story', ' community', ' family', ' scene', ' world', ' city', ' landscape']
-Rank 15 | Centroid: ' legend' | Score: 0.0020
-  Tokens: [' dream', ' legacy', ' legend']
-Rank 16 | Centroid: ' living' | Score: 0.0018
-  Tokens: [' living', ' life']
-Rank 17 | Centroid: ' continuing' | Score: 0.0012
-  Tokens: [' lasting', ' renewed', ' recurring', ' continuation', ' continuing', ' lifelong']
-Rank 18 | Centroid: ' welcoming' | Score: 0.0010
-  Tokens: [' healing', ' welcoming', ' celebration']
-Rank 19 | Centroid: ' familiar' | Score: 0.0009
-  Tokens: [' familiar', ' beautiful']
-Rank 20 | Centroid: ' reflection' | Score: 0.0008
-  Tokens: [' reflection', ' reflective']
-Rank 21 | Centroid: ' shared' | Score: 0.0007
-  Tokens: [' shared', ' free']
-Rank 22 | Centroid: ' bridge' | Score: 0.0005
-  Tokens: [' bridge']
-Rank 23 | Centroid: ' meaningful' | Score: 0.0005
-  Tokens: [' meaningful', ' sustainable']
-Rank 24 | Centroid: ' reminder' | Score: 0.0003
-  Tokens: [' reminder', ' rem']
-Rank 25 | Centroid: ' resting' | Score: 0.0002
-  Tokens: [' resting', ' rest']
-Rank 26 | Centroid: ' future' | Score: 0.0002
-  Tokens: [' future']
-Rank 27 | Centroid: ' spring' | Score: 0.0001
-  Tokens: [' spring']
-Rank 28 | Centroid: ' gathering' | Score: 0.0001
-  Tokens: [' gathering']
-Rank 29 | Centroid: ' character' | Score: 0.0001
-  Tokens: [' character']
+Rank 1 | Centroid: ' The' | Score: 1.0000
+  Tokens: [' The', 'The', ' THE', '.The', '-The']
+Rank 2 | Centroid: ' Coron' | Score: 0.0001
+  Tokens: [' Crown', ' Crow', ' Coron', ' Cor']
+Rank 3 | Centroid: ' the' | Score: 0.0000
+  Tokens: [' the', ' T', ' A', ' I', ' D', ' and', ' B', ' R', ' P']
+Rank 4 | Centroid: ' This' | Score: 0.0000
+  Tokens: [' In', ' This', ' That', ' There', ' What', ' It', ' For', ' To', ' An']
+Rank 5 | Centroid: ' Time' | Score: 0.0000
+  Tokens: [' Time', ' House', ' Title', ' Team', ' Series']
+Rank 6 | Centroid: ' King' | Score: 0.0000
+  Tokens: [' Prince', ' Queen', ' King', ' Royal', ' Kingdom']
+Rank 7 | Centroid: ' Victoria' | Score: 0.0000
+  Tokens: [' Empire', ' Revenge', ' Victoria']
+Rank 8 | Centroid: ' ITV' | Score: 0.0000
+  Tokens: [' TV', ' BBC', ' ITV']
+Rank 9 | Centroid: ' Star' | Score: 0.0000
+  Tokens: [' Star', ' United']
+Rank 10 | Centroid: ' Top' | Score: 0.0000
+  Tokens: [' Top', ' Ten']
+Rank 11 | Centroid: ' Another' | Score: 0.0000
+  Tokens: [' One', ' Another', ' Other']
+Rank 12 | Centroid: ' His' | Score: 0.0000
+  Tokens: [' He', ' Her', ' His']
+Rank 13 | Centroid: ' Theatre' | Score: 0.0000
+  Tokens: [' Theatre', ' Sherlock']
+Rank 14 | Centroid: ' Thames' | Score: 0.0000
+  Tokens: [' Thames']
+Rank 15 | Centroid: ' Th' | Score: 0.0000
+  Tokens: [' Th']
+Rank 16 | Centroid: ' Theo' | Score: 0.0000
+  Tokens: [' Theo']
 
 **Chosen Concept:** Rank 1

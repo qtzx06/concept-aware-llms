@@ -1,0 +1,129 @@
+--- Step 90 Log ---
+
+== Filtered Candidates ==
+Token: ' Du' (ID: 15687), Prob: 1.0000
+Token: ' the' (ID: 279), Prob: 0.0015
+Token: 'Du' (ID: 42074), Prob: 0.0001
+Token: ' Lu' (ID: 18360), Prob: 0.0000
+Token: ' Li' (ID: 14511), Prob: 0.0000
+Token: ' Wang' (ID: 28246), Prob: 0.0000
+Token: ' Tang' (ID: 40362), Prob: 0.0000
+Token: ' Su' (ID: 16931), Prob: 0.0000
+Token: ' Zhang' (ID: 36020), Prob: 0.0000
+Token: ' Gu' (ID: 4570), Prob: 0.0000
+Token: ' Liu' (ID: 37705), Prob: 0.0000
+Token: ' Fu' (ID: 29253), Prob: 0.0000
+Token: ' Ma' (ID: 11331), Prob: 0.0000
+Token: ' C' (ID: 356), Prob: 0.0000
+Token: ' du' (ID: 3845), Prob: 0.0000
+Token: ' a' (ID: 264), Prob: 0.0000
+Token: ' Hu' (ID: 21793), Prob: 0.0000
+Token: ' Zhu' (ID: 67744), Prob: 0.0000
+Token: ' Tu' (ID: 28649), Prob: 0.0000
+Token: ' D' (ID: 422), Prob: 0.0000
+Token: ' his' (ID: 806), Prob: 0.0000
+Token: ' Han' (ID: 20644), Prob: 0.0000
+Token: ' Yu' (ID: 27273), Prob: 0.0000
+Token: ' X' (ID: 1599), Prob: 0.0000
+Token: ' Zhou' (ID: 66827), Prob: 0.0000
+Token: ' Xu' (ID: 56414), Prob: 0.0000
+Token: ' Wu' (ID: 36130), Prob: 0.0000
+Token: ' Dong' (ID: 52383), Prob: 0.0000
+Token: ' Qu' (ID: 3406), Prob: 0.0000
+Token: ' Da' (ID: 14235), Prob: 0.0000
+Token: ' Chen' (ID: 24495), Prob: 0.0000
+Token: ' Yang' (ID: 24474), Prob: 0.0000
+Token: ' Xin' (ID: 69661), Prob: 0.0000
+Token: ' Ci' (ID: 31644), Prob: 0.0000
+Token: ' Song' (ID: 18971), Prob: 0.0000
+Token: ' Chang' (ID: 43372), Prob: 0.0000
+Token: ' other' (ID: 1008), Prob: 0.0000
+Token: ' Fan' (ID: 24714), Prob: 0.0000
+Token: ' Wei' (ID: 52448), Prob: 0.0000
+Token: ' Chu' (ID: 61011), Prob: 0.0000
+Token: ' Yuan' (ID: 68884), Prob: 0.0000
+Token: ' T' (ID: 350), Prob: 0.0000
+Token: ' Bu' (ID: 27227), Prob: 0.0000
+Token: ' Jin' (ID: 38511), Prob: 0.0000
+Token: ' DU' (ID: 47055), Prob: 0.0000
+Token: ' its' (ID: 1181), Prob: 0.0000
+Token: ' Conf' (ID: 14974), Prob: 0.0000
+Token: ' He' (ID: 1260), Prob: 0.0000
+Token: ' Yan' (ID: 24213), Prob: 0.0000
+Token: ' Zh' (ID: 33349), Prob: 0.0000
+Token: ' Lin' (ID: 8564), Prob: 0.0000
+Token: ' Sh' (ID: 1417), Prob: 0.0000
+Token: ' Z' (ID: 1863), Prob: 0.0000
+Token: ' Huang' (ID: 58409), Prob: 0.0000
+Token: ' different' (ID: 2155), Prob: 0.0000
+Token: ' Mr' (ID: 4392), Prob: 0.0000
+Token: ' Po' (ID: 13808), Prob: 0.0000
+Token: ' Meng' (ID: 60054), Prob: 0.0000
+Token: ' Chinese' (ID: 8453), Prob: 0.0000
+Token: ' classical' (ID: 28824), Prob: 0.0000
+Token: ' Mao' (ID: 56178), Prob: 0.0000
+Token: ' Sun' (ID: 8059), Prob: 0.0000
+Token: ' Zheng' (ID: 76447), Prob: 0.0000
+Token: ' Lang' (ID: 22463), Prob: 0.0000
+Token: ' later' (ID: 2937), Prob: 0.0000
+Token: ' Xiao' (ID: 65590), Prob: 0.0000
+Token: ' this' (ID: 419), Prob: 0.0000
+Token: ' Mu' (ID: 14787), Prob: 0.0000
+Token: ' Dou' (ID: 17007), Prob: 0.0000
+Token: ' others' (ID: 3800), Prob: 0.0000
+Token: ' ancient' (ID: 13833), Prob: 0.0000
+Token: ' Tao' (ID: 59508), Prob: 0.0000
+Token: ' historical' (ID: 13656), Prob: 0.0000
+Token: ' Ban' (ID: 22730), Prob: 0.0000
+Token: ' Jiang' (ID: 60822), Prob: 0.0000
+Token: ' Bai' (ID: 84908), Prob: 0.0000
+Token: ' their' (ID: 862), Prob: 0.0000
+Token: ' Ch' (ID: 910), Prob: 0.0000
+Token: ' another' (ID: 2441), Prob: 0.0000
+Token: ' Ju' (ID: 21671), Prob: 0.0000
+Token: ' Shi' (ID: 40704), Prob: 0.0000
+Token: ' an' (ID: 458), Prob: 0.0000
+Token: ' Dun' (ID: 28738), Prob: 0.0000
+Token: ' Dao' (ID: 51581), Prob: 0.0000
+
+== Ranked Concepts (Clusters) ==
+Rank 1 | Centroid: ' Du' | Score: 1.0000
+  Tokens: [' Du', 'Du', ' du', ' DU']
+Rank 2 | Centroid: ' the' | Score: 0.0015
+  Tokens: [' the', ' a', ' his', ' its', ' different', ' Mr', ' this', ' their', ' an']
+Rank 3 | Centroid: ' Hu' | Score: 0.0001
+  Tokens: [' Lu', ' Su', ' Gu', ' Fu', ' Hu', ' Tu', ' Bu', ' Mu', ' Ju']
+Rank 4 | Centroid: ' Zhang' | Score: 0.0001
+  Tokens: [' Wang', ' Zhang', ' Liu', ' Zhu', ' Zhou', ' Wu', ' Yang', ' Xin', ' Wei', ' Yuan', ' Jin', ' Yan', ' Huang', ' Zheng', ' Xiao', ' Jiang']
+Rank 5 | Centroid: ' Li' | Score: 0.0000
+  Tokens: [' Li', ' Lin', ' Meng', ' Lang']
+Rank 6 | Centroid: ' Tang' | Score: 0.0000
+  Tokens: [' Tang', ' Conf']
+Rank 7 | Centroid: ' D' | Score: 0.0000
+  Tokens: [' C', ' D', ' X', ' T', ' Z']
+Rank 8 | Centroid: ' Ma' | Score: 0.0000
+  Tokens: [' Ma', ' Da', ' Ci', ' Po']
+Rank 9 | Centroid: ' Yu' | Score: 0.0000
+  Tokens: [' Yu', ' Xu', ' Zh']
+Rank 10 | Centroid: ' Chen' | Score: 0.0000
+  Tokens: [' Chen', ' Chang', ' Chu']
+Rank 11 | Centroid: ' Han' | Score: 0.0000
+  Tokens: [' Han']
+Rank 12 | Centroid: ' Ch' | Score: 0.0000
+  Tokens: [' Qu', ' He', ' Sh', ' Ch']
+Rank 13 | Centroid: ' Dao' | Score: 0.0000
+  Tokens: [' Dong', ' Mao', ' Tao', ' Dao']
+Rank 14 | Centroid: ' ancient' | Score: 0.0000
+  Tokens: [' Song', ' classical', ' Sun', ' ancient', ' historical']
+Rank 15 | Centroid: ' other' | Score: 0.0000
+  Tokens: [' other', ' later', ' others', ' another']
+Rank 16 | Centroid: ' Ban' | Score: 0.0000
+  Tokens: [' Fan', ' Ban', ' Dun']
+Rank 17 | Centroid: ' Bai' | Score: 0.0000
+  Tokens: [' Bai', ' Shi']
+Rank 18 | Centroid: ' Chinese' | Score: 0.0000
+  Tokens: [' Chinese']
+Rank 19 | Centroid: ' Dou' | Score: 0.0000
+  Tokens: [' Dou']
+
+**Chosen Concept:** Rank 1

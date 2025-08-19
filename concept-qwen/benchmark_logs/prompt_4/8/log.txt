@@ -1,0 +1,132 @@
+--- Step 8 Log ---
+
+== Filtered Candidates ==
+Token: ' The' (ID: 576), Prob: 0.4473
+Token: ' Doctor' (ID: 18635), Prob: 0.0087
+Token: ' of' (ID: 315), Prob: 0.0068
+Token: ' East' (ID: 6326), Prob: 0.0068
+Token: ' My' (ID: 3017), Prob: 0.0064
+Token: ' and' (ID: 323), Prob: 0.0053
+Token: ' D' (ID: 422), Prob: 0.0050
+Token: ' Black' (ID: 5235), Prob: 0.0050
+Token: ' A' (ID: 362), Prob: 0.0044
+Token: ' Burn' (ID: 18039), Prob: 0.0041
+Token: ' Sherlock' (ID: 60626), Prob: 0.0041
+Token: ' in' (ID: 304), Prob: 0.0039
+Token: ' House' (ID: 4678), Prob: 0.0030
+Token: ' Star' (ID: 7679), Prob: 0.0030
+Token: ' Out' (ID: 4371), Prob: 0.0028
+Token: ' Love' (ID: 10689), Prob: 0.0028
+Token: ' I' (ID: 358), Prob: 0.0027
+Token: ' as' (ID: 438), Prob: 0.0027
+Token: ' Fire' (ID: 6647), Prob: 0.0027
+Token: ' T' (ID: 350), Prob: 0.0025
+Token: ' High' (ID: 5124), Prob: 0.0025
+Token: ' Life' (ID: 9414), Prob: 0.0025
+Token: ' L' (ID: 444), Prob: 0.0022
+Token: ' H' (ID: 472), Prob: 0.0022
+Token: ' Red' (ID: 3731), Prob: 0.0022
+Token: ' Edge' (ID: 10349), Prob: 0.0022
+Token: ' Heart' (ID: 17965), Prob: 0.0022
+Token: ' W' (ID: 467), Prob: 0.0021
+Token: ' Dr' (ID: 2926), Prob: 0.0021
+Token: ' Happy' (ID: 23355), Prob: 0.0021
+Token: ' Casual' (ID: 48822), Prob: 0.0021
+Token: ' S' (ID: 328), Prob: 0.0019
+Token: ' Big' (ID: 6164), Prob: 0.0019
+Token: ' Victoria' (ID: 22417), Prob: 0.0019
+Token: ' F' (ID: 434), Prob: 0.0018
+Token: ' Good' (ID: 7684), Prob: 0.0018
+Token: ' Blood' (ID: 20070), Prob: 0.0018
+Token: ' War' (ID: 5004), Prob: 0.0017
+Token: ' One' (ID: 3776), Prob: 0.0016
+Token: ' Mr' (ID: 4392), Prob: 0.0016
+Token: ' Em' (ID: 5748), Prob: 0.0016
+Token: ' Blue' (ID: 8697), Prob: 0.0016
+Token: ' Death' (ID: 15911), Prob: 0.0016
+Token: ' Cold' (ID: 23185), Prob: 0.0016
+Token: ' Coron' (ID: 47083), Prob: 0.0016
+Token: ' the' (ID: 279), Prob: 0.0015
+Token: ' In' (ID: 758), Prob: 0.0015
+Token: ' X' (ID: 1599), Prob: 0.0015
+Token: ' Home' (ID: 5379), Prob: 0.0015
+Token: ' BBC' (ID: 18096), Prob: 0.0015
+Token: ' Lost' (ID: 27252), Prob: 0.0015
+Token: ' B' (ID: 425), Prob: 0.0014
+Token: ' New' (ID: 1532), Prob: 0.0014
+Token: ' on' (ID: 389), Prob: 0.0013
+Token: ' G' (ID: 479), Prob: 0.0013
+Token: ' Tr' (ID: 1163), Prob: 0.0013
+Token: ' series' (ID: 4013), Prob: 0.0013
+Token: ' Top' (ID: 6909), Prob: 0.0013
+Token: ' M' (ID: 386), Prob: 0.0013
+Token: ' C' (ID: 356), Prob: 0.0012
+Token: ' R' (ID: 431), Prob: 0.0012
+Token: ' No' (ID: 2308), Prob: 0.0012
+Token: ' South' (ID: 4882), Prob: 0.0012
+Token: ' School' (ID: 6022), Prob: 0.0012
+Token: ' Last' (ID: 7996), Prob: 0.0012
+Token: ' Dark' (ID: 12258), Prob: 0.0012
+Token: ' St' (ID: 794), Prob: 0.0011
+Token: ' Re' (ID: 1032), Prob: 0.0011
+Token: ' Man' (ID: 2363), Prob: 0.0011
+Token: ' Private' (ID: 9679), Prob: 0.0011
+Token: ' Small' (ID: 14994), Prob: 0.0011
+Token: ' Dar' (ID: 15017), Prob: 0.0011
+Token: ' V' (ID: 647), Prob: 0.0010
+Token: ' Men' (ID: 11012), Prob: 0.0010
+Token: ' Ash' (ID: 14595), Prob: 0.0010
+Token: ' Trust' (ID: 16816), Prob: 0.0010
+Token: ' K' (ID: 730), Prob: 0.0010
+Token: ' Revenge' (ID: 80549), Prob: 0.0010
+Token: ' Sh' (ID: 1417), Prob: 0.0009
+Token: ' As' (ID: 1634), Prob: 0.0009
+Token: ' Ant' (ID: 6755), Prob: 0.0009
+Token: ' Law' (ID: 7506), Prob: 0.0009
+Token: ' Four' (ID: 13322), Prob: 0.0009
+Token: ' Three' (ID: 14513), Prob: 0.0009
+Token: ' Attack' (ID: 20790), Prob: 0.0009
+Token: ' Kill' (ID: 26835), Prob: 0.0009
+Token: ' N' (ID: 451), Prob: 0.0009
+
+== Ranked Concepts (Clusters) ==
+Rank 1 | Centroid: ' the' | Score: 0.4707
+  Tokens: [' The', ' of', ' and', ' in', ' as', ' the', ' In', ' on', ' As']
+Rank 2 | Centroid: ' D' | Score: 0.0354
+  Tokens: [' D', ' A', ' I', ' T', ' L', ' H', ' W', ' S', ' F', ' X', ' B', ' G', ' M', ' C', ' R', ' V', ' K', ' N']
+Rank 3 | Centroid: ' Dr' | Score: 0.0135
+  Tokens: [' Doctor', ' Dr', ' Mr', ' Dar']
+Rank 4 | Centroid: ' Victoria' | Score: 0.0123
+  Tokens: [' Sherlock', ' Casual', ' Victoria', ' Coron', ' BBC', ' Ash']
+Rank 5 | Centroid: ' School' | Score: 0.0119
+  Tokens: [' House', ' Love', ' Life', ' Home', ' School', ' Law']
+Rank 6 | Centroid: ' Black' | Score: 0.0116
+  Tokens: [' Black', ' Red', ' Blue', ' Cold', ' Dark']
+Rank 7 | Centroid: ' Small' | Score: 0.0105
+  Tokens: [' High', ' Happy', ' Big', ' Good', ' Private', ' Small']
+Rank 8 | Centroid: ' Fire' | Score: 0.0090
+  Tokens: [' Burn', ' Fire', ' Edge']
+Rank 9 | Centroid: ' South' | Score: 0.0090
+  Tokens: [' East', ' South', ' Trust']
+Rank 10 | Centroid: ' Man' | Score: 0.0085
+  Tokens: [' My', ' Man', ' Men']
+Rank 11 | Centroid: ' Death' | Score: 0.0059
+  Tokens: [' Death', ' Lost', ' Revenge', ' Attack', ' Kill']
+Rank 12 | Centroid: ' Em' | Score: 0.0053
+  Tokens: [' Out', ' Em', ' Ant']
+Rank 13 | Centroid: ' Star' | Score: 0.0047
+  Tokens: [' Star', ' War']
+Rank 14 | Centroid: ' Three' | Score: 0.0046
+  Tokens: [' One', ' No', ' Four', ' Three']
+Rank 15 | Centroid: ' Heart' | Score: 0.0040
+  Tokens: [' Heart', ' Blood']
+Rank 16 | Centroid: ' New' | Score: 0.0039
+  Tokens: [' New', ' Top', ' Last']
+Rank 17 | Centroid: ' St' | Score: 0.0034
+  Tokens: [' Tr', ' St', ' Sh']
+Rank 18 | Centroid: ' Re' | Score: 0.0011
+  Tokens: [' Re']
+Rank 19 | Centroid: ' series' | Score: 0.0001
+  Tokens: [' series']
+
+**Chosen Concept:** Rank 1

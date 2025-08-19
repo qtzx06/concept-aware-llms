@@ -1,0 +1,108 @@
+--- Step 46 Log ---
+
+== Filtered Candidates ==
+Token: ' poetry' (ID: 31249), Prob: 0.9141
+Token: ' poems' (ID: 44219), Prob: 0.0659
+Token: ' poem' (ID: 32794), Prob: 0.0048
+Token: ' poetic' (ID: 75434), Prob: 0.0048
+Token: ' works' (ID: 4278), Prob: 0.0029
+Token: ' Poetry' (ID: 67687), Prob: 0.0029
+Token: ' work' (ID: 975), Prob: 0.0008
+Token: ' literary' (ID: 31365), Prob: 0.0006
+Token: ' Po' (ID: 13808), Prob: 0.0005
+Token: ' poet' (ID: 39260), Prob: 0.0002
+Token: ' style' (ID: 1707), Prob: 0.0001
+Token: ' writings' (ID: 42322), Prob: 0.0001
+Token: ' verses' (ID: 49299), Prob: 0.0001
+Token: ' po' (ID: 3193), Prob: 0.0001
+Token: ' verse' (ID: 32387), Prob: 0.0001
+Token: ' famous' (ID: 11245), Prob: 0.0001
+Token: ' ancient' (ID: 13833), Prob: 0.0001
+Token: ' Li' (ID: 14511), Prob: 0.0001
+Token: ' Songs' (ID: 39100), Prob: 0.0001
+Token: ' Tang' (ID: 40362), Prob: 0.0001
+Token: ' historical' (ID: 13656), Prob: 0.0000
+Token: ' lyrics' (ID: 23261), Prob: 0.0000
+Token: ' literature' (ID: 17206), Prob: 0.0000
+Token: ' collection' (ID: 4426), Prob: 0.0000
+Token: ' interpretation' (ID: 22845), Prob: 0.0000
+Token: ' achievements' (ID: 32897), Prob: 0.0000
+Token: ' classical' (ID: 28824), Prob: 0.0000
+Token: ' poets' (ID: 72972), Prob: 0.0000
+Token: ' Ci' (ID: 31644), Prob: 0.0000
+Token: ' creative' (ID: 11521), Prob: 0.0000
+Token: ' songs' (ID: 11674), Prob: 0.0000
+Token: ' artistic' (ID: 31592), Prob: 0.0000
+Token: ' representative' (ID: 18239), Prob: 0.0000
+Token: ' and' (ID: 323), Prob: 0.0000
+Token: ' contributions' (ID: 19026), Prob: 0.0000
+Token: ' lyr' (ID: 85237), Prob: 0.0000
+Token: ' Chinese' (ID: 8453), Prob: 0.0000
+Token: ' Works' (ID: 21104), Prob: 0.0000
+Token: ' romantic' (ID: 23467), Prob: 0.0000
+Token: ' his' (ID: 806), Prob: 0.0000
+Token: ' life' (ID: 2272), Prob: 0.0000
+Token: ' writing' (ID: 4378), Prob: 0.0000
+Token: ' classic' (ID: 11416), Prob: 0.0000
+Token: ' call' (ID: 1618), Prob: 0.0000
+Token: ' Song' (ID: 18971), Prob: 0.0000
+Token: ' aesthetic' (ID: 36537), Prob: 0.0000
+Token: ' the' (ID: 279), Prob: 0.0000
+Token: ' which' (ID: 892), Prob: 0.0000
+Token: ' art' (ID: 1947), Prob: 0.0000
+Token: ' political' (ID: 4948), Prob: 0.0000
+Token: ' career' (ID: 6931), Prob: 0.0000
+Token: ' Du' (ID: 15687), Prob: 0.0000
+Token: ' reputation' (ID: 17011), Prob: 0.0000
+Token: ' characteristics' (ID: 17452), Prob: 0.0000
+Token: ' essays' (ID: 22844), Prob: 0.0000
+Token: 'Po' (ID: 32904), Prob: 0.0000
+Token: ' paintings' (ID: 35592), Prob: 0.0000
+Token: ' o' (ID: 297), Prob: 0.0000
+Token: ' study' (ID: 3920), Prob: 0.0000
+Token: ' collected' (ID: 14548), Prob: 0.0000
+Token: ' contribution' (ID: 18527), Prob: 0.0000
+Token: ' frontier' (ID: 48000), Prob: 0.0000
+Token: ' interpretations' (ID: 57589), Prob: 0.0000
+Token: ' The' (ID: 576), Prob: 0.0000
+Token: ' Han' (ID: 20644), Prob: 0.0000
+Token: ' four' (ID: 3040), Prob: 0.0000
+Token: ' written' (ID: 5326), Prob: 0.0000
+Token: ' creations' (ID: 52762), Prob: 0.0000
+Token: ' philosophy' (ID: 19128), Prob: 0.0000
+Token: ' position' (ID: 2309), Prob: 0.0000
+Token: ' research' (ID: 3412), Prob: 0.0000
+
+== Ranked Concepts (Clusters) ==
+Rank 1 | Centroid: ' poetry' | Score: 0.9922
+  Tokens: [' poetry', ' poems', ' poem', ' poetic', ' Poetry', ' Po', ' poet', ' po', ' poets', 'Po']
+Rank 2 | Centroid: ' works' | Score: 0.0037
+  Tokens: [' works', ' work', ' Works']
+Rank 3 | Centroid: ' writings' | Score: 0.0008
+  Tokens: [' literary', ' writings', ' literature', ' writing', ' essays', ' written']
+Rank 4 | Centroid: ' the' | Score: 0.0003
+  Tokens: [' style', ' and', ' his', ' life', ' call', ' the', ' which', ' o', ' study', ' The', ' four', ' position', ' research']
+Rank 5 | Centroid: ' classic' | Score: 0.0002
+  Tokens: [' famous', ' ancient', ' historical', ' classical', ' classic']
+Rank 6 | Centroid: ' verses' | Score: 0.0002
+  Tokens: [' verses', ' verse']
+Rank 7 | Centroid: ' Li' | Score: 0.0002
+  Tokens: [' Li', ' Tang', ' Ci', ' Chinese', ' Du', ' Han']
+Rank 8 | Centroid: ' songs' | Score: 0.0001
+  Tokens: [' Songs', ' lyrics', ' songs', ' lyr', ' Song']
+Rank 9 | Centroid: ' artistic' | Score: 0.0001
+  Tokens: [' creative', ' artistic', ' romantic', ' aesthetic', ' art', ' political']
+Rank 10 | Centroid: ' contributions' | Score: 0.0001
+  Tokens: [' achievements', ' contributions', ' contribution']
+Rank 11 | Centroid: ' interpretation' | Score: 0.0000
+  Tokens: [' interpretation', ' interpretations', ' philosophy']
+Rank 12 | Centroid: ' characteristics' | Score: 0.0000
+  Tokens: [' representative', ' reputation', ' characteristics', ' frontier']
+Rank 13 | Centroid: ' collection' | Score: 0.0000
+  Tokens: [' collection', ' collected']
+Rank 14 | Centroid: ' paintings' | Score: 0.0000
+  Tokens: [' paintings', ' creations']
+Rank 15 | Centroid: ' career' | Score: 0.0000
+  Tokens: [' career']
+
+**Chosen Concept:** Rank 1

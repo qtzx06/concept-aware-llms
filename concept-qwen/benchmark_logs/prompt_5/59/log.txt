@@ -1,155 +1,135 @@
 --- Step 59 Log ---
 
 == Filtered Candidates ==
-Token: ' small' (ID: 2613), Prob: 0.6484
-Token: ' village' (ID: 14126), Prob: 0.1270
-Token: ' place' (ID: 1992), Prob: 0.0413
-Token: ' quiet' (ID: 11340), Prob: 0.0322
-Token: ' house' (ID: 3753), Prob: 0.0221
-Token: ' town' (ID: 6290), Prob: 0.0221
-Token: ' remote' (ID: 8699), Prob: 0.0221
-Token: ' city' (ID: 3283), Prob: 0.0152
-Token: ' forest' (ID: 13638), Prob: 0.0152
-Token: ' community' (ID: 3942), Prob: 0.0056
-Token: ' family' (ID: 2997), Prob: 0.0036
-Token: ' rural' (ID: 19082), Prob: 0.0032
-Token: ' neighborhood' (ID: 12534), Prob: 0.0023
-Token: ' room' (ID: 3054), Prob: 0.0019
-Token: ' specific' (ID: 3151), Prob: 0.0019
-Token: ' different' (ID: 2155), Prob: 0.0016
-Token: ' country' (ID: 3146), Prob: 0.0015
-Token: ' mountain' (ID: 16301), Prob: 0.0014
-Token: ' big' (ID: 2409), Prob: 0.0013
-Token: ' park' (ID: 6118), Prob: 0.0010
-Token: ' home' (ID: 2114), Prob: 0.0010
-Token: ' certain' (ID: 3654), Prob: 0.0010
-Token: ' simple' (ID: 4285), Prob: 0.0009
-Token: ' valley' (ID: 33581), Prob: 0.0008
-Token: ' cozy' (ID: 42435), Prob: 0.0008
-Token: ' jungle' (ID: 44420), Prob: 0.0008
-Token: ' sunny' (ID: 39698), Prob: 0.0008
-Token: ' dusty' (ID: 76873), Prob: 0.0006
-Token: ' poor' (ID: 7852), Prob: 0.0005
-Token: ' region' (ID: 5537), Prob: 0.0005
-Token: ' nice' (ID: 6419), Prob: 0.0004
-Token: ' developing' (ID: 11220), Prob: 0.0004
-Token: ' part' (ID: 949), Prob: 0.0004
-Token: ' familiar' (ID: 11285), Prob: 0.0004
-Token: ' magical' (ID: 23702), Prob: 0.0004
-Token: ' peaceful' (ID: 25650), Prob: 0.0004
-Token: ' particular' (ID: 3953), Prob: 0.0004
-Token: ' building' (ID: 4752), Prob: 0.0004
-Token: ' tree' (ID: 4916), Prob: 0.0004
-Token: ' little' (ID: 2632), Prob: 0.0003
-Token: ' special' (ID: 3281), Prob: 0.0003
-Token: ' fantasy' (ID: 18378), Prob: 0.0003
-Token: ' new' (ID: 501), Prob: 0.0003
-Token: ' natural' (ID: 5810), Prob: 0.0003
-Token: ' busy' (ID: 13028), Prob: 0.0003
-Token: ' nearby' (ID: 14046), Prob: 0.0003
-Token: ' coastal' (ID: 34235), Prob: 0.0003
-Token: ' garden' (ID: 13551), Prob: 0.0002
-Token: ' beautiful' (ID: 6233), Prob: 0.0002
-Token: ' snowy' (ID: 89773), Prob: 0.0002
-Token: ' farm' (ID: 8785), Prob: 0.0002
-Token: ' cold' (ID: 9255), Prob: 0.0002
-Token: ' lonely' (ID: 39566), Prob: 0.0002
-Token: ' rainy' (ID: 62757), Prob: 0.0002
-Token: ' way' (ID: 1616), Prob: 0.0002
-Token: ' safe' (ID: 6092), Prob: 0.0002
-Token: ' smaller' (ID: 9155), Prob: 0.0002
-Token: ' strange' (ID: 14888), Prob: 0.0002
-Token: ' toy' (ID: 21357), Prob: 0.0002
-Token: ' distant' (ID: 28727), Prob: 0.0002
-Token: ' mysterious' (ID: 25382), Prob: 0.0002
-Token: ' cave' (ID: 25385), Prob: 0.0002
-Token: ' suburban' (ID: 45218), Prob: 0.0002
-Token: ' school' (ID: 2906), Prob: 0.0002
-Token: ' household' (ID: 13732), Prob: 0.0002
-Token: ' fairy' (ID: 44486), Prob: 0.0002
-Token: ' world' (ID: 1879), Prob: 0.0002
-Token: ' land' (ID: 4268), Prob: 0.0002
-Token: ' difficult' (ID: 5000), Prob: 0.0002
-Token: ' humble' (ID: 38512), Prob: 0.0002
-Token: ' foreign' (ID: 7214), Prob: 0.0002
-Token: ' tiny' (ID: 13673), Prob: 0.0002
-Token: ' castle' (ID: 32584), Prob: 0.0001
-Token: ' countryside' (ID: 46867), Prob: 0.0001
-Token: ' dark' (ID: 6319), Prob: 0.0001
+Token: ' series' (ID: 4013), Prob: 0.6445
+Token: ' TV' (ID: 5883), Prob: 0.0527
+Token: ' Radio' (ID: 13484), Prob: 0.0527
+Token: ' One' (ID: 3776), Prob: 0.0364
+Token: ' television' (ID: 12425), Prob: 0.0320
+Token: ' sitcom' (ID: 80366), Prob: 0.0320
+Token: ' drama' (ID: 19584), Prob: 0.0194
+Token: ' radio' (ID: 8887), Prob: 0.0118
+Token: ' Two' (ID: 9043), Prob: 0.0104
+Token: ' comedy' (ID: 22358), Prob: 0.0104
+Token: ''s' (ID: 594), Prob: 0.0092
+Token: ' play' (ID: 1486), Prob: 0.0081
+Token: ' show' (ID: 1473), Prob: 0.0043
+Token: '2' (ID: 17), Prob: 0.0038
+Token: ' production' (ID: 5670), Prob: 0.0038
+Token: ' crime' (ID: 9778), Prob: 0.0038
+Token: ' Play' (ID: 7054), Prob: 0.0026
+Token: ' programme' (ID: 18136), Prob: 0.0026
+Token: ' mini' (ID: 13420), Prob: 0.0023
+Token: ' documentary' (ID: 24954), Prob: 0.0023
+Token: '1' (ID: 16), Prob: 0.0020
+Token: ' soap' (ID: 26785), Prob: 0.0020
+Token: ' min' (ID: 1308), Prob: 0.0018
+Token: ' one' (ID: 825), Prob: 0.0016
+Token: ' Series' (ID: 11131), Prob: 0.0016
+Token: ' two' (ID: 1378), Prob: 0.0014
+Token: ' Three' (ID: 14513), Prob: 0.0012
+Token: ' Wales' (ID: 22931), Prob: 0.0012
+Token: ' World' (ID: 4337), Prob: 0.0011
+Token: ' film' (ID: 4531), Prob: 0.0011
+Token: ' serial' (ID: 6146), Prob: 0.0011
+Token: ' adaptation' (ID: 33085), Prob: 0.0011
+Token: ' anthology' (ID: 83008), Prob: 0.0011
+Token: ' program' (ID: 2025), Prob: 0.0010
+Token: ' Light' (ID: 8658), Prob: 0.0010
+Token: ' Four' (ID: 13322), Prob: 0.0010
+Token: ' medical' (ID: 6457), Prob: 0.0009
+Token: ' Television' (ID: 40345), Prob: 0.0007
+Token: ' and' (ID: 323), Prob: 0.0007
+Token: ' light' (ID: 3100), Prob: 0.0006
+Token: ' Drama' (ID: 46469), Prob: 0.0006
+Token: ' period' (ID: 4168), Prob: 0.0005
+Token: ' children' (ID: 2841), Prob: 0.0004
+Token: ' interview' (ID: 7128), Prob: 0.0004
+Token: ' political' (ID: 4948), Prob: 0.0004
+Token: ' variety' (ID: 8045), Prob: 0.0004
+Token: ' Northern' (ID: 16926), Prob: 0.0004
+Token: ' theatre' (ID: 33496), Prob: 0.0004
+Token: '4' (ID: 19), Prob: 0.0004
+Token: ' police' (ID: 4282), Prob: 0.0004
+Token: ' Writers' (ID: 58698), Prob: 0.0003
+Token: ' current' (ID: 1482), Prob: 0.0003
+Token: ' hit' (ID: 4201), Prob: 0.0003
+Token: ' dram' (ID: 13548), Prob: 0.0003
+Token: ' Children' (ID: 15044), Prob: 0.0003
+Token: ' science' (ID: 8038), Prob: 0.0002
+Token: ' sci' (ID: 37974), Prob: 0.0002
+Token: ' The' (ID: 576), Prob: 0.0002
+Token: ' co' (ID: 1062), Prob: 0.0002
+Token: ' commission' (ID: 12123), Prob: 0.0002
+Token: ' historical' (ID: 13656), Prob: 0.0002
+Token: ' Channel' (ID: 13434), Prob: 0.0002
+Token: ' Natural' (ID: 18448), Prob: 0.0002
+Token: ' Doctor' (ID: 18635), Prob: 0.0002
+Token: ' natural' (ID: 5810), Prob: 0.0002
+Token: ' reality' (ID: 8729), Prob: 0.0002
+Token: ' movie' (ID: 5700), Prob: 0.0002
+Token: ' sat' (ID: 7578), Prob: 0.0002
+Token: ' Film' (ID: 16631), Prob: 0.0002
+Token: ' Foreign' (ID: 19078), Prob: 0.0002
+Token: ' charity' (ID: 22846), Prob: 0.0002
+Token: ' National' (ID: 5055), Prob: 0.0002
+Token: ' News' (ID: 5398), Prob: 0.0002
+Token: ' arts' (ID: 18560), Prob: 0.0002
+Token: ' theater' (ID: 26705), Prob: 0.0002
+Token: ' Horizon' (ID: 55451), Prob: 0.0002
+Token: ' sketch' (ID: 25529), Prob: 0.0001
+Token: ' Theatre' (ID: 26221), Prob: 0.0001
+Token: ' serie' (ID: 32878), Prob: 0.0001
+Token: ' detective' (ID: 44159), Prob: 0.0001
+Token: '3' (ID: 18), Prob: 0.0001
+Token: ' doc' (ID: 4629), Prob: 0.0001
+Token: ' stage' (ID: 6430), Prob: 0.0001
+Token: ' international' (ID: 6489), Prob: 0.0001
+Token: ' First' (ID: 5512), Prob: 0.0001
+Token: ' Scotland' (ID: 19085), Prob: 0.0001
 Token: ' limited' (ID: 7199), Prob: 0.0001
-Token: ' warm' (ID: 8205), Prob: 0.0001
-Token: ' storm' (ID: 13458), Prob: 0.0001
-Token: ' shelter' (ID: 22906), Prob: 0.0001
-Token: ' fictional' (ID: 43582), Prob: 0.0001
-Token: ' unique' (ID: 4911), Prob: 0.0001
-Token: ' modest' (ID: 26848), Prob: 0.0001
-Token: ' haunted' (ID: 56675), Prob: 0.0001
-Token: ' large' (ID: 3460), Prob: 0.0001
-Token: ' dangerous' (ID: 11406), Prob: 0.0001
-Token: ' typical' (ID: 14260), Prob: 0.0001
-Token: ' harsh' (ID: 24939), Prob: 0.0001
-Token: ' backyard' (ID: 35660), Prob: 0.0001
-Token: ' story' (ID: 3364), Prob: 0.0001
-Token: ' hill' (ID: 23946), Prob: 0.0001
-Token: ' classroom' (ID: 24017), Prob: 0.0001
-Token: ' curious' (ID: 22208), Prob: 0.0001
-Token: ' dorm' (ID: 29109), Prob: 0.0001
-Token: ' cottage' (ID: 45622), Prob: 0.0001
-Token: ' bustling' (ID: 89156), Prob: 0.0001
-Token: ' location' (ID: 3728), Prob: 0.0001
-Token: ' residential' (ID: 20057), Prob: 0.0001
-Token: ' woods' (ID: 32533), Prob: 0.0001
-Token: ' clutter' (ID: 53816), Prob: 0.0001
-Token: ' whims' (ID: 69105), Prob: 0.0001
+Token: ' magazine' (ID: 14418), Prob: 0.0001
+Token: ' podcast' (ID: 17711), Prob: 0.0001
+Token: ' Comedy' (ID: 43751), Prob: 0.0001
+Token: '’s' (ID: 748), Prob: 0.0001
+Token: ' version' (ID: 2319), Prob: 0.0001
 
 == Ranked Concepts (Clusters) ==
-Rank 1 | Centroid: ' small' | Score: 0.6523
-  Tokens: [' small', ' big', ' simple', ' poor', ' little', ' smaller', ' tiny', ' limited', ' large']
-Rank 2 | Centroid: ' town' | Score: 0.1660
-  Tokens: [' village', ' town', ' city', ' country']
-Rank 3 | Centroid: ' location' | Score: 0.0425
-  Tokens: [' place', ' region', ' part', ' way', ' location']
-Rank 4 | Centroid: ' bustling' | Score: 0.0359
-  Tokens: [' quiet', ' cozy', ' sunny', ' dusty', ' peaceful', ' busy', ' snowy', ' lonely', ' rainy', ' bustling', ' clutter']
-Rank 5 | Centroid: ' household' | Score: 0.0269
-  Tokens: [' house', ' family', ' home', ' household']
-Rank 6 | Centroid: ' distant' | Score: 0.0225
-  Tokens: [' remote', ' distant', ' foreign']
-Rank 7 | Centroid: ' forest' | Score: 0.0167
-  Tokens: [' forest', ' jungle', ' tree', ' garden', ' woods']
-Rank 8 | Centroid: ' community' | Score: 0.0079
-  Tokens: [' community', ' neighborhood']
-Rank 9 | Centroid: ' specific' | Score: 0.0054
-  Tokens: [' specific', ' different', ' certain', ' particular', ' special', ' unique', ' typical']
-Rank 10 | Centroid: ' rural' | Score: 0.0038
-  Tokens: [' rural', ' coastal', ' suburban', ' countryside']
-Rank 11 | Centroid: ' mountain' | Score: 0.0037
-  Tokens: [' mountain', ' park', ' valley', ' cave', ' castle', ' hill']
-Rank 12 | Centroid: ' dorm' | Score: 0.0022
-  Tokens: [' room', ' shelter', ' dorm']
-Rank 13 | Centroid: ' magical' | Score: 0.0016
-  Tokens: [' magical', ' fantasy', ' toy', ' mysterious', ' fairy', ' fictional', ' haunted', ' whims']
-Rank 14 | Centroid: ' beautiful' | Score: 0.0011
-  Tokens: [' nice', ' beautiful', ' strange', ' dangerous', ' curious']
-Rank 15 | Centroid: ' familiar' | Score: 0.0011
-  Tokens: [' developing', ' familiar', ' natural']
-Rank 16 | Centroid: ' cold' | Score: 0.0010
-  Tokens: [' cold', ' safe', ' dark', ' warm', ' storm', ' harsh']
-Rank 17 | Centroid: ' new' | Score: 0.0004
-  Tokens: [' new', ' difficult']
-Rank 18 | Centroid: ' farm' | Score: 0.0004
-  Tokens: [' farm', ' land']
-Rank 19 | Centroid: ' building' | Score: 0.0004
-  Tokens: [' building']
-Rank 20 | Centroid: ' backyard' | Score: 0.0003
-  Tokens: [' backyard', ' cottage', ' residential']
-Rank 21 | Centroid: ' humble' | Score: 0.0003
-  Tokens: [' humble', ' modest']
-Rank 22 | Centroid: ' school' | Score: 0.0003
-  Tokens: [' school', ' classroom']
-Rank 23 | Centroid: ' world' | Score: 0.0003
-  Tokens: [' world', ' story']
-Rank 24 | Centroid: ' nearby' | Score: 0.0003
-  Tokens: [' nearby']
+Rank 1 | Centroid: ' series' | Score: 0.6484
+  Tokens: [' series', ' Series', ' serial', ' variety', ' serie']
+Rank 2 | Centroid: ' television' | Score: 0.1504
+  Tokens: [' TV', ' Radio', ' television', ' radio', ' Television', ' News']
+Rank 3 | Centroid: ' Two' | Score: 0.0520
+  Tokens: [' One', ' Two', ' one', ' two', ' Three', ' Four', ' First']
+Rank 4 | Centroid: ' podcast' | Score: 0.0354
+  Tokens: [' sitcom', ' soap', ' anthology', ' magazine', ' podcast']
+Rank 5 | Centroid: ' drama' | Score: 0.0310
+  Tokens: [' drama', ' comedy', ' Drama', ' dram', ' arts', ' Comedy']
+Rank 6 | Centroid: '4' | Score: 0.0171
+  Tokens: ["'s", '2', '1', ' and', '4', ' current', ' The', ' co', '3', ' limited', '’s']
+Rank 7 | Centroid: ' play' | Score: 0.0107
+  Tokens: [' play', ' Play']
+Rank 8 | Centroid: ' science' | Score: 0.0066
+  Tokens: [' crime', ' adaptation', ' Writers', ' science', ' sci', ' commission', ' reality', ' charity', ' sketch', ' detective']
+Rank 9 | Centroid: ' Children' | Score: 0.0051
+  Tokens: [' Wales', ' World', ' children', ' political', ' Northern', ' police', ' Children', ' Channel', ' Foreign', ' National', ' Horizon', ' international', ' Scotland']
+Rank 10 | Centroid: ' mini' | Score: 0.0048
+  Tokens: [' mini', ' min', ' period', ' version']
+Rank 11 | Centroid: ' show' | Score: 0.0048
+  Tokens: [' show', ' hit', ' sat']
+Rank 12 | Centroid: ' production' | Score: 0.0038
+  Tokens: [' production']
+Rank 13 | Centroid: ' programme' | Score: 0.0036
+  Tokens: [' programme', ' program']
+Rank 14 | Centroid: ' documentary' | Score: 0.0031
+  Tokens: [' documentary', ' interview', ' Doctor', ' doc']
+Rank 15 | Centroid: ' Light' | Score: 0.0016
+  Tokens: [' Light', ' light']
+Rank 16 | Centroid: ' Natural' | Score: 0.0015
+  Tokens: [' medical', ' historical', ' Natural', ' natural']
+Rank 17 | Centroid: ' film' | Score: 0.0015
+  Tokens: [' film', ' movie', ' Film']
+Rank 18 | Centroid: ' theatre' | Score: 0.0008
+  Tokens: [' theatre', ' theater', ' Theatre', ' stage']
 
 **Chosen Concept:** Rank 1

@@ -1,0 +1,121 @@
+--- Step 28 Log ---
+
+== Filtered Candidates ==
+Token: ' Du' (ID: 15687), Prob: 0.7227
+Token: ' the' (ID: 279), Prob: 0.2354
+Token: ' China' (ID: 5616), Prob: 0.0071
+Token: ' this' (ID: 419), Prob: 0.0049
+Token: ' Chinese' (ID: 8453), Prob: 0.0049
+Token: ' a' (ID: 264), Prob: 0.0034
+Token: 'Du' (ID: 42074), Prob: 0.0012
+Token: ' classical' (ID: 28824), Prob: 0.0011
+Token: ' these' (ID: 1493), Prob: 0.0010
+Token: ' such' (ID: 1741), Prob: 0.0007
+Token: ' du' (ID: 3845), Prob: 0.0007
+Token: ' D' (ID: 422), Prob: 0.0005
+Token: ' both' (ID: 2176), Prob: 0.0005
+Token: ' Conf' (ID: 14974), Prob: 0.0005
+Token: ' Tang' (ID: 40362), Prob: 0.0005
+Token: ' any' (ID: 894), Prob: 0.0005
+Token: ' many' (ID: 1657), Prob: 0.0005
+Token: ' Fu' (ID: 29253), Prob: 0.0005
+Token: ' ancient' (ID: 13833), Prob: 0.0004
+Token: ' poetry' (ID: 31249), Prob: 0.0004
+Token: ' great' (ID: 2244), Prob: 0.0003
+Token: ' poets' (ID: 72972), Prob: 0.0003
+Token: ' traditional' (ID: 8606), Prob: 0.0003
+Token: ' an' (ID: 458), Prob: 0.0002
+Token: ' Wang' (ID: 28246), Prob: 0.0002
+Token: ' our' (ID: 1039), Prob: 0.0002
+Token: ' Li' (ID: 14511), Prob: 0.0002
+Token: ' all' (ID: 678), Prob: 0.0001
+Token: ' his' (ID: 806), Prob: 0.0001
+Token: ' Gu' (ID: 4570), Prob: 0.0001
+Token: ' historical' (ID: 13656), Prob: 0.0001
+Token: ' The' (ID: 576), Prob: 0.0001
+Token: ' Han' (ID: 20644), Prob: 0.0001
+Token: ' two' (ID: 1378), Prob: 0.0001
+Token: ' later' (ID: 2937), Prob: 0.0001
+Token: ' famous' (ID: 11245), Prob: 0.0001
+Token: ' Lu' (ID: 18360), Prob: 0.0001
+Token: ' Hu' (ID: 21793), Prob: 0.0001
+Token: ' one' (ID: 825), Prob: 0.0001
+Token: ' Song' (ID: 18971), Prob: 0.0001
+Token: ' some' (ID: 1045), Prob: 0.0001
+Token: ' X' (ID: 1599), Prob: 0.0001
+Token: ' T' (ID: 350), Prob: 0.0001
+Token: ' history' (ID: 3840), Prob: 0.0001
+Token: ' early' (ID: 4124), Prob: 0.0001
+Token: ' Ma' (ID: 11331), Prob: 0.0001
+Token: ' their' (ID: 862), Prob: 0.0001
+Token: ' tradition' (ID: 13815), Prob: 0.0001
+Token: ' Da' (ID: 14235), Prob: 0.0001
+Token: ' poet' (ID: 39260), Prob: 0.0001
+Token: ' late' (ID: 3309), Prob: 0.0001
+Token: ' literary' (ID: 31365), Prob: 0.0001
+Token: ' which' (ID: 892), Prob: 0.0001
+Token: ' old' (ID: 2310), Prob: 0.0001
+Token: ' Dun' (ID: 28738), Prob: 0.0001
+Token: ' Zhang' (ID: 36020), Prob: 0.0001
+Token: ' Chang' (ID: 43372), Prob: 0.0001
+Token: ' Zhou' (ID: 66827), Prob: 0.0001
+Token: ' Po' (ID: 13808), Prob: 0.0001
+Token: ' Liu' (ID: 37705), Prob: 0.0001
+Token: ' antiqu' (ID: 60286), Prob: 0.0001
+Token: ' Wei' (ID: 52448), Prob: 0.0000
+Token: ' major' (ID: 3598), Prob: 0.0000
+Token: ' classic' (ID: 11416), Prob: 0.0000
+Token: ' Eastern' (ID: 18028), Prob: 0.0000
+Token: ' modern' (ID: 6481), Prob: 0.0000
+Token: ' contemporary' (ID: 18706), Prob: 0.0000
+Token: ' C' (ID: 356), Prob: 0.0000
+Token: ' its' (ID: 1181), Prob: 0.0000
+Token: ' Dao' (ID: 51581), Prob: 0.0000
+Token: ' those' (ID: 1846), Prob: 0.0000
+Token: ' either' (ID: 2987), Prob: 0.0000
+Token: ' certain' (ID: 3654), Prob: 0.0000
+Token: ' people' (ID: 1251), Prob: 0.0000
+Token: ' poems' (ID: 44219), Prob: 0.0000
+Token: ' authors' (ID: 12014), Prob: 0.0000
+Token: ' Ci' (ID: 31644), Prob: 0.0000
+Token: ' Wu' (ID: 36130), Prob: 0.0000
+Token: ' Mao' (ID: 56178), Prob: 0.0000
+Token: ' Classical' (ID: 67433), Prob: 0.0000
+Token: ' each' (ID: 1817), Prob: 0.0000
+Token: ' East' (ID: 6326), Prob: 0.0000
+Token: ' earlier' (ID: 6788), Prob: 0.0000
+Token: ' Yan' (ID: 24213), Prob: 0.0000
+Token: ' Dong' (ID: 52383), Prob: 0.0000
+Token: ' different' (ID: 2155), Prob: 0.0000
+
+== Ranked Concepts (Clusters) ==
+Rank 1 | Centroid: ' Du' | Score: 0.7227
+  Tokens: [' Du', 'Du', ' du', ' Dun']
+Rank 2 | Centroid: ' the' | Score: 0.2461
+  Tokens: [' the', ' this', ' a', ' such', ' both', ' any', ' many', ' an', ' all', ' two', ' one', ' some', ' which', ' either', ' certain', ' each', ' different']
+Rank 3 | Centroid: ' Wang' | Score: 0.0132
+  Tokens: [' China', ' Chinese', ' Tang', ' Wang', ' Song', ' Zhang', ' Chang', ' Zhou', ' Liu', ' Wei', ' Dao', ' Wu', ' Mao', ' Yan', ' Dong']
+Rank 4 | Centroid: ' classical' | Score: 0.0016
+  Tokens: [' classical', ' traditional', ' famous', ' tradition', ' classic', ' Classical']
+Rank 5 | Centroid: ' their' | Score: 0.0014
+  Tokens: [' these', ' our', ' his', ' their', ' its', ' those']
+Rank 6 | Centroid: ' Hu' | Score: 0.0012
+  Tokens: [' Fu', ' Li', ' Gu', ' Han', ' Lu', ' Hu', ' Ma', ' Ci']
+Rank 7 | Centroid: ' poets' | Score: 0.0009
+  Tokens: [' poetry', ' poets', ' poet', ' literary', ' Po', ' poems', ' authors']
+Rank 8 | Centroid: ' C' | Score: 0.0008
+  Tokens: [' D', ' The', ' X', ' T', ' C']
+Rank 9 | Centroid: ' Conf' | Score: 0.0006
+  Tokens: [' Conf', ' Da']
+Rank 10 | Centroid: ' contemporary' | Score: 0.0005
+  Tokens: [' ancient', ' antiqu', ' modern', ' contemporary']
+Rank 11 | Centroid: ' great' | Score: 0.0004
+  Tokens: [' great', ' major', ' people']
+Rank 12 | Centroid: ' historical' | Score: 0.0003
+  Tokens: [' historical', ' history', ' old']
+Rank 13 | Centroid: ' early' | Score: 0.0003
+  Tokens: [' later', ' early', ' late', ' earlier']
+Rank 14 | Centroid: ' Eastern' | Score: 0.0001
+  Tokens: [' Eastern', ' East']
+
+**Chosen Concept:** Rank 1

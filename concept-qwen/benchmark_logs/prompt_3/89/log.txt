@@ -1,138 +1,123 @@
 --- Step 89 Log ---
 
 == Filtered Candidates ==
-Token: ' leading' (ID: 6388), Prob: 0.4082
-Token: ' causing' (ID: 14381), Prob: 0.1172
-Token: ' like' (ID: 1075), Prob: 0.0625
-Token: ' creating' (ID: 6825), Prob: 0.0075
-Token: ' making' (ID: 3259), Prob: 0.0058
-Token: ' causes' (ID: 11137), Prob: 0.0052
-Token: ' something' (ID: 2494), Prob: 0.0045
-Token: ' triggering' (ID: 51505), Prob: 0.0029
-Token: ' maybe' (ID: 7196), Prob: 0.0028
-Token: ' creates' (ID: 11450), Prob: 0.0028
-Token: ' resulting' (ID: 12942), Prob: 0.0022
-Token: ' leads' (ID: 11508), Prob: 0.0019
-Token: ' triggers' (ID: 30754), Prob: 0.0017
-Token: ' surprising' (ID: 14861), Prob: 0.0016
-Token: ' revealing' (ID: 30620), Prob: 0.0016
-Token: ' perhaps' (ID: 8365), Prob: 0.0014
-Token: ' unaware' (ID: 40647), Prob: 0.0012
-Token: ' strange' (ID: 14888), Prob: 0.0010
-Token: ' unexpected' (ID: 16500), Prob: 0.0008
-Token: ' accidentally' (ID: 32384), Prob: 0.0008
-Token: ' hides' (ID: 57604), Prob: 0.0007
-Token: ' showing' (ID: 9027), Prob: 0.0007
-Token: ' prompting' (ID: 49645), Prob: 0.0006
-Token: ' starts' (ID: 8471), Prob: 0.0005
-Token: ' expecting' (ID: 22331), Prob: 0.0005
-Token: ' experiences' (ID: 11449), Prob: 0.0005
-Token: ' hint' (ID: 13012), Prob: 0.0005
-Token: ' introduces' (ID: 38919), Prob: 0.0005
-Token: ' becomes' (ID: 9044), Prob: 0.0004
-Token: ' sets' (ID: 7289), Prob: 0.0004
-Token: ' similar' (ID: 4428), Prob: 0.0003
-Token: ' reveals' (ID: 20992), Prob: 0.0003
-Token: ' mixing' (ID: 26792), Prob: 0.0003
-Token: ' introducing' (ID: 31918), Prob: 0.0003
-Token: ' normal' (ID: 4622), Prob: 0.0003
-Token: ' finds' (ID: 13719), Prob: 0.0003
-Token: ' seems' (ID: 4977), Prob: 0.0002
-Token: ' setting' (ID: 6243), Prob: 0.0002
-Token: ' mysterious' (ID: 25382), Prob: 0.0002
-Token: ' affecting' (ID: 27887), Prob: 0.0002
-Token: ' leaving' (ID: 9380), Prob: 0.0002
-Token: ' adds' (ID: 11367), Prob: 0.0002
-Token: ' draws' (ID: 26643), Prob: 0.0002
-Token: ' drawing' (ID: 13330), Prob: 0.0002
-Token: ' sees' (ID: 15634), Prob: 0.0002
-Token: ' gets' (ID: 5221), Prob: 0.0002
-Token: ' unusual' (ID: 18511), Prob: 0.0002
-Token: ' sensing' (ID: 59099), Prob: 0.0002
-Token: ' makes' (ID: 3643), Prob: 0.0002
-Token: ' someone' (ID: 4325), Prob: 0.0002
-Token: ' giving' (ID: 7086), Prob: 0.0002
-Token: ' feeling' (ID: 8266), Prob: 0.0002
-Token: ' ends' (ID: 10335), Prob: 0.0002
-Token: ' surprises' (ID: 45440), Prob: 0.0002
-Token: ' uses' (ID: 5711), Prob: 0.0002
-Token: ' involving' (ID: 15860), Prob: 0.0002
-Token: ' connecting' (ID: 20913), Prob: 0.0002
-Token: ' encounters' (ID: 33906), Prob: 0.0002
-Token: ' using' (ID: 1667), Prob: 0.0002
-Token: ' mis' (ID: 5786), Prob: 0.0002
-Token: ' mixed' (ID: 9519), Prob: 0.0002
-Token: ' turns' (ID: 10577), Prob: 0.0002
-Token: ' accompanied' (ID: 23943), Prob: 0.0002
-Token: ' experiencing' (ID: 24084), Prob: 0.0001
-Token: ' attracting' (ID: 50547), Prob: 0.0001
-Token: ' noticing' (ID: 61364), Prob: 0.0001
-Token: ' unnoticed' (ID: 76923), Prob: 0.0001
-Token: ' sparking' (ID: 98982), Prob: 0.0001
-Token: ' hints' (ID: 30643), Prob: 0.0001
-Token: ' blending' (ID: 55841), Prob: 0.0001
-Token: ' shows' (ID: 4933), Prob: 0.0001
-Token: ' connected' (ID: 8433), Prob: 0.0001
-Token: ' leaves' (ID: 10901), Prob: 0.0001
-Token: ' connects' (ID: 33061), Prob: 0.0001
-Token: ' senses' (ID: 37107), Prob: 0.0001
-Token: ' mixes' (ID: 62426), Prob: 0.0001
-Token: ' sparks' (ID: 75783), Prob: 0.0001
-Token: ' indicating' (ID: 18860), Prob: 0.0001
-Token: ' starting' (ID: 5916), Prob: 0.0001
-Token: ' catches' (ID: 37834), Prob: 0.0001
-Token: ' discovers' (ID: 51014), Prob: 0.0001
-Token: ' oblivious' (ID: 93270), Prob: 0.0001
-Token: ' results' (ID: 3059), Prob: 0.0001
+Token: ' Arch' (ID: 9494), Prob: 1.0000
+Token: 'Arch' (ID: 18727), Prob: 0.0000
+Token: ' arch' (ID: 5325), Prob: 0.0000
+Token: ' Ar' (ID: 1644), Prob: 0.0000
+Token: ' Archives' (ID: 37229), Prob: 0.0000
+Token: ' Art' (ID: 5166), Prob: 0.0000
+Token: ' Cur' (ID: 12886), Prob: 0.0000
+Token: ' Archive' (ID: 29702), Prob: 0.0000
+Token: ' News' (ID: 5398), Prob: 0.0000
+Token: ' Arg' (ID: 7638), Prob: 0.0000
+Token: ' Archie' (ID: 90606), Prob: 0.0000
+Token: ' Architect' (ID: 24018), Prob: 0.0000
+Token: ' Book' (ID: 5893), Prob: 0.0000
+Token: 'arch' (ID: 1113), Prob: 0.0000
+Token: ' Archae' (ID: 65002), Prob: 0.0000
+Token: ' Acc' (ID: 11429), Prob: 0.0000
+Token: ' Archived' (ID: 97750), Prob: 0.0000
+Token: ' Ash' (ID: 14595), Prob: 0.0000
+Token: ' Arc' (ID: 19689), Prob: 0.0000
+Token: ' As' (ID: 1634), Prob: 0.0000
+Token: ' Char' (ID: 4864), Prob: 0.0000
+Token: ' Archer' (ID: 58879), Prob: 0.0000
+Token: ' Watch' (ID: 10357), Prob: 0.0000
+Token: '_arch' (ID: 34330), Prob: 0.0000
+Token: ' Church' (ID: 9257), Prob: 0.0000
+Token: ' Film' (ID: 16631), Prob: 0.0000
+Token: ' Bill' (ID: 8596), Prob: 0.0000
+Token: ' Ark' (ID: 22017), Prob: 0.0000
+Token: ' A' (ID: 362), Prob: 0.0000
+Token: ' Crown' (ID: 28643), Prob: 0.0000
+Token: ' Age' (ID: 13081), Prob: 0.0000
+Token: ' An' (ID: 1527), Prob: 0.0000
+Token: ' Par' (ID: 4270), Prob: 0.0000
+Token: ' Den' (ID: 9774), Prob: 0.0000
+Token: ' Young' (ID: 13263), Prob: 0.0000
+Token: ' B' (ID: 425), Prob: 0.0000
+Token: ' The' (ID: 576), Prob: 0.0000
+Token: ' Re' (ID: 1032), Prob: 0.0000
+Token: ' Comp' (ID: 13317), Prob: 0.0000
+Token: ' Morning' (ID: 27984), Prob: 0.0000
+Token: ' Ed' (ID: 3199), Prob: 0.0000
+Token: ' Old' (ID: 10621), Prob: 0.0000
+Token: ' Ack' (ID: 50982), Prob: 0.0000
+Token: ' Archbishop' (ID: 81211), Prob: 0.0000
+Token: ' R' (ID: 431), Prob: 0.0000
+Token: ' Black' (ID: 5235), Prob: 0.0000
+Token: ' Ant' (ID: 6755), Prob: 0.0000
+Token: ' Edge' (ID: 10349), Prob: 0.0000
+Token: ' X' (ID: 1599), Prob: 0.0000
+Token: ' Ab' (ID: 3680), Prob: 0.0000
+Token: ' Ath' (ID: 19698), Prob: 0.0000
+Token: ' Ag' (ID: 4598), Prob: 0.0000
+Token: ' ARCH' (ID: 55213), Prob: 0.0000
+Token: ' H' (ID: 472), Prob: 0.0000
+Token: ' View' (ID: 2738), Prob: 0.0000
+Token: ' End' (ID: 3972), Prob: 0.0000
+Token: ' Rel' (ID: 6512), Prob: 0.0000
+Token: ' Arrow' (ID: 33712), Prob: 0.0000
+Token: ' In' (ID: 758), Prob: 0.0000
+Token: ' Al' (ID: 1674), Prob: 0.0000
+Token: ' Car' (ID: 3261), Prob: 0.0000
+Token: ' Royal' (ID: 16194), Prob: 0.0000
+Token: ' Echo' (ID: 37806), Prob: 0.0000
+Token: ' Architects' (ID: 77013), Prob: 0.0000
+Token: ' G' (ID: 479), Prob: 0.0000
+Token: ' Or' (ID: 2521), Prob: 0.0000
+Token: ' Her' (ID: 6252), Prob: 0.0000
+Token: ' Arr' (ID: 18418), Prob: 0.0000
+Token: ' Bow' (ID: 18436), Prob: 0.0000
+Token: ' First' (ID: 5512), Prob: 0.0000
+Token: ' Rh' (ID: 17968), Prob: 0.0000
+Token: ' Actors' (ID: 81361), Prob: 0.0000
 
 == Ranked Concepts (Clusters) ==
-Rank 1 | Centroid: ' resulting' | Score: 0.4102
-  Tokens: [' leading', ' resulting', ' results']
-Rank 2 | Centroid: ' causing' | Score: 0.1172
-  Tokens: [' causing']
-Rank 3 | Centroid: ' perhaps' | Score: 0.0718
-  Tokens: [' like', ' something', ' maybe', ' perhaps', ' similar', ' normal', ' someone']
-Rank 4 | Centroid: ' creating' | Score: 0.0139
-  Tokens: [' creating', ' making', ' leaving', ' giving', ' using']
-Rank 5 | Centroid: ' causes' | Score: 0.0070
-  Tokens: [' causes', ' leads']
-Rank 6 | Centroid: ' surprising' | Score: 0.0062
-  Tokens: [' surprising', ' unaware', ' strange', ' unexpected', ' accidentally', ' mysterious', ' unusual', ' surprises', ' unnoticed', ' oblivious']
-Rank 7 | Centroid: ' triggering' | Score: 0.0055
-  Tokens: [' triggering', ' triggers', ' prompting', ' sparking', ' sparks']
-Rank 8 | Centroid: ' creates' | Score: 0.0048
-  Tokens: [' creates', ' starts', ' becomes', ' adds', ' gets', ' makes', ' ends', ' uses', ' turns']
-Rank 9 | Centroid: ' showing' | Score: 0.0023
-  Tokens: [' revealing', ' showing', ' indicating']
-Rank 10 | Centroid: ' reveals' | Score: 0.0011
-  Tokens: [' hides', ' reveals', ' shows']
-Rank 11 | Centroid: ' affecting' | Score: 0.0011
-  Tokens: [' expecting', ' affecting', ' involving', ' accompanied']
-Rank 12 | Centroid: ' experiences' | Score: 0.0008
-  Tokens: [' experiences', ' encounters', ' experiencing']
-Rank 13 | Centroid: ' sets' | Score: 0.0007
-  Tokens: [' sets', ' setting', ' leaves']
-Rank 14 | Centroid: ' mixing' | Score: 0.0007
-  Tokens: [' mixing', ' mixed', ' blending', ' mixes']
-Rank 15 | Centroid: ' finds' | Score: 0.0007
-  Tokens: [' finds', ' sees', ' catches', ' discovers']
-Rank 16 | Centroid: ' hint' | Score: 0.0006
-  Tokens: [' hint', ' hints']
-Rank 17 | Centroid: ' sensing' | Score: 0.0006
-  Tokens: [' sensing', ' feeling', ' noticing', ' senses']
-Rank 18 | Centroid: ' introduces' | Score: 0.0005
-  Tokens: [' introduces']
-Rank 19 | Centroid: ' introducing' | Score: 0.0004
-  Tokens: [' introducing', ' attracting']
-Rank 20 | Centroid: ' connecting' | Score: 0.0004
-  Tokens: [' connecting', ' connected', ' connects']
-Rank 21 | Centroid: ' draws' | Score: 0.0004
-  Tokens: [' draws', ' drawing']
-Rank 22 | Centroid: ' seems' | Score: 0.0002
-  Tokens: [' seems']
-Rank 23 | Centroid: ' mis' | Score: 0.0002
-  Tokens: [' mis']
-Rank 24 | Centroid: ' starting' | Score: 0.0001
-  Tokens: [' starting']
+Rank 1 | Centroid: 'Arch' | Score: 1.0000
+  Tokens: [' Arch', 'Arch', ' arch', ' Architect', 'arch', ' Archae', '_arch', ' Archbishop', ' ARCH', ' Architects']
+Rank 2 | Centroid: ' Archive' | Score: 0.0000
+  Tokens: [' Archives', ' Archive', ' Archived']
+Rank 3 | Centroid: ' Ar' | Score: 0.0000
+  Tokens: [' Ar', ' Arc', ' Ark']
+Rank 4 | Centroid: ' Par' | Score: 0.0000
+  Tokens: [' Cur', ' Par', ' Comp', ' Rel']
+Rank 5 | Centroid: ' Art' | Score: 0.0000
+  Tokens: [' Art']
+Rank 6 | Centroid: ' News' | Score: 0.0000
+  Tokens: [' News', ' Book']
+Rank 7 | Centroid: ' Archer' | Score: 0.0000
+  Tokens: [' Archie', ' Archer', ' Arrow']
+Rank 8 | Centroid: ' Arg' | Score: 0.0000
+  Tokens: [' Arg', ' Ant']
+Rank 9 | Centroid: ' An' | Score: 0.0000
+  Tokens: [' As', ' An', ' Ab', ' Ag', ' Al']
+Rank 10 | Centroid: ' Film' | Score: 0.0000
+  Tokens: [' Watch', ' Film', ' View', ' Actors']
+Rank 11 | Centroid: ' First' | Score: 0.0000
+  Tokens: [' Young', ' Morning', ' Old', ' Black', ' First']
+Rank 12 | Centroid: ' Acc' | Score: 0.0000
+  Tokens: [' Acc', ' Ack', ' Arr']
+Rank 13 | Centroid: ' Car' | Score: 0.0000
+  Tokens: [' Char', ' Car', ' Her']
+Rank 14 | Centroid: ' Edge' | Score: 0.0000
+  Tokens: [' Ed', ' Edge', ' End']
+Rank 15 | Centroid: ' Royal' | Score: 0.0000
+  Tokens: [' Crown', ' Royal', ' Rh']
+Rank 16 | Centroid: ' Ash' | Score: 0.0000
+  Tokens: [' Ash']
+Rank 17 | Centroid: ' Age' | Score: 0.0000
+  Tokens: [' Age', ' Ath']
+Rank 18 | Centroid: ' Bill' | Score: 0.0000
+  Tokens: [' Bill', ' Bow']
+Rank 19 | Centroid: ' Church' | Score: 0.0000
+  Tokens: [' Church']
+Rank 20 | Centroid: ' Den' | Score: 0.0000
+  Tokens: [' Den']
+Rank 21 | Centroid: ' The' | Score: 0.0000
+  Tokens: [' A', ' B', ' The', ' Re', ' R', ' X', ' H', ' In', ' G', ' Or']
+Rank 22 | Centroid: ' Echo' | Score: 0.0000
+  Tokens: [' Echo']
 
 **Chosen Concept:** Rank 1

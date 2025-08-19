@@ -1,129 +1,108 @@
 --- Step 139 Log ---
 
 == Filtered Candidates ==
-Token: ' First' (ID: 5512), Prob: 0.0101
-Token: ' Maybe' (ID: 10696), Prob: 0.0101
-Token: ' Int' (ID: 1333), Prob: 0.0061
-Token: ' Set' (ID: 2573), Prob: 0.0023
-Token: ' Setting' (ID: 20037), Prob: 0.0018
-Token: ' Title' (ID: 10869), Prob: 0.0012
-Token: ' Mention' (ID: 85148), Prob: 0.0011
-Token: ' Describe' (ID: 60785), Prob: 0.0009
-Token: ' Imagine' (ID: 37791), Prob: 0.0005
-Token: ' Scene' (ID: 17494), Prob: 0.0004
-Token: ' Start' (ID: 5145), Prob: 0.0004
-Token: ' Head' (ID: 11203), Prob: 0.0002
-Token: ' Open' (ID: 5264), Prob: 0.0002
-Token: ' Person' (ID: 7357), Prob: 0.0002
-Token: ' Introduction' (ID: 28338), Prob: 0.0002
-Token: ' Make' (ID: 7405), Prob: 0.0001
-Token: ' Morning' (ID: 27984), Prob: 0.0001
-Token: ' Time' (ID: 4120), Prob: 0.0001
-Token: ' Imag' (ID: 76433), Prob: 0.0001
-Token: ' Opening' (ID: 40037), Prob: 0.0001
-Token: ' Establish' (ID: 39398), Prob: 0.0001
-Token: ' Focus' (ID: 25806), Prob: 0.0001
-Token: ' Highlight' (ID: 55994), Prob: 0.0001
-Token: ' Paint' (ID: 17203), Prob: 0.0001
-Token: ' Begin' (ID: 18597), Prob: 0.0001
-Token: ' Hook' (ID: 28171), Prob: 0.0001
-Token: ' Picture' (ID: 24568), Prob: 0.0001
-Token: ' Place' (ID: 10771), Prob: 0.0001
-Token: ' Image' (ID: 4654), Prob: 0.0000
-Token: ' Hmm' (ID: 88190), Prob: 0.0000
-Token: ' Need' (ID: 14656), Prob: 0.0000
-Token: ' Write' (ID: 9645), Prob: 0.0000
-Token: ' Town' (ID: 13971), Prob: 0.0000
-Token: ' Use' (ID: 5443), Prob: 0.0000
-Token: ' Perhaps' (ID: 18765), Prob: 0.0000
-Token: ' Weather' (ID: 22629), Prob: 0.0000
-Token: ' Something' (ID: 24656), Prob: 0.0000
-Token: ' Think' (ID: 21149), Prob: 0.0000
-Token: ' Sentence' (ID: 79542), Prob: 0.0000
-Token: ' John' (ID: 3757), Prob: 0.0000
-Token: ' Meet' (ID: 25826), Prob: 0.0000
-Token: ' Day' (ID: 6059), Prob: 0.0000
-Token: ' Snow' (ID: 18901), Prob: 0.0000
-Token: ' Welcome' (ID: 20166), Prob: 0.0000
-Token: ' Paragraph' (ID: 49351), Prob: 0.0000
-Token: ' Location' (ID: 9866), Prob: 0.0000
-Token: ' Find' (ID: 7379), Prob: 0.0000
-Token: ' Bring' (ID: 39124), Prob: 0.0000
-Token: 'roduce' (ID: 47845), Prob: 0.0000
-Token: ' Starting' (ID: 27657), Prob: 0.0000
-Token: ' Probably' (ID: 37154), Prob: 0.0000
-Token: ' Create' (ID: 4230), Prob: 0.0000
-Token: ' Good' (ID: 7684), Prob: 0.0000
-Token: ' Get' (ID: 2126), Prob: 0.0000
-Token: ' Today' (ID: 11201), Prob: 0.0000
-Token: ' Nature' (ID: 21331), Prob: 0.0000
-Token: ' Pro' (ID: 1298), Prob: 0.0000
-Token: ' Travel' (ID: 18097), Prob: 0.0000
-Token: ' Talk' (ID: 18976), Prob: 0.0000
-Token: ' Point' (ID: 5126), Prob: 0.0000
-Token: ' Sun' (ID: 8059), Prob: 0.0000
-Token: ' Main' (ID: 4697), Prob: 0.0000
-Token: ' Add' (ID: 2691), Prob: 0.0000
-Token: ' Name' (ID: 3988), Prob: 0.0000
-Token: ' Ten' (ID: 17695), Prob: 0.0000
-Token: ' Grab' (ID: 36194), Prob: 0.0000
-Token: ' Important' (ID: 43821), Prob: 0.0000
-Token: ' Narr' (ID: 56869), Prob: 0.0000
-Token: ' Okay' (ID: 35439), Prob: 0.0000
-Token: ' Arrival' (ID: 92098), Prob: 0.0000
+Token: ' birth' (ID: 7194), Prob: 1.0000
+Token: ' death' (ID: 4545), Prob: 0.0000
+Token: ' birthday' (ID: 15198), Prob: 0.0000
+Token: ' born' (ID: 9223), Prob: 0.0000
+Token: ' Birth' (ID: 35027), Prob: 0.0000
+Token: ' births' (ID: 65232), Prob: 0.0000
+Token: 'birth' (ID: 27713), Prob: 0.0000
+Token: ' bir' (ID: 15248), Prob: 0.0000
+Token: '_birth' (ID: 52973), Prob: 0.0000
+Token: '.birth' (ID: 83982), Prob: 0.0000
+Token: ' bath' (ID: 8885), Prob: 0.0000
+Token: ' production' (ID: 5670), Prob: 0.0000
+Token: ' baptism' (ID: 73827), Prob: 0.0000
+Token: ' first' (ID: 1156), Prob: 0.0000
+Token: ' year' (ID: 1042), Prob: 0.0000
+Token: ' being' (ID: 1660), Prob: 0.0000
+Token: ' arrival' (ID: 18647), Prob: 0.0000
+Token: ' creation' (ID: 9688), Prob: 0.0000
+Token: ' life' (ID: 2272), Prob: 0.0000
+Token: ' broadcast' (ID: 12899), Prob: 0.0000
+Token: ' bearing' (ID: 18043), Prob: 0.0000
+Token: ' burial' (ID: 54663), Prob: 0.0000
+Token: ' release' (ID: 4879), Prob: 0.0000
+Token: ' origin' (ID: 6238), Prob: 0.0000
+Token: ' formation' (ID: 18003), Prob: 0.0000
+Token: ' b' (ID: 293), Prob: 0.0000
+Token: ' battle' (ID: 8049), Prob: 0.0000
+Token: ' flight' (ID: 10971), Prob: 0.0000
+Token: ' childbirth' (ID: 96194), Prob: 0.0000
+Token: ' biography' (ID: 47245), Prob: 0.0000
+Token: ' career' (ID: 6931), Prob: 0.0000
+Token: ' the' (ID: 279), Prob: 0.0000
+Token: ' biological' (ID: 23275), Prob: 0.0000
+Token: 'Birth' (ID: 31478), Prob: 0.0000
+Token: ' newborn' (ID: 45297), Prob: 0.0000
+Token: ' brother' (ID: 10641), Prob: 0.0000
+Token: ' bear' (ID: 11722), Prob: 0.0000
+Token: ' own' (ID: 1828), Prob: 0.0000
+Token: ' break' (ID: 1438), Prob: 0.0000
+Token: ' boot' (ID: 10459), Prob: 0.0000
+Token: ' burst' (ID: 20524), Prob: 0.0000
+Token: ' birthdays' (ID: 91850), Prob: 0.0000
+Token: ' book' (ID: 2311), Prob: 0.0000
+Token: 'irth' (ID: 4809), Prob: 0.0000
+Token: ' breast' (ID: 17216), Prob: 0.0000
+Token: ' bur' (ID: 7795), Prob: 0.0000
+Token: ' belief' (ID: 16396), Prob: 0.0000
+Token: ' name' (ID: 829), Prob: 0.0000
+Token: ' date' (ID: 2400), Prob: 0.0000
+Token: ' original' (ID: 4024), Prob: 0.0000
+Token: ' discovery' (ID: 18335), Prob: 0.0000
+Token: ' business' (ID: 2562), Prob: 0.0000
+Token: ' marriage' (ID: 10866), Prob: 0.0000
+Token: ' harvest' (ID: 23429), Prob: 0.0000
+Token: '-b' (ID: 1455), Prob: 0.0000
+Token: ' blood' (ID: 6543), Prob: 0.0000
+Token: ' father' (ID: 6981), Prob: 0.0000
+Token: ' ownership' (ID: 15278), Prob: 0.0000
+Token: ' identification' (ID: 21892), Prob: 0.0000
+Token: ' attendance' (ID: 27018), Prob: 0.0000
+Token: ' and' (ID: 323), Prob: 0.0000
 
 == Ranked Concepts (Clusters) ==
-Rank 1 | Centroid: ' Maybe' | Score: 0.0103
-  Tokens: [' Maybe', ' Hmm', ' Perhaps', ' Something', ' Probably', ' Okay']
-Rank 2 | Centroid: ' First' | Score: 0.0101
-  Tokens: [' First', ' Main']
-Rank 3 | Centroid: ' John' | Score: 0.0062
-  Tokens: [' Int', ' John', ' Pro']
-Rank 4 | Centroid: ' Setting' | Score: 0.0041
-  Tokens: [' Set', ' Setting', ' Establish']
-Rank 5 | Centroid: ' Name' | Score: 0.0012
-  Tokens: [' Title', ' Name', ' Ten']
-Rank 6 | Centroid: ' Mention' | Score: 0.0011
-  Tokens: [' Mention', ' Highlight']
-Rank 7 | Centroid: ' Describe' | Score: 0.0009
-  Tokens: [' Describe']
-Rank 8 | Centroid: ' Imagine' | Score: 0.0005
-  Tokens: [' Imagine', ' Think']
-Rank 9 | Centroid: ' Sentence' | Score: 0.0005
-  Tokens: [' Scene', ' Sentence', ' Paragraph']
-Rank 10 | Centroid: ' Start' | Score: 0.0005
-  Tokens: [' Start', ' Begin', ' Starting']
-Rank 11 | Centroid: ' Open' | Score: 0.0003
-  Tokens: [' Open', ' Opening', ' Good']
-Rank 12 | Centroid: ' Hook' | Score: 0.0003
-  Tokens: [' Head', ' Hook', ' Grab']
-Rank 13 | Centroid: ' Image' | Score: 0.0003
-  Tokens: [' Imag', ' Paint', ' Picture', ' Image']
-Rank 14 | Centroid: ' Create' | Score: 0.0003
-  Tokens: [' Make', ' Write', ' Use', ' Find', ' Create', ' Get', ' Add']
-Rank 15 | Centroid: ' Location' | Score: 0.0002
-  Tokens: [' Person', ' Place', ' Location', ' Point']
-Rank 16 | Centroid: ' Introduction' | Score: 0.0002
-  Tokens: [' Introduction', ' Welcome', 'roduce']
-Rank 17 | Centroid: ' Weather' | Score: 0.0002
-  Tokens: [' Morning', ' Weather', ' Today', ' Travel']
-Rank 18 | Centroid: ' Time' | Score: 0.0001
-  Tokens: [' Time', ' Nature']
-Rank 19 | Centroid: ' Focus' | Score: 0.0001
-  Tokens: [' Focus']
-Rank 20 | Centroid: ' Town' | Score: 0.0001
-  Tokens: [' Town', ' Day']
-Rank 21 | Centroid: ' Meet' | Score: 0.0001
-  Tokens: [' Meet', ' Bring', ' Talk']
-Rank 22 | Centroid: ' Need' | Score: 0.0000
-  Tokens: [' Need']
-Rank 23 | Centroid: ' Snow' | Score: 0.0000
-  Tokens: [' Snow', ' Sun']
-Rank 24 | Centroid: ' Important' | Score: 0.0000
-  Tokens: [' Important']
-Rank 25 | Centroid: ' Narr' | Score: 0.0000
-  Tokens: [' Narr']
-Rank 26 | Centroid: ' Arrival' | Score: 0.0000
-  Tokens: [' Arrival']
+Rank 1 | Centroid: ' birth' | Score: 1.0000
+  Tokens: [' birth', ' born', ' Birth', ' births', 'birth', '_birth', '.birth', ' childbirth', 'Birth', ' newborn']
+Rank 2 | Centroid: ' life' | Score: 0.0000
+  Tokens: [' death', ' life', ' career']
+Rank 3 | Centroid: ' birthday' | Score: 0.0000
+  Tokens: [' birthday', ' birthdays']
+Rank 4 | Centroid: '-b' | Score: 0.0000
+  Tokens: [' bir', ' b', '-b']
+Rank 5 | Centroid: ' breast' | Score: 0.0000
+  Tokens: [' bath', ' broadcast', ' boot', ' breast', ' harvest']
+Rank 6 | Centroid: ' creation' | Score: 0.0000
+  Tokens: [' production', ' arrival', ' creation', ' formation', ' discovery', ' identification']
+Rank 7 | Centroid: ' the' | Score: 0.0000
+  Tokens: [' first', ' being', ' the', ' name', ' and']
+Rank 8 | Centroid: ' marriage' | Score: 0.0000
+  Tokens: [' baptism', ' marriage', ' attendance']
+Rank 9 | Centroid: ' year' | Score: 0.0000
+  Tokens: [' year', ' date']
+Rank 10 | Centroid: ' burst' | Score: 0.0000
+  Tokens: [' release', ' break', ' burst']
+Rank 11 | Centroid: ' bearing' | Score: 0.0000
+  Tokens: [' bearing', ' bear']
+Rank 12 | Centroid: ' original' | Score: 0.0000
+  Tokens: [' origin', ' own', ' original']
+Rank 13 | Centroid: ' burial' | Score: 0.0000
+  Tokens: [' burial', ' bur']
+Rank 14 | Centroid: ' biography' | Score: 0.0000
+  Tokens: [' biography', ' biological']
+Rank 15 | Centroid: ' business' | Score: 0.0000
+  Tokens: [' book', ' business', ' blood']
+Rank 16 | Centroid: ' brother' | Score: 0.0000
+  Tokens: [' brother', ' father']
+Rank 17 | Centroid: ' battle' | Score: 0.0000
+  Tokens: [' battle']
+Rank 18 | Centroid: ' flight' | Score: 0.0000
+  Tokens: [' flight']
+Rank 19 | Centroid: ' belief' | Score: 0.0000
+  Tokens: [' belief', ' ownership']
+Rank 20 | Centroid: 'irth' | Score: 0.0000
+  Tokens: ['irth']
 
 **Chosen Concept:** Rank 1

@@ -1,0 +1,88 @@
+--- Step 65 Log ---
+
+== Filtered Candidates ==
+Token: ' Kingdom' (ID: 15072), Prob: 1.0000
+Token: ' States' (ID: 4180), Prob: 0.0000
+Token: ' King' (ID: 6210), Prob: 0.0000
+Token: ' United' (ID: 3639), Prob: 0.0000
+Token: ' kingdom' (ID: 25079), Prob: 0.0000
+Token: ' UK' (ID: 6424), Prob: 0.0000
+Token: ' K' (ID: 730), Prob: 0.0000
+Token: ' Kings' (ID: 24019), Prob: 0.0000
+Token: ' Britain' (ID: 13224), Prob: 0.0000
+Token: ' Kin' (ID: 30891), Prob: 0.0000
+Token: ' KING' (ID: 73811), Prob: 0.0000
+Token: ' British' (ID: 7855), Prob: 0.0000
+Token: ' Nations' (ID: 19140), Prob: 0.0000
+Token: 'King' (ID: 33555), Prob: 0.0000
+Token: ' Republic' (ID: 5429), Prob: 0.0000
+Token: '-K' (ID: 15843), Prob: 0.0000
+Token: ' Kind' (ID: 16840), Prob: 0.0000
+Token: ' Bible' (ID: 16947), Prob: 0.0000
+Token: '.K' (ID: 11352), Prob: 0.0000
+Token: ' State' (ID: 3234), Prob: 0.0000
+Token: ' S' (ID: 328), Prob: 0.0000
+Token: ' Romania' (ID: 46049), Prob: 0.0000
+Token: ' Kenya' (ID: 36666), Prob: 0.0000
+Token: ' Keys' (ID: 24133), Prob: 0.0000
+Token: ' Countries' (ID: 53737), Prob: 0.0000
+Token: ' Kentucky' (ID: 24987), Prob: 0.0000
+Token: ' Netherlands' (ID: 25662), Prob: 0.0000
+Token: ' Kir' (ID: 25527), Prob: 0.0000
+Token: ' Keith' (ID: 31502), Prob: 0.0000
+Token: ' Region' (ID: 17152), Prob: 0.0000
+Token: ' Bank' (ID: 8547), Prob: 0.0000
+Token: '_K' (ID: 10102), Prob: 0.0000
+Token: ' Keyboard' (ID: 25616), Prob: 0.0000
+Token: '/K' (ID: 32854), Prob: 0.0000
+Token: ' Services' (ID: 8307), Prob: 0.0000
+Token: ' Arab' (ID: 10756), Prob: 0.0000
+Token: ' Spain' (ID: 17689), Prob: 0.0000
+Token: ' Kar' (ID: 13225), Prob: 0.0000
+Token: ' Philippines' (ID: 25296), Prob: 0.0000
+Token: ' Australia' (ID: 8330), Prob: 0.0000
+Token: ' Ireland' (ID: 14648), Prob: 0.0000
+Token: ' Kennedy' (ID: 23651), Prob: 0.0000
+Token: ' states' (ID: 5302), Prob: 0.0000
+Token: 'king' (ID: 10566), Prob: 0.0000
+Token: ' Kenn' (ID: 15378), Prob: 0.0000
+Token: ' Years' (ID: 22315), Prob: 0.0000
+Token: ' Regions' (ID: 77347), Prob: 0.0000
+Token: ' KB' (ID: 25016), Prob: 0.0000
+Token: ' The' (ID: 576), Prob: 0.0000
+
+== Ranked Concepts (Clusters) ==
+Rank 1 | Centroid: 'King' | Score: 1.0000
+  Tokens: [' Kingdom', ' King', ' kingdom', ' Kings', ' KING', 'King', 'king']
+Rank 2 | Centroid: ' States' | Score: 0.0000
+  Tokens: [' States', ' State', ' states']
+Rank 3 | Centroid: ' UK' | Score: 0.0000
+  Tokens: [' United', ' UK', ' Britain', ' British']
+Rank 4 | Centroid: '_K' | Score: 0.0000
+  Tokens: [' K', '-K', '.K', '_K', '/K', ' Kar', ' KB']
+Rank 5 | Centroid: ' Keith' | Score: 0.0000
+  Tokens: [' Kin', ' Kir', ' Keith']
+Rank 6 | Centroid: ' Countries' | Score: 0.0000
+  Tokens: [' Nations', ' Countries', ' Years']
+Rank 7 | Centroid: ' Republic' | Score: 0.0000
+  Tokens: [' Republic']
+Rank 8 | Centroid: ' Bible' | Score: 0.0000
+  Tokens: [' Bible', ' Services', ' Arab']
+Rank 9 | Centroid: ' Spain' | Score: 0.0000
+  Tokens: [' Romania', ' Netherlands', ' Spain', ' Philippines', ' Australia', ' Ireland']
+Rank 10 | Centroid: ' Kind' | Score: 0.0000
+  Tokens: [' Kind']
+Rank 11 | Centroid: ' S' | Score: 0.0000
+  Tokens: [' S', ' The']
+Rank 12 | Centroid: ' Kenya' | Score: 0.0000
+  Tokens: [' Kenya', ' Kentucky']
+Rank 13 | Centroid: ' Keys' | Score: 0.0000
+  Tokens: [' Keys', ' Keyboard']
+Rank 14 | Centroid: ' Region' | Score: 0.0000
+  Tokens: [' Region', ' Regions']
+Rank 15 | Centroid: ' Kennedy' | Score: 0.0000
+  Tokens: [' Kennedy', ' Kenn']
+Rank 16 | Centroid: ' Bank' | Score: 0.0000
+  Tokens: [' Bank']
+
+**Chosen Concept:** Rank 1

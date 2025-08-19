@@ -1,0 +1,63 @@
+--- Step 74 Log ---
+
+== Filtered Candidates ==
+Token: ' B' (ID: 425), Prob: 0.0032
+Token: ' and' (ID: 323), Prob: 0.0013
+Token: ' in' (ID: 304), Prob: 0.0012
+Token: ''s' (ID: 594), Prob: 0.0007
+Token: '.B' (ID: 1785), Prob: 0.0001
+Token: ' during' (ID: 2337), Prob: 0.0001
+Token: ' from' (ID: 504), Prob: 0.0000
+Token: ' according' (ID: 4092), Prob: 0.0000
+Token: ' C' (ID: 356), Prob: 0.0000
+Token: ' through' (ID: 1526), Prob: 0.0000
+Token: 'B' (ID: 33), Prob: 0.0000
+Token: ' as' (ID: 438), Prob: 0.0000
+Token: ' by' (ID: 553), Prob: 0.0000
+Token: ' to' (ID: 311), Prob: 0.0000
+Token: ' with' (ID: 448), Prob: 0.0000
+Token: '’s' (ID: 748), Prob: 0.0000
+Token: ' is' (ID: 374), Prob: 0.0000
+Token: ' at' (ID: 518), Prob: 0.0000
+Token: '\n' (ID: 1699), Prob: 0.0000
+Token: ' of' (ID: 315), Prob: 0.0000
+Token: ' on' (ID: 389), Prob: 0.0000
+Token: ' based' (ID: 3118), Prob: 0.0000
+Token: ' D' (ID: 422), Prob: 0.0000
+Token: ' when' (ID: 979), Prob: 0.0000
+Token: ' for' (ID: 369), Prob: 0.0000
+Token: ' within' (ID: 2878), Prob: 0.0000
+Token: '	B' (ID: 12791), Prob: 0.0000
+Token: ' mainly' (ID: 14576), Prob: 0.0000
+Token: ' T' (ID: 350), Prob: 0.0000
+Token: ' regarding' (ID: 8826), Prob: 0.0000
+Token: ' under' (ID: 1212), Prob: 0.0000
+Token: ' using' (ID: 1667), Prob: 0.0000
+
+== Ranked Concepts (Clusters) ==
+Rank 1 | Centroid: ' B' | Score: 0.0033
+  Tokens: [' B', '.B', 'B', '\tB']
+Rank 2 | Centroid: ''s' | Score: 0.0007
+  Tokens: ["'s", '’s']
+Rank 3 | Centroid: ' in' | Score: 0.0003
+  Tokens: [' and', ' in', ' as', ' to', ' is', ' at', ' of', ' on', ' for']
+Rank 4 | Centroid: ' during' | Score: 0.0001
+  Tokens: [' during', ' within']
+Rank 5 | Centroid: ' with' | Score: 0.0001
+  Tokens: [' from', ' by', ' with']
+Rank 6 | Centroid: ' D' | Score: 0.0000
+  Tokens: [' C', ' D', ' T']
+Rank 7 | Centroid: ' according' | Score: 0.0000
+  Tokens: [' according', ' based']
+Rank 8 | Centroid: ' through' | Score: 0.0000
+  Tokens: [' through', ' using']
+Rank 9 | Centroid: ' when' | Score: 0.0000
+  Tokens: [' when', ' regarding']
+Rank 10 | Centroid: '\n' | Score: 0.0000
+  Tokens: ['\\n']
+Rank 11 | Centroid: ' mainly' | Score: 0.0000
+  Tokens: [' mainly']
+Rank 12 | Centroid: ' under' | Score: 0.0000
+  Tokens: [' under']
+
+**Chosen Concept:** Rank 1

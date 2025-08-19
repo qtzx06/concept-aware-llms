@@ -1,126 +1,115 @@
 --- Step 42 Log ---
 
 == Filtered Candidates ==
-Token: ' persuasion' (ID: 97124), Prob: 0.2236
-Token: ' prompting' (ID: 49645), Prob: 0.0052
-Token: ' persu' (ID: 23685), Prob: 0.0041
-Token: ' prior' (ID: 4867), Prob: 0.0036
-Token: ' previous' (ID: 3681), Prob: 0.0021
-Token: ' intent' (ID: 7385), Prob: 0.0016
-Token: ' one' (ID: 825), Prob: 0.0014
-Token: ' permission' (ID: 7882), Prob: 0.0014
-Token: ' direct' (ID: 2118), Prob: 0.0008
-Token: ' asking' (ID: 10161), Prob: 0.0007
-Token: ' urging' (ID: 42576), Prob: 0.0006
-Token: ' pushing' (ID: 17461), Prob: 0.0005
-Token: ' persuasive' (ID: 65243), Prob: 0.0005
-Token: ' someone' (ID: 4325), Prob: 0.0004
-Token: ' proper' (ID: 6169), Prob: 0.0004
-Token: ' getting' (ID: 3709), Prob: 0.0003
-Token: ' explicit' (ID: 11464), Prob: 0.0003
-Token: ' personal' (ID: 4345), Prob: 0.0003
-Token: ' thinking' (ID: 7274), Prob: 0.0003
-Token: ' due' (ID: 4152), Prob: 0.0003
-Token: ' consent' (ID: 14433), Prob: 0.0003
-Token: ' Pers' (ID: 20465), Prob: 0.0003
-Token: ' trying' (ID: 4460), Prob: 0.0003
-Token: ' wanting' (ID: 19211), Prob: 0.0003
-Token: ' expectation' (ID: 30193), Prob: 0.0003
-Token: ' showing' (ID: 9027), Prob: 0.0002
-Token: ' hesitation' (ID: 64337), Prob: 0.0002
-Token: ' convincing' (ID: 39561), Prob: 0.0002
-Token: ' expecting' (ID: 22331), Prob: 0.0002
-Token: ' forcing' (ID: 24913), Prob: 0.0002
-Token: ' knowing' (ID: 14063), Prob: 0.0002
-Token: ' making' (ID: 3259), Prob: 0.0002
-Token: ' authority' (ID: 11198), Prob: 0.0002
-Token: ' explanation' (ID: 16148), Prob: 0.0002
-Token: ' saying' (ID: 5488), Prob: 0.0001
-Token: ' calling' (ID: 8098), Prob: 0.0001
-Token: ' mentioning' (ID: 44291), Prob: 0.0001
-Token: ' direction' (ID: 5106), Prob: 0.0001
-Token: ' user' (ID: 1196), Prob: 0.0001
-Token: ' seeking' (ID: 10887), Prob: 0.0001
-Token: ' anyone' (ID: 5489), Prob: 0.0001
-Token: ' talking' (ID: 7404), Prob: 0.0001
-Token: ' persistence' (ID: 40956), Prob: 0.0001
-Token: ' pers' (ID: 7413), Prob: 0.0001
-Token: ' telling' (ID: 11629), Prob: 0.0001
-Token: ' immediate' (ID: 13922), Prob: 0.0001
-Token: ' using' (ID: 1667), Prob: 0.0001
-Token: ' full' (ID: 2480), Prob: 0.0001
-Token: ' mutual' (ID: 26750), Prob: 0.0001
-Token: ' formal' (ID: 15908), Prob: 0.0001
-Token: ' others' (ID: 3800), Prob: 0.0001
-Token: ' insistence' (ID: 78297), Prob: 0.0001
-Token: ' much' (ID: 1753), Prob: 0.0001
-Token: ' pressure' (ID: 7262), Prob: 0.0001
-Token: ' invitation' (ID: 28688), Prob: 0.0001
-Token: ' giving' (ID: 7086), Prob: 0.0001
-Token: ' discussion' (ID: 10219), Prob: 0.0001
-Token: ' expressing' (ID: 36710), Prob: 0.0001
-Token: ' conversation' (ID: 10435), Prob: 0.0001
-Token: ' turning' (ID: 13054), Prob: 0.0001
-Token: ' taking' (ID: 4633), Prob: 0.0001
-Token: ' keeping' (ID: 10282), Prob: 0.0001
-Token: ' speaking' (ID: 12094), Prob: 0.0001
-Token: ' guidance' (ID: 18821), Prob: 0.0001
-Token: ' needing' (ID: 32821), Prob: 0.0001
-Token: ' proving' (ID: 38758), Prob: 0.0001
-Token: ' control' (ID: 2524), Prob: 0.0001
-Token: ' warning' (ID: 9958), Prob: 0.0001
-Token: ' coercion' (ID: 77142), Prob: 0.0001
-Token: ' good' (ID: 1661), Prob: 0.0001
-Token: ' earlier' (ID: 6788), Prob: 0.0001
-Token: ' prompt' (ID: 9934), Prob: 0.0001
-Token: ' intervention' (ID: 20949), Prob: 0.0001
-Token: ' dialogue' (ID: 21276), Prob: 0.0001
-Token: ' initiating' (ID: 78416), Prob: 0.0001
-Token: ' meeting' (ID: 6438), Prob: 0.0000
-Token: ' usual' (ID: 13475), Prob: 0.0000
-Token: ' leading' (ID: 6388), Prob: 0.0000
-Token: ' influence' (ID: 10173), Prob: 0.0000
-Token: ' intention' (ID: 14602), Prob: 0.0000
-Token: ' motivation' (ID: 24798), Prob: 0.0000
-Token: ' negotiation' (ID: 48048), Prob: 0.0000
-Token: ' clear' (ID: 2797), Prob: 0.0000
+Token: ' year' (ID: 1042), Prob: 1.0000
+Token: ' decade' (ID: 13212), Prob: 0.0001
+Token: ' years' (ID: 1635), Prob: 0.0001
+Token: ' season' (ID: 3200), Prob: 0.0001
+Token: ' series' (ID: 4013), Prob: 0.0001
+Token: ' month' (ID: 2254), Prob: 0.0001
+Token: ' period' (ID: 4168), Prob: 0.0000
+Token: ' week' (ID: 2003), Prob: 0.0000
+Token: ' time' (ID: 882), Prob: 0.0000
+Token: 'year' (ID: 3157), Prob: 0.0000
+Token: ' role' (ID: 3476), Prob: 0.0000
+Token: ' calendar' (ID: 13168), Prob: 0.0000
+Token: ' television' (ID: 12425), Prob: 0.0000
+Token: ' film' (ID: 4531), Prob: 0.0000
+Token: ' day' (ID: 1899), Prob: 0.0000
+Token: ' century' (ID: 9294), Prob: 0.0000
+Token: ' two' (ID: 1378), Prob: 0.0000
+Token: ' Year' (ID: 9742), Prob: 0.0000
+Token: ' summer' (ID: 7324), Prob: 0.0000
+Token: ' BBC' (ID: 18096), Prob: 0.0000
+Token: ' episode' (ID: 9234), Prob: 0.0000
+Token: ' subsequent' (ID: 17420), Prob: 0.0000
+Token: ' as' (ID: 438), Prob: 0.0000
+Token: ' he' (ID: 566), Prob: 0.0000
+Token: ' country' (ID: 3146), Prob: 0.0000
+Token: ' and' (ID: 323), Prob: 0.0000
+Token: ' way' (ID: 1616), Prob: 0.0000
+Token: ' following' (ID: 2701), Prob: 0.0000
+Token: ' production' (ID: 5670), Prob: 0.0000
+Token: ' the' (ID: 279), Prob: 0.0000
+Token: ' city' (ID: 3283), Prob: 0.0000
+Token: ' y' (ID: 379), Prob: 0.0000
+Token: ' edition' (ID: 13688), Prob: 0.0000
+Token: ' minute' (ID: 9383), Prob: 0.0000
+Token: ' winter' (ID: 12406), Prob: 0.0000
+Token: '-year' (ID: 4666), Prob: 0.0000
+Token: ' theatre' (ID: 33496), Prob: 0.0000
+Token: ' next' (ID: 1790), Prob: 0.0000
+Token: ' era' (ID: 11385), Prob: 0.0000
+Token: ' academic' (ID: 14250), Prob: 0.0000
+Token: ' annual' (ID: 9775), Prob: 0.0000
+Token: ' town' (ID: 6290), Prob: 0.0000
+Token: ' hour' (ID: 6460), Prob: 0.0000
+Token: ' acting' (ID: 15358), Prob: 0.0000
+Token: ' later' (ID: 2937), Prob: 0.0000
+Token: ' financial' (ID: 5896), Prob: 0.0000
+Token: ' ye' (ID: 19478), Prob: 0.0000
+Token: ' fiscal' (ID: 19743), Prob: 0.0000
+Token: ' theatrical' (ID: 65233), Prob: 0.0000
+Token: ' in' (ID: 304), Prob: 0.0000
+Token: ' previous' (ID: 3681), Prob: 0.0000
+Token: ' YEAR' (ID: 50905), Prob: 0.0000
+Token: ' show' (ID: 1473), Prob: 0.0000
+Token: ' UK' (ID: 6424), Prob: 0.0000
+Token: ' actor' (ID: 12089), Prob: 0.0000
+Token: ' region' (ID: 5537), Prob: 0.0000
+Token: ' broadcast' (ID: 12899), Prob: 0.0000
+Token: ' studio' (ID: 14029), Prob: 0.0000
+Token: ' musical' (ID: 17795), Prob: 0.0000
+Token: ' stage' (ID: 6430), Prob: 0.0000
+Token: ' three' (ID: 2326), Prob: 0.0000
+Token: ' night' (ID: 3729), Prob: 0.0000
+Token: ' TV' (ID: 5883), Prob: 0.0000
+Token: ' s' (ID: 274), Prob: 0.0000
+Token: ' quarter' (ID: 8338), Prob: 0.0000
+Token: ' năm' (ID: 128290), Prob: 0.0000
+Token: ' of' (ID: 315), Prob: 0.0000
+Token: ' tw' (ID: 4384), Prob: 0.0000
 
 == Ranked Concepts (Clusters) ==
-Rank 1 | Centroid: ' persu' | Score: 0.2285
-  Tokens: [' persuasion', ' persu', ' persuasive', ' convincing']
-Rank 2 | Centroid: ' urging' | Score: 0.0065
-  Tokens: [' prompting', ' urging', ' pushing', ' forcing', ' initiating']
-Rank 3 | Centroid: ' previous' | Score: 0.0058
-  Tokens: [' prior', ' previous', ' earlier', ' usual']
-Rank 4 | Centroid: ' good' | Score: 0.0027
-  Tokens: [' one', ' proper', ' personal', ' due', ' user', ' full', ' much', ' good']
-Rank 5 | Centroid: ' permission' | Score: 0.0023
-  Tokens: [' permission', ' consent', ' authority', ' direction', ' pressure', ' guidance', ' control', ' intervention', ' influence']
-Rank 6 | Centroid: ' intention' | Score: 0.0021
-  Tokens: [' intent', ' expectation', ' expecting', ' intention']
-Rank 7 | Centroid: ' explicit' | Score: 0.0014
-  Tokens: [' direct', ' explicit', ' immediate', ' mutual', ' formal', ' clear']
-Rank 8 | Centroid: ' saying' | Score: 0.0012
-  Tokens: [' asking', ' saying', ' calling', ' mentioning', ' telling', ' expressing']
-Rank 9 | Centroid: ' getting' | Score: 0.0012
-  Tokens: [' getting', ' showing', ' making', ' using', ' giving', ' turning', ' taking', ' keeping', ' proving']
-Rank 10 | Centroid: ' wanting' | Score: 0.0009
-  Tokens: [' trying', ' wanting', ' knowing', ' seeking', ' needing']
-Rank 11 | Centroid: ' someone' | Score: 0.0006
-  Tokens: [' someone', ' anyone', ' others']
-Rank 12 | Centroid: ' Pers' | Score: 0.0005
-  Tokens: [' Pers', ' persistence', ' pers']
-Rank 13 | Centroid: ' insistence' | Score: 0.0005
-  Tokens: [' hesitation', ' insistence', ' invitation', ' coercion', ' motivation']
-Rank 14 | Centroid: ' talking' | Score: 0.0005
-  Tokens: [' thinking', ' talking', ' speaking']
-Rank 15 | Centroid: ' conversation' | Score: 0.0004
-  Tokens: [' explanation', ' discussion', ' conversation', ' dialogue', ' negotiation']
-Rank 16 | Centroid: ' warning' | Score: 0.0001
-  Tokens: [' warning', ' prompt']
-Rank 17 | Centroid: ' meeting' | Score: 0.0000
-  Tokens: [' meeting']
-Rank 18 | Centroid: ' leading' | Score: 0.0000
-  Tokens: [' leading']
+Rank 1 | Centroid: ' year' | Score: 1.0000
+  Tokens: [' year', ' years', 'year', ' Year', '-year', ' annual', ' YEAR', ' năm']
+Rank 2 | Centroid: ' decade' | Score: 0.0001
+  Tokens: [' decade', ' century']
+Rank 3 | Centroid: ' week' | Score: 0.0001
+  Tokens: [' month', ' week', ' day', ' minute', ' hour', ' night']
+Rank 4 | Centroid: ' summer' | Score: 0.0001
+  Tokens: [' season', ' summer', ' winter']
+Rank 5 | Centroid: ' episode' | Score: 0.0001
+  Tokens: [' series', ' episode', ' edition']
+Rank 6 | Centroid: ' period' | Score: 0.0000
+  Tokens: [' period', ' era']
+Rank 7 | Centroid: ' television' | Score: 0.0000
+  Tokens: [' television', ' film', ' BBC', ' production', ' broadcast', ' TV']
+Rank 8 | Centroid: ' time' | Score: 0.0000
+  Tokens: [' time']
+Rank 9 | Centroid: ' role' | Score: 0.0000
+  Tokens: [' role', ' way']
+Rank 10 | Centroid: ' financial' | Score: 0.0000
+  Tokens: [' calendar', ' academic', ' financial', ' fiscal', ' musical']
+Rank 11 | Centroid: ' subsequent' | Score: 0.0000
+  Tokens: [' subsequent', ' following', ' next', ' later', ' previous']
+Rank 12 | Centroid: ' two' | Score: 0.0000
+  Tokens: [' two', ' three', ' tw']
+Rank 13 | Centroid: ' city' | Score: 0.0000
+  Tokens: [' country', ' city', ' town', ' region']
+Rank 14 | Centroid: ' theatrical' | Score: 0.0000
+  Tokens: [' theatre', ' acting', ' theatrical', ' actor']
+Rank 15 | Centroid: ' the' | Score: 0.0000
+  Tokens: [' as', ' he', ' and', ' the', ' y', ' in', ' show', ' s', ' of']
+Rank 16 | Centroid: ' ye' | Score: 0.0000
+  Tokens: [' ye']
+Rank 17 | Centroid: ' UK' | Score: 0.0000
+  Tokens: [' UK']
+Rank 18 | Centroid: ' studio' | Score: 0.0000
+  Tokens: [' studio']
+Rank 19 | Centroid: ' stage' | Score: 0.0000
+  Tokens: [' stage']
+Rank 20 | Centroid: ' quarter' | Score: 0.0000
+  Tokens: [' quarter']
 
 **Chosen Concept:** Rank 1

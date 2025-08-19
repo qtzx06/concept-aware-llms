@@ -1,0 +1,140 @@
+--- Step 55 Log ---
+
+== Filtered Candidates ==
+Token: ' family' (ID: 2997), Prob: 0.9336
+Token: ' poet' (ID: 39260), Prob: 0.0194
+Token: ' scholar' (ID: 18145), Prob: 0.0171
+Token: ' and' (ID: 323), Prob: 0.0063
+Token: ' official' (ID: 3946), Prob: 0.0030
+Token: ' military' (ID: 6277), Prob: 0.0026
+Token: ' academic' (ID: 14250), Prob: 0.0020
+Token: ' man' (ID: 883), Prob: 0.0014
+Token: ' literary' (ID: 31365), Prob: 0.0011
+Token: ' scholarly' (ID: 62581), Prob: 0.0009
+Token: ' political' (ID: 4948), Prob: 0.0005
+Token: ' lineage' (ID: 63909), Prob: 0.0005
+Token: ' Chinese' (ID: 8453), Prob: 0.0004
+Token: ' politician' (ID: 35938), Prob: 0.0004
+Token: ' clan' (ID: 38462), Prob: 0.0004
+Token: ' Conf' (ID: 14974), Prob: 0.0004
+Token: ' historian' (ID: 42968), Prob: 0.0004
+Token: ' person' (ID: 1697), Prob: 0.0003
+Token: ' noble' (ID: 34382), Prob: 0.0003
+Token: ' general' (ID: 4586), Prob: 0.0003
+Token: ' figure' (ID: 7071), Prob: 0.0003
+Token: ' dynasty' (ID: 66846), Prob: 0.0003
+Token: ' officer' (ID: 9452), Prob: 0.0002
+Token: ' couple' (ID: 5625), Prob: 0.0002
+Token: ' father' (ID: 6981), Prob: 0.0002
+Token: ' minister' (ID: 12725), Prob: 0.0002
+Token: ' intellectual' (ID: 19634), Prob: 0.0002
+Token: ' household' (ID: 13732), Prob: 0.0001
+Token: ' government' (ID: 3033), Prob: 0.0001
+Token: ' house' (ID: 3753), Prob: 0.0001
+Token: ' member' (ID: 4462), Prob: 0.0001
+Token: ' educational' (ID: 16229), Prob: 0.0001
+Token: ' mathematic' (ID: 20976), Prob: 0.0001
+Token: ' line' (ID: 1555), Prob: 0.0001
+Token: ' ancestor' (ID: 45731), Prob: 0.0001
+Token: ' senator' (ID: 31697), Prob: 0.0001
+Token: ' philosopher' (ID: 54375), Prob: 0.0001
+Token: ' historical' (ID: 13656), Prob: 0.0001
+Token: ' soldier' (ID: 26110), Prob: 0.0001
+Token: ' imperial' (ID: 34279), Prob: 0.0001
+Token: ' gentleman' (ID: 45129), Prob: 0.0001
+Token: 'family' (ID: 18984), Prob: 0.0001
+Token: ' Han' (ID: 20644), Prob: 0.0001
+Token: ' physician' (ID: 27279), Prob: 0.0001
+Token: ' painter' (ID: 29481), Prob: 0.0001
+Token: ' teacher' (ID: 11079), Prob: 0.0001
+Token: ' warrior' (ID: 37390), Prob: 0.0001
+Token: ' families' (ID: 8521), Prob: 0.0001
+Token: ' diplomat' (ID: 67950), Prob: 0.0001
+Token: ' but' (ID: 714), Prob: 0.0000
+Token: ' old' (ID: 2310), Prob: 0.0000
+Token: ' court' (ID: 5473), Prob: 0.0000
+Token: ' liter' (ID: 6935), Prob: 0.0000
+Token: ' university' (ID: 12103), Prob: 0.0000
+Token: ' citizen' (ID: 21860), Prob: 0.0000
+Token: ' cadre' (ID: 59597), Prob: 0.0000
+Token: ' poetic' (ID: 75434), Prob: 0.0000
+Token: ' g' (ID: 342), Prob: 0.0000
+Token: ' name' (ID: 829), Prob: 0.0000
+Token: ' state' (ID: 1584), Prob: 0.0000
+Token: ' individual' (ID: 3842), Prob: 0.0000
+Token: ' writer' (ID: 6916), Prob: 0.0000
+Token: ' army' (ID: 13390), Prob: 0.0000
+Token: ' Qing' (ID: 61912), Prob: 0.0000
+Token: ' school' (ID: 2906), Prob: 0.0000
+Token: ' medical' (ID: 6457), Prob: 0.0000
+Token: ' doctor' (ID: 10668), Prob: 0.0000
+Token: ' poetry' (ID: 31249), Prob: 0.0000
+Token: ' martial' (ID: 36859), Prob: 0.0000
+Token: ' litter' (ID: 38582), Prob: 0.0000
+Token: ' Tang' (ID: 40362), Prob: 0.0000
+Token: ' professor' (ID: 14227), Prob: 0.0000
+Token: ' musical' (ID: 17795), Prob: 0.0000
+Token: ' merchant' (ID: 29238), Prob: 0.0000
+Token: ' public' (ID: 584), Prob: 0.0000
+Token: ' her' (ID: 1059), Prob: 0.0000
+Token: ' blood' (ID: 6543), Prob: 0.0000
+Token: ' arist' (ID: 63738), Prob: 0.0000
+Token: ' e' (ID: 384), Prob: 0.0000
+Token: ' surname' (ID: 39753), Prob: 0.0000
+Token: ' familial' (ID: 97204), Prob: 0.0000
+
+== Ranked Concepts (Clusters) ==
+Rank 1 | Centroid: ' family' | Score: 0.9336
+  Tokens: [' family', 'family', ' families', ' familial']
+Rank 2 | Centroid: ' poetry' | Score: 0.0195
+  Tokens: [' poet', ' poetic', ' poetry']
+Rank 3 | Centroid: ' professor' | Score: 0.0172
+  Tokens: [' scholar', ' teacher', ' professor']
+Rank 4 | Centroid: ' and' | Score: 0.0068
+  Tokens: [' and', ' general', ' but', ' old', ' g', ' public', ' her', ' e']
+Rank 5 | Centroid: ' official' | Score: 0.0034
+  Tokens: [' official', ' political']
+Rank 6 | Centroid: ' academic' | Score: 0.0032
+  Tokens: [' academic', ' scholarly', ' intellectual', ' educational']
+Rank 7 | Centroid: ' military' | Score: 0.0028
+  Tokens: [' military', ' soldier', ' warrior', ' army', ' martial']
+Rank 8 | Centroid: ' person' | Score: 0.0022
+  Tokens: [' man', ' person', ' figure', ' member', ' individual']
+Rank 9 | Centroid: ' clan' | Score: 0.0013
+  Tokens: [' lineage', ' clan', ' dynasty', ' ancestor', ' surname']
+Rank 10 | Centroid: ' literary' | Score: 0.0011
+  Tokens: [' literary', ' musical']
+Rank 11 | Centroid: ' politician' | Score: 0.0011
+  Tokens: [' politician', ' officer', ' minister', ' senator', ' gentleman', ' diplomat', ' citizen', ' merchant']
+Rank 12 | Centroid: ' Qing' | Score: 0.0009
+  Tokens: [' Chinese', ' Conf', ' Han', ' Qing', ' Tang']
+Rank 13 | Centroid: ' philosopher' | Score: 0.0007
+  Tokens: [' historian', ' mathematic', ' philosopher', ' painter', ' writer']
+Rank 14 | Centroid: ' arist' | Score: 0.0004
+  Tokens: [' noble', ' imperial', ' arist']
+Rank 15 | Centroid: ' couple' | Score: 0.0003
+  Tokens: [' couple', ' father']
+Rank 16 | Centroid: ' household' | Score: 0.0003
+  Tokens: [' household', ' house']
+Rank 17 | Centroid: ' government' | Score: 0.0002
+  Tokens: [' government', ' state']
+Rank 18 | Centroid: ' line' | Score: 0.0001
+  Tokens: [' line', ' name']
+Rank 19 | Centroid: ' physician' | Score: 0.0001
+  Tokens: [' physician', ' doctor']
+Rank 20 | Centroid: ' university' | Score: 0.0001
+  Tokens: [' university', ' school']
+Rank 21 | Centroid: ' liter' | Score: 0.0001
+  Tokens: [' liter', ' litter']
+Rank 22 | Centroid: ' historical' | Score: 0.0001
+  Tokens: [' historical']
+Rank 23 | Centroid: ' cadre' | Score: 0.0000
+  Tokens: [' cadre']
+Rank 24 | Centroid: ' court' | Score: 0.0000
+  Tokens: [' court']
+Rank 25 | Centroid: ' medical' | Score: 0.0000
+  Tokens: [' medical']
+Rank 26 | Centroid: ' blood' | Score: 0.0000
+  Tokens: [' blood']
+
+**Chosen Concept:** Rank 1

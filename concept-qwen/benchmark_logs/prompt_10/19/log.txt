@@ -1,0 +1,130 @@
+--- Step 19 Log ---
+
+== Filtered Candidates ==
+Token: ' Tang' (ID: 40362), Prob: 0.2305
+Token: ' early' (ID: 4124), Prob: 0.0747
+Token: ' Chinese' (ID: 8453), Prob: 0.0747
+Token: ' late' (ID: 3309), Prob: 0.0515
+Token: ' classical' (ID: 28824), Prob: 0.0276
+Token: ' mid' (ID: 5099), Prob: 0.0167
+Token: ' W' (ID: 467), Prob: 0.0148
+Token: ' romantic' (ID: 23467), Prob: 0.0148
+Token: ' first' (ID: 1156), Prob: 0.0130
+Token: ' court' (ID: 5473), Prob: 0.0130
+Token: ' middle' (ID: 6149), Prob: 0.0130
+Token: ' later' (ID: 2937), Prob: 0.0101
+Token: ' Chen' (ID: 24495), Prob: 0.0101
+Token: ' w' (ID: 289), Prob: 0.0090
+Token: ' Classic' (ID: 21837), Prob: 0.0090
+Token: ' Zheng' (ID: 76447), Prob: 0.0090
+Token: ' Z' (ID: 1863), Prob: 0.0079
+Token: ' second' (ID: 2086), Prob: 0.0079
+Token: ' Buddhist' (ID: 46741), Prob: 0.0079
+Token: ' New' (ID: 1532), Prob: 0.0070
+Token: ' Second' (ID: 10440), Prob: 0.0070
+Token: ' era' (ID: 11385), Prob: 0.0070
+Token: ' Middle' (ID: 12592), Prob: 0.0070
+Token: ' Eight' (ID: 35844), Prob: 0.0070
+Token: ' so' (ID: 773), Prob: 0.0054
+Token: ' Classical' (ID: 67433), Prob: 0.0054
+Token: ' G' (ID: 479), Prob: 0.0048
+Token: ' N' (ID: 451), Prob: 0.0042
+Token: ' High' (ID: 5124), Prob: 0.0042
+Token: ' Chang' (ID: 43372), Prob: 0.0042
+Token: ' classic' (ID: 11416), Prob: 0.0037
+Token: ' Li' (ID: 14511), Prob: 0.0037
+Token: ' Han' (ID: 20644), Prob: 0.0037
+Token: ' Jiang' (ID: 60822), Prob: 0.0037
+Token: ' S' (ID: 328), Prob: 0.0033
+Token: ' An' (ID: 1527), Prob: 0.0033
+Token: ' age' (ID: 4231), Prob: 0.0033
+Token: ' Jian' (ID: 87304), Prob: 0.0033
+Token: ' style' (ID: 1707), Prob: 0.0029
+Token: ' famous' (ID: 11245), Prob: 0.0029
+Token: ' Late' (ID: 35831), Prob: 0.0029
+Token: ' Kai' (ID: 50610), Prob: 0.0029
+Token: ' succeeding' (ID: 72720), Prob: 0.0029
+Token: ' z' (ID: 1147), Prob: 0.0027
+Token: ' eighth' (ID: 36377), Prob: 0.0026
+Token: ' initial' (ID: 2856), Prob: 0.0021
+Token: ' rise' (ID: 10000), Prob: 0.0021
+Token: ' regulated' (ID: 34219), Prob: 0.0021
+Token: ' frontier' (ID: 48000), Prob: 0.0021
+Token: ' new' (ID: 501), Prob: 0.0020
+Token: ' T' (ID: 350), Prob: 0.0019
+Token: ' transitional' (ID: 65643), Prob: 0.0019
+Token: ' Yong' (ID: 67954), Prob: 0.0019
+Token: ' Central' (ID: 10684), Prob: 0.0018
+Token: ' Southern' (ID: 16244), Prob: 0.0018
+Token: ' Wang' (ID: 28246), Prob: 0.0018
+Token: ' D' (ID: 422), Prob: 0.0017
+Token: ' J' (ID: 619), Prob: 0.0017
+Token: ' transition' (ID: 9142), Prob: 0.0017
+Token: ' landscape' (ID: 18414), Prob: 0.0017
+Token: ' golden' (ID: 20748), Prob: 0.0017
+Token: ' Old' (ID: 10621), Prob: 0.0016
+Token: ' literary' (ID: 31365), Prob: 0.0016
+Token: ' pre' (ID: 855), Prob: 0.0014
+Token: ' Ch' (ID: 910), Prob: 0.0014
+Token: ' old' (ID: 2310), Prob: 0.0014
+Token: ' School' (ID: 6022), Prob: 0.0014
+Token: ' upper' (ID: 8416), Prob: 0.0013
+Token: ' Northern' (ID: 16926), Prob: 0.0013
+Token: ' Neo' (ID: 40644), Prob: 0.0013
+Token: ' high' (ID: 1550), Prob: 0.0012
+Token: ' Golden' (ID: 17809), Prob: 0.0012
+Token: ' Liu' (ID: 37705), Prob: 0.0012
+Token: ' Sh' (ID: 1417), Prob: 0.0011
+Token: ' rare' (ID: 8848), Prob: 0.0011
+Token: ' Yang' (ID: 24474), Prob: 0.0011
+Token: ' earlier' (ID: 6788), Prob: 0.0011
+Token: ' beginning' (ID: 7167), Prob: 0.0011
+Token: ' Wei' (ID: 52448), Prob: 0.0011
+Token: ' the' (ID: 279), Prob: 0.0010
+Token: ' following' (ID: 2701), Prob: 0.0010
+Token: ' Wu' (ID: 36130), Prob: 0.0010
+Token: ' school' (ID: 2906), Prob: 0.0009
+Token: ' First' (ID: 5512), Prob: 0.0009
+Token: ' Seven' (ID: 29948), Prob: 0.0008
+Token: ' poetry' (ID: 31249), Prob: 0.0008
+Token: ' L' (ID: 444), Prob: 0.0008
+
+== Ranked Concepts (Clusters) ==
+Rank 1 | Centroid: ' Wang' | Score: 0.3535
+  Tokens: [' Tang', ' Chinese', ' Chen', ' Zheng', ' Chang', ' Li', ' Han', ' Jiang', ' Jian', ' Kai', ' Yong', ' Wang', ' Liu', ' Yang', ' Wei', ' Wu']
+Rank 2 | Centroid: ' late' | Score: 0.1406
+  Tokens: [' early', ' late', ' later', ' Late', ' earlier']
+Rank 3 | Centroid: ' the' | Score: 0.0664
+  Tokens: [' W', ' w', ' Z', ' so', ' G', ' N', ' S', ' An', ' z', ' T', ' D', ' J', ' pre', ' Ch', ' Sh', ' the', ' L']
+Rank 4 | Centroid: ' classical' | Score: 0.0486
+  Tokens: [' classical', ' Classic', ' Classical', ' classic', ' famous']
+Rank 5 | Centroid: ' middle' | Score: 0.0381
+  Tokens: [' mid', ' middle', ' Middle', ' upper']
+Rank 6 | Centroid: ' literary' | Score: 0.0317
+  Tokens: [' romantic', ' Buddhist', ' succeeding', ' frontier', ' landscape', ' literary', ' poetry']
+Rank 7 | Centroid: ' First' | Score: 0.0287
+  Tokens: [' first', ' second', ' Second', ' First']
+Rank 8 | Centroid: ' style' | Score: 0.0190
+  Tokens: [' court', ' style', ' rise', ' following']
+Rank 9 | Centroid: ' School' | Score: 0.0125
+  Tokens: [' era', ' age', ' School', ' school']
+Rank 10 | Centroid: ' Old' | Score: 0.0119
+  Tokens: [' New', ' new', ' Old', ' old']
+Rank 11 | Centroid: ' Eight' | Score: 0.0104
+  Tokens: [' Eight', ' eighth', ' Seven']
+Rank 12 | Centroid: ' Northern' | Score: 0.0065
+  Tokens: [' regulated', ' Southern', ' Northern', ' Neo']
+Rank 13 | Centroid: ' High' | Score: 0.0055
+  Tokens: [' High', ' high']
+Rank 14 | Centroid: ' transitional' | Score: 0.0035
+  Tokens: [' transitional', ' transition']
+Rank 15 | Centroid: ' initial' | Score: 0.0032
+  Tokens: [' initial', ' beginning']
+Rank 16 | Centroid: ' golden' | Score: 0.0029
+  Tokens: [' golden', ' Golden']
+Rank 17 | Centroid: ' Central' | Score: 0.0018
+  Tokens: [' Central']
+Rank 18 | Centroid: ' rare' | Score: 0.0011
+  Tokens: [' rare']
+
+**Chosen Concept:** Rank 1

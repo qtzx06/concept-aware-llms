@@ -1,0 +1,118 @@
+--- Step 13 Log ---
+
+== Filtered Candidates ==
+Token: ' style' (ID: 1707), Prob: 0.8789
+Token: ' tradition' (ID: 13815), Prob: 0.0437
+Token: ' form' (ID: 1352), Prob: 0.0183
+Token: ' poetic' (ID: 75434), Prob: 0.0110
+Token: ' poetry' (ID: 31249), Prob: 0.0098
+Token: ' literary' (ID: 31365), Prob: 0.0076
+Token: ' and' (ID: 323), Prob: 0.0067
+Token: ' of' (ID: 315), Prob: 0.0036
+Token: ' mode' (ID: 3856), Prob: 0.0032
+Token: ' genre' (ID: 17328), Prob: 0.0010
+Token: ' format' (ID: 3561), Prob: 0.0008
+Token: ' or' (ID: 476), Prob: 0.0006
+Token: ' language' (ID: 4128), Prob: 0.0006
+Token: ' traditional' (ID: 8606), Prob: 0.0006
+Token: ' register' (ID: 4161), Prob: 0.0003
+Token: ' period' (ID: 4168), Prob: 0.0003
+Token: ' verse' (ID: 32387), Prob: 0.0003
+Token: ' school' (ID: 2906), Prob: 0.0002
+Token: ' styles' (ID: 9222), Prob: 0.0002
+Token: ' literature' (ID: 17206), Prob: 0.0002
+Token: ' classical' (ID: 28824), Prob: 0.0002
+Token: ' id' (ID: 877), Prob: 0.0002
+Token: ' forms' (ID: 7586), Prob: 0.0001
+Token: ' category' (ID: 5582), Prob: 0.0001
+Token: ' dialect' (ID: 42279), Prob: 0.0001
+Token: ' prose' (ID: 60701), Prob: 0.0001
+Token: ' poem' (ID: 32794), Prob: 0.0001
+Token: ' vern' (ID: 71593), Prob: 0.0001
+Token: ' way' (ID: 1616), Prob: 0.0001
+Token: ' formal' (ID: 15908), Prob: 0.0001
+Token: ' epic' (ID: 24679), Prob: 0.0001
+Token: ' po' (ID: 3193), Prob: 0.0001
+Token: ' realm' (ID: 21889), Prob: 0.0001
+Token: ' that' (ID: 429), Prob: 0.0001
+Token: ' as' (ID: 438), Prob: 0.0001
+Token: ' court' (ID: 5473), Prob: 0.0001
+Token: ' which' (ID: 892), Prob: 0.0001
+Token: ' model' (ID: 1614), Prob: 0.0001
+Token: 'style' (ID: 3528), Prob: 0.0001
+Token: ' era' (ID: 11385), Prob: 0.0000
+Token: ' manner' (ID: 11566), Prob: 0.0000
+Token: ' with' (ID: 448), Prob: 0.0000
+Token: ' tongue' (ID: 24459), Prob: 0.0000
+Token: ' aesthetic' (ID: 36537), Prob: 0.0000
+Token: ' canon' (ID: 43816), Prob: 0.0000
+Token: ' vein' (ID: 53244), Prob: 0.0000
+Token: ' w' (ID: 289), Prob: 0.0000
+Token: ' in' (ID: 304), Prob: 0.0000
+Token: ' anthology' (ID: 83008), Prob: 0.0000
+Token: ' written' (ID: 5326), Prob: 0.0000
+Token: ' classic' (ID: 11416), Prob: 0.0000
+Token: ' poet' (ID: 39260), Prob: 0.0000
+Token: ' linguistic' (ID: 64667), Prob: 0.0000
+Token: ' real' (ID: 1931), Prob: 0.0000
+Token: ' vocabulary' (ID: 34918), Prob: 0.0000
+Token: ' ep' (ID: 4155), Prob: 0.0000
+Token: ' medium' (ID: 11051), Prob: 0.0000
+Token: ' Style' (ID: 11913), Prob: 0.0000
+Token: ' meter' (ID: 22962), Prob: 0.0000
+Token: ' for' (ID: 369), Prob: 0.0000
+Token: ' movement' (ID: 7203), Prob: 0.0000
+Token: ' technique' (ID: 14762), Prob: 0.0000
+Token: ' realism' (ID: 68771), Prob: 0.0000
+Token: ' to' (ID: 311), Prob: 0.0000
+Token: ' traditions' (ID: 30906), Prob: 0.0000
+Token: ' lyr' (ID: 85237), Prob: 0.0000
+Token: ' i' (ID: 600), Prob: 0.0000
+Token: ' art' (ID: 1947), Prob: 0.0000
+Token: ' writing' (ID: 4378), Prob: 0.0000
+Token: ' ball' (ID: 4935), Prob: 0.0000
+Token: ' pattern' (ID: 5383), Prob: 0.0000
+Token: ' structure' (ID: 5944), Prob: 0.0000
+Token: ' from' (ID: 504), Prob: 0.0000
+Token: '-style' (ID: 11297), Prob: 0.0000
+Token: ' heritage' (ID: 27848), Prob: 0.0000
+Token: ' repertoire' (ID: 76668), Prob: 0.0000
+Token: ' historical' (ID: 13656), Prob: 0.0000
+
+== Ranked Concepts (Clusters) ==
+Rank 1 | Centroid: ' style' | Score: 0.8789
+  Tokens: [' style', ' styles', 'style', ' Style', '-style']
+Rank 2 | Centroid: ' traditional' | Score: 0.0447
+  Tokens: [' tradition', ' traditional', ' classical', ' classic', ' traditions', ' heritage', ' historical']
+Rank 3 | Centroid: ' poetry' | Score: 0.0212
+  Tokens: [' poetic', ' poetry', ' verse', ' poem', ' po', ' poet']
+Rank 4 | Centroid: ' form' | Score: 0.0186
+  Tokens: [' form', ' forms', ' formal']
+Rank 5 | Centroid: ' and' | Score: 0.0115
+  Tokens: [' and', ' of', ' or', ' id', ' that', ' as', ' which', ' with', ' w', ' in', ' for', ' to', ' i', ' from']
+Rank 6 | Centroid: ' literary' | Score: 0.0079
+  Tokens: [' literary', ' literature', ' prose', ' lyr']
+Rank 7 | Centroid: ' format' | Score: 0.0041
+  Tokens: [' mode', ' format', ' model', ' technique', ' pattern', ' structure']
+Rank 8 | Centroid: ' genre' | Score: 0.0011
+  Tokens: [' genre', ' aesthetic', ' anthology', ' repertoire']
+Rank 9 | Centroid: ' linguistic' | Score: 0.0009
+  Tokens: [' language', ' dialect', ' vern', ' tongue', ' linguistic', ' vocabulary']
+Rank 10 | Centroid: ' era' | Score: 0.0006
+  Tokens: [' period', ' category', ' realm', ' era', ' medium', ' movement']
+Rank 11 | Centroid: ' register' | Score: 0.0004
+  Tokens: [' register', ' canon']
+Rank 12 | Centroid: ' school' | Score: 0.0003
+  Tokens: [' school', ' court', ' meter', ' ball']
+Rank 13 | Centroid: ' manner' | Score: 0.0002
+  Tokens: [' way', ' manner', ' vein']
+Rank 14 | Centroid: ' epic' | Score: 0.0001
+  Tokens: [' epic', ' ep']
+Rank 15 | Centroid: ' written' | Score: 0.0000
+  Tokens: [' written', ' writing']
+Rank 16 | Centroid: ' real' | Score: 0.0000
+  Tokens: [' real', ' realism']
+Rank 17 | Centroid: ' art' | Score: 0.0000
+  Tokens: [' art']
+
+**Chosen Concept:** Rank 1

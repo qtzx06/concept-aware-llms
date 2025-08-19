@@ -1,0 +1,127 @@
+--- Step 40 Log ---
+
+== Filtered Candidates ==
+Token: ' following' (ID: 2701), Prob: 0.1992
+Token: ' interpretation' (ID: 22845), Prob: 0.1069
+Token: ' issue' (ID: 4265), Prob: 0.0732
+Token: ' role' (ID: 3476), Prob: 0.0649
+Token: ' importance' (ID: 12650), Prob: 0.0393
+Token: ' idea' (ID: 4522), Prob: 0.0347
+Token: ' theory' (ID: 10126), Prob: 0.0270
+Token: ' problem' (ID: 3491), Prob: 0.0164
+Token: ' concept' (ID: 7286), Prob: 0.0164
+Token: ' topic' (ID: 8544), Prob: 0.0164
+Token: ' relationship' (ID: 5025), Prob: 0.0128
+Token: ' perspective' (ID: 13057), Prob: 0.0112
+Token: ' aspect' (ID: 12893), Prob: 0.0099
+Token: ' philosophical' (ID: 40803), Prob: 0.0099
+Token: ' views' (ID: 6194), Prob: 0.0088
+Token: ' influence' (ID: 10173), Prob: 0.0088
+Token: ' view' (ID: 1651), Prob: 0.0077
+Token: ' method' (ID: 1714), Prob: 0.0077
+Token: ' reasons' (ID: 7966), Prob: 0.0077
+Token: ' characteristics' (ID: 17452), Prob: 0.0077
+Token: ' significance' (ID: 25361), Prob: 0.0077
+Token: ' reason' (ID: 2874), Prob: 0.0068
+Token: ' author' (ID: 3150), Prob: 0.0060
+Token: ' philosophy' (ID: 19128), Prob: 0.0047
+Token: ' point' (ID: 1459), Prob: 0.0042
+Token: ' approach' (ID: 5486), Prob: 0.0042
+Token: ' theme' (ID: 6912), Prob: 0.0042
+Token: ' theoretical' (ID: 31787), Prob: 0.0042
+Token: ' issues' (ID: 4714), Prob: 0.0036
+Token: ' aspects' (ID: 13566), Prob: 0.0032
+Token: ' value' (ID: 897), Prob: 0.0028
+Token: ' question' (ID: 3405), Prob: 0.0028
+Token: ' purpose' (ID: 7428), Prob: 0.0028
+Token: ' historical' (ID: 13656), Prob: 0.0028
+Token: ' literary' (ID: 31365), Prob: 0.0028
+Token: ' argument' (ID: 5693), Prob: 0.0025
+Token: ' interpret' (ID: 14198), Prob: 0.0025
+Token: ' ideas' (ID: 6708), Prob: 0.0022
+Token: ' meaning' (ID: 7290), Prob: 0.0022
+Token: ' viewpoint' (ID: 58385), Prob: 0.0022
+Token: ' position' (ID: 2309), Prob: 0.0020
+Token: ' research' (ID: 3412), Prob: 0.0020
+Token: ' practice' (ID: 6588), Prob: 0.0020
+Token: ' function' (ID: 729), Prob: 0.0017
+Token: ' discussion' (ID: 10219), Prob: 0.0017
+Token: ' principle' (ID: 17508), Prob: 0.0017
+Token: ' interpretations' (ID: 57589), Prob: 0.0017
+Token: ' main' (ID: 1887), Prob: 0.0015
+Token: ' methods' (ID: 5413), Prob: 0.0015
+Token: ' phenomenon' (ID: 24844), Prob: 0.0015
+Token: ' theories' (ID: 24970), Prob: 0.0015
+Token: ' focus' (ID: 5244), Prob: 0.0013
+Token: ' traditional' (ID: 8606), Prob: 0.0013
+Token: ' explanation' (ID: 16148), Prob: 0.0013
+Token: ' principles' (ID: 16170), Prob: 0.0013
+Token: ' attitude' (ID: 18915), Prob: 0.0013
+Token: ' content' (ID: 2213), Prob: 0.0012
+Token: ' context' (ID: 2266), Prob: 0.0012
+Token: ' application' (ID: 3766), Prob: 0.0012
+Token: ' problems' (ID: 5322), Prob: 0.0012
+Token: ' critical' (ID: 9023), Prob: 0.0012
+Token: ' cultural' (ID: 12752), Prob: 0.0012
+Token: ' key' (ID: 1376), Prob: 0.0010
+Token: ' important' (ID: 2989), Prob: 0.0010
+Token: ' subject' (ID: 3832), Prob: 0.0010
+Token: ' impact' (ID: 5421), Prob: 0.0010
+Token: ' work' (ID: 975), Prob: 0.0009
+Token: ' inter' (ID: 946), Prob: 0.0008
+Token: ' study' (ID: 3920), Prob: 0.0008
+Token: ' academic' (ID: 14250), Prob: 0.0008
+Token: ' notion' (ID: 22240), Prob: 0.0008
+Token: ' artistic' (ID: 31592), Prob: 0.0008
+Token: ' use' (ID: 990), Prob: 0.0007
+Token: ' nature' (ID: 6993), Prob: 0.0007
+Token: ' understanding' (ID: 8660), Prob: 0.0007
+Token: ' factors' (ID: 9363), Prob: 0.0007
+Token: ' moral' (ID: 15659), Prob: 0.0007
+Token: ' characteristic' (ID: 28583), Prob: 0.0007
+Token: ' methodology' (ID: 37052), Prob: 0.0007
+Token: ' relevance' (ID: 40861), Prob: 0.0007
+Token: ' features' (ID: 4419), Prob: 0.0006
+Token: ' difference' (ID: 6672), Prob: 0.0006
+
+== Ranked Concepts (Clusters) ==
+Rank 1 | Centroid: ' important' | Score: 0.2119
+  Tokens: [' following', ' value', ' function', ' main', ' content', ' critical', ' key', ' important', ' work', ' inter', ' use']
+Rank 2 | Centroid: ' importance' | Score: 0.1357
+  Tokens: [' role', ' importance', ' relationship', ' influence', ' significance', ' impact', ' relevance']
+Rank 3 | Centroid: ' interpretation' | Score: 0.1133
+  Tokens: [' interpretation', ' interpret', ' interpretations', ' explanation', ' understanding']
+Rank 4 | Centroid: ' issues' | Score: 0.0972
+  Tokens: [' issue', ' problem', ' issues', ' question', ' problems']
+Rank 5 | Centroid: ' idea' | Score: 0.0571
+  Tokens: [' idea', ' concept', ' ideas', ' principle', ' principles', ' notion']
+Rank 6 | Centroid: ' theory' | Score: 0.0374
+  Tokens: [' theory', ' philosophy', ' theoretical', ' theories']
+Rank 7 | Centroid: ' view' | Score: 0.0299
+  Tokens: [' perspective', ' views', ' view', ' viewpoint']
+Rank 8 | Centroid: ' characteristics' | Score: 0.0237
+  Tokens: [' aspect', ' characteristics', ' aspects', ' nature', ' factors', ' characteristic', ' features']
+Rank 9 | Centroid: ' topic' | Score: 0.0216
+  Tokens: [' topic', ' theme', ' subject']
+Rank 10 | Centroid: ' literary' | Score: 0.0205
+  Tokens: [' philosophical', ' historical', ' literary', ' traditional', ' cultural', ' academic', ' artistic', ' moral']
+Rank 11 | Centroid: ' reason' | Score: 0.0181
+  Tokens: [' reasons', ' reason', ' purpose', ' difference']
+Rank 12 | Centroid: ' method' | Score: 0.0161
+  Tokens: [' method', ' approach', ' practice', ' methods', ' methodology']
+Rank 13 | Centroid: ' research' | Score: 0.0088
+  Tokens: [' author', ' research', ' study']
+Rank 14 | Centroid: ' position' | Score: 0.0086
+  Tokens: [' point', ' position', ' focus', ' context']
+Rank 15 | Centroid: ' argument' | Score: 0.0042
+  Tokens: [' argument', ' discussion']
+Rank 16 | Centroid: ' meaning' | Score: 0.0022
+  Tokens: [' meaning']
+Rank 17 | Centroid: ' phenomenon' | Score: 0.0015
+  Tokens: [' phenomenon']
+Rank 18 | Centroid: ' attitude' | Score: 0.0013
+  Tokens: [' attitude']
+Rank 19 | Centroid: ' application' | Score: 0.0012
+  Tokens: [' application']
+
+**Chosen Concept:** Rank 1

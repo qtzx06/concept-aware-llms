@@ -1,158 +1,101 @@
 --- Step 19 Log ---
 
 == Filtered Candidates ==
-Token: ' statement' (ID: 5114), Prob: 0.9141
-Token: ' brief' (ID: 9814), Prob: 0.0515
-Token: ' prompt' (ID: 9934), Prob: 0.0115
-Token: ' information' (ID: 1995), Prob: 0.0070
-Token: ' instruction' (ID: 7600), Prob: 0.0033
-Token: ' info' (ID: 3546), Prob: 0.0023
-Token: ' summary' (ID: 12126), Prob: 0.0023
-Token: ' text' (ID: 1467), Prob: 0.0014
-Token: ' short' (ID: 2805), Prob: 0.0008
-Token: ' story' (ID: 3364), Prob: 0.0007
-Token: ' instructions' (ID: 11221), Prob: 0.0004
-Token: ' details' (ID: 3565), Prob: 0.0004
-Token: ' description' (ID: 4008), Prob: 0.0004
-Token: ' quote' (ID: 12641), Prob: 0.0003
-Token: ' opening' (ID: 8568), Prob: 0.0002
-Token: ' query' (ID: 3239), Prob: 0.0001
-Token: ' statements' (ID: 12239), Prob: 0.0001
-Token: ' script' (ID: 5316), Prob: 0.0001
-Token: ' briefing' (ID: 42536), Prob: 0.0001
-Token: ' outline' (ID: 21101), Prob: 0.0001
-Token: ' excerpt' (ID: 49465), Prob: 0.0001
-Token: ' introduction' (ID: 16800), Prob: 0.0001
-Token: ' sentence' (ID: 11652), Prob: 0.0001
-Token: ' paragraph' (ID: 14311), Prob: 0.0001
-Token: ' passage' (ID: 21085), Prob: 0.0001
-Token: ' input' (ID: 1946), Prob: 0.0001
-Token: ' detail' (ID: 7716), Prob: 0.0001
-Token: ' premise' (ID: 40202), Prob: 0.0001
-Token: ' message' (ID: 1943), Prob: 0.0001
-Token: ' content' (ID: 2213), Prob: 0.0001
-Token: ' idea' (ID: 4522), Prob: 0.0001
-Token: ' background' (ID: 4004), Prob: 0.0000
-Token: ' phrase' (ID: 17133), Prob: 0.0000
-Token: ' start' (ID: 1191), Prob: 0.0000
-Token: ' context' (ID: 2266), Prob: 0.0000
-Token: ' intro' (ID: 19706), Prob: 0.0000
-Token: ' title' (ID: 2265), Prob: 0.0000
-Token: ' scene' (ID: 6109), Prob: 0.0000
-Token: ' abstract' (ID: 8115), Prob: 0.0000
-Token: ' scenario' (ID: 15048), Prob: 0.0000
-Token: ' snippet' (ID: 43065), Prob: 0.0000
-Token: ' introductory' (ID: 61369), Prob: 0.0000
-Token: ' stmt' (ID: 20020), Prob: 0.0000
-Token: ' bullet' (ID: 17432), Prob: 0.0000
-Token: ' stimulus' (ID: 38435), Prob: 0.0000
-Token: ' initial' (ID: 2856), Prob: 0.0000
-Token: ' stem' (ID: 19101), Prob: 0.0000
-Token: ' key' (ID: 1376), Prob: 0.0000
-Token: ' main' (ID: 1887), Prob: 0.0000
-Token: ' event' (ID: 1538), Prob: 0.0000
-Token: ' bold' (ID: 13939), Prob: 0.0000
-Token: ' theme' (ID: 6912), Prob: 0.0000
-Token: ' quick' (ID: 3974), Prob: 0.0000
-Token: ' speech' (ID: 8806), Prob: 0.0000
-Token: ' bio' (ID: 16905), Prob: 0.0000
-Token: ' fact' (ID: 2097), Prob: 0.0000
-Token: ' original' (ID: 4024), Prob: 0.0000
-Token: ' setup' (ID: 6505), Prob: 0.0000
-Token: ' starter' (ID: 26697), Prob: 0.0000
-Token: ' topic' (ID: 8544), Prob: 0.0000
-Token: ' subject' (ID: 3832), Prob: 0.0000
-Token: ' data' (ID: 821), Prob: 0.0000
-Token: ' example' (ID: 3110), Prob: 0.0000
-Token: ' hint' (ID: 13012), Prob: 0.0000
-Token: ' line' (ID: 1555), Prob: 0.0000
-Token: ' bre' (ID: 5282), Prob: 0.0000
-Token: ' starting' (ID: 5916), Prob: 0.0000
-Token: ' basic' (ID: 6770), Prob: 0.0000
-Token: ' birth' (ID: 7194), Prob: 0.0000
-Token: ' facts' (ID: 13064), Prob: 0.0000
-Token: ' trigger' (ID: 8183), Prob: 0.0000
-Token: ' headline' (ID: 31163), Prob: 0.0000
-Token: ' task' (ID: 3383), Prob: 0.0000
-Token: ' situation' (ID: 6534), Prob: 0.0000
-Token: ' announcement' (ID: 17043), Prob: 0.0000
-Token: ' directive' (ID: 33859), Prob: 0.0000
-Token: ' study' (ID: 3920), Prob: 0.0000
-Token: ' detailed' (ID: 11682), Prob: 0.0000
-Token: ' concise' (ID: 63594), Prob: 0.0000
-Token: ' structure' (ID: 5944), Prob: 0.0000
-Token: ' mention' (ID: 6286), Prob: 0.0000
-Token: ' extract' (ID: 8649), Prob: 0.0000
-Token: ' user' (ID: 1196), Prob: 0.0000
-Token: ' open' (ID: 1787), Prob: 0.0000
-Token: ' burst' (ID: 20524), Prob: 0.0000
-Token: ' overview' (ID: 23251), Prob: 0.0000
-Token: ' stim' (ID: 12647), Prob: 0.0000
-Token: ' news' (ID: 3669), Prob: 0.0000
-Token: ' keyword' (ID: 16174), Prob: 0.0000
-Token: ' request' (ID: 1681), Prob: 0.0000
-Token: ' question' (ID: 3405), Prob: 0.0000
-Token: ' entry' (ID: 4343), Prob: 0.0000
-Token: ' general' (ID: 4586), Prob: 0.0000
-Token: ' piece' (ID: 6573), Prob: 0.0000
-Token: ' schema' (ID: 10802), Prob: 0.0000
+Token: ' the' (ID: 279), Prob: 0.0059
+Token: ' which' (ID: 892), Prob: 0.0012
+Token: ' a' (ID: 264), Prob: 0.0002
+Token: ' May' (ID: 3217), Prob: 0.0001
+Token: ' January' (ID: 6058), Prob: 0.0001
+Token: ' April' (ID: 5813), Prob: 0.0001
+Token: ' July' (ID: 5768), Prob: 0.0001
+Token: ' October' (ID: 6527), Prob: 0.0001
+Token: ' March' (ID: 5470), Prob: 0.0001
+Token: ' September' (ID: 6122), Prob: 0.0001
+Token: ' November' (ID: 6702), Prob: 0.0001
+Token: ' Season' (ID: 14263), Prob: 0.0001
+Token: ' that' (ID: 429), Prob: 0.0000
+Token: ' August' (ID: 6156), Prob: 0.0000
+Token: ' February' (ID: 7400), Prob: 0.0000
+Token: ' both' (ID: 2176), Prob: 0.0000
+Token: ' season' (ID: 3200), Prob: 0.0000
+Token: ' June' (ID: 5534), Prob: 0.0000
+Token: ' its' (ID: 1181), Prob: 0.0000
+Token: ' an' (ID: 458), Prob: 0.0000
+Token: ' early' (ID: 4124), Prob: 0.0000
+Token: ' December' (ID: 6652), Prob: 0.0000
+Token: ' late' (ID: 3309), Prob: 0.0000
+Token: ' series' (ID: 4013), Prob: 0.0000
+Token: '2' (ID: 17), Prob: 0.0000
+Token: ' episode' (ID: 9234), Prob: 0.0000
+Token: ' two' (ID: 1378), Prob: 0.0000
+Token: ' summer' (ID: 7324), Prob: 0.0000
+Token: ' twenty' (ID: 17073), Prob: 0.0000
+Token: ' and' (ID: 323), Prob: 0.0000
+Token: ' The' (ID: 576), Prob: 0.0000
+Token: ' year' (ID: 1042), Prob: 0.0000
+Token: ' addition' (ID: 5256), Prob: 0.0000
+Token: ' episodes' (ID: 17770), Prob: 0.0000
+Token: ' autumn' (ID: 41674), Prob: 0.0000
+Token: ' mid' (ID: 5099), Prob: 0.0000
+Token: ' this' (ID: 419), Prob: 0.0000
+Token: ' BBC' (ID: 18096), Prob: 0.0000
+Token: ' Series' (ID: 11131), Prob: 0.0000
+Token: ' Episode' (ID: 19832), Prob: 0.0000
+Token: ' three' (ID: 2326), Prob: 0.0000
+Token: ' it' (ID: 432), Prob: 0.0000
+Token: ' what' (ID: 1128), Prob: 0.0000
+Token: ' later' (ID: 2937), Prob: 0.0000
+Token: ' four' (ID: 3040), Prob: 0.0000
+Token: ' one' (ID: 825), Prob: 0.0000
+Token: ' part' (ID: 949), Prob: 0.0000
+Token: ' either' (ID: 2987), Prob: 0.0000
+Token: ' his' (ID: 806), Prob: 0.0000
+Token: ' Year' (ID: 9742), Prob: 0.0000
+Token: ' seasons' (ID: 15584), Prob: 0.0000
+Token: ' spring' (ID: 10464), Prob: 0.0000
+Token: '1' (ID: 16), Prob: 0.0000
+Token: ' in' (ID: 304), Prob: 0.0000
+Token: ' Spring' (ID: 12252), Prob: 0.0000
+Token: ' television' (ID: 12425), Prob: 0.0000
+Token: ' collaboration' (ID: 20031), Prob: 0.0000
+Token: ' Summer' (ID: 18836), Prob: 0.0000
+Token: ' their' (ID: 862), Prob: 0.0000
+Token: ' fall' (ID: 4399), Prob: 0.0000
+Token: ' five' (ID: 4236), Prob: 0.0000
+Token: ' Which' (ID: 15920), Prob: 0.0000
+Token: ' winter' (ID: 12406), Prob: 0.0000
+Token: ' order' (ID: 1973), Prob: 0.0000
+Token: ' particular' (ID: 3953), Prob: 0.0000
+Token: ' ten' (ID: 5779), Prob: 0.0000
+Token: ' Fall' (ID: 14785), Prob: 0.0000
+Token: ' six' (ID: 4743), Prob: 0.0000
+Token: ' for' (ID: 369), Prob: 0.0000
+Token: ' around' (ID: 2163), Prob: 0.0000
+Token: ' production' (ID: 5670), Prob: 0.0000
+Token: ' as' (ID: 438), Prob: 0.0000
 
 == Ranked Concepts (Clusters) ==
-Rank 1 | Centroid: ' statement' | Score: 0.9141
-  Tokens: [' statement', ' statements', ' stmt']
-Rank 2 | Centroid: ' brief' | Score: 0.0525
-  Tokens: [' brief', ' short', ' bullet', ' bold', ' quick', ' bre', ' concise']
-Rank 3 | Centroid: ' stimulus' | Score: 0.0115
-  Tokens: [' prompt', ' stimulus', ' trigger', ' stim']
-Rank 4 | Centroid: ' information' | Score: 0.0093
-  Tokens: [' information', ' info', ' data']
-Rank 5 | Centroid: ' instruction' | Score: 0.0038
-  Tokens: [' instruction', ' instructions', ' directive']
-Rank 6 | Centroid: ' overview' | Score: 0.0028
-  Tokens: [' summary', ' description', ' outline', ' overview']
-Rank 7 | Centroid: ' text' | Score: 0.0014
-  Tokens: [' text', ' content', ' key', ' line', ' user']
-Rank 8 | Centroid: ' scenario' | Score: 0.0009
-  Tokens: [' story', ' context', ' scene', ' scenario', ' event', ' setup', ' example', ' situation', ' structure', ' schema']
-Rank 9 | Centroid: ' phrase' | Score: 0.0005
-  Tokens: [' quote', ' sentence', ' paragraph', ' phrase', ' speech', ' headline', ' keyword']
-Rank 10 | Centroid: ' details' | Score: 0.0005
-  Tokens: [' details', ' detail', ' detailed']
-Rank 11 | Centroid: ' opening' | Score: 0.0002
-  Tokens: [' opening', ' open', ' entry']
-Rank 12 | Centroid: ' request' | Score: 0.0002
-  Tokens: [' query', ' message', ' task', ' request', ' question']
-Rank 13 | Centroid: ' excerpt' | Score: 0.0002
-  Tokens: [' excerpt', ' passage', ' snippet']
-Rank 14 | Centroid: ' introduction' | Score: 0.0001
-  Tokens: [' introduction', ' intro', ' introductory']
-Rank 15 | Centroid: ' premise' | Score: 0.0001
-  Tokens: [' premise', ' idea']
-Rank 16 | Centroid: ' script' | Score: 0.0001
-  Tokens: [' script']
-Rank 17 | Centroid: ' briefing' | Score: 0.0001
-  Tokens: [' briefing']
-Rank 18 | Centroid: ' start' | Score: 0.0001
-  Tokens: [' start', ' stem', ' starter', ' starting', ' birth']
-Rank 19 | Centroid: ' input' | Score: 0.0001
-  Tokens: [' input', ' bio']
-Rank 20 | Centroid: ' topic' | Score: 0.0001
-  Tokens: [' title', ' theme', ' topic', ' subject']
-Rank 21 | Centroid: ' background' | Score: 0.0000
-  Tokens: [' background']
-Rank 22 | Centroid: ' initial' | Score: 0.0000
-  Tokens: [' initial', ' main', ' original', ' basic', ' general']
-Rank 23 | Centroid: ' abstract' | Score: 0.0000
-  Tokens: [' abstract']
-Rank 24 | Centroid: ' facts' | Score: 0.0000
-  Tokens: [' fact', ' facts', ' news']
-Rank 25 | Centroid: ' burst' | Score: 0.0000
-  Tokens: [' extract', ' burst', ' piece']
-Rank 26 | Centroid: ' announcement' | Score: 0.0000
-  Tokens: [' announcement', ' mention']
-Rank 27 | Centroid: ' hint' | Score: 0.0000
-  Tokens: [' hint']
-Rank 28 | Centroid: ' study' | Score: 0.0000
-  Tokens: [' study']
+Rank 1 | Centroid: ' the' | Score: 0.0062
+  Tokens: [' the', ' a', ' that', ' an', '2', ' and', ' The', ' this', ' it', ' one', ' part', '1', ' in', ' for', ' around', ' as']
+Rank 2 | Centroid: ' Which' | Score: 0.0012
+  Tokens: [' which', ' addition', ' BBC', ' television', ' collaboration', ' Which', ' order', ' particular', ' production']
+Rank 3 | Centroid: ' February' | Score: 0.0007
+  Tokens: [' May', ' January', ' April', ' July', ' October', ' March', ' September', ' November', ' August', ' February', ' June', ' December']
+Rank 4 | Centroid: ' season' | Score: 0.0001
+  Tokens: [' Season', ' season', ' year', ' Year', ' seasons']
+Rank 5 | Centroid: ' their' | Score: 0.0001
+  Tokens: [' both', ' its', ' what', ' either', ' his', ' their']
+Rank 6 | Centroid: ' late' | Score: 0.0000
+  Tokens: [' early', ' late', ' mid', ' later']
+Rank 7 | Centroid: ' five' | Score: 0.0000
+  Tokens: [' two', ' twenty', ' three', ' four', ' five', ' ten', ' six']
+Rank 8 | Centroid: ' episode' | Score: 0.0000
+  Tokens: [' episode', ' episodes', ' Episode']
+Rank 9 | Centroid: ' series' | Score: 0.0000
+  Tokens: [' series', ' Series']
+Rank 10 | Centroid: ' summer' | Score: 0.0000
+  Tokens: [' summer', ' autumn', ' spring', ' Spring', ' Summer', ' winter']
+Rank 11 | Centroid: ' fall' | Score: 0.0000
+  Tokens: [' fall', ' Fall']
 
 **Chosen Concept:** Rank 1

@@ -1,93 +1,104 @@
 --- Step 139 Log ---
 
 == Filtered Candidates ==
-Token: ' must' (ID: 1969), Prob: 0.8008
-Token: ' set' (ID: 738), Prob: 0.0089
-Token: ' includes' (ID: 5646), Prob: 0.0048
-Token: ' sets' (ID: 7289), Prob: 0.0042
-Token: ' include' (ID: 2924), Prob: 0.0006
-Token: ' may' (ID: 1231), Prob: 0.0005
-Token: ' could' (ID: 1410), Prob: 0.0003
-Token: ' another' (ID: 2441), Prob: 0.0003
-Token: ' would' (ID: 1035), Prob: 0.0002
-Token: ' scene' (ID: 6109), Prob: 0.0002
-Token: ' begins' (ID: 12033), Prob: 0.0001
-Token: ' involves' (ID: 17601), Prob: 0.0001
-Token: ' setting' (ID: 6243), Prob: 0.0001
-Token: ' might' (ID: 2578), Prob: 0.0001
-Token: ' shall' (ID: 4880), Prob: 0.0001
-Token: ' needs' (ID: 3880), Prob: 0.0001
-Token: ' ends' (ID: 10335), Prob: 0.0001
-Token: ' contains' (ID: 5610), Prob: 0.0001
-Token: ' consists' (ID: 17167), Prob: 0.0001
-Token: ' cannot' (ID: 4157), Prob: 0.0000
-Token: ' starts' (ID: 8471), Prob: 0.0000
-Token: ' represents' (ID: 10868), Prob: 0.0000
-Token: ' introduces' (ID: 38919), Prob: 0.0000
-Token: ' also' (ID: 1083), Prob: 0.0000
-Token: ' follows' (ID: 11017), Prob: 0.0000
-Token: ' describes' (ID: 16555), Prob: 0.0000
-Token: ' meets' (ID: 20027), Prob: 0.0000
-Token: '—the' (ID: 21677), Prob: 0.0000
-Token: ' within' (ID: 2878), Prob: 0.0000
-Token: ' provides' (ID: 5707), Prob: 0.0000
-Token: ' corresponds' (ID: 33210), Prob: 0.0000
-Token: ' comes' (ID: 4041), Prob: 0.0000
-Token: ' setup' (ID: 6505), Prob: 0.0000
+Token: ' series' (ID: 4013), Prob: 1.0000
+Token: ' Series' (ID: 11131), Prob: 0.0000
+Token: ' and' (ID: 323), Prob: 0.0000
+Token: ' television' (ID: 12425), Prob: 0.0000
+Token: 'series' (ID: 19880), Prob: 0.0000
+Token: ' serie' (ID: 32878), Prob: 0.0000
+Token: ' drama' (ID: 19584), Prob: 0.0000
+Token: '.series' (ID: 48649), Prob: 0.0000
+Token: ' TV' (ID: 5883), Prob: 0.0000
+Token: ' show' (ID: 1473), Prob: 0.0000
+Token: ' serial' (ID: 6146), Prob: 0.0000
+Token: ' programme' (ID: 18136), Prob: 0.0000
+Token: ''s' (ID: 594), Prob: 0.0000
+Token: ' The' (ID: 576), Prob: 0.0000
+Token: ' sitcom' (ID: 80366), Prob: 0.0000
+Token: ' police' (ID: 4282), Prob: 0.0000
+Token: ' série' (ID: 46428), Prob: 0.0000
+Token: 'Series' (ID: 25544), Prob: 0.0000
+Token: ' dramas' (ID: 87726), Prob: 0.0000
+Token: ' One' (ID: 3776), Prob: 0.0000
+Token: ' Crown' (ID: 28643), Prob: 0.0000
+Token: '(series' (ID: 70851), Prob: 0.0000
+Token: ' season' (ID: 3200), Prob: 0.0000
+Token: ' programmes' (ID: 37637), Prob: 0.0000
+Token: ' program' (ID: 2025), Prob: 0.0000
+Token: ' crime' (ID: 9778), Prob: 0.0000
+Token: ' news' (ID: 3669), Prob: 0.0000
+Token: ' radio' (ID: 8887), Prob: 0.0000
+Token: ' the' (ID: 279), Prob: 0.0000
+Token: ' variety' (ID: 8045), Prob: 0.0000
+Token: ' Radio' (ID: 13484), Prob: 0.0000
+Token: ' franchise' (ID: 19024), Prob: 0.0000
+Token: '1' (ID: 16), Prob: 0.0000
+Token: ' i' (ID: 600), Prob: 0.0000
+Token: ' s' (ID: 274), Prob: 0.0000
+Token: ' service' (ID: 2473), Prob: 0.0000
+Token: '-series' (ID: 56332), Prob: 0.0000
 Token: ' shows' (ID: 4933), Prob: 0.0000
-Token: ' outside' (ID: 4889), Prob: 0.0000
-Token: ' presents' (ID: 18404), Prob: 0.0000
-Token: ' one' (ID: 825), Prob: 0.0000
-Token: ' reflects' (ID: 25963), Prob: 0.0000
-Token: ' refers' (ID: 19257), Prob: 0.0000
-Token: ' creates' (ID: 11450), Prob: 0.0000
-Token: ' occurs' (ID: 13666), Prob: 0.0000
-Token: ' incorporates' (ID: 51824), Prob: 0.0000
-Token: ' requires' (ID: 7460), Prob: 0.0000
-Token: ' serves' (ID: 17045), Prob: 0.0000
-Token: ' focuses' (ID: 23497), Prob: 0.0000
-Token: ' next' (ID: 1790), Prob: 0.0000
-Token: ' including' (ID: 2670), Prob: 0.0000
-Token: ' features' (ID: 4419), Prob: 0.0000
-Token: ' inside' (ID: 4766), Prob: 0.0000
-Token: ' describe' (ID: 7512), Prob: 0.0000
-Token: ' opens' (ID: 15885), Prob: 0.0000
-Token: ' immediately' (ID: 7069), Prob: 0.0000
-Token: ' uses' (ID: 5711), Prob: 0.0000
-Token: ' takes' (ID: 4990), Prob: 0.0000
-Token: ' establishes' (ID: 63564), Prob: 0.0000
-Token: ' continues' (ID: 9539), Prob: 0.0000
+Token: ' programs' (ID: 7468), Prob: 0.0000
+Token: ' war' (ID: 4116), Prob: 0.0000
+Token: ' soap' (ID: 26785), Prob: 0.0000
+Token: ' in' (ID: 304), Prob: 0.0000
+Token: ' since' (ID: 2474), Prob: 0.0000
+Token: ' Royal' (ID: 16194), Prob: 0.0000
+Token: ' sports' (ID: 9833), Prob: 0.0000
+Token: ' theatre' (ID: 33496), Prob: 0.0000
+Token: ' Two' (ID: 9043), Prob: 0.0000
+Token: '2' (ID: 17), Prob: 0.0000
+Token: ' Northern' (ID: 16926), Prob: 0.0000
+Token: ' comedy' (ID: 22358), Prob: 0.0000
+Token: 's' (ID: 82), Prob: 0.0000
+Token: ' channel' (ID: 5496), Prob: 0.0000
+Token: ' documentary' (ID: 24954), Prob: 0.0000
+Token: ' role' (ID: 3476), Prob: 0.0000
+Token: ' royal' (ID: 29236), Prob: 0.0000
+Token: ' In' (ID: 758), Prob: 0.0000
+Token: ' First' (ID: 5512), Prob: 0.0000
+Token: ' Television' (ID: 40345), Prob: 0.0000
+Token: ' News' (ID: 5398), Prob: 0.0000
+Token: ' Channel' (ID: 13434), Prob: 0.0000
+Token: ' I' (ID: 358), Prob: 0.0000
+Token: ' New' (ID: 1532), Prob: 0.0000
+Token: ' Red' (ID: 3731), Prob: 0.0000
+Token: ' Wales' (ID: 22931), Prob: 0.0000
+Token: ' romantic' (ID: 23467), Prob: 0.0000
+Token: ' You' (ID: 1446), Prob: 0.0000
+Token: ' Shakespeare' (ID: 41382), Prob: 0.0000
+Token: ' World' (ID: 4337), Prob: 0.0000
+Token: ' T' (ID: 350), Prob: 0.0000
 
 == Ranked Concepts (Clusters) ==
-Rank 1 | Centroid: ' may' | Score: 0.8008
-  Tokens: [' must', ' may', ' could', ' would', ' might', ' shall', ' cannot']
-Rank 2 | Centroid: ' set' | Score: 0.0132
-  Tokens: [' set', ' sets', ' setting', ' setup']
-Rank 3 | Centroid: ' includes' | Score: 0.0054
-  Tokens: [' includes', ' include', ' including']
-Rank 4 | Centroid: ' another' | Score: 0.0004
-  Tokens: [' another', ' also', ' one', ' next']
-Rank 5 | Centroid: ' starts' | Score: 0.0002
-  Tokens: [' begins', ' ends', ' starts', ' opens']
-Rank 6 | Centroid: ' consists' | Score: 0.0002
-  Tokens: [' involves', ' contains', ' consists', ' incorporates']
-Rank 7 | Centroid: ' scene' | Score: 0.0002
-  Tokens: [' scene', ' features']
-Rank 8 | Centroid: ' provides' | Score: 0.0001
-  Tokens: [' introduces', ' provides', ' shows', ' presents', ' creates', ' serves', ' establishes']
-Rank 9 | Centroid: ' occurs' | Score: 0.0001
-  Tokens: [' follows', ' meets', ' comes', ' occurs', ' continues']
-Rank 10 | Centroid: ' represents' | Score: 0.0001
-  Tokens: [' represents', ' corresponds', ' reflects', ' refers']
-Rank 11 | Centroid: ' requires' | Score: 0.0001
-  Tokens: [' needs', ' requires', ' uses', ' takes']
-Rank 12 | Centroid: ' inside' | Score: 0.0001
-  Tokens: [' within', ' outside', ' inside']
-Rank 13 | Centroid: ' describes' | Score: 0.0000
-  Tokens: [' describes', ' describe']
-Rank 14 | Centroid: '—the' | Score: 0.0000
-  Tokens: ['—the', ' immediately']
-Rank 15 | Centroid: ' focuses' | Score: 0.0000
-  Tokens: [' focuses']
+Rank 1 | Centroid: ' series' | Score: 1.0000
+  Tokens: [' series', ' Series', 'series', ' serie', '.series', ' serial', ' série', 'Series', '(series', '-series']
+Rank 2 | Centroid: ' the' | Score: 0.0000
+  Tokens: [' and', "'s", ' The', ' One', ' the', '1', ' i', ' s', ' in', ' since', ' Two', '2', ' In', ' First', ' I', ' Red', ' You', ' T']
+Rank 3 | Centroid: ' television' | Score: 0.0000
+  Tokens: [' television', ' TV', ' Television']
+Rank 4 | Centroid: ' drama' | Score: 0.0000
+  Tokens: [' drama', ' sitcom', ' dramas', ' crime', ' soap', ' theatre', ' comedy', ' documentary', ' romantic', ' Shakespeare']
+Rank 5 | Centroid: ' programme' | Score: 0.0000
+  Tokens: [' programme', ' programmes', ' program', ' programs']
+Rank 6 | Centroid: ' Royal' | Score: 0.0000
+  Tokens: [' police', ' Crown', ' Royal', ' Northern', ' royal', ' Wales']
+Rank 7 | Centroid: ' show' | Score: 0.0000
+  Tokens: [' show', ' shows']
+Rank 8 | Centroid: ' New' | Score: 0.0000
+  Tokens: [' service', ' war', ' role', ' New', ' World']
+Rank 9 | Centroid: ' radio' | Score: 0.0000
+  Tokens: [' radio', ' Radio']
+Rank 10 | Centroid: ' variety' | Score: 0.0000
+  Tokens: [' variety', ' franchise']
+Rank 11 | Centroid: ' News' | Score: 0.0000
+  Tokens: [' news', ' sports', ' News']
+Rank 12 | Centroid: ' season' | Score: 0.0000
+  Tokens: [' season']
+Rank 13 | Centroid: ' channel' | Score: 0.0000
+  Tokens: [' channel', ' Channel']
+Rank 14 | Centroid: 's' | Score: 0.0000
+  Tokens: ['s']
 
 **Chosen Concept:** Rank 1

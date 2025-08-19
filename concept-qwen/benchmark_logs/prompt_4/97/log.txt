@@ -1,150 +1,104 @@
 --- Step 97 Log ---
 
 == Filtered Candidates ==
-Token: ' journey' (ID: 11618), Prob: 0.6992
-Token: ' hike' (ID: 34231), Prob: 0.1377
-Token: ' experience' (ID: 3139), Prob: 0.0574
-Token: ' trip' (ID: 8411), Prob: 0.0349
-Token: ' adventure' (ID: 17943), Prob: 0.0239
-Token: ' climb' (ID: 25367), Prob: 0.0165
-Token: ' accomplishment' (ID: 60138), Prob: 0.0165
-Token: ' trek' (ID: 44588), Prob: 0.0032
-Token: ' achievement' (ID: 25426), Prob: 0.0014
-Token: ' walk' (ID: 4227), Prob: 0.0007
-Token: ' experiences' (ID: 11449), Prob: 0.0007
-Token: ' visit' (ID: 3947), Prob: 0.0005
-Token: ' hikes' (ID: 67485), Prob: 0.0004
-Token: ' discovery' (ID: 18335), Prob: 0.0004
-Token: ' finish' (ID: 6248), Prob: 0.0004
-Token: ' day' (ID: 1899), Prob: 0.0003
-Token: ' long' (ID: 1293), Prob: 0.0002
-Token: ' encounter' (ID: 12828), Prob: 0.0002
-Token: ' moment' (ID: 4445), Prob: 0.0002
-Token: ' hiking' (ID: 37364), Prob: 0.0002
-Token: ' exploration' (ID: 26403), Prob: 0.0002
-Token: ' destination' (ID: 9106), Prob: 0.0002
-Token: ' ride' (ID: 11877), Prob: 0.0002
-Token: ' achievements' (ID: 32897), Prob: 0.0002
-Token: ' whole' (ID: 4361), Prob: 0.0002
-Token: ' travel' (ID: 5821), Prob: 0.0002
-Token: ' memories' (ID: 18923), Prob: 0.0002
-Token: ' end' (ID: 835), Prob: 0.0001
-Token: ' accomplishments' (ID: 52781), Prob: 0.0001
-Token: ' outing' (ID: 64181), Prob: 0.0001
-Token: ' expedition' (ID: 50164), Prob: 0.0001
-Token: ' challenge' (ID: 8645), Prob: 0.0001
-Token: ' outdoors' (ID: 33532), Prob: 0.0001
-Token: ' reward' (ID: 11313), Prob: 0.0001
-Token: ' tour' (ID: 7216), Prob: 0.0001
-Token: ' entire' (ID: 4453), Prob: 0.0001
-Token: ' mountain' (ID: 16301), Prob: 0.0001
-Token: ' scenery' (ID: 50231), Prob: 0.0001
-Token: ' discoveries' (ID: 52998), Prob: 0.0001
-Token: ' ascent' (ID: 74989), Prob: 0.0001
-Token: ' summit' (ID: 28948), Prob: 0.0001
-Token: ' surroundings' (ID: 39090), Prob: 0.0001
-Token: ' view' (ID: 1651), Prob: 0.0001
-Token: ' final' (ID: 1590), Prob: 0.0001
-Token: ' time' (ID: 882), Prob: 0.0001
-Token: ' activity' (ID: 5702), Prob: 0.0001
-Token: ' trail' (ID: 8849), Prob: 0.0001
-Token: ' rewards' (ID: 21160), Prob: 0.0001
-Token: ' views' (ID: 6194), Prob: 0.0001
-Token: ' weather' (ID: 9104), Prob: 0.0000
-Token: ' effort' (ID: 5041), Prob: 0.0000
-Token: ' peak' (ID: 16162), Prob: 0.0000
-Token: ' environment' (ID: 4573), Prob: 0.0000
-Token: ' outdoor' (ID: 15789), Prob: 0.0000
-Token: ' victory' (ID: 12560), Prob: 0.0000
-Token: ' physical' (ID: 6961), Prob: 0.0000
-Token: ' explor' (ID: 47439), Prob: 0.0000
-Token: ' drive' (ID: 6541), Prob: 0.0000
-Token: ' adventures' (ID: 30978), Prob: 0.0000
-Token: ' success' (ID: 2393), Prob: 0.0000
-Token: ' challenges' (ID: 11513), Prob: 0.0000
-Token: ' return' (ID: 470), Prob: 0.0000
-Token: ' escape' (ID: 12449), Prob: 0.0000
-Token: ' story' (ID: 3364), Prob: 0.0000
-Token: ' explorer' (ID: 52967), Prob: 0.0000
-Token: ' sunrise' (ID: 63819), Prob: 0.0000
-Token: ' activities' (ID: 7488), Prob: 0.0000
-Token: ' endeavor' (ID: 53814), Prob: 0.0000
-Token: ' first' (ID: 1156), Prob: 0.0000
-Token: ' last' (ID: 1537), Prob: 0.0000
-Token: ' successful' (ID: 6849), Prob: 0.0000
-Token: ' descent' (ID: 36952), Prob: 0.0000
-Token: ' evening' (ID: 11458), Prob: 0.0000
-Token: ' travels' (ID: 34192), Prob: 0.0000
-Token: ' sunset' (ID: 42984), Prob: 0.0000
-Token: ' task' (ID: 3383), Prob: 0.0000
-Token: ' morning' (ID: 6556), Prob: 0.0000
-Token: ' landscape' (ID: 18414), Prob: 0.0000
-Token: ' five' (ID: 4236), Prob: 0.0000
-Token: ' completion' (ID: 9755), Prob: 0.0000
-Token: ' tired' (ID: 19227), Prob: 0.0000
-Token: ' triumph' (ID: 37486), Prob: 0.0000
-Token: ' job' (ID: 2618), Prob: 0.0000
-Token: ' sun' (ID: 7015), Prob: 0.0000
-Token: ' grand' (ID: 6662), Prob: 0.0000
-Token: ' solo' (ID: 13529), Prob: 0.0000
-Token: ' treasure' (ID: 31626), Prob: 0.0000
-Token: ' traveler' (ID: 62765), Prob: 0.0000
-Token: ' pilgrimage' (ID: 89313), Prob: 0.0000
-Token: ' sight' (ID: 13929), Prob: 0.0000
-Token: ' rest' (ID: 2732), Prob: 0.0000
-Token: ' win' (ID: 3164), Prob: 0.0000
-Token: ' memory' (ID: 4938), Prob: 0.0000
-Token: ' nature' (ID: 6993), Prob: 0.0000
-Token: ' mountains' (ID: 23501), Prob: 0.0000
-Token: ' ordeal' (ID: 73681), Prob: 0.0000
-Token: ' journeys' (ID: 63776), Prob: 0.0000
-Token: ' park' (ID: 6118), Prob: 0.0000
-Token: ' well' (ID: 1632), Prob: 0.0000
+Token: 'oul' (ID: 10965), Prob: 1.0000
+Token: 'ould' (ID: 616), Prob: 0.0000
+Token: 'oun' (ID: 1624), Prob: 0.0000
+Token: 'oud' (ID: 2950), Prob: 0.0000
+Token: 'oub' (ID: 5482), Prob: 0.0000
+Token: 'ouch' (ID: 3026), Prob: 0.0000
+Token: 'ohl' (ID: 39337), Prob: 0.0000
+Token: 'oucher' (ID: 23937), Prob: 0.0000
+Token: 'oll' (ID: 965), Prob: 0.0000
+Token: 'rou' (ID: 581), Prob: 0.0000
+Token: 'uel' (ID: 4000), Prob: 0.0000
+Token: 'outer' (ID: 2676), Prob: 0.0000
+Token: 'ous' (ID: 782), Prob: 0.0000
+Token: 'owl' (ID: 9605), Prob: 0.0000
+Token: 'ou' (ID: 283), Prob: 0.0000
+Token: 'out' (ID: 411), Prob: 0.0000
+Token: 'aul' (ID: 4943), Prob: 0.0000
+Token: 'ola' (ID: 7924), Prob: 0.0000
+Token: 'outs' (ID: 11672), Prob: 0.0000
+Token: 'ounce' (ID: 9734), Prob: 0.0000
+Token: 'oute' (ID: 2133), Prob: 0.0000
+Token: 'loor' (ID: 3993), Prob: 0.0000
+Token: 'oulder' (ID: 37634), Prob: 0.0000
+Token: 'oup' (ID: 13346), Prob: 0.0000
+Token: 'outh' (ID: 2898), Prob: 0.0000
+Token: 'rought' (ID: 6344), Prob: 0.0000
+Token: 'url' (ID: 1085), Prob: 0.0000
+Token: 'urt' (ID: 5639), Prob: 0.0000
+Token: 'ourt' (ID: 28586), Prob: 0.0000
+Token: 'ourn' (ID: 3431), Prob: 0.0000
+Token: 'ellow' (ID: 5299), Prob: 0.0000
+Token: '1' (ID: 16), Prob: 0.0000
+Token: 'our' (ID: 413), Prob: 0.0000
+Token: 'ounded' (ID: 13082), Prob: 0.0000
+Token: ' and' (ID: 323), Prob: 0.0000
+Token: 'outil' (ID: 30158), Prob: 0.0000
+Token: 'ole' (ID: 1263), Prob: 0.0000
+Token: 'over' (ID: 1975), Prob: 0.0000
+Token: 'ount' (ID: 629), Prob: 0.0000
+Token: 'oly' (ID: 5730), Prob: 0.0000
+Token: 'let' (ID: 1149), Prob: 0.0000
+Token: '2' (ID: 17), Prob: 0.0000
+Token: ' ou' (ID: 5908), Prob: 0.0000
+Token: 'olo' (ID: 10011), Prob: 0.0000
+Token: 'ours' (ID: 2471), Prob: 0.0000
+Token: 'ournemouth' (ID: 96979), Prob: 0.0000
+Token: 'enth' (ID: 20684), Prob: 0.0000
+Token: '.O' (ID: 8382), Prob: 0.0000
+Token: 'ock' (ID: 1176), Prob: 0.0000
+Token: 'olar' (ID: 7417), Prob: 0.0000
+Token: 'oreal' (ID: 89768), Prob: 0.0000
+Token: ' in' (ID: 304), Prob: 0.0000
+Token: 'ower' (ID: 1202), Prob: 0.0000
+Token: 'hou' (ID: 18166), Prob: 0.0000
+Token: 'older' (ID: 2018), Prob: 0.0000
+Token: 'aut' (ID: 2717), Prob: 0.0000
+Token: 'olding' (ID: 14995), Prob: 0.0000
+Token: '6' (ID: 21), Prob: 0.0000
+Token: ' over' (ID: 916), Prob: 0.0000
+Token: ' Coul' (ID: 66848), Prob: 0.0000
+Token: ' a' (ID: 264), Prob: 0.0000
 
 == Ranked Concepts (Clusters) ==
-Rank 1 | Centroid: ' travels' | Score: 0.7383
-  Tokens: [' journey', ' trip', ' trek', ' visit', ' travel', ' tour', ' travels', ' traveler', ' pilgrimage', ' journeys']
-Rank 2 | Centroid: ' hike' | Score: 0.1553
-  Tokens: [' hike', ' climb', ' hikes', ' hiking', ' summit']
-Rank 3 | Centroid: ' experience' | Score: 0.0583
-  Tokens: [' experience', ' experiences', ' encounter']
-Rank 4 | Centroid: ' exploration' | Score: 0.0248
-  Tokens: [' adventure', ' discovery', ' exploration', ' expedition', ' discoveries', ' explor', ' adventures', ' explorer']
-Rank 5 | Centroid: ' achievements' | Score: 0.0182
-  Tokens: [' accomplishment', ' achievement', ' achievements', ' accomplishments', ' victory', ' success', ' successful', ' triumph', ' win']
-Rank 6 | Centroid: ' walk' | Score: 0.0010
-  Tokens: [' walk', ' ride', ' trail', ' drive']
-Rank 7 | Centroid: ' five' | Score: 0.0006
-  Tokens: [' long', ' end', ' final', ' physical', ' return', ' first', ' last', ' five', ' grand', ' solo', ' rest', ' well']
-Rank 8 | Centroid: ' outdoor' | Score: 0.0004
-  Tokens: [' outdoors', ' scenery', ' surroundings', ' weather', ' environment', ' outdoor', ' landscape', ' nature']
-Rank 9 | Centroid: ' finish' | Score: 0.0004
-  Tokens: [' finish', ' completion']
-Rank 10 | Centroid: ' morning' | Score: 0.0003
-  Tokens: [' day', ' sunrise', ' evening', ' sunset', ' morning', ' sun']
-Rank 11 | Centroid: ' moment' | Score: 0.0003
-  Tokens: [' moment', ' time', ' story']
-Rank 12 | Centroid: ' whole' | Score: 0.0002
-  Tokens: [' whole', ' entire']
-Rank 13 | Centroid: ' destination' | Score: 0.0002
-  Tokens: [' destination', ' escape']
-Rank 14 | Centroid: ' reward' | Score: 0.0002
-  Tokens: [' reward', ' rewards', ' treasure']
-Rank 15 | Centroid: ' ordeal' | Score: 0.0002
-  Tokens: [' outing', ' endeavor', ' ordeal']
-Rank 16 | Centroid: ' challenge' | Score: 0.0002
-  Tokens: [' challenge', ' challenges', ' task', ' job']
-Rank 17 | Centroid: ' memories' | Score: 0.0002
-  Tokens: [' memories', ' memory']
-Rank 18 | Centroid: ' mountain' | Score: 0.0001
-  Tokens: [' mountain', ' peak', ' mountains', ' park']
-Rank 19 | Centroid: ' view' | Score: 0.0001
-  Tokens: [' view', ' views', ' sight']
-Rank 20 | Centroid: ' activities' | Score: 0.0001
-  Tokens: [' activity', ' effort', ' activities']
-Rank 21 | Centroid: ' ascent' | Score: 0.0001
-  Tokens: [' ascent', ' descent']
-Rank 22 | Centroid: ' tired' | Score: 0.0000
-  Tokens: [' tired']
+Rank 1 | Centroid: 'ou' | Score: 1.0000
+  Tokens: ['oul', 'ou', 'oup', ' ou']
+Rank 2 | Centroid: 'ould' | Score: 0.0000
+  Tokens: ['ould', 'oulder', 'older', 'olding']
+Rank 3 | Centroid: 'oun' | Score: 0.0000
+  Tokens: ['oun', 'oud', 'oub', 'ous']
+Rank 4 | Centroid: 'ouch' | Score: 0.0000
+  Tokens: ['ouch', 'oucher', 'ower']
+Rank 5 | Centroid: 'ohl' | Score: 0.0000
+  Tokens: ['ohl', 'owl']
+Rank 6 | Centroid: 'olar' | Score: 0.0000
+  Tokens: ['oll', 'ola', 'ole', 'oly', 'olo', 'olar']
+Rank 7 | Centroid: 'out' | Score: 0.0000
+  Tokens: ['outer', 'out', 'outs', 'oute', 'outh']
+Rank 8 | Centroid: 'url' | Score: 0.0000
+  Tokens: ['uel', 'aul', 'url', 'urt', 'aut']
+Rank 9 | Centroid: ' Coul' | Score: 0.0000
+  Tokens: ['rou', 'hou', ' Coul']
+Rank 10 | Centroid: 'our' | Score: 0.0000
+  Tokens: ['ourt', 'ourn', 'our', 'ours']
+Rank 11 | Centroid: '1' | Score: 0.0000
+  Tokens: ['1', ' and', 'let', '2', '.O', ' in', '6', ' a']
+Rank 12 | Centroid: 'loor' | Score: 0.0000
+  Tokens: ['loor', 'ellow']
+Rank 13 | Centroid: 'ounce' | Score: 0.0000
+  Tokens: ['ounce', 'ournemouth']
+Rank 14 | Centroid: 'rought' | Score: 0.0000
+  Tokens: ['rought', 'enth', 'oreal']
+Rank 15 | Centroid: 'ounded' | Score: 0.0000
+  Tokens: ['ounded', 'ount']
+Rank 16 | Centroid: 'outil' | Score: 0.0000
+  Tokens: ['outil']
+Rank 17 | Centroid: 'over' | Score: 0.0000
+  Tokens: ['over', ' over']
+Rank 18 | Centroid: 'ock' | Score: 0.0000
+  Tokens: ['ock']
 
 **Chosen Concept:** Rank 1

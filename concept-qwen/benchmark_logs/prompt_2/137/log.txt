@@ -1,0 +1,124 @@
+--- Step 137 Log ---
+
+== Filtered Candidates ==
+Token: ' following' (ID: 2701), Prob: 0.8594
+Token: ' same' (ID: 1852), Prob: 0.1162
+Token: ' year' (ID: 1042), Prob: 0.0139
+Token: ' next' (ID: 1790), Prob: 0.0019
+Token: ' subsequent' (ID: 17420), Prob: 0.0017
+Token: ' years' (ID: 1635), Prob: 0.0003
+Token: ' follow' (ID: 1795), Prob: 0.0002
+Token: ' previous' (ID: 3681), Prob: 0.0001
+Token: ' succeeding' (ID: 72720), Prob: 0.0001
+Token: ' preceding' (ID: 37746), Prob: 0.0001
+Token: ' summer' (ID: 7324), Prob: 0.0001
+Token: ' final' (ID: 1590), Prob: 0.0001
+Token: ' first' (ID: 1156), Prob: 0.0001
+Token: ' Following' (ID: 22713), Prob: 0.0001
+Token: ' second' (ID: 2086), Prob: 0.0001
+Token: ' two' (ID: 1378), Prob: 0.0000
+Token: ' coming' (ID: 5001), Prob: 0.0000
+Token: ' future' (ID: 3853), Prob: 0.0000
+Token: ' spring' (ID: 10464), Prob: 0.0000
+Token: ' latter' (ID: 15271), Prob: 0.0000
+Token: ' later' (ID: 2937), Prob: 0.0000
+Token: ' similar' (ID: 4428), Prob: 0.0000
+Token: 'following' (ID: 42918), Prob: 0.0000
+Token: ' ensuing' (ID: 71658), Prob: 0.0000
+Token: ' period' (ID: 4168), Prob: 0.0000
+Token: ' remaining' (ID: 9664), Prob: 0.0000
+Token: ' aftermath' (ID: 39596), Prob: 0.0000
+Token: ' third' (ID: 4843), Prob: 0.0000
+Token: ' winter' (ID: 12406), Prob: 0.0000
+Token: ' decade' (ID: 13212), Prob: 0.0000
+Token: ' course' (ID: 3308), Prob: 0.0000
+Token: ' early' (ID: 4124), Prob: 0.0000
+Token: ' the' (ID: 279), Prob: 0.0000
+Token: ' meantime' (ID: 32853), Prob: 0.0000
+Token: ' upcoming' (ID: 14487), Prob: 0.0000
+Token: ' last' (ID: 1537), Prob: 0.0000
+Token: ' fifth' (ID: 17702), Prob: 0.0000
+Token: 'Following' (ID: 26957), Prob: 0.0000
+Token: ' film' (ID: 4531), Prob: 0.0000
+Token: ' beginning' (ID: 7167), Prob: 0.0000
+Token: ' sequel' (ID: 34761), Prob: 0.0000
+Token: ' fall' (ID: 4399), Prob: 0.0000
+Token: ' further' (ID: 4623), Prob: 0.0000
+Token: ' middle' (ID: 6149), Prob: 0.0000
+Token: ' immediate' (ID: 13922), Prob: 0.0000
+Token: ' academic' (ID: 14250), Prob: 0.0000
+Token: ' season' (ID: 3200), Prob: 0.0000
+Token: ' Year' (ID: 9742), Prob: 0.0000
+Token: ' past' (ID: 3267), Prob: 0.0000
+Token: ' earlier' (ID: 6788), Prob: 0.0000
+Token: ' television' (ID: 12425), Prob: 0.0000
+Token: ' late' (ID: 3309), Prob: 0.0000
+Token: ' role' (ID: 3476), Prob: 0.0000
+Token: ' series' (ID: 4013), Prob: 0.0000
+Token: ' acting' (ID: 15358), Prob: 0.0000
+Token: ' meanwhile' (ID: 36218), Prob: 0.0000
+Token: ' time' (ID: 882), Prob: 0.0000
+Token: ' follows' (ID: 11017), Prob: 0.0000
+Token: ' fourth' (ID: 11737), Prob: 0.0000
+Token: ' closing' (ID: 15316), Prob: 0.0000
+Token: ' similarly' (ID: 29193), Prob: 0.0000
+Token: ' absence' (ID: 19265), Prob: 0.0000
+Token: ' Spring' (ID: 12252), Prob: 0.0000
+Token: ' sixth' (ID: 25031), Prob: 0.0000
+Token: ' autumn' (ID: 41674), Prob: 0.0000
+Token: ' week' (ID: 2003), Prob: 0.0000
+Token: ' three' (ID: 2326), Prob: 0.0000
+Token: ' six' (ID: 4743), Prob: 0.0000
+Token: 'same' (ID: 24063), Prob: 0.0000
+Token: ' intervening' (ID: 88401), Prob: 0.0000
+Token: ' month' (ID: 2254), Prob: 0.0000
+Token: ' calendar' (ID: 13168), Prob: 0.0000
+Token: ' twenty' (ID: 17073), Prob: 0.0000
+Token: ' midst' (ID: 34346), Prob: 0.0000
+Token: ' five' (ID: 4236), Prob: 0.0000
+Token: ' mid' (ID: 5099), Prob: 0.0000
+Token: ' Same' (ID: 25739), Prob: 0.0000
+Token: ' above' (ID: 3403), Prob: 0.0000
+Token: ' United' (ID: 3639), Prob: 0.0000
+Token: ' space' (ID: 3550), Prob: 0.0000
+Token: ' interim' (ID: 40553), Prob: 0.0000
+Token: ' successive' (ID: 48924), Prob: 0.0000
+Token: ' end' (ID: 835), Prob: 0.0000
+
+== Ranked Concepts (Clusters) ==
+Rank 1 | Centroid: ' following' | Score: 0.8594
+  Tokens: [' following', ' follow', ' Following', 'following', 'Following', ' follows']
+Rank 2 | Centroid: ' same' | Score: 0.1162
+  Tokens: [' same', ' similar', ' similarly', 'same', ' Same']
+Rank 3 | Centroid: ' year' | Score: 0.0143
+  Tokens: [' year', ' years', ' period', ' decade', ' season', ' Year', ' week', ' month', ' calendar']
+Rank 4 | Centroid: ' future' | Score: 0.0020
+  Tokens: [' next', ' coming', ' future', ' further']
+Rank 5 | Centroid: ' subsequent' | Score: 0.0018
+  Tokens: [' subsequent', ' succeeding', ' ensuing', ' remaining', ' upcoming', ' successive']
+Rank 6 | Centroid: ' previous' | Score: 0.0002
+  Tokens: [' previous', ' preceding', ' past', ' above']
+Rank 7 | Centroid: ' spring' | Score: 0.0002
+  Tokens: [' summer', ' spring', ' winter', ' fall', ' Spring', ' autumn']
+Rank 8 | Centroid: ' the' | Score: 0.0002
+  Tokens: [' final', ' first', ' the', ' last', ' end']
+Rank 9 | Centroid: ' earlier' | Score: 0.0001
+  Tokens: [' latter', ' later', ' early', ' earlier', ' late']
+Rank 10 | Centroid: ' fourth' | Score: 0.0001
+  Tokens: [' second', ' third', ' fifth', ' fourth', ' sixth']
+Rank 11 | Centroid: ' United' | Score: 0.0001
+  Tokens: [' course', ' film', ' immediate', ' academic', ' role', ' series', ' acting', ' time', ' United', ' space']
+Rank 12 | Centroid: ' five' | Score: 0.0001
+  Tokens: [' two', ' three', ' six', ' twenty', ' five']
+Rank 13 | Centroid: ' meantime' | Score: 0.0001
+  Tokens: [' meantime', ' beginning', ' meanwhile', ' closing', ' absence', ' midst', ' interim']
+Rank 14 | Centroid: ' aftermath' | Score: 0.0000
+  Tokens: [' aftermath', ' intervening']
+Rank 15 | Centroid: ' middle' | Score: 0.0000
+  Tokens: [' middle', ' mid']
+Rank 16 | Centroid: ' sequel' | Score: 0.0000
+  Tokens: [' sequel']
+Rank 17 | Centroid: ' television' | Score: 0.0000
+  Tokens: [' television']
+
+**Chosen Concept:** Rank 1

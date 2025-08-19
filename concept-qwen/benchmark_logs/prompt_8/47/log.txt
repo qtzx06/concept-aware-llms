@@ -1,0 +1,69 @@
+--- Step 47 Log ---
+
+== Filtered Candidates ==
+Token: ' interpretation' (ID: 22845), Prob: 0.0176
+Token: ' and' (ID: 323), Prob: 0.0155
+Token: ' in' (ID: 304), Prob: 0.0073
+Token: ' A' (ID: 362), Prob: 0.0008
+Token: ' interpretations' (ID: 57589), Prob: 0.0008
+Token: ' Interpret' (ID: 72077), Prob: 0.0007
+Token: ' as' (ID: 438), Prob: 0.0005
+Token: ' from' (ID: 504), Prob: 0.0005
+Token: ' which' (ID: 892), Prob: 0.0005
+Token: ' interpret' (ID: 14198), Prob: 0.0003
+Token: ' that' (ID: 429), Prob: 0.0003
+Token: ' analysis' (ID: 6358), Prob: 0.0003
+Token: ' interpreting' (ID: 65644), Prob: 0.0002
+Token: ' is' (ID: 374), Prob: 0.0002
+Token: ' of' (ID: 315), Prob: 0.0002
+Token: ' during' (ID: 2337), Prob: 0.0002
+Token: ' style' (ID: 1707), Prob: 0.0001
+Token: ' according' (ID: 4092), Prob: 0.0001
+Token: ' with' (ID: 448), Prob: 0.0001
+Token: ''s' (ID: 594), Prob: 0.0001
+Token: ' interpre' (ID: 17929), Prob: 0.0001
+Token: ' at' (ID: 518), Prob: 0.0001
+Token: ' research' (ID: 3412), Prob: 0.0001
+Token: ':A' (ID: 55648), Prob: 0.0001
+Token: ' for' (ID: 369), Prob: 0.0001
+Token: ' mainly' (ID: 14576), Prob: 0.0001
+Token: ' to' (ID: 311), Prob: 0.0001
+Token: ' on' (ID: 389), Prob: 0.0001
+Token: ' translation' (ID: 14468), Prob: 0.0001
+Token: ' based' (ID: 3118), Prob: 0.0000
+Token: ' except' (ID: 3650), Prob: 0.0000
+Token: ' regarding' (ID: 8826), Prob: 0.0000
+Token: ' evaluation' (ID: 16460), Prob: 0.0000
+Token: ' literature' (ID: 17206), Prob: 0.0000
+Token: ' criticism' (ID: 18817), Prob: 0.0000
+Token: ' works' (ID: 4278), Prob: 0.0000
+
+== Ranked Concepts (Clusters) ==
+Rank 1 | Centroid: ' in' | Score: 0.0254
+  Tokens: [' and', ' in', ' as', ' from', ' which', ' that', ' is', ' of', ' with', ' at', ' for', ' to', ' on']
+Rank 2 | Centroid: ' interpretation' | Score: 0.0197
+  Tokens: [' interpretation', ' interpretations', ' Interpret', ' interpret', ' interpreting', ' interpre']
+Rank 3 | Centroid: ' A' | Score: 0.0009
+  Tokens: [' A', ':A']
+Rank 4 | Centroid: ' evaluation' | Score: 0.0004
+  Tokens: [' analysis', ' evaluation', ' criticism']
+Rank 5 | Centroid: ' during' | Score: 0.0002
+  Tokens: [' during', ' regarding']
+Rank 6 | Centroid: ' according' | Score: 0.0002
+  Tokens: [' according', ' based']
+Rank 7 | Centroid: ' style' | Score: 0.0001
+  Tokens: [' style']
+Rank 8 | Centroid: ' research' | Score: 0.0001
+  Tokens: [' research', ' literature']
+Rank 9 | Centroid: ''s' | Score: 0.0001
+  Tokens: ["'s"]
+Rank 10 | Centroid: ' mainly' | Score: 0.0001
+  Tokens: [' mainly']
+Rank 11 | Centroid: ' translation' | Score: 0.0001
+  Tokens: [' translation']
+Rank 12 | Centroid: ' except' | Score: 0.0000
+  Tokens: [' except']
+Rank 13 | Centroid: ' works' | Score: 0.0000
+  Tokens: [' works']
+
+**Chosen Concept:** Rank 1

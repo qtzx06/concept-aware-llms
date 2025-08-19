@@ -1,0 +1,137 @@
+--- Step 38 Log ---
+
+== Filtered Candidates ==
+Token: ' discussing' (ID: 24392), Prob: 0.5547
+Token: ' talking' (ID: 7404), Prob: 0.1582
+Token: ' explaining' (ID: 25021), Prob: 0.1089
+Token: ' arguing' (ID: 29574), Prob: 0.0659
+Token: ' concerned' (ID: 11658), Prob: 0.0400
+Token: ' emphasizing' (ID: 80903), Prob: 0.0167
+Token: ' introducing' (ID: 31918), Prob: 0.0130
+Token: ' trying' (ID: 4460), Prob: 0.0079
+Token: ' interested' (ID: 8014), Prob: 0.0048
+Token: ' commenting' (ID: 40265), Prob: 0.0042
+Token: ' focusing' (ID: 21080), Prob: 0.0026
+Token: ' focused' (ID: 10735), Prob: 0.0018
+Token: ' telling' (ID: 11629), Prob: 0.0012
+Token: ' describing' (ID: 22692), Prob: 0.0012
+Token: ' making' (ID: 3259), Prob: 0.0011
+Token: ' referring' (ID: 22023), Prob: 0.0009
+Token: ' supporting' (ID: 12613), Prob: 0.0008
+Token: ' interpreting' (ID: 65644), Prob: 0.0008
+Token: ' illustrating' (ID: 92912), Prob: 0.0008
+Token: ' suggesting' (ID: 22561), Prob: 0.0007
+Token: ' speaking' (ID: 12094), Prob: 0.0006
+Token: ' indicating' (ID: 18860), Prob: 0.0006
+Token: ' saying' (ID: 5488), Prob: 0.0005
+Token: ' expressing' (ID: 36710), Prob: 0.0005
+Token: ' analyzing' (ID: 41018), Prob: 0.0005
+Token: ' elabor' (ID: 24940), Prob: 0.0004
+Token: ' advocating' (ID: 58316), Prob: 0.0004
+Token: ' conveying' (ID: 93065), Prob: 0.0004
+Token: ' writing' (ID: 4378), Prob: 0.0003
+Token: ' intended' (ID: 10602), Prob: 0.0003
+Token: ' stating' (ID: 27798), Prob: 0.0002
+Token: ' criticizing' (ID: 67988), Prob: 0.0002
+Token: ' highlighting' (ID: 38586), Prob: 0.0002
+Token: ' aiming' (ID: 37078), Prob: 0.0002
+Token: ' communicating' (ID: 41147), Prob: 0.0002
+Token: ' researching' (ID: 44143), Prob: 0.0002
+Token: ' intending' (ID: 84339), Prob: 0.0002
+Token: ' about' (ID: 911), Prob: 0.0002
+Token: ' examining' (ID: 37836), Prob: 0.0002
+Token: ' in' (ID: 304), Prob: 0.0001
+Token: ' using' (ID: 1667), Prob: 0.0001
+Token: ' argument' (ID: 5693), Prob: 0.0001
+Token: ' giving' (ID: 7086), Prob: 0.0001
+Token: ' seeking' (ID: 10887), Prob: 0.0001
+Token: ' considering' (ID: 12831), Prob: 0.0001
+Token: ' presenting' (ID: 31544), Prob: 0.0001
+Token: ' providing' (ID: 8241), Prob: 0.0001
+Token: ' developing' (ID: 11220), Prob: 0.0001
+Token: ' drawing' (ID: 13330), Prob: 0.0001
+Token: ' exploring' (ID: 23966), Prob: 0.0001
+Token: ' devoted' (ID: 28229), Prob: 0.0001
+Token: ' implying' (ID: 72867), Prob: 0.0001
+Token: ' thinking' (ID: 7274), Prob: 0.0001
+Token: ' pointing' (ID: 21633), Prob: 0.0001
+Token: ' to' (ID: 311), Prob: 0.0001
+Token: ' attempting' (ID: 19405), Prob: 0.0001
+Token: ' talk' (ID: 3061), Prob: 0.0001
+Token: ' doing' (ID: 3730), Prob: 0.0001
+Token: ' revealing' (ID: 30620), Prob: 0.0001
+Token: ' wanting' (ID: 19211), Prob: 0.0001
+Token: ' clar' (ID: 19497), Prob: 0.0001
+Token: ' addressing' (ID: 27020), Prob: 0.0001
+Token: ' defending' (ID: 28169), Prob: 0.0001
+Token: ' concluding' (ID: 71026), Prob: 0.0001
+Token: ' debating' (ID: 70413), Prob: 0.0001
+Token: ' discuss' (ID: 4263), Prob: 0.0001
+Token: ' lect' (ID: 16513), Prob: 0.0001
+Token: ' promoting' (ID: 22136), Prob: 0.0001
+Token: ' discusses' (ID: 34334), Prob: 0.0001
+Token: ' Discuss' (ID: 65279), Prob: 0.0001
+Token: ' looking' (ID: 3330), Prob: 0.0000
+Token: ' dealing' (ID: 14550), Prob: 0.0000
+Token: ' worried' (ID: 17811), Prob: 0.0000
+Token: ' studying' (ID: 20956), Prob: 0.0000
+Token: ' convinced' (ID: 22166), Prob: 0.0000
+Token: ' convincing' (ID: 39561), Prob: 0.0000
+Token: ' responding' (ID: 29338), Prob: 0.0000
+Token: ' proving' (ID: 38758), Prob: 0.0000
+Token: ' demonstrating' (ID: 44196), Prob: 0.0000
+Token: ' informing' (ID: 61925), Prob: 0.0000
+Token: ' stressing' (ID: 93691), Prob: 0.0000
+Token: ' elucid' (ID: 96198), Prob: 0.0000
+
+== Ranked Concepts (Clusters) ==
+Rank 1 | Centroid: ' discuss' | Score: 0.5547
+  Tokens: [' discussing', ' discuss', ' discusses', ' Discuss']
+Rank 2 | Centroid: ' talking' | Score: 0.1592
+  Tokens: [' talking', ' speaking', ' talk']
+Rank 3 | Centroid: ' describing' | Score: 0.1108
+  Tokens: [' explaining', ' describing', ' expressing', ' conveying', ' informing']
+Rank 4 | Centroid: ' arguing' | Score: 0.0664
+  Tokens: [' arguing', ' argument', ' concluding', ' convinced', ' convincing']
+Rank 5 | Centroid: ' concerned' | Score: 0.0449
+  Tokens: [' concerned', ' interested', ' devoted', ' worried']
+Rank 6 | Centroid: ' emphasizing' | Score: 0.0171
+  Tokens: [' emphasizing', ' highlighting', ' pointing', ' stressing']
+Rank 7 | Centroid: ' providing' | Score: 0.0145
+  Tokens: [' introducing', ' making', ' giving', ' presenting', ' providing', ' promoting']
+Rank 8 | Centroid: ' attempting' | Score: 0.0088
+  Tokens: [' trying', ' intended', ' aiming', ' intending', ' seeking', ' attempting', ' wanting']
+Rank 9 | Centroid: ' criticizing' | Score: 0.0045
+  Tokens: [' commenting', ' criticizing', ' debating']
+Rank 10 | Centroid: ' focusing' | Score: 0.0044
+  Tokens: [' focusing', ' focused', ' addressing']
+Rank 11 | Centroid: ' stating' | Score: 0.0034
+  Tokens: [' telling', ' suggesting', ' indicating', ' saying', ' stating', ' implying']
+Rank 12 | Centroid: ' examining' | Score: 0.0018
+  Tokens: [' interpreting', ' analyzing', ' researching', ' examining', ' exploring', ' studying']
+Rank 13 | Centroid: ' illustrating' | Score: 0.0009
+  Tokens: [' illustrating', ' revealing', ' demonstrating']
+Rank 14 | Centroid: ' referring' | Score: 0.0009
+  Tokens: [' referring']
+Rank 15 | Centroid: ' supporting' | Score: 0.0008
+  Tokens: [' supporting']
+Rank 16 | Centroid: ' elucid' | Score: 0.0005
+  Tokens: [' elabor', ' clar', ' lect', ' elucid']
+Rank 17 | Centroid: ' in' | Score: 0.0005
+  Tokens: [' about', ' in', ' using', ' to']
+Rank 18 | Centroid: ' writing' | Score: 0.0005
+  Tokens: [' writing', ' drawing', ' thinking']
+Rank 19 | Centroid: ' responding' | Score: 0.0004
+  Tokens: [' communicating', ' developing', ' defending', ' responding']
+Rank 20 | Centroid: ' advocating' | Score: 0.0004
+  Tokens: [' advocating']
+Rank 21 | Centroid: ' considering' | Score: 0.0002
+  Tokens: [' considering', ' looking']
+Rank 22 | Centroid: ' doing' | Score: 0.0001
+  Tokens: [' doing']
+Rank 23 | Centroid: ' dealing' | Score: 0.0000
+  Tokens: [' dealing']
+Rank 24 | Centroid: ' proving' | Score: 0.0000
+  Tokens: [' proving']
+
+**Chosen Concept:** Rank 1

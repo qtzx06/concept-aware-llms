@@ -1,0 +1,111 @@
+--- Step 150 Log ---
+
+== Filtered Candidates ==
+Token: ' play' (ID: 1486), Prob: 1.0000
+Token: ' plays' (ID: 11088), Prob: 0.0000
+Token: ' Play' (ID: 7054), Prob: 0.0000
+Token: 'play' (ID: 1363), Prob: 0.0000
+Token: ' same' (ID: 1852), Prob: 0.0000
+Token: ' playing' (ID: 5619), Prob: 0.0000
+Token: ' playwright' (ID: 98368), Prob: 0.0000
+Token: '(play' (ID: 77007), Prob: 0.0000
+Token: ' pl' (ID: 625), Prob: 0.0000
+Token: ' show' (ID: 1473), Prob: 0.0000
+Token: '.play' (ID: 12972), Prob: 0.0000
+Token: ' production' (ID: 5670), Prob: 0.0000
+Token: ' pay' (ID: 2291), Prob: 0.0000
+Token: ' played' (ID: 6342), Prob: 0.0000
+Token: ' the' (ID: 279), Prob: 0.0000
+Token: ' plot' (ID: 7089), Prob: 0.0000
+Token: ' theatre' (ID: 33496), Prob: 0.0000
+Token: ' film' (ID: 4531), Prob: 0.0000
+Token: ' first' (ID: 1156), Prob: 0.0000
+Token: ' stage' (ID: 6430), Prob: 0.0000
+Token: '	play' (ID: 88967), Prob: 0.0000
+Token: ' follow' (ID: 1795), Prob: 0.0000
+Token: ' drama' (ID: 19584), Prob: 0.0000
+Token: 'Play' (ID: 9137), Prob: 0.0000
+Token: ' p' (ID: 281), Prob: 0.0000
+Token: ' pre' (ID: 855), Prob: 0.0000
+Token: ' place' (ID: 1992), Prob: 0.0000
+Token: ' new' (ID: 501), Prob: 0.0000
+Token: ' script' (ID: 5316), Prob: 0.0000
+Token: ' piece' (ID: 6573), Prob: 0.0000
+Token: ' paper' (ID: 5567), Prob: 0.0000
+Token: ' following' (ID: 2701), Prob: 0.0000
+Token: ' role' (ID: 3476), Prob: 0.0000
+Token: ' playbook' (ID: 86053), Prob: 0.0000
+Token: ' dram' (ID: 13548), Prob: 0.0000
+Token: '_play' (ID: 22144), Prob: 0.0000
+Token: ' work' (ID: 975), Prob: 0.0000
+Token: ' post' (ID: 1736), Prob: 0.0000
+Token: '-play' (ID: 26544), Prob: 0.0000
+Token: ' school' (ID: 2906), Prob: 0.0000
+Token: ' phrase' (ID: 17133), Prob: 0.0000
+Token: ' theater' (ID: 26705), Prob: 0.0000
+Token: ' part' (ID: 949), Prob: 0.0000
+Token: ' put' (ID: 2182), Prob: 0.0000
+Token: ' performance' (ID: 5068), Prob: 0.0000
+Token: ' paint' (ID: 6177), Prob: 0.0000
+Token: ' movie' (ID: 5700), Prob: 0.0000
+Token: ' in' (ID: 304), Prob: 0.0000
+Token: ' print' (ID: 1173), Prob: 0.0000
+Token: ' playful' (ID: 56069), Prob: 0.0000
+Token: '/play' (ID: 81092), Prob: 0.0000
+Token: ' The' (ID: 576), Prob: 0.0000
+Token: ' D' (ID: 422), Prob: 0.0000
+Token: ' read' (ID: 1349), Prob: 0.0000
+Token: ' title' (ID: 2265), Prob: 0.0000
+Token: ' lead' (ID: 2990), Prob: 0.0000
+Token: ' press' (ID: 3493), Prob: 0.0000
+Token: ' television' (ID: 12425), Prob: 0.0000
+Token: ' par' (ID: 1346), Prob: 0.0000
+Token: ' and' (ID: 323), Prob: 0.0000
+Token: ' page' (ID: 2150), Prob: 0.0000
+Token: ' book' (ID: 2311), Prob: 0.0000
+Token: ' other' (ID: 1008), Prob: 0.0000
+Token: ' previous' (ID: 3681), Prob: 0.0000
+Token: ' comedy' (ID: 22358), Prob: 0.0000
+Token: ' make' (ID: 1281), Prob: 0.0000
+
+== Ranked Concepts (Clusters) ==
+Rank 1 | Centroid: ' play' | Score: 1.0000
+  Tokens: [' play', ' plays', ' Play', 'play', ' playing', '(play', '.play', ' played', '\tplay', 'Play', '_play', '-play', '/play']
+Rank 2 | Centroid: ' new' | Score: 0.0000
+  Tokens: [' same', ' first', ' new', ' school', ' other', ' previous']
+Rank 3 | Centroid: ' playful' | Score: 0.0000
+  Tokens: [' playwright', ' playbook', ' playful']
+Rank 4 | Centroid: ' pl' | Score: 0.0000
+  Tokens: [' pl', ' plot']
+Rank 5 | Centroid: ' the' | Score: 0.0000
+  Tokens: [' the', ' p', ' pre', ' post', ' in', ' The', ' D', ' and']
+Rank 6 | Centroid: ' make' | Score: 0.0000
+  Tokens: [' show', ' work', ' read', ' lead', ' make']
+Rank 7 | Centroid: ' theatre' | Score: 0.0000
+  Tokens: [' theatre', ' drama', ' dram', ' theater', ' comedy']
+Rank 8 | Centroid: ' put' | Score: 0.0000
+  Tokens: [' pay', ' place', ' put']
+Rank 9 | Centroid: ' production' | Score: 0.0000
+  Tokens: [' production', ' performance']
+Rank 10 | Centroid: ' movie' | Score: 0.0000
+  Tokens: [' film', ' movie', ' television']
+Rank 11 | Centroid: ' follow' | Score: 0.0000
+  Tokens: [' follow', ' following']
+Rank 12 | Centroid: ' phrase' | Score: 0.0000
+  Tokens: [' role', ' phrase', ' title', ' page']
+Rank 13 | Centroid: ' stage' | Score: 0.0000
+  Tokens: [' stage']
+Rank 14 | Centroid: ' script' | Score: 0.0000
+  Tokens: [' script', ' print']
+Rank 15 | Centroid: ' piece' | Score: 0.0000
+  Tokens: [' piece', ' part']
+Rank 16 | Centroid: ' paper' | Score: 0.0000
+  Tokens: [' paper', ' book']
+Rank 17 | Centroid: ' paint' | Score: 0.0000
+  Tokens: [' paint']
+Rank 18 | Centroid: ' press' | Score: 0.0000
+  Tokens: [' press']
+Rank 19 | Centroid: ' par' | Score: 0.0000
+  Tokens: [' par']
+
+**Chosen Concept:** Rank 1

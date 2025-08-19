@@ -1,0 +1,109 @@
+--- Step 66 Log ---
+
+== Filtered Candidates ==
+Token: ' He' (ID: 1260), Prob: 0.2412
+Token: ' His' (ID: 5301), Prob: 0.1660
+Token: ' Du' (ID: 15687), Prob: 0.1465
+Token: ' The' (ID: 576), Prob: 0.0608
+Token: ' In' (ID: 758), Prob: 0.0474
+Token: ' Fu' (ID: 29253), Prob: 0.0120
+Token: ' During' (ID: 11954), Prob: 0.0106
+Token: ' This' (ID: 1096), Prob: 0.0082
+Token: ' As' (ID: 1634), Prob: 0.0082
+Token: ' For' (ID: 1752), Prob: 0.0057
+Token: ' According' (ID: 10548), Prob: 0.0050
+Token: ' Despite' (ID: 17715), Prob: 0.0044
+Token: ' Due' (ID: 23662), Prob: 0.0044
+Token: ' Many' (ID: 8999), Prob: 0.0034
+Token: ' Although' (ID: 10328), Prob: 0.0034
+Token: ' After' (ID: 4636), Prob: 0.0027
+Token: ' Because' (ID: 9211), Prob: 0.0027
+Token: 'Du' (ID: 42074), Prob: 0.0027
+Token: ' A' (ID: 362), Prob: 0.0024
+Token: ' It' (ID: 1084), Prob: 0.0024
+Token: ' What' (ID: 3555), Prob: 0.0024
+Token: ' Though' (ID: 17594), Prob: 0.0024
+Token: ' There' (ID: 2619), Prob: 0.0021
+Token: ' However' (ID: 4354), Prob: 0.0021
+Token: ' Most' (ID: 7496), Prob: 0.0021
+Token: ' When' (ID: 3197), Prob: 0.0016
+Token: ' Which' (ID: 15920), Prob: 0.0016
+Token: ' Through' (ID: 16904), Prob: 0.0016
+Token: ' Throughout' (ID: 45882), Prob: 0.0016
+Token: ' At' (ID: 2411), Prob: 0.0014
+Token: ' With' (ID: 3085), Prob: 0.0014
+Token: ' Please' (ID: 5209), Prob: 0.0014
+Token: ' Since' (ID: 8704), Prob: 0.0014
+Token: ' he' (ID: 566), Prob: 0.0013
+Token: ' These' (ID: 4220), Prob: 0.0013
+Token: ' Of' (ID: 4940), Prob: 0.0013
+Token: ' Given' (ID: 16246), Prob: 0.0013
+Token: ' From' (ID: 5542), Prob: 0.0011
+Token: ' Like' (ID: 8909), Prob: 0.0011
+Token: ' Po' (ID: 13808), Prob: 0.0011
+Token: ' Among' (ID: 21658), Prob: 0.0011
+Token: ' his' (ID: 806), Prob: 0.0010
+Token: 'His' (ID: 15986), Prob: 0.0010
+Token: ' Born' (ID: 37816), Prob: 0.0010
+Token: ' D' (ID: 422), Prob: 0.0009
+Token: ' But' (ID: 1988), Prob: 0.0009
+Token: ' Do' (ID: 3155), Prob: 0.0009
+Token: ' One' (ID: 3776), Prob: 0.0009
+Token: ' Tu' (ID: 28649), Prob: 0.0009
+Token: 'He' (ID: 1519), Prob: 0.0008
+Token: ' Some' (ID: 4329), Prob: 0.0008
+Token: ' While' (ID: 5976), Prob: 0.0008
+Token: ' Da' (ID: 14235), Prob: 0.0008
+Token: ' How' (ID: 2585), Prob: 0.0007
+Token: ' On' (ID: 1913), Prob: 0.0006
+Token: ' To' (ID: 2014), Prob: 0.0006
+Token: ' So' (ID: 2055), Prob: 0.0006
+Token: ' Around' (ID: 32816), Prob: 0.0006
+Token: ' I' (ID: 358), Prob: 0.0005
+Token: ' That' (ID: 2938), Prob: 0.0005
+Token: ' Mr' (ID: 4392), Prob: 0.0005
+Token: ' Two' (ID: 9043), Prob: 0.0005
+Token: ' du' (ID: 3845), Prob: 0.0005
+Token: ' Chinese' (ID: 8453), Prob: 0.0005
+Token: ' Write' (ID: 9645), Prob: 0.0005
+Token: ' Hu' (ID: 21793), Prob: 0.0005
+Token: ' Much' (ID: 23309), Prob: 0.0005
+Token: ' You' (ID: 1446), Prob: 0.0004
+
+== Ranked Concepts (Clusters) ==
+Rank 1 | Centroid: ' He' | Score: 0.2432
+  Tokens: [' He', ' he', 'He']
+Rank 2 | Centroid: ' His' | Score: 0.1680
+  Tokens: [' His', ' his', 'His']
+Rank 3 | Centroid: ' Du' | Score: 0.1494
+  Tokens: [' Du', 'Du', ' du']
+Rank 4 | Centroid: ' This' | Score: 0.0806
+  Tokens: [' The', ' This', ' It', ' What', ' There', ' Which', ' These', ' How', ' That', ' You']
+Rank 5 | Centroid: ' For' | Score: 0.0679
+  Tokens: [' In', ' As', ' For', ' At', ' With', ' Of', ' From', ' On', ' To']
+Rank 6 | Centroid: ' During' | Score: 0.0244
+  Tokens: [' During', ' According', ' After', ' Through', ' Throughout', ' Given', ' Among', ' Around']
+Rank 7 | Centroid: ' Although' | Score: 0.0172
+  Tokens: [' Despite', ' Although', ' Because', ' Though', ' However', ' Since', ' While']
+Rank 8 | Centroid: ' Hu' | Score: 0.0133
+  Tokens: [' Fu', ' Tu', ' Hu']
+Rank 9 | Centroid: ' Many' | Score: 0.0082
+  Tokens: [' Many', ' Most', ' One', ' Some', ' Two', ' Much']
+Rank 10 | Centroid: ' Due' | Score: 0.0056
+  Tokens: [' Due', ' Like']
+Rank 11 | Centroid: ' A' | Score: 0.0038
+  Tokens: [' A', ' D', ' I']
+Rank 12 | Centroid: ' Do' | Score: 0.0027
+  Tokens: [' Po', ' Do', ' Da']
+Rank 13 | Centroid: ' Please' | Score: 0.0019
+  Tokens: [' Please', ' Write']
+Rank 14 | Centroid: ' When' | Score: 0.0016
+  Tokens: [' When']
+Rank 15 | Centroid: ' But' | Score: 0.0015
+  Tokens: [' But', ' So']
+Rank 16 | Centroid: ' Mr' | Score: 0.0010
+  Tokens: [' Mr', ' Chinese']
+Rank 17 | Centroid: ' Born' | Score: 0.0010
+  Tokens: [' Born']
+
+**Chosen Concept:** Rank 1

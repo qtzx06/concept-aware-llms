@@ -1,0 +1,125 @@
+--- Step 26 Log ---
+
+== Filtered Candidates ==
+Token: ' He' (ID: 1260), Prob: 0.2793
+Token: ' His' (ID: 5301), Prob: 0.2793
+Token: ' Du' (ID: 15687), Prob: 0.2178
+Token: ' The' (ID: 576), Prob: 0.0378
+Token: ' In' (ID: 758), Prob: 0.0294
+Token: ' Fu' (ID: 29253), Prob: 0.0109
+Token: ' During' (ID: 11954), Prob: 0.0096
+Token: ' As' (ID: 1634), Prob: 0.0074
+Token: ' This' (ID: 1096), Prob: 0.0058
+Token: ' Although' (ID: 10328), Prob: 0.0040
+Token: ' For' (ID: 1752), Prob: 0.0035
+Token: ' Though' (ID: 17594), Prob: 0.0035
+Token: ' It' (ID: 1084), Prob: 0.0027
+Token: ' Most' (ID: 7496), Prob: 0.0027
+Token: ' Many' (ID: 8999), Prob: 0.0027
+Token: ' Despite' (ID: 17715), Prob: 0.0024
+Token: ' A' (ID: 362), Prob: 0.0021
+Token: ' One' (ID: 3776), Prob: 0.0021
+Token: ' Due' (ID: 23662), Prob: 0.0021
+Token: ' However' (ID: 4354), Prob: 0.0017
+Token: ' Among' (ID: 21658), Prob: 0.0017
+Token: ' Throughout' (ID: 45882), Prob: 0.0017
+Token: ' After' (ID: 4636), Prob: 0.0015
+Token: ' Of' (ID: 4940), Prob: 0.0015
+Token: ' Born' (ID: 37816), Prob: 0.0015
+Token: ' With' (ID: 3085), Prob: 0.0013
+Token: ' According' (ID: 10548), Prob: 0.0013
+Token: ' But' (ID: 1988), Prob: 0.0011
+Token: ' At' (ID: 2411), Prob: 0.0011
+Token: ' Like' (ID: 8909), Prob: 0.0011
+Token: ' There' (ID: 2619), Prob: 0.0010
+Token: ' These' (ID: 4220), Prob: 0.0010
+Token: ' While' (ID: 5976), Prob: 0.0010
+Token: ' Unlike' (ID: 26048), Prob: 0.0010
+Token: ' Because' (ID: 9211), Prob: 0.0009
+Token: 'Du' (ID: 42074), Prob: 0.0009
+Token: ' Po' (ID: 13808), Prob: 0.0008
+Token: ' Through' (ID: 16904), Prob: 0.0008
+Token: ' From' (ID: 5542), Prob: 0.0007
+Token: ' Together' (ID: 31155), Prob: 0.0007
+Token: ' his' (ID: 806), Prob: 0.0006
+Token: ' Some' (ID: 4329), Prob: 0.0006
+Token: ' Tu' (ID: 28649), Prob: 0.0006
+Token: ' Known' (ID: 48286), Prob: 0.0006
+Token: ' When' (ID: 3197), Prob: 0.0005
+Token: ' Much' (ID: 23309), Prob: 0.0005
+Token: ' Along' (ID: 31844), Prob: 0.0005
+Token: 'His' (ID: 15986), Prob: 0.0005
+Token: ' D' (ID: 422), Prob: 0.0004
+Token: ' An' (ID: 1527), Prob: 0.0004
+Token: ' Since' (ID: 8704), Prob: 0.0004
+Token: ' Before' (ID: 13235), Prob: 0.0004
+Token: ' Hu' (ID: 21793), Prob: 0.0004
+Token: ' To' (ID: 2014), Prob: 0.0004
+Token: ' What' (ID: 3555), Prob: 0.0004
+Token: ' he' (ID: 566), Prob: 0.0003
+Token: ' All' (ID: 2009), Prob: 0.0003
+Token: ' So' (ID: 2055), Prob: 0.0003
+Token: ' Also' (ID: 7281), Prob: 0.0003
+Token: ' Two' (ID: 9043), Prob: 0.0003
+Token: ' Da' (ID: 14235), Prob: 0.0003
+Token: ' Between' (ID: 27133), Prob: 0.0003
+Token: ' On' (ID: 1913), Prob: 0.0003
+Token: ' Dr' (ID: 2926), Prob: 0.0003
+Token: ' That' (ID: 2938), Prob: 0.0003
+Token: ' More' (ID: 4398), Prob: 0.0003
+Token: ' Poetry' (ID: 67687), Prob: 0.0003
+Token: ' By' (ID: 3216), Prob: 0.0002
+Token: ' du' (ID: 3845), Prob: 0.0002
+Token: ' Fa' (ID: 17677), Prob: 0.0002
+Token: ' Later' (ID: 24885), Prob: 0.0002
+Token: ' Dun' (ID: 28738), Prob: 0.0002
+Token: 'He' (ID: 1519), Prob: 0.0002
+Token: ' Here' (ID: 5692), Prob: 0.0002
+Token: ' Over' (ID: 6065), Prob: 0.0002
+Token: ' Given' (ID: 16246), Prob: 0.0002
+Token: ' Diff' (ID: 28369), Prob: 0.0002
+Token: ' Compared' (ID: 58713), Prob: 0.0002
+Token: ' Do' (ID: 3155), Prob: 0.0002
+Token: ' Lu' (ID: 18360), Prob: 0.0002
+Token: ' Being' (ID: 20690), Prob: 0.0002
+Token: ' Histor' (ID: 21683), Prob: 0.0002
+Token: ' Around' (ID: 32816), Prob: 0.0002
+Token: ' Under' (ID: 9449), Prob: 0.0002
+Token: ' Both' (ID: 11733), Prob: 0.0002
+Token: ' Following' (ID: 22713), Prob: 0.0002
+
+== Ranked Concepts (Clusters) ==
+Rank 1 | Centroid: ' His' | Score: 0.2812
+  Tokens: [' His', ' his', 'His']
+Rank 2 | Centroid: ' He' | Score: 0.2793
+  Tokens: [' He', ' he', 'He']
+Rank 3 | Centroid: ' Du' | Score: 0.2188
+  Tokens: [' Du', 'Du', ' du']
+Rank 4 | Centroid: ' This' | Score: 0.0493
+  Tokens: [' The', ' This', ' It', ' There', ' These', ' What', ' That', ' Here']
+Rank 5 | Centroid: ' For' | Score: 0.0474
+  Tokens: [' In', ' As', ' For', ' After', ' Of', ' With', ' At', ' From', ' To', ' On', ' By']
+Rank 6 | Centroid: ' Although' | Score: 0.0179
+  Tokens: [' Although', ' Though', ' Despite', ' However', ' But', ' Like', ' While', ' Unlike', ' Because', ' When', ' Since', ' Given']
+Rank 7 | Centroid: ' During' | Score: 0.0175
+  Tokens: [' During', ' Among', ' Throughout', ' According', ' Through', ' Together', ' Along', ' Before', ' Between', ' Compared', ' Around', ' Following']
+Rank 8 | Centroid: ' Hu' | Score: 0.0123
+  Tokens: [' Fu', ' Tu', ' Hu', ' Fa', ' Lu']
+Rank 9 | Centroid: ' Many' | Score: 0.0101
+  Tokens: [' Most', ' Many', ' One', ' Some', ' Much', ' All', ' Also', ' Two', ' More', ' Both']
+Rank 10 | Centroid: ' A' | Score: 0.0035
+  Tokens: [' A', ' D', ' An', ' So', ' Do']
+Rank 11 | Centroid: ' Being' | Score: 0.0025
+  Tokens: [' Born', ' Known', ' Later', ' Being']
+Rank 12 | Centroid: ' Due' | Score: 0.0021
+  Tokens: [' Due']
+Rank 13 | Centroid: ' Po' | Score: 0.0010
+  Tokens: [' Po', ' Poetry']
+Rank 14 | Centroid: ' Da' | Score: 0.0010
+  Tokens: [' Da', ' Dr', ' Dun', ' Diff']
+Rank 15 | Centroid: ' Over' | Score: 0.0004
+  Tokens: [' Over', ' Under']
+Rank 16 | Centroid: ' Histor' | Score: 0.0002
+  Tokens: [' Histor']
+
+**Chosen Concept:** Rank 1

@@ -1,153 +1,139 @@
 --- Step 14 Log ---
 
 == Filtered Candidates ==
-Token: ' narrative' (ID: 19221), Prob: 0.9766
-Token: ' story' (ID: 3364), Prob: 0.0229
-Token: ' narr' (ID: 13408), Prob: 0.0000
-Token: ' tale' (ID: 23281), Prob: 0.0000
-Token: ' narration' (ID: 85080), Prob: 0.0000
-Token: ' literary' (ID: 31365), Prob: 0.0000
-Token: ' fictional' (ID: 43582), Prob: 0.0000
-Token: ' descriptive' (ID: 52844), Prob: 0.0000
-Token: ' summary' (ID: 12126), Prob: 0.0000
-Token: ' storytelling' (ID: 47829), Prob: 0.0000
-Token: ' historical' (ID: 13656), Prob: 0.0000
-Token: ' news' (ID: 3669), Prob: 0.0000
-Token: ' novel' (ID: 11514), Prob: 0.0000
-Token: ' piece' (ID: 6573), Prob: 0.0000
-Token: ' travel' (ID: 5821), Prob: 0.0000
-Token: ' description' (ID: 4008), Prob: 0.0000
-Token: ' anecd' (ID: 49650), Prob: 0.0000
-Token: ' plot' (ID: 7089), Prob: 0.0000
-Token: ' written' (ID: 5326), Prob: 0.0000
-Token: ' factual' (ID: 59901), Prob: 0.0000
-Token: ' fairy' (ID: 44486), Prob: 0.0000
-Token: ' paragraph' (ID: 14311), Prob: 0.0000
-Token: ' fiction' (ID: 16989), Prob: 0.0000
-Token: ' Narrative' (ID: 95721), Prob: 0.0000
-Token: ' version' (ID: 2319), Prob: 0.0000
-Token: ' storyline' (ID: 50628), Prob: 0.0000
-Token: ' adventure' (ID: 17943), Prob: 0.0000
-Token: ' dramatic' (ID: 21771), Prob: 0.0000
-Token: ' tell' (ID: 3291), Prob: 0.0000
-Token: ' narratives' (ID: 57278), Prob: 0.0000
-Token: ' account' (ID: 2692), Prob: 0.0000
-Token: ' note' (ID: 5185), Prob: 0.0000
-Token: ' detailed' (ID: 11682), Prob: 0.0000
-Token: ' short' (ID: 2805), Prob: 0.0000
-Token: ' yet' (ID: 3602), Prob: 0.0000
-Token: ' narrator' (ID: 64171), Prob: 0.0000
-Token: ' personal' (ID: 4345), Prob: 0.0000
-Token: ' nature' (ID: 6993), Prob: 0.0000
-Token: ' timeline' (ID: 24808), Prob: 0.0000
-Token: ' humorous' (ID: 69846), Prob: 0.0000
-Token: ' journey' (ID: 11618), Prob: 0.0000
-Token: ' fantasy' (ID: 18378), Prob: 0.0000
-Token: ' imaginative' (ID: 76261), Prob: 0.0000
-Token: ' time' (ID: 882), Prob: 0.0000
-Token: ' sentence' (ID: 11652), Prob: 0.0000
-Token: ' essay' (ID: 8895), Prob: 0.0000
-Token: ' romantic' (ID: 23467), Prob: 0.0000
-Token: ' vivid' (ID: 42020), Prob: 0.0000
-Token: ' outline' (ID: 21101), Prob: 0.0000
-Token: ' article' (ID: 4549), Prob: 0.0000
-Token: ' documentary' (ID: 24954), Prob: 0.0000
-Token: ' educational' (ID: 16229), Prob: 0.0000
-Token: ' realistic' (ID: 25489), Prob: 0.0000
-Token: ' informative' (ID: 38219), Prob: 0.0000
-Token: ' memoir' (ID: 50242), Prob: 0.0000
-Token: ' script' (ID: 5316), Prob: 0.0000
-Token: ' creative' (ID: 11521), Prob: 0.0000
-Token: ' telling' (ID: 11629), Prob: 0.0000
-Token: ' report' (ID: 1895), Prob: 0.0000
-Token: ' daily' (ID: 7298), Prob: 0.0000
-Token: ' mountain' (ID: 16301), Prob: 0.0000
-Token: ' oral' (ID: 20655), Prob: 0.0000
-Token: ' chronological' (ID: 86534), Prob: 0.0000
-Token: ' biography' (ID: 47245), Prob: 0.0000
-Token: ' bedtime' (ID: 88507), Prob: 0.0000
-Token: ' read' (ID: 1349), Prob: 0.0000
-Token: ' fact' (ID: 2097), Prob: 0.0000
-Token: '-story' (ID: 45099), Prob: 0.0000
-Token: ' title' (ID: 2265), Prob: 0.0000
-Token: ' magical' (ID: 23702), Prob: 0.0000
-Token: ' verbal' (ID: 35770), Prob: 0.0000
-Token: ' instructional' (ID: 71245), Prob: 0.0000
-Token: ' writing' (ID: 4378), Prob: 0.0000
-Token: ' national' (ID: 5313), Prob: 0.0000
-Token: ' natural' (ID: 5810), Prob: 0.0000
-Token: ' scene' (ID: 6109), Prob: 0.0000
-Token: ' emotional' (ID: 14269), Prob: 0.0000
-Token: 'Narr' (ID: 63279), Prob: 0.0000
-Token: ' poetic' (ID: 75434), Prob: 0.0000
-Token: ' scenario' (ID: 15048), Prob: 0.0000
-Token: ' inspirational' (ID: 56214), Prob: 0.0000
-Token: ' follow' (ID: 1795), Prob: 0.0000
-Token: ' film' (ID: 4531), Prob: 0.0000
-Token: ' stories' (ID: 7343), Prob: 0.0000
-Token: ' journal' (ID: 8322), Prob: 0.0000
-Token: ' diary' (ID: 46142), Prob: 0.0000
-Token: ' drama' (ID: 19584), Prob: 0.0000
-Token: ' passage' (ID: 21085), Prob: 0.0000
-Token: ' linear' (ID: 13482), Prob: 0.0000
-Token: ' recount' (ID: 40186), Prob: 0.0000
-Token: ' write' (ID: 3270), Prob: 0.0000
-Token: ' engaging' (ID: 22570), Prob: 0.0000
-Token: ' numerical' (ID: 34776), Prob: 0.0000
-Token: ' vign' (ID: 92792), Prob: 0.0000
+Token: ' The' (ID: 576), Prob: 0.3770
+Token: ' A' (ID: 362), Prob: 0.0176
+Token: ' Love' (ID: 10689), Prob: 0.0069
+Token: ' My' (ID: 3017), Prob: 0.0065
+Token: ' I' (ID: 358), Prob: 0.0037
+Token: ' No' (ID: 2308), Prob: 0.0035
+Token: ' Blood' (ID: 20070), Prob: 0.0035
+Token: ' T' (ID: 350), Prob: 0.0033
+Token: ' In' (ID: 758), Prob: 0.0033
+Token: ' Big' (ID: 6164), Prob: 0.0031
+Token: ' D' (ID: 422), Prob: 0.0029
+Token: 'The' (ID: 785), Prob: 0.0029
+Token: ' When' (ID: 3197), Prob: 0.0029
+Token: ' Black' (ID: 5235), Prob: 0.0029
+Token: ' Teddy' (ID: 70066), Prob: 0.0029
+Token: ' L' (ID: 444), Prob: 0.0027
+Token: ' An' (ID: 1527), Prob: 0.0025
+Token: ' Dr' (ID: 2926), Prob: 0.0025
+Token: ' S' (ID: 328), Prob: 0.0024
+Token: ' B' (ID: 425), Prob: 0.0024
+Token: ' H' (ID: 472), Prob: 0.0022
+Token: ' You' (ID: 1446), Prob: 0.0022
+Token: ' All' (ID: 2009), Prob: 0.0022
+Token: ' Death' (ID: 15911), Prob: 0.0022
+Token: ' Red' (ID: 3731), Prob: 0.0021
+Token: ' C' (ID: 356), Prob: 0.0020
+Token: ' R' (ID: 431), Prob: 0.0020
+Token: ' W' (ID: 467), Prob: 0.0019
+Token: ' We' (ID: 1205), Prob: 0.0019
+Token: ' One' (ID: 3776), Prob: 0.0019
+Token: ' Two' (ID: 9043), Prob: 0.0019
+Token: ' Last' (ID: 7996), Prob: 0.0017
+Token: ' Heart' (ID: 17965), Prob: 0.0017
+Token: ' M' (ID: 386), Prob: 0.0016
+Token: ' On' (ID: 1913), Prob: 0.0016
+Token: ' That' (ID: 2938), Prob: 0.0015
+Token: ' Blue' (ID: 8697), Prob: 0.0015
+Token: ' P' (ID: 393), Prob: 0.0014
+Token: ' F' (ID: 434), Prob: 0.0014
+Token: ' St' (ID: 794), Prob: 0.0014
+Token: ' What' (ID: 3555), Prob: 0.0014
+Token: ' Good' (ID: 7684), Prob: 0.0014
+Token: ' Christmas' (ID: 10074), Prob: 0.0014
+Token: ' Cold' (ID: 23185), Prob: 0.0014
+Token: ' Billy' (ID: 32819), Prob: 0.0014
+Token: ' Mr' (ID: 4392), Prob: 0.0014
+Token: ' Let' (ID: 6771), Prob: 0.0014
+Token: ' Ghost' (ID: 25044), Prob: 0.0014
+Token: ' Re' (ID: 1032), Prob: 0.0013
+Token: ' Sh' (ID: 1417), Prob: 0.0013
+Token: ' How' (ID: 2585), Prob: 0.0013
+Token: ' Not' (ID: 2806), Prob: 0.0013
+Token: ' Just' (ID: 4599), Prob: 0.0013
+Token: ' It' (ID: 1084), Prob: 0.0012
+Token: ' He' (ID: 1260), Prob: 0.0012
+Token: ' Out' (ID: 4371), Prob: 0.0012
+Token: ' Three' (ID: 14513), Prob: 0.0012
+Token: ' Lost' (ID: 27252), Prob: 0.0012
+Token: ' To' (ID: 2014), Prob: 0.0011
+Token: ' She' (ID: 2932), Prob: 0.0011
+Token: ' After' (ID: 4636), Prob: 0.0011
+Token: ' Double' (ID: 7093), Prob: 0.0011
+Token: ' Life' (ID: 9414), Prob: 0.0011
+Token: ' Burn' (ID: 18039), Prob: 0.0011
+Token: ' Waiting' (ID: 52186), Prob: 0.0011
+Token: ' G' (ID: 479), Prob: 0.0011
+Token: ' V' (ID: 647), Prob: 0.0011
+Token: ' For' (ID: 1752), Prob: 0.0011
+Token: ' Man' (ID: 2363), Prob: 0.0011
+Token: ' Home' (ID: 5379), Prob: 0.0011
+Token: ' Take' (ID: 11778), Prob: 0.0011
+Token: ' Night' (ID: 12826), Prob: 0.0011
+Token: ' Operation' (ID: 16730), Prob: 0.0011
+Token: ' Happy' (ID: 23355), Prob: 0.0011
+Token: ' Johnny' (ID: 31880), Prob: 0.0011
+Token: ' Behind' (ID: 42374), Prob: 0.0011
+Token: ' This' (ID: 1096), Prob: 0.0010
+Token: ' Tr' (ID: 1163), Prob: 0.0010
+Token: ' At' (ID: 2411), Prob: 0.0010
+Token: ' Back' (ID: 6841), Prob: 0.0010
+Token: ' Ch' (ID: 910), Prob: 0.0009
+Token: ' There' (ID: 2619), Prob: 0.0009
+Token: ' God' (ID: 4264), Prob: 0.0009
+Token: ' Don' (ID: 4320), Prob: 0.0009
+Token: ' First' (ID: 5512), Prob: 0.0009
+Token: ' White' (ID: 5807), Prob: 0.0009
+Token: ' Where' (ID: 10967), Prob: 0.0009
+Token: ' Live' (ID: 11158), Prob: 0.0009
+Token: ' Dead' (ID: 15021), Prob: 0.0009
+Token: ' Un' (ID: 1230), Prob: 0.0009
+Token: ' If' (ID: 1416), Prob: 0.0009
+Token: ' As' (ID: 1634), Prob: 0.0009
+Token: ' House' (ID: 4678), Prob: 0.0009
+Token: ' From' (ID: 5542), Prob: 0.0009
+Token: ' Who' (ID: 10479), Prob: 0.0009
+Token: ' Mother' (ID: 21043), Prob: 0.0009
+Token: ' K' (ID: 730), Prob: 0.0008
+Token: ' So' (ID: 2055), Prob: 0.0008
 
 == Ranked Concepts (Clusters) ==
-Rank 1 | Centroid: ' narrative' | Score: 0.9766
-  Tokens: [' narrative', ' narr', ' narration', ' Narrative', ' narratives', ' narrator', 'Narr']
-Rank 2 | Centroid: ' story' | Score: 0.0229
-  Tokens: [' story', ' tale', ' storytelling', ' tell', ' telling', '-story', ' stories']
-Rank 3 | Centroid: ' imaginative' | Score: 0.0000
-  Tokens: [' literary', ' dramatic', ' humorous', ' imaginative', ' romantic', ' realistic', ' creative', ' magical', ' poetic', ' inspirational']
-Rank 4 | Centroid: ' summary' | Score: 0.0000
-  Tokens: [' summary', ' description', ' account', ' note', ' detailed', ' outline', ' report']
-Rank 5 | Centroid: ' fiction' | Score: 0.0000
-  Tokens: [' fictional', ' fairy', ' fiction', ' fantasy', ' drama']
-Rank 6 | Centroid: ' informative' | Score: 0.0000
-  Tokens: [' descriptive', ' factual', ' informative']
-Rank 7 | Centroid: ' paragraph' | Score: 0.0000
-  Tokens: [' piece', ' paragraph', ' sentence', ' essay', ' article', ' passage']
-Rank 8 | Centroid: ' historical' | Score: 0.0000
-  Tokens: [' historical', ' chronological']
-Rank 9 | Centroid: ' news' | Score: 0.0000
-  Tokens: [' news', ' fact']
-Rank 10 | Centroid: ' script' | Score: 0.0000
-  Tokens: [' plot', ' version', ' script', ' title']
-Rank 11 | Centroid: ' novel' | Score: 0.0000
-  Tokens: [' novel', ' film']
-Rank 12 | Centroid: ' journey' | Score: 0.0000
-  Tokens: [' travel', ' journey', ' mountain']
-Rank 13 | Centroid: ' documentary' | Score: 0.0000
-  Tokens: [' anecd', ' documentary', ' biography']
-Rank 14 | Centroid: ' write' | Score: 0.0000
-  Tokens: [' written', ' read', ' writing', ' write']
-Rank 15 | Centroid: ' verbal' | Score: 0.0000
-  Tokens: [' personal', ' daily', ' oral', ' verbal', ' national', ' natural', ' linear', ' numerical']
-Rank 16 | Centroid: ' follow' | Score: 0.0000
-  Tokens: [' short', ' yet', ' follow']
-Rank 17 | Centroid: ' adventure' | Score: 0.0000
-  Tokens: [' adventure', ' bedtime']
-Rank 18 | Centroid: ' storyline' | Score: 0.0000
-  Tokens: [' storyline']
-Rank 19 | Centroid: ' timeline' | Score: 0.0000
-  Tokens: [' timeline', ' time']
-Rank 20 | Centroid: ' nature' | Score: 0.0000
-  Tokens: [' nature']
-Rank 21 | Centroid: ' educational' | Score: 0.0000
-  Tokens: [' educational', ' instructional', ' emotional']
-Rank 22 | Centroid: ' diary' | Score: 0.0000
-  Tokens: [' memoir', ' journal', ' diary']
-Rank 23 | Centroid: ' vivid' | Score: 0.0000
-  Tokens: [' vivid', ' engaging']
-Rank 24 | Centroid: ' scene' | Score: 0.0000
-  Tokens: [' scene', ' scenario']
-Rank 25 | Centroid: ' recount' | Score: 0.0000
-  Tokens: [' recount']
-Rank 26 | Centroid: ' vign' | Score: 0.0000
-  Tokens: [' vign']
+Rank 1 | Centroid: ' This' | Score: 0.3984
+  Tokens: [' The', 'The', ' When', ' You', ' We', ' That', ' What', ' Let', ' How', ' It', ' This', ' There', ' Where', ' If', ' Who']
+Rank 2 | Centroid: ' D' | Score: 0.0505
+  Tokens: [' A', ' I', ' T', ' D', ' L', ' S', ' B', ' H', ' C', ' R', ' W', ' M', ' P', ' F', ' G', ' V', ' K']
+Rank 3 | Centroid: ' For' | Score: 0.0135
+  Tokens: [' In', ' An', ' On', ' To', ' After', ' For', ' At', ' As', ' From']
+Rank 4 | Centroid: ' Love' | Score: 0.0115
+  Tokens: [' Love', ' Good', ' Life', ' Happy', ' Live']
+Rank 5 | Centroid: ' Billy' | Score: 0.0114
+  Tokens: [' Big', ' Teddy', ' Christmas', ' Cold', ' Billy', ' Johnny']
+Rank 6 | Centroid: ' Home' | Score: 0.0102
+  Tokens: [' Blood', ' Heart', ' Burn', ' Home', ' Night', ' House', ' Mother']
+Rank 7 | Centroid: ' Not' | Score: 0.0091
+  Tokens: [' No', ' All', ' Not', ' Just', ' So']
+Rank 8 | Centroid: ' Two' | Score: 0.0087
+  Tokens: [' One', ' Two', ' Last', ' Three', ' Double', ' First']
+Rank 9 | Centroid: ' Black' | Score: 0.0075
+  Tokens: [' Black', ' Red', ' Blue', ' White']
+Rank 10 | Centroid: ' Mr' | Score: 0.0070
+  Tokens: [' Dr', ' Mr', ' Man', ' Operation', ' God']
+Rank 11 | Centroid: ' Death' | Score: 0.0069
+  Tokens: [' Death', ' Ghost', ' Lost', ' Waiting', ' Dead']
+Rank 12 | Centroid: ' Sh' | Score: 0.0068
+  Tokens: [' St', ' Re', ' Sh', ' Tr', ' Ch', ' Un']
+Rank 13 | Centroid: ' My' | Score: 0.0065
+  Tokens: [' My']
+Rank 14 | Centroid: ' Back' | Score: 0.0033
+  Tokens: [' Out', ' Behind', ' Back']
+Rank 15 | Centroid: ' He' | Score: 0.0023
+  Tokens: [' He', ' She']
+Rank 16 | Centroid: ' Take' | Score: 0.0011
+  Tokens: [' Take']
+Rank 17 | Centroid: ' Don' | Score: 0.0009
+  Tokens: [' Don']
 
 **Chosen Concept:** Rank 1

@@ -1,115 +1,119 @@
 --- Step 68 Log ---
 
 == Filtered Candidates ==
-Token: ' everything' (ID: 4297), Prob: 0.0014
-Token: ' emotions' (ID: 21261), Prob: 0.0000
-Token: ' everyone' (ID: 5019), Prob: 0.0000
-Token: ' emotional' (ID: 14269), Prob: 0.0000
-Token: ' words' (ID: 4244), Prob: 0.0000
-Token: ' keywords' (ID: 20844), Prob: 0.0000
-Token: ' key' (ID: 1376), Prob: 0.0000
-Token: ' emojis' (ID: 99066), Prob: 0.0000
-Token: ' emoji' (ID: 42365), Prob: 0.0000
-Token: ' every' (ID: 1449), Prob: 0.0000
-Token: ' emotion' (ID: 19772), Prob: 0.0000
-Token: ' nothing' (ID: 4302), Prob: 0.0000
-Token: ' things' (ID: 2513), Prob: 0.0000
-Token: ' sentences' (ID: 22870), Prob: 0.0000
-Token: ' placeholders' (ID: 78428), Prob: 0.0000
-Token: ' emotionally' (ID: 37583), Prob: 0.0000
-Token: ' personal' (ID: 4345), Prob: 0.0000
+Token: ' year' (ID: 1042), Prob: 0.9141
+Token: ' years' (ID: 1635), Prob: 0.0312
+Token: ' season' (ID: 3200), Prob: 0.0312
+Token: ' two' (ID: 1378), Prob: 0.0062
+Token: ' seasons' (ID: 15584), Prob: 0.0048
+Token: ' summer' (ID: 7324), Prob: 0.0014
+Token: ' spring' (ID: 10464), Prob: 0.0007
+Token: ' decade' (ID: 13212), Prob: 0.0007
+Token: ' winter' (ID: 12406), Prob: 0.0004
+Token: ' three' (ID: 2326), Prob: 0.0003
+Token: ' months' (ID: 3951), Prob: 0.0003
+Token: ' month' (ID: 2254), Prob: 0.0002
+Token: ' calendar' (ID: 13168), Prob: 0.0002
+Token: ' theatre' (ID: 33496), Prob: 0.0002
+Token: ' autumn' (ID: 41674), Prob: 0.0002
+Token: ' period' (ID: 4168), Prob: 0.0001
+Token: ' five' (ID: 4236), Prob: 0.0001
+Token: ' television' (ID: 12425), Prob: 0.0001
+Token: ' series' (ID: 4013), Prob: 0.0001
+Token: ' production' (ID: 5670), Prob: 0.0001
+Token: ' episode' (ID: 9234), Prob: 0.0001
+Token: ' four' (ID: 3040), Prob: 0.0001
+Token: ' film' (ID: 4531), Prob: 0.0001
+Token: ' week' (ID: 2003), Prob: 0.0001
+Token: 'year' (ID: 3157), Prob: 0.0001
+Token: ' stage' (ID: 6430), Prob: 0.0001
+Token: ' January' (ID: 6058), Prob: 0.0000
+Token: ' few' (ID: 2421), Prob: 0.0000
+Token: ' six' (ID: 4743), Prob: 0.0000
+Token: ' February' (ID: 7400), Prob: 0.0000
+Token: ' March' (ID: 5470), Prob: 0.0000
+Token: ' Spring' (ID: 12252), Prob: 0.0000
+Token: ' theater' (ID: 26705), Prob: 0.0000
+Token: ' subsequent' (ID: 17420), Prob: 0.0000
+Token: ' and' (ID: 323), Prob: 0.0000
+Token: ' show' (ID: 1473), Prob: 0.0000
+Token: ' fall' (ID: 4399), Prob: 0.0000
+Token: ' cycle' (ID: 10775), Prob: 0.0000
+Token: ' decades' (ID: 10793), Prob: 0.0000
+Token: ' consecutive' (ID: 23921), Prob: 0.0000
+Token: ' theatrical' (ID: 65233), Prob: 0.0000
+Token: ' April' (ID: 5813), Prob: 0.0000
+Token: ' seven' (ID: 8094), Prob: 0.0000
+Token: ' edition' (ID: 13688), Prob: 0.0000
+Token: ' episodes' (ID: 17770), Prob: 0.0000
+Token: ' academic' (ID: 14250), Prob: 0.0000
+Token: ' September' (ID: 6122), Prob: 0.0000
+Token: ' Season' (ID: 14263), Prob: 0.0000
+Token: ' days' (ID: 2849), Prob: 0.0000
+Token: ' weeks' (ID: 5555), Prob: 0.0000
+Token: ' Year' (ID: 9742), Prob: 0.0000
 Token: ' time' (ID: 882), Prob: 0.0000
-Token: ' dates' (ID: 12713), Prob: 0.0000
-Token: ' percentages' (ID: 53108), Prob: 0.0000
-Token: ' natural' (ID: 5810), Prob: 0.0000
-Token: ' sentence' (ID: 11652), Prob: 0.0000
-Token: ' clarity' (ID: 31273), Prob: 0.0000
-Token: ' names' (ID: 5036), Prob: 0.0000
-Token: ' people' (ID: 1251), Prob: 0.0000
-Token: ' tone' (ID: 16232), Prob: 0.0000
-Token: ' punctuation' (ID: 61503), Prob: 0.0000
-Token: ' mention' (ID: 6286), Prob: 0.0000
-Token: ' something' (ID: 2494), Prob: 0.0000
-Token: ' dialogue' (ID: 21276), Prob: 0.0000
-Token: ' repetition' (ID: 53415), Prob: 0.0000
-Token: ' proper' (ID: 6169), Prob: 0.0000
-Token: ' quotes' (ID: 17194), Prob: 0.0000
-Token: ' emphasis' (ID: 24654), Prob: 0.0000
-Token: ' connecting' (ID: 20913), Prob: 0.0000
-Token: ' phrases' (ID: 31747), Prob: 0.0000
-Token: ' context' (ID: 2266), Prob: 0.0000
-Token: ' metaphor' (ID: 45350), Prob: 0.0000
-Token: ' parts' (ID: 5479), Prob: 0.0000
-Token: ' adding' (ID: 7842), Prob: 0.0000
-Token: ' connectors' (ID: 57070), Prob: 0.0000
-Token: ' enough' (ID: 3322), Prob: 0.0000
-Token: ' anything' (ID: 4113), Prob: 0.0000
-Token: ' flow' (ID: 6396), Prob: 0.0000
-Token: ' weather' (ID: 9104), Prob: 0.0000
-Token: ' numbers' (ID: 5109), Prob: 0.0000
-Token: ' maybe' (ID: 7196), Prob: 0.0000
-Token: ' mentions' (ID: 33845), Prob: 0.0000
-Token: ' enthusiasm' (ID: 35132), Prob: 0.0000
-Token: ' hashtags' (ID: 81861), Prob: 0.0000
-Token: ' transitions' (ID: 33592), Prob: 0.0000
-Token: ' embedding' (ID: 39088), Prob: 0.0000
-Token: ' message' (ID: 1943), Prob: 0.0000
-Token: ' concise' (ID: 63594), Prob: 0.0000
-Token: ' emot' (ID: 10172), Prob: 0.0000
-Token: ' using' (ID: 1667), Prob: 0.0000
-Token: ' sentiment' (ID: 25975), Prob: 0.0000
-Token: ' points' (ID: 3501), Prob: 0.0000
-Token: ' statements' (ID: 12239), Prob: 0.0000
-Token: ' synonyms' (ID: 85406), Prob: 0.0000
-Token: ' engagement' (ID: 19805), Prob: 0.0000
-Token: ' verbs' (ID: 61846), Prob: 0.0000
-Token: ' person' (ID: 1697), Prob: 0.0000
-Token: ' landmarks' (ID: 59924), Prob: 0.0000
-Token: ' word' (ID: 3409), Prob: 0.0000
-Token: ' elements' (ID: 5424), Prob: 0.0000
-Token: ' connections' (ID: 13234), Prob: 0.0000
-Token: ' keyword' (ID: 16174), Prob: 0.0000
+Token: ' term' (ID: 4647), Prob: 0.0000
+Token: ' May' (ID: 3217), Prob: 0.0000
+Token: ' June' (ID: 5534), Prob: 0.0000
+Token: ' July' (ID: 5768), Prob: 0.0000
+Token: ' TV' (ID: 5883), Prob: 0.0000
+Token: ' August' (ID: 6156), Prob: 0.0000
+Token: ' October' (ID: 6527), Prob: 0.0000
+Token: ' quarter' (ID: 8338), Prob: 0.0000
+Token: ' eight' (ID: 8063), Prob: 0.0000
+Token: ' acting' (ID: 15358), Prob: 0.0000
+Token: ' he' (ID: 566), Prob: 0.0000
+Token: ' BBC' (ID: 18096), Prob: 0.0000
+Token: ' winters' (ID: 84982), Prob: 0.0000
+Token: ' following' (ID: 2701), Prob: 0.0000
+Token: ' actor' (ID: 12089), Prob: 0.0000
+Token: ' stages' (ID: 17628), Prob: 0.0000
+Token: ' twelve' (ID: 29235), Prob: 0.0000
+Token: ' Winter' (ID: 20101), Prob: 0.0000
+Token: ' day' (ID: 1899), Prob: 0.0000
+Token: ' December' (ID: 6652), Prob: 0.0000
+Token: ' twenty' (ID: 17073), Prob: 0.0000
+Token: ' bi' (ID: 6032), Prob: 0.0000
+Token: ' same' (ID: 1852), Prob: 0.0000
+Token: ' November' (ID: 6702), Prob: 0.0000
+Token: ' broadcast' (ID: 12899), Prob: 0.0000
+Token: ' theat' (ID: 46113), Prob: 0.0000
+Token: ' the' (ID: 279), Prob: 0.0000
+Token: ' productions' (ID: 53148), Prob: 0.0000
+Token: ' several' (ID: 3807), Prob: 0.0000
+Token: ' couple' (ID: 5625), Prob: 0.0000
+Token: ' financial' (ID: 5896), Prob: 0.0000
+Token: ' Summer' (ID: 18836), Prob: 0.0000
 
 == Ranked Concepts (Clusters) ==
-Rank 1 | Centroid: ' something' | Score: 0.0014
-  Tokens: [' everything', ' nothing', ' things', ' something', ' anything']
-Rank 2 | Centroid: ' emotional' | Score: 0.0001
-  Tokens: [' emotions', ' emotional', ' emotion', ' emotionally', ' emot', ' sentiment']
-Rank 3 | Centroid: ' everyone' | Score: 0.0000
-  Tokens: [' everyone', ' every', ' maybe']
-Rank 4 | Centroid: ' keywords' | Score: 0.0000
-  Tokens: [' words', ' keywords', ' word', ' keyword']
-Rank 5 | Centroid: ' emojis' | Score: 0.0000
-  Tokens: [' emojis', ' emoji', ' hashtags', ' synonyms']
-Rank 6 | Centroid: ' using' | Score: 0.0000
-  Tokens: [' key', ' proper', ' adding', ' using']
-Rank 7 | Centroid: ' enthusiasm' | Score: 0.0000
-  Tokens: [' clarity', ' tone', ' dialogue', ' repetition', ' emphasis', ' context', ' enthusiasm', ' engagement']
-Rank 8 | Centroid: ' sentences' | Score: 0.0000
-  Tokens: [' sentences', ' sentence', ' quotes', ' phrases', ' statements', ' verbs']
-Rank 9 | Centroid: ' numbers' | Score: 0.0000
-  Tokens: [' dates', ' percentages', ' names', ' numbers']
-Rank 10 | Centroid: ' weather' | Score: 0.0000
-  Tokens: [' time', ' natural', ' flow', ' weather']
-Rank 11 | Centroid: ' person' | Score: 0.0000
-  Tokens: [' personal', ' people', ' person']
-Rank 12 | Centroid: ' placeholders' | Score: 0.0000
-  Tokens: [' placeholders', ' landmarks']
-Rank 13 | Centroid: ' connecting' | Score: 0.0000
-  Tokens: [' connecting', ' connectors', ' embedding', ' connections']
-Rank 14 | Centroid: ' punctuation' | Score: 0.0000
-  Tokens: [' punctuation', ' metaphor']
-Rank 15 | Centroid: ' mention' | Score: 0.0000
-  Tokens: [' mention', ' mentions']
-Rank 16 | Centroid: ' elements' | Score: 0.0000
-  Tokens: [' parts', ' points', ' elements']
-Rank 17 | Centroid: ' enough' | Score: 0.0000
-  Tokens: [' enough']
-Rank 18 | Centroid: ' transitions' | Score: 0.0000
-  Tokens: [' transitions']
-Rank 19 | Centroid: ' message' | Score: 0.0000
-  Tokens: [' message']
-Rank 20 | Centroid: ' concise' | Score: 0.0000
-  Tokens: [' concise']
+Rank 1 | Centroid: ' year' | Score: 0.9141
+  Tokens: [' year', ' decade', 'year', ' Year', ' quarter']
+Rank 2 | Centroid: ' season' | Score: 0.0361
+  Tokens: [' season', ' seasons', ' Season']
+Rank 3 | Centroid: ' months' | Score: 0.0315
+  Tokens: [' years', ' months', ' decades', ' days', ' weeks']
+Rank 4 | Centroid: ' five' | Score: 0.0068
+  Tokens: [' two', ' three', ' five', ' four', ' six', ' seven', ' eight', ' twelve', ' twenty', ' several']
+Rank 5 | Centroid: ' winter' | Score: 0.0027
+  Tokens: [' summer', ' spring', ' winter', ' autumn', ' Spring', ' fall', ' winters', ' Winter', ' Summer']
+Rank 6 | Centroid: ' month' | Score: 0.0005
+  Tokens: [' month', ' calendar', ' week', ' day']
+Rank 7 | Centroid: ' stage' | Score: 0.0002
+  Tokens: [' period', ' stage', ' cycle', ' stages']
+Rank 8 | Centroid: ' theatre' | Score: 0.0002
+  Tokens: [' theatre', ' theater', ' theatrical', ' actor', ' theat']
+Rank 9 | Centroid: ' television' | Score: 0.0002
+  Tokens: [' television', ' film', ' TV', ' acting', ' BBC', ' broadcast']
+Rank 10 | Centroid: ' financial' | Score: 0.0002
+  Tokens: [' series', ' few', ' subsequent', ' consecutive', ' academic', ' couple', ' financial']
+Rank 11 | Centroid: ' February' | Score: 0.0002
+  Tokens: [' January', ' February', ' March', ' April', ' September', ' May', ' June', ' July', ' August', ' October', ' December', ' November']
+Rank 12 | Centroid: ' episode' | Score: 0.0001
+  Tokens: [' episode', ' edition', ' episodes']
+Rank 13 | Centroid: ' production' | Score: 0.0001
+  Tokens: [' production', ' productions']
+Rank 14 | Centroid: ' the' | Score: 0.0000
+  Tokens: [' and', ' show', ' time', ' term', ' he', ' following', ' bi', ' same', ' the']
 
 **Chosen Concept:** Rank 1

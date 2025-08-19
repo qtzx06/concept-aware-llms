@@ -1,83 +1,140 @@
 --- Step 44 Log ---
 
 == Filtered Candidates ==
-Token: ' must' (ID: 1969), Prob: 0.0017
-Token: ' located' (ID: 7407), Prob: 0.0015
-Token: ' feels' (ID: 11074), Prob: 0.0011
-Token: ' outside' (ID: 4889), Prob: 0.0010
-Token: ' inside' (ID: 4766), Prob: 0.0008
-Token: ' becomes' (ID: 9044), Prob: 0.0008
-Token: ' exterior' (ID: 27263), Prob: 0.0007
-Token: ' details' (ID: 3565), Prob: 0.0006
-Token: ' sits' (ID: 23011), Prob: 0.0005
-Token: ' would' (ID: 1035), Prob: 0.0005
-Token: 'front' (ID: 6951), Prob: 0.0005
-Token: ' appears' (ID: 7952), Prob: 0.0005
-Token: ' contains' (ID: 5610), Prob: 0.0004
-Token: ' house' (ID: 3753), Prob: 0.0004
-Token: ' setting' (ID: 6243), Prob: 0.0004
-Token: ' interior' (ID: 14791), Prob: 0.0004
-Token: ' might' (ID: 2578), Prob: 0.0003
-Token: ' sounds' (ID: 10362), Prob: 0.0003
-Token: ' opens' (ID: 15885), Prob: 0.0003
-Token: ' may' (ID: 1231), Prob: 0.0003
-Token: ' within' (ID: 2878), Prob: 0.0002
-Token: ' today' (ID: 3351), Prob: 0.0002
-Token: ' location' (ID: 3728), Prob: 0.0002
-Token: ' comes' (ID: 4041), Prob: 0.0002
-Token: ' gets' (ID: 5221), Prob: 0.0002
-Token: ' scene' (ID: 6109), Prob: 0.0002
-Token: ' features' (ID: 4419), Prob: 0.0002
-Token: ' receives' (ID: 21189), Prob: 0.0002
-Token: ' needs' (ID: 3880), Prob: 0.0002
-Token: ' looks' (ID: 5868), Prob: 0.0002
-Token: ' begins' (ID: 12033), Prob: 0.0002
-Token: ' meets' (ID: 20027), Prob: 0.0002
-Token: ' could' (ID: 1410), Prob: 0.0002
-Token: ' near' (ID: 3143), Prob: 0.0002
-Token: ' environment' (ID: 4573), Prob: 0.0002
-Token: ' holds' (ID: 9982), Prob: 0.0002
-Token: ' set' (ID: 738), Prob: 0.0002
-Token: ' makes' (ID: 3643), Prob: 0.0002
-Token: ' lies' (ID: 15448), Prob: 0.0002
-Token: ' became' (ID: 6116), Prob: 0.0001
-Token: 'house' (ID: 7675), Prob: 0.0001
-Token: ' starts' (ID: 8471), Prob: 0.0001
-Token: ' experiences' (ID: 11449), Prob: 0.0001
-Token: ' presents' (ID: 18404), Prob: 0.0001
-Token: ' reflects' (ID: 25963), Prob: 0.0001
-Token: ' seems' (ID: 4977), Prob: 0.0001
-Token: 'keeper' (ID: 18861), Prob: 0.0001
-Token: ' decor' (ID: 10576), Prob: 0.0001
-Token: ' gives' (ID: 6696), Prob: 0.0001
-Token: ' alone' (ID: 7484), Prob: 0.0001
+Token: ' also' (ID: 1083), Prob: 0.7852
+Token: ' appeared' (ID: 9723), Prob: 0.1064
+Token: ' been' (ID: 1012), Prob: 0.0344
+Token: ' a' (ID: 264), Prob: 0.0210
+Token: ' played' (ID: 6342), Prob: 0.0164
+Token: ' had' (ID: 1030), Prob: 0.0087
+Token: ' since' (ID: 2474), Prob: 0.0060
+Token: ' performed' (ID: 10660), Prob: 0.0025
+Token: ' starred' (ID: 58235), Prob: 0.0025
+Token: ' guest' (ID: 8640), Prob: 0.0022
+Token: ' acted' (ID: 30432), Prob: 0.0022
+Token: ' made' (ID: 1865), Prob: 0.0012
+Token: ' worked' (ID: 6439), Prob: 0.0009
+Token: ' recently' (ID: 5926), Prob: 0.0007
+Token: ' an' (ID: 458), Prob: 0.0006
+Token: ' written' (ID: 5326), Prob: 0.0006
+Token: ' featured' (ID: 14766), Prob: 0.0005
+Token: ' done' (ID: 2814), Prob: 0.0004
+Token: ' additionally' (ID: 36838), Prob: 0.0004
+Token: ' further' (ID: 4623), Prob: 0.0003
+Token: ' taken' (ID: 4429), Prob: 0.0003
+Token: ' portrayed' (ID: 44777), Prob: 0.0003
+Token: ' won' (ID: 2765), Prob: 0.0003
+Token: ' received' (ID: 3949), Prob: 0.0003
+Token: ' continued' (ID: 8570), Prob: 0.0003
+Token: ' more' (ID: 803), Prob: 0.0002
+Token: ' subsequently' (ID: 27420), Prob: 0.0002
+Token: ' co' (ID: 1062), Prob: 0.0002
+Token: ' provided' (ID: 3897), Prob: 0.0002
+Token: ' repr' (ID: 30636), Prob: 0.0002
+Token: ' star' (ID: 6774), Prob: 0.0002
+Token: ' later' (ID: 2937), Prob: 0.0001
+Token: ' participated' (ID: 30308), Prob: 0.0001
+Token: ' then' (ID: 1221), Prob: 0.0001
+Token: ' become' (ID: 3635), Prob: 0.0001
+Token: ' directed' (ID: 15540), Prob: 0.0001
+Token: ' gained' (ID: 18163), Prob: 0.0001
+Token: ' roles' (ID: 12783), Prob: 0.0001
+Token: ' most' (ID: 1429), Prob: 0.0001
+Token: ' another' (ID: 2441), Prob: 0.0001
+Token: ' lent' (ID: 47807), Prob: 0.0001
+Token: ' appear' (ID: 4994), Prob: 0.0001
+Token: ' represented' (ID: 15251), Prob: 0.0001
+Token: ' now' (ID: 1431), Prob: 0.0001
+Token: ' previously' (ID: 8597), Prob: 0.0001
+Token: ' contributed' (ID: 19590), Prob: 0.0001
+Token: ' has' (ID: 702), Prob: 0.0000
+Token: ' served' (ID: 10223), Prob: 0.0000
+Token: ' joined' (ID: 10859), Prob: 0.0000
+Token: ' his' (ID: 806), Prob: 0.0000
+Token: ' held' (ID: 5644), Prob: 0.0000
+Token: ' in' (ID: 304), Prob: 0.0000
+Token: ' other' (ID: 1008), Prob: 0.0000
+Token: ' two' (ID: 1378), Prob: 0.0000
+Token: ' released' (ID: 5880), Prob: 0.0000
+Token: ' earned' (ID: 15303), Prob: 0.0000
+Token: 'appeared' (ID: 98467), Prob: 0.0000
+Token: ' the' (ID: 279), Prob: 0.0000
+Token: ' appears' (ID: 7952), Prob: 0.0000
+Token: ' twice' (ID: 10917), Prob: 0.0000
+Token: ' starring' (ID: 39400), Prob: 0.0000
+Token: ' voiced' (ID: 51368), Prob: 0.0000
+Token: ' various' (ID: 5257), Prob: 0.0000
+Token: ' produced' (ID: 8947), Prob: 0.0000
+Token: 'also' (ID: 18654), Prob: 0.0000
+Token: ' toured' (ID: 90613), Prob: 0.0000
+Token: ' regularly' (ID: 15502), Prob: 0.0000
+Token: ' notably' (ID: 34046), Prob: 0.0000
+Token: ' furthermore' (ID: 77537), Prob: 0.0000
+Token: ' spent' (ID: 7391), Prob: 0.0000
+Token: ' Also' (ID: 7281), Prob: 0.0000
+Token: ' gone' (ID: 8048), Prob: 0.0000
+Token: ' role' (ID: 3476), Prob: 0.0000
+Token: ' presented' (ID: 10449), Prob: 0.0000
+Token: ' frequently' (ID: 13814), Prob: 0.0000
+Token: ' filmed' (ID: 41408), Prob: 0.0000
+Token: ' stars' (ID: 9759), Prob: 0.0000
+Token: ' recorded' (ID: 12433), Prob: 0.0000
+Token: ' acting' (ID: 15358), Prob: 0.0000
+Token: ' cameo' (ID: 94056), Prob: 0.0000
+Token: ' again' (ID: 1549), Prob: 0.0000
+Token: ' found' (ID: 1730), Prob: 0.0000
+Token: ' created' (ID: 3465), Prob: 0.0000
+Token: ' collaborated' (ID: 77074), Prob: 0.0000
+Token: ' re' (ID: 312), Prob: 0.0000
+Token: ' given' (ID: 2661), Prob: 0.0000
+Token: ' completed' (ID: 8145), Prob: 0.0000
+Token: ' enjoyed' (ID: 14006), Prob: 0.0000
+Token: ' occasionally' (ID: 22930), Prob: 0.0000
+Token: ' undertaken' (ID: 44079), Prob: 0.0000
+Token: ' hosted' (ID: 21009), Prob: 0.0000
+Token: ' as' (ID: 438), Prob: 0.0000
+Token: ' rec' (ID: 1395), Prob: 0.0000
 
 == Ranked Concepts (Clusters) ==
-Rank 1 | Centroid: ' gets' | Score: 0.0034
-  Tokens: [' becomes', ' contains', ' opens', ' comes', ' gets', ' receives', ' begins', ' meets', ' holds', ' makes', ' starts', ' presents', ' reflects', ' gives']
-Rank 2 | Centroid: ' inside' | Score: 0.0032
-  Tokens: [' outside', ' inside', ' exterior', ' interior', ' within']
-Rank 3 | Centroid: ' might' | Score: 0.0029
-  Tokens: [' must', ' would', ' might', ' may', ' could']
-Rank 4 | Centroid: ' located' | Score: 0.0024
-  Tokens: [' located', ' sits', ' location', ' lies']
-Rank 5 | Centroid: ' seems' | Score: 0.0021
-  Tokens: [' feels', ' appears', ' sounds', ' looks', ' seems']
-Rank 6 | Centroid: ' features' | Score: 0.0012
-  Tokens: [' details', ' features', ' needs', ' experiences']
-Rank 7 | Centroid: 'front' | Score: 0.0006
-  Tokens: ['front', 'keeper']
-Rank 8 | Centroid: ' house' | Score: 0.0005
-  Tokens: [' house', 'house']
-Rank 9 | Centroid: ' setting' | Score: 0.0005
-  Tokens: [' setting', ' set']
-Rank 10 | Centroid: ' scene' | Score: 0.0005
-  Tokens: [' scene', ' environment', ' decor']
-Rank 11 | Centroid: ' today' | Score: 0.0003
-  Tokens: [' today', ' alone']
-Rank 12 | Centroid: ' near' | Score: 0.0002
-  Tokens: [' near']
-Rank 13 | Centroid: ' became' | Score: 0.0001
-  Tokens: [' became']
+Rank 1 | Centroid: 'also' | Score: 0.7852
+  Tokens: [' also', ' additionally', 'also', ' furthermore', ' Also']
+Rank 2 | Centroid: ' appeared' | Score: 0.1064
+  Tokens: [' appeared', ' appear', 'appeared', ' appears']
+Rank 3 | Centroid: ' been' | Score: 0.0344
+  Tokens: [' been', ' become']
+Rank 4 | Centroid: ' the' | Score: 0.0225
+  Tokens: [' a', ' an', ' more', ' co', ' most', ' another', ' has', ' his', ' in', ' other', ' two', ' the', ' re', ' as', ' rec']
+Rank 5 | Centroid: ' served' | Score: 0.0187
+  Tokens: [' played', ' acted', ' contributed', ' served']
+Rank 6 | Centroid: ' had' | Score: 0.0087
+  Tokens: [' had']
+Rank 7 | Centroid: ' now' | Score: 0.0062
+  Tokens: [' since', ' then', ' now']
+Rank 8 | Centroid: ' undertaken' | Score: 0.0038
+  Tokens: [' performed', ' written', ' done', ' taken', ' gone', ' undertaken']
+Rank 9 | Centroid: ' stars' | Score: 0.0027
+  Tokens: [' starred', ' star', ' starring', ' stars']
+Rank 10 | Centroid: ' guest' | Score: 0.0022
+  Tokens: [' guest', ' cameo']
+Rank 11 | Centroid: ' collaborated' | Score: 0.0018
+  Tokens: [' worked', ' won', ' received', ' participated', ' gained', ' joined', ' earned', ' toured', ' spent', ' collaborated', ' completed', ' enjoyed']
+Rank 12 | Centroid: ' created' | Score: 0.0013
+  Tokens: [' made', ' held', ' released', ' produced', ' found', ' created']
+Rank 13 | Centroid: ' frequently' | Score: 0.0009
+  Tokens: [' recently', ' previously', ' twice', ' various', ' regularly', ' notably', ' frequently', ' occasionally']
+Rank 14 | Centroid: ' portrayed' | Score: 0.0009
+  Tokens: [' featured', ' portrayed', ' represented']
+Rank 15 | Centroid: ' further' | Score: 0.0006
+  Tokens: [' further', ' continued', ' again']
+Rank 16 | Centroid: ' recorded' | Score: 0.0003
+  Tokens: [' repr', ' directed', ' voiced', ' filmed', ' recorded', ' hosted']
+Rank 17 | Centroid: ' subsequently' | Score: 0.0003
+  Tokens: [' subsequently', ' later']
+Rank 18 | Centroid: ' provided' | Score: 0.0002
+  Tokens: [' provided', ' presented', ' given']
+Rank 19 | Centroid: ' roles' | Score: 0.0001
+  Tokens: [' roles', ' role', ' acting']
+Rank 20 | Centroid: ' lent' | Score: 0.0001
+  Tokens: [' lent']
 
 **Chosen Concept:** Rank 1

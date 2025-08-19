@@ -1,148 +1,127 @@
 --- Step 128 Log ---
 
 == Filtered Candidates ==
-Token: ' actions' (ID: 6168), Prob: 0.1914
-Token: ' action' (ID: 1917), Prob: 0.0796
-Token: ' idea' (ID: 4522), Prob: 0.0703
-Token: ' parents' (ID: 6562), Prob: 0.0703
-Token: ' tower' (ID: 21271), Prob: 0.0483
-Token: ' decision' (ID: 5480), Prob: 0.0427
-Token: ' choice' (ID: 5754), Prob: 0.0427
-Token: ' attempt' (ID: 4774), Prob: 0.0376
-Token: ' creativity' (ID: 27597), Prob: 0.0293
-Token: ' plan' (ID: 3119), Prob: 0.0259
-Token: ' father' (ID: 6981), Prob: 0.0201
-Token: ' toy' (ID: 21357), Prob: 0.0178
-Token: ' act' (ID: 1160), Prob: 0.0157
-Token: ' ideas' (ID: 6708), Prob: 0.0157
-Token: ' invention' (ID: 27130), Prob: 0.0157
-Token: ' build' (ID: 1936), Prob: 0.0139
-Token: ' building' (ID: 4752), Prob: 0.0139
-Token: ' creation' (ID: 9688), Prob: 0.0139
-Token: ' brother' (ID: 10641), Prob: 0.0122
-Token: ' friends' (ID: 4780), Prob: 0.0095
-Token: ' effort' (ID: 5041), Prob: 0.0095
-Token: ' wish' (ID: 6426), Prob: 0.0095
-Token: ' materials' (ID: 7236), Prob: 0.0095
-Token: ' friend' (ID: 4238), Prob: 0.0074
-Token: ' goal' (ID: 5795), Prob: 0.0074
-Token: ' desire' (ID: 12591), Prob: 0.0074
-Token: ' challenge' (ID: 8645), Prob: 0.0065
-Token: ' story' (ID: 3364), Prob: 0.0058
-Token: ' approach' (ID: 5486), Prob: 0.0058
-Token: ' solution' (ID: 6291), Prob: 0.0058
-Token: ' mother' (ID: 6554), Prob: 0.0054
-Token: ' ambition' (ID: 44615), Prob: 0.0054
-Token: ' design' (ID: 2884), Prob: 0.0051
-Token: ' parent' (ID: 2681), Prob: 0.0048
-Token: ' final' (ID: 1590), Prob: 0.0045
-Token: ' family' (ID: 2997), Prob: 0.0042
-Token: ' innovation' (ID: 18770), Prob: 0.0042
-Token: ' project' (ID: 2390), Prob: 0.0040
-Token: ' tree' (ID: 4916), Prob: 0.0040
-Token: ' efforts' (ID: 8869), Prob: 0.0037
-Token: ' request' (ID: 1681), Prob: 0.0027
-Token: ' dream' (ID: 7904), Prob: 0.0027
-Token: ' intention' (ID: 14602), Prob: 0.0027
-Token: ' best' (ID: 1850), Prob: 0.0024
-Token: ' proposal' (ID: 13734), Prob: 0.0023
-Token: ' tools' (ID: 7375), Prob: 0.0021
-Token: ' hands' (ID: 6078), Prob: 0.0020
-Token: ' construction' (ID: 8086), Prob: 0.0019
-Token: ' choices' (ID: 11454), Prob: 0.0019
-Token: ' grandmother' (ID: 38184), Prob: 0.0018
-Token: ' initiative' (ID: 20162), Prob: 0.0017
-Token: ' courage' (ID: 24744), Prob: 0.0017
-Token: ' plans' (ID: 6649), Prob: 0.0016
-Token: ' village' (ID: 14126), Prob: 0.0016
-Token: ' sister' (ID: 12923), Prob: 0.0015
-Token: ' talent' (ID: 10772), Prob: 0.0013
-Token: ' imagination' (ID: 27799), Prob: 0.0013
-Token: ' mistake' (ID: 16523), Prob: 0.0012
-Token: ' method' (ID: 1714), Prob: 0.0011
-Token: ' material' (ID: 3684), Prob: 0.0011
-Token: ' pride' (ID: 21770), Prob: 0.0011
-Token: ' tool' (ID: 5392), Prob: 0.0010
-Token: ' perspective' (ID: 13057), Prob: 0.0010
-Token: ' grandparents' (ID: 55335), Prob: 0.0010
-Token: ' first' (ID: 1156), Prob: 0.0009
-Token: ' siblings' (ID: 36683), Prob: 0.0009
-Token: ' uncle' (ID: 37494), Prob: 0.0009
-Token: ' stone' (ID: 9798), Prob: 0.0008
-Token: ' thoughts' (ID: 11303), Prob: 0.0008
-Token: ' peers' (ID: 25029), Prob: 0.0008
-Token: ' skill' (ID: 9947), Prob: 0.0008
-Token: ' vision' (ID: 11129), Prob: 0.0008
-Token: ' attempts' (ID: 13553), Prob: 0.0008
-Token: ' wooden' (ID: 22360), Prob: 0.0008
-Token: ' creative' (ID: 11521), Prob: 0.0007
-Token: ' wishes' (ID: 24240), Prob: 0.0006
-Token: ' sibling' (ID: 44223), Prob: 0.0006
-Token: ' unique' (ID: 4911), Prob: 0.0006
-Token: ' methods' (ID: 5413), Prob: 0.0006
-Token: ' determination' (ID: 25248), Prob: 0.0006
-Token: ' skills' (ID: 7361), Prob: 0.0005
-Token: ' ability' (ID: 5726), Prob: 0.0005
-Token: ' rebellion' (ID: 52748), Prob: 0.0005
-Token: ' work' (ID: 975), Prob: 0.0005
-Token: ' thought' (ID: 3381), Prob: 0.0005
-Token: ' gift' (ID: 8189), Prob: 0.0005
-Token: ' toys' (ID: 23069), Prob: 0.0005
-Token: ' grandfather' (ID: 37850), Prob: 0.0004
-Token: ' elders' (ID: 60676), Prob: 0.0004
-Token: ' model' (ID: 1614), Prob: 0.0004
-Token: ' wood' (ID: 7579), Prob: 0.0004
-Token: ' strength' (ID: 8170), Prob: 0.0004
-Token: ' suggestion' (ID: 23776), Prob: 0.0004
-Token: ' laughter' (ID: 42114), Prob: 0.0004
-Token: ' view' (ID: 1651), Prob: 0.0004
-Token: ' task' (ID: 3383), Prob: 0.0004
-Token: ' younger' (ID: 14650), Prob: 0.0004
-Token: ' contribution' (ID: 18527), Prob: 0.0004
-Token: ' elder' (ID: 22130), Prob: 0.0004
+Token: ' Thick' (ID: 81277), Prob: 1.0000
+Token: ' Thin' (ID: 69622), Prob: 0.0000
+Token: ' thick' (ID: 12045), Prob: 0.0000
+Token: ' Th' (ID: 663), Prob: 0.0000
+Token: ' X' (ID: 1599), Prob: 0.0000
+Token: ' Other' (ID: 6944), Prob: 0.0000
+Token: ' Stick' (ID: 46461), Prob: 0.0000
+Token: ' The' (ID: 576), Prob: 0.0000
+Token: ' Sick' (ID: 81311), Prob: 0.0000
+Token: ' Heavy' (ID: 28101), Prob: 0.0000
+Token: ' Thickness' (ID: 69401), Prob: 0.0000
+Token: ' Last' (ID: 7996), Prob: 0.0000
+Token: ' Tick' (ID: 53092), Prob: 0.0000
+Token: ' T' (ID: 350), Prob: 0.0000
+Token: ' Thorn' (ID: 76924), Prob: 0.0000
+Token: ' Big' (ID: 6164), Prob: 0.0000
+Token: ' Golden' (ID: 17809), Prob: 0.0000
+Token: ' Fat' (ID: 25348), Prob: 0.0000
+Token: ' Dick' (ID: 22557), Prob: 0.0000
+Token: ' Secret' (ID: 8599), Prob: 0.0000
+Token: ' Tough' (ID: 77054), Prob: 0.0000
+Token: ' He' (ID: 1260), Prob: 0.0000
+Token: ' King' (ID: 6210), Prob: 0.0000
+Token: ' Third' (ID: 20861), Prob: 0.0000
+Token: ' Who' (ID: 10479), Prob: 0.0000
+Token: ' Bulk' (ID: 60920), Prob: 0.0000
+Token: ' Hard' (ID: 11232), Prob: 0.0000
+Token: ' Rough' (ID: 57321), Prob: 0.0000
+Token: ' House' (ID: 4678), Prob: 0.0000
+Token: ' Sixth' (ID: 66977), Prob: 0.0000
+Token: ' A' (ID: 362), Prob: 0.0000
+Token: ' Green' (ID: 7840), Prob: 0.0000
+Token: ' Trick' (ID: 69225), Prob: 0.0000
+Token: ' R' (ID: 431), Prob: 0.0000
+Token: ' Ha' (ID: 14101), Prob: 0.0000
+Token: ' Crown' (ID: 28643), Prob: 0.0000
+Token: ' Wall' (ID: 9736), Prob: 0.0000
+Token: ' Happy' (ID: 23355), Prob: 0.0000
+Token: ' S' (ID: 328), Prob: 0.0000
+Token: ' Tr' (ID: 1163), Prob: 0.0000
+Token: ' General' (ID: 3251), Prob: 0.0000
+Token: ' Red' (ID: 3731), Prob: 0.0000
+Token: ' First' (ID: 5512), Prob: 0.0000
+Token: ' Good' (ID: 7684), Prob: 0.0000
+Token: ' Two' (ID: 9043), Prob: 0.0000
+Token: ' Quick' (ID: 17251), Prob: 0.0000
+Token: ' League' (ID: 8953), Prob: 0.0000
+Token: ' Fourth' (ID: 35074), Prob: 0.0000
+Token: ' Hitch' (ID: 70364), Prob: 0.0000
+Token: ' Gr' (ID: 2825), Prob: 0.0000
+Token: ' Jack' (ID: 7607), Prob: 0.0000
+Token: ' Only' (ID: 8278), Prob: 0.0000
+Token: ' Eighth' (ID: 96488), Prob: 0.0000
+Token: ' B' (ID: 425), Prob: 0.0000
+Token: ' Thursday' (ID: 7794), Prob: 0.0000
+Token: ' Thr' (ID: 29565), Prob: 0.0000
+Token: ' M' (ID: 386), Prob: 0.0000
+Token: ' G' (ID: 479), Prob: 0.0000
+Token: ' Long' (ID: 5724), Prob: 0.0000
+Token: ' Office' (ID: 8246), Prob: 0.0000
+Token: ' and' (ID: 323), Prob: 0.0000
+Token: ' O' (ID: 506), Prob: 0.0000
+Token: ' In' (ID: 758), Prob: 0.0000
+Token: ' Un' (ID: 1230), Prob: 0.0000
+Token: ' New' (ID: 1532), Prob: 0.0000
+Token: ' Qu' (ID: 3406), Prob: 0.0000
+Token: ' White' (ID: 5807), Prob: 0.0000
+Token: ' Times' (ID: 8523), Prob: 0.0000
+Token: ' Following' (ID: 22713), Prob: 0.0000
+Token: ' H' (ID: 472), Prob: 0.0000
+Token: ' Great' (ID: 8513), Prob: 0.0000
+Token: ' Late' (ID: 35831), Prob: 0.0000
+Token: ' Thousand' (ID: 74353), Prob: 0.0000
+Token: ' View' (ID: 2738), Prob: 0.0000
 
 == Ranked Concepts (Clusters) ==
-Rank 1 | Centroid: ' actions' | Score: 0.2891
-  Tokens: [' actions', ' action', ' act', ' hands', ' work']
-Rank 2 | Centroid: ' father' | Score: 0.1089
-  Tokens: [' parents', ' father', ' mother', ' parent', ' family', ' grandmother', ' grandparents', ' grandfather', ' elders', ' elder']
-Rank 3 | Centroid: ' ideas' | Score: 0.0874
-  Tokens: [' idea', ' ideas', ' thoughts', ' thought']
-Rank 4 | Centroid: ' choice' | Score: 0.0874
-  Tokens: [' decision', ' choice', ' choices']
-Rank 5 | Centroid: ' build' | Score: 0.0869
-  Tokens: [' tower', ' build', ' building', ' design', ' tree', ' construction']
-Rank 6 | Centroid: ' attempts' | Score: 0.0515
-  Tokens: [' attempt', ' effort', ' efforts', ' attempts']
-Rank 7 | Centroid: ' creativity' | Score: 0.0391
-  Tokens: [' creativity', ' innovation', ' courage', ' imagination', ' pride', ' creative', ' rebellion', ' laughter']
-Rank 8 | Centroid: ' desire' | Score: 0.0359
-  Tokens: [' wish', ' goal', ' desire', ' ambition', ' request', ' intention', ' wishes']
-Rank 9 | Centroid: ' brother' | Score: 0.0339
-  Tokens: [' brother', ' friends', ' friend', ' sister', ' siblings', ' uncle', ' peers', ' sibling']
-Rank 10 | Centroid: ' wood' | Score: 0.0309
-  Tokens: [' toy', ' materials', ' material', ' stone', ' wooden', ' toys', ' wood']
-Rank 11 | Centroid: ' invention' | Score: 0.0305
-  Tokens: [' invention', ' creation', ' determination', ' contribution']
-Rank 12 | Centroid: ' plan' | Score: 0.0275
-  Tokens: [' plan', ' plans']
-Rank 13 | Centroid: ' perspective' | Score: 0.0173
-  Tokens: [' approach', ' solution', ' project', ' perspective', ' model', ' view']
-Rank 14 | Centroid: ' initiative' | Score: 0.0099
-  Tokens: [' challenge', ' initiative', ' mistake', ' ability']
-Rank 15 | Centroid: ' first' | Score: 0.0084
-  Tokens: [' final', ' best', ' first', ' unique']
-Rank 16 | Centroid: ' story' | Score: 0.0062
-  Tokens: [' story', ' task']
-Rank 17 | Centroid: ' tools' | Score: 0.0048
-  Tokens: [' tools', ' method', ' tool', ' methods']
-Rank 18 | Centroid: ' dream' | Score: 0.0035
-  Tokens: [' dream', ' vision']
-Rank 19 | Centroid: ' skills' | Score: 0.0030
-  Tokens: [' talent', ' skill', ' skills', ' strength']
-Rank 20 | Centroid: ' proposal' | Score: 0.0027
-  Tokens: [' proposal', ' suggestion']
-Rank 21 | Centroid: ' village' | Score: 0.0024
-  Tokens: [' village', ' gift', ' younger']
+Rank 1 | Centroid: ' Thick' | Score: 1.0000
+  Tokens: [' Thick', ' Thin', ' thick', ' Thickness']
+Rank 2 | Centroid: ' Th' | Score: 0.0000
+  Tokens: [' Th', ' Thorn', ' Thr']
+Rank 3 | Centroid: ' A' | Score: 0.0000
+  Tokens: [' X', ' The', ' T', ' A', ' R', ' S', ' B', ' M', ' G', ' and', ' O', ' In', ' Un', ' H']
+Rank 4 | Centroid: ' Trick' | Score: 0.0000
+  Tokens: [' Stick', ' Sick', ' Tick', ' Trick']
+Rank 5 | Centroid: ' Two' | Score: 0.0000
+  Tokens: [' Other', ' Last', ' First', ' Two', ' Only', ' Following']
+Rank 6 | Centroid: ' Heavy' | Score: 0.0000
+  Tokens: [' Heavy', ' Fat', ' Quick']
+Rank 7 | Centroid: ' Green' | Score: 0.0000
+  Tokens: [' Golden', ' Green', ' Red', ' White']
+Rank 8 | Centroid: ' King' | Score: 0.0000
+  Tokens: [' King', ' House', ' Crown', ' League', ' Jack']
+Rank 9 | Centroid: ' Tough' | Score: 0.0000
+  Tokens: [' Tough', ' Hard', ' Rough']
+Rank 10 | Centroid: ' Big' | Score: 0.0000
+  Tokens: [' Big', ' General', ' Long']
+Rank 11 | Centroid: ' Fourth' | Score: 0.0000
+  Tokens: [' Third', ' Sixth', ' Fourth', ' Eighth']
+Rank 12 | Centroid: ' Secret' | Score: 0.0000
+  Tokens: [' Secret', ' Bulk']
+Rank 13 | Centroid: ' Dick' | Score: 0.0000
+  Tokens: [' Dick', ' Hitch']
+Rank 14 | Centroid: ' He' | Score: 0.0000
+  Tokens: [' He', ' Ha']
+Rank 15 | Centroid: ' Good' | Score: 0.0000
+  Tokens: [' Happy', ' Good', ' Great']
+Rank 16 | Centroid: ' Qu' | Score: 0.0000
+  Tokens: [' Tr', ' Gr', ' Qu']
+Rank 17 | Centroid: ' Who' | Score: 0.0000
+  Tokens: [' Who', ' Late']
+Rank 18 | Centroid: ' Office' | Score: 0.0000
+  Tokens: [' Office', ' View']
+Rank 19 | Centroid: ' Wall' | Score: 0.0000
+  Tokens: [' Wall']
+Rank 20 | Centroid: ' Thursday' | Score: 0.0000
+  Tokens: [' Thursday']
+Rank 21 | Centroid: ' Times' | Score: 0.0000
+  Tokens: [' Times']
+Rank 22 | Centroid: ' New' | Score: 0.0000
+  Tokens: [' New']
+Rank 23 | Centroid: ' Thousand' | Score: 0.0000
+  Tokens: [' Thousand']
 
 **Chosen Concept:** Rank 1

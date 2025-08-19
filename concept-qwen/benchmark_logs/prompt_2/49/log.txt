@@ -1,110 +1,157 @@
 --- Step 49 Log ---
 
 == Filtered Candidates ==
-Token: ' going' (ID: 2087), Prob: 0.6602
-Token: ' went' (ID: 3937), Prob: 0.1670
-Token: ' gone' (ID: 8048), Prob: 0.0330
-Token: ' wrong' (ID: 4969), Prob: 0.0045
-Token: ' happening' (ID: 12482), Prob: 0.0009
-Token: ' failed' (ID: 4641), Prob: 0.0002
-Token: ' falling' (ID: 15679), Prob: 0.0001
-Token: ' failing' (ID: 21394), Prob: 0.0001
-Token: ' happened' (ID: 6932), Prob: 0.0001
-Token: ' getting' (ID: 3709), Prob: 0.0001
-Token: ' working' (ID: 3238), Prob: 0.0000
-Token: ' messed' (ID: 64202), Prob: 0.0000
-Token: ' goes' (ID: 5780), Prob: 0.0000
-Token: ' causing' (ID: 14381), Prob: 0.0000
-Token: ' problems' (ID: 5322), Prob: 0.0000
-Token: ' things' (ID: 2513), Prob: 0.0000
-Token: ' done' (ID: 2814), Prob: 0.0000
-Token: ' got' (ID: 2684), Prob: 0.0000
-Token: ' turning' (ID: 13054), Prob: 0.0000
-Token: ' Went' (ID: 53759), Prob: 0.0000
-Token: ' missing' (ID: 7402), Prob: 0.0000
-Token: ' fell' (ID: 11052), Prob: 0.0000
-Token: ' running' (ID: 4303), Prob: 0.0000
-Token: ' turned' (ID: 6519), Prob: 0.0000
-Token: ' messing' (ID: 75751), Prob: 0.0000
-Token: ' trying' (ID: 4460), Prob: 0.0000
-Token: ' worked' (ID: 6439), Prob: 0.0000
-Token: ' changing' (ID: 10018), Prob: 0.0000
-Token: ' struggling' (ID: 19962), Prob: 0.0000
-Token: ' worse' (ID: 10960), Prob: 0.0000
-Token: ' bad' (ID: 3873), Prob: 0.0000
-Token: '_wrong' (ID: 75198), Prob: 0.0000
-Token: ' ending' (ID: 13391), Prob: 0.0000
-Token: ' Going' (ID: 34871), Prob: 0.0000
-Token: ' coming' (ID: 5001), Prob: 0.0000
-Token: ' taking' (ID: 4633), Prob: 0.0000
-Token: ' tried' (ID: 6679), Prob: 0.0000
-Token: ' occurring' (ID: 30865), Prob: 0.0000
-Token: ' malfunction' (ID: 71187), Prob: 0.0000
-Token: ' mis' (ID: 5786), Prob: 0.0000
-Token: ' lost' (ID: 5558), Prob: 0.0000
-Token: ' uns' (ID: 6975), Prob: 0.0000
-Token: ' moving' (ID: 7218), Prob: 0.0000
-Token: ' ended' (ID: 9482), Prob: 0.0000
-Token: ' might' (ID: 2578), Prob: 0.0000
-Token: ' broken' (ID: 10865), Prob: 0.0000
-Token: ' starting' (ID: 5916), Prob: 0.0000
-Token: 'wrong' (ID: 34870), Prob: 0.0000
-Token: ' making' (ID: 3259), Prob: 0.0000
-Token: ' becoming' (ID: 10454), Prob: 0.0000
-Token: ' missed' (ID: 13628), Prob: 0.0000
-Token: ' made' (ID: 1865), Prob: 0.0000
-Token: ' mish' (ID: 63396), Prob: 0.0000
-Token: ' gonna' (ID: 16519), Prob: 0.0000
-Token: ' started' (ID: 3855), Prob: 0.0000
-Token: ' mistaken' (ID: 36004), Prob: 0.0000
-Token: ' slipping' (ID: 63702), Prob: 0.0000
-Token: ' worsening' (ID: 92305), Prob: 0.0000
-Token: '.go' (ID: 18002), Prob: 0.0000
-Token: ' staying' (ID: 19429), Prob: 0.0000
-Token: ' forgotten' (ID: 24547), Prob: 0.0000
-Token: '/problems' (ID: 49216), Prob: 0.0000
-Token: ' changed' (ID: 5497), Prob: 0.0000
-Token: ' flying' (ID: 16307), Prob: 0.0000
-Token: '_that' (ID: 70197), Prob: 0.0000
-Token: 'went' (ID: 41600), Prob: 0.0000
-Token: ' taken' (ID: 4429), Prob: 0.0000
+Token: 'rowning' (ID: 50420), Prob: 0.1309
+Token: 'rows' (ID: 1811), Prob: 0.1157
+Token: 'iving' (ID: 2249), Prob: 0.1157
+Token: 'rowned' (ID: 44084), Prob: 0.1157
+Token: 'ying' (ID: 7024), Prob: 0.0903
+Token: 'ancer' (ID: 11705), Prob: 0.0796
+Token: 'umb' (ID: 3551), Prob: 0.0547
+Token: 'iver' (ID: 1524), Prob: 0.0483
+Token: 'ocks' (ID: 25183), Prob: 0.0376
+Token: 'rones' (ID: 31821), Prob: 0.0228
+Token: 'ancers' (ID: 31742), Prob: 0.0178
+Token: 'itch' (ID: 1610), Prob: 0.0108
+Token: 'rought' (ID: 6344), Prob: 0.0095
+Token: 'unci' (ID: 18424), Prob: 0.0095
+Token: 'ukes' (ID: 64750), Prob: 0.0058
+Token: 'ile' (ID: 457), Prob: 0.0045
+Token: 'ull' (ID: 617), Prob: 0.0045
+Token: 'istant' (ID: 11202), Prob: 0.0045
+Token: 'ign' (ID: 622), Prob: 0.0040
+Token: 'ivers' (ID: 1945), Prob: 0.0040
+Token: 'estruct' (ID: 29294), Prob: 0.0040
+Token: 'ialect' (ID: 55056), Prob: 0.0040
+Token: 'erv' (ID: 648), Prob: 0.0035
+Token: 'arn' (ID: 1885), Prob: 0.0035
+Token: 'ung' (ID: 2185), Prob: 0.0035
+Token: 'inosaur' (ID: 88147), Prob: 0.0035
+Token: 'oves' (ID: 10088), Prob: 0.0027
+Token: 'angers' (ID: 14052), Prob: 0.0024
+Token: 'yer' (ID: 26161), Prob: 0.0024
+Token: 'ams' (ID: 4122), Prob: 0.0021
+Token: 'andy' (ID: 13331), Prob: 0.0021
+Token: 'orian' (ID: 22090), Prob: 0.0021
+Token: 'rying' (ID: 27509), Prob: 0.0021
+Token: 'rench' (ID: 6655), Prob: 0.0019
+Token: 'unes' (ID: 8531), Prob: 0.0019
+Token: 'ance' (ID: 681), Prob: 0.0017
+Token: 'aring' (ID: 3249), Prob: 0.0017
+Token: 'ocket' (ID: 4537), Prob: 0.0017
+Token: 'andel' (ID: 37121), Prob: 0.0017
+Token: 'omic' (ID: 3075), Prob: 0.0015
+Token: 'unning' (ID: 11216), Prob: 0.0015
+Token: 'usk' (ID: 32779), Prob: 0.0015
+Token: 'ard' (ID: 567), Prob: 0.0014
+Token: 'erry' (ID: 5400), Prob: 0.0014
+Token: 'ye' (ID: 9011), Prob: 0.0014
+Token: 'ippers' (ID: 31897), Prob: 0.0014
+Token: 'ach' (ID: 610), Prob: 0.0013
+Token: 'ole' (ID: 1263), Prob: 0.0013
+Token: 'init' (ID: 2327), Prob: 0.0013
+Token: 'arts' (ID: 7038), Prob: 0.0013
+Token: 'iggers' (ID: 21385), Prob: 0.0013
+Token: 'row' (ID: 651), Prob: 0.0012
+Token: 'azz' (ID: 9802), Prob: 0.0011
+Token: 'rown' (ID: 4830), Prob: 0.0010
+Token: 'igits' (ID: 18667), Prob: 0.0010
+Token: 'uch' (ID: 1387), Prob: 0.0009
+Token: 'ug' (ID: 768), Prob: 0.0008
+Token: 'oy' (ID: 2253), Prob: 0.0008
+Token: 'aven' (ID: 5276), Prob: 0.0008
+Token: 'ancing' (ID: 8974), Prob: 0.0008
+Token: 'rear' (ID: 58408), Prob: 0.0008
+Token: '.R' (ID: 2013), Prob: 0.0008
+Token: 'uplic' (ID: 9846), Prob: 0.0007
+Token: 'iffer' (ID: 14320), Prob: 0.0007
+Token: 'ower' (ID: 1202), Prob: 0.0007
+Token: 'rovers' (ID: 12563), Prob: 0.0007
+Token: 'anton' (ID: 30954), Prob: 0.0007
+Token: 'ail' (ID: 604), Prob: 0.0006
+Token: 'une' (ID: 2886), Prob: 0.0006
+Token: 'rey' (ID: 8073), Prob: 0.0006
+Token: 'regs' (ID: 30886), Prob: 0.0006
+Token: 'ov' (ID: 859), Prob: 0.0005
+Token: 'orn' (ID: 1512), Prob: 0.0005
+Token: 'ais' (ID: 2782), Prob: 0.0005
+Token: 'idi' (ID: 12278), Prob: 0.0005
+Token: 'itty' (ID: 22814), Prob: 0.0005
+Token: 'ool' (ID: 1749), Prob: 0.0005
+Token: 'ances' (ID: 3020), Prob: 0.0005
+Token: 'ruk' (ID: 76667), Prob: 0.0005
+Token: 'RA' (ID: 5609), Prob: 0.0004
+Token: 'uster' (ID: 4993), Prob: 0.0004
+Token: 'oodle' (ID: 30607), Prob: 0.0004
+Token: 'us' (ID: 355), Prob: 0.0004
+Token: 'ern' (ID: 932), Prob: 0.0004
+Token: 'itt' (ID: 1442), Prob: 0.0004
+Token: 'unch' (ID: 3185), Prob: 0.0004
+Token: 'uality' (ID: 10733), Prob: 0.0004
+Token: 'atas' (ID: 19346), Prob: 0.0004
+Token: 'arden' (ID: 8341), Prob: 0.0004
+Token: 'uff' (ID: 1362), Prob: 0.0003
+Token: 'eltas' (ID: 71906), Prob: 0.0003
+Token: '.O' (ID: 8382), Prob: 0.0003
+Token: 'ashing' (ID: 19049), Prob: 0.0003
+Token: 'iner' (ID: 10453), Prob: 0.0003
+Token: 'early' (ID: 22140), Prob: 0.0003
+Token: 'istinguished' (ID: 79282), Prob: 0.0003
+Token: 'oppel' (ID: 66522), Prob: 0.0003
+Token: 'ode' (ID: 534), Prob: 0.0003
 
 == Ranked Concepts (Clusters) ==
-Rank 1 | Centroid: ' went' | Score: 0.8594
-  Tokens: [' going', ' went', ' gone', ' goes', ' Went', ' Going', ' gonna', '.go', 'went']
-Rank 2 | Centroid: '_wrong' | Score: 0.0045
-  Tokens: [' wrong', ' messed', ' worse', ' bad', '_wrong', ' mis', 'wrong', ' mistaken']
-Rank 3 | Centroid: ' happening' | Score: 0.0010
-  Tokens: [' happening', ' happened', ' occurring']
-Rank 4 | Centroid: ' failed' | Score: 0.0002
-  Tokens: [' failed', ' fell']
-Rank 5 | Centroid: ' failing' | Score: 0.0002
-  Tokens: [' falling', ' failing', ' struggling', ' slipping']
-Rank 6 | Centroid: ' getting' | Score: 0.0001
-  Tokens: [' getting', ' causing', ' taking', ' making', ' becoming']
-Rank 7 | Centroid: ' working' | Score: 0.0000
-  Tokens: [' working', ' worked']
-Rank 8 | Centroid: ' problems' | Score: 0.0000
-  Tokens: [' problems', ' things', ' uns', '/problems']
-Rank 9 | Centroid: ' changed' | Score: 0.0000
-  Tokens: [' turning', ' turned', ' changing', ' changed']
-Rank 10 | Centroid: ' missed' | Score: 0.0000
-  Tokens: [' missing', ' lost', ' broken', ' missed', ' forgotten']
-Rank 11 | Centroid: ' got' | Score: 0.0000
-  Tokens: [' got', ' made']
-Rank 12 | Centroid: ' done' | Score: 0.0000
-  Tokens: [' done', ' taken']
-Rank 13 | Centroid: ' trying' | Score: 0.0000
-  Tokens: [' trying', ' tried', ' might']
-Rank 14 | Centroid: ' flying' | Score: 0.0000
-  Tokens: [' running', ' moving', ' flying']
-Rank 15 | Centroid: ' started' | Score: 0.0000
-  Tokens: [' ending', ' ended', ' starting', ' started']
-Rank 16 | Centroid: ' malfunction' | Score: 0.0000
-  Tokens: [' malfunction', ' mish', ' worsening']
-Rank 17 | Centroid: ' messing' | Score: 0.0000
-  Tokens: [' messing', '_that']
-Rank 18 | Centroid: ' coming' | Score: 0.0000
-  Tokens: [' coming', ' staying']
+Rank 1 | Centroid: 'row' | Score: 0.3652
+  Tokens: ['rowning', 'rows', 'rowned', 'row', 'rown']
+Rank 2 | Centroid: 'iver' | Score: 0.1680
+  Tokens: ['iving', 'iver', 'ivers']
+Rank 3 | Centroid: 'ancer' | Score: 0.1006
+  Tokens: ['ancer', 'ancers', 'ance', 'ancing', 'ances']
+Rank 4 | Centroid: 'ying' | Score: 0.0962
+  Tokens: ['ying', 'yer', 'rying', 'ye']
+Rank 5 | Centroid: 'ug' | Score: 0.0649
+  Tokens: ['umb', 'ull', 'ung', 'uch', 'ug', 'us', 'uff']
+Rank 6 | Centroid: 'ocks' | Score: 0.0393
+  Tokens: ['ocks', 'ocket']
+Rank 7 | Centroid: 'rones' | Score: 0.0236
+  Tokens: ['rones', 'rovers']
+Rank 8 | Centroid: 'inosaur' | Score: 0.0190
+  Tokens: ['istant', 'estruct', 'ialect', 'inosaur', 'orian', 'oodle', 'istinguished', 'oppel']
+Rank 9 | Centroid: '.R' | Score: 0.0171
+  Tokens: ['ile', 'ign', 'erv', 'ach', 'init', '.R', 'ail', 'RA', 'ern', '.O']
+Rank 10 | Centroid: 'une' | Score: 0.0139
+  Tokens: ['unci', 'unes', 'unning', 'une', 'unch']
+Rank 11 | Centroid: 'itt' | Score: 0.0128
+  Tokens: ['itch', 'azz', 'itty', 'itt']
+Rank 12 | Centroid: 'iggers' | Score: 0.0122
+  Tokens: ['ukes', 'angers', 'ippers', 'iggers', 'igits', 'eltas']
+Rank 13 | Centroid: 'rought' | Score: 0.0103
+  Tokens: ['rought', 'uality', 'atas']
+Rank 14 | Centroid: 'ard' | Score: 0.0072
+  Tokens: ['arn', 'aring', 'ard', 'arden', 'ashing']
+Rank 15 | Centroid: 'andy' | Score: 0.0045
+  Tokens: ['andy', 'andel', 'anton']
+Rank 16 | Centroid: 'ole' | Score: 0.0043
+  Tokens: ['omic', 'ole', 'oy', 'ool', 'ode']
+Rank 17 | Centroid: 'ov' | Score: 0.0040
+  Tokens: ['oves', 'ower', 'ov']
+Rank 18 | Centroid: 'rear' | Score: 0.0038
+  Tokens: ['rench', 'rear', 'regs', 'ruk']
+Rank 19 | Centroid: 'early' | Score: 0.0037
+  Tokens: ['ams', 'arts', 'early']
+Rank 20 | Centroid: 'erry' | Score: 0.0020
+  Tokens: ['erry', 'rey']
+Rank 21 | Centroid: 'usk' | Score: 0.0019
+  Tokens: ['usk', 'uster']
+Rank 22 | Centroid: 'uplic' | Score: 0.0015
+  Tokens: ['uplic', 'iffer']
+Rank 23 | Centroid: 'aven' | Score: 0.0014
+  Tokens: ['aven', 'orn']
+Rank 24 | Centroid: 'idi' | Score: 0.0005
+  Tokens: ['idi']
+Rank 25 | Centroid: 'ais' | Score: 0.0005
+  Tokens: ['ais']
+Rank 26 | Centroid: 'iner' | Score: 0.0003
+  Tokens: ['iner']
 
 **Chosen Concept:** Rank 1

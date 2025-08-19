@@ -1,153 +1,105 @@
 --- Step 99 Log ---
 
 == Filtered Candidates ==
-Token: ' leave' (ID: 5274), Prob: 0.1289
-Token: ' move' (ID: 3271), Prob: 0.0693
-Token: ' grow' (ID: 3063), Prob: 0.0540
-Token: ' begin' (ID: 3161), Prob: 0.0540
-Token: ' meet' (ID: 3367), Prob: 0.0476
-Token: ' return' (ID: 470), Prob: 0.0288
-Token: ' take' (ID: 1896), Prob: 0.0288
-Token: ' become' (ID: 3635), Prob: 0.0288
-Token: ' share' (ID: 4332), Prob: 0.0225
-Token: ' decide' (ID: 10279), Prob: 0.0211
-Token: ' live' (ID: 3887), Prob: 0.0175
-Token: ' end' (ID: 835), Prob: 0.0120
-Token: ' part' (ID: 949), Prob: 0.0120
-Token: ' create' (ID: 1855), Prob: 0.0120
-Token: ' continue' (ID: 3060), Prob: 0.0120
-Token: ' find' (ID: 1477), Prob: 0.0113
-Token: ' start' (ID: 1191), Prob: 0.0099
-Token: ' form' (ID: 1352), Prob: 0.0099
-Token: ' make' (ID: 1281), Prob: 0.0093
-Token: ' choose' (ID: 5157), Prob: 0.0073
-Token: ' face' (ID: 3579), Prob: 0.0069
-Token: ' come' (ID: 2525), Prob: 0.0064
-Token: ' eventually' (ID: 9583), Prob: 0.0064
-Token: ' depart' (ID: 11515), Prob: 0.0064
-Token: ' learn' (ID: 3960), Prob: 0.0060
-Token: ' realize' (ID: 13083), Prob: 0.0060
-Token: ' finally' (ID: 5499), Prob: 0.0053
-Token: ' develop' (ID: 2225), Prob: 0.0047
-Token: ' must' (ID: 1969), Prob: 0.0044
-Token: ' reflect' (ID: 8708), Prob: 0.0042
-Token: ' resolve' (ID: 8830), Prob: 0.0042
-Token: ' travel' (ID: 5821), Prob: 0.0039
-Token: ' reach' (ID: 5545), Prob: 0.0037
-Token: ' spend' (ID: 8329), Prob: 0.0037
-Token: ' express' (ID: 3158), Prob: 0.0032
-Token: ' enter' (ID: 3725), Prob: 0.0032
-Token: ' escape' (ID: 12449), Prob: 0.0032
-Token: ' complete' (ID: 4583), Prob: 0.0030
-Token: ' separate' (ID: 8651), Prob: 0.0030
-Token: ' give' (ID: 2968), Prob: 0.0029
-Token: ' stay' (ID: 4717), Prob: 0.0029
-Token: ' transition' (ID: 9142), Prob: 0.0029
-Token: ' engage' (ID: 16579), Prob: 0.0029
-Token: ' finish' (ID: 6248), Prob: 0.0027
-Token: ' agree' (ID: 7503), Prob: 0.0027
-Token: ' fall' (ID: 4399), Prob: 0.0025
-Token: ' build' (ID: 1936), Prob: 0.0022
-Token: ' maintain' (ID: 10306), Prob: 0.0022
-Token: ' work' (ID: 975), Prob: 0.0021
-Token: ' perform' (ID: 2736), Prob: 0.0021
-Token: ' walk' (ID: 4227), Prob: 0.0021
-Token: ' prepare' (ID: 10549), Prob: 0.0021
-Token: ' conclude' (ID: 31094), Prob: 0.0021
-Token: ' experience' (ID: 3139), Prob: 0.0020
-Token: ' lose' (ID: 9052), Prob: 0.0020
-Token: ' embrace' (ID: 26732), Prob: 0.0018
-Token: ' explore' (ID: 13186), Prob: 0.0017
-Token: ' confront' (ID: 16877), Prob: 0.0017
-Token: ' support' (ID: 1824), Prob: 0.0016
-Token: ' plan' (ID: 3119), Prob: 0.0016
-Token: ' discover' (ID: 6997), Prob: 0.0016
-Token: ' remain' (ID: 7146), Prob: 0.0016
-Token: ' achieve' (ID: 11075), Prob: 0.0016
-Token: ' overcome' (ID: 22279), Prob: 0.0016
-Token: ' change' (ID: 2297), Prob: 0.0015
-Token: ' lead' (ID: 2990), Prob: 0.0015
-Token: ' reconcile' (ID: 63408), Prob: 0.0015
-Token: ' get' (ID: 633), Prob: 0.0014
-Token: ' exchange' (ID: 9289), Prob: 0.0014
-Token: ' ultimately' (ID: 13653), Prob: 0.0014
-Token: ' reun' (ID: 34640), Prob: 0.0014
-Token: ' embark' (ID: 69431), Prob: 0.0014
-Token: ' try' (ID: 1430), Prob: 0.0014
-Token: ' break' (ID: 1438), Prob: 0.0014
-Token: ' show' (ID: 1473), Prob: 0.0014
-Token: ' feel' (ID: 2666), Prob: 0.0014
-Token: ' interact' (ID: 16282), Prob: 0.0013
-Token: ' evolve' (ID: 37580), Prob: 0.0013
-Token: ' see' (ID: 1490), Prob: 0.0012
-Token: ' tell' (ID: 3291), Prob: 0.0012
-Token: ' receive' (ID: 5258), Prob: 0.0012
-Token: ' cross' (ID: 5312), Prob: 0.0012
-Token: ' abandon' (ID: 15313), Prob: 0.0012
-Token: ' celebrate' (ID: 18383), Prob: 0.0012
-Token: ' unite' (ID: 51596), Prob: 0.0012
-Token: ' set' (ID: 738), Prob: 0.0011
-Token: ' communicate' (ID: 19032), Prob: 0.0011
-Token: ' fulfill' (ID: 20423), Prob: 0.0009
-Token: ' keep' (ID: 2506), Prob: 0.0009
-Token: ' stop' (ID: 2936), Prob: 0.0009
+Token: ' appeared' (ID: 9723), Prob: 1.0000
+Token: 'appeared' (ID: 98467), Prob: 0.0000
+Token: ' appear' (ID: 4994), Prob: 0.0000
+Token: ' played' (ID: 6342), Prob: 0.0000
+Token: ' appears' (ID: 7952), Prob: 0.0000
+Token: ' been' (ID: 1012), Prob: 0.0000
+Token: ' acted' (ID: 30432), Prob: 0.0000
+Token: ' starred' (ID: 58235), Prob: 0.0000
+Token: ' featured' (ID: 14766), Prob: 0.0000
+Token: ' worked' (ID: 6439), Prob: 0.0000
+Token: ' appearing' (ID: 25377), Prob: 0.0000
+Token: ' performed' (ID: 10660), Prob: 0.0000
+Token: ' participated' (ID: 30308), Prob: 0.0000
+Token: ' in' (ID: 304), Prob: 0.0000
+Token: ' served' (ID: 10223), Prob: 0.0000
+Token: ' appearance' (ID: 11094), Prob: 0.0000
+Token: ' represented' (ID: 15251), Prob: 0.0000
+Token: ' apare' (ID: 55170), Prob: 0.0000
+Token: ' also' (ID: 1083), Prob: 0.0000
+Token: ' made' (ID: 1865), Prob: 0.0000
+Token: ' produced' (ID: 8947), Prob: 0.0000
+Token: ' continued' (ID: 8570), Prob: 0.0000
+Token: ' remained' (ID: 14616), Prob: 0.0000
+Token: ' portrayed' (ID: 44777), Prob: 0.0000
+Token: ' appare' (ID: 96162), Prob: 0.0000
+Token: ' prepared' (ID: 10030), Prob: 0.0000
+Token: ' seen' (ID: 3884), Prob: 0.0000
+Token: ' apparently' (ID: 13812), Prob: 0.0000
+Token: ' returned' (ID: 5927), Prob: 0.0000
+Token: ' a' (ID: 264), Prob: 0.0000
+Token: ' presented' (ID: 10449), Prob: 0.0000
+Token: ' contributed' (ID: 19590), Prob: 0.0000
+Token: ' aired' (ID: 41987), Prob: 0.0000
+Token: ' appearances' (ID: 26255), Prob: 0.0000
+Token: ' collaborated' (ID: 77074), Prob: 0.0000
+Token: ' emerged' (ID: 21992), Prob: 0.0000
+Token: ' occurred' (ID: 10017), Prob: 0.0000
+Token: ' re' (ID: 312), Prob: 0.0000
+Token: ' previously' (ID: 8597), Prob: 0.0000
+Token: ' joined' (ID: 10859), Prob: 0.0000
+Token: 'Appe' (ID: 84363), Prob: 0.0000
+Token: ' had' (ID: 1030), Prob: 0.0000
+Token: ' added' (ID: 3694), Prob: 0.0000
+Token: ' considered' (ID: 6509), Prob: 0.0000
+Token: ' referred' (ID: 13862), Prob: 0.0000
+Token: ' formed' (ID: 14122), Prob: 0.0000
+Token: ' once' (ID: 3055), Prob: 0.0000
+Token: ' provided' (ID: 3897), Prob: 0.0000
+Token: ' entered' (ID: 10636), Prob: 0.0000
+Token: ' attended' (ID: 18178), Prob: 0.0000
+Token: ' stared' (ID: 44035), Prob: 0.0000
+Token: ' accepted' (ID: 11666), Prob: 0.0000
+Token: ' disappeared' (ID: 28396), Prob: 0.0000
+Token: ' written' (ID: 5326), Prob: 0.0000
+Token: ' preceded' (ID: 52480), Prob: 0.0000
+Token: ' and' (ID: 323), Prob: 0.0000
+Token: ' Appe' (ID: 28054), Prob: 0.0000
+Token: ' received' (ID: 3949), Prob: 0.0000
+Token: ' taught' (ID: 15599), Prob: 0.0000
+Token: ' began' (ID: 6009), Prob: 0.0000
+Token: ' photographed' (ID: 56203), Prob: 0.0000
+Token: ' arrived' (ID: 11465), Prob: 0.0000
 
 == Ranked Concepts (Clusters) ==
-Rank 1 | Centroid: ' travel' | Score: 0.1680
-  Tokens: [' leave', ' return', ' travel', ' escape', ' walk', ' break']
-Rank 2 | Centroid: ' start' | Score: 0.0796
-  Tokens: [' begin', ' end', ' start', ' finish', ' stop']
-Rank 3 | Centroid: ' change' | Score: 0.0737
-  Tokens: [' move', ' transition', ' change']
-Rank 4 | Centroid: ' evolve' | Score: 0.0598
-  Tokens: [' grow', ' develop', ' evolve']
-Rank 5 | Centroid: ' meet' | Score: 0.0518
-  Tokens: [' meet', ' reflect']
-Rank 6 | Centroid: ' give' | Score: 0.0396
-  Tokens: [' create', ' find', ' make', ' give', ' get', ' show', ' tell']
-Rank 7 | Centroid: ' become' | Score: 0.0352
-  Tokens: [' become', ' come']
-Rank 8 | Centroid: ' take' | Score: 0.0327
-  Tokens: [' take', ' try', ' feel', ' see']
-Rank 9 | Centroid: ' decide' | Score: 0.0305
-  Tokens: [' decide', ' choose', ' conclude']
-Rank 10 | Centroid: ' lead' | Score: 0.0289
-  Tokens: [' live', ' form', ' lead']
-Rank 11 | Centroid: ' exchange' | Score: 0.0259
-  Tokens: [' share', ' experience', ' exchange']
-Rank 12 | Centroid: ' separate' | Score: 0.0214
-  Tokens: [' part', ' complete', ' separate', ' support', ' plan']
-Rank 13 | Centroid: ' keep' | Score: 0.0197
-  Tokens: [' continue', ' stay', ' maintain', ' remain', ' keep']
-Rank 14 | Centroid: ' ultimately' | Score: 0.0132
-  Tokens: [' eventually', ' finally', ' ultimately']
-Rank 15 | Centroid: ' achieve' | Score: 0.0115
-  Tokens: [' realize', ' agree', ' achieve', ' celebrate']
-Rank 16 | Centroid: ' embrace' | Score: 0.0109
-  Tokens: [' depart', ' embrace', ' embark', ' abandon']
-Rank 17 | Centroid: ' lose' | Score: 0.0096
-  Tokens: [' spend', ' engage', ' lose', ' receive']
-Rank 18 | Centroid: ' discover' | Score: 0.0094
-  Tokens: [' learn', ' explore', ' discover']
-Rank 19 | Centroid: ' fulfill' | Score: 0.0092
-  Tokens: [' resolve', ' reconcile', ' reun', ' unite', ' fulfill']
-Rank 20 | Centroid: ' must' | Score: 0.0089
-  Tokens: [' must', ' work', ' cross', ' set']
-Rank 21 | Centroid: ' face' | Score: 0.0086
-  Tokens: [' face', ' confront']
-Rank 22 | Centroid: ' reach' | Score: 0.0062
-  Tokens: [' reach', ' fall']
-Rank 23 | Centroid: ' perform' | Score: 0.0042
-  Tokens: [' perform', ' prepare']
-Rank 24 | Centroid: ' enter' | Score: 0.0032
-  Tokens: [' enter']
-Rank 25 | Centroid: ' express' | Score: 0.0032
-  Tokens: [' express']
-Rank 26 | Centroid: ' interact' | Score: 0.0024
-  Tokens: [' interact', ' communicate']
-Rank 27 | Centroid: ' build' | Score: 0.0022
-  Tokens: [' build']
-Rank 28 | Centroid: ' overcome' | Score: 0.0016
-  Tokens: [' overcome']
+Rank 1 | Centroid: ' appear' | Score: 1.0000
+  Tokens: [' appeared', 'appeared', ' appear', ' appears', ' appearing', ' appearance', ' apare', ' appearances']
+Rank 2 | Centroid: ' served' | Score: 0.0000
+  Tokens: [' played', ' acted', ' worked', ' served']
+Rank 3 | Centroid: ' been' | Score: 0.0000
+  Tokens: [' been', ' had']
+Rank 4 | Centroid: ' stared' | Score: 0.0000
+  Tokens: [' starred', ' featured', ' stared']
+Rank 5 | Centroid: ' produced' | Score: 0.0000
+  Tokens: [' performed', ' made', ' produced', ' prepared', ' contributed', ' formed']
+Rank 6 | Centroid: ' in' | Score: 0.0000
+  Tokens: [' in', ' also', ' a', ' re', ' and']
+Rank 7 | Centroid: ' participated' | Score: 0.0000
+  Tokens: [' participated', ' collaborated', ' joined', ' attended']
+Rank 8 | Centroid: ' presented' | Score: 0.0000
+  Tokens: [' represented', ' portrayed', ' presented', ' provided', ' taught']
+Rank 9 | Centroid: ' emerged' | Score: 0.0000
+  Tokens: [' remained', ' emerged', ' occurred', ' disappeared', ' began', ' arrived']
+Rank 10 | Centroid: ' continued' | Score: 0.0000
+  Tokens: [' continued', ' added']
+Rank 11 | Centroid: ' appare' | Score: 0.0000
+  Tokens: [' appare', ' apparently']
+Rank 12 | Centroid: ' considered' | Score: 0.0000
+  Tokens: [' seen', ' considered', ' referred', ' written']
+Rank 13 | Centroid: ' received' | Score: 0.0000
+  Tokens: [' returned', ' entered', ' accepted', ' received']
+Rank 14 | Centroid: ' previously' | Score: 0.0000
+  Tokens: [' previously', ' once']
+Rank 15 | Centroid: 'Appe' | Score: 0.0000
+  Tokens: ['Appe', ' Appe']
+Rank 16 | Centroid: ' aired' | Score: 0.0000
+  Tokens: [' aired']
+Rank 17 | Centroid: ' preceded' | Score: 0.0000
+  Tokens: [' preceded']
+Rank 18 | Centroid: ' photographed' | Score: 0.0000
+  Tokens: [' photographed']
 
 **Chosen Concept:** Rank 1

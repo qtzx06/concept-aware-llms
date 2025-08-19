@@ -1,151 +1,139 @@
 --- Step 83 Log ---
 
 == Filtered Candidates ==
-Token: ' family' (ID: 2997), Prob: 0.8320
-Token: ' trip' (ID: 8411), Prob: 0.1279
-Token: ' setup' (ID: 6505), Prob: 0.0105
-Token: ' journey' (ID: 11618), Prob: 0.0049
-Token: ' setting' (ID: 6243), Prob: 0.0039
-Token: ' departure' (ID: 24915), Prob: 0.0021
-Token: ' families' (ID: 8521), Prob: 0.0013
-Token: ' group' (ID: 1874), Prob: 0.0011
-Token: ' main' (ID: 1887), Prob: 0.0011
-Token: ' road' (ID: 5636), Prob: 0.0010
-Token: ' parents' (ID: 6562), Prob: 0.0010
-Token: ' arrival' (ID: 18647), Prob: 0.0009
-Token: ' kids' (ID: 6837), Prob: 0.0007
-Token: ' preparation' (ID: 17975), Prob: 0.0007
-Token: ' context' (ID: 2266), Prob: 0.0006
-Token: ' travel' (ID: 5821), Prob: 0.0006
-Token: ' scenario' (ID: 15048), Prob: 0.0005
-Token: ' destination' (ID: 9106), Prob: 0.0005
-Token: ' situation' (ID: 6534), Prob: 0.0003
-Token: ' route' (ID: 6021), Prob: 0.0003
-Token: ' story' (ID: 3364), Prob: 0.0002
-Token: ' event' (ID: 1538), Prob: 0.0002
-Token: ' plan' (ID: 3119), Prob: 0.0002
-Token: ' day' (ID: 1899), Prob: 0.0002
-Token: ' siblings' (ID: 36683), Prob: 0.0002
-Token: ' big' (ID: 2409), Prob: 0.0001
-Token: ' initial' (ID: 2856), Prob: 0.0001
-Token: ' beginning' (ID: 7167), Prob: 0.0001
-Token: ' adventure' (ID: 17943), Prob: 0.0001
-Token: ' background' (ID: 4004), Prob: 0.0001
-Token: ' couple' (ID: 5625), Prob: 0.0001
-Token: ' start' (ID: 1191), Prob: 0.0001
-Token: ' activity' (ID: 5702), Prob: 0.0001
-Token: ' time' (ID: 882), Prob: 0.0001
-Token: ' famil' (ID: 43426), Prob: 0.0001
-Token: ' general' (ID: 4586), Prob: 0.0001
-Token: ' purpose' (ID: 7428), Prob: 0.0001
-Token: ' planning' (ID: 9115), Prob: 0.0001
-Token: ' preparations' (ID: 46879), Prob: 0.0001
-Token: ' car' (ID: 1803), Prob: 0.0001
-Token: ' reason' (ID: 2874), Prob: 0.0001
-Token: ' grandparents' (ID: 55335), Prob: 0.0001
-Token: ' experience' (ID: 3139), Prob: 0.0001
-Token: ' details' (ID: 3565), Prob: 0.0001
-Token: ' gathering' (ID: 22888), Prob: 0.0001
-Token: ' children' (ID: 2841), Prob: 0.0001
-Token: ' anticipation' (ID: 49819), Prob: 0.0001
-Token: ' home' (ID: 2114), Prob: 0.0001
-Token: ' location' (ID: 3728), Prob: 0.0001
-Token: ' name' (ID: 829), Prob: 0.0001
-Token: ' scene' (ID: 6109), Prob: 0.0001
-Token: ' narrative' (ID: 19221), Prob: 0.0001
-Token: ' description' (ID: 4008), Prob: 0.0001
-Token: ' usual' (ID: 13475), Prob: 0.0001
-Token: ' routine' (ID: 14021), Prob: 0.0001
-Token: ' decision' (ID: 5480), Prob: 0.0001
-Token: ' origin' (ID: 6238), Prob: 0.0000
-Token: ' action' (ID: 1917), Prob: 0.0000
-Token: ' environment' (ID: 4573), Prob: 0.0000
-Token: ' holiday' (ID: 13257), Prob: 0.0000
-Token: ' outing' (ID: 64181), Prob: 0.0000
-Token: ' drive' (ID: 6541), Prob: 0.0000
-Token: ' act' (ID: 1160), Prob: 0.0000
-Token: ' date' (ID: 2400), Prob: 0.0000
-Token: ' driving' (ID: 9842), Prob: 0.0000
-Token: ' typical' (ID: 14260), Prob: 0.0000
-Token: ' vacation' (ID: 20161), Prob: 0.0000
-Token: ' morning' (ID: 6556), Prob: 0.0000
-Token: ' parent' (ID: 2681), Prob: 0.0000
-Token: ' premise' (ID: 40202), Prob: 0.0000
-Token: ' mom' (ID: 3368), Prob: 0.0000
-Token: ' daily' (ID: 7298), Prob: 0.0000
-Token: ' driver' (ID: 5579), Prob: 0.0000
-Token: ' summary' (ID: 12126), Prob: 0.0000
-Token: ' topic' (ID: 8544), Prob: 0.0000
-Token: ' theme' (ID: 6912), Prob: 0.0000
-Token: ' weather' (ID: 9104), Prob: 0.0000
-Token: ' starting' (ID: 5916), Prob: 0.0000
-Token: ' planned' (ID: 12909), Prob: 0.0000
-Token: ' timeframe' (ID: 69953), Prob: 0.0000
-Token: ' grand' (ID: 6662), Prob: 0.0000
-Token: ' overall' (ID: 8084), Prob: 0.0000
-Token: ' household' (ID: 13732), Prob: 0.0000
-Token: ' expedition' (ID: 50164), Prob: 0.0000
-Token: ' meeting' (ID: 6438), Prob: 0.0000
-Token: ' celebration' (ID: 24916), Prob: 0.0000
-Token: ' set' (ID: 738), Prob: 0.0000
-Token: ' first' (ID: 1156), Prob: 0.0000
-Token: ' idea' (ID: 4522), Prob: 0.0000
-Token: ' father' (ID: 6981), Prob: 0.0000
-Token: ' arrangement' (ID: 26112), Prob: 0.0000
-Token: ' call' (ID: 1618), Prob: 0.0000
-Token: ' three' (ID: 2326), Prob: 0.0000
-Token: ' days' (ID: 2849), Prob: 0.0000
-Token: ' visit' (ID: 3947), Prob: 0.0000
-Token: ' intention' (ID: 14602), Prob: 0.0000
-Token: ' timing' (ID: 18405), Prob: 0.0000
-Token: ' return' (ID: 470), Prob: 0.0000
-Token: ' two' (ID: 1378), Prob: 0.0000
-Token: ' company' (ID: 2813), Prob: 0.0000
+Token: ' D' (ID: 422), Prob: 0.3359
+Token: ' Last' (ID: 7996), Prob: 0.0108
+Token: ' W' (ID: 467), Prob: 0.0090
+Token: ' L' (ID: 444), Prob: 0.0079
+Token: ' Sun' (ID: 8059), Prob: 0.0062
+Token: ' T' (ID: 350), Prob: 0.0058
+Token: ' Un' (ID: 1230), Prob: 0.0054
+Token: ' S' (ID: 328), Prob: 0.0051
+Token: ' B' (ID: 425), Prob: 0.0048
+Token: ' Moon' (ID: 17330), Prob: 0.0048
+Token: ' Other' (ID: 6944), Prob: 0.0045
+Token: ' F' (ID: 434), Prob: 0.0042
+Token: ' H' (ID: 472), Prob: 0.0042
+Token: ' Man' (ID: 2363), Prob: 0.0040
+Token: ' Death' (ID: 15911), Prob: 0.0040
+Token: ' M' (ID: 386), Prob: 0.0035
+Token: ' R' (ID: 431), Prob: 0.0035
+Token: ' Children' (ID: 15044), Prob: 0.0035
+Token: ' C' (ID: 356), Prob: 0.0031
+Token: ' G' (ID: 479), Prob: 0.0031
+Token: ' Second' (ID: 10440), Prob: 0.0031
+Token: ' Hollow' (ID: 48693), Prob: 0.0031
+Token: ' Re' (ID: 1032), Prob: 0.0029
+Token: ' P' (ID: 393), Prob: 0.0027
+Token: ' Black' (ID: 5235), Prob: 0.0027
+Token: ' Water' (ID: 9959), Prob: 0.0027
+Token: ' Cruc' (ID: 75004), Prob: 0.0027
+Token: ' World' (ID: 4337), Prob: 0.0026
+Token: ' House' (ID: 4678), Prob: 0.0026
+Token: ' River' (ID: 10948), Prob: 0.0026
+Token: ' Red' (ID: 3731), Prob: 0.0024
+Token: ' Woman' (ID: 24511), Prob: 0.0024
+Token: ' St' (ID: 794), Prob: 0.0023
+Token: ' Young' (ID: 13263), Prob: 0.0023
+Token: ' Winter' (ID: 20101), Prob: 0.0023
+Token: ' First' (ID: 5512), Prob: 0.0021
+Token: ' Weight' (ID: 16516), Prob: 0.0021
+Token: ' Dream' (ID: 17829), Prob: 0.0021
+Token: ' In' (ID: 758), Prob: 0.0020
+Token: ' Ch' (ID: 910), Prob: 0.0020
+Token: ' Tr' (ID: 1163), Prob: 0.0020
+Token: ' Dis' (ID: 4093), Prob: 0.0020
+Token: ' Play' (ID: 7054), Prob: 0.0020
+Token: ' Sh' (ID: 1417), Prob: 0.0019
+Token: ' Under' (ID: 9449), Prob: 0.0019
+Token: ' Empty' (ID: 22228), Prob: 0.0019
+Token: ' Waiting' (ID: 52186), Prob: 0.0019
+Token: ' Burning' (ID: 54692), Prob: 0.0019
+Token: ' Elephant' (ID: 78089), Prob: 0.0019
+Token: ' End' (ID: 3972), Prob: 0.0018
+Token: ' White' (ID: 5807), Prob: 0.0018
+Token: ' Great' (ID: 8513), Prob: 0.0018
+Token: ' Love' (ID: 10689), Prob: 0.0018
+Token: ' Lost' (ID: 27252), Prob: 0.0018
+Token: ' Dancing' (ID: 69529), Prob: 0.0018
+Token: ' Long' (ID: 5724), Prob: 0.0017
+Token: ' Night' (ID: 12826), Prob: 0.0017
+Token: ' Little' (ID: 14671), Prob: 0.0017
+Token: ' Rain' (ID: 21911), Prob: 0.0017
+Token: ' Devil' (ID: 39201), Prob: 0.0017
+Token: ' Rising' (ID: 48887), Prob: 0.0017
+Token: ' Green' (ID: 7840), Prob: 0.0016
+Token: ' Secret' (ID: 8599), Prob: 0.0016
+Token: ' Dog' (ID: 14254), Prob: 0.0016
+Token: ' Fall' (ID: 14785), Prob: 0.0016
+Token: ' Living' (ID: 18539), Prob: 0.0016
+Token: ' O' (ID: 506), Prob: 0.0015
+Token: ' New' (ID: 1532), Prob: 0.0015
+Token: ' Sea' (ID: 15029), Prob: 0.0015
+Token: ' Third' (ID: 20861), Prob: 0.0015
+Token: ' V' (ID: 647), Prob: 0.0014
+Token: ' Cr' (ID: 4553), Prob: 0.0014
+Token: ' Happy' (ID: 23355), Prob: 0.0014
+Token: ' J' (ID: 619), Prob: 0.0013
+Token: ' Th' (ID: 663), Prob: 0.0013
+Token: ' Boy' (ID: 16180), Prob: 0.0013
+Token: ' Birth' (ID: 35027), Prob: 0.0013
+Token: ' Good' (ID: 7684), Prob: 0.0012
+Token: ' Ghost' (ID: 25044), Prob: 0.0012
+Token: ' Al' (ID: 1674), Prob: 0.0011
+Token: ' King' (ID: 6210), Prob: 0.0011
+Token: ' Lady' (ID: 20621), Prob: 0.0011
+Token: ' Lion' (ID: 32099), Prob: 0.0011
+Token: ' N' (ID: 451), Prob: 0.0011
+Token: ' U' (ID: 547), Prob: 0.0011
+Token: ' Fire' (ID: 6647), Prob: 0.0011
+Token: ' London' (ID: 7148), Prob: 0.0011
+Token: ' Blue' (ID: 8697), Prob: 0.0011
+Token: ' Two' (ID: 9043), Prob: 0.0011
+Token: ' Way' (ID: 12149), Prob: 0.0011
+Token: ' Country' (ID: 14106), Prob: 0.0011
+Token: ' Stone' (ID: 14302), Prob: 0.0011
+Token: ' Glass' (ID: 20734), Prob: 0.0011
+Token: ' Birthday' (ID: 36240), Prob: 0.0011
+Token: ' Arrival' (ID: 92098), Prob: 0.0011
+Token: ' Car' (ID: 3261), Prob: 0.0010
 
 == Ranked Concepts (Clusters) ==
-Rank 1 | Centroid: ' family' | Score: 0.8320
-  Tokens: [' family', ' families', ' couple', ' famil', ' home', ' household', ' company']
-Rank 2 | Centroid: ' adventure' | Score: 0.1367
-  Tokens: [' trip', ' journey', ' departure', ' arrival', ' travel', ' adventure', ' experience', ' holiday', ' outing', ' vacation', ' expedition', ' celebration', ' visit']
-Rank 3 | Centroid: ' setup' | Score: 0.0144
-  Tokens: [' setup', ' setting', ' arrangement']
-Rank 4 | Centroid: ' scenario' | Score: 0.0021
-  Tokens: [' context', ' scenario', ' situation', ' story', ' background', ' scene', ' narrative', ' description', ' environment']
-Rank 5 | Centroid: ' parents' | Score: 0.0021
-  Tokens: [' parents', ' kids', ' siblings', ' grandparents', ' children', ' parent', ' mom', ' father']
-Rank 6 | Centroid: ' two' | Score: 0.0013
-  Tokens: [' main', ' big', ' first', ' three', ' two']
-Rank 7 | Centroid: ' road' | Score: 0.0013
-  Tokens: [' road', ' route']
-Rank 8 | Centroid: ' planning' | Score: 0.0012
-  Tokens: [' preparation', ' plan', ' planning', ' preparations', ' anticipation', ' planned']
-Rank 9 | Centroid: ' set' | Score: 0.0012
-  Tokens: [' group', ' set', ' call', ' return']
-Rank 10 | Centroid: ' purpose' | Score: 0.0007
-  Tokens: [' destination', ' purpose', ' reason', ' intention']
-Rank 11 | Centroid: ' starting' | Score: 0.0005
-  Tokens: [' initial', ' beginning', ' start', ' origin', ' starting']
-Rank 12 | Centroid: ' activity' | Score: 0.0004
-  Tokens: [' event', ' activity', ' action', ' act']
-Rank 13 | Centroid: ' day' | Score: 0.0004
-  Tokens: [' day', ' time', ' date', ' morning', ' daily', ' weather', ' days']
-Rank 14 | Centroid: ' typical' | Score: 0.0004
-  Tokens: [' general', ' details', ' usual', ' routine', ' typical', ' summary', ' overall']
-Rank 15 | Centroid: ' driving' | Score: 0.0002
-  Tokens: [' car', ' drive', ' driving', ' driver']
-Rank 16 | Centroid: ' topic' | Score: 0.0001
-  Tokens: [' location', ' topic', ' theme']
-Rank 17 | Centroid: ' gathering' | Score: 0.0001
-  Tokens: [' gathering', ' meeting']
-Rank 18 | Centroid: ' name' | Score: 0.0001
-  Tokens: [' name']
-Rank 19 | Centroid: ' decision' | Score: 0.0001
-  Tokens: [' decision', ' idea']
-Rank 20 | Centroid: ' timeframe' | Score: 0.0000
-  Tokens: [' timeframe', ' timing']
-Rank 21 | Centroid: ' premise' | Score: 0.0000
-  Tokens: [' premise']
-Rank 22 | Centroid: ' grand' | Score: 0.0000
-  Tokens: [' grand']
+Rank 1 | Centroid: ' D' | Score: 0.4004
+  Tokens: [' D', ' W', ' L', ' T', ' S', ' B', ' F', ' H', ' M', ' R', ' C', ' G', ' P', ' In', ' O', ' V', ' J', ' N', ' U']
+Rank 2 | Centroid: ' Ch' | Score: 0.0233
+  Tokens: [' Un', ' Re', ' St', ' Ch', ' Tr', ' Dis', ' Sh', ' Cr', ' Th', ' Al', ' Car']
+Rank 3 | Centroid: ' Second' | Score: 0.0231
+  Tokens: [' Last', ' Other', ' Second', ' First', ' Third', ' Two']
+Rank 4 | Centroid: ' Moon' | Score: 0.0177
+  Tokens: [' Sun', ' Moon', ' Water', ' River', ' Sea']
+Rank 5 | Centroid: ' Birth' | Score: 0.0149
+  Tokens: [' Death', ' Children', ' Weight', ' Waiting', ' Birth', ' Birthday', ' Arrival']
+Rank 6 | Centroid: ' Good' | Score: 0.0128
+  Tokens: [' Young', ' Great', ' Love', ' Long', ' Little', ' Happy', ' Good', ' London']
+Rank 7 | Centroid: ' Blue' | Score: 0.0117
+  Tokens: [' Black', ' Red', ' White', ' Green', ' Blue', ' Stone', ' Glass']
+Rank 8 | Centroid: ' Woman' | Score: 0.0097
+  Tokens: [' Man', ' Woman', ' King', ' Lady', ' Way']
+Rank 9 | Centroid: ' Dog' | Score: 0.0096
+  Tokens: [' Dream', ' Elephant', ' Devil', ' Dog', ' Ghost', ' Lion']
+Rank 10 | Centroid: ' Dancing' | Score: 0.0086
+  Tokens: [' Burning', ' Lost', ' Dancing', ' Rising', ' Living']
+Rank 11 | Centroid: ' Winter' | Score: 0.0071
+  Tokens: [' Winter', ' Night', ' Rain', ' Fall']
+Rank 12 | Centroid: ' Empty' | Score: 0.0065
+  Tokens: [' Hollow', ' Empty', ' Secret']
+Rank 13 | Centroid: ' Country' | Score: 0.0062
+  Tokens: [' World', ' House', ' Country']
+Rank 14 | Centroid: ' Cruc' | Score: 0.0047
+  Tokens: [' Cruc', ' Play']
+Rank 15 | Centroid: ' Under' | Score: 0.0036
+  Tokens: [' Under', ' End']
+Rank 16 | Centroid: ' New' | Score: 0.0015
+  Tokens: [' New']
+Rank 17 | Centroid: ' Boy' | Score: 0.0013
+  Tokens: [' Boy']
+Rank 18 | Centroid: ' Fire' | Score: 0.0011
+  Tokens: [' Fire']
 
 **Chosen Concept:** Rank 1

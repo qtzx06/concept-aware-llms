@@ -1,91 +1,140 @@
 --- Step 7 Log ---
 
 == Filtered Candidates ==
-Token: ' First' (ID: 5512), Prob: 0.0001
-Token: ' User' (ID: 2657), Prob: 0.0000
-Token: ' Need' (ID: 14656), Prob: 0.0000
-Token: ' Start' (ID: 5145), Prob: 0.0000
-Token: ' Starting' (ID: 27657), Prob: 0.0000
-Token: ' Hmm' (ID: 88190), Prob: 0.0000
-Token: ' Users' (ID: 14627), Prob: 0.0000
-Token: ' Original' (ID: 17230), Prob: 0.0000
-Token: ' Maybe' (ID: 10696), Prob: 0.0000
-Token: ' Someone' (ID: 34172), Prob: 0.0000
-Token: ' Alright' (ID: 97593), Prob: 0.0000
-Token: ' Person' (ID: 7357), Prob: 0.0000
-Token: ' Customer' (ID: 12277), Prob: 0.0000
-Token: ' Four' (ID: 13322), Prob: 0.0000
-Token: ' Students' (ID: 20173), Prob: 0.0000
-Token: ' Needs' (ID: 43140), Prob: 0.0000
-Token: ' Prompt' (ID: 59501), Prob: 0.0000
-Token: ' People' (ID: 8853), Prob: 0.0000
-Token: ' John' (ID: 3757), Prob: 0.0000
-Token: ' Main' (ID: 4697), Prob: 0.0000
-Token: ' Mom' (ID: 22180), Prob: 0.0000
-Token: ' New' (ID: 1532), Prob: 0.0000
-Token: ' Mrs' (ID: 17618), Prob: 0.0000
-Token: ' Parent' (ID: 17022), Prob: 0.0000
-Token: ' Parents' (ID: 42926), Prob: 0.0000
-Token: ' Let' (ID: 6771), Prob: 0.0000
-Token: ' Grandma' (ID: 97968), Prob: 0.0000
-Token: ' Student' (ID: 11726), Prob: 0.0000
-Token: ' Young' (ID: 13263), Prob: 0.0000
-Token: ' Time' (ID: 4120), Prob: 0.0000
-Token: ' Well' (ID: 8325), Prob: 0.0000
-Token: ' Master' (ID: 10824), Prob: 0.0000
-Token: ' Today' (ID: 11201), Prob: 0.0000
-Token: ' Mother' (ID: 21043), Prob: 0.0000
-Token: ' Since' (ID: 8704), Prob: 0.0000
-Token: ' Please' (ID: 5209), Prob: 0.0000
-Token: ' Make' (ID: 7405), Prob: 0.0000
-Token: ' Wait' (ID: 13824), Prob: 0.0000
-Token: ' Amy' (ID: 28693), Prob: 0.0000
-Token: ' Create' (ID: 4230), Prob: 0.0000
-Token: ' Short' (ID: 10698), Prob: 0.0000
-Token: ' Customers' (ID: 39589), Prob: 0.0000
-Token: ' Write' (ID: 9645), Prob: 0.0000
-Token: ' Owner' (ID: 25833), Prob: 0.0000
-Token: ' Task' (ID: 5430), Prob: 0.0000
-Token: ' Sam' (ID: 8224), Prob: 0.0000
-Token: ' Got' (ID: 24528), Prob: 0.0000
-Token: ' need' (ID: 1184), Prob: 0.0000
-Token: ' Another' (ID: 13293), Prob: 0.0000
-Token: ' Okay' (ID: 35439), Prob: 0.0000
-Token: ' Get' (ID: 2126), Prob: 0.0000
-Token: ' Far' (ID: 13452), Prob: 0.0000
+Token: ' series' (ID: 4013), Prob: 0.8750
+Token: ' drama' (ID: 19584), Prob: 0.0635
+Token: ' film' (ID: 4531), Prob: 0.0076
+Token: ' min' (ID: 1308), Prob: 0.0046
+Token: ' episode' (ID: 9234), Prob: 0.0046
+Token: ' dramas' (ID: 87726), Prob: 0.0046
+Token: ' production' (ID: 5670), Prob: 0.0041
+Token: ' mini' (ID: 13420), Prob: 0.0036
+Token: ' adaptation' (ID: 33085), Prob: 0.0036
+Token: ' episodes' (ID: 17770), Prob: 0.0032
+Token: ' movie' (ID: 5700), Prob: 0.0028
+Token: ' show' (ID: 1473), Prob: 0.0025
+Token: ' serial' (ID: 6146), Prob: 0.0025
+Token: ' comedy' (ID: 22358), Prob: 0.0019
+Token: ' and' (ID: 323), Prob: 0.0012
+Token: ' films' (ID: 12351), Prob: 0.0012
+Token: ' productions' (ID: 53148), Prob: 0.0010
+Token: ' play' (ID: 1486), Prob: 0.0009
+Token: ' crime' (ID: 9778), Prob: 0.0009
+Token: ' programme' (ID: 18136), Prob: 0.0008
+Token: ' version' (ID: 2319), Prob: 0.0006
+Token: ' adaptations' (ID: 76665), Prob: 0.0005
+Token: ' sitcom' (ID: 80366), Prob: 0.0005
+Token: ' plays' (ID: 11088), Prob: 0.0005
+Token: ' dram' (ID: 13548), Prob: 0.0004
+Token: ' soap' (ID: 26785), Prob: 0.0004
+Token: ' documentary' (ID: 24954), Prob: 0.0003
+Token: ' programmes' (ID: 37637), Prob: 0.0003
+Token: ' shows' (ID: 4933), Prob: 0.0003
+Token: ' thriller' (ID: 53361), Prob: 0.0003
+Token: ' program' (ID: 2025), Prob: 0.0002
+Token: ' movies' (ID: 9508), Prob: 0.0002
+Token: ' role' (ID: 3476), Prob: 0.0002
+Token: ' pilot' (ID: 17708), Prob: 0.0001
+Token: ' anthology' (ID: 83008), Prob: 0.0001
+Token: ' programs' (ID: 7468), Prob: 0.0001
+Token: ' versions' (ID: 10795), Prob: 0.0001
+Token: ' documentaries' (ID: 87366), Prob: 0.0001
+Token: ' special' (ID: 3281), Prob: 0.0001
+Token: ' roles' (ID: 12783), Prob: 0.0001
+Token: ' broadcast' (ID: 12899), Prob: 0.0001
+Token: ' western' (ID: 18494), Prob: 0.0001
+Token: ' feature' (ID: 4565), Prob: 0.0001
+Token: ' medical' (ID: 6457), Prob: 0.0000
+Token: ' variety' (ID: 8045), Prob: 0.0000
+Token: ' detective' (ID: 44159), Prob: 0.0000
+Token: ' science' (ID: 8038), Prob: 0.0000
+Token: ' fantasy' (ID: 18378), Prob: 0.0000
+Token: ' courtroom' (ID: 58120), Prob: 0.0000
+Token: ' season' (ID: 3200), Prob: 0.0000
+Token: ' screen' (ID: 4171), Prob: 0.0000
+Token: ' Western' (ID: 10867), Prob: 0.0000
+Token: ' fiction' (ID: 16989), Prob: 0.0000
+Token: ' action' (ID: 1917), Prob: 0.0000
+Token: ' spin' (ID: 12616), Prob: 0.0000
+Token: ' serie' (ID: 32878), Prob: 0.0000
+Token: ' advertisements' (ID: 42649), Prob: 0.0000
+Token: ' doc' (ID: 4629), Prob: 0.0000
+Token: ' hit' (ID: 4201), Prob: 0.0000
+Token: ' appearances' (ID: 26255), Prob: 0.0000
+Token: ' short' (ID: 2805), Prob: 0.0000
+Token: ' police' (ID: 4282), Prob: 0.0000
+Token: ' remake' (ID: 58055), Prob: 0.0000
+Token: ' ad' (ID: 993), Prob: 0.0000
+Token: ' work' (ID: 975), Prob: 0.0000
+Token: ' stage' (ID: 6430), Prob: 0.0000
+Token: ' commercial' (ID: 8353), Prob: 0.0000
+Token: ' revival' (ID: 56005), Prob: 0.0000
+Token: ' dr' (ID: 1353), Prob: 0.0000
+Token: ' screens' (ID: 15310), Prob: 0.0000
+Token: ' premiere' (ID: 34852), Prob: 0.0000
+Token: ' specials' (ID: 59774), Prob: 0.0000
+Token: ' horror' (ID: 21452), Prob: 0.0000
+Token: ' produced' (ID: 8947), Prob: 0.0000
+Token: ' Christmas' (ID: 10074), Prob: 0.0000
+Token: ' mystery' (ID: 22531), Prob: 0.0000
+Token: ' television' (ID: 12425), Prob: 0.0000
+Token: ' spy' (ID: 21236), Prob: 0.0000
+Token: ' sequel' (ID: 34761), Prob: 0.0000
+Token: ' Series' (ID: 11131), Prob: 0.0000
+Token: ' adapted' (ID: 29364), Prob: 0.0000
+Token: ' advertisement' (ID: 32689), Prob: 0.0000
+Token: ' Drama' (ID: 46469), Prob: 0.0000
+Token: ' rights' (ID: 3188), Prob: 0.0000
+Token: ' appearance' (ID: 11094), Prob: 0.0000
+Token: ' novel' (ID: 11514), Prob: 0.0000
+Token: ' tie' (ID: 18131), Prob: 0.0000
+Token: '-series' (ID: 56332), Prob: 0.0000
+Token: ' commercials' (ID: 62495), Prob: 0.0000
 
 == Ranked Concepts (Clusters) ==
-Rank 1 | Centroid: ' First' | Score: 0.0001
-  Tokens: [' First', ' Original', ' Four', ' New', ' Time', ' Short']
-Rank 2 | Centroid: ' User' | Score: 0.0000
-  Tokens: [' User', ' Users', ' Owner']
-Rank 3 | Centroid: ' Need' | Score: 0.0000
-  Tokens: [' Need', ' Needs', ' need']
-Rank 4 | Centroid: ' Start' | Score: 0.0000
-  Tokens: [' Start', ' Starting']
-Rank 5 | Centroid: ' Okay' | Score: 0.0000
-  Tokens: [' Hmm', ' Alright', ' Well', ' Okay']
-Rank 6 | Centroid: ' People' | Score: 0.0000
-  Tokens: [' Someone', ' Person', ' People']
-Rank 7 | Centroid: ' Since' | Score: 0.0000
-  Tokens: [' Maybe', ' Today', ' Since', ' Please', ' Another']
-Rank 8 | Centroid: ' Parent' | Score: 0.0000
-  Tokens: [' Mom', ' Parent', ' Parents', ' Mother']
-Rank 9 | Centroid: ' Create' | Score: 0.0000
-  Tokens: [' Let', ' Make', ' Wait', ' Create', ' Write', ' Get']
-Rank 10 | Centroid: ' Student' | Score: 0.0000
-  Tokens: [' Students', ' Student', ' Young']
-Rank 11 | Centroid: ' Sam' | Score: 0.0000
-  Tokens: [' John', ' Amy', ' Sam', ' Far']
-Rank 12 | Centroid: ' Customer' | Score: 0.0000
-  Tokens: [' Customer', ' Customers']
-Rank 13 | Centroid: ' Main' | Score: 0.0000
-  Tokens: [' Main', ' Master']
-Rank 14 | Centroid: ' Prompt' | Score: 0.0000
-  Tokens: [' Prompt', ' Task']
-Rank 15 | Centroid: ' Mrs' | Score: 0.0000
-  Tokens: [' Mrs', ' Grandma']
-Rank 16 | Centroid: ' Got' | Score: 0.0000
-  Tokens: [' Got']
+Rank 1 | Centroid: ' series' | Score: 0.8789
+  Tokens: [' series', ' serial', ' serie', ' Series', '-series']
+Rank 2 | Centroid: ' drama' | Score: 0.0703
+  Tokens: [' drama', ' dramas', ' comedy', ' dram', ' Drama']
+Rank 3 | Centroid: ' movie' | Score: 0.0127
+  Tokens: [' film', ' movie', ' films', ' sitcom', ' documentary', ' movies', ' documentaries', ' television']
+Rank 4 | Centroid: ' medical' | Score: 0.0085
+  Tokens: [' min', ' mini', ' special', ' medical', ' science', ' spin', ' doc', ' short', ' dr', ' tie']
+Rank 5 | Centroid: ' episode' | Score: 0.0078
+  Tokens: [' episode', ' episodes', ' season']
+Rank 6 | Centroid: ' production' | Score: 0.0051
+  Tokens: [' production', ' productions', ' produced']
+Rank 7 | Centroid: ' adaptation' | Score: 0.0042
+  Tokens: [' adaptation', ' adaptations', ' ad', ' adapted']
+Rank 8 | Centroid: ' shows' | Score: 0.0041
+  Tokens: [' show', ' and', ' shows', ' feature', ' action', ' hit', ' work', ' stage']
+Rank 9 | Centroid: ' plays' | Score: 0.0016
+  Tokens: [' play', ' plays', ' role', ' roles']
+Rank 10 | Centroid: ' programme' | Score: 0.0014
+  Tokens: [' programme', ' programmes', ' program', ' programs']
+Rank 11 | Centroid: ' thriller' | Score: 0.0014
+  Tokens: [' crime', ' thriller', ' detective', ' fantasy', ' courtroom', ' fiction', ' horror', ' mystery', ' spy']
+Rank 12 | Centroid: ' version' | Score: 0.0007
+  Tokens: [' version', ' versions']
+Rank 13 | Centroid: ' soap' | Score: 0.0004
+  Tokens: [' soap']
+Rank 14 | Centroid: ' remake' | Score: 0.0002
+  Tokens: [' anthology', ' remake', ' revival', ' premiere', ' sequel']
+Rank 15 | Centroid: ' western' | Score: 0.0002
+  Tokens: [' western', ' Western', ' police', ' commercial', ' Christmas']
+Rank 16 | Centroid: ' screen' | Score: 0.0002
+  Tokens: [' pilot', ' screen', ' screens']
+Rank 17 | Centroid: ' advertisements' | Score: 0.0001
+  Tokens: [' broadcast', ' advertisements', ' advertisement', ' commercials']
+Rank 18 | Centroid: ' variety' | Score: 0.0000
+  Tokens: [' variety']
+Rank 19 | Centroid: ' appearances' | Score: 0.0000
+  Tokens: [' appearances', ' appearance']
+Rank 20 | Centroid: ' specials' | Score: 0.0000
+  Tokens: [' specials']
+Rank 21 | Centroid: ' rights' | Score: 0.0000
+  Tokens: [' rights']
+Rank 22 | Centroid: ' novel' | Score: 0.0000
+  Tokens: [' novel']
 
 **Chosen Concept:** Rank 1

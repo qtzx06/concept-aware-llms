@@ -1,155 +1,149 @@
 --- Step 14 Log ---
 
 == Filtered Candidates ==
-Token: ' text' (ID: 1467), Prob: 0.6797
-Token: ' suggestion' (ID: 23776), Prob: 0.2832
-Token: ' suggestions' (ID: 18225), Prob: 0.0160
-Token: ' prompt' (ID: 9934), Prob: 0.0075
-Token: ' input' (ID: 1946), Prob: 0.0019
-Token: ' idea' (ID: 4522), Prob: 0.0008
-Token: ' suggest' (ID: 4190), Prob: 0.0008
-Token: ' instruction' (ID: 7600), Prob: 0.0007
-Token: ' sentence' (ID: 11652), Prob: 0.0006
-Token: ' information' (ID: 1995), Prob: 0.0006
-Token: ' sample' (ID: 6077), Prob: 0.0005
-Token: ' passage' (ID: 21085), Prob: 0.0005
-Token: ' example' (ID: 3110), Prob: 0.0005
-Token: ' advice' (ID: 9462), Prob: 0.0005
-Token: ' inspiration' (ID: 19760), Prob: 0.0004
-Token: ' content' (ID: 2213), Prob: 0.0004
-Token: ' recommendation' (ID: 27682), Prob: 0.0003
-Token: ' suggested' (ID: 11827), Prob: 0.0003
-Token: ' scenario' (ID: 15048), Prob: 0.0003
-Token: ' instructions' (ID: 11221), Prob: 0.0002
-Token: ' hint' (ID: 13012), Prob: 0.0002
-Token: ' summary' (ID: 12126), Prob: 0.0002
-Token: ' description' (ID: 4008), Prob: 0.0002
-Token: ' selection' (ID: 6589), Prob: 0.0001
-Token: ' paragraph' (ID: 14311), Prob: 0.0001
-Token: ' message' (ID: 1943), Prob: 0.0001
-Token: ' details' (ID: 3565), Prob: 0.0001
-Token: ' context' (ID: 2266), Prob: 0.0001
-Token: ' response' (ID: 2033), Prob: 0.0001
-Token: ' line' (ID: 1555), Prob: 0.0001
-Token: ' scene' (ID: 6109), Prob: 0.0001
-Token: ' script' (ID: 5316), Prob: 0.0001
-Token: ' guidance' (ID: 18821), Prob: 0.0001
-Token: ' texts' (ID: 21984), Prob: 0.0001
-Token: ' narrative' (ID: 19221), Prob: 0.0001
-Token: ' draft' (ID: 9960), Prob: 0.0001
-Token: ' suggesting' (ID: 22561), Prob: 0.0001
-Token: ' template' (ID: 3811), Prob: 0.0001
-Token: ' phrase' (ID: 17133), Prob: 0.0001
-Token: ' invitation' (ID: 28688), Prob: 0.0001
-Token: ' prompts' (ID: 50932), Prob: 0.0001
-Token: ' sug' (ID: 30605), Prob: 0.0001
-Token: ' snippet' (ID: 43065), Prob: 0.0001
-Token: ' textual' (ID: 62533), Prob: 0.0001
-Token: ' story' (ID: 3364), Prob: 0.0001
-Token: ' statement' (ID: 5114), Prob: 0.0001
-Token: ' outline' (ID: 21101), Prob: 0.0001
-Token: ' skeleton' (ID: 29435), Prob: 0.0000
-Token: ' source' (ID: 2530), Prob: 0.0000
-Token: ' article' (ID: 4549), Prob: 0.0000
-Token: ' data' (ID: 821), Prob: 0.0000
-Token: ' request' (ID: 1681), Prob: 0.0000
-Token: ' thought' (ID: 3381), Prob: 0.0000
-Token: ' lines' (ID: 5128), Prob: 0.0000
-Token: ' user' (ID: 1196), Prob: 0.0000
-Token: ' simulation' (ID: 19038), Prob: 0.0000
-Token: ' material' (ID: 3684), Prob: 0.0000
-Token: ' premise' (ID: 40202), Prob: 0.0000
-Token: ' news' (ID: 3669), Prob: 0.0000
-Token: ' piece' (ID: 6573), Prob: 0.0000
-Token: ' direction' (ID: 5106), Prob: 0.0000
-Token: ' choice' (ID: 5754), Prob: 0.0000
-Token: ' setting' (ID: 6243), Prob: 0.0000
-Token: ' excerpt' (ID: 49465), Prob: 0.0000
-Token: ' suggests' (ID: 13230), Prob: 0.0000
-Token: ' sentiment' (ID: 25975), Prob: 0.0000
-Token: ' options' (ID: 2606), Prob: 0.0000
-Token: ' query' (ID: 3239), Prob: 0.0000
-Token: ' task' (ID: 3383), Prob: 0.0000
-Token: ' wish' (ID: 6426), Prob: 0.0000
-Token: ' directions' (ID: 17961), Prob: 0.0000
-Token: ' title' (ID: 2265), Prob: 0.0000
-Token: ' vision' (ID: 11129), Prob: 0.0000
-Token: ' dialogue' (ID: 21276), Prob: 0.0000
-Token: ' elements' (ID: 5424), Prob: 0.0000
-Token: ' theme' (ID: 6912), Prob: 0.0000
-Token: ' combination' (ID: 10601), Prob: 0.0000
-Token: ' verse' (ID: 32387), Prob: 0.0000
-Token: ' concept' (ID: 7286), Prob: 0.0000
-Token: ' list' (ID: 1140), Prob: 0.0000
-Token: ' addition' (ID: 5256), Prob: 0.0000
-Token: ' sentences' (ID: 22870), Prob: 0.0000
-Token: ' ideas' (ID: 6708), Prob: 0.0000
-Token: ' clue' (ID: 29989), Prob: 0.0000
-Token: ' textile' (ID: 65538), Prob: 0.0000
-Token: ' suggestive' (ID: 98478), Prob: 0.0000
-Token: ' set' (ID: 738), Prob: 0.0000
-Token: ' one' (ID: 825), Prob: 0.0000
-Token: 'text' (ID: 1318), Prob: 0.0000
-Token: ' mention' (ID: 6286), Prob: 0.0000
-Token: ' guide' (ID: 8474), Prob: 0.0000
-Token: ' brief' (ID: 9814), Prob: 0.0000
-Token: ' insight' (ID: 20017), Prob: 0.0000
-Token: ' tale' (ID: 23281), Prob: 0.0000
-Token: ' sketch' (ID: 25529), Prob: 0.0000
-Token: ' section' (ID: 3772), Prob: 0.0000
-Token: ' provided' (ID: 3897), Prob: 0.0000
-Token: ' detail' (ID: 7716), Prob: 0.0000
+Token: ' National' (ID: 5055), Prob: 0.6445
+Token: ' Royal' (ID: 16194), Prob: 0.2100
+Token: ' London' (ID: 7148), Prob: 0.0172
+Token: ' Edinburgh' (ID: 40306), Prob: 0.0152
+Token: ' Ly' (ID: 15953), Prob: 0.0134
+Token: ' Play' (ID: 7054), Prob: 0.0081
+Token: ' Round' (ID: 17097), Prob: 0.0049
+Token: ' Bristol' (ID: 43939), Prob: 0.0049
+Token: ' Old' (ID: 10621), Prob: 0.0044
+Token: ' Ch' (ID: 910), Prob: 0.0028
+Token: ' Al' (ID: 1674), Prob: 0.0023
+Token: ' West' (ID: 4312), Prob: 0.0022
+Token: ' Garr' (ID: 94157), Prob: 0.0022
+Token: ' University' (ID: 3822), Prob: 0.0021
+Token: ' British' (ID: 7855), Prob: 0.0019
+Token: ' Ald' (ID: 30347), Prob: 0.0018
+Token: ' B' (ID: 425), Prob: 0.0017
+Token: ' New' (ID: 1532), Prob: 0.0016
+Token: ' Palace' (ID: 30296), Prob: 0.0015
+Token: ' Traverse' (ID: 86733), Prob: 0.0014
+Token: ' Criterion' (ID: 68400), Prob: 0.0012
+Token: ' Queen' (ID: 16259), Prob: 0.0012
+Token: ' St' (ID: 794), Prob: 0.0010
+Token: ' Barb' (ID: 46042), Prob: 0.0010
+Token: ' Rose' (ID: 15964), Prob: 0.0009
+Token: ' Victoria' (ID: 22417), Prob: 0.0009
+Token: ' Imperial' (ID: 29913), Prob: 0.0009
+Token: ' R' (ID: 431), Prob: 0.0009
+Token: ' Oxford' (ID: 25210), Prob: 0.0009
+Token: ' Theatre' (ID: 26221), Prob: 0.0009
+Token: ' Strat' (ID: 52935), Prob: 0.0009
+Token: ' Prince' (ID: 19351), Prob: 0.0008
+Token: ' Wy' (ID: 23222), Prob: 0.0008
+Token: ' Don' (ID: 4320), Prob: 0.0007
+Token: ' Birmingham' (ID: 35837), Prob: 0.0007
+Token: ' Open' (ID: 5264), Prob: 0.0007
+Token: ' G' (ID: 479), Prob: 0.0006
+Token: ' Duke' (ID: 26356), Prob: 0.0006
+Token: ' Hamp' (ID: 28414), Prob: 0.0006
+Token: ' South' (ID: 4882), Prob: 0.0006
+Token: ' Young' (ID: 13263), Prob: 0.0006
+Token: ' Sh' (ID: 1417), Prob: 0.0005
+Token: ' i' (ID: 600), Prob: 0.0005
+Token: ' Manchester' (ID: 19361), Prob: 0.0005
+Token: ' Reg' (ID: 3184), Prob: 0.0004
+Token: ' Ro' (ID: 11830), Prob: 0.0004
+Token: ' Harold' (ID: 52115), Prob: 0.0004
+Token: ' Phoenix' (ID: 22672), Prob: 0.0004
+Token: ' Sav' (ID: 20079), Prob: 0.0004
+Token: ' Cruc' (ID: 75004), Prob: 0.0004
+Token: ' Bel' (ID: 7828), Prob: 0.0003
+Token: ' Paris' (ID: 12095), Prob: 0.0003
+Token: ' BBC' (ID: 18096), Prob: 0.0003
+Token: ' Fr' (ID: 2869), Prob: 0.0003
+Token: ' York' (ID: 4261), Prob: 0.0003
+Token: ' Cambridge' (ID: 23641), Prob: 0.0003
+Token: ' theatre' (ID: 33496), Prob: 0.0003
+Token: ' L' (ID: 444), Prob: 0.0002
+Token: ' end' (ID: 835), Prob: 0.0002
+Token: ' Winter' (ID: 20101), Prob: 0.0002
+Token: ' Globe' (ID: 40810), Prob: 0.0002
+Token: ' Comedy' (ID: 43751), Prob: 0.0002
+Token: ' Gate' (ID: 29243), Prob: 0.0002
+Token: ' Apollo' (ID: 35150), Prob: 0.0002
+Token: ' Bush' (ID: 14079), Prob: 0.0002
+Token: ' Arc' (ID: 19689), Prob: 0.0002
+Token: ' Guild' (ID: 32492), Prob: 0.0002
+Token: ' W' (ID: 467), Prob: 0.0002
+Token: ' Sydney' (ID: 21273), Prob: 0.0002
+Token: ' Shakespeare' (ID: 41382), Prob: 0.0002
+Token: ' Royale' (ID: 86199), Prob: 0.0002
+Token: ' King' (ID: 6210), Prob: 0.0002
+Token: ' Hay' (ID: 17798), Prob: 0.0002
+Token: ' Fol' (ID: 39455), Prob: 0.0002
+Token: ' UK' (ID: 6424), Prob: 0.0002
+Token: ' Men' (ID: 11012), Prob: 0.0002
+Token: ' Duchess' (ID: 94939), Prob: 0.0002
+Token: ' Broad' (ID: 15894), Prob: 0.0002
+Token: ' Stephen' (ID: 18095), Prob: 0.0002
+Token: ' Dominion' (ID: 75421), Prob: 0.0002
+Token: ' T' (ID: 350), Prob: 0.0002
+Token: ' Roy' (ID: 11038), Prob: 0.0002
+Token: ' Arts' (ID: 17520), Prob: 0.0002
+Token: ' Bar' (ID: 4716), Prob: 0.0001
+Token: ' Low' (ID: 12041), Prob: 0.0001
+Token: ' NT' (ID: 17658), Prob: 0.0001
+Token: ' Sad' (ID: 30681), Prob: 0.0001
+Token: ' Jun' (ID: 11782), Prob: 0.0001
+Token: ' Crown' (ID: 28643), Prob: 0.0001
+Token: ' Swan' (ID: 43401), Prob: 0.0001
+Token: ' Wimbledon' (ID: 90157), Prob: 0.0001
+Token: ' N' (ID: 451), Prob: 0.0001
+Token: ' North' (ID: 4787), Prob: 0.0001
+Token: ' Vienna' (ID: 46287), Prob: 0.0001
 
 == Ranked Concepts (Clusters) ==
-Rank 1 | Centroid: ' text' | Score: 0.6797
-  Tokens: [' text', ' texts', ' textual', ' textile', 'text']
-Rank 2 | Centroid: ' suggest' | Score: 0.3008
-  Tokens: [' suggestion', ' suggestions', ' suggest', ' recommendation', ' suggested', ' hint', ' suggesting', ' sug', ' suggests', ' suggestive']
-Rank 3 | Centroid: ' prompts' | Score: 0.0077
-  Tokens: [' prompt', ' invitation', ' prompts']
-Rank 4 | Centroid: ' set' | Score: 0.0021
-  Tokens: [' input', ' source', ' user', ' setting', ' list', ' set', ' one', ' provided']
-Rank 5 | Centroid: ' guidance' | Score: 0.0015
-  Tokens: [' instruction', ' advice', ' instructions', ' guidance', ' guide']
-Rank 6 | Centroid: ' sample' | Score: 0.0011
-  Tokens: [' sample', ' example', ' template', ' simulation']
-Rank 7 | Centroid: ' idea' | Score: 0.0010
-  Tokens: [' idea', ' thought', ' premise', ' vision', ' theme', ' concept', ' ideas']
-Rank 8 | Centroid: ' information' | Score: 0.0010
-  Tokens: [' information', ' content', ' data', ' elements']
-Rank 9 | Centroid: ' sentence' | Score: 0.0010
-  Tokens: [' sentence', ' paragraph', ' phrase', ' statement', ' article', ' verse', ' sentences']
-Rank 10 | Centroid: ' snippet' | Score: 0.0008
-  Tokens: [' passage', ' draft', ' snippet', ' outline', ' skeleton', ' piece', ' excerpt', ' brief', ' sketch']
-Rank 11 | Centroid: ' details' | Score: 0.0005
-  Tokens: [' summary', ' description', ' details', ' detail']
-Rank 12 | Centroid: ' scenario' | Score: 0.0005
-  Tokens: [' scenario', ' context', ' scene']
-Rank 13 | Centroid: ' insight' | Score: 0.0004
-  Tokens: [' inspiration', ' clue', ' insight']
-Rank 14 | Centroid: ' selection' | Score: 0.0002
-  Tokens: [' selection', ' choice', ' options', ' combination', ' addition']
-Rank 15 | Centroid: ' request' | Score: 0.0002
-  Tokens: [' response', ' request', ' query', ' task']
-Rank 16 | Centroid: ' narrative' | Score: 0.0002
-  Tokens: [' narrative', ' story', ' sentiment', ' dialogue', ' tale']
-Rank 17 | Centroid: ' message' | Score: 0.0002
-  Tokens: [' message', ' news']
-Rank 18 | Centroid: ' line' | Score: 0.0001
-  Tokens: [' line', ' lines']
-Rank 19 | Centroid: ' script' | Score: 0.0001
-  Tokens: [' script']
-Rank 20 | Centroid: ' direction' | Score: 0.0000
-  Tokens: [' direction', ' directions']
-Rank 21 | Centroid: ' material' | Score: 0.0000
-  Tokens: [' material']
-Rank 22 | Centroid: ' wish' | Score: 0.0000
-  Tokens: [' wish']
-Rank 23 | Centroid: ' title' | Score: 0.0000
-  Tokens: [' title']
-Rank 24 | Centroid: ' mention' | Score: 0.0000
-  Tokens: [' mention']
-Rank 25 | Centroid: ' section' | Score: 0.0000
-  Tokens: [' section']
+Rank 1 | Centroid: ' North' | Score: 0.6484
+  Tokens: [' National', ' West', ' South', ' NT', ' North']
+Rank 2 | Centroid: ' Queen' | Score: 0.2158
+  Tokens: [' Royal', ' Palace', ' Queen', ' Imperial', ' Prince', ' Duke', ' King', ' Duchess']
+Rank 3 | Centroid: ' London' | Score: 0.0427
+  Tokens: [' London', ' Edinburgh', ' Bristol', ' British', ' Oxford', ' Birmingham', ' Manchester', ' Paris', ' BBC', ' York', ' Cambridge', ' UK']
+Rank 4 | Centroid: ' Wy' | Score: 0.0144
+  Tokens: [' Ly', ' Wy', ' Hay']
+Rank 5 | Centroid: ' New' | Score: 0.0107
+  Tokens: [' Old', ' Al', ' New', ' Don', ' Open', ' Young', ' end', ' Low', ' Jun']
+Rank 6 | Centroid: ' Theatre' | Score: 0.0096
+  Tokens: [' Play', ' Theatre', ' theatre', ' Comedy', ' Arts']
+Rank 7 | Centroid: ' T' | Score: 0.0087
+  Tokens: [' Ch', ' B', ' St', ' R', ' G', ' Sh', ' i', ' L', ' W', ' T', ' N']
+Rank 8 | Centroid: ' Round' | Score: 0.0052
+  Tokens: [' Round', ' Arc']
+Rank 9 | Centroid: ' Traverse' | Score: 0.0043
+  Tokens: [' Traverse', ' Criterion', ' Strat', ' Cruc', ' Globe', ' Broad']
+Rank 10 | Centroid: ' Sad' | Score: 0.0033
+  Tokens: [' Garr', ' Hamp', ' Sav', ' Sad']
+Rank 11 | Centroid: ' University' | Score: 0.0021
+  Tokens: [' University']
+Rank 12 | Centroid: ' Ald' | Score: 0.0018
+  Tokens: [' Ald']
+Rank 13 | Centroid: ' Bar' | Score: 0.0018
+  Tokens: [' Barb', ' Bel', ' Fol', ' Men', ' Bar']
+Rank 14 | Centroid: ' Sydney' | Score: 0.0016
+  Tokens: [' Victoria', ' Phoenix', ' Sydney', ' Vienna']
+Rank 15 | Centroid: ' Ro' | Score: 0.0016
+  Tokens: [' Rose', ' Ro', ' Fr']
+Rank 16 | Centroid: ' Shakespeare' | Score: 0.0008
+  Tokens: [' Harold', ' Shakespeare', ' Stephen']
+Rank 17 | Centroid: ' Guild' | Score: 0.0006
+  Tokens: [' Gate', ' Guild', ' Dominion']
+Rank 18 | Centroid: ' Reg' | Score: 0.0004
+  Tokens: [' Reg']
+Rank 19 | Centroid: ' Winter' | Score: 0.0004
+  Tokens: [' Winter', ' Swan']
+Rank 20 | Centroid: ' Royale' | Score: 0.0004
+  Tokens: [' Royale', ' Roy']
+Rank 21 | Centroid: ' Apollo' | Score: 0.0002
+  Tokens: [' Apollo']
+Rank 22 | Centroid: ' Bush' | Score: 0.0002
+  Tokens: [' Bush']
+Rank 23 | Centroid: ' Crown' | Score: 0.0001
+  Tokens: [' Crown']
+Rank 24 | Centroid: ' Wimbledon' | Score: 0.0001
+  Tokens: [' Wimbledon']
 
 **Chosen Concept:** Rank 1

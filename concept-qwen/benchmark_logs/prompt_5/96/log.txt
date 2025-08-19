@@ -1,158 +1,128 @@
 --- Step 96 Log ---
 
 == Filtered Candidates ==
-Token: ' see' (ID: 1490), Prob: 0.3164
-Token: ' set' (ID: 738), Prob: 0.1318
-Token: ' outline' (ID: 21101), Prob: 0.1025
-Token: ' start' (ID: 1191), Prob: 0.0703
-Token: ' brainstorm' (ID: 86781), Prob: 0.0623
-Token: ' structure' (ID: 5944), Prob: 0.0332
-Token: ' think' (ID: 1744), Prob: 0.0294
-Token: ' say' (ID: 1977), Prob: 0.0294
-Token: ' put' (ID: 2182), Prob: 0.0294
-Token: ' build' (ID: 1936), Prob: 0.0260
-Token: ' pick' (ID: 3735), Prob: 0.0178
-Token: ' make' (ID: 1281), Prob: 0.0139
-Token: ' try' (ID: 1430), Prob: 0.0123
-Token: ' draft' (ID: 9960), Prob: 0.0108
-Token: ' create' (ID: 1855), Prob: 0.0066
-Token: ' plan' (ID: 3119), Prob: 0.0051
-Token: ' decide' (ID: 10279), Prob: 0.0045
-Token: ' add' (ID: 912), Prob: 0.0040
-Token: ' visualize' (ID: 50087), Prob: 0.0040
-Token: ' include' (ID: 2924), Prob: 0.0031
-Token: ' imagine' (ID: 12793), Prob: 0.0031
-Token: ' sketch' (ID: 25529), Prob: 0.0031
-Token: ' use' (ID: 990), Prob: 0.0024
-Token: ' focus' (ID: 5244), Prob: 0.0023
-Token: ' describe' (ID: 7512), Prob: 0.0023
-Token: ' check' (ID: 1779), Prob: 0.0020
-Token: ' plot' (ID: 7089), Prob: 0.0019
-Token: ' get' (ID: 633), Prob: 0.0018
-Token: ' also' (ID: 1083), Prob: 0.0018
-Token: ' develop' (ID: 2225), Prob: 0.0016
-Token: ' break' (ID: 1438), Prob: 0.0015
-Token: ' consider' (ID: 2908), Prob: 0.0015
-Token: ' flesh' (ID: 24955), Prob: 0.0012
-Token: ' mention' (ID: 6286), Prob: 0.0011
-Token: ' choose' (ID: 5157), Prob: 0.0009
-Token: ' establish' (ID: 5695), Prob: 0.0009
-Token: ' begin' (ID: 3161), Prob: 0.0006
-Token: ' assign' (ID: 9793), Prob: 0.0005
-Token: ' person' (ID: 1697), Prob: 0.0005
-Token: ' incorporate' (ID: 32335), Prob: 0.0004
-Token: ' suggest' (ID: 4190), Prob: 0.0004
-Token: ' explore' (ID: 13186), Prob: 0.0004
-Token: ' introduce' (ID: 19131), Prob: 0.0004
-Token: ' take' (ID: 1896), Prob: 0.0003
-Token: ' name' (ID: 829), Prob: 0.0003
-Token: ' write' (ID: 3270), Prob: 0.0003
-Token: ' come' (ID: 2525), Prob: 0.0003
-Token: ' jot' (ID: 92380), Prob: 0.0003
-Token: ' keep' (ID: 2506), Prob: 0.0002
-Token: ' combine' (ID: 15963), Prob: 0.0002
-Token: ' give' (ID: 2968), Prob: 0.0002
-Token: ' lay' (ID: 10962), Prob: 0.0002
-Token: ' open' (ID: 1787), Prob: 0.0002
-Token: ' elaborate' (ID: 35967), Prob: 0.0002
-Token: ' arrange' (ID: 30893), Prob: 0.0002
-Token: ' talk' (ID: 3061), Prob: 0.0002
-Token: ' paint' (ID: 6177), Prob: 0.0002
-Token: ' figure' (ID: 7071), Prob: 0.0002
-Token: ' bring' (ID: 4446), Prob: 0.0001
-Token: ' detail' (ID: 7716), Prob: 0.0001
-Token: ' gather' (ID: 9567), Prob: 0.0001
-Token: ' envision' (ID: 47046), Prob: 0.0001
-Token: ' show' (ID: 1473), Prob: 0.0001
-Token: ' setup' (ID: 6505), Prob: 0.0001
-Token: ' look' (ID: 1401), Prob: 0.0001
-Token: ' craft' (ID: 10770), Prob: 0.0001
-Token: ' form' (ID: 1352), Prob: 0.0001
-Token: ' expand' (ID: 9225), Prob: 0.0001
-Token: ' piece' (ID: 6573), Prob: 0.0001
-Token: ' involve' (ID: 21058), Prob: 0.0001
-Token: ' organize' (ID: 30235), Prob: 0.0001
-Token: ' picture' (ID: 6802), Prob: 0.0001
-Token: ' propose' (ID: 29614), Prob: 0.0001
-Token: ' throw' (ID: 2510), Prob: 0.0001
-Token: ' maybe' (ID: 7196), Prob: 0.0001
-Token: ' construct' (ID: 9245), Prob: 0.0001
-Token: ' place' (ID: 1992), Prob: 0.0001
-Token: ' ask' (ID: 2548), Prob: 0.0001
-Token: ' avoid' (ID: 5648), Prob: 0.0001
-Token: ' summarize' (ID: 62079), Prob: 0.0001
-Token: ' tell' (ID: 3291), Prob: 0.0000
-Token: ' note' (ID: 5185), Prob: 0.0000
-Token: ' assume' (ID: 9658), Prob: 0.0000
-Token: ' frame' (ID: 4034), Prob: 0.0000
-Token: ' map' (ID: 2415), Prob: 0.0000
-Token: ' mix' (ID: 6514), Prob: 0.0000
-Token: ' list' (ID: 1140), Prob: 0.0000
-Token: ' settle' (ID: 24729), Prob: 0.0000
-Token: ' present' (ID: 3042), Prob: 0.0000
-Token: ' zoom' (ID: 15562), Prob: 0.0000
-Token: ' first' (ID: 1156), Prob: 0.0000
-Token: ' ensure' (ID: 5978), Prob: 0.0000
-Token: ' define' (ID: 6979), Prob: 0.0000
-Token: ' aim' (ID: 9213), Prob: 0.0000
-Token: ' stick' (ID: 9214), Prob: 0.0000
+Token: ' BBC' (ID: 18096), Prob: 0.4961
+Token: ' same' (ID: 1852), Prob: 0.2656
+Token: ' series' (ID: 4013), Prob: 0.0762
+Token: ' TV' (ID: 5883), Prob: 0.0359
+Token: ' play' (ID: 1486), Prob: 0.0317
+Token: ' role' (ID: 3476), Prob: 0.0219
+Token: ' show' (ID: 1473), Prob: 0.0193
+Token: ' television' (ID: 12425), Prob: 0.0132
+Token: ' British' (ID: 7855), Prob: 0.0055
+Token: ' UK' (ID: 6424), Prob: 0.0033
+Token: ' film' (ID: 4531), Prob: 0.0014
+Token: ' comedy' (ID: 22358), Prob: 0.0014
+Token: ' sitcom' (ID: 80366), Prob: 0.0011
+Token: ' programme' (ID: 18136), Prob: 0.0008
+Token: ' National' (ID: 5055), Prob: 0.0007
+Token: ' program' (ID: 2025), Prob: 0.0005
+Token: ' episode' (ID: 9234), Prob: 0.0005
+Token: ' ABC' (ID: 19360), Prob: 0.0005
+Token: ' ITV' (ID: 93355), Prob: 0.0005
+Token: ' drama' (ID: 19584), Prob: 0.0005
+Token: ' movie' (ID: 5700), Prob: 0.0004
+Token: ' United' (ID: 3639), Prob: 0.0004
+Token: ' production' (ID: 5670), Prob: 0.0004
+Token: ' Play' (ID: 7054), Prob: 0.0003
+Token: ' radio' (ID: 8887), Prob: 0.0003
+Token: ' third' (ID: 4843), Prob: 0.0002
+Token: ' broadcast' (ID: 12899), Prob: 0.0002
+Token: ' following' (ID: 2701), Prob: 0.0002
+Token: ' similarly' (ID: 29193), Prob: 0.0002
+Token: ' Royal' (ID: 16194), Prob: 0.0002
+Token: ' game' (ID: 1809), Prob: 0.0002
+Token: ' subsequent' (ID: 17420), Prob: 0.0002
+Token: ' first' (ID: 1156), Prob: 0.0002
+Token: ' title' (ID: 2265), Prob: 0.0002
+Token: ' Australian' (ID: 13369), Prob: 0.0002
+Token: ' The' (ID: 576), Prob: 0.0001
+Token: ' political' (ID: 4948), Prob: 0.0001
+Token: ' Television' (ID: 40345), Prob: 0.0001
+Token: 'BBC' (ID: 66755), Prob: 0.0001
+Token: ' character' (ID: 3668), Prob: 0.0001
+Token: ' playing' (ID: 5619), Prob: 0.0001
+Token: ' the' (ID: 279), Prob: 0.0001
+Token: ' West' (ID: 4312), Prob: 0.0001
+Token: ' HBO' (ID: 42878), Prob: 0.0001
+Token: ' bbc' (ID: 90626), Prob: 0.0001
+Token: ' stage' (ID: 6430), Prob: 0.0001
+Token: ' other' (ID: 1008), Prob: 0.0001
+Token: ' later' (ID: 2937), Prob: 0.0001
+Token: ' plays' (ID: 11088), Prob: 0.0001
+Token: ' Role' (ID: 15404), Prob: 0.0001
+Token: ' part' (ID: 949), Prob: 0.0001
+Token: ' US' (ID: 2274), Prob: 0.0001
+Token: ' Same' (ID: 25739), Prob: 0.0001
+Token: ' Show' (ID: 6928), Prob: 0.0001
+Token: ' Radio' (ID: 13484), Prob: 0.0001
+Token: ' fictional' (ID: 43582), Prob: 0.0001
+Token: ' season' (ID: 3200), Prob: 0.0001
+Token: ' T' (ID: 350), Prob: 0.0001
+Token: ' second' (ID: 2086), Prob: 0.0001
+Token: ' similar' (ID: 4428), Prob: 0.0001
+Token: ' tele' (ID: 7963), Prob: 0.0001
+Token: ' Prime' (ID: 12518), Prob: 0.0001
+Token: ' public' (ID: 584), Prob: 0.0001
+Token: ' roles' (ID: 12783), Prob: 0.0001
+Token: ' soap' (ID: 26785), Prob: 0.0001
+Token: ' televised' (ID: 75610), Prob: 0.0001
+Token: ' B' (ID: 425), Prob: 0.0001
+Token: ' U' (ID: 547), Prob: 0.0001
+Token: ' CBS' (ID: 24029), Prob: 0.0001
+Token: ' CBC' (ID: 45512), Prob: 0.0001
+Token: ' PBS' (ID: 59045), Prob: 0.0001
+Token: ' min' (ID: 1308), Prob: 0.0001
+Token: ' London' (ID: 7148), Prob: 0.0001
+Token: ' documentary' (ID: 24954), Prob: 0.0001
+Token: ' theatre' (ID: 33496), Prob: 0.0001
+Token: ' Broadway' (ID: 36676), Prob: 0.0001
+Token: ' televis' (ID: 89965), Prob: 0.0001
+Token: ' then' (ID: 1221), Prob: 0.0000
+Token: ' period' (ID: 4168), Prob: 0.0000
+Token: ' hit' (ID: 4201), Prob: 0.0000
+Token: ' cast' (ID: 6311), Prob: 0.0000
+Token: ' Series' (ID: 11131), Prob: 0.0000
+Token: ' various' (ID: 5257), Prob: 0.0000
+Token: ' national' (ID: 5313), Prob: 0.0000
+Token: ' script' (ID: 5316), Prob: 0.0000
+Token: ' NBC' (ID: 23521), Prob: 0.0000
+Token: ' Scottish' (ID: 26096), Prob: 0.0000
+Token: ' sequel' (ID: 34761), Prob: 0.0000
+Token: ' American' (ID: 3693), Prob: 0.0000
 
 == Ranked Concepts (Clusters) ==
-Rank 1 | Centroid: ' ask' | Score: 0.3457
-  Tokens: [' see', ' say', ' talk', ' ask', ' tell']
-Rank 2 | Centroid: ' set' | Score: 0.1318
-  Tokens: [' set', ' setup']
-Rank 3 | Centroid: ' outline' | Score: 0.1099
-  Tokens: [' outline', ' plan', ' plot', ' name', ' map', ' list']
-Rank 4 | Centroid: ' start' | Score: 0.0708
-  Tokens: [' start', ' begin']
-Rank 5 | Centroid: ' brainstorm' | Score: 0.0659
-  Tokens: [' brainstorm', ' sketch', ' jot', ' paint', ' zoom']
-Rank 6 | Centroid: ' structure' | Score: 0.0332
-  Tokens: [' structure', ' form', ' frame']
-Rank 7 | Centroid: ' build' | Score: 0.0327
-  Tokens: [' build', ' create', ' construct']
-Rank 8 | Centroid: ' consider' | Score: 0.0309
-  Tokens: [' think', ' consider', ' assume']
-Rank 9 | Centroid: ' put' | Score: 0.0300
-  Tokens: [' put', ' person', ' piece', ' place']
-Rank 10 | Centroid: ' get' | Score: 0.0201
-  Tokens: [' make', ' add', ' get', ' take', ' keep']
-Rank 11 | Centroid: ' throw' | Score: 0.0194
-  Tokens: [' pick', ' break', ' throw', ' stick']
-Rank 12 | Centroid: ' check' | Score: 0.0143
-  Tokens: [' try', ' check', ' look']
-Rank 13 | Centroid: ' draft' | Score: 0.0109
-  Tokens: [' draft', ' craft']
-Rank 14 | Centroid: ' envision' | Score: 0.0072
-  Tokens: [' visualize', ' imagine', ' envision']
-Rank 15 | Centroid: ' arrange' | Score: 0.0062
-  Tokens: [' decide', ' choose', ' assign', ' arrange', ' organize']
-Rank 16 | Centroid: ' focus' | Score: 0.0048
-  Tokens: [' use', ' focus', ' mix', ' aim']
-Rank 17 | Centroid: ' incorporate' | Score: 0.0039
-  Tokens: [' include', ' incorporate', ' combine', ' involve', ' avoid', ' ensure']
-Rank 18 | Centroid: ' describe' | Score: 0.0032
-  Tokens: [' describe', ' suggest', ' introduce', ' propose', ' summarize', ' define']
-Rank 19 | Centroid: ' establish' | Score: 0.0027
-  Tokens: [' develop', ' establish', ' gather', ' expand', ' settle']
-Rank 20 | Centroid: ' first' | Score: 0.0022
-  Tokens: [' also', ' lay', ' open', ' present', ' first']
-Rank 21 | Centroid: ' elaborate' | Score: 0.0015
-  Tokens: [' flesh', ' elaborate', ' detail']
-Rank 22 | Centroid: ' mention' | Score: 0.0012
-  Tokens: [' mention', ' note']
-Rank 23 | Centroid: ' come' | Score: 0.0004
-  Tokens: [' come', ' bring']
-Rank 24 | Centroid: ' explore' | Score: 0.0004
-  Tokens: [' explore']
-Rank 25 | Centroid: ' give' | Score: 0.0003
-  Tokens: [' give', ' show']
-Rank 26 | Centroid: ' write' | Score: 0.0003
-  Tokens: [' write']
-Rank 27 | Centroid: ' figure' | Score: 0.0002
-  Tokens: [' figure', ' picture']
-Rank 28 | Centroid: ' maybe' | Score: 0.0001
-  Tokens: [' maybe']
+Rank 1 | Centroid: ' BBC' | Score: 0.4980
+  Tokens: [' BBC', ' ABC', ' ITV', 'BBC', ' HBO', ' bbc', ' CBS', ' CBC', ' PBS', ' NBC']
+Rank 2 | Centroid: ' same' | Score: 0.2656
+  Tokens: [' same', ' similarly', ' Same', ' similar']
+Rank 3 | Centroid: ' series' | Score: 0.0767
+  Tokens: [' series', ' episode', ' season', ' Series']
+Rank 4 | Centroid: ' television' | Score: 0.0496
+  Tokens: [' TV', ' television', ' Television', ' tele', ' televised', ' televis']
+Rank 5 | Centroid: ' play' | Score: 0.0322
+  Tokens: [' play', ' Play', ' playing', ' plays']
+Rank 6 | Centroid: ' role' | Score: 0.0220
+  Tokens: [' role', ' Role', ' roles']
+Rank 7 | Centroid: ' program' | Score: 0.0210
+  Tokens: [' show', ' programme', ' program', ' game', ' Show', ' script']
+Rank 8 | Centroid: ' British' | Score: 0.0107
+  Tokens: [' British', ' UK', ' National', ' United', ' Royal', ' Australian', ' West', ' US', ' Prime', ' London', ' national', ' Scottish', ' American']
+Rank 9 | Centroid: ' movie' | Score: 0.0051
+  Tokens: [' film', ' comedy', ' sitcom', ' drama', ' movie', ' fictional', ' soap', ' documentary', ' theatre', ' Broadway', ' sequel']
+Rank 10 | Centroid: ' second' | Score: 0.0012
+  Tokens: [' third', ' following', ' subsequent', ' first', ' other', ' later', ' second', ' then', ' various']
+Rank 11 | Centroid: ' the' | Score: 0.0007
+  Tokens: [' The', ' the', ' part', ' T', ' public', ' B', ' U', ' min']
+Rank 12 | Centroid: ' production' | Score: 0.0006
+  Tokens: [' production', ' title', ' period', ' cast']
+Rank 13 | Centroid: ' radio' | Score: 0.0006
+  Tokens: [' radio', ' broadcast', ' Radio']
+Rank 14 | Centroid: ' character' | Score: 0.0002
+  Tokens: [' character', ' stage']
+Rank 15 | Centroid: ' political' | Score: 0.0001
+  Tokens: [' political']
+Rank 16 | Centroid: ' hit' | Score: 0.0000
+  Tokens: [' hit']
 
 **Chosen Concept:** Rank 1

@@ -1,154 +1,102 @@
 --- Step 83 Log ---
 
 == Filtered Candidates ==
-Token: ' conversation' (ID: 10435), Prob: 0.7109
-Token: ' casual' (ID: 16334), Prob: 0.0515
-Token: ' friendly' (ID: 11657), Prob: 0.0312
-Token: ' chat' (ID: 6236), Prob: 0.0276
-Token: ' playful' (ID: 56069), Prob: 0.0215
-Token: ' date' (ID: 2400), Prob: 0.0130
-Token: ' relationship' (ID: 5025), Prob: 0.0130
-Token: ' talk' (ID: 3061), Prob: 0.0089
-Token: ' romantic' (ID: 23467), Prob: 0.0070
-Token: ' discussion' (ID: 10219), Prob: 0.0065
-Token: ' funny' (ID: 15173), Prob: 0.0061
-Token: ' meaningful' (ID: 22414), Prob: 0.0058
-Token: ' dialogue' (ID: 21276), Prob: 0.0051
-Token: ' connection' (ID: 3633), Prob: 0.0048
-Token: ' joke' (ID: 21646), Prob: 0.0037
-Token: ' friendship' (ID: 26509), Prob: 0.0037
-Token: ' game' (ID: 1809), Prob: 0.0035
-Token: ' strange' (ID: 14888), Prob: 0.0035
-Token: ' meeting' (ID: 6438), Prob: 0.0031
-Token: ' lively' (ID: 48177), Prob: 0.0024
-Token: ' harmless' (ID: 52897), Prob: 0.0024
-Token: ' humorous' (ID: 69846), Prob: 0.0024
-Token: ' spontaneous' (ID: 53457), Prob: 0.0019
-Token: ' fun' (ID: 2464), Prob: 0.0018
-Token: ' weird' (ID: 16283), Prob: 0.0018
-Token: ' dating' (ID: 4924), Prob: 0.0016
-Token: ' random' (ID: 4194), Prob: 0.0014
-Token: ' new' (ID: 501), Prob: 0.0011
-Token: ' story' (ID: 3364), Prob: 0.0011
-Token: ' laugh' (ID: 12550), Prob: 0.0011
-Token: ' serious' (ID: 6001), Prob: 0.0011
-Token: ' non' (ID: 2477), Prob: 0.0010
-Token: ' ban' (ID: 8943), Prob: 0.0010
-Token: ' quirky' (ID: 67132), Prob: 0.0010
-Token: ' prank' (ID: 75273), Prob: 0.0010
-Token: ' day' (ID: 1899), Prob: 0.0009
-Token: ' mysterious' (ID: 25382), Prob: 0.0009
-Token: ' small' (ID: 2613), Prob: 0.0008
-Token: ' talking' (ID: 7404), Prob: 0.0008
-Token: ' warm' (ID: 8205), Prob: 0.0008
-Token: ' friend' (ID: 4238), Prob: 0.0008
-Token: ' light' (ID: 3100), Prob: 0.0007
-Token: ' flirt' (ID: 52630), Prob: 0.0007
-Token: ' joking' (ID: 57034), Prob: 0.0007
-Token: ' pleasant' (ID: 23795), Prob: 0.0007
-Token: ' rom' (ID: 9882), Prob: 0.0006
-Token: ' misunderstanding' (ID: 69747), Prob: 0.0006
-Token: ' mon' (ID: 1615), Prob: 0.0006
-Token: ' bonding' (ID: 63086), Prob: 0.0006
-Token: ' private' (ID: 869), Prob: 0.0005
-Token: ' long' (ID: 1293), Prob: 0.0005
-Token: ' routine' (ID: 14021), Prob: 0.0005
-Token: ' witty' (ID: 82633), Prob: 0.0004
-Token: ' interaction' (ID: 16230), Prob: 0.0004
-Token: ' genuine' (ID: 22011), Prob: 0.0004
-Token: ' heartfelt' (ID: 83111), Prob: 0.0004
-Token: ' bizarre' (ID: 32188), Prob: 0.0004
-Token: ' seemingly' (ID: 22660), Prob: 0.0004
-Token: ' series' (ID: 4013), Prob: 0.0003
-Token: ' normal' (ID: 4622), Prob: 0.0003
-Token: ' ple' (ID: 7100), Prob: 0.0003
-Token: ' situation' (ID: 6534), Prob: 0.0003
-Token: ' ritual' (ID: 27179), Prob: 0.0003
-Token: ' silly' (ID: 29471), Prob: 0.0003
-Token: ' rapport' (ID: 38374), Prob: 0.0003
-Token: ' nice' (ID: 6419), Prob: 0.0003
-Token: ' quiet' (ID: 11340), Prob: 0.0003
-Token: ' call' (ID: 1618), Prob: 0.0003
-Token: ' good' (ID: 1661), Prob: 0.0003
-Token: ' visit' (ID: 3947), Prob: 0.0003
-Token: ' charming' (ID: 34409), Prob: 0.0003
-Token: ' peculiar' (ID: 43697), Prob: 0.0003
-Token: ' play' (ID: 1486), Prob: 0.0002
-Token: ' communication' (ID: 10535), Prob: 0.0002
-Token: ' surprise' (ID: 12761), Prob: 0.0002
-Token: ' late' (ID: 3309), Prob: 0.0002
-Token: ' surprising' (ID: 14861), Prob: 0.0002
-Token: ' ram' (ID: 17823), Prob: 0.0002
-Token: ' social' (ID: 3590), Prob: 0.0002
-Token: ' daily' (ID: 7298), Prob: 0.0002
-Token: ' coffee' (ID: 10799), Prob: 0.0002
-Token: ' cute' (ID: 18838), Prob: 0.0002
-Token: ' awkward' (ID: 28759), Prob: 0.0002
-Token: ' verbal' (ID: 35770), Prob: 0.0002
-Token: ' texting' (ID: 67994), Prob: 0.0002
-Token: ' mundane' (ID: 68682), Prob: 0.0002
-Token: ' journey' (ID: 11618), Prob: 0.0002
-Token: ' tale' (ID: 23281), Prob: 0.0002
-Token: ' heated' (ID: 31713), Prob: 0.0002
-Token: ' project' (ID: 2390), Prob: 0.0002
-Token: ' cold' (ID: 9255), Prob: 0.0002
-Token: ' problematic' (ID: 34933), Prob: 0.0002
-Token: ' comforting' (ID: 68030), Prob: 0.0002
-Token: ' secret' (ID: 6234), Prob: 0.0002
-Token: ' tea' (ID: 15243), Prob: 0.0002
-Token: ' romance' (ID: 29263), Prob: 0.0002
-Token: ' reluctant' (ID: 42940), Prob: 0.0002
+Token: ' appeared' (ID: 9723), Prob: 1.0000
+Token: ' played' (ID: 6342), Prob: 0.0002
+Token: ' starred' (ID: 58235), Prob: 0.0001
+Token: 'appeared' (ID: 98467), Prob: 0.0001
+Token: ' appears' (ID: 7952), Prob: 0.0001
+Token: ' appear' (ID: 4994), Prob: 0.0000
+Token: ' performed' (ID: 10660), Prob: 0.0000
+Token: ' featured' (ID: 14766), Prob: 0.0000
+Token: ' acted' (ID: 30432), Prob: 0.0000
+Token: ' portrayed' (ID: 44777), Prob: 0.0000
+Token: ' made' (ID: 1865), Prob: 0.0000
+Token: ' represented' (ID: 15251), Prob: 0.0000
+Token: ' participated' (ID: 30308), Prob: 0.0000
+Token: ' began' (ID: 6009), Prob: 0.0000
+Token: ' in' (ID: 304), Prob: 0.0000
+Token: ' had' (ID: 1030), Prob: 0.0000
+Token: ' appearing' (ID: 25377), Prob: 0.0000
+Token: ' continued' (ID: 8570), Prob: 0.0000
+Token: ' produced' (ID: 8947), Prob: 0.0000
+Token: ' did' (ID: 1521), Prob: 0.0000
+Token: ' took' (ID: 3867), Prob: 0.0000
+Token: ' was' (ID: 572), Prob: 0.0000
+Token: ' became' (ID: 6116), Prob: 0.0000
+Token: ' presented' (ID: 10449), Prob: 0.0000
+Token: ' appearance' (ID: 11094), Prob: 0.0000
+Token: ' worked' (ID: 6439), Prob: 0.0000
+Token: ' served' (ID: 10223), Prob: 0.0000
+Token: ' re' (ID: 312), Prob: 0.0000
+Token: ' joined' (ID: 10859), Prob: 0.0000
+Token: ' added' (ID: 3694), Prob: 0.0000
+Token: ' remained' (ID: 14616), Prob: 0.0000
+Token: ' formed' (ID: 14122), Prob: 0.0000
+Token: ' premiered' (ID: 84070), Prob: 0.0000
+Token: ' returned' (ID: 5927), Prob: 0.0000
+Token: ' also' (ID: 1083), Prob: 0.0000
+Token: ' came' (ID: 3697), Prob: 0.0000
+Token: ' aired' (ID: 41987), Prob: 0.0000
+Token: ' wrote' (ID: 6139), Prob: 0.0000
+Token: ' stared' (ID: 44035), Prob: 0.0000
+Token: ' repr' (ID: 30636), Prob: 0.0000
+Token: ' emerged' (ID: 21992), Prob: 0.0000
+Token: ' showed' (ID: 8542), Prob: 0.0000
+Token: ' co' (ID: 1062), Prob: 0.0000
+Token: ' apare' (ID: 55170), Prob: 0.0000
+Token: ' started' (ID: 3855), Prob: 0.0000
+Token: ' prepared' (ID: 10030), Prob: 0.0000
+Token: ' contributed' (ID: 19590), Prob: 0.0000
+Token: ' later' (ID: 2937), Prob: 0.0000
+Token: ' and' (ID: 323), Prob: 0.0000
+Token: ' as' (ID: 438), Prob: 0.0000
+Token: ' provided' (ID: 3897), Prob: 0.0000
+Token: ' entered' (ID: 10636), Prob: 0.0000
+Token: ' created' (ID: 3465), Prob: 0.0000
+Token: ' occurred' (ID: 10017), Prob: 0.0000
+Token: ' a' (ID: 264), Prob: 0.0000
+Token: ' saw' (ID: 5485), Prob: 0.0000
+Token: ' turned' (ID: 6519), Prob: 0.0000
+Token: ' star' (ID: 6774), Prob: 0.0000
+Token: ' found' (ID: 1730), Prob: 0.0000
+Token: ' once' (ID: 3055), Prob: 0.0000
+Token: ' gave' (ID: 6551), Prob: 0.0000
+Token: ' repeated' (ID: 11504), Prob: 0.0000
+Token: ' directed' (ID: 15540), Prob: 0.0000
 
 == Ranked Concepts (Clusters) ==
-Rank 1 | Centroid: ' conversation' | Score: 0.7617
-  Tokens: [' conversation', ' chat', ' talk', ' discussion', ' dialogue', ' talking']
-Rank 2 | Centroid: ' casual' | Score: 0.0537
-  Tokens: [' casual', ' spontaneous', ' verbal']
-Rank 3 | Centroid: ' nice' | Score: 0.0317
-  Tokens: [' friendly', ' nice', ' good']
-Rank 4 | Centroid: ' humorous' | Score: 0.0309
-  Tokens: [' playful', ' joke', ' humorous', ' laugh', ' prank', ' joking', ' witty']
-Rank 5 | Centroid: ' connection' | Score: 0.0225
-  Tokens: [' relationship', ' connection', ' meeting', ' bonding', ' interaction', ' rapport', ' communication']
-Rank 6 | Centroid: ' date' | Score: 0.0157
-  Tokens: [' date', ' dating', ' day', ' daily']
-Rank 7 | Centroid: ' weird' | Score: 0.0146
-  Tokens: [' funny', ' strange', ' weird', ' quirky', ' mysterious', ' bizarre', ' silly', ' peculiar', ' surprising', ' awkward']
-Rank 8 | Centroid: ' genuine' | Score: 0.0110
-  Tokens: [' meaningful', ' lively', ' harmless', ' genuine']
-Rank 9 | Centroid: ' romantic' | Score: 0.0083
-  Tokens: [' romantic', ' rom', ' ple', ' ram', ' romance']
-Rank 10 | Centroid: ' game' | Score: 0.0055
-  Tokens: [' game', ' fun', ' play']
-Rank 11 | Centroid: ' friendship' | Score: 0.0045
-  Tokens: [' friendship', ' friend']
-Rank 12 | Centroid: ' small' | Score: 0.0044
-  Tokens: [' new', ' non', ' small', ' light', ' long', ' late']
-Rank 13 | Centroid: ' random' | Score: 0.0037
-  Tokens: [' random', ' ban', ' mon', ' private', ' social']
-Rank 14 | Centroid: ' story' | Score: 0.0020
-  Tokens: [' story', ' situation', ' journey', ' tale', ' project']
-Rank 15 | Centroid: ' charming' | Score: 0.0018
-  Tokens: [' pleasant', ' heartfelt', ' charming', ' cute', ' comforting']
-Rank 16 | Centroid: ' warm' | Score: 0.0015
-  Tokens: [' warm', ' quiet', ' heated', ' cold']
-Rank 17 | Centroid: ' serious' | Score: 0.0014
-  Tokens: [' serious', ' normal']
-Rank 18 | Centroid: ' ritual' | Score: 0.0010
-  Tokens: [' routine', ' ritual', ' mundane']
-Rank 19 | Centroid: ' flirt' | Score: 0.0009
-  Tokens: [' flirt', ' texting']
-Rank 20 | Centroid: ' problematic' | Score: 0.0007
-  Tokens: [' seemingly', ' problematic', ' reluctant']
-Rank 21 | Centroid: ' misunderstanding' | Score: 0.0006
-  Tokens: [' misunderstanding']
-Rank 22 | Centroid: ' coffee' | Score: 0.0006
-  Tokens: [' call', ' coffee', ' tea']
-Rank 23 | Centroid: ' surprise' | Score: 0.0004
-  Tokens: [' surprise', ' secret']
-Rank 24 | Centroid: ' series' | Score: 0.0003
-  Tokens: [' series']
-Rank 25 | Centroid: ' visit' | Score: 0.0003
-  Tokens: [' visit']
+Rank 1 | Centroid: ' appear' | Score: 1.0000
+  Tokens: [' appeared', 'appeared', ' appears', ' appear', ' appearing', ' appearance', ' apare']
+Rank 2 | Centroid: ' participated' | Score: 0.0003
+  Tokens: [' played', ' performed', ' acted', ' participated', ' worked', ' served', ' contributed']
+Rank 3 | Centroid: ' starred' | Score: 0.0001
+  Tokens: [' starred', ' stared', ' star']
+Rank 4 | Centroid: ' portrayed' | Score: 0.0001
+  Tokens: [' featured', ' portrayed', ' represented', ' presented', ' provided']
+Rank 5 | Centroid: ' gave' | Score: 0.0000
+  Tokens: [' had', ' did', ' took', ' was', ' became', ' came', ' wrote', ' showed', ' saw', ' gave']
+Rank 6 | Centroid: ' created' | Score: 0.0000
+  Tokens: [' made', ' produced', ' added', ' formed', ' prepared', ' created']
+Rank 7 | Centroid: ' in' | Score: 0.0000
+  Tokens: [' in', ' re', ' also', ' co', ' and', ' as', ' a']
+Rank 8 | Centroid: ' began' | Score: 0.0000
+  Tokens: [' began', ' emerged', ' started', ' occurred']
+Rank 9 | Centroid: ' continued' | Score: 0.0000
+  Tokens: [' continued', ' repeated']
+Rank 10 | Centroid: ' returned' | Score: 0.0000
+  Tokens: [' joined', ' returned', ' entered', ' turned']
+Rank 11 | Centroid: ' premiered' | Score: 0.0000
+  Tokens: [' premiered', ' aired']
+Rank 12 | Centroid: ' remained' | Score: 0.0000
+  Tokens: [' remained']
+Rank 13 | Centroid: ' later' | Score: 0.0000
+  Tokens: [' later', ' once']
+Rank 14 | Centroid: ' repr' | Score: 0.0000
+  Tokens: [' repr']
+Rank 15 | Centroid: ' found' | Score: 0.0000
+  Tokens: [' found']
+Rank 16 | Centroid: ' directed' | Score: 0.0000
+  Tokens: [' directed']
 
 **Chosen Concept:** Rank 1

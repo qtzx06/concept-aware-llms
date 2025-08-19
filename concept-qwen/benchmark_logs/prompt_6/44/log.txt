@@ -1,0 +1,152 @@
+--- Step 44 Log ---
+
+== Filtered Candidates ==
+Token: ' guest' (ID: 8640), Prob: 0.6250
+Token: ' regular' (ID: 5792), Prob: 0.0583
+Token: ' member' (ID: 4462), Prob: 0.0354
+Token: ' featured' (ID: 14766), Prob: 0.0275
+Token: ' producer' (ID: 16851), Prob: 0.0275
+Token: ' part' (ID: 949), Prob: 0.0189
+Token: ' cast' (ID: 6311), Prob: 0.0189
+Token: ' contestant' (ID: 87222), Prob: 0.0130
+Token: ' co' (ID: 1062), Prob: 0.0115
+Token: ' judge' (ID: 11651), Prob: 0.0115
+Token: ' special' (ID: 3281), Prob: 0.0101
+Token: ' writer' (ID: 6916), Prob: 0.0101
+Token: ' lead' (ID: 2990), Prob: 0.0079
+Token: ' voice' (ID: 7743), Prob: 0.0061
+Token: ' supporting' (ID: 12613), Prob: 0.0048
+Token: ' contributor' (ID: 25305), Prob: 0.0042
+Token: ' director' (ID: 7538), Prob: 0.0037
+Token: ' recurring' (ID: 45250), Prob: 0.0037
+Token: ' major' (ID: 3598), Prob: 0.0026
+Token: ' Guest' (ID: 26215), Prob: 0.0026
+Token: ' stunt' (ID: 59025), Prob: 0.0026
+Token: ' main' (ID: 1887), Prob: 0.0023
+Token: ' finalist' (ID: 97391), Prob: 0.0023
+Token: ' host' (ID: 3468), Prob: 0.0020
+Token: ' star' (ID: 6774), Prob: 0.0020
+Token: ' founding' (ID: 35230), Prob: 0.0018
+Token: ' series' (ID: 4013), Prob: 0.0015
+Token: ' student' (ID: 5458), Prob: 0.0015
+Token: ' production' (ID: 5670), Prob: 0.0015
+Token: ' coach' (ID: 7247), Prob: 0.0015
+Token: ' fan' (ID: 8405), Prob: 0.0015
+Token: ' feature' (ID: 4565), Prob: 0.0014
+Token: ' casting' (ID: 24172), Prob: 0.0014
+Token: ' cinemat' (ID: 87022), Prob: 0.0014
+Token: ' set' (ID: 738), Prob: 0.0012
+Token: ' frequent' (ID: 20757), Prob: 0.0012
+Token: ' participant' (ID: 24880), Prob: 0.0012
+Token: ' contributing' (ID: 28720), Prob: 0.0012
+Token: ' stand' (ID: 2498), Prob: 0.0011
+Token: ' minor' (ID: 8922), Prob: 0.0011
+Token: ' television' (ID: 12425), Prob: 0.0011
+Token: ' runner' (ID: 22259), Prob: 0.0011
+Token: ' mentor' (ID: 35428), Prob: 0.0011
+Token: ' performer' (ID: 48154), Prob: 0.0011
+Token: ' character' (ID: 3668), Prob: 0.0009
+Token: ' vocal' (ID: 25407), Prob: 0.0009
+Token: ' principal' (ID: 12435), Prob: 0.0008
+Token: ' film' (ID: 4531), Prob: 0.0007
+Token: ' volunteer' (ID: 25144), Prob: 0.0007
+Token: ' model' (ID: 1614), Prob: 0.0006
+Token: ' professional' (ID: 6584), Prob: 0.0006
+Token: ' musical' (ID: 17795), Prob: 0.0006
+Token: ' resident' (ID: 18967), Prob: 0.0006
+Token: ' passenger' (ID: 23148), Prob: 0.0006
+Token: ' presenter' (ID: 33656), Prob: 0.0006
+Token: ' starring' (ID: 39400), Prob: 0.0006
+Token: ' big' (ID: 2409), Prob: 0.0005
+Token: ' recipient' (ID: 21713), Prob: 0.0005
+Token: ' substitute' (ID: 27679), Prob: 0.0005
+Token: ' supporter' (ID: 36463), Prob: 0.0005
+Token: ' dancer' (ID: 63582), Prob: 0.0005
+Token: ' season' (ID: 3200), Prob: 0.0005
+Token: ' test' (ID: 1273), Prob: 0.0004
+Token: ' very' (ID: 1602), Prob: 0.0004
+Token: ' short' (ID: 2805), Prob: 0.0004
+Token: ' music' (ID: 4627), Prob: 0.0004
+Token: ' child' (ID: 1682), Prob: 0.0004
+Token: ' full' (ID: 2480), Prob: 0.0004
+Token: ' bit' (ID: 2699), Prob: 0.0004
+Token: ' crew' (ID: 13627), Prob: 0.0004
+Token: ' graduate' (ID: 19023), Prob: 0.0004
+Token: ' consultant' (ID: 30660), Prob: 0.0004
+Token: ' small' (ID: 2613), Prob: 0.0003
+Token: ' summer' (ID: 7324), Prob: 0.0003
+Token: ' Special' (ID: 9785), Prob: 0.0003
+Token: ' proud' (ID: 12409), Prob: 0.0003
+Token: ' D' (ID: 422), Prob: 0.0003
+Token: ' two' (ID: 1378), Prob: 0.0003
+Token: ' junior' (ID: 26052), Prob: 0.0003
+Token: ' male' (ID: 8593), Prob: 0.0003
+Token: ' studio' (ID: 14029), Prob: 0.0003
+Token: ' pilot' (ID: 17708), Prob: 0.0003
+Token: ' nominee' (ID: 28211), Prob: 0.0003
+Token: ' narrator' (ID: 64171), Prob: 0.0003
+Token: ' key' (ID: 1376), Prob: 0.0003
+Token: ' leading' (ID: 6388), Prob: 0.0003
+Token: ' creative' (ID: 11521), Prob: 0.0003
+Token: ' writing' (ID: 4378), Prob: 0.0003
+Token: ' senior' (ID: 9990), Prob: 0.0003
+Token: ' festival' (ID: 18780), Prob: 0.0003
+Token: ' prominent' (ID: 20469), Prob: 0.0003
+Token: ' Featured' (ID: 50219), Prob: 0.0003
+Token: ' semif' (ID: 65500), Prob: 0.0003
+Token: ' non' (ID: 2477), Prob: 0.0003
+Token: ' martial' (ID: 36859), Prob: 0.0003
+Token: ' chore' (ID: 49571), Prob: 0.0002
+Token: ' cameo' (ID: 94056), Prob: 0.0002
+
+== Ranked Concepts (Clusters) ==
+Rank 1 | Centroid: ' guest' | Score: 0.6289
+  Tokens: [' guest', ' Guest', ' host', ' passenger']
+Rank 2 | Centroid: ' two' | Score: 0.0767
+  Tokens: [' regular', ' co', ' series', ' set', ' model', ' big', ' test', ' very', ' short', ' full', ' small', ' D', ' two', ' non']
+Rank 3 | Centroid: ' contestant' | Score: 0.0574
+  Tokens: [' member', ' contestant', ' contributor', ' finalist', ' participant', ' recipient', ' supporter', ' nominee']
+Rank 4 | Centroid: ' writer' | Score: 0.0396
+  Tokens: [' producer', ' writer', ' performer', ' dancer', ' writing']
+Rank 5 | Centroid: ' featured' | Score: 0.0291
+  Tokens: [' featured', ' feature', ' Featured']
+Rank 6 | Centroid: ' child' | Score: 0.0232
+  Tokens: [' part', ' star', ' fan', ' child', ' bit']
+Rank 7 | Centroid: ' cast' | Score: 0.0203
+  Tokens: [' cast', ' casting']
+Rank 8 | Centroid: ' consultant' | Score: 0.0175
+  Tokens: [' judge', ' director', ' runner', ' presenter', ' consultant', ' narrator']
+Rank 9 | Centroid: ' special' | Score: 0.0105
+  Tokens: [' special', ' Special']
+Rank 10 | Centroid: ' mentor' | Score: 0.0100
+  Tokens: [' voice', ' coach', ' mentor', ' vocal', ' pilot']
+Rank 11 | Centroid: ' lead' | Score: 0.0082
+  Tokens: [' lead', ' leading']
+Rank 12 | Centroid: ' major' | Score: 0.0073
+  Tokens: [' major', ' main', ' minor', ' principal', ' key', ' prominent']
+Rank 13 | Centroid: ' supporting' | Score: 0.0065
+  Tokens: [' supporting', ' contributing', ' substitute']
+Rank 14 | Centroid: ' festival' | Score: 0.0053
+  Tokens: [' stunt', ' cinemat', ' starring', ' festival', ' martial', ' cameo']
+Rank 15 | Centroid: ' recurring' | Score: 0.0049
+  Tokens: [' recurring', ' frequent']
+Rank 16 | Centroid: ' music' | Score: 0.0036
+  Tokens: [' television', ' film', ' musical', ' music', ' studio', ' creative', ' chore']
+Rank 17 | Centroid: ' student' | Score: 0.0029
+  Tokens: [' student', ' volunteer', ' resident']
+Rank 18 | Centroid: ' founding' | Score: 0.0021
+  Tokens: [' founding', ' proud']
+Rank 19 | Centroid: ' stand' | Score: 0.0020
+  Tokens: [' stand', ' character']
+Rank 20 | Centroid: ' production' | Score: 0.0015
+  Tokens: [' production']
+Rank 21 | Centroid: ' junior' | Score: 0.0015
+  Tokens: [' professional', ' graduate', ' junior', ' senior']
+Rank 22 | Centroid: ' summer' | Score: 0.0011
+  Tokens: [' season', ' summer', ' male']
+Rank 23 | Centroid: ' crew' | Score: 0.0004
+  Tokens: [' crew']
+Rank 24 | Centroid: ' semif' | Score: 0.0003
+  Tokens: [' semif']
+
+**Chosen Concept:** Rank 1

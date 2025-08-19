@@ -1,0 +1,126 @@
+--- Step 51 Log ---
+
+== Filtered Candidates ==
+Token: ' Arch' (ID: 9494), Prob: 1.0000
+Token: ' arch' (ID: 5325), Prob: 0.0001
+Token: ' Young' (ID: 13263), Prob: 0.0000
+Token: ' Cur' (ID: 12886), Prob: 0.0000
+Token: ' X' (ID: 1599), Prob: 0.0000
+Token: ' News' (ID: 5398), Prob: 0.0000
+Token: ' Archive' (ID: 29702), Prob: 0.0000
+Token: 'Arch' (ID: 18727), Prob: 0.0000
+Token: ' Crown' (ID: 28643), Prob: 0.0000
+Token: ' Old' (ID: 10621), Prob: 0.0000
+Token: ' Morning' (ID: 27984), Prob: 0.0000
+Token: ' Edge' (ID: 10349), Prob: 0.0000
+Token: ' Archives' (ID: 37229), Prob: 0.0000
+Token: ' Bill' (ID: 8596), Prob: 0.0000
+Token: ' Ash' (ID: 14595), Prob: 0.0000
+Token: ' Great' (ID: 8513), Prob: 0.0000
+Token: ' Last' (ID: 7996), Prob: 0.0000
+Token: ' Vic' (ID: 43747), Prob: 0.0000
+Token: ' As' (ID: 1634), Prob: 0.0000
+Token: ' Ar' (ID: 1644), Prob: 0.0000
+Token: ' Car' (ID: 3261), Prob: 0.0000
+Token: ' P' (ID: 393), Prob: 0.0000
+Token: ' End' (ID: 3972), Prob: 0.0000
+Token: ' Black' (ID: 5235), Prob: 0.0000
+Token: ' M' (ID: 386), Prob: 0.0000
+Token: ' Fourth' (ID: 35074), Prob: 0.0000
+Token: ' Hitch' (ID: 70364), Prob: 0.0000
+Token: ' S' (ID: 328), Prob: 0.0000
+Token: ' Big' (ID: 6164), Prob: 0.0000
+Token: ' Sing' (ID: 10833), Prob: 0.0000
+Token: ' View' (ID: 2738), Prob: 0.0000
+Token: ' Golden' (ID: 17809), Prob: 0.0000
+Token: ' A' (ID: 362), Prob: 0.0000
+Token: ' R' (ID: 431), Prob: 0.0000
+Token: ' B' (ID: 425), Prob: 0.0000
+Token: ' G' (ID: 479), Prob: 0.0000
+Token: ' Grand' (ID: 10304), Prob: 0.0000
+Token: ' Tw' (ID: 11753), Prob: 0.0000
+Token: ' T' (ID: 350), Prob: 0.0000
+Token: ' F' (ID: 434), Prob: 0.0000
+Token: ' In' (ID: 758), Prob: 0.0000
+Token: ' Re' (ID: 1032), Prob: 0.0000
+Token: ' Red' (ID: 3731), Prob: 0.0000
+Token: ' Green' (ID: 7840), Prob: 0.0000
+Token: ' New' (ID: 1532), Prob: 0.0000
+Token: ' Ed' (ID: 3199), Prob: 0.0000
+Token: ' Par' (ID: 4270), Prob: 0.0000
+Token: ' Elder' (ID: 38569), Prob: 0.0000
+Token: ' D' (ID: 422), Prob: 0.0000
+Token: ' H' (ID: 472), Prob: 0.0000
+Token: ' First' (ID: 5512), Prob: 0.0000
+Token: ' Age' (ID: 13081), Prob: 0.0000
+Token: ' Office' (ID: 8246), Prob: 0.0000
+Token: ' Sand' (ID: 8677), Prob: 0.0000
+Token: ' Ark' (ID: 22017), Prob: 0.0000
+Token: ' Man' (ID: 2363), Prob: 0.0000
+Token: ' Art' (ID: 5166), Prob: 0.0000
+Token: ' Book' (ID: 5893), Prob: 0.0000
+Token: ' Day' (ID: 6059), Prob: 0.0000
+Token: ' Den' (ID: 9774), Prob: 0.0000
+Token: ' Dr' (ID: 2926), Prob: 0.0000
+Token: ' Mag' (ID: 6879), Prob: 0.0000
+Token: ' Good' (ID: 7684), Prob: 0.0000
+Token: ' Christmas' (ID: 10074), Prob: 0.0000
+Token: ' Ghost' (ID: 25044), Prob: 0.0000
+Token: ' Arrow' (ID: 33712), Prob: 0.0000
+Token: ' East' (ID: 6326), Prob: 0.0000
+Token: ' Secret' (ID: 8599), Prob: 0.0000
+Token: ' Watch' (ID: 10357), Prob: 0.0000
+Token: ' Night' (ID: 12826), Prob: 0.0000
+Token: ' Ack' (ID: 50982), Prob: 0.0000
+Token: ' Thick' (ID: 81277), Prob: 0.0000
+Token: ' Cor' (ID: 4463), Prob: 0.0000
+Token: ' Only' (ID: 8278), Prob: 0.0000
+Token: ' Channel' (ID: 13434), Prob: 0.0000
+Token: ' Firm' (ID: 37625), Prob: 0.0000
+Token: ' L' (ID: 444), Prob: 0.0000
+Token: ' One' (ID: 3776), Prob: 0.0000
+Token: ' Stand' (ID: 15577), Prob: 0.0000
+Token: ' Walking' (ID: 39055), Prob: 0.0000
+Token: ' Audience' (ID: 64900), Prob: 0.0000
+Token: ' only' (ID: 1172), Prob: 0.0000
+Token: ' An' (ID: 1527), Prob: 0.0000
+
+== Ranked Concepts (Clusters) ==
+Rank 1 | Centroid: ' Arch' | Score: 1.0000
+  Tokens: [' Arch', ' arch', ' Archive', 'Arch', ' Archives']
+Rank 2 | Centroid: ' D' | Score: 0.0001
+  Tokens: [' X', ' P', ' M', ' S', ' A', ' R', ' B', ' G', ' T', ' F', ' D', ' H', ' L']
+Rank 3 | Centroid: ' New' | Score: 0.0001
+  Tokens: [' Young', ' Old', ' New', ' East']
+Rank 4 | Centroid: ' Car' | Score: 0.0000
+  Tokens: [' Cur', ' Car', ' Par', ' Man', ' Den', ' Mag', ' Cor']
+Rank 5 | Centroid: ' Day' | Score: 0.0000
+  Tokens: [' News', ' Morning', ' Book', ' Day', ' Night']
+Rank 6 | Centroid: ' Ar' | Score: 0.0000
+  Tokens: [' Ash', ' Ar', ' Ark', ' Art', ' Arrow']
+Rank 7 | Centroid: ' Walking' | Score: 0.0000
+  Tokens: [' Sing', ' Sand', ' Christmas', ' Ghost', ' Secret', ' Thick', ' Stand', ' Walking']
+Rank 8 | Centroid: ' Crown' | Score: 0.0000
+  Tokens: [' Crown', ' Channel', ' Firm']
+Rank 9 | Centroid: ' Great' | Score: 0.0000
+  Tokens: [' Great', ' Big', ' Grand', ' Good']
+Rank 10 | Centroid: ' Edge' | Score: 0.0000
+  Tokens: [' Edge', ' End', ' Ed']
+Rank 11 | Centroid: ' Bill' | Score: 0.0000
+  Tokens: [' Bill', ' Vic', ' Ack']
+Rank 12 | Centroid: ' As' | Score: 0.0000
+  Tokens: [' As', ' In', ' Re', ' Dr', ' An']
+Rank 13 | Centroid: ' First' | Score: 0.0000
+  Tokens: [' Last', ' Fourth', ' First', ' One']
+Rank 14 | Centroid: ' Green' | Score: 0.0000
+  Tokens: [' Black', ' Golden', ' Red', ' Green']
+Rank 15 | Centroid: ' View' | Score: 0.0000
+  Tokens: [' View', ' Office', ' Watch', ' Audience']
+Rank 16 | Centroid: ' Hitch' | Score: 0.0000
+  Tokens: [' Hitch', ' Tw']
+Rank 17 | Centroid: ' Elder' | Score: 0.0000
+  Tokens: [' Elder', ' Age']
+Rank 18 | Centroid: ' Only' | Score: 0.0000
+  Tokens: [' Only', ' only']
+
+**Chosen Concept:** Rank 1

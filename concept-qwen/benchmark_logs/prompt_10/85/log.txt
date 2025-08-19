@@ -1,0 +1,132 @@
+--- Step 85 Log ---
+
+== Filtered Candidates ==
+Token: ' Chinese' (ID: 8453), Prob: 0.8125
+Token: ' form' (ID: 1352), Prob: 0.0459
+Token: ' all' (ID: 678), Prob: 0.0359
+Token: ' and' (ID: 323), Prob: 0.0245
+Token: ' forms' (ID: 7586), Prob: 0.0217
+Token: ' style' (ID: 1707), Prob: 0.0103
+Token: ' poetic' (ID: 75434), Prob: 0.0070
+Token: ' language' (ID: 4128), Prob: 0.0055
+Token: ' poetry' (ID: 31249), Prob: 0.0043
+Token: ' literary' (ID: 31365), Prob: 0.0029
+Token: ' model' (ID: 1614), Prob: 0.0016
+Token: ' themes' (ID: 21386), Prob: 0.0014
+Token: ' tradition' (ID: 13815), Prob: 0.0011
+Token: ' verse' (ID: 32387), Prob: 0.0008
+Token: ' traditional' (ID: 8606), Prob: 0.0006
+Token: ' id' (ID: 877), Prob: 0.0004
+Token: ' technique' (ID: 14762), Prob: 0.0004
+Token: ' old' (ID: 2310), Prob: 0.0004
+Token: ' past' (ID: 3267), Prob: 0.0004
+Token: ' five' (ID: 4236), Prob: 0.0004
+Token: ' poems' (ID: 44219), Prob: 0.0004
+Token: ' prose' (ID: 60701), Prob: 0.0004
+Token: ' vern' (ID: 71593), Prob: 0.0004
+Token: ' q' (ID: 2804), Prob: 0.0003
+Token: ' sources' (ID: 8173), Prob: 0.0003
+Token: ' mode' (ID: 3856), Prob: 0.0003
+Token: ' meter' (ID: 22962), Prob: 0.0003
+Token: ' poem' (ID: 32794), Prob: 0.0003
+Token: ' d' (ID: 294), Prob: 0.0002
+Token: ' techniques' (ID: 12538), Prob: 0.0002
+Token: ' literature' (ID: 17206), Prob: 0.0002
+Token: ' vocabulary' (ID: 34918), Prob: 0.0002
+Token: ' styles' (ID: 9222), Prob: 0.0002
+Token: ' or' (ID: 476), Prob: 0.0002
+Token: ' formal' (ID: 15908), Prob: 0.0002
+Token: ' Tang' (ID: 40362), Prob: 0.0002
+Token: ' imagery' (ID: 40445), Prob: 0.0002
+Token: ' source' (ID: 2530), Prob: 0.0002
+Token: ' subject' (ID: 3832), Prob: 0.0002
+Token: ' structure' (ID: 5944), Prob: 0.0002
+Token: ' p' (ID: 281), Prob: 0.0001
+Token: ' w' (ID: 289), Prob: 0.0001
+Token: ' four' (ID: 3040), Prob: 0.0001
+Token: ' models' (ID: 4119), Prob: 0.0001
+Token: ' ball' (ID: 4935), Prob: 0.0001
+Token: ' pent' (ID: 20189), Prob: 0.0001
+Token: ' Han' (ID: 20644), Prob: 0.0001
+Token: ' po' (ID: 3193), Prob: 0.0001
+Token: ' languages' (ID: 15459), Prob: 0.0001
+Token: ' terms' (ID: 3793), Prob: 0.0001
+Token: ' modes' (ID: 19777), Prob: 0.0001
+Token: ' classical' (ID: 28824), Prob: 0.0001
+Token: ' linguistic' (ID: 64667), Prob: 0.0001
+Token: ' method' (ID: 1714), Prob: 0.0001
+Token: ' pattern' (ID: 5383), Prob: 0.0001
+Token: ' meters' (ID: 20044), Prob: 0.0001
+Token: ' rhetorical' (ID: 85968), Prob: 0.0001
+Token: ' n' (ID: 308), Prob: 0.0001
+Token: ' pro' (ID: 462), Prob: 0.0001
+Token: ' couple' (ID: 5625), Prob: 0.0001
+Token: ' beauty' (ID: 13143), Prob: 0.0001
+Token: ' subjects' (ID: 14878), Prob: 0.0001
+Token: ' references' (ID: 15057), Prob: 0.0001
+Token: ' landscape' (ID: 18414), Prob: 0.0001
+Token: ' z' (ID: 1147), Prob: 0.0001
+Token: ' word' (ID: 3409), Prob: 0.0001
+Token: ' format' (ID: 3561), Prob: 0.0001
+Token: ' formula' (ID: 14806), Prob: 0.0001
+Token: ' Five' (ID: 20924), Prob: 0.0001
+Token: ' system' (ID: 1849), Prob: 0.0001
+Token: ' theme' (ID: 6912), Prob: 0.0001
+Token: ' hex' (ID: 12371), Prob: 0.0001
+Token: ' Du' (ID: 15687), Prob: 0.0001
+Token: ' metres' (ID: 36256), Prob: 0.0001
+Token: ' chinese' (ID: 56387), Prob: 0.0001
+Token: ' anthology' (ID: 83008), Prob: 0.0001
+Token: ' materials' (ID: 7236), Prob: 0.0001
+Token: ' genre' (ID: 17328), Prob: 0.0001
+Token: ' canon' (ID: 43816), Prob: 0.0001
+Token: ' li' (ID: 898), Prob: 0.0001
+Token: ' way' (ID: 1616), Prob: 0.0001
+Token: ' tri' (ID: 2406), Prob: 0.0001
+Token: ' du' (ID: 3845), Prob: 0.0001
+Token: ' Li' (ID: 14511), Prob: 0.0001
+Token: ' lex' (ID: 22429), Prob: 0.0001
+Token: ' l' (ID: 326), Prob: 0.0000
+Token: ' i' (ID: 600), Prob: 0.0000
+
+== Ranked Concepts (Clusters) ==
+Rank 1 | Centroid: ' Chinese' | Score: 0.8125
+  Tokens: [' Chinese', ' Tang', ' Han', ' chinese', ' li', ' Li']
+Rank 2 | Centroid: ' form' | Score: 0.0679
+  Tokens: [' form', ' forms', ' formal', ' formula']
+Rank 3 | Centroid: ' and' | Score: 0.0623
+  Tokens: [' all', ' and', ' id', ' q', ' d', ' or', ' p', ' w', ' n', ' pro', ' z', ' l', ' i']
+Rank 4 | Centroid: ' poetry' | Score: 0.0165
+  Tokens: [' poetic', ' poetry', ' literary', ' verse', ' poems', ' prose', ' poem', ' literature', ' po']
+Rank 5 | Centroid: ' style' | Score: 0.0106
+  Tokens: [' style', ' styles', ' pattern', ' format']
+Rank 6 | Centroid: ' language' | Score: 0.0065
+  Tokens: [' language', ' vern', ' vocabulary', ' languages', ' linguistic', ' word', ' lex']
+Rank 7 | Centroid: ' traditional' | Score: 0.0025
+  Tokens: [' tradition', ' traditional', ' old', ' past', ' classical']
+Rank 8 | Centroid: ' mode' | Score: 0.0021
+  Tokens: [' model', ' mode', ' models', ' modes']
+Rank 9 | Centroid: ' themes' | Score: 0.0015
+  Tokens: [' themes', ' theme']
+Rank 10 | Centroid: ' technique' | Score: 0.0010
+  Tokens: [' technique', ' techniques', ' structure', ' method', ' system', ' way']
+Rank 11 | Centroid: ' five' | Score: 0.0008
+  Tokens: [' five', ' four', ' pent', ' Five', ' hex']
+Rank 12 | Centroid: ' sources' | Score: 0.0006
+  Tokens: [' sources', ' source', ' references', ' materials']
+Rank 13 | Centroid: ' meters' | Score: 0.0006
+  Tokens: [' meter', ' ball', ' meters', ' metres']
+Rank 14 | Centroid: ' imagery' | Score: 0.0006
+  Tokens: [' imagery', ' rhetorical', ' beauty', ' anthology', ' genre', ' canon']
+Rank 15 | Centroid: ' subject' | Score: 0.0003
+  Tokens: [' subject', ' subjects']
+Rank 16 | Centroid: ' Du' | Score: 0.0002
+  Tokens: [' Du', ' tri', ' du']
+Rank 17 | Centroid: ' terms' | Score: 0.0001
+  Tokens: [' terms']
+Rank 18 | Centroid: ' couple' | Score: 0.0001
+  Tokens: [' couple']
+Rank 19 | Centroid: ' landscape' | Score: 0.0001
+  Tokens: [' landscape']
+
+**Chosen Concept:** Rank 1

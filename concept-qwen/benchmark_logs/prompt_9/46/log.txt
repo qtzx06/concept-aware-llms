@@ -1,0 +1,112 @@
+--- Step 46 Log ---
+
+== Filtered Candidates ==
+Token: ' dynasty' (ID: 66846), Prob: 0.4297
+Token: ' Dynasty' (ID: 73395), Prob: 0.3340
+Token: ' court' (ID: 5473), Prob: 0.2295
+Token: ' era' (ID: 11385), Prob: 0.0014
+Token: ' and' (ID: 323), Prob: 0.0008
+Token: ' period' (ID: 4168), Prob: 0.0004
+Token: ' poetry' (ID: 31249), Prob: 0.0004
+Token: ' Court' (ID: 7154), Prob: 0.0003
+Token: ' government' (ID: 3033), Prob: 0.0001
+Token: ' imperial' (ID: 34279), Prob: 0.0001
+Token: ' courts' (ID: 18828), Prob: 0.0001
+Token: ' Dun' (ID: 28738), Prob: 0.0001
+Token: ' Poetry' (ID: 67687), Prob: 0.0000
+Token: ' arist' (ID: 63738), Prob: 0.0000
+Token: 'Dyn' (ID: 95709), Prob: 0.0000
+Token: ' X' (ID: 1599), Prob: 0.0000
+Token: ' times' (ID: 3039), Prob: 0.0000
+Token: ' regime' (ID: 17484), Prob: 0.0000
+Token: ' poet' (ID: 39260), Prob: 0.0000
+Token: ' culture' (ID: 7674), Prob: 0.0000
+Token: ' empire' (ID: 31347), Prob: 0.0000
+Token: ' state' (ID: 1584), Prob: 0.0000
+Token: ' Empire' (ID: 20448), Prob: 0.0000
+Token: ' political' (ID: 4948), Prob: 0.0000
+Token: ' capital' (ID: 6722), Prob: 0.0000
+Token: ' Ta' (ID: 23291), Prob: 0.0000
+Token: ' royal' (ID: 29236), Prob: 0.0000
+Token: '-era' (ID: 51343), Prob: 0.0000
+Token: ' society' (ID: 8232), Prob: 0.0000
+Token: ' Po' (ID: 13808), Prob: 0.0000
+Token: ' in' (ID: 304), Prob: 0.0000
+Token: ' kingdom' (ID: 25079), Prob: 0.0000
+Token: ' poem' (ID: 32794), Prob: 0.0000
+Token: ' style' (ID: 1707), Prob: 0.0000
+Token: ' Period' (ID: 25492), Prob: 0.0000
+Token: ' loyal' (ID: 28847), Prob: 0.0000
+Token: ' China' (ID: 5616), Prob: 0.0000
+Token: ' poems' (ID: 44219), Prob: 0.0000
+Token: ' school' (ID: 2906), Prob: 0.0000
+Token: ' politics' (ID: 11500), Prob: 0.0000
+Token: ' of' (ID: 315), Prob: 0.0000
+Token: ' Z' (ID: 1863), Prob: 0.0000
+Token: ' legal' (ID: 5777), Prob: 0.0000
+Token: ' administrative' (ID: 22707), Prob: 0.0000
+Token: ' Palace' (ID: 30296), Prob: 0.0000
+Token: ' palace' (ID: 43339), Prob: 0.0000
+Token: ' Chang' (ID: 43372), Prob: 0.0000
+Token: ' Era' (ID: 47588), Prob: 0.0000
+Token: ' elite' (ID: 20685), Prob: 0.0000
+Token: ' to' (ID: 311), Prob: 0.0000
+Token: ' high' (ID: 1550), Prob: 0.0000
+Token: ' civilization' (ID: 34917), Prob: 0.0000
+Token: ' people' (ID: 1251), Prob: 0.0000
+Token: ' code' (ID: 2038), Prob: 0.0000
+Token: ' Emperor' (ID: 34314), Prob: 0.0000
+Token: ' emperor' (ID: 56783), Prob: 0.0000
+Token: ' bureaucracy' (ID: 63831), Prob: 0.0000
+Token: ' well' (ID: 1632), Prob: 0.0000
+Token: ' law' (ID: 2329), Prob: 0.0000
+Token: ' administration' (ID: 8567), Prob: 0.0000
+Token: ' calendar' (ID: 13168), Prob: 0.0000
+Token: ' literary' (ID: 31365), Prob: 0.0000
+Token: ' rulers' (ID: 59896), Prob: 0.0000
+Token: ' or' (ID: 476), Prob: 0.0000
+Token: ' college' (ID: 7770), Prob: 0.0000
+Token: ' customs' (ID: 34769), Prob: 0.0000
+Token: ' at' (ID: 518), Prob: 0.0000
+Token: ' prom' (ID: 2706), Prob: 0.0000
+Token: ' Imperial' (ID: 29913), Prob: 0.0000
+Token: ' Kai' (ID: 50610), Prob: 0.0000
+Token: 'court' (ID: 62758), Prob: 0.0000
+
+== Ranked Concepts (Clusters) ==
+Rank 1 | Centroid: ' Dynasty' | Score: 0.7656
+  Tokens: [' dynasty', ' Dynasty', 'Dyn']
+Rank 2 | Centroid: ' court' | Score: 0.2295
+  Tokens: [' court', ' Court', ' courts', 'court']
+Rank 3 | Centroid: ' era' | Score: 0.0014
+  Tokens: [' era', '-era', ' Era']
+Rank 4 | Centroid: ' and' | Score: 0.0009
+  Tokens: [' and', ' X', ' times', ' in', ' of', ' Z', ' to', ' high', ' people', ' well', ' or', ' at']
+Rank 5 | Centroid: ' poetry' | Score: 0.0005
+  Tokens: [' poetry', ' Poetry', ' poet', ' Po', ' poem', ' poems', ' literary']
+Rank 6 | Centroid: ' period' | Score: 0.0004
+  Tokens: [' period', ' Period']
+Rank 7 | Centroid: ' imperial' | Score: 0.0001
+  Tokens: [' imperial', ' empire', ' Empire', ' Emperor', ' emperor', ' Imperial']
+Rank 8 | Centroid: ' legal' | Score: 0.0001
+  Tokens: [' government', ' legal', ' law']
+Rank 9 | Centroid: ' Chang' | Score: 0.0001
+  Tokens: [' Dun', ' Ta', ' China', ' Chang', ' prom', ' Kai']
+Rank 10 | Centroid: ' palace' | Score: 0.0001
+  Tokens: [' arist', ' royal', ' loyal', ' Palace', ' palace', ' elite', ' rulers']
+Rank 11 | Centroid: ' civilization' | Score: 0.0000
+  Tokens: [' culture', ' society', ' civilization']
+Rank 12 | Centroid: ' style' | Score: 0.0000
+  Tokens: [' state', ' style', ' code']
+Rank 13 | Centroid: ' political' | Score: 0.0000
+  Tokens: [' political', ' politics', ' administrative', ' bureaucracy', ' administration']
+Rank 14 | Centroid: ' regime' | Score: 0.0000
+  Tokens: [' regime']
+Rank 15 | Centroid: ' college' | Score: 0.0000
+  Tokens: [' capital', ' school', ' college']
+Rank 16 | Centroid: ' kingdom' | Score: 0.0000
+  Tokens: [' kingdom']
+Rank 17 | Centroid: ' calendar' | Score: 0.0000
+  Tokens: [' calendar', ' customs']
+
+**Chosen Concept:** Rank 1

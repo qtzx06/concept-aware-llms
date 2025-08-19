@@ -1,0 +1,134 @@
+--- Step 23 Log ---
+
+== Filtered Candidates ==
+Token: 'ji' (ID: 7754), Prob: 0.6406
+Token: 'wan' (ID: 16556), Prob: 0.0762
+Token: 'jing' (ID: 98168), Prob: 0.0361
+Token: 'wei' (ID: 27105), Prob: 0.0281
+Token: 'wu' (ID: 65465), Prob: 0.0264
+Token: 'hu' (ID: 16739), Prob: 0.0171
+Token: 'y' (ID: 88), Prob: 0.0150
+Token: '-j' (ID: 13333), Prob: 0.0142
+Token: 'wang' (ID: 70552), Prob: 0.0110
+Token: ' Zu' (ID: 60082), Prob: 0.0097
+Token: 'he' (ID: 383), Prob: 0.0091
+Token: 'w' (ID: 86), Prob: 0.0076
+Token: 'hang' (ID: 20658), Prob: 0.0063
+Token: 'ang' (ID: 524), Prob: 0.0046
+Token: 'yi' (ID: 38072), Prob: 0.0043
+Token: '-w' (ID: 2630), Prob: 0.0041
+Token: 'jong' (ID: 98460), Prob: 0.0038
+Token: 'wa' (ID: 9991), Prob: 0.0036
+Token: ' Ning' (ID: 85083), Prob: 0.0036
+Token: 'wen' (ID: 16948), Prob: 0.0026
+Token: 'j' (ID: 73), Prob: 0.0025
+Token: 'h' (ID: 71), Prob: 0.0022
+Token: '-r' (ID: 3795), Prob: 0.0020
+Token: 'uan' (ID: 10386), Prob: 0.0020
+Token: ' Ji' (ID: 54451), Prob: 0.0017
+Token: ' Ping' (ID: 48657), Prob: 0.0016
+Token: 'pei' (ID: 63874), Prob: 0.0016
+Token: '-G' (ID: 12010), Prob: 0.0014
+Token: '-J' (ID: 12009), Prob: 0.0012
+Token: ' Z' (ID: 1863), Prob: 0.0011
+Token: 'wing' (ID: 23593), Prob: 0.0011
+Token: 'wo' (ID: 1126), Prob: 0.0010
+Token: 'jiang' (ID: 63547), Prob: 0.0009
+Token: 'we' (ID: 896), Prob: 0.0008
+Token: ' Chi' (ID: 33282), Prob: 0.0008
+Token: 'zu' (ID: 25655), Prob: 0.0008
+Token: '-z' (ID: 9141), Prob: 0.0007
+Token: 'want' (ID: 52657), Prob: 0.0007
+Token: 'ou' (ID: 283), Prob: 0.0006
+Token: ''an' (ID: 61495), Prob: 0.0006
+Token: '-Z' (ID: 11171), Prob: 0.0005
+Token: 'et' (ID: 295), Prob: 0.0005
+Token: 'ex' (ID: 327), Prob: 0.0005
+Token: 'z' (ID: 89), Prob: 0.0005
+Token: 'xi' (ID: 11665), Prob: 0.0005
+Token: ' Kang' (ID: 54276), Prob: 0.0005
+Token: 'ha' (ID: 4223), Prob: 0.0004
+Token: '-y' (ID: 12034), Prob: 0.0004
+Token: ' of' (ID: 315), Prob: 0.0004
+Token: ' z' (ID: 1147), Prob: 0.0004
+Token: ' Zhang' (ID: 36020), Prob: 0.0004
+Token: 'qi' (ID: 40187), Prob: 0.0004
+Token: 'hou' (ID: 18166), Prob: 0.0004
+Token: 'Z' (ID: 57), Prob: 0.0003
+Token: '-g' (ID: 2371), Prob: 0.0003
+Token: 'hung' (ID: 56832), Prob: 0.0003
+Token: ' Gang' (ID: 34417), Prob: 0.0003
+Token: ' Shi' (ID: 40704), Prob: 0.0003
+Token: ' Jing' (ID: 85439), Prob: 0.0003
+Token: ' R' (ID: 431), Prob: 0.0003
+Token: ' just' (ID: 1101), Prob: 0.0003
+Token: 'wh' (ID: 1312), Prob: 0.0003
+Token: ' X' (ID: 1599), Prob: 0.0003
+Token: '-W' (ID: 13002), Prob: 0.0003
+Token: 'lev' (ID: 3449), Prob: 0.0003
+Token: 'why' (ID: 34634), Prob: 0.0003
+Token: 'qing' (ID: 89584), Prob: 0.0003
+Token: 'her' (ID: 1923), Prob: 0.0002
+Token: 'ze' (ID: 2986), Prob: 0.0002
+Token: 'how' (ID: 5158), Prob: 0.0002
+Token: '-ch' (ID: 11582), Prob: 0.0002
+Token: ' Gu' (ID: 4570), Prob: 0.0002
+Token: ' zu' (ID: 6395), Prob: 0.0002
+Token: '\r' (ID: 12016), Prob: 0.0002
+Token: 'ab' (ID: 370), Prob: 0.0002
+Token: ' such' (ID: 1741), Prob: 0.0002
+Token: '-Ch' (ID: 29553), Prob: 0.0002
+Token: ' J' (ID: 619), Prob: 0.0002
+Token: 'ling' (ID: 2718), Prob: 0.0002
+Token: '_z' (ID: 6415), Prob: 0.0002
+Token: ' Temple' (ID: 18659), Prob: 0.0002
+
+== Ranked Concepts (Clusters) ==
+Rank 1 | Centroid: 'ji' | Score: 0.6406
+  Tokens: ['ji', ' Ji']
+Rank 2 | Centroid: 'we' | Score: 0.1133
+  Tokens: ['wan', 'wei', 'wa', 'wen', 'wo', 'we', 'want', 'wh']
+Rank 3 | Centroid: ' Zhang' | Score: 0.0439
+  Tokens: ['jing', ' Ning', ' Ping', 'jiang', ' Kang', ' Zhang', ' Gang', ' Jing', 'qing']
+Rank 4 | Centroid: 'wang' | Score: 0.0383
+  Tokens: ['wu', 'wang', 'wing']
+Rank 5 | Centroid: 'hang' | Score: 0.0240
+  Tokens: ['hu', 'hang', 'hou', 'hung']
+Rank 6 | Centroid: '-j' | Score: 0.0179
+  Tokens: ['-j', 'j', '-J', ' J']
+Rank 7 | Centroid: 'y' | Score: 0.0150
+  Tokens: ['y']
+Rank 8 | Centroid: 'how' | Score: 0.0121
+  Tokens: ['he', 'h', 'ha', 'her', 'how']
+Rank 9 | Centroid: ' zu' | Score: 0.0107
+  Tokens: [' Zu', 'zu', ' zu']
+Rank 10 | Centroid: '-G' | Score: 0.0089
+  Tokens: ['-w', '-r', '-G', '-y', '-g', '-W', '-ch', '-Ch']
+Rank 11 | Centroid: 'w' | Score: 0.0076
+  Tokens: ['w']
+Rank 12 | Centroid: 'xi' | Score: 0.0051
+  Tokens: ['yi', 'xi', 'qi']
+Rank 13 | Centroid: 'ang' | Score: 0.0046
+  Tokens: ['ang']
+Rank 14 | Centroid: ' Z' | Score: 0.0039
+  Tokens: [' Z', '-z', '-Z', 'z', ' z', 'Z', 'ze', '_z']
+Rank 15 | Centroid: 'jong' | Score: 0.0038
+  Tokens: ['jong']
+Rank 16 | Centroid: ' of' | Score: 0.0026
+  Tokens: ['et', 'ex', ' of', ' R', ' just', ' X', 'ab', ' such']
+Rank 17 | Centroid: ' Temple' | Score: 0.0023
+  Tokens: ['pei', "'an", ' Temple']
+Rank 18 | Centroid: 'uan' | Score: 0.0022
+  Tokens: ['uan', ' Gu']
+Rank 19 | Centroid: ' Chi' | Score: 0.0011
+  Tokens: [' Chi', ' Shi']
+Rank 20 | Centroid: 'ou' | Score: 0.0006
+  Tokens: ['ou']
+Rank 21 | Centroid: 'lev' | Score: 0.0004
+  Tokens: ['lev', 'ling']
+Rank 22 | Centroid: 'why' | Score: 0.0003
+  Tokens: ['why']
+Rank 23 | Centroid: '\r' | Score: 0.0002
+  Tokens: ['\\r']
+
+**Chosen Concept:** Rank 1

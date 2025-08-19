@@ -1,0 +1,116 @@
+--- Step 39 Log ---
+
+== Filtered Candidates ==
+Token: ' Fu' (ID: 29253), Prob: 0.8945
+Token: ' Mu' (ID: 14787), Prob: 0.0835
+Token: ' Gu' (ID: 4570), Prob: 0.0032
+Token: ' X' (ID: 1599), Prob: 0.0021
+Token: ' Ye' (ID: 31169), Prob: 0.0013
+Token: ' You' (ID: 1446), Prob: 0.0011
+Token: ' Kang' (ID: 54276), Prob: 0.0010
+Token: ' Sol' (ID: 11473), Prob: 0.0008
+Token: ' Du' (ID: 15687), Prob: 0.0007
+Token: ' Bu' (ID: 27227), Prob: 0.0005
+Token: ' Yu' (ID: 27273), Prob: 0.0005
+Token: ' Yun' (ID: 53992), Prob: 0.0004
+Token: ' Li' (ID: 14511), Prob: 0.0003
+Token: ' solo' (ID: 13529), Prob: 0.0002
+Token: ' Lu' (ID: 18360), Prob: 0.0002
+Token: ' Tu' (ID: 28649), Prob: 0.0002
+Token: ' H' (ID: 472), Prob: 0.0001
+Token: ' Bo' (ID: 2516), Prob: 0.0001
+Token: 'an' (ID: 276), Prob: 0.0001
+Token: ' R' (ID: 431), Prob: 0.0001
+Token: ' Let' (ID: 6771), Prob: 0.0001
+Token: ' Zh' (ID: 33349), Prob: 0.0001
+Token: ' Yue' (ID: 81031), Prob: 0.0001
+Token: ' Y' (ID: 809), Prob: 0.0001
+Token: ' near' (ID: 3143), Prob: 0.0001
+Token: ' Fut' (ID: 42547), Prob: 0.0001
+Token: ' Hang' (ID: 40775), Prob: 0.0001
+Token: ' P' (ID: 393), Prob: 0.0001
+Token: ' Z' (ID: 1863), Prob: 0.0001
+Token: 'ans' (ID: 596), Prob: 0.0001
+Token: ' Cha' (ID: 27721), Prob: 0.0001
+Token: ' Ku' (ID: 32379), Prob: 0.0001
+Token: 'wu' (ID: 65465), Prob: 0.0001
+Token: ' Yuan' (ID: 68884), Prob: 0.0001
+Token: ' J' (ID: 619), Prob: 0.0001
+Token: ' Shen' (ID: 57780), Prob: 0.0001
+Token: ' Ch' (ID: 910), Prob: 0.0001
+Token: ' Song' (ID: 18971), Prob: 0.0001
+Token: ' rang' (ID: 42100), Prob: 0.0001
+Token: ' Sun' (ID: 8059), Prob: 0.0001
+Token: ' Da' (ID: 14235), Prob: 0.0001
+Token: ' B' (ID: 425), Prob: 0.0000
+Token: ' E' (ID: 468), Prob: 0.0000
+Token: ' Zhang' (ID: 36020), Prob: 0.0000
+Token: ' Wei' (ID: 52448), Prob: 0.0000
+Token: ' Q' (ID: 1207), Prob: 0.0000
+Token: ' Yi' (ID: 47834), Prob: 0.0000
+Token: ' Ling' (ID: 50858), Prob: 0.0000
+Token: ' G' (ID: 479), Prob: 0.0000
+Token: ' Wang' (ID: 28246), Prob: 0.0000
+Token: ' Tao' (ID: 59508), Prob: 0.0000
+Token: 'ode' (ID: 534), Prob: 0.0000
+Token: ' Bell' (ID: 17884), Prob: 0.0000
+Token: 'any' (ID: 3767), Prob: 0.0000
+Token: ' Any' (ID: 5765), Prob: 0.0000
+Token: ' Tang' (ID: 40362), Prob: 0.0000
+Token: ' confined' (ID: 44308), Prob: 0.0000
+Token: ' rượu' (ID: 136288), Prob: 0.0000
+Token: ' close' (ID: 3265), Prob: 0.0000
+Token: 'ang' (ID: 524), Prob: 0.0000
+Token: ' assured' (ID: 27378), Prob: 0.0000
+Token: ' Chang' (ID: 43372), Prob: 0.0000
+Token: ' Ca' (ID: 14413), Prob: 0.0000
+Token: ' Gong' (ID: 97375), Prob: 0.0000
+Token: ' C' (ID: 356), Prob: 0.0000
+Token: 'asure' (ID: 3970), Prob: 0.0000
+Token: ' Chat' (ID: 12853), Prob: 0.0000
+Token: ' Sang' (ID: 50922), Prob: 0.0000
+Token: ' Zheng' (ID: 76447), Prob: 0.0000
+Token: ' F' (ID: 434), Prob: 0.0000
+Token: ' content' (ID: 2213), Prob: 0.0000
+Token: ' Po' (ID: 13808), Prob: 0.0000
+Token: ' Jing' (ID: 85439), Prob: 0.0000
+
+== Ranked Concepts (Clusters) ==
+Rank 1 | Centroid: ' Gu' | Score: 0.9844
+  Tokens: [' Fu', ' Mu', ' Gu', ' Du', ' Bu', ' Lu', ' Tu', ' Ku']
+Rank 2 | Centroid: ' H' | Score: 0.0029
+  Tokens: [' X', ' H', ' R', ' Y', ' P', ' Z', ' J', ' B', ' E', ' Q', ' G', ' C', ' F']
+Rank 3 | Centroid: ' Yu' | Score: 0.0022
+  Tokens: [' Ye', ' Yu', ' Yun', ' Yi']
+Rank 4 | Centroid: ' You' | Score: 0.0012
+  Tokens: [' You', ' Let']
+Rank 5 | Centroid: ' Song' | Score: 0.0012
+  Tokens: [' Kang', ' Hang', ' Song', ' Tang', ' Sang']
+Rank 6 | Centroid: ' Sol' | Score: 0.0010
+  Tokens: [' Sol', ' solo', ' Sun', ' content']
+Rank 7 | Centroid: ' Zhang' | Score: 0.0006
+  Tokens: [' Zh', ' Yue', ' Yuan', ' Shen', ' Zhang', ' Wei', ' Ling', ' Wang', ' Tao', ' Chang', ' Gong', ' Zheng', ' Jing']
+Rank 8 | Centroid: ' Ch' | Score: 0.0004
+  Tokens: [' Bo', ' Cha', ' Ch', ' Da', ' Ca', ' Chat', ' Po']
+Rank 9 | Centroid: ' Li' | Score: 0.0003
+  Tokens: [' Li']
+Rank 10 | Centroid: 'an' | Score: 0.0002
+  Tokens: ['an', 'ans']
+Rank 11 | Centroid: ' near' | Score: 0.0001
+  Tokens: [' near', ' close']
+Rank 12 | Centroid: ' Fut' | Score: 0.0001
+  Tokens: [' Fut']
+Rank 13 | Centroid: ' confined' | Score: 0.0001
+  Tokens: [' confined', ' rượu', ' assured']
+Rank 14 | Centroid: ' rang' | Score: 0.0001
+  Tokens: [' rang', 'ang']
+Rank 15 | Centroid: 'wu' | Score: 0.0001
+  Tokens: ['wu']
+Rank 16 | Centroid: 'any' | Score: 0.0001
+  Tokens: ['any', ' Any']
+Rank 17 | Centroid: ' Bell' | Score: 0.0001
+  Tokens: [' Bell', 'asure']
+Rank 18 | Centroid: 'ode' | Score: 0.0000
+  Tokens: ['ode']
+
+**Chosen Concept:** Rank 1

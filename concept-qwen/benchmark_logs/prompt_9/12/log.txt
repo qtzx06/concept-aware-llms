@@ -1,0 +1,130 @@
+--- Step 12 Log ---
+
+== Filtered Candidates ==
+Token: ' his' (ID: 806), Prob: 0.4336
+Token: ' was' (ID: 572), Prob: 0.0752
+Token: ' the' (ID: 279), Prob: 0.0664
+Token: ' he' (ID: 566), Prob: 0.0664
+Token: ' thus' (ID: 8450), Prob: 0.0518
+Token: ' in' (ID: 304), Prob: 0.0356
+Token: ' died' (ID: 8469), Prob: 0.0356
+Token: ' had' (ID: 1030), Prob: 0.0190
+Token: ' as' (ID: 438), Prob: 0.0148
+Token: ' later' (ID: 2937), Prob: 0.0148
+Token: ' therefore' (ID: 8916), Prob: 0.0148
+Token: ' lived' (ID: 12163), Prob: 0.0102
+Token: ' at' (ID: 518), Prob: 0.0062
+Token: ' during' (ID: 2337), Prob: 0.0055
+Token: ' this' (ID: 419), Prob: 0.0048
+Token: ' so' (ID: 773), Prob: 0.0048
+Token: ' since' (ID: 2474), Prob: 0.0042
+Token: ' according' (ID: 4092), Prob: 0.0042
+Token: ' named' (ID: 6941), Prob: 0.0042
+Token: ' it' (ID: 432), Prob: 0.0038
+Token: ' became' (ID: 6116), Prob: 0.0038
+Token: ' moved' (ID: 7726), Prob: 0.0038
+Token: ' after' (ID: 1283), Prob: 0.0033
+Token: ' passed' (ID: 5823), Prob: 0.0029
+Token: ' inherited' (ID: 26990), Prob: 0.0026
+Token: ' a' (ID: 264), Prob: 0.0023
+Token: ' is' (ID: 374), Prob: 0.0023
+Token: ' from' (ID: 504), Prob: 0.0023
+Token: ' grew' (ID: 13938), Prob: 0.0023
+Token: ' hence' (ID: 16085), Prob: 0.0023
+Token: ' of' (ID: 315), Prob: 0.0020
+Token: ' when' (ID: 979), Prob: 0.0020
+Token: ' came' (ID: 3697), Prob: 0.0020
+Token: ' for' (ID: 369), Prob: 0.0018
+Token: ' that' (ID: 429), Prob: 0.0018
+Token: ' chose' (ID: 14554), Prob: 0.0018
+Token: ' married' (ID: 12224), Prob: 0.0016
+Token: ' took' (ID: 3867), Prob: 0.0014
+Token: ' held' (ID: 5644), Prob: 0.0014
+Token: ' raised' (ID: 9226), Prob: 0.0014
+Token: ' with' (ID: 448), Prob: 0.0012
+Token: ' has' (ID: 702), Prob: 0.0012
+Token: ' then' (ID: 1221), Prob: 0.0012
+Token: ' like' (ID: 1075), Prob: 0.0011
+Token: ' also' (ID: 1083), Prob: 0.0011
+Token: ' because' (ID: 1576), Prob: 0.0011
+Token: ' given' (ID: 2661), Prob: 0.0011
+Token: ' served' (ID: 10223), Prob: 0.0011
+Token: ' all' (ID: 678), Prob: 0.0009
+Token: ' spent' (ID: 7391), Prob: 0.0009
+Token: ' on' (ID: 389), Prob: 0.0008
+Token: ' due' (ID: 4152), Prob: 0.0008
+Token: ' eventually' (ID: 9583), Prob: 0.0008
+Token: ' by' (ID: 553), Prob: 0.0007
+Token: ' both' (ID: 2176), Prob: 0.0007
+Token: ' called' (ID: 2598), Prob: 0.0007
+Token: ' known' (ID: 3881), Prob: 0.0007
+Token: ' received' (ID: 3949), Prob: 0.0007
+Token: ' early' (ID: 4124), Prob: 0.0007
+Token: ' studied' (ID: 19476), Prob: 0.0007
+Token: ' went' (ID: 3937), Prob: 0.0007
+Token: ' began' (ID: 6009), Prob: 0.0007
+Token: ' experienced' (ID: 10321), Prob: 0.0007
+Token: ' believed' (ID: 11585), Prob: 0.0007
+Token: ' many' (ID: 1657), Prob: 0.0006
+Token: ' survived' (ID: 25882), Prob: 0.0006
+Token: ' most' (ID: 1429), Prob: 0.0005
+Token: ' did' (ID: 1521), Prob: 0.0005
+Token: ' entered' (ID: 10636), Prob: 0.0005
+Token: ' succeeded' (ID: 25331), Prob: 0.0005
+Token: ' performed' (ID: 10660), Prob: 0.0004
+Token: ' to' (ID: 311), Prob: 0.0004
+Token: ' there' (ID: 1052), Prob: 0.0004
+Token: ' could' (ID: 1410), Prob: 0.0004
+Token: ' suffered' (ID: 16256), Prob: 0.0004
+Token: ' attended' (ID: 18178), Prob: 0.0004
+Token: ' thereafter' (ID: 44995), Prob: 0.0004
+Token: ' re' (ID: 312), Prob: 0.0003
+Token: ' would' (ID: 1035), Prob: 0.0003
+Token: ' made' (ID: 1865), Prob: 0.0003
+Token: ' gave' (ID: 6551), Prob: 0.0003
+Token: ' followed' (ID: 8110), Prob: 0.0003
+Token: ' continued' (ID: 8570), Prob: 0.0003
+Token: ' reached' (ID: 8643), Prob: 0.0003
+Token: ' through' (ID: 1526), Prob: 0.0003
+Token: ' born' (ID: 9223), Prob: 0.0003
+Token: ' ended' (ID: 9482), Prob: 0.0003
+Token: ' learned' (ID: 9498), Prob: 0.0003
+Token: ' adopted' (ID: 17827), Prob: 0.0003
+
+== Ranked Concepts (Clusters) ==
+Rank 1 | Centroid: ' he' | Score: 0.5000
+  Tokens: [' his', ' he', ' there']
+Rank 2 | Centroid: ' was' | Score: 0.0991
+  Tokens: [' was', ' had', ' is', ' has', ' did', ' could', ' would']
+Rank 3 | Centroid: ' hence' | Score: 0.0703
+  Tokens: [' thus', ' therefore', ' hence', ' then']
+Rank 4 | Centroid: ' suffered' | Score: 0.0496
+  Tokens: [' died', ' lived', ' spent', ' received', ' experienced', ' survived', ' suffered', ' learned']
+Rank 5 | Centroid: ' because' | Score: 0.0215
+  Tokens: [' during', ' since', ' according', ' after', ' when', ' because', ' due', ' through']
+Rank 6 | Centroid: ' later' | Score: 0.0168
+  Tokens: [' later', ' eventually', ' early', ' thereafter']
+Rank 7 | Centroid: ' the' | Score: 0.0146
+  Tokens: [' the', ' in', ' as', ' at', ' this', ' it', ' a', ' from', ' of', ' for', ' that', ' with', ' all', ' on', ' by', ' to', ' re']
+Rank 8 | Centroid: ' gave' | Score: 0.0132
+  Tokens: [' became', ' grew', ' came', ' chose', ' took', ' went', ' began', ' gave', ' ended']
+Rank 9 | Centroid: ' moved' | Score: 0.0096
+  Tokens: [' moved', ' passed', ' raised', ' entered', ' made', ' reached', ' adopted']
+Rank 10 | Centroid: ' called' | Score: 0.0064
+  Tokens: [' named', ' called', ' known', ' believed']
+Rank 11 | Centroid: ' so' | Score: 0.0059
+  Tokens: [' so', ' also']
+Rank 12 | Centroid: ' married' | Score: 0.0045
+  Tokens: [' inherited', ' married', ' born']
+Rank 13 | Centroid: ' performed' | Score: 0.0040
+  Tokens: [' held', ' served', ' studied', ' performed', ' attended']
+Rank 14 | Centroid: ' many' | Score: 0.0018
+  Tokens: [' both', ' many', ' most']
+Rank 15 | Centroid: ' followed' | Score: 0.0012
+  Tokens: [' succeeded', ' followed', ' continued']
+Rank 16 | Centroid: ' given' | Score: 0.0011
+  Tokens: [' given']
+Rank 17 | Centroid: ' like' | Score: 0.0011
+  Tokens: [' like']
+
+**Chosen Concept:** Rank 1

@@ -1,161 +1,121 @@
 --- Step 61 Log ---
 
 == Filtered Candidates ==
-Token: ' length' (ID: 3084), Prob: 0.2793
-Token: ' duration' (ID: 8090), Prob: 0.2168
-Token: ' significance' (ID: 25361), Prob: 0.1025
-Token: ' details' (ID: 3565), Prob: 0.0801
-Token: ' difficulty' (ID: 16829), Prob: 0.0801
-Token: ' challenges' (ID: 11513), Prob: 0.0623
-Token: ' purpose' (ID: 7428), Prob: 0.0332
-Token: ' challenge' (ID: 8645), Prob: 0.0228
-Token: ' journey' (ID: 11618), Prob: 0.0228
-Token: ' beauty' (ID: 13143), Prob: 0.0084
-Token: ' nature' (ID: 6993), Prob: 0.0066
-Token: ' physical' (ID: 6961), Prob: 0.0051
-Token: ' aspects' (ID: 13566), Prob: 0.0051
-Token: ' excitement' (ID: 27262), Prob: 0.0051
-Token: ' route' (ID: 6021), Prob: 0.0045
-Token: ' accomplishment' (ID: 60138), Prob: 0.0045
-Token: ' description' (ID: 4008), Prob: 0.0040
-Token: ' time' (ID: 882), Prob: 0.0035
-Token: ' distance' (ID: 6010), Prob: 0.0027
-Token: ' importance' (ID: 12650), Prob: 0.0027
-Token: ' path' (ID: 1815), Prob: 0.0021
-Token: ' intensity' (ID: 20612), Prob: 0.0021
-Token: ' elements' (ID: 5424), Prob: 0.0019
-Token: ' detail' (ID: 7716), Prob: 0.0017
-Token: ' scenic' (ID: 60981), Prob: 0.0017
-Token: ' experience' (ID: 3139), Prob: 0.0016
-Token: ' worth' (ID: 5802), Prob: 0.0014
-Token: ' destination' (ID: 9106), Prob: 0.0014
-Token: ' trail' (ID: 8849), Prob: 0.0012
-Token: ' uniqueness' (ID: 59057), Prob: 0.0012
-Token: ' pace' (ID: 17857), Prob: 0.0011
-Token: ' progression' (ID: 32724), Prob: 0.0010
-Token: ' qualities' (ID: 28500), Prob: 0.0009
-Token: ' benefits' (ID: 7567), Prob: 0.0009
-Token: ' impact' (ID: 5421), Prob: 0.0008
-Token: ' highlights' (ID: 21314), Prob: 0.0008
-Token: ' value' (ID: 897), Prob: 0.0007
-Token: ' ease' (ID: 14219), Prob: 0.0007
-Token: ' difficulties' (ID: 26038), Prob: 0.0007
-Token: ' aspect' (ID: 12893), Prob: 0.0006
-Token: ' atmosphere' (ID: 16566), Prob: 0.0006
-Token: ' tranqu' (ID: 40564), Prob: 0.0006
-Token: ' progress' (ID: 5098), Prob: 0.0005
-Token: ' completion' (ID: 9755), Prob: 0.0005
-Token: ' endurance' (ID: 48186), Prob: 0.0005
-Token: ' essence' (ID: 27491), Prob: 0.0005
-Token: ' location' (ID: 3728), Prob: 0.0004
-Token: ' specifics' (ID: 48349), Prob: 0.0004
-Token: ' effort' (ID: 5041), Prob: 0.0004
-Token: ' approach' (ID: 5486), Prob: 0.0004
-Token: ' characteristics' (ID: 17452), Prob: 0.0004
-Token: ' charm' (ID: 31253), Prob: 0.0004
-Token: ' success' (ID: 2393), Prob: 0.0004
-Token: ' scenery' (ID: 50231), Prob: 0.0004
-Token: ' allure' (ID: 87403), Prob: 0.0004
-Token: ' trails' (ID: 32865), Prob: 0.0003
-Token: ' start' (ID: 1191), Prob: 0.0003
-Token: ' long' (ID: 1293), Prob: 0.0003
-Token: ' challenging' (ID: 17003), Prob: 0.0003
-Token: ' simplicity' (ID: 38975), Prob: 0.0003
-Token: ' connection' (ID: 3633), Prob: 0.0003
-Token: ' features' (ID: 4419), Prob: 0.0003
-Token: ' scale' (ID: 5452), Prob: 0.0003
-Token: ' adventure' (ID: 17943), Prob: 0.0003
-Token: ' structure' (ID: 5944), Prob: 0.0002
-Token: ' steep' (ID: 31266), Prob: 0.0002
-Token: ' brisk' (ID: 74391), Prob: 0.0002
-Token: ' part' (ID: 949), Prob: 0.0002
-Token: ' effects' (ID: 6239), Prob: 0.0002
-Token: ' meaning' (ID: 7290), Prob: 0.0002
-Token: ' trek' (ID: 44588), Prob: 0.0002
-Token: ' name' (ID: 829), Prob: 0.0002
-Token: ' quality' (ID: 4271), Prob: 0.0002
-Token: ' finish' (ID: 6248), Prob: 0.0002
-Token: ' total' (ID: 2790), Prob: 0.0002
-Token: ' appeal' (ID: 14303), Prob: 0.0002
-Token: ' end' (ID: 835), Prob: 0.0002
-Token: ' efforts' (ID: 8869), Prob: 0.0002
-Token: ' remot' (ID: 35793), Prob: 0.0002
-Token: ' process' (ID: 1882), Prob: 0.0002
-Token: ' environment' (ID: 4573), Prob: 0.0002
-Token: ' activity' (ID: 5702), Prob: 0.0002
-Token: ' trip' (ID: 8411), Prob: 0.0002
-Token: ' perspective' (ID: 13057), Prob: 0.0002
-Token: ' thorough' (ID: 17423), Prob: 0.0002
-Token: ' key' (ID: 1376), Prob: 0.0001
-Token: ' exclus' (ID: 18034), Prob: 0.0001
-Token: ' discovery' (ID: 18335), Prob: 0.0001
-Token: ' passage' (ID: 21085), Prob: 0.0001
-Token: ' dangers' (ID: 35964), Prob: 0.0001
-Token: ' thrill' (ID: 53804), Prob: 0.0001
-Token: ' speed' (ID: 4628), Prob: 0.0001
-Token: ' preparation' (ID: 17975), Prob: 0.0001
-Token: ' demands' (ID: 18154), Prob: 0.0001
-Token: ' size' (ID: 1379), Prob: 0.0001
-Token: ' parts' (ID: 5479), Prob: 0.0001
-Token: ' outcome' (ID: 15274), Prob: 0.0001
-Token: ' quick' (ID: 3974), Prob: 0.0001
-Token: ' conditions' (ID: 4682), Prob: 0.0001
-Token: ' sense' (ID: 5530), Prob: 0.0001
+Token: ' born' (ID: 9223), Prob: 1.0000
+Token: ' birth' (ID: 7194), Prob: 0.0000
+Token: ' in' (ID: 304), Prob: 0.0000
+Token: ' also' (ID: 1083), Prob: 0.0000
+Token: ' first' (ID: 1156), Prob: 0.0000
+Token: 'born' (ID: 15998), Prob: 0.0000
+Token: ' Born' (ID: 37816), Prob: 0.0000
+Token: ' a' (ID: 264), Prob: 0.0000
+Token: ' released' (ID: 5880), Prob: 0.0000
+Token: ' created' (ID: 3465), Prob: 0.0000
+Token: ' known' (ID: 3881), Prob: 0.0000
+Token: ' written' (ID: 5326), Prob: 0.0000
+Token: ' turned' (ID: 6519), Prob: 0.0000
+Token: ' given' (ID: 2661), Prob: 0.0000
+Token: ' produced' (ID: 8947), Prob: 0.0000
+Token: ' alive' (ID: 13675), Prob: 0.0000
+Token: ' conceived' (ID: 49078), Prob: 0.0000
+Token: ' made' (ID: 1865), Prob: 0.0000
+Token: ' the' (ID: 279), Prob: 0.0000
+Token: ' on' (ID: 389), Prob: 0.0000
+Token: ' found' (ID: 1730), Prob: 0.0000
+Token: ' assigned' (ID: 12607), Prob: 0.0000
+Token: '-born' (ID: 39160), Prob: 0.0000
+Token: ' published' (ID: 4652), Prob: 0.0000
+Token: ' an' (ID: 458), Prob: 0.0000
+Token: ' brought' (ID: 7117), Prob: 0.0000
+Token: ' presented' (ID: 10449), Prob: 0.0000
+Token: ' originally' (ID: 13214), Prob: 0.0000
+Token: ' shown' (ID: 6839), Prob: 0.0000
+Token: ' appointed' (ID: 20822), Prob: 0.0000
+Token: ' cast' (ID: 6311), Prob: 0.0000
+Token: ' both' (ID: 2176), Prob: 0.0000
+Token: ' bom' (ID: 18167), Prob: 0.0000
+Token: ' portrayed' (ID: 44777), Prob: 0.0000
+Token: ' pronounced' (ID: 37517), Prob: 0.0000
+Token: 'Born' (ID: 58104), Prob: 0.0000
+Token: ' noted' (ID: 10342), Prob: 0.0000
+Token: ' hired' (ID: 21446), Prob: 0.0000
+Token: ' being' (ID: 1660), Prob: 0.0000
+Token: ' held' (ID: 5644), Prob: 0.0000
+Token: ' named' (ID: 6941), Prob: 0.0000
+Token: ' taught' (ID: 15599), Prob: 0.0000
+Token: ' played' (ID: 6342), Prob: 0.0000
+Token: ' initially' (ID: 15102), Prob: 0.0000
+Token: ' represented' (ID: 15251), Prob: 0.0000
+Token: ' considered' (ID: 6509), Prob: 0.0000
+Token: ' killed' (ID: 7425), Prob: 0.0000
+Token: ' discovered' (ID: 11105), Prob: 0.0000
+Token: ' burned' (ID: 26626), Prob: 0.0000
+Token: ' asked' (ID: 4588), Prob: 0.0000
+Token: ' married' (ID: 12224), Prob: 0.0000
+Token: ' recorded' (ID: 12433), Prob: 0.0000
+Token: ' was' (ID: 572), Prob: 0.0000
+Token: ' confirmed' (ID: 10774), Prob: 0.0000
+Token: ' promoted' (ID: 28926), Prob: 0.0000
+Token: ' baptized' (ID: 89125), Prob: 0.0000
+Token: ' and' (ID: 323), Prob: 0.0000
+Token: ' seen' (ID: 3884), Prob: 0.0000
+Token: ' celebrated' (ID: 27185), Prob: 0.0000
+Token: ' borne' (ID: 64062), Prob: 0.0000
+Token: ' crowned' (ID: 78643), Prob: 0.0000
+Token: ' at' (ID: 518), Prob: 0.0000
+Token: ' taken' (ID: 4429), Prob: 0.0000
+Token: ' believed' (ID: 11585), Prob: 0.0000
+Token: ' awarded' (ID: 21328), Prob: 0.0000
+Token: ' buried' (ID: 26918), Prob: 0.0000
+Token: ' not' (ID: 537), Prob: 0.0000
+Token: ' added' (ID: 3694), Prob: 0.0000
+Token: ' announced' (ID: 7228), Prob: 0.0000
+Token: ' listed' (ID: 10007), Prob: 0.0000
+Token: ' involved' (ID: 6398), Prob: 0.0000
+Token: ' broadcast' (ID: 12899), Prob: 0.0000
 
 == Ranked Concepts (Clusters) ==
-Rank 1 | Centroid: ' size' | Score: 0.2852
-  Tokens: [' length', ' time', ' distance', ' scale', ' quality', ' size']
-Rank 2 | Centroid: ' intensity' | Score: 0.2217
-  Tokens: [' duration', ' intensity', ' pace', ' ease', ' endurance', ' speed']
-Rank 3 | Centroid: ' challenges' | Score: 0.1660
-  Tokens: [' difficulty', ' challenges', ' challenge', ' difficulties', ' challenging', ' dangers']
-Rank 4 | Centroid: ' significance' | Score: 0.1396
-  Tokens: [' significance', ' purpose', ' importance', ' essence', ' meaning', ' sense']
-Rank 5 | Centroid: ' details' | Score: 0.0820
-  Tokens: [' details', ' detail', ' specifics']
-Rank 6 | Centroid: ' trail' | Score: 0.0315
-  Tokens: [' journey', ' route', ' path', ' trail', ' trails', ' trek', ' trip']
-Rank 7 | Centroid: ' beauty' | Score: 0.0121
-  Tokens: [' beauty', ' scenic', ' tranqu', ' charm', ' scenery', ' allure', ' appeal', ' thrill']
-Rank 8 | Centroid: ' progression' | Score: 0.0076
-  Tokens: [' accomplishment', ' progression', ' progress', ' completion', ' success', ' finish', ' discovery', ' passage', ' preparation']
-Rank 9 | Centroid: ' simplicity' | Score: 0.0066
-  Tokens: [' excitement', ' uniqueness', ' simplicity']
-Rank 10 | Centroid: ' nature' | Score: 0.0066
-  Tokens: [' nature']
-Rank 11 | Centroid: ' aspects' | Score: 0.0059
-  Tokens: [' aspects', ' aspect', ' perspective']
-Rank 12 | Centroid: ' physical' | Score: 0.0051
-  Tokens: [' physical']
-Rank 13 | Centroid: ' description' | Score: 0.0049
-  Tokens: [' description', ' location', ' connection', ' structure']
-Rank 14 | Centroid: ' characteristics' | Score: 0.0038
-  Tokens: [' elements', ' qualities', ' characteristics', ' features', ' demands', ' conditions']
-Rank 15 | Centroid: ' value' | Score: 0.0025
-  Tokens: [' worth', ' value', ' name', ' key']
-Rank 16 | Centroid: ' experience' | Score: 0.0024
-  Tokens: [' experience', ' approach', ' process', ' activity', ' outcome']
-Rank 17 | Centroid: ' effects' | Score: 0.0019
-  Tokens: [' benefits', ' impact', ' effects']
-Rank 18 | Centroid: ' destination' | Score: 0.0014
-  Tokens: [' destination']
-Rank 19 | Centroid: ' start' | Score: 0.0011
-  Tokens: [' start', ' long', ' total', ' end', ' quick']
-Rank 20 | Centroid: ' highlights' | Score: 0.0008
-  Tokens: [' highlights']
-Rank 21 | Centroid: ' atmosphere' | Score: 0.0008
-  Tokens: [' atmosphere', ' environment']
-Rank 22 | Centroid: ' effort' | Score: 0.0006
-  Tokens: [' effort', ' efforts']
-Rank 23 | Centroid: ' steep' | Score: 0.0005
-  Tokens: [' steep', ' brisk']
-Rank 24 | Centroid: ' part' | Score: 0.0003
-  Tokens: [' part', ' parts']
-Rank 25 | Centroid: ' thorough' | Score: 0.0003
-  Tokens: [' thorough', ' exclus']
-Rank 26 | Centroid: ' adventure' | Score: 0.0003
-  Tokens: [' adventure']
-Rank 27 | Centroid: ' remot' | Score: 0.0002
-  Tokens: [' remot']
+Rank 1 | Centroid: ' born' | Score: 1.0000
+  Tokens: [' born', ' birth', 'born', ' Born', '-born', 'Born']
+Rank 2 | Centroid: ' the' | Score: 0.0000
+  Tokens: [' in', ' also', ' a', ' the', ' on', ' an', ' both', ' being', ' was', ' and', ' at', ' not']
+Rank 3 | Centroid: ' initially' | Score: 0.0000
+  Tokens: [' first', ' originally', ' initially']
+Rank 4 | Centroid: ' created' | Score: 0.0000
+  Tokens: [' created', ' produced', ' made', ' brought', ' added']
+Rank 5 | Centroid: ' discovered' | Score: 0.0000
+  Tokens: [' known', ' found', ' noted', ' considered', ' discovered', ' seen', ' believed']
+Rank 6 | Centroid: ' published' | Score: 0.0000
+  Tokens: [' released', ' published', ' recorded']
+Rank 7 | Centroid: ' portrayed' | Score: 0.0000
+  Tokens: [' presented', ' shown', ' portrayed', ' represented', ' listed']
+Rank 8 | Centroid: ' appointed' | Score: 0.0000
+  Tokens: [' assigned', ' appointed', ' hired', ' awarded']
+Rank 9 | Centroid: ' written' | Score: 0.0000
+  Tokens: [' written', ' taken']
+Rank 10 | Centroid: ' killed' | Score: 0.0000
+  Tokens: [' alive', ' killed', ' burned']
+Rank 11 | Centroid: ' turned' | Score: 0.0000
+  Tokens: [' turned']
+Rank 12 | Centroid: ' announced' | Score: 0.0000
+  Tokens: [' pronounced', ' confirmed', ' celebrated', ' announced']
+Rank 13 | Centroid: ' conceived' | Score: 0.0000
+  Tokens: [' conceived']
+Rank 14 | Centroid: ' given' | Score: 0.0000
+  Tokens: [' given']
+Rank 15 | Centroid: ' married' | Score: 0.0000
+  Tokens: [' married', ' baptized', ' crowned', ' buried']
+Rank 16 | Centroid: ' bom' | Score: 0.0000
+  Tokens: [' bom', ' borne']
+Rank 17 | Centroid: ' held' | Score: 0.0000
+  Tokens: [' held', ' played']
+Rank 18 | Centroid: ' cast' | Score: 0.0000
+  Tokens: [' cast', ' broadcast']
+Rank 19 | Centroid: ' taught' | Score: 0.0000
+  Tokens: [' taught', ' promoted']
+Rank 20 | Centroid: ' asked' | Score: 0.0000
+  Tokens: [' asked', ' involved']
+Rank 21 | Centroid: ' named' | Score: 0.0000
+  Tokens: [' named']
 
 **Chosen Concept:** Rank 1

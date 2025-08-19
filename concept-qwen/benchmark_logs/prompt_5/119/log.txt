@@ -1,80 +1,118 @@
 --- Step 119 Log ---
 
 == Filtered Candidates ==
-Token: ' faced' (ID: 16601), Prob: 0.0007
-Token: ' choosing' (ID: 18774), Prob: 0.0005
-Token: ' within' (ID: 2878), Prob: 0.0003
-Token: ' regarding' (ID: 8826), Prob: 0.0002
-Token: ' choice' (ID: 5754), Prob: 0.0001
-Token: ' showing' (ID: 9027), Prob: 0.0001
-Token: ' facing' (ID: 12880), Prob: 0.0001
-Token: ' versus' (ID: 19041), Prob: 0.0001
-Token: ' moment' (ID: 4445), Prob: 0.0001
-Token: ' whether' (ID: 3425), Prob: 0.0001
-Token: ' among' (ID: 4221), Prob: 0.0001
-Token: ' deciding' (ID: 29130), Prob: 0.0000
-Token: ' chosen' (ID: 11882), Prob: 0.0000
-Token: ' without' (ID: 2041), Prob: 0.0000
-Token: ' involving' (ID: 15860), Prob: 0.0000
-Token: ' around' (ID: 2163), Prob: 0.0000
-Token: ' due' (ID: 4152), Prob: 0.0000
-Token: ' affecting' (ID: 27887), Prob: 0.0000
-Token: ' decision' (ID: 5480), Prob: 0.0000
-Token: ' presented' (ID: 10449), Prob: 0.0000
-Token: ' inside' (ID: 4766), Prob: 0.0000
-Token: ' leading' (ID: 6388), Prob: 0.0000
-Token: ' instead' (ID: 4518), Prob: 0.0000
-Token: ' right' (ID: 1290), Prob: 0.0000
-Token: ' trying' (ID: 4460), Prob: 0.0000
-Token: ' comparing' (ID: 26297), Prob: 0.0000
-Token: ' parents' (ID: 6562), Prob: 0.0000
-Token: ' either' (ID: 2987), Prob: 0.0000
-Token: ' later' (ID: 2937), Prob: 0.0000
-Token: ' face' (ID: 3579), Prob: 0.0000
-Token: ' caused' (ID: 8881), Prob: 0.0000
-Token: ' point' (ID: 1459), Prob: 0.0000
-Token: ' rather' (ID: 4751), Prob: 0.0000
-Token: ' causing' (ID: 14381), Prob: 0.0000
-Token: ' upon' (ID: 5193), Prob: 0.0000
-Token: ' decided' (ID: 6635), Prob: 0.0000
-Token: ' towards' (ID: 6974), Prob: 0.0000
-Token: ' using' (ID: 1667), Prob: 0.0000
-Token: ' early' (ID: 4124), Prob: 0.0000
-Token: ' compared' (ID: 7707), Prob: 0.0000
-Token: ' choices' (ID: 11454), Prob: 0.0000
-Token: ' posed' (ID: 36160), Prob: 0.0000
-Token: ' taking' (ID: 4633), Prob: 0.0000
-Token: ' based' (ID: 3118), Prob: 0.0000
-Token: ' turning' (ID: 13054), Prob: 0.0000
+Token: ' year' (ID: 1042), Prob: 1.0000
+Token: ' years' (ID: 1635), Prob: 0.0002
+Token: ' series' (ID: 4013), Prob: 0.0002
+Token: ' period' (ID: 4168), Prob: 0.0001
+Token: ' month' (ID: 2254), Prob: 0.0001
+Token: ' decade' (ID: 13212), Prob: 0.0001
+Token: ' season' (ID: 3200), Prob: 0.0000
+Token: ' week' (ID: 2003), Prob: 0.0000
+Token: ' time' (ID: 882), Prob: 0.0000
+Token: ' role' (ID: 3476), Prob: 0.0000
+Token: ' television' (ID: 12425), Prob: 0.0000
+Token: ' day' (ID: 1899), Prob: 0.0000
+Token: ' BBC' (ID: 18096), Prob: 0.0000
+Token: 'year' (ID: 3157), Prob: 0.0000
+Token: ' film' (ID: 4531), Prob: 0.0000
+Token: ' episode' (ID: 9234), Prob: 0.0000
+Token: ' production' (ID: 5670), Prob: 0.0000
+Token: ' country' (ID: 3146), Prob: 0.0000
+Token: ' two' (ID: 1378), Prob: 0.0000
+Token: ' way' (ID: 1616), Prob: 0.0000
+Token: ' Year' (ID: 9742), Prob: 0.0000
+Token: ' TV' (ID: 5883), Prob: 0.0000
+Token: ' calendar' (ID: 13168), Prob: 0.0000
+Token: ' and' (ID: 323), Prob: 0.0000
+Token: ' century' (ID: 9294), Prob: 0.0000
+Token: ' broadcast' (ID: 12899), Prob: 0.0000
+Token: ' play' (ID: 1486), Prob: 0.0000
+Token: ' city' (ID: 3283), Prob: 0.0000
+Token: ' movie' (ID: 5700), Prob: 0.0000
+Token: ' annual' (ID: 9775), Prob: 0.0000
+Token: ' actor' (ID: 12089), Prob: 0.0000
+Token: ' y' (ID: 379), Prob: 0.0000
+Token: ' he' (ID: 566), Prob: 0.0000
+Token: ' interview' (ID: 7128), Prob: 0.0000
+Token: ' edition' (ID: 13688), Prob: 0.0000
+Token: ' summer' (ID: 7324), Prob: 0.0000
+Token: ' acting' (ID: 15358), Prob: 0.0000
+Token: ' show' (ID: 1473), Prob: 0.0000
+Token: ' family' (ID: 2997), Prob: 0.0000
+Token: ' the' (ID: 279), Prob: 0.0000
+Token: ' book' (ID: 2311), Prob: 0.0000
+Token: ' hour' (ID: 6460), Prob: 0.0000
+Token: ' tour' (ID: 7216), Prob: 0.0000
+Token: ' town' (ID: 6290), Prob: 0.0000
+Token: ' era' (ID: 11385), Prob: 0.0000
+Token: ' three' (ID: 2326), Prob: 0.0000
+Token: '-year' (ID: 4666), Prob: 0.0000
+Token: ' winter' (ID: 12406), Prob: 0.0000
+Token: ' theatrical' (ID: 65233), Prob: 0.0000
+Token: ' financial' (ID: 5896), Prob: 0.0000
+Token: ' UK' (ID: 6424), Prob: 0.0000
+Token: ' theatre' (ID: 33496), Prob: 0.0000
+Token: ' stage' (ID: 6430), Prob: 0.0000
+Token: ' theater' (ID: 26705), Prob: 0.0000
+Token: ' studio' (ID: 14029), Prob: 0.0000
+Token: ' fictional' (ID: 43582), Prob: 0.0000
+Token: ' night' (ID: 3729), Prob: 0.0000
+Token: ' academic' (ID: 14250), Prob: 0.0000
+Token: ' broadcasting' (ID: 48827), Prob: 0.0000
+Token: ' act' (ID: 1160), Prob: 0.0000
+Token: ' region' (ID: 5537), Prob: 0.0000
+Token: ' place' (ID: 1992), Prob: 0.0000
+Token: ' subsequent' (ID: 17420), Prob: 0.0000
+Token: ' musical' (ID: 17795), Prob: 0.0000
+Token: ' part' (ID: 949), Prob: 0.0000
+Token: ' radio' (ID: 8887), Prob: 0.0000
+Token: ' work' (ID: 975), Prob: 0.0000
+Token: ' months' (ID: 3951), Prob: 0.0000
+Token: ' fiscal' (ID: 19743), Prob: 0.0000
+Token: ' as' (ID: 438), Prob: 0.0000
+Token: ' release' (ID: 4879), Prob: 0.0000
+Token: ' appearance' (ID: 11094), Prob: 0.0000
+Token: ' filming' (ID: 38870), Prob: 0.0000
+Token: ' house' (ID: 3753), Prob: 0.0000
+Token: ' bi' (ID: 6032), Prob: 0.0000
 
 == Ranked Concepts (Clusters) ==
-Rank 1 | Centroid: ' faced' | Score: 0.0008
-  Tokens: [' faced', ' facing', ' face']
-Rank 2 | Centroid: ' choice' | Score: 0.0007
-  Tokens: [' choosing', ' choice', ' chosen', ' choices']
-Rank 3 | Centroid: ' within' | Score: 0.0004
-  Tokens: [' within', ' among', ' around', ' inside', ' upon', ' towards']
-Rank 4 | Centroid: ' involving' | Score: 0.0002
-  Tokens: [' regarding', ' involving', ' affecting']
-Rank 5 | Centroid: ' taking' | Score: 0.0001
-  Tokens: [' showing', ' trying', ' using', ' taking', ' turning']
-Rank 6 | Centroid: ' compared' | Score: 0.0001
-  Tokens: [' versus', ' comparing', ' compared']
-Rank 7 | Centroid: ' moment' | Score: 0.0001
-  Tokens: [' moment', ' right', ' point']
-Rank 8 | Centroid: ' decided' | Score: 0.0001
-  Tokens: [' deciding', ' decision', ' decided']
-Rank 9 | Centroid: ' whether' | Score: 0.0001
-  Tokens: [' whether', ' either']
-Rank 10 | Centroid: ' caused' | Score: 0.0000
-  Tokens: [' due', ' presented', ' caused', ' posed', ' based']
-Rank 11 | Centroid: ' without' | Score: 0.0000
-  Tokens: [' without']
-Rank 12 | Centroid: ' leading' | Score: 0.0000
-  Tokens: [' leading', ' causing']
-Rank 13 | Centroid: ' early' | Score: 0.0000
-  Tokens: [' parents', ' later', ' early']
-Rank 14 | Centroid: ' instead' | Score: 0.0000
-  Tokens: [' instead', ' rather']
+Rank 1 | Centroid: ' year' | Score: 1.0000
+  Tokens: [' year', ' years', 'year', ' Year', ' annual', '-year', ' months']
+Rank 2 | Centroid: ' episode' | Score: 0.0002
+  Tokens: [' series', ' episode', ' interview', ' edition']
+Rank 3 | Centroid: ' week' | Score: 0.0001
+  Tokens: [' month', ' week', ' day', ' hour', ' night']
+Rank 4 | Centroid: ' era' | Score: 0.0001
+  Tokens: [' period', ' era', ' stage']
+Rank 5 | Centroid: ' decade' | Score: 0.0001
+  Tokens: [' decade', ' century']
+Rank 6 | Centroid: ' summer' | Score: 0.0001
+  Tokens: [' season', ' calendar', ' summer', ' winter']
+Rank 7 | Centroid: ' television' | Score: 0.0000
+  Tokens: [' television', ' BBC', ' TV', ' broadcast', ' broadcasting', ' radio']
+Rank 8 | Centroid: ' role' | Score: 0.0000
+  Tokens: [' role', ' way']
+Rank 9 | Centroid: ' film' | Score: 0.0000
+  Tokens: [' film', ' movie', ' filming']
+Rank 10 | Centroid: ' city' | Score: 0.0000
+  Tokens: [' country', ' city', ' family', ' town', ' region', ' place', ' house']
+Rank 11 | Centroid: ' financial' | Score: 0.0000
+  Tokens: [' production', ' financial', ' fictional', ' academic', ' subsequent', ' musical', ' fiscal', ' release', ' appearance']
+Rank 12 | Centroid: ' the' | Score: 0.0000
+  Tokens: [' time', ' two', ' and', ' y', ' he', ' show', ' the', ' three', ' part', ' work', ' as', ' bi']
+Rank 13 | Centroid: ' acting' | Score: 0.0000
+  Tokens: [' actor', ' acting', ' act']
+Rank 14 | Centroid: ' theatre' | Score: 0.0000
+  Tokens: [' theatrical', ' theatre', ' theater']
+Rank 15 | Centroid: ' tour' | Score: 0.0000
+  Tokens: [' tour', ' studio']
+Rank 16 | Centroid: ' play' | Score: 0.0000
+  Tokens: [' play']
+Rank 17 | Centroid: ' book' | Score: 0.0000
+  Tokens: [' book']
+Rank 18 | Centroid: ' UK' | Score: 0.0000
+  Tokens: [' UK']
 
 **Chosen Concept:** Rank 1

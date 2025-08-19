@@ -1,107 +1,108 @@
 --- Step 59 Log ---
 
 == Filtered Candidates ==
-Token: 'Possible' (ID: 65222), Prob: 0.3086
-Token: 'Option' (ID: 5341), Prob: 0.2129
-Token: 'First' (ID: 5338), Prob: 0.1138
-Token: 'Poss' (ID: 82629), Prob: 0.0608
-Token: 'Maybe' (ID: 21390), Prob: 0.0417
-Token: 'Original' (ID: 18395), Prob: 0.0154
-Token: 'Hmm' (ID: 80022), Prob: 0.0154
-Token: 'One' (ID: 3966), Prob: 0.0093
-Token: 'Let' (ID: 10061), Prob: 0.0093
-Token: 'Common' (ID: 10839), Prob: 0.0082
-Token: 'Perhaps' (ID: 31476), Prob: 0.0064
-Token: 'Potential' (ID: 95611), Prob: 0.0057
-Token: 'Two' (ID: 11613), Prob: 0.0044
-Token: 'Options' (ID: 3798), Prob: 0.0030
-Token: 'Thinking' (ID: 93945), Prob: 0.0025
-Token: 'Since' (ID: 12549), Prob: 0.0024
-Token: 'Wait' (ID: 14190), Prob: 0.0020
-Token: 'Well' (ID: 11395), Prob: 0.0014
-Token: 'Probably' (ID: 69453), Prob: 0.0013
-Token: 'Looking' (ID: 22464), Prob: 0.0013
-Token: 'Scenario' (ID: 54031), Prob: 0.0012
-Token: 'Person' (ID: 10680), Prob: 0.0010
-Token: 'Starting' (ID: 24617), Prob: 0.0009
-Token: 'Either' (ID: 49244), Prob: 0.0009
-Token: 'User' (ID: 1474), Prob: 0.0009
-Token: 'Main' (ID: 6202), Prob: 0.0006
-Token: 'Start' (ID: 3479), Prob: 0.0005
-Token: 'Thought' (ID: 84169), Prob: 0.0005
-Token: 'Scene' (ID: 10019), Prob: 0.0004
-Token: 'Traditional' (ID: 84682), Prob: 0.0004
-Token: 'Action' (ID: 2512), Prob: 0.0004
-Token: 'Story' (ID: 17938), Prob: 0.0004
-Token: 'Ass' (ID: 5615), Prob: 0.0004
-Token: 'Considering' (ID: 82796), Prob: 0.0004
-Token: 'Initially' (ID: 89984), Prob: 0.0003
-Token: 'Typ' (ID: 12834), Prob: 0.0003
-Token: 'Think' (ID: 38687), Prob: 0.0003
-Token: 'Alternatively' (ID: 92014), Prob: 0.0003
-Token: 'Time' (ID: 1462), Prob: 0.0003
-Token: 'Could' (ID: 12895), Prob: 0.0003
-Token: 'Old' (ID: 18284), Prob: 0.0003
-Token: 'Natural' (ID: 54281), Prob: 0.0003
-Token: 'Setting' (ID: 15400), Prob: 0.0003
-Token: 'People' (ID: 15919), Prob: 0.0003
-Token: 'Alternative' (ID: 75763), Prob: 0.0002
-Token: 'Plot' (ID: 25605), Prob: 0.0002
-Token: 'Popular' (ID: 58452), Prob: 0.0002
-Token: 'Amb' (ID: 54032), Prob: 0.0002
-Token: 'Appro' (ID: 28588), Prob: 0.0002
-Token: 'Another' (ID: 14037), Prob: 0.0002
-Token: 'Friend' (ID: 41637), Prob: 0.0002
-Token: ' Possible' (ID: 36107), Prob: 0.0002
-Token: 'Choice' (ID: 24728), Prob: 0.0002
-Token: 'Immediate' (ID: 52734), Prob: 0.0002
-Token: 'Choices' (ID: 89283), Prob: 0.0002
-Token: 'Initial' (ID: 6341), Prob: 0.0001
-Token: 'Stories' (ID: 92431), Prob: 0.0001
-Token: 'Imagine' (ID: 51057), Prob: 0.0001
-Token: 'Three' (ID: 19641), Prob: 0.0001
-Token: 'Susp' (ID: 94149), Prob: 0.0001
+Token: ' the' (ID: 279), Prob: 0.4043
+Token: ' addition' (ID: 5256), Prob: 0.0015
+Token: ' his' (ID: 806), Prob: 0.0005
+Token: ' this' (ID: 419), Prob: 0.0004
+Token: ' that' (ID: 429), Prob: 0.0004
+Token: ' January' (ID: 6058), Prob: 0.0004
+Token: ' a' (ID: 264), Prob: 0.0003
+Token: ' March' (ID: 5470), Prob: 0.0003
+Token: ' another' (ID: 2441), Prob: 0.0003
+Token: ' April' (ID: 5813), Prob: 0.0003
+Token: ' October' (ID: 6527), Prob: 0.0002
+Token: ' The' (ID: 576), Prob: 0.0002
+Token: ' July' (ID: 5768), Prob: 0.0002
+Token: ' February' (ID: 7400), Prob: 0.0002
+Token: ' May' (ID: 3217), Prob: 0.0002
+Token: ' November' (ID: 6702), Prob: 0.0002
+Token: ' other' (ID: 1008), Prob: 0.0001
+Token: ' June' (ID: 5534), Prob: 0.0001
+Token: ' September' (ID: 6122), Prob: 0.0001
+Token: ' December' (ID: 6652), Prob: 0.0001
+Token: ' August' (ID: 6156), Prob: 0.0001
+Token: ' an' (ID: 458), Prob: 0.0001
+Token: ' which' (ID: 892), Prob: 0.0001
+Token: '2' (ID: 17), Prob: 0.0001
+Token: ' B' (ID: 425), Prob: 0.0000
+Token: ' later' (ID: 2937), Prob: 0.0000
+Token: ' late' (ID: 3309), Prob: 0.0000
+Token: ' one' (ID: 825), Prob: 0.0000
+Token: ' what' (ID: 1128), Prob: 0.0000
+Token: ' fact' (ID: 2097), Prob: 0.0000
+Token: ' early' (ID: 4124), Prob: 0.0000
+Token: '1' (ID: 16), Prob: 0.0000
+Token: ' each' (ID: 1817), Prob: 0.0000
+Token: ' BBC' (ID: 18096), Prob: 0.0000
+Token: ' in' (ID: 304), Prob: 0.0000
+Token: ' more' (ID: 803), Prob: 0.0000
+Token: ' these' (ID: 1493), Prob: 0.0000
+Token: ' television' (ID: 12425), Prob: 0.0000
+Token: ' some' (ID: 1045), Prob: 0.0000
+Token: ' twenty' (ID: 17073), Prob: 0.0000
+Token: ' all' (ID: 678), Prob: 0.0000
+Token: ' contrast' (ID: 12872), Prob: 0.0000
+Token: ' both' (ID: 2176), Prob: 0.0000
+Token: ' short' (ID: 2805), Prob: 0.0000
+Token: ' also' (ID: 1083), Prob: 0.0000
+Token: ' subsequent' (ID: 17420), Prob: 0.0000
+Token: ' year' (ID: 1042), Prob: 0.0000
+Token: ' two' (ID: 1378), Prob: 0.0000
+Token: ' and' (ID: 323), Prob: 0.0000
+Token: ' he' (ID: 566), Prob: 0.0000
+Token: ' order' (ID: 1973), Prob: 0.0000
+Token: ' film' (ID: 4531), Prob: 0.0000
+Token: ' A' (ID: 362), Prob: 0.0000
+Token: ' between' (ID: 1948), Prob: 0.0000
+Token: ' summary' (ID: 12126), Prob: 0.0000
+Token: ' In' (ID: 758), Prob: 0.0000
+Token: ' same' (ID: 1852), Prob: 0.0000
+Token: ' different' (ID: 2155), Prob: 0.0000
+Token: ' various' (ID: 5257), Prob: 0.0000
+Token: ' spite' (ID: 33681), Prob: 0.0000
+Token: ' their' (ID: 862), Prob: 0.0000
+Token: ' mid' (ID: 5099), Prob: 0.0000
+Token: ' England' (ID: 9448), Prob: 0.0000
+Token: ' recent' (ID: 3213), Prob: 0.0000
+Token: ' summer' (ID: 7324), Prob: 0.0000
+Token: ' around' (ID: 2163), Prob: 0.0000
+Token: ' either' (ID: 2987), Prob: 0.0000
+Token: ' may' (ID: 1231), Prob: 0.0000
+Token: ' London' (ID: 7148), Prob: 0.0000
+Token: ' British' (ID: 7855), Prob: 0.0000
+Token: 'the' (ID: 1782), Prob: 0.0000
+Token: ' those' (ID: 1846), Prob: 0.0000
+Token: ' collaboration' (ID: 20031), Prob: 0.0000
+Token: ' total' (ID: 2790), Prob: 0.0000
+Token: ' Year' (ID: 9742), Prob: 0.0000
 
 == Ranked Concepts (Clusters) ==
-Rank 1 | Centroid: 'Possible' | Score: 0.3750
-  Tokens: ['Possible', 'Poss', 'Potential', ' Possible']
-Rank 2 | Centroid: 'Options' | Score: 0.2158
-  Tokens: ['Option', 'Options', 'Choice', 'Choices']
-Rank 3 | Centroid: 'Two' | Score: 0.1279
-  Tokens: ['First', 'One', 'Two', 'Three']
-Rank 4 | Centroid: 'Perhaps' | Score: 0.0508
-  Tokens: ['Maybe', 'Perhaps', 'Probably', 'Either', 'Could']
-Rank 5 | Centroid: 'Initial' | Score: 0.0160
-  Tokens: ['Original', 'Initially', 'Immediate', 'Initial']
-Rank 6 | Centroid: 'Hmm' | Score: 0.0156
-  Tokens: ['Hmm', 'Amb', 'Susp']
-Rank 7 | Centroid: 'Let' | Score: 0.0140
-  Tokens: ['Let', 'Since', 'Wait', 'Ass']
-Rank 8 | Centroid: 'Common' | Score: 0.0091
-  Tokens: ['Common', 'Main', 'Old']
-Rank 9 | Centroid: 'Thinking' | Score: 0.0033
-  Tokens: ['Thinking', 'Thought', 'Think']
-Rank 10 | Centroid: 'Person' | Score: 0.0021
-  Tokens: ['Person', 'User', 'People']
-Rank 11 | Centroid: 'Scene' | Score: 0.0021
-  Tokens: ['Scenario', 'Scene', 'Setting', 'Plot']
-Rank 12 | Centroid: 'Considering' | Score: 0.0018
-  Tokens: ['Looking', 'Considering', 'Imagine']
-Rank 13 | Centroid: 'Well' | Score: 0.0017
-  Tokens: ['Well', 'Typ']
-Rank 14 | Centroid: 'Starting' | Score: 0.0014
-  Tokens: ['Starting', 'Start']
-Rank 15 | Centroid: 'Traditional' | Score: 0.0009
-  Tokens: ['Traditional', 'Natural', 'Popular']
-Rank 16 | Centroid: 'Alternatively' | Score: 0.0007
-  Tokens: ['Alternatively', 'Alternative', 'Another']
-Rank 17 | Centroid: 'Action' | Score: 0.0007
-  Tokens: ['Action', 'Time']
-Rank 18 | Centroid: 'Story' | Score: 0.0005
-  Tokens: ['Story', 'Stories']
-Rank 19 | Centroid: 'Appro' | Score: 0.0002
-  Tokens: ['Appro']
-Rank 20 | Centroid: 'Friend' | Score: 0.0002
-  Tokens: ['Friend']
+Rank 1 | Centroid: ' the' | Score: 0.4062
+  Tokens: [' the', ' that', ' a', ' The', ' an', ' which', '2', ' B', '1', ' in', ' all', ' and', ' A', ' In', 'the']
+Rank 2 | Centroid: ' February' | Score: 0.0023
+  Tokens: [' January', ' March', ' April', ' October', ' July', ' February', ' May', ' November', ' June', ' September', ' December', ' August']
+Rank 3 | Centroid: ' addition' | Score: 0.0015
+  Tokens: [' addition', ' fact', ' contrast', ' order', ' summary', ' spite', ' collaboration']
+Rank 4 | Centroid: ' his' | Score: 0.0005
+  Tokens: [' his', ' he']
+Rank 5 | Centroid: ' two' | Score: 0.0005
+  Tokens: [' another', ' other', ' one', ' more', ' also', ' two', ' different', ' various']
+Rank 6 | Centroid: ' this' | Score: 0.0004
+  Tokens: [' this', ' what', ' these', ' some', ' their', ' those']
+Rank 7 | Centroid: ' British' | Score: 0.0001
+  Tokens: [' BBC', ' television', ' twenty', ' film', ' England', ' London', ' British']
+Rank 8 | Centroid: ' late' | Score: 0.0001
+  Tokens: [' late', ' early', ' mid']
+Rank 9 | Centroid: ' subsequent' | Score: 0.0001
+  Tokens: [' later', ' subsequent', ' recent']
+Rank 10 | Centroid: ' both' | Score: 0.0001
+  Tokens: [' each', ' both', ' between', ' around', ' either']
+Rank 11 | Centroid: ' total' | Score: 0.0000
+  Tokens: [' short', ' same', ' total']
+Rank 12 | Centroid: ' year' | Score: 0.0000
+  Tokens: [' year', ' summer', ' Year']
+Rank 13 | Centroid: ' may' | Score: 0.0000
+  Tokens: [' may']
 
 **Chosen Concept:** Rank 1

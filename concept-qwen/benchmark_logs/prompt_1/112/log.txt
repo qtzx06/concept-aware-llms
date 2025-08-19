@@ -1,0 +1,115 @@
+--- Step 112 Log ---
+
+== Filtered Candidates ==
+Token: ' Crown' (ID: 28643), Prob: 1.0000
+Token: ' Crow' (ID: 26893), Prob: 0.0000
+Token: ' King' (ID: 6210), Prob: 0.0000
+Token: ' crown' (ID: 26533), Prob: 0.0000
+Token: ' Kingdom' (ID: 15072), Prob: 0.0000
+Token: ' Queen' (ID: 16259), Prob: 0.0000
+Token: ' Coron' (ID: 47083), Prob: 0.0000
+Token: ' Prince' (ID: 19351), Prob: 0.0000
+Token: ' Thick' (ID: 81277), Prob: 0.0000
+Token: ' Royal' (ID: 16194), Prob: 0.0000
+Token: ' Corporation' (ID: 13034), Prob: 0.0000
+Token: ' Last' (ID: 7996), Prob: 0.0000
+Token: ' Count' (ID: 4504), Prob: 0.0000
+Token: ' Show' (ID: 6928), Prob: 0.0000
+Token: ' Championship' (ID: 18621), Prob: 0.0000
+Token: ' Cor' (ID: 4463), Prob: 0.0000
+Token: ' Crowd' (ID: 97984), Prob: 0.0000
+Token: ' Crew' (ID: 34937), Prob: 0.0000
+Token: ' Fourth' (ID: 35074), Prob: 0.0000
+Token: ' C' (ID: 356), Prob: 0.0000
+Token: ' Ring' (ID: 21525), Prob: 0.0000
+Token: ' Council' (ID: 9074), Prob: 0.0000
+Token: ' United' (ID: 3639), Prob: 0.0000
+Token: ' Crest' (ID: 70441), Prob: 0.0000
+Token: ' Second' (ID: 10440), Prob: 0.0000
+Token: ' Duke' (ID: 26356), Prob: 0.0000
+Token: ' Corona' (ID: 60229), Prob: 0.0000
+Token: ' Majesty' (ID: 66244), Prob: 0.0000
+Token: ' First' (ID: 5512), Prob: 0.0000
+Token: ' Nation' (ID: 17227), Prob: 0.0000
+Token: ' Lion' (ID: 32099), Prob: 0.0000
+Token: ' House' (ID: 4678), Prob: 0.0000
+Token: ' Golden' (ID: 17809), Prob: 0.0000
+Token: ' Sixth' (ID: 66977), Prob: 0.0000
+Token: ' Sovere' (ID: 88221), Prob: 0.0000
+Token: ' One' (ID: 3776), Prob: 0.0000
+Token: ' Country' (ID: 14106), Prob: 0.0000
+Token: ' Pride' (ID: 42146), Prob: 0.0000
+Token: ' New' (ID: 1532), Prob: 0.0000
+Token: ' Square' (ID: 15619), Prob: 0.0000
+Token: ' Third' (ID: 20861), Prob: 0.0000
+Token: ' Raven' (ID: 45107), Prob: 0.0000
+Token: ' Best' (ID: 7107), Prob: 0.0000
+Token: ' Netherlands' (ID: 25662), Prob: 0.0000
+Token: ' Cruc' (ID: 75004), Prob: 0.0000
+Token: ' Trump' (ID: 3339), Prob: 0.0000
+Token: ' Empire' (ID: 20448), Prob: 0.0000
+Token: ' Commonwealth' (ID: 37198), Prob: 0.0000
+Token: 'Crow' (ID: 93926), Prob: 0.0000
+Token: ' White' (ID: 5807), Prob: 0.0000
+Token: ' War' (ID: 5004), Prob: 0.0000
+Token: ' Court' (ID: 7154), Prob: 0.0000
+Token: ' Title' (ID: 10869), Prob: 0.0000
+Token: ' Navy' (ID: 19036), Prob: 0.0000
+Token: ' Frank' (ID: 9270), Prob: 0.0000
+Token: ' Kings' (ID: 24019), Prob: 0.0000
+Token: ' Covenant' (ID: 62941), Prob: 0.0000
+Token: ' President' (ID: 4795), Prob: 0.0000
+Token: ' Sun' (ID: 8059), Prob: 0.0000
+Token: ' Watch' (ID: 10357), Prob: 0.0000
+Token: ' Late' (ID: 35831), Prob: 0.0000
+Token: ' Republic' (ID: 5429), Prob: 0.0000
+
+== Ranked Concepts (Clusters) ==
+Rank 1 | Centroid: ' Crown' | Score: 1.0000
+  Tokens: [' Crown', ' crown']
+Rank 2 | Centroid: ' King' | Score: 0.0000
+  Tokens: [' King', ' Kingdom', ' Queen', ' Prince', ' Royal', ' Kings']
+Rank 3 | Centroid: 'Crow' | Score: 0.0000
+  Tokens: [' Crow', ' Crowd', 'Crow']
+Rank 4 | Centroid: ' Cor' | Score: 0.0000
+  Tokens: [' Coron', ' Corporation', ' Cor', ' Corona']
+Rank 5 | Centroid: ' Thick' | Score: 0.0000
+  Tokens: [' Thick', ' Raven']
+Rank 6 | Centroid: ' One' | Score: 0.0000
+  Tokens: [' Show', ' C', ' First', ' One', ' New']
+Rank 7 | Centroid: ' Third' | Score: 0.0000
+  Tokens: [' Fourth', ' Second', ' Sixth', ' Third']
+Rank 8 | Centroid: ' Council' | Score: 0.0000
+  Tokens: [' Championship', ' Council', ' Court']
+Rank 9 | Centroid: ' United' | Score: 0.0000
+  Tokens: [' United', ' Netherlands', ' Empire', ' Commonwealth', ' Republic']
+Rank 10 | Centroid: ' Last' | Score: 0.0000
+  Tokens: [' Last', ' Best', ' Late']
+Rank 11 | Centroid: ' Count' | Score: 0.0000
+  Tokens: [' Count', ' Watch']
+Rank 12 | Centroid: ' Trump' | Score: 0.0000
+  Tokens: [' Crest', ' Square', ' Trump']
+Rank 13 | Centroid: ' Crew' | Score: 0.0000
+  Tokens: [' Crew', ' Covenant']
+Rank 14 | Centroid: ' Majesty' | Score: 0.0000
+  Tokens: [' Majesty', ' Sovere']
+Rank 15 | Centroid: ' President' | Score: 0.0000
+  Tokens: [' House', ' Title', ' President']
+Rank 16 | Centroid: ' Nation' | Score: 0.0000
+  Tokens: [' Nation', ' Country']
+Rank 17 | Centroid: ' Lion' | Score: 0.0000
+  Tokens: [' Lion', ' Pride']
+Rank 18 | Centroid: ' Sun' | Score: 0.0000
+  Tokens: [' White', ' War', ' Sun']
+Rank 19 | Centroid: ' Golden' | Score: 0.0000
+  Tokens: [' Golden', ' Frank']
+Rank 20 | Centroid: ' Ring' | Score: 0.0000
+  Tokens: [' Ring']
+Rank 21 | Centroid: ' Duke' | Score: 0.0000
+  Tokens: [' Duke']
+Rank 22 | Centroid: ' Cruc' | Score: 0.0000
+  Tokens: [' Cruc']
+Rank 23 | Centroid: ' Navy' | Score: 0.0000
+  Tokens: [' Navy']
+
+**Chosen Concept:** Rank 1

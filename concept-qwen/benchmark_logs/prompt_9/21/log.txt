@@ -1,0 +1,124 @@
+--- Step 21 Log ---
+
+== Filtered Candidates ==
+Token: ' son' (ID: 4438), Prob: 0.3594
+Token: ' eldest' (ID: 73565), Prob: 0.2793
+Token: ' first' (ID: 1156), Prob: 0.0908
+Token: ' second' (ID: 2086), Prob: 0.0486
+Token: ' only' (ID: 1172), Prob: 0.0430
+Token: ' third' (ID: 4843), Prob: 0.0430
+Token: ' youngest' (ID: 38537), Prob: 0.0260
+Token: ' fourth' (ID: 11737), Prob: 0.0179
+Token: ' oldest' (ID: 23513), Prob: 0.0140
+Token: ' seventh' (ID: 30387), Prob: 0.0066
+Token: ' elder' (ID: 22130), Prob: 0.0058
+Token: ' younger' (ID: 14650), Prob: 0.0045
+Token: ' sixth' (ID: 25031), Prob: 0.0045
+Token: ' last' (ID: 1537), Prob: 0.0040
+Token: ' eighth' (ID: 36377), Prob: 0.0040
+Token: ' most' (ID: 1429), Prob: 0.0031
+Token: ' child' (ID: 1682), Prob: 0.0031
+Token: ' fifth' (ID: 17702), Prob: 0.0031
+Token: ' grandson' (ID: 65855), Prob: 0.0027
+Token: ' middle' (ID: 6149), Prob: 0.0019
+Token: ' fif' (ID: 11128), Prob: 0.0019
+Token: ' nephew' (ID: 62804), Prob: 0.0017
+Token: ' older' (ID: 9014), Prob: 0.0015
+Token: ' ninth' (ID: 42541), Prob: 0.0015
+Token: ' tenth' (ID: 55666), Prob: 0.0015
+Token: ' poet' (ID: 39260), Prob: 0.0010
+Token: ' descendant' (ID: 75851), Prob: 0.0010
+Token: ' daughter' (ID: 9803), Prob: 0.0009
+Token: ' brother' (ID: 10641), Prob: 0.0007
+Token: ' founder' (ID: 18996), Prob: 0.0007
+Token: ' head' (ID: 1968), Prob: 0.0005
+Token: ' father' (ID: 6981), Prob: 0.0005
+Token: ' official' (ID: 3946), Prob: 0.0004
+Token: ' subject' (ID: 3832), Prob: 0.0004
+Token: ' great' (ID: 2244), Prob: 0.0003
+Token: ' senior' (ID: 9990), Prob: 0.0003
+Token: ' best' (ID: 1850), Prob: 0.0003
+Token: ' same' (ID: 1852), Prob: 0.0003
+Token: ' adopted' (ID: 17827), Prob: 0.0003
+Token: ' earliest' (ID: 29658), Prob: 0.0003
+Token: ' favorite' (ID: 6930), Prob: 0.0002
+Token: ' scholar' (ID: 18145), Prob: 0.0002
+Token: ' heir' (ID: 50443), Prob: 0.0002
+Token: ' ele' (ID: 10510), Prob: 0.0002
+Token: ' tw' (ID: 4384), Prob: 0.0002
+Token: ' sc' (ID: 1136), Prob: 0.0002
+Token: ' cousin' (ID: 35171), Prob: 0.0001
+Token: ' emperor' (ID: 56783), Prob: 0.0001
+Token: ' one' (ID: 825), Prob: 0.0001
+Token: ' sons' (ID: 25350), Prob: 0.0001
+Token: ' name' (ID: 829), Prob: 0.0001
+Token: ' progen' (ID: 83260), Prob: 0.0001
+Token: ' pen' (ID: 5750), Prob: 0.0001
+Token: ' chief' (ID: 10178), Prob: 0.0001
+Token: ' grand' (ID: 6662), Prob: 0.0001
+Token: ' illeg' (ID: 28967), Prob: 0.0001
+Token: ' literary' (ID: 31365), Prob: 0.0001
+Token: ' leader' (ID: 7653), Prob: 0.0001
+Token: ' governor' (ID: 19044), Prob: 0.0001
+Token: ' patron' (ID: 35280), Prob: 0.0001
+Token: ' master' (ID: 7341), Prob: 0.0001
+Token: ' family' (ID: 2997), Prob: 0.0001
+Token: ' four' (ID: 3040), Prob: 0.0001
+Token: ' clever' (ID: 27699), Prob: 0.0001
+Token: ' center' (ID: 4126), Prob: 0.0001
+Token: ' names' (ID: 5036), Prob: 0.0001
+Token: ' famous' (ID: 11245), Prob: 0.0001
+Token: ' successor' (ID: 33565), Prob: 0.0001
+Token: ' author' (ID: 3150), Prob: 0.0001
+Token: ' junior' (ID: 26052), Prob: 0.0001
+Token: ' children' (ID: 2841), Prob: 0.0001
+Token: ' leading' (ID: 6388), Prob: 0.0001
+Token: ' grandfather' (ID: 37850), Prob: 0.0001
+Token: ' capital' (ID: 6722), Prob: 0.0001
+Token: ' greatest' (ID: 12196), Prob: 0.0001
+Token: ' favored' (ID: 45503), Prob: 0.0001
+Token: ' largest' (ID: 7772), Prob: 0.0001
+Token: ' ruler' (ID: 47980), Prob: 0.0001
+Token: ' boy' (ID: 8171), Prob: 0.0001
+Token: ' sole' (ID: 13309), Prob: 0.0001
+Token: ' devoted' (ID: 28229), Prob: 0.0001
+
+== Ranked Concepts (Clusters) ==
+Rank 1 | Centroid: ' sons' | Score: 0.3633
+  Tokens: [' son', ' child', ' daughter', ' sons', ' children', ' boy']
+Rank 2 | Centroid: ' oldest' | Score: 0.3203
+  Tokens: [' eldest', ' youngest', ' oldest', ' earliest']
+Rank 3 | Centroid: ' one' | Score: 0.1387
+  Tokens: [' first', ' only', ' last', ' same', ' one', ' four']
+Rank 4 | Centroid: ' fifth' | Score: 0.0840
+  Tokens: [' third', ' fourth', ' seventh', ' sixth', ' eighth', ' fifth', ' fif', ' ninth', ' tenth']
+Rank 5 | Centroid: ' second' | Score: 0.0486
+  Tokens: [' second']
+Rank 6 | Centroid: ' older' | Score: 0.0122
+  Tokens: [' elder', ' younger', ' older', ' senior', ' junior']
+Rank 7 | Centroid: ' grandson' | Score: 0.0056
+  Tokens: [' grandson', ' nephew', ' brother', ' father', ' grandfather']
+Rank 8 | Centroid: ' greatest' | Score: 0.0035
+  Tokens: [' most', ' best', ' greatest', ' largest']
+Rank 9 | Centroid: ' poet' | Score: 0.0027
+  Tokens: [' poet', ' founder', ' scholar', ' emperor', ' chief', ' literary', ' leader', ' governor', ' author', ' capital', ' ruler']
+Rank 10 | Centroid: ' middle' | Score: 0.0019
+  Tokens: [' middle']
+Rank 11 | Centroid: ' descendant' | Score: 0.0016
+  Tokens: [' descendant', ' heir', ' cousin', ' progen', ' successor']
+Rank 12 | Centroid: ' leading' | Score: 0.0011
+  Tokens: [' head', ' subject', ' center', ' leading']
+Rank 13 | Centroid: ' clever' | Score: 0.0010
+  Tokens: [' official', ' adopted', ' patron', ' clever', ' devoted']
+Rank 14 | Centroid: ' ele' | Score: 0.0006
+  Tokens: [' ele', ' tw', ' pen', ' illeg']
+Rank 15 | Centroid: ' grand' | Score: 0.0005
+  Tokens: [' great', ' grand', ' master']
+Rank 16 | Centroid: ' favorite' | Score: 0.0004
+  Tokens: [' favorite', ' famous', ' favored']
+Rank 17 | Centroid: ' name' | Score: 0.0003
+  Tokens: [' name', ' family', ' names']
+Rank 18 | Centroid: ' sc' | Score: 0.0002
+  Tokens: [' sc', ' sole']
+
+**Chosen Concept:** Rank 1

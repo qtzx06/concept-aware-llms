@@ -1,0 +1,126 @@
+--- Step 70 Log ---
+
+== Filtered Candidates ==
+Token: ' as' (ID: 438), Prob: 0.8516
+Token: ' for' (ID: 369), Prob: 0.1299
+Token: ' by' (ID: 553), Prob: 0.0156
+Token: ' in' (ID: 304), Prob: 0.0027
+Token: ' to' (ID: 311), Prob: 0.0010
+Token: ' today' (ID: 3351), Prob: 0.0002
+Token: ' internationally' (ID: 36445), Prob: 0.0000
+Token: ' historically' (ID: 34801), Prob: 0.0000
+Token: ' the' (ID: 279), Prob: 0.0000
+Token: ' among' (ID: 4221), Prob: 0.0000
+Token: ' collectively' (ID: 44825), Prob: 0.0000
+Token: ' from' (ID: 504), Prob: 0.0000
+Token: ' under' (ID: 1212), Prob: 0.0000
+Token: ' at' (ID: 518), Prob: 0.0000
+Token: ' post' (ID: 1736), Prob: 0.0000
+Token: ' on' (ID: 389), Prob: 0.0000
+Token: ' during' (ID: 2337), Prob: 0.0000
+Token: ' and' (ID: 323), Prob: 0.0000
+Token: ' various' (ID: 5257), Prob: 0.0000
+Token: ' a' (ID: 264), Prob: 0.0000
+Token: ' with' (ID: 448), Prob: 0.0000
+Token: ' simply' (ID: 4936), Prob: 0.0000
+Token: ' throughout' (ID: 6814), Prob: 0.0000
+Token: ' personally' (ID: 15726), Prob: 0.0000
+Token: ' more' (ID: 803), Prob: 0.0000
+Token: ' through' (ID: 1526), Prob: 0.0000
+Token: ' collo' (ID: 80948), Prob: 0.0000
+Token: ' of' (ID: 315), Prob: 0.0000
+Token: ' because' (ID: 1576), Prob: 0.0000
+Token: ' sometimes' (ID: 7025), Prob: 0.0000
+Token: ' his' (ID: 806), Prob: 0.0000
+Token: ' commonly' (ID: 16626), Prob: 0.0000
+Token: ' affection' (ID: 36705), Prob: 0.0000
+Token: ' inform' (ID: 6051), Prob: 0.0000
+Token: ' generally' (ID: 8789), Prob: 0.0000
+Token: ' after' (ID: 1283), Prob: 0.0000
+Token: ' worldwide' (ID: 15245), Prob: 0.0000
+Token: ' alternatively' (ID: 68387), Prob: 0.0000
+Token: ' widely' (ID: 13570), Prob: 0.0000
+Token: ' perhaps' (ID: 8365), Prob: 0.0000
+Token: ' respectively' (ID: 15576), Prob: 0.0000
+Token: ' popular' (ID: 5411), Prob: 0.0000
+Token: ' not' (ID: 537), Prob: 0.0000
+Token: ' professionally' (ID: 44929), Prob: 0.0000
+Token: ' an' (ID: 458), Prob: 0.0000
+Token: ' since' (ID: 2474), Prob: 0.0000
+Token: ' traditionally' (ID: 35242), Prob: 0.0000
+Token: ' is' (ID: 374), Prob: 0.0000
+Token: ' fond' (ID: 21208), Prob: 0.0000
+Token: ' differently' (ID: 21303), Prob: 0.0000
+Token: ' globally' (ID: 30450), Prob: 0.0000
+Token: ' when' (ID: 979), Prob: 0.0000
+Token: ' within' (ID: 2878), Prob: 0.0000
+Token: ' due' (ID: 4152), Prob: 0.0000
+Token: ' nowadays' (ID: 45777), Prob: 0.0000
+Token: ' or' (ID: 476), Prob: 0.0000
+Token: ' that' (ID: 429), Prob: 0.0000
+Token: ' formally' (ID: 36302), Prob: 0.0000
+Token: ' respectfully' (ID: 92345), Prob: 0.0000
+Token: ' later' (ID: 2937), Prob: 0.0000
+Token: ' alongside' (ID: 16263), Prob: 0.0000
+Token: ' now' (ID: 1431), Prob: 0.0000
+Token: ' across' (ID: 3941), Prob: 0.0000
+Token: ' outside' (ID: 4889), Prob: 0.0000
+Token: ' individually' (ID: 31299), Prob: 0.0000
+Token: ' locally' (ID: 23490), Prob: 0.0000
+Token: ' officially' (ID: 18562), Prob: 0.0000
+Token: ' especially' (ID: 5310), Prob: 0.0000
+Token: ' abroad' (ID: 22131), Prob: 0.0000
+Token: ' nationally' (ID: 39243), Prob: 0.0000
+Token: ' gener' (ID: 1766), Prob: 0.0000
+Token: ' often' (ID: 3545), Prob: 0.0000
+Token: ' primarily' (ID: 15503), Prob: 0.0000
+Token: ' both' (ID: 2176), Prob: 0.0000
+Token: ' known' (ID: 3881), Prob: 0.0000
+Token: 'as' (ID: 300), Prob: 0.0000
+Token: ' be' (ID: 387), Prob: 0.0000
+Token: ' according' (ID: 4092), Prob: 0.0000
+Token: ' however' (ID: 4764), Prob: 0.0000
+Token: 's' (ID: 82), Prob: 0.0000
+Token: ' only' (ID: 1172), Prob: 0.0000
+Token: 'for' (ID: 1958), Prob: 0.0000
+Token: ' via' (ID: 4566), Prob: 0.0000
+Token: ' upon' (ID: 5193), Prob: 0.0000
+Token: ' possibly' (ID: 10767), Prob: 0.0000
+
+== Ranked Concepts (Clusters) ==
+Rank 1 | Centroid: ' the' | Score: 0.1000
+  Tokens: [' as', ' for', ' by', ' in', ' to', ' the', ' from', ' at', ' on', ' and', ' a', ' with', ' more', ' of', ' not', ' an', ' is', ' when', ' or', ' that', ' be']
+Rank 2 | Centroid: ' nowadays' | Score: 0.0002
+  Tokens: [' today', ' nowadays', ' now']
+Rank 3 | Centroid: ' globally' | Score: 0.0000
+  Tokens: [' internationally', ' worldwide', ' globally', ' locally', ' nationally']
+Rank 4 | Centroid: ' through' | Score: 0.0000
+  Tokens: [' under', ' during', ' through', ' after', ' according', ' via', ' upon']
+Rank 5 | Centroid: ' often' | Score: 0.0000
+  Tokens: [' historically', ' sometimes', ' generally', ' traditionally', ' often', ' primarily']
+Rank 6 | Centroid: ' within' | Score: 0.0000
+  Tokens: [' among', ' throughout', ' within', ' alongside', ' across', ' outside', ' abroad']
+Rank 7 | Centroid: ' respectively' | Score: 0.0000
+  Tokens: [' collectively', ' alternatively', ' respectively', ' differently', ' respectfully', ' individually']
+Rank 8 | Centroid: ' various' | Score: 0.0000
+  Tokens: [' post', ' various', ' later']
+Rank 9 | Centroid: ' perhaps' | Score: 0.0000
+  Tokens: [' simply', ' perhaps', ' especially', ' however', ' possibly']
+Rank 10 | Centroid: ' officially' | Score: 0.0000
+  Tokens: [' personally', ' professionally', ' formally', ' officially']
+Rank 11 | Centroid: ' affection' | Score: 0.0000
+  Tokens: [' collo', ' affection', ' fond', ' gener']
+Rank 12 | Centroid: ' commonly' | Score: 0.0000
+  Tokens: [' commonly', ' widely', ' popular', ' known']
+Rank 13 | Centroid: ' because' | Score: 0.0000
+  Tokens: [' because', ' since', ' due', 'as', 'for']
+Rank 14 | Centroid: ' his' | Score: 0.0000
+  Tokens: [' his']
+Rank 15 | Centroid: ' inform' | Score: 0.0000
+  Tokens: [' inform']
+Rank 16 | Centroid: ' both' | Score: 0.0000
+  Tokens: [' both', ' only']
+Rank 17 | Centroid: 's' | Score: 0.0000
+  Tokens: ['s']
+
+**Chosen Concept:** Rank 1

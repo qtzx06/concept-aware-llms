@@ -1,0 +1,128 @@
+--- Step 53 Log ---
+
+== Filtered Candidates ==
+Token: ' literary' (ID: 31365), Prob: 0.8984
+Token: ' thought' (ID: 3381), Prob: 0.0396
+Token: ' literature' (ID: 17206), Prob: 0.0349
+Token: ' criticism' (ID: 18817), Prob: 0.0128
+Token: ' culture' (ID: 7674), Prob: 0.0037
+Token: ' liter' (ID: 6935), Prob: 0.0014
+Token: ' cultural' (ID: 12752), Prob: 0.0014
+Token: ' thinking' (ID: 7274), Prob: 0.0011
+Token: ' aesthetic' (ID: 36537), Prob: 0.0008
+Token: ' critical' (ID: 9023), Prob: 0.0007
+Token: ' aesthetics' (ID: 66223), Prob: 0.0007
+Token: ' scholarly' (ID: 62581), Prob: 0.0003
+Token: ' theory' (ID: 10126), Prob: 0.0003
+Token: ' scholarship' (ID: 33125), Prob: 0.0002
+Token: ' artistic' (ID: 31592), Prob: 0.0002
+Token: ' studies' (ID: 7822), Prob: 0.0002
+Token: ' philosophy' (ID: 19128), Prob: 0.0002
+Token: ' classical' (ID: 28824), Prob: 0.0002
+Token: ' art' (ID: 1947), Prob: 0.0001
+Token: ' lit' (ID: 13020), Prob: 0.0001
+Token: ' poetry' (ID: 31249), Prob: 0.0001
+Token: ' and' (ID: 323), Prob: 0.0001
+Token: ' views' (ID: 6194), Prob: 0.0001
+Token: ' practice' (ID: 6588), Prob: 0.0001
+Token: ' critics' (ID: 22698), Prob: 0.0001
+Token: ' poetic' (ID: 75434), Prob: 0.0001
+Token: ' terms' (ID: 3793), Prob: 0.0001
+Token: ' society' (ID: 8232), Prob: 0.0001
+Token: ' academic' (ID: 14250), Prob: 0.0001
+Token: ' style' (ID: 1707), Prob: 0.0001
+Token: ' ways' (ID: 5510), Prob: 0.0001
+Token: ' standards' (ID: 10659), Prob: 0.0001
+Token: ' philosophical' (ID: 40803), Prob: 0.0001
+Token: ' methods' (ID: 5413), Prob: 0.0001
+Token: ' intellectual' (ID: 19634), Prob: 0.0001
+Token: ' learning' (ID: 6832), Prob: 0.0000
+Token: ' practices' (ID: 12378), Prob: 0.0000
+Token: ' thoughts' (ID: 11303), Prob: 0.0000
+Token: ' texts' (ID: 21984), Prob: 0.0000
+Token: ' critique' (ID: 42565), Prob: 0.0000
+Token: ' classics' (ID: 52705), Prob: 0.0000
+Token: ' critic' (ID: 9741), Prob: 0.0000
+Token: ' contexts' (ID: 37597), Prob: 0.0000
+Token: ' context' (ID: 2266), Prob: 0.0000
+Token: ' Chinese' (ID: 8453), Prob: 0.0000
+Token: ' tradition' (ID: 13815), Prob: 0.0000
+Token: ' approaches' (ID: 19827), Prob: 0.0000
+Token: ' scholars' (ID: 30739), Prob: 0.0000
+Token: ' criticisms' (ID: 62736), Prob: 0.0000
+Token: ' perspective' (ID: 13057), Prob: 0.0000
+Token: ' perspectives' (ID: 38455), Prob: 0.0000
+Token: ' view' (ID: 1651), Prob: 0.0000
+Token: ' evaluation' (ID: 16460), Prob: 0.0000
+Token: ' theories' (ID: 24970), Prob: 0.0000
+Token: ' theoretical' (ID: 31787), Prob: 0.0000
+Token: ' customs' (ID: 34769), Prob: 0.0000
+Token: ' civilization' (ID: 34917), Prob: 0.0000
+Token: ' attitudes' (ID: 32626), Prob: 0.0000
+Token: ' discourse' (ID: 40502), Prob: 0.0000
+Token: ' traditional' (ID: 8606), Prob: 0.0000
+Token: ' Literary' (ID: 73624), Prob: 0.0000
+Token: ' classic' (ID: 11416), Prob: 0.0000
+Token: ' criteria' (ID: 12890), Prob: 0.0000
+Token: ' historical' (ID: 13656), Prob: 0.0000
+Token: ' arts' (ID: 18560), Prob: 0.0000
+Token: ' ideology' (ID: 33549), Prob: 0.0000
+Token: ' academia' (ID: 66571), Prob: 0.0000
+Token: ' think' (ID: 1744), Prob: 0.0000
+Token: ' opinion' (ID: 9459), Prob: 0.0000
+Token: ' concepts' (ID: 18940), Prob: 0.0000
+Token: ' critiques' (ID: 86213), Prob: 0.0000
+Token: ' works' (ID: 4278), Prob: 0.0000
+Token: ' reading' (ID: 5290), Prob: 0.0000
+Token: ' understanding' (ID: 8660), Prob: 0.0000
+Token: ' cultures' (ID: 26735), Prob: 0.0000
+Token: ' Thought' (ID: 35187), Prob: 0.0000
+Token: ' analysis' (ID: 6358), Prob: 0.0000
+Token: ' appreciation' (ID: 34896), Prob: 0.0000
+Token: ' review' (ID: 3395), Prob: 0.0000
+Token: ' comment' (ID: 3980), Prob: 0.0000
+Token: ' approach' (ID: 5486), Prob: 0.0000
+Token: ' moral' (ID: 15659), Prob: 0.0000
+Token: ' interpretation' (ID: 22845), Prob: 0.0000
+Token: ' circles' (ID: 25362), Prob: 0.0000
+Token: ' commentary' (ID: 30610), Prob: 0.0000
+
+== Ranked Concepts (Clusters) ==
+Rank 1 | Centroid: ' literary' | Score: 0.8984
+  Tokens: [' literary', ' poetry', ' poetic', ' Literary']
+Rank 2 | Centroid: ' thought' | Score: 0.0408
+  Tokens: [' thought', ' thinking', ' thoughts', ' think', ' Thought']
+Rank 3 | Centroid: ' literature' | Score: 0.0364
+  Tokens: [' literature', ' liter', ' lit', ' texts', ' reading']
+Rank 4 | Centroid: ' criticism' | Score: 0.0138
+  Tokens: [' criticism', ' critical', ' critics', ' critique', ' critic', ' criticisms', ' criteria', ' critiques']
+Rank 5 | Centroid: ' culture' | Score: 0.0052
+  Tokens: [' culture', ' cultural', ' society', ' customs', ' civilization', ' cultures']
+Rank 6 | Centroid: ' artistic' | Score: 0.0019
+  Tokens: [' aesthetic', ' aesthetics', ' artistic', ' art', ' arts']
+Rank 7 | Centroid: ' scholarly' | Score: 0.0008
+  Tokens: [' scholarly', ' scholarship', ' academic', ' intellectual', ' scholars', ' academia']
+Rank 8 | Centroid: ' theory' | Score: 0.0005
+  Tokens: [' theory', ' philosophy', ' theories', ' theoretical', ' ideology']
+Rank 9 | Centroid: ' practices' | Score: 0.0004
+  Tokens: [' studies', ' practice', ' learning', ' practices', ' circles']
+Rank 10 | Centroid: ' approaches' | Score: 0.0004
+  Tokens: [' terms', ' ways', ' standards', ' methods', ' approaches', ' concepts', ' approach']
+Rank 11 | Centroid: ' classic' | Score: 0.0003
+  Tokens: [' classical', ' classics', ' tradition', ' traditional', ' classic', ' historical']
+Rank 12 | Centroid: ' perspectives' | Score: 0.0002
+  Tokens: [' views', ' perspective', ' perspectives', ' view', ' attitudes', ' opinion']
+Rank 13 | Centroid: ' and' | Score: 0.0002
+  Tokens: [' and', ' Chinese', ' works']
+Rank 14 | Centroid: ' analysis' | Score: 0.0001
+  Tokens: [' evaluation', ' understanding', ' analysis', ' appreciation', ' review', ' comment', ' interpretation', ' commentary']
+Rank 15 | Centroid: ' philosophical' | Score: 0.0001
+  Tokens: [' philosophical', ' moral']
+Rank 16 | Centroid: ' contexts' | Score: 0.0001
+  Tokens: [' contexts', ' context']
+Rank 17 | Centroid: ' style' | Score: 0.0001
+  Tokens: [' style']
+Rank 18 | Centroid: ' discourse' | Score: 0.0000
+  Tokens: [' discourse']
+
+**Chosen Concept:** Rank 1

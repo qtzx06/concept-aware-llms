@@ -1,149 +1,90 @@
 --- Step 145 Log ---
 
 == Filtered Candidates ==
-Token: ' hike' (ID: 34231), Prob: 0.8477
-Token: ' ten' (ID: 5779), Prob: 0.0894
-Token: ' hiking' (ID: 37364), Prob: 0.0255
-Token: ' five' (ID: 4236), Prob: 0.0065
-Token: ' walk' (ID: 4227), Prob: 0.0035
-Token: ' guided' (ID: 32587), Prob: 0.0017
-Token: ' trail' (ID: 8849), Prob: 0.0015
-Token: ' journey' (ID: 11618), Prob: 0.0014
-Token: ' day' (ID: 1899), Prob: 0.0013
-Token: ' trek' (ID: 44588), Prob: 0.0013
-Token: ' trip' (ID: 8411), Prob: 0.0011
-Token: ' short' (ID: 2805), Prob: 0.0009
-Token: ' morning' (ID: 6556), Prob: 0.0008
-Token: ' scenic' (ID: 60981), Prob: 0.0007
-Token: ' hill' (ID: 23946), Prob: 0.0006
-Token: ' long' (ID: 1293), Prob: 0.0005
-Token: ' visit' (ID: 3947), Prob: 0.0005
-Token: ' quick' (ID: 3974), Prob: 0.0004
-Token: ' nature' (ID: 6993), Prob: 0.0003
-Token: ' weekend' (ID: 9001), Prob: 0.0003
-Token: ' fifteen' (ID: 36655), Prob: 0.0003
-Token: ' tour' (ID: 7216), Prob: 0.0003
-Token: ' twelve' (ID: 29235), Prob: 0.0002
-Token: ' late' (ID: 3309), Prob: 0.0002
-Token: ' four' (ID: 3040), Prob: 0.0002
-Token: ' quiet' (ID: 11340), Prob: 0.0002
-Token: ' six' (ID: 4743), Prob: 0.0002
-Token: ' slow' (ID: 6301), Prob: 0.0002
-Token: ' three' (ID: 2326), Prob: 0.0002
-Token: ' nine' (ID: 11627), Prob: 0.0002
-Token: ' beautiful' (ID: 6233), Prob: 0.0001
-Token: ' picnic' (ID: 54462), Prob: 0.0001
-Token: ' seven' (ID: 8094), Prob: 0.0001
-Token: ' solo' (ID: 13529), Prob: 0.0001
-Token: ' typical' (ID: 14260), Prob: 0.0001
-Token: ' mountain' (ID: 16301), Prob: 0.0001
-Token: ' two' (ID: 1378), Prob: 0.0001
-Token: ' daily' (ID: 7298), Prob: 0.0001
-Token: ' round' (ID: 4778), Prob: 0.0001
-Token: ' twenty' (ID: 17073), Prob: 0.0001
-Token: ' nice' (ID: 6419), Prob: 0.0001
-Token: ' rock' (ID: 6946), Prob: 0.0001
-Token: ' walking' (ID: 11435), Prob: 0.0001
-Token: ' steep' (ID: 31266), Prob: 0.0001
-Token: ' fast' (ID: 4937), Prob: 0.0001
-Token: ' tough' (ID: 11045), Prob: 0.0001
-Token: ' sunrise' (ID: 63819), Prob: 0.0001
-Token: ' small' (ID: 2613), Prob: 0.0001
-Token: ' couple' (ID: 5625), Prob: 0.0001
-Token: ' half' (ID: 4279), Prob: 0.0001
-Token: ' Ten' (ID: 17695), Prob: 0.0001
-Token: ' climb' (ID: 25367), Prob: 0.0001
-Token: ' challenging' (ID: 17003), Prob: 0.0001
-Token: ' dirt' (ID: 25284), Prob: 0.0001
-Token: ' pilgrimage' (ID: 89313), Prob: 0.0001
-Token: ' fun' (ID: 2464), Prob: 0.0001
-Token: ' family' (ID: 2997), Prob: 0.0001
+Token: ' year' (ID: 1042), Prob: 1.0000
+Token: ' as' (ID: 438), Prob: 0.0000
+Token: ' time' (ID: 882), Prob: 0.0000
+Token: 'year' (ID: 3157), Prob: 0.0000
+Token: ' day' (ID: 1899), Prob: 0.0000
+Token: ' Year' (ID: 9742), Prob: 0.0000
+Token: ' month' (ID: 2254), Prob: 0.0000
+Token: ' years' (ID: 1635), Prob: 0.0000
 Token: ' week' (ID: 2003), Prob: 0.0000
-Token: ' tre' (ID: 4258), Prob: 0.0000
-Token: ' peaceful' (ID: 25650), Prob: 0.0000
-Token: ' thirty' (ID: 26127), Prob: 0.0000
-Token: ' quest' (ID: 2222), Prob: 0.0000
-Token: ' bike' (ID: 12963), Prob: 0.0000
-Token: ' big' (ID: 2409), Prob: 0.0000
-Token: ' little' (ID: 2632), Prob: 0.0000
-Token: ' vacation' (ID: 20161), Prob: 0.0000
-Token: ' hikes' (ID: 67485), Prob: 0.0000
-Token: ' stroll' (ID: 68883), Prob: 0.0000
-Token: ' park' (ID: 6118), Prob: 0.0000
-Token: ' brief' (ID: 9814), Prob: 0.0000
-Token: ' wild' (ID: 8380), Prob: 0.0000
-Token: ' backpack' (ID: 33136), Prob: 0.0000
-Token: ' post' (ID: 1736), Prob: 0.0000
-Token: ' summer' (ID: 7324), Prob: 0.0000
-Token: ' tan' (ID: 14197), Prob: 0.0000
-Token: ' stren' (ID: 92219), Prob: 0.0000
-Token: ' drive' (ID: 6541), Prob: 0.0000
-Token: ' remote' (ID: 8699), Prob: 0.0000
-Token: ' gentle' (ID: 21700), Prob: 0.0000
-Token: ' relaxing' (ID: 33848), Prob: 0.0000
-Token: ' leisure' (ID: 40208), Prob: 0.0000
-Token: ' cool' (ID: 7010), Prob: 0.0000
-Token: ' brisk' (ID: 74391), Prob: 0.0000
-Token: ' hard' (ID: 2588), Prob: 0.0000
-Token: ' personal' (ID: 4345), Prob: 0.0000
-Token: ' multi' (ID: 7299), Prob: 0.0000
-Token: ' holiday' (ID: 13257), Prob: 0.0000
-Token: ' spot' (ID: 7702), Prob: 0.0000
-Token: ' sight' (ID: 13929), Prob: 0.0000
-Token: ' routine' (ID: 14021), Prob: 0.0000
-Token: ' mile' (ID: 14587), Prob: 0.0000
-Token: ' ski' (ID: 28679), Prob: 0.0000
-Token: ' treasure' (ID: 31626), Prob: 0.0000
-Token: ' hundred' (ID: 7739), Prob: 0.0000
-Token: ' rough' (ID: 11165), Prob: 0.0000
-Token: ' lake' (ID: 21800), Prob: 0.0000
+Token: '-year' (ID: 4666), Prob: 0.0000
+Token: ' YEAR' (ID: 50905), Prob: 0.0000
+Token: ' in' (ID: 304), Prob: 0.0000
+Token: ' the' (ID: 279), Prob: 0.0000
+Token: '_year' (ID: 14645), Prob: 0.0000
+Token: 'Year' (ID: 9490), Prob: 0.0000
+Token: ' date' (ID: 2400), Prob: 0.0000
+Token: '.year' (ID: 24414), Prob: 0.0000
+Token: ' way' (ID: 1616), Prob: 0.0000
+Token: ' y' (ID: 379), Prob: 0.0000
+Token: ' he' (ID: 566), Prob: 0.0000
+Token: ' century' (ID: 9294), Prob: 0.0000
+Token: ' era' (ID: 11385), Prob: 0.0000
+Token: ' one' (ID: 825), Prob: 0.0000
+Token: ' where' (ID: 1380), Prob: 0.0000
+Token: ' for' (ID: 369), Prob: 0.0000
+Token: ' to' (ID: 311), Prob: 0.0000
+Token: ' when' (ID: 979), Prob: 0.0000
+Token: ' period' (ID: 4168), Prob: 0.0000
+Token: ' region' (ID: 5537), Prob: 0.0000
+Token: ' năm' (ID: 128290), Prob: 0.0000
+Token: ' I' (ID: 358), Prob: 0.0000
+Token: ' decade' (ID: 13212), Prob: 0.0000
+Token: ' city' (ID: 3283), Prob: 0.0000
+Token: ' you' (ID: 498), Prob: 0.0000
+Token: ' and' (ID: 323), Prob: 0.0000
+Token: ' system' (ID: 1849), Prob: 0.0000
+Token: ' which' (ID: 892), Prob: 0.0000
+Token: ' number' (ID: 1372), Prob: 0.0000
+Token: ' second' (ID: 2086), Prob: 0.0000
+Token: ' hour' (ID: 6460), Prob: 0.0000
+Token: ' minute' (ID: 9383), Prob: 0.0000
+Token: ' birthday' (ID: 15198), Prob: 0.0000
+Token: ' that' (ID: 429), Prob: 0.0000
+Token: ' row' (ID: 2802), Prob: 0.0000
+Token: '(year' (ID: 28281), Prob: 0.0000
+Token: ' birth' (ID: 7194), Prob: 0.0000
+Token: ' with' (ID: 448), Prob: 0.0000
+Token: ' season' (ID: 3200), Prob: 0.0000
+Token: ' it' (ID: 432), Prob: 0.0000
+Token: ' room' (ID: 3054), Prob: 0.0000
+Token: ' country' (ID: 3146), Prob: 0.0000
+Token: ' thing' (ID: 3166), Prob: 0.0000
+Token: ' yearly' (ID: 44270), Prob: 0.0000
+Token: ' string' (ID: 914), Prob: 0.0000
+Token: ' by' (ID: 553), Prob: 0.0000
 
 == Ranked Concepts (Clusters) ==
-Rank 1 | Centroid: ' hike' | Score: 0.8750
-  Tokens: [' hike', ' hiking', ' trail', ' trek', ' climb', ' bike', ' hikes', ' backpack', ' ski']
-Rank 2 | Centroid: ' twenty' | Score: 0.0903
-  Tokens: [' ten', ' fifteen', ' twelve', ' twenty', ' Ten', ' thirty', ' hundred']
-Rank 3 | Centroid: ' five' | Score: 0.0074
-  Tokens: [' five', ' four', ' six', ' three', ' nine', ' seven', ' two']
-Rank 4 | Centroid: ' walk' | Score: 0.0053
-  Tokens: [' walk', ' guided', ' walking', ' stroll', ' drive']
-Rank 5 | Centroid: ' journey' | Score: 0.0034
-  Tokens: [' journey', ' trip', ' visit', ' tour', ' quest']
-Rank 6 | Centroid: ' morning' | Score: 0.0026
-  Tokens: [' day', ' morning', ' weekend', ' daily', ' sunrise', ' week', ' summer']
-Rank 7 | Centroid: ' small' | Score: 0.0016
-  Tokens: [' short', ' long', ' small', ' big', ' little', ' brief']
-Rank 8 | Centroid: ' mountain' | Score: 0.0009
-  Tokens: [' hill', ' mountain', ' rock', ' dirt', ' park', ' lake']
-Rank 9 | Centroid: ' leisure' | Score: 0.0008
-  Tokens: [' scenic', ' relaxing', ' leisure']
-Rank 10 | Centroid: ' fast' | Score: 0.0007
-  Tokens: [' quick', ' slow', ' fast', ' brisk']
-Rank 11 | Centroid: ' multi' | Score: 0.0006
-  Tokens: [' nature', ' solo', ' fun', ' family', ' post', ' remote', ' personal', ' multi']
-Rank 12 | Centroid: ' nice' | Score: 0.0005
-  Tokens: [' quiet', ' beautiful', ' nice', ' peaceful', ' gentle', ' cool']
-Rank 13 | Centroid: ' late' | Score: 0.0003
-  Tokens: [' late', ' wild']
-Rank 14 | Centroid: ' vacation' | Score: 0.0002
-  Tokens: [' picnic', ' pilgrimage', ' vacation', ' holiday']
-Rank 15 | Centroid: ' tough' | Score: 0.0002
-  Tokens: [' tough', ' challenging', ' stren', ' hard', ' rough']
-Rank 16 | Centroid: ' typical' | Score: 0.0001
-  Tokens: [' typical', ' routine']
-Rank 17 | Centroid: ' couple' | Score: 0.0001
-  Tokens: [' couple', ' sight']
-Rank 18 | Centroid: ' half' | Score: 0.0001
-  Tokens: [' half', ' spot']
-Rank 19 | Centroid: ' round' | Score: 0.0001
-  Tokens: [' round']
-Rank 20 | Centroid: ' steep' | Score: 0.0001
-  Tokens: [' steep']
-Rank 21 | Centroid: ' tan' | Score: 0.0001
-  Tokens: [' tan', ' treasure']
-Rank 22 | Centroid: ' tre' | Score: 0.0000
-  Tokens: [' tre']
-Rank 23 | Centroid: ' mile' | Score: 0.0000
-  Tokens: [' mile']
+Rank 1 | Centroid: '_year' | Score: 1.0000
+  Tokens: [' year', 'year', ' Year', ' years', '-year', ' YEAR', '_year', 'Year', '.year', ' năm', '(year', ' yearly']
+Rank 2 | Centroid: ' the' | Score: 0.0000
+  Tokens: [' as', ' in', ' the', ' y', ' he', ' one', ' where', ' for', ' to', ' when', ' I', ' you', ' and', ' which', ' that', ' with', ' it', ' by']
+Rank 3 | Centroid: ' number' | Score: 0.0000
+  Tokens: [' time', ' number', ' string']
+Rank 4 | Centroid: ' week' | Score: 0.0000
+  Tokens: [' day', ' month', ' week', ' hour', ' minute']
+Rank 5 | Centroid: ' era' | Score: 0.0000
+  Tokens: [' era', ' period']
+Rank 6 | Centroid: ' date' | Score: 0.0000
+  Tokens: [' date']
+Rank 7 | Centroid: ' way' | Score: 0.0000
+  Tokens: [' way', ' thing']
+Rank 8 | Centroid: ' century' | Score: 0.0000
+  Tokens: [' century', ' decade']
+Rank 9 | Centroid: ' city' | Score: 0.0000
+  Tokens: [' region', ' city', ' row', ' country']
+Rank 10 | Centroid: ' birthday' | Score: 0.0000
+  Tokens: [' birthday', ' birth']
+Rank 11 | Centroid: ' system' | Score: 0.0000
+  Tokens: [' system']
+Rank 12 | Centroid: ' second' | Score: 0.0000
+  Tokens: [' second']
+Rank 13 | Centroid: ' season' | Score: 0.0000
+  Tokens: [' season']
+Rank 14 | Centroid: ' room' | Score: 0.0000
+  Tokens: [' room']
 
 **Chosen Concept:** Rank 1

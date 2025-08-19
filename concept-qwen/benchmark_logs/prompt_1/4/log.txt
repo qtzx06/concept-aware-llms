@@ -1,137 +1,142 @@
 --- Step 4 Log ---
 
 == Filtered Candidates ==
-Token: ' include' (ID: 2924), Prob: 0.2393
-Token: ' contain' (ID: 6644), Prob: 0.1001
-Token: ' follow' (ID: 1795), Prob: 0.0325
-Token: ' use' (ID: 990), Prob: 0.0197
-Token: ' consist' (ID: 6685), Prob: 0.0197
-Token: ' adhere' (ID: 48453), Prob: 0.0106
-Token: ' start' (ID: 1191), Prob: 0.0087
-Token: ' meet' (ID: 3367), Prob: 0.0082
-Token: ' begin' (ID: 3161), Prob: 0.0056
-Token: ' fulfill' (ID: 20423), Prob: 0.0032
-Token: ' satisfy' (ID: 26553), Prob: 0.0028
-Token: ' show' (ID: 1473), Prob: 0.0021
-Token: ' describe' (ID: 7512), Prob: 0.0019
-Token: ' comply' (ID: 25017), Prob: 0.0018
-Token: ' conform' (ID: 25879), Prob: 0.0013
-Token: ' incorporate' (ID: 32335), Prob: 0.0013
-Token: ' focus' (ID: 5244), Prob: 0.0012
-Token: ' reflect' (ID: 8708), Prob: 0.0012
-Token: ' end' (ID: 835), Prob: 0.0010
-Token: ' maintain' (ID: 10306), Prob: 0.0010
-Token: ' avoid' (ID: 5648), Prob: 0.0009
-Token: ' strictly' (ID: 25470), Prob: 0.0009
-Token: ' feature' (ID: 4565), Prob: 0.0009
-Token: ' make' (ID: 1281), Prob: 0.0007
-Token: ' clearly' (ID: 9355), Prob: 0.0007
-Token: ' always' (ID: 2677), Prob: 0.0007
-Token: ' take' (ID: 1896), Prob: 0.0006
-Token: ' address' (ID: 2621), Prob: 0.0006
-Token: ' introduce' (ID: 19131), Prob: 0.0006
-Token: ' demonstrate' (ID: 19869), Prob: 0.0006
-Token: ' match' (ID: 2432), Prob: 0.0005
-Token: ' obey' (ID: 40601), Prob: 0.0005
-Token: ' state' (ID: 1584), Prob: 0.0004
-Token: ' conclude' (ID: 31094), Prob: 0.0004
-Token: ' mention' (ID: 6286), Prob: 0.0004
-Token: ' involve' (ID: 21058), Prob: 0.0004
-Token: ' keep' (ID: 2506), Prob: 0.0004
-Token: ' provide' (ID: 3410), Prob: 0.0004
-Token: ' answer' (ID: 4226), Prob: 0.0004
-Token: ' appear' (ID: 4994), Prob: 0.0004
-Token: ' specify' (ID: 13837), Prob: 0.0004
-Token: ' convey' (ID: 20001), Prob: 0.0004
-Token: ' emphasize' (ID: 45932), Prob: 0.0004
-Token: ' cover' (ID: 3421), Prob: 0.0003
-Token: ' highlight' (ID: 11167), Prob: 0.0003
-Token: ' depict' (ID: 42404), Prob: 0.0003
-Token: ' explicitly' (ID: 20975), Prob: 0.0003
-Token: ' also' (ID: 1083), Prob: 0.0003
-Token: ' tell' (ID: 3291), Prob: 0.0003
-Token: ' integrate' (ID: 31072), Prob: 0.0003
-Token: ' write' (ID: 3270), Prob: 0.0002
-Token: ' fit' (ID: 4946), Prob: 0.0002
-Token: ' identify' (ID: 10542), Prob: 0.0002
-Token: ' showcase' (ID: 34783), Prob: 0.0002
-Token: ' come' (ID: 2525), Prob: 0.0002
-Token: ' align' (ID: 5285), Prob: 0.0002
-Token: ' stay' (ID: 4717), Prob: 0.0002
-Token: ' contains' (ID: 5610), Prob: 0.0002
-Token: ' exhibit' (ID: 30224), Prob: 0.0002
-Token: ' display' (ID: 3037), Prob: 0.0002
-Token: ' respond' (ID: 5889), Prob: 0.0002
-Token: ' look' (ID: 1401), Prob: 0.0002
-Token: ' ensure' (ID: 5978), Prob: 0.0002
-Token: ' exclude' (ID: 21687), Prob: 0.0002
-Token: ' apply' (ID: 3796), Prob: 0.0002
-Token: ' respect' (ID: 5091), Prob: 0.0002
-Token: ' indicate' (ID: 13216), Prob: 0.0002
-Token: ' express' (ID: 3158), Prob: 0.0002
-Token: ' stem' (ID: 19101), Prob: 0.0002
-Token: ' Include' (ID: 29734), Prob: 0.0002
-Token: ' present' (ID: 3042), Prob: 0.0002
-Token: ' represent' (ID: 4009), Prob: 0.0002
-Token: ' generate' (ID: 6923), Prob: 0.0002
-Token: ' pass' (ID: 1494), Prob: 0.0001
-Token: ' create' (ID: 1855), Prob: 0.0001
-Token: ' span' (ID: 9390), Prob: 0.0001
-Token: ' explain' (ID: 10339), Prob: 0.0001
-Token: ' utilize' (ID: 28066), Prob: 0.0001
-Token: ' includes' (ID: 5646), Prob: 0.0001
-Token: ' reference' (ID: 5785), Prob: 0.0001
-Token: ' choose' (ID: 5157), Prob: 0.0001
-Token: ' directly' (ID: 5961), Prob: 0.0001
-Token: ' refer' (ID: 8300), Prob: 0.0001
-Token: ' engage' (ID: 16579), Prob: 0.0001
+Token: ' appeared' (ID: 9723), Prob: 0.5352
+Token: ' been' (ID: 1012), Prob: 0.2852
+Token: ' had' (ID: 1030), Prob: 0.0386
+Token: ' played' (ID: 6342), Prob: 0.0342
+Token: ' performed' (ID: 10660), Prob: 0.0266
+Token: ' acted' (ID: 30432), Prob: 0.0266
+Token: ' starred' (ID: 58235), Prob: 0.0234
+Token: ' worked' (ID: 6439), Prob: 0.0076
+Token: ' guest' (ID: 8640), Prob: 0.0041
+Token: ' made' (ID: 1865), Prob: 0.0025
+Token: ' written' (ID: 5326), Prob: 0.0025
+Token: ' done' (ID: 2814), Prob: 0.0022
+Token: ' taken' (ID: 4429), Prob: 0.0017
+Token: ' star' (ID: 6774), Prob: 0.0013
+Token: ' featured' (ID: 14766), Prob: 0.0008
+Token: ' portrayed' (ID: 44777), Prob: 0.0008
+Token: ' appear' (ID: 4994), Prob: 0.0006
+Token: ' directed' (ID: 15540), Prob: 0.0006
+Token: ' gained' (ID: 18163), Prob: 0.0006
+Token: ' received' (ID: 3949), Prob: 0.0003
+Token: ' participated' (ID: 30308), Prob: 0.0003
+Token: ' provided' (ID: 3897), Prob: 0.0003
+Token: ' produced' (ID: 8947), Prob: 0.0002
+Token: ' starring' (ID: 39400), Prob: 0.0002
+Token: ' a' (ID: 264), Prob: 0.0001
+Token: ' recently' (ID: 5926), Prob: 0.0001
+Token: ' appears' (ID: 7952), Prob: 0.0001
+Token: ' found' (ID: 1730), Prob: 0.0001
+Token: ' held' (ID: 5644), Prob: 0.0001
+Token: ' has' (ID: 702), Prob: 0.0001
+Token: ' created' (ID: 3465), Prob: 0.0001
+Token: ' released' (ID: 5880), Prob: 0.0001
+Token: ' presented' (ID: 10449), Prob: 0.0001
+Token: ' contributed' (ID: 19590), Prob: 0.0001
+Token: ' co' (ID: 1062), Prob: 0.0001
+Token: ' won' (ID: 2765), Prob: 0.0001
+Token: ' undertaken' (ID: 44079), Prob: 0.0001
+Token: ' stars' (ID: 9759), Prob: 0.0001
+Token: 'appeared' (ID: 98467), Prob: 0.0001
+Token: ' continued' (ID: 8570), Prob: 0.0001
+Token: ' staged' (ID: 50057), Prob: 0.0001
+Token: ' toured' (ID: 90613), Prob: 0.0001
+Token: ' become' (ID: 3635), Prob: 0.0001
+Token: ' served' (ID: 10223), Prob: 0.0001
+Token: ' earned' (ID: 15303), Prob: 0.0001
+Token: ' joined' (ID: 10859), Prob: 0.0000
+Token: ' recorded' (ID: 12433), Prob: 0.0000
+Token: ' have' (ID: 614), Prob: 0.0000
+Token: ' acting' (ID: 15358), Prob: 0.0000
+Token: ' appearing' (ID: 25377), Prob: 0.0000
+Token: ' enjoyed' (ID: 14006), Prob: 0.0000
+Token: ' repr' (ID: 30636), Prob: 0.0000
+Token: ' garnered' (ID: 67290), Prob: 0.0000
+Token: ' developed' (ID: 7881), Prob: 0.0000
+Token: ' studied' (ID: 19476), Prob: 0.0000
+Token: ' since' (ID: 2474), Prob: 0.0000
+Token: ' lent' (ID: 47807), Prob: 0.0000
+Token: ' voiced' (ID: 51368), Prob: 0.0000
+Token: ' previously' (ID: 8597), Prob: 0.0000
+Token: ' spent' (ID: 7391), Prob: 0.0000
+Token: ' established' (ID: 9555), Prob: 0.0000
+Token: ' act' (ID: 1160), Prob: 0.0000
+Token: ' collaborated' (ID: 77074), Prob: 0.0000
+Token: ' seen' (ID: 3884), Prob: 0.0000
+Token: ' originated' (ID: 43753), Prob: 0.0000
+Token: ' stared' (ID: 44035), Prob: 0.0000
+Token: ' supported' (ID: 7248), Prob: 0.0000
+Token: ' completed' (ID: 8145), Prob: 0.0000
+Token: ' experienced' (ID: 10321), Prob: 0.0000
+Token: ' achieved' (ID: 16994), Prob: 0.0000
+Token: ' hosted' (ID: 21009), Prob: 0.0000
+Token: ' filmed' (ID: 41408), Prob: 0.0000
+Token: ' formed' (ID: 14122), Prob: 0.0000
+Token: ' landed' (ID: 26120), Prob: 0.0000
+Token: ' in' (ID: 304), Prob: 0.0000
+Token: ' an' (ID: 458), Prob: 0.0000
+Token: ' represented' (ID: 15251), Prob: 0.0000
+Token: ' ventured' (ID: 98407), Prob: 0.0000
+Token: ' read' (ID: 1349), Prob: 0.0000
+Token: ' composed' (ID: 23415), Prob: 0.0000
+Token: ' actor' (ID: 12089), Prob: 0.0000
+Token: ' embarked' (ID: 78020), Prob: 0.0000
+Token: ' st' (ID: 357), Prob: 0.0000
+Token: ' got' (ID: 2684), Prob: 0.0000
+Token: ' posted' (ID: 8454), Prob: 0.0000
+Token: ' attended' (ID: 18178), Prob: 0.0000
+Token: ' took' (ID: 3867), Prob: 0.0000
+Token: ' frequently' (ID: 13814), Prob: 0.0000
+Token: ' begun' (ID: 21376), Prob: 0.0000
 
 == Ranked Concepts (Clusters) ==
-Rank 1 | Centroid: ' include' | Score: 0.2402
-  Tokens: [' include', ' involve', ' exclude', ' Include', ' includes']
-Rank 2 | Centroid: ' contain' | Score: 0.1201
-  Tokens: [' contain', ' consist', ' contains']
-Rank 3 | Centroid: ' follow' | Score: 0.0327
-  Tokens: [' follow', ' respect']
-Rank 4 | Centroid: ' comply' | Score: 0.0284
-  Tokens: [' adhere', ' meet', ' fulfill', ' satisfy', ' comply', ' conform', ' obey']
-Rank 5 | Centroid: ' take' | Score: 0.0205
-  Tokens: [' use', ' take', ' look']
-Rank 6 | Centroid: ' start' | Score: 0.0154
-  Tokens: [' start', ' begin', ' end']
-Rank 7 | Centroid: ' showcase' | Score: 0.0036
-  Tokens: [' show', ' demonstrate', ' depict', ' showcase', ' exhibit', ' display']
-Rank 8 | Centroid: ' indicate' | Score: 0.0035
-  Tokens: [' describe', ' introduce', ' specify', ' identify', ' indicate', ' explain']
-Rank 9 | Centroid: ' explicitly' | Score: 0.0030
-  Tokens: [' strictly', ' clearly', ' always', ' explicitly', ' also', ' directly']
-Rank 10 | Centroid: ' keep' | Score: 0.0027
-  Tokens: [' maintain', ' avoid', ' keep', ' stay', ' ensure']
-Rank 11 | Centroid: ' emphasize' | Score: 0.0023
-  Tokens: [' focus', ' mention', ' emphasize', ' highlight']
-Rank 12 | Centroid: ' incorporate' | Score: 0.0019
-  Tokens: [' incorporate', ' integrate', ' utilize', ' engage']
-Rank 13 | Centroid: ' create' | Score: 0.0017
-  Tokens: [' make', ' provide', ' apply', ' generate', ' create', ' choose']
-Rank 14 | Centroid: ' answer' | Score: 0.0012
-  Tokens: [' address', ' answer', ' respond']
-Rank 15 | Centroid: ' reflect' | Score: 0.0012
-  Tokens: [' reflect']
-Rank 16 | Centroid: ' feature' | Score: 0.0010
-  Tokens: [' feature', ' present']
-Rank 17 | Centroid: ' match' | Score: 0.0010
-  Tokens: [' match', ' fit', ' align']
-Rank 18 | Centroid: ' write' | Score: 0.0009
-  Tokens: [' state', ' tell', ' write']
-Rank 19 | Centroid: ' span' | Score: 0.0008
-  Tokens: [' cover', ' stem', ' pass', ' span']
-Rank 20 | Centroid: ' express' | Score: 0.0007
-  Tokens: [' convey', ' express', ' represent']
-Rank 21 | Centroid: ' appear' | Score: 0.0006
-  Tokens: [' appear', ' come']
-Rank 22 | Centroid: ' conclude' | Score: 0.0004
-  Tokens: [' conclude']
-Rank 23 | Centroid: ' reference' | Score: 0.0003
-  Tokens: [' reference', ' refer']
+Rank 1 | Centroid: ' appeared' | Score: 0.5352
+  Tokens: [' appeared', ' appear', ' appears', 'appeared', ' appearing']
+Rank 2 | Centroid: ' been' | Score: 0.2852
+  Tokens: [' been', ' become']
+Rank 3 | Centroid: ' has' | Score: 0.0391
+  Tokens: [' had', ' a', ' has', ' co', ' have', ' since', ' in', ' an', ' read', ' st']
+Rank 4 | Centroid: ' played' | Score: 0.0344
+  Tokens: [' played', ' held', ' served']
+Rank 5 | Centroid: ' undertaken' | Score: 0.0306
+  Tokens: [' performed', ' done', ' taken', ' undertaken', ' completed', ' begun']
+Rank 6 | Centroid: ' acting' | Score: 0.0267
+  Tokens: [' acted', ' acting', ' act', ' actor']
+Rank 7 | Centroid: ' stars' | Score: 0.0250
+  Tokens: [' starred', ' star', ' starring', ' stars', ' stared']
+Rank 8 | Centroid: ' participated' | Score: 0.0080
+  Tokens: [' worked', ' participated', ' collaborated', ' attended', ' took']
+Rank 9 | Centroid: ' guest' | Score: 0.0041
+  Tokens: [' guest', ' lent']
+Rank 10 | Centroid: ' created' | Score: 0.0030
+  Tokens: [' made', ' produced', ' created', ' released', ' developed', ' formed', ' composed']
+Rank 11 | Centroid: ' written' | Score: 0.0025
+  Tokens: [' written', ' recorded', ' posted']
+Rank 12 | Centroid: ' portrayed' | Score: 0.0017
+  Tokens: [' featured', ' portrayed', ' presented', ' represented']
+Rank 13 | Centroid: ' garnered' | Score: 0.0010
+  Tokens: [' gained', ' received', ' earned', ' enjoyed', ' garnered', ' spent', ' achieved']
+Rank 14 | Centroid: ' hosted' | Score: 0.0007
+  Tokens: [' directed', ' staged', ' voiced', ' hosted', ' filmed']
+Rank 15 | Centroid: ' provided' | Score: 0.0003
+  Tokens: [' provided', ' supported']
+Rank 16 | Centroid: ' recently' | Score: 0.0002
+  Tokens: [' recently', ' previously', ' established', ' experienced', ' frequently']
+Rank 17 | Centroid: ' found' | Score: 0.0001
+  Tokens: [' found', ' seen']
+Rank 18 | Centroid: ' contributed' | Score: 0.0001
+  Tokens: [' contributed', ' originated']
+Rank 19 | Centroid: ' continued' | Score: 0.0001
+  Tokens: [' continued', ' joined']
+Rank 20 | Centroid: ' embarked' | Score: 0.0001
+  Tokens: [' toured', ' landed', ' ventured', ' embarked']
+Rank 21 | Centroid: ' won' | Score: 0.0001
+  Tokens: [' won', ' got']
+Rank 22 | Centroid: ' repr' | Score: 0.0000
+  Tokens: [' repr']
+Rank 23 | Centroid: ' studied' | Score: 0.0000
+  Tokens: [' studied']
 
 **Chosen Concept:** Rank 1

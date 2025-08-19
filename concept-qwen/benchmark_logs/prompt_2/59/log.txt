@@ -1,135 +1,146 @@
 --- Step 59 Log ---
 
 == Filtered Candidates ==
-Token: ' concise' (ID: 63594), Prob: 0.6055
-Token: ' simple' (ID: 4285), Prob: 0.1523
-Token: ' short' (ID: 2805), Prob: 0.0635
-Token: ' flowing' (ID: 35512), Prob: 0.0635
-Token: ' clear' (ID: 2797), Prob: 0.0234
-Token: ' smooth' (ID: 10876), Prob: 0.0234
-Token: ' natural' (ID: 5810), Prob: 0.0206
-Token: ' tight' (ID: 10296), Prob: 0.0110
-Token: ' connected' (ID: 8433), Prob: 0.0067
-Token: ' brief' (ID: 9814), Prob: 0.0059
-Token: ' fluid' (ID: 15590), Prob: 0.0036
-Token: ' varied' (ID: 27730), Prob: 0.0022
-Token: ' straightforward' (ID: 30339), Prob: 0.0013
-Token: ' flow' (ID: 6396), Prob: 0.0009
-Token: ' compact' (ID: 16830), Prob: 0.0009
-Token: ' connecting' (ID: 20913), Prob: 0.0009
-Token: ' close' (ID: 3265), Prob: 0.0007
-Token: ' clean' (ID: 4240), Prob: 0.0004
-Token: ' flows' (ID: 27455), Prob: 0.0004
-Token: ' cohesive' (ID: 86416), Prob: 0.0004
-Token: ' fluent' (ID: 57768), Prob: 0.0004
-Token: ' around' (ID: 2163), Prob: 0.0003
-Token: ' logical' (ID: 19819), Prob: 0.0002
-Token: ' within' (ID: 2878), Prob: 0.0002
-Token: ' together' (ID: 3786), Prob: 0.0002
-Token: ' minimal' (ID: 17377), Prob: 0.0002
-Token: ' conc' (ID: 3529), Prob: 0.0002
-Token: ' sharp' (ID: 17232), Prob: 0.0002
-Token: ' convers' (ID: 7517), Prob: 0.0001
-Token: ' engaging' (ID: 22570), Prob: 0.0001
-Token: ' coherent' (ID: 55787), Prob: 0.0001
-Token: ' direct' (ID: 2118), Prob: 0.0001
-Token: ' past' (ID: 3267), Prob: 0.0001
-Token: ' balanced' (ID: 23831), Prob: 0.0001
-Token: ' succinct' (ID: 98632), Prob: 0.0001
-Token: ' structured' (ID: 32930), Prob: 0.0001
-Token: ' open' (ID: 1787), Prob: 0.0001
-Token: ' shorter' (ID: 23327), Prob: 0.0001
-Token: ' lively' (ID: 48177), Prob: 0.0001
-Token: ' crisp' (ID: 41854), Prob: 0.0001
-Token: ' organic' (ID: 17356), Prob: 0.0001
-Token: ' interconnected' (ID: 82316), Prob: 0.0001
-Token: ' casual' (ID: 16334), Prob: 0.0001
-Token: ' connect' (ID: 4564), Prob: 0.0001
-Token: ' focused' (ID: 10735), Prob: 0.0001
-Token: ' precise' (ID: 23560), Prob: 0.0000
-Token: ' flowed' (ID: 84650), Prob: 0.0000
-Token: ' naturally' (ID: 17712), Prob: 0.0000
-Token: ' streamlined' (ID: 74060), Prob: 0.0000
-Token: ' easy' (ID: 4135), Prob: 0.0000
-Token: ' linked' (ID: 10592), Prob: 0.0000
-Token: ' punch' (ID: 20380), Prob: 0.0000
-Token: ' realistic' (ID: 25489), Prob: 0.0000
-Token: ' consecutive' (ID: 23921), Prob: 0.0000
-Token: ' parallel' (ID: 15279), Prob: 0.0000
-Token: ' vivid' (ID: 42020), Prob: 0.0000
-Token: ' concrete' (ID: 14175), Prob: 0.0000
-Token: ' straight' (ID: 7678), Prob: 0.0000
-Token: ' manageable' (ID: 70028), Prob: 0.0000
-Token: ' moving' (ID: 7218), Prob: 0.0000
-Token: ' friendly' (ID: 11657), Prob: 0.0000
-Token: ' accurate' (ID: 13382), Prob: 0.0000
-Token: ' loose' (ID: 20174), Prob: 0.0000
-Token: ' well' (ID: 1632), Prob: 0.0000
-Token: ' positive' (ID: 6785), Prob: 0.0000
-Token: ' neat' (ID: 28485), Prob: 0.0000
-Token: ' combined' (ID: 10856), Prob: 0.0000
-Token: ' smoothly' (ID: 38411), Prob: 0.0000
-Token: ' related' (ID: 5435), Prob: 0.0000
-Token: ' neutral' (ID: 20628), Prob: 0.0000
-Token: ' simplified' (ID: 43799), Prob: 0.0000
-Token: ' expressive' (ID: 77123), Prob: 0.0000
-Token: ' like' (ID: 1075), Prob: 0.0000
-Token: ' readable' (ID: 33798), Prob: 0.0000
-Token: ' tightly' (ID: 38969), Prob: 0.0000
-Token: ' brisk' (ID: 74391), Prob: 0.0000
-Token: ' strong' (ID: 3746), Prob: 0.0000
-Token: ' similar' (ID: 4428), Prob: 0.0000
-Token: ' pretty' (ID: 5020), Prob: 0.0000
-Token: ' impactful' (ID: 97890), Prob: 0.0000
+Token: ' Royal' (ID: 16194), Prob: 0.2715
+Token: ' National' (ID: 5055), Prob: 0.2109
+Token: ' Al' (ID: 1674), Prob: 0.0366
+Token: ' Ly' (ID: 15953), Prob: 0.0366
+Token: ' Play' (ID: 7054), Prob: 0.0286
+Token: ' London' (ID: 7148), Prob: 0.0223
+Token: ' R' (ID: 431), Prob: 0.0173
+Token: ' Rose' (ID: 15964), Prob: 0.0173
+Token: ' Don' (ID: 4320), Prob: 0.0135
+Token: ' Edinburgh' (ID: 40306), Prob: 0.0135
+Token: ' Barb' (ID: 46042), Prob: 0.0135
+Token: ' Theatre' (ID: 26221), Prob: 0.0119
+Token: ' T' (ID: 350), Prob: 0.0105
+Token: ' Round' (ID: 17097), Prob: 0.0105
+Token: ' Queen' (ID: 16259), Prob: 0.0099
+Token: ' Traverse' (ID: 86733), Prob: 0.0099
+Token: ' Prince' (ID: 19351), Prob: 0.0064
+Token: ' South' (ID: 4882), Prob: 0.0060
+Token: ' Ald' (ID: 30347), Prob: 0.0060
+Token: ' Sad' (ID: 30681), Prob: 0.0056
+Token: ' Old' (ID: 10621), Prob: 0.0050
+Token: ' B' (ID: 425), Prob: 0.0047
+Token: ' Bush' (ID: 14079), Prob: 0.0047
+Token: ' Victoria' (ID: 22417), Prob: 0.0047
+Token: ' Garr' (ID: 94157), Prob: 0.0047
+Token: ' Young' (ID: 13263), Prob: 0.0044
+Token: ' Palace' (ID: 30296), Prob: 0.0041
+Token: ' Ch' (ID: 910), Prob: 0.0036
+Token: ' West' (ID: 4312), Prob: 0.0036
+Token: ' St' (ID: 794), Prob: 0.0032
+Token: ' Shakespeare' (ID: 41382), Prob: 0.0032
+Token: ' Bristol' (ID: 43939), Prob: 0.0032
+Token: ' New' (ID: 1532), Prob: 0.0030
+Token: ' Duke' (ID: 26356), Prob: 0.0030
+Token: ' University' (ID: 3822), Prob: 0.0028
+Token: ' Phoenix' (ID: 22672), Prob: 0.0028
+Token: ' Birmingham' (ID: 35837), Prob: 0.0028
+Token: ' G' (ID: 479), Prob: 0.0027
+Token: ' Wy' (ID: 23222), Prob: 0.0027
+Token: ' Roy' (ID: 11038), Prob: 0.0023
+Token: ' Harold' (ID: 52115), Prob: 0.0023
+Token: ' Cruc' (ID: 75004), Prob: 0.0023
+Token: ' Gate' (ID: 29243), Prob: 0.0022
+Token: ' Dr' (ID: 2926), Prob: 0.0021
+Token: ' Cambridge' (ID: 23641), Prob: 0.0021
+Token: ' Criterion' (ID: 68400), Prob: 0.0021
+Token: ' Bar' (ID: 4716), Prob: 0.0019
+Token: ' Hamp' (ID: 28414), Prob: 0.0019
+Token: ' Strat' (ID: 52935), Prob: 0.0019
+Token: ' York' (ID: 4261), Prob: 0.0018
+Token: ' Brid' (ID: 31337), Prob: 0.0017
+Token: ' Cour' (ID: 6244), Prob: 0.0016
+Token: ' British' (ID: 7855), Prob: 0.0016
+Token: ' L' (ID: 444), Prob: 0.0015
+Token: ' The' (ID: 576), Prob: 0.0015
+Token: ' Oxford' (ID: 25210), Prob: 0.0015
+Token: ' Duchess' (ID: 94939), Prob: 0.0015
+Token: ' Ber' (ID: 8907), Prob: 0.0014
+Token: ' Hay' (ID: 17798), Prob: 0.0014
+Token: ' White' (ID: 5807), Prob: 0.0013
+Token: ' Bel' (ID: 7828), Prob: 0.0013
+Token: ' theatre' (ID: 33496), Prob: 0.0013
+Token: ' Apollo' (ID: 35150), Prob: 0.0013
+Token: ' H' (ID: 472), Prob: 0.0012
+Token: ' Sh' (ID: 1417), Prob: 0.0012
+Token: ' Liverpool' (ID: 24688), Prob: 0.0012
+Token: ' King' (ID: 6210), Prob: 0.0011
+Token: ' Winter' (ID: 20101), Prob: 0.0011
+Token: ' Fry' (ID: 52417), Prob: 0.0011
+Token: ' Col' (ID: 4254), Prob: 0.0010
+Token: ' Men' (ID: 11012), Prob: 0.0010
+Token: ' Arts' (ID: 17520), Prob: 0.0010
+Token: ' Bow' (ID: 18436), Prob: 0.0010
+Token: ' Guild' (ID: 32492), Prob: 0.0010
+Token: ' O' (ID: 506), Prob: 0.0010
+Token: ' Globe' (ID: 40810), Prob: 0.0009
+Token: ' C' (ID: 356), Prob: 0.0008
+Token: ' Open' (ID: 5264), Prob: 0.0008
+Token: ' Low' (ID: 12041), Prob: 0.0008
+Token: ' Fol' (ID: 39455), Prob: 0.0008
+Token: ' Shaft' (ID: 95759), Prob: 0.0008
+Token: ' W' (ID: 467), Prob: 0.0008
+Token: ' Dor' (ID: 24242), Prob: 0.0008
+Token: ' Fr' (ID: 2869), Prob: 0.0007
+Token: ' Manchester' (ID: 19361), Prob: 0.0007
+Token: ' Sydney' (ID: 21273), Prob: 0.0007
+Token: ' Orange' (ID: 21958), Prob: 0.0007
+Token: ' Comedy' (ID: 43751), Prob: 0.0007
+Token: ' Th' (ID: 663), Prob: 0.0007
+Token: ' So' (ID: 2055), Prob: 0.0007
+Token: ' First' (ID: 5512), Prob: 0.0007
+Token: ' Mer' (ID: 8755), Prob: 0.0007
+Token: ' Water' (ID: 9959), Prob: 0.0007
+Token: ' Arc' (ID: 19689), Prob: 0.0007
+Token: ' Pic' (ID: 25898), Prob: 0.0007
 
 == Ranked Concepts (Clusters) ==
-Rank 1 | Centroid: ' concise' | Score: 0.6055
-  Tokens: [' concise', ' compact', ' succinct']
-Rank 2 | Centroid: ' simple' | Score: 0.1533
-  Tokens: [' simple', ' straightforward', ' easy', ' simplified']
-Rank 3 | Centroid: ' short' | Score: 0.0698
-  Tokens: [' short', ' brief', ' minimal', ' shorter']
-Rank 4 | Centroid: ' flowing' | Score: 0.0684
-  Tokens: [' flowing', ' fluid', ' flow', ' flows', ' flowed', ' moving']
-Rank 5 | Centroid: ' clean' | Score: 0.0240
-  Tokens: [' clear', ' clean', ' direct', ' straight']
-Rank 6 | Centroid: ' smooth' | Score: 0.0234
-  Tokens: [' smooth', ' smoothly']
-Rank 7 | Centroid: ' natural' | Score: 0.0210
-  Tokens: [' natural', ' logical', ' organic', ' naturally', ' positive', ' neutral']
-Rank 8 | Centroid: ' tight' | Score: 0.0111
-  Tokens: [' tight', ' loose', ' tightly']
-Rank 9 | Centroid: ' connected' | Score: 0.0078
-  Tokens: [' connected', ' connecting', ' interconnected', ' connect', ' linked']
-Rank 10 | Centroid: ' within' | Score: 0.0027
-  Tokens: [' varied', ' around', ' within', ' related', ' like', ' similar']
-Rank 11 | Centroid: ' close' | Score: 0.0008
-  Tokens: [' close', ' open', ' strong']
-Rank 12 | Centroid: ' precise' | Score: 0.0006
-  Tokens: [' cohesive', ' coherent', ' precise', ' accurate']
-Rank 13 | Centroid: ' engaging' | Score: 0.0005
-  Tokens: [' fluent', ' engaging', ' expressive', ' impactful']
-Rank 14 | Centroid: ' consecutive' | Score: 0.0004
-  Tokens: [' conc', ' convers', ' consecutive', ' parallel']
-Rank 15 | Centroid: ' structured' | Score: 0.0003
-  Tokens: [' balanced', ' structured', ' focused']
-Rank 16 | Centroid: ' lively' | Score: 0.0002
-  Tokens: [' lively', ' crisp', ' vivid', ' neat', ' brisk']
-Rank 17 | Centroid: ' together' | Score: 0.0002
-  Tokens: [' together', ' combined']
-Rank 18 | Centroid: ' sharp' | Score: 0.0002
-  Tokens: [' sharp']
-Rank 19 | Centroid: ' manageable' | Score: 0.0001
-  Tokens: [' realistic', ' manageable', ' friendly', ' readable']
-Rank 20 | Centroid: ' past' | Score: 0.0001
-  Tokens: [' past']
-Rank 21 | Centroid: ' punch' | Score: 0.0001
-  Tokens: [' punch', ' concrete']
-Rank 22 | Centroid: ' casual' | Score: 0.0001
-  Tokens: [' casual']
-Rank 23 | Centroid: ' streamlined' | Score: 0.0000
-  Tokens: [' streamlined']
-Rank 24 | Centroid: ' well' | Score: 0.0000
-  Tokens: [' well', ' pretty']
+Rank 1 | Centroid: ' Queen' | Score: 0.2969
+  Tokens: [' Royal', ' Queen', ' Prince', ' Palace', ' Duke', ' Duchess', ' King']
+Rank 2 | Centroid: ' National' | Score: 0.2119
+  Tokens: [' National', ' Orange']
+Rank 3 | Centroid: ' Ch' | Score: 0.0625
+  Tokens: [' Al', ' Don', ' Ch', ' St', ' Dr', ' Sh', ' Col', ' Fr', ' Th']
+Rank 4 | Centroid: ' London' | Score: 0.0562
+  Tokens: [' London', ' Edinburgh', ' Victoria', ' Bristol', ' Birmingham', ' Cambridge', ' York', ' British', ' Oxford', ' Liverpool', ' Manchester', ' Sydney']
+Rank 5 | Centroid: ' Theatre' | Score: 0.0435
+  Tokens: [' Play', ' Theatre', ' theatre', ' Arts', ' Comedy']
+Rank 6 | Centroid: ' H' | Score: 0.0425
+  Tokens: [' R', ' T', ' B', ' G', ' L', ' The', ' H', ' O', ' C', ' W', ' So']
+Rank 7 | Centroid: ' Wy' | Score: 0.0417
+  Tokens: [' Ly', ' Wy', ' Hay', ' Fry']
+Rank 8 | Centroid: ' Bush' | Score: 0.0231
+  Tokens: [' Rose', ' Bush', ' Bow']
+Rank 9 | Centroid: ' Harold' | Score: 0.0212
+  Tokens: [' Ald', ' Sad', ' Garr', ' Harold', ' Hamp', ' Pic']
+Rank 10 | Centroid: ' Traverse' | Score: 0.0171
+  Tokens: [' Traverse', ' Cruc', ' Criterion', ' Strat', ' Fol']
+Rank 11 | Centroid: ' Barb' | Score: 0.0154
+  Tokens: [' Barb', ' Bar']
+Rank 12 | Centroid: ' New' | Score: 0.0147
+  Tokens: [' Old', ' Young', ' New', ' Open', ' Low', ' First']
+Rank 13 | Centroid: ' West' | Score: 0.0127
+  Tokens: [' South', ' West', ' White', ' Winter', ' Water']
+Rank 14 | Centroid: ' Round' | Score: 0.0112
+  Tokens: [' Round', ' Arc']
+Rank 15 | Centroid: ' Ber' | Score: 0.0044
+  Tokens: [' Ber', ' Bel', ' Men', ' Mer']
+Rank 16 | Centroid: ' Guild' | Score: 0.0041
+  Tokens: [' Gate', ' Guild', ' Globe']
+Rank 17 | Centroid: ' Phoenix' | Score: 0.0041
+  Tokens: [' Phoenix', ' Apollo']
+Rank 18 | Centroid: ' Shakespeare' | Score: 0.0040
+  Tokens: [' Shakespeare', ' Shaft']
+Rank 19 | Centroid: ' University' | Score: 0.0028
+  Tokens: [' University']
+Rank 20 | Centroid: ' Brid' | Score: 0.0025
+  Tokens: [' Brid', ' Dor']
+Rank 21 | Centroid: ' Roy' | Score: 0.0023
+  Tokens: [' Roy']
+Rank 22 | Centroid: ' Cour' | Score: 0.0016
+  Tokens: [' Cour']
 
 **Chosen Concept:** Rank 1

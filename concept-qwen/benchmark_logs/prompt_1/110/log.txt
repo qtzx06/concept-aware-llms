@@ -1,0 +1,97 @@
+--- Step 110 Log ---
+
+== Filtered Candidates ==
+Token: ' series' (ID: 4013), Prob: 1.0000
+Token: ' Series' (ID: 11131), Prob: 0.0000
+Token: 'series' (ID: 19880), Prob: 0.0000
+Token: ' television' (ID: 12425), Prob: 0.0000
+Token: '.series' (ID: 48649), Prob: 0.0000
+Token: ' and' (ID: 323), Prob: 0.0000
+Token: ' serie' (ID: 32878), Prob: 0.0000
+Token: ' TV' (ID: 5883), Prob: 0.0000
+Token: ' The' (ID: 576), Prob: 0.0000
+Token: 'Series' (ID: 25544), Prob: 0.0000
+Token: ' the' (ID: 279), Prob: 0.0000
+Token: ' programme' (ID: 18136), Prob: 0.0000
+Token: '(series' (ID: 70851), Prob: 0.0000
+Token: ' serial' (ID: 6146), Prob: 0.0000
+Token: ' show' (ID: 1473), Prob: 0.0000
+Token: ' drama' (ID: 19584), Prob: 0.0000
+Token: ' service' (ID: 2473), Prob: 0.0000
+Token: ' série' (ID: 46428), Prob: 0.0000
+Token: ' program' (ID: 2025), Prob: 0.0000
+Token: ' s' (ID: 274), Prob: 0.0000
+Token: '-series' (ID: 56332), Prob: 0.0000
+Token: ' season' (ID: 3200), Prob: 0.0000
+Token: ' franchise' (ID: 19024), Prob: 0.0000
+Token: ' radio' (ID: 8887), Prob: 0.0000
+Token: ' channel' (ID: 5496), Prob: 0.0000
+Token: ' Crown' (ID: 28643), Prob: 0.0000
+Token: ' police' (ID: 4282), Prob: 0.0000
+Token: ' studio' (ID: 14029), Prob: 0.0000
+Token: ''s' (ID: 594), Prob: 0.0000
+Token: ' theatre' (ID: 33496), Prob: 0.0000
+Token: ' Royal' (ID: 16194), Prob: 0.0000
+Token: ' sitcom' (ID: 80366), Prob: 0.0000
+Token: ' of' (ID: 315), Prob: 0.0000
+Token: ' in' (ID: 304), Prob: 0.0000
+Token: ' team' (ID: 2083), Prob: 0.0000
+Token: ' In' (ID: 758), Prob: 0.0000
+Token: ' station' (ID: 8056), Prob: 0.0000
+Token: ' sports' (ID: 9833), Prob: 0.0000
+Token: '1' (ID: 16), Prob: 0.0000
+Token: ' since' (ID: 2474), Prob: 0.0000
+Token: ' Radio' (ID: 13484), Prob: 0.0000
+Token: ' ratings' (ID: 18102), Prob: 0.0000
+Token: ' Scottish' (ID: 26096), Prob: 0.0000
+Token: ' SERIES' (ID: 95844), Prob: 0.0000
+Token: ' I' (ID: 358), Prob: 0.0000
+Token: ' sequence' (ID: 8500), Prob: 0.0000
+Token: '_series' (ID: 35015), Prob: 0.0000
+Token: ' services' (ID: 3516), Prob: 0.0000
+Token: ' One' (ID: 3776), Prob: 0.0000
+Token: ' broadcast' (ID: 12899), Prob: 0.0000
+Token: ' royal' (ID: 29236), Prob: 0.0000
+Token: ' seri' (ID: 93346), Prob: 0.0000
+Token: ' New' (ID: 1532), Prob: 0.0000
+Token: ' variety' (ID: 8045), Prob: 0.0000
+Token: ' comedy' (ID: 22358), Prob: 0.0000
+Token: ' programmes' (ID: 37637), Prob: 0.0000
+Token: '2' (ID: 17), Prob: 0.0000
+Token: ' news' (ID: 3669), Prob: 0.0000
+Token: ' Sirius' (ID: 60034), Prob: 0.0000
+Token: ' a' (ID: 264), Prob: 0.0000
+Token: ' D' (ID: 422), Prob: 0.0000
+Token: ' i' (ID: 600), Prob: 0.0000
+
+== Ranked Concepts (Clusters) ==
+Rank 1 | Centroid: ' series' | Score: 1.0000
+  Tokens: [' series', ' Series', 'series', '.series', ' serie', 'Series', '(series', ' série', '-series', ' SERIES', '_series']
+Rank 2 | Centroid: ' the' | Score: 0.0000
+  Tokens: [' and', ' The', ' the', ' show', ' s', "'s", ' of', ' in', ' In', '1', ' since', ' I', ' One', ' New', '2', ' a', ' D', ' i']
+Rank 3 | Centroid: ' television' | Score: 0.0000
+  Tokens: [' television', ' TV']
+Rank 4 | Centroid: ' programme' | Score: 0.0000
+  Tokens: [' programme', ' program', ' programmes']
+Rank 5 | Centroid: ' comedy' | Score: 0.0000
+  Tokens: [' drama', ' theatre', ' sitcom', ' comedy', ' news']
+Rank 6 | Centroid: ' team' | Score: 0.0000
+  Tokens: [' season', ' franchise', ' channel', ' team']
+Rank 7 | Centroid: ' serial' | Score: 0.0000
+  Tokens: [' serial', ' seri']
+Rank 8 | Centroid: ' service' | Score: 0.0000
+  Tokens: [' service', ' services']
+Rank 9 | Centroid: ' royal' | Score: 0.0000
+  Tokens: [' Crown', ' Royal', ' royal']
+Rank 10 | Centroid: ' radio' | Score: 0.0000
+  Tokens: [' radio', ' Radio', ' broadcast']
+Rank 11 | Centroid: ' studio' | Score: 0.0000
+  Tokens: [' studio', ' station']
+Rank 12 | Centroid: ' police' | Score: 0.0000
+  Tokens: [' police', ' sports']
+Rank 13 | Centroid: ' Scottish' | Score: 0.0000
+  Tokens: [' ratings', ' Scottish', ' variety', ' Sirius']
+Rank 14 | Centroid: ' sequence' | Score: 0.0000
+  Tokens: [' sequence']
+
+**Chosen Concept:** Rank 1

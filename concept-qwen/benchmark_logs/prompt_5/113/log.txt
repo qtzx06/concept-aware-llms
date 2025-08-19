@@ -1,0 +1,90 @@
+--- Step 113 Log ---
+
+== Filtered Candidates ==
+Token: ' United' (ID: 3639), Prob: 1.0000
+Token: ' UK' (ID: 6424), Prob: 0.0003
+Token: 'United' (ID: 22372), Prob: 0.0000
+Token: ' U' (ID: 547), Prob: 0.0000
+Token: ' Kingdom' (ID: 15072), Prob: 0.0000
+Token: ' united' (ID: 28192), Prob: 0.0000
+Token: ' Un' (ID: 1230), Prob: 0.0000
+Token: ' Queen' (ID: 16259), Prob: 0.0000
+Token: ' Unified' (ID: 72434), Prob: 0.0000
+Token: ' University' (ID: 3822), Prob: 0.0000
+Token: ' Union' (ID: 9145), Prob: 0.0000
+Token: ' Unit' (ID: 7954), Prob: 0.0000
+Token: ' Unt' (ID: 15098), Prob: 0.0000
+Token: ' British' (ID: 7855), Prob: 0.0000
+Token: ' Commonwealth' (ID: 37198), Prob: 0.0000
+Token: ' The' (ID: 576), Prob: 0.0000
+Token: ' the' (ID: 279), Prob: 0.0000
+Token: ' King' (ID: 6210), Prob: 0.0000
+Token: ' Republic' (ID: 5429), Prob: 0.0000
+Token: ' Universe' (ID: 28749), Prob: 0.0000
+Token: ' USA' (ID: 7279), Prob: 0.0000
+Token: ' Prince' (ID: 19351), Prob: 0.0000
+Token: ' UNITED' (ID: 84510), Prob: 0.0000
+Token: ' US' (ID: 2274), Prob: 0.0000
+Token: ' Netherlands' (ID: 25662), Prob: 0.0000
+Token: ' In' (ID: 758), Prob: 0.0000
+Token: ' Middle' (ID: 12592), Prob: 0.0000
+Token: ' BBC' (ID: 18096), Prob: 0.0000
+Token: ' Universal' (ID: 25500), Prob: 0.0000
+Token: ' North' (ID: 4787), Prob: 0.0000
+Token: ' Prime' (ID: 12518), Prob: 0.0000
+Token: ' in' (ID: 304), Prob: 0.0000
+Token: ' Crown' (ID: 28643), Prob: 0.0000
+Token: ' Great' (ID: 8513), Prob: 0.0000
+Token: ' Royal' (ID: 16194), Prob: 0.0000
+Token: ' UAE' (ID: 46849), Prob: 0.0000
+Token: ' National' (ID: 5055), Prob: 0.0000
+Token: ' UN' (ID: 6643), Prob: 0.0000
+Token: 'UK' (ID: 24537), Prob: 0.0000
+Token: ' Philippines' (ID: 25296), Prob: 0.0000
+Token: ' Uk' (ID: 59313), Prob: 0.0000
+Token: ' English' (ID: 6364), Prob: 0.0000
+Token: ' Albert' (ID: 17513), Prob: 0.0000
+Token: ' Retrieved' (ID: 57791), Prob: 0.0000
+Token: ' and' (ID: 323), Prob: 0.0000
+Token: ' Lord' (ID: 10214), Prob: 0.0000
+Token: ' People' (ID: 8853), Prob: 0.0000
+Token: ' entire' (ID: 4453), Prob: 0.0000
+Token: ' Empire' (ID: 20448), Prob: 0.0000
+
+== Ranked Concepts (Clusters) ==
+Rank 1 | Centroid: 'United' | Score: 1.0000
+  Tokens: [' United', 'United', ' UNITED']
+Rank 2 | Centroid: ' UK' | Score: 0.0003
+  Tokens: [' UK', 'UK', ' Uk']
+Rank 3 | Centroid: ' King' | Score: 0.0000
+  Tokens: [' Kingdom', ' Queen', ' King', ' Prince', ' Crown', ' Royal', ' Lord']
+Rank 4 | Centroid: ' united' | Score: 0.0000
+  Tokens: [' united', ' Unified', ' Unit']
+Rank 5 | Centroid: ' US' | Score: 0.0000
+  Tokens: [' U', ' USA', ' US']
+Rank 6 | Centroid: ' Un' | Score: 0.0000
+  Tokens: [' Un', ' Unt', ' UN']
+Rank 7 | Centroid: ' Universe' | Score: 0.0000
+  Tokens: [' University', ' Universe', ' Universal']
+Rank 8 | Centroid: ' the' | Score: 0.0000
+  Tokens: [' The', ' the', ' In', ' in', ' and']
+Rank 9 | Centroid: ' Empire' | Score: 0.0000
+  Tokens: [' Commonwealth', ' Republic', ' Empire']
+Rank 10 | Centroid: ' Union' | Score: 0.0000
+  Tokens: [' Union']
+Rank 11 | Centroid: ' British' | Score: 0.0000
+  Tokens: [' British', ' BBC', ' English']
+Rank 12 | Centroid: ' Philippines' | Score: 0.0000
+  Tokens: [' Netherlands', ' UAE', ' Philippines']
+Rank 13 | Centroid: ' Middle' | Score: 0.0000
+  Tokens: [' Middle', ' North']
+Rank 14 | Centroid: ' Prime' | Score: 0.0000
+  Tokens: [' Prime', ' Great']
+Rank 15 | Centroid: ' People' | Score: 0.0000
+  Tokens: [' Retrieved', ' People', ' entire']
+Rank 16 | Centroid: ' National' | Score: 0.0000
+  Tokens: [' National']
+Rank 17 | Centroid: ' Albert' | Score: 0.0000
+  Tokens: [' Albert']
+
+**Chosen Concept:** Rank 1

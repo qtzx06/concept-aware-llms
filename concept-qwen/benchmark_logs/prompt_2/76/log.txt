@@ -1,155 +1,143 @@
 --- Step 76 Log ---
 
 == Filtered Candidates ==
-Token: ' put' (ID: 2182), Prob: 0.7188
-Token: ' draft' (ID: 9960), Prob: 0.2334
-Token: ' try' (ID: 1430), Prob: 0.0356
-Token: ' start' (ID: 1191), Prob: 0.0080
-Token: ' piece' (ID: 6573), Prob: 0.0020
-Token: ' write' (ID: 3270), Prob: 0.0007
-Token: ' build' (ID: 1936), Prob: 0.0005
-Token: ' structure' (ID: 5944), Prob: 0.0005
-Token: ' craft' (ID: 10770), Prob: 0.0002
-Token: ' see' (ID: 1490), Prob: 0.0001
-Token: ' compose' (ID: 30335), Prob: 0.0001
-Token: ' begin' (ID: 3161), Prob: 0.0001
-Token: ' get' (ID: 633), Prob: 0.0000
-Token: ' construct' (ID: 9245), Prob: 0.0000
-Token: ' attempt' (ID: 4774), Prob: 0.0000
-Token: ' assemble' (ID: 41740), Prob: 0.0000
-Token: ' outline' (ID: 21101), Prob: 0.0000
-Token: ' format' (ID: 3561), Prob: 0.0000
-Token: ' check' (ID: 1779), Prob: 0.0000
-Token: ' pour' (ID: 4914), Prob: 0.0000
-Token: ' read' (ID: 1349), Prob: 0.0000
-Token: ' form' (ID: 1352), Prob: 0.0000
-Token: ' arrange' (ID: 30893), Prob: 0.0000
-Token: ' create' (ID: 1855), Prob: 0.0000
-Token: ' flesh' (ID: 24955), Prob: 0.0000
-Token: ' think' (ID: 1744), Prob: 0.0000
-Token: ' make' (ID: 1281), Prob: 0.0000
-Token: ' putting' (ID: 10687), Prob: 0.0000
-Token: ' combine' (ID: 15963), Prob: 0.0000
-Token: ' rewrite' (ID: 18130), Prob: 0.0000
-Token: ' pull' (ID: 6815), Prob: 0.0000
-Token: ' lay' (ID: 10962), Prob: 0.0000
-Token: ' throw' (ID: 2510), Prob: 0.0000
-Token: ' shape' (ID: 6083), Prob: 0.0000
-Token: ' place' (ID: 1992), Prob: 0.0000
-Token: ' pick' (ID: 3735), Prob: 0.0000
-Token: ' brainstorm' (ID: 86781), Prob: 0.0000
-Token: ' time' (ID: 882), Prob: 0.0000
-Token: ' jump' (ID: 7784), Prob: 0.0000
-Token: ' test' (ID: 1273), Prob: 0.0000
-Token: 'Draft' (ID: 50086), Prob: 0.0000
-Token: ' puts' (ID: 9521), Prob: 0.0000
-Token: ' string' (ID: 914), Prob: 0.0000
-Token: ' count' (ID: 1760), Prob: 0.0000
-Token: ' organize' (ID: 30235), Prob: 0.0000
-Token: ' cut' (ID: 3931), Prob: 0.0000
-Token: ' patch' (ID: 10900), Prob: 0.0000
-Token: ' weave' (ID: 67508), Prob: 0.0000
-Token: ' proceed' (ID: 10354), Prob: 0.0000
-Token: ' prototype' (ID: 24052), Prob: 0.0000
-Token: ' word' (ID: 3409), Prob: 0.0000
-Token: ' compile' (ID: 19192), Prob: 0.0000
-Token: ' plan' (ID: 3119), Prob: 0.0000
-Token: ' plant' (ID: 6008), Prob: 0.0000
-Token: ' wrap' (ID: 15061), Prob: 0.0000
-Token: ' work' (ID: 975), Prob: 0.0000
-Token: ' say' (ID: 1977), Prob: 0.0000
-Token: ' visualize' (ID: 50087), Prob: 0.0000
-Token: ' bring' (ID: 4446), Prob: 0.0000
-Token: ' drafts' (ID: 63592), Prob: 0.0000
-Token: ' group' (ID: 1874), Prob: 0.0000
-Token: ' aim' (ID: 9213), Prob: 0.0000
-Token: ' add' (ID: 912), Prob: 0.0000
-Token: ' edit' (ID: 4499), Prob: 0.0000
-Token: ' jot' (ID: 92380), Prob: 0.0000
-Token: ' Draft' (ID: 28564), Prob: 0.0000
-Token: ' stitch' (ID: 32861), Prob: 0.0000
-Token: ' reconstruct' (ID: 43828), Prob: 0.0000
-Token: ' drafting' (ID: 57900), Prob: 0.0000
-Token: ' str' (ID: 607), Prob: 0.0000
-Token: ' take' (ID: 1896), Prob: 0.0000
-Token: ' hit' (ID: 4201), Prob: 0.0000
-Token: ' jam' (ID: 20072), Prob: 0.0000
-Token: ' paraph' (ID: 62230), Prob: 0.0000
-Token: ' set' (ID: 738), Prob: 0.0000
-Token: ' come' (ID: 2525), Prob: 0.0000
-Token: ' fill' (ID: 5155), Prob: 0.0000
-Token: ' phrase' (ID: 17133), Prob: 0.0000
-Token: ' revise' (ID: 64736), Prob: 0.0000
-Token: ' toss' (ID: 25187), Prob: 0.0000
-Token: ' shoot' (ID: 6102), Prob: 0.0000
-Token: ' grab' (ID: 11633), Prob: 0.0000
-Token: ' cob' (ID: 33828), Prob: 0.0000
-Token: ' chunk' (ID: 11879), Prob: 0.0000
-Token: ' plug' (ID: 19633), Prob: 0.0000
-Token: ' merge' (ID: 10880), Prob: 0.0000
-Token: ' trim' (ID: 11013), Prob: 0.0000
-Token: ' blend' (ID: 20334), Prob: 0.0000
-Token: '	put' (ID: 45062), Prob: 0.0000
-Token: ' formulate' (ID: 88859), Prob: 0.0000
-Token: ' adjust' (ID: 7500), Prob: 0.0000
-Token: ' pieces' (ID: 9666), Prob: 0.0000
-Token: ' rearr' (ID: 55327), Prob: 0.0000
-Token: ' gather' (ID: 9567), Prob: 0.0000
-Token: ' sketch' (ID: 25529), Prob: 0.0000
-Token: ' fly' (ID: 11466), Prob: 0.0000
+Token: ' young' (ID: 3908), Prob: 0.7188
+Token: ' man' (ID: 883), Prob: 0.0356
+Token: ' character' (ID: 3668), Prob: 0.0168
+Token: ' student' (ID: 5458), Prob: 0.0070
+Token: ' child' (ID: 1682), Prob: 0.0062
+Token: ' male' (ID: 8593), Prob: 0.0062
+Token: ' boy' (ID: 8171), Prob: 0.0055
+Token: ' soldier' (ID: 26110), Prob: 0.0055
+Token: ' youth' (ID: 12537), Prob: 0.0043
+Token: ' teenager' (ID: 31539), Prob: 0.0043
+Token: ' police' (ID: 4282), Prob: 0.0026
+Token: ' middle' (ID: 6149), Prob: 0.0026
+Token: ' younger' (ID: 14650), Prob: 0.0024
+Token: ' new' (ID: 501), Prob: 0.0023
+Token: ' junior' (ID: 26052), Prob: 0.0023
+Token: ' teenage' (ID: 33168), Prob: 0.0023
+Token: ' doctor' (ID: 10668), Prob: 0.0022
+Token: ' member' (ID: 4462), Prob: 0.0020
+Token: ' university' (ID: 12103), Prob: 0.0020
+Token: ' very' (ID: 1602), Prob: 0.0017
+Token: ' guest' (ID: 8640), Prob: 0.0017
+Token: ' senior' (ID: 9990), Prob: 0.0017
+Token: ' second' (ID: 2086), Prob: 0.0016
+Token: ' lead' (ID: 2990), Prob: 0.0016
+Token: ' British' (ID: 7855), Prob: 0.0016
+Token: ' journalist' (ID: 22825), Prob: 0.0016
+Token: ' playwright' (ID: 98368), Prob: 0.0016
+Token: ' supporting' (ID: 12613), Prob: 0.0015
+Token: ' small' (ID: 2613), Prob: 0.0014
+Token: ' school' (ID: 2906), Prob: 0.0014
+Token: ' teacher' (ID: 11079), Prob: 0.0014
+Token: ' waiter' (ID: 67169), Prob: 0.0014
+Token: ' woman' (ID: 5220), Prob: 0.0013
+Token: ' prisoner' (ID: 41850), Prob: 0.0013
+Token: ' minor' (ID: 8922), Prob: 0.0012
+Token: ' fish' (ID: 7640), Prob: 0.0012
+Token: ' bar' (ID: 3619), Prob: 0.0011
+Token: ' former' (ID: 4741), Prob: 0.0011
+Token: ' father' (ID: 6981), Prob: 0.0011
+Token: ' director' (ID: 7538), Prob: 0.0010
+Token: ' priest' (ID: 27086), Prob: 0.0010
+Token: ' fictional' (ID: 43582), Prob: 0.0010
+Token: ' leading' (ID: 6388), Prob: 0.0009
+Token: ' French' (ID: 8585), Prob: 0.0009
+Token: ' secondary' (ID: 14246), Prob: 0.0009
+Token: ' different' (ID: 2155), Prob: 0.0008
+Token: ' short' (ID: 2805), Prob: 0.0008
+Token: ' producer' (ID: 16851), Prob: 0.0008
+Token: ' scientist' (ID: 27468), Prob: 0.0008
+Token: ' detective' (ID: 44159), Prob: 0.0008
+Token: ' military' (ID: 6277), Prob: 0.0008
+Token: ' street' (ID: 8592), Prob: 0.0008
+Token: ' patient' (ID: 8720), Prob: 0.0008
+Token: ' teen' (ID: 9378), Prob: 0.0007
+Token: ' Young' (ID: 13263), Prob: 0.0007
+Token: ' high' (ID: 1550), Prob: 0.0007
+Token: ' medical' (ID: 6457), Prob: 0.0007
+Token: ' television' (ID: 12425), Prob: 0.0007
+Token: ' lawyer' (ID: 15417), Prob: 0.0007
+Token: ' nurse' (ID: 28098), Prob: 0.0007
+Token: ' farmer' (ID: 36400), Prob: 0.0007
+Token: ' third' (ID: 4843), Prob: 0.0007
+Token: ' judge' (ID: 11651), Prob: 0.0007
+Token: ' veteran' (ID: 20820), Prob: 0.0007
+Token: ' comedian' (ID: 50812), Prob: 0.0007
+Token: ' female' (ID: 8778), Prob: 0.0006
+Token: ' professor' (ID: 14227), Prob: 0.0006
+Token: ' singer' (ID: 22757), Prob: 0.0006
+Token: ' poet' (ID: 39260), Prob: 0.0006
+Token: ' college' (ID: 7770), Prob: 0.0006
+Token: ' central' (ID: 8622), Prob: 0.0006
+Token: ' taxi' (ID: 32505), Prob: 0.0006
+Token: ' jan' (ID: 32862), Prob: 0.0006
+Token: ' musician' (ID: 38744), Prob: 0.0006
+Token: ' stage' (ID: 6430), Prob: 0.0005
+Token: ' blind' (ID: 18020), Prob: 0.0005
+Token: ' graduate' (ID: 19023), Prob: 0.0005
+Token: ' narrator' (ID: 64171), Prob: 0.0005
+Token: ' stand' (ID: 2498), Prob: 0.0005
+Token: ' fellow' (ID: 12357), Prob: 0.0005
+Token: ' technician' (ID: 53511), Prob: 0.0005
+Token: ' foreign' (ID: 7214), Prob: 0.0005
+Token: ' prison' (ID: 9343), Prob: 0.0005
+Token: ' dancer' (ID: 63582), Prob: 0.0005
+Token: ' sailor' (ID: 92537), Prob: 0.0005
+Token: ' single' (ID: 3175), Prob: 0.0005
+Token: ' black' (ID: 3691), Prob: 0.0005
+Token: ' recurring' (ID: 45250), Prob: 0.0005
+Token: ' policeman' (ID: 78580), Prob: 0.0005
+Token: ' bartender' (ID: 90405), Prob: 0.0005
+Token: ' person' (ID: 1697), Prob: 0.0004
+Token: ' train' (ID: 5426), Prob: 0.0004
+Token: ' writer' (ID: 6916), Prob: 0.0004
+Token: ' Jewish' (ID: 13350), Prob: 0.0004
+Token: ' non' (ID: 2477), Prob: 0.0004
+Token: ' volunteer' (ID: 25144), Prob: 0.0004
+Token: ' firefighter' (ID: 94165), Prob: 0.0004
+Token: ' German' (ID: 5938), Prob: 0.0004
 
 == Ranked Concepts (Clusters) ==
-Rank 1 | Centroid: ' put' | Score: 0.7188
-  Tokens: [' put', ' putting', ' place', ' puts', '\tput']
-Rank 2 | Centroid: ' Draft' | Score: 0.2334
-  Tokens: [' draft', 'Draft', ' drafts', ' Draft', ' drafting']
-Rank 3 | Centroid: ' attempt' | Score: 0.0356
-  Tokens: [' try', ' attempt', ' plan', ' aim']
-Rank 4 | Centroid: ' begin' | Score: 0.0081
-  Tokens: [' start', ' begin', ' proceed', ' bring', ' come']
-Rank 5 | Centroid: ' piece' | Score: 0.0020
-  Tokens: [' piece', ' patch', ' chunk', ' pieces']
-Rank 6 | Centroid: ' write' | Score: 0.0008
-  Tokens: [' write', ' read']
-Rank 7 | Centroid: ' format' | Score: 0.0005
-  Tokens: [' structure', ' outline', ' format', ' form', ' shape']
-Rank 8 | Centroid: ' build' | Score: 0.0005
-  Tokens: [' build', ' construct']
-Rank 9 | Centroid: ' sketch' | Score: 0.0002
-  Tokens: [' craft', ' prototype', ' sketch']
-Rank 10 | Centroid: ' think' | Score: 0.0001
-  Tokens: [' see', ' think', ' say']
-Rank 11 | Centroid: ' combine' | Score: 0.0001
-  Tokens: [' compose', ' assemble', ' combine', ' weave', ' compile', ' stitch', ' merge', ' blend']
-Rank 12 | Centroid: ' create' | Score: 0.0000
-  Tokens: [' get', ' create', ' make', ' add', ' take']
-Rank 13 | Centroid: ' check' | Score: 0.0000
-  Tokens: [' check', ' time', ' test', ' count', ' work', ' group', ' set']
-Rank 14 | Centroid: ' pour' | Score: 0.0000
-  Tokens: [' pour', ' pull', ' plug', ' fly']
-Rank 15 | Centroid: ' organize' | Score: 0.0000
-  Tokens: [' arrange', ' organize', ' visualize', ' revise', ' formulate']
-Rank 16 | Centroid: ' flesh' | Score: 0.0000
-  Tokens: [' flesh']
-Rank 17 | Centroid: ' jump' | Score: 0.0000
-  Tokens: [' throw', ' pick', ' jump', ' grab']
-Rank 18 | Centroid: ' rewrite' | Score: 0.0000
-  Tokens: [' rewrite', ' reconstruct']
-Rank 19 | Centroid: ' wrap' | Score: 0.0000
-  Tokens: [' lay', ' wrap', ' fill']
-Rank 20 | Centroid: ' phrase' | Score: 0.0000
-  Tokens: [' string', ' word', ' plant', ' str', ' phrase']
-Rank 21 | Centroid: ' brainstorm' | Score: 0.0000
-  Tokens: [' brainstorm', ' jot', ' paraph', ' rearr']
-Rank 22 | Centroid: ' cut' | Score: 0.0000
-  Tokens: [' cut', ' hit']
-Rank 23 | Centroid: ' trim' | Score: 0.0000
-  Tokens: [' jam', ' cob', ' trim']
-Rank 24 | Centroid: ' edit' | Score: 0.0000
-  Tokens: [' edit', ' adjust']
-Rank 25 | Centroid: ' toss' | Score: 0.0000
-  Tokens: [' toss', ' shoot']
-Rank 26 | Centroid: ' gather' | Score: 0.0000
-  Tokens: [' gather']
+Rank 1 | Centroid: ' young' | Score: 0.7344
+  Tokens: [' young', ' youth', ' teenager', ' younger', ' teenage', ' teen', ' Young']
+Rank 2 | Centroid: ' boy' | Score: 0.0479
+  Tokens: [' man', ' child', ' boy', ' person']
+Rank 3 | Centroid: ' small' | Score: 0.0275
+  Tokens: [' character', ' new', ' very', ' small', ' bar', ' different', ' short', ' high', ' stand', ' single', ' black', ' non']
+Rank 4 | Centroid: ' musician' | Score: 0.0098
+  Tokens: [' journalist', ' playwright', ' director', ' producer', ' scientist', ' comedian', ' singer', ' poet', ' musician', ' narrator', ' dancer', ' writer']
+Rank 5 | Centroid: ' female' | Score: 0.0092
+  Tokens: [' male', ' woman', ' father', ' female']
+Rank 6 | Centroid: ' lawyer' | Score: 0.0082
+  Tokens: [' doctor', ' waiter', ' priest', ' lawyer', ' nurse', ' farmer', ' judge', ' technician', ' bartender']
+Rank 7 | Centroid: ' soldier' | Score: 0.0077
+  Tokens: [' soldier', ' prisoner', ' sailor', ' firefighter']
+Rank 8 | Centroid: ' student' | Score: 0.0070
+  Tokens: [' student']
+Rank 9 | Centroid: ' second' | Score: 0.0068
+  Tokens: [' middle', ' second', ' secondary', ' third', ' central', ' stage']
+Rank 10 | Centroid: ' senior' | Score: 0.0068
+  Tokens: [' junior', ' senior', ' minor', ' former', ' fellow']
+Rank 11 | Centroid: ' university' | Score: 0.0065
+  Tokens: [' university', ' school', ' teacher', ' professor', ' college', ' graduate']
+Rank 12 | Centroid: ' German' | Score: 0.0060
+  Tokens: [' British', ' fictional', ' French', ' military', ' foreign', ' recurring', ' Jewish', ' German']
+Rank 13 | Centroid: ' veteran' | Score: 0.0055
+  Tokens: [' member', ' guest', ' patient', ' veteran', ' volunteer']
+Rank 14 | Centroid: ' police' | Score: 0.0049
+  Tokens: [' police', ' detective', ' taxi', ' prison', ' policeman']
+Rank 15 | Centroid: ' leading' | Score: 0.0039
+  Tokens: [' lead', ' supporting', ' leading']
+Rank 16 | Centroid: ' fish' | Score: 0.0025
+  Tokens: [' fish', ' street', ' blind']
+Rank 17 | Centroid: ' medical' | Score: 0.0011
+  Tokens: [' medical', ' train']
+Rank 18 | Centroid: ' television' | Score: 0.0007
+  Tokens: [' television']
+Rank 19 | Centroid: ' jan' | Score: 0.0006
+  Tokens: [' jan']
 
 **Chosen Concept:** Rank 1

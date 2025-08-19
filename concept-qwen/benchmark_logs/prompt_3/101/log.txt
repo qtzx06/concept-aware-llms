@@ -1,0 +1,111 @@
+--- Step 101 Log ---
+
+== Filtered Candidates ==
+Token: ' also' (ID: 1083), Prob: 1.0000
+Token: ' appeared' (ID: 9723), Prob: 0.0010
+Token: ' played' (ID: 6342), Prob: 0.0000
+Token: ' Also' (ID: 7281), Prob: 0.0000
+Token: ' was' (ID: 572), Prob: 0.0000
+Token: ' had' (ID: 1030), Prob: 0.0000
+Token: ' starred' (ID: 58235), Prob: 0.0000
+Token: 'also' (ID: 18654), Prob: 0.0000
+Token: ' made' (ID: 1865), Prob: 0.0000
+Token: ' did' (ID: 1521), Prob: 0.0000
+Token: ' appears' (ID: 7952), Prob: 0.0000
+Token: ' performed' (ID: 10660), Prob: 0.0000
+Token: ' would' (ID: 1035), Prob: 0.0000
+Token: 'Also' (ID: 13394), Prob: 0.0000
+Token: ' became' (ID: 6116), Prob: 0.0000
+Token: ' juga' (ID: 42369), Prob: 0.0000
+Token: ' co' (ID: 1062), Prob: 0.0000
+Token: ' first' (ID: 1156), Prob: 0.0000
+Token: ' and' (ID: 323), Prob: 0.0000
+Token: ' as' (ID: 438), Prob: 0.0000
+Token: ' could' (ID: 1410), Prob: 0.0000
+Token: ' participated' (ID: 30308), Prob: 0.0000
+Token: ' portrayed' (ID: 44777), Prob: 0.0000
+Token: ' cũng' (ID: 128268), Prob: 0.0000
+Token: ' took' (ID: 3867), Prob: 0.0000
+Token: ' produced' (ID: 8947), Prob: 0.0000
+Token: ' then' (ID: 1221), Prob: 0.0000
+Token: ' started' (ID: 3855), Prob: 0.0000
+Token: ' appear' (ID: 4994), Prob: 0.0000
+Token: ' acted' (ID: 30432), Prob: 0.0000
+Token: ' later' (ID: 2937), Prob: 0.0000
+Token: ' the' (ID: 279), Prob: 0.0000
+Token: ' began' (ID: 6009), Prob: 0.0000
+Token: ' released' (ID: 5880), Prob: 0.0000
+Token: ' additionally' (ID: 36838), Prob: 0.0000
+Token: ' a' (ID: 264), Prob: 0.0000
+Token: ' in' (ID: 304), Prob: 0.0000
+Token: ' wrote' (ID: 6139), Prob: 0.0000
+Token: ' he' (ID: 566), Prob: 0.0000
+Token: ' guest' (ID: 8640), Prob: 0.0000
+Token: ' featured' (ID: 14766), Prob: 0.0000
+Token: ' likewise' (ID: 37922), Prob: 0.0000
+Token: ' als' (ID: 10712), Prob: 0.0000
+Token: ' once' (ID: 3055), Prob: 0.0000
+Token: ' continued' (ID: 8570), Prob: 0.0000
+Token: ' presented' (ID: 10449), Prob: 0.0000
+Token: ' earned' (ID: 15303), Prob: 0.0000
+Token: ' anche' (ID: 28057), Prob: 0.0000
+Token: ' again' (ID: 1549), Prob: 0.0000
+Token: ' received' (ID: 3949), Prob: 0.0000
+Token: ' appearing' (ID: 25377), Prob: 0.0000
+Token: ' has' (ID: 702), Prob: 0.0000
+Token: ' won' (ID: 2765), Prob: 0.0000
+Token: ' added' (ID: 3694), Prob: 0.0000
+Token: ' joined' (ID: 10859), Prob: 0.0000
+Token: ' represented' (ID: 15251), Prob: 0.0000
+Token: ' directed' (ID: 15540), Prob: 0.0000
+Token: ' held' (ID: 5644), Prob: 0.0000
+Token: ' returned' (ID: 5927), Prob: 0.0000
+Token: ' star' (ID: 6774), Prob: 0.0000
+Token: ' actor' (ID: 12089), Prob: 0.0000
+Token: ' gained' (ID: 18163), Prob: 0.0000
+Token: ' not' (ID: 537), Prob: 0.0000
+Token: ' created' (ID: 3465), Prob: 0.0000
+Token: ' finally' (ID: 5499), Prob: 0.0000
+Token: ' only' (ID: 1172), Prob: 0.0000
+Token: ' served' (ID: 10223), Prob: 0.0000
+Token: ' announced' (ID: 7228), Prob: 0.0000
+Token: ' gave' (ID: 6551), Prob: 0.0000
+Token: ' authored' (ID: 66113), Prob: 0.0000
+
+== Ranked Concepts (Clusters) ==
+Rank 1 | Centroid: ' also' | Score: 1.0000
+  Tokens: [' also', ' Also', 'also', 'Also', ' juga', ' cũng', ' additionally', ' likewise', ' als', ' anche']
+Rank 2 | Centroid: ' appear' | Score: 0.0010
+  Tokens: [' appeared', ' appears', ' appear', ' appearing']
+Rank 3 | Centroid: ' was' | Score: 0.0001
+  Tokens: [' was', ' had', ' did', ' would', ' could', ' has']
+Rank 4 | Centroid: ' played' | Score: 0.0000
+  Tokens: [' played', ' performed', ' acted', ' held', ' served']
+Rank 5 | Centroid: ' starred' | Score: 0.0000
+  Tokens: [' starred', ' star']
+Rank 6 | Centroid: ' the' | Score: 0.0000
+  Tokens: [' co', ' first', ' and', ' as', ' the', ' a', ' in', ' he', ' not', ' only']
+Rank 7 | Centroid: ' made' | Score: 0.0000
+  Tokens: [' made']
+Rank 8 | Centroid: ' began' | Score: 0.0000
+  Tokens: [' became', ' took', ' started', ' began', ' wrote', ' gave']
+Rank 9 | Centroid: ' created' | Score: 0.0000
+  Tokens: [' produced', ' released', ' added', ' joined', ' returned', ' created', ' announced']
+Rank 10 | Centroid: ' then' | Score: 0.0000
+  Tokens: [' then', ' later', ' finally']
+Rank 11 | Centroid: ' portrayed' | Score: 0.0000
+  Tokens: [' portrayed', ' presented', ' represented']
+Rank 12 | Centroid: ' featured' | Score: 0.0000
+  Tokens: [' guest', ' featured', ' directed']
+Rank 13 | Centroid: ' gained' | Score: 0.0000
+  Tokens: [' earned', ' received', ' won', ' gained']
+Rank 14 | Centroid: ' participated' | Score: 0.0000
+  Tokens: [' participated', ' authored']
+Rank 15 | Centroid: ' once' | Score: 0.0000
+  Tokens: [' once', ' again']
+Rank 16 | Centroid: ' continued' | Score: 0.0000
+  Tokens: [' continued']
+Rank 17 | Centroid: ' actor' | Score: 0.0000
+  Tokens: [' actor']
+
+**Chosen Concept:** Rank 1

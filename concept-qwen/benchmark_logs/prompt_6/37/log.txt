@@ -1,0 +1,97 @@
+--- Step 37 Log ---
+
+== Filtered Candidates ==
+Token: ' year' (ID: 1042), Prob: 0.9961
+Token: ' same' (ID: 1852), Prob: 0.0036
+Token: 'year' (ID: 3157), Prob: 0.0000
+Token: ' years' (ID: 1635), Prob: 0.0000
+Token: ' summer' (ID: 7324), Prob: 0.0000
+Token: ' Year' (ID: 9742), Prob: 0.0000
+Token: ' calendar' (ID: 13168), Prob: 0.0000
+Token: ' the' (ID: 279), Prob: 0.0000
+Token: ' time' (ID: 882), Prob: 0.0000
+Token: ' decade' (ID: 13212), Prob: 0.0000
+Token: ' film' (ID: 4531), Prob: 0.0000
+Token: ' very' (ID: 1602), Prob: 0.0000
+Token: ' season' (ID: 3200), Prob: 0.0000
+Token: ' period' (ID: 4168), Prob: 0.0000
+Token: ' month' (ID: 2254), Prob: 0.0000
+Token: '_year' (ID: 14645), Prob: 0.0000
+Token: ' ye' (ID: 19478), Prob: 0.0000
+Token: '.year' (ID: 24414), Prob: 0.0000
+Token: ' following' (ID: 2701), Prob: 0.0000
+Token: ' and' (ID: 323), Prob: 0.0000
+Token: ' y' (ID: 379), Prob: 0.0000
+Token: ' first' (ID: 1156), Prob: 0.0000
+Token: '-year' (ID: 4666), Prob: 0.0000
+Token: ' second' (ID: 2086), Prob: 0.0000
+Token: ' particular' (ID: 3953), Prob: 0.0000
+Token: ' date' (ID: 2400), Prob: 0.0000
+Token: ' fall' (ID: 4399), Prob: 0.0000
+Token: 'same' (ID: 24063), Prob: 0.0000
+Token: ' YEAR' (ID: 50905), Prob: 0.0000
+Token: 'Year' (ID: 9490), Prob: 0.0000
+Token: ' as' (ID: 438), Prob: 0.0000
+Token: ' Same' (ID: 25739), Prob: 0.0000
+Token: ' yr' (ID: 42338), Prob: 0.0000
+Token: ' release' (ID: 4879), Prob: 0.0000
+Token: ' f' (ID: 282), Prob: 0.0000
+Token: ' he' (ID: 566), Prob: 0.0000
+Token: ' năm' (ID: 128290), Prob: 0.0000
+Token: ' año' (ID: 35816), Prob: 0.0000
+Token: ' day' (ID: 1899), Prob: 0.0000
+Token: ' in' (ID: 304), Prob: 0.0000
+Token: ' annum' (ID: 86657), Prob: 0.0000
+Token: ' fiscal' (ID: 19743), Prob: 0.0000
+Token: ' movie' (ID: 5700), Prob: 0.0000
+Token: ' it' (ID: 432), Prob: 0.0000
+Token: ' yearly' (ID: 44270), Prob: 0.0000
+Token: ' annual' (ID: 9775), Prob: 0.0000
+Token: ' era' (ID: 11385), Prob: 0.0000
+Token: ' anniversary' (ID: 21582), Prob: 0.0000
+Token: ' theater' (ID: 26705), Prob: 0.0000
+Token: ' television' (ID: 12425), Prob: 0.0000
+Token: ' tahun' (ID: 57523), Prob: 0.0000
+Token: ' also' (ID: 1083), Prob: 0.0000
+Token: ' to' (ID: 311), Prob: 0.0000
+Token: ' two' (ID: 1378), Prob: 0.0000
+Token: ' jaar' (ID: 50343), Prob: 0.0000
+Token: ' cycle' (ID: 10775), Prob: 0.0000
+Token: ' likewise' (ID: 37922), Prob: 0.0000
+Token: ' s' (ID: 274), Prob: 0.0000
+Token: ' final' (ID: 1590), Prob: 0.0000
+Token: ' winter' (ID: 12406), Prob: 0.0000
+Token: ' Y' (ID: 809), Prob: 0.0000
+Token: ' event' (ID: 1538), Prob: 0.0000
+Token: ' one' (ID: 825), Prob: 0.0000
+Token: ' third' (ID: 4843), Prob: 0.0000
+
+== Ranked Concepts (Clusters) ==
+Rank 1 | Centroid: '_year' | Score: 0.9961
+  Tokens: [' year', 'year', ' years', ' Year', ' decade', '_year', '.year', '-year', ' YEAR', 'Year', ' năm', ' año', ' tahun', ' jaar']
+Rank 2 | Centroid: ' same' | Score: 0.0036
+  Tokens: [' same', 'same', ' Same']
+Rank 3 | Centroid: ' summer' | Score: 0.0000
+  Tokens: [' summer', ' season', ' fall', ' winter']
+Rank 4 | Centroid: ' the' | Score: 0.0000
+  Tokens: [' the', ' very', ' following', ' and', ' as', ' f', ' he', ' in', ' it', ' to', ' two', ' s', ' one']
+Rank 5 | Centroid: ' calendar' | Score: 0.0000
+  Tokens: [' calendar', ' event']
+Rank 6 | Centroid: ' era' | Score: 0.0000
+  Tokens: [' time', ' period', ' era', ' cycle']
+Rank 7 | Centroid: ' movie' | Score: 0.0000
+  Tokens: [' film', ' movie', ' theater', ' television']
+Rank 8 | Centroid: ' y' | Score: 0.0000
+  Tokens: [' ye', ' y', ' yr', ' Y']
+Rank 9 | Centroid: ' month' | Score: 0.0000
+  Tokens: [' month', ' date', ' day']
+Rank 10 | Centroid: ' second' | Score: 0.0000
+  Tokens: [' first', ' second', ' final', ' third']
+Rank 11 | Centroid: ' also' | Score: 0.0000
+  Tokens: [' particular', ' also', ' likewise']
+Rank 12 | Centroid: ' annual' | Score: 0.0000
+  Tokens: [' annum', ' yearly', ' annual', ' anniversary']
+Rank 13 | Centroid: ' release' | Score: 0.0000
+  Tokens: [' release', ' fiscal']
+
+**Chosen Concept:** Rank 1

@@ -1,119 +1,102 @@
 --- Step 121 Log ---
 
 == Filtered Candidates ==
-Token: ' two' (ID: 1378), Prob: 0.0845
-Token: ' three' (ID: 2326), Prob: 0.0452
-Token: ' specific' (ID: 3151), Prob: 0.0275
-Token: ' five' (ID: 4236), Prob: 0.0275
-Token: ' dialogue' (ID: 21276), Prob: 0.0214
-Token: ' one' (ID: 825), Prob: 0.0166
-Token: ' sensory' (ID: 47969), Prob: 0.0101
-Token: ' scenes' (ID: 16065), Prob: 0.0095
-Token: ' elements' (ID: 5424), Prob: 0.0074
-Token: ' four' (ID: 3040), Prob: 0.0065
-Token: ' vivid' (ID: 42020), Prob: 0.0039
-Token: ' descriptions' (ID: 27787), Prob: 0.0029
-Token: ' details' (ID: 3565), Prob: 0.0027
-Token: ' six' (ID: 4743), Prob: 0.0025
-Token: ' scene' (ID: 6109), Prob: 0.0020
-Token: ' within' (ID: 2878), Prob: 0.0018
-Token: ' physical' (ID: 6961), Prob: 0.0015
-Token: ' imagery' (ID: 40445), Prob: 0.0015
-Token: ' themes' (ID: 21386), Prob: 0.0014
-Token: ' seven' (ID: 8094), Prob: 0.0013
-Token: ' emotional' (ID: 14269), Prob: 0.0012
-Token: ' descriptive' (ID: 52844), Prob: 0.0012
-Token: ' proper' (ID: 6169), Prob: 0.0011
-Token: ' multiple' (ID: 5248), Prob: 0.0011
-Token: ' personal' (ID: 4345), Prob: 0.0009
-Token: ' internal' (ID: 5306), Prob: 0.0009
-Token: ' natural' (ID: 5810), Prob: 0.0009
-Token: ' exactly' (ID: 6896), Prob: 0.0009
-Token: ' emotions' (ID: 21261), Prob: 0.0008
-Token: ' characters' (ID: 5766), Prob: 0.0007
-Token: ' dialog' (ID: 7254), Prob: 0.0007
-Token: ' visual' (ID: 9124), Prob: 0.0006
-Token: ' detailed' (ID: 11682), Prob: 0.0006
-Token: ' conflict' (ID: 12055), Prob: 0.0005
-Token: ' events' (ID: 4357), Prob: 0.0005
-Token: ' fictional' (ID: 43582), Prob: 0.0005
-Token: ' character' (ID: 3668), Prob: 0.0004
-Token: ' names' (ID: 5036), Prob: 0.0004
-Token: ' several' (ID: 3807), Prob: 0.0004
-Token: ' appropriate' (ID: 8311), Prob: 0.0004
-Token: ' time' (ID: 882), Prob: 0.0004
-Token: ' ten' (ID: 5779), Prob: 0.0004
-Token: ' references' (ID: 15057), Prob: 0.0004
-Token: ' symbolic' (ID: 35296), Prob: 0.0004
-Token: ' eight' (ID: 8063), Prob: 0.0003
-Token: ' supporting' (ID: 12613), Prob: 0.0003
-Token: ' plot' (ID: 7089), Prob: 0.0003
-Token: ' symbols' (ID: 17738), Prob: 0.0003
-Token: ' realistic' (ID: 25489), Prob: 0.0003
-Token: ' first' (ID: 1156), Prob: 0.0003
-Token: ' action' (ID: 1917), Prob: 0.0003
-Token: ' different' (ID: 2155), Prob: 0.0003
-Token: ' non' (ID: 2477), Prob: 0.0003
-Token: ' either' (ID: 2987), Prob: 0.0003
-Token: ' actions' (ID: 6168), Prob: 0.0003
-Token: ' direct' (ID: 2118), Prob: 0.0003
-Token: ' minimal' (ID: 17377), Prob: 0.0003
-Token: ' strong' (ID: 3746), Prob: 0.0003
-Token: ' family' (ID: 2997), Prob: 0.0002
-Token: ' enough' (ID: 3322), Prob: 0.0002
-Token: ' distinct' (ID: 12460), Prob: 0.0002
-Token: ' emotion' (ID: 19772), Prob: 0.0002
-Token: ' sub' (ID: 1186), Prob: 0.0002
-Token: ' real' (ID: 1931), Prob: 0.0002
-Token: ' something' (ID: 2494), Prob: 0.0002
-Token: ' additional' (ID: 5107), Prob: 0.0002
-Token: ' every' (ID: 1449), Prob: 0.0002
-Token: ' detail' (ID: 7716), Prob: 0.0002
-Token: ' diverse' (ID: 16807), Prob: 0.0002
-Token: ' interactions' (ID: 21880), Prob: 0.0002
-Token: ' description' (ID: 4008), Prob: 0.0002
-Token: ' items' (ID: 3589), Prob: 0.0002
-Token: ' external' (ID: 9250), Prob: 0.0002
-Token: ' language' (ID: 4128), Prob: 0.0002
+Token: ' series' (ID: 4013), Prob: 1.0000
+Token: ' Series' (ID: 11131), Prob: 0.0000
+Token: ' and' (ID: 323), Prob: 0.0000
+Token: 'series' (ID: 19880), Prob: 0.0000
+Token: ' television' (ID: 12425), Prob: 0.0000
+Token: ' serie' (ID: 32878), Prob: 0.0000
+Token: '.series' (ID: 48649), Prob: 0.0000
+Token: ' drama' (ID: 19584), Prob: 0.0000
+Token: ' TV' (ID: 5883), Prob: 0.0000
+Token: ' serial' (ID: 6146), Prob: 0.0000
+Token: ' show' (ID: 1473), Prob: 0.0000
+Token: ' programme' (ID: 18136), Prob: 0.0000
+Token: ' The' (ID: 576), Prob: 0.0000
+Token: ''s' (ID: 594), Prob: 0.0000
+Token: ' sitcom' (ID: 80366), Prob: 0.0000
+Token: 'Series' (ID: 25544), Prob: 0.0000
+Token: ' série' (ID: 46428), Prob: 0.0000
+Token: ' police' (ID: 4282), Prob: 0.0000
+Token: ' dramas' (ID: 87726), Prob: 0.0000
+Token: '(series' (ID: 70851), Prob: 0.0000
+Token: ' programmes' (ID: 37637), Prob: 0.0000
+Token: ' program' (ID: 2025), Prob: 0.0000
+Token: ' season' (ID: 3200), Prob: 0.0000
+Token: ' One' (ID: 3776), Prob: 0.0000
+Token: ' s' (ID: 274), Prob: 0.0000
+Token: ' variety' (ID: 8045), Prob: 0.0000
+Token: ' radio' (ID: 8887), Prob: 0.0000
+Token: ' i' (ID: 600), Prob: 0.0000
+Token: ' Radio' (ID: 13484), Prob: 0.0000
+Token: ' franchise' (ID: 19024), Prob: 0.0000
+Token: ' programs' (ID: 7468), Prob: 0.0000
+Token: ' Crown' (ID: 28643), Prob: 0.0000
+Token: '1' (ID: 16), Prob: 0.0000
+Token: ' news' (ID: 3669), Prob: 0.0000
+Token: '-series' (ID: 56332), Prob: 0.0000
+Token: ' the' (ID: 279), Prob: 0.0000
+Token: ' service' (ID: 2473), Prob: 0.0000
+Token: ' shows' (ID: 4933), Prob: 0.0000
+Token: ' crime' (ID: 9778), Prob: 0.0000
+Token: ' since' (ID: 2474), Prob: 0.0000
+Token: '2' (ID: 17), Prob: 0.0000
+Token: 's' (ID: 82), Prob: 0.0000
+Token: ' sports' (ID: 9833), Prob: 0.0000
+Token: ' soap' (ID: 26785), Prob: 0.0000
+Token: ' in' (ID: 304), Prob: 0.0000
+Token: ' war' (ID: 4116), Prob: 0.0000
+Token: ' Royal' (ID: 16194), Prob: 0.0000
+Token: ' role' (ID: 3476), Prob: 0.0000
+Token: ' Two' (ID: 9043), Prob: 0.0000
+Token: ' documentary' (ID: 24954), Prob: 0.0000
+Token: ' comedy' (ID: 22358), Prob: 0.0000
+Token: ' theatre' (ID: 33496), Prob: 0.0000
+Token: ' Northern' (ID: 16926), Prob: 0.0000
+Token: ' I' (ID: 358), Prob: 0.0000
+Token: ' Television' (ID: 40345), Prob: 0.0000
+Token: ' seri' (ID: 93346), Prob: 0.0000
+Token: ' T' (ID: 350), Prob: 0.0000
+Token: ' You' (ID: 1446), Prob: 0.0000
+Token: ' channel' (ID: 5496), Prob: 0.0000
+Token: ' romantic' (ID: 23467), Prob: 0.0000
+Token: ' royal' (ID: 29236), Prob: 0.0000
+Token: ' Sherlock' (ID: 60626), Prob: 0.0000
+Token: ' In' (ID: 758), Prob: 0.0000
+Token: ' World' (ID: 4337), Prob: 0.0000
+Token: ' Red' (ID: 3731), Prob: 0.0000
+Token: ' News' (ID: 5398), Prob: 0.0000
+Token: ' Shakespeare' (ID: 41382), Prob: 0.0000
 
 == Ranked Concepts (Clusters) ==
-Rank 1 | Centroid: ' five' | Score: 0.1689
-  Tokens: [' two', ' three', ' five', ' four', ' six', ' seven', ' several', ' ten', ' eight']
-Rank 2 | Centroid: ' diverse' | Score: 0.0293
-  Tokens: [' specific', ' multiple', ' different', ' distinct', ' diverse']
-Rank 3 | Centroid: ' dialogue' | Score: 0.0228
-  Tokens: [' dialogue', ' dialog', ' conflict', ' language']
-Rank 4 | Centroid: ' non' | Score: 0.0200
-  Tokens: [' one', ' within', ' time', ' first', ' non', ' direct', ' family', ' sub']
-Rank 5 | Centroid: ' scenes' | Score: 0.0115
-  Tokens: [' scenes', ' scene']
-Rank 6 | Centroid: ' sensory' | Score: 0.0107
-  Tokens: [' sensory', ' visual']
-Rank 7 | Centroid: ' items' | Score: 0.0081
-  Tokens: [' elements', ' events', ' items']
-Rank 8 | Centroid: ' detailed' | Score: 0.0074
-  Tokens: [' vivid', ' details', ' detailed', ' detail']
-Rank 9 | Centroid: ' descriptions' | Score: 0.0051
-  Tokens: [' descriptions', ' descriptive', ' names', ' references', ' description']
-Rank 10 | Centroid: ' external' | Score: 0.0043
-  Tokens: [' physical', ' personal', ' internal', ' natural', ' external']
-Rank 11 | Centroid: ' symbols' | Score: 0.0035
-  Tokens: [' imagery', ' themes', ' symbolic', ' symbols']
-Rank 12 | Centroid: ' appropriate' | Score: 0.0034
-  Tokens: [' proper', ' exactly', ' appropriate', ' either', ' enough', ' something', ' every']
-Rank 13 | Centroid: ' emotions' | Score: 0.0022
-  Tokens: [' emotional', ' emotions', ' emotion']
-Rank 14 | Centroid: ' characters' | Score: 0.0012
-  Tokens: [' characters', ' character']
-Rank 15 | Centroid: ' realistic' | Score: 0.0010
-  Tokens: [' fictional', ' realistic', ' real']
-Rank 16 | Centroid: ' actions' | Score: 0.0008
-  Tokens: [' action', ' actions', ' interactions']
-Rank 17 | Centroid: ' additional' | Score: 0.0007
-  Tokens: [' minimal', ' strong', ' additional']
-Rank 18 | Centroid: ' supporting' | Score: 0.0003
-  Tokens: [' supporting']
-Rank 19 | Centroid: ' plot' | Score: 0.0003
-  Tokens: [' plot']
+Rank 1 | Centroid: ' series' | Score: 1.0000
+  Tokens: [' series', ' Series', 'series', ' serie', '.series', 'Series', ' série', '(series', '-series']
+Rank 2 | Centroid: ' the' | Score: 0.0000
+  Tokens: [' and', ' The', "'s", ' One', ' s', ' i', '1', ' the', ' since', '2', ' in', ' Two', ' I', ' T', ' You', ' In', ' Red']
+Rank 3 | Centroid: ' television' | Score: 0.0000
+  Tokens: [' television', ' TV', ' Television']
+Rank 4 | Centroid: ' drama' | Score: 0.0000
+  Tokens: [' drama', ' sitcom', ' dramas', ' crime', ' soap', ' documentary', ' comedy', ' theatre', ' romantic', ' Sherlock', ' Shakespeare']
+Rank 5 | Centroid: ' programme' | Score: 0.0000
+  Tokens: [' programme', ' programmes', ' program', ' programs']
+Rank 6 | Centroid: ' serial' | Score: 0.0000
+  Tokens: [' serial', ' seri']
+Rank 7 | Centroid: ' show' | Score: 0.0000
+  Tokens: [' show', ' shows']
+Rank 8 | Centroid: ' police' | Score: 0.0000
+  Tokens: [' police', ' variety', ' franchise', ' channel']
+Rank 9 | Centroid: ' radio' | Score: 0.0000
+  Tokens: [' radio', ' Radio']
+Rank 10 | Centroid: ' Royal' | Score: 0.0000
+  Tokens: [' Crown', ' Royal', ' Northern', ' royal']
+Rank 11 | Centroid: ' World' | Score: 0.0000
+  Tokens: [' service', ' war', ' role', ' World']
+Rank 12 | Centroid: ' News' | Score: 0.0000
+  Tokens: [' news', ' sports', ' News']
+Rank 13 | Centroid: ' season' | Score: 0.0000
+  Tokens: [' season']
+Rank 14 | Centroid: 's' | Score: 0.0000
+  Tokens: ['s']
 
 **Chosen Concept:** Rank 1

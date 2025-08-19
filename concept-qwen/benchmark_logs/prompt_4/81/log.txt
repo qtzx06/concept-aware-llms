@@ -1,137 +1,116 @@
 --- Step 81 Log ---
 
 == Filtered Candidates ==
-Token: ' reaching' (ID: 18739), Prob: 0.8242
-Token: ' arriving' (ID: 32011), Prob: 0.0674
-Token: ' finishing' (ID: 24284), Prob: 0.0596
-Token: ' arrival' (ID: 18647), Prob: 0.0220
-Token: ' completion' (ID: 9755), Prob: 0.0133
-Token: ' completing' (ID: 26568), Prob: 0.0081
-Token: ' returning' (ID: 13451), Prob: 0.0049
-Token: ' getting' (ID: 3709), Prob: 0.0008
-Token: ' return' (ID: 470), Prob: 0.0001
-Token: ' leaving' (ID: 9380), Prob: 0.0001
-Token: ' seeing' (ID: 9120), Prob: 0.0001
-Token: ' climbing' (ID: 29508), Prob: 0.0001
-Token: ' walking' (ID: 11435), Prob: 0.0001
-Token: ' reach' (ID: 5545), Prob: 0.0000
-Token: ' concluding' (ID: 71026), Prob: 0.0000
-Token: ' summit' (ID: 28948), Prob: 0.0000
-Token: ' finish' (ID: 6248), Prob: 0.0000
-Token: ' discovering' (ID: 41587), Prob: 0.0000
-Token: ' achieving' (ID: 31045), Prob: 0.0000
-Token: ' retr' (ID: 37731), Prob: 0.0000
-Token: ' ending' (ID: 13391), Prob: 0.0000
-Token: ' hiking' (ID: 37364), Prob: 0.0000
-Token: ' realizing' (ID: 43014), Prob: 0.0000
-Token: ' nearing' (ID: 82299), Prob: 0.0000
-Token: ' descending' (ID: 43084), Prob: 0.0000
-Token: ' success' (ID: 2393), Prob: 0.0000
-Token: ' reflection' (ID: 21844), Prob: 0.0000
-Token: ' finding' (ID: 9271), Prob: 0.0000
-Token: ' waking' (ID: 47628), Prob: 0.0000
-Token: ' ascent' (ID: 74989), Prob: 0.0000
-Token: ' finished' (ID: 8060), Prob: 0.0000
-Token: ' complete' (ID: 4583), Prob: 0.0000
-Token: ' accomplishment' (ID: 60138), Prob: 0.0000
-Token: ' finally' (ID: 5499), Prob: 0.0000
-Token: ' logging' (ID: 8392), Prob: 0.0000
-Token: ' spotting' (ID: 89219), Prob: 0.0000
-Token: ' meeting' (ID: 6438), Prob: 0.0000
+Token: ' birth' (ID: 7194), Prob: 1.0000
+Token: ' death' (ID: 4545), Prob: 0.0001
+Token: ' birthday' (ID: 15198), Prob: 0.0000
+Token: ' first' (ID: 1156), Prob: 0.0000
+Token: ' born' (ID: 9223), Prob: 0.0000
+Token: ' births' (ID: 65232), Prob: 0.0000
+Token: ' being' (ID: 1660), Prob: 0.0000
+Token: 'birth' (ID: 27713), Prob: 0.0000
+Token: ' bir' (ID: 15248), Prob: 0.0000
+Token: ' Birth' (ID: 35027), Prob: 0.0000
+Token: ' year' (ID: 1042), Prob: 0.0000
+Token: ' baptism' (ID: 73827), Prob: 0.0000
+Token: ' age' (ID: 4231), Prob: 0.0000
+Token: ' arrival' (ID: 18647), Prob: 0.0000
+Token: ' father' (ID: 6981), Prob: 0.0000
+Token: ' own' (ID: 1828), Prob: 0.0000
+Token: '_birth' (ID: 52973), Prob: 0.0000
+Token: ' creation' (ID: 9688), Prob: 0.0000
+Token: ' life' (ID: 2272), Prob: 0.0000
+Token: ' bearing' (ID: 18043), Prob: 0.0000
+Token: ' production' (ID: 5670), Prob: 0.0000
+Token: ' brother' (ID: 10641), Prob: 0.0000
+Token: ' conception' (ID: 42556), Prob: 0.0000
+Token: ' original' (ID: 4024), Prob: 0.0000
+Token: ' actual' (ID: 5042), Prob: 0.0000
+Token: ' date' (ID: 2400), Prob: 0.0000
+Token: ' release' (ID: 4879), Prob: 0.0000
+Token: ' name' (ID: 829), Prob: 0.0000
+Token: '.birth' (ID: 83982), Prob: 0.0000
+Token: ' and' (ID: 323), Prob: 0.0000
+Token: ' biological' (ID: 23275), Prob: 0.0000
+Token: ' second' (ID: 2086), Prob: 0.0000
+Token: ' adoption' (ID: 24376), Prob: 0.0000
+Token: ' graduation' (ID: 38454), Prob: 0.0000
+Token: ' b' (ID: 293), Prob: 0.0000
+Token: ' third' (ID: 4843), Prob: 0.0000
+Token: ' delivery' (ID: 9691), Prob: 0.0000
+Token: ' the' (ID: 279), Prob: 0.0000
+Token: ' current' (ID: 1482), Prob: 0.0000
+Token: ' burial' (ID: 54663), Prob: 0.0000
+Token: ' profession' (ID: 4808), Prob: 0.0000
+Token: ' mother' (ID: 6554), Prob: 0.0000
+Token: ' debut' (ID: 17306), Prob: 0.0000
+Token: ' work' (ID: 975), Prob: 0.0000
+Token: ' origin' (ID: 6238), Prob: 0.0000
+Token: ' twentieth' (ID: 61420), Prob: 0.0000
+Token: ' book' (ID: 2311), Prob: 0.0000
+Token: ' natural' (ID: 5810), Prob: 0.0000
+Token: ' generation' (ID: 9471), Prob: 0.0000
+Token: ' publication' (ID: 16599), Prob: 0.0000
+Token: ' marriage' (ID: 10866), Prob: 0.0000
+Token: ' childhood' (ID: 19990), Prob: 0.0000
+Token: ' initial' (ID: 2856), Prob: 0.0000
+Token: ' flight' (ID: 10971), Prob: 0.0000
+Token: ' broadcast' (ID: 12899), Prob: 0.0000
+Token: ' belief' (ID: 16396), Prob: 0.0000
+Token: ' invention' (ID: 27130), Prob: 0.0000
+Token: ' previous' (ID: 3681), Prob: 0.0000
+Token: ' career' (ID: 6931), Prob: 0.0000
+Token: ' appearance' (ID: 11094), Prob: 0.0000
 Token: ' discovery' (ID: 18335), Prob: 0.0000
-Token: ' entering' (ID: 16262), Prob: 0.0000
-Token: ' departure' (ID: 24915), Prob: 0.0000
-Token: ' coming' (ID: 5001), Prob: 0.0000
-Token: ' hitting' (ID: 19558), Prob: 0.0000
-Token: ' exiting' (ID: 44748), Prob: 0.0000
-Token: ' successful' (ID: 6849), Prob: 0.0000
-Token: ' landing' (ID: 20327), Prob: 0.0000
-Token: ' climax' (ID: 70195), Prob: 0.0000
-Token: ' completed' (ID: 8145), Prob: 0.0000
-Token: ' sighting' (ID: 92679), Prob: 0.0000
-Token: ' descent' (ID: 36952), Prob: 0.0000
-Token: ' encountering' (ID: 91272), Prob: 0.0000
-Token: ' reached' (ID: 8643), Prob: 0.0000
-Token: 'completion' (ID: 43312), Prob: 0.0000
-Token: ' making' (ID: 3259), Prob: 0.0000
-Token: ' emerging' (ID: 23206), Prob: 0.0000
-Token: ' crossing' (ID: 26638), Prob: 0.0000
-Token: ' resting' (ID: 40119), Prob: 0.0000
-Token: ' final' (ID: 1590), Prob: 0.0000
-Token: ' arrived' (ID: 11465), Prob: 0.0000
-Token: ' succeeding' (ID: 72720), Prob: 0.0000
-Token: ' Arrival' (ID: 92098), Prob: 0.0000
-Token: ' back' (ID: 1182), Prob: 0.0000
-Token: ' successfully' (ID: 7790), Prob: 0.0000
-Token: ' receiving' (ID: 12308), Prob: 0.0000
-Token: ' hearing' (ID: 10778), Prob: 0.0000
-Token: ' witnessing' (ID: 68942), Prob: 0.0000
-Token: ' gaining' (ID: 29140), Prob: 0.0000
-Token: ' setting' (ID: 6243), Prob: 0.0000
-Token: ' achievement' (ID: 25426), Prob: 0.0000
-Token: ' sunrise' (ID: 63819), Prob: 0.0000
-Token: ' conqu' (ID: 38779), Prob: 0.0000
-Token: ' vent' (ID: 10378), Prob: 0.0000
-Token: ' sight' (ID: 13929), Prob: 0.0000
-Token: ' arrive' (ID: 17331), Prob: 0.0000
-Token: ' ascending' (ID: 35388), Prob: 0.0000
-Token: ' visiting' (ID: 16721), Prob: 0.0000
-Token: ' exhaustion' (ID: 69563), Prob: 0.0000
-Token: ' eventual' (ID: 41735), Prob: 0.0000
-Token: ' reflecting' (ID: 41752), Prob: 0.0000
-Token: 'Completion' (ID: 33190), Prob: 0.0000
-Token: ' overcoming' (ID: 72917), Prob: 0.0000
-Token: ' approaching' (ID: 29947), Prob: 0.0000
-Token: ' returns' (ID: 4675), Prob: 0.0000
-Token: ' retrieving' (ID: 48224), Prob: 0.0000
-Token: ' arriv' (ID: 67903), Prob: 0.0000
-Token: ' standing' (ID: 11259), Prob: 0.0000
-Token: ' peak' (ID: 16162), Prob: 0.0000
-Token: ' stepping' (ID: 35467), Prob: 0.0000
-Token: ' part' (ID: 949), Prob: 0.0000
-Token: ' accompl' (ID: 13089), Prob: 0.0000
-Token: ' describing' (ID: 22692), Prob: 0.0000
+Token: ' lifetime' (ID: 19031), Prob: 0.0000
+Token: ' time' (ID: 882), Prob: 0.0000
+Token: ' best' (ID: 1850), Prob: 0.0000
+Token: ' battle' (ID: 8049), Prob: 0.0000
 
 == Ranked Concepts (Clusters) ==
-Rank 1 | Centroid: ' reach' | Score: 0.8242
-  Tokens: [' reaching', ' reach', ' reached']
-Rank 2 | Centroid: ' arrival' | Score: 0.0894
-  Tokens: [' arriving', ' arrival', ' departure', ' arrived', ' Arrival', ' arrive', ' arriv']
-Rank 3 | Centroid: ' completion' | Score: 0.0811
-  Tokens: [' finishing', ' completion', ' completing', ' finish', ' finished', ' complete', ' completed', 'completion', 'Completion']
-Rank 4 | Centroid: ' returns' | Score: 0.0050
-  Tokens: [' returning', ' return', ' retr', ' returns']
-Rank 5 | Centroid: ' achieving' | Score: 0.0008
-  Tokens: [' getting', ' achieving', ' realizing', ' making', ' receiving', ' gaining', ' overcoming', ' retrieving', ' describing']
-Rank 6 | Centroid: ' discovering' | Score: 0.0002
-  Tokens: [' seeing', ' discovering', ' finding', ' spotting', ' discovery', ' sighting', ' encountering', ' hearing', ' witnessing', ' sight']
-Rank 7 | Centroid: ' entering' | Score: 0.0001
-  Tokens: [' leaving', ' entering', ' coming', ' exiting', ' emerging', ' approaching']
-Rank 8 | Centroid: ' ascending' | Score: 0.0001
-  Tokens: [' climbing', ' descending', ' ascent', ' descent', ' ascending']
-Rank 9 | Centroid: ' final' | Score: 0.0001
-  Tokens: [' concluding', ' ending', ' finally', ' climax', ' final', ' eventual']
-Rank 10 | Centroid: ' walking' | Score: 0.0001
-  Tokens: [' walking', ' landing', ' crossing', ' resting', ' standing', ' stepping']
-Rank 11 | Centroid: ' summit' | Score: 0.0000
-  Tokens: [' summit', ' peak']
-Rank 12 | Centroid: ' sunrise' | Score: 0.0000
-  Tokens: [' hiking', ' waking', ' sunrise']
-Rank 13 | Centroid: ' successful' | Score: 0.0000
-  Tokens: [' success', ' successful', ' succeeding', ' successfully']
-Rank 14 | Centroid: ' hitting' | Score: 0.0000
-  Tokens: [' meeting', ' hitting', ' visiting']
-Rank 15 | Centroid: ' vent' | Score: 0.0000
-  Tokens: [' logging', ' back', ' setting', ' vent', ' part']
-Rank 16 | Centroid: ' nearing' | Score: 0.0000
-  Tokens: [' nearing']
-Rank 17 | Centroid: ' reflection' | Score: 0.0000
-  Tokens: [' reflection', ' reflecting']
-Rank 18 | Centroid: ' accomplishment' | Score: 0.0000
-  Tokens: [' accomplishment', ' achievement', ' accompl']
-Rank 19 | Centroid: ' conqu' | Score: 0.0000
-  Tokens: [' conqu']
-Rank 20 | Centroid: ' exhaustion' | Score: 0.0000
-  Tokens: [' exhaustion']
+Rank 1 | Centroid: ' birth' | Score: 1.0000
+  Tokens: [' birth', ' born', ' births', 'birth', ' Birth', '_birth', '.birth']
+Rank 2 | Centroid: ' death' | Score: 0.0001
+  Tokens: [' death']
+Rank 3 | Centroid: ' birthday' | Score: 0.0000
+  Tokens: [' birthday']
+Rank 4 | Centroid: ' second' | Score: 0.0000
+  Tokens: [' first', ' second', ' third', ' twentieth']
+Rank 5 | Centroid: ' the' | Score: 0.0000
+  Tokens: [' being', ' and', ' b', ' the', ' best']
+Rank 6 | Centroid: ' date' | Score: 0.0000
+  Tokens: [' year', ' age', ' date', ' name', ' time']
+Rank 7 | Centroid: ' bir' | Score: 0.0000
+  Tokens: [' bir']
+Rank 8 | Centroid: ' creation' | Score: 0.0000
+  Tokens: [' creation', ' production', ' conception', ' generation', ' invention', ' discovery']
+Rank 9 | Centroid: ' marriage' | Score: 0.0000
+  Tokens: [' baptism', ' graduation', ' burial', ' marriage']
+Rank 10 | Centroid: ' father' | Score: 0.0000
+  Tokens: [' father', ' brother', ' mother']
+Rank 11 | Centroid: ' arrival' | Score: 0.0000
+  Tokens: [' arrival', ' origin', ' appearance']
+Rank 12 | Centroid: ' initial' | Score: 0.0000
+  Tokens: [' original', ' actual', ' current', ' initial', ' previous']
+Rank 13 | Centroid: ' own' | Score: 0.0000
+  Tokens: [' own', ' natural']
+Rank 14 | Centroid: ' belief' | Score: 0.0000
+  Tokens: [' bearing', ' belief', ' battle']
+Rank 15 | Centroid: ' life' | Score: 0.0000
+  Tokens: [' life', ' lifetime']
+Rank 16 | Centroid: ' publication' | Score: 0.0000
+  Tokens: [' release', ' publication', ' broadcast']
+Rank 17 | Centroid: ' career' | Score: 0.0000
+  Tokens: [' profession', ' flight', ' career']
+Rank 18 | Centroid: ' adoption' | Score: 0.0000
+  Tokens: [' adoption', ' delivery']
+Rank 19 | Centroid: ' work' | Score: 0.0000
+  Tokens: [' work', ' book']
+Rank 20 | Centroid: ' biological' | Score: 0.0000
+  Tokens: [' biological']
+Rank 21 | Centroid: ' debut' | Score: 0.0000
+  Tokens: [' debut']
+Rank 22 | Centroid: ' childhood' | Score: 0.0000
+  Tokens: [' childhood']
 
 **Chosen Concept:** Rank 1

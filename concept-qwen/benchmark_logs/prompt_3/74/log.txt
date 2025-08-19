@@ -1,0 +1,107 @@
+--- Step 74 Log ---
+
+== Filtered Candidates ==
+Token: ' recurring' (ID: 45250), Prob: 1.0000
+Token: ' recurrent' (ID: 64074), Prob: 0.0000
+Token: ' repeating' (ID: 39816), Prob: 0.0000
+Token: ' rec' (ID: 1395), Prob: 0.0000
+Token: ' a' (ID: 264), Prob: 0.0000
+Token: ' occurring' (ID: 30865), Prob: 0.0000
+Token: ' lasting' (ID: 28769), Prob: 0.0000
+Token: ' repeated' (ID: 11504), Prob: 0.0000
+Token: ' ré' (ID: 9333), Prob: 0.0000
+Token: ' recur' (ID: 63548), Prob: 0.0000
+Token: ' returning' (ID: 13451), Prob: 0.0000
+Token: ' recurrence' (ID: 75193), Prob: 0.0000
+Token: ' notable' (ID: 27190), Prob: 0.0000
+Token: ' major' (ID: 3598), Prob: 0.0000
+Token: ' reigning' (ID: 89956), Prob: 0.0000
+Token: ' re' (ID: 312), Prob: 0.0000
+Token: ' growing' (ID: 7826), Prob: 0.0000
+Token: ' recent' (ID: 3213), Prob: 0.0000
+Token: 'curring' (ID: 45739), Prob: 0.0000
+Token: ' frequent' (ID: 20757), Prob: 0.0000
+Token: ' rer' (ID: 48547), Prob: 0.0000
+Token: ' differing' (ID: 60369), Prob: 0.0000
+Token: ' varying' (ID: 28765), Prob: 0.0000
+Token: ' repetitive' (ID: 58077), Prob: 0.0000
+Token: ' Rec' (ID: 4067), Prob: 0.0000
+Token: ' cameo' (ID: 94056), Prob: 0.0000
+Token: ' career' (ID: 6931), Prob: 0.0000
+Token: ' rare' (ID: 8848), Prob: 0.0000
+Token: ' recruiting' (ID: 31859), Prob: 0.0000
+Token: ' reiterated' (ID: 65747), Prob: 0.0000
+Token: ' rallying' (ID: 90056), Prob: 0.0000
+Token: ' pioneering' (ID: 70574), Prob: 0.0000
+Token: ' rising' (ID: 16062), Prob: 0.0000
+Token: ' founding' (ID: 35230), Prob: 0.0000
+Token: ' recreation' (ID: 45944), Prob: 0.0000
+Token: ' dormant' (ID: 88360), Prob: 0.0000
+Token: ' continuing' (ID: 14354), Prob: 0.0000
+Token: ' recount' (ID: 40186), Prob: 0.0000
+Token: ' recap' (ID: 53999), Prob: 0.0000
+Token: ' non' (ID: 2477), Prob: 0.0000
+Token: ' recomm' (ID: 4861), Prob: 0.0000
+Token: ' subsequent' (ID: 17420), Prob: 0.0000
+Token: ' recalling' (ID: 88646), Prob: 0.0000
+Token: ' sequel' (ID: 34761), Prob: 0.0000
+Token: ' recreational' (ID: 36000), Prob: 0.0000
+Token: ' directing' (ID: 44990), Prob: 0.0000
+Token: ' retiring' (ID: 59773), Prob: 0.0000
+Token: ' recom' (ID: 37201), Prob: 0.0000
+Token: ' preceding' (ID: 37746), Prob: 0.0000
+Token: ' decade' (ID: 13212), Prob: 0.0000
+Token: ' rever' (ID: 35137), Prob: 0.0000
+Token: ' recovering' (ID: 41286), Prob: 0.0000
+Token: ' touring' (ID: 47451), Prob: 0.0000
+Token: ' regular' (ID: 5792), Prob: 0.0000
+Token: ' chronic' (ID: 20601), Prob: 0.0000
+Token: ' comedic' (ID: 94371), Prob: 0.0000
+Token: ' prominent' (ID: 20469), Prob: 0.0000
+Token: ' prevailing' (ID: 60029), Prob: 0.0000
+Token: ' r' (ID: 435), Prob: 0.0000
+Token: ' later' (ID: 2937), Prob: 0.0000
+Token: ' leading' (ID: 6388), Prob: 0.0000
+Token: ' contributing' (ID: 28720), Prob: 0.0000
+
+== Ranked Concepts (Clusters) ==
+Rank 1 | Centroid: ' Rec' | Score: 1.0000
+  Tokens: [' recurring', ' recurrent', ' rec', ' recur', ' recurrence', ' Rec']
+Rank 2 | Centroid: ' repeated' | Score: 0.0000
+  Tokens: [' repeating', ' repeated', ' repetitive', ' reiterated']
+Rank 3 | Centroid: ' occurring' | Score: 0.0000
+  Tokens: [' occurring', ' lasting', 'curring']
+Rank 4 | Centroid: ' a' | Score: 0.0000
+  Tokens: [' a', ' non', ' r']
+Rank 5 | Centroid: ' re' | Score: 0.0000
+  Tokens: [' ré', ' re', ' rer', ' rever']
+Rank 6 | Centroid: ' prominent' | Score: 0.0000
+  Tokens: [' notable', ' major', ' recent', ' frequent', ' regular', ' prominent']
+Rank 7 | Centroid: ' varying' | Score: 0.0000
+  Tokens: [' growing', ' differing', ' varying', ' rising']
+Rank 8 | Centroid: ' returning' | Score: 0.0000
+  Tokens: [' returning', ' continuing']
+Rank 9 | Centroid: ' prevailing' | Score: 0.0000
+  Tokens: [' reigning', ' preceding', ' prevailing']
+Rank 10 | Centroid: ' pioneering' | Score: 0.0000
+  Tokens: [' rallying', ' pioneering', ' founding', ' directing']
+Rank 11 | Centroid: ' chronic' | Score: 0.0000
+  Tokens: [' career', ' rare', ' decade', ' chronic']
+Rank 12 | Centroid: ' recalling' | Score: 0.0000
+  Tokens: [' recruiting', ' recalling', ' recovering']
+Rank 13 | Centroid: ' touring' | Score: 0.0000
+  Tokens: [' dormant', ' retiring', ' touring']
+Rank 14 | Centroid: ' cameo' | Score: 0.0000
+  Tokens: [' cameo', ' comedic']
+Rank 15 | Centroid: ' subsequent' | Score: 0.0000
+  Tokens: [' subsequent', ' sequel', ' later']
+Rank 16 | Centroid: ' recount' | Score: 0.0000
+  Tokens: [' recount', ' recap']
+Rank 17 | Centroid: ' recreation' | Score: 0.0000
+  Tokens: [' recreation', ' recreational']
+Rank 18 | Centroid: ' recomm' | Score: 0.0000
+  Tokens: [' recomm', ' recom']
+Rank 19 | Centroid: ' leading' | Score: 0.0000
+  Tokens: [' leading', ' contributing']
+
+**Chosen Concept:** Rank 1

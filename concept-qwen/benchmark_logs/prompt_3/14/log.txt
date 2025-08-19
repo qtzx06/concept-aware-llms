@@ -1,146 +1,145 @@
 --- Step 14 Log ---
 
 == Filtered Candidates ==
-Token: ' given' (ID: 2661), Prob: 0.6641
-Token: ' two' (ID: 1378), Prob: 0.0292
-Token: ' characters' (ID: 5766), Prob: 0.0292
-Token: ' situation' (ID: 6534), Prob: 0.0292
-Token: ' person' (ID: 1697), Prob: 0.0177
-Token: ' initial' (ID: 2856), Prob: 0.0177
-Token: ' friend' (ID: 4238), Prob: 0.0177
-Token: ' key' (ID: 1376), Prob: 0.0156
-Token: ' previous' (ID: 3681), Prob: 0.0138
-Token: ' events' (ID: 4357), Prob: 0.0138
-Token: ' scenario' (ID: 15048), Prob: 0.0138
-Token: ' provided' (ID: 3897), Prob: 0.0121
-Token: ' parts' (ID: 5479), Prob: 0.0121
-Token: ' friendship' (ID: 26509), Prob: 0.0121
-Token: ' elements' (ID: 5424), Prob: 0.0095
-Token: ' friends' (ID: 4780), Prob: 0.0074
-Token: ' mentioned' (ID: 9733), Prob: 0.0074
-Token: ' dialogue' (ID: 21276), Prob: 0.0065
-Token: ' conversation' (ID: 10435), Prob: 0.0039
-Token: ' character' (ID: 3668), Prob: 0.0035
-Token: ' phrases' (ID: 31747), Prob: 0.0031
-Token: ' details' (ID: 3565), Prob: 0.0024
-Token: ' original' (ID: 4024), Prob: 0.0024
-Token: ' statement' (ID: 5114), Prob: 0.0024
-Token: ' event' (ID: 1538), Prob: 0.0019
-Token: ' conditions' (ID: 4682), Prob: 0.0019
-Token: ' relationship' (ID: 5025), Prob: 0.0019
-Token: ' sentence' (ID: 11652), Prob: 0.0019
-Token: ' premise' (ID: 40202), Prob: 0.0019
-Token: ' last' (ID: 1537), Prob: 0.0016
-Token: ' past' (ID: 3267), Prob: 0.0016
-Token: ' quote' (ID: 12641), Prob: 0.0016
-Token: ' phrase' (ID: 17133), Prob: 0.0016
-Token: ' man' (ID: 883), Prob: 0.0014
-Token: ' context' (ID: 2266), Prob: 0.0014
-Token: ' mention' (ID: 6286), Prob: 0.0014
-Token: ' first' (ID: 1156), Prob: 0.0013
-Token: ' current' (ID: 1482), Prob: 0.0013
-Token: ' three' (ID: 2326), Prob: 0.0013
-Token: ' statements' (ID: 12239), Prob: 0.0013
-Token: ' interaction' (ID: 16230), Prob: 0.0013
-Token: ' situations' (ID: 14740), Prob: 0.0011
-Token: ' lines' (ID: 5128), Prob: 0.0011
-Token: ' main' (ID: 1887), Prob: 0.0010
-Token: ' sentences' (ID: 22870), Prob: 0.0010
-Token: ' people' (ID: 1251), Prob: 0.0008
-Token: ' specific' (ID: 3151), Prob: 0.0008
-Token: ' beginning' (ID: 7167), Prob: 0.0007
-Token: ' interactions' (ID: 21880), Prob: 0.0007
-Token: ' couple' (ID: 5625), Prob: 0.0007
-Token: ' actions' (ID: 6168), Prob: 0.0007
-Token: ' prompt' (ID: 9934), Prob: 0.0006
-Token: ' part' (ID: 949), Prob: 0.0006
-Token: ' opening' (ID: 8568), Prob: 0.0006
-Token: ' incident' (ID: 10455), Prob: 0.0005
-Token: ' recent' (ID: 3213), Prob: 0.0005
-Token: ' start' (ID: 1191), Prob: 0.0004
-Token: ' narrator' (ID: 64171), Prob: 0.0004
-Token: ' line' (ID: 1555), Prob: 0.0003
-Token: ' facts' (ID: 13064), Prob: 0.0003
-Token: ' quotes' (ID: 17194), Prob: 0.0003
-Token: ' description' (ID: 4008), Prob: 0.0003
-Token: ' pair' (ID: 6716), Prob: 0.0003
-Token: ' condition' (ID: 2971), Prob: 0.0003
-Token: ' scene' (ID: 6109), Prob: 0.0003
-Token: ' passage' (ID: 21085), Prob: 0.0003
-Token: ' traits' (ID: 24055), Prob: 0.0003
-Token: ' following' (ID: 2701), Prob: 0.0003
-Token: ' things' (ID: 2513), Prob: 0.0003
-Token: ' circumstances' (ID: 13161), Prob: 0.0002
-Token: ' premises' (ID: 33922), Prob: 0.0002
-Token: ' scenarios' (ID: 25283), Prob: 0.0002
-Token: ' user' (ID: 1196), Prob: 0.0002
-Token: ' present' (ID: 3042), Prob: 0.0002
-Token: ' information' (ID: 1995), Prob: 0.0002
-Token: ' words' (ID: 4244), Prob: 0.0002
-Token: ' protagonist' (ID: 45584), Prob: 0.0002
-Token: ' idea' (ID: 4522), Prob: 0.0002
-Token: ' relationships' (ID: 11871), Prob: 0.0002
-Token: ' text' (ID: 1467), Prob: 0.0002
-Token: ' exchange' (ID: 9289), Prob: 0.0002
-Token: ' incidents' (ID: 23546), Prob: 0.0002
-Token: ' theme' (ID: 6912), Prob: 0.0001
-Token: ' themes' (ID: 21386), Prob: 0.0001
-Token: ' encounter' (ID: 12828), Prob: 0.0001
-Token: ' content' (ID: 2213), Prob: 0.0001
-Token: ' four' (ID: 3040), Prob: 0.0001
-Token: ' connection' (ID: 3633), Prob: 0.0001
-Token: ' setting' (ID: 6243), Prob: 0.0001
-Token: ' described' (ID: 7481), Prob: 0.0001
-Token: ' experiences' (ID: 11449), Prob: 0.0001
-Token: ' moments' (ID: 13943), Prob: 0.0001
-Token: ' characteristics' (ID: 17452), Prob: 0.0001
-Token: ' speaker' (ID: 18601), Prob: 0.0001
-Token: ' fact' (ID: 2097), Prob: 0.0001
-Token: ' experience' (ID: 3139), Prob: 0.0001
-Token: ' setup' (ID: 6505), Prob: 0.0001
-Token: ' topic' (ID: 8544), Prob: 0.0001
-Token: ' keywords' (ID: 20844), Prob: 0.0001
+Token: 'ers' (ID: 388), Prob: 0.9883
+Token: 'ies' (ID: 550), Prob: 0.0085
+Token: 'iers' (ID: 4813), Prob: 0.0006
+Token: 'dr' (ID: 3612), Prob: 0.0005
+Token: 'ib' (ID: 579), Prob: 0.0004
+Token: 'ipel' (ID: 81079), Prob: 0.0003
+Token: 'makers' (ID: 19887), Prob: 0.0001
+Token: 'b' (ID: 65), Prob: 0.0001
+Token: 'ery' (ID: 722), Prob: 0.0001
+Token: 'etypes' (ID: 67553), Prob: 0.0001
+Token: 'ant' (ID: 517), Prob: 0.0001
+Token: 'wright' (ID: 52752), Prob: 0.0000
+Token: 'enders' (ID: 14506), Prob: 0.0000
+Token: 'bold' (ID: 14824), Prob: 0.0000
+Token: 'ivist' (ID: 79144), Prob: 0.0000
+Token: 'ela' (ID: 8294), Prob: 0.0000
+Token: 'ch' (ID: 331), Prob: 0.0000
+Token: 'ic' (ID: 292), Prob: 0.0000
+Token: 'av' (ID: 402), Prob: 0.0000
+Token: 'ERS' (ID: 4321), Prob: 0.0000
+Token: 'iv' (ID: 344), Prob: 0.0000
+Token: ' Enemy' (ID: 30751), Prob: 0.0000
+Token: 'ys' (ID: 1047), Prob: 0.0000
+Token: 'ifacts' (ID: 26401), Prob: 0.0000
+Token: 'ule' (ID: 1111), Prob: 0.0000
+Token: 'angel' (ID: 17281), Prob: 0.0000
+Token: ' in' (ID: 304), Prob: 0.0000
+Token: ' Rac' (ID: 55706), Prob: 0.0000
+Token: 'de' (ID: 450), Prob: 0.0000
+Token: 'dale' (ID: 34183), Prob: 0.0000
+Token: 'di' (ID: 8579), Prob: 0.0000
+Token: 'way' (ID: 3117), Prob: 0.0000
+Token: 'on' (ID: 263), Prob: 0.0000
+Token: 'du' (ID: 1054), Prob: 0.0000
+Token: 'olog' (ID: 1609), Prob: 0.0000
+Token: 'erg' (ID: 2375), Prob: 0.0000
+Token: 'id' (ID: 307), Prob: 0.0000
+Token: ' R' (ID: 431), Prob: 0.0000
+Token: ' B' (ID: 425), Prob: 0.0000
+Token: 'ons' (ID: 2382), Prob: 0.0000
+Token: 'ini' (ID: 6591), Prob: 0.0000
+Token: ' Druid' (ID: 72635), Prob: 0.0000
+Token: 'ont' (ID: 544), Prob: 0.0000
+Token: 'sp' (ID: 2154), Prob: 0.0000
+Token: ' and' (ID: 323), Prob: 0.0000
+Token: 'ie' (ID: 645), Prob: 0.0000
+Token: 'istr' (ID: 3758), Prob: 0.0000
+Token: 'mage' (ID: 52310), Prob: 0.0000
+Token: 'writers' (ID: 61612), Prob: 0.0000
+Token: 'd' (ID: 67), Prob: 0.0000
+Token: 'aders' (ID: 6393), Prob: 0.0000
+Token: 'viz' (ID: 69840), Prob: 0.0000
+Token: 'man' (ID: 1515), Prob: 0.0000
+Token: ' since' (ID: 2474), Prob: 0.0000
+Token: '-makers' (ID: 75070), Prob: 0.0000
+Token: 'il' (ID: 321), Prob: 0.0000
+Token: 'itect' (ID: 8360), Prob: 0.0000
+Token: 'ologists' (ID: 21306), Prob: 0.0000
+Token: 'ite' (ID: 632), Prob: 0.0000
+Token: 'image' (ID: 1805), Prob: 0.0000
+Token: 'abb' (ID: 12523), Prob: 0.0000
+Token: 'igram' (ID: 49127), Prob: 0.0000
+Token: 'y' (ID: 88), Prob: 0.0000
+Token: 'et' (ID: 295), Prob: 0.0000
+Token: 'im' (ID: 318), Prob: 0.0000
+Token: '-r' (ID: 3795), Prob: 0.0000
+Token: 'iere' (ID: 18849), Prob: 0.0000
+Token: 'v' (ID: 85), Prob: 0.0000
+Token: 'eries' (ID: 4699), Prob: 0.0000
+Token: 'cher' (ID: 9034), Prob: 0.0000
+Token: 'ingers' (ID: 14105), Prob: 0.0000
+Token: 'rac' (ID: 19959), Prob: 0.0000
+Token: ' Rebels' (ID: 89335), Prob: 0.0000
+Token: 'r' (ID: 81), Prob: 0.0000
+Token: 'inn' (ID: 6130), Prob: 0.0000
+Token: ' EN' (ID: 5190), Prob: 0.0000
+Token: 'ipi' (ID: 90921), Prob: 0.0000
+Token: 'fi' (ID: 9983), Prob: 0.0000
+Token: 'iac' (ID: 17569), Prob: 0.0000
+Token: ' Mission' (ID: 23220), Prob: 0.0000
+Token: 'boys' (ID: 29023), Prob: 0.0000
+Token: 'ibold' (ID: 58395), Prob: 0.0000
+Token: '-Cola' (ID: 65177), Prob: 0.0000
+Token: 'adians' (ID: 20736), Prob: 0.0000
+Token: 'ulators' (ID: 41291), Prob: 0.0000
+Token: 'ipp' (ID: 2807), Prob: 0.0000
 
 == Ranked Concepts (Clusters) ==
-Rank 1 | Centroid: ' described' | Score: 0.6836
-  Tokens: [' given', ' provided', ' mentioned', ' mention', ' description', ' described']
-Rank 2 | Centroid: ' previous' | Score: 0.0598
-  Tokens: [' initial', ' key', ' previous', ' original', ' last', ' past', ' first', ' current', ' main', ' specific', ' beginning', ' opening', ' recent', ' start', ' following', ' present']
-Rank 3 | Centroid: ' situations' | Score: 0.0449
-  Tokens: [' situation', ' scenario', ' situations', ' scene', ' circumstances', ' scenarios']
-Rank 4 | Centroid: ' friends' | Score: 0.0383
-  Tokens: [' friend', ' friendship', ' friends', ' couple', ' pair']
-Rank 5 | Centroid: ' characters' | Score: 0.0332
-  Tokens: [' characters', ' character', ' traits', ' characteristics']
-Rank 6 | Centroid: ' three' | Score: 0.0306
-  Tokens: [' two', ' three', ' four']
-Rank 7 | Centroid: ' person' | Score: 0.0201
-  Tokens: [' person', ' man', ' people', ' user']
-Rank 8 | Centroid: ' events' | Score: 0.0164
-  Tokens: [' events', ' event', ' incident', ' incidents']
-Rank 9 | Centroid: ' parts' | Score: 0.0153
-  Tokens: [' parts', ' details', ' part', ' information']
-Rank 10 | Centroid: ' phrases' | Score: 0.0135
-  Tokens: [' phrases', ' statement', ' sentence', ' quote', ' phrase', ' statements', ' sentences', ' quotes', ' words', ' keywords']
-Rank 11 | Centroid: ' dialogue' | Score: 0.0114
-  Tokens: [' dialogue', ' conversation', ' prompt', ' passage']
-Rank 12 | Centroid: ' elements' | Score: 0.0103
-  Tokens: [' elements', ' actions', ' moments']
-Rank 13 | Centroid: ' theme' | Score: 0.0027
-  Tokens: [' premise', ' premises', ' idea', ' theme', ' themes', ' topic']
-Rank 14 | Centroid: ' interactions' | Score: 0.0025
-  Tokens: [' interaction', ' interactions', ' exchange', ' encounter', ' experiences', ' experience']
-Rank 15 | Centroid: ' relationship' | Score: 0.0022
-  Tokens: [' relationship', ' relationships', ' connection']
-Rank 16 | Centroid: ' conditions' | Score: 0.0022
-  Tokens: [' conditions', ' condition']
-Rank 17 | Centroid: ' lines' | Score: 0.0017
-  Tokens: [' lines', ' line', ' text', ' content']
-Rank 18 | Centroid: ' setup' | Score: 0.0017
-  Tokens: [' context', ' setting', ' setup']
-Rank 19 | Centroid: ' facts' | Score: 0.0007
-  Tokens: [' facts', ' things', ' fact']
-Rank 20 | Centroid: ' narrator' | Score: 0.0007
-  Tokens: [' narrator', ' protagonist', ' speaker']
+Rank 1 | Centroid: 'ers' | Score: 0.9883
+  Tokens: ['ers', 'ERS', 'erg']
+Rank 2 | Centroid: 'ie' | Score: 0.0085
+  Tokens: ['ies', 'ys', 'ie', 'ite']
+Rank 3 | Centroid: 'iere' | Score: 0.0006
+  Tokens: ['iers', 'iere', 'iac']
+Rank 4 | Centroid: 'de' | Score: 0.0005
+  Tokens: ['dr', 'de', 'di', 'du', 'sp', 'd', 'fi']
+Rank 5 | Centroid: 'iv' | Score: 0.0005
+  Tokens: ['ib', 'ic', 'av', 'iv', 'id', 'il', 'im']
+Rank 6 | Centroid: 'ipi' | Score: 0.0003
+  Tokens: ['ipel', 'ipi', 'ipp']
+Rank 7 | Centroid: '-makers' | Score: 0.0001
+  Tokens: ['makers', 'enders', 'writers', '-makers', 'ologists', 'ingers']
+Rank 8 | Centroid: ' and' | Score: 0.0001
+  Tokens: ['b', 'ch', ' in', ' R', ' B', ' and', ' since', 'y', '-r', 'v', 'r']
+Rank 9 | Centroid: 'ery' | Score: 0.0001
+  Tokens: ['ery', 'eries']
+Rank 10 | Centroid: 'etypes' | Score: 0.0001
+  Tokens: ['etypes']
+Rank 11 | Centroid: 'ant' | Score: 0.0001
+  Tokens: ['ant', 'et']
+Rank 12 | Centroid: 'olog' | Score: 0.0000
+  Tokens: ['ela', 'ule', 'angel', 'olog', 'abb']
+Rank 13 | Centroid: 'boys' | Score: 0.0000
+  Tokens: ['wright', 'mage', 'itect', 'boys']
+Rank 14 | Centroid: 'bold' | Score: 0.0000
+  Tokens: ['bold', 'image']
+Rank 15 | Centroid: 'ivist' | Score: 0.0000
+  Tokens: ['ivist', 'istr']
+Rank 16 | Centroid: ' Enemy' | Score: 0.0000
+  Tokens: [' Enemy', 'aders', ' Rebels', '-Cola', 'adians', 'ulators']
+Rank 17 | Centroid: 'ifacts' | Score: 0.0000
+  Tokens: ['ifacts', 'igram', 'ibold']
+Rank 18 | Centroid: 'ons' | Score: 0.0000
+  Tokens: ['on', 'ons', 'ont']
+Rank 19 | Centroid: 'dale' | Score: 0.0000
+  Tokens: ['dale', ' Druid']
+Rank 20 | Centroid: ' Rac' | Score: 0.0000
+  Tokens: [' Rac', 'rac']
+Rank 21 | Centroid: 'way' | Score: 0.0000
+  Tokens: ['way']
+Rank 22 | Centroid: 'ini' | Score: 0.0000
+  Tokens: ['ini', 'inn']
+Rank 23 | Centroid: 'man' | Score: 0.0000
+  Tokens: ['man', ' EN']
+Rank 24 | Centroid: 'viz' | Score: 0.0000
+  Tokens: ['viz']
+Rank 25 | Centroid: 'cher' | Score: 0.0000
+  Tokens: ['cher']
+Rank 26 | Centroid: ' Mission' | Score: 0.0000
+  Tokens: [' Mission']
 
 **Chosen Concept:** Rank 1

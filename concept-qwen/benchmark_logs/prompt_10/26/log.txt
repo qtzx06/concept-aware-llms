@@ -1,0 +1,115 @@
+--- Step 26 Log ---
+
+== Filtered Candidates ==
+Token: ' He' (ID: 1260), Prob: 0.4414
+Token: ' His' (ID: 5301), Prob: 0.1836
+Token: ' In' (ID: 758), Prob: 0.0767
+Token: ' The' (ID: 576), Prob: 0.0320
+Token: ' As' (ID: 1634), Prob: 0.0151
+Token: ' During' (ID: 11954), Prob: 0.0133
+Token: ' At' (ID: 2411), Prob: 0.0118
+Token: ' After' (ID: 4636), Prob: 0.0118
+Token: ' According' (ID: 10548), Prob: 0.0118
+Token: ' A' (ID: 362), Prob: 0.0081
+Token: ' It' (ID: 1084), Prob: 0.0081
+Token: ' Li' (ID: 14511), Prob: 0.0071
+Token: ' This' (ID: 1096), Prob: 0.0063
+Token: ' However' (ID: 4354), Prob: 0.0056
+Token: ' Later' (ID: 24885), Prob: 0.0043
+Token: ' There' (ID: 2619), Prob: 0.0030
+Token: ' When' (ID: 3197), Prob: 0.0023
+Token: ' One' (ID: 3776), Prob: 0.0020
+Token: ' Some' (ID: 4329), Prob: 0.0020
+Token: ' From' (ID: 5542), Prob: 0.0018
+Token: ' Although' (ID: 10328), Prob: 0.0016
+Token: ' Around' (ID: 32816), Prob: 0.0016
+Token: ' For' (ID: 1752), Prob: 0.0014
+Token: ' Wang' (ID: 28246), Prob: 0.0014
+Token: ' An' (ID: 1527), Prob: 0.0012
+Token: ' But' (ID: 1988), Prob: 0.0012
+Token: ' So' (ID: 2055), Prob: 0.0012
+Token: ' Though' (ID: 17594), Prob: 0.0012
+Token: ' Liu' (ID: 37705), Prob: 0.0012
+Token: 'He' (ID: 1519), Prob: 0.0011
+Token: ' By' (ID: 3216), Prob: 0.0011
+Token: ' Through' (ID: 16904), Prob: 0.0011
+Token: ' Among' (ID: 21658), Prob: 0.0011
+Token: ' These' (ID: 4220), Prob: 0.0010
+Token: ' Zhang' (ID: 36020), Prob: 0.0010
+Token: ' Tang' (ID: 40362), Prob: 0.0009
+Token: ' he' (ID: 566), Prob: 0.0008
+Token: ' On' (ID: 1913), Prob: 0.0008
+Token: ' To' (ID: 2014), Prob: 0.0008
+Token: ' While' (ID: 5976), Prob: 0.0008
+Token: ' Before' (ID: 13235), Prob: 0.0008
+Token: ' Between' (ID: 27133), Prob: 0.0008
+Token: ' With' (ID: 3085), Prob: 0.0007
+Token: ' Also' (ID: 7281), Prob: 0.0007
+Token: ' Since' (ID: 8704), Prob: 0.0007
+Token: ' Because' (ID: 9211), Prob: 0.0007
+Token: 'His' (ID: 15986), Prob: 0.0007
+Token: ' Given' (ID: 16246), Prob: 0.0007
+Token: ' his' (ID: 806), Prob: 0.0006
+Token: ' Like' (ID: 8909), Prob: 0.0006
+Token: ' Under' (ID: 9449), Prob: 0.0006
+Token: ' Po' (ID: 13808), Prob: 0.0006
+Token: ' Hu' (ID: 21793), Prob: 0.0006
+Token: ' Zhu' (ID: 67744), Prob: 0.0006
+Token: ' We' (ID: 1205), Prob: 0.0005
+Token: ' Most' (ID: 7496), Prob: 0.0005
+Token: ' Therefore' (ID: 15277), Prob: 0.0005
+Token: ' Yang' (ID: 24474), Prob: 0.0005
+Token: ' Together' (ID: 31155), Prob: 0.0005
+Token: ' Along' (ID: 31844), Prob: 0.0005
+Token: ' Z' (ID: 1863), Prob: 0.0005
+Token: ' Despite' (ID: 17715), Prob: 0.0005
+Token: ' Official' (ID: 22651), Prob: 0.0005
+Token: ' Chen' (ID: 24495), Prob: 0.0005
+Token: ' Zheng' (ID: 76447), Prob: 0.0005
+Token: ' T' (ID: 350), Prob: 0.0004
+Token: ' That' (ID: 2938), Prob: 0.0004
+Token: ' Two' (ID: 9043), Prob: 0.0004
+Token: ' D' (ID: 422), Prob: 0.0004
+Token: ' W' (ID: 467), Prob: 0.0004
+Token: ' H' (ID: 472), Prob: 0.0004
+Token: ' X' (ID: 1599), Prob: 0.0004
+Token: ' Of' (ID: 4940), Prob: 0.0004
+Token: ' Ma' (ID: 11331), Prob: 0.0004
+Token: ' Late' (ID: 35831), Prob: 0.0004
+Token: ' B' (ID: 425), Prob: 0.0003
+
+== Ranked Concepts (Clusters) ==
+Rank 1 | Centroid: ' He' | Score: 0.4434
+  Tokens: [' He', 'He', ' he']
+Rank 2 | Centroid: ' His' | Score: 0.1846
+  Tokens: [' His', 'His', ' his']
+Rank 3 | Centroid: ' As' | Score: 0.1055
+  Tokens: [' In', ' As', ' At', ' An', ' On']
+Rank 4 | Centroid: ' This' | Score: 0.0508
+  Tokens: [' The', ' It', ' This', ' There', ' These', ' We']
+Rank 5 | Centroid: ' When' | Score: 0.0400
+  Tokens: [' During', ' After', ' According', ' When', ' Before']
+Rank 6 | Centroid: ' Zhang' | Score: 0.0142
+  Tokens: [' Li', ' Wang', ' Liu', ' Zhang', ' Tang', ' Hu', ' Zhu', ' Yang', ' Chen', ' Zheng']
+Rank 7 | Centroid: ' Although' | Score: 0.0121
+  Tokens: [' However', ' Although', ' But', ' Though', ' While', ' Since', ' Because', ' Despite']
+Rank 8 | Centroid: ' D' | Score: 0.0106
+  Tokens: [' A', ' Z', ' T', ' D', ' W', ' H', ' X', ' B']
+Rank 9 | Centroid: ' For' | Score: 0.0061
+  Tokens: [' From', ' For', ' By', ' To', ' With', ' Of']
+Rank 10 | Centroid: ' Through' | Score: 0.0056
+  Tokens: [' Around', ' Through', ' Among', ' Between', ' Under', ' Along']
+Rank 11 | Centroid: ' One' | Score: 0.0050
+  Tokens: [' One', ' Some', ' Most', ' Two']
+Rank 12 | Centroid: ' Later' | Score: 0.0047
+  Tokens: [' Later', ' Late']
+Rank 13 | Centroid: ' That' | Score: 0.0022
+  Tokens: [' Also', ' Given', ' Therefore', ' That']
+Rank 14 | Centroid: ' Ma' | Score: 0.0014
+  Tokens: [' Po', ' Official', ' Ma']
+Rank 15 | Centroid: ' So' | Score: 0.0012
+  Tokens: [' So']
+Rank 16 | Centroid: ' Like' | Score: 0.0011
+  Tokens: [' Like', ' Together']
+
+**Chosen Concept:** Rank 1

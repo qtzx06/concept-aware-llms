@@ -1,0 +1,84 @@
+--- Step 159 Log ---
+
+== Filtered Candidates ==
+Token: ' year' (ID: 1042), Prob: 1.0000
+Token: ' years' (ID: 1635), Prob: 0.0000
+Token: 'year' (ID: 3157), Prob: 0.0000
+Token: ' same' (ID: 1852), Prob: 0.0000
+Token: ' Year' (ID: 9742), Prob: 0.0000
+Token: '_year' (ID: 14645), Prob: 0.0000
+Token: ' YEAR' (ID: 50905), Prob: 0.0000
+Token: '.year' (ID: 24414), Prob: 0.0000
+Token: '-year' (ID: 4666), Prob: 0.0000
+Token: ' first' (ID: 1156), Prob: 0.0000
+Token: 'Year' (ID: 9490), Prob: 0.0000
+Token: ' y' (ID: 379), Prob: 0.0000
+Token: ' time' (ID: 882), Prob: 0.0000
+Token: ' one' (ID: 825), Prob: 0.0000
+Token: ' the' (ID: 279), Prob: 0.0000
+Token: ' way' (ID: 1616), Prob: 0.0000
+Token: ' decade' (ID: 13212), Prob: 0.0000
+Token: ' năm' (ID: 128290), Prob: 0.0000
+Token: ' very' (ID: 1602), Prob: 0.0000
+Token: ' family' (ID: 2997), Prob: 0.0000
+Token: ' år' (ID: 33980), Prob: 0.0000
+Token: ' ye' (ID: 19478), Prob: 0.0000
+Token: ' and' (ID: 323), Prob: 0.0000
+Token: ' date' (ID: 2400), Prob: 0.0000
+Token: ' month' (ID: 2254), Prob: 0.0000
+Token: ' particular' (ID: 3953), Prob: 0.0000
+Token: ' he' (ID: 566), Prob: 0.0000
+Token: ' a' (ID: 264), Prob: 0.0000
+Token: ' name' (ID: 829), Prob: 0.0000
+Token: ' type' (ID: 943), Prob: 0.0000
+Token: ' jaar' (ID: 50343), Prob: 0.0000
+Token: ' that' (ID: 429), Prob: 0.0000
+Token: ' day' (ID: 1899), Prob: 0.0000
+Token: ' film' (ID: 4531), Prob: 0.0000
+Token: ' season' (ID: 3200), Prob: 0.0000
+Token: ' yr' (ID: 42338), Prob: 0.0000
+Token: ' in' (ID: 304), Prob: 0.0000
+Token: ' second' (ID: 2086), Prob: 0.0000
+Token: ' role' (ID: 3476), Prob: 0.0000
+Token: ' yes' (ID: 9834), Prob: 0.0000
+Token: ' calendar' (ID: 13168), Prob: 0.0000
+Token: '_YEAR' (ID: 57127), Prob: 0.0000
+Token: ' volume' (ID: 8123), Prob: 0.0000
+Token: ' año' (ID: 35816), Prob: 0.0000
+Token: ' yearly' (ID: 44270), Prob: 0.0000
+Token: ' for' (ID: 369), Prob: 0.0000
+Token: ' single' (ID: 3175), Prob: 0.0000
+Token: ' as' (ID: 438), Prob: 0.0000
+Token: ' direction' (ID: 5106), Prob: 0.0000
+
+== Ranked Concepts (Clusters) ==
+Rank 1 | Centroid: '_year' | Score: 1.0000
+  Tokens: [' year', ' years', 'year', ' Year', '_year', ' YEAR', '.year', '-year', 'Year', ' decade', ' năm', ' år', ' jaar', '_YEAR', ' año', ' yearly']
+Rank 2 | Centroid: ' one' | Score: 0.0000
+  Tokens: [' same', ' one', ' very', ' single']
+Rank 3 | Centroid: ' first' | Score: 0.0000
+  Tokens: [' first', ' second']
+Rank 4 | Centroid: ' the' | Score: 0.0000
+  Tokens: [' the', ' and', ' he', ' a', ' that', ' in', ' for', ' as']
+Rank 5 | Centroid: ' y' | Score: 0.0000
+  Tokens: [' y', ' ye', ' yr']
+Rank 6 | Centroid: ' time' | Score: 0.0000
+  Tokens: [' time', ' date']
+Rank 7 | Centroid: ' way' | Score: 0.0000
+  Tokens: [' way', ' direction']
+Rank 8 | Centroid: ' film' | Score: 0.0000
+  Tokens: [' family', ' film', ' role']
+Rank 9 | Centroid: ' month' | Score: 0.0000
+  Tokens: [' month', ' day']
+Rank 10 | Centroid: ' name' | Score: 0.0000
+  Tokens: [' name', ' type']
+Rank 11 | Centroid: ' particular' | Score: 0.0000
+  Tokens: [' particular']
+Rank 12 | Centroid: ' season' | Score: 0.0000
+  Tokens: [' season', ' calendar']
+Rank 13 | Centroid: ' yes' | Score: 0.0000
+  Tokens: [' yes']
+Rank 14 | Centroid: ' volume' | Score: 0.0000
+  Tokens: [' volume']
+
+**Chosen Concept:** Rank 1

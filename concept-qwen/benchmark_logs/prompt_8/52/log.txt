@@ -1,0 +1,116 @@
+--- Step 52 Log ---
+
+== Filtered Candidates ==
+Token: ' Chinese' (ID: 8453), Prob: 0.9961
+Token: ' China' (ID: 5616), Prob: 0.0019
+Token: ' literary' (ID: 31365), Prob: 0.0001
+Token: ' thought' (ID: 3381), Prob: 0.0000
+Token: ' chinese' (ID: 56387), Prob: 0.0000
+Token: ' literature' (ID: 17206), Prob: 0.0000
+Token: ' criticism' (ID: 18817), Prob: 0.0000
+Token: 'Chinese' (ID: 44923), Prob: 0.0000
+Token: ' thinking' (ID: 7274), Prob: 0.0000
+Token: ' classical' (ID: 28824), Prob: 0.0000
+Token: ' critical' (ID: 9023), Prob: 0.0000
+Token: ' Eastern' (ID: 18028), Prob: 0.0000
+Token: ' and' (ID: 323), Prob: 0.0000
+Token: ' culture' (ID: 7674), Prob: 0.0000
+Token: ' Japanese' (ID: 10769), Prob: 0.0000
+Token: ' Western' (ID: 10867), Prob: 0.0000
+Token: ' cultural' (ID: 12752), Prob: 0.0000
+Token: ' Asian' (ID: 14533), Prob: 0.0000
+Token: ' Conf' (ID: 14974), Prob: 0.0000
+Token: ' T' (ID: 350), Prob: 0.0000
+Token: ' scholarly' (ID: 62581), Prob: 0.0000
+Token: ' views' (ID: 6194), Prob: 0.0000
+Token: ' china' (ID: 32525), Prob: 0.0000
+Token: ' philosophy' (ID: 19128), Prob: 0.0000
+Token: ' academic' (ID: 14250), Prob: 0.0000
+Token: ' terms' (ID: 3793), Prob: 0.0000
+Token: ' methods' (ID: 5413), Prob: 0.0000
+Token: ' Ch' (ID: 910), Prob: 0.0000
+Token: ' approaches' (ID: 19827), Prob: 0.0000
+Token: ' East' (ID: 6326), Prob: 0.0000
+Token: ' reading' (ID: 5290), Prob: 0.0000
+Token: ' ancient' (ID: 13833), Prob: 0.0000
+Token: ' attitudes' (ID: 32626), Prob: 0.0000
+Token: ' scholarship' (ID: 33125), Prob: 0.0000
+Token: ' contexts' (ID: 37597), Prob: 0.0000
+Token: ' European' (ID: 7513), Prob: 0.0000
+Token: ' traditional' (ID: 8606), Prob: 0.0000
+Token: ' theory' (ID: 10126), Prob: 0.0000
+Token: ' ways' (ID: 5510), Prob: 0.0000
+Token: ' practice' (ID: 6588), Prob: 0.0000
+Token: ' comparative' (ID: 54294), Prob: 0.0000
+Token: ' times' (ID: 3039), Prob: 0.0000
+Token: ' aesthetics' (ID: 66223), Prob: 0.0000
+Token: ' practices' (ID: 12378), Prob: 0.0000
+Token: ' historical' (ID: 13656), Prob: 0.0000
+Token: ' customs' (ID: 34769), Prob: 0.0000
+Token: ' society' (ID: 8232), Prob: 0.0000
+Token: ' theories' (ID: 24970), Prob: 0.0000
+Token: ' aesthetic' (ID: 36537), Prob: 0.0000
+Token: ' philosophical' (ID: 40803), Prob: 0.0000
+Token: ' context' (ID: 2266), Prob: 0.0000
+Token: ' studies' (ID: 7822), Prob: 0.0000
+Token: ' criteria' (ID: 12890), Prob: 0.0000
+Token: ' western' (ID: 18494), Prob: 0.0000
+Token: ' or' (ID: 476), Prob: 0.0000
+Token: ' settings' (ID: 5003), Prob: 0.0000
+Token: ' liter' (ID: 6935), Prob: 0.0000
+Token: ' thoughts' (ID: 11303), Prob: 0.0000
+Token: ' perspectives' (ID: 38455), Prob: 0.0000
+Token: ' sources' (ID: 8173), Prob: 0.0000
+Token: ' texts' (ID: 21984), Prob: 0.0000
+Token: ' critics' (ID: 22698), Prob: 0.0000
+Token: ' style' (ID: 1707), Prob: 0.0000
+Token: ' eastern' (ID: 23149), Prob: 0.0000
+Token: ' critique' (ID: 42565), Prob: 0.0000
+Token: ' social' (ID: 3590), Prob: 0.0000
+Token: ' interpretations' (ID: 57589), Prob: 0.0000
+Token: ' poetry' (ID: 31249), Prob: 0.0000
+Token: ' Crit' (ID: 33207), Prob: 0.0000
+Token: ' think' (ID: 1744), Prob: 0.0000
+Token: ' criticisms' (ID: 62736), Prob: 0.0000
+Token: ' view' (ID: 1651), Prob: 0.0000
+Token: ' art' (ID: 1947), Prob: 0.0000
+Token: ' Han' (ID: 20644), Prob: 0.0000
+Token: ' pre' (ID: 855), Prob: 0.0000
+Token: ' comment' (ID: 3980), Prob: 0.0000
+Token: ' works' (ID: 4278), Prob: 0.0000
+Token: ' classic' (ID: 11416), Prob: 0.0000
+Token: ' old' (ID: 2310), Prob: 0.0000
+
+== Ranked Concepts (Clusters) ==
+Rank 1 | Centroid: ' Chinese' | Score: 1.0000
+  Tokens: [' Chinese', ' China', ' chinese', 'Chinese', ' Japanese', ' Asian', ' china']
+Rank 2 | Centroid: ' literary' | Score: 0.0001
+  Tokens: [' literary', ' literature', ' scholarly', ' academic', ' reading', ' scholarship', ' liter', ' texts', ' poetry']
+Rank 3 | Centroid: ' think' | Score: 0.0000
+  Tokens: [' thought', ' thinking', ' thoughts', ' think']
+Rank 4 | Centroid: ' criticism' | Score: 0.0000
+  Tokens: [' criticism', ' critical', ' criteria', ' critics', ' critique', ' Crit', ' criticisms', ' comment']
+Rank 5 | Centroid: ' eastern' | Score: 0.0000
+  Tokens: [' Eastern', ' Western', ' East', ' European', ' western', ' eastern']
+Rank 6 | Centroid: ' cultural' | Score: 0.0000
+  Tokens: [' culture', ' cultural', ' aesthetics', ' customs', ' society', ' aesthetic', ' style', ' social', ' art']
+Rank 7 | Centroid: ' classical' | Score: 0.0000
+  Tokens: [' classical', ' ancient', ' traditional', ' historical', ' classic', ' old']
+Rank 8 | Centroid: ' and' | Score: 0.0000
+  Tokens: [' and', ' T', ' Ch', ' or', ' pre']
+Rank 9 | Centroid: ' practices' | Score: 0.0000
+  Tokens: [' methods', ' approaches', ' theory', ' ways', ' practice', ' practices', ' theories']
+Rank 10 | Centroid: ' views' | Score: 0.0000
+  Tokens: [' views', ' attitudes', ' perspectives', ' interpretations', ' view']
+Rank 11 | Centroid: ' Conf' | Score: 0.0000
+  Tokens: [' Conf', ' Han']
+Rank 12 | Centroid: ' settings' | Score: 0.0000
+  Tokens: [' terms', ' times', ' studies', ' settings', ' sources', ' works']
+Rank 13 | Centroid: ' philosophy' | Score: 0.0000
+  Tokens: [' philosophy', ' philosophical']
+Rank 14 | Centroid: ' contexts' | Score: 0.0000
+  Tokens: [' contexts', ' context']
+Rank 15 | Centroid: ' comparative' | Score: 0.0000
+  Tokens: [' comparative']
+
+**Chosen Concept:** Rank 1

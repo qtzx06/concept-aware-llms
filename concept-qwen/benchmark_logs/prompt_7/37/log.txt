@@ -1,0 +1,111 @@
+--- Step 37 Log ---
+
+== Filtered Candidates ==
+Token: ' dynasty' (ID: 66846), Prob: 0.7344
+Token: ' poetry' (ID: 31249), Prob: 0.1445
+Token: ' period' (ID: 4168), Prob: 0.0322
+Token: ' poets' (ID: 72972), Prob: 0.0195
+Token: ' Dynasty' (ID: 73395), Prob: 0.0152
+Token: ' era' (ID: 11385), Prob: 0.0118
+Token: ' and' (ID: 323), Prob: 0.0104
+Token: ' poems' (ID: 44219), Prob: 0.0104
+Token: ' poet' (ID: 39260), Prob: 0.0038
+Token: ' poetic' (ID: 75434), Prob: 0.0026
+Token: ' court' (ID: 5473), Prob: 0.0011
+Token: ' poem' (ID: 32794), Prob: 0.0009
+Token: ' Chinese' (ID: 8453), Prob: 0.0007
+Token: ' in' (ID: 304), Prob: 0.0006
+Token: ' Po' (ID: 13808), Prob: 0.0005
+Token: ''s' (ID: 594), Prob: 0.0004
+Token: ' dyn' (ID: 31070), Prob: 0.0004
+Token: ' Poetry' (ID: 67687), Prob: 0.0004
+Token: ' style' (ID: 1707), Prob: 0.0003
+Token: '-era' (ID: 51343), Prob: 0.0002
+Token: ' Period' (ID: 25492), Prob: 0.0002
+Token: ' classics' (ID: 52705), Prob: 0.0002
+Token: ' literary' (ID: 31365), Prob: 0.0002
+Token: ' age' (ID: 4231), Prob: 0.0001
+Token: ' times' (ID: 3039), Prob: 0.0001
+Token: ' literature' (ID: 17206), Prob: 0.0001
+Token: ' or' (ID: 476), Prob: 0.0001
+Token: ' during' (ID: 2337), Prob: 0.0001
+Token: ' classical' (ID: 28824), Prob: 0.0001
+Token: ' imperial' (ID: 34279), Prob: 0.0001
+Token: ' epoch' (ID: 16342), Prob: 0.0001
+Token: ' verse' (ID: 32387), Prob: 0.0001
+Token: ' school' (ID: 2906), Prob: 0.0001
+Token: ' to' (ID: 311), Prob: 0.0000
+Token: ' tradition' (ID: 13815), Prob: 0.0000
+Token: ' periods' (ID: 18346), Prob: 0.0000
+Token: ' prose' (ID: 60701), Prob: 0.0000
+Token: '-period' (ID: 98081), Prob: 0.0000
+Token: ' time' (ID: 882), Prob: 0.0000
+Token: ' po' (ID: 3193), Prob: 0.0000
+Token: ' for' (ID: 369), Prob: 0.0000
+Token: ' as' (ID: 438), Prob: 0.0000
+Token: ' classic' (ID: 11416), Prob: 0.0000
+Token: ' class' (ID: 536), Prob: 0.0000
+Token: ' people' (ID: 1251), Prob: 0.0000
+Token: ' anthology' (ID: 83008), Prob: 0.0000
+Token: ' line' (ID: 1555), Prob: 0.0000
+Token: ' Song' (ID: 18971), Prob: 0.0000
+Token: ' century' (ID: 9294), Prob: 0.0000
+Token: ' lyric' (ID: 68335), Prob: 0.0000
+Token: ' of' (ID: 315), Prob: 0.0000
+Token: ' China' (ID: 5616), Prob: 0.0000
+Token: ' Classic' (ID: 21837), Prob: 0.0000
+Token: ' romantic' (ID: 23467), Prob: 0.0000
+Token: ' Dyn' (ID: 43938), Prob: 0.0000
+Token: ' genre' (ID: 17328), Prob: 0.0000
+Token: ' writings' (ID: 42322), Prob: 0.0000
+Token: '’s' (ID: 748), Prob: 0.0000
+Token: ' Court' (ID: 7154), Prob: 0.0000
+Token: ' songs' (ID: 11674), Prob: 0.0000
+Token: ' civilization' (ID: 34917), Prob: 0.0000
+Token: 'Dyn' (ID: 95709), Prob: 0.0000
+Token: ' by' (ID: 553), Prob: 0.0000
+Token: ' empire' (ID: 31347), Prob: 0.0000
+Token: ' Tang' (ID: 40362), Prob: 0.0000
+Token: ' canon' (ID: 43816), Prob: 0.0000
+Token: ' with' (ID: 448), Prob: 0.0000
+Token: ' er' (ID: 2714), Prob: 0.0000
+Token: ' corpus' (ID: 42094), Prob: 0.0000
+Token: ' song' (ID: 5492), Prob: 0.0000
+Token: ' culture' (ID: 7674), Prob: 0.0000
+Token: ' works' (ID: 4278), Prob: 0.0000
+Token: ' e' (ID: 384), Prob: 0.0000
+Token: ' collection' (ID: 4426), Prob: 0.0000
+
+== Ranked Concepts (Clusters) ==
+Rank 1 | Centroid: ' Dyn' | Score: 0.7500
+  Tokens: [' dynasty', ' Dynasty', ' dyn', ' Dyn', 'Dyn']
+Rank 2 | Centroid: ' poetry' | Score: 0.1826
+  Tokens: [' poetry', ' poets', ' poems', ' poet', ' poetic', ' poem', ' Po', ' Poetry', ' po']
+Rank 3 | Centroid: ' period' | Score: 0.0325
+  Tokens: [' period', ' Period', ' periods', '-period']
+Rank 4 | Centroid: ' era' | Score: 0.0121
+  Tokens: [' era', '-era', ' epoch', ' century']
+Rank 5 | Centroid: ' and' | Score: 0.0115
+  Tokens: [' and', ' in', ' or', ' during', ' to', ' for', ' as', ' class', ' people', ' line', ' of', ' by', ' with', ' e']
+Rank 6 | Centroid: ' court' | Score: 0.0012
+  Tokens: [' court', ' school', ' Court']
+Rank 7 | Centroid: ' China' | Score: 0.0007
+  Tokens: [' Chinese', ' China', ' Tang']
+Rank 8 | Centroid: ' literary' | Score: 0.0004
+  Tokens: [' literary', ' literature', ' prose', ' anthology', ' romantic', ' genre', ' writings', ' corpus']
+Rank 9 | Centroid: ''s' | Score: 0.0004
+  Tokens: ["'s", '’s']
+Rank 10 | Centroid: ' classic' | Score: 0.0004
+  Tokens: [' classics', ' classical', ' tradition', ' classic', ' Classic', ' canon']
+Rank 11 | Centroid: ' time' | Score: 0.0003
+  Tokens: [' age', ' times', ' time', ' er']
+Rank 12 | Centroid: ' style' | Score: 0.0003
+  Tokens: [' style', ' works']
+Rank 13 | Centroid: ' song' | Score: 0.0001
+  Tokens: [' verse', ' Song', ' lyric', ' songs', ' song']
+Rank 14 | Centroid: ' empire' | Score: 0.0001
+  Tokens: [' imperial', ' civilization', ' empire']
+Rank 15 | Centroid: ' culture' | Score: 0.0000
+  Tokens: [' culture', ' collection']
+
+**Chosen Concept:** Rank 1

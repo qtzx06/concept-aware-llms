@@ -1,0 +1,118 @@
+--- Step 8 Log ---
+
+== Filtered Candidates ==
+Token: ' series' (ID: 4013), Prob: 0.3301
+Token: ' television' (ID: 12425), Prob: 0.2578
+Token: ' drama' (ID: 19584), Prob: 0.1377
+Token: ' One' (ID: 3776), Prob: 0.0649
+Token: ' Radio' (ID: 13484), Prob: 0.0308
+Token: ' Two' (ID: 9043), Prob: 0.0239
+Token: ' TV' (ID: 5883), Prob: 0.0211
+Token: ''s' (ID: 594), Prob: 0.0187
+Token: ' sitcom' (ID: 80366), Prob: 0.0128
+Token: ' soap' (ID: 26785), Prob: 0.0089
+Token: ' radio' (ID: 8887), Prob: 0.0078
+Token: ' medical' (ID: 6457), Prob: 0.0061
+Token: ' crime' (ID: 9778), Prob: 0.0061
+Token: ' comedy' (ID: 22358), Prob: 0.0053
+Token: ' min' (ID: 1308), Prob: 0.0029
+Token: ' serial' (ID: 6146), Prob: 0.0029
+Token: ' Television' (ID: 40345), Prob: 0.0029
+Token: ' Three' (ID: 14513), Prob: 0.0025
+Token: ' dramas' (ID: 87726), Prob: 0.0022
+Token: '1' (ID: 16), Prob: 0.0014
+Token: ' mini' (ID: 13420), Prob: 0.0014
+Token: ' and' (ID: 323), Prob: 0.0012
+Token: ' two' (ID: 1378), Prob: 0.0012
+Token: ' period' (ID: 4168), Prob: 0.0012
+Token: ' science' (ID: 8038), Prob: 0.0012
+Token: ' Series' (ID: 11131), Prob: 0.0011
+Token: ' hit' (ID: 4201), Prob: 0.0009
+Token: '2' (ID: 17), Prob: 0.0008
+Token: '’s' (ID: 748), Prob: 0.0008
+Token: ' one' (ID: 825), Prob: 0.0007
+Token: ' police' (ID: 4282), Prob: 0.0007
+Token: ' Drama' (ID: 46469), Prob: 0.0007
+Token: ' show' (ID: 1473), Prob: 0.0006
+Token: ' historical' (ID: 13656), Prob: 0.0006
+Token: ' Wales' (ID: 22931), Prob: 0.0005
+Token: ' sci' (ID: 37974), Prob: 0.0005
+Token: ' Four' (ID: 13322), Prob: 0.0004
+Token: ' programme' (ID: 18136), Prob: 0.0004
+Token: ' documentary' (ID: 24954), Prob: 0.0004
+Token: ' current' (ID: 1482), Prob: 0.0003
+Token: ' production' (ID: 5670), Prob: 0.0003
+Token: ' dram' (ID: 13548), Prob: 0.0003
+Token: ' adaptation' (ID: 33085), Prob: 0.0003
+Token: ' anthology' (ID: 83008), Prob: 0.0002
+Token: ' Sherlock' (ID: 60626), Prob: 0.0002
+Token: ' variety' (ID: 8045), Prob: 0.0002
+Token: ' productions' (ID: 53148), Prob: 0.0002
+Token: ' natural' (ID: 5810), Prob: 0.0002
+Token: ' light' (ID: 3100), Prob: 0.0002
+Token: ' televis' (ID: 89965), Prob: 0.0002
+Token: ' sat' (ID: 7578), Prob: 0.0001
+Token: ' tv' (ID: 11086), Prob: 0.0001
+Token: ' Doctor' (ID: 18635), Prob: 0.0001
+Token: ' programmes' (ID: 37637), Prob: 0.0001
+Token: ' detective' (ID: 44159), Prob: 0.0001
+Token: ' World' (ID: 4337), Prob: 0.0001
+Token: ' political' (ID: 4948), Prob: 0.0001
+Token: ' Light' (ID: 8658), Prob: 0.0001
+Token: ' Medical' (ID: 12939), Prob: 0.0001
+Token: ' i' (ID: 600), Prob: 0.0001
+Token: ' Period' (ID: 25492), Prob: 0.0001
+Token: ' serie' (ID: 32878), Prob: 0.0001
+Token: ' Northern' (ID: 16926), Prob: 0.0001
+Token: ' daytime' (ID: 61082), Prob: 0.0001
+Token: ' documentaries' (ID: 87366), Prob: 0.0001
+Token: ' Shakespeare' (ID: 41382), Prob: 0.0001
+Token: ' broadcast' (ID: 12899), Prob: 0.0001
+Token: ' stage' (ID: 6430), Prob: 0.0001
+Token: ' Midlands' (ID: 80151), Prob: 0.0001
+Token: ' limited' (ID: 7199), Prob: 0.0001
+Token: ' dramatic' (ID: 21771), Prob: 0.0001
+Token: ' thriller' (ID: 53361), Prob: 0.0001
+Token: 's' (ID: 82), Prob: 0.0001
+Token: ' America' (ID: 5159), Prob: 0.0001
+Token: ' educational' (ID: 16229), Prob: 0.0001
+Token: ' spy' (ID: 21236), Prob: 0.0001
+Token: ' adaptations' (ID: 76665), Prob: 0.0001
+Token: ' Western' (ID: 10867), Prob: 0.0000
+Token: ' serialization' (ID: 47443), Prob: 0.0000
+Token: ' Scotland' (ID: 19085), Prob: 0.0000
+Token: ' horror' (ID: 21452), Prob: 0.0000
+Token: ' comed' (ID: 62013), Prob: 0.0000
+Token: ' theatre' (ID: 33496), Prob: 0.0000
+Token: ' program' (ID: 2025), Prob: 0.0000
+Token: ' popular' (ID: 5411), Prob: 0.0000
+
+== Ranked Concepts (Clusters) ==
+Rank 1 | Centroid: ' series' | Score: 0.3340
+  Tokens: [' series', ' serial', ' Series', ' variety', ' serie', ' serialization']
+Rank 2 | Centroid: ' drama' | Score: 0.1406
+  Tokens: [' drama', ' dramas', ' Drama', ' dram', ' dramatic', ' theatre']
+Rank 3 | Centroid: ' Two' | Score: 0.0938
+  Tokens: [' One', ' Two', ' Three', ' two', ' one', ' Four']
+Rank 4 | Centroid: ' radio' | Score: 0.0386
+  Tokens: [' Radio', ' radio', ' broadcast']
+Rank 5 | Centroid: ' and' | Score: 0.0286
+  Tokens: ["'s", ' min', '1', ' mini', ' and', '2', '’s', ' show', ' current', ' natural', ' World', ' i', ' limited', 's', ' popular']
+Rank 6 | Centroid: ' television' | Score: 0.0281
+  Tokens: [' television', ' TV', ' Television', ' televis', ' tv']
+Rank 7 | Centroid: ' comedy' | Score: 0.0280
+  Tokens: [' sitcom', ' soap', ' comedy', ' documentary', ' anthology', ' documentaries', ' Shakespeare', ' thriller', ' horror', ' comed']
+Rank 8 | Centroid: ' Medical' | Score: 0.0168
+  Tokens: [' medical', ' crime', ' science', ' police', ' historical', ' Wales', ' sci', ' Sherlock', ' Doctor', ' detective', ' political', ' Medical', ' Northern', ' Midlands', ' America', ' educational', ' spy', ' Western', ' Scotland']
+Rank 9 | Centroid: ' adaptations' | Score: 0.0019
+  Tokens: [' hit', ' production', ' adaptation', ' productions', ' sat', ' adaptations']
+Rank 10 | Centroid: ' period' | Score: 0.0014
+  Tokens: [' period', ' Period', ' stage']
+Rank 11 | Centroid: ' programme' | Score: 0.0006
+  Tokens: [' programme', ' programmes', ' program']
+Rank 12 | Centroid: ' light' | Score: 0.0003
+  Tokens: [' light', ' Light']
+Rank 13 | Centroid: ' daytime' | Score: 0.0001
+  Tokens: [' daytime']
+
+**Chosen Concept:** Rank 1

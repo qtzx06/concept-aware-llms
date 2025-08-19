@@ -1,0 +1,126 @@
+--- Step 29 Log ---
+
+== Filtered Candidates ==
+Token: ' Du' (ID: 15687), Prob: 0.5781
+Token: ' his' (ID: 806), Prob: 0.1455
+Token: ' Fu' (ID: 29253), Prob: 0.0608
+Token: ' the' (ID: 279), Prob: 0.0417
+Token: ' a' (ID: 264), Prob: 0.0369
+Token: ' was' (ID: 572), Prob: 0.0223
+Token: ' Li' (ID: 14511), Prob: 0.0093
+Token: ' Xu' (ID: 56414), Prob: 0.0073
+Token: ' Liu' (ID: 37705), Prob: 0.0064
+Token: ' Lu' (ID: 18360), Prob: 0.0050
+Token: ' an' (ID: 458), Prob: 0.0039
+Token: ' Su' (ID: 16931), Prob: 0.0039
+Token: ' Gu' (ID: 4570), Prob: 0.0034
+Token: ' Hu' (ID: 21793), Prob: 0.0030
+Token: ' Zhang' (ID: 36020), Prob: 0.0030
+Token: ' Wu' (ID: 36130), Prob: 0.0030
+Token: ' Wang' (ID: 28246), Prob: 0.0027
+Token: ' Sun' (ID: 8059), Prob: 0.0021
+Token: ' X' (ID: 1599), Prob: 0.0018
+Token: ' Zhu' (ID: 67744), Prob: 0.0018
+Token: ' Dou' (ID: 17007), Prob: 0.0016
+Token: ' married' (ID: 12224), Prob: 0.0014
+Token: ' another' (ID: 2441), Prob: 0.0011
+Token: ' Chen' (ID: 24495), Prob: 0.0011
+Token: ' C' (ID: 356), Prob: 0.0010
+Token: ' he' (ID: 566), Prob: 0.0010
+Token: ' wife' (ID: 7403), Prob: 0.0010
+Token: ' Pu' (ID: 22199), Prob: 0.0010
+Token: ' Tu' (ID: 28649), Prob: 0.0010
+Token: ' D' (ID: 422), Prob: 0.0009
+Token: ' Ma' (ID: 11331), Prob: 0.0009
+Token: ' Shen' (ID: 57780), Prob: 0.0009
+Token: ' Yu' (ID: 27273), Prob: 0.0008
+Token: ' had' (ID: 1030), Prob: 0.0007
+Token: ' Fan' (ID: 24714), Prob: 0.0007
+Token: ' Han' (ID: 20644), Prob: 0.0006
+Token: ' Yan' (ID: 24213), Prob: 0.0006
+Token: ' Yang' (ID: 24474), Prob: 0.0006
+Token: ' Wei' (ID: 52448), Prob: 0.0006
+Token: ' Ni' (ID: 21890), Prob: 0.0005
+Token: ' Jiang' (ID: 60822), Prob: 0.0005
+Token: ' Song' (ID: 18971), Prob: 0.0005
+Token: ' Meng' (ID: 60054), Prob: 0.0004
+Token: ' Xiao' (ID: 65590), Prob: 0.0004
+Token: ' Zhou' (ID: 66827), Prob: 0.0004
+Token: ' is' (ID: 374), Prob: 0.0004
+Token: ' L' (ID: 444), Prob: 0.0004
+Token: ' J' (ID: 619), Prob: 0.0004
+Token: ' Zhao' (ID: 69281), Prob: 0.0004
+Token: ' Sh' (ID: 1417), Prob: 0.0003
+Token: ' Lady' (ID: 20621), Prob: 0.0003
+Token: ' Ju' (ID: 21671), Prob: 0.0003
+Token: ' Shi' (ID: 40704), Prob: 0.0003
+Token: ' Feng' (ID: 42658), Prob: 0.0003
+Token: ' Tian' (ID: 47343), Prob: 0.0003
+Token: ' Tang' (ID: 40362), Prob: 0.0003
+Token: ' N' (ID: 451), Prob: 0.0003
+Token: ' Q' (ID: 1207), Prob: 0.0003
+Token: ' Z' (ID: 1863), Prob: 0.0003
+Token: ' sister' (ID: 12923), Prob: 0.0003
+Token: ' Luo' (ID: 66383), Prob: 0.0003
+Token: ' G' (ID: 479), Prob: 0.0003
+Token: ' Fe' (ID: 3841), Prob: 0.0003
+Token: ' Zheng' (ID: 76447), Prob: 0.0002
+Token: ' Wen' (ID: 61223), Prob: 0.0002
+Token: ' Bai' (ID: 84908), Prob: 0.0002
+Token: ' Si' (ID: 11832), Prob: 0.0002
+Token: ' Deng' (ID: 91729), Prob: 0.0002
+Token: ' did' (ID: 1521), Prob: 0.0002
+Token: ' Ru' (ID: 27914), Prob: 0.0002
+Token: ' in' (ID: 304), Prob: 0.0002
+Token: 'Du' (ID: 42074), Prob: 0.0002
+Token: ' Dong' (ID: 52383), Prob: 0.0002
+Token: ' Mei' (ID: 90933), Prob: 0.0002
+Token: ' H' (ID: 472), Prob: 0.0002
+Token: ' died' (ID: 8469), Prob: 0.0002
+Token: ' Lin' (ID: 8564), Prob: 0.0002
+Token: ' Fang' (ID: 57927), Prob: 0.0002
+Token: ' Ding' (ID: 79373), Prob: 0.0002
+Token: ' Lou' (ID: 9729), Prob: 0.0001
+Token: ' He' (ID: 1260), Prob: 0.0001
+Token: ' Jin' (ID: 38511), Prob: 0.0001
+Token: ' Qin' (ID: 73351), Prob: 0.0001
+Token: ' Di' (ID: 7767), Prob: 0.0001
+Token: ' Mu' (ID: 14787), Prob: 0.0001
+
+== Ranked Concepts (Clusters) ==
+Rank 1 | Centroid: ' Du' | Score: 0.5781
+  Tokens: [' Du', ' Dou', 'Du']
+Rank 2 | Centroid: ' he' | Score: 0.1465
+  Tokens: [' his', ' he', ' He']
+Rank 3 | Centroid: ' the' | Score: 0.0840
+  Tokens: [' the', ' a', ' an', ' another', ' is', ' in']
+Rank 4 | Centroid: ' Hu' | Score: 0.0737
+  Tokens: [' Fu', ' Su', ' Gu', ' Hu', ' Pu', ' Tu', ' Ju', ' Ru', ' Mu']
+Rank 5 | Centroid: ' was' | Score: 0.0234
+  Tokens: [' was', ' had', ' did', ' died']
+Rank 6 | Centroid: ' Liu' | Score: 0.0212
+  Tokens: [' Li', ' Liu', ' Lu', ' Luo', ' Lin', ' Lou']
+Rank 7 | Centroid: ' Zhang' | Score: 0.0128
+  Tokens: [' Zhang', ' Wang', ' Zhu', ' Chen', ' Yang', ' Wei', ' Jiang', ' Xiao', ' Zhou', ' Zhao', ' Tian', ' Zheng', ' Wen', ' Bai', ' Jin', ' Qin']
+Rank 8 | Centroid: ' Xu' | Score: 0.0110
+  Tokens: [' Xu', ' Wu', ' Yu']
+Rank 9 | Centroid: ' D' | Score: 0.0057
+  Tokens: [' X', ' C', ' D', ' L', ' J', ' N', ' Q', ' Z', ' G', ' H']
+Rank 10 | Centroid: ' wife' | Score: 0.0030
+  Tokens: [' married', ' wife', ' Lady', ' sister']
+Rank 11 | Centroid: ' Fang' | Score: 0.0025
+  Tokens: [' Fan', ' Yan', ' Song', ' Feng', ' Tang', ' Fang']
+Rank 12 | Centroid: ' Sh' | Score: 0.0021
+  Tokens: [' Shen', ' Han', ' Sh', ' Shi']
+Rank 13 | Centroid: ' Sun' | Score: 0.0021
+  Tokens: [' Sun']
+Rank 14 | Centroid: ' Si' | Score: 0.0019
+  Tokens: [' Ma', ' Ni', ' Fe', ' Si']
+Rank 15 | Centroid: ' Meng' | Score: 0.0006
+  Tokens: [' Meng', ' Mei']
+Rank 16 | Centroid: ' Dong' | Score: 0.0005
+  Tokens: [' Deng', ' Dong', ' Ding']
+Rank 17 | Centroid: ' Di' | Score: 0.0001
+  Tokens: [' Di']
+
+**Chosen Concept:** Rank 1

@@ -1,90 +1,131 @@
 --- Step 23 Log ---
 
 == Filtered Candidates ==
-Token: ' carefully' (ID: 15516), Prob: 0.0021
-Token: ' correctly' (ID: 12440), Prob: 0.0000
-Token: ' sentences' (ID: 22870), Prob: 0.0000
-Token: ' properly' (ID: 10277), Prob: 0.0000
-Token: ' provided' (ID: 3897), Prob: 0.0000
-Token: ' quickly' (ID: 6157), Prob: 0.0000
-Token: ' closely' (ID: 15148), Prob: 0.0000
-Token: ' accurately' (ID: 29257), Prob: 0.0000
-Token: ' fragments' (ID: 34503), Prob: 0.0000
-Token: ' thoroughly' (ID: 26364), Prob: 0.0000
-Token: ' first' (ID: 1156), Prob: 0.0000
-Token: ' pieces' (ID: 9666), Prob: 0.0000
-Token: ' points' (ID: 3501), Prob: 0.0000
-Token: ' twice' (ID: 10917), Prob: 0.0000
-Token: ' sentence' (ID: 11652), Prob: 0.0000
-Token: ' line' (ID: 1555), Prob: 0.0000
-Token: ' message' (ID: 1943), Prob: 0.0000
-Token: ' care' (ID: 2453), Prob: 0.0000
-Token: ' lines' (ID: 5128), Prob: 0.0000
-Token: ' mentally' (ID: 33225), Prob: 0.0000
-Token: ' well' (ID: 1632), Prob: 0.0000
-Token: ' smoothly' (ID: 38411), Prob: 0.0000
-Token: ' aloud' (ID: 70411), Prob: 0.0000
-Token: ' meaning' (ID: 7290), Prob: 0.0000
-Token: ' clearly' (ID: 9355), Prob: 0.0000
-Token: ' structure' (ID: 5944), Prob: 0.0000
-Token: ' piece' (ID: 6573), Prob: 0.0000
-Token: ' excerpts' (ID: 83390), Prob: 0.0000
-Token: ' parts' (ID: 5479), Prob: 0.0000
-Token: ' emotionally' (ID: 37583), Prob: 0.0000
-Token: ' slowly' (ID: 13970), Prob: 0.0000
-Token: ' segments' (ID: 20632), Prob: 0.0000
-Token: ' together' (ID: 3786), Prob: 0.0000
-Token: ' quotes' (ID: 17194), Prob: 0.0000
-Token: ' snippets' (ID: 68642), Prob: 0.0000
-Token: ' note' (ID: 5185), Prob: 0.0000
-Token: ' extract' (ID: 8649), Prob: 0.0000
-Token: ' flow' (ID: 6396), Prob: 0.0000
-Token: ' sentiment' (ID: 25975), Prob: 0.0000
-Token: ' input' (ID: 1946), Prob: 0.0000
-Token: ' snippet' (ID: 43065), Prob: 0.0000
-Token: ' back' (ID: 1182), Prob: 0.0000
-Token: ' elements' (ID: 5424), Prob: 0.0000
-Token: ' deeply' (ID: 17247), Prob: 0.0000
+Token: ' year' (ID: 1042), Prob: 0.9805
+Token: ' period' (ID: 4168), Prob: 0.0075
+Token: ' decade' (ID: 13212), Prob: 0.0031
+Token: ' time' (ID: 882), Prob: 0.0017
+Token: ' season' (ID: 3200), Prob: 0.0015
+Token: ' years' (ID: 1635), Prob: 0.0004
+Token: ' month' (ID: 2254), Prob: 0.0004
+Token: ' series' (ID: 4013), Prob: 0.0003
+Token: ' calendar' (ID: 13168), Prob: 0.0003
+Token: ' week' (ID: 2003), Prob: 0.0001
+Token: ' episode' (ID: 9234), Prob: 0.0001
+Token: ' television' (ID: 12425), Prob: 0.0000
+Token: ' timeframe' (ID: 69953), Prob: 0.0000
+Token: ' era' (ID: 11385), Prob: 0.0000
+Token: 'year' (ID: 3157), Prob: 0.0000
+Token: ' production' (ID: 5670), Prob: 0.0000
+Token: ' century' (ID: 9294), Prob: 0.0000
+Token: ' two' (ID: 1378), Prob: 0.0000
+Token: ' film' (ID: 4531), Prob: 0.0000
+Token: ' edition' (ID: 13688), Prob: 0.0000
+Token: ' BBC' (ID: 18096), Prob: 0.0000
+Token: ' role' (ID: 3476), Prob: 0.0000
+Token: ' Year' (ID: 9742), Prob: 0.0000
+Token: ' summer' (ID: 7324), Prob: 0.0000
+Token: ' five' (ID: 4236), Prob: 0.0000
+Token: ' financial' (ID: 5896), Prob: 0.0000
+Token: ' theatre' (ID: 33496), Prob: 0.0000
+Token: ' annum' (ID: 86657), Prob: 0.0000
+Token: ' day' (ID: 1899), Prob: 0.0000
+Token: ' country' (ID: 3146), Prob: 0.0000
+Token: ' he' (ID: 566), Prob: 0.0000
+Token: ' fiscal' (ID: 19743), Prob: 0.0000
+Token: ' the' (ID: 279), Prob: 0.0000
+Token: ' millennium' (ID: 88685), Prob: 0.0000
+Token: ' show' (ID: 1473), Prob: 0.0000
+Token: ' quarter' (ID: 8338), Prob: 0.0000
+Token: ' and' (ID: 323), Prob: 0.0000
+Token: ' way' (ID: 1616), Prob: 0.0000
+Token: ' or' (ID: 476), Prob: 0.0000
+Token: ' three' (ID: 2326), Prob: 0.0000
+Token: ' winter' (ID: 12406), Prob: 0.0000
+Token: ' studio' (ID: 14029), Prob: 0.0000
+Token: ' cycle' (ID: 10775), Prob: 0.0000
+Token: ' academic' (ID: 14250), Prob: 0.0000
+Token: ' as' (ID: 438), Prob: 0.0000
+Token: ' broadcast' (ID: 12899), Prob: 0.0000
+Token: ' programme' (ID: 18136), Prob: 0.0000
+Token: ' term' (ID: 4647), Prob: 0.0000
+Token: ' ten' (ID: 5779), Prob: 0.0000
+Token: ' acting' (ID: 15358), Prob: 0.0000
+Token: '-year' (ID: 4666), Prob: 0.0000
+Token: ' historical' (ID: 13656), Prob: 0.0000
+Token: ' chronological' (ID: 86534), Prob: 0.0000
 Token: ' part' (ID: 949), Prob: 0.0000
-Token: ' sent' (ID: 3208), Prob: 0.0000
-Token: ' messages' (ID: 6605), Prob: 0.0000
-Token: ' phrases' (ID: 31747), Prob: 0.0000
-Token: ' clues' (ID: 42675), Prob: 0.0000
-Token: ' notes' (ID: 8388), Prob: 0.0000
-Token: ' gently' (ID: 29273), Prob: 0.0000
+Token: ' twenty' (ID: 17073), Prob: 0.0000
+Token: ' theatrical' (ID: 65233), Prob: 0.0000
+Token: ' y' (ID: 379), Prob: 0.0000
+Token: ' stage' (ID: 6430), Prob: 0.0000
+Token: ' area' (ID: 3082), Prob: 0.0000
+Token: ' annual' (ID: 9775), Prob: 0.0000
+Token: ' timeline' (ID: 24808), Prob: 0.0000
+Token: ' four' (ID: 3040), Prob: 0.0000
+Token: ' months' (ID: 3951), Prob: 0.0000
+Token: ' seasons' (ID: 15584), Prob: 0.0000
+Token: ' musical' (ID: 17795), Prob: 0.0000
+Token: ' in' (ID: 304), Prob: 0.0000
+Token: ' instance' (ID: 2867), Prob: 0.0000
+Token: ' place' (ID: 1992), Prob: 0.0000
+Token: ' city' (ID: 3283), Prob: 0.0000
+Token: ' six' (ID: 4743), Prob: 0.0000
+Token: ' town' (ID: 6290), Prob: 0.0000
+Token: ' manner' (ID: 11566), Prob: 0.0000
+Token: ' anniversary' (ID: 21582), Prob: 0.0000
+Token: ' scene' (ID: 6109), Prob: 0.0000
+Token: ' ye' (ID: 19478), Prob: 0.0000
+Token: ' context' (ID: 2266), Prob: 0.0000
+Token: ' movie' (ID: 5700), Prob: 0.0000
+Token: ' twelve' (ID: 29235), Prob: 0.0000
+Token: ' media' (ID: 3687), Prob: 0.0000
+Token: ' location' (ID: 3728), Prob: 0.0000
+Token: ' performance' (ID: 5068), Prob: 0.0000
+Token: ' region' (ID: 5537), Prob: 0.0000
 
 == Ranked Concepts (Clusters) ==
-Rank 1 | Centroid: ' properly' | Score: 0.0022
-  Tokens: [' carefully', ' correctly', ' properly', ' accurately', ' thoroughly', ' well', ' clearly']
-Rank 2 | Centroid: ' sentences' | Score: 0.0001
-  Tokens: [' sentences', ' sentence', ' sentiment', ' sent', ' phrases']
-Rank 3 | Centroid: ' slowly' | Score: 0.0000
-  Tokens: [' quickly', ' closely', ' smoothly', ' slowly', ' deeply', ' gently']
-Rank 4 | Centroid: ' input' | Score: 0.0000
-  Tokens: [' provided', ' first', ' structure', ' flow', ' input', ' back']
-Rank 5 | Centroid: ' snippets' | Score: 0.0000
-  Tokens: [' fragments', ' excerpts', ' segments', ' snippets', ' extract', ' snippet']
-Rank 6 | Centroid: ' twice' | Score: 0.0000
-  Tokens: [' twice', ' aloud', ' together']
-Rank 7 | Centroid: ' line' | Score: 0.0000
-  Tokens: [' line', ' lines']
-Rank 8 | Centroid: ' pieces' | Score: 0.0000
-  Tokens: [' pieces', ' piece']
-Rank 9 | Centroid: ' points' | Score: 0.0000
-  Tokens: [' points', ' elements']
-Rank 10 | Centroid: ' mentally' | Score: 0.0000
-  Tokens: [' mentally', ' emotionally']
-Rank 11 | Centroid: ' message' | Score: 0.0000
-  Tokens: [' message', ' messages']
-Rank 12 | Centroid: ' care' | Score: 0.0000
-  Tokens: [' care']
-Rank 13 | Centroid: ' parts' | Score: 0.0000
-  Tokens: [' parts', ' part']
-Rank 14 | Centroid: ' meaning' | Score: 0.0000
-  Tokens: [' meaning']
-Rank 15 | Centroid: ' quotes' | Score: 0.0000
-  Tokens: [' quotes', ' clues']
-Rank 16 | Centroid: ' note' | Score: 0.0000
-  Tokens: [' note', ' notes']
+Rank 1 | Centroid: ' year' | Score: 0.9805
+  Tokens: [' year', ' years', 'year', ' Year', '-year']
+Rank 2 | Centroid: ' period' | Score: 0.0075
+  Tokens: [' period', ' era']
+Rank 3 | Centroid: ' century' | Score: 0.0032
+  Tokens: [' decade', ' century', ' millennium', ' quarter']
+Rank 4 | Centroid: ' time' | Score: 0.0017
+  Tokens: [' time']
+Rank 5 | Centroid: ' seasons' | Score: 0.0015
+  Tokens: [' season', ' summer', ' winter', ' seasons']
+Rank 6 | Centroid: ' month' | Score: 0.0006
+  Tokens: [' month', ' week', ' day', ' months']
+Rank 7 | Centroid: ' timeline' | Score: 0.0003
+  Tokens: [' calendar', ' timeframe', ' chronological', ' timeline']
+Rank 8 | Centroid: ' series' | Score: 0.0003
+  Tokens: [' series']
+Rank 9 | Centroid: ' television' | Score: 0.0001
+  Tokens: [' television', ' film', ' BBC', ' theatre', ' studio', ' broadcast', ' theatrical', ' movie', ' media']
+Rank 10 | Centroid: ' scene' | Score: 0.0001
+  Tokens: [' episode', ' programme', ' stage', ' scene']
+Rank 11 | Centroid: ' five' | Score: 0.0001
+  Tokens: [' two', ' five', ' three', ' ten', ' twenty', ' four', ' six', ' twelve']
+Rank 12 | Centroid: ' production' | Score: 0.0000
+  Tokens: [' production', ' performance']
+Rank 13 | Centroid: ' financial' | Score: 0.0000
+  Tokens: [' financial', ' fiscal', ' academic', ' historical', ' musical']
+Rank 14 | Centroid: ' edition' | Score: 0.0000
+  Tokens: [' edition', ' instance']
+Rank 15 | Centroid: ' manner' | Score: 0.0000
+  Tokens: [' role', ' way', ' acting', ' manner']
+Rank 16 | Centroid: ' city' | Score: 0.0000
+  Tokens: [' country', ' area', ' place', ' city', ' town', ' context', ' location', ' region']
+Rank 17 | Centroid: ' annual' | Score: 0.0000
+  Tokens: [' annum', ' annual', ' anniversary']
+Rank 18 | Centroid: ' cycle' | Score: 0.0000
+  Tokens: [' cycle']
+Rank 19 | Centroid: ' the' | Score: 0.0000
+  Tokens: [' he', ' the', ' show', ' and', ' or', ' as', ' part', ' y', ' in']
+Rank 20 | Centroid: ' term' | Score: 0.0000
+  Tokens: [' term']
+Rank 21 | Centroid: ' ye' | Score: 0.0000
+  Tokens: [' ye']
 
 **Chosen Concept:** Rank 1

@@ -1,0 +1,90 @@
+--- Step 151 Log ---
+
+== Filtered Candidates ==
+Token: ' United' (ID: 3639), Prob: 1.0000
+Token: ' UK' (ID: 6424), Prob: 0.0000
+Token: 'United' (ID: 22372), Prob: 0.0000
+Token: ' united' (ID: 28192), Prob: 0.0000
+Token: ' universe' (ID: 15494), Prob: 0.0000
+Token: ' University' (ID: 3822), Prob: 0.0000
+Token: ' U' (ID: 547), Prob: 0.0000
+Token: ' Universal' (ID: 25500), Prob: 0.0000
+Token: ' Universe' (ID: 28749), Prob: 0.0000
+Token: ' British' (ID: 7855), Prob: 0.0000
+Token: ' year' (ID: 1042), Prob: 0.0000
+Token: ' unknown' (ID: 9788), Prob: 0.0000
+Token: ' Un' (ID: 1230), Prob: 0.0000
+Token: ' Unified' (ID: 72434), Prob: 0.0000
+Token: ' North' (ID: 4787), Prob: 0.0000
+Token: ' the' (ID: 279), Prob: 0.0000
+Token: ' birth' (ID: 7194), Prob: 0.0000
+Token: ' UNITED' (ID: 84510), Prob: 0.0000
+Token: ' uint' (ID: 2622), Prob: 0.0000
+Token: ' entire' (ID: 4453), Prob: 0.0000
+Token: ' Britain' (ID: 13224), Prob: 0.0000
+Token: ' Unknown' (ID: 21693), Prob: 0.0000
+Token: ' Commonwealth' (ID: 37198), Prob: 0.0000
+Token: ' England' (ID: 9448), Prob: 0.0000
+Token: ' television' (ID: 12425), Prob: 0.0000
+Token: ' Univers' (ID: 15545), Prob: 0.0000
+Token: ' Canada' (ID: 6864), Prob: 0.0000
+Token: ' country' (ID: 3146), Prob: 0.0000
+Token: ' Australia' (ID: 8330), Prob: 0.0000
+Token: ' Uniform' (ID: 47889), Prob: 0.0000
+Token: ' undefined' (ID: 5614), Prob: 0.0000
+Token: ' USA' (ID: 7279), Prob: 0.0000
+Token: ' Union' (ID: 9145), Prob: 0.0000
+Token: ' Lord' (ID: 10214), Prob: 0.0000
+Token: ' uniform' (ID: 13794), Prob: 0.0000
+Token: ' The' (ID: 576), Prob: 0.0000
+Token: ' Unit' (ID: 7954), Prob: 0.0000
+Token: ' Unt' (ID: 15098), Prob: 0.0000
+Token: ' unit' (ID: 4982), Prob: 0.0000
+Token: ' universal' (ID: 20178), Prob: 0.0000
+Token: ' Victoria' (ID: 22417), Prob: 0.0000
+Token: ' unified' (ID: 42690), Prob: 0.0000
+Token: ' Undefined' (ID: 62370), Prob: 0.0000
+Token: ' Uk' (ID: 59313), Prob: 0.0000
+Token: ' un' (ID: 650), Prob: 0.0000
+Token: ' Kingdom' (ID: 15072), Prob: 0.0000
+Token: ' unsigned' (ID: 3774), Prob: 0.0000
+Token: ' BBC' (ID: 18096), Prob: 0.0000
+Token: ' date' (ID: 2400), Prob: 0.0000
+Token: ' Manchester' (ID: 19361), Prob: 0.0000
+Token: ' Scotland' (ID: 19085), Prob: 0.0000
+
+== Ranked Concepts (Clusters) ==
+Rank 1 | Centroid: ' United' | Score: 1.0000
+  Tokens: [' United', 'United', ' UNITED', ' USA']
+Rank 2 | Centroid: ' Britain' | Score: 0.0000
+  Tokens: [' UK', ' British', ' Britain', ' England', ' BBC', ' Manchester', ' Scotland']
+Rank 3 | Centroid: ' unified' | Score: 0.0000
+  Tokens: [' united', ' Unified', ' unified']
+Rank 4 | Centroid: ' universe' | Score: 0.0000
+  Tokens: [' universe', ' University', ' Universe']
+Rank 5 | Centroid: ' Un' | Score: 0.0000
+  Tokens: [' U', ' Un', ' Unt', ' un']
+Rank 6 | Centroid: ' Universal' | Score: 0.0000
+  Tokens: [' Universal', ' Univers', ' universal']
+Rank 7 | Centroid: ' year' | Score: 0.0000
+  Tokens: [' year', ' birth', ' entire', ' Lord', ' date']
+Rank 8 | Centroid: ' Unknown' | Score: 0.0000
+  Tokens: [' unknown', ' Unknown', ' undefined', ' Undefined']
+Rank 9 | Centroid: ' the' | Score: 0.0000
+  Tokens: [' North', ' the', ' The']
+Rank 10 | Centroid: ' Victoria' | Score: 0.0000
+  Tokens: [' Commonwealth', ' television', ' Victoria', ' Kingdom']
+Rank 11 | Centroid: ' Australia' | Score: 0.0000
+  Tokens: [' Canada', ' country', ' Australia']
+Rank 12 | Centroid: ' uint' | Score: 0.0000
+  Tokens: [' uint', ' unsigned']
+Rank 13 | Centroid: ' Uniform' | Score: 0.0000
+  Tokens: [' Uniform', ' uniform']
+Rank 14 | Centroid: ' Unit' | Score: 0.0000
+  Tokens: [' Unit', ' unit']
+Rank 15 | Centroid: ' Union' | Score: 0.0000
+  Tokens: [' Union']
+Rank 16 | Centroid: ' Uk' | Score: 0.0000
+  Tokens: [' Uk']
+
+**Chosen Concept:** Rank 1

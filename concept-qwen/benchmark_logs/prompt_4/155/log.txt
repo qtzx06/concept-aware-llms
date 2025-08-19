@@ -1,0 +1,104 @@
+--- Step 155 Log ---
+
+== Filtered Candidates ==
+Token: 'oul' (ID: 10965), Prob: 1.0000
+Token: 'ould' (ID: 616), Prob: 0.0000
+Token: 'oun' (ID: 1624), Prob: 0.0000
+Token: 'oud' (ID: 2950), Prob: 0.0000
+Token: 'oub' (ID: 5482), Prob: 0.0000
+Token: 'ohl' (ID: 39337), Prob: 0.0000
+Token: 'ouch' (ID: 3026), Prob: 0.0000
+Token: 'owl' (ID: 9605), Prob: 0.0000
+Token: 'ou' (ID: 283), Prob: 0.0000
+Token: 'oucher' (ID: 23937), Prob: 0.0000
+Token: 'oll' (ID: 965), Prob: 0.0000
+Token: 'rou' (ID: 581), Prob: 0.0000
+Token: 'oup' (ID: 13346), Prob: 0.0000
+Token: 'ous' (ID: 782), Prob: 0.0000
+Token: 'out' (ID: 411), Prob: 0.0000
+Token: 'ola' (ID: 7924), Prob: 0.0000
+Token: 'outer' (ID: 2676), Prob: 0.0000
+Token: 'oulder' (ID: 37634), Prob: 0.0000
+Token: 'aul' (ID: 4943), Prob: 0.0000
+Token: 'uel' (ID: 4000), Prob: 0.0000
+Token: 'our' (ID: 413), Prob: 0.0000
+Token: 'outh' (ID: 2898), Prob: 0.0000
+Token: 'ounce' (ID: 9734), Prob: 0.0000
+Token: 'outs' (ID: 11672), Prob: 0.0000
+Token: 'ourn' (ID: 3431), Prob: 0.0000
+Token: 'loor' (ID: 3993), Prob: 0.0000
+Token: ' ou' (ID: 5908), Prob: 0.0000
+Token: 'olo' (ID: 10011), Prob: 0.0000
+Token: '1' (ID: 16), Prob: 0.0000
+Token: ' and' (ID: 323), Prob: 0.0000
+Token: 'ount' (ID: 629), Prob: 0.0000
+Token: 'ounded' (ID: 13082), Prob: 0.0000
+Token: 'url' (ID: 1085), Prob: 0.0000
+Token: 'oute' (ID: 2133), Prob: 0.0000
+Token: 'oly' (ID: 5730), Prob: 0.0000
+Token: 'ourt' (ID: 28586), Prob: 0.0000
+Token: 'rought' (ID: 6344), Prob: 0.0000
+Token: 'ellow' (ID: 5299), Prob: 0.0000
+Token: '2' (ID: 17), Prob: 0.0000
+Token: 'olar' (ID: 7417), Prob: 0.0000
+Token: 'hou' (ID: 18166), Prob: 0.0000
+Token: ' in' (ID: 304), Prob: 0.0000
+Token: ' Coul' (ID: 66848), Prob: 0.0000
+Token: 'ough' (ID: 1384), Prob: 0.0000
+Token: 'urt' (ID: 5639), Prob: 0.0000
+Token: 'outil' (ID: 30158), Prob: 0.0000
+Token: 'ouns' (ID: 58986), Prob: 0.0000
+Token: 'ole' (ID: 1263), Prob: 0.0000
+Token: 'ounsel' (ID: 93641), Prob: 0.0000
+Token: 'over' (ID: 1975), Prob: 0.0000
+Token: 'ours' (ID: 2471), Prob: 0.0000
+Token: 'oli' (ID: 14225), Prob: 0.0000
+Token: ' our' (ID: 1039), Prob: 0.0000
+Token: ' ol' (ID: 8328), Prob: 0.0000
+Token: ' a' (ID: 264), Prob: 0.0000
+Token: 'ollow' (ID: 1544), Prob: 0.0000
+Token: 'oreal' (ID: 89768), Prob: 0.0000
+Token: 'enth' (ID: 20684), Prob: 0.0000
+Token: 'hour' (ID: 24677), Prob: 0.0000
+
+== Ranked Concepts (Clusters) ==
+Rank 1 | Centroid: 'ou' | Score: 1.0000
+  Tokens: ['oul', 'oud', 'oub', 'ou', 'oup', 'ous', ' ou']
+Rank 2 | Centroid: 'ould' | Score: 0.0000
+  Tokens: ['ould', 'oulder']
+Rank 3 | Centroid: 'oun' | Score: 0.0000
+  Tokens: ['oun', 'ount', 'ounded', 'ouns', 'ounsel']
+Rank 4 | Centroid: 'ohl' | Score: 0.0000
+  Tokens: ['ohl', 'owl']
+Rank 5 | Centroid: 'ouch' | Score: 0.0000
+  Tokens: ['ouch', 'oucher']
+Rank 6 | Centroid: ' ol' | Score: 0.0000
+  Tokens: ['oll', 'ola', 'olo', 'oly', 'olar', 'ole', 'oli', ' ol']
+Rank 7 | Centroid: 'out' | Score: 0.0000
+  Tokens: ['out', 'outer', 'outs', 'oute']
+Rank 8 | Centroid: 'rou' | Score: 0.0000
+  Tokens: ['rou', 'hou']
+Rank 9 | Centroid: 'url' | Score: 0.0000
+  Tokens: ['aul', 'url', 'urt']
+Rank 10 | Centroid: 'our' | Score: 0.0000
+  Tokens: ['our', 'ourn', 'ourt', 'ours', ' our']
+Rank 11 | Centroid: 'uel' | Score: 0.0000
+  Tokens: ['uel']
+Rank 12 | Centroid: '1' | Score: 0.0000
+  Tokens: ['1', ' and', '2', ' in', 'over', ' a']
+Rank 13 | Centroid: 'ounce' | Score: 0.0000
+  Tokens: ['ounce', 'oreal']
+Rank 14 | Centroid: 'outh' | Score: 0.0000
+  Tokens: ['outh']
+Rank 15 | Centroid: 'ollow' | Score: 0.0000
+  Tokens: ['loor', 'ellow', 'ollow']
+Rank 16 | Centroid: 'rought' | Score: 0.0000
+  Tokens: ['rought', 'ough', 'enth']
+Rank 17 | Centroid: ' Coul' | Score: 0.0000
+  Tokens: [' Coul']
+Rank 18 | Centroid: 'outil' | Score: 0.0000
+  Tokens: ['outil']
+Rank 19 | Centroid: 'hour' | Score: 0.0000
+  Tokens: ['hour']
+
+**Chosen Concept:** Rank 1

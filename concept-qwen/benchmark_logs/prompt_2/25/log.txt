@@ -1,100 +1,128 @@
 --- Step 25 Log ---
 
 == Filtered Candidates ==
-Token: ' Maybe' (ID: 10696), Prob: 0.0178
-Token: ' Let' (ID: 6771), Prob: 0.0123
-Token: ' Start' (ID: 5145), Prob: 0.0095
-Token: ' Original' (ID: 17230), Prob: 0.0066
-Token: ' Hmm' (ID: 88190), Prob: 0.0066
-Token: ' Wait' (ID: 13824), Prob: 0.0037
-Token: ' Starting' (ID: 27657), Prob: 0.0026
-Token: ' Make' (ID: 7405), Prob: 0.0023
-Token: ' Also' (ID: 7281), Prob: 0.0019
-Token: ' Story' (ID: 15106), Prob: 0.0008
-Token: ' Keep' (ID: 13655), Prob: 0.0006
-Token: ' User' (ID: 2657), Prob: 0.0006
-Token: ' Alright' (ID: 97593), Prob: 0.0005
-Token: ' Okay' (ID: 35439), Prob: 0.0004
-Token: ' First' (ID: 5512), Prob: 0.0003
-Token: ' Since' (ID: 8704), Prob: 0.0002
-Token: ' Probably' (ID: 37154), Prob: 0.0002
-Token: ' Need' (ID: 14656), Prob: 0.0002
-Token: ' Use' (ID: 5443), Prob: 0.0002
-Token: ' Well' (ID: 8325), Prob: 0.0002
-Token: ' Words' (ID: 27630), Prob: 0.0002
-Token: ' Take' (ID: 11778), Prob: 0.0001
-Token: ' Think' (ID: 21149), Prob: 0.0001
-Token: ' Title' (ID: 10869), Prob: 0.0001
-Token: ' Check' (ID: 4248), Prob: 0.0001
-Token: ' Suppose' (ID: 82610), Prob: 0.0001
-Token: ' Get' (ID: 2126), Prob: 0.0001
-Token: ' Input' (ID: 5571), Prob: 0.0001
-Token: ' Ensure' (ID: 29279), Prob: 0.0001
-Token: ' Possible' (ID: 36107), Prob: 0.0001
-Token: ' Starts' (ID: 47728), Prob: 0.0001
-Token: ' Insert' (ID: 17101), Prob: 0.0001
-Token: ' Include' (ID: 29734), Prob: 0.0001
-Token: ' Avoid' (ID: 34006), Prob: 0.0001
-Token: ' Combine' (ID: 46812), Prob: 0.0001
-Token: ' Word' (ID: 9322), Prob: 0.0001
-Token: ' Got' (ID: 24528), Prob: 0.0001
-Token: ' Focus' (ID: 25806), Prob: 0.0001
-Token: ' Person' (ID: 7357), Prob: 0.0001
-Token: ' Task' (ID: 5430), Prob: 0.0001
-Token: ' Find' (ID: 7379), Prob: 0.0001
-Token: ' Started' (ID: 35812), Prob: 0.0001
-Token: ' Short' (ID: 10698), Prob: 0.0001
-Token: ' Sentence' (ID: 79542), Prob: 0.0001
-Token: ' Choose' (ID: 22201), Prob: 0.0000
-Token: ' Time' (ID: 4120), Prob: 0.0000
-Token: ' Two' (ID: 9043), Prob: 0.0000
-Token: ' Total' (ID: 10657), Prob: 0.0000
-Token: ' Mention' (ID: 85148), Prob: 0.0000
-Token: ' Main' (ID: 4697), Prob: 0.0000
-Token: ' Remove' (ID: 10783), Prob: 0.0000
-Token: 'Original' (ID: 18395), Prob: 0.0000
-Token: ' Compare' (ID: 23768), Prob: 0.0000
-Token: ' Something' (ID: 24656), Prob: 0.0000
-Token: ' Good' (ID: 7684), Prob: 0.0000
-Token: ' Split' (ID: 27810), Prob: 0.0000
-Token: ' Needs' (ID: 43140), Prob: 0.0000
+Token: 'auc' (ID: 20436), Prob: 1.0000
+Token: 'acr' (ID: 64748), Prob: 0.0000
+Token: 'ac' (ID: 580), Prob: 0.0000
+Token: 'acc' (ID: 4475), Prob: 0.0000
+Token: 'a' (ID: 64), Prob: 0.0000
+Token: 'actor' (ID: 5621), Prob: 0.0000
+Token: 'aux' (ID: 11981), Prob: 0.0000
+Token: 'au' (ID: 2863), Prob: 0.0000
+Token: 'o' (ID: 78), Prob: 0.0000
+Token: 'as' (ID: 300), Prob: 0.0000
+Token: 'an' (ID: 276), Prob: 0.0000
+Token: 'cr' (ID: 5082), Prob: 0.0000
+Token: 'aus' (ID: 11855), Prob: 0.0000
+Token: 'acl' (ID: 47736), Prob: 0.0000
+Token: 'll' (ID: 654), Prob: 0.0000
+Token: 'aur' (ID: 4110), Prob: 0.0000
+Token: 'alist' (ID: 53072), Prob: 0.0000
+Token: 'aca' (ID: 17106), Prob: 0.0000
+Token: 'ad' (ID: 329), Prob: 0.0000
+Token: 'audio' (ID: 16736), Prob: 0.0000
+Token: 'uc' (ID: 1754), Prob: 0.0000
+Token: 'ak' (ID: 585), Prob: 0.0000
+Token: 'aut' (ID: 2717), Prob: 0.0000
+Token: 'm' (ID: 76), Prob: 0.0000
+Token: ' and' (ID: 323), Prob: 0.0000
+Token: 'act' (ID: 531), Prob: 0.0000
+Token: 'ads' (ID: 7664), Prob: 0.0000
+Token: 'ako' (ID: 28786), Prob: 0.0000
+Token: 'aves' (ID: 4693), Prob: 0.0000
+Token: '-a' (ID: 7409), Prob: 0.0000
+Token: 'at' (ID: 266), Prob: 0.0000
+Token: 'aud' (ID: 7880), Prob: 0.0000
+Token: 'acco' (ID: 19500), Prob: 0.0000
+Token: 'e' (ID: 68), Prob: 0.0000
+Token: 't' (ID: 83), Prob: 0.0000
+Token: 'ap' (ID: 391), Prob: 0.0000
+Token: ' Act' (ID: 3218), Prob: 0.0000
+Token: 'ats' (ID: 1862), Prob: 0.0000
+Token: 'ao' (ID: 3441), Prob: 0.0000
+Token: 'l' (ID: 75), Prob: 0.0000
+Token: ' of' (ID: 315), Prob: 0.0000
+Token: 'actors' (ID: 21161), Prob: 0.0000
+Token: 'cast' (ID: 3829), Prob: 0.0000
+Token: 'aq' (ID: 36306), Prob: 0.0000
+Token: 'add' (ID: 718), Prob: 0.0000
+Token: 'c' (ID: 66), Prob: 0.0000
+Token: 'k' (ID: 74), Prob: 0.0000
+Token: 'acon' (ID: 22379), Prob: 0.0000
+Token: 'acad' (ID: 49857), Prob: 0.0000
+Token: 'lle' (ID: 65501), Prob: 0.0000
+Token: 'nd' (ID: 303), Prob: 0.0000
+Token: 'hole' (ID: 30420), Prob: 0.0000
+Token: 'b' (ID: 65), Prob: 0.0000
+Token: 'af' (ID: 2577), Prob: 0.0000
+Token: 'pdf' (ID: 11828), Prob: 0.0000
+Token: 'ncoder' (ID: 66943), Prob: 0.0000
+Token: 'se' (ID: 325), Prob: 0.0000
+Token: 'que' (ID: 591), Prob: 0.0000
+Token: 'ai' (ID: 2143), Prob: 0.0000
+Token: '-A' (ID: 6691), Prob: 0.0000
+Token: 'acos' (ID: 41647), Prob: 0.0000
+Token: 'ndon' (ID: 85352), Prob: 0.0000
+Token: 'A' (ID: 32), Prob: 0.0000
+Token: 'acs' (ID: 19252), Prob: 0.0000
+Token: 'av' (ID: 402), Prob: 0.0000
+Token: 'ason' (ID: 1497), Prob: 0.0000
+Token: 'ma' (ID: 1728), Prob: 0.0000
+Token: 'duc' (ID: 7545), Prob: 0.0000
+Token: ' acc' (ID: 1029), Prob: 0.0000
+Token: 'arc' (ID: 8198), Prob: 0.0000
+Token: 'ause' (ID: 3454), Prob: 0.0000
+Token: 'aub' (ID: 43506), Prob: 0.0000
+Token: 'chal' (ID: 85567), Prob: 0.0000
+Token: 'ach' (ID: 610), Prob: 0.0000
+Token: 'arch' (ID: 1113), Prob: 0.0000
+Token: ' actor' (ID: 12089), Prob: 0.0000
+Token: 'ver' (ID: 423), Prob: 0.0000
+Token: 'mvc' (ID: 94847), Prob: 0.0000
+Token: 'use' (ID: 810), Prob: 0.0000
 
 == Ranked Concepts (Clusters) ==
-Rank 1 | Centroid: ' Maybe' | Score: 0.0182
-  Tokens: [' Maybe', ' Probably', ' Possible', ' Something']
-Rank 2 | Centroid: ' Let' | Score: 0.0126
-  Tokens: [' Let', ' Since', ' Suppose']
-Rank 3 | Centroid: ' Start' | Score: 0.0122
-  Tokens: [' Start', ' Starting', ' Starts', ' Started']
-Rank 4 | Centroid: ' Okay' | Score: 0.0076
-  Tokens: [' Hmm', ' Alright', ' Okay', ' Well']
-Rank 5 | Centroid: ' Original' | Score: 0.0066
-  Tokens: [' Original', 'Original']
-Rank 6 | Centroid: ' Wait' | Score: 0.0037
-  Tokens: [' Wait']
-Rank 7 | Centroid: ' Make' | Score: 0.0034
-  Tokens: [' Make', ' Keep', ' Take', ' Check', ' Get', ' Find', ' Choose']
-Rank 8 | Centroid: ' Also' | Score: 0.0019
-  Tokens: [' Also']
-Rank 9 | Centroid: ' Story' | Score: 0.0008
-  Tokens: [' Story', ' Sentence']
-Rank 10 | Centroid: ' User' | Score: 0.0008
-  Tokens: [' User', ' Input', ' Insert', ' Person']
-Rank 11 | Centroid: ' Two' | Score: 0.0004
-  Tokens: [' First', ' Short', ' Two', ' Total', ' Main']
-Rank 12 | Centroid: ' Ensure' | Score: 0.0004
-  Tokens: [' Use', ' Ensure', ' Include', ' Avoid', ' Remove']
-Rank 13 | Centroid: ' Combine' | Score: 0.0003
-  Tokens: [' Think', ' Combine', ' Compare', ' Split']
-Rank 14 | Centroid: ' Time' | Score: 0.0003
-  Tokens: [' Title', ' Focus', ' Task', ' Time']
-Rank 15 | Centroid: ' Need' | Score: 0.0002
-  Tokens: [' Need', ' Needs']
-Rank 16 | Centroid: ' Words' | Score: 0.0002
-  Tokens: [' Words', ' Word']
-Rank 17 | Centroid: ' Got' | Score: 0.0001
-  Tokens: [' Got', ' Good']
-Rank 18 | Centroid: ' Mention' | Score: 0.0000
-  Tokens: [' Mention']
+Rank 1 | Centroid: 'audio' | Score: 1.0000
+  Tokens: ['auc', 'audio', 'aub']
+Rank 2 | Centroid: 'ac' | Score: 0.0001
+  Tokens: ['acr', 'ac', 'acc', 'aca', 'acad', 'acs', ' acc']
+Rank 3 | Centroid: ' and' | Score: 0.0000
+  Tokens: ['a', 'o', 'm', ' and', 'e', 't', 'l', ' of', 'c', 'k', 'b', 'A']
+Rank 4 | Centroid: 'au' | Score: 0.0000
+  Tokens: ['aux', 'au', 'aus', 'aur', 'aut', 'aud', 'ause']
+Rank 5 | Centroid: 'actor' | Score: 0.0000
+  Tokens: ['actor', 'act', ' Act', 'actors', ' actor']
+Rank 6 | Centroid: 'at' | Score: 0.0000
+  Tokens: ['as', 'an', 'ad', 'at', 'ap']
+Rank 7 | Centroid: 'acl' | Score: 0.0000
+  Tokens: ['acl', 'alist', 'aq', 'acon']
+Rank 8 | Centroid: 'cr' | Score: 0.0000
+  Tokens: ['cr', 'uc']
+Rank 9 | Centroid: 'll' | Score: 0.0000
+  Tokens: ['ll', 'lle', 'nd', 'ma']
+Rank 10 | Centroid: '-a' | Score: 0.0000
+  Tokens: ['-a', 'ao', 'af', 'ai', '-A', 'av']
+Rank 11 | Centroid: 'acos' | Score: 0.0000
+  Tokens: ['ako', 'acco', 'acos']
+Rank 12 | Centroid: 'ads' | Score: 0.0000
+  Tokens: ['ads', 'ats']
+Rank 13 | Centroid: 'ak' | Score: 0.0000
+  Tokens: ['ak', 'ach']
+Rank 14 | Centroid: 'ason' | Score: 0.0000
+  Tokens: ['cast', 'hole', 'ason']
+Rank 15 | Centroid: 'aves' | Score: 0.0000
+  Tokens: ['aves']
+Rank 16 | Centroid: 'add' | Score: 0.0000
+  Tokens: ['add', 'use']
+Rank 17 | Centroid: 'pdf' | Score: 0.0000
+  Tokens: ['pdf', 'duc', 'mvc']
+Rank 18 | Centroid: 'ncoder' | Score: 0.0000
+  Tokens: ['ncoder', 'ndon']
+Rank 19 | Centroid: 'que' | Score: 0.0000
+  Tokens: ['que', 'chal']
+Rank 20 | Centroid: 'se' | Score: 0.0000
+  Tokens: ['se', 'ver']
+Rank 21 | Centroid: 'arc' | Score: 0.0000
+  Tokens: ['arc', 'arch']
 
 **Chosen Concept:** Rank 1
