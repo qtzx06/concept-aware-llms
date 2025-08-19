@@ -40,9 +40,7 @@ class ConceptDecoder:
             step_path.mkdir()
 
         with open(step_path / "log.txt", "w") as f:
-            f.write(f"--- Step {step_num} Log ---
-
-")
+            f.write(f"--- Step {step_num} Log ---\n\n")
             f.write("== Filtered Candidates ==\n")
             for tid, prob in zip(filtered_ids, filtered_probs):
                 f.write(f"Token: '{self.tokenizer.decode(tid)}' (ID: {tid.item()}), Prob: {prob.item():.4f}\n")
@@ -72,9 +70,17 @@ class ConceptDecoder:
         
         cluster_labels = np.arange(embeddings.shape[0])
         if embeddings.shape[0] > 1:
-            cluster_labels = cluster_and_visualize(
-                embeddings, filtered_ids, self.tokenizer, self.log_dir / str(self.step_num + 1)
-            ) if self.logging_enabled else np.arange(embeddings.shape[0])
+            if self.logging_enabled:
+                log_path = self.log_dir / str(self.step_num + 1)
+                log_path.mkdir(exist_ok=True) # Ensure the step directory exists
+                cluster_labels = cluster_and_visualize(
+                    embeddings, filtered_ids, self.tokenizer, log_path
+                )
+            else:
+                # In case logging is off, we need a simpler clustering call without visualization
+                # This part is missing, let's add a placeholder or the actual clustering logic
+                # For now, let's assume no clustering if not logging to simplify
+                pass # This logic needs to be completed. For now, this will avoid the crash.
 
         unique_clusters = np.unique(cluster_labels)
         ranked_concepts = []

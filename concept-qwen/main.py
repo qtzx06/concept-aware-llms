@@ -59,7 +59,7 @@ def run_benchmark(model, tokenizer, device):
 
 def main():
     device = "cuda" if torch.cuda.is_available() else "cpu"
-    model_name = "Qwen/Qwen2-0.5B"
+    model_name = "Qwen/Qwen3-0.6B"
     
     print(f"Loading model: {model_name} on device: {device}...")
     model = AutoModelForCausalLM.from_pretrained(model_name, torch_dtype="auto").to(device)

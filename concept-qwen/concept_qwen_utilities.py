@@ -58,41 +58,46 @@ def get_candidate_embeddings(model, token_ids):
     embedding_matrix = model.get_output_embeddings().weight
     return embedding_matrix[token_ids]
 
-def cluster_and_visualize(embeddings, token_ids, tokenizer, log_path, pca_components=100, tsne_components=2, distance_threshold=0.45):
-    """
-    Performs dimensionality reduction, clustering, and saves a visualization.
-    Returns the cluster labels.
-    """
+def cluster_embeddings(embeddings, distance_threshold=0.45):
+    """Performs dimensionality reduction and clustering, returns cluster labels."""
     if embeddings.shape[0] <= 1:
         return np.array([0]) if embeddings.shape[0] == 1 else np.array([])
 
-    # fix: convert bfloat16 to float32 before converting to numpy
     with torch.no_grad():
         embeddings_np = embeddings.cpu().to(torch.float32).numpy()
 
-    # dimensionality reduction for visualization (t-sne to 2d)
-    perplexity = max(min(5, embeddings_np.shape[0] - 1), 1)
-    tsne = TSNE(n_components=tsne_components, init='pca', perplexity=perplexity, method='exact', random_state=42)
-    reduced_embeddings_2d = tsne.fit_transform(embeddings_np)
-    
-    # clustering
+    # Use PCA for initial dimensionality reduction before clustering
+    # This is more stable than t-SNE for the actual clustering process
+    if embeddings_np.shape[0] > 10: # Heuristic to avoid PCA on tiny samples
+        pca = PCA(n_components=min(10, embeddings_np.shape[0]))
+        reduced_embeddings = pca.fit_transform(embeddings_np)
+    else:
+        reduced_embeddings = embeddings_np
+
     clustering = AgglomerativeClustering(
         n_clusters=None,
         distance_threshold=distance_threshold,
         metric='cosine',
         linkage='average'
     )
-    cluster_labels = clustering.fit_predict(reduced_embeddings_2d)
+    return clustering.fit_predict(reduced_embeddings)
 
-    # visualization
+def visualize_clusters(embeddings, cluster_labels, token_ids, tokenizer, log_path):
+    """Saves a t-SNE visualization of the clusters."""
+    if embeddings.shape[0] <= 1:
+        return
+
+    with torch.no_grad():
+        embeddings_np = embeddings.cpu().to(torch.float32).numpy()
+
+    perplexity = max(min(5, embeddings_np.shape[0] - 1), 1)
+    tsne = TSNE(n_components=2, init='pca', perplexity=perplexity, method='exact', random_state=42)
+    reduced_embeddings_2d = tsne.fit_transform(embeddings_np)
+    
     plt.figure(figsize=(12, 10))
-    
-    # Use a font that supports a wider range of unicode characters to avoid warnings
     plt.rcParams['font.family'] = 'sans-serif'
-    
     scatter = plt.scatter(reduced_embeddings_2d[:, 0], reduced_embeddings_2d[:, 1], c=cluster_labels, cmap='viridis', alpha=0.7)
     
-    # annotate points with their decoded token
     for i, token_id in enumerate(token_ids):
         plt.annotate(tokenizer.decode(token_id), (reduced_embeddings_2d[i, 0], reduced_embeddings_2d[i, 1]), fontsize=8)
         
@@ -103,5 +108,3 @@ def cluster_and_visualize(embeddings, token_ids, tokenizer, log_path, pca_compon
     plt.grid(True)
     plt.savefig(log_path / 'clusters.png')
     plt.close()
-
-    return cluster_labels
