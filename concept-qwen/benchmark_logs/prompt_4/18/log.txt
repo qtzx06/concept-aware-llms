@@ -1,76 +1,154 @@
 --- Step 18 Log ---
 
 == Filtered Candidates ==
-Token: ' message' (ID: 1943), Prob: 0.0378
-Token: ' exactly' (ID: 6896), Prob: 0.0021
-Token: ' list' (ID: 1140), Prob: 0.0014
-Token: ' messages' (ID: 6605), Prob: 0.0013
-Token: ' prompt' (ID: 9934), Prob: 0.0013
+Token: ' given' (ID: 2661), Prob: 0.9766
+Token: ' provided' (ID: 3897), Prob: 0.0179
 Token: ' statement' (ID: 5114), Prob: 0.0011
-Token: ' text' (ID: 1467), Prob: 0.0010
-Token: ' question' (ID: 3405), Prob: 0.0009
-Token: ' including' (ID: 2670), Prob: 0.0008
-Token: ' description' (ID: 4008), Prob: 0.0007
-Token: ' wording' (ID: 60227), Prob: 0.0007
-Token: ' response' (ID: 2033), Prob: 0.0006
-Token: ' phrase' (ID: 17133), Prob: 0.0006
-Token: ' like' (ID: 1075), Prob: 0.0005
-Token: ' item' (ID: 1509), Prob: 0.0005
-Token: ' box' (ID: 3745), Prob: 0.0005
-Token: ' items' (ID: 3589), Prob: 0.0004
-Token: ' answer' (ID: 4226), Prob: 0.0004
-Token: ' without' (ID: 2041), Prob: 0.0004
-Token: ' words' (ID: 4244), Prob: 0.0004
-Token: ' given' (ID: 2661), Prob: 0.0003
-Token: ' sentence' (ID: 11652), Prob: 0.0003
-Token: ' title' (ID: 2265), Prob: 0.0003
-Token: ' within' (ID: 2878), Prob: 0.0003
-Token: ' word' (ID: 3409), Prob: 0.0003
-Token: ' except' (ID: 3650), Prob: 0.0003
-Token: ' paragraph' (ID: 14311), Prob: 0.0003
-Token: ' include' (ID: 2924), Prob: 0.0003
-Token: ' example' (ID: 3110), Prob: 0.0003
-Token: ' please' (ID: 4486), Prob: 0.0003
-Token: ' tag' (ID: 4772), Prob: 0.0003
-Token: ' information' (ID: 1995), Prob: 0.0002
-Token: ' using' (ID: 1667), Prob: 0.0002
-Token: ' block' (ID: 2504), Prob: 0.0002
-Token: ' directly' (ID: 5961), Prob: 0.0002
+Token: ' brief' (ID: 9814), Prob: 0.0009
+Token: ' original' (ID: 4024), Prob: 0.0005
+Token: ' initial' (ID: 2856), Prob: 0.0004
+Token: ' prompt' (ID: 9934), Prob: 0.0004
+Token: ' user' (ID: 1196), Prob: 0.0003
+Token: ' information' (ID: 1995), Prob: 0.0001
+Token: ' input' (ID: 1946), Prob: 0.0001
+Token: ' instruction' (ID: 7600), Prob: 0.0000
+Token: ' quote' (ID: 12641), Prob: 0.0000
+Token: ' story' (ID: 3364), Prob: 0.0000
+Token: ' summary' (ID: 12126), Prob: 0.0000
+Token: ' outline' (ID: 21101), Prob: 0.0000
+Token: ' query' (ID: 3239), Prob: 0.0000
+Token: ' starter' (ID: 26697), Prob: 0.0000
+Token: ' key' (ID: 1376), Prob: 0.0000
+Token: ' info' (ID: 3546), Prob: 0.0000
+Token: ' premise' (ID: 40202), Prob: 0.0000
+Token: ' main' (ID: 1887), Prob: 0.0000
+Token: ' description' (ID: 4008), Prob: 0.0000
+Token: ' opening' (ID: 8568), Prob: 0.0000
+Token: ' instructions' (ID: 11221), Prob: 0.0000
+Token: ' short' (ID: 2805), Prob: 0.0000
+Token: ' idea' (ID: 4522), Prob: 0.0000
+Token: ' briefing' (ID: 42536), Prob: 0.0000
+Token: ' start' (ID: 1191), Prob: 0.0000
+Token: ' introduction' (ID: 16800), Prob: 0.0000
+Token: ' starting' (ID: 5916), Prob: 0.0000
+Token: ' basic' (ID: 6770), Prob: 0.0000
+Token: ' details' (ID: 3565), Prob: 0.0000
+Token: ' passage' (ID: 21085), Prob: 0.0000
+Token: ' guest' (ID: 8640), Prob: 0.0000
+Token: ' student' (ID: 5458), Prob: 0.0000
+Token: 'given' (ID: 41968), Prob: 0.0000
+Token: ' gist' (ID: 90500), Prob: 0.0000
+Token: ' background' (ID: 4004), Prob: 0.0000
+Token: ' visitor' (ID: 20181), Prob: 0.0000
+Token: ' person' (ID: 1697), Prob: 0.0000
+Token: ' quick' (ID: 3974), Prob: 0.0000
+Token: ' mention' (ID: 6286), Prob: 0.0000
+Token: ' theme' (ID: 6912), Prob: 0.0000
+Token: ' give' (ID: 2968), Prob: 0.0000
+Token: ' example' (ID: 3110), Prob: 0.0000
+Token: ' beginning' (ID: 7167), Prob: 0.0000
+Token: ' detail' (ID: 7716), Prob: 0.0000
+Token: ' sentence' (ID: 11652), Prob: 0.0000
+Token: ' paragraph' (ID: 14311), Prob: 0.0000
+Token: ' phrase' (ID: 17133), Prob: 0.0000
+Token: ' event' (ID: 1538), Prob: 0.0000
+Token: ' bullet' (ID: 17432), Prob: 0.0000
+Token: ' introductory' (ID: 61369), Prob: 0.0000
+Token: ' message' (ID: 1943), Prob: 0.0000
+Token: ' title' (ID: 2265), Prob: 0.0000
+Token: ' existing' (ID: 6350), Prob: 0.0000
+Token: ' mentioned' (ID: 9733), Prob: 0.0000
+Token: ' new' (ID: 501), Prob: 0.0000
+Token: ' scene' (ID: 6109), Prob: 0.0000
+Token: ' bold' (ID: 13939), Prob: 0.0000
+Token: ' intro' (ID: 19706), Prob: 0.0000
+Token: ' first' (ID: 1156), Prob: 0.0000
+Token: ' text' (ID: 1467), Prob: 0.0000
+Token: ' sample' (ID: 6077), Prob: 0.0000
+Token: ' excerpt' (ID: 49465), Prob: 0.0000
+Token: ' presented' (ID: 10449), Prob: 0.0000
+Token: ' detailed' (ID: 11682), Prob: 0.0000
+Token: ' invitation' (ID: 28688), Prob: 0.0000
+Token: ' snippet' (ID: 43065), Prob: 0.0000
+Token: ' topic' (ID: 8544), Prob: 0.0000
+Token: ' Given' (ID: 16246), Prob: 0.0000
+Token: ' announcement' (ID: 17043), Prob: 0.0000
+Token: ' simple' (ID: 4285), Prob: 0.0000
+Token: ' birth' (ID: 7194), Prob: 0.0000
+Token: ' content' (ID: 2213), Prob: 0.0000
+Token: ' specified' (ID: 5189), Prob: 0.0000
+Token: ' source' (ID: 2530), Prob: 0.0000
+Token: ' bird' (ID: 11958), Prob: 0.0000
+Token: ' subject' (ID: 3832), Prob: 0.0000
+Token: ' keyword' (ID: 16174), Prob: 0.0000
+Token: ' stem' (ID: 19101), Prob: 0.0000
+Token: ' business' (ID: 2562), Prob: 0.0000
+Token: ' study' (ID: 3920), Prob: 0.0000
+Token: ' script' (ID: 5316), Prob: 0.0000
+Token: ' stated' (ID: 10982), Prob: 0.0000
+Token: ' clue' (ID: 29989), Prob: 0.0000
+Token: ' base' (ID: 2331), Prob: 0.0000
+Token: ' extended' (ID: 11577), Prob: 0.0000
+Token: ' fact' (ID: 2097), Prob: 0.0000
+Token: ' giving' (ID: 7086), Prob: 0.0000
+Token: ' hint' (ID: 13012), Prob: 0.0000
+Token: ' invention' (ID: 27130), Prob: 0.0000
+Token: ' task' (ID: 3383), Prob: 0.0000
+Token: ' company' (ID: 2813), Prob: 0.0000
+Token: ' statements' (ID: 12239), Prob: 0.0000
+Token: ' list' (ID: 1140), Prob: 0.0000
+Token: ' previous' (ID: 3681), Prob: 0.0000
 
 == Ranked Concepts (Clusters) ==
-Rank 1 | Centroid: ' messages' | Score: 0.0393
-  Tokens: [' message', ' messages', ' information']
-Rank 2 | Centroid: ' phrase' | Score: 0.0031
-  Tokens: [' statement', ' wording', ' phrase', ' sentence', ' paragraph']
-Rank 3 | Centroid: ' exactly' | Score: 0.0023
-  Tokens: [' exactly', ' directly']
-Rank 4 | Centroid: ' answer' | Score: 0.0019
-  Tokens: [' question', ' response', ' answer']
-Rank 5 | Centroid: ' list' | Score: 0.0014
-  Tokens: [' list']
-Rank 6 | Centroid: ' text' | Score: 0.0013
-  Tokens: [' text', ' title']
-Rank 7 | Centroid: ' prompt' | Score: 0.0013
-  Tokens: [' prompt']
-Rank 8 | Centroid: ' without' | Score: 0.0013
-  Tokens: [' without', ' given', ' within', ' using']
-Rank 9 | Centroid: ' including' | Score: 0.0011
-  Tokens: [' including', ' include']
-Rank 10 | Centroid: ' item' | Score: 0.0010
-  Tokens: [' item', ' items']
-Rank 11 | Centroid: ' box' | Score: 0.0007
-  Tokens: [' box', ' block']
-Rank 12 | Centroid: ' words' | Score: 0.0007
-  Tokens: [' words', ' word']
-Rank 13 | Centroid: ' description' | Score: 0.0007
-  Tokens: [' description']
-Rank 14 | Centroid: ' except' | Score: 0.0006
-  Tokens: [' except', ' please']
-Rank 15 | Centroid: ' like' | Score: 0.0005
-  Tokens: [' like']
-Rank 16 | Centroid: ' example' | Score: 0.0003
-  Tokens: [' example']
-Rank 17 | Centroid: ' tag' | Score: 0.0003
-  Tokens: [' tag']
+Rank 1 | Centroid: ' given' | Score: 0.9766
+  Tokens: [' given', 'given', ' give', ' Given', ' giving']
+Rank 2 | Centroid: ' mentioned' | Score: 0.0179
+  Tokens: [' provided', ' mention', ' mentioned', ' presented', ' specified', ' stated']
+Rank 3 | Centroid: ' statement' | Score: 0.0012
+  Tokens: [' statement', ' quote', ' sentence', ' paragraph', ' phrase', ' statements']
+Rank 4 | Centroid: ' brief' | Score: 0.0009
+  Tokens: [' brief', ' short', ' basic', ' quick', ' bold', ' simple', ' extended']
+Rank 5 | Centroid: ' initial' | Score: 0.0009
+  Tokens: [' original', ' initial', ' main', ' existing', ' new', ' first', ' previous']
+Rank 6 | Centroid: ' hint' | Score: 0.0004
+  Tokens: [' prompt', ' premise', ' idea', ' gist', ' theme', ' clue', ' hint']
+Rank 7 | Centroid: ' user' | Score: 0.0003
+  Tokens: [' user', ' guest', ' student', ' visitor', ' person', ' bird', ' business', ' company']
+Rank 8 | Centroid: ' information' | Score: 0.0001
+  Tokens: [' information', ' instruction', ' info', ' instructions']
+Rank 9 | Centroid: ' input' | Score: 0.0001
+  Tokens: [' input']
+Rank 10 | Centroid: ' summary' | Score: 0.0000
+  Tokens: [' summary', ' outline', ' description']
+Rank 11 | Centroid: ' starting' | Score: 0.0000
+  Tokens: [' starter', ' opening', ' start', ' starting', ' beginning', ' birth']
+Rank 12 | Centroid: ' scene' | Score: 0.0000
+  Tokens: [' story', ' scene', ' script']
+Rank 13 | Centroid: ' keyword' | Score: 0.0000
+  Tokens: [' query', ' message', ' keyword']
+Rank 14 | Centroid: ' key' | Score: 0.0000
+  Tokens: [' key', ' base', ' list']
+Rank 15 | Centroid: ' excerpt' | Score: 0.0000
+  Tokens: [' briefing', ' passage', ' excerpt', ' snippet']
+Rank 16 | Centroid: ' introduction' | Score: 0.0000
+  Tokens: [' introduction', ' introductory', ' intro']
+Rank 17 | Centroid: ' details' | Score: 0.0000
+  Tokens: [' details', ' detail', ' detailed']
+Rank 18 | Centroid: ' sample' | Score: 0.0000
+  Tokens: [' example', ' sample', ' study']
+Rank 19 | Centroid: ' topic' | Score: 0.0000
+  Tokens: [' title', ' topic', ' subject']
+Rank 20 | Centroid: ' event' | Score: 0.0000
+  Tokens: [' event', ' source', ' task']
+Rank 21 | Centroid: ' background' | Score: 0.0000
+  Tokens: [' background']
+Rank 22 | Centroid: ' text' | Score: 0.0000
+  Tokens: [' text', ' content', ' fact']
+Rank 23 | Centroid: ' announcement' | Score: 0.0000
+  Tokens: [' invitation', ' announcement', ' invention']
+Rank 24 | Centroid: ' bullet' | Score: 0.0000
+  Tokens: [' bullet']
+Rank 25 | Centroid: ' stem' | Score: 0.0000
+  Tokens: [' stem']
 
 **Chosen Concept:** Rank 1

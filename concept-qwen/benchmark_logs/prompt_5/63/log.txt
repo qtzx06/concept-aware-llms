@@ -1,72 +1,93 @@
 --- Step 63 Log ---
 
 == Filtered Candidates ==
-Token: ' could' (ID: 1410), Prob: 1.0000
-Token: ' Could' (ID: 16503), Prob: 0.0001
-Token: ' vary' (ID: 13289), Prob: 0.0000
-Token: ' may' (ID: 1231), Prob: 0.0000
+Token: ' could' (ID: 1410), Prob: 0.8008
+Token: ' might' (ID: 2578), Prob: 0.0188
+Token: ' arises' (ID: 47182), Prob: 0.0079
+Token: ' would' (ID: 1035), Prob: 0.0061
+Token: ' comes' (ID: 4041), Prob: 0.0016
+Token: ' involves' (ID: 17601), Prob: 0.0015
+Token: ' seems' (ID: 4977), Prob: 0.0007
+Token: ' probably' (ID: 4658), Prob: 0.0004
+Token: ' perhaps' (ID: 8365), Prob: 0.0003
+Token: ' like' (ID: 1075), Prob: 0.0003
+Token: ' related' (ID: 5435), Prob: 0.0003
+Token: ' likely' (ID: 4363), Prob: 0.0002
+Token: ' needs' (ID: 3880), Prob: 0.0002
+Token: ' maybe' (ID: 7196), Prob: 0.0001
+Token: ' may' (ID: 1231), Prob: 0.0001
+Token: ' around' (ID: 2163), Prob: 0.0001
+Token: ' must' (ID: 1969), Prob: 0.0001
+Token: ' involving' (ID: 15860), Prob: 0.0001
+Token: ' involved' (ID: 6398), Prob: 0.0001
+Token: ' occurs' (ID: 13666), Prob: 0.0000
+Token: ' part' (ID: 949), Prob: 0.0000
+Token: '-related' (ID: 13904), Prob: 0.0000
+Token: ' within' (ID: 2878), Prob: 0.0000
+Token: ' inside' (ID: 4766), Prob: 0.0000
+Token: ' element' (ID: 2392), Prob: 0.0000
+Token: ' happens' (ID: 8573), Prob: 0.0000
+Token: ' elements' (ID: 5424), Prob: 0.0000
+Token: ' sounds' (ID: 10362), Prob: 0.0000
+Token: ' appears' (ID: 7952), Prob: 0.0000
+Token: ' revolves' (ID: 78376), Prob: 0.0000
+Token: ' something' (ID: 2494), Prob: 0.0000
+Token: ' due' (ID: 4152), Prob: 0.0000
+Token: ' starts' (ID: 8471), Prob: 0.0000
+Token: ' feels' (ID: 11074), Prob: 0.0000
+Token: ' often' (ID: 3545), Prob: 0.0000
+Token: ' usually' (ID: 5990), Prob: 0.0000
+Token: ' suggests' (ID: 13230), Prob: 0.0000
+Token: ' surrounding' (ID: 14590), Prob: 0.0000
+Token: ' nearby' (ID: 14046), Prob: 0.0000
 Token: ' since' (ID: 2474), Prob: 0.0000
-Token: ' would' (ID: 1035), Prob: 0.0000
-Token: 'could' (ID: 28077), Prob: 0.0000
-Token: ' must' (ID: 1969), Prob: 0.0000
-Token: ' count' (ID: 1760), Prob: 0.0000
-Token: ' change' (ID: 2297), Prob: 0.0000
-Token: ' might' (ID: 2578), Prob: 0.0000
-Token: ' differ' (ID: 1745), Prob: 0.0000
-Token: 'Could' (ID: 12895), Prob: 0.0000
-Token: ' cannot' (ID: 4157), Prob: 0.0000
-Token: ' either' (ID: 2987), Prob: 0.0000
-Token: ' every' (ID: 1449), Prob: 0.0000
-Token: ' need' (ID: 1184), Prob: 0.0000
-Token: ' contain' (ID: 6644), Prob: 0.0000
-Token: ' possibly' (ID: 10767), Prob: 0.0000
-Token: ' couple' (ID: 5625), Prob: 0.0000
-Token: ' indicate' (ID: 13216), Prob: 0.0000
-Token: ' cell' (ID: 2779), Prob: 0.0000
-Token: ' based' (ID: 3118), Prob: 0.0000
-Token: ' depend' (ID: 6761), Prob: 0.0000
-Token: ' slightly' (ID: 10078), Prob: 0.0000
-Token: ' check' (ID: 1779), Prob: 0.0000
-Token: ' cancel' (ID: 9121), Prob: 0.0000
-Token: ' another' (ID: 2441), Prob: 0.0000
-Token: ' depending' (ID: 11649), Prob: 0.0000
-Token: ' according' (ID: 4092), Prob: 0.0000
-Token: ' carefully' (ID: 15516), Prob: 0.0000
-Token: ' Count' (ID: 4504), Prob: 0.0000
-Token: ' choose' (ID: 5157), Prob: 0.0000
-Token: ' say' (ID: 1977), Prob: 0.0000
-Token: ' concerning' (ID: 18310), Prob: 0.0000
-Token: ' maybe' (ID: 7196), Prob: 0.0000
-Token: ' varying' (ID: 28765), Prob: 0.0000
+Token: ' possible' (ID: 3204), Prob: 0.0000
+Token: ' points' (ID: 3501), Prob: 0.0000
+Token: ' includes' (ID: 5646), Prob: 0.0000
+Token: ' relates' (ID: 35616), Prob: 0.0000
+Token: ' introduces' (ID: 38919), Prob: 0.0000
+Token: ' options' (ID: 2606), Prob: 0.0000
+Token: ' angle' (ID: 9210), Prob: 0.0000
+Token: ' adds' (ID: 11367), Prob: 0.0000
+Token: ' right' (ID: 1290), Prob: 0.0000
+Token: ' surrounds' (ID: 70274), Prob: 0.0000
+Token: ' ideas' (ID: 6708), Prob: 0.0000
+Token: ' feelings' (ID: 15650), Prob: 0.0000
+Token: ' resolution' (ID: 10935), Prob: 0.0000
+Token: ' arise' (ID: 30789), Prob: 0.0000
 
 == Ranked Concepts (Clusters) ==
-Rank 1 | Centroid: ' could' | Score: 1.0000
-  Tokens: [' could', ' Could', ' would', 'could', 'Could']
-Rank 2 | Centroid: ' vary' | Score: 0.0000
-  Tokens: [' vary', ' differ', ' varying']
-Rank 3 | Centroid: ' maybe' | Score: 0.0000
-  Tokens: [' may', ' might', ' possibly', ' maybe']
-Rank 4 | Centroid: ' according' | Score: 0.0000
-  Tokens: [' since', ' based', ' according']
-Rank 5 | Centroid: ' must' | Score: 0.0000
-  Tokens: [' must', ' cannot', ' need']
-Rank 6 | Centroid: ' count' | Score: 0.0000
-  Tokens: [' count', ' Count']
-Rank 7 | Centroid: ' check' | Score: 0.0000
-  Tokens: [' change', ' check', ' cancel']
-Rank 8 | Centroid: ' either' | Score: 0.0000
-  Tokens: [' either']
-Rank 9 | Centroid: ' every' | Score: 0.0000
-  Tokens: [' every', ' another']
-Rank 10 | Centroid: ' couple' | Score: 0.0000
-  Tokens: [' couple', ' cell']
-Rank 11 | Centroid: ' contain' | Score: 0.0000
-  Tokens: [' contain']
-Rank 12 | Centroid: ' indicate' | Score: 0.0000
-  Tokens: [' indicate', ' choose', ' say']
-Rank 13 | Centroid: ' slightly' | Score: 0.0000
-  Tokens: [' slightly', ' carefully', ' concerning']
-Rank 14 | Centroid: ' depend' | Score: 0.0000
-  Tokens: [' depend', ' depending']
+Rank 1 | Centroid: ' might' | Score: 0.8242
+  Tokens: [' could', ' might', ' would', ' may', ' must']
+Rank 2 | Centroid: ' arises' | Score: 0.0096
+  Tokens: [' arises', ' comes', ' occurs', ' happens', ' arise']
+Rank 3 | Centroid: ' involves' | Score: 0.0017
+  Tokens: [' involves', ' involving', ' involved']
+Rank 4 | Centroid: ' perhaps' | Score: 0.0010
+  Tokens: [' probably', ' perhaps', ' likely', ' maybe', ' possible']
+Rank 5 | Centroid: ' seems' | Score: 0.0008
+  Tokens: [' seems', ' appears', ' starts', ' suggests', ' includes', ' introduces', ' adds']
+Rank 6 | Centroid: ' within' | Score: 0.0004
+  Tokens: [' like', ' within', ' inside', ' due', ' since', ' right']
+Rank 7 | Centroid: ' related' | Score: 0.0003
+  Tokens: [' related', '-related', ' relates']
+Rank 8 | Centroid: ' surrounding' | Score: 0.0002
+  Tokens: [' around', ' surrounding', ' nearby', ' surrounds']
+Rank 9 | Centroid: ' needs' | Score: 0.0002
+  Tokens: [' needs']
+Rank 10 | Centroid: ' feelings' | Score: 0.0001
+  Tokens: [' sounds', ' feels', ' options', ' ideas', ' feelings']
+Rank 11 | Centroid: ' element' | Score: 0.0001
+  Tokens: [' element', ' elements', ' angle']
+Rank 12 | Centroid: ' part' | Score: 0.0001
+  Tokens: [' part', ' points']
+Rank 13 | Centroid: ' often' | Score: 0.0000
+  Tokens: [' often', ' usually']
+Rank 14 | Centroid: ' revolves' | Score: 0.0000
+  Tokens: [' revolves']
+Rank 15 | Centroid: ' something' | Score: 0.0000
+  Tokens: [' something']
+Rank 16 | Centroid: ' resolution' | Score: 0.0000
+  Tokens: [' resolution']
 
 **Chosen Concept:** Rank 1

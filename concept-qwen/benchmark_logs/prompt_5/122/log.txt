@@ -1,83 +1,154 @@
 --- Step 122 Log ---
 
 == Filtered Candidates ==
-Token: ' points' (ID: 3501), Prob: 0.9961
-Token: ' could' (ID: 1410), Prob: 0.0003
-Token: ' Points' (ID: 20725), Prob: 0.0001
-Token: ' point' (ID: 1459), Prob: 0.0001
-Token: ' based' (ID: 3118), Prob: 0.0000
-Token: ' options' (ID: 2606), Prob: 0.0000
-Token: ' depends' (ID: 13798), Prob: 0.0000
-Token: ' choices' (ID: 11454), Prob: 0.0000
-Token: ' might' (ID: 2578), Prob: 0.0000
-Token: '(points' (ID: 32450), Prob: 0.0000
-Token: ' questions' (ID: 4755), Prob: 0.0000
-Token: ' may' (ID: 1231), Prob: 0.0000
-Token: ' would' (ID: 1035), Prob: 0.0000
-Token: ' four' (ID: 3040), Prob: 0.0000
-Token: ' according' (ID: 4092), Prob: 0.0000
-Token: ' please' (ID: 4486), Prob: 0.0000
-Token: ' must' (ID: 1969), Prob: 0.0000
-Token: 'points' (ID: 7706), Prob: 0.0000
-Token: 'Points' (ID: 11411), Prob: 0.0000
-Token: ' Point' (ID: 5126), Prob: 0.0000
-Token: ' puntos' (ID: 60889), Prob: 0.0000
-Token: '_points' (ID: 12928), Prob: 0.0000
-Token: ' seems' (ID: 4977), Prob: 0.0000
-Token: ' possible' (ID: 3204), Prob: 0.0000
-Token: ' needs' (ID: 3880), Prob: 0.0000
-Token: ' yes' (ID: 9834), Prob: 0.0000
-Token: ' whether' (ID: 3425), Prob: 0.0000
-Token: ' checks' (ID: 12341), Prob: 0.0000
-Token: ' instructions' (ID: 11221), Prob: 0.0000
-Token: ' errors' (ID: 5975), Prob: 0.0000
-Token: ' contains' (ID: 5610), Prob: 0.0000
-Token: ' sentences' (ID: 22870), Prob: 0.0000
-Token: ' ends' (ID: 10335), Prob: 0.0000
-Token: ' possibilities' (ID: 23607), Prob: 0.0000
-Token: ' makes' (ID: 3643), Prob: 0.0000
-Token: ' cannot' (ID: 4157), Prob: 0.0000
-Token: ' correct' (ID: 4396), Prob: 0.0000
-Token: ' pairs' (ID: 13530), Prob: 0.0000
-Token: '	points' (ID: 67499), Prob: 0.0000
-Token: ' key' (ID: 1376), Prob: 0.0000
-Token: ' cells' (ID: 7761), Prob: 0.0000
-Token: ' correctly' (ID: 12440), Prob: 0.0000
-Token: ' boxes' (ID: 14697), Prob: 0.0000
-Token: ' requires' (ID: 7460), Prob: 0.0000
-Token: ' parts' (ID: 5479), Prob: 0.0000
-Token: ' details' (ID: 3565), Prob: 0.0000
-Token: ' since' (ID: 2474), Prob: 0.0000
-Token: ' words' (ID: 4244), Prob: 0.0000
-Token: ' probably' (ID: 4658), Prob: 0.0000
-Token: ' examples' (ID: 10295), Prob: 0.0000
+Token: ' village' (ID: 14126), Prob: 0.6406
+Token: ' community' (ID: 3942), Prob: 0.2676
+Token: ' family' (ID: 2997), Prob: 0.0527
+Token: ' group' (ID: 1874), Prob: 0.0151
+Token: ' villagers' (ID: 60821), Prob: 0.0092
+Token: ' child' (ID: 1682), Prob: 0.0043
+Token: ' tower' (ID: 21271), Prob: 0.0016
+Token: ' children' (ID: 2841), Prob: 0.0012
+Token: ' town' (ID: 6290), Prob: 0.0012
+Token: ' household' (ID: 13732), Prob: 0.0009
+Token: ' elders' (ID: 60676), Prob: 0.0006
+Token: ' tribe' (ID: 33571), Prob: 0.0005
+Token: ' house' (ID: 3753), Prob: 0.0005
+Token: ' crowd' (ID: 13428), Prob: 0.0004
+Token: ' parents' (ID: 6562), Prob: 0.0004
+Token: ' society' (ID: 8232), Prob: 0.0003
+Token: ' elder' (ID: 22130), Prob: 0.0002
+Token: ' home' (ID: 2114), Prob: 0.0001
+Token: ' story' (ID: 3364), Prob: 0.0001
+Token: ' walls' (ID: 14285), Prob: 0.0001
+Token: ' clan' (ID: 38462), Prob: 0.0001
+Token: ' small' (ID: 2613), Prob: 0.0001
+Token: ' building' (ID: 4752), Prob: 0.0001
+Token: ' tradition' (ID: 13815), Prob: 0.0001
+Token: ' youth' (ID: 12537), Prob: 0.0000
+Token: ' setting' (ID: 6243), Prob: 0.0000
+Token: ' young' (ID: 3908), Prob: 0.0000
+Token: ' character' (ID: 3668), Prob: 0.0000
+Token: ' kids' (ID: 6837), Prob: 0.0000
+Token: ' tree' (ID: 4916), Prob: 0.0000
+Token: ' characters' (ID: 5766), Prob: 0.0000
+Token: ' traditions' (ID: 30906), Prob: 0.0000
+Token: ' grandmother' (ID: 38184), Prob: 0.0000
+Token: ' class' (ID: 536), Prob: 0.0000
+Token: ' school' (ID: 2906), Prob: 0.0000
+Token: ' parent' (ID: 2681), Prob: 0.0000
+Token: ' audience' (ID: 10650), Prob: 0.0000
+Token: ' traditional' (ID: 8606), Prob: 0.0000
+Token: ' teens' (ID: 26202), Prob: 0.0000
+Token: ' camp' (ID: 3113), Prob: 0.0000
+Token: ' circle' (ID: 12671), Prob: 0.0000
+Token: ' gathering' (ID: 22888), Prob: 0.0000
+Token: ' team' (ID: 2083), Prob: 0.0000
+Token: ' structure' (ID: 5944), Prob: 0.0000
+Token: ' younger' (ID: 14650), Prob: 0.0000
+Token: ' culture' (ID: 7674), Prob: 0.0000
+Token: ' siblings' (ID: 36683), Prob: 0.0000
+Token: ' tight' (ID: 10296), Prob: 0.0000
+Token: ' villages' (ID: 32789), Prob: 0.0000
+Token: ' toddler' (ID: 51235), Prob: 0.0000
+Token: ' teen' (ID: 9378), Prob: 0.0000
+Token: ' world' (ID: 1879), Prob: 0.0000
+Token: ' couple' (ID: 5625), Prob: 0.0000
+Token: ' forest' (ID: 13638), Prob: 0.0000
+Token: ' woods' (ID: 32533), Prob: 0.0000
+Token: ' rules' (ID: 5601), Prob: 0.0000
+Token: ' mother' (ID: 6554), Prob: 0.0000
+Token: ' vill' (ID: 8901), Prob: 0.0000
+Token: ' council' (ID: 14833), Prob: 0.0000
+Token: ' conflict' (ID: 12055), Prob: 0.0000
+Token: ' childhood' (ID: 19990), Prob: 0.0000
+Token: ' elderly' (ID: 28820), Prob: 0.0000
+Token: ' company' (ID: 2813), Prob: 0.0000
+Token: ' committee' (ID: 12801), Prob: 0.0000
+Token: ' assembly' (ID: 14614), Prob: 0.0000
+Token: ' girl' (ID: 3743), Prob: 0.0000
+Token: ' block' (ID: 2504), Prob: 0.0000
+Token: ' constraints' (ID: 16982), Prob: 0.0000
+Token: ' grandparents' (ID: 55335), Prob: 0.0000
+Token: ' local' (ID: 2205), Prob: 0.0000
+Token: ' age' (ID: 4231), Prob: 0.0000
+Token: ' decision' (ID: 5480), Prob: 0.0000
+Token: ' families' (ID: 8521), Prob: 0.0000
+Token: ' congregation' (ID: 58535), Prob: 0.0000
+Token: ' environment' (ID: 4573), Prob: 0.0000
+Token: ' wood' (ID: 7579), Prob: 0.0000
+Token: ' boy' (ID: 8171), Prob: 0.0000
+Token: ' neighborhood' (ID: 12534), Prob: 0.0000
+Token: ' hall' (ID: 13994), Prob: 0.0000
+Token: ' main' (ID: 1887), Prob: 0.0000
+Token: ' city' (ID: 3283), Prob: 0.0000
+Token: ' social' (ID: 3590), Prob: 0.0000
+Token: ' room' (ID: 3054), Prob: 0.0000
+Token: ' friends' (ID: 4780), Prob: 0.0000
+Token: ' toy' (ID: 21357), Prob: 0.0000
+Token: ' pride' (ID: 21770), Prob: 0.0000
+Token: ' shelter' (ID: 22906), Prob: 0.0000
+Token: ' teenager' (ID: 31539), Prob: 0.0000
+Token: ' day' (ID: 1899), Prob: 0.0000
+Token: ' settlement' (ID: 17079), Prob: 0.0000
+Token: ' peace' (ID: 8919), Prob: 0.0000
+Token: ' people' (ID: 1251), Prob: 0.0000
+Token: ' doll' (ID: 7649), Prob: 0.0000
+Token: ' cultural' (ID: 12752), Prob: 0.0000
+Token: ' immediate' (ID: 13922), Prob: 0.0000
+Token: ' hierarchy' (ID: 28922), Prob: 0.0000
+Token: ' castle' (ID: 32584), Prob: 0.0000
 
 == Ranked Concepts (Clusters) ==
-Rank 1 | Centroid: ' points' | Score: 0.9961
-  Tokens: [' points', ' Points', ' point', '(points', 'points', 'Points', ' Point', ' puntos', '_points', '\tpoints']
-Rank 2 | Centroid: ' may' | Score: 0.0003
-  Tokens: [' could', ' might', ' may', ' would', ' must', ' cannot']
-Rank 3 | Centroid: ' according' | Score: 0.0000
-  Tokens: [' based', ' according', ' since']
-Rank 4 | Centroid: ' options' | Score: 0.0000
-  Tokens: [' options', ' choices']
-Rank 5 | Centroid: ' requires' | Score: 0.0000
-  Tokens: [' depends', ' seems', ' needs', ' contains', ' makes', ' requires']
-Rank 6 | Centroid: ' sentences' | Score: 0.0000
-  Tokens: [' questions', ' instructions', ' sentences', ' details', ' words', ' examples']
-Rank 7 | Centroid: ' whether' | Score: 0.0000
-  Tokens: [' yes', ' whether', ' checks']
-Rank 8 | Centroid: ' four' | Score: 0.0000
-  Tokens: [' four', ' key']
-Rank 9 | Centroid: ' please' | Score: 0.0000
-  Tokens: [' please']
-Rank 10 | Centroid: ' possible' | Score: 0.0000
-  Tokens: [' possible', ' possibilities', ' probably']
-Rank 11 | Centroid: ' boxes' | Score: 0.0000
-  Tokens: [' pairs', ' cells', ' boxes', ' parts']
-Rank 12 | Centroid: ' correct' | Score: 0.0000
-  Tokens: [' errors', ' correct', ' correctly']
-Rank 13 | Centroid: ' ends' | Score: 0.0000
-  Tokens: [' ends']
+Rank 1 | Centroid: ' villages' | Score: 0.6484
+  Tokens: [' village', ' villagers', ' villages', ' vill']
+Rank 2 | Centroid: ' clan' | Score: 0.2676
+  Tokens: [' community', ' tribe', ' clan']
+Rank 3 | Centroid: ' family' | Score: 0.0527
+  Tokens: [' family', ' siblings', ' families', ' friends']
+Rank 4 | Centroid: ' group' | Score: 0.0151
+  Tokens: [' group', ' circle', ' team', ' couple', ' company']
+Rank 5 | Centroid: ' kids' | Score: 0.0057
+  Tokens: [' child', ' children', ' kids', ' teens', ' toddler', ' teen', ' childhood', ' teenager']
+Rank 6 | Centroid: ' tower' | Score: 0.0016
+  Tokens: [' tower', ' castle']
+Rank 7 | Centroid: ' house' | Score: 0.0015
+  Tokens: [' household', ' house', ' home', ' room']
+Rank 8 | Centroid: ' town' | Score: 0.0013
+  Tokens: [' town', ' school', ' camp', ' city']
+Rank 9 | Centroid: ' elderly' | Score: 0.0009
+  Tokens: [' elders', ' elder', ' youth', ' young', ' younger', ' elderly', ' age']
+Rank 10 | Centroid: ' committee' | Score: 0.0005
+  Tokens: [' crowd', ' audience', ' gathering', ' council', ' committee', ' assembly', ' congregation']
+Rank 11 | Centroid: ' parents' | Score: 0.0004
+  Tokens: [' parents', ' grandmother', ' parent', ' mother', ' grandparents']
+Rank 12 | Centroid: ' cultural' | Score: 0.0003
+  Tokens: [' society', ' culture', ' social', ' pride', ' cultural']
+Rank 13 | Centroid: ' setting' | Score: 0.0002
+  Tokens: [' story', ' building', ' setting']
+Rank 14 | Centroid: ' tradition' | Score: 0.0001
+  Tokens: [' tradition', ' traditions', ' traditional']
+Rank 15 | Centroid: ' small' | Score: 0.0001
+  Tokens: [' small', ' class', ' local']
+Rank 16 | Centroid: ' shelter' | Score: 0.0001
+  Tokens: [' walls', ' hall', ' shelter', ' settlement']
+Rank 17 | Centroid: ' characters' | Score: 0.0001
+  Tokens: [' character', ' characters', ' people']
+Rank 18 | Centroid: ' forest' | Score: 0.0001
+  Tokens: [' tree', ' forest', ' woods', ' wood']
+Rank 19 | Centroid: ' conflict' | Score: 0.0000
+  Tokens: [' rules', ' conflict', ' block', ' decision', ' main', ' peace']
+Rank 20 | Centroid: ' hierarchy' | Score: 0.0000
+  Tokens: [' structure', ' constraints', ' environment', ' hierarchy']
+Rank 21 | Centroid: ' tight' | Score: 0.0000
+  Tokens: [' tight', ' immediate']
+Rank 22 | Centroid: ' boy' | Score: 0.0000
+  Tokens: [' girl', ' boy', ' toy']
+Rank 23 | Centroid: ' world' | Score: 0.0000
+  Tokens: [' world', ' day']
+Rank 24 | Centroid: ' neighborhood' | Score: 0.0000
+  Tokens: [' neighborhood']
+Rank 25 | Centroid: ' doll' | Score: 0.0000
+  Tokens: [' doll']
 
 **Chosen Concept:** Rank 1

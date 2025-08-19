@@ -1,0 +1,102 @@
+--- Step 3 Log ---
+
+== Filtered Candidates ==
+Token: ' let' (ID: 1077), Prob: 0.5742
+Token: ' first' (ID: 1156), Prob: 0.0016
+Token: ' starting' (ID: 5916), Prob: 0.0013
+Token: ' start' (ID: 1191), Prob: 0.0006
+Token: ' looking' (ID: 3330), Prob: 0.0004
+Token: ' given' (ID: 2661), Prob: 0.0003
+Token: ' user' (ID: 1196), Prob: 0.0002
+Token: ' today' (ID: 3351), Prob: 0.0001
+Token: ' Let' (ID: 6771), Prob: 0.0001
+Token: ' customer' (ID: 6002), Prob: 0.0001
+Token: ' got' (ID: 2684), Prob: 0.0001
+Token: ' take' (ID: 1896), Prob: 0.0001
+Token: ' since' (ID: 2474), Prob: 0.0000
+Token: ' maybe' (ID: 7196), Prob: 0.0000
+Token: ' users' (ID: 3847), Prob: 0.0000
+Token: ' putting' (ID: 10687), Prob: 0.0000
+Token: ' okay' (ID: 16910), Prob: 0.0000
+Token: ' girl' (ID: 3743), Prob: 0.0000
+Token: ' lets' (ID: 15354), Prob: 0.0000
+Token: ' task' (ID: 3383), Prob: 0.0000
+Token: ' time' (ID: 882), Prob: 0.0000
+Token: ' taking' (ID: 4633), Prob: 0.0000
+Token: ' someone' (ID: 4325), Prob: 0.0000
+Token: ' following' (ID: 2701), Prob: 0.0000
+Token: ' think' (ID: 1744), Prob: 0.0000
+Token: ' getting' (ID: 3709), Prob: 0.0000
+Token: ' focusing' (ID: 21080), Prob: 0.0000
+Token: ' step' (ID: 3019), Prob: 0.0000
+Token: ' pick' (ID: 3735), Prob: 0.0000
+Token: ' customers' (ID: 6310), Prob: 0.0000
+Token: ' get' (ID: 633), Prob: 0.0000
+Token: ' going' (ID: 2087), Prob: 0.0000
+Token: ' imagine' (ID: 12793), Prob: 0.0000
+Token: ' small' (ID: 2613), Prob: 0.0000
+Token: 'let' (ID: 1149), Prob: 0.0000
+Token: ' breaking' (ID: 14719), Prob: 0.0000
+Token: ' suppose' (ID: 22477), Prob: 0.0000
+Token: ' starts' (ID: 8471), Prob: 0.0000
+Token: ' readers' (ID: 12726), Prob: 0.0000
+Token: ' Emma' (ID: 34935), Prob: 0.0000
+Token: ' one' (ID: 825), Prob: 0.0000
+Token: ' focus' (ID: 5244), Prob: 0.0000
+Token: ' need' (ID: 1184), Prob: 0.0000
+Token: ' considering' (ID: 12831), Prob: 0.0000
+Token: ' perhaps' (ID: 8365), Prob: 0.0000
+Token: ' based' (ID: 3118), Prob: 0.0000
+Token: ' wait' (ID: 3783), Prob: 0.0000
+Token: ' prompt' (ID: 9934), Prob: 0.0000
+Token: ' put' (ID: 2182), Prob: 0.0000
+Token: ' started' (ID: 3855), Prob: 0.0000
+Token: ' look' (ID: 1401), Prob: 0.0000
+Token: ' well' (ID: 1632), Prob: 0.0000
+Token: ' team' (ID: 2083), Prob: 0.0000
+Token: ' Emily' (ID: 34166), Prob: 0.0000
+Token: ' read' (ID: 1349), Prob: 0.0000
+Token: ' students' (ID: 4143), Prob: 0.0000
+Token: ' beginning' (ID: 7167), Prob: 0.0000
+Token: ' letting' (ID: 20194), Prob: 0.0000
+Token: ' young' (ID: 3908), Prob: 0.0000
+Token: ' choosing' (ID: 18774), Prob: 0.0000
+Token: ' combining' (ID: 34171), Prob: 0.0000
+
+== Ranked Concepts (Clusters) ==
+Rank 1 | Centroid: ' let' | Score: 0.5742
+  Tokens: [' let', ' Let', ' lets', 'let', ' letting']
+Rank 2 | Centroid: ' starts' | Score: 0.0019
+  Tokens: [' starting', ' start', ' starts', ' started', ' beginning']
+Rank 3 | Centroid: ' one' | Score: 0.0017
+  Tokens: [' first', ' time', ' small', ' one', ' well']
+Rank 4 | Centroid: ' users' | Score: 0.0004
+  Tokens: [' user', ' customer', ' users', ' customers', ' students']
+Rank 5 | Centroid: ' looking' | Score: 0.0004
+  Tokens: [' looking', ' look']
+Rank 6 | Centroid: ' based' | Score: 0.0003
+  Tokens: [' given', ' since', ' following', ' based']
+Rank 7 | Centroid: ' maybe' | Score: 0.0002
+  Tokens: [' today', ' maybe', ' okay', ' someone', ' perhaps']
+Rank 8 | Centroid: ' putting' | Score: 0.0001
+  Tokens: [' putting', ' taking', ' going', ' breaking', ' considering', ' choosing', ' combining']
+Rank 9 | Centroid: ' get' | Score: 0.0001
+  Tokens: [' got', ' getting', ' get']
+Rank 10 | Centroid: ' task' | Score: 0.0001
+  Tokens: [' task', ' step', ' prompt', ' team']
+Rank 11 | Centroid: ' Emily' | Score: 0.0001
+  Tokens: [' girl', ' Emma', ' Emily', ' young']
+Rank 12 | Centroid: ' take' | Score: 0.0001
+  Tokens: [' take']
+Rank 13 | Centroid: ' imagine' | Score: 0.0000
+  Tokens: [' think', ' imagine', ' suppose']
+Rank 14 | Centroid: ' focusing' | Score: 0.0000
+  Tokens: [' focusing', ' focus']
+Rank 15 | Centroid: ' pick' | Score: 0.0000
+  Tokens: [' pick', ' put']
+Rank 16 | Centroid: ' readers' | Score: 0.0000
+  Tokens: [' readers', ' read']
+Rank 17 | Centroid: ' need' | Score: 0.0000
+  Tokens: [' need', ' wait']
+
+**Chosen Concept:** Rank 1

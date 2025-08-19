@@ -1,69 +1,155 @@
 --- Step 69 Log ---
 
 == Filtered Candidates ==
-Token: ' prompt' (ID: 9934), Prob: 0.9805
-Token: ' message' (ID: 1943), Prob: 0.0012
-Token: ' Prompt' (ID: 59501), Prob: 0.0005
-Token: ' prompts' (ID: 50932), Prob: 0.0003
-Token: '(prompt' (ID: 72253), Prob: 0.0002
-Token: 'prompt' (ID: 40581), Prob: 0.0001
-Token: 'Prompt' (ID: 54615), Prob: 0.0000
-Token: ' prompted' (ID: 28646), Prob: 0.0000
-Token: ' prompting' (ID: 49645), Prob: 0.0000
-Token: ' question' (ID: 3405), Prob: 0.0000
-Token: ' potential' (ID: 4650), Prob: 0.0000
-Token: '_prompt' (ID: 61421), Prob: 0.0000
-Token: ' within' (ID: 2878), Prob: 0.0000
-Token: ' hint' (ID: 13012), Prob: 0.0000
-Token: ' motif' (ID: 59512), Prob: 0.0000
-Token: ' prom' (ID: 2706), Prob: 0.0000
-Token: ' promise' (ID: 11222), Prob: 0.0000
-Token: '.prompt' (ID: 65399), Prob: 0.0000
-Token: ' keyword' (ID: 16174), Prob: 0.0000
-Token: ' example' (ID: 3110), Prob: 0.0000
-Token: ' topic' (ID: 8544), Prob: 0.0000
-Token: ' bold' (ID: 13939), Prob: 0.0000
-Token: ' promotion' (ID: 20249), Prob: 0.0000
-Token: ' point' (ID: 1459), Prob: 0.0000
-Token: ' wording' (ID: 60227), Prob: 0.0000
-Token: ' theme' (ID: 6912), Prob: 0.0000
-Token: ' list' (ID: 1140), Prob: 0.0000
-Token: ' format' (ID: 3561), Prob: 0.0000
-Token: ' post' (ID: 1736), Prob: 0.0000
-Token: ' Please' (ID: 5209), Prob: 0.0000
+Token: ' path' (ID: 1815), Prob: 0.2793
+Token: ' paths' (ID: 12716), Prob: 0.2793
+Token: ' trails' (ID: 32865), Prob: 0.1318
+Token: 'ness' (ID: 2090), Prob: 0.0801
+Token: ' incl' (ID: 18409), Prob: 0.0486
+Token: ' trail' (ID: 8849), Prob: 0.0295
+Token: ' ascent' (ID: 74989), Prob: 0.0203
+Token: ' terrain' (ID: 24869), Prob: 0.0179
+Token: ' slopes' (ID: 59008), Prob: 0.0179
+Token: ' parts' (ID: 5479), Prob: 0.0157
+Token: ' climb' (ID: 25367), Prob: 0.0140
+Token: ' climbs' (ID: 76411), Prob: 0.0123
+Token: ' descent' (ID: 36952), Prob: 0.0085
+Token: ' asc' (ID: 14601), Prob: 0.0075
+Token: 'ing' (ID: 287), Prob: 0.0058
+Token: ' sections' (ID: 14158), Prob: 0.0045
+Token: ' hills' (ID: 34131), Prob: 0.0040
+Token: ' rocks' (ID: 23035), Prob: 0.0035
+Token: ' part' (ID: 949), Prob: 0.0021
+Token: ' desc' (ID: 6560), Prob: 0.0019
+Token: ' slope' (ID: 30232), Prob: 0.0015
+Token: ' cliffs' (ID: 85849), Prob: 0.0012
+Token: ' mountains' (ID: 23501), Prob: 0.0007
+Token: ' elevation' (ID: 26163), Prob: 0.0006
+Token: ' route' (ID: 6021), Prob: 0.0005
+Token: ' sides' (ID: 11067), Prob: 0.0004
+Token: ' mountain' (ID: 16301), Prob: 0.0004
+Token: ' drops' (ID: 21025), Prob: 0.0004
+Token: ' turns' (ID: 10577), Prob: 0.0003
+Token: ' rock' (ID: 6946), Prob: 0.0003
+Token: ' routes' (ID: 11291), Prob: 0.0003
+Token: ' falls' (ID: 17066), Prob: 0.0003
+Token: ' passages' (ID: 46769), Prob: 0.0003
+Token: ' spots' (ID: 18773), Prob: 0.0002
+Token: ' areas' (ID: 5671), Prob: 0.0002
+Token: ' passes' (ID: 16211), Prob: 0.0002
+Token: ' hill' (ID: 23946), Prob: 0.0002
+Token: ' views' (ID: 6194), Prob: 0.0002
+Token: ' steps' (ID: 7354), Prob: 0.0002
+Token: ' rocky' (ID: 55517), Prob: 0.0002
+Token: ' roads' (ID: 19241), Prob: 0.0001
+Token: ' places' (ID: 7482), Prob: 0.0001
+Token: ' stretches' (ID: 49599), Prob: 0.0001
+Token: ' nature' (ID: 6993), Prob: 0.0001
+Token: ' portions' (ID: 19325), Prob: 0.0001
+Token: ' rises' (ID: 37168), Prob: 0.0001
+Token: ' gradients' (ID: 52149), Prob: 0.0001
+Token: ' transitions' (ID: 33592), Prob: 0.0001
+Token: ' view' (ID: 1651), Prob: 0.0001
+Token: ' ground' (ID: 4910), Prob: 0.0001
+Token: ' faces' (ID: 12300), Prob: 0.0001
+Token: ' peaks' (ID: 38935), Prob: 0.0001
+Token: ' back' (ID: 1182), Prob: 0.0001
+Token: ' stones' (ID: 26210), Prob: 0.0001
+Token: ' approach' (ID: 5486), Prob: 0.0001
+Token: ' hike' (ID: 34231), Prob: 0.0001
+Token: ' pathways' (ID: 42914), Prob: 0.0001
+Token: ' courses' (ID: 13980), Prob: 0.0000
+Token: ' hikes' (ID: 67485), Prob: 0.0000
+Token: ' drop' (ID: 5943), Prob: 0.0000
+Token: ' stairs' (ID: 31149), Prob: 0.0000
+Token: ' grass' (ID: 16359), Prob: 0.0000
+Token: 'les' (ID: 642), Prob: 0.0000
+Token: ' cre' (ID: 1884), Prob: 0.0000
+Token: ' journey' (ID: 11618), Prob: 0.0000
+Token: ' legs' (ID: 14201), Prob: 0.0000
+Token: ' climbing' (ID: 29508), Prob: 0.0000
+Token: ' pass' (ID: 1494), Prob: 0.0000
+Token: ' shoulders' (ID: 26906), Prob: 0.0000
+Token: ' grades' (ID: 27611), Prob: 0.0000
+Token: ' runs' (ID: 8473), Prob: 0.0000
+Token: ' scramble' (ID: 76287), Prob: 0.0000
+Token: ' uphill' (ID: 76658), Prob: 0.0000
+Token: ' walk' (ID: 4227), Prob: 0.0000
+Token: ' descend' (ID: 54568), Prob: 0.0000
+Token: ' valleys' (ID: 85397), Prob: 0.0000
+Token: ' elev' (ID: 11964), Prob: 0.0000
+Token: ' decline' (ID: 17704), Prob: 0.0000
+Token: ' rav' (ID: 42543), Prob: 0.0000
+Token: ' terr' (ID: 7170), Prob: 0.0000
+Token: ' side' (ID: 3108), Prob: 0.0000
+Token: ' walls' (ID: 14285), Prob: 0.0000
+Token: ' ascend' (ID: 75312), Prob: 0.0000
+Token: ' direction' (ID: 5106), Prob: 0.0000
+Token: ' edges' (ID: 12822), Prob: 0.0000
+Token: ' ascending' (ID: 35388), Prob: 0.0000
+Token: ' course' (ID: 3308), Prob: 0.0000
+Token: ' trek' (ID: 44588), Prob: 0.0000
+Token: ' winding' (ID: 53726), Prob: 0.0000
+Token: ' start' (ID: 1191), Prob: 0.0000
+Token: ' things' (ID: 2513), Prob: 0.0000
+Token: ' area' (ID: 3082), Prob: 0.0000
 
 == Ranked Concepts (Clusters) ==
-Rank 1 | Centroid: 'Prompt' | Score: 0.9805
-  Tokens: [' prompt', ' Prompt', '(prompt', 'prompt', 'Prompt', '_prompt', '.prompt']
-Rank 2 | Centroid: ' message' | Score: 0.0012
-  Tokens: [' message']
-Rank 3 | Centroid: ' prompts' | Score: 0.0003
-  Tokens: [' prompts', ' prompted', ' prompting']
-Rank 4 | Centroid: ' theme' | Score: 0.0000
-  Tokens: [' motif', ' topic', ' theme']
-Rank 5 | Centroid: ' question' | Score: 0.0000
-  Tokens: [' question']
-Rank 6 | Centroid: ' potential' | Score: 0.0000
-  Tokens: [' potential']
-Rank 7 | Centroid: ' prom' | Score: 0.0000
-  Tokens: [' prom', ' promotion']
-Rank 8 | Centroid: ' keyword' | Score: 0.0000
-  Tokens: [' keyword', ' wording']
-Rank 9 | Centroid: ' within' | Score: 0.0000
-  Tokens: [' within']
-Rank 10 | Centroid: ' bold' | Score: 0.0000
-  Tokens: [' bold', ' Please']
-Rank 11 | Centroid: ' hint' | Score: 0.0000
-  Tokens: [' hint']
-Rank 12 | Centroid: ' list' | Score: 0.0000
-  Tokens: [' list', ' format']
-Rank 13 | Centroid: ' promise' | Score: 0.0000
-  Tokens: [' promise']
-Rank 14 | Centroid: ' example' | Score: 0.0000
-  Tokens: [' example']
-Rank 15 | Centroid: ' point' | Score: 0.0000
-  Tokens: [' point']
-Rank 16 | Centroid: ' post' | Score: 0.0000
-  Tokens: [' post']
+Rank 1 | Centroid: ' pathways' | Score: 0.5586
+  Tokens: [' path', ' paths', ' route', ' routes', ' roads', ' pathways']
+Rank 2 | Centroid: ' trail' | Score: 0.1611
+  Tokens: [' trails', ' trail', ' journey', ' walk']
+Rank 3 | Centroid: ' start' | Score: 0.0859
+  Tokens: ['ness', 'ing', ' nature', ' start']
+Rank 4 | Centroid: ' elevation' | Score: 0.0491
+  Tokens: [' incl', ' elevation', ' elev']
+Rank 5 | Centroid: ' ascend' | Score: 0.0381
+  Tokens: [' ascent', ' descent', ' asc', ' desc', ' descend', ' ascend', ' ascending']
+Rank 6 | Centroid: ' climb' | Score: 0.0265
+  Tokens: [' climb', ' climbs', ' hike', ' hikes', ' climbing', ' trek']
+Rank 7 | Centroid: ' parts' | Score: 0.0226
+  Tokens: [' parts', ' sections', ' part', ' portions', ' things']
+Rank 8 | Centroid: ' rocks' | Score: 0.0220
+  Tokens: [' terrain', ' rocks', ' rock', ' rocky', ' stones', ' terr']
+Rank 9 | Centroid: ' slopes' | Score: 0.0195
+  Tokens: [' slopes', ' slope', ' gradients', ' peaks']
+Rank 10 | Centroid: ' mountains' | Score: 0.0065
+  Tokens: [' hills', ' cliffs', ' mountains', ' mountain', ' hill', ' uphill', ' valleys']
+Rank 11 | Centroid: ' drops' | Score: 0.0007
+  Tokens: [' drops', ' falls', ' drop', ' decline']
+Rank 12 | Centroid: ' edges' | Score: 0.0006
+  Tokens: [' sides', ' faces', ' legs', ' shoulders', ' walls', ' edges']
+Rank 13 | Centroid: ' passes' | Score: 0.0005
+  Tokens: [' passages', ' passes', ' pass']
+Rank 14 | Centroid: ' spots' | Score: 0.0005
+  Tokens: [' spots', ' places', ' stretches']
+Rank 15 | Centroid: ' turns' | Score: 0.0004
+  Tokens: [' turns', ' transitions', ' runs']
+Rank 16 | Centroid: ' view' | Score: 0.0003
+  Tokens: [' views', ' view', ' approach']
+Rank 17 | Centroid: ' areas' | Score: 0.0002
+  Tokens: [' areas', ' area']
+Rank 18 | Centroid: ' steps' | Score: 0.0002
+  Tokens: [' steps']
+Rank 19 | Centroid: ' grass' | Score: 0.0002
+  Tokens: [' ground', ' grass', 'les']
+Rank 20 | Centroid: ' rises' | Score: 0.0001
+  Tokens: [' rises']
+Rank 21 | Centroid: ' courses' | Score: 0.0001
+  Tokens: [' courses', ' grades', ' course']
+Rank 22 | Centroid: ' back' | Score: 0.0001
+  Tokens: [' back', ' side']
+Rank 23 | Centroid: ' stairs' | Score: 0.0000
+  Tokens: [' stairs']
+Rank 24 | Centroid: ' cre' | Score: 0.0000
+  Tokens: [' cre']
+Rank 25 | Centroid: ' scramble' | Score: 0.0000
+  Tokens: [' scramble']
+Rank 26 | Centroid: ' rav' | Score: 0.0000
+  Tokens: [' rav']
+Rank 27 | Centroid: ' direction' | Score: 0.0000
+  Tokens: [' direction']
+Rank 28 | Centroid: ' winding' | Score: 0.0000
+  Tokens: [' winding']
 
 **Chosen Concept:** Rank 1

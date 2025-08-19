@@ -1,67 +1,148 @@
 --- Step 53 Log ---
 
 == Filtered Candidates ==
-Token: ' prompt' (ID: 9934), Prob: 0.9727
-Token: ' message' (ID: 1943), Prob: 0.0014
-Token: ' Prompt' (ID: 59501), Prob: 0.0005
-Token: ' prompts' (ID: 50932), Prob: 0.0002
-Token: '(prompt' (ID: 72253), Prob: 0.0001
-Token: 'prompt' (ID: 40581), Prob: 0.0001
-Token: ' question' (ID: 3405), Prob: 0.0001
-Token: 'Prompt' (ID: 54615), Prob: 0.0000
-Token: ' prompting' (ID: 49645), Prob: 0.0000
-Token: ' potential' (ID: 4650), Prob: 0.0000
-Token: ' prompted' (ID: 28646), Prob: 0.0000
-Token: '_prompt' (ID: 61421), Prob: 0.0000
-Token: ' within' (ID: 2878), Prob: 0.0000
-Token: ' hint' (ID: 13012), Prob: 0.0000
-Token: ' promise' (ID: 11222), Prob: 0.0000
-Token: ' point' (ID: 1459), Prob: 0.0000
-Token: ' prom' (ID: 2706), Prob: 0.0000
-Token: ' bold' (ID: 13939), Prob: 0.0000
-Token: ' motif' (ID: 59512), Prob: 0.0000
-Token: ' example' (ID: 3110), Prob: 0.0000
-Token: '.prompt' (ID: 65399), Prob: 0.0000
-Token: ' keyword' (ID: 16174), Prob: 0.0000
-Token: ' topic' (ID: 8544), Prob: 0.0000
-Token: ' post' (ID: 1736), Prob: 0.0000
-Token: ' theme' (ID: 6912), Prob: 0.0000
-Token: ' list' (ID: 1140), Prob: 0.0000
-Token: ' answer' (ID: 4226), Prob: 0.0000
-Token: ' wording' (ID: 60227), Prob: 0.0000
-Token: ' format' (ID: 3561), Prob: 0.0000
-Token: ' please' (ID: 4486), Prob: 0.0000
+Token: ' feel' (ID: 2666), Prob: 0.6172
+Token: ' imagine' (ID: 12793), Prob: 0.1562
+Token: ' visualize' (ID: 50087), Prob: 0.1377
+Token: ' experience' (ID: 3139), Prob: 0.0349
+Token: ' vivid' (ID: 42020), Prob: 0.0114
+Token: ' engage' (ID: 16579), Prob: 0.0069
+Token: ' immer' (ID: 25531), Prob: 0.0053
+Token: ' engaged' (ID: 16634), Prob: 0.0042
+Token: ' aware' (ID: 7853), Prob: 0.0025
+Token: ' connect' (ID: 4564), Prob: 0.0014
+Token: ' notice' (ID: 5293), Prob: 0.0014
+Token: ' think' (ID: 1744), Prob: 0.0013
+Token: ' participate' (ID: 15759), Prob: 0.0013
+Token: ' immersive' (ID: 64180), Prob: 0.0011
+Token: ' care' (ID: 2453), Prob: 0.0009
+Token: ' connected' (ID: 8433), Prob: 0.0009
+Token: ' enjoy' (ID: 4669), Prob: 0.0009
+Token: ' experienced' (ID: 10321), Prob: 0.0009
+Token: ' excited' (ID: 12035), Prob: 0.0008
+Token: ' part' (ID: 949), Prob: 0.0006
+Token: ' involved' (ID: 6398), Prob: 0.0006
+Token: ' interested' (ID: 8014), Prob: 0.0006
+Token: ' picture' (ID: 6802), Prob: 0.0004
+Token: ' immersed' (ID: 77208), Prob: 0.0004
+Token: ' imagination' (ID: 27799), Prob: 0.0002
+Token: ' emotionally' (ID: 37583), Prob: 0.0002
+Token: ' envision' (ID: 47046), Prob: 0.0002
+Token: ' warm' (ID: 8205), Prob: 0.0002
+Token: ' get' (ID: 633), Prob: 0.0002
+Token: ' tense' (ID: 42687), Prob: 0.0002
+Token: ' like' (ID: 1075), Prob: 0.0002
+Token: ' want' (ID: 1366), Prob: 0.0002
+Token: ' realize' (ID: 13083), Prob: 0.0002
+Token: ' appreciate' (ID: 15401), Prob: 0.0002
+Token: ' see' (ID: 1490), Prob: 0.0001
+Token: ' take' (ID: 1896), Prob: 0.0001
+Token: ' know' (ID: 1414), Prob: 0.0001
+Token: ' come' (ID: 2525), Prob: 0.0001
+Token: ' comfortable' (ID: 10655), Prob: 0.0001
+Token: ' stay' (ID: 4717), Prob: 0.0001
+Token: ' pay' (ID: 2291), Prob: 0.0001
+Token: ' invest' (ID: 2725), Prob: 0.0001
+Token: ' curious' (ID: 22208), Prob: 0.0001
+Token: ' tell' (ID: 3291), Prob: 0.0001
+Token: ' imagining' (ID: 76624), Prob: 0.0001
+Token: ' familiar' (ID: 11285), Prob: 0.0001
+Token: ' smell' (ID: 22068), Prob: 0.0001
+Token: ' empath' (ID: 35581), Prob: 0.0001
+Token: ' felt' (ID: 6476), Prob: 0.0001
+Token: ' imaginative' (ID: 76261), Prob: 0.0001
+Token: ' remember' (ID: 6099), Prob: 0.0001
+Token: ' fall' (ID: 4399), Prob: 0.0001
+Token: ' engaging' (ID: 22570), Prob: 0.0001
+Token: ' appeal' (ID: 14303), Prob: 0.0001
+Token: ' smile' (ID: 15289), Prob: 0.0001
+Token: ' visual' (ID: 9124), Prob: 0.0001
+Token: ' close' (ID: 3265), Prob: 0.0000
+Token: ' happy' (ID: 6247), Prob: 0.0000
+Token: '_experience' (ID: 91142), Prob: 0.0000
+Token: ' move' (ID: 3271), Prob: 0.0000
+Token: ' tune' (ID: 25240), Prob: 0.0000
+Token: 'feel' (ID: 56576), Prob: 0.0000
+Token: ' relate' (ID: 28143), Prob: 0.0000
+Token: ' hooked' (ID: 42670), Prob: 0.0000
+Token: ' vibe' (ID: 46711), Prob: 0.0000
+Token: ' feeling' (ID: 8266), Prob: 0.0000
+Token: ' explore' (ID: 13186), Prob: 0.0000
+Token: ' physically' (ID: 21893), Prob: 0.0000
+Token: ' mentally' (ID: 33225), Prob: 0.0000
+Token: ' rel' (ID: 1351), Prob: 0.0000
+Token: ' really' (ID: 2167), Prob: 0.0000
+Token: ' sit' (ID: 2444), Prob: 0.0000
+Token: '/list' (ID: 20936), Prob: 0.0000
+Token: ' include' (ID: 2924), Prob: 0.0000
+Token: ' pause' (ID: 18087), Prob: 0.0000
+Token: ' suspend' (ID: 26247), Prob: 0.0000
+Token: ' perceive' (ID: 44393), Prob: 0.0000
+Token: 'Aware' (ID: 58793), Prob: 0.0000
+Token: ' attentive' (ID: 72798), Prob: 0.0000
+Token: ' story' (ID: 3364), Prob: 0.0000
+Token: ' react' (ID: 13767), Prob: 0.0000
+Token: ' eng' (ID: 2922), Prob: 0.0000
+Token: ' active' (ID: 4541), Prob: 0.0000
+Token: ' focus' (ID: 5244), Prob: 0.0000
+Token: ' wonder' (ID: 5775), Prob: 0.0000
+Token: ' gas' (ID: 6819), Prob: 0.0000
+Token: ' follow' (ID: 1795), Prob: 0.0000
+Token: ' nervous' (ID: 22596), Prob: 0.0000
+Token: ' att' (ID: 1619), Prob: 0.0000
 
 == Ranked Concepts (Clusters) ==
-Rank 1 | Centroid: ' prompt' | Score: 0.9727
-  Tokens: [' prompt', ' Prompt', ' prompts', '(prompt', 'prompt', 'Prompt', ' prompting', ' prompted', '_prompt', '.prompt']
-Rank 2 | Centroid: ' message' | Score: 0.0014
-  Tokens: [' message']
-Rank 3 | Centroid: ' question' | Score: 0.0001
-  Tokens: [' question', ' answer']
-Rank 4 | Centroid: ' theme' | Score: 0.0001
-  Tokens: [' motif', ' keyword', ' topic', ' theme']
-Rank 5 | Centroid: ' promise' | Score: 0.0000
-  Tokens: [' promise', ' prom']
-Rank 6 | Centroid: ' potential' | Score: 0.0000
-  Tokens: [' potential']
-Rank 7 | Centroid: ' bold' | Score: 0.0000
-  Tokens: [' bold', ' wording']
-Rank 8 | Centroid: ' within' | Score: 0.0000
-  Tokens: [' within']
-Rank 9 | Centroid: ' hint' | Score: 0.0000
-  Tokens: [' hint']
-Rank 10 | Centroid: ' point' | Score: 0.0000
-  Tokens: [' point']
-Rank 11 | Centroid: ' example' | Score: 0.0000
-  Tokens: [' example']
-Rank 12 | Centroid: ' post' | Score: 0.0000
-  Tokens: [' post']
-Rank 13 | Centroid: ' list' | Score: 0.0000
-  Tokens: [' list']
-Rank 14 | Centroid: ' format' | Score: 0.0000
-  Tokens: [' format']
-Rank 15 | Centroid: ' please' | Score: 0.0000
-  Tokens: [' please']
+Rank 1 | Centroid: ' feel' | Score: 0.6172
+  Tokens: [' feel', ' smell', ' felt', 'feel', ' vibe', ' feeling']
+Rank 2 | Centroid: ' imagining' | Score: 0.1572
+  Tokens: [' imagine', ' imagination', ' envision', ' imagining', ' imaginative']
+Rank 3 | Centroid: ' visualize' | Score: 0.1377
+  Tokens: [' visualize', ' visual']
+Rank 4 | Centroid: ' experience' | Score: 0.0359
+  Tokens: [' experience', ' experienced', '_experience']
+Rank 5 | Centroid: ' picture' | Score: 0.0118
+  Tokens: [' vivid', ' picture', ' story']
+Rank 6 | Centroid: ' engaged' | Score: 0.0117
+  Tokens: [' engage', ' engaged', ' involved', ' engaging', ' eng']
+Rank 7 | Centroid: ' immersive' | Score: 0.0069
+  Tokens: [' immer', ' immersive', ' immersed', ' invest']
+Rank 8 | Centroid: ' aware' | Score: 0.0026
+  Tokens: [' aware', 'Aware', ' attentive']
+Rank 9 | Centroid: ' connect' | Score: 0.0023
+  Tokens: [' connect', ' connected', ' relate']
+Rank 10 | Centroid: ' enjoy' | Score: 0.0022
+  Tokens: [' participate', ' enjoy', ' explore']
+Rank 11 | Centroid: ' know' | Score: 0.0019
+  Tokens: [' think', ' want', ' see', ' know', ' tell', ' remember']
+Rank 12 | Centroid: ' happy' | Score: 0.0017
+  Tokens: [' excited', ' interested', ' comfortable', ' curious', ' happy', ' nervous']
+Rank 13 | Centroid: ' notice' | Score: 0.0014
+  Tokens: [' notice']
+Rank 14 | Centroid: ' care' | Score: 0.0009
+  Tokens: [' care']
+Rank 15 | Centroid: ' like' | Score: 0.0008
+  Tokens: [' part', ' like', ' rel']
+Rank 16 | Centroid: ' get' | Score: 0.0008
+  Tokens: [' get', ' take', ' come', ' stay', ' fall', ' move', ' sit', ' include', ' react', ' follow']
+Rank 17 | Centroid: ' perceive' | Score: 0.0004
+  Tokens: [' realize', ' appreciate', ' perceive']
+Rank 18 | Centroid: ' emotionally' | Score: 0.0004
+  Tokens: [' emotionally', ' empath', ' physically', ' mentally']
+Rank 19 | Centroid: ' pause' | Score: 0.0003
+  Tokens: [' tense', ' tune', '/list', ' pause']
+Rank 20 | Centroid: ' warm' | Score: 0.0003
+  Tokens: [' warm', ' close', ' gas']
+Rank 21 | Centroid: ' pay' | Score: 0.0002
+  Tokens: [' pay', ' focus', ' att']
+Rank 22 | Centroid: ' smile' | Score: 0.0001
+  Tokens: [' appeal', ' smile', ' suspend']
+Rank 23 | Centroid: ' familiar' | Score: 0.0001
+  Tokens: [' familiar', ' really']
+Rank 24 | Centroid: ' hooked' | Score: 0.0000
+  Tokens: [' hooked']
+Rank 25 | Centroid: ' wonder' | Score: 0.0000
+  Tokens: [' wonder']
+Rank 26 | Centroid: ' active' | Score: 0.0000
+  Tokens: [' active']
 
 **Chosen Concept:** Rank 1

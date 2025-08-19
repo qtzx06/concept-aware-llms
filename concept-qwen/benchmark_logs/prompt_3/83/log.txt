@@ -1,91 +1,154 @@
 --- Step 83 Log ---
 
 == Filtered Candidates ==
-Token: 'ting' (ID: 1280), Prob: 1.0000
-Token: 'ten' (ID: 1960), Prob: 0.0000
-Token: ' ting' (ID: 42227), Prob: 0.0000
-Token: 'tering' (ID: 59385), Prob: 0.0000
-Token: 'tings' (ID: 2065), Prob: 0.0000
-Token: ' letting' (ID: 20194), Prob: 0.0000
-Token: ' trying' (ID: 4460), Prob: 0.0000
-Token: 'TING' (ID: 25043), Prob: 0.0000
-Token: ' getting' (ID: 3709), Prob: 0.0000
-Token: ' putting' (ID: 10687), Prob: 0.0000
-Token: 'ted' (ID: 6565), Prob: 0.0000
-Token: 'iting' (ID: 5853), Prob: 0.0000
-Token: ' terminating' (ID: 70581), Prob: 0.0000
-Token: 'tant' (ID: 60412), Prob: 0.0000
-Token: ' testing' (ID: 7497), Prob: 0.0000
-Token: ' tightening' (ID: 76780), Prob: 0.0000
-Token: ' time' (ID: 882), Prob: 0.0000
-Token: ' turning' (ID: 13054), Prob: 0.0000
-Token: 'tit' (ID: 16903), Prob: 0.0000
-Token: ' taking' (ID: 4633), Prob: 0.0000
-Token: ' talking' (ID: 7404), Prob: 0.0000
-Token: ' telling' (ID: 11629), Prob: 0.0000
-Token: 'tee' (ID: 6547), Prob: 0.0000
-Token: ' training' (ID: 4862), Prob: 0.0000
-Token: ' thinking' (ID: 7274), Prob: 0.0000
-Token: ' changing' (ID: 10018), Prob: 0.0000
-Token: 'ton' (ID: 777), Prob: 0.0000
-Token: ' total' (ID: 2790), Prob: 0.0000
-Token: 'ing' (ID: 287), Prob: 0.0000
-Token: ' ten' (ID: 5779), Prob: 0.0000
-Token: 'tin' (ID: 55971), Prob: 0.0000
-Token: ' tent' (ID: 15632), Prob: 0.0000
-Token: ' tying' (ID: 62043), Prob: 0.0000
-Token: ' touching' (ID: 30587), Prob: 0.0000
-Token: ' translating' (ID: 66271), Prob: 0.0000
-Token: ' tit' (ID: 8142), Prob: 0.0000
-Token: ' tot' (ID: 2401), Prob: 0.0000
-Token: ' choosing' (ID: 18774), Prob: 0.0000
-Token: 'til' (ID: 1646), Prob: 0.0000
-Token: ' using' (ID: 1667), Prob: 0.0000
-Token: ' let' (ID: 1077), Prob: 0.0000
-Token: 'term' (ID: 4991), Prob: 0.0000
-Token: ' saying' (ID: 5488), Prob: 0.0000
-Token: 'tem' (ID: 870), Prob: 0.0000
-Token: 'enting' (ID: 91199), Prob: 0.0000
-Token: ' term' (ID: 4647), Prob: 0.0000
-Token: ' Ting' (ID: 98532), Prob: 0.0000
-Token: 'ping' (ID: 9989), Prob: 0.0000
+Token: ' conversation' (ID: 10435), Prob: 0.7109
+Token: ' casual' (ID: 16334), Prob: 0.0515
+Token: ' friendly' (ID: 11657), Prob: 0.0312
+Token: ' chat' (ID: 6236), Prob: 0.0276
+Token: ' playful' (ID: 56069), Prob: 0.0215
+Token: ' date' (ID: 2400), Prob: 0.0130
+Token: ' relationship' (ID: 5025), Prob: 0.0130
+Token: ' talk' (ID: 3061), Prob: 0.0089
+Token: ' romantic' (ID: 23467), Prob: 0.0070
+Token: ' discussion' (ID: 10219), Prob: 0.0065
+Token: ' funny' (ID: 15173), Prob: 0.0061
+Token: ' meaningful' (ID: 22414), Prob: 0.0058
+Token: ' dialogue' (ID: 21276), Prob: 0.0051
+Token: ' connection' (ID: 3633), Prob: 0.0048
+Token: ' joke' (ID: 21646), Prob: 0.0037
+Token: ' friendship' (ID: 26509), Prob: 0.0037
+Token: ' game' (ID: 1809), Prob: 0.0035
+Token: ' strange' (ID: 14888), Prob: 0.0035
+Token: ' meeting' (ID: 6438), Prob: 0.0031
+Token: ' lively' (ID: 48177), Prob: 0.0024
+Token: ' harmless' (ID: 52897), Prob: 0.0024
+Token: ' humorous' (ID: 69846), Prob: 0.0024
+Token: ' spontaneous' (ID: 53457), Prob: 0.0019
+Token: ' fun' (ID: 2464), Prob: 0.0018
+Token: ' weird' (ID: 16283), Prob: 0.0018
+Token: ' dating' (ID: 4924), Prob: 0.0016
+Token: ' random' (ID: 4194), Prob: 0.0014
+Token: ' new' (ID: 501), Prob: 0.0011
+Token: ' story' (ID: 3364), Prob: 0.0011
+Token: ' laugh' (ID: 12550), Prob: 0.0011
+Token: ' serious' (ID: 6001), Prob: 0.0011
+Token: ' non' (ID: 2477), Prob: 0.0010
+Token: ' ban' (ID: 8943), Prob: 0.0010
+Token: ' quirky' (ID: 67132), Prob: 0.0010
+Token: ' prank' (ID: 75273), Prob: 0.0010
+Token: ' day' (ID: 1899), Prob: 0.0009
+Token: ' mysterious' (ID: 25382), Prob: 0.0009
+Token: ' small' (ID: 2613), Prob: 0.0008
+Token: ' talking' (ID: 7404), Prob: 0.0008
+Token: ' warm' (ID: 8205), Prob: 0.0008
+Token: ' friend' (ID: 4238), Prob: 0.0008
+Token: ' light' (ID: 3100), Prob: 0.0007
+Token: ' flirt' (ID: 52630), Prob: 0.0007
+Token: ' joking' (ID: 57034), Prob: 0.0007
+Token: ' pleasant' (ID: 23795), Prob: 0.0007
+Token: ' rom' (ID: 9882), Prob: 0.0006
+Token: ' misunderstanding' (ID: 69747), Prob: 0.0006
+Token: ' mon' (ID: 1615), Prob: 0.0006
+Token: ' bonding' (ID: 63086), Prob: 0.0006
+Token: ' private' (ID: 869), Prob: 0.0005
+Token: ' long' (ID: 1293), Prob: 0.0005
+Token: ' routine' (ID: 14021), Prob: 0.0005
+Token: ' witty' (ID: 82633), Prob: 0.0004
+Token: ' interaction' (ID: 16230), Prob: 0.0004
+Token: ' genuine' (ID: 22011), Prob: 0.0004
+Token: ' heartfelt' (ID: 83111), Prob: 0.0004
+Token: ' bizarre' (ID: 32188), Prob: 0.0004
+Token: ' seemingly' (ID: 22660), Prob: 0.0004
+Token: ' series' (ID: 4013), Prob: 0.0003
+Token: ' normal' (ID: 4622), Prob: 0.0003
+Token: ' ple' (ID: 7100), Prob: 0.0003
+Token: ' situation' (ID: 6534), Prob: 0.0003
+Token: ' ritual' (ID: 27179), Prob: 0.0003
+Token: ' silly' (ID: 29471), Prob: 0.0003
+Token: ' rapport' (ID: 38374), Prob: 0.0003
+Token: ' nice' (ID: 6419), Prob: 0.0003
+Token: ' quiet' (ID: 11340), Prob: 0.0003
+Token: ' call' (ID: 1618), Prob: 0.0003
+Token: ' good' (ID: 1661), Prob: 0.0003
+Token: ' visit' (ID: 3947), Prob: 0.0003
+Token: ' charming' (ID: 34409), Prob: 0.0003
+Token: ' peculiar' (ID: 43697), Prob: 0.0003
+Token: ' play' (ID: 1486), Prob: 0.0002
+Token: ' communication' (ID: 10535), Prob: 0.0002
+Token: ' surprise' (ID: 12761), Prob: 0.0002
+Token: ' late' (ID: 3309), Prob: 0.0002
+Token: ' surprising' (ID: 14861), Prob: 0.0002
+Token: ' ram' (ID: 17823), Prob: 0.0002
+Token: ' social' (ID: 3590), Prob: 0.0002
+Token: ' daily' (ID: 7298), Prob: 0.0002
+Token: ' coffee' (ID: 10799), Prob: 0.0002
+Token: ' cute' (ID: 18838), Prob: 0.0002
+Token: ' awkward' (ID: 28759), Prob: 0.0002
+Token: ' verbal' (ID: 35770), Prob: 0.0002
+Token: ' texting' (ID: 67994), Prob: 0.0002
+Token: ' mundane' (ID: 68682), Prob: 0.0002
+Token: ' journey' (ID: 11618), Prob: 0.0002
+Token: ' tale' (ID: 23281), Prob: 0.0002
+Token: ' heated' (ID: 31713), Prob: 0.0002
+Token: ' project' (ID: 2390), Prob: 0.0002
+Token: ' cold' (ID: 9255), Prob: 0.0002
+Token: ' problematic' (ID: 34933), Prob: 0.0002
+Token: ' comforting' (ID: 68030), Prob: 0.0002
+Token: ' secret' (ID: 6234), Prob: 0.0002
+Token: ' tea' (ID: 15243), Prob: 0.0002
+Token: ' romance' (ID: 29263), Prob: 0.0002
+Token: ' reluctant' (ID: 42940), Prob: 0.0002
 
 == Ranked Concepts (Clusters) ==
-Rank 1 | Centroid: 'ting' | Score: 1.0000
-  Tokens: ['ting', 'tings', 'TING', 'ted']
-Rank 2 | Centroid: 'ten' | Score: 0.0000
-  Tokens: ['ten', 'tem']
-Rank 3 | Centroid: ' ting' | Score: 0.0000
-  Tokens: [' ting', ' Ting']
-Rank 4 | Centroid: 'tering' | Score: 0.0000
-  Tokens: ['tering']
-Rank 5 | Centroid: ' putting' | Score: 0.0000
-  Tokens: [' trying', ' getting', ' putting', ' turning', ' taking', ' telling', ' changing', ' translating', ' choosing', ' using', ' saying']
-Rank 6 | Centroid: ' letting' | Score: 0.0000
-  Tokens: [' letting', ' let']
-Rank 7 | Centroid: ' tightening' | Score: 0.0000
-  Tokens: [' terminating', ' tightening', ' tying', ' touching']
-Rank 8 | Centroid: ' thinking' | Score: 0.0000
-  Tokens: [' testing', ' talking', ' training', ' thinking']
-Rank 9 | Centroid: 'iting' | Score: 0.0000
-  Tokens: ['iting']
-Rank 10 | Centroid: 'tant' | Score: 0.0000
-  Tokens: ['tant', 'tin']
-Rank 11 | Centroid: ' total' | Score: 0.0000
-  Tokens: [' time', ' total', ' tot']
-Rank 12 | Centroid: 'tit' | Score: 0.0000
-  Tokens: ['tit', ' tit']
-Rank 13 | Centroid: 'ton' | Score: 0.0000
-  Tokens: ['ton', 'til']
-Rank 14 | Centroid: ' ten' | Score: 0.0000
-  Tokens: [' ten', ' tent']
-Rank 15 | Centroid: 'tee' | Score: 0.0000
-  Tokens: ['tee']
-Rank 16 | Centroid: 'ing' | Score: 0.0000
-  Tokens: ['ing', 'ping']
-Rank 17 | Centroid: 'term' | Score: 0.0000
-  Tokens: ['term', ' term']
-Rank 18 | Centroid: 'enting' | Score: 0.0000
-  Tokens: ['enting']
+Rank 1 | Centroid: ' conversation' | Score: 0.7617
+  Tokens: [' conversation', ' chat', ' talk', ' discussion', ' dialogue', ' talking']
+Rank 2 | Centroid: ' casual' | Score: 0.0537
+  Tokens: [' casual', ' spontaneous', ' verbal']
+Rank 3 | Centroid: ' nice' | Score: 0.0317
+  Tokens: [' friendly', ' nice', ' good']
+Rank 4 | Centroid: ' humorous' | Score: 0.0309
+  Tokens: [' playful', ' joke', ' humorous', ' laugh', ' prank', ' joking', ' witty']
+Rank 5 | Centroid: ' connection' | Score: 0.0225
+  Tokens: [' relationship', ' connection', ' meeting', ' bonding', ' interaction', ' rapport', ' communication']
+Rank 6 | Centroid: ' date' | Score: 0.0157
+  Tokens: [' date', ' dating', ' day', ' daily']
+Rank 7 | Centroid: ' weird' | Score: 0.0146
+  Tokens: [' funny', ' strange', ' weird', ' quirky', ' mysterious', ' bizarre', ' silly', ' peculiar', ' surprising', ' awkward']
+Rank 8 | Centroid: ' genuine' | Score: 0.0110
+  Tokens: [' meaningful', ' lively', ' harmless', ' genuine']
+Rank 9 | Centroid: ' romantic' | Score: 0.0083
+  Tokens: [' romantic', ' rom', ' ple', ' ram', ' romance']
+Rank 10 | Centroid: ' game' | Score: 0.0055
+  Tokens: [' game', ' fun', ' play']
+Rank 11 | Centroid: ' friendship' | Score: 0.0045
+  Tokens: [' friendship', ' friend']
+Rank 12 | Centroid: ' small' | Score: 0.0044
+  Tokens: [' new', ' non', ' small', ' light', ' long', ' late']
+Rank 13 | Centroid: ' random' | Score: 0.0037
+  Tokens: [' random', ' ban', ' mon', ' private', ' social']
+Rank 14 | Centroid: ' story' | Score: 0.0020
+  Tokens: [' story', ' situation', ' journey', ' tale', ' project']
+Rank 15 | Centroid: ' charming' | Score: 0.0018
+  Tokens: [' pleasant', ' heartfelt', ' charming', ' cute', ' comforting']
+Rank 16 | Centroid: ' warm' | Score: 0.0015
+  Tokens: [' warm', ' quiet', ' heated', ' cold']
+Rank 17 | Centroid: ' serious' | Score: 0.0014
+  Tokens: [' serious', ' normal']
+Rank 18 | Centroid: ' ritual' | Score: 0.0010
+  Tokens: [' routine', ' ritual', ' mundane']
+Rank 19 | Centroid: ' flirt' | Score: 0.0009
+  Tokens: [' flirt', ' texting']
+Rank 20 | Centroid: ' problematic' | Score: 0.0007
+  Tokens: [' seemingly', ' problematic', ' reluctant']
+Rank 21 | Centroid: ' misunderstanding' | Score: 0.0006
+  Tokens: [' misunderstanding']
+Rank 22 | Centroid: ' coffee' | Score: 0.0006
+  Tokens: [' call', ' coffee', ' tea']
+Rank 23 | Centroid: ' surprise' | Score: 0.0004
+  Tokens: [' surprise', ' secret']
+Rank 24 | Centroid: ' series' | Score: 0.0003
+  Tokens: [' series']
+Rank 25 | Centroid: ' visit' | Score: 0.0003
+  Tokens: [' visit']
 
 **Chosen Concept:** Rank 1

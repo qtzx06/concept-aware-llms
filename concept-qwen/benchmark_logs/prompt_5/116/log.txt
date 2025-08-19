@@ -1,138 +1,132 @@
 --- Step 116 Log ---
 
 == Filtered Candidates ==
-Token: ' statement' (ID: 5114), Prob: 1.0000
-Token: ' sentence' (ID: 11652), Prob: 0.0000
-Token: ' answer' (ID: 4226), Prob: 0.0000
-Token: ' statements' (ID: 12239), Prob: 0.0000
-Token: ' Statement' (ID: 21756), Prob: 0.0000
-Token: ' story' (ID: 3364), Prob: 0.0000
-Token: ' final' (ID: 1590), Prob: 0.0000
-Token: 'statement' (ID: 24184), Prob: 0.0000
-Token: ' conclusion' (ID: 16688), Prob: 0.0000
-Token: ' general' (ID: 4586), Prob: 0.0000
-Token: ' situation' (ID: 6534), Prob: 0.0000
-Token: ' stated' (ID: 10982), Prob: 0.0000
-Token: ' following' (ID: 2701), Prob: 0.0000
-Token: ' subject' (ID: 3832), Prob: 0.0000
-Token: ' paragraph' (ID: 14311), Prob: 0.0000
-Token: ' question' (ID: 3405), Prob: 0.0000
-Token: ' original' (ID: 4024), Prob: 0.0000
-Token: ' student' (ID: 5458), Prob: 0.0000
-Token: ' phrase' (ID: 17133), Prob: 0.0000
-Token: ' given' (ID: 2661), Prob: 0.0000
-Token: ' choice' (ID: 5754), Prob: 0.0000
-Token: ' description' (ID: 4008), Prob: 0.0000
-Token: ' correct' (ID: 4396), Prob: 0.0000
-Token: ' text' (ID: 1467), Prob: 0.0000
-Token: ' information' (ID: 1995), Prob: 0.0000
-Token: ' meaning' (ID: 7290), Prob: 0.0000
-Token: ' response' (ID: 2033), Prob: 0.0000
-Token: ' claim' (ID: 3717), Prob: 0.0000
-Token: ' table' (ID: 1965), Prob: 0.0000
-Token: ' summary' (ID: 12126), Prob: 0.0000
-Token: ' message' (ID: 1943), Prob: 0.0000
-Token: ' sentiment' (ID: 25975), Prob: 0.0000
-Token: ' time' (ID: 882), Prob: 0.0000
-Token: ' number' (ID: 1372), Prob: 0.0000
-Token: ' truth' (ID: 8046), Prob: 0.0000
-Token: ' stat' (ID: 2793), Prob: 0.0000
-Token: ' study' (ID: 3920), Prob: 0.0000
-Token: '	statement' (ID: 89566), Prob: 0.0000
-Token: ' two' (ID: 1378), Prob: 0.0000
-Token: ' amount' (ID: 3311), Prob: 0.0000
-Token: ' assistant' (ID: 17847), Prob: 0.0000
-Token: ' moment' (ID: 4445), Prob: 0.0000
-Token: ' scene' (ID: 6109), Prob: 0.0000
-Token: ' letter' (ID: 6524), Prob: 0.0000
-Token: ' expression' (ID: 7493), Prob: 0.0000
-Token: ' suff' (ID: 8489), Prob: 0.0000
-Token: ' previous' (ID: 3681), Prob: 0.0000
-Token: ' motion' (ID: 11379), Prob: 0.0000
-Token: ' change' (ID: 2297), Prob: 0.0000
-Token: ' argument' (ID: 5693), Prob: 0.0000
-Token: ' solution' (ID: 6291), Prob: 0.0000
-Token: ' prompt' (ID: 9934), Prob: 0.0000
-Token: ' wording' (ID: 60227), Prob: 0.0000
-Token: ' string' (ID: 914), Prob: 0.0000
-Token: ' suggestion' (ID: 23776), Prob: 0.0000
-Token: ' second' (ID: 2086), Prob: 0.0000
-Token: ' structure' (ID: 5944), Prob: 0.0000
-Token: ' assertion' (ID: 27419), Prob: 0.0000
-Token: ' premise' (ID: 40202), Prob: 0.0000
-Token: ' one' (ID: 825), Prob: 0.0000
-Token: ' state' (ID: 1584), Prob: 0.0000
-Token: 'Statement' (ID: 8636), Prob: 0.0000
-Token: ' assumption' (ID: 24335), Prob: 0.0000
-Token: ' initial' (ID: 2856), Prob: 0.0000
-Token: ' reason' (ID: 2874), Prob: 0.0000
-Token: ' standard' (ID: 5297), Prob: 0.0000
-Token: ' theme' (ID: 6912), Prob: 0.0000
-Token: ' entire' (ID: 4453), Prob: 0.0000
-Token: ' beginning' (ID: 7167), Prob: 0.0000
-Token: ' passage' (ID: 21085), Prob: 0.0000
-Token: ' user' (ID: 1196), Prob: 0.0000
-Token: ' context' (ID: 2266), Prob: 0.0000
+Token: ' like' (ID: 1075), Prob: 0.9688
+Token: ' perhaps' (ID: 8365), Prob: 0.0227
+Token: ' maybe' (ID: 7196), Prob: 0.0040
+Token: ' resolution' (ID: 10935), Prob: 0.0005
+Token: ' something' (ID: 2494), Prob: 0.0002
+Token: ' climax' (ID: 70195), Prob: 0.0001
+Token: ' conflict' (ID: 12055), Prob: 0.0000
+Token: ' showing' (ID: 9027), Prob: 0.0000
+Token: ' action' (ID: 1917), Prob: 0.0000
+Token: ' tension' (ID: 23504), Prob: 0.0000
+Token: ' growth' (ID: 6513), Prob: 0.0000
+Token: ' possibly' (ID: 10767), Prob: 0.0000
+Token: ' dialogue' (ID: 21276), Prob: 0.0000
+Token: ' leading' (ID: 6388), Prob: 0.0000
+Token: ' probably' (ID: 4658), Prob: 0.0000
+Token: ' triumph' (ID: 37486), Prob: 0.0000
+Token: ' resolve' (ID: 8830), Prob: 0.0000
 Token: ' problem' (ID: 3491), Prob: 0.0000
-Token: ' comment' (ID: 3980), Prob: 0.0000
-Token: ' rest' (ID: 2732), Prob: 0.0000
-Token: ' best' (ID: 1850), Prob: 0.0000
-Token: ' photo' (ID: 6548), Prob: 0.0000
-Token: ' topic' (ID: 8544), Prob: 0.0000
-Token: ' scenario' (ID: 15048), Prob: 0.0000
-Token: ' stimulus' (ID: 38435), Prob: 0.0000
-Token: ' construction' (ID: 8086), Prob: 0.0000
-Token: ' blank' (ID: 10113), Prob: 0.0000
-Token: ' comparison' (ID: 12313), Prob: 0.0000
+Token: ' hope' (ID: 3900), Prob: 0.0000
+Token: ' let' (ID: 1077), Prob: 0.0000
+Token: 'like' (ID: 4803), Prob: 0.0000
+Token: ' challenge' (ID: 8645), Prob: 0.0000
+Token: ' say' (ID: 1977), Prob: 0.0000
+Token: ' discovery' (ID: 18335), Prob: 0.0000
+Token: ' hesitation' (ID: 64337), Prob: 0.0000
+Token: ' end' (ID: 835), Prob: 0.0000
+Token: ' decision' (ID: 5480), Prob: 0.0000
+Token: ' solving' (ID: 21828), Prob: 0.0000
+Token: ' excitement' (ID: 27262), Prob: 0.0000
+Token: ' ending' (ID: 13391), Prob: 0.0000
+Token: ' solution' (ID: 6291), Prob: 0.0000
+Token: ' struggle' (ID: 14651), Prob: 0.0000
+Token: ' determination' (ID: 25248), Prob: 0.0000
+Token: ' expression' (ID: 7493), Prob: 0.0000
+Token: ' especially' (ID: 5310), Prob: 0.0000
+Token: ' solve' (ID: 11625), Prob: 0.0000
+Token: ' tradition' (ID: 13815), Prob: 0.0000
+Token: ' twist' (ID: 26646), Prob: 0.0000
+Token: ' realization' (ID: 48703), Prob: 0.0000
+Token: ' show' (ID: 1473), Prob: 0.0000
+Token: ' loss' (ID: 4709), Prob: 0.0000
+Token: ' pride' (ID: 21770), Prob: 0.0000
+Token: ' interaction' (ID: 16230), Prob: 0.0000
+Token: ' rivalry' (ID: 59922), Prob: 0.0000
+Token: ' even' (ID: 1496), Prob: 0.0000
+Token: ' happy' (ID: 6247), Prob: 0.0000
+Token: ' doubt' (ID: 10492), Prob: 0.0000
+Token: ' sort' (ID: 3378), Prob: 0.0000
+Token: ' lesson' (ID: 17755), Prob: 0.0000
+Token: ' trying' (ID: 4460), Prob: 0.0000
+Token: ' danger' (ID: 7978), Prob: 0.0000
+Token: ' satisfaction' (ID: 23689), Prob: 0.0000
+Token: ' resolving' (ID: 52483), Prob: 0.0000
+Token: ' think' (ID: 1744), Prob: 0.0000
+Token: ' example' (ID: 3110), Prob: 0.0000
+Token: ' emotions' (ID: 21261), Prob: 0.0000
+Token: ' building' (ID: 4752), Prob: 0.0000
+Token: ' light' (ID: 3100), Prob: 0.0000
+Token: ' finally' (ID: 5499), Prob: 0.0000
+Token: ' stress' (ID: 8464), Prob: 0.0000
+Token: ' adventure' (ID: 17943), Prob: 0.0000
+Token: ' teamwork' (ID: 83533), Prob: 0.0000
+Token: ' risk' (ID: 5214), Prob: 0.0000
+Token: ' happiness' (ID: 23009), Prob: 0.0000
+Token: ' planning' (ID: 9115), Prob: 0.0000
+Token: ' sacrifice' (ID: 27136), Prob: 0.0000
+Token: ' using' (ID: 1667), Prob: 0.0000
+Token: ' effort' (ID: 5041), Prob: 0.0000
+Token: ' wonder' (ID: 5775), Prob: 0.0000
+Token: ' turning' (ID: 13054), Prob: 0.0000
+Token: ' conclusion' (ID: 16688), Prob: 0.0000
+Token: ' Perhaps' (ID: 18765), Prob: 0.0000
+Token: ' learning' (ID: 6832), Prob: 0.0000
+Token: ' similar' (ID: 4428), Prob: 0.0000
+Token: ' creation' (ID: 9688), Prob: 0.0000
+Token: ' try' (ID: 1430), Prob: 0.0000
+Token: ' kind' (ID: 3093), Prob: 0.0000
+Token: ' though' (ID: 3498), Prob: 0.0000
+Token: ' actions' (ID: 6168), Prob: 0.0000
+Token: ' resistance' (ID: 13643), Prob: 0.0000
+Token: ' inspiration' (ID: 19760), Prob: 0.0000
 
 == Ranked Concepts (Clusters) ==
-Rank 1 | Centroid: ' statement' | Score: 1.0000
-  Tokens: [' statement', ' statements', ' Statement', 'statement', ' stated', '\tstatement', 'Statement']
-Rank 2 | Centroid: ' phrase' | Score: 0.0000
-  Tokens: [' sentence', ' paragraph', ' phrase', ' wording']
-Rank 3 | Centroid: ' question' | Score: 0.0000
-  Tokens: [' answer', ' question', ' problem']
-Rank 4 | Centroid: ' initial' | Score: 0.0000
-  Tokens: [' general', ' following', ' original', ' given', ' correct', ' previous', ' initial', ' standard', ' entire', ' beginning']
-Rank 5 | Centroid: ' assertion' | Score: 0.0000
-  Tokens: [' conclusion', ' claim', ' argument', ' suggestion', ' assertion', ' premise', ' assumption']
-Rank 6 | Centroid: ' two' | Score: 0.0000
-  Tokens: [' final', ' two', ' second', ' one', ' best']
-Rank 7 | Centroid: ' photo' | Score: 0.0000
-  Tokens: [' story', ' moment', ' photo']
-Rank 8 | Centroid: ' scenario' | Score: 0.0000
-  Tokens: [' situation', ' scene', ' context', ' scenario']
-Rank 9 | Centroid: ' topic' | Score: 0.0000
-  Tokens: [' subject', ' theme', ' topic']
-Rank 10 | Centroid: ' student' | Score: 0.0000
-  Tokens: [' student', ' table', ' study', ' user']
-Rank 11 | Centroid: ' solution' | Score: 0.0000
-  Tokens: [' choice', ' response', ' change', ' solution']
-Rank 12 | Centroid: ' text' | Score: 0.0000
-  Tokens: [' text', ' message', ' letter', ' string']
-Rank 13 | Centroid: ' number' | Score: 0.0000
-  Tokens: [' information', ' number', ' amount']
-Rank 14 | Centroid: ' stat' | Score: 0.0000
-  Tokens: [' time', ' stat', ' state']
-Rank 15 | Centroid: ' description' | Score: 0.0000
-  Tokens: [' description', ' expression']
-Rank 16 | Centroid: ' motion' | Score: 0.0000
-  Tokens: [' truth', ' motion', ' rest']
-Rank 17 | Centroid: ' stimulus' | Score: 0.0000
-  Tokens: [' suff', ' prompt', ' stimulus', ' blank']
-Rank 18 | Centroid: ' meaning' | Score: 0.0000
-  Tokens: [' meaning']
-Rank 19 | Centroid: ' sentiment' | Score: 0.0000
-  Tokens: [' sentiment', ' passage']
-Rank 20 | Centroid: ' summary' | Score: 0.0000
-  Tokens: [' summary', ' comparison']
-Rank 21 | Centroid: ' structure' | Score: 0.0000
-  Tokens: [' structure', ' construction']
-Rank 22 | Centroid: ' assistant' | Score: 0.0000
-  Tokens: [' assistant']
-Rank 23 | Centroid: ' reason' | Score: 0.0000
-  Tokens: [' reason']
-Rank 24 | Centroid: ' comment' | Score: 0.0000
-  Tokens: [' comment']
+Rank 1 | Centroid: ' like' | Score: 0.9688
+  Tokens: [' like', 'like', ' similar']
+Rank 2 | Centroid: ' perhaps' | Score: 0.0270
+  Tokens: [' perhaps', ' maybe', ' something', ' possibly', ' probably', ' Perhaps', ' though']
+Rank 3 | Centroid: ' resolving' | Score: 0.0005
+  Tokens: [' resolution', ' resolve', ' resolving', ' resistance']
+Rank 4 | Centroid: ' happiness' | Score: 0.0001
+  Tokens: [' climax', ' triumph', ' excitement', ' twist', ' pride', ' happy', ' satisfaction', ' emotions', ' happiness']
+Rank 5 | Centroid: ' danger' | Score: 0.0001
+  Tokens: [' conflict', ' tension', ' challenge', ' danger', ' stress', ' risk']
+Rank 6 | Centroid: ' actions' | Score: 0.0000
+  Tokens: [' action', ' dialogue', ' interaction', ' actions']
+Rank 7 | Centroid: ' showing' | Score: 0.0000
+  Tokens: [' showing', ' show', ' using']
+Rank 8 | Centroid: ' ending' | Score: 0.0000
+  Tokens: [' leading', ' end', ' ending', ' light']
+Rank 9 | Centroid: ' growth' | Score: 0.0000
+  Tokens: [' growth', ' loss']
+Rank 10 | Centroid: ' determination' | Score: 0.0000
+  Tokens: [' discovery', ' decision', ' determination', ' expression', ' realization', ' creation']
+Rank 11 | Centroid: ' solve' | Score: 0.0000
+  Tokens: [' problem', ' solving', ' solution', ' solve']
+Rank 12 | Centroid: ' try' | Score: 0.0000
+  Tokens: [' let', ' say', ' trying', ' think', ' try']
+Rank 13 | Centroid: ' struggle' | Score: 0.0000
+  Tokens: [' hesitation', ' struggle', ' rivalry', ' doubt', ' sacrifice']
+Rank 14 | Centroid: ' hope' | Score: 0.0000
+  Tokens: [' hope', ' wonder']
+Rank 15 | Centroid: ' adventure' | Score: 0.0000
+  Tokens: [' tradition', ' adventure', ' teamwork', ' inspiration']
+Rank 16 | Centroid: ' lesson' | Score: 0.0000
+  Tokens: [' lesson', ' example', ' planning', ' learning']
+Rank 17 | Centroid: ' especially' | Score: 0.0000
+  Tokens: [' especially', ' even']
+Rank 18 | Centroid: ' sort' | Score: 0.0000
+  Tokens: [' sort', ' kind']
+Rank 19 | Centroid: ' building' | Score: 0.0000
+  Tokens: [' building', ' turning']
+Rank 20 | Centroid: ' finally' | Score: 0.0000
+  Tokens: [' finally']
+Rank 21 | Centroid: ' effort' | Score: 0.0000
+  Tokens: [' effort']
+Rank 22 | Centroid: ' conclusion' | Score: 0.0000
+  Tokens: [' conclusion']
 
 **Chosen Concept:** Rank 1

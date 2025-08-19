@@ -1,0 +1,82 @@
+--- Step 24 Log ---
+
+== Filtered Candidates ==
+Token: ' Maybe' (ID: 10696), Prob: 0.0003
+Token: ' Let' (ID: 6771), Prob: 0.0002
+Token: ' Since' (ID: 8704), Prob: 0.0002
+Token: ' Hmm' (ID: 88190), Prob: 0.0001
+Token: ' Wait' (ID: 13824), Prob: 0.0000
+Token: ' Looking' (ID: 21131), Prob: 0.0000
+Token: ' One' (ID: 3776), Prob: 0.0000
+Token: ' Could' (ID: 16503), Prob: 0.0000
+Token: ' Focus' (ID: 25806), Prob: 0.0000
+Token: ' However' (ID: 4354), Prob: 0.0000
+Token: ' Common' (ID: 7718), Prob: 0.0000
+Token: ' Words' (ID: 27630), Prob: 0.0000
+Token: ' Without' (ID: 17147), Prob: 0.0000
+Token: ' Suppose' (ID: 82610), Prob: 0.0000
+Token: ' Perhaps' (ID: 18765), Prob: 0.0000
+Token: ' Usually' (ID: 32967), Prob: 0.0000
+Token: ' Something' (ID: 24656), Prob: 0.0000
+Token: ' Dreams' (ID: 52618), Prob: 0.0000
+Token: ' Highlight' (ID: 55994), Prob: 0.0000
+Token: ' Sur' (ID: 8082), Prob: 0.0000
+Token: ' Look' (ID: 9192), Prob: 0.0000
+Token: ' Person' (ID: 7357), Prob: 0.0000
+Token: ' Probably' (ID: 37154), Prob: 0.0000
+Token: ' Sometimes' (ID: 17688), Prob: 0.0000
+Token: ' Vision' (ID: 30441), Prob: 0.0000
+Token: ' Next' (ID: 9295), Prob: 0.0000
+Token: ' Based' (ID: 20205), Prob: 0.0000
+Token: ' Among' (ID: 21658), Prob: 0.0000
+Token: ' Mention' (ID: 85148), Prob: 0.0000
+Token: ' Find' (ID: 7379), Prob: 0.0000
+Token: ' Possible' (ID: 36107), Prob: 0.0000
+Token: ' According' (ID: 10548), Prob: 0.0000
+Token: ' People' (ID: 8853), Prob: 0.0000
+Token: ' Unfortunately' (ID: 18656), Prob: 0.0000
+Token: ' Observ' (ID: 30843), Prob: 0.0000
+Token: ' Time' (ID: 4120), Prob: 0.0000
+Token: ' Today' (ID: 11201), Prob: 0.0000
+Token: ' Everything' (ID: 20094), Prob: 0.0000
+Token: ' Typically' (ID: 45302), Prob: 0.0000
+
+== Ranked Concepts (Clusters) ==
+Rank 1 | Centroid: ' Maybe' | Score: 0.0003
+  Tokens: [' Maybe', ' Could', ' Perhaps', ' Probably', ' Possible']
+Rank 2 | Centroid: ' Let' | Score: 0.0002
+  Tokens: [' Let', ' Suppose']
+Rank 3 | Centroid: ' However' | Score: 0.0002
+  Tokens: [' Since', ' However', ' Unfortunately']
+Rank 4 | Centroid: ' Hmm' | Score: 0.0001
+  Tokens: [' Hmm']
+Rank 5 | Centroid: ' Looking' | Score: 0.0000
+  Tokens: [' Looking', ' Look']
+Rank 6 | Centroid: ' Wait' | Score: 0.0000
+  Tokens: [' Wait', ' Find']
+Rank 7 | Centroid: ' One' | Score: 0.0000
+  Tokens: [' One', ' Next', ' Time']
+Rank 8 | Centroid: ' Something' | Score: 0.0000
+  Tokens: [' Words', ' Something', ' Everything']
+Rank 9 | Centroid: ' According' | Score: 0.0000
+  Tokens: [' Without', ' Based', ' Among', ' According']
+Rank 10 | Centroid: ' Focus' | Score: 0.0000
+  Tokens: [' Focus']
+Rank 11 | Centroid: ' Usually' | Score: 0.0000
+  Tokens: [' Usually', ' Sometimes', ' Typically']
+Rank 12 | Centroid: ' Common' | Score: 0.0000
+  Tokens: [' Common']
+Rank 13 | Centroid: ' Dreams' | Score: 0.0000
+  Tokens: [' Dreams', ' Vision']
+Rank 14 | Centroid: ' Highlight' | Score: 0.0000
+  Tokens: [' Highlight', ' Mention']
+Rank 15 | Centroid: ' Person' | Score: 0.0000
+  Tokens: [' Person', ' People']
+Rank 16 | Centroid: ' Sur' | Score: 0.0000
+  Tokens: [' Sur']
+Rank 17 | Centroid: ' Observ' | Score: 0.0000
+  Tokens: [' Observ']
+Rank 18 | Centroid: ' Today' | Score: 0.0000
+  Tokens: [' Today']
+
+**Chosen Concept:** Rank 1

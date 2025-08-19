@@ -1,80 +1,99 @@
 --- Step 136 Log ---
 
 == Filtered Candidates ==
-Token: ' yes' (ID: 9834), Prob: 0.9766
-Token: ' yeah' (ID: 21639), Prob: 0.0002
-Token: 'yes' (ID: 9693), Prob: 0.0000
-Token: ' Yes' (ID: 7414), Prob: 0.0000
-Token: ' maybe' (ID: 7196), Prob: 0.0000
-Token: ' something' (ID: 2494), Prob: 0.0000
-Token: ' hello' (ID: 23811), Prob: 0.0000
-Token: ' YES' (ID: 14080), Prob: 0.0000
-Token: ' exactly' (ID: 6896), Prob: 0.0000
-Token: ' nothing' (ID: 4302), Prob: 0.0000
-Token: '=yes' (ID: 59565), Prob: 0.0000
-Token: ' whether' (ID: 3425), Prob: 0.0000
-Token: ' etc' (ID: 4992), Prob: 0.0000
-Token: ' positive' (ID: 6785), Prob: 0.0000
-Token: ' answer' (ID: 4226), Prob: 0.0000
-Token: ' okay' (ID: 16910), Prob: 0.0000
-Token: ' also' (ID: 1083), Prob: 0.0000
-Token: ' wait' (ID: 3783), Prob: 0.0000
-Token: ' always' (ID: 2677), Prob: 0.0000
-Token: ' say' (ID: 1977), Prob: 0.0000
-Token: ' one' (ID: 825), Prob: 0.0000
+Token: ' destination' (ID: 9106), Prob: 0.0006
+Token: ' trip' (ID: 8411), Prob: 0.0000
+Token: ' reach' (ID: 5545), Prob: 0.0000
+Token: ' home' (ID: 2114), Prob: 0.0000
+Token: ' destinations' (ID: 33105), Prob: 0.0000
+Token: ' good' (ID: 1661), Prob: 0.0000
+Token: ' progress' (ID: 5098), Prob: 0.0000
+Token: ' past' (ID: 3267), Prob: 0.0000
+Token: ' arrival' (ID: 18647), Prob: 0.0000
+Token: ' sense' (ID: 5530), Prob: 0.0000
+Token: ' journey' (ID: 11618), Prob: 0.0000
+Token: ' safe' (ID: 6092), Prob: 0.0000
+Token: ' back' (ID: 1182), Prob: 0.0000
+Token: '_it' (ID: 14631), Prob: 0.0000
+Token: ' camp' (ID: 3113), Prob: 0.0000
+Token: ' ends' (ID: 10335), Prob: 0.0000
+Token: ' place' (ID: 1992), Prob: 0.0000
+Token: ' dest' (ID: 3201), Prob: 0.0000
+Token: ' destiny' (ID: 46076), Prob: 0.0000
+Token: ' destin' (ID: 50987), Prob: 0.0000
+Token: ' site' (ID: 2747), Prob: 0.0000
+Token: ' success' (ID: 2393), Prob: 0.0000
+Token: ' right' (ID: 1290), Prob: 0.0000
+Token: ' got' (ID: 2684), Prob: 0.0000
+Token: ' end' (ID: 835), Prob: 0.0000
 Token: ' sure' (ID: 2704), Prob: 0.0000
-Token: ' none' (ID: 6857), Prob: 0.0000
-Token: ' negative' (ID: 8225), Prob: 0.0000
-Token: ' possible' (ID: 3204), Prob: 0.0000
-Token: ' yet' (ID: 3602), Prob: 0.0000
-Token: ' please' (ID: 4486), Prob: 0.0000
-Token: ' unknown' (ID: 9788), Prob: 0.0000
-Token: ' based' (ID: 3118), Prob: 0.0000
-Token: ' either' (ID: 2987), Prob: 0.0000
+Token: ' town' (ID: 6290), Prob: 0.0000
+Token: ' final' (ID: 1590), Prob: 0.0000
+Token: ' travel' (ID: 5821), Prob: 0.0000
+Token: ' contact' (ID: 3645), Prob: 0.0000
+Token: ' safety' (ID: 7149), Prob: 0.0000
+Token: ' get' (ID: 633), Prob: 0.0000
+Token: ' way' (ID: 1616), Prob: 0.0000
+Token: ' land' (ID: 4268), Prob: 0.0000
+Token: '(destination' (ID: 48076), Prob: 0.0000
+Token: ' everyone' (ID: 5019), Prob: 0.0000
+Token: ' successful' (ID: 6849), Prob: 0.0000
+Token: ' goal' (ID: 5795), Prob: 0.0000
+Token: ' meaning' (ID: 7290), Prob: 0.0000
+Token: ' reaching' (ID: 18739), Prob: 0.0000
+Token: '-to' (ID: 4686), Prob: 0.0000
+Token: ' intent' (ID: 7385), Prob: 0.0000
+Token: ' purpose' (ID: 7428), Prob: 0.0000
+Token: ' itinerary' (ID: 72904), Prob: 0.0000
+Token: ' trips' (ID: 22466), Prob: 0.0000
+Token: ' due' (ID: 4152), Prob: 0.0000
+Token: ' road' (ID: 5636), Prob: 0.0000
+Token: 'destination' (ID: 17997), Prob: 0.0000
+Token: ' mission' (ID: 8954), Prob: 0.0000
+Token: ' time' (ID: 882), Prob: 0.0000
+Token: ' plan' (ID: 3119), Prob: 0.0000
+Token: ' route' (ID: 6021), Prob: 0.0000
+Token: ' landing' (ID: 20327), Prob: 0.0000
 Token: ' enough' (ID: 3322), Prob: 0.0000
-Token: ' without' (ID: 2041), Prob: 0.0000
-Token: ' correct' (ID: 4396), Prob: 0.0000
-Token: ' zero' (ID: 7168), Prob: 0.0000
-Token: ' another' (ID: 2441), Prob: 0.0000
+Token: ' ahead' (ID: 8305), Prob: 0.0000
+Token: ' sight' (ID: 13929), Prob: 0.0000
 
 == Ranked Concepts (Clusters) ==
-Rank 1 | Centroid: ' yes' | Score: 0.9766
-  Tokens: [' yes', ' yeah', 'yes', ' Yes', ' YES', '=yes']
-Rank 2 | Centroid: ' nothing' | Score: 0.0000
-  Tokens: [' something', ' nothing', ' none']
-Rank 3 | Centroid: ' maybe' | Score: 0.0000
-  Tokens: [' maybe', ' possible']
-Rank 4 | Centroid: ' hello' | Score: 0.0000
-  Tokens: [' hello', ' please']
-Rank 5 | Centroid: ' also' | Score: 0.0000
-  Tokens: [' also', ' always']
-Rank 6 | Centroid: ' wait' | Score: 0.0000
-  Tokens: [' wait', ' say']
-Rank 7 | Centroid: ' positive' | Score: 0.0000
-  Tokens: [' positive', ' negative']
-Rank 8 | Centroid: ' exactly' | Score: 0.0000
-  Tokens: [' exactly']
-Rank 9 | Centroid: ' whether' | Score: 0.0000
-  Tokens: [' whether', ' either']
-Rank 10 | Centroid: ' answer' | Score: 0.0000
-  Tokens: [' answer', ' correct']
-Rank 11 | Centroid: ' etc' | Score: 0.0000
-  Tokens: [' etc']
-Rank 12 | Centroid: ' okay' | Score: 0.0000
-  Tokens: [' okay']
-Rank 13 | Centroid: ' one' | Score: 0.0000
-  Tokens: [' one', ' another']
-Rank 14 | Centroid: ' based' | Score: 0.0000
-  Tokens: [' based', ' without']
-Rank 15 | Centroid: ' sure' | Score: 0.0000
-  Tokens: [' sure']
-Rank 16 | Centroid: ' yet' | Score: 0.0000
-  Tokens: [' yet']
-Rank 17 | Centroid: ' unknown' | Score: 0.0000
-  Tokens: [' unknown']
-Rank 18 | Centroid: ' enough' | Score: 0.0000
-  Tokens: [' enough']
-Rank 19 | Centroid: ' zero' | Score: 0.0000
-  Tokens: [' zero']
+Rank 1 | Centroid: ' destination' | Score: 0.0006
+  Tokens: [' destination', ' destinations', ' dest', ' destiny', ' destin', '(destination', 'destination']
+Rank 2 | Centroid: '-to' | Score: 0.0000
+  Tokens: [' home', ' past', ' back', ' right', '-to', ' due', ' time']
+Rank 3 | Centroid: ' trip' | Score: 0.0000
+  Tokens: [' trip', ' journey', ' travel', ' itinerary', ' trips']
+Rank 4 | Centroid: ' reaching' | Score: 0.0000
+  Tokens: [' reach', ' arrival', ' reaching']
+Rank 5 | Centroid: ' successful' | Score: 0.0000
+  Tokens: [' good', ' progress', ' success', ' successful']
+Rank 6 | Centroid: ' camp' | Score: 0.0000
+  Tokens: [' camp', ' site', ' town']
+Rank 7 | Centroid: ' sense' | Score: 0.0000
+  Tokens: [' sense', ' meaning']
+Rank 8 | Centroid: ' ends' | Score: 0.0000
+  Tokens: [' ends', ' end', ' final']
+Rank 9 | Centroid: ' safe' | Score: 0.0000
+  Tokens: [' safe', ' safety']
+Rank 10 | Centroid: '_it' | Score: 0.0000
+  Tokens: ['_it', ' ahead']
+Rank 11 | Centroid: ' get' | Score: 0.0000
+  Tokens: [' got', ' contact', ' get']
+Rank 12 | Centroid: ' landing' | Score: 0.0000
+  Tokens: [' place', ' land', ' landing']
+Rank 13 | Centroid: ' everyone' | Score: 0.0000
+  Tokens: [' sure', ' everyone', ' enough']
+Rank 14 | Centroid: ' purpose' | Score: 0.0000
+  Tokens: [' goal', ' intent', ' purpose']
+Rank 15 | Centroid: ' way' | Score: 0.0000
+  Tokens: [' way']
+Rank 16 | Centroid: ' road' | Score: 0.0000
+  Tokens: [' road', ' route']
+Rank 17 | Centroid: ' mission' | Score: 0.0000
+  Tokens: [' mission', ' plan']
+Rank 18 | Centroid: ' sight' | Score: 0.0000
+  Tokens: [' sight']
 
 **Chosen Concept:** Rank 1

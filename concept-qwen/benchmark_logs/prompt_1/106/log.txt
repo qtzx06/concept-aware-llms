@@ -1,117 +1,155 @@
 --- Step 106 Log ---
 
 == Filtered Candidates ==
-Token: ' let' (ID: 1077), Prob: 0.3066
-Token: ' putting' (ID: 10687), Prob: 0.0173
-Token: ' start' (ID: 1191), Prob: 0.0064
-Token: ' got' (ID: 2684), Prob: 0.0056
-Token: ' starting' (ID: 5916), Prob: 0.0056
-Token: ' need' (ID: 1184), Prob: 0.0034
-Token: ' time' (ID: 882), Prob: 0.0023
-Token: ' first' (ID: 1156), Prob: 0.0023
-Token: ' maybe' (ID: 7196), Prob: 0.0011
-Token: ' getting' (ID: 3709), Prob: 0.0007
-Token: ' structure' (ID: 5944), Prob: 0.0005
-Token: ' combining' (ID: 34171), Prob: 0.0005
-Token: ' user' (ID: 1196), Prob: 0.0005
-Token: ' struct' (ID: 2036), Prob: 0.0005
-Token: ' perhaps' (ID: 8365), Prob: 0.0004
-Token: ' think' (ID: 1744), Prob: 0.0004
-Token: ' writing' (ID: 4378), Prob: 0.0003
-Token: ' forming' (ID: 29064), Prob: 0.0002
-Token: ' draft' (ID: 9960), Prob: 0.0002
-Token: ' breaking' (ID: 14719), Prob: 0.0002
-Token: ' composing' (ID: 75878), Prob: 0.0002
-Token: ' get' (ID: 633), Prob: 0.0002
-Token: ' compose' (ID: 30335), Prob: 0.0002
-Token: ' starts' (ID: 8471), Prob: 0.0001
-Token: ' ready' (ID: 5527), Prob: 0.0001
-Token: ' composition' (ID: 18037), Prob: 0.0001
-Token: ' completing' (ID: 26568), Prob: 0.0001
-Token: ' integrating' (ID: 53852), Prob: 0.0001
-Token: ' put' (ID: 2182), Prob: 0.0001
-Token: ' drafting' (ID: 57900), Prob: 0.0001
-Token: ' final' (ID: 1590), Prob: 0.0001
-Token: ' wait' (ID: 3783), Prob: 0.0001
-Token: ' focusing' (ID: 21080), Prob: 0.0001
-Token: ' creating' (ID: 6825), Prob: 0.0001
-Token: ' step' (ID: 3019), Prob: 0.0001
-Token: ' sentence' (ID: 11652), Prob: 0.0001
-Token: ' planning' (ID: 9115), Prob: 0.0001
-Token: ' outline' (ID: 21101), Prob: 0.0001
-Token: ' structured' (ID: 32930), Prob: 0.0001
-Token: ' crafting' (ID: 44067), Prob: 0.0001
-Token: ' thinking' (ID: 7274), Prob: 0.0001
-Token: ' building' (ID: 4752), Prob: 0.0000
-Token: ' looking' (ID: 3330), Prob: 0.0000
-Token: ' align' (ID: 5285), Prob: 0.0000
-Token: ' grammar' (ID: 31428), Prob: 0.0000
-Token: ' shaping' (ID: 45520), Prob: 0.0000
-Token: ' making' (ID: 3259), Prob: 0.0000
-Token: ' paragraph' (ID: 14311), Prob: 0.0000
-Token: ' started' (ID: 3855), Prob: 0.0000
-Token: ' trying' (ID: 4460), Prob: 0.0000
-Token: ' example' (ID: 3110), Prob: 0.0000
-Token: ' rewriting' (ID: 94445), Prob: 0.0000
-Token: ' plan' (ID: 3119), Prob: 0.0000
-Token: ' write' (ID: 3270), Prob: 0.0000
-Token: ' form' (ID: 1352), Prob: 0.0000
-Token: ' focus' (ID: 5244), Prob: 0.0000
-Token: ' Let' (ID: 6771), Prob: 0.0000
-Token: ' one' (ID: 825), Prob: 0.0000
-Token: ' markdown' (ID: 50494), Prob: 0.0000
-Token: ' following' (ID: 2701), Prob: 0.0000
-Token: ' okay' (ID: 16910), Prob: 0.0000
-Token: ' set' (ID: 738), Prob: 0.0000
-Token: ' going' (ID: 2087), Prob: 0.0000
-Token: ' something' (ID: 2494), Prob: 0.0000
-Token: ' possible' (ID: 3204), Prob: 0.0000
-Token: ' scratch' (ID: 18778), Prob: 0.0000
-Token: ' wrapping' (ID: 41195), Prob: 0.0000
-Token: ' letting' (ID: 20194), Prob: 0.0000
-Token: ' organizing' (ID: 34721), Prob: 0.0000
-Token: ' condensed' (ID: 74726), Prob: 0.0000
-Token: ' preparing' (ID: 20045), Prob: 0.0000
-Token: ' brainstorm' (ID: 86781), Prob: 0.0000
+Token: ' narrator' (ID: 64171), Prob: 0.2891
+Token: ' home' (ID: 2114), Prob: 0.2539
+Token: ' narrative' (ID: 19221), Prob: 0.1748
+Token: ' house' (ID: 3753), Prob: 0.0825
+Token: ' story' (ID: 3364), Prob: 0.0344
+Token: ' two' (ID: 1378), Prob: 0.0304
+Token: ' place' (ID: 1992), Prob: 0.0119
+Token: ' setting' (ID: 6243), Prob: 0.0093
+Token: ' scene' (ID: 6109), Prob: 0.0087
+Token: ' new' (ID: 501), Prob: 0.0068
+Token: ' main' (ID: 1887), Prob: 0.0053
+Token: ' final' (ID: 1590), Prob: 0.0041
+Token: ' second' (ID: 2086), Prob: 0.0039
+Token: ' conflict' (ID: 12055), Prob: 0.0025
+Token: ' ending' (ID: 13391), Prob: 0.0025
+Token: ' next' (ID: 1790), Prob: 0.0023
+Token: ' last' (ID: 1537), Prob: 0.0022
+Token: ' refuge' (ID: 14510), Prob: 0.0021
+Token: ' situation' (ID: 6534), Prob: 0.0018
+Token: ' narration' (ID: 85080), Prob: 0.0017
+Token: ' location' (ID: 3728), Prob: 0.0015
+Token: ' environment' (ID: 4573), Prob: 0.0015
+Token: ' protagonist' (ID: 45584), Prob: 0.0015
+Token: ' world' (ID: 1879), Prob: 0.0014
+Token: ' family' (ID: 2997), Prob: 0.0014
+Token: ' relationship' (ID: 5025), Prob: 0.0011
+Token: ' reflection' (ID: 21844), Prob: 0.0010
+Token: ' first' (ID: 1156), Prob: 0.0010
+Token: ' message' (ID: 1943), Prob: 0.0009
+Token: ' emotions' (ID: 21261), Prob: 0.0009
+Token: ' previous' (ID: 3681), Prob: 0.0008
+Token: ' characters' (ID: 5766), Prob: 0.0008
+Token: ' dream' (ID: 7904), Prob: 0.0008
+Token: ' homes' (ID: 10415), Prob: 0.0008
+Token: ' emotional' (ID: 14269), Prob: 0.0008
+Token: ' outcome' (ID: 15274), Prob: 0.0008
+Token: ' result' (ID: 1102), Prob: 0.0007
+Token: ' space' (ID: 3550), Prob: 0.0007
+Token: ' end' (ID: 835), Prob: 0.0007
+Token: ' memory' (ID: 4938), Prob: 0.0007
+Token: ' return' (ID: 470), Prob: 0.0006
+Token: ' old' (ID: 2310), Prob: 0.0006
+Token: ' future' (ID: 3853), Prob: 0.0006
+Token: ' journey' (ID: 11618), Prob: 0.0006
+Token: ' room' (ID: 3054), Prob: 0.0006
+Token: ' reader' (ID: 6604), Prob: 0.0006
+Token: ' plot' (ID: 7089), Prob: 0.0006
+Token: ' remaining' (ID: 9664), Prob: 0.0006
+Token: ' resolution' (ID: 10935), Prob: 0.0006
+Token: ' conclusion' (ID: 16688), Prob: 0.0006
+Token: ' resulting' (ID: 12942), Prob: 0.0005
+Token: ' crisis' (ID: 11251), Prob: 0.0004
+Token: ' heart' (ID: 4746), Prob: 0.0004
+Token: ' scenes' (ID: 16065), Prob: 0.0004
+Token: ' entire' (ID: 4453), Prob: 0.0004
+Token: ' feelings' (ID: 15650), Prob: 0.0004
+Token: ' character' (ID: 3668), Prob: 0.0004
+Token: ' houses' (ID: 14967), Prob: 0.0004
+Token: ' news' (ID: 3669), Prob: 0.0003
+Token: ' original' (ID: 4024), Prob: 0.0003
+Token: ' shelter' (ID: 22906), Prob: 0.0003
+Token: ' aftermath' (ID: 39596), Prob: 0.0003
+Token: ' former' (ID: 4741), Prob: 0.0003
+Token: ' personal' (ID: 4345), Prob: 0.0003
+Token: ' narr' (ID: 13408), Prob: 0.0003
+Token: ' memories' (ID: 18923), Prob: 0.0003
+Token: ' natural' (ID: 5810), Prob: 0.0003
+Token: ' following' (ID: 2701), Prob: 0.0003
+Token: ' past' (ID: 3267), Prob: 0.0003
+Token: ' host' (ID: 3468), Prob: 0.0003
+Token: ' person' (ID: 1697), Prob: 0.0002
+Token: ' city' (ID: 3283), Prob: 0.0002
+Token: ' settings' (ID: 5003), Prob: 0.0002
+Token: ' theme' (ID: 6912), Prob: 0.0002
+Token: ' society' (ID: 8232), Prob: 0.0002
+Token: ' scenario' (ID: 15048), Prob: 0.0002
+Token: ' land' (ID: 4268), Prob: 0.0002
+Token: ' mother' (ID: 6554), Prob: 0.0002
+Token: ' novel' (ID: 11514), Prob: 0.0002
+Token: ' landscape' (ID: 18414), Prob: 0.0002
+Token: ' trauma' (ID: 29888), Prob: 0.0002
+Token: ' day' (ID: 1899), Prob: 0.0002
+Token: ' night' (ID: 3729), Prob: 0.0002
+Token: ' events' (ID: 4357), Prob: 0.0002
+Token: ' focus' (ID: 5244), Prob: 0.0002
+Token: ' writer' (ID: 6916), Prob: 0.0002
+Token: ' event' (ID: 1538), Prob: 0.0002
+Token: ' dreams' (ID: 18707), Prob: 0.0002
+Token: ' loss' (ID: 4709), Prob: 0.0002
+Token: ' rest' (ID: 2732), Prob: 0.0002
+Token: ' household' (ID: 13732), Prob: 0.0002
+Token: ' hope' (ID: 3900), Prob: 0.0002
+Token: ' atmosphere' (ID: 16566), Prob: 0.0002
+Token: ' emotion' (ID: 19772), Prob: 0.0002
+Token: ' retreat' (ID: 30014), Prob: 0.0002
+Token: ' act' (ID: 1160), Prob: 0.0001
+Token: ' process' (ID: 1882), Prob: 0.0001
+Token: ' nature' (ID: 6993), Prob: 0.0001
 
 == Ranked Concepts (Clusters) ==
-Rank 1 | Centroid: ' Let' | Score: 0.3066
-  Tokens: [' let', ' Let', ' letting']
-Rank 2 | Centroid: ' getting' | Score: 0.0181
-  Tokens: [' putting', ' getting', ' looking', ' trying', ' going']
-Rank 3 | Centroid: ' starts' | Score: 0.0121
-  Tokens: [' start', ' starting', ' starts', ' started']
-Rank 4 | Centroid: ' one' | Score: 0.0087
-  Tokens: [' need', ' time', ' first', ' user', ' wait', ' step', ' one', ' set']
-Rank 5 | Centroid: ' get' | Score: 0.0059
-  Tokens: [' got', ' get', ' put']
-Rank 6 | Centroid: ' maybe' | Score: 0.0016
-  Tokens: [' maybe', ' perhaps', ' example', ' okay', ' something', ' possible']
-Rank 7 | Centroid: ' creating' | Score: 0.0014
-  Tokens: [' combining', ' forming', ' breaking', ' completing', ' integrating', ' creating', ' building', ' shaping', ' making', ' organizing', ' preparing']
-Rank 8 | Centroid: ' structure' | Score: 0.0010
-  Tokens: [' structure', ' struct', ' structured']
-Rank 9 | Centroid: ' composing' | Score: 0.0005
-  Tokens: [' composing', ' compose', ' composition']
-Rank 10 | Centroid: ' thinking' | Score: 0.0005
-  Tokens: [' think', ' thinking', ' brainstorm']
-Rank 11 | Centroid: ' paragraph' | Score: 0.0004
-  Tokens: [' draft', ' sentence', ' grammar', ' paragraph', ' markdown']
-Rank 12 | Centroid: ' writing' | Score: 0.0003
-  Tokens: [' writing', ' write']
-Rank 13 | Centroid: ' crafting' | Score: 0.0002
-  Tokens: [' drafting', ' crafting', ' rewriting', ' wrapping']
-Rank 14 | Centroid: ' align' | Score: 0.0002
-  Tokens: [' final', ' align', ' form', ' following']
-Rank 15 | Centroid: ' plan' | Score: 0.0001
-  Tokens: [' planning', ' outline', ' plan']
-Rank 16 | Centroid: ' ready' | Score: 0.0001
-  Tokens: [' ready']
-Rank 17 | Centroid: ' focusing' | Score: 0.0001
-  Tokens: [' focusing', ' focus']
-Rank 18 | Centroid: ' scratch' | Score: 0.0000
-  Tokens: [' scratch']
-Rank 19 | Centroid: ' condensed' | Score: 0.0000
-  Tokens: [' condensed']
+Rank 1 | Centroid: ' narrative' | Score: 0.5039
+  Tokens: [' narrator', ' narrative', ' story', ' narration', ' protagonist', ' journey', ' reader', ' narr', ' writer']
+Rank 2 | Centroid: ' house' | Score: 0.3379
+  Tokens: [' home', ' house', ' homes', ' houses', ' host', ' household']
+Rank 3 | Centroid: ' first' | Score: 0.0464
+  Tokens: [' two', ' main', ' second', ' next', ' last', ' first', ' remaining', ' entire', ' following', ' rest']
+Rank 4 | Centroid: ' location' | Score: 0.0143
+  Tokens: [' place', ' location', ' space', ' land']
+Rank 5 | Centroid: ' settings' | Score: 0.0117
+  Tokens: [' setting', ' environment', ' settings', ' society', ' landscape', ' atmosphere']
+Rank 6 | Centroid: ' scene' | Score: 0.0112
+  Tokens: [' scene', ' situation', ' scenes', ' scenario']
+Rank 7 | Centroid: ' outcome' | Score: 0.0098
+  Tokens: [' final', ' ending', ' outcome', ' result', ' end', ' conclusion', ' resulting']
+Rank 8 | Centroid: ' previous' | Score: 0.0098
+  Tokens: [' new', ' previous', ' old', ' future', ' original', ' former', ' past']
+Rank 9 | Centroid: ' refuge' | Score: 0.0036
+  Tokens: [' refuge', ' reflection', ' shelter', ' retreat']
+Rank 10 | Centroid: ' conflict' | Score: 0.0031
+  Tokens: [' conflict', ' resolution']
+Rank 11 | Centroid: ' night' | Score: 0.0027
+  Tokens: [' world', ' room', ' city', ' day', ' night']
+Rank 12 | Centroid: ' emotions' | Score: 0.0026
+  Tokens: [' emotions', ' emotional', ' heart', ' feelings', ' emotion']
+Rank 13 | Centroid: ' characters' | Score: 0.0017
+  Tokens: [' characters', ' character', ' personal', ' person']
+Rank 14 | Centroid: ' family' | Score: 0.0016
+  Tokens: [' family', ' mother']
+Rank 15 | Centroid: ' event' | Score: 0.0016
+  Tokens: [' message', ' events', ' event', ' act', ' process']
+Rank 16 | Centroid: ' memories' | Score: 0.0012
+  Tokens: [' memory', ' memories', ' trauma']
+Rank 17 | Centroid: ' dream' | Score: 0.0012
+  Tokens: [' dream', ' dreams', ' hope']
+Rank 18 | Centroid: ' relationship' | Score: 0.0011
+  Tokens: [' relationship']
+Rank 19 | Centroid: ' return' | Score: 0.0008
+  Tokens: [' return', ' loss']
+Rank 20 | Centroid: ' crisis' | Score: 0.0007
+  Tokens: [' crisis', ' theme']
+Rank 21 | Centroid: ' news' | Score: 0.0006
+  Tokens: [' news', ' novel']
+Rank 22 | Centroid: ' plot' | Score: 0.0006
+  Tokens: [' plot']
+Rank 23 | Centroid: ' natural' | Score: 0.0004
+  Tokens: [' natural', ' nature']
+Rank 24 | Centroid: ' aftermath' | Score: 0.0003
+  Tokens: [' aftermath']
+Rank 25 | Centroid: ' focus' | Score: 0.0002
+  Tokens: [' focus']
 
 **Chosen Concept:** Rank 1

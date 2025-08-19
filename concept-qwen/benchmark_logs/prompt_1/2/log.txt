@@ -1,0 +1,120 @@
+--- Step 2 Log ---
+
+== Filtered Candidates ==
+Token: 'ative' (ID: 1388), Prob: 0.8359
+Token: 'atives' (ID: 5859), Prob: 0.0996
+Token: 'ation' (ID: 367), Prob: 0.0535
+Token: 'ator' (ID: 850), Prob: 0.0056
+Token: 'ate' (ID: 349), Prob: 0.0012
+Token: 'ativ' (ID: 19488), Prob: 0.0008
+Token: 'ativa' (ID: 27852), Prob: 0.0007
+Token: 'atively' (ID: 7887), Prob: 0.0006
+Token: 'ators' (ID: 2973), Prob: 0.0005
+Token: 'ativity' (ID: 43415), Prob: 0.0003
+Token: 'ating' (ID: 1095), Prob: 0.0002
+Token: 'ativas' (ID: 51541), Prob: 0.0001
+Token: 'atology' (ID: 73914), Prob: 0.0001
+Token: 'ature' (ID: 1568), Prob: 0.0001
+Token: 'ated' (ID: 657), Prob: 0.0001
+Token: 'ations' (ID: 804), Prob: 0.0001
+Token: 'atif' (ID: 49748), Prob: 0.0000
+Token: 'ativo' (ID: 28250), Prob: 0.0000
+Token: 'ador' (ID: 5364), Prob: 0.0000
+Token: 'ATIVE' (ID: 23215), Prob: 0.0000
+Token: 'agraph' (ID: 9216), Prob: 0.0000
+Token: 'ates' (ID: 973), Prob: 0.0000
+Token: 'ational' (ID: 1663), Prob: 0.0000
+Token: 'atorial' (ID: 37936), Prob: 0.0000
+Token: 'atie' (ID: 25852), Prob: 0.0000
+Token: 'atory' (ID: 5269), Prob: 0.0000
+Token: 'atio' (ID: 6266), Prob: 0.0000
+Token: 'acy' (ID: 2757), Prob: 0.0000
+Token: 'ateur' (ID: 10831), Prob: 0.0000
+Token: 'atable' (ID: 15086), Prob: 0.0000
+Token: 'atee' (ID: 95680), Prob: 0.0000
+Token: 'atic' (ID: 774), Prob: 0.0000
+Token: 'ater' (ID: 962), Prob: 0.0000
+Token: 'ación' (ID: 5721), Prob: 0.0000
+Token: 'ary' (ID: 658), Prob: 0.0000
+Token: 'ability' (ID: 2897), Prob: 0.0000
+Token: 'istic' (ID: 4532), Prob: 0.0000
+Token: 'ave' (ID: 523), Prob: 0.0000
+Token: 'ato' (ID: 4330), Prob: 0.0000
+Token: 'ationale' (ID: 37035), Prob: 0.0000
+Token: 'atori' (ID: 50637), Prob: 0.0000
+Token: 'atore' (ID: 44009), Prob: 0.0000
+Token: 'ati' (ID: 9307), Prob: 0.0000
+Token: 'ance' (ID: 681), Prob: 0.0000
+Token: 'itative' (ID: 21312), Prob: 0.0000
+Token: 'atorio' (ID: 36590), Prob: 0.0000
+Token: 'ATOR' (ID: 11857), Prob: 0.0000
+Token: 'actic' (ID: 23170), Prob: 0.0000
+Token: 'ive' (ID: 533), Prob: 0.0000
+Token: 'atum' (ID: 26253), Prob: 0.0000
+Token: 'ativos' (ID: 63445), Prob: 0.0000
+Token: 'inality' (ID: 80777), Prob: 0.0000
+Token: 'atrice' (ID: 67536), Prob: 0.0000
+Token: 'atures' (ID: 2789), Prob: 0.0000
+Token: 'acula' (ID: 85193), Prob: 0.0000
+Token: ' story' (ID: 3364), Prob: 0.0000
+Token: 'adora' (ID: 29813), Prob: 0.0000
+Token: 'ade' (ID: 1021), Prob: 0.0000
+Token: 'ado' (ID: 2123), Prob: 0.0000
+Token: 'atrix' (ID: 2555), Prob: 0.0000
+Token: 'ately' (ID: 2652), Prob: 0.0000
+Token: 'ship' (ID: 5270), Prob: 0.0000
+Token: 'ait' (ID: 1315), Prob: 0.0000
+Token: 'acter' (ID: 2481), Prob: 0.0000
+Token: 'able' (ID: 480), Prob: 0.0000
+Token: 'ace' (ID: 578), Prob: 0.0000
+Token: 'ateurs' (ID: 35206), Prob: 0.0000
+Token: 'ationship' (ID: 15471), Prob: 0.0000
+Token: 'osity' (ID: 22053), Prob: 0.0000
+Token: 'atel' (ID: 83326), Prob: 0.0000
+Token: 'ast' (ID: 559), Prob: 0.0000
+Token: 'asure' (ID: 3970), Prob: 0.0000
+Token: 'acion' (ID: 5806), Prob: 0.0000
+Token: 'ally' (ID: 745), Prob: 0.0000
+Token: 'ateg' (ID: 1328), Prob: 0.0000
+Token: 'ategy' (ID: 10228), Prob: 0.0000
+Token: 'aci' (ID: 24464), Prob: 0.0000
+
+== Ranked Concepts (Clusters) ==
+Rank 1 | Centroid: 'ativo' | Score: 0.9375
+  Tokens: ['ative', 'atives', 'ativ', 'ativa', 'atively', 'ativity', 'ativas', 'atif', 'ativo', 'ATIVE', 'ativos']
+Rank 2 | Centroid: 'ación' | Score: 0.0535
+  Tokens: ['ation', 'ations', 'ational', 'ación', 'acion']
+Rank 3 | Centroid: 'ATOR' | Score: 0.0062
+  Tokens: ['ator', 'ators', 'atorial', 'atory', 'atori', 'atore', 'atorio', 'ATOR']
+Rank 4 | Centroid: 'ates' | Score: 0.0015
+  Tokens: ['ate', 'ating', 'ated', 'ates']
+Rank 5 | Centroid: 'atology' | Score: 0.0001
+  Tokens: ['atology', 'atum', 'ately']
+Rank 6 | Centroid: 'ature' | Score: 0.0001
+  Tokens: ['ature', 'atures']
+Rank 7 | Centroid: 'ateur' | Score: 0.0001
+  Tokens: ['ador', 'ateur', 'atrice', 'adora', 'ateurs']
+Rank 8 | Centroid: 'ati' | Score: 0.0000
+  Tokens: ['atie', 'atio', 'ato', 'ati']
+Rank 9 | Centroid: ' story' | Score: 0.0000
+  Tokens: ['agraph', 'istic', 'itative', 'actic', ' story', 'acter']
+Rank 10 | Centroid: 'ateg' | Score: 0.0000
+  Tokens: ['atee', 'ater', 'atel', 'ateg']
+Rank 11 | Centroid: 'ast' | Score: 0.0000
+  Tokens: ['atic', 'ave', 'ive', 'ait', 'ast']
+Rank 12 | Centroid: 'aci' | Score: 0.0000
+  Tokens: ['acy', 'ace', 'aci']
+Rank 13 | Centroid: 'atable' | Score: 0.0000
+  Tokens: ['atable']
+Rank 14 | Centroid: 'ategy' | Score: 0.0000
+  Tokens: ['ationale', 'acula', 'atrix', 'ationship', 'ategy']
+Rank 15 | Centroid: 'ary' | Score: 0.0000
+  Tokens: ['ary', 'ally']
+Rank 16 | Centroid: 'ability' | Score: 0.0000
+  Tokens: ['ability', 'able']
+Rank 17 | Centroid: 'ado' | Score: 0.0000
+  Tokens: ['ance', 'ade', 'ado']
+Rank 18 | Centroid: 'osity' | Score: 0.0000
+  Tokens: ['inality', 'ship', 'osity', 'asure']
+
+**Chosen Concept:** Rank 1

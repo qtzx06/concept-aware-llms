@@ -1,80 +1,112 @@
 --- Step 115 Log ---
 
 == Filtered Candidates ==
-Token: ' like' (ID: 1075), Prob: 1.0000
-Token: ' else' (ID: 770), Prob: 0.0002
-Token: ' yes' (ID: 9834), Prob: 0.0000
-Token: ' Like' (ID: 8909), Prob: 0.0000
-Token: ' similar' (ID: 4428), Prob: 0.0000
-Token: 'like' (ID: 4803), Prob: 0.0000
-Token: ' LIKE' (ID: 20529), Prob: 0.0000
-Token: ' elif' (ID: 4409), Prob: 0.0000
-Token: '_like' (ID: 25535), Prob: 0.0000
-Token: '-like' (ID: 12681), Prob: 0.0000
-Token: ' list' (ID: 1140), Prob: 0.0000
-Token: '.like' (ID: 66318), Prob: 0.0000
-Token: ' maybe' (ID: 7196), Prob: 0.0000
-Token: ' likes' (ID: 13151), Prob: 0.0000
-Token: 'Like' (ID: 12949), Prob: 0.0000
-Token: ' include' (ID: 2924), Prob: 0.0000
-Token: ' much' (ID: 1753), Prob: 0.0000
-Token: ' around' (ID: 2163), Prob: 0.0000
-Token: ' etc' (ID: 4992), Prob: 0.0000
-Token: ' related' (ID: 5435), Prob: 0.0000
-Token: ' limited' (ID: 7199), Prob: 0.0000
-Token: ' including' (ID: 2670), Prob: 0.0000
-Token: ' since' (ID: 2474), Prob: 0.0000
-Token: ' based' (ID: 3118), Prob: 0.0000
-Token: ' otherwise' (ID: 5937), Prob: 0.0000
-Token: ' seperti' (ID: 67720), Prob: 0.0000
-Token: ' nice' (ID: 6419), Prob: 0.0000
-Token: ' yeah' (ID: 21639), Prob: 0.0000
-Token: ' last' (ID: 1537), Prob: 0.0000
-Token: ' important' (ID: 2989), Prob: 0.0000
-Token: ' possible' (ID: 3204), Prob: 0.0000
-Token: ' say' (ID: 1977), Prob: 0.0000
-Token: ' little' (ID: 2632), Prob: 0.0000
-Token: ' kind' (ID: 3093), Prob: 0.0000
-Token: ' usually' (ID: 5990), Prob: 0.0000
-Token: ' quite' (ID: 5008), Prob: 0.0000
-Token: ' missing' (ID: 7402), Prob: 0.0000
-Token: ' relevant' (ID: 9760), Prob: 0.0000
-Token: ' listed' (ID: 10007), Prob: 0.0000
-Token: ' liked' (ID: 14915), Prob: 0.0000
-Token: ' still' (ID: 2058), Prob: 0.0000
+Token: ' road' (ID: 5636), Prob: 0.9883
+Token: ' trip' (ID: 8411), Prob: 0.0085
+Token: ' journey' (ID: 11618), Prob: 0.0015
+Token: ' route' (ID: 6021), Prob: 0.0008
+Token: ' path' (ID: 1815), Prob: 0.0006
+Token: ' travel' (ID: 5821), Prob: 0.0000
+Token: ' ride' (ID: 11877), Prob: 0.0000
+Token: ' adventure' (ID: 17943), Prob: 0.0000
+Token: ' tour' (ID: 7216), Prob: 0.0000
+Token: ' car' (ID: 1803), Prob: 0.0000
+Token: ' roadmap' (ID: 68817), Prob: 0.0000
+Token: ' drive' (ID: 6541), Prob: 0.0000
+Token: ' trail' (ID: 8849), Prob: 0.0000
+Token: 'road' (ID: 8546), Prob: 0.0000
+Token: ' roadside' (ID: 79643), Prob: 0.0000
+Token: ' highway' (ID: 26736), Prob: 0.0000
+Token: ' way' (ID: 1616), Prob: 0.0000
+Token: ' family' (ID: 2997), Prob: 0.0000
+Token: ' Road' (ID: 9536), Prob: 0.0000
+Token: ' love' (ID: 2948), Prob: 0.0000
+Token: ' roads' (ID: 19241), Prob: 0.0000
+Token: ' expedition' (ID: 50164), Prob: 0.0000
+Token: ' quest' (ID: 2222), Prob: 0.0000
+Token: ' lane' (ID: 21272), Prob: 0.0000
+Token: ' track' (ID: 3754), Prob: 0.0000
+Token: ' holiday' (ID: 13257), Prob: 0.0000
+Token: ' day' (ID: 1899), Prob: 0.0000
+Token: ' destination' (ID: 9106), Prob: 0.0000
+Token: '-road' (ID: 65715), Prob: 0.0000
+Token: ' away' (ID: 3123), Prob: 0.0000
+Token: ' story' (ID: 3364), Prob: 0.0000
+Token: ' round' (ID: 4778), Prob: 0.0000
+Token: ' flight' (ID: 10971), Prob: 0.0000
+Token: ' trek' (ID: 44588), Prob: 0.0000
+Token: ' mission' (ID: 8954), Prob: 0.0000
+Token: ' home' (ID: 2114), Prob: 0.0000
+Token: ' driven' (ID: 16227), Prob: 0.0000
+Token: ' land' (ID: 4268), Prob: 0.0000
+Token: ' heart' (ID: 4746), Prob: 0.0000
+Token: ' traffic' (ID: 9442), Prob: 0.0000
+Token: ' driving' (ID: 9842), Prob: 0.0000
+Token: ' voyage' (ID: 44540), Prob: 0.0000
+Token: ' dream' (ID: 7904), Prob: 0.0000
+Token: ' pathway' (ID: 37870), Prob: 0.0000
+Token: ' outing' (ID: 64181), Prob: 0.0000
+Token: ' boat' (ID: 15328), Prob: 0.0000
+Token: ' hike' (ID: 34231), Prob: 0.0000
+Token: ' year' (ID: 1042), Prob: 0.0000
+Token: ' walk' (ID: 4227), Prob: 0.0000
+Token: ' roadway' (ID: 81111), Prob: 0.0000
+Token: ' due' (ID: 4152), Prob: 0.0000
+Token: ' fate' (ID: 24382), Prob: 0.0000
+Token: ' along' (ID: 3156), Prob: 0.0000
+Token: ' approach' (ID: 5486), Prob: 0.0000
+Token: ' driver' (ID: 5579), Prob: 0.0000
+Token: ' truck' (ID: 10855), Prob: 0.0000
+Token: ' itinerary' (ID: 72904), Prob: 0.0000
+Token: ' ROAD' (ID: 82193), Prob: 0.0000
+Token: ' time' (ID: 882), Prob: 0.0000
+Token: ' long' (ID: 1293), Prob: 0.0000
+Token: ' event' (ID: 1538), Prob: 0.0000
+Token: ' country' (ID: 3146), Prob: 0.0000
+Token: ' vacation' (ID: 20161), Prob: 0.0000
 
 == Ranked Concepts (Clusters) ==
-Rank 1 | Centroid: ' Like' | Score: 1.0000
-  Tokens: [' like', ' Like', 'like', ' LIKE', '_like', '-like', '.like', 'Like', ' seperti']
-Rank 2 | Centroid: ' else' | Score: 0.0002
-  Tokens: [' else', ' elif', ' otherwise']
-Rank 3 | Centroid: ' yes' | Score: 0.0000
-  Tokens: [' yes', ' yeah']
-Rank 4 | Centroid: ' related' | Score: 0.0000
-  Tokens: [' similar', ' related', ' relevant']
-Rank 5 | Centroid: ' list' | Score: 0.0000
-  Tokens: [' list', ' listed']
-Rank 6 | Centroid: ' etc' | Score: 0.0000
-  Tokens: [' around', ' etc', ' say']
-Rank 7 | Centroid: ' maybe' | Score: 0.0000
-  Tokens: [' maybe', ' possible']
-Rank 8 | Centroid: ' likes' | Score: 0.0000
-  Tokens: [' likes', ' liked']
-Rank 9 | Centroid: ' include' | Score: 0.0000
-  Tokens: [' include', ' including']
-Rank 10 | Centroid: ' much' | Score: 0.0000
-  Tokens: [' much', ' little', ' quite']
-Rank 11 | Centroid: ' based' | Score: 0.0000
-  Tokens: [' since', ' based', ' last']
-Rank 12 | Centroid: ' nice' | Score: 0.0000
-  Tokens: [' nice', ' important']
-Rank 13 | Centroid: ' limited' | Score: 0.0000
-  Tokens: [' limited']
-Rank 14 | Centroid: ' usually' | Score: 0.0000
-  Tokens: [' usually', ' still']
-Rank 15 | Centroid: ' kind' | Score: 0.0000
-  Tokens: [' kind']
-Rank 16 | Centroid: ' missing' | Score: 0.0000
-  Tokens: [' missing']
+Rank 1 | Centroid: ' road' | Score: 0.9883
+  Tokens: [' road', ' roadmap', 'road', ' roadside', ' highway', ' Road', ' roads', '-road', ' roadway', ' ROAD']
+Rank 2 | Centroid: ' hike' | Score: 0.0086
+  Tokens: [' trip', ' ride', ' tour', ' trek', ' hike', ' walk']
+Rank 3 | Centroid: ' journey' | Score: 0.0015
+  Tokens: [' journey', ' voyage']
+Rank 4 | Centroid: ' pathway' | Score: 0.0014
+  Tokens: [' route', ' path', ' pathway']
+Rank 5 | Centroid: ' travel' | Score: 0.0000
+  Tokens: [' travel', ' flight']
+Rank 6 | Centroid: ' vacation' | Score: 0.0000
+  Tokens: [' adventure', ' expedition', ' holiday', ' outing', ' vacation']
+Rank 7 | Centroid: ' truck' | Score: 0.0000
+  Tokens: [' car', ' boat', ' truck']
+Rank 8 | Centroid: ' driving' | Score: 0.0000
+  Tokens: [' drive', ' driven', ' driving', ' driver']
+Rank 9 | Centroid: ' trail' | Score: 0.0000
+  Tokens: [' trail', ' track']
+Rank 10 | Centroid: ' quest' | Score: 0.0000
+  Tokens: [' quest', ' story', ' mission', ' dream']
+Rank 11 | Centroid: ' family' | Score: 0.0000
+  Tokens: [' family', ' home', ' country']
+Rank 12 | Centroid: ' way' | Score: 0.0000
+  Tokens: [' way', ' approach']
+Rank 13 | Centroid: ' love' | Score: 0.0000
+  Tokens: [' love', ' land']
+Rank 14 | Centroid: ' lane' | Score: 0.0000
+  Tokens: [' lane', ' traffic']
+Rank 15 | Centroid: ' along' | Score: 0.0000
+  Tokens: [' away', ' due', ' along']
+Rank 16 | Centroid: ' day' | Score: 0.0000
+  Tokens: [' day', ' year']
+Rank 17 | Centroid: ' destination' | Score: 0.0000
+  Tokens: [' destination', ' itinerary']
+Rank 18 | Centroid: ' round' | Score: 0.0000
+  Tokens: [' round']
+Rank 19 | Centroid: ' heart' | Score: 0.0000
+  Tokens: [' heart']
+Rank 20 | Centroid: ' fate' | Score: 0.0000
+  Tokens: [' fate', ' event']
+Rank 21 | Centroid: ' time' | Score: 0.0000
+  Tokens: [' time', ' long']
 
 **Chosen Concept:** Rank 1

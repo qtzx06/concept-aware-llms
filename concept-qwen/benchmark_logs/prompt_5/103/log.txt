@@ -1,0 +1,143 @@
+--- Step 103 Log ---
+
+== Filtered Candidates ==
+Token: ' uses' (ID: 5711), Prob: 0.4883
+Token: ' builds' (ID: 22111), Prob: 0.0276
+Token: ' finds' (ID: 13719), Prob: 0.0147
+Token: ' starts' (ID: 8471), Prob: 0.0115
+Token: ' makes' (ID: 3643), Prob: 0.0089
+Token: ' hears' (ID: 52059), Prob: 0.0070
+Token: ' gets' (ID: 5221), Prob: 0.0042
+Token: ' creates' (ID: 11450), Prob: 0.0042
+Token: ' wants' (ID: 6801), Prob: 0.0037
+Token: ' feels' (ID: 11074), Prob: 0.0037
+Token: ' sees' (ID: 15634), Prob: 0.0026
+Token: ' faces' (ID: 12300), Prob: 0.0020
+Token: ' learns' (ID: 46210), Prob: 0.0020
+Token: ' plays' (ID: 11088), Prob: 0.0018
+Token: ' looks' (ID: 5868), Prob: 0.0016
+Token: ' notices' (ID: 34771), Prob: 0.0016
+Token: ' building' (ID: 4752), Prob: 0.0014
+Token: ' discovers' (ID: 51014), Prob: 0.0014
+Token: ' brings' (ID: 12434), Prob: 0.0012
+Token: ' asks' (ID: 17064), Prob: 0.0011
+Token: ' chooses' (ID: 39911), Prob: 0.0011
+Token: ' ends' (ID: 10335), Prob: 0.0009
+Token: ' talks' (ID: 13433), Prob: 0.0009
+Token: ' struggles' (ID: 27870), Prob: 0.0008
+Token: ' works' (ID: 4278), Prob: 0.0006
+Token: ' compares' (ID: 42465), Prob: 0.0006
+Token: ' lives' (ID: 6305), Prob: 0.0006
+Token: ' becomes' (ID: 9044), Prob: 0.0006
+Token: ' dreams' (ID: 18707), Prob: 0.0006
+Token: ' decides' (ID: 27627), Prob: 0.0006
+Token: ' grows' (ID: 27715), Prob: 0.0006
+Token: ' paints' (ID: 56848), Prob: 0.0006
+Token: ' takes' (ID: 4990), Prob: 0.0005
+Token: ' experiences' (ID: 11449), Prob: 0.0005
+Token: ' explores' (ID: 40324), Prob: 0.0005
+Token: ' experiments' (ID: 21204), Prob: 0.0004
+Token: ' using' (ID: 1667), Prob: 0.0004
+Token: ' tries' (ID: 16297), Prob: 0.0004
+Token: ' loves' (ID: 15803), Prob: 0.0003
+Token: ' collects' (ID: 51207), Prob: 0.0003
+Token: ' enjoys' (ID: 31738), Prob: 0.0003
+Token: ' adds' (ID: 11367), Prob: 0.0003
+Token: ' receives' (ID: 21189), Prob: 0.0003
+Token: ' gathers' (ID: 85681), Prob: 0.0003
+Token: ' goes' (ID: 5780), Prob: 0.0002
+Token: ' prefers' (ID: 53964), Prob: 0.0002
+Token: ' wins' (ID: 14816), Prob: 0.0002
+Token: ' approaches' (ID: 19827), Prob: 0.0002
+Token: ' encounters' (ID: 33906), Prob: 0.0002
+Token: ' observes' (ID: 80199), Prob: 0.0002
+Token: ' realizes' (ID: 51594), Prob: 0.0002
+Token: ' meets' (ID: 20027), Prob: 0.0002
+Token: ' loses' (ID: 32191), Prob: 0.0002
+Token: ' spends' (ID: 37102), Prob: 0.0002
+Token: ' likes' (ID: 13151), Prob: 0.0002
+Token: ' inspires' (ID: 69290), Prob: 0.0002
+Token: ' interacts' (ID: 83161), Prob: 0.0002
+Token: ' practices' (ID: 12378), Prob: 0.0002
+Token: ' thinks' (ID: 15482), Prob: 0.0002
+Token: ' imag' (ID: 6532), Prob: 0.0001
+Token: ' helps' (ID: 8609), Prob: 0.0001
+Token: ' picks' (ID: 21895), Prob: 0.0001
+Token: ' listens' (ID: 63648), Prob: 0.0001
+Token: ' gives' (ID: 6696), Prob: 0.0001
+Token: ' knows' (ID: 8788), Prob: 0.0001
+Token: ' constructs' (ID: 56227), Prob: 0.0001
+Token: ' needs' (ID: 3880), Prob: 0.0001
+Token: ' made' (ID: 1865), Prob: 0.0001
+Token: ' draws' (ID: 26643), Prob: 0.0001
+Token: ' combines' (ID: 32411), Prob: 0.0001
+Token: ' connects' (ID: 33061), Prob: 0.0001
+Token: ' could' (ID: 1410), Prob: 0.0001
+Token: ' names' (ID: 5036), Prob: 0.0001
+Token: ' calls' (ID: 6738), Prob: 0.0001
+Token: ' sets' (ID: 7289), Prob: 0.0001
+Token: ' colors' (ID: 7987), Prob: 0.0001
+Token: ' found' (ID: 1730), Prob: 0.0001
+Token: ' shows' (ID: 4933), Prob: 0.0001
+Token: ' built' (ID: 5798), Prob: 0.0001
+Token: ' hides' (ID: 57604), Prob: 0.0001
+Token: ' leaves' (ID: 10901), Prob: 0.0001
+Token: ' joins' (ID: 28682), Prob: 0.0001
+Token: ' shares' (ID: 13248), Prob: 0.0001
+Token: ' gains' (ID: 19619), Prob: 0.0001
+
+== Ranked Concepts (Clusters) ==
+Rank 1 | Centroid: ' uses' | Score: 0.4902
+  Tokens: [' uses', ' works', ' using', ' needs']
+Rank 2 | Centroid: ' builds' | Score: 0.0292
+  Tokens: [' builds', ' building', ' constructs', ' built']
+Rank 3 | Centroid: ' finds' | Score: 0.0162
+  Tokens: [' finds', ' discovers', ' found']
+Rank 4 | Centroid: ' starts' | Score: 0.0123
+  Tokens: [' starts', ' ends']
+Rank 5 | Centroid: ' gets' | Score: 0.0121
+  Tokens: [' gets', ' creates', ' brings', ' becomes', ' grows', ' takes', ' adds', ' goes', ' helps', ' gives']
+Rank 6 | Centroid: ' makes' | Score: 0.0092
+  Tokens: [' makes', ' made', ' could']
+Rank 7 | Centroid: ' hears' | Score: 0.0071
+  Tokens: [' hears', ' listens']
+Rank 8 | Centroid: ' wants' | Score: 0.0045
+  Tokens: [' wants', ' loves', ' likes', ' thinks', ' knows']
+Rank 9 | Centroid: ' observes' | Score: 0.0043
+  Tokens: [' sees', ' notices', ' observes']
+Rank 10 | Centroid: ' feels' | Score: 0.0037
+  Tokens: [' feels']
+Rank 11 | Centroid: ' chooses' | Score: 0.0030
+  Tokens: [' asks', ' chooses', ' decides', ' prefers']
+Rank 12 | Centroid: ' collects' | Score: 0.0028
+  Tokens: [' learns', ' collects', ' receives', ' gathers']
+Rank 13 | Centroid: ' hides' | Score: 0.0028
+  Tokens: [' faces', ' lives', ' hides', ' shares']
+Rank 14 | Centroid: ' experiences' | Score: 0.0023
+  Tokens: [' struggles', ' experiences', ' experiments', ' approaches', ' encounters', ' practices']
+Rank 15 | Centroid: ' plays' | Score: 0.0022
+  Tokens: [' plays', ' tries']
+Rank 16 | Centroid: ' looks' | Score: 0.0016
+  Tokens: [' looks']
+Rank 17 | Centroid: ' combines' | Score: 0.0014
+  Tokens: [' compares', ' explores', ' combines', ' connects']
+Rank 18 | Centroid: ' paints' | Score: 0.0010
+  Tokens: [' paints', ' names', ' sets', ' colors', ' leaves']
+Rank 19 | Centroid: ' talks' | Score: 0.0010
+  Tokens: [' talks', ' calls']
+Rank 20 | Centroid: ' dreams' | Score: 0.0008
+  Tokens: [' dreams', ' imag']
+Rank 21 | Centroid: ' loses' | Score: 0.0005
+  Tokens: [' wins', ' loses', ' gains']
+Rank 22 | Centroid: ' enjoys' | Score: 0.0005
+  Tokens: [' enjoys', ' spends']
+Rank 23 | Centroid: ' realizes' | Score: 0.0004
+  Tokens: [' realizes', ' inspires']
+Rank 24 | Centroid: ' meets' | Score: 0.0004
+  Tokens: [' meets', ' interacts']
+Rank 25 | Centroid: ' picks' | Score: 0.0003
+  Tokens: [' picks', ' draws', ' joins']
+Rank 26 | Centroid: ' shows' | Score: 0.0001
+  Tokens: [' shows']
+
+**Chosen Concept:** Rank 1

@@ -1,75 +1,139 @@
 --- Step 114 Log ---
 
 == Filtered Candidates ==
-Token: ' message' (ID: 1943), Prob: 0.9961
-Token: ' prompt' (ID: 9934), Prob: 0.0015
-Token: ' messages' (ID: 6605), Prob: 0.0003
-Token: '.message' (ID: 6698), Prob: 0.0003
-Token: ' Message' (ID: 4856), Prob: 0.0001
+Token: ' statement' (ID: 5114), Prob: 0.5352
+Token: ' text' (ID: 1467), Prob: 0.1533
+Token: ' prompt' (ID: 9934), Prob: 0.0928
+Token: ' message' (ID: 1943), Prob: 0.0388
+Token: ' description' (ID: 4008), Prob: 0.0234
+Token: ' information' (ID: 1995), Prob: 0.0032
+Token: ' brief' (ID: 9814), Prob: 0.0025
+Token: ' query' (ID: 3239), Prob: 0.0015
+Token: ' instruction' (ID: 7600), Prob: 0.0015
+Token: ' info' (ID: 3546), Prob: 0.0012
+Token: ' details' (ID: 3565), Prob: 0.0012
+Token: ' idea' (ID: 4522), Prob: 0.0012
+Token: ' sentence' (ID: 11652), Prob: 0.0010
+Token: ' request' (ID: 1681), Prob: 0.0010
+Token: ' mention' (ID: 6286), Prob: 0.0008
+Token: ' summary' (ID: 12126), Prob: 0.0008
+Token: ' paragraph' (ID: 14311), Prob: 0.0007
+Token: ' passage' (ID: 21085), Prob: 0.0006
+Token: ' phrase' (ID: 17133), Prob: 0.0006
+Token: ' instructions' (ID: 11221), Prob: 0.0005
+Token: ' quote' (ID: 12641), Prob: 0.0004
+Token: ' content' (ID: 2213), Prob: 0.0004
+Token: ' snippet' (ID: 43065), Prob: 0.0003
+Token: ' input' (ID: 1946), Prob: 0.0002
+Token: ' event' (ID: 1538), Prob: 0.0001
+Token: ' plan' (ID: 3119), Prob: 0.0001
+Token: ' thought' (ID: 3381), Prob: 0.0001
+Token: ' intent' (ID: 7385), Prob: 0.0001
+Token: ' statements' (ID: 12239), Prob: 0.0001
+Token: ' excerpt' (ID: 49465), Prob: 0.0001
+Token: ' point' (ID: 1459), Prob: 0.0001
+Token: ' title' (ID: 2265), Prob: 0.0001
+Token: ' outline' (ID: 21101), Prob: 0.0001
+Token: ' theme' (ID: 6912), Prob: 0.0001
 Token: ' question' (ID: 3405), Prob: 0.0001
-Token: '(message' (ID: 7333), Prob: 0.0001
-Token: 'message' (ID: 1994), Prob: 0.0001
-Token: '	message' (ID: 24753), Prob: 0.0000
-Token: ' mes' (ID: 10846), Prob: 0.0000
-Token: ' statement' (ID: 5114), Prob: 0.0000
-Token: ':message' (ID: 91473), Prob: 0.0000
-Token: '$message' (ID: 42821), Prob: 0.0000
-Token: ',message' (ID: 72783), Prob: 0.0000
-Token: '-message' (ID: 29332), Prob: 0.0000
-Token: 'Message' (ID: 2052), Prob: 0.0000
-Token: '=message' (ID: 87129), Prob: 0.0000
-Token: ' answer' (ID: 4226), Prob: 0.0000
-Token: ' motif' (ID: 59512), Prob: 0.0000
-Token: ' information' (ID: 1995), Prob: 0.0000
-Token: ' theme' (ID: 6912), Prob: 0.0000
-Token: ' messaging' (ID: 29522), Prob: 0.0000
-Token: '_message' (ID: 6462), Prob: 0.0000
-Token: ' phrase' (ID: 17133), Prob: 0.0000
-Token: ' MESSAGE' (ID: 40758), Prob: 0.0000
-Token: '/message' (ID: 50624), Prob: 0.0000
-Token: ' user' (ID: 1196), Prob: 0.0000
-Token: ' point' (ID: 1459), Prob: 0.0000
-Token: ' response' (ID: 2033), Prob: 0.0000
-Token: ' month' (ID: 2254), Prob: 0.0000
-Token: ' position' (ID: 2309), Prob: 0.0000
-Token: '.Message' (ID: 8472), Prob: 0.0000
-Token: '<message' (ID: 83747), Prob: 0.0000
-Token: ' moment' (ID: 4445), Prob: 0.0000
-Token: ' lesson' (ID: 17755), Prob: 0.0000
-Token: ' promise' (ID: 11222), Prob: 0.0000
-Token: ' maximum' (ID: 7192), Prob: 0.0000
+Token: ' detail' (ID: 7716), Prob: 0.0001
+Token: ' given' (ID: 2661), Prob: 0.0000
+Token: ' piece' (ID: 6573), Prob: 0.0000
+Token: ' story' (ID: 3364), Prob: 0.0000
 Token: ' wording' (ID: 60227), Prob: 0.0000
+Token: ' post' (ID: 1736), Prob: 0.0000
+Token: ' script' (ID: 5316), Prob: 0.0000
+Token: ' points' (ID: 3501), Prob: 0.0000
+Token: ' task' (ID: 3383), Prob: 0.0000
+Token: ' provided' (ID: 3897), Prob: 0.0000
+Token: ' line' (ID: 1555), Prob: 0.0000
+Token: ' topic' (ID: 8544), Prob: 0.0000
+Token: ' narrative' (ID: 19221), Prob: 0.0000
+Token: ' mission' (ID: 8954), Prob: 0.0000
+Token: ' setup' (ID: 6505), Prob: 0.0000
+Token: ' hint' (ID: 13012), Prob: 0.0000
+Token: ' announcement' (ID: 17043), Prob: 0.0000
+Token: ' introduction' (ID: 16800), Prob: 0.0000
+Token: ' caption' (ID: 17256), Prob: 0.0000
+Token: ' note' (ID: 5185), Prob: 0.0000
+Token: ' invitation' (ID: 28688), Prob: 0.0000
+Token: ' stmt' (ID: 20020), Prob: 0.0000
+Token: ' premise' (ID: 40202), Prob: 0.0000
+Token: ' data' (ID: 821), Prob: 0.0000
+Token: ' context' (ID: 2266), Prob: 0.0000
+Token: ' entry' (ID: 4343), Prob: 0.0000
+Token: ' trip' (ID: 8411), Prob: 0.0000
+Token: ' opening' (ID: 8568), Prob: 0.0000
+Token: ' speech' (ID: 8806), Prob: 0.0000
+Token: ' claim' (ID: 3717), Prob: 0.0000
+Token: ' suggestion' (ID: 23776), Prob: 0.0000
+Token: ' one' (ID: 825), Prob: 0.0000
 Token: ' main' (ID: 1887), Prob: 0.0000
-Token: ' mate' (ID: 29176), Prob: 0.0000
+Token: ' problem' (ID: 3491), Prob: 0.0000
+Token: ' short' (ID: 2805), Prob: 0.0000
+Token: ' purpose' (ID: 7428), Prob: 0.0000
+Token: ' scene' (ID: 6109), Prob: 0.0000
+Token: ' scenario' (ID: 15048), Prob: 0.0000
+Token: ' subject' (ID: 3832), Prob: 0.0000
+Token: ' intention' (ID: 14602), Prob: 0.0000
+Token: ' intro' (ID: 19706), Prob: 0.0000
+Token: ' without' (ID: 2041), Prob: 0.0000
+Token: ' notice' (ID: 5293), Prob: 0.0000
 
 == Ranked Concepts (Clusters) ==
-Rank 1 | Centroid: '_message' | Score: 0.9961
-  Tokens: [' message', ' messages', '.message', ' Message', 'message', '-message', 'Message', ' messaging', '_message', ' MESSAGE', '.Message']
-Rank 2 | Centroid: ' prompt' | Score: 0.0015
-  Tokens: [' prompt', ' promise']
-Rank 3 | Centroid: '	message' | Score: 0.0001
-  Tokens: ['(message', '\tmessage', ':message', '$message', ',message', '=message', '/message', '<message']
-Rank 4 | Centroid: ' question' | Score: 0.0001
-  Tokens: [' question', ' lesson']
-Rank 5 | Centroid: ' phrase' | Score: 0.0000
-  Tokens: [' statement', ' phrase', ' wording']
-Rank 6 | Centroid: ' mes' | Score: 0.0000
-  Tokens: [' mes']
-Rank 7 | Centroid: ' motif' | Score: 0.0000
-  Tokens: [' motif', ' theme']
-Rank 8 | Centroid: ' answer' | Score: 0.0000
-  Tokens: [' answer', ' response']
-Rank 9 | Centroid: ' information' | Score: 0.0000
-  Tokens: [' information', ' user']
-Rank 10 | Centroid: ' point' | Score: 0.0000
-  Tokens: [' point', ' position']
-Rank 11 | Centroid: ' month' | Score: 0.0000
-  Tokens: [' month', ' moment']
-Rank 12 | Centroid: ' maximum' | Score: 0.0000
-  Tokens: [' maximum']
-Rank 13 | Centroid: ' mate' | Score: 0.0000
-  Tokens: [' mate']
-Rank 14 | Centroid: ' main' | Score: 0.0000
-  Tokens: [' main']
+Rank 1 | Centroid: ' statement' | Score: 0.5391
+  Tokens: [' statement', ' sentence', ' paragraph', ' phrase', ' statements', ' wording', ' stmt', ' speech']
+Rank 2 | Centroid: ' text' | Score: 0.1533
+  Tokens: [' text', ' content']
+Rank 3 | Centroid: ' prompt' | Score: 0.0928
+  Tokens: [' prompt']
+Rank 4 | Centroid: ' message' | Score: 0.0388
+  Tokens: [' message']
+Rank 5 | Centroid: ' details' | Score: 0.0247
+  Tokens: [' description', ' details', ' detail']
+Rank 6 | Centroid: ' information' | Score: 0.0044
+  Tokens: [' information', ' info', ' data']
+Rank 7 | Centroid: ' brief' | Score: 0.0028
+  Tokens: [' brief', ' snippet', ' piece', ' short']
+Rank 8 | Centroid: ' question' | Score: 0.0026
+  Tokens: [' query', ' request', ' question', ' task', ' problem']
+Rank 9 | Centroid: ' instructions' | Score: 0.0020
+  Tokens: [' instruction', ' instructions', ' announcement', ' invitation']
+Rank 10 | Centroid: ' idea' | Score: 0.0012
+  Tokens: [' idea', ' thought']
+Rank 11 | Centroid: ' summary' | Score: 0.0009
+  Tokens: [' summary', ' excerpt', ' outline']
+Rank 12 | Centroid: ' note' | Score: 0.0008
+  Tokens: [' mention', ' note', ' notice']
+Rank 13 | Centroid: ' introduction' | Score: 0.0006
+  Tokens: [' passage', ' introduction', ' entry', ' opening', ' intro']
+Rank 14 | Centroid: ' quote' | Score: 0.0004
+  Tokens: [' quote']
+Rank 15 | Centroid: ' point' | Score: 0.0002
+  Tokens: [' point', ' post', ' points', ' line', ' one', ' main']
+Rank 16 | Centroid: ' input' | Score: 0.0002
+  Tokens: [' input']
+Rank 17 | Centroid: ' intention' | Score: 0.0002
+  Tokens: [' plan', ' intent', ' purpose', ' intention']
+Rank 18 | Centroid: ' topic' | Score: 0.0002
+  Tokens: [' title', ' theme', ' topic', ' subject']
+Rank 19 | Centroid: ' narrative' | Score: 0.0001
+  Tokens: [' story', ' script', ' narrative']
+Rank 20 | Centroid: ' event' | Score: 0.0001
+  Tokens: [' event', ' mission']
+Rank 21 | Centroid: ' provided' | Score: 0.0001
+  Tokens: [' given', ' provided', ' without']
+Rank 22 | Centroid: ' scenario' | Score: 0.0001
+  Tokens: [' setup', ' context', ' scene', ' scenario']
+Rank 23 | Centroid: ' hint' | Score: 0.0000
+  Tokens: [' hint', ' suggestion']
+Rank 24 | Centroid: ' caption' | Score: 0.0000
+  Tokens: [' caption']
+Rank 25 | Centroid: ' premise' | Score: 0.0000
+  Tokens: [' premise']
+Rank 26 | Centroid: ' trip' | Score: 0.0000
+  Tokens: [' trip']
+Rank 27 | Centroid: ' claim' | Score: 0.0000
+  Tokens: [' claim']
 
 **Chosen Concept:** Rank 1

@@ -1,70 +1,136 @@
 --- Step 119 Log ---
 
 == Filtered Candidates ==
-Token: ' prompt' (ID: 9934), Prob: 0.9922
-Token: ' message' (ID: 1943), Prob: 0.0022
-Token: ' Prompt' (ID: 59501), Prob: 0.0004
-Token: ' prompts' (ID: 50932), Prob: 0.0002
-Token: '(prompt' (ID: 72253), Prob: 0.0001
-Token: 'prompt' (ID: 40581), Prob: 0.0001
-Token: ' potential' (ID: 4650), Prob: 0.0000
-Token: ' question' (ID: 3405), Prob: 0.0000
-Token: 'Prompt' (ID: 54615), Prob: 0.0000
-Token: ' prompting' (ID: 49645), Prob: 0.0000
-Token: ' prompted' (ID: 28646), Prob: 0.0000
-Token: '_prompt' (ID: 61421), Prob: 0.0000
-Token: ' motif' (ID: 59512), Prob: 0.0000
-Token: ' prom' (ID: 2706), Prob: 0.0000
-Token: ' promise' (ID: 11222), Prob: 0.0000
-Token: ' hint' (ID: 13012), Prob: 0.0000
-Token: ' within' (ID: 2878), Prob: 0.0000
-Token: ' keyword' (ID: 16174), Prob: 0.0000
-Token: ' promotion' (ID: 20249), Prob: 0.0000
-Token: '.prompt' (ID: 65399), Prob: 0.0000
-Token: ' topic' (ID: 8544), Prob: 0.0000
-Token: ' point' (ID: 1459), Prob: 0.0000
-Token: ' theme' (ID: 6912), Prob: 0.0000
-Token: ' position' (ID: 2309), Prob: 0.0000
-Token: ' wording' (ID: 60227), Prob: 0.0000
-Token: ' priority' (ID: 10619), Prob: 0.0000
-Token: ' mood' (ID: 19671), Prob: 0.0000
-Token: ' messages' (ID: 6605), Prob: 0.0000
-Token: ' possible' (ID: 3204), Prob: 0.0000
-Token: ' PROM' (ID: 67688), Prob: 0.0000
-Token: ' title' (ID: 2265), Prob: 0.0000
-Token: ' promote' (ID: 11926), Prob: 0.0000
-Token: ' bold' (ID: 13939), Prob: 0.0000
+Token: ' clarity' (ID: 31273), Prob: 0.4297
+Token: ' structure' (ID: 5944), Prob: 0.2031
+Token: ' punctuation' (ID: 61503), Prob: 0.0581
+Token: ' ensure' (ID: 5978), Prob: 0.0354
+Token: ' flow' (ID: 6396), Prob: 0.0354
+Token: ' coherence' (ID: 77825), Prob: 0.0354
+Token: ' word' (ID: 3409), Prob: 0.0311
+Token: ' make' (ID: 1281), Prob: 0.0214
+Token: ' check' (ID: 1779), Prob: 0.0130
+Token: ' keep' (ID: 2506), Prob: 0.0130
+Token: ' style' (ID: 1707), Prob: 0.0115
+Token: ' use' (ID: 990), Prob: 0.0089
+Token: ' sentence' (ID: 11652), Prob: 0.0079
+Token: ' readability' (ID: 91494), Prob: 0.0054
+Token: ' vocabulary' (ID: 34918), Prob: 0.0048
+Token: ' pick' (ID: 3735), Prob: 0.0037
+Token: ' pacing' (ID: 82140), Prob: 0.0035
+Token: ' tone' (ID: 16232), Prob: 0.0033
+Token: ' avoid' (ID: 5648), Prob: 0.0031
+Token: ' language' (ID: 4128), Prob: 0.0029
+Token: ' adjust' (ID: 7500), Prob: 0.0027
+Token: ' paragraph' (ID: 14311), Prob: 0.0019
+Token: ' simplicity' (ID: 38975), Prob: 0.0019
+Token: ' conc' (ID: 3529), Prob: 0.0016
+Token: ' consistency' (ID: 28137), Prob: 0.0016
+Token: ' spelling' (ID: 42429), Prob: 0.0016
+Token: ' grammar' (ID: 31428), Prob: 0.0015
+Token: ' start' (ID: 1191), Prob: 0.0015
+Token: ' syntax' (ID: 19482), Prob: 0.0014
+Token: ' try' (ID: 1430), Prob: 0.0012
+Token: ' formatting' (ID: 36566), Prob: 0.0009
+Token: ' wording' (ID: 60227), Prob: 0.0009
+Token: ' anything' (ID: 4113), Prob: 0.0007
+Token: ' choose' (ID: 5157), Prob: 0.0007
+Token: ' improve' (ID: 7269), Prob: 0.0006
+Token: ' punct' (ID: 31355), Prob: 0.0006
+Token: ' add' (ID: 912), Prob: 0.0006
+Token: ' connect' (ID: 4564), Prob: 0.0006
+Token: ' transitions' (ID: 33592), Prob: 0.0005
+Token: ' paragraphs' (ID: 42643), Prob: 0.0005
+Token: ' words' (ID: 4244), Prob: 0.0005
+Token: ' spacing' (ID: 25943), Prob: 0.0005
+Token: ' repetition' (ID: 53415), Prob: 0.0005
+Token: ' see' (ID: 1490), Prob: 0.0004
+Token: ' join' (ID: 5138), Prob: 0.0004
+Token: ' keyword' (ID: 16174), Prob: 0.0004
+Token: ' replace' (ID: 8290), Prob: 0.0004
+Token: ' keywords' (ID: 20844), Prob: 0.0004
+Token: ' simplify' (ID: 39721), Prob: 0.0004
+Token: ' watch' (ID: 3736), Prob: 0.0004
+Token: ' adapt' (ID: 10515), Prob: 0.0004
+Token: ' switch' (ID: 3398), Prob: 0.0003
+Token: ' length' (ID: 3084), Prob: 0.0003
+Token: ' past' (ID: 3267), Prob: 0.0003
+Token: ' sentences' (ID: 22870), Prob: 0.0003
+Token: ' include' (ID: 2924), Prob: 0.0003
+Token: ' readiness' (ID: 61692), Prob: 0.0002
+Token: ' phrases' (ID: 31747), Prob: 0.0002
+Token: ' commas' (ID: 76602), Prob: 0.0002
+Token: ' proper' (ID: 6169), Prob: 0.0002
+Token: ' clich' (ID: 62592), Prob: 0.0002
+Token: ' form' (ID: 1352), Prob: 0.0001
+Token: ' stick' (ID: 9214), Prob: 0.0001
+Token: ' rhythm' (ID: 36290), Prob: 0.0001
+Token: ' redundancy' (ID: 89373), Prob: 0.0001
+Token: ' pace' (ID: 17857), Prob: 0.0001
+Token: ' get' (ID: 633), Prob: 0.0001
+Token: ' usage' (ID: 10431), Prob: 0.0001
+Token: ' polish' (ID: 44029), Prob: 0.0001
+Token: ' put' (ID: 2182), Prob: 0.0001
+Token: ' balance' (ID: 8172), Prob: 0.0001
+Token: ' smooth' (ID: 10876), Prob: 0.0001
+Token: ' incorporate' (ID: 32335), Prob: 0.0001
+Token: ' free' (ID: 1910), Prob: 0.0001
+Token: ' format' (ID: 3561), Prob: 0.0001
+Token: ' edit' (ID: 4499), Prob: 0.0001
+Token: ' revise' (ID: 64736), Prob: 0.0001
+Token: ' completeness' (ID: 79314), Prob: 0.0001
+Token: ' correct' (ID: 4396), Prob: 0.0001
+Token: ' overall' (ID: 8084), Prob: 0.0001
+Token: ' verb' (ID: 18607), Prob: 0.0001
+Token: ' correctness' (ID: 57323), Prob: 0.0001
+Token: ' organization' (ID: 7321), Prob: 0.0001
+Token: ' variety' (ID: 8045), Prob: 0.0001
+Token: ' transition' (ID: 9142), Prob: 0.0001
+Token: ' improvements' (ID: 18142), Prob: 0.0001
+Token: ' connectivity' (ID: 30257), Prob: 0.0001
+Token: ' refine' (ID: 45364), Prob: 0.0001
+Token: ' tid' (ID: 13112), Prob: 0.0001
 
 == Ranked Concepts (Clusters) ==
-Rank 1 | Centroid: 'Prompt' | Score: 0.9922
-  Tokens: [' prompt', ' Prompt', '(prompt', 'prompt', 'Prompt', '_prompt', '.prompt']
-Rank 2 | Centroid: ' message' | Score: 0.0022
-  Tokens: [' message', ' messages']
-Rank 3 | Centroid: ' prompts' | Score: 0.0002
-  Tokens: [' prompts', ' prompting', ' prompted']
-Rank 4 | Centroid: ' potential' | Score: 0.0000
-  Tokens: [' potential', ' possible']
-Rank 5 | Centroid: ' theme' | Score: 0.0000
-  Tokens: [' motif', ' keyword', ' topic', ' theme']
-Rank 6 | Centroid: ' question' | Score: 0.0000
-  Tokens: [' question']
-Rank 7 | Centroid: ' promote' | Score: 0.0000
-  Tokens: [' prom', ' promotion', ' PROM', ' promote']
-Rank 8 | Centroid: ' point' | Score: 0.0000
-  Tokens: [' point', ' position']
-Rank 9 | Centroid: ' promise' | Score: 0.0000
-  Tokens: [' promise']
-Rank 10 | Centroid: ' hint' | Score: 0.0000
-  Tokens: [' hint']
-Rank 11 | Centroid: ' within' | Score: 0.0000
-  Tokens: [' within']
-Rank 12 | Centroid: ' priority' | Score: 0.0000
-  Tokens: [' priority', ' bold']
-Rank 13 | Centroid: ' wording' | Score: 0.0000
-  Tokens: [' wording']
-Rank 14 | Centroid: ' mood' | Score: 0.0000
-  Tokens: [' mood']
-Rank 15 | Centroid: ' title' | Score: 0.0000
-  Tokens: [' title']
+Rank 1 | Centroid: ' clarity' | Score: 0.4746
+  Tokens: [' clarity', ' coherence', ' readability', ' simplicity', ' consistency', ' repetition', ' readiness', ' redundancy', ' completeness']
+Rank 2 | Centroid: ' format' | Score: 0.2158
+  Tokens: [' structure', ' style', ' formatting', ' form', ' format']
+Rank 3 | Centroid: ' make' | Score: 0.0835
+  Tokens: [' ensure', ' make', ' keep', ' use', ' avoid', ' choose', ' add', ' see', ' get']
+Rank 4 | Centroid: ' punctuation' | Score: 0.0586
+  Tokens: [' punctuation', ' commas', ' clich']
+Rank 5 | Centroid: ' vocabulary' | Score: 0.0457
+  Tokens: [' word', ' vocabulary', ' language', ' spelling', ' grammar', ' syntax', ' wording', ' words', ' keyword', ' keywords', ' verb']
+Rank 6 | Centroid: ' smooth' | Score: 0.0361
+  Tokens: [' flow', ' length', ' balance', ' smooth', ' free', ' overall']
+Rank 7 | Centroid: ' check' | Score: 0.0199
+  Tokens: [' check', ' pick', ' start', ' try', ' watch', ' stick']
+Rank 8 | Centroid: ' sentences' | Score: 0.0107
+  Tokens: [' sentence', ' paragraph', ' paragraphs', ' sentences', ' phrases']
+Rank 9 | Centroid: ' pace' | Score: 0.0076
+  Tokens: [' pacing', ' tone', ' spacing', ' rhythm', ' pace']
+Rank 10 | Centroid: ' adjust' | Score: 0.0036
+  Tokens: [' adjust', ' replace', ' adapt', ' edit']
+Rank 11 | Centroid: ' conc' | Score: 0.0024
+  Tokens: [' conc', ' anything']
+Rank 12 | Centroid: ' improve' | Score: 0.0017
+  Tokens: [' improve', ' simplify', ' include', ' incorporate', ' revise', ' improvements', ' refine']
+Rank 13 | Centroid: ' connect' | Score: 0.0011
+  Tokens: [' connect', ' join', ' connectivity']
+Rank 14 | Centroid: ' transition' | Score: 0.0010
+  Tokens: [' transitions', ' switch', ' transition']
+Rank 15 | Centroid: ' punct' | Score: 0.0006
+  Tokens: [' punct']
+Rank 16 | Centroid: ' past' | Score: 0.0004
+  Tokens: [' past', ' put']
+Rank 17 | Centroid: ' correct' | Score: 0.0004
+  Tokens: [' proper', ' correct', ' correctness']
+Rank 18 | Centroid: ' polish' | Score: 0.0002
+  Tokens: [' polish', ' tid']
+Rank 19 | Centroid: ' organization' | Score: 0.0002
+  Tokens: [' organization', ' variety']
+Rank 20 | Centroid: ' usage' | Score: 0.0001
+  Tokens: [' usage']
 
 **Chosen Concept:** Rank 1

@@ -1,76 +1,129 @@
 --- Step 120 Log ---
 
 == Filtered Candidates ==
-Token: ' yes' (ID: 9834), Prob: 0.9727
-Token: ' yeah' (ID: 21639), Prob: 0.0002
-Token: ' something' (ID: 2494), Prob: 0.0000
-Token: ' maybe' (ID: 7196), Prob: 0.0000
-Token: ' Yes' (ID: 7414), Prob: 0.0000
-Token: 'yes' (ID: 9693), Prob: 0.0000
-Token: ' hello' (ID: 23811), Prob: 0.0000
-Token: ' YES' (ID: 14080), Prob: 0.0000
-Token: ' nothing' (ID: 4302), Prob: 0.0000
-Token: ' etc' (ID: 4992), Prob: 0.0000
-Token: ' exactly' (ID: 6896), Prob: 0.0000
-Token: '=yes' (ID: 59565), Prob: 0.0000
-Token: ' positive' (ID: 6785), Prob: 0.0000
-Token: ' okay' (ID: 16910), Prob: 0.0000
-Token: ' also' (ID: 1083), Prob: 0.0000
-Token: ' whether' (ID: 3425), Prob: 0.0000
-Token: ' wait' (ID: 3783), Prob: 0.0000
-Token: ' answer' (ID: 4226), Prob: 0.0000
-Token: ' always' (ID: 2677), Prob: 0.0000
-Token: ' negative' (ID: 8225), Prob: 0.0000
-Token: ' say' (ID: 1977), Prob: 0.0000
-Token: ' one' (ID: 825), Prob: 0.0000
-Token: ' sure' (ID: 2704), Prob: 0.0000
-Token: ' none' (ID: 6857), Prob: 0.0000
-Token: ' possible' (ID: 3204), Prob: 0.0000
-Token: ' unknown' (ID: 9788), Prob: 0.0000
-Token: ' please' (ID: 4486), Prob: 0.0000
-Token: ' based' (ID: 3118), Prob: 0.0000
-Token: ' correct' (ID: 4396), Prob: 0.0000
-Token: ' either' (ID: 2987), Prob: 0.0000
-Token: ' enough' (ID: 3322), Prob: 0.0000
-Token: ' yet' (ID: 3602), Prob: 0.0000
-Token: ' zero' (ID: 7168), Prob: 0.0000
-Token: ' without' (ID: 2041), Prob: 0.0000
-Token: ' another' (ID: 2441), Prob: 0.0000
+Token: ' young' (ID: 3908), Prob: 0.8906
+Token: ' kids' (ID: 6837), Prob: 0.1064
+Token: ' children' (ID: 2841), Prob: 0.0041
+Token: ' younger' (ID: 14650), Prob: 0.0001
+Token: ' youth' (ID: 12537), Prob: 0.0000
+Token: ' small' (ID: 2613), Prob: 0.0000
+Token: ' toddlers' (ID: 78835), Prob: 0.0000
+Token: ' little' (ID: 2632), Prob: 0.0000
+Token: ' families' (ID: 8521), Prob: 0.0000
+Token: ' youngest' (ID: 38537), Prob: 0.0000
+Token: 'young' (ID: 81179), Prob: 0.0000
+Token: ' teenagers' (ID: 36619), Prob: 0.0000
+Token: ' girls' (ID: 7571), Prob: 0.0000
+Token: ' babies' (ID: 23920), Prob: 0.0000
+Token: ' teens' (ID: 26202), Prob: 0.0000
+Token: ' grandchildren' (ID: 49751), Prob: 0.0000
+Token: ' siblings' (ID: 36683), Prob: 0.0000
+Token: ' youngsters' (ID: 59995), Prob: 0.0000
+Token: ' kid' (ID: 10369), Prob: 0.0000
+Token: ' new' (ID: 501), Prob: 0.0000
+Token: ' family' (ID: 2997), Prob: 0.0000
+Token: ' Young' (ID: 13263), Prob: 0.0000
+Token: ' big' (ID: 2409), Prob: 0.0000
+Token: ' youths' (ID: 63962), Prob: 0.0000
+Token: ' daughters' (ID: 29868), Prob: 0.0000
+Token: ' boys' (ID: 13007), Prob: 0.0000
+Token: ' teenage' (ID: 33168), Prob: 0.0000
+Token: ' twins' (ID: 43636), Prob: 0.0000
+Token: ' youthful' (ID: 64555), Prob: 0.0000
+Token: ' years' (ID: 1635), Prob: 0.0000
+Token: ' hungry' (ID: 28956), Prob: 0.0000
+Token: ' short' (ID: 2805), Prob: 0.0000
+Token: ' quick' (ID: 3974), Prob: 0.0000
+Token: ' busy' (ID: 13028), Prob: 0.0000
+Token: ' elderly' (ID: 28820), Prob: 0.0000
+Token: ' curious' (ID: 22208), Prob: 0.0000
+Token: ' sons' (ID: 25350), Prob: 0.0000
+Token: ' cute' (ID: 18838), Prob: 0.0000
+Token: ' infants' (ID: 41434), Prob: 0.0000
+Token: ' students' (ID: 4143), Prob: 0.0000
+Token: ' adults' (ID: 12598), Prob: 0.0000
+Token: ' bright' (ID: 9906), Prob: 0.0000
+Token: ' long' (ID: 1293), Prob: 0.0000
+Token: ' friends' (ID: 4780), Prob: 0.0000
+Token: ' preschool' (ID: 60805), Prob: 0.0000
+Token: ' parents' (ID: 6562), Prob: 0.0000
+Token: ' excited' (ID: 12035), Prob: 0.0000
+Token: ' lonely' (ID: 39566), Prob: 0.0000
+Token: ' jeunes' (ID: 59020), Prob: 0.0000
+Token: ' kidd' (ID: 91415), Prob: 0.0000
+Token: ' old' (ID: 2310), Prob: 0.0000
+Token: ' guys' (ID: 7598), Prob: 0.0000
+Token: ' tiny' (ID: 13673), Prob: 0.0000
+Token: '-year' (ID: 4666), Prob: 0.0000
+Token: ' teen' (ID: 9378), Prob: 0.0000
+Token: ' people' (ID: 1251), Prob: 0.0000
+Token: ' main' (ID: 1887), Prob: 0.0000
+Token: ' newborn' (ID: 45297), Prob: 0.0000
+Token: ' working' (ID: 3238), Prob: 0.0000
+Token: ' grown' (ID: 14700), Prob: 0.0000
+Token: ' active' (ID: 4541), Prob: 0.0000
+Token: ' cars' (ID: 9331), Prob: 0.0000
+Token: ' shy' (ID: 32294), Prob: 0.0000
+Token: ' older' (ID: 9014), Prob: 0.0000
+Token: ' year' (ID: 1042), Prob: 0.0000
+Token: ' offspring' (ID: 45371), Prob: 0.0000
+Token: ' large' (ID: 3460), Prob: 0.0000
+Token: ' strong' (ID: 3746), Prob: 0.0000
+Token: ' good' (ID: 1661), Prob: 0.0000
+Token: ' adorable' (ID: 40608), Prob: 0.0000
+Token: ' adolescents' (ID: 50416), Prob: 0.0000
+Token: ' underage' (ID: 87012), Prob: 0.0000
+Token: ' fast' (ID: 4937), Prob: 0.0000
+Token: ' healthy' (ID: 9314), Prob: 0.0000
+Token: ' aged' (ID: 19749), Prob: 0.0000
+Token: ' minors' (ID: 48540), Prob: 0.0000
+Token: ' high' (ID: 1550), Prob: 0.0000
+Token: ' kind' (ID: 3093), Prob: 0.0000
+Token: ' growing' (ID: 7826), Prob: 0.0000
+Token: ' baby' (ID: 8770), Prob: 0.0000
+Token: ' eager' (ID: 23541), Prob: 0.0000
+Token: ' junior' (ID: 26052), Prob: 0.0000
+Token: ' two' (ID: 1378), Prob: 0.0000
+Token: ' living' (ID: 5382), Prob: 0.0000
+Token: ' grand' (ID: 6662), Prob: 0.0000
+Token: ' legs' (ID: 14201), Prob: 0.0000
 
 == Ranked Concepts (Clusters) ==
-Rank 1 | Centroid: ' yes' | Score: 0.9727
-  Tokens: [' yes', ' yeah', ' Yes', 'yes', ' YES', '=yes']
-Rank 2 | Centroid: ' nothing' | Score: 0.0001
-  Tokens: [' something', ' nothing', ' none']
-Rank 3 | Centroid: ' maybe' | Score: 0.0000
-  Tokens: [' maybe', ' possible']
-Rank 4 | Centroid: ' hello' | Score: 0.0000
-  Tokens: [' hello', ' please']
-Rank 5 | Centroid: ' negative' | Score: 0.0000
-  Tokens: [' positive', ' negative', ' zero']
-Rank 6 | Centroid: ' also' | Score: 0.0000
-  Tokens: [' also', ' always']
-Rank 7 | Centroid: ' wait' | Score: 0.0000
-  Tokens: [' wait', ' say']
-Rank 8 | Centroid: ' etc' | Score: 0.0000
-  Tokens: [' etc']
-Rank 9 | Centroid: ' exactly' | Score: 0.0000
-  Tokens: [' exactly']
-Rank 10 | Centroid: ' whether' | Score: 0.0000
-  Tokens: [' whether', ' either']
-Rank 11 | Centroid: ' okay' | Score: 0.0000
-  Tokens: [' okay']
-Rank 12 | Centroid: ' answer' | Score: 0.0000
-  Tokens: [' answer', ' correct']
-Rank 13 | Centroid: ' without' | Score: 0.0000
-  Tokens: [' unknown', ' based', ' without']
-Rank 14 | Centroid: ' one' | Score: 0.0000
-  Tokens: [' one', ' another']
-Rank 15 | Centroid: ' sure' | Score: 0.0000
-  Tokens: [' sure']
-Rank 16 | Centroid: ' enough' | Score: 0.0000
-  Tokens: [' enough']
-Rank 17 | Centroid: ' yet' | Score: 0.0000
-  Tokens: [' yet']
+Rank 1 | Centroid: ' young' | Score: 0.8906
+  Tokens: [' young', ' younger', ' youth', ' youngest', 'young', ' Young', ' youthful', ' jeunes', ' junior']
+Rank 2 | Centroid: ' kids' | Score: 0.1104
+  Tokens: [' kids', ' children', ' kid', ' kidd']
+Rank 3 | Centroid: ' small' | Score: 0.0000
+  Tokens: [' small', ' little', ' big', ' tiny', ' large']
+Rank 4 | Centroid: ' infants' | Score: 0.0000
+  Tokens: [' toddlers', ' babies', ' infants', ' preschool', ' newborn', ' offspring', ' baby']
+Rank 5 | Centroid: ' teenagers' | Score: 0.0000
+  Tokens: [' teenagers', ' teens', ' youngsters', ' youths', ' teenage', ' teen', ' adolescents', ' underage', ' minors']
+Rank 6 | Centroid: ' families' | Score: 0.0000
+  Tokens: [' families', ' family']
+Rank 7 | Centroid: ' siblings' | Score: 0.0000
+  Tokens: [' grandchildren', ' siblings', ' daughters', ' twins', ' sons', ' parents']
+Rank 8 | Centroid: ' boys' | Score: 0.0000
+  Tokens: [' girls', ' boys', ' students', ' guys', ' people', ' cars']
+Rank 9 | Centroid: ' quick' | Score: 0.0000
+  Tokens: [' new', ' short', ' quick', ' long', ' main', ' strong', ' good', ' fast', ' high', ' two']
+Rank 10 | Centroid: ' eager' | Score: 0.0000
+  Tokens: [' hungry', ' busy', ' curious', ' bright', ' excited', ' lonely', ' shy', ' healthy', ' eager']
+Rank 11 | Centroid: ' year' | Score: 0.0000
+  Tokens: [' years', '-year', ' year']
+Rank 12 | Centroid: ' older' | Score: 0.0000
+  Tokens: [' elderly', ' old', ' older', ' aged']
+Rank 13 | Centroid: ' growing' | Score: 0.0000
+  Tokens: [' working', ' grown', ' active', ' growing', ' living']
+Rank 14 | Centroid: ' cute' | Score: 0.0000
+  Tokens: [' cute', ' adorable']
+Rank 15 | Centroid: ' friends' | Score: 0.0000
+  Tokens: [' friends', ' legs']
+Rank 16 | Centroid: ' adults' | Score: 0.0000
+  Tokens: [' adults']
+Rank 17 | Centroid: ' kind' | Score: 0.0000
+  Tokens: [' kind']
+Rank 18 | Centroid: ' grand' | Score: 0.0000
+  Tokens: [' grand']
 
 **Chosen Concept:** Rank 1

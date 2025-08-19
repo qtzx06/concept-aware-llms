@@ -1,74 +1,146 @@
 --- Step 128 Log ---
 
 == Filtered Candidates ==
-Token: ' message' (ID: 1943), Prob: 0.9961
-Token: ' prompt' (ID: 9934), Prob: 0.0012
-Token: '.message' (ID: 6698), Prob: 0.0003
-Token: ' messages' (ID: 6605), Prob: 0.0002
-Token: ' question' (ID: 3405), Prob: 0.0001
-Token: ' Message' (ID: 4856), Prob: 0.0001
-Token: '(message' (ID: 7333), Prob: 0.0001
-Token: 'message' (ID: 1994), Prob: 0.0001
-Token: '	message' (ID: 24753), Prob: 0.0000
-Token: ' mes' (ID: 10846), Prob: 0.0000
-Token: ' statement' (ID: 5114), Prob: 0.0000
-Token: ':message' (ID: 91473), Prob: 0.0000
-Token: '$message' (ID: 42821), Prob: 0.0000
-Token: ',message' (ID: 72783), Prob: 0.0000
-Token: '-message' (ID: 29332), Prob: 0.0000
-Token: 'Message' (ID: 2052), Prob: 0.0000
-Token: ' theme' (ID: 6912), Prob: 0.0000
-Token: '=message' (ID: 87129), Prob: 0.0000
-Token: '_message' (ID: 6462), Prob: 0.0000
-Token: ' motif' (ID: 59512), Prob: 0.0000
+Token: ' narrative' (ID: 19221), Prob: 0.7773
+Token: ' story' (ID: 3364), Prob: 0.1533
+Token: ' elements' (ID: 5424), Prob: 0.0208
+Token: ' sentences' (ID: 22870), Prob: 0.0161
+Token: ' response' (ID: 2033), Prob: 0.0076
+Token: ' details' (ID: 3565), Prob: 0.0041
+Token: ' sections' (ID: 14158), Prob: 0.0036
+Token: ' example' (ID: 3110), Prob: 0.0028
+Token: ' parts' (ID: 5479), Prob: 0.0022
+Token: ' sentence' (ID: 11652), Prob: 0.0017
+Token: ' draft' (ID: 9960), Prob: 0.0013
+Token: ' tale' (ID: 23281), Prob: 0.0012
+Token: ' first' (ID: 1156), Prob: 0.0009
+Token: ' pieces' (ID: 9666), Prob: 0.0007
+Token: ' paragraphs' (ID: 42643), Prob: 0.0007
+Token: ' words' (ID: 4244), Prob: 0.0004
+Token: ' steps' (ID: 7354), Prob: 0.0004
+Token: ' outline' (ID: 21101), Prob: 0.0004
+Token: ' paragraph' (ID: 14311), Prob: 0.0003
+Token: ' final' (ID: 1590), Prob: 0.0003
+Token: ' components' (ID: 6813), Prob: 0.0003
+Token: ' thoughts' (ID: 11303), Prob: 0.0003
+Token: ' segments' (ID: 20632), Prob: 0.0002
+Token: ' lines' (ID: 5128), Prob: 0.0002
+Token: ' text' (ID: 1467), Prob: 0.0002
+Token: ' sample' (ID: 6077), Prob: 0.0002
+Token: ' answer' (ID: 4226), Prob: 0.0002
+Token: ' flow' (ID: 6396), Prob: 0.0001
+Token: ' structure' (ID: 5944), Prob: 0.0001
+Token: ' points' (ID: 3501), Prob: 0.0001
+Token: ' ideas' (ID: 6708), Prob: 0.0001
+Token: ' plot' (ID: 7089), Prob: 0.0001
+Token: ' thought' (ID: 3381), Prob: 0.0001
+Token: ' piece' (ID: 6573), Prob: 0.0001
+Token: ' scene' (ID: 6109), Prob: 0.0001
+Token: ' idea' (ID: 4522), Prob: 0.0000
+Token: ' fragments' (ID: 34503), Prob: 0.0000
+Token: ' short' (ID: 2805), Prob: 0.0000
+Token: ' scenes' (ID: 16065), Prob: 0.0000
+Token: ' summary' (ID: 12126), Prob: 0.0000
+Token: ' start' (ID: 1191), Prob: 0.0000
+Token: ' actual' (ID: 5042), Prob: 0.0000
+Token: ' beginning' (ID: 7167), Prob: 0.0000
+Token: ' part' (ID: 949), Prob: 0.0000
+Token: ' description' (ID: 4008), Prob: 0.0000
+Token: ' Narrative' (ID: 95721), Prob: 0.0000
+Token: ' narration' (ID: 85080), Prob: 0.0000
+Token: ' next' (ID: 1790), Prob: 0.0000
+Token: ' section' (ID: 3772), Prob: 0.0000
+Token: ' opening' (ID: 8568), Prob: 0.0000
+Token: ' version' (ID: 2319), Prob: 0.0000
+Token: ' plan' (ID: 3119), Prob: 0.0000
+Token: ' content' (ID: 2213), Prob: 0.0000
+Token: ' tips' (ID: 10414), Prob: 0.0000
+Token: ' template' (ID: 3811), Prob: 0.0000
+Token: ' stories' (ID: 7343), Prob: 0.0000
+Token: ' passage' (ID: 21085), Prob: 0.0000
+Token: ' characters' (ID: 5766), Prob: 0.0000
+Token: ' fictional' (ID: 43582), Prob: 0.0000
+Token: ' script' (ID: 5316), Prob: 0.0000
+Token: ' possible' (ID: 3204), Prob: 0.0000
+Token: ' language' (ID: 4128), Prob: 0.0000
+Token: ' examples' (ID: 10295), Prob: 0.0000
+Token: ' timeline' (ID: 24808), Prob: 0.0000
+Token: ' full' (ID: 2480), Prob: 0.0000
+Token: ' initial' (ID: 2856), Prob: 0.0000
+Token: ' ending' (ID: 13391), Prob: 0.0000
+Token: ' solution' (ID: 6291), Prob: 0.0000
+Token: ' bits' (ID: 9472), Prob: 0.0000
+Token: ' scenario' (ID: 15048), Prob: 0.0000
+Token: ' storytelling' (ID: 47829), Prob: 0.0000
+Token: ' highlights' (ID: 21314), Prob: 0.0000
+Token: ' storyboard' (ID: 42033), Prob: 0.0000
+Token: ' concise' (ID: 63594), Prob: 0.0000
+Token: ' best' (ID: 1850), Prob: 0.0000
+Token: ' writing' (ID: 4378), Prob: 0.0000
+Token: ' snippet' (ID: 43065), Prob: 0.0000
+Token: ' events' (ID: 4357), Prob: 0.0000
+Token: ' phrases' (ID: 31747), Prob: 0.0000
+Token: ' anecd' (ID: 49650), Prob: 0.0000
+Token: ' two' (ID: 1378), Prob: 0.0000
 Token: ' information' (ID: 1995), Prob: 0.0000
-Token: ' phrase' (ID: 17133), Prob: 0.0000
-Token: ' answer' (ID: 4226), Prob: 0.0000
-Token: ' messaging' (ID: 29522), Prob: 0.0000
-Token: ' MESSAGE' (ID: 40758), Prob: 0.0000
-Token: '/message' (ID: 50624), Prob: 0.0000
-Token: ' user' (ID: 1196), Prob: 0.0000
-Token: ' response' (ID: 2033), Prob: 0.0000
-Token: '.Message' (ID: 8472), Prob: 0.0000
-Token: ' month' (ID: 2254), Prob: 0.0000
-Token: ' position' (ID: 2309), Prob: 0.0000
-Token: ' lesson' (ID: 17755), Prob: 0.0000
-Token: ' point' (ID: 1459), Prob: 0.0000
-Token: '<message' (ID: 83747), Prob: 0.0000
-Token: ' mate' (ID: 29176), Prob: 0.0000
-Token: ' moment' (ID: 4445), Prob: 0.0000
-Token: ' mess' (ID: 9435), Prob: 0.0000
-Token: ' promise' (ID: 11222), Prob: 0.0000
-Token: ' date' (ID: 2400), Prob: 0.0000
-Token: ' maximum' (ID: 7192), Prob: 0.0000
-Token: ' mission' (ID: 8954), Prob: 0.0000
+Token: ' rest' (ID: 2732), Prob: 0.0000
+Token: ' prompt' (ID: 9934), Prob: 0.0000
+Token: ' breakdown' (ID: 29985), Prob: 0.0000
+Token: ' key' (ID: 1376), Prob: 0.0000
+Token: ' excerpt' (ID: 49465), Prob: 0.0000
+Token: ' instructions' (ID: 11221), Prob: 0.0000
+Token: ' narrator' (ID: 64171), Prob: 0.0000
+Token: ' main' (ID: 1887), Prob: 0.0000
+Token: ' dialogue' (ID: 21276), Prob: 0.0000
+Token: ' sketch' (ID: 25529), Prob: 0.0000
+Token: ' storyline' (ID: 50628), Prob: 0.0000
+Token: ' starting' (ID: 5916), Prob: 0.0000
+Token: ' chunks' (ID: 26757), Prob: 0.0000
+Token: ' different' (ID: 2155), Prob: 0.0000
+Token: ' facts' (ID: 13064), Prob: 0.0000
+Token: ' notes' (ID: 8388), Prob: 0.0000
+Token: ' detailed' (ID: 11682), Prob: 0.0000
 
 == Ranked Concepts (Clusters) ==
-Rank 1 | Centroid: '_message' | Score: 0.9961
-  Tokens: [' message', '.message', ' messages', ' Message', '(message', 'message', '\tmessage', '-message', 'Message', '_message', ' messaging', ' MESSAGE', '/message', '.Message']
-Rank 2 | Centroid: ' prompt' | Score: 0.0012
-  Tokens: [' prompt', ' promise']
-Rank 3 | Centroid: ' question' | Score: 0.0001
-  Tokens: [' question']
-Rank 4 | Centroid: ',message' | Score: 0.0000
-  Tokens: [':message', '$message', ',message', '=message', '<message']
-Rank 5 | Centroid: ' mes' | Score: 0.0000
-  Tokens: [' mes', ' mess']
-Rank 6 | Centroid: ' statement' | Score: 0.0000
-  Tokens: [' statement', ' phrase']
-Rank 7 | Centroid: ' motif' | Score: 0.0000
-  Tokens: [' theme', ' motif', ' lesson', ' mission']
-Rank 8 | Centroid: ' information' | Score: 0.0000
-  Tokens: [' information', ' user', ' maximum']
-Rank 9 | Centroid: ' answer' | Score: 0.0000
-  Tokens: [' answer', ' response']
-Rank 10 | Centroid: ' position' | Score: 0.0000
-  Tokens: [' position', ' point']
-Rank 11 | Centroid: ' month' | Score: 0.0000
-  Tokens: [' month', ' date']
-Rank 12 | Centroid: ' mate' | Score: 0.0000
-  Tokens: [' mate']
-Rank 13 | Centroid: ' moment' | Score: 0.0000
-  Tokens: [' moment']
+Rank 1 | Centroid: ' narrative' | Score: 0.9336
+  Tokens: [' narrative', ' story', ' tale', ' Narrative', ' narration', ' stories', ' fictional', ' storytelling', ' storyboard', ' anecd', ' narrator', ' storyline']
+Rank 2 | Centroid: ' elements' | Score: 0.0217
+  Tokens: [' elements', ' steps', ' components', ' lines', ' points', ' characters', ' events']
+Rank 3 | Centroid: ' sentences' | Score: 0.0182
+  Tokens: [' sentences', ' sentence', ' words', ' language', ' phrases', ' dialogue']
+Rank 4 | Centroid: ' answer' | Score: 0.0078
+  Tokens: [' response', ' answer', ' solution', ' prompt']
+Rank 5 | Centroid: ' sections' | Score: 0.0061
+  Tokens: [' sections', ' parts', ' segments', ' part', ' section']
+Rank 6 | Centroid: ' detailed' | Score: 0.0042
+  Tokens: [' details', ' summary', ' description', ' highlights', ' concise', ' breakdown', ' detailed']
+Rank 7 | Centroid: ' example' | Score: 0.0030
+  Tokens: [' example', ' sample', ' examples']
+Rank 8 | Centroid: ' outline' | Score: 0.0017
+  Tokens: [' draft', ' outline', ' template', ' sketch']
+Rank 9 | Centroid: ' initial' | Score: 0.0013
+  Tokens: [' first', ' final', ' actual', ' next', ' possible', ' full', ' initial', ' best', ' two', ' key', ' main', ' different']
+Rank 10 | Centroid: ' paragraph' | Score: 0.0010
+  Tokens: [' paragraphs', ' paragraph', ' passage']
+Rank 11 | Centroid: ' pieces' | Score: 0.0008
+  Tokens: [' pieces', ' piece', ' fragments', ' bits', ' chunks']
+Rank 12 | Centroid: ' ideas' | Score: 0.0005
+  Tokens: [' thoughts', ' ideas', ' thought', ' idea']
+Rank 13 | Centroid: ' timeline' | Score: 0.0004
+  Tokens: [' flow', ' structure', ' plot', ' plan', ' script', ' timeline']
+Rank 14 | Centroid: ' text' | Score: 0.0002
+  Tokens: [' text', ' short', ' writing']
+Rank 15 | Centroid: ' scene' | Score: 0.0001
+  Tokens: [' scene', ' scenes', ' scenario']
+Rank 16 | Centroid: ' starting' | Score: 0.0001
+  Tokens: [' start', ' beginning', ' opening', ' ending', ' starting']
+Rank 17 | Centroid: ' content' | Score: 0.0000
+  Tokens: [' content', ' information', ' rest']
+Rank 18 | Centroid: ' version' | Score: 0.0000
+  Tokens: [' version']
+Rank 19 | Centroid: ' tips' | Score: 0.0000
+  Tokens: [' tips', ' instructions', ' facts', ' notes']
+Rank 20 | Centroid: ' snippet' | Score: 0.0000
+  Tokens: [' snippet', ' excerpt']
 
 **Chosen Concept:** Rank 1

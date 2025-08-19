@@ -1,70 +1,159 @@
 --- Step 89 Log ---
 
 == Filtered Candidates ==
-Token: ' prompt' (ID: 9934), Prob: 0.9883
-Token: ' message' (ID: 1943), Prob: 0.0019
-Token: ' Prompt' (ID: 59501), Prob: 0.0004
-Token: ' prompts' (ID: 50932), Prob: 0.0002
-Token: '(prompt' (ID: 72253), Prob: 0.0001
-Token: 'prompt' (ID: 40581), Prob: 0.0001
-Token: ' question' (ID: 3405), Prob: 0.0000
-Token: ' prompting' (ID: 49645), Prob: 0.0000
-Token: ' potential' (ID: 4650), Prob: 0.0000
-Token: ' prompted' (ID: 28646), Prob: 0.0000
-Token: 'Prompt' (ID: 54615), Prob: 0.0000
-Token: '_prompt' (ID: 61421), Prob: 0.0000
-Token: ' within' (ID: 2878), Prob: 0.0000
-Token: ' motif' (ID: 59512), Prob: 0.0000
-Token: ' prom' (ID: 2706), Prob: 0.0000
-Token: ' promise' (ID: 11222), Prob: 0.0000
-Token: ' hint' (ID: 13012), Prob: 0.0000
-Token: ' keyword' (ID: 16174), Prob: 0.0000
-Token: ' promotion' (ID: 20249), Prob: 0.0000
-Token: '.prompt' (ID: 65399), Prob: 0.0000
-Token: ' topic' (ID: 8544), Prob: 0.0000
-Token: ' theme' (ID: 6912), Prob: 0.0000
-Token: ' wording' (ID: 60227), Prob: 0.0000
-Token: ' point' (ID: 1459), Prob: 0.0000
-Token: ' messages' (ID: 6605), Prob: 0.0000
-Token: ' bold' (ID: 13939), Prob: 0.0000
-Token: ' position' (ID: 2309), Prob: 0.0000
-Token: ' list' (ID: 1140), Prob: 0.0000
-Token: ' example' (ID: 3110), Prob: 0.0000
-Token: ' promote' (ID: 11926), Prob: 0.0000
-Token: ' mood' (ID: 19671), Prob: 0.0000
-Token: ' PROM' (ID: 67688), Prob: 0.0000
-Token: ' possible' (ID: 3204), Prob: 0.0000
+Token: ' positive' (ID: 6785), Prob: 0.5234
+Token: ' reflection' (ID: 21844), Prob: 0.1924
+Token: ' memorable' (ID: 32496), Prob: 0.0623
+Token: ' reflective' (ID: 51728), Prob: 0.0486
+Token: ' sense' (ID: 5530), Prob: 0.0334
+Token: ' thought' (ID: 3381), Prob: 0.0157
+Token: ' meaningful' (ID: 22414), Prob: 0.0139
+Token: ' lasting' (ID: 28769), Prob: 0.0084
+Token: ' note' (ID: 5185), Prob: 0.0074
+Token: ' personal' (ID: 4345), Prob: 0.0066
+Token: ' nice' (ID: 6419), Prob: 0.0066
+Token: ' conclusion' (ID: 16688), Prob: 0.0066
+Token: ' lesson' (ID: 17755), Prob: 0.0066
+Token: ' message' (ID: 1943), Prob: 0.0051
+Token: ' satisfying' (ID: 36054), Prob: 0.0051
+Token: ' strong' (ID: 3746), Prob: 0.0035
+Token: ' memory' (ID: 4938), Prob: 0.0035
+Token: ' takeaway' (ID: 88374), Prob: 0.0035
+Token: ' moment' (ID: 4445), Prob: 0.0027
+Token: ' summary' (ID: 12126), Prob: 0.0021
+Token: ' brief' (ID: 9814), Prob: 0.0019
+Token: ' closing' (ID: 15316), Prob: 0.0019
+Token: ' rewarding' (ID: 40993), Prob: 0.0019
+Token: ' vivid' (ID: 42020), Prob: 0.0019
+Token: ' warm' (ID: 8205), Prob: 0.0017
+Token: ' touching' (ID: 30587), Prob: 0.0016
+Token: ' nostalgic' (ID: 82274), Prob: 0.0016
+Token: ' happy' (ID: 6247), Prob: 0.0015
+Token: ' pleasant' (ID: 23795), Prob: 0.0015
+Token: ' satisfaction' (ID: 23689), Prob: 0.0012
+Token: ' peaceful' (ID: 25650), Prob: 0.0011
+Token: ' connection' (ID: 3633), Prob: 0.0009
+Token: ' resolution' (ID: 10935), Prob: 0.0009
+Token: ' realization' (ID: 48703), Prob: 0.0008
+Token: ' good' (ID: 1661), Prob: 0.0008
+Token: ' reward' (ID: 11313), Prob: 0.0008
+Token: ' thank' (ID: 9702), Prob: 0.0007
+Token: ' touch' (ID: 5796), Prob: 0.0007
+Token: ' mention' (ID: 6286), Prob: 0.0007
+Token: ' thoughtful' (ID: 42666), Prob: 0.0007
+Token: ' feeling' (ID: 8266), Prob: 0.0006
+Token: ' final' (ID: 1590), Prob: 0.0005
+Token: ' simple' (ID: 4285), Prob: 0.0005
+Token: ' closure' (ID: 21955), Prob: 0.0005
+Token: ' hopeful' (ID: 37550), Prob: 0.0005
+Token: ' sign' (ID: 1841), Prob: 0.0004
+Token: ' hint' (ID: 13012), Prob: 0.0004
+Token: ' forward' (ID: 4637), Prob: 0.0004
+Token: ' post' (ID: 1736), Prob: 0.0004
+Token: ' close' (ID: 3265), Prob: 0.0003
+Token: ' quiet' (ID: 11340), Prob: 0.0003
+Token: ' joyful' (ID: 82112), Prob: 0.0003
+Token: ' farewell' (ID: 71543), Prob: 0.0003
+Token: ' bit' (ID: 2699), Prob: 0.0003
+Token: ' highlight' (ID: 11167), Prob: 0.0003
+Token: ' sunset' (ID: 42984), Prob: 0.0003
+Token: ' descriptive' (ID: 52844), Prob: 0.0003
+Token: ' rest' (ID: 2732), Prob: 0.0002
+Token: ' lingering' (ID: 63510), Prob: 0.0002
+Token: ' respectful' (ID: 48050), Prob: 0.0002
+Token: ' celebration' (ID: 24916), Prob: 0.0002
+Token: ' wrap' (ID: 15061), Prob: 0.0002
+Token: ' significance' (ID: 25361), Prob: 0.0002
+Token: ' clear' (ID: 2797), Prob: 0.0002
+Token: ' sentiment' (ID: 25975), Prob: 0.0002
+Token: ' recommendation' (ID: 27682), Prob: 0.0002
+Token: ' comment' (ID: 3980), Prob: 0.0002
+Token: ' sensory' (ID: 47969), Prob: 0.0002
+Token: ' poetic' (ID: 75434), Prob: 0.0002
+Token: ' small' (ID: 2613), Prob: 0.0002
+Token: ' short' (ID: 2805), Prob: 0.0002
+Token: ' friendly' (ID: 11657), Prob: 0.0002
+Token: ' reaction' (ID: 12720), Prob: 0.0002
+Token: ' twist' (ID: 26646), Prob: 0.0002
+Token: ' contempl' (ID: 38371), Prob: 0.0002
+Token: ' visit' (ID: 3947), Prob: 0.0001
+Token: ' neat' (ID: 28485), Prob: 0.0001
+Token: ' heartfelt' (ID: 83111), Prob: 0.0001
+Token: ' thanks' (ID: 9339), Prob: 0.0001
+Token: ' smile' (ID: 15289), Prob: 0.0001
+Token: ' romantic' (ID: 23467), Prob: 0.0001
+Token: ' poignant' (ID: 92347), Prob: 0.0001
+Token: ' description' (ID: 4008), Prob: 0.0001
+Token: ' reminder' (ID: 26528), Prob: 0.0001
+Token: ' quote' (ID: 12641), Prob: 0.0001
+Token: ' notable' (ID: 27190), Prob: 0.0001
+Token: ' statement' (ID: 5114), Prob: 0.0001
+Token: ' sentence' (ID: 11652), Prob: 0.0001
+Token: ' uplifting' (ID: 94509), Prob: 0.0001
+Token: ' beautiful' (ID: 6233), Prob: 0.0001
+Token: ' powerful' (ID: 7988), Prob: 0.0001
+Token: ' blessing' (ID: 39049), Prob: 0.0001
+Token: ' point' (ID: 1459), Prob: 0.0001
+Token: ' call' (ID: 1618), Prob: 0.0001
+Token: ' heart' (ID: 4746), Prob: 0.0001
+Token: ' favorable' (ID: 36749), Prob: 0.0001
+Token: ' trium' (ID: 91806), Prob: 0.0001
+Token: ' result' (ID: 1102), Prob: 0.0001
 
 == Ranked Concepts (Clusters) ==
-Rank 1 | Centroid: 'Prompt' | Score: 0.9883
-  Tokens: [' prompt', ' Prompt', '(prompt', 'prompt', 'Prompt', '_prompt', '.prompt']
-Rank 2 | Centroid: ' message' | Score: 0.0019
-  Tokens: [' message', ' messages']
-Rank 3 | Centroid: ' prompts' | Score: 0.0002
-  Tokens: [' prompts', ' prompting', ' prompted']
-Rank 4 | Centroid: ' theme' | Score: 0.0000
-  Tokens: [' motif', ' keyword', ' topic', ' theme']
-Rank 5 | Centroid: ' question' | Score: 0.0000
-  Tokens: [' question']
-Rank 6 | Centroid: ' promote' | Score: 0.0000
-  Tokens: [' prom', ' promotion', ' promote', ' PROM']
-Rank 7 | Centroid: ' potential' | Score: 0.0000
-  Tokens: [' potential', ' possible']
-Rank 8 | Centroid: ' within' | Score: 0.0000
-  Tokens: [' within']
-Rank 9 | Centroid: ' promise' | Score: 0.0000
-  Tokens: [' promise']
-Rank 10 | Centroid: ' point' | Score: 0.0000
-  Tokens: [' point', ' position']
-Rank 11 | Centroid: ' hint' | Score: 0.0000
-  Tokens: [' hint']
-Rank 12 | Centroid: ' bold' | Score: 0.0000
-  Tokens: [' bold', ' mood']
-Rank 13 | Centroid: ' wording' | Score: 0.0000
-  Tokens: [' wording']
-Rank 14 | Centroid: ' example' | Score: 0.0000
-  Tokens: [' example']
-Rank 15 | Centroid: ' list' | Score: 0.0000
-  Tokens: [' list']
+Rank 1 | Centroid: ' nice' | Score: 0.5352
+  Tokens: [' positive', ' nice', ' happy', ' pleasant', ' good', ' friendly', ' neat', ' beautiful', ' favorable']
+Rank 2 | Centroid: ' reflection' | Score: 0.2578
+  Tokens: [' reflection', ' reflective', ' thought', ' contempl']
+Rank 3 | Centroid: ' memorable' | Score: 0.0645
+  Tokens: [' memorable', ' vivid', ' notable']
+Rank 4 | Centroid: ' sensory' | Score: 0.0347
+  Tokens: [' sense', ' feeling', ' significance', ' sentiment', ' sensory']
+Rank 5 | Centroid: ' thoughtful' | Score: 0.0148
+  Tokens: [' meaningful', ' thoughtful', ' respectful']
+Rank 6 | Centroid: ' small' | Score: 0.0129
+  Tokens: [' personal', ' strong', ' brief', ' simple', ' clear', ' small', ' short']
+Rank 7 | Centroid: ' lesson' | Score: 0.0102
+  Tokens: [' lesson', ' takeaway', ' reminder']
+Rank 8 | Centroid: ' summary' | Score: 0.0090
+  Tokens: [' conclusion', ' summary', ' recommendation', ' description']
+Rank 9 | Centroid: ' mention' | Score: 0.0088
+  Tokens: [' note', ' mention', ' hint', ' highlight']
+Rank 10 | Centroid: ' lingering' | Score: 0.0087
+  Tokens: [' lasting', ' lingering', ' heart']
+Rank 11 | Centroid: ' satisfying' | Score: 0.0063
+  Tokens: [' satisfying', ' satisfaction']
+Rank 12 | Centroid: ' memory' | Score: 0.0063
+  Tokens: [' memory', ' moment']
+Rank 13 | Centroid: ' statement' | Score: 0.0057
+  Tokens: [' message', ' comment', ' quote', ' statement', ' sentence', ' call']
+Rank 14 | Centroid: ' joyful' | Score: 0.0046
+  Tokens: [' nostalgic', ' peaceful', ' hopeful', ' joyful', ' sunset', ' poetic', ' heartfelt', ' romantic', ' poignant', ' uplifting', ' trium']
+Rank 15 | Centroid: ' reward' | Score: 0.0030
+  Tokens: [' rewarding', ' reward', ' celebration', ' blessing']
+Rank 16 | Centroid: ' closing' | Score: 0.0029
+  Tokens: [' closing', ' closure', ' close', ' wrap']
+Rank 17 | Centroid: ' touching' | Score: 0.0025
+  Tokens: [' touching', ' touch', ' twist', ' visit']
+Rank 18 | Centroid: ' quiet' | Score: 0.0021
+  Tokens: [' warm', ' quiet', ' powerful']
+Rank 19 | Centroid: ' resolution' | Score: 0.0020
+  Tokens: [' resolution', ' realization', ' reaction', ' result']
+Rank 20 | Centroid: ' thank' | Score: 0.0012
+  Tokens: [' thank', ' farewell', ' thanks']
+Rank 21 | Centroid: ' post' | Score: 0.0010
+  Tokens: [' forward', ' post', ' rest']
+Rank 22 | Centroid: ' connection' | Score: 0.0009
+  Tokens: [' connection']
+Rank 23 | Centroid: ' final' | Score: 0.0005
+  Tokens: [' final']
+Rank 24 | Centroid: ' sign' | Score: 0.0004
+  Tokens: [' sign']
+Rank 25 | Centroid: ' bit' | Score: 0.0004
+  Tokens: [' bit', ' point']
+Rank 26 | Centroid: ' descriptive' | Score: 0.0003
+  Tokens: [' descriptive']
+Rank 27 | Centroid: ' smile' | Score: 0.0001
+  Tokens: [' smile']
 
 **Chosen Concept:** Rank 1

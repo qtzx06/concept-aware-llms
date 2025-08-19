@@ -1,0 +1,71 @@
+--- Step 77 Log ---
+
+== Filtered Candidates ==
+Token: ' together' (ID: 3786), Prob: 0.0001
+Token: ' everything' (ID: 4297), Prob: 0.0000
+Token: ' something' (ID: 2494), Prob: 0.0000
+Token: ' things' (ID: 2513), Prob: 0.0000
+Token: ' words' (ID: 4244), Prob: 0.0000
+Token: ' like' (ID: 1075), Prob: 0.0000
+Token: 'gether' (ID: 3439), Prob: 0.0000
+Token: ' pieces' (ID: 9666), Prob: 0.0000
+Token: ' two' (ID: 1378), Prob: 0.0000
+Token: ' try' (ID: 1430), Prob: 0.0000
+Token: ' around' (ID: 2163), Prob: 0.0000
+Token: ' altogether' (ID: 30055), Prob: 0.0000
+Token: 'ting' (ID: 1280), Prob: 0.0000
+Token: ' another' (ID: 2441), Prob: 0.0000
+Token: ' four' (ID: 3040), Prob: 0.0000
+Token: 'ter' (ID: 465), Prob: 0.0000
+Token: ' across' (ID: 3941), Prob: 0.0000
+Token: 'ters' (ID: 5045), Prob: 0.0000
+Token: '-it' (ID: 37511), Prob: 0.0000
+Token: ' ideas' (ID: 6708), Prob: 0.0000
+Token: ' three' (ID: 2326), Prob: 0.0000
+Token: ' inside' (ID: 4766), Prob: 0.0000
+Token: ' everyone' (ID: 5019), Prob: 0.0000
+Token: ' forth' (ID: 13241), Prob: 0.0000
+Token: ' bold' (ID: 13939), Prob: 0.0000
+Token: '_it' (ID: 14631), Prob: 0.0000
+Token: ' maybe' (ID: 7196), Prob: 0.0000
+Token: ' one' (ID: 825), Prob: 0.0000
+Token: ' rằng' (ID: 128640), Prob: 0.0000
+Token: ' Together' (ID: 31155), Prob: 0.0000
+Token: ' half' (ID: 4279), Prob: 0.0000
+Token: ' aside' (ID: 15663), Prob: 0.0000
+Token: ' details' (ID: 3565), Prob: 0.0000
+Token: ' flesh' (ID: 24955), Prob: 0.0000
+Token: ' itu' (ID: 35691), Prob: 0.0000
+Token: ' away' (ID: 3123), Prob: 0.0000
+Token: ' piece' (ID: 6573), Prob: 0.0000
+Token: '_that' (ID: 70197), Prob: 0.0000
+
+== Ranked Concepts (Clusters) ==
+Rank 1 | Centroid: ' together' | Score: 0.0001
+  Tokens: [' together', 'gether', ' Together']
+Rank 2 | Centroid: ' everything' | Score: 0.0000
+  Tokens: [' everything', ' something', ' things', ' everyone']
+Rank 3 | Centroid: ' ideas' | Score: 0.0000
+  Tokens: [' words', ' ideas', ' bold', ' details']
+Rank 4 | Centroid: ' across' | Score: 0.0000
+  Tokens: [' like', ' try', ' around', ' across', ' inside']
+Rank 5 | Centroid: ' two' | Score: 0.0000
+  Tokens: [' two', ' another', ' four', ' three', ' one', ' half']
+Rank 6 | Centroid: 'ter' | Score: 0.0000
+  Tokens: ['ting', 'ter', 'ters']
+Rank 7 | Centroid: ' pieces' | Score: 0.0000
+  Tokens: [' pieces', ' piece']
+Rank 8 | Centroid: ' altogether' | Score: 0.0000
+  Tokens: [' altogether']
+Rank 9 | Centroid: '_it' | Score: 0.0000
+  Tokens: ['-it', '_it', ' itu']
+Rank 10 | Centroid: ' away' | Score: 0.0000
+  Tokens: [' forth', ' aside', ' away']
+Rank 11 | Centroid: ' rằng' | Score: 0.0000
+  Tokens: [' rằng', '_that']
+Rank 12 | Centroid: ' maybe' | Score: 0.0000
+  Tokens: [' maybe']
+Rank 13 | Centroid: ' flesh' | Score: 0.0000
+  Tokens: [' flesh']
+
+**Chosen Concept:** Rank 1

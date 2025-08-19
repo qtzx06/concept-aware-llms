@@ -1,67 +1,154 @@
 --- Step 73 Log ---
 
 == Filtered Candidates ==
-Token: ' prompt' (ID: 9934), Prob: 0.9805
-Token: ' message' (ID: 1943), Prob: 0.0016
-Token: ' Prompt' (ID: 59501), Prob: 0.0005
-Token: ' prompts' (ID: 50932), Prob: 0.0003
-Token: '(prompt' (ID: 72253), Prob: 0.0001
-Token: 'prompt' (ID: 40581), Prob: 0.0001
-Token: ' question' (ID: 3405), Prob: 0.0000
-Token: 'Prompt' (ID: 54615), Prob: 0.0000
-Token: ' prompting' (ID: 49645), Prob: 0.0000
-Token: ' potential' (ID: 4650), Prob: 0.0000
-Token: ' prompted' (ID: 28646), Prob: 0.0000
-Token: '_prompt' (ID: 61421), Prob: 0.0000
-Token: ' promise' (ID: 11222), Prob: 0.0000
-Token: ' prom' (ID: 2706), Prob: 0.0000
-Token: ' motif' (ID: 59512), Prob: 0.0000
-Token: ' hint' (ID: 13012), Prob: 0.0000
-Token: ' within' (ID: 2878), Prob: 0.0000
-Token: '.prompt' (ID: 65399), Prob: 0.0000
-Token: ' point' (ID: 1459), Prob: 0.0000
-Token: ' topic' (ID: 8544), Prob: 0.0000
-Token: ' keyword' (ID: 16174), Prob: 0.0000
-Token: ' promotion' (ID: 20249), Prob: 0.0000
-Token: ' example' (ID: 3110), Prob: 0.0000
-Token: ' bold' (ID: 13939), Prob: 0.0000
-Token: ' wording' (ID: 60227), Prob: 0.0000
-Token: ' messages' (ID: 6605), Prob: 0.0000
-Token: ' theme' (ID: 6912), Prob: 0.0000
-Token: ' list' (ID: 1140), Prob: 0.0000
-Token: ' mood' (ID: 19671), Prob: 0.0000
-Token: ' format' (ID: 3561), Prob: 0.0000
+Token: ' elements' (ID: 5424), Prob: 0.8359
+Token: ' aspects' (ID: 13566), Prob: 0.0776
+Token: ' impact' (ID: 5421), Prob: 0.0135
+Token: ' connections' (ID: 13234), Prob: 0.0135
+Token: ' moments' (ID: 13943), Prob: 0.0106
+Token: ' responses' (ID: 14507), Prob: 0.0044
+Token: ' appeal' (ID: 14303), Prob: 0.0023
+Token: ' reactions' (ID: 24473), Prob: 0.0023
+Token: ' touches' (ID: 28627), Prob: 0.0023
+Token: ' connection' (ID: 3633), Prob: 0.0014
+Token: ' touch' (ID: 5796), Prob: 0.0013
+Token: ' points' (ID: 3501), Prob: 0.0011
+Token: ' notes' (ID: 8388), Prob: 0.0005
+Token: ' depth' (ID: 7990), Prob: 0.0005
+Token: ' resonance' (ID: 56981), Prob: 0.0005
+Token: ' engagement' (ID: 19805), Prob: 0.0003
+Token: ' details' (ID: 3565), Prob: 0.0003
+Token: ' parts' (ID: 5479), Prob: 0.0003
+Token: ' components' (ID: 6813), Prob: 0.0003
+Token: ' feelings' (ID: 15650), Prob: 0.0003
+Token: ' impacts' (ID: 24905), Prob: 0.0003
+Token: ' tone' (ID: 16232), Prob: 0.0002
+Token: ' response' (ID: 2033), Prob: 0.0002
+Token: ' aspect' (ID: 12893), Prob: 0.0002
+Token: ' stakes' (ID: 44425), Prob: 0.0002
+Token: ' highs' (ID: 53779), Prob: 0.0002
+Token: ' reflections' (ID: 62751), Prob: 0.0001
+Token: ' beats' (ID: 33327), Prob: 0.0001
+Token: ' experiences' (ID: 11449), Prob: 0.0001
+Token: ' ties' (ID: 19818), Prob: 0.0001
+Token: ' undert' (ID: 18649), Prob: 0.0001
+Token: ' factors' (ID: 9363), Prob: 0.0001
+Token: ' weight' (ID: 4680), Prob: 0.0001
+Token: ' appeals' (ID: 34630), Prob: 0.0001
+Token: ' outcomes' (ID: 19554), Prob: 0.0001
+Token: ' cues' (ID: 55916), Prob: 0.0001
+Token: ' tones' (ID: 41976), Prob: 0.0001
+Token: ' reflection' (ID: 21844), Prob: 0.0000
+Token: ' qualities' (ID: 28500), Prob: 0.0000
+Token: ' growth' (ID: 6513), Prob: 0.0000
+Token: ' rel' (ID: 1351), Prob: 0.0000
+Token: ' insights' (ID: 25709), Prob: 0.0000
+Token: ' journey' (ID: 11618), Prob: 0.0000
+Token: ' themes' (ID: 21386), Prob: 0.0000
+Token: ' imagery' (ID: 40445), Prob: 0.0000
+Token: ' element' (ID: 2392), Prob: 0.0000
+Token: ' connect' (ID: 4564), Prob: 0.0000
+Token: ' angles' (ID: 25941), Prob: 0.0000
+Token: ' effects' (ID: 6239), Prob: 0.0000
+Token: ' reaction' (ID: 12720), Prob: 0.0000
+Token: ' layers' (ID: 13617), Prob: 0.0000
+Token: ' investment' (ID: 9162), Prob: 0.0000
+Token: ' part' (ID: 949), Prob: 0.0000
+Token: ' tags' (ID: 9492), Prob: 0.0000
+Token: ' memories' (ID: 18923), Prob: 0.0000
+Token: ' hooks' (ID: 29677), Prob: 0.0000
+Token: ' touching' (ID: 30587), Prob: 0.0000
+Token: ' support' (ID: 1824), Prob: 0.0000
+Token: ' nuances' (ID: 83789), Prob: 0.0000
+Token: ' thoughts' (ID: 11303), Prob: 0.0000
+Token: ' take' (ID: 1896), Prob: 0.0000
+Token: ' involvement' (ID: 21587), Prob: 0.0000
+Token: ' peaks' (ID: 38935), Prob: 0.0000
+Token: ' scenes' (ID: 16065), Prob: 0.0000
+Token: ' reson' (ID: 28180), Prob: 0.0000
+Token: ' traits' (ID: 24055), Prob: 0.0000
+Token: ' quotes' (ID: 17194), Prob: 0.0000
+Token: ' consequences' (ID: 15917), Prob: 0.0000
+Token: ' closure' (ID: 21955), Prob: 0.0000
+Token: ' resolution' (ID: 10935), Prob: 0.0000
+Token: ' relief' (ID: 15957), Prob: 0.0000
+Token: ' significance' (ID: 25361), Prob: 0.0000
+Token: ' bonds' (ID: 26363), Prob: 0.0000
+Token: ' expressions' (ID: 23393), Prob: 0.0000
+Token: ' content' (ID: 2213), Prob: 0.0000
+Token: ' insight' (ID: 20017), Prob: 0.0000
+Token: ' connecting' (ID: 20913), Prob: 0.0000
+Token: ' interactions' (ID: 21880), Prob: 0.0000
+Token: ' motivation' (ID: 24798), Prob: 0.0000
+Token: ' toll' (ID: 25851), Prob: 0.0000
+Token: ' transitions' (ID: 33592), Prob: 0.0000
+Token: ' storytelling' (ID: 47829), Prob: 0.0000
+Token: ' highlights' (ID: 21314), Prob: 0.0000
+Token: ' first' (ID: 1156), Prob: 0.0000
+Token: ' characters' (ID: 5766), Prob: 0.0000
+Token: ' reasons' (ID: 7966), Prob: 0.0000
+Token: ' turns' (ID: 10577), Prob: 0.0000
+Token: ' triggers' (ID: 30754), Prob: 0.0000
+Token: ' arcs' (ID: 66750), Prob: 0.0000
+Token: ' context' (ID: 2266), Prob: 0.0000
+Token: ' stake' (ID: 18279), Prob: 0.0000
+Token: ' satisfaction' (ID: 23689), Prob: 0.0000
+Token: ' connects' (ID: 33061), Prob: 0.0000
+Token: ' motivations' (ID: 64831), Prob: 0.0000
+Token: ' contrasts' (ID: 82279), Prob: 0.0000
+Token: ' contrast' (ID: 12872), Prob: 0.0000
+Token: ' experience' (ID: 3139), Prob: 0.0000
 
 == Ranked Concepts (Clusters) ==
-Rank 1 | Centroid: 'Prompt' | Score: 0.9805
-  Tokens: [' prompt', ' Prompt', '(prompt', 'prompt', 'Prompt', '_prompt', '.prompt']
-Rank 2 | Centroid: ' message' | Score: 0.0016
-  Tokens: [' message', ' messages']
-Rank 3 | Centroid: ' prompts' | Score: 0.0004
-  Tokens: [' prompts', ' prompting', ' prompted']
-Rank 4 | Centroid: ' question' | Score: 0.0000
-  Tokens: [' question']
-Rank 5 | Centroid: ' theme' | Score: 0.0000
-  Tokens: [' motif', ' topic', ' theme']
-Rank 6 | Centroid: ' potential' | Score: 0.0000
-  Tokens: [' potential']
-Rank 7 | Centroid: ' prom' | Score: 0.0000
-  Tokens: [' prom', ' promotion']
-Rank 8 | Centroid: ' keyword' | Score: 0.0000
-  Tokens: [' keyword', ' wording']
-Rank 9 | Centroid: ' promise' | Score: 0.0000
-  Tokens: [' promise']
-Rank 10 | Centroid: ' bold' | Score: 0.0000
-  Tokens: [' bold', ' mood']
-Rank 11 | Centroid: ' hint' | Score: 0.0000
-  Tokens: [' hint']
-Rank 12 | Centroid: ' list' | Score: 0.0000
-  Tokens: [' list', ' format']
-Rank 13 | Centroid: ' within' | Score: 0.0000
-  Tokens: [' within']
-Rank 14 | Centroid: ' point' | Score: 0.0000
-  Tokens: [' point']
-Rank 15 | Centroid: ' example' | Score: 0.0000
-  Tokens: [' example']
+Rank 1 | Centroid: ' aspects' | Score: 0.9141
+  Tokens: [' elements', ' aspects', ' components', ' aspect', ' factors', ' element']
+Rank 2 | Centroid: ' connecting' | Score: 0.0150
+  Tokens: [' connections', ' connection', ' connect', ' connecting', ' connects']
+Rank 3 | Centroid: ' impacts' | Score: 0.0139
+  Tokens: [' impact', ' impacts', ' outcomes', ' effects', ' consequences']
+Rank 4 | Centroid: ' thoughts' | Score: 0.0109
+  Tokens: [' moments', ' feelings', ' memories', ' thoughts', ' expressions']
+Rank 5 | Centroid: ' reactions' | Score: 0.0070
+  Tokens: [' responses', ' reactions', ' response', ' reaction', ' interactions']
+Rank 6 | Centroid: ' touch' | Score: 0.0036
+  Tokens: [' touches', ' touch', ' touching']
+Rank 7 | Centroid: ' appeal' | Score: 0.0024
+  Tokens: [' appeal', ' appeals']
+Rank 8 | Centroid: ' peaks' | Score: 0.0020
+  Tokens: [' points', ' notes', ' highs', ' beats', ' peaks', ' quotes', ' transitions', ' highlights', ' turns', ' arcs']
+Rank 9 | Centroid: ' relief' | Score: 0.0007
+  Tokens: [' depth', ' weight', ' growth', ' rel', ' support', ' take', ' relief', ' content', ' first']
+Rank 10 | Centroid: ' resonance' | Score: 0.0005
+  Tokens: [' resonance', ' reson', ' resolution']
+Rank 11 | Centroid: ' tone' | Score: 0.0004
+  Tokens: [' tone', ' undert', ' tones', ' toll']
+Rank 12 | Centroid: ' involvement' | Score: 0.0004
+  Tokens: [' engagement', ' investment', ' involvement', ' satisfaction']
+Rank 13 | Centroid: ' parts' | Score: 0.0003
+  Tokens: [' parts', ' part']
+Rank 14 | Centroid: ' details' | Score: 0.0003
+  Tokens: [' details']
+Rank 15 | Centroid: ' reflections' | Score: 0.0002
+  Tokens: [' reflections', ' reflection']
+Rank 16 | Centroid: ' stakes' | Score: 0.0002
+  Tokens: [' stakes', ' stake']
+Rank 17 | Centroid: ' experience' | Score: 0.0002
+  Tokens: [' experiences', ' journey', ' experience']
+Rank 18 | Centroid: ' ties' | Score: 0.0002
+  Tokens: [' ties', ' hooks', ' bonds', ' triggers']
+Rank 19 | Centroid: ' traits' | Score: 0.0001
+  Tokens: [' qualities', ' themes', ' scenes', ' traits', ' characters']
+Rank 20 | Centroid: ' insights' | Score: 0.0001
+  Tokens: [' insights', ' imagery', ' insight', ' storytelling']
+Rank 21 | Centroid: ' motivations' | Score: 0.0001
+  Tokens: [' cues', ' nuances', ' reasons', ' motivations']
+Rank 22 | Centroid: ' angles' | Score: 0.0001
+  Tokens: [' angles', ' layers', ' tags']
+Rank 23 | Centroid: ' closure' | Score: 0.0000
+  Tokens: [' closure', ' motivation']
+Rank 24 | Centroid: ' significance' | Score: 0.0000
+  Tokens: [' significance', ' context']
+Rank 25 | Centroid: ' contrasts' | Score: 0.0000
+  Tokens: [' contrasts', ' contrast']
 
 **Chosen Concept:** Rank 1

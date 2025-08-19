@@ -1,79 +1,91 @@
 --- Step 124 Log ---
 
 == Filtered Candidates ==
-Token: ' yes' (ID: 9834), Prob: 0.9766
-Token: ' yeah' (ID: 21639), Prob: 0.0003
-Token: 'yes' (ID: 9693), Prob: 0.0000
-Token: ' something' (ID: 2494), Prob: 0.0000
-Token: ' maybe' (ID: 7196), Prob: 0.0000
-Token: ' Yes' (ID: 7414), Prob: 0.0000
-Token: ' hello' (ID: 23811), Prob: 0.0000
-Token: ' YES' (ID: 14080), Prob: 0.0000
-Token: ' nothing' (ID: 4302), Prob: 0.0000
-Token: '=yes' (ID: 59565), Prob: 0.0000
-Token: ' etc' (ID: 4992), Prob: 0.0000
-Token: ' exactly' (ID: 6896), Prob: 0.0000
-Token: ' positive' (ID: 6785), Prob: 0.0000
-Token: ' also' (ID: 1083), Prob: 0.0000
-Token: ' whether' (ID: 3425), Prob: 0.0000
-Token: ' okay' (ID: 16910), Prob: 0.0000
-Token: ' wait' (ID: 3783), Prob: 0.0000
-Token: ' answer' (ID: 4226), Prob: 0.0000
-Token: ' always' (ID: 2677), Prob: 0.0000
-Token: ' negative' (ID: 8225), Prob: 0.0000
-Token: ' say' (ID: 1977), Prob: 0.0000
-Token: ' one' (ID: 825), Prob: 0.0000
-Token: ' sure' (ID: 2704), Prob: 0.0000
-Token: ' none' (ID: 6857), Prob: 0.0000
-Token: ' possible' (ID: 3204), Prob: 0.0000
-Token: ' unknown' (ID: 9788), Prob: 0.0000
-Token: ' based' (ID: 3118), Prob: 0.0000
-Token: ' please' (ID: 4486), Prob: 0.0000
-Token: ' either' (ID: 2987), Prob: 0.0000
-Token: ' yet' (ID: 3602), Prob: 0.0000
-Token: ' zero' (ID: 7168), Prob: 0.0000
-Token: ' without' (ID: 2041), Prob: 0.0000
+Token: ' around' (ID: 2163), Prob: 0.0000
+Token: ' feelings' (ID: 15650), Prob: 0.0000
+Token: 'ative' (ID: 1388), Prob: 0.0000
+Token: ' briefly' (ID: 26753), Prob: 0.0000
+Token: '-about' (ID: 68105), Prob: 0.0000
+Token: ' bout' (ID: 24623), Prob: 0.0000
+Token: '_about' (ID: 57975), Prob: 0.0000
+Token: ' past' (ID: 3267), Prob: 0.0000
+Token: '.about' (ID: 56963), Prob: 0.0000
+Token: ' flow' (ID: 6396), Prob: 0.0000
+Token: ' emotions' (ID: 21261), Prob: 0.0000
 Token: ' enough' (ID: 3322), Prob: 0.0000
-Token: ' correct' (ID: 4396), Prob: 0.0000
-Token: ' another' (ID: 2441), Prob: 0.0000
-Token: ' even' (ID: 1496), Prob: 0.0000
+Token: ' feeling' (ID: 8266), Prob: 0.0000
+Token: ' maybe' (ID: 7196), Prob: 0.0000
+Token: ' aloud' (ID: 70411), Prob: 0.0000
+Token: ' things' (ID: 2513), Prob: 0.0000
+Token: ' like' (ID: 1075), Prob: 0.0000
+Token: ' though' (ID: 3498), Prob: 0.0000
+Token: '/about' (ID: 42516), Prob: 0.0000
+Token: ' two' (ID: 1378), Prob: 0.0000
+Token: ' something' (ID: 2494), Prob: 0.0000
+Token: ' words' (ID: 4244), Prob: 0.0000
+Token: ' among' (ID: 4221), Prob: 0.0000
+Token: ' realistic' (ID: 25489), Prob: 0.0000
+Token: ' clothes' (ID: 15097), Prob: 0.0000
+Token: ' somehow' (ID: 16925), Prob: 0.0000
+Token: ' pros' (ID: 8709), Prob: 0.0000
+Token: ' somewhere' (ID: 14696), Prob: 0.0000
+Token: ' smoothly' (ID: 38411), Prob: 0.0000
+Token: ' tentang' (ID: 92064), Prob: 0.0000
+Token: 'ate' (ID: 349), Prob: 0.0000
+Token: ' without' (ID: 2041), Prob: 0.0000
+Token: ' characters' (ID: 5766), Prob: 0.0000
+Token: ' along' (ID: 3156), Prob: 0.0000
+Token: ' titles' (ID: 15311), Prob: 0.0000
+Token: ' pro' (ID: 462), Prob: 0.0000
+Token: ' smooth' (ID: 10876), Prob: 0.0000
+Token: ' away' (ID: 3123), Prob: 0.0000
+Token: ' together' (ID: 3786), Prob: 0.0000
+Token: ' inside' (ID: 4766), Prob: 0.0000
+Token: ' flu' (ID: 19660), Prob: 0.0000
+Token: ' emotionally' (ID: 37583), Prob: 0.0000
+Token: ' show' (ID: 1473), Prob: 0.0000
+Token: ' company' (ID: 2813), Prob: 0.0000
+Token: ' roughly' (ID: 17267), Prob: 0.0000
+Token: ' next' (ID: 1790), Prob: 0.0000
+Token: ' quality' (ID: 4271), Prob: 0.0000
+Token: ' customers' (ID: 6310), Prob: 0.0000
+Token: 'atie' (ID: 25852), Prob: 0.0000
+Token: ' frustration' (ID: 31986), Prob: 0.0000
 
 == Ranked Concepts (Clusters) ==
-Rank 1 | Centroid: ' yes' | Score: 0.9766
-  Tokens: [' yes', ' yeah', 'yes', ' Yes', ' YES', '=yes', ' sure']
-Rank 2 | Centroid: ' nothing' | Score: 0.0001
-  Tokens: [' something', ' nothing', ' none']
-Rank 3 | Centroid: ' maybe' | Score: 0.0000
-  Tokens: [' maybe', ' possible']
-Rank 4 | Centroid: ' hello' | Score: 0.0000
-  Tokens: [' hello', ' please']
-Rank 5 | Centroid: ' negative' | Score: 0.0000
-  Tokens: [' positive', ' negative', ' zero']
-Rank 6 | Centroid: ' also' | Score: 0.0000
-  Tokens: [' also', ' always']
-Rank 7 | Centroid: ' wait' | Score: 0.0000
-  Tokens: [' wait', ' say']
-Rank 8 | Centroid: ' whether' | Score: 0.0000
-  Tokens: [' whether', ' either']
-Rank 9 | Centroid: ' exactly' | Score: 0.0000
-  Tokens: [' exactly']
-Rank 10 | Centroid: ' etc' | Score: 0.0000
-  Tokens: [' etc']
-Rank 11 | Centroid: ' answer' | Score: 0.0000
-  Tokens: [' answer', ' correct']
-Rank 12 | Centroid: ' okay' | Score: 0.0000
-  Tokens: [' okay']
-Rank 13 | Centroid: ' one' | Score: 0.0000
-  Tokens: [' one', ' another']
-Rank 14 | Centroid: ' based' | Score: 0.0000
-  Tokens: [' based', ' without']
-Rank 15 | Centroid: ' unknown' | Score: 0.0000
-  Tokens: [' unknown']
-Rank 16 | Centroid: ' yet' | Score: 0.0000
-  Tokens: [' yet']
-Rank 17 | Centroid: ' enough' | Score: 0.0000
+Rank 1 | Centroid: ' along' | Score: 0.0000
+  Tokens: [' around', ' among', ' without', ' along', ' away', ' together', ' inside']
+Rank 2 | Centroid: ' feelings' | Score: 0.0000
+  Tokens: [' feelings', ' emotions', ' feeling', ' emotionally', ' frustration']
+Rank 3 | Centroid: '_about' | Score: 0.0000
+  Tokens: ['-about', ' bout', '_about', '.about', '/about', ' tentang']
+Rank 4 | Centroid: 'ative' | Score: 0.0000
+  Tokens: ['ative']
+Rank 5 | Centroid: ' briefly' | Score: 0.0000
+  Tokens: [' briefly', ' roughly']
+Rank 6 | Centroid: ' quality' | Score: 0.0000
+  Tokens: [' past', ' show', ' next', ' quality']
+Rank 7 | Centroid: ' flow' | Score: 0.0000
+  Tokens: [' flow', ' flu']
+Rank 8 | Centroid: ' clothes' | Score: 0.0000
+  Tokens: [' words', ' realistic', ' clothes', ' characters', ' company', ' customers']
+Rank 9 | Centroid: ' somehow' | Score: 0.0000
+  Tokens: [' maybe', ' somehow', ' somewhere']
+Rank 10 | Centroid: ' enough' | Score: 0.0000
   Tokens: [' enough']
-Rank 18 | Centroid: ' even' | Score: 0.0000
-  Tokens: [' even']
+Rank 11 | Centroid: ' things' | Score: 0.0000
+  Tokens: [' things', ' something']
+Rank 12 | Centroid: ' like' | Score: 0.0000
+  Tokens: [' like', ' two']
+Rank 13 | Centroid: ' aloud' | Score: 0.0000
+  Tokens: [' aloud', ' titles']
+Rank 14 | Centroid: ' though' | Score: 0.0000
+  Tokens: [' though']
+Rank 15 | Centroid: ' pros' | Score: 0.0000
+  Tokens: [' pros', ' pro']
+Rank 16 | Centroid: ' smoothly' | Score: 0.0000
+  Tokens: [' smoothly', ' smooth']
+Rank 17 | Centroid: 'ate' | Score: 0.0000
+  Tokens: ['ate', 'atie']
 
 **Chosen Concept:** Rank 1

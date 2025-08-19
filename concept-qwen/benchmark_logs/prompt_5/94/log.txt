@@ -1,116 +1,133 @@
 --- Step 94 Log ---
 
 == Filtered Candidates ==
-Token: ' make' (ID: 1281), Prob: 1.0000
-Token: ' making' (ID: 3259), Prob: 0.0000
-Token: ' makes' (ID: 3643), Prob: 0.0000
-Token: ' made' (ID: 1865), Prob: 0.0000
-Token: ' also' (ID: 1083), Prob: 0.0000
-Token: 'make' (ID: 6927), Prob: 0.0000
-Token: ' take' (ID: 1896), Prob: 0.0000
-Token: ' Make' (ID: 7405), Prob: 0.0000
-Token: ' mak' (ID: 50916), Prob: 0.0000
-Token: ' seem' (ID: 2803), Prob: 0.0000
-Token: ' mean' (ID: 3076), Prob: 0.0000
-Token: '(make' (ID: 36944), Prob: 0.0000
-Token: ' please' (ID: 4486), Prob: 0.0000
-Token: '.make' (ID: 10117), Prob: 0.0000
-Token: ' still' (ID: 2058), Prob: 0.0000
-Token: ' maken' (ID: 54056), Prob: 0.0000
-Token: ' need' (ID: 1184), Prob: 0.0000
-Token: ' definitely' (ID: 8491), Prob: 0.0000
-Token: '	make' (ID: 77438), Prob: 0.0000
-Token: ' sense' (ID: 5530), Prob: 0.0000
-Token: ' match' (ID: 2432), Prob: 0.0000
-Token: ' look' (ID: 1401), Prob: 0.0000
-Token: ' probably' (ID: 4658), Prob: 0.0000
-Token: ' work' (ID: 975), Prob: 0.0000
-Token: ' include' (ID: 2924), Prob: 0.0000
-Token: ' likely' (ID: 4363), Prob: 0.0000
-Token: ' read' (ID: 1349), Prob: 0.0000
-Token: ' give' (ID: 2968), Prob: 0.0000
-Token: ' require' (ID: 1373), Prob: 0.0000
-Token: ' say' (ID: 1977), Prob: 0.0000
-Token: ' MAKE' (ID: 36821), Prob: 0.0000
-Token: ' accept' (ID: 4193), Prob: 0.0000
-Token: ' use' (ID: 990), Prob: 0.0000
-Token: ' math' (ID: 6888), Prob: 0.0000
-Token: 'Make' (ID: 8078), Prob: 0.0000
-Token: ' always' (ID: 2677), Prob: 0.0000
-Token: ' sound' (ID: 5112), Prob: 0.0000
-Token: ' logically' (ID: 73045), Prob: 0.0000
-Token: ' come' (ID: 2525), Prob: 0.0000
-Token: ' clearly' (ID: 9355), Prob: 0.0000
-Token: ' mostly' (ID: 10008), Prob: 0.0000
-Token: '_make' (ID: 28230), Prob: 0.0000
-Token: ' communicate' (ID: 19032), Prob: 0.0000
-Token: ' see' (ID: 1490), Prob: 0.0000
-Token: ' contain' (ID: 6644), Prob: 0.0000
-Token: ' like' (ID: 1075), Prob: 0.0000
-Token: ' ask' (ID: 2548), Prob: 0.0000
-Token: ' become' (ID: 3635), Prob: 0.0000
-Token: ' appear' (ID: 4994), Prob: 0.0000
-Token: ' form' (ID: 1352), Prob: 0.0000
-Token: ' indicate' (ID: 13216), Prob: 0.0000
-Token: ' end' (ID: 835), Prob: 0.0000
-Token: ' consider' (ID: 2908), Prob: 0.0000
-Token: ' feel' (ID: 2666), Prob: 0.0000
-Token: ' correctly' (ID: 12440), Prob: 0.0000
-Token: ' meet' (ID: 3367), Prob: 0.0000
-Token: ' consist' (ID: 6685), Prob: 0.0000
-Token: ' assume' (ID: 9658), Prob: 0.0000
-Token: ' agree' (ID: 7503), Prob: 0.0000
-Token: ' relate' (ID: 28143), Prob: 0.0000
-Token: ' certainly' (ID: 7838), Prob: 0.0000
-Token: ' mainly' (ID: 14576), Prob: 0.0000
-Token: ' satisfy' (ID: 26553), Prob: 0.0000
-Token: ' gramm' (ID: 68125), Prob: 0.0000
-Token: ' answer' (ID: 4226), Prob: 0.0000
-Token: ' cause' (ID: 5240), Prob: 0.0000
-Token: ' somehow' (ID: 16925), Prob: 0.0000
-Token: ' matter' (ID: 4925), Prob: 0.0000
-Token: ' would' (ID: 1035), Prob: 0.0000
-Token: ' show' (ID: 1473), Prob: 0.0000
-Token: ' express' (ID: 3158), Prob: 0.0000
+Token: ' Let' (ID: 6771), Prob: 0.3223
+Token: ' Also' (ID: 7281), Prob: 0.1338
+Token: ' Use' (ID: 5443), Prob: 0.0811
+Token: ' Maybe' (ID: 10696), Prob: 0.0811
+Token: ' Like' (ID: 8909), Prob: 0.0264
+Token: ' Think' (ID: 21149), Prob: 0.0205
+Token: ' Perhaps' (ID: 18765), Prob: 0.0182
+Token: ' Start' (ID: 5145), Prob: 0.0110
+Token: ' Include' (ID: 29734), Prob: 0.0110
+Token: ' Add' (ID: 2691), Prob: 0.0076
+Token: ' Words' (ID: 27630), Prob: 0.0067
+Token: ' Hmm' (ID: 88190), Prob: 0.0049
+Token: ' Show' (ID: 6928), Prob: 0.0038
+Token: ' Colors' (ID: 9526), Prob: 0.0036
+Token: ' Describe' (ID: 60785), Prob: 0.0030
+Token: ' Action' (ID: 5586), Prob: 0.0023
+Token: ' Int' (ID: 1333), Prob: 0.0014
+Token: ' Something' (ID: 24656), Prob: 0.0012
+Token: ' Lighting' (ID: 44523), Prob: 0.0012
+Token: ' Des' (ID: 3874), Prob: 0.0011
+Token: ' Mention' (ID: 85148), Prob: 0.0011
+Token: ' Third' (ID: 20861), Prob: 0.0010
+Token: ' Light' (ID: 8658), Prob: 0.0009
+Token: ' Keep' (ID: 13655), Prob: 0.0009
+Token: ' Weather' (ID: 22629), Prob: 0.0009
+Token: ' Alright' (ID: 97593), Prob: 0.0009
+Token: ' Including' (ID: 55121), Prob: 0.0008
+Token: ' Color' (ID: 3478), Prob: 0.0007
+Token: ' Place' (ID: 10771), Prob: 0.0007
+Token: ' Talk' (ID: 18976), Prob: 0.0007
+Token: ' Time' (ID: 4120), Prob: 0.0007
+Token: ' Make' (ID: 7405), Prob: 0.0007
+Token: ' Focus' (ID: 25806), Prob: 0.0007
+Token: ' Dialogue' (ID: 69489), Prob: 0.0006
+Token: ' Children' (ID: 15044), Prob: 0.0006
+Token: ' Avoid' (ID: 34006), Prob: 0.0005
+Token: ' Using' (ID: 12091), Prob: 0.0005
+Token: ' Sounds' (ID: 44141), Prob: 0.0005
+Token: ' Sound' (ID: 14594), Prob: 0.0005
+Token: ' Adding' (ID: 30370), Prob: 0.0004
+Token: ' Wait' (ID: 13824), Prob: 0.0004
+Token: ' First' (ID: 5512), Prob: 0.0004
+Token: ' Setting' (ID: 20037), Prob: 0.0004
+Token: ' Highlight' (ID: 55994), Prob: 0.0004
+Token: ' Themes' (ID: 62087), Prob: 0.0004
+Token: ' Fire' (ID: 6647), Prob: 0.0004
+Token: ' Create' (ID: 4230), Prob: 0.0003
+Token: ' Language' (ID: 11434), Prob: 0.0003
+Token: ' Explore' (ID: 44052), Prob: 0.0003
+Token: ' Forest' (ID: 19988), Prob: 0.0003
+Token: ' Shadows' (ID: 66449), Prob: 0.0003
+Token: ' Could' (ID: 16503), Prob: 0.0003
+Token: ' Pro' (ID: 1298), Prob: 0.0002
+Token: ' Set' (ID: 2573), Prob: 0.0002
+Token: ' Rain' (ID: 21911), Prob: 0.0002
+Token: ' Okay' (ID: 35439), Prob: 0.0002
+Token: ' Characters' (ID: 44516), Prob: 0.0002
+Token: ' Seasons' (ID: 67200), Prob: 0.0002
+Token: ' Second' (ID: 10440), Prob: 0.0002
+Token: ' Actions' (ID: 26722), Prob: 0.0002
+Token: ' Build' (ID: 7854), Prob: 0.0002
+Token: ' Dark' (ID: 12258), Prob: 0.0002
+Token: ' Try' (ID: 9735), Prob: 0.0002
+Token: ' Conflict' (ID: 58585), Prob: 0.0002
+Token: ' Emotional' (ID: 94200), Prob: 0.0002
+Token: ' Need' (ID: 14656), Prob: 0.0002
+Token: ' Storm' (ID: 21862), Prob: 0.0002
+Token: ' Dreams' (ID: 52618), Prob: 0.0002
+Token: ' End' (ID: 3972), Prob: 0.0002
+Token: ' Names' (ID: 34875), Prob: 0.0002
+Token: ' Story' (ID: 15106), Prob: 0.0002
+Token: ' Frost' (ID: 41220), Prob: 0.0002
+Token: ' Person' (ID: 7357), Prob: 0.0001
+Token: ' Tom' (ID: 8364), Prob: 0.0001
+Token: ' Snow' (ID: 18901), Prob: 0.0001
+Token: ' Ensure' (ID: 29279), Prob: 0.0001
+Token: ' Choose' (ID: 22201), Prob: 0.0001
+Token: ' Starting' (ID: 27657), Prob: 0.0001
+Token: ' Bring' (ID: 39124), Prob: 0.0001
+Token: ' Establish' (ID: 39398), Prob: 0.0001
 
 == Ranked Concepts (Clusters) ==
-Rank 1 | Centroid: ' make' | Score: 1.0000
-  Tokens: [' make', ' making', ' makes', ' made', 'make', ' Make', ' mak', '(make', '.make', ' maken', '\tmake', ' MAKE', 'Make', '_make']
-Rank 2 | Centroid: ' still' | Score: 0.0000
-  Tokens: [' also', ' still', ' always']
-Rank 3 | Centroid: ' consider' | Score: 0.0000
-  Tokens: [' take', ' please', ' say', ' see', ' ask', ' consider', ' assume']
-Rank 4 | Centroid: ' seem' | Score: 0.0000
-  Tokens: [' seem', ' appear']
-Rank 5 | Centroid: ' mean' | Score: 0.0000
-  Tokens: [' mean']
-Rank 6 | Centroid: ' definitely' | Score: 0.0000
-  Tokens: [' definitely', ' probably', ' likely', ' clearly', ' certainly']
-Rank 7 | Centroid: ' need' | Score: 0.0000
-  Tokens: [' need', ' cause', ' matter']
-Rank 8 | Centroid: ' feel' | Score: 0.0000
-  Tokens: [' sense', ' sound', ' feel']
-Rank 9 | Centroid: ' use' | Score: 0.0000
-  Tokens: [' work', ' use', ' form', ' end']
-Rank 10 | Centroid: ' contain' | Score: 0.0000
-  Tokens: [' include', ' communicate', ' contain', ' consist', ' relate']
-Rank 11 | Centroid: ' indicate' | Score: 0.0000
-  Tokens: [' give', ' require', ' indicate', ' show']
-Rank 12 | Centroid: ' would' | Score: 0.0000
-  Tokens: [' look', ' like', ' would']
-Rank 13 | Centroid: ' match' | Score: 0.0000
-  Tokens: [' match', ' answer']
-Rank 14 | Centroid: ' logically' | Score: 0.0000
-  Tokens: [' math', ' logically', ' correctly', ' gramm', ' somehow']
-Rank 15 | Centroid: ' satisfy' | Score: 0.0000
-  Tokens: [' accept', ' meet', ' agree', ' satisfy']
-Rank 16 | Centroid: ' read' | Score: 0.0000
-  Tokens: [' read']
-Rank 17 | Centroid: ' come' | Score: 0.0000
-  Tokens: [' come', ' become']
-Rank 18 | Centroid: ' mostly' | Score: 0.0000
-  Tokens: [' mostly', ' mainly']
-Rank 19 | Centroid: ' express' | Score: 0.0000
-  Tokens: [' express']
+Rank 1 | Centroid: ' Let' | Score: 0.3223
+  Tokens: [' Let']
+Rank 2 | Centroid: ' Also' | Score: 0.1602
+  Tokens: [' Also', ' Like']
+Rank 3 | Centroid: ' Maybe' | Score: 0.1069
+  Tokens: [' Maybe', ' Perhaps', ' Hmm', ' Something', ' Alright', ' Could', ' Okay']
+Rank 4 | Centroid: ' Create' | Score: 0.0913
+  Tokens: [' Use', ' Show', ' Describe', ' Keep', ' Make', ' Avoid', ' Create', ' Explore', ' Build', ' Ensure', ' Choose', ' Bring']
+Rank 5 | Centroid: ' Try' | Score: 0.0212
+  Tokens: [' Think', ' Wait', ' Try', ' Need']
+Rank 6 | Centroid: ' Including' | Score: 0.0129
+  Tokens: [' Include', ' Including', ' Using', ' Adding', ' Establish']
+Rank 7 | Centroid: ' Start' | Score: 0.0119
+  Tokens: [' Start', ' Setting', ' Set', ' End', ' Starting']
+Rank 8 | Centroid: ' Names' | Score: 0.0077
+  Tokens: [' Words', ' Themes', ' Characters', ' Seasons', ' Names']
+Rank 9 | Centroid: ' Add' | Score: 0.0076
+  Tokens: [' Add']
+Rank 10 | Centroid: ' Colors' | Score: 0.0049
+  Tokens: [' Colors', ' Color', ' Children']
+Rank 11 | Centroid: ' Action' | Score: 0.0025
+  Tokens: [' Action', ' Actions']
+Rank 12 | Centroid: ' Tom' | Score: 0.0024
+  Tokens: [' Int', ' Time', ' Pro', ' Tom']
+Rank 13 | Centroid: ' Rain' | Score: 0.0023
+  Tokens: [' Weather', ' Fire', ' Forest', ' Rain', ' Storm', ' Frost', ' Snow']
+Rank 14 | Centroid: ' Light' | Score: 0.0023
+  Tokens: [' Lighting', ' Light', ' Dark']
+Rank 15 | Centroid: ' Highlight' | Score: 0.0021
+  Tokens: [' Mention', ' Focus', ' Highlight']
+Rank 16 | Centroid: ' Second' | Score: 0.0015
+  Tokens: [' Third', ' First', ' Second']
+Rank 17 | Centroid: ' Talk' | Score: 0.0012
+  Tokens: [' Talk', ' Language', ' Story']
+Rank 18 | Centroid: ' Des' | Score: 0.0011
+  Tokens: [' Des']
+Rank 19 | Centroid: ' Conflict' | Score: 0.0010
+  Tokens: [' Dialogue', ' Conflict', ' Emotional']
+Rank 20 | Centroid: ' Sounds' | Score: 0.0009
+  Tokens: [' Sounds', ' Sound']
+Rank 21 | Centroid: ' Place' | Score: 0.0007
+  Tokens: [' Place']
+Rank 22 | Centroid: ' Shadows' | Score: 0.0005
+  Tokens: [' Shadows', ' Dreams']
+Rank 23 | Centroid: ' Person' | Score: 0.0001
+  Tokens: [' Person']
 
 **Chosen Concept:** Rank 1

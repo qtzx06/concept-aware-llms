@@ -1,0 +1,98 @@
+--- Step 7 Log ---
+
+== Filtered Candidates ==
+Token: ' First' (ID: 5512), Prob: 0.0003
+Token: ' User' (ID: 2657), Prob: 0.0002
+Token: ' Need' (ID: 14656), Prob: 0.0002
+Token: ' Hmm' (ID: 88190), Prob: 0.0000
+Token: ' Users' (ID: 14627), Prob: 0.0000
+Token: ' Embed' (ID: 37068), Prob: 0.0000
+Token: ' Maybe' (ID: 10696), Prob: 0.0000
+Token: ' Person' (ID: 7357), Prob: 0.0000
+Token: ' Embedded' (ID: 61383), Prob: 0.0000
+Token: ' Customer' (ID: 12277), Prob: 0.0000
+Token: ' Starting' (ID: 27657), Prob: 0.0000
+Token: ' Prompt' (ID: 59501), Prob: 0.0000
+Token: ' Alright' (ID: 97593), Prob: 0.0000
+Token: ' Start' (ID: 5145), Prob: 0.0000
+Token: ' Task' (ID: 5430), Prob: 0.0000
+Token: ' Insert' (ID: 17101), Prob: 0.0000
+Token: ' Someone' (ID: 34172), Prob: 0.0000
+Token: ' Original' (ID: 17230), Prob: 0.0000
+Token: ' Got' (ID: 24528), Prob: 0.0000
+Token: ' Needs' (ID: 43140), Prob: 0.0000
+Token: ' Please' (ID: 5209), Prob: 0.0000
+Token: ' Let' (ID: 6771), Prob: 0.0000
+Token: ' Since' (ID: 8704), Prob: 0.0000
+Token: ' Wait' (ID: 13824), Prob: 0.0000
+Token: ' Student' (ID: 11726), Prob: 0.0000
+Token: ' Mother' (ID: 21043), Prob: 0.0000
+Token: ' Four' (ID: 13322), Prob: 0.0000
+Token: ' Parent' (ID: 17022), Prob: 0.0000
+Token: ' Place' (ID: 10771), Prob: 0.0000
+Token: ' user' (ID: 1196), Prob: 0.0000
+Token: ' Amy' (ID: 28693), Prob: 0.0000
+Token: ' Customers' (ID: 39589), Prob: 0.0000
+Token: ' Suppose' (ID: 82610), Prob: 0.0000
+Token: ' Make' (ID: 7405), Prob: 0.0000
+Token: ' Community' (ID: 12062), Prob: 0.0000
+Token: ' Maria' (ID: 23016), Prob: 0.0000
+Token: ' Prom' (ID: 17582), Prob: 0.0000
+Token: ' People' (ID: 8853), Prob: 0.0000
+Token: ' Emma' (ID: 34935), Prob: 0.0000
+Token: ' need' (ID: 1184), Prob: 0.0000
+Token: ' One' (ID: 3776), Prob: 0.0000
+Token: ' Client' (ID: 8423), Prob: 0.0000
+Token: ' Young' (ID: 13263), Prob: 0.0000
+Token: ' Well' (ID: 8325), Prob: 0.0000
+Token: ' Instruction' (ID: 29051), Prob: 0.0000
+Token: ' John' (ID: 3757), Prob: 0.0000
+Token: ' Time' (ID: 4120), Prob: 0.0000
+Token: ' Main' (ID: 4697), Prob: 0.0000
+Token: ' Today' (ID: 11201), Prob: 0.0000
+Token: ' Given' (ID: 16246), Prob: 0.0000
+Token: ' Students' (ID: 20173), Prob: 0.0000
+Token: ' Okay' (ID: 35439), Prob: 0.0000
+Token: ' Mom' (ID: 22180), Prob: 0.0000
+Token: ' Based' (ID: 20205), Prob: 0.0000
+Token: ' Owner' (ID: 25833), Prob: 0.0000
+
+== Ranked Concepts (Clusters) ==
+Rank 1 | Centroid: ' One' | Score: 0.0003
+  Tokens: [' First', ' Let', ' Four', ' One']
+Rank 2 | Centroid: ' User' | Score: 0.0002
+  Tokens: [' User', ' Users', ' user']
+Rank 3 | Centroid: ' Need' | Score: 0.0002
+  Tokens: [' Need', ' Needs', ' need']
+Rank 4 | Centroid: ' Okay' | Score: 0.0000
+  Tokens: [' Hmm', ' Maybe', ' Alright', ' Got', ' Wait', ' Well', ' Okay']
+Rank 5 | Centroid: ' Embed' | Score: 0.0000
+  Tokens: [' Embed', ' Embedded', ' Insert']
+Rank 6 | Centroid: ' People' | Score: 0.0000
+  Tokens: [' Person', ' Someone', ' People']
+Rank 7 | Centroid: ' Starting' | Score: 0.0000
+  Tokens: [' Starting', ' Start']
+Rank 8 | Centroid: ' Customer' | Score: 0.0000
+  Tokens: [' Customer', ' Customers', ' Community', ' Client']
+Rank 9 | Centroid: ' Prompt' | Score: 0.0000
+  Tokens: [' Prompt', ' Prom', ' Instruction']
+Rank 10 | Centroid: ' Since' | Score: 0.0000
+  Tokens: [' Please', ' Since', ' Suppose', ' Today', ' Given', ' Based']
+Rank 11 | Centroid: ' Task' | Score: 0.0000
+  Tokens: [' Task']
+Rank 12 | Centroid: ' Main' | Score: 0.0000
+  Tokens: [' Original', ' Time', ' Main']
+Rank 13 | Centroid: ' Emma' | Score: 0.0000
+  Tokens: [' Amy', ' Maria', ' Emma', ' John']
+Rank 14 | Centroid: ' Mother' | Score: 0.0000
+  Tokens: [' Mother', ' Parent', ' Mom']
+Rank 15 | Centroid: ' Student' | Score: 0.0000
+  Tokens: [' Student', ' Young', ' Students']
+Rank 16 | Centroid: ' Place' | Score: 0.0000
+  Tokens: [' Place']
+Rank 17 | Centroid: ' Make' | Score: 0.0000
+  Tokens: [' Make']
+Rank 18 | Centroid: ' Owner' | Score: 0.0000
+  Tokens: [' Owner']
+
+**Chosen Concept:** Rank 1

@@ -1,75 +1,163 @@
 --- Step 104 Log ---
 
 == Filtered Candidates ==
-Token: ' message' (ID: 1943), Prob: 0.9961
-Token: ' prompt' (ID: 9934), Prob: 0.0017
-Token: ' messages' (ID: 6605), Prob: 0.0004
-Token: '.message' (ID: 6698), Prob: 0.0003
-Token: ' Message' (ID: 4856), Prob: 0.0001
-Token: ' question' (ID: 3405), Prob: 0.0001
-Token: '(message' (ID: 7333), Prob: 0.0001
-Token: 'message' (ID: 1994), Prob: 0.0001
-Token: '	message' (ID: 24753), Prob: 0.0000
-Token: ' mes' (ID: 10846), Prob: 0.0000
-Token: ' statement' (ID: 5114), Prob: 0.0000
-Token: ':message' (ID: 91473), Prob: 0.0000
-Token: '$message' (ID: 42821), Prob: 0.0000
-Token: 'Message' (ID: 2052), Prob: 0.0000
-Token: ',message' (ID: 72783), Prob: 0.0000
-Token: ' information' (ID: 1995), Prob: 0.0000
-Token: '-message' (ID: 29332), Prob: 0.0000
-Token: ' motif' (ID: 59512), Prob: 0.0000
-Token: ' answer' (ID: 4226), Prob: 0.0000
-Token: '=message' (ID: 87129), Prob: 0.0000
-Token: ' messaging' (ID: 29522), Prob: 0.0000
-Token: '_message' (ID: 6462), Prob: 0.0000
+Token: ' story' (ID: 3364), Prob: 0.4805
+Token: ' narrative' (ID: 19221), Prob: 0.3750
+Token: ' language' (ID: 4128), Prob: 0.0947
+Token: ' tone' (ID: 16232), Prob: 0.0211
+Token: ' structure' (ID: 5944), Prob: 0.0128
+Token: ' flow' (ID: 6396), Prob: 0.0047
+Token: ' timeline' (ID: 24808), Prob: 0.0017
+Token: ' time' (ID: 882), Prob: 0.0011
+Token: ' plot' (ID: 7089), Prob: 0.0009
+Token: ' sentence' (ID: 11652), Prob: 0.0009
+Token: ' sentences' (ID: 22870), Prob: 0.0008
+Token: ' response' (ID: 2033), Prob: 0.0006
+Token: ' summary' (ID: 12126), Prob: 0.0006
+Token: ' details' (ID: 3565), Prob: 0.0005
+Token: ' words' (ID: 4244), Prob: 0.0004
+Token: ' paragraph' (ID: 14311), Prob: 0.0003
+Token: ' key' (ID: 1376), Prob: 0.0003
+Token: ' tale' (ID: 23281), Prob: 0.0002
+Token: ' title' (ID: 2265), Prob: 0.0002
+Token: ' instructions' (ID: 11221), Prob: 0.0002
+Token: ' points' (ID: 3501), Prob: 0.0002
+Token: ' answer' (ID: 4226), Prob: 0.0002
+Token: ' elements' (ID: 5424), Prob: 0.0002
+Token: ' name' (ID: 829), Prob: 0.0001
+Token: ' outline' (ID: 21101), Prob: 0.0001
+Token: ' main' (ID: 1887), Prob: 0.0001
+Token: ' length' (ID: 3084), Prob: 0.0001
+Token: ' information' (ID: 1995), Prob: 0.0001
+Token: ' narration' (ID: 85080), Prob: 0.0001
+Token: ' grammar' (ID: 31428), Prob: 0.0001
+Token: ' vocabulary' (ID: 34918), Prob: 0.0001
+Token: ' events' (ID: 4357), Prob: 0.0001
+Token: ' message' (ID: 1943), Prob: 0.0001
+Token: ' names' (ID: 5036), Prob: 0.0001
+Token: ' focus' (ID: 5244), Prob: 0.0001
+Token: ' narrator' (ID: 64171), Prob: 0.0001
+Token: ' keywords' (ID: 20844), Prob: 0.0001
+Token: ' description' (ID: 4008), Prob: 0.0000
+Token: ' steps' (ID: 7354), Prob: 0.0000
+Token: ' paragraphs' (ID: 42643), Prob: 0.0000
+Token: ' facts' (ID: 13064), Prob: 0.0000
+Token: ' dialogue' (ID: 21276), Prob: 0.0000
+Token: ' storyline' (ID: 50628), Prob: 0.0000
+Token: ' timeframe' (ID: 69953), Prob: 0.0000
+Token: ' word' (ID: 3409), Prob: 0.0000
+Token: ' storytelling' (ID: 47829), Prob: 0.0000
+Token: ' timing' (ID: 18405), Prob: 0.0000
+Token: ' text' (ID: 1467), Prob: 0.0000
+Token: ' writing' (ID: 4378), Prob: 0.0000
+Token: ' weather' (ID: 9104), Prob: 0.0000
+Token: ' transition' (ID: 9142), Prob: 0.0000
+Token: ' content' (ID: 2213), Prob: 0.0000
+Token: ' connection' (ID: 3633), Prob: 0.0000
+Token: ' conclusion' (ID: 16688), Prob: 0.0000
+Token: ' style' (ID: 1707), Prob: 0.0000
+Token: ' age' (ID: 4231), Prob: 0.0000
+Token: ' prose' (ID: 60701), Prob: 0.0000
+Token: ' verbs' (ID: 61846), Prob: 0.0000
+Token: ' format' (ID: 3561), Prob: 0.0000
+Token: ' action' (ID: 1917), Prob: 0.0000
+Token: ' temperature' (ID: 9315), Prob: 0.0000
+Token: ' passage' (ID: 21085), Prob: 0.0000
+Token: ' tense' (ID: 42687), Prob: 0.0000
 Token: ' theme' (ID: 6912), Prob: 0.0000
-Token: ' phrase' (ID: 17133), Prob: 0.0000
-Token: ' MESSAGE' (ID: 40758), Prob: 0.0000
-Token: ' user' (ID: 1196), Prob: 0.0000
-Token: '/message' (ID: 50624), Prob: 0.0000
-Token: ' point' (ID: 1459), Prob: 0.0000
-Token: ' response' (ID: 2033), Prob: 0.0000
-Token: '.Message' (ID: 8472), Prob: 0.0000
-Token: ' month' (ID: 2254), Prob: 0.0000
-Token: ' position' (ID: 2309), Prob: 0.0000
-Token: '<message' (ID: 83747), Prob: 0.0000
-Token: ' moment' (ID: 4445), Prob: 0.0000
-Token: ' promise' (ID: 11222), Prob: 0.0000
-Token: ' lesson' (ID: 17755), Prob: 0.0000
-Token: ' mate' (ID: 29176), Prob: 0.0000
-Token: ' main' (ID: 1887), Prob: 0.0000
-Token: ' maximum' (ID: 7192), Prob: 0.0000
-Token: ' mess' (ID: 9435), Prob: 0.0000
+Token: ' instruction' (ID: 7600), Prob: 0.0000
+Token: ' opening' (ID: 8568), Prob: 0.0000
+Token: ' total' (ID: 2790), Prob: 0.0000
+Token: ' days' (ID: 2849), Prob: 0.0000
+Token: ' core' (ID: 6200), Prob: 0.0000
+Token: ' dates' (ID: 12713), Prob: 0.0000
+Token: ' voice' (ID: 7743), Prob: 0.0000
+Token: ' script' (ID: 5316), Prob: 0.0000
+Token: ' actions' (ID: 6168), Prob: 0.0000
+Token: ' closure' (ID: 21955), Prob: 0.0000
+Token: ' stories' (ID: 7343), Prob: 0.0000
+Token: ' overall' (ID: 8084), Prob: 0.0000
+Token: ' rhythm' (ID: 36290), Prob: 0.0000
+Token: ' event' (ID: 1538), Prob: 0.0000
+Token: ' experience' (ID: 3139), Prob: 0.0000
+Token: ' setting' (ID: 6243), Prob: 0.0000
+Token: ' pace' (ID: 17857), Prob: 0.0000
+Token: ' duration' (ID: 8090), Prob: 0.0000
+Token: ' introduction' (ID: 16800), Prob: 0.0000
+Token: ' date' (ID: 2400), Prob: 0.0000
+Token: ' essay' (ID: 8895), Prob: 0.0000
+Token: ' article' (ID: 4549), Prob: 0.0000
+Token: ' prompt' (ID: 9934), Prob: 0.0000
+Token: ' pacing' (ID: 82140), Prob: 0.0000
+Token: ' rhyme' (ID: 96934), Prob: 0.0000
+Token: ' skills' (ID: 7361), Prob: 0.0000
+Token: ' emotions' (ID: 21261), Prob: 0.0000
+Token: ' anecd' (ID: 49650), Prob: 0.0000
+Token: ' translation' (ID: 14468), Prob: 0.0000
+Token: ' adventure' (ID: 17943), Prob: 0.0000
+Token: ' characters' (ID: 5766), Prob: 0.0000
+Token: ' scene' (ID: 6109), Prob: 0.0000
+Token: ' themes' (ID: 21386), Prob: 0.0000
+Token: ' headline' (ID: 31163), Prob: 0.0000
+Token: ' info' (ID: 3546), Prob: 0.0000
+Token: ' minutes' (ID: 4420), Prob: 0.0000
 
 == Ranked Concepts (Clusters) ==
-Rank 1 | Centroid: '_message' | Score: 0.9961
-  Tokens: [' message', ' messages', '.message', ' Message', '(message', 'message', '\tmessage', 'Message', '-message', ' messaging', '_message', ' MESSAGE', '/message', '.Message']
-Rank 2 | Centroid: ' prompt' | Score: 0.0017
-  Tokens: [' prompt', ' promise']
-Rank 3 | Centroid: ' question' | Score: 0.0001
-  Tokens: [' question']
-Rank 4 | Centroid: ',message' | Score: 0.0000
-  Tokens: [':message', '$message', ',message', '=message', '<message']
-Rank 5 | Centroid: ' statement' | Score: 0.0000
-  Tokens: [' statement', ' phrase']
-Rank 6 | Centroid: ' mes' | Score: 0.0000
-  Tokens: [' mes', ' mess']
-Rank 7 | Centroid: ' motif' | Score: 0.0000
-  Tokens: [' motif', ' theme']
-Rank 8 | Centroid: ' answer' | Score: 0.0000
-  Tokens: [' answer', ' response']
-Rank 9 | Centroid: ' information' | Score: 0.0000
-  Tokens: [' information', ' maximum']
-Rank 10 | Centroid: ' month' | Score: 0.0000
-  Tokens: [' month', ' moment', ' lesson']
-Rank 11 | Centroid: ' point' | Score: 0.0000
-  Tokens: [' point', ' position']
-Rank 12 | Centroid: ' user' | Score: 0.0000
-  Tokens: [' user']
-Rank 13 | Centroid: ' mate' | Score: 0.0000
-  Tokens: [' mate']
-Rank 14 | Centroid: ' main' | Score: 0.0000
-  Tokens: [' main']
+Rank 1 | Centroid: ' story' | Score: 0.8555
+  Tokens: [' story', ' narrative', ' tale', ' storyline', ' storytelling', ' stories', ' anecd']
+Rank 2 | Centroid: ' words' | Score: 0.0952
+  Tokens: [' language', ' words', ' grammar', ' vocabulary', ' word', ' voice']
+Rank 3 | Centroid: ' style' | Score: 0.0339
+  Tokens: [' tone', ' structure', ' style', ' format']
+Rank 4 | Centroid: ' flow' | Score: 0.0047
+  Tokens: [' flow']
+Rank 5 | Centroid: ' sentences' | Score: 0.0021
+  Tokens: [' sentence', ' sentences', ' paragraph', ' paragraphs']
+Rank 6 | Centroid: ' timeline' | Score: 0.0019
+  Tokens: [' timeline', ' timeframe', ' timing', ' tense', ' rhythm', ' pace', ' duration', ' pacing']
+Rank 7 | Centroid: ' temperature' | Score: 0.0012
+  Tokens: [' time', ' length', ' weather', ' age', ' temperature']
+Rank 8 | Centroid: ' plot' | Score: 0.0009
+  Tokens: [' plot']
+Rank 9 | Centroid: ' summary' | Score: 0.0008
+  Tokens: [' summary', ' outline', ' description', ' conclusion', ' passage', ' introduction']
+Rank 10 | Centroid: ' response' | Score: 0.0007
+  Tokens: [' response', ' answer', ' experience', ' prompt']
+Rank 11 | Centroid: ' details' | Score: 0.0005
+  Tokens: [' details', ' facts']
+Rank 12 | Centroid: ' core' | Score: 0.0004
+  Tokens: [' key', ' main', ' total', ' core', ' overall']
+Rank 13 | Centroid: ' name' | Score: 0.0004
+  Tokens: [' title', ' name', ' names']
+Rank 14 | Centroid: ' information' | Score: 0.0003
+  Tokens: [' instructions', ' information', ' instruction', ' info']
+Rank 15 | Centroid: ' minutes' | Score: 0.0002
+  Tokens: [' points', ' steps', ' days', ' minutes']
+Rank 16 | Centroid: ' narration' | Score: 0.0002
+  Tokens: [' narration', ' narrator', ' prose', ' rhyme']
+Rank 17 | Centroid: ' emotions' | Score: 0.0002
+  Tokens: [' elements', ' skills', ' emotions', ' characters']
+Rank 18 | Centroid: ' text' | Score: 0.0001
+  Tokens: [' message', ' text', ' content']
+Rank 19 | Centroid: ' event' | Score: 0.0001
+  Tokens: [' events', ' event', ' scene']
+Rank 20 | Centroid: ' opening' | Score: 0.0001
+  Tokens: [' transition', ' connection', ' opening', ' closure', ' setting']
+Rank 21 | Centroid: ' themes' | Score: 0.0001
+  Tokens: [' focus', ' theme', ' themes']
+Rank 22 | Centroid: ' keywords' | Score: 0.0001
+  Tokens: [' keywords', ' verbs']
+Rank 23 | Centroid: ' dialogue' | Score: 0.0000
+  Tokens: [' dialogue', ' adventure']
+Rank 24 | Centroid: ' writing' | Score: 0.0000
+  Tokens: [' writing', ' translation']
+Rank 25 | Centroid: ' action' | Score: 0.0000
+  Tokens: [' action', ' actions']
+Rank 26 | Centroid: ' dates' | Score: 0.0000
+  Tokens: [' dates', ' date']
+Rank 27 | Centroid: ' essay' | Score: 0.0000
+  Tokens: [' essay', ' article', ' headline']
+Rank 28 | Centroid: ' script' | Score: 0.0000
+  Tokens: [' script']
 
 **Chosen Concept:** Rank 1

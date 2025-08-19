@@ -1,67 +1,125 @@
 --- Step 117 Log ---
 
 == Filtered Candidates ==
-Token: ' prompt' (ID: 9934), Prob: 0.9922
-Token: ' message' (ID: 1943), Prob: 0.0022
-Token: ' Prompt' (ID: 59501), Prob: 0.0004
-Token: ' prompts' (ID: 50932), Prob: 0.0002
-Token: '(prompt' (ID: 72253), Prob: 0.0001
-Token: 'prompt' (ID: 40581), Prob: 0.0001
-Token: ' potential' (ID: 4650), Prob: 0.0000
-Token: ' question' (ID: 3405), Prob: 0.0000
-Token: 'Prompt' (ID: 54615), Prob: 0.0000
-Token: ' prompted' (ID: 28646), Prob: 0.0000
-Token: ' prompting' (ID: 49645), Prob: 0.0000
-Token: '_prompt' (ID: 61421), Prob: 0.0000
-Token: ' motif' (ID: 59512), Prob: 0.0000
-Token: ' promise' (ID: 11222), Prob: 0.0000
-Token: ' prom' (ID: 2706), Prob: 0.0000
-Token: ' within' (ID: 2878), Prob: 0.0000
-Token: ' hint' (ID: 13012), Prob: 0.0000
-Token: '.prompt' (ID: 65399), Prob: 0.0000
+Token: ' grammar' (ID: 31428), Prob: 0.0084
+Token: ' word' (ID: 3409), Prob: 0.0002
+Token: ' sentence' (ID: 11652), Prob: 0.0001
+Token: ' punctuation' (ID: 61503), Prob: 0.0000
+Token: ' paragraph' (ID: 14311), Prob: 0.0000
+Token: ' tone' (ID: 16232), Prob: 0.0000
+Token: ' lengths' (ID: 28316), Prob: 0.0000
+Token: ' keywords' (ID: 20844), Prob: 0.0000
+Token: ' names' (ID: 5036), Prob: 0.0000
+Token: ' spelling' (ID: 42429), Prob: 0.0000
+Token: ' words' (ID: 4244), Prob: 0.0000
+Token: ' length' (ID: 3084), Prob: 0.0000
+Token: ' language' (ID: 4128), Prob: 0.0000
+Token: ' synonyms' (ID: 85406), Prob: 0.0000
+Token: ' paragraphs' (ID: 42643), Prob: 0.0000
+Token: ' vocabulary' (ID: 34918), Prob: 0.0000
+Token: ' syll' (ID: 47604), Prob: 0.0000
+Token: ' sentences' (ID: 22870), Prob: 0.0000
+Token: ' parts' (ID: 5479), Prob: 0.0000
+Token: '-word' (ID: 37328), Prob: 0.0000
+Token: ' commas' (ID: 76602), Prob: 0.0000
+Token: ' character' (ID: 3668), Prob: 0.0000
+Token: ' rhythm' (ID: 36290), Prob: 0.0000
+Token: ' gramm' (ID: 68125), Prob: 0.0000
+Token: ' tense' (ID: 42687), Prob: 0.0000
+Token: ' readability' (ID: 91494), Prob: 0.0000
+Token: ' consistency' (ID: 28137), Prob: 0.0000
+Token: ' verbs' (ID: 61846), Prob: 0.0000
+Token: ' key' (ID: 1376), Prob: 0.0000
+Token: ' points' (ID: 3501), Prob: 0.0000
+Token: ' syntax' (ID: 19482), Prob: 0.0000
+Token: ' coherence' (ID: 77825), Prob: 0.0000
+Token: ' verb' (ID: 18607), Prob: 0.0000
+Token: ' simplicity' (ID: 38975), Prob: 0.0000
+Token: ' flow' (ID: 6396), Prob: 0.0000
+Token: ' pronunciation' (ID: 70622), Prob: 0.0000
+Token: ' things' (ID: 2513), Prob: 0.0000
+Token: ' numbers' (ID: 5109), Prob: 0.0000
+Token: ' themes' (ID: 21386), Prob: 0.0000
+Token: ' times' (ID: 3039), Prob: 0.0000
+Token: ' dependencies' (ID: 19543), Prob: 0.0000
+Token: ' characters' (ID: 5766), Prob: 0.0000
+Token: ' line' (ID: 1555), Prob: 0.0000
+Token: ' details' (ID: 3565), Prob: 0.0000
+Token: ' structure' (ID: 5944), Prob: 0.0000
+Token: ' repetition' (ID: 53415), Prob: 0.0000
+Token: ' basic' (ID: 6770), Prob: 0.0000
+Token: ' timing' (ID: 18405), Prob: 0.0000
+Token: 'onyms' (ID: 45603), Prob: 0.0000
+Token: ' anything' (ID: 4113), Prob: 0.0000
+Token: ' fonts' (ID: 32980), Prob: 0.0000
+Token: ' technical' (ID: 10916), Prob: 0.0000
+Token: ' something' (ID: 2494), Prob: 0.0000
+Token: ' contr' (ID: 6027), Prob: 0.0000
+Token: ' clarity' (ID: 31273), Prob: 0.0000
+Token: ' terms' (ID: 3793), Prob: 0.0000
+Token: ' time' (ID: 882), Prob: 0.0000
+Token: ' without' (ID: 2041), Prob: 0.0000
+Token: ' font' (ID: 3301), Prob: 0.0000
+Token: ' bullet' (ID: 17432), Prob: 0.0000
+Token: ' phrases' (ID: 31747), Prob: 0.0000
+Token: ' synonym' (ID: 73350), Prob: 0.0000
+Token: ' past' (ID: 3267), Prob: 0.0000
 Token: ' keyword' (ID: 16174), Prob: 0.0000
-Token: ' promotion' (ID: 20249), Prob: 0.0000
-Token: ' topic' (ID: 8544), Prob: 0.0000
-Token: ' point' (ID: 1459), Prob: 0.0000
-Token: ' theme' (ID: 6912), Prob: 0.0000
-Token: ' wording' (ID: 60227), Prob: 0.0000
-Token: ' position' (ID: 2309), Prob: 0.0000
-Token: ' messages' (ID: 6605), Prob: 0.0000
-Token: ' priority' (ID: 10619), Prob: 0.0000
-Token: ' mood' (ID: 19671), Prob: 0.0000
-Token: ' promote' (ID: 11926), Prob: 0.0000
-Token: ' PROM' (ID: 67688), Prob: 0.0000
-Token: ' possible' (ID: 3204), Prob: 0.0000
-Token: ' bold' (ID: 13939), Prob: 0.0000
+Token: ' transitions' (ID: 33592), Prob: 0.0000
+Token: ' back' (ID: 1182), Prob: 0.0000
+Token: ' simple' (ID: 4285), Prob: 0.0000
+Token: ' proper' (ID: 6169), Prob: 0.0000
+Token: ' facts' (ID: 13064), Prob: 0.0000
+Token: ' dates' (ID: 12713), Prob: 0.0000
+Token: ' vocab' (ID: 23820), Prob: 0.0000
+Token: ' elements' (ID: 5424), Prob: 0.0000
+Token: ' angles' (ID: 25941), Prob: 0.0000
+Token: ' spacing' (ID: 25943), Prob: 0.0000
+Token: ' everything' (ID: 4297), Prob: 0.0000
+Token: ' Grammar' (ID: 61977), Prob: 0.0000
 
 == Ranked Concepts (Clusters) ==
-Rank 1 | Centroid: 'Prompt' | Score: 0.9922
-  Tokens: [' prompt', ' Prompt', '(prompt', 'prompt', 'Prompt', '_prompt', '.prompt']
-Rank 2 | Centroid: ' message' | Score: 0.0022
-  Tokens: [' message', ' messages']
-Rank 3 | Centroid: ' prompts' | Score: 0.0002
-  Tokens: [' prompts', ' prompted', ' prompting']
-Rank 4 | Centroid: ' potential' | Score: 0.0000
-  Tokens: [' potential', ' possible']
-Rank 5 | Centroid: ' promote' | Score: 0.0000
-  Tokens: [' prom', ' promotion', ' promote', ' PROM']
-Rank 6 | Centroid: ' question' | Score: 0.0000
-  Tokens: [' question']
-Rank 7 | Centroid: ' theme' | Score: 0.0000
-  Tokens: [' motif', ' topic', ' theme']
-Rank 8 | Centroid: ' keyword' | Score: 0.0000
-  Tokens: [' keyword', ' priority']
-Rank 9 | Centroid: ' promise' | Score: 0.0000
-  Tokens: [' promise']
-Rank 10 | Centroid: ' point' | Score: 0.0000
-  Tokens: [' point', ' position']
-Rank 11 | Centroid: ' within' | Score: 0.0000
-  Tokens: [' within']
-Rank 12 | Centroid: ' hint' | Score: 0.0000
-  Tokens: [' hint']
-Rank 13 | Centroid: ' mood' | Score: 0.0000
-  Tokens: [' mood', ' bold']
-Rank 14 | Centroid: ' wording' | Score: 0.0000
-  Tokens: [' wording']
+Rank 1 | Centroid: ' grammar' | Score: 0.0084
+  Tokens: [' grammar', ' spelling', ' language', ' vocabulary', ' syll', ' gramm', ' syntax', ' pronunciation', ' vocab', ' Grammar']
+Rank 2 | Centroid: ' words' | Score: 0.0002
+  Tokens: [' word', ' keywords', ' words', '-word', ' keyword']
+Rank 3 | Centroid: ' paragraph' | Score: 0.0001
+  Tokens: [' sentence', ' punctuation', ' paragraph', ' paragraphs', ' sentences']
+Rank 4 | Centroid: ' tone' | Score: 0.0000
+  Tokens: [' tone', ' rhythm']
+Rank 5 | Centroid: ' length' | Score: 0.0000
+  Tokens: [' lengths', ' length', ' spacing']
+Rank 6 | Centroid: ' themes' | Score: 0.0000
+  Tokens: [' names', ' themes', ' terms']
+Rank 7 | Centroid: ' synonyms' | Score: 0.0000
+  Tokens: [' synonyms', 'onyms', ' synonym']
+Rank 8 | Centroid: ' clarity' | Score: 0.0000
+  Tokens: [' readability', ' consistency', ' coherence', ' simplicity', ' repetition', ' clarity']
+Rank 9 | Centroid: ' elements' | Score: 0.0000
+  Tokens: [' parts', ' points', ' numbers', ' details', ' facts', ' elements']
+Rank 10 | Centroid: ' key' | Score: 0.0000
+  Tokens: [' key', ' flow', ' line', ' contr', ' past', ' back']
+Rank 11 | Centroid: ' time' | Score: 0.0000
+  Tokens: [' tense', ' times', ' timing', ' time']
+Rank 12 | Centroid: ' character' | Score: 0.0000
+  Tokens: [' character', ' characters']
+Rank 13 | Centroid: ' simple' | Score: 0.0000
+  Tokens: [' structure', ' basic', ' technical', ' without', ' simple', ' proper']
+Rank 14 | Centroid: ' verbs' | Score: 0.0000
+  Tokens: [' verbs', ' verb']
+Rank 15 | Centroid: ' something' | Score: 0.0000
+  Tokens: [' things', ' anything', ' something', ' everything']
+Rank 16 | Centroid: ' commas' | Score: 0.0000
+  Tokens: [' commas']
+Rank 17 | Centroid: ' dependencies' | Score: 0.0000
+  Tokens: [' dependencies', ' transitions']
+Rank 18 | Centroid: ' fonts' | Score: 0.0000
+  Tokens: [' fonts', ' font']
+Rank 19 | Centroid: ' dates' | Score: 0.0000
+  Tokens: [' dates', ' angles']
+Rank 20 | Centroid: ' bullet' | Score: 0.0000
+  Tokens: [' bullet']
+Rank 21 | Centroid: ' phrases' | Score: 0.0000
+  Tokens: [' phrases']
 
 **Chosen Concept:** Rank 1

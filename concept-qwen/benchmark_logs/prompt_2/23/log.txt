@@ -1,77 +1,155 @@
 --- Step 23 Log ---
 
 == Filtered Candidates ==
-Token: ' like' (ID: 1075), Prob: 0.9180
-Token: ' else' (ID: 770), Prob: 0.0664
-Token: ' similar' (ID: 4428), Prob: 0.0009
-Token: ' yes' (ID: 9834), Prob: 0.0003
-Token: ' etc' (ID: 4992), Prob: 0.0001
-Token: ' elif' (ID: 4409), Prob: 0.0001
-Token: ' related' (ID: 5435), Prob: 0.0001
-Token: ' maybe' (ID: 7196), Prob: 0.0001
-Token: ' different' (ID: 2155), Prob: 0.0001
-Token: ' less' (ID: 2686), Prob: 0.0001
-Token: ' missing' (ID: 7402), Prob: 0.0001
-Token: ' based' (ID: 3118), Prob: 0.0001
-Token: ' something' (ID: 2494), Prob: 0.0000
-Token: ' around' (ID: 2163), Prob: 0.0000
-Token: ' otherwise' (ID: 5937), Prob: 0.0000
-Token: ' along' (ID: 3156), Prob: 0.0000
-Token: ' including' (ID: 2670), Prob: 0.0000
-Token: ' Like' (ID: 8909), Prob: 0.0000
-Token: ' specific' (ID: 3151), Prob: 0.0000
-Token: ' inside' (ID: 4766), Prob: 0.0000
-Token: ' likes' (ID: 13151), Prob: 0.0000
-Token: ' might' (ID: 2578), Prob: 0.0000
-Token: ' negative' (ID: 8225), Prob: 0.0000
-Token: '-like' (ID: 12681), Prob: 0.0000
-Token: ' within' (ID: 2878), Prob: 0.0000
-Token: ' unclear' (ID: 24416), Prob: 0.0000
-Token: '_like' (ID: 25535), Prob: 0.0000
-Token: 'like' (ID: 4803), Prob: 0.0000
-Token: ' important' (ID: 2989), Prob: 0.0000
-Token: ' close' (ID: 3265), Prob: 0.0000
-Token: ' short' (ID: 2805), Prob: 0.0000
-Token: ' possible' (ID: 3204), Prob: 0.0000
-Token: ' misleading' (ID: 37209), Prob: 0.0000
-Token: ' slightly' (ID: 10078), Prob: 0.0000
-Token: ' unknown' (ID: 9788), Prob: 0.0000
-Token: ' LIKE' (ID: 20529), Prob: 0.0000
-Token: ' relevant' (ID: 9760), Prob: 0.0000
-Token: ' impossible' (ID: 11997), Prob: 0.0000
-Token: ' include' (ID: 2924), Prob: 0.0000
-Token: ' sure' (ID: 2704), Prob: 0.0000
-Token: ' longer' (ID: 5021), Prob: 0.0000
-Token: ' unsure' (ID: 42903), Prob: 0.0000
+Token: ' length' (ID: 3084), Prob: 0.1836
+Token: ' statement' (ID: 5114), Prob: 0.0767
+Token: ' response' (ID: 2033), Prob: 0.0674
+Token: ' narrative' (ID: 19221), Prob: 0.0674
+Token: ' original' (ID: 4024), Prob: 0.0596
+Token: ' time' (ID: 882), Prob: 0.0525
+Token: ' story' (ID: 3364), Prob: 0.0464
+Token: ' total' (ID: 2790), Prob: 0.0361
+Token: ' key' (ID: 1376), Prob: 0.0320
+Token: ' sentence' (ID: 11652), Prob: 0.0281
+Token: ' user' (ID: 1196), Prob: 0.0248
+Token: ' impact' (ID: 5421), Prob: 0.0248
+Token: ' emotional' (ID: 14269), Prob: 0.0171
+Token: ' flow' (ID: 6396), Prob: 0.0160
+Token: ' word' (ID: 3409), Prob: 0.0117
+Token: ' example' (ID: 3110), Prob: 0.0097
+Token: ' keywords' (ID: 20844), Prob: 0.0081
+Token: ' words' (ID: 4244), Prob: 0.0071
+Token: ' required' (ID: 2567), Prob: 0.0056
+Token: ' answer' (ID: 4226), Prob: 0.0056
+Token: ' existing' (ID: 6350), Prob: 0.0052
+Token: ' input' (ID: 1946), Prob: 0.0046
+Token: ' details' (ID: 3565), Prob: 0.0046
+Token: ' requirements' (ID: 8502), Prob: 0.0046
+Token: ' elements' (ID: 5424), Prob: 0.0043
+Token: ' situation' (ID: 6534), Prob: 0.0043
+Token: ' given' (ID: 2661), Prob: 0.0038
+Token: ' problem' (ID: 3491), Prob: 0.0038
+Token: ' task' (ID: 3383), Prob: 0.0036
+Token: ' depth' (ID: 7990), Prob: 0.0036
+Token: ' prompt' (ID: 9934), Prob: 0.0036
+Token: ' paragraph' (ID: 14311), Prob: 0.0036
+Token: ' structure' (ID: 5944), Prob: 0.0034
+Token: ' instruction' (ID: 7600), Prob: 0.0034
+Token: ' message' (ID: 1943), Prob: 0.0030
+Token: ' steps' (ID: 7354), Prob: 0.0030
+Token: ' space' (ID: 3550), Prob: 0.0026
+Token: ' language' (ID: 4128), Prob: 0.0026
+Token: ' amount' (ID: 3311), Prob: 0.0025
+Token: ' instructions' (ID: 11221), Prob: 0.0023
+Token: ' overall' (ID: 8084), Prob: 0.0022
+Token: ' tone' (ID: 16232), Prob: 0.0022
+Token: ' text' (ID: 1467), Prob: 0.0020
+Token: ' context' (ID: 2266), Prob: 0.0020
+Token: ' audience' (ID: 10650), Prob: 0.0020
+Token: ' phrase' (ID: 17133), Prob: 0.0019
+Token: ' emotions' (ID: 21261), Prob: 0.0018
+Token: ' scenario' (ID: 15048), Prob: 0.0017
+Token: ' number' (ID: 1372), Prob: 0.0016
+Token: ' initial' (ID: 2856), Prob: 0.0016
+Token: ' exact' (ID: 4734), Prob: 0.0016
+Token: ' sentences' (ID: 22870), Prob: 0.0016
+Token: ' provided' (ID: 3897), Prob: 0.0015
+Token: ' possible' (ID: 3204), Prob: 0.0014
+Token: ' characters' (ID: 5766), Prob: 0.0014
+Token: ' summary' (ID: 12126), Prob: 0.0014
+Token: ' start' (ID: 1191), Prob: 0.0013
+Token: ' target' (ID: 2169), Prob: 0.0013
+Token: ' timeline' (ID: 24808), Prob: 0.0013
+Token: ' content' (ID: 2213), Prob: 0.0012
+Token: ' character' (ID: 3668), Prob: 0.0012
+Token: ' actual' (ID: 5042), Prob: 0.0012
+Token: ' appropriate' (ID: 8311), Prob: 0.0012
+Token: ' desired' (ID: 12685), Prob: 0.0012
+Token: ' keyword' (ID: 16174), Prob: 0.0012
+Token: ' balance' (ID: 8172), Prob: 0.0012
+Token: ' challenge' (ID: 8645), Prob: 0.0012
+Token: ' constraints' (ID: 16982), Prob: 0.0012
+Token: ' timeframe' (ID: 69953), Prob: 0.0012
+Token: ' current' (ID: 1482), Prob: 0.0011
+Token: ' average' (ID: 5461), Prob: 0.0010
+Token: ' part' (ID: 949), Prob: 0.0009
+Token: ' final' (ID: 1590), Prob: 0.0009
+Token: ' points' (ID: 3501), Prob: 0.0009
+Token: ' attention' (ID: 6529), Prob: 0.0009
+Token: ' importance' (ID: 12650), Prob: 0.0009
+Token: ' complexity' (ID: 23094), Prob: 0.0009
+Token: ' output' (ID: 2550), Prob: 0.0009
+Token: ' bullet' (ID: 17432), Prob: 0.0009
+Token: ' requirement' (ID: 16287), Prob: 0.0008
+Token: ' emotion' (ID: 19772), Prob: 0.0008
+Token: ' focus' (ID: 5244), Prob: 0.0008
+Token: ' information' (ID: 1995), Prob: 0.0007
+Token: ' specific' (ID: 3151), Prob: 0.0007
+Token: ' thought' (ID: 3381), Prob: 0.0007
+Token: ' distance' (ID: 6010), Prob: 0.0007
+Token: ' duration' (ID: 8090), Prob: 0.0007
+Token: ' statements' (ID: 12239), Prob: 0.0007
+Token: ' two' (ID: 1378), Prob: 0.0007
+Token: ' entire' (ID: 4453), Prob: 0.0007
+Token: ' scene' (ID: 6109), Prob: 0.0007
+Token: ' lengths' (ID: 28316), Prob: 0.0007
+Token: ' connection' (ID: 3633), Prob: 0.0006
+Token: ' correct' (ID: 4396), Prob: 0.0006
+Token: ' parts' (ID: 5479), Prob: 0.0006
+Token: ' typical' (ID: 14260), Prob: 0.0006
+Token: ' sentiment' (ID: 25975), Prob: 0.0006
+Token: ' insertion' (ID: 35927), Prob: 0.0006
+Token: ' syll' (ID: 47604), Prob: 0.0006
+Token: ' main' (ID: 1887), Prob: 0.0006
 
 == Ranked Concepts (Clusters) ==
-Rank 1 | Centroid: ' Like' | Score: 0.9180
-  Tokens: [' like', ' Like', ' likes', '-like', '_like', 'like', ' LIKE']
-Rank 2 | Centroid: ' else' | Score: 0.0664
-  Tokens: [' else', ' elif', ' otherwise']
-Rank 3 | Centroid: ' similar' | Score: 0.0009
-  Tokens: [' similar']
-Rank 4 | Centroid: ' yes' | Score: 0.0003
-  Tokens: [' yes', ' sure']
-Rank 5 | Centroid: ' something' | Score: 0.0002
-  Tokens: [' etc', ' something', ' slightly']
-Rank 6 | Centroid: ' relevant' | Score: 0.0001
-  Tokens: [' related', ' important', ' relevant']
-Rank 7 | Centroid: ' maybe' | Score: 0.0001
-  Tokens: [' maybe', ' might', ' possible']
-Rank 8 | Centroid: ' unclear' | Score: 0.0001
-  Tokens: [' missing', ' unclear', ' misleading', ' unknown', ' impossible', ' unsure']
-Rank 9 | Centroid: ' specific' | Score: 0.0001
-  Tokens: [' different', ' specific', ' negative']
-Rank 10 | Centroid: ' within' | Score: 0.0001
-  Tokens: [' around', ' along', ' inside', ' within']
-Rank 11 | Centroid: ' longer' | Score: 0.0001
-  Tokens: [' less', ' short', ' longer']
-Rank 12 | Centroid: ' based' | Score: 0.0001
-  Tokens: [' based']
-Rank 13 | Centroid: ' including' | Score: 0.0000
-  Tokens: [' including', ' include']
-Rank 14 | Centroid: ' close' | Score: 0.0000
-  Tokens: [' close']
+Rank 1 | Centroid: ' length' | Score: 0.1904
+  Tokens: [' length', ' depth', ' complexity', ' distance', ' duration', ' lengths']
+Rank 2 | Centroid: ' scenario' | Score: 0.1226
+  Tokens: [' narrative', ' story', ' situation', ' context', ' scenario', ' scene']
+Rank 3 | Centroid: ' typical' | Score: 0.1157
+  Tokens: [' original', ' total', ' existing', ' overall', ' initial', ' exact', ' possible', ' actual', ' appropriate', ' current', ' average', ' final', ' specific', ' entire', ' correct', ' typical']
+Rank 4 | Centroid: ' sentence' | Score: 0.1113
+  Tokens: [' statement', ' sentence', ' paragraph', ' sentences', ' bullet', ' statements']
+Rank 5 | Centroid: ' output' | Score: 0.0850
+  Tokens: [' response', ' answer', ' input', ' prompt', ' message', ' output']
+Rank 6 | Centroid: ' time' | Score: 0.0552
+  Tokens: [' time', ' space']
+Rank 7 | Centroid: ' importance' | Score: 0.0466
+  Tokens: [' impact', ' flow', ' audience', ' target', ' attention', ' importance', ' focus']
+Rank 8 | Centroid: ' main' | Score: 0.0344
+  Tokens: [' key', ' start', ' two', ' main']
+Rank 9 | Centroid: ' words' | Score: 0.0332
+  Tokens: [' word', ' keywords', ' words', ' language', ' phrase', ' keyword', ' syll']
+Rank 10 | Centroid: ' text' | Score: 0.0281
+  Tokens: [' user', ' text', ' content']
+Rank 11 | Centroid: ' emotions' | Score: 0.0203
+  Tokens: [' emotional', ' emotions', ' emotion', ' sentiment']
+Rank 12 | Centroid: ' parts' | Score: 0.0143
+  Tokens: [' details', ' elements', ' steps', ' part', ' points', ' parts']
+Rank 13 | Centroid: ' required' | Score: 0.0121
+  Tokens: [' required', ' given', ' provided', ' desired']
+Rank 14 | Centroid: ' example' | Score: 0.0111
+  Tokens: [' example', ' summary']
+Rank 15 | Centroid: ' challenge' | Score: 0.0085
+  Tokens: [' problem', ' task', ' challenge']
+Rank 16 | Centroid: ' requirements' | Score: 0.0065
+  Tokens: [' requirements', ' constraints', ' requirement']
+Rank 17 | Centroid: ' instructions' | Score: 0.0064
+  Tokens: [' instruction', ' instructions', ' information']
+Rank 18 | Centroid: ' amount' | Score: 0.0052
+  Tokens: [' amount', ' number', ' balance']
+Rank 19 | Centroid: ' structure' | Score: 0.0040
+  Tokens: [' structure', ' connection']
+Rank 20 | Centroid: ' characters' | Score: 0.0026
+  Tokens: [' characters', ' character']
+Rank 21 | Centroid: ' timeline' | Score: 0.0025
+  Tokens: [' timeline', ' timeframe']
+Rank 22 | Centroid: ' tone' | Score: 0.0022
+  Tokens: [' tone']
+Rank 23 | Centroid: ' thought' | Score: 0.0007
+  Tokens: [' thought']
+Rank 24 | Centroid: ' insertion' | Score: 0.0006
+  Tokens: [' insertion']
 
 **Chosen Concept:** Rank 1

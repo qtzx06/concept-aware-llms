@@ -1,108 +1,146 @@
 --- Step 14 Log ---
 
 == Filtered Candidates ==
-Token: ' old' (ID: 2310), Prob: 0.6406
-Token: ' older' (ID: 9014), Prob: 0.0281
-Token: ' young' (ID: 3908), Prob: 0.0193
-Token: ' strong' (ID: 3746), Prob: 0.0036
-Token: ' healthy' (ID: 9314), Prob: 0.0032
-Token: ' without' (ID: 2041), Prob: 0.0030
-Token: ' fast' (ID: 4937), Prob: 0.0020
-Token: ' rich' (ID: 9080), Prob: 0.0019
-Token: ' younger' (ID: 14650), Prob: 0.0013
-Token: ' alone' (ID: 7484), Prob: 0.0012
-Token: ' away' (ID: 3123), Prob: 0.0012
-Token: ' apart' (ID: 10747), Prob: 0.0011
-Token: ' close' (ID: 3265), Prob: 0.0009
-Token: ' well' (ID: 1632), Prob: 0.0007
-Token: ' independent' (ID: 9489), Prob: 0.0007
-Token: ' care' (ID: 2453), Prob: 0.0006
-Token: ' long' (ID: 1293), Prob: 0.0006
-Token: ' smart' (ID: 7785), Prob: 0.0005
-Token: ' free' (ID: 1910), Prob: 0.0005
-Token: ' beyond' (ID: 7797), Prob: 0.0005
-Token: ' together' (ID: 3786), Prob: 0.0004
-Token: ' like' (ID: 1075), Prob: 0.0004
-Token: ' wise' (ID: 23335), Prob: 0.0004
-Token: ' elderly' (ID: 28820), Prob: 0.0004
-Token: ' poor' (ID: 7852), Prob: 0.0004
-Token: ' small' (ID: 2613), Prob: 0.0003
-Token: ' late' (ID: 3309), Prob: 0.0003
-Token: ' child' (ID: 1682), Prob: 0.0003
-Token: ' wide' (ID: 6884), Prob: 0.0003
-Token: ' forever' (ID: 15683), Prob: 0.0003
-Token: ' slow' (ID: 6301), Prob: 0.0003
-Token: ' wild' (ID: 8380), Prob: 0.0003
-Token: ' help' (ID: 1492), Prob: 0.0003
-Token: ' big' (ID: 2409), Prob: 0.0003
-Token: ' slowly' (ID: 13970), Prob: 0.0002
-Token: ' large' (ID: 3460), Prob: 0.0002
-Token: ' according' (ID: 4092), Prob: 0.0002
-Token: ' happy' (ID: 6247), Prob: 0.0002
-Token: ' past' (ID: 3267), Prob: 0.0002
-Token: ' safe' (ID: 6092), Prob: 0.0002
-Token: ' fine' (ID: 6915), Prob: 0.0002
-Token: ' busy' (ID: 13028), Prob: 0.0002
-Token: ' closer' (ID: 12128), Prob: 0.0002
-Token: ' mature' (ID: 14851), Prob: 0.0002
-Token: ' new' (ID: 501), Prob: 0.0002
-Token: ' behind' (ID: 4815), Prob: 0.0002
-Token: ' lonely' (ID: 39566), Prob: 0.0002
-Token: ' toward' (ID: 8841), Prob: 0.0002
-Token: ' stronger' (ID: 16245), Prob: 0.0002
-Token: ' quietly' (ID: 29566), Prob: 0.0002
-Token: ' become' (ID: 3635), Prob: 0.0002
-Token: ' outside' (ID: 4889), Prob: 0.0002
-Token: ' weak' (ID: 7469), Prob: 0.0002
-Token: ' secure' (ID: 9767), Prob: 0.0002
-Token: ' alive' (ID: 13675), Prob: 0.0002
-Token: ' ancient' (ID: 13833), Prob: 0.0002
-Token: ' children' (ID: 2841), Prob: 0.0002
-Token: ' youth' (ID: 12537), Prob: 0.0002
-Token: ' emotionally' (ID: 37583), Prob: 0.0002
+Token: ' given' (ID: 2661), Prob: 0.6641
+Token: ' two' (ID: 1378), Prob: 0.0292
+Token: ' characters' (ID: 5766), Prob: 0.0292
+Token: ' situation' (ID: 6534), Prob: 0.0292
+Token: ' person' (ID: 1697), Prob: 0.0177
+Token: ' initial' (ID: 2856), Prob: 0.0177
+Token: ' friend' (ID: 4238), Prob: 0.0177
+Token: ' key' (ID: 1376), Prob: 0.0156
+Token: ' previous' (ID: 3681), Prob: 0.0138
+Token: ' events' (ID: 4357), Prob: 0.0138
+Token: ' scenario' (ID: 15048), Prob: 0.0138
+Token: ' provided' (ID: 3897), Prob: 0.0121
+Token: ' parts' (ID: 5479), Prob: 0.0121
+Token: ' friendship' (ID: 26509), Prob: 0.0121
+Token: ' elements' (ID: 5424), Prob: 0.0095
+Token: ' friends' (ID: 4780), Prob: 0.0074
+Token: ' mentioned' (ID: 9733), Prob: 0.0074
+Token: ' dialogue' (ID: 21276), Prob: 0.0065
+Token: ' conversation' (ID: 10435), Prob: 0.0039
+Token: ' character' (ID: 3668), Prob: 0.0035
+Token: ' phrases' (ID: 31747), Prob: 0.0031
+Token: ' details' (ID: 3565), Prob: 0.0024
+Token: ' original' (ID: 4024), Prob: 0.0024
+Token: ' statement' (ID: 5114), Prob: 0.0024
+Token: ' event' (ID: 1538), Prob: 0.0019
+Token: ' conditions' (ID: 4682), Prob: 0.0019
+Token: ' relationship' (ID: 5025), Prob: 0.0019
+Token: ' sentence' (ID: 11652), Prob: 0.0019
+Token: ' premise' (ID: 40202), Prob: 0.0019
+Token: ' last' (ID: 1537), Prob: 0.0016
+Token: ' past' (ID: 3267), Prob: 0.0016
+Token: ' quote' (ID: 12641), Prob: 0.0016
+Token: ' phrase' (ID: 17133), Prob: 0.0016
+Token: ' man' (ID: 883), Prob: 0.0014
+Token: ' context' (ID: 2266), Prob: 0.0014
+Token: ' mention' (ID: 6286), Prob: 0.0014
+Token: ' first' (ID: 1156), Prob: 0.0013
+Token: ' current' (ID: 1482), Prob: 0.0013
+Token: ' three' (ID: 2326), Prob: 0.0013
+Token: ' statements' (ID: 12239), Prob: 0.0013
+Token: ' interaction' (ID: 16230), Prob: 0.0013
+Token: ' situations' (ID: 14740), Prob: 0.0011
+Token: ' lines' (ID: 5128), Prob: 0.0011
+Token: ' main' (ID: 1887), Prob: 0.0010
+Token: ' sentences' (ID: 22870), Prob: 0.0010
+Token: ' people' (ID: 1251), Prob: 0.0008
+Token: ' specific' (ID: 3151), Prob: 0.0008
+Token: ' beginning' (ID: 7167), Prob: 0.0007
+Token: ' interactions' (ID: 21880), Prob: 0.0007
+Token: ' couple' (ID: 5625), Prob: 0.0007
+Token: ' actions' (ID: 6168), Prob: 0.0007
+Token: ' prompt' (ID: 9934), Prob: 0.0006
+Token: ' part' (ID: 949), Prob: 0.0006
+Token: ' opening' (ID: 8568), Prob: 0.0006
+Token: ' incident' (ID: 10455), Prob: 0.0005
+Token: ' recent' (ID: 3213), Prob: 0.0005
+Token: ' start' (ID: 1191), Prob: 0.0004
+Token: ' narrator' (ID: 64171), Prob: 0.0004
+Token: ' line' (ID: 1555), Prob: 0.0003
+Token: ' facts' (ID: 13064), Prob: 0.0003
+Token: ' quotes' (ID: 17194), Prob: 0.0003
+Token: ' description' (ID: 4008), Prob: 0.0003
+Token: ' pair' (ID: 6716), Prob: 0.0003
+Token: ' condition' (ID: 2971), Prob: 0.0003
+Token: ' scene' (ID: 6109), Prob: 0.0003
+Token: ' passage' (ID: 21085), Prob: 0.0003
+Token: ' traits' (ID: 24055), Prob: 0.0003
+Token: ' following' (ID: 2701), Prob: 0.0003
+Token: ' things' (ID: 2513), Prob: 0.0003
+Token: ' circumstances' (ID: 13161), Prob: 0.0002
+Token: ' premises' (ID: 33922), Prob: 0.0002
+Token: ' scenarios' (ID: 25283), Prob: 0.0002
+Token: ' user' (ID: 1196), Prob: 0.0002
+Token: ' present' (ID: 3042), Prob: 0.0002
+Token: ' information' (ID: 1995), Prob: 0.0002
+Token: ' words' (ID: 4244), Prob: 0.0002
+Token: ' protagonist' (ID: 45584), Prob: 0.0002
+Token: ' idea' (ID: 4522), Prob: 0.0002
+Token: ' relationships' (ID: 11871), Prob: 0.0002
+Token: ' text' (ID: 1467), Prob: 0.0002
+Token: ' exchange' (ID: 9289), Prob: 0.0002
+Token: ' incidents' (ID: 23546), Prob: 0.0002
+Token: ' theme' (ID: 6912), Prob: 0.0001
+Token: ' themes' (ID: 21386), Prob: 0.0001
+Token: ' encounter' (ID: 12828), Prob: 0.0001
+Token: ' content' (ID: 2213), Prob: 0.0001
+Token: ' four' (ID: 3040), Prob: 0.0001
+Token: ' connection' (ID: 3633), Prob: 0.0001
+Token: ' setting' (ID: 6243), Prob: 0.0001
+Token: ' described' (ID: 7481), Prob: 0.0001
+Token: ' experiences' (ID: 11449), Prob: 0.0001
+Token: ' moments' (ID: 13943), Prob: 0.0001
+Token: ' characteristics' (ID: 17452), Prob: 0.0001
+Token: ' speaker' (ID: 18601), Prob: 0.0001
+Token: ' fact' (ID: 2097), Prob: 0.0001
+Token: ' experience' (ID: 3139), Prob: 0.0001
+Token: ' setup' (ID: 6505), Prob: 0.0001
+Token: ' topic' (ID: 8544), Prob: 0.0001
+Token: ' keywords' (ID: 20844), Prob: 0.0001
 
 == Ranked Concepts (Clusters) ==
-Rank 1 | Centroid: ' older' | Score: 0.6719
-  Tokens: [' old', ' older', ' younger', ' elderly', ' ancient']
-Rank 2 | Centroid: ' children' | Score: 0.0199
-  Tokens: [' young', ' child', ' children', ' youth']
-Rank 3 | Centroid: ' without' | Score: 0.0048
-  Tokens: [' without', ' alone', ' together', ' according']
-Rank 4 | Centroid: ' strong' | Score: 0.0039
-  Tokens: [' strong', ' stronger', ' weak']
-Rank 5 | Centroid: ' safe' | Score: 0.0038
-  Tokens: [' healthy', ' happy', ' safe', ' secure']
-Rank 6 | Centroid: ' beyond' | Score: 0.0032
-  Tokens: [' away', ' apart', ' beyond', ' behind', ' toward', ' outside']
-Rank 7 | Centroid: ' smart' | Score: 0.0031
-  Tokens: [' rich', ' smart', ' wise', ' busy']
-Rank 8 | Centroid: ' slow' | Score: 0.0026
-  Tokens: [' fast', ' slow', ' slowly']
-Rank 9 | Centroid: ' large' | Score: 0.0017
-  Tokens: [' long', ' small', ' wide', ' big', ' large']
-Rank 10 | Centroid: ' well' | Score: 0.0016
-  Tokens: [' well', ' care', ' fine']
-Rank 11 | Centroid: ' close' | Score: 0.0011
-  Tokens: [' close', ' closer']
-Rank 12 | Centroid: ' become' | Score: 0.0008
-  Tokens: [' like', ' help', ' become']
-Rank 13 | Centroid: ' free' | Score: 0.0008
-  Tokens: [' free', ' wild']
-Rank 14 | Centroid: ' independent' | Score: 0.0007
-  Tokens: [' independent']
-Rank 15 | Centroid: ' quietly' | Score: 0.0006
-  Tokens: [' forever', ' quietly', ' emotionally']
-Rank 16 | Centroid: ' lonely' | Score: 0.0004
-  Tokens: [' lonely', ' alive']
-Rank 17 | Centroid: ' poor' | Score: 0.0004
-  Tokens: [' poor']
-Rank 18 | Centroid: ' late' | Score: 0.0003
-  Tokens: [' late']
-Rank 19 | Centroid: ' past' | Score: 0.0002
-  Tokens: [' past']
-Rank 20 | Centroid: ' mature' | Score: 0.0002
-  Tokens: [' mature']
-Rank 21 | Centroid: ' new' | Score: 0.0002
-  Tokens: [' new']
+Rank 1 | Centroid: ' described' | Score: 0.6836
+  Tokens: [' given', ' provided', ' mentioned', ' mention', ' description', ' described']
+Rank 2 | Centroid: ' previous' | Score: 0.0598
+  Tokens: [' initial', ' key', ' previous', ' original', ' last', ' past', ' first', ' current', ' main', ' specific', ' beginning', ' opening', ' recent', ' start', ' following', ' present']
+Rank 3 | Centroid: ' situations' | Score: 0.0449
+  Tokens: [' situation', ' scenario', ' situations', ' scene', ' circumstances', ' scenarios']
+Rank 4 | Centroid: ' friends' | Score: 0.0383
+  Tokens: [' friend', ' friendship', ' friends', ' couple', ' pair']
+Rank 5 | Centroid: ' characters' | Score: 0.0332
+  Tokens: [' characters', ' character', ' traits', ' characteristics']
+Rank 6 | Centroid: ' three' | Score: 0.0306
+  Tokens: [' two', ' three', ' four']
+Rank 7 | Centroid: ' person' | Score: 0.0201
+  Tokens: [' person', ' man', ' people', ' user']
+Rank 8 | Centroid: ' events' | Score: 0.0164
+  Tokens: [' events', ' event', ' incident', ' incidents']
+Rank 9 | Centroid: ' parts' | Score: 0.0153
+  Tokens: [' parts', ' details', ' part', ' information']
+Rank 10 | Centroid: ' phrases' | Score: 0.0135
+  Tokens: [' phrases', ' statement', ' sentence', ' quote', ' phrase', ' statements', ' sentences', ' quotes', ' words', ' keywords']
+Rank 11 | Centroid: ' dialogue' | Score: 0.0114
+  Tokens: [' dialogue', ' conversation', ' prompt', ' passage']
+Rank 12 | Centroid: ' elements' | Score: 0.0103
+  Tokens: [' elements', ' actions', ' moments']
+Rank 13 | Centroid: ' theme' | Score: 0.0027
+  Tokens: [' premise', ' premises', ' idea', ' theme', ' themes', ' topic']
+Rank 14 | Centroid: ' interactions' | Score: 0.0025
+  Tokens: [' interaction', ' interactions', ' exchange', ' encounter', ' experiences', ' experience']
+Rank 15 | Centroid: ' relationship' | Score: 0.0022
+  Tokens: [' relationship', ' relationships', ' connection']
+Rank 16 | Centroid: ' conditions' | Score: 0.0022
+  Tokens: [' conditions', ' condition']
+Rank 17 | Centroid: ' lines' | Score: 0.0017
+  Tokens: [' lines', ' line', ' text', ' content']
+Rank 18 | Centroid: ' setup' | Score: 0.0017
+  Tokens: [' context', ' setting', ' setup']
+Rank 19 | Centroid: ' facts' | Score: 0.0007
+  Tokens: [' facts', ' things', ' fact']
+Rank 20 | Centroid: ' narrator' | Score: 0.0007
+  Tokens: [' narrator', ' protagonist', ' speaker']
 
 **Chosen Concept:** Rank 1

@@ -1,83 +1,98 @@
 --- Step 31 Log ---
 
 == Filtered Candidates ==
-Token: ' like' (ID: 1075), Prob: 0.9883
-Token: ' else' (ID: 770), Prob: 0.0097
-Token: ' similar' (ID: 4428), Prob: 0.0001
-Token: ' yes' (ID: 9834), Prob: 0.0001
+Token: ' family' (ID: 2997), Prob: 0.0020
+Token: ' describing' (ID: 22692), Prob: 0.0011
+Token: ' introducing' (ID: 31918), Prob: 0.0009
+Token: ' someone' (ID: 4325), Prob: 0.0005
+Token: ' setting' (ID: 6243), Prob: 0.0002
+Token: ' talking' (ID: 7404), Prob: 0.0001
+Token: '"My' (ID: 45140), Prob: 0.0001
+Token: ' parents' (ID: 6562), Prob: 0.0001
+Token: ' preparing' (ID: 20045), Prob: 0.0001
+Token: ' Grandma' (ID: 97968), Prob: 0.0001
+Token: ' traveling' (ID: 20971), Prob: 0.0000
+Token: ' mentioning' (ID: 44291), Prob: 0.0000
+Token: ' discussing' (ID: 24392), Prob: 0.0000
+Token: ' two' (ID: 1378), Prob: 0.0000
+Token: ' home' (ID: 2114), Prob: 0.0000
+Token: ' starting' (ID: 5916), Prob: 0.0000
 Token: ' maybe' (ID: 7196), Prob: 0.0000
-Token: ' etc' (ID: 4992), Prob: 0.0000
-Token: ' related' (ID: 5435), Prob: 0.0000
-Token: ' elif' (ID: 4409), Prob: 0.0000
-Token: ' missing' (ID: 7402), Prob: 0.0000
-Token: ' including' (ID: 2670), Prob: 0.0000
-Token: ' less' (ID: 2686), Prob: 0.0000
-Token: ' around' (ID: 2163), Prob: 0.0000
-Token: ' based' (ID: 3118), Prob: 0.0000
-Token: ' otherwise' (ID: 5937), Prob: 0.0000
-Token: ' Like' (ID: 8909), Prob: 0.0000
-Token: ' include' (ID: 2924), Prob: 0.0000
-Token: 'like' (ID: 4803), Prob: 0.0000
-Token: ' negative' (ID: 8225), Prob: 0.0000
-Token: '-like' (ID: 12681), Prob: 0.0000
-Token: ' might' (ID: 2578), Prob: 0.0000
+Token: ' moving' (ID: 7218), Prob: 0.0000
+Token: ' entering' (ID: 16262), Prob: 0.0000
 Token: ' something' (ID: 2494), Prob: 0.0000
-Token: ' LIKE' (ID: 20529), Prob: 0.0000
-Token: ' list' (ID: 1140), Prob: 0.0000
-Token: '_like' (ID: 25535), Prob: 0.0000
-Token: ' different' (ID: 2155), Prob: 0.0000
-Token: ' possible' (ID: 3204), Prob: 0.0000
-Token: ' inside' (ID: 4766), Prob: 0.0000
-Token: ' short' (ID: 2805), Prob: 0.0000
-Token: ' limited' (ID: 7199), Prob: 0.0000
-Token: ' along' (ID: 3156), Prob: 0.0000
-Token: ' likes' (ID: 13151), Prob: 0.0000
-Token: ' within' (ID: 2878), Prob: 0.0000
-Token: ' say' (ID: 1977), Prob: 0.0000
-Token: ' specific' (ID: 3151), Prob: 0.0000
-Token: ' slightly' (ID: 10078), Prob: 0.0000
-Token: ' important' (ID: 2989), Prob: 0.0000
-Token: ' towards' (ID: 6974), Prob: 0.0000
-Token: ' relevant' (ID: 9760), Prob: 0.0000
-Token: ' impossible' (ID: 11997), Prob: 0.0000
-Token: ' misleading' (ID: 37209), Prob: 0.0000
-Token: ' noisy' (ID: 49280), Prob: 0.0000
-Token: ' close' (ID: 3265), Prob: 0.0000
-Token: ' appropriate' (ID: 8311), Prob: 0.0000
-Token: '.like' (ID: 66318), Prob: 0.0000
-Token: ' sure' (ID: 2704), Prob: 0.0000
-Token: ' also' (ID: 1083), Prob: 0.0000
+Token: ' today' (ID: 3351), Prob: 0.0000
+Token: ' meeting' (ID: 6438), Prob: 0.0000
+Token: ' opening' (ID: 8568), Prob: 0.0000
+Token: ' Family' (ID: 12238), Prob: 0.0000
+Token: ' exploring' (ID: 23966), Prob: 0.0000
+Token: ' going' (ID: 2087), Prob: 0.0000
+Token: ' taking' (ID: 4633), Prob: 0.0000
+Token: ' everyone' (ID: 5019), Prob: 0.0000
+Token: ' arrival' (ID: 18647), Prob: 0.0000
+Token: ' childhood' (ID: 19990), Prob: 0.0000
+Token: ' grandparents' (ID: 55335), Prob: 0.0000
+Token: ' John' (ID: 3757), Prob: 0.0000
+Token: ' joining' (ID: 18169), Prob: 0.0000
+Token: ' intro' (ID: 19706), Prob: 0.0000
+Token: ' people' (ID: 1251), Prob: 0.0000
+Token: ' planning' (ID: 9115), Prob: 0.0000
+Token: ' time' (ID: 882), Prob: 0.0000
+Token: ' finding' (ID: 9271), Prob: 0.0000
+Token: ' saying' (ID: 5488), Prob: 0.0000
+Token: ' families' (ID: 8521), Prob: 0.0000
+Token: ' telling' (ID: 11629), Prob: 0.0000
+Token: ' arriving' (ID: 32011), Prob: 0.0000
+Token: ' part' (ID: 949), Prob: 0.0000
+Token: ' early' (ID: 4124), Prob: 0.0000
+Token: ' driving' (ID: 9842), Prob: 0.0000
+Token: ' storytelling' (ID: 47829), Prob: 0.0000
+Token: ' living' (ID: 5382), Prob: 0.0000
+Token: ' familiar' (ID: 11285), Prob: 0.0000
+Token: ' building' (ID: 4752), Prob: 0.0000
+Token: ' sharing' (ID: 11560), Prob: 0.0000
+Token: ' morning' (ID: 6556), Prob: 0.0000
+Token: ' bringing' (ID: 12678), Prob: 0.0000
+Token: ' introduction' (ID: 16800), Prob: 0.0000
+Token: ' Mom' (ID: 22180), Prob: 0.0000
+Token: ' three' (ID: 2326), Prob: 0.0000
+Token: ' friends' (ID: 4780), Prob: 0.0000
+Token: ' travel' (ID: 5821), Prob: 0.0000
 
 == Ranked Concepts (Clusters) ==
-Rank 1 | Centroid: ' Like' | Score: 0.9883
-  Tokens: [' like', ' Like', 'like', '-like', ' LIKE', '_like', ' likes', '.like']
-Rank 2 | Centroid: ' else' | Score: 0.0097
-  Tokens: [' else', ' elif', ' otherwise']
-Rank 3 | Centroid: ' yes' | Score: 0.0001
-  Tokens: [' yes', ' sure']
-Rank 4 | Centroid: ' similar' | Score: 0.0001
-  Tokens: [' similar']
-Rank 5 | Centroid: ' maybe' | Score: 0.0000
-  Tokens: [' maybe', ' might', ' possible', ' impossible']
-Rank 6 | Centroid: ' etc' | Score: 0.0000
-  Tokens: [' etc', ' something', ' say']
-Rank 7 | Centroid: ' related' | Score: 0.0000
-  Tokens: [' related', ' based']
-Rank 8 | Centroid: ' less' | Score: 0.0000
-  Tokens: [' less', ' short', ' limited', ' slightly', ' close']
-Rank 9 | Centroid: ' misleading' | Score: 0.0000
-  Tokens: [' missing', ' negative', ' misleading']
-Rank 10 | Centroid: ' within' | Score: 0.0000
-  Tokens: [' around', ' inside', ' along', ' within', ' towards']
-Rank 11 | Centroid: ' including' | Score: 0.0000
-  Tokens: [' including', ' include']
-Rank 12 | Centroid: ' relevant' | Score: 0.0000
-  Tokens: [' different', ' specific', ' important', ' relevant', ' appropriate']
-Rank 13 | Centroid: ' list' | Score: 0.0000
-  Tokens: [' list']
-Rank 14 | Centroid: ' noisy' | Score: 0.0000
-  Tokens: [' noisy']
-Rank 15 | Centroid: ' also' | Score: 0.0000
-  Tokens: [' also']
+Rank 1 | Centroid: ' family' | Score: 0.0021
+  Tokens: [' family', ' home', ' Family', ' families']
+Rank 2 | Centroid: ' discussing' | Score: 0.0013
+  Tokens: [' describing', ' talking', ' mentioning', ' discussing', ' exploring', ' saying', ' telling']
+Rank 3 | Centroid: ' introduction' | Score: 0.0009
+  Tokens: [' introducing', ' intro', ' introduction']
+Rank 4 | Centroid: ' someone' | Score: 0.0006
+  Tokens: [' someone', ' maybe', ' something', ' everyone', ' people']
+Rank 5 | Centroid: ' finding' | Score: 0.0003
+  Tokens: [' setting', ' meeting', ' joining', ' finding', ' building']
+Rank 6 | Centroid: ' Grandma' | Score: 0.0001
+  Tokens: [' parents', ' Grandma', ' grandparents', ' Mom']
+Rank 7 | Centroid: '"My' | Score: 0.0001
+  Tokens: ['"My', ' childhood']
+Rank 8 | Centroid: ' preparing' | Score: 0.0001
+  Tokens: [' preparing', ' taking']
+Rank 9 | Centroid: ' two' | Score: 0.0001
+  Tokens: [' two', ' John', ' time', ' three']
+Rank 10 | Centroid: ' arriving' | Score: 0.0001
+  Tokens: [' entering', ' arrival', ' arriving', ' bringing']
+Rank 11 | Centroid: ' traveling' | Score: 0.0001
+  Tokens: [' traveling', ' driving', ' travel']
+Rank 12 | Centroid: ' moving' | Score: 0.0001
+  Tokens: [' moving', ' going', ' living']
+Rank 13 | Centroid: ' starting' | Score: 0.0001
+  Tokens: [' starting', ' opening']
+Rank 14 | Centroid: ' morning' | Score: 0.0001
+  Tokens: [' today', ' early', ' morning']
+Rank 15 | Centroid: ' planning' | Score: 0.0000
+  Tokens: [' planning', ' storytelling', ' sharing']
+Rank 16 | Centroid: ' part' | Score: 0.0000
+  Tokens: [' part', ' familiar']
+Rank 17 | Centroid: ' friends' | Score: 0.0000
+  Tokens: [' friends']
 
 **Chosen Concept:** Rank 1

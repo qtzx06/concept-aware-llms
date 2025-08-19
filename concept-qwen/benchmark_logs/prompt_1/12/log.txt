@@ -1,143 +1,158 @@
 --- Step 12 Log ---
 
 == Filtered Candidates ==
-Token: ' crying' (ID: 30199), Prob: 0.2500
-Token: ' making' (ID: 3259), Prob: 0.0559
-Token: ' sadness' (ID: 50878), Prob: 0.0264
-Token: ' tears' (ID: 23139), Prob: 0.0233
-Token: ' longing' (ID: 78322), Prob: 0.0182
-Token: ' wanting' (ID: 19211), Prob: 0.0125
-Token: ' needing' (ID: 32821), Prob: 0.0110
-Token: ' love' (ID: 2948), Prob: 0.0076
-Token: ' despair' (ID: 45896), Prob: 0.0046
-Token: ' loss' (ID: 4709), Prob: 0.0030
-Token: ' pain' (ID: 6646), Prob: 0.0028
-Token: ' sorrow' (ID: 57496), Prob: 0.0026
-Token: ' grief' (ID: 37284), Prob: 0.0023
-Token: ' overwhelming' (ID: 22024), Prob: 0.0018
-Token: ' loneliness' (ID: 73940), Prob: 0.0016
-Token: ' loving' (ID: 21258), Prob: 0.0013
-Token: ' emotional' (ID: 14269), Prob: 0.0010
-Token: ' desire' (ID: 12591), Prob: 0.0010
-Token: ' deep' (ID: 5538), Prob: 0.0008
-Token: ' joy' (ID: 15888), Prob: 0.0008
-Token: ' intense' (ID: 18894), Prob: 0.0007
-Token: ' desperation' (ID: 73324), Prob: 0.0007
-Token: ' losing' (ID: 13188), Prob: 0.0006
-Token: ' affection' (ID: 36705), Prob: 0.0006
-Token: ' feeling' (ID: 8266), Prob: 0.0006
-Token: ' happiness' (ID: 23009), Prob: 0.0006
-Token: ' getting' (ID: 3709), Prob: 0.0005
-Token: ' need' (ID: 1184), Prob: 0.0005
-Token: ' help' (ID: 1492), Prob: 0.0004
-Token: ' cry' (ID: 15729), Prob: 0.0004
-Token: ' vulnerability' (ID: 33004), Prob: 0.0004
-Token: ' sympathy' (ID: 45984), Prob: 0.0004
-Token: ' want' (ID: 1366), Prob: 0.0004
-Token: ' emotion' (ID: 19772), Prob: 0.0004
-Token: ' anger' (ID: 19234), Prob: 0.0003
-Token: ' weakness' (ID: 23078), Prob: 0.0003
-Token: ' expressing' (ID: 36710), Prob: 0.0003
-Token: ' misery' (ID: 57601), Prob: 0.0003
-Token: ' frustration' (ID: 31986), Prob: 0.0002
-Token: ' inability' (ID: 37450), Prob: 0.0002
-Token: ' admiration' (ID: 65839), Prob: 0.0002
-Token: ' ecstasy' (ID: 92563), Prob: 0.0002
-Token: ' something' (ID: 2494), Prob: 0.0002
-Token: ' missing' (ID: 7402), Prob: 0.0002
-Token: ' sob' (ID: 11493), Prob: 0.0002
-Token: ' letting' (ID: 20194), Prob: 0.0002
-Token: ' self' (ID: 656), Prob: 0.0002
-Token: ' make' (ID: 1281), Prob: 0.0002
-Token: ' strong' (ID: 3746), Prob: 0.0002
-Token: ' anguish' (ID: 94922), Prob: 0.0002
-Token: ' complete' (ID: 4583), Prob: 0.0002
-Token: ' becoming' (ID: 10454), Prob: 0.0002
-Token: ' regret' (ID: 22231), Prob: 0.0002
-Token: ' agony' (ID: 78830), Prob: 0.0002
-Token: ' nostalgia' (ID: 64775), Prob: 0.0002
-Token: ' tear' (ID: 17576), Prob: 0.0002
-Token: ' eup' (ID: 63943), Prob: 0.0002
-Token: ' overwhelm' (ID: 95748), Prob: 0.0002
-Token: ' pure' (ID: 10526), Prob: 0.0002
-Token: ' empathy' (ID: 47351), Prob: 0.0002
-Token: ' dependency' (ID: 24036), Prob: 0.0001
-Token: ' mourning' (ID: 75250), Prob: 0.0001
-Token: ' trembling' (ID: 91988), Prob: 0.0001
-Token: ' profound' (ID: 27155), Prob: 0.0001
-Token: ' excitement' (ID: 27262), Prob: 0.0001
-Token: ' personal' (ID: 4345), Prob: 0.0001
-Token: ' suff' (ID: 8489), Prob: 0.0001
-Token: ' suffering' (ID: 15691), Prob: 0.0001
-Token: ' distress' (ID: 34004), Prob: 0.0001
-Token: ' melanch' (ID: 86063), Prob: 0.0001
-Token: ' extreme' (ID: 14226), Prob: 0.0001
-Token: ' devastation' (ID: 81915), Prob: 0.0001
-Token: ' emotions' (ID: 21261), Prob: 0.0001
-Token: ' touching' (ID: 30587), Prob: 0.0001
-Token: ' tearing' (ID: 55736), Prob: 0.0001
-Token: ' overpower' (ID: 97787), Prob: 0.0001
-Token: ' abuse' (ID: 11480), Prob: 0.0001
-Token: ' shame' (ID: 20973), Prob: 0.0001
-Token: ' disappointment' (ID: 40598), Prob: 0.0001
-Token: ' betrayal' (ID: 67276), Prob: 0.0001
-Token: ' jealousy' (ID: 79722), Prob: 0.0001
-Token: ' breaking' (ID: 14719), Prob: 0.0001
-Token: ' depression' (ID: 18210), Prob: 0.0001
-Token: ' attachment' (ID: 19984), Prob: 0.0001
-Token: ' addiction' (ID: 26373), Prob: 0.0001
-Token: ' dependence' (ID: 43293), Prob: 0.0001
+Token: ' characters' (ID: 5766), Prob: 0.3574
+Token: ' names' (ID: 5036), Prob: 0.0796
+Token: ' traits' (ID: 24055), Prob: 0.0515
+Token: ' character' (ID: 3668), Prob: 0.0354
+Token: ' actions' (ID: 6168), Prob: 0.0354
+Token: ' name' (ID: 829), Prob: 0.0228
+Token: ' characteristics' (ID: 17452), Prob: 0.0228
+Token: ' roles' (ID: 12783), Prob: 0.0201
+Token: ' emotions' (ID: 21261), Prob: 0.0095
+Token: ' parents' (ID: 6562), Prob: 0.0090
+Token: ' voices' (ID: 23314), Prob: 0.0054
+Token: ' main' (ID: 1887), Prob: 0.0051
+Token: ' features' (ID: 4419), Prob: 0.0051
+Token: ' attributes' (ID: 8201), Prob: 0.0048
+Token: ' motives' (ID: 51040), Prob: 0.0045
+Token: ' two' (ID: 1378), Prob: 0.0042
+Token: ' stories' (ID: 7343), Prob: 0.0042
+Token: ' motivations' (ID: 64831), Prob: 0.0040
+Token: ' family' (ID: 2997), Prob: 0.0037
+Token: ' role' (ID: 3476), Prob: 0.0037
+Token: ' story' (ID: 3364), Prob: 0.0035
+Token: ' relationships' (ID: 11871), Prob: 0.0033
+Token: ' protagonists' (ID: 94635), Prob: 0.0033
+Token: ' children' (ID: 2841), Prob: 0.0029
+Token: ' personalities' (ID: 43808), Prob: 0.0029
+Token: ' lives' (ID: 6305), Prob: 0.0027
+Token: ' goals' (ID: 8845), Prob: 0.0027
+Token: ' identities' (ID: 39421), Prob: 0.0027
+Token: ' professions' (ID: 68692), Prob: 0.0027
+Token: ' perspectives' (ID: 38455), Prob: 0.0026
+Token: ' lines' (ID: 5128), Prob: 0.0024
+Token: ' personality' (ID: 17294), Prob: 0.0024
+Token: ' dialogue' (ID: 21276), Prob: 0.0021
+Token: ' descriptions' (ID: 27787), Prob: 0.0021
+Token: ' intentions' (ID: 33234), Prob: 0.0021
+Token: ' ancestors' (ID: 37518), Prob: 0.0021
+Token: ' age' (ID: 4231), Prob: 0.0020
+Token: ' origins' (ID: 32372), Prob: 0.0020
+Token: ' primary' (ID: 6028), Prob: 0.0019
+Token: ' hands' (ID: 6078), Prob: 0.0019
+Token: ' protagonist' (ID: 45584), Prob: 0.0019
+Token: ' physical' (ID: 6961), Prob: 0.0018
+Token: ' gender' (ID: 9825), Prob: 0.0018
+Token: ' voice' (ID: 7743), Prob: 0.0017
+Token: ' faces' (ID: 12300), Prob: 0.0017
+Token: ' titles' (ID: 15311), Prob: 0.0017
+Token: ' members' (ID: 3613), Prob: 0.0016
+Token: ' identity' (ID: 9569), Prob: 0.0016
+Token: ' interests' (ID: 11772), Prob: 0.0016
+Token: ' strengths' (ID: 35386), Prob: 0.0016
+Token: ' life' (ID: 2272), Prob: 0.0015
+Token: ' points' (ID: 3501), Prob: 0.0015
+Token: ' interactions' (ID: 21880), Prob: 0.0015
+Token: ' feelings' (ID: 15650), Prob: 0.0014
+Token: ' ideas' (ID: 6708), Prob: 0.0013
+Token: ' choices' (ID: 11454), Prob: 0.0013
+Token: ' siblings' (ID: 36683), Prob: 0.0013
+Token: ' objects' (ID: 6171), Prob: 0.0012
+Token: ' eyes' (ID: 6414), Prob: 0.0012
+Token: ' thoughts' (ID: 11303), Prob: 0.0012
+Token: ' possessions' (ID: 52535), Prob: 0.0012
+Token: ' personal' (ID: 4345), Prob: 0.0011
+Token: ' types' (ID: 4494), Prob: 0.0011
+Token: ' relationship' (ID: 5025), Prob: 0.0011
+Token: ' plot' (ID: 7089), Prob: 0.0011
+Token: ' inner' (ID: 9179), Prob: 0.0011
+Token: ' experiences' (ID: 11449), Prob: 0.0011
+Token: ' perspective' (ID: 13057), Prob: 0.0011
+Token: ' gestures' (ID: 52392), Prob: 0.0011
+Token: ' first' (ID: 1156), Prob: 0.0011
+Token: ' details' (ID: 3565), Prob: 0.0011
+Token: ' skills' (ID: 7361), Prob: 0.0011
+Token: ' properties' (ID: 5888), Prob: 0.0010
+Token: ' narrative' (ID: 19221), Prob: 0.0010
+Token: ' works' (ID: 4278), Prob: 0.0009
+Token: ' emotional' (ID: 14269), Prob: 0.0009
+Token: ' words' (ID: 4244), Prob: 0.0009
+Token: ' abilities' (ID: 17541), Prob: 0.0009
+Token: ' genders' (ID: 81328), Prob: 0.0009
+Token: ' major' (ID: 3598), Prob: 0.0008
+Token: ' background' (ID: 4004), Prob: 0.0008
+Token: ' origin' (ID: 6238), Prob: 0.0008
+Token: ' species' (ID: 9419), Prob: 0.0008
+Token: ' expressions' (ID: 23393), Prob: 0.0008
+Token: ' appearances' (ID: 26255), Prob: 0.0008
+Token: ' friends' (ID: 4780), Prob: 0.0008
+Token: ' letters' (ID: 11931), Prob: 0.0007
+Token: ' acts' (ID: 14056), Prob: 0.0007
+Token: ' qualities' (ID: 28500), Prob: 0.0007
+Token: ' initials' (ID: 78437), Prob: 0.0007
+Token: ' appearance' (ID: 11094), Prob: 0.0007
+Token: ' powers' (ID: 13430), Prob: 0.0007
+Token: ' themes' (ID: 21386), Prob: 0.0007
 
 == Ranked Concepts (Clusters) ==
-Rank 1 | Centroid: ' crying' | Score: 0.2500
-  Tokens: [' crying', ' cry', ' trembling']
-Rank 2 | Centroid: ' make' | Score: 0.0569
-  Tokens: [' making', ' help', ' something', ' make', ' suff']
-Rank 3 | Centroid: ' sorrow' | Score: 0.0315
-  Tokens: [' sadness', ' sorrow', ' grief', ' mourning', ' melanch']
-Rank 4 | Centroid: ' want' | Score: 0.0253
-  Tokens: [' wanting', ' needing', ' desire', ' need', ' want']
-Rank 5 | Centroid: ' tear' | Score: 0.0238
-  Tokens: [' tears', ' sob', ' tear', ' tearing']
-Rank 6 | Centroid: ' longing' | Score: 0.0182
-  Tokens: [' longing']
-Rank 7 | Centroid: ' love' | Score: 0.0089
-  Tokens: [' love', ' loving']
-Rank 8 | Centroid: ' anguish' | Score: 0.0082
-  Tokens: [' despair', ' loneliness', ' desperation', ' misery', ' frustration', ' ecstasy', ' anguish', ' agony', ' devastation', ' disappointment']
-Rank 9 | Centroid: ' losing' | Score: 0.0038
-  Tokens: [' loss', ' losing', ' missing']
-Rank 10 | Centroid: ' pain' | Score: 0.0029
-  Tokens: [' pain', ' distress']
-Rank 11 | Centroid: ' profound' | Score: 0.0024
-  Tokens: [' deep', ' intense', ' strong', ' complete', ' pure', ' profound', ' extreme']
-Rank 12 | Centroid: ' emotions' | Score: 0.0023
-  Tokens: [' emotional', ' feeling', ' emotion', ' anger', ' emotions']
-Rank 13 | Centroid: ' overwhelming' | Score: 0.0021
-  Tokens: [' overwhelming', ' overwhelm', ' overpower']
-Rank 14 | Centroid: ' admiration' | Score: 0.0017
-  Tokens: [' affection', ' sympathy', ' admiration', ' nostalgia', ' empathy', ' jealousy']
-Rank 15 | Centroid: ' joy' | Score: 0.0014
-  Tokens: [' joy', ' happiness']
-Rank 16 | Centroid: ' getting' | Score: 0.0014
-  Tokens: [' getting', ' expressing', ' letting', ' becoming', ' touching', ' breaking']
-Rank 17 | Centroid: ' dependency' | Score: 0.0008
-  Tokens: [' vulnerability', ' dependency', ' depression', ' addiction', ' dependence']
-Rank 18 | Centroid: ' weakness' | Score: 0.0005
-  Tokens: [' weakness', ' inability']
-Rank 19 | Centroid: ' self' | Score: 0.0003
-  Tokens: [' self', ' personal']
-Rank 20 | Centroid: ' eup' | Score: 0.0003
-  Tokens: [' eup', ' excitement']
-Rank 21 | Centroid: ' regret' | Score: 0.0003
-  Tokens: [' regret', ' shame']
-Rank 22 | Centroid: ' suffering' | Score: 0.0001
-  Tokens: [' suffering']
-Rank 23 | Centroid: ' abuse' | Score: 0.0001
-  Tokens: [' abuse']
-Rank 24 | Centroid: ' betrayal' | Score: 0.0001
-  Tokens: [' betrayal']
-Rank 25 | Centroid: ' attachment' | Score: 0.0001
-  Tokens: [' attachment']
+Rank 1 | Centroid: ' characters' | Score: 0.3926
+  Tokens: [' characters', ' character']
+Rank 2 | Centroid: ' names' | Score: 0.1050
+  Tokens: [' names', ' name', ' titles', ' initials']
+Rank 3 | Centroid: ' characteristics' | Score: 0.0859
+  Tokens: [' traits', ' characteristics', ' features', ' attributes', ' properties', ' qualities']
+Rank 4 | Centroid: ' abilities' | Score: 0.0408
+  Tokens: [' actions', ' strengths', ' choices', ' skills', ' abilities', ' powers']
+Rank 5 | Centroid: ' roles' | Score: 0.0239
+  Tokens: [' roles', ' role']
+Rank 6 | Centroid: ' siblings' | Score: 0.0214
+  Tokens: [' parents', ' family', ' children', ' ancestors', ' members', ' siblings', ' friends']
+Rank 7 | Centroid: ' main' | Score: 0.0160
+  Tokens: [' main', ' two', ' primary', ' physical', ' inner', ' first', ' major']
+Rank 8 | Centroid: ' motivations' | Score: 0.0149
+  Tokens: [' motives', ' motivations', ' goals', ' intentions', ' interests']
+Rank 9 | Centroid: ' emotions' | Score: 0.0120
+  Tokens: [' emotions', ' feelings', ' gestures']
+Rank 10 | Centroid: ' story' | Score: 0.0099
+  Tokens: [' stories', ' story', ' plot', ' narrative']
+Rank 11 | Centroid: ' voice' | Score: 0.0092
+  Tokens: [' voices', ' dialogue', ' voice']
+Rank 12 | Centroid: ' personality' | Score: 0.0074
+  Tokens: [' personalities', ' personality', ' personal', ' emotional']
+Rank 13 | Centroid: ' words' | Score: 0.0067
+  Tokens: [' lines', ' points', ' objects', ' words', ' letters']
+Rank 14 | Centroid: ' relationships' | Score: 0.0059
+  Tokens: [' relationships', ' interactions', ' relationship']
+Rank 15 | Centroid: ' genders' | Score: 0.0054
+  Tokens: [' professions', ' gender', ' genders']
+Rank 16 | Centroid: ' perspectives' | Score: 0.0052
+  Tokens: [' perspectives', ' perspective', ' appearances', ' appearance']
+Rank 17 | Centroid: ' protagonists' | Score: 0.0052
+  Tokens: [' protagonists', ' protagonist']
+Rank 18 | Centroid: ' eyes' | Score: 0.0048
+  Tokens: [' hands', ' faces', ' eyes']
+Rank 19 | Centroid: ' identities' | Score: 0.0043
+  Tokens: [' identities', ' identity']
+Rank 20 | Centroid: ' lives' | Score: 0.0042
+  Tokens: [' lives', ' life']
+Rank 21 | Centroid: ' origins' | Score: 0.0037
+  Tokens: [' origins', ' background', ' origin']
+Rank 22 | Centroid: ' ideas' | Score: 0.0036
+  Tokens: [' ideas', ' thoughts', ' experiences']
+Rank 23 | Centroid: ' descriptions' | Score: 0.0030
+  Tokens: [' descriptions', ' expressions']
+Rank 24 | Centroid: ' age' | Score: 0.0028
+  Tokens: [' age', ' species']
+Rank 25 | Centroid: ' works' | Score: 0.0017
+  Tokens: [' works', ' acts']
+Rank 26 | Centroid: ' possessions' | Score: 0.0012
+  Tokens: [' possessions']
+Rank 27 | Centroid: ' types' | Score: 0.0011
+  Tokens: [' types']
+Rank 28 | Centroid: ' details' | Score: 0.0011
+  Tokens: [' details']
+Rank 29 | Centroid: ' themes' | Score: 0.0007
+  Tokens: [' themes']
 
 **Chosen Concept:** Rank 1

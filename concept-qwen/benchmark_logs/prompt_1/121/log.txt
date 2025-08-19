@@ -1,0 +1,119 @@
+--- Step 121 Log ---
+
+== Filtered Candidates ==
+Token: ' two' (ID: 1378), Prob: 0.0845
+Token: ' three' (ID: 2326), Prob: 0.0452
+Token: ' specific' (ID: 3151), Prob: 0.0275
+Token: ' five' (ID: 4236), Prob: 0.0275
+Token: ' dialogue' (ID: 21276), Prob: 0.0214
+Token: ' one' (ID: 825), Prob: 0.0166
+Token: ' sensory' (ID: 47969), Prob: 0.0101
+Token: ' scenes' (ID: 16065), Prob: 0.0095
+Token: ' elements' (ID: 5424), Prob: 0.0074
+Token: ' four' (ID: 3040), Prob: 0.0065
+Token: ' vivid' (ID: 42020), Prob: 0.0039
+Token: ' descriptions' (ID: 27787), Prob: 0.0029
+Token: ' details' (ID: 3565), Prob: 0.0027
+Token: ' six' (ID: 4743), Prob: 0.0025
+Token: ' scene' (ID: 6109), Prob: 0.0020
+Token: ' within' (ID: 2878), Prob: 0.0018
+Token: ' physical' (ID: 6961), Prob: 0.0015
+Token: ' imagery' (ID: 40445), Prob: 0.0015
+Token: ' themes' (ID: 21386), Prob: 0.0014
+Token: ' seven' (ID: 8094), Prob: 0.0013
+Token: ' emotional' (ID: 14269), Prob: 0.0012
+Token: ' descriptive' (ID: 52844), Prob: 0.0012
+Token: ' proper' (ID: 6169), Prob: 0.0011
+Token: ' multiple' (ID: 5248), Prob: 0.0011
+Token: ' personal' (ID: 4345), Prob: 0.0009
+Token: ' internal' (ID: 5306), Prob: 0.0009
+Token: ' natural' (ID: 5810), Prob: 0.0009
+Token: ' exactly' (ID: 6896), Prob: 0.0009
+Token: ' emotions' (ID: 21261), Prob: 0.0008
+Token: ' characters' (ID: 5766), Prob: 0.0007
+Token: ' dialog' (ID: 7254), Prob: 0.0007
+Token: ' visual' (ID: 9124), Prob: 0.0006
+Token: ' detailed' (ID: 11682), Prob: 0.0006
+Token: ' conflict' (ID: 12055), Prob: 0.0005
+Token: ' events' (ID: 4357), Prob: 0.0005
+Token: ' fictional' (ID: 43582), Prob: 0.0005
+Token: ' character' (ID: 3668), Prob: 0.0004
+Token: ' names' (ID: 5036), Prob: 0.0004
+Token: ' several' (ID: 3807), Prob: 0.0004
+Token: ' appropriate' (ID: 8311), Prob: 0.0004
+Token: ' time' (ID: 882), Prob: 0.0004
+Token: ' ten' (ID: 5779), Prob: 0.0004
+Token: ' references' (ID: 15057), Prob: 0.0004
+Token: ' symbolic' (ID: 35296), Prob: 0.0004
+Token: ' eight' (ID: 8063), Prob: 0.0003
+Token: ' supporting' (ID: 12613), Prob: 0.0003
+Token: ' plot' (ID: 7089), Prob: 0.0003
+Token: ' symbols' (ID: 17738), Prob: 0.0003
+Token: ' realistic' (ID: 25489), Prob: 0.0003
+Token: ' first' (ID: 1156), Prob: 0.0003
+Token: ' action' (ID: 1917), Prob: 0.0003
+Token: ' different' (ID: 2155), Prob: 0.0003
+Token: ' non' (ID: 2477), Prob: 0.0003
+Token: ' either' (ID: 2987), Prob: 0.0003
+Token: ' actions' (ID: 6168), Prob: 0.0003
+Token: ' direct' (ID: 2118), Prob: 0.0003
+Token: ' minimal' (ID: 17377), Prob: 0.0003
+Token: ' strong' (ID: 3746), Prob: 0.0003
+Token: ' family' (ID: 2997), Prob: 0.0002
+Token: ' enough' (ID: 3322), Prob: 0.0002
+Token: ' distinct' (ID: 12460), Prob: 0.0002
+Token: ' emotion' (ID: 19772), Prob: 0.0002
+Token: ' sub' (ID: 1186), Prob: 0.0002
+Token: ' real' (ID: 1931), Prob: 0.0002
+Token: ' something' (ID: 2494), Prob: 0.0002
+Token: ' additional' (ID: 5107), Prob: 0.0002
+Token: ' every' (ID: 1449), Prob: 0.0002
+Token: ' detail' (ID: 7716), Prob: 0.0002
+Token: ' diverse' (ID: 16807), Prob: 0.0002
+Token: ' interactions' (ID: 21880), Prob: 0.0002
+Token: ' description' (ID: 4008), Prob: 0.0002
+Token: ' items' (ID: 3589), Prob: 0.0002
+Token: ' external' (ID: 9250), Prob: 0.0002
+Token: ' language' (ID: 4128), Prob: 0.0002
+
+== Ranked Concepts (Clusters) ==
+Rank 1 | Centroid: ' five' | Score: 0.1689
+  Tokens: [' two', ' three', ' five', ' four', ' six', ' seven', ' several', ' ten', ' eight']
+Rank 2 | Centroid: ' diverse' | Score: 0.0293
+  Tokens: [' specific', ' multiple', ' different', ' distinct', ' diverse']
+Rank 3 | Centroid: ' dialogue' | Score: 0.0228
+  Tokens: [' dialogue', ' dialog', ' conflict', ' language']
+Rank 4 | Centroid: ' non' | Score: 0.0200
+  Tokens: [' one', ' within', ' time', ' first', ' non', ' direct', ' family', ' sub']
+Rank 5 | Centroid: ' scenes' | Score: 0.0115
+  Tokens: [' scenes', ' scene']
+Rank 6 | Centroid: ' sensory' | Score: 0.0107
+  Tokens: [' sensory', ' visual']
+Rank 7 | Centroid: ' items' | Score: 0.0081
+  Tokens: [' elements', ' events', ' items']
+Rank 8 | Centroid: ' detailed' | Score: 0.0074
+  Tokens: [' vivid', ' details', ' detailed', ' detail']
+Rank 9 | Centroid: ' descriptions' | Score: 0.0051
+  Tokens: [' descriptions', ' descriptive', ' names', ' references', ' description']
+Rank 10 | Centroid: ' external' | Score: 0.0043
+  Tokens: [' physical', ' personal', ' internal', ' natural', ' external']
+Rank 11 | Centroid: ' symbols' | Score: 0.0035
+  Tokens: [' imagery', ' themes', ' symbolic', ' symbols']
+Rank 12 | Centroid: ' appropriate' | Score: 0.0034
+  Tokens: [' proper', ' exactly', ' appropriate', ' either', ' enough', ' something', ' every']
+Rank 13 | Centroid: ' emotions' | Score: 0.0022
+  Tokens: [' emotional', ' emotions', ' emotion']
+Rank 14 | Centroid: ' characters' | Score: 0.0012
+  Tokens: [' characters', ' character']
+Rank 15 | Centroid: ' realistic' | Score: 0.0010
+  Tokens: [' fictional', ' realistic', ' real']
+Rank 16 | Centroid: ' actions' | Score: 0.0008
+  Tokens: [' action', ' actions', ' interactions']
+Rank 17 | Centroid: ' additional' | Score: 0.0007
+  Tokens: [' minimal', ' strong', ' additional']
+Rank 18 | Centroid: ' supporting' | Score: 0.0003
+  Tokens: [' supporting']
+Rank 19 | Centroid: ' plot' | Score: 0.0003
+  Tokens: [' plot']
+
+**Chosen Concept:** Rank 1

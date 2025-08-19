@@ -1,86 +1,150 @@
 --- Step 48 Log ---
 
 == Filtered Candidates ==
-Token: ' child' (ID: 1682), Prob: 0.9805
-Token: ' kid' (ID: 10369), Prob: 0.0005
-Token: ' Child' (ID: 9391), Prob: 0.0003
-Token: ' children' (ID: 2841), Prob: 0.0003
-Token: ' parent' (ID: 2681), Prob: 0.0002
-Token: ' family' (ID: 2997), Prob: 0.0002
-Token: ' baby' (ID: 8770), Prob: 0.0002
-Token: ' young' (ID: 3908), Prob: 0.0001
-Token: ' youth' (ID: 12537), Prob: 0.0001
-Token: '(child' (ID: 17794), Prob: 0.0001
-Token: ' home' (ID: 2114), Prob: 0.0001
-Token: ' infant' (ID: 30283), Prob: 0.0000
-Token: '-child' (ID: 23484), Prob: 0.0000
-Token: ' one' (ID: 825), Prob: 0.0000
-Token: ' mother' (ID: 6554), Prob: 0.0000
-Token: '	child' (ID: 58391), Prob: 0.0000
-Token: ' toddler' (ID: 51235), Prob: 0.0000
-Token: ' student' (ID: 5458), Prob: 0.0000
-Token: ' adult' (ID: 6683), Prob: 0.0000
-Token: ' care' (ID: 2453), Prob: 0.0000
-Token: ' teen' (ID: 9378), Prob: 0.0000
-Token: ' girl' (ID: 3743), Prob: 0.0000
-Token: '_child' (ID: 17268), Prob: 0.0000
-Token: ' childhood' (ID: 19990), Prob: 0.0000
-Token: 'child' (ID: 3048), Prob: 0.0000
-Token: ' boy' (ID: 8171), Prob: 0.0000
-Token: ' CHILD' (ID: 72520), Prob: 0.0000
-Token: ' grand' (ID: 6662), Prob: 0.0000
-Token: ' daughter' (ID: 9803), Prob: 0.0000
-Token: ' kids' (ID: 6837), Prob: 0.0000
-Token: ' user' (ID: 1196), Prob: 0.0000
-Token: ' old' (ID: 2310), Prob: 0.0000
-Token: ' small' (ID: 2613), Prob: 0.0000
-Token: '.child' (ID: 17531), Prob: 0.0000
-Token: ' parents' (ID: 6562), Prob: 0.0000
-Token: ' father' (ID: 6981), Prob: 0.0000
-Token: ' word' (ID: 3409), Prob: 0.0000
-Token: ' car' (ID: 1803), Prob: 0.0000
-Token: ' younger' (ID: 14650), Prob: 0.0000
-Token: ' childcare' (ID: 79171), Prob: 0.0000
-Token: ' grow' (ID: 3063), Prob: 0.0000
-Token: ' son' (ID: 4438), Prob: 0.0000
-Token: ' new' (ID: 501), Prob: 0.0000
-Token: ' away' (ID: 3123), Prob: 0.0000
-Token: ' future' (ID: 3853), Prob: 0.0000
+Token: ' story' (ID: 3364), Prob: 0.7227
+Token: ' narrative' (ID: 19221), Prob: 0.1260
+Token: ' short' (ID: 2805), Prob: 0.0593
+Token: ' coherent' (ID: 55787), Prob: 0.0317
+Token: ' plausible' (ID: 49334), Prob: 0.0170
+Token: ' scenario' (ID: 15048), Prob: 0.0117
+Token: ' plot' (ID: 7089), Prob: 0.0091
+Token: ' cohesive' (ID: 86416), Prob: 0.0038
+Token: ' fictional' (ID: 43582), Prob: 0.0026
+Token: ' rel' (ID: 1351), Prob: 0.0018
+Token: ' believable' (ID: 91395), Prob: 0.0016
+Token: ' connection' (ID: 3633), Prob: 0.0012
+Token: ' simple' (ID: 4285), Prob: 0.0012
+Token: ' compelling' (ID: 28622), Prob: 0.0010
+Token: ' flow' (ID: 6396), Prob: 0.0008
+Token: ' context' (ID: 2266), Prob: 0.0007
+Token: ' scene' (ID: 6109), Prob: 0.0007
+Token: ' storyline' (ID: 50628), Prob: 0.0007
+Token: ' realistic' (ID: 25489), Prob: 0.0006
+Token: ' concise' (ID: 63594), Prob: 0.0005
+Token: ' natural' (ID: 5810), Prob: 0.0005
+Token: ' logical' (ID: 19819), Prob: 0.0004
+Token: ' new' (ID: 501), Prob: 0.0004
+Token: ' small' (ID: 2613), Prob: 0.0003
+Token: ' meaningful' (ID: 22414), Prob: 0.0003
+Token: ' complete' (ID: 4583), Prob: 0.0002
+Token: ' situation' (ID: 6534), Prob: 0.0002
+Token: ' brief' (ID: 9814), Prob: 0.0002
+Token: ' real' (ID: 1931), Prob: 0.0002
+Token: ' connected' (ID: 8433), Prob: 0.0002
+Token: ' sequence' (ID: 8500), Prob: 0.0001
+Token: ' character' (ID: 3668), Prob: 0.0001
+Token: ' tale' (ID: 23281), Prob: 0.0001
+Token: ' proper' (ID: 6169), Prob: 0.0001
+Token: ' conflict' (ID: 12055), Prob: 0.0001
+Token: ' smooth' (ID: 10876), Prob: 0.0001
+Token: ' connecting' (ID: 20913), Prob: 0.0001
+Token: ' setting' (ID: 6243), Prob: 0.0001
+Token: ' engaging' (ID: 22570), Prob: 0.0001
+Token: ' suspense' (ID: 71830), Prob: 0.0001
+Token: ' possible' (ID: 3204), Prob: 0.0001
+Token: ' suitable' (ID: 14452), Prob: 0.0001
+Token: ' full' (ID: 2480), Prob: 0.0001
+Token: ' seamless' (ID: 46870), Prob: 0.0001
+Token: ' sense' (ID: 5530), Prob: 0.0001
+Token: ' consistent' (ID: 12966), Prob: 0.0001
+Token: ' fitting' (ID: 26345), Prob: 0.0001
+Token: ' continuation' (ID: 41171), Prob: 0.0001
+Token: ' reasonable' (ID: 13276), Prob: 0.0000
+Token: ' unique' (ID: 4911), Prob: 0.0000
+Token: ' relevant' (ID: 9760), Prob: 0.0000
+Token: ' creative' (ID: 11521), Prob: 0.0000
+Token: ' dialogue' (ID: 21276), Prob: 0.0000
+Token: ' good' (ID: 1661), Prob: 0.0000
+Token: ' mini' (ID: 13420), Prob: 0.0000
+Token: ' shorter' (ID: 23327), Prob: 0.0000
+Token: ' vivid' (ID: 42020), Prob: 0.0000
+Token: ' response' (ID: 2033), Prob: 0.0000
+Token: ' timeline' (ID: 24808), Prob: 0.0000
+Token: ' continuous' (ID: 19259), Prob: 0.0000
+Token: ' satisfying' (ID: 36054), Prob: 0.0000
+Token: ' little' (ID: 2632), Prob: 0.0000
+Token: ' hypothetical' (ID: 58059), Prob: 0.0000
+Token: ' structure' (ID: 5944), Prob: 0.0000
+Token: ' connect' (ID: 4564), Prob: 0.0000
+Token: ' bridge' (ID: 14164), Prob: 0.0000
+Token: ' backstory' (ID: 92271), Prob: 0.0000
+Token: ' clear' (ID: 2797), Prob: 0.0000
+Token: ' similar' (ID: 4428), Prob: 0.0000
+Token: ' relationship' (ID: 5025), Prob: 0.0000
+Token: ' minor' (ID: 8922), Prob: 0.0000
+Token: ' logically' (ID: 73045), Prob: 0.0000
+Token: ' strong' (ID: 3746), Prob: 0.0000
+Token: ' follow' (ID: 1795), Prob: 0.0000
+Token: ' script' (ID: 5316), Prob: 0.0000
+Token: ' setup' (ID: 6505), Prob: 0.0000
+Token: ' romantic' (ID: 23467), Prob: 0.0000
+Token: ' related' (ID: 5435), Prob: 0.0000
+Token: ' tight' (ID: 10296), Prob: 0.0000
+Token: ' heartfelt' (ID: 83111), Prob: 0.0000
+Token: ' world' (ID: 1879), Prob: 0.0000
+Token: ' sentence' (ID: 11652), Prob: 0.0000
+Token: ' dramatic' (ID: 21771), Prob: 0.0000
+Token: ' well' (ID: 1632), Prob: 0.0000
+Token: ' specific' (ID: 3151), Prob: 0.0000
+Token: ' friendly' (ID: 11657), Prob: 0.0000
+Token: ' flowing' (ID: 35512), Prob: 0.0000
+Token: ' storytelling' (ID: 47829), Prob: 0.0000
+Token: ' valid' (ID: 2697), Prob: 0.0000
+Token: ' quick' (ID: 3974), Prob: 0.0000
+Token: ' personal' (ID: 4345), Prob: 0.0000
+Token: ' whole' (ID: 4361), Prob: 0.0000
+Token: ' dynamic' (ID: 8741), Prob: 0.0000
+Token: ' gentle' (ID: 21700), Prob: 0.0000
+Token: ' structured' (ID: 32930), Prob: 0.0000
+Token: ' standalone' (ID: 43388), Prob: 0.0000
+Token: ' protagonist' (ID: 45584), Prob: 0.0000
 
 == Ranked Concepts (Clusters) ==
-Rank 1 | Centroid: ' child' | Score: 0.9805
-  Tokens: [' child', ' Child', ' children', '(child', '-child', '\tchild', '_child', 'child', ' CHILD', '.child']
-Rank 2 | Centroid: ' kid' | Score: 0.0005
-  Tokens: [' kid', ' kids']
-Rank 3 | Centroid: ' infant' | Score: 0.0002
-  Tokens: [' baby', ' infant', ' toddler']
-Rank 4 | Centroid: ' family' | Score: 0.0002
-  Tokens: [' family', ' home']
-Rank 5 | Centroid: ' parent' | Score: 0.0002
-  Tokens: [' parent', ' mother', ' parents', ' father']
-Rank 6 | Centroid: ' young' | Score: 0.0002
-  Tokens: [' young', ' youth', ' younger']
-Rank 7 | Centroid: ' one' | Score: 0.0000
-  Tokens: [' one', ' word']
-Rank 8 | Centroid: ' adult' | Score: 0.0000
-  Tokens: [' adult', ' teen']
-Rank 9 | Centroid: ' student' | Score: 0.0000
-  Tokens: [' student', ' user']
-Rank 10 | Centroid: ' girl' | Score: 0.0000
-  Tokens: [' girl', ' boy']
-Rank 11 | Centroid: ' new' | Score: 0.0000
-  Tokens: [' old', ' small', ' new']
-Rank 12 | Centroid: ' care' | Score: 0.0000
-  Tokens: [' care', ' car']
-Rank 13 | Centroid: ' childhood' | Score: 0.0000
-  Tokens: [' childhood', ' childcare']
-Rank 14 | Centroid: ' daughter' | Score: 0.0000
-  Tokens: [' daughter', ' son']
-Rank 15 | Centroid: ' grow' | Score: 0.0000
-  Tokens: [' grow', ' future']
-Rank 16 | Centroid: ' grand' | Score: 0.0000
-  Tokens: [' grand']
-Rank 17 | Centroid: ' away' | Score: 0.0000
-  Tokens: [' away']
+Rank 1 | Centroid: ' narrative' | Score: 0.8477
+  Tokens: [' story', ' narrative', ' storyline', ' tale', ' dialogue', ' timeline', ' backstory', ' sentence', ' storytelling', ' protagonist']
+Rank 2 | Centroid: ' small' | Score: 0.0613
+  Tokens: [' short', ' simple', ' small', ' brief', ' mini', ' shorter', ' little', ' minor', ' quick']
+Rank 3 | Centroid: ' coherent' | Score: 0.0356
+  Tokens: [' coherent', ' cohesive', ' seamless', ' continuous']
+Rank 4 | Centroid: ' plausible' | Score: 0.0192
+  Tokens: [' plausible', ' believable', ' realistic', ' reasonable']
+Rank 5 | Centroid: ' scenario' | Score: 0.0135
+  Tokens: [' scenario', ' context', ' scene', ' situation', ' setting', ' sense', ' setup', ' world']
+Rank 6 | Centroid: ' plot' | Score: 0.0091
+  Tokens: [' plot', ' script']
+Rank 7 | Centroid: ' dramatic' | Score: 0.0028
+  Tokens: [' fictional', ' suspense', ' creative', ' hypothetical', ' romantic', ' heartfelt', ' dramatic']
+Rank 8 | Centroid: ' unique' | Score: 0.0022
+  Tokens: [' rel', ' new', ' unique', ' specific']
+Rank 9 | Centroid: ' connecting' | Score: 0.0015
+  Tokens: [' connection', ' connected', ' connecting', ' connect', ' bridge']
+Rank 10 | Centroid: ' compelling' | Score: 0.0011
+  Tokens: [' compelling', ' engaging', ' vivid']
+Rank 11 | Centroid: ' flowing' | Score: 0.0009
+  Tokens: [' flow', ' follow', ' flowing']
+Rank 12 | Centroid: ' real' | Score: 0.0006
+  Tokens: [' natural', ' real', ' personal']
+Rank 13 | Centroid: ' suitable' | Score: 0.0006
+  Tokens: [' meaningful', ' proper', ' possible', ' suitable', ' fitting', ' satisfying', ' valid']
+Rank 14 | Centroid: ' concise' | Score: 0.0005
+  Tokens: [' concise', ' gentle']
+Rank 15 | Centroid: ' logical' | Score: 0.0004
+  Tokens: [' logical', ' logically']
+Rank 16 | Centroid: ' full' | Score: 0.0003
+  Tokens: [' complete', ' full', ' whole', ' standalone']
+Rank 17 | Centroid: ' structured' | Score: 0.0002
+  Tokens: [' sequence', ' continuation', ' structure', ' structured']
+Rank 18 | Centroid: ' relationship' | Score: 0.0002
+  Tokens: [' character', ' response', ' relationship']
+Rank 19 | Centroid: ' strong' | Score: 0.0001
+  Tokens: [' smooth', ' clear', ' strong', ' tight']
+Rank 20 | Centroid: ' conflict' | Score: 0.0001
+  Tokens: [' conflict', ' dynamic']
+Rank 21 | Centroid: ' related' | Score: 0.0001
+  Tokens: [' relevant', ' similar', ' related']
+Rank 22 | Centroid: ' consistent' | Score: 0.0001
+  Tokens: [' consistent', ' friendly']
+Rank 23 | Centroid: ' good' | Score: 0.0000
+  Tokens: [' good', ' well']
 
 **Chosen Concept:** Rank 1

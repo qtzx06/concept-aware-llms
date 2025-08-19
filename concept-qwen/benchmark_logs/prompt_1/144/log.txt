@@ -1,163 +1,100 @@
 --- Step 144 Log ---
 
 == Filtered Candidates ==
-Token: ' cry' (ID: 15729), Prob: 0.3809
-Token: ' word' (ID: 3409), Prob: 0.0962
-Token: ' idea' (ID: 4522), Prob: 0.0659
-Token: ' feeling' (ID: 8266), Prob: 0.0659
-Token: ' act' (ID: 1160), Prob: 0.0354
-Token: ' tears' (ID: 23139), Prob: 0.0354
-Token: ' action' (ID: 1917), Prob: 0.0243
-Token: ' emotion' (ID: 19772), Prob: 0.0215
-Token: ' emotional' (ID: 14269), Prob: 0.0189
-Token: ' realization' (ID: 48703), Prob: 0.0189
-Token: ' desire' (ID: 12591), Prob: 0.0147
-Token: ' thought' (ID: 3381), Prob: 0.0108
-Token: ' impact' (ID: 5421), Prob: 0.0095
-Token: ' conclusion' (ID: 16688), Prob: 0.0079
-Token: ' need' (ID: 1184), Prob: 0.0065
-Token: ' final' (ID: 1590), Prob: 0.0061
-Token: ' phrase' (ID: 17133), Prob: 0.0058
-Token: ' crying' (ID: 30199), Prob: 0.0058
-Token: ' message' (ID: 1943), Prob: 0.0054
-Token: ' sentence' (ID: 11652), Prob: 0.0054
-Token: ' imagery' (ID: 40445), Prob: 0.0051
-Token: ' mention' (ID: 6286), Prob: 0.0048
-Token: ' request' (ID: 1681), Prob: 0.0045
-Token: ' image' (ID: 2168), Prob: 0.0040
-Token: ' words' (ID: 4244), Prob: 0.0037
-Token: ' experience' (ID: 3139), Prob: 0.0031
-Token: ' requirement' (ID: 16287), Prob: 0.0031
-Token: ' result' (ID: 1102), Prob: 0.0027
-Token: ' main' (ID: 1887), Prob: 0.0027
-Token: ' repetition' (ID: 53415), Prob: 0.0027
-Token: ' call' (ID: 1618), Prob: 0.0026
-Token: ' note' (ID: 5185), Prob: 0.0026
-Token: ' expression' (ID: 7493), Prob: 0.0026
-Token: ' sensation' (ID: 36292), Prob: 0.0024
-Token: ' key' (ID: 1376), Prob: 0.0023
-Token: ' effect' (ID: 2456), Prob: 0.0023
-Token: ' sense' (ID: 5530), Prob: 0.0023
-Token: ' intention' (ID: 14602), Prob: 0.0023
-Token: ' tear' (ID: 17576), Prob: 0.0023
-Token: ' line' (ID: 1555), Prob: 0.0021
-Token: ' decision' (ID: 5480), Prob: 0.0020
-Token: ' urge' (ID: 32047), Prob: 0.0020
-Token: ' exact' (ID: 4734), Prob: 0.0018
-Token: ' outcome' (ID: 15274), Prob: 0.0017
-Token: ' metaphor' (ID: 45350), Prob: 0.0017
-Token: ' imperative' (ID: 47596), Prob: 0.0017
-Token: ' aspiration' (ID: 97641), Prob: 0.0015
-Token: ' end' (ID: 835), Prob: 0.0014
-Token: ' specific' (ID: 3151), Prob: 0.0014
-Token: ' fact' (ID: 2097), Prob: 0.0013
-Token: ' use' (ID: 990), Prob: 0.0012
-Token: ' physical' (ID: 6961), Prob: 0.0012
-Token: ' intensity' (ID: 20612), Prob: 0.0011
-Token: ' implication' (ID: 60536), Prob: 0.0011
-Token: ' part' (ID: 949), Prob: 0.0009
-Token: ' last' (ID: 1537), Prob: 0.0009
-Token: ' trigger' (ID: 8183), Prob: 0.0009
-Token: ' keyword' (ID: 16174), Prob: 0.0009
-Token: ' emphasis' (ID: 24654), Prob: 0.0009
-Token: ' sign' (ID: 1841), Prob: 0.0008
-Token: ' statement' (ID: 5114), Prob: 0.0008
-Token: ' ending' (ID: 13391), Prob: 0.0008
-Token: ' theme' (ID: 6912), Prob: 0.0008
-Token: ' feelings' (ID: 15650), Prob: 0.0008
-Token: ' strong' (ID: 3746), Prob: 0.0007
-Token: ' concept' (ID: 7286), Prob: 0.0007
-Token: ' intense' (ID: 18894), Prob: 0.0007
-Token: ' plea' (ID: 38967), Prob: 0.0007
-Token: ' climax' (ID: 70195), Prob: 0.0007
-Token: ' condition' (ID: 2971), Prob: 0.0007
-Token: ' ultimate' (ID: 16724), Prob: 0.0007
-Token: ' gravity' (ID: 23249), Prob: 0.0007
-Token: ' satisfaction' (ID: 23689), Prob: 0.0007
-Token: ' essence' (ID: 27491), Prob: 0.0007
-Token: ' emotions' (ID: 21261), Prob: 0.0006
-Token: ' consequence' (ID: 28674), Prob: 0.0006
-Token: ' user' (ID: 1196), Prob: 0.0006
-Token: ' pain' (ID: 6646), Prob: 0.0006
-Token: ' joy' (ID: 15888), Prob: 0.0006
-Token: ' sensory' (ID: 47969), Prob: 0.0006
-Token: ' sad' (ID: 12421), Prob: 0.0006
-Token: ' reflection' (ID: 21844), Prob: 0.0006
-Token: ' closing' (ID: 15316), Prob: 0.0005
-Token: ' recognition' (ID: 17843), Prob: 0.0005
-Token: ' inev' (ID: 20659), Prob: 0.0005
-Token: ' vivid' (ID: 42020), Prob: 0.0005
-Token: ' lingering' (ID: 63510), Prob: 0.0005
-Token: ' direct' (ID: 2118), Prob: 0.0005
-Token: ' clear' (ID: 2797), Prob: 0.0005
-Token: ' command' (ID: 3210), Prob: 0.0005
-Token: ' commitment' (ID: 15155), Prob: 0.0005
-Token: ' declaration' (ID: 18004), Prob: 0.0005
-Token: ' punch' (ID: 20380), Prob: 0.0005
-Token: ' determination' (ID: 25248), Prob: 0.0005
-Token: ' sentiment' (ID: 25975), Prob: 0.0005
-Token: ' moment' (ID: 4445), Prob: 0.0004
-Token: ' memory' (ID: 4938), Prob: 0.0004
-Token: ' element' (ID: 2392), Prob: 0.0004
-Token: ' natural' (ID: 5810), Prob: 0.0004
-Token: ' wish' (ID: 6426), Prob: 0.0004
+Token: ' outside' (ID: 4889), Prob: 0.6445
+Token: ' elsewhere' (ID: 17920), Prob: 0.0021
+Token: ' outdoors' (ID: 33532), Prob: 0.0010
+Token: ' away' (ID: 3123), Prob: 0.0004
+Token: ' somewhere' (ID: 14696), Prob: 0.0002
+Token: ' within' (ID: 2878), Prob: 0.0002
+Token: ' near' (ID: 3143), Prob: 0.0002
+Token: ' inside' (ID: 4766), Prob: 0.0001
+Token: ' beyond' (ID: 7797), Prob: 0.0001
+Token: ' one' (ID: 825), Prob: 0.0001
+Token: ' apart' (ID: 10747), Prob: 0.0001
+Token: ' another' (ID: 2441), Prob: 0.0001
+Token: ' around' (ID: 2163), Prob: 0.0000
+Token: ' abroad' (ID: 22131), Prob: 0.0000
+Token: ' two' (ID: 1378), Prob: 0.0000
+Token: ' either' (ID: 2987), Prob: 0.0000
+Token: ' exterior' (ID: 27263), Prob: 0.0000
+Token: ' separately' (ID: 25156), Prob: 0.0000
+Token: ' next' (ID: 1790), Prob: 0.0000
+Token: ' entirely' (ID: 11368), Prob: 0.0000
+Token: ' anywhere' (ID: 12379), Prob: 0.0000
+Token: ' far' (ID: 3041), Prob: 0.0000
+Token: ' differently' (ID: 21303), Prob: 0.0000
+Token: ' across' (ID: 3941), Prob: 0.0000
+Token: ' set' (ID: 738), Prob: 0.0000
+Token: ' beside' (ID: 29388), Prob: 0.0000
+Token: ' immediately' (ID: 7069), Prob: 0.0000
+Token: ' specifically' (ID: 11689), Prob: 0.0000
+Token: ' aside' (ID: 15663), Prob: 0.0000
+Token: ' nearby' (ID: 14046), Prob: 0.0000
+Token: ' three' (ID: 2326), Prob: 0.0000
+Token: ' throughout' (ID: 6814), Prob: 0.0000
+Token: ' external' (ID: 9250), Prob: 0.0000
+Token: ' externally' (ID: 68342), Prob: 0.0000
+Token: ' opposite' (ID: 14002), Prob: 0.0000
+Token: 'outside' (ID: 66990), Prob: 0.0000
+Token: ' Outside' (ID: 41151), Prob: 0.0000
+Token: ' six' (ID: 4743), Prob: 0.0000
+Token: ' directly' (ID: 5961), Prob: 0.0000
+Token: ' outdoor' (ID: 15789), Prob: 0.0000
+Token: ' different' (ID: 2155), Prob: 0.0000
+Token: ' behind' (ID: 4815), Prob: 0.0000
+Token: ' separate' (ID: 8651), Prob: 0.0000
+Token: ' independently' (ID: 28135), Prob: 0.0000
+Token: ' completely' (ID: 6587), Prob: 0.0000
+Token: ' naturally' (ID: 17712), Prob: 0.0000
+Token: ' overseas' (ID: 24357), Prob: 0.0000
+Token: ' outward' (ID: 50946), Prob: 0.0000
+Token: ' exactly' (ID: 6896), Prob: 0.0000
+Token: ' without' (ID: 2041), Prob: 0.0000
+Token: ' something' (ID: 2494), Prob: 0.0000
+Token: ' indoors' (ID: 54054), Prob: 0.0000
+Token: ' close' (ID: 3265), Prob: 0.0000
+Token: ' surrounding' (ID: 14590), Prob: 0.0000
+Token: 'Outside' (ID: 41365), Prob: 0.0000
+Token: ' otherwise' (ID: 5937), Prob: 0.0000
+Token: ' partially' (ID: 25244), Prob: 0.0000
+Token: ' upon' (ID: 5193), Prob: 0.0000
+Token: ' overnight' (ID: 24398), Prob: 0.0000
 
 == Ranked Concepts (Clusters) ==
-Rank 1 | Centroid: ' crying' | Score: 0.4238
-  Tokens: [' cry', ' tears', ' crying', ' tear', ' punch']
-Rank 2 | Centroid: ' emotions' | Score: 0.1133
-  Tokens: [' feeling', ' emotion', ' emotional', ' sensation', ' sense', ' feelings', ' emotions', ' sensory', ' sentiment']
-Rank 3 | Centroid: ' words' | Score: 0.1118
-  Tokens: [' word', ' phrase', ' sentence', ' words', ' keyword']
-Rank 4 | Centroid: ' concept' | Score: 0.0684
-  Tokens: [' idea', ' theme', ' concept', ' essence']
-Rank 5 | Centroid: ' action' | Score: 0.0615
-  Tokens: [' act', ' action', ' use', ' user']
-Rank 6 | Centroid: ' desire' | Score: 0.0304
-  Tokens: [' desire', ' need', ' requirement', ' intention', ' urge', ' aspiration', ' wish']
-Rank 7 | Centroid: ' declaration' | Score: 0.0261
-  Tokens: [' realization', ' repetition', ' decision', ' reflection', ' recognition', ' commitment', ' declaration', ' determination']
-Rank 8 | Centroid: ' consequence' | Score: 0.0140
-  Tokens: [' conclusion', ' result', ' outcome', ' implication', ' consequence']
-Rank 9 | Centroid: ' impact' | Score: 0.0118
-  Tokens: [' impact', ' effect']
-Rank 10 | Centroid: ' thought' | Score: 0.0108
-  Tokens: [' thought']
-Rank 11 | Centroid: ' ending' | Score: 0.0105
-  Tokens: [' final', ' end', ' last', ' ending', ' ultimate', ' closing']
-Rank 12 | Centroid: ' statement' | Score: 0.0100
-  Tokens: [' message', ' expression', ' statement', ' condition', ' command']
-Rank 13 | Centroid: ' mention' | Score: 0.0095
-  Tokens: [' mention', ' note', ' line']
-Rank 14 | Centroid: ' main' | Score: 0.0081
-  Tokens: [' main', ' key', ' fact', ' part', ' sign']
-Rank 15 | Centroid: ' request' | Score: 0.0070
-  Tokens: [' request', ' call']
-Rank 16 | Centroid: ' imagery' | Score: 0.0067
-  Tokens: [' imagery', ' metaphor']
-Rank 17 | Centroid: ' direct' | Score: 0.0064
-  Tokens: [' exact', ' specific', ' physical', ' strong', ' direct', ' clear', ' natural']
-Rank 18 | Centroid: ' image' | Score: 0.0044
-  Tokens: [' image', ' element']
-Rank 19 | Centroid: ' intense' | Score: 0.0031
-  Tokens: [' intensity', ' intense', ' gravity', ' vivid']
-Rank 20 | Centroid: ' experience' | Score: 0.0031
-  Tokens: [' experience']
-Rank 21 | Centroid: ' imperative' | Score: 0.0026
-  Tokens: [' imperative', ' emphasis']
-Rank 22 | Centroid: ' joy' | Score: 0.0018
-  Tokens: [' pain', ' joy', ' sad']
-Rank 23 | Centroid: ' lingering' | Score: 0.0018
-  Tokens: [' climax', ' inev', ' lingering']
-Rank 24 | Centroid: ' trigger' | Score: 0.0009
-  Tokens: [' trigger']
-Rank 25 | Centroid: ' plea' | Score: 0.0007
-  Tokens: [' plea']
-Rank 26 | Centroid: ' satisfaction' | Score: 0.0007
-  Tokens: [' satisfaction']
-Rank 27 | Centroid: ' moment' | Score: 0.0004
-  Tokens: [' moment']
-Rank 28 | Centroid: ' memory' | Score: 0.0004
-  Tokens: [' memory']
+Rank 1 | Centroid: ' Outside' | Score: 0.6445
+  Tokens: [' outside', 'outside', ' Outside', 'Outside']
+Rank 2 | Centroid: ' somewhere' | Score: 0.0023
+  Tokens: [' elsewhere', ' somewhere', ' anywhere']
+Rank 3 | Centroid: ' outdoors' | Score: 0.0010
+  Tokens: [' outdoors', ' outdoor', ' indoors', ' overnight']
+Rank 4 | Centroid: ' apart' | Score: 0.0005
+  Tokens: [' away', ' apart', ' aside']
+Rank 5 | Centroid: ' within' | Score: 0.0003
+  Tokens: [' within', ' inside', ' without']
+Rank 6 | Centroid: ' near' | Score: 0.0002
+  Tokens: [' near', ' far', ' close']
+Rank 7 | Centroid: ' beside' | Score: 0.0001
+  Tokens: [' beyond', ' beside', ' behind', ' upon']
+Rank 8 | Centroid: ' three' | Score: 0.0001
+  Tokens: [' one', ' two', ' set', ' three', ' six']
+Rank 9 | Centroid: ' across' | Score: 0.0001
+  Tokens: [' around', ' across', ' throughout']
+Rank 10 | Centroid: ' another' | Score: 0.0001
+  Tokens: [' another', ' something', ' otherwise']
+Rank 11 | Centroid: ' completely' | Score: 0.0001
+  Tokens: [' entirely', ' immediately', ' specifically', ' directly', ' completely', ' naturally', ' exactly', ' partially']
+Rank 12 | Centroid: ' separately' | Score: 0.0001
+  Tokens: [' separately', ' differently', ' different', ' separate', ' independently']
+Rank 13 | Centroid: ' external' | Score: 0.0001
+  Tokens: [' exterior', ' external', ' externally', ' outward']
+Rank 14 | Centroid: ' abroad' | Score: 0.0000
+  Tokens: [' abroad', ' overseas']
+Rank 15 | Centroid: ' either' | Score: 0.0000
+  Tokens: [' either']
+Rank 16 | Centroid: ' next' | Score: 0.0000
+  Tokens: [' next', ' opposite']
+Rank 17 | Centroid: ' nearby' | Score: 0.0000
+  Tokens: [' nearby', ' surrounding']
 
 **Chosen Concept:** Rank 1

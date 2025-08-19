@@ -1,95 +1,135 @@
 --- Step 38 Log ---
 
 == Filtered Candidates ==
-Token: ' points' (ID: 3501), Prob: 0.0179
-Token: ' Points' (ID: 20725), Prob: 0.0085
-Token: ' Point' (ID: 5126), Prob: 0.0011
-Token: ' Explanation' (ID: 71287), Prob: 0.0004
-Token: ' Type' (ID: 3990), Prob: 0.0003
-Token: ' Details' (ID: 12309), Prob: 0.0003
-Token: ' point' (ID: 1459), Prob: 0.0003
-Token: ' Sheet' (ID: 27741), Prob: 0.0003
-Token: ' either' (ID: 2987), Prob: 0.0002
-Token: ' Check' (ID: 4248), Prob: 0.0002
-Token: ' Description' (ID: 7662), Prob: 0.0002
-Token: ' details' (ID: 3565), Prob: 0.0002
-Token: ' type' (ID: 943), Prob: 0.0001
-Token: ' According' (ID: 10548), Prob: 0.0001
-Token: ' according' (ID: 4092), Prob: 0.0001
-Token: ' whether' (ID: 3425), Prob: 0.0001
-Token: ' description' (ID: 4008), Prob: 0.0000
-Token: ' correct' (ID: 4396), Prob: 0.0000
-Token: ' Line' (ID: 7083), Prob: 0.0000
-Token: ' Bank' (ID: 8547), Prob: 0.0000
-Token: ' Correct' (ID: 39970), Prob: 0.0000
-Token: ' sheet' (ID: 10834), Prob: 0.0000
-Token: ' form' (ID: 1352), Prob: 0.0000
-Token: ' explanation' (ID: 16148), Prob: 0.0000
-Token: ' Either' (ID: 20988), Prob: 0.0000
-Token: ' contains' (ID: 5610), Prob: 0.0000
-Token: ' Constraints' (ID: 87473), Prob: 0.0000
-Token: ' must' (ID: 1969), Prob: 0.0000
-Token: ' Code' (ID: 6119), Prob: 0.0000
-Token: ' Summary' (ID: 21517), Prob: 0.0000
-Token: ' Answer' (ID: 21806), Prob: 0.0000
-Token: ' check' (ID: 1779), Prob: 0.0000
-Token: ' Review' (ID: 10294), Prob: 0.0000
-Token: ' Button' (ID: 6601), Prob: 0.0000
-Token: ' checks' (ID: 12341), Prob: 0.0000
-Token: ' Rules' (ID: 22847), Prob: 0.0000
-Token: ' Verified' (ID: 63169), Prob: 0.0000
-Token: ' List' (ID: 1759), Prob: 0.0000
-Token: ' format' (ID: 3561), Prob: 0.0000
-Token: ' Analysis' (ID: 18320), Prob: 0.0000
-Token: ' Yes' (ID: 7414), Prob: 0.0000
-Token: ' Style' (ID: 11913), Prob: 0.0000
-Token: ' Maker' (ID: 40528), Prob: 0.0000
-Token: ' based' (ID: 3118), Prob: 0.0000
-Token: ' Key' (ID: 5309), Prob: 0.0000
-Token: ' credits' (ID: 20141), Prob: 0.0000
-Token: ' style' (ID: 1707), Prob: 0.0000
-Token: ' via' (ID: 4566), Prob: 0.0000
-Token: ' Search' (ID: 7542), Prob: 0.0000
-Token: ' refers' (ID: 19257), Prob: 0.0000
-Token: ' Sentence' (ID: 79542), Prob: 0.0000
-Token: ' key' (ID: 1376), Prob: 0.0000
+Token: ' think' (ID: 1744), Prob: 0.5742
+Token: ' read' (ID: 1349), Prob: 0.2715
+Token: ' check' (ID: 1779), Prob: 0.0471
+Token: ' see' (ID: 1490), Prob: 0.0325
+Token: ' look' (ID: 1401), Prob: 0.0222
+Token: ' start' (ID: 1191), Prob: 0.0082
+Token: ' take' (ID: 1896), Prob: 0.0050
+Token: ' brainstorm' (ID: 86781), Prob: 0.0044
+Token: ' break' (ID: 1438), Prob: 0.0028
+Token: ' make' (ID: 1281), Prob: 0.0022
+Token: ' focus' (ID: 5244), Prob: 0.0022
+Token: ' parse' (ID: 4715), Prob: 0.0016
+Token: ' try' (ID: 1430), Prob: 0.0015
+Token: ' analyze' (ID: 23643), Prob: 0.0013
+Token: ' listen' (ID: 8844), Prob: 0.0010
+Token: ' pick' (ID: 3735), Prob: 0.0008
+Token: ' review' (ID: 3395), Prob: 0.0006
+Token: ' scan' (ID: 8569), Prob: 0.0004
+Token: ' watch' (ID: 3736), Prob: 0.0004
+Token: ' get' (ID: 633), Prob: 0.0003
+Token: ' carefully' (ID: 15516), Prob: 0.0002
+Token: ' examine' (ID: 20961), Prob: 0.0002
+Token: ' consider' (ID: 2908), Prob: 0.0002
+Token: ' imagine' (ID: 12793), Prob: 0.0002
+Token: ' find' (ID: 1477), Prob: 0.0002
+Token: ' open' (ID: 1787), Prob: 0.0002
+Token: '-read' (ID: 28806), Prob: 0.0002
+Token: ' extract' (ID: 8649), Prob: 0.0001
+Token: ' sketch' (ID: 25529), Prob: 0.0001
+Token: ' pull' (ID: 6815), Prob: 0.0001
+Token: ' recall' (ID: 19091), Prob: 0.0001
+Token: ' skim' (ID: 78569), Prob: 0.0001
+Token: ' jot' (ID: 92380), Prob: 0.0001
+Token: ' process' (ID: 1882), Prob: 0.0001
+Token: ' observe' (ID: 22986), Prob: 0.0001
+Token: ' begin' (ID: 3161), Prob: 0.0001
+Token: '.read' (ID: 4125), Prob: 0.0001
+Token: ' put' (ID: 2182), Prob: 0.0001
+Token: ' visualize' (ID: 50087), Prob: 0.0001
+Token: ' provide' (ID: 3410), Prob: 0.0001
+Token: ' reading' (ID: 5290), Prob: 0.0001
+Token: '_read' (ID: 6443), Prob: 0.0001
+Token: ' first' (ID: 1156), Prob: 0.0001
+Token: ' choose' (ID: 5157), Prob: 0.0001
+Token: ' rethink' (ID: 75655), Prob: 0.0001
+Token: ' cut' (ID: 3931), Prob: 0.0001
+Token: ' thinks' (ID: 15482), Prob: 0.0001
+Token: ' ask' (ID: 2548), Prob: 0.0001
+Token: ' list' (ID: 1140), Prob: 0.0001
+Token: ' split' (ID: 6718), Prob: 0.0001
+Token: ' thinking' (ID: 7274), Prob: 0.0001
+Token: ' say' (ID: 1977), Prob: 0.0001
+Token: ' pay' (ID: 2291), Prob: 0.0001
+Token: ' stick' (ID: 9214), Prob: 0.0001
+Token: ' talk' (ID: 3061), Prob: 0.0001
+Token: ' write' (ID: 3270), Prob: 0.0001
+Token: ' outline' (ID: 21101), Prob: 0.0001
+Token: 'think' (ID: 26865), Prob: 0.0001
+Token: ' study' (ID: 3920), Prob: 0.0000
+Token: ' note' (ID: 5185), Prob: 0.0000
+Token: ' approach' (ID: 5486), Prob: 0.0000
+Token: ' gather' (ID: 9567), Prob: 0.0000
+Token: ' grab' (ID: 11633), Prob: 0.0000
+Token: ' sniff' (ID: 57287), Prob: 0.0000
+Token: ' spend' (ID: 8329), Prob: 0.0000
+Token: ' pause' (ID: 18087), Prob: 0.0000
+Token: ' paraph' (ID: 62230), Prob: 0.0000
+Token: ' use' (ID: 990), Prob: 0.0000
+Token: ' know' (ID: 1414), Prob: 0.0000
+Token: ' dig' (ID: 4078), Prob: 0.0000
+Token: ' proceed' (ID: 10354), Prob: 0.0000
+Token: ' Think' (ID: 21149), Prob: 0.0000
+Token: '_break' (ID: 39494), Prob: 0.0000
+Token: ' soak' (ID: 60692), Prob: 0.0000
 
 == Ranked Concepts (Clusters) ==
-Rank 1 | Centroid: ' points' | Score: 0.0278
-  Tokens: [' points', ' Points', ' Point', ' point']
-Rank 2 | Centroid: ' Description' | Score: 0.0007
-  Tokens: [' Explanation', ' Description', ' description', ' explanation', ' Summary', ' Review', ' Analysis']
-Rank 3 | Centroid: ' Details' | Score: 0.0005
-  Tokens: [' Details', ' details', ' contains']
-Rank 4 | Centroid: ' Type' | Score: 0.0004
-  Tokens: [' Type', ' type']
-Rank 5 | Centroid: ' Sheet' | Score: 0.0003
-  Tokens: [' Sheet', ' sheet']
-Rank 6 | Centroid: ' either' | Score: 0.0003
-  Tokens: [' either', ' whether', ' Either']
-Rank 7 | Centroid: ' check' | Score: 0.0002
-  Tokens: [' Check', ' check', ' checks']
-Rank 8 | Centroid: ' according' | Score: 0.0002
-  Tokens: [' According', ' according', ' based', ' refers']
-Rank 9 | Centroid: ' Button' | Score: 0.0001
-  Tokens: [' Line', ' Bank', ' Button', ' List']
-Rank 10 | Centroid: ' Correct' | Score: 0.0001
-  Tokens: [' correct', ' Correct', ' Yes']
-Rank 11 | Centroid: ' Constraints' | Score: 0.0001
-  Tokens: [' Constraints', ' Code', ' Rules', ' Maker', ' Sentence']
-Rank 12 | Centroid: ' style' | Score: 0.0001
-  Tokens: [' form', ' format', ' Style', ' style']
-Rank 13 | Centroid: ' must' | Score: 0.0000
-  Tokens: [' must', ' via']
-Rank 14 | Centroid: ' Key' | Score: 0.0000
-  Tokens: [' Key', ' key']
-Rank 15 | Centroid: ' Answer' | Score: 0.0000
-  Tokens: [' Answer']
-Rank 16 | Centroid: ' Verified' | Score: 0.0000
-  Tokens: [' Verified']
-Rank 17 | Centroid: ' credits' | Score: 0.0000
-  Tokens: [' credits']
-Rank 18 | Centroid: ' Search' | Score: 0.0000
-  Tokens: [' Search']
+Rank 1 | Centroid: ' think' | Score: 0.5742
+  Tokens: [' think', ' thinks', ' thinking', 'think', ' Think']
+Rank 2 | Centroid: '_read' | Score: 0.2715
+  Tokens: [' read', '-read', '.read', ' reading', '_read', ' write']
+Rank 3 | Centroid: ' check' | Score: 0.0698
+  Tokens: [' check', ' look', ' watch']
+Rank 4 | Centroid: ' ask' | Score: 0.0327
+  Tokens: [' see', ' ask', ' say', ' know']
+Rank 5 | Centroid: ' start' | Score: 0.0083
+  Tokens: [' start', ' begin']
+Rank 6 | Centroid: ' make' | Score: 0.0078
+  Tokens: [' take', ' make', ' get', ' find', ' provide', ' choose']
+Rank 7 | Centroid: ' brainstorm' | Score: 0.0045
+  Tokens: [' brainstorm', ' rethink']
+Rank 8 | Centroid: ' review' | Score: 0.0029
+  Tokens: [' focus', ' review', ' study']
+Rank 9 | Centroid: ' break' | Score: 0.0029
+  Tokens: [' break', '_break']
+Rank 10 | Centroid: ' parse' | Score: 0.0018
+  Tokens: [' parse', ' extract']
+Rank 11 | Centroid: ' examine' | Score: 0.0017
+  Tokens: [' analyze', ' examine', ' observe']
+Rank 12 | Centroid: ' try' | Score: 0.0016
+  Tokens: [' try', ' pay']
+Rank 13 | Centroid: ' grab' | Score: 0.0010
+  Tokens: [' pick', ' pull', ' grab', ' dig']
+Rank 14 | Centroid: ' listen' | Score: 0.0010
+  Tokens: [' listen']
+Rank 15 | Centroid: ' imagine' | Score: 0.0005
+  Tokens: [' consider', ' imagine', ' visualize']
+Rank 16 | Centroid: ' scan' | Score: 0.0004
+  Tokens: [' scan']
+Rank 17 | Centroid: ' approach' | Score: 0.0004
+  Tokens: [' carefully', ' process', ' approach']
+Rank 18 | Centroid: ' outline' | Score: 0.0004
+  Tokens: [' sketch', ' recall', ' outline', ' note']
+Rank 19 | Centroid: ' first' | Score: 0.0003
+  Tokens: [' open', ' first', ' list']
+Rank 20 | Centroid: ' soak' | Score: 0.0003
+  Tokens: [' skim', ' jot', ' sniff', ' soak']
+Rank 21 | Centroid: ' cut' | Score: 0.0002
+  Tokens: [' put', ' cut', ' split']
+Rank 22 | Centroid: ' stick' | Score: 0.0001
+  Tokens: [' stick', ' talk']
+Rank 23 | Centroid: ' spend' | Score: 0.0001
+  Tokens: [' spend', ' proceed']
+Rank 24 | Centroid: ' gather' | Score: 0.0000
+  Tokens: [' gather']
+Rank 25 | Centroid: ' paraph' | Score: 0.0000
+  Tokens: [' paraph']
+Rank 26 | Centroid: ' pause' | Score: 0.0000
+  Tokens: [' pause']
+Rank 27 | Centroid: ' use' | Score: 0.0000
+  Tokens: [' use']
 
 **Chosen Concept:** Rank 1

@@ -1,84 +1,123 @@
 --- Step 62 Log ---
 
 == Filtered Candidates ==
-Token: ' something' (ID: 2494), Prob: 0.9570
-Token: ' etc' (ID: 4992), Prob: 0.0199
-Token: ' yes' (ID: 9834), Prob: 0.0034
-Token: ' anything' (ID: 4113), Prob: 0.0004
-Token: ' maybe' (ID: 7196), Prob: 0.0002
-Token: ' sometimes' (ID: 7025), Prob: 0.0001
-Token: ' even' (ID: 1496), Prob: 0.0001
-Token: ' nothing' (ID: 4302), Prob: 0.0001
-Token: ' someone' (ID: 4325), Prob: 0.0001
-Token: ' somewhere' (ID: 14696), Prob: 0.0001
-Token: ' whatever' (ID: 8820), Prob: 0.0000
-Token: ' except' (ID: 3650), Prob: 0.0000
-Token: ' Something' (ID: 24656), Prob: 0.0000
-Token: ' option' (ID: 2999), Prob: 0.0000
-Token: ' similar' (ID: 4428), Prob: 0.0000
-Token: ' depending' (ID: 11649), Prob: 0.0000
-Token: ' another' (ID: 2441), Prob: 0.0000
-Token: ' also' (ID: 1083), Prob: 0.0000
-Token: ' based' (ID: 3118), Prob: 0.0000
+Token: ' grammar' (ID: 31428), Prob: 0.0232
+Token: ' flow' (ID: 6396), Prob: 0.0040
+Token: ' word' (ID: 3409), Prob: 0.0017
+Token: ' punctuation' (ID: 61503), Prob: 0.0006
+Token: ' sentence' (ID: 11652), Prob: 0.0003
+Token: ' tone' (ID: 16232), Prob: 0.0001
+Token: ' words' (ID: 4244), Prob: 0.0001
+Token: ' paragraph' (ID: 14311), Prob: 0.0001
+Token: ' structure' (ID: 5944), Prob: 0.0000
+Token: ' syll' (ID: 47604), Prob: 0.0000
+Token: ' keywords' (ID: 20844), Prob: 0.0000
+Token: ' flows' (ID: 27455), Prob: 0.0000
+Token: ' rhythm' (ID: 36290), Prob: 0.0000
+Token: ' synonyms' (ID: 85406), Prob: 0.0000
+Token: ' gramm' (ID: 68125), Prob: 0.0000
+Token: ' syntax' (ID: 19482), Prob: 0.0000
+Token: ' numbers' (ID: 5109), Prob: 0.0000
+Token: ' sentences' (ID: 22870), Prob: 0.0000
+Token: ' readability' (ID: 91494), Prob: 0.0000
+Token: ' vocabulary' (ID: 34918), Prob: 0.0000
+Token: ' commas' (ID: 76602), Prob: 0.0000
+Token: ' dependencies' (ID: 19543), Prob: 0.0000
+Token: ' length' (ID: 3084), Prob: 0.0000
+Token: ' emotions' (ID: 21261), Prob: 0.0000
+Token: ' timing' (ID: 18405), Prob: 0.0000
+Token: ' verbs' (ID: 61846), Prob: 0.0000
+Token: ' parts' (ID: 5479), Prob: 0.0000
+Token: ' paragraphs' (ID: 42643), Prob: 0.0000
 Token: ' everything' (ID: 4297), Prob: 0.0000
-Token: ' one' (ID: 825), Prob: 0.0000
-Token: ' since' (ID: 2474), Prob: 0.0000
-Token: ' possibly' (ID: 10767), Prob: 0.0000
-Token: ' thing' (ID: 3166), Prob: 0.0000
-Token: ' plus' (ID: 5519), Prob: 0.0000
-Token: ' YES' (ID: 14080), Prob: 0.0000
-Token: ' two' (ID: 1378), Prob: 0.0000
-Token: ' answer' (ID: 4226), Prob: 0.0000
-Token: ' possible' (ID: 3204), Prob: 0.0000
-Token: ' okay' (ID: 16910), Prob: 0.0000
-Token: ' three' (ID: 2326), Prob: 0.0000
-Token: ' things' (ID: 2513), Prob: 0.0000
-Token: ' certain' (ID: 3654), Prob: 0.0000
-Token: ' however' (ID: 4764), Prob: 0.0000
-Token: ' specific' (ID: 3151), Prob: 0.0000
-Token: ' options' (ID: 2606), Prob: 0.0000
-Token: ' perhaps' (ID: 8365), Prob: 0.0000
-Token: ' som' (ID: 1757), Prob: 0.0000
+Token: ' proper' (ID: 6169), Prob: 0.0000
+Token: ' spelling' (ID: 42429), Prob: 0.0000
+Token: ' verb' (ID: 18607), Prob: 0.0000
+Token: ' simplicity' (ID: 38975), Prob: 0.0000
+Token: ' repetition' (ID: 53415), Prob: 0.0000
+Token: ' emojis' (ID: 99066), Prob: 0.0000
+Token: ' tense' (ID: 42687), Prob: 0.0000
+Token: ' coherence' (ID: 77825), Prob: 0.0000
+Token: ' character' (ID: 3668), Prob: 0.0000
+Token: ' alignment' (ID: 17189), Prob: 0.0000
+Token: ' characters' (ID: 5766), Prob: 0.0000
+Token: ' clarity' (ID: 31273), Prob: 0.0000
+Token: ' key' (ID: 1376), Prob: 0.0000
+Token: ' bullet' (ID: 17432), Prob: 0.0000
+Token: ' emoji' (ID: 42365), Prob: 0.0000
+Token: ' without' (ID: 2041), Prob: 0.0000
+Token: ' balance' (ID: 8172), Prob: 0.0000
+Token: ' language' (ID: 4128), Prob: 0.0000
 Token: ' example' (ID: 3110), Prob: 0.0000
-Token: ' unless' (ID: 7241), Prob: 0.0000
-Token: ' sorry' (ID: 14589), Prob: 0.0000
-Token: ' otherwise' (ID: 5937), Prob: 0.0000
-Token: 'something' (ID: 33331), Prob: 0.0000
-Token: ' enough' (ID: 3322), Prob: 0.0000
-Token: ' like' (ID: 1075), Prob: 0.0000
+Token: ' names' (ID: 5036), Prob: 0.0000
+Token: ' accuracy' (ID: 13403), Prob: 0.0000
+Token: ' hashtags' (ID: 81861), Prob: 0.0000
+Token: ' count' (ID: 1760), Prob: 0.0000
+Token: ' original' (ID: 4024), Prob: 0.0000
+Token: ' counts' (ID: 14579), Prob: 0.0000
+Token: ' synonym' (ID: 73350), Prob: 0.0000
+Token: ' time' (ID: 882), Prob: 0.0000
+Token: ' subject' (ID: 3832), Prob: 0.0000
+Token: ' topic' (ID: 8544), Prob: 0.0000
+Token: ' abbreviation' (ID: 71478), Prob: 0.0000
+Token: ' bold' (ID: 13939), Prob: 0.0000
+Token: ' keyword' (ID: 16174), Prob: 0.0000
+Token: ' transitions' (ID: 33592), Prob: 0.0000
+Token: ' pronunciation' (ID: 70622), Prob: 0.0000
+Token: ' past' (ID: 3267), Prob: 0.0000
+Token: ' whether' (ID: 3425), Prob: 0.0000
+Token: ' contr' (ID: 6027), Prob: 0.0000
+Token: ' line' (ID: 1555), Prob: 0.0000
+Token: ' total' (ID: 2790), Prob: 0.0000
+Token: ' technical' (ID: 10916), Prob: 0.0000
+Token: ' emotional' (ID: 14269), Prob: 0.0000
+Token: ' lengths' (ID: 28316), Prob: 0.0000
+Token: ' phrases' (ID: 31747), Prob: 0.0000
+Token: ' proportions' (ID: 48792), Prob: 0.0000
+Token: ' redundancy' (ID: 89373), Prob: 0.0000
 
 == Ranked Concepts (Clusters) ==
-Rank 1 | Centroid: ' something' | Score: 0.9570
-  Tokens: [' something', ' someone', ' somewhere', ' Something', 'something']
-Rank 2 | Centroid: ' certain' | Score: 0.0199
-  Tokens: [' etc', ' certain', ' specific']
-Rank 3 | Centroid: ' yes' | Score: 0.0035
-  Tokens: [' yes', ' YES', ' okay', ' sorry']
-Rank 4 | Centroid: ' things' | Score: 0.0006
-  Tokens: [' anything', ' nothing', ' whatever', ' everything', ' thing', ' things']
-Rank 5 | Centroid: ' perhaps' | Score: 0.0003
-  Tokens: [' maybe', ' sometimes', ' possibly', ' possible', ' perhaps']
-Rank 6 | Centroid: ' even' | Score: 0.0001
-  Tokens: [' even', ' also']
-Rank 7 | Centroid: ' except' | Score: 0.0001
-  Tokens: [' except', ' since', ' plus', ' unless']
-Rank 8 | Centroid: ' option' | Score: 0.0000
-  Tokens: [' option', ' answer', ' options']
-Rank 9 | Centroid: ' depending' | Score: 0.0000
-  Tokens: [' depending', ' based']
-Rank 10 | Centroid: ' two' | Score: 0.0000
-  Tokens: [' one', ' two', ' three']
-Rank 11 | Centroid: ' similar' | Score: 0.0000
-  Tokens: [' similar', ' like']
-Rank 12 | Centroid: ' another' | Score: 0.0000
-  Tokens: [' another']
-Rank 13 | Centroid: ' however' | Score: 0.0000
-  Tokens: [' however', ' otherwise']
-Rank 14 | Centroid: ' som' | Score: 0.0000
-  Tokens: [' som']
-Rank 15 | Centroid: ' example' | Score: 0.0000
-  Tokens: [' example']
-Rank 16 | Centroid: ' enough' | Score: 0.0000
-  Tokens: [' enough']
+Rank 1 | Centroid: ' grammar' | Score: 0.0232
+  Tokens: [' grammar', ' gramm', ' syntax', ' vocabulary', ' verbs', ' spelling', ' verb', ' language', ' pronunciation']
+Rank 2 | Centroid: ' flow' | Score: 0.0041
+  Tokens: [' flow', ' flows']
+Rank 3 | Centroid: ' keywords' | Score: 0.0018
+  Tokens: [' word', ' words', ' keywords', ' keyword']
+Rank 4 | Centroid: ' punctuation' | Score: 0.0006
+  Tokens: [' punctuation', ' commas']
+Rank 5 | Centroid: ' sentences' | Score: 0.0004
+  Tokens: [' sentence', ' paragraph', ' sentences', ' paragraphs', ' phrases']
+Rank 6 | Centroid: ' tone' | Score: 0.0001
+  Tokens: [' tone', ' rhythm']
+Rank 7 | Centroid: ' synonyms' | Score: 0.0000
+  Tokens: [' syll', ' synonyms', ' synonym', ' abbreviation']
+Rank 8 | Centroid: ' timing' | Score: 0.0000
+  Tokens: [' structure', ' timing', ' balance', ' time']
+Rank 9 | Centroid: ' clarity' | Score: 0.0000
+  Tokens: [' readability', ' simplicity', ' repetition', ' coherence', ' alignment', ' clarity', ' accuracy', ' redundancy']
+Rank 10 | Centroid: ' numbers' | Score: 0.0000
+  Tokens: [' numbers', ' names']
+Rank 11 | Centroid: ' bold' | Score: 0.0000
+  Tokens: [' key', ' without', ' example', ' original', ' bold', ' past', ' contr', ' line', ' total']
+Rank 12 | Centroid: ' emojis' | Score: 0.0000
+  Tokens: [' emotions', ' emojis', ' emoji', ' hashtags', ' emotional']
+Rank 13 | Centroid: ' lengths' | Score: 0.0000
+  Tokens: [' length', ' lengths', ' proportions']
+Rank 14 | Centroid: ' dependencies' | Score: 0.0000
+  Tokens: [' dependencies', ' transitions']
+Rank 15 | Centroid: ' technical' | Score: 0.0000
+  Tokens: [' proper', ' whether', ' technical']
+Rank 16 | Centroid: ' topic' | Score: 0.0000
+  Tokens: [' tense', ' subject', ' topic']
+Rank 17 | Centroid: ' character' | Score: 0.0000
+  Tokens: [' character', ' characters']
+Rank 18 | Centroid: ' parts' | Score: 0.0000
+  Tokens: [' parts']
+Rank 19 | Centroid: ' everything' | Score: 0.0000
+  Tokens: [' everything']
+Rank 20 | Centroid: ' count' | Score: 0.0000
+  Tokens: [' count', ' counts']
+Rank 21 | Centroid: ' bullet' | Score: 0.0000
+  Tokens: [' bullet']
 
 **Chosen Concept:** Rank 1

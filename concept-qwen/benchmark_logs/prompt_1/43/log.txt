@@ -1,91 +1,156 @@
 --- Step 43 Log ---
 
 == Filtered Candidates ==
-Token: ' like' (ID: 1075), Prob: 0.7031
-Token: ' without' (ID: 2041), Prob: 0.0146
-Token: ' related' (ID: 5435), Prob: 0.0024
-Token: ' tied' (ID: 17339), Prob: 0.0013
-Token: ' associated' (ID: 5815), Prob: 0.0009
-Token: ' connected' (ID: 8433), Prob: 0.0006
-Token: ' linked' (ID: 10592), Prob: 0.0006
-Token: ' words' (ID: 4244), Prob: 0.0005
-Token: ' involved' (ID: 6398), Prob: 0.0004
-Token: ' felt' (ID: 6476), Prob: 0.0004
-Token: ' beyond' (ID: 7797), Prob: 0.0004
-Token: ' common' (ID: 4185), Prob: 0.0002
-Token: ' triggered' (ID: 22119), Prob: 0.0002
-Token: ' inside' (ID: 4766), Prob: 0.0002
-Token: ' throughout' (ID: 6814), Prob: 0.0001
-Token: ' rather' (ID: 4751), Prob: 0.0001
-Token: ' affecting' (ID: 27887), Prob: 0.0001
-Token: '—the' (ID: 21677), Prob: 0.0001
-Token: ' clearly' (ID: 9355), Prob: 0.0001
-Token: ' within' (ID: 2878), Prob: 0.0001
-Token: ' deeply' (ID: 17247), Prob: 0.0001
-Token: ' intertwined' (ID: 98792), Prob: 0.0001
-Token: ' naturally' (ID: 17712), Prob: 0.0001
-Token: '—they' (ID: 70101), Prob: 0.0000
-Token: ' commonly' (ID: 16626), Prob: 0.0000
-Token: ' compared' (ID: 7707), Prob: 0.0000
-Token: ' briefly' (ID: 26753), Prob: 0.0000
-Token: '—you' (ID: 70380), Prob: 0.0000
-Token: ' causing' (ID: 14381), Prob: 0.0000
-Token: ' present' (ID: 3042), Prob: 0.0000
-Token: ' affected' (ID: 11495), Prob: 0.0000
-Token: ' often' (ID: 3545), Prob: 0.0000
-Token: ' experienced' (ID: 10321), Prob: 0.0000
-Token: ' along' (ID: 3156), Prob: 0.0000
-Token: ' trapped' (ID: 30591), Prob: 0.0000
-Token: ' rel' (ID: 1351), Prob: 0.0000
-Token: ' attached' (ID: 12392), Prob: 0.0000
-Token: ' alongside' (ID: 16263), Prob: 0.0000
-Token: ' mixed' (ID: 9519), Prob: 0.0000
-Token: ' tears' (ID: 23139), Prob: 0.0000
-Token: '—it' (ID: 43503), Prob: 0.0000
-Token: ' leading' (ID: 6388), Prob: 0.0000
-Token: ' easily' (ID: 6707), Prob: 0.0000
-Token: ' maybe' (ID: 7196), Prob: 0.0000
-Token: ' caused' (ID: 8881), Prob: 0.0000
-Token: ' first' (ID: 1156), Prob: 0.0000
-Token: ' perhaps' (ID: 8365), Prob: 0.0000
-Token: ' mentioned' (ID: 9733), Prob: 0.0000
-Token: ' expressed' (ID: 13302), Prob: 0.0000
-Token: ' paired' (ID: 34426), Prob: 0.0000
-Token: '—that' (ID: 40028), Prob: 0.0000
-Token: ' similar' (ID: 4428), Prob: 0.0000
+Token: ' name' (ID: 829), Prob: 0.2676
+Token: ' home' (ID: 2114), Prob: 0.2676
+Token: ' character' (ID: 3668), Prob: 0.0674
+Token: ' house' (ID: 3753), Prob: 0.0674
+Token: ' perspective' (ID: 13057), Prob: 0.0410
+Token: ' first' (ID: 1156), Prob: 0.0220
+Token: ' background' (ID: 4004), Prob: 0.0220
+Token: ' setting' (ID: 6243), Prob: 0.0142
+Token: ' personal' (ID: 4345), Prob: 0.0117
+Token: ' location' (ID: 3728), Prob: 0.0098
+Token: ' family' (ID: 2997), Prob: 0.0092
+Token: ' description' (ID: 4008), Prob: 0.0081
+Token: ' story' (ID: 3364), Prob: 0.0076
+Token: ' current' (ID: 1482), Prob: 0.0067
+Token: ' identity' (ID: 9569), Prob: 0.0063
+Token: ' voice' (ID: 7743), Prob: 0.0059
+Token: ' POV' (ID: 74521), Prob: 0.0056
+Token: ' thoughts' (ID: 11303), Prob: 0.0041
+Token: ' point' (ID: 1459), Prob: 0.0038
+Token: ' main' (ID: 1887), Prob: 0.0032
+Token: ' position' (ID: 2309), Prob: 0.0030
+Token: ' age' (ID: 4231), Prob: 0.0028
+Token: ' view' (ID: 1651), Prob: 0.0025
+Token: ' introduction' (ID: 16800), Prob: 0.0025
+Token: ' characters' (ID: 5766), Prob: 0.0023
+Token: ' hometown' (ID: 43016), Prob: 0.0023
+Token: ' personality' (ID: 17294), Prob: 0.0022
+Token: ' initial' (ID: 2856), Prob: 0.0018
+Token: ' room' (ID: 3054), Prob: 0.0018
+Token: ' experience' (ID: 3139), Prob: 0.0018
+Token: ' role' (ID: 3476), Prob: 0.0016
+Token: ' physical' (ID: 6961), Prob: 0.0016
+Token: ' apartment' (ID: 13154), Prob: 0.0016
+Token: ' arrival' (ID: 18647), Prob: 0.0016
+Token: ' life' (ID: 2272), Prob: 0.0015
+Token: ' address' (ID: 2621), Prob: 0.0015
+Token: ' environment' (ID: 4573), Prob: 0.0015
+Token: ' backstory' (ID: 92271), Prob: 0.0015
+Token: ' phone' (ID: 4540), Prob: 0.0014
+Token: ' internal' (ID: 5306), Prob: 0.0014
+Token: ' residence' (ID: 21682), Prob: 0.0014
+Token: ' title' (ID: 2265), Prob: 0.0013
+Token: ' mother' (ID: 6554), Prob: 0.0012
+Token: ' emotions' (ID: 21261), Prob: 0.0012
+Token: ' eyes' (ID: 6414), Prob: 0.0012
+Token: ' narrative' (ID: 19221), Prob: 0.0012
+Token: ' place' (ID: 1992), Prob: 0.0010
+Token: ' present' (ID: 3042), Prob: 0.0010
+Token: ' surroundings' (ID: 39090), Prob: 0.0010
+Token: ' feelings' (ID: 15650), Prob: 0.0010
+Token: ' objective' (ID: 16538), Prob: 0.0009
+Token: ' job' (ID: 2618), Prob: 0.0009
+Token: ' characteristics' (ID: 17452), Prob: 0.0009
+Token: ' viewpoint' (ID: 58385), Prob: 0.0009
+Token: ' hom' (ID: 4998), Prob: 0.0008
+Token: ' intention' (ID: 14602), Prob: 0.0008
+Token: ' starting' (ID: 5916), Prob: 0.0008
+Token: ' household' (ID: 13732), Prob: 0.0008
+Token: ' settings' (ID: 5003), Prob: 0.0007
+Token: ' opening' (ID: 8568), Prob: 0.0007
+Token: ' appearance' (ID: 11094), Prob: 0.0007
+Token: ' protagonist' (ID: 45584), Prob: 0.0007
+Token: ' full' (ID: 2480), Prob: 0.0007
+Token: ' actions' (ID: 6168), Prob: 0.0007
+Token: ' immediate' (ID: 13922), Prob: 0.0007
+Token: ' interior' (ID: 14791), Prob: 0.0007
+Token: ' last' (ID: 1537), Prob: 0.0006
+Token: ' scene' (ID: 6109), Prob: 0.0006
+Token: ' meeting' (ID: 6438), Prob: 0.0006
+Token: ' father' (ID: 6981), Prob: 0.0006
+Token: ' intro' (ID: 19706), Prob: 0.0006
+Token: ' perception' (ID: 20431), Prob: 0.0006
+Token: ' motivation' (ID: 24798), Prob: 0.0006
+Token: ' grandmother' (ID: 38184), Prob: 0.0006
+Token: ' surname' (ID: 39753), Prob: 0.0006
+Token: ' details' (ID: 3565), Prob: 0.0006
+Token: ' mind' (ID: 3971), Prob: 0.0006
+Token: ' inner' (ID: 9179), Prob: 0.0006
+Token: ' journey' (ID: 11618), Prob: 0.0006
+Token: ' reaction' (ID: 12720), Prob: 0.0006
+Token: ' emotional' (ID: 14269), Prob: 0.0005
+Token: ' tone' (ID: 16232), Prob: 0.0005
+Token: ' childhood' (ID: 19990), Prob: 0.0005
+Token: ' body' (ID: 2487), Prob: 0.0005
+Token: ' primary' (ID: 6028), Prob: 0.0005
+Token: ' town' (ID: 6290), Prob: 0.0005
+Token: ' favorite' (ID: 6930), Prob: 0.0005
+Token: ' clothing' (ID: 17438), Prob: 0.0005
+Token: ' reflection' (ID: 21844), Prob: 0.0005
+Token: ' statement' (ID: 5114), Prob: 0.0005
+Token: ' entrance' (ID: 19809), Prob: 0.0005
+Token: ' dialogue' (ID: 21276), Prob: 0.0005
+Token: ' child' (ID: 1682), Prob: 0.0005
+Token: ' parents' (ID: 6562), Prob: 0.0005
+Token: ' face' (ID: 3579), Prob: 0.0004
+Token: ' goal' (ID: 5795), Prob: 0.0004
+Token: ' situation' (ID: 6534), Prob: 0.0004
 
 == Ranked Concepts (Clusters) ==
-Rank 1 | Centroid: ' like' | Score: 0.7031
-  Tokens: [' like', ' similar']
-Rank 2 | Centroid: ' within' | Score: 0.0154
-  Tokens: [' without', ' beyond', ' inside', ' throughout', ' within', ' along', ' alongside']
-Rank 3 | Centroid: ' related' | Score: 0.0033
-  Tokens: [' related', ' associated']
-Rank 4 | Centroid: ' linked' | Score: 0.0026
-  Tokens: [' tied', ' connected', ' linked', ' intertwined', ' attached']
-Rank 5 | Centroid: ' words' | Score: 0.0005
-  Tokens: [' words', ' rel', ' first']
-Rank 6 | Centroid: ' experienced' | Score: 0.0005
-  Tokens: [' felt', ' compared', ' experienced', ' expressed']
-Rank 7 | Centroid: ' involved' | Score: 0.0004
-  Tokens: [' involved', ' mentioned']
-Rank 8 | Centroid: ' caused' | Score: 0.0004
-  Tokens: [' triggered', ' affecting', ' causing', ' affected', ' caused']
-Rank 9 | Centroid: ' commonly' | Score: 0.0003
-  Tokens: [' common', ' commonly', ' often']
-Rank 10 | Centroid: ' clearly' | Score: 0.0002
-  Tokens: [' clearly', ' deeply', ' naturally', ' briefly', ' easily']
-Rank 11 | Centroid: '—it' | Score: 0.0002
-  Tokens: ['—the', '—they', '—you', '—it', '—that']
-Rank 12 | Centroid: ' perhaps' | Score: 0.0002
-  Tokens: [' rather', ' maybe', ' perhaps']
-Rank 13 | Centroid: ' trapped' | Score: 0.0000
-  Tokens: [' trapped', ' tears']
-Rank 14 | Centroid: ' mixed' | Score: 0.0000
-  Tokens: [' mixed', ' paired']
-Rank 15 | Centroid: ' present' | Score: 0.0000
+Rank 1 | Centroid: ' household' | Score: 0.3418
+  Tokens: [' home', ' house', ' hometown', ' apartment', ' residence', ' hom', ' household', ' town']
+Rank 2 | Centroid: ' voice' | Score: 0.2812
+  Tokens: [' name', ' identity', ' voice', ' title', ' tone', ' face']
+Rank 3 | Centroid: ' characters' | Score: 0.0703
+  Tokens: [' character', ' characters', ' characteristics']
+Rank 4 | Centroid: ' viewpoint' | Score: 0.0498
+  Tokens: [' perspective', ' POV', ' view', ' viewpoint']
+Rank 5 | Centroid: ' main' | Score: 0.0337
+  Tokens: [' first', ' current', ' main', ' full', ' last', ' primary']
+Rank 6 | Centroid: ' description' | Score: 0.0305
+  Tokens: [' background', ' description', ' statement']
+Rank 7 | Centroid: ' settings' | Score: 0.0184
+  Tokens: [' setting', ' environment', ' surroundings', ' settings', ' scene', ' situation']
+Rank 8 | Centroid: ' location' | Score: 0.0176
+  Tokens: [' location', ' point', ' position', ' place']
+Rank 9 | Centroid: ' personal' | Score: 0.0133
+  Tokens: [' personal', ' physical']
+Rank 10 | Centroid: ' father' | Score: 0.0131
+  Tokens: [' family', ' mother', ' father', ' grandmother', ' childhood', ' child', ' parents']
+Rank 11 | Centroid: ' narrative' | Score: 0.0120
+  Tokens: [' story', ' backstory', ' narrative', ' protagonist', ' journey', ' dialogue']
+Rank 12 | Centroid: ' emotions' | Score: 0.0075
+  Tokens: [' thoughts', ' emotions', ' feelings', ' actions', ' emotional']
+Rank 13 | Centroid: ' introduction' | Score: 0.0059
+  Tokens: [' introduction', ' arrival', ' appearance', ' intro', ' entrance']
+Rank 14 | Centroid: ' interior' | Score: 0.0051
+  Tokens: [' initial', ' internal', ' immediate', ' interior', ' inner']
+Rank 15 | Centroid: ' job' | Score: 0.0045
+  Tokens: [' role', ' life', ' job', ' body']
+Rank 16 | Centroid: ' age' | Score: 0.0043
+  Tokens: [' age', ' address']
+Rank 17 | Centroid: ' perception' | Score: 0.0035
+  Tokens: [' experience', ' perception', ' reaction', ' reflection']
+Rank 18 | Centroid: ' goal' | Score: 0.0027
+  Tokens: [' objective', ' intention', ' motivation', ' goal']
+Rank 19 | Centroid: ' personality' | Score: 0.0027
+  Tokens: [' personality', ' clothing']
+Rank 20 | Centroid: ' starting' | Score: 0.0021
+  Tokens: [' starting', ' opening', ' meeting']
+Rank 21 | Centroid: ' phone' | Score: 0.0020
+  Tokens: [' phone', ' surname']
+Rank 22 | Centroid: ' room' | Score: 0.0018
+  Tokens: [' room']
+Rank 23 | Centroid: ' eyes' | Score: 0.0017
+  Tokens: [' eyes', ' mind']
+Rank 24 | Centroid: ' present' | Score: 0.0010
   Tokens: [' present']
-Rank 16 | Centroid: ' leading' | Score: 0.0000
-  Tokens: [' leading']
+Rank 25 | Centroid: ' details' | Score: 0.0006
+  Tokens: [' details']
+Rank 26 | Centroid: ' favorite' | Score: 0.0005
+  Tokens: [' favorite']
 
 **Chosen Concept:** Rank 1

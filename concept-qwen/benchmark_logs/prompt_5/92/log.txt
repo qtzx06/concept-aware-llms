@@ -1,138 +1,151 @@
 --- Step 92 Log ---
 
 == Filtered Candidates ==
-Token: ' statement' (ID: 5114), Prob: 1.0000
-Token: ' sentence' (ID: 11652), Prob: 0.0000
-Token: ' answer' (ID: 4226), Prob: 0.0000
-Token: ' statements' (ID: 12239), Prob: 0.0000
-Token: ' Statement' (ID: 21756), Prob: 0.0000
-Token: ' final' (ID: 1590), Prob: 0.0000
+Token: ' vivid' (ID: 42020), Prob: 0.8906
+Token: ' engaging' (ID: 22570), Prob: 0.0442
+Token: ' rel' (ID: 1351), Prob: 0.0068
+Token: ' immersive' (ID: 64180), Prob: 0.0053
+Token: ' feel' (ID: 2666), Prob: 0.0028
+Token: ' lively' (ID: 48177), Prob: 0.0022
+Token: ' interesting' (ID: 7040), Prob: 0.0012
+Token: ' come' (ID: 2525), Prob: 0.0006
+Token: ' concrete' (ID: 14175), Prob: 0.0006
+Token: ' real' (ID: 1931), Prob: 0.0006
+Token: ' personal' (ID: 4345), Prob: 0.0006
+Token: ' realistic' (ID: 25489), Prob: 0.0006
+Token: ' tangible' (ID: 49301), Prob: 0.0004
+Token: ' rich' (ID: 9080), Prob: 0.0003
+Token: ' alive' (ID: 13675), Prob: 0.0003
+Token: ' specific' (ID: 3151), Prob: 0.0001
+Token: ' vibrant' (ID: 32976), Prob: 0.0001
+Token: ' authentic' (ID: 13210), Prob: 0.0001
+Token: ' exciting' (ID: 13245), Prob: 0.0001
+Token: ' warm' (ID: 8205), Prob: 0.0001
+Token: ' dynamic' (ID: 8741), Prob: 0.0001
+Token: ' better' (ID: 2664), Prob: 0.0001
+Token: ' fun' (ID: 2464), Prob: 0.0001
+Token: ' appealing' (ID: 32252), Prob: 0.0001
+Token: ' stand' (ID: 2498), Prob: 0.0000
+Token: ' memorable' (ID: 32496), Prob: 0.0000
+Token: ' special' (ID: 3281), Prob: 0.0000
+Token: ' catch' (ID: 2287), Prob: 0.0000
+Token: ' fresh' (ID: 7722), Prob: 0.0000
+Token: ' sensory' (ID: 47969), Prob: 0.0000
+Token: ' clear' (ID: 2797), Prob: 0.0000
+Token: ' happen' (ID: 3537), Prob: 0.0000
+Token: ' detailed' (ID: 11682), Prob: 0.0000
+Token: ' magical' (ID: 23702), Prob: 0.0000
+Token: ' intriguing' (ID: 40665), Prob: 0.0000
+Token: ' richer' (ID: 58674), Prob: 0.0000
+Token: ' believable' (ID: 91395), Prob: 0.0000
+Token: ' pop' (ID: 2420), Prob: 0.0000
+Token: ' flesh' (ID: 24955), Prob: 0.0000
+Token: ' life' (ID: 2272), Prob: 0.0000
+Token: ' grounded' (ID: 44345), Prob: 0.0000
+Token: ' captivating' (ID: 85182), Prob: 0.0000
+Token: ' poignant' (ID: 92347), Prob: 0.0000
+Token: ' visual' (ID: 9124), Prob: 0.0000
+Token: ' compelling' (ID: 28622), Prob: 0.0000
+Token: ' clearer' (ID: 48379), Prob: 0.0000
+Token: ' unique' (ID: 4911), Prob: 0.0000
+Token: ' engage' (ID: 16579), Prob: 0.0000
+Token: ' felt' (ID: 6476), Prob: 0.0000
+Token: ' live' (ID: 3887), Prob: 0.0000
+Token: ' descriptive' (ID: 52844), Prob: 0.0000
+Token: ' heartfelt' (ID: 83111), Prob: 0.0000
+Token: ' full' (ID: 2480), Prob: 0.0000
+Token: ' colorful' (ID: 33866), Prob: 0.0000
 Token: ' story' (ID: 3364), Prob: 0.0000
-Token: ' general' (ID: 4586), Prob: 0.0000
-Token: ' stated' (ID: 10982), Prob: 0.0000
-Token: 'statement' (ID: 24184), Prob: 0.0000
-Token: ' conclusion' (ID: 16688), Prob: 0.0000
-Token: ' following' (ID: 2701), Prob: 0.0000
-Token: ' situation' (ID: 6534), Prob: 0.0000
-Token: ' paragraph' (ID: 14311), Prob: 0.0000
-Token: ' subject' (ID: 3832), Prob: 0.0000
-Token: ' original' (ID: 4024), Prob: 0.0000
-Token: ' question' (ID: 3405), Prob: 0.0000
-Token: ' student' (ID: 5458), Prob: 0.0000
-Token: ' phrase' (ID: 17133), Prob: 0.0000
-Token: ' given' (ID: 2661), Prob: 0.0000
-Token: ' choice' (ID: 5754), Prob: 0.0000
-Token: ' correct' (ID: 4396), Prob: 0.0000
-Token: ' meaning' (ID: 7290), Prob: 0.0000
-Token: ' text' (ID: 1467), Prob: 0.0000
-Token: ' table' (ID: 1965), Prob: 0.0000
-Token: ' information' (ID: 1995), Prob: 0.0000
-Token: ' response' (ID: 2033), Prob: 0.0000
-Token: ' description' (ID: 4008), Prob: 0.0000
-Token: ' time' (ID: 882), Prob: 0.0000
-Token: ' summary' (ID: 12126), Prob: 0.0000
-Token: ' number' (ID: 1372), Prob: 0.0000
-Token: ' claim' (ID: 3717), Prob: 0.0000
-Token: ' truth' (ID: 8046), Prob: 0.0000
-Token: ' study' (ID: 3920), Prob: 0.0000
-Token: ' assistant' (ID: 17847), Prob: 0.0000
-Token: ' sentiment' (ID: 25975), Prob: 0.0000
-Token: ' two' (ID: 1378), Prob: 0.0000
-Token: ' message' (ID: 1943), Prob: 0.0000
-Token: ' stat' (ID: 2793), Prob: 0.0000
-Token: ' amount' (ID: 3311), Prob: 0.0000
-Token: '	statement' (ID: 89566), Prob: 0.0000
-Token: ' change' (ID: 2297), Prob: 0.0000
-Token: ' argument' (ID: 5693), Prob: 0.0000
-Token: ' suff' (ID: 8489), Prob: 0.0000
-Token: ' structure' (ID: 5944), Prob: 0.0000
-Token: ' solution' (ID: 6291), Prob: 0.0000
-Token: ' letter' (ID: 6524), Prob: 0.0000
-Token: ' moment' (ID: 4445), Prob: 0.0000
-Token: ' scene' (ID: 6109), Prob: 0.0000
-Token: ' second' (ID: 2086), Prob: 0.0000
-Token: ' expression' (ID: 7493), Prob: 0.0000
-Token: ' wording' (ID: 60227), Prob: 0.0000
-Token: ' string' (ID: 914), Prob: 0.0000
-Token: ' previous' (ID: 3681), Prob: 0.0000
-Token: ' user' (ID: 1196), Prob: 0.0000
-Token: ' reason' (ID: 2874), Prob: 0.0000
-Token: ' prompt' (ID: 9934), Prob: 0.0000
-Token: ' motion' (ID: 11379), Prob: 0.0000
-Token: ' state' (ID: 1584), Prob: 0.0000
-Token: ' rest' (ID: 2732), Prob: 0.0000
-Token: ' standard' (ID: 5297), Prob: 0.0000
-Token: ' theme' (ID: 6912), Prob: 0.0000
-Token: ' passage' (ID: 21085), Prob: 0.0000
-Token: ' suggestion' (ID: 23776), Prob: 0.0000
-Token: ' assertion' (ID: 27419), Prob: 0.0000
-Token: ' premise' (ID: 40202), Prob: 0.0000
-Token: ' one' (ID: 825), Prob: 0.0000
-Token: 'Statement' (ID: 8636), Prob: 0.0000
-Token: ' initial' (ID: 2856), Prob: 0.0000
-Token: ' assumption' (ID: 24335), Prob: 0.0000
-Token: ' best' (ID: 1850), Prob: 0.0000
-Token: ' entire' (ID: 4453), Prob: 0.0000
-Token: ' problem' (ID: 3491), Prob: 0.0000
-Token: ' topic' (ID: 8544), Prob: 0.0000
-Token: ' reasoning' (ID: 32711), Prob: 0.0000
-Token: ' comment' (ID: 3980), Prob: 0.0000
-Token: ' image' (ID: 2168), Prob: 0.0000
-Token: ' context' (ID: 2266), Prob: 0.0000
-Token: ' beginning' (ID: 7167), Prob: 0.0000
-Token: ' construction' (ID: 8086), Prob: 0.0000
-Token: ' blank' (ID: 10113), Prob: 0.0000
-Token: ' justification' (ID: 41435), Prob: 0.0000
-Token: ' system' (ID: 1849), Prob: 0.0000
+Token: ' cool' (ID: 7010), Prob: 0.0000
+Token: ' heart' (ID: 4746), Prob: 0.0000
+Token: ' attractive' (ID: 18879), Prob: 0.0000
+Token: ' impactful' (ID: 97890), Prob: 0.0000
+Token: ' cozy' (ID: 42435), Prob: 0.0000
+Token: ' immersion' (ID: 74557), Prob: 0.0000
+Token: ' flow' (ID: 6396), Prob: 0.0000
+Token: ' immer' (ID: 25531), Prob: 0.0000
+Token: ' interactive' (ID: 20753), Prob: 0.0000
+Token: ' complete' (ID: 4583), Prob: 0.0000
+Token: ' living' (ID: 5382), Prob: 0.0000
+Token: ' imm' (ID: 4893), Prob: 0.0000
+Token: ' emotional' (ID: 14269), Prob: 0.0000
+Token: ' stronger' (ID: 16245), Prob: 0.0000
+Token: ' shine' (ID: 32405), Prob: 0.0000
+Token: ' imaginative' (ID: 76261), Prob: 0.0000
+Token: ' sound' (ID: 5112), Prob: 0.0000
+Token: ' enticing' (ID: 87507), Prob: 0.0000
+Token: ' nice' (ID: 6419), Prob: 0.0000
+Token: ' palp' (ID: 74549), Prob: 0.0000
+Token: ' strong' (ID: 3746), Prob: 0.0000
+Token: ' breathe' (ID: 36297), Prob: 0.0000
+Token: ' meaningful' (ID: 22414), Prob: 0.0000
+Token: ' genuine' (ID: 22011), Prob: 0.0000
+Token: ' intimate' (ID: 31387), Prob: 0.0000
+Token: ' stick' (ID: 9214), Prob: 0.0000
+Token: ' familiar' (ID: 11285), Prob: 0.0000
+Token: ' deeper' (ID: 19117), Prob: 0.0000
+Token: ' pass' (ID: 1494), Prob: 0.0000
+Token: ' round' (ID: 4778), Prob: 0.0000
+Token: ' visceral' (ID: 88016), Prob: 0.0000
+Token: ' Eng' (ID: 3285), Prob: 0.0000
+Token: ' simple' (ID: 4285), Prob: 0.0000
+Token: ' appeal' (ID: 14303), Prob: 0.0000
+Token: ' enjoyable' (ID: 31080), Prob: 0.0000
+Token: ' tense' (ID: 42687), Prob: 0.0000
+Token: ' work' (ID: 975), Prob: 0.0000
 
 == Ranked Concepts (Clusters) ==
-Rank 1 | Centroid: ' statement' | Score: 1.0000
-  Tokens: [' statement', ' statements', ' Statement', ' stated', 'statement', '\tstatement', 'Statement']
-Rank 2 | Centroid: ' phrase' | Score: 0.0000
-  Tokens: [' sentence', ' paragraph', ' phrase', ' wording']
-Rank 3 | Centroid: ' answer' | Score: 0.0000
-  Tokens: [' answer', ' choice', ' response', ' solution']
-Rank 4 | Centroid: ' initial' | Score: 0.0000
-  Tokens: [' final', ' general', ' following', ' original', ' previous', ' standard', ' initial', ' beginning']
-Rank 5 | Centroid: ' assertion' | Score: 0.0000
-  Tokens: [' conclusion', ' claim', ' assistant', ' suggestion', ' assertion', ' premise', ' assumption']
-Rank 6 | Centroid: ' message' | Score: 0.0000
-  Tokens: [' story', ' message', ' image']
-Rank 7 | Centroid: ' study' | Score: 0.0000
-  Tokens: [' student', ' table', ' study']
-Rank 8 | Centroid: ' situation' | Score: 0.0000
-  Tokens: [' situation', ' scene']
-Rank 9 | Centroid: ' topic' | Score: 0.0000
-  Tokens: [' subject', ' theme', ' topic']
-Rank 10 | Centroid: ' correct' | Score: 0.0000
-  Tokens: [' given', ' correct', ' blank']
-Rank 11 | Centroid: ' motion' | Score: 0.0000
-  Tokens: [' truth', ' change', ' suff', ' motion', ' rest', ' best']
-Rank 12 | Centroid: ' question' | Score: 0.0000
-  Tokens: [' question', ' problem']
-Rank 13 | Centroid: ' information' | Score: 0.0000
-  Tokens: [' information', ' time']
-Rank 14 | Centroid: ' two' | Score: 0.0000
-  Tokens: [' two', ' second', ' user', ' one', ' entire']
-Rank 15 | Centroid: ' text' | Score: 0.0000
-  Tokens: [' text', ' letter', ' string']
-Rank 16 | Centroid: ' description' | Score: 0.0000
-  Tokens: [' description', ' expression']
-Rank 17 | Centroid: ' number' | Score: 0.0000
-  Tokens: [' number', ' amount']
-Rank 18 | Centroid: ' prompt' | Score: 0.0000
-  Tokens: [' sentiment', ' moment', ' prompt']
-Rank 19 | Centroid: ' reasoning' | Score: 0.0000
-  Tokens: [' argument', ' reason', ' reasoning', ' justification']
-Rank 20 | Centroid: ' summary' | Score: 0.0000
-  Tokens: [' summary', ' passage']
-Rank 21 | Centroid: ' meaning' | Score: 0.0000
-  Tokens: [' meaning']
-Rank 22 | Centroid: ' structure' | Score: 0.0000
-  Tokens: [' structure', ' context', ' construction', ' system']
-Rank 23 | Centroid: ' stat' | Score: 0.0000
-  Tokens: [' stat', ' state']
-Rank 24 | Centroid: ' comment' | Score: 0.0000
-  Tokens: [' comment']
+Rank 1 | Centroid: ' vibrant' | Score: 0.8945
+  Tokens: [' vivid', ' lively', ' vibrant', ' colorful', ' cozy']
+Rank 2 | Centroid: ' engaging' | Score: 0.0442
+  Tokens: [' engaging', ' engage', ' Eng']
+Rank 3 | Centroid: ' rel' | Score: 0.0074
+  Tokens: [' rel', ' real']
+Rank 4 | Centroid: ' immersion' | Score: 0.0053
+  Tokens: [' immersive', ' immersion', ' immer', ' imm']
+Rank 5 | Centroid: ' felt' | Score: 0.0029
+  Tokens: [' feel', ' sensory', ' felt', ' emotional']
+Rank 6 | Centroid: ' intriguing' | Score: 0.0014
+  Tokens: [' interesting', ' exciting', ' appealing', ' intriguing', ' captivating', ' compelling', ' attractive', ' enticing', ' appeal', ' enjoyable']
+Rank 7 | Centroid: ' concrete' | Score: 0.0011
+  Tokens: [' concrete', ' tangible']
+Rank 8 | Centroid: ' stick' | Score: 0.0008
+  Tokens: [' come', ' stand', ' catch', ' pop', ' flow', ' stick', ' pass', ' round', ' work']
+Rank 9 | Centroid: ' special' | Score: 0.0008
+  Tokens: [' personal', ' specific', ' special', ' unique']
+Rank 10 | Centroid: ' genuine' | Score: 0.0007
+  Tokens: [' realistic', ' authentic', ' believable', ' meaningful', ' genuine']
+Rank 11 | Centroid: ' stronger' | Score: 0.0004
+  Tokens: [' rich', ' better', ' richer', ' stronger', ' strong', ' deeper']
+Rank 12 | Centroid: ' live' | Score: 0.0004
+  Tokens: [' alive', ' fresh', ' life', ' live', ' living']
+Rank 13 | Centroid: ' poignant' | Score: 0.0001
+  Tokens: [' memorable', ' magical', ' poignant', ' descriptive', ' heartfelt', ' impactful', ' imaginative', ' intimate']
+Rank 14 | Centroid: ' dynamic' | Score: 0.0001
+  Tokens: [' dynamic', ' story']
+Rank 15 | Centroid: ' warm' | Score: 0.0001
+  Tokens: [' warm', ' cool']
+Rank 16 | Centroid: ' fun' | Score: 0.0001
+  Tokens: [' fun']
+Rank 17 | Centroid: ' complete' | Score: 0.0000
+  Tokens: [' detailed', ' full', ' complete', ' simple']
+Rank 18 | Centroid: ' clear' | Score: 0.0000
+  Tokens: [' clear', ' clearer']
+Rank 19 | Centroid: ' shine' | Score: 0.0000
+  Tokens: [' happen', ' shine', ' breathe']
+Rank 20 | Centroid: ' visceral' | Score: 0.0000
+  Tokens: [' flesh', ' palp', ' visceral', ' tense']
+Rank 21 | Centroid: ' visual' | Score: 0.0000
+  Tokens: [' visual', ' familiar']
+Rank 22 | Centroid: ' grounded' | Score: 0.0000
+  Tokens: [' grounded']
+Rank 23 | Centroid: ' heart' | Score: 0.0000
+  Tokens: [' heart']
+Rank 24 | Centroid: ' interactive' | Score: 0.0000
+  Tokens: [' interactive']
+Rank 25 | Centroid: ' sound' | Score: 0.0000
+  Tokens: [' sound']
+Rank 26 | Centroid: ' nice' | Score: 0.0000
+  Tokens: [' nice']
 
 **Chosen Concept:** Rank 1

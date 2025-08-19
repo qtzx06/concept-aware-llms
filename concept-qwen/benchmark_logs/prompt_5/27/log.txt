@@ -1,64 +1,151 @@
 --- Step 27 Log ---
 
 == Filtered Candidates ==
-Token: ' must' (ID: 1969), Prob: 0.0009
-Token: ' needed' (ID: 4362), Prob: 0.0004
-Token: ' may' (ID: 1231), Prob: 0.0003
-Token: ' would' (ID: 1035), Prob: 0.0003
-Token: ' could' (ID: 1410), Prob: 0.0003
-Token: ' based' (ID: 3118), Prob: 0.0003
-Token: ' might' (ID: 2578), Prob: 0.0002
-Token: ' explanation' (ID: 16148), Prob: 0.0002
-Token: ' need' (ID: 1184), Prob: 0.0001
-Token: ' possible' (ID: 3204), Prob: 0.0001
-Token: ' make' (ID: 1281), Prob: 0.0001
-Token: ' made' (ID: 1865), Prob: 0.0001
-Token: ' explaining' (ID: 25021), Prob: 0.0001
-Token: ' please' (ID: 4486), Prob: 0.0001
-Token: ' required' (ID: 2567), Prob: 0.0001
-Token: ' along' (ID: 3156), Prob: 0.0000
-Token: ' maybe' (ID: 7196), Prob: 0.0000
-Token: ' explained' (ID: 11247), Prob: 0.0000
-Token: ' provided' (ID: 3897), Prob: 0.0000
-Token: ' probably' (ID: 4658), Prob: 0.0000
-Token: ' like' (ID: 1075), Prob: 0.0000
-Token: ' according' (ID: 4092), Prob: 0.0000
-Token: ' list' (ID: 1140), Prob: 0.0000
-Token: ' summary' (ID: 12126), Prob: 0.0000
-Token: ' needs' (ID: 3880), Prob: 0.0000
-Token: ' likely' (ID: 4363), Prob: 0.0000
-Token: ' justify' (ID: 9357), Prob: 0.0000
-Token: ' supporting' (ID: 12613), Prob: 0.0000
-Token: ' explanations' (ID: 40841), Prob: 0.0000
-Token: ' show' (ID: 1473), Prob: 0.0000
-Token: ' explain' (ID: 10339), Prob: 0.0000
+Token: ' character' (ID: 3668), Prob: 0.6094
+Token: ' characters' (ID: 5766), Prob: 0.3691
+Token: ' subject' (ID: 3832), Prob: 0.0111
+Token: ' setting' (ID: 6243), Prob: 0.0052
+Token: ' conflict' (ID: 12055), Prob: 0.0007
+Token: ' event' (ID: 1538), Prob: 0.0006
+Token: ' protagonist' (ID: 45584), Prob: 0.0006
+Token: ' action' (ID: 1917), Prob: 0.0006
+Token: ' plot' (ID: 7089), Prob: 0.0006
+Token: ' person' (ID: 1697), Prob: 0.0005
+Token: ' theme' (ID: 6912), Prob: 0.0004
+Token: ' topic' (ID: 8544), Prob: 0.0003
+Token: ' points' (ID: 3501), Prob: 0.0003
+Token: ' subjects' (ID: 14878), Prob: 0.0003
+Token: ' idea' (ID: 4522), Prob: 0.0002
+Token: ' elements' (ID: 5424), Prob: 0.0002
+Token: ' focus' (ID: 5244), Prob: 0.0002
+Token: ' themes' (ID: 21386), Prob: 0.0001
+Token: ' settings' (ID: 5003), Prob: 0.0001
+Token: ' scene' (ID: 6109), Prob: 0.0001
+Token: ' story' (ID: 3364), Prob: 0.0001
+Token: ' object' (ID: 1633), Prob: 0.0001
+Token: ' title' (ID: 2265), Prob: 0.0001
+Token: ' events' (ID: 4357), Prob: 0.0001
+Token: ' goal' (ID: 5795), Prob: 0.0001
+Token: ' hero' (ID: 11821), Prob: 0.0001
+Token: ' challenge' (ID: 8645), Prob: 0.0000
+Token: ' role' (ID: 3476), Prob: 0.0000
+Token: ' figure' (ID: 7071), Prob: 0.0000
+Token: ' attraction' (ID: 32364), Prob: 0.0000
+Token: ' scenario' (ID: 15048), Prob: 0.0000
+Token: ' people' (ID: 1251), Prob: 0.0000
+Token: ' point' (ID: 1459), Prob: 0.0000
+Token: ' interest' (ID: 2734), Prob: 0.0000
+Token: ' narrative' (ID: 19221), Prob: 0.0000
+Token: ' actions' (ID: 6168), Prob: 0.0000
+Token: ' location' (ID: 3728), Prob: 0.0000
+Token: ' antagonist' (ID: 81059), Prob: 0.0000
+Token: ' structure' (ID: 5944), Prob: 0.0000
+Token: ' components' (ID: 6813), Prob: 0.0000
+Token: ' group' (ID: 1874), Prob: 0.0000
+Token: ' objects' (ID: 6171), Prob: 0.0000
+Token: ' problem' (ID: 3491), Prob: 0.0000
+Token: ' ideas' (ID: 6708), Prob: 0.0000
+Token: ' figures' (ID: 12396), Prob: 0.0000
+Token: ' message' (ID: 1943), Prob: 0.0000
+Token: ' three' (ID: 2326), Prob: 0.0000
+Token: ' topics' (ID: 13347), Prob: 0.0000
+Token: ' objective' (ID: 16538), Prob: 0.0000
+Token: ' speaker' (ID: 18601), Prob: 0.0000
+Token: ' protagonists' (ID: 94635), Prob: 0.0000
+Token: ' locations' (ID: 10468), Prob: 0.0000
+Token: ' ingredients' (ID: 13966), Prob: 0.0000
+Token: ' place' (ID: 1992), Prob: 0.0000
+Token: ' roles' (ID: 12783), Prob: 0.0000
+Token: ' thing' (ID: 3166), Prob: 0.0000
+Token: ' Characters' (ID: 44516), Prob: 0.0000
+Token: ' family' (ID: 2997), Prob: 0.0000
+Token: ' issue' (ID: 4265), Prob: 0.0000
+Token: ' meeting' (ID: 6438), Prob: 0.0000
+Token: ' interests' (ID: 11772), Prob: 0.0000
+Token: ' two' (ID: 1378), Prob: 0.0000
+Token: ' element' (ID: 2392), Prob: 0.0000
+Token: ' activities' (ID: 7488), Prob: 0.0000
+Token: ' scenes' (ID: 16065), Prob: 0.0000
+Token: ' activity' (ID: 5702), Prob: 0.0000
+Token: ' storyline' (ID: 50628), Prob: 0.0000
+Token: ' Character' (ID: 15633), Prob: 0.0000
+Token: ' conflicts' (ID: 25800), Prob: 0.0000
+Token: ' contrast' (ID: 12872), Prob: 0.0000
+Token: ' emotion' (ID: 19772), Prob: 0.0000
+Token: ' features' (ID: 4419), Prob: 0.0000
+Token: ' concept' (ID: 7286), Prob: 0.0000
+Token: ' prompt' (ID: 9934), Prob: 0.0000
+Token: ' obstacles' (ID: 31016), Prob: 0.0000
+Token: 'Characters' (ID: 37489), Prob: 0.0000
+Token: ' places' (ID: 7482), Prob: 0.0000
+Token: ' participants' (ID: 13026), Prob: 0.0000
+Token: ' image' (ID: 2168), Prob: 0.0000
+Token: ' challenges' (ID: 11513), Prob: 0.0000
+Token: ' participant' (ID: 24880), Prob: 0.0000
+Token: ' trio' (ID: 33962), Prob: 0.0000
+Token: ' attractions' (ID: 38491), Prob: 0.0000
+Token: ' narrator' (ID: 64171), Prob: 0.0000
+Token: ' concern' (ID: 4643), Prob: 0.0000
+Token: ' parts' (ID: 5479), Prob: 0.0000
+Token: ' creature' (ID: 17218), Prob: 0.0000
+Token: ' set' (ID: 738), Prob: 0.0000
+Token: ' background' (ID: 4004), Prob: 0.0000
+Token: ' question' (ID: 3405), Prob: 0.0000
+Token: ' situation' (ID: 6534), Prob: 0.0000
+Token: ' adventure' (ID: 17943), Prob: 0.0000
+Token: ' mystery' (ID: 22531), Prob: 0.0000
+Token: ' part' (ID: 949), Prob: 0.0000
+Token: ' historical' (ID: 13656), Prob: 0.0000
+Token: 'characters' (ID: 47485), Prob: 0.0000
+Token: ' quest' (ID: 2222), Prob: 0.0000
+Token: ' traits' (ID: 24055), Prob: 0.0000
 
 == Ranked Concepts (Clusters) ==
-Rank 1 | Centroid: ' might' | Score: 0.0011
-  Tokens: [' may', ' would', ' could', ' might']
-Rank 2 | Centroid: ' needs' | Score: 0.0010
-  Tokens: [' must', ' need', ' needs']
-Rank 3 | Centroid: ' needed' | Score: 0.0004
-  Tokens: [' needed', ' required']
-Rank 4 | Centroid: ' according' | Score: 0.0003
-  Tokens: [' based', ' along', ' according']
-Rank 5 | Centroid: ' explanation' | Score: 0.0003
-  Tokens: [' explanation', ' explaining', ' explained', ' explanations', ' explain']
-Rank 6 | Centroid: ' probably' | Score: 0.0002
-  Tokens: [' possible', ' maybe', ' probably', ' likely']
-Rank 7 | Centroid: ' make' | Score: 0.0001
-  Tokens: [' make', ' made']
-Rank 8 | Centroid: ' please' | Score: 0.0001
-  Tokens: [' please']
-Rank 9 | Centroid: ' list' | Score: 0.0000
-  Tokens: [' list', ' summary']
-Rank 10 | Centroid: ' provided' | Score: 0.0000
-  Tokens: [' provided']
-Rank 11 | Centroid: ' justify' | Score: 0.0000
-  Tokens: [' justify', ' show']
-Rank 12 | Centroid: ' like' | Score: 0.0000
-  Tokens: [' like']
-Rank 13 | Centroid: ' supporting' | Score: 0.0000
-  Tokens: [' supporting']
+Rank 1 | Centroid: ' characters' | Score: 0.9805
+  Tokens: [' character', ' characters', ' Characters', ' Character', 'Characters', 'characters']
+Rank 2 | Centroid: ' topic' | Score: 0.0123
+  Tokens: [' subject', ' theme', ' topic', ' subjects', ' themes', ' topics']
+Rank 3 | Centroid: ' locations' | Score: 0.0054
+  Tokens: [' setting', ' settings', ' location', ' locations', ' place', ' places']
+Rank 4 | Centroid: ' activities' | Score: 0.0013
+  Tokens: [' event', ' action', ' events', ' actions', ' activities', ' activity']
+Rank 5 | Centroid: ' conflict' | Score: 0.0011
+  Tokens: [' conflict', ' focus', ' goal', ' challenge', ' problem', ' issue', ' conflicts', ' contrast', ' prompt', ' challenges', ' concern', ' question', ' mystery', ' quest']
+Rank 6 | Centroid: ' protagonist' | Score: 0.0007
+  Tokens: [' protagonist', ' hero', ' antagonist', ' speaker', ' protagonists', ' narrator', ' creature']
+Rank 7 | Centroid: ' narrative' | Score: 0.0007
+  Tokens: [' plot', ' story', ' narrative', ' storyline', ' trio']
+Rank 8 | Centroid: ' people' | Score: 0.0006
+  Tokens: [' person', ' people', ' point', ' structure', ' thing', ' set']
+Rank 9 | Centroid: ' points' | Score: 0.0003
+  Tokens: [' points']
+Rank 10 | Centroid: ' ingredients' | Score: 0.0003
+  Tokens: [' elements', ' components', ' ingredients', ' features', ' traits']
+Rank 11 | Centroid: ' idea' | Score: 0.0002
+  Tokens: [' idea', ' ideas', ' concept']
+Rank 12 | Centroid: ' scene' | Score: 0.0001
+  Tokens: [' scene', ' scenario', ' scenes', ' situation']
+Rank 13 | Centroid: ' object' | Score: 0.0001
+  Tokens: [' object', ' objects', ' objective']
+Rank 14 | Centroid: ' title' | Score: 0.0001
+  Tokens: [' title', ' message']
+Rank 15 | Centroid: ' figure' | Score: 0.0001
+  Tokens: [' figure', ' figures', ' image']
+Rank 16 | Centroid: ' role' | Score: 0.0000
+  Tokens: [' role', ' roles']
+Rank 17 | Centroid: ' two' | Score: 0.0000
+  Tokens: [' group', ' three', ' family', ' two', ' parts', ' part']
+Rank 18 | Centroid: ' attractions' | Score: 0.0000
+  Tokens: [' attraction', ' obstacles', ' attractions']
+Rank 19 | Centroid: ' interest' | Score: 0.0000
+  Tokens: [' interest', ' interests']
+Rank 20 | Centroid: ' adventure' | Score: 0.0000
+  Tokens: [' emotion', ' background', ' adventure', ' historical']
+Rank 21 | Centroid: ' meeting' | Score: 0.0000
+  Tokens: [' meeting']
+Rank 22 | Centroid: ' participants' | Score: 0.0000
+  Tokens: [' participants', ' participant']
+Rank 23 | Centroid: ' element' | Score: 0.0000
+  Tokens: [' element']
 
 **Chosen Concept:** Rank 1

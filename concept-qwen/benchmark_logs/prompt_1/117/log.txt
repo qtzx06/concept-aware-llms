@@ -1,124 +1,92 @@
 --- Step 117 Log ---
 
 == Filtered Candidates ==
-Token: ' Use' (ID: 5443), Prob: 0.8047
-Token: ' Describe' (ID: 60785), Prob: 0.0054
-Token: ' Mention' (ID: 85148), Prob: 0.0054
-Token: ' Next' (ID: 9295), Prob: 0.0037
-Token: ' Include' (ID: 29734), Prob: 0.0026
-Token: ' Something' (ID: 24656), Prob: 0.0011
-Token: ' Express' (ID: 17399), Prob: 0.0008
-Token: ' Combine' (ID: 46812), Prob: 0.0008
-Token: ' Highlight' (ID: 55994), Prob: 0.0005
-Token: ' Words' (ID: 27630), Prob: 0.0004
-Token: ' Add' (ID: 2691), Prob: 0.0004
-Token: ' Let' (ID: 6771), Prob: 0.0003
-Token: ' Need' (ID: 14656), Prob: 0.0003
-Token: ' Show' (ID: 6928), Prob: 0.0002
-Token: ' Using' (ID: 12091), Prob: 0.0002
-Token: ' Talk' (ID: 18976), Prob: 0.0002
-Token: ' Create' (ID: 4230), Prob: 0.0001
-Token: ' Con' (ID: 1200), Prob: 0.0001
-Token: ' Start' (ID: 5145), Prob: 0.0001
-Token: ' Int' (ID: 1333), Prob: 0.0001
-Token: ' Reference' (ID: 17207), Prob: 0.0001
-Token: ' Since' (ID: 8704), Prob: 0.0001
-Token: ' Incorpor' (ID: 53704), Prob: 0.0001
-Token: ' Person' (ID: 7357), Prob: 0.0001
-Token: ' Write' (ID: 9645), Prob: 0.0001
-Token: ' Explain' (ID: 81917), Prob: 0.0001
-Token: ' Follow' (ID: 11112), Prob: 0.0001
-Token: ' Set' (ID: 2573), Prob: 0.0001
-Token: ' Say' (ID: 24917), Prob: 0.0001
-Token: ' Avoid' (ID: 34006), Prob: 0.0000
-Token: ' First' (ID: 5512), Prob: 0.0000
-Token: ' Second' (ID: 10440), Prob: 0.0000
-Token: ' Focus' (ID: 25806), Prob: 0.0000
-Token: ' Tell' (ID: 24647), Prob: 0.0000
-Token: ' Make' (ID: 7405), Prob: 0.0000
-Token: ' Like' (ID: 8909), Prob: 0.0000
-Token: ' Maybe' (ID: 10696), Prob: 0.0000
-Token: ' Insert' (ID: 17101), Prob: 0.0000
-Token: ' Think' (ID: 21149), Prob: 0.0000
-Token: ' Specify' (ID: 47395), Prob: 0.0000
-Token: ' Des' (ID: 3874), Prob: 0.0000
-Token: ' Link' (ID: 5948), Prob: 0.0000
-Token: ' Connect' (ID: 13015), Prob: 0.0000
-Token: ' Fro' (ID: 23413), Prob: 0.0000
-Token: ' State' (ID: 3234), Prob: 0.0000
-Token: ' Instead' (ID: 12090), Prob: 0.0000
-Token: ' Wait' (ID: 13824), Prob: 0.0000
-Token: ' Paint' (ID: 17203), Prob: 0.0000
-Token: ' Example' (ID: 13383), Prob: 0.0000
-Token: ' Third' (ID: 20861), Prob: 0.0000
-Token: ' Replace' (ID: 29558), Prob: 0.0000
-Token: ' Head' (ID: 11203), Prob: 0.0000
-Token: ' Draw' (ID: 11992), Prob: 0.0000
-Token: ' Imagine' (ID: 37791), Prob: 0.0000
-Token: 'Use' (ID: 10253), Prob: 0.0000
-Token: ' Enc' (ID: 10751), Prob: 0.0000
-Token: ' Place' (ID: 10771), Prob: 0.0000
-Token: ' Employ' (ID: 20782), Prob: 0.0000
-Token: ' Met' (ID: 6212), Prob: 0.0000
-Token: ' Body' (ID: 13958), Prob: 0.0000
-Token: ' Expression' (ID: 16378), Prob: 0.0000
-Token: ' Usage' (ID: 24567), Prob: 0.0000
-Token: ' Image' (ID: 4654), Prob: 0.0000
-Token: ' Take' (ID: 11778), Prob: 0.0000
-Token: ' Visual' (ID: 20185), Prob: 0.0000
-Token: ' End' (ID: 3972), Prob: 0.0000
-Token: ' Ask' (ID: 20437), Prob: 0.0000
-Token: ' Throw' (ID: 31345), Prob: 0.0000
-Token: ' Util' (ID: 10167), Prob: 0.0000
+Token: 'Narr' (ID: 63279), Prob: 0.0283
+Token: 'Please' (ID: 5501), Prob: 0.0151
+Token: 'First' (ID: 5338), Prob: 0.0063
+Token: 'Okay' (ID: 32313), Prob: 0.0043
+Token: 'Describe' (ID: 74785), Prob: 0.0038
+Token: 'Use' (ID: 10253), Prob: 0.0034
+Token: 'Story' (ID: 17938), Prob: 0.0034
+Token: 'Start' (ID: 3479), Prob: 0.0023
+Token: 'Also' (ID: 13394), Prob: 0.0023
+Token: 'Answer' (ID: 16141), Prob: 0.0022
+Token: 'Based' (ID: 28715), Prob: 0.0022
+Token: 'Additionally' (ID: 49574), Prob: 0.0022
+Token: 'Second' (ID: 15666), Prob: 0.0021
+Token: 'Plot' (ID: 25605), Prob: 0.0021
+Token: 'Write' (ID: 7985), Prob: 0.0019
+Token: 'Let' (ID: 10061), Prob: 0.0018
+Token: 'Every' (ID: 11510), Prob: 0.0014
+Token: 'Provide' (ID: 60424), Prob: 0.0012
+Token: 'Alright' (ID: 71486), Prob: 0.0012
+Token: 'Structure' (ID: 22952), Prob: 0.0011
+Token: 'Possible' (ID: 65222), Prob: 0.0011
+Token: 'Response' (ID: 2582), Prob: 0.0010
+Token: 'Include' (ID: 22283), Prob: 0.0010
+Token: 'Create' (ID: 4021), Prob: 0.0008
+Token: 'Make' (ID: 8078), Prob: 0.0008
+Token: 'Place' (ID: 17371), Prob: 0.0008
+Token: 'Tell' (ID: 40451), Prob: 0.0008
+Token: 'Therefore' (ID: 54815), Prob: 0.0008
+Token: 'Set' (ID: 1649), Prob: 0.0007
+Token: 'Examples' (ID: 40381), Prob: 0.0006
+Token: 'Choose' (ID: 24051), Prob: 0.0006
+Token: 'Prem' (ID: 41462), Prob: 0.0006
+Token: 'Furthermore' (ID: 56317), Prob: 0.0006
+Token: 'Final' (ID: 19357), Prob: 0.0005
+Token: 'Following' (ID: 26957), Prob: 0.0005
+Token: 'Follow' (ID: 12480), Prob: 0.0005
+Token: 'Finally' (ID: 23949), Prob: 0.0005
+Token: 'Themes' (ID: 89030), Prob: 0.0005
+Token: 'Scene' (ID: 10019), Prob: 0.0005
+Token: 'Using' (ID: 16429), Prob: 0.0005
+Token: 'Ensure' (ID: 64439), Prob: 0.0005
+Token: 'Support' (ID: 7916), Prob: 0.0004
+Token: 'Sum' (ID: 9190), Prob: 0.0004
+Token: 'Example' (ID: 13314), Prob: 0.0004
+Token: 'Paragraph' (ID: 42165), Prob: 0.0004
+Token: 'Instructions' (ID: 55291), Prob: 0.0004
+Token: 'Six' (ID: 41460), Prob: 0.0004
 
 == Ranked Concepts (Clusters) ==
-Rank 1 | Centroid: ' Use' | Score: 0.8047
-  Tokens: [' Use', ' Using', 'Use', ' Usage', ' Util']
-Rank 2 | Centroid: ' Mention' | Score: 0.0060
-  Tokens: [' Mention', ' Highlight']
-Rank 3 | Centroid: ' Describe' | Score: 0.0055
-  Tokens: [' Describe', ' Explain', ' Specify']
-Rank 4 | Centroid: ' Second' | Score: 0.0038
-  Tokens: [' Next', ' First', ' Second', ' Third']
-Rank 5 | Centroid: ' Combine' | Score: 0.0034
-  Tokens: [' Include', ' Combine', ' Connect']
-Rank 6 | Centroid: ' Maybe' | Score: 0.0015
-  Tokens: [' Something', ' Let', ' Since', ' Like', ' Maybe', ' Instead']
-Rank 7 | Centroid: ' Express' | Score: 0.0008
-  Tokens: [' Express', ' Expression']
-Rank 8 | Centroid: ' Create' | Score: 0.0005
-  Tokens: [' Add', ' Create', ' Set']
-Rank 9 | Centroid: ' Person' | Score: 0.0005
-  Tokens: [' Words', ' Person', ' Head', ' Body']
-Rank 10 | Centroid: ' Make' | Score: 0.0003
-  Tokens: [' Show', ' Write', ' Make', ' Take']
-Rank 11 | Centroid: ' Ask' | Score: 0.0003
-  Tokens: [' Talk', ' Say', ' Tell', ' Ask']
-Rank 12 | Centroid: ' Des' | Score: 0.0003
-  Tokens: [' Con', ' Int', ' Des', ' Fro', ' Enc', ' Met']
-Rank 13 | Centroid: ' Need' | Score: 0.0003
-  Tokens: [' Need', ' Wait']
-Rank 14 | Centroid: ' Reference' | Score: 0.0002
-  Tokens: [' Reference', ' Focus', ' Link', ' Example']
-Rank 15 | Centroid: ' Incorpor' | Score: 0.0001
-  Tokens: [' Incorpor', ' Avoid', ' Employ']
-Rank 16 | Centroid: ' Start' | Score: 0.0001
-  Tokens: [' Start', ' End']
-Rank 17 | Centroid: ' Follow' | Score: 0.0001
-  Tokens: [' Follow']
-Rank 18 | Centroid: ' Think' | Score: 0.0000
-  Tokens: [' Think', ' Imagine']
-Rank 19 | Centroid: ' Insert' | Score: 0.0000
-  Tokens: [' Insert', ' Place']
-Rank 20 | Centroid: ' Paint' | Score: 0.0000
-  Tokens: [' Paint', ' Draw']
-Rank 21 | Centroid: ' Image' | Score: 0.0000
-  Tokens: [' Image', ' Visual']
-Rank 22 | Centroid: ' State' | Score: 0.0000
-  Tokens: [' State']
-Rank 23 | Centroid: ' Replace' | Score: 0.0000
-  Tokens: [' Replace']
-Rank 24 | Centroid: ' Throw' | Score: 0.0000
-  Tokens: [' Throw']
+Rank 1 | Centroid: 'Story' | Score: 0.0347
+  Tokens: ['Narr', 'Story', 'Plot', 'Tell']
+Rank 2 | Centroid: 'Please' | Score: 0.0151
+  Tokens: ['Please']
+Rank 3 | Centroid: 'Create' | Score: 0.0107
+  Tokens: ['Describe', 'Write', 'Provide', 'Include', 'Create', 'Make', 'Choose', 'Ensure']
+Rank 4 | Centroid: 'First' | Score: 0.0084
+  Tokens: ['First', 'Second']
+Rank 5 | Centroid: 'Additionally' | Score: 0.0059
+  Tokens: ['Also', 'Additionally', 'Therefore', 'Furthermore']
+Rank 6 | Centroid: 'Okay' | Score: 0.0055
+  Tokens: ['Okay', 'Alright']
+Rank 7 | Centroid: 'Use' | Score: 0.0038
+  Tokens: ['Use', 'Using']
+Rank 8 | Centroid: 'Set' | Score: 0.0034
+  Tokens: ['Start', 'Set', 'Sum']
+Rank 9 | Centroid: 'Let' | Score: 0.0032
+  Tokens: ['Let', 'Every']
+Rank 10 | Centroid: 'Answer' | Score: 0.0032
+  Tokens: ['Answer', 'Response']
+Rank 11 | Centroid: 'Based' | Score: 0.0022
+  Tokens: ['Based']
+Rank 12 | Centroid: 'Scene' | Score: 0.0020
+  Tokens: ['Structure', 'Themes', 'Scene']
+Rank 13 | Centroid: 'Possible' | Score: 0.0015
+  Tokens: ['Possible', 'Support']
+Rank 14 | Centroid: 'Examples' | Score: 0.0011
+  Tokens: ['Examples', 'Example']
+Rank 15 | Centroid: 'Following' | Score: 0.0010
+  Tokens: ['Following', 'Follow']
+Rank 16 | Centroid: 'Final' | Score: 0.0010
+  Tokens: ['Final', 'Finally']
+Rank 17 | Centroid: 'Prem' | Score: 0.0010
+  Tokens: ['Prem', 'Six']
+Rank 18 | Centroid: 'Paragraph' | Score: 0.0009
+  Tokens: ['Paragraph', 'Instructions']
+Rank 19 | Centroid: 'Place' | Score: 0.0008
+  Tokens: ['Place']
 
 **Chosen Concept:** Rank 1

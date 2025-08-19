@@ -1,119 +1,137 @@
 --- Step 121 Log ---
 
 == Filtered Candidates ==
-Token: ' grow' (ID: 3063), Prob: 1.0000
-Token: ' grown' (ID: 14700), Prob: 0.0002
-Token: ' growth' (ID: 6513), Prob: 0.0001
-Token: ' grows' (ID: 27715), Prob: 0.0001
-Token: ' growing' (ID: 7826), Prob: 0.0001
-Token: ' grew' (ID: 13938), Prob: 0.0000
-Token: ' get' (ID: 633), Prob: 0.0000
-Token: ' stay' (ID: 4717), Prob: 0.0000
-Token: ' old' (ID: 2310), Prob: 0.0000
-Token: ' age' (ID: 4231), Prob: 0.0000
-Token: ' become' (ID: 3635), Prob: 0.0000
-Token: ' raise' (ID: 4828), Prob: 0.0000
-Token: ' young' (ID: 3908), Prob: 0.0000
-Token: ' rise' (ID: 10000), Prob: 0.0000
-Token: ' leave' (ID: 5274), Prob: 0.0000
-Token: ' eat' (ID: 8180), Prob: 0.0000
-Token: ' engage' (ID: 16579), Prob: 0.0000
-Token: ' Grow' (ID: 46560), Prob: 0.0000
-Token: 'grow' (ID: 66218), Prob: 0.0000
-Token: ' keep' (ID: 2506), Prob: 0.0000
-Token: ' mature' (ID: 14851), Prob: 0.0000
-Token: ' round' (ID: 4778), Prob: 0.0000
-Token: ' live' (ID: 3887), Prob: 0.0000
-Token: ' start' (ID: 1191), Prob: 0.0000
-Token: ' take' (ID: 1896), Prob: 0.0000
-Token: ' make' (ID: 1281), Prob: 0.0000
-Token: ' continue' (ID: 3060), Prob: 0.0000
-Token: ' sleep' (ID: 6084), Prob: 0.0000
-Token: ' use' (ID: 990), Prob: 0.0000
-Token: ' read' (ID: 1349), Prob: 0.0000
-Token: ' gather' (ID: 9567), Prob: 0.0000
-Token: ' long' (ID: 1293), Prob: 0.0000
-Token: ' forget' (ID: 10667), Prob: 0.0000
-Token: ' group' (ID: 1874), Prob: 0.0000
-Token: ' choose' (ID: 5157), Prob: 0.0000
-Token: ' cross' (ID: 5312), Prob: 0.0000
-Token: ' reach' (ID: 5545), Prob: 0.0000
-Token: ' spend' (ID: 8329), Prob: 0.0000
-Token: ' move' (ID: 3271), Prob: 0.0000
-Token: ' develop' (ID: 2225), Prob: 0.0000
-Token: ' ask' (ID: 2548), Prob: 0.0000
-Token: ' care' (ID: 2453), Prob: 0.0000
-Token: ' give' (ID: 2968), Prob: 0.0000
-Token: ' focus' (ID: 5244), Prob: 0.0000
-Token: ' forever' (ID: 15683), Prob: 0.0000
-Token: ' years' (ID: 1635), Prob: 0.0000
-Token: ' catch' (ID: 2287), Prob: 0.0000
-Token: ' close' (ID: 3265), Prob: 0.0000
-Token: ' gain' (ID: 8722), Prob: 0.0000
-Token: ' graduate' (ID: 19023), Prob: 0.0000
-Token: ' open' (ID: 1787), Prob: 0.0000
-Token: ' across' (ID: 3941), Prob: 0.0000
-Token: ' green' (ID: 6176), Prob: 0.0000
-Token: ' groom' (ID: 39841), Prob: 0.0000
-Token: ' look' (ID: 1401), Prob: 0.0000
-Token: ' come' (ID: 2525), Prob: 0.0000
-Token: ' feel' (ID: 2666), Prob: 0.0000
-Token: ' generate' (ID: 6923), Prob: 0.0000
-Token: ' aged' (ID: 19749), Prob: 0.0000
-Token: ' foster' (ID: 29987), Prob: 0.0000
-Token: ' run' (ID: 1598), Prob: 0.0000
-Token: ' learn' (ID: 3960), Prob: 0.0000
-Token: ' walk' (ID: 4227), Prob: 0.0000
-Token: ' join' (ID: 5138), Prob: 0.0000
-Token: ' youth' (ID: 12537), Prob: 0.0000
-Token: ' receive' (ID: 5258), Prob: 0.0000
+Token: ' common' (ID: 4185), Prob: 0.4023
+Token: ' typical' (ID: 14260), Prob: 0.0791
+Token: ' possible' (ID: 3204), Prob: 0.0074
+Token: ' logical' (ID: 19819), Prob: 0.0051
+Token: ' general' (ID: 4586), Prob: 0.0039
+Token: ' user' (ID: 1196), Prob: 0.0035
+Token: ' logic' (ID: 12218), Prob: 0.0035
+Token: ' humor' (ID: 27385), Prob: 0.0035
+Token: ' imagination' (ID: 27799), Prob: 0.0035
+Token: ' ambiguity' (ID: 71768), Prob: 0.0022
+Token: ' existing' (ID: 6350), Prob: 0.0021
+Token: ' creativity' (ID: 27597), Prob: 0.0021
+Token: ' possibilities' (ID: 23607), Prob: 0.0015
+Token: ' context' (ID: 2266), Prob: 0.0014
+Token: ' narrative' (ID: 19221), Prob: 0.0013
+Token: ' whether' (ID: 3425), Prob: 0.0012
+Token: ' original' (ID: 4024), Prob: 0.0012
+Token: ' popularity' (ID: 22538), Prob: 0.0011
+Token: ' character' (ID: 3668), Prob: 0.0010
+Token: ' usual' (ID: 13475), Prob: 0.0009
+Token: ' probability' (ID: 18927), Prob: 0.0009
+Token: ' characters' (ID: 5766), Prob: 0.0009
+Token: ' simplicity' (ID: 38975), Prob: 0.0009
+Token: ' initial' (ID: 2856), Prob: 0.0008
+Token: ' plausible' (ID: 49334), Prob: 0.0008
+Token: ' themes' (ID: 21386), Prob: 0.0008
+Token: ' natural' (ID: 5810), Prob: 0.0007
+Token: ' grammar' (ID: 31428), Prob: 0.0006
+Token: ' emotional' (ID: 14269), Prob: 0.0005
+Token: ' tone' (ID: 16232), Prob: 0.0005
+Token: ' creating' (ID: 6825), Prob: 0.0005
+Token: ' available' (ID: 2500), Prob: 0.0005
+Token: ' genre' (ID: 17328), Prob: 0.0005
+Token: ' default' (ID: 1638), Prob: 0.0004
+Token: ' standard' (ID: 5297), Prob: 0.0004
+Token: ' popular' (ID: 5411), Prob: 0.0004
+Token: ' flow' (ID: 6396), Prob: 0.0004
+Token: ' current' (ID: 1482), Prob: 0.0004
+Token: ' given' (ID: 2661), Prob: 0.0004
+Token: ' likely' (ID: 4363), Prob: 0.0004
+Token: ' creative' (ID: 11521), Prob: 0.0004
+Token: ' likelihood' (ID: 28636), Prob: 0.0004
+Token: ' first' (ID: 1156), Prob: 0.0004
+Token: ' examples' (ID: 10295), Prob: 0.0004
+Token: ' classic' (ID: 11416), Prob: 0.0004
+Token: ' story' (ID: 3364), Prob: 0.0004
+Token: ' normal' (ID: 4622), Prob: 0.0004
+Token: ' elements' (ID: 5424), Prob: 0.0004
+Token: ' traditional' (ID: 8606), Prob: 0.0003
+Token: ' rel' (ID: 1351), Prob: 0.0003
+Token: ' commonly' (ID: 16626), Prob: 0.0003
+Token: ' reliability' (ID: 30538), Prob: 0.0003
+Token: ' literary' (ID: 31365), Prob: 0.0003
+Token: ' safety' (ID: 7149), Prob: 0.0003
+Token: ' atmospheric' (ID: 44375), Prob: 0.0003
+Token: ' intuition' (ID: 56251), Prob: 0.0003
+Token: ' suspense' (ID: 71830), Prob: 0.0003
+Token: ' making' (ID: 3259), Prob: 0.0003
+Token: ' storytelling' (ID: 47829), Prob: 0.0003
+Token: ' familiarity' (ID: 70440), Prob: 0.0002
+Token: ' potential' (ID: 4650), Prob: 0.0002
+Token: ' sentiment' (ID: 25975), Prob: 0.0002
+Token: ' probable' (ID: 34877), Prob: 0.0002
+Token: ' plot' (ID: 7089), Prob: 0.0002
+Token: ' genres' (ID: 35644), Prob: 0.0002
+Token: ' curiosity' (ID: 40228), Prob: 0.0002
+Token: ' two' (ID: 1378), Prob: 0.0002
+Token: ' best' (ID: 1850), Prob: 0.0002
+Token: ' universal' (ID: 20178), Prob: 0.0002
+Token: ' emotions' (ID: 21261), Prob: 0.0002
+Token: ' reader' (ID: 6604), Prob: 0.0002
+Token: ' assumptions' (ID: 31846), Prob: 0.0002
+Token: ' one' (ID: 825), Prob: 0.0001
+Token: ' availability' (ID: 18048), Prob: 0.0001
+Token: ' relevance' (ID: 40861), Prob: 0.0001
+Token: ' author' (ID: 3150), Prob: 0.0001
+Token: ' familiar' (ID: 11285), Prob: 0.0001
+Token: ' casual' (ID: 16334), Prob: 0.0001
+Token: ' previous' (ID: 3681), Prob: 0.0001
+Token: ' simple' (ID: 4285), Prob: 0.0001
+Token: ' tradition' (ID: 13815), Prob: 0.0001
+Token: ' atmosphere' (ID: 16566), Prob: 0.0001
 
 == Ranked Concepts (Clusters) ==
-Rank 1 | Centroid: ' grow' | Score: 1.0000
-  Tokens: [' grow', ' grown', ' growth', ' grows', ' growing', ' grew', ' Grow', 'grow']
-Rank 2 | Centroid: ' young' | Score: 0.0000
-  Tokens: [' old', ' age', ' young', ' aged', ' youth']
-Rank 3 | Centroid: ' stay' | Score: 0.0000
-  Tokens: [' stay', ' leave', ' keep', ' look', ' feel']
-Rank 4 | Centroid: ' give' | Score: 0.0000
-  Tokens: [' get', ' take', ' make', ' give']
-Rank 5 | Centroid: ' raise' | Score: 0.0000
-  Tokens: [' raise', ' rise']
-Rank 6 | Centroid: ' generate' | Score: 0.0000
-  Tokens: [' engage', ' gather', ' choose', ' develop', ' ask', ' generate']
-Rank 7 | Centroid: ' become' | Score: 0.0000
-  Tokens: [' become', ' come', ' receive']
-Rank 8 | Centroid: ' eat' | Score: 0.0000
-  Tokens: [' eat', ' spend', ' learn']
-Rank 9 | Centroid: ' start' | Score: 0.0000
-  Tokens: [' start', ' use']
-Rank 10 | Centroid: ' live' | Score: 0.0000
-  Tokens: [' live', ' group']
-Rank 11 | Centroid: ' mature' | Score: 0.0000
-  Tokens: [' mature', ' years']
-Rank 12 | Centroid: ' round' | Score: 0.0000
-  Tokens: [' round', ' green']
-Rank 13 | Centroid: ' walk' | Score: 0.0000
-  Tokens: [' move', ' run', ' walk', ' join']
-Rank 14 | Centroid: ' gain' | Score: 0.0000
-  Tokens: [' reach', ' catch', ' gain']
-Rank 15 | Centroid: ' continue' | Score: 0.0000
-  Tokens: [' continue', ' forever']
-Rank 16 | Centroid: ' foster' | Score: 0.0000
-  Tokens: [' graduate', ' groom', ' foster']
-Rank 17 | Centroid: ' cross' | Score: 0.0000
-  Tokens: [' cross', ' across']
-Rank 18 | Centroid: ' care' | Score: 0.0000
-  Tokens: [' care', ' focus']
-Rank 19 | Centroid: ' close' | Score: 0.0000
-  Tokens: [' close', ' open']
-Rank 20 | Centroid: ' sleep' | Score: 0.0000
-  Tokens: [' sleep']
-Rank 21 | Centroid: ' read' | Score: 0.0000
-  Tokens: [' read']
-Rank 22 | Centroid: ' forget' | Score: 0.0000
-  Tokens: [' forget']
-Rank 23 | Centroid: ' long' | Score: 0.0000
-  Tokens: [' long']
+Rank 1 | Centroid: ' commonly' | Score: 0.4023
+  Tokens: [' common', ' popular', ' commonly', ' familiar']
+Rank 2 | Centroid: ' traditional' | Score: 0.0815
+  Tokens: [' typical', ' usual', ' standard', ' classic', ' traditional', ' tradition']
+Rank 3 | Centroid: ' probable' | Score: 0.0120
+  Tokens: [' possible', ' possibilities', ' probability', ' plausible', ' likely', ' likelihood', ' potential', ' probable']
+Rank 4 | Centroid: ' logical' | Score: 0.0092
+  Tokens: [' logical', ' logic', ' natural']
+Rank 5 | Centroid: ' curiosity' | Score: 0.0063
+  Tokens: [' imagination', ' ambiguity', ' intuition', ' curiosity', ' assumptions']
+Rank 6 | Centroid: ' universal' | Score: 0.0050
+  Tokens: [' general', ' default', ' normal', ' universal', ' simple']
+Rank 7 | Centroid: ' two' | Score: 0.0048
+  Tokens: [' user', ' given', ' first', ' two', ' best', ' one']
+Rank 8 | Centroid: ' previous' | Score: 0.0047
+  Tokens: [' existing', ' original', ' initial', ' current', ' previous']
+Rank 9 | Centroid: ' emotions' | Score: 0.0044
+  Tokens: [' humor', ' emotional', ' sentiment', ' emotions']
+Rank 10 | Centroid: ' creative' | Score: 0.0033
+  Tokens: [' creativity', ' creating', ' creative', ' making']
+Rank 11 | Centroid: ' reliability' | Score: 0.0029
+  Tokens: [' popularity', ' simplicity', ' reliability', ' safety', ' familiarity', ' relevance']
+Rank 12 | Centroid: ' narrative' | Score: 0.0024
+  Tokens: [' narrative', ' story', ' literary', ' storytelling', ' plot']
+Rank 13 | Centroid: ' genres' | Score: 0.0023
+  Tokens: [' themes', ' grammar', ' genre', ' suspense', ' genres']
+Rank 14 | Centroid: ' context' | Score: 0.0020
+  Tokens: [' context', ' tone']
+Rank 15 | Centroid: ' character' | Score: 0.0019
+  Tokens: [' character', ' characters']
+Rank 16 | Centroid: ' whether' | Score: 0.0012
+  Tokens: [' whether']
+Rank 17 | Centroid: ' available' | Score: 0.0006
+  Tokens: [' available', ' availability']
+Rank 18 | Centroid: ' flow' | Score: 0.0004
+  Tokens: [' flow']
+Rank 19 | Centroid: ' atmospheric' | Score: 0.0004
+  Tokens: [' atmospheric', ' atmosphere']
+Rank 20 | Centroid: ' examples' | Score: 0.0004
+  Tokens: [' examples']
+Rank 21 | Centroid: ' elements' | Score: 0.0004
+  Tokens: [' elements']
+Rank 22 | Centroid: ' reader' | Score: 0.0003
+  Tokens: [' reader', ' author']
+Rank 23 | Centroid: ' rel' | Score: 0.0003
+  Tokens: [' rel']
+Rank 24 | Centroid: ' casual' | Score: 0.0001
+  Tokens: [' casual']
 
 **Chosen Concept:** Rank 1

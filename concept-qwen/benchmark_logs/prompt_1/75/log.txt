@@ -1,110 +1,159 @@
 --- Step 75 Log ---
 
 == Filtered Candidates ==
-Token: ' Check' (ID: 4248), Prob: 0.5898
-Token: ' Avoid' (ID: 34006), Prob: 0.1162
-Token: ' Let' (ID: 6771), Prob: 0.0801
-Token: ' Also' (ID: 7281), Prob: 0.0708
-Token: ' Alright' (ID: 97593), Prob: 0.0334
-Token: ' Keep' (ID: 13655), Prob: 0.0294
-Token: ' Maybe' (ID: 10696), Prob: 0.0123
-Token: ' Need' (ID: 14656), Prob: 0.0123
-Token: ' Use' (ID: 5443), Prob: 0.0074
-Token: ' Ensure' (ID: 29279), Prob: 0.0024
-Token: ' Okay' (ID: 35439), Prob: 0.0024
-Token: ' End' (ID: 3972), Prob: 0.0019
-Token: ' Finally' (ID: 17375), Prob: 0.0019
-Token: ' Add' (ID: 2691), Prob: 0.0016
-Token: ' Double' (ID: 7093), Prob: 0.0014
-Token: ' Try' (ID: 9735), Prob: 0.0014
-Token: ' Include' (ID: 29734), Prob: 0.0014
-Token: ' Perhaps' (ID: 18765), Prob: 0.0009
-Token: ' Start' (ID: 5145), Prob: 0.0008
-Token: ' Wait' (ID: 13824), Prob: 0.0007
-Token: ' Focus' (ID: 25806), Prob: 0.0007
-Token: ' Con' (ID: 1200), Prob: 0.0006
-Token: ' Highlight' (ID: 55994), Prob: 0.0004
-Token: ' Read' (ID: 4457), Prob: 0.0004
-Token: ' Test' (ID: 3393), Prob: 0.0003
-Token: ' Could' (ID: 16503), Prob: 0.0003
-Token: ' Combine' (ID: 46812), Prob: 0.0003
-Token: ' Consider' (ID: 21144), Prob: 0.0003
-Token: ' Adjust' (ID: 27196), Prob: 0.0003
-Token: ' Words' (ID: 27630), Prob: 0.0002
-Token: ' Get' (ID: 2126), Prob: 0.0002
-Token: ' Review' (ID: 10294), Prob: 0.0002
-Token: ' Yeah' (ID: 21607), Prob: 0.0002
-Token: ' Think' (ID: 21149), Prob: 0.0002
-Token: ' Hmm' (ID: 88190), Prob: 0.0002
-Token: ' Make' (ID: 7405), Prob: 0.0002
-Token: ' Mention' (ID: 85148), Prob: 0.0001
-Token: ' check' (ID: 1779), Prob: 0.0001
-Token: ' Yes' (ID: 7414), Prob: 0.0001
-Token: ' Watch' (ID: 10357), Prob: 0.0001
-Token: ' Aim' (ID: 70615), Prob: 0.0001
-Token: ' Write' (ID: 9645), Prob: 0.0001
-Token: ' Balance' (ID: 30846), Prob: 0.0001
-Token: ' Control' (ID: 7779), Prob: 0.0001
-Token: ' Feel' (ID: 31733), Prob: 0.0001
-Token: ' Rev' (ID: 10107), Prob: 0.0001
-Token: ' Proof' (ID: 36991), Prob: 0.0001
-Token: ' Structure' (ID: 28596), Prob: 0.0001
-Token: ' Since' (ID: 8704), Prob: 0.0001
-Token: ' Practice' (ID: 26984), Prob: 0.0001
-Token: ' Show' (ID: 6928), Prob: 0.0001
-Token: ' Final' (ID: 13023), Prob: 0.0001
-Token: ' Incorpor' (ID: 53704), Prob: 0.0001
-Token: ' Lastly' (ID: 70709), Prob: 0.0000
-Token: ' Replace' (ID: 29558), Prob: 0.0000
-Token: ' Please' (ID: 5209), Prob: 0.0000
-Token: ' also' (ID: 1083), Prob: 0.0000
-Token: ' Allow' (ID: 26530), Prob: 0.0000
-Token: ' Wrap' (ID: 42187), Prob: 0.0000
-Token: 'Check' (ID: 3973), Prob: 0.0000
-Token: ' Look' (ID: 9192), Prob: 0.0000
-Token: ' Ask' (ID: 20437), Prob: 0.0000
-Token: ' Craft' (ID: 24009), Prob: 0.0000
+Token: ' begin' (ID: 3161), Prob: 0.1338
+Token: ' discuss' (ID: 4263), Prob: 0.0811
+Token: ' form' (ID: 1352), Prob: 0.0718
+Token: ' share' (ID: 4332), Prob: 0.0557
+Token: ' interact' (ID: 16282), Prob: 0.0493
+Token: ' develop' (ID: 2225), Prob: 0.0435
+Token: ' talk' (ID: 3061), Prob: 0.0435
+Token: ' exchange' (ID: 9289), Prob: 0.0435
+Token: ' communicate' (ID: 19032), Prob: 0.0383
+Token: ' engage' (ID: 16579), Prob: 0.0339
+Token: ' become' (ID: 3635), Prob: 0.0298
+Token: ' create' (ID: 1855), Prob: 0.0205
+Token: ' start' (ID: 1191), Prob: 0.0170
+Token: ' build' (ID: 1936), Prob: 0.0117
+Token: ' establish' (ID: 5695), Prob: 0.0110
+Token: ' speak' (ID: 6468), Prob: 0.0081
+Token: ' bond' (ID: 10815), Prob: 0.0071
+Token: ' learn' (ID: 3960), Prob: 0.0059
+Token: ' realize' (ID: 13083), Prob: 0.0055
+Token: ' converse' (ID: 94240), Prob: 0.0043
+Token: ' understand' (ID: 3535), Prob: 0.0040
+Token: ' find' (ID: 1477), Prob: 0.0038
+Token: ' grow' (ID: 3063), Prob: 0.0038
+Token: ' express' (ID: 3158), Prob: 0.0033
+Token: ' connect' (ID: 4564), Prob: 0.0031
+Token: ' decide' (ID: 10279), Prob: 0.0031
+Token: ' make' (ID: 1281), Prob: 0.0030
+Token: ' explore' (ID: 13186), Prob: 0.0030
+Token: ' discover' (ID: 6997), Prob: 0.0028
+Token: ' come' (ID: 2525), Prob: 0.0026
+Token: ' take' (ID: 1896), Prob: 0.0025
+Token: ' part' (ID: 949), Prob: 0.0022
+Token: ' work' (ID: 975), Prob: 0.0022
+Token: ' fall' (ID: 4399), Prob: 0.0022
+Token: ' resolve' (ID: 8830), Prob: 0.0022
+Token: ' dialogue' (ID: 21276), Prob: 0.0022
+Token: ' continue' (ID: 3060), Prob: 0.0020
+Token: ' eventually' (ID: 9583), Prob: 0.0020
+Token: ' relate' (ID: 28143), Prob: 0.0019
+Token: ' tell' (ID: 3291), Prob: 0.0017
+Token: ' live' (ID: 3887), Prob: 0.0017
+Token: ' spend' (ID: 8329), Prob: 0.0017
+Token: ' reflect' (ID: 8708), Prob: 0.0017
+Token: ' initiate' (ID: 38101), Prob: 0.0015
+Token: ' end' (ID: 835), Prob: 0.0014
+Token: ' experience' (ID: 3139), Prob: 0.0014
+Token: ' perform' (ID: 2736), Prob: 0.0012
+Token: ' explain' (ID: 10339), Prob: 0.0011
+Token: ' reveal' (ID: 16400), Prob: 0.0011
+Token: ' collaborate' (ID: 50596), Prob: 0.0011
+Token: ' negotiate' (ID: 36567), Prob: 0.0010
+Token: ' finally' (ID: 5499), Prob: 0.0009
+Token: ' something' (ID: 2494), Prob: 0.0007
+Token: ' open' (ID: 1787), Prob: 0.0007
+Token: ' describe' (ID: 7512), Prob: 0.0007
+Token: ' enter' (ID: 3725), Prob: 0.0007
+Token: ' trade' (ID: 6559), Prob: 0.0007
+Token: ' one' (ID: 825), Prob: 0.0006
+Token: ' choose' (ID: 5157), Prob: 0.0006
+Token: ' introduce' (ID: 19131), Prob: 0.0006
+Token: ' conclude' (ID: 31094), Prob: 0.0006
+Token: ' cross' (ID: 5312), Prob: 0.0006
+Token: ' greet' (ID: 40786), Prob: 0.0006
+Token: ' later' (ID: 2937), Prob: 0.0005
+Token: ' confront' (ID: 16877), Prob: 0.0005
+Token: ' leave' (ID: 5274), Prob: 0.0005
+Token: ' encounter' (ID: 12828), Prob: 0.0005
+Token: ' reconnect' (ID: 50036), Prob: 0.0005
+Token: ' show' (ID: 1473), Prob: 0.0005
+Token: ' give' (ID: 2968), Prob: 0.0005
+Token: ' deal' (ID: 3484), Prob: 0.0005
+Token: ' get' (ID: 633), Prob: 0.0005
+Token: ' represent' (ID: 4009), Prob: 0.0005
+Token: ' proceed' (ID: 10354), Prob: 0.0004
+Token: ' reconcile' (ID: 63408), Prob: 0.0004
+Token: ' agree' (ID: 7503), Prob: 0.0004
+Token: ' overcome' (ID: 22279), Prob: 0.0004
+Token: ' forge' (ID: 56628), Prob: 0.0004
+Token: ' try' (ID: 1430), Prob: 0.0004
+Token: ' bring' (ID: 4446), Prob: 0.0004
+Token: ' attempt' (ID: 4774), Prob: 0.0004
+Token: ' convers' (ID: 7517), Prob: 0.0004
+Token: ' plan' (ID: 3119), Prob: 0.0004
+Token: ' meet' (ID: 3367), Prob: 0.0004
+Token: ' complete' (ID: 4583), Prob: 0.0004
+Token: ' conversation' (ID: 10435), Prob: 0.0004
+Token: ' ask' (ID: 2548), Prob: 0.0003
+Token: ' walk' (ID: 4227), Prob: 0.0003
 
 == Ranked Concepts (Clusters) ==
-Rank 1 | Centroid: ' Check' | Score: 0.5898
-  Tokens: [' Check', ' check', 'Check']
-Rank 2 | Centroid: ' Highlight' | Score: 0.1172
-  Tokens: [' Avoid', ' Highlight', ' Consider', ' Mention']
-Rank 3 | Centroid: ' Let' | Score: 0.0923
-  Tokens: [' Let', ' Need']
-Rank 4 | Centroid: ' Also' | Score: 0.0708
-  Tokens: [' Also', ' also']
-Rank 5 | Centroid: ' Yeah' | Score: 0.0364
-  Tokens: [' Alright', ' Okay', ' Yeah', ' Hmm', ' Yes']
-Rank 6 | Centroid: ' Replace' | Score: 0.0298
-  Tokens: [' Keep', ' Combine', ' Replace']
-Rank 7 | Centroid: ' Perhaps' | Score: 0.0136
-  Tokens: [' Maybe', ' Perhaps', ' Could', ' Since', ' Please']
-Rank 8 | Centroid: ' Get' | Score: 0.0095
-  Tokens: [' Use', ' Add', ' Get', ' Make', ' Show']
-Rank 9 | Centroid: ' End' | Score: 0.0027
-  Tokens: [' End', ' Start']
-Rank 10 | Centroid: ' Ensure' | Score: 0.0024
-  Tokens: [' Ensure', ' Allow']
-Rank 11 | Centroid: ' Test' | Score: 0.0023
-  Tokens: [' Double', ' Con', ' Test']
-Rank 12 | Centroid: ' Finally' | Score: 0.0020
-  Tokens: [' Finally', ' Final', ' Lastly']
-Rank 13 | Centroid: ' Incorpor' | Score: 0.0017
-  Tokens: [' Include', ' Adjust', ' Incorpor']
-Rank 14 | Centroid: ' Try' | Score: 0.0016
-  Tokens: [' Try', ' Think', ' Look', ' Ask']
-Rank 15 | Centroid: ' Write' | Score: 0.0014
-  Tokens: [' Wait', ' Read', ' Watch', ' Write', ' Wrap']
-Rank 16 | Centroid: ' Focus' | Score: 0.0009
-  Tokens: [' Focus', ' Aim']
-Rank 17 | Centroid: ' Review' | Score: 0.0004
-  Tokens: [' Review', ' Rev', ' Proof']
-Rank 18 | Centroid: ' Words' | Score: 0.0003
-  Tokens: [' Words', ' Feel']
-Rank 19 | Centroid: ' Control' | Score: 0.0003
-  Tokens: [' Balance', ' Control', ' Structure']
-Rank 20 | Centroid: ' Practice' | Score: 0.0001
-  Tokens: [' Practice', ' Craft']
+Rank 1 | Centroid: ' start' | Score: 0.1523
+  Tokens: [' begin', ' start', ' end']
+Rank 2 | Centroid: ' talk' | Score: 0.1328
+  Tokens: [' discuss', ' talk', ' speak', ' ask']
+Rank 3 | Centroid: ' create' | Score: 0.0757
+  Tokens: [' develop', ' create', ' build']
+Rank 4 | Centroid: ' collaborate' | Score: 0.0747
+  Tokens: [' communicate', ' engage', ' collaborate', ' negotiate', ' greet']
+Rank 5 | Centroid: ' form' | Score: 0.0718
+  Tokens: [' form']
+Rank 6 | Centroid: ' share' | Score: 0.0557
+  Tokens: [' share']
+Rank 7 | Centroid: ' interact' | Score: 0.0493
+  Tokens: [' interact']
+Rank 8 | Centroid: ' trade' | Score: 0.0461
+  Tokens: [' exchange', ' live', ' trade', ' walk']
+Rank 9 | Centroid: ' become' | Score: 0.0393
+  Tokens: [' become', ' grow', ' come', ' fall', ' leave', ' bring']
+Rank 10 | Centroid: ' decide' | Score: 0.0143
+  Tokens: [' realize', ' understand', ' decide', ' choose', ' conclude', ' agree']
+Rank 11 | Centroid: ' establish' | Score: 0.0140
+  Tokens: [' establish', ' resolve', ' reconcile', ' forge']
+Rank 12 | Centroid: ' learn' | Score: 0.0097
+  Tokens: [' learn', ' find']
+Rank 13 | Centroid: ' bond' | Score: 0.0074
+  Tokens: [' bond', ' plan']
+Rank 14 | Centroid: ' conversation' | Score: 0.0072
+  Tokens: [' converse', ' dialogue', ' convers', ' conversation']
+Rank 15 | Centroid: ' give' | Score: 0.0063
+  Tokens: [' make', ' take', ' give', ' get']
+Rank 16 | Centroid: ' explore' | Score: 0.0057
+  Tokens: [' explore', ' discover']
+Rank 17 | Centroid: ' one' | Score: 0.0057
+  Tokens: [' part', ' work', ' something', ' one']
+Rank 18 | Centroid: ' represent' | Score: 0.0055
+  Tokens: [' express', ' reflect', ' represent']
+Rank 19 | Centroid: ' explain' | Score: 0.0050
+  Tokens: [' tell', ' explain', ' reveal', ' describe', ' show']
+Rank 20 | Centroid: ' connect' | Score: 0.0037
+  Tokens: [' connect', ' reconnect']
+Rank 21 | Centroid: ' eventually' | Score: 0.0035
+  Tokens: [' eventually', ' finally', ' later']
+Rank 22 | Centroid: ' encounter' | Score: 0.0025
+  Tokens: [' experience', ' confront', ' encounter']
+Rank 23 | Centroid: ' continue' | Score: 0.0025
+  Tokens: [' continue', ' proceed']
+Rank 24 | Centroid: ' spend' | Score: 0.0022
+  Tokens: [' spend', ' deal']
+Rank 25 | Centroid: ' relate' | Score: 0.0019
+  Tokens: [' relate']
+Rank 26 | Centroid: ' open' | Score: 0.0016
+  Tokens: [' open', ' cross', ' complete']
+Rank 27 | Centroid: ' initiate' | Score: 0.0015
+  Tokens: [' initiate']
+Rank 28 | Centroid: ' perform' | Score: 0.0012
+  Tokens: [' perform']
+Rank 29 | Centroid: ' enter' | Score: 0.0010
+  Tokens: [' enter', ' meet']
+Rank 30 | Centroid: ' try' | Score: 0.0008
+  Tokens: [' try', ' attempt']
+Rank 31 | Centroid: ' introduce' | Score: 0.0006
+  Tokens: [' introduce']
+Rank 32 | Centroid: ' overcome' | Score: 0.0004
+  Tokens: [' overcome']
 
 **Chosen Concept:** Rank 1

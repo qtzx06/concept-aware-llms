@@ -1,0 +1,144 @@
+--- Step 69 Log ---
+
+== Filtered Candidates ==
+Token: ' prior' (ID: 4867), Prob: 0.0645
+Token: ' prompting' (ID: 49645), Prob: 0.0500
+Token: ' trying' (ID: 4460), Prob: 0.0269
+Token: ' knowing' (ID: 14063), Prob: 0.0269
+Token: ' asking' (ID: 10161), Prob: 0.0237
+Token: ' wanting' (ID: 19211), Prob: 0.0162
+Token: ' intent' (ID: 7385), Prob: 0.0153
+Token: ' expecting' (ID: 22331), Prob: 0.0153
+Token: ' permission' (ID: 7882), Prob: 0.0119
+Token: ' guidance' (ID: 18821), Prob: 0.0119
+Token: ' previous' (ID: 3681), Prob: 0.0093
+Token: ' thinking' (ID: 7274), Prob: 0.0087
+Token: ' expectation' (ID: 30193), Prob: 0.0087
+Token: ' getting' (ID: 3709), Prob: 0.0082
+Token: ' leading' (ID: 6388), Prob: 0.0082
+Token: ' pushing' (ID: 17461), Prob: 0.0068
+Token: ' authority' (ID: 11198), Prob: 0.0060
+Token: ' consent' (ID: 14433), Prob: 0.0053
+Token: ' proper' (ID: 6169), Prob: 0.0050
+Token: ' giving' (ID: 7086), Prob: 0.0050
+Token: ' intention' (ID: 14602), Prob: 0.0050
+Token: ' expectations' (ID: 16665), Prob: 0.0041
+Token: ' invitation' (ID: 28688), Prob: 0.0030
+Token: ' effort' (ID: 5041), Prob: 0.0028
+Token: ' planning' (ID: 9115), Prob: 0.0028
+Token: ' intentions' (ID: 33234), Prob: 0.0028
+Token: ' intending' (ID: 84339), Prob: 0.0028
+Token: ' understanding' (ID: 8660), Prob: 0.0027
+Token: ' guiding' (ID: 50246), Prob: 0.0025
+Token: ' pressure' (ID: 7262), Prob: 0.0023
+Token: ' telling' (ID: 11629), Prob: 0.0023
+Token: ' motivation' (ID: 24798), Prob: 0.0021
+Token: ' initiating' (ID: 78416), Prob: 0.0021
+Token: ' purpose' (ID: 7428), Prob: 0.0019
+Token: ' realizing' (ID: 43014), Prob: 0.0019
+Token: ' warning' (ID: 9958), Prob: 0.0018
+Token: ' explanation' (ID: 16148), Prob: 0.0016
+Token: ' urging' (ID: 42576), Prob: 0.0016
+Token: ' hesitation' (ID: 64337), Prob: 0.0016
+Token: ' persuasion' (ID: 97124), Prob: 0.0016
+Token: ' direction' (ID: 5106), Prob: 0.0015
+Token: ' usual' (ID: 13475), Prob: 0.0015
+Token: ' forcing' (ID: 24913), Prob: 0.0015
+Token: ' initial' (ID: 2856), Prob: 0.0014
+Token: ' reason' (ID: 2874), Prob: 0.0014
+Token: ' making' (ID: 3259), Prob: 0.0014
+Token: ' seeking' (ID: 10887), Prob: 0.0013
+Token: ' inviting' (ID: 41192), Prob: 0.0013
+Token: ' direct' (ID: 2118), Prob: 0.0013
+Token: ' waiting' (ID: 8580), Prob: 0.0013
+Token: ' good' (ID: 1661), Prob: 0.0012
+Token: ' expected' (ID: 3601), Prob: 0.0012
+Token: ' due' (ID: 4152), Prob: 0.0011
+Token: ' explaining' (ID: 25021), Prob: 0.0011
+Token: ' showing' (ID: 9027), Prob: 0.0010
+Token: ' communication' (ID: 10535), Prob: 0.0010
+Token: ' saying' (ID: 5488), Prob: 0.0009
+Token: ' agreeing' (ID: 38327), Prob: 0.0009
+Token: ' much' (ID: 1753), Prob: 0.0009
+Token: ' control' (ID: 2524), Prob: 0.0009
+Token: ' following' (ID: 2701), Prob: 0.0009
+Token: ' persu' (ID: 23685), Prob: 0.0008
+Token: ' coax' (ID: 90866), Prob: 0.0008
+Token: ' someone' (ID: 4325), Prob: 0.0008
+Token: ' meeting' (ID: 6438), Prob: 0.0008
+Token: ' instructions' (ID: 11221), Prob: 0.0008
+Token: ' considering' (ID: 12831), Prob: 0.0008
+Token: ' awareness' (ID: 17526), Prob: 0.0008
+Token: ' reasoning' (ID: 32711), Prob: 0.0007
+Token: ' needing' (ID: 32821), Prob: 0.0007
+Token: ' desire' (ID: 12591), Prob: 0.0007
+Token: ' talking' (ID: 7404), Prob: 0.0006
+Token: ' approval' (ID: 14427), Prob: 0.0006
+Token: ' consulting' (ID: 30731), Prob: 0.0006
+Token: ' using' (ID: 1667), Prob: 0.0006
+Token: ' turning' (ID: 13054), Prob: 0.0006
+Token: ' convincing' (ID: 39561), Prob: 0.0006
+Token: ' motives' (ID: 51040), Prob: 0.0006
+Token: ' words' (ID: 4244), Prob: 0.0005
+Token: ' previously' (ID: 8597), Prob: 0.0005
+Token: ' fore' (ID: 2241), Prob: 0.0005
+Token: ' advice' (ID: 9462), Prob: 0.0005
+Token: ' notice' (ID: 5293), Prob: 0.0005
+Token: ' earlier' (ID: 6788), Prob: 0.0005
+Token: ' calling' (ID: 8098), Prob: 0.0004
+
+== Ranked Concepts (Clusters) ==
+Rank 1 | Centroid: ' previous' | Score: 0.0776
+  Tokens: [' prior', ' previous', ' usual', ' initial', ' previously', ' earlier']
+Rank 2 | Centroid: ' urging' | Score: 0.0601
+  Tokens: [' prompting', ' pushing', ' urging', ' forcing']
+Rank 3 | Centroid: ' wanting' | Score: 0.0452
+  Tokens: [' trying', ' wanting', ' seeking', ' needing']
+Rank 4 | Centroid: ' knowing' | Score: 0.0383
+  Tokens: [' knowing', ' thinking', ' realizing', ' considering']
+Rank 5 | Centroid: ' expectation' | Score: 0.0293
+  Tokens: [' expecting', ' expectation', ' expectations', ' expected']
+Rank 6 | Centroid: ' saying' | Score: 0.0286
+  Tokens: [' asking', ' telling', ' showing', ' saying', ' talking']
+Rank 7 | Centroid: ' intention' | Score: 0.0278
+  Tokens: [' intent', ' intention', ' intentions', ' intending', ' purpose']
+Rank 8 | Centroid: ' permission' | Score: 0.0269
+  Tokens: [' permission', ' authority', ' consent', ' invitation', ' approval']
+Rank 9 | Centroid: ' getting' | Score: 0.0156
+  Tokens: [' getting', ' giving', ' making', ' turning', ' calling']
+Rank 10 | Centroid: ' guidance' | Score: 0.0132
+  Tokens: [' guidance', ' instructions', ' advice']
+Rank 11 | Centroid: ' leading' | Score: 0.0107
+  Tokens: [' leading', ' guiding']
+Rank 12 | Centroid: ' proper' | Score: 0.0096
+  Tokens: [' proper', ' good', ' due', ' much', ' following', ' using']
+Rank 13 | Centroid: ' awareness' | Score: 0.0057
+  Tokens: [' understanding', ' warning', ' awareness', ' notice']
+Rank 14 | Centroid: ' persu' | Score: 0.0054
+  Tokens: [' hesitation', ' persuasion', ' persu', ' coax', ' convincing']
+Rank 15 | Centroid: ' motivation' | Score: 0.0048
+  Tokens: [' motivation', ' reason', ' reasoning', ' motives']
+Rank 16 | Centroid: ' initiating' | Score: 0.0043
+  Tokens: [' initiating', ' inviting', ' agreeing']
+Rank 17 | Centroid: ' effort' | Score: 0.0035
+  Tokens: [' effort', ' desire']
+Rank 18 | Centroid: ' planning' | Score: 0.0034
+  Tokens: [' planning', ' consulting']
+Rank 19 | Centroid: ' direction' | Score: 0.0028
+  Tokens: [' direction', ' direct']
+Rank 20 | Centroid: ' explanation' | Score: 0.0027
+  Tokens: [' explanation', ' explaining']
+Rank 21 | Centroid: ' communication' | Score: 0.0024
+  Tokens: [' communication', ' control', ' words']
+Rank 22 | Centroid: ' pressure' | Score: 0.0023
+  Tokens: [' pressure']
+Rank 23 | Centroid: ' waiting' | Score: 0.0013
+  Tokens: [' waiting']
+Rank 24 | Centroid: ' someone' | Score: 0.0008
+  Tokens: [' someone']
+Rank 25 | Centroid: ' meeting' | Score: 0.0008
+  Tokens: [' meeting']
+Rank 26 | Centroid: ' fore' | Score: 0.0005
+  Tokens: [' fore']
+
+**Chosen Concept:** Rank 1

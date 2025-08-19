@@ -1,81 +1,118 @@
 --- Step 134 Log ---
 
 == Filtered Candidates ==
-Token: ' points' (ID: 3501), Prob: 0.9961
-Token: ' could' (ID: 1410), Prob: 0.0002
-Token: ' Points' (ID: 20725), Prob: 0.0001
-Token: ' point' (ID: 1459), Prob: 0.0001
-Token: ' based' (ID: 3118), Prob: 0.0000
-Token: ' options' (ID: 2606), Prob: 0.0000
-Token: ' choices' (ID: 11454), Prob: 0.0000
-Token: ' depends' (ID: 13798), Prob: 0.0000
-Token: ' might' (ID: 2578), Prob: 0.0000
-Token: '(points' (ID: 32450), Prob: 0.0000
-Token: ' questions' (ID: 4755), Prob: 0.0000
-Token: ' may' (ID: 1231), Prob: 0.0000
-Token: ' would' (ID: 1035), Prob: 0.0000
-Token: ' please' (ID: 4486), Prob: 0.0000
-Token: ' four' (ID: 3040), Prob: 0.0000
-Token: ' according' (ID: 4092), Prob: 0.0000
-Token: 'points' (ID: 7706), Prob: 0.0000
-Token: ' must' (ID: 1969), Prob: 0.0000
-Token: ' puntos' (ID: 60889), Prob: 0.0000
-Token: 'Points' (ID: 11411), Prob: 0.0000
-Token: ' seems' (ID: 4977), Prob: 0.0000
-Token: '_points' (ID: 12928), Prob: 0.0000
-Token: ' Point' (ID: 5126), Prob: 0.0000
-Token: ' checks' (ID: 12341), Prob: 0.0000
-Token: ' possible' (ID: 3204), Prob: 0.0000
-Token: ' needs' (ID: 3880), Prob: 0.0000
-Token: ' yes' (ID: 9834), Prob: 0.0000
-Token: ' whether' (ID: 3425), Prob: 0.0000
-Token: ' instructions' (ID: 11221), Prob: 0.0000
-Token: ' ends' (ID: 10335), Prob: 0.0000
-Token: ' sentences' (ID: 22870), Prob: 0.0000
-Token: ' correct' (ID: 4396), Prob: 0.0000
-Token: ' errors' (ID: 5975), Prob: 0.0000
-Token: ' contains' (ID: 5610), Prob: 0.0000
-Token: ' makes' (ID: 3643), Prob: 0.0000
-Token: ' key' (ID: 1376), Prob: 0.0000
-Token: ' pairs' (ID: 13530), Prob: 0.0000
-Token: ' possibilities' (ID: 23607), Prob: 0.0000
-Token: '	points' (ID: 67499), Prob: 0.0000
-Token: ' cannot' (ID: 4157), Prob: 0.0000
-Token: ' cells' (ID: 7761), Prob: 0.0000
-Token: ' boxes' (ID: 14697), Prob: 0.0000
-Token: ' correctly' (ID: 12440), Prob: 0.0000
-Token: ' details' (ID: 3565), Prob: 0.0000
-Token: ' answers' (ID: 11253), Prob: 0.0000
-Token: ' made' (ID: 1865), Prob: 0.0000
-Token: ' since' (ID: 2474), Prob: 0.0000
-Token: ' requires' (ID: 7460), Prob: 0.0000
+Token: ' Let' (ID: 6771), Prob: 0.2793
+Token: ' Also' (ID: 7281), Prob: 0.1689
+Token: ' Need' (ID: 14656), Prob: 0.1025
+Token: ' Make' (ID: 7405), Prob: 0.0903
+Token: ' Ensure' (ID: 29279), Prob: 0.0903
+Token: ' Check' (ID: 4248), Prob: 0.0293
+Token: ' Alright' (ID: 97593), Prob: 0.0259
+Token: ' Add' (ID: 2691), Prob: 0.0228
+Token: ' Keep' (ID: 13655), Prob: 0.0178
+Token: ' Hmm' (ID: 88190), Prob: 0.0108
+Token: ' Wait' (ID: 13824), Prob: 0.0045
+Token: ' Think' (ID: 21149), Prob: 0.0045
+Token: ' End' (ID: 3972), Prob: 0.0040
+Token: ' Okay' (ID: 35439), Prob: 0.0040
+Token: ' Maybe' (ID: 10696), Prob: 0.0027
+Token: ' Structure' (ID: 28596), Prob: 0.0027
+Token: ' Finally' (ID: 17375), Prob: 0.0021
+Token: ' Use' (ID: 5443), Prob: 0.0020
+Token: ' Show' (ID: 6928), Prob: 0.0020
+Token: ' Wrap' (ID: 42187), Prob: 0.0018
+Token: ' Con' (ID: 1200), Prob: 0.0009
+Token: ' Include' (ID: 29734), Prob: 0.0009
+Token: ' Avoid' (ID: 34006), Prob: 0.0008
+Token: ' Focus' (ID: 25806), Prob: 0.0007
+Token: ' Start' (ID: 5145), Prob: 0.0006
+Token: ' Adding' (ID: 30370), Prob: 0.0005
+Token: ' Create' (ID: 4230), Prob: 0.0004
+Token: ' Highlight' (ID: 55994), Prob: 0.0004
+Token: ' Write' (ID: 9645), Prob: 0.0004
+Token: ' Try' (ID: 9735), Prob: 0.0003
+Token: ' Perhaps' (ID: 18765), Prob: 0.0003
+Token: ' Something' (ID: 24656), Prob: 0.0003
+Token: ' Ens' (ID: 57868), Prob: 0.0003
+Token: ' Could' (ID: 16503), Prob: 0.0003
+Token: ' Fin' (ID: 5649), Prob: 0.0002
+Token: ' Yeah' (ID: 21607), Prob: 0.0002
+Token: ' Final' (ID: 13023), Prob: 0.0002
+Token: ' Int' (ID: 1333), Prob: 0.0002
+Token: ' Ending' (ID: 73421), Prob: 0.0002
+Token: ' Since' (ID: 8704), Prob: 0.0001
+Token: ' Needs' (ID: 43140), Prob: 0.0001
+Token: ' Themes' (ID: 62087), Prob: 0.0001
+Token: ' Time' (ID: 4120), Prob: 0.0001
+Token: ' Plot' (ID: 26033), Prob: 0.0001
+Token: ' Double' (ID: 7093), Prob: 0.0001
+Token: ' Develop' (ID: 7843), Prob: 0.0001
+Token: ' Overall' (ID: 27893), Prob: 0.0001
+Token: ' Balance' (ID: 30846), Prob: 0.0001
+Token: ' Good' (ID: 7684), Prob: 0.0001
+Token: ' Combine' (ID: 46812), Prob: 0.0001
+Token: ' Sound' (ID: 14594), Prob: 0.0001
+Token: ' Finish' (ID: 35533), Prob: 0.0001
+Token: ' Including' (ID: 55121), Prob: 0.0001
+Token: ' Sounds' (ID: 44141), Prob: 0.0001
+Token: ' Work' (ID: 5547), Prob: 0.0001
+Token: ' Word' (ID: 9322), Prob: 0.0001
+Token: ' Get' (ID: 2126), Prob: 0.0001
+Token: ' Story' (ID: 15106), Prob: 0.0001
+Token: ' Build' (ID: 7854), Prob: 0.0001
+Token: ' Title' (ID: 10869), Prob: 0.0001
+Token: ' Words' (ID: 27630), Prob: 0.0001
+Token: ' Dialogue' (ID: 69489), Prob: 0.0001
+Token: ' Important' (ID: 43821), Prob: 0.0001
+Token: ' Style' (ID: 11913), Prob: 0.0000
+Token: ' Bring' (ID: 39124), Prob: 0.0000
 
 == Ranked Concepts (Clusters) ==
-Rank 1 | Centroid: ' points' | Score: 0.9961
-  Tokens: [' points', ' Points', ' point', '(points', 'points', ' puntos', 'Points', '_points', ' Point', '\tpoints']
-Rank 2 | Centroid: ' may' | Score: 0.0002
-  Tokens: [' could', ' might', ' may', ' would', ' must', ' cannot']
-Rank 3 | Centroid: ' according' | Score: 0.0000
-  Tokens: [' based', ' please', ' according', ' since']
-Rank 4 | Centroid: ' options' | Score: 0.0000
-  Tokens: [' options', ' choices']
-Rank 5 | Centroid: ' requires' | Score: 0.0000
-  Tokens: [' depends', ' seems', ' needs', ' ends', ' contains', ' requires']
-Rank 6 | Centroid: ' questions' | Score: 0.0000
-  Tokens: [' questions', ' checks', ' errors', ' answers']
-Rank 7 | Centroid: ' sentences' | Score: 0.0000
-  Tokens: [' instructions', ' sentences', ' pairs', ' cells', ' boxes']
-Rank 8 | Centroid: ' four' | Score: 0.0000
-  Tokens: [' four', ' key']
-Rank 9 | Centroid: ' yes' | Score: 0.0000
-  Tokens: [' yes', ' whether']
-Rank 10 | Centroid: ' possible' | Score: 0.0000
-  Tokens: [' possible', ' possibilities']
-Rank 11 | Centroid: ' correct' | Score: 0.0000
-  Tokens: [' correct', ' correctly']
-Rank 12 | Centroid: ' makes' | Score: 0.0000
-  Tokens: [' makes', ' made']
-Rank 13 | Centroid: ' details' | Score: 0.0000
-  Tokens: [' details']
+Rank 1 | Centroid: ' Try' | Score: 0.2832
+  Tokens: [' Let', ' Think', ' Try']
+Rank 2 | Centroid: ' Also' | Score: 0.1689
+  Tokens: [' Also', ' Since']
+Rank 3 | Centroid: ' Create' | Score: 0.1245
+  Tokens: [' Make', ' Check', ' Use', ' Show', ' Create', ' Write', ' Get', ' Build']
+Rank 4 | Centroid: ' Need' | Score: 0.1025
+  Tokens: [' Need', ' Needs']
+Rank 5 | Centroid: ' Ensure' | Score: 0.0913
+  Tokens: [' Ensure', ' Avoid', ' Ens']
+Rank 6 | Centroid: ' Okay' | Score: 0.0408
+  Tokens: [' Alright', ' Hmm', ' Okay', ' Yeah']
+Rank 7 | Centroid: ' Adding' | Score: 0.0243
+  Tokens: [' Add', ' Include', ' Adding', ' Including']
+Rank 8 | Centroid: ' Keep' | Score: 0.0178
+  Tokens: [' Keep', ' Bring']
+Rank 9 | Centroid: ' End' | Score: 0.0050
+  Tokens: [' End', ' Start', ' Fin', ' Ending', ' Finish']
+Rank 10 | Centroid: ' Wait' | Score: 0.0045
+  Tokens: [' Wait', ' Work']
+Rank 11 | Centroid: ' Perhaps' | Score: 0.0037
+  Tokens: [' Maybe', ' Perhaps', ' Something', ' Could']
+Rank 12 | Centroid: ' Style' | Score: 0.0031
+  Tokens: [' Structure', ' Themes', ' Story', ' Title', ' Dialogue', ' Style']
+Rank 13 | Centroid: ' Finally' | Score: 0.0023
+  Tokens: [' Finally', ' Final']
+Rank 14 | Centroid: ' Wrap' | Score: 0.0018
+  Tokens: [' Wrap']
+Rank 15 | Centroid: ' Int' | Score: 0.0013
+  Tokens: [' Con', ' Int', ' Time', ' Double']
+Rank 16 | Centroid: ' Focus' | Score: 0.0009
+  Tokens: [' Focus', ' Develop', ' Balance']
+Rank 17 | Centroid: ' Highlight' | Score: 0.0004
+  Tokens: [' Highlight']
+Rank 18 | Centroid: ' Sound' | Score: 0.0002
+  Tokens: [' Sound', ' Sounds']
+Rank 19 | Centroid: ' Good' | Score: 0.0002
+  Tokens: [' Good', ' Important']
+Rank 20 | Centroid: ' Word' | Score: 0.0001
+  Tokens: [' Word', ' Words']
+Rank 21 | Centroid: ' Plot' | Score: 0.0001
+  Tokens: [' Plot']
+Rank 22 | Centroid: ' Overall' | Score: 0.0001
+  Tokens: [' Overall']
+Rank 23 | Centroid: ' Combine' | Score: 0.0001
+  Tokens: [' Combine']
 
 **Chosen Concept:** Rank 1

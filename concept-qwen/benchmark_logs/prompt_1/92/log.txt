@@ -1,108 +1,151 @@
 --- Step 92 Log ---
 
 == Filtered Candidates ==
-Token: ' use' (ID: 990), Prob: 0.0825
-Token: ' using' (ID: 1667), Prob: 0.0391
-Token: ' exactly' (ID: 6896), Prob: 0.0391
-Token: ' start' (ID: 1191), Prob: 0.0184
-Token: ' starting' (ID: 5916), Prob: 0.0143
-Token: ' must' (ID: 1969), Prob: 0.0127
-Token: ' written' (ID: 5326), Prob: 0.0127
-Token: ' one' (ID: 825), Prob: 0.0099
-Token: ' include' (ID: 2924), Prob: 0.0068
-Token: ' contain' (ID: 6644), Prob: 0.0064
-Token: ' two' (ID: 1378), Prob: 0.0047
-Token: ' avoid' (ID: 5648), Prob: 0.0047
-Token: ' without' (ID: 2041), Prob: 0.0044
-Token: ' three' (ID: 2326), Prob: 0.0041
-Token: ' including' (ID: 2670), Prob: 0.0041
-Token: ' single' (ID: 3175), Prob: 0.0039
-Token: ' make' (ID: 1281), Prob: 0.0036
-Token: ' containing' (ID: 8482), Prob: 0.0032
-Token: ' follow' (ID: 1795), Prob: 0.0022
-Token: ' within' (ID: 2878), Prob: 0.0022
-Token: ' end' (ID: 835), Prob: 0.0021
-Token: ' write' (ID: 3270), Prob: 0.0021
-Token: ' mention' (ID: 6286), Prob: 0.0021
-Token: ' describe' (ID: 7512), Prob: 0.0021
-Token: ' five' (ID: 4236), Prob: 0.0019
-Token: ' answer' (ID: 4226), Prob: 0.0017
-Token: ' uses' (ID: 5711), Prob: 0.0017
-Token: ' words' (ID: 4244), Prob: 0.0015
-Token: ' beginning' (ID: 7167), Prob: 0.0014
-Token: ' separated' (ID: 18663), Prob: 0.0013
-Token: ' consisting' (ID: 30606), Prob: 0.0013
-Token: ' made' (ID: 1865), Prob: 0.0013
-Token: ' four' (ID: 3040), Prob: 0.0013
-Token: ' contains' (ID: 5610), Prob: 0.0011
-Token: ' starts' (ID: 8471), Prob: 0.0010
-Token: ' begin' (ID: 3161), Prob: 0.0009
-Token: ' word' (ID: 3409), Prob: 0.0009
-Token: ' specify' (ID: 13837), Prob: 0.0009
-Token: ' less' (ID: 2686), Prob: 0.0009
-Token: ' following' (ID: 2701), Prob: 0.0009
-Token: ' cannot' (ID: 4157), Prob: 0.0009
-Token: ' consist' (ID: 6685), Prob: 0.0009
-Token: ' ending' (ID: 13391), Prob: 0.0008
-Token: ' composed' (ID: 23415), Prob: 0.0008
-Token: ' correct' (ID: 4396), Prob: 0.0008
-Token: ' formatted' (ID: 23126), Prob: 0.0008
-Token: ' comma' (ID: 31683), Prob: 0.0008
-Token: ' first' (ID: 1156), Prob: 0.0007
-Token: ' minimum' (ID: 8028), Prob: 0.0007
-Token: ' structured' (ID: 32930), Prob: 0.0007
-Token: ' maybe' (ID: 7196), Prob: 0.0007
-Token: ' followed' (ID: 8110), Prob: 0.0006
-Token: ' keep' (ID: 2506), Prob: 0.0006
-Token: ' multiple' (ID: 5248), Prob: 0.0006
-Token: ' eight' (ID: 8063), Prob: 0.0006
-Token: ' seven' (ID: 8094), Prob: 0.0006
-Token: ' explain' (ID: 10339), Prob: 0.0006
-Token: ' please' (ID: 4486), Prob: 0.0006
-Token: ' like' (ID: 1075), Prob: 0.0005
-Token: ' six' (ID: 4743), Prob: 0.0005
-Token: ' directly' (ID: 5961), Prob: 0.0005
-Token: ' every' (ID: 1449), Prob: 0.0005
-Token: ' focus' (ID: 5244), Prob: 0.0005
-Token: ' complete' (ID: 4583), Prob: 0.0005
-Token: ' completely' (ID: 6587), Prob: 0.0004
-Token: ' entirely' (ID: 11368), Prob: 0.0004
-Token: ' includes' (ID: 5646), Prob: 0.0004
-Token: ' clearly' (ID: 9355), Prob: 0.0004
-Token: ' state' (ID: 1584), Prob: 0.0004
-Token: ' total' (ID: 2790), Prob: 0.0004
-Token: ' except' (ID: 3650), Prob: 0.0004
+Token: ' understanding' (ID: 8660), Prob: 0.3633
+Token: ' trust' (ID: 6950), Prob: 0.2490
+Token: ' love' (ID: 2948), Prob: 0.0557
+Token: ' cultural' (ID: 12752), Prob: 0.0432
+Token: ' empathy' (ID: 47351), Prob: 0.0298
+Token: ' respect' (ID: 5091), Prob: 0.0181
+Token: ' shared' (ID: 6094), Prob: 0.0124
+Token: ' emotional' (ID: 14269), Prob: 0.0124
+Token: ' compassion' (ID: 29381), Prob: 0.0109
+Token: ' mutual' (ID: 26750), Prob: 0.0096
+Token: ' support' (ID: 1824), Prob: 0.0091
+Token: ' admiration' (ID: 65839), Prob: 0.0080
+Token: ' care' (ID: 2453), Prob: 0.0075
+Token: ' communication' (ID: 10535), Prob: 0.0075
+Token: ' friendship' (ID: 26509), Prob: 0.0067
+Token: ' personal' (ID: 4345), Prob: 0.0062
+Token: ' acceptance' (ID: 25505), Prob: 0.0059
+Token: ' deep' (ID: 5538), Prob: 0.0055
+Token: ' affection' (ID: 36705), Prob: 0.0049
+Token: ' growth' (ID: 6513), Prob: 0.0046
+Token: ' kindness' (ID: 44872), Prob: 0.0036
+Token: ' connection' (ID: 3633), Prob: 0.0033
+Token: ' authenticity' (ID: 53248), Prob: 0.0033
+Token: ' appreciation' (ID: 34896), Prob: 0.0028
+Token: ' honesty' (ID: 47848), Prob: 0.0026
+Token: ' sharing' (ID: 11560), Prob: 0.0023
+Token: ' self' (ID: 656), Prob: 0.0022
+Token: ' open' (ID: 1787), Prob: 0.0019
+Token: ' values' (ID: 2750), Prob: 0.0019
+Token: ' cooperation' (ID: 23046), Prob: 0.0019
+Token: ' learning' (ID: 6832), Prob: 0.0018
+Token: ' tolerance' (ID: 24098), Prob: 0.0017
+Token: ' comfort' (ID: 6838), Prob: 0.0015
+Token: ' commitment' (ID: 15155), Prob: 0.0015
+Token: ' truth' (ID: 8046), Prob: 0.0013
+Token: ' hope' (ID: 3900), Prob: 0.0012
+Token: ' independence' (ID: 23665), Prob: 0.0012
+Token: ' vulnerability' (ID: 33004), Prob: 0.0012
+Token: ' equality' (ID: 21777), Prob: 0.0012
+Token: ' warmth' (ID: 40363), Prob: 0.0012
+Token: ' understand' (ID: 3535), Prob: 0.0011
+Token: ' individual' (ID: 3842), Prob: 0.0011
+Token: ' healing' (ID: 21052), Prob: 0.0011
+Token: ' compromise' (ID: 29385), Prob: 0.0011
+Token: ' non' (ID: 2477), Prob: 0.0010
+Token: ' deeper' (ID: 19117), Prob: 0.0010
+Token: ' culture' (ID: 7674), Prob: 0.0009
+Token: ' genuine' (ID: 22011), Prob: 0.0009
+Token: ' growing' (ID: 7826), Prob: 0.0008
+Token: ' spiritual' (ID: 17849), Prob: 0.0008
+Token: ' caring' (ID: 29498), Prob: 0.0008
+Token: ' concern' (ID: 4643), Prob: 0.0008
+Token: ' passion' (ID: 11677), Prob: 0.0008
+Token: ' feelings' (ID: 15650), Prob: 0.0008
+Token: ' intimacy' (ID: 65164), Prob: 0.0008
+Token: ' different' (ID: 2155), Prob: 0.0007
+Token: ' underlying' (ID: 16533), Prob: 0.0007
+Token: ' collaboration' (ID: 20031), Prob: 0.0007
+Token: ' attraction' (ID: 32364), Prob: 0.0007
+Token: ' common' (ID: 4185), Prob: 0.0006
+Token: ' inner' (ID: 9179), Prob: 0.0006
+Token: ' depth' (ID: 7990), Prob: 0.0005
+Token: ' companions' (ID: 40857), Prob: 0.0005
+Token: ' gratitude' (ID: 45035), Prob: 0.0005
+Token: ' partnership' (ID: 15305), Prob: 0.0005
+Token: ' humor' (ID: 27385), Prob: 0.0005
+Token: ' forgiveness' (ID: 52050), Prob: 0.0005
+Token: ' harmony' (ID: 25281), Prob: 0.0005
+Token: ' encouragement' (ID: 50375), Prob: 0.0005
+Token: ' comprehension' (ID: 61094), Prob: 0.0005
+Token: ' emotions' (ID: 21261), Prob: 0.0005
+Token: ' purpose' (ID: 7428), Prob: 0.0004
+Token: ' strength' (ID: 8170), Prob: 0.0004
+Token: ' peace' (ID: 8919), Prob: 0.0004
+Token: ' sister' (ID: 12923), Prob: 0.0004
+Token: ' listening' (ID: 14289), Prob: 0.0004
+Token: ' belief' (ID: 16396), Prob: 0.0004
+Token: ' openness' (ID: 70060), Prob: 0.0004
+Token: ' knowledge' (ID: 6540), Prob: 0.0004
+Token: ' insight' (ID: 20017), Prob: 0.0004
+Token: ' emotion' (ID: 19772), Prob: 0.0004
+Token: ' effort' (ID: 5041), Prob: 0.0004
+Token: ' finding' (ID: 9271), Prob: 0.0004
+Token: ' consideration' (ID: 17879), Prob: 0.0004
+Token: ' creativity' (ID: 27597), Prob: 0.0004
+Token: ' loyalty' (ID: 31783), Prob: 0.0004
+Token: ' sincerity' (ID: 99126), Prob: 0.0004
+Token: ' interest' (ID: 2734), Prob: 0.0003
+Token: ' joy' (ID: 15888), Prob: 0.0003
+Token: ' life' (ID: 2272), Prob: 0.0003
 
 == Ranked Concepts (Clusters) ==
-Rank 1 | Centroid: ' uses' | Score: 0.1235
-  Tokens: [' use', ' using', ' uses']
-Rank 2 | Centroid: ' completely' | Score: 0.0425
-  Tokens: [' exactly', ' correct', ' directly', ' complete', ' completely', ' entirely', ' clearly', ' total']
-Rank 3 | Centroid: ' start' | Score: 0.0391
-  Tokens: [' start', ' starting', ' end', ' beginning', ' starts', ' begin', ' ending']
-Rank 4 | Centroid: ' make' | Score: 0.0184
-  Tokens: [' must', ' make', ' made', ' cannot']
-Rank 5 | Centroid: ' formatted' | Score: 0.0183
-  Tokens: [' written', ' write', ' separated', ' formatted', ' comma', ' structured']
-Rank 6 | Centroid: ' single' | Score: 0.0143
-  Tokens: [' one', ' single', ' multiple']
-Rank 7 | Centroid: ' contain' | Score: 0.0137
-  Tokens: [' contain', ' containing', ' consisting', ' contains', ' consist', ' composed']
-Rank 8 | Centroid: ' five' | Score: 0.0137
-  Tokens: [' two', ' three', ' five', ' four', ' eight', ' seven', ' six']
-Rank 9 | Centroid: ' explain' | Score: 0.0131
-  Tokens: [' avoid', ' mention', ' describe', ' answer', ' specify', ' keep', ' explain', ' focus']
-Rank 10 | Centroid: ' includes' | Score: 0.0113
-  Tokens: [' include', ' including', ' includes']
-Rank 11 | Centroid: ' without' | Score: 0.0095
-  Tokens: [' without', ' within', ' less', ' minimum', ' like', ' every', ' except']
-Rank 12 | Centroid: ' follow' | Score: 0.0037
-  Tokens: [' follow', ' following', ' followed']
-Rank 13 | Centroid: ' words' | Score: 0.0028
-  Tokens: [' words', ' word', ' state']
-Rank 14 | Centroid: ' maybe' | Score: 0.0012
-  Tokens: [' maybe', ' please']
-Rank 15 | Centroid: ' first' | Score: 0.0007
-  Tokens: [' first']
+Rank 1 | Centroid: ' understanding' | Score: 0.3652
+  Tokens: [' understanding', ' understand', ' comprehension', ' insight']
+Rank 2 | Centroid: ' trust' | Score: 0.2490
+  Tokens: [' trust']
+Rank 3 | Centroid: ' compassion' | Score: 0.0583
+  Tokens: [' empathy', ' compassion', ' admiration', ' affection', ' kindness', ' intimacy', ' gratitude']
+Rank 4 | Centroid: ' passion' | Score: 0.0569
+  Tokens: [' love', ' passion', ' joy']
+Rank 5 | Centroid: ' cultural' | Score: 0.0496
+  Tokens: [' cultural', ' growth', ' culture', ' growing']
+Rank 6 | Centroid: ' concern' | Score: 0.0283
+  Tokens: [' respect', ' support', ' concern', ' interest']
+Rank 7 | Centroid: ' shared' | Score: 0.0153
+  Tokens: [' shared', ' sharing', ' common']
+Rank 8 | Centroid: ' emotions' | Score: 0.0140
+  Tokens: [' emotional', ' feelings', ' emotions', ' emotion']
+Rank 9 | Centroid: ' collaboration' | Score: 0.0135
+  Tokens: [' friendship', ' connection', ' cooperation', ' collaboration', ' partnership', ' harmony']
+Rank 10 | Centroid: ' individual' | Score: 0.0125
+  Tokens: [' personal', ' self', ' individual', ' non', ' different', ' underlying', ' inner']
+Rank 11 | Centroid: ' companions' | Score: 0.0106
+  Tokens: [' mutual', ' companions', ' sister']
+Rank 12 | Centroid: ' tolerance' | Score: 0.0101
+  Tokens: [' acceptance', ' tolerance', ' commitment', ' compromise']
+Rank 13 | Centroid: ' authenticity' | Score: 0.0096
+  Tokens: [' authenticity', ' honesty', ' independence', ' equality', ' genuine', ' sincerity']
+Rank 14 | Centroid: ' care' | Score: 0.0084
+  Tokens: [' care', ' caring']
+Rank 15 | Centroid: ' communication' | Score: 0.0075
+  Tokens: [' communication']
+Rank 16 | Centroid: ' deep' | Score: 0.0070
+  Tokens: [' deep', ' deeper', ' depth']
+Rank 17 | Centroid: ' encouragement' | Score: 0.0042
+  Tokens: [' appreciation', ' attraction', ' encouragement', ' consideration']
+Rank 18 | Centroid: ' openness' | Score: 0.0036
+  Tokens: [' open', ' vulnerability', ' openness']
+Rank 19 | Centroid: ' learning' | Score: 0.0030
+  Tokens: [' learning', ' listening', ' knowledge', ' finding']
+Rank 20 | Centroid: ' comfort' | Score: 0.0026
+  Tokens: [' comfort', ' warmth']
+Rank 21 | Centroid: ' belief' | Score: 0.0024
+  Tokens: [' hope', ' purpose', ' belief', ' effort']
+Rank 22 | Centroid: ' values' | Score: 0.0022
+  Tokens: [' values', ' life']
+Rank 23 | Centroid: ' peace' | Score: 0.0022
+  Tokens: [' truth', ' strength', ' peace']
+Rank 24 | Centroid: ' spiritual' | Score: 0.0014
+  Tokens: [' spiritual', ' humor']
+Rank 25 | Centroid: ' healing' | Score: 0.0011
+  Tokens: [' healing']
+Rank 26 | Centroid: ' forgiveness' | Score: 0.0009
+  Tokens: [' forgiveness', ' loyalty']
+Rank 27 | Centroid: ' creativity' | Score: 0.0004
+  Tokens: [' creativity']
 
 **Chosen Concept:** Rank 1

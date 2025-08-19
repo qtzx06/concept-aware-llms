@@ -1,139 +1,157 @@
 --- Step 80 Log ---
 
 == Filtered Candidates ==
-Token: ' statement' (ID: 5114), Prob: 1.0000
-Token: ' sentence' (ID: 11652), Prob: 0.0000
-Token: ' answer' (ID: 4226), Prob: 0.0000
-Token: ' statements' (ID: 12239), Prob: 0.0000
-Token: ' Statement' (ID: 21756), Prob: 0.0000
-Token: ' final' (ID: 1590), Prob: 0.0000
-Token: 'statement' (ID: 24184), Prob: 0.0000
-Token: ' situation' (ID: 6534), Prob: 0.0000
-Token: ' story' (ID: 3364), Prob: 0.0000
-Token: ' stated' (ID: 10982), Prob: 0.0000
-Token: ' following' (ID: 2701), Prob: 0.0000
-Token: ' general' (ID: 4586), Prob: 0.0000
-Token: ' paragraph' (ID: 14311), Prob: 0.0000
-Token: ' conclusion' (ID: 16688), Prob: 0.0000
-Token: ' subject' (ID: 3832), Prob: 0.0000
-Token: ' question' (ID: 3405), Prob: 0.0000
-Token: ' phrase' (ID: 17133), Prob: 0.0000
-Token: ' given' (ID: 2661), Prob: 0.0000
-Token: ' student' (ID: 5458), Prob: 0.0000
-Token: ' original' (ID: 4024), Prob: 0.0000
-Token: ' choice' (ID: 5754), Prob: 0.0000
-Token: ' information' (ID: 1995), Prob: 0.0000
-Token: ' correct' (ID: 4396), Prob: 0.0000
-Token: ' claim' (ID: 3717), Prob: 0.0000
-Token: ' description' (ID: 4008), Prob: 0.0000
-Token: ' number' (ID: 1372), Prob: 0.0000
-Token: ' text' (ID: 1467), Prob: 0.0000
-Token: ' table' (ID: 1965), Prob: 0.0000
-Token: ' time' (ID: 882), Prob: 0.0000
-Token: ' response' (ID: 2033), Prob: 0.0000
-Token: ' meaning' (ID: 7290), Prob: 0.0000
-Token: ' study' (ID: 3920), Prob: 0.0000
-Token: ' summary' (ID: 12126), Prob: 0.0000
-Token: ' truth' (ID: 8046), Prob: 0.0000
-Token: ' assistant' (ID: 17847), Prob: 0.0000
-Token: ' two' (ID: 1378), Prob: 0.0000
-Token: ' message' (ID: 1943), Prob: 0.0000
-Token: ' change' (ID: 2297), Prob: 0.0000
-Token: ' argument' (ID: 5693), Prob: 0.0000
-Token: '	statement' (ID: 89566), Prob: 0.0000
-Token: ' stat' (ID: 2793), Prob: 0.0000
-Token: ' amount' (ID: 3311), Prob: 0.0000
-Token: ' sentiment' (ID: 25975), Prob: 0.0000
-Token: ' scene' (ID: 6109), Prob: 0.0000
-Token: ' expression' (ID: 7493), Prob: 0.0000
-Token: ' passage' (ID: 21085), Prob: 0.0000
-Token: ' letter' (ID: 6524), Prob: 0.0000
-Token: ' structure' (ID: 5944), Prob: 0.0000
-Token: ' suff' (ID: 8489), Prob: 0.0000
-Token: 'Statement' (ID: 8636), Prob: 0.0000
-Token: ' state' (ID: 1584), Prob: 0.0000
-Token: ' rest' (ID: 2732), Prob: 0.0000
-Token: ' solution' (ID: 6291), Prob: 0.0000
-Token: ' prompt' (ID: 9934), Prob: 0.0000
-Token: ' assertion' (ID: 27419), Prob: 0.0000
-Token: ' second' (ID: 2086), Prob: 0.0000
-Token: ' previous' (ID: 3681), Prob: 0.0000
-Token: ' moment' (ID: 4445), Prob: 0.0000
-Token: ' motion' (ID: 11379), Prob: 0.0000
-Token: ' assumption' (ID: 24335), Prob: 0.0000
-Token: ' reason' (ID: 2874), Prob: 0.0000
-Token: ' standard' (ID: 5297), Prob: 0.0000
-Token: ' premise' (ID: 40202), Prob: 0.0000
-Token: ' wording' (ID: 60227), Prob: 0.0000
-Token: ' one' (ID: 825), Prob: 0.0000
-Token: ' string' (ID: 914), Prob: 0.0000
-Token: ' user' (ID: 1196), Prob: 0.0000
-Token: ' theme' (ID: 6912), Prob: 0.0000
-Token: ' topic' (ID: 8544), Prob: 0.0000
-Token: ' suggestion' (ID: 23776), Prob: 0.0000
-Token: ' problem' (ID: 3491), Prob: 0.0000
-Token: ' comment' (ID: 3980), Prob: 0.0000
-Token: ' reasoning' (ID: 32711), Prob: 0.0000
-Token: ' entire' (ID: 4453), Prob: 0.0000
-Token: ' comparison' (ID: 12313), Prob: 0.0000
-Token: ' hypothesis' (ID: 30078), Prob: 0.0000
-Token: ' computer' (ID: 6366), Prob: 0.0000
-Token: ' photo' (ID: 6548), Prob: 0.0000
-Token: ' construction' (ID: 8086), Prob: 0.0000
-Token: ' scenario' (ID: 15048), Prob: 0.0000
-Token: ' stimulus' (ID: 38435), Prob: 0.0000
-Token: ' system' (ID: 1849), Prob: 0.0000
-Token: ' author' (ID: 3150), Prob: 0.0000
-Token: '_statement' (ID: 37404), Prob: 0.0000
+Token: ' village' (ID: 14126), Prob: 0.5000
+Token: ' child' (ID: 1682), Prob: 0.1621
+Token: ' tower' (ID: 21271), Prob: 0.0598
+Token: ' parents' (ID: 6562), Prob: 0.0320
+Token: ' parent' (ID: 2681), Prob: 0.0282
+Token: ' mother' (ID: 6554), Prob: 0.0249
+Token: ' villagers' (ID: 60821), Prob: 0.0220
+Token: ' father' (ID: 6981), Prob: 0.0194
+Token: ' family' (ID: 2997), Prob: 0.0171
+Token: ' elders' (ID: 60676), Prob: 0.0171
+Token: ' elder' (ID: 22130), Prob: 0.0151
+Token: ' story' (ID: 3364), Prob: 0.0133
+Token: ' grandmother' (ID: 38184), Prob: 0.0071
+Token: ' traditional' (ID: 8606), Prob: 0.0063
+Token: ' conflict' (ID: 12055), Prob: 0.0056
+Token: ' building' (ID: 4752), Prob: 0.0049
+Token: ' tree' (ID: 4916), Prob: 0.0041
+Token: ' teacher' (ID: 11079), Prob: 0.0041
+Token: ' community' (ID: 3942), Prob: 0.0036
+Token: ' traditions' (ID: 30906), Prob: 0.0030
+Token: ' tradition' (ID: 13815), Prob: 0.0025
+Token: ' old' (ID: 2310), Prob: 0.0023
+Token: ' children' (ID: 2841), Prob: 0.0023
+Token: ' guardian' (ID: 46032), Prob: 0.0022
+Token: ' boy' (ID: 8171), Prob: 0.0018
+Token: ' town' (ID: 6290), Prob: 0.0017
+Token: ' character' (ID: 3668), Prob: 0.0013
+Token: ' girl' (ID: 3743), Prob: 0.0011
+Token: ' house' (ID: 3753), Prob: 0.0010
+Token: ' challenge' (ID: 8645), Prob: 0.0010
+Token: ' neighbor' (ID: 9565), Prob: 0.0010
+Token: ' local' (ID: 2205), Prob: 0.0010
+Token: ' problem' (ID: 3491), Prob: 0.0009
+Token: ' wall' (ID: 7002), Prob: 0.0008
+Token: ' main' (ID: 1887), Prob: 0.0007
+Token: ' forest' (ID: 13638), Prob: 0.0007
+Token: ' grandfather' (ID: 37850), Prob: 0.0007
+Token: ' answer' (ID: 4226), Prob: 0.0005
+Token: ' walls' (ID: 14285), Prob: 0.0005
+Token: ' dad' (ID: 17760), Prob: 0.0005
+Token: ' setting' (ID: 6243), Prob: 0.0005
+Token: ' protagonist' (ID: 45584), Prob: 0.0005
+Token: ' environment' (ID: 4573), Prob: 0.0004
+Token: ' structure' (ID: 5944), Prob: 0.0004
+Token: ' twist' (ID: 26646), Prob: 0.0004
+Token: ' farmer' (ID: 36400), Prob: 0.0004
+Token: ' river' (ID: 14796), Prob: 0.0004
+Token: ' mountain' (ID: 16301), Prob: 0.0004
+Token: ' tallest' (ID: 81617), Prob: 0.0004
+Token: ' sister' (ID: 12923), Prob: 0.0003
+Token: ' toy' (ID: 21357), Prob: 0.0003
+Token: ' treasure' (ID: 31626), Prob: 0.0003
+Token: ' person' (ID: 1697), Prob: 0.0003
+Token: ' solution' (ID: 6291), Prob: 0.0003
+Token: ' elderly' (ID: 28820), Prob: 0.0003
+Token: ' grand' (ID: 6662), Prob: 0.0003
+Token: ' priest' (ID: 27086), Prob: 0.0003
+Token: ' rules' (ID: 5601), Prob: 0.0002
+Token: ' grandparents' (ID: 55335), Prob: 0.0002
+Token: ' older' (ID: 9014), Prob: 0.0002
+Token: ' author' (ID: 3150), Prob: 0.0002
+Token: ' adult' (ID: 6683), Prob: 0.0002
+Token: ' stone' (ID: 9798), Prob: 0.0002
+Token: ' sibling' (ID: 44223), Prob: 0.0002
+Token: ' result' (ID: 1102), Prob: 0.0002
+Token: ' fire' (ID: 3940), Prob: 0.0002
+Token: ' woman' (ID: 5220), Prob: 0.0002
+Token: ' builder' (ID: 7363), Prob: 0.0002
+Token: ' challenges' (ID: 11513), Prob: 0.0002
+Token: ' tall' (ID: 16217), Prob: 0.0002
+Token: ' woods' (ID: 32533), Prob: 0.0002
+Token: ' idea' (ID: 4522), Prob: 0.0002
+Token: ' wood' (ID: 7579), Prob: 0.0002
+Token: ' brother' (ID: 10641), Prob: 0.0002
+Token: ' goal' (ID: 5795), Prob: 0.0001
+Token: ' weather' (ID: 9104), Prob: 0.0001
+Token: ' siblings' (ID: 36683), Prob: 0.0001
+Token: ' response' (ID: 2033), Prob: 0.0001
+Token: ' mom' (ID: 3368), Prob: 0.0001
+Token: ' council' (ID: 14833), Prob: 0.0001
+Token: ' animal' (ID: 9864), Prob: 0.0001
+Token: ' garden' (ID: 13551), Prob: 0.0001
+Token: ' wooden' (ID: 22360), Prob: 0.0001
+Token: ' storyt' (ID: 40006), Prob: 0.0001
+Token: ' natural' (ID: 5810), Prob: 0.0001
+Token: ' materials' (ID: 7236), Prob: 0.0001
+Token: ' kid' (ID: 10369), Prob: 0.0001
+Token: ' aunt' (ID: 50066), Prob: 0.0001
+Token: ' big' (ID: 2409), Prob: 0.0001
+Token: ' stories' (ID: 7343), Prob: 0.0001
+Token: ' hill' (ID: 23946), Prob: 0.0001
+Token: ' tribe' (ID: 33571), Prob: 0.0001
+Token: ' clan' (ID: 38462), Prob: 0.0001
+Token: ' antagonist' (ID: 81059), Prob: 0.0001
+Token: ' forbidden' (ID: 36813), Prob: 0.0001
+Token: ' uncle' (ID: 37494), Prob: 0.0001
+Token: ' guardians' (ID: 71781), Prob: 0.0001
+Token: ' existing' (ID: 6350), Prob: 0.0001
 
 == Ranked Concepts (Clusters) ==
-Rank 1 | Centroid: ' statement' | Score: 1.0000
-  Tokens: [' statement', ' statements', ' Statement', 'statement', ' stated', '\tstatement', 'Statement', '_statement']
-Rank 2 | Centroid: ' phrase' | Score: 0.0000
-  Tokens: [' sentence', ' paragraph', ' phrase', ' wording']
-Rank 3 | Centroid: ' question' | Score: 0.0000
-  Tokens: [' answer', ' question', ' problem']
-Rank 4 | Centroid: ' two' | Score: 0.0000
-  Tokens: [' final', ' following', ' general', ' given', ' original', ' correct', ' two', ' second', ' previous', ' standard', ' one', ' entire']
-Rank 5 | Centroid: ' assertion' | Score: 0.0000
-  Tokens: [' conclusion', ' claim', ' argument', ' assertion', ' assumption', ' premise', ' suggestion', ' hypothesis']
-Rank 6 | Centroid: ' scenario' | Score: 0.0000
-  Tokens: [' situation', ' scene', ' scenario']
-Rank 7 | Centroid: ' story' | Score: 0.0000
-  Tokens: [' story']
-Rank 8 | Centroid: ' summary' | Score: 0.0000
-  Tokens: [' information', ' table', ' summary', ' structure', ' comparison', ' construction']
-Rank 9 | Centroid: ' topic' | Score: 0.0000
-  Tokens: [' subject', ' theme', ' topic']
-Rank 10 | Centroid: ' student' | Score: 0.0000
-  Tokens: [' student', ' study', ' user', ' computer']
-Rank 11 | Centroid: ' solution' | Score: 0.0000
-  Tokens: [' choice', ' response', ' solution']
-Rank 12 | Centroid: ' number' | Score: 0.0000
-  Tokens: [' number', ' time', ' change']
-Rank 13 | Centroid: ' reasoning' | Score: 0.0000
-  Tokens: [' meaning', ' amount', ' reason', ' reasoning']
-Rank 14 | Centroid: ' text' | Score: 0.0000
-  Tokens: [' text', ' letter', ' string']
-Rank 15 | Centroid: ' description' | Score: 0.0000
-  Tokens: [' description', ' expression']
-Rank 16 | Centroid: ' stimulus' | Score: 0.0000
-  Tokens: [' sentiment', ' prompt', ' moment', ' stimulus']
-Rank 17 | Centroid: ' truth' | Score: 0.0000
-  Tokens: [' truth', ' motion']
-Rank 18 | Centroid: ' assistant' | Score: 0.0000
-  Tokens: [' assistant', ' author']
-Rank 19 | Centroid: ' stat' | Score: 0.0000
-  Tokens: [' stat', ' state']
-Rank 20 | Centroid: ' suff' | Score: 0.0000
-  Tokens: [' suff', ' rest']
-Rank 21 | Centroid: ' passage' | Score: 0.0000
-  Tokens: [' passage', ' photo']
-Rank 22 | Centroid: ' message' | Score: 0.0000
-  Tokens: [' message']
-Rank 23 | Centroid: ' comment' | Score: 0.0000
-  Tokens: [' comment']
-Rank 24 | Centroid: ' system' | Score: 0.0000
-  Tokens: [' system']
+Rank 1 | Centroid: ' village' | Score: 0.5273
+  Tokens: [' village', ' villagers', ' community', ' town', ' farmer', ' priest', ' council', ' tribe', ' clan']
+Rank 2 | Centroid: ' child' | Score: 0.1650
+  Tokens: [' child', ' children', ' toy', ' adult']
+Rank 3 | Centroid: ' father' | Score: 0.1050
+  Tokens: [' parents', ' parent', ' mother', ' father', ' dad', ' mom']
+Rank 4 | Centroid: ' wall' | Score: 0.0623
+  Tokens: [' tower', ' house', ' wall', ' walls']
+Rank 5 | Centroid: ' older' | Score: 0.0349
+  Tokens: [' elders', ' elder', ' old', ' elderly', ' older']
+Rank 6 | Centroid: ' family' | Score: 0.0171
+  Tokens: [' family']
+Rank 7 | Centroid: ' stories' | Score: 0.0135
+  Tokens: [' story', ' storyt', ' stories']
+Rank 8 | Centroid: ' traditions' | Score: 0.0120
+  Tokens: [' traditional', ' traditions', ' tradition', ' rules']
+Rank 9 | Centroid: ' grandmother' | Score: 0.0106
+  Tokens: [' grandmother', ' guardian', ' grandfather', ' grandparents', ' aunt', ' uncle', ' guardians']
+Rank 10 | Centroid: ' challenge' | Score: 0.0079
+  Tokens: [' conflict', ' challenge', ' problem', ' challenges', ' idea', ' goal']
+Rank 11 | Centroid: ' wood' | Score: 0.0063
+  Tokens: [' tree', ' forest', ' river', ' mountain', ' stone', ' woods', ' wood', ' garden', ' wooden', ' hill']
+Rank 12 | Centroid: ' building' | Score: 0.0057
+  Tokens: [' building', ' setting', ' builder', ' weather']
+Rank 13 | Centroid: ' teacher' | Score: 0.0043
+  Tokens: [' teacher', ' author']
+Rank 14 | Centroid: ' girl' | Score: 0.0035
+  Tokens: [' boy', ' girl', ' person', ' woman', ' kid']
+Rank 15 | Centroid: ' environment' | Score: 0.0020
+  Tokens: [' local', ' environment', ' structure', ' natural', ' existing']
+Rank 16 | Centroid: ' sibling' | Score: 0.0018
+  Tokens: [' neighbor', ' sister', ' sibling', ' brother', ' siblings']
+Rank 17 | Centroid: ' character' | Score: 0.0013
+  Tokens: [' character']
+Rank 18 | Centroid: ' answer' | Score: 0.0011
+  Tokens: [' answer', ' solution', ' result', ' response']
+Rank 19 | Centroid: ' main' | Score: 0.0008
+  Tokens: [' main', ' big']
+Rank 20 | Centroid: ' protagonist' | Score: 0.0006
+  Tokens: [' protagonist', ' antagonist']
+Rank 21 | Centroid: ' tallest' | Score: 0.0005
+  Tokens: [' tallest', ' tall']
+Rank 22 | Centroid: ' twist' | Score: 0.0004
+  Tokens: [' twist']
+Rank 23 | Centroid: ' treasure' | Score: 0.0004
+  Tokens: [' treasure', ' forbidden']
+Rank 24 | Centroid: ' fire' | Score: 0.0003
+  Tokens: [' fire', ' materials']
+Rank 25 | Centroid: ' grand' | Score: 0.0003
+  Tokens: [' grand']
+Rank 26 | Centroid: ' animal' | Score: 0.0001
+  Tokens: [' animal']
 
 **Chosen Concept:** Rank 1

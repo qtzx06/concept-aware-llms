@@ -1,0 +1,94 @@
+--- Step 10 Log ---
+
+== Filtered Candidates ==
+Token: ' based' (ID: 3118), Prob: 0.5742
+Token: ' using' (ID: 1667), Prob: 0.0050
+Token: ' inspired' (ID: 14606), Prob: 0.0005
+Token: ' story' (ID: 3364), Prob: 0.0002
+Token: ' base' (ID: 2331), Prob: 0.0001
+Token: ' around' (ID: 2163), Prob: 0.0000
+Token: ' according' (ID: 4092), Prob: 0.0000
+Token: 'based' (ID: 29939), Prob: 0.0000
+Token: ' outline' (ID: 21101), Prob: 0.0000
+Token: ' combining' (ID: 34171), Prob: 0.0000
+Token: ' following' (ID: 2701), Prob: 0.0000
+Token: ' piece' (ID: 6573), Prob: 0.0000
+Token: ' incorporating' (ID: 51813), Prob: 0.0000
+Token: ' together' (ID: 3786), Prob: 0.0000
+Token: '-based' (ID: 5980), Prob: 0.0000
+Token: ' lesson' (ID: 17755), Prob: 0.0000
+Token: ' tale' (ID: 23281), Prob: 0.0000
+Token: ' right' (ID: 1290), Prob: 0.0000
+Token: ' foundation' (ID: 16266), Prob: 0.0000
+Token: ' script' (ID: 5316), Prob: 0.0000
+Token: ' blending' (ID: 55841), Prob: 0.0000
+Token: ' starting' (ID: 5916), Prob: 0.0000
+Token: ' rooted' (ID: 40876), Prob: 0.0000
+Token: ' narrative' (ID: 19221), Prob: 0.0000
+Token: ' inspiration' (ID: 19760), Prob: 0.0000
+Token: ' blend' (ID: 20334), Prob: 0.0000
+Token: ' basis' (ID: 8037), Prob: 0.0000
+Token: ' told' (ID: 3229), Prob: 0.0000
+Token: ' summary' (ID: 12126), Prob: 0.0000
+Token: ' draft' (ID: 9960), Prob: 0.0000
+Token: ' centered' (ID: 30188), Prob: 0.0000
+Token: ' example' (ID: 3110), Prob: 0.0000
+Token: ' derived' (ID: 14257), Prob: 0.0000
+Token: ' snippet' (ID: 43065), Prob: 0.0000
+Token: ' element' (ID: 2392), Prob: 0.0000
+Token: ' within' (ID: 2878), Prob: 0.0000
+Token: ' person' (ID: 1697), Prob: 0.0000
+Token: ' given' (ID: 2661), Prob: 0.0000
+Token: ' extract' (ID: 8649), Prob: 0.0000
+Token: ' Based' (ID: 20205), Prob: 0.0000
+Token: 'Based' (ID: 28715), Prob: 0.0000
+Token: ' like' (ID: 1075), Prob: 0.0000
+Token: ' without' (ID: 2041), Prob: 0.0000
+Token: ' instance' (ID: 2867), Prob: 0.0000
+Token: ' line' (ID: 1555), Prob: 0.0000
+Token: ' excerpt' (ID: 49465), Prob: 0.0000
+Token: ' infused' (ID: 71803), Prob: 0.0000
+Token: ' idea' (ID: 4522), Prob: 0.0000
+Token: ' response' (ID: 2033), Prob: 0.0000
+Token: ' girl' (ID: 3743), Prob: 0.0000
+Token: ' scene' (ID: 6109), Prob: 0.0000
+Token: ' prompt' (ID: 9934), Prob: 0.0000
+Token: ' episode' (ID: 9234), Prob: 0.0000
+Token: ' utilizing' (ID: 34888), Prob: 0.0000
+Token: ' bas' (ID: 3046), Prob: 0.0000
+Token: ' brief' (ID: 9814), Prob: 0.0000
+Token: ' grounded' (ID: 44345), Prob: 0.0000
+Token: ' short' (ID: 2805), Prob: 0.0000
+Token: ' filled' (ID: 10199), Prob: 0.0000
+
+== Ranked Concepts (Clusters) ==
+Rank 1 | Centroid: ' Based' | Score: 0.5742
+  Tokens: [' based', 'based', '-based', ' Based', 'Based']
+Rank 2 | Centroid: ' utilizing' | Score: 0.0050
+  Tokens: [' using', ' combining', ' incorporating', ' utilizing']
+Rank 3 | Centroid: ' inspired' | Score: 0.0005
+  Tokens: [' inspired', ' inspiration']
+Rank 4 | Centroid: ' story' | Score: 0.0002
+  Tokens: [' story', ' tale', ' narrative', ' told']
+Rank 5 | Centroid: ' basis' | Score: 0.0001
+  Tokens: [' base', ' foundation', ' basis', ' bas']
+Rank 6 | Centroid: ' within' | Score: 0.0001
+  Tokens: [' around', ' together', ' starting', ' within', ' without']
+Rank 7 | Centroid: ' according' | Score: 0.0001
+  Tokens: [' according', ' following', ' right', ' given', ' like']
+Rank 8 | Centroid: ' excerpt' | Score: 0.0000
+  Tokens: [' outline', ' script', ' summary', ' draft', ' snippet', ' extract', ' excerpt']
+Rank 9 | Centroid: ' person' | Score: 0.0000
+  Tokens: [' piece', ' element', ' person', ' response', ' girl']
+Rank 10 | Centroid: ' rooted' | Score: 0.0000
+  Tokens: [' rooted', ' centered', ' derived', ' infused', ' grounded', ' filled']
+Rank 11 | Centroid: ' episode' | Score: 0.0000
+  Tokens: [' lesson', ' example', ' instance', ' scene', ' episode']
+Rank 12 | Centroid: ' blending' | Score: 0.0000
+  Tokens: [' blending', ' blend']
+Rank 13 | Centroid: ' prompt' | Score: 0.0000
+  Tokens: [' line', ' idea', ' prompt']
+Rank 14 | Centroid: ' brief' | Score: 0.0000
+  Tokens: [' brief', ' short']
+
+**Chosen Concept:** Rank 1

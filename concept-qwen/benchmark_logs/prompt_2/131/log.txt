@@ -1,81 +1,109 @@
 --- Step 131 Log ---
 
 == Filtered Candidates ==
-Token: ' like' (ID: 1075), Prob: 1.0000
-Token: ' else' (ID: 770), Prob: 0.0001
-Token: ' yes' (ID: 9834), Prob: 0.0000
-Token: ' Like' (ID: 8909), Prob: 0.0000
-Token: ' similar' (ID: 4428), Prob: 0.0000
-Token: 'like' (ID: 4803), Prob: 0.0000
-Token: ' LIKE' (ID: 20529), Prob: 0.0000
-Token: ' elif' (ID: 4409), Prob: 0.0000
-Token: '_like' (ID: 25535), Prob: 0.0000
-Token: ' list' (ID: 1140), Prob: 0.0000
-Token: '-like' (ID: 12681), Prob: 0.0000
-Token: '.like' (ID: 66318), Prob: 0.0000
-Token: ' likes' (ID: 13151), Prob: 0.0000
-Token: ' maybe' (ID: 7196), Prob: 0.0000
-Token: 'Like' (ID: 12949), Prob: 0.0000
-Token: ' around' (ID: 2163), Prob: 0.0000
-Token: ' include' (ID: 2924), Prob: 0.0000
-Token: ' much' (ID: 1753), Prob: 0.0000
-Token: ' related' (ID: 5435), Prob: 0.0000
-Token: ' including' (ID: 2670), Prob: 0.0000
-Token: ' etc' (ID: 4992), Prob: 0.0000
-Token: ' limited' (ID: 7199), Prob: 0.0000
-Token: ' since' (ID: 2474), Prob: 0.0000
-Token: ' seperti' (ID: 67720), Prob: 0.0000
-Token: ' possible' (ID: 3204), Prob: 0.0000
-Token: ' yeah' (ID: 21639), Prob: 0.0000
-Token: ' based' (ID: 3118), Prob: 0.0000
-Token: ' say' (ID: 1977), Prob: 0.0000
-Token: ' nice' (ID: 6419), Prob: 0.0000
-Token: ' important' (ID: 2989), Prob: 0.0000
-Token: ' last' (ID: 1537), Prob: 0.0000
-Token: ' kind' (ID: 3093), Prob: 0.0000
-Token: ' quite' (ID: 5008), Prob: 0.0000
-Token: ' otherwise' (ID: 5937), Prob: 0.0000
-Token: ' little' (ID: 2632), Prob: 0.0000
-Token: ' relevant' (ID: 9760), Prob: 0.0000
-Token: ' listed' (ID: 10007), Prob: 0.0000
-Token: ' liked' (ID: 14915), Prob: 0.0000
-Token: ' usually' (ID: 5990), Prob: 0.0000
-Token: ' really' (ID: 2167), Prob: 0.0000
-Token: ' lists' (ID: 11469), Prob: 0.0000
-Token: ' missing' (ID: 7402), Prob: 0.0000
+Token: ' wrong' (ID: 4969), Prob: 0.9961
+Token: ' right' (ID: 1290), Prob: 0.0013
+Token: ' bad' (ID: 3873), Prob: 0.0005
+Token: ' wrongly' (ID: 71209), Prob: 0.0000
+Token: 'wrong' (ID: 34870), Prob: 0.0000
+Token: ' south' (ID: 9806), Prob: 0.0000
+Token: ' poorly' (ID: 30455), Prob: 0.0000
+Token: ' rough' (ID: 11165), Prob: 0.0000
+Token: ' incorrect' (ID: 15114), Prob: 0.0000
+Token: ' sideways' (ID: 73729), Prob: 0.0000
+Token: '_wrong' (ID: 75198), Prob: 0.0000
+Token: ' astr' (ID: 22311), Prob: 0.0000
+Token: ' worse' (ID: 10960), Prob: 0.0000
+Token: ' badly' (ID: 24569), Prob: 0.0000
+Token: ' well' (ID: 1632), Prob: 0.0000
+Token: ' WRONG' (ID: 98660), Prob: 0.0000
+Token: ' Wrong' (ID: 40756), Prob: 0.0000
+Token: ' incorrectly' (ID: 43347), Prob: 0.0000
+Token: ' awkward' (ID: 28759), Prob: 0.0000
+Token: ' mis' (ID: 5786), Prob: 0.0000
+Token: ' weird' (ID: 16283), Prob: 0.0000
+Token: ' back' (ID: 1182), Prob: 0.0000
+Token: ' funny' (ID: 15173), Prob: 0.0000
+Token: ' flawed' (ID: 46908), Prob: 0.0000
+Token: ' strange' (ID: 14888), Prob: 0.0000
+Token: ' poor' (ID: 7852), Prob: 0.0000
+Token: ' beyond' (ID: 7797), Prob: 0.0000
+Token: ' fine' (ID: 6915), Prob: 0.0000
+Token: ' tough' (ID: 11045), Prob: 0.0000
+Token: ' sad' (ID: 12421), Prob: 0.0000
+Token: ' hay' (ID: 17669), Prob: 0.0000
+Token: ' differently' (ID: 21303), Prob: 0.0000
+Token: ' problematic' (ID: 34933), Prob: 0.0000
+Token: ' behind' (ID: 4815), Prob: 0.0000
+Token: 'Wrong' (ID: 29185), Prob: 0.0000
+Token: ' problems' (ID: 5322), Prob: 0.0000
+Token: ' sour' (ID: 20282), Prob: 0.0000
+Token: ' apart' (ID: 10747), Prob: 0.0000
+Token: ' good' (ID: 1661), Prob: 0.0000
+Token: ' rocky' (ID: 55517), Prob: 0.0000
+Token: ' okay' (ID: 16910), Prob: 0.0000
+Token: ' partly' (ID: 27037), Prob: 0.0000
+Token: ' trag' (ID: 71602), Prob: 0.0000
+Token: ' somehow' (ID: 16925), Prob: 0.0000
+Token: ' correct' (ID: 4396), Prob: 0.0000
+Token: ' slow' (ID: 6301), Prob: 0.0000
+Token: ' hard' (ID: 2588), Prob: 0.0000
+Token: ' better' (ID: 2664), Prob: 0.0000
+Token: ' erroneous' (ID: 76672), Prob: 0.0000
+Token: ' terrible' (ID: 17478), Prob: 0.0000
+Token: ' messy' (ID: 45846), Prob: 0.0000
+Token: ' faulty' (ID: 57571), Prob: 0.0000
+Token: ' broken' (ID: 10865), Prob: 0.0000
+Token: ' way' (ID: 1616), Prob: 0.0000
+Token: ' straight' (ID: 7678), Prob: 0.0000
+Token: ' mist' (ID: 8600), Prob: 0.0000
+Token: ' mostly' (ID: 10008), Prob: 0.0000
+Token: ' tricky' (ID: 33453), Prob: 0.0000
+Token: ' backward' (ID: 27555), Prob: 0.0000
+Token: ' awful' (ID: 24607), Prob: 0.0000
+Token: ' uns' (ID: 6975), Prob: 0.0000
+Token: ' odd' (ID: 10322), Prob: 0.0000
+Token: ' nuts' (ID: 29949), Prob: 0.0000
+Token: ' flaw' (ID: 25700), Prob: 0.0000
 
 == Ranked Concepts (Clusters) ==
-Rank 1 | Centroid: ' Like' | Score: 1.0000
-  Tokens: [' like', ' Like', 'like', ' LIKE', '_like', '-like', '.like', 'Like', ' seperti']
-Rank 2 | Centroid: ' else' | Score: 0.0001
-  Tokens: [' else', ' elif', ' otherwise']
-Rank 3 | Centroid: ' yes' | Score: 0.0000
-  Tokens: [' yes', ' yeah']
-Rank 4 | Centroid: ' related' | Score: 0.0000
-  Tokens: [' similar', ' related', ' relevant']
-Rank 5 | Centroid: ' list' | Score: 0.0000
-  Tokens: [' list', ' listed', ' lists']
-Rank 6 | Centroid: ' likes' | Score: 0.0000
-  Tokens: [' likes', ' liked']
-Rank 7 | Centroid: ' maybe' | Score: 0.0000
-  Tokens: [' maybe', ' possible']
-Rank 8 | Centroid: ' little' | Score: 0.0000
-  Tokens: [' much', ' limited', ' little']
-Rank 9 | Centroid: ' include' | Score: 0.0000
-  Tokens: [' include', ' including']
-Rank 10 | Centroid: ' based' | Score: 0.0000
-  Tokens: [' since', ' based', ' last']
-Rank 11 | Centroid: ' around' | Score: 0.0000
-  Tokens: [' around']
-Rank 12 | Centroid: ' quite' | Score: 0.0000
-  Tokens: [' quite', ' usually', ' really']
-Rank 13 | Centroid: ' say' | Score: 0.0000
-  Tokens: [' say', ' kind']
-Rank 14 | Centroid: ' etc' | Score: 0.0000
-  Tokens: [' etc']
-Rank 15 | Centroid: ' important' | Score: 0.0000
-  Tokens: [' important', ' missing']
-Rank 16 | Centroid: ' nice' | Score: 0.0000
-  Tokens: [' nice']
+Rank 1 | Centroid: ' Wrong' | Score: 0.9961
+  Tokens: [' wrong', ' wrongly', 'wrong', ' incorrect', '_wrong', ' WRONG', ' Wrong', ' incorrectly', 'Wrong', ' erroneous']
+Rank 2 | Centroid: ' right' | Score: 0.0013
+  Tokens: [' right', ' correct']
+Rank 3 | Centroid: ' bad' | Score: 0.0005
+  Tokens: [' bad', ' worse', ' poor', ' good']
+Rank 4 | Centroid: ' south' | Score: 0.0000
+  Tokens: [' south', ' astr', ' hay', ' sour', ' uns', ' nuts']
+Rank 5 | Centroid: ' poorly' | Score: 0.0000
+  Tokens: [' poorly', ' badly']
+Rank 6 | Centroid: ' tough' | Score: 0.0000
+  Tokens: [' rough', ' tough', ' slow', ' hard']
+Rank 7 | Centroid: ' backward' | Score: 0.0000
+  Tokens: [' sideways', ' back', ' backward']
+Rank 8 | Centroid: ' weird' | Score: 0.0000
+  Tokens: [' weird', ' funny', ' strange', ' odd']
+Rank 9 | Centroid: ' flawed' | Score: 0.0000
+  Tokens: [' flawed', ' problematic', ' problems', ' faulty', ' broken', ' flaw']
+Rank 10 | Centroid: ' well' | Score: 0.0000
+  Tokens: [' well', ' better']
+Rank 11 | Centroid: ' messy' | Score: 0.0000
+  Tokens: [' awkward', ' rocky', ' messy', ' tricky']
+Rank 12 | Centroid: ' beyond' | Score: 0.0000
+  Tokens: [' beyond', ' behind', ' apart']
+Rank 13 | Centroid: ' partly' | Score: 0.0000
+  Tokens: [' differently', ' partly', ' somehow', ' mostly']
+Rank 14 | Centroid: ' mis' | Score: 0.0000
+  Tokens: [' mis', ' mist']
+Rank 15 | Centroid: ' fine' | Score: 0.0000
+  Tokens: [' fine', ' okay', ' straight']
+Rank 16 | Centroid: ' sad' | Score: 0.0000
+  Tokens: [' sad']
+Rank 17 | Centroid: ' terrible' | Score: 0.0000
+  Tokens: [' terrible', ' awful']
+Rank 18 | Centroid: ' trag' | Score: 0.0000
+  Tokens: [' trag']
+Rank 19 | Centroid: ' way' | Score: 0.0000
+  Tokens: [' way']
 
 **Chosen Concept:** Rank 1

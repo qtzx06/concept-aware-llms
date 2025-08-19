@@ -1,0 +1,155 @@
+--- Step 15 Log ---
+
+== Filtered Candidates ==
+Token: ' sentences' (ID: 22870), Prob: 0.1855
+Token: ' lines' (ID: 5128), Prob: 0.1445
+Token: ' elements' (ID: 5424), Prob: 0.1123
+Token: ' parts' (ID: 5479), Prob: 0.0874
+Token: ' sentence' (ID: 11652), Prob: 0.0771
+Token: ' scenario' (ID: 15048), Prob: 0.0771
+Token: ' statements' (ID: 12239), Prob: 0.0322
+Token: ' prompt' (ID: 9934), Prob: 0.0284
+Token: ' dialogue' (ID: 21276), Prob: 0.0284
+Token: ' points' (ID: 3501), Prob: 0.0251
+Token: ' details' (ID: 3565), Prob: 0.0251
+Token: ' text' (ID: 1467), Prob: 0.0195
+Token: ' context' (ID: 2266), Prob: 0.0172
+Token: ' statement' (ID: 5114), Prob: 0.0172
+Token: ' phrases' (ID: 31747), Prob: 0.0152
+Token: ' quote' (ID: 12641), Prob: 0.0118
+Token: ' conditions' (ID: 4682), Prob: 0.0092
+Token: ' two' (ID: 1378), Prob: 0.0072
+Token: ' quotes' (ID: 17194), Prob: 0.0072
+Token: ' passage' (ID: 21085), Prob: 0.0056
+Token: ' line' (ID: 1555), Prob: 0.0049
+Token: ' description' (ID: 4008), Prob: 0.0049
+Token: ' situation' (ID: 6534), Prob: 0.0049
+Token: ' premises' (ID: 33922), Prob: 0.0030
+Token: ' premise' (ID: 40202), Prob: 0.0026
+Token: ' paragraph' (ID: 14311), Prob: 0.0025
+Token: ' part' (ID: 949), Prob: 0.0022
+Token: ' events' (ID: 4357), Prob: 0.0019
+Token: ' scene' (ID: 6109), Prob: 0.0019
+Token: ' clues' (ID: 42675), Prob: 0.0018
+Token: ' characters' (ID: 5766), Prob: 0.0016
+Token: ' initial' (ID: 2856), Prob: 0.0014
+Token: ' setup' (ID: 6505), Prob: 0.0013
+Token: ' facts' (ID: 13064), Prob: 0.0013
+Token: ' fragments' (ID: 34503), Prob: 0.0013
+Token: ' opening' (ID: 8568), Prob: 0.0012
+Token: ' instructions' (ID: 11221), Prob: 0.0012
+Token: ' pieces' (ID: 9666), Prob: 0.0011
+Token: ' observations' (ID: 23722), Prob: 0.0010
+Token: ' condition' (ID: 2971), Prob: 0.0010
+Token: ' input' (ID: 1946), Prob: 0.0008
+Token: ' phrase' (ID: 17133), Prob: 0.0008
+Token: ' prompts' (ID: 50932), Prob: 0.0008
+Token: ' instruction' (ID: 7600), Prob: 0.0007
+Token: ' content' (ID: 2213), Prob: 0.0007
+Token: ' inc' (ID: 3625), Prob: 0.0007
+Token: ' scenarios' (ID: 25283), Prob: 0.0006
+Token: ' key' (ID: 1376), Prob: 0.0006
+Token: ' trigger' (ID: 8183), Prob: 0.0005
+Token: ' incident' (ID: 10455), Prob: 0.0005
+Token: ' words' (ID: 4244), Prob: 0.0005
+Token: ' information' (ID: 1995), Prob: 0.0004
+Token: ' sentiment' (ID: 25975), Prob: 0.0004
+Token: ' conversation' (ID: 10435), Prob: 0.0004
+Token: ' snippet' (ID: 43065), Prob: 0.0004
+Token: ' event' (ID: 1538), Prob: 0.0004
+Token: ' original' (ID: 4024), Prob: 0.0004
+Token: ' pair' (ID: 6716), Prob: 0.0004
+Token: ' traits' (ID: 24055), Prob: 0.0004
+Token: ' fragment' (ID: 12289), Prob: 0.0003
+Token: ' segments' (ID: 20632), Prob: 0.0003
+Token: ' sentiments' (ID: 57114), Prob: 0.0003
+Token: ' narrative' (ID: 19221), Prob: 0.0003
+Token: ' observation' (ID: 21930), Prob: 0.0003
+Token: ' descriptions' (ID: 27787), Prob: 0.0003
+Token: ' paragraphs' (ID: 42643), Prob: 0.0003
+Token: ' snippets' (ID: 68642), Prob: 0.0003
+Token: ' components' (ID: 6813), Prob: 0.0002
+Token: ' starter' (ID: 26697), Prob: 0.0002
+Token: ' situations' (ID: 14740), Prob: 0.0002
+Token: ' start' (ID: 1191), Prob: 0.0002
+Token: ' triggers' (ID: 30754), Prob: 0.0002
+Token: ' bullet' (ID: 17432), Prob: 0.0002
+Token: ' excerpt' (ID: 49465), Prob: 0.0002
+Token: ' dialog' (ID: 7254), Prob: 0.0001
+Token: ' pairs' (ID: 13530), Prob: 0.0001
+Token: ' incidents' (ID: 23546), Prob: 0.0001
+Token: ' ingredients' (ID: 13966), Prob: 0.0001
+Token: ' message' (ID: 1943), Prob: 0.0001
+Token: ' keywords' (ID: 20844), Prob: 0.0001
+Token: ' emotions' (ID: 21261), Prob: 0.0001
+Token: ' self' (ID: 656), Prob: 0.0001
+Token: ' setting' (ID: 6243), Prob: 0.0001
+Token: ' three' (ID: 2326), Prob: 0.0001
+Token: ' mention' (ID: 6286), Prob: 0.0001
+Token: ' narration' (ID: 85080), Prob: 0.0001
+Token: ' character' (ID: 3668), Prob: 0.0001
+Token: ' beginning' (ID: 7167), Prob: 0.0001
+Token: ' circumstances' (ID: 13161), Prob: 0.0001
+Token: ' interaction' (ID: 16230), Prob: 0.0001
+Token: ' query' (ID: 3239), Prob: 0.0001
+Token: ' clauses' (ID: 49098), Prob: 0.0001
+Token: ' characteristics' (ID: 17452), Prob: 0.0001
+Token: ' piece' (ID: 6573), Prob: 0.0001
+Token: ' passages' (ID: 46769), Prob: 0.0001
+Token: ' first' (ID: 1156), Prob: 0.0001
+Token: ' aspects' (ID: 13566), Prob: 0.0001
+Token: ' moments' (ID: 13943), Prob: 0.0001
+
+== Ranked Concepts (Clusters) ==
+Rank 1 | Centroid: ' phrases' | Score: 0.2090
+  Tokens: [' sentences', ' phrases', ' quotes', ' words', ' keywords', ' clauses']
+Rank 2 | Centroid: ' lines' | Score: 0.1748
+  Tokens: [' lines', ' points', ' line']
+Rank 3 | Centroid: ' statement' | Score: 0.1396
+  Tokens: [' sentence', ' statements', ' statement', ' quote', ' phrase']
+Rank 4 | Centroid: ' characteristics' | Score: 0.1133
+  Tokens: [' elements', ' traits', ' components', ' ingredients', ' characteristics', ' aspects']
+Rank 5 | Centroid: ' parts' | Score: 0.0898
+  Tokens: [' parts', ' part']
+Rank 6 | Centroid: ' situations' | Score: 0.0850
+  Tokens: [' scenario', ' situation', ' scene', ' scenarios', ' situations', ' circumstances']
+Rank 7 | Centroid: ' descriptions' | Score: 0.0322
+  Tokens: [' details', ' description', ' observations', ' information', ' observation', ' descriptions']
+Rank 8 | Centroid: ' triggers' | Score: 0.0299
+  Tokens: [' prompt', ' prompts', ' trigger', ' triggers']
+Rank 9 | Centroid: ' dialogue' | Score: 0.0295
+  Tokens: [' dialogue', ' conversation', ' narrative', ' dialog', ' narration', ' interaction']
+Rank 10 | Centroid: ' message' | Score: 0.0199
+  Tokens: [' text', ' message', ' mention', ' query']
+Rank 11 | Centroid: ' setup' | Score: 0.0187
+  Tokens: [' context', ' setup', ' setting']
+Rank 12 | Centroid: ' conditions' | Score: 0.0102
+  Tokens: [' conditions', ' condition']
+Rank 13 | Centroid: ' paragraph' | Score: 0.0086
+  Tokens: [' passage', ' paragraph', ' paragraphs', ' excerpt', ' passages']
+Rank 14 | Centroid: ' two' | Score: 0.0081
+  Tokens: [' two', ' key', ' self', ' three', ' first']
+Rank 15 | Centroid: ' premises' | Score: 0.0058
+  Tokens: [' premises', ' premise', ' bullet']
+Rank 16 | Centroid: ' beginning' | Score: 0.0042
+  Tokens: [' initial', ' opening', ' inc', ' original', ' starter', ' start', ' beginning']
+Rank 17 | Centroid: ' fragments' | Score: 0.0034
+  Tokens: [' fragments', ' pieces', ' snippet', ' fragment', ' snippets', ' piece']
+Rank 18 | Centroid: ' clues' | Score: 0.0031
+  Tokens: [' clues', ' facts']
+Rank 19 | Centroid: ' events' | Score: 0.0029
+  Tokens: [' events', ' incident', ' event', ' incidents']
+Rank 20 | Centroid: ' characters' | Score: 0.0024
+  Tokens: [' characters', ' content', ' character']
+Rank 21 | Centroid: ' instructions' | Score: 0.0019
+  Tokens: [' instructions', ' instruction']
+Rank 22 | Centroid: ' sentiments' | Score: 0.0009
+  Tokens: [' sentiment', ' sentiments', ' emotions']
+Rank 23 | Centroid: ' input' | Score: 0.0008
+  Tokens: [' input']
+Rank 24 | Centroid: ' pair' | Score: 0.0005
+  Tokens: [' pair', ' pairs']
+Rank 25 | Centroid: ' segments' | Score: 0.0004
+  Tokens: [' segments', ' moments']
+
+**Chosen Concept:** Rank 1

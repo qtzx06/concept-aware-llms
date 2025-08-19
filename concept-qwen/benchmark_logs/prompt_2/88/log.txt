@@ -1,81 +1,153 @@
 --- Step 88 Log ---
 
 == Filtered Candidates ==
-Token: ' yes' (ID: 9834), Prob: 0.9297
-Token: ' yeah' (ID: 21639), Prob: 0.0004
-Token: ' maybe' (ID: 7196), Prob: 0.0001
-Token: ' something' (ID: 2494), Prob: 0.0001
-Token: ' hello' (ID: 23811), Prob: 0.0001
-Token: ' etc' (ID: 4992), Prob: 0.0001
-Token: ' nothing' (ID: 4302), Prob: 0.0000
-Token: 'yes' (ID: 9693), Prob: 0.0000
-Token: ' exactly' (ID: 6896), Prob: 0.0000
-Token: ' Yes' (ID: 7414), Prob: 0.0000
-Token: ' okay' (ID: 16910), Prob: 0.0000
-Token: ' positive' (ID: 6785), Prob: 0.0000
-Token: ' also' (ID: 1083), Prob: 0.0000
-Token: ' wait' (ID: 3783), Prob: 0.0000
-Token: ' answer' (ID: 4226), Prob: 0.0000
-Token: ' negative' (ID: 8225), Prob: 0.0000
-Token: ' whether' (ID: 3425), Prob: 0.0000
-Token: ' YES' (ID: 14080), Prob: 0.0000
-Token: '=yes' (ID: 59565), Prob: 0.0000
-Token: ' none' (ID: 6857), Prob: 0.0000
-Token: ' say' (ID: 1977), Prob: 0.0000
-Token: ' one' (ID: 825), Prob: 0.0000
-Token: ' always' (ID: 2677), Prob: 0.0000
-Token: ' sure' (ID: 2704), Prob: 0.0000
-Token: ' possible' (ID: 3204), Prob: 0.0000
-Token: ' unknown' (ID: 9788), Prob: 0.0000
-Token: ' without' (ID: 2041), Prob: 0.0000
-Token: ' correct' (ID: 4396), Prob: 0.0000
-Token: ' either' (ID: 2987), Prob: 0.0000
-Token: ' zero' (ID: 7168), Prob: 0.0000
-Token: ' depends' (ID: 13798), Prob: 0.0000
-Token: ' another' (ID: 2441), Prob: 0.0000
-Token: ' based' (ID: 3118), Prob: 0.0000
-Token: ' even' (ID: 1496), Prob: 0.0000
-Token: ' enough' (ID: 3322), Prob: 0.0000
-Token: ' please' (ID: 4486), Prob: 0.0000
-Token: ' yet' (ID: 3602), Prob: 0.0000
-Token: ' impossible' (ID: 11997), Prob: 0.0000
+Token: ' kids' (ID: 6837), Prob: 0.9336
+Token: ' two' (ID: 1378), Prob: 0.0249
+Token: ' children' (ID: 2841), Prob: 0.0133
+Token: ' problem' (ID: 3491), Prob: 0.0034
+Token: ' emotions' (ID: 21261), Prob: 0.0026
+Token: ' young' (ID: 3908), Prob: 0.0016
+Token: ' situation' (ID: 6534), Prob: 0.0016
+Token: ' challenges' (ID: 11513), Prob: 0.0016
+Token: ' conflict' (ID: 12055), Prob: 0.0016
+Token: ' problems' (ID: 5322), Prob: 0.0014
+Token: ' setup' (ID: 6505), Prob: 0.0014
+Token: ' issue' (ID: 4265), Prob: 0.0012
+Token: ' emotional' (ID: 14269), Prob: 0.0011
+Token: ' issues' (ID: 4714), Prob: 0.0008
+Token: ' impact' (ID: 5421), Prob: 0.0008
+Token: ' details' (ID: 3565), Prob: 0.0005
+Token: ' twins' (ID: 43636), Prob: 0.0004
+Token: ' specific' (ID: 3151), Prob: 0.0004
+Token: ' presence' (ID: 9362), Prob: 0.0003
+Token: ' incident' (ID: 10455), Prob: 0.0003
+Token: ' setting' (ID: 6243), Prob: 0.0003
+Token: ' challenge' (ID: 8645), Prob: 0.0003
+Token: ' key' (ID: 1376), Prob: 0.0002
+Token: ' struggles' (ID: 27870), Prob: 0.0002
+Token: ' circumstances' (ID: 13161), Prob: 0.0002
+Token: ' reasons' (ID: 7966), Prob: 0.0002
+Token: ' arrival' (ID: 18647), Prob: 0.0002
+Token: ' family' (ID: 2997), Prob: 0.0001
+Token: ' outcome' (ID: 15274), Prob: 0.0001
+Token: ' main' (ID: 1887), Prob: 0.0001
+Token: ' incidents' (ID: 23546), Prob: 0.0001
+Token: ' activities' (ID: 7488), Prob: 0.0001
+Token: ' reason' (ID: 2874), Prob: 0.0001
+Token: ' trip' (ID: 8411), Prob: 0.0001
+Token: ' result' (ID: 1102), Prob: 0.0001
+Token: ' role' (ID: 3476), Prob: 0.0001
+Token: ' struggle' (ID: 14651), Prob: 0.0001
+Token: ' three' (ID: 2326), Prob: 0.0001
+Token: ' events' (ID: 4357), Prob: 0.0001
+Token: ' feelings' (ID: 15650), Prob: 0.0001
+Token: ' cause' (ID: 5240), Prob: 0.0001
+Token: ' mention' (ID: 6286), Prob: 0.0001
+Token: ' dynamics' (ID: 29195), Prob: 0.0001
+Token: ' experience' (ID: 3139), Prob: 0.0001
+Token: ' kid' (ID: 10369), Prob: 0.0001
+Token: ' dilemma' (ID: 54767), Prob: 0.0001
+Token: ' confusion' (ID: 21340), Prob: 0.0001
+Token: ' excitement' (ID: 27262), Prob: 0.0001
+Token: ' hardships' (ID: 95222), Prob: 0.0001
+Token: ' difficulties' (ID: 26038), Prob: 0.0001
+Token: ' specifics' (ID: 48349), Prob: 0.0001
+Token: ' frustration' (ID: 31986), Prob: 0.0001
+Token: ' cars' (ID: 9331), Prob: 0.0000
+Token: ' siblings' (ID: 36683), Prob: 0.0000
+Token: ' context' (ID: 2266), Prob: 0.0000
+Token: ' tasks' (ID: 9079), Prob: 0.0000
+Token: ' reactions' (ID: 24473), Prob: 0.0000
+Token: ' babies' (ID: 23920), Prob: 0.0000
+Token: ' frustrations' (ID: 88934), Prob: 0.0000
+Token: ' conflicts' (ID: 25800), Prob: 0.0000
+Token: ' toddlers' (ID: 78835), Prob: 0.0000
+Token: ' event' (ID: 1538), Prob: 0.0000
+Token: ' characters' (ID: 5766), Prob: 0.0000
+Token: ' interaction' (ID: 16230), Prob: 0.0000
+Token: ' parents' (ID: 6562), Prob: 0.0000
+Token: ' roles' (ID: 12783), Prob: 0.0000
+Token: ' younger' (ID: 14650), Prob: 0.0000
+Token: ' obstacles' (ID: 31016), Prob: 0.0000
+Token: ' big' (ID: 2409), Prob: 0.0000
+Token: ' age' (ID: 4231), Prob: 0.0000
+Token: ' time' (ID: 882), Prob: 0.0000
+Token: ' location' (ID: 3728), Prob: 0.0000
+Token: ' elements' (ID: 5424), Prob: 0.0000
+Token: ' youth' (ID: 12537), Prob: 0.0000
+Token: ' preparations' (ID: 46879), Prob: 0.0000
+Token: ' mish' (ID: 63396), Prob: 0.0000
+Token: ' environment' (ID: 4573), Prob: 0.0000
+Token: ' reaction' (ID: 12720), Prob: 0.0000
+Token: ' tension' (ID: 23504), Prob: 0.0000
+Token: ' interactions' (ID: 21880), Prob: 0.0000
+Token: ' small' (ID: 2613), Prob: 0.0000
+Token: ' actions' (ID: 6168), Prob: 0.0000
+Token: ' child' (ID: 1682), Prob: 0.0000
+Token: ' story' (ID: 3364), Prob: 0.0000
+Token: ' background' (ID: 4004), Prob: 0.0000
+Token: ' mix' (ID: 6514), Prob: 0.0000
+Token: ' preparation' (ID: 17975), Prob: 0.0000
+Token: ' initial' (ID: 2856), Prob: 0.0000
+Token: ' scenario' (ID: 15048), Prob: 0.0000
+Token: ' outcomes' (ID: 19554), Prob: 0.0000
+Token: ' history' (ID: 3840), Prob: 0.0000
+Token: ' couple' (ID: 5625), Prob: 0.0000
+Token: ' participants' (ID: 13026), Prob: 0.0000
+Token: ' emotion' (ID: 19772), Prob: 0.0000
+Token: ' effort' (ID: 5041), Prob: 0.0000
+Token: ' weather' (ID: 9104), Prob: 0.0000
+Token: ' days' (ID: 2849), Prob: 0.0000
+Token: ' trouble' (ID: 12264), Prob: 0.0000
+Token: ' situations' (ID: 14740), Prob: 0.0000
+Token: ' complaints' (ID: 21171), Prob: 0.0000
 
 == Ranked Concepts (Clusters) ==
-Rank 1 | Centroid: ' yes' | Score: 0.9297
-  Tokens: [' yes', ' yeah', 'yes', ' Yes', ' YES', '=yes', ' sure']
-Rank 2 | Centroid: ' nothing' | Score: 0.0001
-  Tokens: [' something', ' nothing', ' none']
-Rank 3 | Centroid: ' maybe' | Score: 0.0001
-  Tokens: [' maybe', ' possible']
-Rank 4 | Centroid: ' hello' | Score: 0.0001
-  Tokens: [' hello', ' please']
-Rank 5 | Centroid: ' positive' | Score: 0.0001
-  Tokens: [' positive', ' negative']
-Rank 6 | Centroid: ' etc' | Score: 0.0001
-  Tokens: [' etc']
-Rank 7 | Centroid: ' exactly' | Score: 0.0000
-  Tokens: [' exactly', ' always']
-Rank 8 | Centroid: ' also' | Score: 0.0000
-  Tokens: [' also', ' even']
-Rank 9 | Centroid: ' answer' | Score: 0.0000
-  Tokens: [' answer', ' correct']
-Rank 10 | Centroid: ' whether' | Score: 0.0000
-  Tokens: [' whether', ' either']
-Rank 11 | Centroid: ' okay' | Score: 0.0000
-  Tokens: [' okay']
-Rank 12 | Centroid: ' wait' | Score: 0.0000
-  Tokens: [' wait']
-Rank 13 | Centroid: ' another' | Score: 0.0000
-  Tokens: [' one', ' another', ' yet']
-Rank 14 | Centroid: ' based' | Score: 0.0000
-  Tokens: [' without', ' depends', ' based']
-Rank 15 | Centroid: ' unknown' | Score: 0.0000
-  Tokens: [' unknown', ' impossible']
-Rank 16 | Centroid: ' say' | Score: 0.0000
-  Tokens: [' say']
-Rank 17 | Centroid: ' zero' | Score: 0.0000
-  Tokens: [' zero']
-Rank 18 | Centroid: ' enough' | Score: 0.0000
-  Tokens: [' enough']
+Rank 1 | Centroid: ' kids' | Score: 0.9492
+  Tokens: [' kids', ' children', ' twins', ' kid', ' cars', ' siblings', ' babies', ' toddlers', ' parents', ' child']
+Rank 2 | Centroid: ' two' | Score: 0.0254
+  Tokens: [' two', ' key', ' main', ' three', ' big', ' time', ' small', ' initial', ' history']
+Rank 3 | Centroid: ' issues' | Score: 0.0068
+  Tokens: [' problem', ' problems', ' issue', ' issues']
+Rank 4 | Centroid: ' emotions' | Score: 0.0038
+  Tokens: [' emotions', ' emotional', ' feelings', ' emotion']
+Rank 5 | Centroid: ' conflict' | Score: 0.0021
+  Tokens: [' conflict', ' challenge', ' struggle', ' dilemma', ' confusion', ' conflicts', ' tension', ' trouble']
+Rank 6 | Centroid: ' difficulties' | Score: 0.0020
+  Tokens: [' challenges', ' struggles', ' hardships', ' difficulties', ' frustration', ' frustrations', ' obstacles', ' complaints']
+Rank 7 | Centroid: ' setup' | Score: 0.0018
+  Tokens: [' setup', ' setting', ' context', ' location', ' environment', ' story', ' background']
+Rank 8 | Centroid: ' situation' | Score: 0.0018
+  Tokens: [' situation', ' circumstances', ' scenario', ' situations']
+Rank 9 | Centroid: ' young' | Score: 0.0017
+  Tokens: [' young', ' younger', ' age', ' youth']
+Rank 10 | Centroid: ' specifics' | Score: 0.0011
+  Tokens: [' details', ' specific', ' dynamics', ' specifics', ' characters', ' elements']
+Rank 11 | Centroid: ' impact' | Score: 0.0008
+  Tokens: [' impact']
+Rank 12 | Centroid: ' arrival' | Score: 0.0006
+  Tokens: [' presence', ' arrival', ' trip', ' mention', ' mix']
+Rank 13 | Centroid: ' events' | Score: 0.0005
+  Tokens: [' incident', ' incidents', ' events', ' event']
+Rank 14 | Centroid: ' reason' | Score: 0.0004
+  Tokens: [' reasons', ' reason', ' result', ' cause']
+Rank 15 | Centroid: ' activities' | Score: 0.0002
+  Tokens: [' activities', ' tasks', ' actions', ' participants']
+Rank 16 | Centroid: ' outcome' | Score: 0.0002
+  Tokens: [' outcome', ' outcomes']
+Rank 17 | Centroid: ' family' | Score: 0.0001
+  Tokens: [' family', ' couple']
+Rank 18 | Centroid: ' excitement' | Score: 0.0001
+  Tokens: [' experience', ' excitement', ' effort']
+Rank 19 | Centroid: ' interactions' | Score: 0.0001
+  Tokens: [' reactions', ' interaction', ' reaction', ' interactions']
+Rank 20 | Centroid: ' role' | Score: 0.0001
+  Tokens: [' role', ' roles']
+Rank 21 | Centroid: ' preparations' | Score: 0.0001
+  Tokens: [' preparations', ' mish', ' preparation']
+Rank 22 | Centroid: ' weather' | Score: 0.0000
+  Tokens: [' weather']
+Rank 23 | Centroid: ' days' | Score: 0.0000
+  Tokens: [' days']
 
 **Chosen Concept:** Rank 1

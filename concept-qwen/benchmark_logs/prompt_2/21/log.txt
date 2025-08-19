@@ -1,0 +1,99 @@
+--- Step 21 Log ---
+
+== Filtered Candidates ==
+Token: '_me' (ID: 16612), Prob: 0.0000
+Token: ' start' (ID: 1191), Prob: 0.0000
+Token: '-me' (ID: 33973), Prob: 0.0000
+Token: ' get' (ID: 633), Prob: 0.0000
+Token: ' original' (ID: 4024), Prob: 0.0000
+Token: ' call' (ID: 1618), Prob: 0.0000
+Token: ' time' (ID: 882), Prob: 0.0000
+Token: '.me' (ID: 17326), Prob: 0.0000
+Token: '(me' (ID: 28743), Prob: 0.0000
+Token: ' measure' (ID: 6629), Prob: 0.0000
+Token: ' make' (ID: 1281), Prob: 0.0000
+Token: ' rec' (ID: 1395), Prob: 0.0000
+Token: 'apos' (ID: 30415), Prob: 0.0000
+Token: ' see' (ID: 1490), Prob: 0.0000
+Token: ' alone' (ID: 7484), Prob: 0.0000
+Token: ' meet' (ID: 3367), Prob: 0.0000
+Token: 'semble' (ID: 15790), Prob: 0.0000
+Token: ' face' (ID: 3579), Prob: 0.0000
+Token: ' talk' (ID: 3061), Prob: 0.0000
+Token: ' low' (ID: 3347), Prob: 0.0000
+Token: ' user' (ID: 1196), Prob: 0.0000
+Token: ' native' (ID: 9867), Prob: 0.0000
+Token: ' old' (ID: 2310), Prob: 0.0000
+Token: ' prompt' (ID: 9934), Prob: 0.0000
+Token: ' look' (ID: 1401), Prob: 0.0000
+Token: ' bring' (ID: 4446), Prob: 0.0000
+Token: ' turn' (ID: 2484), Prob: 0.0000
+Token: ' stand' (ID: 2498), Prob: 0.0000
+Token: ' brain' (ID: 8109), Prob: 0.0000
+Token: ' try' (ID: 1430), Prob: 0.0000
+Token: ' new' (ID: 501), Prob: 0.0000
+Token: ' starting' (ID: 5916), Prob: 0.0000
+Token: '_ME' (ID: 33037), Prob: 0.0000
+Token: ' empty' (ID: 4287), Prob: 0.0000
+Token: ' first' (ID: 1156), Prob: 0.0000
+Token: ' reverse' (ID: 9931), Prob: 0.0000
+Token: 'mek' (ID: 73753), Prob: 0.0000
+Token: ' know' (ID: 1414), Prob: 0.0000
+Token: ' big' (ID: 2409), Prob: 0.0000
+Token: ' body' (ID: 2487), Prob: 0.0000
+Token: ' mine' (ID: 10485), Prob: 0.0000
+Token: ' paste' (ID: 24937), Prob: 0.0000
+Token: ' date' (ID: 2400), Prob: 0.0000
+Token: ' unique' (ID: 4911), Prob: 0.0000
+Token: ' blank' (ID: 10113), Prob: 0.0000
+Token: ' recap' (ID: 53999), Prob: 0.0000
+Token: ' need' (ID: 1184), Prob: 0.0000
+Token: ' meeting' (ID: 6438), Prob: 0.0000
+Token: ''re' (ID: 2299), Prob: 0.0000
+Token: ' map' (ID: 2415), Prob: 0.0000
+Token: ' rap' (ID: 7327), Prob: 0.0000
+Token: ' combine' (ID: 15963), Prob: 0.0000
+Token: ' minimal' (ID: 17377), Prob: 0.0000
+Token: ' take' (ID: 1896), Prob: 0.0000
+Token: ' parent' (ID: 2681), Prob: 0.0000
+Token: ' present' (ID: 3042), Prob: 0.0000
+Token: ''ll' (ID: 3278), Prob: 0.0000
+Token: ' cond' (ID: 9756), Prob: 0.0000
+Token: ' type' (ID: 943), Prob: 0.0000
+Token: ' must' (ID: 1969), Prob: 0.0000
+
+== Ranked Concepts (Clusters) ==
+Rank 1 | Centroid: '(me' | Score: 0.0000
+  Tokens: ['_me', '-me', '.me', '(me', ' measure', '_ME', 'mek']
+Rank 2 | Centroid: ' start' | Score: 0.0000
+  Tokens: [' start', ' starting', ' first']
+Rank 3 | Centroid: ' get' | Score: 0.0000
+  Tokens: [' get', ' make', ' see', ' look', ' bring', ' stand', ' try', ' know', ' combine', ' take']
+Rank 4 | Centroid: ' old' | Score: 0.0000
+  Tokens: [' original', ' low', ' native', ' old', ' new', ' big', ' unique', ' minimal']
+Rank 5 | Centroid: ' call' | Score: 0.0000
+  Tokens: [' call', ' talk']
+Rank 6 | Centroid: ' time' | Score: 0.0000
+  Tokens: [' time', ' user', ' date', ' type']
+Rank 7 | Centroid: ' rap' | Score: 0.0000
+  Tokens: [' rec', ' prompt', ' recap', ' rap', ' parent', ' cond']
+Rank 8 | Centroid: ' brain' | Score: 0.0000
+  Tokens: [' face', ' brain', ' body']
+Rank 9 | Centroid: 'apos' | Score: 0.0000
+  Tokens: ['apos']
+Rank 10 | Centroid: 'semble' | Score: 0.0000
+  Tokens: ['semble', ' paste']
+Rank 11 | Centroid: ' alone' | Score: 0.0000
+  Tokens: [' alone', ' present']
+Rank 12 | Centroid: ' meet' | Score: 0.0000
+  Tokens: [' meet', ' meeting']
+Rank 13 | Centroid: ' blank' | Score: 0.0000
+  Tokens: [' empty', ' reverse', ' blank']
+Rank 14 | Centroid: ''re' | Score: 0.0000
+  Tokens: [' need', "'re", "'ll", ' must']
+Rank 15 | Centroid: ' turn' | Score: 0.0000
+  Tokens: [' turn', ' map']
+Rank 16 | Centroid: ' mine' | Score: 0.0000
+  Tokens: [' mine']
+
+**Chosen Concept:** Rank 1

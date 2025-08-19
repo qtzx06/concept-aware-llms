@@ -1,78 +1,144 @@
 --- Step 112 Log ---
 
 == Filtered Candidates ==
-Token: ' yes' (ID: 9834), Prob: 0.9648
-Token: ' yeah' (ID: 21639), Prob: 0.0003
-Token: ' something' (ID: 2494), Prob: 0.0001
-Token: ' maybe' (ID: 7196), Prob: 0.0000
-Token: 'yes' (ID: 9693), Prob: 0.0000
-Token: ' hello' (ID: 23811), Prob: 0.0000
-Token: ' Yes' (ID: 7414), Prob: 0.0000
-Token: ' nothing' (ID: 4302), Prob: 0.0000
-Token: ' YES' (ID: 14080), Prob: 0.0000
-Token: ' etc' (ID: 4992), Prob: 0.0000
-Token: ' exactly' (ID: 6896), Prob: 0.0000
-Token: '=yes' (ID: 59565), Prob: 0.0000
-Token: ' also' (ID: 1083), Prob: 0.0000
-Token: ' okay' (ID: 16910), Prob: 0.0000
-Token: ' whether' (ID: 3425), Prob: 0.0000
-Token: ' positive' (ID: 6785), Prob: 0.0000
-Token: ' wait' (ID: 3783), Prob: 0.0000
-Token: ' answer' (ID: 4226), Prob: 0.0000
-Token: ' negative' (ID: 8225), Prob: 0.0000
-Token: ' always' (ID: 2677), Prob: 0.0000
-Token: ' one' (ID: 825), Prob: 0.0000
-Token: ' say' (ID: 1977), Prob: 0.0000
-Token: ' none' (ID: 6857), Prob: 0.0000
-Token: ' sure' (ID: 2704), Prob: 0.0000
-Token: ' possible' (ID: 3204), Prob: 0.0000
-Token: ' unknown' (ID: 9788), Prob: 0.0000
-Token: ' based' (ID: 3118), Prob: 0.0000
-Token: ' correct' (ID: 4396), Prob: 0.0000
-Token: ' please' (ID: 4486), Prob: 0.0000
-Token: ' without' (ID: 2041), Prob: 0.0000
-Token: ' yet' (ID: 3602), Prob: 0.0000
-Token: ' zero' (ID: 7168), Prob: 0.0000
-Token: ' another' (ID: 2441), Prob: 0.0000
-Token: ' either' (ID: 2987), Prob: 0.0000
-Token: ' enough' (ID: 3322), Prob: 0.0000
-Token: ' depends' (ID: 13798), Prob: 0.0000
-Token: ' even' (ID: 1496), Prob: 0.0000
+Token: ' long' (ID: 1293), Prob: 0.6602
+Token: ' trip' (ID: 8411), Prob: 0.1670
+Token: ' road' (ID: 5636), Prob: 0.1475
+Token: ' journey' (ID: 11618), Prob: 0.0121
+Token: ' big' (ID: 2409), Prob: 0.0031
+Token: ' family' (ID: 2997), Prob: 0.0010
+Token: ' ill' (ID: 5862), Prob: 0.0009
+Token: ' route' (ID: 6021), Prob: 0.0008
+Token: ' well' (ID: 1632), Prob: 0.0005
+Token: ' short' (ID: 2805), Prob: 0.0004
+Token: ' path' (ID: 1815), Prob: 0.0003
+Token: ' lengthy' (ID: 34206), Prob: 0.0003
+Token: ' ride' (ID: 11877), Prob: 0.0003
+Token: ' lot' (ID: 2696), Prob: 0.0002
+Token: ' good' (ID: 1661), Prob: 0.0002
+Token: ' car' (ID: 1803), Prob: 0.0002
+Token: ' drive' (ID: 6541), Prob: 0.0002
+Token: ' great' (ID: 2244), Prob: 0.0002
+Token: ' tour' (ID: 7216), Prob: 0.0001
+Token: ' late' (ID: 3309), Prob: 0.0001
+Token: ' far' (ID: 3041), Prob: 0.0001
+Token: ' planned' (ID: 12909), Prob: 0.0001
+Token: ' vacation' (ID: 20161), Prob: 0.0001
+Token: ' bad' (ID: 3873), Prob: 0.0001
+Token: ' travel' (ID: 5821), Prob: 0.0001
+Token: ' sick' (ID: 14036), Prob: 0.0001
+Token: ' grand' (ID: 6662), Prob: 0.0001
+Token: ' large' (ID: 3460), Prob: 0.0001
+Token: ' quest' (ID: 2222), Prob: 0.0001
+Token: ' happy' (ID: 6247), Prob: 0.0001
+Token: ' trail' (ID: 8849), Prob: 0.0001
+Token: ' love' (ID: 2948), Prob: 0.0001
+Token: ' fun' (ID: 2464), Prob: 0.0001
+Token: ' story' (ID: 3364), Prob: 0.0001
+Token: ' tough' (ID: 11045), Prob: 0.0001
+Token: ' lay' (ID: 10962), Prob: 0.0001
+Token: ' distant' (ID: 28727), Prob: 0.0001
+Token: ' destination' (ID: 9106), Prob: 0.0000
+Token: ' toll' (ID: 25851), Prob: 0.0000
+Token: ' two' (ID: 1378), Prob: 0.0000
+Token: ' longer' (ID: 5021), Prob: 0.0000
+Token: ' couple' (ID: 5625), Prob: 0.0000
+Token: ' holiday' (ID: 13257), Prob: 0.0000
+Token: ' life' (ID: 2272), Prob: 0.0000
+Token: ' deep' (ID: 5538), Prob: 0.0000
+Token: ' remote' (ID: 8699), Prob: 0.0000
+Token: ' tale' (ID: 23281), Prob: 0.0000
+Token: ' full' (ID: 2480), Prob: 0.0000
+Token: ' round' (ID: 4778), Prob: 0.0000
+Token: ' dream' (ID: 7904), Prob: 0.0000
+Token: ' disastrous' (ID: 51957), Prob: 0.0000
+Token: ' care' (ID: 2453), Prob: 0.0000
+Token: ' little' (ID: 2632), Prob: 0.0000
+Token: ' multi' (ID: 7299), Prob: 0.0000
+Token: ' surprise' (ID: 12761), Prob: 0.0000
+Token: ' group' (ID: 1874), Prob: 0.0000
+Token: ' wide' (ID: 6884), Prob: 0.0000
+Token: ' rough' (ID: 11165), Prob: 0.0000
+Token: ' part' (ID: 949), Prob: 0.0000
+Token: ' three' (ID: 2326), Prob: 0.0000
+Token: ' health' (ID: 2820), Prob: 0.0000
+Token: ' plan' (ID: 3119), Prob: 0.0000
+Token: ' heart' (ID: 4746), Prob: 0.0000
+Token: ' difficult' (ID: 5000), Prob: 0.0000
+Token: ' poor' (ID: 7852), Prob: 0.0000
+Token: ' wild' (ID: 8380), Prob: 0.0000
+Token: ' fat' (ID: 8664), Prob: 0.0000
+Token: ' illness' (ID: 17125), Prob: 0.0000
+Token: ' typical' (ID: 14260), Prob: 0.0000
+Token: ' much' (ID: 1753), Prob: 0.0000
+Token: ' recent' (ID: 3213), Prob: 0.0000
+Token: ' major' (ID: 3598), Prob: 0.0000
+Token: ' slow' (ID: 6301), Prob: 0.0000
+Token: ' loved' (ID: 10245), Prob: 0.0000
+Token: ' tired' (ID: 19227), Prob: 0.0000
+Token: ' relaxing' (ID: 33848), Prob: 0.0000
+Token: ' week' (ID: 2003), Prob: 0.0000
+Token: ' hard' (ID: 2588), Prob: 0.0000
+Token: ' mission' (ID: 8954), Prob: 0.0000
+Token: ' high' (ID: 1550), Prob: 0.0000
+Token: ' day' (ID: 1899), Prob: 0.0000
+Token: ' small' (ID: 2613), Prob: 0.0000
+Token: ' four' (ID: 3040), Prob: 0.0000
+Token: ' serious' (ID: 6001), Prob: 0.0000
+Token: ' driving' (ID: 9842), Prob: 0.0000
+Token: ' sad' (ID: 12421), Prob: 0.0000
+Token: ' prolonged' (ID: 43287), Prob: 0.0000
+Token: ' winding' (ID: 53726), Prob: 0.0000
+Token: ' time' (ID: 882), Prob: 0.0000
+Token: ' significant' (ID: 5089), Prob: 0.0000
+Token: ' terrible' (ID: 17478), Prob: 0.0000
+Token: '-long' (ID: 23791), Prob: 0.0000
+Token: ' roadside' (ID: 79643), Prob: 0.0000
+Token: ' det' (ID: 3392), Prob: 0.0000
+Token: ' weekend' (ID: 9001), Prob: 0.0000
 
 == Ranked Concepts (Clusters) ==
-Rank 1 | Centroid: ' yes' | Score: 0.9648
-  Tokens: [' yes', ' yeah', 'yes', ' Yes', ' YES', '=yes', ' sure']
-Rank 2 | Centroid: ' nothing' | Score: 0.0001
-  Tokens: [' something', ' nothing', ' none']
-Rank 3 | Centroid: ' maybe' | Score: 0.0001
-  Tokens: [' maybe', ' possible']
-Rank 4 | Centroid: ' hello' | Score: 0.0001
-  Tokens: [' hello', ' okay']
-Rank 5 | Centroid: ' negative' | Score: 0.0000
-  Tokens: [' positive', ' negative', ' zero']
-Rank 6 | Centroid: ' exactly' | Score: 0.0000
-  Tokens: [' exactly', ' always']
-Rank 7 | Centroid: ' wait' | Score: 0.0000
-  Tokens: [' wait', ' say']
-Rank 8 | Centroid: ' etc' | Score: 0.0000
-  Tokens: [' etc']
-Rank 9 | Centroid: ' also' | Score: 0.0000
-  Tokens: [' also', ' even']
-Rank 10 | Centroid: ' whether' | Score: 0.0000
-  Tokens: [' whether', ' either']
-Rank 11 | Centroid: ' answer' | Score: 0.0000
-  Tokens: [' answer']
-Rank 12 | Centroid: ' another' | Score: 0.0000
-  Tokens: [' one', ' yet', ' another']
-Rank 13 | Centroid: ' based' | Score: 0.0000
-  Tokens: [' based', ' without', ' depends']
-Rank 14 | Centroid: ' unknown' | Score: 0.0000
-  Tokens: [' unknown']
-Rank 15 | Centroid: ' please' | Score: 0.0000
-  Tokens: [' please']
-Rank 16 | Centroid: ' correct' | Score: 0.0000
-  Tokens: [' correct']
-Rank 17 | Centroid: ' enough' | Score: 0.0000
-  Tokens: [' enough']
+Rank 1 | Centroid: ' long' | Score: 0.6602
+  Tokens: [' long', ' short', ' lengthy', ' longer', ' prolonged', '-long']
+Rank 2 | Centroid: ' journey' | Score: 0.1807
+  Tokens: [' trip', ' journey', ' route', ' path', ' tour', ' travel', ' quest', ' trail', ' destination', ' mission']
+Rank 3 | Centroid: ' driving' | Score: 0.1475
+  Tokens: [' road', ' ride', ' drive', ' driving', ' roadside']
+Rank 4 | Centroid: ' large' | Score: 0.0037
+  Tokens: [' big', ' lot', ' great', ' grand', ' large', ' little', ' much', ' major', ' small', ' significant']
+Rank 5 | Centroid: ' illness' | Score: 0.0015
+  Tokens: [' ill', ' well', ' sick', ' toll', ' health', ' illness']
+Rank 6 | Centroid: ' love' | Score: 0.0012
+  Tokens: [' family', ' love', ' fun', ' story', ' tale', ' dream', ' loved']
+Rank 7 | Centroid: ' bad' | Score: 0.0004
+  Tokens: [' good', ' bad', ' happy', ' poor', ' sad']
+Rank 8 | Centroid: ' car' | Score: 0.0003
+  Tokens: [' car', ' lay', ' care', ' heart']
+Rank 9 | Centroid: ' distant' | Score: 0.0002
+  Tokens: [' far', ' distant', ' remote', ' wild', ' recent']
+Rank 10 | Centroid: ' vacation' | Score: 0.0002
+  Tokens: [' vacation', ' holiday', ' tired', ' relaxing', ' winding']
+Rank 11 | Centroid: ' late' | Score: 0.0001
+  Tokens: [' late', ' fat']
+Rank 12 | Centroid: ' planned' | Score: 0.0001
+  Tokens: [' planned', ' plan']
+Rank 13 | Centroid: ' tough' | Score: 0.0001
+  Tokens: [' tough', ' rough', ' difficult', ' slow', ' hard']
+Rank 14 | Centroid: ' three' | Score: 0.0001
+  Tokens: [' two', ' multi', ' three', ' four']
+Rank 15 | Centroid: ' wide' | Score: 0.0001
+  Tokens: [' deep', ' full', ' wide', ' high']
+Rank 16 | Centroid: ' time' | Score: 0.0001
+  Tokens: [' life', ' group', ' part', ' time']
+Rank 17 | Centroid: ' week' | Score: 0.0001
+  Tokens: [' round', ' week', ' day', ' weekend']
+Rank 18 | Centroid: ' terrible' | Score: 0.0001
+  Tokens: [' disastrous', ' typical', ' serious', ' terrible']
+Rank 19 | Centroid: ' couple' | Score: 0.0000
+  Tokens: [' couple']
+Rank 20 | Centroid: ' surprise' | Score: 0.0000
+  Tokens: [' surprise']
+Rank 21 | Centroid: ' det' | Score: 0.0000
+  Tokens: [' det']
 
 **Chosen Concept:** Rank 1

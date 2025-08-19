@@ -1,115 +1,128 @@
 --- Step 82 Log ---
 
 == Filtered Candidates ==
-Token: ' make' (ID: 1281), Prob: 1.0000
-Token: ' making' (ID: 3259), Prob: 0.0000
-Token: ' makes' (ID: 3643), Prob: 0.0000
-Token: ' also' (ID: 1083), Prob: 0.0000
-Token: ' made' (ID: 1865), Prob: 0.0000
-Token: 'make' (ID: 6927), Prob: 0.0000
-Token: ' take' (ID: 1896), Prob: 0.0000
-Token: ' Make' (ID: 7405), Prob: 0.0000
-Token: ' seem' (ID: 2803), Prob: 0.0000
-Token: ' mean' (ID: 3076), Prob: 0.0000
-Token: ' mak' (ID: 50916), Prob: 0.0000
-Token: ' still' (ID: 2058), Prob: 0.0000
-Token: ' please' (ID: 4486), Prob: 0.0000
-Token: '(make' (ID: 36944), Prob: 0.0000
-Token: '.make' (ID: 10117), Prob: 0.0000
-Token: ' maken' (ID: 54056), Prob: 0.0000
-Token: ' definitely' (ID: 8491), Prob: 0.0000
-Token: ' need' (ID: 1184), Prob: 0.0000
-Token: ' sense' (ID: 5530), Prob: 0.0000
-Token: ' probably' (ID: 4658), Prob: 0.0000
-Token: '	make' (ID: 77438), Prob: 0.0000
-Token: ' look' (ID: 1401), Prob: 0.0000
-Token: ' match' (ID: 2432), Prob: 0.0000
-Token: ' work' (ID: 975), Prob: 0.0000
-Token: ' include' (ID: 2924), Prob: 0.0000
-Token: ' likely' (ID: 4363), Prob: 0.0000
-Token: ' say' (ID: 1977), Prob: 0.0000
-Token: ' read' (ID: 1349), Prob: 0.0000
-Token: ' MAKE' (ID: 36821), Prob: 0.0000
-Token: ' require' (ID: 1373), Prob: 0.0000
-Token: ' give' (ID: 2968), Prob: 0.0000
-Token: ' logically' (ID: 73045), Prob: 0.0000
-Token: ' always' (ID: 2677), Prob: 0.0000
-Token: ' accept' (ID: 4193), Prob: 0.0000
-Token: ' use' (ID: 990), Prob: 0.0000
-Token: ' math' (ID: 6888), Prob: 0.0000
-Token: ' sound' (ID: 5112), Prob: 0.0000
-Token: 'Make' (ID: 8078), Prob: 0.0000
-Token: ' come' (ID: 2525), Prob: 0.0000
-Token: ' clearly' (ID: 9355), Prob: 0.0000
-Token: ' mostly' (ID: 10008), Prob: 0.0000
-Token: ' contain' (ID: 6644), Prob: 0.0000
-Token: ' see' (ID: 1490), Prob: 0.0000
-Token: ' appear' (ID: 4994), Prob: 0.0000
-Token: ' communicate' (ID: 19032), Prob: 0.0000
-Token: ' indicate' (ID: 13216), Prob: 0.0000
-Token: '_make' (ID: 28230), Prob: 0.0000
-Token: ' form' (ID: 1352), Prob: 0.0000
-Token: ' consider' (ID: 2908), Prob: 0.0000
-Token: ' become' (ID: 3635), Prob: 0.0000
-Token: ' like' (ID: 1075), Prob: 0.0000
-Token: ' certainly' (ID: 7838), Prob: 0.0000
-Token: ' ask' (ID: 2548), Prob: 0.0000
-Token: ' feel' (ID: 2666), Prob: 0.0000
-Token: ' relate' (ID: 28143), Prob: 0.0000
-Token: ' end' (ID: 835), Prob: 0.0000
-Token: ' answer' (ID: 4226), Prob: 0.0000
-Token: ' meet' (ID: 3367), Prob: 0.0000
-Token: ' agree' (ID: 7503), Prob: 0.0000
-Token: ' actually' (ID: 3520), Prob: 0.0000
-Token: ' assume' (ID: 9658), Prob: 0.0000
-Token: ' somehow' (ID: 16925), Prob: 0.0000
-Token: ' satisfy' (ID: 26553), Prob: 0.0000
-Token: ' cause' (ID: 5240), Prob: 0.0000
-Token: ' leave' (ID: 5274), Prob: 0.0000
-Token: ' matter' (ID: 4925), Prob: 0.0000
-Token: ' consist' (ID: 6685), Prob: 0.0000
-Token: ' correspond' (ID: 7866), Prob: 0.0000
-Token: ' gramm' (ID: 68125), Prob: 0.0000
-Token: ' find' (ID: 1477), Prob: 0.0000
+Token: ' disagree' (ID: 28295), Prob: 0.0796
+Token: ' oppose' (ID: 33034), Prob: 0.0623
+Token: ' want' (ID: 1366), Prob: 0.0427
+Token: ' dis' (ID: 827), Prob: 0.0294
+Token: ' think' (ID: 1744), Prob: 0.0178
+Token: ' say' (ID: 1977), Prob: 0.0095
+Token: ' advise' (ID: 31013), Prob: 0.0035
+Token: ' discourage' (ID: 64987), Prob: 0.0035
+Token: ' warn' (ID: 8809), Prob: 0.0031
+Token: ' tell' (ID: 3291), Prob: 0.0027
+Token: ' encourage' (ID: 14907), Prob: 0.0027
+Token: ' resist' (ID: 22106), Prob: 0.0027
+Token: ' remind' (ID: 23974), Prob: 0.0021
+Token: ' decide' (ID: 10279), Prob: 0.0019
+Token: ' object' (ID: 1633), Prob: 0.0013
+Token: ' feel' (ID: 2666), Prob: 0.0013
+Token: ' forbid' (ID: 73631), Prob: 0.0013
+Token: ' would' (ID: 1035), Prob: 0.0010
+Token: ' fear' (ID: 8679), Prob: 0.0009
+Token: ' stop' (ID: 2936), Prob: 0.0008
+Token: ' need' (ID: 1184), Prob: 0.0006
+Token: ' prevent' (ID: 5358), Prob: 0.0006
+Token: ' agree' (ID: 7503), Prob: 0.0006
+Token: ' prefer' (ID: 10702), Prob: 0.0006
+Token: ' opposed' (ID: 16087), Prob: 0.0006
+Token: ' might' (ID: 2578), Prob: 0.0005
+Token: ' reject' (ID: 7850), Prob: 0.0005
+Token: ' suggest' (ID: 4190), Prob: 0.0005
+Token: ' worry' (ID: 10955), Prob: 0.0005
+Token: ' argue' (ID: 17585), Prob: 0.0005
+Token: ' teach' (ID: 4538), Prob: 0.0003
+Token: ' know' (ID: 1414), Prob: 0.0003
+Token: ' thought' (ID: 3381), Prob: 0.0003
+Token: ' question' (ID: 3405), Prob: 0.0003
+Token: ' respect' (ID: 5091), Prob: 0.0003
+Token: ' refuse' (ID: 25066), Prob: 0.0003
+Token: ' try' (ID: 1430), Prob: 0.0003
+Token: ' support' (ID: 1824), Prob: 0.0003
+Token: ' push' (ID: 4484), Prob: 0.0003
+Token: ' approve' (ID: 28151), Prob: 0.0003
+Token: ' discour' (ID: 33193), Prob: 0.0003
+Token: ' diss' (ID: 13772), Prob: 0.0003
+Token: ' protect' (ID: 6016), Prob: 0.0003
+Token: ' speak' (ID: 6468), Prob: 0.0002
+Token: ' doubt' (ID: 10492), Prob: 0.0002
+Token: ' block' (ID: 2504), Prob: 0.0002
+Token: ' urge' (ID: 32047), Prob: 0.0002
+Token: ' hold' (ID: 3331), Prob: 0.0002
+Token: ' res' (ID: 592), Prob: 0.0002
+Token: ' dismiss' (ID: 13432), Prob: 0.0002
+Token: ' still' (ID: 2058), Prob: 0.0001
+Token: ' initially' (ID: 15102), Prob: 0.0001
+Token: ' caution' (ID: 27830), Prob: 0.0001
+Token: ' opposing' (ID: 30222), Prob: 0.0001
+Token: ' see' (ID: 1490), Prob: 0.0001
+Token: ' believe' (ID: 4411), Prob: 0.0001
+Token: ' insist' (ID: 31162), Prob: 0.0001
+Token: ' forb' (ID: 54744), Prob: 0.0001
+Token: ' ask' (ID: 2548), Prob: 0.0001
+Token: ' watch' (ID: 3736), Prob: 0.0001
+Token: ' prohibit' (ID: 47386), Prob: 0.0001
+Token: ' criticize' (ID: 60630), Prob: 0.0001
+Token: ' opposes' (ID: 75212), Prob: 0.0001
+Token: ' debate' (ID: 11004), Prob: 0.0001
+Token: ' resent' (ID: 46440), Prob: 0.0001
+Token: ' find' (ID: 1477), Prob: 0.0001
+Token: ' concern' (ID: 4643), Prob: 0.0001
+Token: ' keep' (ID: 2506), Prob: 0.0001
+Token: ' talk' (ID: 3061), Prob: 0.0001
+Token: ' told' (ID: 3229), Prob: 0.0001
+Token: ' notice' (ID: 5293), Prob: 0.0001
+Token: ' cons' (ID: 1585), Prob: 0.0001
+Token: ' council' (ID: 14833), Prob: 0.0001
+Token: ' persuade' (ID: 49941), Prob: 0.0001
+Token: ' stand' (ID: 2498), Prob: 0.0001
 
 == Ranked Concepts (Clusters) ==
-Rank 1 | Centroid: ' make' | Score: 1.0000
-  Tokens: [' make', ' making', ' makes', ' made', 'make', ' Make', ' mak', '(make', '.make', ' maken', '\tmake', ' MAKE', 'Make', '_make']
-Rank 2 | Centroid: ' also' | Score: 0.0000
-  Tokens: [' also', ' still', ' always', ' mostly', ' actually', ' somehow']
-Rank 3 | Centroid: ' take' | Score: 0.0000
-  Tokens: [' take', ' give']
-Rank 4 | Centroid: ' seem' | Score: 0.0000
-  Tokens: [' seem', ' appear']
-Rank 5 | Centroid: ' mean' | Score: 0.0000
-  Tokens: [' mean', ' matter']
-Rank 6 | Centroid: ' definitely' | Score: 0.0000
-  Tokens: [' definitely', ' probably', ' likely', ' clearly', ' certainly']
-Rank 7 | Centroid: ' consider' | Score: 0.0000
-  Tokens: [' please', ' say', ' see', ' consider', ' ask', ' assume']
-Rank 8 | Centroid: ' feel' | Score: 0.0000
-  Tokens: [' sense', ' sound', ' feel']
-Rank 9 | Centroid: ' need' | Score: 0.0000
-  Tokens: [' need', ' require']
-Rank 10 | Centroid: ' find' | Score: 0.0000
-  Tokens: [' look', ' read', ' like', ' find']
-Rank 11 | Centroid: ' contain' | Score: 0.0000
-  Tokens: [' include', ' contain', ' indicate', ' relate', ' consist', ' correspond']
-Rank 12 | Centroid: ' cause' | Score: 0.0000
-  Tokens: [' work', ' form', ' cause']
-Rank 13 | Centroid: ' match' | Score: 0.0000
-  Tokens: [' match', ' answer']
-Rank 14 | Centroid: ' logically' | Score: 0.0000
-  Tokens: [' logically', ' math', ' gramm']
-Rank 15 | Centroid: ' accept' | Score: 0.0000
-  Tokens: [' accept', ' agree']
-Rank 16 | Centroid: ' use' | Score: 0.0000
-  Tokens: [' use', ' end']
-Rank 17 | Centroid: ' satisfy' | Score: 0.0000
-  Tokens: [' communicate', ' meet', ' satisfy']
-Rank 18 | Centroid: ' come' | Score: 0.0000
-  Tokens: [' come', ' become']
-Rank 19 | Centroid: ' leave' | Score: 0.0000
-  Tokens: [' leave']
+Rank 1 | Centroid: ' disagree' | Score: 0.0806
+  Tokens: [' disagree', ' agree', ' insist']
+Rank 2 | Centroid: ' oppose' | Score: 0.0630
+  Tokens: [' oppose', ' opposed', ' opposing', ' opposes']
+Rank 3 | Centroid: ' want' | Score: 0.0439
+  Tokens: [' want', ' need', ' prefer']
+Rank 4 | Centroid: ' diss' | Score: 0.0298
+  Tokens: [' dis', ' diss', ' dismiss']
+Rank 5 | Centroid: ' think' | Score: 0.0199
+  Tokens: [' think', ' feel', ' know', ' thought', ' believe']
+Rank 6 | Centroid: ' tell' | Score: 0.0128
+  Tokens: [' say', ' tell', ' speak', ' ask', ' talk', ' told']
+Rank 7 | Centroid: ' discourage' | Score: 0.0065
+  Tokens: [' discourage', ' encourage', ' discour']
+Rank 8 | Centroid: ' warn' | Score: 0.0056
+  Tokens: [' warn', ' remind', ' teach']
+Rank 9 | Centroid: ' advise' | Score: 0.0043
+  Tokens: [' advise', ' suggest', ' urge', ' persuade']
+Rank 10 | Centroid: ' resist' | Score: 0.0030
+  Tokens: [' resist', ' res', ' resent']
+Rank 11 | Centroid: ' criticize' | Score: 0.0028
+  Tokens: [' decide', ' argue', ' approve', ' criticize']
+Rank 12 | Centroid: ' might' | Score: 0.0019
+  Tokens: [' would', ' might', ' still', ' initially', ' cons']
+Rank 13 | Centroid: ' stop' | Score: 0.0016
+  Tokens: [' stop', ' support', ' push', ' block', ' stand']
+Rank 14 | Centroid: ' worry' | Score: 0.0016
+  Tokens: [' fear', ' worry', ' caution', ' concern']
+Rank 15 | Centroid: ' forbid' | Score: 0.0015
+  Tokens: [' forbid', ' forb', ' prohibit']
+Rank 16 | Centroid: ' object' | Score: 0.0013
+  Tokens: [' object']
+Rank 17 | Centroid: ' prevent' | Score: 0.0011
+  Tokens: [' prevent', ' protect', ' hold', ' keep']
+Rank 18 | Centroid: ' reject' | Score: 0.0009
+  Tokens: [' reject', ' refuse']
+Rank 19 | Centroid: ' see' | Score: 0.0007
+  Tokens: [' try', ' see', ' watch', ' find']
+Rank 20 | Centroid: ' debate' | Score: 0.0006
+  Tokens: [' question', ' doubt', ' debate']
+Rank 21 | Centroid: ' respect' | Score: 0.0003
+  Tokens: [' respect']
+Rank 22 | Centroid: ' notice' | Score: 0.0001
+  Tokens: [' notice']
+Rank 23 | Centroid: ' council' | Score: 0.0001
+  Tokens: [' council']
 
 **Chosen Concept:** Rank 1

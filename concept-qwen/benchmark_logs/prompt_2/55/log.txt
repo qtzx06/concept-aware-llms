@@ -1,75 +1,158 @@
 --- Step 55 Log ---
 
 == Filtered Candidates ==
-Token: ' like' (ID: 1075), Prob: 0.9961
-Token: ' else' (ID: 770), Prob: 0.0015
-Token: ' yes' (ID: 9834), Prob: 0.0000
-Token: ' similar' (ID: 4428), Prob: 0.0000
-Token: ' Like' (ID: 8909), Prob: 0.0000
-Token: ' maybe' (ID: 7196), Prob: 0.0000
-Token: ' elif' (ID: 4409), Prob: 0.0000
-Token: ' etc' (ID: 4992), Prob: 0.0000
-Token: ' include' (ID: 2924), Prob: 0.0000
-Token: ' LIKE' (ID: 20529), Prob: 0.0000
-Token: ' including' (ID: 2670), Prob: 0.0000
-Token: 'like' (ID: 4803), Prob: 0.0000
-Token: ' list' (ID: 1140), Prob: 0.0000
-Token: '_like' (ID: 25535), Prob: 0.0000
-Token: '-like' (ID: 12681), Prob: 0.0000
-Token: ' around' (ID: 2163), Prob: 0.0000
-Token: ' related' (ID: 5435), Prob: 0.0000
-Token: ' otherwise' (ID: 5937), Prob: 0.0000
-Token: ' missing' (ID: 7402), Prob: 0.0000
-Token: ' possible' (ID: 3204), Prob: 0.0000
-Token: ' limited' (ID: 7199), Prob: 0.0000
-Token: ' less' (ID: 2686), Prob: 0.0000
-Token: ' likes' (ID: 13151), Prob: 0.0000
-Token: ' might' (ID: 2578), Prob: 0.0000
-Token: ' based' (ID: 3118), Prob: 0.0000
-Token: '.like' (ID: 66318), Prob: 0.0000
-Token: ' much' (ID: 1753), Prob: 0.0000
-Token: ' inside' (ID: 4766), Prob: 0.0000
-Token: ' say' (ID: 1977), Prob: 0.0000
-Token: 'Like' (ID: 12949), Prob: 0.0000
-Token: ' usually' (ID: 5990), Prob: 0.0000
-Token: ' included' (ID: 5230), Prob: 0.0000
-Token: ' important' (ID: 2989), Prob: 0.0000
-Token: ' towards' (ID: 6974), Prob: 0.0000
-Token: ' still' (ID: 2058), Prob: 0.0000
-Token: ' since' (ID: 2474), Prob: 0.0000
-Token: ' relevant' (ID: 9760), Prob: 0.0000
-Token: ' within' (ID: 2878), Prob: 0.0000
-Token: ' liked' (ID: 14915), Prob: 0.0000
-Token: ' last' (ID: 1537), Prob: 0.0000
+Token: ' success' (ID: 2393), Prob: 0.5430
+Token: ' destination' (ID: 9106), Prob: 0.4219
+Token: ' resolution' (ID: 10935), Prob: 0.0113
+Token: ' outcome' (ID: 15274), Prob: 0.0099
+Token: ' result' (ID: 1102), Prob: 0.0017
+Token: ' make' (ID: 1281), Prob: 0.0012
+Token: ' successful' (ID: 6849), Prob: 0.0012
+Token: ' arrival' (ID: 18647), Prob: 0.0008
+Token: ' making' (ID: 3259), Prob: 0.0007
+Token: ' trip' (ID: 8411), Prob: 0.0007
+Token: ' journey' (ID: 11618), Prob: 0.0006
+Token: ' triumph' (ID: 37486), Prob: 0.0006
+Token: ' goal' (ID: 5795), Prob: 0.0005
+Token: ' victory' (ID: 12560), Prob: 0.0004
+Token: ' purpose' (ID: 7428), Prob: 0.0003
+Token: ' destinations' (ID: 33105), Prob: 0.0003
+Token: ' achievement' (ID: 25426), Prob: 0.0003
+Token: ' positive' (ID: 6785), Prob: 0.0003
+Token: ' conclusion' (ID: 16688), Prob: 0.0003
+Token: ' successes' (ID: 47088), Prob: 0.0002
+Token: ' accomplishment' (ID: 60138), Prob: 0.0002
+Token: ' progress' (ID: 5098), Prob: 0.0002
+Token: ' solution' (ID: 6291), Prob: 0.0002
+Token: ' made' (ID: 1865), Prob: 0.0002
+Token: ' effort' (ID: 5041), Prob: 0.0001
+Token: ' meeting' (ID: 6438), Prob: 0.0001
+Token: ' point' (ID: 1459), Prob: 0.0001
+Token: ' message' (ID: 1943), Prob: 0.0001
+Token: ' return' (ID: 470), Prob: 0.0001
+Token: ' hope' (ID: 3900), Prob: 0.0001
+Token: ' good' (ID: 1661), Prob: 0.0001
+Token: ' ending' (ID: 13391), Prob: 0.0001
+Token: ' part' (ID: 949), Prob: 0.0001
+Token: ' dest' (ID: 3201), Prob: 0.0001
+Token: ' event' (ID: 1538), Prob: 0.0000
+Token: ' connection' (ID: 3633), Prob: 0.0000
+Token: ' got' (ID: 2684), Prob: 0.0000
+Token: ' travel' (ID: 5821), Prob: 0.0000
+Token: ' end' (ID: 835), Prob: 0.0000
+Token: ' movement' (ID: 7203), Prob: 0.0000
+Token: ' happy' (ID: 6247), Prob: 0.0000
+Token: ' get' (ID: 633), Prob: 0.0000
+Token: ' resolve' (ID: 8830), Prob: 0.0000
+Token: ' settlement' (ID: 17079), Prob: 0.0000
+Token: ' restoration' (ID: 33993), Prob: 0.0000
+Token: ' safety' (ID: 7149), Prob: 0.0000
+Token: ' makes' (ID: 3643), Prob: 0.0000
+Token: ' completion' (ID: 9755), Prob: 0.0000
+Token: ' fix' (ID: 5046), Prob: 0.0000
+Token: ' thanks' (ID: 9339), Prob: 0.0000
+Token: ' results' (ID: 3059), Prob: 0.0000
+Token: ' getting' (ID: 3709), Prob: 0.0000
+Token: ' transportation' (ID: 17903), Prob: 0.0000
+Token: 'ity' (ID: 487), Prob: 0.0000
+Token: ' move' (ID: 3271), Prob: 0.0000
+Token: ' thing' (ID: 3166), Prob: 0.0000
+Token: ' realization' (ID: 48703), Prob: 0.0000
+Token: ' rest' (ID: 2732), Prob: 0.0000
+Token: ' decision' (ID: 5480), Prob: 0.0000
+Token: ' win' (ID: 3164), Prob: 0.0000
+Token: ' recovery' (ID: 13351), Prob: 0.0000
+Token: ' improvement' (ID: 15673), Prob: 0.0000
+Token: ' route' (ID: 6021), Prob: 0.0000
+Token: ' home' (ID: 2114), Prob: 0.0000
+Token: ' satisfaction' (ID: 23689), Prob: 0.0000
+Token: ' acceptance' (ID: 25505), Prob: 0.0000
+Token: ' things' (ID: 2513), Prob: 0.0000
+Token: ' reaching' (ID: 18739), Prob: 0.0000
+Token: ' happiness' (ID: 23009), Prob: 0.0000
+Token: ' departure' (ID: 24915), Prob: 0.0000
+Token: ' celebration' (ID: 24916), Prob: 0.0000
+Token: ' outcomes' (ID: 19554), Prob: 0.0000
+Token: ' motivation' (ID: 24798), Prob: 0.0000
+Token: ' overcoming' (ID: 72917), Prob: 0.0000
+Token: ' determination' (ID: 25248), Prob: 0.0000
+Token: ' sense' (ID: 5530), Prob: 0.0000
+Token: ' survival' (ID: 19661), Prob: 0.0000
+Token: ' attempt' (ID: 4774), Prob: 0.0000
+Token: ' compromise' (ID: 29385), Prob: 0.0000
+Token: ' mission' (ID: 8954), Prob: 0.0000
+Token: ' progression' (ID: 32724), Prob: 0.0000
+Token: ' achievements' (ID: 32897), Prob: 0.0000
+Token: ' direction' (ID: 5106), Prob: 0.0000
+Token: ' cause' (ID: 5240), Prob: 0.0000
+Token: ' turning' (ID: 13054), Prob: 0.0000
+Token: ' relief' (ID: 15957), Prob: 0.0000
+Token: ' twist' (ID: 26646), Prob: 0.0000
+Token: ' change' (ID: 2297), Prob: 0.0000
+Token: ' respect' (ID: 5091), Prob: 0.0000
+Token: 'destination' (ID: 17997), Prob: 0.0000
+Token: ' transport' (ID: 7557), Prob: 0.0000
+Token: ' redemption' (ID: 55652), Prob: 0.0000
+Token: ' reach' (ID: 5545), Prob: 0.0000
+Token: ' finish' (ID: 6248), Prob: 0.0000
+Token: ' reward' (ID: 11313), Prob: 0.0000
+Token: ' aspect' (ID: 12893), Prob: 0.0000
+Token: ' lesson' (ID: 17755), Prob: 0.0000
+Token: ' location' (ID: 3728), Prob: 0.0000
+Token: ' consequence' (ID: 28674), Prob: 0.0000
 
 == Ranked Concepts (Clusters) ==
-Rank 1 | Centroid: ' Like' | Score: 0.9961
-  Tokens: [' like', ' Like', ' LIKE', 'like', '_like', '-like', '.like', 'Like']
-Rank 2 | Centroid: ' else' | Score: 0.0015
-  Tokens: [' else', ' elif', ' otherwise']
-Rank 3 | Centroid: ' yes' | Score: 0.0000
-  Tokens: [' yes', ' say']
-Rank 4 | Centroid: ' related' | Score: 0.0000
-  Tokens: [' similar', ' related', ' relevant']
-Rank 5 | Centroid: ' maybe' | Score: 0.0000
-  Tokens: [' maybe', ' possible', ' might']
-Rank 6 | Centroid: ' include' | Score: 0.0000
-  Tokens: [' include', ' including', ' included']
-Rank 7 | Centroid: ' etc' | Score: 0.0000
-  Tokens: [' etc', ' much']
-Rank 8 | Centroid: ' within' | Score: 0.0000
-  Tokens: [' around', ' inside', ' towards', ' within']
-Rank 9 | Centroid: ' list' | Score: 0.0000
-  Tokens: [' list', ' last']
-Rank 10 | Centroid: ' limited' | Score: 0.0000
-  Tokens: [' limited', ' less']
-Rank 11 | Centroid: ' missing' | Score: 0.0000
-  Tokens: [' missing', ' important']
-Rank 12 | Centroid: ' likes' | Score: 0.0000
-  Tokens: [' likes', ' liked']
-Rank 13 | Centroid: ' based' | Score: 0.0000
-  Tokens: [' based', ' since']
-Rank 14 | Centroid: ' usually' | Score: 0.0000
-  Tokens: [' usually', ' still']
+Rank 1 | Centroid: ' successes' | Score: 0.5469
+  Tokens: [' success', ' successful', ' triumph', ' victory', ' successes', ' win']
+Rank 2 | Centroid: ' destination' | Score: 0.4219
+  Tokens: [' destination', ' destinations', ' dest', 'destination']
+Rank 3 | Centroid: ' outcome' | Score: 0.0120
+  Tokens: [' outcome', ' result', ' conclusion', ' results', ' outcomes', ' consequence']
+Rank 4 | Centroid: ' resolution' | Score: 0.0115
+  Tokens: [' resolution', ' solution', ' resolve', ' compromise']
+Rank 5 | Centroid: ' transportation' | Score: 0.0023
+  Tokens: [' arrival', ' trip', ' journey', ' travel', ' transportation', ' route', ' departure', ' transport']
+Rank 6 | Centroid: ' make' | Score: 0.0021
+  Tokens: [' make', ' making', ' made', ' makes']
+Rank 7 | Centroid: ' goal' | Score: 0.0008
+  Tokens: [' goal', ' purpose']
+Rank 8 | Centroid: ' achievements' | Score: 0.0006
+  Tokens: [' achievement', ' accomplishment', ' overcoming', ' progression', ' achievements']
+Rank 9 | Centroid: ' happy' | Score: 0.0005
+  Tokens: [' positive', ' hope', ' good', ' happy']
+Rank 10 | Centroid: ' lesson' | Score: 0.0003
+  Tokens: [' point', ' message', ' part', ' event', ' twist', ' aspect', ' lesson']
+Rank 11 | Centroid: ' getting' | Score: 0.0002
+  Tokens: [' meeting', ' got', ' get', ' getting', ' reaching', ' turning', ' reach']
+Rank 12 | Centroid: ' progress' | Score: 0.0002
+  Tokens: [' progress']
+Rank 13 | Centroid: ' return' | Score: 0.0001
+  Tokens: [' return', ' fix', ' rest', ' home']
+Rank 14 | Centroid: ' effort' | Score: 0.0001
+  Tokens: [' effort', ' attempt', ' mission']
+Rank 15 | Centroid: ' redemption' | Score: 0.0001
+  Tokens: [' settlement', ' restoration', ' recovery', ' satisfaction', ' acceptance', ' relief', ' redemption']
+Rank 16 | Centroid: ' ending' | Score: 0.0001
+  Tokens: [' ending', ' end', ' finish']
+Rank 17 | Centroid: ' celebration' | Score: 0.0001
+  Tokens: [' completion', ' realization', ' improvement', ' celebration', ' determination']
+Rank 18 | Centroid: ' move' | Score: 0.0001
+  Tokens: [' movement', ' move', ' change']
+Rank 19 | Centroid: ' things' | Score: 0.0001
+  Tokens: [' thanks', ' thing', ' things']
+Rank 20 | Centroid: ' survival' | Score: 0.0001
+  Tokens: [' safety', ' happiness', ' survival']
+Rank 21 | Centroid: ' connection' | Score: 0.0000
+  Tokens: [' connection']
+Rank 22 | Centroid: ' respect' | Score: 0.0000
+  Tokens: ['ity', ' sense', ' respect']
+Rank 23 | Centroid: ' decision' | Score: 0.0000
+  Tokens: [' decision', ' cause']
+Rank 24 | Centroid: ' direction' | Score: 0.0000
+  Tokens: [' direction', ' location']
+Rank 25 | Centroid: ' motivation' | Score: 0.0000
+  Tokens: [' motivation']
+Rank 26 | Centroid: ' reward' | Score: 0.0000
+  Tokens: [' reward']
 
 **Chosen Concept:** Rank 1

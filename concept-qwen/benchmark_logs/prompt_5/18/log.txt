@@ -1,71 +1,121 @@
 --- Step 18 Log ---
 
 == Filtered Candidates ==
-Token: ' given' (ID: 2661), Prob: 0.7188
-Token: ' provided' (ID: 3897), Prob: 0.2061
-Token: ' presented' (ID: 10449), Prob: 0.0071
-Token: ' available' (ID: 2500), Prob: 0.0013
-Token: ' mentioned' (ID: 9733), Prob: 0.0002
-Token: ' present' (ID: 3042), Prob: 0.0001
-Token: ' listed' (ID: 10007), Prob: 0.0001
-Token: ' Given' (ID: 16246), Prob: 0.0001
-Token: ' stated' (ID: 10982), Prob: 0.0001
-Token: ' shown' (ID: 6839), Prob: 0.0001
-Token: ' described' (ID: 7481), Prob: 0.0001
-Token: ' regarding' (ID: 8826), Prob: 0.0001
-Token: ' supplied' (ID: 17221), Prob: 0.0001
-Token: ' give' (ID: 2968), Prob: 0.0000
-Token: ' contained' (ID: 12985), Prob: 0.0000
-Token: ' currently' (ID: 5023), Prob: 0.0000
-Token: ' specified' (ID: 5189), Prob: 0.0000
-Token: ' already' (ID: 2669), Prob: 0.0000
-Token: ' gives' (ID: 6696), Prob: 0.0000
-Token: ' received' (ID: 3949), Prob: 0.0000
-Token: ' included' (ID: 5230), Prob: 0.0000
-Token: 'given' (ID: 41968), Prob: 0.0000
-Token: ' written' (ID: 5326), Prob: 0.0000
-Token: ' obtained' (ID: 12180), Prob: 0.0000
-Token: ' related' (ID: 5435), Prob: 0.0000
-Token: ' found' (ID: 1730), Prob: 0.0000
-Token: ' retrieved' (ID: 30403), Prob: 0.0000
-Token: ' added' (ID: 3694), Prob: 0.0000
-Token: ' said' (ID: 1053), Prob: 0.0000
-Token: ' previously' (ID: 8597), Prob: 0.0000
-Token: ' quoted' (ID: 23237), Prob: 0.0000
-Token: ' generated' (ID: 7907), Prob: 0.0000
-Token: 'Given' (ID: 22043), Prob: 0.0000
+Token: ' identify' (ID: 10542), Prob: 0.0005
+Token: ' understand' (ID: 3535), Prob: 0.0001
+Token: ' let' (ID: 1077), Prob: 0.0001
+Token: ' look' (ID: 1401), Prob: 0.0001
+Token: ' analyze' (ID: 23643), Prob: 0.0001
+Token: ' extract' (ID: 8649), Prob: 0.0000
+Token: ' find' (ID: 1477), Prob: 0.0000
+Token: ' read' (ID: 1349), Prob: 0.0000
+Token: ' check' (ID: 1779), Prob: 0.0000
+Token: ' pick' (ID: 3735), Prob: 0.0000
+Token: ' figure' (ID: 7071), Prob: 0.0000
+Token: ' gather' (ID: 9567), Prob: 0.0000
+Token: ' parse' (ID: 4715), Prob: 0.0000
+Token: ' maybe' (ID: 7196), Prob: 0.0000
+Token: ' need' (ID: 1184), Prob: 0.0000
+Token: ' make' (ID: 1281), Prob: 0.0000
+Token: ' take' (ID: 1896), Prob: 0.0000
+Token: ' think' (ID: 1744), Prob: 0.0000
+Token: ' observe' (ID: 22986), Prob: 0.0000
+Token: ' break' (ID: 1438), Prob: 0.0000
+Token: ' determine' (ID: 8253), Prob: 0.0000
+Token: ' decide' (ID: 10279), Prob: 0.0000
+Token: ' scan' (ID: 8569), Prob: 0.0000
+Token: ' visualize' (ID: 50087), Prob: 0.0000
+Token: ' imagine' (ID: 12793), Prob: 0.0000
+Token: ' summarize' (ID: 62079), Prob: 0.0000
+Token: ' perhaps' (ID: 8365), Prob: 0.0000
+Token: ' get' (ID: 633), Prob: 0.0000
+Token: ' ensure' (ID: 5978), Prob: 0.0000
+Token: ' see' (ID: 1490), Prob: 0.0000
+Token: ' understanding' (ID: 8660), Prob: 0.0000
+Token: ' something' (ID: 2494), Prob: 0.0000
+Token: ' looking' (ID: 3330), Prob: 0.0000
+Token: ' choose' (ID: 5157), Prob: 0.0000
+Token: ' focus' (ID: 5244), Prob: 0.0000
+Token: ' characters' (ID: 5766), Prob: 0.0000
+Token: ' examine' (ID: 20961), Prob: 0.0000
+Token: ' consider' (ID: 2908), Prob: 0.0000
+Token: ' outline' (ID: 21101), Prob: 0.0000
+Token: ' readers' (ID: 12726), Prob: 0.0000
+Token: ' acknowledge' (ID: 24645), Prob: 0.0000
+Token: ' try' (ID: 1430), Prob: 0.0000
+Token: ' review' (ID: 3395), Prob: 0.0000
+Token: ' prompt' (ID: 9934), Prob: 0.0000
+Token: ' identifying' (ID: 24588), Prob: 0.0000
+Token: ' define' (ID: 6979), Prob: 0.0000
+Token: ' translate' (ID: 14683), Prob: 0.0000
+Token: ' absorb' (ID: 34306), Prob: 0.0000
+Token: ' highlight' (ID: 11167), Prob: 0.0000
 Token: ' set' (ID: 738), Prob: 0.0000
-Token: ' released' (ID: 5880), Prob: 0.0000
-Token: ' offered' (ID: 8900), Prob: 0.0000
+Token: ' notice' (ID: 5293), Prob: 0.0000
+Token: ' note' (ID: 5185), Prob: 0.0000
+Token: ' recognize' (ID: 15282), Prob: 0.0000
+Token: ' tackle' (ID: 21403), Prob: 0.0000
+Token: ' locate' (ID: 24523), Prob: 0.0000
+Token: ' process' (ID: 1882), Prob: 0.0000
+Token: ' someone' (ID: 4325), Prob: 0.0000
+Token: ' name' (ID: 829), Prob: 0.0000
+Token: ' since' (ID: 2474), Prob: 0.0000
+Token: ' character' (ID: 3668), Prob: 0.0000
+Token: ' allow' (ID: 2138), Prob: 0.0000
+Token: ' grab' (ID: 11633), Prob: 0.0000
+Token: ' simplify' (ID: 39721), Prob: 0.0000
+Token: ' Identify' (ID: 64547), Prob: 0.0000
+Token: ' collect' (ID: 6530), Prob: 0.0000
+Token: ' describe' (ID: 7512), Prob: 0.0000
+Token: ' spot' (ID: 7702), Prob: 0.0000
+Token: ' establish' (ID: 5695), Prob: 0.0000
 
 == Ranked Concepts (Clusters) ==
-Rank 1 | Centroid: ' Given' | Score: 0.7188
-  Tokens: [' given', ' Given', 'given', 'Given']
-Rank 2 | Centroid: ' provided' | Score: 0.2061
-  Tokens: [' provided', ' supplied', ' offered']
-Rank 3 | Centroid: ' presented' | Score: 0.0072
-  Tokens: [' presented', ' present']
-Rank 4 | Centroid: ' available' | Score: 0.0013
-  Tokens: [' available']
-Rank 5 | Centroid: ' stated' | Score: 0.0005
-  Tokens: [' mentioned', ' listed', ' stated', ' described', ' specified', ' said', ' quoted']
-Rank 6 | Centroid: ' regarding' | Score: 0.0001
-  Tokens: [' regarding', ' related']
-Rank 7 | Centroid: ' shown' | Score: 0.0001
-  Tokens: [' shown']
-Rank 8 | Centroid: ' included' | Score: 0.0001
-  Tokens: [' contained', ' included', ' added']
-Rank 9 | Centroid: ' give' | Score: 0.0001
-  Tokens: [' give', ' gives']
-Rank 10 | Centroid: ' obtained' | Score: 0.0001
-  Tokens: [' received', ' obtained', ' retrieved', ' generated']
-Rank 11 | Centroid: ' previously' | Score: 0.0001
-  Tokens: [' currently', ' already', ' previously']
-Rank 12 | Centroid: ' written' | Score: 0.0000
-  Tokens: [' written', ' released']
-Rank 13 | Centroid: ' found' | Score: 0.0000
-  Tokens: [' found']
-Rank 14 | Centroid: ' set' | Score: 0.0000
-  Tokens: [' set']
+Rank 1 | Centroid: ' identify' | Score: 0.0005
+  Tokens: [' identify', ' identifying', ' locate', ' Identify']
+Rank 2 | Centroid: ' get' | Score: 0.0001
+  Tokens: [' let', ' check', ' make', ' take', ' get', ' try']
+Rank 3 | Centroid: ' understand' | Score: 0.0001
+  Tokens: [' understand', ' understanding']
+Rank 4 | Centroid: ' look' | Score: 0.0001
+  Tokens: [' look', ' looking']
+Rank 5 | Centroid: ' gather' | Score: 0.0001
+  Tokens: [' extract', ' gather', ' parse', ' scan', ' absorb', ' grab', ' collect']
+Rank 6 | Centroid: ' analyze' | Score: 0.0001
+  Tokens: [' analyze', ' visualize', ' examine']
+Rank 7 | Centroid: ' find' | Score: 0.0000
+  Tokens: [' find', ' choose']
+Rank 8 | Centroid: ' read' | Score: 0.0000
+  Tokens: [' read', ' readers']
+Rank 9 | Centroid: ' pick' | Score: 0.0000
+  Tokens: [' pick']
+Rank 10 | Centroid: ' determine' | Score: 0.0000
+  Tokens: [' determine', ' decide', ' ensure', ' define', ' establish']
+Rank 11 | Centroid: ' perhaps' | Score: 0.0000
+  Tokens: [' maybe', ' perhaps', ' something', ' someone']
+Rank 12 | Centroid: ' think' | Score: 0.0000
+  Tokens: [' think', ' imagine', ' see', ' consider']
+Rank 13 | Centroid: ' figure' | Score: 0.0000
+  Tokens: [' figure']
+Rank 14 | Centroid: ' need' | Score: 0.0000
+  Tokens: [' need', ' set', ' process', ' name']
+Rank 15 | Centroid: ' notice' | Score: 0.0000
+  Tokens: [' observe', ' notice', ' note']
+Rank 16 | Centroid: ' break' | Score: 0.0000
+  Tokens: [' break', ' tackle']
+Rank 17 | Centroid: ' highlight' | Score: 0.0000
+  Tokens: [' focus', ' outline', ' review', ' highlight']
+Rank 18 | Centroid: ' describe' | Score: 0.0000
+  Tokens: [' summarize', ' translate', ' simplify', ' describe']
+Rank 19 | Centroid: ' characters' | Score: 0.0000
+  Tokens: [' characters', ' character']
+Rank 20 | Centroid: ' acknowledge' | Score: 0.0000
+  Tokens: [' acknowledge', ' recognize']
+Rank 21 | Centroid: ' prompt' | Score: 0.0000
+  Tokens: [' prompt', ' spot']
+Rank 22 | Centroid: ' since' | Score: 0.0000
+  Tokens: [' since']
+Rank 23 | Centroid: ' allow' | Score: 0.0000
+  Tokens: [' allow']
 
 **Chosen Concept:** Rank 1

@@ -1,66 +1,160 @@
 --- Step 101 Log ---
 
 == Filtered Candidates ==
-Token: ' prompt' (ID: 9934), Prob: 0.9883
-Token: ' message' (ID: 1943), Prob: 0.0028
-Token: ' Prompt' (ID: 59501), Prob: 0.0004
-Token: ' prompts' (ID: 50932), Prob: 0.0002
-Token: '(prompt' (ID: 72253), Prob: 0.0001
-Token: 'prompt' (ID: 40581), Prob: 0.0001
-Token: 'Prompt' (ID: 54615), Prob: 0.0000
-Token: ' question' (ID: 3405), Prob: 0.0000
-Token: ' potential' (ID: 4650), Prob: 0.0000
-Token: ' prompting' (ID: 49645), Prob: 0.0000
-Token: ' prompted' (ID: 28646), Prob: 0.0000
-Token: '_prompt' (ID: 61421), Prob: 0.0000
-Token: ' motif' (ID: 59512), Prob: 0.0000
-Token: ' promise' (ID: 11222), Prob: 0.0000
-Token: ' prom' (ID: 2706), Prob: 0.0000
-Token: ' within' (ID: 2878), Prob: 0.0000
-Token: ' promotion' (ID: 20249), Prob: 0.0000
-Token: ' hint' (ID: 13012), Prob: 0.0000
-Token: '.prompt' (ID: 65399), Prob: 0.0000
-Token: ' keyword' (ID: 16174), Prob: 0.0000
-Token: ' messages' (ID: 6605), Prob: 0.0000
-Token: ' theme' (ID: 6912), Prob: 0.0000
-Token: ' topic' (ID: 8544), Prob: 0.0000
-Token: ' point' (ID: 1459), Prob: 0.0000
-Token: ' priority' (ID: 10619), Prob: 0.0000
-Token: ' position' (ID: 2309), Prob: 0.0000
-Token: ' mood' (ID: 19671), Prob: 0.0000
-Token: ' wording' (ID: 60227), Prob: 0.0000
-Token: ' PROM' (ID: 67688), Prob: 0.0000
-Token: ' promote' (ID: 11926), Prob: 0.0000
-Token: ' list' (ID: 1140), Prob: 0.0000
+Token: ' make' (ID: 1281), Prob: 0.3594
+Token: ' keep' (ID: 2506), Prob: 0.3164
+Token: ' check' (ID: 1779), Prob: 0.2471
+Token: ' ensure' (ID: 5978), Prob: 0.0625
+Token: ' avoid' (ID: 5648), Prob: 0.0027
+Token: ' maintain' (ID: 10306), Prob: 0.0021
+Token: ' include' (ID: 2924), Prob: 0.0017
+Token: ' mention' (ID: 6286), Prob: 0.0015
+Token: ' stay' (ID: 4717), Prob: 0.0005
+Token: ' structure' (ID: 5944), Prob: 0.0005
+Token: ' follow' (ID: 1795), Prob: 0.0004
+Token: ' use' (ID: 990), Prob: 0.0003
+Token: ' incorporate' (ID: 32335), Prob: 0.0002
+Token: ' pick' (ID: 3735), Prob: 0.0002
+Token: ' flow' (ID: 6396), Prob: 0.0002
+Token: ' write' (ID: 3270), Prob: 0.0001
+Token: ' connect' (ID: 4564), Prob: 0.0001
+Token: ' balance' (ID: 8172), Prob: 0.0001
+Token: ' stick' (ID: 9214), Prob: 0.0001
+Token: ' vary' (ID: 13289), Prob: 0.0001
+Token: ' craft' (ID: 10770), Prob: 0.0000
+Token: ' remember' (ID: 6099), Prob: 0.0000
+Token: ' combine' (ID: 15963), Prob: 0.0000
+Token: ' integrate' (ID: 31072), Prob: 0.0000
+Token: ' mirror' (ID: 17846), Prob: 0.0000
+Token: ' blend' (ID: 20334), Prob: 0.0000
+Token: ' put' (ID: 2182), Prob: 0.0000
+Token: ' verify' (ID: 10146), Prob: 0.0000
+Token: ' Keep' (ID: 13655), Prob: 0.0000
+Token: ' mix' (ID: 6514), Prob: 0.0000
+Token: ' pull' (ID: 6815), Prob: 0.0000
+Token: ' watch' (ID: 3736), Prob: 0.0000
+Token: ' sound' (ID: 5112), Prob: 0.0000
+Token: ' tie' (ID: 18131), Prob: 0.0000
+Token: ' link' (ID: 2656), Prob: 0.0000
+Token: ' preserve' (ID: 21129), Prob: 0.0000
+Token: ' present' (ID: 3042), Prob: 0.0000
+Token: ' focus' (ID: 5244), Prob: 0.0000
+Token: ' start' (ID: 1191), Prob: 0.0000
+Token: ' think' (ID: 1744), Prob: 0.0000
+Token: ' get' (ID: 633), Prob: 0.0000
+Token: ' describe' (ID: 7512), Prob: 0.0000
+Token: ' hook' (ID: 9704), Prob: 0.0000
+Token: ' tone' (ID: 16232), Prob: 0.0000
+Token: ' weave' (ID: 67508), Prob: 0.0000
+Token: ' capture' (ID: 12322), Prob: 0.0000
+Token: ' simplify' (ID: 39721), Prob: 0.0000
+Token: ' bring' (ID: 4446), Prob: 0.0000
+Token: ' draft' (ID: 9960), Prob: 0.0000
+Token: ' read' (ID: 1349), Prob: 0.0000
+Token: ' sentence' (ID: 11652), Prob: 0.0000
+Token: ' phrase' (ID: 17133), Prob: 0.0000
+Token: ' adhere' (ID: 48453), Prob: 0.0000
+Token: ' trim' (ID: 11013), Prob: 0.0000
+Token: ' control' (ID: 2524), Prob: 0.0000
+Token: ' organize' (ID: 30235), Prob: 0.0000
+Token: ' paraph' (ID: 62230), Prob: 0.0000
+Token: ' pay' (ID: 2291), Prob: 0.0000
+Token: ' meet' (ID: 3367), Prob: 0.0000
+Token: ' confirm' (ID: 7683), Prob: 0.0000
+Token: ' translate' (ID: 14683), Prob: 0.0000
+Token: ' outline' (ID: 21101), Prob: 0.0000
+Token: ' Make' (ID: 7405), Prob: 0.0000
+Token: ' know' (ID: 1414), Prob: 0.0000
+Token: ' hit' (ID: 4201), Prob: 0.0000
+Token: ' mimic' (ID: 55359), Prob: 0.0000
+Token: ' look' (ID: 1401), Prob: 0.0000
+Token: ' sure' (ID: 2704), Prob: 0.0000
+Token: ' plan' (ID: 3119), Prob: 0.0000
+Token: ' visualize' (ID: 50087), Prob: 0.0000
+Token: ' concise' (ID: 63594), Prob: 0.0000
+Token: ' evoke' (ID: 94163), Prob: 0.0000
+Token: ' switch' (ID: 3398), Prob: 0.0000
+Token: ' convey' (ID: 20001), Prob: 0.0000
+Token: ' cover' (ID: 3421), Prob: 0.0000
+Token: ' involve' (ID: 21058), Prob: 0.0000
+Token: ' paragraphs' (ID: 42643), Prob: 0.0000
+Token: ' add' (ID: 912), Prob: 0.0000
+Token: ' tell' (ID: 3291), Prob: 0.0000
+Token: ' wrap' (ID: 15061), Prob: 0.0000
+Token: ' summarize' (ID: 62079), Prob: 0.0000
+Token: ' come' (ID: 2525), Prob: 0.0000
+Token: ' adjust' (ID: 7500), Prob: 0.0000
+Token: ' coordinate' (ID: 16184), Prob: 0.0000
+Token: ' spell' (ID: 12845), Prob: 0.0000
+Token: ' paragraph' (ID: 14311), Prob: 0.0000
+Token: ' also' (ID: 1083), Prob: 0.0000
+Token: ' vivid' (ID: 42020), Prob: 0.0000
+Token: ' steer' (ID: 48615), Prob: 0.0000
+Token: ' streamline' (ID: 81603), Prob: 0.0000
+Token: ' save' (ID: 3581), Prob: 0.0000
+Token: ' format' (ID: 3561), Prob: 0.0000
+Token: ' highlight' (ID: 11167), Prob: 0.0000
+Token: ' shorten' (ID: 73381), Prob: 0.0000
+Token: ' word' (ID: 3409), Prob: 0.0000
 
 == Ranked Concepts (Clusters) ==
-Rank 1 | Centroid: 'Prompt' | Score: 0.9883
-  Tokens: [' prompt', ' Prompt', '(prompt', 'prompt', 'Prompt', '_prompt', '.prompt']
-Rank 2 | Centroid: ' message' | Score: 0.0028
-  Tokens: [' message', ' messages']
-Rank 3 | Centroid: ' prompts' | Score: 0.0003
-  Tokens: [' prompts', ' prompting', ' prompted']
-Rank 4 | Centroid: ' promote' | Score: 0.0000
-  Tokens: [' prom', ' promotion', ' PROM', ' promote']
-Rank 5 | Centroid: ' theme' | Score: 0.0000
-  Tokens: [' motif', ' theme', ' topic']
-Rank 6 | Centroid: ' question' | Score: 0.0000
-  Tokens: [' question']
-Rank 7 | Centroid: ' potential' | Score: 0.0000
-  Tokens: [' potential']
-Rank 8 | Centroid: ' promise' | Score: 0.0000
-  Tokens: [' promise']
-Rank 9 | Centroid: ' keyword' | Score: 0.0000
-  Tokens: [' keyword', ' wording']
-Rank 10 | Centroid: ' point' | Score: 0.0000
-  Tokens: [' point', ' position']
-Rank 11 | Centroid: ' within' | Score: 0.0000
-  Tokens: [' within']
-Rank 12 | Centroid: ' priority' | Score: 0.0000
-  Tokens: [' priority', ' mood']
-Rank 13 | Centroid: ' hint' | Score: 0.0000
-  Tokens: [' hint']
-Rank 14 | Centroid: ' list' | Score: 0.0000
-  Tokens: [' list']
+Rank 1 | Centroid: ' make' | Score: 0.3594
+  Tokens: [' make', ' Make']
+Rank 2 | Centroid: ' keep' | Score: 0.3223
+  Tokens: [' keep', ' avoid', ' maintain', ' stay', ' Keep', ' preserve']
+Rank 3 | Centroid: ' verify' | Score: 0.3105
+  Tokens: [' check', ' ensure', ' verify', ' confirm', ' sure']
+Rank 4 | Centroid: ' incorporate' | Score: 0.0020
+  Tokens: [' include', ' incorporate', ' vary', ' integrate', ' involve']
+Rank 5 | Centroid: ' mention' | Score: 0.0015
+  Tokens: [' mention']
+Rank 6 | Centroid: ' outline' | Score: 0.0005
+  Tokens: [' structure', ' draft', ' outline', ' plan', ' format']
+Rank 7 | Centroid: ' capture' | Score: 0.0004
+  Tokens: [' follow', ' capture', ' meet', ' cover']
+Rank 8 | Centroid: ' use' | Score: 0.0003
+  Tokens: [' use', ' start']
+Rank 9 | Centroid: ' control' | Score: 0.0002
+  Tokens: [' flow', ' focus', ' control']
+Rank 10 | Centroid: ' pick' | Score: 0.0002
+  Tokens: [' pick', ' pay', ' hit']
+Rank 11 | Centroid: ' tie' | Score: 0.0001
+  Tokens: [' connect', ' pull', ' tie', ' link', ' hook', ' wrap']
+Rank 12 | Centroid: ' get' | Score: 0.0001
+  Tokens: [' write', ' put', ' get', ' read', ' add', ' save']
+Rank 13 | Centroid: ' blend' | Score: 0.0001
+  Tokens: [' balance', ' blend', ' mix', ' switch']
+Rank 14 | Centroid: ' know' | Score: 0.0001
+  Tokens: [' remember', ' watch', ' think', ' know', ' look', ' tell']
+Rank 15 | Centroid: ' stick' | Score: 0.0001
+  Tokens: [' stick']
+Rank 16 | Centroid: ' craft' | Score: 0.0000
+  Tokens: [' craft', ' tone']
+Rank 17 | Centroid: ' combine' | Score: 0.0000
+  Tokens: [' combine', ' adjust']
+Rank 18 | Centroid: ' mirror' | Score: 0.0000
+  Tokens: [' mirror', ' mimic']
+Rank 19 | Centroid: ' phrase' | Score: 0.0000
+  Tokens: [' sound', ' sentence', ' phrase', ' spell', ' word']
+Rank 20 | Centroid: ' summarize' | Score: 0.0000
+  Tokens: [' describe', ' organize', ' visualize', ' summarize']
+Rank 21 | Centroid: ' present' | Score: 0.0000
+  Tokens: [' present', ' also']
+Rank 22 | Centroid: ' simplify' | Score: 0.0000
+  Tokens: [' simplify', ' translate', ' shorten']
+Rank 23 | Centroid: ' paragraph' | Score: 0.0000
+  Tokens: [' paraph', ' paragraphs', ' paragraph']
+Rank 24 | Centroid: ' weave' | Score: 0.0000
+  Tokens: [' weave', ' steer']
+Rank 25 | Centroid: ' bring' | Score: 0.0000
+  Tokens: [' bring', ' come']
+Rank 26 | Centroid: ' adhere' | Score: 0.0000
+  Tokens: [' adhere', ' evoke']
+Rank 27 | Centroid: ' streamline' | Score: 0.0000
+  Tokens: [' concise', ' coordinate', ' streamline']
+Rank 28 | Centroid: ' vivid' | Score: 0.0000
+  Tokens: [' convey', ' vivid', ' highlight']
+Rank 29 | Centroid: ' trim' | Score: 0.0000
+  Tokens: [' trim']
 
 **Chosen Concept:** Rank 1

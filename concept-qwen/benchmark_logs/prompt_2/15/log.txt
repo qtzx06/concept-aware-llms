@@ -1,86 +1,93 @@
 --- Step 15 Log ---
 
 == Filtered Candidates ==
-Token: ' like' (ID: 1075), Prob: 0.9609
-Token: ' along' (ID: 3156), Prob: 0.0020
-Token: ' else' (ID: 770), Prob: 0.0016
-Token: ' related' (ID: 5435), Prob: 0.0014
-Token: ' similar' (ID: 4428), Prob: 0.0012
-Token: ' something' (ID: 2494), Prob: 0.0005
-Token: ' specific' (ID: 3151), Prob: 0.0004
-Token: ' important' (ID: 2989), Prob: 0.0003
-Token: ' useful' (ID: 5390), Prob: 0.0003
-Token: ' relevant' (ID: 9760), Prob: 0.0002
-Token: ' including' (ID: 2670), Prob: 0.0001
-Token: ' unexpected' (ID: 16500), Prob: 0.0001
-Token: ' regarding' (ID: 8826), Prob: 0.0001
-Token: ' helpful' (ID: 10950), Prob: 0.0001
-Token: ' besides' (ID: 27758), Prob: 0.0001
-Token: ' things' (ID: 2513), Prob: 0.0001
-Token: ' added' (ID: 3694), Prob: 0.0001
-Token: ' listed' (ID: 10007), Prob: 0.0001
-Token: 'like' (ID: 4803), Prob: 0.0000
-Token: ' interesting' (ID: 7040), Prob: 0.0000
-Token: ' different' (ID: 2155), Prob: 0.0000
-Token: ' based' (ID: 3118), Prob: 0.0000
-Token: ' simple' (ID: 4285), Prob: 0.0000
-Token: ' inside' (ID: 4766), Prob: 0.0000
-Token: ' mentioned' (ID: 9733), Prob: 0.0000
-Token: ' extra' (ID: 4960), Prob: 0.0000
-Token: ' written' (ID: 5326), Prob: 0.0000
-Token: ' bold' (ID: 13939), Prob: 0.0000
+Token: ' within' (ID: 2878), Prob: 0.0045
+Token: ' inside' (ID: 4766), Prob: 0.0024
+Token: ' naturally' (ID: 17712), Prob: 0.0000
+Token: ' directly' (ID: 5961), Prob: 0.0000
+Token: ' without' (ID: 2041), Prob: 0.0000
+Token: ' correctly' (ID: 12440), Prob: 0.0000
+Token: ' seamlessly' (ID: 60340), Prob: 0.0000
+Token: ' smoothly' (ID: 38411), Prob: 0.0000
+Token: ' properly' (ID: 10277), Prob: 0.0000
+Token: ' accurately' (ID: 29257), Prob: 0.0000
+Token: ' exactly' (ID: 6896), Prob: 0.0000
+Token: ' statement' (ID: 5114), Prob: 0.0000
+Token: ' sentence' (ID: 11652), Prob: 0.0000
+Token: ' message' (ID: 1943), Prob: 0.0000
+Token: ' effectively' (ID: 13444), Prob: 0.0000
+Token: ' right' (ID: 1290), Prob: 0.0000
+Token: ' efficiently' (ID: 29720), Prob: 0.0000
+Token: ' deeply' (ID: 17247), Prob: 0.0000
 Token: ' around' (ID: 2163), Prob: 0.0000
-Token: ' called' (ID: 2598), Prob: 0.0000
-Token: ' negative' (ID: 8225), Prob: 0.0000
-Token: ' detailed' (ID: 11682), Prob: 0.0000
-Token: ' within' (ID: 2878), Prob: 0.0000
-Token: ' positive' (ID: 6785), Prob: 0.0000
-Token: ' missing' (ID: 7402), Prob: 0.0000
-Token: ' beyond' (ID: 7797), Prob: 0.0000
-Token: ' meaningful' (ID: 22414), Prob: 0.0000
-Token: ' near' (ID: 3143), Prob: 0.0000
-Token: ' even' (ID: 1496), Prob: 0.0000
-Token: ' less' (ID: 2686), Prob: 0.0000
-Token: ' valuable' (ID: 15172), Prob: 0.0000
-Token: ' wrong' (ID: 4969), Prob: 0.0000
-Token: ' Like' (ID: 8909), Prob: 0.0000
-Token: ' notable' (ID: 27190), Prob: 0.0000
-Token: ' new' (ID: 501), Prob: 0.0000
-Token: ' said' (ID: 1053), Prob: 0.0000
-Token: ' close' (ID: 3265), Prob: 0.0000
+Token: ' somehow' (ID: 16925), Prob: 0.0000
+Token: ' responsibly' (ID: 86288), Prob: 0.0000
+Token: ' somewhere' (ID: 14696), Prob: 0.0000
+Token: ' saying' (ID: 5488), Prob: 0.0000
+Token: ' successfully' (ID: 7790), Prob: 0.0000
+Token: ' metaphor' (ID: 45350), Prob: 0.0000
+Token: ' nicely' (ID: 28821), Prob: 0.0000
+Token: ' neatly' (ID: 62166), Prob: 0.0000
+Token: ' creatively' (ID: 92296), Prob: 0.0000
+Token: ' phrase' (ID: 17133), Prob: 0.0000
+Token: ' literally' (ID: 15901), Prob: 0.0000
+Token: ' well' (ID: 1632), Prob: 0.0000
+Token: ' appropriately' (ID: 34901), Prob: 0.0000
+Token: ' like' (ID: 1075), Prob: 0.0000
+Token: ' snippet' (ID: 43065), Prob: 0.0000
+Token: ' among' (ID: 4221), Prob: 0.0000
+Token: ' onto' (ID: 8630), Prob: 0.0000
+Token: ' int' (ID: 526), Prob: 0.0000
+Token: ' subtly' (ID: 86317), Prob: 0.0000
+Token: ' internally' (ID: 33067), Prob: 0.0000
+Token: ' clearly' (ID: 9355), Prob: 0.0000
+Token: ' back' (ID: 1182), Prob: 0.0000
+Token: ' instruction' (ID: 7600), Prob: 0.0000
+Token: ' safely' (ID: 21000), Prob: 0.0000
+Token: ' using' (ID: 1667), Prob: 0.0000
+Token: ' securely' (ID: 51023), Prob: 0.0000
+Token: ' amidst' (ID: 64804), Prob: 0.0000
+Token: ' automatically' (ID: 9463), Prob: 0.0000
+Token: ' inline' (ID: 7381), Prob: 0.0000
+Token: ' mention' (ID: 6286), Prob: 0.0000
+Token: ' easily' (ID: 6707), Prob: 0.0000
+Token: ' carefully' (ID: 15516), Prob: 0.0000
+Token: ' embedded' (ID: 22864), Prob: 0.0000
+Token: ' part' (ID: 949), Prob: 0.0000
+Token: ' completely' (ID: 6587), Prob: 0.0000
 
 == Ranked Concepts (Clusters) ==
-Rank 1 | Centroid: ' like' | Score: 0.9609
-  Tokens: [' like', 'like', ' Like']
-Rank 2 | Centroid: ' related' | Score: 0.0027
-  Tokens: [' related', ' similar', ' relevant']
-Rank 3 | Centroid: ' within' | Score: 0.0021
-  Tokens: [' along', ' inside', ' around', ' within']
-Rank 4 | Centroid: ' else' | Score: 0.0016
-  Tokens: [' else']
-Rank 5 | Centroid: ' useful' | Score: 0.0009
-  Tokens: [' important', ' useful', ' helpful', ' interesting', ' meaningful', ' valuable', ' notable']
-Rank 6 | Centroid: ' something' | Score: 0.0006
-  Tokens: [' something', ' things']
-Rank 7 | Centroid: ' different' | Score: 0.0005
-  Tokens: [' specific', ' different', ' simple', ' less', ' new']
-Rank 8 | Centroid: ' besides' | Score: 0.0003
-  Tokens: [' including', ' regarding', ' besides', ' beyond']
-Rank 9 | Centroid: ' unexpected' | Score: 0.0002
-  Tokens: [' unexpected', ' extra', ' missing', ' wrong']
-Rank 10 | Centroid: ' mentioned' | Score: 0.0002
-  Tokens: [' listed', ' mentioned', ' written', ' called', ' said']
-Rank 11 | Centroid: ' added' | Score: 0.0001
-  Tokens: [' added', ' bold']
-Rank 12 | Centroid: ' negative' | Score: 0.0001
-  Tokens: [' negative', ' positive']
-Rank 13 | Centroid: ' near' | Score: 0.0000
-  Tokens: [' near', ' close']
-Rank 14 | Centroid: ' based' | Score: 0.0000
-  Tokens: [' based']
-Rank 15 | Centroid: ' detailed' | Score: 0.0000
-  Tokens: [' detailed']
-Rank 16 | Centroid: ' even' | Score: 0.0000
-  Tokens: [' even']
+Rank 1 | Centroid: ' within' | Score: 0.0070
+  Tokens: [' within', ' inside', ' around', ' among', ' amidst']
+Rank 2 | Centroid: ' seamlessly' | Score: 0.0001
+  Tokens: [' naturally', ' seamlessly', ' smoothly', ' automatically', ' easily']
+Rank 3 | Centroid: ' completely' | Score: 0.0000
+  Tokens: [' directly', ' exactly', ' literally', ' completely']
+Rank 4 | Centroid: ' properly' | Score: 0.0000
+  Tokens: [' correctly', ' properly', ' appropriately', ' carefully']
+Rank 5 | Centroid: ' without' | Score: 0.0000
+  Tokens: [' without', ' like', ' using']
+Rank 6 | Centroid: ' efficiently' | Score: 0.0000
+  Tokens: [' accurately', ' effectively', ' efficiently', ' responsibly', ' successfully', ' safely', ' securely']
+Rank 7 | Centroid: ' phrase' | Score: 0.0000
+  Tokens: [' statement', ' sentence', ' message', ' saying', ' metaphor', ' phrase', ' snippet', ' mention']
+Rank 8 | Centroid: ' subtly' | Score: 0.0000
+  Tokens: [' deeply', ' creatively', ' subtly']
+Rank 9 | Centroid: ' somehow' | Score: 0.0000
+  Tokens: [' somehow', ' somewhere']
+Rank 10 | Centroid: ' right' | Score: 0.0000
+  Tokens: [' right', ' int', ' back']
+Rank 11 | Centroid: ' neatly' | Score: 0.0000
+  Tokens: [' nicely', ' neatly', ' clearly']
+Rank 12 | Centroid: ' inline' | Score: 0.0000
+  Tokens: [' internally', ' inline', ' embedded']
+Rank 13 | Centroid: ' well' | Score: 0.0000
+  Tokens: [' well']
+Rank 14 | Centroid: ' onto' | Score: 0.0000
+  Tokens: [' onto']
+Rank 15 | Centroid: ' instruction' | Score: 0.0000
+  Tokens: [' instruction']
+Rank 16 | Centroid: ' part' | Score: 0.0000
+  Tokens: [' part']
 
 **Chosen Concept:** Rank 1

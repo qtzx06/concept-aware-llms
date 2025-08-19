@@ -1,69 +1,136 @@
 --- Step 49 Log ---
 
 == Filtered Candidates ==
-Token: ' prompt' (ID: 9934), Prob: 0.9648
-Token: ' message' (ID: 1943), Prob: 0.0011
-Token: ' Prompt' (ID: 59501), Prob: 0.0006
-Token: ' prompts' (ID: 50932), Prob: 0.0003
-Token: 'prompt' (ID: 40581), Prob: 0.0002
-Token: '(prompt' (ID: 72253), Prob: 0.0002
-Token: ' question' (ID: 3405), Prob: 0.0001
-Token: 'Prompt' (ID: 54615), Prob: 0.0000
-Token: ' potential' (ID: 4650), Prob: 0.0000
-Token: ' prompting' (ID: 49645), Prob: 0.0000
-Token: ' prompted' (ID: 28646), Prob: 0.0000
-Token: ' hint' (ID: 13012), Prob: 0.0000
-Token: '_prompt' (ID: 61421), Prob: 0.0000
-Token: ' within' (ID: 2878), Prob: 0.0000
-Token: ' example' (ID: 3110), Prob: 0.0000
-Token: ' bold' (ID: 13939), Prob: 0.0000
-Token: ' prom' (ID: 2706), Prob: 0.0000
-Token: ' motif' (ID: 59512), Prob: 0.0000
-Token: ' point' (ID: 1459), Prob: 0.0000
-Token: ' list' (ID: 1140), Prob: 0.0000
-Token: ' promise' (ID: 11222), Prob: 0.0000
-Token: ' wording' (ID: 60227), Prob: 0.0000
-Token: '.prompt' (ID: 65399), Prob: 0.0000
-Token: ' theme' (ID: 6912), Prob: 0.0000
-Token: ' topic' (ID: 8544), Prob: 0.0000
-Token: ' keyword' (ID: 16174), Prob: 0.0000
-Token: ' post' (ID: 1736), Prob: 0.0000
-Token: ' format' (ID: 3561), Prob: 0.0000
-Token: ' etc' (ID: 4992), Prob: 0.0000
-Token: ' Please' (ID: 5209), Prob: 0.0000
+Token: ' details' (ID: 3565), Prob: 1.0000
+Token: ' words' (ID: 4244), Prob: 0.0004
+Token: ' descriptions' (ID: 27787), Prob: 0.0004
+Token: ' language' (ID: 4128), Prob: 0.0002
+Token: ' detail' (ID: 7716), Prob: 0.0002
+Token: ' elements' (ID: 5424), Prob: 0.0001
+Token: ' description' (ID: 4008), Prob: 0.0000
+Token: ' experiences' (ID: 11449), Prob: 0.0000
+Token: ' detailing' (ID: 44193), Prob: 0.0000
+Token: ' vocabulary' (ID: 34918), Prob: 0.0000
+Token: ' Details' (ID: 12309), Prob: 0.0000
+Token: ' cues' (ID: 55916), Prob: 0.0000
+Token: 'details' (ID: 14871), Prob: 0.0000
+Token: ' verbs' (ID: 61846), Prob: 0.0000
+Token: ' information' (ID: 1995), Prob: 0.0000
+Token: ' imagery' (ID: 40445), Prob: 0.0000
+Token: ' descriptive' (ID: 52844), Prob: 0.0000
+Token: ' vivid' (ID: 42020), Prob: 0.0000
+Token: ' descriptors' (ID: 47517), Prob: 0.0000
+Token: ' aspects' (ID: 13566), Prob: 0.0000
+Token: ' triggers' (ID: 30754), Prob: 0.0000
+Token: ' sounds' (ID: 10362), Prob: 0.0000
+Token: ' impressions' (ID: 49991), Prob: 0.0000
+Token: ' clues' (ID: 42675), Prob: 0.0000
+Token: '-rich' (ID: 40847), Prob: 0.0000
+Token: ' detailed' (ID: 11682), Prob: 0.0000
+Token: ' feelings' (ID: 15650), Prob: 0.0000
+Token: ' experience' (ID: 3139), Prob: 0.0000
+Token: ' describe' (ID: 7512), Prob: 0.0000
+Token: ' terms' (ID: 3793), Prob: 0.0000
+Token: ' info' (ID: 3546), Prob: 0.0000
+Token: ' phrases' (ID: 31747), Prob: 0.0000
+Token: ' keywords' (ID: 20844), Prob: 0.0000
+Token: ' points' (ID: 3501), Prob: 0.0000
+Token: ' languages' (ID: 15459), Prob: 0.0000
+Token: 'Details' (ID: 7799), Prob: 0.0000
+Token: ' describing' (ID: 22692), Prob: 0.0000
+Token: ' overload' (ID: 42184), Prob: 0.0000
+Token: ' parts' (ID: 5479), Prob: 0.0000
+Token: ' emotions' (ID: 21261), Prob: 0.0000
+Token: ' appeal' (ID: 14303), Prob: 0.0000
+Token: ' sensory' (ID: 47969), Prob: 0.0000
+Token: ' stimuli' (ID: 55588), Prob: 0.0000
+Token: ' hints' (ID: 30643), Prob: 0.0000
+Token: ' memories' (ID: 18923), Prob: 0.0000
+Token: ' data' (ID: 821), Prob: 0.0000
+Token: ' tips' (ID: 10414), Prob: 0.0000
+Token: ' images' (ID: 5335), Prob: 0.0000
+Token: ' sights' (ID: 41166), Prob: 0.0000
+Token: '_details' (ID: 13260), Prob: 0.0000
+Token: ' angles' (ID: 25941), Prob: 0.0000
+Token: ' appeals' (ID: 34630), Prob: 0.0000
+Token: ' skills' (ID: 7361), Prob: 0.0000
+Token: 'jectives' (ID: 86578), Prob: 0.0000
+Token: ' perceptions' (ID: 50766), Prob: 0.0000
+Token: '_words' (ID: 18981), Prob: 0.0000
+Token: ' colors' (ID: 7987), Prob: 0.0000
+Token: ' describes' (ID: 16555), Prob: 0.0000
+Token: ' notes' (ID: 8388), Prob: 0.0000
+Token: ' observations' (ID: 23722), Prob: 0.0000
+Token: 'Detail' (ID: 10649), Prob: 0.0000
+Token: ' senses' (ID: 37107), Prob: 0.0000
+Token: ' things' (ID: 2513), Prob: 0.0000
+Token: ' Detail' (ID: 25771), Prob: 0.0000
+Token: '(details' (ID: 71379), Prob: 0.0000
+Token: ' feedback' (ID: 11055), Prob: 0.0000
+Token: ' detal' (ID: 52152), Prob: 0.0000
+Token: ' word' (ID: 3409), Prob: 0.0000
+Token: ' stuff' (ID: 6259), Prob: 0.0000
+Token: ' stimulation' (ID: 40859), Prob: 0.0000
+Token: ' nouns' (ID: 89838), Prob: 0.0000
+Token: ' input' (ID: 1946), Prob: 0.0000
+Token: '-details' (ID: 30433), Prob: 0.0000
+Token: ' sensations' (ID: 71497), Prob: 0.0000
+Token: ' prompts' (ID: 50932), Prob: 0.0000
+Token: ' rich' (ID: 9080), Prob: 0.0000
+Token: 'detail' (ID: 14585), Prob: 0.0000
+Token: ' paints' (ID: 56848), Prob: 0.0000
+Token: ' preferences' (ID: 19322), Prob: 0.0000
+Token: ' features' (ID: 4419), Prob: 0.0000
+Token: '-driven' (ID: 31405), Prob: 0.0000
+Token: ' storytelling' (ID: 47829), Prob: 0.0000
+Token: ' components' (ID: 6813), Prob: 0.0000
+Token: '.Detail' (ID: 74396), Prob: 0.0000
+Token: ' specifics' (ID: 48349), Prob: 0.0000
+Token: ' visuals' (ID: 52977), Prob: 0.0000
+Token: ' facts' (ID: 13064), Prob: 0.0000
+Token: ' ideas' (ID: 6708), Prob: 0.0000
+Token: ' hooks' (ID: 29677), Prob: 0.0000
+Token: ' inputs' (ID: 11127), Prob: 0.0000
+Token: ' first' (ID: 1156), Prob: 0.0000
 
 == Ranked Concepts (Clusters) ==
-Rank 1 | Centroid: 'Prompt' | Score: 0.9648
-  Tokens: [' prompt', ' Prompt', 'prompt', '(prompt', 'Prompt', '_prompt', '.prompt']
-Rank 2 | Centroid: ' message' | Score: 0.0011
-  Tokens: [' message']
-Rank 3 | Centroid: ' prompts' | Score: 0.0004
-  Tokens: [' prompts', ' prompting', ' prompted']
-Rank 4 | Centroid: ' potential' | Score: 0.0001
-  Tokens: [' potential', ' within']
-Rank 5 | Centroid: ' theme' | Score: 0.0001
-  Tokens: [' motif', ' theme', ' topic']
-Rank 6 | Centroid: ' question' | Score: 0.0001
-  Tokens: [' question']
-Rank 7 | Centroid: ' prom' | Score: 0.0000
-  Tokens: [' prom', ' promise']
-Rank 8 | Centroid: ' bold' | Score: 0.0000
-  Tokens: [' bold', ' Please']
-Rank 9 | Centroid: ' wording' | Score: 0.0000
-  Tokens: [' wording', ' keyword']
-Rank 10 | Centroid: ' hint' | Score: 0.0000
-  Tokens: [' hint']
-Rank 11 | Centroid: ' example' | Score: 0.0000
-  Tokens: [' example']
-Rank 12 | Centroid: ' point' | Score: 0.0000
-  Tokens: [' point']
-Rank 13 | Centroid: ' list' | Score: 0.0000
-  Tokens: [' list']
-Rank 14 | Centroid: ' post' | Score: 0.0000
-  Tokens: [' post']
-Rank 15 | Centroid: ' format' | Score: 0.0000
-  Tokens: [' format']
-Rank 16 | Centroid: ' etc' | Score: 0.0000
-  Tokens: [' etc']
+Rank 1 | Centroid: ' Details' | Score: 1.0000
+  Tokens: [' details', ' detail', ' detailing', ' Details', 'details', ' detailed', 'Details', '_details', 'Detail', ' Detail', '(details', ' detal', '-details', 'detail', '.Detail', ' specifics']
+Rank 2 | Centroid: ' descriptions' | Score: 0.0004
+  Tokens: [' descriptions', ' description', ' descriptive', ' descriptors', ' describe', ' describing', ' describes']
+Rank 3 | Centroid: ' words' | Score: 0.0004
+  Tokens: [' words', ' verbs', ' phrases', ' keywords', 'jectives', '_words', ' word', ' nouns']
+Rank 4 | Centroid: ' language' | Score: 0.0002
+  Tokens: [' language', ' vocabulary', ' languages']
+Rank 5 | Centroid: ' aspects' | Score: 0.0001
+  Tokens: [' elements', ' aspects', ' terms', ' points', ' parts', ' skills', ' things', ' stuff', ' features', ' components']
+Rank 6 | Centroid: ' experiences' | Score: 0.0000
+  Tokens: [' experiences', ' experience', ' preferences']
+Rank 7 | Centroid: ' stimuli' | Score: 0.0000
+  Tokens: [' cues', ' triggers', ' clues', ' stimuli', ' hints', ' tips', ' stimulation', ' prompts']
+Rank 8 | Centroid: ' information' | Score: 0.0000
+  Tokens: [' information', ' info', ' data']
+Rank 9 | Centroid: ' imagery' | Score: 0.0000
+  Tokens: [' imagery', ' images']
+Rank 10 | Centroid: '-rich' | Score: 0.0000
+  Tokens: [' vivid', '-rich', ' rich', '-driven']
+Rank 11 | Centroid: ' sensations' | Score: 0.0000
+  Tokens: [' impressions', ' feelings', ' emotions', ' sensory', ' memories', ' perceptions', ' observations', ' senses', ' sensations']
+Rank 12 | Centroid: ' visuals' | Score: 0.0000
+  Tokens: [' sounds', ' sights', ' visuals']
+Rank 13 | Centroid: ' appeals' | Score: 0.0000
+  Tokens: [' appeal', ' appeals', ' hooks']
+Rank 14 | Centroid: ' overload' | Score: 0.0000
+  Tokens: [' overload']
+Rank 15 | Centroid: ' angles' | Score: 0.0000
+  Tokens: [' angles', ' colors']
+Rank 16 | Centroid: ' input' | Score: 0.0000
+  Tokens: [' feedback', ' input', ' inputs']
+Rank 17 | Centroid: ' ideas' | Score: 0.0000
+  Tokens: [' notes', ' facts', ' ideas']
+Rank 18 | Centroid: ' paints' | Score: 0.0000
+  Tokens: [' paints', ' storytelling']
+Rank 19 | Centroid: ' first' | Score: 0.0000
+  Tokens: [' first']
 
 **Chosen Concept:** Rank 1

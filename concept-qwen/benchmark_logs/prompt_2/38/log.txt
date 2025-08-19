@@ -1,82 +1,153 @@
 --- Step 38 Log ---
 
 == Filtered Candidates ==
-Token: ' something' (ID: 2494), Prob: 0.8242
-Token: ' etc' (ID: 4992), Prob: 0.0767
-Token: ' yes' (ID: 9834), Prob: 0.0133
-Token: ' maybe' (ID: 7196), Prob: 0.0016
-Token: ' anything' (ID: 4113), Prob: 0.0012
-Token: ' nothing' (ID: 4302), Prob: 0.0007
-Token: ' even' (ID: 1496), Prob: 0.0003
-Token: ' sometimes' (ID: 7025), Prob: 0.0002
-Token: ' depending' (ID: 11649), Prob: 0.0002
-Token: ' somewhere' (ID: 14696), Prob: 0.0002
-Token: ' someone' (ID: 4325), Prob: 0.0001
-Token: ' except' (ID: 3650), Prob: 0.0001
-Token: ' whatever' (ID: 8820), Prob: 0.0001
-Token: ' also' (ID: 1083), Prob: 0.0001
-Token: ' based' (ID: 3118), Prob: 0.0001
-Token: ' possibly' (ID: 10767), Prob: 0.0001
+Token: ' two' (ID: 1378), Prob: 0.5156
+Token: ' kids' (ID: 6837), Prob: 0.4023
+Token: ' young' (ID: 3908), Prob: 0.0227
+Token: ' children' (ID: 2841), Prob: 0.0200
+Token: ' family' (ID: 2997), Prob: 0.0051
+Token: ' problem' (ID: 3491), Prob: 0.0045
+Token: ' situation' (ID: 6534), Prob: 0.0045
+Token: ' issue' (ID: 4265), Prob: 0.0016
+Token: ' long' (ID: 1293), Prob: 0.0014
+Token: ' ill' (ID: 5862), Prob: 0.0010
+Token: ' problems' (ID: 5322), Prob: 0.0009
+Token: ' destination' (ID: 9106), Prob: 0.0009
+Token: ' time' (ID: 882), Prob: 0.0007
+Token: ' three' (ID: 2326), Prob: 0.0006
+Token: ' route' (ID: 6021), Prob: 0.0005
+Token: ' journey' (ID: 11618), Prob: 0.0005
+Token: ' reason' (ID: 2874), Prob: 0.0005
+Token: ' issues' (ID: 4714), Prob: 0.0005
+Token: ' twins' (ID: 43636), Prob: 0.0005
+Token: ' location' (ID: 3728), Prob: 0.0005
+Token: ' cause' (ID: 5240), Prob: 0.0004
+Token: ' trip' (ID: 8411), Prob: 0.0004
+Token: ' conflict' (ID: 12055), Prob: 0.0003
+Token: ' illness' (ID: 17125), Prob: 0.0003
+Token: ' reasons' (ID: 7966), Prob: 0.0003
+Token: ' road' (ID: 5636), Prob: 0.0003
+Token: ' parents' (ID: 6562), Prob: 0.0003
+Token: ' cars' (ID: 9331), Prob: 0.0003
+Token: ' circumstances' (ID: 13161), Prob: 0.0003
+Token: ' emotions' (ID: 21261), Prob: 0.0003
+Token: ' siblings' (ID: 36683), Prob: 0.0003
+Token: ' result' (ID: 1102), Prob: 0.0002
+Token: ' details' (ID: 3565), Prob: 0.0002
+Token: ' challenges' (ID: 11513), Prob: 0.0002
+Token: ' impact' (ID: 5421), Prob: 0.0002
+Token: ' setting' (ID: 6243), Prob: 0.0002
+Token: ' purpose' (ID: 7428), Prob: 0.0002
+Token: ' old' (ID: 2310), Prob: 0.0002
+Token: ' specific' (ID: 3151), Prob: 0.0002
+Token: ' age' (ID: 4231), Prob: 0.0002
+Token: ' couple' (ID: 5625), Prob: 0.0002
+Token: ' years' (ID: 1635), Prob: 0.0002
+Token: ' setup' (ID: 6505), Prob: 0.0002
+Token: ' number' (ID: 1372), Prob: 0.0002
+Token: ' main' (ID: 1887), Prob: 0.0002
+Token: ' frustration' (ID: 31986), Prob: 0.0002
+Token: ' duration' (ID: 8090), Prob: 0.0002
+Token: ' incident' (ID: 10455), Prob: 0.0002
+Token: ' big' (ID: 2409), Prob: 0.0001
+Token: ' youth' (ID: 12537), Prob: 0.0001
+Token: ' people' (ID: 1251), Prob: 0.0001
+Token: ' short' (ID: 2805), Prob: 0.0001
+Token: ' role' (ID: 3476), Prob: 0.0001
+Token: ' emotional' (ID: 14269), Prob: 0.0001
+Token: ' days' (ID: 2849), Prob: 0.0001
+Token: ' outcome' (ID: 15274), Prob: 0.0001
+Token: ' arrival' (ID: 18647), Prob: 0.0001
+Token: ' story' (ID: 3364), Prob: 0.0001
+Token: ' younger' (ID: 14650), Prob: 0.0001
+Token: ' struggle' (ID: 14651), Prob: 0.0001
+Token: ' struggles' (ID: 27870), Prob: 0.0001
+Token: ' infants' (ID: 41434), Prob: 0.0001
+Token: ' presence' (ID: 9362), Prob: 0.0001
+Token: ' scenario' (ID: 15048), Prob: 0.0001
+Token: ' passengers' (ID: 22172), Prob: 0.0001
+Token: ' environment' (ID: 4573), Prob: 0.0001
+Token: ' lack' (ID: 6853), Prob: 0.0001
+Token: ' challenge' (ID: 8645), Prob: 0.0001
+Token: ' trouble' (ID: 12264), Prob: 0.0001
+Token: ' dilemma' (ID: 54767), Prob: 0.0001
+Token: ' experience' (ID: 3139), Prob: 0.0001
+Token: ' vehicles' (ID: 11474), Prob: 0.0001
+Token: ' affected' (ID: 11495), Prob: 0.0001
+Token: ' key' (ID: 1376), Prob: 0.0001
+Token: ' small' (ID: 2613), Prob: 0.0001
+Token: ' participants' (ID: 13026), Prob: 0.0001
+Token: ' timeline' (ID: 24808), Prob: 0.0001
+Token: ' elderly' (ID: 28820), Prob: 0.0001
+Token: ' goal' (ID: 5795), Prob: 0.0001
+Token: ' weather' (ID: 9104), Prob: 0.0001
+Token: ' adults' (ID: 12598), Prob: 0.0001
 Token: ' negative' (ID: 8225), Prob: 0.0001
-Token: ' since' (ID: 2474), Prob: 0.0001
-Token: ' perhaps' (ID: 8365), Prob: 0.0001
-Token: ' thing' (ID: 3166), Prob: 0.0001
-Token: ' another' (ID: 2441), Prob: 0.0001
-Token: ' similar' (ID: 4428), Prob: 0.0001
-Token: ' answer' (ID: 4226), Prob: 0.0001
-Token: ' possible' (ID: 3204), Prob: 0.0001
-Token: ' everything' (ID: 4297), Prob: 0.0000
-Token: ' otherwise' (ID: 5937), Prob: 0.0000
-Token: ' plus' (ID: 5519), Prob: 0.0000
-Token: ' Something' (ID: 24656), Prob: 0.0000
-Token: ' one' (ID: 825), Prob: 0.0000
-Token: ' unless' (ID: 7241), Prob: 0.0000
-Token: ' however' (ID: 4764), Prob: 0.0000
-Token: ' okay' (ID: 16910), Prob: 0.0000
-Token: ' else' (ID: 770), Prob: 0.0000
-Token: ' option' (ID: 2999), Prob: 0.0000
-Token: ' description' (ID: 4008), Prob: 0.0000
-Token: ' som' (ID: 1757), Prob: 0.0000
+Token: ' babies' (ID: 23920), Prob: 0.0001
+Token: ' toddlers' (ID: 78835), Prob: 0.0001
+Token: ' context' (ID: 2266), Prob: 0.0000
+Token: ' incidents' (ID: 23546), Prob: 0.0000
+Token: ' path' (ID: 1815), Prob: 0.0000
+Token: ' tasks' (ID: 9079), Prob: 0.0000
+Token: ' problematic' (ID: 34933), Prob: 0.0000
+Token: ' child' (ID: 1682), Prob: 0.0000
+Token: ' place' (ID: 1992), Prob: 0.0000
+Token: ' immediate' (ID: 13922), Prob: 0.0000
+Token: ' destinations' (ID: 33105), Prob: 0.0000
+Token: ' items' (ID: 3589), Prob: 0.0000
+Token: ' elements' (ID: 5424), Prob: 0.0000
+Token: ' topic' (ID: 8544), Prob: 0.0000
+Token: ' trips' (ID: 22466), Prob: 0.0000
 Token: ' things' (ID: 2513), Prob: 0.0000
-Token: ' like' (ID: 1075), Prob: 0.0000
-Token: ' certain' (ID: 3654), Prob: 0.0000
-Token: ' sorry' (ID: 14589), Prob: 0.0000
-Token: ' example' (ID: 3110), Prob: 0.0000
-Token: ' false' (ID: 895), Prob: 0.0000
-Token: ' two' (ID: 1378), Prob: 0.0000
-Token: ' sure' (ID: 2704), Prob: 0.0000
-Token: ' specific' (ID: 3151), Prob: 0.0000
-Token: ' exactly' (ID: 6896), Prob: 0.0000
-Token: ' yeah' (ID: 21639), Prob: 0.0000
+Token: ' bad' (ID: 3873), Prob: 0.0000
+Token: ' motivation' (ID: 24798), Prob: 0.0000
 
 == Ranked Concepts (Clusters) ==
-Rank 1 | Centroid: ' something' | Score: 0.8281
-  Tokens: [' something', ' anything', ' nothing', ' whatever', ' thing', ' everything', ' Something', ' things']
-Rank 2 | Centroid: ' etc' | Score: 0.0767
-  Tokens: [' etc', ' however']
-Rank 3 | Centroid: ' yeah' | Score: 0.0134
-  Tokens: [' yes', ' okay', ' sorry', ' sure', ' yeah']
-Rank 4 | Centroid: ' perhaps' | Score: 0.0020
-  Tokens: [' maybe', ' sometimes', ' possibly', ' perhaps', ' possible']
-Rank 5 | Centroid: ' unless' | Score: 0.0005
-  Tokens: [' depending', ' except', ' based', ' since', ' plus', ' unless']
-Rank 6 | Centroid: ' even' | Score: 0.0004
-  Tokens: [' even', ' also']
-Rank 7 | Centroid: ' somewhere' | Score: 0.0003
-  Tokens: [' somewhere', ' someone']
-Rank 8 | Centroid: ' description' | Score: 0.0001
-  Tokens: [' answer', ' option', ' description', ' example']
-Rank 9 | Centroid: ' negative' | Score: 0.0001
-  Tokens: [' negative', ' false', ' exactly']
-Rank 10 | Centroid: ' one' | Score: 0.0001
-  Tokens: [' another', ' one', ' two']
-Rank 11 | Centroid: ' similar' | Score: 0.0001
-  Tokens: [' similar', ' like']
-Rank 12 | Centroid: ' otherwise' | Score: 0.0001
-  Tokens: [' otherwise', ' else']
-Rank 13 | Centroid: ' certain' | Score: 0.0000
-  Tokens: [' certain', ' specific']
-Rank 14 | Centroid: ' som' | Score: 0.0000
-  Tokens: [' som']
+Rank 1 | Centroid: ' two' | Score: 0.5195
+  Tokens: [' two', ' long', ' three', ' specific', ' number', ' main', ' big', ' short', ' key', ' small', ' bad']
+Rank 2 | Centroid: ' children' | Score: 0.4238
+  Tokens: [' kids', ' children', ' twins', ' parents', ' siblings', ' infants', ' adults', ' babies', ' toddlers', ' child']
+Rank 3 | Centroid: ' young' | Score: 0.0234
+  Tokens: [' young', ' old', ' age', ' youth', ' younger', ' elderly']
+Rank 4 | Centroid: ' problems' | Score: 0.0077
+  Tokens: [' problem', ' issue', ' problems', ' issues', ' trouble', ' problematic']
+Rank 5 | Centroid: ' scenario' | Score: 0.0052
+  Tokens: [' situation', ' setting', ' setup', ' story', ' scenario', ' environment', ' timeline', ' context']
+Rank 6 | Centroid: ' family' | Score: 0.0052
+  Tokens: [' family', ' couple']
+Rank 7 | Centroid: ' journey' | Score: 0.0018
+  Tokens: [' route', ' journey', ' trip', ' road', ' path', ' trips']
+Rank 8 | Centroid: ' incidents' | Score: 0.0015
+  Tokens: [' ill', ' illness', ' incident', ' incidents']
+Rank 9 | Centroid: ' destination' | Score: 0.0012
+  Tokens: [' destination', ' purpose', ' goal', ' destinations', ' motivation']
+Rank 10 | Centroid: ' reason' | Score: 0.0012
+  Tokens: [' reason', ' cause', ' reasons']
+Rank 11 | Centroid: ' days' | Score: 0.0012
+  Tokens: [' time', ' years', ' duration', ' days']
+Rank 12 | Centroid: ' struggle' | Score: 0.0011
+  Tokens: [' conflict', ' challenges', ' frustration', ' struggle', ' struggles', ' challenge', ' dilemma']
+Rank 13 | Centroid: ' location' | Score: 0.0006
+  Tokens: [' location', ' role', ' place']
+Rank 14 | Centroid: ' outcome' | Score: 0.0006
+  Tokens: [' result', ' impact', ' outcome', ' affected']
+Rank 15 | Centroid: ' vehicles' | Score: 0.0005
+  Tokens: [' cars', ' passengers', ' vehicles', ' participants']
+Rank 16 | Centroid: ' emotional' | Score: 0.0005
+  Tokens: [' emotions', ' emotional', ' negative', ' immediate']
+Rank 17 | Centroid: ' items' | Score: 0.0005
+  Tokens: [' details', ' people', ' items', ' elements', ' things']
+Rank 18 | Centroid: ' circumstances' | Score: 0.0003
+  Tokens: [' circumstances']
+Rank 19 | Centroid: ' presence' | Score: 0.0002
+  Tokens: [' presence', ' lack']
+Rank 20 | Centroid: ' experience' | Score: 0.0001
+  Tokens: [' experience', ' weather']
+Rank 21 | Centroid: ' arrival' | Score: 0.0001
+  Tokens: [' arrival']
+Rank 22 | Centroid: ' tasks' | Score: 0.0000
+  Tokens: [' tasks']
+Rank 23 | Centroid: ' topic' | Score: 0.0000
+  Tokens: [' topic']
 
 **Chosen Concept:** Rank 1

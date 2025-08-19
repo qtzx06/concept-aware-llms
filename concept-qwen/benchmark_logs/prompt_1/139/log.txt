@@ -1,113 +1,93 @@
 --- Step 139 Log ---
 
 == Filtered Candidates ==
-Token: ' approaching' (ID: 29947), Prob: 0.0033
-Token: ' breaking' (ID: 14719), Prob: 0.0018
-Token: ' brewing' (ID: 49159), Prob: 0.0014
-Token: ' coming' (ID: 5001), Prob: 0.0011
-Token: ' inside' (ID: 4766), Prob: 0.0008
-Token: ' passing' (ID: 12299), Prob: 0.0007
-Token: ' causing' (ID: 14381), Prob: 0.0004
-Token: ' destroying' (ID: 32712), Prob: 0.0004
-Token: ' cloud' (ID: 9437), Prob: 0.0003
-Token: ' raging' (ID: 69417), Prob: 0.0003
-Token: ' outside' (ID: 4889), Prob: 0.0003
-Token: ' within' (ID: 2878), Prob: 0.0002
-Token: ' gathering' (ID: 22888), Prob: 0.0002
-Token: ' closing' (ID: 15316), Prob: 0.0002
-Token: ' trying' (ID: 4460), Prob: 0.0002
-Token: ' hitting' (ID: 19558), Prob: 0.0002
-Token: ' turning' (ID: 13054), Prob: 0.0002
-Token: ' around' (ID: 2163), Prob: 0.0001
-Token: ' swallowing' (ID: 90647), Prob: 0.0001
-Token: ' chasing' (ID: 42831), Prob: 0.0001
-Token: ' pouring' (ID: 50413), Prob: 0.0001
-Token: ' forming' (ID: 29064), Prob: 0.0001
-Token: ' creating' (ID: 6825), Prob: 0.0001
-Token: ' showing' (ID: 9027), Prob: 0.0001
-Token: ' waiting' (ID: 8580), Prob: 0.0001
-Token: ' drowning' (ID: 73437), Prob: 0.0001
-Token: ' without' (ID: 2041), Prob: 0.0001
-Token: ' making' (ID: 3259), Prob: 0.0001
-Token: ' unfolding' (ID: 32731), Prob: 0.0000
-Token: ' affecting' (ID: 27887), Prob: 0.0000
-Token: ' clouds' (ID: 29514), Prob: 0.0000
-Token: ' shaking' (ID: 37739), Prob: 0.0000
-Token: ' tearing' (ID: 55736), Prob: 0.0000
-Token: ' hidden' (ID: 8177), Prob: 0.0000
-Token: ' threatening' (ID: 26805), Prob: 0.0000
-Token: ' getting' (ID: 3709), Prob: 0.0000
-Token: 'cloud' (ID: 12361), Prob: 0.0000
-Token: ' consuming' (ID: 34108), Prob: 0.0000
-Token: ' could' (ID: 1410), Prob: 0.0000
-Token: ' entering' (ID: 16262), Prob: 0.0000
-Token: ' reaching' (ID: 18739), Prob: 0.0000
-Token: ' metaphor' (ID: 45350), Prob: 0.0000
-Token: ' towards' (ID: 6974), Prob: 0.0000
-Token: ' engulf' (ID: 76736), Prob: 0.0000
-Token: ' might' (ID: 2578), Prob: 0.0000
-Token: ' rising' (ID: 16062), Prob: 0.0000
-Token: ' versus' (ID: 19041), Prob: 0.0000
-Token: ' arriving' (ID: 32011), Prob: 0.0000
-Token: ' crashing' (ID: 45474), Prob: 0.0000
-Token: ' slipping' (ID: 63702), Prob: 0.0000
-Token: ' changing' (ID: 10018), Prob: 0.0000
-Token: ' touching' (ID: 30587), Prob: 0.0000
-Token: ' clearing' (ID: 32750), Prob: 0.0000
-Token: ' awakening' (ID: 74049), Prob: 0.0000
-Token: ' filling' (ID: 21274), Prob: 0.0000
-Token: ' rain' (ID: 11174), Prob: 0.0000
-Token: 'storm' (ID: 26413), Prob: 0.0000
-Token: ' disrupting' (ID: 86743), Prob: 0.0000
-Token: ' roaring' (ID: 92756), Prob: 0.0000
-Token: ' going' (ID: 2087), Prob: 0.0000
-Token: ' bringing' (ID: 12678), Prob: 0.0000
-Token: ' covering' (ID: 18202), Prob: 0.0000
-Token: ' overwhelming' (ID: 22024), Prob: 0.0000
-Token: ' leading' (ID: 6388), Prob: 0.0000
+Token: ' must' (ID: 1969), Prob: 0.8008
+Token: ' set' (ID: 738), Prob: 0.0089
+Token: ' includes' (ID: 5646), Prob: 0.0048
+Token: ' sets' (ID: 7289), Prob: 0.0042
+Token: ' include' (ID: 2924), Prob: 0.0006
+Token: ' may' (ID: 1231), Prob: 0.0005
+Token: ' could' (ID: 1410), Prob: 0.0003
+Token: ' another' (ID: 2441), Prob: 0.0003
+Token: ' would' (ID: 1035), Prob: 0.0002
+Token: ' scene' (ID: 6109), Prob: 0.0002
+Token: ' begins' (ID: 12033), Prob: 0.0001
+Token: ' involves' (ID: 17601), Prob: 0.0001
+Token: ' setting' (ID: 6243), Prob: 0.0001
+Token: ' might' (ID: 2578), Prob: 0.0001
+Token: ' shall' (ID: 4880), Prob: 0.0001
+Token: ' needs' (ID: 3880), Prob: 0.0001
+Token: ' ends' (ID: 10335), Prob: 0.0001
+Token: ' contains' (ID: 5610), Prob: 0.0001
+Token: ' consists' (ID: 17167), Prob: 0.0001
+Token: ' cannot' (ID: 4157), Prob: 0.0000
+Token: ' starts' (ID: 8471), Prob: 0.0000
+Token: ' represents' (ID: 10868), Prob: 0.0000
+Token: ' introduces' (ID: 38919), Prob: 0.0000
+Token: ' also' (ID: 1083), Prob: 0.0000
+Token: ' follows' (ID: 11017), Prob: 0.0000
+Token: ' describes' (ID: 16555), Prob: 0.0000
+Token: ' meets' (ID: 20027), Prob: 0.0000
+Token: '—the' (ID: 21677), Prob: 0.0000
+Token: ' within' (ID: 2878), Prob: 0.0000
+Token: ' provides' (ID: 5707), Prob: 0.0000
+Token: ' corresponds' (ID: 33210), Prob: 0.0000
+Token: ' comes' (ID: 4041), Prob: 0.0000
+Token: ' setup' (ID: 6505), Prob: 0.0000
+Token: ' shows' (ID: 4933), Prob: 0.0000
+Token: ' outside' (ID: 4889), Prob: 0.0000
+Token: ' presents' (ID: 18404), Prob: 0.0000
+Token: ' one' (ID: 825), Prob: 0.0000
+Token: ' reflects' (ID: 25963), Prob: 0.0000
+Token: ' refers' (ID: 19257), Prob: 0.0000
+Token: ' creates' (ID: 11450), Prob: 0.0000
+Token: ' occurs' (ID: 13666), Prob: 0.0000
+Token: ' incorporates' (ID: 51824), Prob: 0.0000
+Token: ' requires' (ID: 7460), Prob: 0.0000
+Token: ' serves' (ID: 17045), Prob: 0.0000
+Token: ' focuses' (ID: 23497), Prob: 0.0000
+Token: ' next' (ID: 1790), Prob: 0.0000
+Token: ' including' (ID: 2670), Prob: 0.0000
+Token: ' features' (ID: 4419), Prob: 0.0000
+Token: ' inside' (ID: 4766), Prob: 0.0000
+Token: ' describe' (ID: 7512), Prob: 0.0000
+Token: ' opens' (ID: 15885), Prob: 0.0000
+Token: ' immediately' (ID: 7069), Prob: 0.0000
+Token: ' uses' (ID: 5711), Prob: 0.0000
+Token: ' takes' (ID: 4990), Prob: 0.0000
+Token: ' establishes' (ID: 63564), Prob: 0.0000
+Token: ' continues' (ID: 9539), Prob: 0.0000
 
 == Ranked Concepts (Clusters) ==
-Rank 1 | Centroid: ' arriving' | Score: 0.0052
-  Tokens: [' approaching', ' coming', ' passing', ' entering', ' reaching', ' arriving', ' going']
-Rank 2 | Centroid: ' crashing' | Score: 0.0018
-  Tokens: [' breaking', ' tearing', ' crashing', ' slipping']
-Rank 3 | Centroid: ' brewing' | Score: 0.0015
-  Tokens: [' brewing', ' pouring']
-Rank 4 | Centroid: ' within' | Score: 0.0014
-  Tokens: [' inside', ' outside', ' within', ' around', ' without', ' towards']
-Rank 5 | Centroid: ' causing' | Score: 0.0005
-  Tokens: [' causing', ' showing', ' affecting']
-Rank 6 | Centroid: ' destroying' | Score: 0.0004
-  Tokens: [' destroying', ' consuming', ' disrupting']
-Rank 7 | Centroid: ' creating' | Score: 0.0004
-  Tokens: [' trying', ' forming', ' creating', ' making', ' getting', ' bringing']
-Rank 8 | Centroid: ' cloud' | Score: 0.0004
-  Tokens: [' cloud', ' clouds', 'cloud']
-Rank 9 | Centroid: ' raging' | Score: 0.0003
-  Tokens: [' raging', ' roaring']
-Rank 10 | Centroid: ' gathering' | Score: 0.0002
-  Tokens: [' gathering', ' clearing', ' filling']
-Rank 11 | Centroid: ' swallowing' | Score: 0.0002
-  Tokens: [' swallowing', ' chasing', ' drowning', ' engulf']
-Rank 12 | Centroid: ' hitting' | Score: 0.0002
-  Tokens: [' hitting', ' touching', ' covering']
-Rank 13 | Centroid: ' closing' | Score: 0.0002
-  Tokens: [' closing']
-Rank 14 | Centroid: ' turning' | Score: 0.0002
-  Tokens: [' turning', ' changing']
-Rank 15 | Centroid: ' awakening' | Score: 0.0001
-  Tokens: [' waiting', ' unfolding', ' awakening']
-Rank 16 | Centroid: ' rising' | Score: 0.0001
-  Tokens: [' hidden', ' rising', ' leading']
-Rank 17 | Centroid: ' could' | Score: 0.0001
-  Tokens: [' could', ' might']
-Rank 18 | Centroid: ' threatening' | Score: 0.0001
-  Tokens: [' threatening', ' overwhelming']
-Rank 19 | Centroid: ' shaking' | Score: 0.0000
-  Tokens: [' shaking']
-Rank 20 | Centroid: ' metaphor' | Score: 0.0000
-  Tokens: [' metaphor', ' versus']
-Rank 21 | Centroid: ' rain' | Score: 0.0000
-  Tokens: [' rain', 'storm']
+Rank 1 | Centroid: ' may' | Score: 0.8008
+  Tokens: [' must', ' may', ' could', ' would', ' might', ' shall', ' cannot']
+Rank 2 | Centroid: ' set' | Score: 0.0132
+  Tokens: [' set', ' sets', ' setting', ' setup']
+Rank 3 | Centroid: ' includes' | Score: 0.0054
+  Tokens: [' includes', ' include', ' including']
+Rank 4 | Centroid: ' another' | Score: 0.0004
+  Tokens: [' another', ' also', ' one', ' next']
+Rank 5 | Centroid: ' starts' | Score: 0.0002
+  Tokens: [' begins', ' ends', ' starts', ' opens']
+Rank 6 | Centroid: ' consists' | Score: 0.0002
+  Tokens: [' involves', ' contains', ' consists', ' incorporates']
+Rank 7 | Centroid: ' scene' | Score: 0.0002
+  Tokens: [' scene', ' features']
+Rank 8 | Centroid: ' provides' | Score: 0.0001
+  Tokens: [' introduces', ' provides', ' shows', ' presents', ' creates', ' serves', ' establishes']
+Rank 9 | Centroid: ' occurs' | Score: 0.0001
+  Tokens: [' follows', ' meets', ' comes', ' occurs', ' continues']
+Rank 10 | Centroid: ' represents' | Score: 0.0001
+  Tokens: [' represents', ' corresponds', ' reflects', ' refers']
+Rank 11 | Centroid: ' requires' | Score: 0.0001
+  Tokens: [' needs', ' requires', ' uses', ' takes']
+Rank 12 | Centroid: ' inside' | Score: 0.0001
+  Tokens: [' within', ' outside', ' inside']
+Rank 13 | Centroid: ' describes' | Score: 0.0000
+  Tokens: [' describes', ' describe']
+Rank 14 | Centroid: '—the' | Score: 0.0000
+  Tokens: ['—the', ' immediately']
+Rank 15 | Centroid: ' focuses' | Score: 0.0000
+  Tokens: [' focuses']
 
 **Chosen Concept:** Rank 1

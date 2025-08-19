@@ -1,93 +1,146 @@
 --- Step 127 Log ---
 
 == Filtered Candidates ==
-Token: 'Let' (ID: 10061), Prob: 0.9766
-Token: 'Yes' (ID: 9454), Prob: 0.0011
-Token: 'Answer' (ID: 16141), Prob: 0.0009
-Token: 'Okay' (ID: 32313), Prob: 0.0005
-Token: 'Ret' (ID: 12020), Prob: 0.0002
-Token: 'Word' (ID: 10879), Prob: 0.0002
-Token: 'Last' (ID: 5842), Prob: 0.0002
-Token: 'Wait' (ID: 14190), Prob: 0.0002
-Token: 'Tweet' (ID: 48362), Prob: 0.0002
-Token: 'Back' (ID: 3707), Prob: 0.0001
-Token: 'Maybe' (ID: 21390), Prob: 0.0001
-Token: 'Get' (ID: 1949), Prob: 0.0001
-Token: 'Based' (ID: 28715), Prob: 0.0001
-Token: 'Finally' (ID: 23949), Prob: 0.0001
-Token: 'Please' (ID: 5501), Prob: 0.0001
-Token: 'Every' (ID: 11510), Prob: 0.0001
-Token: 'Correct' (ID: 33092), Prob: 0.0001
-Token: 'Exactly' (ID: 65357), Prob: 0.0001
-Token: 'Among' (ID: 33610), Prob: 0.0001
-Token: ' Let' (ID: 6771), Prob: 0.0001
-Token: 'Reply' (ID: 20841), Prob: 0.0001
-Token: 'Help' (ID: 12689), Prob: 0.0001
-Token: 'Even' (ID: 13159), Prob: 0.0001
-Token: 'One' (ID: 3966), Prob: 0.0001
-Token: 'Given' (ID: 22043), Prob: 0.0001
-Token: 'Home' (ID: 7623), Prob: 0.0001
-Token: 'Therefore' (ID: 54815), Prob: 0.0001
-Token: 'Ass' (ID: 5615), Prob: 0.0001
-Token: 'Question' (ID: 14582), Prob: 0.0001
-Token: 'Alright' (ID: 71486), Prob: 0.0001
-Token: 'Click' (ID: 2612), Prob: 0.0000
-Token: 'Tag' (ID: 5668), Prob: 0.0000
-Token: 'June' (ID: 27160), Prob: 0.0000
-Token: 'Explanation' (ID: 69769), Prob: 0.0000
-Token: 'List' (ID: 852), Prob: 0.0000
-Token: 'Perhaps' (ID: 31476), Prob: 0.0000
-Token: 'View' (ID: 851), Prob: 0.0000
-Token: 'According' (ID: 11190), Prob: 0.0000
-Token: 'Today' (ID: 15364), Prob: 0.0000
-Token: 'Latest' (ID: 31992), Prob: 0.0000
-Token: 'Set' (ID: 1649), Prob: 0.0000
-Token: 'West' (ID: 23306), Prob: 0.0000
-Token: 'Enough' (ID: 95801), Prob: 0.0000
-Token: 'Paragraph' (ID: 42165), Prob: 0.0000
-Token: 'None' (ID: 4064), Prob: 0.0000
-Token: 'Final' (ID: 19357), Prob: 0.0000
+Token: ' think' (ID: 1744), Prob: 0.9648
+Token: ' brainstorm' (ID: 86781), Prob: 0.0227
+Token: ' consider' (ID: 2908), Prob: 0.0065
+Token: ' start' (ID: 1191), Prob: 0.0013
+Token: ' pick' (ID: 3735), Prob: 0.0013
+Token: ' choose' (ID: 5157), Prob: 0.0008
+Token: ' try' (ID: 1430), Prob: 0.0005
+Token: ' imagine' (ID: 12793), Prob: 0.0003
+Token: ' outline' (ID: 21101), Prob: 0.0002
+Token: ' decide' (ID: 10279), Prob: 0.0001
+Token: ' create' (ID: 1855), Prob: 0.0001
+Token: ' visualize' (ID: 50087), Prob: 0.0001
+Token: ' make' (ID: 1281), Prob: 0.0001
+Token: ' check' (ID: 1779), Prob: 0.0001
+Token: ' focus' (ID: 5244), Prob: 0.0001
+Token: ' come' (ID: 2525), Prob: 0.0001
+Token: ' sketch' (ID: 25529), Prob: 0.0001
+Token: 'think' (ID: 26865), Prob: 0.0000
+Token: ' break' (ID: 1438), Prob: 0.0000
+Token: ' draft' (ID: 9960), Prob: 0.0000
+Token: ' approach' (ID: 5486), Prob: 0.0000
+Token: ' thought' (ID: 3381), Prob: 0.0000
+Token: ' see' (ID: 1490), Prob: 0.0000
+Token: ' structure' (ID: 5944), Prob: 0.0000
+Token: ' first' (ID: 1156), Prob: 0.0000
+Token: ' take' (ID: 1896), Prob: 0.0000
+Token: ' explore' (ID: 13186), Prob: 0.0000
+Token: ' recall' (ID: 19091), Prob: 0.0000
+Token: ' flesh' (ID: 24955), Prob: 0.0000
+Token: ' plan' (ID: 3119), Prob: 0.0000
+Token: ' Think' (ID: 21149), Prob: 0.0000
+Token: ' elaborate' (ID: 35967), Prob: 0.0000
+Token: ' generate' (ID: 6923), Prob: 0.0000
+Token: ' thinking' (ID: 7274), Prob: 0.0000
+Token: ' build' (ID: 1936), Prob: 0.0000
+Token: ' read' (ID: 1349), Prob: 0.0000
+Token: ' suggest' (ID: 4190), Prob: 0.0000
+Token: 'Brain' (ID: 65077), Prob: 0.0000
+Token: ' look' (ID: 1401), Prob: 0.0000
+Token: ' thinks' (ID: 15482), Prob: 0.0000
+Token: ' get' (ID: 633), Prob: 0.0000
+Token: ' put' (ID: 2182), Prob: 0.0000
+Token: ' form' (ID: 1352), Prob: 0.0000
+Token: ' begin' (ID: 3161), Prob: 0.0000
+Token: ' craft' (ID: 10770), Prob: 0.0000
+Token: ' settle' (ID: 24729), Prob: 0.0000
+Token: ' propose' (ID: 29614), Prob: 0.0000
+Token: 'Think' (ID: 38687), Prob: 0.0000
+Token: ' set' (ID: 738), Prob: 0.0000
+Token: ' ask' (ID: 2548), Prob: 0.0000
+Token: ' construct' (ID: 9245), Prob: 0.0000
+Token: ' proceed' (ID: 10354), Prob: 0.0000
+Token: ' wrap' (ID: 15061), Prob: 0.0000
+Token: ' stick' (ID: 9214), Prob: 0.0000
+Token: ' assume' (ID: 9658), Prob: 0.0000
+Token: ' talk' (ID: 3061), Prob: 0.0000
+Token: ' envision' (ID: 47046), Prob: 0.0000
+Token: ' connect' (ID: 4564), Prob: 0.0000
+Token: ' add' (ID: 912), Prob: 0.0000
+Token: ' frame' (ID: 4034), Prob: 0.0000
+Token: ' rethink' (ID: 75655), Prob: 0.0000
+Token: ' close' (ID: 3265), Prob: 0.0000
+Token: ' jot' (ID: 92380), Prob: 0.0000
+Token: ' figure' (ID: 7071), Prob: 0.0000
+Token: ' find' (ID: 1477), Prob: 0.0000
+Token: ' invent' (ID: 17023), Prob: 0.0000
+Token: ' Brain' (ID: 30317), Prob: 0.0000
+Token: ' list' (ID: 1140), Prob: 0.0000
+Token: ' give' (ID: 2968), Prob: 0.0000
+Token: ' prioritize' (ID: 62552), Prob: 0.0000
+Token: ' THINK' (ID: 92119), Prob: 0.0000
+Token: ' say' (ID: 1977), Prob: 0.0000
+Token: ' write' (ID: 3270), Prob: 0.0000
+Token: ' dig' (ID: 4078), Prob: 0.0000
+Token: ' plot' (ID: 7089), Prob: 0.0000
+Token: ' expand' (ID: 9225), Prob: 0.0000
+Token: ' ponder' (ID: 47783), Prob: 0.0000
+Token: ' work' (ID: 975), Prob: 0.0000
+Token: 'consider' (ID: 24712), Prob: 0.0000
+Token: ' concept' (ID: 7286), Prob: 0.0000
+Token: ' pivot' (ID: 26045), Prob: 0.0000
+Token: ' count' (ID: 1760), Prob: 0.0000
+Token: ' open' (ID: 1787), Prob: 0.0000
+Token: ' chose' (ID: 14554), Prob: 0.0000
+Token: ' provide' (ID: 3410), Prob: 0.0000
+Token: ' tent' (ID: 15632), Prob: 0.0000
+Token: ' step' (ID: 3019), Prob: 0.0000
+Token: ' idea' (ID: 4522), Prob: 0.0000
+Token: ' picture' (ID: 6802), Prob: 0.0000
+Token: ' branch' (ID: 8870), Prob: 0.0000
+Token: ' pause' (ID: 18087), Prob: 0.0000
 
 == Ranked Concepts (Clusters) ==
-Rank 1 | Centroid: 'Let' | Score: 0.9766
-  Tokens: ['Let', 'Wait', ' Let']
-Rank 2 | Centroid: 'Okay' | Score: 0.0016
-  Tokens: ['Yes', 'Okay', 'Alright']
-Rank 3 | Centroid: 'Answer' | Score: 0.0010
-  Tokens: ['Answer', 'Question', 'Explanation']
-Rank 4 | Centroid: 'Finally' | Score: 0.0003
-  Tokens: ['Last', 'Finally', 'Final']
-Rank 5 | Centroid: 'Click' | Score: 0.0003
-  Tokens: ['Tweet', 'Click', 'Tag', 'June']
-Rank 6 | Centroid: 'Every' | Score: 0.0003
-  Tokens: ['Every', 'Among', 'Even', 'One']
-Rank 7 | Centroid: 'According' | Score: 0.0003
-  Tokens: ['Based', 'Given', 'Therefore', 'According']
-Rank 8 | Centroid: 'Word' | Score: 0.0002
-  Tokens: ['Word', 'West']
-Rank 9 | Centroid: 'Get' | Score: 0.0002
-  Tokens: ['Get', 'List', 'View', 'Set']
-Rank 10 | Centroid: 'Ret' | Score: 0.0002
-  Tokens: ['Ret']
-Rank 11 | Centroid: 'Back' | Score: 0.0002
-  Tokens: ['Back', 'Home']
-Rank 12 | Centroid: 'Maybe' | Score: 0.0002
-  Tokens: ['Maybe', 'Perhaps']
-Rank 13 | Centroid: 'Correct' | Score: 0.0001
-  Tokens: ['Correct', 'Reply']
-Rank 14 | Centroid: 'Exactly' | Score: 0.0001
-  Tokens: ['Exactly', 'Enough']
-Rank 15 | Centroid: 'Today' | Score: 0.0001
-  Tokens: ['Today', 'Latest']
-Rank 16 | Centroid: 'Please' | Score: 0.0001
-  Tokens: ['Please']
-Rank 17 | Centroid: 'Help' | Score: 0.0001
-  Tokens: ['Help']
-Rank 18 | Centroid: 'Ass' | Score: 0.0001
-  Tokens: ['Ass']
-Rank 19 | Centroid: 'Paragraph' | Score: 0.0000
-  Tokens: ['Paragraph']
-Rank 20 | Centroid: 'None' | Score: 0.0000
-  Tokens: ['None']
+Rank 1 | Centroid: ' Think' | Score: 0.9648
+  Tokens: [' think', 'think', ' thought', ' Think', ' thinking', ' thinks', 'Think', ' rethink', ' THINK']
+Rank 2 | Centroid: ' Brain' | Score: 0.0227
+  Tokens: [' brainstorm', ' flesh', 'Brain', ' Brain']
+Rank 3 | Centroid: ' consider' | Score: 0.0065
+  Tokens: [' consider', ' ponder', 'consider']
+Rank 4 | Centroid: ' choose' | Score: 0.0022
+  Tokens: [' pick', ' choose', ' decide', ' settle', ' chose']
+Rank 5 | Centroid: ' start' | Score: 0.0013
+  Tokens: [' start', ' begin']
+Rank 6 | Centroid: ' ask' | Score: 0.0006
+  Tokens: [' try', ' check', ' see', ' take', ' look', ' ask', ' say']
+Rank 7 | Centroid: ' envision' | Score: 0.0004
+  Tokens: [' imagine', ' visualize', ' envision']
+Rank 8 | Centroid: ' outline' | Score: 0.0002
+  Tokens: [' outline', ' plan']
+Rank 9 | Centroid: ' provide' | Score: 0.0002
+  Tokens: [' make', ' come', ' get', ' add', ' find', ' give', ' provide']
+Rank 10 | Centroid: ' create' | Score: 0.0001
+  Tokens: [' create', ' generate', ' build', ' construct', ' connect', ' expand']
+Rank 11 | Centroid: ' sketch' | Score: 0.0001
+  Tokens: [' sketch', ' draft', ' elaborate', ' craft', ' jot', ' invent']
+Rank 12 | Centroid: ' pivot' | Score: 0.0001
+  Tokens: [' focus', ' pivot', ' pause']
+Rank 13 | Centroid: ' concept' | Score: 0.0001
+  Tokens: [' approach', ' structure', ' form', ' frame', ' concept', ' idea']
+Rank 14 | Centroid: ' break' | Score: 0.0000
+  Tokens: [' break', ' wrap']
+Rank 15 | Centroid: ' explore' | Score: 0.0000
+  Tokens: [' explore', ' proceed', ' prioritize']
+Rank 16 | Centroid: ' first' | Score: 0.0000
+  Tokens: [' first', ' work', ' step']
+Rank 17 | Centroid: ' recall' | Score: 0.0000
+  Tokens: [' recall', ' talk']
+Rank 18 | Centroid: ' suggest' | Score: 0.0000
+  Tokens: [' suggest', ' propose', ' assume']
+Rank 19 | Centroid: ' set' | Score: 0.0000
+  Tokens: [' put', ' set', ' list', ' count']
+Rank 20 | Centroid: ' read' | Score: 0.0000
+  Tokens: [' read', ' write']
+Rank 21 | Centroid: ' stick' | Score: 0.0000
+  Tokens: [' stick', ' dig']
+Rank 22 | Centroid: ' picture' | Score: 0.0000
+  Tokens: [' figure', ' plot', ' picture']
+Rank 23 | Centroid: ' close' | Score: 0.0000
+  Tokens: [' close', ' open', ' branch']
+Rank 24 | Centroid: ' tent' | Score: 0.0000
+  Tokens: [' tent']
 
 **Chosen Concept:** Rank 1

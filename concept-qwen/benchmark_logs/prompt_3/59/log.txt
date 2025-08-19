@@ -1,90 +1,107 @@
 --- Step 59 Log ---
 
 == Filtered Candidates ==
-Token: ' old' (ID: 2310), Prob: 1.0000
-Token: ' older' (ID: 9014), Prob: 0.0002
-Token: ' young' (ID: 3908), Prob: 0.0001
-Token: ' elderly' (ID: 28820), Prob: 0.0000
-Token: ' long' (ID: 1293), Prob: 0.0000
-Token: '(old' (ID: 21972), Prob: 0.0000
-Token: 'old' (ID: 813), Prob: 0.0000
-Token: '-old' (ID: 6284), Prob: 0.0000
-Token: '	old' (ID: 61828), Prob: 0.0000
-Token: ' Old' (ID: 10621), Prob: 0.0000
-Token: ' ancient' (ID: 13833), Prob: 0.0000
-Token: '.old' (ID: 46061), Prob: 0.0000
-Token: ' cold' (ID: 9255), Prob: 0.0000
-Token: ' oldest' (ID: 23513), Prob: 0.0000
-Token: ' new' (ID: 501), Prob: 0.0000
-Token: '_old' (ID: 21108), Prob: 0.0000
-Token: ' tall' (ID: 16217), Prob: 0.0000
-Token: ' OLD' (ID: 64891), Prob: 0.0000
-Token: ' well' (ID: 1632), Prob: 0.0000
-Token: ' away' (ID: 3123), Prob: 0.0000
-Token: ' slow' (ID: 6301), Prob: 0.0000
-Token: ' child' (ID: 1682), Prob: 0.0000
-Token: ' fast' (ID: 4937), Prob: 0.0000
-Token: ' aged' (ID: 19749), Prob: 0.0000
-Token: ' full' (ID: 2480), Prob: 0.0000
-Token: ' aging' (ID: 28984), Prob: 0.0000
-Token: ' large' (ID: 3460), Prob: 0.0000
-Token: ' oil' (ID: 5590), Prob: 0.0000
-Token: ' small' (ID: 2613), Prob: 0.0000
-Token: ' end' (ID: 835), Prob: 0.0000
-Token: ' wide' (ID: 6884), Prob: 0.0000
-Token: ' late' (ID: 3309), Prob: 0.0000
-Token: ' empty' (ID: 4287), Prob: 0.0000
-Token: ' age' (ID: 4231), Prob: 0.0000
-Token: ' outdated' (ID: 40526), Prob: 0.0000
-Token: ' strong' (ID: 3746), Prob: 0.0000
-Token: ' easy' (ID: 4135), Prob: 0.0000
-Token: ' open' (ID: 1787), Prob: 0.0000
-Token: ' grow' (ID: 3063), Prob: 0.0000
-Token: ' along' (ID: 3156), Prob: 0.0000
-Token: ' without' (ID: 2041), Prob: 0.0000
-Token: ' always' (ID: 2677), Prob: 0.0000
-Token: ' rich' (ID: 9080), Prob: 0.0000
-Token: ' tired' (ID: 19227), Prob: 0.0000
-Token: ' like' (ID: 1075), Prob: 0.0000
-Token: ' high' (ID: 1550), Prob: 0.0000
-Token: ' alone' (ID: 7484), Prob: 0.0000
-Token: ' still' (ID: 2058), Prob: 0.0000
-Token: ' often' (ID: 3545), Prob: 0.0000
+Token: 'Possible' (ID: 65222), Prob: 0.3086
+Token: 'Option' (ID: 5341), Prob: 0.2129
+Token: 'First' (ID: 5338), Prob: 0.1138
+Token: 'Poss' (ID: 82629), Prob: 0.0608
+Token: 'Maybe' (ID: 21390), Prob: 0.0417
+Token: 'Original' (ID: 18395), Prob: 0.0154
+Token: 'Hmm' (ID: 80022), Prob: 0.0154
+Token: 'One' (ID: 3966), Prob: 0.0093
+Token: 'Let' (ID: 10061), Prob: 0.0093
+Token: 'Common' (ID: 10839), Prob: 0.0082
+Token: 'Perhaps' (ID: 31476), Prob: 0.0064
+Token: 'Potential' (ID: 95611), Prob: 0.0057
+Token: 'Two' (ID: 11613), Prob: 0.0044
+Token: 'Options' (ID: 3798), Prob: 0.0030
+Token: 'Thinking' (ID: 93945), Prob: 0.0025
+Token: 'Since' (ID: 12549), Prob: 0.0024
+Token: 'Wait' (ID: 14190), Prob: 0.0020
+Token: 'Well' (ID: 11395), Prob: 0.0014
+Token: 'Probably' (ID: 69453), Prob: 0.0013
+Token: 'Looking' (ID: 22464), Prob: 0.0013
+Token: 'Scenario' (ID: 54031), Prob: 0.0012
+Token: 'Person' (ID: 10680), Prob: 0.0010
+Token: 'Starting' (ID: 24617), Prob: 0.0009
+Token: 'Either' (ID: 49244), Prob: 0.0009
+Token: 'User' (ID: 1474), Prob: 0.0009
+Token: 'Main' (ID: 6202), Prob: 0.0006
+Token: 'Start' (ID: 3479), Prob: 0.0005
+Token: 'Thought' (ID: 84169), Prob: 0.0005
+Token: 'Scene' (ID: 10019), Prob: 0.0004
+Token: 'Traditional' (ID: 84682), Prob: 0.0004
+Token: 'Action' (ID: 2512), Prob: 0.0004
+Token: 'Story' (ID: 17938), Prob: 0.0004
+Token: 'Ass' (ID: 5615), Prob: 0.0004
+Token: 'Considering' (ID: 82796), Prob: 0.0004
+Token: 'Initially' (ID: 89984), Prob: 0.0003
+Token: 'Typ' (ID: 12834), Prob: 0.0003
+Token: 'Think' (ID: 38687), Prob: 0.0003
+Token: 'Alternatively' (ID: 92014), Prob: 0.0003
+Token: 'Time' (ID: 1462), Prob: 0.0003
+Token: 'Could' (ID: 12895), Prob: 0.0003
+Token: 'Old' (ID: 18284), Prob: 0.0003
+Token: 'Natural' (ID: 54281), Prob: 0.0003
+Token: 'Setting' (ID: 15400), Prob: 0.0003
+Token: 'People' (ID: 15919), Prob: 0.0003
+Token: 'Alternative' (ID: 75763), Prob: 0.0002
+Token: 'Plot' (ID: 25605), Prob: 0.0002
+Token: 'Popular' (ID: 58452), Prob: 0.0002
+Token: 'Amb' (ID: 54032), Prob: 0.0002
+Token: 'Appro' (ID: 28588), Prob: 0.0002
+Token: 'Another' (ID: 14037), Prob: 0.0002
+Token: 'Friend' (ID: 41637), Prob: 0.0002
+Token: ' Possible' (ID: 36107), Prob: 0.0002
+Token: 'Choice' (ID: 24728), Prob: 0.0002
+Token: 'Immediate' (ID: 52734), Prob: 0.0002
+Token: 'Choices' (ID: 89283), Prob: 0.0002
+Token: 'Initial' (ID: 6341), Prob: 0.0001
+Token: 'Stories' (ID: 92431), Prob: 0.0001
+Token: 'Imagine' (ID: 51057), Prob: 0.0001
+Token: 'Three' (ID: 19641), Prob: 0.0001
+Token: 'Susp' (ID: 94149), Prob: 0.0001
 
 == Ranked Concepts (Clusters) ==
-Rank 1 | Centroid: ' old' | Score: 1.0000
-  Tokens: [' old', '(old', 'old', '-old', '\told', ' Old', '.old', '_old', ' OLD']
-Rank 2 | Centroid: ' older' | Score: 0.0002
-  Tokens: [' older', ' elderly', ' ancient', ' oldest', ' outdated']
-Rank 3 | Centroid: ' young' | Score: 0.0001
-  Tokens: [' young', ' child']
-Rank 4 | Centroid: ' large' | Score: 0.0000
-  Tokens: [' long', ' large', ' small', ' late']
-Rank 5 | Centroid: ' high' | Score: 0.0000
-  Tokens: [' tall', ' wide', ' strong', ' rich', ' high']
-Rank 6 | Centroid: ' cold' | Score: 0.0000
-  Tokens: [' cold']
-Rank 7 | Centroid: ' new' | Score: 0.0000
-  Tokens: [' new']
-Rank 8 | Centroid: ' well' | Score: 0.0000
-  Tokens: [' well', ' away']
-Rank 9 | Centroid: ' slow' | Score: 0.0000
-  Tokens: [' slow', ' fast', ' easy']
-Rank 10 | Centroid: ' aged' | Score: 0.0000
-  Tokens: [' aged', ' aging', ' age']
-Rank 11 | Centroid: ' empty' | Score: 0.0000
-  Tokens: [' oil', ' empty', ' open']
-Rank 12 | Centroid: ' without' | Score: 0.0000
-  Tokens: [' along', ' without', ' like', ' alone']
-Rank 13 | Centroid: ' full' | Score: 0.0000
-  Tokens: [' full']
-Rank 14 | Centroid: ' always' | Score: 0.0000
-  Tokens: [' always', ' still', ' often']
-Rank 15 | Centroid: ' end' | Score: 0.0000
-  Tokens: [' end']
-Rank 16 | Centroid: ' grow' | Score: 0.0000
-  Tokens: [' grow']
-Rank 17 | Centroid: ' tired' | Score: 0.0000
-  Tokens: [' tired']
+Rank 1 | Centroid: 'Possible' | Score: 0.3750
+  Tokens: ['Possible', 'Poss', 'Potential', ' Possible']
+Rank 2 | Centroid: 'Options' | Score: 0.2158
+  Tokens: ['Option', 'Options', 'Choice', 'Choices']
+Rank 3 | Centroid: 'Two' | Score: 0.1279
+  Tokens: ['First', 'One', 'Two', 'Three']
+Rank 4 | Centroid: 'Perhaps' | Score: 0.0508
+  Tokens: ['Maybe', 'Perhaps', 'Probably', 'Either', 'Could']
+Rank 5 | Centroid: 'Initial' | Score: 0.0160
+  Tokens: ['Original', 'Initially', 'Immediate', 'Initial']
+Rank 6 | Centroid: 'Hmm' | Score: 0.0156
+  Tokens: ['Hmm', 'Amb', 'Susp']
+Rank 7 | Centroid: 'Let' | Score: 0.0140
+  Tokens: ['Let', 'Since', 'Wait', 'Ass']
+Rank 8 | Centroid: 'Common' | Score: 0.0091
+  Tokens: ['Common', 'Main', 'Old']
+Rank 9 | Centroid: 'Thinking' | Score: 0.0033
+  Tokens: ['Thinking', 'Thought', 'Think']
+Rank 10 | Centroid: 'Person' | Score: 0.0021
+  Tokens: ['Person', 'User', 'People']
+Rank 11 | Centroid: 'Scene' | Score: 0.0021
+  Tokens: ['Scenario', 'Scene', 'Setting', 'Plot']
+Rank 12 | Centroid: 'Considering' | Score: 0.0018
+  Tokens: ['Looking', 'Considering', 'Imagine']
+Rank 13 | Centroid: 'Well' | Score: 0.0017
+  Tokens: ['Well', 'Typ']
+Rank 14 | Centroid: 'Starting' | Score: 0.0014
+  Tokens: ['Starting', 'Start']
+Rank 15 | Centroid: 'Traditional' | Score: 0.0009
+  Tokens: ['Traditional', 'Natural', 'Popular']
+Rank 16 | Centroid: 'Alternatively' | Score: 0.0007
+  Tokens: ['Alternatively', 'Alternative', 'Another']
+Rank 17 | Centroid: 'Action' | Score: 0.0007
+  Tokens: ['Action', 'Time']
+Rank 18 | Centroid: 'Story' | Score: 0.0005
+  Tokens: ['Story', 'Stories']
+Rank 19 | Centroid: 'Appro' | Score: 0.0002
+  Tokens: ['Appro']
+Rank 20 | Centroid: 'Friend' | Score: 0.0002
+  Tokens: ['Friend']
 
 **Chosen Concept:** Rank 1

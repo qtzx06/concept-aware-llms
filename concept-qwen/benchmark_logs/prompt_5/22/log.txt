@@ -1,71 +1,95 @@
 --- Step 22 Log ---
 
 == Filtered Candidates ==
-Token: ' makes' (ID: 3643), Prob: 0.3594
-Token: ' would' (ID: 1035), Prob: 0.0708
-Token: ' seems' (ID: 4977), Prob: 0.0203
-Token: ' says' (ID: 2727), Prob: 0.0084
-Token: ' could' (ID: 1410), Prob: 0.0066
-Token: ' made' (ID: 1865), Prob: 0.0066
-Token: ' may' (ID: 1231), Prob: 0.0037
-Token: ' might' (ID: 2578), Prob: 0.0026
-Token: ' cannot' (ID: 4157), Prob: 0.0023
-Token: ' must' (ID: 1969), Prob: 0.0019
-Token: ' making' (ID: 3259), Prob: 0.0014
-Token: ' describes' (ID: 16555), Prob: 0.0014
-Token: ' likely' (ID: 4363), Prob: 0.0010
-Token: ' appears' (ID: 7952), Prob: 0.0010
-Token: ' contains' (ID: 5610), Prob: 0.0009
-Token: ' make' (ID: 1281), Prob: 0.0008
-Token: ' probably' (ID: 4658), Prob: 0.0007
-Token: ' suggests' (ID: 13230), Prob: 0.0006
-Token: ' implies' (ID: 23945), Prob: 0.0005
-Token: ' given' (ID: 2661), Prob: 0.0004
-Token: ' assumes' (ID: 21484), Prob: 0.0004
-Token: ' reads' (ID: 15804), Prob: 0.0004
-Token: ' provided' (ID: 3897), Prob: 0.0003
-Token: ' needs' (ID: 3880), Prob: 0.0003
-Token: ' sounds' (ID: 10362), Prob: 0.0002
-Token: ' indicates' (ID: 14807), Prob: 0.0002
-Token: ' includes' (ID: 5646), Prob: 0.0002
-Token: ' logically' (ID: 73045), Prob: 0.0002
-Token: ' refers' (ID: 19257), Prob: 0.0002
-Token: ' saying' (ID: 5488), Prob: 0.0002
-Token: ' provides' (ID: 5707), Prob: 0.0002
-Token: ' mentions' (ID: 33845), Prob: 0.0002
-Token: ' sentence' (ID: 11652), Prob: 0.0001
-Token: ' statement' (ID: 5114), Prob: 0.0001
-Token: ' represents' (ID: 10868), Prob: 0.0001
-Token: ' follows' (ID: 11017), Prob: 0.0001
-Token: ' means' (ID: 3363), Prob: 0.0001
-Token: ' requires' (ID: 7460), Prob: 0.0001
+Token: ' mentioned' (ID: 9733), Prob: 0.0674
+Token: ' needed' (ID: 4362), Prob: 0.0150
+Token: ' present' (ID: 3042), Prob: 0.0117
+Token: ' provided' (ID: 3897), Prob: 0.0038
+Token: ' required' (ID: 2567), Prob: 0.0016
+Token: ' suggested' (ID: 11827), Prob: 0.0007
+Token: ' presented' (ID: 10449), Prob: 0.0007
+Token: ' described' (ID: 7481), Prob: 0.0003
+Token: ' necessary' (ID: 5871), Prob: 0.0002
+Token: ' introduced' (ID: 11523), Prob: 0.0002
+Token: ' within' (ID: 2878), Prob: 0.0002
+Token: ' important' (ID: 2989), Prob: 0.0002
+Token: ' involved' (ID: 6398), Prob: 0.0001
+Token: ' discussed' (ID: 14078), Prob: 0.0001
+Token: ' highlighted' (ID: 26366), Prob: 0.0001
+Token: ' inside' (ID: 4766), Prob: 0.0000
+Token: ' like' (ID: 1075), Prob: 0.0000
+Token: ' wanted' (ID: 4829), Prob: 0.0000
+Token: ' included' (ID: 5230), Prob: 0.0000
+Token: ' requested' (ID: 11223), Prob: 0.0000
+Token: ' common' (ID: 4185), Prob: 0.0000
+Token: ' listed' (ID: 10007), Prob: 0.0000
+Token: ' identified' (ID: 10820), Prob: 0.0000
+Token: ' conveyed' (ID: 72797), Prob: 0.0000
+Token: ' essential' (ID: 7565), Prob: 0.0000
+Token: ' outlined' (ID: 32640), Prob: 0.0000
+Token: ' found' (ID: 1730), Prob: 0.0000
+Token: ' drawn' (ID: 14764), Prob: 0.0000
+Token: ' people' (ID: 1251), Prob: 0.0000
+Token: ' around' (ID: 2163), Prob: 0.0000
+Token: ' depicted' (ID: 43794), Prob: 0.0000
+Token: ' extracted' (ID: 27432), Prob: 0.0000
+Token: ' mention' (ID: 6286), Prob: 0.0000
+Token: ' relevant' (ID: 9760), Prob: 0.0000
+Token: ' proposed' (ID: 10981), Prob: 0.0000
+Token: ' since' (ID: 2474), Prob: 0.0000
+Token: ' shared' (ID: 6094), Prob: 0.0000
+Token: ' given' (ID: 2661), Prob: 0.0000
+Token: ' borrowed' (ID: 45564), Prob: 0.0000
+Token: ' based' (ID: 3118), Prob: 0.0000
+Token: ' emphasized' (ID: 45628), Prob: 0.0000
+Token: ' need' (ID: 1184), Prob: 0.0000
+Token: ' without' (ID: 2041), Prob: 0.0000
+Token: ' specified' (ID: 5189), Prob: 0.0000
+Token: ' related' (ID: 5435), Prob: 0.0000
+Token: ' featured' (ID: 14766), Prob: 0.0000
+Token: ' together' (ID: 3786), Prob: 0.0000
+Token: ' implied' (ID: 6131), Prob: 0.0000
+Token: ' missing' (ID: 7402), Prob: 0.0000
+Token: ' recommended' (ID: 11102), Prob: 0.0000
 
 == Ranked Concepts (Clusters) ==
-Rank 1 | Centroid: ' make' | Score: 0.3672
-  Tokens: [' makes', ' made', ' making', ' make']
-Rank 2 | Centroid: ' may' | Score: 0.0879
-  Tokens: [' would', ' could', ' may', ' might', ' cannot', ' must']
-Rank 3 | Centroid: ' seems' | Score: 0.0215
-  Tokens: [' seems', ' appears', ' sounds']
-Rank 4 | Centroid: ' says' | Score: 0.0088
-  Tokens: [' says', ' saying', ' mentions']
-Rank 5 | Centroid: ' indicates' | Score: 0.0029
-  Tokens: [' describes', ' suggests', ' assumes', ' indicates', ' refers', ' represents']
-Rank 6 | Centroid: ' likely' | Score: 0.0017
-  Tokens: [' likely', ' probably']
-Rank 7 | Centroid: ' contains' | Score: 0.0011
-  Tokens: [' contains', ' includes']
-Rank 8 | Centroid: ' provided' | Score: 0.0010
-  Tokens: [' given', ' provided', ' provides']
-Rank 9 | Centroid: ' implies' | Score: 0.0006
-  Tokens: [' implies', ' means']
-Rank 10 | Centroid: ' reads' | Score: 0.0005
-  Tokens: [' reads', ' follows']
-Rank 11 | Centroid: ' needs' | Score: 0.0004
-  Tokens: [' needs', ' requires']
-Rank 12 | Centroid: ' sentence' | Score: 0.0003
-  Tokens: [' sentence', ' statement']
-Rank 13 | Centroid: ' logically' | Score: 0.0002
-  Tokens: [' logically']
+Rank 1 | Centroid: ' mentioned' | Score: 0.0679
+  Tokens: [' mentioned', ' described', ' discussed', ' listed', ' outlined', ' depicted', ' mention']
+Rank 2 | Centroid: ' needed' | Score: 0.0168
+  Tokens: [' needed', ' required', ' necessary', ' wanted', ' need']
+Rank 3 | Centroid: ' presented' | Score: 0.0126
+  Tokens: [' present', ' presented', ' introduced']
+Rank 4 | Centroid: ' provided' | Score: 0.0038
+  Tokens: [' provided', ' given']
+Rank 5 | Centroid: ' suggested' | Score: 0.0008
+  Tokens: [' suggested', ' proposed', ' recommended']
+Rank 6 | Centroid: ' within' | Score: 0.0003
+  Tokens: [' within', ' inside', ' like', ' around']
+Rank 7 | Centroid: ' included' | Score: 0.0002
+  Tokens: [' involved', ' included', ' featured']
+Rank 8 | Centroid: ' important' | Score: 0.0002
+  Tokens: [' important', ' essential']
+Rank 9 | Centroid: ' highlighted' | Score: 0.0001
+  Tokens: [' highlighted', ' emphasized']
+Rank 10 | Centroid: ' common' | Score: 0.0000
+  Tokens: [' common', ' shared', ' together']
+Rank 11 | Centroid: ' identified' | Score: 0.0000
+  Tokens: [' identified', ' found']
+Rank 12 | Centroid: ' requested' | Score: 0.0000
+  Tokens: [' requested', ' specified']
+Rank 13 | Centroid: ' extracted' | Score: 0.0000
+  Tokens: [' drawn', ' extracted', ' borrowed']
+Rank 14 | Centroid: ' without' | Score: 0.0000
+  Tokens: [' since', ' based', ' without']
+Rank 15 | Centroid: ' conveyed' | Score: 0.0000
+  Tokens: [' conveyed']
+Rank 16 | Centroid: ' relevant' | Score: 0.0000
+  Tokens: [' relevant', ' related']
+Rank 17 | Centroid: ' people' | Score: 0.0000
+  Tokens: [' people']
+Rank 18 | Centroid: ' missing' | Score: 0.0000
+  Tokens: [' missing']
+Rank 19 | Centroid: ' implied' | Score: 0.0000
+  Tokens: [' implied']
 
 **Chosen Concept:** Rank 1

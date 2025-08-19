@@ -1,70 +1,97 @@
 --- Step 29 Log ---
 
 == Filtered Candidates ==
-Token: 'ting' (ID: 1280), Prob: 0.9961
-Token: 'ten' (ID: 1960), Prob: 0.0000
-Token: ' trying' (ID: 4460), Prob: 0.0000
-Token: ' time' (ID: 882), Prob: 0.0000
-Token: 'tings' (ID: 2065), Prob: 0.0000
+Token: ' someone' (ID: 4325), Prob: 0.0183
+Token: ' friendship' (ID: 26509), Prob: 0.0161
+Token: ' person' (ID: 1697), Prob: 0.0007
+Token: ' friend' (ID: 4238), Prob: 0.0004
+Token: ' relationship' (ID: 5025), Prob: 0.0002
+Token: ' meeting' (ID: 6438), Prob: 0.0002
+Token: ' something' (ID: 2494), Prob: 0.0002
+Token: ' personal' (ID: 4345), Prob: 0.0002
+Token: '"He' (ID: 26326), Prob: 0.0002
+Token: ' two' (ID: 1378), Prob: 0.0002
+Token: ' John' (ID: 3757), Prob: 0.0002
+Token: ' Henry' (ID: 17599), Prob: 0.0001
+Token: ' love' (ID: 2948), Prob: 0.0001
+Token: ' friends' (ID: 4780), Prob: 0.0001
+Token: ' familiarity' (ID: 70440), Prob: 0.0001
+Token: ' character' (ID: 3668), Prob: 0.0001
+Token: ' Heath' (ID: 47462), Prob: 0.0001
+Token: ' relationships' (ID: 11871), Prob: 0.0001
+Token: ' people' (ID: 1251), Prob: 0.0001
+Token: ' feeling' (ID: 8266), Prob: 0.0001
+Token: ' mutual' (ID: 26750), Prob: 0.0001
+Token: ' time' (ID: 882), Prob: 0.0001
+Token: ' warmth' (ID: 40363), Prob: 0.0001
+Token: ' honesty' (ID: 47848), Prob: 0.0001
+Token: ' loneliness' (ID: 73940), Prob: 0.0001
+Token: ' connection' (ID: 3633), Prob: 0.0001
+Token: ' three' (ID: 2326), Prob: 0.0001
+Token: ' emotional' (ID: 14269), Prob: 0.0001
+Token: ' expressing' (ID: 36710), Prob: 0.0001
+Token: ' humor' (ID: 27385), Prob: 0.0001
+Token: ' knowing' (ID: 14063), Prob: 0.0000
+Token: ' Heather' (ID: 46263), Prob: 0.0000
+Token: ' showing' (ID: 9027), Prob: 0.0000
+Token: ' interaction' (ID: 16230), Prob: 0.0000
+Token: ' forming' (ID: 29064), Prob: 0.0000
+Token: ' James' (ID: 7801), Prob: 0.0000
+Token: ' Harry' (ID: 13928), Prob: 0.0000
+Token: ' describing' (ID: 22692), Prob: 0.0000
 Token: ' getting' (ID: 3709), Prob: 0.0000
-Token: ' letting' (ID: 20194), Prob: 0.0000
-Token: ' total' (ID: 2790), Prob: 0.0000
-Token: ' changing' (ID: 10018), Prob: 0.0000
-Token: ' putting' (ID: 10687), Prob: 0.0000
-Token: ' passing' (ID: 12299), Prob: 0.0000
-Token: 'TING' (ID: 25043), Prob: 0.0000
-Token: ' turning' (ID: 13054), Prob: 0.0000
-Token: ' ting' (ID: 42227), Prob: 0.0000
-Token: ' going' (ID: 2087), Prob: 0.0000
-Token: 'tant' (ID: 60412), Prob: 0.0000
-Token: ' taking' (ID: 4633), Prob: 0.0000
-Token: ' choosing' (ID: 18774), Prob: 0.0000
-Token: ' alone' (ID: 7484), Prob: 0.0000
-Token: ' meeting' (ID: 6438), Prob: 0.0000
-Token: ' another' (ID: 2441), Prob: 0.0000
-Token: ' thinking' (ID: 7274), Prob: 0.0000
-Token: ' terminating' (ID: 70581), Prob: 0.0000
-Token: 'ing' (ID: 287), Prob: 0.0000
-Token: 'tering' (ID: 59385), Prob: 0.0000
-Token: 'ted' (ID: 6565), Prob: 0.0000
-Token: ' translating' (ID: 66271), Prob: 0.0000
-Token: 'ters' (ID: 5045), Prob: 0.0000
-Token: ' using' (ID: 1667), Prob: 0.0000
-Token: ' making' (ID: 3259), Prob: 0.0000
-Token: ' sleeping' (ID: 21127), Prob: 0.0000
-Token: ' let' (ID: 1077), Prob: 0.0000
-Token: ' something' (ID: 2494), Prob: 0.0000
+Token: ' human' (ID: 3738), Prob: 0.0000
+Token: ' loving' (ID: 21258), Prob: 0.0000
+Token: ' kindness' (ID: 44872), Prob: 0.0000
+Token: ' Ham' (ID: 9582), Prob: 0.0000
+Token: ' affection' (ID: 36705), Prob: 0.0000
+Token: ' observing' (ID: 44971), Prob: 0.0000
+Token: ' becoming' (ID: 10454), Prob: 0.0000
+Token: ' one' (ID: 825), Prob: 0.0000
+Token: ' good' (ID: 1661), Prob: 0.0000
+Token: ' talking' (ID: 7404), Prob: 0.0000
+Token: ' personality' (ID: 17294), Prob: 0.0000
+Token: ' camar' (ID: 96586), Prob: 0.0000
+Token: ' previous' (ID: 3681), Prob: 0.0000
+Token: ' characters' (ID: 5766), Prob: 0.0000
+Token: ' understanding' (ID: 8660), Prob: 0.0000
+Token: ' introducing' (ID: 31918), Prob: 0.0000
+Token: ' empathy' (ID: 47351), Prob: 0.0000
+Token: ' Robert' (ID: 8397), Prob: 0.0000
+Token: ' seeing' (ID: 9120), Prob: 0.0000
+Token: ' George' (ID: 9857), Prob: 0.0000
+Token: ' Thomas' (ID: 11108), Prob: 0.0000
 
 == Ranked Concepts (Clusters) ==
-Rank 1 | Centroid: 'TING' | Score: 0.9961
-  Tokens: ['ting', 'tings', 'TING']
-Rank 2 | Centroid: ' getting' | Score: 0.0000
-  Tokens: [' trying', ' getting', ' putting', ' going', ' taking', ' choosing', ' using', ' making']
-Rank 3 | Centroid: 'ten' | Score: 0.0000
-  Tokens: ['ten', 'ted']
-Rank 4 | Centroid: ' time' | Score: 0.0000
-  Tokens: [' time', ' total']
-Rank 5 | Centroid: ' changing' | Score: 0.0000
-  Tokens: [' changing', ' turning']
-Rank 6 | Centroid: ' letting' | Score: 0.0000
-  Tokens: [' letting', ' let']
-Rank 7 | Centroid: ' passing' | Score: 0.0000
-  Tokens: [' passing', ' meeting']
-Rank 8 | Centroid: ' sleeping' | Score: 0.0000
-  Tokens: [' terminating', ' translating', ' sleeping']
-Rank 9 | Centroid: ' ting' | Score: 0.0000
-  Tokens: [' ting']
-Rank 10 | Centroid: 'tering' | Score: 0.0000
-  Tokens: ['tering', 'ters']
-Rank 11 | Centroid: ' another' | Score: 0.0000
-  Tokens: [' another', ' something']
-Rank 12 | Centroid: 'tant' | Score: 0.0000
-  Tokens: ['tant']
-Rank 13 | Centroid: ' alone' | Score: 0.0000
-  Tokens: [' alone']
-Rank 14 | Centroid: ' thinking' | Score: 0.0000
-  Tokens: [' thinking']
-Rank 15 | Centroid: 'ing' | Score: 0.0000
-  Tokens: ['ing']
+Rank 1 | Centroid: ' someone' | Score: 0.0186
+  Tokens: [' someone', ' something']
+Rank 2 | Centroid: ' friends' | Score: 0.0166
+  Tokens: [' friendship', ' friend', ' friends', ' camar']
+Rank 3 | Centroid: ' person' | Score: 0.0010
+  Tokens: [' person', ' personal', ' people', ' human']
+Rank 4 | Centroid: ' John' | Score: 0.0005
+  Tokens: [' John', ' Henry', ' James', ' Harry', ' Ham', ' Robert', ' George', ' Thomas']
+Rank 5 | Centroid: ' relationship' | Score: 0.0004
+  Tokens: [' relationship', ' relationships', ' connection', ' interaction']
+Rank 6 | Centroid: ' getting' | Score: 0.0003
+  Tokens: [' expressing', ' showing', ' forming', ' describing', ' getting', ' observing', ' becoming', ' talking', ' introducing', ' seeing']
+Rank 7 | Centroid: ' Heather' | Score: 0.0003
+  Tokens: ['"He', ' Heath', ' Heather']
+Rank 8 | Centroid: ' kindness' | Score: 0.0003
+  Tokens: [' warmth', ' honesty', ' loneliness', ' humor', ' kindness', ' empathy']
+Rank 9 | Centroid: ' understanding' | Score: 0.0003
+  Tokens: [' familiarity', ' feeling', ' knowing', ' understanding']
+Rank 10 | Centroid: ' meeting' | Score: 0.0003
+  Tokens: [' meeting', ' mutual']
+Rank 11 | Centroid: ' two' | Score: 0.0003
+  Tokens: [' two', ' three', ' one', ' previous']
+Rank 12 | Centroid: ' loving' | Score: 0.0002
+  Tokens: [' love', ' loving', ' affection']
+Rank 13 | Centroid: ' character' | Score: 0.0001
+  Tokens: [' character', ' characters']
+Rank 14 | Centroid: ' time' | Score: 0.0001
+  Tokens: [' time', ' good']
+Rank 15 | Centroid: ' emotional' | Score: 0.0001
+  Tokens: [' emotional', ' personality']
 
 **Chosen Concept:** Rank 1

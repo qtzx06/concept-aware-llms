@@ -1,64 +1,91 @@
 --- Step 29 Log ---
 
 == Filtered Candidates ==
-Token: ' prompt' (ID: 9934), Prob: 0.9023
-Token: ' message' (ID: 1943), Prob: 0.0019
-Token: ' Prompt' (ID: 59501), Prob: 0.0006
-Token: ' prompts' (ID: 50932), Prob: 0.0003
-Token: 'prompt' (ID: 40581), Prob: 0.0003
-Token: '(prompt' (ID: 72253), Prob: 0.0001
-Token: ' list' (ID: 1140), Prob: 0.0001
-Token: ' example' (ID: 3110), Prob: 0.0001
-Token: ' question' (ID: 3405), Prob: 0.0001
-Token: ' hint' (ID: 13012), Prob: 0.0001
-Token: ' within' (ID: 2878), Prob: 0.0001
-Token: ' except' (ID: 3650), Prob: 0.0001
-Token: ' bold' (ID: 13939), Prob: 0.0001
-Token: ' prompting' (ID: 49645), Prob: 0.0001
-Token: ' please' (ID: 4486), Prob: 0.0001
-Token: ' format' (ID: 3561), Prob: 0.0000
-Token: ' topic' (ID: 8544), Prob: 0.0000
-Token: ' point' (ID: 1459), Prob: 0.0000
-Token: 'Prompt' (ID: 54615), Prob: 0.0000
-Token: ' post' (ID: 1736), Prob: 0.0000
-Token: ' content' (ID: 2213), Prob: 0.0000
-Token: ' item' (ID: 1509), Prob: 0.0000
-Token: ' promise' (ID: 11222), Prob: 0.0000
-Token: ' prompted' (ID: 28646), Prob: 0.0000
-Token: ' wording' (ID: 60227), Prob: 0.0000
-Token: '_prompt' (ID: 61421), Prob: 0.0000
-Token: ' part' (ID: 949), Prob: 0.0000
-Token: ' prom' (ID: 2706), Prob: 0.0000
-Token: ' keyword' (ID: 16174), Prob: 0.0000
+Token: 'ide' (ID: 577), Prob: 0.0649
+Token: 'hores' (ID: 82071), Prob: 0.0210
+Token: 'phere' (ID: 8023), Prob: 0.0002
+Token: 'hed' (ID: 41009), Prob: 0.0002
+Token: 'cape' (ID: 5330), Prob: 0.0002
+Token: 'port' (ID: 403), Prob: 0.0001
+Token: 'ides' (ID: 3341), Prob: 0.0001
+Token: ' like' (ID: 1075), Prob: 0.0001
+Token: 'hire' (ID: 34448), Prob: 0.0000
+Token: ' near' (ID: 3143), Prob: 0.0000
+Token: 'hin' (ID: 41557), Prob: 0.0000
+Token: ' area' (ID: 3082), Prob: 0.0000
+Token: 'ome' (ID: 635), Prob: 0.0000
+Token: ' shore' (ID: 30184), Prob: 0.0000
+Token: ' first' (ID: 1156), Prob: 0.0000
+Token: ' state' (ID: 1584), Prob: 0.0000
+Token: 'hip' (ID: 2151), Prob: 0.0000
+Token: ' nearby' (ID: 14046), Prob: 0.0000
+Token: 'hift' (ID: 47833), Prob: 0.0000
+Token: ' edge' (ID: 6821), Prob: 0.0000
+Token: ' resort' (ID: 21788), Prob: 0.0000
+Token: 'hare' (ID: 76711), Prob: 0.0000
+Token: ' country' (ID: 3146), Prob: 0.0000
+Token: 'hem' (ID: 29032), Prob: 0.0000
+Token: ' around' (ID: 2163), Prob: 0.0000
+Token: ' somewhere' (ID: 14696), Prob: 0.0000
+Token: ' region' (ID: 5537), Prob: 0.0000
+Token: 'hen' (ID: 12032), Prob: 0.0000
+Token: ' national' (ID: 5313), Prob: 0.0000
+Token: ' worth' (ID: 5802), Prob: 0.0000
+Token: 'front' (ID: 6951), Prob: 0.0000
+Token: 'core' (ID: 2153), Prob: 0.0000
+Token: ' called' (ID: 2598), Prob: 0.0000
+Token: ' close' (ID: 3265), Prob: 0.0000
+Token: ' throughout' (ID: 6814), Prob: 0.0000
+Token: 'hot' (ID: 10622), Prob: 0.0000
+Token: ' within' (ID: 2878), Prob: 0.0000
+Token: 'ports' (ID: 3394), Prob: 0.0000
+Token: 'hee' (ID: 49053), Prob: 0.0000
+Token: 'hou' (ID: 18166), Prob: 0.0000
+Token: ' shoreline' (ID: 98064), Prob: 0.0000
+Token: 'hape' (ID: 29788), Prob: 0.0000
+Token: 'house' (ID: 7675), Prob: 0.0000
+Token: 'hab' (ID: 10573), Prob: 0.0000
+Token: ' shelter' (ID: 22906), Prob: 0.0000
+Token: ' cascade' (ID: 42018), Prob: 0.0000
 
 == Ranked Concepts (Clusters) ==
-Rank 1 | Centroid: ' prompt' | Score: 0.9023
-  Tokens: [' prompt', ' Prompt', ' prompts', 'prompt', '(prompt', ' prompting', 'Prompt', ' prompted', '_prompt']
-Rank 2 | Centroid: ' topic' | Score: 0.0020
-  Tokens: [' message', ' question', ' topic']
-Rank 3 | Centroid: ' list' | Score: 0.0002
-  Tokens: [' list', ' item']
-Rank 4 | Centroid: ' hint' | Score: 0.0002
-  Tokens: [' hint', ' bold']
-Rank 5 | Centroid: ' within' | Score: 0.0001
-  Tokens: [' within', ' except']
-Rank 6 | Centroid: ' example' | Score: 0.0001
-  Tokens: [' example']
-Rank 7 | Centroid: ' promise' | Score: 0.0001
-  Tokens: [' promise', ' prom']
-Rank 8 | Centroid: ' wording' | Score: 0.0001
-  Tokens: [' wording', ' keyword']
-Rank 9 | Centroid: ' please' | Score: 0.0001
-  Tokens: [' please']
-Rank 10 | Centroid: ' format' | Score: 0.0000
-  Tokens: [' format']
-Rank 11 | Centroid: ' point' | Score: 0.0000
-  Tokens: [' point']
-Rank 12 | Centroid: ' post' | Score: 0.0000
-  Tokens: [' post']
-Rank 13 | Centroid: ' content' | Score: 0.0000
-  Tokens: [' content']
-Rank 14 | Centroid: ' part' | Score: 0.0000
-  Tokens: [' part']
+Rank 1 | Centroid: 'ide' | Score: 0.0649
+  Tokens: ['ide', 'ides']
+Rank 2 | Centroid: 'hire' | Score: 0.0210
+  Tokens: ['hores', 'hire', 'hare']
+Rank 3 | Centroid: 'phere' | Score: 0.0003
+  Tokens: ['phere', 'cape']
+Rank 4 | Centroid: 'hen' | Score: 0.0002
+  Tokens: ['hed', 'hin', 'hem', 'hen', 'hot', 'hou', 'hab']
+Rank 5 | Centroid: 'port' | Score: 0.0001
+  Tokens: ['port', 'ports']
+Rank 6 | Centroid: ' called' | Score: 0.0001
+  Tokens: [' like', ' first', ' worth', ' called']
+Rank 7 | Centroid: ' near' | Score: 0.0000
+  Tokens: [' near', ' nearby', ' around', ' somewhere', ' close', ' throughout', ' within']
+Rank 8 | Centroid: ' area' | Score: 0.0000
+  Tokens: [' area', ' region']
+Rank 9 | Centroid: ' country' | Score: 0.0000
+  Tokens: [' state', ' country', ' national']
+Rank 10 | Centroid: ' shoreline' | Score: 0.0000
+  Tokens: [' shore', ' shoreline', ' shelter']
+Rank 11 | Centroid: 'ome' | Score: 0.0000
+  Tokens: ['ome']
+Rank 12 | Centroid: 'hift' | Score: 0.0000
+  Tokens: ['hift', 'hape']
+Rank 13 | Centroid: 'hip' | Score: 0.0000
+  Tokens: ['hip']
+Rank 14 | Centroid: ' resort' | Score: 0.0000
+  Tokens: [' resort']
+Rank 15 | Centroid: ' edge' | Score: 0.0000
+  Tokens: [' edge']
+Rank 16 | Centroid: 'core' | Score: 0.0000
+  Tokens: ['core', 'house']
+Rank 17 | Centroid: 'front' | Score: 0.0000
+  Tokens: ['front']
+Rank 18 | Centroid: 'hee' | Score: 0.0000
+  Tokens: ['hee']
+Rank 19 | Centroid: ' cascade' | Score: 0.0000
+  Tokens: [' cascade']
 
 **Chosen Concept:** Rank 1

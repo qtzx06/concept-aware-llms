@@ -1,135 +1,104 @@
 --- Step 87 Log ---
 
 == Filtered Candidates ==
-Token: ' include' (ID: 2924), Prob: 0.0315
-Token: ' contain' (ID: 6644), Prob: 0.0315
-Token: ' start' (ID: 1191), Prob: 0.0116
-Token: ' use' (ID: 990), Prob: 0.0080
-Token: ' consist' (ID: 6685), Prob: 0.0033
-Token: ' follow' (ID: 1795), Prob: 0.0028
-Token: ' end' (ID: 835), Prob: 0.0012
-Token: ' begin' (ID: 3161), Prob: 0.0010
-Token: ' answer' (ID: 4226), Prob: 0.0008
-Token: ' match' (ID: 2432), Prob: 0.0008
-Token: ' meet' (ID: 3367), Prob: 0.0008
-Token: ' show' (ID: 1473), Prob: 0.0007
-Token: ' make' (ID: 1281), Prob: 0.0007
-Token: ' mention' (ID: 6286), Prob: 0.0007
-Token: ' comply' (ID: 25017), Prob: 0.0007
-Token: ' fit' (ID: 4946), Prob: 0.0006
-Token: ' adhere' (ID: 48453), Prob: 0.0005
-Token: ' look' (ID: 1401), Prob: 0.0005
-Token: ' conform' (ID: 25879), Prob: 0.0003
-Token: ' appear' (ID: 4994), Prob: 0.0003
-Token: ' state' (ID: 1584), Prob: 0.0002
-Token: ' exactly' (ID: 6896), Prob: 0.0002
-Token: ' also' (ID: 1083), Prob: 0.0002
-Token: ' write' (ID: 3270), Prob: 0.0002
-Token: ' come' (ID: 2525), Prob: 0.0002
-Token: ' reflect' (ID: 8708), Prob: 0.0002
-Token: ' satisfy' (ID: 26553), Prob: 0.0002
-Token: ' stay' (ID: 4717), Prob: 0.0002
-Token: ' exceed' (ID: 12488), Prob: 0.0002
-Token: ' respond' (ID: 5889), Prob: 0.0002
-Token: ' provide' (ID: 3410), Prob: 0.0001
-Token: ' remain' (ID: 7146), Prob: 0.0001
-Token: ' take' (ID: 1896), Prob: 0.0001
-Token: ' keep' (ID: 2506), Prob: 0.0001
-Token: ' contains' (ID: 5610), Prob: 0.0001
-Token: ' fulfill' (ID: 20423), Prob: 0.0001
-Token: ' ensure' (ID: 5978), Prob: 0.0001
-Token: ' check' (ID: 1779), Prob: 0.0001
-Token: ' specify' (ID: 13837), Prob: 0.0001
-Token: ' read' (ID: 1349), Prob: 0.0001
-Token: ' say' (ID: 1977), Prob: 0.0001
-Token: ' put' (ID: 2182), Prob: 0.0001
-Token: ' present' (ID: 3042), Prob: 0.0001
-Token: ' avoid' (ID: 5648), Prob: 0.0001
-Token: ' refer' (ID: 8300), Prob: 0.0001
-Token: ' address' (ID: 2621), Prob: 0.0001
-Token: ' strictly' (ID: 25470), Prob: 0.0001
-Token: ' reference' (ID: 5785), Prob: 0.0001
-Token: ' describe' (ID: 7512), Prob: 0.0001
-Token: ' align' (ID: 5285), Prob: 0.0001
-Token: ' spell' (ID: 12845), Prob: 0.0001
-Token: ' incorporate' (ID: 32335), Prob: 0.0001
-Token: ' conclude' (ID: 31094), Prob: 0.0001
-Token: ' obey' (ID: 40601), Prob: 0.0001
-Token: ' highlight' (ID: 11167), Prob: 0.0001
-Token: ' cover' (ID: 3421), Prob: 0.0000
-Token: ' become' (ID: 3635), Prob: 0.0000
-Token: ' maintain' (ID: 10306), Prob: 0.0000
-Token: ' create' (ID: 1855), Prob: 0.0000
-Token: ' express' (ID: 3158), Prob: 0.0000
-Token: ' explain' (ID: 10339), Prob: 0.0000
-Token: ' focus' (ID: 5244), Prob: 0.0000
-Token: ' speak' (ID: 6468), Prob: 0.0000
-Token: ' always' (ID: 2677), Prob: 0.0000
-Token: ' form' (ID: 1352), Prob: 0.0000
-Token: ' work' (ID: 975), Prob: 0.0000
-Token: ' list' (ID: 1140), Prob: 0.0000
-Token: ' choose' (ID: 5157), Prob: 0.0000
-Token: ' confirm' (ID: 7683), Prob: 0.0000
-Token: ' definitely' (ID: 8491), Prob: 0.0000
-Token: ' belong' (ID: 9173), Prob: 0.0000
-Token: ' span' (ID: 9390), Prob: 0.0000
-Token: ' reply' (ID: 9851), Prob: 0.0000
-Token: ' exclude' (ID: 21687), Prob: 0.0000
-Token: ' pass' (ID: 1494), Prob: 0.0000
-Token: ' complete' (ID: 4583), Prob: 0.0000
-Token: ' generate' (ID: 6923), Prob: 0.0000
-Token: ' display' (ID: 3037), Prob: 0.0000
-Token: ' share' (ID: 4332), Prob: 0.0000
-Token: ' agree' (ID: 7503), Prob: 0.0000
+Token: ' based' (ID: 3118), Prob: 0.0898
+Token: ' beyond' (ID: 7797), Prob: 0.0618
+Token: ' together' (ID: 3786), Prob: 0.0037
+Token: ' lasting' (ID: 28769), Prob: 0.0035
+Token: ' deep' (ID: 5538), Prob: 0.0031
+Token: ' built' (ID: 5798), Prob: 0.0027
+Token: ' towards' (ID: 6974), Prob: 0.0023
+Token: ' deeper' (ID: 19117), Prob: 0.0021
+Token: ' outside' (ID: 4889), Prob: 0.0019
+Token: ' despite' (ID: 8818), Prob: 0.0019
+Token: ' toward' (ID: 8841), Prob: 0.0015
+Token: ' characterized' (ID: 31871), Prob: 0.0013
+Token: ' throughout' (ID: 6814), Prob: 0.0009
+Token: ' like' (ID: 1075), Prob: 0.0009
+Token: ' without' (ID: 2041), Prob: 0.0006
+Token: ' apart' (ID: 10747), Prob: 0.0006
+Token: ' deeply' (ID: 17247), Prob: 0.0006
+Token: ' rooted' (ID: 40876), Prob: 0.0006
+Token: ' within' (ID: 2878), Prob: 0.0006
+Token: ' according' (ID: 4092), Prob: 0.0006
+Token: ' similar' (ID: 4428), Prob: 0.0006
+Token: ' leading' (ID: 6388), Prob: 0.0006
+Token: ' growing' (ID: 7826), Prob: 0.0005
+Token: ' across' (ID: 3941), Prob: 0.0005
+Token: ' going' (ID: 2087), Prob: 0.0004
+Token: ' spanning' (ID: 55786), Prob: 0.0004
+Token: ' story' (ID: 3364), Prob: 0.0004
+Token: ' later' (ID: 2937), Prob: 0.0003
+Token: ' emotionally' (ID: 37583), Prob: 0.0003
+Token: ' full' (ID: 2480), Prob: 0.0003
+Token: ' love' (ID: 2948), Prob: 0.0003
+Token: ' involving' (ID: 15860), Prob: 0.0003
+Token: ' centered' (ID: 30188), Prob: 0.0003
+Token: ' one' (ID: 825), Prob: 0.0003
+Token: ' free' (ID: 1910), Prob: 0.0003
+Token: ' moving' (ID: 7218), Prob: 0.0003
+Token: ' filled' (ID: 10199), Prob: 0.0003
+Token: ' independent' (ID: 9489), Prob: 0.0002
+Token: ' along' (ID: 3156), Prob: 0.0002
+Token: ' past' (ID: 3267), Prob: 0.0002
+Token: ' fully' (ID: 7225), Prob: 0.0002
+Token: ' growth' (ID: 6513), Prob: 0.0002
+Token: ' forward' (ID: 4637), Prob: 0.0002
+Token: ' regardless' (ID: 15484), Prob: 0.0002
+Token: ' focused' (ID: 10735), Prob: 0.0002
+Token: ' bond' (ID: 10815), Prob: 0.0002
+Token: ' using' (ID: 1667), Prob: 0.0001
+Token: ' meaning' (ID: 7290), Prob: 0.0001
+Token: ' driven' (ID: 16227), Prob: 0.0001
+Token: ' stronger' (ID: 16245), Prob: 0.0001
+Token: ' long' (ID: 1293), Prob: 0.0001
+Token: ' ending' (ID: 13391), Prob: 0.0001
+Token: ' metaphor' (ID: 45350), Prob: 0.0001
+Token: ' beginning' (ID: 7167), Prob: 0.0001
+Token: ' transc' (ID: 41490), Prob: 0.0001
+Token: ' even' (ID: 1496), Prob: 0.0001
+Token: ' due' (ID: 4152), Prob: 0.0001
 
 == Ranked Concepts (Clusters) ==
-Rank 1 | Centroid: ' contain' | Score: 0.0664
-  Tokens: [' include', ' contain', ' consist', ' contains', ' incorporate', ' exclude']
-Rank 2 | Centroid: ' start' | Score: 0.0137
-  Tokens: [' start', ' end', ' begin']
-Rank 3 | Centroid: ' use' | Score: 0.0086
-  Tokens: [' use', ' look', ' form', ' work', ' pass']
-Rank 4 | Centroid: ' follow' | Score: 0.0028
-  Tokens: [' follow']
-Rank 5 | Centroid: ' comply' | Score: 0.0027
-  Tokens: [' meet', ' comply', ' adhere', ' conform', ' satisfy', ' fulfill', ' obey', ' agree']
-Rank 6 | Centroid: ' match' | Score: 0.0014
-  Tokens: [' match', ' fit', ' align']
-Rank 7 | Centroid: ' reply' | Score: 0.0010
-  Tokens: [' answer', ' respond', ' reply']
-Rank 8 | Centroid: ' show' | Score: 0.0009
-  Tokens: [' show', ' present', ' spell', ' span', ' display', ' share']
-Rank 9 | Centroid: ' create' | Score: 0.0009
-  Tokens: [' make', ' provide', ' create', ' choose', ' generate']
-Rank 10 | Centroid: ' reference' | Score: 0.0008
-  Tokens: [' mention', ' refer', ' reference']
-Rank 11 | Centroid: ' write' | Score: 0.0006
-  Tokens: [' write', ' take', ' check', ' read', ' put']
-Rank 12 | Centroid: ' definitely' | Score: 0.0006
-  Tokens: [' exactly', ' also', ' strictly', ' always', ' definitely']
-Rank 13 | Centroid: ' keep' | Score: 0.0005
-  Tokens: [' stay', ' remain', ' keep', ' maintain']
-Rank 14 | Centroid: ' belong' | Score: 0.0005
-  Tokens: [' appear', ' exceed', ' belong']
-Rank 15 | Centroid: ' reflect' | Score: 0.0003
-  Tokens: [' reflect', ' highlight', ' express']
-Rank 16 | Centroid: ' state' | Score: 0.0003
-  Tokens: [' state', ' list']
-Rank 17 | Centroid: ' come' | Score: 0.0002
-  Tokens: [' come', ' become']
-Rank 18 | Centroid: ' describe' | Score: 0.0002
-  Tokens: [' specify', ' describe', ' explain', ' confirm']
-Rank 19 | Centroid: ' ensure' | Score: 0.0002
-  Tokens: [' ensure', ' avoid']
-Rank 20 | Centroid: ' say' | Score: 0.0001
-  Tokens: [' say', ' speak']
-Rank 21 | Centroid: ' address' | Score: 0.0001
-  Tokens: [' address', ' focus']
-Rank 22 | Centroid: ' conclude' | Score: 0.0001
-  Tokens: [' conclude']
-Rank 23 | Centroid: ' cover' | Score: 0.0000
-  Tokens: [' cover']
-Rank 24 | Centroid: ' complete' | Score: 0.0000
-  Tokens: [' complete']
+Rank 1 | Centroid: ' based' | Score: 0.0913
+  Tokens: [' based', ' without', ' according', ' using', ' due']
+Rank 2 | Centroid: ' beyond' | Score: 0.0640
+  Tokens: [' beyond', ' outside', ' past']
+Rank 3 | Centroid: ' deep' | Score: 0.0059
+  Tokens: [' deep', ' deeper', ' deeply']
+Rank 4 | Centroid: ' together' | Score: 0.0044
+  Tokens: [' together', ' apart']
+Rank 5 | Centroid: ' towards' | Score: 0.0040
+  Tokens: [' towards', ' toward', ' forward']
+Rank 6 | Centroid: ' lasting' | Score: 0.0036
+  Tokens: [' lasting', ' meaning']
+Rank 7 | Centroid: ' built' | Score: 0.0027
+  Tokens: [' built']
+Rank 8 | Centroid: ' centered' | Score: 0.0025
+  Tokens: [' characterized', ' rooted', ' centered', ' focused', ' driven']
+Rank 9 | Centroid: ' across' | Score: 0.0022
+  Tokens: [' throughout', ' within', ' across', ' along']
+Rank 10 | Centroid: ' despite' | Score: 0.0022
+  Tokens: [' despite', ' regardless', ' even']
+Rank 11 | Centroid: ' similar' | Score: 0.0017
+  Tokens: [' like', ' similar', ' one']
+Rank 12 | Centroid: ' going' | Score: 0.0012
+  Tokens: [' leading', ' going', ' moving']
+Rank 13 | Centroid: ' fully' | Score: 0.0010
+  Tokens: [' full', ' free', ' filled', ' fully']
+Rank 14 | Centroid: ' ending' | Score: 0.0009
+  Tokens: [' spanning', ' involving', ' ending', ' beginning']
+Rank 15 | Centroid: ' love' | Score: 0.0008
+  Tokens: [' story', ' love', ' bond']
+Rank 16 | Centroid: ' growing' | Score: 0.0007
+  Tokens: [' growing', ' growth']
+Rank 17 | Centroid: ' metaphor' | Score: 0.0006
+  Tokens: [' emotionally', ' stronger', ' metaphor']
+Rank 18 | Centroid: ' later' | Score: 0.0005
+  Tokens: [' later', ' long']
+Rank 19 | Centroid: ' independent' | Score: 0.0002
+  Tokens: [' independent']
+Rank 20 | Centroid: ' transc' | Score: 0.0001
+  Tokens: [' transc']
 
 **Chosen Concept:** Rank 1

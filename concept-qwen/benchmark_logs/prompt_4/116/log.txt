@@ -1,77 +1,114 @@
 --- Step 116 Log ---
 
 == Filtered Candidates ==
-Token: ' message' (ID: 1943), Prob: 0.9961
-Token: ' prompt' (ID: 9934), Prob: 0.0015
-Token: ' messages' (ID: 6605), Prob: 0.0003
-Token: '.message' (ID: 6698), Prob: 0.0003
-Token: ' question' (ID: 3405), Prob: 0.0001
-Token: ' Message' (ID: 4856), Prob: 0.0001
-Token: '(message' (ID: 7333), Prob: 0.0001
-Token: 'message' (ID: 1994), Prob: 0.0001
-Token: '	message' (ID: 24753), Prob: 0.0000
-Token: ' mes' (ID: 10846), Prob: 0.0000
-Token: ' statement' (ID: 5114), Prob: 0.0000
-Token: ':message' (ID: 91473), Prob: 0.0000
-Token: '$message' (ID: 42821), Prob: 0.0000
-Token: ',message' (ID: 72783), Prob: 0.0000
-Token: '-message' (ID: 29332), Prob: 0.0000
-Token: '=message' (ID: 87129), Prob: 0.0000
-Token: 'Message' (ID: 2052), Prob: 0.0000
-Token: ' theme' (ID: 6912), Prob: 0.0000
-Token: ' motif' (ID: 59512), Prob: 0.0000
-Token: ' information' (ID: 1995), Prob: 0.0000
-Token: ' answer' (ID: 4226), Prob: 0.0000
-Token: '_message' (ID: 6462), Prob: 0.0000
-Token: ' messaging' (ID: 29522), Prob: 0.0000
-Token: ' phrase' (ID: 17133), Prob: 0.0000
-Token: ' MESSAGE' (ID: 40758), Prob: 0.0000
-Token: ' user' (ID: 1196), Prob: 0.0000
-Token: '/message' (ID: 50624), Prob: 0.0000
-Token: ' response' (ID: 2033), Prob: 0.0000
-Token: ' point' (ID: 1459), Prob: 0.0000
-Token: ' month' (ID: 2254), Prob: 0.0000
-Token: '.Message' (ID: 8472), Prob: 0.0000
-Token: ' position' (ID: 2309), Prob: 0.0000
-Token: '<message' (ID: 83747), Prob: 0.0000
-Token: ' lesson' (ID: 17755), Prob: 0.0000
-Token: ' moment' (ID: 4445), Prob: 0.0000
-Token: ' maximum' (ID: 7192), Prob: 0.0000
-Token: ' main' (ID: 1887), Prob: 0.0000
-Token: ' promise' (ID: 11222), Prob: 0.0000
-Token: ' mate' (ID: 29176), Prob: 0.0000
-Token: ' wording' (ID: 60227), Prob: 0.0000
+Token: ' Check' (ID: 4248), Prob: 0.4395
+Token: ' Let' (ID: 6771), Prob: 0.2676
+Token: ' Also' (ID: 7281), Prob: 0.1260
+Token: ' Avoid' (ID: 34006), Prob: 0.1260
+Token: ' Alright' (ID: 97593), Prob: 0.0193
+Token: ' Keep' (ID: 13655), Prob: 0.0063
+Token: ' Make' (ID: 7405), Prob: 0.0034
+Token: ' Use' (ID: 5443), Prob: 0.0023
+Token: ' Maybe' (ID: 10696), Prob: 0.0014
+Token: ' Double' (ID: 7093), Prob: 0.0012
+Token: ' Need' (ID: 14656), Prob: 0.0012
+Token: ' Wait' (ID: 13824), Prob: 0.0011
+Token: ' Okay' (ID: 35439), Prob: 0.0010
+Token: ' Watch' (ID: 10357), Prob: 0.0002
+Token: ' Hmm' (ID: 88190), Prob: 0.0002
+Token: ' Words' (ID: 27630), Prob: 0.0001
+Token: ' Think' (ID: 21149), Prob: 0.0001
+Token: ' Got' (ID: 24528), Prob: 0.0001
+Token: ' Start' (ID: 5145), Prob: 0.0001
+Token: ' Mention' (ID: 85148), Prob: 0.0001
+Token: ' Get' (ID: 2126), Prob: 0.0000
+Token: ' Yeah' (ID: 21607), Prob: 0.0000
+Token: ' Ensure' (ID: 29279), Prob: 0.0000
+Token: ' Word' (ID: 9322), Prob: 0.0000
+Token: ' Include' (ID: 29734), Prob: 0.0000
+Token: ' Checking' (ID: 46093), Prob: 0.0000
+Token: ' check' (ID: 1779), Prob: 0.0000
+Token: ' Proof' (ID: 36991), Prob: 0.0000
+Token: ' Since' (ID: 8704), Prob: 0.0000
+Token: ' Sounds' (ID: 44141), Prob: 0.0000
+Token: 'Check' (ID: 3973), Prob: 0.0000
+Token: ' Plus' (ID: 12343), Prob: 0.0000
+Token: ' Could' (ID: 16503), Prob: 0.0000
+Token: ' Try' (ID: 9735), Prob: 0.0000
+Token: ' Structure' (ID: 28596), Prob: 0.0000
+Token: ' Bring' (ID: 39124), Prob: 0.0000
+Token: 'Avoid' (ID: 52116), Prob: 0.0000
+Token: ' Read' (ID: 4457), Prob: 0.0000
+Token: ' Control' (ID: 7779), Prob: 0.0000
+Token: ' Checks' (ID: 24843), Prob: 0.0000
+Token: ' Checked' (ID: 93361), Prob: 0.0000
+Token: ' also' (ID: 1083), Prob: 0.0000
+Token: ' Add' (ID: 2691), Prob: 0.0000
+Token: ' Please' (ID: 5209), Prob: 0.0000
+Token: ' Review' (ID: 10294), Prob: 0.0000
+Token: ' avoid' (ID: 5648), Prob: 0.0000
+Token: ' Possible' (ID: 36107), Prob: 0.0000
+Token: ' Rev' (ID: 10107), Prob: 0.0000
+Token: ' Probably' (ID: 37154), Prob: 0.0000
+Token: ' Good' (ID: 7684), Prob: 0.0000
+Token: ' Perhaps' (ID: 18765), Prob: 0.0000
+Token: ' Talk' (ID: 18976), Prob: 0.0000
+Token: ' Finally' (ID: 17375), Prob: 0.0000
+Token: ' Look' (ID: 9192), Prob: 0.0000
+Token: ' Time' (ID: 4120), Prob: 0.0000
+Token: ' Show' (ID: 6928), Prob: 0.0000
+Token: ' Write' (ID: 9645), Prob: 0.0000
+Token: ' Organ' (ID: 10762), Prob: 0.0000
+Token: 'Also' (ID: 13394), Prob: 0.0000
+Token: ' First' (ID: 5512), Prob: 0.0000
+Token: ' Still' (ID: 16377), Prob: 0.0000
+Token: '-check' (ID: 15934), Prob: 0.0000
+Token: ' Stay' (ID: 28737), Prob: 0.0000
+Token: ' Oops' (ID: 95252), Prob: 0.0000
+Token: ' Verify' (ID: 25429), Prob: 0.0000
+Token: ' Trim' (ID: 44376), Prob: 0.0000
+Token: ' Feel' (ID: 31733), Prob: 0.0000
 
 == Ranked Concepts (Clusters) ==
-Rank 1 | Centroid: '_message' | Score: 0.9961
-  Tokens: [' message', ' messages', '.message', ' Message', 'message', '-message', 'Message', '_message', ' messaging', ' MESSAGE', '.Message']
-Rank 2 | Centroid: ' prompt' | Score: 0.0015
-  Tokens: [' prompt', ' promise']
-Rank 3 | Centroid: '	message' | Score: 0.0001
-  Tokens: ['(message', '\tmessage', ':message', '$message', ',message', '=message', '/message', '<message']
-Rank 4 | Centroid: ' question' | Score: 0.0001
-  Tokens: [' question']
-Rank 5 | Centroid: ' phrase' | Score: 0.0000
-  Tokens: [' statement', ' phrase', ' wording']
-Rank 6 | Centroid: ' mes' | Score: 0.0000
-  Tokens: [' mes']
-Rank 7 | Centroid: ' theme' | Score: 0.0000
-  Tokens: [' theme', ' motif']
-Rank 8 | Centroid: ' information' | Score: 0.0000
-  Tokens: [' information', ' user']
-Rank 9 | Centroid: ' answer' | Score: 0.0000
-  Tokens: [' answer', ' response']
-Rank 10 | Centroid: ' point' | Score: 0.0000
-  Tokens: [' point', ' position']
-Rank 11 | Centroid: ' month' | Score: 0.0000
-  Tokens: [' month', ' lesson']
-Rank 12 | Centroid: ' maximum' | Score: 0.0000
-  Tokens: [' maximum']
-Rank 13 | Centroid: ' moment' | Score: 0.0000
-  Tokens: [' moment']
-Rank 14 | Centroid: ' mate' | Score: 0.0000
-  Tokens: [' mate']
-Rank 15 | Centroid: ' main' | Score: 0.0000
-  Tokens: [' main']
+Rank 1 | Centroid: ' Check' | Score: 0.4395
+  Tokens: [' Check', ' Checking', ' check', 'Check', ' Checks', ' Checked', '-check']
+Rank 2 | Centroid: ' Let' | Score: 0.2676
+  Tokens: [' Let', ' First']
+Rank 3 | Centroid: ' Also' | Score: 0.1260
+  Tokens: [' Also', ' Plus', ' also', 'Also']
+Rank 4 | Centroid: ' Avoid' | Score: 0.1260
+  Tokens: [' Avoid', 'Avoid', ' avoid']
+Rank 5 | Centroid: ' Okay' | Score: 0.0205
+  Tokens: [' Alright', ' Okay', ' Hmm', ' Yeah', ' Oops']
+Rank 6 | Centroid: ' Stay' | Score: 0.0074
+  Tokens: [' Keep', ' Wait', ' Stay']
+Rank 7 | Centroid: ' Get' | Score: 0.0058
+  Tokens: [' Make', ' Use', ' Start', ' Get', ' Bring', ' Add', ' Show', ' Write']
+Rank 8 | Centroid: ' Perhaps' | Score: 0.0014
+  Tokens: [' Maybe', ' Since', ' Could', ' Please', ' Possible', ' Probably', ' Perhaps', ' Finally']
+Rank 9 | Centroid: ' Double' | Score: 0.0012
+  Tokens: [' Double', ' Time']
+Rank 10 | Centroid: ' Need' | Score: 0.0012
+  Tokens: [' Need']
+Rank 11 | Centroid: ' Look' | Score: 0.0003
+  Tokens: [' Watch', ' Think', ' Read', ' Talk', ' Look']
+Rank 12 | Centroid: ' Words' | Score: 0.0001
+  Tokens: [' Words', ' Word']
+Rank 13 | Centroid: ' Got' | Score: 0.0001
+  Tokens: [' Got', ' Good']
+Rank 14 | Centroid: ' Mention' | Score: 0.0001
+  Tokens: [' Mention']
+Rank 15 | Centroid: ' Ensure' | Score: 0.0001
+  Tokens: [' Ensure', ' Include', ' Verify']
+Rank 16 | Centroid: ' Review' | Score: 0.0000
+  Tokens: [' Proof', ' Review', ' Rev']
+Rank 17 | Centroid: ' Structure' | Score: 0.0000
+  Tokens: [' Structure', ' Control', ' Organ', ' Trim']
+Rank 18 | Centroid: ' Sounds' | Score: 0.0000
+  Tokens: [' Sounds', ' Feel']
+Rank 19 | Centroid: ' Try' | Score: 0.0000
+  Tokens: [' Try']
+Rank 20 | Centroid: ' Still' | Score: 0.0000
+  Tokens: [' Still']
 
 **Chosen Concept:** Rank 1

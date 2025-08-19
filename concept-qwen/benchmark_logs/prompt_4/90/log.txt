@@ -1,74 +1,158 @@
 --- Step 90 Log ---
 
 == Filtered Candidates ==
-Token: ' message' (ID: 1943), Prob: 0.9922
-Token: ' prompt' (ID: 9934), Prob: 0.0025
-Token: ' messages' (ID: 6605), Prob: 0.0004
-Token: '.message' (ID: 6698), Prob: 0.0003
-Token: ' Message' (ID: 4856), Prob: 0.0001
-Token: ' question' (ID: 3405), Prob: 0.0001
-Token: '(message' (ID: 7333), Prob: 0.0001
-Token: 'message' (ID: 1994), Prob: 0.0001
-Token: '	message' (ID: 24753), Prob: 0.0000
-Token: ' statement' (ID: 5114), Prob: 0.0000
-Token: ':message' (ID: 91473), Prob: 0.0000
-Token: ' mes' (ID: 10846), Prob: 0.0000
-Token: ' answer' (ID: 4226), Prob: 0.0000
-Token: ' motif' (ID: 59512), Prob: 0.0000
-Token: ' information' (ID: 1995), Prob: 0.0000
-Token: 'Message' (ID: 2052), Prob: 0.0000
-Token: ',message' (ID: 72783), Prob: 0.0000
-Token: ' theme' (ID: 6912), Prob: 0.0000
-Token: '$message' (ID: 42821), Prob: 0.0000
-Token: ' phrase' (ID: 17133), Prob: 0.0000
-Token: '-message' (ID: 29332), Prob: 0.0000
-Token: ' messaging' (ID: 29522), Prob: 0.0000
-Token: '=message' (ID: 87129), Prob: 0.0000
-Token: ' user' (ID: 1196), Prob: 0.0000
-Token: ' response' (ID: 2033), Prob: 0.0000
-Token: '_message' (ID: 6462), Prob: 0.0000
+Token: ' note' (ID: 5185), Prob: 0.6328
+Token: ' outcome' (ID: 15274), Prob: 0.0972
+Token: ' message' (ID: 1943), Prob: 0.0859
+Token: ' ending' (ID: 13391), Prob: 0.0591
+Token: ' takeaway' (ID: 88374), Prob: 0.0247
+Token: ' impact' (ID: 5421), Prob: 0.0170
+Token: ' take' (ID: 1896), Prob: 0.0132
+Token: ' experience' (ID: 3139), Prob: 0.0116
+Token: ' conclusion' (ID: 16688), Prob: 0.0090
+Token: ' reflection' (ID: 21844), Prob: 0.0090
+Token: ' impression' (ID: 20792), Prob: 0.0055
+Token: ' end' (ID: 835), Prob: 0.0049
+Token: ' feeling' (ID: 8266), Prob: 0.0043
+Token: ' sentiment' (ID: 25975), Prob: 0.0038
+Token: ' memory' (ID: 4938), Prob: 0.0026
+Token: ' outlook' (ID: 35621), Prob: 0.0012
+Token: ' closure' (ID: 21955), Prob: 0.0010
+Token: ' moment' (ID: 4445), Prob: 0.0008
+Token: ' lesson' (ID: 17755), Prob: 0.0007
+Token: ' image' (ID: 2168), Prob: 0.0007
+Token: ' aspect' (ID: 12893), Prob: 0.0005
+Token: ' realization' (ID: 48703), Prob: 0.0005
+Token: ' effect' (ID: 2456), Prob: 0.0005
+Token: ' statement' (ID: 5114), Prob: 0.0004
+Token: ' closing' (ID: 15316), Prob: 0.0004
+Token: ' result' (ID: 1102), Prob: 0.0004
+Token: ' resolution' (ID: 10935), Prob: 0.0003
+Token: ' summary' (ID: 12126), Prob: 0.0003
+Token: ' finish' (ID: 6248), Prob: 0.0003
+Token: ' view' (ID: 1651), Prob: 0.0002
+Token: ' feel' (ID: 2666), Prob: 0.0002
+Token: ' emotion' (ID: 19772), Prob: 0.0002
+Token: ' thought' (ID: 3381), Prob: 0.0002
+Token: ' vibe' (ID: 46711), Prob: 0.0002
+Token: ' remark' (ID: 13841), Prob: 0.0001
+Token: ' atmosphere' (ID: 16566), Prob: 0.0001
+Token: ' observation' (ID: 21930), Prob: 0.0001
+Token: ' reaction' (ID: 12720), Prob: 0.0001
+Token: ' twist' (ID: 26646), Prob: 0.0001
+Token: ' perspective' (ID: 13057), Prob: 0.0001
+Token: ' idea' (ID: 4522), Prob: 0.0001
+Token: ' sense' (ID: 5530), Prob: 0.0001
+Token: ' assessment' (ID: 15449), Prob: 0.0001
+Token: ' comment' (ID: 3980), Prob: 0.0001
+Token: ' update' (ID: 2647), Prob: 0.0001
+Token: ' scene' (ID: 6109), Prob: 0.0001
+Token: ' sign' (ID: 1841), Prob: 0.0001
+Token: ' touch' (ID: 5796), Prob: 0.0001
+Token: ' mood' (ID: 19671), Prob: 0.0001
+Token: ' journey' (ID: 11618), Prob: 0.0000
 Token: ' point' (ID: 1459), Prob: 0.0000
-Token: ' MESSAGE' (ID: 40758), Prob: 0.0000
-Token: '/message' (ID: 50624), Prob: 0.0000
-Token: ' lesson' (ID: 17755), Prob: 0.0000
-Token: ' main' (ID: 1887), Prob: 0.0000
-Token: ' position' (ID: 2309), Prob: 0.0000
-Token: ' moment' (ID: 4445), Prob: 0.0000
-Token: ' wording' (ID: 60227), Prob: 0.0000
-Token: ' month' (ID: 2254), Prob: 0.0000
-Token: ' maximum' (ID: 7192), Prob: 0.0000
-Token: '.Message' (ID: 8472), Prob: 0.0000
-Token: ' promise' (ID: 11222), Prob: 0.0000
-Token: '<message' (ID: 83747), Prob: 0.0000
+Token: ' reminder' (ID: 26528), Prob: 0.0000
+Token: ' mention' (ID: 6286), Prob: 0.0000
+Token: ' tone' (ID: 16232), Prob: 0.0000
+Token: ' quote' (ID: 12641), Prob: 0.0000
+Token: ' surprise' (ID: 12761), Prob: 0.0000
+Token: ' positive' (ID: 6785), Prob: 0.0000
+Token: ' attitude' (ID: 18915), Prob: 0.0000
+Token: ' reception' (ID: 23117), Prob: 0.0000
+Token: ' wrap' (ID: 15061), Prob: 0.0000
+Token: ' description' (ID: 4008), Prob: 0.0000
+Token: ' affirmation' (ID: 95863), Prob: 0.0000
+Token: ' look' (ID: 1401), Prob: 0.0000
+Token: ' exit' (ID: 4869), Prob: 0.0000
+Token: ' spin' (ID: 12616), Prob: 0.0000
+Token: ' encounter' (ID: 12828), Prob: 0.0000
+Token: ' energy' (ID: 4802), Prob: 0.0000
+Token: ' insight' (ID: 20017), Prob: 0.0000
+Token: ' return' (ID: 470), Prob: 0.0000
+Token: ' story' (ID: 3364), Prob: 0.0000
+Token: ' imagery' (ID: 40445), Prob: 0.0000
+Token: ' part' (ID: 949), Prob: 0.0000
+Token: ' review' (ID: 3395), Prob: 0.0000
+Token: ' saying' (ID: 5488), Prob: 0.0000
+Token: ' highlight' (ID: 11167), Prob: 0.0000
+Token: ' legacy' (ID: 19588), Prob: 0.0000
+Token: ' taking' (ID: 4633), Prob: 0.0000
+Token: ' theme' (ID: 6912), Prob: 0.0000
+Token: ' acknowledgment' (ID: 77470), Prob: 0.0000
+Token: ' uplifting' (ID: 94509), Prob: 0.0000
+Token: ' anecd' (ID: 49650), Prob: 0.0000
+Token: ' side' (ID: 3108), Prob: 0.0000
+Token: ' appreciation' (ID: 34896), Prob: 0.0000
+Token: ' farewell' (ID: 71543), Prob: 0.0000
+Token: ' visit' (ID: 3947), Prob: 0.0000
+Token: ' tip' (ID: 11552), Prob: 0.0000
+Token: ' adventure' (ID: 17943), Prob: 0.0000
+Token: ' recall' (ID: 19091), Prob: 0.0000
+Token: ' sensation' (ID: 36292), Prob: 0.0000
+Token: ' feelings' (ID: 15650), Prob: 0.0000
+Token: ' thing' (ID: 3166), Prob: 0.0000
+Token: ' meaning' (ID: 7290), Prob: 0.0000
+Token: ' affect' (ID: 7802), Prob: 0.0000
 
 == Ranked Concepts (Clusters) ==
-Rank 1 | Centroid: '_message' | Score: 0.9922
-  Tokens: [' message', ' messages', '.message', ' Message', 'message', 'Message', '-message', ' messaging', '_message', ' MESSAGE', '.Message']
-Rank 2 | Centroid: ' prompt' | Score: 0.0025
-  Tokens: [' prompt', ' promise']
-Rank 3 | Centroid: '	message' | Score: 0.0001
-  Tokens: ['(message', '\tmessage', ':message', ',message', '$message', '=message', '/message', '<message']
-Rank 4 | Centroid: ' question' | Score: 0.0001
-  Tokens: [' question']
-Rank 5 | Centroid: ' phrase' | Score: 0.0000
-  Tokens: [' statement', ' phrase', ' wording']
-Rank 6 | Centroid: ' motif' | Score: 0.0000
-  Tokens: [' motif', ' theme']
-Rank 7 | Centroid: ' answer' | Score: 0.0000
-  Tokens: [' answer', ' response']
-Rank 8 | Centroid: ' information' | Score: 0.0000
-  Tokens: [' information', ' user']
-Rank 9 | Centroid: ' mes' | Score: 0.0000
-  Tokens: [' mes']
-Rank 10 | Centroid: ' point' | Score: 0.0000
-  Tokens: [' point', ' position']
-Rank 11 | Centroid: ' lesson' | Score: 0.0000
-  Tokens: [' lesson', ' month']
-Rank 12 | Centroid: ' moment' | Score: 0.0000
-  Tokens: [' moment']
-Rank 13 | Centroid: ' main' | Score: 0.0000
-  Tokens: [' main']
-Rank 14 | Centroid: ' maximum' | Score: 0.0000
-  Tokens: [' maximum']
+Rank 1 | Centroid: ' remark' | Score: 0.6328
+  Tokens: [' note', ' remark', ' comment', ' reminder', ' mention', ' quote', ' highlight']
+Rank 2 | Centroid: ' affect' | Score: 0.1147
+  Tokens: [' outcome', ' impact', ' effect', ' result', ' affect']
+Rank 3 | Centroid: ' statement' | Score: 0.0864
+  Tokens: [' message', ' statement', ' description']
+Rank 4 | Centroid: ' ending' | Score: 0.0645
+  Tokens: [' ending', ' end', ' finish', ' exit']
+Rank 5 | Centroid: ' take' | Score: 0.0378
+  Tokens: [' takeaway', ' take', ' taking']
+Rank 6 | Centroid: ' experience' | Score: 0.0116
+  Tokens: [' experience', ' encounter']
+Rank 7 | Centroid: ' conclusion' | Score: 0.0093
+  Tokens: [' conclusion', ' summary']
+Rank 8 | Centroid: ' assessment' | Score: 0.0092
+  Tokens: [' reflection', ' assessment', ' reception', ' affirmation', ' acknowledgment', ' appreciation']
+Rank 9 | Centroid: ' impression' | Score: 0.0055
+  Tokens: [' impression']
+Rank 10 | Centroid: ' feeling' | Score: 0.0046
+  Tokens: [' feeling', ' feel', ' sense', ' sensation', ' feelings']
+Rank 11 | Centroid: ' vibe' | Score: 0.0044
+  Tokens: [' sentiment', ' emotion', ' vibe', ' atmosphere', ' mood', ' tone', ' attitude']
+Rank 12 | Centroid: ' memory' | Score: 0.0026
+  Tokens: [' memory', ' recall']
+Rank 13 | Centroid: ' closure' | Score: 0.0016
+  Tokens: [' closure', ' closing', ' resolution']
+Rank 14 | Centroid: ' imagery' | Score: 0.0016
+  Tokens: [' moment', ' image', ' scene', ' energy', ' imagery']
+Rank 15 | Centroid: ' perspective' | Score: 0.0016
+  Tokens: [' outlook', ' view', ' perspective']
+Rank 16 | Centroid: ' lesson' | Score: 0.0008
+  Tokens: [' lesson', ' story', ' theme']
+Rank 17 | Centroid: ' observation' | Score: 0.0006
+  Tokens: [' realization', ' observation', ' insight']
+Rank 18 | Centroid: ' aspect' | Score: 0.0005
+  Tokens: [' aspect', ' part', ' side']
+Rank 19 | Centroid: ' thought' | Score: 0.0003
+  Tokens: [' thought', ' idea']
+Rank 20 | Centroid: ' twist' | Score: 0.0002
+  Tokens: [' twist', ' touch', ' look', ' spin']
+Rank 21 | Centroid: ' update' | Score: 0.0001
+  Tokens: [' update', ' wrap', ' return', ' review', ' visit']
+Rank 22 | Centroid: ' reaction' | Score: 0.0001
+  Tokens: [' reaction']
+Rank 23 | Centroid: ' adventure' | Score: 0.0001
+  Tokens: [' journey', ' legacy', ' anecd', ' adventure']
+Rank 24 | Centroid: ' sign' | Score: 0.0001
+  Tokens: [' sign', ' positive']
+Rank 25 | Centroid: ' point' | Score: 0.0001
+  Tokens: [' point', ' tip']
+Rank 26 | Centroid: ' surprise' | Score: 0.0000
+  Tokens: [' surprise']
+Rank 27 | Centroid: ' uplifting' | Score: 0.0000
+  Tokens: [' uplifting', ' farewell']
+Rank 28 | Centroid: ' saying' | Score: 0.0000
+  Tokens: [' saying', ' meaning']
+Rank 29 | Centroid: ' thing' | Score: 0.0000
+  Tokens: [' thing']
 
 **Chosen Concept:** Rank 1

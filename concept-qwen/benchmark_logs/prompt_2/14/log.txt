@@ -1,82 +1,157 @@
 --- Step 14 Log ---
 
 == Filtered Candidates ==
-Token: ' something' (ID: 2494), Prob: 0.0135
-Token: ' things' (ID: 2513), Prob: 0.0120
-Token: ' multiple' (ID: 5248), Prob: 0.0106
-Token: ' anything' (ID: 4113), Prob: 0.0056
-Token: ' details' (ID: 3565), Prob: 0.0034
-Token: ' points' (ID: 3501), Prob: 0.0032
-Token: ' one' (ID: 825), Prob: 0.0028
-Token: ' yes' (ID: 9834), Prob: 0.0027
-Token: ' questions' (ID: 4755), Prob: 0.0024
-Token: ' examples' (ID: 10295), Prob: 0.0020
-Token: ' specific' (ID: 3151), Prob: 0.0017
-Token: ' possible' (ID: 3204), Prob: 0.0015
-Token: ' numbers' (ID: 5109), Prob: 0.0015
-Token: ' answers' (ID: 11253), Prob: 0.0014
-Token: ' answer' (ID: 4226), Prob: 0.0013
-Token: ' information' (ID: 1995), Prob: 0.0012
-Token: ' different' (ID: 2155), Prob: 0.0012
-Token: ' elements' (ID: 5424), Prob: 0.0012
-Token: ' topics' (ID: 13347), Prob: 0.0011
-Token: ' items' (ID: 3589), Prob: 0.0010
-Token: ' several' (ID: 3807), Prob: 0.0010
-Token: ' additional' (ID: 5107), Prob: 0.0009
-Token: ' descriptions' (ID: 27787), Prob: 0.0009
-Token: ' words' (ID: 4244), Prob: 0.0008
-Token: ' description' (ID: 4008), Prob: 0.0007
-Token: ' time' (ID: 882), Prob: 0.0006
-Token: ' title' (ID: 2265), Prob: 0.0006
-Token: ' relevant' (ID: 9760), Prob: 0.0006
-Token: ' bullet' (ID: 17432), Prob: 0.0006
-Token: ' keywords' (ID: 20844), Prob: 0.0006
-Token: ' number' (ID: 1372), Prob: 0.0005
-Token: ' key' (ID: 1376), Prob: 0.0005
-Token: ' whether' (ID: 3425), Prob: 0.0005
-Token: ' point' (ID: 1459), Prob: 0.0005
-Token: ' adding' (ID: 7842), Prob: 0.0005
-Token: ' extra' (ID: 4960), Prob: 0.0005
-Token: ' names' (ID: 5036), Prob: 0.0005
-Token: ' technical' (ID: 10916), Prob: 0.0005
-Token: ' like' (ID: 1075), Prob: 0.0004
-Token: ' location' (ID: 3728), Prob: 0.0004
-Token: ' parts' (ID: 5479), Prob: 0.0004
-Token: ' categories' (ID: 11059), Prob: 0.0004
-Token: ' scientific' (ID: 12344), Prob: 0.0004
+Token: ' statement' (ID: 5114), Prob: 0.9961
+Token: ' sentence' (ID: 11652), Prob: 0.0028
+Token: ' message' (ID: 1943), Prob: 0.0001
+Token: ' text' (ID: 1467), Prob: 0.0001
+Token: ' phrase' (ID: 17133), Prob: 0.0001
+Token: ' instruction' (ID: 7600), Prob: 0.0000
+Token: ' story' (ID: 3364), Prob: 0.0000
+Token: ' quote' (ID: 12641), Prob: 0.0000
+Token: ' paragraph' (ID: 14311), Prob: 0.0000
+Token: ' statements' (ID: 12239), Prob: 0.0000
+Token: ' prompt' (ID: 9934), Prob: 0.0000
+Token: ' sentiment' (ID: 25975), Prob: 0.0000
+Token: 'statement' (ID: 24184), Prob: 0.0000
+Token: ' query' (ID: 3239), Prob: 0.0000
+Token: ' narrative' (ID: 19221), Prob: 0.0000
+Token: ' string' (ID: 914), Prob: 0.0000
+Token: ' passage' (ID: 21085), Prob: 0.0000
+Token: ' original' (ID: 4024), Prob: 0.0000
+Token: ' short' (ID: 2805), Prob: 0.0000
+Token: ' news' (ID: 3669), Prob: 0.0000
+Token: ' stmt' (ID: 20020), Prob: 0.0000
+Token: ' stanza' (ID: 95436), Prob: 0.0000
+Token: ' summary' (ID: 12126), Prob: 0.0000
+Token: ' user' (ID: 1196), Prob: 0.0000
+Token: ' line' (ID: 1555), Prob: 0.0000
+Token: ' JSON' (ID: 4718), Prob: 0.0000
+Token: ' embedded' (ID: 22864), Prob: 0.0000
+Token: ' key' (ID: 1376), Prob: 0.0000
+Token: ' bullet' (ID: 17432), Prob: 0.0000
+Token: ' example' (ID: 3110), Prob: 0.0000
+Token: ' scenario' (ID: 15048), Prob: 0.0000
+Token: ' HTML' (ID: 9308), Prob: 0.0000
+Token: ' meta' (ID: 8823), Prob: 0.0000
+Token: ' response' (ID: 2033), Prob: 0.0000
+Token: ' Statement' (ID: 21756), Prob: 0.0000
+Token: ' insertion' (ID: 35927), Prob: 0.0000
+Token: ' Vietnamese' (ID: 48477), Prob: 0.0000
+Token: ' task' (ID: 3383), Prob: 0.0000
+Token: ' medical' (ID: 6457), Prob: 0.0000
+Token: ' emotional' (ID: 14269), Prob: 0.0000
+Token: ' Arabic' (ID: 34117), Prob: 0.0000
+Token: ' Chinese' (ID: 8453), Prob: 0.0000
+Token: ' instructional' (ID: 71245), Prob: 0.0000
+Token: ' content' (ID: 2213), Prob: 0.0000
+Token: ' extended' (ID: 11577), Prob: 0.0000
+Token: ' nested' (ID: 24034), Prob: 0.0000
+Token: ' verse' (ID: 32387), Prob: 0.0000
+Token: ' stat' (ID: 2793), Prob: 0.0000
+Token: ' tweet' (ID: 11809), Prob: 0.0000
+Token: ' student' (ID: 5458), Prob: 0.0000
+Token: ' notice' (ID: 5293), Prob: 0.0000
+Token: ' fact' (ID: 2097), Prob: 0.0000
+Token: ' Japanese' (ID: 10769), Prob: 0.0000
+Token: ' final' (ID: 1590), Prob: 0.0000
+Token: ' scene' (ID: 6109), Prob: 0.0000
+Token: ' reminder' (ID: 26528), Prob: 0.0000
+Token: ' body' (ID: 2487), Prob: 0.0000
+Token: ' stimulus' (ID: 38435), Prob: 0.0000
+Token: ' context' (ID: 2266), Prob: 0.0000
+Token: ' stem' (ID: 19101), Prob: 0.0000
+Token: ' proverb' (ID: 78438), Prob: 0.0000
+Token: ' SQL' (ID: 7870), Prob: 0.0000
+Token: ' inner' (ID: 9179), Prob: 0.0000
+Token: ' SMS' (ID: 29909), Prob: 0.0000
+Token: ' embedding' (ID: 39088), Prob: 0.0000
+Token: ' poetic' (ID: 75434), Prob: 0.0000
+Token: '	statement' (ID: 89566), Prob: 0.0000
+Token: ' thought' (ID: 3381), Prob: 0.0000
+Token: ' emotion' (ID: 19772), Prob: 0.0000
+Token: ' sub' (ID: 1186), Prob: 0.0000
+Token: ' part' (ID: 949), Prob: 0.0000
+Token: ' training' (ID: 4862), Prob: 0.0000
+Token: ' situation' (ID: 6534), Prob: 0.0000
+Token: ' truth' (ID: 8046), Prob: 0.0000
+Token: ' assistant' (ID: 17847), Prob: 0.0000
+Token: ' statistical' (ID: 28464), Prob: 0.0000
+Token: ' new' (ID: 501), Prob: 0.0000
+Token: ' specific' (ID: 3151), Prob: 0.0000
+Token: ' question' (ID: 3405), Prob: 0.0000
+Token: ' sentences' (ID: 22870), Prob: 0.0000
+Token: ' narration' (ID: 85080), Prob: 0.0000
+Token: ' multi' (ID: 7299), Prob: 0.0000
+Token: ' segment' (ID: 10238), Prob: 0.0000
+Token: ' educational' (ID: 16229), Prob: 0.0000
+Token: ' sting' (ID: 54313), Prob: 0.0000
+Token: ' script' (ID: 5316), Prob: 0.0000
+Token: ' English' (ID: 6364), Prob: 0.0000
+Token: ' journey' (ID: 11618), Prob: 0.0000
+Token: ' invitation' (ID: 28688), Prob: 0.0000
+Token: ' concise' (ID: 63594), Prob: 0.0000
+Token: ' child' (ID: 1682), Prob: 0.0000
+Token: ' insert' (ID: 5656), Prob: 0.0000
+Token: ' snippet' (ID: 43065), Prob: 0.0000
+Token: ' input' (ID: 1946), Prob: 0.0000
+Token: ' ending' (ID: 13391), Prob: 0.0000
+Token: ' storyline' (ID: 50628), Prob: 0.0000
+Token: ' speech' (ID: 8806), Prob: 0.0000
+Token: ' observation' (ID: 21930), Prob: 0.0000
 
 == Ranked Concepts (Clusters) ==
-Rank 1 | Centroid: ' something' | Score: 0.0311
-  Tokens: [' something', ' things', ' anything']
-Rank 2 | Centroid: ' several' | Score: 0.0128
-  Tokens: [' multiple', ' different', ' several']
-Rank 3 | Centroid: ' answers' | Score: 0.0051
-  Tokens: [' questions', ' answers', ' answer']
-Rank 4 | Centroid: ' items' | Score: 0.0046
-  Tokens: [' examples', ' elements', ' items', ' parts']
-Rank 5 | Centroid: ' details' | Score: 0.0046
-  Tokens: [' details', ' information']
-Rank 6 | Centroid: ' relevant' | Score: 0.0043
-  Tokens: [' specific', ' possible', ' relevant', ' key']
-Rank 7 | Centroid: ' one' | Score: 0.0039
-  Tokens: [' one', ' time', ' like']
-Rank 8 | Centroid: ' points' | Score: 0.0037
-  Tokens: [' points', ' point']
-Rank 9 | Centroid: ' yes' | Score: 0.0032
-  Tokens: [' yes', ' whether']
-Rank 10 | Centroid: ' keywords' | Score: 0.0029
-  Tokens: [' topics', ' words', ' keywords', ' categories']
-Rank 11 | Centroid: ' numbers' | Score: 0.0020
-  Tokens: [' numbers', ' number']
-Rank 12 | Centroid: ' additional' | Score: 0.0018
-  Tokens: [' additional', ' adding', ' extra']
-Rank 13 | Centroid: ' descriptions' | Score: 0.0016
-  Tokens: [' descriptions', ' description']
-Rank 14 | Centroid: ' technical' | Score: 0.0014
-  Tokens: [' bullet', ' technical', ' scientific']
-Rank 15 | Centroid: ' title' | Score: 0.0011
-  Tokens: [' title', ' names']
-Rank 16 | Centroid: ' location' | Score: 0.0004
-  Tokens: [' location']
+Rank 1 | Centroid: ' statement' | Score: 0.9961
+  Tokens: [' statement', ' statements', 'statement', ' stmt', ' Statement', '\tstatement']
+Rank 2 | Centroid: ' sentence' | Score: 0.0029
+  Tokens: [' sentence', ' phrase', ' quote', ' paragraph', ' verse', ' tweet', ' sentences', ' speech']
+Rank 3 | Centroid: ' message' | Score: 0.0001
+  Tokens: [' message', ' prompt', ' response', ' task', ' question']
+Rank 4 | Centroid: ' text' | Score: 0.0001
+  Tokens: [' text', ' original', ' content', ' input']
+Rank 5 | Centroid: ' invitation' | Score: 0.0000
+  Tokens: [' instruction', ' notice', ' reminder', ' invitation', ' observation']
+Rank 6 | Centroid: ' narrative' | Score: 0.0000
+  Tokens: [' story', ' narrative', ' narration', ' journey', ' storyline']
+Rank 7 | Centroid: ' emotion' | Score: 0.0000
+  Tokens: [' sentiment', ' emotional', ' emotion']
+Rank 8 | Centroid: ' string' | Score: 0.0000
+  Tokens: [' string', ' line', ' part']
+Rank 9 | Centroid: ' snippet' | Score: 0.0000
+  Tokens: [' passage', ' stanza', ' segment', ' snippet']
+Rank 10 | Centroid: ' query' | Score: 0.0000
+  Tokens: [' query', ' script']
+Rank 11 | Centroid: ' multi' | Score: 0.0000
+  Tokens: [' short', ' meta', ' extended', ' final', ' multi', ' ending']
+Rank 12 | Centroid: ' new' | Score: 0.0000
+  Tokens: [' user', ' key', ' body', ' sub', ' new', ' specific']
+Rank 13 | Centroid: ' embedded' | Score: 0.0000
+  Tokens: [' embedded', ' insertion', ' nested', ' inner', ' embedding', ' insert']
+Rank 14 | Centroid: ' truth' | Score: 0.0000
+  Tokens: [' news', ' fact', ' thought', ' truth']
+Rank 15 | Centroid: ' scenario' | Score: 0.0000
+  Tokens: [' example', ' scenario', ' scene', ' context', ' situation']
+Rank 16 | Centroid: ' concise' | Score: 0.0000
+  Tokens: [' summary', ' bullet', ' concise']
+Rank 17 | Centroid: ' HTML' | Score: 0.0000
+  Tokens: [' JSON', ' HTML', ' SQL', ' SMS']
+Rank 18 | Centroid: ' Chinese' | Score: 0.0000
+  Tokens: [' Vietnamese', ' Arabic', ' Chinese', ' Japanese', ' English']
+Rank 19 | Centroid: ' student' | Score: 0.0000
+  Tokens: [' medical', ' student', ' child']
+Rank 20 | Centroid: ' instructional' | Score: 0.0000
+  Tokens: [' instructional', ' assistant', ' educational']
+Rank 21 | Centroid: ' stat' | Score: 0.0000
+  Tokens: [' stat', ' statistical']
+Rank 22 | Centroid: ' proverb' | Score: 0.0000
+  Tokens: [' proverb', ' poetic']
+Rank 23 | Centroid: ' stimulus' | Score: 0.0000
+  Tokens: [' stimulus']
+Rank 24 | Centroid: ' stem' | Score: 0.0000
+  Tokens: [' stem']
+Rank 25 | Centroid: ' training' | Score: 0.0000
+  Tokens: [' training']
+Rank 26 | Centroid: ' sting' | Score: 0.0000
+  Tokens: [' sting']
 
 **Chosen Concept:** Rank 1

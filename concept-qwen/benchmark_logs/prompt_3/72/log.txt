@@ -1,0 +1,133 @@
+--- Step 72 Log ---
+
+== Filtered Candidates ==
+Token: ' leading' (ID: 6388), Prob: 0.6406
+Token: ' maybe' (ID: 7196), Prob: 0.0674
+Token: ' perhaps' (ID: 8365), Prob: 0.0408
+Token: ' like' (ID: 1075), Prob: 0.0248
+Token: ' possibly' (ID: 10767), Prob: 0.0034
+Token: ' showing' (ID: 9027), Prob: 0.0014
+Token: ' making' (ID: 3259), Prob: 0.0012
+Token: ' creating' (ID: 6825), Prob: 0.0011
+Token: ' either' (ID: 2987), Prob: 0.0008
+Token: ' causing' (ID: 14381), Prob: 0.0008
+Token: ' revealing' (ID: 30620), Prob: 0.0007
+Token: ' resulting' (ID: 12942), Prob: 0.0007
+Token: ' potentially' (ID: 13581), Prob: 0.0005
+Token: ' implying' (ID: 72867), Prob: 0.0004
+Token: ' introducing' (ID: 31918), Prob: 0.0004
+Token: ' suggesting' (ID: 22561), Prob: 0.0004
+Token: ' something' (ID: 2494), Prob: 0.0003
+Token: ' hint' (ID: 13012), Prob: 0.0003
+Token: ' indicating' (ID: 18860), Prob: 0.0002
+Token: ' sometimes' (ID: 7025), Prob: 0.0002
+Token: ' feeling' (ID: 8266), Prob: 0.0002
+Token: ' hence' (ID: 16085), Prob: 0.0002
+Token: ' acting' (ID: 15358), Prob: 0.0002
+Token: ' accidentally' (ID: 32384), Prob: 0.0002
+Token: ' thus' (ID: 8450), Prob: 0.0001
+Token: ' sensing' (ID: 59099), Prob: 0.0001
+Token: ' facing' (ID: 12880), Prob: 0.0001
+Token: ' drawing' (ID: 13330), Prob: 0.0001
+Token: ' triggering' (ID: 51505), Prob: 0.0001
+Token: ' followed' (ID: 8110), Prob: 0.0001
+Token: ' discovering' (ID: 41587), Prob: 0.0001
+Token: ' similar' (ID: 4428), Prob: 0.0001
+Token: ' finding' (ID: 9271), Prob: 0.0001
+Token: ' setting' (ID: 6243), Prob: 0.0001
+Token: ' turning' (ID: 13054), Prob: 0.0001
+Token: ' dealing' (ID: 14550), Prob: 0.0001
+Token: ' exploring' (ID: 23966), Prob: 0.0001
+Token: ' might' (ID: 2578), Prob: 0.0001
+Token: ' especially' (ID: 5310), Prob: 0.0001
+Token: ' adding' (ID: 7842), Prob: 0.0001
+Token: ' highlighting' (ID: 38586), Prob: 0.0001
+Token: ' surprising' (ID: 14861), Prob: 0.0001
+Token: ' thereby' (ID: 27492), Prob: 0.0001
+Token: ' often' (ID: 3545), Prob: 0.0001
+Token: ' experiencing' (ID: 24084), Prob: 0.0001
+Token: ' meeting' (ID: 6438), Prob: 0.0000
+Token: ' raising' (ID: 18545), Prob: 0.0000
+Token: ' encountering' (ID: 91272), Prob: 0.0000
+Token: ' noticing' (ID: 61364), Prob: 0.0000
+Token: ' even' (ID: 1496), Prob: 0.0000
+Token: ' ending' (ID: 13391), Prob: 0.0000
+Token: ' expecting' (ID: 22331), Prob: 0.0000
+Token: ' normal' (ID: 4622), Prob: 0.0000
+Token: ' giving' (ID: 7086), Prob: 0.0000
+Token: ' prompting' (ID: 49645), Prob: 0.0000
+Token: ' showcasing' (ID: 66808), Prob: 0.0000
+Token: ' seeing' (ID: 9120), Prob: 0.0000
+Token: ' whether' (ID: 3425), Prob: 0.0000
+Token: ' reflecting' (ID: 41752), Prob: 0.0000
+Token: ' reacting' (ID: 73050), Prob: 0.0000
+Token: ' yet' (ID: 3602), Prob: 0.0000
+Token: ' sparking' (ID: 98982), Prob: 0.0000
+Token: ' using' (ID: 1667), Prob: 0.0000
+Token: ' meaning' (ID: 7290), Prob: 0.0000
+Token: ' becoming' (ID: 10454), Prob: 0.0000
+Token: ' allowing' (ID: 10693), Prob: 0.0000
+Token: ' bringing' (ID: 12678), Prob: 0.0000
+Token: ' displaying' (ID: 27940), Prob: 0.0000
+Token: ' realizing' (ID: 43014), Prob: 0.0000
+Token: ' contrasting' (ID: 73955), Prob: 0.0000
+Token: ' risking' (ID: 84922), Prob: 0.0000
+Token: ' leaving' (ID: 9380), Prob: 0.0000
+Token: ' unexpected' (ID: 16500), Prob: 0.0000
+Token: ' mir' (ID: 8652), Prob: 0.0000
+Token: ' getting' (ID: 3709), Prob: 0.0000
+Token: ' symbol' (ID: 7735), Prob: 0.0000
+Token: ' presenting' (ID: 31544), Prob: 0.0000
+Token: ' thinking' (ID: 7274), Prob: 0.0000
+Token: ' strange' (ID: 14888), Prob: 0.0000
+Token: ' opening' (ID: 8568), Prob: 0.0000
+
+== Ranked Concepts (Clusters) ==
+Rank 1 | Centroid: ' leading' | Score: 0.6406
+  Tokens: [' leading', ' resulting']
+Rank 2 | Centroid: ' perhaps' | Score: 0.1123
+  Tokens: [' maybe', ' perhaps', ' possibly', ' potentially', ' sometimes', ' might', ' often']
+Rank 3 | Centroid: ' similar' | Score: 0.0253
+  Tokens: [' like', ' something', ' followed', ' similar']
+Rank 4 | Centroid: ' creating' | Score: 0.0034
+  Tokens: [' making', ' creating', ' causing', ' adding', ' giving', ' becoming', ' allowing', ' bringing', ' leaving', ' getting']
+Rank 5 | Centroid: ' showcasing' | Score: 0.0028
+  Tokens: [' showing', ' revealing', ' introducing', ' exploring', ' highlighting', ' showcasing', ' displaying', ' presenting']
+Rank 6 | Centroid: ' suggesting' | Score: 0.0010
+  Tokens: [' implying', ' suggesting', ' indicating']
+Rank 7 | Centroid: ' whether' | Score: 0.0010
+  Tokens: [' either', ' especially', ' even', ' whether', ' yet']
+Rank 8 | Centroid: ' thus' | Score: 0.0004
+  Tokens: [' hence', ' thus', ' thereby']
+Rank 9 | Centroid: ' sensing' | Score: 0.0004
+  Tokens: [' feeling', ' sensing', ' thinking']
+Rank 10 | Centroid: ' reacting' | Score: 0.0003
+  Tokens: [' acting', ' facing', ' reacting']
+Rank 11 | Centroid: ' hint' | Score: 0.0003
+  Tokens: [' hint', ' meaning', ' symbol']
+Rank 12 | Centroid: ' finding' | Score: 0.0003
+  Tokens: [' drawing', ' finding', ' setting']
+Rank 13 | Centroid: ' surprising' | Score: 0.0003
+  Tokens: [' accidentally', ' surprising', ' unexpected', ' strange']
+Rank 14 | Centroid: ' triggering' | Score: 0.0002
+  Tokens: [' triggering', ' raising', ' prompting', ' sparking']
+Rank 15 | Centroid: ' noticing' | Score: 0.0002
+  Tokens: [' discovering', ' noticing', ' seeing', ' realizing']
+Rank 16 | Centroid: ' ending' | Score: 0.0002
+  Tokens: [' turning', ' meeting', ' ending', ' opening']
+Rank 17 | Centroid: ' encountering' | Score: 0.0002
+  Tokens: [' dealing', ' experiencing', ' encountering']
+Rank 18 | Centroid: ' normal' | Score: 0.0001
+  Tokens: [' normal', ' mir']
+Rank 19 | Centroid: ' expecting' | Score: 0.0000
+  Tokens: [' expecting']
+Rank 20 | Centroid: ' reflecting' | Score: 0.0000
+  Tokens: [' reflecting']
+Rank 21 | Centroid: ' using' | Score: 0.0000
+  Tokens: [' using']
+Rank 22 | Centroid: ' risking' | Score: 0.0000
+  Tokens: [' risking']
+Rank 23 | Centroid: ' contrasting' | Score: 0.0000
+  Tokens: [' contrasting']
+
+**Chosen Concept:** Rank 1

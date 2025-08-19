@@ -1,0 +1,115 @@
+--- Step 78 Log ---
+
+== Filtered Candidates ==
+Token: ' Need' (ID: 14656), Prob: 0.0669
+Token: ' Let' (ID: 6771), Prob: 0.0591
+Token: ' Maybe' (ID: 10696), Prob: 0.0459
+Token: ' Hmm' (ID: 88190), Prob: 0.0405
+Token: ' Themes' (ID: 62087), Prob: 0.0117
+Token: ' Also' (ID: 7281), Prob: 0.0090
+Token: ' Perhaps' (ID: 18765), Prob: 0.0090
+Token: ' Int' (ID: 1333), Prob: 0.0080
+Token: ' Use' (ID: 5443), Prob: 0.0059
+Token: ' Wait' (ID: 13824), Prob: 0.0052
+Token: ' Conflict' (ID: 58585), Prob: 0.0045
+Token: ' Alternatively' (ID: 38478), Prob: 0.0036
+Token: ' Needs' (ID: 43140), Prob: 0.0023
+Token: ' Add' (ID: 2691), Prob: 0.0018
+Token: ' Setting' (ID: 20037), Prob: 0.0018
+Token: ' Include' (ID: 29734), Prob: 0.0016
+Token: ' Adding' (ID: 30370), Prob: 0.0013
+Token: ' Supporting' (ID: 73996), Prob: 0.0013
+Token: ' Tradition' (ID: 80478), Prob: 0.0012
+Token: ' Think' (ID: 21149), Prob: 0.0011
+Token: ' Using' (ID: 12091), Prob: 0.0010
+Token: ' Time' (ID: 4120), Prob: 0.0008
+Token: ' Story' (ID: 15106), Prob: 0.0007
+Token: ' Action' (ID: 5586), Prob: 0.0005
+Token: ' Place' (ID: 10771), Prob: 0.0005
+Token: ' Including' (ID: 55121), Prob: 0.0005
+Token: ' Emotional' (ID: 94200), Prob: 0.0005
+Token: ' Something' (ID: 24656), Prob: 0.0004
+Token: ' Another' (ID: 13293), Prob: 0.0004
+Token: ' Show' (ID: 6928), Prob: 0.0004
+Token: ' Storm' (ID: 21862), Prob: 0.0004
+Token: ' Create' (ID: 4230), Prob: 0.0004
+Token: ' Plus' (ID: 12343), Prob: 0.0003
+Token: ' Traditional' (ID: 45460), Prob: 0.0003
+Token: ' Suppose' (ID: 82610), Prob: 0.0003
+Token: ' Pro' (ID: 1298), Prob: 0.0003
+Token: ' Start' (ID: 5145), Prob: 0.0003
+Token: ' Since' (ID: 8704), Prob: 0.0003
+Token: ' Plot' (ID: 26033), Prob: 0.0003
+Token: ' Title' (ID: 10869), Prob: 0.0003
+Token: ' Establish' (ID: 39398), Prob: 0.0003
+Token: ' Parents' (ID: 42926), Prob: 0.0003
+Token: ' Friendship' (ID: 72069), Prob: 0.0003
+Token: ' Introduction' (ID: 28338), Prob: 0.0003
+Token: ' Twist' (ID: 73374), Prob: 0.0003
+Token: 'Themes' (ID: 89030), Prob: 0.0003
+Token: ' Sound' (ID: 14594), Prob: 0.0002
+Token: ' Weather' (ID: 22629), Prob: 0.0002
+Token: ' First' (ID: 5512), Prob: 0.0002
+Token: ' Ant' (ID: 6755), Prob: 0.0002
+Token: ' Theme' (ID: 16442), Prob: 0.0002
+Token: ' Incorpor' (ID: 53704), Prob: 0.0002
+Token: ' Role' (ID: 15404), Prob: 0.0002
+Token: ' Nature' (ID: 21331), Prob: 0.0002
+Token: ' Like' (ID: 8909), Prob: 0.0002
+Token: ' Family' (ID: 12238), Prob: 0.0002
+Token: ' Focus' (ID: 25806), Prob: 0.0002
+Token: ' Describe' (ID: 60785), Prob: 0.0002
+Token: ' Set' (ID: 2573), Prob: 0.0002
+Token: ' Second' (ID: 10440), Prob: 0.0002
+Token: ' Trad' (ID: 15065), Prob: 0.0002
+Token: ' Sounds' (ID: 44141), Prob: 0.0002
+Token: ' Probably' (ID: 37154), Prob: 0.0002
+Token: ' Colors' (ID: 9526), Prob: 0.0002
+Token: ' Interesting' (ID: 70670), Prob: 0.0002
+Token: ' Provide' (ID: 39565), Prob: 0.0001
+
+== Ranked Concepts (Clusters) ==
+Rank 1 | Centroid: ' Perhaps' | Score: 0.0962
+  Tokens: [' Maybe', ' Hmm', ' Perhaps', ' Something', ' Probably', ' Interesting']
+Rank 2 | Centroid: ' Suppose' | Score: 0.0728
+  Tokens: [' Let', ' Also', ' Alternatively', ' Another', ' Suppose', ' Since', ' Like']
+Rank 3 | Centroid: ' Need' | Score: 0.0693
+  Tokens: [' Need', ' Needs']
+Rank 4 | Centroid: ' Themes' | Score: 0.0123
+  Tokens: [' Themes', 'Themes', ' Theme', ' Colors']
+Rank 5 | Centroid: ' Int' | Score: 0.0088
+  Tokens: [' Int', ' Pro', ' Introduction', ' Ant']
+Rank 6 | Centroid: ' Create' | Score: 0.0072
+  Tokens: [' Use', ' Show', ' Create', ' Start', ' Describe', ' Provide']
+Rank 7 | Centroid: ' Emotional' | Score: 0.0066
+  Tokens: [' Conflict', ' Supporting', ' Emotional', ' Friendship']
+Rank 8 | Centroid: ' Wait' | Score: 0.0057
+  Tokens: [' Wait', ' Place']
+Rank 9 | Centroid: ' Adding' | Score: 0.0054
+  Tokens: [' Add', ' Include', ' Adding', ' Including', ' Incorpor']
+Rank 10 | Centroid: ' Setting' | Score: 0.0022
+  Tokens: [' Setting', ' Establish', ' Set']
+Rank 11 | Centroid: ' Traditional' | Score: 0.0017
+  Tokens: [' Tradition', ' Traditional', ' Trad']
+Rank 12 | Centroid: ' Storm' | Score: 0.0017
+  Tokens: [' Story', ' Storm', ' Plot', ' Weather']
+Rank 13 | Centroid: ' Time' | Score: 0.0013
+  Tokens: [' Time', ' Title', ' Focus']
+Rank 14 | Centroid: ' Think' | Score: 0.0011
+  Tokens: [' Think']
+Rank 15 | Centroid: ' Using' | Score: 0.0010
+  Tokens: [' Using']
+Rank 16 | Centroid: ' Action' | Score: 0.0007
+  Tokens: [' Action', ' Nature']
+Rank 17 | Centroid: ' Family' | Score: 0.0007
+  Tokens: [' Parents', ' Twist', ' Family']
+Rank 18 | Centroid: ' Sound' | Score: 0.0004
+  Tokens: [' Sound', ' Sounds']
+Rank 19 | Centroid: ' First' | Score: 0.0004
+  Tokens: [' First', ' Second']
+Rank 20 | Centroid: ' Plus' | Score: 0.0003
+  Tokens: [' Plus']
+Rank 21 | Centroid: ' Role' | Score: 0.0002
+  Tokens: [' Role']
+
+**Chosen Concept:** Rank 1

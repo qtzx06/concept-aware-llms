@@ -1,141 +1,158 @@
 --- Step 90 Log ---
 
 == Filtered Candidates ==
-Token: ' paragraph' (ID: 14311), Prob: 0.2139
-Token: ' instance' (ID: 2867), Prob: 0.0835
-Token: ' sentence' (ID: 11652), Prob: 0.0693
-Token: ' emotion' (ID: 19772), Prob: 0.0476
-Token: ' example' (ID: 3110), Prob: 0.0272
-Token: ' metaphor' (ID: 45350), Prob: 0.0226
-Token: ' mention' (ID: 6286), Prob: 0.0199
-Token: ' person' (ID: 1697), Prob: 0.0165
-Token: ' comma' (ID: 31683), Prob: 0.0137
-Token: ' word' (ID: 3409), Prob: 0.0128
-Token: ' pair' (ID: 6716), Prob: 0.0114
-Token: ' occurrence' (ID: 31559), Prob: 0.0114
-Token: ' specific' (ID: 3151), Prob: 0.0106
-Token: ' use' (ID: 990), Prob: 0.0089
-Token: ' quote' (ID: 12641), Prob: 0.0078
-Token: ' line' (ID: 1555), Prob: 0.0073
-Token: ' emoji' (ID: 42365), Prob: 0.0073
-Token: ' emotional' (ID: 14269), Prob: 0.0065
-Token: ' reference' (ID: 5785), Prob: 0.0050
-Token: ' set' (ID: 738), Prob: 0.0047
-Token: ' single' (ID: 3175), Prob: 0.0047
-Token: ' tear' (ID: 17576), Prob: 0.0039
-Token: ' direct' (ID: 2118), Prob: 0.0037
-Token: ' crying' (ID: 30199), Prob: 0.0034
-Token: ' type' (ID: 943), Prob: 0.0031
-Token: ' period' (ID: 4168), Prob: 0.0031
-Token: ' character' (ID: 3668), Prob: 0.0029
-Token: ' error' (ID: 1465), Prob: 0.0027
-Token: ' full' (ID: 2480), Prob: 0.0022
-Token: ' element' (ID: 2392), Prob: 0.0021
-Token: ' noun' (ID: 36921), Prob: 0.0021
-Token: ' essay' (ID: 8895), Prob: 0.0020
-Token: ' red' (ID: 2518), Prob: 0.0018
-Token: ' cry' (ID: 15729), Prob: 0.0016
-Token: ' real' (ID: 1931), Prob: 0.0015
-Token: ' verb' (ID: 18607), Prob: 0.0015
-Token: ' citation' (ID: 44377), Prob: 0.0015
-Token: ' self' (ID: 656), Prob: 0.0014
-Token: ' copy' (ID: 2975), Prob: 0.0014
-Token: ' location' (ID: 3728), Prob: 0.0014
-Token: ' capital' (ID: 6722), Prob: 0.0014
-Token: ' image' (ID: 2168), Prob: 0.0014
-Token: ' subject' (ID: 3832), Prob: 0.0014
-Token: ' punctuation' (ID: 61503), Prob: 0.0014
-Token: ' place' (ID: 1992), Prob: 0.0013
-Token: ' complete' (ID: 4583), Prob: 0.0013
-Token: ' natural' (ID: 5810), Prob: 0.0013
-Token: ' topic' (ID: 8544), Prob: 0.0012
-Token: ' cow' (ID: 19362), Prob: 0.0012
-Token: ' main' (ID: 1887), Prob: 0.0011
-Token: ' phrase' (ID: 17133), Prob: 0.0011
-Token: ' sample' (ID: 6077), Prob: 0.0011
-Token: ' repetition' (ID: 53415), Prob: 0.0011
-Token: ' object' (ID: 1633), Prob: 0.0010
-Token: ' scenario' (ID: 15048), Prob: 0.0010
-Token: ' personal' (ID: 4345), Prob: 0.0009
-Token: ' tweet' (ID: 11809), Prob: 0.0009
-Token: ' flower' (ID: 22351), Prob: 0.0009
-Token: ' way' (ID: 1616), Prob: 0.0009
-Token: ' entity' (ID: 5387), Prob: 0.0009
-Token: ' definition' (ID: 7271), Prob: 0.0009
-Token: ' article' (ID: 4549), Prob: 0.0008
-Token: ' third' (ID: 4843), Prob: 0.0008
-Token: ' segment' (ID: 10238), Prob: 0.0008
-Token: ' time' (ID: 882), Prob: 0.0008
-Token: ' sense' (ID: 5530), Prob: 0.0008
-Token: ' keyword' (ID: 16174), Prob: 0.0008
-Token: ' narrative' (ID: 19221), Prob: 0.0008
-Token: ' user' (ID: 1196), Prob: 0.0007
-Token: ' state' (ID: 1584), Prob: 0.0007
-Token: ' couple' (ID: 5625), Prob: 0.0007
-Token: ' lowercase' (ID: 42047), Prob: 0.0007
-Token: ' par' (ID: 1346), Prob: 0.0007
-Token: ' animal' (ID: 9864), Prob: 0.0007
-Token: ' name' (ID: 829), Prob: 0.0006
-Token: ' section' (ID: 3772), Prob: 0.0006
-Token: ' correct' (ID: 4396), Prob: 0.0006
-Token: ' argument' (ID: 5693), Prob: 0.0006
-Token: ' scene' (ID: 6109), Prob: 0.0006
-Token: ' piece' (ID: 6573), Prob: 0.0006
-Token: ' feeling' (ID: 8266), Prob: 0.0006
-Token: ' hashtag' (ID: 47077), Prob: 0.0006
-Token: ' list' (ID: 1140), Prob: 0.0006
-Token: ' event' (ID: 1538), Prob: 0.0006
+Token: ' respect' (ID: 5091), Prob: 0.5000
+Token: ' understanding' (ID: 8660), Prob: 0.3887
+Token: ' trust' (ID: 6950), Prob: 0.0869
+Token: ' support' (ID: 1824), Prob: 0.0056
+Token: ' love' (ID: 2948), Prob: 0.0014
+Token: ' growth' (ID: 6513), Prob: 0.0014
+Token: ' admiration' (ID: 65839), Prob: 0.0014
+Token: ' care' (ID: 2453), Prob: 0.0012
+Token: ' empathy' (ID: 47351), Prob: 0.0012
+Token: ' acceptance' (ID: 25505), Prob: 0.0008
+Token: ' attraction' (ID: 32364), Prob: 0.0008
+Token: ' interest' (ID: 2734), Prob: 0.0007
+Token: ' appreciation' (ID: 34896), Prob: 0.0007
+Token: ' cultural' (ID: 12752), Prob: 0.0006
+Token: ' understand' (ID: 3535), Prob: 0.0005
+Token: ' connection' (ID: 3633), Prob: 0.0005
+Token: ' affection' (ID: 36705), Prob: 0.0005
+Token: ' recognition' (ID: 17843), Prob: 0.0003
+Token: ' vulnerability' (ID: 33004), Prob: 0.0003
+Token: ' emotional' (ID: 14269), Prob: 0.0002
+Token: ' compassion' (ID: 29381), Prob: 0.0002
+Token: ' sharing' (ID: 11560), Prob: 0.0002
+Token: ' learning' (ID: 6832), Prob: 0.0002
+Token: ' interests' (ID: 11772), Prob: 0.0002
+Token: ' values' (ID: 2750), Prob: 0.0002
+Token: ' curiosity' (ID: 40228), Prob: 0.0002
+Token: ' concern' (ID: 4643), Prob: 0.0001
+Token: ' commitment' (ID: 15155), Prob: 0.0001
+Token: ' comprehension' (ID: 61094), Prob: 0.0001
+Token: ' knowledge' (ID: 6540), Prob: 0.0001
+Token: ' influence' (ID: 10173), Prob: 0.0001
+Token: ' communication' (ID: 10535), Prob: 0.0001
+Token: ' gratitude' (ID: 45035), Prob: 0.0001
+Token: ' transformation' (ID: 17991), Prob: 0.0001
+Token: ' help' (ID: 1492), Prob: 0.0001
+Token: ' feelings' (ID: 15650), Prob: 0.0001
+Token: ' effort' (ID: 5041), Prob: 0.0001
+Token: ' friendship' (ID: 26509), Prob: 0.0001
+Token: ' belief' (ID: 16396), Prob: 0.0001
+Token: ' insight' (ID: 20017), Prob: 0.0001
+Token: ' reliance' (ID: 53080), Prob: 0.0001
+Token: ' distrust' (ID: 75986), Prob: 0.0001
+Token: ' comfort' (ID: 6838), Prob: 0.0001
+Token: ' encouragement' (ID: 50375), Prob: 0.0001
+Token: ' emotions' (ID: 21261), Prob: 0.0001
+Token: ' desire' (ID: 12591), Prob: 0.0001
+Token: ' respects' (ID: 42566), Prob: 0.0001
+Token: ' hope' (ID: 3900), Prob: 0.0001
+Token: ' misunderstanding' (ID: 69747), Prob: 0.0001
+Token: ' purpose' (ID: 7428), Prob: 0.0001
+Token: ' assistance' (ID: 12994), Prob: 0.0001
+Token: ' discovery' (ID: 18335), Prob: 0.0001
+Token: ' experiences' (ID: 11449), Prob: 0.0000
+Token: ' kindness' (ID: 44872), Prob: 0.0000
+Token: ' forgiveness' (ID: 52050), Prob: 0.0000
+Token: ' inspiration' (ID: 19760), Prob: 0.0000
+Token: ' exploration' (ID: 26403), Prob: 0.0000
+Token: ' conflict' (ID: 12055), Prob: 0.0000
+Token: ' spiritual' (ID: 17849), Prob: 0.0000
+Token: ' dependence' (ID: 43293), Prob: 0.0000
+Token: ' honesty' (ID: 47848), Prob: 0.0000
+Token: ' content' (ID: 2213), Prob: 0.0000
+Token: ' personal' (ID: 4345), Prob: 0.0000
+Token: ' pain' (ID: 6646), Prob: 0.0000
+Token: ' authenticity' (ID: 53248), Prob: 0.0000
+Token: ' fear' (ID: 8679), Prob: 0.0000
+Token: ' aid' (ID: 12296), Prob: 0.0000
+Token: ' observation' (ID: 21930), Prob: 0.0000
+Token: ' compatibility' (ID: 24748), Prob: 0.0000
+Token: ' truth' (ID: 8046), Prob: 0.0000
+Token: ' shared' (ID: 6094), Prob: 0.0000
+Token: ' exchange' (ID: 9289), Prob: 0.0000
+Token: ' listening' (ID: 14289), Prob: 0.0000
+Token: ' reading' (ID: 5290), Prob: 0.0000
+Token: ' consideration' (ID: 17879), Prob: 0.0000
+Token: ' reflection' (ID: 21844), Prob: 0.0000
+Token: ' deep' (ID: 5538), Prob: 0.0000
+Token: ' awareness' (ID: 17526), Prob: 0.0000
+Token: ' warmth' (ID: 40363), Prob: 0.0000
+Token: ' experience' (ID: 3139), Prob: 0.0000
+Token: ' needs' (ID: 3880), Prob: 0.0000
+Token: ' regard' (ID: 5250), Prob: 0.0000
+Token: ' connections' (ID: 13234), Prob: 0.0000
+Token: ' cooperation' (ID: 23046), Prob: 0.0000
+Token: ' fascination' (ID: 74344), Prob: 0.0000
+Token: ' meaning' (ID: 7290), Prob: 0.0000
+Token: ' goals' (ID: 8845), Prob: 0.0000
+Token: ' passion' (ID: 11677), Prob: 0.0000
+Token: ' independence' (ID: 23665), Prob: 0.0000
+Token: ' misunderstand' (ID: 89600), Prob: 0.0000
+Token: ' healing' (ID: 21052), Prob: 0.0000
+Token: ' adaptation' (ID: 33085), Prob: 0.0000
+Token: ' sympathy' (ID: 45984), Prob: 0.0000
+Token: ' intimacy' (ID: 65164), Prob: 0.0000
+Token: ' self' (ID: 656), Prob: 0.0000
+Token: ' confidence' (ID: 12136), Prob: 0.0000
+Token: ' intention' (ID: 14602), Prob: 0.0000
 
 == Ranked Concepts (Clusters) ==
-Rank 1 | Centroid: ' essay' | Score: 0.2168
-  Tokens: [' paragraph', ' essay', ' article']
-Rank 2 | Centroid: ' example' | Score: 0.1118
-  Tokens: [' instance', ' example', ' sample']
-Rank 3 | Centroid: ' phrase' | Score: 0.0879
-  Tokens: [' sentence', ' word', ' noun', ' verb', ' phrase', ' keyword']
-Rank 4 | Centroid: ' emotional' | Score: 0.0549
-  Tokens: [' emotion', ' emotional', ' flower']
-Rank 5 | Centroid: ' citation' | Score: 0.0342
-  Tokens: [' mention', ' quote', ' reference', ' citation']
-Rank 6 | Centroid: ' emoji' | Score: 0.0322
-  Tokens: [' metaphor', ' emoji', ' tweet', ' narrative', ' hashtag']
-Rank 7 | Centroid: ' single' | Score: 0.0304
-  Tokens: [' specific', ' single', ' direct', ' full', ' red', ' real', ' self', ' complete', ' natural', ' main', ' correct']
-Rank 8 | Centroid: ' person' | Score: 0.0203
-  Tokens: [' person', ' character', ' personal']
-Rank 9 | Centroid: ' lowercase' | Score: 0.0172
-  Tokens: [' comma', ' capital', ' punctuation', ' lowercase']
-Rank 10 | Centroid: ' type' | Score: 0.0140
-  Tokens: [' use', ' type', ' time', ' state', ' name']
-Rank 11 | Centroid: ' couple' | Score: 0.0135
-  Tokens: [' pair', ' copy', ' couple']
-Rank 12 | Centroid: ' list' | Score: 0.0126
-  Tokens: [' line', ' set', ' list']
-Rank 13 | Centroid: ' occurrence' | Score: 0.0124
-  Tokens: [' occurrence', ' repetition']
-Rank 14 | Centroid: ' crying' | Score: 0.0102
-  Tokens: [' tear', ' crying', ' cry', ' cow']
-Rank 15 | Centroid: ' scenario' | Score: 0.0052
-  Tokens: [' element', ' scenario', ' entity', ' scene', ' event']
-Rank 16 | Centroid: ' section' | Score: 0.0052
-  Tokens: [' period', ' segment', ' section', ' piece']
-Rank 17 | Centroid: ' location' | Score: 0.0027
-  Tokens: [' location', ' place']
-Rank 18 | Centroid: ' error' | Score: 0.0027
-  Tokens: [' error']
-Rank 19 | Centroid: ' subject' | Score: 0.0025
-  Tokens: [' subject', ' topic']
-Rank 20 | Centroid: ' animal' | Score: 0.0024
-  Tokens: [' object', ' user', ' animal']
-Rank 21 | Centroid: ' image' | Score: 0.0020
-  Tokens: [' image', ' argument']
-Rank 22 | Centroid: ' way' | Score: 0.0017
-  Tokens: [' way', ' definition']
-Rank 23 | Centroid: ' sense' | Score: 0.0014
-  Tokens: [' sense', ' feeling']
-Rank 24 | Centroid: ' third' | Score: 0.0008
-  Tokens: [' third']
-Rank 25 | Centroid: ' par' | Score: 0.0007
-  Tokens: [' par']
+Rank 1 | Centroid: ' respect' | Score: 0.5000
+  Tokens: [' respect', ' respects', ' regard']
+Rank 2 | Centroid: ' understanding' | Score: 0.3887
+  Tokens: [' understanding', ' understand', ' comprehension', ' misunderstanding', ' misunderstand']
+Rank 3 | Centroid: ' trust' | Score: 0.0869
+  Tokens: [' trust', ' belief', ' distrust', ' fear', ' confidence']
+Rank 4 | Centroid: ' assistance' | Score: 0.0057
+  Tokens: [' support', ' help', ' assistance', ' aid']
+Rank 5 | Centroid: ' compassion' | Score: 0.0024
+  Tokens: [' empathy', ' affection', ' compassion', ' gratitude', ' friendship', ' kindness', ' forgiveness', ' warmth', ' sympathy', ' intimacy']
+Rank 6 | Centroid: ' appreciation' | Score: 0.0021
+  Tokens: [' admiration', ' appreciation', ' consideration']
+Rank 7 | Centroid: ' values' | Score: 0.0017
+  Tokens: [' growth', ' values', ' content', ' deep', ' needs', ' self']
+Rank 8 | Centroid: ' love' | Score: 0.0014
+  Tokens: [' love']
+Rank 9 | Centroid: ' discovery' | Score: 0.0014
+  Tokens: [' acceptance', ' recognition', ' transformation', ' discovery', ' exploration', ' observation', ' reflection', ' adaptation']
+Rank 10 | Centroid: ' care' | Score: 0.0013
+  Tokens: [' care', ' hope']
+Rank 11 | Centroid: ' emotional' | Score: 0.0011
+  Tokens: [' cultural', ' emotional', ' feelings', ' emotions', ' spiritual', ' personal']
+Rank 12 | Centroid: ' interest' | Score: 0.0011
+  Tokens: [' interest', ' interests', ' concern', ' desire', ' passion']
+Rank 13 | Centroid: ' fascination' | Score: 0.0010
+  Tokens: [' attraction', ' curiosity', ' fascination']
+Rank 14 | Centroid: ' connection' | Score: 0.0007
+  Tokens: [' connection', ' communication', ' connections']
+Rank 15 | Centroid: ' dependence' | Score: 0.0006
+  Tokens: [' vulnerability', ' commitment', ' reliance', ' dependence', ' independence']
+Rank 16 | Centroid: ' sharing' | Score: 0.0003
+  Tokens: [' sharing', ' shared', ' exchange']
+Rank 17 | Centroid: ' reading' | Score: 0.0003
+  Tokens: [' learning', ' listening', ' reading']
+Rank 18 | Centroid: ' awareness' | Score: 0.0002
+  Tokens: [' knowledge', ' insight', ' awareness']
+Rank 19 | Centroid: ' experience' | Score: 0.0002
+  Tokens: [' influence', ' experiences', ' experience']
+Rank 20 | Centroid: ' encouragement' | Score: 0.0001
+  Tokens: [' encouragement', ' inspiration']
+Rank 21 | Centroid: ' comfort' | Score: 0.0001
+  Tokens: [' comfort', ' pain']
+Rank 22 | Centroid: ' purpose' | Score: 0.0001
+  Tokens: [' purpose', ' meaning', ' goals', ' intention']
+Rank 23 | Centroid: ' honesty' | Score: 0.0001
+  Tokens: [' honesty', ' authenticity', ' truth']
+Rank 24 | Centroid: ' effort' | Score: 0.0001
+  Tokens: [' effort']
+Rank 25 | Centroid: ' compatibility' | Score: 0.0001
+  Tokens: [' compatibility', ' cooperation']
+Rank 26 | Centroid: ' conflict' | Score: 0.0000
+  Tokens: [' conflict']
+Rank 27 | Centroid: ' healing' | Score: 0.0000
+  Tokens: [' healing']
 
 **Chosen Concept:** Rank 1

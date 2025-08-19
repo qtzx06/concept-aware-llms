@@ -1,71 +1,116 @@
 --- Step 106 Log ---
 
 == Filtered Candidates ==
-Token: ' message' (ID: 1943), Prob: 0.9961
-Token: ' prompt' (ID: 9934), Prob: 0.0019
-Token: ' messages' (ID: 6605), Prob: 0.0004
-Token: '.message' (ID: 6698), Prob: 0.0003
-Token: ' Message' (ID: 4856), Prob: 0.0001
-Token: ' question' (ID: 3405), Prob: 0.0001
-Token: '(message' (ID: 7333), Prob: 0.0001
-Token: 'message' (ID: 1994), Prob: 0.0001
-Token: '	message' (ID: 24753), Prob: 0.0000
-Token: ' mes' (ID: 10846), Prob: 0.0000
-Token: ' statement' (ID: 5114), Prob: 0.0000
-Token: ':message' (ID: 91473), Prob: 0.0000
-Token: '$message' (ID: 42821), Prob: 0.0000
-Token: ',message' (ID: 72783), Prob: 0.0000
-Token: ' motif' (ID: 59512), Prob: 0.0000
-Token: 'Message' (ID: 2052), Prob: 0.0000
-Token: ' answer' (ID: 4226), Prob: 0.0000
-Token: '-message' (ID: 29332), Prob: 0.0000
-Token: '=message' (ID: 87129), Prob: 0.0000
-Token: ' information' (ID: 1995), Prob: 0.0000
-Token: ' theme' (ID: 6912), Prob: 0.0000
-Token: ' messaging' (ID: 29522), Prob: 0.0000
-Token: '_message' (ID: 6462), Prob: 0.0000
-Token: ' phrase' (ID: 17133), Prob: 0.0000
-Token: ' MESSAGE' (ID: 40758), Prob: 0.0000
-Token: ' user' (ID: 1196), Prob: 0.0000
-Token: ' response' (ID: 2033), Prob: 0.0000
-Token: ' point' (ID: 1459), Prob: 0.0000
-Token: '/message' (ID: 50624), Prob: 0.0000
-Token: ' position' (ID: 2309), Prob: 0.0000
-Token: ' month' (ID: 2254), Prob: 0.0000
-Token: '.Message' (ID: 8472), Prob: 0.0000
-Token: ' moment' (ID: 4445), Prob: 0.0000
-Token: ' lesson' (ID: 17755), Prob: 0.0000
-Token: '<message' (ID: 83747), Prob: 0.0000
-Token: ' main' (ID: 1887), Prob: 0.0000
-Token: ' maximum' (ID: 7192), Prob: 0.0000
-Token: ' wording' (ID: 60227), Prob: 0.0000
+Token: ' smoothly' (ID: 38411), Prob: 0.6406
+Token: ' naturally' (ID: 17712), Prob: 0.2656
+Token: ' well' (ID: 1632), Prob: 0.0219
+Token: ' logically' (ID: 73045), Prob: 0.0030
+Token: ' clearly' (ID: 9355), Prob: 0.0005
+Token: ' properly' (ID: 10277), Prob: 0.0004
+Token: ' seamlessly' (ID: 60340), Prob: 0.0003
+Token: ' natural' (ID: 5810), Prob: 0.0002
+Token: ' intuit' (ID: 96201), Prob: 0.0002
+Token: ' smooth' (ID: 10876), Prob: 0.0001
+Token: ' easily' (ID: 6707), Prob: 0.0001
+Token: ' chron' (ID: 25986), Prob: 0.0001
+Token: ' without' (ID: 2041), Prob: 0.0001
+Token: ' nicely' (ID: 28821), Prob: 0.0001
+Token: ' quickly' (ID: 6157), Prob: 0.0001
+Token: ' comfortably' (ID: 44669), Prob: 0.0001
+Token: ' correctly' (ID: 12440), Prob: 0.0001
+Token: ' like' (ID: 1075), Prob: 0.0000
+Token: ' reasonably' (ID: 28446), Prob: 0.0000
+Token: ' neatly' (ID: 62166), Prob: 0.0000
+Token: ' calmly' (ID: 72070), Prob: 0.0000
+Token: ' gracefully' (ID: 78499), Prob: 0.0000
+Token: ' normally' (ID: 14279), Prob: 0.0000
+Token: ' consistently' (ID: 20699), Prob: 0.0000
+Token: ' narr' (ID: 13408), Prob: 0.0000
+Token: ' appropriately' (ID: 34901), Prob: 0.0000
+Token: ' effectively' (ID: 13444), Prob: 0.0000
+Token: ' gradually' (ID: 26024), Prob: 0.0000
+Token: ' confidently' (ID: 76976), Prob: 0.0000
+Token: ' right' (ID: 1290), Prob: 0.0000
+Token: ' cleanly' (ID: 96875), Prob: 0.0000
+Token: ' visually' (ID: 42295), Prob: 0.0000
+Token: ' back' (ID: 1182), Prob: 0.0000
+Token: ' conc' (ID: 3529), Prob: 0.0000
+Token: ' effortlessly' (ID: 68604), Prob: 0.0000
+Token: ' slowly' (ID: 13970), Prob: 0.0000
+Token: ' within' (ID: 2878), Prob: 0.0000
+Token: ' beautifully' (ID: 31619), Prob: 0.0000
+Token: ' past' (ID: 3267), Prob: 0.0000
+Token: ' together' (ID: 3786), Prob: 0.0000
+Token: ' pretty' (ID: 5020), Prob: 0.0000
+Token: ' linear' (ID: 13482), Prob: 0.0000
+Token: ' accurately' (ID: 29257), Prob: 0.0000
+Token: ' vivid' (ID: 42020), Prob: 0.0000
+Token: ' succinct' (ID: 98632), Prob: 0.0000
+Token: ' flu' (ID: 19660), Prob: 0.0000
+Token: ' around' (ID: 2163), Prob: 0.0000
+Token: ' connect' (ID: 4564), Prob: 0.0000
+Token: ' efficiently' (ID: 29720), Prob: 0.0000
+Token: ' line' (ID: 1555), Prob: 0.0000
+Token: ' continuously' (ID: 30878), Prob: 0.0000
+Token: ' steadily' (ID: 41971), Prob: 0.0000
+Token: ' generally' (ID: 8789), Prob: 0.0000
+Token: ' emotionally' (ID: 37583), Prob: 0.0000
+Token: ' gently' (ID: 29273), Prob: 0.0000
+Token: ' throughout' (ID: 6814), Prob: 0.0000
+Token: ' eleg' (ID: 17720), Prob: 0.0000
+Token: ' better' (ID: 2664), Prob: 0.0000
+Token: ' positively' (ID: 39546), Prob: 0.0000
+Token: ' spontaneously' (ID: 87458), Prob: 0.0000
+Token: ' somehow' (ID: 16925), Prob: 0.0000
+Token: ' starting' (ID: 5916), Prob: 0.0000
+Token: ' perfectly' (ID: 13942), Prob: 0.0000
+Token: ' adequately' (ID: 48572), Prob: 0.0000
+Token: ' successfully' (ID: 7790), Prob: 0.0000
+Token: ' log' (ID: 1487), Prob: 0.0000
+Token: ' based' (ID: 3118), Prob: 0.0000
+Token: ' straightforward' (ID: 30339), Prob: 0.0000
+Token: ' rhythm' (ID: 36290), Prob: 0.0000
 
 == Ranked Concepts (Clusters) ==
-Rank 1 | Centroid: ' message' | Score: 0.9961
-  Tokens: [' message', ' messages', '.message', ' Message', '(message', 'message', '\tmessage', 'Message', '-message', ' messaging', '_message', ' MESSAGE', '.Message']
-Rank 2 | Centroid: ' prompt' | Score: 0.0020
-  Tokens: [' prompt', ' question']
-Rank 3 | Centroid: '/message' | Score: 0.0000
-  Tokens: [':message', '$message', ',message', '=message', '/message', '<message']
-Rank 4 | Centroid: ' phrase' | Score: 0.0000
-  Tokens: [' statement', ' phrase', ' wording']
-Rank 5 | Centroid: ' mes' | Score: 0.0000
-  Tokens: [' mes', ' month']
-Rank 6 | Centroid: ' theme' | Score: 0.0000
-  Tokens: [' motif', ' theme', ' lesson']
-Rank 7 | Centroid: ' answer' | Score: 0.0000
-  Tokens: [' answer', ' response']
-Rank 8 | Centroid: ' point' | Score: 0.0000
-  Tokens: [' point', ' position']
-Rank 9 | Centroid: ' information' | Score: 0.0000
-  Tokens: [' information']
-Rank 10 | Centroid: ' user' | Score: 0.0000
-  Tokens: [' user']
-Rank 11 | Centroid: ' moment' | Score: 0.0000
-  Tokens: [' moment']
-Rank 12 | Centroid: ' maximum' | Score: 0.0000
-  Tokens: [' maximum']
-Rank 13 | Centroid: ' main' | Score: 0.0000
-  Tokens: [' main']
+Rank 1 | Centroid: ' smoothly' | Score: 0.6406
+  Tokens: [' smoothly', ' smooth']
+Rank 2 | Centroid: ' naturally' | Score: 0.2656
+  Tokens: [' naturally', ' natural', ' spontaneously']
+Rank 3 | Centroid: ' pretty' | Score: 0.0219
+  Tokens: [' well', ' pretty', ' better']
+Rank 4 | Centroid: ' visually' | Score: 0.0032
+  Tokens: [' logically', ' intuit', ' visually', ' emotionally']
+Rank 5 | Centroid: ' clearly' | Score: 0.0006
+  Tokens: [' clearly', ' reasonably']
+Rank 6 | Centroid: ' properly' | Score: 0.0004
+  Tokens: [' properly', ' correctly', ' appropriately', ' effectively', ' accurately', ' adequately', ' successfully']
+Rank 7 | Centroid: ' effortlessly' | Score: 0.0004
+  Tokens: [' seamlessly', ' comfortably', ' confidently', ' effortlessly', ' efficiently']
+Rank 8 | Centroid: ' neatly' | Score: 0.0002
+  Tokens: [' nicely', ' neatly', ' gracefully', ' cleanly', ' beautifully', ' perfectly']
+Rank 9 | Centroid: ' within' | Score: 0.0002
+  Tokens: [' without', ' like', ' within', ' together', ' around', ' throughout', ' based']
+Rank 10 | Centroid: ' narr' | Score: 0.0001
+  Tokens: [' chron', ' narr', ' connect', ' rhythm']
+Rank 11 | Centroid: ' easily' | Score: 0.0001
+  Tokens: [' easily', ' straightforward']
+Rank 12 | Centroid: ' quickly' | Score: 0.0001
+  Tokens: [' quickly']
+Rank 13 | Centroid: ' gradually' | Score: 0.0000
+  Tokens: [' calmly', ' gradually', ' slowly', ' continuously', ' steadily', ' gently']
+Rank 14 | Centroid: ' normally' | Score: 0.0000
+  Tokens: [' normally', ' generally']
+Rank 15 | Centroid: ' consistently' | Score: 0.0000
+  Tokens: [' consistently']
+Rank 16 | Centroid: ' starting' | Score: 0.0000
+  Tokens: [' right', ' back', ' past', ' starting']
+Rank 17 | Centroid: ' succinct' | Score: 0.0000
+  Tokens: [' vivid', ' succinct', ' eleg']
+Rank 18 | Centroid: ' conc' | Score: 0.0000
+  Tokens: [' conc', ' flu']
+Rank 19 | Centroid: ' linear' | Score: 0.0000
+  Tokens: [' linear', ' line', ' log']
+Rank 20 | Centroid: ' positively' | Score: 0.0000
+  Tokens: [' positively', ' somehow']
 
 **Chosen Concept:** Rank 1

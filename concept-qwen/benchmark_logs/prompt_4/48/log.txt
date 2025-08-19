@@ -1,66 +1,139 @@
 --- Step 48 Log ---
 
 == Filtered Candidates ==
-Token: ' message' (ID: 1943), Prob: 0.9648
-Token: ' prompt' (ID: 9934), Prob: 0.0074
-Token: ' messages' (ID: 6605), Prob: 0.0014
-Token: '.message' (ID: 6698), Prob: 0.0005
-Token: ' Message' (ID: 4856), Prob: 0.0003
-Token: ' question' (ID: 3405), Prob: 0.0002
-Token: '(message' (ID: 7333), Prob: 0.0002
-Token: 'message' (ID: 1994), Prob: 0.0001
-Token: ' statement' (ID: 5114), Prob: 0.0001
-Token: ' answer' (ID: 4226), Prob: 0.0000
-Token: ':message' (ID: 91473), Prob: 0.0000
-Token: '	message' (ID: 24753), Prob: 0.0000
-Token: ' point' (ID: 1459), Prob: 0.0000
-Token: ' response' (ID: 2033), Prob: 0.0000
-Token: ' information' (ID: 1995), Prob: 0.0000
-Token: 'Message' (ID: 2052), Prob: 0.0000
-Token: ' phrase' (ID: 17133), Prob: 0.0000
-Token: ' user' (ID: 1196), Prob: 0.0000
-Token: ' motif' (ID: 59512), Prob: 0.0000
-Token: ' theme' (ID: 6912), Prob: 0.0000
-Token: ' item' (ID: 1509), Prob: 0.0000
-Token: ' mes' (ID: 10846), Prob: 0.0000
-Token: ' list' (ID: 1140), Prob: 0.0000
-Token: ' content' (ID: 2213), Prob: 0.0000
-Token: ' example' (ID: 3110), Prob: 0.0000
-Token: '_message' (ID: 6462), Prob: 0.0000
-Token: ' sentence' (ID: 11652), Prob: 0.0000
-Token: ' wording' (ID: 60227), Prob: 0.0000
-Token: ' main' (ID: 1887), Prob: 0.0000
+Token: ' sensory' (ID: 47969), Prob: 0.4238
+Token: ' descriptive' (ID: 52844), Prob: 0.2910
+Token: ' vivid' (ID: 42020), Prob: 0.2275
+Token: ' details' (ID: 3565), Prob: 0.0099
+Token: ' words' (ID: 4244), Prob: 0.0025
+Token: ' specific' (ID: 3151), Prob: 0.0011
+Token: ' imagery' (ID: 40445), Prob: 0.0011
+Token: ' verbs' (ID: 61846), Prob: 0.0009
+Token: ' active' (ID: 4541), Prob: 0.0007
+Token: ' senses' (ID: 37107), Prob: 0.0007
+Token: ' action' (ID: 1917), Prob: 0.0005
+Token: ' descriptions' (ID: 27787), Prob: 0.0005
+Token: ' terms' (ID: 3793), Prob: 0.0003
+Token: ' elements' (ID: 5424), Prob: 0.0002
+Token: ' detail' (ID: 7716), Prob: 0.0002
+Token: ' engaging' (ID: 22570), Prob: 0.0002
+Token: ' vocabulary' (ID: 34918), Prob: 0.0001
+Token: ' descriptors' (ID: 47517), Prob: 0.0001
+Token: ' past' (ID: 3267), Prob: 0.0001
+Token: ' strong' (ID: 3746), Prob: 0.0001
+Token: ' actions' (ID: 6168), Prob: 0.0001
+Token: ' emotions' (ID: 21261), Prob: 0.0001
+Token: ' present' (ID: 3042), Prob: 0.0001
+Token: ' description' (ID: 4008), Prob: 0.0001
+Token: ' phrases' (ID: 31747), Prob: 0.0001
+Token: ' sim' (ID: 1643), Prob: 0.0001
+Token: ' appropriate' (ID: 8311), Prob: 0.0001
+Token: ' detailed' (ID: 11682), Prob: 0.0001
+Token: ' dynamic' (ID: 8741), Prob: 0.0000
+Token: ' vibrant' (ID: 32976), Prob: 0.0000
+Token: ' first' (ID: 1156), Prob: 0.0000
+Token: ' sensations' (ID: 71497), Prob: 0.0000
+Token: ' personal' (ID: 4345), Prob: 0.0000
+Token: ' attention' (ID: 6529), Prob: 0.0000
+Token: ' realistic' (ID: 25489), Prob: 0.0000
+Token: ' imagination' (ID: 27799), Prob: 0.0000
+Token: ' transition' (ID: 9142), Prob: 0.0000
+Token: ' simple' (ID: 4285), Prob: 0.0000
+Token: ' proper' (ID: 6169), Prob: 0.0000
+Token: ' lively' (ID: 48177), Prob: 0.0000
+Token: ' natural' (ID: 5810), Prob: 0.0000
+Token: ' positive' (ID: 6785), Prob: 0.0000
+Token: ' activities' (ID: 7488), Prob: 0.0000
+Token: ' names' (ID: 5036), Prob: 0.0000
+Token: ' sounds' (ID: 10362), Prob: 0.0000
+Token: ' sentences' (ID: 22870), Prob: 0.0000
+Token: ' dialogue' (ID: 21276), Prob: 0.0000
+Token: ' key' (ID: 1376), Prob: 0.0000
+Token: ' describing' (ID: 22692), Prob: 0.0000
+Token: ' adventurous' (ID: 67088), Prob: 0.0000
+Token: ' body' (ID: 2487), Prob: 0.0000
+Token: ' season' (ID: 3200), Prob: 0.0000
+Token: ' word' (ID: 3409), Prob: 0.0000
+Token: ' rich' (ID: 9080), Prob: 0.0000
+Token: ' visual' (ID: 9124), Prob: 0.0000
+Token: ' activity' (ID: 5702), Prob: 0.0000
+Token: ' varied' (ID: 27730), Prob: 0.0000
+Token: ' colorful' (ID: 33866), Prob: 0.0000
+Token: ' emojis' (ID: 99066), Prob: 0.0000
+Token: ' interesting' (ID: 7040), Prob: 0.0000
+Token: ' transitions' (ID: 33592), Prob: 0.0000
+Token: ' visuals' (ID: 52977), Prob: 0.0000
+Token: ' poetic' (ID: 75434), Prob: 0.0000
+Token: ' good' (ID: 1661), Prob: 0.0000
+Token: ' language' (ID: 4128), Prob: 0.0000
+Token: ' warm' (ID: 8205), Prob: 0.0000
+Token: ' weather' (ID: 9104), Prob: 0.0000
+Token: ' tense' (ID: 42687), Prob: 0.0000
+Token: ' imaginative' (ID: 76261), Prob: 0.0000
+Token: ' transportation' (ID: 17903), Prob: 0.0000
+Token: ' specifics' (ID: 48349), Prob: 0.0000
+Token: ' images' (ID: 5335), Prob: 0.0000
+Token: ' colors' (ID: 7987), Prob: 0.0000
+Token: ' concrete' (ID: 14175), Prob: 0.0000
+Token: ' precise' (ID: 23560), Prob: 0.0000
+Token: ' sights' (ID: 41166), Prob: 0.0000
+Token: ' storytelling' (ID: 47829), Prob: 0.0000
+Token: ' scenery' (ID: 50231), Prob: 0.0000
+Token: ' typical' (ID: 14260), Prob: 0.0000
+Token: ' emotional' (ID: 14269), Prob: 0.0000
+Token: ' seasons' (ID: 15584), Prob: 0.0000
+Token: ' dramatic' (ID: 21771), Prob: 0.0000
+Token: ' something' (ID: 2494), Prob: 0.0000
+Token: ' immersive' (ID: 64180), Prob: 0.0000
+Token: ' excitement' (ID: 27262), Prob: 0.0000
+Token: ' persuasive' (ID: 65243), Prob: 0.0000
 
 == Ranked Concepts (Clusters) ==
-Rank 1 | Centroid: ' message' | Score: 0.9688
-  Tokens: [' message', ' messages', '.message', ' Message', '(message', 'message', '\tmessage', 'Message', '_message']
-Rank 2 | Centroid: ' prompt' | Score: 0.0074
-  Tokens: [' prompt']
-Rank 3 | Centroid: ' question' | Score: 0.0002
-  Tokens: [' question']
-Rank 4 | Centroid: ' phrase' | Score: 0.0001
-  Tokens: [' statement', ' phrase', ' sentence', ' wording']
-Rank 5 | Centroid: ' answer' | Score: 0.0001
-  Tokens: [' answer', ' response']
-Rank 6 | Centroid: ' information' | Score: 0.0000
-  Tokens: [' information', ' content']
-Rank 7 | Centroid: ' motif' | Score: 0.0000
-  Tokens: [' motif', ' theme']
-Rank 8 | Centroid: ':message' | Score: 0.0000
-  Tokens: [':message']
-Rank 9 | Centroid: ' point' | Score: 0.0000
-  Tokens: [' point']
-Rank 10 | Centroid: ' user' | Score: 0.0000
-  Tokens: [' user']
-Rank 11 | Centroid: ' item' | Score: 0.0000
-  Tokens: [' item']
-Rank 12 | Centroid: ' mes' | Score: 0.0000
-  Tokens: [' mes']
-Rank 13 | Centroid: ' list' | Score: 0.0000
-  Tokens: [' list']
-Rank 14 | Centroid: ' example' | Score: 0.0000
-  Tokens: [' example']
-Rank 15 | Centroid: ' main' | Score: 0.0000
-  Tokens: [' main']
+Rank 1 | Centroid: ' emotions' | Score: 0.4238
+  Tokens: [' sensory', ' senses', ' emotions', ' sensations', ' emotional']
+Rank 2 | Centroid: ' descriptions' | Score: 0.2910
+  Tokens: [' descriptive', ' descriptions', ' descriptors', ' description', ' describing']
+Rank 3 | Centroid: ' vibrant' | Score: 0.2275
+  Tokens: [' vivid', ' engaging', ' dynamic', ' vibrant', ' lively', ' varied', ' colorful', ' interesting']
+Rank 4 | Centroid: ' details' | Score: 0.0103
+  Tokens: [' details', ' detail', ' detailed', ' specifics']
+Rank 5 | Centroid: ' words' | Score: 0.0037
+  Tokens: [' words', ' verbs', ' vocabulary', ' phrases', ' sentences', ' word', ' language']
+Rank 6 | Centroid: ' activities' | Score: 0.0014
+  Tokens: [' active', ' action', ' actions', ' activities', ' activity']
+Rank 7 | Centroid: ' visuals' | Score: 0.0011
+  Tokens: [' imagery', ' visual', ' visuals', ' images']
+Rank 8 | Centroid: ' concrete' | Score: 0.0011
+  Tokens: [' specific', ' concrete', ' precise']
+Rank 9 | Centroid: ' terms' | Score: 0.0006
+  Tokens: [' terms', ' elements', ' names']
+Rank 10 | Centroid: ' first' | Score: 0.0003
+  Tokens: [' past', ' present', ' first', ' key']
+Rank 11 | Centroid: ' typical' | Score: 0.0002
+  Tokens: [' appropriate', ' personal', ' simple', ' proper', ' natural', ' positive', ' good', ' typical']
+Rank 12 | Centroid: ' strong' | Score: 0.0001
+  Tokens: [' strong', ' rich', ' warm']
+Rank 13 | Centroid: ' imaginative' | Score: 0.0001
+  Tokens: [' realistic', ' adventurous', ' poetic', ' imaginative', ' dramatic', ' immersive', ' excitement', ' persuasive']
+Rank 14 | Centroid: ' sim' | Score: 0.0001
+  Tokens: [' sim']
+Rank 15 | Centroid: ' transitions' | Score: 0.0000
+  Tokens: [' transition', ' transitions', ' transportation']
+Rank 16 | Centroid: ' imagination' | Score: 0.0000
+  Tokens: [' imagination', ' storytelling']
+Rank 17 | Centroid: ' attention' | Score: 0.0000
+  Tokens: [' attention']
+Rank 18 | Centroid: ' colors' | Score: 0.0000
+  Tokens: [' sounds', ' colors', ' sights']
+Rank 19 | Centroid: ' seasons' | Score: 0.0000
+  Tokens: [' season', ' weather', ' seasons']
+Rank 20 | Centroid: ' body' | Score: 0.0000
+  Tokens: [' body', ' something']
+Rank 21 | Centroid: ' emojis' | Score: 0.0000
+  Tokens: [' emojis', ' scenery']
+Rank 22 | Centroid: ' dialogue' | Score: 0.0000
+  Tokens: [' dialogue']
+Rank 23 | Centroid: ' tense' | Score: 0.0000
+  Tokens: [' tense']
 
 **Chosen Concept:** Rank 1

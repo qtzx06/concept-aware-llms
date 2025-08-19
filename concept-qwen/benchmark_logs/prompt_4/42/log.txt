@@ -1,66 +1,140 @@
 --- Step 42 Log ---
 
 == Filtered Candidates ==
-Token: ' message' (ID: 1943), Prob: 0.9648
-Token: ' prompt' (ID: 9934), Prob: 0.0084
-Token: ' messages' (ID: 6605), Prob: 0.0014
-Token: '.message' (ID: 6698), Prob: 0.0005
-Token: ' Message' (ID: 4856), Prob: 0.0002
-Token: ' question' (ID: 3405), Prob: 0.0002
-Token: '(message' (ID: 7333), Prob: 0.0002
-Token: 'message' (ID: 1994), Prob: 0.0001
-Token: ' statement' (ID: 5114), Prob: 0.0001
-Token: ' answer' (ID: 4226), Prob: 0.0000
-Token: ' response' (ID: 2033), Prob: 0.0000
+Token: ' like' (ID: 1075), Prob: 0.7695
+Token: ' describe' (ID: 7512), Prob: 0.0076
+Token: ' introduce' (ID: 19131), Prob: 0.0006
+Token: ' describing' (ID: 22692), Prob: 0.0006
+Token: ' something' (ID: 2494), Prob: 0.0004
+Token: ' maybe' (ID: 7196), Prob: 0.0003
+Token: ' mention' (ID: 6286), Prob: 0.0002
+Token: ' description' (ID: 4008), Prob: 0.0002
+Token: ' location' (ID: 3728), Prob: 0.0001
+Token: ' time' (ID: 882), Prob: 0.0001
+Token: ' perhaps' (ID: 8365), Prob: 0.0001
+Token: ' use' (ID: 990), Prob: 0.0001
+Token: ' name' (ID: 829), Prob: 0.0001
+Token: ' show' (ID: 1473), Prob: 0.0001
+Token: ' followed' (ID: 8110), Prob: 0.0001
+Token: ' seasons' (ID: 15584), Prob: 0.0001
+Token: ' weather' (ID: 9104), Prob: 0.0001
+Token: ' talk' (ID: 3061), Prob: 0.0001
+Token: ' get' (ID: 633), Prob: 0.0001
+Token: ' parks' (ID: 26845), Prob: 0.0001
+Token: ' descriptions' (ID: 27787), Prob: 0.0001
+Token: ' say' (ID: 1977), Prob: 0.0001
+Token: ' sun' (ID: 7015), Prob: 0.0000
+Token: ' showing' (ID: 9027), Prob: 0.0000
+Token: ' arrival' (ID: 18647), Prob: 0.0000
+Token: ' set' (ID: 738), Prob: 0.0000
+Token: ' kind' (ID: 3093), Prob: 0.0000
+Token: ' names' (ID: 5036), Prob: 0.0000
+Token: ' setting' (ID: 6243), Prob: 0.0000
+Token: ' hike' (ID: 34231), Prob: 0.0000
+Token: ' season' (ID: 3200), Prob: 0.0000
+Token: ' establish' (ID: 5695), Prob: 0.0000
+Token: ' attractions' (ID: 38491), Prob: 0.0000
+Token: ' introducing' (ID: 31918), Prob: 0.0000
+Token: ' landmarks' (ID: 59924), Prob: 0.0000
+Token: ' things' (ID: 2513), Prob: 0.0000
+Token: ' including' (ID: 2670), Prob: 0.0000
+Token: ' add' (ID: 912), Prob: 0.0000
+Token: ' place' (ID: 1992), Prob: 0.0000
+Token: ' environment' (ID: 4573), Prob: 0.0000
+Token: ' park' (ID: 6118), Prob: 0.0000
+Token: ' action' (ID: 1917), Prob: 0.0000
+Token: ' nature' (ID: 6993), Prob: 0.0000
+Token: ' activities' (ID: 7488), Prob: 0.0000
+Token: ' highlighting' (ID: 38586), Prob: 0.0000
+Token: ' using' (ID: 1667), Prob: 0.0000
+Token: ' details' (ID: 3565), Prob: 0.0000
+Token: ' pine' (ID: 33597), Prob: 0.0000
+Token: ' highlight' (ID: 11167), Prob: 0.0000
+Token: ' surroundings' (ID: 39090), Prob: 0.0000
+Token: ' present' (ID: 3042), Prob: 0.0000
+Token: ' travel' (ID: 5821), Prob: 0.0000
+Token: ' likes' (ID: 13151), Prob: 0.0000
+Token: ' arriving' (ID: 32011), Prob: 0.0000
+Token: ' type' (ID: 943), Prob: 0.0000
+Token: ' state' (ID: 1584), Prob: 0.0000
+Token: ' since' (ID: 2474), Prob: 0.0000
+Token: ' include' (ID: 2924), Prob: 0.0000
 Token: ' point' (ID: 1459), Prob: 0.0000
-Token: ':message' (ID: 91473), Prob: 0.0000
-Token: ' item' (ID: 1509), Prob: 0.0000
-Token: ' information' (ID: 1995), Prob: 0.0000
-Token: 'Message' (ID: 2052), Prob: 0.0000
-Token: '	message' (ID: 24753), Prob: 0.0000
-Token: ' list' (ID: 1140), Prob: 0.0000
-Token: ' phrase' (ID: 17133), Prob: 0.0000
-Token: ' user' (ID: 1196), Prob: 0.0000
-Token: ' example' (ID: 3110), Prob: 0.0000
-Token: ' content' (ID: 2213), Prob: 0.0000
-Token: ' theme' (ID: 6912), Prob: 0.0000
-Token: ' sentence' (ID: 11652), Prob: 0.0000
-Token: ' motif' (ID: 59512), Prob: 0.0000
-Token: ' description' (ID: 4008), Prob: 0.0000
-Token: ' mes' (ID: 10846), Prob: 0.0000
-Token: '-message' (ID: 29332), Prob: 0.0000
-Token: ' please' (ID: 4486), Prob: 0.0000
-Token: '_message' (ID: 6462), Prob: 0.0000
-Token: ' wording' (ID: 60227), Prob: 0.0000
+Token: ' transition' (ID: 9142), Prob: 0.0000
+Token: ' going' (ID: 2087), Prob: 0.0000
+Token: ' activity' (ID: 5702), Prob: 0.0000
+Token: ' heading' (ID: 14496), Prob: 0.0000
+Token: ' excitement' (ID: 27262), Prob: 0.0000
+Token: ' scenery' (ID: 50231), Prob: 0.0000
+Token: ' title' (ID: 2265), Prob: 0.0000
+Token: ' visit' (ID: 3947), Prob: 0.0000
+Token: ' atmosphere' (ID: 16566), Prob: 0.0000
+Token: ' people' (ID: 1251), Prob: 0.0000
+Token: ' compare' (ID: 9429), Prob: 0.0000
+Token: ' sounds' (ID: 10362), Prob: 0.0000
+Token: ' paint' (ID: 6177), Prob: 0.0000
+Token: ' transportation' (ID: 17903), Prob: 0.0000
+Token: ' characters' (ID: 5766), Prob: 0.0000
+Token: ' natural' (ID: 5810), Prob: 0.0000
+Token: ' eag' (ID: 78240), Prob: 0.0000
+Token: ' getting' (ID: 3709), Prob: 0.0000
+Token: ' explore' (ID: 13186), Prob: 0.0000
+Token: ' attraction' (ID: 32364), Prob: 0.0000
+Token: ' vivid' (ID: 42020), Prob: 0.0000
+Token: ' day' (ID: 1899), Prob: 0.0000
 
 == Ranked Concepts (Clusters) ==
-Rank 1 | Centroid: ' message' | Score: 0.9688
-  Tokens: [' message', ' messages', '.message', ' Message', '(message', 'message', 'Message', '\tmessage', '-message', '_message']
-Rank 2 | Centroid: ' prompt' | Score: 0.0085
-  Tokens: [' prompt', ' question']
-Rank 3 | Centroid: ' phrase' | Score: 0.0001
-  Tokens: [' statement', ' phrase', ' sentence', ' wording']
-Rank 4 | Centroid: ' answer' | Score: 0.0001
-  Tokens: [' answer', ' response']
-Rank 5 | Centroid: ' information' | Score: 0.0000
-  Tokens: [' information', ' description']
-Rank 6 | Centroid: ' list' | Score: 0.0000
-  Tokens: [' list', ' mes']
-Rank 7 | Centroid: ' theme' | Score: 0.0000
-  Tokens: [' theme', ' motif']
-Rank 8 | Centroid: ' point' | Score: 0.0000
-  Tokens: [' point']
-Rank 9 | Centroid: ':message' | Score: 0.0000
-  Tokens: [':message']
-Rank 10 | Centroid: ' item' | Score: 0.0000
-  Tokens: [' item']
-Rank 11 | Centroid: ' example' | Score: 0.0000
-  Tokens: [' example']
-Rank 12 | Centroid: ' user' | Score: 0.0000
-  Tokens: [' user']
-Rank 13 | Centroid: ' content' | Score: 0.0000
-  Tokens: [' content']
-Rank 14 | Centroid: ' please' | Score: 0.0000
-  Tokens: [' please']
+Rank 1 | Centroid: ' like' | Score: 0.7695
+  Tokens: [' like', ' likes', ' since']
+Rank 2 | Centroid: ' descriptions' | Score: 0.0084
+  Tokens: [' describe', ' describing', ' description', ' descriptions', ' details']
+Rank 3 | Centroid: ' maybe' | Score: 0.0008
+  Tokens: [' something', ' maybe', ' perhaps', ' things', ' people']
+Rank 4 | Centroid: ' explore' | Score: 0.0007
+  Tokens: [' introduce', ' establish', ' compare', ' explore']
+Rank 5 | Centroid: ' season' | Score: 0.0002
+  Tokens: [' seasons', ' weather', ' sun', ' season', ' pine']
+Rank 6 | Centroid: ' mention' | Score: 0.0002
+  Tokens: [' mention']
+Rank 7 | Centroid: ' showing' | Score: 0.0002
+  Tokens: [' show', ' showing', ' highlighting', ' highlight']
+Rank 8 | Centroid: ' park' | Score: 0.0002
+  Tokens: [' parks', ' hike', ' park', ' travel', ' visit']
+Rank 9 | Centroid: ' including' | Score: 0.0001
+  Tokens: [' followed', ' including', ' using', ' include']
+Rank 10 | Centroid: ' name' | Score: 0.0001
+  Tokens: [' name', ' names', ' title']
+Rank 11 | Centroid: ' time' | Score: 0.0001
+  Tokens: [' time', ' day']
+Rank 12 | Centroid: ' talk' | Score: 0.0001
+  Tokens: [' talk', ' say']
+Rank 13 | Centroid: ' use' | Score: 0.0001
+  Tokens: [' use', ' add']
+Rank 14 | Centroid: ' location' | Score: 0.0001
+  Tokens: [' location']
+Rank 15 | Centroid: ' attractions' | Score: 0.0001
+  Tokens: [' attractions', ' landmarks', ' excitement', ' scenery', ' eag', ' attraction']
+Rank 16 | Centroid: ' point' | Score: 0.0001
+  Tokens: [' set', ' place', ' present', ' state', ' point']
+Rank 17 | Centroid: ' environment' | Score: 0.0001
+  Tokens: [' setting', ' environment', ' surroundings', ' atmosphere']
+Rank 18 | Centroid: ' arriving' | Score: 0.0001
+  Tokens: [' arrival', ' introducing', ' arriving']
+Rank 19 | Centroid: ' getting' | Score: 0.0001
+  Tokens: [' get', ' going', ' getting']
+Rank 20 | Centroid: ' activity' | Score: 0.0001
+  Tokens: [' action', ' activities', ' activity']
+Rank 21 | Centroid: ' kind' | Score: 0.0001
+  Tokens: [' kind', ' type']
+Rank 22 | Centroid: ' natural' | Score: 0.0001
+  Tokens: [' nature', ' transition', ' natural']
+Rank 23 | Centroid: ' heading' | Score: 0.0000
+  Tokens: [' heading', ' vivid']
+Rank 24 | Centroid: ' sounds' | Score: 0.0000
+  Tokens: [' sounds', ' characters']
+Rank 25 | Centroid: ' transportation' | Score: 0.0000
+  Tokens: [' transportation']
+Rank 26 | Centroid: ' paint' | Score: 0.0000
+  Tokens: [' paint']
 
 **Chosen Concept:** Rank 1

@@ -1,71 +1,69 @@
 --- Step 133 Log ---
 
 == Filtered Candidates ==
-Token: ' prompt' (ID: 9934), Prob: 0.9922
-Token: ' message' (ID: 1943), Prob: 0.0022
-Token: ' Prompt' (ID: 59501), Prob: 0.0003
-Token: ' prompts' (ID: 50932), Prob: 0.0001
-Token: '(prompt' (ID: 72253), Prob: 0.0001
-Token: 'prompt' (ID: 40581), Prob: 0.0001
-Token: ' question' (ID: 3405), Prob: 0.0000
-Token: ' potential' (ID: 4650), Prob: 0.0000
-Token: 'Prompt' (ID: 54615), Prob: 0.0000
-Token: ' prompting' (ID: 49645), Prob: 0.0000
-Token: ' prompted' (ID: 28646), Prob: 0.0000
-Token: '_prompt' (ID: 61421), Prob: 0.0000
-Token: ' motif' (ID: 59512), Prob: 0.0000
-Token: ' promise' (ID: 11222), Prob: 0.0000
-Token: ' prom' (ID: 2706), Prob: 0.0000
-Token: ' hint' (ID: 13012), Prob: 0.0000
-Token: ' within' (ID: 2878), Prob: 0.0000
-Token: ' keyword' (ID: 16174), Prob: 0.0000
-Token: ' point' (ID: 1459), Prob: 0.0000
-Token: ' theme' (ID: 6912), Prob: 0.0000
-Token: ' topic' (ID: 8544), Prob: 0.0000
-Token: ' promotion' (ID: 20249), Prob: 0.0000
-Token: '.prompt' (ID: 65399), Prob: 0.0000
-Token: ' position' (ID: 2309), Prob: 0.0000
-Token: ' mood' (ID: 19671), Prob: 0.0000
-Token: ' wording' (ID: 60227), Prob: 0.0000
-Token: ' priority' (ID: 10619), Prob: 0.0000
-Token: ' messages' (ID: 6605), Prob: 0.0000
-Token: ' option' (ID: 2999), Prob: 0.0000
-Token: ' list' (ID: 1140), Prob: 0.0000
-Token: ' title' (ID: 2265), Prob: 0.0000
-Token: ' possible' (ID: 3204), Prob: 0.0000
+Token: 'Okay' (ID: 32313), Prob: 0.0447
+Token: 'Alright' (ID: 71486), Prob: 0.0113
+Token: 'Answer' (ID: 16141), Prob: 0.0106
+Token: 'Wait' (ID: 14190), Prob: 0.0013
+Token: 'Winner' (ID: 50955), Prob: 0.0006
+Token: 'Chapter' (ID: 25020), Prob: 0.0005
+Token: 'Monday' (ID: 35239), Prob: 0.0004
+Token: 'Week' (ID: 17053), Prob: 0.0004
+Token: 'Key' (ID: 1592), Prob: 0.0003
+Token: 'Final' (ID: 19357), Prob: 0.0003
+Token: 'Current' (ID: 5405), Prob: 0.0002
+Token: 'Hmm' (ID: 80022), Prob: 0.0002
+Token: 'Yes' (ID: 9454), Prob: 0.0002
+Token: 'Response' (ID: 2582), Prob: 0.0002
+Token: 'Responsive' (ID: 78795), Prob: 0.0002
+Token: '"The' (ID: 10022), Prob: 0.0002
+Token: 'First' (ID: 5338), Prob: 0.0001
+Token: 'responsive' (ID: 51297), Prob: 0.0001
+Token: 'Title' (ID: 3851), Prob: 0.0001
+Token: 'Let' (ID: 10061), Prob: 0.0001
+Token: 'Great' (ID: 21396), Prob: 0.0001
+Token: 'Haunted' (ID: 96757), Prob: 0.0001
+Token: 'Mar' (ID: 12061), Prob: 0.0001
+Token: 'Even' (ID: 13159), Prob: 0.0001
+Token: 'Example' (ID: 13314), Prob: 0.0001
+Token: 'Lim' (ID: 51938), Prob: 0.0001
 
 == Ranked Concepts (Clusters) ==
-Rank 1 | Centroid: 'Prompt' | Score: 0.9922
-  Tokens: [' prompt', ' Prompt', '(prompt', 'prompt', 'Prompt', '_prompt', '.prompt']
-Rank 2 | Centroid: ' message' | Score: 0.0022
-  Tokens: [' message', ' messages']
-Rank 3 | Centroid: ' prompts' | Score: 0.0002
-  Tokens: [' prompts', ' prompting', ' prompted']
-Rank 4 | Centroid: ' question' | Score: 0.0000
-  Tokens: [' question']
-Rank 5 | Centroid: ' potential' | Score: 0.0000
-  Tokens: [' potential', ' possible']
-Rank 6 | Centroid: ' prom' | Score: 0.0000
-  Tokens: [' promise', ' prom', ' promotion']
-Rank 7 | Centroid: ' theme' | Score: 0.0000
-  Tokens: [' motif', ' theme', ' topic']
-Rank 8 | Centroid: ' keyword' | Score: 0.0000
-  Tokens: [' keyword', ' wording']
-Rank 9 | Centroid: ' mood' | Score: 0.0000
-  Tokens: [' mood', ' priority']
-Rank 10 | Centroid: ' hint' | Score: 0.0000
-  Tokens: [' hint']
-Rank 11 | Centroid: ' within' | Score: 0.0000
-  Tokens: [' within']
-Rank 12 | Centroid: ' point' | Score: 0.0000
-  Tokens: [' point']
-Rank 13 | Centroid: ' position' | Score: 0.0000
-  Tokens: [' position']
-Rank 14 | Centroid: ' option' | Score: 0.0000
-  Tokens: [' option']
-Rank 15 | Centroid: ' title' | Score: 0.0000
-  Tokens: [' title']
-Rank 16 | Centroid: ' list' | Score: 0.0000
-  Tokens: [' list']
+Rank 1 | Centroid: 'Okay' | Score: 0.0562
+  Tokens: ['Okay', 'Alright', 'Hmm']
+Rank 2 | Centroid: 'Answer' | Score: 0.0106
+  Tokens: ['Answer']
+Rank 3 | Centroid: 'Wait' | Score: 0.0013
+  Tokens: ['Wait']
+Rank 4 | Centroid: 'Monday' | Score: 0.0008
+  Tokens: ['Monday', 'Week']
+Rank 5 | Centroid: 'Chapter' | Score: 0.0006
+  Tokens: ['Chapter', 'Example']
+Rank 6 | Centroid: 'Winner' | Score: 0.0006
+  Tokens: ['Winner']
+Rank 7 | Centroid: 'Responsive' | Score: 0.0005
+  Tokens: ['Response', 'Responsive', 'responsive']
+Rank 8 | Centroid: 'Final' | Score: 0.0004
+  Tokens: ['Final', 'First']
+Rank 9 | Centroid: 'Key' | Score: 0.0003
+  Tokens: ['Key']
+Rank 10 | Centroid: 'Mar' | Score: 0.0002
+  Tokens: ['Mar', 'Lim']
+Rank 11 | Centroid: 'Current' | Score: 0.0002
+  Tokens: ['Current']
+Rank 12 | Centroid: 'Yes' | Score: 0.0002
+  Tokens: ['Yes']
+Rank 13 | Centroid: '"The' | Score: 0.0002
+  Tokens: ['"The']
+Rank 14 | Centroid: 'Haunted' | Score: 0.0001
+  Tokens: ['Haunted']
+Rank 15 | Centroid: 'Great' | Score: 0.0001
+  Tokens: ['Great']
+Rank 16 | Centroid: 'Title' | Score: 0.0001
+  Tokens: ['Title']
+Rank 17 | Centroid: 'Let' | Score: 0.0001
+  Tokens: ['Let']
+Rank 18 | Centroid: 'Even' | Score: 0.0001
+  Tokens: ['Even']
 
 **Chosen Concept:** Rank 1

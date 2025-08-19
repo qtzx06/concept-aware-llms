@@ -1,0 +1,109 @@
+--- Step 143 Log ---
+
+== Filtered Candidates ==
+Token: ' set' (ID: 738), Prob: 0.9414
+Token: ' outside' (ID: 4889), Prob: 0.0172
+Token: ' setting' (ID: 6243), Prob: 0.0172
+Token: ' within' (ID: 2878), Prob: 0.0007
+Token: ' related' (ID: 5435), Prob: 0.0003
+Token: ' inside' (ID: 4766), Prob: 0.0003
+Token: ' different' (ID: 2155), Prob: 0.0001
+Token: ' similar' (ID: 4428), Prob: 0.0001
+Token: ' elsewhere' (ID: 17920), Prob: 0.0001
+Token: ' separate' (ID: 8651), Prob: 0.0001
+Token: ' near' (ID: 3143), Prob: 0.0001
+Token: ' based' (ID: 3118), Prob: 0.0001
+Token: ' involving' (ID: 15860), Prob: 0.0001
+Token: ' centered' (ID: 30188), Prob: 0.0001
+Token: ' opposite' (ID: 14002), Prob: 0.0001
+Token: ' external' (ID: 9250), Prob: 0.0000
+Token: '-setting' (ID: 60456), Prob: 0.0000
+Token: ' located' (ID: 7407), Prob: 0.0000
+Token: ' outdoors' (ID: 33532), Prob: 0.0000
+Token: ' featuring' (ID: 16445), Prob: 0.0000
+Token: ' exterior' (ID: 27263), Prob: 0.0000
+Token: ' setup' (ID: 6505), Prob: 0.0000
+Token: ' sets' (ID: 7289), Prob: 0.0000
+Token: ' beyond' (ID: 7797), Prob: 0.0000
+Token: ' without' (ID: 2041), Prob: 0.0000
+Token: ' full' (ID: 2480), Prob: 0.0000
+Token: ' unrelated' (ID: 45205), Prob: 0.0000
+Token: ' scene' (ID: 6109), Prob: 0.0000
+Token: ' using' (ID: 1667), Prob: 0.0000
+Token: ' representing' (ID: 14064), Prob: 0.0000
+Token: ' describing' (ID: 22692), Prob: 0.0000
+Token: ' showing' (ID: 9027), Prob: 0.0000
+Token: ' away' (ID: 3123), Prob: 0.0000
+Token: ' meeting' (ID: 6438), Prob: 0.0000
+Token: ' placed' (ID: 9099), Prob: 0.0000
+Token: ' settings' (ID: 5003), Prob: 0.0000
+Token: ' starting' (ID: 5916), Prob: 0.0000
+Token: ' following' (ID: 2701), Prob: 0.0000
+Token: ' close' (ID: 3265), Prob: 0.0000
+Token: ' focused' (ID: 10735), Prob: 0.0000
+Token: ' specific' (ID: 3151), Prob: 0.0000
+Token: ' facing' (ID: 12880), Prob: 0.0000
+Token: ' surrounding' (ID: 14590), Prob: 0.0000
+Token: ' outdoor' (ID: 15789), Prob: 0.0000
+Token: ' relating' (ID: 22527), Prob: 0.0000
+Token: ' adjacent' (ID: 23942), Prob: 0.0000
+Token: ' filled' (ID: 10199), Prob: 0.0000
+Token: ' inspired' (ID: 14606), Prob: 0.0000
+Token: ' one' (ID: 825), Prob: 0.0000
+Token: ' free' (ID: 1910), Prob: 0.0000
+Token: ' across' (ID: 3941), Prob: 0.0000
+Token: ' overlooking' (ID: 52224), Prob: 0.0000
+Token: ' Set' (ID: 2573), Prob: 0.0000
+Token: ' designed' (ID: 6188), Prob: 0.0000
+Token: ' sitting' (ID: 11699), Prob: 0.0000
+Token: ' directly' (ID: 5961), Prob: 0.0000
+Token: ' described' (ID: 7481), Prob: 0.0000
+Token: ' containing' (ID: 8482), Prob: 0.0000
+Token: ' surrounded' (ID: 22865), Prob: 0.0000
+Token: ' somewhere' (ID: 14696), Prob: 0.0000
+Token: ' found' (ID: 1730), Prob: 0.0000
+Token: ' around' (ID: 2163), Prob: 0.0000
+Token: '-set' (ID: 24096), Prob: 0.0000
+Token: ' situated' (ID: 30083), Prob: 0.0000
+Token: ' reflecting' (ID: 41752), Prob: 0.0000
+Token: ' depicting' (ID: 59694), Prob: 0.0000
+
+== Ranked Concepts (Clusters) ==
+Rank 1 | Centroid: ' Set' | Score: 0.9414
+  Tokens: [' set', ' sets', ' Set', '-set']
+Rank 2 | Centroid: ' outside' | Score: 0.0173
+  Tokens: [' outside', ' external', ' outdoors', ' exterior', ' outdoor']
+Rank 3 | Centroid: ' setting' | Score: 0.0173
+  Tokens: [' setting', '-setting', ' setup', ' settings']
+Rank 4 | Centroid: ' within' | Score: 0.0010
+  Tokens: [' within', ' inside']
+Rank 5 | Centroid: ' related' | Score: 0.0005
+  Tokens: [' related', ' similar', ' unrelated']
+Rank 6 | Centroid: ' separate' | Score: 0.0003
+  Tokens: [' different', ' separate', ' opposite']
+Rank 7 | Centroid: ' depicting' | Score: 0.0002
+  Tokens: [' involving', ' featuring', ' representing', ' describing', ' showing', ' relating', ' containing', ' reflecting', ' depicting']
+Rank 8 | Centroid: ' focused' | Score: 0.0002
+  Tokens: [' based', ' centered', ' focused', ' filled', ' inspired', ' designed']
+Rank 9 | Centroid: ' elsewhere' | Score: 0.0001
+  Tokens: [' elsewhere', ' somewhere']
+Rank 10 | Centroid: ' near' | Score: 0.0001
+  Tokens: [' near', ' close', ' around']
+Rank 11 | Centroid: ' located' | Score: 0.0001
+  Tokens: [' located', ' placed', ' described', ' found', ' situated']
+Rank 12 | Centroid: ' beyond' | Score: 0.0001
+  Tokens: [' beyond', ' without', ' away', ' across']
+Rank 13 | Centroid: ' using' | Score: 0.0001
+  Tokens: [' using', ' meeting', ' starting', ' following']
+Rank 14 | Centroid: ' full' | Score: 0.0000
+  Tokens: [' full', ' free']
+Rank 15 | Centroid: ' facing' | Score: 0.0000
+  Tokens: [' facing', ' overlooking', ' sitting']
+Rank 16 | Centroid: ' surrounding' | Score: 0.0000
+  Tokens: [' surrounding', ' adjacent', ' surrounded']
+Rank 17 | Centroid: ' specific' | Score: 0.0000
+  Tokens: [' specific', ' one', ' directly']
+Rank 18 | Centroid: ' scene' | Score: 0.0000
+  Tokens: [' scene']
+
+**Chosen Concept:** Rank 1

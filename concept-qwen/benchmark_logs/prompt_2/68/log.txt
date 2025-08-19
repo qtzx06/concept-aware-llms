@@ -1,82 +1,115 @@
 --- Step 68 Log ---
 
 == Filtered Candidates ==
-Token: ' yes' (ID: 9834), Prob: 0.8125
-Token: ' yeah' (ID: 21639), Prob: 0.0004
-Token: ' maybe' (ID: 7196), Prob: 0.0002
-Token: ' something' (ID: 2494), Prob: 0.0002
-Token: ' hello' (ID: 23811), Prob: 0.0001
-Token: ' etc' (ID: 4992), Prob: 0.0001
-Token: ' exactly' (ID: 6896), Prob: 0.0001
-Token: ' nothing' (ID: 4302), Prob: 0.0001
-Token: ' negative' (ID: 8225), Prob: 0.0001
-Token: ' also' (ID: 1083), Prob: 0.0001
-Token: ' wait' (ID: 3783), Prob: 0.0000
-Token: ' okay' (ID: 16910), Prob: 0.0000
-Token: ' Yes' (ID: 7414), Prob: 0.0000
-Token: 'yes' (ID: 9693), Prob: 0.0000
-Token: ' positive' (ID: 6785), Prob: 0.0000
-Token: ' answer' (ID: 4226), Prob: 0.0000
-Token: ' whether' (ID: 3425), Prob: 0.0000
-Token: ' none' (ID: 6857), Prob: 0.0000
-Token: ' one' (ID: 825), Prob: 0.0000
-Token: ' YES' (ID: 14080), Prob: 0.0000
-Token: ' say' (ID: 1977), Prob: 0.0000
-Token: ' always' (ID: 2677), Prob: 0.0000
-Token: '=yes' (ID: 59565), Prob: 0.0000
-Token: ' sure' (ID: 2704), Prob: 0.0000
-Token: ' unknown' (ID: 9788), Prob: 0.0000
-Token: ' without' (ID: 2041), Prob: 0.0000
-Token: ' possible' (ID: 3204), Prob: 0.0000
-Token: ' depends' (ID: 13798), Prob: 0.0000
-Token: ' correct' (ID: 4396), Prob: 0.0000
-Token: ' either' (ID: 2987), Prob: 0.0000
-Token: ' another' (ID: 2441), Prob: 0.0000
+Token: ' everything' (ID: 4297), Prob: 0.0014
+Token: ' emotions' (ID: 21261), Prob: 0.0000
+Token: ' everyone' (ID: 5019), Prob: 0.0000
+Token: ' emotional' (ID: 14269), Prob: 0.0000
+Token: ' words' (ID: 4244), Prob: 0.0000
+Token: ' keywords' (ID: 20844), Prob: 0.0000
+Token: ' key' (ID: 1376), Prob: 0.0000
+Token: ' emojis' (ID: 99066), Prob: 0.0000
+Token: ' emoji' (ID: 42365), Prob: 0.0000
+Token: ' every' (ID: 1449), Prob: 0.0000
+Token: ' emotion' (ID: 19772), Prob: 0.0000
+Token: ' nothing' (ID: 4302), Prob: 0.0000
+Token: ' things' (ID: 2513), Prob: 0.0000
+Token: ' sentences' (ID: 22870), Prob: 0.0000
+Token: ' placeholders' (ID: 78428), Prob: 0.0000
+Token: ' emotionally' (ID: 37583), Prob: 0.0000
+Token: ' personal' (ID: 4345), Prob: 0.0000
+Token: ' time' (ID: 882), Prob: 0.0000
+Token: ' dates' (ID: 12713), Prob: 0.0000
+Token: ' percentages' (ID: 53108), Prob: 0.0000
+Token: ' natural' (ID: 5810), Prob: 0.0000
+Token: ' sentence' (ID: 11652), Prob: 0.0000
+Token: ' clarity' (ID: 31273), Prob: 0.0000
+Token: ' names' (ID: 5036), Prob: 0.0000
+Token: ' people' (ID: 1251), Prob: 0.0000
+Token: ' tone' (ID: 16232), Prob: 0.0000
+Token: ' punctuation' (ID: 61503), Prob: 0.0000
+Token: ' mention' (ID: 6286), Prob: 0.0000
+Token: ' something' (ID: 2494), Prob: 0.0000
+Token: ' dialogue' (ID: 21276), Prob: 0.0000
+Token: ' repetition' (ID: 53415), Prob: 0.0000
+Token: ' proper' (ID: 6169), Prob: 0.0000
+Token: ' quotes' (ID: 17194), Prob: 0.0000
+Token: ' emphasis' (ID: 24654), Prob: 0.0000
+Token: ' connecting' (ID: 20913), Prob: 0.0000
+Token: ' phrases' (ID: 31747), Prob: 0.0000
+Token: ' context' (ID: 2266), Prob: 0.0000
+Token: ' metaphor' (ID: 45350), Prob: 0.0000
+Token: ' parts' (ID: 5479), Prob: 0.0000
+Token: ' adding' (ID: 7842), Prob: 0.0000
+Token: ' connectors' (ID: 57070), Prob: 0.0000
 Token: ' enough' (ID: 3322), Prob: 0.0000
-Token: ' even' (ID: 1496), Prob: 0.0000
-Token: ' please' (ID: 4486), Prob: 0.0000
-Token: ' impossible' (ID: 11997), Prob: 0.0000
-Token: ' based' (ID: 3118), Prob: 0.0000
-Token: ' cannot' (ID: 4157), Prob: 0.0000
-Token: ' zero' (ID: 7168), Prob: 0.0000
-Token: ' definitely' (ID: 8491), Prob: 0.0000
+Token: ' anything' (ID: 4113), Prob: 0.0000
+Token: ' flow' (ID: 6396), Prob: 0.0000
+Token: ' weather' (ID: 9104), Prob: 0.0000
+Token: ' numbers' (ID: 5109), Prob: 0.0000
+Token: ' maybe' (ID: 7196), Prob: 0.0000
+Token: ' mentions' (ID: 33845), Prob: 0.0000
+Token: ' enthusiasm' (ID: 35132), Prob: 0.0000
+Token: ' hashtags' (ID: 81861), Prob: 0.0000
+Token: ' transitions' (ID: 33592), Prob: 0.0000
+Token: ' embedding' (ID: 39088), Prob: 0.0000
+Token: ' message' (ID: 1943), Prob: 0.0000
+Token: ' concise' (ID: 63594), Prob: 0.0000
+Token: ' emot' (ID: 10172), Prob: 0.0000
+Token: ' using' (ID: 1667), Prob: 0.0000
+Token: ' sentiment' (ID: 25975), Prob: 0.0000
+Token: ' points' (ID: 3501), Prob: 0.0000
+Token: ' statements' (ID: 12239), Prob: 0.0000
+Token: ' synonyms' (ID: 85406), Prob: 0.0000
+Token: ' engagement' (ID: 19805), Prob: 0.0000
+Token: ' verbs' (ID: 61846), Prob: 0.0000
+Token: ' person' (ID: 1697), Prob: 0.0000
+Token: ' landmarks' (ID: 59924), Prob: 0.0000
+Token: ' word' (ID: 3409), Prob: 0.0000
+Token: ' elements' (ID: 5424), Prob: 0.0000
+Token: ' connections' (ID: 13234), Prob: 0.0000
+Token: ' keyword' (ID: 16174), Prob: 0.0000
 
 == Ranked Concepts (Clusters) ==
-Rank 1 | Centroid: ' yes' | Score: 0.8125
-  Tokens: [' yes', ' yeah', ' Yes', 'yes', ' YES', '=yes', ' sure']
-Rank 2 | Centroid: ' nothing' | Score: 0.0003
-  Tokens: [' something', ' nothing', ' none']
-Rank 3 | Centroid: ' maybe' | Score: 0.0002
-  Tokens: [' maybe']
-Rank 4 | Centroid: ' hello' | Score: 0.0002
-  Tokens: [' hello', ' wait', ' say']
-Rank 5 | Centroid: ' definitely' | Score: 0.0001
-  Tokens: [' exactly', ' always', ' definitely']
-Rank 6 | Centroid: ' negative' | Score: 0.0001
-  Tokens: [' negative', ' positive', ' zero']
-Rank 7 | Centroid: ' etc' | Score: 0.0001
-  Tokens: [' etc']
-Rank 8 | Centroid: ' also' | Score: 0.0001
-  Tokens: [' also']
-Rank 9 | Centroid: ' answer' | Score: 0.0001
-  Tokens: [' answer', ' correct']
-Rank 10 | Centroid: ' whether' | Score: 0.0001
-  Tokens: [' whether', ' either']
-Rank 11 | Centroid: ' impossible' | Score: 0.0000
-  Tokens: [' unknown', ' possible', ' impossible']
-Rank 12 | Centroid: ' okay' | Score: 0.0000
-  Tokens: [' okay']
-Rank 13 | Centroid: ' based' | Score: 0.0000
-  Tokens: [' without', ' depends', ' based']
-Rank 14 | Centroid: ' one' | Score: 0.0000
-  Tokens: [' one', ' another']
-Rank 15 | Centroid: ' enough' | Score: 0.0000
+Rank 1 | Centroid: ' something' | Score: 0.0014
+  Tokens: [' everything', ' nothing', ' things', ' something', ' anything']
+Rank 2 | Centroid: ' emotional' | Score: 0.0001
+  Tokens: [' emotions', ' emotional', ' emotion', ' emotionally', ' emot', ' sentiment']
+Rank 3 | Centroid: ' everyone' | Score: 0.0000
+  Tokens: [' everyone', ' every', ' maybe']
+Rank 4 | Centroid: ' keywords' | Score: 0.0000
+  Tokens: [' words', ' keywords', ' word', ' keyword']
+Rank 5 | Centroid: ' emojis' | Score: 0.0000
+  Tokens: [' emojis', ' emoji', ' hashtags', ' synonyms']
+Rank 6 | Centroid: ' using' | Score: 0.0000
+  Tokens: [' key', ' proper', ' adding', ' using']
+Rank 7 | Centroid: ' enthusiasm' | Score: 0.0000
+  Tokens: [' clarity', ' tone', ' dialogue', ' repetition', ' emphasis', ' context', ' enthusiasm', ' engagement']
+Rank 8 | Centroid: ' sentences' | Score: 0.0000
+  Tokens: [' sentences', ' sentence', ' quotes', ' phrases', ' statements', ' verbs']
+Rank 9 | Centroid: ' numbers' | Score: 0.0000
+  Tokens: [' dates', ' percentages', ' names', ' numbers']
+Rank 10 | Centroid: ' weather' | Score: 0.0000
+  Tokens: [' time', ' natural', ' flow', ' weather']
+Rank 11 | Centroid: ' person' | Score: 0.0000
+  Tokens: [' personal', ' people', ' person']
+Rank 12 | Centroid: ' placeholders' | Score: 0.0000
+  Tokens: [' placeholders', ' landmarks']
+Rank 13 | Centroid: ' connecting' | Score: 0.0000
+  Tokens: [' connecting', ' connectors', ' embedding', ' connections']
+Rank 14 | Centroid: ' punctuation' | Score: 0.0000
+  Tokens: [' punctuation', ' metaphor']
+Rank 15 | Centroid: ' mention' | Score: 0.0000
+  Tokens: [' mention', ' mentions']
+Rank 16 | Centroid: ' elements' | Score: 0.0000
+  Tokens: [' parts', ' points', ' elements']
+Rank 17 | Centroid: ' enough' | Score: 0.0000
   Tokens: [' enough']
-Rank 16 | Centroid: ' even' | Score: 0.0000
-  Tokens: [' even']
-Rank 17 | Centroid: ' please' | Score: 0.0000
-  Tokens: [' please']
-Rank 18 | Centroid: ' cannot' | Score: 0.0000
-  Tokens: [' cannot']
+Rank 18 | Centroid: ' transitions' | Score: 0.0000
+  Tokens: [' transitions']
+Rank 19 | Centroid: ' message' | Score: 0.0000
+  Tokens: [' message']
+Rank 20 | Centroid: ' concise' | Score: 0.0000
+  Tokens: [' concise']
 
 **Chosen Concept:** Rank 1

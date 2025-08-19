@@ -1,118 +1,135 @@
 --- Step 22 Log ---
 
 == Filtered Candidates ==
-Token: ' grow' (ID: 3063), Prob: 0.9727
-Token: ' old' (ID: 2310), Prob: 0.0013
-Token: ' stay' (ID: 4717), Prob: 0.0009
-Token: ' get' (ID: 633), Prob: 0.0006
-Token: ' growing' (ID: 7826), Prob: 0.0006
-Token: ' grown' (ID: 14700), Prob: 0.0005
-Token: ' grows' (ID: 27715), Prob: 0.0005
-Token: ' become' (ID: 3635), Prob: 0.0004
-Token: ' age' (ID: 4231), Prob: 0.0003
-Token: ' young' (ID: 3908), Prob: 0.0002
-Token: ' rise' (ID: 10000), Prob: 0.0002
-Token: ' take' (ID: 1896), Prob: 0.0002
-Token: ' leave' (ID: 5274), Prob: 0.0002
-Token: ' live' (ID: 3887), Prob: 0.0002
-Token: ' keep' (ID: 2506), Prob: 0.0002
-Token: ' raise' (ID: 4828), Prob: 0.0001
-Token: ' sleep' (ID: 6084), Prob: 0.0001
-Token: ' growth' (ID: 6513), Prob: 0.0001
-Token: ' spend' (ID: 8329), Prob: 0.0001
-Token: ' care' (ID: 2453), Prob: 0.0001
-Token: ' eat' (ID: 8180), Prob: 0.0001
-Token: ' older' (ID: 9014), Prob: 0.0001
-Token: ' learn' (ID: 3960), Prob: 0.0001
-Token: ' grew' (ID: 13938), Prob: 0.0001
-Token: ' choose' (ID: 5157), Prob: 0.0001
-Token: ' mature' (ID: 14851), Prob: 0.0001
-Token: ' make' (ID: 1281), Prob: 0.0001
-Token: ' come' (ID: 2525), Prob: 0.0001
-Token: ' continue' (ID: 3060), Prob: 0.0001
-Token: ' reach' (ID: 5545), Prob: 0.0001
-Token: ' use' (ID: 990), Prob: 0.0001
-Token: ' know' (ID: 1414), Prob: 0.0001
-Token: ' remain' (ID: 7146), Prob: 0.0001
-Token: ' feel' (ID: 2666), Prob: 0.0001
-Token: ' move' (ID: 3271), Prob: 0.0001
-Token: ' forget' (ID: 10667), Prob: 0.0001
-Token: ' start' (ID: 1191), Prob: 0.0000
-Token: ' develop' (ID: 2225), Prob: 0.0000
-Token: ' finish' (ID: 6248), Prob: 0.0000
-Token: ' run' (ID: 1598), Prob: 0.0000
-Token: ' close' (ID: 3265), Prob: 0.0000
-Token: ' walk' (ID: 4227), Prob: 0.0000
-Token: ' read' (ID: 1349), Prob: 0.0000
-Token: ' fall' (ID: 4399), Prob: 0.0000
-Token: ' forever' (ID: 15683), Prob: 0.0000
-Token: ' cry' (ID: 15729), Prob: 0.0000
-Token: ' graduate' (ID: 19023), Prob: 0.0000
-Token: ' help' (ID: 1492), Prob: 0.0000
-Token: ' ask' (ID: 2548), Prob: 0.0000
-Token: ' return' (ID: 470), Prob: 0.0000
-Token: ' youth' (ID: 12537), Prob: 0.0000
-Token: ' aged' (ID: 19749), Prob: 0.0000
-Token: ' years' (ID: 1635), Prob: 0.0000
-Token: ' meet' (ID: 3367), Prob: 0.0000
-Token: ' receive' (ID: 5258), Prob: 0.0000
-Token: ' younger' (ID: 14650), Prob: 0.0000
-Token: ' inherit' (ID: 23749), Prob: 0.0000
-Token: ' play' (ID: 1486), Prob: 0.0000
-Token: ' burn' (ID: 8231), Prob: 0.0000
-Token: ' change' (ID: 2297), Prob: 0.0000
-Token: ' join' (ID: 5138), Prob: 0.0000
-Token: ' gain' (ID: 8722), Prob: 0.0000
-Token: ' work' (ID: 975), Prob: 0.0000
-Token: ' open' (ID: 1787), Prob: 0.0000
-Token: ' turn' (ID: 2484), Prob: 0.0000
-Token: ' cross' (ID: 5312), Prob: 0.0000
-Token: ' long' (ID: 1293), Prob: 0.0000
+Token: ' text' (ID: 1467), Prob: 0.3867
+Token: ' sentences' (ID: 22870), Prob: 0.3398
+Token: ' statements' (ID: 12239), Prob: 0.0461
+Token: ' lines' (ID: 5128), Prob: 0.0408
+Token: ' message' (ID: 1943), Prob: 0.0170
+Token: ' input' (ID: 1946), Prob: 0.0150
+Token: ' content' (ID: 2213), Prob: 0.0150
+Token: ' quotes' (ID: 17194), Prob: 0.0150
+Token: ' prompt' (ID: 9934), Prob: 0.0071
+Token: ' messages' (ID: 6605), Prob: 0.0062
+Token: ' dialogue' (ID: 21276), Prob: 0.0062
+Token: ' parts' (ID: 5479), Prob: 0.0038
+Token: ' quote' (ID: 12641), Prob: 0.0028
+Token: ' info' (ID: 3546), Prob: 0.0026
+Token: ' points' (ID: 3501), Prob: 0.0022
+Token: ' paragraph' (ID: 14311), Prob: 0.0022
+Token: ' information' (ID: 1995), Prob: 0.0020
+Token: ' passage' (ID: 21085), Prob: 0.0020
+Token: ' elements' (ID: 5424), Prob: 0.0019
+Token: ' instructions' (ID: 11221), Prob: 0.0017
+Token: ' statement' (ID: 5114), Prob: 0.0016
+Token: ' phrases' (ID: 31747), Prob: 0.0016
+Token: ' context' (ID: 2266), Prob: 0.0015
+Token: ' query' (ID: 3239), Prob: 0.0012
+Token: ' thoughts' (ID: 11303), Prob: 0.0010
+Token: ' sentence' (ID: 11652), Prob: 0.0010
+Token: ' paragraphs' (ID: 42643), Prob: 0.0008
+Token: ' scenario' (ID: 15048), Prob: 0.0007
+Token: ' part' (ID: 949), Prob: 0.0007
+Token: ' ones' (ID: 6174), Prob: 0.0007
+Token: ' setup' (ID: 6505), Prob: 0.0007
+Token: ' story' (ID: 3364), Prob: 0.0006
+Token: ' material' (ID: 3684), Prob: 0.0006
+Token: ' comments' (ID: 6042), Prob: 0.0005
+Token: ' narrative' (ID: 19221), Prob: 0.0005
+Token: ' two' (ID: 1378), Prob: 0.0003
+Token: ' texts' (ID: 21984), Prob: 0.0003
+Token: ' data' (ID: 821), Prob: 0.0003
+Token: ' pieces' (ID: 9666), Prob: 0.0003
+Token: ' segments' (ID: 20632), Prob: 0.0003
+Token: ' prompts' (ID: 50932), Prob: 0.0003
+Token: ' instruction' (ID: 7600), Prob: 0.0003
+Token: ' response' (ID: 2033), Prob: 0.0002
+Token: ' dialog' (ID: 7254), Prob: 0.0002
+Token: ' fragments' (ID: 34503), Prob: 0.0002
+Token: ' notes' (ID: 8388), Prob: 0.0002
+Token: ' line' (ID: 1555), Prob: 0.0002
+Token: ' clues' (ID: 42675), Prob: 0.0002
+Token: ' snippets' (ID: 68642), Prob: 0.0002
+Token: ' problem' (ID: 3491), Prob: 0.0002
+Token: ' words' (ID: 4244), Prob: 0.0002
+Token: ' key' (ID: 1376), Prob: 0.0001
+Token: ' characters' (ID: 5766), Prob: 0.0001
+Token: ' extract' (ID: 8649), Prob: 0.0001
+Token: ' inputs' (ID: 11127), Prob: 0.0001
+Token: ' provided' (ID: 3897), Prob: 0.0001
+Token: ' events' (ID: 4357), Prob: 0.0001
+Token: ' feedback' (ID: 11055), Prob: 0.0001
+Token: ' passages' (ID: 46769), Prob: 0.0001
+Token: ' queries' (ID: 19556), Prob: 0.0001
+Token: ' entries' (ID: 10695), Prob: 0.0001
+Token: ' pairs' (ID: 13530), Prob: 0.0001
+Token: ' conditions' (ID: 4682), Prob: 0.0001
+Token: ' description' (ID: 4008), Prob: 0.0001
+Token: ' ideas' (ID: 6708), Prob: 0.0001
+Token: ' snippet' (ID: 43065), Prob: 0.0001
+Token: ' situation' (ID: 6534), Prob: 0.0001
+Token: ' narration' (ID: 85080), Prob: 0.0001
+Token: ' details' (ID: 3565), Prob: 0.0001
+Token: ' script' (ID: 5316), Prob: 0.0001
+Token: ' trigger' (ID: 8183), Prob: 0.0001
+Token: ' excerpt' (ID: 49465), Prob: 0.0001
+Token: ' components' (ID: 6813), Prob: 0.0001
+Token: ' pass' (ID: 1494), Prob: 0.0001
+Token: ' plot' (ID: 7089), Prob: 0.0001
+Token: ' sentiment' (ID: 25975), Prob: 0.0000
+Token: ' given' (ID: 2661), Prob: 0.0000
+Token: ' Chinese' (ID: 8453), Prob: 0.0000
+Token: ' request' (ID: 1681), Prob: 0.0000
+Token: ' conversation' (ID: 10435), Prob: 0.0000
+Token: ' mentions' (ID: 33845), Prob: 0.0000
+Token: ' user' (ID: 1196), Prob: 0.0000
 
 == Ranked Concepts (Clusters) ==
-Rank 1 | Centroid: ' grow' | Score: 0.9727
-  Tokens: [' grow', ' growing', ' grown', ' grows', ' growth', ' grew']
-Rank 2 | Centroid: ' younger' | Score: 0.0021
-  Tokens: [' old', ' age', ' young', ' older', ' mature', ' youth', ' aged', ' younger']
-Rank 3 | Centroid: ' stay' | Score: 0.0013
-  Tokens: [' stay', ' leave', ' keep', ' continue', ' remain']
-Rank 4 | Centroid: ' get' | Score: 0.0009
-  Tokens: [' get', ' take', ' make']
-Rank 5 | Centroid: ' become' | Score: 0.0005
-  Tokens: [' become', ' come']
-Rank 6 | Centroid: ' rise' | Score: 0.0004
-  Tokens: [' rise', ' raise', ' fall', ' return']
-Rank 7 | Centroid: ' learn' | Score: 0.0003
-  Tokens: [' eat', ' learn', ' develop', ' read', ' receive']
-Rank 8 | Centroid: ' ask' | Score: 0.0002
-  Tokens: [' choose', ' know', ' feel', ' ask']
-Rank 9 | Centroid: ' help' | Score: 0.0002
-  Tokens: [' care', ' use', ' help', ' work']
-Rank 10 | Centroid: ' spend' | Score: 0.0002
-  Tokens: [' spend', ' forget']
-Rank 11 | Centroid: ' live' | Score: 0.0002
-  Tokens: [' live']
-Rank 12 | Centroid: ' move' | Score: 0.0001
-  Tokens: [' move', ' start', ' change', ' turn']
-Rank 13 | Centroid: ' sleep' | Score: 0.0001
-  Tokens: [' sleep']
-Rank 14 | Centroid: ' reach' | Score: 0.0001
-  Tokens: [' reach', ' meet']
-Rank 15 | Centroid: ' long' | Score: 0.0001
-  Tokens: [' forever', ' years', ' long']
-Rank 16 | Centroid: ' finish' | Score: 0.0001
-  Tokens: [' finish', ' join']
-Rank 17 | Centroid: ' run' | Score: 0.0001
-  Tokens: [' run', ' play']
-Rank 18 | Centroid: ' walk' | Score: 0.0001
-  Tokens: [' walk', ' burn']
-Rank 19 | Centroid: ' graduate' | Score: 0.0001
-  Tokens: [' graduate', ' inherit']
-Rank 20 | Centroid: ' close' | Score: 0.0001
-  Tokens: [' close', ' open']
-Rank 21 | Centroid: ' cry' | Score: 0.0001
-  Tokens: [' cry', ' cross']
-Rank 22 | Centroid: ' gain' | Score: 0.0000
-  Tokens: [' gain']
+Rank 1 | Centroid: ' text' | Score: 0.3867
+  Tokens: [' text', ' texts']
+Rank 2 | Centroid: ' sentences' | Score: 0.3457
+  Tokens: [' sentences', ' paragraph', ' phrases', ' sentence', ' paragraphs', ' words']
+Rank 3 | Centroid: ' statements' | Score: 0.0476
+  Tokens: [' statements', ' statement']
+Rank 4 | Centroid: ' lines' | Score: 0.0410
+  Tokens: [' lines', ' line']
+Rank 5 | Centroid: ' message' | Score: 0.0232
+  Tokens: [' message', ' messages']
+Rank 6 | Centroid: ' prompt' | Score: 0.0226
+  Tokens: [' input', ' prompt', ' prompts', ' inputs', ' feedback', ' trigger']
+Rank 7 | Centroid: ' quotes' | Score: 0.0177
+  Tokens: [' quotes', ' quote', ' mentions']
+Rank 8 | Centroid: ' content' | Score: 0.0159
+  Tokens: [' content', ' material', ' data']
+Rank 9 | Centroid: ' dialogue' | Score: 0.0078
+  Tokens: [' dialogue', ' story', ' narrative', ' dialog', ' narration', ' sentiment', ' conversation']
+Rank 10 | Centroid: ' parts' | Score: 0.0054
+  Tokens: [' parts', ' part', ' pieces', ' segments', ' fragments', ' pairs']
+Rank 11 | Centroid: ' elements' | Score: 0.0051
+  Tokens: [' points', ' elements', ' ones', ' characters', ' events', ' components']
+Rank 12 | Centroid: ' information' | Score: 0.0048
+  Tokens: [' info', ' information', ' description', ' details']
+Rank 13 | Centroid: ' scenario' | Score: 0.0031
+  Tokens: [' context', ' scenario', ' setup', ' problem', ' situation']
+Rank 14 | Centroid: ' passage' | Score: 0.0022
+  Tokens: [' passage', ' passages', ' pass']
+Rank 15 | Centroid: ' thoughts' | Score: 0.0021
+  Tokens: [' thoughts', ' comments', ' notes', ' clues', ' entries', ' ideas']
+Rank 16 | Centroid: ' instructions' | Score: 0.0019
+  Tokens: [' instructions', ' instruction']
+Rank 17 | Centroid: ' query' | Score: 0.0013
+  Tokens: [' query', ' queries']
+Rank 18 | Centroid: ' two' | Score: 0.0005
+  Tokens: [' two', ' key', ' user']
+Rank 19 | Centroid: ' snippet' | Score: 0.0005
+  Tokens: [' snippets', ' extract', ' snippet', ' excerpt']
+Rank 20 | Centroid: ' response' | Score: 0.0003
+  Tokens: [' response', ' request']
+Rank 21 | Centroid: ' provided' | Score: 0.0002
+  Tokens: [' provided', ' given']
+Rank 22 | Centroid: ' script' | Score: 0.0002
+  Tokens: [' script', ' plot', ' Chinese']
+Rank 23 | Centroid: ' conditions' | Score: 0.0001
+  Tokens: [' conditions']
 
 **Chosen Concept:** Rank 1

@@ -1,70 +1,108 @@
 --- Step 31 Log ---
 
 == Filtered Candidates ==
-Token: ' prompt' (ID: 9934), Prob: 0.9219
-Token: ' message' (ID: 1943), Prob: 0.0014
-Token: ' Prompt' (ID: 59501), Prob: 0.0005
-Token: ' prompts' (ID: 50932), Prob: 0.0003
-Token: 'prompt' (ID: 40581), Prob: 0.0003
-Token: '(prompt' (ID: 72253), Prob: 0.0001
-Token: ' list' (ID: 1140), Prob: 0.0001
-Token: ' example' (ID: 3110), Prob: 0.0001
-Token: ' question' (ID: 3405), Prob: 0.0001
-Token: ' hint' (ID: 13012), Prob: 0.0001
-Token: ' within' (ID: 2878), Prob: 0.0001
-Token: ' prompting' (ID: 49645), Prob: 0.0001
-Token: ' bold' (ID: 13939), Prob: 0.0000
-Token: ' except' (ID: 3650), Prob: 0.0000
-Token: 'Prompt' (ID: 54615), Prob: 0.0000
-Token: ' point' (ID: 1459), Prob: 0.0000
-Token: ' please' (ID: 4486), Prob: 0.0000
-Token: ' format' (ID: 3561), Prob: 0.0000
-Token: ' prompted' (ID: 28646), Prob: 0.0000
-Token: ' topic' (ID: 8544), Prob: 0.0000
-Token: ' item' (ID: 1509), Prob: 0.0000
-Token: ' post' (ID: 1736), Prob: 0.0000
-Token: '_prompt' (ID: 61421), Prob: 0.0000
-Token: ' content' (ID: 2213), Prob: 0.0000
-Token: ' promise' (ID: 11222), Prob: 0.0000
-Token: ' instruction' (ID: 7600), Prob: 0.0000
-Token: ' keyword' (ID: 16174), Prob: 0.0000
-Token: ' part' (ID: 949), Prob: 0.0000
-Token: ' prom' (ID: 2706), Prob: 0.0000
-Token: ' display' (ID: 3037), Prob: 0.0000
-Token: ' according' (ID: 4092), Prob: 0.0000
+Token: ' specifically' (ID: 11689), Prob: 0.1426
+Token: ' mentioning' (ID: 44291), Prob: 0.1426
+Token: ' maybe' (ID: 7196), Prob: 0.1108
+Token: ' specific' (ID: 3151), Prob: 0.0317
+Token: ' focusing' (ID: 21080), Prob: 0.0281
+Token: ' right' (ID: 1290), Prob: 0.0248
+Token: ' mention' (ID: 6286), Prob: 0.0248
+Token: ' highlighting' (ID: 38586), Prob: 0.0117
+Token: ' like' (ID: 1075), Prob: 0.0103
+Token: ' probably' (ID: 4658), Prob: 0.0081
+Token: ' going' (ID: 2087), Prob: 0.0063
+Token: ' details' (ID: 3565), Prob: 0.0043
+Token: ' detail' (ID: 7716), Prob: 0.0038
+Token: ' making' (ID: 3259), Prob: 0.0033
+Token: ' perhaps' (ID: 8365), Prob: 0.0028
+Token: ' describing' (ID: 22692), Prob: 0.0024
+Token: ' detailing' (ID: 44193), Prob: 0.0024
+Token: ' since' (ID: 2474), Prob: 0.0020
+Token: ' especially' (ID: 5310), Prob: 0.0018
+Token: ' mentions' (ID: 33845), Prob: 0.0017
+Token: ' talking' (ID: 7404), Prob: 0.0016
+Token: ' heading' (ID: 14496), Prob: 0.0013
+Token: ' including' (ID: 2670), Prob: 0.0012
+Token: ' something' (ID: 2494), Prob: 0.0012
+Token: ' setting' (ID: 6243), Prob: 0.0012
+Token: ' emphasizing' (ID: 80903), Prob: 0.0010
+Token: ' moving' (ID: 7218), Prob: 0.0008
+Token: ' mentioned' (ID: 9733), Prob: 0.0008
+Token: ' using' (ID: 1667), Prob: 0.0007
+Token: ' called' (ID: 2598), Prob: 0.0007
+Token: ' visiting' (ID: 16721), Prob: 0.0007
+Token: ' focus' (ID: 5244), Prob: 0.0007
+Token: ' detailed' (ID: 11682), Prob: 0.0005
+Token: ' set' (ID: 738), Prob: 0.0005
+Token: ' leading' (ID: 6388), Prob: 0.0005
+Token: ' followed' (ID: 8110), Prob: 0.0005
+Token: ' involving' (ID: 15860), Prob: 0.0005
+Token: ' ten' (ID: 5779), Prob: 0.0005
+Token: ' describe' (ID: 7512), Prob: 0.0004
+Token: ' near' (ID: 3143), Prob: 0.0003
+Token: ' connecting' (ID: 20913), Prob: 0.0003
+Token: ' particularly' (ID: 7945), Prob: 0.0003
+Token: ' say' (ID: 1977), Prob: 0.0003
+Token: ' explaining' (ID: 25021), Prob: 0.0003
+Token: ' introducing' (ID: 31918), Prob: 0.0003
+Token: ' specifics' (ID: 48349), Prob: 0.0003
+Token: ' okay' (ID: 16910), Prob: 0.0002
+Token: ' hiking' (ID: 37364), Prob: 0.0002
+Token: ' named' (ID: 6941), Prob: 0.0002
+Token: ' showing' (ID: 9027), Prob: 0.0002
+Token: ' covering' (ID: 18202), Prob: 0.0002
+Token: ' getting' (ID: 3709), Prob: 0.0002
+Token: ' yeah' (ID: 21639), Prob: 0.0002
+Token: ' linking' (ID: 30699), Prob: 0.0002
+Token: ' particular' (ID: 3953), Prob: 0.0002
+Token: ' starting' (ID: 5916), Prob: 0.0002
+Token: ' bringing' (ID: 12678), Prob: 0.0002
+Token: ' noting' (ID: 26305), Prob: 0.0002
+Token: ' major' (ID: 3598), Prob: 0.0002
+Token: ' highlight' (ID: 11167), Prob: 0.0001
+Token: ' proper' (ID: 6169), Prob: 0.0001
+Token: ' upper' (ID: 8416), Prob: 0.0001
+Token: ' featuring' (ID: 16445), Prob: 0.0001
+Token: ' pointing' (ID: 21633), Prob: 0.0001
+Token: ' location' (ID: 3728), Prob: 0.0001
+Token: ' suggesting' (ID: 22561), Prob: 0.0001
+Token: ' part' (ID: 949), Prob: 0.0001
 
 == Ranked Concepts (Clusters) ==
-Rank 1 | Centroid: ' prompt' | Score: 0.9219
-  Tokens: [' prompt', ' Prompt', ' prompts', 'prompt', '(prompt', ' prompting', 'Prompt', ' prompted', '_prompt']
-Rank 2 | Centroid: ' message' | Score: 0.0014
-  Tokens: [' message']
-Rank 3 | Centroid: ' display' | Score: 0.0002
-  Tokens: [' list', ' format', ' display']
-Rank 4 | Centroid: ' question' | Score: 0.0001
-  Tokens: [' question', ' topic']
-Rank 5 | Centroid: ' example' | Score: 0.0001
-  Tokens: [' example']
-Rank 6 | Centroid: ' within' | Score: 0.0001
-  Tokens: [' within', ' according']
-Rank 7 | Centroid: ' except' | Score: 0.0001
-  Tokens: [' except', ' please']
-Rank 8 | Centroid: ' hint' | Score: 0.0001
-  Tokens: [' hint']
-Rank 9 | Centroid: ' item' | Score: 0.0001
-  Tokens: [' item', ' keyword']
-Rank 10 | Centroid: ' promise' | Score: 0.0001
-  Tokens: [' promise', ' prom']
-Rank 11 | Centroid: ' bold' | Score: 0.0000
-  Tokens: [' bold']
-Rank 12 | Centroid: ' point' | Score: 0.0000
-  Tokens: [' point']
-Rank 13 | Centroid: ' post' | Score: 0.0000
-  Tokens: [' post']
-Rank 14 | Centroid: ' content' | Score: 0.0000
-  Tokens: [' content']
-Rank 15 | Centroid: ' instruction' | Score: 0.0000
-  Tokens: [' instruction']
-Rank 16 | Centroid: ' part' | Score: 0.0000
-  Tokens: [' part']
+Rank 1 | Centroid: ' particularly' | Score: 0.1768
+  Tokens: [' specifically', ' specific', ' especially', ' particularly', ' particular']
+Rank 2 | Centroid: ' mention' | Score: 0.1699
+  Tokens: [' mentioning', ' mention', ' mentions', ' mentioned', ' noting']
+Rank 3 | Centroid: ' maybe' | Score: 0.1230
+  Tokens: [' maybe', ' probably', ' perhaps', ' something', ' okay', ' yeah']
+Rank 4 | Centroid: ' focusing' | Score: 0.0287
+  Tokens: [' focusing', ' focus']
+Rank 5 | Centroid: ' major' | Score: 0.0265
+  Tokens: [' right', ' leading', ' ten', ' near', ' major', ' proper', ' upper']
+Rank 6 | Centroid: ' highlighting' | Score: 0.0128
+  Tokens: [' highlighting', ' emphasizing', ' highlight']
+Rank 7 | Centroid: ' details' | Score: 0.0114
+  Tokens: [' details', ' detail', ' detailing', ' detailed', ' specifics']
+Rank 8 | Centroid: ' going' | Score: 0.0109
+  Tokens: [' going', ' talking', ' heading', ' moving', ' visiting', ' hiking']
+Rank 9 | Centroid: ' like' | Score: 0.0108
+  Tokens: [' like', ' followed']
+Rank 10 | Centroid: ' bringing' | Score: 0.0040
+  Tokens: [' making', ' introducing', ' getting', ' bringing']
+Rank 11 | Centroid: ' describing' | Score: 0.0034
+  Tokens: [' describing', ' describe', ' explaining', ' showing', ' suggesting']
+Rank 12 | Centroid: ' featuring' | Score: 0.0026
+  Tokens: [' including', ' using', ' involving', ' featuring']
+Rank 13 | Centroid: ' since' | Score: 0.0021
+  Tokens: [' since', ' part']
+Rank 14 | Centroid: ' setting' | Score: 0.0018
+  Tokens: [' setting', ' set', ' location']
+Rank 15 | Centroid: ' called' | Score: 0.0013
+  Tokens: [' called', ' say', ' named']
+Rank 16 | Centroid: ' linking' | Score: 0.0009
+  Tokens: [' connecting', ' covering', ' linking', ' pointing']
+Rank 17 | Centroid: ' starting' | Score: 0.0002
+  Tokens: [' starting']
 
 **Chosen Concept:** Rank 1

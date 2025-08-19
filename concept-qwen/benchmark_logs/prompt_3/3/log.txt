@@ -1,64 +1,103 @@
 --- Step 3 Log ---
 
 == Filtered Candidates ==
-Token: ' kids' (ID: 6837), Prob: 0.0047
-Token: ' parents' (ID: 6562), Prob: 0.0042
-Token: ' one' (ID: 825), Prob: 0.0029
-Token: ' children' (ID: 2841), Prob: 0.0029
-Token: ' someone' (ID: 4325), Prob: 0.0025
-Token: ' something' (ID: 2494), Prob: 0.0017
-Token: ' slip' (ID: 21134), Prob: 0.0017
-Token: ' others' (ID: 3800), Prob: 0.0015
-Token: ' students' (ID: 4143), Prob: 0.0014
-Token: ' goes' (ID: 5780), Prob: 0.0014
-Token: ' away' (ID: 3123), Prob: 0.0011
-Token: ' Children' (ID: 15044), Prob: 0.0010
-Token: ' Kids' (ID: 22522), Prob: 0.0009
-Token: ' say' (ID: 1977), Prob: 0.0008
-Token: ' back' (ID: 1182), Prob: 0.0007
-Token: ' young' (ID: 3908), Prob: 0.0007
-Token: ' Parents' (ID: 42926), Prob: 0.0007
-Token: ' Young' (ID: 13263), Prob: 0.0006
-Token: ' home' (ID: 2114), Prob: 0.0006
-Token: ' words' (ID: 4244), Prob: 0.0005
-Token: ' family' (ID: 2997), Prob: 0.0005
-Token: ' get' (ID: 633), Prob: 0.0005
-Token: ' loose' (ID: 20174), Prob: 0.0005
-Token: ' child' (ID: 1682), Prob: 0.0004
-Token: ' trade' (ID: 6559), Prob: 0.0004
-Token: ' youth' (ID: 12537), Prob: 0.0004
-Token: ' another' (ID: 2441), Prob: 0.0004
-Token: ' come' (ID: 2525), Prob: 0.0004
-Token: ' went' (ID: 3937), Prob: 0.0004
-Token: ' baby' (ID: 8770), Prob: 0.0004
-Token: ' Others' (ID: 25028), Prob: 0.0004
+Token: ' let' (ID: 1077), Prob: 0.3809
+Token: ' starting' (ID: 5916), Prob: 0.0002
+Token: ' start' (ID: 1191), Prob: 0.0002
+Token: ' first' (ID: 1156), Prob: 0.0001
+Token: ' user' (ID: 1196), Prob: 0.0001
+Token: ' maybe' (ID: 7196), Prob: 0.0001
+Token: ' Let' (ID: 6771), Prob: 0.0001
+Token: ' need' (ID: 1184), Prob: 0.0000
+Token: ' students' (ID: 4143), Prob: 0.0000
+Token: ' putting' (ID: 10687), Prob: 0.0000
+Token: ' story' (ID: 3364), Prob: 0.0000
+Token: ' building' (ID: 4752), Prob: 0.0000
+Token: ' got' (ID: 2684), Prob: 0.0000
+Token: ' think' (ID: 1744), Prob: 0.0000
+Token: ' okay' (ID: 16910), Prob: 0.0000
+Token: ' someone' (ID: 4325), Prob: 0.0000
+Token: ' student' (ID: 5458), Prob: 0.0000
+Token: ' getting' (ID: 3709), Prob: 0.0000
+Token: ' wait' (ID: 3783), Prob: 0.0000
+Token: ' looking' (ID: 3330), Prob: 0.0000
+Token: ' since' (ID: 2474), Prob: 0.0000
+Token: ' get' (ID: 633), Prob: 0.0000
+Token: ' users' (ID: 3847), Prob: 0.0000
+Token: ' interesting' (ID: 7040), Prob: 0.0000
+Token: ' young' (ID: 3908), Prob: 0.0000
+Token: ' girl' (ID: 3743), Prob: 0.0000
+Token: ' focusing' (ID: 21080), Prob: 0.0000
+Token: ' two' (ID: 1378), Prob: 0.0000
+Token: ' creating' (ID: 6825), Prob: 0.0000
+Token: ' perhaps' (ID: 8365), Prob: 0.0000
+Token: ' readers' (ID: 12726), Prob: 0.0000
+Token: ' imagine' (ID: 12793), Prob: 0.0000
+Token: ' focus' (ID: 5244), Prob: 0.0000
+Token: ' new' (ID: 501), Prob: 0.0000
+Token: 'let' (ID: 1149), Prob: 0.0000
+Token: ' given' (ID: 2661), Prob: 0.0000
+Token: ' following' (ID: 2701), Prob: 0.0000
+Token: ' well' (ID: 1632), Prob: 0.0000
+Token: ' starts' (ID: 8471), Prob: 0.0000
+Token: ' put' (ID: 2182), Prob: 0.0000
+Token: ' lets' (ID: 15354), Prob: 0.0000
+Token: ' time' (ID: 882), Prob: 0.0000
+Token: ' kids' (ID: 6837), Prob: 0.0000
+Token: ' small' (ID: 2613), Prob: 0.0000
+Token: ' Emily' (ID: 34166), Prob: 0.0000
+Token: ' customer' (ID: 6002), Prob: 0.0000
+Token: ' hmm' (ID: 87501), Prob: 0.0000
+Token: ' Scott' (ID: 9815), Prob: 0.0000
+Token: ' Emma' (ID: 34935), Prob: 0.0000
+Token: ' something' (ID: 2494), Prob: 0.0000
+Token: ' making' (ID: 3259), Prob: 0.0000
+Token: ' letting' (ID: 20194), Prob: 0.0000
+Token: ' suppose' (ID: 22477), Prob: 0.0000
+Token: ' tell' (ID: 3291), Prob: 0.0000
+Token: ' developing' (ID: 11220), Prob: 0.0000
+Token: ' fans' (ID: 7211), Prob: 0.0000
+Token: ' beginner' (ID: 48948), Prob: 0.0000
+Token: ' George' (ID: 9857), Prob: 0.0000
+Token: ' John' (ID: 3757), Prob: 0.0000
+Token: ' writing' (ID: 4378), Prob: 0.0000
+Token: ' seems' (ID: 4977), Prob: 0.0000
+Token: ' parents' (ID: 6562), Prob: 0.0000
 
 == Ranked Concepts (Clusters) ==
-Rank 1 | Centroid: ' children' | Score: 0.0103
-  Tokens: [' kids', ' children', ' Children', ' Kids', ' child', ' baby']
-Rank 2 | Centroid: ' someone' | Score: 0.0076
-  Tokens: [' one', ' someone', ' something', ' another']
-Rank 3 | Centroid: ' parents' | Score: 0.0049
-  Tokens: [' parents', ' Parents']
-Rank 4 | Centroid: ' others' | Score: 0.0020
-  Tokens: [' others', ' Others']
-Rank 5 | Centroid: ' goes' | Score: 0.0018
-  Tokens: [' goes', ' went']
-Rank 6 | Centroid: ' young' | Score: 0.0018
-  Tokens: [' young', ' Young', ' youth']
-Rank 7 | Centroid: ' away' | Score: 0.0017
-  Tokens: [' away', ' back']
-Rank 8 | Centroid: ' slip' | Score: 0.0017
-  Tokens: [' slip']
-Rank 9 | Centroid: ' get' | Score: 0.0017
-  Tokens: [' say', ' get', ' come']
-Rank 10 | Centroid: ' students' | Score: 0.0014
-  Tokens: [' students']
-Rank 11 | Centroid: ' home' | Score: 0.0011
-  Tokens: [' home', ' family']
-Rank 12 | Centroid: ' words' | Score: 0.0010
-  Tokens: [' words', ' trade']
-Rank 13 | Centroid: ' loose' | Score: 0.0005
-  Tokens: [' loose']
+Rank 1 | Centroid: ' let' | Score: 0.3809
+  Tokens: [' let', ' Let', 'let', ' lets', ' letting']
+Rank 2 | Centroid: ' starts' | Score: 0.0004
+  Tokens: [' starting', ' start', ' starts']
+Rank 3 | Centroid: ' two' | Score: 0.0001
+  Tokens: [' first', ' two', ' new', ' given', ' following', ' well', ' time', ' small']
+Rank 4 | Centroid: ' perhaps' | Score: 0.0001
+  Tokens: [' maybe', ' okay', ' someone', ' interesting', ' perhaps', ' hmm', ' something', ' seems']
+Rank 5 | Centroid: ' user' | Score: 0.0001
+  Tokens: [' user', ' users', ' customer']
+Rank 6 | Centroid: ' students' | Score: 0.0000
+  Tokens: [' students', ' student', ' readers', ' fans']
+Rank 7 | Centroid: ' need' | Score: 0.0000
+  Tokens: [' need', ' wait']
+Rank 8 | Centroid: ' creating' | Score: 0.0000
+  Tokens: [' building', ' looking', ' creating', ' making', ' developing', ' writing']
+Rank 9 | Centroid: ' get' | Score: 0.0000
+  Tokens: [' got', ' getting', ' get']
+Rank 10 | Centroid: ' putting' | Score: 0.0000
+  Tokens: [' putting', ' put']
+Rank 11 | Centroid: ' imagine' | Score: 0.0000
+  Tokens: [' think', ' imagine', ' suppose']
+Rank 12 | Centroid: ' story' | Score: 0.0000
+  Tokens: [' story', ' tell']
+Rank 13 | Centroid: ' kids' | Score: 0.0000
+  Tokens: [' young', ' girl', ' kids', ' parents']
+Rank 14 | Centroid: ' John' | Score: 0.0000
+  Tokens: [' Emily', ' Scott', ' Emma', ' George', ' John']
+Rank 15 | Centroid: ' focusing' | Score: 0.0000
+  Tokens: [' focusing', ' focus']
+Rank 16 | Centroid: ' since' | Score: 0.0000
+  Tokens: [' since']
+Rank 17 | Centroid: ' beginner' | Score: 0.0000
+  Tokens: [' beginner']
 
 **Chosen Concept:** Rank 1

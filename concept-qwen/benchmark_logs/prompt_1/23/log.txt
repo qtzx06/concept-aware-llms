@@ -1,146 +1,158 @@
 --- Step 23 Log ---
 
 == Filtered Candidates ==
-Token: ' emotion' (ID: 19772), Prob: 0.5469
-Token: ' emotional' (ID: 14269), Prob: 0.0579
-Token: ' main' (ID: 1887), Prob: 0.0510
-Token: ' act' (ID: 1160), Prob: 0.0352
-Token: ' feeling' (ID: 8266), Prob: 0.0352
-Token: ' intensity' (ID: 20612), Prob: 0.0273
-Token: ' action' (ID: 1917), Prob: 0.0240
-Token: ' strong' (ID: 3746), Prob: 0.0146
-Token: ' basic' (ID: 6770), Prob: 0.0129
-Token: ' expression' (ID: 7493), Prob: 0.0114
-Token: ' intense' (ID: 18894), Prob: 0.0101
-Token: ' emotions' (ID: 21261), Prob: 0.0101
-Token: ' core' (ID: 6200), Prob: 0.0089
-Token: ' desire' (ID: 12591), Prob: 0.0089
-Token: ' request' (ID: 1681), Prob: 0.0078
-Token: ' general' (ID: 4586), Prob: 0.0069
-Token: ' initial' (ID: 2856), Prob: 0.0065
-Token: ' obvious' (ID: 8036), Prob: 0.0048
-Token: ' common' (ID: 4185), Prob: 0.0042
-Token: ' key' (ID: 1376), Prob: 0.0039
-Token: ' physical' (ID: 6961), Prob: 0.0039
-Token: ' trigger' (ID: 8183), Prob: 0.0037
-Token: ' direct' (ID: 2118), Prob: 0.0033
-Token: ' experience' (ID: 3139), Prob: 0.0029
-Token: ' natural' (ID: 5810), Prob: 0.0029
-Token: ' cry' (ID: 15729), Prob: 0.0024
-Token: ' description' (ID: 4008), Prob: 0.0021
-Token: ' scenario' (ID: 15048), Prob: 0.0021
-Token: ' pain' (ID: 6646), Prob: 0.0020
-Token: ' immediate' (ID: 13922), Prob: 0.0020
-Token: ' overwhelming' (ID: 22024), Prob: 0.0020
-Token: ' vivid' (ID: 42020), Prob: 0.0020
-Token: ' moment' (ID: 4445), Prob: 0.0019
-Token: ' feelings' (ID: 15650), Prob: 0.0019
-Token: ' universal' (ID: 20178), Prob: 0.0019
-Token: ' content' (ID: 2213), Prob: 0.0016
-Token: ' phrase' (ID: 17133), Prob: 0.0015
-Token: ' cause' (ID: 5240), Prob: 0.0014
-Token: ' situation' (ID: 6534), Prob: 0.0014
-Token: ' subject' (ID: 3832), Prob: 0.0014
-Token: ' statement' (ID: 5114), Prob: 0.0014
-Token: ' essence' (ID: 27491), Prob: 0.0014
-Token: ' crying' (ID: 30199), Prob: 0.0013
-Token: ' imagery' (ID: 40445), Prob: 0.0013
-Token: ' sensation' (ID: 36292), Prob: 0.0012
-Token: ' idea' (ID: 4522), Prob: 0.0010
-Token: ' powerful' (ID: 7988), Prob: 0.0010
-Token: ' repetition' (ID: 53415), Prob: 0.0009
-Token: ' sensory' (ID: 47969), Prob: 0.0009
-Token: ' setting' (ID: 6243), Prob: 0.0008
-Token: ' impact' (ID: 5421), Prob: 0.0008
-Token: ' condition' (ID: 2971), Prob: 0.0007
-Token: ' simple' (ID: 4285), Prob: 0.0007
-Token: ' topic' (ID: 8544), Prob: 0.0007
-Token: ' metaphor' (ID: 45350), Prob: 0.0007
-Token: ' clear' (ID: 2797), Prob: 0.0007
-Token: ' tears' (ID: 23139), Prob: 0.0007
-Token: ' sentiment' (ID: 25975), Prob: 0.0007
-Token: ' reaction' (ID: 12720), Prob: 0.0006
-Token: ' basics' (ID: 31774), Prob: 0.0006
-Token: ' effect' (ID: 2456), Prob: 0.0006
-Token: ' typical' (ID: 14260), Prob: 0.0006
-Token: ' fact' (ID: 2097), Prob: 0.0006
-Token: ' word' (ID: 3409), Prob: 0.0006
-Token: ' intention' (ID: 14602), Prob: 0.0006
-Token: ' primary' (ID: 6028), Prob: 0.0005
-Token: ' gravity' (ID: 23249), Prob: 0.0005
-Token: ' raw' (ID: 7112), Prob: 0.0005
-Token: ' sadness' (ID: 50878), Prob: 0.0005
-Token: ' words' (ID: 4244), Prob: 0.0005
-Token: ' setup' (ID: 6505), Prob: 0.0005
-Token: ' context' (ID: 2266), Prob: 0.0004
-Token: ' tone' (ID: 16232), Prob: 0.0004
-Token: ' need' (ID: 1184), Prob: 0.0004
-Token: ' scene' (ID: 6109), Prob: 0.0004
-Token: ' sentence' (ID: 11652), Prob: 0.0004
-Token: ' confession' (ID: 57373), Prob: 0.0004
-Token: ' original' (ID: 4024), Prob: 0.0004
-Token: ' first' (ID: 1156), Prob: 0.0004
-Token: ' heart' (ID: 4746), Prob: 0.0004
-Token: ' longing' (ID: 78322), Prob: 0.0004
-Token: ' image' (ID: 2168), Prob: 0.0003
+Token: ' include' (ID: 2924), Prob: 0.2402
+Token: ' contain' (ID: 6644), Prob: 0.0417
+Token: ' follow' (ID: 1795), Prob: 0.0369
+Token: ' end' (ID: 835), Prob: 0.0325
+Token: ' show' (ID: 1473), Prob: 0.0253
+Token: ' conclude' (ID: 31094), Prob: 0.0197
+Token: ' also' (ID: 1083), Prob: 0.0173
+Token: ' describe' (ID: 7512), Prob: 0.0164
+Token: ' begin' (ID: 3161), Prob: 0.0127
+Token: ' focus' (ID: 5244), Prob: 0.0112
+Token: ' use' (ID: 990), Prob: 0.0087
+Token: ' take' (ID: 1896), Prob: 0.0077
+Token: ' feature' (ID: 4565), Prob: 0.0060
+Token: ' consist' (ID: 6685), Prob: 0.0053
+Token: ' involve' (ID: 21058), Prob: 0.0053
+Token: ' reflect' (ID: 8708), Prob: 0.0047
+Token: ' start' (ID: 1191), Prob: 0.0044
+Token: ' present' (ID: 3042), Prob: 0.0044
+Token: ' tell' (ID: 3291), Prob: 0.0039
+Token: ' incorporate' (ID: 32335), Prob: 0.0039
+Token: ' depict' (ID: 42404), Prob: 0.0036
+Token: ' introduce' (ID: 19131), Prob: 0.0032
+Token: ' center' (ID: 4126), Prob: 0.0030
+Token: ' explore' (ID: 13186), Prob: 0.0030
+Token: ' highlight' (ID: 11167), Prob: 0.0028
+Token: ' demonstrate' (ID: 19869), Prob: 0.0027
+Token: ' convey' (ID: 20001), Prob: 0.0023
+Token: ' showcase' (ID: 34783), Prob: 0.0022
+Token: ' cover' (ID: 3421), Prob: 0.0018
+Token: ' address' (ID: 2621), Prob: 0.0017
+Token: ' discuss' (ID: 4263), Prob: 0.0014
+Token: ' portray' (ID: 24878), Prob: 0.0014
+Token: ' adhere' (ID: 48453), Prob: 0.0014
+Token: ' provide' (ID: 3410), Prob: 0.0012
+Token: ' indicate' (ID: 13216), Prob: 0.0012
+Token: ' make' (ID: 1281), Prob: 0.0010
+Token: ' display' (ID: 3037), Prob: 0.0009
+Token: ' explain' (ID: 10339), Prob: 0.0009
+Token: ' occur' (ID: 12170), Prob: 0.0009
+Token: ' reveal' (ID: 16400), Prob: 0.0009
+Token: ' mention' (ID: 6286), Prob: 0.0008
+Token: ' clearly' (ID: 9355), Prob: 0.0008
+Token: ' maintain' (ID: 10306), Prob: 0.0008
+Token: ' place' (ID: 1992), Prob: 0.0007
+Token: ' fulfill' (ID: 20423), Prob: 0.0007
+Token: ' emphasize' (ID: 45932), Prob: 0.0007
+Token: ' establish' (ID: 5695), Prob: 0.0007
+Token: ' open' (ID: 1787), Prob: 0.0006
+Token: ' avoid' (ID: 5648), Prob: 0.0006
+Token: ' speak' (ID: 6468), Prob: 0.0006
+Token: ' state' (ID: 1584), Prob: 0.0005
+Token: ' meet' (ID: 3367), Prob: 0.0005
+Token: ' engage' (ID: 16579), Prob: 0.0005
+Token: ' conform' (ID: 25879), Prob: 0.0005
+Token: ' come' (ID: 2525), Prob: 0.0005
+Token: ' appear' (ID: 4994), Prob: 0.0005
+Token: ' span' (ID: 9390), Prob: 0.0005
+Token: ' flow' (ID: 6396), Prob: 0.0005
+Token: ' read' (ID: 1349), Prob: 0.0004
+Token: ' give' (ID: 2968), Prob: 0.0004
+Token: ' utilize' (ID: 28066), Prob: 0.0004
+Token: ' suggest' (ID: 4190), Prob: 0.0004
+Token: ' rev' (ID: 5772), Prob: 0.0004
+Token: ' connect' (ID: 4564), Prob: 0.0004
+Token: ' reference' (ID: 5785), Prob: 0.0004
+Token: ' explicitly' (ID: 20975), Prob: 0.0004
+Token: ' integrate' (ID: 31072), Prob: 0.0004
+Token: ' imply' (ID: 33508), Prob: 0.0004
+Token: ' create' (ID: 1855), Prob: 0.0003
 Token: ' express' (ID: 3158), Prob: 0.0003
-Token: ' theme' (ID: 6912), Prob: 0.0003
-Token: ' joy' (ID: 15888), Prob: 0.0003
-Token: ' sincere' (ID: 48324), Prob: 0.0003
-Token: ' sorrow' (ID: 57496), Prob: 0.0003
-Token: ' process' (ID: 1882), Prob: 0.0003
-Token: ' personal' (ID: 4345), Prob: 0.0003
-Token: ' exact' (ID: 4734), Prob: 0.0003
-Token: ' nature' (ID: 6993), Prob: 0.0003
-Token: ' triggering' (ID: 51505), Prob: 0.0003
-Token: ' central' (ID: 8622), Prob: 0.0003
-Token: ' strongest' (ID: 29905), Prob: 0.0003
-Token: ' event' (ID: 1538), Prob: 0.0003
-Token: ' emot' (ID: 10172), Prob: 0.0003
-Token: ' right' (ID: 1290), Prob: 0.0002
+Token: ' exhibit' (ID: 30224), Prob: 0.0003
+Token: ' illustrate' (ID: 40368), Prob: 0.0003
+Token: ' set' (ID: 738), Prob: 0.0003
+Token: ' serve' (ID: 8683), Prob: 0.0003
+Token: ' capture' (ID: 12322), Prob: 0.0003
+Token: ' support' (ID: 1824), Prob: 0.0003
+Token: ' write' (ID: 3270), Prob: 0.0003
+Token: ' represent' (ID: 4009), Prob: 0.0003
+Token: ' touch' (ID: 5796), Prob: 0.0003
+Token: ' refer' (ID: 8300), Prob: 0.0003
+Token: ' resolve' (ID: 8830), Prob: 0.0003
+Token: ' alternate' (ID: 24609), Prob: 0.0003
+Token: ' weave' (ID: 67508), Prob: 0.0003
+Token: ' require' (ID: 1373), Prob: 0.0003
+Token: ' link' (ID: 2656), Prob: 0.0003
+Token: ' talk' (ID: 3061), Prob: 0.0003
+Token: ' examine' (ID: 20961), Prob: 0.0003
+Token: ' develop' (ID: 2225), Prob: 0.0002
+Token: ' lead' (ID: 2990), Prob: 0.0002
+Token: ' adopt' (ID: 10902), Prob: 0.0002
+Token: ' specify' (ID: 13837), Prob: 0.0002
+Token: ' tie' (ID: 18131), Prob: 0.0002
+Token: ' identify' (ID: 10542), Prob: 0.0002
 
 == Ranked Concepts (Clusters) ==
-Rank 1 | Centroid: ' emotions' | Score: 0.6562
-  Tokens: [' emotion', ' emotional', ' feeling', ' emotions', ' feelings', ' sensation', ' sensory', ' sentiment', ' emot']
-Rank 2 | Centroid: ' main' | Score: 0.0649
-  Tokens: [' main', ' core', ' key', ' primary', ' first', ' central']
-Rank 3 | Centroid: ' impact' | Score: 0.0645
-  Tokens: [' act', ' action', ' experience', ' impact', ' reaction', ' effect', ' process']
-Rank 4 | Centroid: ' intense' | Score: 0.0576
-  Tokens: [' intensity', ' strong', ' intense', ' overwhelming', ' vivid', ' powerful', ' sincere', ' strongest']
-Rank 5 | Centroid: ' basic' | Score: 0.0278
-  Tokens: [' basic', ' general', ' common', ' universal', ' simple', ' basics', ' typical']
-Rank 6 | Centroid: ' immediate' | Score: 0.0255
-  Tokens: [' initial', ' obvious', ' physical', ' direct', ' natural', ' immediate', ' clear', ' raw', ' original', ' personal', ' exact']
-Rank 7 | Centroid: ' expression' | Score: 0.0152
-  Tokens: [' expression', ' description', ' statement', ' express']
-Rank 8 | Centroid: ' desire' | Score: 0.0092
-  Tokens: [' desire', ' longing']
-Rank 9 | Centroid: ' request' | Score: 0.0078
-  Tokens: [' request']
-Rank 10 | Centroid: ' sorrow' | Score: 0.0074
-  Tokens: [' cry', ' pain', ' crying', ' tears', ' sadness', ' joy', ' sorrow']
-Rank 11 | Centroid: ' scenario' | Score: 0.0067
-  Tokens: [' scenario', ' situation', ' setting', ' condition', ' setup', ' context', ' scene', ' event']
-Rank 12 | Centroid: ' trigger' | Score: 0.0054
-  Tokens: [' trigger', ' cause', ' triggering']
-Rank 13 | Centroid: ' topic' | Score: 0.0045
-  Tokens: [' content', ' subject', ' topic', ' tone', ' theme']
-Rank 14 | Centroid: ' words' | Score: 0.0030
-  Tokens: [' phrase', ' word', ' words', ' sentence']
-Rank 15 | Centroid: ' essence' | Score: 0.0029
-  Tokens: [' essence', ' idea', ' intention']
-Rank 16 | Centroid: ' imagery' | Score: 0.0023
-  Tokens: [' imagery', ' metaphor', ' image']
-Rank 17 | Centroid: ' moment' | Score: 0.0019
-  Tokens: [' moment']
-Rank 18 | Centroid: ' repetition' | Score: 0.0014
-  Tokens: [' repetition', ' confession']
-Rank 19 | Centroid: ' need' | Score: 0.0012
-  Tokens: [' fact', ' need', ' right']
-Rank 20 | Centroid: ' gravity' | Score: 0.0009
-  Tokens: [' gravity', ' heart']
-Rank 21 | Centroid: ' nature' | Score: 0.0003
-  Tokens: [' nature']
+Rank 1 | Centroid: ' involve' | Score: 0.2930
+  Tokens: [' include', ' contain', ' consist', ' involve', ' require']
+Rank 2 | Centroid: ' start' | Score: 0.0496
+  Tokens: [' end', ' begin', ' start']
+Rank 3 | Centroid: ' adhere' | Score: 0.0400
+  Tokens: [' follow', ' adhere', ' fulfill', ' meet', ' conform']
+Rank 4 | Centroid: ' demonstrate' | Score: 0.0325
+  Tokens: [' show', ' demonstrate', ' showcase', ' display', ' reveal', ' exhibit', ' illustrate']
+Rank 5 | Centroid: ' indicate' | Score: 0.0197
+  Tokens: [' describe', ' indicate', ' explain', ' suggest', ' imply', ' specify', ' identify']
+Rank 6 | Centroid: ' conclude' | Score: 0.0197
+  Tokens: [' conclude']
+Rank 7 | Centroid: ' explicitly' | Score: 0.0186
+  Tokens: [' also', ' clearly', ' explicitly']
+Rank 8 | Centroid: ' focus' | Score: 0.0129
+  Tokens: [' focus', ' address']
+Rank 9 | Centroid: ' incorporate' | Score: 0.0126
+  Tokens: [' incorporate', ' introduce', ' explore', ' establish', ' engage', ' utilize', ' integrate', ' examine', ' develop']
+Rank 10 | Centroid: ' depict' | Score: 0.0121
+  Tokens: [' reflect', ' depict', ' convey', ' portray']
+Rank 11 | Centroid: ' center' | Score: 0.0107
+  Tokens: [' feature', ' center', ' span', ' flow', ' rev', ' touch']
+Rank 12 | Centroid: ' provide' | Score: 0.0107
+  Tokens: [' take', ' provide', ' make', ' give', ' create']
+Rank 13 | Centroid: ' use' | Score: 0.0087
+  Tokens: [' use']
+Rank 14 | Centroid: ' present' | Score: 0.0049
+  Tokens: [' present', ' state']
+Rank 15 | Centroid: ' tell' | Score: 0.0039
+  Tokens: [' tell']
+Rank 16 | Centroid: ' highlight' | Score: 0.0036
+  Tokens: [' highlight', ' emphasize']
+Rank 17 | Centroid: ' capture' | Score: 0.0024
+  Tokens: [' cover', ' capture', ' support']
+Rank 18 | Centroid: ' talk' | Score: 0.0022
+  Tokens: [' discuss', ' speak', ' talk']
+Rank 19 | Centroid: ' occur' | Score: 0.0018
+  Tokens: [' occur', ' come', ' appear']
+Rank 20 | Centroid: ' write' | Score: 0.0016
+  Tokens: [' open', ' read', ' set', ' write']
+Rank 21 | Centroid: ' avoid' | Score: 0.0016
+  Tokens: [' maintain', ' avoid', ' adopt']
+Rank 22 | Centroid: ' reference' | Score: 0.0015
+  Tokens: [' mention', ' reference', ' refer']
+Rank 23 | Centroid: ' link' | Score: 0.0012
+  Tokens: [' place', ' link', ' tie']
+Rank 24 | Centroid: ' express' | Score: 0.0006
+  Tokens: [' express', ' represent']
+Rank 25 | Centroid: ' serve' | Score: 0.0006
+  Tokens: [' serve', ' lead']
+Rank 26 | Centroid: ' connect' | Score: 0.0004
+  Tokens: [' connect']
+Rank 27 | Centroid: ' alternate' | Score: 0.0003
+  Tokens: [' alternate']
+Rank 28 | Centroid: ' resolve' | Score: 0.0003
+  Tokens: [' resolve']
+Rank 29 | Centroid: ' weave' | Score: 0.0003
+  Tokens: [' weave']
 
 **Chosen Concept:** Rank 1

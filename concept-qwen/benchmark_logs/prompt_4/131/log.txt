@@ -1,75 +1,83 @@
 --- Step 131 Log ---
 
 == Filtered Candidates ==
-Token: ' prompt' (ID: 9934), Prob: 0.9922
-Token: ' message' (ID: 1943), Prob: 0.0028
-Token: ' Prompt' (ID: 59501), Prob: 0.0003
-Token: ' prompts' (ID: 50932), Prob: 0.0001
-Token: '(prompt' (ID: 72253), Prob: 0.0001
-Token: 'prompt' (ID: 40581), Prob: 0.0001
-Token: ' question' (ID: 3405), Prob: 0.0000
-Token: ' potential' (ID: 4650), Prob: 0.0000
-Token: 'Prompt' (ID: 54615), Prob: 0.0000
-Token: ' prompting' (ID: 49645), Prob: 0.0000
-Token: ' prompted' (ID: 28646), Prob: 0.0000
-Token: '_prompt' (ID: 61421), Prob: 0.0000
-Token: ' motif' (ID: 59512), Prob: 0.0000
-Token: ' promise' (ID: 11222), Prob: 0.0000
-Token: ' prom' (ID: 2706), Prob: 0.0000
-Token: ' hint' (ID: 13012), Prob: 0.0000
-Token: ' keyword' (ID: 16174), Prob: 0.0000
-Token: ' promotion' (ID: 20249), Prob: 0.0000
-Token: ' within' (ID: 2878), Prob: 0.0000
-Token: ' theme' (ID: 6912), Prob: 0.0000
-Token: ' topic' (ID: 8544), Prob: 0.0000
-Token: '.prompt' (ID: 65399), Prob: 0.0000
-Token: ' point' (ID: 1459), Prob: 0.0000
-Token: ' position' (ID: 2309), Prob: 0.0000
-Token: ' mood' (ID: 19671), Prob: 0.0000
-Token: ' priority' (ID: 10619), Prob: 0.0000
-Token: ' wording' (ID: 60227), Prob: 0.0000
-Token: ' messages' (ID: 6605), Prob: 0.0000
-Token: ' title' (ID: 2265), Prob: 0.0000
-Token: ' option' (ID: 2999), Prob: 0.0000
-Token: ' list' (ID: 1140), Prob: 0.0000
-Token: ' PROM' (ID: 67688), Prob: 0.0000
-Token: ' possible' (ID: 3204), Prob: 0.0000
-Token: ' moment' (ID: 4445), Prob: 0.0000
+Token: '-step' (ID: 29208), Prob: 1.0000
+Token: ' step' (ID: 3019), Prob: 0.0012
+Token: ' Step' (ID: 14822), Prob: 0.0000
+Token: 'Step' (ID: 8304), Prob: 0.0000
+Token: 'step' (ID: 9520), Prob: 0.0000
+Token: '.step' (ID: 21465), Prob: 0.0000
+Token: '_step' (ID: 11946), Prob: 0.0000
+Token: '(step' (ID: 38436), Prob: 0.0000
+Token: '	step' (ID: 77093), Prob: 0.0000
+Token: ' steps' (ID: 7354), Prob: 0.0000
+Token: '_STEP' (ID: 39968), Prob: 0.0000
+Token: ' Steph' (ID: 40559), Prob: 0.0000
+Token: '-ste' (ID: 96326), Prob: 0.0000
+Token: '-one' (ID: 18589), Prob: 0.0000
+Token: '-st' (ID: 5477), Prob: 0.0000
+Token: '-store' (ID: 33252), Prob: 0.0000
+Token: ' STEP' (ID: 48356), Prob: 0.0000
+Token: ' stepped' (ID: 24326), Prob: 0.0000
+Token: '.Step' (ID: 68402), Prob: 0.0000
+Token: 'STEP' (ID: 50389), Prob: 0.0000
+Token: ' stepper' (ID: 95932), Prob: 0.0000
+Token: '-span' (ID: 64060), Prob: 0.0000
+Token: '-star' (ID: 20680), Prob: 0.0000
+Token: ' Stephanie' (ID: 48143), Prob: 0.0000
+Token: '-str' (ID: 41628), Prob: 0.0000
+Token: ' Stephen' (ID: 18095), Prob: 0.0000
+Token: '-start' (ID: 18935), Prob: 0.0000
+Token: ' Steps' (ID: 39861), Prob: 0.0000
+Token: '.steps' (ID: 58746), Prob: 0.0000
+Token: '-team' (ID: 42842), Prob: 0.0000
+Token: '-exp' (ID: 18376), Prob: 0.0000
+Token: ' paso' (ID: 61677), Prob: 0.0000
+Token: '-day' (ID: 11228), Prob: 0.0000
+Token: '-info' (ID: 12505), Prob: 0.0000
+Token: '-stop' (ID: 41211), Prob: 0.0000
+Token: '-date' (ID: 18413), Prob: 0.0000
+Token: ' one' (ID: 825), Prob: 0.0000
+Token: '_steps' (ID: 22731), Prob: 0.0000
+Token: '-pass' (ID: 46967), Prob: 0.0000
+Token: ' stepping' (ID: 35467), Prob: 0.0000
+Token: '-te' (ID: 48793), Prob: 0.0000
+Token: '-best' (ID: 56601), Prob: 0.0000
+Token: '-two' (ID: 37402), Prob: 0.0000
+Token: '-stage' (ID: 50156), Prob: 0.0000
+Token: ' étape' (ID: 141333), Prob: 0.0000
+Token: '-six' (ID: 54441), Prob: 0.0000
+Token: '—the' (ID: 21677), Prob: 0.0000
+Token: '-grade' (ID: 40227), Prob: 0.0000
+Token: 'Steps' (ID: 33951), Prob: 0.0000
+Token: ' Stephens' (ID: 75923), Prob: 0.0000
 
 == Ranked Concepts (Clusters) ==
-Rank 1 | Centroid: ' prompt' | Score: 0.9922
-  Tokens: [' prompt', ' Prompt', ' prompts', '(prompt', 'prompt', 'Prompt', ' prompting', ' prompted', '_prompt', '.prompt']
-Rank 2 | Centroid: ' message' | Score: 0.0028
-  Tokens: [' message', ' messages']
-Rank 3 | Centroid: ' question' | Score: 0.0000
-  Tokens: [' question']
-Rank 4 | Centroid: ' theme' | Score: 0.0000
-  Tokens: [' motif', ' keyword', ' theme', ' topic']
-Rank 5 | Centroid: ' potential' | Score: 0.0000
-  Tokens: [' potential', ' possible']
-Rank 6 | Centroid: ' PROM' | Score: 0.0000
-  Tokens: [' prom', ' promotion', ' PROM']
-Rank 7 | Centroid: ' promise' | Score: 0.0000
-  Tokens: [' promise']
-Rank 8 | Centroid: ' point' | Score: 0.0000
-  Tokens: [' point', ' moment']
-Rank 9 | Centroid: ' hint' | Score: 0.0000
-  Tokens: [' hint']
-Rank 10 | Centroid: ' within' | Score: 0.0000
-  Tokens: [' within']
-Rank 11 | Centroid: ' position' | Score: 0.0000
-  Tokens: [' position']
-Rank 12 | Centroid: ' mood' | Score: 0.0000
-  Tokens: [' mood']
-Rank 13 | Centroid: ' priority' | Score: 0.0000
-  Tokens: [' priority']
-Rank 14 | Centroid: ' wording' | Score: 0.0000
-  Tokens: [' wording']
-Rank 15 | Centroid: ' title' | Score: 0.0000
-  Tokens: [' title']
-Rank 16 | Centroid: ' option' | Score: 0.0000
-  Tokens: [' option']
-Rank 17 | Centroid: ' list' | Score: 0.0000
-  Tokens: [' list']
+Rank 1 | Centroid: ' Step' | Score: 1.0000
+  Tokens: ['-step', ' step', ' Step', 'Step', 'step', '.step', '_step', '(step', '\tstep', '_STEP', ' STEP', '.Step', 'STEP']
+Rank 2 | Centroid: ' Steps' | Score: 0.0000
+  Tokens: [' steps', ' Steps', '.steps', '_steps', 'Steps']
+Rank 3 | Centroid: ' Stephanie' | Score: 0.0000
+  Tokens: [' Steph', ' Stephanie', ' Stephen', ' Stephens']
+Rank 4 | Centroid: ' stepping' | Score: 0.0000
+  Tokens: ['-ste', ' stepped', ' stepper', ' stepping']
+Rank 5 | Centroid: '-one' | Score: 0.0000
+  Tokens: ['-one', ' one']
+Rank 6 | Centroid: '-st' | Score: 0.0000
+  Tokens: ['-st', '-star', '-str', '-exp']
+Rank 7 | Centroid: '-te' | Score: 0.0000
+  Tokens: ['-store', '-team', '-info', '-te', '-best']
+Rank 8 | Centroid: '-span' | Score: 0.0000
+  Tokens: ['-span']
+Rank 9 | Centroid: '-stage' | Score: 0.0000
+  Tokens: ['-day', '-date', '-stage', '-grade']
+Rank 10 | Centroid: '-start' | Score: 0.0000
+  Tokens: ['-start', '-stop']
+Rank 11 | Centroid: ' paso' | Score: 0.0000
+  Tokens: [' paso', '-pass']
+Rank 12 | Centroid: '-two' | Score: 0.0000
+  Tokens: ['-two', '-six', '—the']
+Rank 13 | Centroid: ' étape' | Score: 0.0000
+  Tokens: [' étape']
 
 **Chosen Concept:** Rank 1

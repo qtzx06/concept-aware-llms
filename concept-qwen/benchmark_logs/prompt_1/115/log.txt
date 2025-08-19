@@ -1,144 +1,147 @@
 --- Step 115 Log ---
 
 == Filtered Candidates ==
-Token: ' sadness' (ID: 50878), Prob: 0.2734
-Token: ' overwhelm' (ID: 95748), Prob: 0.0889
-Token: ' overwhelming' (ID: 22024), Prob: 0.0540
-Token: ' loss' (ID: 4709), Prob: 0.0420
-Token: ' despair' (ID: 45896), Prob: 0.0121
-Token: ' crying' (ID: 30199), Prob: 0.0083
-Token: ' sorrow' (ID: 57496), Prob: 0.0083
-Token: ' loneliness' (ID: 73940), Prob: 0.0064
-Token: ' losing' (ID: 13188), Prob: 0.0057
-Token: ' overwhelmed' (ID: 42106), Prob: 0.0050
-Token: ' empt' (ID: 53069), Prob: 0.0050
-Token: ' tears' (ID: 23139), Prob: 0.0039
+Token: ' reflection' (ID: 21844), Prob: 0.2324
+Token: ' quiet' (ID: 11340), Prob: 0.2051
+Token: ' peace' (ID: 8919), Prob: 0.1416
+Token: ' solitude' (ID: 98444), Prob: 0.0405
+Token: ' memory' (ID: 4938), Prob: 0.0231
+Token: ' closure' (ID: 21955), Prob: 0.0216
+Token: ' silence' (ID: 21162), Prob: 0.0192
+Token: ' still' (ID: 2058), Prob: 0.0179
+Token: ' healing' (ID: 21052), Prob: 0.0179
+Token: ' rem' (ID: 1299), Prob: 0.0109
+Token: ' acceptance' (ID: 25505), Prob: 0.0103
+Token: ' rest' (ID: 2732), Prob: 0.0090
+Token: ' hope' (ID: 3900), Prob: 0.0080
+Token: ' peaceful' (ID: 25650), Prob: 0.0075
+Token: ' contempl' (ID: 38371), Prob: 0.0070
+Token: ' comfort' (ID: 6838), Prob: 0.0058
+Token: ' calm' (ID: 19300), Prob: 0.0058
+Token: ' longing' (ID: 78322), Prob: 0.0052
+Token: ' empt' (ID: 53069), Prob: 0.0045
+Token: ' resolution' (ID: 10935), Prob: 0.0043
+Token: ' new' (ID: 501), Prob: 0.0038
+Token: ' intros' (ID: 25528), Prob: 0.0038
+Token: ' purpose' (ID: 7428), Prob: 0.0035
+Token: ' renewal' (ID: 42801), Prob: 0.0035
+Token: ' personal' (ID: 4345), Prob: 0.0033
+Token: ' isolation' (ID: 30298), Prob: 0.0033
+Token: ' final' (ID: 1590), Prob: 0.0031
+Token: ' empty' (ID: 4287), Prob: 0.0029
+Token: ' meaning' (ID: 7290), Prob: 0.0027
+Token: ' separation' (ID: 24737), Prob: 0.0027
+Token: ' beauty' (ID: 13143), Prob: 0.0024
+Token: ' belonging' (ID: 32052), Prob: 0.0024
+Token: ' connection' (ID: 3633), Prob: 0.0023
+Token: ' tranqu' (ID: 40564), Prob: 0.0023
 Token: ' emotional' (ID: 14269), Prob: 0.0022
-Token: ' suff' (ID: 8489), Prob: 0.0021
-Token: ' exhaustion' (ID: 69563), Prob: 0.0021
-Token: ' grief' (ID: 37284), Prob: 0.0018
-Token: ' devastation' (ID: 81915), Prob: 0.0015
-Token: ' longing' (ID: 78322), Prob: 0.0014
-Token: ' vulnerability' (ID: 33004), Prob: 0.0013
-Token: ' feeling' (ID: 8266), Prob: 0.0011
-Token: ' help' (ID: 1492), Prob: 0.0010
-Token: ' deep' (ID: 5538), Prob: 0.0010
-Token: ' emotion' (ID: 19772), Prob: 0.0008
-Token: ' pain' (ID: 6646), Prob: 0.0007
-Token: ' intense' (ID: 18894), Prob: 0.0007
-Token: ' chaos' (ID: 26915), Prob: 0.0006
-Token: ' heart' (ID: 4746), Prob: 0.0005
-Token: ' desperation' (ID: 73324), Prob: 0.0005
-Token: ' drowning' (ID: 73437), Prob: 0.0005
-Token: ' confusion' (ID: 21340), Prob: 0.0004
-Token: ' immense' (ID: 37783), Prob: 0.0004
-Token: ' melanch' (ID: 86063), Prob: 0.0004
-Token: ' joy' (ID: 15888), Prob: 0.0003
-Token: ' distress' (ID: 34004), Prob: 0.0003
-Token: ' something' (ID: 2494), Prob: 0.0003
-Token: ' shock' (ID: 10755), Prob: 0.0003
-Token: ' missing' (ID: 7402), Prob: 0.0003
-Token: ' tear' (ID: 17576), Prob: 0.0003
-Token: ' depression' (ID: 18210), Prob: 0.0003
-Token: ' weakness' (ID: 23078), Prob: 0.0002
-Token: ' love' (ID: 2948), Prob: 0.0002
-Token: ' wanting' (ID: 19211), Prob: 0.0002
-Token: ' profound' (ID: 27155), Prob: 0.0002
-Token: ' struggle' (ID: 14651), Prob: 0.0002
-Token: ' letting' (ID: 20194), Prob: 0.0002
-Token: ' sob' (ID: 11493), Prob: 0.0002
-Token: ' needing' (ID: 32821), Prob: 0.0002
-Token: ' solitude' (ID: 98444), Prob: 0.0002
-Token: ' emotions' (ID: 21261), Prob: 0.0002
-Token: ' inade' (ID: 39106), Prob: 0.0002
-Token: ' frustration' (ID: 31986), Prob: 0.0001
-Token: ' des' (ID: 939), Prob: 0.0001
-Token: ' lost' (ID: 5558), Prob: 0.0001
-Token: ' extreme' (ID: 14226), Prob: 0.0001
-Token: ' turmoil' (ID: 62255), Prob: 0.0001
-Token: ' sor' (ID: 24534), Prob: 0.0001
-Token: ' happiness' (ID: 23009), Prob: 0.0001
-Token: ' disappointment' (ID: 40598), Prob: 0.0001
-Token: ' breaking' (ID: 14719), Prob: 0.0001
-Token: ' deprivation' (ID: 68664), Prob: 0.0001
-Token: ' tearing' (ID: 55736), Prob: 0.0001
-Token: ' disbelief' (ID: 73254), Prob: 0.0001
-Token: ' empty' (ID: 4287), Prob: 0.0001
-Token: ' failure' (ID: 7901), Prob: 0.0001
-Token: ' inability' (ID: 37450), Prob: 0.0001
-Token: ' wide' (ID: 6884), Prob: 0.0001
-Token: ' anxiety' (ID: 18056), Prob: 0.0001
-Token: ' anger' (ID: 19234), Prob: 0.0001
-Token: ' anguish' (ID: 94922), Prob: 0.0001
-Token: ' hope' (ID: 3900), Prob: 0.0001
-Token: ' empathy' (ID: 47351), Prob: 0.0001
-Token: ' pouring' (ID: 50413), Prob: 0.0001
-Token: ' low' (ID: 3347), Prob: 0.0001
-Token: ' inner' (ID: 9179), Prob: 0.0001
-Token: ' endless' (ID: 25678), Prob: 0.0001
-Token: ' realization' (ID: 48703), Prob: 0.0001
-Token: ' getting' (ID: 3709), Prob: 0.0001
-Token: ' experiencing' (ID: 24084), Prob: 0.0001
-Token: ' total' (ID: 2790), Prob: 0.0000
-Token: ' complete' (ID: 4583), Prob: 0.0000
-Token: ' hurt' (ID: 12898), Prob: 0.0000
-Token: ' struggling' (ID: 19962), Prob: 0.0000
-Token: ' fatigue' (ID: 35609), Prob: 0.0000
-Token: ' lack' (ID: 6853), Prob: 0.0000
-Token: ' isolation' (ID: 30298), Prob: 0.0000
-Token: ' expressing' (ID: 36710), Prob: 0.0000
-Token: ' nostalgia' (ID: 64775), Prob: 0.0000
-Token: ' betrayal' (ID: 67276), Prob: 0.0000
-Token: ' trembling' (ID: 91988), Prob: 0.0000
+Token: ' restoration' (ID: 33993), Prob: 0.0022
+Token: ' nostalgia' (ID: 64775), Prob: 0.0022
+Token: ' reflective' (ID: 51728), Prob: 0.0020
+Token: ' space' (ID: 3550), Prob: 0.0019
+Token: ' respect' (ID: 5091), Prob: 0.0019
+Token: ' transformation' (ID: 17991), Prob: 0.0019
+Token: ' change' (ID: 2297), Prob: 0.0018
+Token: ' transition' (ID: 9142), Prob: 0.0018
+Token: ' recovery' (ID: 13351), Prob: 0.0018
+Token: ' renewed' (ID: 35546), Prob: 0.0018
+Token: ' sol' (ID: 2048), Prob: 0.0017
+Token: ' rejuven' (ID: 72384), Prob: 0.0017
+Token: ' wonder' (ID: 5775), Prob: 0.0016
+Token: ' absence' (ID: 19265), Prob: 0.0016
+Token: ' regret' (ID: 22231), Prob: 0.0016
+Token: ' loneliness' (ID: 73940), Prob: 0.0016
+Token: ' mourning' (ID: 75250), Prob: 0.0016
+Token: ' warmth' (ID: 40363), Prob: 0.0015
+Token: ' understanding' (ID: 8660), Prob: 0.0013
+Token: ' refuge' (ID: 14510), Prob: 0.0013
+Token: ' res' (ID: 592), Prob: 0.0012
+Token: ' retreat' (ID: 30014), Prob: 0.0012
+Token: ' loss' (ID: 4709), Prob: 0.0011
+Token: ' growth' (ID: 6513), Prob: 0.0011
+Token: ' safety' (ID: 7149), Prob: 0.0011
+Token: ' reunion' (ID: 57284), Prob: 0.0011
+Token: ' sorrow' (ID: 57496), Prob: 0.0011
+Token: ' self' (ID: 656), Prob: 0.0011
+Token: ' ser' (ID: 1420), Prob: 0.0011
+Token: ' harmony' (ID: 25281), Prob: 0.0011
+Token: ' distance' (ID: 6010), Prob: 0.0010
+Token: ' memories' (ID: 18923), Prob: 0.0010
+Token: ' grief' (ID: 37284), Prob: 0.0010
+Token: ' reverence' (ID: 97364), Prob: 0.0009
+Token: ' sanctuary' (ID: 50539), Prob: 0.0009
+Token: ' focus' (ID: 5244), Prob: 0.0008
+Token: ' sadness' (ID: 50878), Prob: 0.0008
+Token: ' reconciliation' (ID: 57655), Prob: 0.0008
+Token: ' relief' (ID: 15957), Prob: 0.0007
+Token: ' privacy' (ID: 12345), Prob: 0.0007
+Token: ' continuity' (ID: 49006), Prob: 0.0007
+Token: ' des' (ID: 939), Prob: 0.0007
+Token: ' normal' (ID: 4622), Prob: 0.0007
+Token: ' inner' (ID: 9179), Prob: 0.0007
+Token: ' mystery' (ID: 22531), Prob: 0.0007
+Token: ' gratitude' (ID: 45035), Prob: 0.0007
+Token: ' cath' (ID: 30647), Prob: 0.0006
+Token: ' light' (ID: 3100), Prob: 0.0006
+Token: ' memorial' (ID: 37917), Prob: 0.0006
+Token: ' rep' (ID: 2064), Prob: 0.0005
+Token: ' love' (ID: 2948), Prob: 0.0005
+Token: ' finally' (ID: 5499), Prob: 0.0005
+Token: ' freedom' (ID: 11290), Prob: 0.0005
+Token: ' return' (ID: 470), Prob: 0.0005
+Token: ' home' (ID: 2114), Prob: 0.0005
+Token: '/or' (ID: 5144), Prob: 0.0005
+Token: ' celebration' (ID: 24916), Prob: 0.0005
 
 == Ranked Concepts (Clusters) ==
-Rank 1 | Centroid: ' sorrow' | Score: 0.2852
-  Tokens: [' sadness', ' sorrow', ' grief', ' melanch', ' happiness', ' anger', ' anguish']
-Rank 2 | Centroid: ' overwhelm' | Score: 0.1475
-  Tokens: [' overwhelm', ' overwhelming', ' overwhelmed']
-Rank 3 | Centroid: ' lost' | Score: 0.0479
-  Tokens: [' loss', ' losing', ' lost']
-Rank 4 | Centroid: ' despair' | Score: 0.0193
-  Tokens: [' despair', ' loneliness', ' desperation', ' solitude', ' disbelief', ' nostalgia']
-Rank 5 | Centroid: ' tear' | Score: 0.0126
-  Tokens: [' crying', ' tears', ' tear', ' tearing']
-Rank 6 | Centroid: ' empt' | Score: 0.0051
+Rank 1 | Centroid: ' calm' | Score: 0.3613
+  Tokens: [' quiet', ' peace', ' peaceful', ' calm', ' tranqu']
+Rank 2 | Centroid: ' reflective' | Score: 0.2451
+  Tokens: [' reflection', ' contempl', ' intros', ' reflective']
+Rank 3 | Centroid: ' solitude' | Score: 0.0613
+  Tokens: [' solitude', ' silence', ' loneliness']
+Rank 4 | Centroid: ' renewal' | Score: 0.0309
+  Tokens: [' healing', ' renewal', ' restoration', ' recovery', ' renewed', ' rejuven', ' reunion', ' reconciliation']
+Rank 5 | Centroid: ' separation' | Score: 0.0303
+  Tokens: [' closure', ' isolation', ' separation', ' absence', ' distance']
+Rank 6 | Centroid: ' memories' | Score: 0.0269
+  Tokens: [' memory', ' nostalgia', ' memories', ' memorial']
+Rank 7 | Centroid: ' rem' | Score: 0.0222
+  Tokens: [' rem', ' rest', ' res', ' rep', ' return']
+Rank 8 | Centroid: ' finally' | Score: 0.0216
+  Tokens: [' still', ' final', ' finally']
+Rank 9 | Centroid: ' transformation' | Score: 0.0192
+  Tokens: [' acceptance', ' connection', ' transformation', ' change', ' transition', ' growth']
+Rank 10 | Centroid: ' sorrow' | Score: 0.0134
+  Tokens: [' longing', ' emotional', ' regret', ' mourning', ' sorrow', ' grief', ' sadness']
+Rank 11 | Centroid: ' hope' | Score: 0.0123
+  Tokens: [' hope', ' respect', ' wonder', ' focus']
+Rank 12 | Centroid: ' privacy' | Score: 0.0121
+  Tokens: [' comfort', ' beauty', ' warmth', ' safety', ' privacy', ' freedom']
+Rank 13 | Centroid: ' meaning' | Score: 0.0100
+  Tokens: [' purpose', ' meaning', ' belonging', ' understanding']
+Rank 14 | Centroid: ' personal' | Score: 0.0082
+  Tokens: [' personal', ' space', ' self', ' des', ' normal', ' inner']
+Rank 15 | Centroid: ' empt' | Score: 0.0075
   Tokens: [' empt', ' empty']
-Rank 7 | Centroid: ' emotions' | Score: 0.0044
-  Tokens: [' emotional', ' feeling', ' emotion', ' emotions', ' empathy']
-Rank 8 | Centroid: ' fatigue' | Score: 0.0035
-  Tokens: [' exhaustion', ' vulnerability', ' deprivation', ' fatigue']
-Rank 9 | Centroid: ' profound' | Score: 0.0025
-  Tokens: [' deep', ' intense', ' immense', ' profound', ' extreme', ' wide', ' low', ' endless']
-Rank 10 | Centroid: ' total' | Score: 0.0021
-  Tokens: [' help', ' heart', ' something', ' des', ' inner', ' total', ' complete']
-Rank 11 | Centroid: ' suff' | Score: 0.0021
-  Tokens: [' suff']
-Rank 12 | Centroid: ' devastation' | Score: 0.0016
-  Tokens: [' devastation', ' turmoil']
-Rank 13 | Centroid: ' longing' | Score: 0.0014
-  Tokens: [' longing']
-Rank 14 | Centroid: ' chaos' | Score: 0.0013
-  Tokens: [' chaos', ' confusion', ' shock']
-Rank 15 | Centroid: ' pain' | Score: 0.0011
-  Tokens: [' pain', ' distress', ' hurt']
-Rank 16 | Centroid: ' getting' | Score: 0.0008
-  Tokens: [' wanting', ' letting', ' needing', ' breaking', ' pouring', ' getting', ' experiencing', ' expressing']
-Rank 17 | Centroid: ' struggling' | Score: 0.0007
-  Tokens: [' weakness', ' struggle', ' inade', ' inability', ' struggling']
-Rank 18 | Centroid: ' joy' | Score: 0.0006
-  Tokens: [' joy', ' love', ' hope']
-Rank 19 | Centroid: ' drowning' | Score: 0.0006
-  Tokens: [' drowning', ' trembling']
-Rank 20 | Centroid: ' lack' | Score: 0.0004
-  Tokens: [' missing', ' failure', ' lack']
-Rank 21 | Centroid: ' depression' | Score: 0.0003
-  Tokens: [' depression', ' anxiety']
-Rank 22 | Centroid: ' disappointment' | Score: 0.0003
-  Tokens: [' frustration', ' disappointment', ' betrayal']
-Rank 23 | Centroid: ' sob' | Score: 0.0003
-  Tokens: [' sob', ' sor']
-Rank 24 | Centroid: ' realization' | Score: 0.0001
-  Tokens: [' realization', ' isolation']
+Rank 16 | Centroid: ' new' | Score: 0.0049
+  Tokens: [' new', ' light', '/or']
+Rank 17 | Centroid: ' resolution' | Score: 0.0043
+  Tokens: [' resolution']
+Rank 18 | Centroid: ' refuge' | Score: 0.0034
+  Tokens: [' refuge', ' retreat', ' sanctuary']
+Rank 19 | Centroid: ' ser' | Score: 0.0033
+  Tokens: [' sol', ' ser', ' home']
+Rank 20 | Centroid: ' reverence' | Score: 0.0028
+  Tokens: [' reverence', ' mystery', ' gratitude', ' celebration']
+Rank 21 | Centroid: ' harmony' | Score: 0.0018
+  Tokens: [' harmony', ' continuity']
+Rank 22 | Centroid: ' loss' | Score: 0.0017
+  Tokens: [' loss', ' love']
+Rank 23 | Centroid: ' relief' | Score: 0.0007
+  Tokens: [' relief']
+Rank 24 | Centroid: ' cath' | Score: 0.0006
+  Tokens: [' cath']
 
 **Chosen Concept:** Rank 1

@@ -1,0 +1,136 @@
+--- Step 109 Log ---
+
+== Filtered Candidates ==
+Token: ' becomes' (ID: 9044), Prob: 0.5000
+Token: ' comes' (ID: 4041), Prob: 0.0674
+Token: ' returns' (ID: 4675), Prob: 0.0282
+Token: ' remains' (ID: 8458), Prob: 0.0098
+Token: ' goes' (ID: 5780), Prob: 0.0063
+Token: ' begins' (ID: 12033), Prob: 0.0059
+Token: ' transforms' (ID: 28475), Prob: 0.0038
+Token: ' turns' (ID: 10577), Prob: 0.0036
+Token: ' fades' (ID: 86409), Prob: 0.0034
+Token: ' feels' (ID: 11074), Prob: 0.0030
+Token: ' takes' (ID: 4990), Prob: 0.0023
+Token: ' disappears' (ID: 60270), Prob: 0.0023
+Token: ' ends' (ID: 10335), Prob: 0.0020
+Token: ' slowly' (ID: 13970), Prob: 0.0015
+Token: ' reflects' (ID: 25963), Prob: 0.0015
+Token: ' eventually' (ID: 9583), Prob: 0.0013
+Token: ' appears' (ID: 7952), Prob: 0.0009
+Token: ' stays' (ID: 26558), Prob: 0.0009
+Token: ' starts' (ID: 8471), Prob: 0.0008
+Token: ' changes' (ID: 4344), Prob: 0.0007
+Token: ' moves' (ID: 10797), Prob: 0.0007
+Token: ' finally' (ID: 5499), Prob: 0.0006
+Token: ' gets' (ID: 5221), Prob: 0.0006
+Token: ' finds' (ID: 13719), Prob: 0.0005
+Token: ' falls' (ID: 17066), Prob: 0.0005
+Token: ' lives' (ID: 6305), Prob: 0.0005
+Token: ' continues' (ID: 9539), Prob: 0.0004
+Token: ' closes' (ID: 33250), Prob: 0.0004
+Token: ' must' (ID: 1969), Prob: 0.0004
+Token: ' gradually' (ID: 26024), Prob: 0.0004
+Token: ' makes' (ID: 3643), Prob: 0.0004
+Token: ' seems' (ID: 4977), Prob: 0.0004
+Token: ' gives' (ID: 6696), Prob: 0.0004
+Token: ' loses' (ID: 32191), Prob: 0.0004
+Token: ' opens' (ID: 15885), Prob: 0.0003
+Token: ' become' (ID: 3635), Prob: 0.0003
+Token: ' forever' (ID: 15683), Prob: 0.0003
+Token: ' leaves' (ID: 10901), Prob: 0.0003
+Token: ' restores' (ID: 87755), Prob: 0.0003
+Token: ' diss' (ID: 13772), Prob: 0.0003
+Token: ' serves' (ID: 17045), Prob: 0.0003
+Token: ' rec' (ID: 1395), Prob: 0.0002
+Token: ' experiences' (ID: 11449), Prob: 0.0002
+Token: ' stands' (ID: 13352), Prob: 0.0002
+Token: ' still' (ID: 2058), Prob: 0.0002
+Token: ' never' (ID: 2581), Prob: 0.0002
+Token: ' grows' (ID: 27715), Prob: 0.0002
+Token: ' evolves' (ID: 91954), Prob: 0.0002
+Token: ' receives' (ID: 21189), Prob: 0.0002
+Token: ' rests' (ID: 53231), Prob: 0.0002
+Token: ' van' (ID: 5242), Prob: 0.0002
+Token: ' meets' (ID: 20027), Prob: 0.0002
+Token: ' come' (ID: 2525), Prob: 0.0002
+Token: ' undergo' (ID: 36671), Prob: 0.0002
+Token: ' brings' (ID: 12434), Prob: 0.0001
+Token: ' merges' (ID: 80953), Prob: 0.0001
+Token: ' ultimately' (ID: 13653), Prob: 0.0001
+Token: ' safely' (ID: 21000), Prob: 0.0001
+Token: ' rep' (ID: 2064), Prob: 0.0001
+Token: ' represents' (ID: 10868), Prob: 0.0001
+Token: ' fills' (ID: 40587), Prob: 0.0001
+Token: ' shows' (ID: 4933), Prob: 0.0001
+Token: ' dies' (ID: 8725), Prob: 0.0001
+Token: ' rebuild' (ID: 31493), Prob: 0.0001
+Token: ' breaks' (ID: 18303), Prob: 0.0001
+Token: ' permanently' (ID: 30759), Prob: 0.0001
+Token: ' finishes' (ID: 33036), Prob: 0.0001
+Token: ' remembers' (ID: 42357), Prob: 0.0001
+Token: ' symbol' (ID: 7735), Prob: 0.0001
+Token: ' suddenly' (ID: 14843), Prob: 0.0001
+Token: ' empt' (ID: 53069), Prob: 0.0001
+Token: ' resets' (ID: 66197), Prob: 0.0001
+Token: ' survives' (ID: 82317), Prob: 0.0001
+Token: ' may' (ID: 1231), Prob: 0.0001
+Token: ' dec' (ID: 1622), Prob: 0.0001
+Token: ' lies' (ID: 15448), Prob: 0.0001
+Token: ' collapses' (ID: 86358), Prob: 0.0001
+
+== Ranked Concepts (Clusters) ==
+Rank 1 | Centroid: ' becomes' | Score: 0.5000
+  Tokens: [' becomes', ' become']
+Rank 2 | Centroid: ' comes' | Score: 0.0674
+  Tokens: [' comes', ' come']
+Rank 3 | Centroid: ' returns' | Score: 0.0288
+  Tokens: [' returns', ' finds']
+Rank 4 | Centroid: ' remains' | Score: 0.0110
+  Tokens: [' remains', ' stays', ' continues']
+Rank 5 | Centroid: ' transforms' | Score: 0.0092
+  Tokens: [' transforms', ' turns', ' changes', ' moves', ' leaves', ' breaks']
+Rank 6 | Centroid: ' starts' | Score: 0.0089
+  Tokens: [' begins', ' ends', ' starts', ' finishes']
+Rank 7 | Centroid: ' gives' | Score: 0.0084
+  Tokens: [' feels', ' takes', ' reflects', ' makes', ' gives', ' serves', ' meets', ' brings', ' represents', ' shows']
+Rank 8 | Centroid: ' goes' | Score: 0.0063
+  Tokens: [' goes']
+Rank 9 | Centroid: ' disappears' | Score: 0.0061
+  Tokens: [' fades', ' disappears', ' loses', ' collapses']
+Rank 10 | Centroid: ' eventually' | Score: 0.0041
+  Tokens: [' slowly', ' eventually', ' finally', ' gradually', ' ultimately', ' suddenly']
+Rank 11 | Centroid: ' appears' | Score: 0.0012
+  Tokens: [' appears', ' seems']
+Rank 12 | Centroid: ' opens' | Score: 0.0010
+  Tokens: [' closes', ' opens', ' fills', ' empt']
+Rank 13 | Centroid: ' gets' | Score: 0.0008
+  Tokens: [' gets', ' receives']
+Rank 14 | Centroid: ' permanently' | Score: 0.0007
+  Tokens: [' forever', ' never', ' safely', ' permanently']
+Rank 15 | Centroid: ' restores' | Score: 0.0006
+  Tokens: [' restores', ' merges', ' rebuild', ' resets']
+Rank 16 | Centroid: ' lives' | Score: 0.0006
+  Tokens: [' lives', ' dies']
+Rank 17 | Centroid: ' falls' | Score: 0.0005
+  Tokens: [' falls']
+Rank 18 | Centroid: ' diss' | Score: 0.0005
+  Tokens: [' diss', ' van', ' dec']
+Rank 19 | Centroid: ' must' | Score: 0.0005
+  Tokens: [' must', ' may']
+Rank 20 | Centroid: ' lies' | Score: 0.0005
+  Tokens: [' stands', ' rests', ' lies']
+Rank 21 | Centroid: ' grows' | Score: 0.0004
+  Tokens: [' grows', ' evolves']
+Rank 22 | Centroid: ' experiences' | Score: 0.0004
+  Tokens: [' experiences', ' undergo']
+Rank 23 | Centroid: ' rec' | Score: 0.0004
+  Tokens: [' rec', ' rep']
+Rank 24 | Centroid: ' remembers' | Score: 0.0002
+  Tokens: [' remembers', ' survives']
+Rank 25 | Centroid: ' still' | Score: 0.0002
+  Tokens: [' still']
+Rank 26 | Centroid: ' symbol' | Score: 0.0001
+  Tokens: [' symbol']
+
+**Chosen Concept:** Rank 1

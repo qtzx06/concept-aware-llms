@@ -1,88 +1,57 @@
 --- Step 97 Log ---
 
 == Filtered Candidates ==
-Token: 'Answer' (ID: 16141), Prob: 0.8945
-Token: 'Based' (ID: 28715), Prob: 0.0505
-Token: 'Okay' (ID: 32313), Prob: 0.0025
-Token: 'Question' (ID: 14582), Prob: 0.0013
-Token: 'Alright' (ID: 71486), Prob: 0.0007
-Token: 'Yes' (ID: 9454), Prob: 0.0003
-Token: 'Since' (ID: 12549), Prob: 0.0003
-Token: 'Please' (ID: 5501), Prob: 0.0002
-Token: 'Final' (ID: 19357), Prob: 0.0002
-Token: 'Finally' (ID: 23949), Prob: 0.0002
-Token: 'based' (ID: 29939), Prob: 0.0002
-Token: 'Problem' (ID: 31198), Prob: 0.0002
-Token: ' Based' (ID: 20205), Prob: 0.0002
-Token: ' Answer' (ID: 21806), Prob: 0.0002
-Token: 'Note' (ID: 9112), Prob: 0.0001
-Token: 'Therefore' (ID: 54815), Prob: 0.0001
-Token: 'Let' (ID: 10061), Prob: 0.0001
-Token: 'Even' (ID: 13159), Prob: 0.0001
-Token: 'Actually' (ID: 52592), Prob: 0.0001
-Token: 'Explanation' (ID: 69769), Prob: 0.0001
-Token: 'Word' (ID: 10879), Prob: 0.0001
-Token: 'Wait' (ID: 14190), Prob: 0.0001
-Token: 'Check' (ID: 3973), Prob: 0.0001
-Token: 'Given' (ID: 22043), Prob: 0.0001
-Token: 'Choose' (ID: 24051), Prob: 0.0001
-Token: 'Monday' (ID: 35239), Prob: 0.0001
-Token: 'Thus' (ID: 44500), Prob: 0.0001
-Token: 'However' (ID: 11209), Prob: 0.0001
-Token: 'Would' (ID: 27989), Prob: 0.0001
-Token: 'Back' (ID: 3707), Prob: 0.0001
-Token: 'Step' (ID: 8304), Prob: 0.0001
-Token: 'Solution' (ID: 36842), Prob: 0.0001
-Token: 'Response' (ID: 2582), Prob: 0.0001
-Token: 'Exercise' (ID: 52709), Prob: 0.0001
-Token: 'Analysis' (ID: 26573), Prob: 0.0001
-Token: 'Also' (ID: 13394), Prob: 0.0001
-Token: 'According' (ID: 11190), Prob: 0.0001
-Token: 'Possible' (ID: 65222), Prob: 0.0001
-Token: 'Group' (ID: 2808), Prob: 0.0000
-Token: 'Number' (ID: 2833), Prob: 0.0000
-Token: 'Every' (ID: 11510), Prob: 0.0000
-Token: 'Thank' (ID: 13060), Prob: 0.0000
-Token: 'Review' (ID: 19432), Prob: 0.0000
+Token: ' examples' (ID: 10295), Prob: 0.0001
+Token: ' possible' (ID: 3204), Prob: 0.0000
+Token: ' existing' (ID: 6350), Prob: 0.0000
+Token: ' details' (ID: 3565), Prob: 0.0000
+Token: '—the' (ID: 21677), Prob: 0.0000
+Token: '—if' (ID: 89763), Prob: 0.0000
+Token: ' structure' (ID: 5944), Prob: 0.0000
+Token: ' example' (ID: 3110), Prob: 0.0000
+Token: ' colors' (ID: 7987), Prob: 0.0000
+Token: ' something' (ID: 2494), Prob: 0.0000
+Token: ' specific' (ID: 3151), Prob: 0.0000
+Token: ' words' (ID: 4244), Prob: 0.0000
+Token: ' possibilities' (ID: 23607), Prob: 0.0000
+Token: ' elements' (ID: 5424), Prob: 0.0000
+Token: ' directions' (ID: 17961), Prob: 0.0000
+Token: ' specifics' (ID: 48349), Prob: 0.0000
+Token: ' options' (ID: 2606), Prob: 0.0000
+Token: ' emotions' (ID: 21261), Prob: 0.0000
+Token: ' ideas' (ID: 6708), Prob: 0.0000
+Token: ' available' (ID: 2500), Prob: 0.0000
+Token: ' characters' (ID: 5766), Prob: 0.0000
+Token: '—an' (ID: 84266), Prob: 0.0000
+Token: ' sample' (ID: 6077), Prob: 0.0000
+Token: ' maybe' (ID: 7196), Prob: 0.0000
 
 == Ranked Concepts (Clusters) ==
-Rank 1 | Centroid: ' Answer' | Score: 0.8945
-  Tokens: ['Answer', ' Answer', 'Response']
-Rank 2 | Centroid: 'Based' | Score: 0.0510
-  Tokens: ['Based', 'based', ' Based', 'According']
-Rank 3 | Centroid: 'Okay' | Score: 0.0036
-  Tokens: ['Okay', 'Alright', 'Yes', 'Thank']
-Rank 4 | Centroid: 'Question' | Score: 0.0015
-  Tokens: ['Question', 'Problem', 'Exercise']
-Rank 5 | Centroid: 'Therefore' | Score: 0.0007
-  Tokens: ['Since', 'Therefore', 'Thus', 'However', 'Also']
-Rank 6 | Centroid: 'Final' | Score: 0.0004
-  Tokens: ['Final', 'Finally']
-Rank 7 | Centroid: 'Please' | Score: 0.0004
-  Tokens: ['Please', 'Choose', 'Would']
-Rank 8 | Centroid: 'Number' | Score: 0.0002
-  Tokens: ['Word', 'Group', 'Number']
-Rank 9 | Centroid: 'Explanation' | Score: 0.0002
-  Tokens: ['Explanation', 'Solution']
-Rank 10 | Centroid: 'Wait' | Score: 0.0002
-  Tokens: ['Wait', 'Back']
-Rank 11 | Centroid: 'Check' | Score: 0.0002
-  Tokens: ['Check', 'Step']
-Rank 12 | Centroid: 'Even' | Score: 0.0002
-  Tokens: ['Even', 'Every']
-Rank 13 | Centroid: 'Note' | Score: 0.0001
-  Tokens: ['Note']
-Rank 14 | Centroid: 'Actually' | Score: 0.0001
-  Tokens: ['Actually']
-Rank 15 | Centroid: 'Let' | Score: 0.0001
-  Tokens: ['Let']
-Rank 16 | Centroid: 'Given' | Score: 0.0001
-  Tokens: ['Given']
-Rank 17 | Centroid: 'Analysis' | Score: 0.0001
-  Tokens: ['Analysis', 'Review']
-Rank 18 | Centroid: 'Monday' | Score: 0.0001
-  Tokens: ['Monday']
-Rank 19 | Centroid: 'Possible' | Score: 0.0001
-  Tokens: ['Possible']
+Rank 1 | Centroid: ' examples' | Score: 0.0001
+  Tokens: [' examples', ' example']
+Rank 2 | Centroid: ' possible' | Score: 0.0000
+  Tokens: [' possible', ' maybe']
+Rank 3 | Centroid: '—the' | Score: 0.0000
+  Tokens: ['—the', '—if', '—an']
+Rank 4 | Centroid: ' specifics' | Score: 0.0000
+  Tokens: [' details', ' specific', ' specifics']
+Rank 5 | Centroid: ' existing' | Score: 0.0000
+  Tokens: [' existing', ' available']
+Rank 6 | Centroid: ' characters' | Score: 0.0000
+  Tokens: [' words', ' elements', ' characters']
+Rank 7 | Centroid: ' structure' | Score: 0.0000
+  Tokens: [' structure']
+Rank 8 | Centroid: ' possibilities' | Score: 0.0000
+  Tokens: [' possibilities', ' options']
+Rank 9 | Centroid: ' colors' | Score: 0.0000
+  Tokens: [' colors']
+Rank 10 | Centroid: ' emotions' | Score: 0.0000
+  Tokens: [' emotions', ' ideas']
+Rank 11 | Centroid: ' something' | Score: 0.0000
+  Tokens: [' something']
+Rank 12 | Centroid: ' directions' | Score: 0.0000
+  Tokens: [' directions']
+Rank 13 | Centroid: ' sample' | Score: 0.0000
+  Tokens: [' sample']
 
 **Chosen Concept:** Rank 1

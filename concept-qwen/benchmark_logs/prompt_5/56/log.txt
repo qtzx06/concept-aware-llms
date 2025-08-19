@@ -1,141 +1,108 @@
 --- Step 56 Log ---
 
 == Filtered Candidates ==
-Token: ' statement' (ID: 5114), Prob: 1.0000
-Token: ' sentence' (ID: 11652), Prob: 0.0000
-Token: ' statements' (ID: 12239), Prob: 0.0000
-Token: ' Statement' (ID: 21756), Prob: 0.0000
-Token: ' answer' (ID: 4226), Prob: 0.0000
-Token: ' story' (ID: 3364), Prob: 0.0000
-Token: ' general' (ID: 4586), Prob: 0.0000
-Token: ' situation' (ID: 6534), Prob: 0.0000
-Token: ' given' (ID: 2661), Prob: 0.0000
-Token: ' student' (ID: 5458), Prob: 0.0000
-Token: ' stated' (ID: 10982), Prob: 0.0000
-Token: 'statement' (ID: 24184), Prob: 0.0000
-Token: ' subject' (ID: 3832), Prob: 0.0000
-Token: ' phrase' (ID: 17133), Prob: 0.0000
-Token: ' time' (ID: 882), Prob: 0.0000
-Token: ' question' (ID: 3405), Prob: 0.0000
-Token: ' paragraph' (ID: 14311), Prob: 0.0000
-Token: ' final' (ID: 1590), Prob: 0.0000
-Token: ' conclusion' (ID: 16688), Prob: 0.0000
-Token: ' following' (ID: 2701), Prob: 0.0000
-Token: ' original' (ID: 4024), Prob: 0.0000
-Token: ' choice' (ID: 5754), Prob: 0.0000
-Token: ' claim' (ID: 3717), Prob: 0.0000
-Token: ' text' (ID: 1467), Prob: 0.0000
-Token: ' information' (ID: 1995), Prob: 0.0000
-Token: ' description' (ID: 4008), Prob: 0.0000
-Token: ' study' (ID: 3920), Prob: 0.0000
-Token: ' number' (ID: 1372), Prob: 0.0000
-Token: ' change' (ID: 2297), Prob: 0.0000
-Token: ' argument' (ID: 5693), Prob: 0.0000
-Token: ' user' (ID: 1196), Prob: 0.0000
-Token: ' two' (ID: 1378), Prob: 0.0000
-Token: ' table' (ID: 1965), Prob: 0.0000
-Token: ' scene' (ID: 6109), Prob: 0.0000
-Token: ' summary' (ID: 12126), Prob: 0.0000
-Token: ' stat' (ID: 2793), Prob: 0.0000
-Token: ' truth' (ID: 8046), Prob: 0.0000
-Token: ' passage' (ID: 21085), Prob: 0.0000
-Token: ' message' (ID: 1943), Prob: 0.0000
-Token: ' assistant' (ID: 17847), Prob: 0.0000
-Token: ' sentiment' (ID: 25975), Prob: 0.0000
-Token: ' response' (ID: 2033), Prob: 0.0000
-Token: ' meaning' (ID: 7290), Prob: 0.0000
-Token: ' amount' (ID: 3311), Prob: 0.0000
-Token: ' relationship' (ID: 5025), Prob: 0.0000
-Token: ' hypothesis' (ID: 30078), Prob: 0.0000
-Token: ' state' (ID: 1584), Prob: 0.0000
-Token: ' rest' (ID: 2732), Prob: 0.0000
-Token: ' reason' (ID: 2874), Prob: 0.0000
-Token: ' theme' (ID: 6912), Prob: 0.0000
-Token: '	statement' (ID: 89566), Prob: 0.0000
-Token: ' previous' (ID: 3681), Prob: 0.0000
-Token: ' letter' (ID: 6524), Prob: 0.0000
-Token: 'Statement' (ID: 8636), Prob: 0.0000
-Token: ' person' (ID: 1697), Prob: 0.0000
-Token: ' expression' (ID: 7493), Prob: 0.0000
-Token: ' suggestion' (ID: 23776), Prob: 0.0000
-Token: ' assumption' (ID: 24335), Prob: 0.0000
-Token: ' structure' (ID: 5944), Prob: 0.0000
+Token: ' lives' (ID: 6305), Prob: 0.0079
+Token: ' uses' (ID: 5711), Prob: 0.0042
+Token: ' wants' (ID: 6801), Prob: 0.0026
+Token: ' could' (ID: 1410), Prob: 0.0018
+Token: ' needs' (ID: 3880), Prob: 0.0007
+Token: ' feels' (ID: 11074), Prob: 0.0006
+Token: ' loves' (ID: 15803), Prob: 0.0006
+Token: ' prefers' (ID: 53964), Prob: 0.0006
+Token: ' named' (ID: 6941), Prob: 0.0005
+Token: ' grows' (ID: 27715), Prob: 0.0003
+Token: ' likes' (ID: 13151), Prob: 0.0003
+Token: ' knows' (ID: 8788), Prob: 0.0002
+Token: ' starts' (ID: 8471), Prob: 0.0002
+Token: ' plays' (ID: 11088), Prob: 0.0001
+Token: ' learns' (ID: 46210), Prob: 0.0001
+Token: ' takes' (ID: 4990), Prob: 0.0001
+Token: ' gets' (ID: 5221), Prob: 0.0001
+Token: ' enjoys' (ID: 31738), Prob: 0.0001
+Token: ' faces' (ID: 12300), Prob: 0.0001
+Token: ' would' (ID: 1035), Prob: 0.0001
+Token: ' names' (ID: 5036), Prob: 0.0001
+Token: ' builds' (ID: 22111), Prob: 0.0001
+Token: ' discovers' (ID: 51014), Prob: 0.0001
+Token: ' ages' (ID: 16639), Prob: 0.0001
+Token: ' name' (ID: 829), Prob: 0.0001
+Token: ' makes' (ID: 3643), Prob: 0.0001
+Token: ' chooses' (ID: 39911), Prob: 0.0001
+Token: ' goes' (ID: 5780), Prob: 0.0001
+Token: ' experiences' (ID: 11449), Prob: 0.0001
+Token: ' finds' (ID: 13719), Prob: 0.0001
+Token: ' sees' (ID: 15634), Prob: 0.0000
+Token: ' age' (ID: 4231), Prob: 0.0000
+Token: ' building' (ID: 4752), Prob: 0.0000
+Token: ' aged' (ID: 19749), Prob: 0.0000
+Token: ' looks' (ID: 5868), Prob: 0.0000
+Token: ' lived' (ID: 12163), Prob: 0.0000
+Token: ' helps' (ID: 8609), Prob: 0.0000
+Token: ' involved' (ID: 6398), Prob: 0.0000
+Token: ' living' (ID: 5382), Prob: 0.0000
+Token: ' grew' (ID: 13938), Prob: 0.0000
+Token: ' receives' (ID: 21189), Prob: 0.0000
+Token: ' struggles' (ID: 27870), Prob: 0.0000
+Token: ' like' (ID: 1075), Prob: 0.0000
+Token: ' brings' (ID: 12434), Prob: 0.0000
+Token: ' lacks' (ID: 36756), Prob: 0.0000
+Token: ' chose' (ID: 14554), Prob: 0.0000
+Token: ' used' (ID: 1483), Prob: 0.0000
+Token: ' imag' (ID: 6532), Prob: 0.0000
+Token: ' represents' (ID: 10868), Prob: 0.0000
+Token: ' might' (ID: 2578), Prob: 0.0000
+Token: ' works' (ID: 4278), Prob: 0.0000
+Token: ' inside' (ID: 4766), Prob: 0.0000
+Token: ' creates' (ID: 11450), Prob: 0.0000
+Token: ' spends' (ID: 37102), Prob: 0.0000
+Token: ' dislikes' (ID: 98885), Prob: 0.0000
 Token: ' character' (ID: 3668), Prob: 0.0000
-Token: ' meeting' (ID: 6438), Prob: 0.0000
-Token: ' prompt' (ID: 9934), Prob: 0.0000
-Token: ' correct' (ID: 4396), Prob: 0.0000
-Token: ' motion' (ID: 11379), Prob: 0.0000
-Token: ' tweet' (ID: 11809), Prob: 0.0000
-Token: ' premise' (ID: 40202), Prob: 0.0000
-Token: ' second' (ID: 2086), Prob: 0.0000
-Token: ' social' (ID: 3590), Prob: 0.0000
-Token: ' computer' (ID: 6366), Prob: 0.0000
-Token: ' moment' (ID: 4445), Prob: 0.0000
-Token: ' standard' (ID: 5297), Prob: 0.0000
-Token: ' topic' (ID: 8544), Prob: 0.0000
-Token: ' comparison' (ID: 12313), Prob: 0.0000
-Token: ' scenario' (ID: 15048), Prob: 0.0000
-Token: ' reasoning' (ID: 32711), Prob: 0.0000
-Token: ' stimulus' (ID: 38435), Prob: 0.0000
-Token: ' string' (ID: 914), Prob: 0.0000
-Token: ' construction' (ID: 8086), Prob: 0.0000
-Token: ' joke' (ID: 21646), Prob: 0.0000
-Token: ' problem' (ID: 3491), Prob: 0.0000
-Token: ' comment' (ID: 3980), Prob: 0.0000
-Token: ' death' (ID: 4545), Prob: 0.0000
+Token: ' years' (ID: 1635), Prob: 0.0000
+Token: ' built' (ID: 5798), Prob: 0.0000
+Token: ' thinks' (ID: 15482), Prob: 0.0000
+Token: ' decides' (ID: 27627), Prob: 0.0000
+Token: ' explores' (ID: 40324), Prob: 0.0000
+Token: ' protagonist' (ID: 45584), Prob: 0.0000
+Token: ' comes' (ID: 4041), Prob: 0.0000
+Token: ' falls' (ID: 17066), Prob: 0.0000
+Token: ' desires' (ID: 30997), Prob: 0.0000
+Token: ' interacts' (ID: 83161), Prob: 0.0000
+Token: ' dreams' (ID: 18707), Prob: 0.0000
 
 == Ranked Concepts (Clusters) ==
-Rank 1 | Centroid: ' statement' | Score: 1.0000
-  Tokens: [' statement', ' statements', ' Statement', ' stated', 'statement', '\tstatement', 'Statement']
-Rank 2 | Centroid: ' sentence' | Score: 0.0000
-  Tokens: [' sentence', ' phrase', ' paragraph', ' message']
-Rank 3 | Centroid: ' response' | Score: 0.0000
-  Tokens: [' answer', ' choice', ' response']
-Rank 4 | Centroid: ' two' | Score: 0.0000
-  Tokens: [' general', ' given', ' following', ' original', ' two', ' previous', ' correct', ' second', ' social', ' standard']
-Rank 5 | Centroid: ' scenario' | Score: 0.0000
-  Tokens: [' situation', ' scene', ' scenario']
-Rank 6 | Centroid: ' story' | Score: 0.0000
-  Tokens: [' story']
-Rank 7 | Centroid: ' student' | Score: 0.0000
-  Tokens: [' student', ' user', ' person', ' computer']
-Rank 8 | Centroid: ' assumption' | Score: 0.0000
-  Tokens: [' conclusion', ' argument', ' hypothesis', ' suggestion', ' assumption', ' premise']
-Rank 9 | Centroid: ' time' | Score: 0.0000
-  Tokens: [' time', ' change']
-Rank 10 | Centroid: ' topic' | Score: 0.0000
-  Tokens: [' subject', ' theme', ' topic']
-Rank 11 | Centroid: ' question' | Score: 0.0000
-  Tokens: [' question', ' problem']
-Rank 12 | Centroid: ' final' | Score: 0.0000
-  Tokens: [' final', ' meeting']
-Rank 13 | Centroid: ' description' | Score: 0.0000
-  Tokens: [' description', ' relationship', ' structure', ' comparison', ' construction']
-Rank 14 | Centroid: ' information' | Score: 0.0000
-  Tokens: [' information', ' table', ' expression']
-Rank 15 | Centroid: ' letter' | Score: 0.0000
-  Tokens: [' text', ' letter', ' character', ' string']
-Rank 16 | Centroid: ' summary' | Score: 0.0000
-  Tokens: [' study', ' summary', ' death']
-Rank 17 | Centroid: ' claim' | Score: 0.0000
-  Tokens: [' claim', ' assistant']
-Rank 18 | Centroid: ' number' | Score: 0.0000
-  Tokens: [' number', ' amount']
-Rank 19 | Centroid: ' tweet' | Score: 0.0000
-  Tokens: [' sentiment', ' tweet', ' stimulus', ' joke']
-Rank 20 | Centroid: ' motion' | Score: 0.0000
-  Tokens: [' truth', ' rest', ' motion']
-Rank 21 | Centroid: ' stat' | Score: 0.0000
-  Tokens: [' stat', ' state']
-Rank 22 | Centroid: ' reason' | Score: 0.0000
-  Tokens: [' reason', ' reasoning']
-Rank 23 | Centroid: ' prompt' | Score: 0.0000
-  Tokens: [' prompt', ' moment']
-Rank 24 | Centroid: ' passage' | Score: 0.0000
-  Tokens: [' passage']
-Rank 25 | Centroid: ' meaning' | Score: 0.0000
-  Tokens: [' meaning']
-Rank 26 | Centroid: ' comment' | Score: 0.0000
-  Tokens: [' comment']
+Rank 1 | Centroid: ' lived' | Score: 0.0079
+  Tokens: [' lives', ' lived', ' living']
+Rank 2 | Centroid: ' uses' | Score: 0.0044
+  Tokens: [' uses', ' plays', ' works']
+Rank 3 | Centroid: ' loves' | Score: 0.0042
+  Tokens: [' wants', ' loves', ' prefers', ' knows', ' enjoys', ' dislikes', ' thinks']
+Rank 4 | Centroid: ' could' | Score: 0.0019
+  Tokens: [' could', ' would', ' might']
+Rank 5 | Centroid: ' needs' | Score: 0.0008
+  Tokens: [' needs', ' looks']
+Rank 6 | Centroid: ' gets' | Score: 0.0007
+  Tokens: [' starts', ' takes', ' gets', ' makes', ' goes', ' helps', ' brings', ' represents', ' creates', ' comes', ' falls']
+Rank 7 | Centroid: ' feels' | Score: 0.0007
+  Tokens: [' feels', ' lacks']
+Rank 8 | Centroid: ' names' | Score: 0.0007
+  Tokens: [' named', ' names', ' name']
+Rank 9 | Centroid: ' discovers' | Score: 0.0004
+  Tokens: [' learns', ' discovers', ' finds', ' sees', ' receives', ' spends', ' explores', ' interacts']
+Rank 10 | Centroid: ' grows' | Score: 0.0004
+  Tokens: [' grows', ' grew']
+Rank 11 | Centroid: ' likes' | Score: 0.0003
+  Tokens: [' likes', ' like']
+Rank 12 | Centroid: ' desires' | Score: 0.0002
+  Tokens: [' faces', ' experiences', ' struggles', ' imag', ' desires', ' dreams']
+Rank 13 | Centroid: ' ages' | Score: 0.0002
+  Tokens: [' ages', ' age', ' aged', ' years']
+Rank 14 | Centroid: ' builds' | Score: 0.0002
+  Tokens: [' builds', ' building', ' built']
+Rank 15 | Centroid: ' chooses' | Score: 0.0001
+  Tokens: [' chooses', ' chose', ' decides']
+Rank 16 | Centroid: ' used' | Score: 0.0001
+  Tokens: [' involved', ' used', ' inside']
+Rank 17 | Centroid: ' character' | Score: 0.0000
+  Tokens: [' character', ' protagonist']
 
 **Chosen Concept:** Rank 1

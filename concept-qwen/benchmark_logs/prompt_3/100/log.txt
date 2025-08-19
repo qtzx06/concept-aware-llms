@@ -1,97 +1,161 @@
 --- Step 100 Log ---
 
 == Filtered Candidates ==
-Token: 'Let' (ID: 10061), Prob: 0.9688
-Token: 'Yes' (ID: 9454), Prob: 0.0014
-Token: 'Answer' (ID: 16141), Prob: 0.0013
-Token: 'Okay' (ID: 32313), Prob: 0.0004
-Token: 'Word' (ID: 10879), Prob: 0.0003
-Token: 'Last' (ID: 5842), Prob: 0.0002
-Token: 'Ret' (ID: 12020), Prob: 0.0002
-Token: 'Wait' (ID: 14190), Prob: 0.0002
-Token: 'Tweet' (ID: 48362), Prob: 0.0002
-Token: 'Maybe' (ID: 21390), Prob: 0.0002
-Token: 'Back' (ID: 3707), Prob: 0.0001
-Token: 'Based' (ID: 28715), Prob: 0.0001
-Token: 'Get' (ID: 1949), Prob: 0.0001
-Token: 'Please' (ID: 5501), Prob: 0.0001
-Token: 'Correct' (ID: 33092), Prob: 0.0001
-Token: 'Every' (ID: 11510), Prob: 0.0001
-Token: 'Reply' (ID: 20841), Prob: 0.0001
-Token: 'Finally' (ID: 23949), Prob: 0.0001
-Token: 'Among' (ID: 33610), Prob: 0.0001
-Token: 'Therefore' (ID: 54815), Prob: 0.0001
-Token: 'Exactly' (ID: 65357), Prob: 0.0001
-Token: 'One' (ID: 3966), Prob: 0.0001
-Token: 'Explanation' (ID: 69769), Prob: 0.0001
-Token: 'Given' (ID: 22043), Prob: 0.0001
-Token: 'Click' (ID: 2612), Prob: 0.0001
-Token: 'Ass' (ID: 5615), Prob: 0.0001
-Token: 'Home' (ID: 7623), Prob: 0.0001
-Token: 'Tag' (ID: 5668), Prob: 0.0001
-Token: ' Let' (ID: 6771), Prob: 0.0001
-Token: 'Help' (ID: 12689), Prob: 0.0001
-Token: 'Question' (ID: 14582), Prob: 0.0001
-Token: 'List' (ID: 852), Prob: 0.0001
-Token: 'According' (ID: 11190), Prob: 0.0001
-Token: 'Even' (ID: 13159), Prob: 0.0001
-Token: 'Today' (ID: 15364), Prob: 0.0001
-Token: 'June' (ID: 27160), Prob: 0.0001
-Token: 'Perhaps' (ID: 31476), Prob: 0.0001
-Token: 'Set' (ID: 1649), Prob: 0.0000
-Token: 'View' (ID: 851), Prob: 0.0000
-Token: 'Count' (ID: 2507), Prob: 0.0000
-Token: 'Still' (ID: 23322), Prob: 0.0000
-Token: 'Alright' (ID: 71486), Prob: 0.0000
-Token: 'End' (ID: 3727), Prob: 0.0000
-Token: 'None' (ID: 4064), Prob: 0.0000
-Token: 'Latest' (ID: 31992), Prob: 0.0000
-Token: 'Paragraph' (ID: 42165), Prob: 0.0000
+Token: ' start' (ID: 1191), Prob: 0.1162
+Token: ' act' (ID: 1160), Prob: 0.0260
+Token: ' accidentally' (ID: 32384), Prob: 0.0054
+Token: ' engage' (ID: 16579), Prob: 0.0051
+Token: ' find' (ID: 1477), Prob: 0.0045
+Token: ' notice' (ID: 5293), Prob: 0.0045
+Token: ' share' (ID: 4332), Prob: 0.0040
+Token: ' feel' (ID: 2666), Prob: 0.0035
+Token: ' take' (ID: 1896), Prob: 0.0027
+Token: ' experience' (ID: 3139), Prob: 0.0027
+Token: ' make' (ID: 1281), Prob: 0.0024
+Token: ' try' (ID: 1430), Prob: 0.0024
+Token: ' interact' (ID: 16282), Prob: 0.0021
+Token: ' begin' (ID: 3161), Prob: 0.0020
+Token: ' mis' (ID: 5786), Prob: 0.0020
+Token: ' seem' (ID: 2803), Prob: 0.0019
+Token: ' suddenly' (ID: 14843), Prob: 0.0019
+Token: ' show' (ID: 1473), Prob: 0.0016
+Token: ' come' (ID: 2525), Prob: 0.0016
+Token: ' become' (ID: 3635), Prob: 0.0015
+Token: ' initially' (ID: 15102), Prob: 0.0015
+Token: ' use' (ID: 990), Prob: 0.0014
+Token: ' appear' (ID: 4994), Prob: 0.0014
+Token: ' cause' (ID: 5240), Prob: 0.0014
+Token: ' react' (ID: 13767), Prob: 0.0013
+Token: ' unknow' (ID: 83544), Prob: 0.0012
+Token: ' develop' (ID: 2225), Prob: 0.0011
+Token: ' initiate' (ID: 38101), Prob: 0.0011
+Token: ' present' (ID: 3042), Prob: 0.0011
+Token: ' meet' (ID: 3367), Prob: 0.0011
+Token: ' exhibit' (ID: 30224), Prob: 0.0011
+Token: ' enter' (ID: 3725), Prob: 0.0010
+Token: ' encounter' (ID: 12828), Prob: 0.0010
+Token: ' misunderstand' (ID: 89600), Prob: 0.0008
+Token: ' talk' (ID: 3061), Prob: 0.0007
+Token: ' approach' (ID: 5486), Prob: 0.0007
+Token: ' unintention' (ID: 69476), Prob: 0.0007
+Token: ' stumble' (ID: 74137), Prob: 0.0007
+Token: ' suspect' (ID: 15207), Prob: 0.0007
+Token: ' get' (ID: 633), Prob: 0.0006
+Token: ' discover' (ID: 6997), Prob: 0.0005
+Token: ' behave' (ID: 35692), Prob: 0.0005
+Token: ' reveal' (ID: 16400), Prob: 0.0005
+Token: ' perceive' (ID: 44393), Prob: 0.0005
+Token: ' perform' (ID: 2736), Prob: 0.0005
+Token: ' introduce' (ID: 19131), Prob: 0.0005
+Token: ' end' (ID: 835), Prob: 0.0004
+Token: ' sense' (ID: 5530), Prob: 0.0004
+Token: ' confront' (ID: 16877), Prob: 0.0004
+Token: ' unexpectedly' (ID: 50609), Prob: 0.0004
+Token: ' exploit' (ID: 32194), Prob: 0.0003
+Token: ' slip' (ID: 21134), Prob: 0.0003
+Token: ' seek' (ID: 5931), Prob: 0.0003
+Token: ' surprise' (ID: 12761), Prob: 0.0003
+Token: ' dismiss' (ID: 13432), Prob: 0.0003
+Token: ' see' (ID: 1490), Prob: 0.0003
+Token: ' open' (ID: 1787), Prob: 0.0003
+Token: ' express' (ID: 3158), Prob: 0.0003
+Token: ' face' (ID: 3579), Prob: 0.0003
+Token: ' attend' (ID: 9417), Prob: 0.0003
+Token: ' involve' (ID: 21058), Prob: 0.0003
+Token: ' invite' (ID: 21399), Prob: 0.0003
+Token: ' observe' (ID: 22986), Prob: 0.0003
+Token: ' respond' (ID: 5889), Prob: 0.0003
+Token: ' turn' (ID: 2484), Prob: 0.0003
+Token: ' leave' (ID: 5274), Prob: 0.0003
+Token: ' overhe' (ID: 71289), Prob: 0.0003
+Token: ' hide' (ID: 10265), Prob: 0.0002
+Token: ' realize' (ID: 13083), Prob: 0.0002
+Token: ' display' (ID: 3037), Prob: 0.0002
+Token: ' seemingly' (ID: 22660), Prob: 0.0002
+Token: ' confess' (ID: 47366), Prob: 0.0002
+Token: ' abruptly' (ID: 59745), Prob: 0.0002
+Token: ' inadvertently' (ID: 69085), Prob: 0.0002
+Token: ' connect' (ID: 4564), Prob: 0.0002
+Token: ' attempt' (ID: 4774), Prob: 0.0002
+Token: ' attract' (ID: 9320), Prob: 0.0002
+Token: ' secretly' (ID: 41739), Prob: 0.0002
+Token: ' tell' (ID: 3291), Prob: 0.0002
+Token: ' actually' (ID: 3520), Prob: 0.0002
+Token: ' communicate' (ID: 19032), Prob: 0.0002
+Token: ' ask' (ID: 2548), Prob: 0.0002
+Token: ' discuss' (ID: 4263), Prob: 0.0002
+Token: ' participate' (ID: 15759), Prob: 0.0002
+Token: ' forget' (ID: 10667), Prob: 0.0002
+Token: ' witness' (ID: 11298), Prob: 0.0002
+Token: ' create' (ID: 1855), Prob: 0.0002
+Token: ' lead' (ID: 2990), Prob: 0.0002
+Token: ' trigger' (ID: 8183), Prob: 0.0002
+Token: ' avoid' (ID: 5648), Prob: 0.0001
+Token: ' somehow' (ID: 16925), Prob: 0.0001
+Token: ' relate' (ID: 28143), Prob: 0.0001
+Token: ' manipulate' (ID: 36635), Prob: 0.0001
+Token: ' say' (ID: 1977), Prob: 0.0001
 
 == Ranked Concepts (Clusters) ==
-Rank 1 | Centroid: 'Let' | Score: 0.9688
-  Tokens: ['Let', ' Let']
-Rank 2 | Centroid: 'Okay' | Score: 0.0019
-  Tokens: ['Yes', 'Okay', 'Alright']
-Rank 3 | Centroid: 'Answer' | Score: 0.0014
-  Tokens: ['Answer', 'Explanation', 'Question']
-Rank 4 | Centroid: 'Ret' | Score: 0.0004
-  Tokens: ['Ret', 'Wait']
-Rank 5 | Centroid: 'According' | Score: 0.0004
-  Tokens: ['Based', 'Therefore', 'Given', 'According']
-Rank 6 | Centroid: 'Word' | Score: 0.0003
-  Tokens: ['Word', 'Paragraph']
-Rank 7 | Centroid: 'Click' | Score: 0.0003
-  Tokens: ['Tweet', 'Click', 'Tag']
-Rank 8 | Centroid: 'Get' | Score: 0.0003
-  Tokens: ['Get', 'List', 'Set', 'View', 'Count']
-Rank 9 | Centroid: 'Every' | Score: 0.0002
-  Tokens: ['Every', 'One', 'Even']
-Rank 10 | Centroid: 'Last' | Score: 0.0002
-  Tokens: ['Last', 'Latest']
-Rank 11 | Centroid: 'Maybe' | Score: 0.0002
-  Tokens: ['Maybe', 'Perhaps']
-Rank 12 | Centroid: 'Correct' | Score: 0.0002
-  Tokens: ['Correct', 'Reply']
-Rank 13 | Centroid: 'Finally' | Score: 0.0001
-  Tokens: ['Finally', 'Today']
-Rank 14 | Centroid: 'Back' | Score: 0.0001
-  Tokens: ['Back']
-Rank 15 | Centroid: 'Ass' | Score: 0.0001
-  Tokens: ['Ass', 'Help']
-Rank 16 | Centroid: 'Home' | Score: 0.0001
-  Tokens: ['Home', 'End']
-Rank 17 | Centroid: 'Please' | Score: 0.0001
-  Tokens: ['Please']
-Rank 18 | Centroid: 'Exactly' | Score: 0.0001
-  Tokens: ['Exactly']
-Rank 19 | Centroid: 'Among' | Score: 0.0001
-  Tokens: ['Among']
-Rank 20 | Centroid: 'June' | Score: 0.0001
-  Tokens: ['June']
-Rank 21 | Centroid: 'Still' | Score: 0.0000
-  Tokens: ['Still']
-Rank 22 | Centroid: 'None' | Score: 0.0000
-  Tokens: ['None']
+Rank 1 | Centroid: ' start' | Score: 0.1187
+  Tokens: [' start', ' begin', ' end']
+Rank 2 | Centroid: ' act' | Score: 0.0273
+  Tokens: [' act', ' react']
+Rank 3 | Centroid: ' accidentally' | Score: 0.0121
+  Tokens: [' accidentally', ' suddenly', ' initially', ' unknow', ' unintention', ' unexpectedly', ' abruptly', ' inadvertently', ' secretly', ' actually', ' somehow']
+Rank 4 | Centroid: ' make' | Score: 0.0118
+  Tokens: [' find', ' take', ' make', ' use', ' get', ' create']
+Rank 5 | Centroid: ' participate' | Score: 0.0090
+  Tokens: [' engage', ' interact', ' behave', ' involve', ' respond', ' communicate', ' participate', ' relate', ' manipulate']
+Rank 6 | Centroid: ' observe' | Score: 0.0053
+  Tokens: [' notice', ' discover', ' observe']
+Rank 7 | Centroid: ' share' | Score: 0.0043
+  Tokens: [' share', ' express']
+Rank 8 | Centroid: ' feel' | Score: 0.0042
+  Tokens: [' feel', ' sense', ' see']
+Rank 9 | Centroid: ' encounter' | Score: 0.0039
+  Tokens: [' experience', ' encounter', ' witness']
+Rank 10 | Centroid: ' seem' | Score: 0.0035
+  Tokens: [' seem', ' appear', ' seemingly']
+Rank 11 | Centroid: ' come' | Score: 0.0030
+  Tokens: [' come', ' become']
+Rank 12 | Centroid: ' try' | Score: 0.0026
+  Tokens: [' try', ' attempt']
+Rank 13 | Centroid: ' misunderstand' | Score: 0.0025
+  Tokens: [' misunderstand', ' suspect', ' dismiss', ' overhe', ' confess', ' forget']
+Rank 14 | Centroid: ' exhibit' | Score: 0.0024
+  Tokens: [' present', ' exhibit', ' display']
+Rank 15 | Centroid: ' mis' | Score: 0.0023
+  Tokens: [' mis', ' slip']
+Rank 16 | Centroid: ' reveal' | Score: 0.0023
+  Tokens: [' show', ' reveal', ' hide']
+Rank 17 | Centroid: ' meet' | Score: 0.0021
+  Tokens: [' meet', ' enter']
+Rank 18 | Centroid: ' trigger' | Score: 0.0019
+  Tokens: [' cause', ' exploit', ' trigger']
+Rank 19 | Centroid: ' develop' | Score: 0.0016
+  Tokens: [' develop', ' introduce']
+Rank 20 | Centroid: ' ask' | Score: 0.0013
+  Tokens: [' talk', ' tell', ' ask', ' say']
+Rank 21 | Centroid: ' initiate' | Score: 0.0011
+  Tokens: [' initiate']
+Rank 22 | Centroid: ' leave' | Score: 0.0010
+  Tokens: [' open', ' turn', ' leave', ' lead']
+Rank 23 | Centroid: ' avoid' | Score: 0.0009
+  Tokens: [' perform', ' seek', ' avoid']
+Rank 24 | Centroid: ' perceive' | Score: 0.0007
+  Tokens: [' perceive', ' realize']
+Rank 25 | Centroid: ' stumble' | Score: 0.0007
+  Tokens: [' stumble']
+Rank 26 | Centroid: ' approach' | Score: 0.0007
+  Tokens: [' approach']
+Rank 27 | Centroid: ' confront' | Score: 0.0007
+  Tokens: [' confront', ' face']
+Rank 28 | Centroid: ' discuss' | Score: 0.0007
+  Tokens: [' attend', ' connect', ' discuss']
+Rank 29 | Centroid: ' invite' | Score: 0.0005
+  Tokens: [' invite', ' attract']
+Rank 30 | Centroid: ' surprise' | Score: 0.0003
+  Tokens: [' surprise']
 
 **Chosen Concept:** Rank 1

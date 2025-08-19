@@ -1,116 +1,154 @@
 --- Step 113 Log ---
 
 == Filtered Candidates ==
-Token: ' feeling' (ID: 8266), Prob: 0.0591
-Token: ' something' (ID: 2494), Prob: 0.0217
-Token: ' describing' (ID: 22692), Prob: 0.0117
-Token: ' expressing' (ID: 36710), Prob: 0.0103
-Token: ' feelings' (ID: 15650), Prob: 0.0043
-Token: ' emotions' (ID: 21261), Prob: 0.0016
-Token: ' overwhelming' (ID: 22024), Prob: 0.0010
-Token: ' experiencing' (ID: 24084), Prob: 0.0005
-Token: ' someone' (ID: 4325), Prob: 0.0004
-Token: ' vivid' (ID: 42020), Prob: 0.0003
-Token: ' overcoming' (ID: 72917), Prob: 0.0003
-Token: ' frustration' (ID: 31986), Prob: 0.0002
-Token: ' overwhelmed' (ID: 42106), Prob: 0.0002
-Token: ' words' (ID: 4244), Prob: 0.0002
-Token: ' stating' (ID: 27798), Prob: 0.0002
-Token: ' sadness' (ID: 50878), Prob: 0.0002
-Token: ' intense' (ID: 18894), Prob: 0.0002
-Token: ' saying' (ID: 5488), Prob: 0.0001
-Token: ' phrases' (ID: 31747), Prob: 0.0001
-Token: ' emotion' (ID: 19772), Prob: 0.0001
-Token: ' crying' (ID: 30199), Prob: 0.0001
-Token: ' strong' (ID: 3746), Prob: 0.0001
-Token: ' addressing' (ID: 27020), Prob: 0.0001
-Token: ' setting' (ID: 6243), Prob: 0.0001
-Token: ' emotional' (ID: 14269), Prob: 0.0001
-Token: ' realizing' (ID: 43014), Prob: 0.0001
-Token: ' trembling' (ID: 91988), Prob: 0.0001
-Token: ' showing' (ID: 9027), Prob: 0.0001
-Token: ' empathy' (ID: 47351), Prob: 0.0001
-Token: ' despair' (ID: 45896), Prob: 0.0001
-Token: ' general' (ID: 4586), Prob: 0.0001
-Token: ' mentioning' (ID: 44291), Prob: 0.0001
-Token: ' tears' (ID: 23139), Prob: 0.0000
-Token: ' comparing' (ID: 26297), Prob: 0.0000
-Token: ' descriptive' (ID: 52844), Prob: 0.0000
-Token: ' capturing' (ID: 39780), Prob: 0.0000
-Token: ' overwhelm' (ID: 95748), Prob: 0.0000
-Token: ' anger' (ID: 19234), Prob: 0.0000
-Token: ' acknowledging' (ID: 60608), Prob: 0.0000
-Token: ' emphasizing' (ID: 80903), Prob: 0.0000
-Token: ' overlapping' (ID: 49817), Prob: 0.0000
-Token: ' urgency' (ID: 53817), Prob: 0.0000
-Token: ' common' (ID: 4185), Prob: 0.0000
-Token: ' fear' (ID: 8679), Prob: 0.0000
-Token: ' wanting' (ID: 19211), Prob: 0.0000
-Token: ' contrasting' (ID: 73955), Prob: 0.0000
-Token: ' sorrow' (ID: 57496), Prob: 0.0000
-Token: ' expressions' (ID: 23393), Prob: 0.0000
-Token: ' explaining' (ID: 25021), Prob: 0.0000
-Token: ' longing' (ID: 78322), Prob: 0.0000
-Token: ' listing' (ID: 14838), Prob: 0.0000
-Token: ' loving' (ID: 21258), Prob: 0.0000
-Token: ' sensory' (ID: 47969), Prob: 0.0000
-Token: ' noticing' (ID: 61364), Prob: 0.0000
-Token: ' overpower' (ID: 97787), Prob: 0.0000
-Token: ' experience' (ID: 3139), Prob: 0.0000
-Token: ' seeing' (ID: 9120), Prob: 0.0000
-Token: ' causing' (ID: 14381), Prob: 0.0000
-Token: ' waking' (ID: 47628), Prob: 0.0000
-Token: ' depression' (ID: 18210), Prob: 0.0000
-Token: ' highlighting' (ID: 38586), Prob: 0.0000
-Token: ' intensity' (ID: 20612), Prob: 0.0000
-Token: ' excitement' (ID: 27262), Prob: 0.0000
-Token: ' finding' (ID: 9271), Prob: 0.0000
-Token: ' conveying' (ID: 93065), Prob: 0.0000
-Token: ' starting' (ID: 5916), Prob: 0.0000
-Token: ' telling' (ID: 11629), Prob: 0.0000
+Token: ' peace' (ID: 8919), Prob: 0.1299
+Token: ' refuge' (ID: 14510), Prob: 0.1147
+Token: ' healing' (ID: 21052), Prob: 0.1016
+Token: ' rest' (ID: 2732), Prob: 0.0542
+Token: ' sanctuary' (ID: 50539), Prob: 0.0479
+Token: ' comfort' (ID: 6838), Prob: 0.0422
+Token: ' quiet' (ID: 11340), Prob: 0.0422
+Token: ' reflection' (ID: 21844), Prob: 0.0422
+Token: ' rem' (ID: 1299), Prob: 0.0330
+Token: ' memory' (ID: 4938), Prob: 0.0291
+Token: ' new' (ID: 501), Prob: 0.0212
+Token: ' closure' (ID: 21955), Prob: 0.0199
+Token: ' hope' (ID: 3900), Prob: 0.0176
+Token: ' renewal' (ID: 42801), Prob: 0.0156
+Token: ' safety' (ID: 7149), Prob: 0.0146
+Token: ' home' (ID: 2114), Prob: 0.0094
+Token: ' shelter' (ID: 22906), Prob: 0.0061
+Token: ' recovery' (ID: 13351), Prob: 0.0057
+Token: ' peaceful' (ID: 25650), Prob: 0.0057
+Token: ' gratitude' (ID: 45035), Prob: 0.0057
+Token: ' restoration' (ID: 33993), Prob: 0.0054
+Token: ' belonging' (ID: 32052), Prob: 0.0050
+Token: ' memories' (ID: 18923), Prob: 0.0047
+Token: ' inspiration' (ID: 19760), Prob: 0.0047
+Token: ' renewed' (ID: 35546), Prob: 0.0047
+Token: ' wonder' (ID: 5775), Prob: 0.0042
+Token: ' silence' (ID: 21162), Prob: 0.0039
+Token: ' love' (ID: 2948), Prob: 0.0037
+Token: ' personal' (ID: 4345), Prob: 0.0035
+Token: ' learning' (ID: 6832), Prob: 0.0035
+Token: ' place' (ID: 1992), Prob: 0.0031
+Token: ' growth' (ID: 6513), Prob: 0.0031
+Token: ' normal' (ID: 4622), Prob: 0.0029
+Token: ' protection' (ID: 9135), Prob: 0.0027
+Token: ' freedom' (ID: 11290), Prob: 0.0027
+Token: ' celebration' (ID: 24916), Prob: 0.0027
+Token: ' reconciliation' (ID: 57655), Prob: 0.0027
+Token: ' res' (ID: 592), Prob: 0.0025
+Token: ' another' (ID: 2441), Prob: 0.0025
+Token: ' escape' (ID: 12449), Prob: 0.0025
+Token: ' change' (ID: 2297), Prob: 0.0024
+Token: ' family' (ID: 2997), Prob: 0.0024
+Token: ' safe' (ID: 6092), Prob: 0.0024
+Token: ' continued' (ID: 8570), Prob: 0.0024
+Token: ' dreams' (ID: 18707), Prob: 0.0024
+Token: ' redemption' (ID: 55652), Prob: 0.0024
+Token: ' solitude' (ID: 98444), Prob: 0.0024
+Token: ' trust' (ID: 6950), Prob: 0.0022
+Token: ' sol' (ID: 2048), Prob: 0.0021
+Token: ' beauty' (ID: 13143), Prob: 0.0021
+Token: ' continuity' (ID: 49006), Prob: 0.0020
+Token: ' light' (ID: 3100), Prob: 0.0019
+Token: ' care' (ID: 2453), Prob: 0.0017
+Token: ' space' (ID: 3550), Prob: 0.0017
+Token: ' memorial' (ID: 37917), Prob: 0.0017
+Token: ' support' (ID: 1824), Prob: 0.0016
+Token: ' second' (ID: 2086), Prob: 0.0016
+Token: ' life' (ID: 2272), Prob: 0.0016
+Token: ' warmth' (ID: 40363), Prob: 0.0016
+Token: ' continuing' (ID: 14354), Prob: 0.0015
+Token: ' nostalgia' (ID: 64775), Prob: 0.0014
+Token: ' transformation' (ID: 17991), Prob: 0.0014
+Token: ' continuation' (ID: 41171), Prob: 0.0014
+Token: ' connection' (ID: 3633), Prob: 0.0013
+Token: ' shared' (ID: 6094), Prob: 0.0013
+Token: ' welcome' (ID: 10565), Prob: 0.0013
+Token: ' still' (ID: 2058), Prob: 0.0012
+Token: ' community' (ID: 3942), Prob: 0.0012
+Token: ' living' (ID: 5382), Prob: 0.0012
+Token: ' eternal' (ID: 34725), Prob: 0.0012
+Token: ' reunion' (ID: 57284), Prob: 0.0012
+Token: ' longing' (ID: 78322), Prob: 0.0012
+Token: ' relief' (ID: 15957), Prob: 0.0011
+Token: ' future' (ID: 3853), Prob: 0.0010
+Token: ' joy' (ID: 15888), Prob: 0.0010
+Token: ' calm' (ID: 19300), Prob: 0.0010
+Token: ' ongoing' (ID: 14195), Prob: 0.0009
+Token: ' acceptance' (ID: 25505), Prob: 0.0009
+Token: ' return' (ID: 470), Prob: 0.0009
+Token: ' reb' (ID: 12366), Prob: 0.0009
+Token: ' harmony' (ID: 25281), Prob: 0.0009
+Token: ' friendship' (ID: 26509), Prob: 0.0009
+Token: ' something' (ID: 2494), Prob: 0.0008
+Token: ' release' (ID: 4879), Prob: 0.0008
+Token: ' purpose' (ID: 7428), Prob: 0.0008
+Token: ' resolution' (ID: 10935), Prob: 0.0008
+Token: ' temporary' (ID: 13340), Prob: 0.0008
+Token: ' silent' (ID: 21059), Prob: 0.0008
+Token: ' strength' (ID: 8170), Prob: 0.0008
+Token: ' preservation' (ID: 45543), Prob: 0.0008
+Token: ' different' (ID: 2155), Prob: 0.0007
+Token: ' daily' (ID: 7298), Prob: 0.0007
+Token: ' transition' (ID: 9142), Prob: 0.0007
 
 == Ranked Concepts (Clusters) ==
-Rank 1 | Centroid: ' feeling' | Score: 0.0635
-  Tokens: [' feeling', ' feelings']
-Rank 2 | Centroid: ' something' | Score: 0.0221
-  Tokens: [' something', ' someone']
-Rank 3 | Centroid: ' emphasizing' | Score: 0.0119
-  Tokens: [' describing', ' addressing', ' comparing', ' capturing', ' acknowledging', ' emphasizing', ' explaining', ' highlighting']
-Rank 4 | Centroid: ' expressing' | Score: 0.0104
-  Tokens: [' expressing', ' expressions', ' conveying']
-Rank 5 | Centroid: ' emotions' | Score: 0.0018
-  Tokens: [' emotions', ' emotion', ' emotional', ' empathy']
-Rank 6 | Centroid: ' overwhelm' | Score: 0.0015
-  Tokens: [' overwhelming', ' overcoming', ' overwhelmed', ' overwhelm', ' overpower']
-Rank 7 | Centroid: ' sadness' | Score: 0.0006
-  Tokens: [' frustration', ' sadness', ' despair', ' anger', ' urgency', ' fear', ' sorrow', ' depression', ' excitement']
-Rank 8 | Centroid: ' intense' | Score: 0.0006
-  Tokens: [' vivid', ' intense', ' strong', ' intensity']
-Rank 9 | Centroid: ' experiencing' | Score: 0.0005
-  Tokens: [' experiencing', ' experience']
-Rank 10 | Centroid: ' stating' | Score: 0.0005
-  Tokens: [' stating', ' saying', ' showing', ' mentioning', ' telling']
-Rank 11 | Centroid: ' words' | Score: 0.0003
-  Tokens: [' words', ' phrases']
-Rank 12 | Centroid: ' crying' | Score: 0.0002
-  Tokens: [' crying', ' trembling', ' tears']
-Rank 13 | Centroid: ' noticing' | Score: 0.0001
-  Tokens: [' realizing', ' wanting', ' noticing', ' seeing']
-Rank 14 | Centroid: ' finding' | Score: 0.0001
-  Tokens: [' setting', ' listing', ' finding']
-Rank 15 | Centroid: ' general' | Score: 0.0001
-  Tokens: [' general', ' common']
-Rank 16 | Centroid: ' longing' | Score: 0.0001
-  Tokens: [' longing', ' loving', ' waking']
-Rank 17 | Centroid: ' overlapping' | Score: 0.0000
-  Tokens: [' overlapping', ' contrasting']
-Rank 18 | Centroid: ' descriptive' | Score: 0.0000
-  Tokens: [' descriptive']
-Rank 19 | Centroid: ' sensory' | Score: 0.0000
-  Tokens: [' sensory']
-Rank 20 | Centroid: ' causing' | Score: 0.0000
-  Tokens: [' causing']
-Rank 21 | Centroid: ' starting' | Score: 0.0000
-  Tokens: [' starting']
+Rank 1 | Centroid: ' quiet' | Score: 0.1836
+  Tokens: [' peace', ' quiet', ' peaceful', ' silence', ' calm', ' silent']
+Rank 2 | Centroid: ' refuge' | Score: 0.1709
+  Tokens: [' refuge', ' sanctuary', ' shelter', ' escape']
+Rank 3 | Centroid: ' restoration' | Score: 0.1367
+  Tokens: [' healing', ' renewal', ' recovery', ' restoration', ' reconciliation', ' redemption', ' reunion', ' relief', ' resolution']
+Rank 4 | Centroid: ' rem' | Score: 0.0898
+  Tokens: [' rest', ' rem', ' res']
+Rank 5 | Centroid: ' safety' | Score: 0.0591
+  Tokens: [' comfort', ' safety', ' safe']
+Rank 6 | Centroid: ' transformation' | Score: 0.0481
+  Tokens: [' reflection', ' change', ' transformation', ' connection', ' transition']
+Rank 7 | Centroid: ' memories' | Score: 0.0393
+  Tokens: [' memory', ' memories', ' dreams', ' memorial', ' nostalgia']
+Rank 8 | Centroid: ' joy' | Score: 0.0320
+  Tokens: [' hope', ' wonder', ' love', ' trust', ' beauty', ' welcome', ' joy']
+Rank 9 | Centroid: ' another' | Score: 0.0278
+  Tokens: [' new', ' another', ' second', ' something', ' temporary', ' different']
+Rank 10 | Centroid: ' community' | Score: 0.0234
+  Tokens: [' home', ' personal', ' learning', ' family', ' life', ' community', ' living', ' daily']
+Rank 11 | Centroid: ' closure' | Score: 0.0199
+  Tokens: [' closure']
+Rank 12 | Centroid: ' gratitude' | Score: 0.0120
+  Tokens: [' gratitude', ' celebration', ' solitude', ' longing']
+Rank 13 | Centroid: ' continuing' | Score: 0.0094
+  Tokens: [' continued', ' continuity', ' continuing', ' continuation', ' still', ' ongoing']
+Rank 14 | Centroid: ' harmony' | Score: 0.0061
+  Tokens: [' freedom', ' warmth', ' harmony', ' friendship']
+Rank 15 | Centroid: ' renewed' | Score: 0.0059
+  Tokens: [' renewed', ' eternal']
+Rank 16 | Centroid: ' belonging' | Score: 0.0050
+  Tokens: [' belonging']
+Rank 17 | Centroid: ' place' | Score: 0.0048
+  Tokens: [' place', ' space']
+Rank 18 | Centroid: ' inspiration' | Score: 0.0047
+  Tokens: [' inspiration']
+Rank 19 | Centroid: ' care' | Score: 0.0042
+  Tokens: [' care', ' support', ' purpose']
+Rank 20 | Centroid: ' growth' | Score: 0.0040
+  Tokens: [' growth', ' acceptance']
+Rank 21 | Centroid: ' protection' | Score: 0.0035
+  Tokens: [' protection', ' preservation']
+Rank 22 | Centroid: ' sol' | Score: 0.0029
+  Tokens: [' sol', ' strength']
+Rank 23 | Centroid: ' normal' | Score: 0.0029
+  Tokens: [' normal']
+Rank 24 | Centroid: ' shared' | Score: 0.0023
+  Tokens: [' shared', ' future']
+Rank 25 | Centroid: ' light' | Score: 0.0019
+  Tokens: [' light']
+Rank 26 | Centroid: ' return' | Score: 0.0017
+  Tokens: [' return', ' release']
+Rank 27 | Centroid: ' reb' | Score: 0.0009
+  Tokens: [' reb']
 
 **Chosen Concept:** Rank 1

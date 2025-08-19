@@ -1,0 +1,91 @@
+--- Step 16 Log ---
+
+== Filtered Candidates ==
+Token: ' First' (ID: 5512), Prob: 0.4844
+Token: ' Hmm' (ID: 88190), Prob: 0.0003
+Token: ' Let' (ID: 6771), Prob: 0.0002
+Token: ' Maybe' (ID: 10696), Prob: 0.0001
+Token: ' first' (ID: 1156), Prob: 0.0000
+Token: ' Since' (ID: 8704), Prob: 0.0000
+Token: ' Wait' (ID: 13824), Prob: 0.0000
+Token: ' Firstly' (ID: 76695), Prob: 0.0000
+Token: 'First' (ID: 5338), Prob: 0.0000
+Token: ' Please' (ID: 5209), Prob: 0.0000
+Token: ' However' (ID: 4354), Prob: 0.0000
+Token: ' Focus' (ID: 25806), Prob: 0.0000
+Token: ' Okay' (ID: 35439), Prob: 0.0000
+Token: ' Need' (ID: 14656), Prob: 0.0000
+Token: ' Initially' (ID: 58556), Prob: 0.0000
+Token: ' Find' (ID: 7379), Prob: 0.0000
+Token: ' One' (ID: 3776), Prob: 0.0000
+Token: ' Looking' (ID: 21131), Prob: 0.0000
+Token: ' Comb' (ID: 22454), Prob: 0.0000
+Token: ' Starting' (ID: 27657), Prob: 0.0000
+Token: ' Alright' (ID: 97593), Prob: 0.0000
+Token: ' Today' (ID: 11201), Prob: 0.0000
+Token: ' Take' (ID: 11778), Prob: 0.0000
+Token: ' Combine' (ID: 46812), Prob: 0.0000
+Token: ' Suppose' (ID: 82610), Prob: 0.0000
+Token: ' Could' (ID: 16503), Prob: 0.0000
+Token: ' Users' (ID: 14627), Prob: 0.0000
+Token: ' Everyone' (ID: 21455), Prob: 0.0000
+Token: ' Start' (ID: 5145), Prob: 0.0000
+Token: ' Time' (ID: 4120), Prob: 0.0000
+Token: ' Without' (ID: 17147), Prob: 0.0000
+Token: ' Perhaps' (ID: 18765), Prob: 0.0000
+Token: ' People' (ID: 8853), Prob: 0.0000
+Token: ' User' (ID: 2657), Prob: 0.0000
+Token: ' Imagine' (ID: 37791), Prob: 0.0000
+Token: ' Begin' (ID: 18597), Prob: 0.0000
+Token: ' Taking' (ID: 35825), Prob: 0.0000
+Token: ' Well' (ID: 8325), Prob: 0.0000
+Token: ' Vision' (ID: 30441), Prob: 0.0000
+Token: ' Make' (ID: 7405), Prob: 0.0000
+Token: ' Step' (ID: 14822), Prob: 0.0000
+Token: ' Sometimes' (ID: 17688), Prob: 0.0000
+Token: ' Every' (ID: 7209), Prob: 0.0000
+Token: ' Look' (ID: 9192), Prob: 0.0000
+Token: ' Instead' (ID: 12090), Prob: 0.0000
+Token: ' Meet' (ID: 25826), Prob: 0.0000
+Token: ' Open' (ID: 5264), Prob: 0.0000
+Token: ' Good' (ID: 7684), Prob: 0.0000
+
+== Ranked Concepts (Clusters) ==
+Rank 1 | Centroid: 'First' | Score: 0.4844
+  Tokens: [' First', ' first', ' Firstly', 'First']
+Rank 2 | Centroid: ' Okay' | Score: 0.0003
+  Tokens: [' Hmm', ' Okay', ' Alright']
+Rank 3 | Centroid: ' Let' | Score: 0.0002
+  Tokens: [' Let']
+Rank 4 | Centroid: ' Perhaps' | Score: 0.0001
+  Tokens: [' Maybe', ' Please', ' Suppose', ' Could', ' Perhaps', ' Sometimes']
+Rank 5 | Centroid: ' Since' | Score: 0.0001
+  Tokens: [' Since', ' However', ' Today', ' Without', ' Instead']
+Rank 6 | Centroid: ' Wait' | Score: 0.0000
+  Tokens: [' Wait', ' Need', ' Step']
+Rank 7 | Centroid: ' Focus' | Score: 0.0000
+  Tokens: [' Focus', ' Vision']
+Rank 8 | Centroid: ' Start' | Score: 0.0000
+  Tokens: [' Starting', ' Start', ' Begin']
+Rank 9 | Centroid: ' One' | Score: 0.0000
+  Tokens: [' One', ' Time', ' Open']
+Rank 10 | Centroid: ' Make' | Score: 0.0000
+  Tokens: [' Find', ' Make', ' Meet']
+Rank 11 | Centroid: ' Comb' | Score: 0.0000
+  Tokens: [' Comb', ' Combine']
+Rank 12 | Centroid: ' Everyone' | Score: 0.0000
+  Tokens: [' Everyone', ' People', ' Every']
+Rank 13 | Centroid: ' Initially' | Score: 0.0000
+  Tokens: [' Initially']
+Rank 14 | Centroid: ' Looking' | Score: 0.0000
+  Tokens: [' Looking', ' Look']
+Rank 15 | Centroid: ' Take' | Score: 0.0000
+  Tokens: [' Take', ' Taking']
+Rank 16 | Centroid: ' Users' | Score: 0.0000
+  Tokens: [' Users', ' User']
+Rank 17 | Centroid: ' Well' | Score: 0.0000
+  Tokens: [' Well', ' Good']
+Rank 18 | Centroid: ' Imagine' | Score: 0.0000
+  Tokens: [' Imagine']
+
+**Chosen Concept:** Rank 1

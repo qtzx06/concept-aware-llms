@@ -1,0 +1,124 @@
+--- Step 61 Log ---
+
+== Filtered Candidates ==
+Token: ' becomes' (ID: 9044), Prob: 0.1299
+Token: ' must' (ID: 1969), Prob: 0.0212
+Token: ' begins' (ID: 12033), Prob: 0.0078
+Token: ' comes' (ID: 4041), Prob: 0.0045
+Token: ' goes' (ID: 5780), Prob: 0.0045
+Token: ' experiences' (ID: 11449), Prob: 0.0045
+Token: ' gets' (ID: 5221), Prob: 0.0042
+Token: ' environment' (ID: 4573), Prob: 0.0039
+Token: ' life' (ID: 2272), Prob: 0.0037
+Token: ' feels' (ID: 11074), Prob: 0.0037
+Token: ' appears' (ID: 7952), Prob: 0.0031
+Token: ' starts' (ID: 8471), Prob: 0.0031
+Token: ' receives' (ID: 21189), Prob: 0.0029
+Token: ' suffers' (ID: 46421), Prob: 0.0025
+Token: ' changes' (ID: 4344), Prob: 0.0024
+Token: ' returns' (ID: 4675), Prob: 0.0024
+Token: ' finds' (ID: 13719), Prob: 0.0020
+Token: ' ends' (ID: 10335), Prob: 0.0015
+Token: ' reflects' (ID: 25963), Prob: 0.0015
+Token: ' loses' (ID: 32191), Prob: 0.0014
+Token: ' lives' (ID: 6305), Prob: 0.0014
+Token: ' office' (ID: 5163), Prob: 0.0011
+Token: ' deterior' (ID: 38336), Prob: 0.0011
+Token: ' suddenly' (ID: 14843), Prob: 0.0011
+Token: ' falls' (ID: 17066), Prob: 0.0010
+Token: ' breaks' (ID: 18303), Prob: 0.0010
+Token: ' undergo' (ID: 36671), Prob: 0.0010
+Token: ' seems' (ID: 4977), Prob: 0.0009
+Token: ' remains' (ID: 8458), Prob: 0.0009
+Token: ' needs' (ID: 3880), Prob: 0.0008
+Token: ' turns' (ID: 10577), Prob: 0.0007
+Token: ' makes' (ID: 3643), Prob: 0.0006
+Token: ' continues' (ID: 9539), Prob: 0.0006
+Token: ' takes' (ID: 4990), Prob: 0.0006
+Token: ' culture' (ID: 7674), Prob: 0.0006
+Token: ' moves' (ID: 10797), Prob: 0.0006
+Token: ' develops' (ID: 38571), Prob: 0.0006
+Token: ' evolves' (ID: 91954), Prob: 0.0006
+Token: ' opens' (ID: 15885), Prob: 0.0005
+Token: ' community' (ID: 3942), Prob: 0.0005
+Token: ' meets' (ID: 20027), Prob: 0.0005
+Token: ' grows' (ID: 27715), Prob: 0.0005
+Token: ' would' (ID: 1035), Prob: 0.0004
+Token: ' includes' (ID: 5646), Prob: 0.0004
+Token: ' features' (ID: 4419), Prob: 0.0004
+Token: ' cannot' (ID: 4157), Prob: 0.0004
+Token: ' outside' (ID: 4889), Prob: 0.0004
+Token: ' arrives' (ID: 29682), Prob: 0.0004
+Token: ' contains' (ID: 5610), Prob: 0.0004
+Token: ' fails' (ID: 14525), Prob: 0.0004
+Token: ' gradually' (ID: 26024), Prob: 0.0003
+Token: ' burns' (ID: 43054), Prob: 0.0003
+Token: ' slowly' (ID: 13970), Prob: 0.0003
+Token: ' closes' (ID: 33250), Prob: 0.0003
+Token: ' experience' (ID: 3139), Prob: 0.0003
+Token: ' gives' (ID: 6696), Prob: 0.0003
+Token: ' represents' (ID: 10868), Prob: 0.0003
+Token: ' safely' (ID: 21000), Prob: 0.0003
+Token: ' prepares' (ID: 47442), Prob: 0.0003
+Token: ' dis' (ID: 827), Prob: 0.0003
+Token: ' shows' (ID: 4933), Prob: 0.0003
+Token: ' sends' (ID: 21308), Prob: 0.0003
+Token: ' may' (ID: 1231), Prob: 0.0003
+Token: ' could' (ID: 1410), Prob: 0.0003
+Token: ' dec' (ID: 1622), Prob: 0.0003
+Token: ' story' (ID: 3364), Prob: 0.0003
+Token: ' situation' (ID: 6534), Prob: 0.0003
+Token: ' leads' (ID: 11508), Prob: 0.0003
+Token: ' reveals' (ID: 20992), Prob: 0.0003
+Token: ' disappears' (ID: 60270), Prob: 0.0003
+Token: ' fades' (ID: 86409), Prob: 0.0003
+Token: ' faces' (ID: 12300), Prob: 0.0003
+Token: ' serves' (ID: 17045), Prob: 0.0003
+Token: ' presents' (ID: 18404), Prob: 0.0003
+Token: ' gains' (ID: 19619), Prob: 0.0002
+Token: ' abruptly' (ID: 59745), Prob: 0.0002
+Token: ' lies' (ID: 15448), Prob: 0.0002
+
+== Ranked Concepts (Clusters) ==
+Rank 1 | Centroid: ' goes' | Score: 0.1396
+  Tokens: [' becomes', ' comes', ' goes', ' continues']
+Rank 2 | Centroid: ' may' | Score: 0.0234
+  Tokens: [' must', ' needs', ' would', ' cannot', ' may', ' could']
+Rank 3 | Centroid: ' starts' | Score: 0.0124
+  Tokens: [' begins', ' starts', ' ends']
+Rank 4 | Centroid: ' community' | Score: 0.0070
+  Tokens: [' environment', ' office', ' culture', ' community', ' outside', ' story', ' situation']
+Rank 5 | Centroid: ' gets' | Score: 0.0070
+  Tokens: [' gets', ' finds', ' takes', ' sends']
+Rank 6 | Centroid: ' experiences' | Score: 0.0057
+  Tokens: [' experiences', ' undergo', ' experience']
+Rank 7 | Centroid: ' receives' | Score: 0.0054
+  Tokens: [' receives', ' suffers']
+Rank 8 | Centroid: ' opens' | Score: 0.0052
+  Tokens: [' returns', ' breaks', ' turns', ' opens', ' closes', ' leads']
+Rank 9 | Centroid: ' life' | Score: 0.0051
+  Tokens: [' life', ' lives']
+Rank 10 | Centroid: ' loses' | Score: 0.0050
+  Tokens: [' changes', ' loses', ' moves', ' burns', ' gains']
+Rank 11 | Centroid: ' reveals' | Score: 0.0041
+  Tokens: [' reflects', ' makes', ' gives', ' represents', ' prepares', ' shows', ' reveals', ' serves', ' presents']
+Rank 12 | Centroid: ' appears' | Score: 0.0040
+  Tokens: [' appears', ' seems']
+Rank 13 | Centroid: ' feels' | Score: 0.0037
+  Tokens: [' feels']
+Rank 14 | Centroid: ' falls' | Score: 0.0025
+  Tokens: [' falls', ' remains', ' fails', ' lies']
+Rank 15 | Centroid: ' gradually' | Score: 0.0023
+  Tokens: [' suddenly', ' gradually', ' slowly', ' safely', ' abruptly']
+Rank 16 | Centroid: ' evolves' | Score: 0.0020
+  Tokens: [' develops', ' evolves', ' grows', ' arrives']
+Rank 17 | Centroid: ' disappears' | Score: 0.0017
+  Tokens: [' deterior', ' disappears', ' fades']
+Rank 18 | Centroid: ' contains' | Score: 0.0013
+  Tokens: [' meets', ' includes', ' contains']
+Rank 19 | Centroid: ' features' | Score: 0.0007
+  Tokens: [' features', ' faces']
+Rank 20 | Centroid: ' dis' | Score: 0.0005
+  Tokens: [' dis', ' dec']
+
+**Chosen Concept:** Rank 1

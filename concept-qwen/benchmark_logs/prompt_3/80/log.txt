@@ -1,131 +1,153 @@
 --- Step 80 Log ---
 
 == Filtered Candidates ==
-Token: ' family' (ID: 2997), Prob: 1.0000
-Token: ' home' (ID: 2114), Prob: 0.0000
-Token: ' Family' (ID: 12238), Prob: 0.0000
-Token: 'family' (ID: 18984), Prob: 0.0000
-Token: ' familia' (ID: 50947), Prob: 0.0000
-Token: ' category' (ID: 5582), Prob: 0.0000
-Token: ' families' (ID: 8521), Prob: 0.0000
-Token: ' country' (ID: 3146), Prob: 0.0000
-Token: ' factory' (ID: 8633), Prob: 0.0000
-Token: ' company' (ID: 2813), Prob: 0.0000
-Token: ' child' (ID: 1682), Prob: 0.0000
-Token: ' room' (ID: 3054), Prob: 0.0000
-Token: ' future' (ID: 3853), Prob: 0.0000
-Token: ' mother' (ID: 6554), Prob: 0.0000
-Token: ' fam' (ID: 2091), Prob: 0.0000
-Token: ' system' (ID: 1849), Prob: 0.0000
-Token: ' city' (ID: 3283), Prob: 0.0000
-Token: ' facility' (ID: 12481), Prob: 0.0000
-Token: ' familial' (ID: 97204), Prob: 0.0000
-Token: ' field' (ID: 2070), Prob: 0.0000
-Token: 'Family' (ID: 15192), Prob: 0.0000
-Token: ' parent' (ID: 2681), Prob: 0.0000
-Token: ' children' (ID: 2841), Prob: 0.0000
-Token: ' kitchen' (ID: 9780), Prob: 0.0000
-Token: ' famil' (ID: 43426), Prob: 0.0000
-Token: ' FAMILY' (ID: 87469), Prob: 0.0000
-Token: ' way' (ID: 1616), Prob: 0.0000
-Token: ' house' (ID: 3753), Prob: 0.0000
-Token: ' name' (ID: 829), Prob: 0.0000
-Token: ' first' (ID: 1156), Prob: 0.0000
-Token: ' class' (ID: 536), Prob: 0.0000
-Token: ' following' (ID: 2701), Prob: 0.0000
-Token: ' father' (ID: 6981), Prob: 0.0000
-Token: ' farm' (ID: 8785), Prob: 0.0000
-Token: ' year' (ID: 1042), Prob: 0.0000
-Token: ' language' (ID: 4128), Prob: 0.0000
-Token: ' environment' (ID: 4573), Prob: 0.0000
-Token: '_family' (ID: 26823), Prob: 0.0000
-Token: ' world' (ID: 1879), Prob: 0.0000
-Token: ' space' (ID: 3550), Prob: 0.0000
-Token: ' community' (ID: 3942), Prob: 0.0000
-Token: ' journey' (ID: 11618), Prob: 0.0000
-Token: ' garden' (ID: 13551), Prob: 0.0000
-Token: ' household' (ID: 13732), Prob: 0.0000
-Token: ' nursery' (ID: 55126), Prob: 0.0000
-Token: ' baby' (ID: 8770), Prob: 0.0000
-Token: ' camp' (ID: 3113), Prob: 0.0000
-Token: ' queue' (ID: 7177), Prob: 0.0000
-Token: ' next' (ID: 1790), Prob: 0.0000
-Token: ' day' (ID: 1899), Prob: 0.0000
-Token: ' floor' (ID: 6422), Prob: 0.0000
-Token: ' folder' (ID: 8527), Prob: 0.0000
-Token: ' sky' (ID: 12884), Prob: 0.0000
-Token: ' care' (ID: 2453), Prob: 0.0000
-Token: ' center' (ID: 4126), Prob: 0.0000
-Token: ' charity' (ID: 22846), Prob: 0.0000
-Token: ' parenting' (ID: 47958), Prob: 0.0000
-Token: ' car' (ID: 1803), Prob: 0.0000
-Token: ' network' (ID: 3922), Prob: 0.0000
-Token: ' library' (ID: 6733), Prob: 0.0000
-Token: '-family' (ID: 17190), Prob: 0.0000
-Token: ' legacy' (ID: 19588), Prob: 0.0000
-Token: '_FAMILY' (ID: 80828), Prob: 0.0000
-Token: ' full' (ID: 2480), Prob: 0.0000
-Token: ' school' (ID: 2906), Prob: 0.0000
-Token: ' memory' (ID: 4938), Prob: 0.0000
-Token: ' famille' (ID: 66528), Prob: 0.0000
-Token: ' current' (ID: 1482), Prob: 0.0000
-Token: ' game' (ID: 1809), Prob: 0.0000
-Token: ' capital' (ID: 6722), Prob: 0.0000
-Token: ' summer' (ID: 7324), Prob: 0.0000
-Token: ' general' (ID: 4586), Prob: 0.0000
-Token: ' government' (ID: 3033), Prob: 0.0000
-Token: ' night' (ID: 3729), Prob: 0.0000
-Token: ' fall' (ID: 4399), Prob: 0.0000
-Token: ' parents' (ID: 6562), Prob: 0.0000
-Token: ' remaining' (ID: 9664), Prob: 0.0000
-Token: ' foundation' (ID: 16266), Prob: 0.0000
-Token: ' couple' (ID: 5625), Prob: 0.0000
-Token: ' knowledge' (ID: 6540), Prob: 0.0000
-Token: ' framework' (ID: 12626), Prob: 0.0000
-Token: ' apartment' (ID: 13154), Prob: 0.0000
-Token: ' quality' (ID: 4271), Prob: 0.0000
-Token: ' living' (ID: 5382), Prob: 0.0000
+Token: ' friend' (ID: 4238), Prob: 0.1895
+Token: ' situation' (ID: 6534), Prob: 0.1147
+Token: ' person' (ID: 1697), Prob: 0.1016
+Token: ' character' (ID: 3668), Prob: 0.0654
+Token: ' mysterious' (ID: 25382), Prob: 0.0422
+Token: ' mystery' (ID: 22531), Prob: 0.0374
+Token: ' supernatural' (ID: 48958), Prob: 0.0352
+Token: ' misunderstanding' (ID: 69747), Prob: 0.0240
+Token: ' friendship' (ID: 26509), Prob: 0.0226
+Token: ' magical' (ID: 23702), Prob: 0.0188
+Token: ' stranger' (ID: 33958), Prob: 0.0146
+Token: ' ghost' (ID: 19866), Prob: 0.0114
+Token: ' romantic' (ID: 23467), Prob: 0.0101
+Token: ' prank' (ID: 75273), Prob: 0.0101
+Token: ' relationship' (ID: 5025), Prob: 0.0089
+Token: ' mis' (ID: 5786), Prob: 0.0069
+Token: ' strange' (ID: 14888), Prob: 0.0061
+Token: ' family' (ID: 2997), Prob: 0.0057
+Token: ' secret' (ID: 6234), Prob: 0.0050
+Token: ' scenario' (ID: 15048), Prob: 0.0050
+Token: ' friendly' (ID: 11657), Prob: 0.0047
+Token: ' twist' (ID: 26646), Prob: 0.0047
+Token: ' therapist' (ID: 41763), Prob: 0.0039
+Token: ' playful' (ID: 56069), Prob: 0.0037
+Token: ' day' (ID: 1899), Prob: 0.0035
+Token: ' small' (ID: 2613), Prob: 0.0033
+Token: ' new' (ID: 501), Prob: 0.0031
+Token: ' child' (ID: 1682), Prob: 0.0031
+Token: ' story' (ID: 3364), Prob: 0.0031
+Token: ' connection' (ID: 3633), Prob: 0.0031
+Token: ' conflict' (ID: 12055), Prob: 0.0031
+Token: ' funny' (ID: 15173), Prob: 0.0031
+Token: ' thriller' (ID: 53361), Prob: 0.0031
+Token: ' love' (ID: 2948), Prob: 0.0029
+Token: ' mix' (ID: 6514), Prob: 0.0029
+Token: ' sudden' (ID: 10968), Prob: 0.0029
+Token: ' metaphor' (ID: 45350), Prob: 0.0029
+Token: ' past' (ID: 3267), Prob: 0.0027
+Token: ' close' (ID: 3265), Prob: 0.0025
+Token: ' meeting' (ID: 6438), Prob: 0.0025
+Token: ' hidden' (ID: 8177), Prob: 0.0024
+Token: ' mistake' (ID: 16523), Prob: 0.0024
+Token: ' teacher' (ID: 11079), Prob: 0.0022
+Token: ' real' (ID: 1931), Prob: 0.0021
+Token: ' personal' (ID: 4345), Prob: 0.0021
+Token: ' moment' (ID: 4445), Prob: 0.0021
+Token: ' pet' (ID: 6753), Prob: 0.0021
+Token: ' fantasy' (ID: 18378), Prob: 0.0021
+Token: ' tourist' (ID: 29970), Prob: 0.0021
+Token: ' humorous' (ID: 69846), Prob: 0.0021
+Token: ' date' (ID: 2400), Prob: 0.0020
+Token: ' heart' (ID: 4746), Prob: 0.0020
+Token: ' good' (ID: 1661), Prob: 0.0019
+Token: ' quirky' (ID: 67132), Prob: 0.0019
+Token: ' plot' (ID: 7089), Prob: 0.0017
+Token: ' minor' (ID: 8922), Prob: 0.0017
+Token: ' mundane' (ID: 68682), Prob: 0.0017
+Token: ' place' (ID: 1992), Prob: 0.0016
+Token: ' bad' (ID: 3873), Prob: 0.0016
+Token: ' traveler' (ID: 62765), Prob: 0.0016
+Token: ' common' (ID: 4185), Prob: 0.0015
+Token: ' lost' (ID: 5558), Prob: 0.0015
+Token: ' scene' (ID: 6109), Prob: 0.0015
+Token: ' dream' (ID: 7904), Prob: 0.0015
+Token: ' partner' (ID: 8263), Prob: 0.0015
+Token: ' conversation' (ID: 10435), Prob: 0.0015
+Token: ' romance' (ID: 29263), Prob: 0.0015
+Token: ' problem' (ID: 3491), Prob: 0.0014
+Token: ' mystical' (ID: 68432), Prob: 0.0014
+Token: ' joke' (ID: 21646), Prob: 0.0014
+Token: ' mish' (ID: 63396), Prob: 0.0014
+Token: ' social' (ID: 3590), Prob: 0.0013
+Token: ' detective' (ID: 44159), Prob: 0.0013
+Token: ' drama' (ID: 19584), Prob: 0.0012
+Token: ' comedy' (ID: 22358), Prob: 0.0012
+Token: ' tragic' (ID: 34179), Prob: 0.0012
+Token: ' colleague' (ID: 36344), Prob: 0.0012
+Token: ' normal' (ID: 4622), Prob: 0.0011
+Token: ' serious' (ID: 6001), Prob: 0.0011
+Token: ' murder' (ID: 9901), Prob: 0.0011
+Token: ' time' (ID: 882), Prob: 0.0011
+Token: ' man' (ID: 883), Prob: 0.0011
+Token: ' red' (ID: 2518), Prob: 0.0011
+Token: ' night' (ID: 3729), Prob: 0.0011
+Token: ' natural' (ID: 5810), Prob: 0.0011
+Token: ' neighbor' (ID: 9565), Prob: 0.0011
+Token: ' journalist' (ID: 22825), Prob: 0.0011
+Token: ' visitor' (ID: 20181), Prob: 0.0010
+Token: ' thief' (ID: 57735), Prob: 0.0010
+Token: ' doctor' (ID: 10668), Prob: 0.0009
+Token: ' victim' (ID: 11734), Prob: 0.0009
+Token: ' surprise' (ID: 12761), Prob: 0.0009
+Token: ' narrator' (ID: 64171), Prob: 0.0009
+Token: ' comedic' (ID: 94371), Prob: 0.0009
+Token: ' setting' (ID: 6243), Prob: 0.0009
+Token: ' physical' (ID: 6961), Prob: 0.0009
+Token: ' holiday' (ID: 13257), Prob: 0.0009
+Token: ' psychological' (ID: 23187), Prob: 0.0009
 
 == Ranked Concepts (Clusters) ==
-Rank 1 | Centroid: ' Family' | Score: 1.0000
-  Tokens: [' family', ' Family', 'family', ' familia', ' families', ' fam', ' familial', 'Family', ' famil', ' FAMILY', '_family', '-family', '_FAMILY', ' famille']
-Rank 2 | Centroid: ' house' | Score: 0.0000
-  Tokens: [' home', ' house', ' household']
-Rank 3 | Centroid: ' country' | Score: 0.0000
-  Tokens: [' country', ' company', ' system', ' city', ' language', ' community', ' game', ' government']
-Rank 4 | Centroid: ' category' | Score: 0.0000
-  Tokens: [' category', ' field', ' class']
-Rank 5 | Centroid: ' next' | Score: 0.0000
-  Tokens: [' future', ' first', ' following', ' next', ' full', ' current', ' remaining']
-Rank 6 | Centroid: ' child' | Score: 0.0000
-  Tokens: [' child', ' children', ' baby']
-Rank 7 | Centroid: ' school' | Score: 0.0000
-  Tokens: [' factory', ' camp', ' school']
-Rank 8 | Centroid: ' parents' | Score: 0.0000
-  Tokens: [' mother', ' parent', ' father', ' parenting', ' parents']
-Rank 9 | Centroid: ' garden' | Score: 0.0000
-  Tokens: [' kitchen', ' farm', ' garden', ' nursery', ' apartment']
-Rank 10 | Centroid: ' room' | Score: 0.0000
-  Tokens: [' room', ' space', ' floor']
-Rank 11 | Centroid: ' day' | Score: 0.0000
-  Tokens: [' way', ' year', ' day', ' sky', ' summer', ' night']
-Rank 12 | Centroid: ' folder' | Score: 0.0000
-  Tokens: [' facility', ' queue', ' folder', ' library']
-Rank 13 | Centroid: ' framework' | Score: 0.0000
-  Tokens: [' environment', ' journey', ' network', ' foundation', ' framework']
-Rank 14 | Centroid: ' name' | Score: 0.0000
-  Tokens: [' name', ' world', ' general']
-Rank 15 | Centroid: ' legacy' | Score: 0.0000
-  Tokens: [' legacy', ' memory', ' capital', ' knowledge', ' quality']
-Rank 16 | Centroid: ' care' | Score: 0.0000
-  Tokens: [' care', ' car']
-Rank 17 | Centroid: ' center' | Score: 0.0000
-  Tokens: [' center', ' fall']
-Rank 18 | Centroid: ' charity' | Score: 0.0000
-  Tokens: [' charity']
-Rank 19 | Centroid: ' couple' | Score: 0.0000
-  Tokens: [' couple']
-Rank 20 | Centroid: ' living' | Score: 0.0000
-  Tokens: [' living']
+Rank 1 | Centroid: ' friend' | Score: 0.2207
+  Tokens: [' friend', ' friendship', ' friendly', ' partner', ' colleague', ' neighbor']
+Rank 2 | Centroid: ' scenario' | Score: 0.1260
+  Tokens: [' situation', ' scenario', ' story', ' scene', ' problem']
+Rank 3 | Centroid: ' person' | Score: 0.1055
+  Tokens: [' person', ' child', ' man']
+Rank 4 | Centroid: ' mysterious' | Score: 0.0879
+  Tokens: [' mysterious', ' mystery', ' secret', ' hidden', ' surprise']
+Rank 5 | Centroid: ' character' | Score: 0.0654
+  Tokens: [' character']
+Rank 6 | Centroid: ' mystical' | Score: 0.0571
+  Tokens: [' supernatural', ' magical', ' mundane', ' mystical']
+Rank 7 | Centroid: ' mis' | Score: 0.0393
+  Tokens: [' misunderstanding', ' mis', ' twist', ' mistake', ' mish']
+Rank 8 | Centroid: ' humorous' | Score: 0.0243
+  Tokens: [' prank', ' playful', ' funny', ' humorous', ' quirky', ' joke', ' comedy', ' comedic']
+Rank 9 | Centroid: ' romance' | Score: 0.0204
+  Tokens: [' romantic', ' thriller', ' fantasy', ' romance', ' detective', ' drama', ' murder']
+Rank 10 | Centroid: ' love' | Score: 0.0179
+  Tokens: [' family', ' love', ' past', ' close', ' pet', ' heart']
+Rank 11 | Centroid: ' connection' | Score: 0.0165
+  Tokens: [' relationship', ' connection', ' conflict', ' conversation']
+Rank 12 | Centroid: ' tourist' | Score: 0.0157
+  Tokens: [' therapist', ' teacher', ' tourist', ' traveler', ' journalist', ' visitor', ' thief', ' doctor', ' victim', ' narrator']
+Rank 13 | Centroid: ' bad' | Score: 0.0153
+  Tokens: [' small', ' new', ' good', ' minor', ' bad', ' common', ' serious', ' red']
+Rank 14 | Centroid: ' stranger' | Score: 0.0146
+  Tokens: [' stranger']
+Rank 15 | Centroid: ' ghost' | Score: 0.0129
+  Tokens: [' ghost', ' dream']
+Rank 16 | Centroid: ' day' | Score: 0.0113
+  Tokens: [' day', ' moment', ' date', ' place', ' time', ' night']
+Rank 17 | Centroid: ' strange' | Score: 0.0090
+  Tokens: [' strange', ' sudden']
+Rank 18 | Centroid: ' social' | Score: 0.0085
+  Tokens: [' real', ' personal', ' social', ' normal', ' natural', ' physical']
+Rank 19 | Centroid: ' mix' | Score: 0.0044
+  Tokens: [' mix', ' lost']
+Rank 20 | Centroid: ' metaphor' | Score: 0.0038
+  Tokens: [' metaphor', ' psychological']
+Rank 21 | Centroid: ' meeting' | Score: 0.0034
+  Tokens: [' meeting', ' setting']
+Rank 22 | Centroid: ' plot' | Score: 0.0017
+  Tokens: [' plot']
+Rank 23 | Centroid: ' tragic' | Score: 0.0012
+  Tokens: [' tragic']
+Rank 24 | Centroid: ' holiday' | Score: 0.0009
+  Tokens: [' holiday']
 
 **Chosen Concept:** Rank 1

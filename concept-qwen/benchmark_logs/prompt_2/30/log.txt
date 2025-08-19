@@ -1,89 +1,109 @@
 --- Step 30 Log ---
 
 == Filtered Candidates ==
-Token: ' something' (ID: 2494), Prob: 0.5508
-Token: ' etc' (ID: 4992), Prob: 0.2295
-Token: ' yes' (ID: 9834), Prob: 0.0214
-Token: ' anything' (ID: 4113), Prob: 0.0025
-Token: ' maybe' (ID: 7196), Prob: 0.0023
-Token: ' nothing' (ID: 4302), Prob: 0.0018
-Token: ' even' (ID: 1496), Prob: 0.0004
-Token: ' depending' (ID: 11649), Prob: 0.0004
-Token: ' based' (ID: 3118), Prob: 0.0004
-Token: ' sometimes' (ID: 7025), Prob: 0.0003
-Token: ' also' (ID: 1083), Prob: 0.0003
-Token: ' except' (ID: 3650), Prob: 0.0003
-Token: ' whatever' (ID: 8820), Prob: 0.0002
-Token: ' negative' (ID: 8225), Prob: 0.0002
-Token: ' somewhere' (ID: 14696), Prob: 0.0002
-Token: ' answer' (ID: 4226), Prob: 0.0002
-Token: ' another' (ID: 2441), Prob: 0.0002
-Token: ' someone' (ID: 4325), Prob: 0.0001
-Token: ' perhaps' (ID: 8365), Prob: 0.0001
-Token: ' otherwise' (ID: 5937), Prob: 0.0001
-Token: ' else' (ID: 770), Prob: 0.0001
-Token: ' similar' (ID: 4428), Prob: 0.0001
-Token: ' since' (ID: 2474), Prob: 0.0001
-Token: ' thing' (ID: 3166), Prob: 0.0001
-Token: ' plus' (ID: 5519), Prob: 0.0001
-Token: ' unless' (ID: 7241), Prob: 0.0001
-Token: ' one' (ID: 825), Prob: 0.0001
-Token: ' things' (ID: 2513), Prob: 0.0001
-Token: ' possibly' (ID: 10767), Prob: 0.0001
-Token: ' without' (ID: 2041), Prob: 0.0001
-Token: ' sorry' (ID: 14589), Prob: 0.0001
-Token: ' specific' (ID: 3151), Prob: 0.0001
+Token: ' like' (ID: 1075), Prob: 0.0229
+Token: ' sentence' (ID: 11652), Prob: 0.0179
+Token: ' similar' (ID: 4428), Prob: 0.0021
+Token: ' mentioning' (ID: 44291), Prob: 0.0015
+Token: ' involving' (ID: 15860), Prob: 0.0007
+Token: ' line' (ID: 1555), Prob: 0.0006
+Token: ' describing' (ID: 22692), Prob: 0.0005
+Token: ' related' (ID: 5435), Prob: 0.0005
+Token: ' paragraph' (ID: 14311), Prob: 0.0004
+Token: ' around' (ID: 2163), Prob: 0.0003
+Token: ' introducing' (ID: 31918), Prob: 0.0003
+Token: ' scene' (ID: 6109), Prob: 0.0002
+Token: ' statement' (ID: 5114), Prob: 0.0001
+Token: ' showing' (ID: 9027), Prob: 0.0001
+Token: ' regarding' (ID: 8826), Prob: 0.0001
+Token: ' mention' (ID: 6286), Prob: 0.0001
+Token: ' event' (ID: 1538), Prob: 0.0001
 Token: ' description' (ID: 4008), Prob: 0.0001
-Token: ' like' (ID: 1075), Prob: 0.0001
-Token: ' everything' (ID: 4297), Prob: 0.0001
-Token: ' however' (ID: 4764), Prob: 0.0001
-Token: ' possible' (ID: 3204), Prob: 0.0001
-Token: ' certain' (ID: 3654), Prob: 0.0001
-Token: ' Something' (ID: 24656), Prob: 0.0001
-Token: ' positive' (ID: 6785), Prob: 0.0001
-Token: ' yeah' (ID: 21639), Prob: 0.0001
-Token: ' please' (ID: 4486), Prob: 0.0000
-Token: ' wait' (ID: 3783), Prob: 0.0000
-Token: ' false' (ID: 895), Prob: 0.0000
-Token: ' none' (ID: 6857), Prob: 0.0000
-Token: ' okay' (ID: 16910), Prob: 0.0000
-Token: ' exactly' (ID: 6896), Prob: 0.0000
-Token: ' depends' (ID: 13798), Prob: 0.0000
+Token: ' detail' (ID: 7716), Prob: 0.0001
+Token: ' using' (ID: 1667), Prob: 0.0000
+Token: ' talking' (ID: 7404), Prob: 0.0000
+Token: ' scenario' (ID: 15048), Prob: 0.0000
+Token: ' phrase' (ID: 17133), Prob: 0.0000
+Token: ' part' (ID: 949), Prob: 0.0000
+Token: ' hook' (ID: 9704), Prob: 0.0000
+Token: ' story' (ID: 3364), Prob: 0.0000
+Token: ' highlighting' (ID: 38586), Prob: 0.0000
+Token: ' word' (ID: 3409), Prob: 0.0000
+Token: ' stating' (ID: 27798), Prob: 0.0000
+Token: ' comparing' (ID: 26297), Prob: 0.0000
+Token: ' details' (ID: 3565), Prob: 0.0000
+Token: ' explaining' (ID: 25021), Prob: 0.0000
+Token: ' first' (ID: 1156), Prob: 0.0000
+Token: ' bringing' (ID: 12678), Prob: 0.0000
+Token: ' moment' (ID: 4445), Prob: 0.0000
+Token: ' time' (ID: 882), Prob: 0.0000
+Token: '-like' (ID: 12681), Prob: 0.0000
+Token: '—the' (ID: 21677), Prob: 0.0000
+Token: ' detailing' (ID: 44193), Prob: 0.0000
+Token: ' metaphor' (ID: 45350), Prob: 0.0000
+Token: ' point' (ID: 1459), Prob: 0.0000
+Token: ' saying' (ID: 5488), Prob: 0.0000
+Token: ' telling' (ID: 11629), Prob: 0.0000
+Token: ' typical' (ID: 14260), Prob: 0.0000
+Token: ' giving' (ID: 7086), Prob: 0.0000
+Token: ' since' (ID: 2474), Prob: 0.0000
+Token: ' something' (ID: 2494), Prob: 0.0000
+Token: ' making' (ID: 3259), Prob: 0.0000
+Token: ' relevant' (ID: 9760), Prob: 0.0000
+Token: ' meeting' (ID: 6438), Prob: 0.0000
+Token: ' providing' (ID: 8241), Prob: 0.0000
+Token: ' sentences' (ID: 22870), Prob: 0.0000
+Token: ' action' (ID: 1917), Prob: 0.0000
+Token: ' familiar' (ID: 11285), Prob: 0.0000
+Token: ' summary' (ID: 12126), Prob: 0.0000
+Token: ' relating' (ID: 22527), Prob: 0.0000
+Token: ' present' (ID: 3042), Prob: 0.0000
+Token: ' discussing' (ID: 24392), Prob: 0.0000
+Token: ' topic' (ID: 8544), Prob: 0.0000
+Token: ' including' (ID: 2670), Prob: 0.0000
+Token: ' setting' (ID: 6243), Prob: 0.0000
+Token: ' situation' (ID: 6534), Prob: 0.0000
+Token: ' capturing' (ID: 39780), Prob: 0.0000
+Token: ' vivid' (ID: 42020), Prob: 0.0000
 
 == Ranked Concepts (Clusters) ==
-Rank 1 | Centroid: ' something' | Score: 0.5547
-  Tokens: [' something', ' anything', ' nothing', ' thing', ' things', ' everything', ' Something']
-Rank 2 | Centroid: ' etc' | Score: 0.2295
-  Tokens: [' etc', ' even', ' however']
-Rank 3 | Centroid: ' yeah' | Score: 0.0215
-  Tokens: [' yes', ' yeah', ' okay']
-Rank 4 | Centroid: ' perhaps' | Score: 0.0029
-  Tokens: [' maybe', ' sometimes', ' perhaps', ' possibly', ' possible']
-Rank 5 | Centroid: ' depending' | Score: 0.0008
-  Tokens: [' depending', ' based', ' depends']
-Rank 6 | Centroid: ' unless' | Score: 0.0006
-  Tokens: [' except', ' since', ' plus', ' unless', ' without']
-Rank 7 | Centroid: ' somewhere' | Score: 0.0003
-  Tokens: [' somewhere', ' someone']
-Rank 8 | Centroid: ' answer' | Score: 0.0003
-  Tokens: [' answer', ' description', ' wait']
-Rank 9 | Centroid: ' another' | Score: 0.0003
-  Tokens: [' another', ' one', ' exactly']
-Rank 10 | Centroid: ' also' | Score: 0.0003
-  Tokens: [' also']
-Rank 11 | Centroid: ' negative' | Score: 0.0002
-  Tokens: [' negative', ' positive']
-Rank 12 | Centroid: ' whatever' | Score: 0.0002
-  Tokens: [' whatever']
-Rank 13 | Centroid: ' otherwise' | Score: 0.0002
-  Tokens: [' otherwise', ' else']
-Rank 14 | Centroid: ' similar' | Score: 0.0002
-  Tokens: [' similar', ' like']
-Rank 15 | Centroid: ' specific' | Score: 0.0001
-  Tokens: [' specific', ' certain']
-Rank 16 | Centroid: ' sorry' | Score: 0.0001
-  Tokens: [' sorry', ' please']
-Rank 17 | Centroid: ' false' | Score: 0.0001
-  Tokens: [' false', ' none']
+Rank 1 | Centroid: '-like' | Score: 0.0251
+  Tokens: [' like', ' similar', '-like', ' something']
+Rank 2 | Centroid: ' sentence' | Score: 0.0186
+  Tokens: [' sentence', ' paragraph', ' statement', ' phrase', ' word', ' sentences']
+Rank 3 | Centroid: ' mentioning' | Score: 0.0015
+  Tokens: [' mentioning', ' mention']
+Rank 4 | Centroid: ' relating' | Score: 0.0013
+  Tokens: [' involving', ' related', ' regarding', ' relevant', ' relating']
+Rank 5 | Centroid: ' hook' | Score: 0.0008
+  Tokens: [' line', ' event', ' hook', ' moment', ' time', ' point', ' action']
+Rank 6 | Centroid: ' stating' | Score: 0.0008
+  Tokens: [' describing', ' showing', ' highlighting', ' stating', ' explaining', ' saying', ' telling']
+Rank 7 | Centroid: ' using' | Score: 0.0004
+  Tokens: [' around', ' using', ' since', ' including']
+Rank 8 | Centroid: ' providing' | Score: 0.0004
+  Tokens: [' introducing', ' bringing', ' giving', ' making', ' providing', ' capturing']
+Rank 9 | Centroid: ' scenario' | Score: 0.0003
+  Tokens: [' scene', ' scenario', ' situation']
+Rank 10 | Centroid: ' details' | Score: 0.0001
+  Tokens: [' detail', ' details', ' detailing']
+Rank 11 | Centroid: ' discussing' | Score: 0.0001
+  Tokens: [' talking', ' comparing', ' discussing']
+Rank 12 | Centroid: ' description' | Score: 0.0001
+  Tokens: [' description', ' summary']
+Rank 13 | Centroid: ' first' | Score: 0.0001
+  Tokens: [' part', ' first', ' present']
+Rank 14 | Centroid: ' vivid' | Score: 0.0000
+  Tokens: [' metaphor', ' typical', ' familiar', ' vivid']
+Rank 15 | Centroid: ' story' | Score: 0.0000
+  Tokens: [' story']
+Rank 16 | Centroid: '—the' | Score: 0.0000
+  Tokens: ['—the']
+Rank 17 | Centroid: ' meeting' | Score: 0.0000
+  Tokens: [' meeting']
+Rank 18 | Centroid: ' topic' | Score: 0.0000
+  Tokens: [' topic']
+Rank 19 | Centroid: ' setting' | Score: 0.0000
+  Tokens: [' setting']
 
 **Chosen Concept:** Rank 1

@@ -1,76 +1,115 @@
 --- Step 142 Log ---
 
 == Filtered Candidates ==
-Token: ' message' (ID: 1943), Prob: 0.9961
-Token: ' prompt' (ID: 9934), Prob: 0.0010
-Token: '.message' (ID: 6698), Prob: 0.0004
-Token: ' messages' (ID: 6605), Prob: 0.0003
-Token: ' question' (ID: 3405), Prob: 0.0001
-Token: '(message' (ID: 7333), Prob: 0.0001
-Token: ' Message' (ID: 4856), Prob: 0.0001
-Token: 'message' (ID: 1994), Prob: 0.0001
-Token: '	message' (ID: 24753), Prob: 0.0000
-Token: ' mes' (ID: 10846), Prob: 0.0000
-Token: '$message' (ID: 42821), Prob: 0.0000
-Token: ':message' (ID: 91473), Prob: 0.0000
-Token: ' statement' (ID: 5114), Prob: 0.0000
-Token: '-message' (ID: 29332), Prob: 0.0000
-Token: ',message' (ID: 72783), Prob: 0.0000
-Token: 'Message' (ID: 2052), Prob: 0.0000
-Token: '=message' (ID: 87129), Prob: 0.0000
-Token: '_message' (ID: 6462), Prob: 0.0000
-Token: ' theme' (ID: 6912), Prob: 0.0000
-Token: ' phrase' (ID: 17133), Prob: 0.0000
-Token: ' messaging' (ID: 29522), Prob: 0.0000
-Token: ' MESSAGE' (ID: 40758), Prob: 0.0000
-Token: ' motif' (ID: 59512), Prob: 0.0000
-Token: ' information' (ID: 1995), Prob: 0.0000
-Token: ' answer' (ID: 4226), Prob: 0.0000
-Token: '/message' (ID: 50624), Prob: 0.0000
-Token: '.Message' (ID: 8472), Prob: 0.0000
-Token: ' user' (ID: 1196), Prob: 0.0000
-Token: ' response' (ID: 2033), Prob: 0.0000
-Token: ' month' (ID: 2254), Prob: 0.0000
-Token: ' position' (ID: 2309), Prob: 0.0000
-Token: ' promise' (ID: 11222), Prob: 0.0000
-Token: '<message' (ID: 83747), Prob: 0.0000
-Token: ' lesson' (ID: 17755), Prob: 0.0000
-Token: ' moment' (ID: 4445), Prob: 0.0000
-Token: ' mate' (ID: 29176), Prob: 0.0000
-Token: ' point' (ID: 1459), Prob: 0.0000
-Token: ' mess' (ID: 9435), Prob: 0.0000
-Token: ' mission' (ID: 8954), Prob: 0.0000
-Token: ' maximum' (ID: 7192), Prob: 0.0000
-Token: ' wording' (ID: 60227), Prob: 0.0000
-Token: ' date' (ID: 2400), Prob: 0.0000
-Token: '_MESSAGE' (ID: 14641), Prob: 0.0000
+Token: ' goes' (ID: 5780), Prob: 0.0149
+Token: ' walks' (ID: 22479), Prob: 0.0103
+Token: ' arrives' (ID: 29682), Prob: 0.0043
+Token: ' named' (ID: 6941), Prob: 0.0029
+Token: ' hikes' (ID: 67485), Prob: 0.0023
+Token: ' comes' (ID: 4041), Prob: 0.0018
+Token: ' starts' (ID: 8471), Prob: 0.0018
+Token: ' sets' (ID: 7289), Prob: 0.0014
+Token: ' takes' (ID: 4990), Prob: 0.0008
+Token: ' gets' (ID: 5221), Prob: 0.0008
+Token: ' names' (ID: 5036), Prob: 0.0007
+Token: ' wakes' (ID: 61567), Prob: 0.0007
+Token: ' approaches' (ID: 19827), Prob: 0.0007
+Token: ' makes' (ID: 3643), Prob: 0.0006
+Token: ' could' (ID: 1410), Prob: 0.0005
+Token: ' decides' (ID: 27627), Prob: 0.0005
+Token: ' finds' (ID: 13719), Prob: 0.0005
+Token: ' would' (ID: 1035), Prob: 0.0004
+Token: ' leaves' (ID: 10901), Prob: 0.0003
+Token: ' wants' (ID: 6801), Prob: 0.0003
+Token: ' enters' (ID: 28833), Prob: 0.0003
+Token: ' steps' (ID: 7354), Prob: 0.0002
+Token: ' reaches' (ID: 24491), Prob: 0.0002
+Token: ' describes' (ID: 16555), Prob: 0.0002
+Token: ' mentions' (ID: 33845), Prob: 0.0001
+Token: ' begins' (ID: 12033), Prob: 0.0001
+Token: ' went' (ID: 3937), Prob: 0.0001
+Token: ' meets' (ID: 20027), Prob: 0.0001
+Token: ' climbs' (ID: 76411), Prob: 0.0001
+Token: ' hears' (ID: 52059), Prob: 0.0001
+Token: ' talks' (ID: 13433), Prob: 0.0001
+Token: ' hiking' (ID: 37364), Prob: 0.0001
+Token: ' emb' (ID: 7967), Prob: 0.0001
+Token: ' runs' (ID: 8473), Prob: 0.0001
+Token: ' explores' (ID: 40324), Prob: 0.0001
+Token: ' says' (ID: 2727), Prob: 0.0000
+Token: ' visits' (ID: 21051), Prob: 0.0000
+Token: ' spends' (ID: 37102), Prob: 0.0000
+Token: ' feels' (ID: 11074), Prob: 0.0000
+Token: ' loves' (ID: 15803), Prob: 0.0000
+Token: ' drives' (ID: 20118), Prob: 0.0000
+Token: ' notices' (ID: 34771), Prob: 0.0000
+Token: ' enjoys' (ID: 31738), Prob: 0.0000
+Token: ' encounters' (ID: 33906), Prob: 0.0000
+Token: ' might' (ID: 2578), Prob: 0.0000
+Token: ' travels' (ID: 34192), Prob: 0.0000
+Token: ' discovers' (ID: 51014), Prob: 0.0000
+Token: ' knows' (ID: 8788), Prob: 0.0000
+Token: ' experiences' (ID: 11449), Prob: 0.0000
+Token: ' called' (ID: 2598), Prob: 0.0000
+Token: ' lives' (ID: 6305), Prob: 0.0000
+Token: ' desc' (ID: 6560), Prob: 0.0000
+Token: ' plans' (ID: 6649), Prob: 0.0000
+Token: ' uses' (ID: 5711), Prob: 0.0000
+Token: ' walked' (ID: 14858), Prob: 0.0000
+Token: ' likes' (ID: 13151), Prob: 0.0000
+Token: ' picks' (ID: 21895), Prob: 0.0000
+Token: ' name' (ID: 829), Prob: 0.0000
+Token: ' going' (ID: 2087), Prob: 0.0000
+Token: ' walking' (ID: 11435), Prob: 0.0000
+Token: ' packs' (ID: 30306), Prob: 0.0000
+Token: ' set' (ID: 738), Prob: 0.0000
+Token: ' needs' (ID: 3880), Prob: 0.0000
+Token: ' stands' (ID: 13352), Prob: 0.0000
+Token: ' writes' (ID: 13914), Prob: 0.0000
+Token: ' parks' (ID: 26845), Prob: 0.0000
+Token: ' like' (ID: 1075), Prob: 0.0000
+Token: ' hike' (ID: 34231), Prob: 0.0000
+Token: ' John' (ID: 3757), Prob: 0.0000
+Token: ' tells' (ID: 10742), Prob: 0.0000
 
 == Ranked Concepts (Clusters) ==
-Rank 1 | Centroid: '_message' | Score: 0.9961
-  Tokens: [' message', '.message', ' messages', ' Message', 'message', '-message', 'Message', '_message', ' messaging', ' MESSAGE', '.Message', '_MESSAGE']
-Rank 2 | Centroid: ' prompt' | Score: 0.0010
-  Tokens: [' prompt', ' promise']
-Rank 3 | Centroid: '	message' | Score: 0.0002
-  Tokens: ['(message', '\tmessage', '$message', ':message', ',message', '=message', '/message', '<message']
-Rank 4 | Centroid: ' question' | Score: 0.0001
-  Tokens: [' question', ' user']
-Rank 5 | Centroid: ' mes' | Score: 0.0000
-  Tokens: [' mes', ' mess']
-Rank 6 | Centroid: ' phrase' | Score: 0.0000
-  Tokens: [' statement', ' phrase', ' wording']
-Rank 7 | Centroid: ' motif' | Score: 0.0000
-  Tokens: [' theme', ' motif', ' lesson', ' mission']
-Rank 8 | Centroid: ' answer' | Score: 0.0000
-  Tokens: [' answer', ' response']
-Rank 9 | Centroid: ' information' | Score: 0.0000
-  Tokens: [' information', ' maximum']
-Rank 10 | Centroid: ' position' | Score: 0.0000
-  Tokens: [' position', ' point']
-Rank 11 | Centroid: ' month' | Score: 0.0000
-  Tokens: [' month', ' date']
-Rank 12 | Centroid: ' mate' | Score: 0.0000
-  Tokens: [' mate']
-Rank 13 | Centroid: ' moment' | Score: 0.0000
-  Tokens: [' moment']
+Rank 1 | Centroid: ' goes' | Score: 0.0150
+  Tokens: [' goes', ' went', ' going']
+Rank 2 | Centroid: ' gets' | Score: 0.0107
+  Tokens: [' arrives', ' comes', ' starts', ' takes', ' gets', ' makes', ' enters', ' reaches', ' begins', ' meets']
+Rank 3 | Centroid: ' walked' | Score: 0.0105
+  Tokens: [' walks', ' steps', ' walked', ' walking']
+Rank 4 | Centroid: ' named' | Score: 0.0037
+  Tokens: [' named', ' names', ' called', ' name']
+Rank 5 | Centroid: ' hikes' | Score: 0.0025
+  Tokens: [' hikes', ' climbs', ' hiking', ' hike']
+Rank 6 | Centroid: ' sets' | Score: 0.0014
+  Tokens: [' sets', ' set']
+Rank 7 | Centroid: ' could' | Score: 0.0009
+  Tokens: [' could', ' would', ' might']
+Rank 8 | Centroid: ' encounters' | Score: 0.0008
+  Tokens: [' approaches', ' visits', ' encounters', ' travels', ' experiences']
+Rank 9 | Centroid: ' wakes' | Score: 0.0008
+  Tokens: [' wakes', ' picks']
+Rank 10 | Centroid: ' tells' | Score: 0.0007
+  Tokens: [' decides', ' describes', ' says', ' knows', ' tells']
+Rank 11 | Centroid: ' discovers' | Score: 0.0006
+  Tokens: [' finds', ' hears', ' explores', ' discovers']
+Rank 12 | Centroid: ' wants' | Score: 0.0004
+  Tokens: [' wants', ' loves', ' lives', ' uses', ' likes', ' needs']
+Rank 13 | Centroid: ' stands' | Score: 0.0004
+  Tokens: [' leaves', ' runs', ' stands']
+Rank 14 | Centroid: ' mentions' | Score: 0.0003
+  Tokens: [' mentions', ' talks', ' notices', ' writes']
+Rank 15 | Centroid: ' enjoys' | Score: 0.0001
+  Tokens: [' spends', ' feels', ' enjoys']
+Rank 16 | Centroid: ' John' | Score: 0.0001
+  Tokens: [' emb', ' desc', ' John']
+Rank 17 | Centroid: ' parks' | Score: 0.0001
+  Tokens: [' drives', ' packs', ' parks']
+Rank 18 | Centroid: ' plans' | Score: 0.0000
+  Tokens: [' plans']
+Rank 19 | Centroid: ' like' | Score: 0.0000
+  Tokens: [' like']
 
 **Chosen Concept:** Rank 1

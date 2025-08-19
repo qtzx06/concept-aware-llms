@@ -1,71 +1,129 @@
 --- Step 139 Log ---
 
 == Filtered Candidates ==
-Token: ' prompt' (ID: 9934), Prob: 0.9922
-Token: ' message' (ID: 1943), Prob: 0.0028
-Token: ' Prompt' (ID: 59501), Prob: 0.0004
-Token: ' prompts' (ID: 50932), Prob: 0.0002
-Token: '(prompt' (ID: 72253), Prob: 0.0001
-Token: 'prompt' (ID: 40581), Prob: 0.0001
-Token: ' question' (ID: 3405), Prob: 0.0000
-Token: 'Prompt' (ID: 54615), Prob: 0.0000
-Token: ' potential' (ID: 4650), Prob: 0.0000
-Token: ' prompting' (ID: 49645), Prob: 0.0000
-Token: '_prompt' (ID: 61421), Prob: 0.0000
-Token: ' prompted' (ID: 28646), Prob: 0.0000
-Token: ' motif' (ID: 59512), Prob: 0.0000
-Token: ' promise' (ID: 11222), Prob: 0.0000
-Token: ' prom' (ID: 2706), Prob: 0.0000
-Token: ' hint' (ID: 13012), Prob: 0.0000
-Token: ' keyword' (ID: 16174), Prob: 0.0000
-Token: ' within' (ID: 2878), Prob: 0.0000
-Token: ' theme' (ID: 6912), Prob: 0.0000
-Token: ' promotion' (ID: 20249), Prob: 0.0000
-Token: '.prompt' (ID: 65399), Prob: 0.0000
-Token: ' topic' (ID: 8544), Prob: 0.0000
-Token: ' point' (ID: 1459), Prob: 0.0000
-Token: ' mood' (ID: 19671), Prob: 0.0000
-Token: ' position' (ID: 2309), Prob: 0.0000
-Token: ' wording' (ID: 60227), Prob: 0.0000
-Token: ' messages' (ID: 6605), Prob: 0.0000
-Token: ' priority' (ID: 10619), Prob: 0.0000
-Token: ' PROM' (ID: 67688), Prob: 0.0000
-Token: ' title' (ID: 2265), Prob: 0.0000
-Token: ' option' (ID: 2999), Prob: 0.0000
-Token: ' motto' (ID: 62326), Prob: 0.0000
+Token: ' First' (ID: 5512), Prob: 0.0101
+Token: ' Maybe' (ID: 10696), Prob: 0.0101
+Token: ' Int' (ID: 1333), Prob: 0.0061
+Token: ' Set' (ID: 2573), Prob: 0.0023
+Token: ' Setting' (ID: 20037), Prob: 0.0018
+Token: ' Title' (ID: 10869), Prob: 0.0012
+Token: ' Mention' (ID: 85148), Prob: 0.0011
+Token: ' Describe' (ID: 60785), Prob: 0.0009
+Token: ' Imagine' (ID: 37791), Prob: 0.0005
+Token: ' Scene' (ID: 17494), Prob: 0.0004
+Token: ' Start' (ID: 5145), Prob: 0.0004
+Token: ' Head' (ID: 11203), Prob: 0.0002
+Token: ' Open' (ID: 5264), Prob: 0.0002
+Token: ' Person' (ID: 7357), Prob: 0.0002
+Token: ' Introduction' (ID: 28338), Prob: 0.0002
+Token: ' Make' (ID: 7405), Prob: 0.0001
+Token: ' Morning' (ID: 27984), Prob: 0.0001
+Token: ' Time' (ID: 4120), Prob: 0.0001
+Token: ' Imag' (ID: 76433), Prob: 0.0001
+Token: ' Opening' (ID: 40037), Prob: 0.0001
+Token: ' Establish' (ID: 39398), Prob: 0.0001
+Token: ' Focus' (ID: 25806), Prob: 0.0001
+Token: ' Highlight' (ID: 55994), Prob: 0.0001
+Token: ' Paint' (ID: 17203), Prob: 0.0001
+Token: ' Begin' (ID: 18597), Prob: 0.0001
+Token: ' Hook' (ID: 28171), Prob: 0.0001
+Token: ' Picture' (ID: 24568), Prob: 0.0001
+Token: ' Place' (ID: 10771), Prob: 0.0001
+Token: ' Image' (ID: 4654), Prob: 0.0000
+Token: ' Hmm' (ID: 88190), Prob: 0.0000
+Token: ' Need' (ID: 14656), Prob: 0.0000
+Token: ' Write' (ID: 9645), Prob: 0.0000
+Token: ' Town' (ID: 13971), Prob: 0.0000
+Token: ' Use' (ID: 5443), Prob: 0.0000
+Token: ' Perhaps' (ID: 18765), Prob: 0.0000
+Token: ' Weather' (ID: 22629), Prob: 0.0000
+Token: ' Something' (ID: 24656), Prob: 0.0000
+Token: ' Think' (ID: 21149), Prob: 0.0000
+Token: ' Sentence' (ID: 79542), Prob: 0.0000
+Token: ' John' (ID: 3757), Prob: 0.0000
+Token: ' Meet' (ID: 25826), Prob: 0.0000
+Token: ' Day' (ID: 6059), Prob: 0.0000
+Token: ' Snow' (ID: 18901), Prob: 0.0000
+Token: ' Welcome' (ID: 20166), Prob: 0.0000
+Token: ' Paragraph' (ID: 49351), Prob: 0.0000
+Token: ' Location' (ID: 9866), Prob: 0.0000
+Token: ' Find' (ID: 7379), Prob: 0.0000
+Token: ' Bring' (ID: 39124), Prob: 0.0000
+Token: 'roduce' (ID: 47845), Prob: 0.0000
+Token: ' Starting' (ID: 27657), Prob: 0.0000
+Token: ' Probably' (ID: 37154), Prob: 0.0000
+Token: ' Create' (ID: 4230), Prob: 0.0000
+Token: ' Good' (ID: 7684), Prob: 0.0000
+Token: ' Get' (ID: 2126), Prob: 0.0000
+Token: ' Today' (ID: 11201), Prob: 0.0000
+Token: ' Nature' (ID: 21331), Prob: 0.0000
+Token: ' Pro' (ID: 1298), Prob: 0.0000
+Token: ' Travel' (ID: 18097), Prob: 0.0000
+Token: ' Talk' (ID: 18976), Prob: 0.0000
+Token: ' Point' (ID: 5126), Prob: 0.0000
+Token: ' Sun' (ID: 8059), Prob: 0.0000
+Token: ' Main' (ID: 4697), Prob: 0.0000
+Token: ' Add' (ID: 2691), Prob: 0.0000
+Token: ' Name' (ID: 3988), Prob: 0.0000
+Token: ' Ten' (ID: 17695), Prob: 0.0000
+Token: ' Grab' (ID: 36194), Prob: 0.0000
+Token: ' Important' (ID: 43821), Prob: 0.0000
+Token: ' Narr' (ID: 56869), Prob: 0.0000
+Token: ' Okay' (ID: 35439), Prob: 0.0000
+Token: ' Arrival' (ID: 92098), Prob: 0.0000
 
 == Ranked Concepts (Clusters) ==
-Rank 1 | Centroid: 'Prompt' | Score: 0.9922
-  Tokens: [' prompt', ' Prompt', '(prompt', 'prompt', 'Prompt', '_prompt', '.prompt']
-Rank 2 | Centroid: ' message' | Score: 0.0028
-  Tokens: [' message', ' messages']
-Rank 3 | Centroid: ' prompts' | Score: 0.0002
-  Tokens: [' prompts', ' prompting', ' prompted']
-Rank 4 | Centroid: ' question' | Score: 0.0000
-  Tokens: [' question']
-Rank 5 | Centroid: ' theme' | Score: 0.0000
-  Tokens: [' motif', ' theme', ' topic']
-Rank 6 | Centroid: ' potential' | Score: 0.0000
-  Tokens: [' potential']
-Rank 7 | Centroid: ' PROM' | Score: 0.0000
-  Tokens: [' prom', ' promotion', ' PROM']
-Rank 8 | Centroid: ' wording' | Score: 0.0000
-  Tokens: [' keyword', ' wording', ' motto']
-Rank 9 | Centroid: ' promise' | Score: 0.0000
-  Tokens: [' promise']
-Rank 10 | Centroid: ' mood' | Score: 0.0000
-  Tokens: [' mood', ' priority']
-Rank 11 | Centroid: ' hint' | Score: 0.0000
-  Tokens: [' hint']
-Rank 12 | Centroid: ' within' | Score: 0.0000
-  Tokens: [' within']
-Rank 13 | Centroid: ' point' | Score: 0.0000
-  Tokens: [' point']
-Rank 14 | Centroid: ' position' | Score: 0.0000
-  Tokens: [' position']
-Rank 15 | Centroid: ' option' | Score: 0.0000
-  Tokens: [' option']
-Rank 16 | Centroid: ' title' | Score: 0.0000
-  Tokens: [' title']
+Rank 1 | Centroid: ' Maybe' | Score: 0.0103
+  Tokens: [' Maybe', ' Hmm', ' Perhaps', ' Something', ' Probably', ' Okay']
+Rank 2 | Centroid: ' First' | Score: 0.0101
+  Tokens: [' First', ' Main']
+Rank 3 | Centroid: ' John' | Score: 0.0062
+  Tokens: [' Int', ' John', ' Pro']
+Rank 4 | Centroid: ' Setting' | Score: 0.0041
+  Tokens: [' Set', ' Setting', ' Establish']
+Rank 5 | Centroid: ' Name' | Score: 0.0012
+  Tokens: [' Title', ' Name', ' Ten']
+Rank 6 | Centroid: ' Mention' | Score: 0.0011
+  Tokens: [' Mention', ' Highlight']
+Rank 7 | Centroid: ' Describe' | Score: 0.0009
+  Tokens: [' Describe']
+Rank 8 | Centroid: ' Imagine' | Score: 0.0005
+  Tokens: [' Imagine', ' Think']
+Rank 9 | Centroid: ' Sentence' | Score: 0.0005
+  Tokens: [' Scene', ' Sentence', ' Paragraph']
+Rank 10 | Centroid: ' Start' | Score: 0.0005
+  Tokens: [' Start', ' Begin', ' Starting']
+Rank 11 | Centroid: ' Open' | Score: 0.0003
+  Tokens: [' Open', ' Opening', ' Good']
+Rank 12 | Centroid: ' Hook' | Score: 0.0003
+  Tokens: [' Head', ' Hook', ' Grab']
+Rank 13 | Centroid: ' Image' | Score: 0.0003
+  Tokens: [' Imag', ' Paint', ' Picture', ' Image']
+Rank 14 | Centroid: ' Create' | Score: 0.0003
+  Tokens: [' Make', ' Write', ' Use', ' Find', ' Create', ' Get', ' Add']
+Rank 15 | Centroid: ' Location' | Score: 0.0002
+  Tokens: [' Person', ' Place', ' Location', ' Point']
+Rank 16 | Centroid: ' Introduction' | Score: 0.0002
+  Tokens: [' Introduction', ' Welcome', 'roduce']
+Rank 17 | Centroid: ' Weather' | Score: 0.0002
+  Tokens: [' Morning', ' Weather', ' Today', ' Travel']
+Rank 18 | Centroid: ' Time' | Score: 0.0001
+  Tokens: [' Time', ' Nature']
+Rank 19 | Centroid: ' Focus' | Score: 0.0001
+  Tokens: [' Focus']
+Rank 20 | Centroid: ' Town' | Score: 0.0001
+  Tokens: [' Town', ' Day']
+Rank 21 | Centroid: ' Meet' | Score: 0.0001
+  Tokens: [' Meet', ' Bring', ' Talk']
+Rank 22 | Centroid: ' Need' | Score: 0.0000
+  Tokens: [' Need']
+Rank 23 | Centroid: ' Snow' | Score: 0.0000
+  Tokens: [' Snow', ' Sun']
+Rank 24 | Centroid: ' Important' | Score: 0.0000
+  Tokens: [' Important']
+Rank 25 | Centroid: ' Narr' | Score: 0.0000
+  Tokens: [' Narr']
+Rank 26 | Centroid: ' Arrival' | Score: 0.0000
+  Tokens: [' Arrival']
 
 **Chosen Concept:** Rank 1

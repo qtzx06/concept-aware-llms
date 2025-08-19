@@ -73,10 +73,10 @@ def run_benchmark(model, tokenizer, device, benchmark_config):
             print(f"Clearing old logs in {benchmark_log_dir}...")
             shutil.rmtree(benchmark_log_dir)
 
-    print("Loading benchmark dataset (euclaise/writingprompts)...")
+    print("Loading benchmark dataset (krisha05/story-generation-dataset)...")
     num_prompts = benchmark_config.get('num_prompts', 10)
-    # Use the 'test' split for a fair evaluation on unseen data.
-    dataset = load_dataset("euclaise/writingprompts", split="test").shuffle(seed=42).select(range(num_prompts))
+    # Use the 'train' split as this dataset doesn't have a 'test' split.
+    dataset = load_dataset("krisha05/story-generation-dataset", split="train").shuffle(seed=42).select(range(num_prompts))
     
     print("Loading semantic similarity model (all-MiniLM-L6-v2)...")
 
@@ -97,12 +97,12 @@ def run_benchmark(model, tokenizer, device, benchmark_config):
     concept_decoder = ConceptDecoder(model, tokenizer, concept_config)
 
     for i, item in enumerate(dataset):
-        prompt = item['prompt']
+        prompt = item['instruction']
+        reference_story = item['output']
         
         if benchmark_config.get('logging_enabled', False):
             concept_decoder.set_log_prompt_id(i + 1) # Tell decoder which prompt it's on
 
-        reference_story = item['story']
         print(f"\n--- Benchmarking Prompt {i+1}/{len(dataset)} ---")
         print(f"Prompt: {prompt[:100]}...")
 

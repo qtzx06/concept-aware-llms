@@ -1,78 +1,157 @@
 --- Step 95 Log ---
 
 == Filtered Candidates ==
-Token: ' like' (ID: 1075), Prob: 1.0000
-Token: ' else' (ID: 770), Prob: 0.0002
-Token: ' yes' (ID: 9834), Prob: 0.0000
-Token: ' Like' (ID: 8909), Prob: 0.0000
-Token: ' similar' (ID: 4428), Prob: 0.0000
-Token: ' elif' (ID: 4409), Prob: 0.0000
-Token: 'like' (ID: 4803), Prob: 0.0000
-Token: ' LIKE' (ID: 20529), Prob: 0.0000
-Token: ' list' (ID: 1140), Prob: 0.0000
-Token: '_like' (ID: 25535), Prob: 0.0000
-Token: '-like' (ID: 12681), Prob: 0.0000
-Token: ' maybe' (ID: 7196), Prob: 0.0000
-Token: ' include' (ID: 2924), Prob: 0.0000
-Token: '.like' (ID: 66318), Prob: 0.0000
-Token: ' etc' (ID: 4992), Prob: 0.0000
-Token: ' likes' (ID: 13151), Prob: 0.0000
-Token: ' around' (ID: 2163), Prob: 0.0000
-Token: 'Like' (ID: 12949), Prob: 0.0000
-Token: ' much' (ID: 1753), Prob: 0.0000
-Token: ' including' (ID: 2670), Prob: 0.0000
-Token: ' related' (ID: 5435), Prob: 0.0000
-Token: ' limited' (ID: 7199), Prob: 0.0000
-Token: ' otherwise' (ID: 5937), Prob: 0.0000
-Token: ' based' (ID: 3118), Prob: 0.0000
-Token: ' possible' (ID: 3204), Prob: 0.0000
-Token: ' say' (ID: 1977), Prob: 0.0000
-Token: ' since' (ID: 2474), Prob: 0.0000
-Token: ' yeah' (ID: 21639), Prob: 0.0000
-Token: ' missing' (ID: 7402), Prob: 0.0000
-Token: ' important' (ID: 2989), Prob: 0.0000
-Token: ' nice' (ID: 6419), Prob: 0.0000
-Token: ' seperti' (ID: 67720), Prob: 0.0000
-Token: ' little' (ID: 2632), Prob: 0.0000
-Token: ' last' (ID: 1537), Prob: 0.0000
-Token: ' usually' (ID: 5990), Prob: 0.0000
-Token: ' relevant' (ID: 9760), Prob: 0.0000
-Token: ' listed' (ID: 10007), Prob: 0.0000
-Token: ' might' (ID: 2578), Prob: 0.0000
-Token: ' kind' (ID: 3093), Prob: 0.0000
-Token: ' liked' (ID: 14915), Prob: 0.0000
-Token: ' less' (ID: 2686), Prob: 0.0000
+Token: ' challenges' (ID: 11513), Prob: 0.5039
+Token: ' issues' (ID: 4714), Prob: 0.1631
+Token: ' problems' (ID: 5322), Prob: 0.0874
+Token: ' obstacles' (ID: 31016), Prob: 0.0601
+Token: ' setbacks' (ID: 96637), Prob: 0.0364
+Token: ' difficulties' (ID: 26038), Prob: 0.0283
+Token: ' struggles' (ID: 27870), Prob: 0.0221
+Token: ' mish' (ID: 63396), Prob: 0.0151
+Token: ' mistakes' (ID: 20643), Prob: 0.0118
+Token: ' failures' (ID: 27850), Prob: 0.0118
+Token: ' problem' (ID: 3491), Prob: 0.0104
+Token: ' attempts' (ID: 13553), Prob: 0.0038
+Token: ' struggle' (ID: 14651), Prob: 0.0034
+Token: ' mis' (ID: 5786), Prob: 0.0030
+Token: ' mix' (ID: 6514), Prob: 0.0030
+Token: ' events' (ID: 4357), Prob: 0.0026
+Token: ' trials' (ID: 19080), Prob: 0.0023
+Token: ' hardships' (ID: 95222), Prob: 0.0023
+Token: ' issue' (ID: 4265), Prob: 0.0016
+Token: ' bad' (ID: 3873), Prob: 0.0014
+Token: ' complications' (ID: 35405), Prob: 0.0014
+Token: ' failed' (ID: 4641), Prob: 0.0012
+Token: ' lessons' (ID: 18366), Prob: 0.0012
+Token: ' troubles' (ID: 34565), Prob: 0.0012
+Token: ' failure' (ID: 7901), Prob: 0.0011
+Token: ' efforts' (ID: 8869), Prob: 0.0011
+Token: ' errors' (ID: 5975), Prob: 0.0009
+Token: ' conflict' (ID: 12055), Prob: 0.0009
+Token: ' challenge' (ID: 8645), Prob: 0.0008
+Token: ' confusion' (ID: 21340), Prob: 0.0008
+Token: ' incidents' (ID: 23546), Prob: 0.0007
+Token: ' hurdles' (ID: 72535), Prob: 0.0007
+Token: ' frustrations' (ID: 88934), Prob: 0.0007
+Token: ' effort' (ID: 5041), Prob: 0.0007
+Token: ' conflicts' (ID: 25800), Prob: 0.0006
+Token: ' experiences' (ID: 11449), Prob: 0.0005
+Token: ' wrong' (ID: 4969), Prob: 0.0005
+Token: ' negative' (ID: 8225), Prob: 0.0005
+Token: ' mistake' (ID: 16523), Prob: 0.0005
+Token: ' trouble' (ID: 12264), Prob: 0.0004
+Token: ' things' (ID: 2513), Prob: 0.0004
+Token: ' mess' (ID: 9435), Prob: 0.0004
+Token: ' road' (ID: 5636), Prob: 0.0004
+Token: ' disappoint' (ID: 14097), Prob: 0.0004
+Token: ' setback' (ID: 78813), Prob: 0.0004
+Token: ' shortcomings' (ID: 71921), Prob: 0.0003
+Token: ' misunderstand' (ID: 89600), Prob: 0.0003
+Token: ' situation' (ID: 6534), Prob: 0.0003
+Token: ' incident' (ID: 10455), Prob: 0.0002
+Token: ' difficulty' (ID: 16829), Prob: 0.0002
+Token: ' outcomes' (ID: 19554), Prob: 0.0002
+Token: ' experience' (ID: 3139), Prob: 0.0002
+Token: ' accidents' (ID: 32688), Prob: 0.0002
+Token: ' negatives' (ID: 74085), Prob: 0.0002
+Token: ' journey' (ID: 11618), Prob: 0.0002
+Token: ' circumstances' (ID: 13161), Prob: 0.0002
+Token: ' compromises' (ID: 91446), Prob: 0.0002
+Token: ' fail' (ID: 3690), Prob: 0.0002
+Token: ' chaos' (ID: 26915), Prob: 0.0002
+Token: ' ups' (ID: 32734), Prob: 0.0002
+Token: ' flaws' (ID: 40759), Prob: 0.0002
+Token: ' troubleshooting' (ID: 68671), Prob: 0.0002
+Token: ' successes' (ID: 47088), Prob: 0.0001
+Token: ' parts' (ID: 5479), Prob: 0.0001
+Token: ' mixed' (ID: 9519), Prob: 0.0001
+Token: ' unsuccessful' (ID: 44925), Prob: 0.0001
+Token: ' set' (ID: 738), Prob: 0.0001
+Token: ' frustration' (ID: 31986), Prob: 0.0001
+Token: ' adjustments' (ID: 32974), Prob: 0.0001
+Token: ' attempt' (ID: 4774), Prob: 0.0001
+Token: ' trial' (ID: 9091), Prob: 0.0001
+Token: ' tough' (ID: 11045), Prob: 0.0001
+Token: ' pitfalls' (ID: 80975), Prob: 0.0001
+Token: ' good' (ID: 1661), Prob: 0.0001
+Token: ' unexpected' (ID: 16500), Prob: 0.0001
+Token: ' lesson' (ID: 17755), Prob: 0.0001
+Token: ' obstacle' (ID: 32187), Prob: 0.0001
+Token: ' misunderstanding' (ID: 69747), Prob: 0.0001
+Token: ' temporary' (ID: 13340), Prob: 0.0001
+Token: ' twists' (ID: 61890), Prob: 0.0001
+Token: ' initial' (ID: 2856), Prob: 0.0001
+Token: ' elements' (ID: 5424), Prob: 0.0001
+Token: ' setup' (ID: 6505), Prob: 0.0001
+Token: ' steps' (ID: 7354), Prob: 0.0001
+Token: ' missed' (ID: 13628), Prob: 0.0001
+Token: ' hardship' (ID: 66550), Prob: 0.0001
+Token: ' difficult' (ID: 5000), Prob: 0.0001
+Token: ' poor' (ID: 7852), Prob: 0.0001
+Token: ' problematic' (ID: 34933), Prob: 0.0001
+Token: ' progress' (ID: 5098), Prob: 0.0000
+Token: ' moments' (ID: 13943), Prob: 0.0000
+Token: ' situations' (ID: 14740), Prob: 0.0000
+Token: ' traffic' (ID: 9442), Prob: 0.0000
+Token: ' hard' (ID: 2588), Prob: 0.0000
+Token: ' happen' (ID: 3537), Prob: 0.0000
+Token: ' changes' (ID: 4344), Prob: 0.0000
+Token: ' main' (ID: 1887), Prob: 0.0000
+Token: ' results' (ID: 3059), Prob: 0.0000
 
 == Ranked Concepts (Clusters) ==
-Rank 1 | Centroid: ' Like' | Score: 1.0000
-  Tokens: [' like', ' Like', 'like', ' LIKE', '_like', '-like', '.like', 'Like', ' seperti']
-Rank 2 | Centroid: ' else' | Score: 0.0002
-  Tokens: [' else', ' elif', ' otherwise']
-Rank 3 | Centroid: ' yes' | Score: 0.0000
-  Tokens: [' yes', ' yeah']
-Rank 4 | Centroid: ' related' | Score: 0.0000
-  Tokens: [' similar', ' related', ' relevant']
-Rank 5 | Centroid: ' list' | Score: 0.0000
-  Tokens: [' list', ' listed']
-Rank 6 | Centroid: ' maybe' | Score: 0.0000
-  Tokens: [' maybe', ' possible', ' might']
-Rank 7 | Centroid: ' include' | Score: 0.0000
-  Tokens: [' include', ' including']
-Rank 8 | Centroid: ' less' | Score: 0.0000
-  Tokens: [' much', ' limited', ' little', ' less']
-Rank 9 | Centroid: ' etc' | Score: 0.0000
-  Tokens: [' etc', ' say']
-Rank 10 | Centroid: ' likes' | Score: 0.0000
-  Tokens: [' likes', ' liked']
-Rank 11 | Centroid: ' around' | Score: 0.0000
-  Tokens: [' around']
-Rank 12 | Centroid: ' important' | Score: 0.0000
-  Tokens: [' missing', ' important', ' nice']
-Rank 13 | Centroid: ' based' | Score: 0.0000
-  Tokens: [' based', ' since']
-Rank 14 | Centroid: ' last' | Score: 0.0000
-  Tokens: [' last', ' kind']
-Rank 15 | Centroid: ' usually' | Score: 0.0000
-  Tokens: [' usually']
+Rank 1 | Centroid: ' challenges' | Score: 0.5039
+  Tokens: [' challenges', ' challenge']
+Rank 2 | Centroid: ' issues' | Score: 0.2637
+  Tokens: [' issues', ' problems', ' problem', ' issue', ' conflict', ' conflicts']
+Rank 3 | Centroid: ' obstacles' | Score: 0.0977
+  Tokens: [' obstacles', ' setbacks', ' hurdles', ' setback', ' obstacle']
+Rank 4 | Centroid: ' troubles' | Score: 0.0300
+  Tokens: [' difficulties', ' troubles', ' trouble', ' problematic']
+Rank 5 | Centroid: ' struggles' | Score: 0.0255
+  Tokens: [' struggles', ' struggle']
+Rank 6 | Centroid: ' misunderstanding' | Score: 0.0203
+  Tokens: [' mish', ' mis', ' confusion', ' wrong', ' mistake', ' misunderstand', ' misunderstanding', ' missed']
+Rank 7 | Centroid: ' failures' | Score: 0.0145
+  Tokens: [' failures', ' failed', ' failure', ' fail', ' successes', ' unsuccessful']
+Rank 8 | Centroid: ' mistakes' | Score: 0.0132
+  Tokens: [' mistakes', ' errors', ' shortcomings', ' flaws', ' pitfalls']
+Rank 9 | Centroid: ' efforts' | Score: 0.0057
+  Tokens: [' attempts', ' efforts', ' effort', ' attempt', ' progress']
+Rank 10 | Centroid: ' trials' | Score: 0.0037
+  Tokens: [' trials', ' lessons', ' trial', ' lesson']
+Rank 11 | Centroid: ' mixed' | Score: 0.0037
+  Tokens: [' mix', ' mess', ' chaos', ' mixed']
+Rank 12 | Centroid: ' outcomes' | Score: 0.0037
+  Tokens: [' events', ' things', ' outcomes', ' parts', ' elements', ' steps', ' moments', ' changes', ' results']
+Rank 13 | Centroid: ' hardships' | Score: 0.0024
+  Tokens: [' hardships', ' hardship']
+Rank 14 | Centroid: ' bad' | Score: 0.0015
+  Tokens: [' bad', ' good', ' poor']
+Rank 15 | Centroid: ' frustrations' | Score: 0.0015
+  Tokens: [' frustrations', ' disappoint', ' compromises', ' troubleshooting', ' frustration']
+Rank 16 | Centroid: ' complications' | Score: 0.0014
+  Tokens: [' complications']
+Rank 17 | Centroid: ' incidents' | Score: 0.0012
+  Tokens: [' incidents', ' incident', ' accidents']
+Rank 18 | Centroid: ' experiences' | Score: 0.0007
+  Tokens: [' experiences', ' experience']
+Rank 19 | Centroid: ' setup' | Score: 0.0007
+  Tokens: [' road', ' set', ' initial', ' setup', ' traffic', ' main']
+Rank 20 | Centroid: ' negative' | Score: 0.0007
+  Tokens: [' negative', ' negatives']
+Rank 21 | Centroid: ' situations' | Score: 0.0006
+  Tokens: [' situation', ' circumstances', ' situations', ' happen']
+Rank 22 | Centroid: ' difficult' | Score: 0.0004
+  Tokens: [' difficulty', ' tough', ' difficult', ' hard']
+Rank 23 | Centroid: ' twists' | Score: 0.0003
+  Tokens: [' ups', ' adjustments', ' twists']
+Rank 24 | Centroid: ' journey' | Score: 0.0002
+  Tokens: [' journey']
+Rank 25 | Centroid: ' unexpected' | Score: 0.0001
+  Tokens: [' unexpected']
+Rank 26 | Centroid: ' temporary' | Score: 0.0001
+  Tokens: [' temporary']
 
 **Chosen Concept:** Rank 1

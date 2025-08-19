@@ -1,82 +1,119 @@
 --- Step 74 Log ---
 
 == Filtered Candidates ==
-Token: ' something' (ID: 2494), Prob: 0.9727
-Token: ' etc' (ID: 4992), Prob: 0.0108
-Token: ' yes' (ID: 9834), Prob: 0.0017
-Token: ' anything' (ID: 4113), Prob: 0.0003
-Token: ' maybe' (ID: 7196), Prob: 0.0001
-Token: ' even' (ID: 1496), Prob: 0.0001
-Token: ' sometimes' (ID: 7025), Prob: 0.0001
-Token: ' someone' (ID: 4325), Prob: 0.0000
-Token: ' somewhere' (ID: 14696), Prob: 0.0000
-Token: ' nothing' (ID: 4302), Prob: 0.0000
-Token: ' whatever' (ID: 8820), Prob: 0.0000
-Token: ' Something' (ID: 24656), Prob: 0.0000
-Token: ' option' (ID: 2999), Prob: 0.0000
-Token: ' except' (ID: 3650), Prob: 0.0000
-Token: ' everything' (ID: 4297), Prob: 0.0000
-Token: ' also' (ID: 1083), Prob: 0.0000
-Token: ' depending' (ID: 11649), Prob: 0.0000
-Token: ' thing' (ID: 3166), Prob: 0.0000
-Token: ' similar' (ID: 4428), Prob: 0.0000
-Token: ' another' (ID: 2441), Prob: 0.0000
-Token: ' possibly' (ID: 10767), Prob: 0.0000
-Token: ' plus' (ID: 5519), Prob: 0.0000
-Token: ' certain' (ID: 3654), Prob: 0.0000
-Token: 'something' (ID: 33331), Prob: 0.0000
-Token: ' things' (ID: 2513), Prob: 0.0000
-Token: ' one' (ID: 825), Prob: 0.0000
-Token: ' som' (ID: 1757), Prob: 0.0000
-Token: ' YES' (ID: 14080), Prob: 0.0000
-Token: ' since' (ID: 2474), Prob: 0.0000
-Token: ' answer' (ID: 4226), Prob: 0.0000
-Token: ' based' (ID: 3118), Prob: 0.0000
+Token: ' let' (ID: 1077), Prob: 0.1157
+Token: ' draft' (ID: 9960), Prob: 0.0481
+Token: ' time' (ID: 882), Prob: 0.0258
+Token: ' ready' (ID: 5527), Prob: 0.0095
+Token: ' putting' (ID: 10687), Prob: 0.0058
+Token: ' got' (ID: 2684), Prob: 0.0051
+Token: ' put' (ID: 2182), Prob: 0.0045
+Token: ' something' (ID: 2494), Prob: 0.0035
+Token: ' maybe' (ID: 7196), Prob: 0.0021
+Token: ' think' (ID: 1744), Prob: 0.0015
+Token: ' structure' (ID: 5944), Prob: 0.0013
+Token: ' start' (ID: 1191), Prob: 0.0011
+Token: ' probably' (ID: 4658), Prob: 0.0010
+Token: ' done' (ID: 2814), Prob: 0.0009
+Token: ' compose' (ID: 30335), Prob: 0.0008
+Token: ' try' (ID: 1430), Prob: 0.0006
+Token: ' drafting' (ID: 57900), Prob: 0.0003
+Token: ' seems' (ID: 4977), Prob: 0.0002
+Token: ' perhaps' (ID: 8365), Prob: 0.0001
+Token: ' get' (ID: 633), Prob: 0.0001
+Token: ' shaping' (ID: 45520), Prob: 0.0001
+Token: ' struct' (ID: 2036), Prob: 0.0001
+Token: ' need' (ID: 1184), Prob: 0.0001
+Token: ' looks' (ID: 5868), Prob: 0.0001
+Token: ' write' (ID: 3270), Prob: 0.0001
+Token: ' format' (ID: 3561), Prob: 0.0000
+Token: ' composed' (ID: 23415), Prob: 0.0000
+Token: ' composition' (ID: 18037), Prob: 0.0000
+Token: ' thought' (ID: 3381), Prob: 0.0000
+Token: ' structured' (ID: 32930), Prob: 0.0000
+Token: ' trying' (ID: 4460), Prob: 0.0000
+Token: ' starting' (ID: 5916), Prob: 0.0000
+Token: ' starts' (ID: 8471), Prob: 0.0000
+Token: ' drafted' (ID: 37956), Prob: 0.0000
+Token: ' sample' (ID: 6077), Prob: 0.0000
+Token: ' form' (ID: 1352), Prob: 0.0000
+Token: ' combine' (ID: 15963), Prob: 0.0000
+Token: ' feel' (ID: 2666), Prob: 0.0000
+Token: ' construct' (ID: 9245), Prob: 0.0000
+Token: ' writing' (ID: 4378), Prob: 0.0000
+Token: ' good' (ID: 1661), Prob: 0.0000
+Token: ' build' (ID: 1936), Prob: 0.0000
+Token: ' thoughts' (ID: 11303), Prob: 0.0000
+Token: ' formatted' (ID: 23126), Prob: 0.0000
+Token: ' compiling' (ID: 54220), Prob: 0.0000
+Token: ' composing' (ID: 75878), Prob: 0.0000
 Token: ' possible' (ID: 3204), Prob: 0.0000
-Token: ' okay' (ID: 16910), Prob: 0.0000
-Token: ' two' (ID: 1378), Prob: 0.0000
-Token: ' options' (ID: 2606), Prob: 0.0000
-Token: ' specific' (ID: 3151), Prob: 0.0000
-Token: ' three' (ID: 2326), Prob: 0.0000
+Token: ' final' (ID: 1590), Prob: 0.0000
 Token: ' example' (ID: 3110), Prob: 0.0000
-Token: ' sure' (ID: 2704), Prob: 0.0000
-Token: ' enough' (ID: 3322), Prob: 0.0000
-Token: ' however' (ID: 4764), Prob: 0.0000
-Token: ' otherwise' (ID: 5937), Prob: 0.0000
-Token: ' unless' (ID: 7241), Prob: 0.0000
-Token: ' perhaps' (ID: 8365), Prob: 0.0000
-Token: ' sorry' (ID: 14589), Prob: 0.0000
+Token: ' built' (ID: 5798), Prob: 0.0000
+Token: ' assembled' (ID: 34005), Prob: 0.0000
+Token: ' crafting' (ID: 44067), Prob: 0.0000
+Token: ' words' (ID: 4244), Prob: 0.0000
+Token: ' completed' (ID: 8145), Prob: 0.0000
+Token: ' thing' (ID: 3166), Prob: 0.0000
+Token: ' getting' (ID: 3709), Prob: 0.0000
+Token: ' going' (ID: 2087), Prob: 0.0000
+Token: ' Draft' (ID: 28564), Prob: 0.0000
+Token: ' complete' (ID: 4583), Prob: 0.0000
+Token: ' feeling' (ID: 8266), Prob: 0.0000
+Token: ' want' (ID: 1366), Prob: 0.0000
+Token: ' check' (ID: 1779), Prob: 0.0000
+Token: ' sounds' (ID: 10362), Prob: 0.0000
+Token: ' create' (ID: 1855), Prob: 0.0000
+Token: ' things' (ID: 2513), Prob: 0.0000
+Token: ' finish' (ID: 6248), Prob: 0.0000
+Token: ' tried' (ID: 6679), Prob: 0.0000
+Token: ' make' (ID: 1281), Prob: 0.0000
+Token: ' word' (ID: 3409), Prob: 0.0000
+Token: ' prepare' (ID: 10549), Prob: 0.0000
+Token: ' forming' (ID: 29064), Prob: 0.0000
+Token: ' read' (ID: 1349), Prob: 0.0000
 
 == Ranked Concepts (Clusters) ==
-Rank 1 | Centroid: ' something' | Score: 0.9727
-  Tokens: [' something', ' someone', ' somewhere', ' Something', 'something']
-Rank 2 | Centroid: ' certain' | Score: 0.0108
-  Tokens: [' etc', ' similar', ' certain', ' specific']
-Rank 3 | Centroid: ' yes' | Score: 0.0017
-  Tokens: [' yes', ' YES', ' sure']
-Rank 4 | Centroid: ' things' | Score: 0.0004
-  Tokens: [' anything', ' nothing', ' whatever', ' everything', ' thing', ' things']
-Rank 5 | Centroid: ' perhaps' | Score: 0.0002
-  Tokens: [' maybe', ' sometimes', ' possibly', ' possible', ' perhaps']
-Rank 6 | Centroid: ' even' | Score: 0.0001
-  Tokens: [' even']
-Rank 7 | Centroid: ' unless' | Score: 0.0000
-  Tokens: [' except', ' depending', ' plus', ' since', ' based', ' unless']
-Rank 8 | Centroid: ' option' | Score: 0.0000
-  Tokens: [' option', ' answer', ' options']
-Rank 9 | Centroid: ' two' | Score: 0.0000
-  Tokens: [' one', ' two', ' three']
-Rank 10 | Centroid: ' also' | Score: 0.0000
-  Tokens: [' also', ' example']
-Rank 11 | Centroid: ' okay' | Score: 0.0000
-  Tokens: [' okay', ' sorry']
-Rank 12 | Centroid: ' another' | Score: 0.0000
-  Tokens: [' another']
-Rank 13 | Centroid: ' however' | Score: 0.0000
-  Tokens: [' however', ' otherwise']
-Rank 14 | Centroid: ' som' | Score: 0.0000
-  Tokens: [' som']
-Rank 15 | Centroid: ' enough' | Score: 0.0000
-  Tokens: [' enough']
+Rank 1 | Centroid: ' create' | Score: 0.1201
+  Tokens: [' let', ' put', ' build', ' check', ' create', ' make', ' read']
+Rank 2 | Centroid: ' draft' | Score: 0.0483
+  Tokens: [' draft', ' drafting', ' drafted', ' Draft']
+Rank 3 | Centroid: ' words' | Score: 0.0258
+  Tokens: [' time', ' good', ' words', ' word']
+Rank 4 | Centroid: ' getting' | Score: 0.0110
+  Tokens: [' putting', ' got', ' get', ' getting', ' going']
+Rank 5 | Centroid: ' completed' | Score: 0.0104
+  Tokens: [' ready', ' done', ' final', ' completed', ' complete', ' finish']
+Rank 6 | Centroid: ' things' | Score: 0.0035
+  Tokens: [' something', ' thing', ' things']
+Rank 7 | Centroid: ' perhaps' | Score: 0.0033
+  Tokens: [' maybe', ' probably', ' perhaps', ' possible']
+Rank 8 | Centroid: ' thought' | Score: 0.0015
+  Tokens: [' think', ' thought', ' thoughts']
+Rank 9 | Centroid: ' structure' | Score: 0.0014
+  Tokens: [' structure', ' struct', ' structured']
+Rank 10 | Centroid: ' starts' | Score: 0.0012
+  Tokens: [' start', ' starting', ' starts']
+Rank 11 | Centroid: ' composed' | Score: 0.0009
+  Tokens: [' compose', ' composed', ' composition', ' compiling', ' composing', ' assembled']
+Rank 12 | Centroid: ' trying' | Score: 0.0006
+  Tokens: [' try', ' trying', ' tried']
+Rank 13 | Centroid: ' feel' | Score: 0.0003
+  Tokens: [' seems', ' looks', ' feel', ' feeling', ' sounds']
+Rank 14 | Centroid: ' shaping' | Score: 0.0001
+  Tokens: [' shaping', ' crafting']
+Rank 15 | Centroid: ' need' | Score: 0.0001
+  Tokens: [' need', ' want']
+Rank 16 | Centroid: ' format' | Score: 0.0001
+  Tokens: [' format', ' form', ' formatted', ' forming']
+Rank 17 | Centroid: ' write' | Score: 0.0001
+  Tokens: [' write', ' writing']
+Rank 18 | Centroid: ' construct' | Score: 0.0000
+  Tokens: [' construct', ' built', ' prepare']
+Rank 19 | Centroid: ' sample' | Score: 0.0000
+  Tokens: [' sample', ' example']
+Rank 20 | Centroid: ' combine' | Score: 0.0000
+  Tokens: [' combine']
 
 **Chosen Concept:** Rank 1

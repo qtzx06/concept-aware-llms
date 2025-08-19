@@ -1,112 +1,119 @@
 --- Step 12 Log ---
 
 == Filtered Candidates ==
-Token: ' child' (ID: 1682), Prob: 0.4629
-Token: ' children' (ID: 2841), Prob: 0.0062
-Token: ' family' (ID: 2997), Prob: 0.0055
-Token: ' parents' (ID: 6562), Prob: 0.0038
-Token: ' parent' (ID: 2681), Prob: 0.0035
-Token: ' baby' (ID: 8770), Prob: 0.0027
-Token: ' kid' (ID: 10369), Prob: 0.0027
-Token: ' young' (ID: 3908), Prob: 0.0019
-Token: ' youth' (ID: 12537), Prob: 0.0019
-Token: ' one' (ID: 825), Prob: 0.0018
-Token: ' kids' (ID: 6837), Prob: 0.0018
-Token: ' mother' (ID: 6554), Prob: 0.0016
-Token: ' future' (ID: 3853), Prob: 0.0009
-Token: ' adult' (ID: 6683), Prob: 0.0009
-Token: ' another' (ID: 2441), Prob: 0.0009
-Token: ' girl' (ID: 3743), Prob: 0.0009
-Token: ' father' (ID: 6981), Prob: 0.0007
-Token: ' care' (ID: 2453), Prob: 0.0007
-Token: ' someone' (ID: 4325), Prob: 0.0006
-Token: ' boy' (ID: 8171), Prob: 0.0006
-Token: ' daughter' (ID: 9803), Prob: 0.0006
-Token: ' infant' (ID: 30283), Prob: 0.0005
-Token: ' Child' (ID: 9391), Prob: 0.0005
-Token: ' little' (ID: 2632), Prob: 0.0004
-Token: ' son' (ID: 4438), Prob: 0.0004
-Token: ' others' (ID: 3800), Prob: 0.0004
-Token: ' teen' (ID: 9378), Prob: 0.0003
-Token: ' dad' (ID: 17760), Prob: 0.0003
-Token: ' sibling' (ID: 44223), Prob: 0.0003
-Token: ' toddler' (ID: 51235), Prob: 0.0003
-Token: ' home' (ID: 2114), Prob: 0.0003
-Token: ' old' (ID: 2310), Prob: 0.0003
-Token: ' small' (ID: 2613), Prob: 0.0003
-Token: ' older' (ID: 9014), Prob: 0.0003
-Token: ' teenager' (ID: 31539), Prob: 0.0003
-Token: ' money' (ID: 3220), Prob: 0.0003
-Token: ' childhood' (ID: 19990), Prob: 0.0003
-Token: ' way' (ID: 1616), Prob: 0.0003
-Token: ' person' (ID: 1697), Prob: 0.0003
-Token: ' education' (ID: 6731), Prob: 0.0003
-Token: ' younger' (ID: 14650), Prob: 0.0003
-Token: ' good' (ID: 1661), Prob: 0.0002
-Token: ' life' (ID: 2272), Prob: 0.0002
-Token: ' school' (ID: 2906), Prob: 0.0002
-Token: ' grandparents' (ID: 55335), Prob: 0.0002
-Token: ' grow' (ID: 3063), Prob: 0.0002
-Token: ' something' (ID: 2494), Prob: 0.0002
-Token: ' mom' (ID: 3368), Prob: 0.0002
-Token: ' friend' (ID: 4238), Prob: 0.0002
-Token: ' student' (ID: 5458), Prob: 0.0002
-Token: ' hand' (ID: 1424), Prob: 0.0002
-Token: ' brother' (ID: 10641), Prob: 0.0002
-Token: ' siblings' (ID: 36683), Prob: 0.0002
-Token: ' house' (ID: 3753), Prob: 0.0002
-Token: ' spouse' (ID: 30980), Prob: 0.0002
-Token: ' new' (ID: 501), Prob: 0.0001
-Token: ' two' (ID: 1378), Prob: 0.0001
-Token: ' nature' (ID: 6993), Prob: 0.0001
-Token: ' wife' (ID: 7403), Prob: 0.0001
-Token: ' orphan' (ID: 12746), Prob: 0.0001
-Token: ' free' (ID: 1910), Prob: 0.0001
-Token: ' grand' (ID: 6662), Prob: 0.0001
-Token: ' sister' (ID: 12923), Prob: 0.0001
-Token: ' grandchildren' (ID: 49751), Prob: 0.0001
-Token: ' love' (ID: 2948), Prob: 0.0001
-Token: ' elder' (ID: 22130), Prob: 0.0001
-Token: ' time' (ID: 882), Prob: 0.0001
+Token: ' involving' (ID: 15860), Prob: 0.7031
+Token: ' based' (ID: 3118), Prob: 0.0114
+Token: ' incorporating' (ID: 51813), Prob: 0.0007
+Token: ' built' (ID: 5798), Prob: 0.0006
+Token: ' related' (ID: 5435), Prob: 0.0004
+Token: ' using' (ID: 1667), Prob: 0.0002
+Token: ' including' (ID: 2670), Prob: 0.0001
+Token: ' building' (ID: 4752), Prob: 0.0001
+Token: ' featuring' (ID: 16445), Prob: 0.0001
+Token: ' starting' (ID: 5916), Prob: 0.0000
+Token: ' inspired' (ID: 14606), Prob: 0.0000
+Token: ' mentioning' (ID: 44291), Prob: 0.0000
+Token: ' involved' (ID: 6398), Prob: 0.0000
+Token: ' centered' (ID: 30188), Prob: 0.0000
+Token: ' story' (ID: 3364), Prob: 0.0000
+Token: ' containing' (ID: 8482), Prob: 0.0000
+Token: ' involves' (ID: 17601), Prob: 0.0000
+Token: ' combining' (ID: 34171), Prob: 0.0000
+Token: ' around' (ID: 2163), Prob: 0.0000
+Token: ' following' (ID: 2701), Prob: 0.0000
+Token: ' build' (ID: 1936), Prob: 0.0000
+Token: ' scene' (ID: 6109), Prob: 0.0000
+Token: ' integrating' (ID: 53852), Prob: 0.0000
+Token: ' tied' (ID: 17339), Prob: 0.0000
+Token: ' influenced' (ID: 27061), Prob: 0.0000
+Token: ' involve' (ID: 21058), Prob: 0.0000
+Token: ' set' (ID: 738), Prob: 0.0000
+Token: ' connected' (ID: 8433), Prob: 0.0000
+Token: ' setup' (ID: 6505), Prob: 0.0000
+Token: ' linked' (ID: 10592), Prob: 0.0000
+Token: ' ending' (ID: 13391), Prob: 0.0000
+Token: ' scenario' (ID: 15048), Prob: 0.0000
+Token: ' connecting' (ID: 20913), Prob: 0.0000
+Token: ' told' (ID: 3229), Prob: 0.0000
+Token: ' beginning' (ID: 7167), Prob: 0.0000
+Token: ' made' (ID: 1865), Prob: 0.0000
+Token: ' filled' (ID: 10199), Prob: 0.0000
+Token: ' considering' (ID: 12831), Prob: 0.0000
+Token: ' relating' (ID: 22527), Prob: 0.0000
+Token: ' linking' (ID: 30699), Prob: 0.0000
+Token: ' sentence' (ID: 11652), Prob: 0.0000
+Token: ' idea' (ID: 4522), Prob: 0.0000
+Token: ' regarding' (ID: 8826), Prob: 0.0000
+Token: ' relevant' (ID: 9760), Prob: 0.0000
+Token: ' depending' (ID: 11649), Prob: 0.0000
+Token: ' introducing' (ID: 31918), Prob: 0.0000
+Token: ' snippet' (ID: 43065), Prob: 0.0000
+Token: ' part' (ID: 949), Prob: 0.0000
+Token: ' given' (ID: 2661), Prob: 0.0000
+Token: ' describing' (ID: 22692), Prob: 0.0000
+Token: ' focusing' (ID: 21080), Prob: 0.0000
+Token: ' version' (ID: 2319), Prob: 0.0000
+Token: ' somehow' (ID: 16925), Prob: 0.0000
+Token: ' whose' (ID: 6693), Prob: 0.0000
+Token: ' thing' (ID: 3166), Prob: 0.0000
+Token: ' written' (ID: 5326), Prob: 0.0000
+Token: ' blending' (ID: 55841), Prob: 0.0000
+Token: ' similar' (ID: 4428), Prob: 0.0000
+Token: ' piece' (ID: 6573), Prob: 0.0000
+Token: ' something' (ID: 2494), Prob: 0.0000
+Token: ' born' (ID: 9223), Prob: 0.0000
+Token: ' incident' (ID: 10455), Prob: 0.0000
+Token: ' include' (ID: 2924), Prob: 0.0000
+Token: ' created' (ID: 3465), Prob: 0.0000
+Token: ' short' (ID: 2805), Prob: 0.0000
+Token: ' adding' (ID: 7842), Prob: 0.0000
+Token: ' generated' (ID: 7907), Prob: 0.0000
+Token: ' telling' (ID: 11629), Prob: 0.0000
+Token: ' informed' (ID: 15987), Prob: 0.0000
+Token: ' summary' (ID: 12126), Prob: 0.0000
+Token: ' rooted' (ID: 40876), Prob: 0.0000
+Token: ' problem' (ID: 3491), Prob: 0.0000
+Token: ' description' (ID: 4008), Prob: 0.0000
+Token: ' intertwined' (ID: 98792), Prob: 0.0000
+Token: ' event' (ID: 1538), Prob: 0.0000
+Token: ' link' (ID: 2656), Prob: 0.0000
 
 == Ranked Concepts (Clusters) ==
-Rank 1 | Centroid: ' child' | Score: 0.4785
-  Tokens: [' child', ' children', ' baby', ' kid', ' kids', ' infant', ' Child', ' toddler', ' childhood']
-Rank 2 | Centroid: ' father' | Score: 0.0101
-  Tokens: [' parents', ' parent', ' mother', ' father', ' dad', ' mom']
-Rank 3 | Centroid: ' family' | Score: 0.0055
-  Tokens: [' family']
-Rank 4 | Centroid: ' teenager' | Score: 0.0054
-  Tokens: [' young', ' youth', ' adult', ' teen', ' teenager']
-Rank 5 | Centroid: ' two' | Score: 0.0032
-  Tokens: [' one', ' little', ' small', ' good', ' new', ' two', ' free']
-Rank 6 | Centroid: ' someone' | Score: 0.0021
-  Tokens: [' another', ' someone', ' others', ' something']
-Rank 7 | Centroid: ' girl' | Score: 0.0015
-  Tokens: [' girl', ' boy']
-Rank 8 | Centroid: ' money' | Score: 0.0012
-  Tokens: [' money', ' way', ' life', ' nature', ' love', ' time']
-Rank 9 | Centroid: ' older' | Score: 0.0011
-  Tokens: [' old', ' older', ' younger', ' elder']
-Rank 10 | Centroid: ' daughter' | Score: 0.0010
-  Tokens: [' daughter', ' son']
-Rank 11 | Centroid: ' sibling' | Score: 0.0010
-  Tokens: [' sibling', ' friend', ' brother', ' siblings', ' sister']
-Rank 12 | Centroid: ' future' | Score: 0.0009
-  Tokens: [' future']
-Rank 13 | Centroid: ' care' | Score: 0.0009
-  Tokens: [' care', ' grow']
-Rank 14 | Centroid: ' school' | Score: 0.0007
-  Tokens: [' education', ' school', ' student']
-Rank 15 | Centroid: ' house' | Score: 0.0007
-  Tokens: [' home', ' hand', ' house']
-Rank 16 | Centroid: ' grandchildren' | Score: 0.0005
-  Tokens: [' grandparents', ' grand', ' grandchildren']
-Rank 17 | Centroid: ' spouse' | Score: 0.0003
-  Tokens: [' spouse', ' wife']
-Rank 18 | Centroid: ' person' | Score: 0.0003
-  Tokens: [' person']
-Rank 19 | Centroid: ' orphan' | Score: 0.0001
-  Tokens: [' orphan']
+Rank 1 | Centroid: ' involves' | Score: 0.7031
+  Tokens: [' involving', ' involved', ' involves', ' involve']
+Rank 2 | Centroid: ' depending' | Score: 0.0114
+  Tokens: [' based', ' following', ' depending']
+Rank 3 | Centroid: ' incorporating' | Score: 0.0012
+  Tokens: [' incorporating', ' using', ' including', ' featuring', ' containing', ' considering', ' focusing']
+Rank 4 | Centroid: ' build' | Score: 0.0007
+  Tokens: [' built', ' building', ' build']
+Rank 5 | Centroid: ' related' | Score: 0.0004
+  Tokens: [' related', ' around', ' relating', ' regarding', ' relevant', ' similar']
+Rank 6 | Centroid: ' influenced' | Score: 0.0001
+  Tokens: [' inspired', ' centered', ' influenced', ' made', ' filled', ' born', ' created', ' generated', ' informed', ' rooted']
+Rank 7 | Centroid: ' starting' | Score: 0.0000
+  Tokens: [' starting', ' ending', ' beginning']
+Rank 8 | Centroid: ' mentioning' | Score: 0.0000
+  Tokens: [' mentioning', ' describing']
+Rank 9 | Centroid: ' summary' | Score: 0.0000
+  Tokens: [' story', ' sentence', ' summary', ' description']
+Rank 10 | Centroid: ' combining' | Score: 0.0000
+  Tokens: [' combining', ' integrating', ' introducing', ' blending', ' adding']
+Rank 11 | Centroid: ' linked' | Score: 0.0000
+  Tokens: [' tied', ' connected', ' linked', ' connecting', ' linking', ' intertwined', ' link']
+Rank 12 | Centroid: ' scenario' | Score: 0.0000
+  Tokens: [' scene', ' setup', ' scenario', ' idea', ' snippet', ' incident', ' problem', ' event']
+Rank 13 | Centroid: ' version' | Score: 0.0000
+  Tokens: [' set', ' part', ' version', ' short']
+Rank 14 | Centroid: ' something' | Score: 0.0000
+  Tokens: [' somehow', ' thing', ' piece', ' something']
+Rank 15 | Centroid: ' told' | Score: 0.0000
+  Tokens: [' told', ' telling']
+Rank 16 | Centroid: ' given' | Score: 0.0000
+  Tokens: [' given', ' written']
+Rank 17 | Centroid: ' whose' | Score: 0.0000
+  Tokens: [' whose']
+Rank 18 | Centroid: ' include' | Score: 0.0000
+  Tokens: [' include']
 
 **Chosen Concept:** Rank 1

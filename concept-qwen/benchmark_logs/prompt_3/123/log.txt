@@ -1,0 +1,107 @@
+--- Step 123 Log ---
+
+== Filtered Candidates ==
+Token: 'ics' (ID: 1211), Prob: 0.0000
+Token: 'ologies' (ID: 9090), Prob: 0.0000
+Token: 'isms' (ID: 13664), Prob: 0.0000
+Token: 'ues' (ID: 1137), Prob: 0.0000
+Token: 'ological' (ID: 5729), Prob: 0.0000
+Token: 'iques' (ID: 8303), Prob: 0.0000
+Token: 'ing' (ID: 287), Prob: 0.0000
+Token: 'ies' (ID: 550), Prob: 0.0000
+Token: 'ology' (ID: 2449), Prob: 0.0000
+Token: 'ers' (ID: 388), Prob: 0.0000
+Token: 'oes' (ID: 7072), Prob: 0.0000
+Token: 'ework' (ID: 2445), Prob: 0.0000
+Token: 'ism' (ID: 2142), Prob: 0.0000
+Token: 'ica' (ID: 3001), Prob: 0.0000
+Token: 'eses' (ID: 83736), Prob: 0.0000
+Token: 'osc' (ID: 23469), Prob: 0.0000
+Token: 'esc' (ID: 3300), Prob: 0.0000
+Token: 'ese' (ID: 2367), Prob: 0.0000
+Token: 'ings' (ID: 819), Prob: 0.0000
+Token: 'ically' (ID: 2673), Prob: 0.0000
+Token: ' elements' (ID: 5424), Prob: 0.0000
+Token: 'ography' (ID: 5696), Prob: 0.0000
+Token: 'ades' (ID: 3452), Prob: 0.0000
+Token: 'ods' (ID: 29697), Prob: 0.0000
+Token: '-es' (ID: 31854), Prob: 0.0000
+Token: 'ias' (ID: 3473), Prob: 0.0000
+Token: 'oms' (ID: 6940), Prob: 0.0000
+Token: 'icons' (ID: 10670), Prob: 0.0000
+Token: 'ifications' (ID: 7029), Prob: 0.0000
+Token: '.es' (ID: 18550), Prob: 0.0000
+Token: 'ika' (ID: 11496), Prob: 0.0000
+Token: 'ems' (ID: 11852), Prob: 0.0000
+Token: 'inions' (ID: 83896), Prob: 0.0000
+Token: 'ish' (ID: 812), Prob: 0.0000
+Token: '(es' (ID: 50236), Prob: 0.0000
+Token: 'uses' (ID: 4776), Prob: 0.0000
+Token: 'ographies' (ID: 66145), Prob: 0.0000
+Token: ' without' (ID: 2041), Prob: 0.0000
+Token: 'ocs' (ID: 14128), Prob: 0.0000
+Token: 'ification' (ID: 2404), Prob: 0.0000
+Token: 'osph' (ID: 23609), Prob: 0.0000
+Token: 'esen' (ID: 65935), Prob: 0.0000
+Token: 'ines' (ID: 1543), Prob: 0.0000
+Token: 'icism' (ID: 41814), Prob: 0.0000
+Token: 'ico' (ID: 3955), Prob: 0.0000
+Token: 'esp' (ID: 24610), Prob: 0.0000
+Token: 'esi' (ID: 33083), Prob: 0.0000
+Token: 'ical' (ID: 938), Prob: 0.0000
+Token: 'onyms' (ID: 45603), Prob: 0.0000
+Token: ' entries' (ID: 10695), Prob: 0.0000
+Token: 'films' (ID: 65402), Prob: 0.0000
+Token: 'olog' (ID: 1609), Prob: 0.0000
+Token: 'olo' (ID: 10011), Prob: 0.0000
+Token: 'esh' (ID: 4288), Prob: 0.0000
+Token: 'elines' (ID: 10999), Prob: 0.0000
+Token: 'ellas' (ID: 74495), Prob: 0.0000
+Token: 'ements' (ID: 3723), Prob: 0.0000
+Token: 'iche' (ID: 12063), Prob: 0.0000
+Token: 'oses' (ID: 19696), Prob: 0.0000
+Token: 'ilog' (ID: 50773), Prob: 0.0000
+Token: 'ess' (ID: 433), Prob: 0.0000
+Token: '/es' (ID: 38428), Prob: 0.0000
+
+== Ranked Concepts (Clusters) ==
+Rank 1 | Centroid: 'ica' | Score: 0.0000
+  Tokens: ['ics', 'iques', 'ica', 'ically', 'ika', 'ico', 'ical', 'iche']
+Rank 2 | Centroid: 'ology' | Score: 0.0000
+  Tokens: ['ologies', 'ological', 'ology', 'olog', 'olo']
+Rank 3 | Centroid: 'ues' | Score: 0.0000
+  Tokens: ['ues', 'ies', 'oes', 'ades', 'ias', 'uses', 'ines']
+Rank 4 | Centroid: 'isms' | Score: 0.0000
+  Tokens: ['isms', 'ism']
+Rank 5 | Centroid: 'ings' | Score: 0.0000
+  Tokens: ['ing', 'ers', 'ings']
+Rank 6 | Centroid: 'ese' | Score: 0.0000
+  Tokens: ['eses', 'esc', 'ese', 'esen', 'esp', 'esi', 'esh', 'ess']
+Rank 7 | Centroid: 'ework' | Score: 0.0000
+  Tokens: ['ework']
+Rank 8 | Centroid: 'osc' | Score: 0.0000
+  Tokens: ['osc']
+Rank 9 | Centroid: ' elements' | Score: 0.0000
+  Tokens: [' elements', 'inions', ' entries', 'films', 'elines', 'ellas']
+Rank 10 | Centroid: 'ography' | Score: 0.0000
+  Tokens: ['ography', 'ographies', 'osph', 'onyms']
+Rank 11 | Centroid: 'oms' | Score: 0.0000
+  Tokens: ['ods', 'oms', 'ocs']
+Rank 12 | Centroid: '/es' | Score: 0.0000
+  Tokens: ['-es', '.es', '(es', '/es']
+Rank 13 | Centroid: 'ifications' | Score: 0.0000
+  Tokens: ['ifications', 'ification']
+Rank 14 | Centroid: 'ish' | Score: 0.0000
+  Tokens: ['ish', ' without']
+Rank 15 | Centroid: 'ems' | Score: 0.0000
+  Tokens: ['ems', 'ements']
+Rank 16 | Centroid: 'icons' | Score: 0.0000
+  Tokens: ['icons']
+Rank 17 | Centroid: 'icism' | Score: 0.0000
+  Tokens: ['icism']
+Rank 18 | Centroid: 'ilog' | Score: 0.0000
+  Tokens: ['ilog']
+Rank 19 | Centroid: 'oses' | Score: 0.0000
+  Tokens: ['oses']
+
+**Chosen Concept:** Rank 1

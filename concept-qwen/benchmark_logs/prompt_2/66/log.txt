@@ -1,84 +1,121 @@
 --- Step 66 Log ---
 
 == Filtered Candidates ==
-Token: ' something' (ID: 2494), Prob: 0.9648
-Token: ' etc' (ID: 4992), Prob: 0.0177
-Token: ' yes' (ID: 9834), Prob: 0.0027
-Token: ' anything' (ID: 4113), Prob: 0.0003
-Token: ' maybe' (ID: 7196), Prob: 0.0002
-Token: ' sometimes' (ID: 7025), Prob: 0.0001
-Token: ' even' (ID: 1496), Prob: 0.0001
-Token: ' someone' (ID: 4325), Prob: 0.0001
-Token: ' somewhere' (ID: 14696), Prob: 0.0001
-Token: ' nothing' (ID: 4302), Prob: 0.0000
-Token: ' whatever' (ID: 8820), Prob: 0.0000
+Token: ' Make' (ID: 7405), Prob: 0.8750
+Token: ' Maybe' (ID: 10696), Prob: 0.0265
+Token: ' Alright' (ID: 97593), Prob: 0.0265
+Token: ' Avoid' (ID: 34006), Prob: 0.0233
+Token: ' Ensure' (ID: 29279), Prob: 0.0182
+Token: ' Let' (ID: 6771), Prob: 0.0110
+Token: ' Hmm' (ID: 88190), Prob: 0.0012
+Token: ' Got' (ID: 24528), Prob: 0.0010
+Token: ' Need' (ID: 14656), Prob: 0.0008
+Token: ' Okay' (ID: 35439), Prob: 0.0008
+Token: ' Done' (ID: 27357), Prob: 0.0005
+Token: ' Use' (ID: 5443), Prob: 0.0004
+Token: ' Wait' (ID: 13824), Prob: 0.0004
+Token: ' Yeah' (ID: 21607), Prob: 0.0002
+Token: ' Try' (ID: 9735), Prob: 0.0002
+Token: ' Double' (ID: 7093), Prob: 0.0002
+Token: ' Add' (ID: 2691), Prob: 0.0002
+Token: ' Get' (ID: 2126), Prob: 0.0001
+Token: ' Also' (ID: 7281), Prob: 0.0001
+Token: ' Final' (ID: 13023), Prob: 0.0001
+Token: ' Finally' (ID: 17375), Prob: 0.0001
+Token: ' Yes' (ID: 7414), Prob: 0.0001
+Token: ' Word' (ID: 9322), Prob: 0.0001
+Token: ' make' (ID: 1281), Prob: 0.0001
+Token: ' Read' (ID: 4457), Prob: 0.0001
+Token: ' Rev' (ID: 10107), Prob: 0.0001
+Token: ' Keep' (ID: 13655), Prob: 0.0001
+Token: ' Replace' (ID: 29558), Prob: 0.0001
+Token: ' Ready' (ID: 30982), Prob: 0.0001
+Token: ' Good' (ID: 7684), Prob: 0.0001
+Token: ' Yep' (ID: 84194), Prob: 0.0001
+Token: ' Update' (ID: 5549), Prob: 0.0000
+Token: ' Format' (ID: 15042), Prob: 0.0000
+Token: ' Think' (ID: 21149), Prob: 0.0000
+Token: ' Words' (ID: 27630), Prob: 0.0000
+Token: ' Example' (ID: 13383), Prob: 0.0000
+Token: ' Wrap' (ID: 42187), Prob: 0.0000
+Token: ' End' (ID: 3972), Prob: 0.0000
+Token: ' Start' (ID: 5145), Prob: 0.0000
+Token: ' Fix' (ID: 19716), Prob: 0.0000
+Token: ' Watch' (ID: 10357), Prob: 0.0000
+Token: ' Aim' (ID: 70615), Prob: 0.0000
+Token: ' Looks' (ID: 41806), Prob: 0.0000
+Token: ' Seems' (ID: 63957), Prob: 0.0000
+Token: ' Sounds' (ID: 44141), Prob: 0.0000
+Token: ' Highlight' (ID: 55994), Prob: 0.0000
 Token: ' Something' (ID: 24656), Prob: 0.0000
-Token: ' except' (ID: 3650), Prob: 0.0000
-Token: ' option' (ID: 2999), Prob: 0.0000
-Token: ' depending' (ID: 11649), Prob: 0.0000
-Token: ' also' (ID: 1083), Prob: 0.0000
-Token: ' everything' (ID: 4297), Prob: 0.0000
-Token: ' another' (ID: 2441), Prob: 0.0000
-Token: ' similar' (ID: 4428), Prob: 0.0000
-Token: ' thing' (ID: 3166), Prob: 0.0000
-Token: ' possibly' (ID: 10767), Prob: 0.0000
-Token: ' one' (ID: 825), Prob: 0.0000
-Token: ' based' (ID: 3118), Prob: 0.0000
-Token: ' YES' (ID: 14080), Prob: 0.0000
-Token: ' since' (ID: 2474), Prob: 0.0000
-Token: ' answer' (ID: 4226), Prob: 0.0000
-Token: ' plus' (ID: 5519), Prob: 0.0000
-Token: ' things' (ID: 2513), Prob: 0.0000
-Token: ' certain' (ID: 3654), Prob: 0.0000
-Token: ' okay' (ID: 16910), Prob: 0.0000
-Token: ' possible' (ID: 3204), Prob: 0.0000
-Token: ' two' (ID: 1378), Prob: 0.0000
-Token: 'something' (ID: 33331), Prob: 0.0000
-Token: ' som' (ID: 1757), Prob: 0.0000
-Token: ' three' (ID: 2326), Prob: 0.0000
-Token: ' options' (ID: 2606), Prob: 0.0000
-Token: ' example' (ID: 3110), Prob: 0.0000
-Token: ' however' (ID: 4764), Prob: 0.0000
-Token: ' specific' (ID: 3151), Prob: 0.0000
-Token: ' perhaps' (ID: 8365), Prob: 0.0000
-Token: ' otherwise' (ID: 5937), Prob: 0.0000
-Token: ' unless' (ID: 7241), Prob: 0.0000
-Token: ' sorry' (ID: 14589), Prob: 0.0000
-Token: ' sure' (ID: 2704), Prob: 0.0000
-Token: ' enough' (ID: 3322), Prob: 0.0000
+Token: ' Elim' (ID: 42320), Prob: 0.0000
+Token: 'Make' (ID: 8078), Prob: 0.0000
+Token: ' Adjust' (ID: 27196), Prob: 0.0000
+Token: ' Probably' (ID: 37154), Prob: 0.0000
+Token: ' Remove' (ID: 10783), Prob: 0.0000
+Token: ' Compare' (ID: 23768), Prob: 0.0000
+Token: ' Making' (ID: 24288), Prob: 0.0000
+Token: ' Trim' (ID: 44376), Prob: 0.0000
+Token: ' Adapt' (ID: 58431), Prob: 0.0000
+Token: ' Sure' (ID: 22555), Prob: 0.0000
+Token: ' Align' (ID: 49472), Prob: 0.0000
+Token: ' done' (ID: 2814), Prob: 0.0000
+Token: ' Edit' (ID: 8340), Prob: 0.0000
+Token: ' Optional' (ID: 12256), Prob: 0.0000
+Token: ' Possible' (ID: 36107), Prob: 0.0000
+Token: ' Review' (ID: 10294), Prob: 0.0000
+Token: ' Perhaps' (ID: 18765), Prob: 0.0000
+Token: ' Draft' (ID: 28564), Prob: 0.0000
+Token: ' Would' (ID: 18885), Prob: 0.0000
+Token: '_done' (ID: 24390), Prob: 0.0000
+Token: ' Repeat' (ID: 44801), Prob: 0.0000
+Token: ' See' (ID: 3496), Prob: 0.0000
+Token: ' Reverse' (ID: 24277), Prob: 0.0000
+Token: ' Finish' (ID: 35533), Prob: 0.0000
+Token: ' Check' (ID: 4248), Prob: 0.0000
+Token: ' Write' (ID: 9645), Prob: 0.0000
+Token: ' Duplicate' (ID: 71071), Prob: 0.0000
 
 == Ranked Concepts (Clusters) ==
-Rank 1 | Centroid: ' something' | Score: 0.9648
-  Tokens: [' something', ' someone', ' somewhere', ' Something', 'something']
-Rank 2 | Centroid: ' certain' | Score: 0.0177
-  Tokens: [' etc', ' similar', ' certain', ' specific']
-Rank 3 | Centroid: ' yes' | Score: 0.0027
-  Tokens: [' yes', ' YES', ' sure']
-Rank 4 | Centroid: ' things' | Score: 0.0004
-  Tokens: [' anything', ' nothing', ' everything', ' thing', ' things']
-Rank 5 | Centroid: ' perhaps' | Score: 0.0002
-  Tokens: [' maybe', ' sometimes', ' possibly', ' possible', ' perhaps']
-Rank 6 | Centroid: ' even' | Score: 0.0001
-  Tokens: [' even']
-Rank 7 | Centroid: ' except' | Score: 0.0000
-  Tokens: [' except', ' since', ' plus', ' unless']
-Rank 8 | Centroid: ' whatever' | Score: 0.0000
-  Tokens: [' whatever']
-Rank 9 | Centroid: ' option' | Score: 0.0000
-  Tokens: [' option', ' answer', ' options']
-Rank 10 | Centroid: ' depending' | Score: 0.0000
-  Tokens: [' depending', ' based']
-Rank 11 | Centroid: ' two' | Score: 0.0000
-  Tokens: [' one', ' two', ' three']
-Rank 12 | Centroid: ' also' | Score: 0.0000
-  Tokens: [' also', ' example']
-Rank 13 | Centroid: ' another' | Score: 0.0000
-  Tokens: [' another', ' som']
-Rank 14 | Centroid: ' okay' | Score: 0.0000
-  Tokens: [' okay', ' sorry']
-Rank 15 | Centroid: ' however' | Score: 0.0000
-  Tokens: [' however', ' otherwise']
-Rank 16 | Centroid: ' enough' | Score: 0.0000
-  Tokens: [' enough']
+Rank 1 | Centroid: ' Make' | Score: 0.8750
+  Tokens: [' Make', ' make', 'Make', ' Making']
+Rank 2 | Centroid: ' Yeah' | Score: 0.0288
+  Tokens: [' Alright', ' Hmm', ' Okay', ' Yeah', ' Yes', ' Yep', ' Sure']
+Rank 3 | Centroid: ' Maybe' | Score: 0.0266
+  Tokens: [' Maybe', ' Something', ' Probably', ' Possible', ' Perhaps', ' Would']
+Rank 4 | Centroid: ' Adjust' | Score: 0.0234
+  Tokens: [' Avoid', ' Fix', ' Elim', ' Adjust', ' Trim', ' Adapt', ' Align']
+Rank 5 | Centroid: ' Ensure' | Score: 0.0184
+  Tokens: [' Ensure', ' Add', ' Keep']
+Rank 6 | Centroid: ' Let' | Score: 0.0112
+  Tokens: [' Let', ' Also']
+Rank 7 | Centroid: ' Get' | Score: 0.0016
+  Tokens: [' Need', ' Use', ' Try', ' Get', ' See', ' Check']
+Rank 8 | Centroid: ' Got' | Score: 0.0011
+  Tokens: [' Got', ' Good']
+Rank 9 | Centroid: ' Write' | Score: 0.0005
+  Tokens: [' Wait', ' Read', ' Think', ' Watch', ' Write']
+Rank 10 | Centroid: ' Done' | Score: 0.0005
+  Tokens: [' Done', ' done', '_done']
+Rank 11 | Centroid: ' Final' | Score: 0.0003
+  Tokens: [' Final', ' Finally', ' End', ' Start']
+Rank 12 | Centroid: ' Optional' | Score: 0.0003
+  Tokens: [' Double', ' Example', ' Optional']
+Rank 13 | Centroid: ' Replace' | Score: 0.0002
+  Tokens: [' Replace', ' Update', ' Remove', ' Compare', ' Edit']
+Rank 14 | Centroid: ' Word' | Score: 0.0001
+  Tokens: [' Word', ' Words']
+Rank 15 | Centroid: ' Repeat' | Score: 0.0001
+  Tokens: [' Rev', ' Review', ' Repeat', ' Reverse', ' Duplicate']
+Rank 16 | Centroid: ' Highlight' | Score: 0.0001
+  Tokens: [' Format', ' Highlight', ' Draft']
+Rank 17 | Centroid: ' Ready' | Score: 0.0001
+  Tokens: [' Ready', ' Finish']
+Rank 18 | Centroid: ' Seems' | Score: 0.0001
+  Tokens: [' Looks', ' Seems', ' Sounds']
+Rank 19 | Centroid: ' Wrap' | Score: 0.0000
+  Tokens: [' Wrap']
+Rank 20 | Centroid: ' Aim' | Score: 0.0000
+  Tokens: [' Aim']
 
 **Chosen Concept:** Rank 1

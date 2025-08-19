@@ -1,109 +1,151 @@
 --- Step 29 Log ---
 
 == Filtered Candidates ==
-Token: ' feeling' (ID: 8266), Prob: 0.0260
-Token: ' expressing' (ID: 36710), Prob: 0.0019
-Token: ' longing' (ID: 78322), Prob: 0.0016
-Token: ' crying' (ID: 30199), Prob: 0.0015
-Token: ' sadness' (ID: 50878), Prob: 0.0013
-Token: ' describing' (ID: 22692), Prob: 0.0011
-Token: ' wanting' (ID: 19211), Prob: 0.0007
-Token: ' tears' (ID: 23139), Prob: 0.0007
-Token: ' waking' (ID: 47628), Prob: 0.0006
-Token: ' overwhelmed' (ID: 42106), Prob: 0.0005
-Token: ' losing' (ID: 13188), Prob: 0.0004
-Token: ' seeing' (ID: 9120), Prob: 0.0003
-Token: ' loving' (ID: 21258), Prob: 0.0003
-Token: ' heart' (ID: 4746), Prob: 0.0002
-Token: ' feelings' (ID: 15650), Prob: 0.0002
-Token: ' finding' (ID: 9271), Prob: 0.0002
-Token: ' trembling' (ID: 91988), Prob: 0.0002
-Token: ' someone' (ID: 4325), Prob: 0.0002
-Token: ' overwhelming' (ID: 22024), Prob: 0.0002
-Token: ' love' (ID: 2948), Prob: 0.0002
-Token: ' falling' (ID: 15679), Prob: 0.0002
-Token: ' laughing' (ID: 31581), Prob: 0.0002
-Token: ' experiencing' (ID: 24084), Prob: 0.0001
-Token: ' drowning' (ID: 73437), Prob: 0.0001
-Token: ' vivid' (ID: 42020), Prob: 0.0001
-Token: ' realizing' (ID: 43014), Prob: 0.0001
-Token: ' breaking' (ID: 14719), Prob: 0.0001
-Token: ' emotions' (ID: 21261), Prob: 0.0001
-Token: ' starting' (ID: 5916), Prob: 0.0001
-Token: ' loneliness' (ID: 73940), Prob: 0.0001
-Token: ' looking' (ID: 3330), Prob: 0.0001
-Token: ' showing' (ID: 9027), Prob: 0.0001
-Token: ' reaching' (ID: 18739), Prob: 0.0001
-Token: '"You' (ID: 21608), Prob: 0.0001
-Token: ' sharing' (ID: 11560), Prob: 0.0001
-Token: ' struggling' (ID: 19962), Prob: 0.0001
-Token: ' frustration' (ID: 31986), Prob: 0.0001
-Token: ' despair' (ID: 45896), Prob: 0.0001
-Token: ' getting' (ID: 3709), Prob: 0.0001
-Token: ' trying' (ID: 4460), Prob: 0.0001
-Token: ' childhood' (ID: 19990), Prob: 0.0001
-Token: ' saying' (ID: 5488), Prob: 0.0001
-Token: ' exhaustion' (ID: 69563), Prob: 0.0001
-Token: ' happiness' (ID: 23009), Prob: 0.0001
-Token: ' setting' (ID: 6243), Prob: 0.0001
-Token: ' talking' (ID: 7404), Prob: 0.0001
-Token: ' joy' (ID: 15888), Prob: 0.0001
-Token: ' comparing' (ID: 26297), Prob: 0.0001
-Token: ' anger' (ID: 19234), Prob: 0.0001
-Token: ' imagining' (ID: 76624), Prob: 0.0001
-Token: ' intense' (ID: 18894), Prob: 0.0001
-Token: ' sigh' (ID: 30138), Prob: 0.0001
-Token: ' transforming' (ID: 45790), Prob: 0.0001
-Token: ' pouring' (ID: 50413), Prob: 0.0001
-Token: ' asking' (ID: 10161), Prob: 0.0000
-Token: ' emotional' (ID: 14269), Prob: 0.0000
-Token: ' entering' (ID: 16262), Prob: 0.0000
-Token: ' excitement' (ID: 27262), Prob: 0.0000
-Token: ' standing' (ID: 11259), Prob: 0.0000
-Token: ' sitting' (ID: 11699), Prob: 0.0000
+Token: ' place' (ID: 1992), Prob: 0.1045
+Token: ' specific' (ID: 3151), Prob: 0.0635
+Token: ' different' (ID: 2155), Prob: 0.0383
+Token: ' location' (ID: 3728), Prob: 0.0383
+Token: ' real' (ID: 1931), Prob: 0.0317
+Token: ' modern' (ID: 6481), Prob: 0.0299
+Token: ' natural' (ID: 5810), Prob: 0.0281
+Token: ' library' (ID: 6733), Prob: 0.0281
+Token: ' historical' (ID: 13656), Prob: 0.0264
+Token: ' setting' (ID: 6243), Prob: 0.0233
+Token: ' city' (ID: 3283), Prob: 0.0219
+Token: ' museum' (ID: 23971), Prob: 0.0171
+Token: ' foreign' (ID: 7214), Prob: 0.0132
+Token: ' cultural' (ID: 12752), Prob: 0.0125
+Token: ' small' (ID: 2613), Prob: 0.0110
+Token: ' scene' (ID: 6109), Prob: 0.0110
+Token: ' room' (ID: 3054), Prob: 0.0103
+Token: ' country' (ID: 3146), Prob: 0.0097
+Token: ' particular' (ID: 3953), Prob: 0.0091
+Token: ' traditional' (ID: 8606), Prob: 0.0091
+Token: ' park' (ID: 6118), Prob: 0.0081
+Token: ' home' (ID: 2114), Prob: 0.0071
+Token: ' public' (ID: 584), Prob: 0.0067
+Token: ' space' (ID: 3550), Prob: 0.0063
+Token: ' multicultural' (ID: 74316), Prob: 0.0063
+Token: ' forest' (ID: 13638), Prob: 0.0055
+Token: ' restaurant' (ID: 10729), Prob: 0.0052
+Token: ' non' (ID: 2477), Prob: 0.0046
+Token: ' market' (ID: 3081), Prob: 0.0046
+Token: ' common' (ID: 4185), Prob: 0.0046
+Token: ' typical' (ID: 14260), Prob: 0.0046
+Token: ' third' (ID: 4843), Prob: 0.0043
+Token: ' theater' (ID: 26705), Prob: 0.0043
+Token: ' marketplace' (ID: 29533), Prob: 0.0043
+Token: ' single' (ID: 3175), Prob: 0.0041
+Token: ' living' (ID: 5382), Prob: 0.0041
+Token: ' kitchen' (ID: 9780), Prob: 0.0041
+Token: ' physical' (ID: 6961), Prob: 0.0038
+Token: ' hotel' (ID: 9500), Prob: 0.0038
+Token: ' time' (ID: 882), Prob: 0.0036
+Token: ' world' (ID: 1879), Prob: 0.0036
+Token: ' store' (ID: 3553), Prob: 0.0036
+Token: ' village' (ID: 14126), Prob: 0.0034
+Token: ' fictional' (ID: 43582), Prob: 0.0034
+Token: ' futuristic' (ID: 79220), Prob: 0.0034
+Token: ' future' (ID: 3853), Prob: 0.0032
+Token: ' building' (ID: 4752), Prob: 0.0032
+Token: ' unique' (ID: 4911), Prob: 0.0032
+Token: ' middle' (ID: 6149), Prob: 0.0032
+Token: ' multi' (ID: 7299), Prob: 0.0032
+Token: ' contemporary' (ID: 18706), Prob: 0.0032
+Token: ' historic' (ID: 18035), Prob: 0.0030
+Token: ' large' (ID: 3460), Prob: 0.0028
+Token: ' town' (ID: 6290), Prob: 0.0028
+Token: ' character' (ID: 3668), Prob: 0.0026
+Token: ' rural' (ID: 19082), Prob: 0.0026
+Token: ' classroom' (ID: 24017), Prob: 0.0026
+Token: ' one' (ID: 825), Prob: 0.0025
+Token: ' house' (ID: 3753), Prob: 0.0025
+Token: ' new' (ID: 501), Prob: 0.0023
+Token: ' virtual' (ID: 4108), Prob: 0.0023
+Token: ' quiet' (ID: 11340), Prob: 0.0023
+Token: ' family' (ID: 2997), Prob: 0.0022
+Token: ' post' (ID: 1736), Prob: 0.0020
+Token: ' café' (ID: 51950), Prob: 0.0020
+Token: ' bar' (ID: 3619), Prob: 0.0019
+Token: ' two' (ID: 1378), Prob: 0.0018
+Token: ' major' (ID: 3598), Prob: 0.0018
+Token: ' remote' (ID: 8699), Prob: 0.0018
+Token: ' familiar' (ID: 11285), Prob: 0.0018
+Token: ' shopping' (ID: 11919), Prob: 0.0018
+Token: ' garden' (ID: 13551), Prob: 0.0018
+Token: ' desert' (ID: 23603), Prob: 0.0018
+Token: ' tourist' (ID: 29970), Prob: 0.0018
+Token: ' local' (ID: 2205), Prob: 0.0017
+Token: ' business' (ID: 2562), Prob: 0.0017
+Token: ' community' (ID: 3942), Prob: 0.0017
+Token: ' central' (ID: 8622), Prob: 0.0017
+Token: ' beach' (ID: 11321), Prob: 0.0017
+Token: ' workplace' (ID: 26368), Prob: 0.0017
+Token: ' medieval' (ID: 41008), Prob: 0.0017
+Token: ' festival' (ID: 18780), Prob: 0.0016
+Token: ' second' (ID: 2086), Prob: 0.0015
+Token: ' plaza' (ID: 71998), Prob: 0.0015
+Token: ' peaceful' (ID: 25650), Prob: 0.0014
+Token: ' present' (ID: 3042), Prob: 0.0013
+Token: ' part' (ID: 949), Prob: 0.0012
+Token: ' special' (ID: 3281), Prob: 0.0012
+Token: ' certain' (ID: 3654), Prob: 0.0012
+Token: ' general' (ID: 4586), Prob: 0.0012
+Token: ' movie' (ID: 5700), Prob: 0.0012
+Token: ' neutral' (ID: 20628), Prob: 0.0012
+Token: ' bookstore' (ID: 78661), Prob: 0.0012
+Token: ' bustling' (ID: 89156), Prob: 0.0012
+Token: ' private' (ID: 869), Prob: 0.0012
+Token: ' culture' (ID: 7674), Prob: 0.0012
+Token: ' tropical' (ID: 34048), Prob: 0.0012
+Token: ' coastal' (ID: 34235), Prob: 0.0012
 
 == Ranked Concepts (Clusters) ==
-Rank 1 | Centroid: ' feelings' | Score: 0.0264
-  Tokens: [' feeling', ' feelings', ' emotions', ' emotional']
-Rank 2 | Centroid: ' describing' | Score: 0.0032
-  Tokens: [' expressing', ' describing', ' showing', ' comparing', ' imagining']
-Rank 3 | Centroid: ' crying' | Score: 0.0023
-  Tokens: [' crying', ' tears', ' laughing']
-Rank 4 | Centroid: ' sadness' | Score: 0.0018
-  Tokens: [' sadness', ' loneliness', ' frustration', ' despair', ' exhaustion', ' happiness', ' anger', ' excitement']
-Rank 5 | Centroid: ' longing' | Score: 0.0016
-  Tokens: [' longing', ' sigh']
-Rank 6 | Centroid: ' getting' | Score: 0.0009
-  Tokens: [' losing', ' falling', ' breaking', ' reaching', ' getting', ' entering']
-Rank 7 | Centroid: ' overwhelming' | Score: 0.0007
-  Tokens: [' overwhelmed', ' overwhelming', ' intense']
-Rank 8 | Centroid: ' wanting' | Score: 0.0007
-  Tokens: [' wanting']
-Rank 9 | Centroid: ' waking' | Score: 0.0007
-  Tokens: [' waking', ' childhood']
-Rank 10 | Centroid: ' love' | Score: 0.0005
-  Tokens: [' loving', ' love', ' joy']
-Rank 11 | Centroid: ' seeing' | Score: 0.0004
-  Tokens: [' seeing', ' realizing']
-Rank 12 | Centroid: '"You' | Score: 0.0004
-  Tokens: [' someone', ' vivid', '"You']
-Rank 13 | Centroid: ' pouring' | Score: 0.0004
-  Tokens: [' trembling', ' drowning', ' pouring']
-Rank 14 | Centroid: ' asking' | Score: 0.0003
-  Tokens: [' looking', ' trying', ' saying', ' talking', ' asking']
-Rank 15 | Centroid: ' finding' | Score: 0.0003
-  Tokens: [' finding', ' setting']
-Rank 16 | Centroid: ' heart' | Score: 0.0002
-  Tokens: [' heart']
-Rank 17 | Centroid: ' sitting' | Score: 0.0002
-  Tokens: [' starting', ' standing', ' sitting']
-Rank 18 | Centroid: ' experiencing' | Score: 0.0001
-  Tokens: [' experiencing']
-Rank 19 | Centroid: ' struggling' | Score: 0.0001
-  Tokens: [' struggling']
-Rank 20 | Centroid: ' sharing' | Score: 0.0001
-  Tokens: [' sharing']
-Rank 21 | Centroid: ' transforming' | Score: 0.0001
-  Tokens: [' transforming']
+Rank 1 | Centroid: ' location' | Score: 0.1758
+  Tokens: [' place', ' location', ' setting', ' space', ' time']
+Rank 2 | Centroid: ' specific' | Score: 0.1167
+  Tokens: [' specific', ' different', ' particular', ' unique', ' special', ' certain']
+Rank 3 | Centroid: ' virtual' | Score: 0.0659
+  Tokens: [' real', ' natural', ' physical', ' virtual']
+Rank 4 | Centroid: ' contemporary' | Score: 0.0486
+  Tokens: [' modern', ' traditional', ' typical', ' contemporary', ' familiar']
+Rank 5 | Centroid: ' restaurant' | Score: 0.0432
+  Tokens: [' museum', ' restaurant', ' theater', ' kitchen', ' hotel', ' classroom', ' shopping', ' garden', ' movie', ' bookstore']
+Rank 6 | Centroid: ' historic' | Score: 0.0378
+  Tokens: [' historical', ' fictional', ' futuristic', ' historic', ' medieval']
+Rank 7 | Centroid: ' town' | Score: 0.0376
+  Tokens: [' city', ' country', ' village', ' town']
+Rank 8 | Centroid: ' large' | Score: 0.0371
+  Tokens: [' small', ' non', ' single', ' multi', ' large', ' one', ' new', ' post', ' two', ' major', ' part']
+Rank 9 | Centroid: ' library' | Score: 0.0366
+  Tokens: [' library', ' store', ' building', ' bar']
+Rank 10 | Centroid: ' house' | Score: 0.0221
+  Tokens: [' room', ' home', ' house', ' family']
+Rank 11 | Centroid: ' remote' | Score: 0.0179
+  Tokens: [' foreign', ' remote', ' central', ' neutral']
+Rank 12 | Centroid: ' public' | Score: 0.0153
+  Tokens: [' public', ' common', ' local', ' general', ' private']
+Rank 13 | Centroid: ' coastal' | Score: 0.0139
+  Tokens: [' forest', ' rural', ' desert', ' beach', ' tropical', ' coastal']
+Rank 14 | Centroid: ' cultural' | Score: 0.0136
+  Tokens: [' cultural', ' culture']
+Rank 15 | Centroid: ' marketplace' | Score: 0.0123
+  Tokens: [' market', ' marketplace', ' business', ' workplace']
+Rank 16 | Centroid: ' café' | Score: 0.0116
+  Tokens: [' park', ' café', ' plaza']
+Rank 17 | Centroid: ' scene' | Score: 0.0110
+  Tokens: [' scene']
+Rank 18 | Centroid: ' festival' | Score: 0.0096
+  Tokens: [' multicultural', ' tourist', ' festival']
+Rank 19 | Centroid: ' third' | Score: 0.0090
+  Tokens: [' third', ' middle', ' second']
+Rank 20 | Centroid: ' community' | Score: 0.0079
+  Tokens: [' world', ' character', ' community']
+Rank 21 | Centroid: ' peaceful' | Score: 0.0049
+  Tokens: [' quiet', ' peaceful', ' bustling']
+Rank 22 | Centroid: ' future' | Score: 0.0045
+  Tokens: [' future', ' present']
+Rank 23 | Centroid: ' living' | Score: 0.0041
+  Tokens: [' living']
 
 **Chosen Concept:** Rank 1

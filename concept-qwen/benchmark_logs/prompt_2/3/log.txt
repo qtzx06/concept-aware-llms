@@ -1,60 +1,99 @@
 --- Step 3 Log ---
 
 == Filtered Candidates ==
-Token: '/no' (ID: 33100), Prob: 0.0359
-Token: ' yes' (ID: 9834), Prob: 0.0141
-Token: ' whether' (ID: 3425), Prob: 0.0012
-Token: ' Yes' (ID: 7414), Prob: 0.0008
-Token: ' regarding' (ID: 8826), Prob: 0.0007
-Token: ' please' (ID: 4486), Prob: 0.0005
-Token: 'yes' (ID: 9693), Prob: 0.0004
-Token: ' based' (ID: 3118), Prob: 0.0003
-Token: ' today' (ID: 3351), Prob: 0.0003
-Token: ' question' (ID: 3405), Prob: 0.0002
-Token: '/or' (ID: 5144), Prob: 0.0002
-Token: ' explain' (ID: 10339), Prob: 0.0002
-Token: ' explanation' (ID: 16148), Prob: 0.0002
-Token: ' since' (ID: 2474), Prob: 0.0002
-Token: ' unless' (ID: 7241), Prob: 0.0002
-Token: ' one' (ID: 825), Prob: 0.0002
-Token: '-no' (ID: 28366), Prob: 0.0002
-Token: ',no' (ID: 84198), Prob: 0.0002
-Token: ' according' (ID: 4092), Prob: 0.0002
-Token: '-or' (ID: 26511), Prob: 0.0002
-Token: ' answer' (ID: 4226), Prob: 0.0002
-Token: ' tomorrow' (ID: 16577), Prob: 0.0002
-Token: ' exactly' (ID: 6896), Prob: 0.0001
-Token: ' thank' (ID: 9702), Prob: 0.0001
-Token: ' YES' (ID: 14080), Prob: 0.0001
-Token: ' except' (ID: 3650), Prob: 0.0001
-Token: '_no' (ID: 6536), Prob: 0.0001
+Token: ' let' (ID: 1077), Prob: 0.2168
+Token: ' first' (ID: 1156), Prob: 0.0008
+Token: ' user' (ID: 1196), Prob: 0.0003
+Token: ' need' (ID: 1184), Prob: 0.0002
+Token: ' got' (ID: 2684), Prob: 0.0001
+Token: ' start' (ID: 1191), Prob: 0.0001
+Token: ' starting' (ID: 5916), Prob: 0.0001
+Token: ' users' (ID: 3847), Prob: 0.0000
+Token: ' students' (ID: 4143), Prob: 0.0000
+Token: ' customer' (ID: 6002), Prob: 0.0000
+Token: ' maybe' (ID: 7196), Prob: 0.0000
+Token: ' student' (ID: 5458), Prob: 0.0000
+Token: ' putting' (ID: 10687), Prob: 0.0000
+Token: ' task' (ID: 3383), Prob: 0.0000
+Token: ' since' (ID: 2474), Prob: 0.0000
+Token: ' given' (ID: 2661), Prob: 0.0000
+Token: ' looking' (ID: 3330), Prob: 0.0000
+Token: ' Let' (ID: 6771), Prob: 0.0000
+Token: ' wait' (ID: 3783), Prob: 0.0000
+Token: ' get' (ID: 633), Prob: 0.0000
+Token: ' time' (ID: 882), Prob: 0.0000
+Token: ' embedded' (ID: 22864), Prob: 0.0000
+Token: ' okay' (ID: 16910), Prob: 0.0000
+Token: ' getting' (ID: 3709), Prob: 0.0000
+Token: ' put' (ID: 2182), Prob: 0.0000
+Token: ' someone' (ID: 4325), Prob: 0.0000
+Token: ' inserting' (ID: 38298), Prob: 0.0000
+Token: ' think' (ID: 1744), Prob: 0.0000
+Token: ' customers' (ID: 6310), Prob: 0.0000
+Token: ' team' (ID: 2083), Prob: 0.0000
+Token: ' lets' (ID: 15354), Prob: 0.0000
+Token: ' Emily' (ID: 34166), Prob: 0.0000
+Token: ' responding' (ID: 29338), Prob: 0.0000
+Token: 'let' (ID: 1149), Prob: 0.0000
+Token: ' new' (ID: 501), Prob: 0.0000
+Token: ' audience' (ID: 10650), Prob: 0.0000
+Token: ' focus' (ID: 5244), Prob: 0.0000
+Token: ' parents' (ID: 6562), Prob: 0.0000
+Token: ' sentence' (ID: 11652), Prob: 0.0000
+Token: ' starter' (ID: 26697), Prob: 0.0000
+Token: ' interesting' (ID: 7040), Prob: 0.0000
+Token: ' imagine' (ID: 12793), Prob: 0.0000
+Token: ' focusing' (ID: 21080), Prob: 0.0000
+Token: ' small' (ID: 2613), Prob: 0.0000
+Token: ' story' (ID: 3364), Prob: 0.0000
+Token: ' girl' (ID: 3743), Prob: 0.0000
+Token: ' investors' (ID: 14823), Prob: 0.0000
+Token: ' suppose' (ID: 22477), Prob: 0.0000
+Token: ' Emma' (ID: 34935), Prob: 0.0000
+Token: ' integrating' (ID: 53852), Prob: 0.0000
+Token: ' well' (ID: 1632), Prob: 0.0000
+Token: ' perhaps' (ID: 8365), Prob: 0.0000
+Token: ' found' (ID: 1730), Prob: 0.0000
+Token: ' client' (ID: 2943), Prob: 0.0000
+Token: ' creative' (ID: 11521), Prob: 0.0000
+Token: ' assistant' (ID: 17847), Prob: 0.0000
+Token: ' seems' (ID: 4977), Prob: 0.0000
+Token: ' sorry' (ID: 14589), Prob: 0.0000
+Token: ' young' (ID: 3908), Prob: 0.0000
+Token: ' Task' (ID: 5430), Prob: 0.0000
 
 == Ranked Concepts (Clusters) ==
-Rank 1 | Centroid: '_no' | Score: 0.0364
-  Tokens: ['/no', '-no', ',no', '_no']
-Rank 2 | Centroid: ' yes' | Score: 0.0154
-  Tokens: [' yes', ' Yes', 'yes', ' YES']
-Rank 3 | Centroid: ' whether' | Score: 0.0012
-  Tokens: [' whether']
-Rank 4 | Centroid: ' according' | Score: 0.0012
-  Tokens: [' regarding', ' based', ' according']
-Rank 5 | Centroid: ' please' | Score: 0.0006
-  Tokens: [' please', ' thank']
-Rank 6 | Centroid: ' explain' | Score: 0.0005
-  Tokens: [' explain', ' explanation']
-Rank 7 | Centroid: ' today' | Score: 0.0004
-  Tokens: [' today', ' tomorrow']
-Rank 8 | Centroid: '/or' | Score: 0.0004
-  Tokens: ['/or', '-or']
-Rank 9 | Centroid: ' question' | Score: 0.0004
-  Tokens: [' question', ' answer']
-Rank 10 | Centroid: ' unless' | Score: 0.0003
-  Tokens: [' unless', ' except']
-Rank 11 | Centroid: ' since' | Score: 0.0002
-  Tokens: [' since']
-Rank 12 | Centroid: ' one' | Score: 0.0002
-  Tokens: [' one']
-Rank 13 | Centroid: ' exactly' | Score: 0.0001
-  Tokens: [' exactly']
+Rank 1 | Centroid: ' let' | Score: 0.2168
+  Tokens: [' let', ' Let', ' lets', 'let']
+Rank 2 | Centroid: ' small' | Score: 0.0008
+  Tokens: [' first', ' given', ' time', ' new', ' small', ' well']
+Rank 3 | Centroid: ' customer' | Score: 0.0004
+  Tokens: [' user', ' users', ' customer', ' customers', ' audience', ' client']
+Rank 4 | Centroid: ' need' | Score: 0.0002
+  Tokens: [' need', ' wait']
+Rank 5 | Centroid: ' get' | Score: 0.0001
+  Tokens: [' got', ' get', ' getting', ' found']
+Rank 6 | Centroid: ' starting' | Score: 0.0001
+  Tokens: [' start', ' starting', ' starter']
+Rank 7 | Centroid: ' students' | Score: 0.0000
+  Tokens: [' students', ' student', ' parents', ' young']
+Rank 8 | Centroid: ' perhaps' | Score: 0.0000
+  Tokens: [' maybe', ' since', ' perhaps', ' seems', ' sorry']
+Rank 9 | Centroid: ' putting' | Score: 0.0000
+  Tokens: [' putting', ' put']
+Rank 10 | Centroid: ' task' | Score: 0.0000
+  Tokens: [' task', ' team', ' Task']
+Rank 11 | Centroid: ' inserting' | Score: 0.0000
+  Tokens: [' embedded', ' inserting', ' responding', ' integrating']
+Rank 12 | Centroid: ' focusing' | Score: 0.0000
+  Tokens: [' looking', ' focus', ' focusing']
+Rank 13 | Centroid: ' interesting' | Score: 0.0000
+  Tokens: [' okay', ' sentence', ' interesting', ' story', ' creative']
+Rank 14 | Centroid: ' imagine' | Score: 0.0000
+  Tokens: [' think', ' imagine', ' suppose']
+Rank 15 | Centroid: ' Emily' | Score: 0.0000
+  Tokens: [' Emily', ' girl', ' Emma', ' assistant']
+Rank 16 | Centroid: ' someone' | Score: 0.0000
+  Tokens: [' someone', ' investors']
 
 **Chosen Concept:** Rank 1

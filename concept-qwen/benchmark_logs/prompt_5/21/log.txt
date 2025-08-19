@@ -1,148 +1,154 @@
 --- Step 21 Log ---
 
 == Filtered Candidates ==
-Token: ' statement' (ID: 5114), Prob: 0.6797
-Token: ' time' (ID: 882), Prob: 0.1523
-Token: ' following' (ID: 2701), Prob: 0.0299
-Token: ' answer' (ID: 4226), Prob: 0.0160
-Token: ' sentence' (ID: 11652), Prob: 0.0110
-Token: ' given' (ID: 2661), Prob: 0.0071
-Token: ' statements' (ID: 12239), Prob: 0.0067
-Token: ' friend' (ID: 4238), Prob: 0.0059
-Token: ' correct' (ID: 4396), Prob: 0.0055
-Token: ' traveler' (ID: 62765), Prob: 0.0055
-Token: ' person' (ID: 1697), Prob: 0.0038
-Token: ' lunch' (ID: 15786), Prob: 0.0028
-Token: ' passage' (ID: 21085), Prob: 0.0025
-Token: ' best' (ID: 1850), Prob: 0.0020
-Token: ' word' (ID: 3409), Prob: 0.0020
-Token: ' question' (ID: 3405), Prob: 0.0017
-Token: ' user' (ID: 1196), Prob: 0.0014
-Token: ' phrase' (ID: 17133), Prob: 0.0014
-Token: ' two' (ID: 1378), Prob: 0.0010
-Token: ' assistant' (ID: 17847), Prob: 0.0010
-Token: ' world' (ID: 1879), Prob: 0.0009
-Token: ' story' (ID: 3364), Prob: 0.0009
-Token: ' student' (ID: 5458), Prob: 0.0009
-Token: ' meeting' (ID: 6438), Prob: 0.0009
-Token: ' claim' (ID: 3717), Prob: 0.0007
-Token: ' speaker' (ID: 18601), Prob: 0.0007
-Token: ' author' (ID: 3150), Prob: 0.0007
-Token: ' scenario' (ID: 15048), Prob: 0.0007
-Token: ' writer' (ID: 6916), Prob: 0.0006
-Token: ' woman' (ID: 5220), Prob: 0.0005
-Token: ' situation' (ID: 6534), Prob: 0.0005
-Token: ' conversation' (ID: 10435), Prob: 0.0005
-Token: ' travel' (ID: 5821), Prob: 0.0005
-Token: ' trip' (ID: 8411), Prob: 0.0005
-Token: ' fact' (ID: 2097), Prob: 0.0004
-Token: ' friends' (ID: 4780), Prob: 0.0004
-Token: ' argument' (ID: 5693), Prob: 0.0004
-Token: ' passenger' (ID: 23148), Prob: 0.0004
-Token: ' first' (ID: 1156), Prob: 0.0004
-Token: ' travelers' (ID: 39286), Prob: 0.0004
-Token: ' tourist' (ID: 29970), Prob: 0.0004
-Token: ' possible' (ID: 3204), Prob: 0.0004
-Token: ' description' (ID: 4008), Prob: 0.0004
-Token: ' action' (ID: 1917), Prob: 0.0003
-Token: ' reason' (ID: 2874), Prob: 0.0003
-Token: ' character' (ID: 3668), Prob: 0.0003
-Token: ' relationship' (ID: 5025), Prob: 0.0003
-Token: ' event' (ID: 1538), Prob: 0.0003
-Token: ' future' (ID: 3853), Prob: 0.0003
-Token: ' meal' (ID: 15145), Prob: 0.0003
-Token: ' conclusion' (ID: 16688), Prob: 0.0003
-Token: ' friendship' (ID: 26509), Prob: 0.0003
-Token: ' current' (ID: 1482), Prob: 0.0003
-Token: ' problem' (ID: 3491), Prob: 0.0003
-Token: ' original' (ID: 4024), Prob: 0.0003
-Token: ' final' (ID: 1590), Prob: 0.0002
-Token: ' group' (ID: 1874), Prob: 0.0002
-Token: ' food' (ID: 3607), Prob: 0.0002
-Token: ' weather' (ID: 9104), Prob: 0.0002
-Token: ' options' (ID: 2606), Prob: 0.0002
-Token: ' subject' (ID: 3832), Prob: 0.0002
-Token: ' events' (ID: 4357), Prob: 0.0002
-Token: ' narrator' (ID: 64171), Prob: 0.0002
-Token: ' man' (ID: 883), Prob: 0.0002
-Token: ' response' (ID: 2033), Prob: 0.0002
-Token: ' date' (ID: 2400), Prob: 0.0002
-Token: ' provided' (ID: 3897), Prob: 0.0002
-Token: ' passengers' (ID: 22172), Prob: 0.0002
-Token: ' assumption' (ID: 24335), Prob: 0.0002
-Token: ' number' (ID: 1372), Prob: 0.0002
-Token: ' choice' (ID: 5754), Prob: 0.0002
-Token: ' journey' (ID: 11618), Prob: 0.0002
-Token: ' paragraph' (ID: 14311), Prob: 0.0002
-Token: ' logical' (ID: 19819), Prob: 0.0002
-Token: ' space' (ID: 3550), Prob: 0.0002
-Token: ' moment' (ID: 4445), Prob: 0.0002
-Token: ' movie' (ID: 5700), Prob: 0.0002
-Token: ' characters' (ID: 5766), Prob: 0.0002
-Token: ' room' (ID: 3054), Prob: 0.0002
-Token: ' astronaut' (ID: 46633), Prob: 0.0002
-Token: ' day' (ID: 1899), Prob: 0.0002
-Token: ' blank' (ID: 10113), Prob: 0.0002
-Token: ' sentences' (ID: 22870), Prob: 0.0002
-Token: ' option' (ID: 2999), Prob: 0.0001
-Token: ' girl' (ID: 3743), Prob: 0.0001
-Token: ' pair' (ID: 6716), Prob: 0.0001
-Token: ' appropriate' (ID: 8311), Prob: 0.0001
-Token: ' restaurant' (ID: 10729), Prob: 0.0001
-Token: ' information' (ID: 1995), Prob: 0.0001
-Token: ' rest' (ID: 2732), Prob: 0.0001
-Token: ' amount' (ID: 3311), Prob: 0.0001
-Token: ' movement' (ID: 7203), Prob: 0.0001
-Token: ' sequence' (ID: 8500), Prob: 0.0001
+Token: ' elements' (ID: 5424), Prob: 0.9922
+Token: ' points' (ID: 3501), Prob: 0.0036
+Token: ' components' (ID: 6813), Prob: 0.0022
+Token: ' details' (ID: 3565), Prob: 0.0010
+Token: ' themes' (ID: 21386), Prob: 0.0009
+Token: ' ideas' (ID: 6708), Prob: 0.0005
+Token: ' events' (ID: 4357), Prob: 0.0003
+Token: ' characters' (ID: 5766), Prob: 0.0001
+Token: ' plot' (ID: 7089), Prob: 0.0001
+Token: ' emotions' (ID: 21261), Prob: 0.0001
+Token: ' aspects' (ID: 13566), Prob: 0.0001
+Token: ' parts' (ID: 5479), Prob: 0.0000
+Token: ' concepts' (ID: 18940), Prob: 0.0000
+Token: ' moments' (ID: 13943), Prob: 0.0000
+Token: ' ingredients' (ID: 13966), Prob: 0.0000
+Token: ' emotional' (ID: 14269), Prob: 0.0000
+Token: ' scenes' (ID: 16065), Prob: 0.0000
+Token: ' information' (ID: 1995), Prob: 0.0000
+Token: ' element' (ID: 2392), Prob: 0.0000
+Token: ' event' (ID: 1538), Prob: 0.0000
+Token: ' message' (ID: 1943), Prob: 0.0000
+Token: ' features' (ID: 4419), Prob: 0.0000
+Token: ' theme' (ID: 6912), Prob: 0.0000
+Token: ' phrases' (ID: 31747), Prob: 0.0000
+Token: ' words' (ID: 4244), Prob: 0.0000
+Token: ' messages' (ID: 6605), Prob: 0.0000
+Token: ' clues' (ID: 42675), Prob: 0.0000
+Token: ' pieces' (ID: 9666), Prob: 0.0000
+Token: ' narrative' (ID: 19221), Prob: 0.0000
+Token: ' idea' (ID: 4522), Prob: 0.0000
+Token: ' suggestions' (ID: 18225), Prob: 0.0000
+Token: ' sentences' (ID: 22870), Prob: 0.0000
+Token: 'elements' (ID: 21423), Prob: 0.0000
+Token: ' subjects' (ID: 14878), Prob: 0.0000
+Token: ' symbols' (ID: 17738), Prob: 0.0000
+Token: ' character' (ID: 3668), Prob: 0.0000
+Token: ' subject' (ID: 3832), Prob: 0.0000
+Token: ' images' (ID: 5335), Prob: 0.0000
+Token: ' actions' (ID: 6168), Prob: 0.0000
+Token: ' facts' (ID: 13064), Prob: 0.0000
+Token: ' topics' (ID: 13347), Prob: 0.0000
+Token: ' story' (ID: 3364), Prob: 0.0000
+Token: ' prompts' (ID: 50932), Prob: 0.0000
+Token: ' scene' (ID: 6109), Prob: 0.0000
+Token: ' emotion' (ID: 19772), Prob: 0.0000
+Token: ' sentiment' (ID: 25975), Prob: 0.0000
+Token: ' main' (ID: 1887), Prob: 0.0000
+Token: ' content' (ID: 2213), Prob: 0.0000
+Token: ' setting' (ID: 6243), Prob: 0.0000
+Token: ' locations' (ID: 10468), Prob: 0.0000
+Token: ' storyline' (ID: 50628), Prob: 0.0000
+Token: ' thematic' (ID: 94768), Prob: 0.0000
+Token: ' sections' (ID: 14158), Prob: 0.0000
+Token: ' attributes' (ID: 8201), Prob: 0.0000
+Token: ' traits' (ID: 24055), Prob: 0.0000
+Token: ' characteristics' (ID: 17452), Prob: 0.0000
+Token: ' attractions' (ID: 38491), Prob: 0.0000
+Token: ' names' (ID: 5036), Prob: 0.0000
+Token: ' roles' (ID: 12783), Prob: 0.0000
+Token: ' concept' (ID: 7286), Prob: 0.0000
+Token: ' experiences' (ID: 11449), Prob: 0.0000
+Token: ' figures' (ID: 12396), Prob: 0.0000
+Token: ' areas' (ID: 5671), Prob: 0.0000
+Token: ' detail' (ID: 7716), Prob: 0.0000
+Token: ' sentence' (ID: 11652), Prob: 0.0000
+Token: ' recommendations' (ID: 18564), Prob: 0.0000
+Token: ' Elements' (ID: 34157), Prob: 0.0000
+Token: ' motifs' (ID: 83889), Prob: 0.0000
+Token: ' image' (ID: 2168), Prob: 0.0000
+Token: ' inspiration' (ID: 19760), Prob: 0.0000
+Token: ' items' (ID: 3589), Prob: 0.0000
+Token: ' requirements' (ID: 8502), Prob: 0.0000
+Token: ' entities' (ID: 14744), Prob: 0.0000
+Token: ' incidents' (ID: 23546), Prob: 0.0000
+Token: ' scenarios' (ID: 25283), Prob: 0.0000
+Token: ' interests' (ID: 11772), Prob: 0.0000
+Token: ' imagery' (ID: 40445), Prob: 0.0000
+Token: ' creative' (ID: 11521), Prob: 0.0000
+Token: ' mood' (ID: 19671), Prob: 0.0000
+Token: ' sensory' (ID: 47969), Prob: 0.0000
+Token: ' settings' (ID: 5003), Prob: 0.0000
+Token: ' prompt' (ID: 9934), Prob: 0.0000
+Token: ' factors' (ID: 9363), Prob: 0.0000
+Token: ' conflict' (ID: 12055), Prob: 0.0000
+Token: ' nouns' (ID: 89838), Prob: 0.0000
+Token: ' qualities' (ID: 28500), Prob: 0.0000
+Token: ' activities' (ID: 7488), Prob: 0.0000
+Token: ' hints' (ID: 30643), Prob: 0.0000
+Token: ' triggers' (ID: 30754), Prob: 0.0000
+Token: ' insights' (ID: 25709), Prob: 0.0000
+Token: ' point' (ID: 1459), Prob: 0.0000
+Token: ' keywords' (ID: 20844), Prob: 0.0000
+Token: ' positive' (ID: 6785), Prob: 0.0000
+Token: ' thoughts' (ID: 11303), Prob: 0.0000
+Token: ' inspir' (ID: 12690), Prob: 0.0000
 
 == Ranked Concepts (Clusters) ==
-Rank 1 | Centroid: ' sentence' | Score: 0.7031
-  Tokens: [' statement', ' sentence', ' statements', ' passage', ' phrase', ' paragraph', ' sentences']
-Rank 2 | Centroid: ' day' | Score: 0.1533
-  Tokens: [' time', ' date', ' moment', ' day']
-Rank 3 | Centroid: ' appropriate' | Score: 0.0479
-  Tokens: [' following', ' given', ' correct', ' best', ' two', ' first', ' possible', ' future', ' current', ' original', ' final', ' provided', ' logical', ' appropriate']
-Rank 4 | Centroid: ' conclusion' | Score: 0.0199
-  Tokens: [' answer', ' question', ' claim', ' argument', ' reason', ' conclusion', ' response', ' assumption']
-Rank 5 | Centroid: ' travelers' | Score: 0.0076
-  Tokens: [' traveler', ' travel', ' passenger', ' travelers', ' tourist', ' passengers', ' astronaut']
-Rank 6 | Centroid: ' woman' | Score: 0.0070
-  Tokens: [' person', ' user', ' student', ' woman', ' man', ' girl']
-Rank 7 | Centroid: ' friends' | Score: 0.0066
-  Tokens: [' friend', ' friends', ' friendship']
-Rank 8 | Centroid: ' restaurant' | Score: 0.0048
-  Tokens: [' lunch', ' meeting', ' meal', ' food', ' weather', ' movie', ' restaurant']
-Rank 9 | Centroid: ' writer' | Score: 0.0022
-  Tokens: [' speaker', ' author', ' writer', ' narrator']
-Rank 10 | Centroid: ' word' | Score: 0.0020
-  Tokens: [' word']
-Rank 11 | Centroid: ' conversation' | Score: 0.0017
-  Tokens: [' story', ' conversation', ' relationship']
-Rank 12 | Centroid: ' group' | Score: 0.0016
-  Tokens: [' world', ' group', ' number', ' pair', ' sequence']
-Rank 13 | Centroid: ' scenario' | Score: 0.0016
-  Tokens: [' scenario', ' situation', ' description']
-Rank 14 | Centroid: ' assistant' | Score: 0.0010
-  Tokens: [' assistant']
-Rank 15 | Centroid: ' journey' | Score: 0.0008
-  Tokens: [' trip', ' journey', ' movement']
-Rank 16 | Centroid: ' problem' | Score: 0.0006
-  Tokens: [' problem', ' subject', ' amount']
-Rank 17 | Centroid: ' fact' | Score: 0.0006
-  Tokens: [' fact', ' rest']
-Rank 18 | Centroid: ' option' | Score: 0.0006
-  Tokens: [' options', ' choice', ' option']
-Rank 19 | Centroid: ' event' | Score: 0.0005
-  Tokens: [' event', ' events']
-Rank 20 | Centroid: ' character' | Score: 0.0005
-  Tokens: [' character', ' characters']
-Rank 21 | Centroid: ' space' | Score: 0.0003
-  Tokens: [' space', ' room']
-Rank 22 | Centroid: ' action' | Score: 0.0003
-  Tokens: [' action']
-Rank 23 | Centroid: ' blank' | Score: 0.0002
-  Tokens: [' blank']
-Rank 24 | Centroid: ' information' | Score: 0.0001
-  Tokens: [' information']
+Rank 1 | Centroid: ' elements' | Score: 0.9922
+  Tokens: [' elements', ' element', 'elements', ' Elements']
+Rank 2 | Centroid: ' points' | Score: 0.0036
+  Tokens: [' points', ' main', ' content', ' point']
+Rank 3 | Centroid: ' parts' | Score: 0.0022
+  Tokens: [' components', ' parts', ' pieces', ' sections', ' items']
+Rank 4 | Centroid: ' details' | Score: 0.0010
+  Tokens: [' details', ' information', ' detail']
+Rank 5 | Centroid: ' themes' | Score: 0.0009
+  Tokens: [' themes', ' theme', ' thematic', ' motifs']
+Rank 6 | Centroid: ' ideas' | Score: 0.0005
+  Tokens: [' ideas', ' concepts', ' idea', ' concept', ' thoughts']
+Rank 7 | Centroid: ' events' | Score: 0.0003
+  Tokens: [' events', ' moments', ' event', ' actions', ' incidents', ' activities']
+Rank 8 | Centroid: ' emotions' | Score: 0.0001
+  Tokens: [' emotions', ' emotional', ' emotion', ' sentiment', ' mood', ' sensory']
+Rank 9 | Centroid: ' characters' | Score: 0.0001
+  Tokens: [' characters', ' character']
+Rank 10 | Centroid: ' narrative' | Score: 0.0001
+  Tokens: [' plot', ' narrative', ' story', ' storyline']
+Rank 11 | Centroid: ' characteristics' | Score: 0.0001
+  Tokens: [' aspects', ' features', ' attributes', ' traits', ' characteristics', ' factors', ' qualities']
+Rank 12 | Centroid: ' ingredients' | Score: 0.0000
+  Tokens: [' ingredients', ' symbols']
+Rank 13 | Centroid: ' sentences' | Score: 0.0000
+  Tokens: [' phrases', ' words', ' messages', ' sentences', ' names', ' sentence', ' nouns', ' keywords']
+Rank 14 | Centroid: ' scenes' | Score: 0.0000
+  Tokens: [' scenes', ' scene', ' scenarios']
+Rank 15 | Centroid: ' suggestions' | Score: 0.0000
+  Tokens: [' clues', ' suggestions', ' recommendations', ' inspiration', ' hints', ' insights', ' inspir']
+Rank 16 | Centroid: ' message' | Score: 0.0000
+  Tokens: [' message', ' positive']
+Rank 17 | Centroid: ' subjects' | Score: 0.0000
+  Tokens: [' subjects', ' subject', ' topics']
+Rank 18 | Centroid: ' images' | Score: 0.0000
+  Tokens: [' images', ' figures', ' image', ' imagery']
+Rank 19 | Centroid: ' prompts' | Score: 0.0000
+  Tokens: [' prompts', ' creative', ' prompt', ' triggers']
+Rank 20 | Centroid: ' locations' | Score: 0.0000
+  Tokens: [' locations', ' roles', ' areas']
+Rank 21 | Centroid: ' attractions' | Score: 0.0000
+  Tokens: [' attractions', ' experiences', ' interests']
+Rank 22 | Centroid: ' setting' | Score: 0.0000
+  Tokens: [' setting', ' settings']
+Rank 23 | Centroid: ' facts' | Score: 0.0000
+  Tokens: [' facts']
+Rank 24 | Centroid: ' entities' | Score: 0.0000
+  Tokens: [' entities']
+Rank 25 | Centroid: ' requirements' | Score: 0.0000
+  Tokens: [' requirements']
+Rank 26 | Centroid: ' conflict' | Score: 0.0000
+  Tokens: [' conflict']
 
 **Chosen Concept:** Rank 1

@@ -1,0 +1,96 @@
+--- Step 137 Log ---
+
+== Filtered Candidates ==
+Token: ' Scene' (ID: 17494), Prob: 0.9844
+Token: ' Second' (ID: 10440), Prob: 0.0007
+Token: ' Scenes' (ID: 83183), Prob: 0.0006
+Token: ' Scenario' (ID: 58663), Prob: 0.0005
+Token: ' Two' (ID: 9043), Prob: 0.0003
+Token: 'Scene' (ID: 10019), Prob: 0.0002
+Token: ' One' (ID: 3776), Prob: 0.0002
+Token: ' Story' (ID: 15106), Prob: 0.0001
+Token: ' Three' (ID: 14513), Prob: 0.0001
+Token: ' scene' (ID: 6109), Prob: 0.0001
+Token: ' First' (ID: 5512), Prob: 0.0001
+Token: ' Also' (ID: 7281), Prob: 0.0001
+Token: ' Let' (ID: 6771), Prob: 0.0001
+Token: ' Setting' (ID: 20037), Prob: 0.0001
+Token: ' Sentence' (ID: 79542), Prob: 0.0001
+Token: ' Narrative' (ID: 95721), Prob: 0.0000
+Token: ' Five' (ID: 20924), Prob: 0.0000
+Token: ' Set' (ID: 2573), Prob: 0.0000
+Token: ' Character' (ID: 15633), Prob: 0.0000
+Token: ' Describe' (ID: 60785), Prob: 0.0000
+Token: ' Next' (ID: 9295), Prob: 0.0000
+Token: ' Please' (ID: 5209), Prob: 0.0000
+Token: ' Include' (ID: 29734), Prob: 0.0000
+Token: ' Six' (ID: 18680), Prob: 0.0000
+Token: ' Visual' (ID: 20185), Prob: 0.0000
+Token: ' Additionally' (ID: 22406), Prob: 0.0000
+Token: ' Description' (ID: 7662), Prob: 0.0000
+Token: ' Third' (ID: 20861), Prob: 0.0000
+Token: ' Use' (ID: 5443), Prob: 0.0000
+Token: ' However' (ID: 4354), Prob: 0.0000
+Token: ' Section' (ID: 11113), Prob: 0.0000
+Token: ' Chapter' (ID: 15585), Prob: 0.0000
+Token: ' Place' (ID: 10771), Prob: 0.0000
+Token: ' Script' (ID: 13710), Prob: 0.0000
+Token: ' Four' (ID: 13322), Prob: 0.0000
+Token: ' Must' (ID: 15465), Prob: 0.0000
+Token: ' Example' (ID: 13383), Prob: 0.0000
+Token: ' Narr' (ID: 56869), Prob: 0.0000
+Token: ' House' (ID: 4678), Prob: 0.0000
+Token: ' Write' (ID: 9645), Prob: 0.0000
+Token: ' Page' (ID: 5755), Prob: 0.0000
+Token: ' Show' (ID: 6928), Prob: 0.0000
+Token: ' Since' (ID: 8704), Prob: 0.0000
+Token: ' Science' (ID: 9965), Prob: 0.0000
+Token: ' Therefore' (ID: 15277), Prob: 0.0000
+Token: ' Moment' (ID: 38996), Prob: 0.0000
+Token: ' Including' (ID: 55121), Prob: 0.0000
+Token: ' Sub' (ID: 3719), Prob: 0.0000
+Token: ' Within' (ID: 24236), Prob: 0.0000
+Token: ' Starting' (ID: 27657), Prob: 0.0000
+Token: ' See' (ID: 3496), Prob: 0.0000
+Token: ' Image' (ID: 4654), Prob: 0.0000
+Token: ' Plot' (ID: 26033), Prob: 0.0000
+
+== Ranked Concepts (Clusters) ==
+Rank 1 | Centroid: ' Scene' | Score: 0.9844
+  Tokens: [' Scene', ' Scenes', ' Scenario', 'Scene', ' scene']
+Rank 2 | Centroid: ' Second' | Score: 0.0008
+  Tokens: [' Second', ' First', ' Next', ' Third']
+Rank 3 | Centroid: ' Three' | Score: 0.0007
+  Tokens: [' Two', ' One', ' Three', ' Five', ' Six', ' Four']
+Rank 4 | Centroid: ' Narrative' | Score: 0.0003
+  Tokens: [' Story', ' Sentence', ' Narrative', ' Character', ' Narr']
+Rank 5 | Centroid: ' Additionally' | Score: 0.0002
+  Tokens: [' Also', ' Please', ' Additionally', ' However', ' Since', ' Therefore', ' Within']
+Rank 6 | Centroid: ' Setting' | Score: 0.0001
+  Tokens: [' Setting', ' Set']
+Rank 7 | Centroid: ' Let' | Score: 0.0001
+  Tokens: [' Let', ' See']
+Rank 8 | Centroid: ' Chapter' | Score: 0.0001
+  Tokens: [' Section', ' Chapter', ' Example', ' Page']
+Rank 9 | Centroid: ' Describe' | Score: 0.0001
+  Tokens: [' Describe', ' Description']
+Rank 10 | Centroid: ' Visual' | Score: 0.0000
+  Tokens: [' Visual', ' Moment', ' Plot']
+Rank 11 | Centroid: ' Write' | Score: 0.0000
+  Tokens: [' Use', ' Write', ' Show']
+Rank 12 | Centroid: ' Include' | Score: 0.0000
+  Tokens: [' Include', ' Including']
+Rank 13 | Centroid: ' Place' | Score: 0.0000
+  Tokens: [' Place', ' Must']
+Rank 14 | Centroid: ' Script' | Score: 0.0000
+  Tokens: [' Script', ' Science']
+Rank 15 | Centroid: ' House' | Score: 0.0000
+  Tokens: [' House']
+Rank 16 | Centroid: ' Sub' | Score: 0.0000
+  Tokens: [' Sub']
+Rank 17 | Centroid: ' Starting' | Score: 0.0000
+  Tokens: [' Starting']
+Rank 18 | Centroid: ' Image' | Score: 0.0000
+  Tokens: [' Image']
+
+**Chosen Concept:** Rank 1

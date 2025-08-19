@@ -1,148 +1,123 @@
 --- Step 15 Log ---
 
 == Filtered Candidates ==
-Token: ' prompt' (ID: 9934), Prob: 0.5586
-Token: ' question' (ID: 3405), Prob: 0.1602
-Token: ' problem' (ID: 3491), Prob: 0.0405
-Token: ' original' (ID: 4024), Prob: 0.0245
-Token: ' first' (ID: 1156), Prob: 0.0190
-Token: ' text' (ID: 1467), Prob: 0.0131
-Token: ' beginning' (ID: 7167), Prob: 0.0109
-Token: ' story' (ID: 3364), Prob: 0.0085
-Token: ' paragraph' (ID: 14311), Prob: 0.0066
-Token: ' given' (ID: 2661), Prob: 0.0062
-Token: ' description' (ID: 4008), Prob: 0.0058
-Token: ' query' (ID: 3239), Prob: 0.0055
-Token: ' initial' (ID: 2856), Prob: 0.0048
-Token: ' article' (ID: 4549), Prob: 0.0048
-Token: ' box' (ID: 3745), Prob: 0.0040
-Token: ' passage' (ID: 21085), Prob: 0.0038
-Token: ' post' (ID: 1736), Prob: 0.0033
-Token: ' poem' (ID: 32794), Prob: 0.0033
-Token: ' opening' (ID: 8568), Prob: 0.0029
-Token: ' scenario' (ID: 15048), Prob: 0.0027
-Token: ' user' (ID: 1196), Prob: 0.0026
-Token: ' answer' (ID: 4226), Prob: 0.0023
-Token: ' Question' (ID: 15846), Prob: 0.0023
-Token: ' following' (ID: 2701), Prob: 0.0021
-Token: ' example' (ID: 3110), Prob: 0.0018
-Token: ' character' (ID: 3668), Prob: 0.0016
-Token: ' message' (ID: 1943), Prob: 0.0013
-Token: ' instructions' (ID: 11221), Prob: 0.0013
-Token: ' input' (ID: 1946), Prob: 0.0012
-Token: ' second' (ID: 2086), Prob: 0.0012
-Token: ' quote' (ID: 12641), Prob: 0.0012
-Token: ' questions' (ID: 4755), Prob: 0.0011
-Token: ' image' (ID: 2168), Prob: 0.0010
-Token: ' options' (ID: 2606), Prob: 0.0010
-Token: ' narrative' (ID: 19221), Prob: 0.0010
-Token: ' sentence' (ID: 11652), Prob: 0.0009
-Token: ' bold' (ID: 13939), Prob: 0.0009
-Token: ' provided' (ID: 3897), Prob: 0.0008
-Token: ' instruction' (ID: 7600), Prob: 0.0008
-Token: ' context' (ID: 2266), Prob: 0.0008
-Token: ' puzzle' (ID: 24626), Prob: 0.0008
-Token: ' list' (ID: 1140), Prob: 0.0007
-Token: ' title' (ID: 2265), Prob: 0.0007
-Token: ' JSON' (ID: 4718), Prob: 0.0007
-Token: ' response' (ID: 2033), Prob: 0.0007
-Token: ' code' (ID: 2038), Prob: 0.0007
-Token: ' statement' (ID: 5114), Prob: 0.0007
-Token: ' Prompt' (ID: 59501), Prob: 0.0007
-Token: ' top' (ID: 1909), Prob: 0.0006
-Token: ' background' (ID: 4004), Prob: 0.0006
-Token: ' header' (ID: 4247), Prob: 0.0006
-Token: ' premise' (ID: 40202), Prob: 0.0006
-Token: ' item' (ID: 1509), Prob: 0.0005
-Token: ' previous' (ID: 3681), Prob: 0.0005
-Token: ' scene' (ID: 6109), Prob: 0.0005
-Token: ' picture' (ID: 6802), Prob: 0.0005
-Token: ' heading' (ID: 14496), Prob: 0.0005
-Token: ' prompts' (ID: 50932), Prob: 0.0005
-Token: ' current' (ID: 1482), Prob: 0.0004
-Token: ' body' (ID: 2487), Prob: 0.0004
-Token: ' child' (ID: 1682), Prob: 0.0004
-Token: ' parent' (ID: 2681), Prob: 0.0004
-Token: ' section' (ID: 3772), Prob: 0.0004
-Token: ' chart' (ID: 9487), Prob: 0.0004
-Token: ' main' (ID: 1887), Prob: 0.0004
-Token: ' table' (ID: 1965), Prob: 0.0004
-Token: ' word' (ID: 3409), Prob: 0.0004
-Token: ' choices' (ID: 11454), Prob: 0.0004
-Token: ' game' (ID: 1809), Prob: 0.0003
-Token: ' blog' (ID: 5010), Prob: 0.0003
-Token: ' characters' (ID: 5766), Prob: 0.0003
-Token: ' poster' (ID: 22361), Prob: 0.0003
-Token: ' order' (ID: 1973), Prob: 0.0003
-Token: ' short' (ID: 2805), Prob: 0.0003
-Token: ' photo' (ID: 6548), Prob: 0.0003
-Token: ' widget' (ID: 9086), Prob: 0.0003
-Token: ' quotes' (ID: 17194), Prob: 0.0003
-Token: ' document' (ID: 2197), Prob: 0.0003
-Token: ' note' (ID: 5185), Prob: 0.0003
-Token: ' correct' (ID: 4396), Prob: 0.0003
-Token: ' HTML' (ID: 9308), Prob: 0.0003
-Token: ' setup' (ID: 6505), Prob: 0.0003
-Token: ' book' (ID: 2311), Prob: 0.0003
-Token: ' square' (ID: 9334), Prob: 0.0003
-Token: ' introduction' (ID: 16800), Prob: 0.0003
-Token: ' trivia' (ID: 72932), Prob: 0.0003
-Token: ' exact' (ID: 4734), Prob: 0.0002
-Token: ' tag' (ID: 4772), Prob: 0.0002
-Token: ' middle' (ID: 6149), Prob: 0.0002
+Token: ' based' (ID: 3118), Prob: 0.9297
+Token: ' starting' (ID: 5916), Prob: 0.0007
+Token: ' inspired' (ID: 14606), Prob: 0.0001
+Token: ' using' (ID: 1667), Prob: 0.0001
+Token: ' following' (ID: 2701), Prob: 0.0001
+Token: ' around' (ID: 2163), Prob: 0.0000
+Token: ' story' (ID: 3364), Prob: 0.0000
+Token: ' base' (ID: 2331), Prob: 0.0000
+Token: ' according' (ID: 4092), Prob: 0.0000
+Token: ' centered' (ID: 30188), Prob: 0.0000
+Token: 'based' (ID: 29939), Prob: 0.0000
+Token: ' taking' (ID: 4633), Prob: 0.0000
+Token: ' incorporating' (ID: 51813), Prob: 0.0000
+Token: ' bas' (ID: 3046), Prob: 0.0000
+Token: ' similar' (ID: 4428), Prob: 0.0000
+Token: ' focusing' (ID: 21080), Prob: 0.0000
+Token: ' describing' (ID: 22692), Prob: 0.0000
+Token: ' without' (ID: 2041), Prob: 0.0000
+Token: ' detailing' (ID: 44193), Prob: 0.0000
+Token: ' derived' (ID: 14257), Prob: 0.0000
+Token: ' summar' (ID: 28285), Prob: 0.0000
+Token: ' highlighting' (ID: 38586), Prob: 0.0000
+Token: ' rooted' (ID: 40876), Prob: 0.0000
+Token: ' excerpt' (ID: 49465), Prob: 0.0000
+Token: ' summary' (ID: 12126), Prob: 0.0000
+Token: ' given' (ID: 2661), Prob: 0.0000
+Token: ' combining' (ID: 34171), Prob: 0.0000
+Token: ' beginning' (ID: 7167), Prob: 0.0000
+Token: ' telling' (ID: 11629), Prob: 0.0000
+Token: ' featuring' (ID: 16445), Prob: 0.0000
+Token: ' version' (ID: 2319), Prob: 0.0000
+Token: ' outline' (ID: 21101), Prob: 0.0000
+Token: '-based' (ID: 5980), Prob: 0.0000
+Token: ' going' (ID: 2087), Prob: 0.0000
+Token: ' written' (ID: 5326), Prob: 0.0000
+Token: ' Based' (ID: 20205), Prob: 0.0000
+Token: ' related' (ID: 5435), Prob: 0.0000
+Token: ' start' (ID: 1191), Prob: 0.0000
+Token: ' follow' (ID: 1795), Prob: 0.0000
+Token: ' script' (ID: 5316), Prob: 0.0000
+Token: ' covering' (ID: 18202), Prob: 0.0000
+Token: ' copy' (ID: 2975), Prob: 0.0000
+Token: ' connecting' (ID: 20913), Prob: 0.0000
+Token: 'Based' (ID: 28715), Prob: 0.0000
+Token: ' titled' (ID: 24849), Prob: 0.0000
+Token: ' continuation' (ID: 41171), Prob: 0.0000
+Token: ' writing' (ID: 4378), Prob: 0.0000
+Token: ' like' (ID: 1075), Prob: 0.0000
+Token: ' blending' (ID: 55841), Prob: 0.0000
+Token: ' short' (ID: 2805), Prob: 0.0000
+Token: ' building' (ID: 4752), Prob: 0.0000
+Token: ' involving' (ID: 15860), Prob: 0.0000
+Token: ' linking' (ID: 30699), Prob: 0.0000
+Token: ' person' (ID: 1697), Prob: 0.0000
+Token: ' keeping' (ID: 10282), Prob: 0.0000
+Token: ' storytelling' (ID: 47829), Prob: 0.0000
+Token: ' response' (ID: 2033), Prob: 0.0000
+Token: ' told' (ID: 3229), Prob: 0.0000
+Token: ' influenced' (ID: 27061), Prob: 0.0000
+Token: ' stemming' (ID: 75944), Prob: 0.0000
+Token: ' focused' (ID: 10735), Prob: 0.0000
+Token: ' making' (ID: 3259), Prob: 0.0000
+Token: ' built' (ID: 5798), Prob: 0.0000
+Token: ' outlining' (ID: 78674), Prob: 0.0000
+Token: ' started' (ID: 3855), Prob: 0.0000
+Token: ' almost' (ID: 4558), Prob: 0.0000
+Token: ' drawing' (ID: 13330), Prob: 0.0000
+Token: ' capturing' (ID: 39780), Prob: 0.0000
+Token: ' description' (ID: 4008), Prob: 0.0000
+Token: ' adding' (ID: 7842), Prob: 0.0000
+Token: ' mir' (ID: 8652), Prob: 0.0000
+Token: ' narr' (ID: 13408), Prob: 0.0000
+Token: ' tailored' (ID: 40791), Prob: 0.0000
+Token: ' including' (ID: 2670), Prob: 0.0000
 
 == Ranked Concepts (Clusters) ==
-Rank 1 | Centroid: ' prompt' | Score: 0.5586
-  Tokens: [' prompt', ' Prompt', ' prompts']
-Rank 2 | Centroid: ' question' | Score: 0.2119
-  Tokens: [' question', ' problem', ' query', ' answer', ' Question', ' questions']
-Rank 3 | Centroid: ' initial' | Score: 0.0532
-  Tokens: [' original', ' first', ' initial', ' following', ' second', ' previous', ' current', ' square', ' middle']
-Rank 4 | Centroid: ' text' | Score: 0.0187
-  Tokens: [' text', ' article', ' word', ' document']
-Rank 5 | Centroid: ' opening' | Score: 0.0140
-  Tokens: [' beginning', ' opening', ' introduction']
-Rank 6 | Centroid: ' picture' | Score: 0.0114
-  Tokens: [' story', ' image', ' narrative', ' picture', ' photo']
-Rank 7 | Centroid: ' paragraph' | Score: 0.0113
-  Tokens: [' paragraph', ' passage', ' sentence']
-Rank 8 | Centroid: ' instructions' | Score: 0.0086
-  Tokens: [' description', ' instructions', ' instruction', ' statement']
-Rank 9 | Centroid: ' provided' | Score: 0.0082
-  Tokens: [' given', ' input', ' provided']
-Rank 10 | Centroid: ' scenario' | Score: 0.0061
-  Tokens: [' scenario', ' example', ' context', ' scene', ' setup']
-Rank 11 | Centroid: ' book' | Score: 0.0058
-  Tokens: [' box', ' code', ' item', ' table', ' book']
-Rank 12 | Centroid: ' child' | Score: 0.0044
-  Tokens: [' user', ' top', ' child', ' parent', ' main']
-Rank 13 | Centroid: ' blog' | Score: 0.0041
-  Tokens: [' poem', ' chart', ' blog']
-Rank 14 | Centroid: ' post' | Score: 0.0037
-  Tokens: [' post', ' poster']
-Rank 15 | Centroid: ' heading' | Score: 0.0029
-  Tokens: [' title', ' header', ' heading', ' body', ' section', ' tag']
-Rank 16 | Centroid: ' message' | Score: 0.0020
-  Tokens: [' message', ' response']
-Rank 17 | Centroid: ' options' | Score: 0.0019
-  Tokens: [' options', ' choices', ' correct', ' exact']
-Rank 18 | Centroid: ' character' | Score: 0.0019
-  Tokens: [' character', ' characters']
-Rank 19 | Centroid: ' quotes' | Score: 0.0018
-  Tokens: [' quote', ' quotes', ' trivia']
-Rank 20 | Centroid: ' HTML' | Score: 0.0013
-  Tokens: [' JSON', ' widget', ' HTML']
-Rank 21 | Centroid: ' background' | Score: 0.0012
-  Tokens: [' background', ' premise']
-Rank 22 | Centroid: ' puzzle' | Score: 0.0011
-  Tokens: [' puzzle', ' game']
-Rank 23 | Centroid: ' list' | Score: 0.0011
-  Tokens: [' list', ' order']
-Rank 24 | Centroid: ' bold' | Score: 0.0009
-  Tokens: [' bold']
-Rank 25 | Centroid: ' short' | Score: 0.0003
-  Tokens: [' short']
-Rank 26 | Centroid: ' note' | Score: 0.0003
-  Tokens: [' note']
+Rank 1 | Centroid: ' Based' | Score: 0.9297
+  Tokens: [' based', 'based', '-based', ' Based', 'Based']
+Rank 2 | Centroid: ' start' | Score: 0.0007
+  Tokens: [' starting', ' beginning', ' start', ' started']
+Rank 3 | Centroid: ' inspired' | Score: 0.0001
+  Tokens: [' inspired', ' similar', ' derived', ' related', ' influenced']
+Rank 4 | Centroid: ' taking' | Score: 0.0001
+  Tokens: [' using', ' taking', ' going', ' keeping', ' making', ' adding']
+Rank 5 | Centroid: ' following' | Score: 0.0001
+  Tokens: [' following', ' follow']
+Rank 6 | Centroid: ' without' | Score: 0.0000
+  Tokens: [' around', ' without', ' like', ' almost']
+Rank 7 | Centroid: ' storytelling' | Score: 0.0000
+  Tokens: [' story', ' telling', ' storytelling', ' told', ' narr']
+Rank 8 | Centroid: ' base' | Score: 0.0000
+  Tokens: [' base', ' bas']
+Rank 9 | Centroid: ' tailored' | Score: 0.0000
+  Tokens: [' centered', ' rooted', ' titled', ' focused', ' tailored']
+Rank 10 | Centroid: ' according' | Score: 0.0000
+  Tokens: [' according', ' given']
+Rank 11 | Centroid: ' summary' | Score: 0.0000
+  Tokens: [' describing', ' summar', ' excerpt', ' summary', ' outline', ' description']
+Rank 12 | Centroid: ' incorporating' | Score: 0.0000
+  Tokens: [' incorporating', ' combining', ' featuring', ' involving', ' including']
+Rank 13 | Centroid: ' outlining' | Score: 0.0000
+  Tokens: [' detailing', ' highlighting', ' outlining']
+Rank 14 | Centroid: ' focusing' | Score: 0.0000
+  Tokens: [' focusing']
+Rank 15 | Centroid: ' version' | Score: 0.0000
+  Tokens: [' version', ' script', ' copy', ' short', ' person', ' response']
+Rank 16 | Centroid: ' linking' | Score: 0.0000
+  Tokens: [' covering', ' connecting', ' blending', ' linking', ' capturing']
+Rank 17 | Centroid: ' written' | Score: 0.0000
+  Tokens: [' written', ' writing']
+Rank 18 | Centroid: ' building' | Score: 0.0000
+  Tokens: [' building', ' built', ' drawing']
+Rank 19 | Centroid: ' continuation' | Score: 0.0000
+  Tokens: [' continuation']
+Rank 20 | Centroid: ' stemming' | Score: 0.0000
+  Tokens: [' stemming']
+Rank 21 | Centroid: ' mir' | Score: 0.0000
+  Tokens: [' mir']
 
 **Chosen Concept:** Rank 1

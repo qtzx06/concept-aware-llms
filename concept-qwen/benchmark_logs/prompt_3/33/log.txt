@@ -1,0 +1,104 @@
+--- Step 33 Log ---
+
+== Filtered Candidates ==
+Token: ' sensing' (ID: 59099), Prob: 0.5234
+Token: ' sensed' (ID: 88442), Prob: 0.0806
+Token: ' something' (ID: 2494), Prob: 0.0295
+Token: ' feeling' (ID: 8266), Prob: 0.0231
+Token: ' someone' (ID: 4325), Prob: 0.0140
+Token: ' starting' (ID: 5916), Prob: 0.0085
+Token: ' strange' (ID: 14888), Prob: 0.0051
+Token: ' maybe' (ID: 7196), Prob: 0.0040
+Token: ' leading' (ID: 6388), Prob: 0.0026
+Token: ' perhaps' (ID: 8365), Prob: 0.0023
+Token: ' possibly' (ID: 10767), Prob: 0.0013
+Token: ' sense' (ID: 5530), Prob: 0.0011
+Token: ' showing' (ID: 9027), Prob: 0.0011
+Token: ' acting' (ID: 15358), Prob: 0.0010
+Token: ' causing' (ID: 14381), Prob: 0.0009
+Token: ' seeming' (ID: 75695), Prob: 0.0009
+Token: ' thinking' (ID: 7274), Prob: 0.0009
+Token: ' noticing' (ID: 61364), Prob: 0.0009
+Token: ' started' (ID: 3855), Prob: 0.0008
+Token: ' experiencing' (ID: 24084), Prob: 0.0007
+Token: ' perceived' (ID: 25536), Prob: 0.0007
+Token: ' implying' (ID: 72867), Prob: 0.0007
+Token: ' knowing' (ID: 14063), Prob: 0.0006
+Token: ' seemingly' (ID: 22660), Prob: 0.0006
+Token: ' seeing' (ID: 9120), Prob: 0.0005
+Token: ' others' (ID: 3800), Prob: 0.0005
+Token: ' indicating' (ID: 18860), Prob: 0.0005
+Token: ' hearing' (ID: 10778), Prob: 0.0004
+Token: ' suggesting' (ID: 22561), Prob: 0.0004
+Token: ' people' (ID: 1251), Prob: 0.0003
+Token: ' talking' (ID: 7404), Prob: 0.0003
+Token: ' getting' (ID: 3709), Prob: 0.0003
+Token: ' felt' (ID: 6476), Prob: 0.0003
+Token: ' things' (ID: 2513), Prob: 0.0003
+Token: ' trying' (ID: 4460), Prob: 0.0003
+Token: ' observing' (ID: 44971), Prob: 0.0003
+Token: ' initially' (ID: 15102), Prob: 0.0003
+Token: ' potentially' (ID: 13581), Prob: 0.0002
+Token: ' senses' (ID: 37107), Prob: 0.0002
+Token: ' witnessing' (ID: 68942), Prob: 0.0002
+Token: ' making' (ID: 3259), Prob: 0.0002
+Token: ' surprising' (ID: 14861), Prob: 0.0002
+Token: ' misunderstanding' (ID: 69747), Prob: 0.0002
+Token: ' beginning' (ID: 7167), Prob: 0.0002
+Token: ' noticed' (ID: 13686), Prob: 0.0002
+Token: ' unexpected' (ID: 16500), Prob: 0.0002
+Token: ' forming' (ID: 29064), Prob: 0.0002
+Token: ' unaware' (ID: 40647), Prob: 0.0002
+Token: ' understanding' (ID: 8660), Prob: 0.0002
+Token: ' initial' (ID: 2856), Prob: 0.0001
+Token: ' mis' (ID: 5786), Prob: 0.0001
+Token: ' sensitive' (ID: 16216), Prob: 0.0001
+Token: ' happening' (ID: 12482), Prob: 0.0001
+Token: ' somehow' (ID: 16925), Prob: 0.0001
+Token: ' realizing' (ID: 43014), Prob: 0.0001
+Token: ' meeting' (ID: 6438), Prob: 0.0001
+Token: ' becoming' (ID: 10454), Prob: 0.0001
+Token: ' feelings' (ID: 15650), Prob: 0.0001
+Token: ' terrible' (ID: 17478), Prob: 0.0001
+Token: ' misunderstood' (ID: 72856), Prob: 0.0001
+Token: ' unusual' (ID: 18511), Prob: 0.0001
+Token: ' appearing' (ID: 25377), Prob: 0.0001
+Token: ' new' (ID: 501), Prob: 0.0001
+Token: ' without' (ID: 2041), Prob: 0.0001
+Token: ' another' (ID: 2441), Prob: 0.0001
+Token: ' recognizing' (ID: 48083), Prob: 0.0001
+Token: ' reacting' (ID: 73050), Prob: 0.0001
+
+== Ranked Concepts (Clusters) ==
+Rank 1 | Centroid: ' sensing' | Score: 0.6055
+  Tokens: [' sensing', ' sensed', ' sense', ' senses', ' sensitive']
+Rank 2 | Centroid: ' something' | Score: 0.0299
+  Tokens: [' something', ' things', ' somehow']
+Rank 3 | Centroid: ' feeling' | Score: 0.0242
+  Tokens: [' feeling', ' perceived', ' felt', ' feelings']
+Rank 4 | Centroid: ' someone' | Score: 0.0150
+  Tokens: [' someone', ' others', ' people', ' another']
+Rank 5 | Centroid: ' starting' | Score: 0.0098
+  Tokens: [' starting', ' started', ' initially', ' beginning', ' initial']
+Rank 6 | Centroid: ' possibly' | Score: 0.0084
+  Tokens: [' maybe', ' perhaps', ' possibly', ' seemingly', ' potentially']
+Rank 7 | Centroid: ' indicating' | Score: 0.0066
+  Tokens: [' leading', ' showing', ' causing', ' implying', ' indicating', ' suggesting', ' making', ' forming']
+Rank 8 | Centroid: ' strange' | Score: 0.0057
+  Tokens: [' strange', ' surprising', ' unexpected', ' terrible', ' unusual']
+Rank 9 | Centroid: ' noticing' | Score: 0.0034
+  Tokens: [' noticing', ' experiencing', ' knowing', ' seeing', ' observing', ' witnessing', ' realizing', ' recognizing']
+Rank 10 | Centroid: ' getting' | Score: 0.0023
+  Tokens: [' acting', ' talking', ' getting', ' trying', ' happening', ' becoming', ' reacting']
+Rank 11 | Centroid: ' hearing' | Score: 0.0015
+  Tokens: [' thinking', ' hearing', ' meeting']
+Rank 12 | Centroid: ' seeming' | Score: 0.0011
+  Tokens: [' seeming', ' appearing']
+Rank 13 | Centroid: ' misunderstanding' | Score: 0.0008
+  Tokens: [' misunderstanding', ' unaware', ' understanding', ' mis', ' misunderstood']
+Rank 14 | Centroid: ' new' | Score: 0.0002
+  Tokens: [' new', ' without']
+Rank 15 | Centroid: ' noticed' | Score: 0.0002
+  Tokens: [' noticed']
+
+**Chosen Concept:** Rank 1

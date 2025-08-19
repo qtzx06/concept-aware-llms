@@ -1,140 +1,142 @@
 --- Step 26 Log ---
 
 == Filtered Candidates ==
-Token: ' family' (ID: 2997), Prob: 0.9961
-Token: ' home' (ID: 2114), Prob: 0.0007
-Token: ' company' (ID: 2813), Prob: 0.0003
-Token: ' world' (ID: 1879), Prob: 0.0002
-Token: ' house' (ID: 3753), Prob: 0.0001
-Token: ' future' (ID: 3853), Prob: 0.0001
-Token: ' room' (ID: 3054), Prob: 0.0001
-Token: ' Family' (ID: 12238), Prob: 0.0001
-Token: ' parent' (ID: 2681), Prob: 0.0001
-Token: ' parents' (ID: 6562), Prob: 0.0001
-Token: ' country' (ID: 3146), Prob: 0.0001
-Token: ' mother' (ID: 6554), Prob: 0.0001
-Token: ' household' (ID: 13732), Prob: 0.0000
-Token: ' new' (ID: 501), Prob: 0.0000
-Token: ' way' (ID: 1616), Prob: 0.0000
-Token: ' next' (ID: 1790), Prob: 0.0000
-Token: ' families' (ID: 8521), Prob: 0.0000
-Token: ' child' (ID: 1682), Prob: 0.0000
-Token: ' factory' (ID: 8633), Prob: 0.0000
-Token: ' system' (ID: 1849), Prob: 0.0000
-Token: ' school' (ID: 2906), Prob: 0.0000
-Token: ' community' (ID: 3942), Prob: 0.0000
-Token: ' field' (ID: 2070), Prob: 0.0000
-Token: 'family' (ID: 18984), Prob: 0.0000
-Token: ' environment' (ID: 4573), Prob: 0.0000
-Token: ' name' (ID: 829), Prob: 0.0000
-Token: ' father' (ID: 6981), Prob: 0.0000
-Token: ' care' (ID: 2453), Prob: 0.0000
-Token: ' following' (ID: 2701), Prob: 0.0000
-Token: ' hospital' (ID: 8777), Prob: 0.0000
-Token: ' party' (ID: 4614), Prob: 0.0000
-Token: ' farm' (ID: 8785), Prob: 0.0000
-Token: ' first' (ID: 1156), Prob: 0.0000
-Token: ' children' (ID: 2841), Prob: 0.0000
-Token: ' year' (ID: 1042), Prob: 0.0000
-Token: ' group' (ID: 1874), Prob: 0.0000
-Token: ' day' (ID: 1899), Prob: 0.0000
-Token: ' old' (ID: 2310), Prob: 0.0000
-Token: ' relationship' (ID: 5025), Prob: 0.0000
-Token: ' familial' (ID: 97204), Prob: 0.0000
-Token: ' class' (ID: 536), Prob: 0.0000
-Token: ' study' (ID: 3920), Prob: 0.0000
-Token: ' kitchen' (ID: 9780), Prob: 0.0000
-Token: ' familia' (ID: 50947), Prob: 0.0000
-Token: ' current' (ID: 1482), Prob: 0.0000
-Token: ' past' (ID: 3267), Prob: 0.0000
-Token: ' center' (ID: 4126), Prob: 0.0000
-Token: ' baby' (ID: 8770), Prob: 0.0000
-Token: ' nursing' (ID: 27356), Prob: 0.0000
-Token: ' parenting' (ID: 47958), Prob: 0.0000
-Token: ' right' (ID: 1290), Prob: 0.0000
-Token: ' market' (ID: 3081), Prob: 0.0000
-Token: ' city' (ID: 3283), Prob: 0.0000
-Token: ' money' (ID: 3220), Prob: 0.0000
-Token: ' workplace' (ID: 26368), Prob: 0.0000
-Token: ' nursery' (ID: 55126), Prob: 0.0000
-Token: ' work' (ID: 975), Prob: 0.0000
-Token: ' second' (ID: 2086), Prob: 0.0000
-Token: ' life' (ID: 2272), Prob: 0.0000
-Token: ' body' (ID: 2487), Prob: 0.0000
-Token: ' education' (ID: 6731), Prob: 0.0000
-Token: ' context' (ID: 2266), Prob: 0.0000
-Token: ' wrong' (ID: 4969), Prob: 0.0000
-Token: ' grand' (ID: 6662), Prob: 0.0000
-Token: 'Family' (ID: 15192), Prob: 0.0000
-Token: ' two' (ID: 1378), Prob: 0.0000
-Token: ' car' (ID: 1803), Prob: 0.0000
-Token: ' military' (ID: 6277), Prob: 0.0000
-Token: ' nation' (ID: 6995), Prob: 0.0000
-Token: ' public' (ID: 584), Prob: 0.0000
-Token: ' game' (ID: 1809), Prob: 0.0000
-Token: ' place' (ID: 1992), Prob: 0.0000
-Token: ' nuclear' (ID: 11249), Prob: 0.0000
-Token: ' fam' (ID: 2091), Prob: 0.0000
-Token: ' living' (ID: 5382), Prob: 0.0000
-Token: ' couple' (ID: 5625), Prob: 0.0000
-Token: ' society' (ID: 8232), Prob: 0.0000
-Token: ' economy' (ID: 8584), Prob: 0.0000
-Token: ' lab' (ID: 10072), Prob: 0.0000
-Token: ' garden' (ID: 13551), Prob: 0.0000
-Token: ' one' (ID: 825), Prob: 0.0000
-Token: ' time' (ID: 882), Prob: 0.0000
-Token: ' long' (ID: 1293), Prob: 0.0000
-Token: ' hope' (ID: 3900), Prob: 0.0000
-Token: ' age' (ID: 4231), Prob: 0.0000
-Token: ' industry' (ID: 4958), Prob: 0.0000
-Token: ' category' (ID: 5582), Prob: 0.0000
+Token: ' points' (ID: 3501), Prob: 0.7891
+Token: ' elements' (ID: 5424), Prob: 0.1992
+Token: ' parts' (ID: 5479), Prob: 0.0060
+Token: ' details' (ID: 3565), Prob: 0.0015
+Token: ' sentences' (ID: 22870), Prob: 0.0010
+Token: ' phrases' (ID: 31747), Prob: 0.0008
+Token: ' moments' (ID: 13943), Prob: 0.0003
+Token: ' events' (ID: 4357), Prob: 0.0001
+Token: ' components' (ID: 6813), Prob: 0.0001
+Token: ' lines' (ID: 5128), Prob: 0.0001
+Token: ' facts' (ID: 13064), Prob: 0.0001
+Token: ' info' (ID: 3546), Prob: 0.0001
+Token: ' statements' (ID: 12239), Prob: 0.0000
+Token: ' pieces' (ID: 9666), Prob: 0.0000
+Token: ' aspects' (ID: 13566), Prob: 0.0000
+Token: ' ideas' (ID: 6708), Prob: 0.0000
+Token: 'points' (ID: 7706), Prob: 0.0000
+Token: ' quotes' (ID: 17194), Prob: 0.0000
+Token: ' emotions' (ID: 21261), Prob: 0.0000
+Token: ' information' (ID: 1995), Prob: 0.0000
+Token: ' themes' (ID: 21386), Prob: 0.0000
+Token: ' clues' (ID: 42675), Prob: 0.0000
+Token: ' words' (ID: 4244), Prob: 0.0000
+Token: ' sentence' (ID: 11652), Prob: 0.0000
+Token: ' mentions' (ID: 33845), Prob: 0.0000
+Token: ' things' (ID: 2513), Prob: 0.0000
+Token: ' Points' (ID: 20725), Prob: 0.0000
+Token: ' part' (ID: 949), Prob: 0.0000
+Token: ' take' (ID: 1896), Prob: 0.0000
+Token: ' scenes' (ID: 16065), Prob: 0.0000
+Token: ' sentiment' (ID: 25975), Prob: 0.0000
+Token: ' messages' (ID: 6605), Prob: 0.0000
+Token: '_points' (ID: 12928), Prob: 0.0000
+Token: ' point' (ID: 1459), Prob: 0.0000
+Token: ' incidents' (ID: 23546), Prob: 0.0000
+Token: ' sentiments' (ID: 57114), Prob: 0.0000
+Token: ' plot' (ID: 7089), Prob: 0.0000
+Token: ' thoughts' (ID: 11303), Prob: 0.0000
+Token: ' ingredients' (ID: 13966), Prob: 0.0000
+Token: ' observations' (ID: 23722), Prob: 0.0000
+Token: 'elements' (ID: 21423), Prob: 0.0000
+Token: ' actions' (ID: 6168), Prob: 0.0000
+Token: ' Elements' (ID: 34157), Prob: 0.0000
+Token: ' verbs' (ID: 61846), Prob: 0.0000
+Token: ' triggers' (ID: 30754), Prob: 0.0000
+Token: ' takes' (ID: 4990), Prob: 0.0000
+Token: ' instances' (ID: 13121), Prob: 0.0000
+Token: 'lines' (ID: 7969), Prob: 0.0000
+Token: ' event' (ID: 1538), Prob: 0.0000
+Token: ' emotional' (ID: 14269), Prob: 0.0000
+Token: ' feelings' (ID: 15650), Prob: 0.0000
+Token: ' segments' (ID: 20632), Prob: 0.0000
+Token: ' highlights' (ID: 21314), Prob: 0.0000
+Token: 'Points' (ID: 11411), Prob: 0.0000
+Token: ' spots' (ID: 18773), Prob: 0.0000
+Token: ' items' (ID: 3589), Prob: 0.0000
+Token: ' factors' (ID: 9363), Prob: 0.0000
+Token: ' dates' (ID: 12713), Prob: 0.0000
+Token: 'parts' (ID: 18252), Prob: 0.0000
+Token: ' clauses' (ID: 49098), Prob: 0.0000
+Token: ' cues' (ID: 55916), Prob: 0.0000
+Token: ' pairs' (ID: 13530), Prob: 0.0000
+Token: ' features' (ID: 4419), Prob: 0.0000
+Token: ' characters' (ID: 5766), Prob: 0.0000
+Token: ' insights' (ID: 25709), Prob: 0.0000
+Token: ' bits' (ID: 9472), Prob: 0.0000
+Token: ' traits' (ID: 24055), Prob: 0.0000
+Token: ' experiences' (ID: 11449), Prob: 0.0000
+Token: ' concepts' (ID: 18940), Prob: 0.0000
+Token: ' people' (ID: 1251), Prob: 0.0000
+Token: ' notes' (ID: 8388), Prob: 0.0000
+Token: ' element' (ID: 2392), Prob: 0.0000
+Token: ' terms' (ID: 3793), Prob: 0.0000
+Token: ' sections' (ID: 14158), Prob: 0.0000
+Token: ' snippets' (ID: 68642), Prob: 0.0000
+Token: ' excerpts' (ID: 83390), Prob: 0.0000
+Token: ' message' (ID: 1943), Prob: 0.0000
+Token: ' premises' (ID: 33922), Prob: 0.0000
+Token: ' beats' (ID: 33327), Prob: 0.0000
+Token: ' hints' (ID: 30643), Prob: 0.0000
+Token: ' claims' (ID: 8186), Prob: 0.0000
+Token: ' reactions' (ID: 24473), Prob: 0.0000
+Token: ' senses' (ID: 37107), Prob: 0.0000
+Token: ' moment' (ID: 4445), Prob: 0.0000
+Token: ' nodes' (ID: 7798), Prob: 0.0000
+Token: ' areas' (ID: 5671), Prob: 0.0000
+Token: ' detail' (ID: 7716), Prob: 0.0000
+Token: ' topics' (ID: 13347), Prob: 0.0000
+Token: ' interactions' (ID: 21880), Prob: 0.0000
+Token: ' quote' (ID: 12641), Prob: 0.0000
+Token: ' sensory' (ID: 47969), Prob: 0.0000
+Token: ' line' (ID: 1555), Prob: 0.0000
+Token: ' players' (ID: 4217), Prob: 0.0000
+Token: ' statement' (ID: 5114), Prob: 0.0000
+Token: ' phrase' (ID: 17133), Prob: 0.0000
+Token: ' paragraphs' (ID: 42643), Prob: 0.0000
+Token: ' impressions' (ID: 49991), Prob: 0.0000
 
 == Ranked Concepts (Clusters) ==
-Rank 1 | Centroid: ' Family' | Score: 0.9961
-  Tokens: [' family', ' Family', ' families', 'family', ' familial', ' familia', 'Family', ' fam']
-Rank 2 | Centroid: ' house' | Score: 0.0010
-  Tokens: [' home', ' house', ' room', ' household']
-Rank 3 | Centroid: ' country' | Score: 0.0004
-  Tokens: [' company', ' country', ' party', ' city', ' nation']
-Rank 4 | Centroid: ' parents' | Score: 0.0003
-  Tokens: [' parent', ' parents', ' mother', ' child', ' father', ' children', ' baby', ' parenting']
-Rank 5 | Centroid: ' world' | Score: 0.0002
-  Tokens: [' world']
-Rank 6 | Centroid: ' hospital' | Score: 0.0002
-  Tokens: [' factory', ' school', ' hospital', ' farm', ' kitchen', ' nursing', ' nursery', ' military', ' nuclear', ' garden']
-Rank 7 | Centroid: ' category' | Score: 0.0001
-  Tokens: [' system', ' community', ' field', ' group', ' class', ' category']
-Rank 8 | Centroid: ' second' | Score: 0.0001
-  Tokens: [' next', ' following', ' first', ' second', ' two', ' one']
-Rank 9 | Centroid: ' old' | Score: 0.0001
-  Tokens: [' new', ' old', ' current', ' past', ' public', ' long']
-Rank 10 | Centroid: ' future' | Score: 0.0001
-  Tokens: [' future']
-Rank 11 | Centroid: ' year' | Score: 0.0001
-  Tokens: [' name', ' year', ' day', ' time', ' age']
-Rank 12 | Centroid: ' workplace' | Score: 0.0001
-  Tokens: [' care', ' study', ' workplace', ' work', ' lab', ' hope']
-Rank 13 | Centroid: ' environment' | Score: 0.0000
-  Tokens: [' environment', ' relationship', ' context']
-Rank 14 | Centroid: ' way' | Score: 0.0000
-  Tokens: [' way']
-Rank 15 | Centroid: ' market' | Score: 0.0000
-  Tokens: [' market', ' society', ' economy', ' industry']
-Rank 16 | Centroid: ' wrong' | Score: 0.0000
-  Tokens: [' right', ' wrong', ' grand']
-Rank 17 | Centroid: ' center' | Score: 0.0000
-  Tokens: [' center', ' place']
-Rank 18 | Centroid: ' money' | Score: 0.0000
-  Tokens: [' money', ' education']
-Rank 19 | Centroid: ' life' | Score: 0.0000
-  Tokens: [' life', ' living']
-Rank 20 | Centroid: ' body' | Score: 0.0000
-  Tokens: [' body']
-Rank 21 | Centroid: ' car' | Score: 0.0000
-  Tokens: [' car']
-Rank 22 | Centroid: ' game' | Score: 0.0000
-  Tokens: [' game']
-Rank 23 | Centroid: ' couple' | Score: 0.0000
-  Tokens: [' couple']
+Rank 1 | Centroid: ' points' | Score: 0.7891
+  Tokens: [' points', 'points', ' Points', '_points', ' point', 'Points', ' spots', ' nodes']
+Rank 2 | Centroid: ' elements' | Score: 0.1992
+  Tokens: [' elements', 'elements', ' Elements', ' element']
+Rank 3 | Centroid: ' parts' | Score: 0.0061
+  Tokens: [' parts', ' pieces', ' part', ' segments', 'parts', ' bits', ' sections']
+Rank 4 | Centroid: ' phrases' | Score: 0.0019
+  Tokens: [' sentences', ' phrases', ' statements', ' words', ' sentence', ' verbs', ' statement', ' phrase']
+Rank 5 | Centroid: ' details' | Score: 0.0016
+  Tokens: [' details', ' info', ' information', ' detail']
+Rank 6 | Centroid: ' moments' | Score: 0.0003
+  Tokens: [' moments', ' scenes', ' incidents', ' instances', ' moment']
+Rank 7 | Centroid: ' components' | Score: 0.0001
+  Tokens: [' components', ' aspects']
+Rank 8 | Centroid: ' events' | Score: 0.0001
+  Tokens: [' events', ' actions', ' event', ' experiences', ' reactions', ' interactions']
+Rank 9 | Centroid: ' lines' | Score: 0.0001
+  Tokens: [' lines', 'lines', ' line']
+Rank 10 | Centroid: ' ideas' | Score: 0.0001
+  Tokens: [' facts', ' ideas', ' thoughts']
+Rank 11 | Centroid: ' quotes' | Score: 0.0000
+  Tokens: [' quotes', ' mentions', ' quote']
+Rank 12 | Centroid: ' traits' | Score: 0.0000
+  Tokens: [' themes', ' things', ' ingredients', ' items', ' factors', ' features', ' characters', ' traits', ' concepts', ' terms', ' topics']
+Rank 13 | Centroid: ' emotions' | Score: 0.0000
+  Tokens: [' emotions', ' sentiment', ' sentiments', ' emotional', ' feelings', ' senses', ' sensory']
+Rank 14 | Centroid: ' clues' | Score: 0.0000
+  Tokens: [' clues', ' observations', ' cues', ' insights', ' notes', ' hints', ' impressions']
+Rank 15 | Centroid: ' takes' | Score: 0.0000
+  Tokens: [' take', ' plot', ' takes', ' people', ' players']
+Rank 16 | Centroid: ' messages' | Score: 0.0000
+  Tokens: [' messages', ' message']
+Rank 17 | Centroid: ' triggers' | Score: 0.0000
+  Tokens: [' triggers', ' highlights', ' dates', ' premises', ' beats', ' claims']
+Rank 18 | Centroid: ' snippets' | Score: 0.0000
+  Tokens: [' clauses', ' snippets', ' excerpts', ' paragraphs']
+Rank 19 | Centroid: ' pairs' | Score: 0.0000
+  Tokens: [' pairs', ' areas']
 
 **Chosen Concept:** Rank 1

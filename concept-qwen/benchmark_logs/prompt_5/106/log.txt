@@ -1,118 +1,143 @@
 --- Step 106 Log ---
 
 == Filtered Candidates ==
-Token: ' make' (ID: 1281), Prob: 1.0000
-Token: ' making' (ID: 3259), Prob: 0.0000
-Token: ' makes' (ID: 3643), Prob: 0.0000
-Token: ' made' (ID: 1865), Prob: 0.0000
-Token: ' also' (ID: 1083), Prob: 0.0000
-Token: 'make' (ID: 6927), Prob: 0.0000
-Token: ' take' (ID: 1896), Prob: 0.0000
-Token: ' Make' (ID: 7405), Prob: 0.0000
-Token: ' mak' (ID: 50916), Prob: 0.0000
-Token: ' seem' (ID: 2803), Prob: 0.0000
-Token: ' mean' (ID: 3076), Prob: 0.0000
-Token: '.make' (ID: 10117), Prob: 0.0000
-Token: '(make' (ID: 36944), Prob: 0.0000
-Token: ' maken' (ID: 54056), Prob: 0.0000
-Token: ' please' (ID: 4486), Prob: 0.0000
-Token: ' still' (ID: 2058), Prob: 0.0000
-Token: ' need' (ID: 1184), Prob: 0.0000
-Token: '	make' (ID: 77438), Prob: 0.0000
-Token: ' sense' (ID: 5530), Prob: 0.0000
-Token: ' definitely' (ID: 8491), Prob: 0.0000
-Token: ' match' (ID: 2432), Prob: 0.0000
-Token: ' look' (ID: 1401), Prob: 0.0000
-Token: ' probably' (ID: 4658), Prob: 0.0000
-Token: ' include' (ID: 2924), Prob: 0.0000
-Token: ' work' (ID: 975), Prob: 0.0000
-Token: ' read' (ID: 1349), Prob: 0.0000
-Token: ' likely' (ID: 4363), Prob: 0.0000
-Token: ' say' (ID: 1977), Prob: 0.0000
-Token: ' give' (ID: 2968), Prob: 0.0000
-Token: ' require' (ID: 1373), Prob: 0.0000
-Token: 'Make' (ID: 8078), Prob: 0.0000
-Token: ' accept' (ID: 4193), Prob: 0.0000
-Token: ' math' (ID: 6888), Prob: 0.0000
-Token: ' MAKE' (ID: 36821), Prob: 0.0000
-Token: ' use' (ID: 990), Prob: 0.0000
-Token: ' always' (ID: 2677), Prob: 0.0000
-Token: ' sound' (ID: 5112), Prob: 0.0000
-Token: ' logically' (ID: 73045), Prob: 0.0000
-Token: ' mostly' (ID: 10008), Prob: 0.0000
-Token: '_make' (ID: 28230), Prob: 0.0000
-Token: ' come' (ID: 2525), Prob: 0.0000
-Token: ' see' (ID: 1490), Prob: 0.0000
-Token: ' ask' (ID: 2548), Prob: 0.0000
-Token: ' become' (ID: 3635), Prob: 0.0000
-Token: ' appear' (ID: 4994), Prob: 0.0000
-Token: ' communicate' (ID: 19032), Prob: 0.0000
-Token: ' contain' (ID: 6644), Prob: 0.0000
-Token: ' clearly' (ID: 9355), Prob: 0.0000
-Token: ' like' (ID: 1075), Prob: 0.0000
-Token: ' consider' (ID: 2908), Prob: 0.0000
-Token: ' form' (ID: 1352), Prob: 0.0000
-Token: ' consist' (ID: 6685), Prob: 0.0000
-Token: ' assume' (ID: 9658), Prob: 0.0000
-Token: ' end' (ID: 835), Prob: 0.0000
-Token: ' indicate' (ID: 13216), Prob: 0.0000
-Token: ' feel' (ID: 2666), Prob: 0.0000
-Token: ' correctly' (ID: 12440), Prob: 0.0000
-Token: ' mainly' (ID: 14576), Prob: 0.0000
-Token: ' somehow' (ID: 16925), Prob: 0.0000
-Token: ' meet' (ID: 3367), Prob: 0.0000
-Token: ' cause' (ID: 5240), Prob: 0.0000
-Token: ' leave' (ID: 5274), Prob: 0.0000
-Token: ' gramm' (ID: 68125), Prob: 0.0000
-Token: ' certainly' (ID: 7838), Prob: 0.0000
-Token: ' relate' (ID: 28143), Prob: 0.0000
-Token: ' express' (ID: 3158), Prob: 0.0000
-Token: ' answer' (ID: 4226), Prob: 0.0000
-Token: ' parse' (ID: 4715), Prob: 0.0000
-Token: ' matter' (ID: 4925), Prob: 0.0000
+Token: ' sticks' (ID: 33140), Prob: 0.5664
+Token: ' wood' (ID: 7579), Prob: 0.1270
+Token: ' bricks' (ID: 49037), Prob: 0.0598
+Token: ' blocks' (ID: 10010), Prob: 0.0410
+Token: ' stones' (ID: 26210), Prob: 0.0320
+Token: ' pine' (ID: 33597), Prob: 0.0283
+Token: ' clay' (ID: 36048), Prob: 0.0283
+Token: ' wooden' (ID: 22360), Prob: 0.0171
+Token: ' bamboo' (ID: 58882), Prob: 0.0171
+Token: ' branches' (ID: 23091), Prob: 0.0081
+Token: ' sand' (ID: 9278), Prob: 0.0071
+Token: ' old' (ID: 2310), Prob: 0.0046
+Token: ' LEGO' (ID: 55801), Prob: 0.0041
+Token: ' paper' (ID: 5567), Prob: 0.0036
+Token: ' straw' (ID: 30007), Prob: 0.0030
+Token: ' building' (ID: 4752), Prob: 0.0026
+Token: ' leaves' (ID: 10901), Prob: 0.0019
+Token: ' cardboard' (ID: 53943), Prob: 0.0019
+Token: ' stone' (ID: 9798), Prob: 0.0018
+Token: ' cotton' (ID: 23522), Prob: 0.0012
+Token: ' mud' (ID: 26183), Prob: 0.0012
+Token: ' feathers' (ID: 55894), Prob: 0.0011
+Token: ' rice' (ID: 19653), Prob: 0.0010
+Token: ' bones' (ID: 24854), Prob: 0.0010
+Token: ' pops' (ID: 47600), Prob: 0.0010
+Token: ' plastic' (ID: 12188), Prob: 0.0010
+Token: ' logs' (ID: 18422), Prob: 0.0010
+Token: ' hay' (ID: 17669), Prob: 0.0009
+Token: ' trees' (ID: 12408), Prob: 0.0009
+Token: ' small' (ID: 2613), Prob: 0.0008
+Token: ' mar' (ID: 3594), Prob: 0.0008
+Token: ' rocks' (ID: 23035), Prob: 0.0006
+Token: ' fire' (ID: 3940), Prob: 0.0005
+Token: ' construction' (ID: 8086), Prob: 0.0005
+Token: ' dried' (ID: 31620), Prob: 0.0005
+Token: ' glass' (ID: 8991), Prob: 0.0005
+Token: ' brick' (ID: 24837), Prob: 0.0005
+Token: ' glue' (ID: 37461), Prob: 0.0005
+Token: ' materials' (ID: 7236), Prob: 0.0005
+Token: ' timber' (ID: 44788), Prob: 0.0005
+Token: ' Lego' (ID: 64670), Prob: 0.0005
+Token: ' drift' (ID: 33638), Prob: 0.0004
+Token: ' oak' (ID: 37871), Prob: 0.0004
+Token: ' beams' (ID: 49945), Prob: 0.0004
+Token: ' toys' (ID: 23069), Prob: 0.0003
+Token: ' tree' (ID: 4916), Prob: 0.0003
+Token: ' saw' (ID: 5485), Prob: 0.0003
+Token: ' colored' (ID: 27197), Prob: 0.0003
+Token: ' grass' (ID: 16359), Prob: 0.0003
+Token: ' bark' (ID: 53742), Prob: 0.0003
+Token: ' playing' (ID: 5619), Prob: 0.0003
+Token: ' sun' (ID: 7015), Prob: 0.0003
+Token: ' tin' (ID: 24790), Prob: 0.0003
+Token: ' red' (ID: 2518), Prob: 0.0002
+Token: ' rope' (ID: 33420), Prob: 0.0002
+Token: ' lumber' (ID: 61453), Prob: 0.0002
+Token: ' buttons' (ID: 12424), Prob: 0.0002
+Token: ' beads' (ID: 54208), Prob: 0.0002
+Token: ' toy' (ID: 21357), Prob: 0.0002
+Token: ' household' (ID: 13732), Prob: 0.0002
+Token: ' beans' (ID: 26896), Prob: 0.0002
+Token: ' cedar' (ID: 75296), Prob: 0.0002
+Token: ' string' (ID: 914), Prob: 0.0002
+Token: ' blue' (ID: 6303), Prob: 0.0002
+Token: ' Leg' (ID: 7610), Prob: 0.0002
+Token: ' colorful' (ID: 33866), Prob: 0.0002
+Token: ' tiles' (ID: 20493), Prob: 0.0002
+Token: ' stick' (ID: 9214), Prob: 0.0001
+Token: ' palm' (ID: 32452), Prob: 0.0001
+Token: ' shells' (ID: 42954), Prob: 0.0001
+Token: ' metal' (ID: 9317), Prob: 0.0001
+Token: ' iron' (ID: 11001), Prob: 0.0001
+Token: ' com' (ID: 469), Prob: 0.0001
+Token: ' play' (ID: 1486), Prob: 0.0001
+Token: ' pieces' (ID: 9666), Prob: 0.0001
+Token: ' fallen' (ID: 20866), Prob: 0.0001
+Token: ' nuts' (ID: 29949), Prob: 0.0001
+Token: ' marble' (ID: 41290), Prob: 0.0001
+Token: ' stacking' (ID: 74072), Prob: 0.0001
+Token: ' cards' (ID: 7411), Prob: 0.0001
+Token: ' dry' (ID: 9058), Prob: 0.0001
+Token: ' block' (ID: 2504), Prob: 0.0001
+Token: ' bread' (ID: 16002), Prob: 0.0001
+Token: ' seeds' (ID: 19056), Prob: 0.0001
+Token: ' spider' (ID: 34354), Prob: 0.0001
+Token: ' str' (ID: 607), Prob: 0.0001
+Token: ' scrap' (ID: 20843), Prob: 0.0001
+Token: ' tooth' (ID: 25507), Prob: 0.0001
 
 == Ranked Concepts (Clusters) ==
-Rank 1 | Centroid: ' make' | Score: 1.0000
-  Tokens: [' make', ' making', ' makes', ' made', 'make', ' Make', ' mak', '.make', '(make', '\tmake', 'Make', ' MAKE', '_make']
-Rank 2 | Centroid: ' still' | Score: 0.0000
-  Tokens: [' also', ' still', ' always', ' somehow']
-Rank 3 | Centroid: ' assume' | Score: 0.0000
-  Tokens: [' take', ' give', ' ask', ' consider', ' assume']
-Rank 4 | Centroid: ' seem' | Score: 0.0000
-  Tokens: [' seem', ' appear']
-Rank 5 | Centroid: ' mean' | Score: 0.0000
-  Tokens: [' mean', ' matter']
-Rank 6 | Centroid: ' maken' | Score: 0.0000
-  Tokens: [' maken']
-Rank 7 | Centroid: ' definitely' | Score: 0.0000
-  Tokens: [' definitely', ' probably', ' likely', ' clearly', ' certainly']
-Rank 8 | Centroid: ' please' | Score: 0.0000
-  Tokens: [' please']
-Rank 9 | Centroid: ' need' | Score: 0.0000
-  Tokens: [' need', ' require']
-Rank 10 | Centroid: ' parse' | Score: 0.0000
-  Tokens: [' match', ' read', ' answer', ' parse']
-Rank 11 | Centroid: ' feel' | Score: 0.0000
-  Tokens: [' sense', ' sound', ' feel']
-Rank 12 | Centroid: ' see' | Score: 0.0000
-  Tokens: [' look', ' say', ' see']
-Rank 13 | Centroid: ' contain' | Score: 0.0000
-  Tokens: [' include', ' communicate', ' contain', ' consist', ' indicate', ' relate']
-Rank 14 | Centroid: ' use' | Score: 0.0000
-  Tokens: [' work', ' use', ' like', ' end']
-Rank 15 | Centroid: ' logically' | Score: 0.0000
-  Tokens: [' math', ' logically', ' correctly', ' gramm']
-Rank 16 | Centroid: ' become' | Score: 0.0000
-  Tokens: [' come', ' become', ' meet']
-Rank 17 | Centroid: ' accept' | Score: 0.0000
-  Tokens: [' accept']
-Rank 18 | Centroid: ' mostly' | Score: 0.0000
-  Tokens: [' mostly', ' mainly']
-Rank 19 | Centroid: ' form' | Score: 0.0000
-  Tokens: [' form', ' cause']
-Rank 20 | Centroid: ' leave' | Score: 0.0000
-  Tokens: [' leave']
-Rank 21 | Centroid: ' express' | Score: 0.0000
-  Tokens: [' express']
+Rank 1 | Centroid: ' sticks' | Score: 0.5664
+  Tokens: [' sticks', ' stick', ' stacking']
+Rank 2 | Centroid: ' wood' | Score: 0.1924
+  Tokens: [' wood', ' pine', ' wooden', ' bamboo', ' trees', ' timber', ' oak', ' tree', ' bark', ' lumber', ' cedar']
+Rank 3 | Centroid: ' bricks' | Score: 0.0603
+  Tokens: [' bricks', ' brick']
+Rank 4 | Centroid: ' blocks' | Score: 0.0410
+  Tokens: [' blocks', ' block']
+Rank 5 | Centroid: ' sand' | Score: 0.0366
+  Tokens: [' clay', ' sand', ' mud']
+Rank 6 | Centroid: ' stones' | Score: 0.0344
+  Tokens: [' stones', ' stone', ' rocks']
+Rank 7 | Centroid: ' branches' | Score: 0.0122
+  Tokens: [' branches', ' leaves', ' pops', ' logs', ' shells']
+Rank 8 | Centroid: ' string' | Score: 0.0066
+  Tokens: [' old', ' small', ' fire', ' saw', ' string', ' com', ' str']
+Rank 9 | Centroid: ' metal' | Score: 0.0061
+  Tokens: [' paper', ' plastic', ' glass', ' materials', ' tin', ' metal', ' iron']
+Rank 10 | Centroid: ' Lego' | Score: 0.0047
+  Tokens: [' LEGO', ' Lego', ' Leg']
+Rank 11 | Centroid: ' rice' | Score: 0.0036
+  Tokens: [' cotton', ' rice', ' hay', ' grass', ' palm', ' bread']
+Rank 12 | Centroid: ' building' | Score: 0.0032
+  Tokens: [' building', ' construction']
+Rank 13 | Centroid: ' straw' | Score: 0.0030
+  Tokens: [' straw']
+Rank 14 | Centroid: ' cardboard' | Score: 0.0024
+  Tokens: [' cardboard', ' glue']
+Rank 15 | Centroid: ' beads' | Score: 0.0023
+  Tokens: [' feathers', ' beams', ' buttons', ' beads', ' beans', ' nuts', ' seeds']
+Rank 16 | Centroid: ' blue' | Score: 0.0016
+  Tokens: [' mar', ' colored', ' red', ' blue', ' colorful']
+Rank 17 | Centroid: ' tiles' | Score: 0.0014
+  Tokens: [' bones', ' tiles', ' pieces', ' cards']
+Rank 18 | Centroid: ' dried' | Score: 0.0012
+  Tokens: [' dried', ' drift', ' dry', ' scrap']
+Rank 19 | Centroid: ' toys' | Score: 0.0009
+  Tokens: [' toys', ' playing', ' toy', ' play']
+Rank 20 | Centroid: ' rope' | Score: 0.0006
+  Tokens: [' sun', ' rope', ' spider']
+Rank 21 | Centroid: ' household' | Score: 0.0002
+  Tokens: [' household']
+Rank 22 | Centroid: ' fallen' | Score: 0.0001
+  Tokens: [' fallen']
+Rank 23 | Centroid: ' marble' | Score: 0.0001
+  Tokens: [' marble']
+Rank 24 | Centroid: ' tooth' | Score: 0.0001
+  Tokens: [' tooth']
 
 **Chosen Concept:** Rank 1

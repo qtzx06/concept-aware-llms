@@ -1,0 +1,77 @@
+--- Step 54 Log ---
+
+== Filtered Candidates ==
+Token: ' based' (ID: 3118), Prob: 0.0003
+Token: ' mentioned' (ID: 9733), Prob: 0.0001
+Token: '—the' (ID: 21677), Prob: 0.0001
+Token: ' given' (ID: 2661), Prob: 0.0001
+Token: ' presented' (ID: 10449), Prob: 0.0001
+Token: ' within' (ID: 2878), Prob: 0.0000
+Token: ' without' (ID: 2041), Prob: 0.0000
+Token: ' introduced' (ID: 11523), Prob: 0.0000
+Token: ' naturally' (ID: 17712), Prob: 0.0000
+Token: ' since' (ID: 2474), Prob: 0.0000
+Token: ' explained' (ID: 11247), Prob: 0.0000
+Token: ' involving' (ID: 15860), Prob: 0.0000
+Token: ' related' (ID: 5435), Prob: 0.0000
+Token: ' described' (ID: 7481), Prob: 0.0000
+Token: ' either' (ID: 2987), Prob: 0.0000
+Token: ' discussed' (ID: 14078), Prob: 0.0000
+Token: ' inspired' (ID: 14606), Prob: 0.0000
+Token: ' first' (ID: 1156), Prob: 0.0000
+Token: ' regarding' (ID: 8826), Prob: 0.0000
+Token: ' using' (ID: 1667), Prob: 0.0000
+Token: ' leading' (ID: 6388), Prob: 0.0000
+Token: ' around' (ID: 2163), Prob: 0.0000
+Token: ' unless' (ID: 7241), Prob: 0.0000
+Token: ' provided' (ID: 3897), Prob: 0.0000
+Token: ' instead' (ID: 4518), Prob: 0.0000
+Token: ' logically' (ID: 73045), Prob: 0.0000
+Token: ' suggested' (ID: 11827), Prob: 0.0000
+Token: ' depending' (ID: 11649), Prob: 0.0000
+Token: ' derived' (ID: 14257), Prob: 0.0000
+Token: ' connected' (ID: 8433), Prob: 0.0000
+Token: ' left' (ID: 2115), Prob: 0.0000
+Token: ' listed' (ID: 10007), Prob: 0.0000
+Token: ' best' (ID: 1850), Prob: 0.0000
+Token: ' outlined' (ID: 32640), Prob: 0.0000
+Token: ' rather' (ID: 4751), Prob: 0.0000
+Token: '—it' (ID: 43503), Prob: 0.0000
+Token: ' open' (ID: 1787), Prob: 0.0000
+Token: ' made' (ID: 1865), Prob: 0.0000
+Token: ' beyond' (ID: 7797), Prob: 0.0000
+Token: ' driven' (ID: 16227), Prob: 0.0000
+
+== Ranked Concepts (Clusters) ==
+Rank 1 | Centroid: ' based' | Score: 0.0003
+  Tokens: [' based', ' depending']
+Rank 2 | Centroid: ' provided' | Score: 0.0002
+  Tokens: [' given', ' presented', ' introduced', ' provided']
+Rank 3 | Centroid: ' described' | Score: 0.0001
+  Tokens: [' mentioned', ' explained', ' described', ' discussed', ' suggested', ' listed', ' outlined']
+Rank 4 | Centroid: '—the' | Score: 0.0001
+  Tokens: ['—the', '—it']
+Rank 5 | Centroid: ' without' | Score: 0.0000
+  Tokens: [' without', ' since', ' unless']
+Rank 6 | Centroid: ' within' | Score: 0.0000
+  Tokens: [' within', ' around', ' beyond']
+Rank 7 | Centroid: ' regarding' | Score: 0.0000
+  Tokens: [' involving', ' regarding', ' using']
+Rank 8 | Centroid: ' naturally' | Score: 0.0000
+  Tokens: [' naturally', ' logically']
+Rank 9 | Centroid: ' first' | Score: 0.0000
+  Tokens: [' first', ' leading', ' left']
+Rank 10 | Centroid: ' inspired' | Score: 0.0000
+  Tokens: [' inspired', ' derived', ' driven']
+Rank 11 | Centroid: ' related' | Score: 0.0000
+  Tokens: [' related', ' connected']
+Rank 12 | Centroid: ' either' | Score: 0.0000
+  Tokens: [' either']
+Rank 13 | Centroid: ' instead' | Score: 0.0000
+  Tokens: [' instead', ' rather']
+Rank 14 | Centroid: ' best' | Score: 0.0000
+  Tokens: [' best', ' open']
+Rank 15 | Centroid: ' made' | Score: 0.0000
+  Tokens: [' made']
+
+**Chosen Concept:** Rank 1

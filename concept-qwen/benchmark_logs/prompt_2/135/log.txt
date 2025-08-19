@@ -1,79 +1,130 @@
 --- Step 135 Log ---
 
 == Filtered Candidates ==
-Token: ' like' (ID: 1075), Prob: 1.0000
-Token: ' else' (ID: 770), Prob: 0.0001
-Token: ' yes' (ID: 9834), Prob: 0.0000
-Token: ' Like' (ID: 8909), Prob: 0.0000
-Token: ' similar' (ID: 4428), Prob: 0.0000
-Token: ' elif' (ID: 4409), Prob: 0.0000
-Token: 'like' (ID: 4803), Prob: 0.0000
-Token: ' LIKE' (ID: 20529), Prob: 0.0000
-Token: '_like' (ID: 25535), Prob: 0.0000
-Token: ' list' (ID: 1140), Prob: 0.0000
-Token: '-like' (ID: 12681), Prob: 0.0000
-Token: '.like' (ID: 66318), Prob: 0.0000
-Token: ' likes' (ID: 13151), Prob: 0.0000
-Token: ' maybe' (ID: 7196), Prob: 0.0000
-Token: 'Like' (ID: 12949), Prob: 0.0000
-Token: ' around' (ID: 2163), Prob: 0.0000
-Token: ' much' (ID: 1753), Prob: 0.0000
-Token: ' include' (ID: 2924), Prob: 0.0000
-Token: ' since' (ID: 2474), Prob: 0.0000
-Token: ' etc' (ID: 4992), Prob: 0.0000
-Token: ' related' (ID: 5435), Prob: 0.0000
-Token: ' limited' (ID: 7199), Prob: 0.0000
-Token: ' yeah' (ID: 21639), Prob: 0.0000
-Token: ' including' (ID: 2670), Prob: 0.0000
-Token: ' seperti' (ID: 67720), Prob: 0.0000
-Token: ' based' (ID: 3118), Prob: 0.0000
-Token: ' possible' (ID: 3204), Prob: 0.0000
-Token: ' nice' (ID: 6419), Prob: 0.0000
-Token: ' otherwise' (ID: 5937), Prob: 0.0000
-Token: ' last' (ID: 1537), Prob: 0.0000
-Token: ' say' (ID: 1977), Prob: 0.0000
-Token: ' kind' (ID: 3093), Prob: 0.0000
-Token: ' little' (ID: 2632), Prob: 0.0000
-Token: ' quite' (ID: 5008), Prob: 0.0000
-Token: ' important' (ID: 2989), Prob: 0.0000
-Token: ' really' (ID: 2167), Prob: 0.0000
-Token: ' usually' (ID: 5990), Prob: 0.0000
-Token: ' relevant' (ID: 9760), Prob: 0.0000
-Token: ' listed' (ID: 10007), Prob: 0.0000
-Token: ' liked' (ID: 14915), Prob: 0.0000
-Token: ' lists' (ID: 11469), Prob: 0.0000
-Token: ' slightly' (ID: 10078), Prob: 0.0000
+Token: ' made' (ID: 1865), Prob: 0.7930
+Token: ' got' (ID: 2684), Prob: 0.0308
+Token: ' reached' (ID: 8643), Prob: 0.0187
+Token: ' destination' (ID: 9106), Prob: 0.0128
+Token: ' arrived' (ID: 11465), Prob: 0.0128
+Token: ' succeeded' (ID: 25331), Prob: 0.0022
+Token: ' make' (ID: 1281), Prob: 0.0018
+Token: ' came' (ID: 3697), Prob: 0.0016
+Token: ' ended' (ID: 9482), Prob: 0.0012
+Token: ' successful' (ID: 6849), Prob: 0.0011
+Token: ' went' (ID: 3937), Prob: 0.0010
+Token: ' resolved' (ID: 19673), Prob: 0.0009
+Token: ' achieved' (ID: 16994), Prob: 0.0007
+Token: ' making' (ID: 3259), Prob: 0.0006
+Token: ' found' (ID: 1730), Prob: 0.0005
+Token: ' success' (ID: 2393), Prob: 0.0004
+Token: ' reach' (ID: 5545), Prob: 0.0003
+Token: ' met' (ID: 2270), Prob: 0.0002
+Token: ' reaching' (ID: 18739), Prob: 0.0002
+Token: ' moved' (ID: 7726), Prob: 0.0002
+Token: ' get' (ID: 633), Prob: 0.0002
+Token: ' managed' (ID: 8975), Prob: 0.0002
+Token: ' returned' (ID: 5927), Prob: 0.0002
+Token: ' destinations' (ID: 33105), Prob: 0.0002
+Token: ' fixed' (ID: 8356), Prob: 0.0001
+Token: ' finished' (ID: 8060), Prob: 0.0001
+Token: ' saved' (ID: 6781), Prob: 0.0001
+Token: ' brought' (ID: 7117), Prob: 0.0001
+Token: ' makes' (ID: 3643), Prob: 0.0001
+Token: ' everything' (ID: 4297), Prob: 0.0001
+Token: ' completed' (ID: 8145), Prob: 0.0001
+Token: ' arriving' (ID: 32011), Prob: 0.0001
+Token: ' passed' (ID: 5823), Prob: 0.0001
+Token: ' succeed' (ID: 11996), Prob: 0.0001
+Token: ' dest' (ID: 3201), Prob: 0.0001
+Token: ' landed' (ID: 26120), Prob: 0.0001
+Token: ' done' (ID: 2814), Prob: 0.0001
+Token: ' everyone' (ID: 5019), Prob: 0.0001
+Token: ' arrival' (ID: 18647), Prob: 0.0001
+Token: ' rescued' (ID: 44333), Prob: 0.0001
+Token: ' solved' (ID: 27956), Prob: 0.0000
+Token: ' settled' (ID: 22378), Prob: 0.0000
+Token: ' resulted' (ID: 19006), Prob: 0.0000
+Token: ' things' (ID: 2513), Prob: 0.0000
+Token: ' safe' (ID: 6092), Prob: 0.0000
+Token: ' arrive' (ID: 17331), Prob: 0.0000
+Token: ' home' (ID: 2114), Prob: 0.0000
+Token: ' turned' (ID: 6519), Prob: 0.0000
+Token: ' helped' (ID: 8910), Prob: 0.0000
+Token: ' delivered' (ID: 12600), Prob: 0.0000
+Token: ' set' (ID: 738), Prob: 0.0000
+Token: ' back' (ID: 1182), Prob: 0.0000
+Token: ' restored' (ID: 27003), Prob: 0.0000
+Token: ' ending' (ID: 13391), Prob: 0.0000
+Token: ' Made' (ID: 18802), Prob: 0.0000
+Token: ' getting' (ID: 3709), Prob: 0.0000
+Token: ' worked' (ID: 6439), Prob: 0.0000
+Token: ' successfully' (ID: 7790), Prob: 0.0000
+Token: ' meant' (ID: 8791), Prob: 0.0000
+Token: ' sent' (ID: 3208), Prob: 0.0000
+Token: ' traveled' (ID: 30696), Prob: 0.0000
+Token: ' fix' (ID: 5046), Prob: 0.0000
+Token: ' became' (ID: 6116), Prob: 0.0000
+Token: ' survived' (ID: 25882), Prob: 0.0000
+Token: ' repaired' (ID: 51734), Prob: 0.0000
+Token: ' good' (ID: 1661), Prob: 0.0000
+Token: ' end' (ID: 835), Prob: 0.0000
+Token: ' triumph' (ID: 37486), Prob: 0.0000
+Token: ' okay' (ID: 16910), Prob: 0.0000
+Token: ' going' (ID: 2087), Prob: 0.0000
+Token: ' left' (ID: 2115), Prob: 0.0000
+Token: ' something' (ID: 2494), Prob: 0.0000
+Token: ' come' (ID: 2525), Prob: 0.0000
+Token: ' emerged' (ID: 21992), Prob: 0.0000
+Token: ' accomplished' (ID: 26237), Prob: 0.0000
+Token: ' received' (ID: 3949), Prob: 0.0000
+Token: ' led' (ID: 6069), Prob: 0.0000
+Token: ' connected' (ID: 8433), Prob: 0.0000
+Token: ' overcome' (ID: 22279), Prob: 0.0000
+Token: ' saw' (ID: 5485), Prob: 0.0000
+Token: ' moving' (ID: 7218), Prob: 0.0000
 
 == Ranked Concepts (Clusters) ==
-Rank 1 | Centroid: ' Like' | Score: 1.0000
-  Tokens: [' like', ' Like', 'like', ' LIKE', '_like', '-like', '.like', 'Like', ' seperti']
-Rank 2 | Centroid: ' else' | Score: 0.0001
-  Tokens: [' else', ' elif', ' otherwise']
-Rank 3 | Centroid: ' yes' | Score: 0.0000
-  Tokens: [' yes', ' yeah']
-Rank 4 | Centroid: ' similar' | Score: 0.0000
-  Tokens: [' similar']
-Rank 5 | Centroid: ' list' | Score: 0.0000
-  Tokens: [' list', ' listed', ' lists']
-Rank 6 | Centroid: ' maybe' | Score: 0.0000
-  Tokens: [' maybe', ' possible']
-Rank 7 | Centroid: ' likes' | Score: 0.0000
-  Tokens: [' likes', ' liked']
-Rank 8 | Centroid: ' around' | Score: 0.0000
-  Tokens: [' around', ' limited']
-Rank 9 | Centroid: ' little' | Score: 0.0000
-  Tokens: [' much', ' little', ' slightly']
-Rank 10 | Centroid: ' based' | Score: 0.0000
-  Tokens: [' since', ' based', ' last']
-Rank 11 | Centroid: ' include' | Score: 0.0000
-  Tokens: [' include', ' including']
-Rank 12 | Centroid: ' quite' | Score: 0.0000
-  Tokens: [' nice', ' quite', ' really', ' usually']
-Rank 13 | Centroid: ' relevant' | Score: 0.0000
-  Tokens: [' related', ' important', ' relevant']
-Rank 14 | Centroid: ' etc' | Score: 0.0000
-  Tokens: [' etc', ' say']
-Rank 15 | Centroid: ' kind' | Score: 0.0000
-  Tokens: [' kind']
+Rank 1 | Centroid: ' make' | Score: 0.7969
+  Tokens: [' made', ' make', ' making', ' makes', ' Made']
+Rank 2 | Centroid: ' went' | Score: 0.0317
+  Tokens: [' got', ' went', ' led', ' saw']
+Rank 3 | Centroid: ' reach' | Score: 0.0192
+  Tokens: [' reached', ' reach', ' reaching']
+Rank 4 | Centroid: ' arrived' | Score: 0.0131
+  Tokens: [' arrived', ' arriving', ' landed', ' arrival', ' arrive']
+Rank 5 | Centroid: ' destination' | Score: 0.0131
+  Tokens: [' destination', ' destinations', ' dest']
+Rank 6 | Centroid: ' successful' | Score: 0.0039
+  Tokens: [' succeeded', ' successful', ' success', ' succeed', ' successfully', ' triumph']
+Rank 7 | Centroid: ' came' | Score: 0.0016
+  Tokens: [' came', ' come']
+Rank 8 | Centroid: ' ended' | Score: 0.0012
+  Tokens: [' ended', ' ending', ' end']
+Rank 9 | Centroid: ' resolved' | Score: 0.0012
+  Tokens: [' resolved', ' managed', ' solved', ' settled', ' repaired']
+Rank 10 | Centroid: ' completed' | Score: 0.0010
+  Tokens: [' achieved', ' finished', ' completed', ' done', ' accomplished']
+Rank 11 | Centroid: ' found' | Score: 0.0007
+  Tokens: [' found', ' met', ' sent']
+Rank 12 | Centroid: ' returned' | Score: 0.0004
+  Tokens: [' returned', ' brought', ' passed', ' received']
+Rank 13 | Centroid: ' resulted' | Score: 0.0004
+  Tokens: [' moved', ' resulted', ' turned', ' helped', ' worked', ' became', ' survived', ' emerged']
+Rank 14 | Centroid: ' getting' | Score: 0.0002
+  Tokens: [' get', ' getting', ' going', ' moving']
+Rank 15 | Centroid: ' rescued' | Score: 0.0002
+  Tokens: [' saved', ' rescued', ' delivered', ' restored']
+Rank 16 | Centroid: ' everything' | Score: 0.0002
+  Tokens: [' everything', ' everyone', ' things', ' something']
+Rank 17 | Centroid: ' good' | Score: 0.0002
+  Tokens: [' safe', ' home', ' set', ' back', ' good', ' okay', ' left', ' connected']
+Rank 18 | Centroid: ' fixed' | Score: 0.0002
+  Tokens: [' fixed', ' fix']
+Rank 19 | Centroid: ' meant' | Score: 0.0000
+  Tokens: [' meant']
+Rank 20 | Centroid: ' traveled' | Score: 0.0000
+  Tokens: [' traveled']
+Rank 21 | Centroid: ' overcome' | Score: 0.0000
+  Tokens: [' overcome']
 
 **Chosen Concept:** Rank 1

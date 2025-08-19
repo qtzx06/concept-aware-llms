@@ -1,155 +1,85 @@
 --- Step 17 Log ---
 
 == Filtered Candidates ==
-Token: ' family' (ID: 2997), Prob: 0.7461
-Token: ' world' (ID: 1879), Prob: 0.0187
-Token: ' home' (ID: 2114), Prob: 0.0155
-Token: ' future' (ID: 3853), Prob: 0.0155
-Token: ' company' (ID: 2813), Prob: 0.0114
-Token: ' new' (ID: 501), Prob: 0.0089
-Token: ' community' (ID: 3942), Prob: 0.0089
-Token: ' parents' (ID: 6562), Prob: 0.0083
-Token: ' house' (ID: 3753), Prob: 0.0073
-Token: ' care' (ID: 2453), Prob: 0.0045
-Token: ' current' (ID: 1482), Prob: 0.0039
-Token: ' past' (ID: 3267), Prob: 0.0039
-Token: ' child' (ID: 1682), Prob: 0.0035
-Token: ' country' (ID: 3146), Prob: 0.0029
-Token: ' trade' (ID: 6559), Prob: 0.0025
-Token: ' next' (ID: 1790), Prob: 0.0024
-Token: ' present' (ID: 3042), Prob: 0.0024
-Token: ' parent' (ID: 2681), Prob: 0.0021
-Token: ' household' (ID: 13732), Prob: 0.0020
-Token: ' environment' (ID: 4573), Prob: 0.0019
-Token: ' old' (ID: 2310), Prob: 0.0016
-Token: ' town' (ID: 6290), Prob: 0.0016
-Token: ' room' (ID: 3054), Prob: 0.0015
-Token: ' wrong' (ID: 4969), Prob: 0.0015
-Token: ' workplace' (ID: 26368), Prob: 0.0014
-Token: ' hospital' (ID: 8777), Prob: 0.0014
-Token: ' hands' (ID: 6078), Prob: 0.0013
-Token: ' school' (ID: 2906), Prob: 0.0012
-Token: ' market' (ID: 3081), Prob: 0.0012
-Token: ' right' (ID: 1290), Prob: 0.0011
-Token: ' society' (ID: 8232), Prob: 0.0011
-Token: ' grandparents' (ID: 55335), Prob: 0.0011
-Token: ' mother' (ID: 6554), Prob: 0.0010
-Token: ' economy' (ID: 8584), Prob: 0.0009
-Token: ' immediate' (ID: 13922), Prob: 0.0009
-Token: ' name' (ID: 829), Prob: 0.0009
-Token: ' step' (ID: 3019), Prob: 0.0008
-Token: ' outside' (ID: 4889), Prob: 0.0008
-Token: ' absence' (ID: 19265), Prob: 0.0008
-Token: ' public' (ID: 584), Prob: 0.0007
-Token: ' job' (ID: 2618), Prob: 0.0007
-Token: ' nuclear' (ID: 11249), Prob: 0.0007
-Token: ' financial' (ID: 5896), Prob: 0.0007
-Token: ' middle' (ID: 6149), Prob: 0.0006
-Token: ' older' (ID: 9014), Prob: 0.0006
-Token: ' marriage' (ID: 10866), Prob: 0.0006
-Token: ' money' (ID: 3220), Prob: 0.0006
-Token: ' city' (ID: 3283), Prob: 0.0006
-Token: ' way' (ID: 1616), Prob: 0.0006
-Token: ' place' (ID: 1992), Prob: 0.0006
-Token: ' relationship' (ID: 5025), Prob: 0.0006
-Token: ' church' (ID: 8817), Prob: 0.0006
-Token: ' hope' (ID: 3900), Prob: 0.0005
-Token: ' education' (ID: 6731), Prob: 0.0005
-Token: ' farm' (ID: 8785), Prob: 0.0005
-Token: ' study' (ID: 3920), Prob: 0.0005
-Token: ' economic' (ID: 6955), Prob: 0.0005
-Token: ' open' (ID: 1787), Prob: 0.0004
-Token: ' safety' (ID: 7149), Prob: 0.0004
-Token: ' traditional' (ID: 8606), Prob: 0.0004
-Token: ' factory' (ID: 8633), Prob: 0.0004
-Token: ' village' (ID: 14126), Prob: 0.0004
-Token: ' children' (ID: 2841), Prob: 0.0004
-Token: ' time' (ID: 882), Prob: 0.0004
-Token: ' previous' (ID: 3681), Prob: 0.0004
-Token: ' eyes' (ID: 6414), Prob: 0.0004
-Token: ' game' (ID: 1809), Prob: 0.0004
-Token: ' cost' (ID: 2783), Prob: 0.0004
-Token: ' neighborhood' (ID: 12534), Prob: 0.0004
-Token: ' power' (ID: 2355), Prob: 0.0003
-Token: ' social' (ID: 3590), Prob: 0.0003
-Token: ' extended' (ID: 11577), Prob: 0.0003
-Token: ' orphan' (ID: 12746), Prob: 0.0003
-Token: ' tradition' (ID: 13815), Prob: 0.0003
-Token: ' younger' (ID: 14650), Prob: 0.0003
-Token: ' work' (ID: 975), Prob: 0.0003
-Token: ' pressure' (ID: 7262), Prob: 0.0003
-Token: ' real' (ID: 1931), Prob: 0.0003
-Token: ' love' (ID: 2948), Prob: 0.0003
-Token: ' modern' (ID: 6481), Prob: 0.0003
-Token: ' shop' (ID: 8061), Prob: 0.0003
-Token: ' parenting' (ID: 47958), Prob: 0.0003
-Token: ' system' (ID: 1849), Prob: 0.0003
-Token: ' age' (ID: 4231), Prob: 0.0003
-Token: ' families' (ID: 8521), Prob: 0.0003
-Token: ' corporate' (ID: 12870), Prob: 0.0003
-Token: ' institution' (ID: 14898), Prob: 0.0003
-Token: ' car' (ID: 1803), Prob: 0.0003
-Token: ' support' (ID: 1824), Prob: 0.0003
-Token: ' second' (ID: 2086), Prob: 0.0003
-Token: ' military' (ID: 6277), Prob: 0.0003
-Token: ' grand' (ID: 6662), Prob: 0.0003
-Token: ' father' (ID: 6981), Prob: 0.0003
-Token: ' nation' (ID: 6995), Prob: 0.0003
+Token: ' First' (ID: 5512), Prob: 0.1377
+Token: ' Let' (ID: 6771), Prob: 0.0349
+Token: ' Hmm' (ID: 88190), Prob: 0.0015
+Token: ' Start' (ID: 5145), Prob: 0.0007
+Token: ' Original' (ID: 17230), Prob: 0.0003
+Token: ' Starting' (ID: 27657), Prob: 0.0003
+Token: ' Need' (ID: 14656), Prob: 0.0001
+Token: ' Alright' (ID: 97593), Prob: 0.0001
+Token: ' Initial' (ID: 4127), Prob: 0.0000
+Token: ' Main' (ID: 4697), Prob: 0.0000
+Token: ' Two' (ID: 9043), Prob: 0.0000
+Token: ' Maybe' (ID: 10696), Prob: 0.0000
+Token: ' Wait' (ID: 13824), Prob: 0.0000
+Token: ' Started' (ID: 35812), Prob: 0.0000
+Token: ' Initially' (ID: 58556), Prob: 0.0000
+Token: ' Well' (ID: 8325), Prob: 0.0000
+Token: ' first' (ID: 1156), Prob: 0.0000
+Token: ' Sentence' (ID: 79542), Prob: 0.0000
+Token: ' Starts' (ID: 47728), Prob: 0.0000
+Token: ' Key' (ID: 5309), Prob: 0.0000
+Token: ' Focus' (ID: 25806), Prob: 0.0000
+Token: 'First' (ID: 5338), Prob: 0.0000
+Token: ' Three' (ID: 14513), Prob: 0.0000
+Token: ' Important' (ID: 43821), Prob: 0.0000
+Token: ' Time' (ID: 4120), Prob: 0.0000
+Token: ' Got' (ID: 24528), Prob: 0.0000
+Token: ' Breaking' (ID: 51524), Prob: 0.0000
+Token: ' One' (ID: 3776), Prob: 0.0000
+Token: ' Firstly' (ID: 76695), Prob: 0.0000
+Token: ' Okay' (ID: 35439), Prob: 0.0000
+Token: ' Story' (ID: 15106), Prob: 0.0000
+Token: ' Split' (ID: 27810), Prob: 0.0000
+Token: ' Sent' (ID: 23361), Prob: 0.0000
+Token: ' Needs' (ID: 43140), Prob: 0.0000
+Token: ' Scene' (ID: 17494), Prob: 0.0000
+Token: ' Points' (ID: 20725), Prob: 0.0000
+Token: ' Originally' (ID: 24805), Prob: 0.0000
+Token: ' Good' (ID: 7684), Prob: 0.0000
+Token: ' Make' (ID: 7405), Prob: 0.0000
+Token: ' Highlight' (ID: 55994), Prob: 0.0000
+Token: ' Scenes' (ID: 83183), Prob: 0.0000
+Token: ' Rew' (ID: 31691), Prob: 0.0000
+Token: ' Person' (ID: 7357), Prob: 0.0000
+Token: ' Words' (ID: 27630), Prob: 0.0000
+Token: ' Break' (ID: 15623), Prob: 0.0000
+Token: ' Get' (ID: 2126), Prob: 0.0000
+Token: ' Also' (ID: 7281), Prob: 0.0000
+Token: ' Keep' (ID: 13655), Prob: 0.0000
+Token: ' Find' (ID: 7379), Prob: 0.0000
+Token: ' Context' (ID: 9608), Prob: 0.0000
 
 == Ranked Concepts (Clusters) ==
-Rank 1 | Centroid: ' family' | Score: 0.7461
-  Tokens: [' family', ' families']
-Rank 2 | Centroid: ' previous' | Score: 0.0284
-  Tokens: [' future', ' current', ' past', ' next', ' present', ' previous']
-Rank 3 | Centroid: ' home' | Score: 0.0228
-  Tokens: [' home', ' house']
-Rank 4 | Centroid: ' world' | Score: 0.0189
-  Tokens: [' world', ' system']
-Rank 5 | Centroid: ' hospital' | Score: 0.0160
-  Tokens: [' company', ' hospital', ' school', ' church', ' farm', ' factory', ' shop', ' institution']
-Rank 6 | Centroid: ' parents' | Score: 0.0130
-  Tokens: [' parents', ' parent', ' grandparents', ' mother', ' parenting', ' father']
-Rank 7 | Centroid: ' neighborhood' | Score: 0.0118
-  Tokens: [' community', ' household', ' marriage', ' neighborhood']
-Rank 8 | Centroid: ' modern' | Score: 0.0102
-  Tokens: [' new', ' public', ' real', ' modern']
-Rank 9 | Centroid: ' economic' | Score: 0.0073
-  Tokens: [' trade', ' market', ' economy', ' financial', ' money', ' education', ' economic', ' social']
-Rank 10 | Centroid: ' town' | Score: 0.0058
-  Tokens: [' country', ' town', ' city', ' village', ' nation']
-Rank 11 | Centroid: ' safety' | Score: 0.0055
-  Tokens: [' care', ' safety', ' power', ' support']
-Rank 12 | Centroid: ' child' | Score: 0.0039
-  Tokens: [' child', ' children']
-Rank 13 | Centroid: ' right' | Score: 0.0038
-  Tokens: [' wrong', ' right', ' middle', ' second', ' grand']
-Rank 14 | Centroid: ' environment' | Score: 0.0032
-  Tokens: [' environment', ' absence', ' relationship']
-Rank 15 | Centroid: ' older' | Score: 0.0029
-  Tokens: [' old', ' older', ' younger', ' age']
-Rank 16 | Centroid: ' love' | Score: 0.0027
-  Tokens: [' job', ' hope', ' study', ' work', ' pressure', ' love']
-Rank 17 | Centroid: ' extended' | Score: 0.0025
-  Tokens: [' immediate', ' outside', ' open', ' extended']
-Rank 18 | Centroid: ' room' | Score: 0.0021
-  Tokens: [' room', ' place']
-Rank 19 | Centroid: ' time' | Score: 0.0020
-  Tokens: [' name', ' time', ' game', ' cost']
-Rank 20 | Centroid: ' hands' | Score: 0.0017
-  Tokens: [' hands', ' eyes']
-Rank 21 | Centroid: ' workplace' | Score: 0.0014
-  Tokens: [' workplace']
-Rank 22 | Centroid: ' step' | Score: 0.0013
-  Tokens: [' step', ' way']
-Rank 23 | Centroid: ' military' | Score: 0.0013
-  Tokens: [' nuclear', ' corporate', ' military']
-Rank 24 | Centroid: ' society' | Score: 0.0011
-  Tokens: [' society']
-Rank 25 | Centroid: ' traditional' | Score: 0.0008
-  Tokens: [' traditional', ' tradition']
-Rank 26 | Centroid: ' orphan' | Score: 0.0003
-  Tokens: [' orphan']
-Rank 27 | Centroid: ' car' | Score: 0.0003
-  Tokens: [' car']
+Rank 1 | Centroid: 'First' | Score: 0.1377
+  Tokens: [' First', ' first', 'First', ' Firstly']
+Rank 2 | Centroid: ' Get' | Score: 0.0349
+  Tokens: [' Let', ' Wait', ' Got', ' Make', ' Get', ' Keep', ' Find']
+Rank 3 | Centroid: ' Okay' | Score: 0.0016
+  Tokens: [' Hmm', ' Alright', ' Well', ' Okay']
+Rank 4 | Centroid: ' Start' | Score: 0.0010
+  Tokens: [' Start', ' Starting', ' Started', ' Starts']
+Rank 5 | Centroid: ' Initially' | Score: 0.0003
+  Tokens: [' Original', ' Initial', ' Initially', ' Originally']
+Rank 6 | Centroid: ' Need' | Score: 0.0001
+  Tokens: [' Need', ' Needs']
+Rank 7 | Centroid: ' Important' | Score: 0.0001
+  Tokens: [' Main', ' Key', ' Focus', ' Important', ' Time', ' Highlight']
+Rank 8 | Centroid: ' Two' | Score: 0.0000
+  Tokens: [' Two', ' Three', ' One']
+Rank 9 | Centroid: ' Maybe' | Score: 0.0000
+  Tokens: [' Maybe', ' Also']
+Rank 10 | Centroid: ' Sentence' | Score: 0.0000
+  Tokens: [' Sentence', ' Sent', ' Person', ' Words']
+Rank 11 | Centroid: ' Breaking' | Score: 0.0000
+  Tokens: [' Breaking', ' Split', ' Rew', ' Break']
+Rank 12 | Centroid: ' Scene' | Score: 0.0000
+  Tokens: [' Story', ' Scene', ' Scenes', ' Context']
+Rank 13 | Centroid: ' Points' | Score: 0.0000
+  Tokens: [' Points']
+Rank 14 | Centroid: ' Good' | Score: 0.0000
+  Tokens: [' Good']
 
 **Chosen Concept:** Rank 1

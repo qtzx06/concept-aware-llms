@@ -1,68 +1,142 @@
 --- Step 72 Log ---
 
 == Filtered Candidates ==
-Token: ' message' (ID: 1943), Prob: 0.9883
-Token: ' prompt' (ID: 9934), Prob: 0.0040
-Token: ' messages' (ID: 6605), Prob: 0.0008
-Token: '.message' (ID: 6698), Prob: 0.0004
-Token: ' Message' (ID: 4856), Prob: 0.0002
-Token: ' question' (ID: 3405), Prob: 0.0001
-Token: '(message' (ID: 7333), Prob: 0.0001
-Token: 'message' (ID: 1994), Prob: 0.0001
-Token: '	message' (ID: 24753), Prob: 0.0000
-Token: ' statement' (ID: 5114), Prob: 0.0000
-Token: ':message' (ID: 91473), Prob: 0.0000
-Token: ' answer' (ID: 4226), Prob: 0.0000
-Token: ' mes' (ID: 10846), Prob: 0.0000
-Token: 'Message' (ID: 2052), Prob: 0.0000
-Token: ' information' (ID: 1995), Prob: 0.0000
-Token: ' motif' (ID: 59512), Prob: 0.0000
-Token: ' point' (ID: 1459), Prob: 0.0000
-Token: ' response' (ID: 2033), Prob: 0.0000
-Token: ' theme' (ID: 6912), Prob: 0.0000
-Token: ' phrase' (ID: 17133), Prob: 0.0000
-Token: ',message' (ID: 72783), Prob: 0.0000
-Token: '-message' (ID: 29332), Prob: 0.0000
-Token: ' messaging' (ID: 29522), Prob: 0.0000
-Token: '_message' (ID: 6462), Prob: 0.0000
-Token: ' user' (ID: 1196), Prob: 0.0000
-Token: ' MESSAGE' (ID: 40758), Prob: 0.0000
-Token: '$message' (ID: 42821), Prob: 0.0000
-Token: '/message' (ID: 50624), Prob: 0.0000
-Token: '=message' (ID: 87129), Prob: 0.0000
-Token: ' wording' (ID: 60227), Prob: 0.0000
-Token: ' main' (ID: 1887), Prob: 0.0000
-Token: ' position' (ID: 2309), Prob: 0.0000
-Token: ' lesson' (ID: 17755), Prob: 0.0000
-Token: '.Message' (ID: 8472), Prob: 0.0000
-Token: ' promise' (ID: 11222), Prob: 0.0000
+Token: ' personal' (ID: 4345), Prob: 0.0217
+Token: ' emotions' (ID: 21261), Prob: 0.0192
+Token: ' elements' (ID: 5424), Prob: 0.0103
+Token: ' moments' (ID: 13943), Prob: 0.0103
+Token: ' emotional' (ID: 14269), Prob: 0.0062
+Token: ' something' (ID: 2494), Prob: 0.0026
+Token: ' characters' (ID: 5766), Prob: 0.0026
+Token: ' details' (ID: 3565), Prob: 0.0023
+Token: ' interactions' (ID: 21880), Prob: 0.0018
+Token: ' people' (ID: 1251), Prob: 0.0012
+Token: ' specific' (ID: 3151), Prob: 0.0012
+Token: ' character' (ID: 3668), Prob: 0.0005
+Token: ' activities' (ID: 7488), Prob: 0.0005
+Token: ' feelings' (ID: 15650), Prob: 0.0004
+Token: ' excitement' (ID: 27262), Prob: 0.0004
+Token: ' sensory' (ID: 47969), Prob: 0.0004
+Token: ' quotes' (ID: 17194), Prob: 0.0002
+Token: ' touches' (ID: 28627), Prob: 0.0002
+Token: ' dialogue' (ID: 21276), Prob: 0.0002
+Token: ' someone' (ID: 4325), Prob: 0.0002
+Token: ' warmth' (ID: 40363), Prob: 0.0001
+Token: ' actions' (ID: 6168), Prob: 0.0001
+Token: ' maybe' (ID: 7196), Prob: 0.0001
+Token: ' interaction' (ID: 16230), Prob: 0.0001
+Token: ' local' (ID: 2205), Prob: 0.0001
+Token: ' vivid' (ID: 42020), Prob: 0.0001
+Token: ' emotion' (ID: 19772), Prob: 0.0001
+Token: ' points' (ID: 3501), Prob: 0.0001
+Token: ' experiences' (ID: 11449), Prob: 0.0001
+Token: ' descriptions' (ID: 27787), Prob: 0.0001
+Token: ' person' (ID: 1697), Prob: 0.0001
+Token: ' interesting' (ID: 7040), Prob: 0.0001
+Token: ' descriptive' (ID: 52844), Prob: 0.0001
+Token: ' human' (ID: 3738), Prob: 0.0001
+Token: ' sounds' (ID: 10362), Prob: 0.0001
+Token: ' personality' (ID: 17294), Prob: 0.0001
+Token: ' specifics' (ID: 48349), Prob: 0.0001
+Token: ' anecdotes' (ID: 92966), Prob: 0.0001
+Token: ' encounters' (ID: 33906), Prob: 0.0001
+Token: ' friends' (ID: 4780), Prob: 0.0001
+Token: ' names' (ID: 5036), Prob: 0.0000
+Token: ' action' (ID: 1917), Prob: 0.0000
+Token: ' reflections' (ID: 62751), Prob: 0.0000
+Token: ' interpersonal' (ID: 73858), Prob: 0.0000
+Token: ' reactions' (ID: 24473), Prob: 0.0000
+Token: ' family' (ID: 2997), Prob: 0.0000
+Token: ' commentary' (ID: 30610), Prob: 0.0000
+Token: ' imagery' (ID: 40445), Prob: 0.0000
+Token: ' friendly' (ID: 11657), Prob: 0.0000
+Token: ' mentions' (ID: 33845), Prob: 0.0000
+Token: ' things' (ID: 2513), Prob: 0.0000
+Token: ' transportation' (ID: 17903), Prob: 0.0000
+Token: ' scenic' (ID: 60981), Prob: 0.0000
+Token: ' touch' (ID: 5796), Prob: 0.0000
+Token: ' memories' (ID: 18923), Prob: 0.0000
+Token: ' memorable' (ID: 32496), Prob: 0.0000
+Token: ' atmosphere' (ID: 16566), Prob: 0.0000
+Token: ' adventure' (ID: 17943), Prob: 0.0000
+Token: ' teamwork' (ID: 83533), Prob: 0.0000
+Token: ' activity' (ID: 5702), Prob: 0.0000
+Token: ' movement' (ID: 7203), Prob: 0.0000
+Token: ' wildlife' (ID: 29305), Prob: 0.0000
+Token: ' end' (ID: 835), Prob: 0.0000
+Token: ' motivation' (ID: 24798), Prob: 0.0000
+Token: ' rel' (ID: 1351), Prob: 0.0000
+Token: ' natural' (ID: 5810), Prob: 0.0000
+Token: ' mention' (ID: 6286), Prob: 0.0000
+Token: ' life' (ID: 2272), Prob: 0.0000
+Token: ' events' (ID: 4357), Prob: 0.0000
+Token: ' perspectives' (ID: 38455), Prob: 0.0000
+Token: ' scenes' (ID: 16065), Prob: 0.0000
+Token: ' characteristics' (ID: 17452), Prob: 0.0000
+Token: ' scenery' (ID: 50231), Prob: 0.0000
+Token: ' stories' (ID: 7343), Prob: 0.0000
+Token: ' thoughts' (ID: 11303), Prob: 0.0000
+Token: ' laughter' (ID: 42114), Prob: 0.0000
+Token: ' humor' (ID: 27385), Prob: 0.0000
+Token: ' back' (ID: 1182), Prob: 0.0000
+Token: ' fun' (ID: 2464), Prob: 0.0000
+Token: ' unique' (ID: 4911), Prob: 0.0000
+Token: ' supporting' (ID: 12613), Prob: 0.0000
+Token: ' personalities' (ID: 43808), Prob: 0.0000
+Token: ' camar' (ID: 96586), Prob: 0.0000
+Token: ' cultural' (ID: 12752), Prob: 0.0000
+Token: ' arrival' (ID: 18647), Prob: 0.0000
+Token: ' motivations' (ID: 64831), Prob: 0.0000
+Token: ' time' (ID: 882), Prob: 0.0000
 
 == Ranked Concepts (Clusters) ==
-Rank 1 | Centroid: ' message' | Score: 0.9883
-  Tokens: [' message', ' messages', '.message', ' Message', '(message', 'message', '\tmessage', 'Message', '-message', '_message', ' MESSAGE', '.Message']
-Rank 2 | Centroid: ' prompt' | Score: 0.0040
-  Tokens: [' prompt', ' promise']
-Rank 3 | Centroid: ' question' | Score: 0.0001
-  Tokens: [' question']
-Rank 4 | Centroid: '/message' | Score: 0.0000
-  Tokens: [':message', ',message', '$message', '/message', '=message']
-Rank 5 | Centroid: ' phrase' | Score: 0.0000
-  Tokens: [' statement', ' phrase', ' wording']
-Rank 6 | Centroid: ' answer' | Score: 0.0000
-  Tokens: [' answer', ' response']
-Rank 7 | Centroid: ' theme' | Score: 0.0000
-  Tokens: [' motif', ' theme', ' lesson']
-Rank 8 | Centroid: ' point' | Score: 0.0000
-  Tokens: [' point', ' position']
-Rank 9 | Centroid: ' mes' | Score: 0.0000
-  Tokens: [' mes']
-Rank 10 | Centroid: ' information' | Score: 0.0000
-  Tokens: [' information']
-Rank 11 | Centroid: ' messaging' | Score: 0.0000
-  Tokens: [' messaging']
-Rank 12 | Centroid: ' user' | Score: 0.0000
-  Tokens: [' user']
-Rank 13 | Centroid: ' main' | Score: 0.0000
-  Tokens: [' main']
+Rank 1 | Centroid: ' emotions' | Score: 0.0259
+  Tokens: [' emotions', ' emotional', ' feelings', ' emotion']
+Rank 2 | Centroid: ' person' | Score: 0.0231
+  Tokens: [' personal', ' people', ' person', ' human']
+Rank 3 | Centroid: ' moments' | Score: 0.0206
+  Tokens: [' elements', ' moments', ' points', ' events']
+Rank 4 | Centroid: ' specifics' | Score: 0.0036
+  Tokens: [' details', ' specific', ' descriptive', ' specifics']
+Rank 5 | Centroid: ' characters' | Score: 0.0032
+  Tokens: [' characters', ' character', ' characteristics']
+Rank 6 | Centroid: ' something' | Score: 0.0029
+  Tokens: [' something', ' someone', ' maybe', ' things']
+Rank 7 | Centroid: ' interactions' | Score: 0.0019
+  Tokens: [' interactions', ' interaction']
+Rank 8 | Centroid: ' actions' | Score: 0.0007
+  Tokens: [' activities', ' actions', ' action', ' activity', ' movement']
+Rank 9 | Centroid: ' excitement' | Score: 0.0006
+  Tokens: [' excitement', ' warmth', ' atmosphere', ' adventure', ' teamwork', ' laughter', ' humor', ' camar']
+Rank 10 | Centroid: ' mentions' | Score: 0.0004
+  Tokens: [' quotes', ' descriptions', ' names', ' mentions', ' mention']
+Rank 11 | Centroid: ' sensory' | Score: 0.0004
+  Tokens: [' sensory', ' cultural']
+Rank 12 | Centroid: ' touches' | Score: 0.0002
+  Tokens: [' touches', ' touch']
+Rank 13 | Centroid: ' transportation' | Score: 0.0002
+  Tokens: [' dialogue', ' commentary', ' transportation', ' arrival']
+Rank 14 | Centroid: ' experiences' | Score: 0.0002
+  Tokens: [' experiences', ' encounters', ' reflections', ' reactions', ' perspectives']
+Rank 15 | Centroid: ' scenic' | Score: 0.0002
+  Tokens: [' vivid', ' imagery', ' scenic', ' scenery']
+Rank 16 | Centroid: ' local' | Score: 0.0001
+  Tokens: [' local', ' natural', ' fun', ' unique']
+Rank 17 | Centroid: ' anecdotes' | Score: 0.0001
+  Tokens: [' anecdotes', ' memories', ' scenes', ' stories', ' thoughts']
+Rank 18 | Centroid: ' personality' | Score: 0.0001
+  Tokens: [' personality', ' interpersonal', ' personalities']
+Rank 19 | Centroid: ' family' | Score: 0.0001
+  Tokens: [' family', ' end', ' rel', ' life', ' back', ' time']
+Rank 20 | Centroid: ' friendly' | Score: 0.0001
+  Tokens: [' friends', ' friendly', ' wildlife']
+Rank 21 | Centroid: ' interesting' | Score: 0.0001
+  Tokens: [' interesting', ' memorable']
+Rank 22 | Centroid: ' sounds' | Score: 0.0001
+  Tokens: [' sounds']
+Rank 23 | Centroid: ' motivation' | Score: 0.0000
+  Tokens: [' motivation', ' motivations']
+Rank 24 | Centroid: ' supporting' | Score: 0.0000
+  Tokens: [' supporting']
 
 **Chosen Concept:** Rank 1

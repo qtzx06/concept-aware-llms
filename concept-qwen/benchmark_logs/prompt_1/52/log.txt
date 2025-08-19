@@ -1,149 +1,155 @@
 --- Step 52 Log ---
 
 == Filtered Candidates ==
-Token: ' metaph' (ID: 30668), Prob: 0.3223
-Token: ' sensory' (ID: 47969), Prob: 0.2217
-Token: ' words' (ID: 4244), Prob: 0.1348
-Token: ' strong' (ID: 3746), Prob: 0.1187
-Token: ' descriptive' (ID: 52844), Prob: 0.0437
-Token: ' simple' (ID: 4285), Prob: 0.0161
-Token: ' repetition' (ID: 53415), Prob: 0.0076
-Token: ' metaphor' (ID: 45350), Prob: 0.0067
-Token: ' synonyms' (ID: 85406), Prob: 0.0046
-Token: ' sim' (ID: 1643), Prob: 0.0041
-Token: ' short' (ID: 2805), Prob: 0.0041
-Token: ' contr' (ID: 6027), Prob: 0.0036
-Token: ' complex' (ID: 6351), Prob: 0.0032
-Token: ' phrases' (ID: 31747), Prob: 0.0032
-Token: ' poetic' (ID: 75434), Prob: 0.0032
-Token: ' personal' (ID: 4345), Prob: 0.0030
-Token: ' concrete' (ID: 14175), Prob: 0.0022
-Token: ' active' (ID: 4541), Prob: 0.0020
-Token: ' rhetorical' (ID: 85968), Prob: 0.0019
-Token: ' emojis' (ID: 99066), Prob: 0.0019
-Token: ' clich' (ID: 62592), Prob: 0.0014
-Token: ' action' (ID: 1917), Prob: 0.0012
-Token: ' actions' (ID: 6168), Prob: 0.0010
-Token: ' common' (ID: 4185), Prob: 0.0010
-Token: ' natural' (ID: 5810), Prob: 0.0009
-Token: ' positive' (ID: 6785), Prob: 0.0008
-Token: ' physical' (ID: 6961), Prob: 0.0008
-Token: ' expressive' (ID: 77123), Prob: 0.0008
-Token: ' emotional' (ID: 14269), Prob: 0.0007
-Token: ' powerful' (ID: 7988), Prob: 0.0006
-Token: ' rel' (ID: 1351), Prob: 0.0006
-Token: ' soft' (ID: 8413), Prob: 0.0006
-Token: ' concise' (ID: 63594), Prob: 0.0006
-Token: ' collo' (ID: 80948), Prob: 0.0006
-Token: ' past' (ID: 3267), Prob: 0.0005
-Token: ' technical' (ID: 10916), Prob: 0.0005
-Token: ' universal' (ID: 20178), Prob: 0.0004
-Token: ' analog' (ID: 23400), Prob: 0.0004
-Token: ' imagery' (ID: 40445), Prob: 0.0004
-Token: ' emotions' (ID: 21261), Prob: 0.0004
-Token: ' verbs' (ID: 61846), Prob: 0.0003
-Token: ' direct' (ID: 2118), Prob: 0.0003
-Token: ' different' (ID: 2155), Prob: 0.0003
-Token: ' literary' (ID: 31365), Prob: 0.0003
-Token: ' language' (ID: 4128), Prob: 0.0003
-Token: ' dynamic' (ID: 8741), Prob: 0.0003
-Token: ' passive' (ID: 27879), Prob: 0.0003
-Token: ' word' (ID: 3409), Prob: 0.0002
-Token: ' appropriate' (ID: 8311), Prob: 0.0002
-Token: ' contrasting' (ID: 73955), Prob: 0.0002
-Token: ' rhyme' (ID: 96934), Prob: 0.0002
-Token: ' imper' (ID: 16772), Prob: 0.0002
-Token: ' long' (ID: 1293), Prob: 0.0002
-Token: ' symbols' (ID: 17738), Prob: 0.0002
-Token: ' everyday' (ID: 17778), Prob: 0.0002
-Token: ' proper' (ID: 6169), Prob: 0.0002
-Token: ' vivid' (ID: 42020), Prob: 0.0002
-Token: ' transition' (ID: 9142), Prob: 0.0002
-Token: ' impactful' (ID: 97890), Prob: 0.0002
-Token: ' varied' (ID: 27730), Prob: 0.0002
-Token: ' senses' (ID: 37107), Prob: 0.0002
-Token: ' first' (ID: 1156), Prob: 0.0002
-Token: ' casual' (ID: 16334), Prob: 0.0002
-Token: ' terms' (ID: 3793), Prob: 0.0002
-Token: ' general' (ID: 4586), Prob: 0.0002
-Token: ' negative' (ID: 8225), Prob: 0.0002
-Token: ' examples' (ID: 10295), Prob: 0.0002
-Token: ' symbolic' (ID: 35296), Prob: 0.0002
-Token: ' descriptors' (ID: 47517), Prob: 0.0002
-Token: ' multiple' (ID: 5248), Prob: 0.0001
-Token: ' nature' (ID: 6993), Prob: 0.0001
-Token: ' collective' (ID: 21750), Prob: 0.0001
-Token: ' inclusive' (ID: 28308), Prob: 0.0001
-Token: ' person' (ID: 1697), Prob: 0.0001
-Token: ' emot' (ID: 10172), Prob: 0.0001
-Token: ' romantic' (ID: 23467), Prob: 0.0001
-Token: ' free' (ID: 1910), Prob: 0.0001
-Token: ' intense' (ID: 18894), Prob: 0.0001
-Token: ' excl' (ID: 80284), Prob: 0.0001
-Token: ' paren' (ID: 37940), Prob: 0.0001
-Token: ' sensual' (ID: 59617), Prob: 0.0001
-Token: ' specific' (ID: 3151), Prob: 0.0001
-Token: ' body' (ID: 2487), Prob: 0.0001
-Token: ' ple' (ID: 7100), Prob: 0.0001
-Token: ' possess' (ID: 15218), Prob: 0.0001
-Token: ' colorful' (ID: 33866), Prob: 0.0001
-Token: ' figur' (ID: 55655), Prob: 0.0001
-Token: ' quant' (ID: 10272), Prob: 0.0001
+Token: ' personal' (ID: 4345), Prob: 0.1650
+Token: ' natural' (ID: 5810), Prob: 0.1279
+Token: ' crisis' (ID: 11251), Prob: 0.0776
+Token: ' traumatic' (ID: 53186), Prob: 0.0605
+Token: ' recent' (ID: 3213), Prob: 0.0325
+Token: ' conflict' (ID: 12055), Prob: 0.0253
+Token: ' sudden' (ID: 10968), Prob: 0.0222
+Token: ' storm' (ID: 13458), Prob: 0.0209
+Token: ' series' (ID: 4013), Prob: 0.0197
+Token: ' disaster' (ID: 20763), Prob: 0.0197
+Token: ' family' (ID: 2997), Prob: 0.0173
+Token: ' situation' (ID: 6534), Prob: 0.0127
+Token: ' loss' (ID: 4709), Prob: 0.0119
+Token: ' war' (ID: 4116), Prob: 0.0112
+Token: ' tragic' (ID: 34179), Prob: 0.0105
+Token: ' major' (ID: 3598), Prob: 0.0099
+Token: ' past' (ID: 3267), Prob: 0.0093
+Token: ' specific' (ID: 3151), Prob: 0.0087
+Token: ' difficult' (ID: 5000), Prob: 0.0087
+Token: ' critical' (ID: 9023), Prob: 0.0087
+Token: ' mysterious' (ID: 25382), Prob: 0.0082
+Token: ' tragedy' (ID: 30826), Prob: 0.0077
+Token: ' serious' (ID: 6001), Prob: 0.0072
+Token: ' trauma' (ID: 29888), Prob: 0.0072
+Token: ' catastrophic' (ID: 53577), Prob: 0.0072
+Token: ' flood' (ID: 17726), Prob: 0.0068
+Token: ' catastrophe' (ID: 64296), Prob: 0.0068
+Token: ' global' (ID: 3644), Prob: 0.0064
+Token: ' fire' (ID: 3940), Prob: 0.0060
+Token: ' change' (ID: 2297), Prob: 0.0056
+Token: ' significant' (ID: 5089), Prob: 0.0053
+Token: ' threat' (ID: 5899), Prob: 0.0053
+Token: ' strange' (ID: 14888), Prob: 0.0050
+Token: ' supernatural' (ID: 48958), Prob: 0.0050
+Token: ' dangerous' (ID: 11406), Prob: 0.0041
+Token: ' severe' (ID: 15386), Prob: 0.0039
+Token: ' real' (ID: 1931), Prob: 0.0032
+Token: ' problem' (ID: 3491), Prob: 0.0032
+Token: ' certain' (ID: 3654), Prob: 0.0032
+Token: ' powerful' (ID: 7988), Prob: 0.0030
+Token: ' new' (ID: 501), Prob: 0.0028
+Token: ' life' (ID: 2272), Prob: 0.0028
+Token: ' common' (ID: 4185), Prob: 0.0027
+Token: ' hurricane' (ID: 48684), Prob: 0.0027
+Token: ' person' (ID: 1697), Prob: 0.0023
+Token: ' domestic' (ID: 12728), Prob: 0.0023
+Token: ' local' (ID: 2205), Prob: 0.0019
+Token: ' particular' (ID: 3953), Prob: 0.0019
+Token: ' medical' (ID: 6457), Prob: 0.0019
+Token: ' challenge' (ID: 8645), Prob: 0.0019
+Token: ' minor' (ID: 8922), Prob: 0.0019
+Token: ' temporary' (ID: 13340), Prob: 0.0019
+Token: ' request' (ID: 1681), Prob: 0.0018
+Token: ' call' (ID: 1618), Prob: 0.0017
+Token: ' bad' (ID: 3873), Prob: 0.0017
+Token: ' community' (ID: 3942), Prob: 0.0016
+Token: ' threatening' (ID: 26805), Prob: 0.0016
+Token: ' hardship' (ID: 66550), Prob: 0.0016
+Token: ' single' (ID: 3175), Prob: 0.0015
+Token: ' moment' (ID: 4445), Prob: 0.0015
+Token: ' previous' (ID: 3681), Prob: 0.0014
+Token: ' triggering' (ID: 51505), Prob: 0.0014
+Token: ' haunting' (ID: 76654), Prob: 0.0014
+Token: ' story' (ID: 3364), Prob: 0.0013
+Token: ' lost' (ID: 5558), Prob: 0.0013
+Token: ' violent' (ID: 16401), Prob: 0.0013
+Token: ' small' (ID: 2613), Prob: 0.0013
+Token: ' misunderstanding' (ID: 69747), Prob: 0.0013
+Token: ' period' (ID: 4168), Prob: 0.0012
+Token: ' mental' (ID: 10502), Prob: 0.0012
+Token: ' challenging' (ID: 17003), Prob: 0.0012
+Token: ' recurring' (ID: 45250), Prob: 0.0012
+Token: ' stressful' (ID: 45783), Prob: 0.0012
+Token: ' car' (ID: 1803), Prob: 0.0011
+Token: ' power' (ID: 2355), Prob: 0.0011
+Token: ' visit' (ID: 3947), Prob: 0.0011
+Token: ' forced' (ID: 9575), Prob: 0.0011
+Token: ' harsh' (ID: 24939), Prob: 0.0011
+Token: ' perceived' (ID: 25536), Prob: 0.0011
+Token: ' health' (ID: 2820), Prob: 0.0010
+Token: ' strong' (ID: 3746), Prob: 0.0010
+Token: ' friend' (ID: 4238), Prob: 0.0010
+Token: ' calam' (ID: 79833), Prob: 0.0010
+Token: ' mis' (ID: 5786), Prob: 0.0010
+Token: ' physical' (ID: 6961), Prob: 0.0010
+Token: ' dramatic' (ID: 21771), Prob: 0.0009
+Token: ' devastating' (ID: 32218), Prob: 0.0009
+Token: ' home' (ID: 2114), Prob: 0.0009
+Token: ' fear' (ID: 8679), Prob: 0.0009
+Token: ' terrible' (ID: 17478), Prob: 0.0009
+Token: ' separation' (ID: 24737), Prob: 0.0009
+Token: ' disturbance' (ID: 64758), Prob: 0.0009
+Token: ' coming' (ID: 5001), Prob: 0.0008
+Token: ' dark' (ID: 6319), Prob: 0.0008
+Token: ' psychological' (ID: 23187), Prob: 0.0008
+Token: ' refugee' (ID: 33167), Prob: 0.0008
+Token: ' distress' (ID: 34004), Prob: 0.0008
+Token: ' current' (ID: 1482), Prob: 0.0008
+Token: ' group' (ID: 1874), Prob: 0.0008
+Token: ' social' (ID: 3590), Prob: 0.0008
 
 == Ranked Concepts (Clusters) ==
-Rank 1 | Centroid: ' metaphor' | Score: 0.3340
-  Tokens: [' metaph', ' metaphor', ' sim', ' analog', ' figur']
-Rank 2 | Centroid: ' sensory' | Score: 0.2217
-  Tokens: [' sensory', ' senses', ' sensual']
-Rank 3 | Centroid: ' words' | Score: 0.1357
-  Tokens: [' words', ' language', ' word', ' terms']
-Rank 4 | Centroid: ' powerful' | Score: 0.1230
-  Tokens: [' strong', ' complex', ' powerful', ' dynamic', ' intense']
-Rank 5 | Centroid: ' descriptive' | Score: 0.0439
-  Tokens: [' descriptive', ' descriptors']
-Rank 6 | Centroid: ' universal' | Score: 0.0178
-  Tokens: [' simple', ' common', ' universal', ' general', ' specific']
-Rank 7 | Centroid: ' verbs' | Score: 0.0103
-  Tokens: [' synonyms', ' phrases', ' emojis', ' verbs', ' rhyme']
-Rank 8 | Centroid: ' contrasting' | Score: 0.0080
-  Tokens: [' repetition', ' contrasting', ' varied']
-Rank 9 | Centroid: ' literary' | Score: 0.0055
-  Tokens: [' poetic', ' rhetorical', ' literary', ' romantic']
-Rank 10 | Centroid: ' short' | Score: 0.0049
-  Tokens: [' short', ' soft', ' long']
-Rank 11 | Centroid: ' quant' | Score: 0.0045
-  Tokens: [' contr', ' past', ' imper', ' quant']
-Rank 12 | Centroid: ' person' | Score: 0.0032
-  Tokens: [' personal', ' person', ' body']
-Rank 13 | Centroid: ' concrete' | Score: 0.0023
-  Tokens: [' concrete', ' collective']
-Rank 14 | Centroid: ' active' | Score: 0.0023
-  Tokens: [' active', ' passive']
-Rank 15 | Centroid: ' action' | Score: 0.0022
-  Tokens: [' action', ' actions']
-Rank 16 | Centroid: ' clich' | Score: 0.0020
-  Tokens: [' clich', ' collo']
-Rank 17 | Centroid: ' vivid' | Score: 0.0018
-  Tokens: [' expressive', ' concise', ' vivid', ' impactful', ' colorful']
-Rank 18 | Centroid: ' natural' | Score: 0.0018
-  Tokens: [' natural', ' rel', ' transition', ' nature']
-Rank 19 | Centroid: ' emotional' | Score: 0.0012
-  Tokens: [' emotional', ' emotions', ' emot']
-Rank 20 | Centroid: ' positive' | Score: 0.0009
-  Tokens: [' positive', ' negative']
-Rank 21 | Centroid: ' appropriate' | Score: 0.0009
-  Tokens: [' different', ' appropriate', ' proper', ' multiple']
-Rank 22 | Centroid: ' casual' | Score: 0.0009
-  Tokens: [' technical', ' everyday', ' casual']
-Rank 23 | Centroid: ' symbolic' | Score: 0.0008
-  Tokens: [' imagery', ' symbols', ' symbolic']
-Rank 24 | Centroid: ' physical' | Score: 0.0008
-  Tokens: [' physical']
-Rank 25 | Centroid: ' first' | Score: 0.0006
-  Tokens: [' direct', ' first', ' free']
-Rank 26 | Centroid: ' possess' | Score: 0.0006
-  Tokens: [' inclusive', ' excl', ' paren', ' ple', ' possess']
-Rank 27 | Centroid: ' examples' | Score: 0.0002
-  Tokens: [' examples']
+Rank 1 | Centroid: ' medical' | Score: 0.3125
+  Tokens: [' personal', ' natural', ' global', ' real', ' domestic', ' local', ' medical', ' health', ' physical', ' social']
+Rank 2 | Centroid: ' disaster' | Score: 0.1377
+  Tokens: [' crisis', ' conflict', ' disaster', ' tragedy', ' catastrophe', ' calam']
+Rank 3 | Centroid: ' catastrophic' | Score: 0.0825
+  Tokens: [' traumatic', ' tragic', ' catastrophic', ' violent', ' dramatic', ' devastating', ' terrible']
+Rank 4 | Centroid: ' previous' | Score: 0.0447
+  Tokens: [' recent', ' past', ' previous', ' coming', ' current']
+Rank 5 | Centroid: ' situation' | Score: 0.0383
+  Tokens: [' series', ' situation', ' problem', ' moment', ' period']
+Rank 6 | Centroid: ' flood' | Score: 0.0371
+  Tokens: [' storm', ' flood', ' fire', ' hurricane', ' fear']
+Rank 7 | Centroid: ' serious' | Score: 0.0295
+  Tokens: [' major', ' serious', ' significant', ' severe', ' minor', ' small']
+Rank 8 | Centroid: ' sudden' | Score: 0.0254
+  Tokens: [' sudden', ' temporary', ' recurring']
+Rank 9 | Centroid: ' community' | Score: 0.0234
+  Tokens: [' family', ' life', ' community', ' home', ' group']
+Rank 10 | Centroid: ' specific' | Score: 0.0209
+  Tokens: [' specific', ' certain', ' new', ' common', ' particular', ' single']
+Rank 11 | Centroid: ' lost' | Score: 0.0157
+  Tokens: [' loss', ' bad', ' lost', ' dark']
+Rank 12 | Centroid: ' mysterious' | Score: 0.0132
+  Tokens: [' mysterious', ' strange']
+Rank 13 | Centroid: ' war' | Score: 0.0123
+  Tokens: [' war', ' car']
+Rank 14 | Centroid: ' challenging' | Score: 0.0118
+  Tokens: [' difficult', ' challenge', ' challenging']
+Rank 15 | Centroid: ' threatening' | Score: 0.0105
+  Tokens: [' threat', ' threatening', ' hardship', ' stressful', ' distress']
+Rank 16 | Centroid: ' request' | Score: 0.0103
+  Tokens: [' change', ' request', ' call', ' visit']
+Rank 17 | Centroid: ' trauma' | Score: 0.0089
+  Tokens: [' trauma', ' disturbance', ' refugee']
+Rank 18 | Centroid: ' critical' | Score: 0.0087
+  Tokens: [' critical']
+Rank 19 | Centroid: ' haunting' | Score: 0.0078
+  Tokens: [' supernatural', ' triggering', ' haunting']
+Rank 20 | Centroid: ' powerful' | Score: 0.0063
+  Tokens: [' powerful', ' power', ' forced', ' strong']
+Rank 21 | Centroid: ' dangerous' | Score: 0.0052
+  Tokens: [' dangerous', ' harsh']
+Rank 22 | Centroid: ' friend' | Score: 0.0047
+  Tokens: [' person', ' story', ' friend']
+Rank 23 | Centroid: ' misunderstanding' | Score: 0.0042
+  Tokens: [' misunderstanding', ' perceived', ' mis', ' separation']
+Rank 24 | Centroid: ' mental' | Score: 0.0020
+  Tokens: [' mental', ' psychological']
 
 **Chosen Concept:** Rank 1

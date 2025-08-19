@@ -1,70 +1,24 @@
 --- Step 39 Log ---
 
 == Filtered Candidates ==
-Token: ' could' (ID: 1410), Prob: 0.6758
-Token: ' might' (ID: 2578), Prob: 0.0040
-Token: ' may' (ID: 1231), Prob: 0.0022
-Token: ' must' (ID: 1969), Prob: 0.0022
-Token: ' would' (ID: 1035), Prob: 0.0007
-Token: ' need' (ID: 1184), Prob: 0.0003
-Token: ' based' (ID: 3118), Prob: 0.0003
-Token: ' vary' (ID: 13289), Prob: 0.0001
-Token: ' Could' (ID: 16503), Prob: 0.0001
-Token: ' include' (ID: 2924), Prob: 0.0001
-Token: ' maybe' (ID: 7196), Prob: 0.0001
-Token: ' possible' (ID: 3204), Prob: 0.0001
-Token: ' possibly' (ID: 10767), Prob: 0.0001
-Token: ' cannot' (ID: 4157), Prob: 0.0001
-Token: ' show' (ID: 1473), Prob: 0.0000
-Token: ' probably' (ID: 4658), Prob: 0.0000
-Token: ' example' (ID: 3110), Prob: 0.0000
-Token: ' shown' (ID: 6839), Prob: 0.0000
-Token: ' provided' (ID: 3897), Prob: 0.0000
-Token: ' examples' (ID: 10295), Prob: 0.0000
-Token: ' using' (ID: 1667), Prob: 0.0000
-Token: ' according' (ID: 4092), Prob: 0.0000
-Token: ' per' (ID: 817), Prob: 0.0000
-Token: ' also' (ID: 1083), Prob: 0.0000
-Token: ' since' (ID: 2474), Prob: 0.0000
-Token: ' needed' (ID: 4362), Prob: 0.0000
-Token: ' scored' (ID: 16548), Prob: 0.0000
-Token: ' either' (ID: 2987), Prob: 0.0000
-Token: ' likely' (ID: 4363), Prob: 0.0000
-Token: ' usually' (ID: 5990), Prob: 0.0000
-Token: ' count' (ID: 1760), Prob: 0.0000
-Token: ' generated' (ID: 7907), Prob: 0.0000
-Token: 'could' (ID: 28077), Prob: 0.0000
-Token: ' given' (ID: 2661), Prob: 0.0000
-Token: ' explain' (ID: 10339), Prob: 0.0000
-Token: ' showing' (ID: 9027), Prob: 0.0000
-Token: ' like' (ID: 1075), Prob: 0.0000
+Token: ' step' (ID: 3019), Prob: 0.0001
+Token: ' carefully' (ID: 15516), Prob: 0.0000
+Token: ' aloud' (ID: 70411), Prob: 0.0000
+Token: '—it' (ID: 43503), Prob: 0.0000
+Token: '—the' (ID: 21677), Prob: 0.0000
+Token: '—if' (ID: 89763), Prob: 0.0000
+Token: ' deeply' (ID: 17247), Prob: 0.0000
 
 == Ranked Concepts (Clusters) ==
-Rank 1 | Centroid: ' could' | Score: 0.6758
-  Tokens: [' could', ' Could', 'could']
-Rank 2 | Centroid: ' may' | Score: 0.0090
-  Tokens: [' might', ' may', ' must', ' would', ' cannot']
-Rank 3 | Centroid: ' according' | Score: 0.0004
-  Tokens: [' based', ' using', ' according', ' per', ' since', ' like']
-Rank 4 | Centroid: ' need' | Score: 0.0004
-  Tokens: [' need', ' needed']
-Rank 5 | Centroid: ' possibly' | Score: 0.0003
-  Tokens: [' maybe', ' possible', ' possibly', ' probably', ' likely']
-Rank 6 | Centroid: ' vary' | Score: 0.0002
-  Tokens: [' vary', ' include', ' explain']
-Rank 7 | Centroid: ' show' | Score: 0.0001
-  Tokens: [' show', ' shown', ' showing']
-Rank 8 | Centroid: ' example' | Score: 0.0001
-  Tokens: [' example', ' examples']
-Rank 9 | Centroid: ' provided' | Score: 0.0001
-  Tokens: [' provided', ' generated', ' given']
-Rank 10 | Centroid: ' also' | Score: 0.0000
-  Tokens: [' also', ' usually']
-Rank 11 | Centroid: ' scored' | Score: 0.0000
-  Tokens: [' scored']
-Rank 12 | Centroid: ' either' | Score: 0.0000
-  Tokens: [' either']
-Rank 13 | Centroid: ' count' | Score: 0.0000
-  Tokens: [' count']
+Rank 1 | Centroid: ' step' | Score: 0.0001
+  Tokens: [' step']
+Rank 2 | Centroid: ' carefully' | Score: 0.0000
+  Tokens: [' carefully']
+Rank 3 | Centroid: ' aloud' | Score: 0.0000
+  Tokens: [' aloud']
+Rank 4 | Centroid: '—the' | Score: 0.0000
+  Tokens: ['—it', '—the', '—if']
+Rank 5 | Centroid: ' deeply' | Score: 0.0000
+  Tokens: [' deeply']
 
 **Chosen Concept:** Rank 1

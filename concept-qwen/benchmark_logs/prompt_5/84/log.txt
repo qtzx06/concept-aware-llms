@@ -1,0 +1,126 @@
+--- Step 84 Log ---
+
+== Filtered Candidates ==
+Token: ' Need' (ID: 14656), Prob: 0.1064
+Token: ' Let' (ID: 6771), Prob: 0.0391
+Token: ' Hmm' (ID: 88190), Prob: 0.0041
+Token: ' Conflict' (ID: 58585), Prob: 0.0036
+Token: ' Int' (ID: 1333), Prob: 0.0022
+Token: ' Also' (ID: 7281), Prob: 0.0019
+Token: ' Include' (ID: 29734), Prob: 0.0014
+Token: ' Use' (ID: 5443), Prob: 0.0013
+Token: ' Themes' (ID: 62087), Prob: 0.0013
+Token: ' Story' (ID: 15106), Prob: 0.0012
+Token: ' Needs' (ID: 43140), Prob: 0.0011
+Token: ' Add' (ID: 2691), Prob: 0.0008
+Token: ' Create' (ID: 4230), Prob: 0.0008
+Token: ' Build' (ID: 7854), Prob: 0.0006
+Token: ' Show' (ID: 6928), Prob: 0.0005
+Token: ' Start' (ID: 5145), Prob: 0.0004
+Token: ' Including' (ID: 55121), Prob: 0.0004
+Token: ' Wait' (ID: 13824), Prob: 0.0004
+Token: ' Develop' (ID: 7843), Prob: 0.0004
+Token: ' Adding' (ID: 30370), Prob: 0.0003
+Token: ' Together' (ID: 31155), Prob: 0.0003
+Token: ' Using' (ID: 12091), Prob: 0.0002
+Token: ' Think' (ID: 21149), Prob: 0.0002
+Token: ' Action' (ID: 5586), Prob: 0.0002
+Token: ' Maybe' (ID: 10696), Prob: 0.0002
+Token: ' Twist' (ID: 73374), Prob: 0.0002
+Token: ' Resolution' (ID: 37116), Prob: 0.0002
+Token: ' Alternatively' (ID: 38478), Prob: 0.0002
+Token: ' Plot' (ID: 26033), Prob: 0.0002
+Token: ' Incorpor' (ID: 53704), Prob: 0.0001
+Token: ' Next' (ID: 9295), Prob: 0.0001
+Token: ' Children' (ID: 15044), Prob: 0.0001
+Token: ' Building' (ID: 16858), Prob: 0.0001
+Token: ' Setting' (ID: 20037), Prob: 0.0001
+Token: ' Comb' (ID: 22454), Prob: 0.0001
+Token: ' Emotional' (ID: 94200), Prob: 0.0001
+Token: ' Child' (ID: 9391), Prob: 0.0001
+Token: ' Role' (ID: 15404), Prob: 0.0001
+Token: ' Supporting' (ID: 73996), Prob: 0.0001
+Token: ' Pro' (ID: 1298), Prob: 0.0001
+Token: ' Title' (ID: 10869), Prob: 0.0001
+Token: ' Establish' (ID: 39398), Prob: 0.0001
+Token: ' Focus' (ID: 25806), Prob: 0.0001
+Token: ' First' (ID: 5512), Prob: 0.0001
+Token: ' Plan' (ID: 9680), Prob: 0.0001
+Token: ' Plus' (ID: 12343), Prob: 0.0001
+Token: ' Highlight' (ID: 55994), Prob: 0.0001
+Token: ' Alright' (ID: 97593), Prob: 0.0001
+Token: ' Make' (ID: 7405), Prob: 0.0001
+Token: ' Enc' (ID: 10751), Prob: 0.0001
+Token: ' Development' (ID: 10816), Prob: 0.0001
+Token: ' Problem' (ID: 22079), Prob: 0.0001
+Token: ' Combine' (ID: 46812), Prob: 0.0001
+Token: ' Perhaps' (ID: 18765), Prob: 0.0001
+Token: ' Set' (ID: 2573), Prob: 0.0001
+Token: ' Structure' (ID: 28596), Prob: 0.0001
+Token: ' Integration' (ID: 40069), Prob: 0.0001
+Token: ' Important' (ID: 43821), Prob: 0.0001
+Token: ' Time' (ID: 4120), Prob: 0.0001
+Token: ' Storm' (ID: 21862), Prob: 0.0001
+Token: ' Growth' (ID: 33771), Prob: 0.0001
+Token: ' Good' (ID: 7684), Prob: 0.0000
+Token: ' Family' (ID: 12238), Prob: 0.0000
+Token: ' Could' (ID: 16503), Prob: 0.0000
+Token: ' Clim' (ID: 61830), Prob: 0.0000
+Token: ' Starting' (ID: 27657), Prob: 0.0000
+Token: ' Introduction' (ID: 28338), Prob: 0.0000
+
+== Ranked Concepts (Clusters) ==
+Rank 1 | Centroid: ' Need' | Score: 0.1089
+  Tokens: [' Need', ' Use', ' Needs']
+Rank 2 | Centroid: ' Perhaps' | Score: 0.0457
+  Tokens: [' Let', ' Hmm', ' Also', ' Maybe', ' Alternatively', ' Alright', ' Perhaps', ' Could']
+Rank 3 | Centroid: ' Storm' | Score: 0.0063
+  Tokens: [' Conflict', ' Themes', ' Story', ' Twist', ' Storm', ' Clim']
+Rank 4 | Centroid: ' Introduction' | Score: 0.0023
+  Tokens: [' Int', ' Enc', ' Introduction']
+Rank 5 | Centroid: ' Include' | Score: 0.0018
+  Tokens: [' Include', ' Including']
+Rank 6 | Centroid: ' Create' | Score: 0.0013
+  Tokens: [' Create', ' Show', ' Make']
+Rank 7 | Centroid: ' Add' | Score: 0.0011
+  Tokens: [' Add', ' Adding']
+Rank 8 | Centroid: ' Build' | Score: 0.0007
+  Tokens: [' Build', ' Building']
+Rank 9 | Centroid: ' Wait' | Score: 0.0006
+  Tokens: [' Wait', ' Think']
+Rank 10 | Centroid: ' Development' | Score: 0.0005
+  Tokens: [' Develop', ' Development', ' Growth']
+Rank 11 | Centroid: ' Start' | Score: 0.0005
+  Tokens: [' Start', ' Starting']
+Rank 12 | Centroid: ' Time' | Score: 0.0005
+  Tokens: [' Action', ' Pro', ' Title', ' Time']
+Rank 13 | Centroid: ' Combine' | Score: 0.0004
+  Tokens: [' Together', ' Comb', ' Combine']
+Rank 14 | Centroid: ' Child' | Score: 0.0003
+  Tokens: [' Children', ' Child', ' Family']
+Rank 15 | Centroid: ' Setting' | Score: 0.0003
+  Tokens: [' Setting', ' Establish', ' Set']
+Rank 16 | Centroid: ' First' | Score: 0.0003
+  Tokens: [' Next', ' First', ' Good']
+Rank 17 | Centroid: ' Using' | Score: 0.0002
+  Tokens: [' Using']
+Rank 18 | Centroid: ' Plot' | Score: 0.0002
+  Tokens: [' Plot', ' Plan']
+Rank 19 | Centroid: ' Resolution' | Score: 0.0002
+  Tokens: [' Resolution', ' Structure']
+Rank 20 | Centroid: ' Incorpor' | Score: 0.0002
+  Tokens: [' Incorpor', ' Integration']
+Rank 21 | Centroid: ' Emotional' | Score: 0.0002
+  Tokens: [' Emotional', ' Supporting']
+Rank 22 | Centroid: ' Role' | Score: 0.0002
+  Tokens: [' Role', ' Problem']
+Rank 23 | Centroid: ' Focus' | Score: 0.0001
+  Tokens: [' Focus']
+Rank 24 | Centroid: ' Plus' | Score: 0.0001
+  Tokens: [' Plus']
+Rank 25 | Centroid: ' Highlight' | Score: 0.0001
+  Tokens: [' Highlight']
+Rank 26 | Centroid: ' Important' | Score: 0.0001
+  Tokens: [' Important']
+
+**Chosen Concept:** Rank 1

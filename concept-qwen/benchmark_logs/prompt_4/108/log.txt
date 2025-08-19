@@ -1,72 +1,142 @@
 --- Step 108 Log ---
 
 == Filtered Candidates ==
-Token: ' message' (ID: 1943), Prob: 0.9922
-Token: ' prompt' (ID: 9934), Prob: 0.0019
-Token: ' messages' (ID: 6605), Prob: 0.0004
-Token: '.message' (ID: 6698), Prob: 0.0004
-Token: ' Message' (ID: 4856), Prob: 0.0001
-Token: ' question' (ID: 3405), Prob: 0.0001
-Token: '(message' (ID: 7333), Prob: 0.0001
-Token: 'message' (ID: 1994), Prob: 0.0001
-Token: '	message' (ID: 24753), Prob: 0.0000
-Token: ' mes' (ID: 10846), Prob: 0.0000
-Token: ' statement' (ID: 5114), Prob: 0.0000
-Token: ':message' (ID: 91473), Prob: 0.0000
-Token: ',message' (ID: 72783), Prob: 0.0000
-Token: '$message' (ID: 42821), Prob: 0.0000
-Token: '-message' (ID: 29332), Prob: 0.0000
-Token: '=message' (ID: 87129), Prob: 0.0000
-Token: 'Message' (ID: 2052), Prob: 0.0000
-Token: ' theme' (ID: 6912), Prob: 0.0000
-Token: ' motif' (ID: 59512), Prob: 0.0000
-Token: ' answer' (ID: 4226), Prob: 0.0000
-Token: ' messaging' (ID: 29522), Prob: 0.0000
-Token: ' information' (ID: 1995), Prob: 0.0000
-Token: '_message' (ID: 6462), Prob: 0.0000
-Token: ' MESSAGE' (ID: 40758), Prob: 0.0000
-Token: ' phrase' (ID: 17133), Prob: 0.0000
-Token: ' user' (ID: 1196), Prob: 0.0000
-Token: ' response' (ID: 2033), Prob: 0.0000
-Token: ' point' (ID: 1459), Prob: 0.0000
-Token: '/message' (ID: 50624), Prob: 0.0000
-Token: ' month' (ID: 2254), Prob: 0.0000
-Token: ' position' (ID: 2309), Prob: 0.0000
-Token: '.Message' (ID: 8472), Prob: 0.0000
-Token: '<message' (ID: 83747), Prob: 0.0000
-Token: ' lesson' (ID: 17755), Prob: 0.0000
-Token: ' moment' (ID: 4445), Prob: 0.0000
-Token: ' maximum' (ID: 7192), Prob: 0.0000
-Token: ' wording' (ID: 60227), Prob: 0.0000
-Token: ' main' (ID: 1887), Prob: 0.0000
-Token: ' promise' (ID: 11222), Prob: 0.0000
+Token: ' captures' (ID: 40155), Prob: 0.3281
+Token: ' includes' (ID: 5646), Prob: 0.1748
+Token: ' stays' (ID: 26558), Prob: 0.1206
+Token: ' keeps' (ID: 13598), Prob: 0.0569
+Token: ' uses' (ID: 5711), Prob: 0.0391
+Token: ' connects' (ID: 33061), Prob: 0.0269
+Token: ' meets' (ID: 20027), Prob: 0.0184
+Token: ' maintains' (ID: 31995), Prob: 0.0144
+Token: ' incorporates' (ID: 51824), Prob: 0.0144
+Token: ' con' (ID: 390), Prob: 0.0112
+Token: ' encaps' (ID: 42569), Prob: 0.0087
+Token: ' tells' (ID: 10742), Prob: 0.0068
+Token: ' adher' (ID: 34951), Prob: 0.0060
+Token: ' hits' (ID: 12983), Prob: 0.0034
+Token: ' grabs' (ID: 48055), Prob: 0.0027
+Token: ' covers' (ID: 14521), Prob: 0.0025
+Token: ' sticks' (ID: 33140), Prob: 0.0022
+Token: ' sounds' (ID: 10362), Prob: 0.0018
+Token: ' ties' (ID: 19818), Prob: 0.0017
+Token: ' follows' (ID: 11017), Prob: 0.0014
+Token: ' matches' (ID: 9071), Prob: 0.0013
+Token: ' capt' (ID: 6427), Prob: 0.0011
+Token: ' touches' (ID: 28627), Prob: 0.0010
+Token: ' highlights' (ID: 21314), Prob: 0.0010
+Token: ' fits' (ID: 18304), Prob: 0.0009
+Token: ' details' (ID: 3565), Prob: 0.0006
+Token: ' retains' (ID: 51844), Prob: 0.0006
+Token: ' paints' (ID: 56848), Prob: 0.0006
+Token: ' emphasizes' (ID: 65059), Prob: 0.0006
+Token: ' engages' (ID: 68489), Prob: 0.0005
+Token: ' showcases' (ID: 70749), Prob: 0.0004
+Token: ' remains' (ID: 8458), Prob: 0.0004
+Token: ' adds' (ID: 11367), Prob: 0.0003
+Token: ' capture' (ID: 12322), Prob: 0.0003
+Token: ' reflects' (ID: 25963), Prob: 0.0002
+Token: ' keep' (ID: 2506), Prob: 0.0002
+Token: ' gets' (ID: 5221), Prob: 0.0002
+Token: ' remembers' (ID: 42357), Prob: 0.0002
+Token: ' accurately' (ID: 29257), Prob: 0.0002
+Token: ' encompasses' (ID: 69910), Prob: 0.0002
+Token: ' draws' (ID: 26643), Prob: 0.0002
+Token: ' echoes' (ID: 69957), Prob: 0.0002
+Token: ' integrates' (ID: 74662), Prob: 0.0001
+Token: ' reaches' (ID: 24491), Prob: 0.0001
+Token: ' respects' (ID: 42566), Prob: 0.0001
+Token: ' vivid' (ID: 42020), Prob: 0.0001
+Token: ' shows' (ID: 4933), Prob: 0.0001
+Token: ' gives' (ID: 6696), Prob: 0.0001
+Token: ' transitions' (ID: 33592), Prob: 0.0001
+Token: ' wraps' (ID: 39709), Prob: 0.0001
+Token: ' words' (ID: 4244), Prob: 0.0001
+Token: ' mentions' (ID: 33845), Prob: 0.0001
+Token: ' hit' (ID: 4201), Prob: 0.0001
+Token: ' contains' (ID: 5610), Prob: 0.0001
+Token: ' ends' (ID: 10335), Prob: 0.0001
+Token: ' combines' (ID: 32411), Prob: 0.0001
+Token: ' catches' (ID: 37834), Prob: 0.0001
+Token: ' satisfies' (ID: 67901), Prob: 0.0001
+Token: ' include' (ID: 2924), Prob: 0.0001
+Token: ' imm' (ID: 4893), Prob: 0.0001
+Token: ' flows' (ID: 27455), Prob: 0.0001
+Token: ' suits' (ID: 27976), Prob: 0.0001
+Token: ' communicates' (ID: 91506), Prob: 0.0001
+Token: ' starts' (ID: 8471), Prob: 0.0001
+Token: ' feels' (ID: 11074), Prob: 0.0001
+Token: ' answers' (ID: 11253), Prob: 0.0001
+Token: ' reads' (ID: 15804), Prob: 0.0001
+Token: ' convey' (ID: 20001), Prob: 0.0001
+Token: ' mirrors' (ID: 40485), Prob: 0.0001
+Token: ' brings' (ID: 12434), Prob: 0.0001
+Token: ' emotions' (ID: 21261), Prob: 0.0001
+Token: ' introduces' (ID: 38919), Prob: 0.0001
+Token: ' maintain' (ID: 10306), Prob: 0.0001
+Token: ' engaging' (ID: 22570), Prob: 0.0001
+Token: ' every' (ID: 1449), Prob: 0.0001
+Token: ' takes' (ID: 4990), Prob: 0.0001
+Token: ' everyone' (ID: 5019), Prob: 0.0001
+Token: ' leaves' (ID: 10901), Prob: 0.0001
+Token: ' adap' (ID: 38632), Prob: 0.0001
+Token: 'veys' (ID: 49269), Prob: 0.0001
+Token: ' saves' (ID: 25935), Prob: 0.0001
+Token: ' delivers' (ID: 27321), Prob: 0.0001
+Token: ' avoids' (ID: 54852), Prob: 0.0000
+Token: ' describes' (ID: 16555), Prob: 0.0000
+Token: ' presents' (ID: 18404), Prob: 0.0000
+Token: ' honors' (ID: 48493), Prob: 0.0000
+Token: ' ench' (ID: 65712), Prob: 0.0000
 
 == Ranked Concepts (Clusters) ==
-Rank 1 | Centroid: '_message' | Score: 0.9922
-  Tokens: [' message', ' messages', '.message', ' Message', 'message', '-message', 'Message', ' messaging', '_message', '.Message']
-Rank 2 | Centroid: ' prompt' | Score: 0.0019
-  Tokens: [' prompt', ' promise']
-Rank 3 | Centroid: '	message' | Score: 0.0002
-  Tokens: ['(message', '\tmessage', ':message', ',message', '$message', '=message', ' MESSAGE', '/message', '<message']
-Rank 4 | Centroid: ' question' | Score: 0.0001
-  Tokens: [' question']
-Rank 5 | Centroid: ' phrase' | Score: 0.0000
-  Tokens: [' statement', ' phrase', ' wording']
-Rank 6 | Centroid: ' motif' | Score: 0.0000
-  Tokens: [' theme', ' motif', ' month', ' lesson']
-Rank 7 | Centroid: ' mes' | Score: 0.0000
-  Tokens: [' mes']
-Rank 8 | Centroid: ' answer' | Score: 0.0000
-  Tokens: [' answer', ' response']
-Rank 9 | Centroid: ' information' | Score: 0.0000
-  Tokens: [' information', ' user']
-Rank 10 | Centroid: ' point' | Score: 0.0000
-  Tokens: [' point', ' position']
-Rank 11 | Centroid: ' moment' | Score: 0.0000
-  Tokens: [' moment']
-Rank 12 | Centroid: ' maximum' | Score: 0.0000
-  Tokens: [' maximum']
-Rank 13 | Centroid: ' main' | Score: 0.0000
-  Tokens: [' main']
+Rank 1 | Centroid: ' captures' | Score: 0.3379
+  Tokens: [' captures', ' encaps', ' capt', ' capture']
+Rank 2 | Centroid: ' keeps' | Score: 0.1934
+  Tokens: [' stays', ' keeps', ' maintains', ' retains', ' remains', ' keep', ' maintain']
+Rank 3 | Centroid: ' includes' | Score: 0.1777
+  Tokens: [' includes', ' covers', ' contains', ' include']
+Rank 4 | Centroid: ' gets' | Score: 0.0398
+  Tokens: [' uses', ' adds', ' gets', ' reaches', ' starts', ' takes', ' saves']
+Rank 5 | Centroid: ' communicates' | Score: 0.0271
+  Tokens: [' connects', ' communicates', ' delivers', ' avoids']
+Rank 6 | Centroid: ' satisfies' | Score: 0.0199
+  Tokens: [' meets', ' follows', ' satisfies']
+Rank 7 | Centroid: ' incorporates' | Score: 0.0148
+  Tokens: [' incorporates', ' encompasses', ' integrates', ' combines']
+Rank 8 | Centroid: ' every' | Score: 0.0114
+  Tokens: [' con', ' every', ' everyone']
+Rank 9 | Centroid: ' gives' | Score: 0.0073
+  Tokens: [' tells', ' shows', ' gives', ' brings', ' introduces', ' describes', ' presents']
+Rank 10 | Centroid: ' adher' | Score: 0.0062
+  Tokens: [' adher', ' respects', ' adap']
+Rank 11 | Centroid: ' hits' | Score: 0.0045
+  Tokens: [' hits', ' touches', ' hit']
+Rank 12 | Centroid: ' wraps' | Score: 0.0042
+  Tokens: [' sticks', ' ties', ' wraps', ' flows']
+Rank 13 | Centroid: ' grabs' | Score: 0.0027
+  Tokens: [' grabs', ' catches']
+Rank 14 | Centroid: ' highlights' | Score: 0.0023
+  Tokens: [' highlights', ' emphasizes', ' showcases', ' reflects', ' mentions']
+Rank 15 | Centroid: ' fits' | Score: 0.0023
+  Tokens: [' matches', ' fits', ' suits']
+Rank 16 | Centroid: ' leaves' | Score: 0.0020
+  Tokens: [' sounds', ' ends', ' leaves']
+Rank 17 | Centroid: ' vivid' | Score: 0.0011
+  Tokens: [' details', ' accurately', ' vivid', ' words', ' imm']
+Rank 18 | Centroid: ' mirrors' | Score: 0.0009
+  Tokens: [' paints', ' echoes', ' mirrors']
+Rank 19 | Centroid: ' engages' | Score: 0.0006
+  Tokens: [' engages', ' engaging', ' ench']
+Rank 20 | Centroid: ' reads' | Score: 0.0003
+  Tokens: [' draws', ' feels', ' reads']
+Rank 21 | Centroid: ' emotions' | Score: 0.0003
+  Tokens: [' transitions', ' answers', ' emotions']
+Rank 22 | Centroid: ' remembers' | Score: 0.0002
+  Tokens: [' remembers']
+Rank 23 | Centroid: ' convey' | Score: 0.0001
+  Tokens: [' convey', 'veys']
+Rank 24 | Centroid: ' honors' | Score: 0.0000
+  Tokens: [' honors']
 
 **Chosen Concept:** Rank 1

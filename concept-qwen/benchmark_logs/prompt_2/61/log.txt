@@ -1,0 +1,113 @@
+--- Step 61 Log ---
+
+== Filtered Candidates ==
+Token: ' Check' (ID: 4248), Prob: 0.3320
+Token: ' Make' (ID: 7405), Prob: 0.3320
+Token: ' Avoid' (ID: 34006), Prob: 0.1074
+Token: ' Let' (ID: 6771), Prob: 0.0952
+Token: ' Maybe' (ID: 10696), Prob: 0.0449
+Token: ' Need' (ID: 14656), Prob: 0.0309
+Token: ' Alright' (ID: 97593), Prob: 0.0240
+Token: ' Use' (ID: 5443), Prob: 0.0089
+Token: ' Also' (ID: 7281), Prob: 0.0047
+Token: ' Hmm' (ID: 88190), Prob: 0.0037
+Token: ' Ensure' (ID: 29279), Prob: 0.0033
+Token: ' Wait' (ID: 13824), Prob: 0.0015
+Token: ' Double' (ID: 7093), Prob: 0.0012
+Token: ' Watch' (ID: 10357), Prob: 0.0007
+Token: ' Start' (ID: 5145), Prob: 0.0005
+Token: ' Got' (ID: 24528), Prob: 0.0004
+Token: ' Okay' (ID: 35439), Prob: 0.0003
+Token: ' Example' (ID: 13383), Prob: 0.0003
+Token: ' Words' (ID: 27630), Prob: 0.0002
+Token: ' Try' (ID: 9735), Prob: 0.0002
+Token: ' Word' (ID: 9322), Prob: 0.0002
+Token: ' Think' (ID: 21149), Prob: 0.0002
+Token: ' Something' (ID: 24656), Prob: 0.0001
+Token: ' Highlight' (ID: 55994), Prob: 0.0001
+Token: ' Format' (ID: 15042), Prob: 0.0001
+Token: ' Could' (ID: 16503), Prob: 0.0001
+Token: ' Probably' (ID: 37154), Prob: 0.0001
+Token: ' Proof' (ID: 36991), Prob: 0.0001
+Token: ' Yeah' (ID: 21607), Prob: 0.0001
+Token: ' End' (ID: 3972), Prob: 0.0000
+Token: ' Examples' (ID: 25311), Prob: 0.0000
+Token: ' check' (ID: 1779), Prob: 0.0000
+Token: ' Test' (ID: 3393), Prob: 0.0000
+Token: ' Rev' (ID: 10107), Prob: 0.0000
+Token: ' Title' (ID: 10869), Prob: 0.0000
+Token: ' Perhaps' (ID: 18765), Prob: 0.0000
+Token: ' Mention' (ID: 85148), Prob: 0.0000
+Token: ' Keep' (ID: 13655), Prob: 0.0000
+Token: ' Verify' (ID: 25429), Prob: 0.0000
+Token: ' Add' (ID: 2691), Prob: 0.0000
+Token: ' Like' (ID: 8909), Prob: 0.0000
+Token: ' Possible' (ID: 36107), Prob: 0.0000
+Token: ' Total' (ID: 10657), Prob: 0.0000
+Token: ' Structure' (ID: 28596), Prob: 0.0000
+Token: ' Needs' (ID: 43140), Prob: 0.0000
+Token: ' Wrap' (ID: 42187), Prob: 0.0000
+Token: ' maybe' (ID: 7196), Prob: 0.0000
+Token: ' Fix' (ID: 19716), Prob: 0.0000
+Token: ' Combine' (ID: 46812), Prob: 0.0000
+Token: ' Get' (ID: 2126), Prob: 0.0000
+Token: ' Show' (ID: 6928), Prob: 0.0000
+Token: ' Look' (ID: 9192), Prob: 0.0000
+Token: 'Check' (ID: 3973), Prob: 0.0000
+Token: ' Replace' (ID: 29558), Prob: 0.0000
+Token: ' Alphabet' (ID: 62797), Prob: 0.0000
+Token: ' Remove' (ID: 10783), Prob: 0.0000
+Token: ' make' (ID: 1281), Prob: 0.0000
+Token: ' Read' (ID: 4457), Prob: 0.0000
+Token: ' Review' (ID: 10294), Prob: 0.0000
+Token: ' Making' (ID: 24288), Prob: 0.0000
+Token: ' Triple' (ID: 36649), Prob: 0.0000
+Token: ' First' (ID: 5512), Prob: 0.0000
+Token: ' Must' (ID: 15465), Prob: 0.0000
+Token: ' Sounds' (ID: 44141), Prob: 0.0000
+Token: ' Checking' (ID: 46093), Prob: 0.0000
+Token: ' Since' (ID: 8704), Prob: 0.0000
+Token: ' Finally' (ID: 17375), Prob: 0.0000
+Token: ' Figure' (ID: 19037), Prob: 0.0000
+
+== Ranked Concepts (Clusters) ==
+Rank 1 | Centroid: ' Check' | Score: 0.3320
+  Tokens: [' Check', ' check', 'Check', ' Checking']
+Rank 2 | Centroid: ' Make' | Score: 0.3320
+  Tokens: [' Make', ' make', ' Making']
+Rank 3 | Centroid: ' Ensure' | Score: 0.1108
+  Tokens: [' Avoid', ' Ensure', ' Highlight', ' Verify', ' Wrap', ' Combine', ' Replace', ' Remove']
+Rank 4 | Centroid: ' Since' | Score: 0.1001
+  Tokens: [' Let', ' Also', ' Like', ' First', ' Since', ' Finally']
+Rank 5 | Centroid: ' Maybe' | Score: 0.0452
+  Tokens: [' Maybe', ' Something', ' Could', ' Probably', ' Perhaps', ' Possible', ' maybe']
+Rank 6 | Centroid: ' Need' | Score: 0.0309
+  Tokens: [' Need', ' Needs', ' Must']
+Rank 7 | Centroid: ' Okay' | Score: 0.0281
+  Tokens: [' Alright', ' Hmm', ' Okay', ' Yeah', ' Sounds']
+Rank 8 | Centroid: ' Use' | Score: 0.0089
+  Tokens: [' Use', ' Add']
+Rank 9 | Centroid: ' Look' | Score: 0.0024
+  Tokens: [' Wait', ' Watch', ' Think', ' Look', ' Read']
+Rank 10 | Centroid: ' Double' | Score: 0.0012
+  Tokens: [' Double', ' Total', ' Triple']
+Rank 11 | Centroid: ' Get' | Score: 0.0008
+  Tokens: [' Start', ' Try', ' End', ' Get', ' Show']
+Rank 12 | Centroid: ' Example' | Score: 0.0004
+  Tokens: [' Example', ' Proof', ' Examples']
+Rank 13 | Centroid: ' Words' | Score: 0.0004
+  Tokens: [' Words', ' Word', ' Alphabet']
+Rank 14 | Centroid: ' Got' | Score: 0.0004
+  Tokens: [' Got']
+Rank 15 | Centroid: ' Review' | Score: 0.0002
+  Tokens: [' Format', ' Rev', ' Fix', ' Review']
+Rank 16 | Centroid: ' Structure' | Score: 0.0001
+  Tokens: [' Title', ' Structure', ' Figure']
+Rank 17 | Centroid: ' Test' | Score: 0.0000
+  Tokens: [' Test']
+Rank 18 | Centroid: ' Mention' | Score: 0.0000
+  Tokens: [' Mention']
+Rank 19 | Centroid: ' Keep' | Score: 0.0000
+  Tokens: [' Keep']
+
+**Chosen Concept:** Rank 1

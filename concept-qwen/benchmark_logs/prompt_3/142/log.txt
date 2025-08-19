@@ -1,0 +1,132 @@
+--- Step 142 Log ---
+
+== Filtered Candidates ==
+Token: ' leading' (ID: 6388), Prob: 0.7969
+Token: ' like' (ID: 1075), Prob: 0.0840
+Token: ' causing' (ID: 14381), Prob: 0.0273
+Token: ' creating' (ID: 6825), Prob: 0.0037
+Token: ' making' (ID: 3259), Prob: 0.0033
+Token: ' resulting' (ID: 12942), Prob: 0.0017
+Token: ' maybe' (ID: 7196), Prob: 0.0011
+Token: ' triggering' (ID: 51505), Prob: 0.0007
+Token: ' accidentally' (ID: 32384), Prob: 0.0006
+Token: ' perhaps' (ID: 8365), Prob: 0.0005
+Token: ' expecting' (ID: 22331), Prob: 0.0004
+Token: ' revealing' (ID: 30620), Prob: 0.0004
+Token: ' something' (ID: 2494), Prob: 0.0003
+Token: ' setting' (ID: 6243), Prob: 0.0002
+Token: ' surprising' (ID: 14861), Prob: 0.0002
+Token: ' leads' (ID: 11508), Prob: 0.0002
+Token: ' ending' (ID: 13391), Prob: 0.0002
+Token: ' prompting' (ID: 49645), Prob: 0.0002
+Token: ' getting' (ID: 3709), Prob: 0.0001
+Token: ' thinking' (ID: 7274), Prob: 0.0001
+Token: ' starting' (ID: 5916), Prob: 0.0001
+Token: ' showing' (ID: 9027), Prob: 0.0001
+Token: ' hence' (ID: 16085), Prob: 0.0001
+Token: ' thus' (ID: 8450), Prob: 0.0001
+Token: ' say' (ID: 1977), Prob: 0.0001
+Token: ' creates' (ID: 11450), Prob: 0.0001
+Token: ' feeling' (ID: 8266), Prob: 0.0001
+Token: ' finding' (ID: 9271), Prob: 0.0001
+Token: ' turning' (ID: 13054), Prob: 0.0001
+Token: ' introducing' (ID: 31918), Prob: 0.0001
+Token: ' noticing' (ID: 61364), Prob: 0.0001
+Token: ' set' (ID: 738), Prob: 0.0000
+Token: ' thereby' (ID: 27492), Prob: 0.0000
+Token: ' unexpected' (ID: 16500), Prob: 0.0000
+Token: ' sensing' (ID: 59099), Prob: 0.0000
+Token: ' giving' (ID: 7086), Prob: 0.0000
+Token: ' strange' (ID: 14888), Prob: 0.0000
+Token: ' letting' (ID: 20194), Prob: 0.0000
+Token: ' sparking' (ID: 98982), Prob: 0.0000
+Token: ' unaware' (ID: 40647), Prob: 0.0000
+Token: ' causes' (ID: 11137), Prob: 0.0000
+Token: ' drawing' (ID: 13330), Prob: 0.0000
+Token: ' discovering' (ID: 41587), Prob: 0.0000
+Token: ' suddenly' (ID: 14843), Prob: 0.0000
+Token: ' trying' (ID: 4460), Prob: 0.0000
+Token: ' experiencing' (ID: 24084), Prob: 0.0000
+Token: ' instead' (ID: 4518), Prob: 0.0000
+Token: ' goes' (ID: 5780), Prob: 0.0000
+Token: ' let' (ID: 1077), Prob: 0.0000
+Token: ' even' (ID: 1496), Prob: 0.0000
+Token: ' seeing' (ID: 9120), Prob: 0.0000
+Token: ' turns' (ID: 10577), Prob: 0.0000
+Token: ' hoping' (ID: 15652), Prob: 0.0000
+Token: ' mixing' (ID: 26792), Prob: 0.0000
+Token: ' going' (ID: 2087), Prob: 0.0000
+Token: ' yet' (ID: 3602), Prob: 0.0000
+Token: ' similar' (ID: 4428), Prob: 0.0000
+Token: ' facing' (ID: 12880), Prob: 0.0000
+Token: ' due' (ID: 4152), Prob: 0.0000
+Token: ' mist' (ID: 8600), Prob: 0.0000
+Token: ' despite' (ID: 8818), Prob: 0.0000
+Token: ' becoming' (ID: 10454), Prob: 0.0000
+Token: ' triggers' (ID: 30754), Prob: 0.0000
+Token: ' realizing' (ID: 43014), Prob: 0.0000
+Token: ' inadvertently' (ID: 69085), Prob: 0.0000
+Token: ' unintention' (ID: 69476), Prob: 0.0000
+Token: ' adding' (ID: 7842), Prob: 0.0000
+Token: ' leaving' (ID: 9380), Prob: 0.0000
+Token: ' changing' (ID: 10018), Prob: 0.0000
+Token: ' using' (ID: 1667), Prob: 0.0000
+Token: ' either' (ID: 2987), Prob: 0.0000
+Token: ' gets' (ID: 5221), Prob: 0.0000
+Token: ' ends' (ID: 10335), Prob: 0.0000
+Token: ' hint' (ID: 13012), Prob: 0.0000
+Token: ' trick' (ID: 14068), Prob: 0.0000
+Token: ' connecting' (ID: 20913), Prob: 0.0000
+Token: ' attracting' (ID: 50547), Prob: 0.0000
+Token: ' sets' (ID: 7289), Prob: 0.0000
+Token: ' somehow' (ID: 16925), Prob: 0.0000
+Token: ' saying' (ID: 5488), Prob: 0.0000
+Token: ' opening' (ID: 8568), Prob: 0.0000
+
+== Ranked Concepts (Clusters) ==
+Rank 1 | Centroid: ' leading' | Score: 0.7969
+  Tokens: [' leading', ' resulting', ' leads']
+Rank 2 | Centroid: ' like' | Score: 0.0840
+  Tokens: [' like', ' similar']
+Rank 3 | Centroid: ' causes' | Score: 0.0275
+  Tokens: [' causing', ' creates', ' causes']
+Rank 4 | Centroid: ' creating' | Score: 0.0071
+  Tokens: [' creating', ' making', ' getting', ' becoming', ' adding', ' changing', ' connecting']
+Rank 5 | Centroid: ' perhaps' | Score: 0.0019
+  Tokens: [' maybe', ' perhaps', ' something', ' instead', ' either', ' somehow']
+Rank 6 | Centroid: ' triggering' | Score: 0.0009
+  Tokens: [' triggering', ' prompting', ' sparking', ' triggers']
+Rank 7 | Centroid: ' accidentally' | Score: 0.0009
+  Tokens: [' accidentally', ' surprising', ' unexpected', ' strange', ' suddenly', ' inadvertently', ' unintention']
+Rank 8 | Centroid: ' noticing' | Score: 0.0005
+  Tokens: [' expecting', ' noticing', ' discovering', ' experiencing', ' seeing', ' hoping', ' realizing']
+Rank 9 | Centroid: ' introducing' | Score: 0.0005
+  Tokens: [' revealing', ' introducing', ' attracting']
+Rank 10 | Centroid: ' ending' | Score: 0.0003
+  Tokens: [' ending', ' starting', ' turning', ' opening']
+Rank 11 | Centroid: ' sets' | Score: 0.0003
+  Tokens: [' setting', ' set', ' sets']
+Rank 12 | Centroid: ' sensing' | Score: 0.0002
+  Tokens: [' thinking', ' feeling', ' sensing', ' facing']
+Rank 13 | Centroid: ' thus' | Score: 0.0002
+  Tokens: [' hence', ' thus', ' thereby']
+Rank 14 | Centroid: ' trying' | Score: 0.0002
+  Tokens: [' showing', ' finding', ' trying', ' using']
+Rank 15 | Centroid: ' say' | Score: 0.0001
+  Tokens: [' say', ' let', ' saying']
+Rank 16 | Centroid: ' letting' | Score: 0.0001
+  Tokens: [' giving', ' letting', ' leaving']
+Rank 17 | Centroid: ' despite' | Score: 0.0001
+  Tokens: [' even', ' yet', ' due', ' despite']
+Rank 18 | Centroid: ' goes' | Score: 0.0001
+  Tokens: [' goes', ' going', ' gets']
+Rank 19 | Centroid: ' drawing' | Score: 0.0000
+  Tokens: [' drawing', ' mixing']
+Rank 20 | Centroid: ' hint' | Score: 0.0000
+  Tokens: [' mist', ' hint', ' trick']
+Rank 21 | Centroid: ' turns' | Score: 0.0000
+  Tokens: [' turns', ' ends']
+Rank 22 | Centroid: ' unaware' | Score: 0.0000
+  Tokens: [' unaware']
+
+**Chosen Concept:** Rank 1

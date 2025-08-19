@@ -1,84 +1,152 @@
 --- Step 73 Log ---
 
 == Filtered Candidates ==
-Token: 'Answer' (ID: 16141), Prob: 0.9062
-Token: 'Based' (ID: 28715), Prob: 0.0579
-Token: 'Okay' (ID: 32313), Prob: 0.0010
-Token: 'Question' (ID: 14582), Prob: 0.0006
-Token: 'Since' (ID: 12549), Prob: 0.0002
-Token: 'Yes' (ID: 9454), Prob: 0.0002
-Token: 'based' (ID: 29939), Prob: 0.0002
-Token: 'Problem' (ID: 31198), Prob: 0.0002
-Token: 'Please' (ID: 5501), Prob: 0.0002
-Token: 'Alright' (ID: 71486), Prob: 0.0002
-Token: 'Final' (ID: 19357), Prob: 0.0002
-Token: ' Based' (ID: 20205), Prob: 0.0002
-Token: 'Explanation' (ID: 69769), Prob: 0.0002
-Token: 'Step' (ID: 8304), Prob: 0.0001
-Token: 'Note' (ID: 9112), Prob: 0.0001
-Token: 'Therefore' (ID: 54815), Prob: 0.0001
-Token: 'Wait' (ID: 14190), Prob: 0.0001
-Token: ' Answer' (ID: 21806), Prob: 0.0001
-Token: 'Possible' (ID: 65222), Prob: 0.0001
-Token: 'Solution' (ID: 36842), Prob: 0.0001
-Token: 'Finally' (ID: 23949), Prob: 0.0001
-Token: 'Actually' (ID: 52592), Prob: 0.0001
-Token: 'Response' (ID: 2582), Prob: 0.0001
-Token: 'Check' (ID: 3973), Prob: 0.0001
-Token: 'Let' (ID: 10061), Prob: 0.0001
-Token: 'Word' (ID: 10879), Prob: 0.0001
-Token: 'However' (ID: 11209), Prob: 0.0001
-Token: 'Given' (ID: 22043), Prob: 0.0001
-Token: 'Group' (ID: 2808), Prob: 0.0001
-Token: 'Even' (ID: 13159), Prob: 0.0001
-Token: 'Choose' (ID: 24051), Prob: 0.0001
-Token: 'Analysis' (ID: 26573), Prob: 0.0001
-Token: 'Thus' (ID: 44500), Prob: 0.0001
-Token: 'Would' (ID: 27989), Prob: 0.0001
-Token: 'Base' (ID: 3978), Prob: 0.0000
-Token: 'Number' (ID: 2833), Prob: 0.0000
-Token: 'Maybe' (ID: 21390), Prob: 0.0000
-Token: 'Think' (ID: 38687), Prob: 0.0000
-Token: 'Exercise' (ID: 52709), Prob: 0.0000
-Token: 'Another' (ID: 14037), Prob: 0.0000
-Token: 'Back' (ID: 3707), Prob: 0.0000
-Token: 'Ass' (ID: 5615), Prob: 0.0000
-Token: 'Every' (ID: 11510), Prob: 0.0000
-Token: 'Describe' (ID: 74785), Prob: 0.0000
-Token: 'According' (ID: 11190), Prob: 0.0000
+Token: ' desire' (ID: 12591), Prob: 0.7227
+Token: ' wish' (ID: 6426), Prob: 0.1108
+Token: ' dream' (ID: 7904), Prob: 0.0674
+Token: ' wishes' (ID: 24240), Prob: 0.0193
+Token: ' idea' (ID: 4522), Prob: 0.0091
+Token: ' invention' (ID: 27130), Prob: 0.0091
+Token: ' dreams' (ID: 18707), Prob: 0.0081
+Token: ' ambition' (ID: 44615), Prob: 0.0055
+Token: ' creativity' (ID: 27597), Prob: 0.0049
+Token: ' new' (ID: 501), Prob: 0.0038
+Token: ' plan' (ID: 3119), Prob: 0.0038
+Token: ' innovation' (ID: 18770), Prob: 0.0038
+Token: ' ideas' (ID: 6708), Prob: 0.0023
+Token: ' vision' (ID: 11129), Prob: 0.0023
+Token: ' plans' (ID: 6649), Prob: 0.0018
+Token: ' creative' (ID: 11521), Prob: 0.0018
+Token: ' personal' (ID: 4345), Prob: 0.0016
+Token: ' desires' (ID: 30997), Prob: 0.0016
+Token: ' aspirations' (ID: 57422), Prob: 0.0012
+Token: ' goal' (ID: 5795), Prob: 0.0011
+Token: ' attempt' (ID: 4774), Prob: 0.0010
+Token: ' innovative' (ID: 18199), Prob: 0.0010
+Token: ' initiative' (ID: 20162), Prob: 0.0010
+Token: ' curiosity' (ID: 40228), Prob: 0.0010
+Token: ' choice' (ID: 5754), Prob: 0.0008
+Token: ' imagination' (ID: 27799), Prob: 0.0007
+Token: ' want' (ID: 1366), Prob: 0.0007
+Token: ' project' (ID: 2390), Prob: 0.0006
+Token: ' passion' (ID: 11677), Prob: 0.0005
+Token: ' request' (ID: 1681), Prob: 0.0005
+Token: ' wants' (ID: 6801), Prob: 0.0005
+Token: ' unique' (ID: 4911), Prob: 0.0004
+Token: ' freedom' (ID: 11290), Prob: 0.0004
+Token: ' creation' (ID: 9688), Prob: 0.0004
+Token: ' wanting' (ID: 19211), Prob: 0.0004
+Token: ' ambitions' (ID: 50466), Prob: 0.0004
+Token: ' adventure' (ID: 17943), Prob: 0.0002
+Token: ' decision' (ID: 5480), Prob: 0.0002
+Token: ' aspiration' (ID: 97641), Prob: 0.0002
+Token: ' fantasy' (ID: 18378), Prob: 0.0002
+Token: ' effort' (ID: 5041), Prob: 0.0002
+Token: ' efforts' (ID: 8869), Prob: 0.0002
+Token: ' preference' (ID: 21933), Prob: 0.0002
+Token: ' quest' (ID: 2222), Prob: 0.0002
+Token: ' interest' (ID: 2734), Prob: 0.0002
+Token: ' toy' (ID: 21357), Prob: 0.0001
+Token: ' adventurous' (ID: 67088), Prob: 0.0001
+Token: ' interests' (ID: 11772), Prob: 0.0001
+Token: ' intention' (ID: 14602), Prob: 0.0001
+Token: ' ambitious' (ID: 31755), Prob: 0.0001
+Token: ' rebellion' (ID: 52748), Prob: 0.0001
+Token: ' free' (ID: 1910), Prob: 0.0001
+Token: ' belief' (ID: 16396), Prob: 0.0001
+Token: ' inventions' (ID: 84049), Prob: 0.0001
+Token: ' individual' (ID: 3842), Prob: 0.0001
+Token: ' growing' (ID: 7826), Prob: 0.0001
+Token: ' need' (ID: 1184), Prob: 0.0001
+Token: ' growth' (ID: 6513), Prob: 0.0001
+Token: ' change' (ID: 2297), Prob: 0.0001
+Token: ' goals' (ID: 8845), Prob: 0.0001
+Token: ' imaginative' (ID: 76261), Prob: 0.0001
+Token: ' modern' (ID: 6481), Prob: 0.0001
+Token: ' planned' (ID: 12909), Prob: 0.0001
+Token: ' pride' (ID: 21770), Prob: 0.0001
+Token: ' independence' (ID: 23665), Prob: 0.0001
+Token: ' view' (ID: 1651), Prob: 0.0001
+Token: ' love' (ID: 2948), Prob: 0.0001
+Token: ' progress' (ID: 5098), Prob: 0.0001
+Token: ' ideal' (ID: 10507), Prob: 0.0001
+Token: ' different' (ID: 2155), Prob: 0.0000
+Token: ' ability' (ID: 5726), Prob: 0.0000
+Token: ' challenge' (ID: 8645), Prob: 0.0000
+Token: ' fascination' (ID: 74344), Prob: 0.0000
+Token: ' newfound' (ID: 93521), Prob: 0.0000
+Token: ' future' (ID: 3853), Prob: 0.0000
+Token: ' ing' (ID: 6749), Prob: 0.0000
+Token: ' DIY' (ID: 31458), Prob: 0.0000
+Token: ' opinion' (ID: 9459), Prob: 0.0000
+Token: ' enthusiasm' (ID: 35132), Prob: 0.0000
+Token: ' purpose' (ID: 7428), Prob: 0.0000
+Token: ' courage' (ID: 24744), Prob: 0.0000
+Token: ' ideals' (ID: 51705), Prob: 0.0000
+Token: ' desired' (ID: 12685), Prob: 0.0000
+Token: ' excitement' (ID: 27262), Prob: 0.0000
+Token: ' inventive' (ID: 90932), Prob: 0.0000
+Token: ' joy' (ID: 15888), Prob: 0.0000
+Token: ' eag' (ID: 78240), Prob: 0.0000
+Token: ' pursuit' (ID: 32336), Prob: 0.0000
+Token: ' family' (ID: 2997), Prob: 0.0000
+Token: ' choices' (ID: 11454), Prob: 0.0000
+Token: ' beliefs' (ID: 20799), Prob: 0.0000
+Token: ' artistic' (ID: 31592), Prob: 0.0000
+Token: ' play' (ID: 1486), Prob: 0.0000
+Token: ' hope' (ID: 3900), Prob: 0.0000
+Token: ' perspective' (ID: 13057), Prob: 0.0000
+Token: ' custom' (ID: 2526), Prob: 0.0000
+Token: ' approach' (ID: 5486), Prob: 0.0000
+Token: ' experiment' (ID: 9342), Prob: 0.0000
+Token: ' independent' (ID: 9489), Prob: 0.0000
 
 == Ranked Concepts (Clusters) ==
-Rank 1 | Centroid: ' Answer' | Score: 0.9062
-  Tokens: ['Answer', ' Answer', 'Response']
-Rank 2 | Centroid: 'Based' | Score: 0.0583
-  Tokens: ['Based', 'based', ' Based', 'According']
-Rank 3 | Centroid: 'Okay' | Score: 0.0014
-  Tokens: ['Okay', 'Yes', 'Alright']
-Rank 4 | Centroid: 'Question' | Score: 0.0009
-  Tokens: ['Question', 'Problem', 'Exercise']
-Rank 5 | Centroid: 'Choose' | Score: 0.0004
-  Tokens: ['Please', 'Choose', 'Would', 'Think', 'Describe']
-Rank 6 | Centroid: 'Explanation' | Score: 0.0003
-  Tokens: ['Explanation', 'Solution', 'Analysis']
-Rank 7 | Centroid: 'Since' | Score: 0.0003
-  Tokens: ['Since', 'Given']
-Rank 8 | Centroid: 'Therefore' | Score: 0.0003
-  Tokens: ['Therefore', 'However', 'Thus']
-Rank 9 | Centroid: 'Final' | Score: 0.0002
-  Tokens: ['Final', 'Finally']
-Rank 10 | Centroid: 'Every' | Score: 0.0002
-  Tokens: ['Actually', 'Even', 'Another', 'Every']
-Rank 11 | Centroid: 'Step' | Score: 0.0002
-  Tokens: ['Step', 'Check']
-Rank 12 | Centroid: 'Wait' | Score: 0.0002
-  Tokens: ['Wait', 'Let']
-Rank 13 | Centroid: 'Number' | Score: 0.0002
-  Tokens: ['Word', 'Group', 'Number']
-Rank 14 | Centroid: 'Note' | Score: 0.0002
-  Tokens: ['Note', 'Ass']
-Rank 15 | Centroid: 'Possible' | Score: 0.0001
-  Tokens: ['Possible', 'Maybe']
-Rank 16 | Centroid: 'Base' | Score: 0.0001
-  Tokens: ['Base', 'Back']
+Rank 1 | Centroid: ' wants' | Score: 0.8555
+  Tokens: [' desire', ' wish', ' wishes', ' desires', ' want', ' wants', ' wanting', ' desired']
+Rank 2 | Centroid: ' dream' | Score: 0.0757
+  Tokens: [' dream', ' dreams', ' fantasy', ' ideal', ' ideals']
+Rank 3 | Centroid: ' innovative' | Score: 0.0211
+  Tokens: [' invention', ' creativity', ' innovation', ' creative', ' innovative', ' creation', ' inventions', ' imaginative', ' ing', ' DIY', ' inventive', ' artistic']
+Rank 4 | Centroid: ' ideas' | Score: 0.0139
+  Tokens: [' idea', ' ideas', ' vision', ' belief', ' beliefs']
+Rank 5 | Centroid: ' ambitions' | Score: 0.0074
+  Tokens: [' ambition', ' aspirations', ' ambitions', ' aspiration', ' ambitious']
+Rank 6 | Centroid: ' personal' | Score: 0.0060
+  Tokens: [' new', ' personal', ' unique', ' individual', ' modern', ' different', ' family', ' custom']
+Rank 7 | Centroid: ' plans' | Score: 0.0056
+  Tokens: [' plan', ' plans', ' planned']
+Rank 8 | Centroid: ' effort' | Score: 0.0023
+  Tokens: [' attempt', ' initiative', ' effort', ' efforts', ' experiment']
+Rank 9 | Centroid: ' enthusiasm' | Score: 0.0020
+  Tokens: [' curiosity', ' passion', ' interest', ' interests', ' pride', ' fascination', ' enthusiasm', ' excitement', ' eag']
+Rank 10 | Centroid: ' goal' | Score: 0.0013
+  Tokens: [' goal', ' intention', ' goals', ' purpose']
+Rank 11 | Centroid: ' choice' | Score: 0.0013
+  Tokens: [' choice', ' decision', ' preference', ' choices']
+Rank 12 | Centroid: ' change' | Score: 0.0008
+  Tokens: [' project', ' change', ' progress', ' play']
+Rank 13 | Centroid: ' imagination' | Score: 0.0007
+  Tokens: [' imagination']
+Rank 14 | Centroid: ' freedom' | Score: 0.0006
+  Tokens: [' freedom', ' free', ' independence', ' independent']
+Rank 15 | Centroid: ' request' | Score: 0.0006
+  Tokens: [' request', ' need']
+Rank 16 | Centroid: ' adventure' | Score: 0.0005
+  Tokens: [' adventure', ' adventurous', ' rebellion', ' courage']
+Rank 17 | Centroid: ' growth' | Score: 0.0003
+  Tokens: [' toy', ' growing', ' growth', ' future']
+Rank 18 | Centroid: ' quest' | Score: 0.0002
+  Tokens: [' quest', ' challenge', ' pursuit']
+Rank 19 | Centroid: ' perspective' | Score: 0.0001
+  Tokens: [' view', ' opinion', ' perspective']
+Rank 20 | Centroid: ' love' | Score: 0.0001
+  Tokens: [' love', ' joy']
+Rank 21 | Centroid: ' ability' | Score: 0.0001
+  Tokens: [' ability', ' approach']
+Rank 22 | Centroid: ' newfound' | Score: 0.0000
+  Tokens: [' newfound']
+Rank 23 | Centroid: ' hope' | Score: 0.0000
+  Tokens: [' hope']
 
 **Chosen Concept:** Rank 1

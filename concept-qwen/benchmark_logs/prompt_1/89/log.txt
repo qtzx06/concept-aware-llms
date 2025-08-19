@@ -1,78 +1,142 @@
 --- Step 89 Log ---
 
 == Filtered Candidates ==
-Token: ' one' (ID: 825), Prob: 0.2393
-Token: ' three' (ID: 2326), Prob: 0.0471
-Token: ' four' (ID: 3040), Prob: 0.0366
-Token: ' two' (ID: 1378), Prob: 0.0325
-Token: ' five' (ID: 4236), Prob: 0.0325
-Token: ' six' (ID: 4743), Prob: 0.0135
-Token: ' seven' (ID: 8094), Prob: 0.0050
-Token: ' eight' (ID: 8063), Prob: 0.0039
-Token: ' ten' (ID: 5779), Prob: 0.0022
-Token: ' ONE' (ID: 24038), Prob: 0.0012
-Token: ' nine' (ID: 11627), Prob: 0.0010
-Token: ' words' (ID: 4244), Prob: 0.0004
-Token: ' twenty' (ID: 17073), Prob: 0.0004
-Token: ' twelve' (ID: 29235), Prob: 0.0004
-Token: ' paragraph' (ID: 14311), Prob: 0.0003
-Token: ' eleven' (ID: 44214), Prob: 0.0002
-Token: ' paragraphs' (ID: 42643), Prob: 0.0002
-Token: ' thirty' (ID: 26127), Prob: 0.0002
-Token: ' sentence' (ID: 11652), Prob: 0.0001
-Token: ' word' (ID: 3409), Prob: 0.0001
-Token: ' fourteen' (ID: 62260), Prob: 0.0001
-Token: ' fifteen' (ID: 36655), Prob: 0.0001
-Token: ' fifty' (ID: 32417), Prob: 0.0001
-Token: ' FOUR' (ID: 74091), Prob: 0.0001
-Token: ' exactly' (ID: 6896), Prob: 0.0001
-Token: ' sixteen' (ID: 58039), Prob: 0.0001
-Token: ' THREE' (ID: 14040), Prob: 0.0001
-Token: ' thirteen' (ID: 60659), Prob: 0.0001
-Token: ' eighteen' (ID: 62034), Prob: 0.0001
-Token: ' seventeen' (ID: 81397), Prob: 0.0001
-Token: ' enough' (ID: 3322), Prob: 0.0001
-Token: ' One' (ID: 3776), Prob: 0.0001
-Token: ' following' (ID: 2701), Prob: 0.0001
-Token: ' forty' (ID: 35398), Prob: 0.0001
-Token: ' TWO' (ID: 46258), Prob: 0.0001
-Token: ' half' (ID: 4279), Prob: 0.0001
-Token: ' Paragraph' (ID: 49351), Prob: 0.0001
-Token: ' zero' (ID: 7168), Prob: 0.0000
-Token: ' twice' (ID: 10917), Prob: 0.0000
-Token: ' SIX' (ID: 97638), Prob: 0.0000
-Token: ' several' (ID: 3807), Prob: 0.0000
-Token: 'one' (ID: 603), Prob: 0.0000
-Token: ' fewer' (ID: 16745), Prob: 0.0000
-Token: ' first' (ID: 1156), Prob: 0.0000
-Token: ' matching' (ID: 12579), Prob: 0.0000
+Token: ' mutual' (ID: 26750), Prob: 0.1943
+Token: ' trust' (ID: 6950), Prob: 0.1514
+Token: ' understanding' (ID: 8660), Prob: 0.0559
+Token: ' shared' (ID: 6094), Prob: 0.0435
+Token: ' cultural' (ID: 12752), Prob: 0.0264
+Token: ' empathy' (ID: 47351), Prob: 0.0160
+Token: ' respect' (ID: 5091), Prob: 0.0141
+Token: ' love' (ID: 2948), Prob: 0.0110
+Token: ' different' (ID: 2155), Prob: 0.0097
+Token: ' compassion' (ID: 29381), Prob: 0.0076
+Token: ' friendship' (ID: 26509), Prob: 0.0067
+Token: ' personal' (ID: 4345), Prob: 0.0046
+Token: ' two' (ID: 1378), Prob: 0.0036
+Token: ' communication' (ID: 10535), Prob: 0.0034
+Token: ' culture' (ID: 7674), Prob: 0.0031
+Token: ' deep' (ID: 5538), Prob: 0.0030
+Token: ' emotional' (ID: 14269), Prob: 0.0026
+Token: ' values' (ID: 2750), Prob: 0.0020
+Token: ' common' (ID: 4185), Prob: 0.0020
+Token: ' past' (ID: 3267), Prob: 0.0019
+Token: ' true' (ID: 830), Prob: 0.0018
+Token: ' sharing' (ID: 11560), Prob: 0.0018
+Token: ' one' (ID: 825), Prob: 0.0017
+Token: ' non' (ID: 2477), Prob: 0.0016
+Token: ' kindness' (ID: 44872), Prob: 0.0016
+Token: ' honesty' (ID: 47848), Prob: 0.0015
+Token: ' knowledge' (ID: 6540), Prob: 0.0014
+Token: ' self' (ID: 656), Prob: 0.0012
+Token: ' emotions' (ID: 21261), Prob: 0.0012
+Token: ' acceptance' (ID: 25505), Prob: 0.0012
+Token: ' differences' (ID: 11799), Prob: 0.0011
+Token: ' themes' (ID: 21386), Prob: 0.0010
+Token: ' differing' (ID: 60369), Prob: 0.0010
+Token: ' something' (ID: 2494), Prob: 0.0008
+Token: ' authenticity' (ID: 53248), Prob: 0.0008
+Token: ' connection' (ID: 3633), Prob: 0.0007
+Token: ' emotion' (ID: 19772), Prob: 0.0007
+Token: ' warmth' (ID: 40363), Prob: 0.0007
+Token: ' nature' (ID: 6993), Prob: 0.0006
+Token: ' truth' (ID: 8046), Prob: 0.0006
+Token: ' trusting' (ID: 68244), Prob: 0.0006
+Token: ' inter' (ID: 946), Prob: 0.0005
+Token: ' deeper' (ID: 19117), Prob: 0.0005
+Token: ' life' (ID: 2272), Prob: 0.0005
+Token: ' intimacy' (ID: 65164), Prob: 0.0005
+Token: ' hope' (ID: 3900), Prob: 0.0005
+Token: ' wisdom' (ID: 23389), Prob: 0.0005
+Token: ' depth' (ID: 7990), Prob: 0.0005
+Token: ' gratitude' (ID: 45035), Prob: 0.0004
+Token: ' learning' (ID: 6832), Prob: 0.0004
+Token: ' conflict' (ID: 12055), Prob: 0.0004
+Token: ' real' (ID: 1931), Prob: 0.0004
+Token: ' tradition' (ID: 13815), Prob: 0.0004
+Token: ' humor' (ID: 27385), Prob: 0.0004
+Token: ' finding' (ID: 9271), Prob: 0.0004
+Token: ' genuine' (ID: 22011), Prob: 0.0004
+Token: ' natural' (ID: 5810), Prob: 0.0003
+Token: ' comfort' (ID: 6838), Prob: 0.0003
+Token: ' growing' (ID: 7826), Prob: 0.0003
+Token: ' growth' (ID: 6513), Prob: 0.0003
+Token: ' caring' (ID: 29498), Prob: 0.0003
+Token: ' identity' (ID: 9569), Prob: 0.0003
+Token: ' dialogue' (ID: 21276), Prob: 0.0003
+Token: ' cooperation' (ID: 23046), Prob: 0.0003
+Token: ' forgiveness' (ID: 52050), Prob: 0.0003
+Token: ' intuition' (ID: 56251), Prob: 0.0003
+Token: ' misunderstanding' (ID: 69747), Prob: 0.0003
+Token: ' overcoming' (ID: 72917), Prob: 0.0003
+Token: ' new' (ID: 501), Prob: 0.0003
+Token: ' care' (ID: 2453), Prob: 0.0003
+Token: ' principles' (ID: 16170), Prob: 0.0003
+Token: ' dreams' (ID: 18707), Prob: 0.0003
+Token: ' healing' (ID: 21052), Prob: 0.0003
+Token: ' support' (ID: 1824), Prob: 0.0003
+Token: ' faith' (ID: 9881), Prob: 0.0003
+Token: ' passion' (ID: 11677), Prob: 0.0003
+Token: ' science' (ID: 8038), Prob: 0.0002
+Token: ' courage' (ID: 24744), Prob: 0.0002
+Token: ' previous' (ID: 3681), Prob: 0.0002
+Token: ' core' (ID: 6200), Prob: 0.0002
+Token: ' strength' (ID: 8170), Prob: 0.0002
+Token: ' opposing' (ID: 30222), Prob: 0.0002
+Token: ' attraction' (ID: 32364), Prob: 0.0002
+Token: ' vulnerability' (ID: 33004), Prob: 0.0002
+Token: ' education' (ID: 6731), Prob: 0.0002
+Token: ' appreciation' (ID: 34896), Prob: 0.0002
+Token: ' curiosity' (ID: 40228), Prob: 0.0002
 
 == Ranked Concepts (Clusters) ==
-Rank 1 | Centroid: ' one' | Score: 0.2402
-  Tokens: [' one', ' ONE', ' One', 'one']
-Rank 2 | Centroid: ' seven' | Score: 0.1396
-  Tokens: [' three', ' four', ' five', ' six', ' seven', ' eight', ' nine']
-Rank 3 | Centroid: ' two' | Score: 0.0325
-  Tokens: [' two', ' several']
-Rank 4 | Centroid: ' fifteen' | Score: 0.0040
-  Tokens: [' ten', ' twenty', ' twelve', ' eleven', ' thirty', ' fourteen', ' fifteen', ' fifty', ' sixteen', ' thirteen', ' eighteen', ' seventeen', ' forty']
-Rank 5 | Centroid: ' paragraph' | Score: 0.0007
-  Tokens: [' paragraph', ' paragraphs', ' sentence', ' Paragraph']
-Rank 6 | Centroid: ' words' | Score: 0.0006
-  Tokens: [' words', ' word']
-Rank 7 | Centroid: ' FOUR' | Score: 0.0003
-  Tokens: [' FOUR', ' THREE', ' TWO', ' SIX']
-Rank 8 | Centroid: ' exactly' | Score: 0.0001
-  Tokens: [' exactly']
-Rank 9 | Centroid: ' half' | Score: 0.0001
-  Tokens: [' half', ' twice']
-Rank 10 | Centroid: ' following' | Score: 0.0001
-  Tokens: [' following', ' matching']
-Rank 11 | Centroid: ' zero' | Score: 0.0001
-  Tokens: [' zero', ' fewer']
-Rank 12 | Centroid: ' enough' | Score: 0.0001
-  Tokens: [' enough']
-Rank 13 | Centroid: ' first' | Score: 0.0000
-  Tokens: [' first']
+Rank 1 | Centroid: ' shared' | Score: 0.2461
+  Tokens: [' mutual', ' shared', ' communication', ' common', ' sharing', ' connection']
+Rank 2 | Centroid: ' trust' | Score: 0.1523
+  Tokens: [' trust', ' trusting', ' faith']
+Rank 3 | Centroid: ' understanding' | Score: 0.0571
+  Tokens: [' understanding', ' learning', ' finding', ' misunderstanding', ' overcoming']
+Rank 4 | Centroid: ' culture' | Score: 0.0299
+  Tokens: [' cultural', ' culture', ' tradition']
+Rank 5 | Centroid: ' compassion' | Score: 0.0269
+  Tokens: [' empathy', ' compassion', ' kindness', ' warmth', ' intimacy', ' comfort', ' courage']
+Rank 6 | Centroid: ' respect' | Score: 0.0143
+  Tokens: [' respect', ' support']
+Rank 7 | Centroid: ' differing' | Score: 0.0124
+  Tokens: [' different', ' differences', ' differing', ' conflict', ' opposing']
+Rank 8 | Centroid: ' love' | Score: 0.0117
+  Tokens: [' love', ' hope', ' passion']
+Rank 9 | Centroid: ' one' | Score: 0.0101
+  Tokens: [' two', ' past', ' one', ' non', ' something', ' new', ' previous']
+Rank 10 | Centroid: ' gratitude' | Score: 0.0090
+  Tokens: [' friendship', ' acceptance', ' gratitude', ' cooperation', ' forgiveness', ' vulnerability']
+Rank 11 | Centroid: ' personal' | Score: 0.0063
+  Tokens: [' personal', ' self', ' inter']
+Rank 12 | Centroid: ' genuine' | Score: 0.0051
+  Tokens: [' true', ' honesty', ' authenticity', ' truth', ' genuine']
+Rank 13 | Centroid: ' emotions' | Score: 0.0045
+  Tokens: [' emotional', ' emotions', ' emotion']
+Rank 14 | Centroid: ' deep' | Score: 0.0040
+  Tokens: [' deep', ' deeper', ' depth']
+Rank 15 | Centroid: ' values' | Score: 0.0028
+  Tokens: [' values', ' life', ' core']
+Rank 16 | Centroid: ' knowledge' | Score: 0.0023
+  Tokens: [' knowledge', ' wisdom', ' science', ' education']
+Rank 17 | Centroid: ' natural' | Score: 0.0016
+  Tokens: [' nature', ' real', ' natural', ' identity']
+Rank 18 | Centroid: ' themes' | Score: 0.0013
+  Tokens: [' themes', ' dreams']
+Rank 19 | Centroid: ' curiosity' | Score: 0.0009
+  Tokens: [' intuition', ' attraction', ' appreciation', ' curiosity']
+Rank 20 | Centroid: ' growth' | Score: 0.0009
+  Tokens: [' growing', ' growth', ' healing']
+Rank 21 | Centroid: ' humor' | Score: 0.0007
+  Tokens: [' humor', ' dialogue']
+Rank 22 | Centroid: ' caring' | Score: 0.0006
+  Tokens: [' caring', ' care']
+Rank 23 | Centroid: ' principles' | Score: 0.0003
+  Tokens: [' principles']
+Rank 24 | Centroid: ' strength' | Score: 0.0002
+  Tokens: [' strength']
 
 **Chosen Concept:** Rank 1

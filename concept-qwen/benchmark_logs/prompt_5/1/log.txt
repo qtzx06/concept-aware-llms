@@ -1,54 +1,55 @@
 --- Step 1 Log ---
 
 == Filtered Candidates ==
-Token: 'Answer' (ID: 16141), Prob: 0.0535
-Token: 'Let' (ID: 10061), Prob: 0.0064
-Token: 'Question' (ID: 14582), Prob: 0.0023
-Token: 'Two' (ID: 11613), Prob: 0.0016
-Token: ' Question' (ID: 15846), Prob: 0.0013
-Token: ' Answer' (ID: 21806), Prob: 0.0013
-Token: 'Tag' (ID: 5668), Prob: 0.0012
-Token: 'Friday' (ID: 34620), Prob: 0.0012
-Token: 'First' (ID: 5338), Prob: 0.0011
-Token: 'Ass' (ID: 5615), Prob: 0.0011
-Token: 'Okay' (ID: 32313), Prob: 0.0011
-Token: 'Context' (ID: 1972), Prob: 0.0010
-Token: 'Fill' (ID: 14449), Prob: 0.0010
-Token: 'Setting' (ID: 15400), Prob: 0.0010
-Token: 'Based' (ID: 28715), Prob: 0.0010
-Token: 'Saturday' (ID: 33674), Prob: 0.0010
-Token: 'Imagine' (ID: 51057), Prob: 0.0010
-Token: 'Discussion' (ID: 71021), Prob: 0.0010
-Token: 'Word' (ID: 10879), Prob: 0.0010
+Token: 'Okay' (ID: 32313), Prob: 0.0054
+Token: 'Let' (ID: 10061), Prob: 0.0037
+Token: '"The' (ID: 10022), Prob: 0.0029
+Token: 'Alright' (ID: 71486), Prob: 0.0027
+Token: 'Story' (ID: 17938), Prob: 0.0023
+Token: 'Please' (ID: 5501), Prob: 0.0020
+Token: 'Today' (ID: 15364), Prob: 0.0018
+Token: 'Tell' (ID: 40451), Prob: 0.0018
+Token: 'First' (ID: 5338), Prob: 0.0015
+Token: '"You' (ID: 21608), Prob: 0.0015
+Token: 'Every' (ID: 11510), Prob: 0.0014
+Token: 'One' (ID: 3966), Prob: 0.0013
+Token: '"In' (ID: 32603), Prob: 0.0013
+Token: 'John' (ID: 13079), Prob: 0.0012
+Token: 'Write' (ID: 7985), Prob: 0.0011
+Token: 'Yes' (ID: 9454), Prob: 0.0009
+Token: 'Hello' (ID: 9707), Prob: 0.0009
+Token: 'Take' (ID: 17814), Prob: 0.0009
+Token: 'Start' (ID: 3479), Prob: 0.0008
+Token: 'Well' (ID: 11395), Prob: 0.0008
 
 == Ranked Concepts (Clusters) ==
-Rank 1 | Centroid: 'Answer' | Score: 0.0547
-  Tokens: ['Answer', ' Answer']
-Rank 2 | Centroid: 'Let' | Score: 0.0074
-  Tokens: ['Let', 'Imagine']
-Rank 3 | Centroid: 'Question' | Score: 0.0037
-  Tokens: ['Question', ' Question']
-Rank 4 | Centroid: 'Two' | Score: 0.0027
-  Tokens: ['Two', 'First']
-Rank 5 | Centroid: 'Friday' | Score: 0.0022
-  Tokens: ['Friday', 'Saturday']
-Rank 6 | Centroid: 'Tag' | Score: 0.0012
-  Tokens: ['Tag']
-Rank 7 | Centroid: 'Okay' | Score: 0.0011
-  Tokens: ['Okay']
-Rank 8 | Centroid: 'Ass' | Score: 0.0011
-  Tokens: ['Ass']
-Rank 9 | Centroid: 'Fill' | Score: 0.0010
-  Tokens: ['Fill']
-Rank 10 | Centroid: 'Context' | Score: 0.0010
-  Tokens: ['Context']
-Rank 11 | Centroid: 'Based' | Score: 0.0010
-  Tokens: ['Based']
-Rank 12 | Centroid: 'Discussion' | Score: 0.0010
-  Tokens: ['Discussion']
-Rank 13 | Centroid: 'Setting' | Score: 0.0010
-  Tokens: ['Setting']
-Rank 14 | Centroid: 'Word' | Score: 0.0010
-  Tokens: ['Word']
+Rank 1 | Centroid: 'Okay' | Score: 0.0082
+  Tokens: ['Okay', 'Alright']
+Rank 2 | Centroid: 'Let' | Score: 0.0057
+  Tokens: ['Let', 'Please']
+Rank 3 | Centroid: '"The' | Score: 0.0057
+  Tokens: ['"The', '"You', '"In']
+Rank 4 | Centroid: 'Story' | Score: 0.0040
+  Tokens: ['Story', 'Tell']
+Rank 5 | Centroid: 'One' | Score: 0.0025
+  Tokens: ['One', 'John']
+Rank 6 | Centroid: 'Today' | Score: 0.0018
+  Tokens: ['Today']
+Rank 7 | Centroid: 'First' | Score: 0.0015
+  Tokens: ['First']
+Rank 8 | Centroid: 'Every' | Score: 0.0014
+  Tokens: ['Every']
+Rank 9 | Centroid: 'Write' | Score: 0.0011
+  Tokens: ['Write']
+Rank 10 | Centroid: 'Yes' | Score: 0.0009
+  Tokens: ['Yes']
+Rank 11 | Centroid: 'Take' | Score: 0.0009
+  Tokens: ['Take']
+Rank 12 | Centroid: 'Hello' | Score: 0.0009
+  Tokens: ['Hello']
+Rank 13 | Centroid: 'Well' | Score: 0.0008
+  Tokens: ['Well']
+Rank 14 | Centroid: 'Start' | Score: 0.0008
+  Tokens: ['Start']
 
 **Chosen Concept:** Rank 1

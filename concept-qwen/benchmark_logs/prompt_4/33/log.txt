@@ -1,69 +1,87 @@
 --- Step 33 Log ---
 
 == Filtered Candidates ==
-Token: ' prompt' (ID: 9934), Prob: 0.9219
-Token: ' message' (ID: 1943), Prob: 0.0015
-Token: ' Prompt' (ID: 59501), Prob: 0.0005
-Token: ' prompts' (ID: 50932), Prob: 0.0004
-Token: 'prompt' (ID: 40581), Prob: 0.0003
-Token: '(prompt' (ID: 72253), Prob: 0.0001
-Token: ' list' (ID: 1140), Prob: 0.0001
-Token: ' question' (ID: 3405), Prob: 0.0001
-Token: ' example' (ID: 3110), Prob: 0.0001
-Token: ' within' (ID: 2878), Prob: 0.0001
-Token: ' hint' (ID: 13012), Prob: 0.0001
-Token: ' prompting' (ID: 49645), Prob: 0.0001
-Token: ' bold' (ID: 13939), Prob: 0.0000
-Token: ' except' (ID: 3650), Prob: 0.0000
-Token: 'Prompt' (ID: 54615), Prob: 0.0000
-Token: ' format' (ID: 3561), Prob: 0.0000
-Token: ' prompted' (ID: 28646), Prob: 0.0000
-Token: ' point' (ID: 1459), Prob: 0.0000
-Token: ' item' (ID: 1509), Prob: 0.0000
-Token: ' please' (ID: 4486), Prob: 0.0000
-Token: '_prompt' (ID: 61421), Prob: 0.0000
-Token: ' topic' (ID: 8544), Prob: 0.0000
-Token: ' keyword' (ID: 16174), Prob: 0.0000
-Token: ' post' (ID: 1736), Prob: 0.0000
-Token: ' content' (ID: 2213), Prob: 0.0000
-Token: ' potential' (ID: 4650), Prob: 0.0000
-Token: ' prom' (ID: 2706), Prob: 0.0000
-Token: ' promise' (ID: 11222), Prob: 0.0000
-Token: ' wording' (ID: 60227), Prob: 0.0000
-Token: '.prompt' (ID: 65399), Prob: 0.0000
-Token: ' according' (ID: 4092), Prob: 0.0000
-Token: ' instruction' (ID: 7600), Prob: 0.0000
+Token: ' ten' (ID: 5779), Prob: 0.0001
+Token: ' Upper' (ID: 30614), Prob: 0.0001
+Token: ' Lake' (ID: 11678), Prob: 0.0001
+Token: ' Michigan' (ID: 14630), Prob: 0.0000
+Token: ' upper' (ID: 8416), Prob: 0.0000
+Token: ' Ten' (ID: 17695), Prob: 0.0000
+Token: ' Lakes' (ID: 41579), Prob: 0.0000
+Token: ' two' (ID: 1378), Prob: 0.0000
+Token: ' specific' (ID: 3151), Prob: 0.0000
+Token: ' Pike' (ID: 68729), Prob: 0.0000
+Token: ' one' (ID: 825), Prob: 0.0000
+Token: ' something' (ID: 2494), Prob: 0.0000
+Token: ' Pic' (ID: 25898), Prob: 0.0000
+Token: ' Mount' (ID: 10423), Prob: 0.0000
+Token: ' Pennsylvania' (ID: 19771), Prob: 0.0000
+Token: ' Grand' (ID: 10304), Prob: 0.0000
+Token: ' Pittsburgh' (ID: 27527), Prob: 0.0000
+Token: ' Pine' (ID: 41509), Prob: 0.0000
+Token: ' landmarks' (ID: 59924), Prob: 0.0000
+Token: ' pictures' (ID: 9185), Prob: 0.0000
+Token: ' four' (ID: 3040), Prob: 0.0000
+Token: ' five' (ID: 4236), Prob: 0.0000
+Token: ' Pal' (ID: 10925), Prob: 0.0000
+Token: ' Minnesota' (ID: 18925), Prob: 0.0000
+Token: ' three' (ID: 2326), Prob: 0.0000
+Token: ' Point' (ID: 5126), Prob: 0.0000
+Token: ' Picture' (ID: 24568), Prob: 0.0000
+Token: ' twenty' (ID: 17073), Prob: 0.0000
+Token: ' Wisconsin' (ID: 20441), Prob: 0.0000
+Token: ' parts' (ID: 5479), Prob: 0.0000
+Token: ' Paint' (ID: 17203), Prob: 0.0000
+Token: ' lakes' (ID: 43136), Prob: 0.0000
+Token: ' Pik' (ID: 61162), Prob: 0.0000
+Token: ' National' (ID: 5055), Prob: 0.0000
+Token: ' Mont' (ID: 9795), Prob: 0.0000
+Token: ' things' (ID: 2513), Prob: 0.0000
+Token: ' Big' (ID: 6164), Prob: 0.0000
+Token: ' Paul' (ID: 6898), Prob: 0.0000
+Token: ' part' (ID: 949), Prob: 0.0000
+Token: ' places' (ID: 7482), Prob: 0.0000
+Token: ' details' (ID: 3565), Prob: 0.0000
+Token: ' known' (ID: 3881), Prob: 0.0000
+Token: ' Park' (ID: 5540), Prob: 0.0000
+Token: ' Great' (ID: 8513), Prob: 0.0000
+Token: ' Pis' (ID: 90942), Prob: 0.0000
+Token: ' Fort' (ID: 11002), Prob: 0.0000
+Token: ' Penn' (ID: 13505), Prob: 0.0000
+Token: ' Pens' (ID: 63380), Prob: 0.0000
+Token: ' eleven' (ID: 44214), Prob: 0.0000
+Token: ' hikes' (ID: 67485), Prob: 0.0000
 
 == Ranked Concepts (Clusters) ==
-Rank 1 | Centroid: ' prompt' | Score: 0.9219
-  Tokens: [' prompt', ' Prompt', ' prompts', 'prompt', '(prompt', ' prompting', 'Prompt', ' prompted', '_prompt', '.prompt']
-Rank 2 | Centroid: ' message' | Score: 0.0015
-  Tokens: [' message', ' instruction']
-Rank 3 | Centroid: ' list' | Score: 0.0002
-  Tokens: [' list', ' format', ' item']
-Rank 4 | Centroid: ' question' | Score: 0.0001
-  Tokens: [' question', ' topic']
-Rank 5 | Centroid: ' within' | Score: 0.0001
-  Tokens: [' within', ' according']
-Rank 6 | Centroid: ' example' | Score: 0.0001
-  Tokens: [' example']
-Rank 7 | Centroid: ' except' | Score: 0.0001
-  Tokens: [' except', ' please']
-Rank 8 | Centroid: ' hint' | Score: 0.0001
-  Tokens: [' hint']
-Rank 9 | Centroid: ' keyword' | Score: 0.0001
-  Tokens: [' keyword', ' wording']
-Rank 10 | Centroid: ' prom' | Score: 0.0001
-  Tokens: [' prom', ' promise']
-Rank 11 | Centroid: ' bold' | Score: 0.0000
-  Tokens: [' bold']
-Rank 12 | Centroid: ' point' | Score: 0.0000
-  Tokens: [' point']
-Rank 13 | Centroid: ' content' | Score: 0.0000
-  Tokens: [' content']
-Rank 14 | Centroid: ' potential' | Score: 0.0000
-  Tokens: [' potential']
-Rank 15 | Centroid: ' post' | Score: 0.0000
-  Tokens: [' post']
+Rank 1 | Centroid: ' ten' | Score: 0.0001
+  Tokens: [' ten', ' Ten', ' twenty', ' eleven']
+Rank 2 | Centroid: ' Upper' | Score: 0.0001
+  Tokens: [' Upper', ' upper']
+Rank 3 | Centroid: ' lakes' | Score: 0.0001
+  Tokens: [' Lake', ' Lakes', ' lakes']
+Rank 4 | Centroid: ' Pennsylvania' | Score: 0.0001
+  Tokens: [' Michigan', ' Pennsylvania', ' Pittsburgh', ' Minnesota', ' Wisconsin', ' Penn']
+Rank 5 | Centroid: ' three' | Score: 0.0000
+  Tokens: [' two', ' one', ' four', ' five', ' three']
+Rank 6 | Centroid: ' Mont' | Score: 0.0000
+  Tokens: [' specific', ' Mount', ' Mont', ' known', ' Fort']
+Rank 7 | Centroid: ' Pine' | Score: 0.0000
+  Tokens: [' Pike', ' Pine', ' Pik', ' Pis', ' Pens']
+Rank 8 | Centroid: ' Picture' | Score: 0.0000
+  Tokens: [' Pic', ' pictures', ' Pal', ' Picture', ' Paint']
+Rank 9 | Centroid: ' things' | Score: 0.0000
+  Tokens: [' something', ' landmarks', ' things', ' places', ' details']
+Rank 10 | Centroid: ' Great' | Score: 0.0000
+  Tokens: [' Grand', ' Big', ' Great']
+Rank 11 | Centroid: ' Point' | Score: 0.0000
+  Tokens: [' Point', ' Park']
+Rank 12 | Centroid: ' parts' | Score: 0.0000
+  Tokens: [' parts', ' part']
+Rank 13 | Centroid: ' National' | Score: 0.0000
+  Tokens: [' National']
+Rank 14 | Centroid: ' Paul' | Score: 0.0000
+  Tokens: [' Paul']
+Rank 15 | Centroid: ' hikes' | Score: 0.0000
+  Tokens: [' hikes']
 
 **Chosen Concept:** Rank 1

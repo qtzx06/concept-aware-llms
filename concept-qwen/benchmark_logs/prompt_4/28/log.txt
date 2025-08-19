@@ -1,61 +1,131 @@
 --- Step 28 Log ---
 
 == Filtered Candidates ==
-Token: ' message' (ID: 1943), Prob: 0.9141
-Token: ' prompt' (ID: 9934), Prob: 0.0148
-Token: ' messages' (ID: 6605), Prob: 0.0016
-Token: '.message' (ID: 6698), Prob: 0.0005
-Token: 'message' (ID: 1994), Prob: 0.0003
-Token: ' question' (ID: 3405), Prob: 0.0002
-Token: ' Message' (ID: 4856), Prob: 0.0002
-Token: ' statement' (ID: 5114), Prob: 0.0002
-Token: '(message' (ID: 7333), Prob: 0.0002
-Token: ' list' (ID: 1140), Prob: 0.0001
-Token: ' item' (ID: 1509), Prob: 0.0001
-Token: ' response' (ID: 2033), Prob: 0.0001
-Token: ' answer' (ID: 4226), Prob: 0.0001
-Token: ' point' (ID: 1459), Prob: 0.0001
-Token: ' content' (ID: 2213), Prob: 0.0001
-Token: ' except' (ID: 3650), Prob: 0.0001
-Token: ':message' (ID: 91473), Prob: 0.0001
-Token: ' description' (ID: 4008), Prob: 0.0001
-Token: 'Message' (ID: 2052), Prob: 0.0001
-Token: ' example' (ID: 3110), Prob: 0.0001
-Token: ' phrase' (ID: 17133), Prob: 0.0001
-Token: ' information' (ID: 1995), Prob: 0.0000
-Token: ' sentence' (ID: 11652), Prob: 0.0000
-Token: '	message' (ID: 24753), Prob: 0.0000
-Token: ' user' (ID: 1196), Prob: 0.0000
-Token: ' text' (ID: 1467), Prob: 0.0000
-Token: '_message' (ID: 6462), Prob: 0.0000
-Token: ' instruction' (ID: 7600), Prob: 0.0000
+Token: ' famous' (ID: 11245), Prob: 0.0025
+Token: ' lakes' (ID: 43136), Prob: 0.0022
+Token: ' national' (ID: 5313), Prob: 0.0015
+Token: ' National' (ID: 5055), Prob: 0.0007
+Token: ' Lakes' (ID: 41579), Prob: 0.0005
+Token: ' Upper' (ID: 30614), Prob: 0.0003
+Token: ' upper' (ID: 8416), Prob: 0.0003
+Token: ' Lake' (ID: 11678), Prob: 0.0002
+Token: ' natural' (ID: 5810), Prob: 0.0001
+Token: ' known' (ID: 3881), Prob: 0.0001
+Token: ' rocks' (ID: 23035), Prob: 0.0001
+Token: ' parks' (ID: 26845), Prob: 0.0001
+Token: ' famed' (ID: 60303), Prob: 0.0001
+Token: ' scenic' (ID: 60981), Prob: 0.0001
+Token: ' top' (ID: 1909), Prob: 0.0001
+Token: ' beautiful' (ID: 6233), Prob: 0.0001
+Token: ' iconic' (ID: 26277), Prob: 0.0001
+Token: ' woods' (ID: 32533), Prob: 0.0000
+Token: ' Great' (ID: 8513), Prob: 0.0000
+Token: ' notable' (ID: 27190), Prob: 0.0000
+Token: ' hiking' (ID: 37364), Prob: 0.0000
+Token: ' renowned' (ID: 35948), Prob: 0.0000
+Token: ' popular' (ID: 5411), Prob: 0.0000
+Token: ' nature' (ID: 6993), Prob: 0.0000
+Token: ' Paint' (ID: 17203), Prob: 0.0000
+Token: ' mountains' (ID: 23501), Prob: 0.0000
+Token: ' Big' (ID: 6164), Prob: 0.0000
+Token: ' Mount' (ID: 10423), Prob: 0.0000
+Token: ' landscape' (ID: 18414), Prob: 0.0000
+Token: ' picturesque' (ID: 73901), Prob: 0.0000
+Token: ' state' (ID: 1584), Prob: 0.0000
+Token: ' lake' (ID: 21800), Prob: 0.0000
+Token: ' park' (ID: 6118), Prob: 0.0000
+Token: ' scenery' (ID: 50231), Prob: 0.0000
+Token: ' Natural' (ID: 18448), Prob: 0.0000
+Token: ' Grand' (ID: 10304), Prob: 0.0000
+Token: ' best' (ID: 1850), Prob: 0.0000
+Token: ' Pis' (ID: 90942), Prob: 0.0000
+Token: ' historic' (ID: 18035), Prob: 0.0000
+Token: ' mentioned' (ID: 9733), Prob: 0.0000
+Token: ' big' (ID: 2409), Prob: 0.0000
+Token: ' Famous' (ID: 66788), Prob: 0.0000
+Token: ' local' (ID: 2205), Prob: 0.0000
+Token: ' wildlife' (ID: 29305), Prob: 0.0000
+Token: ' landmarks' (ID: 59924), Prob: 0.0000
+Token: ' great' (ID: 2244), Prob: 0.0000
+Token: ' beauty' (ID: 13143), Prob: 0.0000
+Token: ' Michigan' (ID: 14630), Prob: 0.0000
+Token: ' favorite' (ID: 6930), Prob: 0.0000
+Token: ' highest' (ID: 8426), Prob: 0.0000
+Token: ' hike' (ID: 34231), Prob: 0.0000
+Token: ' wonders' (ID: 39064), Prob: 0.0000
+Token: ' Canadian' (ID: 11888), Prob: 0.0000
+Token: ' beloved' (ID: 27430), Prob: 0.0000
+Token: ' major' (ID: 3598), Prob: 0.0000
+Token: ' ancient' (ID: 13833), Prob: 0.0000
+Token: ' Wolverine' (ID: 83179), Prob: 0.0000
+Token: ' Point' (ID: 5126), Prob: 0.0000
+Token: ' Pic' (ID: 25898), Prob: 0.0000
+Token: ' area' (ID: 3082), Prob: 0.0000
+Token: ' largest' (ID: 7772), Prob: 0.0000
+Token: ' gorgeous' (ID: 23511), Prob: 0.0000
+Token: ' Pine' (ID: 41509), Prob: 0.0000
+Token: ' biggest' (ID: 8538), Prob: 0.0000
+Token: ' wilderness' (ID: 48262), Prob: 0.0000
+Token: ' hikes' (ID: 67485), Prob: 0.0000
+Token: ' name' (ID: 829), Prob: 0.0000
+Token: ' Pan' (ID: 10990), Prob: 0.0000
+Token: ' pine' (ID: 33597), Prob: 0.0000
+Token: ' forests' (ID: 35558), Prob: 0.0000
+Token: ' landscapes' (ID: 54790), Prob: 0.0000
+Token: ' impressive' (ID: 15978), Prob: 0.0000
+Token: ' northern' (ID: 18172), Prob: 0.0000
+Token: ' Parks' (ID: 38172), Prob: 0.0000
+Token: ' fictional' (ID: 43582), Prob: 0.0000
+Token: ' high' (ID: 1550), Prob: 0.0000
+Token: ' specific' (ID: 3151), Prob: 0.0000
+Token: ' State' (ID: 3234), Prob: 0.0000
+Token: ' designated' (ID: 23195), Prob: 0.0000
+Token: ' attractions' (ID: 38491), Prob: 0.0000
+Token: ' shores' (ID: 62163), Prob: 0.0000
+Token: ' amazing' (ID: 7897), Prob: 0.0000
+Token: ' remote' (ID: 8699), Prob: 0.0000
+Token: ' forest' (ID: 13638), Prob: 0.0000
+Token: ' hills' (ID: 34131), Prob: 0.0000
+Token: ' peaks' (ID: 38935), Prob: 0.0000
 
 == Ranked Concepts (Clusters) ==
-Rank 1 | Centroid: ' message' | Score: 0.9180
-  Tokens: [' message', ' messages', '.message', 'message', ' Message', '(message', 'Message', '\tmessage', '_message']
-Rank 2 | Centroid: ' prompt' | Score: 0.0148
-  Tokens: [' prompt']
-Rank 3 | Centroid: ' phrase' | Score: 0.0003
-  Tokens: [' statement', ' phrase', ' sentence']
-Rank 4 | Centroid: ' question' | Score: 0.0002
-  Tokens: [' question']
-Rank 5 | Centroid: ' response' | Score: 0.0002
-  Tokens: [' response', ' answer']
-Rank 6 | Centroid: ' item' | Score: 0.0001
-  Tokens: [' item', ' user']
-Rank 7 | Centroid: ' instruction' | Score: 0.0001
-  Tokens: [' description', ' information', ' instruction']
-Rank 8 | Centroid: ' list' | Score: 0.0001
-  Tokens: [' list']
-Rank 9 | Centroid: ' content' | Score: 0.0001
-  Tokens: [' content', ' text']
-Rank 10 | Centroid: ':message' | Score: 0.0001
-  Tokens: [':message']
-Rank 11 | Centroid: ' point' | Score: 0.0001
-  Tokens: [' point']
-Rank 12 | Centroid: ' except' | Score: 0.0001
-  Tokens: [' except']
-Rank 13 | Centroid: ' example' | Score: 0.0001
-  Tokens: [' example']
+Rank 1 | Centroid: ' lake' | Score: 0.0029
+  Tokens: [' lakes', ' Lakes', ' Lake', ' Mount', ' lake']
+Rank 2 | Centroid: ' famous' | Score: 0.0026
+  Tokens: [' famous', ' famed', ' iconic', ' renowned', ' Famous', ' favorite', ' beloved']
+Rank 3 | Centroid: ' national' | Score: 0.0022
+  Tokens: [' national', ' National']
+Rank 4 | Centroid: ' upper' | Score: 0.0006
+  Tokens: [' Upper', ' upper', ' northern', ' remote']
+Rank 5 | Centroid: ' notable' | Score: 0.0002
+  Tokens: [' known', ' notable', ' popular', ' mentioned', ' name', ' specific', ' designated']
+Rank 6 | Centroid: ' Natural' | Score: 0.0002
+  Tokens: [' natural', ' nature', ' Natural']
+Rank 7 | Centroid: ' landscapes' | Score: 0.0001
+  Tokens: [' scenic', ' landscape', ' picturesque', ' scenery', ' landmarks', ' landscapes', ' attractions']
+Rank 8 | Centroid: ' mountains' | Score: 0.0001
+  Tokens: [' rocks', ' mountains', ' shores', ' hills', ' peaks']
+Rank 9 | Centroid: ' parks' | Score: 0.0001
+  Tokens: [' parks', ' park', ' Parks']
+Rank 10 | Centroid: ' Big' | Score: 0.0001
+  Tokens: [' Great', ' Big', ' Grand', ' big', ' great', ' major']
+Rank 11 | Centroid: ' beautiful' | Score: 0.0001
+  Tokens: [' beautiful', ' beauty', ' wonders', ' gorgeous', ' impressive', ' amazing']
+Rank 12 | Centroid: ' high' | Score: 0.0001
+  Tokens: [' top', ' local', ' area', ' high']
+Rank 13 | Centroid: ' forest' | Score: 0.0001
+  Tokens: [' woods', ' wildlife', ' wilderness', ' forests', ' forest']
+Rank 14 | Centroid: ' Pine' | Score: 0.0000
+  Tokens: [' Paint', ' Pis', ' Pic', ' Pine', ' Pan', ' pine']
+Rank 15 | Centroid: ' hike' | Score: 0.0000
+  Tokens: [' hiking', ' hike', ' hikes']
+Rank 16 | Centroid: ' State' | Score: 0.0000
+  Tokens: [' state', ' Point', ' State']
+Rank 17 | Centroid: ' largest' | Score: 0.0000
+  Tokens: [' best', ' highest', ' largest', ' biggest']
+Rank 18 | Centroid: ' historic' | Score: 0.0000
+  Tokens: [' historic', ' ancient', ' fictional']
+Rank 19 | Centroid: ' Michigan' | Score: 0.0000
+  Tokens: [' Michigan', ' Canadian', ' Wolverine']
 
 **Chosen Concept:** Rank 1

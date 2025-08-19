@@ -1,124 +1,159 @@
 --- Step 34 Log ---
 
 == Filtered Candidates ==
-Token: ' imagery' (ID: 40445), Prob: 0.9336
-Token: ' language' (ID: 4128), Prob: 0.0249
-Token: ' words' (ID: 4244), Prob: 0.0118
-Token: ' descriptions' (ID: 27787), Prob: 0.0104
-Token: ' images' (ID: 5335), Prob: 0.0071
-Token: ' sensory' (ID: 47969), Prob: 0.0026
-Token: ' verbs' (ID: 61846), Prob: 0.0012
-Token: ' details' (ID: 3565), Prob: 0.0010
-Token: ' metaph' (ID: 30668), Prob: 0.0006
-Token: ' description' (ID: 4008), Prob: 0.0004
-Token: ' descriptors' (ID: 47517), Prob: 0.0003
-Token: ' vocabulary' (ID: 34918), Prob: 0.0001
-Token: ' emotions' (ID: 21261), Prob: 0.0001
-Token: ' descriptive' (ID: 52844), Prob: 0.0001
-Token: ' terms' (ID: 3793), Prob: 0.0001
-Token: ' image' (ID: 2168), Prob: 0.0001
-Token: ' imagination' (ID: 27799), Prob: 0.0001
-Token: ' phrases' (ID: 31747), Prob: 0.0001
-Token: ' examples' (ID: 10295), Prob: 0.0001
-Token: ' sim' (ID: 1643), Prob: 0.0000
-Token: ' yet' (ID: 3602), Prob: 0.0000
-Token: ' expressions' (ID: 23393), Prob: 0.0000
-Token: ' actions' (ID: 6168), Prob: 0.0000
-Token: ' pictures' (ID: 9185), Prob: 0.0000
-Token: ' sensations' (ID: 71497), Prob: 0.0000
-Token: ' imaging' (ID: 31658), Prob: 0.0000
-Token: ' imag' (ID: 6532), Prob: 0.0000
-Token: ' wording' (ID: 60227), Prob: 0.0000
-Token: ' still' (ID: 2058), Prob: 0.0000
-Token: ' colors' (ID: 7987), Prob: 0.0000
-Token: ' senses' (ID: 37107), Prob: 0.0000
-Token: 'jectives' (ID: 86578), Prob: 0.0000
-Token: ' sentences' (ID: 22870), Prob: 0.0000
-Token: ' comparisons' (ID: 35495), Prob: 0.0000
-Token: ' synonyms' (ID: 85406), Prob: 0.0000
-Token: ' nouns' (ID: 89838), Prob: 0.0000
-Token: ' physical' (ID: 6961), Prob: 0.0000
-Token: ' enough' (ID: 3322), Prob: 0.0000
-Token: ' describe' (ID: 7512), Prob: 0.0000
-Token: ' scenes' (ID: 16065), Prob: 0.0000
-Token: ' describing' (ID: 22692), Prob: 0.0000
-Token: ' scenarios' (ID: 25283), Prob: 0.0000
-Token: ' visuals' (ID: 52977), Prob: 0.0000
-Token: ' word' (ID: 3409), Prob: 0.0000
-Token: 'ness' (ID: 2090), Prob: 0.0000
-Token: ' Imag' (ID: 76433), Prob: 0.0000
-Token: ' keywords' (ID: 20844), Prob: 0.0000
-Token: ' comparison' (ID: 12313), Prob: 0.0000
-Token: ' action' (ID: 1917), Prob: 0.0000
-Token: ' emojis' (ID: 99066), Prob: 0.0000
-Token: ' visualization' (ID: 41048), Prob: 0.0000
-Token: ' detail' (ID: 7716), Prob: 0.0000
-Token: ' scenery' (ID: 50231), Prob: 0.0000
-Token: ' analog' (ID: 23400), Prob: 0.0000
-Token: ' des' (ID: 939), Prob: 0.0000
-Token: ' choices' (ID: 11454), Prob: 0.0000
-Token: ' vivid' (ID: 42020), Prob: 0.0000
-Token: ' elements' (ID: 5424), Prob: 0.0000
-Token: ' parts' (ID: 5479), Prob: 0.0000
-Token: ' emotion' (ID: 19772), Prob: 0.0000
-Token: ' grammar' (ID: 31428), Prob: 0.0000
-Token: ' metaphor' (ID: 45350), Prob: 0.0000
-Token: ' nature' (ID: 6993), Prob: 0.0000
-Token: ' emotional' (ID: 14269), Prob: 0.0000
-Token: ' visual' (ID: 9124), Prob: 0.0000
-Token: ' natural' (ID: 5810), Prob: 0.0000
-Token: ' ingredients' (ID: 13966), Prob: 0.0000
-Token: ' concrete' (ID: 14175), Prob: 0.0000
-Token: ' describes' (ID: 16555), Prob: 0.0000
-Token: ' experiences' (ID: 11449), Prob: 0.0000
-Token: ' memories' (ID: 18923), Prob: 0.0000
-Token: ' situations' (ID: 14740), Prob: 0.0000
-Token: ' languages' (ID: 15459), Prob: 0.0000
-Token: ' qualities' (ID: 28500), Prob: 0.0000
-Token: ' strong' (ID: 3746), Prob: 0.0000
-Token: ' feelings' (ID: 15650), Prob: 0.0000
-Token: ' contrasts' (ID: 82279), Prob: 0.0000
-Token: ' movement' (ID: 7203), Prob: 0.0000
-Token: ' terminology' (ID: 56626), Prob: 0.0000
-Token: ' body' (ID: 2487), Prob: 0.0000
-Token: ' settings' (ID: 5003), Prob: 0.0000
+Token: ' character' (ID: 3668), Prob: 0.4258
+Token: ' characters' (ID: 5766), Prob: 0.1387
+Token: ' narrative' (ID: 19221), Prob: 0.1079
+Token: ' plot' (ID: 7089), Prob: 0.0952
+Token: ' story' (ID: 3364), Prob: 0.0840
+Token: ' setting' (ID: 6243), Prob: 0.0240
+Token: ' storyline' (ID: 50628), Prob: 0.0146
+Token: ' culture' (ID: 7674), Prob: 0.0094
+Token: ' action' (ID: 1917), Prob: 0.0078
+Token: ' city' (ID: 3283), Prob: 0.0065
+Token: ' building' (ID: 4752), Prob: 0.0061
+Token: ' country' (ID: 3146), Prob: 0.0039
+Token: ' event' (ID: 1538), Prob: 0.0024
+Token: ' location' (ID: 3728), Prob: 0.0024
+Token: ' focus' (ID: 5244), Prob: 0.0020
+Token: ' cultural' (ID: 12752), Prob: 0.0017
+Token: ' home' (ID: 2114), Prob: 0.0016
+Token: ' town' (ID: 6290), Prob: 0.0016
+Token: ' theme' (ID: 6912), Prob: 0.0016
+Token: ' house' (ID: 3753), Prob: 0.0015
+Token: ' text' (ID: 1467), Prob: 0.0014
+Token: ' point' (ID: 1459), Prob: 0.0014
+Token: ' two' (ID: 1378), Prob: 0.0013
+Token: ' room' (ID: 3054), Prob: 0.0013
+Token: ' stream' (ID: 4269), Prob: 0.0013
+Token: ' world' (ID: 1879), Prob: 0.0011
+Token: ' settings' (ID: 5003), Prob: 0.0011
+Token: ' body' (ID: 2487), Prob: 0.0011
+Token: ' village' (ID: 14126), Prob: 0.0010
+Token: ' protagonist' (ID: 45584), Prob: 0.0010
+Token: ' subject' (ID: 3832), Prob: 0.0008
+Token: ' scene' (ID: 6109), Prob: 0.0008
+Token: ' conflict' (ID: 12055), Prob: 0.0008
+Token: ' area' (ID: 3082), Prob: 0.0007
+Token: ' cast' (ID: 6311), Prob: 0.0007
+Token: ' language' (ID: 4128), Prob: 0.0006
+Token: ' conversation' (ID: 10435), Prob: 0.0006
+Token: ' events' (ID: 4357), Prob: 0.0006
+Token: ' school' (ID: 2906), Prob: 0.0006
+Token: ' campus' (ID: 15319), Prob: 0.0006
+Token: ' timeline' (ID: 24808), Prob: 0.0006
+Token: ' structure' (ID: 5944), Prob: 0.0005
+Token: ' urban' (ID: 15662), Prob: 0.0005
+Token: ' frame' (ID: 4034), Prob: 0.0005
+Token: ' theater' (ID: 26705), Prob: 0.0005
+Token: ' line' (ID: 1555), Prob: 0.0004
+Token: ' thread' (ID: 4516), Prob: 0.0004
+Token: ' classroom' (ID: 24017), Prob: 0.0004
+Token: ' set' (ID: 738), Prob: 0.0004
+Token: ' title' (ID: 2265), Prob: 0.0004
+Token: ' family' (ID: 2997), Prob: 0.0004
+Token: ' sequence' (ID: 8500), Prob: 0.0004
+Token: ' workplace' (ID: 26368), Prob: 0.0004
+Token: ' content' (ID: 2213), Prob: 0.0004
+Token: ' dialogue' (ID: 21276), Prob: 0.0004
+Token: ' place' (ID: 1992), Prob: 0.0004
+Token: ' script' (ID: 5316), Prob: 0.0004
+Token: ' island' (ID: 12922), Prob: 0.0003
+Token: ' storytelling' (ID: 47829), Prob: 0.0003
+Token: ' street' (ID: 8592), Prob: 0.0003
+Token: ' attraction' (ID: 32364), Prob: 0.0003
+Token: ' course' (ID: 3308), Prob: 0.0003
+Token: ' meeting' (ID: 6438), Prob: 0.0003
+Token: ' locale' (ID: 18565), Prob: 0.0003
+Token: ' context' (ID: 2266), Prob: 0.0003
+Token: ' points' (ID: 3501), Prob: 0.0003
+Token: ' hall' (ID: 13994), Prob: 0.0003
+Token: ' castle' (ID: 32584), Prob: 0.0003
+Token: ' work' (ID: 975), Prob: 0.0003
+Token: ' writing' (ID: 4378), Prob: 0.0003
+Token: ' library' (ID: 6733), Prob: 0.0003
+Token: ' nation' (ID: 6995), Prob: 0.0003
+Token: ' topic' (ID: 8544), Prob: 0.0002
+Token: ' narration' (ID: 85080), Prob: 0.0002
+Token: ' group' (ID: 1874), Prob: 0.0002
+Token: ' role' (ID: 3476), Prob: 0.0002
+Token: ' article' (ID: 4549), Prob: 0.0002
+Token: ' historical' (ID: 13656), Prob: 0.0002
+Token: ' narrator' (ID: 64171), Prob: 0.0002
+Token: ' district' (ID: 9290), Prob: 0.0002
+Token: ' literary' (ID: 31365), Prob: 0.0002
+Token: ' premise' (ID: 40202), Prob: 0.0002
+Token: ' series' (ID: 4013), Prob: 0.0002
+Token: ' land' (ID: 4268), Prob: 0.0002
+Token: ' residence' (ID: 21682), Prob: 0.0002
+Token: ' person' (ID: 1697), Prob: 0.0002
+Token: ' background' (ID: 4004), Prob: 0.0002
+Token: 'plot' (ID: 4469), Prob: 0.0002
+Token: ' genre' (ID: 17328), Prob: 0.0002
+Token: ' range' (ID: 2088), Prob: 0.0002
+Token: ' region' (ID: 5537), Prob: 0.0002
+Token: ' actions' (ID: 6168), Prob: 0.0002
+Token: ' part' (ID: 949), Prob: 0.0002
+Token: 'stream' (ID: 4027), Prob: 0.0002
+Token: ' stage' (ID: 6430), Prob: 0.0002
+Token: ' domestic' (ID: 12728), Prob: 0.0002
 
 == Ranked Concepts (Clusters) ==
-Rank 1 | Centroid: ' images' | Score: 0.9414
-  Tokens: [' imagery', ' images', ' image', ' imagination', ' pictures', ' imaging', ' imag', ' Imag']
-Rank 2 | Centroid: ' vocabulary' | Score: 0.0381
-  Tokens: [' language', ' words', ' verbs', ' vocabulary', ' wording', ' synonyms', ' nouns', ' word', ' keywords', ' grammar', ' languages', ' terminology']
-Rank 3 | Centroid: ' describes' | Score: 0.0112
-  Tokens: [' descriptions', ' description', ' descriptors', ' descriptive', ' describe', ' describing', ' des', ' describes']
-Rank 4 | Centroid: ' sensory' | Score: 0.0026
-  Tokens: [' sensory', ' physical']
-Rank 5 | Centroid: ' details' | Score: 0.0010
-  Tokens: [' details', ' detail']
-Rank 6 | Centroid: ' metaphor' | Score: 0.0006
-  Tokens: [' metaph', ' sim', ' analog', ' metaphor']
-Rank 7 | Centroid: ' emotions' | Score: 0.0001
-  Tokens: [' emotions', ' sensations', ' senses', ' emotion', ' emotional', ' memories', ' feelings']
-Rank 8 | Centroid: ' phrases' | Score: 0.0001
-  Tokens: [' phrases', ' expressions', ' sentences']
-Rank 9 | Centroid: ' terms' | Score: 0.0001
-  Tokens: [' terms', ' ingredients']
-Rank 10 | Centroid: ' scenarios' | Score: 0.0001
-  Tokens: [' examples', ' scenes', ' scenarios', ' scenery', ' experiences', ' situations', ' settings']
-Rank 11 | Centroid: ' concrete' | Score: 0.0000
-  Tokens: [' yet', ' still', ' enough', 'ness', ' concrete', ' strong']
-Rank 12 | Centroid: ' actions' | Score: 0.0000
-  Tokens: [' actions', ' action', ' movement', ' body']
-Rank 13 | Centroid: 'jectives' | Score: 0.0000
-  Tokens: ['jectives', ' emojis']
-Rank 14 | Centroid: ' colors' | Score: 0.0000
-  Tokens: [' colors']
-Rank 15 | Centroid: ' comparisons' | Score: 0.0000
-  Tokens: [' comparisons', ' comparison', ' contrasts']
-Rank 16 | Centroid: ' visual' | Score: 0.0000
-  Tokens: [' visuals', ' visualization', ' vivid', ' visual']
-Rank 17 | Centroid: ' elements' | Score: 0.0000
-  Tokens: [' choices', ' elements', ' parts', ' qualities']
-Rank 18 | Centroid: ' nature' | Score: 0.0000
-  Tokens: [' nature', ' natural']
+Rank 1 | Centroid: ' characters' | Score: 0.5664
+  Tokens: [' character', ' characters', ' protagonist']
+Rank 2 | Centroid: ' narrative' | Score: 0.2090
+  Tokens: [' narrative', ' story', ' storyline', ' conversation', ' timeline', ' dialogue', ' storytelling', ' narration', ' narrator']
+Rank 3 | Centroid: ' plot' | Score: 0.0952
+  Tokens: [' plot', 'plot']
+Rank 4 | Centroid: ' setting' | Score: 0.0315
+  Tokens: [' setting', ' building', ' settings', ' meeting']
+Rank 5 | Centroid: ' village' | Score: 0.0156
+  Tokens: [' city', ' country', ' town', ' world', ' village', ' urban', ' island', ' nation', ' district', ' land']
+Rank 6 | Centroid: ' cultural' | Score: 0.0122
+  Tokens: [' culture', ' cultural', ' language', ' historical', ' literary']
+Rank 7 | Centroid: ' events' | Score: 0.0117
+  Tokens: [' action', ' event', ' conflict', ' events', ' actions']
+Rank 8 | Centroid: ' house' | Score: 0.0045
+  Tokens: [' home', ' house', ' room']
+Rank 9 | Centroid: ' location' | Score: 0.0039
+  Tokens: [' location', ' area', ' place', ' locale', ' region']
+Rank 10 | Centroid: ' topic' | Score: 0.0028
+  Tokens: [' theme', ' subject', ' topic', ' genre']
+Rank 11 | Centroid: ' two' | Score: 0.0025
+  Tokens: [' two', ' line', ' set', ' group', ' part']
+Rank 12 | Centroid: ' article' | Score: 0.0024
+  Tokens: [' body', ' thread', ' title', ' course', ' article']
+Rank 13 | Centroid: ' range' | Score: 0.0023
+  Tokens: [' focus', ' range', ' stage']
+Rank 14 | Centroid: ' context' | Score: 0.0018
+  Tokens: [' structure', ' frame', ' content', ' context', ' background']
+Rank 15 | Centroid: ' school' | Score: 0.0018
+  Tokens: [' school', ' campus', ' classroom', ' library']
+Rank 16 | Centroid: ' point' | Score: 0.0016
+  Tokens: [' point', ' points']
+Rank 17 | Centroid: ' text' | Score: 0.0014
+  Tokens: [' text']
+Rank 18 | Centroid: ' stream' | Score: 0.0014
+  Tokens: [' stream', 'stream']
+Rank 19 | Centroid: ' scene' | Score: 0.0012
+  Tokens: [' scene', ' role', ' premise']
+Rank 20 | Centroid: ' castle' | Score: 0.0009
+  Tokens: [' street', ' hall', ' castle']
+Rank 21 | Centroid: ' theater' | Score: 0.0009
+  Tokens: [' theater', ' workplace']
+Rank 22 | Centroid: ' cast' | Score: 0.0007
+  Tokens: [' cast']
+Rank 23 | Centroid: ' script' | Score: 0.0006
+  Tokens: [' script', ' writing']
+Rank 24 | Centroid: ' sequence' | Score: 0.0006
+  Tokens: [' sequence', ' series']
+Rank 25 | Centroid: ' family' | Score: 0.0006
+  Tokens: [' family', ' domestic']
+Rank 26 | Centroid: ' attraction' | Score: 0.0005
+  Tokens: [' attraction', ' residence']
+Rank 27 | Centroid: ' work' | Score: 0.0003
+  Tokens: [' work']
+Rank 28 | Centroid: ' person' | Score: 0.0002
+  Tokens: [' person']
 
 **Chosen Concept:** Rank 1

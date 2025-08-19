@@ -1,0 +1,144 @@
+--- Step 140 Log ---
+
+== Filtered Candidates ==
+Token: ' include' (ID: 2924), Prob: 0.7930
+Token: ' set' (ID: 738), Prob: 0.0308
+Token: ' involve' (ID: 21058), Prob: 0.0015
+Token: ' contain' (ID: 6644), Prob: 0.0014
+Token: ' also' (ID: 1083), Prob: 0.0009
+Token: ' take' (ID: 1896), Prob: 0.0004
+Token: ' show' (ID: 1473), Prob: 0.0002
+Token: ' feature' (ID: 4565), Prob: 0.0002
+Token: ' consist' (ID: 6685), Prob: 0.0002
+Token: ' describe' (ID: 7512), Prob: 0.0002
+Token: ' focus' (ID: 5244), Prob: 0.0002
+Token: ' incorporate' (ID: 32335), Prob: 0.0002
+Token: ' introduce' (ID: 19131), Prob: 0.0001
+Token: ' establish' (ID: 5695), Prob: 0.0001
+Token: ' follow' (ID: 1795), Prob: 0.0001
+Token: ' begin' (ID: 3161), Prob: 0.0001
+Token: ' occur' (ID: 12170), Prob: 0.0001
+Token: ' start' (ID: 1191), Prob: 0.0001
+Token: ' open' (ID: 1787), Prob: 0.0001
+Token: ' represent' (ID: 4009), Prob: 0.0001
+Token: ' create' (ID: 1855), Prob: 0.0001
+Token: ' provide' (ID: 3410), Prob: 0.0000
+Token: ' come' (ID: 2525), Prob: 0.0000
+Token: ' relate' (ID: 28143), Prob: 0.0000
+Token: ' present' (ID: 3042), Prob: 0.0000
+Token: ' place' (ID: 1992), Prob: 0.0000
+Token: ' end' (ID: 835), Prob: 0.0000
+Token: ' depict' (ID: 42404), Prob: 0.0000
+Token: ' conclude' (ID: 31094), Prob: 0.0000
+Token: ' includes' (ID: 5646), Prob: 0.0000
+Token: ' exclude' (ID: 21687), Prob: 0.0000
+Token: ' use' (ID: 990), Prob: 0.0000
+Token: ' match' (ID: 2432), Prob: 0.0000
+Token: ' appear' (ID: 4994), Prob: 0.0000
+Token: ' reflect' (ID: 8708), Prob: 0.0000
+Token: ' refer' (ID: 8300), Prob: 0.0000
+Token: ' mention' (ID: 6286), Prob: 0.0000
+Token: ' give' (ID: 2968), Prob: 0.0000
+Token: ' indicate' (ID: 13216), Prob: 0.0000
+Token: ' address' (ID: 2621), Prob: 0.0000
+Token: ' meet' (ID: 3367), Prob: 0.0000
+Token: ' correspond' (ID: 7866), Prob: 0.0000
+Token: ' lead' (ID: 2990), Prob: 0.0000
+Token: ' cover' (ID: 3421), Prob: 0.0000
+Token: ' immediately' (ID: 7069), Prob: 0.0000
+Token: ' Include' (ID: 29734), Prob: 0.0000
+Token: ' display' (ID: 3037), Prob: 0.0000
+Token: ' receive' (ID: 5258), Prob: 0.0000
+Token: ' accompany' (ID: 19226), Prob: 0.0000
+Token: 'include' (ID: 997), Prob: 0.0000
+Token: ' sit' (ID: 2444), Prob: 0.0000
+Token: ' continue' (ID: 3060), Prob: 0.0000
+Token: ' center' (ID: 4126), Prob: 0.0000
+Token: ' showcase' (ID: 34783), Prob: 0.0000
+Token: ' either' (ID: 2987), Prob: 0.0000
+Token: ' serve' (ID: 8683), Prob: 0.0000
+Token: ' require' (ID: 1373), Prob: 0.0000
+Token: ' happen' (ID: 3537), Prob: 0.0000
+Token: ' belong' (ID: 9173), Prob: 0.0000
+Token: ' integrate' (ID: 31072), Prob: 0.0000
+Token: ' look' (ID: 1401), Prob: 0.0000
+Token: ' intersect' (ID: 31796), Prob: 0.0000
+Token: ' allow' (ID: 2138), Prob: 0.0000
+Token: ' write' (ID: 3270), Prob: 0.0000
+Token: ' add' (ID: 912), Prob: 0.0000
+Token: ' connect' (ID: 4564), Prob: 0.0000
+Token: ' reference' (ID: 5785), Prob: 0.0000
+Token: ' remain' (ID: 7146), Prob: 0.0000
+Token: ' engage' (ID: 16579), Prob: 0.0000
+Token: ' highlight' (ID: 11167), Prob: 0.0000
+Token: ' specify' (ID: 13837), Prob: 0.0000
+Token: ' incl' (ID: 18409), Prob: 0.0000
+Token: ' alternate' (ID: 24609), Prob: 0.0000
+Token: ' encompass' (ID: 37532), Prob: 0.0000
+Token: ' another' (ID: 2441), Prob: 0.0000
+Token: ' account' (ID: 2692), Prob: 0.0000
+Token: ' bring' (ID: 4446), Prob: 0.0000
+Token: ' initially' (ID: 15102), Prob: 0.0000
+Token: ' make' (ID: 1281), Prob: 0.0000
+Token: ' find' (ID: 1477), Prob: 0.0000
+Token: ' consider' (ID: 2908), Prob: 0.0000
+Token: ' complete' (ID: 4583), Prob: 0.0000
+Token: ' choose' (ID: 5157), Prob: 0.0000
+Token: ' included' (ID: 5230), Prob: 0.0000
+Token: ' define' (ID: 6979), Prob: 0.0000
+Token: ' always' (ID: 2677), Prob: 0.0000
+Token: ' become' (ID: 3635), Prob: 0.0000
+Token: ' stay' (ID: 4717), Prob: 0.0000
+Token: ' align' (ID: 5285), Prob: 0.0000
+
+== Ranked Concepts (Clusters) ==
+Rank 1 | Centroid: ' include' | Score: 0.7930
+  Tokens: [' include', ' incorporate', ' includes', ' exclude', ' Include', 'include', ' incl', ' encompass', ' included']
+Rank 2 | Centroid: ' set' | Score: 0.0309
+  Tokens: [' set', ' open', ' complete']
+Rank 3 | Centroid: ' contain' | Score: 0.0031
+  Tokens: [' involve', ' contain', ' consist']
+Rank 4 | Centroid: ' initially' | Score: 0.0010
+  Tokens: [' also', ' immediately', ' either', ' another', ' initially', ' always']
+Rank 5 | Centroid: ' indicate' | Score: 0.0006
+  Tokens: [' describe', ' introduce', ' establish', ' depict', ' conclude', ' indicate', ' specify', ' define']
+Rank 6 | Centroid: ' take' | Score: 0.0004
+  Tokens: [' take', ' use', ' look']
+Rank 7 | Centroid: ' showcase' | Score: 0.0003
+  Tokens: [' show', ' display', ' showcase', ' highlight']
+Rank 8 | Centroid: ' focus' | Score: 0.0002
+  Tokens: [' focus', ' place', ' address', ' center']
+Rank 9 | Centroid: ' feature' | Score: 0.0002
+  Tokens: [' feature', ' account']
+Rank 10 | Centroid: ' start' | Score: 0.0002
+  Tokens: [' begin', ' start', ' end']
+Rank 11 | Centroid: ' provide' | Score: 0.0002
+  Tokens: [' create', ' provide', ' give', ' allow', ' write', ' add', ' bring', ' make', ' find', ' choose']
+Rank 12 | Centroid: ' represent' | Score: 0.0001
+  Tokens: [' represent', ' relate', ' reflect', ' correspond']
+Rank 13 | Centroid: ' occur' | Score: 0.0001
+  Tokens: [' occur', ' appear', ' happen', ' belong']
+Rank 14 | Centroid: ' follow' | Score: 0.0001
+  Tokens: [' follow', ' sit']
+Rank 15 | Centroid: ' become' | Score: 0.0001
+  Tokens: [' come', ' receive', ' become']
+Rank 16 | Centroid: ' align' | Score: 0.0001
+  Tokens: [' match', ' cover', ' intersect', ' connect', ' align']
+Rank 17 | Centroid: ' reference' | Score: 0.0000
+  Tokens: [' refer', ' mention', ' reference']
+Rank 18 | Centroid: ' serve' | Score: 0.0000
+  Tokens: [' meet', ' lead', ' serve']
+Rank 19 | Centroid: ' present' | Score: 0.0000
+  Tokens: [' present']
+Rank 20 | Centroid: ' remain' | Score: 0.0000
+  Tokens: [' continue', ' remain', ' stay']
+Rank 21 | Centroid: ' integrate' | Score: 0.0000
+  Tokens: [' integrate', ' engage']
+Rank 22 | Centroid: ' require' | Score: 0.0000
+  Tokens: [' require', ' consider']
+Rank 23 | Centroid: ' accompany' | Score: 0.0000
+  Tokens: [' accompany']
+Rank 24 | Centroid: ' alternate' | Score: 0.0000
+  Tokens: [' alternate']
+
+**Chosen Concept:** Rank 1

@@ -1,62 +1,138 @@
 --- Step 11 Log ---
 
 == Filtered Candidates ==
-Token: 'ting' (ID: 1280), Prob: 0.9453
-Token: ' parents' (ID: 6562), Prob: 0.0002
-Token: 'ing' (ID: 287), Prob: 0.0001
-Token: 'ters' (ID: 5045), Prob: 0.0001
-Token: ' child' (ID: 1682), Prob: 0.0001
-Token: ' mother' (ID: 6554), Prob: 0.0001
-Token: ' another' (ID: 2441), Prob: 0.0001
-Token: ' time' (ID: 882), Prob: 0.0001
-Token: ' parent' (ID: 2681), Prob: 0.0001
-Token: ' alone' (ID: 7484), Prob: 0.0000
-Token: 'TING' (ID: 25043), Prob: 0.0000
-Token: ' someone' (ID: 4325), Prob: 0.0000
-Token: 'ten' (ID: 1960), Prob: 0.0000
-Token: ' something' (ID: 2494), Prob: 0.0000
-Token: ' parenting' (ID: 47958), Prob: 0.0000
-Token: 'ton' (ID: 777), Prob: 0.0000
-Token: 'tings' (ID: 2065), Prob: 0.0000
-Token: ' two' (ID: 1378), Prob: 0.0000
-Token: ' getting' (ID: 3709), Prob: 0.0000
-Token: ' thinking' (ID: 7274), Prob: 0.0000
-Token: ' choosing' (ID: 18774), Prob: 0.0000
-Token: 'ter' (ID: 465), Prob: 0.0000
-Token: ' family' (ID: 2997), Prob: 0.0000
-Token: ' trying' (ID: 4460), Prob: 0.0000
-Token: ' going' (ID: 2087), Prob: 0.0000
-Token: ' understanding' (ID: 8660), Prob: 0.0000
-Token: ' Child' (ID: 9391), Prob: 0.0000
+Token: ' story' (ID: 3364), Prob: 1.0000
+Token: ' tale' (ID: 23281), Prob: 0.0000
+Token: '-story' (ID: 45099), Prob: 0.0000
+Token: ' narrative' (ID: 19221), Prob: 0.0000
+Token: ' Story' (ID: 15106), Prob: 0.0000
+Token: ' fiction' (ID: 16989), Prob: 0.0000
+Token: 'story' (ID: 26485), Prob: 0.0000
+Token: ' response' (ID: 2033), Prob: 0.0000
+Token: ' fictional' (ID: 43582), Prob: 0.0000
+Token: ' fantasy' (ID: 18378), Prob: 0.0000
+Token: ' storytelling' (ID: 47829), Prob: 0.0000
+Token: ' storyline' (ID: 50628), Prob: 0.0000
+Token: ' history' (ID: 3840), Prob: 0.0000
+Token: ' sci' (ID: 37974), Prob: 0.0000
+Token: ' fairy' (ID: 44486), Prob: 0.0000
+Token: ' horror' (ID: 21452), Prob: 0.0000
+Token: ' prompt' (ID: 9934), Prob: 0.0000
+Token: ' plot' (ID: 7089), Prob: 0.0000
+Token: ' backstory' (ID: 92271), Prob: 0.0000
+Token: ' short' (ID: 2805), Prob: 0.0000
+Token: ' scene' (ID: 6109), Prob: 0.0000
+Token: '_story' (ID: 66342), Prob: 0.0000
+Token: ' stories' (ID: 7343), Prob: 0.0000
+Token: ' summary' (ID: 12126), Prob: 0.0000
+Token: ' adventure' (ID: 17943), Prob: 0.0000
+Token: ' movie' (ID: 5700), Prob: 0.0000
+Token: ' English' (ID: 6364), Prob: 0.0000
+Token: ' piece' (ID: 6573), Prob: 0.0000
+Token: ' mystery' (ID: 22531), Prob: 0.0000
+Token: ' word' (ID: 3409), Prob: 0.0000
+Token: ' text' (ID: 1467), Prob: 0.0000
+Token: '/story' (ID: 78389), Prob: 0.0000
+Token: 'ish' (ID: 812), Prob: 0.0000
+Token: ' historical' (ID: 13656), Prob: 0.0000
+Token: ' drama' (ID: 19584), Prob: 0.0000
+Token: ' novel' (ID: 11514), Prob: 0.0000
+Token: ' paragraph' (ID: 14311), Prob: 0.0000
 Token: ' one' (ID: 825), Prob: 0.0000
-Token: ' children' (ID: 2841), Prob: 0.0000
-Token: ' building' (ID: 4752), Prob: 0.0000
-Token: ' passing' (ID: 12299), Prob: 0.0000
-Token: ' making' (ID: 3259), Prob: 0.0000
-Token: ' changing' (ID: 10018), Prob: 0.0000
+Token: ' love' (ID: 2948), Prob: 0.0000
+Token: ' creative' (ID: 11521), Prob: 0.0000
+Token: ' sentence' (ID: 11652), Prob: 0.0000
+Token: ' Chinese' (ID: 8453), Prob: 0.0000
+Token: ' book' (ID: 2311), Prob: 0.0000
+Token: 'Story' (ID: 17938), Prob: 0.0000
+Token: ' business' (ID: 2562), Prob: 0.0000
+Token: ' version' (ID: 2319), Prob: 0.0000
+Token: ' enough' (ID: 3322), Prob: 0.0000
+Token: ' science' (ID: 8038), Prob: 0.0000
+Token: ' script' (ID: 5316), Prob: 0.0000
+Token: ' inspirational' (ID: 56214), Prob: 0.0000
+Token: ' sad' (ID: 12421), Prob: 0.0000
+Token: ' emotional' (ID: 14269), Prob: 0.0000
+Token: ' action' (ID: 1917), Prob: 0.0000
+Token: ' ending' (ID: 13391), Prob: 0.0000
+Token: ' ret' (ID: 2112), Prob: 0.0000
+Token: ' fic' (ID: 41255), Prob: 0.0000
+Token: ' descriptive' (ID: 52844), Prob: 0.0000
+Token: ' character' (ID: 3668), Prob: 0.0000
+Token: ' Russian' (ID: 8522), Prob: 0.0000
+Token: ' bedtime' (ID: 88507), Prob: 0.0000
+Token: ' job' (ID: 2618), Prob: 0.0000
+Token: ' lesson' (ID: 17755), Prob: 0.0000
+Token: ' literary' (ID: 31365), Prob: 0.0000
+Token: ' Japanese' (ID: 10769), Prob: 0.0000
+Token: ' instruction' (ID: 7600), Prob: 0.0000
+Token: ' psychological' (ID: 23187), Prob: 0.0000
+Token: ' magical' (ID: 23702), Prob: 0.0000
+Token: ' scenario' (ID: 15048), Prob: 0.0000
+Token: ' time' (ID: 882), Prob: 0.0000
+Token: ' romantic' (ID: 23467), Prob: 0.0000
+Token: ' life' (ID: 2272), Prob: 0.0000
+Token: ' educational' (ID: 16229), Prob: 0.0000
+Token: ' poem' (ID: 32794), Prob: 0.0000
+Token: ' modern' (ID: 6481), Prob: 0.0000
+Token: ' bio' (ID: 16905), Prob: 0.0000
+Token: ' middle' (ID: 6149), Prob: 0.0000
+Token: ' Vietnamese' (ID: 48477), Prob: 0.0000
+Token: '-st' (ID: 5477), Prob: 0.0000
+Token: ' biography' (ID: 47245), Prob: 0.0000
+Token: ' store' (ID: 3553), Prob: 0.0000
+Token: ' moral' (ID: 15659), Prob: 0.0000
+Token: ' comedy' (ID: 22358), Prob: 0.0000
+Token: ' continuation' (ID: 41171), Prob: 0.0000
+Token: ' new' (ID: 501), Prob: 0.0000
+Token: ' tell' (ID: 3291), Prob: 0.0000
+Token: ' girl' (ID: 3743), Prob: 0.0000
+Token: ' answer' (ID: 4226), Prob: 0.0000
+Token: ' personal' (ID: 4345), Prob: 0.0000
+Token: ' imaginative' (ID: 76261), Prob: 0.0000
 
 == Ranked Concepts (Clusters) ==
-Rank 1 | Centroid: 'TING' | Score: 0.9453
-  Tokens: ['ting', 'TING', 'tings']
-Rank 2 | Centroid: ' parents' | Score: 0.0003
-  Tokens: [' parents', ' mother', ' parent', ' parenting', ' family']
-Rank 3 | Centroid: ' getting' | Score: 0.0002
-  Tokens: [' getting', ' choosing', ' trying', ' going', ' passing', ' making', ' changing']
-Rank 4 | Centroid: ' someone' | Score: 0.0001
-  Tokens: [' another', ' someone', ' something']
-Rank 5 | Centroid: 'ing' | Score: 0.0001
-  Tokens: ['ing']
-Rank 6 | Centroid: ' child' | Score: 0.0001
-  Tokens: [' child', ' Child', ' children']
-Rank 7 | Centroid: ' two' | Score: 0.0001
-  Tokens: [' time', ' two', ' one']
-Rank 8 | Centroid: 'ters' | Score: 0.0001
-  Tokens: ['ters', 'ter']
-Rank 9 | Centroid: ' thinking' | Score: 0.0001
-  Tokens: [' thinking', ' understanding', ' building']
-Rank 10 | Centroid: 'ten' | Score: 0.0001
-  Tokens: ['ten', 'ton']
-Rank 11 | Centroid: ' alone' | Score: 0.0000
-  Tokens: [' alone']
+Rank 1 | Centroid: ' story' | Score: 1.0000
+  Tokens: [' story', ' tale', '-story', ' narrative', ' Story', 'story', ' storytelling', ' storyline', '_story', ' stories', '/story', 'Story', ' tell']
+Rank 2 | Centroid: ' fantasy' | Score: 0.0000
+  Tokens: [' fiction', ' fictional', ' fantasy', ' fairy', ' horror', ' adventure', ' mystery', ' drama', ' fic', ' comedy']
+Rank 3 | Centroid: ' historical' | Score: 0.0000
+  Tokens: [' history', ' backstory', ' historical', ' biography']
+Rank 4 | Centroid: ' response' | Score: 0.0000
+  Tokens: [' response', ' continuation', ' answer']
+Rank 5 | Centroid: ' sci' | Score: 0.0000
+  Tokens: [' sci', ' science']
+Rank 6 | Centroid: ' sentence' | Score: 0.0000
+  Tokens: [' word', ' text', ' paragraph', ' sentence']
+Rank 7 | Centroid: ' version' | Score: 0.0000
+  Tokens: [' summary', ' piece', ' version']
+Rank 8 | Centroid: ' modern' | Score: 0.0000
+  Tokens: [' short', ' one', ' ret', ' modern', ' middle', ' new']
+Rank 9 | Centroid: ' imaginative' | Score: 0.0000
+  Tokens: [' creative', ' inspirational', ' emotional', ' descriptive', ' literary', ' psychological', ' magical', ' romantic', ' educational', ' moral', ' imaginative']
+Rank 10 | Centroid: ' instruction' | Score: 0.0000
+  Tokens: [' prompt', ' lesson', ' instruction']
+Rank 11 | Centroid: ' scene' | Score: 0.0000
+  Tokens: [' scene', ' script', ' character', ' scenario']
+Rank 12 | Centroid: ' plot' | Score: 0.0000
+  Tokens: [' plot', ' novel']
+Rank 13 | Centroid: ' Chinese' | Score: 0.0000
+  Tokens: [' English', ' Chinese', ' Russian', ' Japanese', ' Vietnamese']
+Rank 14 | Centroid: ' movie' | Score: 0.0000
+  Tokens: [' movie', ' book', ' poem']
+Rank 15 | Centroid: ' girl' | Score: 0.0000
+  Tokens: ['ish', ' enough', ' ending', ' girl']
+Rank 16 | Centroid: ' business' | Score: 0.0000
+  Tokens: [' business', ' job', ' time', ' life', ' bio']
+Rank 17 | Centroid: ' love' | Score: 0.0000
+  Tokens: [' love', ' sad']
+Rank 18 | Centroid: ' action' | Score: 0.0000
+  Tokens: [' action']
+Rank 19 | Centroid: ' bedtime' | Score: 0.0000
+  Tokens: [' bedtime']
+Rank 20 | Centroid: '-st' | Score: 0.0000
+  Tokens: ['-st', ' store']
+Rank 21 | Centroid: ' personal' | Score: 0.0000
+  Tokens: [' personal']
 
 **Chosen Concept:** Rank 1

@@ -1,88 +1,90 @@
 --- Step 23 Log ---
 
 == Filtered Candidates ==
-Token: ' old' (ID: 2310), Prob: 0.9922
-Token: ' older' (ID: 9014), Prob: 0.0028
-Token: ' young' (ID: 3908), Prob: 0.0008
-Token: ' long' (ID: 1293), Prob: 0.0002
-Token: ' elderly' (ID: 28820), Prob: 0.0001
-Token: ' fast' (ID: 4937), Prob: 0.0000
-Token: '(old' (ID: 21972), Prob: 0.0000
-Token: 'old' (ID: 813), Prob: 0.0000
-Token: ' away' (ID: 3123), Prob: 0.0000
-Token: ' well' (ID: 1632), Prob: 0.0000
-Token: ' ancient' (ID: 13833), Prob: 0.0000
-Token: ' oldest' (ID: 23513), Prob: 0.0000
-Token: ' strong' (ID: 3746), Prob: 0.0000
-Token: ' alone' (ID: 7484), Prob: 0.0000
-Token: ' new' (ID: 501), Prob: 0.0000
-Token: ' large' (ID: 3460), Prob: 0.0000
-Token: ' rich' (ID: 9080), Prob: 0.0000
-Token: ' aging' (ID: 28984), Prob: 0.0000
-Token: '	old' (ID: 61828), Prob: 0.0000
-Token: '-old' (ID: 6284), Prob: 0.0000
-Token: ' tall' (ID: 16217), Prob: 0.0000
-Token: ' close' (ID: 3265), Prob: 0.0000
-Token: ' cold' (ID: 9255), Prob: 0.0000
-Token: ' younger' (ID: 14650), Prob: 0.0000
-Token: ' without' (ID: 2041), Prob: 0.0000
-Token: ' slow' (ID: 6301), Prob: 0.0000
-Token: ' Old' (ID: 10621), Prob: 0.0000
-Token: ' like' (ID: 1075), Prob: 0.0000
-Token: ' small' (ID: 2613), Prob: 0.0000
-Token: ' healthy' (ID: 9314), Prob: 0.0000
-Token: ' tired' (ID: 19227), Prob: 0.0000
-Token: ' full' (ID: 2480), Prob: 0.0000
-Token: ' along' (ID: 3156), Prob: 0.0000
-Token: ' OLD' (ID: 64891), Prob: 0.0000
-Token: ' ever' (ID: 3512), Prob: 0.0000
-Token: ' wide' (ID: 6884), Prob: 0.0000
-Token: ' child' (ID: 1682), Prob: 0.0000
-Token: ' apart' (ID: 10747), Prob: 0.0000
-Token: ' together' (ID: 3786), Prob: 0.0000
-Token: ' high' (ID: 1550), Prob: 0.0000
+Token: ' carefully' (ID: 15516), Prob: 0.0021
+Token: ' correctly' (ID: 12440), Prob: 0.0000
+Token: ' sentences' (ID: 22870), Prob: 0.0000
+Token: ' properly' (ID: 10277), Prob: 0.0000
+Token: ' provided' (ID: 3897), Prob: 0.0000
+Token: ' quickly' (ID: 6157), Prob: 0.0000
+Token: ' closely' (ID: 15148), Prob: 0.0000
+Token: ' accurately' (ID: 29257), Prob: 0.0000
+Token: ' fragments' (ID: 34503), Prob: 0.0000
+Token: ' thoroughly' (ID: 26364), Prob: 0.0000
+Token: ' first' (ID: 1156), Prob: 0.0000
+Token: ' pieces' (ID: 9666), Prob: 0.0000
+Token: ' points' (ID: 3501), Prob: 0.0000
+Token: ' twice' (ID: 10917), Prob: 0.0000
+Token: ' sentence' (ID: 11652), Prob: 0.0000
+Token: ' line' (ID: 1555), Prob: 0.0000
+Token: ' message' (ID: 1943), Prob: 0.0000
 Token: ' care' (ID: 2453), Prob: 0.0000
-Token: ' late' (ID: 3309), Prob: 0.0000
-Token: ' aged' (ID: 19749), Prob: 0.0000
-Token: '.old' (ID: 46061), Prob: 0.0000
-Token: ' big' (ID: 2409), Prob: 0.0000
-Token: ' empty' (ID: 4287), Prob: 0.0000
-Token: ' safe' (ID: 6092), Prob: 0.0000
-Token: ' one' (ID: 825), Prob: 0.0000
-Token: ' beyond' (ID: 7797), Prob: 0.0000
-Token: ' forever' (ID: 15683), Prob: 0.0000
-Token: ' poor' (ID: 7852), Prob: 0.0000
+Token: ' lines' (ID: 5128), Prob: 0.0000
+Token: ' mentally' (ID: 33225), Prob: 0.0000
+Token: ' well' (ID: 1632), Prob: 0.0000
+Token: ' smoothly' (ID: 38411), Prob: 0.0000
+Token: ' aloud' (ID: 70411), Prob: 0.0000
+Token: ' meaning' (ID: 7290), Prob: 0.0000
+Token: ' clearly' (ID: 9355), Prob: 0.0000
+Token: ' structure' (ID: 5944), Prob: 0.0000
+Token: ' piece' (ID: 6573), Prob: 0.0000
+Token: ' excerpts' (ID: 83390), Prob: 0.0000
+Token: ' parts' (ID: 5479), Prob: 0.0000
+Token: ' emotionally' (ID: 37583), Prob: 0.0000
+Token: ' slowly' (ID: 13970), Prob: 0.0000
+Token: ' segments' (ID: 20632), Prob: 0.0000
+Token: ' together' (ID: 3786), Prob: 0.0000
+Token: ' quotes' (ID: 17194), Prob: 0.0000
+Token: ' snippets' (ID: 68642), Prob: 0.0000
+Token: ' note' (ID: 5185), Prob: 0.0000
+Token: ' extract' (ID: 8649), Prob: 0.0000
+Token: ' flow' (ID: 6396), Prob: 0.0000
+Token: ' sentiment' (ID: 25975), Prob: 0.0000
+Token: ' input' (ID: 1946), Prob: 0.0000
+Token: ' snippet' (ID: 43065), Prob: 0.0000
+Token: ' back' (ID: 1182), Prob: 0.0000
+Token: ' elements' (ID: 5424), Prob: 0.0000
+Token: ' deeply' (ID: 17247), Prob: 0.0000
+Token: ' part' (ID: 949), Prob: 0.0000
+Token: ' sent' (ID: 3208), Prob: 0.0000
+Token: ' messages' (ID: 6605), Prob: 0.0000
+Token: ' phrases' (ID: 31747), Prob: 0.0000
+Token: ' clues' (ID: 42675), Prob: 0.0000
+Token: ' notes' (ID: 8388), Prob: 0.0000
+Token: ' gently' (ID: 29273), Prob: 0.0000
 
 == Ranked Concepts (Clusters) ==
-Rank 1 | Centroid: ' old' | Score: 0.9922
-  Tokens: [' old', '(old', 'old', '\told', '-old', ' Old', ' OLD', '.old']
-Rank 2 | Centroid: ' older' | Score: 0.0029
-  Tokens: [' older', ' elderly', ' ancient', ' oldest', ' aging', ' aged']
-Rank 3 | Centroid: ' young' | Score: 0.0008
-  Tokens: [' young', ' younger', ' child']
-Rank 4 | Centroid: ' long' | Score: 0.0002
-  Tokens: [' long']
-Rank 5 | Centroid: ' poor' | Score: 0.0001
-  Tokens: [' well', ' strong', ' rich', ' high', ' poor']
-Rank 6 | Centroid: ' slow' | Score: 0.0001
-  Tokens: [' fast', ' cold', ' slow']
-Rank 7 | Centroid: ' large' | Score: 0.0000
-  Tokens: [' large', ' tall', ' small', ' wide', ' big']
-Rank 8 | Centroid: ' together' | Score: 0.0000
-  Tokens: [' alone', ' along', ' together']
-Rank 9 | Centroid: ' apart' | Score: 0.0000
-  Tokens: [' away', ' apart', ' beyond']
-Rank 10 | Centroid: ' new' | Score: 0.0000
-  Tokens: [' new', ' full', ' one']
-Rank 11 | Centroid: ' without' | Score: 0.0000
-  Tokens: [' without', ' like']
-Rank 12 | Centroid: ' safe' | Score: 0.0000
-  Tokens: [' healthy', ' care', ' safe']
-Rank 13 | Centroid: ' close' | Score: 0.0000
-  Tokens: [' close', ' late']
-Rank 14 | Centroid: ' tired' | Score: 0.0000
-  Tokens: [' tired', ' empty']
-Rank 15 | Centroid: ' ever' | Score: 0.0000
-  Tokens: [' ever', ' forever']
+Rank 1 | Centroid: ' properly' | Score: 0.0022
+  Tokens: [' carefully', ' correctly', ' properly', ' accurately', ' thoroughly', ' well', ' clearly']
+Rank 2 | Centroid: ' sentences' | Score: 0.0001
+  Tokens: [' sentences', ' sentence', ' sentiment', ' sent', ' phrases']
+Rank 3 | Centroid: ' slowly' | Score: 0.0000
+  Tokens: [' quickly', ' closely', ' smoothly', ' slowly', ' deeply', ' gently']
+Rank 4 | Centroid: ' input' | Score: 0.0000
+  Tokens: [' provided', ' first', ' structure', ' flow', ' input', ' back']
+Rank 5 | Centroid: ' snippets' | Score: 0.0000
+  Tokens: [' fragments', ' excerpts', ' segments', ' snippets', ' extract', ' snippet']
+Rank 6 | Centroid: ' twice' | Score: 0.0000
+  Tokens: [' twice', ' aloud', ' together']
+Rank 7 | Centroid: ' line' | Score: 0.0000
+  Tokens: [' line', ' lines']
+Rank 8 | Centroid: ' pieces' | Score: 0.0000
+  Tokens: [' pieces', ' piece']
+Rank 9 | Centroid: ' points' | Score: 0.0000
+  Tokens: [' points', ' elements']
+Rank 10 | Centroid: ' mentally' | Score: 0.0000
+  Tokens: [' mentally', ' emotionally']
+Rank 11 | Centroid: ' message' | Score: 0.0000
+  Tokens: [' message', ' messages']
+Rank 12 | Centroid: ' care' | Score: 0.0000
+  Tokens: [' care']
+Rank 13 | Centroid: ' parts' | Score: 0.0000
+  Tokens: [' parts', ' part']
+Rank 14 | Centroid: ' meaning' | Score: 0.0000
+  Tokens: [' meaning']
+Rank 15 | Centroid: ' quotes' | Score: 0.0000
+  Tokens: [' quotes', ' clues']
+Rank 16 | Centroid: ' note' | Score: 0.0000
+  Tokens: [' note', ' notes']
 
 **Chosen Concept:** Rank 1

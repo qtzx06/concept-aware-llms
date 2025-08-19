@@ -1,105 +1,114 @@
 --- Step 49 Log ---
 
 == Filtered Candidates ==
-Token: ' grow' (ID: 3063), Prob: 0.9922
-Token: ' grown' (ID: 14700), Prob: 0.0006
-Token: ' growing' (ID: 7826), Prob: 0.0004
-Token: ' old' (ID: 2310), Prob: 0.0004
-Token: ' grows' (ID: 27715), Prob: 0.0004
-Token: ' growth' (ID: 6513), Prob: 0.0003
-Token: ' stay' (ID: 4717), Prob: 0.0002
-Token: ' get' (ID: 633), Prob: 0.0002
-Token: ' age' (ID: 4231), Prob: 0.0001
-Token: ' young' (ID: 3908), Prob: 0.0001
-Token: ' become' (ID: 3635), Prob: 0.0001
-Token: ' grew' (ID: 13938), Prob: 0.0001
-Token: ' rise' (ID: 10000), Prob: 0.0001
-Token: ' keep' (ID: 2506), Prob: 0.0000
-Token: ' eat' (ID: 8180), Prob: 0.0000
-Token: ' raise' (ID: 4828), Prob: 0.0000
-Token: ' take' (ID: 1896), Prob: 0.0000
-Token: ' leave' (ID: 5274), Prob: 0.0000
-Token: ' sleep' (ID: 6084), Prob: 0.0000
-Token: ' live' (ID: 3887), Prob: 0.0000
-Token: ' continue' (ID: 3060), Prob: 0.0000
-Token: ' start' (ID: 1191), Prob: 0.0000
-Token: ' make' (ID: 1281), Prob: 0.0000
-Token: ' read' (ID: 1349), Prob: 0.0000
-Token: ' older' (ID: 9014), Prob: 0.0000
-Token: ' mature' (ID: 14851), Prob: 0.0000
-Token: ' spend' (ID: 8329), Prob: 0.0000
-Token: ' care' (ID: 2453), Prob: 0.0000
-Token: ' use' (ID: 990), Prob: 0.0000
-Token: ' long' (ID: 1293), Prob: 0.0000
-Token: ' years' (ID: 1635), Prob: 0.0000
-Token: ' choose' (ID: 5157), Prob: 0.0000
-Token: ' cross' (ID: 5312), Prob: 0.0000
-Token: ' close' (ID: 3265), Prob: 0.0000
-Token: ' learn' (ID: 3960), Prob: 0.0000
-Token: ' reach' (ID: 5545), Prob: 0.0000
-Token: ' forever' (ID: 15683), Prob: 0.0000
-Token: ' Grow' (ID: 46560), Prob: 0.0000
-Token: ' come' (ID: 2525), Prob: 0.0000
-Token: ' move' (ID: 3271), Prob: 0.0000
-Token: 'grow' (ID: 66218), Prob: 0.0000
-Token: ' open' (ID: 1787), Prob: 0.0000
-Token: ' catch' (ID: 2287), Prob: 0.0000
-Token: ' ask' (ID: 2548), Prob: 0.0000
-Token: ' youth' (ID: 12537), Prob: 0.0000
-Token: ' engage' (ID: 16579), Prob: 0.0000
-Token: ' aged' (ID: 19749), Prob: 0.0000
-Token: ' across' (ID: 3941), Prob: 0.0000
-Token: ' walk' (ID: 4227), Prob: 0.0000
-Token: ' forget' (ID: 10667), Prob: 0.0000
-Token: ' younger' (ID: 14650), Prob: 0.0000
-Token: ' develop' (ID: 2225), Prob: 0.0000
-Token: ' cry' (ID: 15729), Prob: 0.0000
-Token: ' feel' (ID: 2666), Prob: 0.0000
-Token: ' gather' (ID: 9567), Prob: 0.0000
-Token: ' graduate' (ID: 19023), Prob: 0.0000
-Token: ' look' (ID: 1401), Prob: 0.0000
-Token: ' give' (ID: 2968), Prob: 0.0000
+Token: ' around' (ID: 2163), Prob: 0.6016
+Token: ' based' (ID: 3118), Prob: 0.0075
+Token: ' using' (ID: 1667), Prob: 0.0001
+Token: ' incorporating' (ID: 51813), Prob: 0.0001
+Token: ' centered' (ID: 30188), Prob: 0.0001
+Token: ' within' (ID: 2878), Prob: 0.0000
+Token: ' plot' (ID: 7089), Prob: 0.0000
+Token: ' arc' (ID: 15580), Prob: 0.0000
+Token: ' connecting' (ID: 20913), Prob: 0.0000
+Token: ' accordingly' (ID: 27079), Prob: 0.0000
+Token: ' structure' (ID: 5944), Prob: 0.0000
+Token: ' integrating' (ID: 53852), Prob: 0.0000
+Token: ' context' (ID: 2266), Prob: 0.0000
+Token: ' line' (ID: 1555), Prob: 0.0000
+Token: ' naturally' (ID: 17712), Prob: 0.0000
+Token: ' frame' (ID: 4034), Prob: 0.0000
+Token: ' seamlessly' (ID: 60340), Prob: 0.0000
+Token: ' chain' (ID: 8781), Prob: 0.0000
+Token: ' flow' (ID: 6396), Prob: 0.0000
+Token: ' connected' (ID: 8433), Prob: 0.0000
+Token: ' logically' (ID: 73045), Prob: 0.0000
+Token: ' scenario' (ID: 15048), Prob: 0.0000
+Token: ' element' (ID: 2392), Prob: 0.0000
+Token: ' following' (ID: 2701), Prob: 0.0000
+Token: ' scene' (ID: 6109), Prob: 0.0000
+Token: ' set' (ID: 738), Prob: 0.0000
+Token: ' world' (ID: 1879), Prob: 0.0000
+Token: ' without' (ID: 2041), Prob: 0.0000
+Token: ' step' (ID: 3019), Prob: 0.0000
+Token: ' involving' (ID: 15860), Prob: 0.0000
+Token: ' somehow' (ID: 16925), Prob: 0.0000
+Token: ' link' (ID: 2656), Prob: 0.0000
+Token: ' linking' (ID: 30699), Prob: 0.0000
+Token: ' response' (ID: 2033), Prob: 0.0000
+Token: ' connection' (ID: 3633), Prob: 0.0000
+Token: ' center' (ID: 4126), Prob: 0.0000
+Token: ' framework' (ID: 12626), Prob: 0.0000
+Token: ' inspired' (ID: 14606), Prob: 0.0000
+Token: ' consistent' (ID: 12966), Prob: 0.0000
+Token: ' smoothly' (ID: 38411), Prob: 0.0000
+Token: ' related' (ID: 5435), Prob: 0.0000
+Token: ' surrounding' (ID: 14590), Prob: 0.0000
+Token: ' thread' (ID: 4516), Prob: 0.0000
+Token: ' autour' (ID: 88953), Prob: 0.0000
+Token: ' fit' (ID: 4946), Prob: 0.0000
+Token: ' wrapping' (ID: 41195), Prob: 0.0000
+Token: ' along' (ID: 3156), Prob: 0.0000
+Token: ' idea' (ID: 4522), Prob: 0.0000
+Token: ' elements' (ID: 5424), Prob: 0.0000
+Token: ' script' (ID: 5316), Prob: 0.0000
+Token: ' dynamically' (ID: 42011), Prob: 0.0000
+Token: ' snippet' (ID: 43065), Prob: 0.0000
+Token: ' path' (ID: 1815), Prob: 0.0000
+Token: ' together' (ID: 3786), Prob: 0.0000
+Token: ' starting' (ID: 5916), Prob: 0.0000
+Token: ' piece' (ID: 6573), Prob: 0.0000
+Token: ' engaging' (ID: 22570), Prob: 0.0000
+Token: ' connect' (ID: 4564), Prob: 0.0000
+Token: ' encaps' (ID: 42569), Prob: 0.0000
+Token: ' setup' (ID: 6505), Prob: 0.0000
+Token: ' similar' (ID: 4428), Prob: 0.0000
+Token: ' wrap' (ID: 15061), Prob: 0.0000
+Token: ' subtly' (ID: 86317), Prob: 0.0000
+Token: ' integration' (ID: 17590), Prob: 0.0000
+Token: ' blending' (ID: 55841), Prob: 0.0000
+Token: ' story' (ID: 3364), Prob: 0.0000
+Token: '-around' (ID: 45616), Prob: 0.0000
+Token: ' sequence' (ID: 8500), Prob: 0.0000
+Token: ' filled' (ID: 10199), Prob: 0.0000
+Token: ' narrative' (ID: 19221), Prob: 0.0000
+Token: ' combining' (ID: 34171), Prob: 0.0000
 
 == Ranked Concepts (Clusters) ==
-Rank 1 | Centroid: ' grow' | Score: 0.9922
-  Tokens: [' grow', ' grown', ' growing', ' grows', ' growth', ' grew', ' Grow', 'grow']
-Rank 2 | Centroid: ' younger' | Score: 0.0006
-  Tokens: [' old', ' age', ' young', ' older', ' youth', ' aged', ' younger']
-Rank 3 | Centroid: ' keep' | Score: 0.0003
-  Tokens: [' stay', ' keep', ' leave', ' continue', ' feel']
-Rank 4 | Centroid: ' give' | Score: 0.0003
-  Tokens: [' get', ' take', ' make', ' choose', ' ask', ' give']
-Rank 5 | Centroid: ' become' | Score: 0.0001
-  Tokens: [' become', ' come']
-Rank 6 | Centroid: ' eat' | Score: 0.0001
-  Tokens: [' eat', ' read', ' spend', ' forget']
-Rank 7 | Centroid: ' rise' | Score: 0.0001
-  Tokens: [' rise', ' raise']
-Rank 8 | Centroid: ' walk' | Score: 0.0001
-  Tokens: [' live', ' move', ' walk']
-Rank 9 | Centroid: ' develop' | Score: 0.0001
-  Tokens: [' learn', ' engage', ' develop', ' gather']
-Rank 10 | Centroid: ' sleep' | Score: 0.0000
-  Tokens: [' sleep', ' cry']
-Rank 11 | Centroid: ' care' | Score: 0.0000
-  Tokens: [' care', ' use']
-Rank 12 | Centroid: ' long' | Score: 0.0000
-  Tokens: [' long', ' forever']
-Rank 13 | Centroid: ' start' | Score: 0.0000
-  Tokens: [' start', ' look']
-Rank 14 | Centroid: ' close' | Score: 0.0000
-  Tokens: [' close', ' open']
-Rank 15 | Centroid: ' cross' | Score: 0.0000
-  Tokens: [' cross', ' across']
-Rank 16 | Centroid: ' mature' | Score: 0.0000
-  Tokens: [' mature']
-Rank 17 | Centroid: ' years' | Score: 0.0000
-  Tokens: [' years']
-Rank 18 | Centroid: ' reach' | Score: 0.0000
-  Tokens: [' reach']
-Rank 19 | Centroid: ' catch' | Score: 0.0000
-  Tokens: [' catch']
-Rank 20 | Centroid: ' graduate' | Score: 0.0000
-  Tokens: [' graduate']
+Rank 1 | Centroid: ' around' | Score: 0.6016
+  Tokens: [' around', ' surrounding', ' autour', '-around']
+Rank 2 | Centroid: ' based' | Score: 0.0076
+  Tokens: [' based', ' using', ' following', ' inspired', ' consistent', ' related', ' starting', ' similar', ' filled']
+Rank 3 | Centroid: ' integrating' | Score: 0.0001
+  Tokens: [' incorporating', ' integrating', ' integration', ' blending', ' combining']
+Rank 4 | Centroid: ' seamlessly' | Score: 0.0001
+  Tokens: [' accordingly', ' naturally', ' seamlessly', ' logically', ' somehow', ' smoothly', ' dynamically', ' subtly']
+Rank 5 | Centroid: ' thread' | Score: 0.0001
+  Tokens: [' arc', ' line', ' flow', ' step', ' response', ' thread', ' path', ' piece']
+Rank 6 | Centroid: ' centered' | Score: 0.0001
+  Tokens: [' centered', ' center']
+Rank 7 | Centroid: ' along' | Score: 0.0001
+  Tokens: [' within', ' without', ' along', ' together']
+Rank 8 | Centroid: ' connecting' | Score: 0.0001
+  Tokens: [' connecting', ' connected', ' link', ' linking', ' connection', ' connect']
+Rank 9 | Centroid: ' scenario' | Score: 0.0000
+  Tokens: [' context', ' scenario', ' scene', ' world']
+Rank 10 | Centroid: ' framework' | Score: 0.0000
+  Tokens: [' structure', ' frame', ' framework', ' sequence']
+Rank 11 | Centroid: ' narrative' | Score: 0.0000
+  Tokens: [' plot', ' script', ' story', ' narrative']
+Rank 12 | Centroid: ' chain' | Score: 0.0000
+  Tokens: [' chain']
+Rank 13 | Centroid: ' element' | Score: 0.0000
+  Tokens: [' element', ' elements']
+Rank 14 | Centroid: ' set' | Score: 0.0000
+  Tokens: [' set', ' fit']
+Rank 15 | Centroid: ' involving' | Score: 0.0000
+  Tokens: [' involving', ' engaging']
+Rank 16 | Centroid: ' wrapping' | Score: 0.0000
+  Tokens: [' wrapping', ' encaps', ' wrap']
+Rank 17 | Centroid: ' idea' | Score: 0.0000
+  Tokens: [' idea', ' snippet']
+Rank 18 | Centroid: ' setup' | Score: 0.0000
+  Tokens: [' setup']
 
 **Chosen Concept:** Rank 1

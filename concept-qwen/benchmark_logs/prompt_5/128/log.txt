@@ -1,142 +1,148 @@
 --- Step 128 Log ---
 
 == Filtered Candidates ==
-Token: ' statement' (ID: 5114), Prob: 1.0000
-Token: ' sentence' (ID: 11652), Prob: 0.0000
-Token: ' answer' (ID: 4226), Prob: 0.0000
-Token: ' statements' (ID: 12239), Prob: 0.0000
-Token: ' Statement' (ID: 21756), Prob: 0.0000
-Token: ' story' (ID: 3364), Prob: 0.0000
-Token: ' final' (ID: 1590), Prob: 0.0000
-Token: 'statement' (ID: 24184), Prob: 0.0000
-Token: ' stated' (ID: 10982), Prob: 0.0000
-Token: ' general' (ID: 4586), Prob: 0.0000
-Token: ' situation' (ID: 6534), Prob: 0.0000
-Token: ' conclusion' (ID: 16688), Prob: 0.0000
-Token: ' paragraph' (ID: 14311), Prob: 0.0000
-Token: ' question' (ID: 3405), Prob: 0.0000
-Token: ' subject' (ID: 3832), Prob: 0.0000
-Token: ' original' (ID: 4024), Prob: 0.0000
-Token: ' following' (ID: 2701), Prob: 0.0000
-Token: ' student' (ID: 5458), Prob: 0.0000
-Token: ' phrase' (ID: 17133), Prob: 0.0000
-Token: ' choice' (ID: 5754), Prob: 0.0000
-Token: ' text' (ID: 1467), Prob: 0.0000
-Token: ' response' (ID: 2033), Prob: 0.0000
-Token: ' given' (ID: 2661), Prob: 0.0000
-Token: ' table' (ID: 1965), Prob: 0.0000
-Token: ' description' (ID: 4008), Prob: 0.0000
-Token: ' information' (ID: 1995), Prob: 0.0000
-Token: ' correct' (ID: 4396), Prob: 0.0000
-Token: ' meaning' (ID: 7290), Prob: 0.0000
-Token: ' summary' (ID: 12126), Prob: 0.0000
-Token: ' claim' (ID: 3717), Prob: 0.0000
-Token: ' stat' (ID: 2793), Prob: 0.0000
-Token: ' truth' (ID: 8046), Prob: 0.0000
-Token: ' time' (ID: 882), Prob: 0.0000
-Token: ' message' (ID: 1943), Prob: 0.0000
-Token: ' sentiment' (ID: 25975), Prob: 0.0000
-Token: ' number' (ID: 1372), Prob: 0.0000
-Token: '	statement' (ID: 89566), Prob: 0.0000
-Token: ' two' (ID: 1378), Prob: 0.0000
-Token: ' study' (ID: 3920), Prob: 0.0000
-Token: ' moment' (ID: 4445), Prob: 0.0000
-Token: ' solution' (ID: 6291), Prob: 0.0000
-Token: ' suff' (ID: 8489), Prob: 0.0000
-Token: ' assistant' (ID: 17847), Prob: 0.0000
-Token: ' amount' (ID: 3311), Prob: 0.0000
-Token: ' previous' (ID: 3681), Prob: 0.0000
-Token: ' expression' (ID: 7493), Prob: 0.0000
-Token: ' string' (ID: 914), Prob: 0.0000
-Token: ' second' (ID: 2086), Prob: 0.0000
-Token: ' scene' (ID: 6109), Prob: 0.0000
-Token: ' letter' (ID: 6524), Prob: 0.0000
-Token: ' suggestion' (ID: 23776), Prob: 0.0000
-Token: ' wording' (ID: 60227), Prob: 0.0000
-Token: ' argument' (ID: 5693), Prob: 0.0000
-Token: 'Statement' (ID: 8636), Prob: 0.0000
-Token: ' prompt' (ID: 9934), Prob: 0.0000
-Token: ' change' (ID: 2297), Prob: 0.0000
-Token: ' structure' (ID: 5944), Prob: 0.0000
-Token: ' state' (ID: 1584), Prob: 0.0000
-Token: ' motion' (ID: 11379), Prob: 0.0000
-Token: ' assertion' (ID: 27419), Prob: 0.0000
-Token: ' premise' (ID: 40202), Prob: 0.0000
-Token: ' user' (ID: 1196), Prob: 0.0000
-Token: ' initial' (ID: 2856), Prob: 0.0000
-Token: ' standard' (ID: 5297), Prob: 0.0000
-Token: ' theme' (ID: 6912), Prob: 0.0000
-Token: ' one' (ID: 825), Prob: 0.0000
-Token: ' assumption' (ID: 24335), Prob: 0.0000
-Token: ' beginning' (ID: 7167), Prob: 0.0000
-Token: ' topic' (ID: 8544), Prob: 0.0000
-Token: ' reason' (ID: 2874), Prob: 0.0000
-Token: ' problem' (ID: 3491), Prob: 0.0000
-Token: ' comment' (ID: 3980), Prob: 0.0000
-Token: ' entire' (ID: 4453), Prob: 0.0000
-Token: '_statement' (ID: 37404), Prob: 0.0000
-Token: ' stimulus' (ID: 38435), Prob: 0.0000
-Token: ' passage' (ID: 21085), Prob: 0.0000
-Token: ' best' (ID: 1850), Prob: 0.0000
-Token: ' context' (ID: 2266), Prob: 0.0000
-Token: ' rest' (ID: 2732), Prob: 0.0000
-Token: ' photo' (ID: 6548), Prob: 0.0000
-Token: ' tweet' (ID: 11809), Prob: 0.0000
-Token: ' hypothesis' (ID: 30078), Prob: 0.0000
-Token: ' author' (ID: 3150), Prob: 0.0000
+Token: ' actions' (ID: 6168), Prob: 0.1914
+Token: ' action' (ID: 1917), Prob: 0.0796
+Token: ' idea' (ID: 4522), Prob: 0.0703
+Token: ' parents' (ID: 6562), Prob: 0.0703
+Token: ' tower' (ID: 21271), Prob: 0.0483
+Token: ' decision' (ID: 5480), Prob: 0.0427
+Token: ' choice' (ID: 5754), Prob: 0.0427
+Token: ' attempt' (ID: 4774), Prob: 0.0376
+Token: ' creativity' (ID: 27597), Prob: 0.0293
+Token: ' plan' (ID: 3119), Prob: 0.0259
+Token: ' father' (ID: 6981), Prob: 0.0201
+Token: ' toy' (ID: 21357), Prob: 0.0178
+Token: ' act' (ID: 1160), Prob: 0.0157
+Token: ' ideas' (ID: 6708), Prob: 0.0157
+Token: ' invention' (ID: 27130), Prob: 0.0157
+Token: ' build' (ID: 1936), Prob: 0.0139
+Token: ' building' (ID: 4752), Prob: 0.0139
+Token: ' creation' (ID: 9688), Prob: 0.0139
+Token: ' brother' (ID: 10641), Prob: 0.0122
+Token: ' friends' (ID: 4780), Prob: 0.0095
+Token: ' effort' (ID: 5041), Prob: 0.0095
+Token: ' wish' (ID: 6426), Prob: 0.0095
+Token: ' materials' (ID: 7236), Prob: 0.0095
+Token: ' friend' (ID: 4238), Prob: 0.0074
+Token: ' goal' (ID: 5795), Prob: 0.0074
+Token: ' desire' (ID: 12591), Prob: 0.0074
+Token: ' challenge' (ID: 8645), Prob: 0.0065
+Token: ' story' (ID: 3364), Prob: 0.0058
+Token: ' approach' (ID: 5486), Prob: 0.0058
+Token: ' solution' (ID: 6291), Prob: 0.0058
+Token: ' mother' (ID: 6554), Prob: 0.0054
+Token: ' ambition' (ID: 44615), Prob: 0.0054
+Token: ' design' (ID: 2884), Prob: 0.0051
+Token: ' parent' (ID: 2681), Prob: 0.0048
+Token: ' final' (ID: 1590), Prob: 0.0045
+Token: ' family' (ID: 2997), Prob: 0.0042
+Token: ' innovation' (ID: 18770), Prob: 0.0042
+Token: ' project' (ID: 2390), Prob: 0.0040
+Token: ' tree' (ID: 4916), Prob: 0.0040
+Token: ' efforts' (ID: 8869), Prob: 0.0037
+Token: ' request' (ID: 1681), Prob: 0.0027
+Token: ' dream' (ID: 7904), Prob: 0.0027
+Token: ' intention' (ID: 14602), Prob: 0.0027
+Token: ' best' (ID: 1850), Prob: 0.0024
+Token: ' proposal' (ID: 13734), Prob: 0.0023
+Token: ' tools' (ID: 7375), Prob: 0.0021
+Token: ' hands' (ID: 6078), Prob: 0.0020
+Token: ' construction' (ID: 8086), Prob: 0.0019
+Token: ' choices' (ID: 11454), Prob: 0.0019
+Token: ' grandmother' (ID: 38184), Prob: 0.0018
+Token: ' initiative' (ID: 20162), Prob: 0.0017
+Token: ' courage' (ID: 24744), Prob: 0.0017
+Token: ' plans' (ID: 6649), Prob: 0.0016
+Token: ' village' (ID: 14126), Prob: 0.0016
+Token: ' sister' (ID: 12923), Prob: 0.0015
+Token: ' talent' (ID: 10772), Prob: 0.0013
+Token: ' imagination' (ID: 27799), Prob: 0.0013
+Token: ' mistake' (ID: 16523), Prob: 0.0012
+Token: ' method' (ID: 1714), Prob: 0.0011
+Token: ' material' (ID: 3684), Prob: 0.0011
+Token: ' pride' (ID: 21770), Prob: 0.0011
+Token: ' tool' (ID: 5392), Prob: 0.0010
+Token: ' perspective' (ID: 13057), Prob: 0.0010
+Token: ' grandparents' (ID: 55335), Prob: 0.0010
+Token: ' first' (ID: 1156), Prob: 0.0009
+Token: ' siblings' (ID: 36683), Prob: 0.0009
+Token: ' uncle' (ID: 37494), Prob: 0.0009
+Token: ' stone' (ID: 9798), Prob: 0.0008
+Token: ' thoughts' (ID: 11303), Prob: 0.0008
+Token: ' peers' (ID: 25029), Prob: 0.0008
+Token: ' skill' (ID: 9947), Prob: 0.0008
+Token: ' vision' (ID: 11129), Prob: 0.0008
+Token: ' attempts' (ID: 13553), Prob: 0.0008
+Token: ' wooden' (ID: 22360), Prob: 0.0008
+Token: ' creative' (ID: 11521), Prob: 0.0007
+Token: ' wishes' (ID: 24240), Prob: 0.0006
+Token: ' sibling' (ID: 44223), Prob: 0.0006
+Token: ' unique' (ID: 4911), Prob: 0.0006
+Token: ' methods' (ID: 5413), Prob: 0.0006
+Token: ' determination' (ID: 25248), Prob: 0.0006
+Token: ' skills' (ID: 7361), Prob: 0.0005
+Token: ' ability' (ID: 5726), Prob: 0.0005
+Token: ' rebellion' (ID: 52748), Prob: 0.0005
+Token: ' work' (ID: 975), Prob: 0.0005
+Token: ' thought' (ID: 3381), Prob: 0.0005
+Token: ' gift' (ID: 8189), Prob: 0.0005
+Token: ' toys' (ID: 23069), Prob: 0.0005
+Token: ' grandfather' (ID: 37850), Prob: 0.0004
+Token: ' elders' (ID: 60676), Prob: 0.0004
+Token: ' model' (ID: 1614), Prob: 0.0004
+Token: ' wood' (ID: 7579), Prob: 0.0004
+Token: ' strength' (ID: 8170), Prob: 0.0004
+Token: ' suggestion' (ID: 23776), Prob: 0.0004
+Token: ' laughter' (ID: 42114), Prob: 0.0004
+Token: ' view' (ID: 1651), Prob: 0.0004
+Token: ' task' (ID: 3383), Prob: 0.0004
+Token: ' younger' (ID: 14650), Prob: 0.0004
+Token: ' contribution' (ID: 18527), Prob: 0.0004
+Token: ' elder' (ID: 22130), Prob: 0.0004
 
 == Ranked Concepts (Clusters) ==
-Rank 1 | Centroid: ' statement' | Score: 1.0000
-  Tokens: [' statement', ' statements', ' Statement', 'statement', ' stated', '\tstatement', 'Statement', '_statement']
-Rank 2 | Centroid: ' sentence' | Score: 0.0000
-  Tokens: [' sentence', ' paragraph', ' phrase', ' sentiment', ' wording', ' passage']
-Rank 3 | Centroid: ' answer' | Score: 0.0000
-  Tokens: [' answer', ' choice', ' response', ' solution']
-Rank 4 | Centroid: ' initial' | Score: 0.0000
-  Tokens: [' final', ' original', ' following', ' given', ' correct', ' previous', ' initial', ' beginning', ' entire']
-Rank 5 | Centroid: ' photo' | Score: 0.0000
-  Tokens: [' story', ' photo', ' tweet']
-Rank 6 | Centroid: ' assertion' | Score: 0.0000
-  Tokens: [' conclusion', ' claim', ' suggestion', ' argument', ' assertion', ' premise', ' assumption', ' hypothesis']
-Rank 7 | Centroid: ' two' | Score: 0.0000
-  Tokens: [' general', ' two', ' second', ' standard', ' one', ' best']
-Rank 8 | Centroid: ' situation' | Score: 0.0000
-  Tokens: [' situation', ' scene', ' structure', ' context']
-Rank 9 | Centroid: ' topic' | Score: 0.0000
-  Tokens: [' subject', ' theme', ' topic']
-Rank 10 | Centroid: ' question' | Score: 0.0000
-  Tokens: [' question', ' problem']
-Rank 11 | Centroid: ' number' | Score: 0.0000
-  Tokens: [' information', ' time', ' number', ' amount', ' change']
-Rank 12 | Centroid: ' student' | Score: 0.0000
-  Tokens: [' student', ' user']
-Rank 13 | Centroid: ' text' | Score: 0.0000
-  Tokens: [' text', ' string', ' letter']
-Rank 14 | Centroid: ' summary' | Score: 0.0000
-  Tokens: [' summary', ' truth']
-Rank 15 | Centroid: ' description' | Score: 0.0000
-  Tokens: [' description', ' expression']
-Rank 16 | Centroid: ' stat' | Score: 0.0000
-  Tokens: [' stat', ' state']
-Rank 17 | Centroid: ' table' | Score: 0.0000
-  Tokens: [' table']
-Rank 18 | Centroid: ' message' | Score: 0.0000
-  Tokens: [' message', ' comment']
-Rank 19 | Centroid: ' meaning' | Score: 0.0000
-  Tokens: [' meaning']
-Rank 20 | Centroid: ' moment' | Score: 0.0000
-  Tokens: [' moment', ' motion']
-Rank 21 | Centroid: ' assistant' | Score: 0.0000
-  Tokens: [' assistant', ' author']
-Rank 22 | Centroid: ' study' | Score: 0.0000
-  Tokens: [' study']
-Rank 23 | Centroid: ' prompt' | Score: 0.0000
-  Tokens: [' prompt', ' stimulus']
-Rank 24 | Centroid: ' suff' | Score: 0.0000
-  Tokens: [' suff']
-Rank 25 | Centroid: ' reason' | Score: 0.0000
-  Tokens: [' reason']
-Rank 26 | Centroid: ' rest' | Score: 0.0000
-  Tokens: [' rest']
+Rank 1 | Centroid: ' actions' | Score: 0.2891
+  Tokens: [' actions', ' action', ' act', ' hands', ' work']
+Rank 2 | Centroid: ' father' | Score: 0.1089
+  Tokens: [' parents', ' father', ' mother', ' parent', ' family', ' grandmother', ' grandparents', ' grandfather', ' elders', ' elder']
+Rank 3 | Centroid: ' ideas' | Score: 0.0874
+  Tokens: [' idea', ' ideas', ' thoughts', ' thought']
+Rank 4 | Centroid: ' choice' | Score: 0.0874
+  Tokens: [' decision', ' choice', ' choices']
+Rank 5 | Centroid: ' build' | Score: 0.0869
+  Tokens: [' tower', ' build', ' building', ' design', ' tree', ' construction']
+Rank 6 | Centroid: ' attempts' | Score: 0.0515
+  Tokens: [' attempt', ' effort', ' efforts', ' attempts']
+Rank 7 | Centroid: ' creativity' | Score: 0.0391
+  Tokens: [' creativity', ' innovation', ' courage', ' imagination', ' pride', ' creative', ' rebellion', ' laughter']
+Rank 8 | Centroid: ' desire' | Score: 0.0359
+  Tokens: [' wish', ' goal', ' desire', ' ambition', ' request', ' intention', ' wishes']
+Rank 9 | Centroid: ' brother' | Score: 0.0339
+  Tokens: [' brother', ' friends', ' friend', ' sister', ' siblings', ' uncle', ' peers', ' sibling']
+Rank 10 | Centroid: ' wood' | Score: 0.0309
+  Tokens: [' toy', ' materials', ' material', ' stone', ' wooden', ' toys', ' wood']
+Rank 11 | Centroid: ' invention' | Score: 0.0305
+  Tokens: [' invention', ' creation', ' determination', ' contribution']
+Rank 12 | Centroid: ' plan' | Score: 0.0275
+  Tokens: [' plan', ' plans']
+Rank 13 | Centroid: ' perspective' | Score: 0.0173
+  Tokens: [' approach', ' solution', ' project', ' perspective', ' model', ' view']
+Rank 14 | Centroid: ' initiative' | Score: 0.0099
+  Tokens: [' challenge', ' initiative', ' mistake', ' ability']
+Rank 15 | Centroid: ' first' | Score: 0.0084
+  Tokens: [' final', ' best', ' first', ' unique']
+Rank 16 | Centroid: ' story' | Score: 0.0062
+  Tokens: [' story', ' task']
+Rank 17 | Centroid: ' tools' | Score: 0.0048
+  Tokens: [' tools', ' method', ' tool', ' methods']
+Rank 18 | Centroid: ' dream' | Score: 0.0035
+  Tokens: [' dream', ' vision']
+Rank 19 | Centroid: ' skills' | Score: 0.0030
+  Tokens: [' talent', ' skill', ' skills', ' strength']
+Rank 20 | Centroid: ' proposal' | Score: 0.0027
+  Tokens: [' proposal', ' suggestion']
+Rank 21 | Centroid: ' village' | Score: 0.0024
+  Tokens: [' village', ' gift', ' younger']
 
 **Chosen Concept:** Rank 1

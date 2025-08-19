@@ -1,71 +1,89 @@
 --- Step 129 Log ---
 
 == Filtered Candidates ==
-Token: ' prompt' (ID: 9934), Prob: 0.9922
-Token: ' message' (ID: 1943), Prob: 0.0028
-Token: ' Prompt' (ID: 59501), Prob: 0.0003
-Token: ' prompts' (ID: 50932), Prob: 0.0001
-Token: '(prompt' (ID: 72253), Prob: 0.0001
-Token: 'prompt' (ID: 40581), Prob: 0.0001
-Token: ' question' (ID: 3405), Prob: 0.0000
-Token: ' potential' (ID: 4650), Prob: 0.0000
-Token: 'Prompt' (ID: 54615), Prob: 0.0000
-Token: ' prompting' (ID: 49645), Prob: 0.0000
-Token: ' prompted' (ID: 28646), Prob: 0.0000
-Token: '_prompt' (ID: 61421), Prob: 0.0000
-Token: ' motif' (ID: 59512), Prob: 0.0000
-Token: ' promise' (ID: 11222), Prob: 0.0000
-Token: ' prom' (ID: 2706), Prob: 0.0000
-Token: ' hint' (ID: 13012), Prob: 0.0000
-Token: ' within' (ID: 2878), Prob: 0.0000
-Token: ' keyword' (ID: 16174), Prob: 0.0000
-Token: ' theme' (ID: 6912), Prob: 0.0000
-Token: ' topic' (ID: 8544), Prob: 0.0000
-Token: ' promotion' (ID: 20249), Prob: 0.0000
-Token: '.prompt' (ID: 65399), Prob: 0.0000
-Token: ' position' (ID: 2309), Prob: 0.0000
-Token: ' mood' (ID: 19671), Prob: 0.0000
+Token: ' step' (ID: 3019), Prob: 0.0306
+Token: ' accordingly' (ID: 27079), Prob: 0.0001
+Token: ' structure' (ID: 5944), Prob: 0.0001
+Token: ' steps' (ID: 7354), Prob: 0.0000
+Token: ' first' (ID: 1156), Prob: 0.0000
+Token: ' piece' (ID: 6573), Prob: 0.0000
+Token: ' sentence' (ID: 11652), Prob: 0.0000
+Token: ' starting' (ID: 5916), Prob: 0.0000
+Token: ' around' (ID: 2163), Prob: 0.0000
+Token: ' properly' (ID: 10277), Prob: 0.0000
+Token: ' using' (ID: 1667), Prob: 0.0000
+Token: ' draft' (ID: 9960), Prob: 0.0000
+Token: ' next' (ID: 1790), Prob: 0.0000
+Token: ' like' (ID: 1075), Prob: 0.0000
+Token: ' without' (ID: 2041), Prob: 0.0000
+Token: ' based' (ID: 3118), Prob: 0.0000
+Token: ' conc' (ID: 3529), Prob: 0.0000
+Token: ' line' (ID: 1555), Prob: 0.0000
+Token: ' today' (ID: 3351), Prob: 0.0000
+Token: ' story' (ID: 3364), Prob: 0.0000
+Token: ' section' (ID: 3772), Prob: 0.0000
+Token: ' together' (ID: 3786), Prob: 0.0000
+Token: ' start' (ID: 1191), Prob: 0.0000
+Token: ' plan' (ID: 3119), Prob: 0.0000
+Token: ' soon' (ID: 5135), Prob: 0.0000
+Token: ' elements' (ID: 5424), Prob: 0.0000
+Token: ' struct' (ID: 2036), Prob: 0.0000
+Token: ' word' (ID: 3409), Prob: 0.0000
+Token: ' according' (ID: 4092), Prob: 0.0000
+Token: ' inspired' (ID: 14606), Prob: 0.0000
+Token: ' following' (ID: 2701), Prob: 0.0000
+Token: ' finally' (ID: 5499), Prob: 0.0000
+Token: ' smoothly' (ID: 38411), Prob: 0.0000
+Token: ' sample' (ID: 6077), Prob: 0.0000
 Token: ' point' (ID: 1459), Prob: 0.0000
-Token: ' priority' (ID: 10619), Prob: 0.0000
-Token: ' wording' (ID: 60227), Prob: 0.0000
-Token: ' messages' (ID: 6605), Prob: 0.0000
-Token: ' list' (ID: 1140), Prob: 0.0000
-Token: ' title' (ID: 2265), Prob: 0.0000
-Token: ' option' (ID: 2999), Prob: 0.0000
-Token: ' PROM' (ID: 67688), Prob: 0.0000
-Token: ' promote' (ID: 11926), Prob: 0.0000
-Token: ' lesson' (ID: 17755), Prob: 0.0000
+Token: 'entence' (ID: 18380), Prob: 0.0000
+Token: ' paragraph' (ID: 14311), Prob: 0.0000
+Token: ' points' (ID: 3501), Prob: 0.0000
+Token: ' frame' (ID: 4034), Prob: 0.0000
+Token: ' moving' (ID: 7218), Prob: 0.0000
+Token: ' incorporating' (ID: 51813), Prob: 0.0000
+Token: ' flow' (ID: 6396), Prob: 0.0000
+Token: ' carefully' (ID: 15516), Prob: 0.0000
+Token: 'step' (ID: 9520), Prob: 0.0000
+Token: ' putting' (ID: 10687), Prob: 0.0000
+Token: ' sentences' (ID: 22870), Prob: 0.0000
+Token: ' structured' (ID: 32930), Prob: 0.0000
+Token: ' lines' (ID: 5128), Prob: 0.0000
+Token: ' naturally' (ID: 17712), Prob: 0.0000
+Token: ' outline' (ID: 21101), Prob: 0.0000
+Token: ' scene' (ID: 6109), Prob: 0.0000
+Token: ' chapter' (ID: 12453), Prob: 0.0000
 
 == Ranked Concepts (Clusters) ==
-Rank 1 | Centroid: 'Prompt' | Score: 0.9922
-  Tokens: [' prompt', ' Prompt', '(prompt', 'prompt', 'Prompt', '_prompt', '.prompt']
-Rank 2 | Centroid: ' message' | Score: 0.0028
-  Tokens: [' message', ' messages']
-Rank 3 | Centroid: ' prompts' | Score: 0.0002
-  Tokens: [' prompts', ' prompting', ' prompted']
-Rank 4 | Centroid: ' question' | Score: 0.0000
-  Tokens: [' question', ' option']
-Rank 5 | Centroid: ' theme' | Score: 0.0000
-  Tokens: [' motif', ' theme', ' topic', ' lesson']
-Rank 6 | Centroid: ' potential' | Score: 0.0000
-  Tokens: [' potential']
-Rank 7 | Centroid: ' promote' | Score: 0.0000
-  Tokens: [' prom', ' promotion', ' PROM', ' promote']
-Rank 8 | Centroid: ' keyword' | Score: 0.0000
-  Tokens: [' keyword', ' wording']
-Rank 9 | Centroid: ' promise' | Score: 0.0000
-  Tokens: [' promise']
-Rank 10 | Centroid: ' position' | Score: 0.0000
-  Tokens: [' position', ' point']
-Rank 11 | Centroid: ' mood' | Score: 0.0000
-  Tokens: [' mood', ' priority']
-Rank 12 | Centroid: ' hint' | Score: 0.0000
-  Tokens: [' hint']
-Rank 13 | Centroid: ' within' | Score: 0.0000
-  Tokens: [' within']
-Rank 14 | Centroid: ' list' | Score: 0.0000
-  Tokens: [' list']
-Rank 15 | Centroid: ' title' | Score: 0.0000
-  Tokens: [' title']
+Rank 1 | Centroid: ' step' | Score: 0.0306
+  Tokens: [' step', ' steps', 'step']
+Rank 2 | Centroid: ' properly' | Score: 0.0001
+  Tokens: [' accordingly', ' properly', ' finally', ' smoothly', ' carefully', ' naturally']
+Rank 3 | Centroid: ' structure' | Score: 0.0001
+  Tokens: [' structure', ' struct', ' structured']
+Rank 4 | Centroid: ' next' | Score: 0.0000
+  Tokens: [' first', ' next', ' today', ' soon']
+Rank 5 | Centroid: ' paragraph' | Score: 0.0000
+  Tokens: [' piece', ' section', ' paragraph', ' scene', ' chapter']
+Rank 6 | Centroid: ' sentence' | Score: 0.0000
+  Tokens: [' sentence', ' story', ' word', 'entence', ' sentences']
+Rank 7 | Centroid: ' starting' | Score: 0.0000
+  Tokens: [' starting', ' start']
+Rank 8 | Centroid: ' incorporating' | Score: 0.0000
+  Tokens: [' using', ' without', ' conc', ' moving', ' incorporating', ' putting']
+Rank 9 | Centroid: ' around' | Score: 0.0000
+  Tokens: [' around', ' together']
+Rank 10 | Centroid: ' outline' | Score: 0.0000
+  Tokens: [' draft', ' plan', ' outline']
+Rank 11 | Centroid: ' based' | Score: 0.0000
+  Tokens: [' like', ' based', ' according', ' inspired', ' following']
+Rank 12 | Centroid: ' line' | Score: 0.0000
+  Tokens: [' line', ' lines']
+Rank 13 | Centroid: ' sample' | Score: 0.0000
+  Tokens: [' sample', ' frame', ' flow']
+Rank 14 | Centroid: ' point' | Score: 0.0000
+  Tokens: [' point', ' points']
+Rank 15 | Centroid: ' elements' | Score: 0.0000
+  Tokens: [' elements']
 
 **Chosen Concept:** Rank 1

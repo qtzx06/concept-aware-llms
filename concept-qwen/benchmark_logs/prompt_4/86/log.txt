@@ -1,73 +1,138 @@
 --- Step 86 Log ---
 
 == Filtered Candidates ==
-Token: ' message' (ID: 1943), Prob: 0.9883
-Token: ' prompt' (ID: 9934), Prob: 0.0036
-Token: ' messages' (ID: 6605), Prob: 0.0006
-Token: '.message' (ID: 6698), Prob: 0.0004
-Token: ' question' (ID: 3405), Prob: 0.0001
-Token: ' Message' (ID: 4856), Prob: 0.0001
-Token: '(message' (ID: 7333), Prob: 0.0001
-Token: 'message' (ID: 1994), Prob: 0.0001
-Token: '	message' (ID: 24753), Prob: 0.0000
-Token: ' statement' (ID: 5114), Prob: 0.0000
-Token: ':message' (ID: 91473), Prob: 0.0000
-Token: ' mes' (ID: 10846), Prob: 0.0000
-Token: ' answer' (ID: 4226), Prob: 0.0000
-Token: ' motif' (ID: 59512), Prob: 0.0000
-Token: ' information' (ID: 1995), Prob: 0.0000
-Token: ',message' (ID: 72783), Prob: 0.0000
-Token: ' response' (ID: 2033), Prob: 0.0000
-Token: 'Message' (ID: 2052), Prob: 0.0000
-Token: ' theme' (ID: 6912), Prob: 0.0000
-Token: ' phrase' (ID: 17133), Prob: 0.0000
-Token: '-message' (ID: 29332), Prob: 0.0000
-Token: ' messaging' (ID: 29522), Prob: 0.0000
-Token: '$message' (ID: 42821), Prob: 0.0000
-Token: '=message' (ID: 87129), Prob: 0.0000
-Token: ' user' (ID: 1196), Prob: 0.0000
-Token: ' point' (ID: 1459), Prob: 0.0000
-Token: ' MESSAGE' (ID: 40758), Prob: 0.0000
-Token: '/message' (ID: 50624), Prob: 0.0000
-Token: '_message' (ID: 6462), Prob: 0.0000
-Token: ' wording' (ID: 60227), Prob: 0.0000
-Token: ' position' (ID: 2309), Prob: 0.0000
-Token: ' item' (ID: 1509), Prob: 0.0000
-Token: ' main' (ID: 1887), Prob: 0.0000
-Token: ' moment' (ID: 4445), Prob: 0.0000
-Token: ' promise' (ID: 11222), Prob: 0.0000
-Token: ' lesson' (ID: 17755), Prob: 0.0000
-Token: '<message' (ID: 83747), Prob: 0.0000
-Token: ' maximum' (ID: 7192), Prob: 0.0000
+Token: 'clude' (ID: 857), Prob: 1.0000
+Token: 'vey' (ID: 5617), Prob: 0.0001
+Token: 'cluding' (ID: 10910), Prob: 0.0001
+Token: 'cludes' (ID: 7396), Prob: 0.0000
+Token: 'clus' (ID: 4163), Prob: 0.0000
+Token: 'ver' (ID: 423), Prob: 0.0000
+Token: 'CLUDE' (ID: 24583), Prob: 0.0000
+Token: 'cision' (ID: 54704), Prob: 0.0000
+Token: 'clusive' (ID: 8336), Prob: 0.0000
+Token: 'cluded' (ID: 10181), Prob: 0.0000
+Token: 'strain' (ID: 77626), Prob: 0.0000
+Token: 'clud' (ID: 1485), Prob: 0.0000
+Token: 'sume' (ID: 31323), Prob: 0.0000
+Token: 'clusions' (ID: 23529), Prob: 0.0000
+Token: 'tribute' (ID: 2199), Prob: 0.0000
+Token: 'sequences' (ID: 61708), Prob: 0.0000
+Token: 'ventions' (ID: 30659), Prob: 0.0000
+Token: 'cret' (ID: 4423), Prob: 0.0000
+Token: 'verse' (ID: 4450), Prob: 0.0000
+Token: 'plete' (ID: 5171), Prob: 0.0000
+Token: 'veys' (ID: 49269), Prob: 0.0000
+Token: 'son' (ID: 930), Prob: 0.0000
+Token: 'clusion' (ID: 8957), Prob: 0.0000
+Token: 'clusão' (ID: 142528), Prob: 0.0000
+Token: 'dos' (ID: 40525), Prob: 0.0000
+Token: 'ceive' (ID: 8238), Prob: 0.0000
+Token: 'complete' (ID: 14737), Prob: 0.0000
+Token: 'join' (ID: 5987), Prob: 0.0000
+Token: 'front' (ID: 6951), Prob: 0.0000
+Token: 'clave' (ID: 40533), Prob: 0.0000
+Token: 'serve' (ID: 13267), Prob: 0.0000
+Token: 'vin' (ID: 9603), Prob: 0.0000
+Token: 'jug' (ID: 47702), Prob: 0.0000
+Token: ' complete' (ID: 4583), Prob: 0.0000
+Token: 'cul' (ID: 3314), Prob: 0.0000
+Token: 'junction' (ID: 72428), Prob: 0.0000
+Token: 'cede' (ID: 94874), Prob: 0.0000
+Token: 'CLUSION' (ID: 98669), Prob: 0.0000
+Token: ' finish' (ID: 6248), Prob: 0.0000
+Token: 'vince' (ID: 14748), Prob: 0.0000
+Token: 'ize' (ID: 551), Prob: 0.0000
+Token: 'fin' (ID: 5472), Prob: 0.0000
+Token: 'vent' (ID: 684), Prob: 0.0000
+Token: 'notations' (ID: 14297), Prob: 0.0000
+Token: 'secutive' (ID: 85780), Prob: 0.0000
+Token: 'cur' (ID: 2352), Prob: 0.0000
+Token: 'fer' (ID: 802), Prob: 0.0000
+Token: 'strict' (ID: 6627), Prob: 0.0000
+Token: 'sequence' (ID: 15512), Prob: 0.0000
+Token: 'cis' (ID: 78055), Prob: 0.0000
+Token: 'ventional' (ID: 43222), Prob: 0.0000
+Token: 'vers' (ID: 3004), Prob: 0.0000
+Token: 'notation' (ID: 10930), Prob: 0.0000
+Token: 'fluence' (ID: 40016), Prob: 0.0000
+Token: 'vinces' (ID: 78565), Prob: 0.0000
+Token: 'ject' (ID: 583), Prob: 0.0000
+Token: 'Fin' (ID: 9134), Prob: 0.0000
+Token: 'ven' (ID: 1037), Prob: 0.0000
+Token: 'cate' (ID: 42772), Prob: 0.0000
+Token: 'vergence' (ID: 80748), Prob: 0.0000
+Token: 'jure' (ID: 52302), Prob: 0.0000
+Token: 'lude' (ID: 52538), Prob: 0.0000
+Token: ' emphasize' (ID: 45932), Prob: 0.0000
+Token: ' Fin' (ID: 5649), Prob: 0.0000
+Token: 'verting' (ID: 49417), Prob: 0.0000
+Token: ' finishes' (ID: 33036), Prob: 0.0000
+Token: 'duct' (ID: 1058), Prob: 0.0000
+Token: 'inue' (ID: 6232), Prob: 0.0000
+Token: ' finalize' (ID: 54090), Prob: 0.0000
+Token: 'logue' (ID: 67078), Prob: 0.0000
+Token: 'vention' (ID: 7459), Prob: 0.0000
+Token: 'ase' (ID: 519), Prob: 0.0000
+Token: 'kle' (ID: 23089), Prob: 0.0000
+Token: 'vection' (ID: 79198), Prob: 0.0000
+Token: 'Complete' (ID: 12548), Prob: 0.0000
+Token: 'rain' (ID: 29093), Prob: 0.0000
+Token: 'ter' (ID: 465), Prob: 0.0000
+Token: 'tra' (ID: 2172), Prob: 0.0000
+Token: 'tributes' (ID: 3604), Prob: 0.0000
 
 == Ranked Concepts (Clusters) ==
-Rank 1 | Centroid: ' message' | Score: 0.9883
-  Tokens: [' message', ' messages', '.message', ' Message', '(message', 'message', '\tmessage', 'Message', '-message', ' messaging', ' MESSAGE', '_message']
-Rank 2 | Centroid: ' prompt' | Score: 0.0036
-  Tokens: [' prompt', ' promise']
-Rank 3 | Centroid: ' question' | Score: 0.0001
-  Tokens: [' question']
-Rank 4 | Centroid: '/message' | Score: 0.0000
-  Tokens: [':message', ',message', '$message', '=message', '/message', '<message']
-Rank 5 | Centroid: ' phrase' | Score: 0.0000
-  Tokens: [' statement', ' phrase', ' wording']
-Rank 6 | Centroid: ' theme' | Score: 0.0000
-  Tokens: [' motif', ' theme', ' lesson']
-Rank 7 | Centroid: ' answer' | Score: 0.0000
-  Tokens: [' answer', ' response']
-Rank 8 | Centroid: ' mes' | Score: 0.0000
-  Tokens: [' mes']
-Rank 9 | Centroid: ' point' | Score: 0.0000
-  Tokens: [' point', ' position']
-Rank 10 | Centroid: ' user' | Score: 0.0000
-  Tokens: [' user', ' item']
-Rank 11 | Centroid: ' information' | Score: 0.0000
-  Tokens: [' information']
-Rank 12 | Centroid: ' moment' | Score: 0.0000
-  Tokens: [' moment']
-Rank 13 | Centroid: ' main' | Score: 0.0000
-  Tokens: [' main']
-Rank 14 | Centroid: ' maximum' | Score: 0.0000
-  Tokens: [' maximum']
+Rank 1 | Centroid: 'CLUSION' | Score: 1.0000
+  Tokens: ['clude', 'cluding', 'cludes', 'clus', 'CLUDE', 'clusive', 'cluded', 'clud', 'clusions', 'clusion', 'clusão', 'CLUSION']
+Rank 2 | Centroid: 'veys' | Score: 0.0001
+  Tokens: ['vey', 'veys', 'vection']
+Rank 3 | Centroid: 'vers' | Score: 0.0000
+  Tokens: ['ver', 'verse', 'front', 'vers']
+Rank 4 | Centroid: 'cis' | Score: 0.0000
+  Tokens: ['cision', 'dos', 'cis', 'kle']
+Rank 5 | Centroid: 'strain' | Score: 0.0000
+  Tokens: ['strain', 'join']
+Rank 6 | Centroid: 'sume' | Score: 0.0000
+  Tokens: ['sume', 'serve', 'jure', 'inue']
+Rank 7 | Centroid: 'sequence' | Score: 0.0000
+  Tokens: ['sequences', 'secutive', 'sequence', 'logue']
+Rank 8 | Centroid: 'Complete' | Score: 0.0000
+  Tokens: ['plete', 'complete', ' complete', 'Complete']
+Rank 9 | Centroid: 'vention' | Score: 0.0000
+  Tokens: ['ventions', 'vent', 'vention']
+Rank 10 | Centroid: 'tribute' | Score: 0.0000
+  Tokens: ['tribute', 'tributes']
+Rank 11 | Centroid: 'cul' | Score: 0.0000
+  Tokens: ['son', 'cul', 'cur']
+Rank 12 | Centroid: 'cret' | Score: 0.0000
+  Tokens: ['cret']
+Rank 13 | Centroid: ' emphasize' | Score: 0.0000
+  Tokens: ['ceive', 'clave', 'ize', ' emphasize']
+Rank 14 | Centroid: 'junction' | Score: 0.0000
+  Tokens: ['jug', 'junction', 'ventional']
+Rank 15 | Centroid: 'Fin' | Score: 0.0000
+  Tokens: [' finish', 'fin', 'Fin', ' Fin', ' finishes', ' finalize']
+Rank 16 | Centroid: 'vin' | Score: 0.0000
+  Tokens: ['vin', 'ven']
+Rank 17 | Centroid: 'cede' | Score: 0.0000
+  Tokens: ['cede', 'cate']
+Rank 18 | Centroid: 'vince' | Score: 0.0000
+  Tokens: ['vince', 'vinces']
+Rank 19 | Centroid: 'notations' | Score: 0.0000
+  Tokens: ['notations', 'notation']
+Rank 20 | Centroid: 'ter' | Score: 0.0000
+  Tokens: ['fer', 'ase', 'rain', 'ter', 'tra']
+Rank 21 | Centroid: 'ject' | Score: 0.0000
+  Tokens: ['ject', 'verting']
+Rank 22 | Centroid: 'strict' | Score: 0.0000
+  Tokens: ['strict']
+Rank 23 | Centroid: 'fluence' | Score: 0.0000
+  Tokens: ['fluence']
+Rank 24 | Centroid: 'vergence' | Score: 0.0000
+  Tokens: ['vergence']
+Rank 25 | Centroid: 'lude' | Score: 0.0000
+  Tokens: ['lude']
+Rank 26 | Centroid: 'duct' | Score: 0.0000
+  Tokens: ['duct']
 
 **Chosen Concept:** Rank 1

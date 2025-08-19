@@ -1,91 +1,156 @@
 --- Step 137 Log ---
 
 == Filtered Candidates ==
-Token: 'ting' (ID: 1280), Prob: 1.0000
-Token: ' ting' (ID: 42227), Prob: 0.0000
-Token: 'ten' (ID: 1960), Prob: 0.0000
-Token: 'tings' (ID: 2065), Prob: 0.0000
-Token: 'tering' (ID: 59385), Prob: 0.0000
-Token: 'TING' (ID: 25043), Prob: 0.0000
-Token: ' letting' (ID: 20194), Prob: 0.0000
-Token: ' getting' (ID: 3709), Prob: 0.0000
-Token: ' trying' (ID: 4460), Prob: 0.0000
-Token: ' putting' (ID: 10687), Prob: 0.0000
-Token: 'ted' (ID: 6565), Prob: 0.0000
-Token: ' testing' (ID: 7497), Prob: 0.0000
-Token: 'tant' (ID: 60412), Prob: 0.0000
-Token: ' terminating' (ID: 70581), Prob: 0.0000
-Token: ' turning' (ID: 13054), Prob: 0.0000
-Token: ' talking' (ID: 7404), Prob: 0.0000
-Token: ' telling' (ID: 11629), Prob: 0.0000
-Token: ' taking' (ID: 4633), Prob: 0.0000
-Token: 'iting' (ID: 5853), Prob: 0.0000
-Token: ' tightening' (ID: 76780), Prob: 0.0000
-Token: 'ton' (ID: 777), Prob: 0.0000
-Token: ' training' (ID: 4862), Prob: 0.0000
-Token: ' thinking' (ID: 7274), Prob: 0.0000
-Token: ' changing' (ID: 10018), Prob: 0.0000
-Token: 'tin' (ID: 55971), Prob: 0.0000
-Token: 'tit' (ID: 16903), Prob: 0.0000
-Token: ' time' (ID: 882), Prob: 0.0000
-Token: ' ten' (ID: 5779), Prob: 0.0000
-Token: 'til' (ID: 1646), Prob: 0.0000
-Token: ' Ting' (ID: 98532), Prob: 0.0000
-Token: ' using' (ID: 1667), Prob: 0.0000
-Token: ' translating' (ID: 66271), Prob: 0.0000
-Token: ' total' (ID: 2790), Prob: 0.0000
-Token: 'ping' (ID: 9989), Prob: 0.0000
-Token: ' touching' (ID: 30587), Prob: 0.0000
-Token: ' tent' (ID: 15632), Prob: 0.0000
-Token: 'tee' (ID: 6547), Prob: 0.0000
-Token: ' timing' (ID: 18405), Prob: 0.0000
-Token: ' tying' (ID: 62043), Prob: 0.0000
-Token: ' tit' (ID: 8142), Prob: 0.0000
-Token: ' passing' (ID: 12299), Prob: 0.0000
-Token: ' transferring' (ID: 49951), Prob: 0.0000
-Token: 'ter' (ID: 465), Prob: 0.0000
-Token: ' choosing' (ID: 18774), Prob: 0.0000
-Token: 'tem' (ID: 870), Prob: 0.0000
-Token: ' saying' (ID: 5488), Prob: 0.0000
-Token: ' giving' (ID: 7086), Prob: 0.0000
-Token: ' sleeping' (ID: 21127), Prob: 0.0000
-Token: 'ing' (ID: 287), Prob: 0.0000
-Token: ' bringing' (ID: 12678), Prob: 0.0000
-Token: ' tin' (ID: 24790), Prob: 0.0000
-Token: ' term' (ID: 4647), Prob: 0.0000
+Token: ' place' (ID: 1992), Prob: 0.4102
+Token: ' strange' (ID: 14888), Prob: 0.0806
+Token: ' park' (ID: 6118), Prob: 0.0491
+Token: ' public' (ID: 584), Prob: 0.0432
+Token: ' library' (ID: 6733), Prob: 0.0432
+Token: ' mysterious' (ID: 25382), Prob: 0.0381
+Token: ' familiar' (ID: 11285), Prob: 0.0232
+Token: ' location' (ID: 3728), Prob: 0.0181
+Token: ' café' (ID: 51950), Prob: 0.0181
+Token: ' dark' (ID: 6319), Prob: 0.0170
+Token: ' coffee' (ID: 10799), Prob: 0.0124
+Token: ' room' (ID: 3054), Prob: 0.0103
+Token: ' new' (ID: 501), Prob: 0.0096
+Token: ' situation' (ID: 6534), Prob: 0.0091
+Token: ' secret' (ID: 6234), Prob: 0.0075
+Token: ' quiet' (ID: 11340), Prob: 0.0059
+Token: ' store' (ID: 3553), Prob: 0.0055
+Token: ' hidden' (ID: 8177), Prob: 0.0055
+Token: ' foreign' (ID: 7214), Prob: 0.0052
+Token: ' remote' (ID: 8699), Prob: 0.0052
+Token: ' unusual' (ID: 18511), Prob: 0.0052
+Token: ' different' (ID: 2155), Prob: 0.0043
+Token: ' cafe' (ID: 40930), Prob: 0.0043
+Token: ' way' (ID: 1616), Prob: 0.0040
+Token: ' magical' (ID: 23702), Prob: 0.0038
+Token: ' creepy' (ID: 50840), Prob: 0.0038
+Token: ' common' (ID: 4185), Prob: 0.0036
+Token: ' safe' (ID: 6092), Prob: 0.0033
+Token: ' unexpected' (ID: 16500), Prob: 0.0031
+Token: ' unfamiliar' (ID: 49283), Prob: 0.0031
+Token: ' bar' (ID: 3619), Prob: 0.0029
+Token: ' normal' (ID: 4622), Prob: 0.0028
+Token: ' unique' (ID: 4911), Prob: 0.0026
+Token: ' non' (ID: 2477), Prob: 0.0024
+Token: ' restaurant' (ID: 10729), Prob: 0.0024
+Token: ' secluded' (ID: 88015), Prob: 0.0024
+Token: ' setting' (ID: 6243), Prob: 0.0023
+Token: ' hotel' (ID: 9500), Prob: 0.0023
+Token: ' museum' (ID: 23971), Prob: 0.0023
+Token: ' bookstore' (ID: 78661), Prob: 0.0023
+Token: ' weird' (ID: 16283), Prob: 0.0019
+Token: ' stranger' (ID: 33958), Prob: 0.0019
+Token: ' mundane' (ID: 68682), Prob: 0.0019
+Token: ' local' (ID: 2205), Prob: 0.0018
+Token: ' pub' (ID: 6675), Prob: 0.0018
+Token: ' haunted' (ID: 56675), Prob: 0.0017
+Token: ' small' (ID: 2613), Prob: 0.0016
+Token: ' crypt' (ID: 14436), Prob: 0.0016
+Token: ' deserted' (ID: 82310), Prob: 0.0016
+Token: ' peculiar' (ID: 43697), Prob: 0.0015
+Token: ' garden' (ID: 13551), Prob: 0.0014
+Token: ' crowded' (ID: 38213), Prob: 0.0014
+Token: ' specific' (ID: 3151), Prob: 0.0013
+Token: ' bizarre' (ID: 32188), Prob: 0.0013
+Token: ' natural' (ID: 5810), Prob: 0.0012
+Token: ' dangerous' (ID: 11406), Prob: 0.0012
+Token: ' usual' (ID: 13475), Prob: 0.0012
+Token: ' surprising' (ID: 14861), Prob: 0.0012
+Token: ' private' (ID: 869), Prob: 0.0011
+Token: ' quirky' (ID: 67132), Prob: 0.0011
+Token: ' typical' (ID: 14260), Prob: 0.0010
+Token: ' funny' (ID: 15173), Prob: 0.0010
+Token: ' romantic' (ID: 23467), Prob: 0.0010
+Token: ' well' (ID: 1632), Prob: 0.0010
+Token: ' fun' (ID: 2464), Prob: 0.0010
+Token: ' shop' (ID: 8061), Prob: 0.0010
+Token: ' bathroom' (ID: 14852), Prob: 0.0008
+Token: ' casual' (ID: 16334), Prob: 0.0008
+Token: ' building' (ID: 4752), Prob: 0.0008
+Token: ' suspicious' (ID: 31327), Prob: 0.0008
+Token: ' secretive' (ID: 82999), Prob: 0.0008
+Token: ' forgotten' (ID: 24547), Prob: 0.0007
+Token: ' forbidden' (ID: 36813), Prob: 0.0007
+Token: ' supernatural' (ID: 48958), Prob: 0.0007
+Token: ' city' (ID: 3283), Prob: 0.0007
+Token: ' forest' (ID: 13638), Prob: 0.0007
+Token: ' real' (ID: 1931), Prob: 0.0007
+Token: ' scary' (ID: 28465), Prob: 0.0007
+Token: ' space' (ID: 3550), Prob: 0.0006
+Token: ' town' (ID: 6290), Prob: 0.0006
+Token: ' meeting' (ID: 6438), Prob: 0.0006
+Token: ' modern' (ID: 6481), Prob: 0.0006
+Token: ' lab' (ID: 10072), Prob: 0.0006
+Token: ' surprise' (ID: 12761), Prob: 0.0006
+Token: ' fantasy' (ID: 18378), Prob: 0.0006
+Token: ' neutral' (ID: 20628), Prob: 0.0006
+Token: ' bakery' (ID: 65144), Prob: 0.0006
+Token: ' secure' (ID: 9767), Prob: 0.0006
+Token: ' grocery' (ID: 29587), Prob: 0.0006
+Token: ' supermarket' (ID: 48213), Prob: 0.0006
+Token: ' shady' (ID: 77081), Prob: 0.0006
+Token: ' friend' (ID: 4238), Prob: 0.0005
+Token: ' dim' (ID: 5103), Prob: 0.0005
+Token: ' shared' (ID: 6094), Prob: 0.0005
+Token: ' subway' (ID: 43246), Prob: 0.0005
+Token: ' virtual' (ID: 4108), Prob: 0.0005
+Token: ' completely' (ID: 6587), Prob: 0.0005
 
 == Ranked Concepts (Clusters) ==
-Rank 1 | Centroid: 'ting' | Score: 1.0000
-  Tokens: ['ting', 'tings', 'TING', 'ted']
-Rank 2 | Centroid: ' ting' | Score: 0.0000
-  Tokens: [' ting', 'tin', ' Ting', ' tin']
-Rank 3 | Centroid: ' ten' | Score: 0.0000
-  Tokens: ['ten', ' ten', ' tent']
-Rank 4 | Centroid: 'tering' | Score: 0.0000
-  Tokens: ['tering', 'ter']
-Rank 5 | Centroid: ' putting' | Score: 0.0000
-  Tokens: [' letting', ' getting', ' trying', ' putting', ' talking', ' telling', ' taking', ' thinking', ' using', ' choosing', ' saying', ' giving', ' bringing']
-Rank 6 | Centroid: ' timing' | Score: 0.0000
-  Tokens: [' testing', ' training', ' time', ' total', ' timing']
-Rank 7 | Centroid: ' transferring' | Score: 0.0000
-  Tokens: [' turning', ' changing', ' translating', ' passing', ' transferring']
-Rank 8 | Centroid: ' tightening' | Score: 0.0000
-  Tokens: [' tightening', ' touching', ' tying', ' sleeping']
-Rank 9 | Centroid: 'til' | Score: 0.0000
-  Tokens: ['ton', 'til', 'tem']
-Rank 10 | Centroid: 'tant' | Score: 0.0000
-  Tokens: ['tant']
-Rank 11 | Centroid: ' terminating' | Score: 0.0000
-  Tokens: [' terminating']
-Rank 12 | Centroid: 'iting' | Score: 0.0000
-  Tokens: ['iting']
-Rank 13 | Centroid: 'tit' | Score: 0.0000
-  Tokens: ['tit', ' tit']
-Rank 14 | Centroid: 'ping' | Score: 0.0000
-  Tokens: ['ping', 'ing']
-Rank 15 | Centroid: 'tee' | Score: 0.0000
-  Tokens: ['tee']
-Rank 16 | Centroid: ' term' | Score: 0.0000
-  Tokens: [' term']
+Rank 1 | Centroid: ' location' | Score: 0.4414
+  Tokens: [' place', ' location', ' situation', ' way']
+Rank 2 | Centroid: ' weird' | Score: 0.0923
+  Tokens: [' strange', ' unusual', ' weird', ' peculiar', ' bizarre', ' quirky', ' funny']
+Rank 3 | Centroid: ' restaurant' | Score: 0.0635
+  Tokens: [' library', ' store', ' restaurant', ' hotel', ' museum', ' bookstore', ' garden', ' shop', ' bathroom', ' bakery', ' grocery', ' supermarket', ' subway']
+Rank 4 | Centroid: ' city' | Score: 0.0503
+  Tokens: [' park', ' city', ' town']
+Rank 5 | Centroid: ' public' | Score: 0.0466
+  Tokens: [' public', ' pub', ' private', ' dim']
+Rank 6 | Centroid: ' surprising' | Score: 0.0437
+  Tokens: [' mysterious', ' unexpected', ' surprising', ' suspicious', ' surprise']
+Rank 7 | Centroid: ' café' | Score: 0.0347
+  Tokens: [' café', ' coffee', ' cafe']
+Rank 8 | Centroid: ' dangerous' | Score: 0.0284
+  Tokens: [' dark', ' quiet', ' safe', ' dangerous', ' secure', ' completely']
+Rank 9 | Centroid: ' familiar' | Score: 0.0264
+  Tokens: [' familiar', ' unfamiliar']
+Rank 10 | Centroid: ' different' | Score: 0.0236
+  Tokens: [' new', ' different', ' unique', ' non', ' local', ' small', ' specific']
+Rank 11 | Centroid: ' secret' | Score: 0.0154
+  Tokens: [' secret', ' hidden', ' crypt', ' secretive']
+Rank 12 | Centroid: ' room' | Score: 0.0109
+  Tokens: [' room', ' space']
+Rank 13 | Centroid: ' foreign' | Score: 0.0103
+  Tokens: [' foreign', ' remote']
+Rank 14 | Centroid: ' creepy' | Score: 0.0086
+  Tokens: [' creepy', ' mundane', ' haunted', ' scary', ' shady']
+Rank 15 | Centroid: ' magical' | Score: 0.0062
+  Tokens: [' magical', ' romantic', ' supernatural', ' fantasy']
+Rank 16 | Centroid: ' secluded' | Score: 0.0054
+  Tokens: [' secluded', ' deserted', ' crowded']
+Rank 17 | Centroid: ' common' | Score: 0.0051
+  Tokens: [' common', ' well', ' shared']
+Rank 18 | Centroid: ' usual' | Score: 0.0049
+  Tokens: [' normal', ' usual', ' typical']
+Rank 19 | Centroid: ' setting' | Score: 0.0043
+  Tokens: [' setting', ' building', ' meeting', ' lab']
+Rank 20 | Centroid: ' virtual' | Score: 0.0036
+  Tokens: [' natural', ' real', ' modern', ' neutral', ' virtual']
+Rank 21 | Centroid: ' bar' | Score: 0.0029
+  Tokens: [' bar']
+Rank 22 | Centroid: ' stranger' | Score: 0.0024
+  Tokens: [' stranger', ' friend']
+Rank 23 | Centroid: ' forgotten' | Score: 0.0015
+  Tokens: [' forgotten', ' forbidden']
+Rank 24 | Centroid: ' fun' | Score: 0.0010
+  Tokens: [' fun']
+Rank 25 | Centroid: ' casual' | Score: 0.0008
+  Tokens: [' casual']
+Rank 26 | Centroid: ' forest' | Score: 0.0007
+  Tokens: [' forest']
 
 **Chosen Concept:** Rank 1

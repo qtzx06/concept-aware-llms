@@ -1,119 +1,107 @@
 --- Step 5 Log ---
 
 == Filtered Candidates ==
-Token: ' wants' (ID: 6801), Prob: 0.9336
-Token: ' asked' (ID: 4588), Prob: 0.0104
-Token: ' said' (ID: 1053), Prob: 0.0063
-Token: ' probably' (ID: 4658), Prob: 0.0063
-Token: ' wrote' (ID: 6139), Prob: 0.0049
-Token: ' says' (ID: 2727), Prob: 0.0043
-Token: ' might' (ID: 2578), Prob: 0.0034
-Token: ' wanted' (ID: 4829), Prob: 0.0006
-Token: ' want' (ID: 1366), Prob: 0.0006
-Token: ' made' (ID: 1865), Prob: 0.0006
-Token: ' needs' (ID: 3880), Prob: 0.0004
-Token: ' asks' (ID: 17064), Prob: 0.0003
-Token: ' sent' (ID: 3208), Prob: 0.0003
-Token: ' would' (ID: 1035), Prob: 0.0003
-Token: ' provided' (ID: 3897), Prob: 0.0002
-Token: ' mentioned' (ID: 9733), Prob: 0.0002
-Token: ' requested' (ID: 11223), Prob: 0.0001
-Token: ' told' (ID: 3229), Prob: 0.0001
-Token: ' gave' (ID: 6551), Prob: 0.0001
-Token: ' started' (ID: 3855), Prob: 0.0001
-Token: ' seems' (ID: 4977), Prob: 0.0000
-Token: ' really' (ID: 2167), Prob: 0.0000
-Token: ' wishes' (ID: 24240), Prob: 0.0000
-Token: ' requests' (ID: 7388), Prob: 0.0000
-Token: ' tried' (ID: 6679), Prob: 0.0000
-Token: ' could' (ID: 1410), Prob: 0.0000
-Token: ' writes' (ID: 13914), Prob: 0.0000
-Token: ' created' (ID: 3465), Prob: 0.0000
-Token: ' starts' (ID: 8471), Prob: 0.0000
-Token: ' tells' (ID: 10742), Prob: 0.0000
-Token: ' text' (ID: 1467), Prob: 0.0000
-Token: ' got' (ID: 2684), Prob: 0.0000
-Token: ' likely' (ID: 4363), Prob: 0.0000
-Token: ' instruction' (ID: 7600), Prob: 0.0000
-Token: ' asking' (ID: 10161), Prob: 0.0000
-Token: ' presented' (ID: 10449), Prob: 0.0000
-Token: ' ordered' (ID: 11457), Prob: 0.0000
-Token: ' request' (ID: 1681), Prob: 0.0000
-Token: ' described' (ID: 7481), Prob: 0.0000
-Token: ' may' (ID: 1231), Prob: 0.0000
-Token: ' loves' (ID: 15803), Prob: 0.0000
-Token: ' input' (ID: 1946), Prob: 0.0000
-Token: ' called' (ID: 2598), Prob: 0.0000
-Token: ' posted' (ID: 8454), Prob: 0.0000
-Token: ' commands' (ID: 11293), Prob: 0.0000
-Token: ' initially' (ID: 15102), Prob: 0.0000
-Token: ' Wants' (ID: 77478), Prob: 0.0000
-Token: ' maybe' (ID: 7196), Prob: 0.0000
-Token: ' specified' (ID: 5189), Prob: 0.0000
-Token: ' written' (ID: 5326), Prob: 0.0000
-Token: ' basically' (ID: 13221), Prob: 0.0000
-Token: ' thinks' (ID: 15482), Prob: 0.0000
-Token: ' used' (ID: 1483), Prob: 0.0000
-Token: ' likes' (ID: 13151), Prob: 0.0000
-Token: ' makes' (ID: 3643), Prob: 0.0000
-Token: ' instructions' (ID: 11221), Prob: 0.0000
-Token: ' instructed' (ID: 40975), Prob: 0.0000
-Token: ' put' (ID: 2182), Prob: 0.0000
-Token: ' directed' (ID: 15540), Prob: 0.0000
-Token: ' desires' (ID: 30997), Prob: 0.0000
-Token: ' sees' (ID: 15634), Prob: 0.0000
-Token: ' example' (ID: 3110), Prob: 0.0000
-Token: ' writing' (ID: 4378), Prob: 0.0000
-Token: ' requires' (ID: 7460), Prob: 0.0000
-Token: ' expects' (ID: 24297), Prob: 0.0000
-Token: ' typed' (ID: 31969), Prob: 0.0000
-Token: ' gives' (ID: 6696), Prob: 0.0000
-Token: ' let' (ID: 1077), Prob: 0.0000
-Token: ' expressed' (ID: 13302), Prob: 0.0000
-Token: ' wanting' (ID: 19211), Prob: 0.0000
-Token: ' gets' (ID: 5221), Prob: 0.0000
-Token: ' saying' (ID: 5488), Prob: 0.0000
-Token: ' composed' (ID: 23415), Prob: 0.0000
-Token: ' saw' (ID: 5485), Prob: 0.0000
-Token: ' pointed' (ID: 14283), Prob: 0.0000
-Token: ' first' (ID: 1156), Prob: 0.0000
-Token: ' compared' (ID: 7707), Prob: 0.0000
-Token: ' went' (ID: 3937), Prob: 0.0000
+Token: ' three' (ID: 2326), Prob: 0.0118
+Token: ' five' (ID: 4236), Prob: 0.0072
+Token: ' one' (ID: 825), Prob: 0.0068
+Token: ' elements' (ID: 5424), Prob: 0.0044
+Token: ' two' (ID: 1378), Prob: 0.0036
+Token: ' characters' (ID: 5766), Prob: 0.0036
+Token: ' specific' (ID: 3151), Prob: 0.0034
+Token: ' dialogue' (ID: 21276), Prob: 0.0023
+Token: ' four' (ID: 3040), Prob: 0.0022
+Token: ' sensory' (ID: 47969), Prob: 0.0021
+Token: ' vivid' (ID: 42020), Prob: 0.0015
+Token: ' scenes' (ID: 16065), Prob: 0.0014
+Token: ' character' (ID: 3668), Prob: 0.0013
+Token: ' personal' (ID: 4345), Prob: 0.0011
+Token: ' every' (ID: 1449), Prob: 0.0010
+Token: ' within' (ID: 2878), Prob: 0.0010
+Token: ' multiple' (ID: 5248), Prob: 0.0010
+Token: ' details' (ID: 3565), Prob: 0.0008
+Token: ' proper' (ID: 6169), Prob: 0.0008
+Token: ' six' (ID: 4743), Prob: 0.0008
+Token: ' scene' (ID: 6109), Prob: 0.0007
+Token: ' exactly' (ID: 6896), Prob: 0.0007
+Token: ' first' (ID: 1156), Prob: 0.0005
+Token: ' time' (ID: 882), Prob: 0.0005
+Token: ' names' (ID: 5036), Prob: 0.0005
+Token: ' natural' (ID: 5810), Prob: 0.0005
+Token: ' physical' (ID: 6961), Prob: 0.0005
+Token: ' seven' (ID: 8094), Prob: 0.0005
+Token: ' direct' (ID: 2118), Prob: 0.0004
+Token: ' descriptions' (ID: 27787), Prob: 0.0004
+Token: ' title' (ID: 2265), Prob: 0.0004
+Token: ' imagery' (ID: 40445), Prob: 0.0004
+Token: ' person' (ID: 1697), Prob: 0.0004
+Token: ' emotions' (ID: 21261), Prob: 0.0004
+Token: ' following' (ID: 2701), Prob: 0.0003
+Token: ' emotional' (ID: 14269), Prob: 0.0003
+Token: ' action' (ID: 1917), Prob: 0.0003
+Token: ' description' (ID: 4008), Prob: 0.0003
+Token: ' descriptive' (ID: 52844), Prob: 0.0003
+Token: ' real' (ID: 1931), Prob: 0.0003
+Token: ' emotion' (ID: 19772), Prob: 0.0003
+Token: ' actions' (ID: 6168), Prob: 0.0003
+Token: ' words' (ID: 4244), Prob: 0.0002
+Token: ' clear' (ID: 2797), Prob: 0.0002
+Token: ' several' (ID: 3807), Prob: 0.0002
+Token: ' plot' (ID: 7089), Prob: 0.0002
+Token: ' themes' (ID: 21386), Prob: 0.0002
+Token: ' ten' (ID: 5779), Prob: 0.0002
+Token: ' something' (ID: 2494), Prob: 0.0002
+Token: ' events' (ID: 4357), Prob: 0.0002
+Token: ' appropriate' (ID: 8311), Prob: 0.0002
+Token: ' examples' (ID: 10295), Prob: 0.0002
+Token: ' verbs' (ID: 61846), Prob: 0.0002
+Token: ' strong' (ID: 3746), Prob: 0.0002
+Token: ' diverse' (ID: 16807), Prob: 0.0002
+Token: ' intro' (ID: 19706), Prob: 0.0002
+Token: ' either' (ID: 2987), Prob: 0.0002
+Token: ' visual' (ID: 9124), Prob: 0.0002
+Token: ' references' (ID: 15057), Prob: 0.0002
+Token: ' name' (ID: 829), Prob: 0.0002
+Token: ' key' (ID: 1376), Prob: 0.0002
+Token: ' body' (ID: 2487), Prob: 0.0002
 
 == Ranked Concepts (Clusters) ==
-Rank 1 | Centroid: ' wants' | Score: 0.9336
-  Tokens: [' wants', ' wanted', ' want', ' wishes', ' Wants', ' desires', ' wanting']
-Rank 2 | Centroid: ' asks' | Score: 0.0109
-  Tokens: [' asked', ' asks', ' requested', ' requests', ' asking', ' request']
-Rank 3 | Centroid: ' says' | Score: 0.0106
-  Tokens: [' said', ' says', ' saying']
-Rank 4 | Centroid: ' probably' | Score: 0.0064
-  Tokens: [' probably', ' really', ' likely', ' maybe', ' basically']
-Rank 5 | Centroid: ' wrote' | Score: 0.0049
-  Tokens: [' wrote', ' writes', ' written', ' writing']
-Rank 6 | Centroid: ' might' | Score: 0.0037
-  Tokens: [' might', ' would', ' could', ' may']
-Rank 7 | Centroid: ' created' | Score: 0.0007
-  Tokens: [' made', ' started', ' created', ' used', ' compared']
-Rank 8 | Centroid: ' thinks' | Score: 0.0004
-  Tokens: [' needs', ' loves', ' thinks', ' likes', ' sees', ' requires', ' expects']
-Rank 9 | Centroid: ' described' | Score: 0.0004
-  Tokens: [' provided', ' mentioned', ' presented', ' described', ' posted', ' specified', ' expressed', ' pointed']
-Rank 10 | Centroid: ' gave' | Score: 0.0004
-  Tokens: [' sent', ' gave', ' tried', ' got', ' put', ' went']
-Rank 11 | Centroid: ' told' | Score: 0.0001
-  Tokens: [' told', ' tells']
-Rank 12 | Centroid: ' gives' | Score: 0.0001
-  Tokens: [' seems', ' starts', ' makes', ' gives', ' gets']
-Rank 13 | Centroid: ' instructions' | Score: 0.0001
-  Tokens: [' instruction', ' ordered', ' commands', ' instructions', ' instructed', ' directed']
-Rank 14 | Centroid: ' initially' | Score: 0.0001
-  Tokens: [' text', ' input', ' initially', ' example', ' first']
-Rank 15 | Centroid: ' called' | Score: 0.0000
-  Tokens: [' called']
-Rank 16 | Centroid: ' typed' | Score: 0.0000
-  Tokens: [' typed', ' composed']
-Rank 17 | Centroid: ' let' | Score: 0.0000
-  Tokens: [' let', ' saw']
+Rank 1 | Centroid: ' five' | Score: 0.0275
+  Tokens: [' three', ' five', ' two', ' four', ' multiple', ' six', ' seven', ' several', ' ten']
+Rank 2 | Centroid: ' one' | Score: 0.0079
+  Tokens: [' one', ' first', ' time', ' key']
+Rank 3 | Centroid: ' themes' | Score: 0.0052
+  Tokens: [' elements', ' words', ' themes', ' events', ' verbs']
+Rank 4 | Centroid: ' diverse' | Score: 0.0052
+  Tokens: [' specific', ' natural', ' direct', ' real', ' clear', ' strong', ' diverse']
+Rank 5 | Centroid: ' characters' | Score: 0.0049
+  Tokens: [' characters', ' character']
+Rank 6 | Centroid: ' within' | Score: 0.0031
+  Tokens: [' every', ' within', ' exactly', ' something', ' either']
+Rank 7 | Centroid: ' visual' | Score: 0.0027
+  Tokens: [' sensory', ' physical', ' visual']
+Rank 8 | Centroid: ' dialogue' | Score: 0.0025
+  Tokens: [' dialogue', ' intro']
+Rank 9 | Centroid: ' scenes' | Score: 0.0021
+  Tokens: [' scenes', ' scene']
+Rank 10 | Centroid: ' vivid' | Score: 0.0019
+  Tokens: [' vivid', ' imagery']
+Rank 11 | Centroid: ' personal' | Score: 0.0015
+  Tokens: [' personal', ' person']
+Rank 12 | Centroid: ' appropriate' | Score: 0.0013
+  Tokens: [' proper', ' following', ' appropriate']
+Rank 13 | Centroid: ' examples' | Score: 0.0012
+  Tokens: [' details', ' examples', ' references']
+Rank 14 | Centroid: ' descriptions' | Score: 0.0010
+  Tokens: [' descriptions', ' description', ' descriptive']
+Rank 15 | Centroid: ' name' | Score: 0.0010
+  Tokens: [' names', ' title', ' name']
+Rank 16 | Centroid: ' emotions' | Score: 0.0010
+  Tokens: [' emotions', ' emotional', ' emotion']
+Rank 17 | Centroid: ' action' | Score: 0.0006
+  Tokens: [' action', ' actions']
+Rank 18 | Centroid: ' plot' | Score: 0.0002
+  Tokens: [' plot']
+Rank 19 | Centroid: ' body' | Score: 0.0002
+  Tokens: [' body']
 
 **Chosen Concept:** Rank 1

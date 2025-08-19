@@ -1,92 +1,156 @@
 --- Step 86 Log ---
 
 == Filtered Candidates ==
-Token: ' old' (ID: 2310), Prob: 1.0000
-Token: ' older' (ID: 9014), Prob: 0.0001
-Token: ' young' (ID: 3908), Prob: 0.0000
-Token: ' elderly' (ID: 28820), Prob: 0.0000
-Token: ' long' (ID: 1293), Prob: 0.0000
-Token: '(old' (ID: 21972), Prob: 0.0000
-Token: 'old' (ID: 813), Prob: 0.0000
-Token: '-old' (ID: 6284), Prob: 0.0000
-Token: '	old' (ID: 61828), Prob: 0.0000
-Token: '.old' (ID: 46061), Prob: 0.0000
-Token: ' cold' (ID: 9255), Prob: 0.0000
-Token: ' Old' (ID: 10621), Prob: 0.0000
-Token: ' ancient' (ID: 13833), Prob: 0.0000
-Token: '_old' (ID: 21108), Prob: 0.0000
-Token: ' oldest' (ID: 23513), Prob: 0.0000
-Token: ' tall' (ID: 16217), Prob: 0.0000
-Token: ' new' (ID: 501), Prob: 0.0000
-Token: ' OLD' (ID: 64891), Prob: 0.0000
-Token: ' away' (ID: 3123), Prob: 0.0000
-Token: ' slow' (ID: 6301), Prob: 0.0000
-Token: ' well' (ID: 1632), Prob: 0.0000
-Token: ' child' (ID: 1682), Prob: 0.0000
-Token: ' oil' (ID: 5590), Prob: 0.0000
-Token: ' aged' (ID: 19749), Prob: 0.0000
-Token: ' full' (ID: 2480), Prob: 0.0000
-Token: ' fast' (ID: 4937), Prob: 0.0000
-Token: ' aging' (ID: 28984), Prob: 0.0000
-Token: ' large' (ID: 3460), Prob: 0.0000
-Token: ' end' (ID: 835), Prob: 0.0000
-Token: ' late' (ID: 3309), Prob: 0.0000
-Token: ' outdated' (ID: 40526), Prob: 0.0000
-Token: ' wide' (ID: 6884), Prob: 0.0000
-Token: ' small' (ID: 2613), Prob: 0.0000
-Token: ' empty' (ID: 4287), Prob: 0.0000
-Token: ' open' (ID: 1787), Prob: 0.0000
-Token: ' easy' (ID: 4135), Prob: 0.0000
-Token: ' age' (ID: 4231), Prob: 0.0000
-Token: ' always' (ID: 2677), Prob: 0.0000
-Token: ' ultra' (ID: 23998), Prob: 0.0000
-Token: ' obsolete' (ID: 46066), Prob: 0.0000
-Token: ' along' (ID: 3156), Prob: 0.0000
-Token: ' tired' (ID: 19227), Prob: 0.0000
-Token: ' high' (ID: 1550), Prob: 0.0000
-Token: ' without' (ID: 2041), Prob: 0.0000
-Token: ' often' (ID: 3545), Prob: 0.0000
-Token: 'OLD' (ID: 7863), Prob: 0.0000
-Token: ' elder' (ID: 22130), Prob: 0.0000
-Token: ' still' (ID: 2058), Prob: 0.0000
-Token: ' great' (ID: 2244), Prob: 0.0000
-Token: ' low' (ID: 3347), Prob: 0.0000
-Token: ' strong' (ID: 3746), Prob: 0.0000
+Token: ' way' (ID: 1616), Prob: 0.1885
+Token: ' strange' (ID: 14888), Prob: 0.1885
+Token: ' normal' (ID: 4622), Prob: 0.0786
+Token: ' place' (ID: 1992), Prob: 0.0693
+Token: ' public' (ID: 584), Prob: 0.0542
+Token: ' situation' (ID: 6534), Prob: 0.0327
+Token: ' casual' (ID: 16334), Prob: 0.0327
+Token: ' weird' (ID: 16283), Prob: 0.0199
+Token: ' mysterious' (ID: 25382), Prob: 0.0199
+Token: ' playful' (ID: 56069), Prob: 0.0165
+Token: ' fun' (ID: 2464), Prob: 0.0155
+Token: ' humorous' (ID: 69846), Prob: 0.0146
+Token: ' non' (ID: 2477), Prob: 0.0114
+Token: ' funny' (ID: 15173), Prob: 0.0107
+Token: ' setting' (ID: 6243), Prob: 0.0100
+Token: ' surprising' (ID: 14861), Prob: 0.0100
+Token: ' different' (ID: 2155), Prob: 0.0094
+Token: ' unexpected' (ID: 16500), Prob: 0.0089
+Token: ' mundane' (ID: 68682), Prob: 0.0083
+Token: ' dark' (ID: 6319), Prob: 0.0069
+Token: ' typical' (ID: 14260), Prob: 0.0057
+Token: ' quirky' (ID: 67132), Prob: 0.0054
+Token: ' harmless' (ID: 52897), Prob: 0.0047
+Token: ' usual' (ID: 13475), Prob: 0.0045
+Token: ' natural' (ID: 5810), Prob: 0.0042
+Token: ' unusual' (ID: 18511), Prob: 0.0042
+Token: ' new' (ID: 501), Prob: 0.0037
+Token: ' private' (ID: 869), Prob: 0.0037
+Token: ' friendly' (ID: 11657), Prob: 0.0037
+Token: ' room' (ID: 3054), Prob: 0.0035
+Token: ' relaxed' (ID: 30367), Prob: 0.0035
+Token: ' safe' (ID: 6092), Prob: 0.0031
+Token: ' quiet' (ID: 11340), Prob: 0.0031
+Token: ' manner' (ID: 11566), Prob: 0.0031
+Token: ' serious' (ID: 6001), Prob: 0.0027
+Token: ' familiar' (ID: 11285), Prob: 0.0027
+Token: ' peculiar' (ID: 43697), Prob: 0.0027
+Token: ' creepy' (ID: 50840), Prob: 0.0025
+Token: ' seemingly' (ID: 22660), Prob: 0.0024
+Token: ' bizarre' (ID: 32188), Prob: 0.0022
+Token: ' chaotic' (ID: 51987), Prob: 0.0021
+Token: ' social' (ID: 3590), Prob: 0.0019
+Token: ' certain' (ID: 3654), Prob: 0.0019
+Token: ' romantic' (ID: 23467), Prob: 0.0019
+Token: ' trivial' (ID: 35647), Prob: 0.0019
+Token: ' secretive' (ID: 82999), Prob: 0.0019
+Token: ' confusing' (ID: 30615), Prob: 0.0017
+Token: ' meaningful' (ID: 22414), Prob: 0.0016
+Token: ' common' (ID: 4185), Prob: 0.0015
+Token: ' foreign' (ID: 7214), Prob: 0.0015
+Token: ' formal' (ID: 15908), Prob: 0.0015
+Token: ' workplace' (ID: 26368), Prob: 0.0015
+Token: ' lively' (ID: 48177), Prob: 0.0015
+Token: ' moment' (ID: 4445), Prob: 0.0014
+Token: ' unique' (ID: 4911), Prob: 0.0014
+Token: ' hidden' (ID: 8177), Prob: 0.0014
+Token: ' disturbing' (ID: 33873), Prob: 0.0014
+Token: ' subtle' (ID: 26447), Prob: 0.0014
+Token: ' cafe' (ID: 40930), Prob: 0.0014
+Token: ' whims' (ID: 69105), Prob: 0.0014
+Token: ' vulnerable' (ID: 19563), Prob: 0.0013
+Token: ' store' (ID: 3553), Prob: 0.0012
+Token: ' comfortable' (ID: 10655), Prob: 0.0012
+Token: ' dangerous' (ID: 11406), Prob: 0.0012
+Token: ' distracting' (ID: 81298), Prob: 0.0012
+Token: ' town' (ID: 6290), Prob: 0.0011
+Token: ' compromising' (ID: 75000), Prob: 0.0011
+Token: ' magical' (ID: 23702), Prob: 0.0011
+Token: ' problematic' (ID: 34933), Prob: 0.0011
+Token: ' special' (ID: 3281), Prob: 0.0010
+Token: ' low' (ID: 3347), Prob: 0.0010
+Token: ' meeting' (ID: 6438), Prob: 0.0010
+Token: ' neutral' (ID: 20628), Prob: 0.0010
+Token: ' curious' (ID: 22208), Prob: 0.0010
+Token: ' park' (ID: 6118), Prob: 0.0009
+Token: ' silly' (ID: 29471), Prob: 0.0009
+Token: ' suspicious' (ID: 31327), Prob: 0.0009
+Token: ' context' (ID: 2266), Prob: 0.0009
+Token: ' secret' (ID: 6234), Prob: 0.0009
+Token: ' specific' (ID: 3151), Prob: 0.0008
+Token: ' light' (ID: 3100), Prob: 0.0008
+Token: ' awkward' (ID: 28759), Prob: 0.0008
+Token: ' particular' (ID: 3953), Prob: 0.0007
+Token: ' negative' (ID: 8225), Prob: 0.0007
+Token: ' tense' (ID: 42687), Prob: 0.0007
+Token: ' wrong' (ID: 4969), Prob: 0.0006
+Token: ' sensitive' (ID: 16216), Prob: 0.0006
+Token: ' dramatic' (ID: 21771), Prob: 0.0006
+Token: ' completely' (ID: 6587), Prob: 0.0006
+Token: ' pub' (ID: 6675), Prob: 0.0006
+Token: ' coffee' (ID: 10799), Prob: 0.0006
+Token: ' pleasant' (ID: 23795), Prob: 0.0006
+Token: ' bad' (ID: 3873), Prob: 0.0005
+Token: ' group' (ID: 1874), Prob: 0.0005
+Token: ' small' (ID: 2613), Prob: 0.0005
+Token: ' cold' (ID: 9255), Prob: 0.0005
+Token: ' cute' (ID: 18838), Prob: 0.0005
 
 == Ranked Concepts (Clusters) ==
-Rank 1 | Centroid: ' old' | Score: 1.0000
-  Tokens: [' old', '(old', 'old', '-old', '\told', '.old', ' Old', '_old', ' OLD', 'OLD']
-Rank 2 | Centroid: ' older' | Score: 0.0001
-  Tokens: [' older', ' elderly', ' oldest', ' elder']
-Rank 3 | Centroid: ' young' | Score: 0.0000
-  Tokens: [' young', ' child']
-Rank 4 | Centroid: ' wide' | Score: 0.0000
-  Tokens: [' long', ' tall', ' wide']
-Rank 5 | Centroid: ' outdated' | Score: 0.0000
-  Tokens: [' ancient', ' outdated', ' obsolete']
-Rank 6 | Centroid: ' cold' | Score: 0.0000
-  Tokens: [' cold']
-Rank 7 | Centroid: ' empty' | Score: 0.0000
-  Tokens: [' oil', ' full', ' empty', ' open']
-Rank 8 | Centroid: ' slow' | Score: 0.0000
-  Tokens: [' slow', ' fast', ' easy', ' ultra']
-Rank 9 | Centroid: ' large' | Score: 0.0000
-  Tokens: [' large', ' small', ' high', ' great', ' low', ' strong']
-Rank 10 | Centroid: ' aged' | Score: 0.0000
-  Tokens: [' aged', ' aging', ' age']
-Rank 11 | Centroid: ' new' | Score: 0.0000
-  Tokens: [' new']
-Rank 12 | Centroid: ' along' | Score: 0.0000
-  Tokens: [' away', ' along', ' without']
-Rank 13 | Centroid: ' well' | Score: 0.0000
-  Tokens: [' well']
-Rank 14 | Centroid: ' always' | Score: 0.0000
-  Tokens: [' always', ' often', ' still']
-Rank 15 | Centroid: ' end' | Score: 0.0000
-  Tokens: [' end']
-Rank 16 | Centroid: ' late' | Score: 0.0000
-  Tokens: [' late']
-Rank 17 | Centroid: ' tired' | Score: 0.0000
-  Tokens: [' tired']
+Rank 1 | Centroid: ' strange' | Score: 0.2559
+  Tokens: [' strange', ' weird', ' mysterious', ' surprising', ' unexpected', ' unusual', ' peculiar', ' bizarre']
+Rank 2 | Centroid: ' manner' | Score: 0.2266
+  Tokens: [' way', ' situation', ' manner', ' moment', ' context']
+Rank 3 | Centroid: ' typical' | Score: 0.0928
+  Tokens: [' normal', ' typical', ' usual', ' familiar', ' common']
+Rank 4 | Centroid: ' setting' | Score: 0.0806
+  Tokens: [' place', ' setting', ' meeting', ' group']
+Rank 5 | Centroid: ' public' | Score: 0.0586
+  Tokens: [' public', ' private', ' pub']
+Rank 6 | Centroid: ' quirky' | Score: 0.0535
+  Tokens: [' playful', ' humorous', ' funny', ' quirky', ' lively', ' whims', ' magical', ' curious', ' silly', ' cute']
+Rank 7 | Centroid: ' casual' | Score: 0.0464
+  Tokens: [' casual', ' mundane', ' relaxed', ' trivial']
+Rank 8 | Centroid: ' dark' | Score: 0.0209
+  Tokens: [' non', ' dark', ' low', ' light', ' small', ' cold']
+Rank 9 | Centroid: ' fun' | Score: 0.0155
+  Tokens: [' fun']
+Rank 10 | Centroid: ' new' | Score: 0.0146
+  Tokens: [' different', ' new', ' foreign']
+Rank 11 | Centroid: ' pleasant' | Score: 0.0132
+  Tokens: [' harmless', ' friendly', ' safe', ' comfortable', ' pleasant']
+Rank 12 | Centroid: ' coffee' | Score: 0.0102
+  Tokens: [' room', ' workplace', ' cafe', ' store', ' town', ' park', ' coffee']
+Rank 13 | Centroid: ' confusing' | Score: 0.0095
+  Tokens: [' confusing', ' disturbing', ' dangerous', ' distracting', ' compromising', ' problematic', ' suspicious', ' awkward']
+Rank 14 | Centroid: ' social' | Score: 0.0076
+  Tokens: [' natural', ' social', ' formal']
+Rank 15 | Centroid: ' specific' | Score: 0.0058
+  Tokens: [' certain', ' unique', ' special', ' specific', ' particular']
+Rank 16 | Centroid: ' hidden' | Score: 0.0055
+  Tokens: [' secretive', ' hidden', ' subtle', ' secret']
+Rank 17 | Centroid: ' creepy' | Score: 0.0046
+  Tokens: [' creepy', ' chaotic']
+Rank 18 | Centroid: ' quiet' | Score: 0.0040
+  Tokens: [' quiet', ' neutral']
+Rank 19 | Centroid: ' serious' | Score: 0.0034
+  Tokens: [' serious', ' negative']
+Rank 20 | Centroid: ' romantic' | Score: 0.0025
+  Tokens: [' romantic', ' dramatic']
+Rank 21 | Centroid: ' seemingly' | Score: 0.0024
+  Tokens: [' seemingly']
+Rank 22 | Centroid: ' vulnerable' | Score: 0.0019
+  Tokens: [' vulnerable', ' sensitive']
+Rank 23 | Centroid: ' meaningful' | Score: 0.0016
+  Tokens: [' meaningful']
+Rank 24 | Centroid: ' wrong' | Score: 0.0011
+  Tokens: [' wrong', ' bad']
+Rank 25 | Centroid: ' tense' | Score: 0.0007
+  Tokens: [' tense']
+Rank 26 | Centroid: ' completely' | Score: 0.0006
+  Tokens: [' completely']
 
 **Chosen Concept:** Rank 1

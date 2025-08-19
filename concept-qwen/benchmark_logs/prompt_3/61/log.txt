@@ -1,0 +1,87 @@
+--- Step 61 Log ---
+
+== Filtered Candidates ==
+Token: ' could' (ID: 1410), Prob: 0.1592
+Token: ' might' (ID: 2578), Prob: 0.0007
+Token: ' include' (ID: 2924), Prob: 0.0004
+Token: ' involve' (ID: 21058), Prob: 0.0004
+Token: ' would' (ID: 1035), Prob: 0.0000
+Token: ' around' (ID: 2163), Prob: 0.0000
+Token: ' involving' (ID: 15860), Prob: 0.0000
+Token: ' based' (ID: 3118), Prob: 0.0000
+Token: ' suggest' (ID: 4190), Prob: 0.0000
+Token: ' without' (ID: 2041), Prob: 0.0000
+Token: ' people' (ID: 1251), Prob: 0.0000
+Token: ' inspired' (ID: 14606), Prob: 0.0000
+Token: ' within' (ID: 2878), Prob: 0.0000
+Token: ' related' (ID: 5435), Prob: 0.0000
+Token: ' like' (ID: 1075), Prob: 0.0000
+Token: ' considering' (ID: 12831), Prob: 0.0000
+Token: ' since' (ID: 2474), Prob: 0.0000
+Token: ' rev' (ID: 5772), Prob: 0.0000
+Token: ' often' (ID: 3545), Prob: 0.0000
+Token: ' stem' (ID: 19101), Prob: 0.0000
+Token: ' combine' (ID: 15963), Prob: 0.0000
+Token: ' depend' (ID: 6761), Prob: 0.0000
+Token: ' maybe' (ID: 7196), Prob: 0.0000
+Token: ' arise' (ID: 30789), Prob: 0.0000
+Token: ' range' (ID: 2088), Prob: 0.0000
+Token: ' consider' (ID: 2908), Prob: 0.0000
+Token: ' users' (ID: 3847), Prob: 0.0000
+Token: ' may' (ID: 1231), Prob: 0.0000
+Token: ' unfold' (ID: 27472), Prob: 0.0000
+Token: ' inspire' (ID: 30640), Prob: 0.0000
+Token: ' come' (ID: 2525), Prob: 0.0000
+Token: ' someone' (ID: 4325), Prob: 0.0000
+Token: ' quickly' (ID: 6157), Prob: 0.0000
+Token: ' given' (ID: 2661), Prob: 0.0000
+Token: ' outside' (ID: 4889), Prob: 0.0000
+Token: ' leading' (ID: 6388), Prob: 0.0000
+Token: ' angle' (ID: 9210), Prob: 0.0000
+Token: ' twist' (ID: 26646), Prob: 0.0000
+Token: ' relate' (ID: 28143), Prob: 0.0000
+Token: ' vary' (ID: 13289), Prob: 0.0000
+Token: ' options' (ID: 2606), Prob: 0.0000
+Token: ' combined' (ID: 10856), Prob: 0.0000
+Token: ' mirror' (ID: 17846), Prob: 0.0000
+Token: ' one' (ID: 825), Prob: 0.0000
+Token: ' align' (ID: 5285), Prob: 0.0000
+Token: ' beyond' (ID: 7797), Prob: 0.0000
+Token: ' brainstorm' (ID: 86781), Prob: 0.0000
+Token: ' lead' (ID: 2990), Prob: 0.0000
+Token: ' near' (ID: 3143), Prob: 0.0000
+Token: ' involved' (ID: 6398), Prob: 0.0000
+Token: ' nearby' (ID: 14046), Prob: 0.0000
+Token: ' using' (ID: 1667), Prob: 0.0000
+
+== Ranked Concepts (Clusters) ==
+Rank 1 | Centroid: ' might' | Score: 0.1602
+  Tokens: [' could', ' might', ' would', ' often', ' maybe', ' may']
+Rank 2 | Centroid: ' involve' | Score: 0.0004
+  Tokens: [' involve', ' involving', ' involved']
+Rank 3 | Centroid: ' vary' | Score: 0.0004
+  Tokens: [' include', ' suggest', ' depend', ' arise', ' come', ' relate', ' vary']
+Rank 4 | Centroid: ' within' | Score: 0.0001
+  Tokens: [' around', ' within', ' outside', ' beyond', ' near', ' nearby']
+Rank 5 | Centroid: ' based' | Score: 0.0000
+  Tokens: [' based', ' related', ' like']
+Rank 6 | Centroid: ' without' | Score: 0.0000
+  Tokens: [' without', ' since', ' given', ' using']
+Rank 7 | Centroid: ' mirror' | Score: 0.0000
+  Tokens: [' rev', ' stem', ' unfold', ' angle', ' twist', ' mirror', ' align']
+Rank 8 | Centroid: ' people' | Score: 0.0000
+  Tokens: [' people', ' users', ' someone', ' one']
+Rank 9 | Centroid: ' inspire' | Score: 0.0000
+  Tokens: [' inspired', ' inspire', ' brainstorm']
+Rank 10 | Centroid: ' considering' | Score: 0.0000
+  Tokens: [' considering', ' consider']
+Rank 11 | Centroid: ' combine' | Score: 0.0000
+  Tokens: [' combine', ' combined']
+Rank 12 | Centroid: ' range' | Score: 0.0000
+  Tokens: [' range', ' options']
+Rank 13 | Centroid: ' leading' | Score: 0.0000
+  Tokens: [' leading', ' lead']
+Rank 14 | Centroid: ' quickly' | Score: 0.0000
+  Tokens: [' quickly']
+
+**Chosen Concept:** Rank 1

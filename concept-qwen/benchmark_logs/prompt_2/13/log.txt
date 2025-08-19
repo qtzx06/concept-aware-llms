@@ -1,150 +1,148 @@
 --- Step 13 Log ---
 
 == Filtered Candidates ==
-Token: ' include' (ID: 2924), Prob: 0.2598
-Token: ' help' (ID: 1492), Prob: 0.1387
-Token: ' vary' (ID: 13289), Prob: 0.0742
-Token: ' overlap' (ID: 27248), Prob: 0.0214
-Token: ' differ' (ID: 1745), Prob: 0.0101
-Token: ' show' (ID: 1473), Prob: 0.0045
-Token: ' contain' (ID: 6644), Prob: 0.0042
-Token: ' also' (ID: 1083), Prob: 0.0037
-Token: ' look' (ID: 1401), Prob: 0.0029
-Token: ' come' (ID: 2525), Prob: 0.0024
-Token: ' need' (ID: 1184), Prob: 0.0022
-Token: ' indicate' (ID: 13216), Prob: 0.0019
-Token: ' give' (ID: 2968), Prob: 0.0016
-Token: ' make' (ID: 1281), Prob: 0.0015
-Token: ' suggest' (ID: 4190), Prob: 0.0015
-Token: ' require' (ID: 1373), Prob: 0.0009
-Token: ' add' (ID: 912), Prob: 0.0008
-Token: ' appear' (ID: 4994), Prob: 0.0007
-Token: ' range' (ID: 2088), Prob: 0.0006
-Token: ' change' (ID: 2297), Prob: 0.0006
-Token: ' take' (ID: 1896), Prob: 0.0006
-Token: ' cover' (ID: 3421), Prob: 0.0006
-Token: ' consist' (ID: 6685), Prob: 0.0006
-Token: ' get' (ID: 633), Prob: 0.0005
-Token: ' point' (ID: 1459), Prob: 0.0005
-Token: ' use' (ID: 990), Prob: 0.0005
-Token: ' list' (ID: 1140), Prob: 0.0005
-Token: ' provide' (ID: 3410), Prob: 0.0005
-Token: ' repeat' (ID: 13153), Prob: 0.0005
-Token: ' refer' (ID: 8300), Prob: 0.0004
-Token: ' say' (ID: 1977), Prob: 0.0004
-Token: ' depend' (ID: 6761), Prob: 0.0004
-Token: ' seem' (ID: 2803), Prob: 0.0003
-Token: ' lead' (ID: 2990), Prob: 0.0003
-Token: ' describe' (ID: 7512), Prob: 0.0003
-Token: ' involve' (ID: 21058), Prob: 0.0003
-Token: ' follow' (ID: 1795), Prob: 0.0003
-Token: ' increase' (ID: 5263), Prob: 0.0003
-Token: ' mention' (ID: 6286), Prob: 0.0003
-Token: ' sometimes' (ID: 7025), Prob: 0.0003
-Token: ' assist' (ID: 7789), Prob: 0.0003
-Token: ' reflect' (ID: 8708), Prob: 0.0003
-Token: ' confuse' (ID: 58117), Prob: 0.0003
-Token: ' form' (ID: 1352), Prob: 0.0003
-Token: ' matter' (ID: 4925), Prob: 0.0003
-Token: ' exceed' (ID: 12488), Prob: 0.0003
-Token: ' influence' (ID: 10173), Prob: 0.0002
-Token: ' extend' (ID: 13036), Prob: 0.0002
-Token: ' allow' (ID: 2138), Prob: 0.0002
-Token: ' explain' (ID: 10339), Prob: 0.0002
-Token: ' conflict' (ID: 12055), Prob: 0.0002
-Token: ' work' (ID: 975), Prob: 0.0002
-Token: ' improve' (ID: 7269), Prob: 0.0002
-Token: ' highlight' (ID: 11167), Prob: 0.0002
-Token: ' contradict' (ID: 42461), Prob: 0.0002
-Token: ' start' (ID: 1191), Prob: 0.0002
-Token: ' support' (ID: 1824), Prob: 0.0002
-Token: ' exist' (ID: 3000), Prob: 0.0002
-Token: ' relate' (ID: 28143), Prob: 0.0002
-Token: ' count' (ID: 1760), Prob: 0.0002
-Token: ' represent' (ID: 4009), Prob: 0.0002
-Token: ' like' (ID: 1075), Prob: 0.0002
-Token: ' affect' (ID: 7802), Prob: 0.0002
-Token: ' clarify' (ID: 37163), Prob: 0.0002
-Token: ' apply' (ID: 3796), Prob: 0.0001
-Token: ' expand' (ID: 9225), Prob: 0.0001
-Token: ' diver' (ID: 36341), Prob: 0.0001
-Token: ' still' (ID: 2058), Prob: 0.0001
-Token: ' focus' (ID: 5244), Prob: 0.0001
-Token: ' resemble' (ID: 51180), Prob: 0.0001
-Token: ' guide' (ID: 8474), Prob: 0.0001
-Token: ' serve' (ID: 8683), Prob: 0.0001
-Token: ' want' (ID: 1366), Prob: 0.0001
-Token: ' create' (ID: 1855), Prob: 0.0001
-Token: ' offer' (ID: 3010), Prob: 0.0001
-Token: ' contribute' (ID: 16792), Prob: 0.0001
-Token: ' intersect' (ID: 31796), Prob: 0.0001
-Token: ' inter' (ID: 946), Prob: 0.0001
-Token: ' consider' (ID: 2908), Prob: 0.0001
-Token: ' even' (ID: 1496), Prob: 0.0001
-Token: ' state' (ID: 1584), Prob: 0.0001
-Token: ' answer' (ID: 4226), Prob: 0.0001
-Token: ' includes' (ID: 5646), Prob: 0.0001
-Token: ' mis' (ID: 5786), Prob: 0.0001
-Token: ' span' (ID: 9390), Prob: 0.0001
-Token: ' spread' (ID: 8865), Prob: 0.0001
-Token: ' match' (ID: 2432), Prob: 0.0001
+Token: ' given' (ID: 2661), Prob: 0.9297
+Token: ' statement' (ID: 5114), Prob: 0.0596
+Token: ' provided' (ID: 3897), Prob: 0.0055
+Token: ' specific' (ID: 3151), Prob: 0.0012
+Token: ' original' (ID: 4024), Prob: 0.0012
+Token: ' sentence' (ID: 11652), Prob: 0.0007
+Token: ' user' (ID: 1196), Prob: 0.0002
+Token: ' message' (ID: 1943), Prob: 0.0001
+Token: ' specified' (ID: 5189), Prob: 0.0001
+Token: ' key' (ID: 1376), Prob: 0.0001
+Token: ' phrase' (ID: 17133), Prob: 0.0000
+Token: ' instruction' (ID: 7600), Prob: 0.0000
+Token: ' new' (ID: 501), Prob: 0.0000
+Token: ' quote' (ID: 12641), Prob: 0.0000
+Token: ' initial' (ID: 2856), Prob: 0.0000
+Token: ' query' (ID: 3239), Prob: 0.0000
+Token: ' prompt' (ID: 9934), Prob: 0.0000
+Token: ' exact' (ID: 4734), Prob: 0.0000
+Token: ' final' (ID: 1590), Prob: 0.0000
+Token: ' story' (ID: 3364), Prob: 0.0000
+Token: ' main' (ID: 1887), Prob: 0.0000
+Token: ' existing' (ID: 6350), Prob: 0.0000
+Token: ' mentioned' (ID: 9733), Prob: 0.0000
+Token: ' stated' (ID: 10982), Prob: 0.0000
+Token: ' added' (ID: 3694), Prob: 0.0000
+Token: ' last' (ID: 1537), Prob: 0.0000
+Token: ' embedded' (ID: 22864), Prob: 0.0000
+Token: ' paragraph' (ID: 14311), Prob: 0.0000
+Token: ' inserted' (ID: 21578), Prob: 0.0000
+Token: ' required' (ID: 2567), Prob: 0.0000
+Token: ' bullet' (ID: 17432), Prob: 0.0000
+Token: ' statements' (ID: 12239), Prob: 0.0000
+Token: ' target' (ID: 2169), Prob: 0.0000
+Token: ' example' (ID: 3110), Prob: 0.0000
+Token: ' recent' (ID: 3213), Prob: 0.0000
+Token: ' news' (ID: 3669), Prob: 0.0000
+Token: ' person' (ID: 1697), Prob: 0.0000
+Token: ' invitation' (ID: 28688), Prob: 0.0000
+Token: ' text' (ID: 1467), Prob: 0.0000
+Token: ' highlighted' (ID: 26366), Prob: 0.0000
+Token: ' response' (ID: 2033), Prob: 0.0000
+Token: ' narrative' (ID: 19221), Prob: 0.0000
+Token: ' additional' (ID: 5107), Prob: 0.0000
+Token: ' student' (ID: 5458), Prob: 0.0000
+Token: ' sentiment' (ID: 25975), Prob: 0.0000
+Token: ' insertion' (ID: 35927), Prob: 0.0000
+Token: 'given' (ID: 41968), Prob: 0.0000
+Token: ' particular' (ID: 3953), Prob: 0.0000
+Token: ' chosen' (ID: 11882), Prob: 0.0000
+Token: ' extended' (ID: 11577), Prob: 0.0000
+Token: ' requested' (ID: 11223), Prob: 0.0000
+Token: ' passage' (ID: 21085), Prob: 0.0000
+Token: ' revised' (ID: 31728), Prob: 0.0000
+Token: ' assistant' (ID: 17847), Prob: 0.0000
+Token: ' input' (ID: 1946), Prob: 0.0000
+Token: ' task' (ID: 3383), Prob: 0.0000
+Token: ' inner' (ID: 9179), Prob: 0.0000
+Token: ' line' (ID: 1555), Prob: 0.0000
+Token: ' modified' (ID: 10807), Prob: 0.0000
+Token: ' summary' (ID: 12126), Prob: 0.0000
+Token: ' emotional' (ID: 14269), Prob: 0.0000
+Token: ' second' (ID: 2086), Prob: 0.0000
+Token: ' passenger' (ID: 23148), Prob: 0.0000
+Token: ' short' (ID: 2805), Prob: 0.0000
+Token: ' selected' (ID: 4091), Prob: 0.0000
+Token: ' content' (ID: 2213), Prob: 0.0000
+Token: ' following' (ID: 2701), Prob: 0.0000
+Token: ' relevant' (ID: 9760), Prob: 0.0000
+Token: ' mention' (ID: 6286), Prob: 0.0000
+Token: ' quoted' (ID: 23237), Prob: 0.0000
+Token: ' correct' (ID: 4396), Prob: 0.0000
+Token: ' internal' (ID: 5306), Prob: 0.0000
+Token: ' previous' (ID: 3681), Prob: 0.0000
+Token: ' medical' (ID: 6457), Prob: 0.0000
+Token: ' part' (ID: 949), Prob: 0.0000
+Token: ' comment' (ID: 3980), Prob: 0.0000
+Token: ' latest' (ID: 5535), Prob: 0.0000
+Token: ' tweet' (ID: 11809), Prob: 0.0000
+Token: ' nested' (ID: 24034), Prob: 0.0000
+Token: ' company' (ID: 2813), Prob: 0.0000
+Token: ' core' (ID: 6200), Prob: 0.0000
+Token: ' announcement' (ID: 17043), Prob: 0.0000
+Token: ' starter' (ID: 26697), Prob: 0.0000
+Token: ' personal' (ID: 4345), Prob: 0.0000
+Token: ' extra' (ID: 4960), Prob: 0.0000
+Token: ' current' (ID: 1482), Prob: 0.0000
+Token: ' insert' (ID: 5656), Prob: 0.0000
+Token: ' journey' (ID: 11618), Prob: 0.0000
+Token: ' special' (ID: 3281), Prob: 0.0000
+Token: ' thought' (ID: 3381), Prob: 0.0000
+Token: ' notice' (ID: 5293), Prob: 0.0000
+Token: ' meta' (ID: 8823), Prob: 0.0000
+Token: ' notification' (ID: 11540), Prob: 0.0000
+Token: ' keyword' (ID: 16174), Prob: 0.0000
+Token: ' fact' (ID: 2097), Prob: 0.0000
+Token: ' generated' (ID: 7907), Prob: 0.0000
+Token: ' hidden' (ID: 8177), Prob: 0.0000
 
 == Ranked Concepts (Clusters) ==
-Rank 1 | Centroid: ' include' | Score: 0.2656
-  Tokens: [' include', ' contain', ' consist', ' involve', ' includes']
-Rank 2 | Centroid: ' assist' | Score: 0.1396
-  Tokens: [' help', ' assist', ' support', ' guide']
-Rank 3 | Centroid: ' vary' | Score: 0.0850
-  Tokens: [' vary', ' differ', ' depend', ' exceed', ' exist']
-Rank 4 | Centroid: ' intersect' | Score: 0.0222
-  Tokens: [' overlap', ' conflict', ' contradict', ' diver', ' intersect', ' inter', ' mis']
-Rank 5 | Centroid: ' follow' | Score: 0.0056
-  Tokens: [' look', ' come', ' follow']
-Rank 6 | Centroid: ' show' | Score: 0.0049
-  Tokens: [' show', ' say']
-Rank 7 | Centroid: ' also' | Score: 0.0043
-  Tokens: [' also', ' sometimes', ' like', ' still', ' even']
-Rank 8 | Centroid: ' indicate' | Score: 0.0042
-  Tokens: [' indicate', ' suggest', ' describe', ' explain', ' highlight']
-Rank 9 | Centroid: ' create' | Score: 0.0037
-  Tokens: [' make', ' add', ' take', ' get', ' apply', ' create']
-Rank 10 | Centroid: ' need' | Score: 0.0033
-  Tokens: [' need', ' require', ' want']
-Rank 11 | Centroid: ' provide' | Score: 0.0026
-  Tokens: [' give', ' provide', ' allow', ' serve', ' offer']
-Rank 12 | Centroid: ' list' | Score: 0.0013
-  Tokens: [' point', ' list', ' count', ' state']
-Rank 13 | Centroid: ' seem' | Score: 0.0012
-  Tokens: [' appear', ' seem', ' resemble']
-Rank 14 | Centroid: ' represent' | Score: 0.0010
-  Tokens: [' refer', ' reflect', ' relate', ' represent']
-Rank 15 | Centroid: ' change' | Score: 0.0009
-  Tokens: [' change', ' increase']
-Rank 16 | Centroid: ' use' | Score: 0.0009
-  Tokens: [' use', ' work', ' start']
-Rank 17 | Centroid: ' expand' | Score: 0.0008
-  Tokens: [' repeat', ' extend', ' expand']
-Rank 18 | Centroid: ' span' | Score: 0.0008
-  Tokens: [' range', ' span', ' spread']
-Rank 19 | Centroid: ' cover' | Score: 0.0007
-  Tokens: [' cover', ' focus']
-Rank 20 | Centroid: ' lead' | Score: 0.0006
-  Tokens: [' lead', ' form']
-Rank 21 | Centroid: ' confuse' | Score: 0.0004
-  Tokens: [' confuse', ' clarify']
-Rank 22 | Centroid: ' influence' | Score: 0.0004
-  Tokens: [' influence', ' affect']
-Rank 23 | Centroid: ' improve' | Score: 0.0003
-  Tokens: [' improve', ' contribute']
-Rank 24 | Centroid: ' mention' | Score: 0.0003
-  Tokens: [' mention']
-Rank 25 | Centroid: ' matter' | Score: 0.0003
-  Tokens: [' matter']
-Rank 26 | Centroid: ' consider' | Score: 0.0001
-  Tokens: [' consider']
-Rank 27 | Centroid: ' answer' | Score: 0.0001
-  Tokens: [' answer']
-Rank 28 | Centroid: ' match' | Score: 0.0001
-  Tokens: [' match']
+Rank 1 | Centroid: ' given' | Score: 0.9336
+  Tokens: [' given', ' provided', 'given', ' following']
+Rank 2 | Centroid: ' phrase' | Score: 0.0603
+  Tokens: [' statement', ' sentence', ' phrase', ' quote', ' paragraph', ' bullet', ' statements', ' quoted', ' keyword']
+Rank 3 | Centroid: ' previous' | Score: 0.0013
+  Tokens: [' original', ' new', ' initial', ' final', ' existing', ' last', ' recent', ' second', ' previous', ' latest', ' current']
+Rank 4 | Centroid: ' specific' | Score: 0.0012
+  Tokens: [' specific', ' exact', ' particular', ' special']
+Rank 5 | Centroid: ' person' | Score: 0.0002
+  Tokens: [' user', ' person', ' student', ' assistant', ' emotional', ' passenger', ' medical', ' company', ' personal']
+Rank 6 | Centroid: ' notification' | Score: 0.0002
+  Tokens: [' message', ' instruction', ' prompt', ' example', ' news', ' invitation', ' announcement', ' notice', ' notification']
+Rank 7 | Centroid: ' stated' | Score: 0.0001
+  Tokens: [' specified', ' mentioned', ' stated', ' highlighted']
+Rank 8 | Centroid: ' core' | Score: 0.0001
+  Tokens: [' key', ' main', ' target', ' core']
+Rank 9 | Centroid: ' query' | Score: 0.0000
+  Tokens: [' query', ' response', ' task']
+Rank 10 | Centroid: ' narrative' | Score: 0.0000
+  Tokens: [' story', ' narrative', ' sentiment', ' passage', ' tweet', ' journey']
+Rank 11 | Centroid: ' inserted' | Score: 0.0000
+  Tokens: [' embedded', ' inserted', ' insertion', ' insert']
+Rank 12 | Centroid: ' additional' | Score: 0.0000
+  Tokens: [' added', ' additional', ' extended', ' revised', ' modified', ' extra']
+Rank 13 | Centroid: ' selected' | Score: 0.0000
+  Tokens: [' required', ' chosen', ' requested', ' selected', ' relevant']
+Rank 14 | Centroid: ' text' | Score: 0.0000
+  Tokens: [' text', ' line', ' short', ' content', ' part', ' fact']
+Rank 15 | Centroid: ' inner' | Score: 0.0000
+  Tokens: [' inner', ' internal', ' nested']
+Rank 16 | Centroid: ' input' | Score: 0.0000
+  Tokens: [' input']
+Rank 17 | Centroid: ' mention' | Score: 0.0000
+  Tokens: [' mention', ' comment']
+Rank 18 | Centroid: ' hidden' | Score: 0.0000
+  Tokens: [' thought', ' meta', ' hidden']
+Rank 19 | Centroid: ' summary' | Score: 0.0000
+  Tokens: [' summary']
+Rank 20 | Centroid: ' correct' | Score: 0.0000
+  Tokens: [' correct']
+Rank 21 | Centroid: ' starter' | Score: 0.0000
+  Tokens: [' starter']
+Rank 22 | Centroid: ' generated' | Score: 0.0000
+  Tokens: [' generated']
 
 **Chosen Concept:** Rank 1

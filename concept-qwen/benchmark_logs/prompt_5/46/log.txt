@@ -1,113 +1,155 @@
 --- Step 46 Log ---
 
 == Filtered Candidates ==
-Token: ' make' (ID: 1281), Prob: 1.0000
-Token: ' also' (ID: 1083), Prob: 0.0001
-Token: ' making' (ID: 3259), Prob: 0.0000
-Token: ' made' (ID: 1865), Prob: 0.0000
-Token: ' makes' (ID: 3643), Prob: 0.0000
-Token: ' still' (ID: 2058), Prob: 0.0000
-Token: ' definitely' (ID: 8491), Prob: 0.0000
-Token: 'make' (ID: 6927), Prob: 0.0000
-Token: ' take' (ID: 1896), Prob: 0.0000
-Token: ' Make' (ID: 7405), Prob: 0.0000
-Token: ' mean' (ID: 3076), Prob: 0.0000
-Token: ' likely' (ID: 4363), Prob: 0.0000
-Token: ' seem' (ID: 2803), Prob: 0.0000
-Token: ' probably' (ID: 4658), Prob: 0.0000
-Token: ' logically' (ID: 73045), Prob: 0.0000
-Token: ' clearly' (ID: 9355), Prob: 0.0000
-Token: ' mak' (ID: 50916), Prob: 0.0000
-Token: ' need' (ID: 1184), Prob: 0.0000
-Token: ' include' (ID: 2924), Prob: 0.0000
-Token: ' please' (ID: 4486), Prob: 0.0000
-Token: ' match' (ID: 2432), Prob: 0.0000
-Token: ' sense' (ID: 5530), Prob: 0.0000
-Token: ' certainly' (ID: 7838), Prob: 0.0000
-Token: ' indeed' (ID: 12824), Prob: 0.0000
-Token: ' maken' (ID: 54056), Prob: 0.0000
-Token: ' mostly' (ID: 10008), Prob: 0.0000
-Token: ' work' (ID: 975), Prob: 0.0000
-Token: '.make' (ID: 10117), Prob: 0.0000
-Token: '(make' (ID: 36944), Prob: 0.0000
-Token: ' read' (ID: 1349), Prob: 0.0000
-Token: ' meet' (ID: 3367), Prob: 0.0000
-Token: ' contain' (ID: 6644), Prob: 0.0000
-Token: ' actually' (ID: 3520), Prob: 0.0000
-Token: ' look' (ID: 1401), Prob: 0.0000
-Token: ' math' (ID: 6888), Prob: 0.0000
-Token: ' MAKE' (ID: 36821), Prob: 0.0000
-Token: ' appear' (ID: 4994), Prob: 0.0000
-Token: ' relate' (ID: 28143), Prob: 0.0000
-Token: ' technically' (ID: 31554), Prob: 0.0000
-Token: ' support' (ID: 1824), Prob: 0.0000
-Token: ' generally' (ID: 8789), Prob: 0.0000
-Token: ' give' (ID: 2968), Prob: 0.0000
-Token: ' always' (ID: 2677), Prob: 0.0000
-Token: ' sound' (ID: 5112), Prob: 0.0000
-Token: ' communicate' (ID: 19032), Prob: 0.0000
-Token: ' require' (ID: 1373), Prob: 0.0000
-Token: ' thus' (ID: 8450), Prob: 0.0000
-Token: ' necessarily' (ID: 14312), Prob: 0.0000
-Token: ' satisfy' (ID: 26553), Prob: 0.0000
-Token: ' correspond' (ID: 7866), Prob: 0.0000
-Token: ' therefore' (ID: 8916), Prob: 0.0000
-Token: '	make' (ID: 77438), Prob: 0.0000
-Token: ' say' (ID: 1977), Prob: 0.0000
-Token: ' matter' (ID: 4925), Prob: 0.0000
-Token: ' mainly' (ID: 14576), Prob: 0.0000
-Token: ' represent' (ID: 4009), Prob: 0.0000
-Token: ' align' (ID: 5285), Prob: 0.0000
-Token: ' indicate' (ID: 13216), Prob: 0.0000
-Token: ' fit' (ID: 4946), Prob: 0.0000
-Token: 'Make' (ID: 8078), Prob: 0.0000
-Token: ' reasonably' (ID: 28446), Prob: 0.0000
-Token: ' use' (ID: 990), Prob: 0.0000
-Token: ' form' (ID: 1352), Prob: 0.0000
-Token: ' find' (ID: 1477), Prob: 0.0000
-Token: ' typically' (ID: 11136), Prob: 0.0000
-Token: ' end' (ID: 835), Prob: 0.0000
-Token: ' follow' (ID: 1795), Prob: 0.0000
-Token: ' accept' (ID: 4193), Prob: 0.0000
-Token: ' correctly' (ID: 12440), Prob: 0.0000
-Token: ' feel' (ID: 2666), Prob: 0.0000
-Token: ' directly' (ID: 5961), Prob: 0.0000
+Token: ' user' (ID: 1196), Prob: 0.3730
+Token: ' text' (ID: 1467), Prob: 0.3301
+Token: ' original' (ID: 4024), Prob: 0.1377
+Token: ' suggestion' (ID: 23776), Prob: 0.1069
+Token: ' input' (ID: 1946), Prob: 0.0099
+Token: ' example' (ID: 3110), Prob: 0.0060
+Token: ' initial' (ID: 2856), Prob: 0.0047
+Token: ' suggested' (ID: 11827), Prob: 0.0047
+Token: ' first' (ID: 1156), Prob: 0.0042
+Token: ' prompt' (ID: 9934), Prob: 0.0042
+Token: ' sample' (ID: 6077), Prob: 0.0037
+Token: ' suggestions' (ID: 18225), Prob: 0.0025
+Token: ' instruction' (ID: 7600), Prob: 0.0020
+Token: ' person' (ID: 1697), Prob: 0.0015
+Token: ' main' (ID: 1887), Prob: 0.0012
+Token: ' task' (ID: 3383), Prob: 0.0012
+Token: ' key' (ID: 1376), Prob: 0.0005
+Token: ' provided' (ID: 3897), Prob: 0.0005
+Token: ' given' (ID: 2661), Prob: 0.0003
+Token: ' recommendation' (ID: 27682), Prob: 0.0003
+Token: ' suggest' (ID: 4190), Prob: 0.0003
+Token: ' story' (ID: 3364), Prob: 0.0003
+Token: ' sentence' (ID: 11652), Prob: 0.0003
+Token: ' idea' (ID: 4522), Prob: 0.0001
+Token: ' starting' (ID: 5916), Prob: 0.0001
+Token: ' source' (ID: 2530), Prob: 0.0001
+Token: ' passage' (ID: 21085), Prob: 0.0001
+Token: ' start' (ID: 1191), Prob: 0.0001
+Token: ' problem' (ID: 3491), Prob: 0.0001
+Token: ' request' (ID: 1681), Prob: 0.0001
+Token: ' assistant' (ID: 17847), Prob: 0.0001
+Token: ' draft' (ID: 9960), Prob: 0.0001
+Token: ' response' (ID: 2033), Prob: 0.0001
+Token: ' question' (ID: 3405), Prob: 0.0001
+Token: ' word' (ID: 3409), Prob: 0.0001
+Token: ' advice' (ID: 9462), Prob: 0.0001
+Token: ' character' (ID: 3668), Prob: 0.0001
+Token: ' article' (ID: 4549), Prob: 0.0001
+Token: ' customer' (ID: 6002), Prob: 0.0001
+Token: ' sug' (ID: 30605), Prob: 0.0001
+Token: ' query' (ID: 3239), Prob: 0.0001
+Token: ' core' (ID: 6200), Prob: 0.0001
+Token: ' instructions' (ID: 11221), Prob: 0.0001
 Token: ' mention' (ID: 6286), Prob: 0.0000
+Token: ' beginning' (ID: 7167), Prob: 0.0000
+Token: ' song' (ID: 5492), Prob: 0.0000
+Token: ' hint' (ID: 13012), Prob: 0.0000
+Token: ' starter' (ID: 26697), Prob: 0.0000
+Token: ' title' (ID: 2265), Prob: 0.0000
+Token: ' scene' (ID: 6109), Prob: 0.0000
+Token: ' raw' (ID: 7112), Prob: 0.0000
+Token: ' invitation' (ID: 28688), Prob: 0.0000
+Token: ' author' (ID: 3150), Prob: 0.0000
+Token: ' student' (ID: 5458), Prob: 0.0000
+Token: ' existing' (ID: 6350), Prob: 0.0000
+Token: ' suggesting' (ID: 22561), Prob: 0.0000
+Token: ' message' (ID: 1943), Prob: 0.0000
+Token: ' phrase' (ID: 17133), Prob: 0.0000
+Token: ' new' (ID: 501), Prob: 0.0000
+Token: ' name' (ID: 829), Prob: 0.0000
+Token: ' combination' (ID: 10601), Prob: 0.0000
+Token: ' scenario' (ID: 15048), Prob: 0.0000
+Token: ' possible' (ID: 3204), Prob: 0.0000
+Token: ' recipe' (ID: 11116), Prob: 0.0000
+Token: ' inspiration' (ID: 19760), Prob: 0.0000
+Token: ' child' (ID: 1682), Prob: 0.0000
+Token: ' template' (ID: 3811), Prob: 0.0000
+Token: ' summary' (ID: 12126), Prob: 0.0000
+Token: ' description' (ID: 4008), Prob: 0.0000
+Token: ' default' (ID: 1638), Prob: 0.0000
+Token: ' image' (ID: 2168), Prob: 0.0000
+Token: ' content' (ID: 2213), Prob: 0.0000
+Token: ' users' (ID: 3847), Prob: 0.0000
+Token: ' paragraph' (ID: 14311), Prob: 0.0000
+Token: ' thing' (ID: 3166), Prob: 0.0000
+Token: ' current' (ID: 1482), Prob: 0.0000
+Token: ' opening' (ID: 8568), Prob: 0.0000
+Token: ' final' (ID: 1590), Prob: 0.0000
+Token: ' thought' (ID: 3381), Prob: 0.0000
+Token: ' guidance' (ID: 18821), Prob: 0.0000
+Token: ' target' (ID: 2169), Prob: 0.0000
+Token: ' characters' (ID: 5766), Prob: 0.0000
+Token: ' protagonist' (ID: 45584), Prob: 0.0000
+Token: ' direction' (ID: 5106), Prob: 0.0000
+Token: ' meeting' (ID: 6438), Prob: 0.0000
+Token: ' selection' (ID: 6589), Prob: 0.0000
+Token: ' teacher' (ID: 11079), Prob: 0.0000
+Token: ' recommended' (ID: 11102), Prob: 0.0000
+Token: ' outline' (ID: 21101), Prob: 0.0000
+Token: ' context' (ID: 2266), Prob: 0.0000
+Token: ' short' (ID: 2805), Prob: 0.0000
+Token: ' setting' (ID: 6243), Prob: 0.0000
+Token: ' note' (ID: 5185), Prob: 0.0000
+Token: ' script' (ID: 5316), Prob: 0.0000
+Token: ' narrative' (ID: 19221), Prob: 0.0000
+Token: ' girl' (ID: 3743), Prob: 0.0000
+Token: ' output' (ID: 2550), Prob: 0.0000
+Token: ' options' (ID: 2606), Prob: 0.0000
+Token: ' primary' (ID: 6028), Prob: 0.0000
+Token: ' simulation' (ID: 19038), Prob: 0.0000
 
 == Ranked Concepts (Clusters) ==
-Rank 1 | Centroid: ' make' | Score: 1.0000
-  Tokens: [' make', ' making', ' made', ' makes', 'make', ' Make', ' mak', ' maken', '.make', '(make', ' MAKE', '\tmake', 'Make']
-Rank 2 | Centroid: ' still' | Score: 0.0001
-  Tokens: [' also', ' still', ' always']
-Rank 3 | Centroid: ' definitely' | Score: 0.0000
-  Tokens: [' definitely', ' clearly', ' certainly', ' indeed', ' actually']
-Rank 4 | Centroid: ' mostly' | Score: 0.0000
-  Tokens: [' likely', ' probably', ' mostly', ' generally', ' necessarily', ' mainly', ' typically']
-Rank 5 | Centroid: ' take' | Score: 0.0000
-  Tokens: [' take', ' read', ' look', ' find', ' follow', ' accept']
-Rank 6 | Centroid: ' seem' | Score: 0.0000
-  Tokens: [' seem', ' please', ' appear']
-Rank 7 | Centroid: ' mean' | Score: 0.0000
-  Tokens: [' mean', ' say']
-Rank 8 | Centroid: ' require' | Score: 0.0000
-  Tokens: [' need', ' include', ' contain', ' give', ' require', ' mention']
-Rank 9 | Centroid: ' reasonably' | Score: 0.0000
-  Tokens: [' logically', ' technically', ' reasonably', ' correctly', ' directly']
-Rank 10 | Centroid: ' match' | Score: 0.0000
-  Tokens: [' match', ' align', ' fit']
-Rank 11 | Centroid: ' feel' | Score: 0.0000
-  Tokens: [' sense', ' sound', ' feel']
-Rank 12 | Centroid: ' use' | Score: 0.0000
-  Tokens: [' work', ' support', ' use', ' form', ' end']
-Rank 13 | Centroid: ' satisfy' | Score: 0.0000
-  Tokens: [' meet', ' communicate', ' satisfy']
-Rank 14 | Centroid: ' represent' | Score: 0.0000
-  Tokens: [' relate', ' correspond', ' represent', ' indicate']
-Rank 15 | Centroid: ' thus' | Score: 0.0000
-  Tokens: [' thus', ' therefore']
-Rank 16 | Centroid: ' math' | Score: 0.0000
-  Tokens: [' math']
-Rank 17 | Centroid: ' matter' | Score: 0.0000
-  Tokens: [' matter']
+Rank 1 | Centroid: ' user' | Score: 0.3750
+  Tokens: [' user', ' person', ' customer', ' student', ' child', ' users', ' girl']
+Rank 2 | Centroid: ' title' | Score: 0.3301
+  Tokens: [' text', ' title', ' name', ' content']
+Rank 3 | Centroid: ' initial' | Score: 0.1484
+  Tokens: [' original', ' initial', ' first', ' main', ' key', ' core', ' raw', ' new', ' default', ' current', ' final', ' short', ' primary']
+Rank 4 | Centroid: ' suggest' | Score: 0.1147
+  Tokens: [' suggestion', ' suggested', ' suggestions', ' recommendation', ' suggest', ' sug', ' hint', ' suggesting', ' recommended']
+Rank 5 | Centroid: ' input' | Score: 0.0101
+  Tokens: [' input', ' source', ' target', ' output']
+Rank 6 | Centroid: ' sample' | Score: 0.0097
+  Tokens: [' example', ' sample', ' template']
+Rank 7 | Centroid: ' request' | Score: 0.0044
+  Tokens: [' prompt', ' request', ' response', ' query', ' message']
+Rank 8 | Centroid: ' instructions' | Score: 0.0022
+  Tokens: [' instruction', ' advice', ' instructions', ' invitation', ' guidance', ' direction']
+Rank 9 | Centroid: ' problem' | Score: 0.0014
+  Tokens: [' task', ' problem', ' question']
+Rank 10 | Centroid: ' provided' | Score: 0.0008
+  Tokens: [' provided', ' given', ' context', ' options']
+Rank 11 | Centroid: ' sentence' | Score: 0.0006
+  Tokens: [' sentence', ' passage', ' word', ' article', ' song', ' phrase', ' paragraph']
+Rank 12 | Centroid: ' starting' | Score: 0.0004
+  Tokens: [' starting', ' start', ' beginning', ' starter', ' opening']
+Rank 13 | Centroid: ' narrative' | Score: 0.0003
+  Tokens: [' story', ' recipe', ' description', ' narrative']
+Rank 14 | Centroid: ' idea' | Score: 0.0002
+  Tokens: [' idea', ' thing', ' thought']
+Rank 15 | Centroid: ' teacher' | Score: 0.0001
+  Tokens: [' assistant', ' author', ' teacher']
+Rank 16 | Centroid: ' outline' | Score: 0.0001
+  Tokens: [' draft', ' summary', ' outline']
+Rank 17 | Centroid: ' characters' | Score: 0.0001
+  Tokens: [' character', ' characters', ' protagonist']
+Rank 18 | Centroid: ' scenario' | Score: 0.0001
+  Tokens: [' scene', ' combination', ' scenario']
+Rank 19 | Centroid: ' existing' | Score: 0.0001
+  Tokens: [' existing', ' possible']
+Rank 20 | Centroid: ' mention' | Score: 0.0001
+  Tokens: [' mention', ' note']
+Rank 21 | Centroid: ' image' | Score: 0.0000
+  Tokens: [' image', ' script']
+Rank 22 | Centroid: ' meeting' | Score: 0.0000
+  Tokens: [' meeting', ' setting']
+Rank 23 | Centroid: ' selection' | Score: 0.0000
+  Tokens: [' selection', ' simulation']
+Rank 24 | Centroid: ' inspiration' | Score: 0.0000
+  Tokens: [' inspiration']
 
 **Chosen Concept:** Rank 1

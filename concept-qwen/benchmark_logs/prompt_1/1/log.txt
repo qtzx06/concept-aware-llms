@@ -1,49 +1,75 @@
 --- Step 1 Log ---
 
 == Filtered Candidates ==
-Token: 'Okay' (ID: 32313), Prob: 0.0232
-Token: 'Answer' (ID: 16141), Prob: 0.0110
-Token: 'Let' (ID: 10061), Prob: 0.0096
-Token: 'Alright' (ID: 71486), Prob: 0.0055
-Token: 'Make' (ID: 8078), Prob: 0.0033
-Token: 'Use' (ID: 10253), Prob: 0.0031
-Token: 'Maybe' (ID: 21390), Prob: 0.0016
-Token: 'First' (ID: 5338), Prob: 0.0012
-Token: 'Please' (ID: 5501), Prob: 0.0012
-Token: 'Using' (ID: 16429), Prob: 0.0012
-Token: 'Yes' (ID: 9454), Prob: 0.0010
-Token: 'Tell' (ID: 40451), Prob: 0.0010
-Token: 'Paragraph' (ID: 42165), Prob: 0.0009
-Token: 'Generate' (ID: 31115), Prob: 0.0008
-Token: 'Every' (ID: 11510), Prob: 0.0008
-Token: 'Sentence' (ID: 84564), Prob: 0.0007
-Token: 'One' (ID: 3966), Prob: 0.0006
-Token: 'Another' (ID: 14037), Prob: 0.0006
+Token: 'Narr' (ID: 63279), Prob: 0.0322
+Token: 'Write' (ID: 7985), Prob: 0.0267
+Token: 'Use' (ID: 10253), Prob: 0.0183
+Token: 'Instruction' (ID: 16664), Prob: 0.0067
+Token: 'First' (ID: 5338), Prob: 0.0060
+Token: 'Okay' (ID: 32313), Prob: 0.0056
+Token: 'Create' (ID: 4021), Prob: 0.0052
+Token: 'Story' (ID: 17938), Prob: 0.0038
+Token: 'Tell' (ID: 40451), Prob: 0.0034
+Token: 'Start' (ID: 3479), Prob: 0.0032
+Token: 'Alright' (ID: 71486), Prob: 0.0032
+Token: 'Let' (ID: 10061), Prob: 0.0030
+Token: 'Short' (ID: 12472), Prob: 0.0030
+Token: 'Using' (ID: 16429), Prob: 0.0028
+Token: 'Make' (ID: 8078), Prob: 0.0023
+Token: 'Writing' (ID: 39313), Prob: 0.0023
+Token: 'Instructions' (ID: 55291), Prob: 0.0022
+Token: 'Please' (ID: 5501), Prob: 0.0021
+Token: 'Title' (ID: 3851), Prob: 0.0019
+Token: 'Describe' (ID: 74785), Prob: 0.0018
+Token: 'Every' (ID: 11510), Prob: 0.0017
+Token: 'Generate' (ID: 31115), Prob: 0.0017
+Token: 'User' (ID: 1474), Prob: 0.0016
+Token: 'Provide' (ID: 60424), Prob: 0.0016
+Token: 'Guid' (ID: 16686), Prob: 0.0015
+Token: 'Craft' (ID: 38849), Prob: 0.0014
+Token: 'Response' (ID: 2582), Prob: 0.0013
+Token: 'Prim' (ID: 66191), Prob: 0.0013
+Token: 'Yes' (ID: 9454), Prob: 0.0012
+Token: 'Begin' (ID: 11135), Prob: 0.0012
+Token: '"The' (ID: 10022), Prob: 0.0011
+Token: '"In' (ID: 32603), Prob: 0.0011
+Token: 'Prem' (ID: 41462), Prob: 0.0011
+Token: 'Take' (ID: 17814), Prob: 0.0010
+Token: 'Paragraph' (ID: 42165), Prob: 0.0010
+Token: 'Dialogue' (ID: 82890), Prob: 0.0009
+Token: 'Good' (ID: 15216), Prob: 0.0008
+Token: 'Based' (ID: 28715), Prob: 0.0008
 
 == Ranked Concepts (Clusters) ==
-Rank 1 | Centroid: 'Okay' | Score: 0.0287
-  Tokens: ['Okay', 'Alright']
-Rank 2 | Centroid: 'Answer' | Score: 0.0110
-  Tokens: ['Answer']
-Rank 3 | Centroid: 'Let' | Score: 0.0108
-  Tokens: ['Let', 'Please']
-Rank 4 | Centroid: 'Use' | Score: 0.0043
-  Tokens: ['Use', 'Using']
-Rank 5 | Centroid: 'Make' | Score: 0.0042
-  Tokens: ['Make', 'Generate']
-Rank 6 | Centroid: 'Maybe' | Score: 0.0016
-  Tokens: ['Maybe']
-Rank 7 | Centroid: 'Paragraph' | Score: 0.0016
-  Tokens: ['Paragraph', 'Sentence']
-Rank 8 | Centroid: 'One' | Score: 0.0012
-  Tokens: ['One', 'Another']
-Rank 9 | Centroid: 'First' | Score: 0.0012
-  Tokens: ['First']
-Rank 10 | Centroid: 'Yes' | Score: 0.0010
-  Tokens: ['Yes']
-Rank 11 | Centroid: 'Tell' | Score: 0.0010
-  Tokens: ['Tell']
-Rank 12 | Centroid: 'Every' | Score: 0.0008
-  Tokens: ['Every']
+Rank 1 | Centroid: 'Story' | Score: 0.0396
+  Tokens: ['Narr', 'Story', 'Tell']
+Rank 2 | Centroid: 'Write' | Score: 0.0291
+  Tokens: ['Write', 'Writing']
+Rank 3 | Centroid: 'Using' | Score: 0.0220
+  Tokens: ['Use', 'Using', 'Based']
+Rank 4 | Centroid: 'Create' | Score: 0.0127
+  Tokens: ['Create', 'Make', 'Describe', 'Generate', 'Provide']
+Rank 5 | Centroid: 'Instruction' | Score: 0.0104
+  Tokens: ['Instruction', 'Instructions', 'Guid']
+Rank 6 | Centroid: 'Okay' | Score: 0.0096
+  Tokens: ['Okay', 'Alright', 'Good']
+Rank 7 | Centroid: 'First' | Score: 0.0090
+  Tokens: ['First', 'Short']
+Rank 8 | Centroid: 'Let' | Score: 0.0079
+  Tokens: ['Let', 'Please', 'Every', 'Yes']
+Rank 9 | Centroid: 'Start' | Score: 0.0054
+  Tokens: ['Start', 'Begin', 'Take']
+Rank 10 | Centroid: 'Title' | Score: 0.0035
+  Tokens: ['Title', 'User']
+Rank 11 | Centroid: 'Prim' | Score: 0.0023
+  Tokens: ['Prim', 'Prem']
+Rank 12 | Centroid: '"The' | Score: 0.0022
+  Tokens: ['"The', '"In']
+Rank 13 | Centroid: 'Paragraph' | Score: 0.0018
+  Tokens: ['Paragraph', 'Dialogue']
+Rank 14 | Centroid: 'Craft' | Score: 0.0014
+  Tokens: ['Craft']
+Rank 15 | Centroid: 'Response' | Score: 0.0013
+  Tokens: ['Response']
 
 **Chosen Concept:** Rank 1

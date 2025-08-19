@@ -1,134 +1,111 @@
 --- Step 30 Log ---
 
 == Filtered Candidates ==
-Token: ' overwhelmed' (ID: 42106), Prob: 0.8242
-Token: ' lost' (ID: 5558), Prob: 0.0410
-Token: ' helpless' (ID: 62528), Prob: 0.0182
-Token: ' sad' (ID: 12421), Prob: 0.0125
-Token: ' sadness' (ID: 50878), Prob: 0.0067
-Token: ' broken' (ID: 10865), Prob: 0.0052
-Token: ' overwhelming' (ID: 22024), Prob: 0.0049
-Token: ' something' (ID: 2494), Prob: 0.0036
-Token: ' deep' (ID: 5538), Prob: 0.0034
-Token: ' deeply' (ID: 17247), Prob: 0.0032
-Token: ' intense' (ID: 18894), Prob: 0.0028
-Token: ' heart' (ID: 4746), Prob: 0.0026
-Token: ' vulnerable' (ID: 19563), Prob: 0.0025
-Token: ' completely' (ID: 6587), Prob: 0.0023
-Token: ' lonely' (ID: 39566), Prob: 0.0018
-Token: ' trapped' (ID: 30591), Prob: 0.0017
-Token: ' tears' (ID: 23139), Prob: 0.0014
-Token: ' desperate' (ID: 27395), Prob: 0.0014
-Token: ' exhausted' (ID: 37919), Prob: 0.0013
-Token: ' hopeless' (ID: 74223), Prob: 0.0012
-Token: ' emotions' (ID: 21261), Prob: 0.0010
-Token: ' upset' (ID: 22459), Prob: 0.0009
-Token: ' like' (ID: 1075), Prob: 0.0008
-Token: ' pain' (ID: 6646), Prob: 0.0008
-Token: ' alone' (ID: 7484), Prob: 0.0008
-Token: ' crushed' (ID: 32645), Prob: 0.0007
-Token: ' defeated' (ID: 23283), Prob: 0.0007
-Token: ' empty' (ID: 4287), Prob: 0.0006
-Token: ' emotional' (ID: 14269), Prob: 0.0006
-Token: ' incredibly' (ID: 16815), Prob: 0.0006
-Token: ' stuck' (ID: 15700), Prob: 0.0005
-Token: ' unable' (ID: 11889), Prob: 0.0005
-Token: ' sorrow' (ID: 57496), Prob: 0.0005
-Token: ' everything' (ID: 4297), Prob: 0.0004
+Token: ' outside' (ID: 4889), Prob: 0.0198
+Token: ' associated' (ID: 5815), Prob: 0.0128
+Token: ' called' (ID: 2598), Prob: 0.0077
+Token: ' like' (ID: 1075), Prob: 0.0060
+Token: ' different' (ID: 2155), Prob: 0.0060
+Token: ' similar' (ID: 4428), Prob: 0.0060
+Token: ' related' (ID: 5435), Prob: 0.0039
+Token: ' within' (ID: 2878), Prob: 0.0032
+Token: ' specific' (ID: 3151), Prob: 0.0025
+Token: ' unique' (ID: 4911), Prob: 0.0025
+Token: ' known' (ID: 3881), Prob: 0.0020
+Token: ' named' (ID: 6941), Prob: 0.0018
+Token: ' used' (ID: 1483), Prob: 0.0014
+Token: ' located' (ID: 7407), Prob: 0.0014
+Token: ' described' (ID: 7481), Prob: 0.0014
+Token: ' famous' (ID: 11245), Prob: 0.0013
+Token: ' appropriate' (ID: 8311), Prob: 0.0012
+Token: ' typical' (ID: 14260), Prob: 0.0011
+Token: ' one' (ID: 825), Prob: 0.0009
+Token: ' set' (ID: 738), Prob: 0.0009
+Token: ' common' (ID: 4185), Prob: 0.0008
+Token: ' based' (ID: 3118), Prob: 0.0008
+Token: ' name' (ID: 829), Prob: 0.0007
+Token: ' near' (ID: 3143), Prob: 0.0007
+Token: ' representing' (ID: 14064), Prob: 0.0006
+Token: ' visited' (ID: 11994), Prob: 0.0006
+Token: ' commonly' (ID: 16626), Prob: 0.0006
+Token: ' setting' (ID: 6243), Prob: 0.0005
+Token: ' connected' (ID: 8433), Prob: 0.0005
+Token: ' rich' (ID: 9080), Prob: 0.0005
+Token: ' mentioned' (ID: 9733), Prob: 0.0005
+Token: ' relevant' (ID: 9760), Prob: 0.0005
+Token: ' traditionally' (ID: 35242), Prob: 0.0005
+Token: ' important' (ID: 2989), Prob: 0.0005
+Token: ' beyond' (ID: 7797), Prob: 0.0005
+Token: ' filled' (ID: 10199), Prob: 0.0005
+Token: ' apart' (ID: 10747), Prob: 0.0005
+Token: ' inside' (ID: 4766), Prob: 0.0004
+Token: ' whose' (ID: 6693), Prob: 0.0004
+Token: ' typically' (ID: 11136), Prob: 0.0004
 Token: ' full' (ID: 2480), Prob: 0.0004
-Token: ' hurt' (ID: 12898), Prob: 0.0004
-Token: ' alive' (ID: 13675), Prob: 0.0004
-Token: ' devastated' (ID: 57997), Prob: 0.0004
-Token: ' abandoned' (ID: 22978), Prob: 0.0004
-Token: ' emotionally' (ID: 37583), Prob: 0.0004
-Token: ' despair' (ID: 45896), Prob: 0.0004
-Token: ' pure' (ID: 10526), Prob: 0.0003
-Token: ' powerless' (ID: 84352), Prob: 0.0003
-Token: ' compelled' (ID: 47884), Prob: 0.0003
-Token: ' strong' (ID: 3746), Prob: 0.0003
-Token: ' overwhelm' (ID: 95748), Prob: 0.0003
-Token: ' raw' (ID: 7112), Prob: 0.0003
-Token: ' overcome' (ID: 22279), Prob: 0.0003
-Token: ' joy' (ID: 15888), Prob: 0.0002
-Token: ' relieved' (ID: 50412), Prob: 0.0002
-Token: ' sorry' (ID: 14589), Prob: 0.0002
-Token: ' emotion' (ID: 19772), Prob: 0.0002
-Token: ' overwhelmingly' (ID: 54634), Prob: 0.0002
-Token: ' filled' (ID: 10199), Prob: 0.0002
-Token: ' intensely' (ID: 69633), Prob: 0.0002
-Token: ' terrible' (ID: 17478), Prob: 0.0002
-Token: ' frustrated' (ID: 32530), Prob: 0.0002
-Token: ' utterly' (ID: 37531), Prob: 0.0002
-Token: ' loss' (ID: 4709), Prob: 0.0002
-Token: ' genuine' (ID: 22011), Prob: 0.0002
-Token: ' left' (ID: 2115), Prob: 0.0002
-Token: ' guilty' (ID: 16007), Prob: 0.0002
-Token: ' angry' (ID: 18514), Prob: 0.0002
-Token: ' powerful' (ID: 7988), Prob: 0.0002
-Token: ' heavy' (ID: 8811), Prob: 0.0002
-Token: ' profound' (ID: 27155), Prob: 0.0002
-Token: ' really' (ID: 2167), Prob: 0.0001
-Token: ' extremely' (ID: 9016), Prob: 0.0001
-Token: ' truly' (ID: 9428), Prob: 0.0001
-Token: ' weak' (ID: 7469), Prob: 0.0001
-Token: ' anxious' (ID: 37000), Prob: 0.0001
-Token: ' washed' (ID: 37493), Prob: 0.0001
-Token: ' longing' (ID: 78322), Prob: 0.0001
-Token: ' complete' (ID: 4583), Prob: 0.0001
-Token: ' tired' (ID: 19227), Prob: 0.0001
-Token: ' tear' (ID: 17576), Prob: 0.0001
-Token: ' torn' (ID: 21145), Prob: 0.0001
-Token: ' numb' (ID: 56271), Prob: 0.0001
-Token: ' wide' (ID: 6884), Prob: 0.0001
-Token: ' confused' (ID: 21815), Prob: 0.0001
-Token: ' suppressed' (ID: 54989), Prob: 0.0001
-Token: ' disappointed' (ID: 24402), Prob: 0.0001
-Token: ' awful' (ID: 24607), Prob: 0.0001
+Token: ' historically' (ID: 34801), Prob: 0.0004
+Token: ' suitable' (ID: 14452), Prob: 0.0004
+Token: ' distinct' (ID: 12460), Prob: 0.0003
+Token: ' reflecting' (ID: 41752), Prob: 0.0003
+Token: ' without' (ID: 2041), Prob: 0.0003
+Token: ' according' (ID: 4092), Prob: 0.0003
+Token: ' shared' (ID: 6094), Prob: 0.0003
+Token: ' familiar' (ID: 11285), Prob: 0.0003
+Token: ' representative' (ID: 18239), Prob: 0.0003
+Token: ' reserved' (ID: 4591), Prob: 0.0003
+Token: ' symbol' (ID: 7735), Prob: 0.0003
+Token: ' occupied' (ID: 24367), Prob: 0.0003
+Token: ' belonging' (ID: 32052), Prob: 0.0003
+Token: ' characterized' (ID: 31871), Prob: 0.0002
+Token: ' specifically' (ID: 11689), Prob: 0.0002
+Token: ' chosen' (ID: 11882), Prob: 0.0002
+Token: ' inspired' (ID: 14606), Prob: 0.0002
+Token: ' reminiscent' (ID: 54985), Prob: 0.0002
+Token: ' marked' (ID: 12864), Prob: 0.0002
+Token: ' somewhere' (ID: 14696), Prob: 0.0002
+Token: ' unfamiliar' (ID: 49283), Prob: 0.0002
 
 == Ranked Concepts (Clusters) ==
-Rank 1 | Centroid: ' overwhelming' | Score: 0.8281
-  Tokens: [' overwhelmed', ' overwhelming', ' overwhelm', ' overcome', ' overwhelmingly']
-Rank 2 | Centroid: ' lost' | Score: 0.0420
-  Tokens: [' lost', ' like', ' loss', ' left']
-Rank 3 | Centroid: ' helpless' | Score: 0.0219
-  Tokens: [' helpless', ' vulnerable', ' unable', ' powerless', ' compelled', ' guilty']
-Rank 4 | Centroid: ' sorrow' | Score: 0.0201
-  Tokens: [' sad', ' sadness', ' sorrow', ' despair', ' longing']
-Rank 5 | Centroid: ' profound' | Score: 0.0096
-  Tokens: [' deep', ' deeply', ' intense', ' intensely', ' profound']
-Rank 6 | Centroid: ' abandoned' | Score: 0.0095
-  Tokens: [' broken', ' trapped', ' crushed', ' defeated', ' stuck', ' abandoned', ' confused', ' suppressed']
-Rank 7 | Centroid: ' desperate' | Score: 0.0044
-  Tokens: [' lonely', ' desperate', ' hopeless']
-Rank 8 | Centroid: ' something' | Score: 0.0040
-  Tokens: [' something', ' everything']
-Rank 9 | Centroid: ' joy' | Score: 0.0036
-  Tokens: [' heart', ' pain', ' joy']
-Rank 10 | Centroid: ' incredibly' | Score: 0.0032
-  Tokens: [' completely', ' incredibly', ' utterly', ' extremely']
-Rank 11 | Centroid: ' frustrated' | Score: 0.0024
-  Tokens: [' exhausted', ' devastated', ' relieved', ' frustrated', ' tired', ' disappointed']
-Rank 12 | Centroid: ' emotional' | Score: 0.0022
-  Tokens: [' emotions', ' emotional', ' emotionally', ' emotion']
-Rank 13 | Centroid: ' pure' | Score: 0.0017
-  Tokens: [' alone', ' alive', ' pure', ' raw']
-Rank 14 | Centroid: ' tear' | Score: 0.0016
-  Tokens: [' tears', ' tear', ' torn']
-Rank 15 | Centroid: ' full' | Score: 0.0013
-  Tokens: [' empty', ' full', ' filled', ' complete']
-Rank 16 | Centroid: ' angry' | Score: 0.0012
-  Tokens: [' upset', ' angry', ' anxious']
-Rank 17 | Centroid: ' strong' | Score: 0.0008
-  Tokens: [' strong', ' powerful', ' heavy', ' weak', ' wide']
-Rank 18 | Centroid: ' hurt' | Score: 0.0006
-  Tokens: [' hurt', ' sorry']
-Rank 19 | Centroid: ' truly' | Score: 0.0005
-  Tokens: [' genuine', ' really', ' truly']
-Rank 20 | Centroid: ' terrible' | Score: 0.0003
-  Tokens: [' terrible', ' awful']
-Rank 21 | Centroid: ' washed' | Score: 0.0001
-  Tokens: [' washed']
-Rank 22 | Centroid: ' numb' | Score: 0.0001
-  Tokens: [' numb']
+Rank 1 | Centroid: ' within' | Score: 0.0251
+  Tokens: [' outside', ' within', ' near', ' beyond', ' inside', ' without', ' somewhere']
+Rank 2 | Centroid: ' associated' | Score: 0.0166
+  Tokens: [' associated', ' related']
+Rank 3 | Centroid: ' named' | Score: 0.0134
+  Tokens: [' called', ' known', ' named', ' famous', ' name']
+Rank 4 | Centroid: ' like' | Score: 0.0120
+  Tokens: [' like', ' similar']
+Rank 5 | Centroid: ' distinct' | Score: 0.0093
+  Tokens: [' different', ' unique', ' apart', ' distinct']
+Rank 6 | Centroid: ' described' | Score: 0.0036
+  Tokens: [' located', ' described', ' mentioned', ' characterized']
+Rank 7 | Centroid: ' typically' | Score: 0.0030
+  Tokens: [' typical', ' commonly', ' traditionally', ' typically', ' historically']
+Rank 8 | Centroid: ' specific' | Score: 0.0027
+  Tokens: [' specific', ' specifically']
+Rank 9 | Centroid: ' appropriate' | Score: 0.0026
+  Tokens: [' appropriate', ' relevant', ' important', ' suitable']
+Rank 10 | Centroid: ' set' | Score: 0.0023
+  Tokens: [' one', ' set', ' setting']
+Rank 11 | Centroid: ' used' | Score: 0.0017
+  Tokens: [' used', ' chosen']
+Rank 12 | Centroid: ' occupied' | Score: 0.0016
+  Tokens: [' visited', ' connected', ' reserved', ' occupied']
+Rank 13 | Centroid: ' representing' | Score: 0.0015
+  Tokens: [' representing', ' reflecting', ' representative', ' symbol']
+Rank 14 | Centroid: ' filled' | Score: 0.0014
+  Tokens: [' rich', ' filled', ' full']
+Rank 15 | Centroid: ' common' | Score: 0.0011
+  Tokens: [' common', ' shared']
+Rank 16 | Centroid: ' based' | Score: 0.0010
+  Tokens: [' based', ' according']
+Rank 17 | Centroid: ' familiar' | Score: 0.0005
+  Tokens: [' familiar', ' unfamiliar']
+Rank 18 | Centroid: ' inspired' | Score: 0.0005
+  Tokens: [' inspired', ' reminiscent']
+Rank 19 | Centroid: ' whose' | Score: 0.0004
+  Tokens: [' whose']
+Rank 20 | Centroid: ' belonging' | Score: 0.0003
+  Tokens: [' belonging']
+Rank 21 | Centroid: ' marked' | Score: 0.0002
+  Tokens: [' marked']
 
 **Chosen Concept:** Rank 1

@@ -1,158 +1,136 @@
 --- Step 73 Log ---
 
 == Filtered Candidates ==
-Token: ' forced' (ID: 9575), Prob: 0.7148
-Token: ' overly' (ID: 38432), Prob: 0.0405
-Token: ' clich' (ID: 62592), Prob: 0.0356
-Token: ' like' (ID: 1075), Prob: 0.0315
-Token: ' cheesy' (ID: 86747), Prob: 0.0278
-Token: ' excessive' (ID: 26541), Prob: 0.0103
-Token: ' awkward' (ID: 28759), Prob: 0.0070
-Token: ' rushed' (ID: 32241), Prob: 0.0058
-Token: ' repetitive' (ID: 58077), Prob: 0.0048
-Token: ' robotic' (ID: 58001), Prob: 0.0043
-Token: ' desperate' (ID: 27395), Prob: 0.0040
-Token: ' redundant' (ID: 47732), Prob: 0.0031
-Token: ' artificial' (ID: 20443), Prob: 0.0029
-Token: ' exaggerated' (ID: 61158), Prob: 0.0029
-Token: ' unnatural' (ID: 80746), Prob: 0.0024
-Token: ' melod' (ID: 96274), Prob: 0.0023
-Token: ' dramatic' (ID: 21771), Prob: 0.0020
-Token: ' stiff' (ID: 30061), Prob: 0.0020
-Token: ' abrupt' (ID: 42977), Prob: 0.0019
-Token: ' rehe' (ID: 47206), Prob: 0.0019
-Token: ' heavy' (ID: 8811), Prob: 0.0014
-Token: ' scripted' (ID: 85025), Prob: 0.0014
-Token: ' self' (ID: 656), Prob: 0.0012
-Token: ' contr' (ID: 6027), Prob: 0.0012
-Token: ' verbose' (ID: 13694), Prob: 0.0011
-Token: ' emotional' (ID: 14269), Prob: 0.0009
-Token: ' aggressive' (ID: 19188), Prob: 0.0009
-Token: ' generic' (ID: 13954), Prob: 0.0008
-Token: ' harsh' (ID: 24939), Prob: 0.0008
-Token: ' intrusive' (ID: 84910), Prob: 0.0008
-Token: ' fake' (ID: 12418), Prob: 0.0006
-Token: ' shallow' (ID: 25600), Prob: 0.0006
-Token: ' lengthy' (ID: 34206), Prob: 0.0006
-Token: ' mon' (ID: 1615), Prob: 0.0005
-Token: ' sentimental' (ID: 91938), Prob: 0.0005
-Token: ' weak' (ID: 7469), Prob: 0.0005
-Token: ' selfish' (ID: 44643), Prob: 0.0005
-Token: ' chaotic' (ID: 51987), Prob: 0.0004
-Token: ' mechanical' (ID: 22148), Prob: 0.0004
-Token: ' unnecessary' (ID: 25165), Prob: 0.0004
-Token: ' sad' (ID: 12421), Prob: 0.0004
-Token: ' pressured' (ID: 74351), Prob: 0.0003
-Token: ' manip' (ID: 14609), Prob: 0.0003
-Token: ' push' (ID: 4484), Prob: 0.0002
-Token: ' complicated' (ID: 16965), Prob: 0.0002
-Token: ' overwhelming' (ID: 22024), Prob: 0.0002
-Token: ' messy' (ID: 45846), Prob: 0.0002
-Token: ' confusing' (ID: 30615), Prob: 0.0002
-Token: ' hesitant' (ID: 70460), Prob: 0.0002
-Token: ' trivial' (ID: 35647), Prob: 0.0002
-Token: ' clutter' (ID: 53816), Prob: 0.0002
-Token: ' technical' (ID: 10916), Prob: 0.0002
-Token: ' lab' (ID: 10072), Prob: 0.0002
-Token: ' hurried' (ID: 72873), Prob: 0.0002
-Token: ' boast' (ID: 58127), Prob: 0.0002
-Token: ' inappropriate' (ID: 32681), Prob: 0.0002
-Token: ' exhausted' (ID: 37919), Prob: 0.0002
-Token: ' long' (ID: 1293), Prob: 0.0001
-Token: ' canned' (ID: 63014), Prob: 0.0001
-Token: ' obsessive' (ID: 83032), Prob: 0.0001
-Token: ' complex' (ID: 6351), Prob: 0.0001
-Token: ' word' (ID: 3409), Prob: 0.0001
-Token: ' lazy' (ID: 15678), Prob: 0.0001
-Token: ' confused' (ID: 21815), Prob: 0.0001
-Token: ' theatrical' (ID: 65233), Prob: 0.0001
-Token: ' clumsy' (ID: 93218), Prob: 0.0001
-Token: ' con' (ID: 390), Prob: 0.0001
-Token: ' personal' (ID: 4345), Prob: 0.0001
-Token: ' angry' (ID: 18514), Prob: 0.0001
-Token: ' strained' (ID: 72679), Prob: 0.0001
-Token: ' sarcast' (ID: 82267), Prob: 0.0001
-Token: ' childish' (ID: 93171), Prob: 0.0001
-Token: ' arrogant' (ID: 65368), Prob: 0.0001
-Token: ' bulky' (ID: 77821), Prob: 0.0001
-Token: ' compelled' (ID: 47884), Prob: 0.0001
-Token: ' narciss' (ID: 57198), Prob: 0.0001
-Token: ' ins' (ID: 1640), Prob: 0.0001
-Token: ' strange' (ID: 14888), Prob: 0.0001
-Token: ' tedious' (ID: 65738), Prob: 0.0001
-Token: ' unrealistic' (ID: 70885), Prob: 0.0001
-Token: ' dry' (ID: 9058), Prob: 0.0001
-Token: ' inadequate' (ID: 45479), Prob: 0.0001
-Token: ' silly' (ID: 29471), Prob: 0.0001
-Token: ' sales' (ID: 6625), Prob: 0.0001
-Token: ' accus' (ID: 25508), Prob: 0.0001
-Token: ' arch' (ID: 5325), Prob: 0.0001
-Token: ' intense' (ID: 18894), Prob: 0.0001
-Token: ' unclear' (ID: 24416), Prob: 0.0001
-Token: ' synthetic' (ID: 27268), Prob: 0.0001
-Token: ' passive' (ID: 27879), Prob: 0.0001
-Token: ' disjoint' (ID: 84784), Prob: 0.0001
+Token: ' meet' (ID: 3367), Prob: 0.2539
+Token: ' come' (ID: 2525), Prob: 0.1055
+Token: ' represent' (ID: 4009), Prob: 0.0342
+Token: ' emerge' (ID: 32944), Prob: 0.0250
+Token: ' interact' (ID: 16282), Prob: 0.0221
+Token: ' begin' (ID: 3161), Prob: 0.0152
+Token: ' find' (ID: 1477), Prob: 0.0143
+Token: ' enter' (ID: 3725), Prob: 0.0126
+Token: ' discover' (ID: 6997), Prob: 0.0104
+Token: ' learn' (ID: 3960), Prob: 0.0098
+Token: ' arrive' (ID: 17331), Prob: 0.0092
+Token: ' encounter' (ID: 12828), Prob: 0.0081
+Token: ' become' (ID: 3635), Prob: 0.0072
+Token: ' appear' (ID: 4994), Prob: 0.0072
+Token: ' develop' (ID: 2225), Prob: 0.0067
+Token: ' must' (ID: 1969), Prob: 0.0063
+Token: ' make' (ID: 1281), Prob: 0.0060
+Token: ' take' (ID: 1896), Prob: 0.0060
+Token: ' share' (ID: 4332), Prob: 0.0060
+Token: ' exchange' (ID: 9289), Prob: 0.0056
+Token: ' live' (ID: 3887), Prob: 0.0046
+Token: ' engage' (ID: 16579), Prob: 0.0046
+Token: ' experience' (ID: 3139), Prob: 0.0041
+Token: ' present' (ID: 3042), Prob: 0.0038
+Token: ' form' (ID: 1352), Prob: 0.0036
+Token: ' show' (ID: 1473), Prob: 0.0036
+Token: ' create' (ID: 1855), Prob: 0.0036
+Token: ' representing' (ID: 14064), Prob: 0.0032
+Token: ' introduce' (ID: 19131), Prob: 0.0030
+Token: ' converge' (ID: 79767), Prob: 0.0030
+Token: ' start' (ID: 1191), Prob: 0.0028
+Token: ' speak' (ID: 6468), Prob: 0.0022
+Token: ' communicate' (ID: 19032), Prob: 0.0022
+Token: ' face' (ID: 3579), Prob: 0.0021
+Token: ' move' (ID: 3271), Prob: 0.0018
+Token: ' connect' (ID: 4564), Prob: 0.0017
+Token: ' travel' (ID: 5821), Prob: 0.0017
+Token: ' return' (ID: 470), Prob: 0.0016
+Token: ' see' (ID: 1490), Prob: 0.0016
+Token: ' establish' (ID: 5695), Prob: 0.0015
+Token: ' discovered' (ID: 11105), Prob: 0.0015
+Token: ' confront' (ID: 16877), Prob: 0.0015
+Token: ' first' (ID: 1156), Prob: 0.0014
+Token: ' cross' (ID: 5312), Prob: 0.0014
+Token: ' reflect' (ID: 8708), Prob: 0.0014
+Token: ' represented' (ID: 15251), Prob: 0.0014
+Token: ' arise' (ID: 30789), Prob: 0.0014
+Token: ' change' (ID: 2297), Prob: 0.0013
+Token: ' across' (ID: 3941), Prob: 0.0013
+Token: ' explore' (ID: 13186), Prob: 0.0013
+Token: ' react' (ID: 13767), Prob: 0.0013
+Token: ' reach' (ID: 5545), Prob: 0.0011
+Token: ' transition' (ID: 9142), Prob: 0.0010
+Token: ' reveal' (ID: 16400), Prob: 0.0010
+Token: ' awaken' (ID: 41418), Prob: 0.0010
+Token: ' found' (ID: 1730), Prob: 0.0010
+Token: ' switch' (ID: 3398), Prob: 0.0010
+Token: ' visit' (ID: 3947), Prob: 0.0010
+Token: ' receive' (ID: 5258), Prob: 0.0010
+Token: ' describe' (ID: 7512), Prob: 0.0009
+Token: ' living' (ID: 5382), Prob: 0.0009
+Token: ' meeting' (ID: 6438), Prob: 0.0009
+Token: ' realize' (ID: 13083), Prob: 0.0009
+Token: ' get' (ID: 633), Prob: 0.0008
+Token: ' met' (ID: 2270), Prob: 0.0008
+Token: ' introduced' (ID: 11523), Prob: 0.0008
+Token: ' overcome' (ID: 22279), Prob: 0.0008
+Token: ' feel' (ID: 2666), Prob: 0.0008
+Token: ' talk' (ID: 3061), Prob: 0.0008
+Token: ' encountered' (ID: 23057), Prob: 0.0008
+Token: ' inter' (ID: 946), Prob: 0.0007
+Token: ' perform' (ID: 2736), Prob: 0.0007
+Token: ' understand' (ID: 3535), Prob: 0.0007
+Token: ' leave' (ID: 5274), Prob: 0.0007
+Token: ' identify' (ID: 10542), Prob: 0.0007
+Token: ' survive' (ID: 17697), Prob: 0.0007
+Token: ' relate' (ID: 28143), Prob: 0.0007
+Token: ' open' (ID: 1787), Prob: 0.0007
+Token: ' discuss' (ID: 4263), Prob: 0.0007
+Token: ' involved' (ID: 6398), Prob: 0.0007
+Token: ' set' (ID: 738), Prob: 0.0006
 
 == Ranked Concepts (Clusters) ==
-Rank 1 | Centroid: ' hurried' | Score: 0.7266
-  Tokens: [' forced', ' rushed', ' desperate', ' pressured', ' hurried', ' strained', ' compelled']
-Rank 2 | Centroid: ' excessive' | Score: 0.0544
-  Tokens: [' overly', ' excessive', ' redundant', ' unnecessary', ' inappropriate', ' inadequate']
-Rank 3 | Centroid: ' clich' | Score: 0.0359
-  Tokens: [' clich', ' clutter']
-Rank 4 | Centroid: ' word' | Score: 0.0320
-  Tokens: [' like', ' lab', ' word', ' arch']
-Rank 5 | Centroid: ' arrogant' | Score: 0.0288
-  Tokens: [' cheesy', ' selfish', ' sarcast', ' childish', ' arrogant', ' narciss', ' silly']
-Rank 6 | Centroid: ' clumsy' | Score: 0.0076
-  Tokens: [' awkward', ' messy', ' clumsy', ' bulky', ' tedious']
-Rank 7 | Centroid: ' mechanical' | Score: 0.0049
-  Tokens: [' robotic', ' mechanical', ' technical']
-Rank 8 | Centroid: ' exaggerated' | Score: 0.0048
-  Tokens: [' exaggerated', ' rehe']
-Rank 9 | Centroid: ' repetitive' | Score: 0.0048
-  Tokens: [' repetitive']
-Rank 10 | Centroid: ' lengthy' | Score: 0.0040
-  Tokens: [' heavy', ' verbose', ' harsh', ' lengthy', ' long']
-Rank 11 | Centroid: ' theatrical' | Score: 0.0040
-  Tokens: [' melod', ' scripted', ' boast', ' theatrical']
-Rank 12 | Centroid: ' dramatic' | Score: 0.0039
-  Tokens: [' dramatic', ' abrupt']
-Rank 13 | Centroid: ' artificial' | Score: 0.0036
-  Tokens: [' artificial', ' fake', ' synthetic']
-Rank 14 | Centroid: ' weak' | Score: 0.0032
-  Tokens: [' stiff', ' shallow', ' weak', ' lazy']
-Rank 15 | Centroid: ' unnatural' | Score: 0.0025
-  Tokens: [' unnatural', ' unrealistic']
-Rank 16 | Centroid: ' aggressive' | Score: 0.0018
-  Tokens: [' aggressive', ' intrusive', ' obsessive']
-Rank 17 | Centroid: ' generic' | Score: 0.0018
-  Tokens: [' generic', ' mon', ' manip', ' sales']
-Rank 18 | Centroid: ' con' | Score: 0.0014
-  Tokens: [' contr', ' con', ' ins']
-Rank 19 | Centroid: ' emotional' | Score: 0.0014
-  Tokens: [' emotional', ' sentimental']
-Rank 20 | Centroid: ' self' | Score: 0.0013
-  Tokens: [' self', ' personal']
-Rank 21 | Centroid: ' complicated' | Score: 0.0008
-  Tokens: [' chaotic', ' complicated', ' complex']
-Rank 22 | Centroid: ' confusing' | Score: 0.0006
-  Tokens: [' confusing', ' hesitant', ' confused', ' unclear']
-Rank 23 | Centroid: ' angry' | Score: 0.0006
-  Tokens: [' sad', ' angry', ' accus']
-Rank 24 | Centroid: ' overwhelming' | Score: 0.0003
-  Tokens: [' overwhelming', ' intense']
-Rank 25 | Centroid: ' trivial' | Score: 0.0003
-  Tokens: [' trivial', ' disjoint']
-Rank 26 | Centroid: ' push' | Score: 0.0002
-  Tokens: [' push']
-Rank 27 | Centroid: ' dry' | Score: 0.0002
-  Tokens: [' dry', ' passive']
-Rank 28 | Centroid: ' exhausted' | Score: 0.0002
-  Tokens: [' exhausted']
-Rank 29 | Centroid: ' canned' | Score: 0.0001
-  Tokens: [' canned']
-Rank 30 | Centroid: ' strange' | Score: 0.0001
-  Tokens: [' strange']
+Rank 1 | Centroid: ' meet' | Score: 0.2559
+  Tokens: [' meet', ' meeting', ' met']
+Rank 2 | Centroid: ' arise' | Score: 0.1553
+  Tokens: [' come', ' emerge', ' arrive', ' become', ' appear', ' arise']
+Rank 3 | Centroid: ' represent' | Score: 0.0403
+  Tokens: [' represent', ' representing', ' reflect', ' represented']
+Rank 4 | Centroid: ' engage' | Score: 0.0289
+  Tokens: [' interact', ' engage', ' communicate']
+Rank 5 | Centroid: ' discovered' | Score: 0.0272
+  Tokens: [' find', ' discover', ' discovered', ' found']
+Rank 6 | Centroid: ' identify' | Score: 0.0227
+  Tokens: [' learn', ' develop', ' establish', ' explore', ' reveal', ' realize', ' understand', ' identify']
+Rank 7 | Centroid: ' start' | Score: 0.0203
+  Tokens: [' begin', ' start', ' return', ' leave']
+Rank 8 | Centroid: ' make' | Score: 0.0164
+  Tokens: [' make', ' take', ' create', ' get']
+Rank 9 | Centroid: ' must' | Score: 0.0127
+  Tokens: [' must', ' form', ' first', ' open', ' set']
+Rank 10 | Centroid: ' enter' | Score: 0.0126
+  Tokens: [' enter']
+Rank 11 | Centroid: ' encounter' | Score: 0.0125
+  Tokens: [' encounter', ' face', ' confront', ' encountered']
+Rank 12 | Centroid: ' switch' | Score: 0.0107
+  Tokens: [' exchange', ' move', ' change', ' transition', ' switch']
+Rank 13 | Centroid: ' talk' | Score: 0.0096
+  Tokens: [' share', ' speak', ' talk', ' discuss']
+Rank 14 | Centroid: ' travel' | Score: 0.0068
+  Tokens: [' experience', ' travel', ' visit']
+Rank 15 | Centroid: ' live' | Score: 0.0055
+  Tokens: [' live', ' living']
+Rank 16 | Centroid: ' show' | Score: 0.0052
+  Tokens: [' show', ' see']
+Rank 17 | Centroid: ' present' | Score: 0.0045
+  Tokens: [' present', ' involved']
+Rank 18 | Centroid: ' relate' | Score: 0.0040
+  Tokens: [' connect', ' describe', ' perform', ' relate']
+Rank 19 | Centroid: ' introduce' | Score: 0.0038
+  Tokens: [' introduce', ' introduced']
+Rank 20 | Centroid: ' converge' | Score: 0.0038
+  Tokens: [' converge', ' overcome']
+Rank 21 | Centroid: ' cross' | Score: 0.0034
+  Tokens: [' cross', ' across', ' inter']
+Rank 22 | Centroid: ' receive' | Score: 0.0028
+  Tokens: [' reach', ' receive', ' feel']
+Rank 23 | Centroid: ' awaken' | Score: 0.0017
+  Tokens: [' awaken', ' survive']
+Rank 24 | Centroid: ' react' | Score: 0.0013
+  Tokens: [' react']
 
 **Chosen Concept:** Rank 1

@@ -1,112 +1,124 @@
 --- Step 139 Log ---
 
 == Filtered Candidates ==
-Token: ' grow' (ID: 3063), Prob: 1.0000
-Token: ' grown' (ID: 14700), Prob: 0.0002
-Token: ' growth' (ID: 6513), Prob: 0.0001
-Token: ' grows' (ID: 27715), Prob: 0.0001
-Token: ' growing' (ID: 7826), Prob: 0.0001
-Token: ' grew' (ID: 13938), Prob: 0.0000
-Token: ' get' (ID: 633), Prob: 0.0000
-Token: ' old' (ID: 2310), Prob: 0.0000
-Token: ' stay' (ID: 4717), Prob: 0.0000
-Token: ' age' (ID: 4231), Prob: 0.0000
-Token: ' become' (ID: 3635), Prob: 0.0000
-Token: ' raise' (ID: 4828), Prob: 0.0000
-Token: ' young' (ID: 3908), Prob: 0.0000
-Token: ' rise' (ID: 10000), Prob: 0.0000
-Token: ' eat' (ID: 8180), Prob: 0.0000
-Token: ' engage' (ID: 16579), Prob: 0.0000
-Token: 'grow' (ID: 66218), Prob: 0.0000
-Token: ' round' (ID: 4778), Prob: 0.0000
-Token: ' leave' (ID: 5274), Prob: 0.0000
-Token: ' mature' (ID: 14851), Prob: 0.0000
-Token: ' Grow' (ID: 46560), Prob: 0.0000
-Token: ' keep' (ID: 2506), Prob: 0.0000
-Token: ' start' (ID: 1191), Prob: 0.0000
-Token: ' live' (ID: 3887), Prob: 0.0000
-Token: ' take' (ID: 1896), Prob: 0.0000
-Token: ' make' (ID: 1281), Prob: 0.0000
-Token: ' sleep' (ID: 6084), Prob: 0.0000
-Token: ' gather' (ID: 9567), Prob: 0.0000
-Token: ' use' (ID: 990), Prob: 0.0000
-Token: ' read' (ID: 1349), Prob: 0.0000
-Token: ' group' (ID: 1874), Prob: 0.0000
-Token: ' continue' (ID: 3060), Prob: 0.0000
-Token: ' cross' (ID: 5312), Prob: 0.0000
-Token: ' reach' (ID: 5545), Prob: 0.0000
-Token: ' long' (ID: 1293), Prob: 0.0000
-Token: ' choose' (ID: 5157), Prob: 0.0000
-Token: ' spend' (ID: 8329), Prob: 0.0000
-Token: ' forget' (ID: 10667), Prob: 0.0000
-Token: ' develop' (ID: 2225), Prob: 0.0000
-Token: ' move' (ID: 3271), Prob: 0.0000
-Token: ' care' (ID: 2453), Prob: 0.0000
-Token: ' ask' (ID: 2548), Prob: 0.0000
-Token: ' gain' (ID: 8722), Prob: 0.0000
-Token: ' graduate' (ID: 19023), Prob: 0.0000
-Token: ' groom' (ID: 39841), Prob: 0.0000
-Token: ' years' (ID: 1635), Prob: 0.0000
-Token: ' catch' (ID: 2287), Prob: 0.0000
-Token: ' focus' (ID: 5244), Prob: 0.0000
-Token: ' give' (ID: 2968), Prob: 0.0000
-Token: ' generate' (ID: 6923), Prob: 0.0000
-Token: ' aged' (ID: 19749), Prob: 0.0000
-Token: ' foster' (ID: 29987), Prob: 0.0000
-Token: ' open' (ID: 1787), Prob: 0.0000
-Token: ' come' (ID: 2525), Prob: 0.0000
-Token: ' feel' (ID: 2666), Prob: 0.0000
-Token: ' close' (ID: 3265), Prob: 0.0000
-Token: ' green' (ID: 6176), Prob: 0.0000
-Token: ' older' (ID: 9014), Prob: 0.0000
-Token: ' forever' (ID: 15683), Prob: 0.0000
-Token: ' look' (ID: 1401), Prob: 0.0000
-Token: ' across' (ID: 3941), Prob: 0.0000
-Token: ' run' (ID: 1598), Prob: 0.0000
-Token: ' walk' (ID: 4227), Prob: 0.0000
-Token: ' younger' (ID: 14650), Prob: 0.0000
-Token: ' youth' (ID: 12537), Prob: 0.0000
-Token: ' garden' (ID: 13551), Prob: 0.0000
-Token: ' learn' (ID: 3960), Prob: 0.0000
+Token: ' usually' (ID: 5990), Prob: 0.1641
+Token: ' know' (ID: 1414), Prob: 0.0415
+Token: ' normally' (ID: 14279), Prob: 0.0222
+Token: ' would' (ID: 1035), Prob: 0.0153
+Token: ' might' (ID: 2578), Prob: 0.0134
+Token: ' expect' (ID: 1720), Prob: 0.0118
+Token: ' think' (ID: 1744), Prob: 0.0092
+Token: ' rarely' (ID: 18521), Prob: 0.0092
+Token: ' typically' (ID: 11136), Prob: 0.0044
+Token: ' never' (ID: 2581), Prob: 0.0030
+Token: ' often' (ID: 3545), Prob: 0.0023
+Token: ' used' (ID: 1483), Prob: 0.0021
+Token: ' assume' (ID: 9658), Prob: 0.0021
+Token: ' associate' (ID: 21946), Prob: 0.0021
+Token: ' commonly' (ID: 16626), Prob: 0.0012
+Token: ' find' (ID: 1477), Prob: 0.0010
+Token: ' forget' (ID: 10667), Prob: 0.0010
+Token: ' else' (ID: 770), Prob: 0.0009
+Token: ' notice' (ID: 5293), Prob: 0.0009
+Token: ' avoid' (ID: 5648), Prob: 0.0008
+Token: ' otherwise' (ID: 5937), Prob: 0.0008
+Token: ' generally' (ID: 8789), Prob: 0.0007
+Token: ' visit' (ID: 3947), Prob: 0.0007
+Token: ' already' (ID: 2669), Prob: 0.0006
+Token: ' tend' (ID: 8376), Prob: 0.0006
+Token: ' use' (ID: 990), Prob: 0.0006
+Token: ' consider' (ID: 2908), Prob: 0.0006
+Token: ' see' (ID: 1490), Prob: 0.0005
+Token: ' remember' (ID: 6099), Prob: 0.0005
+Token: ' suspect' (ID: 15207), Prob: 0.0005
+Token: ' thought' (ID: 3381), Prob: 0.0004
+Token: ' previously' (ID: 8597), Prob: 0.0004
+Token: ' seldom' (ID: 55352), Prob: 0.0003
+Token: ' need' (ID: 1184), Prob: 0.0003
+Token: ' want' (ID: 1366), Prob: 0.0002
+Token: ' come' (ID: 2525), Prob: 0.0002
+Token: ' probably' (ID: 4658), Prob: 0.0002
+Token: ' fear' (ID: 8679), Prob: 0.0002
+Token: ' take' (ID: 1896), Prob: 0.0002
+Token: ' expected' (ID: 3601), Prob: 0.0002
+Token: ' get' (ID: 633), Prob: 0.0002
+Token: ' look' (ID: 1401), Prob: 0.0002
+Token: ' tell' (ID: 3291), Prob: 0.0002
+Token: ' knew' (ID: 6876), Prob: 0.0002
+Token: ' traditionally' (ID: 35242), Prob: 0.0002
+Token: ' could' (ID: 1410), Prob: 0.0002
+Token: ' recognize' (ID: 15282), Prob: 0.0002
+Token: ' may' (ID: 1231), Prob: 0.0002
+Token: ' talk' (ID: 3061), Prob: 0.0002
+Token: ' believe' (ID: 4411), Prob: 0.0002
+Token: ' ask' (ID: 2548), Prob: 0.0001
+Token: ' wonder' (ID: 5775), Prob: 0.0001
+Token: ' try' (ID: 1430), Prob: 0.0001
+Token: ' call' (ID: 1618), Prob: 0.0001
+Token: ' love' (ID: 2948), Prob: 0.0001
+Token: ' whisper' (ID: 34855), Prob: 0.0001
+Token: ' walk' (ID: 4227), Prob: 0.0001
+Token: ' predict' (ID: 7023), Prob: 0.0001
+Token: ' ignore' (ID: 10034), Prob: 0.0001
+Token: ' miss' (ID: 3116), Prob: 0.0001
+Token: ' respect' (ID: 5091), Prob: 0.0001
+Token: ' trust' (ID: 6950), Prob: 0.0001
+Token: ' encounter' (ID: 12828), Prob: 0.0001
+Token: ' always' (ID: 2677), Prob: 0.0001
+Token: ' like' (ID: 1075), Prob: 0.0001
+Token: ' pay' (ID: 2291), Prob: 0.0001
+Token: ' hate' (ID: 12213), Prob: 0.0001
+Token: ' dread' (ID: 34975), Prob: 0.0001
+Token: ' guess' (ID: 7942), Prob: 0.0001
+Token: ' meet' (ID: 3367), Prob: 0.0001
+Token: ' spend' (ID: 8329), Prob: 0.0001
+Token: ' make' (ID: 1281), Prob: 0.0001
+Token: ' understand' (ID: 3535), Prob: 0.0001
+Token: ''ve' (ID: 3003), Prob: 0.0001
+Token: ' connect' (ID: 4564), Prob: 0.0001
+Token: ' imagine' (ID: 12793), Prob: 0.0001
+Token: ' perceive' (ID: 44393), Prob: 0.0001
 
 == Ranked Concepts (Clusters) ==
-Rank 1 | Centroid: ' grow' | Score: 1.0000
-  Tokens: [' grow', ' grown', ' growth', ' grows', ' growing', ' grew', 'grow', ' Grow']
-Rank 2 | Centroid: ' younger' | Score: 0.0000
-  Tokens: [' old', ' age', ' young', ' aged', ' older', ' younger', ' youth']
-Rank 3 | Centroid: ' give' | Score: 0.0000
-  Tokens: [' get', ' engage', ' take', ' make', ' gather', ' choose', ' develop', ' ask', ' give', ' generate']
-Rank 4 | Centroid: ' stay' | Score: 0.0000
-  Tokens: [' stay', ' leave', ' feel', ' look']
-Rank 5 | Centroid: ' raise' | Score: 0.0000
-  Tokens: [' raise', ' rise']
-Rank 6 | Centroid: ' become' | Score: 0.0000
-  Tokens: [' become', ' reach', ' come']
-Rank 7 | Centroid: ' eat' | Score: 0.0000
-  Tokens: [' eat', ' spend', ' forget', ' learn']
-Rank 8 | Centroid: ' use' | Score: 0.0000
-  Tokens: [' start', ' use', ' care', ' focus']
-Rank 9 | Centroid: ' close' | Score: 0.0000
-  Tokens: [' live', ' group', ' open', ' close']
-Rank 10 | Centroid: ' mature' | Score: 0.0000
-  Tokens: [' mature', ' years']
-Rank 11 | Centroid: ' keep' | Score: 0.0000
-  Tokens: [' keep', ' continue']
-Rank 12 | Centroid: ' round' | Score: 0.0000
-  Tokens: [' round', ' green']
-Rank 13 | Centroid: ' walk' | Score: 0.0000
-  Tokens: [' sleep', ' move', ' walk']
-Rank 14 | Centroid: ' graduate' | Score: 0.0000
-  Tokens: [' graduate', ' groom', ' garden']
-Rank 15 | Centroid: ' read' | Score: 0.0000
-  Tokens: [' read', ' run']
-Rank 16 | Centroid: ' cross' | Score: 0.0000
-  Tokens: [' cross', ' across']
-Rank 17 | Centroid: ' long' | Score: 0.0000
-  Tokens: [' long', ' forever']
-Rank 18 | Centroid: ' gain' | Score: 0.0000
-  Tokens: [' gain', ' catch']
-Rank 19 | Centroid: ' foster' | Score: 0.0000
-  Tokens: [' foster']
+Rank 1 | Centroid: ' typically' | Score: 0.1953
+  Tokens: [' usually', ' normally', ' typically', ' often', ' commonly', ' generally', ' traditionally']
+Rank 2 | Centroid: ' know' | Score: 0.0417
+  Tokens: [' know', ' knew', "'ve"]
+Rank 3 | Centroid: ' might' | Score: 0.0292
+  Tokens: [' would', ' might', ' probably', ' could', ' may']
+Rank 4 | Centroid: ' rarely' | Score: 0.0126
+  Tokens: [' rarely', ' never', ' seldom', ' always']
+Rank 5 | Centroid: ' think' | Score: 0.0125
+  Tokens: [' think', ' assume', ' consider', ' thought', ' believe', ' imagine']
+Rank 6 | Centroid: ' expect' | Score: 0.0121
+  Tokens: [' expect', ' expected', ' predict']
+Rank 7 | Centroid: ' get' | Score: 0.0034
+  Tokens: [' find', ' use', ' see', ' come', ' take', ' get', ' look', ' tell', ' ask', ' try', ' make']
+Rank 8 | Centroid: ' need' | Score: 0.0027
+  Tokens: [' used', ' need', ' want', ' like']
+Rank 9 | Centroid: ' associate' | Score: 0.0021
+  Tokens: [' associate']
+Rank 10 | Centroid: ' else' | Score: 0.0017
+  Tokens: [' else', ' otherwise']
+Rank 11 | Centroid: ' visit' | Score: 0.0012
+  Tokens: [' visit', ' talk', ' call', ' walk', ' encounter']
+Rank 12 | Centroid: ' forget' | Score: 0.0011
+  Tokens: [' forget', ' ignore']
+Rank 13 | Centroid: ' avoid' | Score: 0.0011
+  Tokens: [' avoid', ' pay', ' meet', ' spend', ' connect']
+Rank 14 | Centroid: ' already' | Score: 0.0010
+  Tokens: [' already', ' previously']
+Rank 15 | Centroid: ' notice' | Score: 0.0009
+  Tokens: [' notice']
+Rank 16 | Centroid: ' suspect' | Score: 0.0008
+  Tokens: [' suspect', ' wonder', ' whisper', ' guess']
+Rank 17 | Centroid: ' recognize' | Score: 0.0008
+  Tokens: [' remember', ' recognize', ' understand', ' perceive']
+Rank 18 | Centroid: ' hate' | Score: 0.0007
+  Tokens: [' fear', ' love', ' miss', ' trust', ' hate', ' dread']
+Rank 19 | Centroid: ' tend' | Score: 0.0006
+  Tokens: [' tend']
+Rank 20 | Centroid: ' respect' | Score: 0.0001
+  Tokens: [' respect']
 
 **Chosen Concept:** Rank 1

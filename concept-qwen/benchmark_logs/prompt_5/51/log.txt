@@ -1,72 +1,163 @@
 --- Step 51 Log ---
 
 == Filtered Candidates ==
-Token: ' could' (ID: 1410), Prob: 1.0000
-Token: ' vary' (ID: 13289), Prob: 0.0001
-Token: ' Could' (ID: 16503), Prob: 0.0001
-Token: ' may' (ID: 1231), Prob: 0.0000
-Token: ' since' (ID: 2474), Prob: 0.0000
-Token: ' would' (ID: 1035), Prob: 0.0000
-Token: ' must' (ID: 1969), Prob: 0.0000
-Token: 'could' (ID: 28077), Prob: 0.0000
-Token: ' might' (ID: 2578), Prob: 0.0000
-Token: ' count' (ID: 1760), Prob: 0.0000
-Token: ' differ' (ID: 1745), Prob: 0.0000
-Token: ' change' (ID: 2297), Prob: 0.0000
-Token: ' either' (ID: 2987), Prob: 0.0000
-Token: 'Could' (ID: 12895), Prob: 0.0000
-Token: ' cannot' (ID: 4157), Prob: 0.0000
-Token: ' need' (ID: 1184), Prob: 0.0000
-Token: ' every' (ID: 1449), Prob: 0.0000
-Token: ' contain' (ID: 6644), Prob: 0.0000
-Token: ' possibly' (ID: 10767), Prob: 0.0000
-Token: ' based' (ID: 3118), Prob: 0.0000
-Token: ' check' (ID: 1779), Prob: 0.0000
-Token: ' depend' (ID: 6761), Prob: 0.0000
-Token: ' depending' (ID: 11649), Prob: 0.0000
-Token: ' slightly' (ID: 10078), Prob: 0.0000
-Token: ' another' (ID: 2441), Prob: 0.0000
-Token: ' couple' (ID: 5625), Prob: 0.0000
-Token: ' indicate' (ID: 13216), Prob: 0.0000
-Token: ' maybe' (ID: 7196), Prob: 0.0000
-Token: ' carefully' (ID: 15516), Prob: 0.0000
-Token: ' varying' (ID: 28765), Prob: 0.0000
-Token: ' include' (ID: 2924), Prob: 0.0000
-Token: ' cancel' (ID: 9121), Prob: 0.0000
-Token: ' cell' (ID: 2779), Prob: 0.0000
-Token: ' given' (ID: 2661), Prob: 0.0000
-Token: ' within' (ID: 2878), Prob: 0.0000
-Token: ' according' (ID: 4092), Prob: 0.0000
-Token: ' choose' (ID: 5157), Prob: 0.0000
+Token: ' tower' (ID: 21271), Prob: 0.2227
+Token: ' bridge' (ID: 14164), Prob: 0.1533
+Token: ' house' (ID: 3753), Prob: 0.1191
+Token: ' tree' (ID: 4916), Prob: 0.1050
+Token: ' model' (ID: 1614), Prob: 0.0364
+Token: ' bird' (ID: 11958), Prob: 0.0234
+Token: ' toy' (ID: 21357), Prob: 0.0234
+Token: ' castle' (ID: 32584), Prob: 0.0234
+Token: ' fort' (ID: 11845), Prob: 0.0208
+Token: ' small' (ID: 2613), Prob: 0.0194
+Token: ' robot' (ID: 12305), Prob: 0.0126
+Token: ' rocket' (ID: 24306), Prob: 0.0111
+Token: ' structure' (ID: 5944), Prob: 0.0098
+Token: ' wooden' (ID: 22360), Prob: 0.0098
+Token: ' kite' (ID: 98119), Prob: 0.0092
+Token: ' dragon' (ID: 25105), Prob: 0.0076
+Token: ' spaceship' (ID: 84842), Prob: 0.0071
+Token: ' sand' (ID: 9278), Prob: 0.0063
+Token: ' pyramid' (ID: 46797), Prob: 0.0059
+Token: ' mountain' (ID: 16301), Prob: 0.0052
+Token: ' wall' (ID: 7002), Prob: 0.0049
+Token: ' new' (ID: 501), Prob: 0.0046
+Token: ' boat' (ID: 15328), Prob: 0.0041
+Token: ' box' (ID: 3745), Prob: 0.0036
+Token: ' fire' (ID: 3940), Prob: 0.0036
+Token: ' doll' (ID: 7649), Prob: 0.0028
+Token: ' ladder' (ID: 35765), Prob: 0.0026
+Token: ' volcano' (ID: 65206), Prob: 0.0025
+Token: ' ship' (ID: 8284), Prob: 0.0020
+Token: ' wind' (ID: 9956), Prob: 0.0020
+Token: ' treasure' (ID: 31626), Prob: 0.0020
+Token: ' flying' (ID: 16307), Prob: 0.0019
+Token: ' snow' (ID: 11794), Prob: 0.0018
+Token: ' stone' (ID: 9798), Prob: 0.0017
+Token: ' garden' (ID: 13551), Prob: 0.0017
+Token: ' home' (ID: 2114), Prob: 0.0016
+Token: ' star' (ID: 6774), Prob: 0.0016
+Token: ' fortress' (ID: 69838), Prob: 0.0015
+Token: ' palace' (ID: 43339), Prob: 0.0014
+Token: ' stick' (ID: 9214), Prob: 0.0013
+Token: ' floating' (ID: 19057), Prob: 0.0013
+Token: ' LEGO' (ID: 55801), Prob: 0.0012
+Token: ' brick' (ID: 24837), Prob: 0.0012
+Token: ' statue' (ID: 34272), Prob: 0.0012
+Token: ' catapult' (ID: 95091), Prob: 0.0012
+Token: ' car' (ID: 1803), Prob: 0.0011
+Token: ' mini' (ID: 13420), Prob: 0.0011
+Token: ' water' (ID: 3015), Prob: 0.0010
+Token: ' story' (ID: 3364), Prob: 0.0010
+Token: ' clock' (ID: 8866), Prob: 0.0010
+Token: ' fence' (ID: 24650), Prob: 0.0010
+Token: ' sun' (ID: 7015), Prob: 0.0010
+Token: ' monster' (ID: 17651), Prob: 0.0010
+Token: ' play' (ID: 1486), Prob: 0.0009
+Token: ' little' (ID: 2632), Prob: 0.0009
+Token: ' building' (ID: 4752), Prob: 0.0009
+Token: ' secret' (ID: 6234), Prob: 0.0009
+Token: ' mobile' (ID: 6371), Prob: 0.0009
+Token: ' tiny' (ID: 13673), Prob: 0.0009
+Token: ' shelter' (ID: 22906), Prob: 0.0009
+Token: ' dinosaur' (ID: 62889), Prob: 0.0009
+Token: ' big' (ID: 2409), Prob: 0.0009
+Token: ' city' (ID: 3283), Prob: 0.0009
+Token: ' puzzle' (ID: 24626), Prob: 0.0009
+Token: ' tall' (ID: 16217), Prob: 0.0008
+Token: ' raft' (ID: 52455), Prob: 0.0008
+Token: ' wish' (ID: 6426), Prob: 0.0007
+Token: ' giant' (ID: 14538), Prob: 0.0007
+Token: ' swing' (ID: 18806), Prob: 0.0007
+Token: ' sword' (ID: 20214), Prob: 0.0007
+Token: ' bicycle' (ID: 34986), Prob: 0.0007
+Token: ' telescope' (ID: 55825), Prob: 0.0007
+Token: ' character' (ID: 3668), Prob: 0.0007
+Token: ' skys' (ID: 84321), Prob: 0.0007
+Token: ' cast' (ID: 6311), Prob: 0.0006
+Token: ' spring' (ID: 10464), Prob: 0.0006
+Token: ' shadow' (ID: 12455), Prob: 0.0006
+Token: ' forest' (ID: 13638), Prob: 0.0006
+Token: ' jungle' (ID: 44420), Prob: 0.0006
+Token: ' puppet' (ID: 49448), Prob: 0.0006
+Token: ' sculpture' (ID: 49967), Prob: 0.0006
+Token: ' miniature' (ID: 56763), Prob: 0.0006
+Token: ' strong' (ID: 3746), Prob: 0.0006
+Token: ' picture' (ID: 6802), Prob: 0.0006
+Token: ' bike' (ID: 12963), Prob: 0.0006
+Token: ' magical' (ID: 23702), Prob: 0.0006
+Token: ' tet' (ID: 27853), Prob: 0.0006
+Token: ' rainbow' (ID: 47613), Prob: 0.0006
+Token: ' high' (ID: 1550), Prob: 0.0005
+Token: ' solar' (ID: 12941), Prob: 0.0005
+Token: ' river' (ID: 14796), Prob: 0.0005
+Token: ' nest' (ID: 22791), Prob: 0.0005
+Token: ' bear' (ID: 11722), Prob: 0.0005
+Token: ' musical' (ID: 17795), Prob: 0.0005
+Token: ' sail' (ID: 29403), Prob: 0.0005
+Token: ' staircase' (ID: 61762), Prob: 0.0005
 
 == Ranked Concepts (Clusters) ==
-Rank 1 | Centroid: ' Could' | Score: 1.0000
-  Tokens: [' could', ' Could', 'could', 'Could']
-Rank 2 | Centroid: ' vary' | Score: 0.0001
-  Tokens: [' vary', ' differ', ' varying']
-Rank 3 | Centroid: ' maybe' | Score: 0.0000
-  Tokens: [' may', ' might', ' possibly', ' maybe']
-Rank 4 | Centroid: ' must' | Score: 0.0000
-  Tokens: [' would', ' must', ' cannot', ' need']
-Rank 5 | Centroid: ' within' | Score: 0.0000
-  Tokens: [' since', ' given', ' within']
-Rank 6 | Centroid: ' check' | Score: 0.0000
-  Tokens: [' count', ' change', ' check']
-Rank 7 | Centroid: ' either' | Score: 0.0000
-  Tokens: [' either']
-Rank 8 | Centroid: ' contain' | Score: 0.0000
-  Tokens: [' contain', ' indicate', ' include']
-Rank 9 | Centroid: ' every' | Score: 0.0000
-  Tokens: [' every', ' another']
-Rank 10 | Centroid: ' depend' | Score: 0.0000
-  Tokens: [' depend', ' depending']
-Rank 11 | Centroid: ' based' | Score: 0.0000
-  Tokens: [' based', ' according']
-Rank 12 | Centroid: ' slightly' | Score: 0.0000
-  Tokens: [' slightly', ' carefully']
-Rank 13 | Centroid: ' couple' | Score: 0.0000
-  Tokens: [' couple', ' cell']
-Rank 14 | Centroid: ' cancel' | Score: 0.0000
-  Tokens: [' cancel', ' choose']
+Rank 1 | Centroid: ' ladder' | Score: 0.2314
+  Tokens: [' tower', ' pyramid', ' ladder', ' staircase']
+Rank 2 | Centroid: ' bridge' | Score: 0.1553
+  Tokens: [' bridge', ' stick', ' fence']
+Rank 3 | Centroid: ' house' | Score: 0.1216
+  Tokens: [' house', ' home', ' city']
+Rank 4 | Centroid: ' forest' | Score: 0.1138
+  Tokens: [' tree', ' mountain', ' garden', ' forest', ' jungle', ' river']
+Rank 5 | Centroid: ' fortress' | Score: 0.0471
+  Tokens: [' castle', ' fort', ' fortress', ' palace']
+Rank 6 | Centroid: ' picture' | Score: 0.0393
+  Tokens: [' model', ' story', ' wish', ' character', ' picture']
+Rank 7 | Centroid: ' boat' | Score: 0.0369
+  Tokens: [' robot', ' rocket', ' spaceship', ' boat', ' ship']
+Rank 8 | Centroid: ' bird' | Score: 0.0282
+  Tokens: [' bird', ' fire', ' spring', ' bear']
+Rank 9 | Centroid: ' toy' | Score: 0.0280
+  Tokens: [' toy', ' doll', ' LEGO', ' musical']
+Rank 10 | Centroid: ' tiny' | Score: 0.0245
+  Tokens: [' small', ' mini', ' little', ' tiny', ' big', ' giant', ' miniature']
+Rank 11 | Centroid: ' building' | Score: 0.0156
+  Tokens: [' structure', ' wall', ' building']
+Rank 12 | Centroid: ' monster' | Score: 0.0146
+  Tokens: [' dragon', ' volcano', ' treasure', ' monster', ' dinosaur', ' magical']
+Rank 13 | Centroid: ' stone' | Score: 0.0126
+  Tokens: [' wooden', ' stone', ' brick']
+Rank 14 | Centroid: ' bike' | Score: 0.0117
+  Tokens: [' kite', ' bicycle', ' telescope', ' bike', ' sail']
+Rank 15 | Centroid: ' sun' | Score: 0.0117
+  Tokens: [' sand', ' wind', ' snow', ' sun', ' solar']
+Rank 16 | Centroid: ' new' | Score: 0.0055
+  Tokens: [' new', ' mobile']
+Rank 17 | Centroid: ' flying' | Score: 0.0040
+  Tokens: [' flying', ' floating', ' swing']
+Rank 18 | Centroid: ' box' | Score: 0.0036
+  Tokens: [' box']
+Rank 19 | Centroid: ' sculpture' | Score: 0.0033
+  Tokens: [' statue', ' puzzle', ' puppet', ' sculpture']
+Rank 20 | Centroid: ' star' | Score: 0.0026
+  Tokens: [' star', ' water']
+Rank 21 | Centroid: ' high' | Score: 0.0019
+  Tokens: [' tall', ' strong', ' high']
+Rank 22 | Centroid: ' catapult' | Score: 0.0018
+  Tokens: [' catapult', ' skys']
+Rank 23 | Centroid: ' clock' | Score: 0.0017
+  Tokens: [' clock', ' shadow']
+Rank 24 | Centroid: ' secret' | Score: 0.0015
+  Tokens: [' secret', ' cast']
+Rank 25 | Centroid: ' play' | Score: 0.0015
+  Tokens: [' play', ' tet']
+Rank 26 | Centroid: ' sword' | Score: 0.0013
+  Tokens: [' sword', ' rainbow']
+Rank 27 | Centroid: ' car' | Score: 0.0011
+  Tokens: [' car']
+Rank 28 | Centroid: ' shelter' | Score: 0.0009
+  Tokens: [' shelter']
+Rank 29 | Centroid: ' raft' | Score: 0.0008
+  Tokens: [' raft']
+Rank 30 | Centroid: ' nest' | Score: 0.0005
+  Tokens: [' nest']
 
 **Chosen Concept:** Rank 1

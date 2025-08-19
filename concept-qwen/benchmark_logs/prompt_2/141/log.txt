@@ -1,0 +1,120 @@
+--- Step 141 Log ---
+
+== Filtered Candidates ==
+Token: ' structure' (ID: 5944), Prob: 0.6641
+Token: ' flow' (ID: 6396), Prob: 0.0376
+Token: ' structures' (ID: 14389), Prob: 0.0293
+Token: ' count' (ID: 1760), Prob: 0.0156
+Token: ' flows' (ID: 27455), Prob: 0.0138
+Token: ' starts' (ID: 8471), Prob: 0.0031
+Token: ' ends' (ID: 10335), Prob: 0.0031
+Token: ' pairs' (ID: 13530), Prob: 0.0021
+Token: ' connects' (ID: 33061), Prob: 0.0021
+Token: ' fragments' (ID: 34503), Prob: 0.0021
+Token: ' counts' (ID: 14579), Prob: 0.0016
+Token: ' length' (ID: 3084), Prob: 0.0015
+Token: ' connections' (ID: 13234), Prob: 0.0015
+Token: ' lengths' (ID: 28316), Prob: 0.0012
+Token: ' breaks' (ID: 18303), Prob: 0.0011
+Token: ' connectors' (ID: 57070), Prob: 0.0008
+Token: ' transitions' (ID: 33592), Prob: 0.0006
+Token: ' parts' (ID: 5479), Prob: 0.0005
+Token: ' connect' (ID: 4564), Prob: 0.0004
+Token: ' links' (ID: 7746), Prob: 0.0003
+Token: '-wise' (ID: 44439), Prob: 0.0003
+Token: ' pieces' (ID: 9666), Prob: 0.0003
+Token: ' points' (ID: 3501), Prob: 0.0003
+Token: ' frames' (ID: 14087), Prob: 0.0003
+Token: ' construction' (ID: 8086), Prob: 0.0002
+Token: ' sentences' (ID: 22870), Prob: 0.0002
+Token: ' starters' (ID: 42706), Prob: 0.0002
+Token: ' varies' (ID: 34227), Prob: 0.0002
+Token: ' includes' (ID: 5646), Prob: 0.0002
+Token: ' connection' (ID: 3633), Prob: 0.0002
+Token: ' makes' (ID: 3643), Prob: 0.0002
+Token: '-by' (ID: 14319), Prob: 0.0002
+Token: ' start' (ID: 1191), Prob: 0.0002
+Token: ' stops' (ID: 17933), Prob: 0.0002
+Token: ' fragment' (ID: 12289), Prob: 0.0001
+Token: ' works' (ID: 4278), Prob: 0.0001
+Token: ' examples' (ID: 10295), Prob: 0.0001
+Token: ' frame' (ID: 4034), Prob: 0.0001
+Token: ' struct' (ID: 2036), Prob: 0.0001
+Token: ' counter' (ID: 5546), Prob: 0.0001
+Token: ' stream' (ID: 4269), Prob: 0.0001
+Token: ' order' (ID: 1973), Prob: 0.0001
+Token: ' uses' (ID: 5711), Prob: 0.0001
+Token: ' chain' (ID: 8781), Prob: 0.0001
+Token: ' construct' (ID: 9245), Prob: 0.0001
+Token: ' combinations' (ID: 27459), Prob: 0.0001
+Token: ' variety' (ID: 8045), Prob: 0.0001
+Token: ' spacing' (ID: 25943), Prob: 0.0001
+Token: ' combines' (ID: 32411), Prob: 0.0001
+Token: ' comes' (ID: 4041), Prob: 0.0001
+Token: ' runs' (ID: 8473), Prob: 0.0001
+Token: ' jumps' (ID: 34208), Prob: 0.0001
+Token: ' break' (ID: 1438), Prob: 0.0001
+Token: ' pair' (ID: 6716), Prob: 0.0001
+Token: ' units' (ID: 8153), Prob: 0.0001
+Token: ' clusters' (ID: 26968), Prob: 0.0001
+Token: ' link' (ID: 2656), Prob: 0.0001
+Token: ' groups' (ID: 5203), Prob: 0.0001
+Token: ' arrangement' (ID: 26112), Prob: 0.0001
+Token: ' joins' (ID: 28682), Prob: 0.0001
+Token: ' breakdown' (ID: 29985), Prob: 0.0001
+Token: ' paragraphs' (ID: 42643), Prob: 0.0001
+Token: ' constructs' (ID: 56227), Prob: 0.0001
+Token: ' endings' (ID: 76597), Prob: 0.0001
+Token: ' constructions' (ID: 95839), Prob: 0.0001
+Token: ' elements' (ID: 5424), Prob: 0.0001
+Token: ' captures' (ID: 40155), Prob: 0.0001
+Token: ' spans' (ID: 44295), Prob: 0.0001
+Token: ' like' (ID: 1075), Prob: 0.0000
+Token: ' segments' (ID: 20632), Prob: 0.0000
+Token: ' feels' (ID: 11074), Prob: 0.0000
+Token: ' chains' (ID: 26179), Prob: 0.0000
+Token: ' series' (ID: 4013), Prob: 0.0000
+Token: ' components' (ID: 6813), Prob: 0.0000
+Token: ' snippets' (ID: 68642), Prob: 0.0000
+Token: ' quality' (ID: 4271), Prob: 0.0000
+Token: ' tags' (ID: 9492), Prob: 0.0000
+Token: ' finishes' (ID: 33036), Prob: 0.0000
+Token: ' types' (ID: 4494), Prob: 0.0000
+
+== Ranked Concepts (Clusters) ==
+Rank 1 | Centroid: ' structure' | Score: 0.6953
+  Tokens: [' structure', ' structures', ' struct']
+Rank 2 | Centroid: ' flow' | Score: 0.0515
+  Tokens: [' flow', ' flows', ' stream']
+Rank 3 | Centroid: ' count' | Score: 0.0175
+  Tokens: [' count', ' counts', ' counter', ' spacing', ' quality']
+Rank 4 | Centroid: ' starts' | Score: 0.0068
+  Tokens: [' starts', ' ends', ' starters', ' start', ' stops', ' endings', ' finishes']
+Rank 5 | Centroid: ' connections' | Score: 0.0051
+  Tokens: [' connects', ' connections', ' connectors', ' connect', ' connection']
+Rank 6 | Centroid: ' fragments' | Score: 0.0030
+  Tokens: [' fragments', ' pieces', ' sentences', ' fragment', ' clusters', ' paragraphs', ' segments', ' snippets', ' tags']
+Rank 7 | Centroid: ' pairs' | Score: 0.0029
+  Tokens: [' pairs', '-wise', '-by', ' combinations', ' variety', ' pair', ' groups', ' series']
+Rank 8 | Centroid: ' length' | Score: 0.0027
+  Tokens: [' length', ' lengths']
+Rank 9 | Centroid: ' break' | Score: 0.0012
+  Tokens: [' breaks', ' break', ' breakdown']
+Rank 10 | Centroid: ' combines' | Score: 0.0011
+  Tokens: [' varies', ' includes', ' makes', ' works', ' uses', ' combines', ' comes', ' runs', ' captures', ' feels']
+Rank 11 | Centroid: ' components' | Score: 0.0011
+  Tokens: [' parts', ' points', ' examples', ' units', ' elements', ' components', ' types']
+Rank 12 | Centroid: ' transitions' | Score: 0.0006
+  Tokens: [' transitions']
+Rank 13 | Centroid: ' links' | Score: 0.0005
+  Tokens: [' links', ' chain', ' link', ' chains']
+Rank 14 | Centroid: ' construct' | Score: 0.0004
+  Tokens: [' construction', ' construct', ' constructs', ' constructions']
+Rank 15 | Centroid: ' frames' | Score: 0.0004
+  Tokens: [' frames', ' frame']
+Rank 16 | Centroid: ' arrangement' | Score: 0.0002
+  Tokens: [' order', ' arrangement', ' like']
+Rank 17 | Centroid: ' jumps' | Score: 0.0002
+  Tokens: [' jumps', ' joins', ' spans']
+
+**Chosen Concept:** Rank 1

@@ -1,0 +1,101 @@
+--- Step 43 Log ---
+
+== Filtered Candidates ==
+Token: 'Okay' (ID: 32313), Prob: 0.0386
+Token: 'Hmm' (ID: 80022), Prob: 0.0111
+Token: 'First' (ID: 5338), Prob: 0.0098
+Token: 'Wait' (ID: 14190), Prob: 0.0076
+Token: 'Looking' (ID: 22464), Prob: 0.0049
+Token: 'Text' (ID: 1178), Prob: 0.0023
+Token: 'Original' (ID: 18395), Prob: 0.0020
+Token: 'Alright' (ID: 71486), Prob: 0.0020
+Token: 'Possible' (ID: 65222), Prob: 0.0019
+Token: 'Starting' (ID: 24617), Prob: 0.0018
+Token: 'Start' (ID: 3479), Prob: 0.0016
+Token: 'Sup' (ID: 10048), Prob: 0.0009
+Token: 'Title' (ID: 3851), Prob: 0.0008
+Token: 'Step' (ID: 8304), Prob: 0.0008
+Token: 'Maybe' (ID: 21390), Prob: 0.0006
+Token: 'Let' (ID: 10061), Prob: 0.0006
+Token: 'User' (ID: 1474), Prob: 0.0005
+Token: 'Given' (ID: 22043), Prob: 0.0005
+Token: 'Prompt' (ID: 54615), Prob: 0.0004
+Token: 'Find' (ID: 9885), Prob: 0.0003
+Token: 'Task' (ID: 6262), Prob: 0.0003
+Token: 'Input' (ID: 2505), Prob: 0.0002
+Token: 'Based' (ID: 28715), Prob: 0.0002
+Token: 'Next' (ID: 5847), Prob: 0.0002
+Token: 'Context' (ID: 1972), Prob: 0.0002
+Token: 'Key' (ID: 1592), Prob: 0.0002
+Token: 'Person' (ID: 10680), Prob: 0.0002
+Token: 'Ass' (ID: 5615), Prob: 0.0002
+Token: 'Story' (ID: 17938), Prob: 0.0001
+Token: 'Ident' (ID: 28301), Prob: 0.0001
+Token: 'Main' (ID: 6202), Prob: 0.0001
+Token: 'Available' (ID: 16485), Prob: 0.0001
+Token: 'Paragraph' (ID: 42165), Prob: 0.0001
+Token: 'Finding' (ID: 51422), Prob: 0.0001
+Token: 'Take' (ID: 17814), Prob: 0.0001
+Token: 'Perhaps' (ID: 31476), Prob: 0.0001
+Token: 'Assistant' (ID: 71703), Prob: 0.0001
+Token: 'One' (ID: 3966), Prob: 0.0001
+Token: 'Problem' (ID: 31198), Prob: 0.0001
+Token: 'Introduction' (ID: 37155), Prob: 0.0001
+Token: '"The' (ID: 10022), Prob: 0.0001
+Token: 'Setting' (ID: 15400), Prob: 0.0001
+Token: 'Name' (ID: 675), Prob: 0.0001
+Token: 'Found' (ID: 6650), Prob: 0.0001
+Token: 'Background' (ID: 8706), Prob: 0.0001
+Token: 'Since' (ID: 12549), Prob: 0.0001
+Token: 'Song' (ID: 33039), Prob: 0.0001
+Token: 'Extract' (ID: 28959), Prob: 0.0001
+Token: 'Plot' (ID: 25605), Prob: 0.0001
+Token: 'Understanding' (ID: 70151), Prob: 0.0001
+Token: 'Focus' (ID: 13819), Prob: 0.0001
+Token: 'Yes' (ID: 9454), Prob: 0.0001
+
+== Ranked Concepts (Clusters) ==
+Rank 1 | Centroid: 'Okay' | Score: 0.0518
+  Tokens: ['Okay', 'Hmm', 'Alright', 'Yes']
+Rank 2 | Centroid: 'First' | Score: 0.0101
+  Tokens: ['First', 'Next', 'One']
+Rank 3 | Centroid: 'Wait' | Score: 0.0077
+  Tokens: ['Wait', 'Focus']
+Rank 4 | Centroid: 'Starting' | Score: 0.0054
+  Tokens: ['Original', 'Starting', 'Start']
+Rank 5 | Centroid: 'Looking' | Score: 0.0049
+  Tokens: ['Looking']
+Rank 6 | Centroid: 'Name' | Score: 0.0040
+  Tokens: ['Text', 'Title', 'User', 'Key', 'Main', 'Name']
+Rank 7 | Centroid: 'Maybe' | Score: 0.0026
+  Tokens: ['Possible', 'Maybe', 'Perhaps']
+Rank 8 | Centroid: 'Story' | Score: 0.0013
+  Tokens: ['Step', 'Task', 'Story', 'Song', 'Plot']
+Rank 9 | Centroid: 'Since' | Score: 0.0013
+  Tokens: ['Let', 'Given', 'Based', 'Since']
+Rank 10 | Centroid: 'Sup' | Score: 0.0010
+  Tokens: ['Sup', 'Ass']
+Rank 11 | Centroid: 'Find' | Score: 0.0005
+  Tokens: ['Find', 'Finding', 'Found']
+Rank 12 | Centroid: 'Prompt' | Score: 0.0005
+  Tokens: ['Prompt', 'Paragraph']
+Rank 13 | Centroid: 'Input' | Score: 0.0004
+  Tokens: ['Input', 'Context']
+Rank 14 | Centroid: 'Introduction' | Score: 0.0004
+  Tokens: ['Introduction', '"The', 'Background', 'Understanding']
+Rank 15 | Centroid: 'Person' | Score: 0.0003
+  Tokens: ['Person', 'Problem']
+Rank 16 | Centroid: 'Ident' | Score: 0.0001
+  Tokens: ['Ident']
+Rank 17 | Centroid: 'Available' | Score: 0.0001
+  Tokens: ['Available']
+Rank 18 | Centroid: 'Assistant' | Score: 0.0001
+  Tokens: ['Assistant']
+Rank 19 | Centroid: 'Take' | Score: 0.0001
+  Tokens: ['Take']
+Rank 20 | Centroid: 'Setting' | Score: 0.0001
+  Tokens: ['Setting']
+Rank 21 | Centroid: 'Extract' | Score: 0.0001
+  Tokens: ['Extract']
+
+**Chosen Concept:** Rank 1

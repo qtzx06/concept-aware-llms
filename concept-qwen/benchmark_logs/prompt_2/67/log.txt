@@ -1,80 +1,123 @@
 --- Step 67 Log ---
 
 == Filtered Candidates ==
-Token: ' like' (ID: 1075), Prob: 1.0000
-Token: ' else' (ID: 770), Prob: 0.0006
+Token: ' sure' (ID: 2704), Prob: 0.9961
+Token: ' ensure' (ID: 5978), Prob: 0.0000
+Token: ' certain' (ID: 3654), Prob: 0.0000
+Token: 'sure' (ID: 19098), Prob: 0.0000
+Token: ' Sure' (ID: 22555), Prob: 0.0000
+Token: ' sûr' (ID: 96617), Prob: 0.0000
+Token: ' make' (ID: 1281), Prob: 0.0000
+Token: ' concise' (ID: 63594), Prob: 0.0000
+Token: ' transitions' (ID: 33592), Prob: 0.0000
+Token: ' emotions' (ID: 21261), Prob: 0.0000
+Token: ' emojis' (ID: 99066), Prob: 0.0000
+Token: ' sentences' (ID: 22870), Prob: 0.0000
+Token: ' adjustments' (ID: 32974), Prob: 0.0000
+Token: ' sense' (ID: 5530), Prob: 0.0000
+Token: ' natural' (ID: 5810), Prob: 0.0000
+Token: ' absolutely' (ID: 10875), Prob: 0.0000
+Token: ' dialogue' (ID: 21276), Prob: 0.0000
+Token: ' emotional' (ID: 14269), Prob: 0.0000
+Token: ' confident' (ID: 16506), Prob: 0.0000
+Token: ' eye' (ID: 7912), Prob: 0.0000
+Token: ' things' (ID: 2513), Prob: 0.0000
+Token: ' minor' (ID: 8922), Prob: 0.0000
+Token: ' two' (ID: 1378), Prob: 0.0000
+Token: ' one' (ID: 825), Prob: 0.0000
+Token: ' time' (ID: 882), Prob: 0.0000
+Token: ' positive' (ID: 6785), Prob: 0.0000
+Token: ' bullet' (ID: 17432), Prob: 0.0000
+Token: ' something' (ID: 2494), Prob: 0.0000
+Token: ' specific' (ID: 3151), Prob: 0.0000
+Token: ' everything' (ID: 4297), Prob: 0.0000
+Token: ' ensuring' (ID: 22573), Prob: 0.0000
+Token: 'Sure' (ID: 39814), Prob: 0.0000
+Token: ' headlines' (ID: 30086), Prob: 0.0000
+Token: ' names' (ID: 5036), Prob: 0.0000
+Token: ' logical' (ID: 19819), Prob: 0.0000
 Token: ' yes' (ID: 9834), Prob: 0.0000
-Token: ' similar' (ID: 4428), Prob: 0.0000
-Token: ' Like' (ID: 8909), Prob: 0.0000
-Token: ' maybe' (ID: 7196), Prob: 0.0000
-Token: ' elif' (ID: 4409), Prob: 0.0000
-Token: ' LIKE' (ID: 20529), Prob: 0.0000
-Token: 'like' (ID: 4803), Prob: 0.0000
-Token: ' list' (ID: 1140), Prob: 0.0000
-Token: ' etc' (ID: 4992), Prob: 0.0000
-Token: '-like' (ID: 12681), Prob: 0.0000
-Token: '_like' (ID: 25535), Prob: 0.0000
-Token: ' include' (ID: 2924), Prob: 0.0000
-Token: ' likes' (ID: 13151), Prob: 0.0000
-Token: ' including' (ID: 2670), Prob: 0.0000
-Token: '.like' (ID: 66318), Prob: 0.0000
-Token: ' around' (ID: 2163), Prob: 0.0000
-Token: ' related' (ID: 5435), Prob: 0.0000
-Token: ' much' (ID: 1753), Prob: 0.0000
-Token: ' possible' (ID: 3204), Prob: 0.0000
-Token: ' limited' (ID: 7199), Prob: 0.0000
-Token: ' otherwise' (ID: 5937), Prob: 0.0000
-Token: 'Like' (ID: 12949), Prob: 0.0000
-Token: ' missing' (ID: 7402), Prob: 0.0000
-Token: ' based' (ID: 3118), Prob: 0.0000
-Token: ' say' (ID: 1977), Prob: 0.0000
-Token: ' might' (ID: 2578), Prob: 0.0000
-Token: ' less' (ID: 2686), Prob: 0.0000
-Token: ' usually' (ID: 5990), Prob: 0.0000
-Token: ' inside' (ID: 4766), Prob: 0.0000
+Token: ' key' (ID: 1376), Prob: 0.0000
+Token: ' fun' (ID: 2464), Prob: 0.0000
+Token: ' jokes' (ID: 31420), Prob: 0.0000
+Token: ' bold' (ID: 13939), Prob: 0.0000
+Token: ' use' (ID: 990), Prob: 0.0000
+Token: ' sentence' (ID: 11652), Prob: 0.0000
+Token: ' connections' (ID: 13234), Prob: 0.0000
+Token: ' note' (ID: 5185), Prob: 0.0000
+Token: ' small' (ID: 2613), Prob: 0.0000
+Token: ' short' (ID: 2805), Prob: 0.0000
+Token: ' Ensure' (ID: 29279), Prob: 0.0000
+Token: ' emoji' (ID: 42365), Prob: 0.0000
+Token: ' conversation' (ID: 10435), Prob: 0.0000
+Token: ' lowercase' (ID: 42047), Prob: 0.0000
+Token: ' educated' (ID: 32042), Prob: 0.0000
+Token: ' title' (ID: 2265), Prob: 0.0000
+Token: ' energy' (ID: 4802), Prob: 0.0000
+Token: ' paragraphs' (ID: 42643), Prob: 0.0000
+Token: ' absolute' (ID: 10740), Prob: 0.0000
+Token: ' words' (ID: 4244), Prob: 0.0000
+Token: ' polite' (ID: 47787), Prob: 0.0000
+Token: ' narrative' (ID: 19221), Prob: 0.0000
+Token: ' name' (ID: 829), Prob: 0.0000
+Token: ' phrases' (ID: 31747), Prob: 0.0000
+Token: ' another' (ID: 2441), Prob: 0.0000
 Token: ' important' (ID: 2989), Prob: 0.0000
-Token: ' last' (ID: 1537), Prob: 0.0000
-Token: ' relevant' (ID: 9760), Prob: 0.0000
-Token: ' liked' (ID: 14915), Prob: 0.0000
-Token: ' kind' (ID: 3093), Prob: 0.0000
-Token: ' nice' (ID: 6419), Prob: 0.0000
-Token: ' still' (ID: 2058), Prob: 0.0000
-Token: ' since' (ID: 2474), Prob: 0.0000
-Token: ' towards' (ID: 6974), Prob: 0.0000
-Token: ' yeah' (ID: 21639), Prob: 0.0000
+Token: ' simple' (ID: 4285), Prob: 0.0000
+Token: ' eyes' (ID: 6414), Prob: 0.0000
+Token: ' rel' (ID: 1351), Prob: 0.0000
+Token: ' real' (ID: 1931), Prob: 0.0000
+Token: ' believe' (ID: 4411), Prob: 0.0000
+Token: ' assured' (ID: 27378), Prob: 0.0000
+Token: ' ensured' (ID: 58654), Prob: 0.0000
+Token: ' punctuation' (ID: 61503), Prob: 0.0000
+Token: '_bold' (ID: 95677), Prob: 0.0000
+Token: ' reference' (ID: 5785), Prob: 0.0000
+Token: ' friendly' (ID: 11657), Prob: 0.0000
+Token: ' date' (ID: 2400), Prob: 0.0000
 
 == Ranked Concepts (Clusters) ==
-Rank 1 | Centroid: ' Like' | Score: 1.0000
-  Tokens: [' like', ' Like', ' LIKE', 'like', '-like', '_like', '.like', 'Like']
-Rank 2 | Centroid: ' else' | Score: 0.0006
-  Tokens: [' else', ' elif', ' otherwise']
-Rank 3 | Centroid: ' yes' | Score: 0.0000
-  Tokens: [' yes', ' yeah']
-Rank 4 | Centroid: ' related' | Score: 0.0000
-  Tokens: [' similar', ' related', ' relevant']
-Rank 5 | Centroid: ' maybe' | Score: 0.0000
-  Tokens: [' maybe', ' possible', ' might']
-Rank 6 | Centroid: ' etc' | Score: 0.0000
-  Tokens: [' etc', ' say']
-Rank 7 | Centroid: ' list' | Score: 0.0000
-  Tokens: [' list', ' last']
-Rank 8 | Centroid: ' include' | Score: 0.0000
-  Tokens: [' include', ' including']
-Rank 9 | Centroid: ' around' | Score: 0.0000
-  Tokens: [' around', ' inside', ' towards']
-Rank 10 | Centroid: ' likes' | Score: 0.0000
-  Tokens: [' likes', ' liked']
-Rank 11 | Centroid: ' much' | Score: 0.0000
-  Tokens: [' much', ' less']
-Rank 12 | Centroid: ' missing' | Score: 0.0000
-  Tokens: [' missing', ' important']
-Rank 13 | Centroid: ' limited' | Score: 0.0000
-  Tokens: [' limited']
-Rank 14 | Centroid: ' based' | Score: 0.0000
-  Tokens: [' based', ' since']
-Rank 15 | Centroid: ' usually' | Score: 0.0000
-  Tokens: [' usually', ' still']
-Rank 16 | Centroid: ' kind' | Score: 0.0000
-  Tokens: [' kind', ' nice']
+Rank 1 | Centroid: ' Sure' | Score: 0.9961
+  Tokens: [' sure', 'sure', ' Sure', ' sûr', 'Sure', ' yes']
+Rank 2 | Centroid: ' ensure' | Score: 0.0000
+  Tokens: [' ensure', ' ensuring', ' Ensure', ' assured', ' ensured']
+Rank 3 | Centroid: ' certain' | Score: 0.0000
+  Tokens: [' certain', ' specific', ' important']
+Rank 4 | Centroid: ' emotions' | Score: 0.0000
+  Tokens: [' transitions', ' emotions', ' adjustments', ' emotional', ' connections']
+Rank 5 | Centroid: ' make' | Score: 0.0000
+  Tokens: [' make', ' key', ' use']
+Rank 6 | Centroid: ' bold' | Score: 0.0000
+  Tokens: [' concise', ' bullet', ' bold', '_bold']
+Rank 7 | Centroid: ' emojis' | Score: 0.0000
+  Tokens: [' emojis', ' headlines', ' jokes', ' emoji', ' lowercase', ' punctuation']
+Rank 8 | Centroid: ' logical' | Score: 0.0000
+  Tokens: [' natural', ' positive', ' logical', ' fun', ' rel', ' real']
+Rank 9 | Centroid: ' sentences' | Score: 0.0000
+  Tokens: [' sentences', ' sentence', ' paragraphs', ' words', ' phrases']
+Rank 10 | Centroid: ' things' | Score: 0.0000
+  Tokens: [' things', ' something', ' everything']
+Rank 11 | Centroid: ' one' | Score: 0.0000
+  Tokens: [' two', ' one', ' another']
+Rank 12 | Centroid: ' sense' | Score: 0.0000
+  Tokens: [' sense']
+Rank 13 | Centroid: ' dialogue' | Score: 0.0000
+  Tokens: [' dialogue', ' conversation', ' narrative']
+Rank 14 | Centroid: ' absolutely' | Score: 0.0000
+  Tokens: [' absolutely', ' absolute']
+Rank 15 | Centroid: ' small' | Score: 0.0000
+  Tokens: [' minor', ' small', ' short', ' simple']
+Rank 16 | Centroid: ' polite' | Score: 0.0000
+  Tokens: [' confident', ' polite', ' friendly']
+Rank 17 | Centroid: ' eyes' | Score: 0.0000
+  Tokens: [' eye', ' energy', ' eyes']
+Rank 18 | Centroid: ' time' | Score: 0.0000
+  Tokens: [' time', ' reference']
+Rank 19 | Centroid: ' name' | Score: 0.0000
+  Tokens: [' names', ' title', ' name', ' date']
+Rank 20 | Centroid: ' educated' | Score: 0.0000
+  Tokens: [' educated', ' believe']
+Rank 21 | Centroid: ' note' | Score: 0.0000
+  Tokens: [' note']
 
 **Chosen Concept:** Rank 1

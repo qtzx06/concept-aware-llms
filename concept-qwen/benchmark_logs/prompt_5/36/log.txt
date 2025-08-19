@@ -1,0 +1,107 @@
+--- Step 36 Log ---
+
+== Filtered Candidates ==
+Token: ' Let' (ID: 6771), Prob: 0.1245
+Token: ' Since' (ID: 8704), Prob: 0.0062
+Token: ' Wait' (ID: 13824), Prob: 0.0005
+Token: ' Think' (ID: 21149), Prob: 0.0005
+Token: ' Suppose' (ID: 82610), Prob: 0.0004
+Token: ' Need' (ID: 14656), Prob: 0.0004
+Token: ' Also' (ID: 7281), Prob: 0.0003
+Token: ' Using' (ID: 12091), Prob: 0.0003
+Token: ' Looking' (ID: 21131), Prob: 0.0002
+Token: ' Without' (ID: 17147), Prob: 0.0002
+Token: ' Next' (ID: 9295), Prob: 0.0002
+Token: ' Common' (ID: 7718), Prob: 0.0002
+Token: ' Starting' (ID: 27657), Prob: 0.0001
+Token: ' Hmm' (ID: 88190), Prob: 0.0001
+Token: ' Start' (ID: 5145), Prob: 0.0001
+Token: ' Use' (ID: 5443), Prob: 0.0001
+Token: ' Take' (ID: 11778), Prob: 0.0001
+Token: ' Combine' (ID: 46812), Prob: 0.0001
+Token: ' Could' (ID: 16503), Prob: 0.0001
+Token: ' Action' (ID: 5586), Prob: 0.0001
+Token: ' Person' (ID: 7357), Prob: 0.0001
+Token: ' Comb' (ID: 22454), Prob: 0.0001
+Token: ' Focus' (ID: 25806), Prob: 0.0001
+Token: ' People' (ID: 8853), Prob: 0.0001
+Token: ' Look' (ID: 9192), Prob: 0.0001
+Token: ' Story' (ID: 15106), Prob: 0.0001
+Token: ' Taking' (ID: 35825), Prob: 0.0001
+Token: ' Based' (ID: 20205), Prob: 0.0001
+Token: ' Check' (ID: 4248), Prob: 0.0001
+Token: ' According' (ID: 10548), Prob: 0.0001
+Token: ' Snow' (ID: 18901), Prob: 0.0000
+Token: ' Words' (ID: 27630), Prob: 0.0000
+Token: ' Avoid' (ID: 34006), Prob: 0.0000
+Token: ' However' (ID: 4354), Prob: 0.0000
+Token: ' Sometimes' (ID: 17688), Prob: 0.0000
+Token: ' Keep' (ID: 13655), Prob: 0.0000
+Token: ' Perhaps' (ID: 18765), Prob: 0.0000
+Token: ' Find' (ID: 7379), Prob: 0.0000
+Token: ' Children' (ID: 15044), Prob: 0.0000
+Token: ' Dreams' (ID: 52618), Prob: 0.0000
+Token: ' Read' (ID: 4457), Prob: 0.0000
+Token: ' Vision' (ID: 30441), Prob: 0.0000
+Token: ' Get' (ID: 2126), Prob: 0.0000
+Token: ' Alright' (ID: 97593), Prob: 0.0000
+Token: ' Something' (ID: 24656), Prob: 0.0000
+Token: ' Determine' (ID: 29901), Prob: 0.0000
+Token: ' Highlight' (ID: 55994), Prob: 0.0000
+Token: ' Jon' (ID: 12285), Prob: 0.0000
+Token: ' Sum' (ID: 8116), Prob: 0.0000
+Token: ' Like' (ID: 8909), Prob: 0.0000
+Token: ' Personal' (ID: 19207), Prob: 0.0000
+Token: ' Consider' (ID: 21144), Prob: 0.0000
+Token: ' Plot' (ID: 26033), Prob: 0.0000
+Token: ' Time' (ID: 4120), Prob: 0.0000
+
+== Ranked Concepts (Clusters) ==
+Rank 1 | Centroid: ' However' | Score: 0.1318
+  Tokens: [' Let', ' Since', ' Suppose', ' Also', ' However']
+Rank 2 | Centroid: ' Wait' | Score: 0.0009
+  Tokens: [' Wait', ' Need']
+Rank 3 | Centroid: ' According' | Score: 0.0006
+  Tokens: [' Using', ' Without', ' Based', ' According']
+Rank 4 | Centroid: ' Think' | Score: 0.0005
+  Tokens: [' Think']
+Rank 5 | Centroid: ' Perhaps' | Score: 0.0003
+  Tokens: [' Hmm', ' Could', ' Sometimes', ' Perhaps', ' Alright', ' Something']
+Rank 6 | Centroid: ' Looking' | Score: 0.0003
+  Tokens: [' Looking', ' Look']
+Rank 7 | Centroid: ' Starting' | Score: 0.0003
+  Tokens: [' Starting', ' Start']
+Rank 8 | Centroid: ' Common' | Score: 0.0002
+  Tokens: [' Common', ' Action']
+Rank 9 | Centroid: ' Next' | Score: 0.0002
+  Tokens: [' Next']
+Rank 10 | Centroid: ' Take' | Score: 0.0002
+  Tokens: [' Take', ' Taking', ' Consider']
+Rank 11 | Centroid: ' Get' | Score: 0.0002
+  Tokens: [' Check', ' Keep', ' Find', ' Read', ' Get', ' Determine']
+Rank 12 | Centroid: ' Combine' | Score: 0.0002
+  Tokens: [' Combine', ' Comb']
+Rank 13 | Centroid: ' Person' | Score: 0.0002
+  Tokens: [' Person', ' People', ' Personal']
+Rank 14 | Centroid: ' Use' | Score: 0.0001
+  Tokens: [' Use']
+Rank 15 | Centroid: ' Snow' | Score: 0.0001
+  Tokens: [' Snow', ' Words', ' Time']
+Rank 16 | Centroid: ' Story' | Score: 0.0001
+  Tokens: [' Story', ' Sum', ' Plot']
+Rank 17 | Centroid: ' Focus' | Score: 0.0001
+  Tokens: [' Focus']
+Rank 18 | Centroid: ' Dreams' | Score: 0.0001
+  Tokens: [' Dreams', ' Vision']
+Rank 19 | Centroid: ' Avoid' | Score: 0.0000
+  Tokens: [' Avoid']
+Rank 20 | Centroid: ' Children' | Score: 0.0000
+  Tokens: [' Children']
+Rank 21 | Centroid: ' Highlight' | Score: 0.0000
+  Tokens: [' Highlight']
+Rank 22 | Centroid: ' Jon' | Score: 0.0000
+  Tokens: [' Jon']
+Rank 23 | Centroid: ' Like' | Score: 0.0000
+  Tokens: [' Like']
+
+**Chosen Concept:** Rank 1

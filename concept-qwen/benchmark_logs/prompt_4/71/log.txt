@@ -1,62 +1,125 @@
 --- Step 71 Log ---
 
 == Filtered Candidates ==
-Token: ' prompt' (ID: 9934), Prob: 0.9805
-Token: ' message' (ID: 1943), Prob: 0.0015
-Token: ' Prompt' (ID: 59501), Prob: 0.0005
-Token: ' prompts' (ID: 50932), Prob: 0.0002
-Token: '(prompt' (ID: 72253), Prob: 0.0001
-Token: 'prompt' (ID: 40581), Prob: 0.0001
-Token: ' question' (ID: 3405), Prob: 0.0000
-Token: 'Prompt' (ID: 54615), Prob: 0.0000
-Token: ' prompting' (ID: 49645), Prob: 0.0000
-Token: ' potential' (ID: 4650), Prob: 0.0000
-Token: ' prompted' (ID: 28646), Prob: 0.0000
-Token: '_prompt' (ID: 61421), Prob: 0.0000
-Token: ' within' (ID: 2878), Prob: 0.0000
-Token: ' promise' (ID: 11222), Prob: 0.0000
-Token: ' hint' (ID: 13012), Prob: 0.0000
-Token: ' motif' (ID: 59512), Prob: 0.0000
-Token: ' prom' (ID: 2706), Prob: 0.0000
-Token: '.prompt' (ID: 65399), Prob: 0.0000
-Token: ' keyword' (ID: 16174), Prob: 0.0000
-Token: ' point' (ID: 1459), Prob: 0.0000
-Token: ' topic' (ID: 8544), Prob: 0.0000
-Token: ' bold' (ID: 13939), Prob: 0.0000
-Token: ' promotion' (ID: 20249), Prob: 0.0000
-Token: ' wording' (ID: 60227), Prob: 0.0000
-Token: ' example' (ID: 3110), Prob: 0.0000
-Token: ' theme' (ID: 6912), Prob: 0.0000
-Token: ' messages' (ID: 6605), Prob: 0.0000
-Token: ' format' (ID: 3561), Prob: 0.0000
-Token: ' promote' (ID: 11926), Prob: 0.0000
+Token: ' Add' (ID: 2691), Prob: 0.3105
+Token: ' End' (ID: 3972), Prob: 0.1299
+Token: ' Con' (ID: 1200), Prob: 0.1011
+Token: ' Include' (ID: 29734), Prob: 0.1011
+Token: ' Maybe' (ID: 10696), Prob: 0.0786
+Token: ' Also' (ID: 7281), Prob: 0.0255
+Token: ' Mention' (ID: 85148), Prob: 0.0199
+Token: ' Show' (ID: 6928), Prob: 0.0121
+Token: ' Perhaps' (ID: 18765), Prob: 0.0073
+Token: ' Int' (ID: 1333), Prob: 0.0057
+Token: ' Finally' (ID: 17375), Prob: 0.0014
+Token: ' Describe' (ID: 60785), Prob: 0.0014
+Token: ' Make' (ID: 7405), Prob: 0.0013
+Token: ' Incorpor' (ID: 53704), Prob: 0.0011
+Token: ' Need' (ID: 14656), Prob: 0.0007
+Token: ' Keep' (ID: 13655), Prob: 0.0004
+Token: ' Wrap' (ID: 42187), Prob: 0.0004
+Token: ' Finish' (ID: 35533), Prob: 0.0003
+Token: ' Enc' (ID: 10751), Prob: 0.0002
+Token: ' Ensure' (ID: 29279), Prob: 0.0002
+Token: ' Including' (ID: 55121), Prob: 0.0002
+Token: ' Could' (ID: 16503), Prob: 0.0002
+Token: ' Since' (ID: 8704), Prob: 0.0001
+Token: ' Use' (ID: 5443), Prob: 0.0001
+Token: ' Connect' (ID: 13015), Prob: 0.0001
+Token: ' People' (ID: 8853), Prob: 0.0001
+Token: ' Adding' (ID: 30370), Prob: 0.0001
+Token: ' Focus' (ID: 25806), Prob: 0.0001
+Token: 'Include' (ID: 22283), Prob: 0.0001
+Token: ' Sum' (ID: 8116), Prob: 0.0001
+Token: ' Talk' (ID: 18976), Prob: 0.0001
+Token: ' Personal' (ID: 19207), Prob: 0.0001
+Token: ' Bring' (ID: 39124), Prob: 0.0001
+Token: ' Transition' (ID: 37721), Prob: 0.0001
+Token: ' Think' (ID: 21149), Prob: 0.0001
+Token: ' Ending' (ID: 73421), Prob: 0.0001
+Token: ' Possibly' (ID: 79191), Prob: 0.0001
+Token: ' Feature' (ID: 19998), Prob: 0.0000
+Token: ' Point' (ID: 5126), Prob: 0.0000
+Token: ' Next' (ID: 9295), Prob: 0.0000
+Token: ' Contrast' (ID: 90048), Prob: 0.0000
+Token: ' Plus' (ID: 12343), Prob: 0.0000
+Token: ' Mix' (ID: 19219), Prob: 0.0000
+Token: ' Probably' (ID: 37154), Prob: 0.0000
+Token: ' Eventually' (ID: 37174), Prob: 0.0000
+Token: ' Discuss' (ID: 65279), Prob: 0.0000
+Token: ' include' (ID: 2924), Prob: 0.0000
+Token: ' Inter' (ID: 5665), Prob: 0.0000
+Token: ' Close' (ID: 13032), Prob: 0.0000
+Token: ' Clim' (ID: 61830), Prob: 0.0000
+Token: ' Person' (ID: 7357), Prob: 0.0000
+Token: ' Avoid' (ID: 34006), Prob: 0.0000
+Token: ' Turn' (ID: 11999), Prob: 0.0000
+Token: ' Explore' (ID: 44052), Prob: 0.0000
+Token: ' Stress' (ID: 50468), Prob: 0.0000
+Token: ' Get' (ID: 2126), Prob: 0.0000
+Token: ' Develop' (ID: 7843), Prob: 0.0000
+Token: ' Update' (ID: 5549), Prob: 0.0000
+Token: ' Inf' (ID: 14921), Prob: 0.0000
+Token: ' Compare' (ID: 23768), Prob: 0.0000
+Token: ' Capture' (ID: 39885), Prob: 0.0000
+Token: ' Highlight' (ID: 55994), Prob: 0.0000
+Token: 'Add' (ID: 2212), Prob: 0.0000
+Token: ' Touch' (ID: 19338), Prob: 0.0000
+Token: ' Even' (ID: 7418), Prob: 0.0000
+Token: ' Follow' (ID: 11112), Prob: 0.0000
+Token: ' Offer' (ID: 24498), Prob: 0.0000
+Token: ' Reflect' (ID: 34598), Prob: 0.0000
+Token: ' Emotional' (ID: 94200), Prob: 0.0000
+Token: ' Build' (ID: 7854), Prob: 0.0000
+Token: ' Additionally' (ID: 22406), Prob: 0.0000
+Token: ' Something' (ID: 24656), Prob: 0.0000
 
 == Ranked Concepts (Clusters) ==
-Rank 1 | Centroid: 'Prompt' | Score: 0.9805
-  Tokens: [' prompt', ' Prompt', '(prompt', 'prompt', 'Prompt', '_prompt', '.prompt']
-Rank 2 | Centroid: ' message' | Score: 0.0015
-  Tokens: [' message', ' messages']
-Rank 3 | Centroid: ' prompts' | Score: 0.0003
-  Tokens: [' prompts', ' prompting', ' prompted']
-Rank 4 | Centroid: ' potential' | Score: 0.0000
-  Tokens: [' potential', ' within']
-Rank 5 | Centroid: ' theme' | Score: 0.0000
-  Tokens: [' motif', ' keyword', ' topic', ' theme']
-Rank 6 | Centroid: ' question' | Score: 0.0000
-  Tokens: [' question']
-Rank 7 | Centroid: ' promote' | Score: 0.0000
-  Tokens: [' prom', ' promotion', ' promote']
-Rank 8 | Centroid: ' bold' | Score: 0.0000
-  Tokens: [' bold', ' format']
-Rank 9 | Centroid: ' hint' | Score: 0.0000
-  Tokens: [' hint']
-Rank 10 | Centroid: ' promise' | Score: 0.0000
-  Tokens: [' promise']
-Rank 11 | Centroid: ' point' | Score: 0.0000
-  Tokens: [' point']
-Rank 12 | Centroid: ' wording' | Score: 0.0000
-  Tokens: [' wording']
-Rank 13 | Centroid: ' example' | Score: 0.0000
-  Tokens: [' example']
+Rank 1 | Centroid: ' Add' | Score: 0.3105
+  Tokens: [' Add', ' Adding', 'Add']
+Rank 2 | Centroid: ' Ending' | Score: 0.1299
+  Tokens: [' End', ' Finish', ' Ending']
+Rank 3 | Centroid: ' Inter' | Score: 0.1069
+  Tokens: [' Con', ' Int', ' Enc', ' Inter', ' Inf']
+Rank 4 | Centroid: ' Include' | Score: 0.1025
+  Tokens: [' Include', ' Incorpor', ' Including', 'Include', ' include']
+Rank 5 | Centroid: ' Perhaps' | Score: 0.0864
+  Tokens: [' Maybe', ' Perhaps', ' Could', ' Possibly', ' Probably', ' Something']
+Rank 6 | Centroid: ' Additionally' | Score: 0.0271
+  Tokens: [' Also', ' Finally', ' Since', ' Eventually', ' Even', ' Additionally']
+Rank 7 | Centroid: ' Mention' | Score: 0.0200
+  Tokens: [' Mention', ' Talk']
+Rank 8 | Centroid: ' Make' | Score: 0.0139
+  Tokens: [' Show', ' Make', ' Keep', ' Use', ' Get']
+Rank 9 | Centroid: ' Describe' | Score: 0.0015
+  Tokens: [' Describe', ' Discuss', ' Explore', ' Compare']
+Rank 10 | Centroid: ' Need' | Score: 0.0007
+  Tokens: [' Need', ' Think']
+Rank 11 | Centroid: ' Wrap' | Score: 0.0004
+  Tokens: [' Wrap', ' Close', ' Turn']
+Rank 12 | Centroid: ' Build' | Score: 0.0002
+  Tokens: [' Ensure', ' Develop', ' Update', ' Build']
+Rank 13 | Centroid: ' Person' | Score: 0.0002
+  Tokens: [' People', ' Personal', ' Person']
+Rank 14 | Centroid: ' Transition' | Score: 0.0002
+  Tokens: [' Focus', ' Transition', ' Feature']
+Rank 15 | Centroid: ' Connect' | Score: 0.0001
+  Tokens: [' Connect']
+Rank 16 | Centroid: ' Highlight' | Score: 0.0001
+  Tokens: [' Contrast', ' Stress', ' Highlight', ' Reflect']
+Rank 17 | Centroid: ' Touch' | Score: 0.0001
+  Tokens: [' Point', ' Mix', ' Touch']
+Rank 18 | Centroid: ' Bring' | Score: 0.0001
+  Tokens: [' Bring', ' Follow']
+Rank 19 | Centroid: ' Next' | Score: 0.0001
+  Tokens: [' Next', ' Plus']
+Rank 20 | Centroid: ' Sum' | Score: 0.0001
+  Tokens: [' Sum']
+Rank 21 | Centroid: ' Avoid' | Score: 0.0000
+  Tokens: [' Avoid', ' Capture']
+Rank 22 | Centroid: ' Clim' | Score: 0.0000
+  Tokens: [' Clim', ' Emotional']
+Rank 23 | Centroid: ' Offer' | Score: 0.0000
+  Tokens: [' Offer']
 
 **Chosen Concept:** Rank 1

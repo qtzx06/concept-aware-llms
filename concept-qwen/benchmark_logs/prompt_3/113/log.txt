@@ -1,91 +1,158 @@
 --- Step 113 Log ---
 
 == Filtered Candidates ==
-Token: ' old' (ID: 2310), Prob: 1.0000
-Token: ' older' (ID: 9014), Prob: 0.0001
-Token: ' young' (ID: 3908), Prob: 0.0000
-Token: ' elderly' (ID: 28820), Prob: 0.0000
-Token: '(old' (ID: 21972), Prob: 0.0000
-Token: ' long' (ID: 1293), Prob: 0.0000
-Token: 'old' (ID: 813), Prob: 0.0000
-Token: '-old' (ID: 6284), Prob: 0.0000
-Token: '	old' (ID: 61828), Prob: 0.0000
-Token: '.old' (ID: 46061), Prob: 0.0000
-Token: ' Old' (ID: 10621), Prob: 0.0000
-Token: ' cold' (ID: 9255), Prob: 0.0000
-Token: '_old' (ID: 21108), Prob: 0.0000
-Token: ' ancient' (ID: 13833), Prob: 0.0000
-Token: ' oldest' (ID: 23513), Prob: 0.0000
-Token: ' tall' (ID: 16217), Prob: 0.0000
-Token: ' new' (ID: 501), Prob: 0.0000
-Token: ' OLD' (ID: 64891), Prob: 0.0000
-Token: ' child' (ID: 1682), Prob: 0.0000
-Token: ' away' (ID: 3123), Prob: 0.0000
-Token: ' oil' (ID: 5590), Prob: 0.0000
-Token: ' slow' (ID: 6301), Prob: 0.0000
-Token: ' well' (ID: 1632), Prob: 0.0000
-Token: ' aged' (ID: 19749), Prob: 0.0000
-Token: ' full' (ID: 2480), Prob: 0.0000
-Token: ' aging' (ID: 28984), Prob: 0.0000
-Token: ' large' (ID: 3460), Prob: 0.0000
-Token: ' fast' (ID: 4937), Prob: 0.0000
-Token: ' open' (ID: 1787), Prob: 0.0000
-Token: ' outdated' (ID: 40526), Prob: 0.0000
-Token: ' late' (ID: 3309), Prob: 0.0000
-Token: ' wide' (ID: 6884), Prob: 0.0000
-Token: ' end' (ID: 835), Prob: 0.0000
-Token: ' empty' (ID: 4287), Prob: 0.0000
-Token: ' small' (ID: 2613), Prob: 0.0000
-Token: ' age' (ID: 4231), Prob: 0.0000
-Token: ' always' (ID: 2677), Prob: 0.0000
-Token: ' ultra' (ID: 23998), Prob: 0.0000
-Token: ' obsolete' (ID: 46066), Prob: 0.0000
-Token: ' easy' (ID: 4135), Prob: 0.0000
-Token: ' without' (ID: 2041), Prob: 0.0000
-Token: ' along' (ID: 3156), Prob: 0.0000
-Token: ' elder' (ID: 22130), Prob: 0.0000
-Token: 'OLD' (ID: 7863), Prob: 0.0000
-Token: ' low' (ID: 3347), Prob: 0.0000
-Token: ' odd' (ID: 10322), Prob: 0.0000
-Token: ' tired' (ID: 19227), Prob: 0.0000
-Token: ' high' (ID: 1550), Prob: 0.0000
-Token: ' still' (ID: 2058), Prob: 0.0000
-Token: ' often' (ID: 3545), Prob: 0.0000
-Token: ' strong' (ID: 3746), Prob: 0.0000
-Token: ' alone' (ID: 7484), Prob: 0.0000
+Token: ' strange' (ID: 14888), Prob: 0.5625
+Token: ' problem' (ID: 3491), Prob: 0.0317
+Token: ' terrible' (ID: 17478), Prob: 0.0317
+Token: ' bad' (ID: 3873), Prob: 0.0280
+Token: ' mysterious' (ID: 25382), Prob: 0.0193
+Token: ' different' (ID: 2155), Prob: 0.0170
+Token: ' tragic' (ID: 34179), Prob: 0.0170
+Token: ' troubling' (ID: 51229), Prob: 0.0170
+Token: ' disturbing' (ID: 33873), Prob: 0.0150
+Token: ' supernatural' (ID: 48958), Prob: 0.0150
+Token: ' bizarre' (ID: 32188), Prob: 0.0141
+Token: ' situation' (ID: 6534), Prob: 0.0110
+Token: ' negative' (ID: 8225), Prob: 0.0103
+Token: ' connection' (ID: 3633), Prob: 0.0096
+Token: ' dangerous' (ID: 11406), Prob: 0.0091
+Token: ' serious' (ID: 6001), Prob: 0.0085
+Token: ' weird' (ID: 16283), Prob: 0.0085
+Token: ' similar' (ID: 4428), Prob: 0.0071
+Token: ' problematic' (ID: 34933), Prob: 0.0055
+Token: ' terrifying' (ID: 41251), Prob: 0.0055
+Token: ' mystery' (ID: 22531), Prob: 0.0049
+Token: ' mish' (ID: 63396), Prob: 0.0046
+Token: ' misunderstanding' (ID: 69747), Prob: 0.0038
+Token: ' mis' (ID: 5786), Prob: 0.0036
+Token: ' confusing' (ID: 30615), Prob: 0.0033
+Token: ' series' (ID: 4013), Prob: 0.0031
+Token: ' sense' (ID: 5530), Prob: 0.0031
+Token: ' surprising' (ID: 14861), Prob: 0.0031
+Token: ' traumatic' (ID: 53186), Prob: 0.0031
+Token: ' dark' (ID: 6319), Prob: 0.0029
+Token: ' peculiar' (ID: 43697), Prob: 0.0028
+Token: ' conflict' (ID: 12055), Prob: 0.0026
+Token: ' hidden' (ID: 8177), Prob: 0.0024
+Token: ' tense' (ID: 42687), Prob: 0.0024
+Token: ' concerning' (ID: 18310), Prob: 0.0023
+Token: ' twist' (ID: 26646), Prob: 0.0023
+Token: ' revelation' (ID: 38910), Prob: 0.0022
+Token: ' creepy' (ID: 50840), Prob: 0.0020
+Token: ' mix' (ID: 6514), Prob: 0.0019
+Token: ' horrifying' (ID: 77550), Prob: 0.0019
+Token: ' funny' (ID: 15173), Prob: 0.0018
+Token: ' sinister' (ID: 62567), Prob: 0.0018
+Token: ' startling' (ID: 67734), Prob: 0.0018
+Token: ' horror' (ID: 21452), Prob: 0.0017
+Token: ' shocking' (ID: 33634), Prob: 0.0017
+Token: ' worse' (ID: 10960), Prob: 0.0016
+Token: ' sudden' (ID: 10968), Prob: 0.0016
+Token: ' complicated' (ID: 16965), Prob: 0.0016
+Token: ' scary' (ID: 28465), Prob: 0.0016
+Token: ' unsettling' (ID: 90980), Prob: 0.0013
+Token: ' crisis' (ID: 11251), Prob: 0.0012
+Token: ' consequence' (ID: 28674), Prob: 0.0011
+Token: ' secret' (ID: 6234), Prob: 0.0010
+Token: ' nightmare' (ID: 37811), Prob: 0.0010
+Token: ' suspicious' (ID: 31327), Prob: 0.0010
+Token: ' significant' (ID: 5089), Prob: 0.0009
+Token: ' unexpected' (ID: 16500), Prob: 0.0009
+Token: ' troubled' (ID: 41032), Prob: 0.0009
+Token: ' potentially' (ID: 13581), Prob: 0.0008
+Token: ' unusual' (ID: 18511), Prob: 0.0008
+Token: ' tragedy' (ID: 30826), Prob: 0.0008
+Token: ' spooky' (ID: 97076), Prob: 0.0008
+Token: ' real' (ID: 1931), Prob: 0.0008
+Token: ' potential' (ID: 4650), Prob: 0.0008
+Token: ' possible' (ID: 3204), Prob: 0.0007
+Token: ' difficult' (ID: 5000), Prob: 0.0007
+Token: ' sad' (ID: 12421), Prob: 0.0007
+Token: ' horrific' (ID: 46222), Prob: 0.0007
+Token: ' catastrophe' (ID: 64296), Prob: 0.0007
+Token: ' minor' (ID: 8922), Prob: 0.0007
+Token: ' disturbance' (ID: 64758), Prob: 0.0007
+Token: ' moment' (ID: 4445), Prob: 0.0007
+Token: ' disaster' (ID: 20763), Prob: 0.0007
+Token: ' dreadful' (ID: 80852), Prob: 0.0007
+Token: ' deadly' (ID: 24142), Prob: 0.0006
+Token: ' darker' (ID: 39030), Prob: 0.0006
+Token: ' harmful' (ID: 27756), Prob: 0.0006
+Token: ' wrong' (ID: 4969), Prob: 0.0005
+Token: ' positive' (ID: 6785), Prob: 0.0005
+Token: ' mistake' (ID: 16523), Prob: 0.0005
+Token: ' subtle' (ID: 26447), Prob: 0.0005
+Token: ' catastrophic' (ID: 53577), Prob: 0.0005
+Token: ' haunting' (ID: 76654), Prob: 0.0005
+Token: ' new' (ID: 501), Prob: 0.0005
+Token: ' good' (ID: 1661), Prob: 0.0005
+Token: ' small' (ID: 2613), Prob: 0.0005
+Token: ' fear' (ID: 8679), Prob: 0.0005
+Token: ' change' (ID: 2297), Prob: 0.0005
+Token: ' unique' (ID: 4911), Prob: 0.0005
+Token: ' curious' (ID: 22208), Prob: 0.0005
+Token: ' calam' (ID: 79833), Prob: 0.0005
+Token: ' severe' (ID: 15386), Prob: 0.0004
+Token: ' deeper' (ID: 19117), Prob: 0.0004
+Token: ' magical' (ID: 23702), Prob: 0.0004
+Token: ' sensitive' (ID: 16216), Prob: 0.0004
+Token: ' harmless' (ID: 52897), Prob: 0.0004
+Token: ' frightening' (ID: 53639), Prob: 0.0004
+Token: ' warning' (ID: 9958), Prob: 0.0004
+Token: ' disastrous' (ID: 51957), Prob: 0.0004
 
 == Ranked Concepts (Clusters) ==
-Rank 1 | Centroid: ' old' | Score: 1.0000
-  Tokens: [' old', '(old', 'old', '-old', '\told', '.old', ' Old', '_old', ' OLD', 'OLD']
-Rank 2 | Centroid: ' older' | Score: 0.0001
-  Tokens: [' older', ' elderly', ' ancient', ' oldest', ' elder']
-Rank 3 | Centroid: ' young' | Score: 0.0000
-  Tokens: [' young', ' child']
-Rank 4 | Centroid: ' large' | Score: 0.0000
-  Tokens: [' long', ' tall', ' large', ' late', ' wide', ' small', ' strong']
-Rank 5 | Centroid: ' cold' | Score: 0.0000
-  Tokens: [' cold']
-Rank 6 | Centroid: ' new' | Score: 0.0000
-  Tokens: [' new']
-Rank 7 | Centroid: ' low' | Score: 0.0000
-  Tokens: [' slow', ' fast', ' low', ' high']
-Rank 8 | Centroid: ' without' | Score: 0.0000
-  Tokens: [' away', ' without', ' along', ' alone']
-Rank 9 | Centroid: ' aged' | Score: 0.0000
-  Tokens: [' aged', ' aging', ' age']
-Rank 10 | Centroid: ' empty' | Score: 0.0000
-  Tokens: [' full', ' open', ' empty']
-Rank 11 | Centroid: ' oil' | Score: 0.0000
-  Tokens: [' oil', ' odd']
-Rank 12 | Centroid: ' outdated' | Score: 0.0000
-  Tokens: [' outdated', ' obsolete', ' tired']
-Rank 13 | Centroid: ' well' | Score: 0.0000
-  Tokens: [' well']
-Rank 14 | Centroid: ' always' | Score: 0.0000
-  Tokens: [' always', ' still', ' often']
-Rank 15 | Centroid: ' ultra' | Score: 0.0000
-  Tokens: [' ultra', ' easy']
-Rank 16 | Centroid: ' end' | Score: 0.0000
-  Tokens: [' end']
+Rank 1 | Centroid: ' strange' | Score: 0.5938
+  Tokens: [' strange', ' bizarre', ' weird', ' peculiar', ' funny', ' suspicious', ' unusual', ' curious']
+Rank 2 | Centroid: ' horrific' | Score: 0.0547
+  Tokens: [' terrible', ' tragic', ' traumatic', ' horrific', ' dreadful', ' deadly', ' catastrophic', ' disastrous']
+Rank 3 | Centroid: ' crisis' | Score: 0.0466
+  Tokens: [' problem', ' situation', ' conflict', ' crisis']
+Rank 4 | Centroid: ' mysterious' | Score: 0.0396
+  Tokens: [' mysterious', ' supernatural', ' mystery', ' magical']
+Rank 5 | Centroid: ' troubling' | Score: 0.0366
+  Tokens: [' troubling', ' disturbing', ' confusing', ' unsettling']
+Rank 6 | Centroid: ' bad' | Score: 0.0300
+  Tokens: [' bad', ' worse', ' good']
+Rank 7 | Centroid: ' severe' | Score: 0.0186
+  Tokens: [' serious', ' similar', ' significant', ' minor', ' small', ' severe', ' sensitive']
+Rank 8 | Centroid: ' horrifying' | Score: 0.0181
+  Tokens: [' terrifying', ' creepy', ' horrifying', ' sinister', ' startling', ' shocking', ' scary', ' spooky', ' haunting', ' frightening']
+Rank 9 | Centroid: ' different' | Score: 0.0179
+  Tokens: [' different', ' new', ' unique']
+Rank 10 | Centroid: ' mis' | Score: 0.0130
+  Tokens: [' mish', ' misunderstanding', ' mis', ' wrong', ' mistake']
+Rank 11 | Centroid: ' twist' | Score: 0.0125
+  Tokens: [' series', ' sense', ' twist', ' mix', ' real', ' moment', ' change']
+Rank 12 | Centroid: ' negative' | Score: 0.0109
+  Tokens: [' negative', ' positive']
+Rank 13 | Centroid: ' connection' | Score: 0.0107
+  Tokens: [' connection', ' consequence']
+Rank 14 | Centroid: ' harmful' | Score: 0.0101
+  Tokens: [' dangerous', ' harmful', ' harmless']
+Rank 15 | Centroid: ' difficult' | Score: 0.0087
+  Tokens: [' problematic', ' complicated', ' troubled', ' difficult']
+Rank 16 | Centroid: ' unexpected' | Score: 0.0056
+  Tokens: [' surprising', ' sudden', ' unexpected']
+Rank 17 | Centroid: ' hidden' | Score: 0.0040
+  Tokens: [' hidden', ' secret', ' subtle']
+Rank 18 | Centroid: ' darker' | Score: 0.0040
+  Tokens: [' dark', ' darker', ' deeper']
+Rank 19 | Centroid: ' concerning' | Score: 0.0030
+  Tokens: [' concerning', ' disturbance']
+Rank 20 | Centroid: ' disaster' | Score: 0.0027
+  Tokens: [' tragedy', ' catastrophe', ' disaster', ' calam']
+Rank 21 | Centroid: ' horror' | Score: 0.0027
+  Tokens: [' horror', ' nightmare']
+Rank 22 | Centroid: ' tense' | Score: 0.0024
+  Tokens: [' tense']
+Rank 23 | Centroid: ' potential' | Score: 0.0024
+  Tokens: [' potentially', ' potential', ' possible']
+Rank 24 | Centroid: ' revelation' | Score: 0.0022
+  Tokens: [' revelation']
+Rank 25 | Centroid: ' fear' | Score: 0.0009
+  Tokens: [' fear', ' warning']
+Rank 26 | Centroid: ' sad' | Score: 0.0007
+  Tokens: [' sad']
 
 **Chosen Concept:** Rank 1

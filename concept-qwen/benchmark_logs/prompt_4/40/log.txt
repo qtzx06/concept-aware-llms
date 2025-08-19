@@ -1,71 +1,156 @@
 --- Step 40 Log ---
 
 == Filtered Candidates ==
-Token: ' message' (ID: 1943), Prob: 0.9609
-Token: ' prompt' (ID: 9934), Prob: 0.0094
-Token: ' messages' (ID: 6605), Prob: 0.0014
-Token: '.message' (ID: 6698), Prob: 0.0004
-Token: ' Message' (ID: 4856), Prob: 0.0002
-Token: ' question' (ID: 3405), Prob: 0.0002
-Token: '(message' (ID: 7333), Prob: 0.0002
-Token: 'message' (ID: 1994), Prob: 0.0001
-Token: ' statement' (ID: 5114), Prob: 0.0001
-Token: ' answer' (ID: 4226), Prob: 0.0000
-Token: ' list' (ID: 1140), Prob: 0.0000
-Token: ' response' (ID: 2033), Prob: 0.0000
-Token: ' information' (ID: 1995), Prob: 0.0000
-Token: 'Message' (ID: 2052), Prob: 0.0000
-Token: ' content' (ID: 2213), Prob: 0.0000
-Token: ':message' (ID: 91473), Prob: 0.0000
-Token: ' item' (ID: 1509), Prob: 0.0000
-Token: ' phrase' (ID: 17133), Prob: 0.0000
-Token: '	message' (ID: 24753), Prob: 0.0000
-Token: ' example' (ID: 3110), Prob: 0.0000
-Token: ' user' (ID: 1196), Prob: 0.0000
-Token: ' point' (ID: 1459), Prob: 0.0000
-Token: ' description' (ID: 4008), Prob: 0.0000
-Token: ' theme' (ID: 6912), Prob: 0.0000
-Token: '_message' (ID: 6462), Prob: 0.0000
-Token: ' wording' (ID: 60227), Prob: 0.0000
-Token: ' image' (ID: 2168), Prob: 0.0000
-Token: ' except' (ID: 3650), Prob: 0.0000
-Token: ' instruction' (ID: 7600), Prob: 0.0000
-Token: ' sentence' (ID: 11652), Prob: 0.0000
-Token: ' motif' (ID: 59512), Prob: 0.0000
-Token: ' text' (ID: 1467), Prob: 0.0000
+Token: ' setting' (ID: 6243), Prob: 0.4316
+Token: ' arrival' (ID: 18647), Prob: 0.1396
+Token: ' time' (ID: 882), Prob: 0.0664
+Token: ' anticipation' (ID: 49819), Prob: 0.0354
+Token: ' date' (ID: 2400), Prob: 0.0312
+Token: ' day' (ID: 1899), Prob: 0.0276
+Token: ' setup' (ID: 6505), Prob: 0.0215
+Token: ' name' (ID: 829), Prob: 0.0189
+Token: ' excitement' (ID: 27262), Prob: 0.0189
+Token: ' narrator' (ID: 64171), Prob: 0.0189
+Token: ' destination' (ID: 9106), Prob: 0.0167
+Token: ' departure' (ID: 24915), Prob: 0.0167
+Token: ' person' (ID: 1697), Prob: 0.0148
+Token: ' main' (ID: 1887), Prob: 0.0148
+Token: ' weather' (ID: 9104), Prob: 0.0090
+Token: ' traveler' (ID: 62765), Prob: 0.0079
+Token: ' location' (ID: 3728), Prob: 0.0070
+Token: ' title' (ID: 2265), Prob: 0.0062
+Token: ' general' (ID: 4586), Prob: 0.0054
+Token: ' journey' (ID: 11618), Prob: 0.0054
+Token: ' protagonist' (ID: 45584), Prob: 0.0054
+Token: ' hike' (ID: 34231), Prob: 0.0048
+Token: ' details' (ID: 3565), Prob: 0.0042
+Token: ' description' (ID: 4008), Prob: 0.0037
+Token: ' morning' (ID: 6556), Prob: 0.0033
+Token: ' author' (ID: 3150), Prob: 0.0026
+Token: ' entry' (ID: 4343), Prob: 0.0026
+Token: ' attraction' (ID: 32364), Prob: 0.0026
+Token: ' hiking' (ID: 37364), Prob: 0.0026
+Token: ' trip' (ID: 8411), Prob: 0.0023
+Token: ' route' (ID: 6021), Prob: 0.0018
+Token: ' scenery' (ID: 50231), Prob: 0.0018
+Token: ' environment' (ID: 4573), Prob: 0.0016
+Token: ' first' (ID: 1156), Prob: 0.0014
+Token: ' opening' (ID: 8568), Prob: 0.0014
+Token: ' atmosphere' (ID: 16566), Prob: 0.0014
+Token: ' purpose' (ID: 7428), Prob: 0.0012
+Token: ' overall' (ID: 8084), Prob: 0.0012
+Token: ' introduction' (ID: 16800), Prob: 0.0012
+Token: ' entrance' (ID: 19809), Prob: 0.0012
+Token: ' scene' (ID: 6109), Prob: 0.0011
+Token: ' scenic' (ID: 60981), Prob: 0.0011
+Token: ' context' (ID: 2266), Prob: 0.0009
+Token: ' feeling' (ID: 8266), Prob: 0.0009
+Token: ' preparation' (ID: 17975), Prob: 0.0009
+Token: ' initial' (ID: 2856), Prob: 0.0008
+Token: ' surroundings' (ID: 39090), Prob: 0.0008
+Token: ' adventure' (ID: 17943), Prob: 0.0007
+Token: ' discovery' (ID: 18335), Prob: 0.0007
+Token: ' moment' (ID: 4445), Prob: 0.0006
+Token: ' impression' (ID: 20792), Prob: 0.0006
+Token: ' visitor' (ID: 20181), Prob: 0.0006
+Token: ' motivation' (ID: 24798), Prob: 0.0006
+Token: ' idea' (ID: 4522), Prob: 0.0005
+Token: ' structure' (ID: 5944), Prob: 0.0005
+Token: ' reason' (ID: 2874), Prob: 0.0004
+Token: ' driver' (ID: 5579), Prob: 0.0004
+Token: ' photographer' (ID: 28767), Prob: 0.0004
+Token: ' allure' (ID: 87403), Prob: 0.0004
+Token: ' adventurer' (ID: 99135), Prob: 0.0004
+Token: ' names' (ID: 5036), Prob: 0.0004
+Token: ' season' (ID: 3200), Prob: 0.0004
+Token: ' tour' (ID: 7216), Prob: 0.0004
+Token: ' invitation' (ID: 28688), Prob: 0.0004
+Token: ' view' (ID: 1651), Prob: 0.0004
+Token: ' activity' (ID: 5702), Prob: 0.0004
+Token: ' event' (ID: 1538), Prob: 0.0003
+Token: ' character' (ID: 3668), Prob: 0.0003
+Token: ' detail' (ID: 7716), Prob: 0.0003
+Token: ' intention' (ID: 14602), Prob: 0.0003
+Token: ' vivid' (ID: 42020), Prob: 0.0003
+Token: ' experience' (ID: 3139), Prob: 0.0003
+Token: ' sound' (ID: 5112), Prob: 0.0003
+Token: ' approach' (ID: 5486), Prob: 0.0003
+Token: ' sight' (ID: 13929), Prob: 0.0003
+Token: ' type' (ID: 943), Prob: 0.0003
+Token: ' people' (ID: 1251), Prob: 0.0003
+Token: ' usual' (ID: 13475), Prob: 0.0003
+Token: ' plan' (ID: 3119), Prob: 0.0003
+Token: ' direction' (ID: 5106), Prob: 0.0003
+Token: ' perspective' (ID: 13057), Prob: 0.0003
+Token: ' explorer' (ID: 52967), Prob: 0.0003
+Token: ' story' (ID: 3364), Prob: 0.0003
+Token: ' appearance' (ID: 11094), Prob: 0.0003
+Token: ' place' (ID: 1992), Prob: 0.0002
+Token: ' beginning' (ID: 7167), Prob: 0.0002
+Token: ' significance' (ID: 25361), Prob: 0.0002
+Token: ' trek' (ID: 44588), Prob: 0.0002
+Token: ' tone' (ID: 16232), Prob: 0.0002
+Token: ' call' (ID: 1618), Prob: 0.0002
+Token: ' background' (ID: 4004), Prob: 0.0002
+Token: ' reader' (ID: 6604), Prob: 0.0002
+Token: ' timing' (ID: 18405), Prob: 0.0002
+Token: ' ambiance' (ID: 94573), Prob: 0.0002
+Token: ' planning' (ID: 9115), Prob: 0.0002
+Token: ' landscape' (ID: 18414), Prob: 0.0002
+Token: ' decision' (ID: 5480), Prob: 0.0002
+Token: ' outline' (ID: 21101), Prob: 0.0002
+Token: ' premise' (ID: 40202), Prob: 0.0002
 
 == Ranked Concepts (Clusters) ==
-Rank 1 | Centroid: ' message' | Score: 0.9648
-  Tokens: [' message', ' messages', '.message', ' Message', '(message', 'message', 'Message', '\tmessage', '_message']
-Rank 2 | Centroid: ' prompt' | Score: 0.0094
-  Tokens: [' prompt']
-Rank 3 | Centroid: ' question' | Score: 0.0002
-  Tokens: [' question']
-Rank 4 | Centroid: ' phrase' | Score: 0.0002
-  Tokens: [' statement', ' phrase', ' wording', ' sentence']
-Rank 5 | Centroid: ' answer' | Score: 0.0001
-  Tokens: [' answer', ' response']
-Rank 6 | Centroid: ' information' | Score: 0.0000
-  Tokens: [' information', ' instruction']
-Rank 7 | Centroid: ' content' | Score: 0.0000
-  Tokens: [' content', ' text']
-Rank 8 | Centroid: ' example' | Score: 0.0000
-  Tokens: [' example', ' image']
-Rank 9 | Centroid: ' list' | Score: 0.0000
-  Tokens: [' list']
-Rank 10 | Centroid: ' theme' | Score: 0.0000
-  Tokens: [' theme', ' motif']
-Rank 11 | Centroid: ':message' | Score: 0.0000
-  Tokens: [':message']
-Rank 12 | Centroid: ' item' | Score: 0.0000
-  Tokens: [' item']
-Rank 13 | Centroid: ' point' | Score: 0.0000
-  Tokens: [' point']
-Rank 14 | Centroid: ' user' | Score: 0.0000
-  Tokens: [' user']
-Rank 15 | Centroid: ' description' | Score: 0.0000
-  Tokens: [' description']
-Rank 16 | Centroid: ' except' | Score: 0.0000
-  Tokens: [' except']
+Rank 1 | Centroid: ' setup' | Score: 0.4551
+  Tokens: [' setting', ' setup', ' context', ' structure', ' background']
+Rank 2 | Centroid: ' entrance' | Score: 0.1611
+  Tokens: [' arrival', ' departure', ' entry', ' introduction', ' entrance']
+Rank 3 | Centroid: ' day' | Score: 0.1387
+  Tokens: [' time', ' date', ' day', ' weather', ' morning', ' moment', ' season', ' timing']
+Rank 4 | Centroid: ' excitement' | Score: 0.0583
+  Tokens: [' anticipation', ' excitement', ' attraction', ' discovery', ' allure', ' invitation']
+Rank 5 | Centroid: ' protagonist' | Score: 0.0280
+  Tokens: [' narrator', ' protagonist', ' author', ' driver', ' photographer', ' reader']
+Rank 6 | Centroid: ' location' | Score: 0.0260
+  Tokens: [' destination', ' location', ' route', ' direction', ' place']
+Rank 7 | Centroid: ' adventurer' | Score: 0.0256
+  Tokens: [' traveler', ' journey', ' hike', ' hiking', ' trip', ' adventure', ' visitor', ' adventurer', ' tour', ' explorer', ' trek']
+Rank 8 | Centroid: ' name' | Score: 0.0255
+  Tokens: [' name', ' title', ' names']
+Rank 9 | Centroid: ' initial' | Score: 0.0255
+  Tokens: [' main', ' general', ' first', ' opening', ' overall', ' initial', ' usual', ' beginning']
+Rank 10 | Centroid: ' people' | Score: 0.0154
+  Tokens: [' person', ' type', ' people']
+Rank 11 | Centroid: ' details' | Score: 0.0049
+  Tokens: [' details', ' detail', ' vivid']
+Rank 12 | Centroid: ' environment' | Score: 0.0042
+  Tokens: [' environment', ' atmosphere', ' surroundings', ' ambiance', ' landscape']
+Rank 13 | Centroid: ' scenery' | Score: 0.0039
+  Tokens: [' scenery', ' scene', ' scenic']
+Rank 14 | Centroid: ' description' | Score: 0.0039
+  Tokens: [' description', ' outline']
+Rank 15 | Centroid: ' purpose' | Score: 0.0028
+  Tokens: [' purpose', ' motivation', ' reason', ' intention', ' significance']
+Rank 16 | Centroid: ' planning' | Score: 0.0014
+  Tokens: [' preparation', ' plan', ' planning']
+Rank 17 | Centroid: ' perspective' | Score: 0.0013
+  Tokens: [' view', ' experience', ' sight', ' perspective']
+Rank 18 | Centroid: ' feeling' | Score: 0.0013
+  Tokens: [' feeling', ' sound']
+Rank 19 | Centroid: ' impression' | Score: 0.0011
+  Tokens: [' impression', ' appearance', ' premise']
+Rank 20 | Centroid: ' activity' | Score: 0.0007
+  Tokens: [' activity', ' event']
+Rank 21 | Centroid: ' idea' | Score: 0.0007
+  Tokens: [' idea', ' decision']
+Rank 22 | Centroid: ' character' | Score: 0.0006
+  Tokens: [' character', ' story']
+Rank 23 | Centroid: ' approach' | Score: 0.0003
+  Tokens: [' approach']
+Rank 24 | Centroid: ' tone' | Score: 0.0002
+  Tokens: [' tone']
+Rank 25 | Centroid: ' call' | Score: 0.0002
+  Tokens: [' call']
 
 **Chosen Concept:** Rank 1

@@ -1,0 +1,124 @@
+--- Step 99 Log ---
+
+== Filtered Candidates ==
+Token: ' could' (ID: 1410), Prob: 0.2305
+Token: ' might' (ID: 2578), Prob: 0.1787
+Token: ' starts' (ID: 8471), Prob: 0.1396
+Token: ' acts' (ID: 14056), Prob: 0.0258
+Token: ' acting' (ID: 15358), Prob: 0.0214
+Token: ' may' (ID: 1231), Prob: 0.0156
+Token: ' without' (ID: 2041), Prob: 0.0130
+Token: ' starting' (ID: 5916), Prob: 0.0054
+Token: ' mis' (ID: 5786), Prob: 0.0031
+Token: ' becomes' (ID: 9044), Prob: 0.0029
+Token: ' begins' (ID: 12033), Prob: 0.0029
+Token: ' seems' (ID: 4977), Prob: 0.0027
+Token: ' accidentally' (ID: 32384), Prob: 0.0027
+Token: ' makes' (ID: 3643), Prob: 0.0014
+Token: ' maybe' (ID: 7196), Prob: 0.0013
+Token: ' trying' (ID: 4460), Prob: 0.0012
+Token: ' shows' (ID: 4933), Prob: 0.0011
+Token: ' misunderstood' (ID: 72856), Prob: 0.0011
+Token: ' initiating' (ID: 78416), Prob: 0.0009
+Token: ' making' (ID: 3259), Prob: 0.0009
+Token: ' opens' (ID: 15885), Prob: 0.0009
+Token: ' taking' (ID: 4633), Prob: 0.0008
+Token: ' talking' (ID: 7404), Prob: 0.0008
+Token: ' perhaps' (ID: 8365), Prob: 0.0008
+Token: ' started' (ID: 3855), Prob: 0.0007
+Token: ' presents' (ID: 18404), Prob: 0.0007
+Token: ' behaving' (ID: 86557), Prob: 0.0007
+Token: ' takes' (ID: 4990), Prob: 0.0007
+Token: ' ends' (ID: 10335), Prob: 0.0007
+Token: ' finds' (ID: 13719), Prob: 0.0007
+Token: ' acted' (ID: 30432), Prob: 0.0006
+Token: ' reacting' (ID: 73050), Prob: 0.0006
+Token: ' suddenly' (ID: 14843), Prob: 0.0006
+Token: ' approaching' (ID: 29947), Prob: 0.0006
+Token: ' pretending' (ID: 54806), Prob: 0.0006
+Token: ' shares' (ID: 13248), Prob: 0.0005
+Token: ' talks' (ID: 13433), Prob: 0.0005
+Token: ' initially' (ID: 15102), Prob: 0.0005
+Token: ' engaging' (ID: 22570), Prob: 0.0005
+Token: ' interacting' (ID: 44730), Prob: 0.0005
+Token: ' unexpectedly' (ID: 50609), Prob: 0.0005
+Token: ' reacts' (ID: 68845), Prob: 0.0005
+Token: ' overhe' (ID: 71289), Prob: 0.0005
+Token: ' comes' (ID: 4041), Prob: 0.0005
+Token: ' uses' (ID: 5711), Prob: 0.0005
+Token: ' causing' (ID: 14381), Prob: 0.0005
+Token: ' meets' (ID: 20027), Prob: 0.0005
+Token: ' interacts' (ID: 83161), Prob: 0.0005
+Token: ' unknow' (ID: 83544), Prob: 0.0005
+Token: ' feels' (ID: 11074), Prob: 0.0004
+Token: ' behaves' (ID: 73057), Prob: 0.0004
+Token: ' gets' (ID: 5221), Prob: 0.0004
+Token: ' goes' (ID: 5780), Prob: 0.0004
+Token: ' appears' (ID: 7952), Prob: 0.0004
+Token: ' showing' (ID: 9027), Prob: 0.0004
+Token: ' avoids' (ID: 54852), Prob: 0.0004
+Token: ' misunderstand' (ID: 89600), Prob: 0.0004
+Token: ' tries' (ID: 16297), Prob: 0.0004
+Token: ' unaware' (ID: 40647), Prob: 0.0004
+Token: ' leading' (ID: 6388), Prob: 0.0004
+Token: ' beginning' (ID: 7167), Prob: 0.0004
+Token: ' turns' (ID: 10577), Prob: 0.0004
+Token: ' causes' (ID: 11137), Prob: 0.0004
+Token: ' experiencing' (ID: 24084), Prob: 0.0004
+Token: ' helps' (ID: 8609), Prob: 0.0003
+Token: ' possibly' (ID: 10767), Prob: 0.0003
+Token: ' engages' (ID: 68489), Prob: 0.0003
+Token: ' whose' (ID: 6693), Prob: 0.0003
+Token: ' unexpected' (ID: 16500), Prob: 0.0003
+Token: ' noticing' (ID: 61364), Prob: 0.0003
+Token: ' misunderstanding' (ID: 69747), Prob: 0.0003
+Token: ' approaches' (ID: 19827), Prob: 0.0003
+Token: ' using' (ID: 1667), Prob: 0.0003
+Token: ' experiences' (ID: 11449), Prob: 0.0003
+Token: ' avoiding' (ID: 30426), Prob: 0.0003
+Token: ' turning' (ID: 13054), Prob: 0.0003
+Token: ' unc' (ID: 20815), Prob: 0.0003
+Token: ' seemingly' (ID: 22660), Prob: 0.0003
+Token: ' discussing' (ID: 24392), Prob: 0.0003
+
+== Ranked Concepts (Clusters) ==
+Rank 1 | Centroid: ' perhaps' | Score: 0.4277
+  Tokens: [' could', ' might', ' may', ' maybe', ' perhaps', ' possibly']
+Rank 2 | Centroid: ' starts' | Score: 0.1494
+  Tokens: [' starts', ' starting', ' begins', ' started', ' beginning']
+Rank 3 | Centroid: ' acting' | Score: 0.0476
+  Tokens: [' acts', ' acting', ' acted']
+Rank 4 | Centroid: ' without' | Score: 0.0133
+  Tokens: [' without', ' whose']
+Rank 5 | Centroid: ' gets' | Score: 0.0117
+  Tokens: [' becomes', ' makes', ' shows', ' opens', ' presents', ' takes', ' ends', ' finds', ' comes', ' uses', ' meets', ' gets', ' goes', ' helps']
+Rank 6 | Centroid: ' unexpectedly' | Score: 0.0055
+  Tokens: [' accidentally', ' suddenly', ' unexpectedly', ' unknow', ' unaware', ' unexpected', ' unc', ' seemingly']
+Rank 7 | Centroid: ' misunderstand' | Score: 0.0054
+  Tokens: [' mis', ' misunderstood', ' overhe', ' misunderstand', ' misunderstanding']
+Rank 8 | Centroid: ' seems' | Score: 0.0036
+  Tokens: [' seems', ' feels', ' appears']
+Rank 9 | Centroid: ' discussing' | Score: 0.0032
+  Tokens: [' trying', ' talking', ' pretending', ' noticing', ' discussing']
+Rank 10 | Centroid: ' taking' | Score: 0.0024
+  Tokens: [' making', ' taking', ' showing', ' using']
+Rank 11 | Centroid: ' interacting' | Score: 0.0023
+  Tokens: [' behaving', ' reacting', ' engaging', ' interacting']
+Rank 12 | Centroid: ' interacts' | Score: 0.0018
+  Tokens: [' reacts', ' interacts', ' behaves', ' engages']
+Rank 13 | Centroid: ' causing' | Score: 0.0015
+  Tokens: [' causing', ' causes', ' experiencing', ' experiences']
+Rank 14 | Centroid: ' initiating' | Score: 0.0015
+  Tokens: [' initiating', ' initially']
+Rank 15 | Centroid: ' turning' | Score: 0.0010
+  Tokens: [' leading', ' turns', ' turning']
+Rank 16 | Centroid: ' talks' | Score: 0.0009
+  Tokens: [' talks', ' tries']
+Rank 17 | Centroid: ' approaching' | Score: 0.0009
+  Tokens: [' approaching', ' approaches']
+Rank 18 | Centroid: ' avoids' | Score: 0.0007
+  Tokens: [' avoids', ' avoiding']
+Rank 19 | Centroid: ' shares' | Score: 0.0005
+  Tokens: [' shares']
+
+**Chosen Concept:** Rank 1

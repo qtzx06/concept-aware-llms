@@ -1,106 +1,150 @@
 --- Step 40 Log ---
 
 == Filtered Candidates ==
-Token: ' grow' (ID: 3063), Prob: 0.9883
-Token: ' grown' (ID: 14700), Prob: 0.0007
-Token: ' old' (ID: 2310), Prob: 0.0005
-Token: ' growing' (ID: 7826), Prob: 0.0005
-Token: ' grows' (ID: 27715), Prob: 0.0004
-Token: ' stay' (ID: 4717), Prob: 0.0003
-Token: ' growth' (ID: 6513), Prob: 0.0003
-Token: ' get' (ID: 633), Prob: 0.0003
-Token: ' age' (ID: 4231), Prob: 0.0001
-Token: ' become' (ID: 3635), Prob: 0.0001
-Token: ' young' (ID: 3908), Prob: 0.0001
-Token: ' grew' (ID: 13938), Prob: 0.0001
-Token: ' rise' (ID: 10000), Prob: 0.0001
-Token: ' eat' (ID: 8180), Prob: 0.0001
-Token: ' keep' (ID: 2506), Prob: 0.0001
-Token: ' take' (ID: 1896), Prob: 0.0001
-Token: ' raise' (ID: 4828), Prob: 0.0001
-Token: ' leave' (ID: 5274), Prob: 0.0001
-Token: ' sleep' (ID: 6084), Prob: 0.0001
-Token: ' live' (ID: 3887), Prob: 0.0001
-Token: ' make' (ID: 1281), Prob: 0.0000
-Token: ' older' (ID: 9014), Prob: 0.0000
-Token: ' read' (ID: 1349), Prob: 0.0000
-Token: ' care' (ID: 2453), Prob: 0.0000
-Token: ' start' (ID: 1191), Prob: 0.0000
-Token: ' continue' (ID: 3060), Prob: 0.0000
-Token: ' spend' (ID: 8329), Prob: 0.0000
-Token: ' mature' (ID: 14851), Prob: 0.0000
+Token: ' conversation' (ID: 10435), Prob: 0.9688
+Token: ' relationship' (ID: 5025), Prob: 0.0084
+Token: ' dialogue' (ID: 21276), Prob: 0.0045
+Token: ' friendship' (ID: 26509), Prob: 0.0045
+Token: ' talk' (ID: 3061), Prob: 0.0040
+Token: ' friendly' (ID: 11657), Prob: 0.0031
+Token: ' meaningful' (ID: 22414), Prob: 0.0015
+Token: ' discussion' (ID: 10219), Prob: 0.0009
+Token: ' new' (ID: 501), Prob: 0.0004
+Token: ' chat' (ID: 6236), Prob: 0.0004
+Token: ' connection' (ID: 3633), Prob: 0.0003
+Token: ' casual' (ID: 16334), Prob: 0.0003
+Token: ' long' (ID: 1293), Prob: 0.0003
+Token: ' friend' (ID: 4238), Prob: 0.0002
+Token: ' romantic' (ID: 23467), Prob: 0.0002
+Token: ' talking' (ID: 7404), Prob: 0.0002
+Token: ' communication' (ID: 10535), Prob: 0.0002
+Token: ' good' (ID: 1661), Prob: 0.0001
+Token: ' day' (ID: 1899), Prob: 0.0001
+Token: ' serious' (ID: 6001), Prob: 0.0001
+Token: ' personal' (ID: 4345), Prob: 0.0001
+Token: ' mon' (ID: 1615), Prob: 0.0001
+Token: ' date' (ID: 2400), Prob: 0.0001
+Token: ' daily' (ID: 7298), Prob: 0.0000
+Token: ' genuine' (ID: 22011), Prob: 0.0000
+Token: ' story' (ID: 3364), Prob: 0.0000
+Token: ' meeting' (ID: 6438), Prob: 0.0000
+Token: ' dialog' (ID: 7254), Prob: 0.0000
+Token: ' speech' (ID: 8806), Prob: 0.0000
+Token: ' routine' (ID: 14021), Prob: 0.0000
+Token: ' non' (ID: 2477), Prob: 0.0000
+Token: ' conversations' (ID: 20959), Prob: 0.0000
+Token: ' heartfelt' (ID: 83111), Prob: 0.0000
+Token: ' verbal' (ID: 35770), Prob: 0.0000
+Token: ' private' (ID: 869), Prob: 0.0000
+Token: ' topic' (ID: 8544), Prob: 0.0000
+Token: ' relation' (ID: 12687), Prob: 0.0000
+Token: ' convers' (ID: 7517), Prob: 0.0000
+Token: ' interaction' (ID: 16230), Prob: 0.0000
 Token: ' close' (ID: 3265), Prob: 0.0000
-Token: ' learn' (ID: 3960), Prob: 0.0000
-Token: ' choose' (ID: 5157), Prob: 0.0000
-Token: ' reach' (ID: 5545), Prob: 0.0000
-Token: ' long' (ID: 1293), Prob: 0.0000
-Token: ' come' (ID: 2525), Prob: 0.0000
-Token: ' use' (ID: 990), Prob: 0.0000
-Token: ' years' (ID: 1635), Prob: 0.0000
-Token: ' cross' (ID: 5312), Prob: 0.0000
-Token: ' forever' (ID: 15683), Prob: 0.0000
-Token: ' move' (ID: 3271), Prob: 0.0000
-Token: ' open' (ID: 1787), Prob: 0.0000
-Token: ' catch' (ID: 2287), Prob: 0.0000
+Token: ' series' (ID: 4013), Prob: 0.0000
+Token: ' habit' (ID: 14132), Prob: 0.0000
+Token: ' pleasant' (ID: 23795), Prob: 0.0000
+Token: ' playful' (ID: 56069), Prob: 0.0000
+Token: ' narrative' (ID: 19221), Prob: 0.0000
+Token: ' humorous' (ID: 69846), Prob: 0.0000
+Token: ' short' (ID: 2805), Prob: 0.0000
+Token: ' true' (ID: 830), Prob: 0.0000
+Token: ' ban' (ID: 8943), Prob: 0.0000
+Token: ' two' (ID: 1378), Prob: 0.0000
+Token: ' real' (ID: 1931), Prob: 0.0000
+Token: ' social' (ID: 3590), Prob: 0.0000
+Token: ' brief' (ID: 9814), Prob: 0.0000
+Token: ' life' (ID: 2272), Prob: 0.0000
+Token: ' spontaneous' (ID: 53457), Prob: 0.0000
+Token: ' kind' (ID: 3093), Prob: 0.0000
+Token: ' positive' (ID: 6785), Prob: 0.0000
+Token: ' phone' (ID: 4540), Prob: 0.0000
+Token: ' lasting' (ID: 28769), Prob: 0.0000
+Token: ' proper' (ID: 6169), Prob: 0.0000
 Token: ' walk' (ID: 4227), Prob: 0.0000
-Token: ' aged' (ID: 19749), Prob: 0.0000
-Token: ' ask' (ID: 2548), Prob: 0.0000
-Token: ' cry' (ID: 15729), Prob: 0.0000
-Token: ' Grow' (ID: 46560), Prob: 0.0000
-Token: ' finish' (ID: 6248), Prob: 0.0000
-Token: ' forget' (ID: 10667), Prob: 0.0000
-Token: ' youth' (ID: 12537), Prob: 0.0000
-Token: 'grow' (ID: 66218), Prob: 0.0000
-Token: ' across' (ID: 3941), Prob: 0.0000
-Token: ' younger' (ID: 14650), Prob: 0.0000
-Token: ' engage' (ID: 16579), Prob: 0.0000
-Token: ' graduate' (ID: 19023), Prob: 0.0000
-Token: ' develop' (ID: 2225), Prob: 0.0000
-Token: ' feel' (ID: 2666), Prob: 0.0000
-Token: ' gather' (ID: 9567), Prob: 0.0000
-Token: ' look' (ID: 1401), Prob: 0.0000
-Token: ' receive' (ID: 5258), Prob: 0.0000
+Token: ' happy' (ID: 6247), Prob: 0.0000
+Token: ' normal' (ID: 4622), Prob: 0.0000
+Token: ' conflict' (ID: 12055), Prob: 0.0000
+Token: ' rapport' (ID: 38374), Prob: 0.0000
+Token: ' fight' (ID: 4367), Prob: 0.0000
+Token: ' lively' (ID: 48177), Prob: 0.0000
+Token: ' line' (ID: 1555), Prob: 0.0000
+Token: ' quiet' (ID: 11340), Prob: 0.0000
+Token: ' difficult' (ID: 5000), Prob: 0.0000
+Token: ' deep' (ID: 5538), Prob: 0.0000
+Token: ' situation' (ID: 6534), Prob: 0.0000
+Token: ' tense' (ID: 42687), Prob: 0.0000
+Token: ' sincere' (ID: 48324), Prob: 0.0000
+Token: ' bad' (ID: 3873), Prob: 0.0000
+Token: ' seemingly' (ID: 22660), Prob: 0.0000
+Token: ' discourse' (ID: 40502), Prob: 0.0000
+Token: ' visit' (ID: 3947), Prob: 0.0000
+Token: ' professional' (ID: 6584), Prob: 0.0000
+Token: ' warm' (ID: 8205), Prob: 0.0000
+Token: ' trip' (ID: 8411), Prob: 0.0000
+Token: 'conversation' (ID: 61637), Prob: 0.0000
+Token: ' nice' (ID: 6419), Prob: 0.0000
+Token: ' strange' (ID: 14888), Prob: 0.0000
+Token: ' fond' (ID: 21208), Prob: 0.0000
+Token: ' reluctant' (ID: 42940), Prob: 0.0000
+Token: ' call' (ID: 1618), Prob: 0.0000
+Token: ' message' (ID: 1943), Prob: 0.0000
+Token: ' love' (ID: 2948), Prob: 0.0000
+Token: ' late' (ID: 3309), Prob: 0.0000
+Token: ' dating' (ID: 4924), Prob: 0.0000
+Token: ' small' (ID: 2613), Prob: 0.0000
+Token: ' moment' (ID: 4445), Prob: 0.0000
+Token: ' lengthy' (ID: 34206), Prob: 0.0000
+Token: ' public' (ID: 584), Prob: 0.0000
+Token: ' journey' (ID: 11618), Prob: 0.0000
+Token: ' formal' (ID: 15908), Prob: 0.0000
 
 == Ranked Concepts (Clusters) ==
-Rank 1 | Centroid: ' grow' | Score: 0.9883
-  Tokens: [' grow', ' grown', ' growing', ' grows', ' growth', ' grew', ' Grow', 'grow']
-Rank 2 | Centroid: ' younger' | Score: 0.0007
-  Tokens: [' old', ' young', ' older', ' youth', ' younger']
-Rank 3 | Centroid: ' get' | Score: 0.0005
-  Tokens: [' get', ' become', ' take', ' make', ' come', ' develop']
-Rank 4 | Centroid: ' keep' | Score: 0.0005
-  Tokens: [' stay', ' keep', ' leave', ' continue']
-Rank 5 | Centroid: ' eat' | Score: 0.0003
-  Tokens: [' eat', ' read', ' spend', ' learn', ' choose', ' ask', ' forget', ' gather', ' receive']
-Rank 6 | Centroid: ' aged' | Score: 0.0002
-  Tokens: [' age', ' years', ' aged']
-Rank 7 | Centroid: ' rise' | Score: 0.0001
-  Tokens: [' rise', ' raise']
-Rank 8 | Centroid: ' open' | Score: 0.0001
-  Tokens: [' live', ' close', ' open']
-Rank 9 | Centroid: ' walk' | Score: 0.0001
-  Tokens: [' move', ' walk', ' finish', ' graduate']
-Rank 10 | Centroid: ' start' | Score: 0.0001
-  Tokens: [' start', ' use']
-Rank 11 | Centroid: ' sleep' | Score: 0.0001
-  Tokens: [' sleep']
-Rank 12 | Centroid: ' long' | Score: 0.0000
-  Tokens: [' long', ' forever']
-Rank 13 | Centroid: ' cross' | Score: 0.0000
-  Tokens: [' cross', ' across']
-Rank 14 | Centroid: ' care' | Score: 0.0000
-  Tokens: [' care']
-Rank 15 | Centroid: ' feel' | Score: 0.0000
-  Tokens: [' feel', ' look']
-Rank 16 | Centroid: ' mature' | Score: 0.0000
-  Tokens: [' mature']
-Rank 17 | Centroid: ' reach' | Score: 0.0000
-  Tokens: [' reach']
-Rank 18 | Centroid: ' catch' | Score: 0.0000
-  Tokens: [' catch']
-Rank 19 | Centroid: ' cry' | Score: 0.0000
-  Tokens: [' cry']
-Rank 20 | Centroid: ' engage' | Score: 0.0000
-  Tokens: [' engage']
+Rank 1 | Centroid: ' conversation' | Score: 0.9805
+  Tokens: [' conversation', ' dialogue', ' talk', ' discussion', ' chat', ' talking', ' communication', ' dialog', ' speech', ' conversations', ' convers', ' discourse', 'conversation']
+Rank 2 | Centroid: ' relationship' | Score: 0.0087
+  Tokens: [' relationship', ' connection', ' relation', ' interaction', ' conflict', ' rapport']
+Rank 3 | Centroid: ' friend' | Score: 0.0078
+  Tokens: [' friendship', ' friendly', ' friend']
+Rank 4 | Centroid: ' genuine' | Score: 0.0016
+  Tokens: [' meaningful', ' serious', ' genuine', ' true', ' real', ' sincere']
+Rank 5 | Centroid: ' non' | Score: 0.0005
+  Tokens: [' new', ' mon', ' non', ' two', ' kind', ' line']
+Rank 6 | Centroid: ' romantic' | Score: 0.0005
+  Tokens: [' casual', ' romantic', ' verbal', ' spontaneous']
+Rank 7 | Centroid: ' short' | Score: 0.0003
+  Tokens: [' long', ' short', ' brief', ' small', ' lengthy']
+Rank 8 | Centroid: ' date' | Score: 0.0002
+  Tokens: [' day', ' date', ' daily', ' dating']
+Rank 9 | Centroid: ' good' | Score: 0.0001
+  Tokens: [' good', ' bad']
+Rank 10 | Centroid: ' private' | Score: 0.0001
+  Tokens: [' personal', ' private', ' professional', ' public', ' formal']
+Rank 11 | Centroid: ' narrative' | Score: 0.0001
+  Tokens: [' story', ' topic', ' narrative', ' situation', ' message']
+Rank 12 | Centroid: ' walk' | Score: 0.0001
+  Tokens: [' meeting', ' ban', ' walk', ' fight', ' visit', ' trip', ' call']
+Rank 13 | Centroid: ' playful' | Score: 0.0000
+  Tokens: [' heartfelt', ' playful', ' humorous', ' lively']
+Rank 14 | Centroid: ' pleasant' | Score: 0.0000
+  Tokens: [' pleasant', ' happy', ' quiet', ' warm', ' nice', ' strange', ' fond']
+Rank 15 | Centroid: ' routine' | Score: 0.0000
+  Tokens: [' routine', ' moment']
+Rank 16 | Centroid: ' journey' | Score: 0.0000
+  Tokens: [' habit', ' life', ' journey']
+Rank 17 | Centroid: ' late' | Score: 0.0000
+  Tokens: [' close', ' deep', ' late']
+Rank 18 | Centroid: ' proper' | Score: 0.0000
+  Tokens: [' positive', ' proper', ' normal']
+Rank 19 | Centroid: ' difficult' | Score: 0.0000
+  Tokens: [' difficult', ' tense', ' seemingly', ' reluctant']
+Rank 20 | Centroid: ' social' | Score: 0.0000
+  Tokens: [' social', ' phone']
+Rank 21 | Centroid: ' series' | Score: 0.0000
+  Tokens: [' series']
+Rank 22 | Centroid: ' lasting' | Score: 0.0000
+  Tokens: [' lasting']
+Rank 23 | Centroid: ' love' | Score: 0.0000
+  Tokens: [' love']
 
 **Chosen Concept:** Rank 1

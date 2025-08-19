@@ -1,156 +1,101 @@
 --- Step 38 Log ---
 
 == Filtered Candidates ==
-Token: ' intensity' (ID: 20612), Prob: 0.5039
-Token: ' pain' (ID: 6646), Prob: 0.0991
-Token: ' tears' (ID: 23139), Prob: 0.0874
-Token: ' physical' (ID: 6961), Prob: 0.0469
-Token: ' emotion' (ID: 19772), Prob: 0.0364
-Token: ' intense' (ID: 18894), Prob: 0.0322
-Token: ' crying' (ID: 30199), Prob: 0.0284
-Token: ' process' (ID: 1882), Prob: 0.0221
-Token: ' experience' (ID: 3139), Prob: 0.0221
-Token: ' act' (ID: 1160), Prob: 0.0172
-Token: ' emotional' (ID: 14269), Prob: 0.0152
-Token: ' impact' (ID: 5421), Prob: 0.0134
-Token: ' emotions' (ID: 21261), Prob: 0.0118
-Token: ' moment' (ID: 4445), Prob: 0.0081
-Token: ' sadness' (ID: 50878), Prob: 0.0056
-Token: ' depth' (ID: 7990), Prob: 0.0049
-Token: ' struggle' (ID: 14651), Prob: 0.0049
-Token: ' effect' (ID: 2456), Prob: 0.0025
-Token: ' cry' (ID: 15729), Prob: 0.0025
-Token: ' expression' (ID: 7493), Prob: 0.0017
-Token: ' feelings' (ID: 15650), Prob: 0.0017
-Token: ' situation' (ID: 6534), Prob: 0.0013
-Token: ' extent' (ID: 12818), Prob: 0.0013
-Token: ' deep' (ID: 5538), Prob: 0.0013
-Token: ' overwhelming' (ID: 22024), Prob: 0.0013
-Token: ' feeling' (ID: 8266), Prob: 0.0012
-Token: ' scene' (ID: 6109), Prob: 0.0011
-Token: ' sorrow' (ID: 57496), Prob: 0.0010
-Token: ' loss' (ID: 4709), Prob: 0.0009
-Token: ' strength' (ID: 8170), Prob: 0.0009
-Token: ' reaction' (ID: 12720), Prob: 0.0008
-Token: ' strong' (ID: 3746), Prob: 0.0008
-Token: ' range' (ID: 2088), Prob: 0.0007
-Token: ' internal' (ID: 5306), Prob: 0.0007
-Token: ' grief' (ID: 37284), Prob: 0.0006
-Token: ' joy' (ID: 15888), Prob: 0.0005
-Token: ' immediate' (ID: 13922), Prob: 0.0005
-Token: ' agony' (ID: 78830), Prob: 0.0005
-Token: ' action' (ID: 1917), Prob: 0.0004
-Token: ' desperation' (ID: 73324), Prob: 0.0004
-Token: ' suffering' (ID: 15691), Prob: 0.0004
-Token: ' distress' (ID: 34004), Prob: 0.0004
-Token: ' sensation' (ID: 36292), Prob: 0.0004
-Token: ' tear' (ID: 17576), Prob: 0.0003
-Token: ' sensory' (ID: 47969), Prob: 0.0003
-Token: ' chaos' (ID: 26915), Prob: 0.0003
-Token: ' eyes' (ID: 6414), Prob: 0.0003
-Token: ' scenario' (ID: 15048), Prob: 0.0003
-Token: ' flood' (ID: 17726), Prob: 0.0002
-Token: ' exhaustion' (ID: 69563), Prob: 0.0002
-Token: ' amount' (ID: 3311), Prob: 0.0002
-Token: ' sudden' (ID: 10968), Prob: 0.0002
-Token: ' content' (ID: 2213), Prob: 0.0002
-Token: ' specific' (ID: 3151), Prob: 0.0002
-Token: ' effects' (ID: 6239), Prob: 0.0002
-Token: ' vivid' (ID: 42020), Prob: 0.0002
-Token: ' connection' (ID: 3633), Prob: 0.0002
-Token: ' transition' (ID: 9142), Prob: 0.0002
-Token: ' frustration' (ID: 31986), Prob: 0.0002
-Token: ' sensations' (ID: 71497), Prob: 0.0002
-Token: ' longing' (ID: 78322), Prob: 0.0002
-Token: ' raw' (ID: 7112), Prob: 0.0001
-Token: ' outcome' (ID: 15274), Prob: 0.0001
-Token: ' eup' (ID: 63943), Prob: 0.0001
-Token: ' overwhelm' (ID: 95748), Prob: 0.0001
-Token: ' despair' (ID: 45896), Prob: 0.0001
-Token: ' trembling' (ID: 91988), Prob: 0.0001
-Token: ' natural' (ID: 5810), Prob: 0.0001
-Token: ' flow' (ID: 6396), Prob: 0.0001
-Token: ' desire' (ID: 12591), Prob: 0.0001
-Token: ' sight' (ID: 13929), Prob: 0.0001
-Token: ' state' (ID: 1584), Prob: 0.0001
-Token: ' extreme' (ID: 14226), Prob: 0.0001
-Token: ' difficulty' (ID: 16829), Prob: 0.0001
-Token: ' full' (ID: 2480), Prob: 0.0001
-Token: ' sad' (ID: 12421), Prob: 0.0001
-Token: ' ache' (ID: 77731), Prob: 0.0001
-Token: ' details' (ID: 3565), Prob: 0.0001
-Token: ' stress' (ID: 8464), Prob: 0.0001
-Token: ' ecstasy' (ID: 92563), Prob: 0.0001
-Token: ' body' (ID: 2487), Prob: 0.0001
-Token: ' personal' (ID: 4345), Prob: 0.0001
-Token: ' actual' (ID: 5042), Prob: 0.0001
-Token: ' journey' (ID: 11618), Prob: 0.0001
-Token: ' painful' (ID: 25118), Prob: 0.0001
-Token: ' visual' (ID: 9124), Prob: 0.0001
-Token: ' mental' (ID: 10502), Prob: 0.0001
-Token: ' severity' (ID: 29920), Prob: 0.0001
-Token: ' result' (ID: 1102), Prob: 0.0001
-Token: ' anger' (ID: 19234), Prob: 0.0001
-Token: ' scream' (ID: 45689), Prob: 0.0001
-Token: ' pouring' (ID: 50413), Prob: 0.0001
-Token: ' des' (ID: 939), Prob: 0.0001
-Token: ' degree' (ID: 8381), Prob: 0.0001
-Token: ' sense' (ID: 5530), Prob: 0.0001
-Token: ' wide' (ID: 6884), Prob: 0.0001
-Token: ' nature' (ID: 6993), Prob: 0.0001
-Token: ' urge' (ID: 32047), Prob: 0.0001
-Token: ' sheer' (ID: 32538), Prob: 0.0001
+Token: 'First' (ID: 5338), Prob: 0.0035
+Token: 'Example' (ID: 13314), Prob: 0.0031
+Token: 'Okay' (ID: 32313), Prob: 0.0027
+Token: 'Narr' (ID: 63279), Prob: 0.0027
+Token: 'Use' (ID: 10253), Prob: 0.0026
+Token: 'Start' (ID: 3479), Prob: 0.0019
+Token: 'Title' (ID: 3851), Prob: 0.0017
+Token: 'Please' (ID: 5501), Prob: 0.0017
+Token: 'Story' (ID: 17938), Prob: 0.0017
+Token: 'Instructions' (ID: 55291), Prob: 0.0013
+Token: 'Let' (ID: 10061), Prob: 0.0011
+Token: 'Instruction' (ID: 16664), Prob: 0.0011
+Token: 'Response' (ID: 2582), Prob: 0.0010
+Token: 'Write' (ID: 7985), Prob: 0.0010
+Token: 'Setting' (ID: 15400), Prob: 0.0010
+Token: 'Answer' (ID: 16141), Prob: 0.0010
+Token: 'Prompt' (ID: 54615), Prob: 0.0010
+Token: 'Also' (ID: 13394), Prob: 0.0009
+Token: 'Characters' (ID: 37489), Prob: 0.0008
+Token: 'Alright' (ID: 71486), Prob: 0.0008
+Token: 'Create' (ID: 4021), Prob: 0.0008
+Token: 'Place' (ID: 17371), Prob: 0.0008
+Token: 'Additionally' (ID: 49574), Prob: 0.0007
+Token: 'Main' (ID: 6202), Prob: 0.0007
+Token: 'Character' (ID: 12404), Prob: 0.0006
+Token: 'Writing' (ID: 39313), Prob: 0.0006
+Token: 'Examples' (ID: 40381), Prob: 0.0006
+Token: 'Scenario' (ID: 54031), Prob: 0.0006
+Token: 'Assistant' (ID: 71703), Prob: 0.0006
+Token: 'Scene' (ID: 10019), Prob: 0.0005
+Token: 'Guid' (ID: 16686), Prob: 0.0005
+Token: 'Second' (ID: 15666), Prob: 0.0004
+Token: 'Include' (ID: 22283), Prob: 0.0004
+Token: 'Furthermore' (ID: 56317), Prob: 0.0004
+Token: 'Make' (ID: 8078), Prob: 0.0004
+Token: 'Plot' (ID: 25605), Prob: 0.0004
+Token: 'Sample' (ID: 17571), Prob: 0.0004
+Token: 'Tell' (ID: 40451), Prob: 0.0003
+Token: 'Dialogue' (ID: 82890), Prob: 0.0003
+Token: 'Step' (ID: 8304), Prob: 0.0003
+Token: 'Therefore' (ID: 54815), Prob: 0.0003
+Token: 'Simple' (ID: 16374), Prob: 0.0003
+Token: 'Possible' (ID: 65222), Prob: 0.0003
+Token: 'Set' (ID: 1649), Prob: 0.0003
+Token: 'Primary' (ID: 15972), Prob: 0.0003
+Token: 'Starting' (ID: 24617), Prob: 0.0003
+Token: 'Prem' (ID: 41462), Prob: 0.0003
+Token: 'Work' (ID: 6776), Prob: 0.0002
+Token: 'Using' (ID: 16429), Prob: 0.0002
+Token: 'Genre' (ID: 37525), Prob: 0.0002
 
 == Ranked Concepts (Clusters) ==
-Rank 1 | Centroid: ' severity' | Score: 0.5039
-  Tokens: [' intensity', ' difficulty', ' severity']
-Rank 2 | Centroid: ' crying' | Score: 0.1187
-  Tokens: [' tears', ' crying', ' cry', ' tear', ' eup', ' pouring']
-Rank 3 | Centroid: ' sorrow' | Score: 0.1079
-  Tokens: [' pain', ' sadness', ' sorrow', ' grief', ' joy', ' agony', ' suffering', ' sad', ' ache', ' painful', ' anger']
-Rank 4 | Centroid: ' emotions' | Score: 0.0635
-  Tokens: [' emotion', ' emotional', ' emotions']
-Rank 5 | Centroid: ' mental' | Score: 0.0486
-  Tokens: [' physical', ' internal', ' specific', ' raw', ' natural', ' full', ' personal', ' actual', ' visual', ' mental']
-Rank 6 | Centroid: ' transition' | Score: 0.0427
-  Tokens: [' process', ' act', ' expression', ' reaction', ' action', ' connection', ' transition', ' flow', ' result']
-Rank 7 | Centroid: ' overwhelming' | Score: 0.0344
-  Tokens: [' intense', ' overwhelming', ' immediate', ' sudden', ' overwhelm', ' extreme', ' sheer']
-Rank 8 | Centroid: ' experience' | Score: 0.0221
-  Tokens: [' experience']
-Rank 9 | Centroid: ' effect' | Score: 0.0162
-  Tokens: [' impact', ' effect', ' effects', ' outcome']
-Rank 10 | Centroid: ' moment' | Score: 0.0081
-  Tokens: [' moment']
-Rank 11 | Centroid: ' deep' | Score: 0.0079
-  Tokens: [' depth', ' deep', ' strength', ' strong', ' wide']
-Rank 12 | Centroid: ' struggle' | Score: 0.0050
-  Tokens: [' struggle', ' journey']
-Rank 13 | Centroid: ' sensations' | Score: 0.0038
-  Tokens: [' feelings', ' feeling', ' sensation', ' sensory', ' sensations', ' sense']
-Rank 14 | Centroid: ' scenario' | Score: 0.0027
-  Tokens: [' situation', ' scene', ' scenario']
-Rank 15 | Centroid: ' extent' | Score: 0.0016
-  Tokens: [' extent', ' amount', ' degree']
-Rank 16 | Centroid: ' frustration' | Score: 0.0010
-  Tokens: [' distress', ' chaos', ' exhaustion', ' frustration']
-Rank 17 | Centroid: ' loss' | Score: 0.0010
-  Tokens: [' loss', ' stress']
-Rank 18 | Centroid: ' despair' | Score: 0.0010
-  Tokens: [' desperation', ' longing', ' despair', ' trembling', ' ecstasy', ' scream']
-Rank 19 | Centroid: ' range' | Score: 0.0007
-  Tokens: [' range']
-Rank 20 | Centroid: ' content' | Score: 0.0006
-  Tokens: [' content', ' state', ' body', ' des', ' nature']
-Rank 21 | Centroid: ' eyes' | Score: 0.0004
-  Tokens: [' eyes', ' vivid']
-Rank 22 | Centroid: ' flood' | Score: 0.0002
-  Tokens: [' flood']
-Rank 23 | Centroid: ' desire' | Score: 0.0002
-  Tokens: [' desire', ' urge']
-Rank 24 | Centroid: ' sight' | Score: 0.0001
-  Tokens: [' sight']
-Rank 25 | Centroid: ' details' | Score: 0.0001
-  Tokens: [' details']
+Rank 1 | Centroid: 'First' | Score: 0.0052
+  Tokens: ['First', 'Main', 'Second', 'Simple', 'Primary']
+Rank 2 | Centroid: 'Narr' | Score: 0.0050
+  Tokens: ['Narr', 'Story', 'Dialogue', 'Genre']
+Rank 3 | Centroid: 'Create' | Score: 0.0048
+  Tokens: ['Use', 'Create', 'Place', 'Make', 'Work']
+Rank 4 | Centroid: 'Example' | Score: 0.0041
+  Tokens: ['Example', 'Examples', 'Sample']
+Rank 5 | Centroid: 'Instruction' | Score: 0.0038
+  Tokens: ['Instructions', 'Instruction', 'Prompt', 'Guid']
+Rank 6 | Centroid: 'Okay' | Score: 0.0036
+  Tokens: ['Okay', 'Alright']
+Rank 7 | Centroid: 'Please' | Score: 0.0028
+  Tokens: ['Please', 'Let']
+Rank 8 | Centroid: 'Answer' | Score: 0.0026
+  Tokens: ['Response', 'Answer', 'Assistant']
+Rank 9 | Centroid: 'Additionally' | Score: 0.0024
+  Tokens: ['Also', 'Additionally', 'Furthermore', 'Therefore']
+Rank 10 | Centroid: 'Start' | Score: 0.0021
+  Tokens: ['Start', 'Starting']
+Rank 11 | Centroid: 'Title' | Score: 0.0017
+  Tokens: ['Title']
+Rank 12 | Centroid: 'Write' | Score: 0.0016
+  Tokens: ['Write', 'Writing']
+Rank 13 | Centroid: 'Characters' | Score: 0.0015
+  Tokens: ['Characters', 'Character']
+Rank 14 | Centroid: 'Setting' | Score: 0.0013
+  Tokens: ['Setting', 'Set']
+Rank 15 | Centroid: 'Scenario' | Score: 0.0011
+  Tokens: ['Scenario', 'Scene']
+Rank 16 | Centroid: 'Include' | Score: 0.0004
+  Tokens: ['Include']
+Rank 17 | Centroid: 'Plot' | Score: 0.0004
+  Tokens: ['Plot']
+Rank 18 | Centroid: 'Tell' | Score: 0.0003
+  Tokens: ['Tell']
+Rank 19 | Centroid: 'Step' | Score: 0.0003
+  Tokens: ['Step']
+Rank 20 | Centroid: 'Possible' | Score: 0.0003
+  Tokens: ['Possible']
+Rank 21 | Centroid: 'Prem' | Score: 0.0003
+  Tokens: ['Prem']
+Rank 22 | Centroid: 'Using' | Score: 0.0002
+  Tokens: ['Using']
 
 **Chosen Concept:** Rank 1

@@ -1,76 +1,153 @@
 --- Step 92 Log ---
 
 == Filtered Candidates ==
-Token: ' yes' (ID: 9834), Prob: 0.9297
-Token: ' yeah' (ID: 21639), Prob: 0.0004
-Token: ' something' (ID: 2494), Prob: 0.0001
-Token: ' maybe' (ID: 7196), Prob: 0.0001
-Token: ' hello' (ID: 23811), Prob: 0.0001
-Token: ' nothing' (ID: 4302), Prob: 0.0000
-Token: ' etc' (ID: 4992), Prob: 0.0000
-Token: 'yes' (ID: 9693), Prob: 0.0000
-Token: ' exactly' (ID: 6896), Prob: 0.0000
-Token: ' Yes' (ID: 7414), Prob: 0.0000
-Token: ' okay' (ID: 16910), Prob: 0.0000
-Token: ' wait' (ID: 3783), Prob: 0.0000
-Token: ' answer' (ID: 4226), Prob: 0.0000
-Token: ' also' (ID: 1083), Prob: 0.0000
-Token: ' positive' (ID: 6785), Prob: 0.0000
-Token: ' negative' (ID: 8225), Prob: 0.0000
-Token: ' whether' (ID: 3425), Prob: 0.0000
-Token: ' YES' (ID: 14080), Prob: 0.0000
-Token: '=yes' (ID: 59565), Prob: 0.0000
-Token: ' none' (ID: 6857), Prob: 0.0000
-Token: ' say' (ID: 1977), Prob: 0.0000
-Token: ' one' (ID: 825), Prob: 0.0000
-Token: ' always' (ID: 2677), Prob: 0.0000
-Token: ' sure' (ID: 2704), Prob: 0.0000
-Token: ' unknown' (ID: 9788), Prob: 0.0000
-Token: ' possible' (ID: 3204), Prob: 0.0000
-Token: ' without' (ID: 2041), Prob: 0.0000
-Token: ' correct' (ID: 4396), Prob: 0.0000
-Token: ' either' (ID: 2987), Prob: 0.0000
-Token: ' depends' (ID: 13798), Prob: 0.0000
-Token: ' based' (ID: 3118), Prob: 0.0000
-Token: ' please' (ID: 4486), Prob: 0.0000
-Token: ' zero' (ID: 7168), Prob: 0.0000
-Token: ' another' (ID: 2441), Prob: 0.0000
-Token: ' enough' (ID: 3322), Prob: 0.0000
-Token: ' cannot' (ID: 4157), Prob: 0.0000
-Token: ' even' (ID: 1496), Prob: 0.0000
+Token: ' emotions' (ID: 21261), Prob: 0.4062
+Token: ' challenges' (ID: 11513), Prob: 0.2793
+Token: ' emotional' (ID: 14269), Prob: 0.1494
+Token: ' struggles' (ID: 27870), Prob: 0.0708
+Token: ' difficulties' (ID: 26038), Prob: 0.0157
+Token: ' issues' (ID: 4714), Prob: 0.0109
+Token: ' struggle' (ID: 14651), Prob: 0.0109
+Token: ' negative' (ID: 8225), Prob: 0.0096
+Token: ' problems' (ID: 5322), Prob: 0.0084
+Token: ' feelings' (ID: 15650), Prob: 0.0074
+Token: ' mix' (ID: 6514), Prob: 0.0045
+Token: ' hardships' (ID: 95222), Prob: 0.0031
+Token: ' negatives' (ID: 74085), Prob: 0.0024
+Token: ' problem' (ID: 3491), Prob: 0.0019
+Token: ' mixed' (ID: 9519), Prob: 0.0015
+Token: ' experiences' (ID: 11449), Prob: 0.0015
+Token: ' conflict' (ID: 12055), Prob: 0.0013
+Token: ' obstacles' (ID: 31016), Prob: 0.0013
+Token: ' experience' (ID: 3139), Prob: 0.0009
+Token: ' emotion' (ID: 19772), Prob: 0.0009
+Token: ' challenge' (ID: 8645), Prob: 0.0008
+Token: ' pain' (ID: 6646), Prob: 0.0007
+Token: ' frustrations' (ID: 88934), Prob: 0.0007
+Token: ' stress' (ID: 8464), Prob: 0.0006
+Token: ' trials' (ID: 19080), Prob: 0.0006
+Token: ' ups' (ID: 32734), Prob: 0.0006
+Token: ' initial' (ID: 2856), Prob: 0.0004
+Token: ' common' (ID: 4185), Prob: 0.0003
+Token: ' personal' (ID: 4345), Prob: 0.0003
+Token: ' bad' (ID: 3873), Prob: 0.0003
+Token: ' elements' (ID: 5424), Prob: 0.0003
+Token: ' positive' (ID: 6785), Prob: 0.0002
+Token: ' conflicts' (ID: 25800), Prob: 0.0002
+Token: ' tough' (ID: 11045), Prob: 0.0002
+Token: ' highs' (ID: 53779), Prob: 0.0002
+Token: ' frustration' (ID: 31986), Prob: 0.0002
+Token: ' tears' (ID: 23139), Prob: 0.0002
+Token: ' shared' (ID: 6094), Prob: 0.0001
+Token: ' situation' (ID: 6534), Prob: 0.0001
+Token: ' internal' (ID: 5306), Prob: 0.0001
+Token: ' efforts' (ID: 8869), Prob: 0.0001
+Token: ' journey' (ID: 11618), Prob: 0.0001
+Token: ' setbacks' (ID: 96637), Prob: 0.0001
+Token: ' difficult' (ID: 5000), Prob: 0.0001
+Token: ' hard' (ID: 2588), Prob: 0.0001
+Token: ' moments' (ID: 13943), Prob: 0.0001
+Token: ' troubles' (ID: 34565), Prob: 0.0001
+Token: ' hardship' (ID: 66550), Prob: 0.0001
+Token: ' key' (ID: 1376), Prob: 0.0001
+Token: ' challenging' (ID: 17003), Prob: 0.0001
+Token: ' process' (ID: 1882), Prob: 0.0001
+Token: ' issue' (ID: 4265), Prob: 0.0001
+Token: ' difficulty' (ID: 16829), Prob: 0.0001
+Token: ' main' (ID: 1887), Prob: 0.0001
+Token: ' events' (ID: 4357), Prob: 0.0001
+Token: ' drama' (ID: 19584), Prob: 0.0001
+Token: ' turmoil' (ID: 62255), Prob: 0.0001
+Token: ' effort' (ID: 5041), Prob: 0.0001
+Token: ' stresses' (ID: 58523), Prob: 0.0001
+Token: ' mish' (ID: 63396), Prob: 0.0001
+Token: ' tension' (ID: 23504), Prob: 0.0001
+Token: ' chaos' (ID: 26915), Prob: 0.0001
+Token: ' complications' (ID: 35405), Prob: 0.0001
+Token: ' attempts' (ID: 13553), Prob: 0.0001
+Token: ' trial' (ID: 9091), Prob: 0.0000
+Token: ' sadness' (ID: 50878), Prob: 0.0000
+Token: ' mixture' (ID: 20980), Prob: 0.0000
+Token: ' reasons' (ID: 7966), Prob: 0.0000
+Token: ' circumstances' (ID: 13161), Prob: 0.0000
+Token: ' downs' (ID: 39191), Prob: 0.0000
+Token: ' tensions' (ID: 38410), Prob: 0.0000
+Token: ' strife' (ID: 96612), Prob: 0.0000
+Token: ' ongoing' (ID: 14195), Prob: 0.0000
+Token: ' good' (ID: 1661), Prob: 0.0000
+Token: ' trib' (ID: 13802), Prob: 0.0000
+Token: ' hurdles' (ID: 72535), Prob: 0.0000
+Token: ' feeling' (ID: 8266), Prob: 0.0000
+Token: ' lessons' (ID: 18366), Prob: 0.0000
+Token: ' positives' (ID: 63656), Prob: 0.0000
+Token: ' heart' (ID: 4746), Prob: 0.0000
+Token: ' incident' (ID: 10455), Prob: 0.0000
+Token: ' confusion' (ID: 21340), Prob: 0.0000
+Token: ' adversity' (ID: 89830), Prob: 0.0000
+Token: ' cause' (ID: 5240), Prob: 0.0000
+Token: ' roller' (ID: 28451), Prob: 0.0000
+Token: ' narrative' (ID: 19221), Prob: 0.0000
+Token: ' incidents' (ID: 23546), Prob: 0.0000
+Token: ' sorrow' (ID: 57496), Prob: 0.0000
+Token: ' setup' (ID: 6505), Prob: 0.0000
+Token: ' mess' (ID: 9435), Prob: 0.0000
+Token: ' disappoint' (ID: 14097), Prob: 0.0000
+Token: ' daily' (ID: 7298), Prob: 0.0000
+Token: ' details' (ID: 3565), Prob: 0.0000
+Token: ' impact' (ID: 5421), Prob: 0.0000
+Token: ' strain' (ID: 25716), Prob: 0.0000
+Token: ' aftermath' (ID: 39596), Prob: 0.0000
+Token: ' woes' (ID: 76725), Prob: 0.0000
+Token: ' road' (ID: 5636), Prob: 0.0000
 
 == Ranked Concepts (Clusters) ==
-Rank 1 | Centroid: ' yes' | Score: 0.9297
-  Tokens: [' yes', ' yeah', 'yes', ' Yes', ' YES', '=yes', ' sure']
-Rank 2 | Centroid: ' nothing' | Score: 0.0001
-  Tokens: [' something', ' nothing', ' none']
-Rank 3 | Centroid: ' maybe' | Score: 0.0001
-  Tokens: [' maybe', ' possible']
-Rank 4 | Centroid: ' hello' | Score: 0.0001
-  Tokens: [' hello', ' okay']
-Rank 5 | Centroid: ' always' | Score: 0.0001
-  Tokens: [' exactly', ' also', ' always']
-Rank 6 | Centroid: ' negative' | Score: 0.0001
-  Tokens: [' positive', ' negative', ' zero']
-Rank 7 | Centroid: ' etc' | Score: 0.0000
-  Tokens: [' etc']
-Rank 8 | Centroid: ' wait' | Score: 0.0000
-  Tokens: [' wait', ' say']
-Rank 9 | Centroid: ' answer' | Score: 0.0000
-  Tokens: [' answer', ' correct']
-Rank 10 | Centroid: ' whether' | Score: 0.0000
-  Tokens: [' whether', ' either']
-Rank 11 | Centroid: ' based' | Score: 0.0000
-  Tokens: [' without', ' depends', ' based', ' cannot']
-Rank 12 | Centroid: ' one' | Score: 0.0000
-  Tokens: [' one', ' another']
-Rank 13 | Centroid: ' unknown' | Score: 0.0000
-  Tokens: [' unknown']
-Rank 14 | Centroid: ' please' | Score: 0.0000
-  Tokens: [' please']
-Rank 15 | Centroid: ' enough' | Score: 0.0000
-  Tokens: [' enough']
-Rank 16 | Centroid: ' even' | Score: 0.0000
-  Tokens: [' even']
+Rank 1 | Centroid: ' emotions' | Score: 0.5625
+  Tokens: [' emotions', ' emotional', ' feelings', ' emotion', ' feeling']
+Rank 2 | Centroid: ' challenges' | Score: 0.2793
+  Tokens: [' challenges', ' challenge', ' challenging']
+Rank 3 | Centroid: ' difficulties' | Score: 0.0879
+  Tokens: [' struggles', ' difficulties', ' obstacles', ' troubles', ' complications', ' hurdles', ' woes']
+Rank 4 | Centroid: ' issues' | Score: 0.0212
+  Tokens: [' issues', ' problems', ' problem', ' issue']
+Rank 5 | Centroid: ' negative' | Score: 0.0123
+  Tokens: [' negative', ' negatives', ' positive', ' positives']
+Rank 6 | Centroid: ' struggle' | Score: 0.0109
+  Tokens: [' struggle']
+Rank 7 | Centroid: ' mix' | Score: 0.0060
+  Tokens: [' mix', ' mixed', ' mixture', ' mess']
+Rank 8 | Centroid: ' hardships' | Score: 0.0043
+  Tokens: [' hardships', ' frustrations', ' frustration', ' setbacks', ' hardship', ' adversity', ' disappoint']
+Rank 9 | Centroid: ' experiences' | Score: 0.0023
+  Tokens: [' experiences', ' experience']
+Rank 10 | Centroid: ' tensions' | Score: 0.0023
+  Tokens: [' conflict', ' stress', ' conflicts', ' stresses', ' tension', ' tensions', ' strain']
+Rank 11 | Centroid: ' road' | Score: 0.0015
+  Tokens: [' initial', ' common', ' personal', ' shared', ' internal', ' key', ' main', ' heart', ' daily', ' road']
+Rank 12 | Centroid: ' sorrow' | Score: 0.0009
+  Tokens: [' pain', ' tears', ' sadness', ' sorrow']
+Rank 13 | Centroid: ' efforts' | Score: 0.0009
+  Tokens: [' trials', ' efforts', ' effort', ' attempts', ' trial']
+Rank 14 | Centroid: ' ups' | Score: 0.0009
+  Tokens: [' ups', ' highs', ' downs', ' roller']
+Rank 15 | Centroid: ' difficult' | Score: 0.0005
+  Tokens: [' tough', ' difficult', ' hard', ' difficulty']
+Rank 16 | Centroid: ' lessons' | Score: 0.0005
+  Tokens: [' elements', ' moments', ' reasons', ' lessons', ' details']
+Rank 17 | Centroid: ' bad' | Score: 0.0003
+  Tokens: [' bad', ' good']
+Rank 18 | Centroid: ' journey' | Score: 0.0003
+  Tokens: [' journey', ' process', ' cause', ' narrative', ' setup', ' impact']
+Rank 19 | Centroid: ' turmoil' | Score: 0.0002
+  Tokens: [' turmoil', ' chaos', ' strife', ' confusion']
+Rank 20 | Centroid: ' situation' | Score: 0.0002
+  Tokens: [' situation', ' circumstances']
+Rank 21 | Centroid: ' incidents' | Score: 0.0001
+  Tokens: [' events', ' incident', ' incidents']
+Rank 22 | Centroid: ' drama' | Score: 0.0001
+  Tokens: [' drama', ' aftermath']
+Rank 23 | Centroid: ' ongoing' | Score: 0.0001
+  Tokens: [' ongoing', ' trib']
+Rank 24 | Centroid: ' mish' | Score: 0.0001
+  Tokens: [' mish']
 
 **Chosen Concept:** Rank 1

@@ -1,81 +1,122 @@
 --- Step 56 Log ---
 
 == Filtered Candidates ==
-Token: 'ting' (ID: 1280), Prob: 1.0000
-Token: 'ten' (ID: 1960), Prob: 0.0000
-Token: ' ting' (ID: 42227), Prob: 0.0000
-Token: 'tering' (ID: 59385), Prob: 0.0000
-Token: ' letting' (ID: 20194), Prob: 0.0000
-Token: 'tings' (ID: 2065), Prob: 0.0000
-Token: ' trying' (ID: 4460), Prob: 0.0000
-Token: 'TING' (ID: 25043), Prob: 0.0000
-Token: ' putting' (ID: 10687), Prob: 0.0000
-Token: ' time' (ID: 882), Prob: 0.0000
-Token: ' getting' (ID: 3709), Prob: 0.0000
-Token: ' changing' (ID: 10018), Prob: 0.0000
-Token: ' terminating' (ID: 70581), Prob: 0.0000
-Token: ' total' (ID: 2790), Prob: 0.0000
-Token: ' taking' (ID: 4633), Prob: 0.0000
-Token: ' turning' (ID: 13054), Prob: 0.0000
-Token: 'tant' (ID: 60412), Prob: 0.0000
-Token: 'ted' (ID: 6565), Prob: 0.0000
-Token: ' tent' (ID: 15632), Prob: 0.0000
-Token: ' testing' (ID: 7497), Prob: 0.0000
-Token: ' tightening' (ID: 76780), Prob: 0.0000
-Token: ' thinking' (ID: 7274), Prob: 0.0000
-Token: ' telling' (ID: 11629), Prob: 0.0000
-Token: ' using' (ID: 1667), Prob: 0.0000
-Token: ' translating' (ID: 66271), Prob: 0.0000
-Token: ' ten' (ID: 5779), Prob: 0.0000
-Token: 'iting' (ID: 5853), Prob: 0.0000
-Token: ' talking' (ID: 7404), Prob: 0.0000
-Token: 'ing' (ID: 287), Prob: 0.0000
-Token: ' passing' (ID: 12299), Prob: 0.0000
-Token: ' transferring' (ID: 49951), Prob: 0.0000
-Token: ' training' (ID: 4862), Prob: 0.0000
-Token: ' let' (ID: 1077), Prob: 0.0000
-Token: ' going' (ID: 2087), Prob: 0.0000
-Token: 'tle' (ID: 11239), Prob: 0.0000
-Token: ' meeting' (ID: 6438), Prob: 0.0000
-Token: 'tee' (ID: 6547), Prob: 0.0000
-Token: ' making' (ID: 3259), Prob: 0.0000
-Token: ' saying' (ID: 5488), Prob: 0.0000
-Token: ' choosing' (ID: 18774), Prob: 0.0000
-Token: 'tin' (ID: 55971), Prob: 0.0000
-Token: ' sleeping' (ID: 21127), Prob: 0.0000
+Token: ' common' (ID: 4185), Prob: 0.0098
+Token: ' whether' (ID: 3425), Prob: 0.0052
+Token: ' logical' (ID: 19819), Prob: 0.0036
+Token: ' context' (ID: 2266), Prob: 0.0032
+Token: ' logic' (ID: 12218), Prob: 0.0021
+Token: ' given' (ID: 2661), Prob: 0.0012
+Token: ' sentiment' (ID: 25975), Prob: 0.0012
+Token: ' emotional' (ID: 14269), Prob: 0.0011
+Token: ' possible' (ID: 3204), Prob: 0.0010
+Token: ' typical' (ID: 14260), Prob: 0.0009
+Token: ' humor' (ID: 27385), Prob: 0.0008
+Token: ' existing' (ID: 6350), Prob: 0.0007
+Token: ' character' (ID: 3668), Prob: 0.0007
+Token: ' user' (ID: 1196), Prob: 0.0006
+Token: ' two' (ID: 1378), Prob: 0.0006
+Token: ' ambiguity' (ID: 71768), Prob: 0.0005
+Token: ' emotions' (ID: 21261), Prob: 0.0005
+Token: ' current' (ID: 1482), Prob: 0.0003
+Token: ' initial' (ID: 2856), Prob: 0.0002
+Token: ' either' (ID: 2987), Prob: 0.0002
+Token: ' tone' (ID: 16232), Prob: 0.0002
+Token: ' emotion' (ID: 19772), Prob: 0.0002
+Token: ' one' (ID: 825), Prob: 0.0002
+Token: ' positive' (ID: 6785), Prob: 0.0002
+Token: ' uncertainty' (ID: 26826), Prob: 0.0002
+Token: ' assumptions' (ID: 31846), Prob: 0.0002
+Token: ' available' (ID: 2500), Prob: 0.0002
+Token: ' tension' (ID: 23504), Prob: 0.0002
+Token: ' tense' (ID: 42687), Prob: 0.0002
+Token: ' events' (ID: 4357), Prob: 0.0002
+Token: ' trust' (ID: 6950), Prob: 0.0002
+Token: ' perception' (ID: 20431), Prob: 0.0002
+Token: ' imagination' (ID: 27799), Prob: 0.0002
+Token: ' intuition' (ID: 56251), Prob: 0.0002
+Token: ' characters' (ID: 5766), Prob: 0.0002
+Token: ' truth' (ID: 8046), Prob: 0.0002
+Token: ' previous' (ID: 3681), Prob: 0.0001
+Token: ' narrative' (ID: 19221), Prob: 0.0001
+Token: ' reasoning' (ID: 32711), Prob: 0.0001
+Token: ' clues' (ID: 42675), Prob: 0.0001
+Token: ' fear' (ID: 8679), Prob: 0.0001
+Token: ' provided' (ID: 3897), Prob: 0.0001
+Token: ' probability' (ID: 18927), Prob: 0.0001
+Token: ' sensory' (ID: 47969), Prob: 0.0001
+Token: ' shared' (ID: 6094), Prob: 0.0001
+Token: ' reliability' (ID: 30538), Prob: 0.0001
+Token: ' plausible' (ID: 49334), Prob: 0.0001
+Token: ' normal' (ID: 4622), Prob: 0.0001
+Token: ' grammar' (ID: 31428), Prob: 0.0001
+Token: ' curiosity' (ID: 40228), Prob: 0.0001
+Token: ' general' (ID: 4586), Prob: 0.0001
+Token: ' interpretation' (ID: 22845), Prob: 0.0001
+Token: ' possibilities' (ID: 23607), Prob: 0.0001
+Token: ' probable' (ID: 34877), Prob: 0.0001
+Token: ' good' (ID: 1661), Prob: 0.0001
+Token: ' presence' (ID: 9362), Prob: 0.0001
+Token: ' original' (ID: 4024), Prob: 0.0001
+Token: ' likely' (ID: 4363), Prob: 0.0001
+Token: ' natural' (ID: 5810), Prob: 0.0001
+Token: ' tradition' (ID: 13815), Prob: 0.0001
+Token: ' feelings' (ID: 15650), Prob: 0.0001
+Token: ' silence' (ID: 21162), Prob: 0.0001
+Token: ' gender' (ID: 9825), Prob: 0.0001
+Token: ' moral' (ID: 15659), Prob: 0.0001
+Token: ' direction' (ID: 5106), Prob: 0.0001
+Token: ' understanding' (ID: 8660), Prob: 0.0001
+Token: ' reality' (ID: 8729), Prob: 0.0001
+Token: ' premises' (ID: 33922), Prob: 0.0001
+Token: ' prior' (ID: 4867), Prob: 0.0001
+Token: ' themes' (ID: 21386), Prob: 0.0001
+Token: ' human' (ID: 3738), Prob: 0.0001
+Token: ' safety' (ID: 7149), Prob: 0.0001
+Token: ' irony' (ID: 50605), Prob: 0.0001
+Token: ' time' (ID: 882), Prob: 0.0001
+Token: ' information' (ID: 1995), Prob: 0.0001
 
 == Ranked Concepts (Clusters) ==
-Rank 1 | Centroid: 'ting' | Score: 1.0000
-  Tokens: ['ting', 'tings', 'TING', 'ted']
-Rank 2 | Centroid: ' ten' | Score: 0.0000
-  Tokens: ['ten', ' tent', ' ten']
-Rank 3 | Centroid: ' ting' | Score: 0.0000
-  Tokens: [' ting']
-Rank 4 | Centroid: ' getting' | Score: 0.0000
-  Tokens: [' trying', ' putting', ' getting', ' taking', ' using', ' going', ' making', ' choosing']
-Rank 5 | Centroid: 'tering' | Score: 0.0000
-  Tokens: ['tering']
-Rank 6 | Centroid: ' letting' | Score: 0.0000
-  Tokens: [' letting', ' let']
-Rank 7 | Centroid: ' transferring' | Score: 0.0000
-  Tokens: [' changing', ' turning', ' translating', ' passing', ' transferring']
-Rank 8 | Centroid: ' time' | Score: 0.0000
-  Tokens: [' time', ' total']
-Rank 9 | Centroid: ' terminating' | Score: 0.0000
-  Tokens: [' terminating', ' tightening']
-Rank 10 | Centroid: ' saying' | Score: 0.0000
-  Tokens: [' thinking', ' telling', ' talking', ' saying']
-Rank 11 | Centroid: ' training' | Score: 0.0000
-  Tokens: [' testing', ' training', ' meeting']
-Rank 12 | Centroid: 'tant' | Score: 0.0000
-  Tokens: ['tant', 'tin']
-Rank 13 | Centroid: 'iting' | Score: 0.0000
-  Tokens: ['iting', ' sleeping']
-Rank 14 | Centroid: 'ing' | Score: 0.0000
-  Tokens: ['ing']
-Rank 15 | Centroid: 'tle' | Score: 0.0000
-  Tokens: ['tle']
-Rank 16 | Centroid: 'tee' | Score: 0.0000
-  Tokens: ['tee']
+Rank 1 | Centroid: ' typical' | Score: 0.0114
+  Tokens: [' common', ' typical', ' positive', ' normal', ' general', ' good', ' natural', ' human']
+Rank 2 | Centroid: ' two' | Score: 0.0063
+  Tokens: [' whether', ' two', ' either', ' one', ' information']
+Rank 3 | Centroid: ' logic' | Score: 0.0060
+  Tokens: [' logical', ' logic', ' narrative', ' reasoning']
+Rank 4 | Centroid: ' emotions' | Score: 0.0033
+  Tokens: [' sentiment', ' emotional', ' emotions', ' emotion', ' sensory', ' feelings', ' moral']
+Rank 5 | Centroid: ' context' | Score: 0.0033
+  Tokens: [' context', ' direction']
+Rank 6 | Centroid: ' probable' | Score: 0.0016
+  Tokens: [' possible', ' probability', ' plausible', ' possibilities', ' probable', ' likely']
+Rank 7 | Centroid: ' provided' | Score: 0.0016
+  Tokens: [' given', ' available', ' provided']
+Rank 8 | Centroid: ' previous' | Score: 0.0015
+  Tokens: [' existing', ' current', ' initial', ' previous', ' original', ' prior']
+Rank 9 | Centroid: ' humor' | Score: 0.0010
+  Tokens: [' humor', ' grammar', ' silence', ' irony']
+Rank 10 | Centroid: ' uncertainty' | Score: 0.0008
+  Tokens: [' ambiguity', ' uncertainty', ' curiosity']
+Rank 11 | Centroid: ' character' | Score: 0.0008
+  Tokens: [' character', ' characters']
+Rank 12 | Centroid: ' user' | Score: 0.0007
+  Tokens: [' user', ' shared']
+Rank 13 | Centroid: ' tension' | Score: 0.0007
+  Tokens: [' tone', ' tension', ' tense', ' gender']
+Rank 14 | Centroid: ' perception' | Score: 0.0007
+  Tokens: [' perception', ' imagination', ' intuition', ' interpretation', ' understanding']
+Rank 15 | Centroid: ' reality' | Score: 0.0005
+  Tokens: [' events', ' truth', ' presence', ' reality']
+Rank 16 | Centroid: ' reliability' | Score: 0.0005
+  Tokens: [' trust', ' fear', ' reliability', ' safety']
+Rank 17 | Centroid: ' assumptions' | Score: 0.0004
+  Tokens: [' assumptions', ' clues', ' premises']
+Rank 18 | Centroid: ' tradition' | Score: 0.0001
+  Tokens: [' tradition']
+Rank 19 | Centroid: ' themes' | Score: 0.0001
+  Tokens: [' themes']
+Rank 20 | Centroid: ' time' | Score: 0.0001
+  Tokens: [' time']
 
 **Chosen Concept:** Rank 1

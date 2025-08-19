@@ -1,0 +1,104 @@
+--- Step 41 Log ---
+
+== Filtered Candidates ==
+Token: '-step' (ID: 29208), Prob: 1.0000
+Token: ' step' (ID: 3019), Prob: 0.0004
+Token: ' Step' (ID: 14822), Prob: 0.0000
+Token: '_step' (ID: 11946), Prob: 0.0000
+Token: 'Step' (ID: 8304), Prob: 0.0000
+Token: '-star' (ID: 20680), Prob: 0.0000
+Token: '-ste' (ID: 96326), Prob: 0.0000
+Token: '-st' (ID: 5477), Prob: 0.0000
+Token: 'step' (ID: 9520), Prob: 0.0000
+Token: '(step' (ID: 38436), Prob: 0.0000
+Token: '.Step' (ID: 68402), Prob: 0.0000
+Token: '.step' (ID: 21465), Prob: 0.0000
+Token: '-th' (ID: 7563), Prob: 0.0000
+Token: '-se' (ID: 7806), Prob: 0.0000
+Token: '-start' (ID: 18935), Prob: 0.0000
+Token: '_STEP' (ID: 39968), Prob: 0.0000
+Token: '-str' (ID: 41628), Prob: 0.0000
+Token: '-store' (ID: 33252), Prob: 0.0000
+Token: ' steps' (ID: 7354), Prob: 0.0000
+Token: '-one' (ID: 18589), Prob: 0.0000
+Token: '-life' (ID: 25843), Prob: 0.0000
+Token: ' Steph' (ID: 40559), Prob: 0.0000
+Token: ' STEP' (ID: 48356), Prob: 0.0000
+Token: '-day' (ID: 11228), Prob: 0.0000
+Token: '	step' (ID: 77093), Prob: 0.0000
+Token: '-six' (ID: 54441), Prob: 0.0000
+Token: '-stop' (ID: 41211), Prob: 0.0000
+Token: '-two' (ID: 37402), Prob: 0.0000
+Token: '-second' (ID: 43863), Prob: 0.0000
+Token: '-third' (ID: 29177), Prob: 0.0000
+Token: '-span' (ID: 64060), Prob: 0.0000
+Token: '-eight' (ID: 69715), Prob: 0.0000
+Token: '-four' (ID: 41017), Prob: 0.0000
+Token: '-be' (ID: 15150), Prob: 0.0000
+Token: '-five' (ID: 35299), Prob: 0.0000
+Token: '-state' (ID: 20733), Prob: 0.0000
+Token: '-three' (ID: 48393), Prob: 0.0000
+Token: '-so' (ID: 33019), Prob: 0.0000
+Token: '-seat' (ID: 78081), Prob: 0.0000
+Token: ' stepped' (ID: 24326), Prob: 0.0000
+Token: '-the' (ID: 10603), Prob: 0.0000
+Token: '-story' (ID: 45099), Prob: 0.0000
+Token: '-def' (ID: 28799), Prob: 0.0000
+Token: 'STEP' (ID: 50389), Prob: 0.0000
+Token: '-last' (ID: 60515), Prob: 0.0000
+Token: '-tw' (ID: 97562), Prob: 0.0000
+Token: '-us' (ID: 25682), Prob: 0.0000
+Token: '-care' (ID: 40106), Prob: 0.0000
+Token: '-shot' (ID: 63530), Prob: 0.0000
+Token: '-stars' (ID: 96906), Prob: 0.0000
+Token: '-stage' (ID: 50156), Prob: 0.0000
+Token: '-town' (ID: 82903), Prob: 0.0000
+Token: '-grade' (ID: 40227), Prob: 0.0000
+Token: '-sync' (ID: 65034), Prob: 0.0000
+Token: '-sh' (ID: 7514), Prob: 0.0000
+Token: '-date' (ID: 18413), Prob: 0.0000
+Token: '-school' (ID: 34689), Prob: 0.0000
+Token: '-exp' (ID: 18376), Prob: 0.0000
+Token: '-being' (ID: 32751), Prob: 0.0000
+Token: '-click' (ID: 28118), Prob: 0.0000
+Token: '-in' (ID: 3419), Prob: 0.0000
+
+== Ranked Concepts (Clusters) ==
+Rank 1 | Centroid: ' Step' | Score: 1.0000
+  Tokens: ['-step', ' step', ' Step', '_step', 'Step', 'step', '(step', '.Step', '.step', '_STEP', ' steps', ' STEP', '\tstep', ' stepped', 'STEP']
+Rank 2 | Centroid: '-st' | Score: 0.0000
+  Tokens: ['-st', '-th', '-se', '-str', '-so', '-the', '-sh', '-in']
+Rank 3 | Centroid: '-star' | Score: 0.0000
+  Tokens: ['-star', '-stars']
+Rank 4 | Centroid: '-ste' | Score: 0.0000
+  Tokens: ['-ste', ' Steph']
+Rank 5 | Centroid: '-three' | Score: 0.0000
+  Tokens: ['-one', '-six', '-two', '-eight', '-four', '-five', '-three']
+Rank 6 | Centroid: '-start' | Score: 0.0000
+  Tokens: ['-start', '-stop']
+Rank 7 | Centroid: '-store' | Score: 0.0000
+  Tokens: ['-store', '-story']
+Rank 8 | Centroid: '-life' | Score: 0.0000
+  Tokens: ['-life', '-care', '-being']
+Rank 9 | Centroid: '-day' | Score: 0.0000
+  Tokens: ['-day', '-date']
+Rank 10 | Centroid: '-second' | Score: 0.0000
+  Tokens: ['-second', '-third', '-last']
+Rank 11 | Centroid: '-span' | Score: 0.0000
+  Tokens: ['-span']
+Rank 12 | Centroid: '-shot' | Score: 0.0000
+  Tokens: ['-seat', '-shot', '-click']
+Rank 13 | Centroid: '-state' | Score: 0.0000
+  Tokens: ['-state', '-stage']
+Rank 14 | Centroid: '-exp' | Score: 0.0000
+  Tokens: ['-def', '-tw', '-exp']
+Rank 15 | Centroid: '-be' | Score: 0.0000
+  Tokens: ['-be']
+Rank 16 | Centroid: '-us' | Score: 0.0000
+  Tokens: ['-us', '-sync']
+Rank 17 | Centroid: '-town' | Score: 0.0000
+  Tokens: ['-town', '-school']
+Rank 18 | Centroid: '-grade' | Score: 0.0000
+  Tokens: ['-grade']
+
+**Chosen Concept:** Rank 1

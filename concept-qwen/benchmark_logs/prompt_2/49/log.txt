@@ -1,0 +1,110 @@
+--- Step 49 Log ---
+
+== Filtered Candidates ==
+Token: ' going' (ID: 2087), Prob: 0.6602
+Token: ' went' (ID: 3937), Prob: 0.1670
+Token: ' gone' (ID: 8048), Prob: 0.0330
+Token: ' wrong' (ID: 4969), Prob: 0.0045
+Token: ' happening' (ID: 12482), Prob: 0.0009
+Token: ' failed' (ID: 4641), Prob: 0.0002
+Token: ' falling' (ID: 15679), Prob: 0.0001
+Token: ' failing' (ID: 21394), Prob: 0.0001
+Token: ' happened' (ID: 6932), Prob: 0.0001
+Token: ' getting' (ID: 3709), Prob: 0.0001
+Token: ' working' (ID: 3238), Prob: 0.0000
+Token: ' messed' (ID: 64202), Prob: 0.0000
+Token: ' goes' (ID: 5780), Prob: 0.0000
+Token: ' causing' (ID: 14381), Prob: 0.0000
+Token: ' problems' (ID: 5322), Prob: 0.0000
+Token: ' things' (ID: 2513), Prob: 0.0000
+Token: ' done' (ID: 2814), Prob: 0.0000
+Token: ' got' (ID: 2684), Prob: 0.0000
+Token: ' turning' (ID: 13054), Prob: 0.0000
+Token: ' Went' (ID: 53759), Prob: 0.0000
+Token: ' missing' (ID: 7402), Prob: 0.0000
+Token: ' fell' (ID: 11052), Prob: 0.0000
+Token: ' running' (ID: 4303), Prob: 0.0000
+Token: ' turned' (ID: 6519), Prob: 0.0000
+Token: ' messing' (ID: 75751), Prob: 0.0000
+Token: ' trying' (ID: 4460), Prob: 0.0000
+Token: ' worked' (ID: 6439), Prob: 0.0000
+Token: ' changing' (ID: 10018), Prob: 0.0000
+Token: ' struggling' (ID: 19962), Prob: 0.0000
+Token: ' worse' (ID: 10960), Prob: 0.0000
+Token: ' bad' (ID: 3873), Prob: 0.0000
+Token: '_wrong' (ID: 75198), Prob: 0.0000
+Token: ' ending' (ID: 13391), Prob: 0.0000
+Token: ' Going' (ID: 34871), Prob: 0.0000
+Token: ' coming' (ID: 5001), Prob: 0.0000
+Token: ' taking' (ID: 4633), Prob: 0.0000
+Token: ' tried' (ID: 6679), Prob: 0.0000
+Token: ' occurring' (ID: 30865), Prob: 0.0000
+Token: ' malfunction' (ID: 71187), Prob: 0.0000
+Token: ' mis' (ID: 5786), Prob: 0.0000
+Token: ' lost' (ID: 5558), Prob: 0.0000
+Token: ' uns' (ID: 6975), Prob: 0.0000
+Token: ' moving' (ID: 7218), Prob: 0.0000
+Token: ' ended' (ID: 9482), Prob: 0.0000
+Token: ' might' (ID: 2578), Prob: 0.0000
+Token: ' broken' (ID: 10865), Prob: 0.0000
+Token: ' starting' (ID: 5916), Prob: 0.0000
+Token: 'wrong' (ID: 34870), Prob: 0.0000
+Token: ' making' (ID: 3259), Prob: 0.0000
+Token: ' becoming' (ID: 10454), Prob: 0.0000
+Token: ' missed' (ID: 13628), Prob: 0.0000
+Token: ' made' (ID: 1865), Prob: 0.0000
+Token: ' mish' (ID: 63396), Prob: 0.0000
+Token: ' gonna' (ID: 16519), Prob: 0.0000
+Token: ' started' (ID: 3855), Prob: 0.0000
+Token: ' mistaken' (ID: 36004), Prob: 0.0000
+Token: ' slipping' (ID: 63702), Prob: 0.0000
+Token: ' worsening' (ID: 92305), Prob: 0.0000
+Token: '.go' (ID: 18002), Prob: 0.0000
+Token: ' staying' (ID: 19429), Prob: 0.0000
+Token: ' forgotten' (ID: 24547), Prob: 0.0000
+Token: '/problems' (ID: 49216), Prob: 0.0000
+Token: ' changed' (ID: 5497), Prob: 0.0000
+Token: ' flying' (ID: 16307), Prob: 0.0000
+Token: '_that' (ID: 70197), Prob: 0.0000
+Token: 'went' (ID: 41600), Prob: 0.0000
+Token: ' taken' (ID: 4429), Prob: 0.0000
+
+== Ranked Concepts (Clusters) ==
+Rank 1 | Centroid: ' went' | Score: 0.8594
+  Tokens: [' going', ' went', ' gone', ' goes', ' Went', ' Going', ' gonna', '.go', 'went']
+Rank 2 | Centroid: '_wrong' | Score: 0.0045
+  Tokens: [' wrong', ' messed', ' worse', ' bad', '_wrong', ' mis', 'wrong', ' mistaken']
+Rank 3 | Centroid: ' happening' | Score: 0.0010
+  Tokens: [' happening', ' happened', ' occurring']
+Rank 4 | Centroid: ' failed' | Score: 0.0002
+  Tokens: [' failed', ' fell']
+Rank 5 | Centroid: ' failing' | Score: 0.0002
+  Tokens: [' falling', ' failing', ' struggling', ' slipping']
+Rank 6 | Centroid: ' getting' | Score: 0.0001
+  Tokens: [' getting', ' causing', ' taking', ' making', ' becoming']
+Rank 7 | Centroid: ' working' | Score: 0.0000
+  Tokens: [' working', ' worked']
+Rank 8 | Centroid: ' problems' | Score: 0.0000
+  Tokens: [' problems', ' things', ' uns', '/problems']
+Rank 9 | Centroid: ' changed' | Score: 0.0000
+  Tokens: [' turning', ' turned', ' changing', ' changed']
+Rank 10 | Centroid: ' missed' | Score: 0.0000
+  Tokens: [' missing', ' lost', ' broken', ' missed', ' forgotten']
+Rank 11 | Centroid: ' got' | Score: 0.0000
+  Tokens: [' got', ' made']
+Rank 12 | Centroid: ' done' | Score: 0.0000
+  Tokens: [' done', ' taken']
+Rank 13 | Centroid: ' trying' | Score: 0.0000
+  Tokens: [' trying', ' tried', ' might']
+Rank 14 | Centroid: ' flying' | Score: 0.0000
+  Tokens: [' running', ' moving', ' flying']
+Rank 15 | Centroid: ' started' | Score: 0.0000
+  Tokens: [' ending', ' ended', ' starting', ' started']
+Rank 16 | Centroid: ' malfunction' | Score: 0.0000
+  Tokens: [' malfunction', ' mish', ' worsening']
+Rank 17 | Centroid: ' messing' | Score: 0.0000
+  Tokens: [' messing', '_that']
+Rank 18 | Centroid: ' coming' | Score: 0.0000
+  Tokens: [' coming', ' staying']
+
+**Chosen Concept:** Rank 1

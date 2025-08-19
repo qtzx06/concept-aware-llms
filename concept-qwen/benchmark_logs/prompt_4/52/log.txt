@@ -1,61 +1,118 @@
 --- Step 52 Log ---
 
 == Filtered Candidates ==
-Token: ' message' (ID: 1943), Prob: 0.9727
-Token: ' prompt' (ID: 9934), Prob: 0.0058
-Token: ' messages' (ID: 6605), Prob: 0.0009
-Token: '.message' (ID: 6698), Prob: 0.0005
-Token: ' Message' (ID: 4856), Prob: 0.0002
-Token: ' question' (ID: 3405), Prob: 0.0002
-Token: '(message' (ID: 7333), Prob: 0.0002
-Token: 'message' (ID: 1994), Prob: 0.0001
-Token: ' statement' (ID: 5114), Prob: 0.0001
-Token: ' answer' (ID: 4226), Prob: 0.0000
-Token: ':message' (ID: 91473), Prob: 0.0000
-Token: ' point' (ID: 1459), Prob: 0.0000
-Token: '	message' (ID: 24753), Prob: 0.0000
-Token: ' response' (ID: 2033), Prob: 0.0000
-Token: ' information' (ID: 1995), Prob: 0.0000
-Token: 'Message' (ID: 2052), Prob: 0.0000
-Token: ' motif' (ID: 59512), Prob: 0.0000
-Token: ' user' (ID: 1196), Prob: 0.0000
-Token: ' theme' (ID: 6912), Prob: 0.0000
-Token: ' phrase' (ID: 17133), Prob: 0.0000
-Token: ' mes' (ID: 10846), Prob: 0.0000
-Token: ',message' (ID: 72783), Prob: 0.0000
-Token: ' item' (ID: 1509), Prob: 0.0000
-Token: '-message' (ID: 29332), Prob: 0.0000
-Token: '_message' (ID: 6462), Prob: 0.0000
-Token: ' example' (ID: 3110), Prob: 0.0000
-Token: ' messaging' (ID: 29522), Prob: 0.0000
-Token: ' sentence' (ID: 11652), Prob: 0.0000
+Token: ' readers' (ID: 12726), Prob: 0.0003
+Token: ' people' (ID: 1251), Prob: 0.0000
+Token: ' things' (ID: 2513), Prob: 0.0000
+Token: ' reading' (ID: 5290), Prob: 0.0000
+Token: ' viewers' (ID: 21762), Prob: 0.0000
+Token: ' emotions' (ID: 21261), Prob: 0.0000
+Token: ' someone' (ID: 4325), Prob: 0.0000
+Token: ' scenes' (ID: 16065), Prob: 0.0000
+Token: ' vivid' (ID: 42020), Prob: 0.0000
+Token: ' reader' (ID: 6604), Prob: 0.0000
+Token: ' students' (ID: 4143), Prob: 0.0000
+Token: ' writing' (ID: 4378), Prob: 0.0000
+Token: ' something' (ID: 2494), Prob: 0.0000
+Token: ' everyone' (ID: 5019), Prob: 0.0000
+Token: ' kids' (ID: 6837), Prob: 0.0000
+Token: ' sure' (ID: 2704), Prob: 0.0000
+Token: ' sense' (ID: 5530), Prob: 0.0000
+Token: ' paragraphs' (ID: 42643), Prob: 0.0000
+Token: ' passengers' (ID: 22172), Prob: 0.0000
+Token: ' immersion' (ID: 74557), Prob: 0.0000
+Token: ' everything' (ID: 4297), Prob: 0.0000
+Token: ' memory' (ID: 4938), Prob: 0.0000
+Token: ' engaging' (ID: 22570), Prob: 0.0000
+Token: ' users' (ID: 3847), Prob: 0.0000
+Token: ' storytelling' (ID: 47829), Prob: 0.0000
+Token: ' attention' (ID: 6529), Prob: 0.0000
+Token: ' audiences' (ID: 29894), Prob: 0.0000
+Token: ' read' (ID: 1349), Prob: 0.0000
+Token: ' memories' (ID: 18923), Prob: 0.0000
+Token: ' characters' (ID: 5766), Prob: 0.0000
+Token: ' immersive' (ID: 64180), Prob: 0.0000
+Token: ' action' (ID: 1917), Prob: 0.0000
+Token: ' customers' (ID: 6310), Prob: 0.0000
+Token: ' pictures' (ID: 9185), Prob: 0.0000
+Token: ' life' (ID: 2272), Prob: 0.0000
+Token: ' visitors' (ID: 15255), Prob: 0.0000
+Token: ' descriptions' (ID: 27787), Prob: 0.0000
+Token: ' words' (ID: 4244), Prob: 0.0000
+Token: ' picture' (ID: 6802), Prob: 0.0000
+Token: ' feel' (ID: 2666), Prob: 0.0000
+Token: ' Paragraph' (ID: 49351), Prob: 0.0000
+Token: ' story' (ID: 3364), Prob: 0.0000
+Token: ' stuff' (ID: 6259), Prob: 0.0000
+Token: ' imagination' (ID: 27799), Prob: 0.0000
+Token: ' tourists' (ID: 31653), Prob: 0.0000
+Token: ' others' (ID: 3800), Prob: 0.0000
+Token: ' friends' (ID: 4780), Prob: 0.0000
+Token: ' audience' (ID: 10650), Prob: 0.0000
+Token: ' details' (ID: 3565), Prob: 0.0000
+Token: ' engagement' (ID: 19805), Prob: 0.0000
+Token: ' visuals' (ID: 52977), Prob: 0.0000
+Token: ' actions' (ID: 6168), Prob: 0.0000
+Token: ' eyes' (ID: 6414), Prob: 0.0000
+Token: ' stories' (ID: 7343), Prob: 0.0000
+Token: ' senses' (ID: 37107), Prob: 0.0000
+Token: ' impressions' (ID: 49991), Prob: 0.0000
+Token: ' pacing' (ID: 82140), Prob: 0.0000
+Token: ' sentences' (ID: 22870), Prob: 0.0000
+Token: ' pages' (ID: 6816), Prob: 0.0000
+Token: ' otherwise' (ID: 5937), Prob: 0.0000
+Token: ' participants' (ID: 13026), Prob: 0.0000
+Token: ' impression' (ID: 20792), Prob: 0.0000
+Token: ' scene' (ID: 6109), Prob: 0.0000
+Token: ' photos' (ID: 7249), Prob: 0.0000
+Token: ' feelings' (ID: 15650), Prob: 0.0000
+Token: ' listeners' (ID: 23562), Prob: 0.0000
+Token: ' anyone' (ID: 5489), Prob: 0.0000
+Token: ' learning' (ID: 6832), Prob: 0.0000
+Token: ' strong' (ID: 3746), Prob: 0.0000
+Token: ' imagine' (ID: 12793), Prob: 0.0000
+Token: ' keep' (ID: 2506), Prob: 0.0000
+Token: ' young' (ID: 3908), Prob: 0.0000
+Token: '_it' (ID: 14631), Prob: 0.0000
 
 == Ranked Concepts (Clusters) ==
-Rank 1 | Centroid: ' message' | Score: 0.9766
-  Tokens: [' message', ' messages', '.message', ' Message', '(message', 'message', '\tmessage', 'Message', '-message', '_message', ' messaging']
-Rank 2 | Centroid: ' prompt' | Score: 0.0058
-  Tokens: [' prompt']
-Rank 3 | Centroid: ' question' | Score: 0.0002
-  Tokens: [' question']
-Rank 4 | Centroid: ' phrase' | Score: 0.0001
-  Tokens: [' statement', ' phrase', ' sentence']
-Rank 5 | Centroid: ' answer' | Score: 0.0001
-  Tokens: [' answer', ' response']
-Rank 6 | Centroid: ':message' | Score: 0.0000
-  Tokens: [':message', ',message']
-Rank 7 | Centroid: ' motif' | Score: 0.0000
-  Tokens: [' motif', ' theme']
-Rank 8 | Centroid: ' point' | Score: 0.0000
-  Tokens: [' point']
-Rank 9 | Centroid: ' information' | Score: 0.0000
-  Tokens: [' information']
-Rank 10 | Centroid: ' user' | Score: 0.0000
-  Tokens: [' user']
-Rank 11 | Centroid: ' mes' | Score: 0.0000
-  Tokens: [' mes']
-Rank 12 | Centroid: ' item' | Score: 0.0000
-  Tokens: [' item']
-Rank 13 | Centroid: ' example' | Score: 0.0000
-  Tokens: [' example']
+Rank 1 | Centroid: ' reading' | Score: 0.0003
+  Tokens: [' readers', ' reading', ' reader', ' writing', ' read']
+Rank 2 | Centroid: ' something' | Score: 0.0000
+  Tokens: [' things', ' someone', ' something', ' everyone', ' everything', ' stuff', ' others', ' anyone']
+Rank 3 | Centroid: ' passengers' | Score: 0.0000
+  Tokens: [' people', ' students', ' kids', ' passengers', ' users', ' customers', ' visitors', ' tourists', ' friends', ' participants']
+Rank 4 | Centroid: ' audiences' | Score: 0.0000
+  Tokens: [' viewers', ' audiences', ' audience', ' listeners']
+Rank 5 | Centroid: ' feelings' | Score: 0.0000
+  Tokens: [' emotions', ' sense', ' feel', ' eyes', ' senses', ' feelings']
+Rank 6 | Centroid: ' imagine' | Score: 0.0000
+  Tokens: [' vivid', ' imagination', ' imagine']
+Rank 7 | Centroid: ' scenes' | Score: 0.0000
+  Tokens: [' scenes', ' scene']
+Rank 8 | Centroid: ' paragraphs' | Score: 0.0000
+  Tokens: [' paragraphs', ' characters', ' words', ' Paragraph', ' sentences', ' pages']
+Rank 9 | Centroid: ' young' | Score: 0.0000
+  Tokens: [' sure', ' strong', ' keep', ' young', '_it']
+Rank 10 | Centroid: ' engaging' | Score: 0.0000
+  Tokens: [' immersion', ' engaging', ' immersive', ' engagement', ' pacing']
+Rank 11 | Centroid: ' memory' | Score: 0.0000
+  Tokens: [' memory', ' memories']
+Rank 12 | Centroid: ' actions' | Score: 0.0000
+  Tokens: [' attention', ' action', ' actions']
+Rank 13 | Centroid: ' stories' | Score: 0.0000
+  Tokens: [' storytelling', ' story', ' stories']
+Rank 14 | Centroid: ' pictures' | Score: 0.0000
+  Tokens: [' pictures', ' picture', ' visuals', ' photos']
+Rank 15 | Centroid: ' descriptions' | Score: 0.0000
+  Tokens: [' descriptions', ' details']
+Rank 16 | Centroid: ' life' | Score: 0.0000
+  Tokens: [' life']
+Rank 17 | Centroid: ' impressions' | Score: 0.0000
+  Tokens: [' impressions', ' impression']
+Rank 18 | Centroid: ' otherwise' | Score: 0.0000
+  Tokens: [' otherwise']
+Rank 19 | Centroid: ' learning' | Score: 0.0000
+  Tokens: [' learning']
 
 **Chosen Concept:** Rank 1

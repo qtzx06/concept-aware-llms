@@ -1,0 +1,90 @@
+--- Step 138 Log ---
+
+== Filtered Candidates ==
+Token: ' around' (ID: 2163), Prob: 0.0128
+Token: ' properly' (ID: 10277), Prob: 0.0012
+Token: ' step' (ID: 3019), Prob: 0.0008
+Token: ' together' (ID: 3786), Prob: 0.0007
+Token: ' like' (ID: 1075), Prob: 0.0005
+Token: ' first' (ID: 1156), Prob: 0.0004
+Token: ' logically' (ID: 73045), Prob: 0.0003
+Token: ' chron' (ID: 25986), Prob: 0.0002
+Token: ' accordingly' (ID: 27079), Prob: 0.0002
+Token: ' clearly' (ID: 9355), Prob: 0.0002
+Token: ' flow' (ID: 6396), Prob: 0.0001
+Token: ' better' (ID: 2664), Prob: 0.0001
+Token: ' conc' (ID: 3529), Prob: 0.0000
+Token: ' line' (ID: 1555), Prob: 0.0000
+Token: ' thought' (ID: 3381), Prob: 0.0000
+Token: ' well' (ID: 1632), Prob: 0.0000
+Token: ' somehow' (ID: 16925), Prob: 0.0000
+Token: ' mentally' (ID: 33225), Prob: 0.0000
+Token: ' carefully' (ID: 15516), Prob: 0.0000
+Token: ' slowly' (ID: 13970), Prob: 0.0000
+Token: ' organ' (ID: 2872), Prob: 0.0000
+Token: ' outline' (ID: 21101), Prob: 0.0000
+Token: ' piece' (ID: 6573), Prob: 0.0000
+Token: ' maybe' (ID: 7196), Prob: 0.0000
+Token: ' quickly' (ID: 6157), Prob: 0.0000
+Token: ' starting' (ID: 5916), Prob: 0.0000
+Token: ' smoothly' (ID: 38411), Prob: 0.0000
+Token: ' naturally' (ID: 17712), Prob: 0.0000
+Token: ' briefly' (ID: 26753), Prob: 0.0000
+Token: ' within' (ID: 2878), Prob: 0.0000
+Token: ' plan' (ID: 3119), Prob: 0.0000
+Token: ' inside' (ID: 4766), Prob: 0.0000
+Token: ' point' (ID: 1459), Prob: 0.0000
+Token: ' based' (ID: 3118), Prob: 0.0000
+Token: ' finally' (ID: 5499), Prob: 0.0000
+Token: ' differently' (ID: 21303), Prob: 0.0000
+Token: ' forward' (ID: 4637), Prob: 0.0000
+Token: ' back' (ID: 1182), Prob: 0.0000
+Token: ' start' (ID: 1191), Prob: 0.0000
+Token: ' plot' (ID: 7089), Prob: 0.0000
+Token: ' simply' (ID: 4936), Prob: 0.0000
+Token: ' formally' (ID: 36302), Prob: 0.0000
+Token: ' later' (ID: 2937), Prob: 0.0000
+Token: ' emotionally' (ID: 37583), Prob: 0.0000
+Token: ' perhaps' (ID: 8365), Prob: 0.0000
+Token: ' sentence' (ID: 11652), Prob: 0.0000
+Token: ' arcs' (ID: 66750), Prob: 0.0000
+
+== Ranked Concepts (Clusters) ==
+Rank 1 | Centroid: ' within' | Score: 0.0128
+  Tokens: [' around', ' within', ' inside']
+Rank 2 | Centroid: ' properly' | Score: 0.0014
+  Tokens: [' properly', ' clearly', ' carefully', ' smoothly', ' naturally', ' formally']
+Rank 3 | Centroid: ' based' | Score: 0.0012
+  Tokens: [' together', ' like', ' based']
+Rank 4 | Centroid: ' point' | Score: 0.0009
+  Tokens: [' step', ' line', ' point']
+Rank 5 | Centroid: ' start' | Score: 0.0004
+  Tokens: [' first', ' starting', ' start']
+Rank 6 | Centroid: ' emotionally' | Score: 0.0003
+  Tokens: [' logically', ' mentally', ' emotionally']
+Rank 7 | Centroid: ' chron' | Score: 0.0003
+  Tokens: [' chron', ' conc', ' arcs']
+Rank 8 | Centroid: ' accordingly' | Score: 0.0002
+  Tokens: [' accordingly', ' differently']
+Rank 9 | Centroid: ' flow' | Score: 0.0001
+  Tokens: [' flow', ' organ']
+Rank 10 | Centroid: ' better' | Score: 0.0001
+  Tokens: [' better', ' well']
+Rank 11 | Centroid: ' slowly' | Score: 0.0000
+  Tokens: [' slowly', ' quickly', ' briefly', ' finally']
+Rank 12 | Centroid: ' perhaps' | Score: 0.0000
+  Tokens: [' somehow', ' maybe', ' perhaps']
+Rank 13 | Centroid: ' thought' | Score: 0.0000
+  Tokens: [' thought']
+Rank 14 | Centroid: ' outline' | Score: 0.0000
+  Tokens: [' outline', ' plan', ' plot']
+Rank 15 | Centroid: ' piece' | Score: 0.0000
+  Tokens: [' piece', ' sentence']
+Rank 16 | Centroid: ' forward' | Score: 0.0000
+  Tokens: [' forward', ' back']
+Rank 17 | Centroid: ' simply' | Score: 0.0000
+  Tokens: [' simply']
+Rank 18 | Centroid: ' later' | Score: 0.0000
+  Tokens: [' later']
+
+**Chosen Concept:** Rank 1

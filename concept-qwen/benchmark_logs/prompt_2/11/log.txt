@@ -1,61 +1,172 @@
 --- Step 11 Log ---
 
 == Filtered Candidates ==
-Token: ' points' (ID: 3501), Prob: 0.0000
-Token: ' yes' (ID: 9834), Prob: 0.0000
-Token: ' point' (ID: 1459), Prob: 0.0000
-Token: ' Yes' (ID: 7414), Prob: 0.0000
-Token: ' either' (ID: 2987), Prob: 0.0000
-Token: ' via' (ID: 4566), Prob: 0.0000
-Token: ' whether' (ID: 3425), Prob: 0.0000
-Token: ' Point' (ID: 5126), Prob: 0.0000
-Token: ' Code' (ID: 6119), Prob: 0.0000
-Token: ' correct' (ID: 4396), Prob: 0.0000
-Token: ' Explanation' (ID: 71287), Prob: 0.0000
-Token: ' Points' (ID: 20725), Prob: 0.0000
-Token: ' font' (ID: 3301), Prob: 0.0000
-Token: ' according' (ID: 4092), Prob: 0.0000
-Token: ' current' (ID: 1482), Prob: 0.0000
-Token: ' code' (ID: 2038), Prob: 0.0000
-Token: ' examples' (ID: 10295), Prob: 0.0000
-Token: ' explanation' (ID: 16148), Prob: 0.0000
-Token: ' example' (ID: 3110), Prob: 0.0000
-Token: ' Description' (ID: 7662), Prob: 0.0000
-Token: ' pointer' (ID: 7445), Prob: 0.0000
-Token: ' new' (ID: 501), Prob: 0.0000
-Token: ' using' (ID: 1667), Prob: 0.0000
+Token: ' embed' (ID: 11579), Prob: 0.9766
+Token: ' make' (ID: 1281), Prob: 0.0074
+Token: ' take' (ID: 1896), Prob: 0.0066
+Token: ' insert' (ID: 5656), Prob: 0.0040
+Token: ' create' (ID: 1855), Prob: 0.0017
+Token: ' include' (ID: 2924), Prob: 0.0011
+Token: ' integrate' (ID: 31072), Prob: 0.0007
+Token: ' incorporate' (ID: 32335), Prob: 0.0004
+Token: ' find' (ID: 1477), Prob: 0.0003
+Token: ' add' (ID: 912), Prob: 0.0002
+Token: ' embedded' (ID: 22864), Prob: 0.0001
+Token: ' start' (ID: 1191), Prob: 0.0001
+Token: ' figure' (ID: 7071), Prob: 0.0001
+Token: ' understand' (ID: 3535), Prob: 0.0001
+Token: ' get' (ID: 633), Prob: 0.0001
+Token: ' put' (ID: 2182), Prob: 0.0001
+Token: ' remember' (ID: 6099), Prob: 0.0001
+Token: ' use' (ID: 990), Prob: 0.0001
+Token: ' generate' (ID: 6923), Prob: 0.0001
+Token: ' replace' (ID: 8290), Prob: 0.0001
+Token: ' Embed' (ID: 37068), Prob: 0.0001
+Token: ' tell' (ID: 3291), Prob: 0.0001
+Token: ' mention' (ID: 6286), Prob: 0.0001
+Token: ' embedding' (ID: 39088), Prob: 0.0001
+Token: ' write' (ID: 3270), Prob: 0.0001
+Token: ' convert' (ID: 5508), Prob: 0.0001
+Token: ' merge' (ID: 10880), Prob: 0.0000
+Token: ' keep' (ID: 2506), Prob: 0.0000
+Token: ' format' (ID: 3561), Prob: 0.0000
+Token: ' combine' (ID: 15963), Prob: 0.0000
+Token: ' extract' (ID: 8649), Prob: 0.0000
+Token: ' paraph' (ID: 62230), Prob: 0.0000
+Token: ' transform' (ID: 5165), Prob: 0.0000
+Token: ' summarize' (ID: 62079), Prob: 0.0000
 Token: ' check' (ID: 1779), Prob: 0.0000
-Token: ' based' (ID: 3118), Prob: 0.0000
-Token: ' tags' (ID: 9492), Prob: 0.0000
-Token: ' YES' (ID: 14080), Prob: 0.0000
-Token: ' Type' (ID: 3990), Prob: 0.0000
-Token: ' Check' (ID: 4248), Prob: 0.0000
-Token: 'ing' (ID: 287), Prob: 0.0000
+Token: ' rewrite' (ID: 18130), Prob: 0.0000
+Token: ' think' (ID: 1744), Prob: 0.0000
+Token: ' explain' (ID: 10339), Prob: 0.0000
+Token: ' adapt' (ID: 10515), Prob: 0.0000
+Token: ' modify' (ID: 5602), Prob: 0.0000
+Token: ' ask' (ID: 2548), Prob: 0.0000
+Token: ' craft' (ID: 10770), Prob: 0.0000
+Token: ' inject' (ID: 15551), Prob: 0.0000
+Token: ' pick' (ID: 3735), Prob: 0.0000
+Token: ' structure' (ID: 5944), Prob: 0.0000
+Token: ' ensure' (ID: 5978), Prob: 0.0000
+Token: ' expand' (ID: 9225), Prob: 0.0000
+Token: ' capture' (ID: 12322), Prob: 0.0000
+Token: ' follow' (ID: 1795), Prob: 0.0000
+Token: ' process' (ID: 1882), Prob: 0.0000
+Token: ' present' (ID: 3042), Prob: 0.0000
+Token: ' imagine' (ID: 12793), Prob: 0.0000
+Token: ' answer' (ID: 4226), Prob: 0.0000
+Token: ' blend' (ID: 20334), Prob: 0.0000
+Token: ' describe' (ID: 7512), Prob: 0.0000
+Token: ' prompt' (ID: 9934), Prob: 0.0000
+Token: ' identify' (ID: 10542), Prob: 0.0000
+Token: ' attach' (ID: 15498), Prob: 0.0000
+Token: ' highlight' (ID: 11167), Prob: 0.0000
+Token: ' read' (ID: 1349), Prob: 0.0000
+Token: ' build' (ID: 1936), Prob: 0.0000
+Token: ' adjust' (ID: 7500), Prob: 0.0000
+Token: ' cond' (ID: 9756), Prob: 0.0000
+Token: ' turn' (ID: 2484), Prob: 0.0000
+Token: ' connect' (ID: 4564), Prob: 0.0000
+Token: ' prepare' (ID: 10549), Prob: 0.0000
+Token: ' translate' (ID: 14683), Prob: 0.0000
+Token: ' wrap' (ID: 15061), Prob: 0.0000
+Token: ' know' (ID: 1414), Prob: 0.0000
+Token: ' fit' (ID: 4946), Prob: 0.0000
+Token: ' analyze' (ID: 23643), Prob: 0.0000
+Token: ' choose' (ID: 5157), Prob: 0.0000
+Token: ' introduce' (ID: 19131), Prob: 0.0000
+Token: ' remind' (ID: 23974), Prob: 0.0000
+Token: ' personalize' (ID: 80838), Prob: 0.0000
+Token: ' place' (ID: 1992), Prob: 0.0000
+Token: ' inline' (ID: 7381), Prob: 0.0000
+Token: ' see' (ID: 1490), Prob: 0.0000
+Token: ' fix' (ID: 5046), Prob: 0.0000
+Token: ' decide' (ID: 10279), Prob: 0.0000
+Token: ' enhance' (ID: 18379), Prob: 0.0000
+Token: ' visualize' (ID: 50087), Prob: 0.0000
+Token: ' handle' (ID: 3705), Prob: 0.0000
+Token: ' respond' (ID: 5889), Prob: 0.0000
+Token: ' implement' (ID: 4211), Prob: 0.0000
+Token: ' recognize' (ID: 15282), Prob: 0.0000
+Token: ' form' (ID: 1352), Prob: 0.0000
+Token: ' change' (ID: 2297), Prob: 0.0000
+Token: ' parse' (ID: 4715), Prob: 0.0000
+Token: ' clearly' (ID: 9355), Prob: 0.0000
+Token: ' ent' (ID: 1197), Prob: 0.0000
+Token: ' help' (ID: 1492), Prob: 0.0000
+Token: ' come' (ID: 2525), Prob: 0.0000
+Token: ' provide' (ID: 3410), Prob: 0.0000
+Token: ' frame' (ID: 4034), Prob: 0.0000
 
 == Ranked Concepts (Clusters) ==
-Rank 1 | Centroid: ' points' | Score: 0.0001
-  Tokens: [' points', ' point', ' Point', ' Points']
-Rank 2 | Centroid: ' Yes' | Score: 0.0000
-  Tokens: [' yes', ' Yes', ' YES']
-Rank 3 | Centroid: ' either' | Score: 0.0000
-  Tokens: [' either', ' whether']
-Rank 4 | Centroid: ' based' | Score: 0.0000
-  Tokens: [' via', ' according', ' using', ' based']
-Rank 5 | Centroid: ' current' | Score: 0.0000
-  Tokens: [' correct', ' current', ' new']
-Rank 6 | Centroid: ' Explanation' | Score: 0.0000
-  Tokens: [' Explanation', ' explanation', ' Description']
-Rank 7 | Centroid: ' Code' | Score: 0.0000
-  Tokens: [' Code', ' code']
-Rank 8 | Centroid: ' font' | Score: 0.0000
-  Tokens: [' font', ' tags', ' Type']
-Rank 9 | Centroid: ' examples' | Score: 0.0000
-  Tokens: [' examples', ' example']
-Rank 10 | Centroid: ' check' | Score: 0.0000
-  Tokens: [' check', ' Check']
-Rank 11 | Centroid: ' pointer' | Score: 0.0000
-  Tokens: [' pointer']
-Rank 12 | Centroid: 'ing' | Score: 0.0000
-  Tokens: ['ing']
+Rank 1 | Centroid: ' embedding' | Score: 0.9805
+  Tokens: [' embed', ' insert', ' embedded', ' Embed', ' embedding', ' inject', ' inline']
+Rank 2 | Centroid: ' get' | Score: 0.0080
+  Tokens: [' make', ' find', ' add', ' get', ' build']
+Rank 3 | Centroid: ' take' | Score: 0.0068
+  Tokens: [' take', ' start', ' use', ' keep', ' check', ' follow']
+Rank 4 | Centroid: ' create' | Score: 0.0017
+  Tokens: [' create', ' generate', ' prepare']
+Rank 5 | Centroid: ' incorporate' | Score: 0.0012
+  Tokens: [' integrate', ' incorporate', ' combine']
+Rank 6 | Centroid: ' include' | Score: 0.0011
+  Tokens: [' include']
+Rank 7 | Centroid: ' understand' | Score: 0.0002
+  Tokens: [' understand', ' remember', ' think', ' know', ' see']
+Rank 8 | Centroid: ' convert' | Score: 0.0002
+  Tokens: [' replace', ' convert', ' transform', ' translate']
+Rank 9 | Centroid: ' describe' | Score: 0.0001
+  Tokens: [' mention', ' summarize', ' explain', ' describe', ' highlight', ' remind']
+Rank 10 | Centroid: ' figure' | Score: 0.0001
+  Tokens: [' figure']
+Rank 11 | Centroid: ' merge' | Score: 0.0001
+  Tokens: [' merge', ' blend', ' attach', ' connect', ' fit']
+Rank 12 | Centroid: ' put' | Score: 0.0001
+  Tokens: [' put', ' place']
+Rank 13 | Centroid: ' format' | Score: 0.0001
+  Tokens: [' format', ' structure', ' process', ' form', ' frame']
+Rank 14 | Centroid: ' tell' | Score: 0.0001
+  Tokens: [' tell', ' ask']
+Rank 15 | Centroid: ' parse' | Score: 0.0001
+  Tokens: [' extract', ' craft', ' parse']
+Rank 16 | Centroid: ' write' | Score: 0.0001
+  Tokens: [' write', ' read']
+Rank 17 | Centroid: ' enhance' | Score: 0.0001
+  Tokens: [' modify', ' expand', ' enhance', ' implement']
+Rank 18 | Centroid: ' paraph' | Score: 0.0000
+  Tokens: [' paraph', ' cond']
+Rank 19 | Centroid: ' adjust' | Score: 0.0000
+  Tokens: [' adapt', ' adjust', ' fix']
+Rank 20 | Centroid: ' rewrite' | Score: 0.0000
+  Tokens: [' rewrite']
+Rank 21 | Centroid: ' prompt' | Score: 0.0000
+  Tokens: [' answer', ' prompt', ' clearly']
+Rank 22 | Centroid: ' identify' | Score: 0.0000
+  Tokens: [' identify', ' analyze', ' recognize']
+Rank 23 | Centroid: ' turn' | Score: 0.0000
+  Tokens: [' turn', ' wrap', ' change']
+Rank 24 | Centroid: ' imagine' | Score: 0.0000
+  Tokens: [' imagine', ' visualize']
+Rank 25 | Centroid: ' pick' | Score: 0.0000
+  Tokens: [' pick']
+Rank 26 | Centroid: ' ensure' | Score: 0.0000
+  Tokens: [' ensure']
+Rank 27 | Centroid: ' capture' | Score: 0.0000
+  Tokens: [' capture']
+Rank 28 | Centroid: ' present' | Score: 0.0000
+  Tokens: [' present']
+Rank 29 | Centroid: ' choose' | Score: 0.0000
+  Tokens: [' choose', ' decide']
+Rank 30 | Centroid: ' personalize' | Score: 0.0000
+  Tokens: [' personalize', ' respond']
+Rank 31 | Centroid: ' introduce' | Score: 0.0000
+  Tokens: [' introduce', ' provide']
+Rank 32 | Centroid: ' handle' | Score: 0.0000
+  Tokens: [' handle']
+Rank 33 | Centroid: ' ent' | Score: 0.0000
+  Tokens: [' ent']
+Rank 34 | Centroid: ' come' | Score: 0.0000
+  Tokens: [' come']
+Rank 35 | Centroid: ' help' | Score: 0.0000
+  Tokens: [' help']
 
 **Chosen Concept:** Rank 1

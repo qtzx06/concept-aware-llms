@@ -1,0 +1,126 @@
+--- Step 42 Log ---
+
+== Filtered Candidates ==
+Token: ' persuasion' (ID: 97124), Prob: 0.2236
+Token: ' prompting' (ID: 49645), Prob: 0.0052
+Token: ' persu' (ID: 23685), Prob: 0.0041
+Token: ' prior' (ID: 4867), Prob: 0.0036
+Token: ' previous' (ID: 3681), Prob: 0.0021
+Token: ' intent' (ID: 7385), Prob: 0.0016
+Token: ' one' (ID: 825), Prob: 0.0014
+Token: ' permission' (ID: 7882), Prob: 0.0014
+Token: ' direct' (ID: 2118), Prob: 0.0008
+Token: ' asking' (ID: 10161), Prob: 0.0007
+Token: ' urging' (ID: 42576), Prob: 0.0006
+Token: ' pushing' (ID: 17461), Prob: 0.0005
+Token: ' persuasive' (ID: 65243), Prob: 0.0005
+Token: ' someone' (ID: 4325), Prob: 0.0004
+Token: ' proper' (ID: 6169), Prob: 0.0004
+Token: ' getting' (ID: 3709), Prob: 0.0003
+Token: ' explicit' (ID: 11464), Prob: 0.0003
+Token: ' personal' (ID: 4345), Prob: 0.0003
+Token: ' thinking' (ID: 7274), Prob: 0.0003
+Token: ' due' (ID: 4152), Prob: 0.0003
+Token: ' consent' (ID: 14433), Prob: 0.0003
+Token: ' Pers' (ID: 20465), Prob: 0.0003
+Token: ' trying' (ID: 4460), Prob: 0.0003
+Token: ' wanting' (ID: 19211), Prob: 0.0003
+Token: ' expectation' (ID: 30193), Prob: 0.0003
+Token: ' showing' (ID: 9027), Prob: 0.0002
+Token: ' hesitation' (ID: 64337), Prob: 0.0002
+Token: ' convincing' (ID: 39561), Prob: 0.0002
+Token: ' expecting' (ID: 22331), Prob: 0.0002
+Token: ' forcing' (ID: 24913), Prob: 0.0002
+Token: ' knowing' (ID: 14063), Prob: 0.0002
+Token: ' making' (ID: 3259), Prob: 0.0002
+Token: ' authority' (ID: 11198), Prob: 0.0002
+Token: ' explanation' (ID: 16148), Prob: 0.0002
+Token: ' saying' (ID: 5488), Prob: 0.0001
+Token: ' calling' (ID: 8098), Prob: 0.0001
+Token: ' mentioning' (ID: 44291), Prob: 0.0001
+Token: ' direction' (ID: 5106), Prob: 0.0001
+Token: ' user' (ID: 1196), Prob: 0.0001
+Token: ' seeking' (ID: 10887), Prob: 0.0001
+Token: ' anyone' (ID: 5489), Prob: 0.0001
+Token: ' talking' (ID: 7404), Prob: 0.0001
+Token: ' persistence' (ID: 40956), Prob: 0.0001
+Token: ' pers' (ID: 7413), Prob: 0.0001
+Token: ' telling' (ID: 11629), Prob: 0.0001
+Token: ' immediate' (ID: 13922), Prob: 0.0001
+Token: ' using' (ID: 1667), Prob: 0.0001
+Token: ' full' (ID: 2480), Prob: 0.0001
+Token: ' mutual' (ID: 26750), Prob: 0.0001
+Token: ' formal' (ID: 15908), Prob: 0.0001
+Token: ' others' (ID: 3800), Prob: 0.0001
+Token: ' insistence' (ID: 78297), Prob: 0.0001
+Token: ' much' (ID: 1753), Prob: 0.0001
+Token: ' pressure' (ID: 7262), Prob: 0.0001
+Token: ' invitation' (ID: 28688), Prob: 0.0001
+Token: ' giving' (ID: 7086), Prob: 0.0001
+Token: ' discussion' (ID: 10219), Prob: 0.0001
+Token: ' expressing' (ID: 36710), Prob: 0.0001
+Token: ' conversation' (ID: 10435), Prob: 0.0001
+Token: ' turning' (ID: 13054), Prob: 0.0001
+Token: ' taking' (ID: 4633), Prob: 0.0001
+Token: ' keeping' (ID: 10282), Prob: 0.0001
+Token: ' speaking' (ID: 12094), Prob: 0.0001
+Token: ' guidance' (ID: 18821), Prob: 0.0001
+Token: ' needing' (ID: 32821), Prob: 0.0001
+Token: ' proving' (ID: 38758), Prob: 0.0001
+Token: ' control' (ID: 2524), Prob: 0.0001
+Token: ' warning' (ID: 9958), Prob: 0.0001
+Token: ' coercion' (ID: 77142), Prob: 0.0001
+Token: ' good' (ID: 1661), Prob: 0.0001
+Token: ' earlier' (ID: 6788), Prob: 0.0001
+Token: ' prompt' (ID: 9934), Prob: 0.0001
+Token: ' intervention' (ID: 20949), Prob: 0.0001
+Token: ' dialogue' (ID: 21276), Prob: 0.0001
+Token: ' initiating' (ID: 78416), Prob: 0.0001
+Token: ' meeting' (ID: 6438), Prob: 0.0000
+Token: ' usual' (ID: 13475), Prob: 0.0000
+Token: ' leading' (ID: 6388), Prob: 0.0000
+Token: ' influence' (ID: 10173), Prob: 0.0000
+Token: ' intention' (ID: 14602), Prob: 0.0000
+Token: ' motivation' (ID: 24798), Prob: 0.0000
+Token: ' negotiation' (ID: 48048), Prob: 0.0000
+Token: ' clear' (ID: 2797), Prob: 0.0000
+
+== Ranked Concepts (Clusters) ==
+Rank 1 | Centroid: ' persu' | Score: 0.2285
+  Tokens: [' persuasion', ' persu', ' persuasive', ' convincing']
+Rank 2 | Centroid: ' urging' | Score: 0.0065
+  Tokens: [' prompting', ' urging', ' pushing', ' forcing', ' initiating']
+Rank 3 | Centroid: ' previous' | Score: 0.0058
+  Tokens: [' prior', ' previous', ' earlier', ' usual']
+Rank 4 | Centroid: ' good' | Score: 0.0027
+  Tokens: [' one', ' proper', ' personal', ' due', ' user', ' full', ' much', ' good']
+Rank 5 | Centroid: ' permission' | Score: 0.0023
+  Tokens: [' permission', ' consent', ' authority', ' direction', ' pressure', ' guidance', ' control', ' intervention', ' influence']
+Rank 6 | Centroid: ' intention' | Score: 0.0021
+  Tokens: [' intent', ' expectation', ' expecting', ' intention']
+Rank 7 | Centroid: ' explicit' | Score: 0.0014
+  Tokens: [' direct', ' explicit', ' immediate', ' mutual', ' formal', ' clear']
+Rank 8 | Centroid: ' saying' | Score: 0.0012
+  Tokens: [' asking', ' saying', ' calling', ' mentioning', ' telling', ' expressing']
+Rank 9 | Centroid: ' getting' | Score: 0.0012
+  Tokens: [' getting', ' showing', ' making', ' using', ' giving', ' turning', ' taking', ' keeping', ' proving']
+Rank 10 | Centroid: ' wanting' | Score: 0.0009
+  Tokens: [' trying', ' wanting', ' knowing', ' seeking', ' needing']
+Rank 11 | Centroid: ' someone' | Score: 0.0006
+  Tokens: [' someone', ' anyone', ' others']
+Rank 12 | Centroid: ' Pers' | Score: 0.0005
+  Tokens: [' Pers', ' persistence', ' pers']
+Rank 13 | Centroid: ' insistence' | Score: 0.0005
+  Tokens: [' hesitation', ' insistence', ' invitation', ' coercion', ' motivation']
+Rank 14 | Centroid: ' talking' | Score: 0.0005
+  Tokens: [' thinking', ' talking', ' speaking']
+Rank 15 | Centroid: ' conversation' | Score: 0.0004
+  Tokens: [' explanation', ' discussion', ' conversation', ' dialogue', ' negotiation']
+Rank 16 | Centroid: ' warning' | Score: 0.0001
+  Tokens: [' warning', ' prompt']
+Rank 17 | Centroid: ' meeting' | Score: 0.0000
+  Tokens: [' meeting']
+Rank 18 | Centroid: ' leading' | Score: 0.0000
+  Tokens: [' leading']
+
+**Chosen Concept:** Rank 1

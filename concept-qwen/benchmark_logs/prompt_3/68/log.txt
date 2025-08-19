@@ -1,91 +1,123 @@
 --- Step 68 Log ---
 
 == Filtered Candidates ==
-Token: ' old' (ID: 2310), Prob: 1.0000
-Token: ' older' (ID: 9014), Prob: 0.0001
-Token: ' young' (ID: 3908), Prob: 0.0000
-Token: ' elderly' (ID: 28820), Prob: 0.0000
-Token: ' long' (ID: 1293), Prob: 0.0000
-Token: '(old' (ID: 21972), Prob: 0.0000
-Token: 'old' (ID: 813), Prob: 0.0000
-Token: '-old' (ID: 6284), Prob: 0.0000
-Token: '	old' (ID: 61828), Prob: 0.0000
-Token: '.old' (ID: 46061), Prob: 0.0000
-Token: ' cold' (ID: 9255), Prob: 0.0000
-Token: ' Old' (ID: 10621), Prob: 0.0000
-Token: ' ancient' (ID: 13833), Prob: 0.0000
-Token: '_old' (ID: 21108), Prob: 0.0000
-Token: ' oldest' (ID: 23513), Prob: 0.0000
-Token: ' tall' (ID: 16217), Prob: 0.0000
-Token: ' new' (ID: 501), Prob: 0.0000
-Token: ' OLD' (ID: 64891), Prob: 0.0000
-Token: ' well' (ID: 1632), Prob: 0.0000
-Token: ' away' (ID: 3123), Prob: 0.0000
-Token: ' slow' (ID: 6301), Prob: 0.0000
-Token: ' child' (ID: 1682), Prob: 0.0000
-Token: ' aged' (ID: 19749), Prob: 0.0000
-Token: ' fast' (ID: 4937), Prob: 0.0000
-Token: ' full' (ID: 2480), Prob: 0.0000
-Token: ' oil' (ID: 5590), Prob: 0.0000
-Token: ' aging' (ID: 28984), Prob: 0.0000
-Token: ' large' (ID: 3460), Prob: 0.0000
-Token: ' end' (ID: 835), Prob: 0.0000
-Token: ' wide' (ID: 6884), Prob: 0.0000
-Token: ' small' (ID: 2613), Prob: 0.0000
-Token: ' late' (ID: 3309), Prob: 0.0000
-Token: ' empty' (ID: 4287), Prob: 0.0000
-Token: ' outdated' (ID: 40526), Prob: 0.0000
-Token: ' open' (ID: 1787), Prob: 0.0000
-Token: ' age' (ID: 4231), Prob: 0.0000
-Token: ' easy' (ID: 4135), Prob: 0.0000
-Token: ' always' (ID: 2677), Prob: 0.0000
-Token: ' high' (ID: 1550), Prob: 0.0000
-Token: ' without' (ID: 2041), Prob: 0.0000
-Token: ' along' (ID: 3156), Prob: 0.0000
-Token: ' strong' (ID: 3746), Prob: 0.0000
-Token: ' alone' (ID: 7484), Prob: 0.0000
-Token: ' obsolete' (ID: 46066), Prob: 0.0000
-Token: ' often' (ID: 3545), Prob: 0.0000
-Token: 'OLD' (ID: 7863), Prob: 0.0000
-Token: ' tired' (ID: 19227), Prob: 0.0000
-Token: ' ultra' (ID: 23998), Prob: 0.0000
-Token: ' like' (ID: 1075), Prob: 0.0000
-Token: ' rich' (ID: 9080), Prob: 0.0000
-Token: ' great' (ID: 2244), Prob: 0.0000
-Token: ' elder' (ID: 22130), Prob: 0.0000
+Token: ' without' (ID: 2041), Prob: 0.3613
+Token: ' unexpectedly' (ID: 50609), Prob: 0.0713
+Token: ' naturally' (ID: 17712), Prob: 0.0334
+Token: ' accidentally' (ID: 32384), Prob: 0.0261
+Token: ' unintention' (ID: 69476), Prob: 0.0168
+Token: ' unknow' (ID: 83544), Prob: 0.0149
+Token: ' casually' (ID: 64614), Prob: 0.0123
+Token: ' awkward' (ID: 28759), Prob: 0.0075
+Token: ' spontaneously' (ID: 87458), Prob: 0.0062
+Token: ' intentionally' (ID: 36204), Prob: 0.0058
+Token: ' impuls' (ID: 96779), Prob: 0.0055
+Token: ' due' (ID: 4152), Prob: 0.0048
+Token: ' abruptly' (ID: 59745), Prob: 0.0045
+Token: ' normally' (ID: 14279), Prob: 0.0040
+Token: ' easily' (ID: 6707), Prob: 0.0026
+Token: ' unaware' (ID: 40647), Prob: 0.0026
+Token: ' suddenly' (ID: 14843), Prob: 0.0022
+Token: ' genuinely' (ID: 35197), Prob: 0.0022
+Token: ' trivial' (ID: 35647), Prob: 0.0022
+Token: ' independently' (ID: 28135), Prob: 0.0019
+Token: ' subtly' (ID: 86317), Prob: 0.0019
+Token: ' effortlessly' (ID: 68604), Prob: 0.0016
+Token: ' inadvertently' (ID: 69085), Prob: 0.0015
+Token: ' openly' (ID: 29347), Prob: 0.0013
+Token: ' unc' (ID: 20815), Prob: 0.0012
+Token: ' randomly' (ID: 26618), Prob: 0.0012
+Token: ' freely' (ID: 25580), Prob: 0.0011
+Token: ' secretly' (ID: 41739), Prob: 0.0011
+Token: ' mistakenly' (ID: 76534), Prob: 0.0011
+Token: ' inexp' (ID: 33578), Prob: 0.0010
+Token: ' deliberately' (ID: 35092), Prob: 0.0010
+Token: ' despite' (ID: 8818), Prob: 0.0010
+Token: ' seemingly' (ID: 22660), Prob: 0.0009
+Token: ' myster' (ID: 23329), Prob: 0.0009
+Token: ' automatically' (ID: 9463), Prob: 0.0008
+Token: ' reluctantly' (ID: 83085), Prob: 0.0008
+Token: ' innoc' (ID: 18619), Prob: 0.0008
+Token: ' unnoticed' (ID: 76923), Prob: 0.0007
+Token: ' politely' (ID: 80767), Prob: 0.0007
+Token: ' initially' (ID: 15102), Prob: 0.0007
+Token: ' unusually' (ID: 56799), Prob: 0.0007
+Token: ' hes' (ID: 19779), Prob: 0.0006
+Token: ' differently' (ID: 21303), Prob: 0.0006
+Token: ' gently' (ID: 29273), Prob: 0.0006
+Token: ' thought' (ID: 3381), Prob: 0.0005
+Token: ' quickly' (ID: 6157), Prob: 0.0005
+Token: ' unn' (ID: 16950), Prob: 0.0005
+Token: ' poorly' (ID: 30455), Prob: 0.0005
+Token: ' unpredict' (ID: 43596), Prob: 0.0005
+Token: ' superficial' (ID: 58815), Prob: 0.0005
+Token: ' absent' (ID: 27211), Prob: 0.0005
+Token: ' mis' (ID: 5786), Prob: 0.0005
+Token: ' late' (ID: 3309), Prob: 0.0004
+Token: ' uncon' (ID: 25062), Prob: 0.0004
+Token: ' falsely' (ID: 60356), Prob: 0.0004
+Token: ' wrongly' (ID: 71209), Prob: 0.0004
+Token: ' unf' (ID: 9474), Prob: 0.0004
+Token: ' rud' (ID: 67230), Prob: 0.0004
+Token: ' improperly' (ID: 74198), Prob: 0.0004
+Token: ' ser' (ID: 1420), Prob: 0.0004
+Token: ' ins' (ID: 1640), Prob: 0.0004
+Token: ' nerv' (ID: 19658), Prob: 0.0004
+Token: ' willingly' (ID: 72552), Prob: 0.0004
+Token: ' reck' (ID: 28199), Prob: 0.0003
+Token: ' like' (ID: 1075), Prob: 0.0003
+Token: ' uns' (ID: 6975), Prob: 0.0003
+Token: ' instinct' (ID: 30555), Prob: 0.0003
+Token: ' calmly' (ID: 72070), Prob: 0.0003
+Token: ' hastily' (ID: 93432), Prob: 0.0003
+Token: ' based' (ID: 3118), Prob: 0.0003
 
 == Ranked Concepts (Clusters) ==
-Rank 1 | Centroid: ' old' | Score: 1.0000
-  Tokens: [' old', '(old', 'old', '-old', '\told', '.old', ' Old', '_old', ' OLD', 'OLD']
-Rank 2 | Centroid: ' elderly' | Score: 0.0001
-  Tokens: [' older', ' elderly', ' oldest', ' aged', ' aging', ' age', ' elder']
-Rank 3 | Centroid: ' young' | Score: 0.0000
-  Tokens: [' young', ' child']
-Rank 4 | Centroid: ' wide' | Score: 0.0000
-  Tokens: [' long', ' tall', ' wide', ' high']
-Rank 5 | Centroid: ' outdated' | Score: 0.0000
-  Tokens: [' ancient', ' outdated', ' obsolete']
-Rank 6 | Centroid: ' cold' | Score: 0.0000
-  Tokens: [' cold']
-Rank 7 | Centroid: ' slow' | Score: 0.0000
-  Tokens: [' slow', ' fast', ' late', ' easy', ' ultra']
-Rank 8 | Centroid: ' without' | Score: 0.0000
-  Tokens: [' away', ' without', ' along', ' alone', ' like']
-Rank 9 | Centroid: ' new' | Score: 0.0000
-  Tokens: [' new']
-Rank 10 | Centroid: ' large' | Score: 0.0000
-  Tokens: [' large', ' small', ' strong', ' great']
-Rank 11 | Centroid: ' empty' | Score: 0.0000
-  Tokens: [' oil', ' empty', ' open']
-Rank 12 | Centroid: ' well' | Score: 0.0000
-  Tokens: [' well', ' rich']
-Rank 13 | Centroid: ' full' | Score: 0.0000
-  Tokens: [' full']
-Rank 14 | Centroid: ' always' | Score: 0.0000
-  Tokens: [' always', ' often']
-Rank 15 | Centroid: ' end' | Score: 0.0000
-  Tokens: [' end']
-Rank 16 | Centroid: ' tired' | Score: 0.0000
-  Tokens: [' tired']
+Rank 1 | Centroid: ' without' | Score: 0.3672
+  Tokens: [' without', ' due', ' despite', ' absent', ' like', ' based']
+Rank 2 | Centroid: ' unexpectedly' | Score: 0.0737
+  Tokens: [' unexpectedly', ' inexp', ' myster', ' unusually']
+Rank 3 | Centroid: ' inadvertently' | Score: 0.0444
+  Tokens: [' accidentally', ' unintention', ' inadvertently']
+Rank 4 | Centroid: ' naturally' | Score: 0.0405
+  Tokens: [' naturally', ' spontaneously', ' automatically']
+Rank 5 | Centroid: ' unaware' | Score: 0.0190
+  Tokens: [' unknow', ' unaware', ' innoc', ' unnoticed']
+Rank 6 | Centroid: ' calmly' | Score: 0.0147
+  Tokens: [' casually', ' reluctantly', ' politely', ' gently', ' calmly']
+Rank 7 | Centroid: ' awkward' | Score: 0.0106
+  Tokens: [' awkward', ' trivial', ' superficial', ' rud']
+Rank 8 | Centroid: ' differently' | Score: 0.0076
+  Tokens: [' normally', ' independently', ' randomly', ' differently']
+Rank 9 | Centroid: ' abruptly' | Score: 0.0070
+  Tokens: [' abruptly', ' suddenly', ' hastily']
+Rank 10 | Centroid: ' impuls' | Score: 0.0070
+  Tokens: [' impuls', ' hes', ' thought', ' reck']
+Rank 11 | Centroid: ' intentionally' | Score: 0.0068
+  Tokens: [' intentionally', ' deliberately']
+Rank 12 | Centroid: ' subtly' | Score: 0.0051
+  Tokens: [' genuinely', ' subtly', ' secretly']
+Rank 13 | Centroid: ' easily' | Score: 0.0047
+  Tokens: [' easily', ' effortlessly', ' quickly']
+Rank 14 | Centroid: ' wrongly' | Score: 0.0033
+  Tokens: [' mistakenly', ' poorly', ' mis', ' falsely', ' wrongly', ' improperly']
+Rank 15 | Centroid: ' unf' | Score: 0.0028
+  Tokens: [' unc', ' unn', ' uncon', ' unf', ' uns']
+Rank 16 | Centroid: ' openly' | Score: 0.0027
+  Tokens: [' openly', ' freely', ' willingly']
+Rank 17 | Centroid: ' seemingly' | Score: 0.0009
+  Tokens: [' seemingly']
+Rank 18 | Centroid: ' late' | Score: 0.0008
+  Tokens: [' late', ' ser']
+Rank 19 | Centroid: ' initially' | Score: 0.0007
+  Tokens: [' initially']
+Rank 20 | Centroid: ' unpredict' | Score: 0.0005
+  Tokens: [' unpredict']
+Rank 21 | Centroid: ' ins' | Score: 0.0004
+  Tokens: [' ins']
+Rank 22 | Centroid: ' nerv' | Score: 0.0004
+  Tokens: [' nerv']
+Rank 23 | Centroid: ' instinct' | Score: 0.0003
+  Tokens: [' instinct']
 
 **Chosen Concept:** Rank 1

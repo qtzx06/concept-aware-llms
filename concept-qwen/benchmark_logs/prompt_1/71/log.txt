@@ -1,120 +1,154 @@
 --- Step 71 Log ---
 
 == Filtered Candidates ==
-Token: ' without' (ID: 2041), Prob: 0.3359
-Token: ' clearly' (ID: 9355), Prob: 0.0045
-Token: ' effectively' (ID: 13444), Prob: 0.0035
-Token: ' completely' (ID: 6587), Prob: 0.0018
-Token: ' properly' (ID: 10277), Prob: 0.0014
-Token: ' accurately' (ID: 29257), Prob: 0.0008
-Token: ' conc' (ID: 3529), Prob: 0.0007
-Token: ' perfectly' (ID: 13942), Prob: 0.0007
-Token: ' emotionally' (ID: 37583), Prob: 0.0007
-Token: ' emotion' (ID: 19772), Prob: 0.0006
-Token: ' auth' (ID: 4166), Prob: 0.0005
-Token: ' flu' (ID: 19660), Prob: 0.0004
-Token: ' naturally' (ID: 17712), Prob: 0.0004
-Token: ' succinct' (ID: 98632), Prob: 0.0004
-Token: ' feelings' (ID: 15650), Prob: 0.0003
-Token: ' within' (ID: 2878), Prob: 0.0003
-Token: ' express' (ID: 3158), Prob: 0.0003
-Token: ' fully' (ID: 7225), Prob: 0.0003
-Token: ' genuinely' (ID: 35197), Prob: 0.0003
-Token: ' successfully' (ID: 7790), Prob: 0.0003
-Token: ' thoroughly' (ID: 26364), Prob: 0.0003
-Token: ' effortlessly' (ID: 68604), Prob: 0.0002
-Token: ' deeply' (ID: 17247), Prob: 0.0002
-Token: ' emotions' (ID: 21261), Prob: 0.0002
-Token: ' moments' (ID: 13943), Prob: 0.0002
-Token: ' feeling' (ID: 8266), Prob: 0.0002
-Token: ' efficiently' (ID: 29720), Prob: 0.0002
-Token: ' beautifully' (ID: 31619), Prob: 0.0002
-Token: ' aloud' (ID: 70411), Prob: 0.0002
-Token: ' briefly' (ID: 26753), Prob: 0.0002
-Token: ' well' (ID: 1632), Prob: 0.0001
-Token: ' entirely' (ID: 11368), Prob: 0.0001
-Token: ' strongly' (ID: 16510), Prob: 0.0001
-Token: ' intensely' (ID: 69633), Prob: 0.0001
-Token: ' calmly' (ID: 72070), Prob: 0.0001
-Token: ' simply' (ID: 4936), Prob: 0.0001
-Token: ' uniquely' (ID: 41229), Prob: 0.0001
-Token: ' realistically' (ID: 88616), Prob: 0.0001
-Token: ' consistently' (ID: 20699), Prob: 0.0001
-Token: ' physically' (ID: 21893), Prob: 0.0001
-Token: ' directly' (ID: 5961), Prob: 0.0001
-Token: ' alone' (ID: 7484), Prob: 0.0001
-Token: ' moment' (ID: 4445), Prob: 0.0001
-Token: ' easily' (ID: 6707), Prob: 0.0001
-Token: ' expressed' (ID: 13302), Prob: 0.0001
-Token: ' truly' (ID: 9428), Prob: 0.0001
-Token: ' correctly' (ID: 12440), Prob: 0.0001
-Token: ' honestly' (ID: 26044), Prob: 0.0001
-Token: ' universally' (ID: 60428), Prob: 0.0001
-Token: ' right' (ID: 1290), Prob: 0.0001
-Token: ' rather' (ID: 4751), Prob: 0.0001
-Token: ' quickly' (ID: 6157), Prob: 0.0001
-Token: ' passionately' (ID: 91825), Prob: 0.0001
-Token: ' sincerely' (ID: 58283), Prob: 0.0001
-Token: ' one' (ID: 825), Prob: 0.0001
-Token: ' compreh' (ID: 12674), Prob: 0.0001
-Token: ' experience' (ID: 3139), Prob: 0.0001
-Token: ' appropriately' (ID: 34901), Prob: 0.0001
-Token: ' heart' (ID: 4746), Prob: 0.0001
-Token: ' convinc' (ID: 35861), Prob: 0.0001
-Token: ' even' (ID: 1496), Prob: 0.0001
-Token: ' regardless' (ID: 15484), Prob: 0.0001
-Token: ' throughout' (ID: 6814), Prob: 0.0001
-Token: ' exactly' (ID: 6896), Prob: 0.0001
-Token: ' across' (ID: 3941), Prob: 0.0000
-Token: ' whole' (ID: 4361), Prob: 0.0000
-Token: ' really' (ID: 2167), Prob: 0.0000
+Token: ' two' (ID: 1378), Prob: 0.3926
+Token: ' narrator' (ID: 64171), Prob: 0.2695
+Token: ' characters' (ID: 5766), Prob: 0.0771
+Token: ' narrative' (ID: 19221), Prob: 0.0364
+Token: ' protagonist' (ID: 45584), Prob: 0.0195
+Token: ' character' (ID: 3668), Prob: 0.0161
+Token: ' second' (ID: 2086), Prob: 0.0152
+Token: ' story' (ID: 3364), Prob: 0.0152
+Token: ' place' (ID: 1992), Prob: 0.0087
+Token: ' main' (ID: 1887), Prob: 0.0076
+Token: ' scene' (ID: 6109), Prob: 0.0067
+Token: ' house' (ID: 3753), Prob: 0.0063
+Token: ' conflict' (ID: 12055), Prob: 0.0063
+Token: ' first' (ID: 1156), Prob: 0.0060
+Token: ' person' (ID: 1697), Prob: 0.0034
+Token: ' setting' (ID: 6243), Prob: 0.0028
+Token: ' reader' (ID: 6604), Prob: 0.0028
+Token: ' writer' (ID: 6916), Prob: 0.0028
+Token: ' home' (ID: 2114), Prob: 0.0025
+Token: ' three' (ID: 2326), Prob: 0.0025
+Token: ' dream' (ID: 7904), Prob: 0.0022
+Token: ' world' (ID: 1879), Prob: 0.0021
+Token: ' refuge' (ID: 14510), Prob: 0.0018
+Token: ' next' (ID: 1790), Prob: 0.0017
+Token: ' journey' (ID: 11618), Prob: 0.0016
+Token: ' new' (ID: 501), Prob: 0.0015
+Token: ' crisis' (ID: 11251), Prob: 0.0015
+Token: ' author' (ID: 3150), Prob: 0.0012
+Token: ' third' (ID: 4843), Prob: 0.0010
+Token: ' internal' (ID: 5306), Prob: 0.0010
+Token: ' transition' (ID: 9142), Prob: 0.0010
+Token: ' environment' (ID: 4573), Prob: 0.0010
+Token: ' following' (ID: 2701), Prob: 0.0009
+Token: ' time' (ID: 882), Prob: 0.0009
+Token: ' space' (ID: 3550), Prob: 0.0009
+Token: ' family' (ID: 2997), Prob: 0.0008
+Token: ' moment' (ID: 4445), Prob: 0.0008
+Token: ' arrival' (ID: 18647), Prob: 0.0008
+Token: ' situation' (ID: 6534), Prob: 0.0008
+Token: ' supernatural' (ID: 48958), Prob: 0.0008
+Token: ' outside' (ID: 4889), Prob: 0.0007
+Token: ' external' (ID: 9250), Prob: 0.0007
+Token: ' mystery' (ID: 22531), Prob: 0.0007
+Token: ' events' (ID: 4357), Prob: 0.0006
+Token: ' end' (ID: 835), Prob: 0.0006
+Token: ' location' (ID: 3728), Prob: 0.0006
+Token: ' personal' (ID: 4345), Prob: 0.0006
+Token: ' traveler' (ID: 62765), Prob: 0.0006
+Token: ' climax' (ID: 70195), Prob: 0.0006
+Token: ' emotions' (ID: 21261), Prob: 0.0006
+Token: ' storyt' (ID: 40006), Prob: 0.0006
+Token: ' final' (ID: 1590), Prob: 0.0005
+Token: ' different' (ID: 2155), Prob: 0.0005
+Token: ' presence' (ID: 9362), Prob: 0.0005
+Token: ' discovery' (ID: 18335), Prob: 0.0005
+Token: ' people' (ID: 1251), Prob: 0.0005
+Token: ' natural' (ID: 5810), Prob: 0.0005
+Token: ' inner' (ID: 9179), Prob: 0.0005
+Token: ' hero' (ID: 11821), Prob: 0.0005
+Token: ' cultural' (ID: 12752), Prob: 0.0005
+Token: ' narration' (ID: 85080), Prob: 0.0005
+Token: ' past' (ID: 3267), Prob: 0.0004
+Token: ' night' (ID: 3729), Prob: 0.0004
+Token: ' central' (ID: 8622), Prob: 0.0004
+Token: ' emotional' (ID: 14269), Prob: 0.0004
+Token: ' connection' (ID: 3633), Prob: 0.0004
+Token: ' couple' (ID: 5625), Prob: 0.0004
+Token: ' audience' (ID: 10650), Prob: 0.0004
+Token: ' scenes' (ID: 16065), Prob: 0.0004
+Token: ' speaker' (ID: 18601), Prob: 0.0004
+Token: ' child' (ID: 1682), Prob: 0.0004
+Token: ' escape' (ID: 12449), Prob: 0.0004
+Token: ' outcome' (ID: 15274), Prob: 0.0004
+Token: ' transformation' (ID: 17991), Prob: 0.0004
+Token: ' disaster' (ID: 20763), Prob: 0.0004
+Token: ' event' (ID: 1538), Prob: 0.0004
+Token: ' danger' (ID: 7978), Prob: 0.0004
+Token: ' resolution' (ID: 10935), Prob: 0.0004
+Token: ' reflection' (ID: 21844), Prob: 0.0004
+Token: ' tension' (ID: 23504), Prob: 0.0004
+Token: ' trauma' (ID: 29888), Prob: 0.0004
+Token: ' return' (ID: 470), Prob: 0.0003
+Token: ' message' (ID: 1943), Prob: 0.0003
+Token: ' last' (ID: 1537), Prob: 0.0003
+Token: ' experience' (ID: 3139), Prob: 0.0003
+Token: ' community' (ID: 3942), Prob: 0.0003
+Token: ' theme' (ID: 6912), Prob: 0.0003
+Token: ' encounter' (ID: 12828), Prob: 0.0003
+Token: ' dual' (ID: 18579), Prob: 0.0003
+Token: ' novel' (ID: 11514), Prob: 0.0003
+Token: ' dreams' (ID: 18707), Prob: 0.0003
+Token: ' elements' (ID: 5424), Prob: 0.0003
+Token: ' beginning' (ID: 7167), Prob: 0.0003
+Token: ' day' (ID: 1899), Prob: 0.0003
+Token: ' previous' (ID: 3681), Prob: 0.0003
+Token: ' idea' (ID: 4522), Prob: 0.0003
+Token: ' focus' (ID: 5244), Prob: 0.0003
 
 == Ranked Concepts (Clusters) ==
-Rank 1 | Centroid: ' throughout' | Score: 0.3359
-  Tokens: [' without', ' within', ' regardless', ' throughout', ' across']
-Rank 2 | Centroid: ' properly' | Score: 0.0061
-  Tokens: [' effectively', ' properly', ' accurately', ' successfully', ' correctly', ' appropriately']
-Rank 3 | Centroid: ' clearly' | Score: 0.0045
-  Tokens: [' clearly']
-Rank 4 | Centroid: ' completely' | Score: 0.0029
-  Tokens: [' completely', ' perfectly', ' fully', ' entirely']
-Rank 5 | Centroid: ' emotions' | Score: 0.0020
-  Tokens: [' emotionally', ' emotion', ' feelings', ' emotions', ' feeling']
-Rank 6 | Centroid: ' conc' | Score: 0.0012
-  Tokens: [' conc', ' flu']
-Rank 7 | Centroid: ' intensely' | Score: 0.0008
-  Tokens: [' thoroughly', ' deeply', ' strongly', ' intensely', ' passionately']
-Rank 8 | Centroid: ' effortlessly' | Score: 0.0008
-  Tokens: [' effortlessly', ' efficiently', ' beautifully', ' easily', ' quickly']
-Rank 9 | Centroid: ' genuinely' | Score: 0.0007
-  Tokens: [' genuinely', ' realistically', ' truly', ' honestly', ' sincerely', ' really']
-Rank 10 | Centroid: ' auth' | Score: 0.0006
-  Tokens: [' auth', ' heart']
-Rank 11 | Centroid: ' succinct' | Score: 0.0005
-  Tokens: [' succinct', ' briefly']
-Rank 12 | Centroid: ' naturally' | Score: 0.0005
-  Tokens: [' naturally', ' physically']
-Rank 13 | Centroid: ' expressed' | Score: 0.0005
-  Tokens: [' express', ' expressed', ' experience']
-Rank 14 | Centroid: ' one' | Score: 0.0003
-  Tokens: [' well', ' right', ' one']
-Rank 15 | Centroid: ' moments' | Score: 0.0003
-  Tokens: [' moments', ' moment']
-Rank 16 | Centroid: ' aloud' | Score: 0.0003
-  Tokens: [' aloud', ' alone']
-Rank 17 | Centroid: ' simply' | Score: 0.0002
-  Tokens: [' simply', ' directly']
-Rank 18 | Centroid: ' calmly' | Score: 0.0002
-  Tokens: [' calmly', ' convinc']
-Rank 19 | Centroid: ' consistently' | Score: 0.0002
-  Tokens: [' consistently', ' universally']
-Rank 20 | Centroid: ' uniquely' | Score: 0.0002
-  Tokens: [' uniquely', ' exactly']
-Rank 21 | Centroid: ' rather' | Score: 0.0001
-  Tokens: [' rather', ' even']
-Rank 22 | Centroid: ' compreh' | Score: 0.0001
-  Tokens: [' compreh']
-Rank 23 | Centroid: ' whole' | Score: 0.0000
-  Tokens: [' whole']
+Rank 1 | Centroid: ' two' | Score: 0.4121
+  Tokens: [' two', ' second', ' three', ' third', ' dual']
+Rank 2 | Centroid: ' narrative' | Score: 0.3418
+  Tokens: [' narrator', ' narrative', ' protagonist', ' story', ' storyt', ' hero', ' narration']
+Rank 3 | Centroid: ' characters' | Score: 0.0938
+  Tokens: [' characters', ' character', ' elements']
+Rank 4 | Centroid: ' location' | Score: 0.0148
+  Tokens: [' place', ' setting', ' environment', ' time', ' space', ' location']
+Rank 5 | Centroid: ' crisis' | Score: 0.0120
+  Tokens: [' conflict', ' refuge', ' crisis', ' discovery', ' disaster', ' danger', ' resolution', ' reflection', ' tension']
+Rank 6 | Centroid: ' home' | Score: 0.0101
+  Tokens: [' house', ' home', ' family', ' couple']
+Rank 7 | Centroid: ' first' | Score: 0.0095
+  Tokens: [' first', ' next', ' new', ' last']
+Rank 8 | Centroid: ' main' | Score: 0.0092
+  Tokens: [' main', ' end', ' final', ' central']
+Rank 9 | Centroid: ' scene' | Score: 0.0082
+  Tokens: [' scene', ' situation', ' scenes', ' theme']
+Rank 10 | Centroid: ' writer' | Score: 0.0082
+  Tokens: [' reader', ' writer', ' author', ' traveler', ' audience', ' speaker']
+Rank 11 | Centroid: ' person' | Score: 0.0049
+  Tokens: [' person', ' personal', ' people', ' child']
+Rank 12 | Centroid: ' arrival' | Score: 0.0044
+  Tokens: [' transition', ' arrival', ' presence', ' connection', ' escape', ' transformation', ' return', ' encounter', ' focus']
+Rank 13 | Centroid: ' dream' | Score: 0.0041
+  Tokens: [' dream', ' journey', ' dreams']
+Rank 14 | Centroid: ' external' | Score: 0.0028
+  Tokens: [' internal', ' outside', ' external', ' inner']
+Rank 15 | Centroid: ' world' | Score: 0.0024
+  Tokens: [' world', ' community']
+Rank 16 | Centroid: ' emotional' | Score: 0.0022
+  Tokens: [' supernatural', ' emotions', ' cultural', ' emotional']
+Rank 17 | Centroid: ' previous' | Score: 0.0019
+  Tokens: [' following', ' past', ' beginning', ' previous']
+Rank 18 | Centroid: ' day' | Score: 0.0018
+  Tokens: [' moment', ' night', ' day', ' idea']
+Rank 19 | Centroid: ' event' | Score: 0.0013
+  Tokens: [' events', ' event', ' message']
+Rank 20 | Centroid: ' mystery' | Score: 0.0010
+  Tokens: [' mystery', ' trauma']
+Rank 21 | Centroid: ' different' | Score: 0.0010
+  Tokens: [' different', ' natural']
+Rank 22 | Centroid: ' climax' | Score: 0.0006
+  Tokens: [' climax']
+Rank 23 | Centroid: ' outcome' | Score: 0.0004
+  Tokens: [' outcome']
+Rank 24 | Centroid: ' experience' | Score: 0.0003
+  Tokens: [' experience']
+Rank 25 | Centroid: ' novel' | Score: 0.0003
+  Tokens: [' novel']
 
 **Chosen Concept:** Rank 1

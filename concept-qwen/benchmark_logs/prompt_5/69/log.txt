@@ -1,80 +1,104 @@
 --- Step 69 Log ---
 
 == Filtered Candidates ==
-Token: ' would' (ID: 1035), Prob: 1.0000
-Token: ' makes' (ID: 3643), Prob: 0.0010
-Token: ' made' (ID: 1865), Prob: 0.0000
-Token: ' could' (ID: 1410), Prob: 0.0000
-Token: ' might' (ID: 2578), Prob: 0.0000
-Token: ' seems' (ID: 4977), Prob: 0.0000
-Token: ' Would' (ID: 18885), Prob: 0.0000
-Token: ' making' (ID: 3259), Prob: 0.0000
-Token: ' must' (ID: 1969), Prob: 0.0000
-Token: ' also' (ID: 1083), Prob: 0.0000
-Token: ' may' (ID: 1231), Prob: 0.0000
-Token: ' make' (ID: 1281), Prob: 0.0000
-Token: 'would' (ID: 40350), Prob: 0.0000
-Token: ' assumes' (ID: 21484), Prob: 0.0000
-Token: ' works' (ID: 4278), Prob: 0.0000
-Token: ' logically' (ID: 73045), Prob: 0.0000
-Token: ' ends' (ID: 10335), Prob: 0.0000
-Token: ' shows' (ID: 4933), Prob: 0.0000
-Token: ' technically' (ID: 31554), Prob: 0.0000
+Token: ' versus' (ID: 19041), Prob: 0.0049
+Token: ' regarding' (ID: 8826), Prob: 0.0012
+Token: ' affecting' (ID: 27887), Prob: 0.0008
+Token: ' preventing' (ID: 26160), Prob: 0.0006
+Token: ' around' (ID: 2163), Prob: 0.0005
+Token: ' blocking' (ID: 22188), Prob: 0.0002
+Token: ' protecting' (ID: 22184), Prob: 0.0002
+Token: ' surrounding' (ID: 14590), Prob: 0.0001
+Token: ' saying' (ID: 5488), Prob: 0.0001
+Token: ' respecting' (ID: 68415), Prob: 0.0001
+Token: ' keeping' (ID: 10282), Prob: 0.0001
+Token: ' stopping' (ID: 22535), Prob: 0.0001
+Token: ' influencing' (ID: 65600), Prob: 0.0001
+Token: ' making' (ID: 3259), Prob: 0.0001
+Token: ' related' (ID: 5435), Prob: 0.0001
+Token: ' forcing' (ID: 24913), Prob: 0.0001
+Token: ' guiding' (ID: 50246), Prob: 0.0000
+Token: ' prohibiting' (ID: 78366), Prob: 0.0000
+Token: ' causing' (ID: 14381), Prob: 0.0000
+Token: ' restricting' (ID: 64851), Prob: 0.0000
+Token: ' maybe' (ID: 7196), Prob: 0.0000
+Token: ' favor' (ID: 4694), Prob: 0.0000
+Token: ' deciding' (ID: 29130), Prob: 0.0000
+Token: ' forb' (ID: 54744), Prob: 0.0000
+Token: ' rather' (ID: 4751), Prob: 0.0000
+Token: ' changing' (ID: 10018), Prob: 0.0000
+Token: ' disrupting' (ID: 86743), Prob: 0.0000
+Token: ' since' (ID: 2474), Prob: 0.0000
+Token: ' needing' (ID: 32821), Prob: 0.0000
+Token: ' trying' (ID: 4460), Prob: 0.0000
+Token: ' instead' (ID: 4518), Prob: 0.0000
+Token: ' leading' (ID: 6388), Prob: 0.0000
+Token: ' concerning' (ID: 18310), Prob: 0.0000
+Token: ' conflicting' (ID: 51033), Prob: 0.0000
+Token: ' impacting' (ID: 72955), Prob: 0.0000
+Token: ' honoring' (ID: 77925), Prob: 0.0000
+Token: ' suppressing' (ID: 97695), Prob: 0.0000
+Token: ' towards' (ID: 6974), Prob: 0.0000
+Token: ' overshadow' (ID: 84205), Prob: 0.0000
 Token: ' still' (ID: 2058), Prob: 0.0000
-Token: ' includes' (ID: 5646), Prob: 0.0000
-Token: ' würde' (ID: 58881), Prob: 0.0000
-Token: ' takes' (ID: 4990), Prob: 0.0000
-Token: ' matches' (ID: 9071), Prob: 0.0000
-Token: ' contains' (ID: 5610), Prob: 0.0000
-Token: ' contrad' (ID: 22296), Prob: 0.0000
-Token: ' within' (ID: 2878), Prob: 0.0000
-Token: ' based' (ID: 3118), Prob: 0.0000
-Token: ' cannot' (ID: 4157), Prob: 0.0000
-Token: 'Would' (ID: 27989), Prob: 0.0000
-Token: ' corresponds' (ID: 33210), Prob: 0.0000
-Token: ' math' (ID: 6888), Prob: 0.0000
-Token: ' modifies' (ID: 82949), Prob: 0.0000
-Token: ' says' (ID: 2727), Prob: 0.0000
-Token: ' sounds' (ID: 10362), Prob: 0.0000
-Token: ' though' (ID: 3498), Prob: 0.0000
-Token: ' reads' (ID: 15804), Prob: 0.0000
-Token: ' needs' (ID: 3880), Prob: 0.0000
-Token: ' refers' (ID: 19257), Prob: 0.0000
-Token: ' relates' (ID: 35616), Prob: 0.0000
-Token: ' becomes' (ID: 9044), Prob: 0.0000
+Token: ' avoiding' (ID: 30426), Prob: 0.0000
+Token: ' discour' (ID: 33193), Prob: 0.0000
+Token: ' limiting' (ID: 32894), Prob: 0.0000
+Token: ' say' (ID: 1977), Prob: 0.0000
+Token: ' wanting' (ID: 19211), Prob: 0.0000
+Token: ' elders' (ID: 60676), Prob: 0.0000
+Token: ' allowing' (ID: 10693), Prob: 0.0000
+Token: ' opposing' (ID: 30222), Prob: 0.0000
+Token: ' thinking' (ID: 7274), Prob: 0.0000
+Token: ' believing' (ID: 33990), Prob: 0.0000
+Token: ' despite' (ID: 8818), Prob: 0.0000
+Token: ' preserving' (ID: 46895), Prob: 0.0000
+Token: ' requiring' (ID: 22703), Prob: 0.0000
+Token: ' hind' (ID: 47319), Prob: 0.0000
+Token: ' due' (ID: 4152), Prob: 0.0000
+Token: ' away' (ID: 3123), Prob: 0.0000
+Token: ' losing' (ID: 13188), Prob: 0.0000
 
 == Ranked Concepts (Clusters) ==
-Rank 1 | Centroid: ' Would' | Score: 1.0000
-  Tokens: [' would', ' Would', 'would', ' würde', 'Would']
-Rank 2 | Centroid: ' make' | Score: 0.0011
-  Tokens: [' makes', ' made', ' making', ' make']
-Rank 3 | Centroid: ' may' | Score: 0.0000
-  Tokens: [' could', ' might', ' must', ' may', ' cannot']
-Rank 4 | Centroid: ' seems' | Score: 0.0000
-  Tokens: [' seems']
-Rank 5 | Centroid: ' also' | Score: 0.0000
-  Tokens: [' also', ' still']
-Rank 6 | Centroid: ' takes' | Score: 0.0000
-  Tokens: [' assumes', ' takes', ' becomes']
-Rank 7 | Centroid: ' logically' | Score: 0.0000
-  Tokens: [' logically', ' technically']
-Rank 8 | Centroid: ' refers' | Score: 0.0000
-  Tokens: [' includes', ' contains', ' corresponds', ' modifies', ' refers', ' relates']
-Rank 9 | Centroid: ' works' | Score: 0.0000
-  Tokens: [' works', ' sounds']
-Rank 10 | Centroid: ' says' | Score: 0.0000
-  Tokens: [' shows', ' says', ' reads']
-Rank 11 | Centroid: ' ends' | Score: 0.0000
-  Tokens: [' ends', ' needs']
-Rank 12 | Centroid: ' within' | Score: 0.0000
-  Tokens: [' within', ' based']
-Rank 13 | Centroid: ' matches' | Score: 0.0000
-  Tokens: [' matches']
-Rank 14 | Centroid: ' contrad' | Score: 0.0000
-  Tokens: [' contrad']
-Rank 15 | Centroid: ' math' | Score: 0.0000
-  Tokens: [' math']
-Rank 16 | Centroid: ' though' | Score: 0.0000
-  Tokens: [' though']
+Rank 1 | Centroid: ' rather' | Score: 0.0050
+  Tokens: [' versus', ' rather', ' instead']
+Rank 2 | Centroid: ' regarding' | Score: 0.0013
+  Tokens: [' regarding', ' related', ' concerning']
+Rank 3 | Centroid: ' affecting' | Score: 0.0009
+  Tokens: [' affecting', ' influencing', ' disrupting', ' impacting']
+Rank 4 | Centroid: ' preventing' | Score: 0.0008
+  Tokens: [' preventing', ' protecting', ' suppressing', ' avoiding']
+Rank 5 | Centroid: ' around' | Score: 0.0006
+  Tokens: [' around', ' surrounding', ' towards', ' away']
+Rank 6 | Centroid: ' blocking' | Score: 0.0003
+  Tokens: [' blocking', ' stopping']
+Rank 7 | Centroid: ' preserving' | Score: 0.0003
+  Tokens: [' respecting', ' keeping', ' honoring', ' preserving']
+Rank 8 | Centroid: ' saying' | Score: 0.0002
+  Tokens: [' saying', ' maybe', ' say', ' thinking']
+Rank 9 | Centroid: ' restricting' | Score: 0.0001
+  Tokens: [' prohibiting', ' restricting', ' limiting']
+Rank 10 | Centroid: ' forcing' | Score: 0.0001
+  Tokens: [' forcing', ' causing']
+Rank 11 | Centroid: ' conflicting' | Score: 0.0001
+  Tokens: [' conflicting', ' overshadow', ' elders', ' opposing', ' hind']
+Rank 12 | Centroid: ' making' | Score: 0.0001
+  Tokens: [' making', ' allowing']
+Rank 13 | Centroid: ' guiding' | Score: 0.0001
+  Tokens: [' guiding', ' leading']
+Rank 14 | Centroid: ' despite' | Score: 0.0001
+  Tokens: [' since', ' still', ' despite', ' due']
+Rank 15 | Centroid: ' forb' | Score: 0.0000
+  Tokens: [' forb', ' discour']
+Rank 16 | Centroid: ' wanting' | Score: 0.0000
+  Tokens: [' trying', ' wanting', ' believing']
+Rank 17 | Centroid: ' changing' | Score: 0.0000
+  Tokens: [' changing', ' losing']
+Rank 18 | Centroid: ' needing' | Score: 0.0000
+  Tokens: [' needing', ' requiring']
+Rank 19 | Centroid: ' deciding' | Score: 0.0000
+  Tokens: [' deciding']
+Rank 20 | Centroid: ' favor' | Score: 0.0000
+  Tokens: [' favor']
 
 **Chosen Concept:** Rank 1

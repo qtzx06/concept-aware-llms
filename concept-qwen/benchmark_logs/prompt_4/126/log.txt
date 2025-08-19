@@ -1,73 +1,67 @@
 --- Step 126 Log ---
 
 == Filtered Candidates ==
-Token: ' message' (ID: 1943), Prob: 0.9961
-Token: ' prompt' (ID: 9934), Prob: 0.0012
-Token: '.message' (ID: 6698), Prob: 0.0003
-Token: ' messages' (ID: 6605), Prob: 0.0003
-Token: ' Message' (ID: 4856), Prob: 0.0001
-Token: ' question' (ID: 3405), Prob: 0.0001
-Token: '(message' (ID: 7333), Prob: 0.0001
-Token: 'message' (ID: 1994), Prob: 0.0001
-Token: '	message' (ID: 24753), Prob: 0.0000
-Token: ' mes' (ID: 10846), Prob: 0.0000
-Token: ' statement' (ID: 5114), Prob: 0.0000
-Token: ':message' (ID: 91473), Prob: 0.0000
-Token: '$message' (ID: 42821), Prob: 0.0000
-Token: ',message' (ID: 72783), Prob: 0.0000
-Token: '-message' (ID: 29332), Prob: 0.0000
-Token: 'Message' (ID: 2052), Prob: 0.0000
-Token: '=message' (ID: 87129), Prob: 0.0000
-Token: ' theme' (ID: 6912), Prob: 0.0000
-Token: '_message' (ID: 6462), Prob: 0.0000
-Token: ' motif' (ID: 59512), Prob: 0.0000
-Token: ' answer' (ID: 4226), Prob: 0.0000
-Token: ' information' (ID: 1995), Prob: 0.0000
-Token: ' phrase' (ID: 17133), Prob: 0.0000
-Token: ' messaging' (ID: 29522), Prob: 0.0000
-Token: ' MESSAGE' (ID: 40758), Prob: 0.0000
-Token: '/message' (ID: 50624), Prob: 0.0000
-Token: ' user' (ID: 1196), Prob: 0.0000
-Token: ' response' (ID: 2033), Prob: 0.0000
-Token: '.Message' (ID: 8472), Prob: 0.0000
-Token: ' position' (ID: 2309), Prob: 0.0000
-Token: ' month' (ID: 2254), Prob: 0.0000
-Token: ' point' (ID: 1459), Prob: 0.0000
-Token: ' lesson' (ID: 17755), Prob: 0.0000
-Token: ' mate' (ID: 29176), Prob: 0.0000
-Token: '<message' (ID: 83747), Prob: 0.0000
-Token: ' moment' (ID: 4445), Prob: 0.0000
-Token: ' maximum' (ID: 7192), Prob: 0.0000
-Token: ' mess' (ID: 9435), Prob: 0.0000
-Token: ' wording' (ID: 60227), Prob: 0.0000
-Token: ' date' (ID: 2400), Prob: 0.0000
+Token: ' together' (ID: 3786), Prob: 0.0000
+Token: ' everything' (ID: 4297), Prob: 0.0000
+Token: ' something' (ID: 2494), Prob: 0.0000
+Token: ' things' (ID: 2513), Prob: 0.0000
+Token: ' words' (ID: 4244), Prob: 0.0000
+Token: ' ideas' (ID: 6708), Prob: 0.0000
+Token: '-it' (ID: 37511), Prob: 0.0000
+Token: 'gether' (ID: 3439), Prob: 0.0000
+Token: ' pieces' (ID: 9666), Prob: 0.0000
+Token: '_it' (ID: 14631), Prob: 0.0000
+Token: 'ting' (ID: 1280), Prob: 0.0000
+Token: 'ter' (ID: 465), Prob: 0.0000
+Token: ' everyone' (ID: 5019), Prob: 0.0000
+Token: ' altogether' (ID: 30055), Prob: 0.0000
+Token: ' like' (ID: 1075), Prob: 0.0000
+Token: '(this' (ID: 1394), Prob: 0.0000
+Token: '_that' (ID: 70197), Prob: 0.0000
+Token: 'ters' (ID: 5045), Prob: 0.0000
+Token: ' thoughts' (ID: 11303), Prob: 0.0000
+Token: ' flesh' (ID: 24955), Prob: 0.0000
+Token: ' rằng' (ID: 128640), Prob: 0.0000
+Token: 'itin' (ID: 84886), Prob: 0.0000
+Token: ' itu' (ID: 35691), Prob: 0.0000
+Token: ' away' (ID: 3123), Prob: 0.0000
+Token: ' stuff' (ID: 6259), Prob: 0.0000
+Token: ' sentences' (ID: 22870), Prob: 0.0000
+Token: ' two' (ID: 1378), Prob: 0.0000
+Token: ' one' (ID: 825), Prob: 0.0000
+Token: ' around' (ID: 2163), Prob: 0.0000
+Token: ' piece' (ID: 6573), Prob: 0.0000
+Token: ' four' (ID: 3040), Prob: 0.0000
+Token: ' another' (ID: 2441), Prob: 0.0000
+Token: 'itions' (ID: 5930), Prob: 0.0000
+Token: ' somewhere' (ID: 14696), Prob: 0.0000
 
 == Ranked Concepts (Clusters) ==
-Rank 1 | Centroid: '_message' | Score: 0.9961
-  Tokens: [' message', '.message', ' messages', ' Message', 'message', '-message', 'Message', '_message', ' messaging', ' MESSAGE', '.Message']
-Rank 2 | Centroid: ' prompt' | Score: 0.0012
-  Tokens: [' prompt', ' question']
-Rank 3 | Centroid: '	message' | Score: 0.0001
-  Tokens: ['(message', '\tmessage', ':message', '$message', ',message', '=message', '/message', '<message']
-Rank 4 | Centroid: ' mes' | Score: 0.0000
-  Tokens: [' mes', ' mess']
-Rank 5 | Centroid: ' phrase' | Score: 0.0000
-  Tokens: [' statement', ' phrase', ' wording']
-Rank 6 | Centroid: ' theme' | Score: 0.0000
-  Tokens: [' theme', ' motif', ' lesson']
-Rank 7 | Centroid: ' information' | Score: 0.0000
-  Tokens: [' information', ' user']
-Rank 8 | Centroid: ' answer' | Score: 0.0000
-  Tokens: [' answer', ' response']
-Rank 9 | Centroid: ' position' | Score: 0.0000
-  Tokens: [' position', ' point']
-Rank 10 | Centroid: ' month' | Score: 0.0000
-  Tokens: [' month', ' date']
-Rank 11 | Centroid: ' mate' | Score: 0.0000
-  Tokens: [' mate']
-Rank 12 | Centroid: ' moment' | Score: 0.0000
-  Tokens: [' moment']
-Rank 13 | Centroid: ' maximum' | Score: 0.0000
-  Tokens: [' maximum']
+Rank 1 | Centroid: ' together' | Score: 0.0000
+  Tokens: [' together', 'gether']
+Rank 2 | Centroid: ' things' | Score: 0.0000
+  Tokens: [' something', ' things', ' stuff']
+Rank 3 | Centroid: ' everything' | Score: 0.0000
+  Tokens: [' everything', ' everyone']
+Rank 4 | Centroid: ' thoughts' | Score: 0.0000
+  Tokens: [' words', ' ideas', ' thoughts', ' flesh', ' sentences']
+Rank 5 | Centroid: '-it' | Score: 0.0000
+  Tokens: ['-it', '_it', 'itin']
+Rank 6 | Centroid: 'ter' | Score: 0.0000
+  Tokens: ['ting', 'ter', 'ters']
+Rank 7 | Centroid: ' pieces' | Score: 0.0000
+  Tokens: [' pieces', ' piece']
+Rank 8 | Centroid: '_that' | Score: 0.0000
+  Tokens: ['(this', '_that', ' rằng', ' itu']
+Rank 9 | Centroid: ' altogether' | Score: 0.0000
+  Tokens: [' altogether']
+Rank 10 | Centroid: ' like' | Score: 0.0000
+  Tokens: [' like']
+Rank 11 | Centroid: ' two' | Score: 0.0000
+  Tokens: [' two', ' one', ' four', ' another']
+Rank 12 | Centroid: ' around' | Score: 0.0000
+  Tokens: [' away', ' around', ' somewhere']
+Rank 13 | Centroid: 'itions' | Score: 0.0000
+  Tokens: ['itions']
 
 **Chosen Concept:** Rank 1

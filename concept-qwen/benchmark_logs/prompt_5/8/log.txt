@@ -1,54 +1,155 @@
 --- Step 8 Log ---
 
 == Filtered Candidates ==
-Token: ' according' (ID: 4092), Prob: 0.0140
-Token: ' given' (ID: 2661), Prob: 0.0109
-Token: ' based' (ID: 3118), Prob: 0.0096
-Token: ' logically' (ID: 73045), Prob: 0.0052
-Token: ' within' (ID: 2878), Prob: 0.0020
-Token: ' using' (ID: 1667), Prob: 0.0008
-Token: ' considering' (ID: 12831), Prob: 0.0008
-Token: ' today' (ID: 3351), Prob: 0.0005
-Token: ' gramm' (ID: 68125), Prob: 0.0005
-Token: ' regarding' (ID: 8826), Prob: 0.0005
-Token: ' without' (ID: 2041), Prob: 0.0004
-Token: ' either' (ID: 2987), Prob: 0.0004
-Token: ' emotionally' (ID: 37583), Prob: 0.0002
-Token: ' depending' (ID: 11649), Prob: 0.0002
-Token: ' whether' (ID: 3425), Prob: 0.0001
-Token: ' following' (ID: 2701), Prob: 0.0001
-Token: ' assuming' (ID: 25538), Prob: 0.0001
-Token: ' understand' (ID: 3535), Prob: 0.0001
-Token: ' logical' (ID: 19819), Prob: 0.0001
-Token: ' aloud' (ID: 70411), Prob: 0.0001
-Token: ' intuit' (ID: 96201), Prob: 0.0001
+Token: ' short' (ID: 2805), Prob: 0.4180
+Token: ' story' (ID: 3364), Prob: 0.3262
+Token: ' brief' (ID: 9814), Prob: 0.1973
+Token: ' tale' (ID: 23281), Prob: 0.0388
+Token: ' narrative' (ID: 19221), Prob: 0.0046
+Token: ' simple' (ID: 4285), Prob: 0.0036
+Token: ' little' (ID: 2632), Prob: 0.0019
+Token: ' small' (ID: 2613), Prob: 0.0012
+Token: ' concise' (ID: 63594), Prob: 0.0010
+Token: ' fairy' (ID: 44486), Prob: 0.0005
+Token: ' Tale' (ID: 54348), Prob: 0.0004
+Token: ' gentle' (ID: 21700), Prob: 0.0003
+Token: ' vivid' (ID: 42020), Prob: 0.0003
+Token: ' summary' (ID: 12126), Prob: 0.0002
+Token: ' shorter' (ID: 23327), Prob: 0.0002
+Token: ' magical' (ID: 23702), Prob: 0.0002
+Token: ' bedtime' (ID: 88507), Prob: 0.0002
+Token: ' fictional' (ID: 43582), Prob: 0.0002
+Token: ' beautiful' (ID: 6233), Prob: 0.0001
+Token: ' basic' (ID: 6770), Prob: 0.0001
+Token: ' compelling' (ID: 28622), Prob: 0.0001
+Token: ' mini' (ID: 13420), Prob: 0.0001
+Token: ' fantasy' (ID: 18378), Prob: 0.0001
+Token: ' good' (ID: 1661), Prob: 0.0001
+Token: ' fun' (ID: 2464), Prob: 0.0001
+Token: ' touching' (ID: 30587), Prob: 0.0001
+Token: ' passage' (ID: 21085), Prob: 0.0001
+Token: ' bit' (ID: 2699), Prob: 0.0001
+Token: ' heartfelt' (ID: 83111), Prob: 0.0001
+Token: ' nice' (ID: 6419), Prob: 0.0001
+Token: ' bre' (ID: 5282), Prob: 0.0001
+Token: ' whims' (ID: 69105), Prob: 0.0001
+Token: ' believable' (ID: 91395), Prob: 0.0001
+Token: ' meaningful' (ID: 22414), Prob: 0.0001
+Token: ' captivating' (ID: 85182), Prob: 0.0001
+Token: ' engaging' (ID: 22570), Prob: 0.0000
+Token: ' personal' (ID: 4345), Prob: 0.0000
+Token: ' detailed' (ID: 11682), Prob: 0.0000
+Token: ' suitable' (ID: 14452), Prob: 0.0000
+Token: ' minimal' (ID: 17377), Prob: 0.0000
+Token: ' storytelling' (ID: 47829), Prob: 0.0000
+Token: ' coherent' (ID: 55787), Prob: 0.0000
+Token: ' quick' (ID: 3974), Prob: 0.0000
+Token: ' love' (ID: 2948), Prob: 0.0000
+Token: ' delightful' (ID: 49089), Prob: 0.0000
+Token: ' character' (ID: 3668), Prob: 0.0000
+Token: ' piece' (ID: 6573), Prob: 0.0000
+Token: ' friendly' (ID: 11657), Prob: 0.0000
+Token: ' new' (ID: 501), Prob: 0.0000
+Token: ' tell' (ID: 3291), Prob: 0.0000
+Token: ' tiny' (ID: 13673), Prob: 0.0000
+Token: ' cohesive' (ID: 86416), Prob: 0.0000
+Token: ' light' (ID: 3100), Prob: 0.0000
+Token: ' pleasant' (ID: 23795), Prob: 0.0000
+Token: ' wonderful' (ID: 11117), Prob: 0.0000
+Token: ' journey' (ID: 11618), Prob: 0.0000
+Token: ' child' (ID: 1682), Prob: 0.0000
+Token: ' prompt' (ID: 9934), Prob: 0.0000
+Token: ' young' (ID: 3908), Prob: 0.0000
+Token: ' based' (ID: 3118), Prob: 0.0000
+Token: ' plot' (ID: 7089), Prob: 0.0000
+Token: ' rel' (ID: 1351), Prob: 0.0000
+Token: ' cool' (ID: 7010), Prob: 0.0000
+Token: ' moral' (ID: 15659), Prob: 0.0000
+Token: ' modest' (ID: 26848), Prob: 0.0000
+Token: ' yarn' (ID: 38247), Prob: 0.0000
+Token: ' scene' (ID: 6109), Prob: 0.0000
+Token: ' thank' (ID: 9702), Prob: 0.0000
+Token: ' telling' (ID: 11629), Prob: 0.0000
+Token: ' thought' (ID: 3381), Prob: 0.0000
+Token: ' cozy' (ID: 42435), Prob: 0.0000
+Token: ' thoughtful' (ID: 42666), Prob: 0.0000
+Token: ' real' (ID: 1931), Prob: 0.0000
+Token: ' version' (ID: 2319), Prob: 0.0000
+Token: ' dream' (ID: 7904), Prob: 0.0000
+Token: ' shortest' (ID: 39143), Prob: 0.0000
+Token: ' storyt' (ID: 40006), Prob: 0.0000
+Token: ' catchy' (ID: 85505), Prob: 0.0000
+Token: ' rich' (ID: 9080), Prob: 0.0000
+Token: ' Short' (ID: 10698), Prob: 0.0000
+Token: ' realistic' (ID: 25489), Prob: 0.0000
+Token: ' brave' (ID: 33200), Prob: 0.0000
+Token: ' charming' (ID: 34409), Prob: 0.0000
+Token: ' response' (ID: 2033), Prob: 0.0000
+Token: ' bold' (ID: 13939), Prob: 0.0000
+Token: ' clever' (ID: 27699), Prob: 0.0000
+Token: ' plausible' (ID: 49334), Prob: 0.0000
+Token: ' descriptive' (ID: 52844), Prob: 0.0000
+Token: ' word' (ID: 3409), Prob: 0.0000
+Token: ' night' (ID: 3729), Prob: 0.0000
+Token: ' sample' (ID: 6077), Prob: 0.0000
+Token: ' theme' (ID: 6912), Prob: 0.0000
+Token: ' minor' (ID: 8922), Prob: 0.0000
+Token: ' smooth' (ID: 10876), Prob: 0.0000
 
 == Ranked Concepts (Clusters) ==
-Rank 1 | Centroid: ' based' | Score: 0.0238
-  Tokens: [' according', ' based', ' depending']
-Rank 2 | Centroid: ' given' | Score: 0.0109
-  Tokens: [' given']
-Rank 3 | Centroid: ' logically' | Score: 0.0052
-  Tokens: [' logically', ' logical']
-Rank 4 | Centroid: ' within' | Score: 0.0024
-  Tokens: [' within', ' without']
-Rank 5 | Centroid: ' considering' | Score: 0.0017
-  Tokens: [' using', ' considering', ' assuming']
-Rank 6 | Centroid: ' today' | Score: 0.0005
-  Tokens: [' today']
-Rank 7 | Centroid: ' gramm' | Score: 0.0005
-  Tokens: [' gramm']
-Rank 8 | Centroid: ' either' | Score: 0.0005
-  Tokens: [' either', ' whether']
-Rank 9 | Centroid: ' regarding' | Score: 0.0005
-  Tokens: [' regarding']
-Rank 10 | Centroid: ' emotionally' | Score: 0.0002
-  Tokens: [' emotionally', ' intuit']
-Rank 11 | Centroid: ' following' | Score: 0.0001
-  Tokens: [' following']
-Rank 12 | Centroid: ' understand' | Score: 0.0001
-  Tokens: [' understand']
-Rank 13 | Centroid: ' aloud' | Score: 0.0001
-  Tokens: [' aloud']
+Rank 1 | Centroid: ' Short' | Score: 0.4180
+  Tokens: [' short', ' shorter', ' shortest', ' Short']
+Rank 2 | Centroid: ' story' | Score: 0.3711
+  Tokens: [' story', ' tale', ' narrative', ' Tale', ' storytelling', ' tell', ' telling', ' storyt']
+Rank 3 | Centroid: ' brief' | Score: 0.1982
+  Tokens: [' brief', ' concise', ' quick']
+Rank 4 | Centroid: ' simple' | Score: 0.0038
+  Tokens: [' simple', ' basic']
+Rank 5 | Centroid: ' tiny' | Score: 0.0033
+  Tokens: [' little', ' small', ' mini', ' minimal', ' tiny', ' modest', ' minor']
+Rank 6 | Centroid: ' fantasy' | Score: 0.0010
+  Tokens: [' fairy', ' magical', ' fictional', ' fantasy', ' dream']
+Rank 7 | Centroid: ' delightful' | Score: 0.0003
+  Tokens: [' beautiful', ' heartfelt', ' delightful', ' pleasant', ' wonderful', ' cozy', ' catchy', ' charming']
+Rank 8 | Centroid: ' vivid' | Score: 0.0003
+  Tokens: [' vivid', ' detailed']
+Rank 9 | Centroid: ' captivating' | Score: 0.0003
+  Tokens: [' compelling', ' touching', ' captivating', ' engaging']
+Rank 10 | Centroid: ' gentle' | Score: 0.0003
+  Tokens: [' gentle', ' brave']
+Rank 11 | Centroid: ' bedtime' | Score: 0.0003
+  Tokens: [' bedtime', ' whims']
+Rank 12 | Centroid: ' bold' | Score: 0.0003
+  Tokens: [' summary', ' prompt', ' bold']
+Rank 13 | Centroid: ' plausible' | Score: 0.0002
+  Tokens: [' believable', ' meaningful', ' suitable', ' coherent', ' cohesive', ' realistic', ' plausible', ' descriptive']
+Rank 14 | Centroid: ' nice' | Score: 0.0002
+  Tokens: [' good', ' nice', ' friendly', ' cool', ' clever', ' smooth']
+Rank 15 | Centroid: ' bit' | Score: 0.0002
+  Tokens: [' bit', ' character', ' piece', ' word', ' sample']
+Rank 16 | Centroid: ' passage' | Score: 0.0002
+  Tokens: [' passage', ' bre']
+Rank 17 | Centroid: ' fun' | Score: 0.0001
+  Tokens: [' fun']
+Rank 18 | Centroid: ' real' | Score: 0.0001
+  Tokens: [' personal', ' rel', ' real']
+Rank 19 | Centroid: ' love' | Score: 0.0001
+  Tokens: [' love', ' child', ' night']
+Rank 20 | Centroid: ' based' | Score: 0.0001
+  Tokens: [' light', ' based', ' version']
+Rank 21 | Centroid: ' new' | Score: 0.0000
+  Tokens: [' new', ' young']
+Rank 22 | Centroid: ' moral' | Score: 0.0000
+  Tokens: [' moral', ' yarn', ' theme']
+Rank 23 | Centroid: ' journey' | Score: 0.0000
+  Tokens: [' journey', ' plot']
+Rank 24 | Centroid: ' thank' | Score: 0.0000
+  Tokens: [' thank', ' thought']
+Rank 25 | Centroid: ' scene' | Score: 0.0000
+  Tokens: [' scene', ' response']
+Rank 26 | Centroid: ' thoughtful' | Score: 0.0000
+  Tokens: [' thoughtful']
+Rank 27 | Centroid: ' rich' | Score: 0.0000
+  Tokens: [' rich']
 
 **Chosen Concept:** Rank 1

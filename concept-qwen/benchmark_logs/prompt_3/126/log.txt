@@ -1,0 +1,111 @@
+--- Step 126 Log ---
+
+== Filtered Candidates ==
+Token: 'ting' (ID: 1280), Prob: 0.0000
+Token: ' original' (ID: 4024), Prob: 0.0000
+Token: '_me' (ID: 16612), Prob: 0.0000
+Token: '-me' (ID: 33973), Prob: 0.0000
+Token: ' time' (ID: 882), Prob: 0.0000
+Token: ' think' (ID: 1744), Prob: 0.0000
+Token: ' choose' (ID: 5157), Prob: 0.0000
+Token: ' body' (ID: 2487), Prob: 0.0000
+Token: ' imagine' (ID: 12793), Prob: 0.0000
+Token: ' focus' (ID: 5244), Prob: 0.0000
+Token: ' measure' (ID: 6629), Prob: 0.0000
+Token: ' say' (ID: 1977), Prob: 0.0000
+Token: ' user' (ID: 1196), Prob: 0.0000
+Token: ' thinking' (ID: 7274), Prob: 0.0000
+Token: ' aim' (ID: 9213), Prob: 0.0000
+Token: ' random' (ID: 4194), Prob: 0.0000
+Token: ' image' (ID: 2168), Prob: 0.0000
+Token: ' choosing' (ID: 18774), Prob: 0.0000
+Token: ' one' (ID: 825), Prob: 0.0000
+Token: ' try' (ID: 1430), Prob: 0.0000
+Token: 'ong' (ID: 644), Prob: 0.0000
+Token: ' pick' (ID: 3735), Prob: 0.0000
+Token: ' natural' (ID: 5810), Prob: 0.0000
+Token: ' brainstorm' (ID: 86781), Prob: 0.0000
+Token: ' strategy' (ID: 8282), Prob: 0.0000
+Token: ' reflection' (ID: 21844), Prob: 0.0000
+Token: ' look' (ID: 1401), Prob: 0.0000
+Token: ' arch' (ID: 5325), Prob: 0.0000
+Token: ' minimal' (ID: 17377), Prob: 0.0000
+Token: ' low' (ID: 3347), Prob: 0.0000
+Token: ' attempt' (ID: 4774), Prob: 0.0000
+Token: ' average' (ID: 5461), Prob: 0.0000
+Token: ' someone' (ID: 4325), Prob: 0.0000
+Token: ' idea' (ID: 4522), Prob: 0.0000
+Token: ' psych' (ID: 8671), Prob: 0.0000
+Token: ' street' (ID: 8592), Prob: 0.0000
+Token: ' point' (ID: 1459), Prob: 0.0000
+Token: ' reflecting' (ID: 41752), Prob: 0.0000
+Token: 'mek' (ID: 73753), Prob: 0.0000
+Token: ' rec' (ID: 1395), Prob: 0.0000
+Token: ' brain' (ID: 8109), Prob: 0.0000
+Token: ' objective' (ID: 16538), Prob: 0.0000
+Token: ' suppose' (ID: 22477), Prob: 0.0000
+Token: ' ret' (ID: 2112), Prob: 0.0000
+Token: ' mental' (ID: 10502), Prob: 0.0000
+Token: ' unique' (ID: 4911), Prob: 0.0000
+Token: ' existing' (ID: 6350), Prob: 0.0000
+Token: ' pron' (ID: 18613), Prob: 0.0000
+Token: 'apos' (ID: 30415), Prob: 0.0000
+Token: ' high' (ID: 1550), Prob: 0.0000
+Token: ' real' (ID: 1931), Prob: 0.0000
+Token: ' map' (ID: 2415), Prob: 0.0000
+Token: ' parents' (ID: 6562), Prob: 0.0000
+Token: '.createObject' (ID: 81041), Prob: 0.0000
+Token: ' start' (ID: 1191), Prob: 0.0000
+Token: ' two' (ID: 1378), Prob: 0.0000
+Token: ' initial' (ID: 2856), Prob: 0.0000
+Token: '.me' (ID: 17326), Prob: 0.0000
+Token: 'tempt' (ID: 4213), Prob: 0.0000
+Token: ' sym' (ID: 7886), Prob: 0.0000
+Token: ' turning' (ID: 13054), Prob: 0.0000
+Token: ' neuro' (ID: 17773), Prob: 0.0000
+Token: 'worth' (ID: 19501), Prob: 0.0000
+Token: ' symmetry' (ID: 45120), Prob: 0.0000
+
+== Ranked Concepts (Clusters) ==
+Rank 1 | Centroid: '-me' | Score: 0.0000
+  Tokens: ['_me', '-me', ' measure', 'mek', '.me']
+Rank 2 | Centroid: ' original' | Score: 0.0000
+  Tokens: [' original', ' random', ' natural', ' minimal', ' average', ' unique', ' existing', ' real', ' initial']
+Rank 3 | Centroid: 'ting' | Score: 0.0000
+  Tokens: ['ting', 'tempt']
+Rank 4 | Centroid: ' high' | Score: 0.0000
+  Tokens: [' time', ' user', ' one', ' low', ' high', ' two']
+Rank 5 | Centroid: ' thinking' | Score: 0.0000
+  Tokens: [' think', ' thinking', ' brainstorm', ' idea']
+Rank 6 | Centroid: ' choose' | Score: 0.0000
+  Tokens: [' choose', ' choosing', ' pick']
+Rank 7 | Centroid: ' suppose' | Score: 0.0000
+  Tokens: [' imagine', ' say', ' someone', ' suppose']
+Rank 8 | Centroid: ' aim' | Score: 0.0000
+  Tokens: [' focus', ' aim', ' strategy', ' objective']
+Rank 9 | Centroid: ' street' | Score: 0.0000
+  Tokens: [' body', ' arch', ' street']
+Rank 10 | Centroid: ' try' | Score: 0.0000
+  Tokens: [' try', ' look', ' attempt', ' start']
+Rank 11 | Centroid: ' neuro' | Score: 0.0000
+  Tokens: [' psych', ' brain', ' mental', ' pron', ' neuro']
+Rank 12 | Centroid: ' image' | Score: 0.0000
+  Tokens: [' image', ' point']
+Rank 13 | Centroid: ' rec' | Score: 0.0000
+  Tokens: ['ong', ' rec', ' ret']
+Rank 14 | Centroid: ' reflection' | Score: 0.0000
+  Tokens: [' reflection', ' reflecting']
+Rank 15 | Centroid: ' parents' | Score: 0.0000
+  Tokens: [' parents', ' turning']
+Rank 16 | Centroid: ' sym' | Score: 0.0000
+  Tokens: [' sym', ' symmetry']
+Rank 17 | Centroid: 'apos' | Score: 0.0000
+  Tokens: ['apos']
+Rank 18 | Centroid: ' map' | Score: 0.0000
+  Tokens: [' map']
+Rank 19 | Centroid: '.createObject' | Score: 0.0000
+  Tokens: ['.createObject']
+Rank 20 | Centroid: 'worth' | Score: 0.0000
+  Tokens: ['worth']
+
+**Chosen Concept:** Rank 1

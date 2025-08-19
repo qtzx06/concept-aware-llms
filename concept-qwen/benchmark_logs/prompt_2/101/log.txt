@@ -1,0 +1,62 @@
+--- Step 101 Log ---
+
+== Filtered Candidates ==
+Token: 'Okay' (ID: 32313), Prob: 0.0884
+Token: 'Alright' (ID: 71486), Prob: 0.0238
+Token: 'Wait' (ID: 14190), Prob: 0.0223
+Token: 'Hmm' (ID: 80022), Prob: 0.0077
+Token: 'Got' (ID: 32462), Prob: 0.0036
+Token: 'Answer' (ID: 16141), Prob: 0.0022
+Token: '"The' (ID: 10022), Prob: 0.0017
+Token: 'Response' (ID: 2582), Prob: 0.0013
+Token: 'Final' (ID: 19357), Prob: 0.0013
+Token: 'Example' (ID: 13314), Prob: 0.0009
+Token: 'Possible' (ID: 65222), Prob: 0.0009
+Token: 'Sample' (ID: 17571), Prob: 0.0007
+Token: 'Yes' (ID: 9454), Prob: 0.0006
+Token: 'Let' (ID: 10061), Prob: 0.0005
+Token: '"You' (ID: 21608), Prob: 0.0005
+Token: 'Thought' (ID: 84169), Prob: 0.0005
+Token: 'Another' (ID: 14037), Prob: 0.0005
+Token: 'Check' (ID: 3973), Prob: 0.0005
+Token: 'Responsive' (ID: 78795), Prob: 0.0005
+Token: 'Winner' (ID: 50955), Prob: 0.0004
+Token: 'Looking' (ID: 22464), Prob: 0.0004
+Token: 'Student' (ID: 14096), Prob: 0.0004
+Token: 'Deadline' (ID: 83593), Prob: 0.0004
+Token: 'Examples' (ID: 40381), Prob: 0.0003
+Token: 'responsive' (ID: 51297), Prob: 0.0003
+
+== Ranked Concepts (Clusters) ==
+Rank 1 | Centroid: 'Okay' | Score: 0.1123
+  Tokens: ['Okay', 'Alright']
+Rank 2 | Centroid: 'Wait' | Score: 0.0228
+  Tokens: ['Wait', 'Check']
+Rank 3 | Centroid: 'Hmm' | Score: 0.0114
+  Tokens: ['Hmm', 'Got']
+Rank 4 | Centroid: 'Answer' | Score: 0.0028
+  Tokens: ['Answer', 'Yes']
+Rank 5 | Centroid: '"The' | Score: 0.0023
+  Tokens: ['"The', '"You']
+Rank 6 | Centroid: 'Responsive' | Score: 0.0020
+  Tokens: ['Response', 'Responsive', 'responsive']
+Rank 7 | Centroid: 'Final' | Score: 0.0013
+  Tokens: ['Final']
+Rank 8 | Centroid: 'Example' | Score: 0.0012
+  Tokens: ['Example', 'Examples']
+Rank 9 | Centroid: 'Sample' | Score: 0.0010
+  Tokens: ['Sample', 'Student']
+Rank 10 | Centroid: 'Let' | Score: 0.0010
+  Tokens: ['Let', 'Another']
+Rank 11 | Centroid: 'Possible' | Score: 0.0009
+  Tokens: ['Possible']
+Rank 12 | Centroid: 'Thought' | Score: 0.0005
+  Tokens: ['Thought']
+Rank 13 | Centroid: 'Winner' | Score: 0.0004
+  Tokens: ['Winner']
+Rank 14 | Centroid: 'Looking' | Score: 0.0004
+  Tokens: ['Looking']
+Rank 15 | Centroid: 'Deadline' | Score: 0.0004
+  Tokens: ['Deadline']
+
+**Chosen Concept:** Rank 1

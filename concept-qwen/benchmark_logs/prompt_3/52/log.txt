@@ -1,0 +1,80 @@
+--- Step 52 Log ---
+
+== Filtered Candidates ==
+Token: ' three' (ID: 2326), Prob: 0.0000
+Token: ' two' (ID: 1378), Prob: 0.0000
+Token: ' emotions' (ID: 21261), Prob: 0.0000
+Token: ' events' (ID: 4357), Prob: 0.0000
+Token: ' people' (ID: 1251), Prob: 0.0000
+Token: ' characters' (ID: 5766), Prob: 0.0000
+Token: ' scenarios' (ID: 25283), Prob: 0.0000
+Token: ' possible' (ID: 3204), Prob: 0.0000
+Token: ' maybe' (ID: 7196), Prob: 0.0000
+Token: ' either' (ID: 2987), Prob: 0.0000
+Token: ' perhaps' (ID: 8365), Prob: 0.0000
+Token: ' situations' (ID: 14740), Prob: 0.0000
+Token: ' four' (ID: 3040), Prob: 0.0000
+Token: ' Alice' (ID: 29405), Prob: 0.0000
+Token: ' life' (ID: 2272), Prob: 0.0000
+Token: ' feelings' (ID: 15650), Prob: 0.0000
+Token: ' possibilities' (ID: 23607), Prob: 0.0000
+Token: ' moments' (ID: 13943), Prob: 0.0000
+Token: ' love' (ID: 2948), Prob: 0.0000
+Token: ' friends' (ID: 4780), Prob: 0.0000
+Token: ' senses' (ID: 37107), Prob: 0.0000
+Token: ' actions' (ID: 6168), Prob: 0.0000
+Token: ' human' (ID: 3738), Prob: 0.0000
+Token: ' others' (ID: 3800), Prob: 0.0000
+Token: ' Charles' (ID: 14927), Prob: 0.0000
+Token: ' humanity' (ID: 21941), Prob: 0.0000
+Token: ' Einstein' (ID: 54052), Prob: 0.0000
+Token: ' Harry' (ID: 13928), Prob: 0.0000
+Token: ' John' (ID: 3757), Prob: 0.0000
+Token: ' Bob' (ID: 14261), Prob: 0.0000
+Token: ' several' (ID: 3807), Prob: 0.0000
+Token: ' character' (ID: 3668), Prob: 0.0000
+Token: ' existing' (ID: 6350), Prob: 0.0000
+Token: ' Thomas' (ID: 11108), Prob: 0.0000
+Token: ' things' (ID: 2513), Prob: 0.0000
+Token: ' David' (ID: 6798), Prob: 0.0000
+Token: ' possibly' (ID: 10767), Prob: 0.0000
+Token: ' Peter' (ID: 11044), Prob: 0.0000
+Token: ' emotional' (ID: 14269), Prob: 0.0000
+Token: ' key' (ID: 1376), Prob: 0.0000
+Token: ' person' (ID: 1697), Prob: 0.0000
+Token: ' relationships' (ID: 11871), Prob: 0.0000
+Token: ' personalities' (ID: 43808), Prob: 0.0000
+
+== Ranked Concepts (Clusters) ==
+Rank 1 | Centroid: ' three' | Score: 0.0000
+  Tokens: [' three', ' two', ' four', ' several']
+Rank 2 | Centroid: ' emotions' | Score: 0.0000
+  Tokens: [' emotions', ' feelings', ' senses', ' emotional']
+Rank 3 | Centroid: ' situations' | Score: 0.0000
+  Tokens: [' events', ' scenarios', ' situations', ' actions']
+Rank 4 | Centroid: ' possibly' | Score: 0.0000
+  Tokens: [' possible', ' maybe', ' perhaps', ' possibilities', ' possibly']
+Rank 5 | Centroid: ' John' | Score: 0.0000
+  Tokens: [' Alice', ' Charles', ' Einstein', ' Harry', ' John', ' Bob', ' Thomas', ' David', ' Peter']
+Rank 6 | Centroid: ' people' | Score: 0.0000
+  Tokens: [' people', ' human', ' humanity', ' person']
+Rank 7 | Centroid: ' characters' | Score: 0.0000
+  Tokens: [' characters', ' character']
+Rank 8 | Centroid: ' life' | Score: 0.0000
+  Tokens: [' life', ' love']
+Rank 9 | Centroid: ' friends' | Score: 0.0000
+  Tokens: [' friends', ' others']
+Rank 10 | Centroid: ' either' | Score: 0.0000
+  Tokens: [' either']
+Rank 11 | Centroid: ' moments' | Score: 0.0000
+  Tokens: [' moments', ' relationships']
+Rank 12 | Centroid: ' existing' | Score: 0.0000
+  Tokens: [' existing']
+Rank 13 | Centroid: ' things' | Score: 0.0000
+  Tokens: [' things']
+Rank 14 | Centroid: ' key' | Score: 0.0000
+  Tokens: [' key']
+Rank 15 | Centroid: ' personalities' | Score: 0.0000
+  Tokens: [' personalities']
+
+**Chosen Concept:** Rank 1

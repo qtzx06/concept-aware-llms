@@ -1,77 +1,107 @@
 --- Step 62 Log ---
 
 == Filtered Candidates ==
-Token: ' points' (ID: 3501), Prob: 0.9727
-Token: ' could' (ID: 1410), Prob: 0.0009
-Token: ' Points' (ID: 20725), Prob: 0.0005
-Token: ' based' (ID: 3118), Prob: 0.0004
-Token: ' depends' (ID: 13798), Prob: 0.0002
-Token: ' point' (ID: 1459), Prob: 0.0002
-Token: ' may' (ID: 1231), Prob: 0.0001
-Token: ' options' (ID: 2606), Prob: 0.0001
-Token: ' whether' (ID: 3425), Prob: 0.0001
-Token: ' choices' (ID: 11454), Prob: 0.0001
-Token: ' might' (ID: 2578), Prob: 0.0000
-Token: ' would' (ID: 1035), Prob: 0.0000
-Token: ' yes' (ID: 9834), Prob: 0.0000
-Token: ' according' (ID: 4092), Prob: 0.0000
-Token: ' Point' (ID: 5126), Prob: 0.0000
-Token: ' seems' (ID: 4977), Prob: 0.0000
-Token: ' either' (ID: 2987), Prob: 0.0000
-Token: ' cannot' (ID: 4157), Prob: 0.0000
-Token: ' differs' (ID: 43542), Prob: 0.0000
-Token: ' possible' (ID: 3204), Prob: 0.0000
-Token: ' contains' (ID: 5610), Prob: 0.0000
-Token: ' varies' (ID: 34227), Prob: 0.0000
-Token: ' must' (ID: 1969), Prob: 0.0000
-Token: ' four' (ID: 3040), Prob: 0.0000
-Token: '_points' (ID: 12928), Prob: 0.0000
-Token: ' given' (ID: 2661), Prob: 0.0000
-Token: ' makes' (ID: 3643), Prob: 0.0000
-Token: ' since' (ID: 2474), Prob: 0.0000
-Token: 'Points' (ID: 11411), Prob: 0.0000
-Token: ' checks' (ID: 12341), Prob: 0.0000
-Token: '(points' (ID: 32450), Prob: 0.0000
-Token: 'points' (ID: 7706), Prob: 0.0000
-Token: ' puntos' (ID: 60889), Prob: 0.0000
-Token: ' cells' (ID: 7761), Prob: 0.0000
-Token: ' please' (ID: 4486), Prob: 0.0000
-Token: ' questions' (ID: 4755), Prob: 0.0000
-Token: ' sentences' (ID: 22870), Prob: 0.0000
-Token: ' key' (ID: 1376), Prob: 0.0000
-Token: ' correct' (ID: 4396), Prob: 0.0000
-Token: ' refers' (ID: 19257), Prob: 0.0000
-Token: ' needs' (ID: 3880), Prob: 0.0000
-Token: ' probably' (ID: 4658), Prob: 0.0000
-Token: ' Yes' (ID: 7414), Prob: 0.0000
-Token: ' ends' (ID: 10335), Prob: 0.0000
-Token: ' possibly' (ID: 10767), Prob: 0.0000
-Token: ' maybe' (ID: 7196), Prob: 0.0000
-Token: ' statements' (ID: 12239), Prob: 0.0000
-Token: ' errors' (ID: 5975), Prob: 0.0000
+Token: ' Conflict' (ID: 58585), Prob: 0.0037
+Token: ' Let' (ID: 6771), Prob: 0.0018
+Token: ' Maybe' (ID: 10696), Prob: 0.0011
+Token: ' Building' (ID: 16858), Prob: 0.0005
+Token: ' Perhaps' (ID: 18765), Prob: 0.0005
+Token: ' Storm' (ID: 21862), Prob: 0.0005
+Token: ' Build' (ID: 7854), Prob: 0.0004
+Token: ' Using' (ID: 12091), Prob: 0.0004
+Token: ' Setting' (ID: 20037), Prob: 0.0003
+Token: ' Time' (ID: 4120), Prob: 0.0002
+Token: ' Use' (ID: 5443), Prob: 0.0002
+Token: ' Wait' (ID: 13824), Prob: 0.0002
+Token: ' Town' (ID: 13971), Prob: 0.0002
+Token: ' Common' (ID: 7718), Prob: 0.0002
+Token: ' Tom' (ID: 8364), Prob: 0.0002
+Token: ' Towers' (ID: 67357), Prob: 0.0001
+Token: ' Winter' (ID: 20101), Prob: 0.0001
+Token: ' Needs' (ID: 43140), Prob: 0.0001
+Token: ' Hmm' (ID: 88190), Prob: 0.0001
+Token: ' Parents' (ID: 42926), Prob: 0.0001
+Token: ' Themes' (ID: 62087), Prob: 0.0001
+Token: ' Shadows' (ID: 66449), Prob: 0.0001
+Token: ' Int' (ID: 1333), Prob: 0.0001
+Token: ' Together' (ID: 31155), Prob: 0.0001
+Token: ' Som' (ID: 17564), Prob: 0.0001
+Token: ' Need' (ID: 14656), Prob: 0.0001
+Token: ' Small' (ID: 14994), Prob: 0.0001
+Token: ' Buildings' (ID: 73148), Prob: 0.0001
+Token: ' Since' (ID: 8704), Prob: 0.0001
+Token: ' Snow' (ID: 18901), Prob: 0.0001
+Token: ' Today' (ID: 11201), Prob: 0.0000
+Token: ' Tower' (ID: 21938), Prob: 0.0000
+Token: ' Set' (ID: 2573), Prob: 0.0000
+Token: ' Establish' (ID: 39398), Prob: 0.0000
+Token: ' Traditional' (ID: 45460), Prob: 0.0000
+Token: ' Vill' (ID: 16550), Prob: 0.0000
+Token: ' Something' (ID: 24656), Prob: 0.0000
+Token: ' Describe' (ID: 60785), Prob: 0.0000
+Token: ' Tradition' (ID: 80478), Prob: 0.0000
+Token: ' Conf' (ID: 14974), Prob: 0.0000
+Token: ' Comb' (ID: 22454), Prob: 0.0000
+Token: ' Ste' (ID: 3360), Prob: 0.0000
+Token: ' Place' (ID: 10771), Prob: 0.0000
+Token: ' Construction' (ID: 24026), Prob: 0.0000
+Token: ' People' (ID: 8853), Prob: 0.0000
+Token: ' Next' (ID: 9295), Prob: 0.0000
+Token: ' Old' (ID: 10621), Prob: 0.0000
+Token: ' Forest' (ID: 19988), Prob: 0.0000
+Token: ' Action' (ID: 5586), Prob: 0.0000
+Token: ' Sounds' (ID: 44141), Prob: 0.0000
+Token: ' Contrast' (ID: 90048), Prob: 0.0000
+Token: ' Two' (ID: 9043), Prob: 0.0000
+Token: ' Friends' (ID: 22508), Prob: 0.0000
+Token: ' Opp' (ID: 28610), Prob: 0.0000
+Token: ' Growth' (ID: 33771), Prob: 0.0000
+Token: ' Ant' (ID: 6755), Prob: 0.0000
+Token: ' Weather' (ID: 22629), Prob: 0.0000
+Token: ' Different' (ID: 33396), Prob: 0.0000
+Token: ' Sets' (ID: 12525), Prob: 0.0000
+Token: ' Focus' (ID: 25806), Prob: 0.0000
+Token: ' Walls' (ID: 71178), Prob: 0.0000
+Token: ' Green' (ID: 7840), Prob: 0.0000
 
 == Ranked Concepts (Clusters) ==
-Rank 1 | Centroid: ' points' | Score: 0.9727
-  Tokens: [' points', ' Points', ' point', ' Point', '_points', 'Points', '(points', 'points', ' puntos']
-Rank 2 | Centroid: ' may' | Score: 0.0011
-  Tokens: [' could', ' may', ' might', ' would', ' cannot', ' must']
-Rank 3 | Centroid: ' according' | Score: 0.0004
-  Tokens: [' based', ' according', ' given', ' since', ' please']
-Rank 4 | Centroid: ' varies' | Score: 0.0002
-  Tokens: [' depends', ' seems', ' differs', ' contains', ' varies', ' makes', ' refers']
-Rank 5 | Centroid: ' options' | Score: 0.0001
-  Tokens: [' options', ' choices']
-Rank 6 | Centroid: ' whether' | Score: 0.0001
-  Tokens: [' whether', ' either']
-Rank 7 | Centroid: ' yes' | Score: 0.0000
-  Tokens: [' yes', ' Yes']
-Rank 8 | Centroid: ' sentences' | Score: 0.0000
-  Tokens: [' cells', ' questions', ' sentences', ' statements', ' errors']
-Rank 9 | Centroid: ' possibly' | Score: 0.0000
-  Tokens: [' possible', ' probably', ' possibly', ' maybe']
-Rank 10 | Centroid: ' four' | Score: 0.0000
-  Tokens: [' four', ' key', ' correct']
-Rank 11 | Centroid: ' needs' | Score: 0.0000
-  Tokens: [' checks', ' needs', ' ends']
+Rank 1 | Centroid: ' Conflict' | Score: 0.0038
+  Tokens: [' Conflict', ' Conf', ' Comb', ' Contrast']
+Rank 2 | Centroid: ' Use' | Score: 0.0025
+  Tokens: [' Let', ' Using', ' Use', ' Wait', ' Describe']
+Rank 3 | Centroid: ' Perhaps' | Score: 0.0017
+  Tokens: [' Maybe', ' Perhaps', ' Hmm', ' Since', ' Something']
+Rank 4 | Centroid: ' Building' | Score: 0.0011
+  Tokens: [' Building', ' Build', ' Buildings', ' Construction']
+Rank 5 | Centroid: ' Snow' | Score: 0.0007
+  Tokens: [' Storm', ' Winter', ' Snow', ' Forest', ' Weather']
+Rank 6 | Centroid: ' Small' | Score: 0.0004
+  Tokens: [' Time', ' Common', ' Small', ' Green']
+Rank 7 | Centroid: ' Set' | Score: 0.0004
+  Tokens: [' Setting', ' Set', ' Establish', ' Sets']
+Rank 8 | Centroid: ' Tom' | Score: 0.0003
+  Tokens: [' Tom', ' Int', ' Ste', ' Ant']
+Rank 9 | Centroid: ' Vill' | Score: 0.0003
+  Tokens: [' Town', ' Vill', ' Opp', ' Walls']
+Rank 10 | Centroid: ' Towers' | Score: 0.0002
+  Tokens: [' Towers', ' Tower']
+Rank 11 | Centroid: ' Shadows' | Score: 0.0002
+  Tokens: [' Themes', ' Shadows', ' Sounds']
+Rank 12 | Centroid: ' Need' | Score: 0.0002
+  Tokens: [' Needs', ' Need', ' Focus']
+Rank 13 | Centroid: ' Friends' | Score: 0.0001
+  Tokens: [' Parents', ' People', ' Friends']
+Rank 14 | Centroid: ' Together' | Score: 0.0001
+  Tokens: [' Together', ' Today']
+Rank 15 | Centroid: ' Traditional' | Score: 0.0001
+  Tokens: [' Traditional', ' Tradition', ' Old']
+Rank 16 | Centroid: ' Two' | Score: 0.0001
+  Tokens: [' Next', ' Two', ' Different']
+Rank 17 | Centroid: ' Som' | Score: 0.0001
+  Tokens: [' Som']
+Rank 18 | Centroid: ' Place' | Score: 0.0001
+  Tokens: [' Place', ' Action']
+Rank 19 | Centroid: ' Growth' | Score: 0.0000
+  Tokens: [' Growth']
 
 **Chosen Concept:** Rank 1

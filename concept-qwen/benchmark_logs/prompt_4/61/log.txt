@@ -1,70 +1,161 @@
 --- Step 61 Log ---
 
 == Filtered Candidates ==
-Token: ' prompt' (ID: 9934), Prob: 0.9805
-Token: ' message' (ID: 1943), Prob: 0.0012
-Token: ' Prompt' (ID: 59501), Prob: 0.0005
-Token: ' prompts' (ID: 50932), Prob: 0.0003
-Token: '(prompt' (ID: 72253), Prob: 0.0001
-Token: 'prompt' (ID: 40581), Prob: 0.0001
-Token: 'Prompt' (ID: 54615), Prob: 0.0000
-Token: ' question' (ID: 3405), Prob: 0.0000
-Token: ' prompting' (ID: 49645), Prob: 0.0000
-Token: ' prompted' (ID: 28646), Prob: 0.0000
-Token: ' potential' (ID: 4650), Prob: 0.0000
-Token: '_prompt' (ID: 61421), Prob: 0.0000
-Token: ' within' (ID: 2878), Prob: 0.0000
-Token: ' hint' (ID: 13012), Prob: 0.0000
-Token: ' prom' (ID: 2706), Prob: 0.0000
-Token: ' motif' (ID: 59512), Prob: 0.0000
-Token: ' point' (ID: 1459), Prob: 0.0000
-Token: ' promise' (ID: 11222), Prob: 0.0000
-Token: '.prompt' (ID: 65399), Prob: 0.0000
-Token: ' example' (ID: 3110), Prob: 0.0000
-Token: ' list' (ID: 1140), Prob: 0.0000
-Token: ' bold' (ID: 13939), Prob: 0.0000
-Token: ' topic' (ID: 8544), Prob: 0.0000
-Token: ' promotion' (ID: 20249), Prob: 0.0000
-Token: ' keyword' (ID: 16174), Prob: 0.0000
-Token: ' theme' (ID: 6912), Prob: 0.0000
-Token: ' format' (ID: 3561), Prob: 0.0000
-Token: ' wording' (ID: 60227), Prob: 0.0000
-Token: ' post' (ID: 1736), Prob: 0.0000
-Token: ' please' (ID: 4486), Prob: 0.0000
-Token: ' option' (ID: 2999), Prob: 0.0000
+Token: ' length' (ID: 3084), Prob: 0.2793
+Token: ' duration' (ID: 8090), Prob: 0.2168
+Token: ' significance' (ID: 25361), Prob: 0.1025
+Token: ' details' (ID: 3565), Prob: 0.0801
+Token: ' difficulty' (ID: 16829), Prob: 0.0801
+Token: ' challenges' (ID: 11513), Prob: 0.0623
+Token: ' purpose' (ID: 7428), Prob: 0.0332
+Token: ' challenge' (ID: 8645), Prob: 0.0228
+Token: ' journey' (ID: 11618), Prob: 0.0228
+Token: ' beauty' (ID: 13143), Prob: 0.0084
+Token: ' nature' (ID: 6993), Prob: 0.0066
+Token: ' physical' (ID: 6961), Prob: 0.0051
+Token: ' aspects' (ID: 13566), Prob: 0.0051
+Token: ' excitement' (ID: 27262), Prob: 0.0051
+Token: ' route' (ID: 6021), Prob: 0.0045
+Token: ' accomplishment' (ID: 60138), Prob: 0.0045
+Token: ' description' (ID: 4008), Prob: 0.0040
+Token: ' time' (ID: 882), Prob: 0.0035
+Token: ' distance' (ID: 6010), Prob: 0.0027
+Token: ' importance' (ID: 12650), Prob: 0.0027
+Token: ' path' (ID: 1815), Prob: 0.0021
+Token: ' intensity' (ID: 20612), Prob: 0.0021
+Token: ' elements' (ID: 5424), Prob: 0.0019
+Token: ' detail' (ID: 7716), Prob: 0.0017
+Token: ' scenic' (ID: 60981), Prob: 0.0017
+Token: ' experience' (ID: 3139), Prob: 0.0016
+Token: ' worth' (ID: 5802), Prob: 0.0014
+Token: ' destination' (ID: 9106), Prob: 0.0014
+Token: ' trail' (ID: 8849), Prob: 0.0012
+Token: ' uniqueness' (ID: 59057), Prob: 0.0012
+Token: ' pace' (ID: 17857), Prob: 0.0011
+Token: ' progression' (ID: 32724), Prob: 0.0010
+Token: ' qualities' (ID: 28500), Prob: 0.0009
+Token: ' benefits' (ID: 7567), Prob: 0.0009
+Token: ' impact' (ID: 5421), Prob: 0.0008
+Token: ' highlights' (ID: 21314), Prob: 0.0008
+Token: ' value' (ID: 897), Prob: 0.0007
+Token: ' ease' (ID: 14219), Prob: 0.0007
+Token: ' difficulties' (ID: 26038), Prob: 0.0007
+Token: ' aspect' (ID: 12893), Prob: 0.0006
+Token: ' atmosphere' (ID: 16566), Prob: 0.0006
+Token: ' tranqu' (ID: 40564), Prob: 0.0006
+Token: ' progress' (ID: 5098), Prob: 0.0005
+Token: ' completion' (ID: 9755), Prob: 0.0005
+Token: ' endurance' (ID: 48186), Prob: 0.0005
+Token: ' essence' (ID: 27491), Prob: 0.0005
+Token: ' location' (ID: 3728), Prob: 0.0004
+Token: ' specifics' (ID: 48349), Prob: 0.0004
+Token: ' effort' (ID: 5041), Prob: 0.0004
+Token: ' approach' (ID: 5486), Prob: 0.0004
+Token: ' characteristics' (ID: 17452), Prob: 0.0004
+Token: ' charm' (ID: 31253), Prob: 0.0004
+Token: ' success' (ID: 2393), Prob: 0.0004
+Token: ' scenery' (ID: 50231), Prob: 0.0004
+Token: ' allure' (ID: 87403), Prob: 0.0004
+Token: ' trails' (ID: 32865), Prob: 0.0003
+Token: ' start' (ID: 1191), Prob: 0.0003
+Token: ' long' (ID: 1293), Prob: 0.0003
+Token: ' challenging' (ID: 17003), Prob: 0.0003
+Token: ' simplicity' (ID: 38975), Prob: 0.0003
+Token: ' connection' (ID: 3633), Prob: 0.0003
+Token: ' features' (ID: 4419), Prob: 0.0003
+Token: ' scale' (ID: 5452), Prob: 0.0003
+Token: ' adventure' (ID: 17943), Prob: 0.0003
+Token: ' structure' (ID: 5944), Prob: 0.0002
+Token: ' steep' (ID: 31266), Prob: 0.0002
+Token: ' brisk' (ID: 74391), Prob: 0.0002
+Token: ' part' (ID: 949), Prob: 0.0002
+Token: ' effects' (ID: 6239), Prob: 0.0002
+Token: ' meaning' (ID: 7290), Prob: 0.0002
+Token: ' trek' (ID: 44588), Prob: 0.0002
+Token: ' name' (ID: 829), Prob: 0.0002
+Token: ' quality' (ID: 4271), Prob: 0.0002
+Token: ' finish' (ID: 6248), Prob: 0.0002
+Token: ' total' (ID: 2790), Prob: 0.0002
+Token: ' appeal' (ID: 14303), Prob: 0.0002
+Token: ' end' (ID: 835), Prob: 0.0002
+Token: ' efforts' (ID: 8869), Prob: 0.0002
+Token: ' remot' (ID: 35793), Prob: 0.0002
+Token: ' process' (ID: 1882), Prob: 0.0002
+Token: ' environment' (ID: 4573), Prob: 0.0002
+Token: ' activity' (ID: 5702), Prob: 0.0002
+Token: ' trip' (ID: 8411), Prob: 0.0002
+Token: ' perspective' (ID: 13057), Prob: 0.0002
+Token: ' thorough' (ID: 17423), Prob: 0.0002
+Token: ' key' (ID: 1376), Prob: 0.0001
+Token: ' exclus' (ID: 18034), Prob: 0.0001
+Token: ' discovery' (ID: 18335), Prob: 0.0001
+Token: ' passage' (ID: 21085), Prob: 0.0001
+Token: ' dangers' (ID: 35964), Prob: 0.0001
+Token: ' thrill' (ID: 53804), Prob: 0.0001
+Token: ' speed' (ID: 4628), Prob: 0.0001
+Token: ' preparation' (ID: 17975), Prob: 0.0001
+Token: ' demands' (ID: 18154), Prob: 0.0001
+Token: ' size' (ID: 1379), Prob: 0.0001
+Token: ' parts' (ID: 5479), Prob: 0.0001
+Token: ' outcome' (ID: 15274), Prob: 0.0001
+Token: ' quick' (ID: 3974), Prob: 0.0001
+Token: ' conditions' (ID: 4682), Prob: 0.0001
+Token: ' sense' (ID: 5530), Prob: 0.0001
 
 == Ranked Concepts (Clusters) ==
-Rank 1 | Centroid: ' prompt' | Score: 0.9805
-  Tokens: [' prompt', ' Prompt', ' prompts', '(prompt', 'prompt', 'Prompt', ' prompting', ' prompted', '_prompt', '.prompt']
-Rank 2 | Centroid: ' message' | Score: 0.0012
-  Tokens: [' message', ' point']
-Rank 3 | Centroid: ' theme' | Score: 0.0000
-  Tokens: [' motif', ' topic', ' theme']
-Rank 4 | Centroid: ' question' | Score: 0.0000
-  Tokens: [' question']
-Rank 5 | Centroid: ' potential' | Score: 0.0000
-  Tokens: [' potential']
-Rank 6 | Centroid: ' prom' | Score: 0.0000
-  Tokens: [' prom', ' promotion']
-Rank 7 | Centroid: ' within' | Score: 0.0000
-  Tokens: [' within']
-Rank 8 | Centroid: ' bold' | Score: 0.0000
-  Tokens: [' bold', ' please']
-Rank 9 | Centroid: ' keyword' | Score: 0.0000
-  Tokens: [' keyword', ' wording']
-Rank 10 | Centroid: ' hint' | Score: 0.0000
-  Tokens: [' hint']
-Rank 11 | Centroid: ' promise' | Score: 0.0000
-  Tokens: [' promise']
-Rank 12 | Centroid: ' example' | Score: 0.0000
-  Tokens: [' example']
-Rank 13 | Centroid: ' list' | Score: 0.0000
-  Tokens: [' list']
-Rank 14 | Centroid: ' format' | Score: 0.0000
-  Tokens: [' format']
-Rank 15 | Centroid: ' post' | Score: 0.0000
-  Tokens: [' post']
-Rank 16 | Centroid: ' option' | Score: 0.0000
-  Tokens: [' option']
+Rank 1 | Centroid: ' size' | Score: 0.2852
+  Tokens: [' length', ' time', ' distance', ' scale', ' quality', ' size']
+Rank 2 | Centroid: ' intensity' | Score: 0.2217
+  Tokens: [' duration', ' intensity', ' pace', ' ease', ' endurance', ' speed']
+Rank 3 | Centroid: ' challenges' | Score: 0.1660
+  Tokens: [' difficulty', ' challenges', ' challenge', ' difficulties', ' challenging', ' dangers']
+Rank 4 | Centroid: ' significance' | Score: 0.1396
+  Tokens: [' significance', ' purpose', ' importance', ' essence', ' meaning', ' sense']
+Rank 5 | Centroid: ' details' | Score: 0.0820
+  Tokens: [' details', ' detail', ' specifics']
+Rank 6 | Centroid: ' trail' | Score: 0.0315
+  Tokens: [' journey', ' route', ' path', ' trail', ' trails', ' trek', ' trip']
+Rank 7 | Centroid: ' beauty' | Score: 0.0121
+  Tokens: [' beauty', ' scenic', ' tranqu', ' charm', ' scenery', ' allure', ' appeal', ' thrill']
+Rank 8 | Centroid: ' progression' | Score: 0.0076
+  Tokens: [' accomplishment', ' progression', ' progress', ' completion', ' success', ' finish', ' discovery', ' passage', ' preparation']
+Rank 9 | Centroid: ' simplicity' | Score: 0.0066
+  Tokens: [' excitement', ' uniqueness', ' simplicity']
+Rank 10 | Centroid: ' nature' | Score: 0.0066
+  Tokens: [' nature']
+Rank 11 | Centroid: ' aspects' | Score: 0.0059
+  Tokens: [' aspects', ' aspect', ' perspective']
+Rank 12 | Centroid: ' physical' | Score: 0.0051
+  Tokens: [' physical']
+Rank 13 | Centroid: ' description' | Score: 0.0049
+  Tokens: [' description', ' location', ' connection', ' structure']
+Rank 14 | Centroid: ' characteristics' | Score: 0.0038
+  Tokens: [' elements', ' qualities', ' characteristics', ' features', ' demands', ' conditions']
+Rank 15 | Centroid: ' value' | Score: 0.0025
+  Tokens: [' worth', ' value', ' name', ' key']
+Rank 16 | Centroid: ' experience' | Score: 0.0024
+  Tokens: [' experience', ' approach', ' process', ' activity', ' outcome']
+Rank 17 | Centroid: ' effects' | Score: 0.0019
+  Tokens: [' benefits', ' impact', ' effects']
+Rank 18 | Centroid: ' destination' | Score: 0.0014
+  Tokens: [' destination']
+Rank 19 | Centroid: ' start' | Score: 0.0011
+  Tokens: [' start', ' long', ' total', ' end', ' quick']
+Rank 20 | Centroid: ' highlights' | Score: 0.0008
+  Tokens: [' highlights']
+Rank 21 | Centroid: ' atmosphere' | Score: 0.0008
+  Tokens: [' atmosphere', ' environment']
+Rank 22 | Centroid: ' effort' | Score: 0.0006
+  Tokens: [' effort', ' efforts']
+Rank 23 | Centroid: ' steep' | Score: 0.0005
+  Tokens: [' steep', ' brisk']
+Rank 24 | Centroid: ' part' | Score: 0.0003
+  Tokens: [' part', ' parts']
+Rank 25 | Centroid: ' thorough' | Score: 0.0003
+  Tokens: [' thorough', ' exclus']
+Rank 26 | Centroid: ' adventure' | Score: 0.0003
+  Tokens: [' adventure']
+Rank 27 | Centroid: ' remot' | Score: 0.0002
+  Tokens: [' remot']
 
 **Chosen Concept:** Rank 1

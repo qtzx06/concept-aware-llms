@@ -1,70 +1,152 @@
 --- Step 141 Log ---
 
 == Filtered Candidates ==
-Token: ' would' (ID: 1035), Prob: 1.0000
-Token: ' makes' (ID: 3643), Prob: 0.0001
-Token: ' made' (ID: 1865), Prob: 0.0000
-Token: ' could' (ID: 1410), Prob: 0.0000
-Token: ' might' (ID: 2578), Prob: 0.0000
-Token: ' Would' (ID: 18885), Prob: 0.0000
-Token: ' seems' (ID: 4977), Prob: 0.0000
-Token: 'would' (ID: 40350), Prob: 0.0000
-Token: ' must' (ID: 1969), Prob: 0.0000
-Token: ' making' (ID: 3259), Prob: 0.0000
-Token: ' make' (ID: 1281), Prob: 0.0000
-Token: ' also' (ID: 1083), Prob: 0.0000
-Token: ' may' (ID: 1231), Prob: 0.0000
-Token: ' assumes' (ID: 21484), Prob: 0.0000
-Token: ' still' (ID: 2058), Prob: 0.0000
-Token: 'Would' (ID: 27989), Prob: 0.0000
-Token: ' logically' (ID: 73045), Prob: 0.0000
-Token: ' würde' (ID: 58881), Prob: 0.0000
-Token: ' shows' (ID: 4933), Prob: 0.0000
-Token: ' ends' (ID: 10335), Prob: 0.0000
-Token: ' technically' (ID: 31554), Prob: 0.0000
-Token: ' works' (ID: 4278), Prob: 0.0000
-Token: ' takes' (ID: 4990), Prob: 0.0000
-Token: ' includes' (ID: 5646), Prob: 0.0000
-Token: ' based' (ID: 3118), Prob: 0.0000
-Token: ' matches' (ID: 9071), Prob: 0.0000
-Token: ' within' (ID: 2878), Prob: 0.0000
-Token: ' math' (ID: 6888), Prob: 0.0000
-Token: ' five' (ID: 4236), Prob: 0.0000
-Token: ' holds' (ID: 9982), Prob: 0.0000
-Token: ' contrad' (ID: 22296), Prob: 0.0000
-Token: ' corresponds' (ID: 33210), Prob: 0.0000
-Token: ' serait' (ID: 86164), Prob: 0.0000
-Token: ' aloud' (ID: 70411), Prob: 0.0000
-Token: ' contains' (ID: 5610), Prob: 0.0000
-Token: ' slightly' (ID: 10078), Prob: 0.0000
-Token: ' always' (ID: 2677), Prob: 0.0000
+Token: ' conflict' (ID: 12055), Prob: 0.6172
+Token: ' character' (ID: 3668), Prob: 0.3301
+Token: ' characters' (ID: 5766), Prob: 0.0271
+Token: ' main' (ID: 1887), Prob: 0.0069
+Token: ' action' (ID: 1917), Prob: 0.0042
+Token: ' protagonist' (ID: 45584), Prob: 0.0032
+Token: ' problem' (ID: 3491), Prob: 0.0022
+Token: ' child' (ID: 1682), Prob: 0.0007
+Token: ' actions' (ID: 6168), Prob: 0.0004
+Token: ' setting' (ID: 6243), Prob: 0.0003
+Token: ' challenge' (ID: 8645), Prob: 0.0002
+Token: ' emotions' (ID: 21261), Prob: 0.0002
+Token: ' dialogue' (ID: 21276), Prob: 0.0002
+Token: ' conflicts' (ID: 25800), Prob: 0.0002
+Token: ' plot' (ID: 7089), Prob: 0.0001
+Token: ' narrative' (ID: 19221), Prob: 0.0001
+Token: ' emotion' (ID: 19772), Prob: 0.0001
+Token: ' theme' (ID: 6912), Prob: 0.0001
+Token: ' story' (ID: 3364), Prob: 0.0001
+Token: ' person' (ID: 1697), Prob: 0.0001
+Token: ' interaction' (ID: 16230), Prob: 0.0001
+Token: ' community' (ID: 3942), Prob: 0.0001
+Token: ' inc' (ID: 3625), Prob: 0.0001
+Token: ' introduction' (ID: 16800), Prob: 0.0001
+Token: ' elements' (ID: 5424), Prob: 0.0001
+Token: ' beginning' (ID: 7167), Prob: 0.0000
+Token: ' event' (ID: 1538), Prob: 0.0000
+Token: ' first' (ID: 1156), Prob: 0.0000
+Token: ' internal' (ID: 5306), Prob: 0.0000
+Token: ' voice' (ID: 7743), Prob: 0.0000
+Token: ' tension' (ID: 23504), Prob: 0.0000
+Token: ' starting' (ID: 5916), Prob: 0.0000
+Token: ' presence' (ID: 9362), Prob: 0.0000
+Token: ' present' (ID: 3042), Prob: 0.0000
+Token: ' middle' (ID: 6149), Prob: 0.0000
+Token: ' maybe' (ID: 7196), Prob: 0.0000
+Token: ' climax' (ID: 70195), Prob: 0.0000
+Token: ' issue' (ID: 4265), Prob: 0.0000
+Token: ' environment' (ID: 4573), Prob: 0.0000
+Token: ' initial' (ID: 2856), Prob: 0.0000
+Token: ' mood' (ID: 19671), Prob: 0.0000
+Token: ' challenges' (ID: 11513), Prob: 0.0000
+Token: ' time' (ID: 882), Prob: 0.0000
+Token: ' message' (ID: 1943), Prob: 0.0000
+Token: ' cause' (ID: 5240), Prob: 0.0000
+Token: ' situation' (ID: 6534), Prob: 0.0000
+Token: ' background' (ID: 4004), Prob: 0.0000
+Token: ' tradition' (ID: 13815), Prob: 0.0000
+Token: ' themes' (ID: 21386), Prob: 0.0000
+Token: ' building' (ID: 4752), Prob: 0.0000
+Token: ' children' (ID: 2841), Prob: 0.0000
+Token: ' role' (ID: 3476), Prob: 0.0000
+Token: ' incident' (ID: 10455), Prob: 0.0000
+Token: ' hero' (ID: 11821), Prob: 0.0000
+Token: ' introduce' (ID: 19131), Prob: 0.0000
+Token: ' intro' (ID: 19706), Prob: 0.0000
+Token: ' inside' (ID: 4766), Prob: 0.0000
+Token: ' introducing' (ID: 31918), Prob: 0.0000
+Token: ' dilemma' (ID: 54767), Prob: 0.0000
+Token: ' living' (ID: 5382), Prob: 0.0000
+Token: ' movement' (ID: 7203), Prob: 0.0000
+Token: ' moving' (ID: 7218), Prob: 0.0000
+Token: ' desire' (ID: 12591), Prob: 0.0000
+Token: ' contrast' (ID: 12872), Prob: 0.0000
+Token: ' origin' (ID: 6238), Prob: 0.0000
+Token: ' creature' (ID: 17218), Prob: 0.0000
+Token: ' subject' (ID: 3832), Prob: 0.0000
+Token: ' description' (ID: 4008), Prob: 0.0000
+Token: ' premise' (ID: 40202), Prob: 0.0000
+Token: ' activity' (ID: 5702), Prob: 0.0000
+Token: ' scene' (ID: 6109), Prob: 0.0000
+Token: ' rising' (ID: 16062), Prob: 0.0000
+Token: ' tone' (ID: 16232), Prob: 0.0000
+Token: ' two' (ID: 1378), Prob: 0.0000
+Token: ' family' (ID: 2997), Prob: 0.0000
+Token: ' events' (ID: 4357), Prob: 0.0000
+Token: ' title' (ID: 2265), Prob: 0.0000
+Token: ' context' (ID: 2266), Prob: 0.0000
+Token: ' perspective' (ID: 13057), Prob: 0.0000
+Token: ' narrator' (ID: 64171), Prob: 0.0000
+Token: ' start' (ID: 1191), Prob: 0.0000
+Token: ' three' (ID: 2326), Prob: 0.0000
+Token: ' element' (ID: 2392), Prob: 0.0000
+Token: ' interest' (ID: 2734), Prob: 0.0000
+Token: ' reaction' (ID: 12720), Prob: 0.0000
+Token: ' content' (ID: 2213), Prob: 0.0000
+Token: ' conflicting' (ID: 51033), Prob: 0.0000
+Token: ' key' (ID: 1376), Prob: 0.0000
+Token: ' life' (ID: 2272), Prob: 0.0000
+Token: ' nature' (ID: 6993), Prob: 0.0000
+Token: ' leading' (ID: 6388), Prob: 0.0000
+Token: ' immediate' (ID: 13922), Prob: 0.0000
+Token: ' using' (ID: 1667), Prob: 0.0000
+Token: ' details' (ID: 3565), Prob: 0.0000
+Token: ' central' (ID: 8622), Prob: 0.0000
 
 == Ranked Concepts (Clusters) ==
-Rank 1 | Centroid: 'would' | Score: 1.0000
-  Tokens: [' would', ' Would', 'would', 'Would', ' würde', ' serait']
-Rank 2 | Centroid: ' make' | Score: 0.0002
-  Tokens: [' makes', ' made', ' making', ' make']
-Rank 3 | Centroid: ' may' | Score: 0.0000
-  Tokens: [' could', ' might', ' must', ' may']
-Rank 4 | Centroid: ' takes' | Score: 0.0000
-  Tokens: [' seems', ' assumes', ' shows', ' takes', ' holds']
-Rank 5 | Centroid: ' still' | Score: 0.0000
-  Tokens: [' also', ' still', ' always']
-Rank 6 | Centroid: ' technically' | Score: 0.0000
-  Tokens: [' logically', ' technically', ' slightly']
-Rank 7 | Centroid: ' within' | Score: 0.0000
-  Tokens: [' based', ' within', ' five']
-Rank 8 | Centroid: ' corresponds' | Score: 0.0000
-  Tokens: [' matches', ' contrad', ' corresponds']
-Rank 9 | Centroid: ' ends' | Score: 0.0000
-  Tokens: [' ends']
-Rank 10 | Centroid: ' works' | Score: 0.0000
-  Tokens: [' works']
-Rank 11 | Centroid: ' includes' | Score: 0.0000
-  Tokens: [' includes', ' contains']
-Rank 12 | Centroid: ' math' | Score: 0.0000
-  Tokens: [' math']
-Rank 13 | Centroid: ' aloud' | Score: 0.0000
-  Tokens: [' aloud']
+Rank 1 | Centroid: ' conflict' | Score: 0.6172
+  Tokens: [' conflict', ' conflicts', ' tension', ' contrast', ' conflicting']
+Rank 2 | Centroid: ' character' | Score: 0.3574
+  Tokens: [' character', ' characters']
+Rank 3 | Centroid: ' three' | Score: 0.0069
+  Tokens: [' main', ' middle', ' two', ' three', ' key', ' central']
+Rank 4 | Centroid: ' actions' | Score: 0.0047
+  Tokens: [' action', ' actions', ' interaction', ' activity', ' reaction']
+Rank 5 | Centroid: ' narrative' | Score: 0.0037
+  Tokens: [' protagonist', ' plot', ' narrative', ' story', ' climax', ' hero', ' narrator']
+Rank 6 | Centroid: ' challenge' | Score: 0.0025
+  Tokens: [' problem', ' challenge', ' issue', ' challenges', ' dilemma']
+Rank 7 | Centroid: ' child' | Score: 0.0009
+  Tokens: [' child', ' person', ' community', ' children', ' creature', ' family']
+Rank 8 | Centroid: ' emotions' | Score: 0.0004
+  Tokens: [' emotions', ' emotion', ' mood', ' desire']
+Rank 9 | Centroid: ' situation' | Score: 0.0003
+  Tokens: [' setting', ' environment', ' situation', ' scene', ' context', ' perspective']
+Rank 10 | Centroid: ' voice' | Score: 0.0002
+  Tokens: [' dialogue', ' voice', ' tone']
+Rank 11 | Centroid: ' starting' | Score: 0.0002
+  Tokens: [' beginning', ' first', ' starting', ' initial', ' origin', ' start', ' leading']
+Rank 12 | Centroid: ' themes' | Score: 0.0002
+  Tokens: [' theme', ' themes', ' subject']
+Rank 13 | Centroid: ' introduction' | Score: 0.0001
+  Tokens: [' introduction', ' introduce', ' intro', ' introducing']
+Rank 14 | Centroid: ' inside' | Score: 0.0001
+  Tokens: [' internal', ' maybe', ' inside', ' immediate', ' using']
+Rank 15 | Centroid: ' event' | Score: 0.0001
+  Tokens: [' event', ' incident', ' events', ' interest']
+Rank 16 | Centroid: ' moving' | Score: 0.0001
+  Tokens: [' building', ' living', ' movement', ' moving', ' rising']
+Rank 17 | Centroid: ' presence' | Score: 0.0001
+  Tokens: [' presence', ' present']
+Rank 18 | Centroid: ' elements' | Score: 0.0001
+  Tokens: [' elements', ' element']
+Rank 19 | Centroid: ' inc' | Score: 0.0001
+  Tokens: [' inc']
+Rank 20 | Centroid: ' title' | Score: 0.0000
+  Tokens: [' message', ' role', ' title']
+Rank 21 | Centroid: ' background' | Score: 0.0000
+  Tokens: [' background', ' description']
+Rank 22 | Centroid: ' tradition' | Score: 0.0000
+  Tokens: [' tradition', ' premise']
+Rank 23 | Centroid: ' time' | Score: 0.0000
+  Tokens: [' time', ' life']
+Rank 24 | Centroid: ' content' | Score: 0.0000
+  Tokens: [' content', ' nature', ' details']
+Rank 25 | Centroid: ' cause' | Score: 0.0000
+  Tokens: [' cause']
 
 **Chosen Concept:** Rank 1

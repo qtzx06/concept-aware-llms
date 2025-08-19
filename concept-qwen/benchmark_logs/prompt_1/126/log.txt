@@ -1,153 +1,110 @@
 --- Step 126 Log ---
 
 == Filtered Candidates ==
-Token: ' emotions' (ID: 21261), Prob: 0.5664
-Token: ' details' (ID: 3565), Prob: 0.0767
-Token: ' images' (ID: 5335), Prob: 0.0596
-Token: ' moments' (ID: 13943), Prob: 0.0596
-Token: ' elements' (ID: 5424), Prob: 0.0361
-Token: ' things' (ID: 2513), Prob: 0.0248
-Token: ' imagery' (ID: 40445), Prob: 0.0248
-Token: ' feelings' (ID: 15650), Prob: 0.0220
-Token: ' examples' (ID: 10295), Prob: 0.0193
-Token: ' instances' (ID: 13121), Prob: 0.0171
-Token: ' experiences' (ID: 11449), Prob: 0.0117
-Token: ' aspects' (ID: 13566), Prob: 0.0104
-Token: ' parts' (ID: 5479), Prob: 0.0092
-Token: ' actions' (ID: 6168), Prob: 0.0092
-Token: ' sensations' (ID: 71497), Prob: 0.0092
-Token: ' memories' (ID: 18923), Prob: 0.0063
-Token: ' thoughts' (ID: 11303), Prob: 0.0049
-Token: ' situations' (ID: 14740), Prob: 0.0038
-Token: ' events' (ID: 4357), Prob: 0.0026
-Token: ' sensory' (ID: 47969), Prob: 0.0023
-Token: ' emotional' (ID: 14269), Prob: 0.0020
-Token: ' objects' (ID: 6171), Prob: 0.0015
-Token: ' senses' (ID: 37107), Prob: 0.0015
-Token: ' times' (ID: 3039), Prob: 0.0013
-Token: ' scenes' (ID: 16065), Prob: 0.0011
-Token: ' emotion' (ID: 19772), Prob: 0.0011
-Token: ' scenarios' (ID: 25283), Prob: 0.0011
-Token: ' reactions' (ID: 24473), Prob: 0.0010
-Token: ' metaph' (ID: 30668), Prob: 0.0010
-Token: ' triggers' (ID: 30754), Prob: 0.0009
-Token: ' activities' (ID: 7488), Prob: 0.0008
-Token: ' visuals' (ID: 52977), Prob: 0.0008
-Token: ' physical' (ID: 6961), Prob: 0.0007
-Token: ' qualities' (ID: 28500), Prob: 0.0007
-Token: ' reasons' (ID: 7966), Prob: 0.0003
-Token: ' colors' (ID: 7987), Prob: 0.0003
-Token: ' expressions' (ID: 23393), Prob: 0.0003
-Token: ' people' (ID: 1251), Prob: 0.0003
-Token: ' words' (ID: 4244), Prob: 0.0003
-Token: ' days' (ID: 2849), Prob: 0.0002
-Token: ' items' (ID: 3589), Prob: 0.0002
-Token: ' ideas' (ID: 6708), Prob: 0.0002
-Token: ' occurrences' (ID: 56015), Prob: 0.0002
-Token: ' effects' (ID: 6239), Prob: 0.0002
-Token: ' places' (ID: 7482), Prob: 0.0002
-Token: ' subjects' (ID: 14878), Prob: 0.0002
-Token: ' visual' (ID: 9124), Prob: 0.0002
-Token: ' stages' (ID: 17628), Prob: 0.0002
-Token: ' content' (ID: 2213), Prob: 0.0002
-Token: ' types' (ID: 4494), Prob: 0.0002
-Token: ' sights' (ID: 41166), Prob: 0.0002
-Token: ' pictures' (ID: 9185), Prob: 0.0001
-Token: ' experience' (ID: 3139), Prob: 0.0001
-Token: ' components' (ID: 6813), Prob: 0.0001
-Token: ' tears' (ID: 23139), Prob: 0.0001
-Token: ' topics' (ID: 13347), Prob: 0.0001
-Token: ' symptoms' (ID: 13495), Prob: 0.0001
-Token: ' symbols' (ID: 17738), Prob: 0.0001
-Token: ' locations' (ID: 10468), Prob: 0.0001
+Token: ' must' (ID: 1969), Prob: 0.0374
+Token: ' starts' (ID: 8471), Prob: 0.0084
+Token: ' begins' (ID: 12033), Prob: 0.0084
+Token: ' introduces' (ID: 38919), Prob: 0.0057
+Token: ' includes' (ID: 5646), Prob: 0.0027
+Token: ' sets' (ID: 7289), Prob: 0.0027
+Token: ' ends' (ID: 10335), Prob: 0.0025
+Token: ' describes' (ID: 16555), Prob: 0.0021
+Token: ' shows' (ID: 4933), Prob: 0.0020
+Token: ' focuses' (ID: 23497), Prob: 0.0014
+Token: ' involves' (ID: 17601), Prob: 0.0012
+Token: ' presents' (ID: 18404), Prob: 0.0011
+Token: ' opens' (ID: 15885), Prob: 0.0006
+Token: ' could' (ID: 1410), Prob: 0.0005
+Token: ' occurs' (ID: 13666), Prob: 0.0004
+Token: ' may' (ID: 1231), Prob: 0.0003
+Token: ' details' (ID: 3565), Prob: 0.0003
+Token: ' marks' (ID: 15423), Prob: 0.0003
+Token: ' needs' (ID: 3880), Prob: 0.0002
+Token: ' contains' (ID: 5610), Prob: 0.0002
+Token: ' takes' (ID: 4990), Prob: 0.0002
+Token: ' scene' (ID: 6109), Prob: 0.0002
+Token: ' establishes' (ID: 63564), Prob: 0.0002
+Token: ' introduction' (ID: 16800), Prob: 0.0002
+Token: ' centers' (ID: 18652), Prob: 0.0002
+Token: ' set' (ID: 738), Prob: 0.0002
+Token: ' might' (ID: 2578), Prob: 0.0002
+Token: ' provides' (ID: 5707), Prob: 0.0002
+Token: ' depicts' (ID: 61891), Prob: 0.0002
+Token: ' focus' (ID: 5244), Prob: 0.0002
+Token: ' would' (ID: 1035), Prob: 0.0002
+Token: ' features' (ID: 4419), Prob: 0.0002
+Token: ' tells' (ID: 10742), Prob: 0.0002
+Token: ' highlights' (ID: 21314), Prob: 0.0002
+Token: ' requires' (ID: 7460), Prob: 0.0001
+Token: ' meets' (ID: 20027), Prob: 0.0001
+Token: ' description' (ID: 4008), Prob: 0.0001
+Token: ' gives' (ID: 6696), Prob: 0.0001
+Token: ' follows' (ID: 11017), Prob: 0.0001
+Token: ' leads' (ID: 11508), Prob: 0.0001
+Token: ' beginning' (ID: 7167), Prob: 0.0001
+Token: ' represents' (ID: 10868), Prob: 0.0001
+Token: ' consists' (ID: 17167), Prob: 0.0001
+Token: ' reveals' (ID: 20992), Prob: 0.0001
+Token: ' corresponds' (ID: 33210), Prob: 0.0001
+Token: ' clearly' (ID: 9355), Prob: 0.0001
+Token: ' defines' (ID: 18653), Prob: 0.0001
+Token: ' reflects' (ID: 25963), Prob: 0.0001
+Token: ' explains' (ID: 14758), Prob: 0.0001
+Token: ' discusses' (ID: 34334), Prob: 0.0001
+Token: ' shall' (ID: 4880), Prob: 0.0001
+Token: ' covers' (ID: 14521), Prob: 0.0001
+Token: ' concludes' (ID: 44437), Prob: 0.0001
+Token: ' outlines' (ID: 49629), Prob: 0.0001
+Token: ' talks' (ID: 13433), Prob: 0.0001
 Token: ' acts' (ID: 14056), Prob: 0.0001
-Token: ' vivid' (ID: 42020), Prob: 0.0001
-Token: ' body' (ID: 2487), Prob: 0.0001
-Token: ' mental' (ID: 10502), Prob: 0.0001
-Token: ' movements' (ID: 19029), Prob: 0.0001
-Token: ' traits' (ID: 24055), Prob: 0.0001
-Token: ' time' (ID: 882), Prob: 0.0001
-Token: ' areas' (ID: 5671), Prob: 0.0001
-Token: ' incidents' (ID: 23546), Prob: 0.0001
-Token: ' gestures' (ID: 52392), Prob: 0.0001
-Token: ' memory' (ID: 4938), Prob: 0.0001
-Token: ' points' (ID: 3501), Prob: 0.0001
-Token: ' internal' (ID: 5306), Prob: 0.0001
-Token: ' causes' (ID: 11137), Prob: 0.0001
-Token: ' intensity' (ID: 20612), Prob: 0.0001
-Token: ' ways' (ID: 5510), Prob: 0.0001
-Token: ' descriptions' (ID: 27787), Prob: 0.0001
-Token: ' moment' (ID: 4445), Prob: 0.0001
-Token: ' connections' (ID: 13234), Prob: 0.0001
-Token: ' impacts' (ID: 24905), Prob: 0.0001
-Token: ' contents' (ID: 8794), Prob: 0.0001
-Token: ' circumstances' (ID: 13161), Prob: 0.0001
-Token: ' image' (ID: 2168), Prob: 0.0001
-Token: ' eyes' (ID: 6414), Prob: 0.0001
-Token: ' pain' (ID: 6646), Prob: 0.0001
-Token: ' sources' (ID: 8173), Prob: 0.0001
-Token: ' cues' (ID: 55916), Prob: 0.0001
-Token: ' sadness' (ID: 50878), Prob: 0.0000
-Token: ' roles' (ID: 12783), Prob: 0.0000
-Token: ' phrases' (ID: 31747), Prob: 0.0000
-Token: ' textures' (ID: 29853), Prob: 0.0000
-Token: ' references' (ID: 15057), Prob: 0.0000
-Token: ' sight' (ID: 13929), Prob: 0.0000
-Token: ' ingredients' (ID: 13966), Prob: 0.0000
-Token: ' contexts' (ID: 37597), Prob: 0.0000
+Token: ' serves' (ID: 17045), Prob: 0.0001
+Token: ' refers' (ID: 19257), Prob: 0.0001
+Token: ' start' (ID: 1191), Prob: 0.0001
+Token: ' indicates' (ID: 14807), Prob: 0.0001
+Token: ' setting' (ID: 6243), Prob: 0.0001
+Token: ' happens' (ID: 8573), Prob: 0.0000
+Token: ' introduce' (ID: 19131), Prob: 0.0000
+Token: ' deals' (ID: 12506), Prob: 0.0000
+Token: ' identifies' (ID: 35511), Prob: 0.0000
 
 == Ranked Concepts (Clusters) ==
-Rank 1 | Centroid: ' emotions' | Score: 0.5703
-  Tokens: [' emotions', ' emotional', ' emotion', ' tears', ' pain', ' sadness']
-Rank 2 | Centroid: ' traits' | Score: 0.0884
-  Tokens: [' details', ' aspects', ' qualities', ' stages', ' types', ' traits', ' roles']
-Rank 3 | Centroid: ' images' | Score: 0.0845
-  Tokens: [' images', ' imagery', ' pictures', ' image']
-Rank 4 | Centroid: ' moments' | Score: 0.0596
-  Tokens: [' moments', ' moment']
-Rank 5 | Centroid: ' components' | Score: 0.0457
-  Tokens: [' elements', ' parts', ' content', ' components', ' contents', ' ingredients']
-Rank 6 | Centroid: ' sensations' | Score: 0.0312
-  Tokens: [' feelings', ' sensations', ' gestures']
-Rank 7 | Centroid: ' things' | Score: 0.0248
-  Tokens: [' things']
-Rank 8 | Centroid: ' situations' | Score: 0.0232
-  Tokens: [' instances', ' situations', ' scenes', ' scenarios', ' circumstances', ' contexts']
-Rank 9 | Centroid: ' descriptions' | Score: 0.0194
-  Tokens: [' examples', ' descriptions', ' references']
-Rank 10 | Centroid: ' experiences' | Score: 0.0118
-  Tokens: [' experiences', ' experience']
-Rank 11 | Centroid: ' actions' | Score: 0.0112
-  Tokens: [' actions', ' reactions', ' activities', ' acts', ' movements', ' connections']
-Rank 12 | Centroid: ' memories' | Score: 0.0063
-  Tokens: [' memories', ' memory']
-Rank 13 | Centroid: ' ideas' | Score: 0.0054
-  Tokens: [' thoughts', ' expressions', ' ideas']
-Rank 14 | Centroid: ' sensory' | Score: 0.0038
-  Tokens: [' sensory', ' senses']
-Rank 15 | Centroid: ' incidents' | Score: 0.0029
-  Tokens: [' events', ' occurrences', ' incidents']
-Rank 16 | Centroid: ' topics' | Score: 0.0020
-  Tokens: [' objects', ' items', ' subjects', ' topics']
-Rank 17 | Centroid: ' times' | Score: 0.0019
-  Tokens: [' times', ' people', ' days', ' time', ' points']
-Rank 18 | Centroid: ' vivid' | Score: 0.0019
-  Tokens: [' metaph', ' physical', ' vivid', ' mental', ' intensity']
-Rank 19 | Centroid: ' visuals' | Score: 0.0013
-  Tokens: [' visuals', ' colors', ' visual']
-Rank 20 | Centroid: ' impacts' | Score: 0.0012
-  Tokens: [' triggers', ' effects', ' causes', ' impacts']
-Rank 21 | Centroid: ' reasons' | Score: 0.0004
-  Tokens: [' reasons', ' ways', ' sources']
-Rank 22 | Centroid: ' words' | Score: 0.0004
-  Tokens: [' words', ' symbols', ' phrases']
-Rank 23 | Centroid: ' locations' | Score: 0.0004
-  Tokens: [' places', ' locations', ' areas']
-Rank 24 | Centroid: ' sight' | Score: 0.0002
-  Tokens: [' sights', ' eyes', ' sight']
-Rank 25 | Centroid: ' symptoms' | Score: 0.0002
-  Tokens: [' symptoms', ' cues', ' textures']
-Rank 26 | Centroid: ' body' | Score: 0.0002
-  Tokens: [' body', ' internal']
+Rank 1 | Centroid: ' may' | Score: 0.0386
+  Tokens: [' must', ' could', ' may', ' might', ' would', ' shall']
+Rank 2 | Centroid: ' starts' | Score: 0.0194
+  Tokens: [' starts', ' begins', ' ends', ' beginning', ' start']
+Rank 3 | Centroid: ' introduce' | Score: 0.0060
+  Tokens: [' introduces', ' introduction', ' introduce']
+Rank 4 | Centroid: ' involves' | Score: 0.0044
+  Tokens: [' includes', ' involves', ' contains', ' requires', ' consists']
+Rank 5 | Centroid: ' provides' | Score: 0.0036
+  Tokens: [' shows', ' presents', ' provides', ' tells', ' gives', ' reveals']
+Rank 6 | Centroid: ' sets' | Score: 0.0029
+  Tokens: [' sets', ' set', ' setting']
+Rank 7 | Centroid: ' describes' | Score: 0.0027
+  Tokens: [' describes', ' depicts', ' represents', ' defines', ' reflects', ' explains', ' indicates', ' identifies']
+Rank 8 | Centroid: ' focuses' | Score: 0.0016
+  Tokens: [' focuses', ' focus']
+Rank 9 | Centroid: ' occurs' | Score: 0.0008
+  Tokens: [' occurs', ' follows', ' corresponds', ' refers', ' happens']
+Rank 10 | Centroid: ' opens' | Score: 0.0006
+  Tokens: [' opens', ' concludes']
+Rank 11 | Centroid: ' details' | Score: 0.0006
+  Tokens: [' details', ' features', ' description']
+Rank 12 | Centroid: ' serves' | Score: 0.0006
+  Tokens: [' takes', ' meets', ' leads', ' acts', ' serves']
+Rank 13 | Centroid: ' clearly' | Score: 0.0005
+  Tokens: [' marks', ' centers', ' clearly']
+Rank 14 | Centroid: ' needs' | Score: 0.0002
+  Tokens: [' needs']
+Rank 15 | Centroid: ' highlights' | Score: 0.0002
+  Tokens: [' highlights', ' outlines']
+Rank 16 | Centroid: ' scene' | Score: 0.0002
+  Tokens: [' scene']
+Rank 17 | Centroid: ' establishes' | Score: 0.0002
+  Tokens: [' establishes']
+Rank 18 | Centroid: ' discusses' | Score: 0.0002
+  Tokens: [' discusses', ' talks', ' deals']
+Rank 19 | Centroid: ' covers' | Score: 0.0001
+  Tokens: [' covers']
 
 **Chosen Concept:** Rank 1

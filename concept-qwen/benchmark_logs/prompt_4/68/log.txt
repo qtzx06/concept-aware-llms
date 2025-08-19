@@ -1,67 +1,144 @@
 --- Step 68 Log ---
 
 == Filtered Candidates ==
-Token: ' message' (ID: 1943), Prob: 0.9805
-Token: ' prompt' (ID: 9934), Prob: 0.0058
-Token: ' messages' (ID: 6605), Prob: 0.0010
-Token: '.message' (ID: 6698), Prob: 0.0004
-Token: ' Message' (ID: 4856), Prob: 0.0002
-Token: ' question' (ID: 3405), Prob: 0.0001
-Token: '(message' (ID: 7333), Prob: 0.0001
-Token: 'message' (ID: 1994), Prob: 0.0001
-Token: ' statement' (ID: 5114), Prob: 0.0000
-Token: '	message' (ID: 24753), Prob: 0.0000
-Token: ' answer' (ID: 4226), Prob: 0.0000
-Token: ':message' (ID: 91473), Prob: 0.0000
-Token: ' motif' (ID: 59512), Prob: 0.0000
-Token: ' point' (ID: 1459), Prob: 0.0000
-Token: ' mes' (ID: 10846), Prob: 0.0000
-Token: ' information' (ID: 1995), Prob: 0.0000
-Token: ' response' (ID: 2033), Prob: 0.0000
-Token: 'Message' (ID: 2052), Prob: 0.0000
-Token: ' theme' (ID: 6912), Prob: 0.0000
-Token: ' phrase' (ID: 17133), Prob: 0.0000
-Token: ' user' (ID: 1196), Prob: 0.0000
-Token: ' messaging' (ID: 29522), Prob: 0.0000
-Token: ' wording' (ID: 60227), Prob: 0.0000
-Token: ',message' (ID: 72783), Prob: 0.0000
-Token: '-message' (ID: 29332), Prob: 0.0000
-Token: ' MESSAGE' (ID: 40758), Prob: 0.0000
-Token: ' main' (ID: 1887), Prob: 0.0000
-Token: '$message' (ID: 42821), Prob: 0.0000
-Token: ' item' (ID: 1509), Prob: 0.0000
-Token: '_message' (ID: 6462), Prob: 0.0000
-Token: '/message' (ID: 50624), Prob: 0.0000
-Token: '=message' (ID: 87129), Prob: 0.0000
-Token: ' position' (ID: 2309), Prob: 0.0000
-Token: ' maximum' (ID: 7192), Prob: 0.0000
+Token: ' steep' (ID: 31266), Prob: 0.3340
+Token: ' trail' (ID: 8849), Prob: 0.1572
+Token: ' elevation' (ID: 26163), Prob: 0.1084
+Token: ' terrain' (ID: 24869), Prob: 0.0742
+Token: ' path' (ID: 1815), Prob: 0.0398
+Token: ' difficulty' (ID: 16829), Prob: 0.0310
+Token: ' weather' (ID: 9104), Prob: 0.0214
+Token: ' climb' (ID: 25367), Prob: 0.0214
+Token: ' physical' (ID: 6961), Prob: 0.0166
+Token: ' rocks' (ID: 23035), Prob: 0.0166
+Token: ' ascent' (ID: 74989), Prob: 0.0166
+Token: ' distance' (ID: 6010), Prob: 0.0114
+Token: ' trails' (ID: 32865), Prob: 0.0089
+Token: ' descent' (ID: 36952), Prob: 0.0078
+Token: ' altitude' (ID: 35858), Prob: 0.0069
+Token: ' rugged' (ID: 54783), Prob: 0.0069
+Token: ' trees' (ID: 12408), Prob: 0.0061
+Token: ' summit' (ID: 28948), Prob: 0.0045
+Token: ' long' (ID: 1293), Prob: 0.0042
+Token: ' cold' (ID: 9255), Prob: 0.0042
+Token: ' time' (ID: 882), Prob: 0.0039
+Token: ' route' (ID: 6021), Prob: 0.0037
+Token: ' rocky' (ID: 55517), Prob: 0.0037
+Token: ' incl' (ID: 18409), Prob: 0.0035
+Token: ' rough' (ID: 11165), Prob: 0.0029
+Token: ' thin' (ID: 15430), Prob: 0.0027
+Token: ' winding' (ID: 53726), Prob: 0.0021
+Token: ' view' (ID: 1651), Prob: 0.0020
+Token: ' rock' (ID: 6946), Prob: 0.0020
+Token: ' slope' (ID: 30232), Prob: 0.0020
+Token: ' scenery' (ID: 50231), Prob: 0.0016
+Token: ' slopes' (ID: 59008), Prob: 0.0015
+Token: ' wind' (ID: 9956), Prob: 0.0014
+Token: ' mountain' (ID: 16301), Prob: 0.0014
+Token: ' mountains' (ID: 23501), Prob: 0.0014
+Token: ' length' (ID: 3084), Prob: 0.0013
+Token: ' snow' (ID: 11794), Prob: 0.0013
+Token: ' journey' (ID: 11618), Prob: 0.0012
+Token: ' trek' (ID: 44588), Prob: 0.0012
+Token: ' height' (ID: 2608), Prob: 0.0011
+Token: ' narrow' (ID: 15026), Prob: 0.0011
+Token: ' hills' (ID: 34131), Prob: 0.0011
+Token: ' sun' (ID: 7015), Prob: 0.0011
+Token: ' landscape' (ID: 18414), Prob: 0.0011
+Token: ' uphill' (ID: 76658), Prob: 0.0011
+Token: ' gradual' (ID: 52622), Prob: 0.0009
+Token: ' high' (ID: 1550), Prob: 0.0009
+Token: ' water' (ID: 3015), Prob: 0.0009
+Token: ' forest' (ID: 13638), Prob: 0.0009
+Token: ' number' (ID: 1372), Prob: 0.0008
+Token: ' temperature' (ID: 9315), Prob: 0.0008
+Token: ' sunrise' (ID: 63819), Prob: 0.0008
+Token: ' first' (ID: 1156), Prob: 0.0008
+Token: ' group' (ID: 1874), Prob: 0.0007
+Token: ' fresh' (ID: 7722), Prob: 0.0007
+Token: ' gravel' (ID: 41523), Prob: 0.0007
+Token: ' difficult' (ID: 5000), Prob: 0.0006
+Token: ' views' (ID: 6194), Prob: 0.0006
+Token: ' tight' (ID: 10296), Prob: 0.0006
+Token: ' tough' (ID: 11045), Prob: 0.0006
+Token: ' cliffs' (ID: 85849), Prob: 0.0006
+Token: ' peak' (ID: 16162), Prob: 0.0005
+Token: ' challenging' (ID: 17003), Prob: 0.0005
+Token: ' hike' (ID: 34231), Prob: 0.0005
+Token: ' environment' (ID: 4573), Prob: 0.0005
+Token: ' fatigue' (ID: 35609), Prob: 0.0005
+Token: ' tired' (ID: 19227), Prob: 0.0004
+Token: ' hiking' (ID: 37364), Prob: 0.0004
+Token: ' stren' (ID: 92219), Prob: 0.0004
+Token: ' need' (ID: 1184), Prob: 0.0004
+Token: ' dirt' (ID: 25284), Prob: 0.0004
+Token: ' climbing' (ID: 29508), Prob: 0.0004
+Token: ' pine' (ID: 33597), Prob: 0.0004
+Token: ' surroundings' (ID: 39090), Prob: 0.0004
+Token: ' track' (ID: 3754), Prob: 0.0004
+Token: ' quick' (ID: 3974), Prob: 0.0004
+Token: ' early' (ID: 4124), Prob: 0.0004
+Token: ' tre' (ID: 4258), Prob: 0.0004
+Token: ' direction' (ID: 5106), Prob: 0.0004
+Token: ' scenic' (ID: 60981), Prob: 0.0004
+Token: ' slow' (ID: 6301), Prob: 0.0003
+Token: ' terr' (ID: 7170), Prob: 0.0003
+Token: ' ease' (ID: 14219), Prob: 0.0003
+Token: ' road' (ID: 5636), Prob: 0.0003
+Token: ' equipment' (ID: 7096), Prob: 0.0003
+Token: ' pace' (ID: 17857), Prob: 0.0003
+Token: ' approach' (ID: 5486), Prob: 0.0003
+Token: ' changing' (ID: 10018), Prob: 0.0003
+Token: ' slippery' (ID: 70572), Prob: 0.0003
+Token: ' low' (ID: 3347), Prob: 0.0003
+Token: ' duration' (ID: 8090), Prob: 0.0003
+Token: ' technical' (ID: 10916), Prob: 0.0003
+Token: ' paths' (ID: 12716), Prob: 0.0003
+Token: ' lack' (ID: 6853), Prob: 0.0003
+Token: ' peaks' (ID: 38935), Prob: 0.0003
+Token: ' uneven' (ID: 60337), Prob: 0.0003
+Token: ' trip' (ID: 8411), Prob: 0.0002
 
 == Ranked Concepts (Clusters) ==
-Rank 1 | Centroid: ' message' | Score: 0.9844
-  Tokens: [' message', ' messages', '.message', ' Message', '(message', 'message', '\tmessage', 'Message', ' messaging', '-message', ' MESSAGE', '_message']
-Rank 2 | Centroid: ' prompt' | Score: 0.0058
-  Tokens: [' prompt']
-Rank 3 | Centroid: ' question' | Score: 0.0001
-  Tokens: [' question']
-Rank 4 | Centroid: ' phrase' | Score: 0.0001
-  Tokens: [' statement', ' phrase', ' wording']
-Rank 5 | Centroid: '/message' | Score: 0.0001
-  Tokens: [':message', ',message', '$message', '/message', '=message']
-Rank 6 | Centroid: ' answer' | Score: 0.0000
-  Tokens: [' answer', ' response']
-Rank 7 | Centroid: ' motif' | Score: 0.0000
-  Tokens: [' motif', ' theme']
-Rank 8 | Centroid: ' point' | Score: 0.0000
-  Tokens: [' point', ' position']
-Rank 9 | Centroid: ' user' | Score: 0.0000
-  Tokens: [' user', ' item']
-Rank 10 | Centroid: ' mes' | Score: 0.0000
-  Tokens: [' mes']
-Rank 11 | Centroid: ' information' | Score: 0.0000
-  Tokens: [' information']
-Rank 12 | Centroid: ' main' | Score: 0.0000
-  Tokens: [' main']
-Rank 13 | Centroid: ' maximum' | Score: 0.0000
-  Tokens: [' maximum']
+Rank 1 | Centroid: ' slope' | Score: 0.3379
+  Tokens: [' steep', ' slope', ' slopes', ' peak', ' peaks']
+Rank 2 | Centroid: ' trail' | Score: 0.2119
+  Tokens: [' trail', ' path', ' trails', ' route', ' journey', ' track', ' road', ' paths', ' trip']
+Rank 3 | Centroid: ' altitude' | Score: 0.1162
+  Tokens: [' elevation', ' altitude', ' height']
+Rank 4 | Centroid: ' rocky' | Score: 0.1050
+  Tokens: [' terrain', ' rocks', ' rugged', ' rocky', ' rock', ' gravel', ' dirt', ' terr']
+Rank 5 | Centroid: ' climb' | Score: 0.0483
+  Tokens: [' climb', ' ascent', ' descent', ' trek', ' hike', ' hiking', ' climbing']
+Rank 6 | Centroid: ' difficult' | Score: 0.0364
+  Tokens: [' difficulty', ' rough', ' difficult', ' tough', ' challenging', ' ease', ' technical']
+Rank 7 | Centroid: ' snow' | Score: 0.0260
+  Tokens: [' weather', ' wind', ' snow', ' sun', ' sunrise']
+Rank 8 | Centroid: ' water' | Score: 0.0194
+  Tokens: [' physical', ' water', ' first', ' group', ' need']
+Rank 9 | Centroid: ' duration' | Score: 0.0184
+  Tokens: [' distance', ' time', ' length', ' number', ' direction', ' pace', ' duration']
+Rank 10 | Centroid: ' low' | Score: 0.0159
+  Tokens: [' long', ' cold', ' thin', ' narrow', ' high', ' fresh', ' tight', ' quick', ' early', ' slow', ' low']
+Rank 11 | Centroid: ' forest' | Score: 0.0078
+  Tokens: [' trees', ' forest', ' pine', ' tre']
+Rank 12 | Centroid: ' summit' | Score: 0.0055
+  Tokens: [' summit', ' uphill']
+Rank 13 | Centroid: ' mountains' | Score: 0.0046
+  Tokens: [' mountain', ' mountains', ' hills', ' cliffs']
+Rank 14 | Centroid: ' scenery' | Score: 0.0040
+  Tokens: [' scenery', ' landscape', ' environment', ' surroundings', ' scenic']
+Rank 15 | Centroid: ' incl' | Score: 0.0035
+  Tokens: [' incl']
+Rank 16 | Centroid: ' tired' | Score: 0.0035
+  Tokens: [' winding', ' fatigue', ' tired', ' stren']
+Rank 17 | Centroid: ' view' | Score: 0.0029
+  Tokens: [' view', ' views', ' approach']
+Rank 18 | Centroid: ' gradual' | Score: 0.0015
+  Tokens: [' gradual', ' slippery', ' uneven']
+Rank 19 | Centroid: ' temperature' | Score: 0.0012
+  Tokens: [' temperature', ' equipment']
+Rank 20 | Centroid: ' changing' | Score: 0.0005
+  Tokens: [' changing', ' lack']
 
 **Chosen Concept:** Rank 1

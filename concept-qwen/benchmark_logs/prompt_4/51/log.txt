@@ -1,68 +1,156 @@
 --- Step 51 Log ---
 
 == Filtered Candidates ==
-Token: ' prompt' (ID: 9934), Prob: 0.9609
-Token: ' message' (ID: 1943), Prob: 0.0013
-Token: ' Prompt' (ID: 59501), Prob: 0.0006
-Token: ' prompts' (ID: 50932), Prob: 0.0003
-Token: '(prompt' (ID: 72253), Prob: 0.0002
-Token: 'prompt' (ID: 40581), Prob: 0.0002
-Token: ' question' (ID: 3405), Prob: 0.0001
-Token: ' potential' (ID: 4650), Prob: 0.0000
-Token: ' prompted' (ID: 28646), Prob: 0.0000
-Token: 'Prompt' (ID: 54615), Prob: 0.0000
-Token: ' within' (ID: 2878), Prob: 0.0000
-Token: ' hint' (ID: 13012), Prob: 0.0000
-Token: ' prompting' (ID: 49645), Prob: 0.0000
-Token: ' example' (ID: 3110), Prob: 0.0000
-Token: '_prompt' (ID: 61421), Prob: 0.0000
-Token: ' bold' (ID: 13939), Prob: 0.0000
-Token: ' motif' (ID: 59512), Prob: 0.0000
-Token: ' list' (ID: 1140), Prob: 0.0000
-Token: ' point' (ID: 1459), Prob: 0.0000
-Token: ' prom' (ID: 2706), Prob: 0.0000
-Token: ' keyword' (ID: 16174), Prob: 0.0000
-Token: ' wording' (ID: 60227), Prob: 0.0000
-Token: ' post' (ID: 1736), Prob: 0.0000
-Token: ' theme' (ID: 6912), Prob: 0.0000
-Token: ' promise' (ID: 11222), Prob: 0.0000
-Token: ' format' (ID: 3561), Prob: 0.0000
-Token: ' Please' (ID: 5209), Prob: 0.0000
-Token: ' topic' (ID: 8544), Prob: 0.0000
-Token: '.prompt' (ID: 65399), Prob: 0.0000
+Token: ' make' (ID: 1281), Prob: 0.5273
+Token: ' engage' (ID: 16579), Prob: 0.2490
+Token: ' paint' (ID: 6177), Prob: 0.0630
+Token: ' hook' (ID: 9704), Prob: 0.0337
+Token: ' immer' (ID: 25531), Prob: 0.0298
+Token: ' keep' (ID: 2506), Prob: 0.0232
+Token: ' describe' (ID: 7512), Prob: 0.0124
+Token: ' evoke' (ID: 94163), Prob: 0.0067
+Token: ' capture' (ID: 12322), Prob: 0.0059
+Token: ' draw' (ID: 4038), Prob: 0.0040
+Token: ' capt' (ID: 6427), Prob: 0.0040
+Token: ' attract' (ID: 9320), Prob: 0.0040
+Token: ' appeal' (ID: 14303), Prob: 0.0036
+Token: ' include' (ID: 2924), Prob: 0.0031
+Token: ' give' (ID: 2968), Prob: 0.0028
+Token: ' bring' (ID: 4446), Prob: 0.0028
+Token: ' highlight' (ID: 11167), Prob: 0.0028
+Token: ' create' (ID: 1855), Prob: 0.0022
+Token: ' grab' (ID: 11633), Prob: 0.0022
+Token: ' convey' (ID: 20001), Prob: 0.0022
+Token: ' show' (ID: 1473), Prob: 0.0017
+Token: ' transport' (ID: 7557), Prob: 0.0017
+Token: ' enhance' (ID: 18379), Prob: 0.0017
+Token: ' help' (ID: 1492), Prob: 0.0009
+Token: ' vivid' (ID: 42020), Prob: 0.0007
+Token: ' set' (ID: 738), Prob: 0.0005
+Token: ' add' (ID: 912), Prob: 0.0004
+Token: ' imm' (ID: 4893), Prob: 0.0004
+Token: ' let' (ID: 1077), Prob: 0.0003
+Token: ' get' (ID: 633), Prob: 0.0003
+Token: ' ent' (ID: 1197), Prob: 0.0003
+Token: ' entertain' (ID: 45176), Prob: 0.0002
+Token: ' take' (ID: 1896), Prob: 0.0002
+Token: ' involve' (ID: 21058), Prob: 0.0002
+Token: ' build' (ID: 1936), Prob: 0.0002
+Token: ' imagine' (ID: 12793), Prob: 0.0002
+Token: ' write' (ID: 3270), Prob: 0.0001
+Token: ' catch' (ID: 2287), Prob: 0.0001
+Token: ' Eng' (ID: 3285), Prob: 0.0001
+Token: ' ground' (ID: 4910), Prob: 0.0001
+Token: ' tell' (ID: 3291), Prob: 0.0001
+Token: ' enrich' (ID: 30418), Prob: 0.0001
+Token: ' depict' (ID: 42404), Prob: 0.0001
+Token: ' really' (ID: 2167), Prob: 0.0001
+Token: ' picture' (ID: 6802), Prob: 0.0001
+Token: ' hold' (ID: 3331), Prob: 0.0001
+Token: ' detail' (ID: 7716), Prob: 0.0001
+Token: ' portray' (ID: 24878), Prob: 0.0001
+Token: ' emphasize' (ID: 45932), Prob: 0.0001
+Token: ' hit' (ID: 4201), Prob: 0.0001
+Token: ' provide' (ID: 3410), Prob: 0.0001
+Token: ' illustrate' (ID: 40368), Prob: 0.0001
+Token: ' intrigue' (ID: 80513), Prob: 0.0001
+Token: ' impress' (ID: 9897), Prob: 0.0001
+Token: ' pump' (ID: 13834), Prob: 0.0001
+Token: ' height' (ID: 2608), Prob: 0.0001
+Token: ' pull' (ID: 6815), Prob: 0.0001
+Token: ' engaging' (ID: 22570), Prob: 0.0001
+Token: ' spark' (ID: 15186), Prob: 0.0001
+Token: ' showcase' (ID: 34783), Prob: 0.0000
+Token: ' interest' (ID: 2734), Prob: 0.0000
+Token: ' fuel' (ID: 10416), Prob: 0.0000
+Token: ' inspire' (ID: 30640), Prob: 0.0000
+Token: ' visualize' (ID: 50087), Prob: 0.0000
+Token: ' guide' (ID: 8474), Prob: 0.0000
+Token: ' come' (ID: 2525), Prob: 0.0000
+Token: ' fill' (ID: 5155), Prob: 0.0000
+Token: ' readers' (ID: 12726), Prob: 0.0000
+Token: ' inform' (ID: 6051), Prob: 0.0000
+Token: ' maintain' (ID: 10306), Prob: 0.0000
+Token: ' invite' (ID: 21399), Prob: 0.0000
+Token: ' please' (ID: 4486), Prob: 0.0000
+Token: ' explain' (ID: 10339), Prob: 0.0000
+Token: ' person' (ID: 1697), Prob: 0.0000
+Token: ' mention' (ID: 6286), Prob: 0.0000
+Token: ' makes' (ID: 3643), Prob: 0.0000
+Token: ' pick' (ID: 3735), Prob: 0.0000
+Token: ' pack' (ID: 3769), Prob: 0.0000
+Token: ' inf' (ID: 4132), Prob: 0.0000
+Token: ' connect' (ID: 4564), Prob: 0.0000
+Token: ' making' (ID: 3259), Prob: 0.0000
+Token: ' inv' (ID: 1529), Prob: 0.0000
+Token: ' feel' (ID: 2666), Prob: 0.0000
+Token: ' envelop' (ID: 53185), Prob: 0.0000
+Token: ' paints' (ID: 56848), Prob: 0.0000
+Token: ' stay' (ID: 4717), Prob: 0.0000
+Token: ' cater' (ID: 27968), Prob: 0.0000
+Token: ' enchant' (ID: 46925), Prob: 0.0000
+Token: ' drive' (ID: 6541), Prob: 0.0000
+Token: ' dazz' (ID: 59918), Prob: 0.0000
+Token: ' leave' (ID: 5274), Prob: 0.0000
+Token: ' trigger' (ID: 8183), Prob: 0.0000
+Token: ' awaken' (ID: 41418), Prob: 0.0000
+Token: ' characterize' (ID: 69655), Prob: 0.0000
+Token: ' establish' (ID: 5695), Prob: 0.0000
 
 == Ranked Concepts (Clusters) ==
-Rank 1 | Centroid: 'Prompt' | Score: 0.9609
-  Tokens: [' prompt', ' Prompt', '(prompt', 'prompt', 'Prompt', '_prompt', '.prompt']
-Rank 2 | Centroid: ' message' | Score: 0.0013
-  Tokens: [' message']
-Rank 3 | Centroid: ' prompts' | Score: 0.0003
-  Tokens: [' prompts', ' prompted', ' prompting']
-Rank 4 | Centroid: ' potential' | Score: 0.0001
-  Tokens: [' potential', ' within']
-Rank 5 | Centroid: ' theme' | Score: 0.0001
-  Tokens: [' motif', ' theme', ' topic']
-Rank 6 | Centroid: ' question' | Score: 0.0001
-  Tokens: [' question']
-Rank 7 | Centroid: ' bold' | Score: 0.0000
-  Tokens: [' bold', ' Please']
-Rank 8 | Centroid: ' prom' | Score: 0.0000
-  Tokens: [' prom', ' promise']
-Rank 9 | Centroid: ' hint' | Score: 0.0000
-  Tokens: [' hint']
-Rank 10 | Centroid: ' example' | Score: 0.0000
-  Tokens: [' example']
-Rank 11 | Centroid: ' list' | Score: 0.0000
-  Tokens: [' list']
-Rank 12 | Centroid: ' point' | Score: 0.0000
-  Tokens: [' point']
-Rank 13 | Centroid: ' wording' | Score: 0.0000
-  Tokens: [' wording']
-Rank 14 | Centroid: ' keyword' | Score: 0.0000
-  Tokens: [' keyword']
-Rank 15 | Centroid: ' post' | Score: 0.0000
-  Tokens: [' post']
-Rank 16 | Centroid: ' format' | Score: 0.0000
-  Tokens: [' format']
+Rank 1 | Centroid: ' make' | Score: 0.5273
+  Tokens: [' make', ' makes', ' making']
+Rank 2 | Centroid: ' engaging' | Score: 0.2490
+  Tokens: [' engage', ' Eng', ' enrich', ' engaging', ' envelop', ' enchant']
+Rank 3 | Centroid: ' paint' | Score: 0.0630
+  Tokens: [' paint', ' picture', ' paints']
+Rank 4 | Centroid: ' trigger' | Score: 0.0339
+  Tokens: [' hook', ' pull', ' spark', ' drive', ' trigger']
+Rank 5 | Centroid: ' immer' | Score: 0.0302
+  Tokens: [' immer', ' imm']
+Rank 6 | Centroid: ' keep' | Score: 0.0233
+  Tokens: [' keep', ' hold', ' maintain', ' stay']
+Rank 7 | Centroid: ' inspire' | Score: 0.0143
+  Tokens: [' evoke', ' attract', ' appeal', ' inspire', ' invite', ' awaken']
+Rank 8 | Centroid: ' depict' | Score: 0.0128
+  Tokens: [' describe', ' depict', ' portray', ' emphasize', ' illustrate', ' showcase', ' visualize', ' characterize']
+Rank 9 | Centroid: ' capt' | Score: 0.0099
+  Tokens: [' capture', ' capt', ' cater']
+Rank 10 | Centroid: ' provide' | Score: 0.0078
+  Tokens: [' give', ' bring', ' create', ' provide', ' come']
+Rank 11 | Centroid: ' involve' | Score: 0.0050
+  Tokens: [' include', ' enhance', ' involve', ' establish']
+Rank 12 | Centroid: ' highlight' | Score: 0.0046
+  Tokens: [' highlight', ' show', ' detail', ' explain', ' mention']
+Rank 13 | Centroid: ' write' | Score: 0.0044
+  Tokens: [' draw', ' build', ' write', ' fill']
+Rank 14 | Centroid: ' convey' | Score: 0.0038
+  Tokens: [' convey', ' transport']
+Rank 15 | Centroid: ' grab' | Score: 0.0024
+  Tokens: [' grab', ' catch', ' hit', ' pick']
+Rank 16 | Centroid: ' get' | Score: 0.0014
+  Tokens: [' set', ' add', ' get', ' take']
+Rank 17 | Centroid: ' help' | Score: 0.0009
+  Tokens: [' help']
+Rank 18 | Centroid: ' vivid' | Score: 0.0007
+  Tokens: [' vivid', ' readers']
+Rank 19 | Centroid: ' let' | Score: 0.0005
+  Tokens: [' let', ' tell', ' please']
+Rank 20 | Centroid: ' dazz' | Score: 0.0004
+  Tokens: [' entertain', ' intrigue', ' impress', ' dazz']
+Rank 21 | Centroid: ' inf' | Score: 0.0003
+  Tokens: [' ent', ' inform', ' inf', ' inv']
+Rank 22 | Centroid: ' guide' | Score: 0.0003
+  Tokens: [' ground', ' height', ' interest', ' guide']
+Rank 23 | Centroid: ' imagine' | Score: 0.0002
+  Tokens: [' imagine']
+Rank 24 | Centroid: ' really' | Score: 0.0001
+  Tokens: [' really', ' person']
+Rank 25 | Centroid: ' pump' | Score: 0.0001
+  Tokens: [' pump', ' fuel', ' pack']
+Rank 26 | Centroid: ' feel' | Score: 0.0000
+  Tokens: [' feel', ' leave']
+Rank 27 | Centroid: ' connect' | Score: 0.0000
+  Tokens: [' connect']
 
 **Chosen Concept:** Rank 1

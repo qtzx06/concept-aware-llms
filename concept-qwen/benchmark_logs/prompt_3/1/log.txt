@@ -1,45 +1,65 @@
 --- Step 1 Log ---
 
 == Filtered Candidates ==
-Token: 'Let' (ID: 10061), Prob: 0.0199
-Token: 'Answer' (ID: 16141), Prob: 0.0146
-Token: ' Let' (ID: 6771), Prob: 0.0045
-Token: ' Please' (ID: 5209), Prob: 0.0031
-Token: ' Based' (ID: 20205), Prob: 0.0027
-Token: 'Based' (ID: 28715), Prob: 0.0027
-Token: 'Yes' (ID: 9454), Prob: 0.0025
-Token: 'Please' (ID: 5501), Prob: 0.0024
-Token: 'Okay' (ID: 32313), Prob: 0.0019
-Token: ' Answer' (ID: 21806), Prob: 0.0014
-Token: 'Every' (ID: 11510), Prob: 0.0014
-Token: 'Maybe' (ID: 21390), Prob: 0.0014
-Token: 'Word' (ID: 10879), Prob: 0.0012
-Token: 'Since' (ID: 12549), Prob: 0.0012
-Token: 'Therefore' (ID: 54815), Prob: 0.0012
-Token: ' Question' (ID: 15846), Prob: 0.0011
+Token: 'Okay' (ID: 32313), Prob: 0.0559
+Token: 'Alright' (ID: 71486), Prob: 0.0219
+Token: '"The' (ID: 10022), Prob: 0.0103
+Token: '"You' (ID: 21608), Prob: 0.0059
+Token: '"As' (ID: 47140), Prob: 0.0059
+Token: '"In' (ID: 32603), Prob: 0.0052
+Token: 'Well' (ID: 11395), Prob: 0.0041
+Token: 'Let' (ID: 10061), Prob: 0.0026
+Token: 'Story' (ID: 17938), Prob: 0.0026
+Token: 'Hello' (ID: 9707), Prob: 0.0022
+Token: '"But' (ID: 41413), Prob: 0.0020
+Token: 'Tell' (ID: 40451), Prob: 0.0019
+Token: '"He' (ID: 26326), Prob: 0.0015
+Token: 'Sure' (ID: 39814), Prob: 0.0014
+Token: 'First' (ID: 5338), Prob: 0.0013
+Token: 'Hmm' (ID: 80022), Prob: 0.0012
+Token: '"It' (ID: 12077), Prob: 0.0012
+Token: '"We' (ID: 10713), Prob: 0.0010
+Token: 'Hey' (ID: 18665), Prob: 0.0010
+Token: 'Thanks' (ID: 12658), Prob: 0.0010
+Token: 'Dear' (ID: 30665), Prob: 0.0009
+Token: '"Oh' (ID: 53905), Prob: 0.0009
+Token: 'Since' (ID: 12549), Prob: 0.0008
+Token: 'Thank' (ID: 13060), Prob: 0.0008
+Token: 'Think' (ID: 38687), Prob: 0.0008
+Token: 'One' (ID: 3966), Prob: 0.0008
+Token: 'Yes' (ID: 9454), Prob: 0.0008
+Token: 'Good' (ID: 15216), Prob: 0.0008
+Token: '"What' (ID: 30337), Prob: 0.0008
+Token: 'Harry' (ID: 41298), Prob: 0.0008
+Token: 'Use' (ID: 10253), Prob: 0.0007
+Token: 'Response' (ID: 2582), Prob: 0.0007
+Token: 'Wait' (ID: 14190), Prob: 0.0007
+Token: 'Two' (ID: 11613), Prob: 0.0007
 
 == Ranked Concepts (Clusters) ==
-Rank 1 | Centroid: 'Let' | Score: 0.0244
-  Tokens: ['Let', ' Let']
-Rank 2 | Centroid: 'Answer' | Score: 0.0160
-  Tokens: ['Answer', ' Answer']
-Rank 3 | Centroid: ' Please' | Score: 0.0054
-  Tokens: [' Please', 'Please']
-Rank 4 | Centroid: ' Based' | Score: 0.0054
-  Tokens: [' Based', 'Based']
-Rank 5 | Centroid: 'Yes' | Score: 0.0025
-  Tokens: ['Yes']
-Rank 6 | Centroid: 'Since' | Score: 0.0024
-  Tokens: ['Since', 'Therefore']
-Rank 7 | Centroid: 'Okay' | Score: 0.0019
-  Tokens: ['Okay']
-Rank 8 | Centroid: 'Every' | Score: 0.0014
-  Tokens: ['Every']
-Rank 9 | Centroid: 'Maybe' | Score: 0.0014
-  Tokens: ['Maybe']
-Rank 10 | Centroid: 'Word' | Score: 0.0012
-  Tokens: ['Word']
-Rank 11 | Centroid: ' Question' | Score: 0.0011
-  Tokens: [' Question']
+Rank 1 | Centroid: 'Okay' | Score: 0.0791
+  Tokens: ['Okay', 'Alright', 'Hmm']
+Rank 2 | Centroid: '"It' | Score: 0.0347
+  Tokens: ['"The', '"You', '"As', '"In', '"But', '"He', '"It', '"We', '"Oh', '"What']
+Rank 3 | Centroid: 'Well' | Score: 0.0049
+  Tokens: ['Well', 'Good']
+Rank 4 | Centroid: 'Story' | Score: 0.0045
+  Tokens: ['Story', 'Tell']
+Rank 5 | Centroid: 'Let' | Score: 0.0042
+  Tokens: ['Let', 'Since', 'Wait']
+Rank 6 | Centroid: 'Hey' | Score: 0.0041
+  Tokens: ['Hello', 'Hey', 'Dear']
+Rank 7 | Centroid: 'One' | Score: 0.0028
+  Tokens: ['First', 'One', 'Two']
+Rank 8 | Centroid: 'Sure' | Score: 0.0022
+  Tokens: ['Sure', 'Yes']
+Rank 9 | Centroid: 'Thanks' | Score: 0.0018
+  Tokens: ['Thanks', 'Thank']
+Rank 10 | Centroid: 'Think' | Score: 0.0016
+  Tokens: ['Think', 'Use']
+Rank 11 | Centroid: 'Harry' | Score: 0.0008
+  Tokens: ['Harry']
+Rank 12 | Centroid: 'Response' | Score: 0.0007
+  Tokens: ['Response']
 
 **Chosen Concept:** Rank 1

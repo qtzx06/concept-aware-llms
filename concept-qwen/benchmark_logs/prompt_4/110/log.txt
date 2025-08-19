@@ -1,74 +1,158 @@
 --- Step 110 Log ---
 
 == Filtered Candidates ==
-Token: ' message' (ID: 1943), Prob: 0.9961
-Token: ' prompt' (ID: 9934), Prob: 0.0015
-Token: ' messages' (ID: 6605), Prob: 0.0003
-Token: '.message' (ID: 6698), Prob: 0.0003
-Token: ' question' (ID: 3405), Prob: 0.0001
-Token: ' Message' (ID: 4856), Prob: 0.0001
-Token: '(message' (ID: 7333), Prob: 0.0001
-Token: 'message' (ID: 1994), Prob: 0.0001
-Token: '	message' (ID: 24753), Prob: 0.0000
-Token: ' mes' (ID: 10846), Prob: 0.0000
-Token: ' statement' (ID: 5114), Prob: 0.0000
-Token: ':message' (ID: 91473), Prob: 0.0000
-Token: ',message' (ID: 72783), Prob: 0.0000
-Token: '-message' (ID: 29332), Prob: 0.0000
-Token: '$message' (ID: 42821), Prob: 0.0000
-Token: 'Message' (ID: 2052), Prob: 0.0000
-Token: ' answer' (ID: 4226), Prob: 0.0000
-Token: ' theme' (ID: 6912), Prob: 0.0000
-Token: '=message' (ID: 87129), Prob: 0.0000
-Token: ' motif' (ID: 59512), Prob: 0.0000
-Token: ' information' (ID: 1995), Prob: 0.0000
-Token: '_message' (ID: 6462), Prob: 0.0000
-Token: ' messaging' (ID: 29522), Prob: 0.0000
-Token: ' phrase' (ID: 17133), Prob: 0.0000
-Token: ' MESSAGE' (ID: 40758), Prob: 0.0000
-Token: ' response' (ID: 2033), Prob: 0.0000
-Token: '/message' (ID: 50624), Prob: 0.0000
-Token: ' user' (ID: 1196), Prob: 0.0000
-Token: ' point' (ID: 1459), Prob: 0.0000
-Token: ' position' (ID: 2309), Prob: 0.0000
-Token: '.Message' (ID: 8472), Prob: 0.0000
-Token: '<message' (ID: 83747), Prob: 0.0000
-Token: ' month' (ID: 2254), Prob: 0.0000
-Token: ' lesson' (ID: 17755), Prob: 0.0000
-Token: ' moment' (ID: 4445), Prob: 0.0000
-Token: ' promise' (ID: 11222), Prob: 0.0000
-Token: ' main' (ID: 1887), Prob: 0.0000
-Token: ' maximum' (ID: 7192), Prob: 0.0000
-Token: ' mate' (ID: 29176), Prob: 0.0000
+Token: ' essence' (ID: 27491), Prob: 0.9648
+Token: ' excitement' (ID: 27262), Prob: 0.0137
+Token: ' atmosphere' (ID: 16566), Prob: 0.0039
+Token: ' key' (ID: 1376), Prob: 0.0035
+Token: ' spirit' (ID: 8913), Prob: 0.0035
+Token: ' intended' (ID: 10602), Prob: 0.0013
+Token: ' tone' (ID: 16232), Prob: 0.0010
+Token: ' adventure' (ID: 17943), Prob: 0.0009
+Token: ' original' (ID: 4024), Prob: 0.0008
+Token: ' description' (ID: 4008), Prob: 0.0007
+Token: ' vivid' (ID: 42020), Prob: 0.0006
+Token: ' details' (ID: 3565), Prob: 0.0005
+Token: ' described' (ID: 7481), Prob: 0.0005
+Token: ' story' (ID: 3364), Prob: 0.0005
+Token: ' theme' (ID: 6912), Prob: 0.0003
+Token: ' adventurous' (ID: 67088), Prob: 0.0003
+Token: ' journey' (ID: 11618), Prob: 0.0003
+Token: ' main' (ID: 1887), Prob: 0.0002
+Token: ' mood' (ID: 19671), Prob: 0.0002
+Token: ' charm' (ID: 31253), Prob: 0.0002
+Token: ' energy' (ID: 4802), Prob: 0.0002
+Token: ' beauty' (ID: 13143), Prob: 0.0001
+Token: ' elements' (ID: 5424), Prob: 0.0001
+Token: ' enthusiasm' (ID: 35132), Prob: 0.0001
+Token: ' urgency' (ID: 53817), Prob: 0.0001
+Token: ' initial' (ID: 2856), Prob: 0.0001
+Token: ' ambiance' (ID: 94573), Prob: 0.0001
+Token: ' narrative' (ID: 19221), Prob: 0.0001
+Token: ' emotions' (ID: 21261), Prob: 0.0001
+Token: ' imagery' (ID: 40445), Prob: 0.0001
+Token: ' allure' (ID: 87403), Prob: 0.0001
+Token: ' purpose' (ID: 7428), Prob: 0.0001
+Token: ' destination' (ID: 9106), Prob: 0.0001
+Token: ' vibe' (ID: 46711), Prob: 0.0001
+Token: ' scenic' (ID: 60981), Prob: 0.0001
+Token: ' significance' (ID: 25361), Prob: 0.0001
+Token: ' heart' (ID: 4746), Prob: 0.0001
+Token: ' thrill' (ID: 53804), Prob: 0.0001
+Token: ' intensity' (ID: 20612), Prob: 0.0001
+Token: ' experience' (ID: 3139), Prob: 0.0001
+Token: ' intent' (ID: 7385), Prob: 0.0001
+Token: ' appeal' (ID: 14303), Prob: 0.0001
+Token: ' image' (ID: 2168), Prob: 0.0000
+Token: ' visit' (ID: 3947), Prob: 0.0000
+Token: ' travel' (ID: 5821), Prob: 0.0000
+Token: ' quick' (ID: 3974), Prob: 0.0000
+Token: ' highlights' (ID: 21314), Prob: 0.0000
+Token: ' drama' (ID: 19584), Prob: 0.0000
+Token: ' traveler' (ID: 62765), Prob: 0.0000
+Token: ' three' (ID: 2326), Prob: 0.0000
+Token: ' nature' (ID: 6993), Prob: 0.0000
+Token: ' overall' (ID: 8084), Prob: 0.0000
+Token: ' intention' (ID: 14602), Prob: 0.0000
+Token: ' peak' (ID: 16162), Prob: 0.0000
+Token: ' qualities' (ID: 28500), Prob: 0.0000
+Token: ' hike' (ID: 34231), Prob: 0.0000
+Token: ' trip' (ID: 8411), Prob: 0.0000
+Token: ' highlight' (ID: 11167), Prob: 0.0000
+Token: ' descriptive' (ID: 52844), Prob: 0.0000
+Token: ' emotional' (ID: 14269), Prob: 0.0000
+Token: ' pace' (ID: 17857), Prob: 0.0000
+Token: ' warmth' (ID: 40363), Prob: 0.0000
+Token: ' scene' (ID: 6109), Prob: 0.0000
+Token: ' joy' (ID: 15888), Prob: 0.0000
+Token: ' imagination' (ID: 27799), Prob: 0.0000
+Token: ' core' (ID: 6200), Prob: 0.0000
+Token: ' brief' (ID: 9814), Prob: 0.0000
+Token: ' themes' (ID: 21386), Prob: 0.0000
+Token: ' unique' (ID: 4911), Prob: 0.0000
+Token: ' uniqueness' (ID: 59057), Prob: 0.0000
+Token: ' narrator' (ID: 64171), Prob: 0.0000
+Token: ' wonder' (ID: 5775), Prob: 0.0000
+Token: ' duration' (ID: 8090), Prob: 0.0000
+Token: ' tranqu' (ID: 40564), Prob: 0.0000
+Token: ' sights' (ID: 41166), Prob: 0.0000
+Token: ' mystery' (ID: 22531), Prob: 0.0000
+Token: ' awe' (ID: 50417), Prob: 0.0000
+Token: ' authentic' (ID: 13210), Prob: 0.0000
+Token: ' emotion' (ID: 19772), Prob: 0.0000
+Token: ' passage' (ID: 21085), Prob: 0.0000
+Token: ' curiosity' (ID: 40228), Prob: 0.0000
+Token: ' action' (ID: 1917), Prob: 0.0000
+Token: ' author' (ID: 3150), Prob: 0.0000
+Token: ' desired' (ID: 12685), Prob: 0.0000
+Token: ' detail' (ID: 7716), Prob: 0.0000
+Token: ' personality' (ID: 17294), Prob: 0.0000
+Token: ' inviting' (ID: 41192), Prob: 0.0000
+Token: ' idea' (ID: 4522), Prob: 0.0000
+Token: ' reader' (ID: 6604), Prob: 0.0000
+Token: ' sense' (ID: 5530), Prob: 0.0000
+Token: ' dynamic' (ID: 8741), Prob: 0.0000
+Token: ' typical' (ID: 14260), Prob: 0.0000
+Token: ' event' (ID: 1538), Prob: 0.0000
+Token: ' character' (ID: 3668), Prob: 0.0000
+Token: ' mention' (ID: 6286), Prob: 0.0000
+Token: ' depth' (ID: 7990), Prob: 0.0000
+Token: ' dramatic' (ID: 21771), Prob: 0.0000
+Token: ' tourist' (ID: 29970), Prob: 0.0000
+Token: ' hiking' (ID: 37364), Prob: 0.0000
 
 == Ranked Concepts (Clusters) ==
-Rank 1 | Centroid: '_message' | Score: 0.9961
-  Tokens: [' message', ' messages', '.message', ' Message', 'message', '-message', 'Message', '_message', ' messaging', ' MESSAGE', '.Message']
-Rank 2 | Centroid: ' prompt' | Score: 0.0015
-  Tokens: [' prompt', ' promise']
-Rank 3 | Centroid: '	message' | Score: 0.0002
-  Tokens: ['(message', '\tmessage', ':message', ',message', '$message', '=message', '/message', '<message']
-Rank 4 | Centroid: ' question' | Score: 0.0001
-  Tokens: [' question']
-Rank 5 | Centroid: ' statement' | Score: 0.0000
-  Tokens: [' statement', ' phrase']
-Rank 6 | Centroid: ' mes' | Score: 0.0000
-  Tokens: [' mes']
-Rank 7 | Centroid: ' theme' | Score: 0.0000
-  Tokens: [' theme', ' motif']
-Rank 8 | Centroid: ' answer' | Score: 0.0000
-  Tokens: [' answer', ' response']
-Rank 9 | Centroid: ' information' | Score: 0.0000
-  Tokens: [' information', ' user']
-Rank 10 | Centroid: ' month' | Score: 0.0000
-  Tokens: [' month', ' lesson', ' moment']
-Rank 11 | Centroid: ' point' | Score: 0.0000
-  Tokens: [' point', ' position']
-Rank 12 | Centroid: ' maximum' | Score: 0.0000
-  Tokens: [' maximum']
-Rank 13 | Centroid: ' main' | Score: 0.0000
-  Tokens: [' main']
-Rank 14 | Centroid: ' mate' | Score: 0.0000
-  Tokens: [' mate']
+Rank 1 | Centroid: ' spirit' | Score: 0.9688
+  Tokens: [' essence', ' spirit', ' sense']
+Rank 2 | Centroid: ' excitement' | Score: 0.0145
+  Tokens: [' excitement', ' charm', ' beauty', ' enthusiasm', ' allure', ' thrill', ' warmth', ' joy', ' wonder', ' awe', ' curiosity']
+Rank 3 | Centroid: ' themes' | Score: 0.0044
+  Tokens: [' atmosphere', ' theme', ' ambiance', ' vibe', ' themes']
+Rank 4 | Centroid: ' core' | Score: 0.0040
+  Tokens: [' key', ' main', ' elements', ' quick', ' three', ' overall', ' peak', ' core']
+Rank 5 | Centroid: ' intended' | Score: 0.0015
+  Tokens: [' intended', ' purpose', ' destination', ' intent', ' intention', ' desired']
+Rank 6 | Centroid: ' description' | Score: 0.0013
+  Tokens: [' description', ' described', ' descriptive', ' mention']
+Rank 7 | Centroid: ' highlights' | Score: 0.0013
+  Tokens: [' vivid', ' details', ' highlights', ' highlight', ' brief', ' detail']
+Rank 8 | Centroid: ' adventure' | Score: 0.0012
+  Tokens: [' adventure', ' adventurous', ' mystery']
+Rank 9 | Centroid: ' tone' | Score: 0.0010
+  Tokens: [' tone', ' pace']
+Rank 10 | Centroid: ' initial' | Score: 0.0009
+  Tokens: [' original', ' initial', ' unique', ' authentic', ' typical']
+Rank 11 | Centroid: ' narrative' | Score: 0.0007
+  Tokens: [' story', ' narrative', ' imagery', ' scene']
+Rank 12 | Centroid: ' travel' | Score: 0.0005
+  Tokens: [' journey', ' visit', ' travel', ' traveler', ' hike', ' trip', ' tourist', ' hiking']
+Rank 13 | Centroid: ' emotions' | Score: 0.0004
+  Tokens: [' mood', ' emotions', ' emotional', ' emotion']
+Rank 14 | Centroid: ' image' | Score: 0.0002
+  Tokens: [' energy', ' image', ' idea']
+Rank 15 | Centroid: ' intensity' | Score: 0.0002
+  Tokens: [' urgency', ' intensity', ' duration', ' depth']
+Rank 16 | Centroid: ' dramatic' | Score: 0.0002
+  Tokens: [' scenic', ' drama', ' inviting', ' dramatic']
+Rank 17 | Centroid: ' event' | Score: 0.0001
+  Tokens: [' experience', ' passage', ' action', ' event']
+Rank 18 | Centroid: ' significance' | Score: 0.0001
+  Tokens: [' significance', ' uniqueness']
+Rank 19 | Centroid: ' personality' | Score: 0.0001
+  Tokens: [' nature', ' qualities', ' personality', ' character']
+Rank 20 | Centroid: ' heart' | Score: 0.0001
+  Tokens: [' heart']
+Rank 21 | Centroid: ' appeal' | Score: 0.0001
+  Tokens: [' appeal']
+Rank 22 | Centroid: ' author' | Score: 0.0000
+  Tokens: [' narrator', ' author', ' reader']
+Rank 23 | Centroid: ' imagination' | Score: 0.0000
+  Tokens: [' imagination']
+Rank 24 | Centroid: ' sights' | Score: 0.0000
+  Tokens: [' sights']
+Rank 25 | Centroid: ' tranqu' | Score: 0.0000
+  Tokens: [' tranqu']
+Rank 26 | Centroid: ' dynamic' | Score: 0.0000
+  Tokens: [' dynamic']
 
 **Chosen Concept:** Rank 1

@@ -1,0 +1,115 @@
+--- Step 34 Log ---
+
+== Filtered Candidates ==
+Token: ' something' (ID: 2494), Prob: 0.9609
+Token: ' terrible' (ID: 17478), Prob: 0.0094
+Token: ' bad' (ID: 3873), Prob: 0.0002
+Token: ' strange' (ID: 14888), Prob: 0.0001
+Token: ' things' (ID: 2513), Prob: 0.0001
+Token: ' terror' (ID: 8648), Prob: 0.0001
+Token: ' trouble' (ID: 12264), Prob: 0.0001
+Token: ' someone' (ID: 4325), Prob: 0.0000
+Token: ' tragedy' (ID: 30826), Prob: 0.0000
+Token: ' nothing' (ID: 4302), Prob: 0.0000
+Token: ' potential' (ID: 4650), Prob: 0.0000
+Token: ' great' (ID: 2244), Prob: 0.0000
+Token: ' tre' (ID: 4258), Prob: 0.0000
+Token: ' horror' (ID: 21452), Prob: 0.0000
+Token: ' tension' (ID: 23504), Prob: 0.0000
+Token: ' possible' (ID: 3204), Prob: 0.0000
+Token: ' evil' (ID: 13962), Prob: 0.0000
+Token: ' danger' (ID: 7978), Prob: 0.0000
+Token: ' maybe' (ID: 7196), Prob: 0.0000
+Token: ' good' (ID: 1661), Prob: 0.0000
+Token: ' fear' (ID: 8679), Prob: 0.0000
+Token: ' awful' (ID: 24607), Prob: 0.0000
+Token: ' sadness' (ID: 50878), Prob: 0.0000
+Token: ' potentially' (ID: 13581), Prob: 0.0000
+Token: ' somehow' (ID: 16925), Prob: 0.0000
+Token: ' everything' (ID: 4297), Prob: 0.0000
+Token: ' serious' (ID: 6001), Prob: 0.0000
+Token: ' perhaps' (ID: 8365), Prob: 0.0000
+Token: ' another' (ID: 2441), Prob: 0.0000
+Token: ' harm' (ID: 11428), Prob: 0.0000
+Token: ' troubles' (ID: 34565), Prob: 0.0000
+Token: ' odd' (ID: 10322), Prob: 0.0000
+Token: ' turmoil' (ID: 62255), Prob: 0.0000
+Token: ' thing' (ID: 3166), Prob: 0.0000
+Token: ' weird' (ID: 16283), Prob: 0.0000
+Token: ' quelque' (ID: 77971), Prob: 0.0000
+Token: ' death' (ID: 4545), Prob: 0.0000
+Token: ' sorrow' (ID: 57496), Prob: 0.0000
+Token: ' tremendous' (ID: 26942), Prob: 0.0000
+Token: ' otherwise' (ID: 5937), Prob: 0.0000
+Token: 'omething' (ID: 11532), Prob: 0.0000
+Token: ' confusion' (ID: 21340), Prob: 0.0000
+Token: ' Something' (ID: 24656), Prob: 0.0000
+Token: ' terrifying' (ID: 41251), Prob: 0.0000
+Token: ' greatness' (ID: 62456), Prob: 0.0000
+Token: ' dreadful' (ID: 80852), Prob: 0.0000
+Token: ' truth' (ID: 8046), Prob: 0.0000
+Token: ' possibility' (ID: 13038), Prob: 0.0000
+Token: ' betrayal' (ID: 67276), Prob: 0.0000
+Token: ' ter' (ID: 1982), Prob: 0.0000
+Token: ' goodness' (ID: 38426), Prob: 0.0000
+Token: ' anything' (ID: 4113), Prob: 0.0000
+Token: ' unusual' (ID: 18511), Prob: 0.0000
+Token: ' calam' (ID: 79833), Prob: 0.0000
+Token: ' troubling' (ID: 51229), Prob: 0.0000
+Token: ' love' (ID: 2948), Prob: 0.0000
+Token: ' severe' (ID: 15386), Prob: 0.0000
+Token: 'Something' (ID: 23087), Prob: 0.0000
+Token: ' darkness' (ID: 26298), Prob: 0.0000
+Token: ' illness' (ID: 17125), Prob: 0.0000
+Token: ' som' (ID: 1757), Prob: 0.0000
+Token: ' horrible' (ID: 27102), Prob: 0.0000
+Token: ' failure' (ID: 7901), Prob: 0.0000
+Token: ' worse' (ID: 10960), Prob: 0.0000
+Token: ' responsibility' (ID: 11752), Prob: 0.0000
+Token: ' trauma' (ID: 29888), Prob: 0.0000
+Token: ' misery' (ID: 57601), Prob: 0.0000
+Token: ' possibly' (ID: 10767), Prob: 0.0000
+Token: ' tragic' (ID: 34179), Prob: 0.0000
+Token: ' seriousness' (ID: 74381), Prob: 0.0000
+Token: ' pain' (ID: 6646), Prob: 0.0000
+Token: ' somewhere' (ID: 14696), Prob: 0.0000
+
+== Ranked Concepts (Clusters) ==
+Rank 1 | Centroid: ' something' | Score: 0.9609
+  Tokens: [' something', ' things', ' nothing', ' everything', ' thing', ' quelque', 'omething', ' Something', ' anything', 'Something']
+Rank 2 | Centroid: ' terrible' | Score: 0.0094
+  Tokens: [' terrible', ' awful', ' dreadful', ' horrible']
+Rank 3 | Centroid: ' bad' | Score: 0.0002
+  Tokens: [' bad', ' evil', ' good', ' worse']
+Rank 4 | Centroid: ' strange' | Score: 0.0001
+  Tokens: [' strange', ' odd', ' weird', ' unusual']
+Rank 5 | Centroid: ' terrifying' | Score: 0.0001
+  Tokens: [' terror', ' horror', ' terrifying']
+Rank 6 | Centroid: ' troubles' | Score: 0.0001
+  Tokens: [' trouble', ' troubles', ' turmoil', ' troubling']
+Rank 7 | Centroid: ' possibly' | Score: 0.0001
+  Tokens: [' potential', ' possible', ' maybe', ' potentially', ' perhaps', ' possibility', ' possibly']
+Rank 8 | Centroid: ' sorrow' | Score: 0.0001
+  Tokens: [' tragedy', ' sadness', ' sorrow', ' betrayal', ' calam', ' misery', ' tragic']
+Rank 9 | Centroid: ' someone' | Score: 0.0001
+  Tokens: [' someone', ' somehow', ' another', ' som', ' somewhere']
+Rank 10 | Centroid: ' trauma' | Score: 0.0000
+  Tokens: [' danger', ' fear', ' harm', ' death', ' illness', ' failure', ' trauma', ' pain']
+Rank 11 | Centroid: ' great' | Score: 0.0000
+  Tokens: [' great', ' tremendous']
+Rank 12 | Centroid: ' tension' | Score: 0.0000
+  Tokens: [' tension', ' confusion']
+Rank 13 | Centroid: ' tre' | Score: 0.0000
+  Tokens: [' tre', ' ter']
+Rank 14 | Centroid: ' serious' | Score: 0.0000
+  Tokens: [' serious', ' severe', ' seriousness']
+Rank 15 | Centroid: ' greatness' | Score: 0.0000
+  Tokens: [' greatness', ' goodness', ' darkness']
+Rank 16 | Centroid: ' truth' | Score: 0.0000
+  Tokens: [' truth', ' responsibility']
+Rank 17 | Centroid: ' otherwise' | Score: 0.0000
+  Tokens: [' otherwise']
+Rank 18 | Centroid: ' love' | Score: 0.0000
+  Tokens: [' love']
+
+**Chosen Concept:** Rank 1

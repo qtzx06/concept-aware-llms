@@ -1,98 +1,164 @@
 --- Step 64 Log ---
 
 == Filtered Candidates ==
-Token: 'Let' (ID: 10061), Prob: 0.9531
-Token: 'Answer' (ID: 16141), Prob: 0.0037
-Token: 'Yes' (ID: 9454), Prob: 0.0013
-Token: 'Word' (ID: 10879), Prob: 0.0006
-Token: 'Wait' (ID: 14190), Prob: 0.0004
-Token: 'Okay' (ID: 32313), Prob: 0.0004
-Token: 'Last' (ID: 5842), Prob: 0.0003
-Token: 'Please' (ID: 5501), Prob: 0.0002
-Token: 'Based' (ID: 28715), Prob: 0.0002
-Token: 'Correct' (ID: 33092), Prob: 0.0002
-Token: 'Ret' (ID: 12020), Prob: 0.0002
-Token: 'Back' (ID: 3707), Prob: 0.0002
-Token: 'Maybe' (ID: 21390), Prob: 0.0002
-Token: 'Get' (ID: 1949), Prob: 0.0002
-Token: 'Tweet' (ID: 48362), Prob: 0.0002
-Token: 'Reply' (ID: 20841), Prob: 0.0002
-Token: 'Finally' (ID: 23949), Prob: 0.0002
-Token: 'Click' (ID: 2612), Prob: 0.0001
-Token: 'Every' (ID: 11510), Prob: 0.0001
-Token: 'Help' (ID: 12689), Prob: 0.0001
-Token: 'Home' (ID: 7623), Prob: 0.0001
-Token: 'Given' (ID: 22043), Prob: 0.0001
-Token: ' Let' (ID: 6771), Prob: 0.0001
-Token: 'Question' (ID: 14582), Prob: 0.0001
-Token: 'Exactly' (ID: 65357), Prob: 0.0001
-Token: 'Set' (ID: 1649), Prob: 0.0001
-Token: 'One' (ID: 3966), Prob: 0.0001
-Token: 'Among' (ID: 33610), Prob: 0.0001
-Token: 'West' (ID: 23306), Prob: 0.0001
-Token: 'Explanation' (ID: 69769), Prob: 0.0001
-Token: 'Ass' (ID: 5615), Prob: 0.0001
-Token: 'Perhaps' (ID: 31476), Prob: 0.0001
-Token: 'Result' (ID: 2077), Prob: 0.0001
-Token: 'None' (ID: 4064), Prob: 0.0001
-Token: 'Therefore' (ID: 54815), Prob: 0.0001
-Token: 'Tag' (ID: 5668), Prob: 0.0001
-Token: 'According' (ID: 11190), Prob: 0.0001
-Token: 'Even' (ID: 13159), Prob: 0.0001
-Token: 'View' (ID: 851), Prob: 0.0001
-Token: 'Press' (ID: 5886), Prob: 0.0001
-Token: 'Leave' (ID: 21833), Prob: 0.0001
-Token: 'Options' (ID: 3798), Prob: 0.0001
-Token: 'Using' (ID: 16429), Prob: 0.0001
+Token: ' character' (ID: 3668), Prob: 0.1436
+Token: ' friend' (ID: 4238), Prob: 0.1436
+Token: ' person' (ID: 1697), Prob: 0.1270
+Token: ' situation' (ID: 6534), Prob: 0.0679
+Token: ' misunderstanding' (ID: 69747), Prob: 0.0413
+Token: ' relationship' (ID: 5025), Prob: 0.0320
+Token: ' friendship' (ID: 26509), Prob: 0.0302
+Token: ' good' (ID: 1661), Prob: 0.0208
+Token: ' friendly' (ID: 11657), Prob: 0.0183
+Token: ' mysterious' (ID: 25382), Prob: 0.0172
+Token: ' romantic' (ID: 23467), Prob: 0.0134
+Token: ' close' (ID: 3265), Prob: 0.0104
+Token: ' mis' (ID: 5786), Prob: 0.0086
+Token: ' past' (ID: 3267), Prob: 0.0067
+Token: ' normal' (ID: 4622), Prob: 0.0067
+Token: ' humorous' (ID: 69846), Prob: 0.0067
+Token: ' real' (ID: 1931), Prob: 0.0063
+Token: ' stranger' (ID: 33958), Prob: 0.0063
+Token: ' playful' (ID: 56069), Prob: 0.0063
+Token: ' serious' (ID: 6001), Prob: 0.0059
+Token: ' prank' (ID: 75273), Prob: 0.0059
+Token: ' bad' (ID: 3873), Prob: 0.0052
+Token: ' funny' (ID: 15173), Prob: 0.0052
+Token: ' small' (ID: 2613), Prob: 0.0043
+Token: ' secret' (ID: 6234), Prob: 0.0043
+Token: ' strange' (ID: 14888), Prob: 0.0041
+Token: ' sudden' (ID: 10968), Prob: 0.0038
+Token: ' family' (ID: 2997), Prob: 0.0036
+Token: ' conflict' (ID: 12055), Prob: 0.0036
+Token: ' mystery' (ID: 22531), Prob: 0.0036
+Token: ' man' (ID: 883), Prob: 0.0034
+Token: ' problem' (ID: 3491), Prob: 0.0034
+Token: ' simple' (ID: 4285), Prob: 0.0034
+Token: ' casual' (ID: 16334), Prob: 0.0034
+Token: ' conversation' (ID: 10435), Prob: 0.0032
+Token: ' charming' (ID: 34409), Prob: 0.0032
+Token: ' supernatural' (ID: 48958), Prob: 0.0032
+Token: ' new' (ID: 501), Prob: 0.0030
+Token: ' mistake' (ID: 16523), Prob: 0.0030
+Token: ' comedy' (ID: 22358), Prob: 0.0030
+Token: ' meeting' (ID: 6438), Prob: 0.0028
+Token: ' magical' (ID: 23702), Prob: 0.0028
+Token: ' minor' (ID: 8922), Prob: 0.0026
+Token: ' tragic' (ID: 34179), Prob: 0.0026
+Token: ' mundane' (ID: 68682), Prob: 0.0025
+Token: ' child' (ID: 1682), Prob: 0.0023
+Token: ' surprising' (ID: 14861), Prob: 0.0023
+Token: ' childhood' (ID: 19990), Prob: 0.0023
+Token: ' joke' (ID: 21646), Prob: 0.0023
+Token: ' story' (ID: 3364), Prob: 0.0022
+Token: ' heart' (ID: 4746), Prob: 0.0022
+Token: ' scenario' (ID: 15048), Prob: 0.0022
+Token: ' drama' (ID: 19584), Prob: 0.0022
+Token: ' personal' (ID: 4345), Prob: 0.0020
+Token: ' natural' (ID: 5810), Prob: 0.0020
+Token: ' genuine' (ID: 22011), Prob: 0.0020
+Token: ' therapist' (ID: 41763), Prob: 0.0020
+Token: ' common' (ID: 4185), Prob: 0.0018
+Token: ' moment' (ID: 4445), Prob: 0.0018
+Token: ' happy' (ID: 6247), Prob: 0.0017
+Token: ' comedic' (ID: 94371), Prob: 0.0017
+Token: ' lost' (ID: 5558), Prob: 0.0015
+Token: ' hidden' (ID: 8177), Prob: 0.0015
+Token: ' teacher' (ID: 11079), Prob: 0.0015
+Token: ' unexpected' (ID: 16500), Prob: 0.0015
+Token: ' love' (ID: 2948), Prob: 0.0014
+Token: ' young' (ID: 3908), Prob: 0.0014
+Token: ' harmless' (ID: 52897), Prob: 0.0014
+Token: ' quirky' (ID: 67132), Prob: 0.0014
+Token: ' couple' (ID: 5625), Prob: 0.0013
+Token: ' surprise' (ID: 12761), Prob: 0.0013
+Token: ' typical' (ID: 14260), Prob: 0.0013
+Token: ' dramatic' (ID: 21771), Prob: 0.0013
+Token: ' troubled' (ID: 41032), Prob: 0.0013
+Token: ' day' (ID: 1899), Prob: 0.0012
+Token: ' misunderstood' (ID: 72856), Prob: 0.0012
+Token: ' rel' (ID: 1351), Prob: 0.0012
+Token: ' nervous' (ID: 22596), Prob: 0.0012
+Token: ' kind' (ID: 3093), Prob: 0.0011
+Token: ' broken' (ID: 10865), Prob: 0.0011
+Token: ' helpful' (ID: 10950), Prob: 0.0011
+Token: ' ghost' (ID: 19866), Prob: 0.0010
+Token: ' mutual' (ID: 26750), Prob: 0.0010
+Token: ' colleague' (ID: 36344), Prob: 0.0010
+Token: ' paradox' (ID: 51213), Prob: 0.0010
+Token: ' comforting' (ID: 68030), Prob: 0.0010
+Token: ' seemingly' (ID: 22660), Prob: 0.0010
+Token: ' group' (ID: 1874), Prob: 0.0009
+Token: ' possible' (ID: 3204), Prob: 0.0009
+Token: ' historical' (ID: 13656), Prob: 0.0009
+Token: ' fictional' (ID: 43582), Prob: 0.0009
+Token: ' true' (ID: 830), Prob: 0.0009
+Token: ' former' (ID: 4741), Prob: 0.0009
+Token: ' problematic' (ID: 34933), Prob: 0.0009
+Token: ' subtle' (ID: 26447), Prob: 0.0008
+Token: ' traumatic' (ID: 53186), Prob: 0.0008
+Token: ' social' (ID: 3590), Prob: 0.0008
+Token: ' hypothetical' (ID: 58059), Prob: 0.0008
+Token: ' short' (ID: 2805), Prob: 0.0007
 
 == Ranked Concepts (Clusters) ==
-Rank 1 | Centroid: 'Let' | Score: 0.9531
-  Tokens: ['Let', ' Let']
-Rank 2 | Centroid: 'Answer' | Score: 0.0039
-  Tokens: ['Answer', 'Question', 'Explanation']
-Rank 3 | Centroid: 'Yes' | Score: 0.0017
-  Tokens: ['Yes', 'Okay']
-Rank 4 | Centroid: 'Word' | Score: 0.0007
-  Tokens: ['Word', 'West']
-Rank 5 | Centroid: 'According' | Score: 0.0006
-  Tokens: ['Based', 'Given', 'Among', 'According', 'Using']
-Rank 6 | Centroid: 'Last' | Score: 0.0005
-  Tokens: ['Last', 'Finally']
-Rank 7 | Centroid: 'Wait' | Score: 0.0004
-  Tokens: ['Wait']
-Rank 8 | Centroid: 'Get' | Score: 0.0004
-  Tokens: ['Get', 'Set', 'View']
-Rank 9 | Centroid: 'Correct' | Score: 0.0003
-  Tokens: ['Correct', 'Exactly']
-Rank 10 | Centroid: 'Back' | Score: 0.0003
-  Tokens: ['Back', 'Home']
-Rank 11 | Centroid: 'Maybe' | Score: 0.0003
-  Tokens: ['Maybe', 'Perhaps']
-Rank 12 | Centroid: 'Tweet' | Score: 0.0003
-  Tokens: ['Tweet', 'Tag']
-Rank 13 | Centroid: 'Please' | Score: 0.0002
-  Tokens: ['Please']
-Rank 14 | Centroid: 'Help' | Score: 0.0002
-  Tokens: ['Help', 'Ass']
-Rank 15 | Centroid: 'Click' | Score: 0.0002
-  Tokens: ['Click', 'Press']
-Rank 16 | Centroid: 'Ret' | Score: 0.0002
-  Tokens: ['Ret']
-Rank 17 | Centroid: 'Every' | Score: 0.0002
-  Tokens: ['Every', 'Even']
-Rank 18 | Centroid: 'Reply' | Score: 0.0002
-  Tokens: ['Reply']
-Rank 19 | Centroid: 'One' | Score: 0.0001
-  Tokens: ['One']
-Rank 20 | Centroid: 'Result' | Score: 0.0001
-  Tokens: ['Result']
-Rank 21 | Centroid: 'Therefore' | Score: 0.0001
-  Tokens: ['Therefore']
-Rank 22 | Centroid: 'None' | Score: 0.0001
-  Tokens: ['None']
-Rank 23 | Centroid: 'Leave' | Score: 0.0001
-  Tokens: ['Leave']
-Rank 24 | Centroid: 'Options' | Score: 0.0001
-  Tokens: ['Options']
+Rank 1 | Centroid: ' person' | Score: 0.2793
+  Tokens: [' character', ' person', ' family', ' man', ' group']
+Rank 2 | Centroid: ' friend' | Score: 0.1787
+  Tokens: [' friend', ' friendship', ' therapist', ' teacher', ' colleague']
+Rank 3 | Centroid: ' scenario' | Score: 0.0757
+  Tokens: [' situation', ' problem', ' story', ' scenario']
+Rank 4 | Centroid: ' misunderstanding' | Score: 0.0542
+  Tokens: [' misunderstanding', ' mis', ' mistake', ' misunderstood']
+Rank 5 | Centroid: ' good' | Score: 0.0471
+  Tokens: [' good', ' friendly', ' bad', ' happy', ' helpful']
+Rank 6 | Centroid: ' conversation' | Score: 0.0388
+  Tokens: [' relationship', ' conflict', ' conversation']
+Rank 7 | Centroid: ' humorous' | Score: 0.0312
+  Tokens: [' humorous', ' playful', ' prank', ' funny', ' comedy', ' joke', ' comedic']
+Rank 8 | Centroid: ' surprising' | Score: 0.0311
+  Tokens: [' mysterious', ' strange', ' mystery', ' surprising', ' unexpected', ' surprise', ' paradox']
+Rank 9 | Centroid: ' genuine' | Score: 0.0211
+  Tokens: [' normal', ' real', ' natural', ' genuine', ' common', ' typical', ' true']
+Rank 10 | Centroid: ' dramatic' | Score: 0.0203
+  Tokens: [' romantic', ' tragic', ' drama', ' dramatic', ' traumatic']
+Rank 11 | Centroid: ' small' | Score: 0.0125
+  Tokens: [' small', ' simple', ' minor', ' young', ' short']
+Rank 12 | Centroid: ' close' | Score: 0.0118
+  Tokens: [' close', ' love']
+Rank 13 | Centroid: ' historical' | Score: 0.0085
+  Tokens: [' past', ' historical', ' former']
+Rank 14 | Centroid: ' fictional' | Score: 0.0077
+  Tokens: [' supernatural', ' magical', ' fictional', ' hypothetical']
+Rank 15 | Centroid: ' mundane' | Score: 0.0073
+  Tokens: [' casual', ' mundane', ' harmless']
+Rank 16 | Centroid: ' stranger' | Score: 0.0063
+  Tokens: [' stranger']
+Rank 17 | Centroid: ' serious' | Score: 0.0059
+  Tokens: [' serious']
+Rank 18 | Centroid: ' secret' | Score: 0.0058
+  Tokens: [' secret', ' hidden']
+Rank 19 | Centroid: ' charming' | Score: 0.0056
+  Tokens: [' charming', ' quirky', ' comforting']
+Rank 20 | Centroid: ' subtle' | Score: 0.0056
+  Tokens: [' sudden', ' seemingly', ' subtle']
+Rank 21 | Centroid: ' moment' | Score: 0.0056
+  Tokens: [' moment', ' couple', ' day', ' rel']
+Rank 22 | Centroid: ' new' | Score: 0.0050
+  Tokens: [' new', ' kind', ' possible']
+Rank 23 | Centroid: ' child' | Score: 0.0046
+  Tokens: [' child', ' childhood']
+Rank 24 | Centroid: ' meeting' | Score: 0.0038
+  Tokens: [' meeting', ' mutual']
+Rank 25 | Centroid: ' heart' | Score: 0.0034
+  Tokens: [' heart', ' nervous']
+Rank 26 | Centroid: ' personal' | Score: 0.0028
+  Tokens: [' personal', ' social']
+Rank 27 | Centroid: ' lost' | Score: 0.0026
+  Tokens: [' lost', ' broken']
+Rank 28 | Centroid: ' troubled' | Score: 0.0022
+  Tokens: [' troubled', ' problematic']
+Rank 29 | Centroid: ' ghost' | Score: 0.0010
+  Tokens: [' ghost']
 
 **Chosen Concept:** Rank 1

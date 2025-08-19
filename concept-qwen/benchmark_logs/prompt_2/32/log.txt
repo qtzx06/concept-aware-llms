@@ -1,87 +1,140 @@
 --- Step 32 Log ---
 
 == Filtered Candidates ==
-Token: ' yes' (ID: 9834), Prob: 0.0747
-Token: ' something' (ID: 2494), Prob: 0.0015
-Token: ' maybe' (ID: 7196), Prob: 0.0011
-Token: ' nothing' (ID: 4302), Prob: 0.0004
-Token: ' negative' (ID: 8225), Prob: 0.0004
-Token: ' none' (ID: 6857), Prob: 0.0002
-Token: ' etc' (ID: 4992), Prob: 0.0002
-Token: ' yeah' (ID: 21639), Prob: 0.0001
-Token: ' answer' (ID: 4226), Prob: 0.0001
-Token: ' unknown' (ID: 9788), Prob: 0.0001
-Token: ' wait' (ID: 3783), Prob: 0.0001
-Token: ' exactly' (ID: 6896), Prob: 0.0001
-Token: ' definitely' (ID: 8491), Prob: 0.0001
-Token: ' also' (ID: 1083), Prob: 0.0001
-Token: ' sure' (ID: 2704), Prob: 0.0001
-Token: ' hello' (ID: 23811), Prob: 0.0001
-Token: ' one' (ID: 825), Prob: 0.0001
-Token: ' false' (ID: 895), Prob: 0.0001
-Token: ' neither' (ID: 13866), Prob: 0.0001
-Token: ' either' (ID: 2987), Prob: 0.0001
-Token: ' okay' (ID: 16910), Prob: 0.0001
-Token: ' whether' (ID: 3425), Prob: 0.0001
-Token: ' perhaps' (ID: 8365), Prob: 0.0001
-Token: ' depends' (ID: 13798), Prob: 0.0001
-Token: ' without' (ID: 2041), Prob: 0.0000
-Token: ' possible' (ID: 3204), Prob: 0.0000
-Token: ' correct' (ID: 4396), Prob: 0.0000
-Token: ' impossible' (ID: 11997), Prob: 0.0000
-Token: ' please' (ID: 4486), Prob: 0.0000
-Token: ' depending' (ID: 11649), Prob: 0.0000
-Token: ' another' (ID: 2441), Prob: 0.0000
-Token: ' based' (ID: 3118), Prob: 0.0000
-Token: ' anything' (ID: 4113), Prob: 0.0000
-Token: ' missing' (ID: 7402), Prob: 0.0000
-Token: ' else' (ID: 770), Prob: 0.0000
-Token: ' cannot' (ID: 4157), Prob: 0.0000
-Token: ' even' (ID: 1496), Prob: 0.0000
-Token: ' Yes' (ID: 7414), Prob: 0.0000
-Token: ' thank' (ID: 9702), Prob: 0.0000
-Token: ' possibly' (ID: 10767), Prob: 0.0000
-Token: '(no' (ID: 39205), Prob: 0.0000
-Token: ' neg' (ID: 4184), Prob: 0.0000
-Token: ' still' (ID: 2058), Prob: 0.0000
-Token: ' never' (ID: 2581), Prob: 0.0000
+Token: ' taking' (ID: 4633), Prob: 0.3086
+Token: ' going' (ID: 2087), Prob: 0.1865
+Token: ' traveling' (ID: 20971), Prob: 0.1455
+Token: ' road' (ID: 5636), Prob: 0.0605
+Token: ' planning' (ID: 9115), Prob: 0.0325
+Token: ' preparing' (ID: 20045), Prob: 0.0223
+Token: ' trip' (ID: 8411), Prob: 0.0135
+Token: ' driving' (ID: 9842), Prob: 0.0082
+Token: ' heading' (ID: 14496), Prob: 0.0056
+Token: ' members' (ID: 3613), Prob: 0.0053
+Token: ' gathering' (ID: 22888), Prob: 0.0047
+Token: ' travel' (ID: 5821), Prob: 0.0028
+Token: ' meeting' (ID: 6438), Prob: 0.0028
+Token: ' getting' (ID: 3709), Prob: 0.0022
+Token: ' leaving' (ID: 9380), Prob: 0.0018
+Token: ' trips' (ID: 22466), Prob: 0.0015
+Token: ' journey' (ID: 11618), Prob: 0.0013
+Token: ' moving' (ID: 7218), Prob: 0.0010
+Token: ' discussing' (ID: 24392), Prob: 0.0010
+Token: ' emb' (ID: 7967), Prob: 0.0009
+Token: ' packing' (ID: 35713), Prob: 0.0009
+Token: ' making' (ID: 3259), Prob: 0.0008
+Token: ' car' (ID: 1803), Prob: 0.0007
+Token: ' setting' (ID: 6243), Prob: 0.0006
+Token: ' coming' (ID: 5001), Prob: 0.0006
+Token: ' experiencing' (ID: 24084), Prob: 0.0006
+Token: ' celebrating' (ID: 31589), Prob: 0.0006
+Token: ' hiking' (ID: 37364), Prob: 0.0006
+Token: ' took' (ID: 3867), Prob: 0.0005
+Token: ' spending' (ID: 10164), Prob: 0.0005
+Token: ' trek' (ID: 44588), Prob: 0.0005
+Token: ' together' (ID: 3786), Prob: 0.0004
+Token: ' visiting' (ID: 16721), Prob: 0.0004
+Token: ' went' (ID: 3937), Prob: 0.0004
+Token: ' travels' (ID: 34192), Prob: 0.0004
+Token: ' dealing' (ID: 14550), Prob: 0.0004
+Token: ' gone' (ID: 8048), Prob: 0.0003
+Token: ' adventure' (ID: 17943), Prob: 0.0003
+Token: ' exploring' (ID: 23966), Prob: 0.0003
+Token: ' embarked' (ID: 78020), Prob: 0.0003
+Token: ' living' (ID: 5382), Prob: 0.0003
+Token: ' embark' (ID: 69431), Prob: 0.0003
+Token: ' talking' (ID: 7404), Prob: 0.0003
+Token: ' escaping' (ID: 52654), Prob: 0.0003
+Token: ' attending' (ID: 23218), Prob: 0.0003
+Token: ' joining' (ID: 18169), Prob: 0.0002
+Token: ' vacations' (ID: 74567), Prob: 0.0002
+Token: ' story' (ID: 3364), Prob: 0.0002
+Token: ' vacation' (ID: 20161), Prob: 0.0002
+Token: ' adventures' (ID: 30978), Prob: 0.0002
+Token: ' arriving' (ID: 32011), Prob: 0.0002
+Token: ' family' (ID: 2997), Prob: 0.0002
+Token: ' outing' (ID: 64181), Prob: 0.0002
+Token: ' take' (ID: 1896), Prob: 0.0002
+Token: ' plans' (ID: 6649), Prob: 0.0002
+Token: ' returning' (ID: 13451), Prob: 0.0002
+Token: ' deciding' (ID: 29130), Prob: 0.0002
+Token: ' camping' (ID: 32773), Prob: 0.0002
+Token: ' starting' (ID: 5916), Prob: 0.0002
+Token: ' organizing' (ID: 34721), Prob: 0.0001
+Token: ' bonding' (ID: 63086), Prob: 0.0001
+Token: ' tre' (ID: 4258), Prob: 0.0001
+Token: ' enjoying' (ID: 21413), Prob: 0.0001
+Token: ' trying' (ID: 4460), Prob: 0.0001
+Token: ' experiences' (ID: 11449), Prob: 0.0001
+Token: ' rushing' (ID: 37017), Prob: 0.0001
+Token: ' looking' (ID: 3330), Prob: 0.0001
+Token: ' member' (ID: 4462), Prob: 0.0001
+Token: ' takes' (ID: 4990), Prob: 0.0001
+Token: ' staying' (ID: 19429), Prob: 0.0001
+Token: ' travelling' (ID: 30729), Prob: 0.0001
+Token: ' time' (ID: 882), Prob: 0.0001
+Token: ' goes' (ID: 5780), Prob: 0.0001
+Token: ' facing' (ID: 12880), Prob: 0.0001
+Token: ' itinerary' (ID: 72904), Prob: 0.0001
+Token: ' feeling' (ID: 8266), Prob: 0.0001
+Token: ' walking' (ID: 11435), Prob: 0.0001
+Token: ' preparations' (ID: 46879), Prob: 0.0001
+Token: ' working' (ID: 3238), Prob: 0.0001
+Token: ' picking' (ID: 21132), Prob: 0.0001
+Token: ' reflecting' (ID: 41752), Prob: 0.0001
+Token: ' events' (ID: 4357), Prob: 0.0001
+Token: ' packed' (ID: 19375), Prob: 0.0001
 
 == Ranked Concepts (Clusters) ==
-Rank 1 | Centroid: ' yes' | Score: 0.0752
-  Tokens: [' yes', ' yeah', ' sure', ' okay', ' Yes']
-Rank 2 | Centroid: ' something' | Score: 0.0019
-  Tokens: [' something', ' nothing', ' anything']
-Rank 3 | Centroid: ' possibly' | Score: 0.0012
-  Tokens: [' maybe', ' perhaps', ' possible', ' possibly']
-Rank 4 | Centroid: ' neg' | Score: 0.0005
-  Tokens: [' negative', ' false', ' neg']
-Rank 5 | Centroid: ' hello' | Score: 0.0002
-  Tokens: [' wait', ' hello', ' please', ' thank']
-Rank 6 | Centroid: ' none' | Score: 0.0002
-  Tokens: [' none', '(no']
-Rank 7 | Centroid: ' unknown' | Score: 0.0002
-  Tokens: [' unknown', ' impossible', ' missing']
-Rank 8 | Centroid: ' answer' | Score: 0.0002
-  Tokens: [' answer', ' correct']
-Rank 9 | Centroid: ' etc' | Score: 0.0002
-  Tokens: [' etc']
-Rank 10 | Centroid: ' another' | Score: 0.0001
-  Tokens: [' one', ' another', ' else']
-Rank 11 | Centroid: ' depending' | Score: 0.0001
-  Tokens: [' depends', ' depending', ' based']
-Rank 12 | Centroid: ' also' | Score: 0.0001
-  Tokens: [' also', ' even', ' still']
-Rank 13 | Centroid: ' either' | Score: 0.0001
-  Tokens: [' either', ' whether']
-Rank 14 | Centroid: ' definitely' | Score: 0.0001
-  Tokens: [' definitely']
-Rank 15 | Centroid: ' exactly' | Score: 0.0001
-  Tokens: [' exactly']
-Rank 16 | Centroid: ' neither' | Score: 0.0001
-  Tokens: [' neither']
-Rank 17 | Centroid: ' cannot' | Score: 0.0001
-  Tokens: [' cannot', ' never']
-Rank 18 | Centroid: ' without' | Score: 0.0000
-  Tokens: [' without']
+Rank 1 | Centroid: ' takes' | Score: 0.3086
+  Tokens: [' taking', ' took', ' take', ' takes']
+Rank 2 | Centroid: ' goes' | Score: 0.1875
+  Tokens: [' going', ' went', ' gone', ' goes']
+Rank 3 | Centroid: ' traveling' | Score: 0.1484
+  Tokens: [' traveling', ' travel', ' travels', ' travelling']
+Rank 4 | Centroid: ' road' | Score: 0.0615
+  Tokens: [' road', ' car', ' family']
+Rank 5 | Centroid: ' planning' | Score: 0.0327
+  Tokens: [' planning', ' plans', ' preparations']
+Rank 6 | Centroid: ' discussing' | Score: 0.0247
+  Tokens: [' preparing', ' discussing', ' celebrating', ' exploring', ' deciding', ' organizing', ' enjoying', ' reflecting']
+Rank 7 | Centroid: ' trip' | Score: 0.0164
+  Tokens: [' trip', ' trips', ' journey']
+Rank 8 | Centroid: ' walking' | Score: 0.0096
+  Tokens: [' driving', ' moving', ' living', ' walking', ' working']
+Rank 9 | Centroid: ' members' | Score: 0.0059
+  Tokens: [' members', ' together', ' member']
+Rank 10 | Centroid: ' getting' | Score: 0.0058
+  Tokens: [' getting', ' leaving', ' making', ' coming', ' arriving', ' returning']
+Rank 11 | Centroid: ' heading' | Score: 0.0056
+  Tokens: [' heading']
+Rank 12 | Centroid: ' gathering' | Score: 0.0054
+  Tokens: [' gathering', ' setting', ' picking']
+Rank 13 | Centroid: ' meeting' | Score: 0.0028
+  Tokens: [' meeting']
+Rank 14 | Centroid: ' embark' | Score: 0.0015
+  Tokens: [' emb', ' embarked', ' embark']
+Rank 15 | Centroid: ' hiking' | Score: 0.0015
+  Tokens: [' hiking', ' trek', ' outing', ' camping', ' itinerary']
+Rank 16 | Centroid: ' packing' | Score: 0.0011
+  Tokens: [' packing', ' bonding', ' packed']
+Rank 17 | Centroid: ' adventure' | Score: 0.0011
+  Tokens: [' adventure', ' vacations', ' vacation', ' adventures']
+Rank 18 | Centroid: ' talking' | Score: 0.0009
+  Tokens: [' dealing', ' talking', ' trying', ' looking']
+Rank 19 | Centroid: ' experiencing' | Score: 0.0009
+  Tokens: [' experiencing', ' experiences', ' facing', ' feeling']
+Rank 20 | Centroid: ' visiting' | Score: 0.0008
+  Tokens: [' visiting', ' attending', ' staying']
+Rank 21 | Centroid: ' events' | Score: 0.0005
+  Tokens: [' story', ' tre', ' time', ' events']
+Rank 22 | Centroid: ' spending' | Score: 0.0005
+  Tokens: [' spending']
+Rank 23 | Centroid: ' escaping' | Score: 0.0004
+  Tokens: [' escaping', ' rushing']
+Rank 24 | Centroid: ' joining' | Score: 0.0002
+  Tokens: [' joining']
+Rank 25 | Centroid: ' starting' | Score: 0.0002
+  Tokens: [' starting']
 
 **Chosen Concept:** Rank 1

@@ -1,0 +1,151 @@
+--- Step 105 Log ---
+
+== Filtered Candidates ==
+Token: ' way' (ID: 1616), Prob: 0.1895
+Token: ' place' (ID: 1992), Prob: 0.1670
+Token: ' situation' (ID: 6534), Prob: 0.1011
+Token: ' normal' (ID: 4622), Prob: 0.0615
+Token: ' strange' (ID: 14888), Prob: 0.0309
+Token: ' public' (ID: 584), Prob: 0.0291
+Token: ' dangerous' (ID: 11406), Prob: 0.0256
+Token: ' different' (ID: 2155), Prob: 0.0226
+Token: ' safe' (ID: 6092), Prob: 0.0146
+Token: ' serious' (ID: 6001), Prob: 0.0121
+Token: ' harmless' (ID: 52897), Prob: 0.0107
+Token: ' familiar' (ID: 11285), Prob: 0.0100
+Token: ' mysterious' (ID: 25382), Prob: 0.0100
+Token: ' problematic' (ID: 34933), Prob: 0.0094
+Token: ' mundane' (ID: 68682), Prob: 0.0078
+Token: ' setting' (ID: 6243), Prob: 0.0073
+Token: ' manner' (ID: 11566), Prob: 0.0069
+Token: ' harmful' (ID: 27756), Prob: 0.0069
+Token: ' natural' (ID: 5810), Prob: 0.0065
+Token: ' dark' (ID: 6319), Prob: 0.0065
+Token: ' romantic' (ID: 23467), Prob: 0.0057
+Token: ' non' (ID: 2477), Prob: 0.0054
+Token: ' wrong' (ID: 4969), Prob: 0.0054
+Token: ' negative' (ID: 8225), Prob: 0.0054
+Token: ' playful' (ID: 56069), Prob: 0.0054
+Token: ' meaningful' (ID: 22414), Prob: 0.0047
+Token: ' surprising' (ID: 14861), Prob: 0.0045
+Token: ' humorous' (ID: 69846), Prob: 0.0045
+Token: ' position' (ID: 2309), Prob: 0.0039
+Token: ' context' (ID: 2266), Prob: 0.0037
+Token: ' bad' (ID: 3873), Prob: 0.0037
+Token: ' vulnerable' (ID: 19563), Prob: 0.0037
+Token: ' new' (ID: 501), Prob: 0.0035
+Token: ' unexpected' (ID: 16500), Prob: 0.0035
+Token: ' threatening' (ID: 26805), Prob: 0.0033
+Token: ' suspicious' (ID: 31327), Prob: 0.0033
+Token: ' typical' (ID: 14260), Prob: 0.0029
+Token: ' disturbing' (ID: 33873), Prob: 0.0029
+Token: ' secretive' (ID: 82999), Prob: 0.0029
+Token: ' location' (ID: 3728), Prob: 0.0027
+Token: ' usual' (ID: 13475), Prob: 0.0027
+Token: ' real' (ID: 1931), Prob: 0.0025
+Token: ' private' (ID: 869), Prob: 0.0024
+Token: ' fun' (ID: 2464), Prob: 0.0024
+Token: ' funny' (ID: 15173), Prob: 0.0024
+Token: ' casual' (ID: 16334), Prob: 0.0024
+Token: ' common' (ID: 4185), Prob: 0.0022
+Token: ' weird' (ID: 16283), Prob: 0.0022
+Token: ' unusual' (ID: 18511), Prob: 0.0021
+Token: ' seemingly' (ID: 22660), Prob: 0.0021
+Token: ' social' (ID: 3590), Prob: 0.0020
+Token: ' positive' (ID: 6785), Prob: 0.0020
+Token: ' friendly' (ID: 11657), Prob: 0.0020
+Token: ' magical' (ID: 23702), Prob: 0.0020
+Token: ' workplace' (ID: 26368), Prob: 0.0020
+Token: ' confusing' (ID: 30615), Prob: 0.0017
+Token: ' hidden' (ID: 8177), Prob: 0.0016
+Token: ' sensitive' (ID: 16216), Prob: 0.0016
+Token: ' comfortable' (ID: 10655), Prob: 0.0015
+Token: ' peaceful' (ID: 25650), Prob: 0.0015
+Token: ' trivial' (ID: 35647), Prob: 0.0015
+Token: ' creepy' (ID: 50840), Prob: 0.0015
+Token: ' scenario' (ID: 15048), Prob: 0.0014
+Token: ' misleading' (ID: 37209), Prob: 0.0014
+Token: ' good' (ID: 1661), Prob: 0.0014
+Token: ' moment' (ID: 4445), Prob: 0.0014
+Token: ' difficult' (ID: 5000), Prob: 0.0014
+Token: ' professional' (ID: 6584), Prob: 0.0014
+Token: ' neutral' (ID: 20628), Prob: 0.0013
+Token: ' similar' (ID: 4428), Prob: 0.0012
+Token: ' traditional' (ID: 8606), Prob: 0.0012
+Token: ' formal' (ID: 15908), Prob: 0.0012
+Token: ' dramatic' (ID: 21771), Prob: 0.0012
+Token: ' specific' (ID: 3151), Prob: 0.0011
+Token: ' role' (ID: 3476), Prob: 0.0011
+Token: ' bizarre' (ID: 32188), Prob: 0.0011
+Token: ' risky' (ID: 40173), Prob: 0.0011
+Token: ' comforting' (ID: 68030), Prob: 0.0011
+Token: ' certain' (ID: 3654), Prob: 0.0011
+Token: ' secret' (ID: 6234), Prob: 0.0011
+Token: ' compromising' (ID: 75000), Prob: 0.0011
+Token: ' supernatural' (ID: 48958), Prob: 0.0010
+Token: ' quiet' (ID: 11340), Prob: 0.0009
+Token: ' chaotic' (ID: 51987), Prob: 0.0009
+Token: ' personal' (ID: 4345), Prob: 0.0009
+Token: ' scary' (ID: 28465), Prob: 0.0009
+Token: ' forbidden' (ID: 36813), Prob: 0.0009
+Token: ' troubling' (ID: 51229), Prob: 0.0009
+Token: ' violent' (ID: 16401), Prob: 0.0008
+Token: ' pleasant' (ID: 23795), Prob: 0.0008
+Token: ' stressful' (ID: 45783), Prob: 0.0008
+Token: ' distracting' (ID: 81298), Prob: 0.0008
+Token: ' manip' (ID: 14609), Prob: 0.0007
+Token: ' tense' (ID: 42687), Prob: 0.0007
+Token: ' deceptive' (ID: 80274), Prob: 0.0007
+Token: ' work' (ID: 975), Prob: 0.0007
+Token: ' unique' (ID: 4911), Prob: 0.0007
+Token: ' secure' (ID: 9767), Prob: 0.0007
+
+== Ranked Concepts (Clusters) ==
+Rank 1 | Centroid: ' situation' | Score: 0.2891
+  Tokens: [' place', ' situation', ' setting', ' position', ' context', ' location', ' scenario', ' moment', ' role']
+Rank 2 | Centroid: ' way' | Score: 0.1963
+  Tokens: [' way', ' manner']
+Rank 3 | Centroid: ' typical' | Score: 0.0806
+  Tokens: [' normal', ' familiar', ' typical', ' usual', ' common', ' traditional']
+Rank 4 | Centroid: ' strange' | Score: 0.0576
+  Tokens: [' strange', ' mysterious', ' surprising', ' unexpected', ' suspicious', ' weird', ' unusual', ' bizarre']
+Rank 5 | Centroid: ' dangerous' | Score: 0.0464
+  Tokens: [' dangerous', ' problematic', ' harmful', ' threatening', ' risky']
+Rank 6 | Centroid: ' private' | Score: 0.0459
+  Tokens: [' public', ' natural', ' real', ' private', ' social', ' professional', ' formal', ' personal']
+Rank 7 | Centroid: ' different' | Score: 0.0354
+  Tokens: [' different', ' non', ' new', ' similar', ' specific', ' certain', ' unique']
+Rank 8 | Centroid: ' safe' | Score: 0.0269
+  Tokens: [' safe', ' harmless', ' quiet', ' secure']
+Rank 9 | Centroid: ' humorous' | Score: 0.0221
+  Tokens: [' romantic', ' playful', ' humorous', ' funny', ' magical', ' dramatic', ' supernatural']
+Rank 10 | Centroid: ' bad' | Score: 0.0168
+  Tokens: [' dark', ' wrong', ' bad', ' good']
+Rank 11 | Centroid: ' serious' | Score: 0.0121
+  Tokens: [' serious']
+Rank 12 | Centroid: ' mundane' | Score: 0.0117
+  Tokens: [' mundane', ' casual', ' trivial']
+Rank 13 | Centroid: ' troubling' | Score: 0.0114
+  Tokens: [' disturbing', ' confusing', ' misleading', ' comforting', ' compromising', ' troubling', ' stressful', ' distracting', ' deceptive']
+Rank 14 | Centroid: ' pleasant' | Score: 0.0106
+  Tokens: [' meaningful', ' friendly', ' comfortable', ' peaceful', ' pleasant']
+Rank 15 | Centroid: ' positive' | Score: 0.0086
+  Tokens: [' negative', ' positive', ' neutral']
+Rank 16 | Centroid: ' secret' | Score: 0.0056
+  Tokens: [' secretive', ' hidden', ' secret']
+Rank 17 | Centroid: ' vulnerable' | Score: 0.0053
+  Tokens: [' vulnerable', ' sensitive']
+Rank 18 | Centroid: ' scary' | Score: 0.0042
+  Tokens: [' creepy', ' chaotic', ' scary', ' violent']
+Rank 19 | Centroid: ' workplace' | Score: 0.0034
+  Tokens: [' workplace', ' manip', ' tense']
+Rank 20 | Centroid: ' fun' | Score: 0.0031
+  Tokens: [' fun', ' work']
+Rank 21 | Centroid: ' seemingly' | Score: 0.0021
+  Tokens: [' seemingly']
+Rank 22 | Centroid: ' difficult' | Score: 0.0014
+  Tokens: [' difficult']
+Rank 23 | Centroid: ' forbidden' | Score: 0.0009
+  Tokens: [' forbidden']
+
+**Chosen Concept:** Rank 1

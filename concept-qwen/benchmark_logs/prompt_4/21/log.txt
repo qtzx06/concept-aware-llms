@@ -1,62 +1,104 @@
 --- Step 21 Log ---
 
 == Filtered Candidates ==
-Token: ' prompt' (ID: 9934), Prob: 0.1963
-Token: ' message' (ID: 1943), Prob: 0.0067
-Token: ' list' (ID: 1140), Prob: 0.0025
-Token: ' example' (ID: 3110), Prob: 0.0007
-Token: ' Prompt' (ID: 59501), Prob: 0.0007
-Token: ' except' (ID: 3650), Prob: 0.0006
-Token: ' including' (ID: 2670), Prob: 0.0004
-Token: ' description' (ID: 4008), Prob: 0.0004
-Token: ' within' (ID: 2878), Prob: 0.0004
-Token: ' include' (ID: 2924), Prob: 0.0004
-Token: ' answer' (ID: 4226), Prob: 0.0004
-Token: ' response' (ID: 2033), Prob: 0.0003
-Token: ' according' (ID: 4092), Prob: 0.0003
-Token: ' question' (ID: 3405), Prob: 0.0003
-Token: ' display' (ID: 3037), Prob: 0.0003
-Token: ' wording' (ID: 60227), Prob: 0.0003
-Token: ' item' (ID: 1509), Prob: 0.0002
-Token: ' without' (ID: 2041), Prob: 0.0002
-Token: ' title' (ID: 2265), Prob: 0.0002
-Token: ' prompts' (ID: 50932), Prob: 0.0002
-Token: ' given' (ID: 2661), Prob: 0.0002
-Token: ' format' (ID: 3561), Prob: 0.0002
-Token: ' please' (ID: 4486), Prob: 0.0002
-Token: ' body' (ID: 2487), Prob: 0.0002
-Token: ' bold' (ID: 13939), Prob: 0.0002
+Token: ' Let' (ID: 6771), Prob: 0.0003
+Token: ' Start' (ID: 5145), Prob: 0.0002
+Token: ' Starting' (ID: 27657), Prob: 0.0001
+Token: ' Alright' (ID: 97593), Prob: 0.0000
+Token: ' Hmm' (ID: 88190), Prob: 0.0000
+Token: ' Maybe' (ID: 10696), Prob: 0.0000
+Token: ' Title' (ID: 10869), Prob: 0.0000
+Token: ' Main' (ID: 4697), Prob: 0.0000
+Token: ' Focus' (ID: 25806), Prob: 0.0000
+Token: ' Make' (ID: 7405), Prob: 0.0000
+Token: ' User' (ID: 2657), Prob: 0.0000
+Token: ' Wait' (ID: 13824), Prob: 0.0000
+Token: ' Time' (ID: 4120), Prob: 0.0000
+Token: ' Highlight' (ID: 55994), Prob: 0.0000
+Token: ' Okay' (ID: 35439), Prob: 0.0000
+Token: ' Original' (ID: 17230), Prob: 0.0000
+Token: ' Important' (ID: 43821), Prob: 0.0000
+Token: ' Well' (ID: 8325), Prob: 0.0000
+Token: ' Got' (ID: 24528), Prob: 0.0000
+Token: ' Started' (ID: 35812), Prob: 0.0000
+Token: ' Keep' (ID: 13655), Prob: 0.0000
+Token: ' Starts' (ID: 47728), Prob: 0.0000
+Token: ' Break' (ID: 15623), Prob: 0.0000
+Token: ' start' (ID: 1191), Prob: 0.0000
+Token: ' Get' (ID: 2126), Prob: 0.0000
+Token: ' Story' (ID: 15106), Prob: 0.0000
+Token: ' Short' (ID: 10698), Prob: 0.0000
+Token: ' People' (ID: 8853), Prob: 0.0000
+Token: ' Breaking' (ID: 51524), Prob: 0.0000
+Token: ' Prompt' (ID: 59501), Prob: 0.0000
+Token: ' Mention' (ID: 85148), Prob: 0.0000
+Token: ' Master' (ID: 10824), Prob: 0.0000
+Token: ' Person' (ID: 7357), Prob: 0.0000
+Token: ' Summary' (ID: 21517), Prob: 0.0000
+Token: ' Something' (ID: 24656), Prob: 0.0000
+Token: ' Details' (ID: 12309), Prob: 0.0000
+Token: ' Outline' (ID: 51909), Prob: 0.0000
+Token: ' Task' (ID: 5430), Prob: 0.0000
+Token: ' Since' (ID: 8704), Prob: 0.0000
+Token: ' Background' (ID: 24800), Prob: 0.0000
+Token: ' Source' (ID: 8748), Prob: 0.0000
+Token: ' Remember' (ID: 19881), Prob: 0.0000
+Token: ' Structure' (ID: 28596), Prob: 0.0000
+Token: ' Paragraph' (ID: 49351), Prob: 0.0000
+Token: ' Key' (ID: 5309), Prob: 0.0000
+Token: ' Good' (ID: 7684), Prob: 0.0000
+Token: ' Users' (ID: 14627), Prob: 0.0000
+Token: ' Everything' (ID: 20094), Prob: 0.0000
+Token: ' Owner' (ID: 25833), Prob: 0.0000
+Token: ' Topics' (ID: 40894), Prob: 0.0000
+Token: ' Starter' (ID: 59787), Prob: 0.0000
+Token: ' Relevant' (ID: 87416), Prob: 0.0000
+Token: ' Big' (ID: 6164), Prob: 0.0000
+Token: ' Meeting' (ID: 29055), Prob: 0.0000
+Token: ' Point' (ID: 5126), Prob: 0.0000
+Token: ' Three' (ID: 14513), Prob: 0.0000
+Token: ' Overview' (ID: 34807), Prob: 0.0000
+Token: ' Theme' (ID: 16442), Prob: 0.0000
+Token: ' Begin' (ID: 18597), Prob: 0.0000
 
 == Ranked Concepts (Clusters) ==
-Rank 1 | Centroid: ' prompt' | Score: 0.1973
-  Tokens: [' prompt', ' Prompt', ' prompts']
-Rank 2 | Centroid: ' description' | Score: 0.0074
-  Tokens: [' message', ' description', ' title']
-Rank 3 | Centroid: ' list' | Score: 0.0027
-  Tokens: [' list', ' item']
-Rank 4 | Centroid: ' without' | Score: 0.0009
-  Tokens: [' within', ' according', ' without']
-Rank 5 | Centroid: ' except' | Score: 0.0008
-  Tokens: [' except', ' please']
-Rank 6 | Centroid: ' including' | Score: 0.0008
-  Tokens: [' including', ' include']
-Rank 7 | Centroid: ' example' | Score: 0.0007
-  Tokens: [' example']
-Rank 8 | Centroid: ' answer' | Score: 0.0007
-  Tokens: [' answer', ' response']
-Rank 9 | Centroid: ' question' | Score: 0.0003
-  Tokens: [' question']
-Rank 10 | Centroid: ' display' | Score: 0.0003
-  Tokens: [' display']
-Rank 11 | Centroid: ' wording' | Score: 0.0003
-  Tokens: [' wording']
-Rank 12 | Centroid: ' format' | Score: 0.0002
-  Tokens: [' format']
-Rank 13 | Centroid: ' given' | Score: 0.0002
-  Tokens: [' given']
-Rank 14 | Centroid: ' bold' | Score: 0.0002
-  Tokens: [' bold']
-Rank 15 | Centroid: ' body' | Score: 0.0002
-  Tokens: [' body']
+Rank 1 | Centroid: ' Start' | Score: 0.0003
+  Tokens: [' Start', ' Starting', ' Started', ' Starts', ' start', ' Starter', ' Begin']
+Rank 2 | Centroid: ' Make' | Score: 0.0003
+  Tokens: [' Let', ' Make', ' Wait', ' Keep', ' Get']
+Rank 3 | Centroid: ' Okay' | Score: 0.0000
+  Tokens: [' Alright', ' Hmm', ' Okay', ' Got']
+Rank 4 | Centroid: ' Main' | Score: 0.0000
+  Tokens: [' Main', ' Original', ' Short', ' Master', ' Key', ' Big']
+Rank 5 | Centroid: ' Theme' | Score: 0.0000
+  Tokens: [' Title', ' Task', ' Topics', ' Theme']
+Rank 6 | Centroid: ' Since' | Score: 0.0000
+  Tokens: [' Maybe', ' Since', ' Remember']
+Rank 7 | Centroid: ' Highlight' | Score: 0.0000
+  Tokens: [' Highlight', ' Prompt', ' Mention', ' Paragraph', ' Meeting']
+Rank 8 | Centroid: ' Focus' | Score: 0.0000
+  Tokens: [' Focus']
+Rank 9 | Centroid: ' User' | Score: 0.0000
+  Tokens: [' User', ' Users', ' Owner']
+Rank 10 | Centroid: ' Time' | Score: 0.0000
+  Tokens: [' Time', ' Three']
+Rank 11 | Centroid: ' Important' | Score: 0.0000
+  Tokens: [' Important', ' Relevant']
+Rank 12 | Centroid: ' Well' | Score: 0.0000
+  Tokens: [' Well', ' Good']
+Rank 13 | Centroid: ' Break' | Score: 0.0000
+  Tokens: [' Break', ' Breaking']
+Rank 14 | Centroid: ' Overview' | Score: 0.0000
+  Tokens: [' Summary', ' Details', ' Outline', ' Background', ' Overview']
+Rank 15 | Centroid: ' People' | Score: 0.0000
+  Tokens: [' People', ' Person']
+Rank 16 | Centroid: ' Story' | Score: 0.0000
+  Tokens: [' Story']
+Rank 17 | Centroid: ' Something' | Score: 0.0000
+  Tokens: [' Something', ' Everything']
+Rank 18 | Centroid: ' Structure' | Score: 0.0000
+  Tokens: [' Structure', ' Point']
+Rank 19 | Centroid: ' Source' | Score: 0.0000
+  Tokens: [' Source']
 
 **Chosen Concept:** Rank 1

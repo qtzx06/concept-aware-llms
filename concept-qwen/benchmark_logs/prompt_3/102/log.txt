@@ -1,91 +1,155 @@
 --- Step 102 Log ---
 
 == Filtered Candidates ==
-Token: ' child' (ID: 1682), Prob: 1.0000
-Token: ' kid' (ID: 10369), Prob: 0.0001
-Token: '(child' (ID: 17794), Prob: 0.0001
-Token: ' children' (ID: 2841), Prob: 0.0000
-Token: ' Child' (ID: 9391), Prob: 0.0000
-Token: ' family' (ID: 2997), Prob: 0.0000
-Token: ' baby' (ID: 8770), Prob: 0.0000
-Token: ' parent' (ID: 2681), Prob: 0.0000
-Token: ' young' (ID: 3908), Prob: 0.0000
-Token: ' youth' (ID: 12537), Prob: 0.0000
-Token: '	child' (ID: 58391), Prob: 0.0000
-Token: '-child' (ID: 23484), Prob: 0.0000
-Token: ' infant' (ID: 30283), Prob: 0.0000
-Token: ' home' (ID: 2114), Prob: 0.0000
-Token: '.child' (ID: 17531), Prob: 0.0000
-Token: ' childhood' (ID: 19990), Prob: 0.0000
-Token: '_child' (ID: 17268), Prob: 0.0000
-Token: ' mother' (ID: 6554), Prob: 0.0000
-Token: 'child' (ID: 3048), Prob: 0.0000
-Token: ' student' (ID: 5458), Prob: 0.0000
-Token: ' grand' (ID: 6662), Prob: 0.0000
-Token: ' toddler' (ID: 51235), Prob: 0.0000
-Token: ' care' (ID: 2453), Prob: 0.0000
-Token: ' adult' (ID: 6683), Prob: 0.0000
-Token: ' girl' (ID: 3743), Prob: 0.0000
-Token: ' one' (ID: 825), Prob: 0.0000
-Token: ' user' (ID: 1196), Prob: 0.0000
-Token: ' boy' (ID: 8171), Prob: 0.0000
-Token: ' key' (ID: 1376), Prob: 0.0000
-Token: ' cat' (ID: 8251), Prob: 0.0000
-Token: ' daughter' (ID: 9803), Prob: 0.0000
-Token: ' teen' (ID: 9378), Prob: 0.0000
-Token: ' CHILD' (ID: 72520), Prob: 0.0000
-Token: ' childcare' (ID: 79171), Prob: 0.0000
-Token: ' check' (ID: 1779), Prob: 0.0000
-Token: '[child' (ID: 85483), Prob: 0.0000
-Token: ' old' (ID: 2310), Prob: 0.0000
-Token: ' grow' (ID: 3063), Prob: 0.0000
-Token: ' chapter' (ID: 12453), Prob: 0.0000
-Token: ' age' (ID: 4231), Prob: 0.0000
-Token: ' car' (ID: 1803), Prob: 0.0000
-Token: 'Child' (ID: 3652), Prob: 0.0000
-Token: ' charge' (ID: 6757), Prob: 0.0000
-Token: ' sub' (ID: 1186), Prob: 0.0000
-Token: ' day' (ID: 1899), Prob: 0.0000
-Token: ' city' (ID: 3283), Prob: 0.0000
-Token: ' father' (ID: 6981), Prob: 0.0000
-Token: ' youngster' (ID: 82271), Prob: 0.0000
+Token: ' conversation' (ID: 10435), Prob: 0.9141
+Token: ' relationship' (ID: 5025), Prob: 0.0115
+Token: ' friendly' (ID: 11657), Prob: 0.0058
+Token: ' talk' (ID: 3061), Prob: 0.0054
+Token: ' discussion' (ID: 10219), Prob: 0.0051
+Token: ' casual' (ID: 16334), Prob: 0.0042
+Token: ' serious' (ID: 6001), Prob: 0.0027
+Token: ' playful' (ID: 56069), Prob: 0.0027
+Token: ' meaningful' (ID: 22414), Prob: 0.0026
+Token: ' dialogue' (ID: 21276), Prob: 0.0024
+Token: ' chat' (ID: 6236), Prob: 0.0021
+Token: ' romantic' (ID: 23467), Prob: 0.0020
+Token: ' new' (ID: 501), Prob: 0.0018
+Token: ' strange' (ID: 14888), Prob: 0.0018
+Token: ' harmless' (ID: 52897), Prob: 0.0018
+Token: ' meeting' (ID: 6438), Prob: 0.0017
+Token: ' funny' (ID: 15173), Prob: 0.0016
+Token: ' humorous' (ID: 69846), Prob: 0.0013
+Token: ' friendship' (ID: 26509), Prob: 0.0009
+Token: ' connection' (ID: 3633), Prob: 0.0009
+Token: ' talking' (ID: 7404), Prob: 0.0008
+Token: ' joke' (ID: 21646), Prob: 0.0008
+Token: ' story' (ID: 3364), Prob: 0.0007
+Token: ' friend' (ID: 4238), Prob: 0.0007
+Token: ' communication' (ID: 10535), Prob: 0.0007
+Token: ' lively' (ID: 48177), Prob: 0.0007
+Token: ' situation' (ID: 6534), Prob: 0.0006
+Token: ' date' (ID: 2400), Prob: 0.0005
+Token: ' normal' (ID: 4622), Prob: 0.0005
+Token: ' problematic' (ID: 34933), Prob: 0.0005
+Token: ' misunderstanding' (ID: 69747), Prob: 0.0005
+Token: ' non' (ID: 2477), Prob: 0.0005
+Token: ' game' (ID: 1809), Prob: 0.0004
+Token: ' prank' (ID: 75273), Prob: 0.0004
+Token: ' fun' (ID: 2464), Prob: 0.0003
+Token: ' seemingly' (ID: 22660), Prob: 0.0003
+Token: ' small' (ID: 2613), Prob: 0.0003
+Token: ' pleasant' (ID: 23795), Prob: 0.0003
+Token: ' positive' (ID: 6785), Prob: 0.0003
+Token: ' good' (ID: 1661), Prob: 0.0003
+Token: ' spontaneous' (ID: 53457), Prob: 0.0003
+Token: ' beneficial' (ID: 23699), Prob: 0.0003
+Token: ' mysterious' (ID: 25382), Prob: 0.0003
+Token: ' different' (ID: 2155), Prob: 0.0002
+Token: ' joking' (ID: 57034), Prob: 0.0002
+Token: ' weird' (ID: 16283), Prob: 0.0002
+Token: ' comforting' (ID: 68030), Prob: 0.0002
+Token: ' mon' (ID: 1615), Prob: 0.0002
+Token: ' private' (ID: 869), Prob: 0.0002
+Token: ' genuine' (ID: 22011), Prob: 0.0002
+Token: ' life' (ID: 2272), Prob: 0.0002
+Token: ' bad' (ID: 3873), Prob: 0.0002
+Token: ' long' (ID: 1293), Prob: 0.0002
+Token: ' routine' (ID: 14021), Prob: 0.0002
+Token: ' curious' (ID: 22208), Prob: 0.0002
+Token: ' heartfelt' (ID: 83111), Prob: 0.0002
+Token: ' comment' (ID: 3980), Prob: 0.0002
+Token: ' dating' (ID: 4924), Prob: 0.0002
+Token: ' warm' (ID: 8205), Prob: 0.0002
+Token: ' charming' (ID: 34409), Prob: 0.0002
+Token: ' convers' (ID: 7517), Prob: 0.0001
+Token: ' verbal' (ID: 35770), Prob: 0.0001
+Token: ' flirt' (ID: 52630), Prob: 0.0001
+Token: ' social' (ID: 3590), Prob: 0.0001
+Token: ' random' (ID: 4194), Prob: 0.0001
+Token: ' speech' (ID: 8806), Prob: 0.0001
+Token: ' surprising' (ID: 14861), Prob: 0.0001
+Token: ' bizarre' (ID: 32188), Prob: 0.0001
+Token: ' bonding' (ID: 63086), Prob: 0.0001
+Token: ' mundane' (ID: 68682), Prob: 0.0001
+Token: ' topic' (ID: 8544), Prob: 0.0001
+Token: ' quiet' (ID: 11340), Prob: 0.0001
+Token: ' dramatic' (ID: 21771), Prob: 0.0001
+Token: ' series' (ID: 4013), Prob: 0.0001
+Token: ' dangerous' (ID: 11406), Prob: 0.0001
+Token: ' laugh' (ID: 12550), Prob: 0.0001
+Token: ' misleading' (ID: 37209), Prob: 0.0001
+Token: ' project' (ID: 2390), Prob: 0.0001
+Token: ' difficult' (ID: 5000), Prob: 0.0001
+Token: ' happy' (ID: 6247), Prob: 0.0001
+Token: ' journey' (ID: 11618), Prob: 0.0001
+Token: ' ritual' (ID: 27179), Prob: 0.0001
+Token: ' day' (ID: 1899), Prob: 0.0001
+Token: ' message' (ID: 1943), Prob: 0.0001
+Token: ' complicated' (ID: 16965), Prob: 0.0001
+Token: ' interaction' (ID: 16230), Prob: 0.0001
+Token: ' passionate' (ID: 24425), Prob: 0.0001
+Token: ' inappropriate' (ID: 32681), Prob: 0.0001
+Token: ' chaotic' (ID: 51987), Prob: 0.0001
+Token: ' nice' (ID: 6419), Prob: 0.0001
+Token: ' comfortable' (ID: 10655), Prob: 0.0001
+Token: ' helpful' (ID: 10950), Prob: 0.0001
+Token: ' conflict' (ID: 12055), Prob: 0.0001
+Token: ' careless' (ID: 83734), Prob: 0.0001
+Token: ' reluctant' (ID: 42940), Prob: 0.0001
+Token: ' troubling' (ID: 51229), Prob: 0.0001
+Token: ' false' (ID: 895), Prob: 0.0001
+Token: ' problem' (ID: 3491), Prob: 0.0001
 
 == Ranked Concepts (Clusters) ==
-Rank 1 | Centroid: ' child' | Score: 1.0000
-  Tokens: [' child', '(child', ' children', ' Child', '\tchild', '-child', '.child', '_child', 'child', ' CHILD', '[child', 'Child']
-Rank 2 | Centroid: ' youngster' | Score: 0.0001
-  Tokens: [' kid', ' teen', ' youngster']
-Rank 3 | Centroid: ' infant' | Score: 0.0000
-  Tokens: [' baby', ' infant', ' toddler', ' adult']
-Rank 4 | Centroid: ' family' | Score: 0.0000
-  Tokens: [' family', ' home']
-Rank 5 | Centroid: ' mother' | Score: 0.0000
-  Tokens: [' parent', ' mother', ' daughter', ' father']
-Rank 6 | Centroid: ' young' | Score: 0.0000
-  Tokens: [' young', ' youth']
-Rank 7 | Centroid: ' student' | Score: 0.0000
-  Tokens: [' student', ' user']
-Rank 8 | Centroid: ' one' | Score: 0.0000
-  Tokens: [' one', ' key', ' check']
-Rank 9 | Centroid: ' childhood' | Score: 0.0000
-  Tokens: [' childhood']
-Rank 10 | Centroid: ' girl' | Score: 0.0000
-  Tokens: [' girl', ' boy']
-Rank 11 | Centroid: ' grand' | Score: 0.0000
-  Tokens: [' grand', ' sub']
-Rank 12 | Centroid: ' care' | Score: 0.0000
-  Tokens: [' care']
-Rank 13 | Centroid: ' cat' | Score: 0.0000
-  Tokens: [' cat', ' car']
-Rank 14 | Centroid: ' old' | Score: 0.0000
-  Tokens: [' old', ' age']
-Rank 15 | Centroid: ' chapter' | Score: 0.0000
-  Tokens: [' chapter', ' charge']
-Rank 16 | Centroid: ' day' | Score: 0.0000
-  Tokens: [' day', ' city']
-Rank 17 | Centroid: ' childcare' | Score: 0.0000
-  Tokens: [' childcare']
-Rank 18 | Centroid: ' grow' | Score: 0.0000
-  Tokens: [' grow']
+Rank 1 | Centroid: ' conversation' | Score: 0.9297
+  Tokens: [' conversation', ' talk', ' discussion', ' dialogue', ' chat', ' talking', ' convers', ' speech']
+Rank 2 | Centroid: ' friendship' | Score: 0.0142
+  Tokens: [' relationship', ' friendship', ' connection', ' friend', ' bonding', ' interaction']
+Rank 3 | Centroid: ' pleasant' | Score: 0.0068
+  Tokens: [' friendly', ' pleasant', ' beneficial', ' comforting', ' happy', ' comfortable', ' helpful']
+Rank 4 | Centroid: ' humorous' | Score: 0.0056
+  Tokens: [' playful', ' funny', ' humorous']
+Rank 5 | Centroid: ' casual' | Score: 0.0046
+  Tokens: [' casual', ' spontaneous', ' verbal']
+Rank 6 | Centroid: ' meaningful' | Score: 0.0043
+  Tokens: [' meaningful', ' harmless']
+Rank 7 | Centroid: ' non' | Score: 0.0035
+  Tokens: [' new', ' non', ' small', ' different', ' mon', ' private', ' long', ' random']
+Rank 8 | Centroid: ' bizarre' | Score: 0.0033
+  Tokens: [' strange', ' seemingly', ' mysterious', ' weird', ' curious', ' surprising', ' bizarre', ' dramatic', ' complicated', ' chaotic']
+Rank 9 | Centroid: ' serious' | Score: 0.0027
+  Tokens: [' serious']
+Rank 10 | Centroid: ' meeting' | Score: 0.0023
+  Tokens: [' meeting', ' communication']
+Rank 11 | Centroid: ' romantic' | Score: 0.0020
+  Tokens: [' romantic']
+Rank 12 | Centroid: ' joke' | Score: 0.0017
+  Tokens: [' joke', ' prank', ' joking', ' flirt', ' laugh']
+Rank 13 | Centroid: ' journey' | Score: 0.0014
+  Tokens: [' story', ' game', ' project', ' journey', ' message']
+Rank 14 | Centroid: ' heartfelt' | Score: 0.0011
+  Tokens: [' lively', ' heartfelt', ' charming', ' passionate']
+Rank 15 | Centroid: ' conflict' | Score: 0.0011
+  Tokens: [' situation', ' comment', ' topic', ' conflict', ' problem']
+Rank 16 | Centroid: ' routine' | Score: 0.0009
+  Tokens: [' normal', ' routine', ' mundane', ' ritual']
+Rank 17 | Centroid: ' problematic' | Score: 0.0009
+  Tokens: [' problematic', ' dangerous', ' difficult', ' reluctant', ' troubling']
+Rank 18 | Centroid: ' misleading' | Score: 0.0008
+  Tokens: [' misunderstanding', ' misleading', ' inappropriate', ' careless']
+Rank 19 | Centroid: ' date' | Score: 0.0008
+  Tokens: [' date', ' dating', ' day']
+Rank 20 | Centroid: ' warm' | Score: 0.0006
+  Tokens: [' positive', ' warm', ' quiet']
+Rank 21 | Centroid: ' good' | Score: 0.0005
+  Tokens: [' good', ' bad', ' nice']
+Rank 22 | Centroid: ' fun' | Score: 0.0003
+  Tokens: [' fun']
+Rank 23 | Centroid: ' genuine' | Score: 0.0003
+  Tokens: [' genuine', ' false']
+Rank 24 | Centroid: ' social' | Score: 0.0002
+  Tokens: [' social', ' series']
+Rank 25 | Centroid: ' life' | Score: 0.0002
+  Tokens: [' life']
 
 **Chosen Concept:** Rank 1

@@ -1,66 +1,150 @@
 --- Step 97 Log ---
 
 == Filtered Candidates ==
-Token: ' prompt' (ID: 9934), Prob: 0.9883
-Token: ' message' (ID: 1943), Prob: 0.0028
-Token: ' Prompt' (ID: 59501), Prob: 0.0004
-Token: ' prompts' (ID: 50932), Prob: 0.0002
-Token: '(prompt' (ID: 72253), Prob: 0.0001
-Token: 'prompt' (ID: 40581), Prob: 0.0001
-Token: ' question' (ID: 3405), Prob: 0.0000
-Token: ' potential' (ID: 4650), Prob: 0.0000
-Token: 'Prompt' (ID: 54615), Prob: 0.0000
-Token: ' prompted' (ID: 28646), Prob: 0.0000
-Token: ' prompting' (ID: 49645), Prob: 0.0000
-Token: '_prompt' (ID: 61421), Prob: 0.0000
-Token: ' motif' (ID: 59512), Prob: 0.0000
-Token: ' promise' (ID: 11222), Prob: 0.0000
-Token: ' prom' (ID: 2706), Prob: 0.0000
-Token: ' within' (ID: 2878), Prob: 0.0000
-Token: ' hint' (ID: 13012), Prob: 0.0000
-Token: ' keyword' (ID: 16174), Prob: 0.0000
-Token: ' promotion' (ID: 20249), Prob: 0.0000
-Token: ' messages' (ID: 6605), Prob: 0.0000
-Token: '.prompt' (ID: 65399), Prob: 0.0000
-Token: ' theme' (ID: 6912), Prob: 0.0000
-Token: ' topic' (ID: 8544), Prob: 0.0000
-Token: ' point' (ID: 1459), Prob: 0.0000
-Token: ' wording' (ID: 60227), Prob: 0.0000
-Token: ' position' (ID: 2309), Prob: 0.0000
-Token: ' mood' (ID: 19671), Prob: 0.0000
-Token: ' promote' (ID: 11926), Prob: 0.0000
-Token: ' priority' (ID: 10619), Prob: 0.0000
-Token: ' bold' (ID: 13939), Prob: 0.0000
-Token: ' PROM' (ID: 67688), Prob: 0.0000
+Token: ' journey' (ID: 11618), Prob: 0.6992
+Token: ' hike' (ID: 34231), Prob: 0.1377
+Token: ' experience' (ID: 3139), Prob: 0.0574
+Token: ' trip' (ID: 8411), Prob: 0.0349
+Token: ' adventure' (ID: 17943), Prob: 0.0239
+Token: ' climb' (ID: 25367), Prob: 0.0165
+Token: ' accomplishment' (ID: 60138), Prob: 0.0165
+Token: ' trek' (ID: 44588), Prob: 0.0032
+Token: ' achievement' (ID: 25426), Prob: 0.0014
+Token: ' walk' (ID: 4227), Prob: 0.0007
+Token: ' experiences' (ID: 11449), Prob: 0.0007
+Token: ' visit' (ID: 3947), Prob: 0.0005
+Token: ' hikes' (ID: 67485), Prob: 0.0004
+Token: ' discovery' (ID: 18335), Prob: 0.0004
+Token: ' finish' (ID: 6248), Prob: 0.0004
+Token: ' day' (ID: 1899), Prob: 0.0003
+Token: ' long' (ID: 1293), Prob: 0.0002
+Token: ' encounter' (ID: 12828), Prob: 0.0002
+Token: ' moment' (ID: 4445), Prob: 0.0002
+Token: ' hiking' (ID: 37364), Prob: 0.0002
+Token: ' exploration' (ID: 26403), Prob: 0.0002
+Token: ' destination' (ID: 9106), Prob: 0.0002
+Token: ' ride' (ID: 11877), Prob: 0.0002
+Token: ' achievements' (ID: 32897), Prob: 0.0002
+Token: ' whole' (ID: 4361), Prob: 0.0002
+Token: ' travel' (ID: 5821), Prob: 0.0002
+Token: ' memories' (ID: 18923), Prob: 0.0002
+Token: ' end' (ID: 835), Prob: 0.0001
+Token: ' accomplishments' (ID: 52781), Prob: 0.0001
+Token: ' outing' (ID: 64181), Prob: 0.0001
+Token: ' expedition' (ID: 50164), Prob: 0.0001
+Token: ' challenge' (ID: 8645), Prob: 0.0001
+Token: ' outdoors' (ID: 33532), Prob: 0.0001
+Token: ' reward' (ID: 11313), Prob: 0.0001
+Token: ' tour' (ID: 7216), Prob: 0.0001
+Token: ' entire' (ID: 4453), Prob: 0.0001
+Token: ' mountain' (ID: 16301), Prob: 0.0001
+Token: ' scenery' (ID: 50231), Prob: 0.0001
+Token: ' discoveries' (ID: 52998), Prob: 0.0001
+Token: ' ascent' (ID: 74989), Prob: 0.0001
+Token: ' summit' (ID: 28948), Prob: 0.0001
+Token: ' surroundings' (ID: 39090), Prob: 0.0001
+Token: ' view' (ID: 1651), Prob: 0.0001
+Token: ' final' (ID: 1590), Prob: 0.0001
+Token: ' time' (ID: 882), Prob: 0.0001
+Token: ' activity' (ID: 5702), Prob: 0.0001
+Token: ' trail' (ID: 8849), Prob: 0.0001
+Token: ' rewards' (ID: 21160), Prob: 0.0001
+Token: ' views' (ID: 6194), Prob: 0.0001
+Token: ' weather' (ID: 9104), Prob: 0.0000
+Token: ' effort' (ID: 5041), Prob: 0.0000
+Token: ' peak' (ID: 16162), Prob: 0.0000
+Token: ' environment' (ID: 4573), Prob: 0.0000
+Token: ' outdoor' (ID: 15789), Prob: 0.0000
+Token: ' victory' (ID: 12560), Prob: 0.0000
+Token: ' physical' (ID: 6961), Prob: 0.0000
+Token: ' explor' (ID: 47439), Prob: 0.0000
+Token: ' drive' (ID: 6541), Prob: 0.0000
+Token: ' adventures' (ID: 30978), Prob: 0.0000
+Token: ' success' (ID: 2393), Prob: 0.0000
+Token: ' challenges' (ID: 11513), Prob: 0.0000
+Token: ' return' (ID: 470), Prob: 0.0000
+Token: ' escape' (ID: 12449), Prob: 0.0000
+Token: ' story' (ID: 3364), Prob: 0.0000
+Token: ' explorer' (ID: 52967), Prob: 0.0000
+Token: ' sunrise' (ID: 63819), Prob: 0.0000
+Token: ' activities' (ID: 7488), Prob: 0.0000
+Token: ' endeavor' (ID: 53814), Prob: 0.0000
+Token: ' first' (ID: 1156), Prob: 0.0000
+Token: ' last' (ID: 1537), Prob: 0.0000
+Token: ' successful' (ID: 6849), Prob: 0.0000
+Token: ' descent' (ID: 36952), Prob: 0.0000
+Token: ' evening' (ID: 11458), Prob: 0.0000
+Token: ' travels' (ID: 34192), Prob: 0.0000
+Token: ' sunset' (ID: 42984), Prob: 0.0000
+Token: ' task' (ID: 3383), Prob: 0.0000
+Token: ' morning' (ID: 6556), Prob: 0.0000
+Token: ' landscape' (ID: 18414), Prob: 0.0000
+Token: ' five' (ID: 4236), Prob: 0.0000
+Token: ' completion' (ID: 9755), Prob: 0.0000
+Token: ' tired' (ID: 19227), Prob: 0.0000
+Token: ' triumph' (ID: 37486), Prob: 0.0000
+Token: ' job' (ID: 2618), Prob: 0.0000
+Token: ' sun' (ID: 7015), Prob: 0.0000
+Token: ' grand' (ID: 6662), Prob: 0.0000
+Token: ' solo' (ID: 13529), Prob: 0.0000
+Token: ' treasure' (ID: 31626), Prob: 0.0000
+Token: ' traveler' (ID: 62765), Prob: 0.0000
+Token: ' pilgrimage' (ID: 89313), Prob: 0.0000
+Token: ' sight' (ID: 13929), Prob: 0.0000
+Token: ' rest' (ID: 2732), Prob: 0.0000
+Token: ' win' (ID: 3164), Prob: 0.0000
+Token: ' memory' (ID: 4938), Prob: 0.0000
+Token: ' nature' (ID: 6993), Prob: 0.0000
+Token: ' mountains' (ID: 23501), Prob: 0.0000
+Token: ' ordeal' (ID: 73681), Prob: 0.0000
+Token: ' journeys' (ID: 63776), Prob: 0.0000
+Token: ' park' (ID: 6118), Prob: 0.0000
+Token: ' well' (ID: 1632), Prob: 0.0000
 
 == Ranked Concepts (Clusters) ==
-Rank 1 | Centroid: 'Prompt' | Score: 0.9883
-  Tokens: [' prompt', ' Prompt', '(prompt', 'prompt', 'Prompt', '_prompt', '.prompt']
-Rank 2 | Centroid: ' message' | Score: 0.0028
-  Tokens: [' message', ' messages']
-Rank 3 | Centroid: ' prompts' | Score: 0.0002
-  Tokens: [' prompts', ' prompted', ' prompting']
-Rank 4 | Centroid: ' potential' | Score: 0.0000
-  Tokens: [' potential', ' within']
-Rank 5 | Centroid: ' theme' | Score: 0.0000
-  Tokens: [' motif', ' theme', ' topic']
-Rank 6 | Centroid: ' promote' | Score: 0.0000
-  Tokens: [' prom', ' promotion', ' promote', ' PROM']
-Rank 7 | Centroid: ' question' | Score: 0.0000
-  Tokens: [' question']
-Rank 8 | Centroid: ' keyword' | Score: 0.0000
-  Tokens: [' keyword', ' priority']
-Rank 9 | Centroid: ' promise' | Score: 0.0000
-  Tokens: [' promise']
-Rank 10 | Centroid: ' point' | Score: 0.0000
-  Tokens: [' point', ' position']
-Rank 11 | Centroid: ' hint' | Score: 0.0000
-  Tokens: [' hint']
-Rank 12 | Centroid: ' wording' | Score: 0.0000
-  Tokens: [' wording']
-Rank 13 | Centroid: ' mood' | Score: 0.0000
-  Tokens: [' mood']
-Rank 14 | Centroid: ' bold' | Score: 0.0000
-  Tokens: [' bold']
+Rank 1 | Centroid: ' travels' | Score: 0.7383
+  Tokens: [' journey', ' trip', ' trek', ' visit', ' travel', ' tour', ' travels', ' traveler', ' pilgrimage', ' journeys']
+Rank 2 | Centroid: ' hike' | Score: 0.1553
+  Tokens: [' hike', ' climb', ' hikes', ' hiking', ' summit']
+Rank 3 | Centroid: ' experience' | Score: 0.0583
+  Tokens: [' experience', ' experiences', ' encounter']
+Rank 4 | Centroid: ' exploration' | Score: 0.0248
+  Tokens: [' adventure', ' discovery', ' exploration', ' expedition', ' discoveries', ' explor', ' adventures', ' explorer']
+Rank 5 | Centroid: ' achievements' | Score: 0.0182
+  Tokens: [' accomplishment', ' achievement', ' achievements', ' accomplishments', ' victory', ' success', ' successful', ' triumph', ' win']
+Rank 6 | Centroid: ' walk' | Score: 0.0010
+  Tokens: [' walk', ' ride', ' trail', ' drive']
+Rank 7 | Centroid: ' five' | Score: 0.0006
+  Tokens: [' long', ' end', ' final', ' physical', ' return', ' first', ' last', ' five', ' grand', ' solo', ' rest', ' well']
+Rank 8 | Centroid: ' outdoor' | Score: 0.0004
+  Tokens: [' outdoors', ' scenery', ' surroundings', ' weather', ' environment', ' outdoor', ' landscape', ' nature']
+Rank 9 | Centroid: ' finish' | Score: 0.0004
+  Tokens: [' finish', ' completion']
+Rank 10 | Centroid: ' morning' | Score: 0.0003
+  Tokens: [' day', ' sunrise', ' evening', ' sunset', ' morning', ' sun']
+Rank 11 | Centroid: ' moment' | Score: 0.0003
+  Tokens: [' moment', ' time', ' story']
+Rank 12 | Centroid: ' whole' | Score: 0.0002
+  Tokens: [' whole', ' entire']
+Rank 13 | Centroid: ' destination' | Score: 0.0002
+  Tokens: [' destination', ' escape']
+Rank 14 | Centroid: ' reward' | Score: 0.0002
+  Tokens: [' reward', ' rewards', ' treasure']
+Rank 15 | Centroid: ' ordeal' | Score: 0.0002
+  Tokens: [' outing', ' endeavor', ' ordeal']
+Rank 16 | Centroid: ' challenge' | Score: 0.0002
+  Tokens: [' challenge', ' challenges', ' task', ' job']
+Rank 17 | Centroid: ' memories' | Score: 0.0002
+  Tokens: [' memories', ' memory']
+Rank 18 | Centroid: ' mountain' | Score: 0.0001
+  Tokens: [' mountain', ' peak', ' mountains', ' park']
+Rank 19 | Centroid: ' view' | Score: 0.0001
+  Tokens: [' view', ' views', ' sight']
+Rank 20 | Centroid: ' activities' | Score: 0.0001
+  Tokens: [' activity', ' effort', ' activities']
+Rank 21 | Centroid: ' ascent' | Score: 0.0001
+  Tokens: [' ascent', ' descent']
+Rank 22 | Centroid: ' tired' | Score: 0.0000
+  Tokens: [' tired']
 
 **Chosen Concept:** Rank 1

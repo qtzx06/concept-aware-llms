@@ -1,120 +1,151 @@
 --- Step 53 Log ---
 
 == Filtered Candidates ==
-Token: ' family' (ID: 2997), Prob: 1.0000
-Token: ' home' (ID: 2114), Prob: 0.0002
-Token: ' Family' (ID: 12238), Prob: 0.0000
-Token: ' company' (ID: 2813), Prob: 0.0000
-Token: ' families' (ID: 8521), Prob: 0.0000
-Token: 'family' (ID: 18984), Prob: 0.0000
-Token: ' familia' (ID: 50947), Prob: 0.0000
-Token: ' child' (ID: 1682), Prob: 0.0000
-Token: ' mother' (ID: 6554), Prob: 0.0000
-Token: ' house' (ID: 3753), Prob: 0.0000
-Token: ' future' (ID: 3853), Prob: 0.0000
-Token: ' country' (ID: 3146), Prob: 0.0000
-Token: ' room' (ID: 3054), Prob: 0.0000
-Token: ' factory' (ID: 8633), Prob: 0.0000
-Token: ' household' (ID: 13732), Prob: 0.0000
-Token: ' familial' (ID: 97204), Prob: 0.0000
-Token: ' first' (ID: 1156), Prob: 0.0000
-Token: ' parent' (ID: 2681), Prob: 0.0000
-Token: ' category' (ID: 5582), Prob: 0.0000
-Token: ' fam' (ID: 2091), Prob: 0.0000
-Token: ' children' (ID: 2841), Prob: 0.0000
-Token: ' world' (ID: 1879), Prob: 0.0000
-Token: ' famil' (ID: 43426), Prob: 0.0000
-Token: ' name' (ID: 829), Prob: 0.0000
-Token: ' care' (ID: 2453), Prob: 0.0000
-Token: ' kitchen' (ID: 9780), Prob: 0.0000
-Token: ' next' (ID: 1790), Prob: 0.0000
-Token: ' system' (ID: 1849), Prob: 0.0000
-Token: ' city' (ID: 3283), Prob: 0.0000
-Token: 'Family' (ID: 15192), Prob: 0.0000
-Token: ' community' (ID: 3942), Prob: 0.0000
-Token: ' farm' (ID: 8785), Prob: 0.0000
-Token: ' following' (ID: 2701), Prob: 0.0000
-Token: ' father' (ID: 6981), Prob: 0.0000
-Token: ' year' (ID: 1042), Prob: 0.0000
-Token: ' way' (ID: 1616), Prob: 0.0000
-Token: ' day' (ID: 1899), Prob: 0.0000
-Token: ' environment' (ID: 4573), Prob: 0.0000
-Token: ' parents' (ID: 6562), Prob: 0.0000
-Token: ' facility' (ID: 12481), Prob: 0.0000
-Token: ' field' (ID: 2070), Prob: 0.0000
-Token: ' current' (ID: 1482), Prob: 0.0000
-Token: ' center' (ID: 4126), Prob: 0.0000
-Token: ' nursery' (ID: 55126), Prob: 0.0000
-Token: ' FAMILY' (ID: 87469), Prob: 0.0000
-Token: ' class' (ID: 536), Prob: 0.0000
-Token: ' school' (ID: 2906), Prob: 0.0000
-Token: '_family' (ID: 26823), Prob: 0.0000
-Token: ' new' (ID: 501), Prob: 0.0000
-Token: ' camp' (ID: 3113), Prob: 0.0000
-Token: ' study' (ID: 3920), Prob: 0.0000
-Token: ' car' (ID: 1803), Prob: 0.0000
-Token: ' summer' (ID: 7324), Prob: 0.0000
-Token: ' baby' (ID: 8770), Prob: 0.0000
-Token: ' parenting' (ID: 47958), Prob: 0.0000
-Token: '-family' (ID: 17190), Prob: 0.0000
-Token: ' full' (ID: 2480), Prob: 0.0000
-Token: ' love' (ID: 2948), Prob: 0.0000
-Token: ' living' (ID: 5382), Prob: 0.0000
-Token: ' relationship' (ID: 5025), Prob: 0.0000
-Token: ' couple' (ID: 5625), Prob: 0.0000
-Token: ' capital' (ID: 6722), Prob: 0.0000
-Token: ' hospital' (ID: 8777), Prob: 0.0000
-Token: ' garden' (ID: 13551), Prob: 0.0000
-Token: ' party' (ID: 4614), Prob: 0.0000
-Token: ' queue' (ID: 7177), Prob: 0.0000
-Token: ' journey' (ID: 11618), Prob: 0.0000
-Token: ' legacy' (ID: 19588), Prob: 0.0000
-Token: ' charity' (ID: 22846), Prob: 0.0000
-Token: ' famille' (ID: 66528), Prob: 0.0000
-Token: '_FAMILY' (ID: 80828), Prob: 0.0000
-Token: ' night' (ID: 3729), Prob: 0.0000
-Token: ' lab' (ID: 10072), Prob: 0.0000
-Token: ' childhood' (ID: 19990), Prob: 0.0000
-Token: ' time' (ID: 882), Prob: 0.0000
-Token: ' long' (ID: 1293), Prob: 0.0000
-Token: ' three' (ID: 2326), Prob: 0.0000
+Token: ' possibilities' (ID: 23607), Prob: 0.5273
+Token: ' scenarios' (ID: 25283), Prob: 0.1934
+Token: ' possible' (ID: 3204), Prob: 0.0913
+Token: ' options' (ID: 2606), Prob: 0.0806
+Token: ' main' (ID: 1887), Prob: 0.0262
+Token: ' characters' (ID: 5766), Prob: 0.0204
+Token: ' things' (ID: 2513), Prob: 0.0059
+Token: ' events' (ID: 4357), Prob: 0.0038
+Token: ' themes' (ID: 21386), Prob: 0.0038
+Token: ' situations' (ID: 14740), Prob: 0.0033
+Token: ' interpretations' (ID: 57589), Prob: 0.0029
+Token: ' people' (ID: 1251), Prob: 0.0019
+Token: ' ideas' (ID: 6708), Prob: 0.0019
+Token: ' outcomes' (ID: 19554), Prob: 0.0018
+Token: ' elements' (ID: 5424), Prob: 0.0017
+Token: ' actions' (ID: 6168), Prob: 0.0017
+Token: ' choices' (ID: 11454), Prob: 0.0015
+Token: ' roles' (ID: 12783), Prob: 0.0015
+Token: ' emotions' (ID: 21261), Prob: 0.0013
+Token: ' angles' (ID: 25941), Prob: 0.0012
+Token: ' perspectives' (ID: 38455), Prob: 0.0010
+Token: ' potential' (ID: 4650), Prob: 0.0008
+Token: ' key' (ID: 1376), Prob: 0.0008
+Token: ' directions' (ID: 17961), Prob: 0.0008
+Token: ' plausible' (ID: 49334), Prob: 0.0008
+Token: ' cases' (ID: 5048), Prob: 0.0006
+Token: ' scenes' (ID: 16065), Prob: 0.0005
+Token: ' core' (ID: 6200), Prob: 0.0005
+Token: ' parts' (ID: 5479), Prob: 0.0004
+Token: ' approaches' (ID: 19827), Prob: 0.0004
+Token: ' plots' (ID: 30694), Prob: 0.0004
+Token: ' versions' (ID: 10795), Prob: 0.0004
+Token: ' aspects' (ID: 13566), Prob: 0.0004
+Token: ' sides' (ID: 11067), Prob: 0.0003
+Token: ' central' (ID: 8622), Prob: 0.0003
+Token: ' ways' (ID: 5510), Prob: 0.0003
+Token: ' endings' (ID: 76597), Prob: 0.0003
+Token: ' likely' (ID: 4363), Prob: 0.0002
+Token: ' topics' (ID: 13347), Prob: 0.0002
+Token: ' primary' (ID: 6028), Prob: 0.0002
+Token: ' existing' (ID: 6350), Prob: 0.0002
+Token: ' stories' (ID: 7343), Prob: 0.0002
+Token: ' reactions' (ID: 24473), Prob: 0.0002
+Token: ' narratives' (ID: 57278), Prob: 0.0002
+Token: ' worlds' (ID: 23859), Prob: 0.0002
+Token: ' contexts' (ID: 37597), Prob: 0.0002
+Token: ' experiences' (ID: 11449), Prob: 0.0002
+Token: ' suspects' (ID: 29761), Prob: 0.0002
+Token: ' places' (ID: 7482), Prob: 0.0002
+Token: ' emotional' (ID: 14269), Prob: 0.0002
+Token: ' common' (ID: 4185), Prob: 0.0002
+Token: ' variables' (ID: 7332), Prob: 0.0002
+Token: ' threads' (ID: 14564), Prob: 0.0002
+Token: ' concepts' (ID: 18940), Prob: 0.0002
+Token: ' sentences' (ID: 22870), Prob: 0.0002
+Token: ' settings' (ID: 5003), Prob: 0.0002
+Token: ' alternatives' (ID: 26450), Prob: 0.0002
+Token: ' protagonists' (ID: 94635), Prob: 0.0002
+Token: ' major' (ID: 3598), Prob: 0.0001
+Token: ' plot' (ID: 7089), Prob: 0.0001
+Token: ' relationships' (ID: 11871), Prob: 0.0001
+Token: ' paths' (ID: 12716), Prob: 0.0001
+Token: ' narrative' (ID: 19221), Prob: 0.0001
+Token: ' points' (ID: 3501), Prob: 0.0001
+Token: ' acts' (ID: 14056), Prob: 0.0001
+Token: ' logical' (ID: 19819), Prob: 0.0001
+Token: ' theories' (ID: 24970), Prob: 0.0001
+Token: ' conflicts' (ID: 25800), Prob: 0.0001
+Token: ' different' (ID: 2155), Prob: 0.0001
+Token: ' thoughts' (ID: 11303), Prob: 0.0001
+Token: ' contrasting' (ID: 73955), Prob: 0.0001
+Token: ' timelines' (ID: 87144), Prob: 0.0001
+Token: ' human' (ID: 3738), Prob: 0.0001
+Token: ' conditions' (ID: 4682), Prob: 0.0001
+Token: ' friends' (ID: 4780), Prob: 0.0001
+Token: ' character' (ID: 3668), Prob: 0.0001
+Token: ' accounts' (ID: 9618), Prob: 0.0001
+Token: ' hypotheses' (ID: 73413), Prob: 0.0001
+Token: ' univers' (ID: 10919), Prob: 0.0001
+Token: ' feelings' (ID: 15650), Prob: 0.0001
+Token: ' personas' (ID: 31425), Prob: 0.0001
+Token: ' triangles' (ID: 42446), Prob: 0.0001
+Token: ' original' (ID: 4024), Prob: 0.0001
+Token: ' lines' (ID: 5128), Prob: 0.0001
+Token: ' interactions' (ID: 21880), Prob: 0.0001
+Token: ' occurrences' (ID: 56015), Prob: 0.0001
+Token: ' examples' (ID: 10295), Prob: 0.0001
+Token: ' incidents' (ID: 23546), Prob: 0.0001
+Token: ' arcs' (ID: 66750), Prob: 0.0001
+Token: ' responses' (ID: 14507), Prob: 0.0001
+Token: ' alternate' (ID: 24609), Prob: 0.0001
+Token: ' implications' (ID: 24154), Prob: 0.0001
+Token: ' story' (ID: 3364), Prob: 0.0001
+Token: ' possibility' (ID: 13038), Prob: 0.0001
 
 == Ranked Concepts (Clusters) ==
-Rank 1 | Centroid: ' Family' | Score: 1.0000
-  Tokens: [' family', ' Family', ' families', 'family', ' familia', ' familial', ' fam', ' famil', 'Family', ' FAMILY', '_family', '-family', ' famille', '_FAMILY']
-Rank 2 | Centroid: ' house' | Score: 0.0002
-  Tokens: [' home', ' house', ' room', ' household']
-Rank 3 | Centroid: ' hospital' | Score: 0.0000
-  Tokens: [' company', ' country', ' factory', ' city', ' school', ' hospital', ' party']
-Rank 4 | Centroid: ' new' | Score: 0.0000
-  Tokens: [' future', ' first', ' next', ' following', ' current', ' new', ' full', ' long', ' three']
-Rank 5 | Centroid: ' parents' | Score: 0.0000
-  Tokens: [' mother', ' parent', ' father', ' parents', ' parenting']
-Rank 6 | Centroid: ' child' | Score: 0.0000
-  Tokens: [' child', ' children', ' baby', ' childhood']
-Rank 7 | Centroid: ' category' | Score: 0.0000
-  Tokens: [' category', ' system', ' community', ' field', ' class']
-Rank 8 | Centroid: ' garden' | Score: 0.0000
-  Tokens: [' kitchen', ' farm', ' facility', ' garden']
-Rank 9 | Centroid: ' day' | Score: 0.0000
-  Tokens: [' year', ' day', ' summer', ' night']
-Rank 10 | Centroid: ' world' | Score: 0.0000
-  Tokens: [' world', ' way']
-Rank 11 | Centroid: ' love' | Score: 0.0000
-  Tokens: [' care', ' car', ' love']
-Rank 12 | Centroid: ' queue' | Score: 0.0000
-  Tokens: [' center', ' camp', ' couple', ' queue']
-Rank 13 | Centroid: ' name' | Score: 0.0000
-  Tokens: [' name', ' time']
-Rank 14 | Centroid: ' journey' | Score: 0.0000
-  Tokens: [' environment', ' relationship', ' journey']
-Rank 15 | Centroid: ' lab' | Score: 0.0000
-  Tokens: [' study', ' capital', ' lab']
-Rank 16 | Centroid: ' nursery' | Score: 0.0000
-  Tokens: [' nursery']
-Rank 17 | Centroid: ' legacy' | Score: 0.0000
-  Tokens: [' legacy', ' charity']
-Rank 18 | Centroid: ' living' | Score: 0.0000
-  Tokens: [' living']
+Rank 1 | Centroid: ' possible' | Score: 0.6211
+  Tokens: [' possibilities', ' possible', ' potential', ' plausible', ' likely', ' possibility']
+Rank 2 | Centroid: ' scenarios' | Score: 0.1982
+  Tokens: [' scenarios', ' situations', ' cases', ' scenes', ' contexts', ' settings', ' conditions', ' examples']
+Rank 3 | Centroid: ' options' | Score: 0.0820
+  Tokens: [' options', ' choices']
+Rank 4 | Centroid: ' main' | Score: 0.0288
+  Tokens: [' main', ' key', ' core', ' central', ' primary', ' existing', ' common', ' major', ' different', ' human', ' original']
+Rank 5 | Centroid: ' characters' | Score: 0.0205
+  Tokens: [' characters', ' friends', ' character']
+Rank 6 | Centroid: ' ideas' | Score: 0.0125
+  Tokens: [' things', ' themes', ' ideas', ' aspects', ' topics', ' concepts', ' thoughts']
+Rank 7 | Centroid: ' incidents' | Score: 0.0060
+  Tokens: [' events', ' outcomes', ' experiences', ' conflicts', ' occurrences', ' incidents']
+Rank 8 | Centroid: ' perspectives' | Score: 0.0054
+  Tokens: [' interpretations', ' roles', ' perspectives']
+Rank 9 | Centroid: ' interactions' | Score: 0.0023
+  Tokens: [' actions', ' reactions', ' relationships', ' acts', ' interactions', ' responses']
+Rank 10 | Centroid: ' points' | Score: 0.0020
+  Tokens: [' directions', ' parts', ' sides', ' places', ' paths', ' points', ' lines']
+Rank 11 | Centroid: ' people' | Score: 0.0019
+  Tokens: [' people']
+Rank 12 | Centroid: ' elements' | Score: 0.0018
+  Tokens: [' elements', ' variables']
+Rank 13 | Centroid: ' emotions' | Score: 0.0016
+  Tokens: [' emotions', ' emotional', ' feelings']
+Rank 14 | Centroid: ' triangles' | Score: 0.0015
+  Tokens: [' angles', ' threads', ' triangles', ' arcs']
+Rank 15 | Centroid: ' approaches' | Score: 0.0011
+  Tokens: [' approaches', ' versions', ' ways']
+Rank 16 | Centroid: ' narratives' | Score: 0.0008
+  Tokens: [' stories', ' narratives', ' sentences', ' narrative', ' story']
+Rank 17 | Centroid: ' plots' | Score: 0.0006
+  Tokens: [' plots', ' plot']
+Rank 18 | Centroid: ' endings' | Score: 0.0004
+  Tokens: [' endings', ' suspects']
+Rank 19 | Centroid: ' alternatives' | Score: 0.0003
+  Tokens: [' alternatives', ' contrasting', ' alternate']
+Rank 20 | Centroid: ' worlds' | Score: 0.0003
+  Tokens: [' worlds', ' univers']
+Rank 21 | Centroid: ' hypotheses' | Score: 0.0003
+  Tokens: [' theories', ' hypotheses', ' implications']
+Rank 22 | Centroid: ' protagonists' | Score: 0.0002
+  Tokens: [' protagonists', ' personas']
+Rank 23 | Centroid: ' logical' | Score: 0.0001
+  Tokens: [' logical']
+Rank 24 | Centroid: ' timelines' | Score: 0.0001
+  Tokens: [' timelines']
+Rank 25 | Centroid: ' accounts' | Score: 0.0001
+  Tokens: [' accounts']
 
 **Chosen Concept:** Rank 1

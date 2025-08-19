@@ -1,92 +1,132 @@
 --- Step 36 Log ---
 
 == Filtered Candidates ==
-Token: ' yes' (ID: 9834), Prob: 0.1055
-Token: ' something' (ID: 2494), Prob: 0.0012
-Token: ' maybe' (ID: 7196), Prob: 0.0008
-Token: ' nothing' (ID: 4302), Prob: 0.0004
-Token: ' negative' (ID: 8225), Prob: 0.0003
-Token: ' none' (ID: 6857), Prob: 0.0001
-Token: ' yeah' (ID: 21639), Prob: 0.0001
-Token: ' etc' (ID: 4992), Prob: 0.0001
-Token: ' exactly' (ID: 6896), Prob: 0.0001
-Token: ' unknown' (ID: 9788), Prob: 0.0001
-Token: ' hello' (ID: 23811), Prob: 0.0001
-Token: ' wait' (ID: 3783), Prob: 0.0001
-Token: ' answer' (ID: 4226), Prob: 0.0001
-Token: ' also' (ID: 1083), Prob: 0.0001
-Token: ' definitely' (ID: 8491), Prob: 0.0001
-Token: ' one' (ID: 825), Prob: 0.0001
-Token: ' okay' (ID: 16910), Prob: 0.0001
-Token: ' sure' (ID: 2704), Prob: 0.0000
-Token: ' neither' (ID: 13866), Prob: 0.0000
-Token: ' depends' (ID: 13798), Prob: 0.0000
-Token: ' without' (ID: 2041), Prob: 0.0000
-Token: ' either' (ID: 2987), Prob: 0.0000
-Token: ' whether' (ID: 3425), Prob: 0.0000
-Token: ' impossible' (ID: 11997), Prob: 0.0000
-Token: ' false' (ID: 895), Prob: 0.0000
-Token: ' perhaps' (ID: 8365), Prob: 0.0000
-Token: ' another' (ID: 2441), Prob: 0.0000
-Token: ' possible' (ID: 3204), Prob: 0.0000
-Token: ' correct' (ID: 4396), Prob: 0.0000
-Token: ' missing' (ID: 7402), Prob: 0.0000
-Token: ' depending' (ID: 11649), Prob: 0.0000
-Token: ' still' (ID: 2058), Prob: 0.0000
-Token: ' cannot' (ID: 4157), Prob: 0.0000
-Token: ' Yes' (ID: 7414), Prob: 0.0000
-Token: ' even' (ID: 1496), Prob: 0.0000
-Token: ' enough' (ID: 3322), Prob: 0.0000
-Token: ' anything' (ID: 4113), Prob: 0.0000
-Token: ' based' (ID: 3118), Prob: 0.0000
-Token: ' neg' (ID: 4184), Prob: 0.0000
-Token: '(no' (ID: 39205), Prob: 0.0000
-Token: ' else' (ID: 770), Prob: 0.0000
-Token: ' please' (ID: 4486), Prob: 0.0000
-Token: ' zero' (ID: 7168), Prob: 0.0000
-Token: ' possibly' (ID: 10767), Prob: 0.0000
-Token: ' always' (ID: 2677), Prob: 0.0000
+Token: ' Mention' (ID: 85148), Prob: 0.2832
+Token: ' Include' (ID: 29734), Prob: 0.0435
+Token: ' Use' (ID: 5443), Prob: 0.0205
+Token: ' Add' (ID: 2691), Prob: 0.0028
+Token: ' Next' (ID: 9295), Prob: 0.0008
+Token: ' Int' (ID: 1333), Prob: 0.0007
+Token: ' Describe' (ID: 60785), Prob: 0.0003
+Token: ' Highlight' (ID: 55994), Prob: 0.0002
+Token: ' Incorpor' (ID: 53704), Prob: 0.0001
+Token: ' Make' (ID: 7405), Prob: 0.0001
+Token: ' Maybe' (ID: 10696), Prob: 0.0001
+Token: ' Talk' (ID: 18976), Prob: 0.0001
+Token: ' Insert' (ID: 17101), Prob: 0.0001
+Token: ' Let' (ID: 6771), Prob: 0.0001
+Token: ' Need' (ID: 14656), Prob: 0.0001
+Token: ' Combine' (ID: 46812), Prob: 0.0001
+Token: ' Including' (ID: 55121), Prob: 0.0001
+Token: ' Start' (ID: 5145), Prob: 0.0001
+Token: ' Since' (ID: 8704), Prob: 0.0001
+Token: ' Focus' (ID: 25806), Prob: 0.0001
+Token: ' mention' (ID: 6286), Prob: 0.0000
+Token: ' Follow' (ID: 11112), Prob: 0.0000
+Token: ' Wait' (ID: 13824), Prob: 0.0000
+Token: ' Mix' (ID: 19219), Prob: 0.0000
+Token: ' Keep' (ID: 13655), Prob: 0.0000
+Token: ' Words' (ID: 27630), Prob: 0.0000
+Token: ' Name' (ID: 3988), Prob: 0.0000
+Token: ' Ensure' (ID: 29279), Prob: 0.0000
+Token: ' Person' (ID: 7357), Prob: 0.0000
+Token: ' Check' (ID: 4248), Prob: 0.0000
+Token: ' People' (ID: 8853), Prob: 0.0000
+Token: ' Second' (ID: 10440), Prob: 0.0000
+Token: ' Discuss' (ID: 65279), Prob: 0.0000
+Token: ' Also' (ID: 7281), Prob: 0.0000
+Token: ' Two' (ID: 9043), Prob: 0.0000
+Token: ' Hmm' (ID: 88190), Prob: 0.0000
+Token: ' Adding' (ID: 30370), Prob: 0.0000
+Token: ' Using' (ID: 12091), Prob: 0.0000
+Token: ' Define' (ID: 18614), Prob: 0.0000
+Token: ' Important' (ID: 43821), Prob: 0.0000
+Token: ' Explain' (ID: 81917), Prob: 0.0000
+Token: ' State' (ID: 3234), Prob: 0.0000
+Token: ' Show' (ID: 6928), Prob: 0.0000
+Token: ' Specific' (ID: 28262), Prob: 0.0000
+Token: ' Bring' (ID: 39124), Prob: 0.0000
+Token: ' Reference' (ID: 17207), Prob: 0.0000
+Token: 'mention' (ID: 29248), Prob: 0.0000
+Token: 'Include' (ID: 22283), Prob: 0.0000
+Token: ' include' (ID: 2924), Prob: 0.0000
+Token: ' Connect' (ID: 13015), Prob: 0.0000
+Token: ' Detail' (ID: 25771), Prob: 0.0000
+Token: ' Sum' (ID: 8116), Prob: 0.0000
+Token: ' Create' (ID: 4230), Prob: 0.0000
+Token: ' Something' (ID: 24656), Prob: 0.0000
+Token: ' Specify' (ID: 47395), Prob: 0.0000
+Token: ' Tell' (ID: 24647), Prob: 0.0000
+Token: ' Point' (ID: 5126), Prob: 0.0000
+Token: ' Spec' (ID: 10956), Prob: 0.0000
+Token: ' Included' (ID: 45964), Prob: 0.0000
+Token: ' Dialogue' (ID: 69489), Prob: 0.0000
+Token: ' Time' (ID: 4120), Prob: 0.0000
+Token: ' However' (ID: 4354), Prob: 0.0000
+Token: ' Personal' (ID: 19207), Prob: 0.0000
+Token: ' List' (ID: 1759), Prob: 0.0000
+Token: ' Work' (ID: 5547), Prob: 0.0000
+Token: ' Title' (ID: 10869), Prob: 0.0000
+Token: ' Give' (ID: 20678), Prob: 0.0000
+Token: ' Problem' (ID: 22079), Prob: 0.0000
+Token: ' Conflict' (ID: 58585), Prob: 0.0000
+Token: ' Con' (ID: 1200), Prob: 0.0000
+Token: ' Cont' (ID: 2093), Prob: 0.0000
+Token: ' Ask' (ID: 20437), Prob: 0.0000
+Token: ' Okay' (ID: 35439), Prob: 0.0000
+Token: ' First' (ID: 5512), Prob: 0.0000
+Token: ' Details' (ID: 12309), Prob: 0.0000
 
 == Ranked Concepts (Clusters) ==
-Rank 1 | Centroid: ' yes' | Score: 0.1060
-  Tokens: [' yes', ' yeah', ' okay', ' sure', ' Yes']
-Rank 2 | Centroid: ' something' | Score: 0.0016
-  Tokens: [' something', ' nothing', ' anything']
-Rank 3 | Centroid: ' possibly' | Score: 0.0008
-  Tokens: [' maybe', ' perhaps', ' possible', ' possibly']
-Rank 4 | Centroid: ' neg' | Score: 0.0004
-  Tokens: [' negative', ' false', ' neg']
-Rank 5 | Centroid: '(no' | Score: 0.0002
-  Tokens: [' none', ' cannot', '(no']
-Rank 6 | Centroid: ' definitely' | Score: 0.0002
-  Tokens: [' also', ' definitely', ' still', ' always']
-Rank 7 | Centroid: ' depending' | Score: 0.0002
-  Tokens: [' wait', ' depends', ' depending', ' based']
-Rank 8 | Centroid: ' unknown' | Score: 0.0001
-  Tokens: [' unknown', ' impossible', ' missing']
-Rank 9 | Centroid: ' etc' | Score: 0.0001
-  Tokens: [' etc']
-Rank 10 | Centroid: ' answer' | Score: 0.0001
-  Tokens: [' answer', ' correct']
-Rank 11 | Centroid: ' one' | Score: 0.0001
-  Tokens: [' one', ' without']
-Rank 12 | Centroid: ' exactly' | Score: 0.0001
-  Tokens: [' exactly']
-Rank 13 | Centroid: ' either' | Score: 0.0001
-  Tokens: [' either', ' whether']
-Rank 14 | Centroid: ' hello' | Score: 0.0001
-  Tokens: [' hello']
-Rank 15 | Centroid: ' another' | Score: 0.0001
-  Tokens: [' another', ' else']
-Rank 16 | Centroid: ' neither' | Score: 0.0000
-  Tokens: [' neither']
-Rank 17 | Centroid: ' even' | Score: 0.0000
-  Tokens: [' even']
-Rank 18 | Centroid: ' enough' | Score: 0.0000
-  Tokens: [' enough']
-Rank 19 | Centroid: ' please' | Score: 0.0000
-  Tokens: [' please']
-Rank 20 | Centroid: ' zero' | Score: 0.0000
-  Tokens: [' zero']
+Rank 1 | Centroid: ' mention' | Score: 0.2832
+  Tokens: [' Mention', ' mention', 'mention']
+Rank 2 | Centroid: ' Include' | Score: 0.0437
+  Tokens: [' Include', ' Incorpor', ' Including', 'Include', ' include', ' Included']
+Rank 3 | Centroid: ' Combine' | Score: 0.0206
+  Tokens: [' Use', ' Combine', ' Connect']
+Rank 4 | Centroid: ' Adding' | Score: 0.0029
+  Tokens: [' Add', ' Insert', ' Adding']
+Rank 5 | Centroid: ' Second' | Score: 0.0008
+  Tokens: [' Next', ' Second', ' Two', ' First']
+Rank 6 | Centroid: ' Int' | Score: 0.0007
+  Tokens: [' Int', ' Sum']
+Rank 7 | Centroid: ' Describe' | Score: 0.0004
+  Tokens: [' Describe', ' Discuss', ' Define', ' Explain', ' Specify']
+Rank 8 | Centroid: ' Highlight' | Score: 0.0002
+  Tokens: [' Highlight']
+Rank 9 | Centroid: ' Make' | Score: 0.0002
+  Tokens: [' Make', ' Ensure', ' Show', ' Bring', ' Create', ' Tell', ' Give', ' Ask']
+Rank 10 | Centroid: ' Hmm' | Score: 0.0001
+  Tokens: [' Maybe', ' Hmm', ' Important', ' Something', ' Okay']
+Rank 11 | Centroid: ' Let' | Score: 0.0001
+  Tokens: [' Let', ' Keep']
+Rank 12 | Centroid: ' Need' | Score: 0.0001
+  Tokens: [' Need', ' Wait']
+Rank 13 | Centroid: ' Talk' | Score: 0.0001
+  Tokens: [' Talk']
+Rank 14 | Centroid: ' However' | Score: 0.0001
+  Tokens: [' Since', ' Also', ' Using', ' However']
+Rank 15 | Centroid: ' Start' | Score: 0.0001
+  Tokens: [' Start', ' Check']
+Rank 16 | Centroid: ' Name' | Score: 0.0001
+  Tokens: [' Words', ' Name', ' State', ' Point', ' Time', ' List', ' Title']
+Rank 17 | Centroid: ' Conflict' | Score: 0.0001
+  Tokens: [' Focus', ' Dialogue', ' Conflict']
+Rank 18 | Centroid: ' Person' | Score: 0.0000
+  Tokens: [' Person', ' People', ' Personal']
+Rank 19 | Centroid: ' Follow' | Score: 0.0000
+  Tokens: [' Follow']
+Rank 20 | Centroid: ' Mix' | Score: 0.0000
+  Tokens: [' Mix']
+Rank 21 | Centroid: ' Specific' | Score: 0.0000
+  Tokens: [' Specific', ' Spec']
+Rank 22 | Centroid: ' Detail' | Score: 0.0000
+  Tokens: [' Detail', ' Details']
+Rank 23 | Centroid: ' Work' | Score: 0.0000
+  Tokens: [' Work', ' Problem']
+Rank 24 | Centroid: ' Reference' | Score: 0.0000
+  Tokens: [' Reference']
+Rank 25 | Centroid: ' Con' | Score: 0.0000
+  Tokens: [' Con', ' Cont']
 
 **Chosen Concept:** Rank 1

@@ -1,66 +1,103 @@
 --- Step 3 Log ---
 
 == Filtered Candidates ==
-Token: ' must' (ID: 1969), Prob: 0.0054
-Token: ' needed' (ID: 4362), Prob: 0.0022
-Token: ' would' (ID: 1035), Prob: 0.0009
-Token: ' need' (ID: 1184), Prob: 0.0006
-Token: ' required' (ID: 2567), Prob: 0.0006
-Token: ' based' (ID: 3118), Prob: 0.0004
-Token: ' could' (ID: 1410), Prob: 0.0004
-Token: ' may' (ID: 1231), Prob: 0.0003
-Token: ' list' (ID: 1140), Prob: 0.0003
-Token: ' summary' (ID: 12126), Prob: 0.0002
-Token: ' per' (ID: 817), Prob: 0.0002
-Token: ' according' (ID: 4092), Prob: 0.0002
-Token: ' include' (ID: 2924), Prob: 0.0002
-Token: ' regarding' (ID: 8826), Prob: 0.0002
-Token: ' please' (ID: 4486), Prob: 0.0001
-Token: ' made' (ID: 1865), Prob: 0.0001
-Token: ' possible' (ID: 3204), Prob: 0.0001
-Token: ' might' (ID: 2578), Prob: 0.0001
-Token: ' within' (ID: 2878), Prob: 0.0001
-Token: ' explaining' (ID: 25021), Prob: 0.0001
-Token: ' related' (ID: 5435), Prob: 0.0001
-Token: ' including' (ID: 2670), Prob: 0.0001
-Token: ' along' (ID: 3156), Prob: 0.0001
-Token: ' generated' (ID: 7907), Prob: 0.0001
-Token: ' listed' (ID: 10007), Prob: 0.0001
-Token: ' suggested' (ID: 11827), Prob: 0.0001
-Token: ' using' (ID: 1667), Prob: 0.0001
-Token: ' follow' (ID: 1795), Prob: 0.0001
-Token: ' provided' (ID: 3897), Prob: 0.0001
-Token: ' included' (ID: 5230), Prob: 0.0001
-Token: ' describing' (ID: 22692), Prob: 0.0001
+Token: ' let' (ID: 1077), Prob: 0.3203
+Token: ' start' (ID: 1191), Prob: 0.0013
+Token: ' starting' (ID: 5916), Prob: 0.0009
+Token: ' first' (ID: 1156), Prob: 0.0006
+Token: ' user' (ID: 1196), Prob: 0.0001
+Token: ' students' (ID: 4143), Prob: 0.0001
+Token: ' need' (ID: 1184), Prob: 0.0000
+Token: ' users' (ID: 3847), Prob: 0.0000
+Token: ' got' (ID: 2684), Prob: 0.0000
+Token: ' Let' (ID: 6771), Prob: 0.0000
+Token: ' maybe' (ID: 7196), Prob: 0.0000
+Token: ' student' (ID: 5458), Prob: 0.0000
+Token: ' get' (ID: 633), Prob: 0.0000
+Token: ' starts' (ID: 8471), Prob: 0.0000
+Token: ' readers' (ID: 12726), Prob: 0.0000
+Token: ' getting' (ID: 3709), Prob: 0.0000
+Token: ' given' (ID: 2661), Prob: 0.0000
+Token: ' since' (ID: 2474), Prob: 0.0000
+Token: ' new' (ID: 501), Prob: 0.0000
+Token: ' followers' (ID: 20119), Prob: 0.0000
+Token: ' someone' (ID: 4325), Prob: 0.0000
+Token: ' lets' (ID: 15354), Prob: 0.0000
+Token: ' looking' (ID: 3330), Prob: 0.0000
+Token: ' focus' (ID: 5244), Prob: 0.0000
+Token: ' parents' (ID: 6562), Prob: 0.0000
+Token: ' fans' (ID: 7211), Prob: 0.0000
+Token: ' starter' (ID: 26697), Prob: 0.0000
+Token: ' creating' (ID: 6825), Prob: 0.0000
+Token: ' beginner' (ID: 48948), Prob: 0.0000
+Token: ' wait' (ID: 3783), Prob: 0.0000
+Token: ' create' (ID: 1855), Prob: 0.0000
+Token: ' customer' (ID: 6002), Prob: 0.0000
+Token: 'let' (ID: 1149), Prob: 0.0000
+Token: ' putting' (ID: 10687), Prob: 0.0000
+Token: ' time' (ID: 882), Prob: 0.0000
+Token: ' story' (ID: 3364), Prob: 0.0000
+Token: ' well' (ID: 1632), Prob: 0.0000
+Token: ' young' (ID: 3908), Prob: 0.0000
+Token: ' audience' (ID: 10650), Prob: 0.0000
+Token: ' creative' (ID: 11521), Prob: 0.0000
+Token: ' beginners' (ID: 46850), Prob: 0.0000
+Token: ' girl' (ID: 3743), Prob: 0.0000
+Token: ' focusing' (ID: 21080), Prob: 0.0000
+Token: ' two' (ID: 1378), Prob: 0.0000
+Token: ' team' (ID: 2083), Prob: 0.0000
+Token: ' moving' (ID: 7218), Prob: 0.0000
+Token: ' customers' (ID: 6310), Prob: 0.0000
+Token: ' interesting' (ID: 7040), Prob: 0.0000
+Token: ' beginning' (ID: 7167), Prob: 0.0000
+Token: ' okay' (ID: 16910), Prob: 0.0000
+Token: ' going' (ID: 2087), Prob: 0.0000
+Token: ' following' (ID: 2701), Prob: 0.0000
+Token: ' imagine' (ID: 12793), Prob: 0.0000
+Token: ' small' (ID: 2613), Prob: 0.0000
+Token: ' Start' (ID: 5145), Prob: 0.0000
+Token: ' far' (ID: 3041), Prob: 0.0000
+Token: ' started' (ID: 3855), Prob: 0.0000
+Token: ' think' (ID: 1744), Prob: 0.0000
+Token: ' writing' (ID: 4378), Prob: 0.0000
+Token: ' task' (ID: 3383), Prob: 0.0000
+Token: ' perhaps' (ID: 8365), Prob: 0.0000
+Token: ' step' (ID: 3019), Prob: 0.0000
+Token: ' scene' (ID: 6109), Prob: 0.0000
+Token: ' viewers' (ID: 21762), Prob: 0.0000
 
 == Ranked Concepts (Clusters) ==
-Rank 1 | Centroid: ' must' | Score: 0.0060
-  Tokens: [' must', ' need']
-Rank 2 | Centroid: ' needed' | Score: 0.0028
-  Tokens: [' needed', ' required']
-Rank 3 | Centroid: ' might' | Score: 0.0018
-  Tokens: [' would', ' could', ' may', ' might']
-Rank 4 | Centroid: ' according' | Score: 0.0008
-  Tokens: [' based', ' according', ' along', ' using']
-Rank 5 | Centroid: ' describing' | Score: 0.0004
-  Tokens: [' summary', ' explaining', ' describing']
-Rank 6 | Centroid: ' include' | Score: 0.0003
-  Tokens: [' include', ' including', ' included']
-Rank 7 | Centroid: ' list' | Score: 0.0003
-  Tokens: [' list', ' listed']
-Rank 8 | Centroid: ' per' | Score: 0.0003
-  Tokens: [' per', ' within']
-Rank 9 | Centroid: ' regarding' | Score: 0.0003
-  Tokens: [' regarding', ' related']
-Rank 10 | Centroid: ' generated' | Score: 0.0003
-  Tokens: [' made', ' generated', ' provided']
-Rank 11 | Centroid: ' please' | Score: 0.0001
-  Tokens: [' please']
-Rank 12 | Centroid: ' possible' | Score: 0.0001
-  Tokens: [' possible']
-Rank 13 | Centroid: ' suggested' | Score: 0.0001
-  Tokens: [' suggested']
-Rank 14 | Centroid: ' follow' | Score: 0.0001
-  Tokens: [' follow']
+Rank 1 | Centroid: ' let' | Score: 0.3203
+  Tokens: [' let', ' Let', ' lets', 'let']
+Rank 2 | Centroid: ' start' | Score: 0.0022
+  Tokens: [' start', ' starting', ' starts', ' starter', ' beginning', ' Start', ' started']
+Rank 3 | Centroid: ' two' | Score: 0.0006
+  Tokens: [' first', ' given', ' since', ' new', ' well', ' two', ' small', ' far']
+Rank 4 | Centroid: ' users' | Score: 0.0002
+  Tokens: [' user', ' students', ' users', ' student', ' customer', ' customers']
+Rank 5 | Centroid: ' need' | Score: 0.0000
+  Tokens: [' need', ' wait']
+Rank 6 | Centroid: ' get' | Score: 0.0000
+  Tokens: [' got', ' get', ' getting']
+Rank 7 | Centroid: ' viewers' | Score: 0.0000
+  Tokens: [' readers', ' followers', ' parents', ' fans', ' audience', ' viewers']
+Rank 8 | Centroid: ' maybe' | Score: 0.0000
+  Tokens: [' maybe', ' someone', ' interesting', ' okay', ' perhaps']
+Rank 9 | Centroid: ' creating' | Score: 0.0000
+  Tokens: [' creating', ' create', ' creative', ' writing']
+Rank 10 | Centroid: ' going' | Score: 0.0000
+  Tokens: [' looking', ' putting', ' moving', ' going']
+Rank 11 | Centroid: ' scene' | Score: 0.0000
+  Tokens: [' time', ' story', ' team', ' task', ' step', ' scene']
+Rank 12 | Centroid: ' focus' | Score: 0.0000
+  Tokens: [' focus', ' focusing']
+Rank 13 | Centroid: ' beginner' | Score: 0.0000
+  Tokens: [' beginner', ' beginners']
+Rank 14 | Centroid: ' young' | Score: 0.0000
+  Tokens: [' young', ' girl']
+Rank 15 | Centroid: ' imagine' | Score: 0.0000
+  Tokens: [' imagine', ' think']
+Rank 16 | Centroid: ' following' | Score: 0.0000
+  Tokens: [' following']
 
 **Chosen Concept:** Rank 1

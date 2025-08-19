@@ -1,79 +1,146 @@
 --- Step 18 Log ---
 
 == Filtered Candidates ==
-Token: ' something' (ID: 2494), Prob: 0.0396
-Token: ' based' (ID: 3118), Prob: 0.0114
-Token: ' yes' (ID: 9834), Prob: 0.0100
-Token: ' maybe' (ID: 7196), Prob: 0.0089
-Token: ' etc' (ID: 4992), Prob: 0.0031
-Token: ' nothing' (ID: 4302), Prob: 0.0022
-Token: ' since' (ID: 2474), Prob: 0.0021
-Token: ' perhaps' (ID: 8365), Prob: 0.0015
-Token: ' aliens' (ID: 36119), Prob: 0.0010
-Token: ' Mars' (ID: 21048), Prob: 0.0009
-Token: ' depending' (ID: 11649), Prob: 0.0008
-Token: ' description' (ID: 4008), Prob: 0.0005
-Token: ' explain' (ID: 10339), Prob: 0.0005
-Token: ' negative' (ID: 8225), Prob: 0.0004
-Token: ' alien' (ID: 19594), Prob: 0.0004
-Token: ' also' (ID: 1083), Prob: 0.0004
-Token: ' please' (ID: 4486), Prob: 0.0004
-Token: ' NASA' (ID: 21431), Prob: 0.0004
-Token: ' someone' (ID: 4325), Prob: 0.0003
-Token: ' however' (ID: 4764), Prob: 0.0003
-Token: ' sometimes' (ID: 7025), Prob: 0.0003
-Token: ' possibly' (ID: 10767), Prob: 0.0003
-Token: ' according' (ID: 4092), Prob: 0.0003
-Token: ' anything' (ID: 4113), Prob: 0.0003
-Token: ' reason' (ID: 2874), Prob: 0.0003
-Token: ' whether' (ID: 3425), Prob: 0.0003
-Token: ' due' (ID: 4152), Prob: 0.0003
-Token: ' science' (ID: 8038), Prob: 0.0003
-Token: ' another' (ID: 2441), Prob: 0.0003
-Token: ' like' (ID: 1075), Prob: 0.0002
-Token: ' details' (ID: 3565), Prob: 0.0002
-Token: ' describe' (ID: 7512), Prob: 0.0002
-Token: ' either' (ID: 2987), Prob: 0.0002
-Token: ' answer' (ID: 4226), Prob: 0.0002
-Token: ' depends' (ID: 13798), Prob: 0.0002
-Token: ' come' (ID: 2525), Prob: 0.0002
-Token: ' examples' (ID: 10295), Prob: 0.0002
-Token: ' wait' (ID: 3783), Prob: 0.0002
-Token: ' therefore' (ID: 8916), Prob: 0.0002
-Token: ' planet' (ID: 11580), Prob: 0.0002
-Token: ' one' (ID: 825), Prob: 0.0002
-Token: ' example' (ID: 3110), Prob: 0.0002
+Token: ' narrative' (ID: 19221), Prob: 0.9961
+Token: ' story' (ID: 3364), Prob: 0.0013
+Token: ' narration' (ID: 85080), Prob: 0.0000
+Token: ' sentence' (ID: 11652), Prob: 0.0000
+Token: ' narr' (ID: 13408), Prob: 0.0000
+Token: ' paragraph' (ID: 14311), Prob: 0.0000
+Token: ' literary' (ID: 31365), Prob: 0.0000
+Token: ' fictional' (ID: 43582), Prob: 0.0000
+Token: ' yet' (ID: 3602), Prob: 0.0000
+Token: ' historical' (ID: 13656), Prob: 0.0000
+Token: ' news' (ID: 3669), Prob: 0.0000
+Token: ' summary' (ID: 12126), Prob: 0.0000
+Token: ' piece' (ID: 6573), Prob: 0.0000
+Token: ' descriptive' (ID: 52844), Prob: 0.0000
+Token: ' narratives' (ID: 57278), Prob: 0.0000
+Token: ' Narrative' (ID: 95721), Prob: 0.0000
+Token: ' novel' (ID: 11514), Prob: 0.0000
+Token: ' storytelling' (ID: 47829), Prob: 0.0000
+Token: ' anecd' (ID: 49650), Prob: 0.0000
+Token: ' educational' (ID: 16229), Prob: 0.0000
+Token: ' essay' (ID: 8895), Prob: 0.0000
+Token: ' storyline' (ID: 50628), Prob: 0.0000
+Token: ' emotional' (ID: 14269), Prob: 0.0000
+Token: ' explanation' (ID: 16148), Prob: 0.0000
+Token: ' tale' (ID: 23281), Prob: 0.0000
+Token: ' narrator' (ID: 64171), Prob: 0.0000
+Token: ' text' (ID: 1467), Prob: 0.0000
+Token: ' instructional' (ID: 71245), Prob: 0.0000
+Token: ' example' (ID: 3110), Prob: 0.0000
+Token: ' factual' (ID: 59901), Prob: 0.0000
+Token: ' written' (ID: 5326), Prob: 0.0000
+Token: ' explanatory' (ID: 92466), Prob: 0.0000
+Token: ' note' (ID: 5185), Prob: 0.0000
+Token: ' article' (ID: 4549), Prob: 0.0000
+Token: ' informative' (ID: 38219), Prob: 0.0000
+Token: ' response' (ID: 2033), Prob: 0.0000
+Token: ' short' (ID: 2805), Prob: 0.0000
+Token: ' natural' (ID: 5810), Prob: 0.0000
+Token: ' fiction' (ID: 16989), Prob: 0.0000
+Token: 'Narr' (ID: 63279), Prob: 0.0000
+Token: ' message' (ID: 1943), Prob: 0.0000
+Token: ' conversation' (ID: 10435), Prob: 0.0000
+Token: ' creative' (ID: 11521), Prob: 0.0000
+Token: ' description' (ID: 4008), Prob: 0.0000
+Token: ' script' (ID: 5316), Prob: 0.0000
+Token: ' timeline' (ID: 24808), Prob: 0.0000
+Token: ' composition' (ID: 18037), Prob: 0.0000
+Token: ' thought' (ID: 3381), Prob: 0.0000
+Token: ' statement' (ID: 5114), Prob: 0.0000
+Token: ' causal' (ID: 58457), Prob: 0.0000
+Token: ' humorous' (ID: 69846), Prob: 0.0000
+Token: ' plot' (ID: 7089), Prob: 0.0000
+Token: ' scenario' (ID: 15048), Prob: 0.0000
+Token: ' memoir' (ID: 50242), Prob: 0.0000
+Token: ' enough' (ID: 3322), Prob: 0.0000
+Token: ' notification' (ID: 11540), Prob: 0.0000
+Token: ' personal' (ID: 4345), Prob: 0.0000
+Token: ' nature' (ID: 6993), Prob: 0.0000
+Token: ' travel' (ID: 5821), Prob: 0.0000
+Token: ' passage' (ID: 21085), Prob: 0.0000
+Token: ' editorial' (ID: 27046), Prob: 0.0000
+Token: ' prompt' (ID: 9934), Prob: 0.0000
+Token: ' dialogue' (ID: 21276), Prob: 0.0000
+Token: ' tell' (ID: 3291), Prob: 0.0000
+Token: ' romantic' (ID: 23467), Prob: 0.0000
+Token: ' fairy' (ID: 44486), Prob: 0.0000
+Token: ' national' (ID: 5313), Prob: 0.0000
+Token: ' metaphor' (ID: 45350), Prob: 0.0000
+Token: ' imaginative' (ID: 76261), Prob: 0.0000
+Token: ' academic' (ID: 14250), Prob: 0.0000
+Token: ' realistic' (ID: 25489), Prob: 0.0000
+Token: ' chronological' (ID: 86534), Prob: 0.0000
+Token: ' instruction' (ID: 7600), Prob: 0.0000
+Token: ' nuclear' (ID: 11249), Prob: 0.0000
+Token: ' numerical' (ID: 34776), Prob: 0.0000
+Token: ' tutorial' (ID: 21514), Prob: 0.0000
+Token: ' concise' (ID: 63594), Prob: 0.0000
+Token: ' one' (ID: 825), Prob: 0.0000
+Token: ' new' (ID: 501), Prob: 0.0000
+Token: ' journal' (ID: 8322), Prob: 0.0000
+Token: ' informational' (ID: 46635), Prob: 0.0000
+Token: ' writing' (ID: 4378), Prob: 0.0000
+Token: ' modern' (ID: 6481), Prob: 0.0000
+Token: ' motivational' (ID: 87359), Prob: 0.0000
+Token: ' context' (ID: 2266), Prob: 0.0000
+Token: ' positive' (ID: 6785), Prob: 0.0000
+Token: ' inspirational' (ID: 56214), Prob: 0.0000
+Token: ' title' (ID: 2265), Prob: 0.0000
+Token: ' original' (ID: 4024), Prob: 0.0000
+Token: ' telling' (ID: 11629), Prob: 0.0000
+Token: ' fantasy' (ID: 18378), Prob: 0.0000
 
 == Ranked Concepts (Clusters) ==
-Rank 1 | Centroid: ' something' | Score: 0.0420
-  Tokens: [' something', ' nothing', ' anything']
-Rank 2 | Centroid: ' depending' | Score: 0.0126
-  Tokens: [' based', ' depending', ' according', ' depends']
-Rank 3 | Centroid: ' perhaps' | Score: 0.0110
-  Tokens: [' maybe', ' perhaps', ' sometimes', ' possibly']
-Rank 4 | Centroid: ' yes' | Score: 0.0107
-  Tokens: [' yes', ' negative', ' answer']
-Rank 5 | Centroid: ' aliens' | Score: 0.0031
-  Tokens: [' aliens', ' Mars', ' alien', ' NASA', ' science', ' planet']
-Rank 6 | Centroid: ' etc' | Score: 0.0031
-  Tokens: [' etc']
-Rank 7 | Centroid: ' due' | Score: 0.0026
-  Tokens: [' since', ' due', ' like']
-Rank 8 | Centroid: ' describe' | Score: 0.0014
-  Tokens: [' description', ' explain', ' details', ' describe']
-Rank 9 | Centroid: ' therefore' | Score: 0.0009
-  Tokens: [' also', ' however', ' therefore']
-Rank 10 | Centroid: ' another' | Score: 0.0007
-  Tokens: [' someone', ' another', ' one']
-Rank 11 | Centroid: ' whether' | Score: 0.0005
-  Tokens: [' whether', ' either']
-Rank 12 | Centroid: ' please' | Score: 0.0004
-  Tokens: [' please']
-Rank 13 | Centroid: ' come' | Score: 0.0004
-  Tokens: [' come', ' wait']
-Rank 14 | Centroid: ' examples' | Score: 0.0003
-  Tokens: [' examples', ' example']
-Rank 15 | Centroid: ' reason' | Score: 0.0003
-  Tokens: [' reason']
+Rank 1 | Centroid: ' narrative' | Score: 0.9961
+  Tokens: [' narrative', ' narration', ' narr', ' narratives', ' Narrative', ' narrator', 'Narr']
+Rank 2 | Centroid: ' story' | Score: 0.0013
+  Tokens: [' story', ' storytelling', ' storyline', ' tale', ' tell', ' telling']
+Rank 3 | Centroid: ' paragraph' | Score: 0.0000
+  Tokens: [' sentence', ' paragraph', ' essay', ' article', ' passage', ' journal']
+Rank 4 | Centroid: ' imaginative' | Score: 0.0000
+  Tokens: [' fictional', ' fiction', ' creative', ' humorous', ' romantic', ' fairy', ' imaginative', ' realistic', ' fantasy']
+Rank 5 | Centroid: ' novel' | Score: 0.0000
+  Tokens: [' news', ' novel', ' note', ' new']
+Rank 6 | Centroid: ' literary' | Score: 0.0000
+  Tokens: [' literary', ' memoir', ' editorial']
+Rank 7 | Centroid: ' factual' | Score: 0.0000
+  Tokens: [' historical', ' factual', ' causal', ' chronological', ' numerical']
+Rank 8 | Centroid: ' explanation' | Score: 0.0000
+  Tokens: [' descriptive', ' explanation', ' explanatory', ' description']
+Rank 9 | Centroid: ' instructional' | Score: 0.0000
+  Tokens: [' educational', ' emotional', ' instructional', ' informative', ' academic', ' informational', ' motivational', ' inspirational']
+Rank 10 | Centroid: ' summary' | Score: 0.0000
+  Tokens: [' summary', ' example', ' title']
+Rank 11 | Centroid: ' yet' | Score: 0.0000
+  Tokens: [' yet', ' enough']
+Rank 12 | Centroid: ' piece' | Score: 0.0000
+  Tokens: [' piece']
+Rank 13 | Centroid: ' message' | Score: 0.0000
+  Tokens: [' response', ' message', ' statement', ' prompt']
+Rank 14 | Centroid: ' text' | Score: 0.0000
+  Tokens: [' text', ' script']
+Rank 15 | Centroid: ' anecd' | Score: 0.0000
+  Tokens: [' anecd']
+Rank 16 | Centroid: ' modern' | Score: 0.0000
+  Tokens: [' short', ' personal', ' one', ' modern', ' positive', ' original']
+Rank 17 | Centroid: ' natural' | Score: 0.0000
+  Tokens: [' natural', ' nature', ' national', ' nuclear']
+Rank 18 | Centroid: ' conversation' | Score: 0.0000
+  Tokens: [' conversation', ' composition', ' dialogue']
+Rank 19 | Centroid: ' written' | Score: 0.0000
+  Tokens: [' written', ' writing']
+Rank 20 | Centroid: ' timeline' | Score: 0.0000
+  Tokens: [' timeline', ' plot']
+Rank 21 | Centroid: ' scenario' | Score: 0.0000
+  Tokens: [' scenario', ' metaphor', ' context']
+Rank 22 | Centroid: ' thought' | Score: 0.0000
+  Tokens: [' thought', ' travel']
+Rank 23 | Centroid: ' tutorial' | Score: 0.0000
+  Tokens: [' notification', ' instruction', ' tutorial']
+Rank 24 | Centroid: ' concise' | Score: 0.0000
+  Tokens: [' concise']
 
 **Chosen Concept:** Rank 1

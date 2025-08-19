@@ -1,0 +1,115 @@
+--- Step 81 Log ---
+
+== Filtered Candidates ==
+Token: ' starts' (ID: 8471), Prob: 0.0344
+Token: ' trying' (ID: 4460), Prob: 0.0143
+Token: ' accidentally' (ID: 32384), Prob: 0.0143
+Token: ' starting' (ID: 5916), Prob: 0.0118
+Token: ' acting' (ID: 15358), Prob: 0.0098
+Token: ' making' (ID: 3259), Prob: 0.0072
+Token: ' initially' (ID: 15102), Prob: 0.0063
+Token: ' mis' (ID: 5786), Prob: 0.0049
+Token: ' acts' (ID: 14056), Prob: 0.0044
+Token: ' misunderstood' (ID: 72856), Prob: 0.0041
+Token: ' unexpectedly' (ID: 50609), Prob: 0.0038
+Token: ' talking' (ID: 7404), Prob: 0.0030
+Token: ' initiating' (ID: 78416), Prob: 0.0028
+Token: ' dealing' (ID: 14550), Prob: 0.0027
+Token: ' experiencing' (ID: 24084), Prob: 0.0025
+Token: ' reconnect' (ID: 50036), Prob: 0.0025
+Token: ' meeting' (ID: 6438), Prob: 0.0023
+Token: ' whose' (ID: 6693), Prob: 0.0022
+Token: ' named' (ID: 6941), Prob: 0.0022
+Token: ' involved' (ID: 6398), Prob: 0.0021
+Token: ' without' (ID: 2041), Prob: 0.0019
+Token: ' getting' (ID: 3709), Prob: 0.0019
+Token: ' becomes' (ID: 9044), Prob: 0.0019
+Token: ' suddenly' (ID: 14843), Prob: 0.0019
+Token: ' reacting' (ID: 73050), Prob: 0.0019
+Token: ' makes' (ID: 3643), Prob: 0.0018
+Token: ' taking' (ID: 4633), Prob: 0.0017
+Token: ' coming' (ID: 5001), Prob: 0.0017
+Token: ' helping' (ID: 10476), Prob: 0.0017
+Token: ' finds' (ID: 13719), Prob: 0.0017
+Token: ' misunderstanding' (ID: 69747), Prob: 0.0017
+Token: ' like' (ID: 1075), Prob: 0.0016
+Token: ' turning' (ID: 13054), Prob: 0.0016
+Token: ' found' (ID: 1730), Prob: 0.0014
+Token: ' finding' (ID: 9271), Prob: 0.0013
+Token: ' unexpected' (ID: 16500), Prob: 0.0013
+Token: ' approaching' (ID: 29947), Prob: 0.0013
+Token: ' noticing' (ID: 61364), Prob: 0.0013
+Token: ' unintention' (ID: 69476), Prob: 0.0013
+Token: ' gets' (ID: 5221), Prob: 0.0012
+Token: ' made' (ID: 1865), Prob: 0.0011
+Token: ' ends' (ID: 10335), Prob: 0.0011
+Token: ' developing' (ID: 11220), Prob: 0.0011
+Token: ' interacting' (ID: 44730), Prob: 0.0011
+Token: ' started' (ID: 3855), Prob: 0.0010
+Token: ' discussing' (ID: 24392), Prob: 0.0010
+Token: ' going' (ID: 2087), Prob: 0.0009
+Token: ' causing' (ID: 14381), Prob: 0.0009
+Token: ' turns' (ID: 10577), Prob: 0.0009
+Token: ' seeking' (ID: 10887), Prob: 0.0009
+Token: ' engaging' (ID: 22570), Prob: 0.0009
+Token: ' pretending' (ID: 54806), Prob: 0.0008
+Token: ' teasing' (ID: 70363), Prob: 0.0008
+Token: ' comes' (ID: 4041), Prob: 0.0008
+Token: ' seems' (ID: 4977), Prob: 0.0007
+Token: ' sharing' (ID: 11560), Prob: 0.0007
+Token: ' meets' (ID: 20027), Prob: 0.0007
+Token: ' discovering' (ID: 41587), Prob: 0.0007
+Token: ' overhe' (ID: 71289), Prob: 0.0007
+Token: ' turned' (ID: 6519), Prob: 0.0007
+Token: ' discovers' (ID: 51014), Prob: 0.0007
+Token: ' misunderstand' (ID: 89600), Prob: 0.0007
+Token: ' using' (ID: 1667), Prob: 0.0006
+Token: ' helps' (ID: 8609), Prob: 0.0006
+Token: ' leading' (ID: 6388), Prob: 0.0006
+Token: ' opening' (ID: 8568), Prob: 0.0006
+Token: ' planning' (ID: 9115), Prob: 0.0006
+Token: ' visiting' (ID: 16721), Prob: 0.0006
+Token: ' first' (ID: 1156), Prob: 0.0006
+Token: ' unknow' (ID: 83544), Prob: 0.0006
+Token: ' behaving' (ID: 86557), Prob: 0.0006
+Token: ' goes' (ID: 5780), Prob: 0.0005
+
+== Ranked Concepts (Clusters) ==
+Rank 1 | Centroid: ' starts' | Score: 0.0564
+  Tokens: [' starts', ' starting', ' initially', ' initiating', ' started']
+Rank 2 | Centroid: ' unexpectedly' | Score: 0.0231
+  Tokens: [' accidentally', ' unexpectedly', ' suddenly', ' unexpected', ' unintention', ' unknow']
+Rank 3 | Centroid: ' trying' | Score: 0.0194
+  Tokens: [' trying', ' getting', ' taking', ' seeking', ' using']
+Rank 4 | Centroid: ' acting' | Score: 0.0162
+  Tokens: [' acting', ' acts', ' involved']
+Rank 5 | Centroid: ' making' | Score: 0.0128
+  Tokens: [' making', ' makes', ' helping', ' made', ' causing']
+Rank 6 | Centroid: ' misunderstand' | Score: 0.0114
+  Tokens: [' mis', ' misunderstood', ' misunderstanding', ' misunderstand']
+Rank 7 | Centroid: ' without' | Score: 0.0091
+  Tokens: [' whose', ' named', ' without', ' like', ' leading', ' first']
+Rank 8 | Centroid: ' discussing' | Score: 0.0083
+  Tokens: [' talking', ' dealing', ' developing', ' discussing', ' visiting']
+Rank 9 | Centroid: ' gets' | Score: 0.0068
+  Tokens: [' becomes', ' gets', ' ends', ' comes', ' seems', ' helps', ' goes']
+Rank 10 | Centroid: ' finds' | Score: 0.0051
+  Tokens: [' finds', ' found', ' finding', ' discovers']
+Rank 11 | Centroid: ' interacting' | Score: 0.0045
+  Tokens: [' reacting', ' interacting', ' engaging', ' behaving']
+Rank 12 | Centroid: ' meeting' | Score: 0.0044
+  Tokens: [' meeting', ' sharing', ' meets', ' planning']
+Rank 13 | Centroid: ' pretending' | Score: 0.0041
+  Tokens: [' experiencing', ' pretending', ' teasing']
+Rank 14 | Centroid: ' coming' | Score: 0.0039
+  Tokens: [' coming', ' approaching', ' going']
+Rank 15 | Centroid: ' reconnect' | Score: 0.0032
+  Tokens: [' reconnect', ' overhe']
+Rank 16 | Centroid: ' turned' | Score: 0.0031
+  Tokens: [' turning', ' turns', ' turned']
+Rank 17 | Centroid: ' noticing' | Score: 0.0020
+  Tokens: [' noticing', ' discovering']
+Rank 18 | Centroid: ' opening' | Score: 0.0006
+  Tokens: [' opening']
+
+**Chosen Concept:** Rank 1

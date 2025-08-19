@@ -1,75 +1,151 @@
 --- Step 83 Log ---
 
 == Filtered Candidates ==
-Token: ' like' (ID: 1075), Prob: 1.0000
-Token: ' else' (ID: 770), Prob: 0.0003
-Token: ' yes' (ID: 9834), Prob: 0.0000
-Token: ' Like' (ID: 8909), Prob: 0.0000
-Token: ' similar' (ID: 4428), Prob: 0.0000
-Token: ' elif' (ID: 4409), Prob: 0.0000
-Token: ' list' (ID: 1140), Prob: 0.0000
-Token: 'like' (ID: 4803), Prob: 0.0000
-Token: ' LIKE' (ID: 20529), Prob: 0.0000
-Token: '-like' (ID: 12681), Prob: 0.0000
-Token: ' include' (ID: 2924), Prob: 0.0000
-Token: '_like' (ID: 25535), Prob: 0.0000
-Token: ' maybe' (ID: 7196), Prob: 0.0000
-Token: ' etc' (ID: 4992), Prob: 0.0000
-Token: '.like' (ID: 66318), Prob: 0.0000
-Token: ' likes' (ID: 13151), Prob: 0.0000
-Token: ' much' (ID: 1753), Prob: 0.0000
-Token: ' around' (ID: 2163), Prob: 0.0000
-Token: ' including' (ID: 2670), Prob: 0.0000
-Token: ' related' (ID: 5435), Prob: 0.0000
-Token: 'Like' (ID: 12949), Prob: 0.0000
-Token: ' limited' (ID: 7199), Prob: 0.0000
-Token: ' possible' (ID: 3204), Prob: 0.0000
-Token: ' otherwise' (ID: 5937), Prob: 0.0000
-Token: ' say' (ID: 1977), Prob: 0.0000
-Token: ' based' (ID: 3118), Prob: 0.0000
-Token: ' important' (ID: 2989), Prob: 0.0000
-Token: ' missing' (ID: 7402), Prob: 0.0000
-Token: ' relevant' (ID: 9760), Prob: 0.0000
-Token: ' less' (ID: 2686), Prob: 0.0000
-Token: ' since' (ID: 2474), Prob: 0.0000
-Token: ' nice' (ID: 6419), Prob: 0.0000
-Token: ' little' (ID: 2632), Prob: 0.0000
-Token: ' usually' (ID: 5990), Prob: 0.0000
-Token: ' listed' (ID: 10007), Prob: 0.0000
-Token: ' liked' (ID: 14915), Prob: 0.0000
-Token: ' inside' (ID: 4766), Prob: 0.0000
-Token: ' seperti' (ID: 67720), Prob: 0.0000
-Token: ' last' (ID: 1537), Prob: 0.0000
-Token: ' yeah' (ID: 21639), Prob: 0.0000
+Token: ' family' (ID: 2997), Prob: 0.8320
+Token: ' trip' (ID: 8411), Prob: 0.1279
+Token: ' setup' (ID: 6505), Prob: 0.0105
+Token: ' journey' (ID: 11618), Prob: 0.0049
+Token: ' setting' (ID: 6243), Prob: 0.0039
+Token: ' departure' (ID: 24915), Prob: 0.0021
+Token: ' families' (ID: 8521), Prob: 0.0013
+Token: ' group' (ID: 1874), Prob: 0.0011
+Token: ' main' (ID: 1887), Prob: 0.0011
+Token: ' road' (ID: 5636), Prob: 0.0010
+Token: ' parents' (ID: 6562), Prob: 0.0010
+Token: ' arrival' (ID: 18647), Prob: 0.0009
+Token: ' kids' (ID: 6837), Prob: 0.0007
+Token: ' preparation' (ID: 17975), Prob: 0.0007
+Token: ' context' (ID: 2266), Prob: 0.0006
+Token: ' travel' (ID: 5821), Prob: 0.0006
+Token: ' scenario' (ID: 15048), Prob: 0.0005
+Token: ' destination' (ID: 9106), Prob: 0.0005
+Token: ' situation' (ID: 6534), Prob: 0.0003
+Token: ' route' (ID: 6021), Prob: 0.0003
+Token: ' story' (ID: 3364), Prob: 0.0002
+Token: ' event' (ID: 1538), Prob: 0.0002
+Token: ' plan' (ID: 3119), Prob: 0.0002
+Token: ' day' (ID: 1899), Prob: 0.0002
+Token: ' siblings' (ID: 36683), Prob: 0.0002
+Token: ' big' (ID: 2409), Prob: 0.0001
+Token: ' initial' (ID: 2856), Prob: 0.0001
+Token: ' beginning' (ID: 7167), Prob: 0.0001
+Token: ' adventure' (ID: 17943), Prob: 0.0001
+Token: ' background' (ID: 4004), Prob: 0.0001
+Token: ' couple' (ID: 5625), Prob: 0.0001
+Token: ' start' (ID: 1191), Prob: 0.0001
+Token: ' activity' (ID: 5702), Prob: 0.0001
+Token: ' time' (ID: 882), Prob: 0.0001
+Token: ' famil' (ID: 43426), Prob: 0.0001
+Token: ' general' (ID: 4586), Prob: 0.0001
+Token: ' purpose' (ID: 7428), Prob: 0.0001
+Token: ' planning' (ID: 9115), Prob: 0.0001
+Token: ' preparations' (ID: 46879), Prob: 0.0001
+Token: ' car' (ID: 1803), Prob: 0.0001
+Token: ' reason' (ID: 2874), Prob: 0.0001
+Token: ' grandparents' (ID: 55335), Prob: 0.0001
+Token: ' experience' (ID: 3139), Prob: 0.0001
+Token: ' details' (ID: 3565), Prob: 0.0001
+Token: ' gathering' (ID: 22888), Prob: 0.0001
+Token: ' children' (ID: 2841), Prob: 0.0001
+Token: ' anticipation' (ID: 49819), Prob: 0.0001
+Token: ' home' (ID: 2114), Prob: 0.0001
+Token: ' location' (ID: 3728), Prob: 0.0001
+Token: ' name' (ID: 829), Prob: 0.0001
+Token: ' scene' (ID: 6109), Prob: 0.0001
+Token: ' narrative' (ID: 19221), Prob: 0.0001
+Token: ' description' (ID: 4008), Prob: 0.0001
+Token: ' usual' (ID: 13475), Prob: 0.0001
+Token: ' routine' (ID: 14021), Prob: 0.0001
+Token: ' decision' (ID: 5480), Prob: 0.0001
+Token: ' origin' (ID: 6238), Prob: 0.0000
+Token: ' action' (ID: 1917), Prob: 0.0000
+Token: ' environment' (ID: 4573), Prob: 0.0000
+Token: ' holiday' (ID: 13257), Prob: 0.0000
+Token: ' outing' (ID: 64181), Prob: 0.0000
+Token: ' drive' (ID: 6541), Prob: 0.0000
+Token: ' act' (ID: 1160), Prob: 0.0000
+Token: ' date' (ID: 2400), Prob: 0.0000
+Token: ' driving' (ID: 9842), Prob: 0.0000
+Token: ' typical' (ID: 14260), Prob: 0.0000
+Token: ' vacation' (ID: 20161), Prob: 0.0000
+Token: ' morning' (ID: 6556), Prob: 0.0000
+Token: ' parent' (ID: 2681), Prob: 0.0000
+Token: ' premise' (ID: 40202), Prob: 0.0000
+Token: ' mom' (ID: 3368), Prob: 0.0000
+Token: ' daily' (ID: 7298), Prob: 0.0000
+Token: ' driver' (ID: 5579), Prob: 0.0000
+Token: ' summary' (ID: 12126), Prob: 0.0000
+Token: ' topic' (ID: 8544), Prob: 0.0000
+Token: ' theme' (ID: 6912), Prob: 0.0000
+Token: ' weather' (ID: 9104), Prob: 0.0000
+Token: ' starting' (ID: 5916), Prob: 0.0000
+Token: ' planned' (ID: 12909), Prob: 0.0000
+Token: ' timeframe' (ID: 69953), Prob: 0.0000
+Token: ' grand' (ID: 6662), Prob: 0.0000
+Token: ' overall' (ID: 8084), Prob: 0.0000
+Token: ' household' (ID: 13732), Prob: 0.0000
+Token: ' expedition' (ID: 50164), Prob: 0.0000
+Token: ' meeting' (ID: 6438), Prob: 0.0000
+Token: ' celebration' (ID: 24916), Prob: 0.0000
+Token: ' set' (ID: 738), Prob: 0.0000
+Token: ' first' (ID: 1156), Prob: 0.0000
+Token: ' idea' (ID: 4522), Prob: 0.0000
+Token: ' father' (ID: 6981), Prob: 0.0000
+Token: ' arrangement' (ID: 26112), Prob: 0.0000
+Token: ' call' (ID: 1618), Prob: 0.0000
+Token: ' three' (ID: 2326), Prob: 0.0000
+Token: ' days' (ID: 2849), Prob: 0.0000
+Token: ' visit' (ID: 3947), Prob: 0.0000
+Token: ' intention' (ID: 14602), Prob: 0.0000
+Token: ' timing' (ID: 18405), Prob: 0.0000
+Token: ' return' (ID: 470), Prob: 0.0000
+Token: ' two' (ID: 1378), Prob: 0.0000
+Token: ' company' (ID: 2813), Prob: 0.0000
 
 == Ranked Concepts (Clusters) ==
-Rank 1 | Centroid: ' Like' | Score: 1.0000
-  Tokens: [' like', ' Like', 'like', ' LIKE', '-like', '_like', '.like', 'Like', ' seperti']
-Rank 2 | Centroid: ' else' | Score: 0.0003
-  Tokens: [' else', ' elif', ' otherwise']
-Rank 3 | Centroid: ' yes' | Score: 0.0000
-  Tokens: [' yes', ' yeah']
-Rank 4 | Centroid: ' related' | Score: 0.0000
-  Tokens: [' similar', ' related', ' relevant']
-Rank 5 | Centroid: ' list' | Score: 0.0000
-  Tokens: [' list', ' listed']
-Rank 6 | Centroid: ' include' | Score: 0.0000
-  Tokens: [' include', ' including']
-Rank 7 | Centroid: ' maybe' | Score: 0.0000
-  Tokens: [' maybe', ' possible']
-Rank 8 | Centroid: ' less' | Score: 0.0000
-  Tokens: [' much', ' limited', ' less', ' little']
-Rank 9 | Centroid: ' etc' | Score: 0.0000
-  Tokens: [' etc', ' say']
-Rank 10 | Centroid: ' likes' | Score: 0.0000
-  Tokens: [' likes', ' liked']
-Rank 11 | Centroid: ' around' | Score: 0.0000
-  Tokens: [' around', ' inside']
-Rank 12 | Centroid: ' important' | Score: 0.0000
-  Tokens: [' important', ' missing', ' nice']
-Rank 13 | Centroid: ' based' | Score: 0.0000
-  Tokens: [' based', ' since', ' last']
-Rank 14 | Centroid: ' usually' | Score: 0.0000
-  Tokens: [' usually']
+Rank 1 | Centroid: ' family' | Score: 0.8320
+  Tokens: [' family', ' families', ' couple', ' famil', ' home', ' household', ' company']
+Rank 2 | Centroid: ' adventure' | Score: 0.1367
+  Tokens: [' trip', ' journey', ' departure', ' arrival', ' travel', ' adventure', ' experience', ' holiday', ' outing', ' vacation', ' expedition', ' celebration', ' visit']
+Rank 3 | Centroid: ' setup' | Score: 0.0144
+  Tokens: [' setup', ' setting', ' arrangement']
+Rank 4 | Centroid: ' scenario' | Score: 0.0021
+  Tokens: [' context', ' scenario', ' situation', ' story', ' background', ' scene', ' narrative', ' description', ' environment']
+Rank 5 | Centroid: ' parents' | Score: 0.0021
+  Tokens: [' parents', ' kids', ' siblings', ' grandparents', ' children', ' parent', ' mom', ' father']
+Rank 6 | Centroid: ' two' | Score: 0.0013
+  Tokens: [' main', ' big', ' first', ' three', ' two']
+Rank 7 | Centroid: ' road' | Score: 0.0013
+  Tokens: [' road', ' route']
+Rank 8 | Centroid: ' planning' | Score: 0.0012
+  Tokens: [' preparation', ' plan', ' planning', ' preparations', ' anticipation', ' planned']
+Rank 9 | Centroid: ' set' | Score: 0.0012
+  Tokens: [' group', ' set', ' call', ' return']
+Rank 10 | Centroid: ' purpose' | Score: 0.0007
+  Tokens: [' destination', ' purpose', ' reason', ' intention']
+Rank 11 | Centroid: ' starting' | Score: 0.0005
+  Tokens: [' initial', ' beginning', ' start', ' origin', ' starting']
+Rank 12 | Centroid: ' activity' | Score: 0.0004
+  Tokens: [' event', ' activity', ' action', ' act']
+Rank 13 | Centroid: ' day' | Score: 0.0004
+  Tokens: [' day', ' time', ' date', ' morning', ' daily', ' weather', ' days']
+Rank 14 | Centroid: ' typical' | Score: 0.0004
+  Tokens: [' general', ' details', ' usual', ' routine', ' typical', ' summary', ' overall']
+Rank 15 | Centroid: ' driving' | Score: 0.0002
+  Tokens: [' car', ' drive', ' driving', ' driver']
+Rank 16 | Centroid: ' topic' | Score: 0.0001
+  Tokens: [' location', ' topic', ' theme']
+Rank 17 | Centroid: ' gathering' | Score: 0.0001
+  Tokens: [' gathering', ' meeting']
+Rank 18 | Centroid: ' name' | Score: 0.0001
+  Tokens: [' name']
+Rank 19 | Centroid: ' decision' | Score: 0.0001
+  Tokens: [' decision', ' idea']
+Rank 20 | Centroid: ' timeframe' | Score: 0.0000
+  Tokens: [' timeframe', ' timing']
+Rank 21 | Centroid: ' premise' | Score: 0.0000
+  Tokens: [' premise']
+Rank 22 | Centroid: ' grand' | Score: 0.0000
+  Tokens: [' grand']
 
 **Chosen Concept:** Rank 1

@@ -1,0 +1,130 @@
+--- Step 121 Log ---
+
+== Filtered Candidates ==
+Token: ' kids' (ID: 6837), Prob: 0.9961
+Token: ' children' (ID: 2841), Prob: 0.0019
+Token: ' family' (ID: 2997), Prob: 0.0000
+Token: ' ones' (ID: 6174), Prob: 0.0000
+Token: ' girls' (ID: 7571), Prob: 0.0000
+Token: ' siblings' (ID: 36683), Prob: 0.0000
+Token: ' people' (ID: 1251), Prob: 0.0000
+Token: ' families' (ID: 8521), Prob: 0.0000
+Token: ' babies' (ID: 23920), Prob: 0.0000
+Token: ' daughters' (ID: 29868), Prob: 0.0000
+Token: ' boys' (ID: 13007), Prob: 0.0000
+Token: ' twins' (ID: 43636), Prob: 0.0000
+Token: ' grandchildren' (ID: 49751), Prob: 0.0000
+Token: ' cars' (ID: 9331), Prob: 0.0000
+Token: ' adults' (ID: 12598), Prob: 0.0000
+Token: ' guys' (ID: 7598), Prob: 0.0000
+Token: ' sons' (ID: 25350), Prob: 0.0000
+Token: ' infants' (ID: 41434), Prob: 0.0000
+Token: ' kid' (ID: 10369), Prob: 0.0000
+Token: ' kidd' (ID: 91415), Prob: 0.0000
+Token: ' friends' (ID: 4780), Prob: 0.0000
+Token: ' Kids' (ID: 22522), Prob: 0.0000
+Token: ' relatives' (ID: 28558), Prob: 0.0000
+Token: 'kids' (ID: 73896), Prob: 0.0000
+Token: ' students' (ID: 4143), Prob: 0.0000
+Token: ' toddlers' (ID: 78835), Prob: 0.0000
+Token: ' descendants' (ID: 48346), Prob: 0.0000
+Token: ' drivers' (ID: 11788), Prob: 0.0000
+Token: ' cousins' (ID: 59907), Prob: 0.0000
+Token: ' members' (ID: 3613), Prob: 0.0000
+Token: ' teens' (ID: 26202), Prob: 0.0000
+Token: ' residents' (ID: 10826), Prob: 0.0000
+Token: ' offspring' (ID: 45371), Prob: 0.0000
+Token: ' folks' (ID: 15327), Prob: 0.0000
+Token: ' lovers' (ID: 32118), Prob: 0.0000
+Token: 'ers' (ID: 388), Prob: 0.0000
+Token: ' days' (ID: 2849), Prob: 0.0000
+Token: ' passengers' (ID: 22172), Prob: 0.0000
+Token: ' things' (ID: 2513), Prob: 0.0000
+Token: ' years' (ID: 1635), Prob: 0.0000
+Token: ' teenagers' (ID: 36619), Prob: 0.0000
+Token: ' active' (ID: 4541), Prob: 0.0000
+Token: ' parents' (ID: 6562), Prob: 0.0000
+Token: '.children' (ID: 13360), Prob: 0.0000
+Token: 'lings' (ID: 18812), Prob: 0.0000
+Token: ' interns' (ID: 98834), Prob: 0.0000
+Token: ' nie' (ID: 11316), Prob: 0.0000
+Token: 'Kids' (ID: 69433), Prob: 0.0000
+Token: ' minds' (ID: 20062), Prob: 0.0000
+Token: ' patients' (ID: 6835), Prob: 0.0000
+Token: ' individuals' (ID: 7775), Prob: 0.0000
+Token: ' generations' (ID: 21787), Prob: 0.0000
+Token: ' sisters' (ID: 29293), Prob: 0.0000
+Token: ' workers' (ID: 7337), Prob: 0.0000
+Token: ' charges' (ID: 10195), Prob: 0.0000
+Token: ' photos' (ID: 7249), Prob: 0.0000
+Token: ' customers' (ID: 6310), Prob: 0.0000
+Token: ' dogs' (ID: 12590), Prob: 0.0000
+Token: ' beneficiaries' (ID: 60568), Prob: 0.0000
+Token: ' young' (ID: 3908), Prob: 0.0000
+Token: ' lives' (ID: 6305), Prob: 0.0000
+Token: ' kin' (ID: 23938), Prob: 0.0000
+Token: ' preschool' (ID: 60805), Prob: 0.0000
+Token: ' times' (ID: 3039), Prob: 0.0000
+Token: ' pets' (ID: 25103), Prob: 0.0000
+Token: ' subs' (ID: 5147), Prob: 0.0000
+Token: ' ages' (ID: 16639), Prob: 0.0000
+Token: ' brains' (ID: 34102), Prob: 0.0000
+Token: ' baby' (ID: 8770), Prob: 0.0000
+Token: ' legs' (ID: 14201), Prob: 0.0000
+Token: ' survivors' (ID: 31596), Prob: 0.0000
+Token: ' mis' (ID: 5786), Prob: 0.0000
+Token: ' loved' (ID: 10245), Prob: 0.0000
+Token: ' intro' (ID: 19706), Prob: 0.0000
+Token: ' age' (ID: 4231), Prob: 0.0000
+Token: ' daughter' (ID: 9803), Prob: 0.0000
+Token: ' singles' (ID: 17389), Prob: 0.0000
+Token: ' couples' (ID: 21264), Prob: 0.0000
+Token: ' arrivals' (ID: 69047), Prob: 0.0000
+Token: ' users' (ID: 3847), Prob: 0.0000
+Token: ' participants' (ID: 13026), Prob: 0.0000
+
+== Ranked Concepts (Clusters) ==
+Rank 1 | Centroid: ' kids' | Score: 0.9961
+  Tokens: [' kids', ' kid', ' kidd', ' Kids', 'kids', 'Kids']
+Rank 2 | Centroid: ' infants' | Score: 0.0019
+  Tokens: [' children', ' babies', ' infants', ' toddlers', '.children', ' preschool', ' baby']
+Rank 3 | Centroid: ' families' | Score: 0.0000
+  Tokens: [' family', ' families', ' parents']
+Rank 4 | Centroid: ' folks' | Score: 0.0000
+  Tokens: [' ones', ' guys', ' folks', ' things']
+Rank 5 | Centroid: ' girls' | Score: 0.0000
+  Tokens: [' girls', ' boys']
+Rank 6 | Centroid: ' siblings' | Score: 0.0000
+  Tokens: [' siblings', ' twins', ' relatives', ' cousins', ' sisters']
+Rank 7 | Centroid: ' individuals' | Score: 0.0000
+  Tokens: [' people', ' members', ' individuals']
+Rank 8 | Centroid: ' daughters' | Score: 0.0000
+  Tokens: [' daughters', ' sons', ' daughter']
+Rank 9 | Centroid: ' descendants' | Score: 0.0000
+  Tokens: [' grandchildren', ' descendants', ' offspring']
+Rank 10 | Centroid: ' dogs' | Score: 0.0000
+  Tokens: [' cars', ' drivers', ' dogs', ' pets']
+Rank 11 | Centroid: ' teenagers' | Score: 0.0000
+  Tokens: [' adults', ' teens', ' teenagers', ' young']
+Rank 12 | Centroid: ' passengers' | Score: 0.0000
+  Tokens: [' students', ' residents', ' passengers', ' patients', ' workers', ' customers', ' beneficiaries', ' survivors', ' users', ' participants']
+Rank 13 | Centroid: ' lovers' | Score: 0.0000
+  Tokens: [' friends', ' lovers', ' couples']
+Rank 14 | Centroid: ' years' | Score: 0.0000
+  Tokens: [' days', ' years', ' generations', ' times']
+Rank 15 | Centroid: ' nie' | Score: 0.0000
+  Tokens: [' nie', ' charges', ' legs', ' intro', ' singles', ' arrivals']
+Rank 16 | Centroid: ' mis' | Score: 0.0000
+  Tokens: [' active', ' photos', ' kin', ' subs', ' mis']
+Rank 17 | Centroid: 'ers' | Score: 0.0000
+  Tokens: ['ers', 'lings']
+Rank 18 | Centroid: ' minds' | Score: 0.0000
+  Tokens: [' minds', ' lives', ' brains']
+Rank 19 | Centroid: ' interns' | Score: 0.0000
+  Tokens: [' interns']
+Rank 20 | Centroid: ' ages' | Score: 0.0000
+  Tokens: [' ages', ' age']
+Rank 21 | Centroid: ' loved' | Score: 0.0000
+  Tokens: [' loved']
+
+**Chosen Concept:** Rank 1

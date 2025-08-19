@@ -1,80 +1,115 @@
 --- Step 38 Log ---
 
 == Filtered Candidates ==
-Token: 'ting' (ID: 1280), Prob: 0.9961
-Token: 'ten' (ID: 1960), Prob: 0.0000
-Token: ' ting' (ID: 42227), Prob: 0.0000
-Token: ' trying' (ID: 4460), Prob: 0.0000
-Token: ' letting' (ID: 20194), Prob: 0.0000
-Token: ' time' (ID: 882), Prob: 0.0000
-Token: 'tings' (ID: 2065), Prob: 0.0000
-Token: ' getting' (ID: 3709), Prob: 0.0000
-Token: ' putting' (ID: 10687), Prob: 0.0000
-Token: ' total' (ID: 2790), Prob: 0.0000
-Token: ' changing' (ID: 10018), Prob: 0.0000
-Token: ' turning' (ID: 13054), Prob: 0.0000
-Token: 'TING' (ID: 25043), Prob: 0.0000
-Token: 'tering' (ID: 59385), Prob: 0.0000
-Token: 'tant' (ID: 60412), Prob: 0.0000
-Token: ' taking' (ID: 4633), Prob: 0.0000
-Token: ' passing' (ID: 12299), Prob: 0.0000
-Token: ' terminating' (ID: 70581), Prob: 0.0000
-Token: ' translating' (ID: 66271), Prob: 0.0000
-Token: 'ted' (ID: 6565), Prob: 0.0000
-Token: ' thinking' (ID: 7274), Prob: 0.0000
-Token: ' let' (ID: 1077), Prob: 0.0000
-Token: ' going' (ID: 2087), Prob: 0.0000
-Token: ' talking' (ID: 7404), Prob: 0.0000
-Token: ' choosing' (ID: 18774), Prob: 0.0000
-Token: ' tightening' (ID: 76780), Prob: 0.0000
-Token: ' top' (ID: 1909), Prob: 0.0000
-Token: ' meeting' (ID: 6438), Prob: 0.0000
-Token: ' alone' (ID: 7484), Prob: 0.0000
-Token: ' sleeping' (ID: 21127), Prob: 0.0000
-Token: 'tin' (ID: 55971), Prob: 0.0000
-Token: ' tent' (ID: 15632), Prob: 0.0000
-Token: ' ten' (ID: 5779), Prob: 0.0000
-Token: 'ing' (ID: 287), Prob: 0.0000
-Token: ' using' (ID: 1667), Prob: 0.0000
-Token: ' telling' (ID: 11629), Prob: 0.0000
-Token: 'tee' (ID: 6547), Prob: 0.0000
-Token: ' testing' (ID: 7497), Prob: 0.0000
-Token: ' Let' (ID: 6771), Prob: 0.0000
+Token: ' starting' (ID: 5916), Prob: 0.0072
+Token: ' friendship' (ID: 26509), Prob: 0.0030
+Token: ' forming' (ID: 29064), Prob: 0.0027
+Token: ' mentioning' (ID: 44291), Prob: 0.0023
+Token: ' feeling' (ID: 8266), Prob: 0.0017
+Token: ' someone' (ID: 4325), Prob: 0.0016
+Token: ' friends' (ID: 4780), Prob: 0.0016
+Token: ' knowing' (ID: 14063), Prob: 0.0013
+Token: ' maybe' (ID: 7196), Prob: 0.0012
+Token: ' talking' (ID: 7404), Prob: 0.0010
+Token: ' possibly' (ID: 10767), Prob: 0.0010
+Token: ' establishing' (ID: 30592), Prob: 0.0009
+Token: ' perhaps' (ID: 8365), Prob: 0.0008
+Token: ' realizing' (ID: 43014), Prob: 0.0008
+Token: ' implying' (ID: 72867), Prob: 0.0008
+Token: ' connecting' (ID: 20913), Prob: 0.0007
+Token: ' building' (ID: 4752), Prob: 0.0006
+Token: ' relating' (ID: 22527), Prob: 0.0006
+Token: ' initially' (ID: 15102), Prob: 0.0006
+Token: ' indicating' (ID: 18860), Prob: 0.0006
+Token: ' connection' (ID: 3633), Prob: 0.0006
+Token: ' relationship' (ID: 5025), Prob: 0.0006
+Token: ' expressing' (ID: 36710), Prob: 0.0004
+Token: ' reacting' (ID: 73050), Prob: 0.0004
+Token: ' initial' (ID: 2856), Prob: 0.0003
+Token: ' describing' (ID: 22692), Prob: 0.0003
+Token: ' previous' (ID: 3681), Prob: 0.0003
+Token: ' showing' (ID: 9027), Prob: 0.0003
+Token: ' ending' (ID: 13391), Prob: 0.0003
+Token: ' something' (ID: 2494), Prob: 0.0003
+Token: ' saying' (ID: 5488), Prob: 0.0003
+Token: ' getting' (ID: 3709), Prob: 0.0003
+Token: ' relationships' (ID: 11871), Prob: 0.0003
+Token: ' needing' (ID: 32821), Prob: 0.0003
+Token: ' beginning' (ID: 7167), Prob: 0.0002
+Token: ' understanding' (ID: 8660), Prob: 0.0002
+Token: ' involving' (ID: 15860), Prob: 0.0002
+Token: ' reconnect' (ID: 50036), Prob: 0.0002
+Token: ' later' (ID: 2937), Prob: 0.0002
+Token: ' making' (ID: 3259), Prob: 0.0002
+Token: ' part' (ID: 949), Prob: 0.0002
+Token: ' good' (ID: 1661), Prob: 0.0002
+Token: ' earlier' (ID: 6788), Prob: 0.0002
+Token: ' considering' (ID: 12831), Prob: 0.0002
+Token: ' hint' (ID: 13012), Prob: 0.0002
+Token: ' wanting' (ID: 19211), Prob: 0.0002
+Token: ' highlighting' (ID: 38586), Prob: 0.0002
+Token: ' working' (ID: 3238), Prob: 0.0002
+Token: ' meeting' (ID: 6438), Prob: 0.0002
+Token: ' seeing' (ID: 9120), Prob: 0.0002
+Token: ' interacting' (ID: 44730), Prob: 0.0002
+Token: ' noticing' (ID: 61364), Prob: 0.0002
+Token: ' related' (ID: 5435), Prob: 0.0001
+Token: ' thinking' (ID: 7274), Prob: 0.0001
+Token: ' finding' (ID: 9271), Prob: 0.0001
+Token: ' stating' (ID: 27798), Prob: 0.0001
+Token: ' recognizing' (ID: 48083), Prob: 0.0001
+Token: ' discussing' (ID: 24392), Prob: 0.0001
+Token: ' noting' (ID: 26305), Prob: 0.0001
+Token: ' context' (ID: 2266), Prob: 0.0001
+Token: ' another' (ID: 2441), Prob: 0.0001
+Token: ' learning' (ID: 6832), Prob: 0.0001
+Token: ' creating' (ID: 6825), Prob: 0.0001
+Token: ' previously' (ID: 8597), Prob: 0.0001
+Token: ' hearing' (ID: 10778), Prob: 0.0001
+Token: ' losing' (ID: 13188), Prob: 0.0001
+Token: ' introducing' (ID: 31918), Prob: 0.0001
+Token: ' referencing' (ID: 56516), Prob: 0.0001
+Token: ' people' (ID: 1251), Prob: 0.0001
+Token: ' using' (ID: 1667), Prob: 0.0001
 
 == Ranked Concepts (Clusters) ==
-Rank 1 | Centroid: 'ting' | Score: 0.9961
-  Tokens: ['ting', 'tings', 'TING', 'ted']
-Rank 2 | Centroid: ' getting' | Score: 0.0000
-  Tokens: [' trying', ' getting', ' putting', ' taking', ' going', ' choosing', ' using']
-Rank 3 | Centroid: 'ten' | Score: 0.0000
-  Tokens: ['ten', ' ten']
-Rank 4 | Centroid: ' total' | Score: 0.0000
-  Tokens: [' time', ' total', ' top']
-Rank 5 | Centroid: ' Let' | Score: 0.0000
-  Tokens: [' letting', ' let', ' Let']
-Rank 6 | Centroid: ' ting' | Score: 0.0000
-  Tokens: [' ting']
-Rank 7 | Centroid: ' changing' | Score: 0.0000
-  Tokens: [' changing', ' turning', ' passing']
-Rank 8 | Centroid: ' terminating' | Score: 0.0000
-  Tokens: ['tering', ' terminating', ' tightening']
-Rank 9 | Centroid: ' talking' | Score: 0.0000
-  Tokens: [' thinking', ' talking', ' sleeping', ' testing']
-Rank 10 | Centroid: 'tant' | Score: 0.0000
-  Tokens: ['tant']
-Rank 11 | Centroid: ' translating' | Score: 0.0000
-  Tokens: [' translating', ' telling']
-Rank 12 | Centroid: ' meeting' | Score: 0.0000
-  Tokens: [' meeting']
-Rank 13 | Centroid: ' alone' | Score: 0.0000
-  Tokens: [' alone']
-Rank 14 | Centroid: 'tin' | Score: 0.0000
-  Tokens: ['tin']
-Rank 15 | Centroid: ' tent' | Score: 0.0000
-  Tokens: [' tent']
-Rank 16 | Centroid: 'ing' | Score: 0.0000
-  Tokens: ['ing']
-Rank 17 | Centroid: 'tee' | Score: 0.0000
-  Tokens: ['tee']
+Rank 1 | Centroid: ' starting' | Score: 0.0078
+  Tokens: [' starting', ' ending', ' beginning']
+Rank 2 | Centroid: ' stating' | Score: 0.0055
+  Tokens: [' mentioning', ' implying', ' indicating', ' expressing', ' describing', ' showing', ' saying', ' highlighting', ' stating', ' discussing', ' referencing']
+Rank 3 | Centroid: ' relationships' | Score: 0.0054
+  Tokens: [' friendship', ' friends', ' relationship', ' relationships']
+Rank 4 | Centroid: ' creating' | Score: 0.0043
+  Tokens: [' forming', ' establishing', ' getting', ' making', ' creating', ' introducing']
+Rank 5 | Centroid: ' perhaps' | Score: 0.0030
+  Tokens: [' maybe', ' possibly', ' perhaps']
+Rank 6 | Centroid: ' noticing' | Score: 0.0028
+  Tokens: [' knowing', ' realizing', ' considering', ' seeing', ' noticing', ' recognizing', ' noting']
+Rank 7 | Centroid: ' thinking' | Score: 0.0023
+  Tokens: [' feeling', ' understanding', ' thinking', ' learning', ' hearing']
+Rank 8 | Centroid: ' someone' | Score: 0.0021
+  Tokens: [' someone', ' something', ' another', ' people']
+Rank 9 | Centroid: ' earlier' | Score: 0.0017
+  Tokens: [' initially', ' initial', ' previous', ' later', ' earlier', ' previously']
+Rank 10 | Centroid: ' connecting' | Score: 0.0015
+  Tokens: [' connecting', ' connection', ' reconnect']
+Rank 11 | Centroid: ' relating' | Score: 0.0010
+  Tokens: [' relating', ' involving', ' related']
+Rank 12 | Centroid: ' talking' | Score: 0.0010
+  Tokens: [' talking']
+Rank 13 | Centroid: ' finding' | Score: 0.0009
+  Tokens: [' building', ' meeting', ' finding']
+Rank 14 | Centroid: ' reacting' | Score: 0.0006
+  Tokens: [' reacting', ' interacting', ' losing']
+Rank 15 | Centroid: ' good' | Score: 0.0005
+  Tokens: [' part', ' good', ' working']
+Rank 16 | Centroid: ' needing' | Score: 0.0004
+  Tokens: [' needing', ' wanting']
+Rank 17 | Centroid: ' hint' | Score: 0.0002
+  Tokens: [' hint']
+Rank 18 | Centroid: ' context' | Score: 0.0001
+  Tokens: [' context']
+Rank 19 | Centroid: ' using' | Score: 0.0001
+  Tokens: [' using']
 
 **Chosen Concept:** Rank 1

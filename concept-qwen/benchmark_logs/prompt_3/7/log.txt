@@ -1,0 +1,87 @@
+--- Step 7 Log ---
+
+== Filtered Candidates ==
+Token: ' User' (ID: 2657), Prob: 0.0001
+Token: ' Need' (ID: 14656), Prob: 0.0000
+Token: ' Hmm' (ID: 88190), Prob: 0.0000
+Token: ' First' (ID: 5512), Prob: 0.0000
+Token: ' Maybe' (ID: 10696), Prob: 0.0000
+Token: ' Someone' (ID: 34172), Prob: 0.0000
+Token: ' Let' (ID: 6771), Prob: 0.0000
+Token: ' Person' (ID: 7357), Prob: 0.0000
+Token: ' John' (ID: 3757), Prob: 0.0000
+Token: ' Start' (ID: 5145), Prob: 0.0000
+Token: ' Starting' (ID: 27657), Prob: 0.0000
+Token: ' Alright' (ID: 97593), Prob: 0.0000
+Token: ' Users' (ID: 14627), Prob: 0.0000
+Token: ' Four' (ID: 13322), Prob: 0.0000
+Token: ' Needs' (ID: 43140), Prob: 0.0000
+Token: ' People' (ID: 8853), Prob: 0.0000
+Token: ' Based' (ID: 20205), Prob: 0.0000
+Token: ' Build' (ID: 7854), Prob: 0.0000
+Token: ' Young' (ID: 13263), Prob: 0.0000
+Token: ' Wait' (ID: 13824), Prob: 0.0000
+Token: ' Sam' (ID: 8224), Prob: 0.0000
+Token: ' George' (ID: 9857), Prob: 0.0000
+Token: ' Today' (ID: 11201), Prob: 0.0000
+Token: ' Theo' (ID: 84137), Prob: 0.0000
+Token: ' Main' (ID: 4697), Prob: 0.0000
+Token: ' Well' (ID: 8325), Prob: 0.0000
+Token: ' Okay' (ID: 35439), Prob: 0.0000
+Token: ' Customer' (ID: 12277), Prob: 0.0000
+Token: ' user' (ID: 1196), Prob: 0.0000
+Token: ' Two' (ID: 9043), Prob: 0.0000
+Token: ' Student' (ID: 11726), Prob: 0.0000
+Token: ' Steve' (ID: 13809), Prob: 0.0000
+Token: ' Noah' (ID: 41984), Prob: 0.0000
+Token: ' Parent' (ID: 17022), Prob: 0.0000
+Token: ' Emma' (ID: 34935), Prob: 0.0000
+Token: ' Michael' (ID: 7937), Prob: 0.0000
+Token: ' Story' (ID: 15106), Prob: 0.0000
+Token: ' Mom' (ID: 22180), Prob: 0.0000
+Token: ' Jamie' (ID: 35757), Prob: 0.0000
+Token: ' Short' (ID: 10698), Prob: 0.0000
+Token: ' Three' (ID: 14513), Prob: 0.0000
+Token: ' Make' (ID: 7405), Prob: 0.0000
+Token: ' One' (ID: 3776), Prob: 0.0000
+Token: ' Time' (ID: 4120), Prob: 0.0000
+Token: ' Henry' (ID: 17599), Prob: 0.0000
+Token: ' Mike' (ID: 11268), Prob: 0.0000
+Token: ' New' (ID: 1532), Prob: 0.0000
+Token: ' Since' (ID: 8704), Prob: 0.0000
+Token: ' Little' (ID: 14671), Prob: 0.0000
+Token: ' Mother' (ID: 21043), Prob: 0.0000
+
+== Ranked Concepts (Clusters) ==
+Rank 1 | Centroid: ' User' | Score: 0.0001
+  Tokens: [' User', ' Users', ' user']
+Rank 2 | Centroid: ' Need' | Score: 0.0000
+  Tokens: [' Need', ' Needs']
+Rank 3 | Centroid: ' Okay' | Score: 0.0000
+  Tokens: [' Hmm', ' Alright', ' Well', ' Okay']
+Rank 4 | Centroid: ' New' | Score: 0.0000
+  Tokens: [' First', ' Main', ' Time', ' New']
+Rank 5 | Centroid: ' Maybe' | Score: 0.0000
+  Tokens: [' Maybe', ' Let']
+Rank 6 | Centroid: ' People' | Score: 0.0000
+  Tokens: [' Someone', ' Person', ' People']
+Rank 7 | Centroid: ' Mike' | Score: 0.0000
+  Tokens: [' John', ' Sam', ' George', ' Theo', ' Steve', ' Noah', ' Emma', ' Michael', ' Jamie', ' Henry', ' Mike']
+Rank 8 | Centroid: ' Start' | Score: 0.0000
+  Tokens: [' Start', ' Starting']
+Rank 9 | Centroid: ' Three' | Score: 0.0000
+  Tokens: [' Four', ' Two', ' Three', ' One']
+Rank 10 | Centroid: ' Since' | Score: 0.0000
+  Tokens: [' Based', ' Today', ' Since']
+Rank 11 | Centroid: ' Make' | Score: 0.0000
+  Tokens: [' Build', ' Wait', ' Make']
+Rank 12 | Centroid: ' Little' | Score: 0.0000
+  Tokens: [' Young', ' Short', ' Little']
+Rank 13 | Centroid: ' Mother' | Score: 0.0000
+  Tokens: [' Parent', ' Mom', ' Mother']
+Rank 14 | Centroid: ' Customer' | Score: 0.0000
+  Tokens: [' Customer', ' Student']
+Rank 15 | Centroid: ' Story' | Score: 0.0000
+  Tokens: [' Story']
+
+**Chosen Concept:** Rank 1

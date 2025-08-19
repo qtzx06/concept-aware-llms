@@ -1,113 +1,169 @@
 --- Step 118 Log ---
 
 == Filtered Candidates ==
-Token: ' make' (ID: 1281), Prob: 1.0000
-Token: ' making' (ID: 3259), Prob: 0.0000
-Token: ' makes' (ID: 3643), Prob: 0.0000
-Token: ' made' (ID: 1865), Prob: 0.0000
-Token: 'make' (ID: 6927), Prob: 0.0000
-Token: ' also' (ID: 1083), Prob: 0.0000
-Token: ' take' (ID: 1896), Prob: 0.0000
-Token: ' Make' (ID: 7405), Prob: 0.0000
-Token: ' mak' (ID: 50916), Prob: 0.0000
-Token: ' seem' (ID: 2803), Prob: 0.0000
-Token: '.make' (ID: 10117), Prob: 0.0000
-Token: ' mean' (ID: 3076), Prob: 0.0000
-Token: '(make' (ID: 36944), Prob: 0.0000
-Token: ' maken' (ID: 54056), Prob: 0.0000
-Token: ' please' (ID: 4486), Prob: 0.0000
-Token: ' still' (ID: 2058), Prob: 0.0000
-Token: ' need' (ID: 1184), Prob: 0.0000
-Token: '	make' (ID: 77438), Prob: 0.0000
-Token: ' sense' (ID: 5530), Prob: 0.0000
-Token: ' match' (ID: 2432), Prob: 0.0000
-Token: ' look' (ID: 1401), Prob: 0.0000
-Token: ' definitely' (ID: 8491), Prob: 0.0000
-Token: ' probably' (ID: 4658), Prob: 0.0000
-Token: ' include' (ID: 2924), Prob: 0.0000
-Token: ' work' (ID: 975), Prob: 0.0000
-Token: ' read' (ID: 1349), Prob: 0.0000
-Token: ' likely' (ID: 4363), Prob: 0.0000
-Token: 'Make' (ID: 8078), Prob: 0.0000
-Token: ' require' (ID: 1373), Prob: 0.0000
-Token: ' say' (ID: 1977), Prob: 0.0000
-Token: ' give' (ID: 2968), Prob: 0.0000
-Token: ' accept' (ID: 4193), Prob: 0.0000
-Token: ' MAKE' (ID: 36821), Prob: 0.0000
-Token: ' use' (ID: 990), Prob: 0.0000
-Token: ' sound' (ID: 5112), Prob: 0.0000
-Token: ' math' (ID: 6888), Prob: 0.0000
-Token: ' always' (ID: 2677), Prob: 0.0000
-Token: '_make' (ID: 28230), Prob: 0.0000
-Token: ' logically' (ID: 73045), Prob: 0.0000
-Token: ' mostly' (ID: 10008), Prob: 0.0000
-Token: ' become' (ID: 3635), Prob: 0.0000
-Token: ' see' (ID: 1490), Prob: 0.0000
-Token: ' come' (ID: 2525), Prob: 0.0000
-Token: ' like' (ID: 1075), Prob: 0.0000
-Token: ' ask' (ID: 2548), Prob: 0.0000
-Token: ' consider' (ID: 2908), Prob: 0.0000
-Token: ' appear' (ID: 4994), Prob: 0.0000
-Token: ' communicate' (ID: 19032), Prob: 0.0000
-Token: ' contain' (ID: 6644), Prob: 0.0000
-Token: ' form' (ID: 1352), Prob: 0.0000
-Token: ' assume' (ID: 9658), Prob: 0.0000
-Token: ' clearly' (ID: 9355), Prob: 0.0000
-Token: ' indicate' (ID: 13216), Prob: 0.0000
-Token: ' feel' (ID: 2666), Prob: 0.0000
-Token: ' somehow' (ID: 16925), Prob: 0.0000
-Token: ' end' (ID: 835), Prob: 0.0000
-Token: ' meet' (ID: 3367), Prob: 0.0000
-Token: ' consist' (ID: 6685), Prob: 0.0000
-Token: ' correctly' (ID: 12440), Prob: 0.0000
-Token: ' cause' (ID: 5240), Prob: 0.0000
-Token: ' mainly' (ID: 14576), Prob: 0.0000
-Token: ' matter' (ID: 4925), Prob: 0.0000
-Token: ' satisfy' (ID: 26553), Prob: 0.0000
-Token: ' relate' (ID: 28143), Prob: 0.0000
-Token: ' would' (ID: 1035), Prob: 0.0000
-Token: ' find' (ID: 1477), Prob: 0.0000
-Token: ' state' (ID: 1584), Prob: 0.0000
-Token: ' best' (ID: 1850), Prob: 0.0000
+Token: ' disagreement' (ID: 61546), Prob: 0.6016
+Token: ' debate' (ID: 11004), Prob: 0.0635
+Token: ' dispute' (ID: 25033), Prob: 0.0562
+Token: ' decision' (ID: 5480), Prob: 0.0339
+Token: ' fight' (ID: 4367), Prob: 0.0206
+Token: ' competition' (ID: 10707), Prob: 0.0194
+Token: ' conflict' (ID: 12055), Prob: 0.0151
+Token: ' dilemma' (ID: 54767), Prob: 0.0104
+Token: ' struggle' (ID: 14651), Prob: 0.0098
+Token: ' protest' (ID: 8665), Prob: 0.0092
+Token: ' quar' (ID: 36865), Prob: 0.0071
+Token: ' elder' (ID: 22130), Prob: 0.0067
+Token: ' challenge' (ID: 8645), Prob: 0.0059
+Token: ' village' (ID: 14126), Prob: 0.0049
+Token: ' battle' (ID: 8049), Prob: 0.0043
+Token: ' rival' (ID: 20762), Prob: 0.0043
+Token: ' heated' (ID: 31713), Prob: 0.0043
+Token: ' confrontation' (ID: 47753), Prob: 0.0041
+Token: ' parent' (ID: 2681), Prob: 0.0038
+Token: ' tradition' (ID: 13815), Prob: 0.0036
+Token: ' council' (ID: 14833), Prob: 0.0034
+Token: ' traditional' (ID: 8606), Prob: 0.0032
+Token: ' speech' (ID: 8806), Prob: 0.0032
+Token: ' festival' (ID: 18780), Prob: 0.0032
+Token: ' gathering' (ID: 22888), Prob: 0.0032
+Token: ' refusal' (ID: 43151), Prob: 0.0032
+Token: ' community' (ID: 3942), Prob: 0.0026
+Token: ' choice' (ID: 5754), Prob: 0.0023
+Token: ' clash' (ID: 39903), Prob: 0.0023
+Token: ' moment' (ID: 4445), Prob: 0.0022
+Token: ' final' (ID: 1590), Prob: 0.0019
+Token: ' teacher' (ID: 11079), Prob: 0.0019
+Token: ' contest' (ID: 13810), Prob: 0.0016
+Token: ' big' (ID: 2409), Prob: 0.0015
+Token: ' family' (ID: 2997), Prob: 0.0015
+Token: ' problem' (ID: 3491), Prob: 0.0015
+Token: ' toy' (ID: 21357), Prob: 0.0015
+Token: ' vote' (ID: 6910), Prob: 0.0014
+Token: ' tension' (ID: 23504), Prob: 0.0014
+Token: ' day' (ID: 1899), Prob: 0.0013
+Token: ' storm' (ID: 13458), Prob: 0.0013
+Token: ' wise' (ID: 23335), Prob: 0.0013
+Token: ' meeting' (ID: 6438), Prob: 0.0012
+Token: ' group' (ID: 1874), Prob: 0.0012
+Token: ' quiet' (ID: 11340), Prob: 0.0012
+Token: ' grandmother' (ID: 38184), Prob: 0.0011
+Token: ' leader' (ID: 7653), Prob: 0.0010
+Token: ' twist' (ID: 26646), Prob: 0.0009
+Token: ' resolution' (ID: 10935), Prob: 0.0009
+Token: ' hesitation' (ID: 64337), Prob: 0.0009
+Token: ' test' (ID: 1273), Prob: 0.0008
+Token: ' celebration' (ID: 24916), Prob: 0.0008
+Token: ' shortage' (ID: 38159), Prob: 0.0008
+Token: ' time' (ID: 882), Prob: 0.0008
+Token: ' long' (ID: 1293), Prob: 0.0008
+Token: ' friend' (ID: 4238), Prob: 0.0007
+Token: ' father' (ID: 6981), Prob: 0.0007
+Token: ' dialogue' (ID: 21276), Prob: 0.0007
+Token: ' setback' (ID: 78813), Prob: 0.0007
+Token: ' tree' (ID: 4916), Prob: 0.0007
+Token: ' stone' (ID: 9798), Prob: 0.0007
+Token: ' sibling' (ID: 44223), Prob: 0.0007
+Token: ' ruler' (ID: 47980), Prob: 0.0007
+Token: ' loud' (ID: 17361), Prob: 0.0006
+Token: ' rebellion' (ID: 52748), Prob: 0.0006
+Token: ' local' (ID: 2205), Prob: 0.0005
+Token: ' delay' (ID: 7626), Prob: 0.0005
+Token: ' vill' (ID: 8901), Prob: 0.0005
+Token: ' trade' (ID: 6559), Prob: 0.0005
+Token: ' member' (ID: 4462), Prob: 0.0005
+Token: ' lesson' (ID: 17755), Prob: 0.0005
+Token: ' misunderstanding' (ID: 69747), Prob: 0.0005
+Token: ' forced' (ID: 9575), Prob: 0.0005
+Token: ' small' (ID: 2613), Prob: 0.0004
+Token: ' fire' (ID: 3940), Prob: 0.0004
+Token: ' wooden' (ID: 22360), Prob: 0.0004
+Token: ' compromise' (ID: 29385), Prob: 0.0004
+Token: ' deadline' (ID: 21428), Prob: 0.0004
+Token: ' request' (ID: 1681), Prob: 0.0004
+Token: ' question' (ID: 3405), Prob: 0.0004
+Token: ' difficult' (ID: 5000), Prob: 0.0004
+Token: ' figure' (ID: 7071), Prob: 0.0004
+Token: ' conversation' (ID: 10435), Prob: 0.0004
+Token: ' negotiation' (ID: 48048), Prob: 0.0004
+Token: ' specific' (ID: 3151), Prob: 0.0003
+Token: ' story' (ID: 3364), Prob: 0.0003
+Token: ' discussion' (ID: 10219), Prob: 0.0003
+Token: ' elders' (ID: 60676), Prob: 0.0003
+Token: ' standoff' (ID: 84327), Prob: 0.0003
+Token: ' nearby' (ID: 14046), Prob: 0.0003
+Token: ' young' (ID: 3908), Prob: 0.0003
+Token: ' strict' (ID: 7304), Prob: 0.0003
+Token: ' doubt' (ID: 10492), Prob: 0.0003
+Token: ' mistake' (ID: 16523), Prob: 0.0003
+Token: ' ritual' (ID: 27179), Prob: 0.0003
+Token: ' rule' (ID: 5912), Prob: 0.0003
+Token: ' scene' (ID: 6109), Prob: 0.0003
+Token: ' rejection' (ID: 36901), Prob: 0.0003
+Token: ' failed' (ID: 4641), Prob: 0.0003
+Token: ' tense' (ID: 42687), Prob: 0.0003
 
 == Ranked Concepts (Clusters) ==
-Rank 1 | Centroid: ' make' | Score: 1.0000
-  Tokens: [' make', ' making', ' makes', ' made', 'make', ' Make', ' mak', '.make', '(make', ' maken', '\tmake', 'Make', ' MAKE', '_make']
-Rank 2 | Centroid: ' still' | Score: 0.0000
-  Tokens: [' also', ' still', ' always']
-Rank 3 | Centroid: ' find' | Score: 0.0000
-  Tokens: [' take', ' look', ' read', ' see', ' find']
-Rank 4 | Centroid: ' seem' | Score: 0.0000
-  Tokens: [' seem', ' appear']
-Rank 5 | Centroid: ' mean' | Score: 0.0000
-  Tokens: [' mean', ' state']
-Rank 6 | Centroid: ' consider' | Score: 0.0000
-  Tokens: [' please', ' say', ' ask', ' consider', ' assume']
-Rank 7 | Centroid: ' need' | Score: 0.0000
-  Tokens: [' need', ' use', ' like', ' would']
-Rank 8 | Centroid: ' contain' | Score: 0.0000
-  Tokens: [' include', ' require', ' contain', ' indicate', ' consist', ' relate']
-Rank 9 | Centroid: ' feel' | Score: 0.0000
-  Tokens: [' sense', ' sound', ' feel']
-Rank 10 | Centroid: ' clearly' | Score: 0.0000
-  Tokens: [' definitely', ' logically', ' clearly', ' somehow', ' correctly']
-Rank 11 | Centroid: ' probably' | Score: 0.0000
-  Tokens: [' probably', ' likely']
-Rank 12 | Centroid: ' match' | Score: 0.0000
-  Tokens: [' match']
-Rank 13 | Centroid: ' cause' | Score: 0.0000
-  Tokens: [' work', ' form', ' cause']
-Rank 14 | Centroid: ' become' | Score: 0.0000
-  Tokens: [' give', ' become', ' come']
-Rank 15 | Centroid: ' satisfy' | Score: 0.0000
-  Tokens: [' accept', ' communicate', ' meet', ' satisfy']
-Rank 16 | Centroid: ' mostly' | Score: 0.0000
-  Tokens: [' mostly', ' mainly']
-Rank 17 | Centroid: ' math' | Score: 0.0000
-  Tokens: [' math']
-Rank 18 | Centroid: ' end' | Score: 0.0000
-  Tokens: [' end', ' best']
-Rank 19 | Centroid: ' matter' | Score: 0.0000
-  Tokens: [' matter']
+Rank 1 | Centroid: ' disagreement' | Score: 0.6133
+  Tokens: [' disagreement', ' dilemma', ' hesitation', ' shortage', ' misunderstanding', ' doubt', ' mistake']
+Rank 2 | Centroid: ' conflict' | Score: 0.1289
+  Tokens: [' dispute', ' fight', ' competition', ' conflict', ' struggle', ' battle', ' clash', ' contest']
+Rank 3 | Centroid: ' conversation' | Score: 0.0684
+  Tokens: [' debate', ' speech', ' dialogue', ' conversation', ' negotiation', ' discussion']
+Rank 4 | Centroid: ' decision' | Score: 0.0366
+  Tokens: [' decision', ' choice', ' request']
+Rank 5 | Centroid: ' confrontation' | Score: 0.0148
+  Tokens: [' protest', ' confrontation', ' setback', ' rebellion', ' standoff']
+Rank 6 | Centroid: ' festival' | Score: 0.0125
+  Tokens: [' village', ' council', ' festival', ' celebration', ' ritual']
+Rank 7 | Centroid: ' quar' | Score: 0.0115
+  Tokens: [' quar', ' heated']
+Rank 8 | Centroid: ' father' | Score: 0.0104
+  Tokens: [' parent', ' teacher', ' family', ' grandmother', ' friend', ' father', ' sibling']
+Rank 9 | Centroid: ' difficult' | Score: 0.0081
+  Tokens: [' final', ' big', ' quiet', ' long', ' loud', ' forced', ' small', ' difficult', ' specific', ' young', ' strict']
+Rank 10 | Centroid: ' question' | Score: 0.0078
+  Tokens: [' challenge', ' problem', ' question']
+Rank 11 | Centroid: ' elder' | Score: 0.0070
+  Tokens: [' elder', ' elders']
+Rank 12 | Centroid: ' tradition' | Score: 0.0067
+  Tokens: [' tradition', ' traditional']
+Rank 13 | Centroid: ' rejection' | Score: 0.0047
+  Tokens: [' refusal', ' resolution', ' compromise', ' rejection']
+Rank 14 | Centroid: ' gathering' | Score: 0.0044
+  Tokens: [' gathering', ' meeting']
+Rank 15 | Centroid: ' rival' | Score: 0.0043
+  Tokens: [' rival']
+Rank 16 | Centroid: ' moment' | Score: 0.0042
+  Tokens: [' moment', ' day', ' time']
+Rank 17 | Centroid: ' community' | Score: 0.0026
+  Tokens: [' community']
+Rank 18 | Centroid: ' wooden' | Score: 0.0024
+  Tokens: [' wise', ' stone', ' wooden']
+Rank 19 | Centroid: ' nearby' | Score: 0.0023
+  Tokens: [' toy', ' local', ' nearby']
+Rank 20 | Centroid: ' ruler' | Score: 0.0020
+  Tokens: [' leader', ' ruler', ' rule']
+Rank 21 | Centroid: ' vote' | Score: 0.0020
+  Tokens: [' vote', ' vill']
+Rank 22 | Centroid: ' lesson' | Score: 0.0018
+  Tokens: [' tree', ' lesson', ' story', ' scene']
+Rank 23 | Centroid: ' tension' | Score: 0.0017
+  Tokens: [' tension', ' tense']
+Rank 24 | Centroid: ' group' | Score: 0.0016
+  Tokens: [' group', ' member']
+Rank 25 | Centroid: ' storm' | Score: 0.0013
+  Tokens: [' storm']
+Rank 26 | Centroid: ' delay' | Score: 0.0009
+  Tokens: [' delay', ' deadline']
+Rank 27 | Centroid: ' twist' | Score: 0.0009
+  Tokens: [' twist']
+Rank 28 | Centroid: ' test' | Score: 0.0008
+  Tokens: [' test']
+Rank 29 | Centroid: ' fire' | Score: 0.0008
+  Tokens: [' fire', ' figure']
+Rank 30 | Centroid: ' trade' | Score: 0.0005
+  Tokens: [' trade']
+Rank 31 | Centroid: ' failed' | Score: 0.0003
+  Tokens: [' failed']
 
 **Chosen Concept:** Rank 1

@@ -1,0 +1,84 @@
+--- Step 120 Log ---
+
+== Filtered Candidates ==
+Token: ' within' (ID: 2878), Prob: 0.0003
+Token: ' due' (ID: 4152), Prob: 0.0002
+Token: ' among' (ID: 4221), Prob: 0.0000
+Token: ' without' (ID: 2041), Prob: 0.0000
+Token: ' regarding' (ID: 8826), Prob: 0.0000
+Token: ' later' (ID: 2937), Prob: 0.0000
+Token: ' choosing' (ID: 18774), Prob: 0.0000
+Token: ' upon' (ID: 5193), Prob: 0.0000
+Token: ' near' (ID: 3143), Prob: 0.0000
+Token: ' inside' (ID: 4766), Prob: 0.0000
+Token: ' earlier' (ID: 6788), Prob: 0.0000
+Token: ' along' (ID: 3156), Prob: 0.0000
+Token: ' despite' (ID: 8818), Prob: 0.0000
+Token: ' versus' (ID: 19041), Prob: 0.0000
+Token: ' early' (ID: 4124), Prob: 0.0000
+Token: ' halfway' (ID: 41336), Prob: 0.0000
+Token: ' around' (ID: 2163), Prob: 0.0000
+Token: ' outside' (ID: 4889), Prob: 0.0000
+Token: ' daily' (ID: 7298), Prob: 0.0000
+Token: ' mid' (ID: 5099), Prob: 0.0000
+Token: ' deciding' (ID: 29130), Prob: 0.0000
+Token: ' right' (ID: 1290), Prob: 0.0000
+Token: ' even' (ID: 1496), Prob: 0.0000
+Token: ' trying' (ID: 4460), Prob: 0.0000
+Token: ' instead' (ID: 4518), Prob: 0.0000
+Token: ' towards' (ID: 6974), Prob: 0.0000
+Token: ' amidst' (ID: 64804), Prob: 0.0000
+Token: ' throughout' (ID: 6814), Prob: 0.0000
+Token: ' alone' (ID: 7484), Prob: 0.0000
+Token: ' since' (ID: 2474), Prob: 0.0000
+Token: ' rather' (ID: 4751), Prob: 0.0000
+Token: ' internally' (ID: 33067), Prob: 0.0000
+Token: ' either' (ID: 2987), Prob: 0.0000
+Token: ' together' (ID: 3786), Prob: 0.0000
+Token: ' whether' (ID: 3425), Prob: 0.0000
+Token: ' midway' (ID: 82151), Prob: 0.0000
+Token: ' twice' (ID: 10917), Prob: 0.0000
+Token: ' first' (ID: 1156), Prob: 0.0000
+Token: ' especially' (ID: 5310), Prob: 0.0000
+Token: ' somewhere' (ID: 14696), Prob: 0.0000
+Token: ' late' (ID: 3309), Prob: 0.0000
+Token: ' compared' (ID: 7707), Prob: 0.0000
+Token: ' yet' (ID: 3602), Prob: 0.0000
+Token: ' choice' (ID: 5754), Prob: 0.0000
+Token: ' using' (ID: 1667), Prob: 0.0000
+
+== Ranked Concepts (Clusters) ==
+Rank 1 | Centroid: ' inside' | Score: 0.0003
+  Tokens: [' within', ' inside', ' outside', ' internally']
+Rank 2 | Centroid: ' since' | Score: 0.0002
+  Tokens: [' due', ' without', ' since']
+Rank 3 | Centroid: ' amidst' | Score: 0.0001
+  Tokens: [' among', ' upon', ' along', ' towards', ' amidst', ' throughout']
+Rank 4 | Centroid: ' early' | Score: 0.0000
+  Tokens: [' later', ' earlier', ' early', ' late']
+Rank 5 | Centroid: ' compared' | Score: 0.0000
+  Tokens: [' regarding', ' versus', ' compared']
+Rank 6 | Centroid: ' choosing' | Score: 0.0000
+  Tokens: [' choosing', ' deciding', ' choice']
+Rank 7 | Centroid: ' near' | Score: 0.0000
+  Tokens: [' near', ' around']
+Rank 8 | Centroid: ' despite' | Score: 0.0000
+  Tokens: [' despite', ' even', ' especially', ' yet']
+Rank 9 | Centroid: ' midway' | Score: 0.0000
+  Tokens: [' halfway', ' mid', ' midway']
+Rank 10 | Centroid: ' daily' | Score: 0.0000
+  Tokens: [' daily', ' twice']
+Rank 11 | Centroid: ' instead' | Score: 0.0000
+  Tokens: [' instead', ' rather']
+Rank 12 | Centroid: ' right' | Score: 0.0000
+  Tokens: [' right', ' first']
+Rank 13 | Centroid: ' alone' | Score: 0.0000
+  Tokens: [' alone', ' together']
+Rank 14 | Centroid: ' trying' | Score: 0.0000
+  Tokens: [' trying', ' using']
+Rank 15 | Centroid: ' either' | Score: 0.0000
+  Tokens: [' either', ' whether']
+Rank 16 | Centroid: ' somewhere' | Score: 0.0000
+  Tokens: [' somewhere']
+
+**Chosen Concept:** Rank 1

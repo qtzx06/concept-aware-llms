@@ -1,82 +1,133 @@
 --- Step 19 Log ---
 
 == Filtered Candidates ==
-Token: 'Let' (ID: 10061), Prob: 0.4941
-Token: 'Answer' (ID: 16141), Prob: 0.0280
-Token: 'Correct' (ID: 33092), Prob: 0.0031
-Token: 'Please' (ID: 5501), Prob: 0.0029
-Token: 'Word' (ID: 10879), Prob: 0.0029
-Token: 'Yes' (ID: 9454), Prob: 0.0024
-Token: 'Maybe' (ID: 21390), Prob: 0.0023
-Token: 'Wait' (ID: 14190), Prob: 0.0018
-Token: 'Tag' (ID: 5668), Prob: 0.0015
-Token: 'Okay' (ID: 32313), Prob: 0.0014
-Token: 'Child' (ID: 3652), Prob: 0.0012
-Token: 'Home' (ID: 7623), Prob: 0.0012
-Token: 'Help' (ID: 12689), Prob: 0.0012
-Token: 'Based' (ID: 28715), Prob: 0.0012
-Token: 'Back' (ID: 3707), Prob: 0.0011
-Token: 'Press' (ID: 5886), Prob: 0.0011
-Token: 'Choose' (ID: 24051), Prob: 0.0010
-Token: 'One' (ID: 3966), Prob: 0.0010
-Token: 'Parent' (ID: 8387), Prob: 0.0010
-Token: 'Using' (ID: 16429), Prob: 0.0010
-Token: 'Last' (ID: 5842), Prob: 0.0008
-Token: 'Learning' (ID: 47467), Prob: 0.0008
-Token: 'Actually' (ID: 52592), Prob: 0.0008
-Token: 'Every' (ID: 11510), Prob: 0.0008
-Token: 'According' (ID: 11190), Prob: 0.0007
-Token: 'Children' (ID: 11539), Prob: 0.0007
-Token: 'Going' (ID: 46339), Prob: 0.0007
-Token: 'Explanation' (ID: 69769), Prob: 0.0007
-Token: 'Ass' (ID: 5615), Prob: 0.0007
-Token: 'May' (ID: 11109), Prob: 0.0007
-Token: 'Generate' (ID: 31115), Prob: 0.0007
-Token: 'First' (ID: 5338), Prob: 0.0007
-Token: 'Looking' (ID: 22464), Prob: 0.0007
-Token: 'Therefore' (ID: 54815), Prob: 0.0007
-Token: 'Ending' (ID: 88701), Prob: 0.0007
-Token: 'Still' (ID: 23322), Prob: 0.0006
-Token: 'Make' (ID: 8078), Prob: 0.0006
+Token: ' need' (ID: 1184), Prob: 0.0088
+Token: ' parse' (ID: 4715), Prob: 0.0088
+Token: ' extract' (ID: 8649), Prob: 0.0020
+Token: ' let' (ID: 1077), Prob: 0.0014
+Token: ' analyze' (ID: 23643), Prob: 0.0011
+Token: ' break' (ID: 1438), Prob: 0.0009
+Token: ' understand' (ID: 3535), Prob: 0.0009
+Token: ' identify' (ID: 10542), Prob: 0.0006
+Token: ' read' (ID: 1349), Prob: 0.0004
+Token: ' check' (ID: 1779), Prob: 0.0003
+Token: ' make' (ID: 1281), Prob: 0.0003
+Token: ' translate' (ID: 14683), Prob: 0.0003
+Token: ' start' (ID: 1191), Prob: 0.0002
+Token: ' get' (ID: 633), Prob: 0.0002
+Token: ' characters' (ID: 5766), Prob: 0.0001
+Token: ' paraph' (ID: 62230), Prob: 0.0001
+Token: ' split' (ID: 6718), Prob: 0.0001
+Token: ' take' (ID: 1896), Prob: 0.0001
+Token: ' acknowledge' (ID: 24645), Prob: 0.0001
+Token: ' recap' (ID: 53999), Prob: 0.0001
+Token: ' note' (ID: 5185), Prob: 0.0001
+Token: ' maybe' (ID: 7196), Prob: 0.0001
+Token: ' process' (ID: 1882), Prob: 0.0001
+Token: ' outline' (ID: 21101), Prob: 0.0000
+Token: ' summarize' (ID: 62079), Prob: 0.0000
+Token: ' interpret' (ID: 14198), Prob: 0.0000
+Token: ' figure' (ID: 7071), Prob: 0.0000
+Token: ' structure' (ID: 5944), Prob: 0.0000
+Token: ' highlight' (ID: 11167), Prob: 0.0000
+Token: ' sentence' (ID: 11652), Prob: 0.0000
+Token: ' needs' (ID: 3880), Prob: 0.0000
+Token: ' reconstruct' (ID: 43828), Prob: 0.0000
+Token: ' key' (ID: 1376), Prob: 0.0000
+Token: ' character' (ID: 3668), Prob: 0.0000
+Token: ' look' (ID: 1401), Prob: 0.0000
+Token: ' capture' (ID: 12322), Prob: 0.0000
+Token: ' understanding' (ID: 8660), Prob: 0.0000
+Token: ' set' (ID: 738), Prob: 0.0000
+Token: ' point' (ID: 1459), Prob: 0.0000
+Token: ' handle' (ID: 3705), Prob: 0.0000
+Token: ' wrap' (ID: 15061), Prob: 0.0000
+Token: ' name' (ID: 829), Prob: 0.0000
+Token: ' paragraph' (ID: 14311), Prob: 0.0000
+Token: ' find' (ID: 1477), Prob: 0.0000
+Token: ' build' (ID: 1936), Prob: 0.0000
+Token: ' pick' (ID: 3735), Prob: 0.0000
+Token: ' background' (ID: 4004), Prob: 0.0000
+Token: ' breaking' (ID: 14719), Prob: 0.0000
+Token: ' focus' (ID: 5244), Prob: 0.0000
+Token: ' establish' (ID: 5695), Prob: 0.0000
+Token: ' tackle' (ID: 21403), Prob: 0.0000
+Token: ' unpack' (ID: 31065), Prob: 0.0000
+Token: ' notice' (ID: 5293), Prob: 0.0000
+Token: ' prompt' (ID: 9934), Prob: 0.0000
+Token: ' create' (ID: 1855), Prob: 0.0000
+Token: ' reverse' (ID: 9931), Prob: 0.0000
+Token: ' expand' (ID: 9225), Prob: 0.0000
+Token: ' analysis' (ID: 6358), Prob: 0.0000
+Token: ' breakdown' (ID: 29985), Prob: 0.0000
+Token: ' points' (ID: 3501), Prob: 0.0000
+Token: ' think' (ID: 1744), Prob: 0.0000
+Token: ' message' (ID: 1943), Prob: 0.0000
+Token: ' recognize' (ID: 15282), Prob: 0.0000
+Token: ' try' (ID: 1430), Prob: 0.0000
+Token: ' gather' (ID: 9567), Prob: 0.0000
+Token: ' main' (ID: 1887), Prob: 0.0000
+Token: ' connect' (ID: 4564), Prob: 0.0000
+Token: ' ensure' (ID: 5978), Prob: 0.0000
+Token: ' mention' (ID: 6286), Prob: 0.0000
+Token: ' translation' (ID: 14468), Prob: 0.0000
+Token: ' sentences' (ID: 22870), Prob: 0.0000
+Token: ' add' (ID: 912), Prob: 0.0000
+Token: ' rewrite' (ID: 18130), Prob: 0.0000
+Token: ' introduce' (ID: 19131), Prob: 0.0000
+Token: ' replicate' (ID: 45013), Prob: 0.0000
+Token: ' person' (ID: 1697), Prob: 0.0000
+Token: ' keep' (ID: 2506), Prob: 0.0000
+Token: ' open' (ID: 1787), Prob: 0.0000
+Token: ' context' (ID: 2266), Prob: 0.0000
+Token: ' map' (ID: 2415), Prob: 0.0000
 
 == Ranked Concepts (Clusters) ==
-Rank 1 | Centroid: 'Let' | Score: 0.4980
-  Tokens: ['Let', 'Please']
-Rank 2 | Centroid: 'Answer' | Score: 0.0317
-  Tokens: ['Answer', 'Correct', 'Explanation']
-Rank 3 | Centroid: 'Actually' | Score: 0.0040
-  Tokens: ['Wait', 'Okay', 'Actually']
-Rank 4 | Centroid: 'Yes' | Score: 0.0031
-  Tokens: ['Yes', 'Therefore']
-Rank 5 | Centroid: 'Maybe' | Score: 0.0030
-  Tokens: ['Maybe', 'May']
-Rank 6 | Centroid: 'Word' | Score: 0.0029
-  Tokens: ['Word']
-Rank 7 | Centroid: 'According' | Score: 0.0029
-  Tokens: ['Based', 'Using', 'According']
-Rank 8 | Centroid: 'Child' | Score: 0.0029
-  Tokens: ['Child', 'Parent', 'Children']
-Rank 9 | Centroid: 'Home' | Score: 0.0023
-  Tokens: ['Home', 'Back']
-Rank 10 | Centroid: 'Choose' | Score: 0.0023
-  Tokens: ['Choose', 'Generate', 'Make']
-Rank 11 | Centroid: 'Help' | Score: 0.0019
-  Tokens: ['Help', 'Ass']
-Rank 12 | Centroid: 'One' | Score: 0.0017
-  Tokens: ['One', 'Every']
-Rank 13 | Centroid: 'Last' | Score: 0.0015
-  Tokens: ['Last', 'First']
-Rank 14 | Centroid: 'Tag' | Score: 0.0015
-  Tokens: ['Tag']
-Rank 15 | Centroid: 'Going' | Score: 0.0014
-  Tokens: ['Going', 'Looking']
-Rank 16 | Centroid: 'Press' | Score: 0.0011
-  Tokens: ['Press']
-Rank 17 | Centroid: 'Learning' | Score: 0.0008
-  Tokens: ['Learning']
-Rank 18 | Centroid: 'Ending' | Score: 0.0007
-  Tokens: ['Ending']
-Rank 19 | Centroid: 'Still' | Score: 0.0006
-  Tokens: ['Still']
+Rank 1 | Centroid: ' parse' | Score: 0.0107
+  Tokens: [' parse', ' extract']
+Rank 2 | Centroid: ' need' | Score: 0.0089
+  Tokens: [' need', ' maybe', ' needs']
+Rank 3 | Centroid: ' understand' | Score: 0.0020
+  Tokens: [' analyze', ' understand', ' interpret', ' understanding', ' analysis']
+Rank 4 | Centroid: ' take' | Score: 0.0020
+  Tokens: [' let', ' check', ' start', ' take', ' look', ' pick', ' try', ' keep']
+Rank 5 | Centroid: ' breaking' | Score: 0.0010
+  Tokens: [' break', ' split', ' breaking', ' breakdown']
+Rank 6 | Centroid: ' recognize' | Score: 0.0006
+  Tokens: [' identify', ' acknowledge', ' recognize']
+Rank 7 | Centroid: ' create' | Score: 0.0005
+  Tokens: [' make', ' get', ' find', ' build', ' create', ' expand', ' connect', ' ensure', ' add']
+Rank 8 | Centroid: ' read' | Score: 0.0004
+  Tokens: [' read', ' set', ' open']
+Rank 9 | Centroid: ' translate' | Score: 0.0003
+  Tokens: [' translate', ' translation']
+Rank 10 | Centroid: ' rewrite' | Score: 0.0002
+  Tokens: [' paraph', ' recap', ' reconstruct', ' wrap', ' rewrite', ' replicate']
+Rank 11 | Centroid: ' name' | Score: 0.0002
+  Tokens: [' process', ' structure', ' key', ' name', ' background', ' main', ' person', ' context', ' map']
+Rank 12 | Centroid: ' characters' | Score: 0.0001
+  Tokens: [' characters', ' character']
+Rank 13 | Centroid: ' establish' | Score: 0.0001
+  Tokens: [' summarize', ' capture', ' establish', ' tackle', ' gather', ' introduce']
+Rank 14 | Centroid: ' highlight' | Score: 0.0001
+  Tokens: [' outline', ' highlight', ' focus']
+Rank 15 | Centroid: ' note' | Score: 0.0001
+  Tokens: [' note', ' notice', ' mention']
+Rank 16 | Centroid: ' sentence' | Score: 0.0001
+  Tokens: [' sentence', ' paragraph', ' sentences']
+Rank 17 | Centroid: ' figure' | Score: 0.0000
+  Tokens: [' figure', ' message']
+Rank 18 | Centroid: ' point' | Score: 0.0000
+  Tokens: [' point', ' points']
+Rank 19 | Centroid: ' handle' | Score: 0.0000
+  Tokens: [' handle']
+Rank 20 | Centroid: ' unpack' | Score: 0.0000
+  Tokens: [' unpack']
+Rank 21 | Centroid: ' prompt' | Score: 0.0000
+  Tokens: [' prompt']
+Rank 22 | Centroid: ' reverse' | Score: 0.0000
+  Tokens: [' reverse']
+Rank 23 | Centroid: ' think' | Score: 0.0000
+  Tokens: [' think']
 
 **Chosen Concept:** Rank 1

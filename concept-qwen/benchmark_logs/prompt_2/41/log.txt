@@ -1,0 +1,130 @@
+--- Step 41 Log ---
+
+== Filtered Candidates ==
+Token: ' Include' (ID: 29734), Prob: 0.2715
+Token: ' Talk' (ID: 18976), Prob: 0.0879
+Token: ' Add' (ID: 2691), Prob: 0.0119
+Token: ' Describe' (ID: 60785), Prob: 0.0119
+Token: ' Highlight' (ID: 55994), Prob: 0.0082
+Token: ' Use' (ID: 5443), Prob: 0.0064
+Token: ' Discuss' (ID: 65279), Prob: 0.0039
+Token: ' Mention' (ID: 85148), Prob: 0.0039
+Token: ' State' (ID: 3234), Prob: 0.0013
+Token: ' Int' (ID: 1333), Prob: 0.0008
+Token: ' Address' (ID: 9177), Prob: 0.0004
+Token: ' Explain' (ID: 81917), Prob: 0.0004
+Token: ' Note' (ID: 7036), Prob: 0.0004
+Token: ' Reference' (ID: 17207), Prob: 0.0003
+Token: ' Say' (ID: 24917), Prob: 0.0003
+Token: ' List' (ID: 1759), Prob: 0.0002
+Token: ' talk' (ID: 3061), Prob: 0.0002
+Token: ' Focus' (ID: 25806), Prob: 0.0002
+Token: ' Con' (ID: 1200), Prob: 0.0002
+Token: ' Start' (ID: 5145), Prob: 0.0002
+Token: ' Point' (ID: 5126), Prob: 0.0001
+Token: ' Create' (ID: 4230), Prob: 0.0001
+Token: ' Next' (ID: 9295), Prob: 0.0001
+Token: ' Talks' (ID: 80447), Prob: 0.0001
+Token: ' Express' (ID: 17399), Prob: 0.0001
+Token: ' Wait' (ID: 13824), Prob: 0.0001
+Token: ' Words' (ID: 27630), Prob: 0.0001
+Token: ' Deal' (ID: 26263), Prob: 0.0001
+Token: ' Show' (ID: 6928), Prob: 0.0001
+Token: ' Details' (ID: 12309), Prob: 0.0001
+Token: ' Things' (ID: 20093), Prob: 0.0001
+Token: ' Contrast' (ID: 90048), Prob: 0.0001
+Token: ' Insert' (ID: 17101), Prob: 0.0001
+Token: ' Detail' (ID: 25771), Prob: 0.0001
+Token: ' Set' (ID: 2573), Prob: 0.0001
+Token: ' Points' (ID: 20725), Prob: 0.0001
+Token: ' Problems' (ID: 44535), Prob: 0.0001
+Token: ' Stress' (ID: 50468), Prob: 0.0001
+Token: ' Reflect' (ID: 34598), Prob: 0.0001
+Token: ' Incorpor' (ID: 53704), Prob: 0.0001
+Token: ' Call' (ID: 7143), Prob: 0.0001
+Token: ' Also' (ID: 7281), Prob: 0.0001
+Token: ' Since' (ID: 8704), Prob: 0.0001
+Token: ' Combine' (ID: 46812), Prob: 0.0001
+Token: ' Ind' (ID: 2263), Prob: 0.0000
+Token: ' Let' (ID: 6771), Prob: 0.0000
+Token: ' Outline' (ID: 51909), Prob: 0.0000
+Token: ' Follow' (ID: 11112), Prob: 0.0000
+Token: ' Tell' (ID: 24647), Prob: 0.0000
+Token: ' Bring' (ID: 39124), Prob: 0.0000
+Token: ' Name' (ID: 3988), Prob: 0.0000
+Token: ' Work' (ID: 5547), Prob: 0.0000
+Token: ' Give' (ID: 20678), Prob: 0.0000
+Token: ' Problem' (ID: 22079), Prob: 0.0000
+Token: ' Maybe' (ID: 10696), Prob: 0.0000
+Token: ' Conflict' (ID: 58585), Prob: 0.0000
+Token: ' Touch' (ID: 19338), Prob: 0.0000
+Token: ' Something' (ID: 24656), Prob: 0.0000
+Token: ' Flash' (ID: 17263), Prob: 0.0000
+Token: 'talk' (ID: 35241), Prob: 0.0000
+Token: ' Transition' (ID: 37721), Prob: 0.0000
+Token: ' Including' (ID: 55121), Prob: 0.0000
+Token: ' Time' (ID: 4120), Prob: 0.0000
+Token: ' Connect' (ID: 13015), Prob: 0.0000
+Token: ' Handle' (ID: 13760), Prob: 0.0000
+Token: ' Fill' (ID: 21979), Prob: 0.0000
+Token: ' Ack' (ID: 50982), Prob: 0.0000
+Token: ' Get' (ID: 2126), Prob: 0.0000
+Token: ' Write' (ID: 9645), Prob: 0.0000
+Token: ' Keep' (ID: 13655), Prob: 0.0000
+Token: ' Expand' (ID: 50141), Prob: 0.0000
+Token: ' Speak' (ID: 67201), Prob: 0.0000
+Token: ' Throw' (ID: 31345), Prob: 0.0000
+Token: ' Explore' (ID: 44052), Prob: 0.0000
+Token: ' Pose' (ID: 50373), Prob: 0.0000
+
+== Ranked Concepts (Clusters) ==
+Rank 1 | Centroid: ' Include' | Score: 0.2715
+  Tokens: [' Include', ' Incorpor', ' Including']
+Rank 2 | Centroid: ' Talk' | Score: 0.0884
+  Tokens: [' Talk', ' talk', ' Talks', 'talk', ' Speak']
+Rank 3 | Centroid: ' Create' | Score: 0.0186
+  Tokens: [' Add', ' Use', ' Create', ' Show', ' Set', ' Get', ' Write']
+Rank 4 | Centroid: ' Explain' | Score: 0.0162
+  Tokens: [' Describe', ' Discuss', ' Explain']
+Rank 5 | Centroid: ' Details' | Score: 0.0084
+  Tokens: [' Highlight', ' Details', ' Detail', ' Outline']
+Rank 6 | Centroid: ' Mention' | Score: 0.0039
+  Tokens: [' Mention']
+Rank 7 | Centroid: ' Name' | Score: 0.0015
+  Tokens: [' State', ' List', ' Name', ' Time']
+Rank 8 | Centroid: ' Ind' | Score: 0.0010
+  Tokens: [' Int', ' Con', ' Ind']
+Rank 9 | Centroid: ' Address' | Score: 0.0007
+  Tokens: [' Address', ' Reference']
+Rank 10 | Centroid: ' Since' | Score: 0.0007
+  Tokens: [' Note', ' Next', ' Also', ' Since', ' Let']
+Rank 11 | Centroid: ' Tell' | Score: 0.0003
+  Tokens: [' Say', ' Tell', ' Give']
+Rank 12 | Centroid: ' Wait' | Score: 0.0003
+  Tokens: [' Start', ' Wait', ' Call', ' Work']
+Rank 13 | Centroid: ' Conflict' | Score: 0.0002
+  Tokens: [' Contrast', ' Stress', ' Reflect', ' Conflict', ' Transition']
+Rank 14 | Centroid: ' Focus' | Score: 0.0002
+  Tokens: [' Focus', ' Flash']
+Rank 15 | Centroid: ' Something' | Score: 0.0002
+  Tokens: [' Words', ' Things', ' Maybe', ' Something']
+Rank 16 | Centroid: ' Point' | Score: 0.0002
+  Tokens: [' Point', ' Points']
+Rank 17 | Centroid: ' Explore' | Score: 0.0002
+  Tokens: [' Express', ' Connect', ' Expand', ' Explore']
+Rank 18 | Centroid: ' Fill' | Score: 0.0001
+  Tokens: [' Insert', ' Follow', ' Fill']
+Rank 19 | Centroid: ' Bring' | Score: 0.0001
+  Tokens: [' Combine', ' Bring', ' Keep', ' Throw']
+Rank 20 | Centroid: ' Deal' | Score: 0.0001
+  Tokens: [' Deal', ' Handle']
+Rank 21 | Centroid: ' Problems' | Score: 0.0001
+  Tokens: [' Problems', ' Problem']
+Rank 22 | Centroid: ' Touch' | Score: 0.0000
+  Tokens: [' Touch']
+Rank 23 | Centroid: ' Ack' | Score: 0.0000
+  Tokens: [' Ack']
+Rank 24 | Centroid: ' Pose' | Score: 0.0000
+  Tokens: [' Pose']
+
+**Chosen Concept:** Rank 1

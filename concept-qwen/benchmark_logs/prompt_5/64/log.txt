@@ -1,119 +1,129 @@
 --- Step 64 Log ---
 
 == Filtered Candidates ==
-Token: ' vary' (ID: 13289), Prob: 1.0000
-Token: ' differ' (ID: 1745), Prob: 0.0000
-Token: ' varies' (ID: 34227), Prob: 0.0000
-Token: ' vari' (ID: 4151), Prob: 0.0000
-Token: 'vary' (ID: 82976), Prob: 0.0000
-Token: ' varied' (ID: 27730), Prob: 0.0000
-Token: ' var' (ID: 762), Prob: 0.0000
-Token: ' variety' (ID: 8045), Prob: 0.0000
-Token: ' involve' (ID: 21058), Prob: 0.0000
-Token: ' include' (ID: 2924), Prob: 0.0000
-Token: ' varying' (ID: 28765), Prob: 0.0000
-Token: ' diver' (ID: 36341), Prob: 0.0000
-Token: ' variation' (ID: 22990), Prob: 0.0000
-Token: ' refer' (ID: 8300), Prob: 0.0000
-Token: ' change' (ID: 2297), Prob: 0.0000
-Token: ' slightly' (ID: 10078), Prob: 0.0000
-Token: ' variable' (ID: 3890), Prob: 0.0000
-Token: ' range' (ID: 2088), Prob: 0.0000
-Token: ' arise' (ID: 30789), Prob: 0.0000
-Token: ' depend' (ID: 6761), Prob: 0.0000
-Token: ' variant' (ID: 11424), Prob: 0.0000
-Token: ' also' (ID: 1083), Prob: 0.0000
-Token: ' appear' (ID: 4994), Prob: 0.0000
-Token: ' arrive' (ID: 17331), Prob: 0.0000
-Token: ' variations' (ID: 26244), Prob: 0.0000
-Token: ' take' (ID: 1896), Prob: 0.0000
-Token: ' various' (ID: 5257), Prob: 0.0000
-Token: ' relate' (ID: 28143), Prob: 0.0000
-Token: ' stay' (ID: 4717), Prob: 0.0000
-Token: ' verify' (ID: 10146), Prob: 0.0000
-Token: ' variance' (ID: 32273), Prob: 0.0000
-Token: ' remain' (ID: 7146), Prob: 0.0000
-Token: ' exceed' (ID: 12488), Prob: 0.0000
-Token: ' avoid' (ID: 5648), Prob: 0.0000
-Token: ' use' (ID: 990), Prob: 0.0000
-Token: ' specify' (ID: 13837), Prob: 0.0000
-Token: ' adjust' (ID: 7500), Prob: 0.0000
-Token: ' Vari' (ID: 27868), Prob: 0.0000
-Token: ' require' (ID: 1373), Prob: 0.0000
-Token: ' show' (ID: 1473), Prob: 0.0000
-Token: ' bar' (ID: 3619), Prob: 0.0000
-Token: ' consist' (ID: 6685), Prob: 0.0000
-Token: '.var' (ID: 19526), Prob: 0.0000
-Token: ' share' (ID: 4332), Prob: 0.0000
-Token: ' rely' (ID: 17188), Prob: 0.0000
-Token: ' say' (ID: 1977), Prob: 0.0000
-Token: ' yield' (ID: 7540), Prob: 0.0000
-Token: ' look' (ID: 1401), Prob: 0.0000
-Token: ' still' (ID: 2058), Prob: 0.0000
-Token: ' alter' (ID: 11596), Prob: 0.0000
-Token: ' add' (ID: 912), Prob: 0.0000
-Token: ' exist' (ID: 3000), Prob: 0.0000
-Token: ' either' (ID: 2987), Prob: 0.0000
-Token: ' leave' (ID: 5274), Prob: 0.0000
-Token: ' fly' (ID: 11466), Prob: 0.0000
-Token: ' differently' (ID: 21303), Prob: 0.0000
+Token: ' involve' (ID: 21058), Prob: 0.0259
+Token: ' relate' (ID: 28143), Prob: 0.0003
+Token: ' arise' (ID: 30789), Prob: 0.0002
+Token: ' come' (ID: 2525), Prob: 0.0001
+Token: ' include' (ID: 2924), Prob: 0.0001
+Token: ' stem' (ID: 19101), Prob: 0.0000
+Token: ' rev' (ID: 5772), Prob: 0.0000
+Token: ' maybe' (ID: 7196), Prob: 0.0000
+Token: ' perhaps' (ID: 8365), Prob: 0.0000
 Token: ' start' (ID: 1191), Prob: 0.0000
+Token: ' center' (ID: 4126), Prob: 0.0000
+Token: ' tie' (ID: 18131), Prob: 0.0000
+Token: ' surround' (ID: 8995), Prob: 0.0000
+Token: ' happen' (ID: 3537), Prob: 0.0000
 Token: ' lie' (ID: 10246), Prob: 0.0000
-Token: ' break' (ID: 1438), Prob: 0.0000
-Token: ' Var' (ID: 8735), Prob: 0.0000
-Token: ' stand' (ID: 2498), Prob: 0.0000
-Token: ' violate' (ID: 40487), Prob: 0.0000
-Token: ' occur' (ID: 12170), Prob: 0.0000
-Token: ' modify' (ID: 5602), Prob: 0.0000
-Token: ' never' (ID: 2581), Prob: 0.0000
-Token: ' provide' (ID: 3410), Prob: 0.0000
-Token: 'var' (ID: 947), Prob: 0.0000
-Token: ' come' (ID: 2525), Prob: 0.0000
-Token: ' divide' (ID: 21749), Prob: 0.0000
-Token: ' give' (ID: 2968), Prob: 0.0000
-Token: ' apply' (ID: 3796), Prob: 0.0000
-Token: ' carry' (ID: 6777), Prob: 0.0000
-Token: ' represent' (ID: 4009), Prob: 0.0000
-Token: ' reflect' (ID: 8708), Prob: 0.0000
-Token: ' indicate' (ID: 13216), Prob: 0.0000
-Token: ' different' (ID: 2155), Prob: 0.0000
+Token: ' related' (ID: 5435), Prob: 0.0000
+Token: ' bring' (ID: 4446), Prob: 0.0000
+Token: ' could' (ID: 1410), Prob: 0.0000
+Token: ' probably' (ID: 4658), Prob: 0.0000
+Token: ' naturally' (ID: 17712), Prob: 0.0000
+Token: ' emerge' (ID: 32944), Prob: 0.0000
+Token: ' interest' (ID: 2734), Prob: 0.0000
+Token: ' around' (ID: 2163), Prob: 0.0000
+Token: ' might' (ID: 2578), Prob: 0.0000
+Token: ' add' (ID: 912), Prob: 0.0000
+Token: ' involving' (ID: 15860), Prob: 0.0000
+Token: ' also' (ID: 1083), Prob: 0.0000
 Token: ' mean' (ID: 3076), Prob: 0.0000
+Token: ' something' (ID: 2494), Prob: 0.0000
+Token: ' depend' (ID: 6761), Prob: 0.0000
+Token: ' introduce' (ID: 19131), Prob: 0.0000
+Token: ' inspire' (ID: 30640), Prob: 0.0000
+Token: ' link' (ID: 2656), Prob: 0.0000
+Token: ' likely' (ID: 4363), Prob: 0.0000
+Token: ' exist' (ID: 3000), Prob: 0.0000
+Token: ' show' (ID: 1473), Prob: 0.0000
+Token: ' still' (ID: 2058), Prob: 0.0000
+Token: ' develop' (ID: 2225), Prob: 0.0000
+Token: ' involves' (ID: 17601), Prob: 0.0000
+Token: ' help' (ID: 1492), Prob: 0.0000
+Token: ' seem' (ID: 2803), Prob: 0.0000
+Token: ' occur' (ID: 12170), Prob: 0.0000
+Token: ' resolve' (ID: 8830), Prob: 0.0000
+Token: ' possibly' (ID: 10767), Prob: 0.0000
+Token: ' always' (ID: 2677), Prob: 0.0000
+Token: ' simmer' (ID: 61815), Prob: 0.0000
+Token: ' make' (ID: 1281), Prob: 0.0000
+Token: ' take' (ID: 1896), Prob: 0.0000
+Token: ' mention' (ID: 6286), Prob: 0.0000
+Token: ' hinge' (ID: 75593), Prob: 0.0000
+Token: ' either' (ID: 2987), Prob: 0.0000
+Token: ' focus' (ID: 5244), Prob: 0.0000
+Token: ' vary' (ID: 13289), Prob: 0.0000
+Token: ' result' (ID: 1102), Prob: 0.0000
+Token: ' feel' (ID: 2666), Prob: 0.0000
+Token: ' wrap' (ID: 15061), Prob: 0.0000
+Token: ' highlight' (ID: 11167), Prob: 0.0000
+Token: ' revolves' (ID: 78376), Prob: 0.0000
+Token: ' motivate' (ID: 61325), Prob: 0.0000
+Token: ' lead' (ID: 2990), Prob: 0.0000
+Token: ' need' (ID: 1184), Prob: 0.0000
+Token: ' push' (ID: 4484), Prob: 0.0000
+Token: ' spark' (ID: 15186), Prob: 0.0000
+Token: ' set' (ID: 738), Prob: 0.0000
+Token: ' involved' (ID: 6398), Prob: 0.0000
+Token: ' explore' (ID: 13186), Prob: 0.0000
+Token: ' require' (ID: 1373), Prob: 0.0000
+Token: ' worry' (ID: 10955), Prob: 0.0000
+Token: ' distract' (ID: 63817), Prob: 0.0000
+Token: ' boil' (ID: 43690), Prob: 0.0000
+Token: ' create' (ID: 1855), Prob: 0.0000
+Token: ' build' (ID: 1936), Prob: 0.0000
+Token: ' drive' (ID: 6541), Prob: 0.0000
+Token: ' refer' (ID: 8300), Prob: 0.0000
 Token: ' potentially' (ID: 13581), Prob: 0.0000
+Token: ' escalate' (ID: 88590), Prob: 0.0000
+Token: ' stand' (ID: 2498), Prob: 0.0000
+Token: ' already' (ID: 2669), Prob: 0.0000
+Token: ' love' (ID: 2948), Prob: 0.0000
+Token: ' derive' (ID: 42430), Prob: 0.0000
+Token: ' concern' (ID: 4643), Prob: 0.0000
+Token: ' intrigue' (ID: 80513), Prob: 0.0000
+Token: ' get' (ID: 633), Prob: 0.0000
+Token: ' keep' (ID: 2506), Prob: 0.0000
+Token: ' often' (ID: 3545), Prob: 0.0000
+Token: ' become' (ID: 3635), Prob: 0.0000
 
 == Ranked Concepts (Clusters) ==
-Rank 1 | Centroid: ' vary' | Score: 1.0000
-  Tokens: [' vary', ' varies', 'vary', ' varied', ' variety', ' varying', ' various']
-Rank 2 | Centroid: ' different' | Score: 0.0000
-  Tokens: [' differ', ' differently', ' different']
-Rank 3 | Centroid: ' Vari' | Score: 0.0000
-  Tokens: [' vari', ' var', ' variation', ' variable', ' variant', ' variations', ' variance', ' Vari', '.var', ' Var', 'var']
-Rank 4 | Centroid: ' rely' | Score: 0.0000
-  Tokens: [' involve', ' include', ' depend', ' relate', ' require', ' consist', ' rely']
-Rank 5 | Centroid: ' diver' | Score: 0.0000
-  Tokens: [' diver']
-Rank 6 | Centroid: ' arise' | Score: 0.0000
-  Tokens: [' arise', ' appear', ' arrive', ' exceed', ' exist', ' lie', ' violate', ' occur', ' come']
-Rank 7 | Centroid: ' potentially' | Score: 0.0000
-  Tokens: [' slightly', ' also', ' still', ' either', ' never', ' potentially']
-Rank 8 | Centroid: ' represent' | Score: 0.0000
-  Tokens: [' refer', ' stand', ' represent', ' reflect', ' mean']
-Rank 9 | Centroid: ' alter' | Score: 0.0000
-  Tokens: [' change', ' adjust', ' alter', ' modify']
-Rank 10 | Centroid: ' take' | Score: 0.0000
-  Tokens: [' take', ' use', ' share', ' look', ' leave', ' fly', ' start', ' carry']
-Rank 11 | Centroid: ' range' | Score: 0.0000
-  Tokens: [' range', ' bar']
-Rank 12 | Centroid: ' provide' | Score: 0.0000
-  Tokens: [' verify', ' specify', ' show', ' provide', ' give', ' indicate']
-Rank 13 | Centroid: ' stay' | Score: 0.0000
-  Tokens: [' stay', ' remain']
-Rank 14 | Centroid: ' add' | Score: 0.0000
-  Tokens: [' avoid', ' add', ' apply']
-Rank 15 | Centroid: ' say' | Score: 0.0000
-  Tokens: [' say']
-Rank 16 | Centroid: ' yield' | Score: 0.0000
-  Tokens: [' yield']
-Rank 17 | Centroid: ' break' | Score: 0.0000
-  Tokens: [' break', ' divide']
+Rank 1 | Centroid: ' involves' | Score: 0.0259
+  Tokens: [' involve', ' involving', ' involves', ' involved']
+Rank 2 | Centroid: ' occur' | Score: 0.0004
+  Tokens: [' arise', ' come', ' happen', ' emerge', ' exist', ' occur', ' become']
+Rank 3 | Centroid: ' relate' | Score: 0.0003
+  Tokens: [' relate', ' related']
+Rank 4 | Centroid: ' require' | Score: 0.0001
+  Tokens: [' include', ' need', ' require']
+Rank 5 | Centroid: ' simmer' | Score: 0.0000
+  Tokens: [' stem', ' simmer', ' hinge', ' boil']
+Rank 6 | Centroid: ' revolves' | Score: 0.0000
+  Tokens: [' rev', ' center', ' surround', ' wrap', ' revolves']
+Rank 7 | Centroid: ' possibly' | Score: 0.0000
+  Tokens: [' maybe', ' perhaps', ' could', ' probably', ' might', ' likely', ' possibly', ' potentially']
+Rank 8 | Centroid: ' create' | Score: 0.0000
+  Tokens: [' start', ' bring', ' add', ' show', ' help', ' make', ' take', ' push', ' set', ' create', ' build', ' get', ' keep']
+Rank 9 | Centroid: ' link' | Score: 0.0000
+  Tokens: [' tie', ' mean', ' link', ' lead', ' stand']
+Rank 10 | Centroid: ' also' | Score: 0.0000
+  Tokens: [' naturally', ' also', ' still', ' always', ' already', ' often']
+Rank 11 | Centroid: ' seem' | Score: 0.0000
+  Tokens: [' lie', ' seem', ' feel']
+Rank 12 | Centroid: ' concern' | Score: 0.0000
+  Tokens: [' interest', ' mention', ' focus', ' worry', ' concern', ' intrigue']
+Rank 13 | Centroid: ' inspire' | Score: 0.0000
+  Tokens: [' introduce', ' inspire', ' highlight', ' motivate', ' explore', ' distract', ' escalate']
+Rank 14 | Centroid: ' something' | Score: 0.0000
+  Tokens: [' around', ' something', ' either']
+Rank 15 | Centroid: ' vary' | Score: 0.0000
+  Tokens: [' depend', ' vary', ' refer']
+Rank 16 | Centroid: ' develop' | Score: 0.0000
+  Tokens: [' develop', ' resolve', ' derive']
+Rank 17 | Centroid: ' result' | Score: 0.0000
+  Tokens: [' result', ' love']
+Rank 18 | Centroid: ' spark' | Score: 0.0000
+  Tokens: [' spark', ' drive']
 
 **Chosen Concept:** Rank 1

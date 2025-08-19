@@ -1,121 +1,161 @@
 --- Step 129 Log ---
 
 == Filtered Candidates ==
-Token: ' things' (ID: 2513), Prob: 0.0830
-Token: ' anything' (ID: 4113), Prob: 0.0010
-Token: ' people' (ID: 1251), Prob: 0.0004
-Token: ' everything' (ID: 4297), Prob: 0.0003
-Token: ' something' (ID: 2494), Prob: 0.0002
-Token: ' words' (ID: 4244), Prob: 0.0001
-Token: ' sounds' (ID: 10362), Prob: 0.0001
-Token: ' sense' (ID: 5530), Prob: 0.0001
-Token: ' others' (ID: 3800), Prob: 0.0001
-Token: ' complex' (ID: 6351), Prob: 0.0001
-Token: ' sentences' (ID: 22870), Prob: 0.0000
-Token: ' forced' (ID: 9575), Prob: 0.0000
-Token: ' details' (ID: 3565), Prob: 0.0000
-Token: ' actions' (ID: 6168), Prob: 0.0000
-Token: ' everyone' (ID: 5019), Prob: 0.0000
-Token: ' clich' (ID: 62592), Prob: 0.0000
-Token: ' emotions' (ID: 21261), Prob: 0.0000
-Token: ' excuses' (ID: 54486), Prob: 0.0000
-Token: ' stuff' (ID: 6259), Prob: 0.0000
-Token: ' anyone' (ID: 5489), Prob: 0.0000
-Token: ' sound' (ID: 5112), Prob: 0.0000
-Token: ' reactions' (ID: 24473), Prob: 0.0000
-Token: ' characters' (ID: 5766), Prob: 0.0000
-Token: ' complicated' (ID: 16965), Prob: 0.0000
-Token: ' phrases' (ID: 31747), Prob: 0.0000
-Token: ' matters' (ID: 12850), Prob: 0.0000
-Token: ' sure' (ID: 2704), Prob: 0.0000
-Token: ' someone' (ID: 4325), Prob: 0.0000
-Token: ' references' (ID: 15057), Prob: 0.0000
-Token: ' conversations' (ID: 20959), Prob: 0.0000
-Token: ' unnecessary' (ID: 25165), Prob: 0.0000
-Token: ' connections' (ID: 13234), Prob: 0.0000
-Token: ' heavy' (ID: 8811), Prob: 0.0000
-Token: ' statements' (ID: 12239), Prob: 0.0000
-Token: ' strong' (ID: 3746), Prob: 0.0000
-Token: ' every' (ID: 1449), Prob: 0.0000
-Token: ' metaph' (ID: 30668), Prob: 0.0000
-Token: ' comparisons' (ID: 35495), Prob: 0.0000
-Token: ' noises' (ID: 57348), Prob: 0.0000
-Token: ' situations' (ID: 14740), Prob: 0.0000
-Token: ' scenes' (ID: 16065), Prob: 0.0000
-Token: ' unrelated' (ID: 45205), Prob: 0.0000
-Token: ' names' (ID: 5036), Prob: 0.0000
-Token: ' readers' (ID: 12726), Prob: 0.0000
-Token: ' exaggerated' (ID: 61158), Prob: 0.0000
-Token: ' confusing' (ID: 30615), Prob: 0.0000
-Token: ' accusations' (ID: 35469), Prob: 0.0000
-Token: ' vague' (ID: 39046), Prob: 0.0000
-Token: ' life' (ID: 2272), Prob: 0.0000
-Token: ' speeches' (ID: 43340), Prob: 0.0000
-Token: ' mistakes' (ID: 20643), Prob: 0.0000
-Token: ' lines' (ID: 5128), Prob: 0.0000
-Token: ' predictions' (ID: 19898), Prob: 0.0000
-Token: ' assumptions' (ID: 31846), Prob: 0.0000
-Token: ' much' (ID: 1753), Prob: 0.0000
-Token: ' nothing' (ID: 4302), Prob: 0.0000
-Token: ' individuals' (ID: 7775), Prob: 0.0000
-Token: ' headlines' (ID: 30086), Prob: 0.0000
-Token: ' one' (ID: 825), Prob: 0.0000
-Token: ' context' (ID: 2266), Prob: 0.0000
-Token: ' trivial' (ID: 35647), Prob: 0.0000
-Token: ' exagger' (ID: 37930), Prob: 0.0000
-Token: ' claims' (ID: 8186), Prob: 0.0000
-Token: ' parts' (ID: 5479), Prob: 0.0000
-Token: ' promises' (ID: 20647), Prob: 0.0000
-Token: ' explanations' (ID: 40841), Prob: 0.0000
-Token: ' stories' (ID: 7343), Prob: 0.0000
-Token: ' overly' (ID: 38432), Prob: 0.0000
-Token: ' feelings' (ID: 15650), Prob: 0.0000
-Token: ' jokes' (ID: 31420), Prob: 0.0000
-Token: ' thoughts' (ID: 11303), Prob: 0.0000
-Token: ' demands' (ID: 18154), Prob: 0.0000
-Token: ' dialogue' (ID: 21276), Prob: 0.0000
-Token: ' conf' (ID: 2335), Prob: 0.0000
-Token: ' fake' (ID: 12418), Prob: 0.0000
-Token: ' unsupported' (ID: 40409), Prob: 0.0000
+Token: ' scene' (ID: 6109), Prob: 0.2441
+Token: ' character' (ID: 3668), Prob: 0.0898
+Token: ' personal' (ID: 4345), Prob: 0.0618
+Token: ' conflict' (ID: 12055), Prob: 0.0452
+Token: ' description' (ID: 4008), Prob: 0.0376
+Token: ' setting' (ID: 6243), Prob: 0.0332
+Token: ' specific' (ID: 3151), Prob: 0.0258
+Token: ' place' (ID: 1992), Prob: 0.0156
+Token: ' moment' (ID: 4445), Prob: 0.0156
+Token: ' physical' (ID: 6961), Prob: 0.0156
+Token: ' person' (ID: 1697), Prob: 0.0147
+Token: ' direct' (ID: 2118), Prob: 0.0129
+Token: ' family' (ID: 2997), Prob: 0.0121
+Token: ' problem' (ID: 3491), Prob: 0.0095
+Token: ' visual' (ID: 9124), Prob: 0.0095
+Token: ' house' (ID: 3753), Prob: 0.0069
+Token: ' dialogue' (ID: 21276), Prob: 0.0069
+Token: ' single' (ID: 3175), Prob: 0.0065
+Token: ' meeting' (ID: 6438), Prob: 0.0065
+Token: ' crisis' (ID: 11251), Prob: 0.0065
+Token: ' sensory' (ID: 47969), Prob: 0.0065
+Token: ' home' (ID: 2114), Prob: 0.0061
+Token: ' situation' (ID: 6534), Prob: 0.0061
+Token: ' narrative' (ID: 19221), Prob: 0.0061
+Token: ' first' (ID: 1156), Prob: 0.0048
+Token: ' child' (ID: 1682), Prob: 0.0048
+Token: ' natural' (ID: 5810), Prob: 0.0045
+Token: ' vivid' (ID: 42020), Prob: 0.0042
+Token: ' location' (ID: 3728), Prob: 0.0037
+Token: ' narrator' (ID: 64171), Prob: 0.0037
+Token: ' strong' (ID: 3746), Prob: 0.0035
+Token: ' present' (ID: 3042), Prob: 0.0031
+Token: ' beginning' (ID: 7167), Prob: 0.0031
+Token: ' flashback' (ID: 97423), Prob: 0.0031
+Token: ' detailed' (ID: 11682), Prob: 0.0029
+Token: ' different' (ID: 2155), Prob: 0.0027
+Token: ' dream' (ID: 7904), Prob: 0.0027
+Token: ' confrontation' (ID: 47753), Prob: 0.0027
+Token: ' day' (ID: 1899), Prob: 0.0025
+Token: ' clear' (ID: 2797), Prob: 0.0025
+Token: ' story' (ID: 3364), Prob: 0.0025
+Token: ' request' (ID: 1681), Prob: 0.0024
+Token: ' change' (ID: 2297), Prob: 0.0024
+Token: ' small' (ID: 2613), Prob: 0.0024
+Token: ' challenge' (ID: 8645), Prob: 0.0024
+Token: ' conversation' (ID: 10435), Prob: 0.0024
+Token: ' scenario' (ID: 15048), Prob: 0.0024
+Token: ' reflection' (ID: 21844), Prob: 0.0024
+Token: ' new' (ID: 501), Prob: 0.0023
+Token: ' self' (ID: 656), Prob: 0.0023
+Token: ' transition' (ID: 9142), Prob: 0.0023
+Token: ' protagonist' (ID: 45584), Prob: 0.0021
+Token: ' time' (ID: 882), Prob: 0.0020
+Token: ' set' (ID: 738), Prob: 0.0019
+Token: ' background' (ID: 4004), Prob: 0.0019
+Token: ' storm' (ID: 13458), Prob: 0.0019
+Token: ' close' (ID: 3265), Prob: 0.0018
+Token: ' trigger' (ID: 8183), Prob: 0.0018
+Token: ' descriptive' (ID: 52844), Prob: 0.0018
+Token: ' sense' (ID: 5530), Prob: 0.0016
+Token: ' dramatic' (ID: 21771), Prob: 0.0015
+Token: ' room' (ID: 3054), Prob: 0.0015
+Token: ' discovery' (ID: 18335), Prob: 0.0015
+Token: ' sunset' (ID: 42984), Prob: 0.0015
+Token: ' detail' (ID: 7716), Prob: 0.0014
+Token: ' quiet' (ID: 11340), Prob: 0.0014
+Token: ' real' (ID: 1931), Prob: 0.0013
+Token: ' setup' (ID: 6505), Prob: 0.0013
+Token: ' part' (ID: 949), Prob: 0.0012
+Token: ' past' (ID: 3267), Prob: 0.0012
+Token: ' living' (ID: 5382), Prob: 0.0012
+Token: ' view' (ID: 1651), Prob: 0.0011
+Token: ' short' (ID: 2805), Prob: 0.0011
+Token: ' memory' (ID: 4938), Prob: 0.0011
+Token: ' significant' (ID: 5089), Prob: 0.0011
+Token: ' reference' (ID: 5785), Prob: 0.0011
+Token: ' warm' (ID: 8205), Prob: 0.0011
+Token: ' brief' (ID: 9814), Prob: 0.0011
+Token: ' domestic' (ID: 12728), Prob: 0.0011
+Token: ' second' (ID: 2086), Prob: 0.0011
+Token: ' question' (ID: 3405), Prob: 0.0011
+Token: ' metaphor' (ID: 45350), Prob: 0.0011
+Token: ' visit' (ID: 3947), Prob: 0.0010
+Token: ' title' (ID: 2265), Prob: 0.0009
+Token: ' fire' (ID: 3940), Prob: 0.0009
+Token: ' unique' (ID: 4911), Prob: 0.0009
+Token: ' mother' (ID: 6554), Prob: 0.0009
+Token: ' prompt' (ID: 9934), Prob: 0.0009
+Token: ' recurring' (ID: 45250), Prob: 0.0009
+Token: ' main' (ID: 1887), Prob: 0.0009
+Token: ' full' (ID: 2480), Prob: 0.0009
+Token: ' morning' (ID: 6556), Prob: 0.0009
+Token: ' candle' (ID: 37799), Prob: 0.0009
+Token: ' two' (ID: 1378), Prob: 0.0008
+Token: ' woman' (ID: 5220), Prob: 0.0008
+Token: ' choice' (ID: 5754), Prob: 0.0008
+Token: ' flash' (ID: 8217), Prob: 0.0008
+Token: ' feeling' (ID: 8266), Prob: 0.0008
+Token: ' greeting' (ID: 42113), Prob: 0.0008
+Token: ' supernatural' (ID: 48958), Prob: 0.0008
 
 == Ranked Concepts (Clusters) ==
-Rank 1 | Centroid: ' something' | Score: 0.0845
-  Tokens: [' things', ' anything', ' everything', ' something', ' stuff', ' nothing']
-Rank 2 | Centroid: ' someone' | Score: 0.0005
-  Tokens: [' people', ' others', ' everyone', ' anyone', ' someone', ' readers', ' individuals']
-Rank 3 | Centroid: ' sentences' | Score: 0.0002
-  Tokens: [' words', ' sentences', ' phrases', ' statements', ' scenes', ' stories']
-Rank 4 | Centroid: ' sounds' | Score: 0.0001
-  Tokens: [' sounds', ' sound', ' noises']
-Rank 5 | Centroid: ' context' | Score: 0.0001
-  Tokens: [' sense', ' life', ' context']
-Rank 6 | Centroid: ' complicated' | Score: 0.0001
-  Tokens: [' complex', ' complicated', ' confusing', ' vague']
-Rank 7 | Centroid: ' emotions' | Score: 0.0000
-  Tokens: [' actions', ' emotions', ' situations', ' feelings', ' thoughts']
-Rank 8 | Centroid: ' heavy' | Score: 0.0000
-  Tokens: [' forced', ' heavy', ' strong', ' much', ' one', ' conf']
-Rank 9 | Centroid: ' exaggerated' | Score: 0.0000
-  Tokens: [' clich', ' metaph', ' exaggerated', ' exagger', ' overly', ' fake']
-Rank 10 | Centroid: ' names' | Score: 0.0000
-  Tokens: [' details', ' names', ' lines', ' parts']
-Rank 11 | Centroid: ' connections' | Score: 0.0000
-  Tokens: [' reactions', ' connections', ' comparisons']
-Rank 12 | Centroid: ' excuses' | Score: 0.0000
-  Tokens: [' excuses', ' headlines', ' explanations', ' jokes']
-Rank 13 | Centroid: ' accusations' | Score: 0.0000
-  Tokens: [' accusations', ' mistakes', ' predictions', ' assumptions', ' claims', ' promises', ' demands']
-Rank 14 | Centroid: ' unrelated' | Score: 0.0000
-  Tokens: [' unnecessary', ' unrelated', ' trivial', ' unsupported']
-Rank 15 | Centroid: ' sure' | Score: 0.0000
-  Tokens: [' sure', ' every']
-Rank 16 | Centroid: ' conversations' | Score: 0.0000
-  Tokens: [' conversations', ' speeches', ' dialogue']
-Rank 17 | Centroid: ' characters' | Score: 0.0000
-  Tokens: [' characters']
-Rank 18 | Centroid: ' matters' | Score: 0.0000
-  Tokens: [' matters']
-Rank 19 | Centroid: ' references' | Score: 0.0000
-  Tokens: [' references']
+Rank 1 | Centroid: ' scenario' | Score: 0.2520
+  Tokens: [' scene', ' situation', ' scenario']
+Rank 2 | Centroid: ' character' | Score: 0.0898
+  Tokens: [' character']
+Rank 3 | Centroid: ' personal' | Score: 0.0630
+  Tokens: [' personal', ' living']
+Rank 4 | Centroid: ' question' | Score: 0.0605
+  Tokens: [' conflict', ' problem', ' request', ' challenge', ' question']
+Rank 5 | Centroid: ' setup' | Score: 0.0557
+  Tokens: [' setting', ' place', ' location', ' set', ' setup']
+Rank 6 | Centroid: ' significant' | Score: 0.0520
+  Tokens: [' specific', ' physical', ' natural', ' different', ' real', ' significant', ' unique']
+Rank 7 | Centroid: ' detailed' | Score: 0.0479
+  Tokens: [' description', ' vivid', ' detailed', ' descriptive', ' detail']
+Rank 8 | Centroid: ' brief' | Score: 0.0288
+  Tokens: [' direct', ' strong', ' clear', ' small', ' close', ' quiet', ' short', ' warm', ' brief', ' full']
+Rank 9 | Centroid: ' house' | Score: 0.0278
+  Tokens: [' family', ' house', ' home', ' room', ' domestic']
+Rank 10 | Centroid: ' woman' | Score: 0.0212
+  Tokens: [' person', ' child', ' mother', ' woman']
+Rank 11 | Centroid: ' day' | Score: 0.0190
+  Tokens: [' moment', ' day', ' morning']
+Rank 12 | Centroid: ' second' | Score: 0.0186
+  Tokens: [' single', ' first', ' new', ' self', ' second', ' main', ' two']
+Rank 13 | Centroid: ' sensory' | Score: 0.0184
+  Tokens: [' visual', ' sensory', ' sense', ' feeling']
+Rank 14 | Centroid: ' dialogue' | Score: 0.0173
+  Tokens: [' dialogue', ' flashback', ' confrontation', ' conversation', ' discovery', ' greeting']
+Rank 15 | Centroid: ' narrative' | Score: 0.0156
+  Tokens: [' narrative', ' narrator', ' story', ' protagonist', ' metaphor']
+Rank 16 | Centroid: ' meeting' | Score: 0.0089
+  Tokens: [' meeting', ' reflection']
+Rank 17 | Centroid: ' past' | Score: 0.0085
+  Tokens: [' present', ' beginning', ' past', ' memory']
+Rank 18 | Centroid: ' crisis' | Score: 0.0084
+  Tokens: [' crisis', ' storm']
+Rank 19 | Centroid: ' change' | Score: 0.0054
+  Tokens: [' change', ' transition', ' choice']
+Rank 20 | Centroid: ' candle' | Score: 0.0051
+  Tokens: [' dream', ' sunset', ' candle']
+Rank 21 | Centroid: ' trigger' | Score: 0.0035
+  Tokens: [' trigger', ' fire', ' flash']
+Rank 22 | Centroid: ' view' | Score: 0.0033
+  Tokens: [' view', ' reference', ' visit']
+Rank 23 | Centroid: ' dramatic' | Score: 0.0033
+  Tokens: [' dramatic', ' recurring', ' supernatural']
+Rank 24 | Centroid: ' time' | Score: 0.0032
+  Tokens: [' time', ' part']
+Rank 25 | Centroid: ' background' | Score: 0.0019
+  Tokens: [' background']
+Rank 26 | Centroid: ' prompt' | Score: 0.0009
+  Tokens: [' prompt']
+Rank 27 | Centroid: ' title' | Score: 0.0009
+  Tokens: [' title']
 
 **Chosen Concept:** Rank 1

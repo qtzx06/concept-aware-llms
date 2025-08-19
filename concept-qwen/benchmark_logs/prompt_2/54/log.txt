@@ -1,85 +1,159 @@
 --- Step 54 Log ---
 
 == Filtered Candidates ==
-Token: ' something' (ID: 2494), Prob: 0.9297
-Token: ' etc' (ID: 4992), Prob: 0.0317
-Token: ' yes' (ID: 9834), Prob: 0.0071
-Token: ' anything' (ID: 4113), Prob: 0.0007
-Token: ' maybe' (ID: 7196), Prob: 0.0005
-Token: ' nothing' (ID: 4302), Prob: 0.0002
-Token: ' sometimes' (ID: 7025), Prob: 0.0001
-Token: ' even' (ID: 1496), Prob: 0.0001
-Token: ' somewhere' (ID: 14696), Prob: 0.0001
-Token: ' except' (ID: 3650), Prob: 0.0001
-Token: ' someone' (ID: 4325), Prob: 0.0001
-Token: ' whatever' (ID: 8820), Prob: 0.0001
-Token: ' depending' (ID: 11649), Prob: 0.0000
-Token: ' also' (ID: 1083), Prob: 0.0000
-Token: ' Something' (ID: 24656), Prob: 0.0000
-Token: ' since' (ID: 2474), Prob: 0.0000
-Token: ' similar' (ID: 4428), Prob: 0.0000
-Token: ' another' (ID: 2441), Prob: 0.0000
-Token: ' based' (ID: 3118), Prob: 0.0000
-Token: ' possibly' (ID: 10767), Prob: 0.0000
-Token: ' one' (ID: 825), Prob: 0.0000
-Token: ' option' (ID: 2999), Prob: 0.0000
-Token: ' answer' (ID: 4226), Prob: 0.0000
-Token: ' YES' (ID: 14080), Prob: 0.0000
-Token: ' thing' (ID: 3166), Prob: 0.0000
-Token: ' everything' (ID: 4297), Prob: 0.0000
-Token: ' unless' (ID: 7241), Prob: 0.0000
-Token: ' possible' (ID: 3204), Prob: 0.0000
-Token: ' plus' (ID: 5519), Prob: 0.0000
-Token: ' otherwise' (ID: 5937), Prob: 0.0000
-Token: ' perhaps' (ID: 8365), Prob: 0.0000
-Token: ' okay' (ID: 16910), Prob: 0.0000
-Token: ' two' (ID: 1378), Prob: 0.0000
-Token: ' however' (ID: 4764), Prob: 0.0000
-Token: ' sorry' (ID: 14589), Prob: 0.0000
-Token: ' things' (ID: 2513), Prob: 0.0000
-Token: ' three' (ID: 2326), Prob: 0.0000
-Token: ' like' (ID: 1075), Prob: 0.0000
-Token: ' example' (ID: 3110), Prob: 0.0000
-Token: ' specific' (ID: 3151), Prob: 0.0000
-Token: ' certain' (ID: 3654), Prob: 0.0000
-Token: ' say' (ID: 1977), Prob: 0.0000
-Token: ' options' (ID: 2606), Prob: 0.0000
-Token: ' negative' (ID: 8225), Prob: 0.0000
-Token: ' som' (ID: 1757), Prob: 0.0000
-Token: ' yeah' (ID: 21639), Prob: 0.0000
-Token: 'something' (ID: 33331), Prob: 0.0000
-Token: ' else' (ID: 770), Prob: 0.0000
+Token: ' eventual' (ID: 41735), Prob: 0.6758
+Token: ' resolution' (ID: 10935), Prob: 0.1504
+Token: ' outcome' (ID: 15274), Prob: 0.0554
+Token: ' final' (ID: 1590), Prob: 0.0159
+Token: ' success' (ID: 2393), Prob: 0.0140
+Token: ' destination' (ID: 9106), Prob: 0.0140
+Token: ' positive' (ID: 6785), Prob: 0.0124
+Token: ' effort' (ID: 5041), Prob: 0.0109
+Token: ' result' (ID: 1102), Prob: 0.0096
+Token: ' end' (ID: 835), Prob: 0.0075
+Token: ' successful' (ID: 6849), Prob: 0.0066
+Token: ' ending' (ID: 13391), Prob: 0.0052
+Token: ' conclusion' (ID: 16688), Prob: 0.0040
+Token: ' lesson' (ID: 17755), Prob: 0.0022
+Token: ' ultimate' (ID: 16724), Prob: 0.0019
+Token: ' perseverance' (ID: 98741), Prob: 0.0012
+Token: ' journey' (ID: 11618), Prob: 0.0011
+Token: ' triumph' (ID: 37486), Prob: 0.0010
+Token: ' solution' (ID: 6291), Prob: 0.0008
+Token: ' resilience' (ID: 54962), Prob: 0.0008
+Token: ' hope' (ID: 3900), Prob: 0.0004
+Token: ' eventually' (ID: 9583), Prob: 0.0004
+Token: ' twist' (ID: 26646), Prob: 0.0004
+Token: ' victory' (ID: 12560), Prob: 0.0004
+Token: ' determination' (ID: 25248), Prob: 0.0004
+Token: ' process' (ID: 1882), Prob: 0.0003
+Token: ' overcoming' (ID: 72917), Prob: 0.0003
+Token: ' point' (ID: 1459), Prob: 0.0003
+Token: ' making' (ID: 3259), Prob: 0.0003
+Token: ' resolve' (ID: 8830), Prob: 0.0003
+Token: ' make' (ID: 1281), Prob: 0.0002
+Token: ' goal' (ID: 5795), Prob: 0.0002
+Token: ' resulting' (ID: 12942), Prob: 0.0002
+Token: ' fact' (ID: 2097), Prob: 0.0002
+Token: ' efforts' (ID: 8869), Prob: 0.0002
+Token: ' turning' (ID: 13054), Prob: 0.0002
+Token: ' happy' (ID: 6247), Prob: 0.0002
+Token: ' arrival' (ID: 18647), Prob: 0.0002
+Token: ' emotional' (ID: 14269), Prob: 0.0001
+Token: ' successes' (ID: 47088), Prob: 0.0001
+Token: ' overall' (ID: 8084), Prob: 0.0001
+Token: ' event' (ID: 1538), Prob: 0.0001
+Token: ' progress' (ID: 5098), Prob: 0.0001
+Token: ' decision' (ID: 5480), Prob: 0.0001
+Token: ' learning' (ID: 6832), Prob: 0.0001
+Token: ' lessons' (ID: 18366), Prob: 0.0001
+Token: ' attempt' (ID: 4774), Prob: 0.0001
+Token: ' good' (ID: 1661), Prob: 0.0001
+Token: ' accomplishment' (ID: 60138), Prob: 0.0001
+Token: ' trium' (ID: 91806), Prob: 0.0001
+Token: ' message' (ID: 1943), Prob: 0.0001
+Token: ' ultimately' (ID: 13653), Prob: 0.0001
+Token: ' outcomes' (ID: 19554), Prob: 0.0001
+Token: ' purpose' (ID: 7428), Prob: 0.0001
+Token: ' made' (ID: 1865), Prob: 0.0001
+Token: ' moment' (ID: 4445), Prob: 0.0001
+Token: ' realization' (ID: 48703), Prob: 0.0001
+Token: ' climax' (ID: 70195), Prob: 0.0001
+Token: ' part' (ID: 949), Prob: 0.0001
+Token: ' finally' (ID: 5499), Prob: 0.0001
+Token: ' winding' (ID: 53726), Prob: 0.0001
+Token: ' way' (ID: 1616), Prob: 0.0001
+Token: ' main' (ID: 1887), Prob: 0.0001
+Token: ' challenge' (ID: 8645), Prob: 0.0001
+Token: ' reward' (ID: 11313), Prob: 0.0001
+Token: ' gradual' (ID: 52622), Prob: 0.0000
+Token: ' struggle' (ID: 14651), Prob: 0.0000
+Token: ' growth' (ID: 6513), Prob: 0.0000
+Token: ' achievement' (ID: 25426), Prob: 0.0000
+Token: ' results' (ID: 3059), Prob: 0.0000
+Token: ' transformation' (ID: 17991), Prob: 0.0000
+Token: ' resultant' (ID: 83813), Prob: 0.0000
+Token: ' resolutions' (ID: 42495), Prob: 0.0000
+Token: ' meeting' (ID: 6438), Prob: 0.0000
+Token: ' relief' (ID: 15957), Prob: 0.0000
+Token: ' motivation' (ID: 24798), Prob: 0.0000
+Token: ' aftermath' (ID: 39596), Prob: 0.0000
+Token: ' positives' (ID: 63656), Prob: 0.0000
+Token: ' resolved' (ID: 19673), Prob: 0.0000
+Token: ' reconciliation' (ID: 57655), Prob: 0.0000
+Token: ' positivity' (ID: 96942), Prob: 0.0000
+Token: ' person' (ID: 1697), Prob: 0.0000
+Token: ' restoration' (ID: 33993), Prob: 0.0000
+Token: ' mix' (ID: 6514), Prob: 0.0000
+Token: ' settlement' (ID: 17079), Prob: 0.0000
+Token: ' celebration' (ID: 24916), Prob: 0.0000
+Token: ' trip' (ID: 8411), Prob: 0.0000
+Token: ' consequence' (ID: 28674), Prob: 0.0000
+Token: ' hard' (ID: 2588), Prob: 0.0000
+Token: ' origin' (ID: 6238), Prob: 0.0000
+Token: ' aspect' (ID: 12893), Prob: 0.0000
+Token: ' unexpected' (ID: 16500), Prob: 0.0000
+Token: ' connection' (ID: 3633), Prob: 0.0000
+Token: ' adjustment' (ID: 27075), Prob: 0.0000
+Token: ' finish' (ID: 6248), Prob: 0.0000
+Token: ' rest' (ID: 2732), Prob: 0.0000
+Token: ' road' (ID: 5636), Prob: 0.0000
+Token: ' satisfaction' (ID: 23689), Prob: 0.0000
 
 == Ranked Concepts (Clusters) ==
-Rank 1 | Centroid: ' something' | Score: 0.9297
-  Tokens: [' something', ' anything', ' nothing', ' Something', ' thing', ' everything', ' things', 'something']
-Rank 2 | Centroid: ' etc' | Score: 0.0317
-  Tokens: [' etc']
-Rank 3 | Centroid: ' yes' | Score: 0.0071
-  Tokens: [' yes', ' YES', ' okay', ' sorry', ' yeah']
-Rank 4 | Centroid: ' perhaps' | Score: 0.0007
-  Tokens: [' maybe', ' sometimes', ' possibly', ' possible', ' perhaps']
-Rank 5 | Centroid: ' also' | Score: 0.0002
-  Tokens: [' even', ' also', ' however']
-Rank 6 | Centroid: ' someone' | Score: 0.0002
-  Tokens: [' somewhere', ' someone', ' som']
-Rank 7 | Centroid: ' except' | Score: 0.0002
-  Tokens: [' except', ' since', ' unless', ' plus']
-Rank 8 | Centroid: ' depending' | Score: 0.0001
-  Tokens: [' depending', ' based']
-Rank 9 | Centroid: ' like' | Score: 0.0001
-  Tokens: [' similar', ' like', ' example', ' say']
-Rank 10 | Centroid: ' whatever' | Score: 0.0001
-  Tokens: [' whatever']
-Rank 11 | Centroid: ' option' | Score: 0.0001
-  Tokens: [' option', ' answer', ' options']
-Rank 12 | Centroid: ' two' | Score: 0.0001
-  Tokens: [' one', ' two', ' three']
-Rank 13 | Centroid: ' another' | Score: 0.0000
-  Tokens: [' another']
-Rank 14 | Centroid: ' specific' | Score: 0.0000
-  Tokens: [' specific', ' certain', ' negative']
-Rank 15 | Centroid: ' otherwise' | Score: 0.0000
-  Tokens: [' otherwise', ' else']
+Rank 1 | Centroid: ' ultimately' | Score: 0.6953
+  Tokens: [' eventual', ' final', ' ultimate', ' eventually', ' overall', ' ultimately', ' finally']
+Rank 2 | Centroid: ' resolution' | Score: 0.1514
+  Tokens: [' resolution', ' resilience', ' resolve', ' resolutions', ' resolved']
+Rank 3 | Centroid: ' result' | Score: 0.0654
+  Tokens: [' outcome', ' result', ' resulting', ' outcomes', ' results', ' resultant']
+Rank 4 | Centroid: ' successes' | Score: 0.0223
+  Tokens: [' success', ' successful', ' triumph', ' victory', ' successes', ' accomplishment', ' trium', ' achievement', ' satisfaction']
+Rank 5 | Centroid: ' destination' | Score: 0.0143
+  Tokens: [' destination', ' goal', ' purpose', ' origin']
+Rank 6 | Centroid: ' ending' | Score: 0.0127
+  Tokens: [' end', ' ending', ' finish']
+Rank 7 | Centroid: ' positive' | Score: 0.0125
+  Tokens: [' positive', ' positives', ' positivity']
+Rank 8 | Centroid: ' efforts' | Score: 0.0114
+  Tokens: [' effort', ' efforts', ' progress', ' attempt', ' struggle']
+Rank 9 | Centroid: ' consequence' | Score: 0.0041
+  Tokens: [' conclusion', ' aftermath', ' consequence']
+Rank 10 | Centroid: ' lesson' | Score: 0.0024
+  Tokens: [' lesson', ' learning', ' lessons', ' unexpected']
+Rank 11 | Centroid: ' journey' | Score: 0.0015
+  Tokens: [' journey', ' process', ' growth', ' mix', ' trip', ' hard', ' road']
+Rank 12 | Centroid: ' perseverance' | Score: 0.0015
+  Tokens: [' perseverance', ' overcoming']
+Rank 13 | Centroid: ' person' | Score: 0.0009
+  Tokens: [' point', ' fact', ' event', ' message', ' moment', ' part', ' way', ' main', ' person', ' aspect']
+Rank 14 | Centroid: ' solution' | Score: 0.0009
+  Tokens: [' solution', ' decision']
+Rank 15 | Centroid: ' adjustment' | Score: 0.0006
+  Tokens: [' twist', ' realization', ' winding', ' transformation', ' adjustment']
+Rank 16 | Centroid: ' make' | Score: 0.0005
+  Tokens: [' making', ' make', ' made']
+Rank 17 | Centroid: ' hope' | Score: 0.0004
+  Tokens: [' hope']
+Rank 18 | Centroid: ' determination' | Score: 0.0004
+  Tokens: [' determination', ' motivation']
+Rank 19 | Centroid: ' happy' | Score: 0.0003
+  Tokens: [' happy', ' good']
+Rank 20 | Centroid: ' celebration' | Score: 0.0002
+  Tokens: [' arrival', ' celebration', ' connection']
+Rank 21 | Centroid: ' turning' | Score: 0.0002
+  Tokens: [' turning', ' meeting']
+Rank 22 | Centroid: ' emotional' | Score: 0.0002
+  Tokens: [' emotional', ' gradual']
+Rank 23 | Centroid: ' restoration' | Score: 0.0001
+  Tokens: [' relief', ' reconciliation', ' restoration', ' settlement']
+Rank 24 | Centroid: ' climax' | Score: 0.0001
+  Tokens: [' climax']
+Rank 25 | Centroid: ' reward' | Score: 0.0001
+  Tokens: [' reward']
+Rank 26 | Centroid: ' challenge' | Score: 0.0001
+  Tokens: [' challenge']
+Rank 27 | Centroid: ' rest' | Score: 0.0000
+  Tokens: [' rest']
 
 **Chosen Concept:** Rank 1

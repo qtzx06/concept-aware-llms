@@ -1,0 +1,94 @@
+--- Step 53 Log ---
+
+== Filtered Candidates ==
+Token: ' Maybe' (ID: 10696), Prob: 0.0298
+Token: ' Let' (ID: 6771), Prob: 0.0023
+Token: ' Hmm' (ID: 88190), Prob: 0.0017
+Token: ' Parents' (ID: 42926), Prob: 0.0008
+Token: ' Perhaps' (ID: 18765), Prob: 0.0007
+Token: ' Probably' (ID: 37154), Prob: 0.0005
+Token: ' Possible' (ID: 36107), Prob: 0.0004
+Token: ' Wait' (ID: 13824), Prob: 0.0003
+Token: ' Setting' (ID: 20037), Prob: 0.0003
+Token: ' Place' (ID: 10771), Prob: 0.0002
+Token: ' First' (ID: 5512), Prob: 0.0002
+Token: ' Using' (ID: 12091), Prob: 0.0002
+Token: ' Building' (ID: 16858), Prob: 0.0002
+Token: ' Tom' (ID: 8364), Prob: 0.0002
+Token: ' People' (ID: 8853), Prob: 0.0002
+Token: ' Needs' (ID: 43140), Prob: 0.0002
+Token: ' Places' (ID: 44736), Prob: 0.0002
+Token: ' Common' (ID: 7718), Prob: 0.0001
+Token: ' Friends' (ID: 22508), Prob: 0.0001
+Token: ' Something' (ID: 24656), Prob: 0.0001
+Token: ' Family' (ID: 12238), Prob: 0.0001
+Token: ' Two' (ID: 9043), Prob: 0.0001
+Token: ' Int' (ID: 1333), Prob: 0.0001
+Token: ' Themes' (ID: 62087), Prob: 0.0001
+Token: ' High' (ID: 5124), Prob: 0.0001
+Token: ' Different' (ID: 33396), Prob: 0.0001
+Token: ' Towers' (ID: 67357), Prob: 0.0001
+Token: ' Set' (ID: 2573), Prob: 0.0001
+Token: ' Time' (ID: 4120), Prob: 0.0001
+Token: ' Build' (ID: 7854), Prob: 0.0001
+Token: ' Som' (ID: 17564), Prob: 0.0001
+Token: ' Important' (ID: 43821), Prob: 0.0001
+Token: ' Pres' (ID: 4111), Prob: 0.0001
+Token: ' Des' (ID: 3874), Prob: 0.0001
+Token: ' Focus' (ID: 25806), Prob: 0.0001
+Token: ' Guardians' (ID: 61731), Prob: 0.0001
+Token: ' Need' (ID: 14656), Prob: 0.0001
+Token: ' Opp' (ID: 28610), Prob: 0.0001
+Token: ' Interesting' (ID: 70670), Prob: 0.0001
+Token: ' Start' (ID: 5145), Prob: 0.0001
+Token: ' Since' (ID: 8704), Prob: 0.0001
+Token: ' Teachers' (ID: 46702), Prob: 0.0001
+Token: ' Supplies' (ID: 50252), Prob: 0.0001
+Token: ' Use' (ID: 5443), Prob: 0.0001
+Token: ' Sets' (ID: 12525), Prob: 0.0001
+Token: ' Three' (ID: 14513), Prob: 0.0001
+Token: ' Storm' (ID: 21862), Prob: 0.0001
+Token: ' Shadows' (ID: 66449), Prob: 0.0001
+Token: ' Starting' (ID: 27657), Prob: 0.0001
+Token: ' Sounds' (ID: 44141), Prob: 0.0001
+Token: ' Forest' (ID: 19988), Prob: 0.0000
+Token: ' Winter' (ID: 20101), Prob: 0.0000
+Token: ' Describe' (ID: 60785), Prob: 0.0000
+Token: ' Ste' (ID: 3360), Prob: 0.0000
+Token: ' Mom' (ID: 22180), Prob: 0.0000
+
+== Ranked Concepts (Clusters) ==
+Rank 1 | Centroid: ' Maybe' | Score: 0.0332
+  Tokens: [' Maybe', ' Hmm', ' Perhaps', ' Probably', ' Possible', ' Something']
+Rank 2 | Centroid: ' Using' | Score: 0.0026
+  Tokens: [' Let', ' Using', ' Since', ' Use']
+Rank 3 | Centroid: ' Parents' | Score: 0.0012
+  Tokens: [' Parents', ' Friends', ' Family', ' Guardians', ' Teachers', ' Mom']
+Rank 4 | Centroid: ' Two' | Score: 0.0006
+  Tokens: [' First', ' Two', ' High', ' Time', ' Three']
+Rank 5 | Centroid: ' Set' | Score: 0.0004
+  Tokens: [' Setting', ' Set', ' Sets']
+Rank 6 | Centroid: ' Tom' | Score: 0.0004
+  Tokens: [' Tom', ' Som', ' Storm', ' Winter', ' Ste']
+Rank 7 | Centroid: ' Important' | Score: 0.0004
+  Tokens: [' Common', ' Different', ' Important', ' Interesting']
+Rank 8 | Centroid: ' Shadows' | Score: 0.0004
+  Tokens: [' Themes', ' Towers', ' Supplies', ' Shadows', ' Sounds']
+Rank 9 | Centroid: ' Place' | Score: 0.0004
+  Tokens: [' Place', ' Places']
+Rank 10 | Centroid: ' Wait' | Score: 0.0003
+  Tokens: [' Wait']
+Rank 11 | Centroid: ' Des' | Score: 0.0003
+  Tokens: [' Int', ' Pres', ' Des', ' Describe']
+Rank 12 | Centroid: ' Building' | Score: 0.0003
+  Tokens: [' Building', ' Build']
+Rank 13 | Centroid: ' Needs' | Score: 0.0002
+  Tokens: [' Needs', ' Need']
+Rank 14 | Centroid: ' Start' | Score: 0.0002
+  Tokens: [' Focus', ' Start', ' Starting']
+Rank 15 | Centroid: ' People' | Score: 0.0002
+  Tokens: [' People']
+Rank 16 | Centroid: ' Opp' | Score: 0.0001
+  Tokens: [' Opp', ' Forest']
+
+**Chosen Concept:** Rank 1

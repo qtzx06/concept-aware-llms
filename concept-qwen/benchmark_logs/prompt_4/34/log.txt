@@ -1,71 +1,120 @@
 --- Step 34 Log ---
 
 == Filtered Candidates ==
-Token: ' message' (ID: 1943), Prob: 0.9414
-Token: ' prompt' (ID: 9934), Prob: 0.0152
-Token: ' messages' (ID: 6605), Prob: 0.0022
-Token: '.message' (ID: 6698), Prob: 0.0005
-Token: ' Message' (ID: 4856), Prob: 0.0003
-Token: ' question' (ID: 3405), Prob: 0.0002
-Token: ' statement' (ID: 5114), Prob: 0.0002
-Token: 'message' (ID: 1994), Prob: 0.0002
-Token: '(message' (ID: 7333), Prob: 0.0001
-Token: ' list' (ID: 1140), Prob: 0.0001
-Token: ' item' (ID: 1509), Prob: 0.0001
-Token: ' answer' (ID: 4226), Prob: 0.0001
-Token: ' point' (ID: 1459), Prob: 0.0001
-Token: ' response' (ID: 2033), Prob: 0.0001
-Token: ' information' (ID: 1995), Prob: 0.0000
-Token: 'Message' (ID: 2052), Prob: 0.0000
-Token: ' content' (ID: 2213), Prob: 0.0000
-Token: ':message' (ID: 91473), Prob: 0.0000
-Token: ' except' (ID: 3650), Prob: 0.0000
-Token: ' phrase' (ID: 17133), Prob: 0.0000
-Token: ' example' (ID: 3110), Prob: 0.0000
-Token: ' sentence' (ID: 11652), Prob: 0.0000
-Token: ' user' (ID: 1196), Prob: 0.0000
-Token: '	message' (ID: 24753), Prob: 0.0000
-Token: ' description' (ID: 4008), Prob: 0.0000
-Token: '_message' (ID: 6462), Prob: 0.0000
-Token: ' theme' (ID: 6912), Prob: 0.0000
-Token: '-message' (ID: 29332), Prob: 0.0000
-Token: ' text' (ID: 1467), Prob: 0.0000
-Token: ' error' (ID: 1465), Prob: 0.0000
-Token: ' instruction' (ID: 7600), Prob: 0.0000
-Token: ' wording' (ID: 60227), Prob: 0.0000
+Token: ' miles' (ID: 8756), Prob: 0.9805
+Token: '-mile' (ID: 42176), Prob: 0.0123
+Token: ' mile' (ID: 14587), Prob: 0.0085
+Token: ' minutes' (ID: 4420), Prob: 0.0002
+Token: ' kilometers' (ID: 40568), Prob: 0.0001
+Token: ' million' (ID: 3526), Prob: 0.0000
+Token: ' Mile' (ID: 38597), Prob: 0.0000
+Token: ' mil' (ID: 7473), Prob: 0.0000
+Token: ' mileage' (ID: 49852), Prob: 0.0000
+Token: '-minute' (ID: 23498), Prob: 0.0000
+Token: ' days' (ID: 2849), Prob: 0.0000
+Token: ' thousand' (ID: 16183), Prob: 0.0000
+Token: ' Miles' (ID: 35203), Prob: 0.0000
+Token: 'mile' (ID: 66597), Prob: 0.0000
+Token: ' hours' (ID: 4115), Prob: 0.0000
+Token: ' acres' (ID: 26367), Prob: 0.0000
+Token: ' mph' (ID: 33961), Prob: 0.0000
+Token: ' feet' (ID: 7541), Prob: 0.0000
+Token: ' yards' (ID: 13692), Prob: 0.0000
+Token: ' meters' (ID: 20044), Prob: 0.0000
+Token: ' lakes' (ID: 43136), Prob: 0.0000
+Token: ' kil' (ID: 15045), Prob: 0.0000
+Token: ' blocks' (ID: 10010), Prob: 0.0000
+Token: ' milestones' (ID: 68276), Prob: 0.0000
+Token: ' Michigan' (ID: 14630), Prob: 0.0000
+Token: ' pounds' (ID: 16302), Prob: 0.0000
+Token: ' trails' (ID: 32865), Prob: 0.0000
+Token: ' inches' (ID: 14924), Prob: 0.0000
+Token: ' mill' (ID: 2544), Prob: 0.0000
+Token: ' distance' (ID: 6010), Prob: 0.0000
+Token: ' mountains' (ID: 23501), Prob: 0.0000
+Token: ' mar' (ID: 3594), Prob: 0.0000
+Token: ' Mike' (ID: 11268), Prob: 0.0000
+Token: ' trips' (ID: 22466), Prob: 0.0000
+Token: ' laps' (ID: 49955), Prob: 0.0000
+Token: ' tracks' (ID: 13918), Prob: 0.0000
+Token: ' mountain' (ID: 16301), Prob: 0.0000
+Token: ' overnight' (ID: 24398), Prob: 0.0000
+Token: ' mail' (ID: 8072), Prob: 0.0000
+Token: ' legs' (ID: 14201), Prob: 0.0000
+Token: ' leagues' (ID: 38359), Prob: 0.0000
+Token: ' minute' (ID: 9383), Prob: 0.0000
+Token: ' points' (ID: 3501), Prob: 0.0000
+Token: ' mich' (ID: 23273), Prob: 0.0000
+Token: ' hills' (ID: 34131), Prob: 0.0000
+Token: ' lake' (ID: 21800), Prob: 0.0000
+Token: ' towns' (ID: 24824), Prob: 0.0000
+Token: ' months' (ID: 3951), Prob: 0.0000
+Token: ' rounds' (ID: 19531), Prob: 0.0000
+Token: ' meals' (ID: 20969), Prob: 0.0000
+Token: ' different' (ID: 2155), Prob: 0.0000
+Token: ' hikes' (ID: 67485), Prob: 0.0000
+Token: ' specific' (ID: 3151), Prob: 0.0000
+Token: ' mer' (ID: 4704), Prob: 0.0000
+Token: ' links' (ID: 7746), Prob: 0.0000
+Token: ' mush' (ID: 29723), Prob: 0.0000
+Token: ' counties' (ID: 30176), Prob: 0.0000
+Token: ' sides' (ID: 11067), Prob: 0.0000
+Token: ' milk' (ID: 14074), Prob: 0.0000
+Token: ' mis' (ID: 5786), Prob: 0.0000
+Token: ' consecutive' (ID: 23921), Prob: 0.0000
+Token: ' mines' (ID: 33657), Prob: 0.0000
+Token: ' years' (ID: 1635), Prob: 0.0000
+Token: ' distances' (ID: 26552), Prob: 0.0000
+Token: ' cities' (ID: 9720), Prob: 0.0000
+Token: ' mine' (ID: 10485), Prob: 0.0000
+Token: '-inch' (ID: 24241), Prob: 0.0000
+Token: ' innings' (ID: 35000), Prob: 0.0000
+Token: ' mornings' (ID: 57202), Prob: 0.0000
+Token: ' little' (ID: 2632), Prob: 0.0000
+Token: ' mid' (ID: 5099), Prob: 0.0000
+Token: ' loops' (ID: 29753), Prob: 0.0000
+Token: ' long' (ID: 1293), Prob: 0.0000
+Token: ' mini' (ID: 13420), Prob: 0.0000
+Token: ' slopes' (ID: 59008), Prob: 0.0000
+Token: ' plus' (ID: 5519), Prob: 0.0000
+Token: ' thousands' (ID: 9037), Prob: 0.0000
+Token: ' courses' (ID: 13980), Prob: 0.0000
+Token: '-day' (ID: 11228), Prob: 0.0000
 
 == Ranked Concepts (Clusters) ==
-Rank 1 | Centroid: ' message' | Score: 0.9453
-  Tokens: [' message', ' messages', '.message', ' Message', 'message', '(message', 'Message', '\tmessage', '_message', '-message']
-Rank 2 | Centroid: ' prompt' | Score: 0.0152
-  Tokens: [' prompt']
-Rank 3 | Centroid: ' phrase' | Score: 0.0003
-  Tokens: [' statement', ' phrase', ' sentence', ' wording']
-Rank 4 | Centroid: ' question' | Score: 0.0002
-  Tokens: [' question']
-Rank 5 | Centroid: ' answer' | Score: 0.0001
-  Tokens: [' answer', ' response']
-Rank 6 | Centroid: ' list' | Score: 0.0001
-  Tokens: [' list']
-Rank 7 | Centroid: ' information' | Score: 0.0001
-  Tokens: [' information', ' instruction']
-Rank 8 | Centroid: ' item' | Score: 0.0001
-  Tokens: [' item']
-Rank 9 | Centroid: ' content' | Score: 0.0001
-  Tokens: [' content', ' text']
-Rank 10 | Centroid: ' point' | Score: 0.0001
-  Tokens: [' point']
-Rank 11 | Centroid: ' user' | Score: 0.0000
-  Tokens: [' user', ' error']
-Rank 12 | Centroid: ':message' | Score: 0.0000
-  Tokens: [':message']
-Rank 13 | Centroid: ' except' | Score: 0.0000
-  Tokens: [' except']
-Rank 14 | Centroid: ' example' | Score: 0.0000
-  Tokens: [' example']
-Rank 15 | Centroid: ' description' | Score: 0.0000
-  Tokens: [' description']
-Rank 16 | Centroid: ' theme' | Score: 0.0000
-  Tokens: [' theme']
+Rank 1 | Centroid: ' mile' | Score: 1.0000
+  Tokens: [' miles', '-mile', ' mile', ' Mile', ' mileage', ' Miles', 'mile', ' mph', ' milestones']
+Rank 2 | Centroid: ' minute' | Score: 0.0002
+  Tokens: [' minutes', '-minute', ' minute']
+Rank 3 | Centroid: ' inches' | Score: 0.0001
+  Tokens: [' kilometers', ' feet', ' yards', ' meters', ' pounds', ' inches']
+Rank 4 | Centroid: ' thousand' | Score: 0.0001
+  Tokens: [' million', ' mil', ' thousand', ' kil', ' mill', ' thousands']
+Rank 5 | Centroid: ' months' | Score: 0.0000
+  Tokens: [' days', ' hours', ' months', ' years']
+Rank 6 | Centroid: ' trips' | Score: 0.0000
+  Tokens: [' trails', ' trips', ' laps', ' tracks', ' rounds', ' hikes', ' links', ' loops', ' slopes', ' courses']
+Rank 7 | Centroid: ' leagues' | Score: 0.0000
+  Tokens: [' acres', ' leagues', ' innings']
+Rank 8 | Centroid: ' lake' | Score: 0.0000
+  Tokens: [' lakes', ' Michigan', ' mich', ' lake', ' mush']
+Rank 9 | Centroid: ' legs' | Score: 0.0000
+  Tokens: [' blocks', ' legs', ' points', ' sides']
+Rank 10 | Centroid: ' mountains' | Score: 0.0000
+  Tokens: [' mountains', ' mountain', ' hills', ' towns', ' counties', ' cities']
+Rank 11 | Centroid: ' milk' | Score: 0.0000
+  Tokens: [' mar', ' mail', ' mer', ' milk', ' mis']
+Rank 12 | Centroid: ' mini' | Score: 0.0000
+  Tokens: [' different', ' specific', ' consecutive', ' little', ' mid', ' long', ' mini', ' plus']
+Rank 13 | Centroid: ' meals' | Score: 0.0000
+  Tokens: [' overnight', ' meals', ' mornings', '-day']
+Rank 14 | Centroid: ' distance' | Score: 0.0000
+  Tokens: [' distance', ' distances']
+Rank 15 | Centroid: ' Mike' | Score: 0.0000
+  Tokens: [' Mike']
+Rank 16 | Centroid: ' mines' | Score: 0.0000
+  Tokens: [' mines', ' mine']
+Rank 17 | Centroid: '-inch' | Score: 0.0000
+  Tokens: ['-inch']
 
 **Chosen Concept:** Rank 1
