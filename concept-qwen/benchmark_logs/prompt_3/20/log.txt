@@ -1,101 +1,146 @@
 --- Step 20 Log ---
 
 == Filtered Candidates ==
-Token: ' In' (ID: 758), Prob: 0.3477
-Token: ' B' (ID: 425), Prob: 0.2695
-Token: ' He' (ID: 1260), Prob: 0.1279
-Token: ' His' (ID: 5301), Prob: 0.0135
-Token: ' The' (ID: 576), Prob: 0.0119
-Token: ' During' (ID: 11954), Prob: 0.0063
-Token: ' From' (ID: 5542), Prob: 0.0049
-Token: ' As' (ID: 1634), Prob: 0.0044
-Token: ' Between' (ID: 27133), Prob: 0.0044
-Token: ' Later' (ID: 24885), Prob: 0.0034
-Token: ' Also' (ID: 7281), Prob: 0.0030
-Token: ' After' (ID: 4636), Prob: 0.0027
-Token: ' Since' (ID: 8704), Prob: 0.0027
-Token: ' On' (ID: 1913), Prob: 0.0023
-Token: ' A' (ID: 362), Prob: 0.0021
-Token: ' At' (ID: 2411), Prob: 0.0021
-Token: ' This' (ID: 1096), Prob: 0.0018
-Token: ' For' (ID: 1752), Prob: 0.0016
-Token: 'In' (ID: 641), Prob: 0.0013
-Token: ' It' (ID: 1084), Prob: 0.0011
-Token: ' That' (ID: 2938), Prob: 0.0011
-Token: ' Around' (ID: 32816), Prob: 0.0011
-Token: 'B' (ID: 33), Prob: 0.0010
-Token: ' Following' (ID: 22713), Prob: 0.0010
-Token: ' These' (ID: 4220), Prob: 0.0009
-Token: ' Then' (ID: 5005), Prob: 0.0009
-Token: 'He' (ID: 1519), Prob: 0.0008
-Token: ' However' (ID: 4354), Prob: 0.0008
-Token: ' Other' (ID: 6944), Prob: 0.0007
-Token: ' According' (ID: 10548), Prob: 0.0007
-Token: ' By' (ID: 3216), Prob: 0.0005
-Token: ' Outside' (ID: 41151), Prob: 0.0005
-Token: ' Despite' (ID: 17715), Prob: 0.0005
-Token: '2' (ID: 17), Prob: 0.0004
-Token: ' There' (ID: 2619), Prob: 0.0004
-Token: ' While' (ID: 5976), Prob: 0.0004
-Token: ' Additionally' (ID: 22406), Prob: 0.0004
-Token: ' Throughout' (ID: 45882), Prob: 0.0003
-Token: '1' (ID: 16), Prob: 0.0003
-Token: ' in' (ID: 304), Prob: 0.0003
-Token: ' When' (ID: 3197), Prob: 0.0003
-Token: ' he' (ID: 566), Prob: 0.0002
-Token: ' With' (ID: 3085), Prob: 0.0002
-Token: ' Another' (ID: 13293), Prob: 0.0002
-Token: ' Furthermore' (ID: 23405), Prob: 0.0002
-Token: ' An' (ID: 1527), Prob: 0.0002
-Token: ' One' (ID: 3776), Prob: 0.0002
-Token: ' Over' (ID: 6065), Prob: 0.0002
-Token: ' Although' (ID: 10328), Prob: 0.0002
-Token: ' Through' (ID: 16904), Prob: 0.0002
-Token: ' Given' (ID: 16246), Prob: 0.0001
-Token: ' Prior' (ID: 31399), Prob: 0.0001
-Token: ' I' (ID: 358), Prob: 0.0001
-Token: ' And' (ID: 1597), Prob: 0.0001
-Token: ' Some' (ID: 4329), Prob: 0.0001
-Token: 'During' (ID: 16014), Prob: 0.0001
-Token: ' Meanwhile' (ID: 25894), Prob: 0.0001
-Token: ' Two' (ID: 9043), Prob: 0.0001
-Token: ' Before' (ID: 13235), Prob: 0.0001
-Token: ' Those' (ID: 12969), Prob: 0.0001
-Token: ' Overall' (ID: 27893), Prob: 0.0001
-Token: ' and' (ID: 323), Prob: 0.0001
-Token: ' Under' (ID: 9449), Prob: 0.0001
-Token: ' Based' (ID: 20205), Prob: 0.0001
+Token: ' bodies' (ID: 12866), Prob: 0.8750
+Token: ' body' (ID: 2487), Prob: 0.0923
+Token: ' muscles' (ID: 23648), Prob: 0.0085
+Token: ' h' (ID: 305), Prob: 0.0041
+Token: ' large' (ID: 3460), Prob: 0.0025
+Token: ' r' (ID: 435), Prob: 0.0022
+Token: ' u' (ID: 575), Prob: 0.0019
+Token: ' bones' (ID: 24854), Prob: 0.0019
+Token: ' fat' (ID: 8664), Prob: 0.0011
+Token: ' cells' (ID: 7761), Prob: 0.0008
+Token: ' skin' (ID: 6787), Prob: 0.0008
+Token: ' stomach' (ID: 22350), Prob: 0.0007
+Token: ' tissues' (ID: 38781), Prob: 0.0006
+Token: ' muscle' (ID: 15747), Prob: 0.0005
+Token: ' legs' (ID: 14201), Prob: 0.0003
+Token: ' urine' (ID: 39235), Prob: 0.0003
+Token: ' kidneys' (ID: 80860), Prob: 0.0003
+Token: ' skeletal' (ID: 68297), Prob: 0.0003
+Token: ' hides' (ID: 57604), Prob: 0.0002
+Token: ' bodily' (ID: 47031), Prob: 0.0002
+Token: ' digestive' (ID: 58971), Prob: 0.0001
+Token: ' feet' (ID: 7541), Prob: 0.0001
+Token: ' thick' (ID: 12045), Prob: 0.0001
+Token: ' bl' (ID: 1501), Prob: 0.0001
+Token: ' own' (ID: 1828), Prob: 0.0001
+Token: ' soft' (ID: 8413), Prob: 0.0001
+Token: ' bladder' (ID: 61464), Prob: 0.0001
+Token: ' long' (ID: 1293), Prob: 0.0001
+Token: ' liver' (ID: 25506), Prob: 0.0001
+Token: ' hind' (ID: 47319), Prob: 0.0001
+Token: ' muscular' (ID: 51092), Prob: 0.0001
+Token: ' sin' (ID: 7437), Prob: 0.0001
+Token: ' dry' (ID: 9058), Prob: 0.0001
+Token: ' belly' (ID: 35417), Prob: 0.0001
+Token: ' internal' (ID: 5306), Prob: 0.0001
+Token: ' fore' (ID: 2241), Prob: 0.0001
+Token: ' mouths' (ID: 64509), Prob: 0.0001
+Token: ' t' (ID: 259), Prob: 0.0001
+Token: ' lips' (ID: 22877), Prob: 0.0001
+Token: ' organs' (ID: 35753), Prob: 0.0001
+Token: ' skins' (ID: 49950), Prob: 0.0001
+Token: ' middle' (ID: 6149), Prob: 0.0001
+Token: ' adip' (ID: 29266), Prob: 0.0001
+Token: ' anatomy' (ID: 61590), Prob: 0.0001
+Token: ' bow' (ID: 15273), Prob: 0.0001
+Token: ' fatty' (ID: 38985), Prob: 0.0001
+Token: ' saliva' (ID: 84557), Prob: 0.0001
+Token: ' biology' (ID: 33358), Prob: 0.0000
+Token: ' tails' (ID: 63514), Prob: 0.0000
+Token: ' mus' (ID: 3091), Prob: 0.0000
+Token: ' limbs' (ID: 48595), Prob: 0.0000
+Token: ' g' (ID: 342), Prob: 0.0000
+Token: ' test' (ID: 1273), Prob: 0.0000
+Token: ' biological' (ID: 23275), Prob: 0.0000
+Token: ' abdomen' (ID: 63672), Prob: 0.0000
+Token: ' salt' (ID: 12021), Prob: 0.0000
+Token: ' mam' (ID: 32720), Prob: 0.0000
+Token: ' camel' (ID: 49152), Prob: 0.0000
+Token: ' tissue' (ID: 19847), Prob: 0.0000
+Token: ' fl' (ID: 1320), Prob: 0.0000
+Token: ' huge' (ID: 6765), Prob: 0.0000
+Token: ' hair' (ID: 6869), Prob: 0.0000
+Token: ' milk' (ID: 14074), Prob: 0.0000
+Token: ' membranes' (ID: 78248), Prob: 0.0000
+Token: ' clo' (ID: 5292), Prob: 0.0000
+Token: ' swollen' (ID: 75093), Prob: 0.0000
+Token: ' Bodies' (ID: 80346), Prob: 0.0000
+Token: ' big' (ID: 2409), Prob: 0.0000
+Token: ' flesh' (ID: 24955), Prob: 0.0000
+Token: ' vegetation' (ID: 53732), Prob: 0.0000
+Token: ' different' (ID: 2155), Prob: 0.0000
+Token: ' ex' (ID: 505), Prob: 0.0000
+Token: ' ar' (ID: 796), Prob: 0.0000
+Token: ' blood' (ID: 6543), Prob: 0.0000
+Token: ' hide' (ID: 10265), Prob: 0.0000
+Token: ' reservoir' (ID: 44412), Prob: 0.0000
+Token: ' grass' (ID: 16359), Prob: 0.0000
+Token: ' desert' (ID: 23603), Prob: 0.0000
+Token: ' abdom' (ID: 35984), Prob: 0.0000
+Token: ' intest' (ID: 38308), Prob: 0.0000
+Token: ' hips' (ID: 42423), Prob: 0.0000
+Token: ' anatom' (ID: 74793), Prob: 0.0000
+Token: ' inside' (ID: 4766), Prob: 0.0000
+Token: ' rum' (ID: 13995), Prob: 0.0000
+Token: ' qu' (ID: 922), Prob: 0.0000
+Token: ' pel' (ID: 11814), Prob: 0.0000
+Token: ' tears' (ID: 23139), Prob: 0.0000
+Token: ' dried' (ID: 31620), Prob: 0.0000
+Token: ' skeletons' (ID: 74307), Prob: 0.0000
 
 == Ranked Concepts (Clusters) ==
-Rank 1 | Centroid: ' in' | Score: 0.3496
-  Tokens: [' In', 'In', '2', '1', ' in', ' I', ' and']
-Rank 2 | Centroid: ' B' | Score: 0.2734
-  Tokens: [' B', ' A', 'B']
-Rank 3 | Centroid: ' He' | Score: 0.1426
-  Tokens: [' He', ' His', 'He', ' he']
-Rank 4 | Centroid: ' This' | Score: 0.0173
-  Tokens: [' The', ' This', ' It', ' That', ' These', ' There', ' Those']
-Rank 5 | Centroid: ' As' | Score: 0.0090
-  Tokens: [' As', ' On', ' At', ' An']
-Rank 6 | Centroid: ' For' | Score: 0.0074
-  Tokens: [' From', ' For', ' By', ' With', ' And']
-Rank 7 | Centroid: ' During' | Score: 0.0068
-  Tokens: [' During', ' Throughout', 'During']
-Rank 8 | Centroid: ' Between' | Score: 0.0056
-  Tokens: [' Between', ' Around', ' Through']
-Rank 9 | Centroid: ' Although' | Score: 0.0047
-  Tokens: [' Since', ' However', ' Despite', ' While', ' When', ' Although']
-Rank 10 | Centroid: ' Additionally' | Score: 0.0046
-  Tokens: [' Also', ' Then', ' Additionally', ' Furthermore', ' Meanwhile']
-Rank 11 | Centroid: ' Before' | Score: 0.0039
-  Tokens: [' After', ' Following', ' Prior', ' Before']
-Rank 12 | Centroid: ' Later' | Score: 0.0034
-  Tokens: [' Later']
-Rank 13 | Centroid: ' One' | Score: 0.0014
-  Tokens: [' Other', ' Another', ' One', ' Some', ' Two']
-Rank 14 | Centroid: ' According' | Score: 0.0009
-  Tokens: [' According', ' Given', ' Based']
-Rank 15 | Centroid: ' Over' | Score: 0.0009
-  Tokens: [' Outside', ' Over', ' Overall', ' Under']
+Rank 1 | Centroid: ' bodies' | Score: 0.9688
+  Tokens: [' bodies', ' body', ' bodily', ' Bodies']
+Rank 2 | Centroid: ' muscles' | Score: 0.0113
+  Tokens: [' muscles', ' bones', ' muscle', ' skeletal', ' muscular', ' mus']
+Rank 3 | Centroid: ' r' | Score: 0.0086
+  Tokens: [' h', ' r', ' u', ' bl', ' sin', ' t', ' g', ' test', ' fl', ' ex', ' ar', ' qu']
+Rank 4 | Centroid: ' large' | Score: 0.0027
+  Tokens: [' large', ' thick', ' long', ' huge', ' big']
+Rank 5 | Centroid: ' tissues' | Score: 0.0015
+  Tokens: [' cells', ' tissues', ' organs', ' tissue']
+Rank 6 | Centroid: ' fat' | Score: 0.0012
+  Tokens: [' fat', ' adip', ' fatty']
+Rank 7 | Centroid: ' abdomen' | Score: 0.0010
+  Tokens: [' stomach', ' digestive', ' belly', ' abdomen', ' abdom', ' intest']
+Rank 8 | Centroid: ' skin' | Score: 0.0009
+  Tokens: [' skin', ' skins', ' hair']
+Rank 9 | Centroid: ' legs' | Score: 0.0007
+  Tokens: [' legs', ' feet', ' mouths', ' lips', ' tails', ' limbs', ' hips']
+Rank 10 | Centroid: ' urine' | Score: 0.0005
+  Tokens: [' urine', ' bladder', ' saliva', ' tears']
+Rank 11 | Centroid: ' inside' | Score: 0.0004
+  Tokens: [' own', ' internal', ' fore', ' middle', ' different', ' inside']
+Rank 12 | Centroid: ' kidneys' | Score: 0.0003
+  Tokens: [' kidneys', ' membranes']
+Rank 13 | Centroid: ' hide' | Score: 0.0003
+  Tokens: [' hides', ' hind', ' hide']
+Rank 14 | Centroid: ' dried' | Score: 0.0002
+  Tokens: [' dry', ' salt', ' milk', ' grass', ' desert', ' dried']
+Rank 15 | Centroid: ' biology' | Score: 0.0002
+  Tokens: [' anatomy', ' biology', ' biological', ' anatom']
+Rank 16 | Centroid: ' liver' | Score: 0.0001
+  Tokens: [' liver', ' blood']
+Rank 17 | Centroid: ' soft' | Score: 0.0001
+  Tokens: [' soft']
+Rank 18 | Centroid: ' bow' | Score: 0.0001
+  Tokens: [' bow', ' pel']
+Rank 19 | Centroid: ' camel' | Score: 0.0001
+  Tokens: [' camel', ' clo']
+Rank 20 | Centroid: ' vegetation' | Score: 0.0001
+  Tokens: [' vegetation', ' reservoir']
+Rank 21 | Centroid: ' mam' | Score: 0.0000
+  Tokens: [' mam']
+Rank 22 | Centroid: ' swollen' | Score: 0.0000
+  Tokens: [' swollen']
+Rank 23 | Centroid: ' flesh' | Score: 0.0000
+  Tokens: [' flesh']
+Rank 24 | Centroid: ' rum' | Score: 0.0000
+  Tokens: [' rum']
+Rank 25 | Centroid: ' skeletons' | Score: 0.0000
+  Tokens: [' skeletons']
 
 **Chosen Concept:** Rank 1

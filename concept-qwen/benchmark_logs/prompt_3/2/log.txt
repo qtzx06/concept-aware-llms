@@ -1,107 +1,143 @@
 --- Step 2 Log ---
 
 == Filtered Candidates ==
-Token: ' the' (ID: 279), Prob: 0.0226
-Token: ' March' (ID: 5470), Prob: 0.0016
-Token: ' January' (ID: 6058), Prob: 0.0013
-Token: ' addition' (ID: 5256), Prob: 0.0011
-Token: ' April' (ID: 5813), Prob: 0.0011
-Token: ' May' (ID: 3217), Prob: 0.0009
-Token: ' July' (ID: 5768), Prob: 0.0009
-Token: ' November' (ID: 6702), Prob: 0.0009
-Token: ' June' (ID: 5534), Prob: 0.0008
-Token: ' October' (ID: 6527), Prob: 0.0008
-Token: ' February' (ID: 7400), Prob: 0.0007
-Token: ' August' (ID: 6156), Prob: 0.0006
-Token: ' September' (ID: 6122), Prob: 0.0005
-Token: ' a' (ID: 264), Prob: 0.0005
-Token: ' his' (ID: 806), Prob: 0.0005
-Token: ' December' (ID: 6652), Prob: 0.0004
-Token: ' late' (ID: 3309), Prob: 0.0003
-Token: ' early' (ID: 4124), Prob: 0.0003
-Token: ' that' (ID: 429), Prob: 0.0002
-Token: ' this' (ID: 419), Prob: 0.0001
-Token: '2' (ID: 17), Prob: 0.0001
-Token: ' an' (ID: 458), Prob: 0.0001
-Token: ' The' (ID: 576), Prob: 0.0001
-Token: ' later' (ID: 2937), Prob: 0.0001
-Token: ' recent' (ID: 3213), Prob: 0.0000
-Token: ' London' (ID: 7148), Prob: 0.0000
-Token: ' summer' (ID: 7324), Prob: 0.0000
-Token: ' which' (ID: 892), Prob: 0.0000
-Token: ' autumn' (ID: 41674), Prob: 0.0000
-Token: ' another' (ID: 2441), Prob: 0.0000
-Token: ' one' (ID: 825), Prob: 0.0000
-Token: ' mid' (ID: 5099), Prob: 0.0000
-Token: ' television' (ID: 12425), Prob: 0.0000
-Token: ' spring' (ID: 10464), Prob: 0.0000
+Token: 'els' (ID: 2010), Prob: 1.0000
+Token: 'el' (ID: 301), Prob: 0.0001
+Token: 'ouflage' (ID: 72231), Prob: 0.0001
+Token: 'er' (ID: 261), Prob: 0.0001
+Token: 'ell' (ID: 613), Prob: 0.0000
+Token: 'ellas' (ID: 74495), Prob: 0.0000
+Token: 'ely' (ID: 974), Prob: 0.0000
+Token: 'uses' (ID: 4776), Prob: 0.0000
+Token: 'ets' (ID: 1415), Prob: 0.0000
+Token: 'elines' (ID: 10999), Prob: 0.0000
+Token: 'bers' (ID: 1902), Prob: 0.0000
+Token: 'elles' (ID: 36807), Prob: 0.0000
+Token: 'als' (ID: 1127), Prob: 0.0000
+Token: 'oufl' (ID: 61740), Prob: 0.0000
+Token: 'per' (ID: 712), Prob: 0.0000
+Token: ' el' (ID: 655), Prob: 0.0000
+Token: 'ber' (ID: 652), Prob: 0.0000
+Token: 'es' (ID: 288), Prob: 0.0000
+Token: 'ers' (ID: 388), Prob: 0.0000
+Token: 'ails' (ID: 6209), Prob: 0.0000
+Token: 'eliness' (ID: 54698), Prob: 0.0000
+Token: 'nel' (ID: 8138), Prob: 0.0000
+Token: 'al' (ID: 278), Prob: 0.0000
+Token: 'ale' (ID: 1574), Prob: 0.0000
+Token: 'otes' (ID: 6295), Prob: 0.0000
+Token: 'ells' (ID: 6436), Prob: 0.0000
+Token: 'as' (ID: 300), Prob: 0.0000
+Token: 'mes' (ID: 8828), Prob: 0.0000
+Token: 'ens' (ID: 724), Prob: 0.0000
+Token: 'ons' (ID: 2382), Prob: 0.0000
+Token: 'leys' (ID: 47679), Prob: 0.0000
+Token: 'et' (ID: 295), Prob: 0.0000
+Token: 'am' (ID: 309), Prob: 0.0000
+Token: 'elp' (ID: 1267), Prob: 0.0000
+Token: 'blems' (ID: 21699), Prob: 0.0000
+Token: 'enas' (ID: 26945), Prob: 0.0000
+Token: 'elas' (ID: 39743), Prob: 0.0000
+Token: 'nels' (ID: 35427), Prob: 0.0000
+Token: 'eth' (ID: 769), Prob: 0.0000
+Token: 'ales' (ID: 3831), Prob: 0.0000
+Token: 'ises' (ID: 4909), Prob: 0.0000
+Token: 'és' (ID: 5397), Prob: 0.0000
+Token: 'emies' (ID: 11041), Prob: 0.0000
 Token: ' and' (ID: 323), Prob: 0.0000
-Token: ' more' (ID: 803), Prob: 0.0000
-Token: ' Spring' (ID: 12252), Prob: 0.0000
-Token: ' BBC' (ID: 18096), Prob: 0.0000
-Token: ' collaboration' (ID: 20031), Prob: 0.0000
-Token: ' what' (ID: 1128), Prob: 0.0000
-Token: ' England' (ID: 9448), Prob: 0.0000
-Token: ' order' (ID: 1973), Prob: 0.0000
-Token: ' British' (ID: 7855), Prob: 0.0000
-Token: ' fall' (ID: 4399), Prob: 0.0000
-Token: ' partnership' (ID: 15305), Prob: 0.0000
-Token: ' twenty' (ID: 17073), Prob: 0.0000
-Token: ' or' (ID: 476), Prob: 0.0000
-Token: ' both' (ID: 2176), Prob: 0.0000
-Token: ' subsequent' (ID: 17420), Prob: 0.0000
-Token: ' Summer' (ID: 18836), Prob: 0.0000
-Token: '1' (ID: 16), Prob: 0.0000
-Token: ' film' (ID: 4531), Prob: 0.0000
-Token: ' Season' (ID: 14263), Prob: 0.0000
-Token: ' Fall' (ID: 14785), Prob: 0.0000
-Token: ' its' (ID: 1181), Prob: 0.0000
-Token: ' terms' (ID: 3793), Prob: 0.0000
-Token: ' A' (ID: 362), Prob: 0.0000
-Token: ' some' (ID: 1045), Prob: 0.0000
-Token: ' two' (ID: 1378), Prob: 0.0000
-Token: ' between' (ID: 1948), Prob: 0.0000
-Token: ' contrast' (ID: 12872), Prob: 0.0000
-Token: ' Autumn' (ID: 59802), Prob: 0.0000
-Token: ' other' (ID: 1008), Prob: 0.0000
-Token: ' Jan' (ID: 4350), Prob: 0.0000
-Token: ' season' (ID: 3200), Prob: 0.0000
-Token: ' B' (ID: 425), Prob: 0.0000
-Token: ' In' (ID: 758), Prob: 0.0000
-Token: ' may' (ID: 1231), Prob: 0.0000
-Token: ' South' (ID: 4882), Prob: 0.0000
-Token: ' in' (ID: 304), Prob: 0.0000
-Token: ' these' (ID: 1493), Prob: 0.0000
-Token: ' around' (ID: 2163), Prob: 0.0000
-Token: ' total' (ID: 2790), Prob: 0.0000
-Token: ' summary' (ID: 12126), Prob: 0.0000
+Token: 'eli' (ID: 12294), Prob: 0.0000
+Token: 'us' (ID: 355), Prob: 0.0000
+Token: 'em' (ID: 336), Prob: 0.0000
+Token: 'uels' (ID: 60144), Prob: 0.0000
+Token: 'uls' (ID: 14295), Prob: 0.0000
+Token: 'ids' (ID: 3365), Prob: 0.0000
+Token: 'oes' (ID: 7072), Prob: 0.0000
+Token: 'ela' (ID: 8294), Prob: 0.0000
+Token: 'ils' (ID: 8669), Prob: 0.0000
+Token: 'ella' (ID: 6842), Prob: 0.0000
+Token: 'ELS' (ID: 97852), Prob: 0.0000
+Token: 'an' (ID: 276), Prob: 0.0000
+Token: 'um' (ID: 372), Prob: 0.0000
+Token: 'en' (ID: 268), Prob: 0.0000
+Token: ' El' (ID: 3984), Prob: 0.0000
+Token: 'le' (ID: 273), Prob: 0.0000
+Token: 'te' (ID: 665), Prob: 0.0000
+Token: 'ains' (ID: 1735), Prob: 0.0000
+Token: 'eld' (ID: 783), Prob: 0.0000
+Token: ' are' (ID: 525), Prob: 0.0000
+Token: 'ports' (ID: 3394), Prob: 0.0000
+Token: 'elm' (ID: 23162), Prob: 0.0000
+Token: 'ews' (ID: 27744), Prob: 0.0000
+Token: 'a' (ID: 64), Prob: 0.0000
+Token: 'mon' (ID: 1645), Prob: 0.0000
+Token: 'om' (ID: 316), Prob: 0.0000
+Token: 'users' (ID: 4218), Prob: 0.0000
+Token: 'mo' (ID: 6355), Prob: 0.0000
+Token: 'abs' (ID: 3435), Prob: 0.0000
+Token: 'eras' (ID: 9247), Prob: 0.0000
+Token: 'o' (ID: 78), Prob: 0.0000
+Token: 'erals' (ID: 17368), Prob: 0.0000
+Token: 'ley' (ID: 3179), Prob: 0.0000
+Token: 'etary' (ID: 15859), Prob: 0.0000
+Token: ' palms' (ID: 74718), Prob: 0.0000
+Token: 'umm' (ID: 25964), Prob: 0.0000
+Token: ' users' (ID: 3847), Prob: 0.0000
+Token: 'eltas' (ID: 71906), Prob: 0.0000
+Token: 'i' (ID: 72), Prob: 0.0000
+Token: ' too' (ID: 2238), Prob: 0.0000
+Token: 'embers' (ID: 7062), Prob: 0.0000
+Token: 'u' (ID: 84), Prob: 0.0000
+Token: ' had' (ID: 1030), Prob: 0.0000
+Token: ' els' (ID: 20712), Prob: 0.0000
+Token: 'mel' (ID: 27127), Prob: 0.0000
+Token: ' members' (ID: 3613), Prob: 0.0000
+Token: 'ements' (ID: 3723), Prob: 0.0000
+Token: 'aro' (ID: 17165), Prob: 0.0000
 
 == Ranked Concepts (Clusters) ==
-Rank 1 | Centroid: ' the' | Score: 0.0240
-  Tokens: [' the', ' a', ' his', ' that', ' this', ' an', ' which', ' another', ' one', ' more', ' what', ' both', ' its', ' some', ' two', ' other', ' these']
-Rank 2 | Centroid: ' February' | Score: 0.0104
-  Tokens: [' March', ' January', ' April', ' May', ' July', ' November', ' June', ' October', ' February', ' August', ' September', ' December', ' Jan']
-Rank 3 | Centroid: ' addition' | Score: 0.0012
-  Tokens: [' addition', ' order', ' terms', ' between', ' contrast', ' around', ' total', ' summary']
-Rank 4 | Centroid: ' late' | Score: 0.0007
-  Tokens: [' late', ' early', ' mid']
-Rank 5 | Centroid: ' autumn' | Score: 0.0001
-  Tokens: [' summer', ' autumn', ' spring', ' Spring', ' Summer', ' Autumn']
-Rank 6 | Centroid: ' British' | Score: 0.0001
-  Tokens: [' London', ' television', ' BBC', ' England', ' British', ' film', ' South']
-Rank 7 | Centroid: ' subsequent' | Score: 0.0001
-  Tokens: [' later', ' recent', ' subsequent']
-Rank 8 | Centroid: ' collaboration' | Score: 0.0000
-  Tokens: [' collaboration', ' partnership']
-Rank 9 | Centroid: ' in' | Score: 0.0000
-  Tokens: ['2', ' The', ' and', ' or', '1', ' A', ' B', ' In', ' in']
-Rank 10 | Centroid: ' fall' | Score: 0.0000
-  Tokens: [' fall', ' Fall']
-Rank 11 | Centroid: ' Season' | Score: 0.0000
-  Tokens: [' Season', ' season']
-Rank 12 | Centroid: ' twenty' | Score: 0.0000
-  Tokens: [' twenty']
-Rank 13 | Centroid: ' may' | Score: 0.0000
-  Tokens: [' may']
+Rank 1 | Centroid: ' El' | Score: 1.0000
+  Tokens: ['els', 'el', ' el', 'elp', 'eli', 'ELS', ' El', 'eld', 'elm', ' els']
+Rank 2 | Centroid: 'ouflage' | Score: 0.0001
+  Tokens: ['ouflage', 'oufl', 'otes', 'blems', 'emies']
+Rank 3 | Centroid: 'ella' | Score: 0.0001
+  Tokens: ['ell', 'ellas', 'elles', 'ells', 'elas', 'ela', 'ella']
+Rank 4 | Centroid: 'er' | Score: 0.0001
+  Tokens: ['er', 'ers']
+Rank 5 | Centroid: 'eliness' | Score: 0.0000
+  Tokens: ['ely', 'elines', 'eliness', 'eltas']
+Rank 6 | Centroid: 'ids' | Score: 0.0000
+  Tokens: ['uses', 'ises', 'uls', 'ids', 'ils']
+Rank 7 | Centroid: 'et' | Score: 0.0000
+  Tokens: ['ets', 'et', 'eth', 'em']
+Rank 8 | Centroid: 'ber' | Score: 0.0000
+  Tokens: ['bers', 'per', 'ber']
+Rank 9 | Centroid: 'ale' | Score: 0.0000
+  Tokens: ['als', 'al', 'ale', 'ales']
+Rank 10 | Centroid: ' and' | Score: 0.0000
+  Tokens: ['as', 'am', ' and', 'us', 'an', 'um', 'en', ' are', 'a', 'om', 'o', 'i', 'u']
+Rank 11 | Centroid: 'es' | Score: 0.0000
+  Tokens: ['es', 'ens']
+Rank 12 | Centroid: 'uels' | Score: 0.0000
+  Tokens: ['ails', 'uels', ' palms']
+Rank 13 | Centroid: 'nel' | Score: 0.0000
+  Tokens: ['nel', 'nels']
+Rank 14 | Centroid: 'mo' | Score: 0.0000
+  Tokens: ['mes', 'te', 'mon', 'mo', 'mel']
+Rank 15 | Centroid: 'oes' | Score: 0.0000
+  Tokens: ['ons', 'oes', 'ains']
+Rank 16 | Centroid: 'és' | Score: 0.0000
+  Tokens: ['és', 'ports', 'ews', 'embers', 'ements']
+Rank 17 | Centroid: 'leys' | Score: 0.0000
+  Tokens: ['leys', 'ley']
+Rank 18 | Centroid: ' users' | Score: 0.0000
+  Tokens: ['users', 'abs', ' users', ' too', ' had', ' members']
+Rank 19 | Centroid: 'enas' | Score: 0.0000
+  Tokens: ['enas', 'aro']
+Rank 20 | Centroid: 'eras' | Score: 0.0000
+  Tokens: ['eras', 'erals']
+Rank 21 | Centroid: 'etary' | Score: 0.0000
+  Tokens: ['etary', 'umm']
+Rank 22 | Centroid: 'le' | Score: 0.0000
+  Tokens: ['le']
 
 **Chosen Concept:** Rank 1

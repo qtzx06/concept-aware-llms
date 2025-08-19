@@ -1,105 +1,101 @@
 --- Step 1 Log ---
 
 == Filtered Candidates ==
-Token: ' B' (ID: 425), Prob: 0.3789
-Token: ' In' (ID: 758), Prob: 0.2295
-Token: ' He' (ID: 1260), Prob: 0.2031
-Token: ' Also' (ID: 7281), Prob: 0.0069
-Token: ' His' (ID: 5301), Prob: 0.0054
-Token: ' The' (ID: 576), Prob: 0.0037
-Token: ' As' (ID: 1634), Prob: 0.0033
-Token: ' On' (ID: 1913), Prob: 0.0023
-Token: ' During' (ID: 11954), Prob: 0.0020
-Token: ' Additionally' (ID: 22406), Prob: 0.0015
-Token: ' Between' (ID: 27133), Prob: 0.0014
-Token: 'B' (ID: 33), Prob: 0.0012
-Token: ' A' (ID: 362), Prob: 0.0012
-Token: 'He' (ID: 1519), Prob: 0.0012
-Token: ' Then' (ID: 5005), Prob: 0.0012
-Token: ' For' (ID: 1752), Prob: 0.0011
-Token: ' After' (ID: 4636), Prob: 0.0011
-Token: ' From' (ID: 5542), Prob: 0.0011
-Token: ' Other' (ID: 6944), Prob: 0.0009
-Token: 'In' (ID: 641), Prob: 0.0008
-Token: ' At' (ID: 2411), Prob: 0.0006
-Token: ' These' (ID: 4220), Prob: 0.0006
-Token: ' Later' (ID: 24885), Prob: 0.0006
-Token: ' Since' (ID: 8704), Prob: 0.0006
-Token: ' According' (ID: 10548), Prob: 0.0006
-Token: ' Outside' (ID: 41151), Prob: 0.0006
-Token: ' This' (ID: 1096), Prob: 0.0005
-Token: ' It' (ID: 1084), Prob: 0.0004
-Token: ' Following' (ID: 22713), Prob: 0.0004
-Token: '2' (ID: 17), Prob: 0.0004
-Token: ' There' (ID: 2619), Prob: 0.0003
-Token: ' However' (ID: 4354), Prob: 0.0003
-Token: ' While' (ID: 5976), Prob: 0.0003
-Token: ' he' (ID: 566), Prob: 0.0002
-Token: ' That' (ID: 2938), Prob: 0.0002
-Token: ' By' (ID: 3216), Prob: 0.0002
-Token: ' Despite' (ID: 17715), Prob: 0.0002
-Token: ' And' (ID: 1597), Prob: 0.0002
-Token: ' Furthermore' (ID: 23405), Prob: 0.0002
-Token: ' Around' (ID: 32816), Prob: 0.0002
-Token: ' in' (ID: 304), Prob: 0.0002
-Token: ' Through' (ID: 16904), Prob: 0.0002
-Token: ' Prior' (ID: 31399), Prob: 0.0002
-Token: ' When' (ID: 3197), Prob: 0.0002
-Token: ' What' (ID: 3555), Prob: 0.0001
-Token: ' Two' (ID: 9043), Prob: 0.0001
-Token: ' Before' (ID: 13235), Prob: 0.0001
-Token: ' With' (ID: 3085), Prob: 0.0001
-Token: ' W' (ID: 467), Prob: 0.0001
-Token: ' One' (ID: 3776), Prob: 0.0001
-Token: ' Another' (ID: 13293), Prob: 0.0001
-Token: ' Given' (ID: 16246), Prob: 0.0001
-Token: ' Finally' (ID: 17375), Prob: 0.0001
-Token: ' Based' (ID: 20205), Prob: 0.0001
-Token: ' Answer' (ID: 21806), Prob: 0.0001
-Token: ' I' (ID: 358), Prob: 0.0001
-Token: ' Guest' (ID: 26215), Prob: 0.0001
-Token: ' An' (ID: 1527), Prob: 0.0001
-Token: ' http' (ID: 1758), Prob: 0.0001
-Token: ' D' (ID: 422), Prob: 0.0001
-Token: ' January' (ID: 6058), Prob: 0.0001
-Token: ' Meanwhile' (ID: 25894), Prob: 0.0001
-Token: ' Appe' (ID: 28054), Prob: 0.0001
-Token: ' Earlier' (ID: 46893), Prob: 0.0001
-Token: ' So' (ID: 2055), Prob: 0.0001
-Token: ' Over' (ID: 6065), Prob: 0.0001
-Token: ' Although' (ID: 10328), Prob: 0.0001
-Token: ' Throughout' (ID: 45882), Prob: 0.0001
+Token: ' The' (ID: 576), Prob: 0.3438
+Token: ' A' (ID: 362), Prob: 0.0674
+Token: ' This' (ID: 1096), Prob: 0.0361
+Token: ' What' (ID: 3555), Prob: 0.0282
+Token: ' the' (ID: 279), Prob: 0.0142
+Token: ' Which' (ID: 15920), Prob: 0.0125
+Token: ' a' (ID: 264), Prob: 0.0117
+Token: ' I' (ID: 358), Prob: 0.0104
+Token: ' Based' (ID: 20205), Prob: 0.0104
+Token: ' To' (ID: 2014), Prob: 0.0092
+Token: ' Yes' (ID: 7414), Prob: 0.0092
+Token: ' Is' (ID: 2160), Prob: 0.0086
+Token: ' In' (ID: 758), Prob: 0.0081
+Token: ' Why' (ID: 8429), Prob: 0.0071
+Token: ' Please' (ID: 5209), Prob: 0.0067
+Token: ' Explain' (ID: 81917), Prob: 0.0059
+Token: ' If' (ID: 1416), Prob: 0.0049
+Token: ' How' (ID: 2585), Prob: 0.0043
+Token: ' It' (ID: 1084), Prob: 0.0036
+Token: ' That' (ID: 2938), Prob: 0.0034
+Token: ' Do' (ID: 3155), Prob: 0.0032
+Token: ' For' (ID: 1752), Prob: 0.0030
+Token: ' Are' (ID: 8713), Prob: 0.0030
+Token: ' Does' (ID: 12553), Prob: 0.0030
+Token: ' You' (ID: 1446), Prob: 0.0028
+Token: ' Choose' (ID: 22201), Prob: 0.0028
+Token: ' Your' (ID: 4615), Prob: 0.0026
+Token: ' No' (ID: 2308), Prob: 0.0025
+Token: ' Did' (ID: 14568), Prob: 0.0025
+Token: ' Use' (ID: 5443), Prob: 0.0023
+Token: ' Because' (ID: 9211), Prob: 0.0019
+Token: ' When' (ID: 3197), Prob: 0.0018
+Token: ' There' (ID: 2619), Prob: 0.0015
+Token: ' what' (ID: 1128), Prob: 0.0014
+Token: ' As' (ID: 1634), Prob: 0.0014
+Token: ' So' (ID: 2055), Prob: 0.0012
+Token: ' One' (ID: 3776), Prob: 0.0012
+Token: ' is' (ID: 374), Prob: 0.0012
+Token: ' None' (ID: 2240), Prob: 0.0012
+Token: ' False' (ID: 3557), Prob: 0.0012
+Token: ' Check' (ID: 4248), Prob: 0.0012
+Token: ' Let' (ID: 6771), Prob: 0.0012
+Token: ' Draw' (ID: 11992), Prob: 0.0012
+Token: ' Make' (ID: 7405), Prob: 0.0010
+Token: ' Should' (ID: 12260), Prob: 0.0010
+Token: ' C' (ID: 356), Prob: 0.0010
+Token: ' They' (ID: 2379), Prob: 0.0010
+Token: ' True' (ID: 3007), Prob: 0.0010
+Token: ' Q' (ID: 1207), Prob: 0.0009
+Token: ' On' (ID: 1913), Prob: 0.0009
+Token: ' Since' (ID: 8704), Prob: 0.0009
+Token: ' After' (ID: 4636), Prob: 0.0009
+Token: ' Response' (ID: 5949), Prob: 0.0008
+Token: ' this' (ID: 419), Prob: 0.0007
+Token: ' Keep' (ID: 13655), Prob: 0.0007
+Token: ' These' (ID: 4220), Prob: 0.0007
+Token: ' Only' (ID: 8278), Prob: 0.0007
+Token: ' Answer' (ID: 21806), Prob: 0.0007
+Token: ' Provide' (ID: 39565), Prob: 0.0007
+Token: ' All' (ID: 2009), Prob: 0.0006
+Token: ' Can' (ID: 2980), Prob: 0.0006
+Token: ' Well' (ID: 8325), Prob: 0.0006
+Token: ' An' (ID: 1527), Prob: 0.0005
+Token: ' But' (ID: 1988), Prob: 0.0005
 
 == Ranked Concepts (Clusters) ==
-Rank 1 | Centroid: ' B' | Score: 0.3828
-  Tokens: [' B', 'B', ' A', '2', ' W', ' I', ' D']
-Rank 2 | Centroid: 'In' | Score: 0.2305
-  Tokens: [' In', 'In', ' in']
-Rank 3 | Centroid: ' He' | Score: 0.2100
-  Tokens: [' He', ' His', 'He', ' he']
-Rank 4 | Centroid: ' Additionally' | Score: 0.0101
-  Tokens: [' Also', ' Additionally', ' Then', ' Furthermore', ' Finally', ' Meanwhile']
-Rank 5 | Centroid: ' For' | Score: 0.0087
-  Tokens: [' As', ' On', ' For', ' From', ' At', ' By', ' With']
-Rank 6 | Centroid: ' This' | Score: 0.0060
-  Tokens: [' The', ' These', ' This', ' It', ' There', ' That', ' What']
-Rank 7 | Centroid: ' During' | Score: 0.0038
-  Tokens: [' During', ' After', ' Following', ' Before', ' Based', ' Throughout']
-Rank 8 | Centroid: ' Through' | Score: 0.0024
-  Tokens: [' Between', ' Outside', ' Around', ' Through', ' Over']
-Rank 9 | Centroid: ' Although' | Score: 0.0023
-  Tokens: [' Since', ' According', ' However', ' While', ' Despite', ' When', ' Given', ' Although']
-Rank 10 | Centroid: ' One' | Score: 0.0013
-  Tokens: [' Other', ' Two', ' One', ' Another']
-Rank 11 | Centroid: ' Earlier' | Score: 0.0009
-  Tokens: [' Later', ' Prior', ' Earlier']
-Rank 12 | Centroid: ' And' | Score: 0.0003
-  Tokens: [' And', ' So']
-Rank 13 | Centroid: ' January' | Score: 0.0003
-  Tokens: [' Guest', ' http', ' January']
-Rank 14 | Centroid: ' Answer' | Score: 0.0002
-  Tokens: [' Answer', ' Appe']
-Rank 15 | Centroid: ' An' | Score: 0.0001
-  Tokens: [' An']
+Rank 1 | Centroid: ' This' | Score: 0.3906
+  Tokens: [' The', ' This', ' It', ' That', ' There', ' They', ' These']
+Rank 2 | Centroid: ' A' | Score: 0.0796
+  Tokens: [' A', ' I', ' C', ' Q']
+Rank 3 | Centroid: ' What' | Score: 0.0535
+  Tokens: [' What', ' Which', ' Why', ' How', ' what']
+Rank 4 | Centroid: ' the' | Score: 0.0277
+  Tokens: [' the', ' a', ' is', ' this']
+Rank 5 | Centroid: ' If' | Score: 0.0237
+  Tokens: [' To', ' If', ' For', ' Because', ' When', ' Let', ' Since', ' After']
+Rank 6 | Centroid: ' Make' | Score: 0.0223
+  Tokens: [' Please', ' Explain', ' Choose', ' Use', ' Check', ' Draw', ' Make', ' Keep', ' Provide']
+Rank 7 | Centroid: ' Does' | Score: 0.0217
+  Tokens: [' Is', ' Do', ' Are', ' Does', ' Did', ' Should', ' Can']
+Rank 8 | Centroid: ' Yes' | Score: 0.0116
+  Tokens: [' Yes', ' No']
+Rank 9 | Centroid: ' Based' | Score: 0.0110
+  Tokens: [' Based', ' Only']
+Rank 10 | Centroid: ' In' | Score: 0.0109
+  Tokens: [' In', ' As', ' On', ' An']
+Rank 11 | Centroid: ' You' | Score: 0.0054
+  Tokens: [' You', ' Your']
+Rank 12 | Centroid: ' False' | Score: 0.0033
+  Tokens: [' None', ' False', ' True']
+Rank 13 | Centroid: ' But' | Score: 0.0024
+  Tokens: [' So', ' Well', ' But']
+Rank 14 | Centroid: ' One' | Score: 0.0019
+  Tokens: [' One', ' All']
+Rank 15 | Centroid: ' Response' | Score: 0.0014
+  Tokens: [' Response', ' Answer']
 
 **Chosen Concept:** Rank 1

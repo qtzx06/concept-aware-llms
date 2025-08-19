@@ -1,0 +1,139 @@
+--- Step 34 Log ---
+
+== Filtered Candidates ==
+Token: ' iconic' (ID: 26277), Prob: 0.9805
+Token: ' popular' (ID: 5411), Prob: 0.0096
+Token: ' famous' (ID: 11245), Prob: 0.0028
+Token: ' well' (ID: 1632), Prob: 0.0004
+Token: ' icon' (ID: 4603), Prob: 0.0004
+Token: ' Icon' (ID: 11226), Prob: 0.0004
+Token: ' important' (ID: 2989), Prob: 0.0003
+Token: '-icon' (ID: 7815), Prob: 0.0003
+Token: ' successful' (ID: 6849), Prob: 0.0003
+Token: ' celebrated' (ID: 27185), Prob: 0.0002
+Token: ' acclaimed' (ID: 48982), Prob: 0.0002
+Token: ' prominent' (ID: 20469), Prob: 0.0002
+Token: ' enduring' (ID: 51776), Prob: 0.0001
+Token: ' prestigious' (ID: 40285), Prob: 0.0001
+Token: ' historic' (ID: 18035), Prob: 0.0001
+Token: ' notable' (ID: 27190), Prob: 0.0001
+Token: ' renowned' (ID: 35948), Prob: 0.0001
+Token: ' recognized' (ID: 14975), Prob: 0.0001
+Token: ' influential' (ID: 31449), Prob: 0.0001
+Token: ' exciting' (ID: 13245), Prob: 0.0001
+Token: ' famed' (ID: 60303), Prob: 0.0001
+Token: ' recognizable' (ID: 65252), Prob: 0.0001
+Token: ' significant' (ID: 5089), Prob: 0.0001
+Token: ' lasting' (ID: 28769), Prob: 0.0000
+Token: ' known' (ID: 3881), Prob: 0.0000
+Token: ' legendary' (ID: 27712), Prob: 0.0000
+Token: ' beautiful' (ID: 6233), Prob: 0.0000
+Token: ' classic' (ID: 11416), Prob: 0.0000
+Token: ' common' (ID: 4185), Prob: 0.0000
+Token: ' exclusive' (ID: 13761), Prob: 0.0000
+Token: ' scenic' (ID: 60981), Prob: 0.0000
+Token: ' infamous' (ID: 38533), Prob: 0.0000
+Token: ' recent' (ID: 3213), Prob: 0.0000
+Token: ' international' (ID: 6489), Prob: 0.0000
+Token: ' respected' (ID: 30287), Prob: 0.0000
+Token: ' expensive' (ID: 11392), Prob: 0.0000
+Token: ' global' (ID: 3644), Prob: 0.0000
+Token: ' epic' (ID: 24679), Prob: 0.0000
+Token: ' powerful' (ID: 7988), Prob: 0.0000
+Token: ' inspiring' (ID: 33047), Prob: 0.0000
+Token: ' interesting' (ID: 7040), Prob: 0.0000
+Token: ' noted' (ID: 10342), Prob: 0.0000
+Token: ' memorable' (ID: 32496), Prob: 0.0000
+Token: ' beloved' (ID: 27430), Prob: 0.0000
+Token: ' visited' (ID: 11994), Prob: 0.0000
+Token: ' icons' (ID: 23765), Prob: 0.0000
+Token: '-f' (ID: 2220), Prob: 0.0000
+Token: ' internationally' (ID: 36445), Prob: 0.0000
+Token: ' unique' (ID: 4911), Prob: 0.0000
+Token: ' amazing' (ID: 7897), Prob: 0.0000
+Token: ' ongoing' (ID: 14195), Prob: 0.0000
+Token: ' modern' (ID: 6481), Prob: 0.0000
+Token: ' relevant' (ID: 9760), Prob: 0.0000
+Token: ' anticipated' (ID: 29099), Prob: 0.0000
+Token: ' colorful' (ID: 33866), Prob: 0.0000
+Token: ' widely' (ID: 13570), Prob: 0.0000
+Token: ' upcoming' (ID: 14487), Prob: 0.0000
+Token: ' viewed' (ID: 19334), Prob: 0.0000
+Token: ' vibrant' (ID: 32976), Prob: 0.0000
+Token: ' ironic' (ID: 58460), Prob: 0.0000
+Token: ' loved' (ID: 10245), Prob: 0.0000
+Token: ' stor' (ID: 33689), Prob: 0.0000
+Token: ' unforgettable' (ID: 59998), Prob: 0.0000
+Token: ' innovative' (ID: 18199), Prob: 0.0000
+Token: ' controversial' (ID: 20129), Prob: 0.0000
+Token: ' inspirational' (ID: 56214), Prob: 0.0000
+Token: ' visible' (ID: 9434), Prob: 0.0000
+Token: ' enjoyable' (ID: 31080), Prob: 0.0000
+Token: ' revered' (ID: 84661), Prob: 0.0000
+Token: ' traditional' (ID: 8606), Prob: 0.0000
+Token: ' commonly' (ID: 16626), Prob: 0.0000
+Token: ' impactful' (ID: 97890), Prob: 0.0000
+Token: ' impressive' (ID: 15978), Prob: 0.0000
+Token: '-ind' (ID: 17776), Prob: 0.0000
+Token: ' globally' (ID: 30450), Prob: 0.0000
+Token: ' sacred' (ID: 31342), Prob: 0.0000
+Token: ' talked' (ID: 14897), Prob: 0.0000
+Token: ' cited' (ID: 21870), Prob: 0.0000
+Token: ' admired' (ID: 63647), Prob: 0.0000
+Token: ' long' (ID: 1293), Prob: 0.0000
+Token: 'Icon' (ID: 4395), Prob: 0.0000
+Token: ' mentioned' (ID: 9733), Prob: 0.0000
+Token: '-lasting' (ID: 64165), Prob: 0.0000
+Token: ' liked' (ID: 14915), Prob: 0.0000
+Token: ' outstanding' (ID: 18781), Prob: 0.0000
+Token: ' traveled' (ID: 30696), Prob: 0.0000
+
+== Ranked Concepts (Clusters) ==
+Rank 1 | Centroid: ' famous' | Score: 0.9844
+  Tokens: [' iconic', ' famous', ' renowned', ' famed', ' legendary', ' infamous']
+Rank 2 | Centroid: ' commonly' | Score: 0.0097
+  Tokens: [' popular', ' common', ' widely', ' commonly']
+Rank 3 | Centroid: 'Icon' | Score: 0.0010
+  Tokens: [' icon', ' Icon', '-icon', ' icons', '-ind', 'Icon']
+Rank 4 | Centroid: ' notable' | Score: 0.0007
+  Tokens: [' important', ' prominent', ' notable', ' significant', ' powerful', ' relevant']
+Rank 5 | Centroid: ' acclaimed' | Score: 0.0005
+  Tokens: [' celebrated', ' acclaimed', ' prestigious']
+Rank 6 | Centroid: ' well' | Score: 0.0004
+  Tokens: [' well']
+Rank 7 | Centroid: ' successful' | Score: 0.0003
+  Tokens: [' successful', ' outstanding']
+Rank 8 | Centroid: ' impressive' | Score: 0.0002
+  Tokens: [' exciting', ' beautiful', ' expensive', ' inspiring', ' interesting', ' amazing', ' colorful', ' vibrant', ' innovative', ' inspirational', ' enjoyable', ' impressive']
+Rank 9 | Centroid: ' lasting' | Score: 0.0002
+  Tokens: [' enduring', ' lasting', '-lasting']
+Rank 10 | Centroid: ' historic' | Score: 0.0002
+  Tokens: [' historic', ' scenic', ' epic', ' ironic']
+Rank 11 | Centroid: ' recognized' | Score: 0.0002
+  Tokens: [' recognized', ' recognizable']
+Rank 12 | Centroid: ' influential' | Score: 0.0001
+  Tokens: [' influential', ' controversial', ' impactful']
+Rank 13 | Centroid: ' globally' | Score: 0.0001
+  Tokens: [' international', ' global', ' internationally', ' globally']
+Rank 14 | Centroid: ' revered' | Score: 0.0001
+  Tokens: [' respected', ' beloved', ' loved', ' revered', ' admired', ' liked']
+Rank 15 | Centroid: ' traditional' | Score: 0.0001
+  Tokens: [' classic', ' modern', ' traditional']
+Rank 16 | Centroid: ' unique' | Score: 0.0000
+  Tokens: [' exclusive', ' unique', ' visible']
+Rank 17 | Centroid: ' known' | Score: 0.0000
+  Tokens: [' known']
+Rank 18 | Centroid: ' upcoming' | Score: 0.0000
+  Tokens: [' recent', ' upcoming', ' stor']
+Rank 19 | Centroid: ' mentioned' | Score: 0.0000
+  Tokens: [' noted', ' anticipated', ' talked', ' cited', ' mentioned']
+Rank 20 | Centroid: ' ongoing' | Score: 0.0000
+  Tokens: ['-f', ' ongoing', ' long']
+Rank 21 | Centroid: ' visited' | Score: 0.0000
+  Tokens: [' visited', ' viewed', ' traveled']
+Rank 22 | Centroid: ' memorable' | Score: 0.0000
+  Tokens: [' memorable', ' unforgettable']
+Rank 23 | Centroid: ' sacred' | Score: 0.0000
+  Tokens: [' sacred']
+
+**Chosen Concept:** Rank 1

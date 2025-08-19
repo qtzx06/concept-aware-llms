@@ -1,143 +1,142 @@
 --- Step 7 Log ---
 
 == Filtered Candidates ==
-Token: ' television' (ID: 12425), Prob: 0.1533
-Token: ' BBC' (ID: 18096), Prob: 0.1357
-Token: ' series' (ID: 4013), Prob: 0.0820
-Token: ' film' (ID: 4531), Prob: 0.0728
-Token: ' TV' (ID: 5883), Prob: 0.0640
-Token: ' British' (ID: 7855), Prob: 0.0640
-Token: ' UK' (ID: 6424), Prob: 0.0342
-Token: ' drama' (ID: 19584), Prob: 0.0236
-Token: ' plays' (ID: 11088), Prob: 0.0208
-Token: ' play' (ID: 1486), Prob: 0.0183
-Token: ' following' (ID: 2701), Prob: 0.0183
-Token: ' films' (ID: 12351), Prob: 0.0183
-Token: ' West' (ID: 4312), Prob: 0.0126
-Token: ' stage' (ID: 6430), Prob: 0.0111
-Token: ' ITV' (ID: 93355), Prob: 0.0087
-Token: ' dramas' (ID: 87726), Prob: 0.0077
-Token: ' comedy' (ID: 22358), Prob: 0.0060
-Token: ' sitcom' (ID: 80366), Prob: 0.0060
-Token: ' min' (ID: 1308), Prob: 0.0052
-Token: ' soap' (ID: 26785), Prob: 0.0046
-Token: ' role' (ID: 3476), Prob: 0.0041
-Token: ' web' (ID: 3482), Prob: 0.0041
-Token: ' hit' (ID: 4201), Prob: 0.0041
-Token: ' radio' (ID: 8887), Prob: 0.0036
-Token: ' theatre' (ID: 33496), Prob: 0.0036
-Token: ' short' (ID: 2805), Prob: 0.0032
-Token: ' London' (ID: 7148), Prob: 0.0032
-Token: ' Australian' (ID: 13369), Prob: 0.0028
-Token: ' musical' (ID: 17795), Prob: 0.0022
-Token: ' acclaimed' (ID: 48982), Prob: 0.0022
-Token: ' Royal' (ID: 16194), Prob: 0.0017
-Token: ' show' (ID: 1473), Prob: 0.0013
-Token: ' National' (ID: 5055), Prob: 0.0013
-Token: ' movie' (ID: 5700), Prob: 0.0013
-Token: ' East' (ID: 6326), Prob: 0.0013
-Token: ' popular' (ID: 5411), Prob: 0.0012
-Token: ' medical' (ID: 6457), Prob: 0.0010
-Token: ' science' (ID: 8038), Prob: 0.0010
-Token: ' Channel' (ID: 13434), Prob: 0.0010
-Token: ' Broadway' (ID: 36676), Prob: 0.0010
-Token: ' long' (ID: 1293), Prob: 0.0009
-Token: ' United' (ID: 3639), Prob: 0.0008
-Token: ' Play' (ID: 7054), Prob: 0.0008
-Token: ' The' (ID: 576), Prob: 0.0007
-Token: ' English' (ID: 6364), Prob: 0.0006
-Token: ' leading' (ID: 6388), Prob: 0.0006
-Token: ' crime' (ID: 9778), Prob: 0.0006
-Token: ' award' (ID: 10084), Prob: 0.0006
-Token: ' critically' (ID: 40340), Prob: 0.0006
-Token: ' first' (ID: 1156), Prob: 0.0006
-Token: ' international' (ID: 6489), Prob: 0.0005
-Token: ' successful' (ID: 6849), Prob: 0.0005
-Token: ' HBO' (ID: 42878), Prob: 0.0005
-Token: ' Western' (ID: 10867), Prob: 0.0005
-Token: ' third' (ID: 4843), Prob: 0.0004
-Token: ' ABC' (ID: 19360), Prob: 0.0004
-Token: ' cast' (ID: 6311), Prob: 0.0004
-Token: ' new' (ID: 501), Prob: 0.0004
-Token: ' New' (ID: 1532), Prob: 0.0004
-Token: ' major' (ID: 3598), Prob: 0.0004
-Token: ' second' (ID: 2086), Prob: 0.0004
-Token: ' small' (ID: 2613), Prob: 0.0004
-Token: ' lead' (ID: 2990), Prob: 0.0004
-Token: ' commercial' (ID: 8353), Prob: 0.0003
-Token: ' movies' (ID: 9508), Prob: 0.0003
-Token: ' American' (ID: 3693), Prob: 0.0003
-Token: ' shows' (ID: 4933), Prob: 0.0003
-Token: ' productions' (ID: 53148), Prob: 0.0003
-Token: ' police' (ID: 4282), Prob: 0.0003
-Token: ' national' (ID: 5313), Prob: 0.0003
-Token: ' programme' (ID: 18136), Prob: 0.0003
-Token: ' title' (ID: 2265), Prob: 0.0003
-Token: ' US' (ID: 2274), Prob: 0.0003
-Token: ' independent' (ID: 9489), Prob: 0.0003
-Token: ' western' (ID: 18494), Prob: 0.0003
-Token: ' main' (ID: 1887), Prob: 0.0003
-Token: ' feature' (ID: 4565), Prob: 0.0003
-Token: ' James' (ID: 7801), Prob: 0.0003
-Token: ' supporting' (ID: 12613), Prob: 0.0003
-Token: ' roles' (ID: 12783), Prob: 0.0003
-Token: ' BA' (ID: 33489), Prob: 0.0003
-Token: ' programmes' (ID: 37637), Prob: 0.0003
-Token: ' e' (ID: 384), Prob: 0.0002
-Token: ' the' (ID: 279), Prob: 0.0002
-Token: ' music' (ID: 4627), Prob: 0.0002
-Token: ' guest' (ID: 8640), Prob: 0.0002
-Token: ' mini' (ID: 13420), Prob: 0.0002
-Token: ' Harry' (ID: 13928), Prob: 0.0002
-Token: ' production' (ID: 5670), Prob: 0.0002
-Token: ' Canadian' (ID: 11888), Prob: 0.0002
-Token: ' televis' (ID: 89965), Prob: 0.0002
-Token: ' episode' (ID: 9234), Prob: 0.0002
-Token: ' Doctor' (ID: 18635), Prob: 0.0002
-Token: ' M' (ID: 386), Prob: 0.0002
+Token: ' form' (ID: 1352), Prob: 0.3965
+Token: ' same' (ID: 1852), Prob: 0.1001
+Token: ' box' (ID: 3745), Prob: 0.0781
+Token: ' correct' (ID: 4396), Prob: 0.0537
+Token: ' format' (ID: 3561), Prob: 0.0474
+Token: ' context' (ID: 2266), Prob: 0.0417
+Token: ' first' (ID: 1156), Prob: 0.0325
+Token: ' style' (ID: 1707), Prob: 0.0198
+Token: ' past' (ID: 3267), Prob: 0.0186
+Token: ' response' (ID: 2033), Prob: 0.0154
+Token: ' answer' (ID: 4226), Prob: 0.0145
+Token: ' present' (ID: 3042), Prob: 0.0064
+Token: ' paragraph' (ID: 14311), Prob: 0.0044
+Token: ' appropriate' (ID: 8311), Prob: 0.0042
+Token: ' original' (ID: 4024), Prob: 0.0039
+Token: ' sentence' (ID: 11652), Prob: 0.0039
+Token: ' singular' (ID: 33944), Prob: 0.0037
+Token: ' following' (ID: 2701), Prob: 0.0032
+Token: ' language' (ID: 4128), Prob: 0.0032
+Token: ' second' (ID: 2086), Prob: 0.0030
+Token: ' time' (ID: 882), Prob: 0.0029
+Token: ' English' (ID: 6364), Prob: 0.0029
+Token: ' US' (ID: 2274), Prob: 0.0027
+Token: ' space' (ID: 3550), Prob: 0.0027
+Token: ' most' (ID: 1429), Prob: 0.0025
+Token: ' simplest' (ID: 44548), Prob: 0.0025
+Token: ' simple' (ID: 4285), Prob: 0.0024
+Token: ' UK' (ID: 6424), Prob: 0.0022
+Token: ' current' (ID: 1482), Prob: 0.0021
+Token: ' last' (ID: 1537), Prob: 0.0018
+Token: ' given' (ID: 2661), Prob: 0.0018
+Token: ' short' (ID: 2805), Prob: 0.0017
+Token: ' single' (ID: 3175), Prob: 0.0016
+Token: ' Australian' (ID: 13369), Prob: 0.0016
+Token: ' range' (ID: 2088), Prob: 0.0015
+Token: ' exact' (ID: 4734), Prob: 0.0015
+Token: ' natural' (ID: 5810), Prob: 0.0015
+Token: ' middle' (ID: 6149), Prob: 0.0014
+Token: ' formal' (ID: 15908), Prob: 0.0014
+Token: ' text' (ID: 1467), Prob: 0.0013
+Token: ' third' (ID: 4843), Prob: 0.0013
+Token: ' opinion' (ID: 9459), Prob: 0.0013
+Token: ' instructions' (ID: 11221), Prob: 0.0013
+Token: ' user' (ID: 1196), Prob: 0.0012
+Token: ' area' (ID: 3082), Prob: 0.0011
+Token: ' proper' (ID: 6169), Prob: 0.0010
+Token: ' use' (ID: 990), Prob: 0.0010
+Token: ' span' (ID: 9390), Prob: 0.0010
+Token: ' best' (ID: 1850), Prob: 0.0009
+Token: ' order' (ID: 1973), Prob: 0.0009
+Token: ' general' (ID: 4586), Prob: 0.0009
+Token: ' negative' (ID: 8225), Prob: 0.0009
+Token: ' native' (ID: 9867), Prob: 0.0009
+Token: ' prompt' (ID: 9934), Prob: 0.0009
+Token: ' shortest' (ID: 39143), Prob: 0.0009
+Token: ' beginning' (ID: 7167), Prob: 0.0008
+Token: ' instruction' (ID: 7600), Prob: 0.0008
+Token: ' bold' (ID: 13939), Prob: 0.0008
+Token: ' structure' (ID: 5944), Prob: 0.0007
+Token: ' positive' (ID: 6785), Prob: 0.0007
+Token: ' domain' (ID: 7947), Prob: 0.0007
+Token: ' Box' (ID: 8261), Prob: 0.0007
+Token: ' affirmative' (ID: 67641), Prob: 0.0007
+Token: ' line' (ID: 1555), Prob: 0.0007
+Token: ' opening' (ID: 8568), Prob: 0.0007
+Token: ' boxes' (ID: 14697), Prob: 0.0007
+Token: ' chosen' (ID: 11882), Prob: 0.0006
+Token: ' article' (ID: 4549), Prob: 0.0006
+Token: ' USA' (ID: 7279), Prob: 0.0006
+Token: ' Indian' (ID: 7748), Prob: 0.0006
+Token: ' blank' (ID: 10113), Prob: 0.0006
+Token: ' answers' (ID: 11253), Prob: 0.0006
+Token: ' right' (ID: 1290), Prob: 0.0005
+Token: ' passive' (ID: 27879), Prob: 0.0005
+Token: ' way' (ID: 1616), Prob: 0.0005
+Token: ' free' (ID: 1910), Prob: 0.0005
+Token: ' question' (ID: 3405), Prob: 0.0005
+Token: ' United' (ID: 3639), Prob: 0.0005
+Token: ' specified' (ID: 5189), Prob: 0.0005
+Token: ' field' (ID: 2070), Prob: 0.0004
+Token: ' narrative' (ID: 19221), Prob: 0.0004
+Token: ' business' (ID: 2562), Prob: 0.0004
+Token: ' fourth' (ID: 11737), Prob: 0.0004
+Token: ' future' (ID: 3853), Prob: 0.0004
+Token: ' required' (ID: 2567), Prob: 0.0004
+Token: ' initial' (ID: 2856), Prob: 0.0004
+Token: ' nature' (ID: 6993), Prob: 0.0004
+Token: ' voice' (ID: 7743), Prob: 0.0004
+Token: ' passage' (ID: 21085), Prob: 0.0004
+Token: ' Answer' (ID: 21806), Prob: 0.0004
+Token: ' sentences' (ID: 22870), Prob: 0.0004
+Token: ' Form' (ID: 3377), Prob: 0.0003
+Token: ' flow' (ID: 6396), Prob: 0.0003
 
 == Ranked Concepts (Clusters) ==
-Rank 1 | Centroid: ' television' | Score: 0.3672
-  Tokens: [' television', ' BBC', ' TV', ' ITV', ' radio', ' Channel', ' HBO', ' televis']
-Rank 2 | Centroid: ' British' | Score: 0.1079
-  Tokens: [' British', ' UK', ' London', ' Australian', ' Royal', ' United', ' English', ' American', ' US', ' Canadian']
-Rank 3 | Centroid: ' films' | Score: 0.0928
-  Tokens: [' film', ' films', ' movie', ' movies']
-Rank 4 | Centroid: ' series' | Score: 0.0825
-  Tokens: [' series', ' major']
-Rank 5 | Centroid: ' drama' | Score: 0.0535
-  Tokens: [' drama', ' dramas', ' comedy', ' sitcom', ' soap', ' theatre', ' Broadway', ' crime', ' episode', ' Doctor']
-Rank 6 | Centroid: ' play' | Score: 0.0398
-  Tokens: [' plays', ' play', ' Play']
-Rank 7 | Centroid: ' the' | Score: 0.0347
-  Tokens: [' following', ' min', ' web', ' short', ' long', ' The', ' new', ' New', ' small', ' main', ' e', ' the', ' mini', ' M']
-Rank 8 | Centroid: ' West' | Score: 0.0147
-  Tokens: [' West', ' East', ' Western', ' western']
-Rank 9 | Centroid: ' stage' | Score: 0.0121
-  Tokens: [' stage', ' science']
-Rank 10 | Centroid: ' shows' | Score: 0.0057
-  Tokens: [' hit', ' show', ' shows']
-Rank 11 | Centroid: ' roles' | Score: 0.0046
-  Tokens: [' role', ' roles', ' guest']
-Rank 12 | Centroid: ' acclaimed' | Score: 0.0039
-  Tokens: [' acclaimed', ' award', ' critically', ' successful']
-Rank 13 | Centroid: ' national' | Score: 0.0036
-  Tokens: [' National', ' popular', ' international', ' commercial', ' national']
-Rank 14 | Centroid: ' musical' | Score: 0.0035
-  Tokens: [' musical', ' medical', ' music']
-Rank 15 | Centroid: ' leading' | Score: 0.0018
-  Tokens: [' leading', ' lead', ' title', ' feature', ' supporting']
-Rank 16 | Centroid: ' second' | Score: 0.0016
-  Tokens: [' first', ' third', ' second', ' independent']
-Rank 17 | Centroid: ' ABC' | Score: 0.0011
-  Tokens: [' ABC', ' cast', ' BA']
-Rank 18 | Centroid: ' programme' | Score: 0.0006
-  Tokens: [' programme', ' programmes']
-Rank 19 | Centroid: ' productions' | Score: 0.0005
-  Tokens: [' productions', ' production']
-Rank 20 | Centroid: ' James' | Score: 0.0005
-  Tokens: [' James', ' Harry']
-Rank 21 | Centroid: ' police' | Score: 0.0003
-  Tokens: [' police']
+Rank 1 | Centroid: ' Form' | Score: 0.4453
+  Tokens: [' form', ' format', ' formal', ' Form']
+Rank 2 | Centroid: ' same' | Score: 0.1035
+  Tokens: [' same', ' following']
+Rank 3 | Centroid: ' box' | Score: 0.0801
+  Tokens: [' box', ' Box', ' boxes', ' business']
+Rank 4 | Centroid: ' appropriate' | Score: 0.0645
+  Tokens: [' correct', ' appropriate', ' given', ' exact', ' proper', ' chosen', ' right', ' specified', ' required']
+Rank 5 | Centroid: ' text' | Score: 0.0464
+  Tokens: [' context', ' language', ' text']
+Rank 6 | Centroid: ' third' | Score: 0.0405
+  Tokens: [' first', ' second', ' last', ' middle', ' third', ' fourth']
+Rank 7 | Centroid: ' answer' | Score: 0.0312
+  Tokens: [' response', ' answer', ' answers', ' question', ' Answer']
+Rank 8 | Centroid: ' current' | Score: 0.0275
+  Tokens: [' past', ' present', ' current', ' future']
+Rank 9 | Centroid: ' style' | Score: 0.0219
+  Tokens: [' style', ' order', ' structure', ' way']
+Rank 10 | Centroid: ' sentence' | Score: 0.0143
+  Tokens: [' paragraph', ' sentence', ' opinion', ' instructions', ' prompt', ' instruction', ' article', ' narrative', ' voice', ' sentences']
+Rank 11 | Centroid: ' area' | Score: 0.0117
+  Tokens: [' time', ' space', ' range', ' area', ' span', ' domain', ' line', ' field', ' nature', ' flow']
+Rank 12 | Centroid: ' UK' | Score: 0.0109
+  Tokens: [' English', ' US', ' UK', ' Australian', ' USA', ' Indian', ' United']
+Rank 13 | Centroid: ' simplest' | Score: 0.0109
+  Tokens: [' most', ' simplest', ' simple', ' short', ' best', ' shortest']
+Rank 14 | Centroid: ' original' | Score: 0.0076
+  Tokens: [' original', ' natural', ' general', ' native', ' initial']
+Rank 15 | Centroid: ' singular' | Score: 0.0037
+  Tokens: [' singular']
+Rank 16 | Centroid: ' positive' | Score: 0.0029
+  Tokens: [' negative', ' positive', ' affirmative', ' blank']
+Rank 17 | Centroid: ' passive' | Score: 0.0024
+  Tokens: [' beginning', ' opening', ' passive', ' passage']
+Rank 18 | Centroid: ' user' | Score: 0.0022
+  Tokens: [' user', ' use']
+Rank 19 | Centroid: ' single' | Score: 0.0016
+  Tokens: [' single']
+Rank 20 | Centroid: ' bold' | Score: 0.0008
+  Tokens: [' bold']
+Rank 21 | Centroid: ' free' | Score: 0.0005
+  Tokens: [' free']
 
 **Chosen Concept:** Rank 1

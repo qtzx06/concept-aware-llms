@@ -1,96 +1,145 @@
 --- Step 16 Log ---
 
 == Filtered Candidates ==
-Token: '-off' (ID: 12462), Prob: 0.3027
-Token: ' off' (ID: 1007), Prob: 0.1611
-Token: ' known' (ID: 3881), Prob: 0.0525
-Token: '-to' (ID: 4686), Prob: 0.0525
-Token: '-known' (ID: 21309), Prob: 0.0248
-Token: ' to' (ID: 311), Prob: 0.0171
-Token: ' respected' (ID: 30287), Prob: 0.0063
-Token: '-educated' (ID: 87681), Prob: 0.0055
-Token: '-established' (ID: 63768), Prob: 0.0038
-Token: ' established' (ID: 9555), Prob: 0.0034
-Token: ' educated' (ID: 32042), Prob: 0.0034
-Token: ' situated' (ID: 30083), Prob: 0.0016
-Token: '-connected' (ID: 72188), Prob: 0.0014
-Token: ' connected' (ID: 8433), Prob: 0.0011
-Token: ' regarded' (ID: 26361), Prob: 0.0011
-Token: '-d' (ID: 1737), Prob: 0.0008
-Token: '-reg' (ID: 32163), Prob: 0.0007
-Token: '-pl' (ID: 32107), Prob: 0.0005
-Token: ' positioned' (ID: 34228), Prob: 0.0005
-Token: '-res' (ID: 11588), Prob: 0.0004
-Token: ' in' (ID: 304), Prob: 0.0003
-Token: '-p' (ID: 2268), Prob: 0.0003
-Token: ' and' (ID: 323), Prob: 0.0003
-Token: 'known' (ID: 5278), Prob: 0.0002
-Token: '-he' (ID: 37335), Prob: 0.0001
-Token: ' of' (ID: 315), Prob: 0.0001
-Token: '-in' (ID: 3419), Prob: 0.0001
-Token: ' placed' (ID: 9099), Prob: 0.0001
-Token: '-re' (ID: 5504), Prob: 0.0001
-Token: '-born' (ID: 39160), Prob: 0.0001
-Token: '-m' (ID: 1448), Prob: 0.0001
-Token: ' aware' (ID: 7853), Prob: 0.0001
-Token: ' born' (ID: 9223), Prob: 0.0001
-Token: '-f' (ID: 2220), Prob: 0.0001
-Token: '-ren' (ID: 93009), Prob: 0.0001
-Token: ' ranked' (ID: 21006), Prob: 0.0001
-Token: '-position' (ID: 33524), Prob: 0.0001
-Token: '-b' (ID: 1455), Prob: 0.0000
-Token: ' founded' (ID: 18047), Prob: 0.0000
-Token: ' recognized' (ID: 14975), Prob: 0.0000
-Token: ' maintained' (ID: 18401), Prob: 0.0000
-Token: ' cultivated' (ID: 66066), Prob: 0.0000
-Token: ' know' (ID: 1414), Prob: 0.0000
-Token: '-funded' (ID: 49601), Prob: 0.0000
-Token: '-rounded' (ID: 64218), Prob: 0.0000
-Token: ' endowed' (ID: 97628), Prob: 0.0000
-Token: ' reputed' (ID: 91972), Prob: 0.0000
-Token: ' preserved' (ID: 33583), Prob: 0.0000
-Token: ' into' (ID: 1119), Prob: 0.0000
-Token: '-s' (ID: 1331), Prob: 0.0000
-Token: ' affected' (ID: 11495), Prob: 0.0000
-Token: '-tr' (ID: 10188), Prob: 0.0000
-Token: '-c' (ID: 1786), Prob: 0.0000
-Token: 'off' (ID: 1847), Prob: 0.0000
-Token: '-int' (ID: 20052), Prob: 0.0000
-Token: ' liked' (ID: 14915), Prob: 0.0000
-Token: ' represented' (ID: 15251), Prob: 0.0000
-Token: ' or' (ID: 476), Prob: 0.0000
-Token: '-run' (ID: 22973), Prob: 0.0000
+Token: ' information' (ID: 1995), Prob: 0.1885
+Token: ' other' (ID: 1008), Prob: 0.1143
+Token: ' work' (ID: 975), Prob: 0.1006
+Token: ' productivity' (ID: 25148), Prob: 0.0889
+Token: ' daily' (ID: 7298), Prob: 0.0610
+Token: ' various' (ID: 5257), Prob: 0.0476
+Token: ' personal' (ID: 4345), Prob: 0.0255
+Token: ' business' (ID: 2562), Prob: 0.0225
+Token: ' also' (ID: 1083), Prob: 0.0187
+Token: ' education' (ID: 6731), Prob: 0.0175
+Token: ' many' (ID: 1657), Prob: 0.0165
+Token: ' more' (ID: 803), Prob: 0.0154
+Token: ' even' (ID: 1496), Prob: 0.0154
+Token: ' learning' (ID: 6832), Prob: 0.0113
+Token: ' social' (ID: 3590), Prob: 0.0106
+Token: ' for' (ID: 369), Prob: 0.0094
+Token: ' shopping' (ID: 11919), Prob: 0.0094
+Token: ' access' (ID: 2615), Prob: 0.0088
+Token: ' entertainment' (ID: 16517), Prob: 0.0088
+Token: ' navigation' (ID: 10646), Prob: 0.0083
+Token: ' research' (ID: 3412), Prob: 0.0060
+Token: ' a' (ID: 264), Prob: 0.0057
+Token: ' travel' (ID: 5821), Prob: 0.0057
+Token: ' convenience' (ID: 19132), Prob: 0.0050
+Token: ' accessing' (ID: 31788), Prob: 0.0050
+Token: ' leisure' (ID: 40208), Prob: 0.0050
+Token: ' some' (ID: 1045), Prob: 0.0047
+Token: ' internet' (ID: 7602), Prob: 0.0042
+Token: ' media' (ID: 3687), Prob: 0.0039
+Token: ' to' (ID: 311), Prob: 0.0032
+Token: ' sometimes' (ID: 7025), Prob: 0.0032
+Token: ' numerous' (ID: 12114), Prob: 0.0030
+Token: ' tasks' (ID: 9079), Prob: 0.0029
+Token: ' technology' (ID: 5440), Prob: 0.0027
+Token: ' managing' (ID: 18150), Prob: 0.0027
+Token: ' the' (ID: 279), Prob: 0.0025
+Token: ' in' (ID: 304), Prob: 0.0025
+Token: ' communication' (ID: 10535), Prob: 0.0025
+Token: ' data' (ID: 821), Prob: 0.0024
+Token: ' online' (ID: 2860), Prob: 0.0024
+Token: ' interaction' (ID: 16230), Prob: 0.0022
+Token: ' everyday' (ID: 17778), Prob: 0.0022
+Token: ' connectivity' (ID: 30257), Prob: 0.0022
+Token: ' most' (ID: 1429), Prob: 0.0021
+Token: ' different' (ID: 2155), Prob: 0.0021
+Token: ' educational' (ID: 16229), Prob: 0.0021
+Token: ' relaxation' (ID: 42585), Prob: 0.0020
+Token: ' commerce' (ID: 35654), Prob: 0.0018
+Token: ' support' (ID: 1824), Prob: 0.0017
+Token: ' as' (ID: 438), Prob: 0.0016
+Token: ' connection' (ID: 3633), Prob: 0.0016
+Token: ' browsing' (ID: 31321), Prob: 0.0016
+Token: ' general' (ID: 4586), Prob: 0.0015
+Token: ' multiple' (ID: 5248), Prob: 0.0015
+Token: ' so' (ID: 773), Prob: 0.0014
+Token: ' possibly' (ID: 10767), Prob: 0.0014
+Token: ' it' (ID: 432), Prob: 0.0013
+Token: ' management' (ID: 6240), Prob: 0.0013
+Token: ' basic' (ID: 6770), Prob: 0.0012
+Token: ' gaming' (ID: 15833), Prob: 0.0012
+Token: ' now' (ID: 1431), Prob: 0.0011
+Token: ' record' (ID: 3255), Prob: 0.0011
+Token: ' digital' (ID: 7377), Prob: 0.0011
+Token: ' providing' (ID: 8241), Prob: 0.0011
+Token: ' transportation' (ID: 17903), Prob: 0.0011
+Token: ' mobile' (ID: 6371), Prob: 0.0009
+Token: ' messaging' (ID: 29522), Prob: 0.0009
+Token: ' all' (ID: 678), Prob: 0.0009
+Token: ' recording' (ID: 14633), Prob: 0.0009
+Token: ' staying' (ID: 19429), Prob: 0.0009
+Token: ' often' (ID: 3545), Prob: 0.0008
+Token: ' professional' (ID: 6584), Prob: 0.0008
+Token: ' maybe' (ID: 7196), Prob: 0.0008
+Token: ' day' (ID: 1899), Prob: 0.0008
+Token: ' not' (ID: 537), Prob: 0.0007
+Token: ' such' (ID: 1741), Prob: 0.0007
+Token: ' family' (ID: 2997), Prob: 0.0007
+Token: ' several' (ID: 3807), Prob: 0.0007
+Token: ' study' (ID: 3920), Prob: 0.0007
+Token: ' product' (ID: 1985), Prob: 0.0007
+Token: ' modern' (ID: 6481), Prob: 0.0007
+Token: ' potentially' (ID: 13581), Prob: 0.0007
+Token: ' banking' (ID: 22798), Prob: 0.0007
+Token: ' working' (ID: 3238), Prob: 0.0006
+Token: ' task' (ID: 3383), Prob: 0.0006
+Token: ' additional' (ID: 5107), Prob: 0.0006
+Token: ' overall' (ID: 8084), Prob: 0.0006
+Token: ' instant' (ID: 9690), Prob: 0.0006
+Token: ' accessibility' (ID: 39700), Prob: 0.0006
+Token: ' reading' (ID: 5290), Prob: 0.0006
+Token: ' connecting' (ID: 20913), Prob: 0.0006
+Token: ' we' (ID: 582), Prob: 0.0006
+Token: ' time' (ID: 882), Prob: 0.0006
+Token: '/or' (ID: 5144), Prob: 0.0006
+Token: ' casual' (ID: 16334), Prob: 0.0006
+Token: ' can' (ID: 646), Prob: 0.0005
+Token: ' much' (ID: 1753), Prob: 0.0005
+Token: ' both' (ID: 2176), Prob: 0.0005
 
 == Ranked Concepts (Clusters) ==
-Rank 1 | Centroid: ' off' | Score: 0.4648
-  Tokens: ['-off', ' off', 'off']
-Rank 2 | Centroid: ' known' | Score: 0.0776
-  Tokens: [' known', '-known', 'known', ' know']
-Rank 3 | Centroid: '-to' | Score: 0.0525
-  Tokens: ['-to', '-in']
-Rank 4 | Centroid: ' and' | Score: 0.0178
-  Tokens: [' to', ' in', ' and', ' of', ' into', ' or']
-Rank 5 | Centroid: '-educated' | Score: 0.0089
-  Tokens: ['-educated', ' educated']
-Rank 6 | Centroid: ' regarded' | Score: 0.0076
-  Tokens: [' respected', ' regarded', ' ranked', ' recognized', ' maintained', ' endowed', ' reputed', ' preserved', ' liked', ' represented']
-Rank 7 | Centroid: ' established' | Score: 0.0072
-  Tokens: ['-established', ' established', ' founded']
-Rank 8 | Centroid: '-connected' | Score: 0.0025
-  Tokens: ['-connected', ' connected']
-Rank 9 | Centroid: ' positioned' | Score: 0.0022
-  Tokens: [' situated', ' positioned', ' placed', '-position']
-Rank 10 | Centroid: '-b' | Score: 0.0021
-  Tokens: ['-d', '-pl', '-p', '-re', '-m', '-f', '-b', '-s', '-tr', '-c', '-int']
-Rank 11 | Centroid: '-reg' | Score: 0.0013
-  Tokens: ['-reg', '-res', '-he', '-ren']
-Rank 12 | Centroid: '-born' | Score: 0.0001
-  Tokens: ['-born', ' born']
-Rank 13 | Centroid: ' aware' | Score: 0.0001
-  Tokens: [' aware', ' affected']
-Rank 14 | Centroid: '-funded' | Score: 0.0001
-  Tokens: ['-funded', '-rounded', '-run']
-Rank 15 | Centroid: ' cultivated' | Score: 0.0000
-  Tokens: [' cultivated']
+Rank 1 | Centroid: ' information' | Score: 0.1982
+  Tokens: [' information', ' media', ' technology', ' data', ' family']
+Rank 2 | Centroid: ' additional' | Score: 0.1318
+  Tokens: [' other', ' more', ' all', ' additional', ' both']
+Rank 3 | Centroid: ' productivity' | Score: 0.1118
+  Tokens: [' productivity', ' business', ' product']
+Rank 4 | Centroid: ' work' | Score: 0.1011
+  Tokens: [' work', ' working']
+Rank 5 | Centroid: ' several' | Score: 0.0786
+  Tokens: [' various', ' many', ' some', ' numerous', ' most', ' different', ' multiple', ' several', ' much']
+Rank 6 | Centroid: ' daily' | Score: 0.0645
+  Tokens: [' daily', ' everyday', ' day', ' instant']
+Rank 7 | Centroid: ' education' | Score: 0.0525
+  Tokens: [' education', ' learning', ' shopping', ' navigation', ' educational', ' management', ' gaming', ' messaging', ' banking']
+Rank 8 | Centroid: ' the' | Score: 0.0306
+  Tokens: [' for', ' a', ' to', ' the', ' in', ' as', ' so', ' it', ' not', ' such', ' we', ' time', ' can']
+Rank 9 | Centroid: ' casual' | Score: 0.0303
+  Tokens: [' personal', ' general', ' basic', ' professional', ' overall', ' casual']
+Rank 10 | Centroid: ' entertainment' | Score: 0.0293
+  Tokens: [' entertainment', ' travel', ' convenience', ' leisure', ' relaxation', ' commerce', ' transportation']
+Rank 11 | Centroid: ' possibly' | Score: 0.0221
+  Tokens: [' also', ' possibly', ' maybe', ' potentially', '/or']
+Rank 12 | Centroid: ' sometimes' | Score: 0.0206
+  Tokens: [' even', ' sometimes', ' now', ' often']
+Rank 13 | Centroid: ' access' | Score: 0.0161
+  Tokens: [' access', ' accessing', ' support', ' accessibility']
+Rank 14 | Centroid: ' social' | Score: 0.0106
+  Tokens: [' social']
+Rank 15 | Centroid: ' connection' | Score: 0.0092
+  Tokens: [' communication', ' interaction', ' connectivity', ' connection', ' connecting']
+Rank 16 | Centroid: ' online' | Score: 0.0092
+  Tokens: [' internet', ' online', ' digital', ' mobile', ' modern']
+Rank 17 | Centroid: ' providing' | Score: 0.0068
+  Tokens: [' managing', ' browsing', ' providing', ' staying', ' reading']
+Rank 18 | Centroid: ' research' | Score: 0.0068
+  Tokens: [' research', ' study']
+Rank 19 | Centroid: ' tasks' | Score: 0.0035
+  Tokens: [' tasks', ' task']
+Rank 20 | Centroid: ' record' | Score: 0.0019
+  Tokens: [' record', ' recording']
 
 **Chosen Concept:** Rank 1

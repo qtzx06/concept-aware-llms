@@ -1,155 +1,137 @@
 --- Step 7 Log ---
 
 == Filtered Candidates ==
-Token: ' appeared' (ID: 9723), Prob: 0.2812
-Token: ' played' (ID: 6342), Prob: 0.1934
-Token: ' was' (ID: 572), Prob: 0.1504
-Token: ' joined' (ID: 10859), Prob: 0.0806
-Token: ' also' (ID: 1083), Prob: 0.0708
-Token: ' starred' (ID: 58235), Prob: 0.0625
-Token: ' made' (ID: 1865), Prob: 0.0297
-Token: ' performed' (ID: 10660), Prob: 0.0204
-Token: ' had' (ID: 1030), Prob: 0.0159
-Token: ' took' (ID: 3867), Prob: 0.0085
-Token: ' co' (ID: 1062), Prob: 0.0066
-Token: ' guest' (ID: 8640), Prob: 0.0066
-Token: ' portrayed' (ID: 44777), Prob: 0.0052
-Token: ' worked' (ID: 6439), Prob: 0.0045
-Token: ' did' (ID: 1521), Prob: 0.0040
-Token: ' returned' (ID: 5927), Prob: 0.0035
-Token: ' began' (ID: 6009), Prob: 0.0035
-Token: ' acted' (ID: 30432), Prob: 0.0035
-Token: ' repr' (ID: 30636), Prob: 0.0028
-Token: ' became' (ID: 6116), Prob: 0.0024
-Token: ' received' (ID: 3949), Prob: 0.0022
-Token: ' wrote' (ID: 6139), Prob: 0.0019
-Token: ' participated' (ID: 30308), Prob: 0.0019
-Token: ' won' (ID: 2765), Prob: 0.0015
-Token: ' continued' (ID: 8570), Prob: 0.0015
-Token: ' re' (ID: 312), Prob: 0.0013
-Token: ' completed' (ID: 8145), Prob: 0.0013
-Token: ' directed' (ID: 15540), Prob: 0.0013
-Token: ' attended' (ID: 18178), Prob: 0.0013
-Token: ' started' (ID: 3855), Prob: 0.0012
-Token: ' featured' (ID: 14766), Prob: 0.0012
-Token: ' released' (ID: 5880), Prob: 0.0010
-Token: ' contributed' (ID: 19590), Prob: 0.0009
-Token: ' and' (ID: 323), Prob: 0.0008
-Token: ' supported' (ID: 7248), Prob: 0.0007
-Token: ' earned' (ID: 15303), Prob: 0.0006
-Token: ' gained' (ID: 18163), Prob: 0.0006
-Token: ' met' (ID: 2270), Prob: 0.0005
-Token: ' moved' (ID: 7726), Prob: 0.0005
-Token: ' again' (ID: 1549), Prob: 0.0004
-Token: ' provided' (ID: 3897), Prob: 0.0004
-Token: ' gave' (ID: 6551), Prob: 0.0004
-Token: ' produced' (ID: 8947), Prob: 0.0004
-Token: ' landed' (ID: 26120), Prob: 0.0004
-Token: ' audition' (ID: 61888), Prob: 0.0004
-Token: ' collaborated' (ID: 77074), Prob: 0.0004
-Token: ' signed' (ID: 8499), Prob: 0.0004
-Token: ' star' (ID: 6774), Prob: 0.0003
-Token: ' reunited' (ID: 76879), Prob: 0.0003
-Token: ' got' (ID: 2684), Prob: 0.0003
-Token: ' created' (ID: 3465), Prob: 0.0003
-Token: ' appears' (ID: 7952), Prob: 0.0003
-Token: ' found' (ID: 1730), Prob: 0.0003
-Token: ' shared' (ID: 6094), Prob: 0.0003
-Token: ' married' (ID: 12224), Prob: 0.0003
-Token: ' voiced' (ID: 51368), Prob: 0.0003
-Token: ' came' (ID: 3697), Prob: 0.0002
-Token: ' went' (ID: 3937), Prob: 0.0002
-Token: ' finished' (ID: 8060), Prob: 0.0002
-Token: ' toured' (ID: 90613), Prob: 0.0002
-Token: ' read' (ID: 1349), Prob: 0.0002
-Token: ' left' (ID: 2115), Prob: 0.0002
-Token: ' embarked' (ID: 78020), Prob: 0.0002
-Token: ' served' (ID: 10223), Prob: 0.0002
-Token: ' repeated' (ID: 11504), Prob: 0.0002
-Token: ' recorded' (ID: 12433), Prob: 0.0002
-Token: ' formed' (ID: 14122), Prob: 0.0002
-Token: ' studied' (ID: 19476), Prob: 0.0002
-Token: ' rejo' (ID: 46941), Prob: 0.0002
-Token: ' added' (ID: 3694), Prob: 0.0002
-Token: ' followed' (ID: 8110), Prob: 0.0002
-Token: ' opened' (ID: 8930), Prob: 0.0002
-Token: ' stars' (ID: 9759), Prob: 0.0002
-Token: ' presented' (ID: 10449), Prob: 0.0002
-Token: ' first' (ID: 1156), Prob: 0.0001
-Token: ' cast' (ID: 6311), Prob: 0.0001
-Token: ' helped' (ID: 8910), Prob: 0.0001
-Token: ' sang' (ID: 28240), Prob: 0.0001
-Token: ' filmed' (ID: 41408), Prob: 0.0001
-Token: ' competed' (ID: 66135), Prob: 0.0001
-Token: ' has' (ID: 702), Prob: 0.0001
-Token: ' were' (ID: 1033), Prob: 0.0001
-Token: ' would' (ID: 1035), Prob: 0.0001
-Token: ' turned' (ID: 6519), Prob: 0.0001
-Token: ' accepted' (ID: 11666), Prob: 0.0001
-Token: ' lent' (ID: 47807), Prob: 0.0001
-Token: ' further' (ID: 4623), Prob: 0.0001
-Token: ' expanded' (ID: 17183), Prob: 0.0001
-Token: ' briefly' (ID: 26753), Prob: 0.0001
-Token: ' is' (ID: 374), Prob: 0.0001
-Token: ' launched' (ID: 11626), Prob: 0.0001
-Token: ' delivered' (ID: 12600), Prob: 0.0001
+Token: ' fish' (ID: 7640), Prob: 0.8594
+Token: ' rope' (ID: 33420), Prob: 0.0549
+Token: ' cat' (ID: 8251), Prob: 0.0101
+Token: ' a' (ID: 264), Prob: 0.0079
+Token: ' the' (ID: 279), Prob: 0.0054
+Token: ' carp' (ID: 38639), Prob: 0.0035
+Token: ' both' (ID: 2176), Prob: 0.0021
+Token: ' Rope' (ID: 97896), Prob: 0.0021
+Token: ' animal' (ID: 9864), Prob: 0.0018
+Token: ' whale' (ID: 50019), Prob: 0.0018
+Token: ' snake' (ID: 25265), Prob: 0.0015
+Token: ' Fish' (ID: 16608), Prob: 0.0013
+Token: ' cro' (ID: 14093), Prob: 0.0011
+Token: ' marine' (ID: 28591), Prob: 0.0009
+Token: ' rod' (ID: 20589), Prob: 0.0009
+Token: ' sea' (ID: 9396), Prob: 0.0007
+Token: ' species' (ID: 9419), Prob: 0.0007
+Token: ' plant' (ID: 6008), Prob: 0.0007
+Token: ' e' (ID: 384), Prob: 0.0006
+Token: ' c' (ID: 272), Prob: 0.0006
+Token: ' trout' (ID: 79727), Prob: 0.0006
+Token: ' tree' (ID: 4916), Prob: 0.0006
+Token: ' river' (ID: 14796), Prob: 0.0006
+Token: ' shark' (ID: 43792), Prob: 0.0005
+Token: ' frog' (ID: 59881), Prob: 0.0005
+Token: ' salmon' (ID: 40320), Prob: 0.0004
+Token: ' reef' (ID: 70045), Prob: 0.0004
+Token: ' rock' (ID: 6946), Prob: 0.0004
+Token: ' what' (ID: 1128), Prob: 0.0004
+Token: ' small' (ID: 2613), Prob: 0.0004
+Token: ' sock' (ID: 11087), Prob: 0.0004
+Token: ' lobster' (ID: 79715), Prob: 0.0003
+Token: ' bass' (ID: 21529), Prob: 0.0003
+Token: ' b' (ID: 293), Prob: 0.0003
+Token: ' which' (ID: 892), Prob: 0.0003
+Token: ' worm' (ID: 34211), Prob: 0.0003
+Token: ' aquatic' (ID: 71391), Prob: 0.0003
+Token: ' an' (ID: 458), Prob: 0.0003
+Token: ' water' (ID: 3015), Prob: 0.0003
+Token: ' bird' (ID: 11958), Prob: 0.0003
+Token: ' crust' (ID: 39612), Prob: 0.0003
+Token: ' coral' (ID: 52003), Prob: 0.0003
+Token: ' amphib' (ID: 87922), Prob: 0.0003
+Token: ' either' (ID: 2987), Prob: 0.0003
+Token: ' fishing' (ID: 19948), Prob: 0.0003
+Token: ' life' (ID: 2272), Prob: 0.0002
+Token: ' ang' (ID: 6454), Prob: 0.0002
+Token: ' oct' (ID: 18491), Prob: 0.0002
+Token: ' blue' (ID: 6303), Prob: 0.0002
+Token: ' boat' (ID: 15328), Prob: 0.0002
+Token: ' tropical' (ID: 34048), Prob: 0.0002
+Token: ' monkey' (ID: 38703), Prob: 0.0002
+Token: ' knot' (ID: 50800), Prob: 0.0002
+Token: ' dog' (ID: 5562), Prob: 0.0002
+Token: ' plank' (ID: 72087), Prob: 0.0002
+Token: ' fin' (ID: 1875), Prob: 0.0002
+Token: ' ray' (ID: 18299), Prob: 0.0002
+Token: ' herb' (ID: 38899), Prob: 0.0002
+Token: ' Cat' (ID: 17358), Prob: 0.0002
+Token: ' Rh' (ID: 17968), Prob: 0.0002
+Token: ' tuna' (ID: 73957), Prob: 0.0002
+Token: ' different' (ID: 2155), Prob: 0.0001
+Token: ' jelly' (ID: 51341), Prob: 0.0001
+Token: ' ro' (ID: 926), Prob: 0.0001
+Token: ' two' (ID: 1378), Prob: 0.0001
+Token: ' another' (ID: 2441), Prob: 0.0001
+Token: ' sn' (ID: 4131), Prob: 0.0001
+Token: ' m' (ID: 296), Prob: 0.0001
+Token: ' in' (ID: 304), Prob: 0.0001
+Token: ' R' (ID: 431), Prob: 0.0001
+Token: ' co' (ID: 1062), Prob: 0.0001
+Token: ' algae' (ID: 67851), Prob: 0.0001
+Token: ' freshwater' (ID: 79644), Prob: 0.0001
+Token: ' deep' (ID: 5538), Prob: 0.0001
+Token: ' horse' (ID: 15223), Prob: 0.0001
+Token: ' grass' (ID: 16359), Prob: 0.0001
+Token: ' organism' (ID: 46020), Prob: 0.0001
+Token: ' something' (ID: 2494), Prob: 0.0001
+Token: ' rh' (ID: 21669), Prob: 0.0001
+Token: ' L' (ID: 444), Prob: 0.0001
+Token: ' type' (ID: 943), Prob: 0.0001
+Token: ' goat' (ID: 53292), Prob: 0.0001
+Token: ' Reef' (ID: 75936), Prob: 0.0001
+Token: ' C' (ID: 356), Prob: 0.0001
+Token: ' green' (ID: 6176), Prob: 0.0001
+Token: ' moll' (ID: 54409), Prob: 0.0001
 
 == Ranked Concepts (Clusters) ==
-Rank 1 | Centroid: ' appeared' | Score: 0.2812
-  Tokens: [' appeared', ' appears']
-Rank 2 | Centroid: ' helped' | Score: 0.1982
-  Tokens: [' played', ' acted', ' contributed', ' served', ' helped']
-Rank 3 | Centroid: ' was' | Score: 0.1846
-  Tokens: [' was', ' had', ' took', ' did', ' became', ' wrote', ' gave', ' got', ' came', ' went', ' were']
-Rank 4 | Centroid: ' joined' | Score: 0.0815
-  Tokens: [' joined', ' reunited', ' married', ' rejo']
-Rank 5 | Centroid: ' is' | Score: 0.0732
-  Tokens: [' also', ' re', ' and', ' first', ' has', ' would', ' is']
-Rank 6 | Centroid: ' stars' | Score: 0.0630
-  Tokens: [' starred', ' star', ' stars']
-Rank 7 | Centroid: ' created' | Score: 0.0305
-  Tokens: [' made', ' produced', ' created', ' formed']
-Rank 8 | Centroid: ' performed' | Score: 0.0205
-  Tokens: [' performed', ' studied']
-Rank 9 | Centroid: ' read' | Score: 0.0090
-  Tokens: [' co', ' won', ' met', ' read', ' left']
-Rank 10 | Centroid: ' participated' | Score: 0.0085
-  Tokens: [' worked', ' participated', ' attended', ' collaborated', ' toured', ' competed']
-Rank 11 | Centroid: ' guest' | Score: 0.0066
-  Tokens: [' guest']
-Rank 12 | Centroid: ' portrayed' | Score: 0.0063
-  Tokens: [' portrayed', ' featured']
-Rank 13 | Centroid: ' started' | Score: 0.0056
-  Tokens: [' began', ' started', ' moved', ' opened', ' turned', ' launched']
-Rank 14 | Centroid: ' returned' | Score: 0.0037
-  Tokens: [' returned', ' added']
-Rank 15 | Centroid: ' further' | Score: 0.0034
-  Tokens: [' repr', ' again', ' further', ' briefly']
-Rank 16 | Centroid: ' gained' | Score: 0.0034
-  Tokens: [' received', ' earned', ' gained']
-Rank 17 | Centroid: ' continued' | Score: 0.0018
-  Tokens: [' continued', ' repeated', ' expanded']
-Rank 18 | Centroid: ' presented' | Score: 0.0017
-  Tokens: [' released', ' provided', ' presented', ' delivered']
-Rank 19 | Centroid: ' directed' | Score: 0.0016
-  Tokens: [' directed', ' shared']
-Rank 20 | Centroid: ' completed' | Score: 0.0015
-  Tokens: [' completed', ' finished']
-Rank 21 | Centroid: ' supported' | Score: 0.0009
-  Tokens: [' supported', ' followed']
-Rank 22 | Centroid: ' voiced' | Score: 0.0008
-  Tokens: [' audition', ' voiced', ' sang']
-Rank 23 | Centroid: ' recorded' | Score: 0.0007
-  Tokens: [' signed', ' recorded', ' filmed']
-Rank 24 | Centroid: ' landed' | Score: 0.0006
-  Tokens: [' landed', ' embarked']
-Rank 25 | Centroid: ' found' | Score: 0.0003
-  Tokens: [' found']
-Rank 26 | Centroid: ' cast' | Score: 0.0001
-  Tokens: [' cast']
-Rank 27 | Centroid: ' accepted' | Score: 0.0001
-  Tokens: [' accepted']
-Rank 28 | Centroid: ' lent' | Score: 0.0001
-  Tokens: [' lent']
+Rank 1 | Centroid: ' fish' | Score: 0.8633
+  Tokens: [' fish', ' whale', ' Fish', ' trout', ' shark', ' salmon', ' lobster', ' fishing', ' tuna']
+Rank 2 | Centroid: ' rope' | Score: 0.0591
+  Tokens: [' rope', ' Rope', ' rod', ' rock', ' sock', ' knot', ' ray']
+Rank 3 | Centroid: ' the' | Score: 0.0149
+  Tokens: [' a', ' the', ' what', ' which', ' an', ' different', ' two', ' another', ' something']
+Rank 4 | Centroid: ' cat' | Score: 0.0103
+  Tokens: [' cat', ' Cat']
+Rank 5 | Centroid: ' carp' | Score: 0.0049
+  Tokens: [' carp', ' cro', ' bass']
+Rank 6 | Centroid: ' bird' | Score: 0.0049
+  Tokens: [' animal', ' snake', ' frog', ' worm', ' bird', ' monkey', ' dog', ' horse', ' goat']
+Rank 7 | Centroid: ' both' | Score: 0.0024
+  Tokens: [' both', ' either']
+Rank 8 | Centroid: ' c' | Score: 0.0023
+  Tokens: [' e', ' c', ' b', ' m', ' in', ' R', ' co', ' L', ' C']
+Rank 9 | Centroid: ' marine' | Score: 0.0021
+  Tokens: [' marine', ' sea', ' aquatic', ' freshwater']
+Rank 10 | Centroid: ' plant' | Score: 0.0013
+  Tokens: [' plant', ' tree']
+Rank 11 | Centroid: ' organism' | Score: 0.0010
+  Tokens: [' species', ' herb', ' organism']
+Rank 12 | Centroid: ' tropical' | Score: 0.0009
+  Tokens: [' crust', ' tropical', ' plank', ' jelly', ' moll']
+Rank 13 | Centroid: ' reef' | Score: 0.0008
+  Tokens: [' reef', ' coral', ' Reef']
+Rank 14 | Centroid: ' river' | Score: 0.0008
+  Tokens: [' river', ' boat']
+Rank 15 | Centroid: ' small' | Score: 0.0007
+  Tokens: [' small', ' fin', ' deep']
+Rank 16 | Centroid: ' ang' | Score: 0.0005
+  Tokens: [' ang', ' oct']
+Rank 17 | Centroid: ' green' | Score: 0.0004
+  Tokens: [' blue', ' grass', ' green']
+Rank 18 | Centroid: ' amphib' | Score: 0.0004
+  Tokens: [' amphib', ' algae']
+Rank 19 | Centroid: ' rh' | Score: 0.0004
+  Tokens: [' Rh', ' ro', ' rh']
+Rank 20 | Centroid: ' life' | Score: 0.0003
+  Tokens: [' life', ' type']
+Rank 21 | Centroid: ' water' | Score: 0.0003
+  Tokens: [' water']
+Rank 22 | Centroid: ' sn' | Score: 0.0001
+  Tokens: [' sn']
 
 **Chosen Concept:** Rank 1

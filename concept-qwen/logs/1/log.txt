@@ -1,0 +1,138 @@
+--- Step 1 Log ---
+
+== Filtered Candidates ==
+Token: ' It' (ID: 1084), Prob: 0.2949
+Token: ' A' (ID: 362), Prob: 0.2598
+Token: ' The' (ID: 576), Prob: 0.0898
+Token: ' There' (ID: 2619), Prob: 0.0544
+Token: ' He' (ID: 1260), Prob: 0.0452
+Token: ' His' (ID: 5301), Prob: 0.0398
+Token: ' Something' (ID: 24656), Prob: 0.0291
+Token: ' What' (ID: 3555), Prob: 0.0212
+Token: ' That' (ID: 2938), Prob: 0.0121
+Token: ' In' (ID: 758), Prob: 0.0095
+Token: ' For' (ID: 1752), Prob: 0.0084
+Token: ' At' (ID: 2411), Prob: 0.0061
+Token: ' And' (ID: 1597), Prob: 0.0048
+Token: ' Behind' (ID: 42374), Prob: 0.0048
+Token: ' This' (ID: 1096), Prob: 0.0042
+Token: ' Not' (ID: 2806), Prob: 0.0042
+Token: ' As' (ID: 1634), Prob: 0.0039
+Token: ' On' (ID: 1913), Prob: 0.0029
+Token: ' Beyond' (ID: 30786), Prob: 0.0025
+Token: ' With' (ID: 3085), Prob: 0.0024
+Token: ' From' (ID: 5542), Prob: 0.0024
+Token: ' Could' (ID: 16503), Prob: 0.0024
+Token: ' Standing' (ID: 45227), Prob: 0.0024
+Token: ' But' (ID: 1988), Prob: 0.0021
+Token: ' Between' (ID: 27133), Prob: 0.0021
+Token: ' Out' (ID: 4371), Prob: 0.0014
+Token: ' Was' (ID: 14804), Prob: 0.0014
+Token: ' To' (ID: 2014), Prob: 0.0009
+Token: ' An' (ID: 1527), Prob: 0.0008
+Token: ' Just' (ID: 4599), Prob: 0.0008
+Token: ' When' (ID: 3197), Prob: 0.0008
+Token: ' Bene' (ID: 86591), Prob: 0.0007
+Token: ' Moving' (ID: 37627), Prob: 0.0006
+Token: ' Two' (ID: 9043), Prob: 0.0006
+Token: ' Among' (ID: 21658), Prob: 0.0006
+Token: ' Before' (ID: 13235), Prob: 0.0005
+Token: ' Shadows' (ID: 66449), Prob: 0.0005
+Token: ' Then' (ID: 5005), Prob: 0.0005
+Token: ' Tonight' (ID: 54214), Prob: 0.0005
+Token: ' Up' (ID: 3138), Prob: 0.0005
+Token: ' Against' (ID: 29141), Prob: 0.0004
+Token: ' Above' (ID: 43610), Prob: 0.0004
+Token: ' Sh' (ID: 1417), Prob: 0.0004
+Token: ' Far' (ID: 13452), Prob: 0.0004
+Token: ' Over' (ID: 6065), Prob: 0.0004
+Token: ' Three' (ID: 14513), Prob: 0.0004
+Token: ' Below' (ID: 21193), Prob: 0.0004
+Token: ' Across' (ID: 57137), Prob: 0.0004
+Token: ' Though' (ID: 17594), Prob: 0.0003
+Token: ' Small' (ID: 14994), Prob: 0.0003
+Token: ' Through' (ID: 16904), Prob: 0.0003
+Token: ' Tall' (ID: 41102), Prob: 0.0003
+Token: ' After' (ID: 4636), Prob: 0.0003
+Token: ' Cur' (ID: 12886), Prob: 0.0003
+Token: ' Around' (ID: 32816), Prob: 0.0002
+Token: ' Rising' (ID: 48887), Prob: 0.0002
+Token: ' One' (ID: 3776), Prob: 0.0002
+Token: ' Unlike' (ID: 26048), Prob: 0.0002
+Token: ' Yet' (ID: 14626), Prob: 0.0002
+Token: ' Slow' (ID: 38147), Prob: 0.0002
+Token: ' Sitting' (ID: 83754), Prob: 0.0002
+Token: ' Gl' (ID: 8280), Prob: 0.0002
+Token: ' Despite' (ID: 17715), Prob: 0.0002
+Token: ' Movement' (ID: 27998), Prob: 0.0002
+Token: ' Bes' (ID: 18078), Prob: 0.0002
+Token: ' Off' (ID: 4114), Prob: 0.0002
+Token: ' F' (ID: 434), Prob: 0.0002
+Token: ' How' (ID: 2585), Prob: 0.0002
+Token: ' Mist' (ID: 34098), Prob: 0.0002
+Token: ' Shapes' (ID: 61531), Prob: 0.0002
+Token: ' Waves' (ID: 80458), Prob: 0.0002
+Token: ' More' (ID: 4398), Prob: 0.0001
+Token: ' High' (ID: 5124), Prob: 0.0001
+Token: ' Nothing' (ID: 12064), Prob: 0.0001
+Token: ' Instead' (ID: 12090), Prob: 0.0001
+Token: ' Som' (ID: 17564), Prob: 0.0001
+Token: ' Even' (ID: 7418), Prob: 0.0001
+Token: ' I' (ID: 358), Prob: 0.0001
+Token: ' D' (ID: 422), Prob: 0.0001
+Token: ' No' (ID: 2308), Prob: 0.0001
+Token: ' By' (ID: 3216), Prob: 0.0001
+Token: ' Every' (ID: 7209), Prob: 0.0001
+Token: ' Only' (ID: 8278), Prob: 0.0001
+Token: ' Care' (ID: 10627), Prob: 0.0001
+Token: ' Further' (ID: 15533), Prob: 0.0001
+Token: ' Without' (ID: 17147), Prob: 0.0001
+Token: ' Strange' (ID: 42593), Prob: 0.0001
+
+== Ranked Concepts (Clusters) ==
+Rank 1 | Centroid: ' This' | Score: 0.4785
+  Tokens: [' It', ' The', ' There', ' What', ' That', ' This', ' When', ' Then', ' How']
+Rank 2 | Centroid: ' A' | Score: 0.2617
+  Tokens: [' A', ' An', ' Sh', ' F', ' I', ' D']
+Rank 3 | Centroid: ' He' | Score: 0.0850
+  Tokens: [' He', ' His']
+Rank 4 | Centroid: ' For' | Score: 0.0366
+  Tokens: [' In', ' For', ' At', ' As', ' On', ' With', ' From', ' To', ' By']
+Rank 5 | Centroid: ' Nothing' | Score: 0.0294
+  Tokens: [' Something', ' Nothing', ' Every', ' Only']
+Rank 6 | Centroid: ' Below' | Score: 0.0090
+  Tokens: [' Behind', ' Beyond', ' Bene', ' Above', ' Below', ' Bes']
+Rank 7 | Centroid: ' And' | Score: 0.0069
+  Tokens: [' And', ' But']
+Rank 8 | Centroid: ' Not' | Score: 0.0053
+  Tokens: [' Not', ' Just', ' More', ' No']
+Rank 9 | Centroid: ' After' | Score: 0.0049
+  Tokens: [' Between', ' Among', ' Before', ' Against', ' Across', ' Through', ' After', ' Around', ' Without']
+Rank 10 | Centroid: ' Could' | Score: 0.0038
+  Tokens: [' Could', ' Was']
+Rank 11 | Centroid: ' Sitting' | Score: 0.0028
+  Tokens: [' Standing', ' Rising', ' Sitting']
+Rank 12 | Centroid: ' Out' | Score: 0.0025
+  Tokens: [' Out', ' Up', ' Over', ' Off']
+Rank 13 | Centroid: ' Two' | Score: 0.0012
+  Tokens: [' Two', ' Three', ' One']
+Rank 14 | Centroid: ' Care' | Score: 0.0009
+  Tokens: [' Far', ' Slow', ' Mist', ' Care']
+Rank 15 | Centroid: ' Despite' | Score: 0.0009
+  Tokens: [' Though', ' Unlike', ' Despite', ' Instead']
+Rank 16 | Centroid: ' Shadows' | Score: 0.0008
+  Tokens: [' Shadows', ' Shapes', ' Waves']
+Rank 17 | Centroid: ' Moving' | Score: 0.0008
+  Tokens: [' Moving', ' Movement']
+Rank 18 | Centroid: ' Small' | Score: 0.0006
+  Tokens: [' Small', ' Som', ' Strange']
+Rank 19 | Centroid: ' Tonight' | Score: 0.0005
+  Tokens: [' Tonight']
+Rank 20 | Centroid: ' Tall' | Score: 0.0004
+  Tokens: [' Tall', ' High']
+Rank 21 | Centroid: ' Even' | Score: 0.0004
+  Tokens: [' Yet', ' Even', ' Further']
+Rank 22 | Centroid: ' Cur' | Score: 0.0004
+  Tokens: [' Cur', ' Gl']
+
+**Chosen Concept:** Rank 1

@@ -1,142 +1,146 @@
 --- Step 5 Log ---
 
 == Filtered Candidates ==
-Token: ' poet' (ID: 39260), Prob: 0.1030
-Token: ' author' (ID: 3150), Prob: 0.0708
-Token: ' moral' (ID: 15659), Prob: 0.0625
-Token: ' poems' (ID: 44219), Prob: 0.0552
-Token: ' reader' (ID: 6604), Prob: 0.0334
-Token: ' life' (ID: 2272), Prob: 0.0261
-Token: ' Chinese' (ID: 8453), Prob: 0.0231
-Token: ' historical' (ID: 13656), Prob: 0.0204
-Token: ' poetry' (ID: 31249), Prob: 0.0179
-Token: ' traditional' (ID: 8606), Prob: 0.0140
-Token: ' poem' (ID: 32794), Prob: 0.0123
-Token: ' interpretation' (ID: 22845), Prob: 0.0109
-Token: ' literary' (ID: 31365), Prob: 0.0109
-Token: ' work' (ID: 975), Prob: 0.0066
-Token: ' most' (ID: 1429), Prob: 0.0066
-Token: ' morality' (ID: 44551), Prob: 0.0066
-Token: ' majority' (ID: 8686), Prob: 0.0058
-Token: ' critical' (ID: 9023), Prob: 0.0058
-Token: ' poetic' (ID: 75434), Prob: 0.0058
-Token: ' focus' (ID: 5244), Prob: 0.0051
-Token: ' bi' (ID: 6032), Prob: 0.0051
-Token: ' value' (ID: 897), Prob: 0.0045
-Token: ' tradition' (ID: 13815), Prob: 0.0045
-Token: ' Conf' (ID: 14974), Prob: 0.0045
-Token: ' emphasis' (ID: 24654), Prob: 0.0040
-Token: ' poets' (ID: 72972), Prob: 0.0040
-Token: ' original' (ID: 4024), Prob: 0.0035
-Token: ' works' (ID: 4278), Prob: 0.0035
-Token: ' political' (ID: 4948), Prob: 0.0035
-Token: ' purpose' (ID: 7428), Prob: 0.0035
-Token: ' time' (ID: 882), Prob: 0.0031
-Token: ' main' (ID: 1887), Prob: 0.0031
-Token: ' context' (ID: 2266), Prob: 0.0031
-Token: ' close' (ID: 3265), Prob: 0.0031
-Token: ' meaning' (ID: 7290), Prob: 0.0031
-Token: ' themes' (ID: 21386), Prob: 0.0031
-Token: ' texts' (ID: 21984), Prob: 0.0031
-Token: ' biography' (ID: 47245), Prob: 0.0031
-Token: ' person' (ID: 1697), Prob: 0.0027
-Token: ' primary' (ID: 6028), Prob: 0.0027
-Token: ' analysis' (ID: 6358), Prob: 0.0027
-Token: ' practice' (ID: 6588), Prob: 0.0027
-Token: ' central' (ID: 8622), Prob: 0.0027
-Token: ' critic' (ID: 9741), Prob: 0.0027
-Token: ' audience' (ID: 10650), Prob: 0.0027
-Token: ' readers' (ID: 12726), Prob: 0.0027
-Token: ' first' (ID: 1156), Prob: 0.0024
-Token: ' people' (ID: 1251), Prob: 0.0024
-Token: ' two' (ID: 1378), Prob: 0.0024
-Token: ' social' (ID: 3590), Prob: 0.0024
-Token: ' subject' (ID: 3832), Prob: 0.0024
-Token: ' history' (ID: 3840), Prob: 0.0024
-Token: ' early' (ID: 4124), Prob: 0.0024
-Token: ' intent' (ID: 7385), Prob: 0.0024
-Token: ' artist' (ID: 10049), Prob: 0.0024
-Token: ' Po' (ID: 13808), Prob: 0.0024
-Token: ' integrity' (ID: 16614), Prob: 0.0024
-Token: ' classical' (ID: 28824), Prob: 0.0024
-Token: ' historian' (ID: 42968), Prob: 0.0024
-Token: ' more' (ID: 803), Prob: 0.0021
-Token: ' text' (ID: 1467), Prob: 0.0021
-Token: ' major' (ID: 3598), Prob: 0.0021
-Token: ' nature' (ID: 6993), Prob: 0.0021
-Token: ' function' (ID: 729), Prob: 0.0019
-Token: ' way' (ID: 1616), Prob: 0.0019
-Token: ' authors' (ID: 12014), Prob: 0.0019
-Token: ' importance' (ID: 12650), Prob: 0.0019
-Token: ' emotional' (ID: 14269), Prob: 0.0019
-Token: ' intention' (ID: 14602), Prob: 0.0019
-Token: ' critics' (ID: 22698), Prob: 0.0019
-Token: ' line' (ID: 1555), Prob: 0.0017
-Token: ' style' (ID: 1707), Prob: 0.0017
-Token: ' real' (ID: 1931), Prob: 0.0017
-Token: ' art' (ID: 1947), Prob: 0.0017
-Token: ' great' (ID: 2244), Prob: 0.0017
-Token: ' idea' (ID: 4522), Prob: 0.0017
-Token: ' concern' (ID: 4643), Prob: 0.0017
-Token: ' modern' (ID: 6481), Prob: 0.0017
-Token: ' theme' (ID: 6912), Prob: 0.0017
-Token: ' influence' (ID: 10173), Prob: 0.0017
-Token: ' artistic' (ID: 31592), Prob: 0.0017
-Token: ' authenticity' (ID: 53248), Prob: 0.0017
-Token: ' interpretations' (ID: 57589), Prob: 0.0017
-Token: ' study' (ID: 3920), Prob: 0.0015
-Token: ' reading' (ID: 5290), Prob: 0.0015
-Token: ' criticism' (ID: 18817), Prob: 0.0015
-Token: ' use' (ID: 990), Prob: 0.0014
-Token: ' later' (ID: 2937), Prob: 0.0014
-Token: ' core' (ID: 6200), Prob: 0.0014
-Token: ' lives' (ID: 6305), Prob: 0.0014
-Token: ' cultural' (ID: 12752), Prob: 0.0014
-Token: ' scholar' (ID: 18145), Prob: 0.0014
-Token: ' verses' (ID: 49299), Prob: 0.0014
-Token: ' aesthetic' (ID: 36537), Prob: 0.0013
-Token: ' reason' (ID: 2874), Prob: 0.0012
-Token: ' collection' (ID: 4426), Prob: 0.0012
-Token: ' relationship' (ID: 5025), Prob: 0.0012
+Token: ' United' (ID: 3639), Prob: 0.1069
+Token: ' answer' (ID: 4226), Prob: 0.0327
+Token: ' president' (ID: 4767), Prob: 0.0288
+Token: ' US' (ID: 2274), Prob: 0.0271
+Token: ' first' (ID: 1156), Prob: 0.0211
+Token: ' person' (ID: 1697), Prob: 0.0175
+Token: ' UN' (ID: 6643), Prob: 0.0175
+Token: ' U' (ID: 547), Prob: 0.0165
+Token: ' former' (ID: 4741), Prob: 0.0145
+Token: ' President' (ID: 4795), Prob: 0.0145
+Token: ' Manhattan' (ID: 28790), Prob: 0.0145
+Token: ' man' (ID: 883), Prob: 0.0136
+Token: ' city' (ID: 3283), Prob: 0.0120
+Token: ' original' (ID: 4024), Prob: 0.0120
+Token: ' one' (ID: 825), Prob: 0.0099
+Token: ' government' (ID: 3033), Prob: 0.0088
+Token: ' British' (ID: 7855), Prob: 0.0078
+Token: ' New' (ID: 1532), Prob: 0.0073
+Token: ' people' (ID: 1251), Prob: 0.0053
+Token: ' Union' (ID: 9145), Prob: 0.0053
+Token: ' House' (ID: 4678), Prob: 0.0050
+Token: ' USA' (ID: 7279), Prob: 0.0050
+Token: ' state' (ID: 1584), Prob: 0.0047
+Token: ' same' (ID: 1852), Prob: 0.0047
+Token: ' French' (ID: 8585), Prob: 0.0044
+Token: ' American' (ID: 3693), Prob: 0.0042
+Token: ' land' (ID: 4268), Prob: 0.0042
+Token: ' mayor' (ID: 16923), Prob: 0.0042
+Token: ' White' (ID: 5807), Prob: 0.0039
+Token: ' German' (ID: 5938), Prob: 0.0039
+Token: ' architect' (ID: 11470), Prob: 0.0039
+Token: ' founder' (ID: 18996), Prob: 0.0039
+Token: ' State' (ID: 3234), Prob: 0.0037
+Token: ' Supreme' (ID: 13506), Prob: 0.0037
+Token: ' country' (ID: 3146), Prob: 0.0034
+Token: ' military' (ID: 6277), Prob: 0.0034
+Token: ' UK' (ID: 6424), Prob: 0.0034
+Token: ' National' (ID: 5055), Prob: 0.0032
+Token: ' Dutch' (ID: 23234), Prob: 0.0029
+Token: ' building' (ID: 4752), Prob: 0.0027
+Token: ' First' (ID: 5512), Prob: 0.0027
+Token: ' People' (ID: 8853), Prob: 0.0027
+Token: ' second' (ID: 2086), Prob: 0.0022
+Token: ' Land' (ID: 11426), Prob: 0.0022
+Token: ' Mayor' (ID: 22093), Prob: 0.0022
+Token: ' location' (ID: 3728), Prob: 0.0021
+Token: ' City' (ID: 4311), Prob: 0.0021
+Token: ' Nixon' (ID: 41626), Prob: 0.0020
+Token: ' Truman' (ID: 79836), Prob: 0.0020
+Token: ' real' (ID: 1931), Prob: 0.0018
+Token: ' federal' (ID: 6775), Prob: 0.0018
+Token: ' Democratic' (ID: 11396), Prob: 0.0017
+Token: ' Statue' (ID: 88575), Prob: 0.0017
+Token: ' two' (ID: 1378), Prob: 0.0016
+Token: ' last' (ID: 1537), Prob: 0.0016
+Token: ' company' (ID: 2813), Prob: 0.0016
+Token: ' Congress' (ID: 7992), Prob: 0.0016
+Token: ' Great' (ID: 8513), Prob: 0.0016
+Token: ' Man' (ID: 2363), Prob: 0.0015
+Token: ' Wall' (ID: 9736), Prob: 0.0015
+Token: ' Federal' (ID: 12137), Prob: 0.0015
+Token: ' name' (ID: 829), Prob: 0.0014
+Token: ' owner' (ID: 6372), Prob: 0.0014
+Token: ' Americans' (ID: 8877), Prob: 0.0014
+Token: ' NY' (ID: 12271), Prob: 0.0014
+Token: ' Soviet' (ID: 19390), Prob: 0.0014
+Token: ' Duke' (ID: 26356), Prob: 0.0014
+Token: ' only' (ID: 1172), Prob: 0.0014
+Token: ' most' (ID: 1429), Prob: 0.0014
+Token: ' Mar' (ID: 2876), Prob: 0.0014
+Token: ' late' (ID: 3309), Prob: 0.0014
+Token: ' North' (ID: 4787), Prob: 0.0014
+Token: ' Washington' (ID: 6515), Prob: 0.0014
+Token: ' director' (ID: 7538), Prob: 0.0014
+Token: ' executive' (ID: 10905), Prob: 0.0014
+Token: ' Empire' (ID: 20448), Prob: 0.0014
+Token: ' day' (ID: 1899), Prob: 0.0013
+Token: ' Department' (ID: 5887), Prob: 0.0013
+Token: ' union' (ID: 11300), Prob: 0.0013
+Token: ' CEO' (ID: 12156), Prob: 0.0013
+Token: ' Berlin' (ID: 19846), Prob: 0.0013
+Token: ' Netherlands' (ID: 25662), Prob: 0.0013
+Token: ' founders' (ID: 47627), Prob: 0.0013
+Token: ' family' (ID: 2997), Prob: 0.0012
+Token: ' South' (ID: 4882), Prob: 0.0012
+Token: ' Secretary' (ID: 12386), Prob: 0.0012
+Token: ' Roman' (ID: 12751), Prob: 0.0012
+Token: ' CIA' (ID: 21474), Prob: 0.0012
+Token: ' inventor' (ID: 70901), Prob: 0.0012
+Token: ' W' (ID: 467), Prob: 0.0011
+Token: ' King' (ID: 6210), Prob: 0.0011
+Token: ' new' (ID: 501), Prob: 0.0011
+Token: ' main' (ID: 1887), Prob: 0.0011
+Token: ' World' (ID: 4337), Prob: 0.0011
+Token: ' Republic' (ID: 5429), Prob: 0.0011
+Token: ' East' (ID: 6326), Prob: 0.0011
+Token: ' leader' (ID: 7653), Prob: 0.0011
 
 == Ranked Concepts (Clusters) ==
-Rank 1 | Centroid: ' poems' | Score: 0.2021
-  Tokens: [' poet', ' poems', ' poetry', ' poem', ' poetic', ' poets', ' Po', ' verses']
-Rank 2 | Centroid: ' moral' | Score: 0.1060
-  Tokens: [' moral', ' Chinese', ' morality', ' Conf', ' political', ' social', ' emotional', ' cultural']
-Rank 3 | Centroid: ' author' | Score: 0.0728
-  Tokens: [' author', ' authors']
-Rank 4 | Centroid: ' people' | Score: 0.0625
-  Tokens: [' life', ' work', ' bi', ' value', ' works', ' time', ' person', ' people', ' function', ' way', ' line', ' use', ' lives']
-Rank 5 | Centroid: ' traditional' | Score: 0.0454
-  Tokens: [' historical', ' traditional', ' tradition', ' history', ' classical', ' modern']
-Rank 6 | Centroid: ' readers' | Score: 0.0405
-  Tokens: [' reader', ' audience', ' readers', ' reading']
-Rank 7 | Centroid: ' two' | Score: 0.0295
-  Tokens: [' most', ' original', ' close', ' first', ' two', ' early', ' more', ' text', ' real', ' great', ' later']
-Rank 8 | Centroid: ' intention' | Score: 0.0199
-  Tokens: [' purpose', ' meaning', ' intent', ' integrity', ' importance', ' intention', ' idea', ' influence', ' reason']
-Rank 9 | Centroid: ' artistic' | Score: 0.0179
-  Tokens: [' literary', ' artist', ' art', ' artistic', ' aesthetic']
-Rank 10 | Centroid: ' main' | Score: 0.0179
-  Tokens: [' majority', ' main', ' primary', ' central', ' major', ' core']
-Rank 11 | Centroid: ' interpretation' | Score: 0.0165
-  Tokens: [' interpretation', ' analysis', ' interpretations', ' collection']
-Rank 12 | Centroid: ' themes' | Score: 0.0156
-  Tokens: [' focus', ' emphasis', ' themes', ' concern', ' theme']
-Rank 13 | Centroid: ' critics' | Score: 0.0120
-  Tokens: [' critical', ' critic', ' critics', ' criticism']
-Rank 14 | Centroid: ' style' | Score: 0.0075
-  Tokens: [' context', ' practice', ' style']
-Rank 15 | Centroid: ' historian' | Score: 0.0069
-  Tokens: [' biography', ' historian', ' scholar']
-Rank 16 | Centroid: ' subject' | Score: 0.0039
-  Tokens: [' subject', ' study']
-Rank 17 | Centroid: ' nature' | Score: 0.0034
-  Tokens: [' nature', ' relationship']
-Rank 18 | Centroid: ' texts' | Score: 0.0031
-  Tokens: [' texts']
-Rank 19 | Centroid: ' authenticity' | Score: 0.0017
-  Tokens: [' authenticity']
+Rank 1 | Centroid: ' US' | Score: 0.1484
+  Tokens: [' United', ' US', ' USA', ' American', ' UK', ' Americans']
+Rank 2 | Centroid: ' two' | Score: 0.0610
+  Tokens: [' answer', ' one', ' same', ' real', ' two', ' name', ' only', ' most', ' Mar', ' late', ' family', ' new', ' main']
+Rank 3 | Centroid: ' first' | Score: 0.0542
+  Tokens: [' first', ' former', ' original', ' First', ' second', ' last']
+Rank 4 | Centroid: ' President' | Score: 0.0508
+  Tokens: [' president', ' President', ' mayor', ' Mayor', ' Secretary']
+Rank 5 | Centroid: ' people' | Score: 0.0405
+  Tokens: [' person', ' man', ' people', ' People', ' Man']
+Rank 6 | Centroid: ' UN' | Score: 0.0339
+  Tokens: [' UN', ' U']
+Rank 7 | Centroid: ' federal' | Score: 0.0238
+  Tokens: [' government', ' state', ' State', ' National', ' federal', ' Federal']
+Rank 8 | Centroid: ' German' | Score: 0.0228
+  Tokens: [' British', ' French', ' German', ' Dutch', ' Soviet', ' Netherlands', ' Roman']
+Rank 9 | Centroid: ' city' | Score: 0.0176
+  Tokens: [' city', ' country', ' City']
+Rank 10 | Centroid: ' founder' | Score: 0.0167
+  Tokens: [' architect', ' founder', ' owner', ' director', ' executive', ' CEO', ' founders', ' inventor', ' leader']
+Rank 11 | Centroid: ' Supreme' | Score: 0.0161
+  Tokens: [' Supreme', ' Nixon', ' Truman', ' Democratic', ' Statue', ' Duke', ' Empire', ' Department', ' Republic']
+Rank 12 | Centroid: ' Manhattan' | Score: 0.0157
+  Tokens: [' Manhattan', ' Berlin']
+Rank 13 | Centroid: ' South' | Score: 0.0117
+  Tokens: [' White', ' Great', ' Wall', ' North', ' South', ' World', ' East']
+Rank 14 | Centroid: ' Land' | Score: 0.0085
+  Tokens: [' land', ' Land', ' location']
+Rank 15 | Centroid: ' New' | Score: 0.0084
+  Tokens: [' New', ' W']
+Rank 16 | Centroid: ' Union' | Score: 0.0066
+  Tokens: [' Union', ' union']
+Rank 17 | Centroid: ' House' | Score: 0.0061
+  Tokens: [' House', ' King']
+Rank 18 | Centroid: ' company' | Score: 0.0056
+  Tokens: [' building', ' company', ' day']
+Rank 19 | Centroid: ' military' | Score: 0.0034
+  Tokens: [' military']
+Rank 20 | Centroid: ' Congress' | Score: 0.0028
+  Tokens: [' Congress', ' CIA']
+Rank 21 | Centroid: ' NY' | Score: 0.0028
+  Tokens: [' NY', ' Washington']
 
 **Chosen Concept:** Rank 1

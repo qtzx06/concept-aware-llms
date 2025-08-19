@@ -1,130 +1,71 @@
 --- Step 17 Log ---
 
 == Filtered Candidates ==
-Token: ' series' (ID: 4013), Prob: 0.9688
-Token: ' drama' (ID: 19584), Prob: 0.0227
-Token: ' comedy' (ID: 22358), Prob: 0.0024
-Token: ' crime' (ID: 9778), Prob: 0.0019
-Token: ' serial' (ID: 6146), Prob: 0.0011
-Token: ' television' (ID: 12425), Prob: 0.0007
-Token: ' show' (ID: 1473), Prob: 0.0004
-Token: ' Series' (ID: 11131), Prob: 0.0004
-Token: ' soap' (ID: 26785), Prob: 0.0004
-Token: ' thriller' (ID: 53361), Prob: 0.0003
-Token: ' variety' (ID: 8045), Prob: 0.0002
-Token: ' feature' (ID: 4565), Prob: 0.0001
-Token: ' sitcom' (ID: 80366), Prob: 0.0001
-Token: ' dramas' (ID: 87726), Prob: 0.0001
-Token: ' TV' (ID: 5883), Prob: 0.0001
-Token: ' documentary' (ID: 24954), Prob: 0.0001
-Token: ' anthology' (ID: 83008), Prob: 0.0001
-Token: ' and' (ID: 323), Prob: 0.0001
-Token: ' police' (ID: 4282), Prob: 0.0000
-Token: ' min' (ID: 1308), Prob: 0.0000
-Token: ' mini' (ID: 13420), Prob: 0.0000
-Token: ' sci' (ID: 37974), Prob: 0.0000
-Token: ' programme' (ID: 18136), Prob: 0.0000
-Token: ' detective' (ID: 44159), Prob: 0.0000
-Token: ' spin' (ID: 12616), Prob: 0.0000
-Token: ' film' (ID: 4531), Prob: 0.0000
-Token: ' legal' (ID: 5777), Prob: 0.0000
-Token: ' franchise' (ID: 19024), Prob: 0.0000
-Token: ' fantasy' (ID: 18378), Prob: 0.0000
-Token: ' serie' (ID: 32878), Prob: 0.0000
-Token: ' sequel' (ID: 34761), Prob: 0.0000
-Token: '-series' (ID: 56332), Prob: 0.0000
-Token: ' daytime' (ID: 61082), Prob: 0.0000
-Token: ' shows' (ID: 4933), Prob: 0.0000
-Token: ' science' (ID: 8038), Prob: 0.0000
-Token: ' horror' (ID: 21452), Prob: 0.0000
-Token: ' mystery' (ID: 22531), Prob: 0.0000
-Token: 'series' (ID: 19880), Prob: 0.0000
-Token: ' prime' (ID: 10250), Prob: 0.0000
-Token: ' political' (ID: 4948), Prob: 0.0000
-Token: ' Drama' (ID: 46469), Prob: 0.0000
-Token: ' sketch' (ID: 25529), Prob: 0.0000
-Token: ' western' (ID: 18494), Prob: 0.0000
-Token: ' adaptation' (ID: 33085), Prob: 0.0000
-Token: '1' (ID: 16), Prob: 0.0000
-Token: ' program' (ID: 2025), Prob: 0.0000
-Token: ' production' (ID: 5670), Prob: 0.0000
-Token: ' venture' (ID: 25191), Prob: 0.0000
-Token: '-Series' (ID: 91731), Prob: 0.0000
-Token: ' The' (ID: 576), Prob: 0.0000
-Token: ' Show' (ID: 6928), Prob: 0.0000
-Token: ' reality' (ID: 8729), Prob: 0.0000
-Token: ' medical' (ID: 6457), Prob: 0.0000
-Token: ' popular' (ID: 5411), Prob: 0.0000
-Token: ' cop' (ID: 6162), Prob: 0.0000
-Token: ' broadcast' (ID: 12899), Prob: 0.0000
-Token: ' Crime' (ID: 23900), Prob: 0.0000
-Token: ' documentaries' (ID: 87366), Prob: 0.0000
-Token: ' radio' (ID: 8887), Prob: 0.0000
-Token: ' Feature' (ID: 19998), Prob: 0.0000
-Token: ' romantic' (ID: 23467), Prob: 0.0000
-Token: ' dramatic' (ID: 21771), Prob: 0.0000
-Token: ' Television' (ID: 40345), Prob: 0.0000
-Token: ' Prime' (ID: 12518), Prob: 0.0000
-Token: ' spy' (ID: 21236), Prob: 0.0000
-Token: ' Scottish' (ID: 26096), Prob: 0.0000
-Token: ' quiz' (ID: 27124), Prob: 0.0000
-Token: ' tv' (ID: 11086), Prob: 0.0000
-Token: ' Channel' (ID: 13434), Prob: 0.0000
-Token: ' televis' (ID: 89965), Prob: 0.0000
-Token: ' based' (ID: 3118), Prob: 0.0000
-Token: ' historical' (ID: 13656), Prob: 0.0000
-Token: ' fiction' (ID: 16989), Prob: 0.0000
-Token: ' Continuing' (ID: 81017), Prob: 0.0000
-Token: ' chat' (ID: 6236), Prob: 0.0000
-Token: ' dr' (ID: 1353), Prob: 0.0000
-Token: ' British' (ID: 7855), Prob: 0.0000
-Token: ' Quiz' (ID: 41148), Prob: 0.0000
-Token: ' Variety' (ID: 70732), Prob: 0.0000
-Token: ' movie' (ID: 5700), Prob: 0.0000
-Token: ' hit' (ID: 4201), Prob: 0.0000
+Token: ' of' (ID: 315), Prob: 0.0000
+Token: ' to' (ID: 311), Prob: 0.0000
+Token: ' and' (ID: 323), Prob: 0.0000
+Token: ' or' (ID: 476), Prob: 0.0000
+Token: ' in' (ID: 304), Prob: 0.0000
+Token: 'us' (ID: 355), Prob: 0.0000
+Token: ' the' (ID: 279), Prob: 0.0000
+Token: ' September' (ID: 6122), Prob: 0.0000
+Token: '\n' (ID: 1699), Prob: 0.0000
+Token: ' for' (ID: 369), Prob: 0.0000
+Token: ' through' (ID: 1526), Prob: 0.0000
+Token: ' August' (ID: 6156), Prob: 0.0000
+Token: ' January' (ID: 6058), Prob: 0.0000
+Token: ' Day' (ID: 6059), Prob: 0.0000
+Token: 'uary' (ID: 3536), Prob: 0.0000
+Token: ' month' (ID: 2254), Prob: 0.0000
+Token: ' February' (ID: 7400), Prob: 0.0000
+Token: ' March' (ID: 5470), Prob: 0.0000
+Token: ' June' (ID: 5534), Prob: 0.0000
+Token: '/A' (ID: 10360), Prob: 0.0000
+Token: '-J' (ID: 12009), Prob: 0.0000
+Token: ' as' (ID: 438), Prob: 0.0000
+Token: ' under' (ID: 1212), Prob: 0.0000
+Token: ' December' (ID: 6652), Prob: 0.0000
+Token: 'ust' (ID: 590), Prob: 0.0000
+Token: ' October' (ID: 6527), Prob: 0.0000
+Token: ' July' (ID: 5768), Prob: 0.0000
+Token: ' day' (ID: 1899), Prob: 0.0000
+Token: ' Year' (ID: 9742), Prob: 0.0000
+Token: ' at' (ID: 518), Prob: 0.0000
+Token: '/F' (ID: 12318), Prob: 0.0000
+Token: ' aboard' (ID: 36506), Prob: 0.0000
+Token: '-May' (ID: 61986), Prob: 0.0000
+Token: ' on' (ID: 389), Prob: 0.0000
+Token: ' with' (ID: 448), Prob: 0.0000
+Token: ' until' (ID: 3080), Prob: 0.0000
+Token: ' April' (ID: 5813), Prob: 0.0000
+Token: ' by' (ID: 553), Prob: 0.0000
+Token: 'au' (ID: 2863), Prob: 0.0000
+Token: ' I' (ID: 358), Prob: 0.0000
 
 == Ranked Concepts (Clusters) ==
-Rank 1 | Centroid: ' series' | Score: 0.9688
-  Tokens: [' series', ' serial', ' Series', ' serie', '-series', 'series', '-Series']
-Rank 2 | Centroid: ' drama' | Score: 0.0228
-  Tokens: [' drama', ' dramas', ' Drama', ' dramatic']
-Rank 3 | Centroid: ' fantasy' | Score: 0.0027
-  Tokens: [' comedy', ' thriller', ' fantasy', ' horror', ' mystery', ' romantic', ' fiction']
-Rank 4 | Centroid: ' crime' | Score: 0.0019
-  Tokens: [' crime', ' police', ' detective', ' Crime', ' spy']
-Rank 5 | Centroid: ' television' | Score: 0.0008
-  Tokens: [' television', ' TV', ' broadcast', ' radio', ' Television', ' tv', ' televis']
-Rank 6 | Centroid: ' soap' | Score: 0.0005
-  Tokens: [' soap', ' sitcom']
-Rank 7 | Centroid: ' show' | Score: 0.0004
-  Tokens: [' show', ' shows', ' Show']
-Rank 8 | Centroid: ' variety' | Score: 0.0002
-  Tokens: [' variety', ' Variety']
-Rank 9 | Centroid: ' The' | Score: 0.0001
-  Tokens: [' and', ' min', ' mini', ' legal', ' political', '1', ' production', ' The', ' medical', ' popular', ' based', ' historical', ' dr', ' British', ' hit']
-Rank 10 | Centroid: ' feature' | Score: 0.0001
-  Tokens: [' feature', ' Feature']
-Rank 11 | Centroid: ' documentary' | Score: 0.0001
-  Tokens: [' documentary', ' film', ' documentaries', ' movie']
-Rank 12 | Centroid: ' anthology' | Score: 0.0001
-  Tokens: [' anthology', ' franchise', ' sequel']
-Rank 13 | Centroid: ' science' | Score: 0.0000
-  Tokens: [' sci', ' science', ' reality']
-Rank 14 | Centroid: ' quiz' | Score: 0.0000
-  Tokens: [' spin', ' venture', ' quiz', ' Quiz']
-Rank 15 | Centroid: ' programme' | Score: 0.0000
-  Tokens: [' programme', ' program']
-Rank 16 | Centroid: ' Scottish' | Score: 0.0000
-  Tokens: [' daytime', ' Scottish', ' Continuing']
-Rank 17 | Centroid: ' western' | Score: 0.0000
-  Tokens: [' western', ' adaptation']
-Rank 18 | Centroid: ' prime' | Score: 0.0000
-  Tokens: [' prime', ' Prime']
-Rank 19 | Centroid: ' sketch' | Score: 0.0000
-  Tokens: [' sketch']
-Rank 20 | Centroid: ' cop' | Score: 0.0000
-  Tokens: [' cop', ' chat']
-Rank 21 | Centroid: ' Channel' | Score: 0.0000
-  Tokens: [' Channel']
+Rank 1 | Centroid: ' in' | Score: 0.0002
+  Tokens: [' of', ' to', ' and', ' or', ' in', ' the', ' for', ' as', ' at', ' on', ' with', ' by', ' I']
+Rank 2 | Centroid: ' July' | Score: 0.0000
+  Tokens: [' September', ' August', ' January', ' February', ' March', ' June', ' December', ' October', ' July', ' April']
+Rank 3 | Centroid: 'us' | Score: 0.0000
+  Tokens: ['us', 'ust']
+Rank 4 | Centroid: ' Day' | Score: 0.0000
+  Tokens: [' Day', ' month', ' day', ' Year']
+Rank 5 | Centroid: ' through' | Score: 0.0000
+  Tokens: [' through', ' under']
+Rank 6 | Centroid: '\n' | Score: 0.0000
+  Tokens: ['\\n']
+Rank 7 | Centroid: '/A' | Score: 0.0000
+  Tokens: ['/A', '/F']
+Rank 8 | Centroid: '-J' | Score: 0.0000
+  Tokens: ['-J', '-May']
+Rank 9 | Centroid: 'uary' | Score: 0.0000
+  Tokens: ['uary']
+Rank 10 | Centroid: ' aboard' | Score: 0.0000
+  Tokens: [' aboard']
+Rank 11 | Centroid: ' until' | Score: 0.0000
+  Tokens: [' until']
+Rank 12 | Centroid: 'au' | Score: 0.0000
+  Tokens: ['au']
 
 **Chosen Concept:** Rank 1

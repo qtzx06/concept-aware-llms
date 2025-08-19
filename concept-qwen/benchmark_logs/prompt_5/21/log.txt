@@ -1,113 +1,124 @@
 --- Step 21 Log ---
 
 == Filtered Candidates ==
-Token: ' the' (ID: 279), Prob: 0.0698
-Token: ' a' (ID: 264), Prob: 0.0374
-Token: ' March' (ID: 5470), Prob: 0.0045
-Token: ' January' (ID: 6058), Prob: 0.0035
-Token: ' April' (ID: 5813), Prob: 0.0027
-Token: ' May' (ID: 3217), Prob: 0.0024
-Token: ' July' (ID: 5768), Prob: 0.0024
-Token: ' an' (ID: 458), Prob: 0.0021
-Token: ' addition' (ID: 5256), Prob: 0.0021
-Token: ' that' (ID: 429), Prob: 0.0019
-Token: ' June' (ID: 5534), Prob: 0.0019
-Token: ' November' (ID: 6702), Prob: 0.0019
-Token: ' his' (ID: 806), Prob: 0.0014
-Token: ' September' (ID: 6122), Prob: 0.0014
-Token: ' August' (ID: 6156), Prob: 0.0014
-Token: ' December' (ID: 6652), Prob: 0.0014
-Token: ' another' (ID: 2441), Prob: 0.0013
-Token: ' October' (ID: 6527), Prob: 0.0013
-Token: ' February' (ID: 7400), Prob: 0.0013
-Token: ' late' (ID: 3309), Prob: 0.0010
-Token: ' this' (ID: 419), Prob: 0.0009
-Token: ' early' (ID: 4124), Prob: 0.0009
-Token: ' which' (ID: 892), Prob: 0.0002
-Token: ' one' (ID: 825), Prob: 0.0002
-Token: ' later' (ID: 2937), Prob: 0.0001
-Token: ' The' (ID: 576), Prob: 0.0001
-Token: ' what' (ID: 1128), Prob: 0.0001
-Token: ' summer' (ID: 7324), Prob: 0.0001
-Token: ' mid' (ID: 5099), Prob: 0.0001
-Token: ' autumn' (ID: 41674), Prob: 0.0001
-Token: ' London' (ID: 7148), Prob: 0.0000
-Token: ' its' (ID: 1181), Prob: 0.0000
-Token: ' spring' (ID: 10464), Prob: 0.0000
-Token: ' BBC' (ID: 18096), Prob: 0.0000
-Token: ' other' (ID: 1008), Prob: 0.0000
-Token: ' some' (ID: 1045), Prob: 0.0000
-Token: ' response' (ID: 2033), Prob: 0.0000
-Token: ' Spring' (ID: 12252), Prob: 0.0000
-Token: ' contrast' (ID: 12872), Prob: 0.0000
-Token: ' B' (ID: 425), Prob: 0.0000
-Token: ' more' (ID: 803), Prob: 0.0000
-Token: ' her' (ID: 1059), Prob: 0.0000
-Token: ' order' (ID: 1973), Prob: 0.0000
-Token: ' recent' (ID: 3213), Prob: 0.0000
-Token: '2' (ID: 17), Prob: 0.0000
-Token: ' A' (ID: 362), Prob: 0.0000
-Token: ' fact' (ID: 2097), Prob: 0.0000
-Token: ' British' (ID: 7855), Prob: 0.0000
-Token: ' Britain' (ID: 13224), Prob: 0.0000
-Token: ' their' (ID: 862), Prob: 0.0000
-Token: ' and' (ID: 323), Prob: 0.0000
+Token: ' tenth' (ID: 55666), Prob: 0.9766
+Token: ' second' (ID: 2086), Prob: 0.0035
+Token: ' ninth' (ID: 42541), Prob: 0.0027
+Token: ' twentieth' (ID: 61420), Prob: 0.0024
+Token: ' ten' (ID: 5779), Prob: 0.0023
+Token: ' first' (ID: 1156), Prob: 0.0019
+Token: ' eighth' (ID: 36377), Prob: 0.0010
+Token: ' third' (ID: 4843), Prob: 0.0009
+Token: ' fourth' (ID: 11737), Prob: 0.0009
+Token: ' sixth' (ID: 25031), Prob: 0.0009
+Token: ' fifth' (ID: 17702), Prob: 0.0004
+Token: ' tw' (ID: 4384), Prob: 0.0003
+Token: ' nineteenth' (ID: 64989), Prob: 0.0002
+Token: ' seventh' (ID: 30387), Prob: 0.0002
+Token: ' tent' (ID: 15632), Prob: 0.0001
+Token: ' hundred' (ID: 7739), Prob: 0.0001
+Token: ' October' (ID: 6527), Prob: 0.0001
+Token: ' twenty' (ID: 17073), Prob: 0.0001
+Token: ' ele' (ID: 10510), Prob: 0.0000
+Token: ' eight' (ID: 8063), Prob: 0.0000
+Token: ' th' (ID: 270), Prob: 0.0000
+Token: ' one' (ID: 825), Prob: 0.0000
+Token: ' forth' (ID: 13241), Prob: 0.0000
+Token: ' the' (ID: 279), Prob: 0.0000
 Token: ' two' (ID: 1378), Prob: 0.0000
-Token: ' these' (ID: 1493), Prob: 0.0000
-Token: ' both' (ID: 2176), Prob: 0.0000
-Token: ' subsequent' (ID: 17420), Prob: 0.0000
-Token: ' collaboration' (ID: 20031), Prob: 0.0000
-Token: ' England' (ID: 9448), Prob: 0.0000
-Token: ' television' (ID: 12425), Prob: 0.0000
-Token: ' interviews' (ID: 19344), Prob: 0.0000
-Token: ' earlier' (ID: 6788), Prob: 0.0000
-Token: ' fall' (ID: 4399), Prob: 0.0000
-Token: ' spite' (ID: 33681), Prob: 0.0000
-Token: ' around' (ID: 2163), Prob: 0.0000
-Token: ' terms' (ID: 3793), Prob: 0.0000
-Token: ' France' (ID: 9625), Prob: 0.0000
-Token: ' between' (ID: 1948), Prob: 0.0000
-Token: ' turn' (ID: 2484), Prob: 0.0000
-Token: ' each' (ID: 1817), Prob: 0.0000
-Token: ' doing' (ID: 3730), Prob: 0.0000
-Token: ' Australia' (ID: 8330), Prob: 0.0000
-Token: ' recognition' (ID: 17843), Prob: 0.0000
-Token: ' Autumn' (ID: 59802), Prob: 0.0000
-Token: ' Q' (ID: 1207), Prob: 0.0000
-Token: ' particular' (ID: 3953), Prob: 0.0000
-Token: ' Summer' (ID: 18836), Prob: 0.0000
-Token: ' about' (ID: 911), Prob: 0.0000
-Token: ' Europe' (ID: 4505), Prob: 0.0000
-Token: ' Canada' (ID: 6864), Prob: 0.0000
-Token: ' twenty' (ID: 17073), Prob: 0.0000
-Token: ' all' (ID: 678), Prob: 0.0000
+Token: ' nine' (ID: 11627), Prob: 0.0000
+Token: ' tens' (ID: 22008), Prob: 0.0000
+Token: ' six' (ID: 4743), Prob: 0.0000
+Token: ' fif' (ID: 11128), Prob: 0.0000
+Token: ' nth' (ID: 55129), Prob: 0.0000
+Token: ' t' (ID: 259), Prob: 0.0000
+Token: ' decade' (ID: 13212), Prob: 0.0000
+Token: ' other' (ID: 1008), Prob: 0.0000
+Token: ' twelve' (ID: 29235), Prob: 0.0000
+Token: ' T' (ID: 350), Prob: 0.0000
+Token: ' thousand' (ID: 16183), Prob: 0.0000
+Token: ' same' (ID: 1852), Prob: 0.0000
+Token: ' Ninth' (ID: 85758), Prob: 0.0000
+Token: ' sevent' (ID: 21373), Prob: 0.0000
+Token: ' next' (ID: 1790), Prob: 0.0000
+Token: ' month' (ID: 2254), Prob: 0.0000
+Token: ' to' (ID: 311), Prob: 0.0000
+Token: ' last' (ID: 1537), Prob: 0.0000
+Token: ' zero' (ID: 7168), Prob: 0.0000
+Token: ' three' (ID: 2326), Prob: 0.0000
+Token: ' Ten' (ID: 17695), Prob: 0.0000
+Token: ' four' (ID: 3040), Prob: 0.0000
+Token: ' oct' (ID: 18491), Prob: 0.0000
+Token: ' eleven' (ID: 44214), Prob: 0.0000
+Token: ' Eighth' (ID: 96488), Prob: 0.0000
+Token: ' number' (ID: 1372), Prob: 0.0000
+Token: ' once' (ID: 3055), Prob: 0.0000
+Token: ' seven' (ID: 8094), Prob: 0.0000
+Token: ' thirty' (ID: 26127), Prob: 0.0000
+Token: ' only' (ID: 1172), Prob: 0.0000
+Token: ' dot' (ID: 12756), Prob: 0.0000
+Token: ' day' (ID: 1899), Prob: 0.0000
+Token: ' single' (ID: 3175), Prob: 0.0000
+Token: ' of' (ID: 315), Prob: 0.0000
+Token: ' and' (ID: 323), Prob: 0.0000
+Token: ' total' (ID: 2790), Prob: 0.0000
+Token: ' five' (ID: 4236), Prob: 0.0000
+Token: ' new' (ID: 501), Prob: 0.0000
+Token: ' half' (ID: 4279), Prob: 0.0000
+Token: ' thirteen' (ID: 60659), Prob: 0.0000
+Token: ' latest' (ID: 5535), Prob: 0.0000
+Token: ' beginning' (ID: 7167), Prob: 0.0000
+Token: ' quarter' (ID: 8338), Prob: 0.0000
+Token: ' Second' (ID: 10440), Prob: 0.0000
+Token: ' twice' (ID: 10917), Prob: 0.0000
+Token: ' year' (ID: 1042), Prob: 0.0000
+Token: ' top' (ID: 1909), Prob: 0.0000
+Token: ' First' (ID: 5512), Prob: 0.0000
+Token: ' teen' (ID: 9378), Prob: 0.0000
+Token: 'teenth' (ID: 45387), Prob: 0.0000
+Token: ' sixteen' (ID: 58039), Prob: 0.0000
+Token: ' list' (ID: 1140), Prob: 0.0000
+Token: ' octave' (ID: 73932), Prob: 0.0000
+Token: ' tot' (ID: 2401), Prob: 0.0000
+Token: ' Third' (ID: 20861), Prob: 0.0000
+Token: ' twenties' (ID: 96596), Prob: 0.0000
+Token: ' nineteen' (ID: 93835), Prob: 0.0000
+Token: '-t' (ID: 2385), Prob: 0.0000
 
 == Ranked Concepts (Clusters) ==
-Rank 1 | Centroid: ' the' | Score: 0.1123
-  Tokens: [' the', ' a', ' an', ' that', ' this', ' which', ' one', ' what', ' some', ' more', ' two', ' these', ' both', ' each', ' all']
-Rank 2 | Centroid: ' February' | Score: 0.0261
-  Tokens: [' March', ' January', ' April', ' May', ' July', ' June', ' November', ' September', ' August', ' December', ' October', ' February']
-Rank 3 | Centroid: ' addition' | Score: 0.0022
-  Tokens: [' addition', ' response', ' contrast', ' order', ' fact', ' spite', ' terms', ' doing']
-Rank 4 | Centroid: ' late' | Score: 0.0019
-  Tokens: [' late', ' early', ' mid']
-Rank 5 | Centroid: ' their' | Score: 0.0015
-  Tokens: [' his', ' its', ' her', ' their']
-Rank 6 | Centroid: ' another' | Score: 0.0013
-  Tokens: [' another', ' other']
-Rank 7 | Centroid: ' autumn' | Score: 0.0002
-  Tokens: [' summer', ' autumn', ' spring', ' Spring', ' fall', ' Autumn', ' Summer']
-Rank 8 | Centroid: ' A' | Score: 0.0002
-  Tokens: [' The', ' B', '2', ' A', ' and', ' Q']
-Rank 9 | Centroid: ' subsequent' | Score: 0.0002
-  Tokens: [' later', ' recent', ' subsequent', ' earlier']
-Rank 10 | Centroid: ' Britain' | Score: 0.0001
-  Tokens: [' London', ' British', ' Britain', ' England', ' France', ' Australia', ' Europe', ' Canada']
-Rank 11 | Centroid: ' twenty' | Score: 0.0001
-  Tokens: [' collaboration', ' television', ' interviews', ' turn', ' recognition', ' particular', ' twenty']
-Rank 12 | Centroid: ' BBC' | Score: 0.0000
-  Tokens: [' BBC']
-Rank 13 | Centroid: ' around' | Score: 0.0000
-  Tokens: [' around', ' between', ' about']
+Rank 1 | Centroid: ' eighth' | Score: 0.9844
+  Tokens: [' tenth', ' ninth', ' eighth', ' fourth', ' sixth', ' fifth', ' seventh', ' Ninth', ' Eighth']
+Rank 2 | Centroid: ' Second' | Score: 0.0064
+  Tokens: [' second', ' first', ' third', ' Second', ' First', ' Third']
+Rank 3 | Centroid: ' nineteenth' | Score: 0.0027
+  Tokens: [' twentieth', ' nineteenth', ' fif', ' sevent', 'teenth']
+Rank 4 | Centroid: ' twelve' | Score: 0.0024
+  Tokens: [' ten', ' twenty', ' twelve', ' Ten', ' eleven', ' thirty', ' thirteen', ' sixteen', ' nineteen']
+Rank 5 | Centroid: ' t' | Score: 0.0004
+  Tokens: [' tw', ' th', ' t', ' T', '-t']
+Rank 6 | Centroid: ' hundred' | Score: 0.0002
+  Tokens: [' tent', ' hundred', ' tens', ' thousand']
+Rank 7 | Centroid: ' five' | Score: 0.0001
+  Tokens: [' eight', ' two', ' nine', ' six', ' three', ' four', ' seven', ' five']
+Rank 8 | Centroid: ' the' | Score: 0.0001
+  Tokens: [' one', ' the', ' other', ' to', ' only', ' single', ' of', ' and', ' new']
+Rank 9 | Centroid: ' oct' | Score: 0.0001
+  Tokens: [' October', ' oct', ' octave']
+Rank 10 | Centroid: ' forth' | Score: 0.0001
+  Tokens: [' forth', ' nth']
+Rank 11 | Centroid: ' ele' | Score: 0.0000
+  Tokens: [' ele']
+Rank 12 | Centroid: ' latest' | Score: 0.0000
+  Tokens: [' same', ' next', ' last', ' latest', ' beginning']
+Rank 13 | Centroid: ' month' | Score: 0.0000
+  Tokens: [' decade', ' month', ' day', ' year']
+Rank 14 | Centroid: ' total' | Score: 0.0000
+  Tokens: [' zero', ' number', ' dot', ' total', ' top', ' list', ' tot']
+Rank 15 | Centroid: ' once' | Score: 0.0000
+  Tokens: [' once', ' twice']
+Rank 16 | Centroid: ' half' | Score: 0.0000
+  Tokens: [' half', ' quarter']
+Rank 17 | Centroid: ' teen' | Score: 0.0000
+  Tokens: [' teen', ' twenties']
 
 **Chosen Concept:** Rank 1

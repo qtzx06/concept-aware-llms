@@ -1,139 +1,149 @@
 --- Step 10 Log ---
 
 == Filtered Candidates ==
-Token: ' BBC' (ID: 18096), Prob: 0.1162
-Token: ' television' (ID: 12425), Prob: 0.1025
-Token: ' film' (ID: 4531), Prob: 0.0549
-Token: ' TV' (ID: 5883), Prob: 0.0259
-Token: ' play' (ID: 1486), Prob: 0.0201
-Token: ' UK' (ID: 6424), Prob: 0.0201
-Token: ' episode' (ID: 9234), Prob: 0.0201
-Token: ' series' (ID: 4013), Prob: 0.0157
-Token: ' short' (ID: 2805), Prob: 0.0139
-Token: ' British' (ID: 7855), Prob: 0.0139
-Token: ' drama' (ID: 19584), Prob: 0.0139
-Token: ' London' (ID: 7148), Prob: 0.0122
-Token: ' comedy' (ID: 22358), Prob: 0.0108
-Token: ' first' (ID: 1156), Prob: 0.0095
-Token: ' musical' (ID: 17795), Prob: 0.0074
-Token: ' West' (ID: 4312), Prob: 0.0066
-Token: ' third' (ID: 4843), Prob: 0.0066
-Token: ' second' (ID: 2086), Prob: 0.0058
-Token: ' role' (ID: 3476), Prob: 0.0058
-Token: ' stage' (ID: 6430), Prob: 0.0051
-Token: ' movie' (ID: 5700), Prob: 0.0040
-Token: ' Royal' (ID: 16194), Prob: 0.0040
-Token: ' production' (ID: 5670), Prob: 0.0035
-Token: ' min' (ID: 1308), Prob: 0.0027
-Token: ' fourth' (ID: 11737), Prob: 0.0027
-Token: ' Australian' (ID: 13369), Prob: 0.0027
-Token: ' season' (ID: 3200), Prob: 0.0024
-Token: ' music' (ID: 4627), Prob: 0.0024
-Token: ' National' (ID: 5055), Prob: 0.0024
-Token: ' radio' (ID: 8887), Prob: 0.0024
-Token: ' ITV' (ID: 93355), Prob: 0.0024
-Token: ' sitcom' (ID: 80366), Prob: 0.0021
-Token: ' web' (ID: 3482), Prob: 0.0019
-Token: ' documentary' (ID: 24954), Prob: 0.0019
-Token: ' show' (ID: 1473), Prob: 0.0017
-Token: ' science' (ID: 8038), Prob: 0.0015
-Token: ' mini' (ID: 13420), Prob: 0.0015
-Token: ' charity' (ID: 22846), Prob: 0.0015
-Token: ' fifth' (ID: 17702), Prob: 0.0013
-Token: ' acclaimed' (ID: 48982), Prob: 0.0013
-Token: ' final' (ID: 1590), Prob: 0.0011
-Token: ' feature' (ID: 4565), Prob: 0.0011
-Token: ' theatre' (ID: 33496), Prob: 0.0011
-Token: ' United' (ID: 3639), Prob: 0.0011
-Token: ' medical' (ID: 6457), Prob: 0.0011
-Token: ' sixth' (ID: 25031), Prob: 0.0011
-Token: ' East' (ID: 6326), Prob: 0.0010
-Token: ' American' (ID: 3693), Prob: 0.0009
-Token: ' Play' (ID: 7054), Prob: 0.0009
-Token: ' bi' (ID: 6032), Prob: 0.0009
-Token: ' Channel' (ID: 13434), Prob: 0.0009
-Token: ' Broadway' (ID: 36676), Prob: 0.0009
-Token: ' critically' (ID: 40340), Prob: 0.0007
-Token: ' live' (ID: 3887), Prob: 0.0007
-Token: ' South' (ID: 4882), Prob: 0.0007
-Token: ' films' (ID: 12351), Prob: 0.0007
-Token: ' ABC' (ID: 19360), Prob: 0.0007
-Token: ' HBO' (ID: 42878), Prob: 0.0007
-Token: ' The' (ID: 576), Prob: 0.0006
-Token: ' video' (ID: 2766), Prob: 0.0006
-Token: ' online' (ID: 2860), Prob: 0.0006
-Token: ' hit' (ID: 4201), Prob: 0.0006
-Token: ' cast' (ID: 6311), Prob: 0.0006
-Token: ' Canadian' (ID: 11888), Prob: 0.0006
-Token: ' fictional' (ID: 43582), Prob: 0.0006
-Token: ' new' (ID: 501), Prob: 0.0006
-Token: ' English' (ID: 6364), Prob: 0.0006
-Token: ' international' (ID: 6489), Prob: 0.0006
-Token: ' limited' (ID: 7199), Prob: 0.0006
-Token: ' supporting' (ID: 12613), Prob: 0.0006
-Token: ' Season' (ID: 14263), Prob: 0.0006
-Token: ' pilot' (ID: 17708), Prob: 0.0006
-Token: ' revival' (ID: 56005), Prob: 0.0006
-Token: ' ballet' (ID: 70210), Prob: 0.0006
-Token: ' plays' (ID: 11088), Prob: 0.0005
-Token: ' televised' (ID: 75610), Prob: 0.0005
-Token: ' cult' (ID: 4511), Prob: 0.0005
-Token: ' national' (ID: 5313), Prob: 0.0005
-Token: ' BA' (ID: 33489), Prob: 0.0005
-Token: ' award' (ID: 10084), Prob: 0.0004
-Token: ' programme' (ID: 18136), Prob: 0.0004
-Token: ' horror' (ID: 21452), Prob: 0.0004
-Token: ' Christmas' (ID: 10074), Prob: 0.0004
-Token: ' CBS' (ID: 24029), Prob: 0.0004
-Token: ' H' (ID: 472), Prob: 0.0004
-Token: ' two' (ID: 1378), Prob: 0.0004
-Token: ' New' (ID: 1532), Prob: 0.0004
-Token: ' animated' (ID: 11371), Prob: 0.0004
-Token: ' podcast' (ID: 17711), Prob: 0.0004
-Token: ' Doctor' (ID: 18635), Prob: 0.0004
-Token: ' soap' (ID: 26785), Prob: 0.0004
-Token: ' G' (ID: 479), Prob: 0.0004
-Token: ' children' (ID: 2841), Prob: 0.0004
-Token: ' Manchester' (ID: 19361), Prob: 0.0004
+Token: ' answer' (ID: 4226), Prob: 0.3027
+Token: ' species' (ID: 9419), Prob: 0.1426
+Token: ' rope' (ID: 33420), Prob: 0.0435
+Token: ' fish' (ID: 7640), Prob: 0.0408
+Token: ' name' (ID: 829), Prob: 0.0339
+Token: ' word' (ID: 3409), Prob: 0.0339
+Token: ' question' (ID: 3405), Prob: 0.0205
+Token: ' Rope' (ID: 97896), Prob: 0.0205
+Token: ' two' (ID: 1378), Prob: 0.0150
+Token: ' first' (ID: 1156), Prob: 0.0132
+Token: ' most' (ID: 1429), Prob: 0.0110
+Token: ' term' (ID: 4647), Prob: 0.0110
+Token: ' correct' (ID: 4396), Prob: 0.0091
+Token: ' R' (ID: 431), Prob: 0.0081
+Token: ' names' (ID: 5036), Prob: 0.0071
+Token: ' T' (ID: 350), Prob: 0.0067
+Token: ' number' (ID: 1372), Prob: 0.0067
+Token: ' genus' (ID: 63577), Prob: 0.0049
+Token: ' reason' (ID: 2874), Prob: 0.0046
+Token: ' best' (ID: 1850), Prob: 0.0038
+Token: ' response' (ID: 2033), Prob: 0.0038
+Token: ' only' (ID: 1172), Prob: 0.0036
+Token: ' given' (ID: 2661), Prob: 0.0034
+Token: ' process' (ID: 1882), Prob: 0.0032
+Token: ' words' (ID: 4244), Prob: 0.0032
+Token: ' sentence' (ID: 11652), Prob: 0.0025
+Token: ' Fish' (ID: 16608), Prob: 0.0025
+Token: ' Tie' (ID: 58725), Prob: 0.0025
+Token: ' person' (ID: 1697), Prob: 0.0023
+Token: ' difference' (ID: 6672), Prob: 0.0023
+Token: ' organism' (ID: 46020), Prob: 0.0023
+Token: ' options' (ID: 2606), Prob: 0.0022
+Token: ' more' (ID: 803), Prob: 0.0020
+Token: ' type' (ID: 943), Prob: 0.0020
+Token: ' animal' (ID: 9864), Prob: 0.0020
+Token: ' other' (ID: 1008), Prob: 0.0019
+Token: ' text' (ID: 1467), Prob: 0.0019
+Token: ' specific' (ID: 3151), Prob: 0.0019
+Token: ' common' (ID: 4185), Prob: 0.0019
+Token: ' numbers' (ID: 5109), Prob: 0.0018
+Token: ' statement' (ID: 5114), Prob: 0.0018
+Token: ' scientific' (ID: 12344), Prob: 0.0018
+Token: ' one' (ID: 825), Prob: 0.0017
+Token: ' Ro' (ID: 11830), Prob: 0.0016
+Token: ' information' (ID: 1995), Prob: 0.0015
+Token: ' example' (ID: 3110), Prob: 0.0015
+Token: ' group' (ID: 1874), Prob: 0.0014
+Token: ' color' (ID: 1894), Prob: 0.0014
+Token: ' top' (ID: 1909), Prob: 0.0014
+Token: ' structure' (ID: 5944), Prob: 0.0014
+Token: ' option' (ID: 2999), Prob: 0.0013
+Token: ' connection' (ID: 3633), Prob: 0.0013
+Token: ' short' (ID: 2805), Prob: 0.0012
+Token: ' user' (ID: 1196), Prob: 0.0012
+Token: ' answers' (ID: 11253), Prob: 0.0011
+Token: ' organisms' (ID: 43204), Prob: 0.0011
+Token: ' current' (ID: 1482), Prob: 0.0010
+Token: ' possible' (ID: 3204), Prob: 0.0010
+Token: ' Rh' (ID: 17968), Prob: 0.0010
+Token: ' ropes' (ID: 63946), Prob: 0.0010
+Token: ' To' (ID: 2014), Prob: 0.0010
+Token: ' water' (ID: 3015), Prob: 0.0010
+Token: ' box' (ID: 3745), Prob: 0.0010
+Token: ' whale' (ID: 50019), Prob: 0.0010
+Token: ' main' (ID: 1887), Prob: 0.0009
+Token: ' description' (ID: 4008), Prob: 0.0009
+Token: ' creature' (ID: 17218), Prob: 0.0009
+Token: ' science' (ID: 8038), Prob: 0.0008
+Token: ' cro' (ID: 14093), Prob: 0.0008
+Token: ' phrase' (ID: 17133), Prob: 0.0008
+Token: ' terms' (ID: 3793), Prob: 0.0008
+Token: ' way' (ID: 1616), Prob: 0.0007
+Token: ' product' (ID: 1985), Prob: 0.0007
+Token: ' source' (ID: 2530), Prob: 0.0007
+Token: ' character' (ID: 3668), Prob: 0.0007
+Token: ' category' (ID: 5582), Prob: 0.0007
+Token: ' carp' (ID: 38639), Prob: 0.0007
+Token: ' Reef' (ID: 75936), Prob: 0.0007
+Token: ' same' (ID: 1852), Prob: 0.0007
+Token: ' details' (ID: 3565), Prob: 0.0007
+Token: ' human' (ID: 3738), Prob: 0.0007
+Token: ' comparison' (ID: 12313), Prob: 0.0007
+Token: ' sho' (ID: 71519), Prob: 0.0007
+Token: ' different' (ID: 2155), Prob: 0.0006
+Token: ' story' (ID: 3364), Prob: 0.0006
+Token: ' shortest' (ID: 39143), Prob: 0.0006
+Token: ' list' (ID: 1140), Prob: 0.0006
+Token: ' primary' (ID: 6028), Prob: 0.0006
+Token: ' River' (ID: 10948), Prob: 0.0006
+Token: ' protein' (ID: 12833), Prob: 0.0006
+Token: ' gene' (ID: 14862), Prob: 0.0006
+Token: ' characteristics' (ID: 17452), Prob: 0.0006
+Token: ' reasoning' (ID: 32711), Prob: 0.0006
+Token: ' key' (ID: 1376), Prob: 0.0005
+Token: ' provided' (ID: 3897), Prob: 0.0005
+Token: ' tree' (ID: 4916), Prob: 0.0005
+Token: ' instructions' (ID: 11221), Prob: 0.0005
+Token: ' Span' (ID: 11903), Prob: 0.0005
 
 == Ranked Concepts (Clusters) ==
-Rank 1 | Centroid: ' television' | Score: 0.2500
-  Tokens: [' BBC', ' television', ' TV', ' radio', ' ITV', ' televised']
-Rank 2 | Centroid: ' film' | Score: 0.0620
-  Tokens: [' film', ' movie', ' documentary', ' films', ' video']
-Rank 3 | Centroid: ' British' | Score: 0.0564
-  Tokens: [' UK', ' British', ' London', ' Royal', ' Australian', ' United', ' American', ' Canadian', ' English', ' Manchester']
-Rank 4 | Centroid: ' season' | Score: 0.0396
-  Tokens: [' episode', ' series', ' season', ' Season', ' pilot']
-Rank 5 | Centroid: ' comedy' | Score: 0.0283
-  Tokens: [' drama', ' comedy', ' theatre', ' Broadway', ' fictional', ' ballet', ' horror']
-Rank 6 | Centroid: ' play' | Score: 0.0216
-  Tokens: [' play', ' Play', ' plays']
-Rank 7 | Centroid: ' web' | Score: 0.0194
-  Tokens: [' short', ' web', ' bi', ' live', ' online', ' limited', ' supporting', ' children']
-Rank 8 | Centroid: ' fourth' | Score: 0.0175
-  Tokens: [' third', ' second', ' fourth', ' fifth', ' sixth']
-Rank 9 | Centroid: ' The' | Score: 0.0134
-  Tokens: [' first', ' final', ' The', ' new', ' H', ' two', ' New', ' G']
-Rank 10 | Centroid: ' musical' | Score: 0.0128
-  Tokens: [' musical', ' music', ' science', ' medical', ' animated']
-Rank 11 | Centroid: ' show' | Score: 0.0121
-  Tokens: [' role', ' production', ' show', ' hit', ' cast']
-Rank 12 | Centroid: ' East' | Score: 0.0082
-  Tokens: [' West', ' East', ' South']
-Rank 13 | Centroid: ' acclaimed' | Score: 0.0062
-  Tokens: [' charity', ' acclaimed', ' critically', ' revival', ' cult', ' award', ' programme', ' Doctor', ' soap']
-Rank 14 | Centroid: ' mini' | Score: 0.0053
-  Tokens: [' min', ' mini', ' feature']
-Rank 15 | Centroid: ' stage' | Score: 0.0051
-  Tokens: [' stage']
-Rank 16 | Centroid: ' national' | Score: 0.0035
-  Tokens: [' National', ' international', ' national']
-Rank 17 | Centroid: ' sitcom' | Score: 0.0025
-  Tokens: [' sitcom', ' podcast']
-Rank 18 | Centroid: ' CBS' | Score: 0.0023
-  Tokens: [' ABC', ' HBO', ' BA', ' CBS']
-Rank 19 | Centroid: ' Channel' | Score: 0.0013
-  Tokens: [' Channel', ' Christmas']
+Rank 1 | Centroid: ' answer' | Score: 0.3281
+  Tokens: [' answer', ' question', ' response', ' answers']
+Rank 2 | Centroid: ' organisms' | Score: 0.1553
+  Tokens: [' species', ' genus', ' organism', ' animal', ' organisms', ' creature', ' protein', ' gene']
+Rank 3 | Centroid: ' rope' | Score: 0.0708
+  Tokens: [' rope', ' Rope', ' Tie', ' Ro', ' Rh', ' ropes', ' Span']
+Rank 4 | Centroid: ' To' | Score: 0.0625
+  Tokens: [' two', ' first', ' R', ' T', ' only', ' more', ' other', ' specific', ' common', ' one', ' top', ' current', ' To', ' main', ' same', ' different', ' primary', ' key']
+Rank 5 | Centroid: ' name' | Score: 0.0535
+  Tokens: [' name', ' names', ' number', ' type', ' numbers', ' color', ' list']
+Rank 6 | Centroid: ' Fish' | Score: 0.0476
+  Tokens: [' fish', ' Fish', ' whale', ' cro', ' carp', ' Reef', ' sho', ' River']
+Rank 7 | Centroid: ' words' | Score: 0.0422
+  Tokens: [' word', ' words', ' sentence', ' text', ' phrase']
+Rank 8 | Centroid: ' shortest' | Score: 0.0166
+  Tokens: [' most', ' best', ' short', ' shortest']
+Rank 9 | Centroid: ' term' | Score: 0.0118
+  Tokens: [' term', ' terms']
+Rank 10 | Centroid: ' correct' | Score: 0.0101
+  Tokens: [' correct', ' possible']
+Rank 11 | Centroid: ' reasoning' | Score: 0.0095
+  Tokens: [' reason', ' difference', ' connection', ' comparison', ' reasoning']
+Rank 12 | Centroid: ' person' | Score: 0.0070
+  Tokens: [' person', ' group', ' user', ' product', ' category', ' human']
+Rank 13 | Centroid: ' process' | Score: 0.0046
+  Tokens: [' process', ' way', ' source']
+Rank 14 | Centroid: ' given' | Score: 0.0039
+  Tokens: [' given', ' provided']
+Rank 15 | Centroid: ' characteristics' | Score: 0.0036
+  Tokens: [' structure', ' description', ' character', ' characteristics']
+Rank 16 | Centroid: ' options' | Score: 0.0035
+  Tokens: [' options', ' option']
+Rank 17 | Centroid: ' information' | Score: 0.0027
+  Tokens: [' information', ' details', ' instructions']
+Rank 18 | Centroid: ' scientific' | Score: 0.0026
+  Tokens: [' scientific', ' science']
+Rank 19 | Centroid: ' statement' | Score: 0.0024
+  Tokens: [' statement', ' story']
+Rank 20 | Centroid: ' box' | Score: 0.0015
+  Tokens: [' box', ' tree']
+Rank 21 | Centroid: ' example' | Score: 0.0015
+  Tokens: [' example']
+Rank 22 | Centroid: ' water' | Score: 0.0010
+  Tokens: [' water']
 
 **Chosen Concept:** Rank 1

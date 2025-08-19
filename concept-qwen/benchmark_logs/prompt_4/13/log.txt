@@ -1,0 +1,78 @@
+--- Step 13 Log ---
+
+== Filtered Candidates ==
+Token: ' members' (ID: 3613), Prob: 0.0005
+Token: ' member' (ID: 4462), Prob: 0.0005
+Token: ' tree' (ID: 4916), Prob: 0.0005
+Token: ' group' (ID: 1874), Prob: 0.0002
+Token: ' plan' (ID: 3119), Prob: 0.0002
+Token: ' class' (ID: 536), Prob: 0.0001
+Token: ' of' (ID: 315), Prob: 0.0001
+Token: ' family' (ID: 2997), Prob: 0.0001
+Token: ' center' (ID: 4126), Prob: 0.0001
+Token: ' unit' (ID: 4982), Prob: 0.0001
+Token: ' circle' (ID: 12671), Prob: 0.0001
+Token: ' membership' (ID: 15871), Prob: 0.0001
+Token: ' structure' (ID: 5944), Prob: 0.0000
+Token: ' therapy' (ID: 15069), Prob: 0.0000
+Token: ' size' (ID: 1379), Prob: 0.0000
+Token: ' and' (ID: 323), Prob: 0.0000
+Token: ''s' (ID: 594), Prob: 0.0000
+Token: ' planning' (ID: 9115), Prob: 0.0000
+Token: ' list' (ID: 1140), Prob: 0.0000
+Token: ' book' (ID: 2311), Prob: 0.0000
+Token: ' school' (ID: 2906), Prob: 0.0000
+Token: ' club' (ID: 6335), Prob: 0.0000
+Token: ' assignment' (ID: 16319), Prob: 0.0000
+Token: ' girl' (ID: 3743), Prob: 0.0000
+Token: ' house' (ID: 3753), Prob: 0.0000
+Token: ' mother' (ID: 6554), Prob: 0.0000
+Token: ' plans' (ID: 6649), Prob: 0.0000
+Token: ' birth' (ID: 7194), Prob: 0.0000
+Token: ' farm' (ID: 8785), Prob: 0.0000
+Token: ' planner' (ID: 49711), Prob: 0.0000
+Token: ' board' (ID: 4479), Prob: 0.0000
+Token: ' parents' (ID: 6562), Prob: 0.0000
+Token: ' teacher' (ID: 11079), Prob: 0.0000
+Token: ' garden' (ID: 13551), Prob: 0.0000
+Token: ' doctor' (ID: 10668), Prob: 0.0000
+Token: ' trees' (ID: 12408), Prob: 0.0000
+Token: ' matter' (ID: 4925), Prob: 0.0000
+
+== Ranked Concepts (Clusters) ==
+Rank 1 | Centroid: ' members' | Score: 0.0011
+  Tokens: [' members', ' member', ' membership']
+Rank 2 | Centroid: ' tree' | Score: 0.0005
+  Tokens: [' tree', ' trees']
+Rank 3 | Centroid: ' group' | Score: 0.0003
+  Tokens: [' group', ' class']
+Rank 4 | Centroid: ' and' | Score: 0.0003
+  Tokens: [' of', ' structure', ' size', ' and', "'s"]
+Rank 5 | Centroid: ' planning' | Score: 0.0002
+  Tokens: [' plan', ' planning', ' plans', ' planner']
+Rank 6 | Centroid: ' center' | Score: 0.0002
+  Tokens: [' center', ' circle']
+Rank 7 | Centroid: ' parents' | Score: 0.0001
+  Tokens: [' family', ' mother', ' parents']
+Rank 8 | Centroid: ' teacher' | Score: 0.0001
+  Tokens: [' therapy', ' school', ' teacher', ' doctor']
+Rank 9 | Centroid: ' unit' | Score: 0.0001
+  Tokens: [' unit', ' assignment']
+Rank 10 | Centroid: ' garden' | Score: 0.0001
+  Tokens: [' house', ' farm', ' garden']
+Rank 11 | Centroid: ' list' | Score: 0.0000
+  Tokens: [' list']
+Rank 12 | Centroid: ' book' | Score: 0.0000
+  Tokens: [' book']
+Rank 13 | Centroid: ' club' | Score: 0.0000
+  Tokens: [' club']
+Rank 14 | Centroid: ' girl' | Score: 0.0000
+  Tokens: [' girl']
+Rank 15 | Centroid: ' birth' | Score: 0.0000
+  Tokens: [' birth']
+Rank 16 | Centroid: ' board' | Score: 0.0000
+  Tokens: [' board']
+Rank 17 | Centroid: ' matter' | Score: 0.0000
+  Tokens: [' matter']
+
+**Chosen Concept:** Rank 1

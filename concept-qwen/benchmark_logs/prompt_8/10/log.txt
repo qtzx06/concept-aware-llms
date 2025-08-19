@@ -1,0 +1,126 @@
+--- Step 10 Log ---
+
+== Filtered Candidates ==
+Token: ' States' (ID: 4180), Prob: 0.9922
+Token: ' Nations' (ID: 19140), Prob: 0.0036
+Token: ' State' (ID: 3234), Prob: 0.0017
+Token: ' states' (ID: 5302), Prob: 0.0003
+Token: ' Kingdom' (ID: 15072), Prob: 0.0002
+Token: ' Nation' (ID: 17227), Prob: 0.0001
+Token: 'States' (ID: 23256), Prob: 0.0001
+Token: ' St' (ID: 794), Prob: 0.0001
+Token: ' American' (ID: 3693), Prob: 0.0001
+Token: ' Americans' (ID: 8877), Prob: 0.0000
+Token: ' S' (ID: 328), Prob: 0.0000
+Token: ' Stat' (ID: 12166), Prob: 0.0000
+Token: ' US' (ID: 2274), Prob: 0.0000
+Token: ' America' (ID: 5159), Prob: 0.0000
+Token: ' Star' (ID: 7679), Prob: 0.0000
+Token: ' was' (ID: 572), Prob: 0.0000
+Token: ' state' (ID: 1584), Prob: 0.0000
+Token: ' National' (ID: 5055), Prob: 0.0000
+Token: ' Stars' (ID: 24651), Prob: 0.0000
+Token: ' Supreme' (ID: 13506), Prob: 0.0000
+Token: ' nations' (ID: 16675), Prob: 0.0000
+Token: ' Stock' (ID: 12648), Prob: 0.0000
+Token: ' Republic' (ID: 5429), Prob: 0.0000
+Token: ' United' (ID: 3639), Prob: 0.0000
+Token: ' Services' (ID: 8307), Prob: 0.0000
+Token: ' STATES' (ID: 72900), Prob: 0.0000
+Token: ' Mexican' (ID: 23279), Prob: 0.0000
+Token: ' and' (ID: 323), Prob: 0.0000
+Token: ' Air' (ID: 6553), Prob: 0.0000
+Token: ' Arab' (ID: 10756), Prob: 0.0000
+Token: ' Land' (ID: 11426), Prob: 0.0000
+Token: ' Federation' (ID: 27232), Prob: 0.0000
+Token: ' Airlines' (ID: 34130), Prob: 0.0000
+Token: ' is' (ID: 374), Prob: 0.0000
+Token: ' World' (ID: 4337), Prob: 0.0000
+Token: ' People' (ID: 8853), Prob: 0.0000
+Token: ' Country' (ID: 14106), Prob: 0.0000
+Token: ' Organization' (ID: 20395), Prob: 0.0000
+Token: ' Colors' (ID: 9526), Prob: 0.0000
+Token: ' Women' (ID: 10973), Prob: 0.0000
+Token: ' Mon' (ID: 3128), Prob: 0.0000
+Token: ' Security' (ID: 8234), Prob: 0.0000
+Token: ' stated' (ID: 10982), Prob: 0.0000
+Token: ' Students' (ID: 20173), Prob: 0.0000
+Token: 'State' (ID: 1397), Prob: 0.0000
+Token: ' Food' (ID: 12098), Prob: 0.0000
+Token: ' Service' (ID: 5362), Prob: 0.0000
+Token: ' nation' (ID: 6995), Prob: 0.0000
+Token: ' country' (ID: 3146), Prob: 0.0000
+Token: ' Men' (ID: 11012), Prob: 0.0000
+Token: ' Countries' (ID: 53737), Prob: 0.0000
+Token: ' Federal' (ID: 12137), Prob: 0.0000
+Token: ' Statistics' (ID: 24624), Prob: 0.0000
+Token: ' us' (ID: 601), Prob: 0.0000
+Token: ' Found' (ID: 12315), Prob: 0.0000
+Token: ' Story' (ID: 15106), Prob: 0.0000
+Token: ' Government' (ID: 10212), Prob: 0.0000
+Token: ' Documents' (ID: 44790), Prob: 0.0000
+Token: ' in' (ID: 304), Prob: 0.0000
+Token: ' Empire' (ID: 20448), Prob: 0.0000
+Token: ' Strength' (ID: 31837), Prob: 0.0000
+Token: ' Presidents' (ID: 78639), Prob: 0.0000
+Token: ' N' (ID: 451), Prob: 0.0000
+Token: ' Stream' (ID: 9203), Prob: 0.0000
+Token: ' Squ' (ID: 20084), Prob: 0.0000
+Token: ' Statistical' (ID: 65694), Prob: 0.0000
+Token: ' Un' (ID: 1230), Prob: 0.0000
+Token: ' Student' (ID: 11726), Prob: 0.0000
+Token: ' Syn' (ID: 23153), Prob: 0.0000
+Token: ' King' (ID: 6210), Prob: 0.0000
+Token: ' Sign' (ID: 7075), Prob: 0.0000
+Token: ' Southern' (ID: 16244), Prob: 0.0000
+Token: ' Indian' (ID: 7748), Prob: 0.0000
+Token: ' Press' (ID: 8445), Prob: 0.0000
+Token: ' Secret' (ID: 8599), Prob: 0.0000
+Token: ' Development' (ID: 10816), Prob: 0.0000
+Token: ' African' (ID: 11643), Prob: 0.0000
+Token: ' Fund' (ID: 13190), Prob: 0.0000
+Token: ' Front' (ID: 14902), Prob: 0.0000
+Token: ' Resources' (ID: 16209), Prob: 0.0000
+Token: ' President' (ID: 4795), Prob: 0.0000
+
+== Ranked Concepts (Clusters) ==
+Rank 1 | Centroid: 'States' | Score: 0.9961
+  Tokens: [' States', ' State', ' states', 'States', ' state', ' STATES', 'State']
+Rank 2 | Centroid: ' nations' | Score: 0.0037
+  Tokens: [' Nations', ' Nation', ' National', ' nations', ' Country', ' nation', ' country', ' Countries']
+Rank 3 | Centroid: ' Kingdom' | Score: 0.0002
+  Tokens: [' Kingdom', ' Republic', ' Federation', ' Empire', ' King']
+Rank 4 | Centroid: ' US' | Score: 0.0001
+  Tokens: [' American', ' Americans', ' US', ' America', ' United', ' us']
+Rank 5 | Centroid: ' is' | Score: 0.0001
+  Tokens: [' St', ' S', ' was', ' and', ' is', ' in', ' N', ' Un']
+Rank 6 | Centroid: ' Star' | Score: 0.0000
+  Tokens: [' Star', ' Stars', ' Stock', ' Story']
+Rank 7 | Centroid: ' Statistics' | Score: 0.0000
+  Tokens: [' Stat', ' Statistics', ' Statistical']
+Rank 8 | Centroid: ' Services' | Score: 0.0000
+  Tokens: [' Services', ' Organization', ' Security', ' Service', ' Documents', ' Development', ' Resources']
+Rank 9 | Centroid: ' Supreme' | Score: 0.0000
+  Tokens: [' Supreme', ' Found', ' Secret', ' Fund']
+Rank 10 | Centroid: ' African' | Score: 0.0000
+  Tokens: [' Mexican', ' Arab', ' Southern', ' Indian', ' African']
+Rank 11 | Centroid: ' Air' | Score: 0.0000
+  Tokens: [' Air', ' Land', ' Food', ' Stream']
+Rank 12 | Centroid: ' Students' | Score: 0.0000
+  Tokens: [' People', ' Women', ' Students', ' Men', ' Student']
+Rank 13 | Centroid: ' Airlines' | Score: 0.0000
+  Tokens: [' Airlines', ' Colors']
+Rank 14 | Centroid: ' Squ' | Score: 0.0000
+  Tokens: [' Strength', ' Squ', ' Sign', ' Press']
+Rank 15 | Centroid: ' Mon' | Score: 0.0000
+  Tokens: [' Mon', ' Syn', ' Front']
+Rank 16 | Centroid: ' Federal' | Score: 0.0000
+  Tokens: [' Federal', ' Government']
+Rank 17 | Centroid: ' World' | Score: 0.0000
+  Tokens: [' World']
+Rank 18 | Centroid: ' Presidents' | Score: 0.0000
+  Tokens: [' Presidents', ' President']
+Rank 19 | Centroid: ' stated' | Score: 0.0000
+  Tokens: [' stated']
+
+**Chosen Concept:** Rank 1

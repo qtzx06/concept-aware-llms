@@ -1,141 +1,149 @@
 --- Step 9 Log ---
 
 == Filtered Candidates ==
-Token: ' about' (ID: 911), Prob: 0.3164
-Token: ' a' (ID: 264), Prob: 0.0552
-Token: ' historical' (ID: 13656), Prob: 0.0486
-Token: ' concerned' (ID: 11658), Prob: 0.0295
-Token: ' the' (ID: 279), Prob: 0.0260
-Token: ' expressions' (ID: 23393), Prob: 0.0260
-Token: ' literary' (ID: 31365), Prob: 0.0260
-Token: ' works' (ID: 4278), Prob: 0.0229
-Token: ' of' (ID: 315), Prob: 0.0203
-Token: ' artistic' (ID: 31592), Prob: 0.0179
-Token: ' reflections' (ID: 62751), Prob: 0.0157
-Token: ' moral' (ID: 15659), Prob: 0.0139
-Token: ' an' (ID: 458), Prob: 0.0096
-Token: ' personal' (ID: 4345), Prob: 0.0096
-Token: ' political' (ID: 4948), Prob: 0.0096
-Token: ' written' (ID: 5326), Prob: 0.0096
-Token: ' beautiful' (ID: 6233), Prob: 0.0096
-Token: ' reflective' (ID: 51728), Prob: 0.0085
-Token: ' important' (ID: 2989), Prob: 0.0074
-Token: ' valuable' (ID: 15172), Prob: 0.0066
-Token: ' aesthetic' (ID: 36537), Prob: 0.0066
-Token: ' emotional' (ID: 14269), Prob: 0.0058
-Token: ' rich' (ID: 9080), Prob: 0.0051
-Token: ' records' (ID: 7424), Prob: 0.0045
-Token: ' expressive' (ID: 77123), Prob: 0.0045
-Token: ' filled' (ID: 10199), Prob: 0.0040
-Token: ' deeply' (ID: 17247), Prob: 0.0035
-Token: ' narrative' (ID: 19221), Prob: 0.0035
-Token: ' expressing' (ID: 36710), Prob: 0.0035
-Token: ' descriptive' (ID: 52844), Prob: 0.0035
-Token: ' art' (ID: 1947), Prob: 0.0031
-Token: ' social' (ID: 3590), Prob: 0.0031
-Token: ' historically' (ID: 34801), Prob: 0.0031
-Token: ' reflecting' (ID: 41752), Prob: 0.0031
-Token: ' in' (ID: 304), Prob: 0.0027
-Token: ' for' (ID: 369), Prob: 0.0027
-Token: ' examples' (ID: 10295), Prob: 0.0027
-Token: ' representative' (ID: 18239), Prob: 0.0027
-Token: ' seen' (ID: 3884), Prob: 0.0024
-Token: ' expressed' (ID: 13302), Prob: 0.0024
-Token: ' to' (ID: 311), Prob: 0.0021
-Token: ' full' (ID: 2480), Prob: 0.0021
-Token: ' chron' (ID: 25986), Prob: 0.0021
-Token: ' philosophical' (ID: 40803), Prob: 0.0021
-Token: ' poetic' (ID: 75434), Prob: 0.0021
-Token: ' products' (ID: 3871), Prob: 0.0019
-Token: ' emotionally' (ID: 37583), Prob: 0.0019
-Token: ' poems' (ID: 44219), Prob: 0.0019
-Token: ' significant' (ID: 5089), Prob: 0.0017
-Token: ' well' (ID: 1632), Prob: 0.0015
-Token: ' good' (ID: 1661), Prob: 0.0015
-Token: ' stories' (ID: 7343), Prob: 0.0015
-Token: ' highly' (ID: 7548), Prob: 0.0015
-Token: ' meant' (ID: 8791), Prob: 0.0015
-Token: ' focused' (ID: 10735), Prob: 0.0015
-Token: ' valued' (ID: 32547), Prob: 0.0015
-Token: ' narratives' (ID: 57278), Prob: 0.0015
-Token: ' compositions' (ID: 61544), Prob: 0.0015
-Token: ' autobi' (ID: 67065), Prob: 0.0015
-Token: ' lyr' (ID: 85237), Prob: 0.0015
-Token: ' from' (ID: 504), Prob: 0.0013
-Token: ' bi' (ID: 6032), Prob: 0.0013
-Token: ' considered' (ID: 6509), Prob: 0.0013
-Token: ' forms' (ID: 7586), Prob: 0.0013
-Token: ' composed' (ID: 23415), Prob: 0.0013
-Token: ' regarded' (ID: 26361), Prob: 0.0013
-Token: ' histories' (ID: 52110), Prob: 0.0013
-Token: ' morally' (ID: 56223), Prob: 0.0013
-Token: ' self' (ID: 656), Prob: 0.0011
-Token: ' dep' (ID: 2170), Prob: 0.0011
-Token: ' objects' (ID: 6171), Prob: 0.0011
-Token: ' expression' (ID: 7493), Prob: 0.0011
-Token: ' traditional' (ID: 8606), Prob: 0.0011
-Token: ' critical' (ID: 9023), Prob: 0.0011
-Token: ' creative' (ID: 11521), Prob: 0.0011
-Token: ' recorded' (ID: 12433), Prob: 0.0011
-Token: ' chronic' (ID: 20601), Prob: 0.0011
-Token: ' informative' (ID: 38219), Prob: 0.0011
-Token: ' vivid' (ID: 42020), Prob: 0.0011
-Token: ' representations' (ID: 43613), Prob: 0.0011
-Token: ' depicting' (ID: 59694), Prob: 0.0011
-Token: ' more' (ID: 803), Prob: 0.0010
-Token: ' very' (ID: 1602), Prob: 0.0010
-Token: ' comment' (ID: 3980), Prob: 0.0010
-Token: ' related' (ID: 5435), Prob: 0.0010
-Token: ' powerful' (ID: 7988), Prob: 0.0010
-Token: ' describing' (ID: 22692), Prob: 0.0010
-Token: ' profound' (ID: 27155), Prob: 0.0010
-Token: ' portraits' (ID: 58134), Prob: 0.0010
-Token: ' subject' (ID: 3832), Prob: 0.0009
-Token: ' serious' (ID: 6001), Prob: 0.0009
-Token: ' relevant' (ID: 9760), Prob: 0.0009
-Token: ' cultural' (ID: 12752), Prob: 0.0009
-Token: ' addressed' (ID: 20068), Prob: 0.0009
-Token: ' romantic' (ID: 23467), Prob: 0.0009
-Token: ' aest' (ID: 26816), Prob: 0.0009
-Token: ' politically' (ID: 30105), Prob: 0.0009
-Token: ' on' (ID: 389), Prob: 0.0008
+Token: ' United' (ID: 3639), Prob: 0.5586
+Token: ' answer' (ID: 4226), Prob: 0.0757
+Token: ' UN' (ID: 6643), Prob: 0.0757
+Token: ' US' (ID: 2274), Prob: 0.0588
+Token: ' reason' (ID: 2874), Prob: 0.0315
+Token: ' U' (ID: 547), Prob: 0.0203
+Token: ' question' (ID: 3405), Prob: 0.0203
+Token: ' correct' (ID: 4396), Prob: 0.0062
+Token: ' president' (ID: 4767), Prob: 0.0058
+Token: ' country' (ID: 3146), Prob: 0.0045
+Token: ' location' (ID: 3728), Prob: 0.0042
+Token: ' land' (ID: 4268), Prob: 0.0042
+Token: ' user' (ID: 1196), Prob: 0.0038
+Token: ' statement' (ID: 5114), Prob: 0.0027
+Token: ' reasoning' (ID: 32711), Prob: 0.0027
+Token: ' first' (ID: 1156), Prob: 0.0024
+Token: ' person' (ID: 1697), Prob: 0.0024
+Token: ' President' (ID: 4795), Prob: 0.0021
+Token: ' building' (ID: 4752), Prob: 0.0019
+Token: ' key' (ID: 1376), Prob: 0.0018
+Token: ' USA' (ID: 7279), Prob: 0.0018
+Token: ' process' (ID: 1882), Prob: 0.0017
+Token: ' quote' (ID: 12641), Prob: 0.0016
+Token: ' original' (ID: 4024), Prob: 0.0015
+Token: ' explanation' (ID: 16148), Prob: 0.0015
+Token: ' main' (ID: 1887), Prob: 0.0014
+Token: ' government' (ID: 3033), Prob: 0.0013
+Token: ' headquarters' (ID: 25042), Prob: 0.0013
+Token: ' word' (ID: 3409), Prob: 0.0012
+Token: ' UK' (ID: 6424), Prob: 0.0012
+Token: ' man' (ID: 883), Prob: 0.0011
+Token: ' people' (ID: 1251), Prob: 0.0011
+Token: ' fact' (ID: 2097), Prob: 0.0011
+Token: ' text' (ID: 1467), Prob: 0.0009
+Token: ' story' (ID: 3364), Prob: 0.0009
+Token: ' New' (ID: 1532), Prob: 0.0009
+Token: ' American' (ID: 3693), Prob: 0.0009
+Token: ' city' (ID: 3283), Prob: 0.0008
+Token: ' history' (ID: 3840), Prob: 0.0008
+Token: ' two' (ID: 1378), Prob: 0.0008
+Token: ' Union' (ID: 9145), Prob: 0.0008
+Token: ' leader' (ID: 7653), Prob: 0.0007
+Token: ' one' (ID: 825), Prob: 0.0007
+Token: ' reasons' (ID: 7966), Prob: 0.0007
+Token: ' National' (ID: 5055), Prob: 0.0007
+Token: ' Manhattan' (ID: 28790), Prob: 0.0006
+Token: ' number' (ID: 1372), Prob: 0.0006
+Token: ' un' (ID: 650), Prob: 0.0005
+Token: ' response' (ID: 2033), Prob: 0.0005
+Token: ' term' (ID: 4647), Prob: 0.0005
+Token: ' logic' (ID: 12218), Prob: 0.0005
+Token: ' way' (ID: 1616), Prob: 0.0005
+Token: ' Washington' (ID: 6515), Prob: 0.0005
+Token: ' time' (ID: 882), Prob: 0.0005
+Token: ' administration' (ID: 8567), Prob: 0.0005
+Token: ' NY' (ID: 12271), Prob: 0.0005
+Token: ' list' (ID: 1140), Prob: 0.0004
+Token: ' option' (ID: 2999), Prob: 0.0004
+Token: ' idea' (ID: 4522), Prob: 0.0004
+Token: ' argument' (ID: 5693), Prob: 0.0004
+Token: ' other' (ID: 1008), Prob: 0.0004
+Token: ' only' (ID: 1172), Prob: 0.0004
+Token: ' most' (ID: 1429), Prob: 0.0004
+Token: ' World' (ID: 4337), Prob: 0.0004
+Token: ' development' (ID: 4401), Prob: 0.0004
+Token: ' House' (ID: 4678), Prob: 0.0004
+Token: ' context' (ID: 2266), Prob: 0.0004
+Token: ' article' (ID: 4549), Prob: 0.0004
+Token: ' company' (ID: 2813), Prob: 0.0004
+Token: ' ground' (ID: 4910), Prob: 0.0004
+Token: ' choice' (ID: 5754), Prob: 0.0004
+Token: ' military' (ID: 6277), Prob: 0.0004
+Token: ' British' (ID: 7855), Prob: 0.0004
+Token: ' Americans' (ID: 8877), Prob: 0.0004
+Token: ' presidents' (ID: 46508), Prob: 0.0004
+Token: ' position' (ID: 2309), Prob: 0.0003
+Token: ' HQ' (ID: 45255), Prob: 0.0003
+Token: ' Un' (ID: 1230), Prob: 0.0003
+Token: ' organization' (ID: 7321), Prob: 0.0003
+Token: ' direct' (ID: 2118), Prob: 0.0003
+Token: ' former' (ID: 4741), Prob: 0.0003
+Token: ' Republic' (ID: 5429), Prob: 0.0003
+Token: ' information' (ID: 1995), Prob: 0.0003
+Token: ' Earth' (ID: 9237), Prob: 0.0003
+Token: ' timeline' (ID: 24808), Prob: 0.0003
+Token: ' book' (ID: 2311), Prob: 0.0003
+Token: ' house' (ID: 3753), Prob: 0.0003
+Token: ' structure' (ID: 5944), Prob: 0.0003
+Token: ' People' (ID: 8853), Prob: 0.0003
+Token: ' West' (ID: 4312), Prob: 0.0003
+Token: ' population' (ID: 7042), Prob: 0.0003
+Token: ' logo' (ID: 12426), Prob: 0.0003
+Token: ' second' (ID: 2086), Prob: 0.0002
+Token: ' given' (ID: 2661), Prob: 0.0002
+Token: ' area' (ID: 3082), Prob: 0.0002
+Token: ' war' (ID: 4116), Prob: 0.0002
+Token: ' actual' (ID: 5042), Prob: 0.0002
+Token: ' prime' (ID: 10250), Prob: 0.0002
 
 == Ranked Concepts (Clusters) ==
-Rank 1 | Centroid: ' artistic' | Score: 0.0608
-  Tokens: [' literary', ' artistic', ' aesthetic', ' art', ' philosophical', ' poetic', ' creative', ' cultural', ' aest']
-Rank 2 | Centroid: ' historical' | Score: 0.0542
-  Tokens: [' historical', ' historically', ' histories', ' traditional']
-Rank 3 | Centroid: ' emotional' | Score: 0.0461
-  Tokens: [' moral', ' personal', ' political', ' emotional', ' social', ' emotionally', ' morally', ' politically']
-Rank 4 | Centroid: ' the' | Score: 0.0441
-  Tokens: [' about', ' a', ' the', ' of', ' an', ' in', ' for', ' to', ' from', ' bi', ' self', ' more', ' on']
-Rank 5 | Centroid: ' regarded' | Score: 0.0439
-  Tokens: [' concerned', ' filled', ' seen', ' meant', ' focused', ' valued', ' considered', ' regarded', ' addressed']
-Rank 6 | Centroid: ' expression' | Score: 0.0376
-  Tokens: [' expressions', ' expressive', ' expressing', ' expressed', ' expression']
-Rank 7 | Centroid: ' profound' | Score: 0.0371
-  Tokens: [' beautiful', ' important', ' valuable', ' rich', ' significant', ' good', ' critical', ' vivid', ' powerful', ' profound', ' serious']
-Rank 8 | Centroid: ' composed' | Score: 0.0339
-  Tokens: [' works', ' examples', ' products', ' compositions', ' forms', ' composed', ' dep', ' objects']
-Rank 9 | Centroid: ' reflecting' | Score: 0.0273
-  Tokens: [' reflections', ' reflective', ' reflecting']
-Rank 10 | Centroid: ' written' | Score: 0.0106
-  Tokens: [' written', ' comment']
-Rank 11 | Centroid: ' highly' | Score: 0.0096
-  Tokens: [' deeply', ' full', ' well', ' highly', ' very']
-Rank 12 | Centroid: ' chronic' | Score: 0.0089
-  Tokens: [' records', ' chron', ' recorded', ' chronic']
-Rank 13 | Centroid: ' narratives' | Score: 0.0075
-  Tokens: [' narrative', ' stories', ' narratives', ' portraits']
-Rank 14 | Centroid: ' describing' | Score: 0.0068
-  Tokens: [' descriptive', ' informative', ' depicting', ' describing']
-Rank 15 | Centroid: ' poems' | Score: 0.0057
-  Tokens: [' poems', ' autobi', ' lyr', ' romantic']
-Rank 16 | Centroid: ' representative' | Score: 0.0039
-  Tokens: [' representative', ' representations']
-Rank 17 | Centroid: ' related' | Score: 0.0019
-  Tokens: [' related', ' relevant']
-Rank 18 | Centroid: ' subject' | Score: 0.0009
-  Tokens: [' subject']
+Rank 1 | Centroid: ' US' | Score: 0.6250
+  Tokens: [' United', ' US', ' USA', ' UK', ' American', ' Manhattan', ' Washington', ' NY', ' British', ' Americans', ' West']
+Rank 2 | Centroid: ' answer' | Score: 0.1021
+  Tokens: [' answer', ' question', ' statement', ' quote', ' response', ' option', ' article', ' choice']
+Rank 3 | Centroid: ' Un' | Score: 0.0977
+  Tokens: [' UN', ' U', ' Union', ' un', ' Un']
+Rank 4 | Centroid: ' reasoning' | Score: 0.0354
+  Tokens: [' reason', ' reasoning', ' reasons', ' logic']
+Rank 5 | Centroid: ' two' | Score: 0.0173
+  Tokens: [' correct', ' first', ' key', ' original', ' main', ' two', ' one', ' other', ' only', ' most', ' direct', ' former', ' second', ' given', ' actual']
+Rank 6 | Centroid: ' country' | Score: 0.0106
+  Tokens: [' country', ' land', ' city', ' ground', ' Earth', ' book']
+Rank 7 | Centroid: ' president' | Score: 0.0098
+  Tokens: [' president', ' President', ' leader', ' administration', ' presidents', ' logo']
+Rank 8 | Centroid: ' people' | Score: 0.0086
+  Tokens: [' user', ' person', ' man', ' people', ' People']
+Rank 9 | Centroid: ' location' | Score: 0.0080
+  Tokens: [' location', ' process', ' history', ' context', ' position', ' timeline', ' area']
+Rank 10 | Centroid: ' explanation' | Score: 0.0033
+  Tokens: [' explanation', ' story', ' idea', ' argument']
+Rank 11 | Centroid: ' word' | Score: 0.0027
+  Tokens: [' word', ' text', ' term']
+Rank 12 | Centroid: ' building' | Score: 0.0023
+  Tokens: [' building', ' company']
+Rank 13 | Centroid: ' government' | Score: 0.0017
+  Tokens: [' government', ' military']
+Rank 14 | Centroid: ' headquarters' | Score: 0.0016
+  Tokens: [' headquarters', ' HQ']
+Rank 15 | Centroid: ' fact' | Score: 0.0016
+  Tokens: [' fact', ' way']
+Rank 16 | Centroid: ' organization' | Score: 0.0016
+  Tokens: [' development', ' organization', ' information', ' structure', ' population']
+Rank 17 | Centroid: ' number' | Score: 0.0015
+  Tokens: [' number', ' time', ' list']
+Rank 18 | Centroid: ' National' | Score: 0.0010
+  Tokens: [' National', ' Republic']
+Rank 19 | Centroid: ' New' | Score: 0.0009
+  Tokens: [' New']
+Rank 20 | Centroid: ' House' | Score: 0.0007
+  Tokens: [' House', ' house']
+Rank 21 | Centroid: ' World' | Score: 0.0007
+  Tokens: [' World', ' war']
+Rank 22 | Centroid: ' prime' | Score: 0.0002
+  Tokens: [' prime']
 
 **Chosen Concept:** Rank 1

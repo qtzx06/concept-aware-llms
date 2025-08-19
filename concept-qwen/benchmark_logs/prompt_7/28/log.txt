@@ -1,0 +1,135 @@
+--- Step 28 Log ---
+
+== Filtered Candidates ==
+Token: ' one' (ID: 825), Prob: 0.1650
+Token: ' L' (ID: 444), Prob: 0.1289
+Token: ' called' (ID: 2598), Prob: 0.1001
+Token: ' the' (ID: 279), Prob: 0.0884
+Token: ' named' (ID: 6941), Prob: 0.0884
+Token: ' a' (ID: 264), Prob: 0.0781
+Token: ' known' (ID: 3881), Prob: 0.0688
+Token: ' in' (ID: 304), Prob: 0.0417
+Token: ' an' (ID: 458), Prob: 0.0223
+Token: ' held' (ID: 5644), Prob: 0.0135
+Token: ' famous' (ID: 11245), Prob: 0.0128
+Token: ' considered' (ID: 6509), Prob: 0.0112
+Token: ' large' (ID: 3460), Prob: 0.0082
+Token: ' not' (ID: 537), Prob: 0.0077
+Token: ' popular' (ID: 5411), Prob: 0.0077
+Token: ' long' (ID: 1293), Prob: 0.0044
+Token: ' organized' (ID: 16645), Prob: 0.0041
+Token: ' part' (ID: 949), Prob: 0.0039
+Token: ' annual' (ID: 9775), Prob: 0.0039
+Token: ' celebrated' (ID: 27185), Prob: 0.0039
+Token: ' at' (ID: 518), Prob: 0.0036
+Token: ' iconic' (ID: 26277), Prob: 0.0036
+Token: ' started' (ID: 3855), Prob: 0.0032
+Token: ' based' (ID: 3118), Prob: 0.0028
+Token: ' well' (ID: 1632), Prob: 0.0027
+Token: ' renowned' (ID: 35948), Prob: 0.0022
+Token: ' very' (ID: 1602), Prob: 0.0021
+Token: ' on' (ID: 389), Prob: 0.0018
+Token: ' said' (ID: 1053), Prob: 0.0018
+Token: ' located' (ID: 7407), Prob: 0.0018
+Token: ' described' (ID: 7481), Prob: 0.0016
+Token: ' run' (ID: 1598), Prob: 0.0012
+Token: ' notable' (ID: 27190), Prob: 0.0012
+Token: ' successful' (ID: 6849), Prob: 0.0010
+Token: ' planned' (ID: 12909), Prob: 0.0010
+Token: ' ongoing' (ID: 14195), Prob: 0.0010
+Token: ' longest' (ID: 22032), Prob: 0.0010
+Token: ' set' (ID: 738), Prob: 0.0009
+Token: ' grand' (ID: 6662), Prob: 0.0008
+Token: ' what' (ID: 1128), Prob: 0.0008
+Token: ' something' (ID: 2494), Prob: 0.0007
+Token: ' unique' (ID: 4911), Prob: 0.0007
+Token: ' itself' (ID: 5086), Prob: 0.0007
+Token: ' designed' (ID: 6188), Prob: 0.0007
+Token: ' noted' (ID: 10342), Prob: 0.0007
+Token: ' expensive' (ID: 11392), Prob: 0.0007
+Token: ' for' (ID: 369), Prob: 0.0006
+Token: ' so' (ID: 773), Prob: 0.0006
+Token: ' also' (ID: 1083), Prob: 0.0006
+Token: ' now' (ID: 1431), Prob: 0.0006
+Token: ' once' (ID: 3055), Prob: 0.0006
+Token: ' inspired' (ID: 14606), Prob: 0.0006
+Token: ' most' (ID: 1429), Prob: 0.0006
+Token: ' important' (ID: 2989), Prob: 0.0006
+Token: ' permanent' (ID: 15330), Prob: 0.0006
+Token: ' as' (ID: 438), Prob: 0.0005
+Token: ' about' (ID: 911), Prob: 0.0005
+Token: ' happening' (ID: 12482), Prob: 0.0005
+Token: ' recognized' (ID: 14975), Prob: 0.0005
+Token: ' associated' (ID: 5815), Prob: 0.0005
+Token: ' quite' (ID: 5008), Prob: 0.0005
+Token: ' largest' (ID: 7772), Prob: 0.0005
+Token: ' originated' (ID: 43753), Prob: 0.0005
+Token: ' only' (ID: 1172), Prob: 0.0004
+Token: ' created' (ID: 3465), Prob: 0.0004
+Token: ' live' (ID: 3887), Prob: 0.0004
+Token: ' usually' (ID: 5990), Prob: 0.0004
+Token: ' referred' (ID: 13862), Prob: 0.0004
+Token: ' American' (ID: 3693), Prob: 0.0004
+Token: ' performed' (ID: 10660), Prob: 0.0004
+Token: ' featured' (ID: 14766), Prob: 0.0004
+Token: ' open' (ID: 1787), Prob: 0.0004
+Token: ' huge' (ID: 6765), Prob: 0.0004
+Token: ' larger' (ID: 8131), Prob: 0.0004
+Token: ' A' (ID: 362), Prob: 0.0004
+Token: ' both' (ID: 2176), Prob: 0.0004
+Token: ' exclusive' (ID: 13761), Prob: 0.0004
+Token: ' historic' (ID: 18035), Prob: 0.0003
+Token: ' founded' (ID: 18047), Prob: 0.0003
+Token: ' international' (ID: 6489), Prob: 0.0003
+Token: ' worldwide' (ID: 15245), Prob: 0.0003
+Token: ' fictional' (ID: 43582), Prob: 0.0003
+Token: ' among' (ID: 4221), Prob: 0.0003
+Token: ' Seattle' (ID: 16355), Prob: 0.0003
+Token: ' it' (ID: 432), Prob: 0.0003
+Token: ' N' (ID: 451), Prob: 0.0003
+Token: ' Long' (ID: 5724), Prob: 0.0003
+Token: ' widely' (ID: 13570), Prob: 0.0003
+
+== Ranked Concepts (Clusters) ==
+Rank 1 | Centroid: ' the' | Score: 0.5391
+  Tokens: [' one', ' L', ' the', ' a', ' in', ' an', ' not', ' at', ' on', ' for', ' so', ' as', ' A', ' it', ' N']
+Rank 2 | Centroid: ' referred' | Score: 0.2734
+  Tokens: [' called', ' named', ' known', ' considered', ' said', ' described', ' noted', ' recognized', ' referred', ' featured']
+Rank 3 | Centroid: ' famous' | Score: 0.0277
+  Tokens: [' famous', ' popular', ' celebrated', ' renowned', ' notable']
+Rank 4 | Centroid: ' designed' | Score: 0.0260
+  Tokens: [' held', ' organized', ' started', ' located', ' planned', ' designed', ' originated', ' created', ' performed', ' founded']
+Rank 5 | Centroid: ' large' | Score: 0.0103
+  Tokens: [' large', ' grand', ' largest', ' huge', ' larger']
+Rank 6 | Centroid: ' international' | Score: 0.0101
+  Tokens: [' annual', ' iconic', ' inspired', ' American', ' historic', ' international', ' worldwide', ' fictional', ' Seattle']
+Rank 7 | Centroid: ' Long' | Score: 0.0056
+  Tokens: [' long', ' longest', ' Long']
+Rank 8 | Centroid: ' very' | Score: 0.0055
+  Tokens: [' well', ' very', ' quite', ' widely']
+Rank 9 | Centroid: ' what' | Score: 0.0054
+  Tokens: [' part', ' what', ' something']
+Rank 10 | Centroid: ' set' | Score: 0.0029
+  Tokens: [' run', ' set', ' live', ' open']
+Rank 11 | Centroid: ' based' | Score: 0.0028
+  Tokens: [' based']
+Rank 12 | Centroid: ' exclusive' | Score: 0.0021
+  Tokens: [' successful', ' unique', ' exclusive']
+Rank 13 | Centroid: ' also' | Score: 0.0017
+  Tokens: [' itself', ' also', ' both']
+Rank 14 | Centroid: ' once' | Score: 0.0017
+  Tokens: [' now', ' once', ' only']
+Rank 15 | Centroid: ' ongoing' | Score: 0.0015
+  Tokens: [' ongoing', ' permanent']
+Rank 16 | Centroid: ' expensive' | Score: 0.0012
+  Tokens: [' expensive', ' important']
+Rank 17 | Centroid: ' most' | Score: 0.0010
+  Tokens: [' most', ' usually']
+Rank 18 | Centroid: ' about' | Score: 0.0008
+  Tokens: [' about', ' among']
+Rank 19 | Centroid: ' happening' | Score: 0.0005
+  Tokens: [' happening']
+Rank 20 | Centroid: ' associated' | Score: 0.0005
+  Tokens: [' associated']
+
+**Chosen Concept:** Rank 1

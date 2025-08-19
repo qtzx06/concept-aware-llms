@@ -1,136 +1,88 @@
 --- Step 26 Log ---
 
 == Filtered Candidates ==
-Token: ' appeared' (ID: 9723), Prob: 0.6406
-Token: ' been' (ID: 1012), Prob: 0.1611
-Token: ' starred' (ID: 58235), Prob: 0.0593
-Token: ' had' (ID: 1030), Prob: 0.0361
-Token: ' played' (ID: 6342), Prob: 0.0281
-Token: ' acted' (ID: 30432), Prob: 0.0219
-Token: ' guest' (ID: 8640), Prob: 0.0132
-Token: ' performed' (ID: 10660), Prob: 0.0071
-Token: ' made' (ID: 1865), Prob: 0.0063
-Token: ' featured' (ID: 14766), Prob: 0.0049
-Token: ' worked' (ID: 6439), Prob: 0.0038
-Token: ' star' (ID: 6774), Prob: 0.0026
-Token: ' done' (ID: 2814), Prob: 0.0023
-Token: ' taken' (ID: 4429), Prob: 0.0018
-Token: ' portrayed' (ID: 44777), Prob: 0.0016
-Token: ' provided' (ID: 3897), Prob: 0.0008
-Token: ' appear' (ID: 4994), Prob: 0.0008
-Token: ' written' (ID: 5326), Prob: 0.0007
-Token: ' co' (ID: 1062), Prob: 0.0006
-Token: ' gained' (ID: 18163), Prob: 0.0004
-Token: ' participated' (ID: 30308), Prob: 0.0003
-Token: ' a' (ID: 264), Prob: 0.0002
-Token: ' contributed' (ID: 19590), Prob: 0.0002
-Token: ' starring' (ID: 39400), Prob: 0.0002
-Token: ' presented' (ID: 10449), Prob: 0.0002
-Token: ' directed' (ID: 15540), Prob: 0.0002
-Token: ' received' (ID: 3949), Prob: 0.0002
-Token: ' recently' (ID: 5926), Prob: 0.0002
-Token: ' stars' (ID: 9759), Prob: 0.0002
-Token: ' appears' (ID: 7952), Prob: 0.0002
-Token: ' produced' (ID: 8947), Prob: 0.0002
-Token: ' joined' (ID: 10859), Prob: 0.0002
-Token: ' voiced' (ID: 51368), Prob: 0.0001
-Token: ' repr' (ID: 30636), Prob: 0.0001
-Token: ' lent' (ID: 47807), Prob: 0.0001
-Token: ' has' (ID: 702), Prob: 0.0001
-Token: ' found' (ID: 1730), Prob: 0.0001
-Token: ' served' (ID: 10223), Prob: 0.0001
-Token: ' hosted' (ID: 21009), Prob: 0.0001
-Token: ' won' (ID: 2765), Prob: 0.0001
-Token: ' become' (ID: 3635), Prob: 0.0001
-Token: ' continued' (ID: 8570), Prob: 0.0001
-Token: ' filmed' (ID: 41408), Prob: 0.0001
-Token: 'appeared' (ID: 98467), Prob: 0.0001
-Token: ' released' (ID: 5880), Prob: 0.0001
-Token: ' appearing' (ID: 25377), Prob: 0.0001
-Token: ' created' (ID: 3465), Prob: 0.0001
-Token: ' vo' (ID: 4069), Prob: 0.0001
-Token: ' held' (ID: 5644), Prob: 0.0001
-Token: ' undertaken' (ID: 44079), Prob: 0.0001
-Token: ' have' (ID: 614), Prob: 0.0001
-Token: ' also' (ID: 1083), Prob: 0.0000
-Token: ' acting' (ID: 15358), Prob: 0.0000
-Token: ' recorded' (ID: 12433), Prob: 0.0000
-Token: ' represented' (ID: 15251), Prob: 0.0000
-Token: ' seen' (ID: 3884), Prob: 0.0000
-Token: ' enjoyed' (ID: 14006), Prob: 0.0000
-Token: ' stared' (ID: 44035), Prob: 0.0000
-Token: ' staged' (ID: 50057), Prob: 0.0000
-Token: ' in' (ID: 304), Prob: 0.0000
-Token: ' since' (ID: 2474), Prob: 0.0000
-Token: ' previously' (ID: 8597), Prob: 0.0000
-Token: ' st' (ID: 357), Prob: 0.0000
-Token: ' earned' (ID: 15303), Prob: 0.0000
-Token: ' toured' (ID: 90613), Prob: 0.0000
-Token: ' started' (ID: 3855), Prob: 0.0000
-Token: ' completed' (ID: 8145), Prob: 0.0000
-Token: ' landed' (ID: 26120), Prob: 0.0000
-Token: ' spent' (ID: 7391), Prob: 0.0000
-Token: ' cameo' (ID: 94056), Prob: 0.0000
-Token: ' re' (ID: 312), Prob: 0.0000
-Token: ' voice' (ID: 7743), Prob: 0.0000
-Token: ' act' (ID: 1160), Prob: 0.0000
-Token: ' took' (ID: 3867), Prob: 0.0000
-Token: ' supported' (ID: 7248), Prob: 0.0000
-Token: ' collaborated' (ID: 77074), Prob: 0.0000
-Token: ' turned' (ID: 6519), Prob: 0.0000
-Token: ' regularly' (ID: 15502), Prob: 0.0000
-Token: ' achieved' (ID: 16994), Prob: 0.0000
-Token: ' ventured' (ID: 98407), Prob: 0.0000
-Token: ' twice' (ID: 10917), Prob: 0.0000
-Token: ' garnered' (ID: 67290), Prob: 0.0000
-Token: ' given' (ID: 2661), Prob: 0.0000
-Token: ' actor' (ID: 12089), Prob: 0.0000
-Token: ' occasionally' (ID: 22930), Prob: 0.0000
-Token: ' role' (ID: 3476), Prob: 0.0000
-Token: ' developed' (ID: 7881), Prob: 0.0000
-Token: ' frequently' (ID: 13814), Prob: 0.0000
-Token: ' an' (ID: 458), Prob: 0.0000
+Token: ' the' (ID: 279), Prob: 0.0835
+Token: ' its' (ID: 1181), Prob: 0.0571
+Token: ' their' (ID: 862), Prob: 0.0073
+Token: ' a' (ID: 264), Prob: 0.0068
+Token: ' that' (ID: 429), Prob: 0.0042
+Token: ' September' (ID: 6122), Prob: 0.0032
+Token: ' August' (ID: 6156), Prob: 0.0030
+Token: ' which' (ID: 892), Prob: 0.0025
+Token: ' March' (ID: 5470), Prob: 0.0016
+Token: ' Virgin' (ID: 11214), Prob: 0.0016
+Token: ' April' (ID: 5813), Prob: 0.0015
+Token: ' February' (ID: 7400), Prob: 0.0013
+Token: ' day' (ID: 1899), Prob: 0.0010
+Token: ' or' (ID: 476), Prob: 0.0010
+Token: ' January' (ID: 6058), Prob: 0.0010
+Token: ' first' (ID: 1156), Prob: 0.0009
+Token: ' service' (ID: 2473), Prob: 0.0009
+Token: ' June' (ID: 5534), Prob: 0.0009
+Token: ' and' (ID: 323), Prob: 0.0008
+Token: ' this' (ID: 419), Prob: 0.0008
+Token: ' date' (ID: 2400), Prob: 0.0008
+Token: ' what' (ID: 1128), Prob: 0.0007
+Token: ' an' (ID: 458), Prob: 0.0007
+Token: ' July' (ID: 5768), Prob: 0.0006
+Token: ' October' (ID: 6527), Prob: 0.0005
+Token: ' in' (ID: 304), Prob: 0.0005
+Token: ' services' (ID: 3516), Prob: 0.0005
+Token: ' it' (ID: 432), Prob: 0.0004
+Token: ' flight' (ID: 10971), Prob: 0.0004
+Token: ' three' (ID: 2326), Prob: 0.0004
+Token: ' Wednesday' (ID: 7920), Prob: 0.0004
+Token: ' to' (ID: 311), Prob: 0.0003
+Token: ' November' (ID: 6702), Prob: 0.0003
+Token: ' as' (ID: 438), Prob: 0.0003
+Token: ' May' (ID: 3217), Prob: 0.0003
+Token: ' board' (ID: 4479), Prob: 0.0003
+Token: ' business' (ID: 2562), Prob: 0.0002
+Token: ' behalf' (ID: 17522), Prob: 0.0002
+Token: ' with' (ID: 448), Prob: 0.0002
+Token: ' Friday' (ID: 6602), Prob: 0.0002
+Token: ' Monday' (ID: 7014), Prob: 0.0002
+Token: ' flights' (ID: 24908), Prob: 0.0002
+Token: ' was' (ID: 572), Prob: 0.0002
+Token: ' one' (ID: 825), Prob: 0.0002
+Token: ' two' (ID: 1378), Prob: 0.0002
+Token: ' December' (ID: 6652), Prob: 0.0002
+Token: ' Sept' (ID: 5375), Prob: 0.0002
+Token: ' Day' (ID: 6059), Prob: 0.0002
+Token: ' when' (ID: 979), Prob: 0.0002
+Token: ' airline' (ID: 32475), Prob: 0.0002
+Token: ' Tuesday' (ID: 7589), Prob: 0.0002
+Token: ' public' (ID: 584), Prob: 0.0001
+Token: ' Saturday' (ID: 7728), Prob: 0.0001
+Token: ' account' (ID: 2692), Prob: 0.0001
+Token: ' aircraft' (ID: 14135), Prob: 0.0001
+Token: ' Flight' (ID: 26577), Prob: 0.0001
+Token: ' on' (ID: 389), Prob: 0.0001
 
 == Ranked Concepts (Clusters) ==
-Rank 1 | Centroid: ' appeared' | Score: 0.6406
-  Tokens: [' appeared', ' appear', ' appears', 'appeared', ' appearing']
-Rank 2 | Centroid: ' been' | Score: 0.1611
-  Tokens: [' been', ' become']
-Rank 3 | Centroid: ' stars' | Score: 0.0625
-  Tokens: [' starred', ' star', ' starring', ' stars', ' stared']
-Rank 4 | Centroid: ' has' | Score: 0.0374
-  Tokens: [' had', ' co', ' a', ' has', ' have', ' also', ' in', ' since', ' st', ' re', ' an']
-Rank 5 | Centroid: ' played' | Score: 0.0284
-  Tokens: [' played', ' contributed', ' served', ' enjoyed']
-Rank 6 | Centroid: ' acting' | Score: 0.0220
-  Tokens: [' acted', ' acting', ' act', ' actor']
-Rank 7 | Centroid: ' guest' | Score: 0.0134
-  Tokens: [' guest', ' lent', ' cameo']
-Rank 8 | Centroid: ' undertaken' | Score: 0.0113
-  Tokens: [' performed', ' done', ' taken', ' undertaken', ' completed']
-Rank 9 | Centroid: ' created' | Score: 0.0067
-  Tokens: [' made', ' produced', ' found', ' released', ' created', ' achieved', ' developed']
-Rank 10 | Centroid: ' hosted' | Score: 0.0052
-  Tokens: [' featured', ' directed', ' hosted']
-Rank 11 | Centroid: ' collaborated' | Score: 0.0043
-  Tokens: [' worked', ' participated', ' joined', ' started', ' took', ' collaborated', ' turned']
-Rank 12 | Centroid: ' presented' | Score: 0.0028
-  Tokens: [' portrayed', ' provided', ' presented', ' held', ' represented', ' supported', ' given']
-Rank 13 | Centroid: ' written' | Score: 0.0008
-  Tokens: [' written', ' seen']
-Rank 14 | Centroid: ' garnered' | Score: 0.0007
-  Tokens: [' gained', ' received', ' won', ' earned', ' spent', ' garnered']
-Rank 15 | Centroid: ' frequently' | Score: 0.0003
-  Tokens: [' recently', ' previously', ' regularly', ' twice', ' occasionally', ' frequently']
-Rank 16 | Centroid: ' voice' | Score: 0.0002
-  Tokens: [' voiced', ' vo', ' voice']
-Rank 17 | Centroid: ' repr' | Score: 0.0002
-  Tokens: [' repr', ' continued']
-Rank 18 | Centroid: ' filmed' | Score: 0.0002
-  Tokens: [' filmed', ' recorded', ' staged']
-Rank 19 | Centroid: ' ventured' | Score: 0.0001
-  Tokens: [' toured', ' landed', ' ventured']
-Rank 20 | Centroid: ' role' | Score: 0.0000
-  Tokens: [' role']
+Rank 1 | Centroid: ' the' | Score: 0.1030
+  Tokens: [' the', ' a', ' that', ' which', ' or', ' and', ' this', ' what', ' an', ' in', ' it', ' to', ' as', ' with', ' was', ' when', ' on']
+Rank 2 | Centroid: ' its' | Score: 0.0645
+  Tokens: [' its', ' their']
+Rank 3 | Centroid: ' September' | Score: 0.0146
+  Tokens: [' September', ' August', ' March', ' April', ' February', ' January', ' June', ' July', ' October', ' November', ' May', ' December', ' Sept']
+Rank 4 | Centroid: ' day' | Score: 0.0020
+  Tokens: [' day', ' date', ' Day']
+Rank 5 | Centroid: ' two' | Score: 0.0017
+  Tokens: [' first', ' three', ' one', ' two']
+Rank 6 | Centroid: ' Virgin' | Score: 0.0016
+  Tokens: [' Virgin']
+Rank 7 | Centroid: ' service' | Score: 0.0014
+  Tokens: [' service', ' services']
+Rank 8 | Centroid: ' Tuesday' | Score: 0.0010
+  Tokens: [' Wednesday', ' Friday', ' Monday', ' Tuesday', ' Saturday']
+Rank 9 | Centroid: ' flight' | Score: 0.0010
+  Tokens: [' flight', ' flights', ' airline', ' aircraft', ' Flight']
+Rank 10 | Centroid: ' board' | Score: 0.0004
+  Tokens: [' board', ' account']
+Rank 11 | Centroid: ' business' | Score: 0.0004
+  Tokens: [' business', ' public']
+Rank 12 | Centroid: ' behalf' | Score: 0.0002
+  Tokens: [' behalf']
 
 **Chosen Concept:** Rank 1

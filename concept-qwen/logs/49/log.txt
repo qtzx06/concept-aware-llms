@@ -1,0 +1,114 @@
+--- Step 49 Log ---
+
+== Filtered Candidates ==
+Token: ' him' (ID: 1435), Prob: 0.9922
+Token: ' the' (ID: 279), Prob: 0.0010
+Token: ' from' (ID: 504), Prob: 0.0003
+Token: '—not' (ID: 62838), Prob: 0.0002
+Token: ' back' (ID: 1182), Prob: 0.0001
+Token: ' through' (ID: 1526), Prob: 0.0001
+Token: ' something' (ID: 2494), Prob: 0.0000
+Token: ' directly' (ID: 5961), Prob: 0.0000
+Token: ' with' (ID: 448), Prob: 0.0000
+Token: ' them' (ID: 1105), Prob: 0.0000
+Token: '—and' (ID: 16804), Prob: 0.0000
+Token: ' not' (ID: 537), Prob: 0.0000
+Token: '—or' (ID: 50649), Prob: 0.0000
+Token: ' his' (ID: 806), Prob: 0.0000
+Token: ' in' (ID: 304), Prob: 0.0000
+Token: ' as' (ID: 438), Prob: 0.0000
+Token: ' just' (ID: 1101), Prob: 0.0000
+Token: ' only' (ID: 1172), Prob: 0.0000
+Token: '—the' (ID: 21677), Prob: 0.0000
+Token: ' and' (ID: 323), Prob: 0.0000
+Token: ' right' (ID: 1290), Prob: 0.0000
+Token: '—with' (ID: 80802), Prob: 0.0000
+Token: ' everything' (ID: 4297), Prob: 0.0000
+Token: ' silently' (ID: 49394), Prob: 0.0000
+Token: '—he' (ID: 75829), Prob: 0.0000
+Token: ' us' (ID: 601), Prob: 0.0000
+Token: '—a' (ID: 27996), Prob: 0.0000
+Token: ' for' (ID: 369), Prob: 0.0000
+Token: ' every' (ID: 1449), Prob: 0.0000
+Token: '—but' (ID: 37442), Prob: 0.0000
+Token: ' all' (ID: 678), Prob: 0.0000
+Token: ' too' (ID: 2238), Prob: 0.0000
+Token: ' closely' (ID: 15148), Prob: 0.0000
+Token: ' both' (ID: 2176), Prob: 0.0000
+Token: '—at' (ID: 98463), Prob: 0.0000
+Token: ' without' (ID: 2041), Prob: 0.0000
+Token: '—for' (ID: 71218), Prob: 0.0000
+Token: ' Him' (ID: 20426), Prob: 0.0000
+Token: '—to' (ID: 49517), Prob: 0.0000
+Token: ' int' (ID: 526), Prob: 0.0000
+Token: ' rather' (ID: 4751), Prob: 0.0000
+Token: '—from' (ID: 87858), Prob: 0.0000
+Token: ' beyond' (ID: 7797), Prob: 0.0000
+Token: '—as' (ID: 59554), Prob: 0.0000
+Token: ' HIM' (ID: 88894), Prob: 0.0000
+Token: ' her' (ID: 1059), Prob: 0.0000
+Token: ' exactly' (ID: 6896), Prob: 0.0000
+Token: ' at' (ID: 518), Prob: 0.0000
+Token: ' me' (ID: 752), Prob: 0.0000
+Token: 'him' (ID: 39517), Prob: 0.0000
+Token: '—one' (ID: 86571), Prob: 0.0000
+Token: ' a' (ID: 264), Prob: 0.0000
+Token: ' quietly' (ID: 29566), Prob: 0.0000
+Token: ' someone' (ID: 4325), Prob: 0.0000
+Token: ' carefully' (ID: 15516), Prob: 0.0000
+Token: '—in' (ID: 48425), Prob: 0.0000
+Token: ' over' (ID: 916), Prob: 0.0000
+Token: ' each' (ID: 1817), Prob: 0.0000
+Token: ' specifically' (ID: 11689), Prob: 0.0000
+Token: ' out' (ID: 700), Prob: 0.0000
+Token: ' what' (ID: 1128), Prob: 0.0000
+Token: ' nothing' (ID: 4302), Prob: 0.0000
+Token: ' steadily' (ID: 41971), Prob: 0.0000
+Token: ' instead' (ID: 4518), Prob: 0.0000
+Token: ' slowly' (ID: 13970), Prob: 0.0000
+Token: ' patiently' (ID: 78161), Prob: 0.0000
+Token: ' one' (ID: 825), Prob: 0.0000
+Token: ' behind' (ID: 4815), Prob: 0.0000
+Token: '—an' (ID: 84266), Prob: 0.0000
+Token: ' itself' (ID: 5086), Prob: 0.0000
+Token: ' somehow' (ID: 16925), Prob: 0.0000
+Token: ' more' (ID: 803), Prob: 0.0000
+Token: ' straight' (ID: 7678), Prob: 0.0000
+Token: '—even' (ID: 78978), Prob: 0.0000
+Token: '—which' (ID: 48904), Prob: 0.0000
+Token: ' he' (ID: 566), Prob: 0.0000
+Token: ' its' (ID: 1181), Prob: 0.0000
+Token: '—it' (ID: 43503), Prob: 0.0000
+Token: '—all' (ID: 86147), Prob: 0.0000
+
+== Ranked Concepts (Clusters) ==
+Rank 1 | Centroid: ' him' | Score: 0.9922
+  Tokens: [' him', ' Him', ' HIM', 'him']
+Rank 2 | Centroid: ' the' | Score: 0.0015
+  Tokens: [' the', ' from', ' back', ' through', ' with', ' not', ' in', ' as', ' just', ' only', ' and', ' right', ' for', ' int', ' at', ' a', ' over', ' out', ' what', ' one', ' more']
+Rank 3 | Centroid: '—as' | Score: 0.0002
+  Tokens: ['—not', '—and', '—or', '—the', '—with', '—he', '—a', '—but', '—at', '—for', '—to', '—from', '—as', '—one', '—in', '—an', '—even', '—which', '—it', '—all']
+Rank 4 | Centroid: ' something' | Score: 0.0000
+  Tokens: [' something', ' someone', ' somehow']
+Rank 5 | Centroid: ' directly' | Score: 0.0000
+  Tokens: [' directly', ' exactly', ' specifically', ' straight']
+Rank 6 | Centroid: ' us' | Score: 0.0000
+  Tokens: [' them', ' us', ' me']
+Rank 7 | Centroid: ' his' | Score: 0.0000
+  Tokens: [' his', ' her', ' he']
+Rank 8 | Centroid: ' each' | Score: 0.0000
+  Tokens: [' every', ' all', ' both', ' each']
+Rank 9 | Centroid: ' quietly' | Score: 0.0000
+  Tokens: [' silently', ' quietly', ' steadily', ' slowly', ' patiently']
+Rank 10 | Centroid: ' without' | Score: 0.0000
+  Tokens: [' too', ' without', ' beyond', ' behind']
+Rank 11 | Centroid: ' everything' | Score: 0.0000
+  Tokens: [' everything', ' nothing']
+Rank 12 | Centroid: ' closely' | Score: 0.0000
+  Tokens: [' closely', ' carefully']
+Rank 13 | Centroid: ' rather' | Score: 0.0000
+  Tokens: [' rather', ' instead']
+Rank 14 | Centroid: ' itself' | Score: 0.0000
+  Tokens: [' itself', ' its']
+
+**Chosen Concept:** Rank 1

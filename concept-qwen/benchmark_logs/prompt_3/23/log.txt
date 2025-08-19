@@ -1,131 +1,158 @@
 --- Step 23 Log ---
 
 == Filtered Candidates ==
-Token: ' year' (ID: 1042), Prob: 0.9805
-Token: ' period' (ID: 4168), Prob: 0.0075
-Token: ' decade' (ID: 13212), Prob: 0.0031
-Token: ' time' (ID: 882), Prob: 0.0017
-Token: ' season' (ID: 3200), Prob: 0.0015
-Token: ' years' (ID: 1635), Prob: 0.0004
-Token: ' month' (ID: 2254), Prob: 0.0004
-Token: ' series' (ID: 4013), Prob: 0.0003
-Token: ' calendar' (ID: 13168), Prob: 0.0003
-Token: ' week' (ID: 2003), Prob: 0.0001
-Token: ' episode' (ID: 9234), Prob: 0.0001
-Token: ' television' (ID: 12425), Prob: 0.0000
-Token: ' timeframe' (ID: 69953), Prob: 0.0000
-Token: ' era' (ID: 11385), Prob: 0.0000
-Token: 'year' (ID: 3157), Prob: 0.0000
-Token: ' production' (ID: 5670), Prob: 0.0000
-Token: ' century' (ID: 9294), Prob: 0.0000
-Token: ' two' (ID: 1378), Prob: 0.0000
-Token: ' film' (ID: 4531), Prob: 0.0000
-Token: ' edition' (ID: 13688), Prob: 0.0000
-Token: ' BBC' (ID: 18096), Prob: 0.0000
-Token: ' role' (ID: 3476), Prob: 0.0000
-Token: ' Year' (ID: 9742), Prob: 0.0000
-Token: ' summer' (ID: 7324), Prob: 0.0000
-Token: ' five' (ID: 4236), Prob: 0.0000
-Token: ' financial' (ID: 5896), Prob: 0.0000
-Token: ' theatre' (ID: 33496), Prob: 0.0000
-Token: ' annum' (ID: 86657), Prob: 0.0000
-Token: ' day' (ID: 1899), Prob: 0.0000
-Token: ' country' (ID: 3146), Prob: 0.0000
-Token: ' he' (ID: 566), Prob: 0.0000
-Token: ' fiscal' (ID: 19743), Prob: 0.0000
-Token: ' the' (ID: 279), Prob: 0.0000
-Token: ' millennium' (ID: 88685), Prob: 0.0000
-Token: ' show' (ID: 1473), Prob: 0.0000
-Token: ' quarter' (ID: 8338), Prob: 0.0000
-Token: ' and' (ID: 323), Prob: 0.0000
-Token: ' way' (ID: 1616), Prob: 0.0000
-Token: ' or' (ID: 476), Prob: 0.0000
-Token: ' three' (ID: 2326), Prob: 0.0000
-Token: ' winter' (ID: 12406), Prob: 0.0000
-Token: ' studio' (ID: 14029), Prob: 0.0000
-Token: ' cycle' (ID: 10775), Prob: 0.0000
-Token: ' academic' (ID: 14250), Prob: 0.0000
-Token: ' as' (ID: 438), Prob: 0.0000
-Token: ' broadcast' (ID: 12899), Prob: 0.0000
-Token: ' programme' (ID: 18136), Prob: 0.0000
-Token: ' term' (ID: 4647), Prob: 0.0000
-Token: ' ten' (ID: 5779), Prob: 0.0000
-Token: ' acting' (ID: 15358), Prob: 0.0000
-Token: '-year' (ID: 4666), Prob: 0.0000
-Token: ' historical' (ID: 13656), Prob: 0.0000
-Token: ' chronological' (ID: 86534), Prob: 0.0000
-Token: ' part' (ID: 949), Prob: 0.0000
-Token: ' twenty' (ID: 17073), Prob: 0.0000
-Token: ' theatrical' (ID: 65233), Prob: 0.0000
-Token: ' y' (ID: 379), Prob: 0.0000
-Token: ' stage' (ID: 6430), Prob: 0.0000
-Token: ' area' (ID: 3082), Prob: 0.0000
-Token: ' annual' (ID: 9775), Prob: 0.0000
-Token: ' timeline' (ID: 24808), Prob: 0.0000
-Token: ' four' (ID: 3040), Prob: 0.0000
-Token: ' months' (ID: 3951), Prob: 0.0000
-Token: ' seasons' (ID: 15584), Prob: 0.0000
-Token: ' musical' (ID: 17795), Prob: 0.0000
-Token: ' in' (ID: 304), Prob: 0.0000
-Token: ' instance' (ID: 2867), Prob: 0.0000
-Token: ' place' (ID: 1992), Prob: 0.0000
-Token: ' city' (ID: 3283), Prob: 0.0000
-Token: ' six' (ID: 4743), Prob: 0.0000
-Token: ' town' (ID: 6290), Prob: 0.0000
-Token: ' manner' (ID: 11566), Prob: 0.0000
-Token: ' anniversary' (ID: 21582), Prob: 0.0000
-Token: ' scene' (ID: 6109), Prob: 0.0000
-Token: ' ye' (ID: 19478), Prob: 0.0000
-Token: ' context' (ID: 2266), Prob: 0.0000
-Token: ' movie' (ID: 5700), Prob: 0.0000
-Token: ' twelve' (ID: 29235), Prob: 0.0000
-Token: ' media' (ID: 3687), Prob: 0.0000
-Token: ' location' (ID: 3728), Prob: 0.0000
-Token: ' performance' (ID: 5068), Prob: 0.0000
-Token: ' region' (ID: 5537), Prob: 0.0000
+Token: ' can' (ID: 646), Prob: 0.4238
+Token: ' also' (ID: 1083), Prob: 0.1216
+Token: ' have' (ID: 614), Prob: 0.0737
+Token: ' are' (ID: 525), Prob: 0.0649
+Token: ' do' (ID: 653), Prob: 0.0447
+Token: ' don' (ID: 1513), Prob: 0.0447
+Token: ' drink' (ID: 7027), Prob: 0.0349
+Token: ' use' (ID: 990), Prob: 0.0239
+Token: ' need' (ID: 1184), Prob: 0.0145
+Token: ' live' (ID: 3887), Prob: 0.0113
+Token: ' eat' (ID: 8180), Prob: 0.0099
+Token: ' store' (ID: 3553), Prob: 0.0078
+Token: ' may' (ID: 1231), Prob: 0.0053
+Token: ' only' (ID: 1172), Prob: 0.0044
+Token: ' take' (ID: 1896), Prob: 0.0044
+Token: ' rely' (ID: 17188), Prob: 0.0044
+Token: ' cannot' (ID: 4157), Prob: 0.0042
+Token: ' get' (ID: 633), Prob: 0.0039
+Token: ' conserve' (ID: 77448), Prob: 0.0032
+Token: ' avoid' (ID: 5648), Prob: 0.0030
+Token: ' carry' (ID: 6777), Prob: 0.0030
+Token: ' consume' (ID: 24057), Prob: 0.0029
+Token: ' usually' (ID: 5990), Prob: 0.0025
+Token: ' will' (ID: 686), Prob: 0.0024
+Token: ' must' (ID: 1969), Prob: 0.0024
+Token: ' produce' (ID: 8193), Prob: 0.0024
+Token: ' mainly' (ID: 14576), Prob: 0.0022
+Token: ' survive' (ID: 17697), Prob: 0.0022
+Token: ' stay' (ID: 4717), Prob: 0.0021
+Token: ' move' (ID: 3271), Prob: 0.0020
+Token: ' might' (ID: 2578), Prob: 0.0017
+Token: ' remain' (ID: 7146), Prob: 0.0017
+Token: ' prefer' (ID: 10702), Prob: 0.0016
+Token: ' h' (ID: 305), Prob: 0.0014
+Token: ' go' (ID: 728), Prob: 0.0014
+Token: ' often' (ID: 3545), Prob: 0.0014
+Token: ' spend' (ID: 8329), Prob: 0.0014
+Token: ' walk' (ID: 4227), Prob: 0.0013
+Token: ' dig' (ID: 4078), Prob: 0.0011
+Token: ' start' (ID: 1191), Prob: 0.0010
+Token: ' sleep' (ID: 6084), Prob: 0.0010
+Token: ' rarely' (ID: 18521), Prob: 0.0010
+Token: ' lack' (ID: 6853), Prob: 0.0009
+Token: ' should' (ID: 1265), Prob: 0.0008
+Token: ''re' (ID: 2299), Prob: 0.0008
+Token: ' never' (ID: 2581), Prob: 0.0008
+Token: ' become' (ID: 3635), Prob: 0.0008
+Token: ' ration' (ID: 65801), Prob: 0.0008
+Token: ' come' (ID: 2525), Prob: 0.0008
+Token: ' require' (ID: 1373), Prob: 0.0007
+Token: ' adapt' (ID: 10515), Prob: 0.0007
+Token: ' typically' (ID: 11136), Prob: 0.0007
+Token: ' could' (ID: 1410), Prob: 0.0007
+Token: ' obtain' (ID: 6851), Prob: 0.0006
+Token: ' utilize' (ID: 28066), Prob: 0.0006
+Token: ' make' (ID: 1281), Prob: 0.0006
+Token: ' still' (ID: 2058), Prob: 0.0006
+Token: ' water' (ID: 3015), Prob: 0.0006
+Token: ' enter' (ID: 3725), Prob: 0.0006
+Token: ' draw' (ID: 4038), Prob: 0.0006
+Token: ' depend' (ID: 6761), Prob: 0.0006
+Token: ' mostly' (ID: 10008), Prob: 0.0006
+Token: ' pass' (ID: 1494), Prob: 0.0005
+Token: ' begin' (ID: 3161), Prob: 0.0005
+Token: ' regulate' (ID: 36277), Prob: 0.0005
+Token: ' breathe' (ID: 36297), Prob: 0.0005
+Token: ' find' (ID: 1477), Prob: 0.0005
+Token: ' gain' (ID: 8722), Prob: 0.0005
+Token: ' normally' (ID: 14279), Prob: 0.0005
+Token: ' would' (ID: 1035), Prob: 0.0005
+Token: ' travel' (ID: 5821), Prob: 0.0005
+Token: ' manage' (ID: 10091), Prob: 0.0005
+Token: ' primarily' (ID: 15503), Prob: 0.0005
+Token: ' allow' (ID: 2138), Prob: 0.0004
+Token: ' probably' (ID: 4658), Prob: 0.0004
+Token: ' hold' (ID: 3331), Prob: 0.0004
+Token: ' swim' (ID: 16191), Prob: 0.0004
+Token: ' dry' (ID: 9058), Prob: 0.0004
+Token: ' maintain' (ID: 10306), Prob: 0.0004
+Token: ' sweat' (ID: 27466), Prob: 0.0004
+Token: ' keep' (ID: 2506), Prob: 0.0004
+Token: ' actually' (ID: 3520), Prob: 0.0004
+Token: ' feed' (ID: 5395), Prob: 0.0004
+Token: ' reduce' (ID: 7949), Prob: 0.0004
+Token: ' reproduce' (ID: 22800), Prob: 0.0004
+Token: ' gra' (ID: 27599), Prob: 0.0003
+Token: ' know' (ID: 1414), Prob: 0.0003
+Token: ' help' (ID: 1492), Prob: 0.0003
+Token: ' tend' (ID: 8376), Prob: 0.0003
+Token: ' lose' (ID: 9052), Prob: 0.0003
+Token: ' evolved' (ID: 27895), Prob: 0.0003
+Token: ' then' (ID: 1221), Prob: 0.0003
+Token: ' possess' (ID: 15218), Prob: 0.0003
+Token: ' aren' (ID: 7629), Prob: 0.0003
+Token: ' most' (ID: 1429), Prob: 0.0002
+Token: ' especially' (ID: 5310), Prob: 0.0002
+Token: ' create' (ID: 1855), Prob: 0.0002
+Token: ' stand' (ID: 2498), Prob: 0.0002
+Token: ' work' (ID: 975), Prob: 0.0002
 
 == Ranked Concepts (Clusters) ==
-Rank 1 | Centroid: ' year' | Score: 0.9805
-  Tokens: [' year', ' years', 'year', ' Year', '-year']
-Rank 2 | Centroid: ' period' | Score: 0.0075
-  Tokens: [' period', ' era']
-Rank 3 | Centroid: ' century' | Score: 0.0032
-  Tokens: [' decade', ' century', ' millennium', ' quarter']
-Rank 4 | Centroid: ' time' | Score: 0.0017
-  Tokens: [' time']
-Rank 5 | Centroid: ' seasons' | Score: 0.0015
-  Tokens: [' season', ' summer', ' winter', ' seasons']
-Rank 6 | Centroid: ' month' | Score: 0.0006
-  Tokens: [' month', ' week', ' day', ' months']
-Rank 7 | Centroid: ' timeline' | Score: 0.0003
-  Tokens: [' calendar', ' timeframe', ' chronological', ' timeline']
-Rank 8 | Centroid: ' series' | Score: 0.0003
-  Tokens: [' series']
-Rank 9 | Centroid: ' television' | Score: 0.0001
-  Tokens: [' television', ' film', ' BBC', ' theatre', ' studio', ' broadcast', ' theatrical', ' movie', ' media']
-Rank 10 | Centroid: ' scene' | Score: 0.0001
-  Tokens: [' episode', ' programme', ' stage', ' scene']
-Rank 11 | Centroid: ' five' | Score: 0.0001
-  Tokens: [' two', ' five', ' three', ' ten', ' twenty', ' four', ' six', ' twelve']
-Rank 12 | Centroid: ' production' | Score: 0.0000
-  Tokens: [' production', ' performance']
-Rank 13 | Centroid: ' financial' | Score: 0.0000
-  Tokens: [' financial', ' fiscal', ' academic', ' historical', ' musical']
-Rank 14 | Centroid: ' edition' | Score: 0.0000
-  Tokens: [' edition', ' instance']
-Rank 15 | Centroid: ' manner' | Score: 0.0000
-  Tokens: [' role', ' way', ' acting', ' manner']
-Rank 16 | Centroid: ' city' | Score: 0.0000
-  Tokens: [' country', ' area', ' place', ' city', ' town', ' context', ' location', ' region']
-Rank 17 | Centroid: ' annual' | Score: 0.0000
-  Tokens: [' annum', ' annual', ' anniversary']
-Rank 18 | Centroid: ' cycle' | Score: 0.0000
-  Tokens: [' cycle']
-Rank 19 | Centroid: ' the' | Score: 0.0000
-  Tokens: [' he', ' the', ' show', ' and', ' or', ' as', ' part', ' y', ' in']
-Rank 20 | Centroid: ' term' | Score: 0.0000
-  Tokens: [' term']
-Rank 21 | Centroid: ' ye' | Score: 0.0000
-  Tokens: [' ye']
+Rank 1 | Centroid: ' may' | Score: 0.4414
+  Tokens: [' can', ' may', ' cannot', ' will', ' must', ' might', ' should', ' could', ' would']
+Rank 2 | Centroid: ' also' | Score: 0.1260
+  Tokens: [' also', ' only', ' then']
+Rank 3 | Centroid: ' have' | Score: 0.1182
+  Tokens: [' have', ' do']
+Rank 4 | Centroid: ' aren' | Score: 0.1108
+  Tokens: [' are', ' don', "'re", ' aren']
+Rank 5 | Centroid: ' drink' | Score: 0.0388
+  Tokens: [' drink', ' sleep', ' adapt', ' water', ' swim', ' dry', ' sweat', ' feed']
+Rank 6 | Centroid: ' use' | Score: 0.0243
+  Tokens: [' use', ' help']
+Rank 7 | Centroid: ' rely' | Score: 0.0219
+  Tokens: [' need', ' rely', ' prefer', ' require', ' depend']
+Rank 8 | Centroid: ' walk' | Score: 0.0162
+  Tokens: [' live', ' move', ' walk', ' dig', ' travel', ' stand']
+Rank 9 | Centroid: ' get' | Score: 0.0126
+  Tokens: [' take', ' get', ' go', ' start', ' make', ' enter', ' find', ' create']
+Rank 10 | Centroid: ' eat' | Score: 0.0118
+  Tokens: [' eat', ' spend', ' breathe']
+Rank 11 | Centroid: ' produce' | Score: 0.0098
+  Tokens: [' conserve', ' consume', ' produce', ' regulate', ' manage', ' reproduce']
+Rank 12 | Centroid: ' store' | Score: 0.0084
+  Tokens: [' store', ' draw']
+Rank 13 | Centroid: ' usually' | Score: 0.0070
+  Tokens: [' usually', ' often', ' rarely', ' typically', ' normally', ' probably', ' actually']
+Rank 14 | Centroid: ' remain' | Score: 0.0060
+  Tokens: [' survive', ' stay', ' remain']
+Rank 15 | Centroid: ' reduce' | Score: 0.0053
+  Tokens: [' avoid', ' obtain', ' utilize', ' allow', ' reduce', ' lose']
+Rank 16 | Centroid: ' keep' | Score: 0.0042
+  Tokens: [' carry', ' hold', ' maintain', ' keep']
+Rank 17 | Centroid: ' mostly' | Score: 0.0038
+  Tokens: [' mainly', ' mostly', ' primarily', ' most', ' especially']
+Rank 18 | Centroid: ' h' | Score: 0.0022
+  Tokens: [' h', ' pass', ' work']
+Rank 19 | Centroid: ' become' | Score: 0.0021
+  Tokens: [' become', ' come', ' begin']
+Rank 20 | Centroid: ' never' | Score: 0.0014
+  Tokens: [' never', ' still']
+Rank 21 | Centroid: ' ration' | Score: 0.0012
+  Tokens: [' ration', ' gra']
+Rank 22 | Centroid: ' lack' | Score: 0.0009
+  Tokens: [' lack']
+Rank 23 | Centroid: ' know' | Score: 0.0006
+  Tokens: [' know', ' possess']
+Rank 24 | Centroid: ' gain' | Score: 0.0005
+  Tokens: [' gain']
+Rank 25 | Centroid: ' evolved' | Score: 0.0003
+  Tokens: [' evolved']
+Rank 26 | Centroid: ' tend' | Score: 0.0003
+  Tokens: [' tend']
 
 **Chosen Concept:** Rank 1

@@ -1,0 +1,150 @@
+--- Step 13 Log ---
+
+== Filtered Candidates ==
+Token: ' paragraph' (ID: 14311), Prob: 0.4902
+Token: ' response' (ID: 2033), Prob: 0.2969
+Token: ' answer' (ID: 4226), Prob: 0.0518
+Token: ' first' (ID: 1156), Prob: 0.0215
+Token: ' user' (ID: 1196), Prob: 0.0131
+Token: ' use' (ID: 990), Prob: 0.0102
+Token: ' sentence' (ID: 11652), Prob: 0.0102
+Token: ' paragraphs' (ID: 42643), Prob: 0.0102
+Token: ' information' (ID: 1995), Prob: 0.0070
+Token: ' word' (ID: 3409), Prob: 0.0070
+Token: ' correct' (ID: 4396), Prob: 0.0058
+Token: ' main' (ID: 1887), Prob: 0.0029
+Token: ' question' (ID: 3405), Prob: 0.0027
+Token: ' final' (ID: 1590), Prob: 0.0026
+Token: ' last' (ID: 1537), Prob: 0.0024
+Token: ' key' (ID: 1376), Prob: 0.0023
+Token: ' topic' (ID: 8544), Prob: 0.0019
+Token: ' instructions' (ID: 11221), Prob: 0.0019
+Token: ' context' (ID: 2266), Prob: 0.0017
+Token: ' structure' (ID: 5944), Prob: 0.0016
+Token: ' following' (ID: 2701), Prob: 0.0015
+Token: ' text' (ID: 1467), Prob: 0.0014
+Token: ' example' (ID: 3110), Prob: 0.0014
+Token: ' sentences' (ID: 22870), Prob: 0.0013
+Token: ' focus' (ID: 5244), Prob: 0.0011
+Token: ' original' (ID: 4024), Prob: 0.0010
+Token: ' instruction' (ID: 7600), Prob: 0.0010
+Token: ' number' (ID: 1372), Prob: 0.0009
+Token: ' format' (ID: 3561), Prob: 0.0009
+Token: ' second' (ID: 2086), Prob: 0.0008
+Token: ' subject' (ID: 3832), Prob: 0.0008
+Token: ' only' (ID: 1172), Prob: 0.0007
+Token: ' responses' (ID: 14507), Prob: 0.0007
+Token: ' content' (ID: 2213), Prob: 0.0007
+Token: ' words' (ID: 4244), Prob: 0.0007
+Token: ' bullet' (ID: 17432), Prob: 0.0007
+Token: ' author' (ID: 3150), Prob: 0.0006
+Token: ' quote' (ID: 12641), Prob: 0.0006
+Token: ' Paragraph' (ID: 49351), Prob: 0.0006
+Token: ' par' (ID: 1346), Prob: 0.0006
+Token: ' person' (ID: 1697), Prob: 0.0006
+Token: ' Response' (ID: 5949), Prob: 0.0006
+Token: ' length' (ID: 3084), Prob: 0.0005
+Token: ' statement' (ID: 5114), Prob: 0.0005
+Token: ' form' (ID: 1352), Prob: 0.0005
+Token: ' title' (ID: 2265), Prob: 0.0005
+Token: ' summary' (ID: 12126), Prob: 0.0005
+Token: ' given' (ID: 2661), Prob: 0.0004
+Token: ' language' (ID: 4128), Prob: 0.0004
+Token: ' assistant' (ID: 17847), Prob: 0.0004
+Token: ' keywords' (ID: 20844), Prob: 0.0004
+Token: ' current' (ID: 1482), Prob: 0.0003
+Token: ' order' (ID: 1973), Prob: 0.0003
+Token: ' bold' (ID: 13939), Prob: 0.0003
+Token: ' term' (ID: 4647), Prob: 0.0003
+Token: ' phrase' (ID: 17133), Prob: 0.0003
+Token: ' most' (ID: 1429), Prob: 0.0003
+Token: ' four' (ID: 3040), Prob: 0.0003
+Token: ' provided' (ID: 3897), Prob: 0.0003
+Token: ' writer' (ID: 6916), Prob: 0.0003
+Token: ' opening' (ID: 8568), Prob: 0.0003
+Token: ' keyword' (ID: 16174), Prob: 0.0003
+Token: ' reply' (ID: 9851), Prob: 0.0002
+Token: ' time' (ID: 882), Prob: 0.0002
+Token: ' three' (ID: 2326), Prob: 0.0002
+Token: ' five' (ID: 4236), Prob: 0.0002
+Token: ' included' (ID: 5230), Prob: 0.0002
+Token: ' organization' (ID: 7321), Prob: 0.0002
+Token: ' two' (ID: 1378), Prob: 0.0002
+Token: ' initial' (ID: 2856), Prob: 0.0002
+Token: ' article' (ID: 4549), Prob: 0.0002
+Token: ' third' (ID: 4843), Prob: 0.0002
+Token: ' goal' (ID: 5795), Prob: 0.0002
+Token: ' fourth' (ID: 11737), Prob: 0.0002
+Token: ' maximum' (ID: 7192), Prob: 0.0002
+Token: ' details' (ID: 3565), Prob: 0.0002
+Token: ' answers' (ID: 11253), Prob: 0.0002
+Token: ' same' (ID: 1852), Prob: 0.0002
+Token: ' introduction' (ID: 16800), Prob: 0.0002
+Token: ' passage' (ID: 21085), Prob: 0.0002
+Token: ' wording' (ID: 60227), Prob: 0.0002
+Token: ' questions' (ID: 4755), Prob: 0.0002
+Token: ' general' (ID: 4586), Prob: 0.0002
+Token: ' choice' (ID: 5754), Prob: 0.0002
+Token: ' best' (ID: 1850), Prob: 0.0001
+Token: ' options' (ID: 2606), Prob: 0.0001
+Token: ' primary' (ID: 6028), Prob: 0.0001
+Token: ' inclusion' (ID: 27187), Prob: 0.0001
+Token: ' formatting' (ID: 36566), Prob: 0.0001
+Token: ' punctuation' (ID: 61503), Prob: 0.0001
+Token: ' role' (ID: 3476), Prob: 0.0001
+Token: ' reader' (ID: 6604), Prob: 0.0001
+Token: ' minimum' (ID: 8028), Prob: 0.0001
+Token: ' audience' (ID: 10650), Prob: 0.0001
+Token: ' heading' (ID: 14496), Prob: 0.0001
+Token: ' mention' (ID: 6286), Prob: 0.0001
+Token: ' examples' (ID: 10295), Prob: 0.0001
+Token: ' Answer' (ID: 21806), Prob: 0.0001
+Token: ' style' (ID: 1707), Prob: 0.0001
+
+== Ranked Concepts (Clusters) ==
+Rank 1 | Centroid: ' paragraph' | Score: 0.5156
+  Tokens: [' paragraph', ' sentence', ' paragraphs', ' sentences', ' bullet', ' quote', ' Paragraph', ' statement', ' punctuation']
+Rank 2 | Centroid: ' response' | Score: 0.2988
+  Tokens: [' response', ' responses', ' Response', ' reply']
+Rank 3 | Centroid: ' answer' | Score: 0.0549
+  Tokens: [' answer', ' question', ' answers', ' questions', ' Answer']
+Rank 4 | Centroid: ' second' | Score: 0.0277
+  Tokens: [' first', ' final', ' last', ' second', ' third', ' fourth']
+Rank 5 | Centroid: ' writer' | Score: 0.0150
+  Tokens: [' user', ' author', ' person', ' writer', ' article', ' reader', ' audience']
+Rank 6 | Centroid: ' use' | Score: 0.0123
+  Tokens: [' use', ' focus', ' title', ' goal', ' choice', ' role']
+Rank 7 | Centroid: ' instructions' | Score: 0.0117
+  Tokens: [' information', ' instructions', ' example', ' instruction', ' details', ' options', ' examples']
+Rank 8 | Centroid: ' words' | Score: 0.0106
+  Tokens: [' word', ' text', ' words', ' language', ' keywords', ' phrase', ' keyword', ' wording']
+Rank 9 | Centroid: ' initial' | Score: 0.0079
+  Tokens: [' main', ' following', ' original', ' only', ' current', ' most', ' initial', ' maximum', ' same', ' general', ' best', ' primary', ' minimum']
+Rank 10 | Centroid: ' correct' | Score: 0.0058
+  Tokens: [' correct']
+Rank 11 | Centroid: ' format' | Score: 0.0043
+  Tokens: [' structure', ' format', ' length', ' form', ' order', ' organization', ' formatting', ' style']
+Rank 12 | Centroid: ' number' | Score: 0.0034
+  Tokens: [' key', ' number', ' time']
+Rank 13 | Centroid: ' topic' | Score: 0.0027
+  Tokens: [' topic', ' subject']
+Rank 14 | Centroid: ' context' | Score: 0.0023
+  Tokens: [' context', ' content']
+Rank 15 | Centroid: ' summary' | Score: 0.0010
+  Tokens: [' summary', ' bold', ' heading']
+Rank 16 | Centroid: ' three' | Score: 0.0009
+  Tokens: [' four', ' three', ' five', ' two']
+Rank 17 | Centroid: ' inclusion' | Score: 0.0008
+  Tokens: [' opening', ' included', ' introduction', ' inclusion']
+Rank 18 | Centroid: ' given' | Score: 0.0007
+  Tokens: [' given', ' provided']
+Rank 19 | Centroid: ' par' | Score: 0.0006
+  Tokens: [' par']
+Rank 20 | Centroid: ' assistant' | Score: 0.0004
+  Tokens: [' assistant']
+Rank 21 | Centroid: ' term' | Score: 0.0003
+  Tokens: [' term']
+Rank 22 | Centroid: ' passage' | Score: 0.0003
+  Tokens: [' passage', ' mention']
+
+**Chosen Concept:** Rank 1

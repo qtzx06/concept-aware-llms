@@ -1,0 +1,112 @@
+--- Step 19 Log ---
+
+== Filtered Candidates ==
+Token: ' July' (ID: 5768), Prob: 0.8867
+Token: ' June' (ID: 5534), Prob: 0.0105
+Token: ' correct' (ID: 4396), Prob: 0.0077
+Token: ' in' (ID: 304), Prob: 0.0060
+Token: ' not' (ID: 537), Prob: 0.0047
+Token: ' August' (ID: 6156), Prob: 0.0047
+Token: ' the' (ID: 279), Prob: 0.0041
+Token: ' also' (ID: 1083), Prob: 0.0039
+Token: ' September' (ID: 6122), Prob: 0.0025
+Token: ' seven' (ID: 8094), Prob: 0.0022
+Token: ' October' (ID: 6527), Prob: 0.0013
+Token: ' J' (ID: 619), Prob: 0.0011
+Token: ' May' (ID: 3217), Prob: 0.0011
+Token: ' April' (ID: 5813), Prob: 0.0011
+Token: ' January' (ID: 6058), Prob: 0.0010
+Token: ' incorrect' (ID: 15114), Prob: 0.0010
+Token: ' j' (ID: 502), Prob: 0.0007
+Token: ' based' (ID: 3118), Prob: 0.0007
+Token: 'July' (ID: 28427), Prob: 0.0006
+Token: ' written' (ID: 5326), Prob: 0.0006
+Token: ' probably' (ID: 4658), Prob: 0.0006
+Token: ' December' (ID: 6652), Prob: 0.0005
+Token: ' to' (ID: 311), Prob: 0.0005
+Token: ' both' (ID: 2176), Prob: 0.0005
+Token: ' November' (ID: 6702), Prob: 0.0004
+Token: ' on' (ID: 389), Prob: 0.0004
+Token: ' either' (ID: 2987), Prob: 0.0004
+Token: ' a' (ID: 264), Prob: 0.0004
+Token: ' no' (ID: 902), Prob: 0.0004
+Token: ' March' (ID: 5470), Prob: 0.0004
+Token: ' February' (ID: 7400), Prob: 0.0004
+Token: ' labeled' (ID: 29829), Prob: 0.0003
+Token: ' Jul' (ID: 10057), Prob: 0.0003
+Token: ' now' (ID: 1431), Prob: 0.0003
+Token: ' likely' (ID: 4363), Prob: 0.0003
+Token: ' The' (ID: 576), Prob: 0.0002
+Token: ' wrong' (ID: 4969), Prob: 0.0002
+Token: ' clear' (ID: 2797), Prob: 0.0002
+Token: ' Julie' (ID: 41187), Prob: 0.0002
+Token: ' confirmed' (ID: 10774), Prob: 0.0002
+Token: ' this' (ID: 419), Prob: 0.0002
+Token: ' one' (ID: 825), Prob: 0.0002
+Token: ' unknown' (ID: 9788), Prob: 0.0002
+Token: ' Seven' (ID: 29948), Prob: 0.0002
+Token: ' two' (ID: 1378), Prob: 0.0002
+Token: ' definitely' (ID: 8491), Prob: 0.0002
+Token: ' stated' (ID: 10982), Prob: 0.0002
+Token: ' B' (ID: 425), Prob: 0.0002
+Token: ' yes' (ID: 9834), Prob: 0.0002
+Token: ' therefore' (ID: 8916), Prob: 0.0002
+Token: ' provided' (ID: 3897), Prob: 0.0001
+Token: ' simply' (ID: 4936), Prob: 0.0001
+Token: ' Summer' (ID: 18836), Prob: 0.0001
+Token: ' too' (ID: 2238), Prob: 0.0001
+Token: ' already' (ID: 2669), Prob: 0.0001
+Token: ' NOT' (ID: 4183), Prob: 0.0001
+Token: ' clearly' (ID: 9355), Prob: 0.0001
+Token: ' JUL' (ID: 87060), Prob: 0.0001
+Token: ' that' (ID: 429), Prob: 0.0001
+Token: ' seventeen' (ID: 81397), Prob: 0.0001
+Token: ' b' (ID: 293), Prob: 0.0001
+Token: ' related' (ID: 5435), Prob: 0.0001
+Token: ' Ju' (ID: 21671), Prob: 0.0001
+Token: ' given' (ID: 2661), Prob: 0.0001
+Token: ' only' (ID: 1172), Prob: 0.0001
+Token: ' five' (ID: 4236), Prob: 0.0001
+Token: ' summer' (ID: 7324), Prob: 0.0001
+Token: ' indeed' (ID: 12824), Prob: 0.0001
+Token: ' Josh' (ID: 18246), Prob: 0.0001
+Token: ' represented' (ID: 15251), Prob: 0.0001
+Token: ' E' (ID: 468), Prob: 0.0001
+Token: ' from' (ID: 504), Prob: 0.0001
+Token: ' month' (ID: 2254), Prob: 0.0001
+Token: ' for' (ID: 369), Prob: 0.0001
+Token: ' D' (ID: 422), Prob: 0.0001
+Token: ' about' (ID: 911), Prob: 0.0001
+Token: ' valid' (ID: 2697), Prob: 0.0001
+
+== Ranked Concepts (Clusters) ==
+Rank 1 | Centroid: ' July' | Score: 0.9102
+  Tokens: [' July', ' June', ' August', ' September', ' October', ' May', ' April', ' January', 'July', ' December', ' November', ' March', ' February', ' month']
+Rank 2 | Centroid: ' the' | Score: 0.0133
+  Tokens: [' in', ' the', ' based', ' to', ' on', ' a', ' no', ' The', ' this', ' that', ' related', ' from', ' for', ' about']
+Rank 3 | Centroid: ' NOT' | Score: 0.0094
+  Tokens: [' not', ' also', ' now', ' therefore', ' too', ' already', ' NOT']
+Rank 4 | Centroid: ' incorrect' | Score: 0.0090
+  Tokens: [' correct', ' incorrect', ' wrong', ' valid']
+Rank 5 | Centroid: ' seven' | Score: 0.0026
+  Tokens: [' seven', ' Seven', ' seventeen', ' five']
+Rank 6 | Centroid: ' B' | Score: 0.0023
+  Tokens: [' J', ' j', ' B', ' b', ' E', ' D']
+Rank 7 | Centroid: ' stated' | Score: 0.0014
+  Tokens: [' written', ' labeled', ' stated', ' provided', ' given', ' represented']
+Rank 8 | Centroid: ' both' | Score: 0.0011
+  Tokens: [' both', ' either', ' simply', ' only']
+Rank 9 | Centroid: ' Jul' | Score: 0.0011
+  Tokens: [' Jul', ' Julie', ' Summer', ' JUL', ' Ju', ' summer', ' Josh']
+Rank 10 | Centroid: ' probably' | Score: 0.0010
+  Tokens: [' probably', ' likely', ' definitely']
+Rank 11 | Centroid: ' indeed' | Score: 0.0005
+  Tokens: [' confirmed', ' yes', ' indeed']
+Rank 12 | Centroid: ' one' | Score: 0.0004
+  Tokens: [' one', ' two']
+Rank 13 | Centroid: ' clear' | Score: 0.0004
+  Tokens: [' clear', ' clearly']
+Rank 14 | Centroid: ' unknown' | Score: 0.0002
+  Tokens: [' unknown']
+
+**Chosen Concept:** Rank 1

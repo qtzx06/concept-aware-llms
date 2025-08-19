@@ -1,0 +1,132 @@
+--- Step 26 Log ---
+
+== Filtered Candidates ==
+Token: ' won' (ID: 2765), Prob: 0.9336
+Token: ' yet' (ID: 3602), Prob: 0.0525
+Token: ' lost' (ID: 5558), Prob: 0.0043
+Token: ' necessarily' (ID: 14312), Prob: 0.0030
+Token: ' made' (ID: 1865), Prob: 0.0007
+Token: ' had' (ID: 1030), Prob: 0.0006
+Token: ' already' (ID: 2669), Prob: 0.0005
+Token: ' been' (ID: 1012), Prob: 0.0005
+Token: ' win' (ID: 3164), Prob: 0.0004
+Token: ' a' (ID: 264), Prob: 0.0002
+Token: ' gained' (ID: 18163), Prob: 0.0002
+Token: ' drawn' (ID: 14764), Prob: 0.0002
+Token: ' actually' (ID: 3520), Prob: 0.0001
+Token: ' taken' (ID: 4429), Prob: 0.0001
+Token: ' gone' (ID: 8048), Prob: 0.0001
+Token: ' just' (ID: 1101), Prob: 0.0001
+Token: ' only' (ID: 1172), Prob: 0.0001
+Token: ' achieved' (ID: 16994), Prob: 0.0001
+Token: ' truly' (ID: 9428), Prob: 0.0001
+Token: ' still' (ID: 2058), Prob: 0.0001
+Token: ' really' (ID: 2167), Prob: 0.0001
+Token: ' done' (ID: 2814), Prob: 0.0001
+Token: 'won' (ID: 54667), Prob: 0.0001
+Token: ' claimed' (ID: 11660), Prob: 0.0001
+Token: ' technically' (ID: 31554), Prob: 0.0001
+Token: ' have' (ID: 614), Prob: 0.0001
+Token: ' used' (ID: 1483), Prob: 0.0001
+Token: ' played' (ID: 6342), Prob: 0.0000
+Token: ' completed' (ID: 8145), Prob: 0.0000
+Token: ' winning' (ID: 10987), Prob: 0.0000
+Token: ' received' (ID: 3949), Prob: 0.0000
+Token: ' possibly' (ID: 10767), Prob: 0.0000
+Token: ' finished' (ID: 8060), Prob: 0.0000
+Token: ' definitely' (ID: 8491), Prob: 0.0000
+Token: ' not' (ID: 537), Prob: 0.0000
+Token: ' caused' (ID: 8881), Prob: 0.0000
+Token: ' advanced' (ID: 10847), Prob: 0.0000
+Token: ' gotten' (ID: 17019), Prob: 0.0000
+Token: ' needed' (ID: 4362), Prob: 0.0000
+Token: ' likely' (ID: 4363), Prob: 0.0000
+Token: ' simply' (ID: 4936), Prob: 0.0000
+Token: ' defeated' (ID: 23283), Prob: 0.0000
+Token: ' obtained' (ID: 12180), Prob: 0.0000
+Token: ' indeed' (ID: 12824), Prob: 0.0000
+Token: ' earned' (ID: 15303), Prob: 0.0000
+Token: ' increased' (ID: 7172), Prob: 0.0000
+Token: ' w' (ID: 289), Prob: 0.0000
+Token: ' written' (ID: 5326), Prob: 0.0000
+Token: ' considered' (ID: 6509), Prob: 0.0000
+Token: ' resulted' (ID: 19006), Prob: 0.0000
+Token: ' and' (ID: 323), Prob: 0.0000
+Token: ' legally' (ID: 25202), Prob: 0.0000
+Token: ' started' (ID: 3855), Prob: 0.0000
+Token: ' changed' (ID: 5497), Prob: 0.0000
+Token: ' previously' (ID: 8597), Prob: 0.0000
+Token: ' reached' (ID: 8643), Prob: 0.0000
+Token: ' probably' (ID: 4658), Prob: 0.0000
+Token: ' succeeded' (ID: 25331), Prob: 0.0000
+Token: ' always' (ID: 2677), Prob: 0.0000
+Token: ' automatically' (ID: 9463), Prob: 0.0000
+Token: ' scored' (ID: 16548), Prob: 0.0000
+Token: ' beaten' (ID: 30294), Prob: 0.0000
+Token: ' decided' (ID: 6635), Prob: 0.0000
+Token: ' experienced' (ID: 10321), Prob: 0.0000
+Token: ' Won' (ID: 42449), Prob: 0.0000
+Token: ' in' (ID: 304), Prob: 0.0000
+Token: ' even' (ID: 1496), Prob: 0.0000
+Token: ' added' (ID: 3694), Prob: 0.0000
+Token: ' proven' (ID: 16622), Prob: 0.0000
+Token: ' become' (ID: 3635), Prob: 0.0000
+Token: ' ended' (ID: 9482), Prob: 0.0000
+Token: ' at' (ID: 518), Prob: 0.0000
+Token: ' assumed' (ID: 19110), Prob: 0.0000
+Token: ' required' (ID: 2567), Prob: 0.0000
+Token: ' certainly' (ID: 7838), Prob: 0.0000
+Token: ' chosen' (ID: 11882), Prob: 0.0000
+Token: ' officially' (ID: 18562), Prob: 0.0000
+Token: ' wound' (ID: 26555), Prob: 0.0000
+Token: ' also' (ID: 1083), Prob: 0.0000
+Token: ' found' (ID: 1730), Prob: 0.0000
+Token: ' seen' (ID: 3884), Prob: 0.0000
+Token: ' paid' (ID: 7171), Prob: 0.0000
+Token: ' participated' (ID: 30308), Prob: 0.0000
+Token: ' committed' (ID: 11163), Prob: 0.0000
+Token: ' guaranteed' (ID: 19323), Prob: 0.0000
+Token: ' the' (ID: 279), Prob: 0.0000
+Token: ' fully' (ID: 7225), Prob: 0.0000
+
+== Ranked Concepts (Clusters) ==
+Rank 1 | Centroid: ' won' | Score: 0.9336
+  Tokens: [' won', ' win', 'won', ' winning', ' Won', ' wound']
+Rank 2 | Centroid: ' already' | Score: 0.0532
+  Tokens: [' yet', ' already', ' still', ' previously', ' also']
+Rank 3 | Centroid: ' lost' | Score: 0.0043
+  Tokens: [' lost', ' advanced']
+Rank 4 | Centroid: ' probably' | Score: 0.0031
+  Tokens: [' necessarily', ' possibly', ' definitely', ' likely', ' probably', ' certainly']
+Rank 5 | Centroid: ' changed' | Score: 0.0008
+  Tokens: [' made', ' increased', ' changed', ' added']
+Rank 6 | Centroid: ' been' | Score: 0.0007
+  Tokens: [' been', ' gone', ' done', ' gotten']
+Rank 7 | Centroid: ' had' | Score: 0.0006
+  Tokens: [' had', ' have']
+Rank 8 | Centroid: ' obtained' | Score: 0.0005
+  Tokens: [' gained', ' achieved', ' received', ' caused', ' obtained', ' earned', ' reached', ' found']
+Rank 9 | Centroid: ' the' | Score: 0.0004
+  Tokens: [' a', ' not', ' w', ' and', ' in', ' even', ' at', ' the']
+Rank 10 | Centroid: ' taken' | Score: 0.0004
+  Tokens: [' drawn', ' taken', ' written', ' proven', ' chosen', ' seen']
+Rank 11 | Centroid: ' truly' | Score: 0.0003
+  Tokens: [' actually', ' truly', ' really', ' indeed']
+Rank 12 | Centroid: ' resulted' | Score: 0.0003
+  Tokens: [' played', ' completed', ' finished', ' resulted', ' started', ' succeeded', ' decided', ' ended', ' participated']
+Rank 13 | Centroid: ' just' | Score: 0.0002
+  Tokens: [' just', ' only', ' simply']
+Rank 14 | Centroid: ' required' | Score: 0.0002
+  Tokens: [' claimed', ' used', ' needed', ' considered', ' assumed', ' required']
+Rank 15 | Centroid: ' officially' | Score: 0.0001
+  Tokens: [' technically', ' legally', ' officially', ' fully']
+Rank 16 | Centroid: ' defeated' | Score: 0.0001
+  Tokens: [' defeated', ' scored', ' beaten']
+Rank 17 | Centroid: ' always' | Score: 0.0001
+  Tokens: [' always', ' automatically', ' guaranteed']
+Rank 18 | Centroid: ' experienced' | Score: 0.0000
+  Tokens: [' experienced', ' paid', ' committed']
+Rank 19 | Centroid: ' become' | Score: 0.0000
+  Tokens: [' become']
+
+**Chosen Concept:** Rank 1

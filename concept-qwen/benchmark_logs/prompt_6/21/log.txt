@@ -1,107 +1,141 @@
 --- Step 21 Log ---
 
 == Filtered Candidates ==
-Token: ' year' (ID: 1042), Prob: 0.9922
-Token: ' same' (ID: 1852), Prob: 0.0085
-Token: ' season' (ID: 3200), Prob: 0.0001
-Token: ' summer' (ID: 7324), Prob: 0.0000
-Token: ' Year' (ID: 9742), Prob: 0.0000
-Token: ' the' (ID: 279), Prob: 0.0000
-Token: 'year' (ID: 3157), Prob: 0.0000
-Token: ' calendar' (ID: 13168), Prob: 0.0000
-Token: ' years' (ID: 1635), Prob: 0.0000
-Token: ' television' (ID: 12425), Prob: 0.0000
-Token: ' time' (ID: 882), Prob: 0.0000
-Token: ' month' (ID: 2254), Prob: 0.0000
-Token: ' decade' (ID: 13212), Prob: 0.0000
-Token: ' particular' (ID: 3953), Prob: 0.0000
-Token: ' period' (ID: 4168), Prob: 0.0000
-Token: ' episode' (ID: 9234), Prob: 0.0000
-Token: ' very' (ID: 1602), Prob: 0.0000
-Token: ' Same' (ID: 25739), Prob: 0.0000
-Token: ' fall' (ID: 4399), Prob: 0.0000
-Token: ' also' (ID: 1083), Prob: 0.0000
-Token: 'same' (ID: 24063), Prob: 0.0000
-Token: '-year' (ID: 4666), Prob: 0.0000
-Token: ' y' (ID: 379), Prob: 0.0000
-Token: ' as' (ID: 438), Prob: 0.0000
-Token: ' first' (ID: 1156), Prob: 0.0000
+Token: 'mate' (ID: 18052), Prob: 1.0000
+Token: 'mates' (ID: 16457), Prob: 0.0001
+Token: 'mite' (ID: 52895), Prob: 0.0000
+Token: 'minate' (ID: 34016), Prob: 0.0000
+Token: 'mit' (ID: 1763), Prob: 0.0000
+Token: 'mat' (ID: 8470), Prob: 0.0000
+Token: 'man' (ID: 1515), Prob: 0.0000
+Token: 'm' (ID: 76), Prob: 0.0000
+Token: 'Mate' (ID: 96642), Prob: 0.0000
+Token: 'mist' (ID: 78924), Prob: 0.0000
+Token: 'mination' (ID: 32096), Prob: 0.0000
+Token: 'mot' (ID: 46828), Prob: 0.0000
+Token: 'mary' (ID: 1534), Prob: 0.0000
+Token: 'match' (ID: 6347), Prob: 0.0000
+Token: ' mate' (ID: 29176), Prob: 0.0000
+Token: 'ma' (ID: 1728), Prob: 0.0000
+Token: 'mid' (ID: 16106), Prob: 0.0000
+Token: 'ment' (ID: 478), Prob: 0.0000
+Token: 'mar' (ID: 5612), Prob: 0.0000
+Token: 'mise' (ID: 73206), Prob: 0.0000
+Token: 'mast' (ID: 96513), Prob: 0.0000
+Token: 'mma' (ID: 15895), Prob: 0.0000
+Token: 'time' (ID: 1678), Prob: 0.0000
+Token: '-m' (ID: 1448), Prob: 0.0000
+Token: 'mis' (ID: 33865), Prob: 0.0000
+Token: 'mart' (ID: 33472), Prob: 0.0000
+Token: 'gate' (ID: 24601), Prob: 0.0000
+Token: 'ight' (ID: 491), Prob: 0.0000
+Token: 'mand' (ID: 1928), Prob: 0.0000
+Token: 'move' (ID: 3397), Prob: 0.0000
+Token: 'ms' (ID: 1011), Prob: 0.0000
+Token: ' was' (ID: 572), Prob: 0.0000
+Token: 'mb' (ID: 3096), Prob: 0.0000
+Token: 'mos' (ID: 8631), Prob: 0.0000
+Token: 'mute' (ID: 52214), Prob: 0.0000
+Token: 'mut' (ID: 6984), Prob: 0.0000
+Token: 'math' (ID: 10374), Prob: 0.0000
+Token: 'my' (ID: 2408), Prob: 0.0000
+Token: ' because' (ID: 1576), Prob: 0.0000
+Token: 'mount' (ID: 16557), Prob: 0.0000
+Token: 'mind' (ID: 37724), Prob: 0.0000
+Token: 'market' (ID: 19301), Prob: 0.0000
 Token: ' and' (ID: 323), Prob: 0.0000
-Token: ' ye' (ID: 19478), Prob: 0.0000
-Token: ' annum' (ID: 86657), Prob: 0.0000
-Token: ' he' (ID: 566), Prob: 0.0000
-Token: ' show' (ID: 1473), Prob: 0.0000
-Token: '_year' (ID: 14645), Prob: 0.0000
-Token: ' yr' (ID: 42338), Prob: 0.0000
+Token: 'mp' (ID: 1307), Prob: 0.0000
+Token: 'start' (ID: 2468), Prob: 0.0000
+Token: 'might' (ID: 44968), Prob: 0.0000
+Token: 'min' (ID: 1065), Prob: 0.0000
+Token: 'mm' (ID: 3821), Prob: 0.0000
+Token: 'more' (ID: 6384), Prob: 0.0000
+Token: 'mare' (ID: 27655), Prob: 0.0000
+Token: 'mt' (ID: 2501), Prob: 0.0000
+Token: 'rate' (ID: 7698), Prob: 0.0000
+Token: 'was' (ID: 16123), Prob: 0.0000
+Token: 'mad' (ID: 20302), Prob: 0.0000
+Token: 'mutation' (ID: 30971), Prob: 0.0000
+Token: 'table' (ID: 2005), Prob: 0.0000
+Token: 'amate' (ID: 91066), Prob: 0.0000
+Token: ' is' (ID: 374), Prob: 0.0000
+Token: 'marine' (ID: 84443), Prob: 0.0000
+Token: 'quit' (ID: 31537), Prob: 0.0000
+Token: 'mus' (ID: 37727), Prob: 0.0000
 Token: ' in' (ID: 304), Prob: 0.0000
-Token: ' YEAR' (ID: 50905), Prob: 0.0000
-Token: 'Year' (ID: 9490), Prob: 0.0000
-Token: ' following' (ID: 2701), Prob: 0.0000
-Token: ' năm' (ID: 128290), Prob: 0.0000
-Token: ' f' (ID: 282), Prob: 0.0000
-Token: ' series' (ID: 4013), Prob: 0.0000
-Token: ' release' (ID: 4879), Prob: 0.0000
-Token: ' June' (ID: 5534), Prob: 0.0000
-Token: ' fiscal' (ID: 19743), Prob: 0.0000
-Token: ' day' (ID: 1899), Prob: 0.0000
-Token: ' spring' (ID: 10464), Prob: 0.0000
-Token: '.year' (ID: 24414), Prob: 0.0000
-Token: ' May' (ID: 3217), Prob: 0.0000
-Token: ' it' (ID: 432), Prob: 0.0000
-Token: ' April' (ID: 5813), Prob: 0.0000
-Token: ' theater' (ID: 26705), Prob: 0.0000
-Token: ' likewise' (ID: 37922), Prob: 0.0000
-Token: ' s' (ID: 274), Prob: 0.0000
-Token: ' July' (ID: 5768), Prob: 0.0000
-Token: ' broadcast' (ID: 12899), Prob: 0.0000
-Token: ' being' (ID: 1660), Prob: 0.0000
-Token: ' second' (ID: 2086), Prob: 0.0000
-Token: ' winter' (ID: 12406), Prob: 0.0000
-Token: ' I' (ID: 358), Prob: 0.0000
-Token: ' Y' (ID: 809), Prob: 0.0000
-Token: ' annual' (ID: 9775), Prob: 0.0000
-Token: ' Season' (ID: 14263), Prob: 0.0000
-Token: ' Television' (ID: 40345), Prob: 0.0000
-Token: ' were' (ID: 1033), Prob: 0.0000
-Token: ' film' (ID: 4531), Prob: 0.0000
-Token: ' cycle' (ID: 10775), Prob: 0.0000
-Token: ' one' (ID: 825), Prob: 0.0000
-Token: ' theatre' (ID: 33496), Prob: 0.0000
-Token: ' año' (ID: 35816), Prob: 0.0000
-Token: ' past' (ID: 3267), Prob: 0.0000
+Token: ' at' (ID: 518), Prob: 0.0000
+Token: 'moment' (ID: 28599), Prob: 0.0000
+Token: 'mia' (ID: 90199), Prob: 0.0000
+Token: 'me' (ID: 2660), Prob: 0.0000
+Token: 'mic' (ID: 21220), Prob: 0.0000
+Token: 'mitt' (ID: 23692), Prob: 0.0000
+Token: 'lock' (ID: 1023), Prob: 0.0000
+Token: 'matrix' (ID: 18110), Prob: 0.0000
+Token: 'wit' (ID: 88519), Prob: 0.0000
+Token: 'ful' (ID: 1262), Prob: 0.0000
+Token: 'make' (ID: 6927), Prob: 0.0000
+Token: 'there' (ID: 18532), Prob: 0.0000
+Token: 'mant' (ID: 41451), Prob: 0.0000
+Token: 'bit' (ID: 4489), Prob: 0.0000
+Token: 'because' (ID: 27653), Prob: 0.0000
+Token: 'mouth' (ID: 32680), Prob: 0.0000
+Token: ' might' (ID: 2578), Prob: 0.0000
+Token: 'mission' (ID: 2728), Prob: 0.0000
+Token: 'straint' (ID: 4655), Prob: 0.0000
+Token: 'tt' (ID: 5566), Prob: 0.0000
+Token: 'mu' (ID: 15128), Prob: 0.0000
+Token: 'wait' (ID: 11489), Prob: 0.0000
 
 == Ranked Concepts (Clusters) ==
-Rank 1 | Centroid: ' year' | Score: 0.9922
-  Tokens: [' year', ' Year', 'year', ' years', ' decade', '-year', '_year', ' YEAR', 'Year', ' năm', '.year', ' año']
-Rank 2 | Centroid: ' same' | Score: 0.0085
-  Tokens: [' same', ' Same', 'same', ' likewise']
-Rank 3 | Centroid: ' season' | Score: 0.0001
-  Tokens: [' season', ' Season']
-Rank 4 | Centroid: ' summer' | Score: 0.0000
-  Tokens: [' summer', ' fall', ' spring', ' winter']
-Rank 5 | Centroid: ' the' | Score: 0.0000
-  Tokens: [' the', ' very', ' as', ' first', ' and', ' he', ' show', ' in', ' following', ' f', ' it', ' s', ' second', ' I', ' one']
-Rank 6 | Centroid: ' cycle' | Score: 0.0000
-  Tokens: [' calendar', ' period', ' cycle']
-Rank 7 | Centroid: ' television' | Score: 0.0000
-  Tokens: [' television', ' broadcast', ' Television', ' film']
-Rank 8 | Centroid: ' time' | Score: 0.0000
-  Tokens: [' time']
-Rank 9 | Centroid: ' month' | Score: 0.0000
-  Tokens: [' month', ' day']
-Rank 10 | Centroid: ' fiscal' | Score: 0.0000
-  Tokens: [' particular', ' release', ' fiscal', ' past']
-Rank 11 | Centroid: ' y' | Score: 0.0000
-  Tokens: [' y', ' ye', ' yr', ' Y']
-Rank 12 | Centroid: ' episode' | Score: 0.0000
-  Tokens: [' episode', ' series']
-Rank 13 | Centroid: ' were' | Score: 0.0000
-  Tokens: [' also', ' being', ' were']
-Rank 14 | Centroid: ' June' | Score: 0.0000
-  Tokens: [' June', ' May', ' April', ' July']
-Rank 15 | Centroid: ' annum' | Score: 0.0000
-  Tokens: [' annum', ' annual']
-Rank 16 | Centroid: ' theater' | Score: 0.0000
-  Tokens: [' theater', ' theatre']
+Rank 1 | Centroid: 'mate' | Score: 1.0000
+  Tokens: ['mate', 'mates', 'Mate', ' mate']
+Rank 2 | Centroid: 'mit' | Score: 0.0000
+  Tokens: ['mite', 'mit', 'mitt', 'mission']
+Rank 3 | Centroid: 'minate' | Score: 0.0000
+  Tokens: ['minate', 'mination']
+Rank 4 | Centroid: 'mat' | Score: 0.0000
+  Tokens: ['mat', 'math', 'matrix']
+Rank 5 | Centroid: '-m' | Score: 0.0000
+  Tokens: ['m', 'ma', '-m', 'ms', 'mb', 'mp', 'mm', 'mt']
+Rank 6 | Centroid: 'mand' | Score: 0.0000
+  Tokens: ['man', 'ment', 'mand']
+Rank 7 | Centroid: 'mis' | Score: 0.0000
+  Tokens: ['mist', 'mise', 'mis', 'mind', 'mant']
+Rank 8 | Centroid: 'mar' | Score: 0.0000
+  Tokens: ['mary', 'mar', 'marine']
+Rank 9 | Centroid: 'mu' | Score: 0.0000
+  Tokens: ['mot', 'mos', 'mus', 'mu']
+Rank 10 | Centroid: 'make' | Score: 0.0000
+  Tokens: ['match', 'move', 'start', 'more', 'lock', 'make']
+Rank 11 | Centroid: 'mad' | Score: 0.0000
+  Tokens: ['mast', 'mart', 'mare', 'mad']
+Rank 12 | Centroid: 'mid' | Score: 0.0000
+  Tokens: ['mid']
+Rank 13 | Centroid: 'time' | Score: 0.0000
+  Tokens: ['time', 'rate', 'table', 'bit', 'tt']
+Rank 14 | Centroid: 'mia' | Score: 0.0000
+  Tokens: ['mma', 'mia', 'mic']
+Rank 15 | Centroid: ' might' | Score: 0.0000
+  Tokens: [' was', 'might', 'was', 'quit', ' might', 'wait']
+Rank 16 | Centroid: 'mutation' | Score: 0.0000
+  Tokens: ['mute', 'mut', 'mutation']
+Rank 17 | Centroid: 'moment' | Score: 0.0000
+  Tokens: ['gate', 'moment', 'mouth']
+Rank 18 | Centroid: 'ight' | Score: 0.0000
+  Tokens: ['ight', 'ful']
+Rank 19 | Centroid: 'my' | Score: 0.0000
+  Tokens: ['my', 'min', 'me']
+Rank 20 | Centroid: ' in' | Score: 0.0000
+  Tokens: [' and', ' is', ' in', ' at']
+Rank 21 | Centroid: 'because' | Score: 0.0000
+  Tokens: [' because', 'there', 'because']
+Rank 22 | Centroid: 'mount' | Score: 0.0000
+  Tokens: ['mount']
+Rank 23 | Centroid: 'market' | Score: 0.0000
+  Tokens: ['market']
+Rank 24 | Centroid: 'amate' | Score: 0.0000
+  Tokens: ['amate', 'straint']
+Rank 25 | Centroid: 'wit' | Score: 0.0000
+  Tokens: ['wit']
 
 **Chosen Concept:** Rank 1

@@ -1,140 +1,129 @@
 --- Step 3 Log ---
 
 == Filtered Candidates ==
-Token: ' also' (ID: 1083), Prob: 0.3809
-Token: ' since' (ID: 2474), Prob: 0.3809
-Token: ' been' (ID: 1012), Prob: 0.0850
-Token: ' appeared' (ID: 9723), Prob: 0.0752
-Token: ' had' (ID: 1030), Prob: 0.0215
-Token: ' played' (ID: 6342), Prob: 0.0131
-Token: ' a' (ID: 264), Prob: 0.0101
-Token: ' worked' (ID: 6439), Prob: 0.0062
-Token: ' performed' (ID: 10660), Prob: 0.0037
-Token: ' continued' (ID: 8570), Prob: 0.0033
-Token: ' acted' (ID: 30432), Prob: 0.0033
-Token: ' subsequently' (ID: 27420), Prob: 0.0029
-Token: ' starred' (ID: 58235), Prob: 0.0014
-Token: ' then' (ID: 1221), Prob: 0.0012
-Token: ' made' (ID: 1865), Prob: 0.0011
-Token: ' guest' (ID: 8640), Prob: 0.0006
-Token: ' an' (ID: 458), Prob: 0.0006
-Token: ' done' (ID: 2814), Prob: 0.0005
-Token: ' written' (ID: 5326), Prob: 0.0005
-Token: ' recently' (ID: 5926), Prob: 0.0005
-Token: ' later' (ID: 2937), Prob: 0.0004
-Token: ' gone' (ID: 8048), Prob: 0.0003
-Token: ' featured' (ID: 14766), Prob: 0.0003
-Token: ' gained' (ID: 18163), Prob: 0.0003
-Token: ' now' (ID: 1431), Prob: 0.0003
-Token: ' won' (ID: 2765), Prob: 0.0003
-Token: ' received' (ID: 3949), Prob: 0.0002
-Token: ' provided' (ID: 3897), Prob: 0.0002
-Token: ' become' (ID: 3635), Prob: 0.0002
-Token: ' portrayed' (ID: 44777), Prob: 0.0002
-Token: ' taken' (ID: 4429), Prob: 0.0002
-Token: ' previously' (ID: 8597), Prob: 0.0001
-Token: ' held' (ID: 5644), Prob: 0.0001
-Token: ' repr' (ID: 30636), Prob: 0.0001
-Token: ' more' (ID: 803), Prob: 0.0001
+Token: ' should' (ID: 1265), Prob: 0.5703
+Token: ' is' (ID: 374), Prob: 0.1855
+Token: ' to' (ID: 311), Prob: 0.0776
+Token: ' must' (ID: 1969), Prob: 0.0469
+Token: ' would' (ID: 1035), Prob: 0.0322
+Token: ' needs' (ID: 3880), Prob: 0.0153
+Token: ' will' (ID: 686), Prob: 0.0134
+Token: ' that' (ID: 429), Prob: 0.0093
+Token: ' provided' (ID: 3897), Prob: 0.0063
+Token: ' can' (ID: 646), Prob: 0.0034
+Token: ' could' (ID: 1410), Prob: 0.0030
+Token: ' has' (ID: 702), Prob: 0.0027
+Token: ' in' (ID: 304), Prob: 0.0014
+Token: ' for' (ID: 369), Prob: 0.0013
+Token: ' was' (ID: 572), Prob: 0.0011
+Token: ' about' (ID: 911), Prob: 0.0010
+Token: ' starts' (ID: 8471), Prob: 0.0010
+Token: ' correctly' (ID: 12440), Prob: 0.0009
+Token: ' says' (ID: 2727), Prob: 0.0009
+Token: ' cannot' (ID: 4157), Prob: 0.0009
+Token: ' given' (ID: 2661), Prob: 0.0008
+Token: ' statement' (ID: 5114), Prob: 0.0008
+Token: ' contains' (ID: 5610), Prob: 0.0007
+Token: ' above' (ID: 3403), Prob: 0.0007
+Token: ' text' (ID: 1467), Prob: 0.0006
+Token: ' may' (ID: 1231), Prob: 0.0006
+Token: ' does' (ID: 1558), Prob: 0.0006
+Token: ' which' (ID: 892), Prob: 0.0006
+Token: ' might' (ID: 2578), Prob: 0.0006
+Token: ' explains' (ID: 14758), Prob: 0.0005
+Token: ' mentions' (ID: 33845), Prob: 0.0005
+Token: ' of' (ID: 315), Prob: 0.0004
+Token: ' seems' (ID: 4977), Prob: 0.0004
+Token: ' provides' (ID: 5707), Prob: 0.0004
+Token: ' includes' (ID: 5646), Prob: 0.0004
+Token: ' begins' (ID: 12033), Prob: 0.0004
+Token: ' states' (ID: 5302), Prob: 0.0004
+Token: ' below' (ID: 3685), Prob: 0.0004
+Token: ' paragraph' (ID: 14311), Prob: 0.0003
+Token: ' from' (ID: 504), Prob: 0.0003
+Token: ' the' (ID: 279), Prob: 0.0002
+Token: ' ends' (ID: 10335), Prob: 0.0002
+Token: ' you' (ID: 498), Prob: 0.0002
+Token: ' discusses' (ID: 34334), Prob: 0.0002
+Token: ' doesn' (ID: 3171), Prob: 0.0002
+Token: ' requires' (ID: 7460), Prob: 0.0002
+Token: ' and' (ID: 323), Prob: 0.0002
+Token: ' only' (ID: 1172), Prob: 0.0002
+Token: ' under' (ID: 1212), Prob: 0.0002
+Token: ' sentence' (ID: 11652), Prob: 0.0001
+Token: ' with' (ID: 448), Prob: 0.0001
+Token: ' appears' (ID: 7952), Prob: 0.0001
+Token: ' incorrectly' (ID: 43347), Prob: 0.0001
+Token: ' A' (ID: 362), Prob: 0.0001
+Token: ' on' (ID: 389), Prob: 0.0001
+Token: ' gives' (ID: 6696), Prob: 0.0001
+Token: ' indicates' (ID: 14807), Prob: 0.0001
+Token: ' uses' (ID: 5711), Prob: 0.0001
+Token: ' regarding' (ID: 8826), Prob: 0.0001
+Token: ' after' (ID: 1283), Prob: 0.0001
+Token: ' shows' (ID: 4933), Prob: 0.0001
+Token: ' concludes' (ID: 44437), Prob: 0.0001
+Token: ' reads' (ID: 15804), Prob: 0.0001
+Token: ' refers' (ID: 19257), Prob: 0.0001
+Token: ' as' (ID: 438), Prob: 0.0001
+Token: ' at' (ID: 518), Prob: 0.0001
+Token: ' talks' (ID: 13433), Prob: 0.0001
+Token: ' makes' (ID: 3643), Prob: 0.0001
+Token: ' correct' (ID: 4396), Prob: 0.0001
+Token: ' suggests' (ID: 13230), Prob: 0.0001
+Token: ' here' (ID: 1588), Prob: 0.0001
+Token: ' options' (ID: 2606), Prob: 0.0001
+Token: ' matches' (ID: 9071), Prob: 0.0001
+Token: ' goes' (ID: 5780), Prob: 0.0001
+Token: ' sentences' (ID: 22870), Prob: 0.0001
+Token: ' then' (ID: 1221), Prob: 0.0001
 Token: ' most' (ID: 1429), Prob: 0.0001
-Token: ' further' (ID: 4623), Prob: 0.0001
-Token: ' spent' (ID: 7391), Prob: 0.0001
-Token: ' found' (ID: 1730), Prob: 0.0001
-Token: ' directed' (ID: 15540), Prob: 0.0001
-Token: ' has' (ID: 702), Prob: 0.0001
-Token: ' enjoyed' (ID: 14006), Prob: 0.0001
-Token: ' the' (ID: 279), Prob: 0.0001
-Token: ' earned' (ID: 15303), Prob: 0.0001
-Token: ' participated' (ID: 30308), Prob: 0.0001
-Token: ' established' (ID: 9555), Prob: 0.0001
-Token: ' remained' (ID: 14616), Prob: 0.0001
-Token: ' star' (ID: 6774), Prob: 0.0000
-Token: ' frequently' (ID: 13814), Prob: 0.0000
-Token: ' mainly' (ID: 14576), Prob: 0.0000
-Token: ' additionally' (ID: 36838), Prob: 0.0000
-Token: ' regularly' (ID: 15502), Prob: 0.0000
-Token: 'appeared' (ID: 98467), Prob: 0.0000
-Token: ' appear' (ID: 4994), Prob: 0.0000
-Token: ' served' (ID: 10223), Prob: 0.0000
-Token: ' represented' (ID: 15251), Prob: 0.0000
-Token: ' created' (ID: 3465), Prob: 0.0000
-Token: ' released' (ID: 5880), Prob: 0.0000
-Token: ' followed' (ID: 8110), Prob: 0.0000
-Token: ' experienced' (ID: 10321), Prob: 0.0000
-Token: ' toured' (ID: 90613), Prob: 0.0000
-Token: ' in' (ID: 304), Prob: 0.0000
-Token: ' not' (ID: 537), Prob: 0.0000
-Token: ' his' (ID: 806), Prob: 0.0000
-Token: ' studied' (ID: 19476), Prob: 0.0000
-Token: ' built' (ID: 5798), Prob: 0.0000
-Token: ' expanded' (ID: 17183), Prob: 0.0000
-Token: ' other' (ID: 1008), Prob: 0.0000
-Token: ' moved' (ID: 7726), Prob: 0.0000
-Token: ' appears' (ID: 7952), Prob: 0.0000
-Token: ' another' (ID: 2441), Prob: 0.0000
-Token: ' occasionally' (ID: 22930), Prob: 0.0000
-Token: ' gradually' (ID: 26024), Prob: 0.0000
-Token: ' co' (ID: 1062), Prob: 0.0000
-Token: ' two' (ID: 1378), Prob: 0.0000
-Token: ' developed' (ID: 7881), Prob: 0.0000
-Token: ' produced' (ID: 8947), Prob: 0.0000
-Token: ' thereafter' (ID: 44995), Prob: 0.0000
-Token: ' notably' (ID: 34046), Prob: 0.0000
-Token: ' lent' (ID: 47807), Prob: 0.0000
-Token: ' as' (ID: 438), Prob: 0.0000
-Token: ' often' (ID: 3545), Prob: 0.0000
-Token: ' various' (ID: 5257), Prob: 0.0000
-Token: ' undertaken' (ID: 44079), Prob: 0.0000
-Token: ' rec' (ID: 1395), Prob: 0.0000
-Token: ' given' (ID: 2661), Prob: 0.0000
-Token: ' acting' (ID: 15358), Prob: 0.0000
-Token: ' spoken' (ID: 21355), Prob: 0.0000
-Token: ' repeatedly' (ID: 18822), Prob: 0.0000
-Token: ' staged' (ID: 50057), Prob: 0.0000
-Token: ' Since' (ID: 8704), Prob: 0.0000
+Token: ' message' (ID: 1943), Prob: 0.0001
+Token: ' shall' (ID: 4880), Prob: 0.0001
+Token: ' format' (ID: 3561), Prob: 0.0001
+Token: ' isn' (ID: 4436), Prob: 0.0001
+Token: ' continues' (ID: 9539), Prob: 0.0001
+Token: ' presented' (ID: 10449), Prob: 0.0001
+Token: ' follows' (ID: 11017), Prob: 0.0001
+Token: ' explanation' (ID: 16148), Prob: 0.0001
+Token: ''s' (ID: 594), Prob: 0.0001
+Token: ' describes' (ID: 16555), Prob: 0.0001
+Token: ' answer' (ID: 4226), Prob: 0.0001
 
 == Ranked Concepts (Clusters) ==
-Rank 1 | Centroid: ' the' | Score: 0.3926
-  Tokens: [' also', ' a', ' an', ' more', ' most', ' has', ' the', ' in', ' not', ' his', ' other', ' another', ' two', ' as', ' various']
-Rank 2 | Centroid: ' Since' | Score: 0.3828
-  Tokens: [' since', ' then', ' now', ' Since']
-Rank 3 | Centroid: ' been' | Score: 0.0854
-  Tokens: [' been', ' gone', ' become']
-Rank 4 | Centroid: ' appeared' | Score: 0.0752
-  Tokens: [' appeared', 'appeared', ' appear', ' appears']
-Rank 5 | Centroid: ' had' | Score: 0.0215
-  Tokens: [' had']
-Rank 6 | Centroid: ' played' | Score: 0.0170
-  Tokens: [' played', ' performed', ' held', ' served', ' studied']
-Rank 7 | Centroid: ' worked' | Score: 0.0064
-  Tokens: [' worked', ' enjoyed', ' participated', ' remained', ' moved']
-Rank 8 | Centroid: ' further' | Score: 0.0034
-  Tokens: [' continued', ' further', ' additionally']
-Rank 9 | Centroid: ' subsequently' | Score: 0.0034
-  Tokens: [' subsequently', ' later', ' thereafter']
-Rank 10 | Centroid: ' acted' | Score: 0.0033
-  Tokens: [' acted', ' acting']
-Rank 11 | Centroid: ' starred' | Score: 0.0018
-  Tokens: [' starred', ' featured', ' directed', ' star']
-Rank 12 | Centroid: ' created' | Score: 0.0016
-  Tokens: [' made', ' provided', ' found', ' established', ' created', ' released', ' built', ' developed', ' produced']
-Rank 13 | Centroid: ' undertaken' | Score: 0.0012
-  Tokens: [' done', ' written', ' taken', ' undertaken', ' spoken']
-Rank 14 | Centroid: ' received' | Score: 0.0010
-  Tokens: [' gained', ' won', ' received', ' spent', ' earned', ' experienced', ' lent']
-Rank 15 | Centroid: ' frequently' | Score: 0.0009
-  Tokens: [' recently', ' previously', ' frequently', ' mainly', ' regularly', ' occasionally', ' gradually', ' notably', ' often', ' repeatedly']
-Rank 16 | Centroid: ' guest' | Score: 0.0007
-  Tokens: [' guest', ' expanded']
-Rank 17 | Centroid: ' represented' | Score: 0.0004
-  Tokens: [' portrayed', ' repr', ' represented']
-Rank 18 | Centroid: ' toured' | Score: 0.0000
-  Tokens: [' toured', ' staged']
-Rank 19 | Centroid: ' co' | Score: 0.0000
-  Tokens: [' co', ' rec']
-Rank 20 | Centroid: ' followed' | Score: 0.0000
-  Tokens: [' followed']
-Rank 21 | Centroid: ' given' | Score: 0.0000
-  Tokens: [' given']
+Rank 1 | Centroid: ' may' | Score: 0.6719
+  Tokens: [' should', ' must', ' would', ' will', ' can', ' could', ' cannot', ' may', ' might', ' shall']
+Rank 2 | Centroid: ' is' | Score: 0.1904
+  Tokens: [' is', ' has', ' was', ' does', ' doesn', ' isn']
+Rank 3 | Centroid: ' in' | Score: 0.0923
+  Tokens: [' to', ' that', ' in', ' for', ' which', ' of', ' from', ' the', ' and', ' under', ' with', ' on', ' after', ' as', ' at', "'s"]
+Rank 4 | Centroid: ' needs' | Score: 0.0154
+  Tokens: [' needs', ' uses']
+Rank 5 | Centroid: ' provides' | Score: 0.0077
+  Tokens: [' provided', ' given', ' provides', ' gives', ' presented']
+Rank 6 | Centroid: ' indicates' | Score: 0.0034
+  Tokens: [' says', ' contains', ' seems', ' includes', ' discusses', ' requires', ' appears', ' indicates', ' shows', ' refers', ' makes', ' suggests', ' describes']
+Rank 7 | Centroid: ' sentence' | Score: 0.0019
+  Tokens: [' statement', ' text', ' paragraph', ' sentence', ' sentences', ' message']
+Rank 8 | Centroid: ' begins' | Score: 0.0018
+  Tokens: [' starts', ' begins', ' ends', ' concludes', ' goes', ' continues']
+Rank 9 | Centroid: ' correctly' | Score: 0.0011
+  Tokens: [' correctly', ' incorrectly', ' correct']
+Rank 10 | Centroid: ' mentions' | Score: 0.0011
+  Tokens: [' mentions', ' states', ' reads', ' talks', ' matches']
+Rank 11 | Centroid: ' below' | Score: 0.0011
+  Tokens: [' above', ' below', ' here']
+Rank 12 | Centroid: ' about' | Score: 0.0011
+  Tokens: [' about', ' regarding']
+Rank 13 | Centroid: ' explains' | Score: 0.0006
+  Tokens: [' explains', ' explanation']
+Rank 14 | Centroid: ' you' | Score: 0.0005
+  Tokens: [' you', ' only', ' A', ' most']
+Rank 15 | Centroid: ' options' | Score: 0.0002
+  Tokens: [' options', ' format', ' answer']
+Rank 16 | Centroid: ' then' | Score: 0.0001
+  Tokens: [' then']
+Rank 17 | Centroid: ' follows' | Score: 0.0001
+  Tokens: [' follows']
 
 **Chosen Concept:** Rank 1

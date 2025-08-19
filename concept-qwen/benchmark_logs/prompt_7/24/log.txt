@@ -1,0 +1,76 @@
+--- Step 24 Log ---
+
+== Filtered Candidates ==
+Token: ' and' (ID: 323), Prob: 0.0019
+Token: ' B' (ID: 425), Prob: 0.0002
+Token: ' is' (ID: 374), Prob: 0.0001
+Token: '\n' (ID: 1699), Prob: 0.0000
+Token: ' in' (ID: 304), Prob: 0.0000
+Token: ' A' (ID: 362), Prob: 0.0000
+Token: ' Answer' (ID: 21806), Prob: 0.0000
+Token: ' L' (ID: 444), Prob: 0.0000
+Token: ' the' (ID: 279), Prob: 0.0000
+Token: ' The' (ID: 576), Prob: 0.0000
+Token: ''s' (ID: 594), Prob: 0.0000
+Token: ' P' (ID: 393), Prob: 0.0000
+Token: ' as' (ID: 438), Prob: 0.0000
+Token: ' from' (ID: 504), Prob: 0.0000
+Token: ' or' (ID: 476), Prob: 0.0000
+Token: ' based' (ID: 3118), Prob: 0.0000
+Token: ' to' (ID: 311), Prob: 0.0000
+Token: ' answer' (ID: 4226), Prob: 0.0000
+Token: ' Yes' (ID: 7414), Prob: 0.0000
+Token: ' on' (ID: 389), Prob: 0.0000
+Token: ' only' (ID: 1172), Prob: 0.0000
+Token: ' C' (ID: 356), Prob: 0.0000
+Token: ' at' (ID: 518), Prob: 0.0000
+Token: ' but' (ID: 714), Prob: 0.0000
+Token: ' for' (ID: 369), Prob: 0.0000
+Token: ' started' (ID: 3855), Prob: 0.0000
+Token: ' PM' (ID: 5851), Prob: 0.0000
+Token: ' J' (ID: 619), Prob: 0.0000
+Token: ' with' (ID: 448), Prob: 0.0000
+Token: ' II' (ID: 7946), Prob: 0.0000
+Token: ' Inc' (ID: 4848), Prob: 0.0000
+Token: ' OR' (ID: 2726), Prob: 0.0000
+Token: ' Company' (ID: 8188), Prob: 0.0000
+Token: ' yes' (ID: 9834), Prob: 0.0000
+Token: '	B' (ID: 12791), Prob: 0.0000
+Token: ' first' (ID: 1156), Prob: 0.0000
+Token: '(B' (ID: 5349), Prob: 0.0000
+Token: ' I' (ID: 358), Prob: 0.0000
+Token: ' during' (ID: 2337), Prob: 0.0000
+Token: ' USA' (ID: 7279), Prob: 0.0000
+Token: ' starts' (ID: 8471), Prob: 0.0000
+
+== Ranked Concepts (Clusters) ==
+Rank 1 | Centroid: ' in' | Score: 0.0021
+  Tokens: [' and', ' is', ' in', ' the', ' as', ' from', ' to', ' on', ' at', ' for', ' with']
+Rank 2 | Centroid: '	B' | Score: 0.0002
+  Tokens: [' B', '\tB', '(B']
+Rank 3 | Centroid: ' L' | Score: 0.0001
+  Tokens: [' A', ' L', ' P', ' C', ' J']
+Rank 4 | Centroid: '\n' | Score: 0.0001
+  Tokens: ['\\n', "'s"]
+Rank 5 | Centroid: ' Answer' | Score: 0.0001
+  Tokens: [' Answer', ' answer']
+Rank 6 | Centroid: ' The' | Score: 0.0000
+  Tokens: [' The']
+Rank 7 | Centroid: ' or' | Score: 0.0000
+  Tokens: [' or', ' but', ' OR']
+Rank 8 | Centroid: ' based' | Score: 0.0000
+  Tokens: [' based', ' during']
+Rank 9 | Centroid: ' Yes' | Score: 0.0000
+  Tokens: [' Yes', ' yes']
+Rank 10 | Centroid: ' only' | Score: 0.0000
+  Tokens: [' only', ' first']
+Rank 11 | Centroid: ' PM' | Score: 0.0000
+  Tokens: [' PM', ' USA']
+Rank 12 | Centroid: ' started' | Score: 0.0000
+  Tokens: [' started', ' starts']
+Rank 13 | Centroid: ' II' | Score: 0.0000
+  Tokens: [' II', ' I']
+Rank 14 | Centroid: ' Inc' | Score: 0.0000
+  Tokens: [' Inc', ' Company']
+
+**Chosen Concept:** Rank 1

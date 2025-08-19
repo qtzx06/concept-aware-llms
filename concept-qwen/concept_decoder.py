@@ -22,7 +22,6 @@ class ConceptDecoder:
         self.tokenizer = tokenizer
         self.device = model.device
         self.config = config
-        self.similarity_model = None # Lazy-loaded for concept penalty
         
         # Advanced Logging Setup
         self.logging_enabled = config.get('logging_enabled', False)
@@ -30,7 +29,6 @@ class ConceptDecoder:
         self.log_dir_base = config.get('log_dir_base', Path(__file__).parent.resolve())
         self.log_dir = self.log_dir_base / "logs" # Default for interactive
         self.current_prompt_id = None
-        self.concept_history = [] # For concept-level repetition penalty
 
     def set_log_prompt_id(self, prompt_id):
         """Sets the prompt ID for benchmark logging to create prompt_n folders."""
@@ -74,44 +72,12 @@ class ConceptDecoder:
                 
                 f.write(f"\n**Chosen Concept:** Rank {chosen_concept_rank}\n")
     
-    def _apply_concept_penalty(self, ranked_concepts, embeddings, filtered_ids):
-        if not self.concept_history:
-            return ranked_concepts
-
-        if self.similarity_model is None:
-            print("Lazy-loading similarity model for concept penalty...")
-            self.similarity_model = SentenceTransformer('all-MiniLM-L6-v2', device=self.device)
-
-        penalized_concepts = []
-        history_centroids = [c['centroid_token'] for c in self.concept_history]
-        history_embeddings = self.similarity_model.encode(history_centroids, convert_to_tensor=True)
-
-        for score, tokens in ranked_concepts:
-            cluster_mask = torch.from_numpy(np.isin(filtered_ids.cpu(), tokens.cpu())).to(self.device)
-            cluster_embeds = embeddings[cluster_mask]
-            centroid_token = find_centroid_token(cluster_embeds, tokens, self.tokenizer)
-            
-            if centroid_token != "N/A":
-                centroid_embedding = self.similarity_model.encode(centroid_token, convert_to_tensor=True)
-                similarities = util.pytorch_cos_sim(centroid_embedding, history_embeddings)
-                
-                # Apply penalty if concept is too similar to recent ones
-                if torch.any(similarities > 0.85): # High similarity threshold
-                    score *= 0.1 # Heavy penalty
-
-            penalized_concepts.append((score, tokens))
-
-        # Sort again after penalty
-        penalized_concepts.sort(key=lambda x: x[0], reverse=True)
-        return penalized_concepts
-
     def _get_next_token_dist(self, logits):
         k = self.config.get('top_k', 100)
         top_k_ids, top_k_probs = get_top_k_candidates(logits, k)
         
         top_token_str = self.tokenizer.decode(top_k_ids[0], skip_special_tokens=True).strip()
         if top_token_str in GRAMMAR_CRITICAL_TOKENS:
-            self.concept_history.clear()
             return top_k_ids[0]
 
         filtered_ids, filtered_probs = filter_candidates(top_k_ids, top_k_probs, self.tokenizer)
@@ -132,19 +98,10 @@ class ConceptDecoder:
             
             ranked_concepts.sort(key=lambda x: x[0], reverse=True)
             
-            penalized_concepts = self._apply_concept_penalty(ranked_concepts, embeddings, filtered_ids)
-
-            best_prob, best_concept_tokens = penalized_concepts[0]
-            
-            # Update history
-            best_concept_mask = torch.from_numpy(np.isin(filtered_ids.cpu(), best_concept_tokens.cpu())).to(self.device)
-            centroid_token = find_centroid_token(embeddings[best_concept_mask], best_concept_tokens, self.tokenizer)
-            self.concept_history.append({'centroid_token': centroid_token})
-            if len(self.concept_history) > 3: # Keep history short
-                self.concept_history.pop(0)
+            best_prob, best_concept_tokens = ranked_concepts[0]
             
             if self.logging_enabled:
-                self._log_step(self.step_num + 1, embeddings, filtered_ids, filtered_probs, cluster_labels, penalized_concepts, 1)
+                self._log_step(self.step_num + 1, embeddings, filtered_ids, filtered_probs, cluster_labels, ranked_concepts, 1)
 
             best_concept_probs_mask = torch.from_numpy(np.isin(filtered_ids.cpu(), best_concept_tokens.cpu())).to(self.device)
             best_concept_probs = filtered_probs[best_concept_probs_mask]
@@ -216,7 +173,6 @@ class ConceptDecoder:
         return ordered[:self.config.get('num_beams', 3)]
 
     def generate(self, prompt):
-        self.concept_history.clear()
         strategy = self.config.get('strategy', 'sampling')
         print(f"\n--- CONCEPT-AWARE DECODER ({strategy.capitalize()}) ---")
         self._setup_logging()

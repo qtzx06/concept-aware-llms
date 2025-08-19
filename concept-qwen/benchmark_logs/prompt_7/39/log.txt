@@ -1,0 +1,134 @@
+--- Step 39 Log ---
+
+== Filtered Candidates ==
+Token: ' world' (ID: 1879), Prob: 0.9883
+Token: ' United' (ID: 3639), Prob: 0.0067
+Token: ' US' (ID: 2274), Prob: 0.0019
+Token: ' U' (ID: 547), Prob: 0.0006
+Token: ' World' (ID: 4337), Prob: 0.0002
+Token: ' USA' (ID: 7279), Prob: 0.0002
+Token: ' country' (ID: 3146), Prob: 0.0001
+Token: ' year' (ID: 1042), Prob: 0.0000
+Token: ' city' (ID: 3283), Prob: 0.0000
+Token: ' worlds' (ID: 23859), Prob: 0.0000
+Token: ' last' (ID: 1537), Prob: 0.0000
+Token: ' week' (ID: 2003), Prob: 0.0000
+Token: ' land' (ID: 4268), Prob: 0.0000
+Token: ' worldwide' (ID: 15245), Prob: 0.0000
+Token: ' Americas' (ID: 51148), Prob: 0.0000
+Token: ' West' (ID: 4312), Prob: 0.0000
+Token: ' UK' (ID: 6424), Prob: 0.0000
+Token: 'world' (ID: 14615), Prob: 0.0000
+Token: ' history' (ID: 3840), Prob: 0.0000
+Token: ' entire' (ID: 4453), Prob: 0.0000
+Token: ' united' (ID: 28192), Prob: 0.0000
+Token: ' universe' (ID: 15494), Prob: 0.0000
+Token: ' countries' (ID: 5837), Prob: 0.0000
+Token: ' WORLD' (ID: 50891), Prob: 0.0000
+Token: ' west' (ID: 9710), Prob: 0.0000
+Token: ' American' (ID: 3693), Prob: 0.0000
+Token: ' wor' (ID: 4099), Prob: 0.0000
+Token: ' nation' (ID: 6995), Prob: 0.0000
+Token: ' state' (ID: 1584), Prob: 0.0000
+Token: ' global' (ID: 3644), Prob: 0.0000
+Token: ' whole' (ID: 4361), Prob: 0.0000
+Token: ' globe' (ID: 23918), Prob: 0.0000
+Token: ' international' (ID: 6489), Prob: 0.0000
+Token: ' word' (ID: 3409), Prob: 0.0000
+Token: '	world' (ID: 76508), Prob: 0.0000
+Token: ' first' (ID: 1156), Prob: 0.0000
+Token: ' Western' (ID: 10867), Prob: 0.0000
+Token: ' list' (ID: 1140), Prob: 0.0000
+Token: 'United' (ID: 22372), Prob: 0.0000
+Token: ' past' (ID: 3267), Prob: 0.0000
+Token: ' us' (ID: 601), Prob: 0.0000
+Token: ' area' (ID: 3082), Prob: 0.0000
+Token: ' planet' (ID: 11580), Prob: 0.0000
+Token: ' most' (ID: 1429), Prob: 0.0000
+Token: ' UN' (ID: 6643), Prob: 0.0000
+Token: ' Earth' (ID: 9237), Prob: 0.0000
+Token: ' America' (ID: 5159), Prob: 0.0000
+Token: ' town' (ID: 6290), Prob: 0.0000
+Token: ' music' (ID: 4627), Prob: 0.0000
+Token: ' cities' (ID: 9720), Prob: 0.0000
+Token: ' the' (ID: 279), Prob: 0.0000
+Token: ' W' (ID: 467), Prob: 0.0000
+Token: ' states' (ID: 5302), Prob: 0.0000
+Token: ' two' (ID: 1378), Prob: 0.0000
+Token: ' Washington' (ID: 6515), Prob: 0.0000
+Token: ' place' (ID: 1992), Prob: 0.0000
+Token: ' largest' (ID: 7772), Prob: 0.0000
+Token: ' long' (ID: 1293), Prob: 0.0000
+Token: ' information' (ID: 1995), Prob: 0.0000
+Token: ' longest' (ID: 22032), Prob: 0.0000
+Token: ' context' (ID: 2266), Prob: 0.0000
+Token: ' English' (ID: 6364), Prob: 0.0000
+Token: '.world' (ID: 22882), Prob: 0.0000
+Token: ' Netherlands' (ID: 25662), Prob: 0.0000
+Token: ' current' (ID: 1482), Prob: 0.0000
+Token: ' field' (ID: 2070), Prob: 0.0000
+Token: ' years' (ID: 1635), Prob: 0.0000
+Token: ' three' (ID: 2326), Prob: 0.0000
+Token: ' course' (ID: 3308), Prob: 0.0000
+Token: ' region' (ID: 5537), Prob: 0.0000
+Token: ' continent' (ID: 31743), Prob: 0.0000
+Token: ' show' (ID: 1473), Prob: 0.0000
+Token: ' community' (ID: 3942), Prob: 0.0000
+Token: ' concert' (ID: 20830), Prob: 0.0000
+Token: ' monde' (ID: 37800), Prob: 0.0000
+Token: ' usa' (ID: 33715), Prob: 0.0000
+Token: ' Us' (ID: 3985), Prob: 0.0000
+Token: '-world' (ID: 30084), Prob: 0.0000
+Token: ' rest' (ID: 2732), Prob: 0.0000
+Token: ' ever' (ID: 3512), Prob: 0.0000
+Token: ' answer' (ID: 4226), Prob: 0.0000
+Token: ' modern' (ID: 6481), Prob: 0.0000
+Token: ' second' (ID: 2086), Prob: 0.0000
+Token: ' North' (ID: 4787), Prob: 0.0000
+Token: ' market' (ID: 3081), Prob: 0.0000
+Token: ' story' (ID: 3364), Prob: 0.0000
+Token: ' track' (ID: 3754), Prob: 0.0000
+Token: '(world' (ID: 34297), Prob: 0.0000
+Token: ' Caribbean' (ID: 34274), Prob: 0.0000
+
+== Ranked Concepts (Clusters) ==
+Rank 1 | Centroid: ' world' | Score: 0.9883
+  Tokens: [' world', ' World', ' worlds', 'world', ' universe', ' WORLD', '\tworld', '.world', ' monde', '-world', '(world']
+Rank 2 | Centroid: ' US' | Score: 0.0094
+  Tokens: [' United', ' US', ' U', ' USA', ' UK', ' united', 'United', ' us', ' UN', ' usa', ' Us']
+Rank 3 | Centroid: ' country' | Score: 0.0001
+  Tokens: [' country', ' countries', ' nation', ' planet', ' continent']
+Rank 4 | Centroid: ' year' | Score: 0.0000
+  Tokens: [' year', ' week', ' years', ' ever']
+Rank 5 | Centroid: ' city' | Score: 0.0000
+  Tokens: [' city', ' land', ' town', ' cities']
+Rank 6 | Centroid: ' worldwide' | Score: 0.0000
+  Tokens: [' worldwide', ' global', ' globe', ' international']
+Rank 7 | Centroid: ' longest' | Score: 0.0000
+  Tokens: [' last', ' most', ' largest', ' long', ' longest']
+Rank 8 | Centroid: ' West' | Score: 0.0000
+  Tokens: [' West', ' west', ' Western', ' Washington', ' North']
+Rank 9 | Centroid: ' Americas' | Score: 0.0000
+  Tokens: [' Americas', ' America', ' Netherlands', ' Caribbean']
+Rank 10 | Centroid: ' history' | Score: 0.0000
+  Tokens: [' history', ' past', ' area', ' context', ' field']
+Rank 11 | Centroid: ' whole' | Score: 0.0000
+  Tokens: [' entire', ' whole', ' rest']
+Rank 12 | Centroid: ' the' | Score: 0.0000
+  Tokens: [' first', ' list', ' the', ' W', ' two', ' information', ' current', ' three', ' show', ' modern', ' second']
+Rank 13 | Centroid: ' music' | Score: 0.0000
+  Tokens: [' music', ' place', ' course', ' community', ' concert', ' answer', ' market', ' story', ' track']
+Rank 14 | Centroid: ' American' | Score: 0.0000
+  Tokens: [' American', ' English']
+Rank 15 | Centroid: ' state' | Score: 0.0000
+  Tokens: [' state', ' states']
+Rank 16 | Centroid: ' wor' | Score: 0.0000
+  Tokens: [' wor']
+Rank 17 | Centroid: ' word' | Score: 0.0000
+  Tokens: [' word']
+Rank 18 | Centroid: ' Earth' | Score: 0.0000
+  Tokens: [' Earth']
+Rank 19 | Centroid: ' region' | Score: 0.0000
+  Tokens: [' region']
+
+**Chosen Concept:** Rank 1

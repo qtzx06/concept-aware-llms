@@ -1,127 +1,161 @@
 --- Step 6 Log ---
 
 == Filtered Candidates ==
-Token: ' year' (ID: 1042), Prob: 0.4375
-Token: ' capital' (ID: 6722), Prob: 0.1611
-Token: ' city' (ID: 3283), Prob: 0.0859
-Token: ' village' (ID: 14126), Prob: 0.0461
-Token: ' town' (ID: 6290), Prob: 0.0280
-Token: ' middle' (ID: 6149), Prob: 0.0170
-Token: ' county' (ID: 13867), Prob: 0.0150
-Token: ' Han' (ID: 20644), Prob: 0.0132
-Token: ' Tang' (ID: 40362), Prob: 0.0132
-Token: ' late' (ID: 3309), Prob: 0.0103
-Token: ' early' (ID: 4124), Prob: 0.0103
-Token: ' autumn' (ID: 41674), Prob: 0.0103
-Token: ' same' (ID: 1852), Prob: 0.0091
-Token: ' family' (ID: 2997), Prob: 0.0091
-Token: ' southern' (ID: 18070), Prob: 0.0091
-Token: ' mid' (ID: 5099), Prob: 0.0062
-Token: ' north' (ID: 10200), Prob: 0.0055
-Token: ' spring' (ID: 10464), Prob: 0.0055
-Token: ' northern' (ID: 18172), Prob: 0.0049
-Token: ' summer' (ID: 7324), Prob: 0.0043
-Token: ' south' (ID: 9806), Prob: 0.0043
-Token: ' east' (ID: 10984), Prob: 0.0033
-Token: ' fourth' (ID: 11737), Prob: 0.0033
-Token: ' imperial' (ID: 34279), Prob: 0.0033
-Token: ' eastern' (ID: 23149), Prob: 0.0026
-Token: ' Spring' (ID: 12252), Prob: 0.0020
-Token: ' palace' (ID: 43339), Prob: 0.0020
-Token: ' small' (ID: 2613), Prob: 0.0016
-Token: ' third' (ID: 4843), Prob: 0.0016
-Token: ' court' (ID: 5473), Prob: 0.0016
-Token: ' Chinese' (ID: 8453), Prob: 0.0016
-Token: ' dynasty' (ID: 66846), Prob: 0.0016
-Token: ' state' (ID: 1584), Prob: 0.0012
-Token: ' fall' (ID: 4399), Prob: 0.0012
-Token: ' beginning' (ID: 7167), Prob: 0.0012
-Token: ' fifth' (ID: 17702), Prob: 0.0012
-Token: ' X' (ID: 1599), Prob: 0.0011
-Token: ' second' (ID: 2086), Prob: 0.0011
-Token: ' Song' (ID: 18971), Prob: 0.0010
-Token: ' sixth' (ID: 25031), Prob: 0.0010
-Token: ' eighth' (ID: 36377), Prob: 0.0010
-Token: ' Year' (ID: 9742), Prob: 0.0008
-Token: ' prosperous' (ID: 70307), Prob: 0.0008
-Token: ' end' (ID: 835), Prob: 0.0007
-Token: ' province' (ID: 16847), Prob: 0.0007
-Token: ' Eastern' (ID: 18028), Prob: 0.0007
-Token: ' western' (ID: 18494), Prob: 0.0007
-Token: ' reign' (ID: 30302), Prob: 0.0007
-Token: ' first' (ID: 1156), Prob: 0.0007
-Token: ' W' (ID: 467), Prob: 0.0006
-Token: ' winter' (ID: 12406), Prob: 0.0006
-Token: ' kingdom' (ID: 25079), Prob: 0.0006
-Token: ' Southern' (ID: 16244), Prob: 0.0005
-Token: ' tenth' (ID: 55666), Prob: 0.0005
-Token: ' Yuan' (ID: 68884), Prob: 0.0005
-Token: ' later' (ID: 2937), Prob: 0.0005
-Token: ' official' (ID: 3946), Prob: 0.0005
-Token: ' military' (ID: 6277), Prob: 0.0005
-Token: ' Western' (ID: 10867), Prob: 0.0005
-Token: ' rural' (ID: 19082), Prob: 0.0005
-Token: ' provincial' (ID: 34931), Prob: 0.0005
-Token: ' ninth' (ID: 42541), Prob: 0.0005
-Token: ' hometown' (ID: 43016), Prob: 0.0005
-Token: ' month' (ID: 2254), Prob: 0.0004
-Token: ' high' (ID: 1550), Prob: 0.0004
-Token: ' west' (ID: 9710), Prob: 0.0004
-Token: ' famous' (ID: 11245), Prob: 0.0004
-Token: ' mountain' (ID: 16301), Prob: 0.0004
-Token: ' administrative' (ID: 22707), Prob: 0.0004
-Token: ' countryside' (ID: 46867), Prob: 0.0004
-Token: ' Ming' (ID: 55883), Prob: 0.0004
-Token: ' Zhou' (ID: 66827), Prob: 0.0004
-Token: ' Chen' (ID: 24495), Prob: 0.0003
-Token: ' Later' (ID: 24885), Prob: 0.0003
-Token: ' seventh' (ID: 30387), Prob: 0.0003
-Token: ' northwest' (ID: 52242), Prob: 0.0003
-Token: ' Cheng' (ID: 56707), Prob: 0.0003
-Token: ' the' (ID: 279), Prob: 0.0003
-Token: ' S' (ID: 328), Prob: 0.0003
-Token: ' tw' (ID: 4384), Prob: 0.0003
-Token: ' Northern' (ID: 16926), Prob: 0.0003
-Token: ' scholarly' (ID: 62581), Prob: 0.0003
-Token: ' Dynasty' (ID: 73395), Prob: 0.0003
-Token: ' great' (ID: 2244), Prob: 0.0002
-Token: ' area' (ID: 3082), Prob: 0.0002
-Token: ' former' (ID: 4741), Prob: 0.0002
-Token: ' central' (ID: 8622), Prob: 0.0002
-Token: ' neighborhood' (ID: 12534), Prob: 0.0002
-Token: ' han' (ID: 19001), Prob: 0.0002
-Token: ' castle' (ID: 32584), Prob: 0.0002
-Token: ' Sh' (ID: 1417), Prob: 0.0002
-Token: ' Z' (ID: 1863), Prob: 0.0002
+Token: ' device' (ID: 3671), Prob: 0.1289
+Token: ' very' (ID: 1602), Prob: 0.0781
+Token: ' modern' (ID: 6481), Prob: 0.0781
+Token: ' great' (ID: 2244), Prob: 0.0688
+Token: ' tool' (ID: 5392), Prob: 0.0537
+Token: ' communication' (ID: 10535), Prob: 0.0369
+Token: ' mobile' (ID: 6371), Prob: 0.0305
+Token: ' good' (ID: 1661), Prob: 0.0287
+Token: ' powerful' (ID: 7988), Prob: 0.0270
+Token: ' technology' (ID: 5440), Prob: 0.0238
+Token: ' portable' (ID: 22819), Prob: 0.0175
+Token: ' highly' (ID: 7548), Prob: 0.0164
+Token: ' product' (ID: 1985), Prob: 0.0154
+Token: ' convenient' (ID: 16710), Prob: 0.0135
+Token: ' big' (ID: 2409), Prob: 0.0128
+Token: ' useful' (ID: 5390), Prob: 0.0112
+Token: ' small' (ID: 2613), Prob: 0.0106
+Token: ' major' (ID: 3598), Prob: 0.0099
+Token: ' technological' (ID: 29016), Prob: 0.0093
+Token: ' versatile' (ID: 31945), Prob: 0.0093
+Token: ' crucial' (ID: 16587), Prob: 0.0082
+Token: ' new' (ID: 501), Prob: 0.0073
+Token: ' common' (ID: 4185), Prob: 0.0073
+Token: ' relatively' (ID: 12040), Prob: 0.0073
+Token: ' revolution' (ID: 13791), Prob: 0.0073
+Token: ' popular' (ID: 5411), Prob: 0.0068
+Token: ' basic' (ID: 6770), Prob: 0.0068
+Token: ' type' (ID: 943), Prob: 0.0064
+Token: ' key' (ID: 1376), Prob: 0.0060
+Token: ' widely' (ID: 13570), Prob: 0.0060
+Token: ' revolutionary' (ID: 29091), Prob: 0.0060
+Token: ' personal' (ID: 4345), Prob: 0.0056
+Token: ' digital' (ID: 7377), Prob: 0.0053
+Token: ' necessary' (ID: 5871), Prob: 0.0047
+Token: ' convenience' (ID: 19132), Prob: 0.0044
+Token: ' significant' (ID: 5089), Prob: 0.0041
+Token: ' handheld' (ID: 64949), Prob: 0.0039
+Token: ' global' (ID: 3644), Prob: 0.0036
+Token: ' kind' (ID: 3093), Prob: 0.0032
+Token: ' vital' (ID: 16198), Prob: 0.0032
+Token: ' wireless' (ID: 20739), Prob: 0.0032
+Token: ' large' (ID: 3460), Prob: 0.0030
+Token: ' smart' (ID: 7785), Prob: 0.0030
+Token: ' form' (ID: 1352), Prob: 0.0028
+Token: ' huge' (ID: 6765), Prob: 0.0028
+Token: ' critical' (ID: 9023), Prob: 0.0028
+Token: ' universal' (ID: 20178), Prob: 0.0027
+Token: ' fast' (ID: 4937), Prob: 0.0025
+Token: ' medium' (ID: 11051), Prob: 0.0025
+Token: ' fundamental' (ID: 15811), Prob: 0.0025
+Token: ' piece' (ID: 6573), Prob: 0.0023
+Token: ' valuable' (ID: 15172), Prob: 0.0023
+Token: ' sophisticated' (ID: 26779), Prob: 0.0023
+Token: ' simple' (ID: 4285), Prob: 0.0022
+Token: ' perfect' (ID: 4727), Prob: 0.0021
+Token: ' computer' (ID: 6366), Prob: 0.0020
+Token: ' daily' (ID: 7298), Prob: 0.0020
+Token: ' remarkable' (ID: 22804), Prob: 0.0020
+Token: ' gadget' (ID: 58851), Prob: 0.0020
+Token: ' more' (ID: 803), Prob: 0.0018
+Token: ' bit' (ID: 2699), Prob: 0.0018
+Token: ' necessity' (ID: 31861), Prob: 0.0018
+Token: ' classic' (ID: 11416), Prob: 0.0017
+Token: ' smartphone' (ID: 21511), Prob: 0.0017
+Token: ' ubiquitous' (ID: 63464), Prob: 0.0017
+Token: ' completely' (ID: 6587), Prob: 0.0016
+Token: ' constant' (ID: 6783), Prob: 0.0015
+Token: ' multi' (ID: 7299), Prob: 0.0015
+Token: ' wonderful' (ID: 11117), Prob: 0.0015
+Token: ' high' (ID: 1550), Prob: 0.0014
+Token: ' complex' (ID: 6351), Prob: 0.0013
+Token: ' gift' (ID: 8189), Prob: 0.0013
+Token: ' single' (ID: 3175), Prob: 0.0013
+Token: ' means' (ID: 3363), Prob: 0.0013
+Token: ' physical' (ID: 6961), Prob: 0.0013
+Token: ' human' (ID: 3738), Prob: 0.0012
+Token: ' primary' (ID: 6028), Prob: 0.0012
+Token: ' developed' (ID: 7881), Prob: 0.0012
+Token: ' consumer' (ID: 11502), Prob: 0.0012
+Token: ' compact' (ID: 16830), Prob: 0.0012
+Token: ' wearable' (ID: 77248), Prob: 0.0012
+Token: ' commonly' (ID: 16626), Prob: 0.0011
+Token: ' communications' (ID: 16893), Prob: 0.0011
+Token: ' part' (ID: 949), Prob: 0.0010
+Token: ' better' (ID: 2664), Prob: 0.0010
+Token: ' rapidly' (ID: 18512), Prob: 0.0010
+Token: ' way' (ID: 1616), Prob: 0.0010
+Token: ' thing' (ID: 3166), Prob: 0.0010
+Token: ' phone' (ID: 4540), Prob: 0.0009
+Token: ' central' (ID: 8622), Prob: 0.0009
+Token: ' reliable' (ID: 14720), Prob: 0.0009
+Token: ' main' (ID: 1887), Prob: 0.0009
+Token: ' power' (ID: 2355), Prob: 0.0009
+Token: ' general' (ID: 4586), Prob: 0.0009
+Token: ' natural' (ID: 5810), Prob: 0.0009
+Token: ' core' (ID: 6200), Prob: 0.0009
+Token: ' multif' (ID: 61287), Prob: 0.0009
+Token: ' development' (ID: 4401), Prob: 0.0008
+Token: ' telecommunications' (ID: 61766), Prob: 0.0008
+Token: ' current' (ID: 1482), Prob: 0.0008
 
 == Ranked Concepts (Clusters) ==
-Rank 1 | Centroid: ' year' | Score: 0.4395
-  Tokens: [' year', ' Year', ' month']
-Rank 2 | Centroid: ' village' | Score: 0.1777
-  Tokens: [' city', ' village', ' town', ' county', ' province', ' rural', ' provincial', ' hometown', ' mountain', ' countryside', ' neighborhood']
-Rank 3 | Centroid: ' military' | Score: 0.1709
-  Tokens: [' capital', ' family', ' military']
-Rank 4 | Centroid: ' late' | Score: 0.0452
-  Tokens: [' middle', ' late', ' early', ' mid', ' beginning', ' central']
-Rank 5 | Centroid: ' Chen' | Score: 0.0310
-  Tokens: [' Han', ' Tang', ' Chinese', ' Song', ' Yuan', ' Ming', ' Zhou', ' Chen', ' Cheng', ' han']
-Rank 6 | Centroid: ' spring' | Score: 0.0238
-  Tokens: [' autumn', ' spring', ' summer', ' Spring', ' fall', ' winter']
-Rank 7 | Centroid: ' northern' | Score: 0.0193
-  Tokens: [' southern', ' northern', ' eastern', ' Eastern', ' western', ' Southern', ' Western', ' Northern']
-Rank 8 | Centroid: ' north' | Score: 0.0138
-  Tokens: [' north', ' south', ' east', ' west', ' northwest']
-Rank 9 | Centroid: ' dynasty' | Score: 0.0107
-  Tokens: [' imperial', ' palace', ' court', ' dynasty', ' reign', ' kingdom', ' administrative', ' Dynasty', ' castle']
-Rank 10 | Centroid: ' fifth' | Score: 0.0093
-  Tokens: [' fourth', ' third', ' fifth', ' sixth', ' eighth', ' tenth', ' ninth', ' seventh']
-Rank 11 | Centroid: ' the' | Score: 0.0018
-  Tokens: [' same', ' small', ' state', ' X', ' second', ' end', ' first', ' W', ' high', ' the', ' S', ' tw', ' great', ' area', ' Sh', ' Z']
-Rank 12 | Centroid: ' prosperous' | Score: 0.0011
-  Tokens: [' prosperous', ' scholarly']
-Rank 13 | Centroid: ' later' | Score: 0.0010
-  Tokens: [' later', ' Later', ' former']
-Rank 14 | Centroid: ' official' | Score: 0.0008
-  Tokens: [' official', ' famous']
+Rank 1 | Centroid: ' gadget' | Score: 0.1855
+  Tokens: [' device', ' tool', ' gadget', ' gift']
+Rank 2 | Centroid: ' highly' | Score: 0.1045
+  Tokens: [' very', ' highly', ' relatively', ' completely', ' rapidly']
+Rank 3 | Centroid: ' modern' | Score: 0.0884
+  Tokens: [' modern', ' new', ' human', ' power', ' current']
+Rank 4 | Centroid: ' great' | Score: 0.0718
+  Tokens: [' great', ' huge']
+Rank 5 | Centroid: ' smartphone' | Score: 0.0588
+  Tokens: [' mobile', ' portable', ' handheld', ' wireless', ' smartphone', ' wearable', ' phone']
+Rank 6 | Centroid: ' valuable' | Score: 0.0415
+  Tokens: [' powerful', ' useful', ' valuable', ' reliable']
+Rank 7 | Centroid: ' technological' | Score: 0.0405
+  Tokens: [' technology', ' technological', ' digital', ' computer']
+Rank 8 | Centroid: ' communications' | Score: 0.0388
+  Tokens: [' communication', ' communications', ' telecommunications']
+Rank 9 | Centroid: ' crucial' | Score: 0.0344
+  Tokens: [' major', ' crucial', ' key', ' significant', ' vital', ' critical']
+Rank 10 | Centroid: ' good' | Score: 0.0317
+  Tokens: [' good', ' perfect', ' better']
+Rank 11 | Centroid: ' large' | Score: 0.0303
+  Tokens: [' big', ' small', ' large', ' medium', ' high']
+Rank 12 | Centroid: ' commonly' | Score: 0.0229
+  Tokens: [' common', ' popular', ' widely', ' ubiquitous', ' commonly']
+Rank 13 | Centroid: ' kind' | Score: 0.0197
+  Tokens: [' type', ' kind', ' form', ' piece', ' bit', ' part', ' way', ' thing']
+Rank 14 | Centroid: ' convenient' | Score: 0.0179
+  Tokens: [' convenient', ' convenience']
+Rank 15 | Centroid: ' revolutionary' | Score: 0.0167
+  Tokens: [' revolution', ' revolutionary', ' remarkable', ' wonderful']
+Rank 16 | Centroid: ' product' | Score: 0.0166
+  Tokens: [' product', ' means']
+Rank 17 | Centroid: ' fundamental' | Score: 0.0131
+  Tokens: [' basic', ' fundamental', ' primary', ' central', ' main', ' core']
+Rank 18 | Centroid: ' versatile' | Score: 0.0117
+  Tokens: [' versatile', ' sophisticated']
+Rank 19 | Centroid: ' multif' | Score: 0.0109
+  Tokens: [' fast', ' simple', ' multi', ' complex', ' single', ' compact', ' multif']
+Rank 20 | Centroid: ' universal' | Score: 0.0109
+  Tokens: [' global', ' universal', ' daily', ' classic', ' general']
+Rank 21 | Centroid: ' physical' | Score: 0.0078
+  Tokens: [' personal', ' physical', ' natural']
+Rank 22 | Centroid: ' necessary' | Score: 0.0065
+  Tokens: [' necessary', ' necessity']
+Rank 23 | Centroid: ' smart' | Score: 0.0030
+  Tokens: [' smart']
+Rank 24 | Centroid: ' developed' | Score: 0.0020
+  Tokens: [' developed', ' development']
+Rank 25 | Centroid: ' more' | Score: 0.0018
+  Tokens: [' more']
+Rank 26 | Centroid: ' constant' | Score: 0.0015
+  Tokens: [' constant']
+Rank 27 | Centroid: ' consumer' | Score: 0.0012
+  Tokens: [' consumer']
 
 **Chosen Concept:** Rank 1

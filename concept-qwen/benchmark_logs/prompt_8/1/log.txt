@@ -1,120 +1,128 @@
 --- Step 1 Log ---
 
 == Filtered Candidates ==
-Token: ' The' (ID: 576), Prob: 0.1523
-Token: ' In' (ID: 758), Prob: 0.0923
-Token: ' This' (ID: 1096), Prob: 0.0718
-Token: ' For' (ID: 1752), Prob: 0.0718
-Token: ' As' (ID: 1634), Prob: 0.0233
-Token: ' However' (ID: 4354), Prob: 0.0233
-Token: ' Therefore' (ID: 15277), Prob: 0.0206
-Token: ' Du' (ID: 15687), Prob: 0.0206
-Token: ' But' (ID: 1988), Prob: 0.0160
-Token: ' When' (ID: 3197), Prob: 0.0160
-Token: ' According' (ID: 10548), Prob: 0.0160
-Token: ' It' (ID: 1084), Prob: 0.0142
-Token: ' By' (ID: 3216), Prob: 0.0125
-Token: ' He' (ID: 1260), Prob: 0.0097
-Token: ' Thus' (ID: 14301), Prob: 0.0097
-Token: ' Moreover' (ID: 22827), Prob: 0.0076
-Token: ' These' (ID: 4220), Prob: 0.0067
-Token: ' Furthermore' (ID: 23405), Prob: 0.0059
-Token: ' Burton' (ID: 53655), Prob: 0.0059
-Token: ' A' (ID: 362), Prob: 0.0052
-Token: ' So' (ID: 2055), Prob: 0.0052
-Token: ' To' (ID: 2014), Prob: 0.0046
-Token: ' His' (ID: 5301), Prob: 0.0046
-Token: ' What' (ID: 3555), Prob: 0.0041
-Token: ' Also' (ID: 7281), Prob: 0.0041
-Token: ' Similarly' (ID: 34239), Prob: 0.0041
-Token: ' With' (ID: 3085), Prob: 0.0036
-Token: ' Because' (ID: 9211), Prob: 0.0036
-Token: ' Additionally' (ID: 22406), Prob: 0.0036
-Token: ' Hence' (ID: 31040), Prob: 0.0036
-Token: ' Although' (ID: 10328), Prob: 0.0032
-Token: ' Another' (ID: 13293), Prob: 0.0028
-Token: ' Such' (ID: 15132), Prob: 0.0028
-Token: ' I' (ID: 358), Prob: 0.0025
-Token: ' That' (ID: 2938), Prob: 0.0025
-Token: ' Through' (ID: 16904), Prob: 0.0025
-Token: ' If' (ID: 1416), Prob: 0.0022
-Token: ' How' (ID: 2585), Prob: 0.0022
-Token: ' On' (ID: 1913), Prob: 0.0019
-Token: ' At' (ID: 2411), Prob: 0.0019
-Token: ' There' (ID: 2619), Prob: 0.0019
+Token: ' The' (ID: 576), Prob: 0.4590
+Token: ' A' (ID: 362), Prob: 0.0276
+Token: ' I' (ID: 358), Prob: 0.0215
+Token: ' the' (ID: 279), Prob: 0.0178
+Token: ' It' (ID: 1084), Prob: 0.0178
+Token: ' Well' (ID: 8325), Prob: 0.0084
+Token: ' In' (ID: 758), Prob: 0.0074
+Token: ' There' (ID: 2619), Prob: 0.0054
+Token: ' This' (ID: 1096), Prob: 0.0045
+Token: ' That' (ID: 2938), Prob: 0.0045
+Token: ' As' (ID: 1634), Prob: 0.0040
+Token: ' President' (ID: 4795), Prob: 0.0035
+Token: ' When' (ID: 3197), Prob: 0.0033
+Token: ' You' (ID: 1446), Prob: 0.0029
+Token: ' So' (ID: 2055), Prob: 0.0029
+Token: ' They' (ID: 2379), Prob: 0.0029
+Token: ' NY' (ID: 12271), Prob: 0.0029
+Token: ' To' (ID: 2014), Prob: 0.0027
+Token: ' First' (ID: 5512), Prob: 0.0027
+Token: ' On' (ID: 1913), Prob: 0.0024
+Token: ' John' (ID: 3757), Prob: 0.0024
+Token: ' According' (ID: 10548), Prob: 0.0024
+Token: ' Let' (ID: 6771), Prob: 0.0023
+Token: ' For' (ID: 1752), Prob: 0.0021
+Token: ' Yes' (ID: 7414), Prob: 0.0021
+Token: ' He' (ID: 1260), Prob: 0.0020
+Token: ' None' (ID: 2240), Prob: 0.0020
+Token: ' United' (ID: 3639), Prob: 0.0020
+Token: ' During' (ID: 11954), Prob: 0.0020
 Token: ' One' (ID: 3776), Prob: 0.0019
-Token: ' From' (ID: 5542), Prob: 0.0019
-Token: ' While' (ID: 5976), Prob: 0.0019
-Token: ' An' (ID: 1527), Prob: 0.0017
-Token: ' Using' (ID: 12091), Prob: 0.0017
-Token: ' Some' (ID: 4329), Prob: 0.0015
-Token: ' After' (ID: 4636), Prob: 0.0015
-Token: ' Which' (ID: 15920), Prob: 0.0015
-Token: ' Though' (ID: 17594), Prob: 0.0015
-Token: 'The' (ID: 785), Prob: 0.0013
-Token: ' Here' (ID: 5692), Prob: 0.0013
-Token: ' Even' (ID: 7418), Prob: 0.0013
-Token: ' Most' (ID: 7496), Prob: 0.0013
-Token: ' Many' (ID: 8999), Prob: 0.0013
-Token: ' Yet' (ID: 14626), Prob: 0.0013
-Token: ' Accordingly' (ID: 62809), Prob: 0.0013
-Token: ' We' (ID: 1205), Prob: 0.0012
-Token: ' Like' (ID: 8909), Prob: 0.0012
-Token: ' Modern' (ID: 18265), Prob: 0.0012
-Token: ' Likewise' (ID: 49387), Prob: 0.0012
-Token: ' Whereas' (ID: 60595), Prob: 0.0012
-Token: ' Since' (ID: 8704), Prob: 0.0010
-Token: ' Under' (ID: 9449), Prob: 0.0010
-Token: ' During' (ID: 11954), Prob: 0.0010
-Token: ' Given' (ID: 16246), Prob: 0.0010
-Token: ' Despite' (ID: 17715), Prob: 0.0010
-Token: ' Perhaps' (ID: 18765), Prob: 0.0010
-Token: ' Watson' (ID: 31480), Prob: 0.0010
-Token: ' Discuss' (ID: 65279), Prob: 0.0010
-Token: ' the' (ID: 279), Prob: 0.0009
-Token: ' And' (ID: 1597), Prob: 0.0009
-Token: ' Of' (ID: 4940), Prob: 0.0009
-Token: ' Other' (ID: 6944), Prob: 0.0009
-Token: ' Chinese' (ID: 8453), Prob: 0.0009
-Token: ' Indeed' (ID: 22348), Prob: 0.0009
-Token: ' Unlike' (ID: 26048), Prob: 0.0009
-Token: ' Nevertheless' (ID: 33953), Prob: 0.0009
-Token: 'Du' (ID: 42074), Prob: 0.0009
+Token: ' Because' (ID: 9211), Prob: 0.0019
+Token: ' Based' (ID: 20205), Prob: 0.0019
+Token: ' Okay' (ID: 35439), Prob: 0.0017
+Token: ' An' (ID: 1527), Prob: 0.0016
+Token: ' No' (ID: 2308), Prob: 0.0016
+Token: ' it' (ID: 432), Prob: 0.0015
+Token: ' Mr' (ID: 4392), Prob: 0.0015
+Token: ' Just' (ID: 4599), Prob: 0.0015
+Token: ' America' (ID: 5159), Prob: 0.0015
+Token: ' UN' (ID: 6643), Prob: 0.0015
+Token: ' N' (ID: 451), Prob: 0.0013
+Token: ' What' (ID: 3555), Prob: 0.0013
+Token: ' Since' (ID: 8704), Prob: 0.0013
+Token: ' But' (ID: 1988), Prob: 0.0011
+Token: ' Oh' (ID: 8670), Prob: 0.0011
+Token: ' Maybe' (ID: 10696), Prob: 0.0011
+Token: ' a' (ID: 264), Prob: 0.0010
+Token: ' C' (ID: 356), Prob: 0.0010
+Token: ' All' (ID: 2009), Prob: 0.0010
+Token: ' Not' (ID: 2806), Prob: 0.0010
+Token: ' From' (ID: 5542), Prob: 0.0010
+Token: ' George' (ID: 9857), Prob: 0.0010
+Token: ' Henry' (ID: 17599), Prob: 0.0010
+Token: ' She' (ID: 2932), Prob: 0.0009
+Token: ' US' (ID: 2274), Prob: 0.0009
+Token: ' Some' (ID: 4329), Prob: 0.0009
+Token: ' NO' (ID: 5664), Prob: 0.0009
+Token: ' S' (ID: 328), Prob: 0.0008
+Token: ' G' (ID: 479), Prob: 0.0008
+Token: ' THE' (ID: 3168), Prob: 0.0008
+Token: ' Answer' (ID: 21806), Prob: 0.0008
+Token: ' Dr' (ID: 2926), Prob: 0.0008
+Token: ' Please' (ID: 5209), Prob: 0.0008
+Token: ' R' (ID: 431), Prob: 0.0007
+Token: ' Don' (ID: 4320), Prob: 0.0007
+Token: ' India' (ID: 6747), Prob: 0.0007
+Token: ' U' (ID: 547), Prob: 0.0007
+Token: ' Great' (ID: 8513), Prob: 0.0007
+Token: ' William' (ID: 12375), Prob: 0.0007
+Token: ' B' (ID: 425), Prob: 0.0006
+Token: ' World' (ID: 4337), Prob: 0.0006
+Token: ' At' (ID: 2411), Prob: 0.0006
+Token: ' Only' (ID: 8278), Prob: 0.0006
+Token: ' Mike' (ID: 11268), Prob: 0.0006
+Token: ' D' (ID: 422), Prob: 0.0006
+Token: ' We' (ID: 1205), Prob: 0.0006
+Token: ' Un' (ID: 1230), Prob: 0.0006
+Token: ' After' (ID: 4636), Prob: 0.0006
+Token: ' USA' (ID: 7279), Prob: 0.0006
+Token: ' Michael' (ID: 7937), Prob: 0.0006
+Token: ' Andrew' (ID: 13615), Prob: 0.0006
+Token: ' L' (ID: 444), Prob: 0.0005
+Token: ' Europe' (ID: 4505), Prob: 0.0005
 
 == Ranked Concepts (Clusters) ==
-Rank 1 | Centroid: ' The' | Score: 0.2490
-  Tokens: [' The', ' This', ' It', ' These', ' There', 'The', ' We']
-Rank 2 | Centroid: ' For' | Score: 0.2148
-  Tokens: [' In', ' For', ' As', ' By', ' To', ' With', ' On', ' At', ' From', ' Of']
-Rank 3 | Centroid: ' However' | Score: 0.0425
-  Tokens: [' However', ' But', ' Yet', ' Indeed', ' Nevertheless']
-Rank 4 | Centroid: ' Therefore' | Score: 0.0352
-  Tokens: [' Therefore', ' Thus', ' Hence', ' Accordingly']
-Rank 5 | Centroid: ' Additionally' | Score: 0.0264
-  Tokens: [' Moreover', ' Furthermore', ' Also', ' Similarly', ' Additionally', ' Likewise']
-Rank 6 | Centroid: ' Using' | Score: 0.0247
-  Tokens: [' According', ' Through', ' Using', ' After', ' Under', ' During', ' Given']
-Rank 7 | Centroid: ' Since' | Score: 0.0227
-  Tokens: [' When', ' Because', ' If', ' Since']
-Rank 8 | Centroid: ' Du' | Score: 0.0215
-  Tokens: [' Du', 'Du']
-Rank 9 | Centroid: ' He' | Score: 0.0143
-  Tokens: [' He', ' His']
-Rank 10 | Centroid: ' What' | Score: 0.0115
-  Tokens: [' What', ' That', ' How', ' Which', ' Here']
-Rank 11 | Centroid: ' A' | Score: 0.0103
-  Tokens: [' A', ' I', ' An', ' the']
-Rank 12 | Centroid: ' Although' | Score: 0.0101
-  Tokens: [' Although', ' While', ' Though', ' Even', ' Whereas', ' Despite']
-Rank 13 | Centroid: ' Discuss' | Score: 0.0100
-  Tokens: [' Burton', ' Modern', ' Watson', ' Discuss', ' Chinese']
-Rank 14 | Centroid: ' Many' | Score: 0.0098
-  Tokens: [' Another', ' One', ' Some', ' Most', ' Many', ' Other']
-Rank 15 | Centroid: ' So' | Score: 0.0061
-  Tokens: [' So', ' And']
-Rank 16 | Centroid: ' Such' | Score: 0.0038
-  Tokens: [' Such', ' Perhaps']
-Rank 17 | Centroid: ' Like' | Score: 0.0021
-  Tokens: [' Like', ' Unlike']
+Rank 1 | Centroid: ' the' | Score: 0.4980
+  Tokens: [' The', ' the', ' It', ' it', ' a', ' THE']
+Rank 2 | Centroid: ' D' | Score: 0.0554
+  Tokens: [' A', ' I', ' N', ' C', ' S', ' G', ' R', ' B', ' D', ' L']
+Rank 3 | Centroid: ' This' | Score: 0.0222
+  Tokens: [' There', ' This', ' That', ' You', ' They', ' What', ' We']
+Rank 4 | Centroid: ' For' | Score: 0.0192
+  Tokens: [' When', ' To', ' According', ' For', ' During', ' Because', ' Based', ' Since', ' From', ' After']
+Rank 5 | Centroid: ' As' | Score: 0.0160
+  Tokens: [' In', ' As', ' On', ' An', ' At']
+Rank 6 | Centroid: ' Oh' | Score: 0.0112
+  Tokens: [' Well', ' Okay', ' Oh']
+Rank 7 | Centroid: ' Michael' | Score: 0.0069
+  Tokens: [' John', ' George', ' Henry', ' William', ' Mike', ' Michael', ' Andrew']
+Rank 8 | Centroid: ' US' | Score: 0.0064
+  Tokens: [' NY', ' United', ' US', ' USA']
+Rank 9 | Centroid: ' Some' | Score: 0.0064
+  Tokens: [' None', ' One', ' All', ' Some', ' Only']
+Rank 10 | Centroid: ' America' | Score: 0.0063
+  Tokens: [' President', ' America', ' India', ' Europe']
+Rank 11 | Centroid: ' But' | Score: 0.0062
+  Tokens: [' So', ' Let', ' But']
+Rank 12 | Centroid: ' No' | Score: 0.0056
+  Tokens: [' Yes', ' No', ' Not', ' NO']
+Rank 13 | Centroid: ' First' | Score: 0.0049
+  Tokens: [' First', ' Just', ' Great']
+Rank 14 | Centroid: ' Dr' | Score: 0.0030
+  Tokens: [' Mr', ' Dr', ' Don']
+Rank 15 | Centroid: ' He' | Score: 0.0029
+  Tokens: [' He', ' She']
+Rank 16 | Centroid: ' UN' | Score: 0.0027
+  Tokens: [' UN', ' U', ' Un']
+Rank 17 | Centroid: ' Maybe' | Score: 0.0018
+  Tokens: [' Maybe', ' Please']
+Rank 18 | Centroid: ' Answer' | Score: 0.0008
+  Tokens: [' Answer']
+Rank 19 | Centroid: ' World' | Score: 0.0006
+  Tokens: [' World']
 
 **Chosen Concept:** Rank 1

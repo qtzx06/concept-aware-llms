@@ -1,124 +1,146 @@
 --- Step 17 Log ---
 
 == Filtered Candidates ==
-Token: ' same' (ID: 1852), Prob: 0.7227
-Token: ' summer' (ID: 7324), Prob: 0.0593
-Token: ' spring' (ID: 10464), Prob: 0.0193
-Token: ' autumn' (ID: 41674), Prob: 0.0170
-Token: ' fall' (ID: 4399), Prob: 0.0132
-Token: ' early' (ID: 4124), Prob: 0.0117
-Token: ' year' (ID: 1042), Prob: 0.0063
-Token: ' winter' (ID: 12406), Prob: 0.0055
-Token: ' late' (ID: 3309), Prob: 0.0049
-Token: ' mid' (ID: 5099), Prob: 0.0016
-Token: ' following' (ID: 2701), Prob: 0.0014
-Token: ' company' (ID: 2813), Prob: 0.0008
-Token: ' Spring' (ID: 12252), Prob: 0.0008
-Token: ' UK' (ID: 6424), Prob: 0.0007
-Token: ' Fall' (ID: 14785), Prob: 0.0004
-Token: ' Summer' (ID: 18836), Prob: 0.0004
-Token: ' latter' (ID: 15271), Prob: 0.0003
-Token: ' season' (ID: 3200), Prob: 0.0002
-Token: ' role' (ID: 3476), Prob: 0.0002
-Token: ' first' (ID: 1156), Prob: 0.0002
-Token: ' run' (ID: 1598), Prob: 0.0002
-Token: ' series' (ID: 4013), Prob: 0.0002
-Token: ' London' (ID: 7148), Prob: 0.0002
-Token: ' West' (ID: 4312), Prob: 0.0001
-Token: ' Winter' (ID: 20101), Prob: 0.0001
-Token: ' the' (ID: 279), Prob: 0.0001
-Token: ' second' (ID: 2086), Prob: 0.0001
-Token: ' middle' (ID: 6149), Prob: 0.0001
-Token: ' cast' (ID: 6311), Prob: 0.0001
-Token: ' Autumn' (ID: 59802), Prob: 0.0001
-Token: ' final' (ID: 1590), Prob: 0.0001
-Token: ' later' (ID: 2937), Prob: 0.0001
-Token: ' past' (ID: 3267), Prob: 0.0001
-Token: ' United' (ID: 3639), Prob: 0.0001
-Token: ' course' (ID: 3308), Prob: 0.0001
-Token: ' end' (ID: 835), Prob: 0.0000
-Token: ' beginning' (ID: 7167), Prob: 0.0000
-Token: ' week' (ID: 2003), Prob: 0.0000
-Token: ' month' (ID: 2254), Prob: 0.0000
-Token: ' theatre' (ID: 33496), Prob: 0.0000
-Token: ' midst' (ID: 34346), Prob: 0.0000
-Token: ' title' (ID: 2265), Prob: 0.0000
-Token: ' west' (ID: 9710), Prob: 0.0000
-Token: ' wake' (ID: 15156), Prob: 0.0000
-Token: ' style' (ID: 1707), Prob: 0.0000
-Token: ' period' (ID: 4168), Prob: 0.0000
-Token: ' aftermath' (ID: 39596), Prob: 0.0000
-Token: ' current' (ID: 1482), Prob: 0.0000
-Token: ' production' (ID: 5670), Prob: 0.0000
-Token: ' previous' (ID: 3681), Prob: 0.0000
-Token: ' East' (ID: 6326), Prob: 0.0000
-Token: 'same' (ID: 24063), Prob: 0.0000
-Token: ' lead' (ID: 2990), Prob: 0.0000
-Token: ' last' (ID: 1537), Prob: 0.0000
-Token: ' National' (ID: 5055), Prob: 0.0000
-Token: ' w' (ID: 289), Prob: 0.0000
-Token: ' years' (ID: 1635), Prob: 0.0000
-Token: ' third' (ID: 4843), Prob: 0.0000
-Token: ' stage' (ID: 6430), Prob: 0.0000
-Token: ' new' (ID: 501), Prob: 0.0000
-Token: ' play' (ID: 1486), Prob: 0.0000
-Token: ' group' (ID: 1874), Prob: 0.0000
-Token: ' Christmas' (ID: 10074), Prob: 0.0000
-Token: ' Same' (ID: 25739), Prob: 0.0000
-Token: ' summers' (ID: 79669), Prob: 0.0000
-Token: ' British' (ID: 7855), Prob: 0.0000
-Token: ' off' (ID: 1007), Prob: 0.0000
-Token: ' Edinburgh' (ID: 40306), Prob: 0.0000
-Token: ' subsequent' (ID: 17420), Prob: 0.0000
-Token: ' interim' (ID: 40553), Prob: 0.0000
-Token: ' two' (ID: 1378), Prob: 0.0000
-Token: ' evening' (ID: 11458), Prob: 0.0000
-Token: '2' (ID: 17), Prob: 0.0000
-Token: ' former' (ID: 4741), Prob: 0.0000
-Token: ' opening' (ID: 8568), Prob: 0.0000
-Token: ' closing' (ID: 15316), Prob: 0.0000
-Token: ' absence' (ID: 19265), Prob: 0.0000
-Token: ' Early' (ID: 22752), Prob: 0.0000
-Token: ' time' (ID: 882), Prob: 0.0000
-Token: ' W' (ID: 467), Prob: 0.0000
-Token: ' Company' (ID: 8188), Prob: 0.0000
-Token: ' U' (ID: 547), Prob: 0.0000
-Token: ' earlier' (ID: 6788), Prob: 0.0000
-Token: ' and' (ID: 323), Prob: 0.0000
-Token: ' part' (ID: 949), Prob: 0.0000
+Token: ' answer' (ID: 4226), Prob: 0.8125
+Token: ' response' (ID: 2033), Prob: 0.0972
+Token: ' correct' (ID: 4396), Prob: 0.0103
+Token: ' number' (ID: 1372), Prob: 0.0090
+Token: ' final' (ID: 1590), Prob: 0.0062
+Token: ' information' (ID: 1995), Prob: 0.0031
+Token: ' date' (ID: 2400), Prob: 0.0029
+Token: ' context' (ID: 2266), Prob: 0.0024
+Token: ' sentence' (ID: 11652), Prob: 0.0024
+Token: ' Answer' (ID: 21806), Prob: 0.0024
+Token: ' text' (ID: 1467), Prob: 0.0020
+Token: ' assistant' (ID: 17847), Prob: 0.0019
+Token: ' second' (ID: 2086), Prob: 0.0016
+Token: ' statement' (ID: 5114), Prob: 0.0014
+Token: ' reasoning' (ID: 32711), Prob: 0.0014
+Token: ' year' (ID: 1042), Prob: 0.0012
+Token: ' user' (ID: 1196), Prob: 0.0012
+Token: ' provided' (ID: 3897), Prob: 0.0010
+Token: ' first' (ID: 1156), Prob: 0.0008
+Token: ' process' (ID: 1882), Prob: 0.0008
+Token: ' numbers' (ID: 5109), Prob: 0.0008
+Token: ' format' (ID: 3561), Prob: 0.0007
+Token: ' current' (ID: 1482), Prob: 0.0007
+Token: ' given' (ID: 2661), Prob: 0.0007
+Token: ' explanation' (ID: 16148), Prob: 0.0007
+Token: ' word' (ID: 3409), Prob: 0.0007
+Token: ' reason' (ID: 2874), Prob: 0.0006
+Token: ' question' (ID: 3405), Prob: 0.0006
+Token: ' thinking' (ID: 7274), Prob: 0.0006
+Token: ' line' (ID: 1555), Prob: 0.0006
+Token: ' two' (ID: 1378), Prob: 0.0005
+Token: ' box' (ID: 3745), Prob: 0.0005
+Token: ' fact' (ID: 2097), Prob: 0.0005
+Token: ' options' (ID: 2606), Prob: 0.0005
+Token: ' Response' (ID: 5949), Prob: 0.0005
+Token: ' last' (ID: 1537), Prob: 0.0004
+Token: ' short' (ID: 2805), Prob: 0.0004
+Token: ' passage' (ID: 21085), Prob: 0.0004
+Token: ' dates' (ID: 12713), Prob: 0.0003
+Token: ' possible' (ID: 3204), Prob: 0.0003
+Token: ' month' (ID: 2254), Prob: 0.0003
+Token: ' logic' (ID: 12218), Prob: 0.0003
+Token: ' steps' (ID: 7354), Prob: 0.0003
+Token: ' input' (ID: 1946), Prob: 0.0003
+Token: ' data' (ID: 821), Prob: 0.0002
+Token: ' selection' (ID: 6589), Prob: 0.0002
+Token: ' course' (ID: 3308), Prob: 0.0002
+Token: ' choices' (ID: 11454), Prob: 0.0002
+Token: ' other' (ID: 1008), Prob: 0.0002
+Token: ' way' (ID: 1616), Prob: 0.0002
+Token: ' week' (ID: 2003), Prob: 0.0002
+Token: ' previous' (ID: 3681), Prob: 0.0002
+Token: ' instruction' (ID: 7600), Prob: 0.0002
+Token: ' sentences' (ID: 22870), Prob: 0.0002
+Token: ' paragraph' (ID: 14311), Prob: 0.0002
+Token: ' four' (ID: 3040), Prob: 0.0002
+Token: ' choice' (ID: 5754), Prob: 0.0002
+Token: ' years' (ID: 1635), Prob: 0.0002
+Token: ' next' (ID: 1790), Prob: 0.0002
+Token: ' same' (ID: 1852), Prob: 0.0002
+Token: ' fifth' (ID: 17702), Prob: 0.0002
+Token: ' order' (ID: 1973), Prob: 0.0002
+Token: ' story' (ID: 3364), Prob: 0.0002
+Token: ' five' (ID: 4236), Prob: 0.0002
+Token: ' justification' (ID: 41435), Prob: 0.0002
+Token: ' instructions' (ID: 11221), Prob: 0.0001
+Token: ' summer' (ID: 7324), Prob: 0.0001
+Token: ' answers' (ID: 11253), Prob: 0.0001
+Token: ' formatting' (ID: 36566), Prob: 0.0001
+Token: ' person' (ID: 1697), Prob: 0.0001
+Token: ' step' (ID: 3019), Prob: 0.0001
+Token: ' fourth' (ID: 11737), Prob: 0.0001
+Token: ' corresponding' (ID: 12159), Prob: 0.0001
+Token: ' value' (ID: 897), Prob: 0.0001
+Token: ' use' (ID: 990), Prob: 0.0001
+Token: ' key' (ID: 1376), Prob: 0.0001
+Token: ' words' (ID: 4244), Prob: 0.0001
+Token: ' solution' (ID: 6291), Prob: 0.0001
+Token: ' birth' (ID: 7194), Prob: 0.0001
+Token: ' amount' (ID: 3311), Prob: 0.0001
+Token: ' day' (ID: 1899), Prob: 0.0001
+Token: ' content' (ID: 2213), Prob: 0.0001
+Token: ' book' (ID: 2311), Prob: 0.0001
+Token: ' length' (ID: 3084), Prob: 0.0001
+Token: ' above' (ID: 3403), Prob: 0.0001
+Token: ' original' (ID: 4024), Prob: 0.0001
+Token: ' incorrect' (ID: 15114), Prob: 0.0001
+Token: ' list' (ID: 1140), Prob: 0.0001
+Token: ' system' (ID: 1849), Prob: 0.0001
+Token: ' output' (ID: 2550), Prob: 0.0001
+Token: ' following' (ID: 2701), Prob: 0.0001
+Token: ' option' (ID: 2999), Prob: 0.0001
+Token: ' organization' (ID: 7321), Prob: 0.0001
+Token: ' only' (ID: 1172), Prob: 0.0001
+Token: ' sum' (ID: 2629), Prob: 0.0001
+Token: ' third' (ID: 4843), Prob: 0.0001
+Token: ' Final' (ID: 13023), Prob: 0.0001
 
 == Ranked Concepts (Clusters) ==
-Rank 1 | Centroid: ' same' | Score: 0.7227
-  Tokens: [' same', 'same', ' Same']
-Rank 2 | Centroid: ' summer' | Score: 0.1025
-  Tokens: [' summer', ' spring', ' autumn', ' winter', ' Spring', ' Summer', ' Winter', ' Autumn', ' Christmas', ' summers']
-Rank 3 | Centroid: ' early' | Score: 0.0166
-  Tokens: [' early', ' late', ' Early', ' earlier']
-Rank 4 | Centroid: ' fall' | Score: 0.0137
-  Tokens: [' fall', ' Fall']
-Rank 5 | Centroid: ' year' | Score: 0.0066
-  Tokens: [' year', ' season', ' week', ' month', ' period', ' years']
-Rank 6 | Centroid: ' middle' | Score: 0.0017
-  Tokens: [' mid', ' middle', ' midst', ' interim']
-Rank 7 | Centroid: ' previous' | Score: 0.0017
-  Tokens: [' following', ' first', ' past', ' current', ' previous', ' last']
-Rank 8 | Centroid: ' company' | Score: 0.0014
-  Tokens: [' company', ' role', ' series', ' course', ' title', ' style', ' production', ' stage', ' group', ' Company']
-Rank 9 | Centroid: ' UK' | Score: 0.0009
-  Tokens: [' UK', ' London', ' United', ' National', ' British', ' Edinburgh']
-Rank 10 | Centroid: ' latter' | Score: 0.0004
-  Tokens: [' latter', ' later', ' subsequent', ' former']
-Rank 11 | Centroid: ' run' | Score: 0.0003
-  Tokens: [' run', ' cast', ' lead', ' play']
-Rank 12 | Centroid: ' second' | Score: 0.0003
-  Tokens: [' second', ' final', ' end', ' third']
-Rank 13 | Centroid: ' West' | Score: 0.0002
-  Tokens: [' West', ' west', ' East']
-Rank 14 | Centroid: ' aftermath' | Score: 0.0002
-  Tokens: [' beginning', ' theatre', ' wake', ' aftermath', ' opening', ' closing', ' absence']
-Rank 15 | Centroid: ' the' | Score: 0.0000
-  Tokens: [' the', ' w', ' new', ' off', ' two', '2', ' time', ' W', ' U', ' and', ' part']
-Rank 16 | Centroid: ' evening' | Score: 0.0000
-  Tokens: [' evening']
+Rank 1 | Centroid: ' answer' | Score: 0.9141
+  Tokens: [' answer', ' response', ' Answer', ' question', ' Response', ' answers', ' solution']
+Rank 2 | Centroid: ' incorrect' | Score: 0.0123
+  Tokens: [' correct', ' assistant', ' incorrect']
+Rank 3 | Centroid: ' number' | Score: 0.0105
+  Tokens: [' number', ' numbers', ' data', ' amount', ' length', ' list', ' sum']
+Rank 4 | Centroid: ' final' | Score: 0.0063
+  Tokens: [' final', ' Final']
+Rank 5 | Centroid: ' sentence' | Score: 0.0056
+  Tokens: [' sentence', ' statement', ' word', ' passage', ' sentences', ' paragraph', ' story', ' words']
+Rank 6 | Centroid: ' text' | Score: 0.0050
+  Tokens: [' context', ' text', ' fact', ' content']
+Rank 7 | Centroid: ' formatting' | Score: 0.0041
+  Tokens: [' information', ' format', ' formatting', ' organization']
+Rank 8 | Centroid: ' previous' | Score: 0.0038
+  Tokens: [' provided', ' current', ' given', ' possible', ' other', ' previous', ' same', ' corresponding', ' above', ' original', ' following', ' only']
+Rank 9 | Centroid: ' reasoning' | Score: 0.0038
+  Tokens: [' reasoning', ' explanation', ' reason', ' thinking', ' logic', ' justification']
+Rank 10 | Centroid: ' third' | Score: 0.0034
+  Tokens: [' second', ' first', ' last', ' next', ' fifth', ' fourth', ' third']
+Rank 11 | Centroid: ' date' | Score: 0.0033
+  Tokens: [' date', ' dates']
+Rank 12 | Centroid: ' month' | Score: 0.0022
+  Tokens: [' year', ' month', ' week', ' years', ' summer', ' birth', ' day']
+Rank 13 | Centroid: ' user' | Score: 0.0020
+  Tokens: [' user', ' short', ' value', ' use', ' key', ' system']
+Rank 14 | Centroid: ' steps' | Score: 0.0012
+  Tokens: [' process', ' steps', ' step']
+Rank 15 | Centroid: ' book' | Score: 0.0012
+  Tokens: [' line', ' box', ' book']
+Rank 16 | Centroid: ' choices' | Score: 0.0012
+  Tokens: [' options', ' selection', ' choices', ' choice', ' option']
+Rank 17 | Centroid: ' four' | Score: 0.0009
+  Tokens: [' two', ' four', ' five']
+Rank 18 | Centroid: ' person' | Score: 0.0005
+  Tokens: [' course', ' way', ' person']
+Rank 19 | Centroid: ' input' | Score: 0.0003
+  Tokens: [' input', ' output']
+Rank 20 | Centroid: ' instruction' | Score: 0.0003
+  Tokens: [' instruction', ' instructions']
+Rank 21 | Centroid: ' order' | Score: 0.0002
+  Tokens: [' order']
 
 **Chosen Concept:** Rank 1

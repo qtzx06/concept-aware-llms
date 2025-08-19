@@ -1,0 +1,94 @@
+--- Step 63 Log ---
+
+== Filtered Candidates ==
+Token: ' is' (ID: 374), Prob: 0.0012
+Token: ' in' (ID: 304), Prob: 0.0000
+Token: ' are' (ID: 525), Prob: 0.0000
+Token: ' to' (ID: 311), Prob: 0.0000
+Token: ' for' (ID: 369), Prob: 0.0000
+Token: ' on' (ID: 389), Prob: 0.0000
+Token: ' Code' (ID: 6119), Prob: 0.0000
+Token: ' and' (ID: 323), Prob: 0.0000
+Token: ' we' (ID: 582), Prob: 0.0000
+Token: ' should' (ID: 1265), Prob: 0.0000
+Token: ' points' (ID: 3501), Prob: 0.0000
+Token: ' Explanation' (ID: 71287), Prob: 0.0000
+Token: ' with' (ID: 448), Prob: 0.0000
+Token: ' code' (ID: 2038), Prob: 0.0000
+Token: ' explanation' (ID: 16148), Prob: 0.0000
+Token: ' this' (ID: 419), Prob: 0.0000
+Token: ' point' (ID: 1459), Prob: 0.0000
+Token: ' provided' (ID: 3897), Prob: 0.0000
+Token: ' was' (ID: 572), Prob: 0.0000
+Token: ' of' (ID: 315), Prob: 0.0000
+Token: ' both' (ID: 2176), Prob: 0.0000
+Token: ' the' (ID: 279), Prob: 0.0000
+Token: ' from' (ID: 504), Prob: 0.0000
+Token: ' comes' (ID: 4041), Prob: 0.0000
+Token: ' that' (ID: 429), Prob: 0.0000
+Token: ' as' (ID: 438), Prob: 0.0000
+Token: ' via' (ID: 4566), Prob: 0.0000
+Token: ' either' (ID: 2987), Prob: 0.0000
+Token: ' example' (ID: 3110), Prob: 0.0000
+Token: ' by' (ID: 553), Prob: 0.0000
+Token: ' check' (ID: 1779), Prob: 0.0000
+Token: ' must' (ID: 1969), Prob: 0.0000
+Token: ' how' (ID: 1246), Prob: 0.0000
+Token: ' whether' (ID: 3425), Prob: 0.0000
+Token: ' has' (ID: 702), Prob: 0.0000
+Token: ' no' (ID: 902), Prob: 0.0000
+Token: ' according' (ID: 4092), Prob: 0.0000
+Token: ' here' (ID: 1588), Prob: 0.0000
+Token: ' will' (ID: 686), Prob: 0.0000
+Token: ' Is' (ID: 2160), Prob: 0.0000
+Token: ' not' (ID: 537), Prob: 0.0000
+Token: ' does' (ID: 1558), Prob: 0.0000
+Token: ' explained' (ID: 11247), Prob: 0.0000
+Token: ' being' (ID: 1660), Prob: 0.0000
+Token: ' seems' (ID: 4977), Prob: 0.0000
+Token: ' us' (ID: 601), Prob: 0.0000
+Token: ' or' (ID: 476), Prob: 0.0000
+Token: ' would' (ID: 1035), Prob: 0.0000
+Token: ' Check' (ID: 4248), Prob: 0.0000
+Token: ' above' (ID: 3403), Prob: 0.0000
+Token: ' our' (ID: 1039), Prob: 0.0000
+Token: ' isn' (ID: 4436), Prob: 0.0000
+Token: ' submitted' (ID: 14634), Prob: 0.0000
+Token: ' using' (ID: 1667), Prob: 0.0000
+Token: ' can' (ID: 646), Prob: 0.0000
+Token: ' becomes' (ID: 9044), Prob: 0.0000
+Token: ' under' (ID: 1212), Prob: 0.0000
+Token: ' description' (ID: 4008), Prob: 0.0000
+Token: ' now' (ID: 1431), Prob: 0.0000
+
+== Ranked Concepts (Clusters) ==
+Rank 1 | Centroid: ' is' | Score: 0.0012
+  Tokens: [' is', ' was', ' comes', ' has', ' Is', ' does', ' seems', ' isn', ' becomes']
+Rank 2 | Centroid: ' in' | Score: 0.0001
+  Tokens: [' in', ' to', ' for', ' on', ' and', ' with', ' of', ' the', ' from', ' that', ' as', ' by', ' or']
+Rank 3 | Centroid: ' will' | Score: 0.0000
+  Tokens: [' are', ' should', ' must', ' will', ' would', ' can']
+Rank 4 | Centroid: ' explanation' | Score: 0.0000
+  Tokens: [' Explanation', ' explanation', ' example', ' explained', ' description']
+Rank 5 | Centroid: ' Code' | Score: 0.0000
+  Tokens: [' Code', ' code']
+Rank 6 | Centroid: ' points' | Score: 0.0000
+  Tokens: [' points', ' point']
+Rank 7 | Centroid: ' whether' | Score: 0.0000
+  Tokens: [' both', ' either', ' how', ' whether']
+Rank 8 | Centroid: ' we' | Score: 0.0000
+  Tokens: [' we', ' us', ' our']
+Rank 9 | Centroid: ' here' | Score: 0.0000
+  Tokens: [' this', ' here', ' now']
+Rank 10 | Centroid: ' using' | Score: 0.0000
+  Tokens: [' via', ' according', ' using', ' under']
+Rank 11 | Centroid: ' provided' | Score: 0.0000
+  Tokens: [' provided', ' above', ' submitted']
+Rank 12 | Centroid: ' check' | Score: 0.0000
+  Tokens: [' check', ' Check']
+Rank 13 | Centroid: ' no' | Score: 0.0000
+  Tokens: [' no', ' not']
+Rank 14 | Centroid: ' being' | Score: 0.0000
+  Tokens: [' being']
+
+**Chosen Concept:** Rank 1

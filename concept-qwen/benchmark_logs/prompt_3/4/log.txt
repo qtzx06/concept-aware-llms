@@ -1,134 +1,147 @@
 --- Step 4 Log ---
 
 == Filtered Candidates ==
-Token: ' year' (ID: 1042), Prob: 0.9961
-Token: ' season' (ID: 3200), Prob: 0.0022
-Token: ' years' (ID: 1635), Prob: 0.0003
-Token: ' period' (ID: 4168), Prob: 0.0003
-Token: ' decade' (ID: 13212), Prob: 0.0002
-Token: ' calendar' (ID: 13168), Prob: 0.0001
-Token: ' series' (ID: 4013), Prob: 0.0001
-Token: ' time' (ID: 882), Prob: 0.0001
-Token: ' theatre' (ID: 33496), Prob: 0.0001
-Token: ' month' (ID: 2254), Prob: 0.0000
-Token: ' production' (ID: 5670), Prob: 0.0000
-Token: 'year' (ID: 3157), Prob: 0.0000
-Token: ' week' (ID: 2003), Prob: 0.0000
-Token: ' summer' (ID: 7324), Prob: 0.0000
-Token: ' two' (ID: 1378), Prob: 0.0000
-Token: ' play' (ID: 1486), Prob: 0.0000
-Token: ' Year' (ID: 9742), Prob: 0.0000
-Token: ' city' (ID: 3283), Prob: 0.0000
-Token: ' role' (ID: 3476), Prob: 0.0000
-Token: ' theatrical' (ID: 65233), Prob: 0.0000
-Token: ' performance' (ID: 5068), Prob: 0.0000
-Token: ' episode' (ID: 9234), Prob: 0.0000
-Token: ' edition' (ID: 13688), Prob: 0.0000
-Token: ' timeframe' (ID: 69953), Prob: 0.0000
-Token: ' show' (ID: 1473), Prob: 0.0000
-Token: ' theater' (ID: 26705), Prob: 0.0000
-Token: ' era' (ID: 11385), Prob: 0.0000
-Token: ' winter' (ID: 12406), Prob: 0.0000
-Token: ' television' (ID: 12425), Prob: 0.0000
-Token: ' five' (ID: 4236), Prob: 0.0000
-Token: ' film' (ID: 4531), Prob: 0.0000
-Token: ' acting' (ID: 15358), Prob: 0.0000
-Token: ' fiscal' (ID: 19743), Prob: 0.0000
-Token: ' night' (ID: 3729), Prob: 0.0000
-Token: ' term' (ID: 4647), Prob: 0.0000
-Token: ' tour' (ID: 7216), Prob: 0.0000
-Token: ' programme' (ID: 18136), Prob: 0.0000
-Token: ' y' (ID: 379), Prob: 0.0000
-Token: ' three' (ID: 2326), Prob: 0.0000
-Token: ' country' (ID: 3146), Prob: 0.0000
-Token: ' seasons' (ID: 15584), Prob: 0.0000
-Token: ' London' (ID: 7148), Prob: 0.0000
-Token: ' academic' (ID: 14250), Prob: 0.0000
-Token: ' four' (ID: 3040), Prob: 0.0000
-Token: '-year' (ID: 4666), Prob: 0.0000
-Token: ' town' (ID: 6290), Prob: 0.0000
-Token: ' cycle' (ID: 10775), Prob: 0.0000
-Token: ' ye' (ID: 19478), Prob: 0.0000
-Token: ' autumn' (ID: 41674), Prob: 0.0000
-Token: ' annum' (ID: 86657), Prob: 0.0000
-Token: ' way' (ID: 1616), Prob: 0.0000
-Token: ' area' (ID: 3082), Prob: 0.0000
-Token: ' the' (ID: 279), Prob: 0.0000
-Token: ' writing' (ID: 4378), Prob: 0.0000
-Token: ' financial' (ID: 5896), Prob: 0.0000
-Token: ' performing' (ID: 16380), Prob: 0.0000
-Token: ' day' (ID: 1899), Prob: 0.0000
-Token: ' session' (ID: 3797), Prob: 0.0000
-Token: ' festival' (ID: 18780), Prob: 0.0000
-Token: ' yr' (ID: 42338), Prob: 0.0000
-Token: ' vein' (ID: 53244), Prob: 0.0000
-Token: ' run' (ID: 1598), Prob: 0.0000
-Token: ' region' (ID: 5537), Prob: 0.0000
-Token: ' stage' (ID: 6430), Prob: 0.0000
-Token: ' few' (ID: 2421), Prob: 0.0000
-Token: ' actor' (ID: 12089), Prob: 0.0000
-Token: ' evening' (ID: 11458), Prob: 0.0000
-Token: ' stretch' (ID: 14501), Prob: 0.0000
-Token: ' school' (ID: 2906), Prob: 0.0000
-Token: ' spring' (ID: 10464), Prob: 0.0000
-Token: ' venue' (ID: 21434), Prob: 0.0000
-Token: ' Y' (ID: 809), Prob: 0.0000
-Token: ' quarter' (ID: 8338), Prob: 0.0000
-Token: ' annual' (ID: 9775), Prob: 0.0000
-Token: ' six' (ID: 4743), Prob: 0.0000
-Token: ' BBC' (ID: 18096), Prob: 0.0000
-Token: ' theat' (ID: 46113), Prob: 0.0000
-Token: ' program' (ID: 2025), Prob: 0.0000
-Token: ' instance' (ID: 2867), Prob: 0.0000
-Token: ' cast' (ID: 6311), Prob: 0.0000
-Token: ' fashion' (ID: 11153), Prob: 0.0000
-Token: ' musical' (ID: 17795), Prob: 0.0000
-Token: ' in' (ID: 304), Prob: 0.0000
+Token: ' adapted' (ID: 29364), Prob: 0.0825
+Token: ' able' (ID: 2952), Prob: 0.0566
+Token: ' known' (ID: 3881), Prob: 0.0442
+Token: ' animals' (ID: 9898), Prob: 0.0388
+Token: ' desert' (ID: 23603), Prob: 0.0388
+Token: ' very' (ID: 1602), Prob: 0.0303
+Token: ' mammals' (ID: 55569), Prob: 0.0284
+Token: ' the' (ID: 279), Prob: 0.0222
+Token: ' highly' (ID: 7548), Prob: 0.0209
+Token: ' capable' (ID: 12875), Prob: 0.0209
+Token: ' a' (ID: 264), Prob: 0.0195
+Token: ' mostly' (ID: 10008), Prob: 0.0195
+Token: ' well' (ID: 1632), Prob: 0.0173
+Token: ' not' (ID: 537), Prob: 0.0143
+Token: ' herb' (ID: 38899), Prob: 0.0143
+Token: ' excellent' (ID: 9073), Prob: 0.0134
+Token: ' among' (ID: 4221), Prob: 0.0126
+Token: ' unique' (ID: 4911), Prob: 0.0126
+Token: ' specialized' (ID: 27076), Prob: 0.0126
+Token: ' extremely' (ID: 9016), Prob: 0.0119
+Token: ' efficient' (ID: 11050), Prob: 0.0119
+Token: ' semi' (ID: 18267), Prob: 0.0119
+Token: ' r' (ID: 435), Prob: 0.0112
+Token: ' special' (ID: 3281), Prob: 0.0112
+Token: ' mainly' (ID: 14576), Prob: 0.0098
+Token: ' specially' (ID: 34326), Prob: 0.0098
+Token: ' good' (ID: 1661), Prob: 0.0092
+Token: ' designed' (ID: 6188), Prob: 0.0092
+Token: ' cam' (ID: 6592), Prob: 0.0087
+Token: ' used' (ID: 1483), Prob: 0.0082
+Token: ' in' (ID: 304), Prob: 0.0077
+Token: ' native' (ID: 9867), Prob: 0.0077
+Token: ' large' (ID: 3460), Prob: 0.0072
+Token: ' actually' (ID: 3520), Prob: 0.0068
+Token: ' primarily' (ID: 15503), Prob: 0.0056
+Token: ' naturally' (ID: 17712), Prob: 0.0053
+Token: ' found' (ID: 1730), Prob: 0.0049
+Token: ' important' (ID: 2989), Prob: 0.0049
+Token: ' noct' (ID: 92001), Prob: 0.0049
+Token: ' experts' (ID: 11647), Prob: 0.0046
+Token: ' some' (ID: 1045), Prob: 0.0044
+Token: ' also' (ID: 1083), Prob: 0.0044
+Token: ' usually' (ID: 5990), Prob: 0.0044
+Token: ' expert' (ID: 6203), Prob: 0.0044
+Token: ' often' (ID: 3545), Prob: 0.0041
+Token: ' creatures' (ID: 19970), Prob: 0.0041
+Token: ' an' (ID: 458), Prob: 0.0039
+Token: ' living' (ID: 5382), Prob: 0.0039
+Token: ' uniquely' (ID: 41229), Prob: 0.0039
+Token: ' more' (ID: 803), Prob: 0.0036
+Token: ' water' (ID: 3015), Prob: 0.0036
+Token: ' born' (ID: 9223), Prob: 0.0036
+Token: ' remarkable' (ID: 22804), Prob: 0.0036
+Token: ' camel' (ID: 49152), Prob: 0.0036
+Token: ' adaptations' (ID: 76665), Prob: 0.0036
+Token: ' amazing' (ID: 7897), Prob: 0.0034
+Token: ' classified' (ID: 21091), Prob: 0.0034
+Token: ' ar' (ID: 796), Prob: 0.0032
+Token: ' from' (ID: 504), Prob: 0.0030
+Token: ' generally' (ID: 8789), Prob: 0.0030
+Token: ' skilled' (ID: 25530), Prob: 0.0030
+Token: ' resilient' (ID: 58680), Prob: 0.0030
+Token: ' great' (ID: 2244), Prob: 0.0028
+Token: ' called' (ID: 2598), Prob: 0.0028
+Token: ' most' (ID: 1429), Prob: 0.0023
+Token: ' hard' (ID: 2588), Prob: 0.0023
+Token: ' dry' (ID: 9058), Prob: 0.0023
+Token: ' oblig' (ID: 12331), Prob: 0.0023
+Token: ' built' (ID: 5798), Prob: 0.0022
+Token: ' like' (ID: 1075), Prob: 0.0019
+Token: ' best' (ID: 1850), Prob: 0.0019
+Token: ' ancient' (ID: 13833), Prob: 0.0019
+Token: ' of' (ID: 315), Prob: 0.0018
+Token: ' one' (ID: 825), Prob: 0.0018
+Token: ' long' (ID: 1293), Prob: 0.0018
+Token: ' extrem' (ID: 5876), Prob: 0.0018
+Token: ' so' (ID: 773), Prob: 0.0017
+Token: ' only' (ID: 1172), Prob: 0.0016
+Token: ' natural' (ID: 5810), Prob: 0.0016
+Token: ' considered' (ID: 6509), Prob: 0.0016
+Token: ' rare' (ID: 8848), Prob: 0.0016
+Token: ' h' (ID: 305), Prob: 0.0015
+Token: ' particularly' (ID: 7945), Prob: 0.0015
+Token: ' terrestrial' (ID: 79392), Prob: 0.0015
+Token: ' high' (ID: 1550), Prob: 0.0014
+Token: ' different' (ID: 2155), Prob: 0.0014
+Token: ' cold' (ID: 9255), Prob: 0.0014
+Token: ' famous' (ID: 11245), Prob: 0.0014
+Token: ' commonly' (ID: 16626), Prob: 0.0014
+Token: ' intelligent' (ID: 24514), Prob: 0.0014
+Token: ' descended' (ID: 57742), Prob: 0.0014
+Token: ' carniv' (ID: 96633), Prob: 0.0014
+Token: ' such' (ID: 1741), Prob: 0.0013
+Token: ' especially' (ID: 5310), Prob: 0.0013
+Token: ' plants' (ID: 10779), Prob: 0.0013
+Token: ' exceptional' (ID: 24364), Prob: 0.0013
+Token: ' di' (ID: 1853), Prob: 0.0013
+Token: ' typically' (ID: 11136), Prob: 0.0013
+Token: ' salt' (ID: 12021), Prob: 0.0013
+Token: ' evolved' (ID: 27895), Prob: 0.0013
 
 == Ranked Concepts (Clusters) ==
-Rank 1 | Centroid: ' year' | Score: 0.9961
-  Tokens: [' year', ' years', ' decade', 'year', ' Year', '-year', ' annum', ' yr', ' annual']
-Rank 2 | Centroid: ' season' | Score: 0.0022
-  Tokens: [' season', ' seasons']
-Rank 3 | Centroid: ' era' | Score: 0.0003
-  Tokens: [' period', ' timeframe', ' era', ' cycle', ' stage']
-Rank 4 | Centroid: ' calendar' | Score: 0.0001
-  Tokens: [' calendar']
-Rank 5 | Centroid: ' series' | Score: 0.0001
-  Tokens: [' series', ' session']
-Rank 6 | Centroid: ' theatre' | Score: 0.0001
-  Tokens: [' theatre', ' theatrical', ' theater', ' television', ' film', ' actor', ' theat']
-Rank 7 | Centroid: ' time' | Score: 0.0001
-  Tokens: [' time', ' term']
-Rank 8 | Centroid: ' week' | Score: 0.0001
-  Tokens: [' month', ' week', ' night', ' day', ' evening']
-Rank 9 | Centroid: ' financial' | Score: 0.0000
-  Tokens: [' production', ' fiscal', ' academic', ' writing', ' financial', ' fashion', ' musical']
-Rank 10 | Centroid: ' summer' | Score: 0.0000
-  Tokens: [' summer', ' winter', ' autumn', ' spring']
-Rank 11 | Centroid: ' three' | Score: 0.0000
-  Tokens: [' two', ' five', ' three', ' four', ' few', ' six']
-Rank 12 | Centroid: ' city' | Score: 0.0000
-  Tokens: [' city', ' country', ' town', ' area', ' region', ' school']
-Rank 13 | Centroid: ' festival' | Score: 0.0000
-  Tokens: [' episode', ' edition', ' festival']
-Rank 14 | Centroid: ' performing' | Score: 0.0000
-  Tokens: [' performance', ' acting', ' performing', ' cast']
-Rank 15 | Centroid: ' role' | Score: 0.0000
-  Tokens: [' role', ' way', ' instance']
-Rank 16 | Centroid: ' venue' | Score: 0.0000
-  Tokens: [' London', ' vein', ' venue', ' BBC']
-Rank 17 | Centroid: ' y' | Score: 0.0000
-  Tokens: [' y', ' ye', ' Y']
-Rank 18 | Centroid: ' programme' | Score: 0.0000
-  Tokens: [' programme', ' program']
-Rank 19 | Centroid: ' tour' | Score: 0.0000
-  Tokens: [' tour']
-Rank 20 | Centroid: ' the' | Score: 0.0000
-  Tokens: [' play', ' show', ' the', ' run', ' in']
-Rank 21 | Centroid: ' stretch' | Score: 0.0000
-  Tokens: [' stretch']
-Rank 22 | Centroid: ' quarter' | Score: 0.0000
-  Tokens: [' quarter']
+Rank 1 | Centroid: ' creatures' | Score: 0.1484
+  Tokens: [' animals', ' desert', ' mammals', ' herb', ' cam', ' noct', ' creatures', ' camel', ' oblig', ' terrestrial', ' carniv', ' plants']
+Rank 2 | Centroid: ' designed' | Score: 0.1133
+  Tokens: [' able', ' capable', ' designed', ' used', ' found', ' born', ' classified', ' called', ' built', ' considered']
+Rank 3 | Centroid: ' the' | Score: 0.1011
+  Tokens: [' the', ' a', ' not', ' r', ' in', ' some', ' an', ' more', ' ar', ' from', ' of', ' one', ' so', ' h', ' di']
+Rank 4 | Centroid: ' adapted' | Score: 0.0938
+  Tokens: [' adapted', ' adaptations', ' resilient', ' extrem', ' descended', ' evolved']
+Rank 5 | Centroid: ' extremely' | Score: 0.0630
+  Tokens: [' very', ' highly', ' extremely']
+Rank 6 | Centroid: ' known' | Score: 0.0442
+  Tokens: [' known']
+Rank 7 | Centroid: ' amazing' | Score: 0.0403
+  Tokens: [' excellent', ' good', ' important', ' remarkable', ' amazing', ' great', ' famous', ' exceptional']
+Rank 8 | Centroid: ' mostly' | Score: 0.0388
+  Tokens: [' mostly', ' mainly', ' primarily', ' most', ' only']
+Rank 9 | Centroid: ' special' | Score: 0.0337
+  Tokens: [' specialized', ' special', ' specially']
+Rank 10 | Centroid: ' large' | Score: 0.0332
+  Tokens: [' semi', ' large', ' water', ' hard', ' dry', ' long', ' high', ' cold', ' salt']
+Rank 11 | Centroid: ' expert' | Score: 0.0254
+  Tokens: [' efficient', ' experts', ' expert', ' skilled', ' intelligent']
+Rank 12 | Centroid: ' usually' | Score: 0.0209
+  Tokens: [' actually', ' usually', ' often', ' generally', ' commonly', ' typically']
+Rank 13 | Centroid: ' well' | Score: 0.0193
+  Tokens: [' well', ' best']
+Rank 14 | Centroid: ' natural' | Score: 0.0184
+  Tokens: [' native', ' naturally', ' living', ' natural']
+Rank 15 | Centroid: ' unique' | Score: 0.0179
+  Tokens: [' unique', ' uniquely', ' different']
+Rank 16 | Centroid: ' such' | Score: 0.0159
+  Tokens: [' among', ' like', ' such']
+Rank 17 | Centroid: ' also' | Score: 0.0044
+  Tokens: [' also']
+Rank 18 | Centroid: ' particularly' | Score: 0.0028
+  Tokens: [' particularly', ' especially']
+Rank 19 | Centroid: ' ancient' | Score: 0.0019
+  Tokens: [' ancient']
+Rank 20 | Centroid: ' rare' | Score: 0.0016
+  Tokens: [' rare']
 
 **Chosen Concept:** Rank 1

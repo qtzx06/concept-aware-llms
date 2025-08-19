@@ -1,154 +1,109 @@
 --- Step 30 Log ---
 
 == Filtered Candidates ==
-Token: ' Last' (ID: 7996), Prob: 0.0227
-Token: ' Man' (ID: 2363), Prob: 0.0121
-Token: ' Re' (ID: 1032), Prob: 0.0084
-Token: ' Day' (ID: 6059), Prob: 0.0084
-Token: ' W' (ID: 467), Prob: 0.0078
-Token: ' G' (ID: 479), Prob: 0.0074
-Token: ' D' (ID: 422), Prob: 0.0061
-Token: ' R' (ID: 431), Prob: 0.0057
-Token: ' House' (ID: 4678), Prob: 0.0057
-Token: ' Good' (ID: 7684), Prob: 0.0057
-Token: ' S' (ID: 328), Prob: 0.0054
-Token: ' M' (ID: 386), Prob: 0.0054
-Token: ' Big' (ID: 6164), Prob: 0.0054
-Token: ' Other' (ID: 6944), Prob: 0.0054
-Token: ' Great' (ID: 8513), Prob: 0.0051
-Token: ' Devil' (ID: 39201), Prob: 0.0051
-Token: ' L' (ID: 444), Prob: 0.0048
-Token: ' H' (ID: 472), Prob: 0.0048
-Token: ' Un' (ID: 1230), Prob: 0.0048
-Token: ' C' (ID: 356), Prob: 0.0045
-Token: ' World' (ID: 4337), Prob: 0.0039
-Token: ' B' (ID: 425), Prob: 0.0037
-Token: ' First' (ID: 5512), Prob: 0.0037
-Token: ' Girl' (ID: 11363), Prob: 0.0037
-Token: ' New' (ID: 1532), Prob: 0.0035
-Token: ' Black' (ID: 5235), Prob: 0.0033
-Token: ' Lost' (ID: 27252), Prob: 0.0033
-Token: ' Truth' (ID: 29098), Prob: 0.0033
-Token: ' St' (ID: 794), Prob: 0.0031
-Token: ' Secret' (ID: 8599), Prob: 0.0031
-Token: ' Young' (ID: 13263), Prob: 0.0031
-Token: ' F' (ID: 434), Prob: 0.0027
-Token: ' War' (ID: 5004), Prob: 0.0027
-Token: ' Long' (ID: 5724), Prob: 0.0027
-Token: ' Final' (ID: 13023), Prob: 0.0027
-Token: ' Hang' (ID: 40775), Prob: 0.0027
-Token: ' Road' (ID: 9536), Prob: 0.0025
-Token: ' Dark' (ID: 12258), Prob: 0.0025
-Token: ' T' (ID: 350), Prob: 0.0024
-Token: ' Best' (ID: 7107), Prob: 0.0024
-Token: ' Life' (ID: 9414), Prob: 0.0024
-Token: ' Gr' (ID: 2825), Prob: 0.0022
-Token: ' Fast' (ID: 17288), Prob: 0.0022
-Token: ' Fourth' (ID: 35074), Prob: 0.0022
-Token: ' Wrest' (ID: 44937), Prob: 0.0022
-Token: ' Quiet' (ID: 67487), Prob: 0.0022
-Token: ' Ex' (ID: 1374), Prob: 0.0021
-Token: ' Game' (ID: 4050), Prob: 0.0021
-Token: ' People' (ID: 8853), Prob: 0.0021
-Token: ' Edge' (ID: 10349), Prob: 0.0021
-Token: ' Constant' (ID: 19305), Prob: 0.0021
-Token: ' Ghost' (ID: 25044), Prob: 0.0021
-Token: ' P' (ID: 393), Prob: 0.0020
-Token: ' Dis' (ID: 4093), Prob: 0.0020
-Token: ' Book' (ID: 5893), Prob: 0.0020
-Token: ' V' (ID: 647), Prob: 0.0019
-Token: ' In' (ID: 758), Prob: 0.0019
-Token: ' Love' (ID: 10689), Prob: 0.0019
-Token: ' Battle' (ID: 16115), Prob: 0.0019
-Token: ' Living' (ID: 18539), Prob: 0.0019
-Token: ' King' (ID: 6210), Prob: 0.0017
-Token: ' Night' (ID: 12826), Prob: 0.0017
-Token: ' Woman' (ID: 24511), Prob: 0.0017
-Token: ' Al' (ID: 1674), Prob: 0.0016
-Token: ' God' (ID: 4264), Prob: 0.0016
-Token: ' Art' (ID: 5166), Prob: 0.0016
-Token: ' Gang' (ID: 34417), Prob: 0.0016
-Token: ' Thin' (ID: 69622), Prob: 0.0016
-Token: ' Elephant' (ID: 78089), Prob: 0.0016
-Token: ' Impossible' (ID: 82652), Prob: 0.0016
-Token: ' Ch' (ID: 910), Prob: 0.0015
-Token: ' Add' (ID: 2691), Prob: 0.0015
-Token: ' Under' (ID: 9449), Prob: 0.0015
-Token: ' Hard' (ID: 11232), Prob: 0.0015
-Token: ' Dead' (ID: 15021), Prob: 0.0015
-Token: ' Wolf' (ID: 25230), Prob: 0.0015
-Token: ' Phantom' (ID: 46197), Prob: 0.0015
-Token: ' Hunger' (ID: 66536), Prob: 0.0015
-Token: ' Wolverine' (ID: 83179), Prob: 0.0015
-Token: ' Tr' (ID: 1163), Prob: 0.0014
-Token: ' Return' (ID: 3411), Prob: 0.0014
-Token: ' End' (ID: 3972), Prob: 0.0014
-Token: ' Street' (ID: 6686), Prob: 0.0014
-Token: ' Watch' (ID: 10357), Prob: 0.0014
-Token: ' Human' (ID: 11097), Prob: 0.0014
-Token: ' Way' (ID: 12149), Prob: 0.0014
-Token: ' Boy' (ID: 16180), Prob: 0.0014
-Token: ' Mask' (ID: 19924), Prob: 0.0014
-Token: ' A' (ID: 362), Prob: 0.0014
-Token: ' Sh' (ID: 1417), Prob: 0.0014
-Token: ' Green' (ID: 7840), Prob: 0.0014
-Token: ' Sun' (ID: 8059), Prob: 0.0014
-Token: ' Ball' (ID: 12836), Prob: 0.0014
-Token: ' Movie' (ID: 13944), Prob: 0.0014
-Token: ' Dog' (ID: 14254), Prob: 0.0014
-Token: ' Fall' (ID: 14785), Prob: 0.0014
-Token: ' Death' (ID: 15911), Prob: 0.0014
-Token: ' Deep' (ID: 18183), Prob: 0.0014
-Token: ' O' (ID: 506), Prob: 0.0013
+Token: ' A' (ID: 362), Prob: 0.0410
+Token: ' correct' (ID: 4396), Prob: 0.0248
+Token: ' based' (ID: 3118), Prob: 0.0086
+Token: ' a' (ID: 264), Prob: 0.0071
+Token: ' in' (ID: 304), Prob: 0.0067
+Token: ' not' (ID: 537), Prob: 0.0063
+Token: ' B' (ID: 425), Prob: 0.0052
+Token: ' the' (ID: 279), Prob: 0.0032
+Token: ' yes' (ID: 9834), Prob: 0.0026
+Token: ' either' (ID: 2987), Prob: 0.0019
+Token: ' to' (ID: 311), Prob: 0.0017
+Token: ' C' (ID: 356), Prob: 0.0017
+Token: ' probably' (ID: 4658), Prob: 0.0010
+Token: ' standard' (ID: 5297), Prob: 0.0010
+Token: ' likely' (ID: 4363), Prob: 0.0008
+Token: ' supposed' (ID: 9966), Prob: 0.0007
+Token: ' as' (ID: 438), Prob: 0.0006
+Token: ' this' (ID: 419), Prob: 0.0006
+Token: ' both' (ID: 2176), Prob: 0.0005
+Token: ' written' (ID: 5326), Prob: 0.0005
+Token: ' incorrect' (ID: 15114), Prob: 0.0005
+Token: ' boxed' (ID: 73664), Prob: 0.0005
+Token: ' D' (ID: 422), Prob: 0.0004
+Token: ' only' (ID: 1172), Prob: 0.0004
+Token: ' option' (ID: 2999), Prob: 0.0004
+Token: ' according' (ID: 4092), Prob: 0.0004
+Token: ' Yes' (ID: 7414), Prob: 0.0003
+Token: ' E' (ID: 468), Prob: 0.0003
+Token: ' for' (ID: 369), Prob: 0.0003
+Token: ' best' (ID: 1850), Prob: 0.0003
+Token: ' no' (ID: 902), Prob: 0.0003
+Token: ' what' (ID: 1128), Prob: 0.0003
+Token: ' all' (ID: 678), Prob: 0.0002
+Token: ' True' (ID: 3007), Prob: 0.0002
+Token: ' definitely' (ID: 8491), Prob: 0.0002
+Token: ' possible' (ID: 3204), Prob: 0.0002
+Token: ' expected' (ID: 3601), Prob: 0.0002
+Token: ' one' (ID: 825), Prob: 0.0002
+Token: ' under' (ID: 1212), Prob: 0.0002
+Token: ' NOT' (ID: 4183), Prob: 0.0002
+Token: ' b' (ID: 293), Prob: 0.0002
+Token: ' an' (ID: 458), Prob: 0.0002
+Token: ' bold' (ID: 13939), Prob: 0.0002
+Token: ' because' (ID: 1576), Prob: 0.0002
+Token: ' using' (ID: 1667), Prob: 0.0002
+Token: ' choice' (ID: 5754), Prob: 0.0002
+Token: ' Option' (ID: 6959), Prob: 0.0002
+Token: ' now' (ID: 1431), Prob: 0.0002
+Token: ' Select' (ID: 8427), Prob: 0.0002
+Token: ' Standard' (ID: 11766), Prob: 0.0002
+Token: ' Based' (ID: 20205), Prob: 0.0001
+Token: ' Correct' (ID: 39970), Prob: 0.0001
+Token: ' The' (ID: 576), Prob: 0.0001
+Token: ' options' (ID: 2606), Prob: 0.0001
+Token: ' provided' (ID: 3897), Prob: 0.0001
+Token: ' wrong' (ID: 4969), Prob: 0.0001
+Token: ' from' (ID: 504), Prob: 0.0001
+Token: ' true' (ID: 830), Prob: 0.0001
+Token: ' given' (ID: 2661), Prob: 0.0001
+Token: ' box' (ID: 3745), Prob: 0.0001
+Token: ' green' (ID: 6176), Prob: 0.0001
+Token: ' okay' (ID: 16910), Prob: 0.0001
+Token: ' on' (ID: 389), Prob: 0.0001
+Token: ' which' (ID: 892), Prob: 0.0001
+Token: ' Q' (ID: 1207), Prob: 0.0001
+Token: ' sure' (ID: 2704), Prob: 0.0001
+Token: ' determined' (ID: 10838), Prob: 0.0001
+Token: ' S' (ID: 328), Prob: 0.0001
+Token: ' X' (ID: 1599), Prob: 0.0001
+Token: ' must' (ID: 1969), Prob: 0.0001
+Token: ' selected' (ID: 4091), Prob: 0.0001
+Token: ' listed' (ID: 10007), Prob: 0.0001
 
 == Ranked Concepts (Clusters) ==
-Rank 1 | Centroid: ' D' | Score: 0.0669
-  Tokens: [' W', ' G', ' D', ' R', ' S', ' M', ' L', ' H', ' C', ' B', ' F', ' T', ' P', ' V', ' A', ' O']
-Rank 2 | Centroid: ' First' | Score: 0.0349
-  Tokens: [' Last', ' First', ' New', ' Final', ' Fourth']
-Rank 3 | Centroid: ' Un' | Score: 0.0304
-  Tokens: [' Re', ' Un', ' St', ' Gr', ' Ex', ' Dis', ' In', ' Al', ' Ch', ' Tr', ' Sh']
-Rank 4 | Centroid: ' Good' | Score: 0.0266
-  Tokens: [' Good', ' Big', ' Great', ' Young', ' Long', ' Best', ' Fast']
-Rank 5 | Centroid: ' Road' | Score: 0.0220
-  Tokens: [' Day', ' House', ' Road', ' Edge', ' Night', ' Street']
-Rank 6 | Centroid: ' Girl' | Score: 0.0190
-  Tokens: [' Man', ' Girl', ' Woman', ' Boy']
-Rank 7 | Centroid: ' Battle' | Score: 0.0127
-  Tokens: [' War', ' Wrest', ' Battle', ' Wolf', ' Wolverine', ' Watch', ' Movie']
-Rank 8 | Centroid: ' Quiet' | Score: 0.0118
-  Tokens: [' Truth', ' Secret', ' Quiet', ' Thin', ' Impossible']
-Rank 9 | Centroid: ' Hang' | Score: 0.0087
-  Tokens: [' Hang', ' Gang', ' Hunger', ' Mask', ' Fall']
-Rank 10 | Centroid: ' Black' | Score: 0.0085
-  Tokens: [' Black', ' Dark', ' Green', ' Deep']
-Rank 11 | Centroid: ' Dog' | Score: 0.0081
-  Tokens: [' Devil', ' Elephant', ' Dog']
-Rank 12 | Centroid: ' Other' | Score: 0.0069
-  Tokens: [' Other', ' Under']
-Rank 13 | Centroid: ' Death' | Score: 0.0062
-  Tokens: [' Lost', ' Dead', ' Death']
-Rank 14 | Centroid: ' Life' | Score: 0.0061
-  Tokens: [' Life', ' Love', ' Living']
-Rank 15 | Centroid: ' Book' | Score: 0.0054
-  Tokens: [' Game', ' Book', ' Ball']
-Rank 16 | Centroid: ' Add' | Score: 0.0045
-  Tokens: [' Add', ' Return', ' End']
-Rank 17 | Centroid: ' World' | Score: 0.0039
-  Tokens: [' World']
-Rank 18 | Centroid: ' Constant' | Score: 0.0036
-  Tokens: [' Constant', ' Hard']
-Rank 19 | Centroid: ' Ghost' | Score: 0.0036
-  Tokens: [' Ghost', ' Phantom']
-Rank 20 | Centroid: ' People' | Score: 0.0036
-  Tokens: [' People', ' Human']
-Rank 21 | Centroid: ' King' | Score: 0.0034
-  Tokens: [' King', ' God']
-Rank 22 | Centroid: ' Art' | Score: 0.0016
-  Tokens: [' Art']
-Rank 23 | Centroid: ' Way' | Score: 0.0014
-  Tokens: [' Way']
-Rank 24 | Centroid: ' Sun' | Score: 0.0014
-  Tokens: [' Sun']
+Rank 1 | Centroid: ' B' | Score: 0.0493
+  Tokens: [' A', ' B', ' C', ' D', ' E', ' b', ' The', ' Q', ' S', ' X']
+Rank 2 | Centroid: ' the' | Score: 0.0283
+  Tokens: [' a', ' in', ' not', ' the', ' to', ' as', ' this', ' for', ' no', ' what', ' all', ' one', ' under', ' an', ' now', ' from', ' on', ' which']
+Rank 3 | Centroid: ' incorrect' | Score: 0.0256
+  Tokens: [' correct', ' incorrect', ' Correct', ' wrong']
+Rank 4 | Centroid: ' based' | Score: 0.0095
+  Tokens: [' based', ' according', ' because', ' using', ' Based']
+Rank 5 | Centroid: ' Yes' | Score: 0.0036
+  Tokens: [' yes', ' Yes', ' True', ' true', ' okay', ' sure']
+Rank 6 | Centroid: ' both' | Score: 0.0030
+  Tokens: [' either', ' both', ' only', ' must']
+Rank 7 | Centroid: ' probably' | Score: 0.0022
+  Tokens: [' probably', ' likely', ' definitely', ' possible']
+Rank 8 | Centroid: ' listed' | Score: 0.0018
+  Tokens: [' supposed', ' written', ' expected', ' provided', ' given', ' listed']
+Rank 9 | Centroid: ' standard' | Score: 0.0011
+  Tokens: [' standard', ' Standard']
+Rank 10 | Centroid: ' boxed' | Score: 0.0009
+  Tokens: [' boxed', ' bold', ' box', ' green']
+Rank 11 | Centroid: ' option' | Score: 0.0007
+  Tokens: [' option', ' Option', ' options']
+Rank 12 | Centroid: ' selected' | Score: 0.0004
+  Tokens: [' choice', ' Select', ' selected']
+Rank 13 | Centroid: ' best' | Score: 0.0003
+  Tokens: [' best']
+Rank 14 | Centroid: ' NOT' | Score: 0.0002
+  Tokens: [' NOT']
+Rank 15 | Centroid: ' determined' | Score: 0.0001
+  Tokens: [' determined']
 
 **Chosen Concept:** Rank 1

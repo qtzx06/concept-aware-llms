@@ -10,10 +10,10 @@ dependencies = [
     "scikit-learn>=1.4",
     "numpy>=1.26",
     "nltk>=3.8",
-    "datasets>=2.19",            # For loading benchmark data
-    "sentence-transformers>=2.7", # For semantic similarity scoring
-    "matplotlib>=3.8",           # For plotting concept clusters
-    "pandas>=2.2"                # For saving benchmark results
+    "datasets>=2.19",            # for loading benchmark data
+    "sentence-transformers>=2.7", # for semantic similarity scoring
+    "matplotlib>=3.8",           # for plotting concept clusters
+    "pandas>=2.2"                # for saving benchmark results
 ]
 
 [tool.setuptools]

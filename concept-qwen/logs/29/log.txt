@@ -1,0 +1,138 @@
+--- Step 29 Log ---
+
+== Filtered Candidates ==
+Token: ' This' (ID: 1096), Prob: 0.2344
+Token: ' He' (ID: 1260), Prob: 0.2070
+Token: ' The' (ID: 576), Prob: 0.1826
+Token: ' It' (ID: 1084), Prob: 0.0674
+Token: ' What' (ID: 3555), Prob: 0.0232
+Token: ' His' (ID: 5301), Prob: 0.0205
+Token: ' A' (ID: 362), Prob: 0.0193
+Token: ' Was' (ID: 14804), Prob: 0.0193
+Token: ' For' (ID: 1752), Prob: 0.0160
+Token: ' As' (ID: 1634), Prob: 0.0080
+Token: ' Then' (ID: 5005), Prob: 0.0075
+Token: ' That' (ID: 2938), Prob: 0.0071
+Token: ' Something' (ID: 24656), Prob: 0.0067
+Token: ' Could' (ID: 16503), Prob: 0.0059
+Token: ' No' (ID: 2308), Prob: 0.0052
+Token: ' There' (ID: 2619), Prob: 0.0052
+Token: ' Not' (ID: 2806), Prob: 0.0040
+Token: ' In' (ID: 758), Prob: 0.0031
+Token: ' But' (ID: 1988), Prob: 0.0028
+Token: ' Before' (ID: 13235), Prob: 0.0019
+Token: ' With' (ID: 3085), Prob: 0.0012
+Token: ' When' (ID: 3197), Prob: 0.0011
+Token: ' Without' (ID: 17147), Prob: 0.0010
+Token: ' At' (ID: 2411), Prob: 0.0010
+Token: ' Over' (ID: 6065), Prob: 0.0008
+Token: ' Had' (ID: 23864), Prob: 0.0008
+Token: ' Though' (ID: 17594), Prob: 0.0007
+Token: ' How' (ID: 2585), Prob: 0.0007
+Token: ' Even' (ID: 7418), Prob: 0.0007
+Token: ' Just' (ID: 4599), Prob: 0.0006
+Token: ' Beyond' (ID: 30786), Prob: 0.0006
+Token: ' Across' (ID: 57137), Prob: 0.0006
+Token: ' Despite' (ID: 17715), Prob: 0.0005
+Token: ' Time' (ID: 4120), Prob: 0.0005
+Token: ' Outside' (ID: 41151), Prob: 0.0005
+Token: ' And' (ID: 1597), Prob: 0.0005
+Token: ' From' (ID: 5542), Prob: 0.0005
+Token: ' Behind' (ID: 42374), Prob: 0.0005
+Token: ' Every' (ID: 7209), Prob: 0.0005
+Token: ' On' (ID: 1913), Prob: 0.0004
+Token: ' After' (ID: 4636), Prob: 0.0004
+Token: ' One' (ID: 3776), Prob: 0.0003
+Token: ' Never' (ID: 14695), Prob: 0.0003
+Token: ' Around' (ID: 32816), Prob: 0.0003
+Token: ' If' (ID: 1416), Prob: 0.0003
+Token: ' Why' (ID: 8429), Prob: 0.0003
+Token: ' Suddenly' (ID: 57701), Prob: 0.0002
+Token: ' All' (ID: 2009), Prob: 0.0002
+Token: ' To' (ID: 2014), Prob: 0.0002
+Token: ' Nothing' (ID: 12064), Prob: 0.0002
+Token: ' Only' (ID: 8278), Prob: 0.0002
+Token: ' Who' (ID: 10479), Prob: 0.0002
+Token: ' Inside' (ID: 27368), Prob: 0.0002
+Token: ' Did' (ID: 14568), Prob: 0.0002
+Token: ' Years' (ID: 22315), Prob: 0.0002
+Token: ' They' (ID: 2379), Prob: 0.0002
+Token: ' Such' (ID: 15132), Prob: 0.0002
+Token: ' Whatever' (ID: 32639), Prob: 0.0001
+Token: ' Out' (ID: 4371), Prob: 0.0001
+Token: ' An' (ID: 1527), Prob: 0.0001
+Token: ' Three' (ID: 14513), Prob: 0.0001
+Token: ' Everything' (ID: 20094), Prob: 0.0001
+Token: ' Against' (ID: 29141), Prob: 0.0001
+Token: ' Where' (ID: 10967), Prob: 0.0001
+Token: ' Slow' (ID: 38147), Prob: 0.0001
+Token: ' Som' (ID: 17564), Prob: 0.0001
+Token: ' Within' (ID: 24236), Prob: 0.0001
+Token: ' Between' (ID: 27133), Prob: 0.0001
+Token: ' Minutes' (ID: 40999), Prob: 0.0001
+Token: ' You' (ID: 1446), Prob: 0.0001
+Token: ' Another' (ID: 13293), Prob: 0.0001
+Token: ' Below' (ID: 21193), Prob: 0.0001
+Token: ' I' (ID: 358), Prob: 0.0001
+Token: ' Someone' (ID: 34172), Prob: 0.0001
+Token: ' Two' (ID: 9043), Prob: 0.0001
+Token: ' Above' (ID: 43610), Prob: 0.0001
+Token: ' Through' (ID: 16904), Prob: 0.0001
+Token: ' Neither' (ID: 24233), Prob: 0.0001
+Token: ' Recognition' (ID: 47598), Prob: 0.0001
+Token: ' Surely' (ID: 64188), Prob: 0.0001
+Token: ' So' (ID: 2055), Prob: 0.0001
+Token: ' Inst' (ID: 5984), Prob: 0.0001
+Token: ' Yet' (ID: 14626), Prob: 0.0001
+Token: ' Perhaps' (ID: 18765), Prob: 0.0001
+Token: ' Later' (ID: 24885), Prob: 0.0001
+Token: ' Unlike' (ID: 26048), Prob: 0.0001
+Token: ' Fear' (ID: 41967), Prob: 0.0001
+Token: ' Shadows' (ID: 66449), Prob: 0.0001
+Token: ' Moments' (ID: 82021), Prob: 0.0001
+
+== Ranked Concepts (Clusters) ==
+Rank 1 | Centroid: ' This' | Score: 0.5039
+  Tokens: [' This', ' The', ' It', ' Then', ' That', ' There', ' When', ' If', ' They', ' You']
+Rank 2 | Centroid: ' He' | Score: 0.2275
+  Tokens: [' He', ' His']
+Rank 3 | Centroid: ' For' | Score: 0.0498
+  Tokens: [' A', ' For', ' As', ' In', ' With', ' At', ' From', ' On', ' To', ' An', ' I']
+Rank 4 | Centroid: ' Was' | Score: 0.0261
+  Tokens: [' Was', ' Could', ' Had', ' Did']
+Rank 5 | Centroid: ' What' | Score: 0.0245
+  Tokens: [' What', ' How', ' Why', ' Who', ' Where']
+Rank 6 | Centroid: ' Not' | Score: 0.0100
+  Tokens: [' No', ' Not', ' Just', ' All']
+Rank 7 | Centroid: ' Something' | Score: 0.0068
+  Tokens: [' Something', ' Another', ' Someone']
+Rank 8 | Centroid: ' But' | Score: 0.0033
+  Tokens: [' But', ' And', ' So']
+Rank 9 | Centroid: ' Before' | Score: 0.0023
+  Tokens: [' Before', ' After']
+Rank 10 | Centroid: ' Between' | Score: 0.0022
+  Tokens: [' Without', ' Across', ' Around', ' Against', ' Between', ' Through']
+Rank 11 | Centroid: ' Despite' | Score: 0.0020
+  Tokens: [' Though', ' Even', ' Despite', ' Unlike']
+Rank 12 | Centroid: ' Inside' | Score: 0.0019
+  Tokens: [' Beyond', ' Outside', ' Behind', ' Inside', ' Within']
+Rank 13 | Centroid: ' Only' | Score: 0.0010
+  Tokens: [' Every', ' Never', ' Only', ' Neither']
+Rank 14 | Centroid: ' Over' | Score: 0.0010
+  Tokens: [' Over', ' Out']
+Rank 15 | Centroid: ' Minutes' | Score: 0.0009
+  Tokens: [' Time', ' Years', ' Minutes', ' Inst', ' Moments']
+Rank 16 | Centroid: ' Everything' | Score: 0.0005
+  Tokens: [' Nothing', ' Whatever', ' Everything']
+Rank 17 | Centroid: ' Two' | Score: 0.0005
+  Tokens: [' One', ' Three', ' Two']
+Rank 18 | Centroid: ' Fear' | Score: 0.0004
+  Tokens: [' Suddenly', ' Recognition', ' Fear', ' Shadows']
+Rank 19 | Centroid: ' Perhaps' | Score: 0.0003
+  Tokens: [' Such', ' Surely', ' Yet', ' Perhaps']
+Rank 20 | Centroid: ' Below' | Score: 0.0002
+  Tokens: [' Below', ' Above', ' Later']
+Rank 21 | Centroid: ' Slow' | Score: 0.0002
+  Tokens: [' Slow', ' Som']
+
+**Chosen Concept:** Rank 1

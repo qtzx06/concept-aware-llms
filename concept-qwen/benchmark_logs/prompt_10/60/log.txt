@@ -1,0 +1,147 @@
+--- Step 60 Log ---
+
+== Filtered Candidates ==
+Token: ' paragraph' (ID: 14311), Prob: 0.9531
+Token: ' sentence' (ID: 11652), Prob: 0.0254
+Token: ' response' (ID: 2033), Prob: 0.0044
+Token: ' block' (ID: 2504), Prob: 0.0024
+Token: ' continuous' (ID: 19259), Prob: 0.0024
+Token: ' answer' (ID: 4226), Prob: 0.0021
+Token: ' line' (ID: 1555), Prob: 0.0015
+Token: ' text' (ID: 1467), Prob: 0.0014
+Token: ' string' (ID: 914), Prob: 0.0006
+Token: ' JSON' (ID: 4718), Prob: 0.0004
+Token: ' natural' (ID: 5810), Prob: 0.0002
+Token: ' coherent' (ID: 55787), Prob: 0.0002
+Token: ' paragraphs' (ID: 42643), Prob: 0.0002
+Token: ' uninterrupted' (ID: 98150), Prob: 0.0001
+Token: ' or' (ID: 476), Prob: 0.0001
+Token: ' statement' (ID: 5114), Prob: 0.0001
+Token: ' English' (ID: 6364), Prob: 0.0001
+Token: ' piece' (ID: 6573), Prob: 0.0001
+Token: ' un' (ID: 650), Prob: 0.0001
+Token: ' markdown' (ID: 50494), Prob: 0.0001
+Token: ' long' (ID: 1293), Prob: 0.0001
+Token: ' narrative' (ID: 19221), Prob: 0.0001
+Token: ' complete' (ID: 4583), Prob: 0.0001
+Token: ' phrase' (ID: 17133), Prob: 0.0001
+Token: ' Paragraph' (ID: 49351), Prob: 0.0001
+Token: ' entity' (ID: 5387), Prob: 0.0001
+Token: ' par' (ID: 1346), Prob: 0.0001
+Token: ' space' (ID: 3550), Prob: 0.0000
+Token: ' passage' (ID: 21085), Prob: 0.0000
+Token: ' SQL' (ID: 7870), Prob: 0.0000
+Token: ' concise' (ID: 63594), Prob: 0.0000
+Token: ' well' (ID: 1632), Prob: 0.0000
+Token: ' HTML' (ID: 9308), Prob: 0.0000
+Token: ' final' (ID: 1590), Prob: 0.0000
+Token: ' boxed' (ID: 73664), Prob: 0.0000
+Token: ' integer' (ID: 7546), Prob: 0.0000
+Token: ' sentences' (ID: 22870), Prob: 0.0000
+Token: ' contiguous' (ID: 66503), Prob: 0.0000
+Token: ' list' (ID: 1140), Prob: 0.0000
+Token: ' maximum' (ID: 7192), Prob: 0.0000
+Token: ' plain' (ID: 14396), Prob: 0.0000
+Token: ' continuation' (ID: 41171), Prob: 0.0000
+Token: ' unordered' (ID: 55733), Prob: 0.0000
+Token: ' numbered' (ID: 48826), Prob: 0.0000
+Token: ' correct' (ID: 4396), Prob: 0.0000
+Token: ' input' (ID: 1946), Prob: 0.0000
+Token: '-line' (ID: 8447), Prob: 0.0000
+Token: ' story' (ID: 3364), Prob: 0.0000
+Token: ' quotation' (ID: 54231), Prob: 0.0000
+Token: ' para' (ID: 3348), Prob: 0.0000
+Token: ' reply' (ID: 9851), Prob: 0.0000
+Token: ' user' (ID: 1196), Prob: 0.0000
+Token: ' mon' (ID: 1615), Prob: 0.0000
+Token: ' query' (ID: 3239), Prob: 0.0000
+Token: ' box' (ID: 3745), Prob: 0.0000
+Token: ' standalone' (ID: 43388), Prob: 0.0000
+Token: ' short' (ID: 2805), Prob: 0.0000
+Token: ' formatted' (ID: 23126), Prob: 0.0000
+Token: ' and' (ID: 323), Prob: 0.0000
+Token: ' unified' (ID: 42690), Prob: 0.0000
+Token: ' question' (ID: 3405), Prob: 0.0000
+Token: ' essay' (ID: 8895), Prob: 0.0000
+Token: ' message' (ID: 1943), Prob: 0.0000
+Token: ' contin' (ID: 1976), Prob: 0.0000
+Token: ' raw' (ID: 7112), Prob: 0.0000
+Token: ' segment' (ID: 10238), Prob: 0.0000
+Token: ' slide' (ID: 14983), Prob: 0.0000
+Token: ' full' (ID: 2480), Prob: 0.0000
+Token: ' source' (ID: 2530), Prob: 0.0000
+Token: ' prose' (ID: 60701), Prob: 0.0000
+Token: '-answer' (ID: 95777), Prob: 0.0000
+Token: ' one' (ID: 825), Prob: 0.0000
+Token: ' example' (ID: 3110), Prob: 0.0000
+Token: ' word' (ID: 3409), Prob: 0.0000
+Token: ' Answer' (ID: 21806), Prob: 0.0000
+Token: ' original' (ID: 4024), Prob: 0.0000
+Token: ' URL' (ID: 5548), Prob: 0.0000
+Token: ' straight' (ID: 7678), Prob: 0.0000
+Token: ' integrated' (ID: 18250), Prob: 0.0000
+Token: ' section' (ID: 3772), Prob: 0.0000
+Token: ' sequence' (ID: 8500), Prob: 0.0000
+Token: ' plaintext' (ID: 60847), Prob: 0.0000
+Token: ' value' (ID: 897), Prob: 0.0000
+Token: ' summary' (ID: 12126), Prob: 0.0000
+Token: ' step' (ID: 3019), Prob: 0.0000
+Token: ' respond' (ID: 5889), Prob: 0.0000
+Token: ' quote' (ID: 12641), Prob: 0.0000
+Token: ' enclosed' (ID: 43810), Prob: 0.0000
+Token: ' flow' (ID: 6396), Prob: 0.0000
+Token: ' document' (ID: 2197), Prob: 0.0000
+
+== Ranked Concepts (Clusters) ==
+Rank 1 | Centroid: ' paragraph' | Score: 0.9531
+  Tokens: [' paragraph', ' paragraphs', ' Paragraph', ' passage']
+Rank 2 | Centroid: ' sentence' | Score: 0.0258
+  Tokens: [' sentence', ' statement', ' narrative', ' phrase', ' sentences', ' story', ' essay', ' word']
+Rank 3 | Centroid: ' answer' | Score: 0.0066
+  Tokens: [' response', ' answer', ' reply', '-answer', ' Answer', ' respond']
+Rank 4 | Centroid: ' continuous' | Score: 0.0027
+  Tokens: [' continuous', ' coherent', ' uninterrupted', ' contiguous', ' continuation', ' contin']
+Rank 5 | Centroid: ' section' | Score: 0.0025
+  Tokens: [' block', ' piece', ' segment', ' section', ' step']
+Rank 6 | Centroid: ' text' | Score: 0.0020
+  Tokens: [' text', ' string']
+Rank 7 | Centroid: ' line' | Score: 0.0016
+  Tokens: [' line', '-line', ' straight']
+Rank 8 | Centroid: ' HTML' | Score: 0.0006
+  Tokens: [' JSON', ' English', ' SQL', ' HTML', ' URL']
+Rank 9 | Centroid: ' and' | Score: 0.0004
+  Tokens: [' or', ' un', ' complete', ' maximum', ' correct', ' mon', ' and', ' full', ' one']
+Rank 10 | Centroid: ' raw' | Score: 0.0003
+  Tokens: [' natural', ' final', ' plain', ' raw', ' original']
+Rank 11 | Centroid: ' long' | Score: 0.0001
+  Tokens: [' long', ' well', ' short']
+Rank 12 | Centroid: ' unified' | Score: 0.0001
+  Tokens: [' unordered', ' numbered', ' standalone', ' formatted', ' unified', ' integrated', ' enclosed']
+Rank 13 | Centroid: ' markdown' | Score: 0.0001
+  Tokens: [' markdown', ' plaintext']
+Rank 14 | Centroid: ' par' | Score: 0.0001
+  Tokens: [' par', ' para']
+Rank 15 | Centroid: ' entity' | Score: 0.0001
+  Tokens: [' entity', ' document']
+Rank 16 | Centroid: ' space' | Score: 0.0001
+  Tokens: [' space', ' flow']
+Rank 17 | Centroid: ' concise' | Score: 0.0001
+  Tokens: [' concise', ' prose']
+Rank 18 | Centroid: ' user' | Score: 0.0001
+  Tokens: [' input', ' user', ' source', ' value']
+Rank 19 | Centroid: ' query' | Score: 0.0001
+  Tokens: [' query', ' question', ' message', ' example']
+Rank 20 | Centroid: ' boxed' | Score: 0.0000
+  Tokens: [' boxed', ' box']
+Rank 21 | Centroid: ' integer' | Score: 0.0000
+  Tokens: [' integer']
+Rank 22 | Centroid: ' quotation' | Score: 0.0000
+  Tokens: [' quotation', ' quote']
+Rank 23 | Centroid: ' list' | Score: 0.0000
+  Tokens: [' list']
+Rank 24 | Centroid: ' slide' | Score: 0.0000
+  Tokens: [' slide', ' sequence']
+Rank 25 | Centroid: ' summary' | Score: 0.0000
+  Tokens: [' summary']
+
+**Chosen Concept:** Rank 1

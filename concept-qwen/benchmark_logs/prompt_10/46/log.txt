@@ -1,0 +1,151 @@
+--- Step 46 Log ---
+
+== Filtered Candidates ==
+Token: ' question' (ID: 3405), Prob: 0.8711
+Token: ' following' (ID: 2701), Prob: 0.0557
+Token: ' query' (ID: 3239), Prob: 0.0205
+Token: ' instruction' (ID: 7600), Prob: 0.0181
+Token: ' prompt' (ID: 9934), Prob: 0.0075
+Token: ' questions' (ID: 4755), Prob: 0.0052
+Token: ' response' (ID: 2033), Prob: 0.0046
+Token: ' given' (ID: 2661), Prob: 0.0036
+Token: ' instructions' (ID: 11221), Prob: 0.0019
+Token: ' paragraph' (ID: 14311), Prob: 0.0019
+Token: ' Question' (ID: 15846), Prob: 0.0017
+Token: ' problem' (ID: 3491), Prob: 0.0009
+Token: ' request' (ID: 1681), Prob: 0.0005
+Token: ' main' (ID: 1887), Prob: 0.0005
+Token: ' above' (ID: 3403), Prob: 0.0004
+Token: ' Query' (ID: 11361), Prob: 0.0002
+Token: ' task' (ID: 3383), Prob: 0.0002
+Token: ' user' (ID: 1196), Prob: 0.0002
+Token: ' statement' (ID: 5114), Prob: 0.0002
+Token: ' Instruction' (ID: 29051), Prob: 0.0001
+Token: ' same' (ID: 1852), Prob: 0.0001
+Token: ' quiz' (ID: 27124), Prob: 0.0001
+Token: ' requested' (ID: 11223), Prob: 0.0001
+Token: ' provided' (ID: 3897), Prob: 0.0001
+Token: ' Inquiry' (ID: 65702), Prob: 0.0001
+Token: ' correct' (ID: 4396), Prob: 0.0001
+Token: ' most' (ID: 1429), Prob: 0.0001
+Token: ' truth' (ID: 8046), Prob: 0.0001
+Token: ' topic' (ID: 8544), Prob: 0.0001
+Token: ' opening' (ID: 8568), Prob: 0.0001
+Token: ' input' (ID: 1946), Prob: 0.0001
+Token: ' sentence' (ID: 11652), Prob: 0.0001
+Token: ' text' (ID: 1467), Prob: 0.0001
+Token: ' questionnaire' (ID: 47864), Prob: 0.0000
+Token: ' first' (ID: 1156), Prob: 0.0000
+Token: ' role' (ID: 3476), Prob: 0.0000
+Token: ' key' (ID: 1376), Prob: 0.0000
+Token: ' answer' (ID: 4226), Prob: 0.0000
+Token: ' maximum' (ID: 7192), Prob: 0.0000
+Token: ' guide' (ID: 8474), Prob: 0.0000
+Token: ' In' (ID: 758), Prob: 0.0000
+Token: ' objective' (ID: 16538), Prob: 0.0000
+Token: ' general' (ID: 4586), Prob: 0.0000
+Token: ' discussion' (ID: 10219), Prob: 0.0000
+Token: ' three' (ID: 2326), Prob: 0.0000
+Token: ' summary' (ID: 12126), Prob: 0.0000
+Token: ' order' (ID: 1973), Prob: 0.0000
+Token: ' challenge' (ID: 8645), Prob: 0.0000
+Token: ' below' (ID: 3685), Prob: 0.0000
+Token: ' Following' (ID: 22713), Prob: 0.0000
+Token: ' follow' (ID: 1795), Prob: 0.0000
+Token: ' review' (ID: 3395), Prob: 0.0000
+Token: ' specified' (ID: 5189), Prob: 0.0000
+Token: ' Response' (ID: 5949), Prob: 0.0000
+Token: ' Paragraph' (ID: 49351), Prob: 0.0000
+Token: ' prompts' (ID: 50932), Prob: 0.0000
+Token: ' second' (ID: 2086), Prob: 0.0000
+Token: ' full' (ID: 2480), Prob: 0.0000
+Token: ' multiple' (ID: 5248), Prob: 0.0000
+Token: ' exercise' (ID: 10158), Prob: 0.0000
+Token: ' inquiry' (ID: 25893), Prob: 0.0000
+Token: ' current' (ID: 1482), Prob: 0.0000
+Token: ' conversation' (ID: 10435), Prob: 0.0000
+Token: ' Request' (ID: 6145), Prob: 0.0000
+Token: ' best' (ID: 1850), Prob: 0.0000
+Token: ' entire' (ID: 4453), Prob: 0.0000
+Token: ' criteria' (ID: 12890), Prob: 0.0000
+Token: ' Given' (ID: 16246), Prob: 0.0000
+Token: ' passage' (ID: 21085), Prob: 0.0000
+Token: ' Questions' (ID: 23382), Prob: 0.0000
+Token: ' primary' (ID: 6028), Prob: 0.0000
+Token: ' introduction' (ID: 16800), Prob: 0.0000
+Token: ' in' (ID: 304), Prob: 0.0000
+Token: ' title' (ID: 2265), Prob: 0.0000
+Token: ' four' (ID: 3040), Prob: 0.0000
+Token: ' basic' (ID: 6770), Prob: 0.0000
+Token: ' reasoning' (ID: 32711), Prob: 0.0000
+Token: ' shortest' (ID: 39143), Prob: 0.0000
+Token: ' two' (ID: 1378), Prob: 0.0000
+Token: ' short' (ID: 2805), Prob: 0.0000
+Token: ' initial' (ID: 2856), Prob: 0.0000
+Token: ' L' (ID: 444), Prob: 0.0000
+Token: ' Q' (ID: 1207), Prob: 0.0000
+Token: ' final' (ID: 1590), Prob: 0.0000
+Token: ' top' (ID: 1909), Prob: 0.0000
+Token: ' quest' (ID: 2222), Prob: 0.0000
+Token: ' five' (ID: 4236), Prob: 0.0000
+Token: 'Question' (ID: 14582), Prob: 0.0000
+Token: ' lesson' (ID: 17755), Prob: 0.0000
+Token: ' assistant' (ID: 17847), Prob: 0.0000
+Token: ' queries' (ID: 19556), Prob: 0.0000
+Token: ' Prompt' (ID: 59501), Prob: 0.0000
+Token: ' exact' (ID: 4734), Prob: 0.0000
+Token: ' the' (ID: 279), Prob: 0.0000
+Token: ' test' (ID: 1273), Prob: 0.0000
+Token: ' next' (ID: 1790), Prob: 0.0000
+Token: ' IN' (ID: 1964), Prob: 0.0000
+Token: ' rest' (ID: 2732), Prob: 0.0000
+
+== Ranked Concepts (Clusters) ==
+Rank 1 | Centroid: ' questions' | Score: 0.8789
+  Tokens: [' question', ' questions', ' Question', ' quiz', ' questionnaire', ' Questions', ' quest', 'Question']
+Rank 2 | Centroid: ' following' | Score: 0.0562
+  Tokens: [' following', ' above', ' below', ' Following', ' follow']
+Rank 3 | Centroid: ' query' | Score: 0.0209
+  Tokens: [' query', ' Query', ' Inquiry', ' inquiry', ' queries']
+Rank 4 | Centroid: ' instruction' | Score: 0.0201
+  Tokens: [' instruction', ' instructions', ' Instruction', ' guide', ' assistant']
+Rank 5 | Centroid: ' prompt' | Score: 0.0076
+  Tokens: [' prompt', ' prompts', ' Prompt']
+Rank 6 | Centroid: ' response' | Score: 0.0046
+  Tokens: [' response', ' answer', ' Response']
+Rank 7 | Centroid: ' given' | Score: 0.0037
+  Tokens: [' given', ' provided', ' specified', ' Given']
+Rank 8 | Centroid: ' paragraph' | Score: 0.0023
+  Tokens: [' paragraph', ' statement', ' sentence', ' discussion', ' summary', ' review', ' Paragraph', ' conversation', ' passage', ' introduction', ' reasoning']
+Rank 9 | Centroid: ' task' | Score: 0.0012
+  Tokens: [' problem', ' task', ' topic', ' challenge']
+Rank 10 | Centroid: ' the' | Score: 0.0007
+  Tokens: [' main', ' key', ' In', ' general', ' current', ' primary', ' in', ' basic', ' initial', ' L', ' final', ' top', ' the', ' test', ' IN']
+Rank 11 | Centroid: ' request' | Score: 0.0006
+  Tokens: [' request', ' requested', ' Request']
+Rank 12 | Centroid: ' second' | Score: 0.0003
+  Tokens: [' same', ' correct', ' first', ' second', ' full', ' entire', ' exact', ' next', ' rest']
+Rank 13 | Centroid: ' user' | Score: 0.0002
+  Tokens: [' user', ' input']
+Rank 14 | Centroid: ' shortest' | Score: 0.0002
+  Tokens: [' most', ' maximum', ' best', ' shortest', ' short']
+Rank 15 | Centroid: ' title' | Score: 0.0001
+  Tokens: [' text', ' role', ' title']
+Rank 16 | Centroid: ' three' | Score: 0.0001
+  Tokens: [' three', ' multiple', ' four', ' two', ' five']
+Rank 17 | Centroid: ' truth' | Score: 0.0001
+  Tokens: [' truth']
+Rank 18 | Centroid: ' opening' | Score: 0.0001
+  Tokens: [' opening']
+Rank 19 | Centroid: ' objective' | Score: 0.0000
+  Tokens: [' objective']
+Rank 20 | Centroid: ' exercise' | Score: 0.0000
+  Tokens: [' exercise', ' lesson']
+Rank 21 | Centroid: ' order' | Score: 0.0000
+  Tokens: [' order']
+Rank 22 | Centroid: ' criteria' | Score: 0.0000
+  Tokens: [' criteria']
+Rank 23 | Centroid: ' Q' | Score: 0.0000
+  Tokens: [' Q']
+
+**Chosen Concept:** Rank 1

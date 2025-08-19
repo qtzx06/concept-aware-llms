@@ -1,94 +1,148 @@
 --- Step 2 Log ---
 
 == Filtered Candidates ==
-Token: 'oul' (ID: 10965), Prob: 1.0000
-Token: 'ould' (ID: 616), Prob: 0.0000
-Token: 'oud' (ID: 2950), Prob: 0.0000
-Token: 'oub' (ID: 5482), Prob: 0.0000
-Token: 'oun' (ID: 1624), Prob: 0.0000
-Token: 'ohl' (ID: 39337), Prob: 0.0000
-Token: 'oucher' (ID: 23937), Prob: 0.0000
-Token: 'ous' (ID: 782), Prob: 0.0000
-Token: 'aul' (ID: 4943), Prob: 0.0000
-Token: 'ouch' (ID: 3026), Prob: 0.0000
-Token: 'uel' (ID: 4000), Prob: 0.0000
-Token: 'ellow' (ID: 5299), Prob: 0.0000
-Token: 'oll' (ID: 965), Prob: 0.0000
-Token: 'rou' (ID: 581), Prob: 0.0000
-Token: 'urt' (ID: 5639), Prob: 0.0000
-Token: 'ough' (ID: 1384), Prob: 0.0000
-Token: 'owl' (ID: 9605), Prob: 0.0000
-Token: 'oup' (ID: 13346), Prob: 0.0000
-Token: 'olo' (ID: 10011), Prob: 0.0000
-Token: 'outs' (ID: 11672), Prob: 0.0000
-Token: 'ola' (ID: 7924), Prob: 0.0000
-Token: 'loor' (ID: 3993), Prob: 0.0000
-Token: 'rought' (ID: 6344), Prob: 0.0000
-Token: '1' (ID: 16), Prob: 0.0000
-Token: '2' (ID: 17), Prob: 0.0000
-Token: ' and' (ID: 323), Prob: 0.0000
-Token: 'ole' (ID: 1263), Prob: 0.0000
-Token: 'outh' (ID: 2898), Prob: 0.0000
-Token: 'outil' (ID: 30158), Prob: 0.0000
-Token: 'ournemouth' (ID: 96979), Prob: 0.0000
-Token: 'oc' (ID: 509), Prob: 0.0000
-Token: 'url' (ID: 1085), Prob: 0.0000
-Token: 'ours' (ID: 2471), Prob: 0.0000
-Token: 'ounded' (ID: 13082), Prob: 0.0000
-Token: 'olk' (ID: 22604), Prob: 0.0000
-Token: 'olar' (ID: 7417), Prob: 0.0000
-Token: 'él' (ID: 18503), Prob: 0.0000
-Token: 'ocl' (ID: 61768), Prob: 0.0000
-Token: 'rel' (ID: 3748), Prob: 0.0000
-Token: ' ou' (ID: 5908), Prob: 0.0000
-Token: 'enth' (ID: 20684), Prob: 0.0000
-Token: ' in' (ID: 304), Prob: 0.0000
-Token: 'oly' (ID: 5730), Prob: 0.0000
-Token: 'outer' (ID: 2676), Prob: 0.0000
-Token: 'ount' (ID: 629), Prob: 0.0000
-Token: ' a' (ID: 264), Prob: 0.0000
-Token: 'oreal' (ID: 89768), Prob: 0.0000
-Token: ' is' (ID: 374), Prob: 0.0000
-Token: 'ourn' (ID: 3431), Prob: 0.0000
-Token: 'uh' (ID: 12540), Prob: 0.0000
-Token: 'occ' (ID: 13983), Prob: 0.0000
-Token: '0' (ID: 15), Prob: 0.0000
-Token: 'ou' (ID: 283), Prob: 0.0000
+Token: ' answer' (ID: 4226), Prob: 0.2793
+Token: ' birth' (ID: 7194), Prob: 0.1914
+Token: ' correct' (ID: 4396), Prob: 0.1689
+Token: ' response' (ID: 2033), Prob: 0.0801
+Token: ' person' (ID: 1697), Prob: 0.0483
+Token: ' user' (ID: 1196), Prob: 0.0276
+Token: ' date' (ID: 2400), Prob: 0.0276
+Token: ' year' (ID: 1042), Prob: 0.0259
+Token: ' information' (ID: 1995), Prob: 0.0178
+Token: ' statement' (ID: 5114), Prob: 0.0070
+Token: ' most' (ID: 1429), Prob: 0.0066
+Token: ' man' (ID: 883), Prob: 0.0051
+Token: ' age' (ID: 4231), Prob: 0.0035
+Token: ' given' (ID: 2661), Prob: 0.0031
+Token: ' Tom' (ID: 8364), Prob: 0.0023
+Token: ' passage' (ID: 21085), Prob: 0.0023
+Token: ' question' (ID: 3405), Prob: 0.0021
+Token: ' son' (ID: 4438), Prob: 0.0021
+Token: ' time' (ID: 882), Prob: 0.0020
+Token: ' student' (ID: 5458), Prob: 0.0019
+Token: ' Japanese' (ID: 10769), Prob: 0.0017
+Token: ' best' (ID: 1850), Prob: 0.0016
+Token: ' following' (ID: 2701), Prob: 0.0016
+Token: ' only' (ID: 1172), Prob: 0.0015
+Token: ' number' (ID: 1372), Prob: 0.0014
+Token: ' final' (ID: 1590), Prob: 0.0014
+Token: ' born' (ID: 9223), Prob: 0.0014
+Token: ' player' (ID: 2781), Prob: 0.0012
+Token: ' boy' (ID: 8171), Prob: 0.0012
+Token: ' main' (ID: 1887), Prob: 0.0011
+Token: ' dates' (ID: 12713), Prob: 0.0011
+Token: ' first' (ID: 1156), Prob: 0.0010
+Token: ' current' (ID: 1482), Prob: 0.0010
+Token: ' athlete' (ID: 33780), Prob: 0.0010
+Token: ' country' (ID: 3146), Prob: 0.0009
+Token: ' average' (ID: 5461), Prob: 0.0009
+Token: ' event' (ID: 1538), Prob: 0.0008
+Token: ' context' (ID: 2266), Prob: 0.0007
+Token: ' United' (ID: 3639), Prob: 0.0007
+Token: ' population' (ID: 7042), Prob: 0.0007
+Token: ' last' (ID: 1537), Prob: 0.0006
+Token: ' course' (ID: 3308), Prob: 0.0006
+Token: ' location' (ID: 3728), Prob: 0.0006
+Token: ' provided' (ID: 3897), Prob: 0.0006
+Token: ' name' (ID: 829), Prob: 0.0006
+Token: ' assistant' (ID: 17847), Prob: 0.0006
+Token: ' individual' (ID: 3842), Prob: 0.0005
+Token: ' fact' (ID: 2097), Prob: 0.0005
+Token: ' company' (ID: 2813), Prob: 0.0005
+Token: ' death' (ID: 4545), Prob: 0.0005
+Token: ' organization' (ID: 7321), Prob: 0.0005
+Token: ' child' (ID: 1682), Prob: 0.0004
+Token: ' group' (ID: 1874), Prob: 0.0004
+Token: ' period' (ID: 4168), Prob: 0.0004
+Token: ' club' (ID: 6335), Prob: 0.0004
+Token: ' birthday' (ID: 15198), Prob: 0.0004
+Token: ' earliest' (ID: 29658), Prob: 0.0004
+Token: ' team' (ID: 2083), Prob: 0.0004
+Token: ' position' (ID: 2309), Prob: 0.0004
+Token: ' sum' (ID: 2629), Prob: 0.0004
+Token: ' above' (ID: 3403), Prob: 0.0004
+Token: ' term' (ID: 4647), Prob: 0.0004
+Token: ' sentence' (ID: 11652), Prob: 0.0004
+Token: ' timeline' (ID: 24808), Prob: 0.0004
+Token: ' Birth' (ID: 35027), Prob: 0.0004
+Token: ' J' (ID: 619), Prob: 0.0004
+Token: ' text' (ID: 1467), Prob: 0.0004
+Token: ' father' (ID: 6981), Prob: 0.0004
+Token: ' two' (ID: 1378), Prob: 0.0004
+Token: ' article' (ID: 4549), Prob: 0.0004
+Token: ' history' (ID: 3840), Prob: 0.0003
+Token: ' football' (ID: 8964), Prob: 0.0003
+Token: ' brother' (ID: 10641), Prob: 0.0003
+Token: ' years' (ID: 1635), Prob: 0.0003
+Token: ' competition' (ID: 10707), Prob: 0.0003
+Token: ' website' (ID: 3910), Prob: 0.0003
+Token: ' list' (ID: 1140), Prob: 0.0003
+Token: ' woman' (ID: 5220), Prob: 0.0003
+Token: ' movie' (ID: 5700), Prob: 0.0003
+Token: ' original' (ID: 4024), Prob: 0.0003
+Token: ' general' (ID: 4586), Prob: 0.0003
+Token: ' right' (ID: 1290), Prob: 0.0003
+Token: ' incorrect' (ID: 15114), Prob: 0.0003
+Token: ' founder' (ID: 18996), Prob: 0.0003
+Token: ' people' (ID: 1251), Prob: 0.0002
+Token: ' key' (ID: 1376), Prob: 0.0002
+Token: ' film' (ID: 4531), Prob: 0.0002
+Token: ' latest' (ID: 5535), Prob: 0.0002
+Token: ' beginning' (ID: 7167), Prob: 0.0002
+Token: ' appropriate' (ID: 8311), Prob: 0.0002
+Token: ' baby' (ID: 8770), Prob: 0.0002
+Token: ' artist' (ID: 10049), Prob: 0.0002
+Token: ' month' (ID: 2254), Prob: 0.0002
+Token: ' four' (ID: 3040), Prob: 0.0002
+Token: ' community' (ID: 3942), Prob: 0.0002
+Token: ' Japan' (ID: 6323), Prob: 0.0002
+Token: ' summer' (ID: 7324), Prob: 0.0002
 
 == Ranked Concepts (Clusters) ==
-Rank 1 | Centroid: 'ou' | Score: 1.0000
-  Tokens: ['oul', 'oup', ' ou', 'ou']
-Rank 2 | Centroid: 'oun' | Score: 0.0000
-  Tokens: ['ould', 'oud', 'oun', 'ounded', 'ount']
-Rank 3 | Centroid: 'ous' | Score: 0.0000
-  Tokens: ['oub', 'ous', 'rou', 'ough']
-Rank 4 | Centroid: 'oucher' | Score: 0.0000
-  Tokens: ['oucher', 'ouch']
-Rank 5 | Centroid: 'ohl' | Score: 0.0000
-  Tokens: ['ohl', 'uh']
-Rank 6 | Centroid: 'aul' | Score: 0.0000
-  Tokens: ['aul', 'owl']
-Rank 7 | Centroid: 'olar' | Score: 0.0000
-  Tokens: ['oll', 'olo', 'ola', 'ole', 'olk', 'olar', 'oly']
-Rank 8 | Centroid: 'ellow' | Score: 0.0000
-  Tokens: ['ellow', 'él']
-Rank 9 | Centroid: 'uel' | Score: 0.0000
-  Tokens: ['uel']
-Rank 10 | Centroid: '1' | Score: 0.0000
-  Tokens: ['1', '2', ' and', ' in', ' a', ' is', '0']
-Rank 11 | Centroid: 'outs' | Score: 0.0000
-  Tokens: ['outs', 'outh', 'outil', 'outer']
-Rank 12 | Centroid: 'url' | Score: 0.0000
-  Tokens: ['urt', 'url', 'rel']
-Rank 13 | Centroid: 'rought' | Score: 0.0000
-  Tokens: ['rought', 'enth', 'oreal']
-Rank 14 | Centroid: 'oc' | Score: 0.0000
-  Tokens: ['oc', 'ocl', 'occ']
-Rank 15 | Centroid: 'loor' | Score: 0.0000
-  Tokens: ['loor']
-Rank 16 | Centroid: 'ours' | Score: 0.0000
-  Tokens: ['ours', 'ourn']
-Rank 17 | Centroid: 'ournemouth' | Score: 0.0000
-  Tokens: ['ournemouth']
+Rank 1 | Centroid: ' sentence' | Score: 0.3711
+  Tokens: [' answer', ' response', ' statement', ' question', ' fact', ' term', ' sentence', ' text']
+Rank 2 | Centroid: ' birth' | Score: 0.1943
+  Tokens: [' birth', ' born', ' death', ' birthday', ' Birth', ' baby']
+Rank 3 | Centroid: ' correct' | Score: 0.1699
+  Tokens: [' correct', ' right', ' incorrect', ' appropriate']
+Rank 4 | Centroid: ' person' | Score: 0.0767
+  Tokens: [' person', ' user', ' individual', ' people']
+Rank 5 | Centroid: ' dates' | Score: 0.0295
+  Tokens: [' date', ' dates', ' timeline', ' history']
+Rank 6 | Centroid: ' year' | Score: 0.0271
+  Tokens: [' year', ' period', ' years', ' month', ' summer']
+Rank 7 | Centroid: ' location' | Score: 0.0195
+  Tokens: [' information', ' context', ' location', ' position']
+Rank 8 | Centroid: ' last' | Score: 0.0148
+  Tokens: [' most', ' best', ' only', ' final', ' main', ' first', ' current', ' last']
+Rank 9 | Centroid: ' boy' | Score: 0.0099
+  Tokens: [' man', ' son', ' boy', ' child', ' father', ' brother', ' woman']
+Rank 10 | Centroid: ' provided' | Score: 0.0062
+  Tokens: [' given', ' following', ' provided', ' above', ' original', ' beginning']
+Rank 11 | Centroid: ' Japan' | Score: 0.0062
+  Tokens: [' Tom', ' Japanese', ' country', ' United', ' J', ' Japan']
+Rank 12 | Centroid: ' age' | Score: 0.0055
+  Tokens: [' age', ' time']
+Rank 13 | Centroid: ' athlete' | Score: 0.0049
+  Tokens: [' student', ' player', ' athlete', ' assistant', ' artist']
+Rank 14 | Centroid: ' name' | Score: 0.0029
+  Tokens: [' number', ' name', ' sum', ' list', ' key']
+Rank 15 | Centroid: ' movie' | Score: 0.0024
+  Tokens: [' event', ' course', ' article', ' movie', ' film']
+Rank 16 | Centroid: ' passage' | Score: 0.0023
+  Tokens: [' passage']
+Rank 17 | Centroid: ' community' | Score: 0.0018
+  Tokens: [' population', ' group', ' team', ' community']
+Rank 18 | Centroid: ' company' | Score: 0.0016
+  Tokens: [' company', ' organization', ' competition', ' website']
+Rank 19 | Centroid: ' average' | Score: 0.0012
+  Tokens: [' average', ' general']
+Rank 20 | Centroid: ' football' | Score: 0.0010
+  Tokens: [' club', ' football', ' founder']
+Rank 21 | Centroid: ' earliest' | Score: 0.0007
+  Tokens: [' earliest', ' latest']
+Rank 22 | Centroid: ' two' | Score: 0.0006
+  Tokens: [' two', ' four']
 
 **Chosen Concept:** Rank 1

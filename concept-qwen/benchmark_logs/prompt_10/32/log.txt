@@ -1,136 +1,145 @@
 --- Step 32 Log ---
 
 == Filtered Candidates ==
-Token: ' poet' (ID: 39260), Prob: 0.6836
-Token: ' poets' (ID: 72972), Prob: 0.0723
-Token: ' famous' (ID: 11245), Prob: 0.0635
-Token: ' monk' (ID: 62672), Prob: 0.0339
-Token: ' great' (ID: 2244), Prob: 0.0300
-Token: ' Tang' (ID: 40362), Prob: 0.0300
-Token: ' Buddhist' (ID: 46741), Prob: 0.0110
-Token: ' two' (ID: 1378), Prob: 0.0067
-Token: ' painter' (ID: 29481), Prob: 0.0052
-Token: ' Chinese' (ID: 8453), Prob: 0.0041
-Token: ' later' (ID: 2937), Prob: 0.0036
-Token: ' famed' (ID: 60303), Prob: 0.0025
-Token: ' renowned' (ID: 35948), Prob: 0.0022
-Token: ' prominent' (ID: 20469), Prob: 0.0019
-Token: ' writer' (ID: 6916), Prob: 0.0017
-Token: ' Song' (ID: 18971), Prob: 0.0017
-Token: ' philosopher' (ID: 54375), Prob: 0.0015
-Token: ' court' (ID: 5473), Prob: 0.0013
-Token: ' writers' (ID: 16093), Prob: 0.0013
-Token: ' scholar' (ID: 18145), Prob: 0.0013
-Token: ' poetry' (ID: 31249), Prob: 0.0012
-Token: ' literary' (ID: 31365), Prob: 0.0010
-Token: ' X' (ID: 1599), Prob: 0.0009
-Token: ' minister' (ID: 12725), Prob: 0.0009
-Token: ' emperor' (ID: 56783), Prob: 0.0009
-Token: ' w' (ID: 289), Prob: 0.0007
-Token: ' Han' (ID: 20644), Prob: 0.0006
-Token: ' celebrated' (ID: 27185), Prob: 0.0006
-Token: ' Emperor' (ID: 34314), Prob: 0.0006
-Token: ' W' (ID: 467), Prob: 0.0005
-Token: ' states' (ID: 5302), Prob: 0.0005
-Token: ' scholars' (ID: 30739), Prob: 0.0005
-Token: ' military' (ID: 6277), Prob: 0.0005
-Token: ' imperial' (ID: 34279), Prob: 0.0005
-Token: ' eminent' (ID: 83529), Prob: 0.0005
-Token: ' influential' (ID: 31449), Prob: 0.0004
-Token: ' painters' (ID: 96853), Prob: 0.0004
-Token: ' D' (ID: 422), Prob: 0.0004
-Token: ' call' (ID: 1618), Prob: 0.0004
-Token: ' mathematic' (ID: 20976), Prob: 0.0004
-Token: ' S' (ID: 328), Prob: 0.0003
-Token: ' then' (ID: 1221), Prob: 0.0003
-Token: ' high' (ID: 1550), Prob: 0.0003
-Token: ' Du' (ID: 15687), Prob: 0.0003
-Token: ' poem' (ID: 32794), Prob: 0.0003
-Token: ' em' (ID: 976), Prob: 0.0003
-Token: ' liter' (ID: 6935), Prob: 0.0003
-Token: ' Po' (ID: 13808), Prob: 0.0003
-Token: ' late' (ID: 3309), Prob: 0.0003
-Token: ' noted' (ID: 10342), Prob: 0.0003
-Token: ' legendary' (ID: 27712), Prob: 0.0003
-Token: ' ministers' (ID: 33950), Prob: 0.0003
-Token: ' composer' (ID: 39450), Prob: 0.0003
-Token: ' dynasty' (ID: 66846), Prob: 0.0003
-Token: ' three' (ID: 2326), Prob: 0.0002
-Token: ' important' (ID: 2989), Prob: 0.0002
-Token: ' official' (ID: 3946), Prob: 0.0002
-Token: ' officials' (ID: 7359), Prob: 0.0002
-Token: ' sage' (ID: 38261), Prob: 0.0002
-Token: ' musician' (ID: 38744), Prob: 0.0002
-Token: ' recl' (ID: 47420), Prob: 0.0002
-Token: ' Persian' (ID: 49861), Prob: 0.0002
-Token: ' e' (ID: 384), Prob: 0.0002
-Token: ' N' (ID: 451), Prob: 0.0002
-Token: ' well' (ID: 1632), Prob: 0.0002
-Token: ' outstanding' (ID: 18781), Prob: 0.0002
-Token: ' first' (ID: 1156), Prob: 0.0002
-Token: ' young' (ID: 3908), Prob: 0.0002
-Token: ' early' (ID: 4124), Prob: 0.0002
-Token: ' Minister' (ID: 9486), Prob: 0.0002
-Token: ' historical' (ID: 13656), Prob: 0.0002
-Token: ' Prince' (ID: 19351), Prob: 0.0002
-Token: ' physician' (ID: 27279), Prob: 0.0002
-Token: ' Mong' (ID: 43439), Prob: 0.0002
-Token: ' poems' (ID: 44219), Prob: 0.0002
-Token: ' Wei' (ID: 52448), Prob: 0.0002
-Token: ' more' (ID: 803), Prob: 0.0002
-Token: ' most' (ID: 1429), Prob: 0.0002
-Token: ' general' (ID: 4586), Prob: 0.0002
-Token: ' Japanese' (ID: 10769), Prob: 0.0002
-Token: ' politician' (ID: 35938), Prob: 0.0002
-Token: ' historian' (ID: 42968), Prob: 0.0002
-Token: ' palace' (ID: 43339), Prob: 0.0002
-Token: ' philosophers' (ID: 60687), Prob: 0.0001
-Token: ' chancellor' (ID: 76175), Prob: 0.0001
-Token: ' following' (ID: 2701), Prob: 0.0001
-Token: ' Li' (ID: 14511), Prob: 0.0001
-Token: ' monks' (ID: 65377), Prob: 0.0001
-Token: ' brothers' (ID: 20208), Prob: 0.0001
-Token: ' four' (ID: 3040), Prob: 0.0001
-Token: ' author' (ID: 3150), Prob: 0.0001
-Token: ' Grand' (ID: 10304), Prob: 0.0001
-Token: ' prose' (ID: 60701), Prob: 0.0001
-Token: ' J' (ID: 619), Prob: 0.0001
-Token: ' An' (ID: 1527), Prob: 0.0001
-Token: ' political' (ID: 4948), Prob: 0.0001
-Token: ' Jin' (ID: 38511), Prob: 0.0001
+Token: ' his' (ID: 806), Prob: 0.5625
+Token: ' and' (ID: 323), Prob: 0.0859
+Token: ' the' (ID: 279), Prob: 0.0591
+Token: ' field' (ID: 2070), Prob: 0.0317
+Token: ' profession' (ID: 4808), Prob: 0.0170
+Token: ' how' (ID: 1246), Prob: 0.0132
+Token: ' as' (ID: 438), Prob: 0.0117
+Token: ' contributions' (ID: 19026), Prob: 0.0117
+Token: ' birth' (ID: 7194), Prob: 0.0091
+Token: ' nationality' (ID: 58243), Prob: 0.0080
+Token: ' what' (ID: 1128), Prob: 0.0071
+Token: ' major' (ID: 3598), Prob: 0.0071
+Token: ' place' (ID: 1992), Prob: 0.0062
+Token: ' professional' (ID: 6584), Prob: 0.0055
+Token: ' work' (ID: 975), Prob: 0.0049
+Token: ' area' (ID: 3082), Prob: 0.0049
+Token: ' role' (ID: 3476), Prob: 0.0049
+Token: ' education' (ID: 6731), Prob: 0.0049
+Token: ' career' (ID: 6931), Prob: 0.0046
+Token: ' notable' (ID: 27190), Prob: 0.0046
+Token: ' achievements' (ID: 32897), Prob: 0.0046
+Token: ' years' (ID: 1635), Prob: 0.0040
+Token: ' location' (ID: 3728), Prob: 0.0036
+Token: ' occupation' (ID: 29647), Prob: 0.0036
+Token: ' a' (ID: 264), Prob: 0.0033
+Token: ' invention' (ID: 27130), Prob: 0.0033
+Token: ' first' (ID: 1156), Prob: 0.0029
+Token: ' date' (ID: 2400), Prob: 0.0029
+Token: ' age' (ID: 4231), Prob: 0.0029
+Token: ' country' (ID: 3146), Prob: 0.0026
+Token: ' position' (ID: 2309), Prob: 0.0024
+Token: ' professions' (ID: 68692), Prob: 0.0024
+Token: ' which' (ID: 892), Prob: 0.0023
+Token: ' key' (ID: 1376), Prob: 0.0023
+Token: ' main' (ID: 1887), Prob: 0.0023
+Token: ' primary' (ID: 6028), Prob: 0.0023
+Token: ' an' (ID: 458), Prob: 0.0022
+Token: ' fields' (ID: 5043), Prob: 0.0022
+Token: ' awards' (ID: 22344), Prob: 0.0020
+Token: ' qualifications' (ID: 42684), Prob: 0.0020
+Token: ' but' (ID: 714), Prob: 0.0019
+Token: ' areas' (ID: 5671), Prob: 0.0019
+Token: ' where' (ID: 1380), Prob: 0.0016
+Token: ' title' (ID: 2265), Prob: 0.0014
+Token: ' employment' (ID: 14402), Prob: 0.0014
+Token: ' contribution' (ID: 18527), Prob: 0.0013
+Token: ' full' (ID: 2480), Prob: 0.0012
+Token: ' early' (ID: 4124), Prob: 0.0012
+Token: ' educational' (ID: 16229), Prob: 0.0012
+Token: ' number' (ID: 1372), Prob: 0.0011
+Token: ' inventions' (ID: 84049), Prob: 0.0010
+Token: ' military' (ID: 6277), Prob: 0.0010
+Token: ' mention' (ID: 6286), Prob: 0.0010
+Token: ' most' (ID: 1429), Prob: 0.0009
+Token: ' era' (ID: 11385), Prob: 0.0009
+Token: ' prominence' (ID: 70099), Prob: 0.0009
+Token: ' background' (ID: 4004), Prob: 0.0008
+Token: ' that' (ID: 429), Prob: 0.0008
+Token: ' being' (ID: 1660), Prob: 0.0008
+Token: ' invent' (ID: 17023), Prob: 0.0008
+Token: ' citizenship' (ID: 32679), Prob: 0.0008
+Token: ' family' (ID: 2997), Prob: 0.0007
+Token: ' places' (ID: 7482), Prob: 0.0007
+Token: ' in' (ID: 304), Prob: 0.0007
+Token: ' skills' (ID: 7361), Prob: 0.0007
+Token: ' expertise' (ID: 18726), Prob: 0.0007
+Token: ' achievement' (ID: 25426), Prob: 0.0007
+Token: ' he' (ID: 566), Prob: 0.0006
+Token: ' patent' (ID: 24571), Prob: 0.0006
+Token: ' accomplishments' (ID: 52781), Prob: 0.0006
+Token: ' dates' (ID: 12713), Prob: 0.0006
+Token: ' patents' (ID: 45897), Prob: 0.0006
+Token: ' significant' (ID: 5089), Prob: 0.0005
+Token: ' was' (ID: 572), Prob: 0.0005
+Token: ' then' (ID: 1221), Prob: 0.0005
+Token: ' designation' (ID: 42751), Prob: 0.0005
+Token: ' time' (ID: 882), Prob: 0.0005
+Token: ' year' (ID: 1042), Prob: 0.0005
+Token: ' primarily' (ID: 15503), Prob: 0.0005
+Token: ' any' (ID: 894), Prob: 0.0005
+Token: ' when' (ID: 979), Prob: 0.0005
+Token: ' some' (ID: 1045), Prob: 0.0005
+Token: ' important' (ID: 2989), Prob: 0.0005
+Token: ' starting' (ID: 5916), Prob: 0.0005
+Token: ' who' (ID: 879), Prob: 0.0004
+Token: ' job' (ID: 2618), Prob: 0.0004
+Token: ' category' (ID: 5582), Prob: 0.0004
+Token: ' rank' (ID: 7077), Prob: 0.0004
+Token: ' titles' (ID: 15311), Prob: 0.0004
+Token: ' affiliation' (ID: 52791), Prob: 0.0004
+Token: ' all' (ID: 678), Prob: 0.0004
+Token: ' also' (ID: 1083), Prob: 0.0004
+Token: ' original' (ID: 4024), Prob: 0.0004
+Token: ' name' (ID: 829), Prob: 0.0004
+Token: ' both' (ID: 2176), Prob: 0.0004
+Token: ' initial' (ID: 2856), Prob: 0.0004
+Token: ' works' (ID: 4278), Prob: 0.0004
+Token: ' one' (ID: 825), Prob: 0.0004
+Token: ' other' (ID: 1008), Prob: 0.0004
+Token: ' period' (ID: 4168), Prob: 0.0004
 
 == Ranked Concepts (Clusters) ==
-Rank 1 | Centroid: ' poems' | Score: 0.7578
-  Tokens: [' poet', ' poets', ' poetry', ' poem', ' Po', ' poems']
-Rank 2 | Centroid: ' renowned' | Score: 0.1025
-  Tokens: [' famous', ' great', ' famed', ' renowned', ' prominent', ' celebrated', ' eminent', ' influential', ' noted', ' legendary', ' outstanding']
-Rank 3 | Centroid: ' monks' | Score: 0.0454
-  Tokens: [' monk', ' Buddhist', ' sage', ' monks']
-Rank 4 | Centroid: ' Chinese' | Score: 0.0378
-  Tokens: [' Tang', ' Chinese', ' Song', ' Han', ' Du', ' Persian', ' Mong', ' Wei', ' Japanese', ' Li', ' Jin']
-Rank 5 | Centroid: ' writer' | Score: 0.0096
-  Tokens: [' painter', ' writer', ' writers', ' painters', ' composer', ' musician', ' physician', ' politician', ' author']
-Rank 6 | Centroid: ' three' | Score: 0.0071
-  Tokens: [' two', ' three', ' four']
-Rank 7 | Centroid: ' W' | Score: 0.0063
-  Tokens: [' X', ' w', ' W', ' states', ' D', ' call', ' S', ' then', ' high', ' important', ' e', ' N', ' well', ' first', ' more', ' most', ' general', ' following', ' J', ' An']
-Rank 8 | Centroid: ' late' | Score: 0.0042
-  Tokens: [' later', ' late', ' young', ' early']
-Rank 9 | Centroid: ' philosopher' | Score: 0.0041
-  Tokens: [' philosopher', ' scholar', ' scholars', ' mathematic', ' historian', ' philosophers']
-Rank 10 | Centroid: ' emperor' | Score: 0.0026
-  Tokens: [' emperor', ' Emperor', ' imperial', ' dynasty', ' Prince', ' palace']
-Rank 11 | Centroid: ' military' | Score: 0.0023
-  Tokens: [' court', ' military', ' official', ' Grand', ' political']
-Rank 12 | Centroid: ' minister' | Score: 0.0017
-  Tokens: [' minister', ' ministers', ' officials', ' Minister', ' chancellor']
-Rank 13 | Centroid: ' literary' | Score: 0.0014
-  Tokens: [' literary', ' liter', ' prose']
-Rank 14 | Centroid: ' recl' | Score: 0.0004
-  Tokens: [' recl', ' historical']
-Rank 15 | Centroid: ' em' | Score: 0.0003
-  Tokens: [' em']
-Rank 16 | Centroid: ' brothers' | Score: 0.0001
-  Tokens: [' brothers']
+Rank 1 | Centroid: ' his' | Score: 0.5625
+  Tokens: [' his', ' he']
+Rank 2 | Centroid: ' the' | Score: 0.1943
+  Tokens: [' and', ' the', ' how', ' as', ' what', ' a', ' which', ' an', ' but', ' where', ' that', ' being', ' in', ' was', ' then', ' any', ' when', ' some', ' who', ' all', ' also', ' both', ' one']
+Rank 3 | Centroid: ' profession' | Score: 0.0425
+  Tokens: [' profession', ' professional', ' education', ' career', ' occupation', ' professions', ' qualifications', ' educational', ' skills', ' expertise']
+Rank 4 | Centroid: ' areas' | Score: 0.0405
+  Tokens: [' field', ' area', ' fields', ' areas']
+Rank 5 | Centroid: ' notable' | Score: 0.0212
+  Tokens: [' major', ' notable', ' key', ' main', ' primary', ' most', ' significant', ' primarily', ' important', ' other']
+Rank 6 | Centroid: ' era' | Score: 0.0138
+  Tokens: [' years', ' date', ' age', ' number', ' era', ' dates', ' time', ' year', ' period']
+Rank 7 | Centroid: ' contributions' | Score: 0.0138
+  Tokens: [' contributions', ' contribution', ' background']
+Rank 8 | Centroid: ' place' | Score: 0.0129
+  Tokens: [' place', ' location', ' position', ' places']
+Rank 9 | Centroid: ' nationality' | Score: 0.0116
+  Tokens: [' nationality', ' mention', ' prominence', ' citizenship', ' designation', ' affiliation']
+Rank 10 | Centroid: ' birth' | Score: 0.0091
+  Tokens: [' birth']
+Rank 11 | Centroid: ' achievements' | Score: 0.0079
+  Tokens: [' achievements', ' awards', ' achievement', ' accomplishments']
+Rank 12 | Centroid: ' work' | Score: 0.0070
+  Tokens: [' work', ' employment', ' job', ' works']
+Rank 13 | Centroid: ' initial' | Score: 0.0066
+  Tokens: [' first', ' full', ' early', ' starting', ' original', ' initial']
+Rank 14 | Centroid: ' inventions' | Score: 0.0063
+  Tokens: [' invention', ' inventions', ' invent', ' patent', ' patents']
+Rank 15 | Centroid: ' role' | Score: 0.0049
+  Tokens: [' role']
+Rank 16 | Centroid: ' country' | Score: 0.0030
+  Tokens: [' country', ' category']
+Rank 17 | Centroid: ' title' | Score: 0.0026
+  Tokens: [' title', ' rank', ' titles', ' name']
+Rank 18 | Centroid: ' military' | Score: 0.0010
+  Tokens: [' military']
+Rank 19 | Centroid: ' family' | Score: 0.0007
+  Tokens: [' family']
 
 **Chosen Concept:** Rank 1

@@ -1,0 +1,131 @@
+--- Step 21 Log ---
+
+== Filtered Candidates ==
+Token: ' Moses' (ID: 40948), Prob: 0.8047
+Token: ' Morse' (ID: 86239), Prob: 0.0620
+Token: ''s' (ID: 594), Prob: 0.0258
+Token: ' M' (ID: 386), Prob: 0.0243
+Token: ' Brow' (ID: 28377), Prob: 0.0228
+Token: ' and' (ID: 323), Prob: 0.0089
+Token: ' B' (ID: 425), Prob: 0.0061
+Token: ' W' (ID: 467), Prob: 0.0015
+Token: '’s' (ID: 748), Prob: 0.0011
+Token: ' Brown' (ID: 10471), Prob: 0.0011
+Token: ' Mason' (ID: 28827), Prob: 0.0008
+Token: ' Smith' (ID: 9082), Prob: 0.0007
+Token: ' the' (ID: 279), Prob: 0.0007
+Token: ' Mend' (ID: 45111), Prob: 0.0006
+Token: ' Bridges' (ID: 76239), Prob: 0.0006
+Token: ' Br' (ID: 3240), Prob: 0.0005
+Token: ' A' (ID: 362), Prob: 0.0005
+Token: ' Martin' (ID: 11565), Prob: 0.0005
+Token: ' Mos' (ID: 12562), Prob: 0.0005
+Token: ' Lewis' (ID: 20607), Prob: 0.0005
+Token: ' C' (ID: 356), Prob: 0.0004
+Token: ' F' (ID: 434), Prob: 0.0004
+Token: ' Bra' (ID: 25453), Prob: 0.0004
+Token: ' Pope' (ID: 29360), Prob: 0.0004
+Token: ' Bose' (ID: 93458), Prob: 0.0004
+Token: ' Mor' (ID: 8446), Prob: 0.0003
+Token: ' D' (ID: 422), Prob: 0.0003
+Token: ' Bow' (ID: 18436), Prob: 0.0003
+Token: ' R' (ID: 431), Prob: 0.0003
+Token: ' Moss' (ID: 43510), Prob: 0.0003
+Token: ' Wiley' (ID: 74802), Prob: 0.0003
+Token: ' in' (ID: 304), Prob: 0.0002
+Token: ' was' (ID: 572), Prob: 0.0002
+Token: ' Bos' (ID: 27971), Prob: 0.0002
+Token: ' Fowler' (ID: 74143), Prob: 0.0002
+Token: ' P' (ID: 393), Prob: 0.0002
+Token: '/M' (ID: 10270), Prob: 0.0002
+Token: ' Adams' (ID: 26234), Prob: 0.0002
+Token: ' J' (ID: 619), Prob: 0.0002
+Token: ' Moore' (ID: 20219), Prob: 0.0002
+Token: ' T' (ID: 350), Prob: 0.0002
+Token: ' H' (ID: 472), Prob: 0.0002
+Token: ' James' (ID: 7801), Prob: 0.0002
+Token: ' Mount' (ID: 10423), Prob: 0.0002
+Token: ' L' (ID: 444), Prob: 0.0002
+Token: ' Dew' (ID: 49300), Prob: 0.0002
+Token: ' John' (ID: 3757), Prob: 0.0002
+Token: ' Mayer' (ID: 73711), Prob: 0.0002
+Token: ' May' (ID: 3217), Prob: 0.0001
+Token: ' William' (ID: 12375), Prob: 0.0001
+Token: ' Roosevelt' (ID: 45942), Prob: 0.0001
+Token: ' Brom' (ID: 64598), Prob: 0.0001
+Token: ' Morton' (ID: 71936), Prob: 0.0001
+Token: ' Manus' (ID: 95333), Prob: 0.0001
+Token: ' S' (ID: 328), Prob: 0.0001
+Token: ' West' (ID: 4312), Prob: 0.0001
+Token: ' Michael' (ID: 7937), Prob: 0.0001
+Token: ' Louis' (ID: 11876), Prob: 0.0001
+Token: ' Charles' (ID: 14927), Prob: 0.0001
+Token: ' Black' (ID: 5235), Prob: 0.0001
+Token: ' Bew' (ID: 37210), Prob: 0.0001
+Token: ' Doe' (ID: 49628), Prob: 0.0001
+Token: '-M' (ID: 5251), Prob: 0.0001
+Token: ' Bro' (ID: 5906), Prob: 0.0001
+Token: ' Porter' (ID: 37937), Prob: 0.0001
+Token: ' E' (ID: 468), Prob: 0.0001
+Token: ' Manning' (ID: 39523), Prob: 0.0001
+Token: ' MOS' (ID: 73074), Prob: 0.0001
+Token: ' Morgan' (ID: 22954), Prob: 0.0001
+Token: ' Mar' (ID: 2876), Prob: 0.0001
+Token: ' August' (ID: 6156), Prob: 0.0001
+Token: ' Henry' (ID: 17599), Prob: 0.0001
+Token: ' Bridge' (ID: 19874), Prob: 0.0001
+Token: ' Alexander' (ID: 20042), Prob: 0.0001
+Token: ' Holmes' (ID: 39301), Prob: 0.0001
+Token: ' Locke' (ID: 81922), Prob: 0.0001
+Token: ' Moff' (ID: 96381), Prob: 0.0001
+Token: ' God' (ID: 4264), Prob: 0.0001
+Token: ' Bor' (ID: 22918), Prob: 0.0001
+Token: ' Mathematics' (ID: 49795), Prob: 0.0001
+Token: ' Mull' (ID: 51527), Prob: 0.0001
+Token: ' from' (ID: 504), Prob: 0.0001
+Token: ' Mont' (ID: 9795), Prob: 0.0001
+Token: ' Jones' (ID: 11935), Prob: 0.0001
+
+== Ranked Concepts (Clusters) ==
+Rank 1 | Centroid: ' Moses' | Score: 0.8047
+  Tokens: [' Moses', ' Mend', ' Moff', ' Mull']
+Rank 2 | Centroid: ' Mason' | Score: 0.0635
+  Tokens: [' Morse', ' Mason', ' Moore', ' Mayer', ' Morton', ' Manning', ' Morgan']
+Rank 3 | Centroid: ''s' | Score: 0.0269
+  Tokens: ["'s", '’s']
+Rank 4 | Centroid: '-M' | Score: 0.0247
+  Tokens: [' M', '/M', '-M']
+Rank 5 | Centroid: ' Bow' | Score: 0.0234
+  Tokens: [' Brow', ' Bow', ' Dew', ' Bew']
+Rank 6 | Centroid: ' F' | Score: 0.0106
+  Tokens: [' B', ' W', ' A', ' C', ' F', ' D', ' R', ' P', ' J', ' T', ' H', ' L', ' S', ' E']
+Rank 7 | Centroid: ' in' | Score: 0.0101
+  Tokens: [' and', ' the', ' in', ' was', ' from']
+Rank 8 | Centroid: ' Bridge' | Score: 0.0018
+  Tokens: [' Bridges', ' Br', ' Bra', ' Brom', ' Bro', ' Bridge']
+Rank 9 | Centroid: ' Smith' | Score: 0.0016
+  Tokens: [' Smith', ' Lewis', ' Adams', ' Holmes', ' Jones']
+Rank 10 | Centroid: ' William' | Score: 0.0016
+  Tokens: [' Martin', ' James', ' John', ' William', ' Michael', ' Louis', ' Charles', ' Henry', ' Alexander']
+Rank 11 | Centroid: ' Mos' | Score: 0.0012
+  Tokens: [' Mos', ' Mor', ' Moss', ' MOS']
+Rank 12 | Centroid: ' Brown' | Score: 0.0012
+  Tokens: [' Brown', ' Black']
+Rank 13 | Centroid: ' Locke' | Score: 0.0007
+  Tokens: [' Fowler', ' Roosevelt', ' Doe', ' Porter', ' Locke']
+Rank 14 | Centroid: ' Bos' | Score: 0.0007
+  Tokens: [' Bose', ' Bos', ' Bor']
+Rank 15 | Centroid: ' Pope' | Score: 0.0005
+  Tokens: [' Pope', ' God']
+Rank 16 | Centroid: ' May' | Score: 0.0003
+  Tokens: [' May', ' Mar', ' August']
+Rank 17 | Centroid: ' Wiley' | Score: 0.0003
+  Tokens: [' Wiley']
+Rank 18 | Centroid: ' Mount' | Score: 0.0003
+  Tokens: [' Mount', ' Mont']
+Rank 19 | Centroid: ' Manus' | Score: 0.0002
+  Tokens: [' Manus', ' Mathematics']
+Rank 20 | Centroid: ' West' | Score: 0.0001
+  Tokens: [' West']
+
+**Chosen Concept:** Rank 1

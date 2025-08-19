@@ -1,0 +1,116 @@
+--- Step 93 Log ---
+
+== Filtered Candidates ==
+Token: ' D' (ID: 422), Prob: 0.9453
+Token: ' A' (ID: 362), Prob: 0.0532
+Token: ' B' (ID: 425), Prob: 0.0018
+Token: ' C' (ID: 356), Prob: 0.0009
+Token: ' E' (ID: 468), Prob: 0.0001
+Token: ' none' (ID: 6857), Prob: 0.0000
+Token: ' ABC' (ID: 19360), Prob: 0.0000
+Token: ' not' (ID: 537), Prob: 0.0000
+Token: ' AB' (ID: 14137), Prob: 0.0000
+Token: ' None' (ID: 2240), Prob: 0.0000
+Token: ' H' (ID: 472), Prob: 0.0000
+Token: ' X' (ID: 1599), Prob: 0.0000
+Token: ' a' (ID: 264), Prob: 0.0000
+Token: ' now' (ID: 1431), Prob: 0.0000
+Token: ' P' (ID: 393), Prob: 0.0000
+Token: ' NOT' (ID: 4183), Prob: 0.0000
+Token: ' G' (ID: 479), Prob: 0.0000
+Token: 'D' (ID: 35), Prob: 0.0000
+Token: ' F' (ID: 434), Prob: 0.0000
+Token: ' M' (ID: 386), Prob: 0.0000
+Token: ' only' (ID: 1172), Prob: 0.0000
+Token: ' R' (ID: 431), Prob: 0.0000
+Token: ' based' (ID: 3118), Prob: 0.0000
+Token: ' S' (ID: 328), Prob: 0.0000
+Token: ' T' (ID: 350), Prob: 0.0000
+Token: ' either' (ID: 2987), Prob: 0.0000
+Token: ' AAA' (ID: 47097), Prob: 0.0000
+Token: ':D' (ID: 63843), Prob: 0.0000
+Token: ' V' (ID: 647), Prob: 0.0000
+Token: ' I' (ID: 358), Prob: 0.0000
+Token: ' DE' (ID: 3385), Prob: 0.0000
+Token: ' O' (ID: 506), Prob: 0.0000
+Token: ' N' (ID: 451), Prob: 0.0000
+Token: ' W' (ID: 467), Prob: 0.0000
+Token: ' incorrect' (ID: 15114), Prob: 0.0000
+Token: ' AD' (ID: 9630), Prob: 0.0000
+Token: ' AC' (ID: 10584), Prob: 0.0000
+Token: ' the' (ID: 279), Prob: 0.0000
+Token: ' L' (ID: 444), Prob: 0.0000
+Token: ' correct' (ID: 4396), Prob: 0.0000
+Token: ' Z' (ID: 1863), Prob: 0.0000
+Token: ' J' (ID: 619), Prob: 0.0000
+Token: ' both' (ID: 2176), Prob: 0.0000
+Token: ' Answer' (ID: 21806), Prob: 0.0000
+Token: ' AA' (ID: 28234), Prob: 0.0000
+Token: ' CD' (ID: 11078), Prob: 0.0000
+Token: ' Y' (ID: 809), Prob: 0.0000
+Token: ' d' (ID: 294), Prob: 0.0000
+Token: ' also' (ID: 1083), Prob: 0.0000
+Token: ' BC' (ID: 18040), Prob: 0.0000
+Token: ' undefined' (ID: 5614), Prob: 0.0000
+Token: ' AE' (ID: 42108), Prob: 0.0000
+Token: ' NULL' (ID: 1770), Prob: 0.0000
+Token: ' neither' (ID: 13866), Prob: 0.0000
+Token: ' BA' (ID: 33489), Prob: 0.0000
+Token: ' BD' (ID: 39310), Prob: 0.0000
+Token: ' no' (ID: 902), Prob: 0.0000
+Token: ' Q' (ID: 1207), Prob: 0.0000
+Token: ' each' (ID: 1817), Prob: 0.0000
+Token: '	D' (ID: 10957), Prob: 0.0000
+Token: ' DD' (ID: 30904), Prob: 0.0000
+Token: ' DC' (ID: 10922), Prob: 0.0000
+Token: '(D' (ID: 5432), Prob: 0.0000
+Token: ' BAD' (ID: 47718), Prob: 0.0000
+Token: ' this' (ID: 419), Prob: 0.0000
+Token: ' in' (ID: 304), Prob: 0.0000
+Token: ' best' (ID: 1850), Prob: 0.0000
+Token: ' any' (ID: 894), Prob: 0.0000
+Token: ':A' (ID: 55648), Prob: 0.0000
+Token: ' there' (ID: 1052), Prob: 0.0000
+Token: ' wrong' (ID: 4969), Prob: 0.0000
+Token: ' invalid' (ID: 8318), Prob: 0.0000
+Token: ' AI' (ID: 15235), Prob: 0.0000
+Token: ' different' (ID: 2155), Prob: 0.0000
+Token: ' all' (ID: 678), Prob: 0.0000
+Token: ' CA' (ID: 9183), Prob: 0.0000
+Token: ' U' (ID: 547), Prob: 0.0000
+Token: ' BE' (ID: 7206), Prob: 0.0000
+Token: ' unknown' (ID: 9788), Prob: 0.0000
+Token: ' DEF' (ID: 23865), Prob: 0.0000
+Token: 'A' (ID: 32), Prob: 0.0000
+
+== Ranked Concepts (Clusters) ==
+Rank 1 | Centroid: ' D' | Score: 0.9453
+  Tokens: [' D', 'D', ':D', ' d', '\tD', '(D']
+Rank 2 | Centroid: ' A' | Score: 0.0532
+  Tokens: [' A', ':A', 'A']
+Rank 3 | Centroid: ' B' | Score: 0.0018
+  Tokens: [' B']
+Rank 4 | Centroid: ' F' | Score: 0.0010
+  Tokens: [' C', ' E', ' H', ' X', ' P', ' G', ' F', ' M', ' R', ' S', ' T', ' V', ' O', ' N', ' W', ' L', ' Z', ' J', ' Y', ' Q', ' U']
+Rank 5 | Centroid: ' AA' | Score: 0.0000
+  Tokens: [' ABC', ' AB', ' AAA', ' AD', ' AC', ' AA', ' AE', ' AI', ' CA']
+Rank 6 | Centroid: ' None' | Score: 0.0000
+  Tokens: [' none', ' None', ' undefined', ' NULL', ' unknown']
+Rank 7 | Centroid: ' not' | Score: 0.0000
+  Tokens: [' not', ' now', ' NOT', ' only', ' also', ' no']
+Rank 8 | Centroid: ' BD' | Score: 0.0000
+  Tokens: [' DE', ' CD', ' BC', ' BA', ' BD', ' DD', ' DC', ' BAD', ' BE', ' DEF']
+Rank 9 | Centroid: ' in' | Score: 0.0000
+  Tokens: [' a', ' I', ' in']
+Rank 10 | Centroid: ' the' | Score: 0.0000
+  Tokens: [' based', ' the', ' each', ' this', ' any', ' there', ' different', ' all']
+Rank 11 | Centroid: ' neither' | Score: 0.0000
+  Tokens: [' either', ' both', ' neither']
+Rank 12 | Centroid: ' incorrect' | Score: 0.0000
+  Tokens: [' incorrect', ' correct', ' wrong', ' invalid']
+Rank 13 | Centroid: ' Answer' | Score: 0.0000
+  Tokens: [' Answer']
+Rank 14 | Centroid: ' best' | Score: 0.0000
+  Tokens: [' best']
+
+**Chosen Concept:** Rank 1

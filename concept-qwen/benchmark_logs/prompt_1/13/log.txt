@@ -1,0 +1,149 @@
+--- Step 13 Log ---
+
+== Filtered Candidates ==
+Token: ' response' (ID: 2033), Prob: 0.3594
+Token: ' sentence' (ID: 11652), Prob: 0.3594
+Token: ' answer' (ID: 4226), Prob: 0.1030
+Token: ' correct' (ID: 4396), Prob: 0.0261
+Token: ' first' (ID: 1156), Prob: 0.0109
+Token: ' word' (ID: 3409), Prob: 0.0109
+Token: ' user' (ID: 1196), Prob: 0.0085
+Token: ' context' (ID: 2266), Prob: 0.0085
+Token: ' original' (ID: 4024), Prob: 0.0070
+Token: ' statement' (ID: 5114), Prob: 0.0062
+Token: ' instruction' (ID: 7600), Prob: 0.0058
+Token: ' use' (ID: 990), Prob: 0.0055
+Token: ' phrase' (ID: 17133), Prob: 0.0038
+Token: ' question' (ID: 3405), Prob: 0.0031
+Token: ' final' (ID: 1590), Prob: 0.0021
+Token: ' information' (ID: 1995), Prob: 0.0021
+Token: ' airline' (ID: 32475), Prob: 0.0020
+Token: ' sentences' (ID: 22870), Prob: 0.0019
+Token: ' only' (ID: 1172), Prob: 0.0017
+Token: ' number' (ID: 1372), Prob: 0.0017
+Token: ' current' (ID: 1482), Prob: 0.0017
+Token: ' format' (ID: 3561), Prob: 0.0017
+Token: ' main' (ID: 1887), Prob: 0.0016
+Token: ' language' (ID: 4128), Prob: 0.0015
+Token: ' second' (ID: 2086), Prob: 0.0014
+Token: ' company' (ID: 2813), Prob: 0.0014
+Token: ' example' (ID: 3110), Prob: 0.0014
+Token: ' key' (ID: 1376), Prob: 0.0013
+Token: ' last' (ID: 1537), Prob: 0.0012
+Token: ' assistant' (ID: 17847), Prob: 0.0011
+Token: ' content' (ID: 2213), Prob: 0.0010
+Token: ' following' (ID: 2701), Prob: 0.0010
+Token: ' time' (ID: 882), Prob: 0.0009
+Token: ' form' (ID: 1352), Prob: 0.0008
+Token: ' text' (ID: 1467), Prob: 0.0008
+Token: ' Australian' (ID: 13369), Prob: 0.0007
+Token: ' structure' (ID: 5944), Prob: 0.0007
+Token: ' given' (ID: 2661), Prob: 0.0007
+Token: ' words' (ID: 4244), Prob: 0.0006
+Token: ' industry' (ID: 4958), Prob: 0.0006
+Token: ' wording' (ID: 60227), Prob: 0.0006
+Token: ' same' (ID: 1852), Prob: 0.0006
+Token: ' provided' (ID: 3897), Prob: 0.0006
+Token: ' instructions' (ID: 11221), Prob: 0.0006
+Token: ' prompt' (ID: 9934), Prob: 0.0005
+Token: ' best' (ID: 1850), Prob: 0.0004
+Token: ' date' (ID: 2400), Prob: 0.0004
+Token: ' initial' (ID: 2856), Prob: 0.0004
+Token: ' name' (ID: 829), Prob: 0.0004
+Token: ' bullet' (ID: 17432), Prob: 0.0004
+Token: ' previous' (ID: 3681), Prob: 0.0004
+Token: ' options' (ID: 2606), Prob: 0.0003
+Token: ' subject' (ID: 3832), Prob: 0.0003
+Token: ' term' (ID: 4647), Prob: 0.0003
+Token: ' two' (ID: 1378), Prob: 0.0003
+Token: ' task' (ID: 3383), Prob: 0.0003
+Token: ' Response' (ID: 5949), Prob: 0.0003
+Token: ' most' (ID: 1429), Prob: 0.0003
+Token: ' line' (ID: 1555), Prob: 0.0003
+Token: ' title' (ID: 2265), Prob: 0.0003
+Token: ' actual' (ID: 5042), Prob: 0.0003
+Token: ' opening' (ID: 8568), Prob: 0.0003
+Token: ' quote' (ID: 12641), Prob: 0.0003
+Token: ' choice' (ID: 5754), Prob: 0.0002
+Token: ' maximum' (ID: 7192), Prob: 0.0002
+Token: ' closing' (ID: 15316), Prob: 0.0002
+Token: ' business' (ID: 2562), Prob: 0.0002
+Token: ' rest' (ID: 2732), Prob: 0.0002
+Token: ' length' (ID: 3084), Prob: 0.0002
+Token: ' output' (ID: 2550), Prob: 0.0002
+Token: ' responses' (ID: 14507), Prob: 0.0002
+Token: ' keyword' (ID: 16174), Prob: 0.0002
+Token: ' message' (ID: 1943), Prob: 0.0002
+Token: ' order' (ID: 1973), Prob: 0.0002
+Token: ' short' (ID: 2805), Prob: 0.0002
+Token: ' topic' (ID: 8544), Prob: 0.0002
+Token: ' reply' (ID: 9851), Prob: 0.0002
+Token: ' flight' (ID: 10971), Prob: 0.0002
+Token: ' incorrect' (ID: 15114), Prob: 0.0002
+Token: ' blank' (ID: 10113), Prob: 0.0002
+Token: ' bird' (ID: 11958), Prob: 0.0002
+Token: ' one' (ID: 825), Prob: 0.0002
+Token: ' source' (ID: 2530), Prob: 0.0002
+Token: ' exact' (ID: 4734), Prob: 0.0002
+Token: ' paragraph' (ID: 14311), Prob: 0.0002
+Token: ' responding' (ID: 29338), Prob: 0.0002
+Token: ' price' (ID: 3349), Prob: 0.0002
+Token: ' shortest' (ID: 39143), Prob: 0.0002
+Token: ' Sentence' (ID: 79542), Prob: 0.0002
+Token: ' US' (ID: 2274), Prob: 0.0002
+Token: ' government' (ID: 3033), Prob: 0.0002
+Token: ' period' (ID: 4168), Prob: 0.0002
+Token: ' UK' (ID: 6424), Prob: 0.0002
+Token: ' verb' (ID: 18607), Prob: 0.0002
+Token: ' country' (ID: 3146), Prob: 0.0001
+Token: ' space' (ID: 3550), Prob: 0.0001
+Token: ' student' (ID: 5458), Prob: 0.0001
+Token: ' organisation' (ID: 21424), Prob: 0.0001
+Token: ' syll' (ID: 47604), Prob: 0.0001
+Token: ' required' (ID: 2567), Prob: 0.0001
+
+== Ranked Concepts (Clusters) ==
+Rank 1 | Centroid: ' response' | Score: 0.4629
+  Tokens: [' response', ' answer', ' Response', ' responses', ' reply', ' responding']
+Rank 2 | Centroid: ' sentence' | Score: 0.3672
+  Tokens: [' sentence', ' statement', ' sentences', ' quote', ' paragraph', ' Sentence']
+Rank 3 | Centroid: ' correct' | Score: 0.0267
+  Tokens: [' correct', ' actual', ' incorrect', ' exact']
+Rank 4 | Centroid: ' initial' | Score: 0.0254
+  Tokens: [' first', ' original', ' final', ' current', ' second', ' last', ' initial', ' previous', ' rest']
+Rank 5 | Centroid: ' words' | Score: 0.0178
+  Tokens: [' word', ' phrase', ' language', ' words', ' wording', ' keyword', ' verb', ' syll']
+Rank 6 | Centroid: ' format' | Score: 0.0118
+  Tokens: [' context', ' format', ' form', ' structure', ' order']
+Rank 7 | Centroid: ' two' | Score: 0.0105
+  Tokens: [' use', ' only', ' main', ' key', ' two', ' one']
+Rank 8 | Centroid: ' instructions' | Score: 0.0093
+  Tokens: [' instruction', ' information', ' instructions', ' prompt', ' options']
+Rank 9 | Centroid: ' user' | Score: 0.0086
+  Tokens: [' user', ' student']
+Rank 10 | Centroid: ' airline' | Score: 0.0061
+  Tokens: [' airline', ' company', ' Australian', ' industry', ' business', ' flight', ' bird', ' US', ' government', ' UK', ' country', ' organisation']
+Rank 11 | Centroid: ' topic' | Score: 0.0054
+  Tokens: [' question', ' example', ' subject', ' task', ' topic']
+Rank 12 | Centroid: ' time' | Score: 0.0037
+  Tokens: [' number', ' time', ' date', ' source', ' price', ' period', ' space']
+Rank 13 | Centroid: ' provided' | Score: 0.0030
+  Tokens: [' following', ' given', ' same', ' provided', ' required']
+Rank 14 | Centroid: ' text' | Score: 0.0025
+  Tokens: [' content', ' text', ' name', ' line']
+Rank 15 | Centroid: ' shortest' | Score: 0.0016
+  Tokens: [' best', ' most', ' maximum', ' length', ' short', ' shortest']
+Rank 16 | Centroid: ' assistant' | Score: 0.0015
+  Tokens: [' assistant', ' bullet']
+Rank 17 | Centroid: ' term' | Score: 0.0006
+  Tokens: [' term', ' title']
+Rank 18 | Centroid: ' opening' | Score: 0.0005
+  Tokens: [' opening', ' closing']
+Rank 19 | Centroid: ' choice' | Score: 0.0004
+  Tokens: [' choice', ' message']
+Rank 20 | Centroid: ' output' | Score: 0.0002
+  Tokens: [' output']
+Rank 21 | Centroid: ' blank' | Score: 0.0002
+  Tokens: [' blank']
+
+**Chosen Concept:** Rank 1

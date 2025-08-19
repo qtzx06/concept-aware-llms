@@ -1,0 +1,139 @@
+--- Step 59 Log ---
+
+== Filtered Candidates ==
+Token: ' single' (ID: 3175), Prob: 0.4746
+Token: ' paragraph' (ID: 14311), Prob: 0.4199
+Token: ' sentence' (ID: 11652), Prob: 0.0304
+Token: ' text' (ID: 1467), Prob: 0.0143
+Token: ' block' (ID: 2504), Prob: 0.0087
+Token: ' JSON' (ID: 4718), Prob: 0.0072
+Token: ' string' (ID: 914), Prob: 0.0056
+Token: ' final' (ID: 1590), Prob: 0.0032
+Token: ' markdown' (ID: 50494), Prob: 0.0021
+Token: ' complete' (ID: 4583), Prob: 0.0019
+Token: ' list' (ID: 1140), Prob: 0.0018
+Token: ' natural' (ID: 5810), Prob: 0.0015
+Token: ' response' (ID: 2033), Prob: 0.0013
+Token: ' plain' (ID: 14396), Prob: 0.0013
+Token: ' well' (ID: 1632), Prob: 0.0012
+Token: ' concise' (ID: 63594), Prob: 0.0010
+Token: ' full' (ID: 2480), Prob: 0.0009
+Token: ' continuous' (ID: 19259), Prob: 0.0009
+Token: ' simple' (ID: 4285), Prob: 0.0009
+Token: ' short' (ID: 2805), Prob: 0.0008
+Token: ' coherent' (ID: 55787), Prob: 0.0008
+Token: ' free' (ID: 1910), Prob: 0.0006
+Token: ' straight' (ID: 7678), Prob: 0.0005
+Token: ' one' (ID: 825), Prob: 0.0004
+Token: ' prose' (ID: 60701), Prob: 0.0004
+Token: ' proper' (ID: 6169), Prob: 0.0004
+Token: ' whole' (ID: 4361), Prob: 0.0003
+Token: ' numbered' (ID: 48826), Prob: 0.0003
+Token: ' long' (ID: 1293), Prob: 0.0003
+Token: ' two' (ID: 1378), Prob: 0.0003
+Token: ' three' (ID: 2326), Prob: 0.0002
+Token: ' question' (ID: 3405), Prob: 0.0002
+Token: ' space' (ID: 3550), Prob: 0.0002
+Token: ' bold' (ID: 13939), Prob: 0.0002
+Token: ' Paragraph' (ID: 49351), Prob: 0.0002
+Token: ' series' (ID: 4013), Prob: 0.0002
+Token: ' sequence' (ID: 8500), Prob: 0.0002
+Token: ' summary' (ID: 12126), Prob: 0.0002
+Token: ' code' (ID: 2038), Prob: 0.0002
+Token: ' correct' (ID: 4396), Prob: 0.0002
+Token: ' paragraphs' (ID: 42643), Prob: 0.0002
+Token: ' standalone' (ID: 43388), Prob: 0.0002
+Token: ' title' (ID: 2265), Prob: 0.0002
+Token: ' specific' (ID: 3151), Prob: 0.0002
+Token: ' clear' (ID: 2797), Prob: 0.0002
+Token: ' formatted' (ID: 23126), Prob: 0.0002
+Token: ' first' (ID: 1156), Prob: 0.0001
+Token: ' four' (ID: 3040), Prob: 0.0001
+Token: ' Microsoft' (ID: 5100), Prob: 0.0001
+Token: ' separate' (ID: 8651), Prob: 0.0001
+Token: ' line' (ID: 1555), Prob: 0.0001
+Token: ' Single' (ID: 11327), Prob: 0.0001
+Token: ' raw' (ID: 7112), Prob: 0.0001
+Token: ' number' (ID: 1372), Prob: 0.0001
+Token: ' plaintext' (ID: 60847), Prob: 0.0001
+Token: ' para' (ID: 3348), Prob: 0.0001
+Token: ' narrative' (ID: 19221), Prob: 0.0001
+Token: ' box' (ID: 3745), Prob: 0.0001
+Token: ' bullet' (ID: 17432), Prob: 0.0001
+Token: ' passage' (ID: 21085), Prob: 0.0001
+Token: ' new' (ID: 501), Prob: 0.0001
+Token: ' direct' (ID: 2118), Prob: 0.0001
+Token: ' multiple' (ID: 5248), Prob: 0.0001
+Token: ' written' (ID: 5326), Prob: 0.0001
+Token: ' slide' (ID: 14983), Prob: 0.0001
+Token: ' textual' (ID: 62533), Prob: 0.0001
+Token: ' String' (ID: 923), Prob: 0.0001
+Token: ' singular' (ID: 33944), Prob: 0.0001
+Token: ' few' (ID: 2421), Prob: 0.0001
+Token: ' prompt' (ID: 9934), Prob: 0.0001
+Token: ' Markdown' (ID: 73192), Prob: 0.0001
+Token: ' query' (ID: 3239), Prob: 0.0001
+Token: ' section' (ID: 3772), Prob: 0.0001
+Token: ' five' (ID: 4236), Prob: 0.0001
+Token: ' par' (ID: 1346), Prob: 0.0001
+Token: ' multi' (ID: 7299), Prob: 0.0001
+Token: ' formal' (ID: 15908), Prob: 0.0001
+Token: ' word' (ID: 3409), Prob: 0.0001
+Token: ' draft' (ID: 9960), Prob: 0.0001
+Token: ' comma' (ID: 31683), Prob: 0.0001
+Token: ' boxed' (ID: 73664), Prob: 0.0001
+Token: ' Text' (ID: 2918), Prob: 0.0001
+Token: ' Python' (ID: 13027), Prob: 0.0001
+Token: ' structured' (ID: 32930), Prob: 0.0001
+Token: ' set' (ID: 738), Prob: 0.0000
+Token: ' story' (ID: 3364), Prob: 0.0000
+Token: ' clean' (ID: 4240), Prob: 0.0000
+Token: ' phrase' (ID: 17133), Prob: 0.0000
+
+== Ranked Concepts (Clusters) ==
+Rank 1 | Centroid: ' single' | Score: 0.4746
+  Tokens: [' single', ' standalone', ' Single', ' multiple', ' singular', ' multi']
+Rank 2 | Centroid: ' paragraph' | Score: 0.4199
+  Tokens: [' paragraph', ' Paragraph', ' paragraphs', ' passage']
+Rank 3 | Centroid: ' sentence' | Score: 0.0306
+  Tokens: [' sentence', ' narrative', ' word', ' story', ' phrase']
+Rank 4 | Centroid: ' Text' | Score: 0.0145
+  Tokens: [' text', ' textual', ' Text']
+Rank 5 | Centroid: ' para' | Score: 0.0091
+  Tokens: [' block', ' line', ' para', ' section', ' par']
+Rank 6 | Centroid: ' Microsoft' | Score: 0.0075
+  Tokens: [' JSON', ' Microsoft', ' draft', ' Python']
+Rank 7 | Centroid: ' string' | Score: 0.0057
+  Tokens: [' string', ' String']
+Rank 8 | Centroid: ' complete' | Score: 0.0050
+  Tokens: [' complete', ' full', ' continuous', ' coherent', ' whole', ' separate']
+Rank 9 | Centroid: ' new' | Score: 0.0034
+  Tokens: [' final', ' first', ' new']
+Rank 10 | Centroid: ' clean' | Score: 0.0029
+  Tokens: [' natural', ' free', ' proper', ' correct', ' clear', ' formal', ' clean']
+Rank 11 | Centroid: ' plain' | Score: 0.0028
+  Tokens: [' plain', ' simple', ' straight', ' raw', ' direct']
+Rank 12 | Centroid: ' Markdown' | Score: 0.0027
+  Tokens: [' markdown', ' prose', ' plaintext', ' Markdown', ' comma']
+Rank 13 | Centroid: ' sequence' | Score: 0.0024
+  Tokens: [' list', ' series', ' sequence', ' number', ' set']
+Rank 14 | Centroid: ' long' | Score: 0.0022
+  Tokens: [' well', ' short', ' long']
+Rank 15 | Centroid: ' query' | Score: 0.0022
+  Tokens: [' response', ' question', ' space', ' code', ' prompt', ' query']
+Rank 16 | Centroid: ' formatted' | Score: 0.0013
+  Tokens: [' concise', ' formatted', ' written', ' structured']
+Rank 17 | Centroid: ' three' | Score: 0.0012
+  Tokens: [' one', ' two', ' three', ' four', ' few', ' five']
+Rank 18 | Centroid: ' bold' | Score: 0.0006
+  Tokens: [' bold', ' summary', ' bullet', ' slide']
+Rank 19 | Centroid: ' numbered' | Score: 0.0003
+  Tokens: [' numbered']
+Rank 20 | Centroid: ' title' | Score: 0.0002
+  Tokens: [' title']
+Rank 21 | Centroid: ' specific' | Score: 0.0002
+  Tokens: [' specific']
+Rank 22 | Centroid: ' box' | Score: 0.0002
+  Tokens: [' box', ' boxed']
+
+**Chosen Concept:** Rank 1

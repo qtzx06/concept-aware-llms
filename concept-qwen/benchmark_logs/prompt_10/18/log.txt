@@ -1,0 +1,156 @@
+--- Step 18 Log ---
+
+== Filtered Candidates ==
+Token: ' information' (ID: 1995), Prob: 0.5273
+Token: ' facts' (ID: 13064), Prob: 0.1040
+Token: ' answer' (ID: 4226), Prob: 0.0630
+Token: ' number' (ID: 1372), Prob: 0.0298
+Token: ' and' (ID: 323), Prob: 0.0205
+Token: ' name' (ID: 829), Prob: 0.0205
+Token: ' date' (ID: 2400), Prob: 0.0160
+Token: ' names' (ID: 5036), Prob: 0.0160
+Token: ' factual' (ID: 59901), Prob: 0.0160
+Token: ' historical' (ID: 13656), Prob: 0.0140
+Token: ' subject' (ID: 3832), Prob: 0.0109
+Token: ' details' (ID: 3565), Prob: 0.0096
+Token: ' dates' (ID: 12713), Prob: 0.0096
+Token: ' sentence' (ID: 11652), Prob: 0.0085
+Token: ' title' (ID: 2265), Prob: 0.0075
+Token: ' fact' (ID: 2097), Prob: 0.0067
+Token: ' word' (ID: 3409), Prob: 0.0046
+Token: ' scientific' (ID: 12344), Prob: 0.0036
+Token: ' term' (ID: 4647), Prob: 0.0033
+Token: ' amount' (ID: 3311), Prob: 0.0031
+Token: ' time' (ID: 882), Prob: 0.0029
+Token: ' use' (ID: 990), Prob: 0.0028
+Token: ' quote' (ID: 12641), Prob: 0.0026
+Token: ' answers' (ID: 11253), Prob: 0.0024
+Token: ' terms' (ID: 3793), Prob: 0.0020
+Token: ' terminology' (ID: 56626), Prob: 0.0019
+Token: ' numbers' (ID: 5109), Prob: 0.0016
+Token: ' reference' (ID: 5785), Prob: 0.0016
+Token: ' keywords' (ID: 20844), Prob: 0.0016
+Token: ' titles' (ID: 15311), Prob: 0.0015
+Token: ' data' (ID: 821), Prob: 0.0014
+Token: ' key' (ID: 1376), Prob: 0.0014
+Token: ' info' (ID: 3546), Prob: 0.0014
+Token: ' knowledge' (ID: 6540), Prob: 0.0014
+Token: ' keyword' (ID: 16174), Prob: 0.0013
+Token: ' history' (ID: 3840), Prob: 0.0012
+Token: ' correct' (ID: 4396), Prob: 0.0012
+Token: ' general' (ID: 4586), Prob: 0.0012
+Token: ' person' (ID: 1697), Prob: 0.0011
+Token: ' context' (ID: 2266), Prob: 0.0011
+Token: ' technical' (ID: 10916), Prob: 0.0011
+Token: ' gramm' (ID: 68125), Prob: 0.0011
+Token: ' order' (ID: 1973), Prob: 0.0010
+Token: ' topic' (ID: 8544), Prob: 0.0010
+Token: ' citation' (ID: 44377), Prob: 0.0010
+Token: ' article' (ID: 4549), Prob: 0.0010
+Token: ' paragraph' (ID: 14311), Prob: 0.0010
+Token: ' spelling' (ID: 42429), Prob: 0.0010
+Token: ' usage' (ID: 10431), Prob: 0.0009
+Token: ' identifying' (ID: 24588), Prob: 0.0009
+Token: ' chronological' (ID: 86534), Prob: 0.0009
+Token: ' grammar' (ID: 31428), Prob: 0.0008
+Token: ' main' (ID: 1887), Prob: 0.0008
+Token: ' period' (ID: 4168), Prob: 0.0008
+Token: ' words' (ID: 4244), Prob: 0.0008
+Token: ' identification' (ID: 21892), Prob: 0.0008
+Token: ' vocabulary' (ID: 34918), Prob: 0.0008
+Token: ' statement' (ID: 5114), Prob: 0.0007
+Token: ' in' (ID: 304), Prob: 0.0007
+Token: ' definition' (ID: 7271), Prob: 0.0007
+Token: ' year' (ID: 1042), Prob: 0.0006
+Token: ' sentences' (ID: 22870), Prob: 0.0006
+Token: ' detail' (ID: 7716), Prob: 0.0006
+Token: ' attribution' (ID: 62024), Prob: 0.0006
+Token: ' content' (ID: 2213), Prob: 0.0005
+Token: ' summary' (ID: 12126), Prob: 0.0005
+Token: ' phrase' (ID: 17133), Prob: 0.0005
+Token: ' location' (ID: 3728), Prob: 0.0005
+Token: ' structure' (ID: 5944), Prob: 0.0005
+Token: ' piece' (ID: 6573), Prob: 0.0005
+Token: ' chron' (ID: 25986), Prob: 0.0005
+Token: ' quotation' (ID: 54231), Prob: 0.0005
+Token: ' format' (ID: 3561), Prob: 0.0005
+Token: ' capital' (ID: 6722), Prob: 0.0005
+Token: ' sequence' (ID: 8500), Prob: 0.0005
+Token: ' formatting' (ID: 36566), Prob: 0.0005
+Token: ' citations' (ID: 51846), Prob: 0.0005
+Token: ' punctuation' (ID: 61503), Prob: 0.0005
+Token: ' question' (ID: 3405), Prob: 0.0005
+Token: ' personal' (ID: 4345), Prob: 0.0005
+Token: ' character' (ID: 3668), Prob: 0.0004
+Token: ' statistics' (ID: 13142), Prob: 0.0004
+Token: ' quotes' (ID: 17194), Prob: 0.0004
+Token: ' list' (ID: 1140), Prob: 0.0004
+Token: ' text' (ID: 1467), Prob: 0.0004
+Token: ' full' (ID: 2480), Prob: 0.0004
+Token: ' length' (ID: 3084), Prob: 0.0004
+Token: ' five' (ID: 4236), Prob: 0.0004
+Token: ' references' (ID: 15057), Prob: 0.0004
+Token: ' total' (ID: 2790), Prob: 0.0004
+Token: ' bi' (ID: 6032), Prob: 0.0004
+Token: ' flow' (ID: 6396), Prob: 0.0004
+Token: ' response' (ID: 2033), Prob: 0.0003
+Token: ' author' (ID: 3150), Prob: 0.0003
+Token: ' complete' (ID: 4583), Prob: 0.0003
+Token: ' d' (ID: 294), Prob: 0.0003
+Token: ' description' (ID: 4008), Prob: 0.0003
+Token: ' organization' (ID: 7321), Prob: 0.0003
+Token: ' academic' (ID: 14250), Prob: 0.0003
+
+== Ranked Concepts (Clusters) ==
+Rank 1 | Centroid: ' information' | Score: 0.5312
+  Tokens: [' information', ' data', ' info', ' knowledge', ' statistics']
+Rank 2 | Centroid: ' facts' | Score: 0.1270
+  Tokens: [' facts', ' factual', ' fact']
+Rank 3 | Centroid: ' answer' | Score: 0.0664
+  Tokens: [' answer', ' answers', ' question', ' response']
+Rank 4 | Centroid: ' names' | Score: 0.0454
+  Tokens: [' name', ' names', ' title', ' titles']
+Rank 5 | Centroid: ' number' | Score: 0.0349
+  Tokens: [' number', ' amount', ' numbers', ' list']
+Rank 6 | Centroid: ' date' | Score: 0.0300
+  Tokens: [' date', ' dates', ' time', ' period', ' year']
+Rank 7 | Centroid: ' in' | Score: 0.0294
+  Tokens: [' and', ' use', ' key', ' general', ' main', ' in', ' full', ' five', ' total', ' bi', ' complete', ' d']
+Rank 8 | Centroid: ' historical' | Score: 0.0167
+  Tokens: [' historical', ' history', ' chronological', ' chron']
+Rank 9 | Centroid: ' subject' | Score: 0.0120
+  Tokens: [' subject', ' topic']
+Rank 10 | Centroid: ' sentence' | Score: 0.0114
+  Tokens: [' sentence', ' paragraph', ' statement', ' sentences', ' phrase']
+Rank 11 | Centroid: ' details' | Score: 0.0107
+  Tokens: [' details', ' detail', ' summary']
+Rank 12 | Centroid: ' keywords' | Score: 0.0082
+  Tokens: [' word', ' keywords', ' keyword', ' words']
+Rank 13 | Centroid: ' terms' | Score: 0.0073
+  Tokens: [' term', ' terms', ' terminology']
+Rank 14 | Centroid: ' academic' | Score: 0.0059
+  Tokens: [' scientific', ' technical', ' capital', ' personal', ' academic']
+Rank 15 | Centroid: ' quotes' | Score: 0.0050
+  Tokens: [' quote', ' citation', ' quotation', ' citations', ' quotes']
+Rank 16 | Centroid: ' identification' | Score: 0.0042
+  Tokens: [' reference', ' identifying', ' identification', ' attribution', ' references']
+Rank 17 | Centroid: ' grammar' | Score: 0.0042
+  Tokens: [' gramm', ' spelling', ' grammar', ' vocabulary', ' punctuation']
+Rank 18 | Centroid: ' article' | Score: 0.0033
+  Tokens: [' person', ' article', ' piece', ' character', ' author']
+Rank 19 | Centroid: ' structure' | Score: 0.0030
+  Tokens: [' order', ' structure', ' sequence', ' length', ' flow', ' organization']
+Rank 20 | Centroid: ' context' | Score: 0.0016
+  Tokens: [' context', ' location']
+Rank 21 | Centroid: ' correct' | Score: 0.0012
+  Tokens: [' correct']
+Rank 22 | Centroid: ' format' | Score: 0.0010
+  Tokens: [' format', ' formatting']
+Rank 23 | Centroid: ' definition' | Score: 0.0009
+  Tokens: [' definition', ' description']
+Rank 24 | Centroid: ' content' | Score: 0.0009
+  Tokens: [' content', ' text']
+Rank 25 | Centroid: ' usage' | Score: 0.0009
+  Tokens: [' usage']
+
+**Chosen Concept:** Rank 1

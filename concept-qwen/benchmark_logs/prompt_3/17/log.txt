@@ -1,136 +1,131 @@
 --- Step 17 Log ---
 
 == Filtered Candidates ==
-Token: ' regular' (ID: 5792), Prob: 0.3555
-Token: ' guest' (ID: 8640), Prob: 0.3555
-Token: ' recurring' (ID: 45250), Prob: 0.0618
-Token: ' character' (ID: 3668), Prob: 0.0084
-Token: ' member' (ID: 4462), Prob: 0.0074
-Token: ' radio' (ID: 8887), Prob: 0.0074
-Token: ' producer' (ID: 16851), Prob: 0.0074
-Token: ' supporting' (ID: 12613), Prob: 0.0057
-Token: ' narrator' (ID: 64171), Prob: 0.0057
-Token: ' new' (ID: 501), Prob: 0.0045
-Token: ' young' (ID: 3908), Prob: 0.0039
-Token: ' cast' (ID: 6311), Prob: 0.0039
-Token: ' voice' (ID: 7743), Prob: 0.0039
-Token: ' male' (ID: 8593), Prob: 0.0035
-Token: ' presenter' (ID: 33656), Prob: 0.0031
-Token: ' farmer' (ID: 36400), Prob: 0.0027
-Token: ' local' (ID: 2205), Prob: 0.0024
-Token: ' non' (ID: 2477), Prob: 0.0024
-Token: ' series' (ID: 4013), Prob: 0.0024
-Token: ' substitute' (ID: 27679), Prob: 0.0021
-Token: ' seasonal' (ID: 35799), Prob: 0.0021
-Token: ' script' (ID: 5316), Prob: 0.0019
-Token: ' weekly' (ID: 17059), Prob: 0.0019
-Token: ' co' (ID: 1062), Prob: 0.0016
-Token: ' writer' (ID: 6916), Prob: 0.0016
-Token: ' permanent' (ID: 15330), Prob: 0.0016
-Token: ' viewer' (ID: 25708), Prob: 0.0016
-Token: ' stand' (ID: 2498), Prob: 0.0014
-Token: ' live' (ID: 3887), Prob: 0.0014
-Token: ' minor' (ID: 8922), Prob: 0.0014
-Token: ' television' (ID: 12425), Prob: 0.0013
-Token: ' host' (ID: 3468), Prob: 0.0011
-Token: ' temporary' (ID: 13340), Prob: 0.0011
-Token: ' supporter' (ID: 36463), Prob: 0.0011
-Token: ' lead' (ID: 2990), Prob: 0.0011
-Token: ' country' (ID: 3146), Prob: 0.0011
-Token: ' daily' (ID: 7298), Prob: 0.0011
-Token: ' journalist' (ID: 22825), Prob: 0.0011
-Token: ' replacement' (ID: 13723), Prob: 0.0010
-Token: ' Guest' (ID: 26215), Prob: 0.0010
-Token: ' fan' (ID: 8405), Prob: 0.0009
-Token: ' correspondent' (ID: 48564), Prob: 0.0009
-Token: ' stage' (ID: 6430), Prob: 0.0009
-Token: ' reader' (ID: 6604), Prob: 0.0009
-Token: ' dram' (ID: 13548), Prob: 0.0009
-Token: ' consultant' (ID: 30660), Prob: 0.0009
-Token: ' cameo' (ID: 94056), Prob: 0.0009
-Token: ' part' (ID: 949), Prob: 0.0008
-Token: ' support' (ID: 1824), Prob: 0.0008
-Token: ' special' (ID: 3281), Prob: 0.0008
-Token: ' child' (ID: 1682), Prob: 0.0008
-Token: ' frequent' (ID: 20757), Prob: 0.0008
-Token: ' contributor' (ID: 25305), Prob: 0.0008
-Token: ' fictional' (ID: 43582), Prob: 0.0008
-Token: ' season' (ID: 3200), Prob: 0.0007
-Token: ' BBC' (ID: 18096), Prob: 0.0007
-Token: ' contemporary' (ID: 18706), Prob: 0.0007
-Token: ' number' (ID: 1372), Prob: 0.0007
-Token: ' different' (ID: 2155), Prob: 0.0007
-Token: ' house' (ID: 3753), Prob: 0.0006
-Token: ' resident' (ID: 18967), Prob: 0.0006
-Token: ' rural' (ID: 19082), Prob: 0.0006
-Token: ' freelance' (ID: 45109), Prob: 0.0006
-Token: ' re' (ID: 312), Prob: 0.0006
-Token: ' long' (ID: 1293), Prob: 0.0006
-Token: ' TV' (ID: 5883), Prob: 0.0006
-Token: ' regional' (ID: 15130), Prob: 0.0006
-Token: ' contestant' (ID: 87222), Prob: 0.0006
-Token: ' national' (ID: 5313), Prob: 0.0006
-Token: ' professional' (ID: 6584), Prob: 0.0006
-Token: ' farm' (ID: 8785), Prob: 0.0006
-Token: ' sound' (ID: 5112), Prob: 0.0005
-Token: ' companion' (ID: 21741), Prob: 0.0005
-Token: ' volunteer' (ID: 25144), Prob: 0.0005
-Token: ' short' (ID: 2805), Prob: 0.0005
-Token: ' background' (ID: 4004), Prob: 0.0005
-Token: ' film' (ID: 4531), Prob: 0.0005
-Token: ' remote' (ID: 8699), Prob: 0.0005
-Token: ' musical' (ID: 17795), Prob: 0.0005
-Token: ' visitor' (ID: 20181), Prob: 0.0005
-Token: ' Regular' (ID: 28800), Prob: 0.0005
-Token: ' player' (ID: 2781), Prob: 0.0004
-Token: ' commentator' (ID: 68736), Prob: 0.0004
-Token: ' cost' (ID: 2783), Prob: 0.0004
-Token: ' feature' (ID: 4565), Prob: 0.0004
-Token: ' screen' (ID: 4171), Prob: 0.0004
-Token: ' production' (ID: 5670), Prob: 0.0004
-Token: ' leading' (ID: 6388), Prob: 0.0004
-Token: ' reporter' (ID: 18960), Prob: 0.0004
+Token: ' water' (ID: 3015), Prob: 0.8750
+Token: ' fat' (ID: 8664), Prob: 0.0300
+Token: ' and' (ID: 323), Prob: 0.0265
+Token: ' large' (ID: 3460), Prob: 0.0142
+Token: ' body' (ID: 2487), Prob: 0.0052
+Token: ' enough' (ID: 3322), Prob: 0.0046
+Token: ' heat' (ID: 8628), Prob: 0.0041
+Token: ' energy' (ID: 4802), Prob: 0.0036
+Token: ' a' (ID: 264), Prob: 0.0030
+Token: ' the' (ID: 279), Prob: 0.0030
+Token: ' more' (ID: 803), Prob: 0.0028
+Token: ' some' (ID: 1045), Prob: 0.0028
+Token: ' urine' (ID: 39235), Prob: 0.0020
+Token: ' up' (ID: 705), Prob: 0.0019
+Token: ' their' (ID: 862), Prob: 0.0016
+Token: ' food' (ID: 3607), Prob: 0.0014
+Token: ' moisture' (ID: 31157), Prob: 0.0009
+Token: ' salt' (ID: 12021), Prob: 0.0008
+Token: ' milk' (ID: 14074), Prob: 0.0008
+Token: ' in' (ID: 304), Prob: 0.0007
+Token: ' excess' (ID: 13623), Prob: 0.0005
+Token: ' fluid' (ID: 15590), Prob: 0.0004
+Token: ' most' (ID: 1429), Prob: 0.0004
+Token: ' fluids' (ID: 55306), Prob: 0.0003
+Token: ' extra' (ID: 4960), Prob: 0.0003
+Token: ' high' (ID: 1550), Prob: 0.0002
+Token: ' mud' (ID: 26183), Prob: 0.0002
+Token: ' or' (ID: 476), Prob: 0.0002
+Token: ' bodies' (ID: 12866), Prob: 0.0002
+Token: ' vast' (ID: 12767), Prob: 0.0002
+Token: ' sweat' (ID: 27466), Prob: 0.0002
+Token: ' surplus' (ID: 40448), Prob: 0.0002
+Token: ' as' (ID: 438), Prob: 0.0002
+Token: ' about' (ID: 911), Prob: 0.0002
+Token: ' much' (ID: 1753), Prob: 0.0001
+Token: ' rain' (ID: 11174), Prob: 0.0001
+Token: ' liquid' (ID: 14473), Prob: 0.0001
+Token: ' sperm' (ID: 39599), Prob: 0.0001
+Token: ' significant' (ID: 5089), Prob: 0.0001
+Token: ' sufficient' (ID: 14016), Prob: 0.0001
+Token: ' huge' (ID: 6765), Prob: 0.0001
+Token: ' an' (ID: 458), Prob: 0.0001
+Token: ' oxygen' (ID: 23552), Prob: 0.0001
+Token: ' hot' (ID: 4017), Prob: 0.0001
+Token: ' skin' (ID: 6787), Prob: 0.0001
+Token: ' away' (ID: 3123), Prob: 0.0001
+Token: ' waste' (ID: 12291), Prob: 0.0001
+Token: ' hydration' (ID: 86900), Prob: 0.0001
+Token: ' both' (ID: 2176), Prob: 0.0001
+Token: ' grass' (ID: 16359), Prob: 0.0001
+Token: ' stored' (ID: 9768), Prob: 0.0001
+Token: ' nitrogen' (ID: 46403), Prob: 0.0001
+Token: ' very' (ID: 1602), Prob: 0.0001
+Token: ' calcium' (ID: 34619), Prob: 0.0001
+Token: ' r' (ID: 435), Prob: 0.0001
+Token: ' so' (ID: 773), Prob: 0.0001
+Token: ' certain' (ID: 3654), Prob: 0.0001
+Token: ' oil' (ID: 5590), Prob: 0.0001
+Token: ' fresh' (ID: 7722), Prob: 0.0001
+Token: ' natural' (ID: 5810), Prob: 0.0001
+Token: ' gas' (ID: 6819), Prob: 0.0001
+Token: ' minerals' (ID: 32972), Prob: 0.0001
+Token: ' long' (ID: 1293), Prob: 0.0001
+Token: ' several' (ID: 3807), Prob: 0.0001
+Token: ' sun' (ID: 7015), Prob: 0.0001
+Token: ' lots' (ID: 10077), Prob: 0.0001
+Token: 'water' (ID: 12987), Prob: 0.0001
+Token: ' nutrients' (ID: 36393), Prob: 0.0001
+Token: ' sunlight' (ID: 39020), Prob: 0.0001
+Token: ' glyc' (ID: 71057), Prob: 0.0001
+Token: ' of' (ID: 315), Prob: 0.0001
+Token: ' for' (ID: 369), Prob: 0.0001
+Token: ' hydr' (ID: 44605), Prob: 0.0001
+Token: ' many' (ID: 1657), Prob: 0.0001
+Token: ' important' (ID: 2989), Prob: 0.0001
+Token: '-water' (ID: 53951), Prob: 0.0001
+Token: ' it' (ID: 432), Prob: 0.0000
+Token: ' different' (ID: 2155), Prob: 0.0000
+Token: ' big' (ID: 2409), Prob: 0.0000
+Token: ' dry' (ID: 9058), Prob: 0.0000
+Token: ' additional' (ID: 5107), Prob: 0.0000
+Token: ' concentrated' (ID: 37526), Prob: 0.0000
+Token: ' bodily' (ID: 47031), Prob: 0.0000
+Token: ' fec' (ID: 53961), Prob: 0.0000
+Token: ' any' (ID: 894), Prob: 0.0000
+Token: ' essential' (ID: 7565), Prob: 0.0000
+Token: ' plants' (ID: 10779), Prob: 0.0000
+Token: ' plenty' (ID: 11260), Prob: 0.0000
 
 == Ranked Concepts (Clusters) ==
-Rank 1 | Centroid: ' Regular' | Score: 0.4219
-  Tokens: [' regular', ' recurring', ' weekly', ' daily', ' frequent', ' Regular']
-Rank 2 | Centroid: ' guest' | Score: 0.3574
-  Tokens: [' guest', ' host', ' Guest']
-Rank 3 | Centroid: ' series' | Score: 0.0227
-  Tokens: [' character', ' cast', ' voice', ' series', ' script', ' stage', ' sound', ' background', ' feature']
-Rank 4 | Centroid: ' journalist' | Score: 0.0212
-  Tokens: [' producer', ' narrator', ' presenter', ' journalist', ' correspondent', ' consultant', ' contributor', ' contestant', ' commentator', ' reporter']
-Rank 5 | Centroid: ' new' | Score: 0.0190
-  Tokens: [' new', ' young', ' non', ' co', ' stand', ' part', ' special', ' number', ' different', ' re', ' long', ' short', ' cost']
-Rank 6 | Centroid: ' television' | Score: 0.0109
-  Tokens: [' radio', ' television', ' BBC', ' TV', ' film', ' screen']
-Rank 7 | Centroid: ' member' | Score: 0.0080
-  Tokens: [' member', ' resident']
-Rank 8 | Centroid: ' support' | Score: 0.0077
-  Tokens: [' supporting', ' supporter', ' support']
-Rank 9 | Centroid: ' regional' | Score: 0.0061
-  Tokens: [' local', ' minor', ' rural', ' regional', ' national', ' remote']
-Rank 10 | Centroid: ' farm' | Score: 0.0050
-  Tokens: [' farmer', ' country', ' house', ' farm']
-Rank 11 | Centroid: ' male' | Score: 0.0049
-  Tokens: [' male', ' live']
-Rank 12 | Centroid: ' reader' | Score: 0.0046
-  Tokens: [' writer', ' viewer', ' reader', ' visitor']
-Rank 13 | Centroid: ' temporary' | Score: 0.0041
-  Tokens: [' permanent', ' temporary', ' contemporary', ' professional']
-Rank 14 | Centroid: ' replacement' | Score: 0.0035
-  Tokens: [' substitute', ' replacement', ' production']
-Rank 15 | Centroid: ' seasonal' | Score: 0.0033
-  Tokens: [' seasonal', ' season', ' musical']
-Rank 16 | Centroid: ' child' | Score: 0.0022
-  Tokens: [' fan', ' child', ' player']
-Rank 17 | Centroid: ' freelance' | Score: 0.0020
-  Tokens: [' cameo', ' freelance', ' volunteer']
-Rank 18 | Centroid: ' dram' | Score: 0.0017
-  Tokens: [' dram', ' fictional']
-Rank 19 | Centroid: ' lead' | Score: 0.0014
-  Tokens: [' lead', ' leading']
-Rank 20 | Centroid: ' companion' | Score: 0.0005
-  Tokens: [' companion']
+Rank 1 | Centroid: ' water' | Score: 0.8750
+  Tokens: [' water', ' moisture', ' hydration', 'water', ' hydr', '-water']
+Rank 2 | Centroid: ' heat' | Score: 0.0359
+  Tokens: [' fat', ' heat', ' food', ' sweat', ' hot', ' skin', ' waste']
+Rank 3 | Centroid: ' the' | Score: 0.0359
+  Tokens: [' and', ' a', ' the', ' up', ' in', ' or', ' as', ' about', ' an', ' r', ' so', ' of', ' for', ' it']
+Rank 4 | Centroid: ' large' | Score: 0.0148
+  Tokens: [' large', ' high', ' vast', ' huge', ' long', ' big']
+Rank 5 | Centroid: ' body' | Score: 0.0055
+  Tokens: [' body', ' bodies', ' bodily']
+Rank 6 | Centroid: ' oil' | Score: 0.0053
+  Tokens: [' energy', ' salt', ' milk', ' oil', ' gas']
+Rank 7 | Centroid: ' enough' | Score: 0.0047
+  Tokens: [' enough', ' sufficient']
+Rank 8 | Centroid: ' some' | Score: 0.0046
+  Tokens: [' some', ' their', ' both', ' certain', ' different', ' any']
+Rank 9 | Centroid: ' more' | Score: 0.0034
+  Tokens: [' more', ' most', ' much', ' very']
+Rank 10 | Centroid: ' nutrients' | Score: 0.0030
+  Tokens: [' urine', ' mud', ' sperm', ' oxygen', ' grass', ' nitrogen', ' calcium', ' minerals', ' nutrients', ' glyc', ' fec', ' plants']
+Rank 11 | Centroid: ' extra' | Score: 0.0011
+  Tokens: [' excess', ' extra', ' surplus', ' away', ' additional']
+Rank 12 | Centroid: ' fluid' | Score: 0.0009
+  Tokens: [' fluid', ' fluids', ' liquid']
+Rank 13 | Centroid: ' sun' | Score: 0.0003
+  Tokens: [' rain', ' sun', ' sunlight']
+Rank 14 | Centroid: ' many' | Score: 0.0002
+  Tokens: [' several', ' lots', ' many', ' plenty']
+Rank 15 | Centroid: ' important' | Score: 0.0002
+  Tokens: [' significant', ' important', ' essential']
+Rank 16 | Centroid: ' concentrated' | Score: 0.0002
+  Tokens: [' stored', ' fresh', ' concentrated']
+Rank 17 | Centroid: ' natural' | Score: 0.0001
+  Tokens: [' natural']
+Rank 18 | Centroid: ' dry' | Score: 0.0000
+  Tokens: [' dry']
 
 **Chosen Concept:** Rank 1

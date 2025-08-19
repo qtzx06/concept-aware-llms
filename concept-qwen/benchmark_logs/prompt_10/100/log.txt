@@ -1,0 +1,129 @@
+--- Step 100 Log ---
+
+== Filtered Candidates ==
+Token: ' format' (ID: 3561), Prob: 0.9883
+Token: ' paragraph' (ID: 14311), Prob: 0.0085
+Token: ' form' (ID: 1352), Prob: 0.0007
+Token: ' answer' (ID: 4226), Prob: 0.0001
+Token: ' formatting' (ID: 36566), Prob: 0.0001
+Token: ' paragraphs' (ID: 42643), Prob: 0.0001
+Token: ' style' (ID: 1707), Prob: 0.0000
+Token: ' order' (ID: 1973), Prob: 0.0000
+Token: ' and' (ID: 323), Prob: 0.0000
+Token: ' text' (ID: 1467), Prob: 0.0000
+Token: ' Format' (ID: 15042), Prob: 0.0000
+Token: ' subject' (ID: 3832), Prob: 0.0000
+Token: ' mode' (ID: 3856), Prob: 0.0000
+Token: ' position' (ID: 2309), Prob: 0.0000
+Token: ' sentence' (ID: 11652), Prob: 0.0000
+Token: ' standard' (ID: 5297), Prob: 0.0000
+Token: ' response' (ID: 2033), Prob: 0.0000
+Token: ' single' (ID: 3175), Prob: 0.0000
+Token: ' manner' (ID: 11566), Prob: 0.0000
+Token: '.format' (ID: 8021), Prob: 0.0000
+Token: ' segment' (ID: 10238), Prob: 0.0000
+Token: ' number' (ID: 1372), Prob: 0.0000
+Token: ' instruction' (ID: 7600), Prob: 0.0000
+Token: ' bullet' (ID: 17432), Prob: 0.0000
+Token: ' first' (ID: 1156), Prob: 0.0000
+Token: ' final' (ID: 1590), Prob: 0.0000
+Token: ' language' (ID: 4128), Prob: 0.0000
+Token: 'format' (ID: 2243), Prob: 0.0000
+Token: ' document' (ID: 2197), Prob: 0.0000
+Token: ' pattern' (ID: 5383), Prob: 0.0000
+Token: ' structure' (ID: 5944), Prob: 0.0000
+Token: ' Greg' (ID: 16046), Prob: 0.0000
+Token: ' Paragraph' (ID: 49351), Prob: 0.0000
+Token: '	format' (ID: 59416), Prob: 0.0000
+Token: ' color' (ID: 1894), Prob: 0.0000
+Token: ' flow' (ID: 6396), Prob: 0.0000
+Token: ' five' (ID: 4236), Prob: 0.0000
+Token: ' formal' (ID: 15908), Prob: 0.0000
+Token: '(format' (ID: 20698), Prob: 0.0000
+Token: ' context' (ID: 2266), Prob: 0.0000
+Token: ' location' (ID: 3728), Prob: 0.0000
+Token: ' international' (ID: 6489), Prob: 0.0000
+Token: ' HTML' (ID: 9308), Prob: 0.0000
+Token: ' prompt' (ID: 9934), Prob: 0.0000
+Token: ' markdown' (ID: 50494), Prob: 0.0000
+Token: ' block' (ID: 2504), Prob: 0.0000
+Token: ' simple' (ID: 4285), Prob: 0.0000
+Token: ' general' (ID: 4586), Prob: 0.0000
+Token: ' JSON' (ID: 4718), Prob: 0.0000
+Token: ' par' (ID: 1346), Prob: 0.0000
+Token: ' length' (ID: 3084), Prob: 0.0000
+Token: ' English' (ID: 6364), Prob: 0.0000
+Token: ' formats' (ID: 19856), Prob: 0.0000
+Token: ' section' (ID: 3772), Prob: 0.0000
+Token: ' state' (ID: 1584), Prob: 0.0000
+Token: ' way' (ID: 1616), Prob: 0.0000
+Token: ' title' (ID: 2265), Prob: 0.0000
+Token: ' following' (ID: 2701), Prob: 0.0000
+Token: ' sequence' (ID: 8500), Prob: 0.0000
+Token: ' formation' (ID: 18003), Prob: 0.0000
+Token: ' only' (ID: 1172), Prob: 0.0000
+Token: ' punctuation' (ID: 61503), Prob: 0.0000
+Token: ' time' (ID: 882), Prob: 0.0000
+Token: ' input' (ID: 1946), Prob: 0.0000
+Token: ' fashion' (ID: 11153), Prob: 0.0000
+Token: ' in' (ID: 304), Prob: 0.0000
+Token: ' one' (ID: 825), Prob: 0.0000
+Token: ' short' (ID: 2805), Prob: 0.0000
+Token: ' box' (ID: 3745), Prob: 0.0000
+Token: ' part' (ID: 949), Prob: 0.0000
+Token: ' syntax' (ID: 19482), Prob: 0.0000
+Token: ' ISO' (ID: 21940), Prob: 0.0000
+Token: ' formatted' (ID: 23126), Prob: 0.0000
+Token: ' direct' (ID: 2118), Prob: 0.0000
+Token: ' formula' (ID: 14806), Prob: 0.0000
+Token: ' amount' (ID: 3311), Prob: 0.0000
+Token: ' correct' (ID: 4396), Prob: 0.0000
+Token: ' list' (ID: 1140), Prob: 0.0000
+Token: ' after' (ID: 1283), Prob: 0.0000
+Token: ' word' (ID: 3409), Prob: 0.0000
+
+== Ranked Concepts (Clusters) ==
+Rank 1 | Centroid: ' format' | Score: 0.9883
+  Tokens: [' format', ' formatting', ' Format', '.format', 'format', '\tformat', '(format', ' formats', ' formatted']
+Rank 2 | Centroid: ' paragraph' | Score: 0.0086
+  Tokens: [' paragraph', ' paragraphs', ' Paragraph']
+Rank 3 | Centroid: ' formal' | Score: 0.0007
+  Tokens: [' form', ' formal', ' formation', ' formula']
+Rank 4 | Centroid: ' instruction' | Score: 0.0002
+  Tokens: [' answer', ' order', ' response', ' instruction', ' prompt', ' input']
+Rank 5 | Centroid: ' manner' | Score: 0.0001
+  Tokens: [' style', ' mode', ' manner', ' way', ' fashion']
+Rank 6 | Centroid: ' in' | Score: 0.0000
+  Tokens: [' and', ' first', ' final', ' five', ' only', ' in', ' one', ' after']
+Rank 7 | Centroid: ' sentence' | Score: 0.0000
+  Tokens: [' text', ' sentence', ' word']
+Rank 8 | Centroid: ' simple' | Score: 0.0000
+  Tokens: [' standard', ' single', ' simple', ' general', ' short', ' direct']
+Rank 9 | Centroid: ' title' | Score: 0.0000
+  Tokens: [' subject', ' color', ' title', ' time']
+Rank 10 | Centroid: ' location' | Score: 0.0000
+  Tokens: [' position', ' context', ' location', ' state']
+Rank 11 | Centroid: ' HTML' | Score: 0.0000
+  Tokens: [' Greg', ' international', ' HTML', ' JSON', ' English', ' ISO']
+Rank 12 | Centroid: ' sequence' | Score: 0.0000
+  Tokens: [' pattern', ' structure', ' sequence']
+Rank 13 | Centroid: ' number' | Score: 0.0000
+  Tokens: [' number', ' length', ' amount']
+Rank 14 | Centroid: ' segment' | Score: 0.0000
+  Tokens: [' segment', ' section']
+Rank 15 | Centroid: ' block' | Score: 0.0000
+  Tokens: [' flow', ' block', ' box', ' list']
+Rank 16 | Centroid: ' language' | Score: 0.0000
+  Tokens: [' language', ' syntax']
+Rank 17 | Centroid: ' bullet' | Score: 0.0000
+  Tokens: [' bullet']
+Rank 18 | Centroid: ' markdown' | Score: 0.0000
+  Tokens: [' markdown', ' punctuation']
+Rank 19 | Centroid: ' document' | Score: 0.0000
+  Tokens: [' document']
+Rank 20 | Centroid: ' par' | Score: 0.0000
+  Tokens: [' par', ' part']
+Rank 21 | Centroid: ' following' | Score: 0.0000
+  Tokens: [' following', ' correct']
+
+**Chosen Concept:** Rank 1

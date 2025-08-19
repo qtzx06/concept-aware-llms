@@ -1,0 +1,135 @@
+--- Step 3 Log ---
+
+== Filtered Candidates ==
+Token: ' should' (ID: 1265), Prob: 0.5430
+Token: ' is' (ID: 374), Prob: 0.2266
+Token: ' to' (ID: 311), Prob: 0.0947
+Token: ' must' (ID: 1969), Prob: 0.0393
+Token: ' will' (ID: 686), Prob: 0.0165
+Token: ' would' (ID: 1035), Prob: 0.0145
+Token: ' that' (ID: 429), Prob: 0.0099
+Token: ' provided' (ID: 3897), Prob: 0.0047
+Token: ' above' (ID: 3403), Prob: 0.0037
+Token: ' needs' (ID: 3880), Prob: 0.0037
+Token: ' contains' (ID: 5610), Prob: 0.0037
+Token: ' has' (ID: 702), Prob: 0.0027
+Token: ' in' (ID: 304), Prob: 0.0025
+Token: ' can' (ID: 646), Prob: 0.0021
+Token: ' below' (ID: 3685), Prob: 0.0014
+Token: ' could' (ID: 1410), Prob: 0.0011
+Token: ' about' (ID: 911), Prob: 0.0011
+Token: ' includes' (ID: 5646), Prob: 0.0011
+Token: ' given' (ID: 2661), Prob: 0.0010
+Token: ' correctly' (ID: 12440), Prob: 0.0010
+Token: ' text' (ID: 1467), Prob: 0.0009
+Token: ' for' (ID: 369), Prob: 0.0008
+Token: ' does' (ID: 1558), Prob: 0.0008
+Token: ' of' (ID: 315), Prob: 0.0007
+Token: ' mentions' (ID: 33845), Prob: 0.0007
+Token: ' may' (ID: 1231), Prob: 0.0005
+Token: ' cannot' (ID: 4157), Prob: 0.0005
+Token: ' seems' (ID: 4977), Prob: 0.0005
+Token: ' starts' (ID: 8471), Prob: 0.0005
+Token: ' begins' (ID: 12033), Prob: 0.0005
+Token: ' might' (ID: 2578), Prob: 0.0004
+Token: ' was' (ID: 572), Prob: 0.0004
+Token: ' which' (ID: 892), Prob: 0.0004
+Token: ' provides' (ID: 5707), Prob: 0.0004
+Token: ' ends' (ID: 10335), Prob: 0.0004
+Token: ' explains' (ID: 14758), Prob: 0.0004
+Token: ' statement' (ID: 5114), Prob: 0.0003
+Token: ' paragraph' (ID: 14311), Prob: 0.0003
+Token: ' uses' (ID: 5711), Prob: 0.0003
+Token: ' matches' (ID: 9071), Prob: 0.0003
+Token: ' says' (ID: 2727), Prob: 0.0003
+Token: ' with' (ID: 448), Prob: 0.0002
+Token: ' from' (ID: 504), Prob: 0.0002
+Token: ' the' (ID: 279), Prob: 0.0002
+Token: ' follows' (ID: 11017), Prob: 0.0002
+Token: ' sentence' (ID: 11652), Prob: 0.0002
+Token: ' you' (ID: 498), Prob: 0.0002
+Token: ' states' (ID: 5302), Prob: 0.0002
+Token: ' requires' (ID: 7460), Prob: 0.0002
+Token: ' format' (ID: 3561), Prob: 0.0002
+Token: ' appears' (ID: 7952), Prob: 0.0002
+Token: ' doesn' (ID: 3171), Prob: 0.0002
+Token: ' discusses' (ID: 34334), Prob: 0.0002
+Token: ' here' (ID: 1588), Prob: 0.0001
+Token: ' sentences' (ID: 22870), Prob: 0.0001
+Token: ' as' (ID: 438), Prob: 0.0001
+Token: ' shows' (ID: 4933), Prob: 0.0001
+Token: ' presented' (ID: 10449), Prob: 0.0001
+Token: ' fits' (ID: 18304), Prob: 0.0001
+Token: ' most' (ID: 1429), Prob: 0.0001
+Token: ' reads' (ID: 15804), Prob: 0.0001
+Token: ' under' (ID: 1212), Prob: 0.0001
+Token: ' after' (ID: 1283), Prob: 0.0001
+Token: ' content' (ID: 2213), Prob: 0.0001
+Token: ' refers' (ID: 19257), Prob: 0.0001
+Token: ' only' (ID: 1172), Prob: 0.0001
+Token: ' makes' (ID: 3643), Prob: 0.0001
+Token: ' and' (ID: 323), Prob: 0.0001
+Token: ' gives' (ID: 6696), Prob: 0.0001
+Token: ' meets' (ID: 20027), Prob: 0.0001
+Token: ' combines' (ID: 32411), Prob: 0.0001
+Token: ' concludes' (ID: 44437), Prob: 0.0001
+Token: ' A' (ID: 362), Prob: 0.0001
+Token: ' on' (ID: 389), Prob: 0.0001
+Token: ' box' (ID: 3745), Prob: 0.0001
+Token: ' shall' (ID: 4880), Prob: 0.0001
+Token: ' goes' (ID: 5780), Prob: 0.0001
+Token: ' incorporates' (ID: 51824), Prob: 0.0001
+Token: ' at' (ID: 518), Prob: 0.0001
+Token: ' correct' (ID: 4396), Prob: 0.0001
+Token: ' best' (ID: 1850), Prob: 0.0001
+Token: ' regarding' (ID: 8826), Prob: 0.0001
+Token: ' message' (ID: 1943), Prob: 0.0001
+Token: ' section' (ID: 3772), Prob: 0.0001
+Token: ' explanation' (ID: 16148), Prob: 0.0001
+Token: ' reflects' (ID: 25963), Prob: 0.0001
+Token: ' answer' (ID: 4226), Prob: 0.0001
+Token: ' continues' (ID: 9539), Prob: 0.0001
+Token: ' indicates' (ID: 14807), Prob: 0.0001
+Token: ' adds' (ID: 11367), Prob: 0.0001
+
+== Ranked Concepts (Clusters) ==
+Rank 1 | Centroid: ' may' | Score: 0.6172
+  Tokens: [' should', ' must', ' will', ' would', ' can', ' could', ' may', ' cannot', ' might', ' shall']
+Rank 2 | Centroid: ' is' | Score: 0.2305
+  Tokens: [' is', ' has', ' does', ' was']
+Rank 3 | Centroid: ' in' | Score: 0.1108
+  Tokens: [' to', ' that', ' in', ' for', ' of', ' which', ' with', ' from', ' the', ' you', ' as', ' under', ' after', ' and', ' A', ' on', ' at']
+Rank 4 | Centroid: ' doesn' | Score: 0.0063
+  Tokens: [' contains', ' includes', ' seems', ' requires', ' appears', ' doesn', ' refers', ' makes', ' combines', ' goes', ' incorporates', ' reflects', ' continues', ' adds']
+Rank 5 | Centroid: ' provided' | Score: 0.0058
+  Tokens: [' provided', ' given', ' presented']
+Rank 6 | Centroid: ' below' | Score: 0.0052
+  Tokens: [' above', ' below', ' here']
+Rank 7 | Centroid: ' needs' | Score: 0.0037
+  Tokens: [' needs']
+Rank 8 | Centroid: ' indicates' | Score: 0.0017
+  Tokens: [' mentions', ' explains', ' says', ' discusses', ' shows', ' indicates']
+Rank 9 | Centroid: ' begins' | Score: 0.0014
+  Tokens: [' starts', ' begins', ' ends', ' concludes']
+Rank 10 | Centroid: ' text' | Score: 0.0013
+  Tokens: [' text', ' format', ' content', ' box']
+Rank 11 | Centroid: ' sentence' | Score: 0.0012
+  Tokens: [' statement', ' paragraph', ' sentence', ' sentences', ' message', ' section']
+Rank 12 | Centroid: ' about' | Score: 0.0011
+  Tokens: [' about', ' regarding']
+Rank 13 | Centroid: ' correctly' | Score: 0.0011
+  Tokens: [' correctly', ' correct']
+Rank 14 | Centroid: ' matches' | Score: 0.0009
+  Tokens: [' uses', ' matches', ' fits', ' reads', ' meets']
+Rank 15 | Centroid: ' provides' | Score: 0.0004
+  Tokens: [' provides', ' gives']
+Rank 16 | Centroid: ' most' | Score: 0.0003
+  Tokens: [' most', ' only', ' best']
+Rank 17 | Centroid: ' follows' | Score: 0.0002
+  Tokens: [' follows']
+Rank 18 | Centroid: ' states' | Score: 0.0002
+  Tokens: [' states']
+Rank 19 | Centroid: ' explanation' | Score: 0.0001
+  Tokens: [' explanation', ' answer']
+
+**Chosen Concept:** Rank 1

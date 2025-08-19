@@ -1,0 +1,152 @@
+--- Step 15 Log ---
+
+== Filtered Candidates ==
+Token: ' include' (ID: 2924), Prob: 0.3027
+Token: ' be' (ID: 387), Prob: 0.2080
+Token: ' contain' (ID: 6644), Prob: 0.1836
+Token: ' have' (ID: 614), Prob: 0.0869
+Token: ' start' (ID: 1191), Prob: 0.0466
+Token: ' not' (ID: 537), Prob: 0.0361
+Token: ' begin' (ID: 3161), Prob: 0.0320
+Token: ' answer' (ID: 4226), Prob: 0.0151
+Token: ' follow' (ID: 1795), Prob: 0.0104
+Token: ' state' (ID: 1584), Prob: 0.0056
+Token: ' cover' (ID: 3421), Prob: 0.0049
+Token: ' mention' (ID: 6286), Prob: 0.0043
+Token: ' consist' (ID: 6685), Prob: 0.0043
+Token: ' use' (ID: 990), Prob: 0.0038
+Token: ' also' (ID: 1083), Prob: 0.0034
+Token: ' describe' (ID: 7512), Prob: 0.0034
+Token: ' NOT' (ID: 4183), Prob: 0.0026
+Token: ' end' (ID: 835), Prob: 0.0023
+Token: ' only' (ID: 1172), Prob: 0.0020
+Token: ' reflect' (ID: 8708), Prob: 0.0020
+Token: ' discuss' (ID: 4263), Prob: 0.0018
+Token: ' identify' (ID: 10542), Prob: 0.0018
+Token: ' clearly' (ID: 9355), Prob: 0.0016
+Token: ' make' (ID: 1281), Prob: 0.0014
+Token: ' address' (ID: 2621), Prob: 0.0014
+Token: ' explain' (ID: 10339), Prob: 0.0014
+Token: ' correctly' (ID: 12440), Prob: 0.0013
+Token: ' avoid' (ID: 5648), Prob: 0.0012
+Token: ' conclude' (ID: 31094), Prob: 0.0012
+Token: ' list' (ID: 1140), Prob: 0.0010
+Token: ' incorporate' (ID: 32335), Prob: 0.0010
+Token: ' reference' (ID: 5785), Prob: 0.0010
+Token: ' adhere' (ID: 48453), Prob: 0.0008
+Token: ' directly' (ID: 5961), Prob: 0.0006
+Token: ' refer' (ID: 8300), Prob: 0.0006
+Token: ' introduce' (ID: 19131), Prob: 0.0006
+Token: ' present' (ID: 3042), Prob: 0.0005
+Token: ' read' (ID: 1349), Prob: 0.0005
+Token: ' accurately' (ID: 29257), Prob: 0.0005
+Token: ' summarize' (ID: 62079), Prob: 0.0005
+Token: ' highlight' (ID: 11167), Prob: 0.0005
+Token: ' first' (ID: 1156), Prob: 0.0004
+Token: ' focus' (ID: 5244), Prob: 0.0004
+Token: ' take' (ID: 1896), Prob: 0.0003
+Token: ' match' (ID: 2432), Prob: 0.0003
+Token: ' conform' (ID: 25879), Prob: 0.0003
+Token: ' respond' (ID: 5889), Prob: 0.0003
+Token: ' tell' (ID: 3291), Prob: 0.0003
+Token: ' meet' (ID: 3367), Prob: 0.0003
+Token: ' provide' (ID: 3410), Prob: 0.0003
+Token: ' quote' (ID: 12641), Prob: 0.0003
+Token: ' explicitly' (ID: 20975), Prob: 0.0003
+Token: ' cite' (ID: 38296), Prob: 0.0003
+Token: ' indicate' (ID: 13216), Prob: 0.0002
+Token: ' agree' (ID: 7503), Prob: 0.0002
+Token: ' show' (ID: 1473), Prob: 0.0002
+Token: ' appear' (ID: 4994), Prob: 0.0002
+Token: ' exclude' (ID: 21687), Prob: 0.0002
+Token: ' convey' (ID: 20001), Prob: 0.0002
+Token: ' go' (ID: 728), Prob: 0.0002
+Token: ' express' (ID: 3158), Prob: 0.0002
+Token: ' capture' (ID: 12322), Prob: 0.0002
+Token: ' emphasize' (ID: 45932), Prob: 0.0002
+Token: ' logically' (ID: 73045), Prob: 0.0002
+Token: ' talk' (ID: 3061), Prob: 0.0002
+Token: ' connect' (ID: 4564), Prob: 0.0002
+Token: ' demonstrate' (ID: 19869), Prob: 0.0002
+Token: ' exactly' (ID: 6896), Prob: 0.0001
+Token: ' conc' (ID: 3529), Prob: 0.0001
+Token: ' specify' (ID: 13837), Prob: 0.0001
+Token: ' support' (ID: 1824), Prob: 0.0001
+Token: ' say' (ID: 1977), Prob: 0.0001
+Token: ' always' (ID: 2677), Prob: 0.0001
+Token: ' give' (ID: 2968), Prob: 0.0001
+Token: ' maintain' (ID: 10306), Prob: 0.0001
+Token: ' initially' (ID: 15102), Prob: 0.0001
+Token: ' integrate' (ID: 31072), Prob: 0.0001
+Token: ' do' (ID: 653), Prob: 0.0001
+Token: ' either' (ID: 2987), Prob: 0.0001
+Token: ' analyze' (ID: 23643), Prob: 0.0001
+Token: ' now' (ID: 1431), Prob: 0.0001
+Token: ' represent' (ID: 4009), Prob: 0.0001
+Token: ' look' (ID: 1401), Prob: 0.0001
+Token: ' keep' (ID: 2506), Prob: 0.0001
+Token: ' never' (ID: 2581), Prob: 0.0001
+Token: ' feature' (ID: 4565), Prob: 0.0001
+Token: ' elaborate' (ID: 35967), Prob: 0.0001
+Token: ' complete' (ID: 4583), Prob: 0.0001
+Token: ' contains' (ID: 5610), Prob: 0.0001
+Token: ' completely' (ID: 6587), Prob: 0.0001
+Token: ' define' (ID: 6979), Prob: 0.0001
+Token: ' fulfill' (ID: 20423), Prob: 0.0001
+Token: ' clarify' (ID: 37163), Prob: 0.0001
+Token: ' link' (ID: 2656), Prob: 0.0001
+Token: ' flow' (ID: 6396), Prob: 0.0001
+
+== Ranked Concepts (Clusters) ==
+Rank 1 | Centroid: ' contain' | Score: 0.4902
+  Tokens: [' include', ' contain', ' consist', ' contains']
+Rank 2 | Centroid: ' have' | Score: 0.2969
+  Tokens: [' be', ' have', ' make', ' take', ' go', ' do']
+Rank 3 | Centroid: ' start' | Score: 0.0815
+  Tokens: [' start', ' begin', ' end', ' first']
+Rank 4 | Centroid: ' not' | Score: 0.0447
+  Tokens: [' not', ' also', ' NOT', ' only', ' always', ' either', ' now', ' never']
+Rank 5 | Centroid: ' answer' | Score: 0.0166
+  Tokens: [' answer', ' address', ' talk']
+Rank 6 | Centroid: ' read' | Score: 0.0110
+  Tokens: [' follow', ' read', ' look']
+Rank 7 | Centroid: ' indicate' | Score: 0.0109
+  Tokens: [' describe', ' discuss', ' identify', ' explain', ' conclude', ' summarize', ' indicate', ' demonstrate', ' specify', ' analyze', ' define', ' clarify']
+Rank 8 | Centroid: ' list' | Score: 0.0071
+  Tokens: [' state', ' list', ' present']
+Rank 9 | Centroid: ' refer' | Score: 0.0064
+  Tokens: [' mention', ' reference', ' refer', ' quote', ' cite']
+Rank 10 | Centroid: ' capture' | Score: 0.0055
+  Tokens: [' cover', ' capture', ' connect', ' support', ' feature']
+Rank 11 | Centroid: ' explicitly' | Score: 0.0048
+  Tokens: [' clearly', ' correctly', ' directly', ' accurately', ' explicitly', ' logically', ' exactly', ' initially', ' completely']
+Rank 12 | Centroid: ' use' | Score: 0.0038
+  Tokens: [' use']
+Rank 13 | Centroid: ' represent' | Score: 0.0025
+  Tokens: [' reflect', ' convey', ' express', ' represent']
+Rank 14 | Centroid: ' incorporate' | Score: 0.0019
+  Tokens: [' incorporate', ' introduce', ' exclude', ' integrate']
+Rank 15 | Centroid: ' fulfill' | Score: 0.0016
+  Tokens: [' adhere', ' respond', ' meet', ' agree', ' fulfill']
+Rank 16 | Centroid: ' maintain' | Score: 0.0014
+  Tokens: [' avoid', ' maintain', ' keep']
+Rank 17 | Centroid: ' emphasize' | Score: 0.0011
+  Tokens: [' highlight', ' focus', ' emphasize']
+Rank 18 | Centroid: ' conform' | Score: 0.0008
+  Tokens: [' match', ' conform', ' conc']
+Rank 19 | Centroid: ' tell' | Score: 0.0004
+  Tokens: [' tell', ' say']
+Rank 20 | Centroid: ' provide' | Score: 0.0004
+  Tokens: [' provide', ' give']
+Rank 21 | Centroid: ' show' | Score: 0.0002
+  Tokens: [' show']
+Rank 22 | Centroid: ' appear' | Score: 0.0002
+  Tokens: [' appear']
+Rank 23 | Centroid: ' link' | Score: 0.0001
+  Tokens: [' link', ' flow']
+Rank 24 | Centroid: ' elaborate' | Score: 0.0001
+  Tokens: [' elaborate']
+Rank 25 | Centroid: ' complete' | Score: 0.0001
+  Tokens: [' complete']
+
+**Chosen Concept:** Rank 1

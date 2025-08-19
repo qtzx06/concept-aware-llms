@@ -1,106 +1,142 @@
 --- Step 62 Log ---
 
 == Filtered Candidates ==
-Token: ' dynasty' (ID: 66846), Prob: 0.7578
-Token: ' Dynasty' (ID: 73395), Prob: 0.1689
-Token: ' period' (ID: 4168), Prob: 0.0294
-Token: ' poetry' (ID: 31249), Prob: 0.0139
-Token: ' era' (ID: 11385), Prob: 0.0123
-Token: ' Poetry' (ID: 67687), Prob: 0.0017
-Token: ' Period' (ID: 25492), Prob: 0.0010
-Token: ' style' (ID: 1707), Prob: 0.0005
-Token: ' poetic' (ID: 75434), Prob: 0.0003
-Token: ' and' (ID: 323), Prob: 0.0003
-Token: ' poet' (ID: 39260), Prob: 0.0003
-Token: 'Dyn' (ID: 95709), Prob: 0.0003
-Token: ' court' (ID: 5473), Prob: 0.0002
-Token: ' poem' (ID: 32794), Prob: 0.0002
-Token: ' China' (ID: 5616), Prob: 0.0002
-Token: ' school' (ID: 2906), Prob: 0.0002
-Token: ' times' (ID: 3039), Prob: 0.0002
-Token: ' dyn' (ID: 31070), Prob: 0.0002
-Token: ' Po' (ID: 13808), Prob: 0.0001
-Token: ' Dyn' (ID: 43938), Prob: 0.0001
-Token: ' Song' (ID: 18971), Prob: 0.0001
-Token: ' in' (ID: 304), Prob: 0.0001
-Token: ' age' (ID: 4231), Prob: 0.0001
-Token: ' School' (ID: 6022), Prob: 0.0001
-Token: ' poets' (ID: 72972), Prob: 0.0001
-Token: ' poems' (ID: 44219), Prob: 0.0000
-Token: ' Renaissance' (ID: 54283), Prob: 0.0000
-Token: ' Era' (ID: 47588), Prob: 0.0000
-Token: ' Chinese' (ID: 8453), Prob: 0.0000
-Token: ' regime' (ID: 17484), Prob: 0.0000
-Token: ' verse' (ID: 32387), Prob: 0.0000
-Token: ' class' (ID: 536), Prob: 0.0000
-Token: ' culture' (ID: 7674), Prob: 0.0000
-Token: ' epoch' (ID: 16342), Prob: 0.0000
-Token: ' genre' (ID: 17328), Prob: 0.0000
-Token: ' periods' (ID: 18346), Prob: 0.0000
-Token: ' literary' (ID: 31365), Prob: 0.0000
-Token: ' people' (ID: 1251), Prob: 0.0000
-Token: ' during' (ID: 2337), Prob: 0.0000
-Token: ' tradition' (ID: 13815), Prob: 0.0000
-Token: ' or' (ID: 476), Prob: 0.0000
-Token: ' to' (ID: 311), Prob: 0.0000
-Token: ' society' (ID: 8232), Prob: 0.0000
-Token: ' Empire' (ID: 20448), Prob: 0.0000
-Token: ' er' (ID: 2714), Prob: 0.0000
-Token: ' Age' (ID: 13081), Prob: 0.0000
-Token: ' imperial' (ID: 34279), Prob: 0.0000
-Token: ' song' (ID: 5492), Prob: 0.0000
-Token: ' civilization' (ID: 34917), Prob: 0.0000
-Token: ' of' (ID: 315), Prob: 0.0000
-Token: ' time' (ID: 882), Prob: 0.0000
-Token: ' Classic' (ID: 21837), Prob: 0.0000
-Token: ' prose' (ID: 60701), Prob: 0.0000
-Token: ' literature' (ID: 17206), Prob: 0.0000
-Token: '-era' (ID: 51343), Prob: 0.0000
-Token: ' history' (ID: 3840), Prob: 0.0000
-Token: ' empire' (ID: 31347), Prob: 0.0000
-Token: ' Z' (ID: 1863), Prob: 0.0000
-Token: ' Court' (ID: 7154), Prob: 0.0000
-Token: ' classics' (ID: 52705), Prob: 0.0000
-Token: ' dynamic' (ID: 8741), Prob: 0.0000
-Token: ' X' (ID: 1599), Prob: 0.0000
-Token: ' for' (ID: 369), Prob: 0.0000
-Token: ' movement' (ID: 7203), Prob: 0.0000
-Token: ' Golden' (ID: 17809), Prob: 0.0000
-Token: ' Republic' (ID: 5429), Prob: 0.0000
-Token: ' as' (ID: 438), Prob: 0.0000
+Token: 'Answer' (ID: 16141), Prob: 0.8125
+Token: 'Now' (ID: 7039), Prob: 0.0356
+Token: 'The' (ID: 785), Prob: 0.0245
+Token: 'Okay' (ID: 32313), Prob: 0.0131
+Token: 'Start' (ID: 3479), Prob: 0.0102
+Token: 'B' (ID: 33), Prob: 0.0079
+Token: 'You' (ID: 2610), Prob: 0.0070
+Token: 'Use' (ID: 10253), Prob: 0.0055
+Token: 'In' (ID: 641), Prob: 0.0048
+Token: 'So' (ID: 4416), Prob: 0.0033
+Token: 'No' (ID: 2753), Prob: 0.0026
+Token: 'Check' (ID: 3973), Prob: 0.0023
+Token: 'But' (ID: 3983), Prob: 0.0023
+Token: 'Using' (ID: 16429), Prob: 0.0020
+Token: 'A' (ID: 32), Prob: 0.0018
+Token: 'I' (ID: 40), Prob: 0.0016
+Token: 'Also' (ID: 13394), Prob: 0.0016
+Token: 'Question' (ID: 14582), Prob: 0.0015
+Token: 'Alright' (ID: 71486), Prob: 0.0015
+Token: 'Please' (ID: 5501), Prob: 0.0014
+Token: 'Your' (ID: 7771), Prob: 0.0014
+Token: 'Starting' (ID: 24617), Prob: 0.0014
+Token: 'Once' (ID: 12522), Prob: 0.0013
+Token: 'Generate' (ID: 31115), Prob: 0.0011
+Token: 'This' (ID: 1986), Prob: 0.0011
+Token: 'To' (ID: 1249), Prob: 0.0010
+Token: 'Based' (ID: 28715), Prob: 0.0010
+Token: 'Title' (ID: 3851), Prob: 0.0009
+Token: 'Here' (ID: 8420), Prob: 0.0009
+Token: 'Yes' (ID: 9454), Prob: 0.0009
+Token: 'Example' (ID: 13314), Prob: 0.0008
+Token: 'If' (ID: 2679), Prob: 0.0008
+Token: 'We' (ID: 1654), Prob: 0.0007
+Token: 'An' (ID: 2082), Prob: 0.0007
+Token: 'First' (ID: 5338), Prob: 0.0007
+Token: 'It' (ID: 2132), Prob: 0.0006
+Token: 'Response' (ID: 2582), Prob: 0.0005
+Token: 'Do' (ID: 5404), Prob: 0.0005
+Token: 'Another' (ID: 14037), Prob: 0.0005
+Token: 'Let' (ID: 10061), Prob: 0.0005
+Token: 'For' (ID: 2461), Prob: 0.0005
+Token: 'Not' (ID: 2623), Prob: 0.0005
+Token: 'Take' (ID: 17814), Prob: 0.0004
+Token: 'Be' (ID: 3430), Prob: 0.0004
+Token: 'After' (ID: 6025), Prob: 0.0004
+Token: 'S' (ID: 50), Prob: 0.0004
+Token: 'With' (ID: 2354), Prob: 0.0003
+Token: 'Step' (ID: 8304), Prob: 0.0003
+Token: 'Think' (ID: 38687), Prob: 0.0003
+Token: 'Plan' (ID: 20485), Prob: 0.0003
+Token: 'Beginning' (ID: 75290), Prob: 0.0003
+Token: 'Pl' (ID: 2120), Prob: 0.0003
+Token: 'Only' (ID: 7308), Prob: 0.0003
+Token: 'Make' (ID: 8078), Prob: 0.0003
+Token: 'Are' (ID: 11526), Prob: 0.0003
+Token: 'Solution' (ID: 36842), Prob: 0.0003
+Token: 'Examples' (ID: 40381), Prob: 0.0003
+Token: 'Looking' (ID: 22464), Prob: 0.0003
+Token: 'Choose' (ID: 24051), Prob: 0.0003
+Token: 'Order' (ID: 4431), Prob: 0.0003
+Token: 'Possible' (ID: 65222), Prob: 0.0003
+Token: 'There' (ID: 3862), Prob: 0.0002
+Token: 'Read' (ID: 4418), Prob: 0.0002
+Token: 'Avoid' (ID: 52116), Prob: 0.0002
+Token: 'Is' (ID: 3872), Prob: 0.0002
+Token: 'John' (ID: 13079), Prob: 0.0002
+Token: 'Short' (ID: 12472), Prob: 0.0002
+Token: 'He' (ID: 1519), Prob: 0.0002
+Token: 'That' (ID: 4792), Prob: 0.0002
+Token: 'Tag' (ID: 5668), Prob: 0.0002
+Token: 'However' (ID: 11209), Prob: 0.0002
+Token: 'Give' (ID: 35127), Prob: 0.0002
+Token: 'APA' (ID: 88669), Prob: 0.0002
+Token: 'Include' (ID: 22283), Prob: 0.0002
+Token: 'Create' (ID: 4021), Prob: 0.0002
+Token: 'Don' (ID: 8002), Prob: 0.0001
+Token: 'Two' (ID: 11613), Prob: 0.0001
+Token: 'Given' (ID: 22043), Prob: 0.0001
+Token: 'Always' (ID: 37095), Prob: 0.0001
+Token: 'J' (ID: 41), Prob: 0.0001
+Token: 'Form' (ID: 1838), Prob: 0.0001
+Token: 'My' (ID: 5050), Prob: 0.0001
+Token: 'Remember' (ID: 28590), Prob: 0.0001
+Token: 'Expert' (ID: 74292), Prob: 0.0001
+Token: 'Essay' (ID: 84801), Prob: 0.0001
+Token: 'Certainly' (ID: 95456), Prob: 0.0001
+Token: 'G' (ID: 38), Prob: 0.0001
+Token: 'Ex' (ID: 840), Prob: 0.0001
+Token: 'How' (ID: 4340), Prob: 0.0001
 
 == Ranked Concepts (Clusters) ==
-Rank 1 | Centroid: ' Dyn' | Score: 0.9258
-  Tokens: [' dynasty', ' Dynasty', 'Dyn', ' dyn', ' Dyn', ' dynamic']
-Rank 2 | Centroid: ' period' | Score: 0.0304
-  Tokens: [' period', ' Period', ' periods']
-Rank 3 | Centroid: ' poetry' | Score: 0.0167
-  Tokens: [' poetry', ' Poetry', ' poetic', ' poet', ' poem', ' Po', ' poets', ' poems', ' verse']
-Rank 4 | Centroid: ' era' | Score: 0.0123
-  Tokens: [' era', ' Era', ' epoch', ' er', '-era']
-Rank 5 | Centroid: ' culture' | Score: 0.0005
-  Tokens: [' style', ' culture', ' tradition', ' society', ' civilization', ' history', ' movement']
-Rank 6 | Centroid: ' and' | Score: 0.0005
-  Tokens: [' and', ' in', ' class', ' during', ' or', ' to', ' of', ' Z', ' X', ' for', ' as']
-Rank 7 | Centroid: ' Song' | Score: 0.0003
-  Tokens: [' China', ' Song', ' Chinese', ' song']
-Rank 8 | Centroid: ' court' | Score: 0.0002
-  Tokens: [' court', ' Court']
-Rank 9 | Centroid: ' school' | Score: 0.0002
-  Tokens: [' school', ' School']
-Rank 10 | Centroid: ' time' | Score: 0.0002
-  Tokens: [' times', ' people', ' time']
-Rank 11 | Centroid: ' Classic' | Score: 0.0001
-  Tokens: [' Renaissance', ' genre', ' Classic', ' classics']
-Rank 12 | Centroid: ' age' | Score: 0.0001
-  Tokens: [' age', ' Age']
-Rank 13 | Centroid: ' literary' | Score: 0.0000
-  Tokens: [' literary', ' prose', ' literature']
-Rank 14 | Centroid: ' Empire' | Score: 0.0000
-  Tokens: [' Empire', ' imperial', ' empire', ' Republic']
-Rank 15 | Centroid: ' regime' | Score: 0.0000
-  Tokens: [' regime']
-Rank 16 | Centroid: ' Golden' | Score: 0.0000
-  Tokens: [' Golden']
+Rank 1 | Centroid: 'Answer' | Score: 0.8164
+  Tokens: ['Answer', 'Question', 'Response', 'Solution', 'Expert', 'Essay']
+Rank 2 | Centroid: 'Now' | Score: 0.0396
+  Tokens: ['Now', 'So', 'Let']
+Rank 3 | Centroid: 'This' | Score: 0.0284
+  Tokens: ['The', 'This', 'Here', 'We', 'It', 'There', 'That', 'How']
+Rank 4 | Centroid: 'Okay' | Score: 0.0156
+  Tokens: ['Okay', 'Alright', 'Yes', 'Certainly']
+Rank 5 | Centroid: 'B' | Score: 0.0119
+  Tokens: ['B', 'A', 'I', 'S', 'J', 'G']
+Rank 6 | Centroid: 'Starting' | Score: 0.0119
+  Tokens: ['Start', 'Starting', 'Beginning']
+Rank 7 | Centroid: 'Create' | Score: 0.0110
+  Tokens: ['Use', 'Check', 'Generate', 'Take', 'Think', 'Make', 'Choose', 'Read', 'Give', 'Include', 'Create']
+Rank 8 | Centroid: 'You' | Score: 0.0089
+  Tokens: ['You', 'Your', 'Another']
+Rank 9 | Centroid: 'For' | Score: 0.0074
+  Tokens: ['In', 'To', 'If', 'For', 'With']
+Rank 10 | Centroid: 'However' | Score: 0.0042
+  Tokens: ['But', 'Once', 'After', 'However']
+Rank 11 | Centroid: 'Using' | Score: 0.0033
+  Tokens: ['Using', 'Based', 'Only']
+Rank 12 | Centroid: 'No' | Score: 0.0031
+  Tokens: ['No', 'Not']
+Rank 13 | Centroid: 'Please' | Score: 0.0021
+  Tokens: ['Please', 'Looking', 'Possible', 'Given']
+Rank 14 | Centroid: 'Remember' | Score: 0.0018
+  Tokens: ['Also', 'Always', 'Remember']
+Rank 15 | Centroid: 'Title' | Score: 0.0017
+  Tokens: ['Title', 'Step', 'Order', 'Tag']
+Rank 16 | Centroid: 'Are' | Score: 0.0016
+  Tokens: ['Do', 'Be', 'Are', 'Is', 'Don']
+Rank 17 | Centroid: 'Example' | Score: 0.0011
+  Tokens: ['Example', 'Examples']
+Rank 18 | Centroid: 'An' | Score: 0.0011
+  Tokens: ['An', 'He', 'My']
+Rank 19 | Centroid: 'Pl' | Score: 0.0008
+  Tokens: ['Plan', 'Pl', 'John']
+Rank 20 | Centroid: 'First' | Score: 0.0008
+  Tokens: ['First', 'Two']
+Rank 21 | Centroid: 'Avoid' | Score: 0.0004
+  Tokens: ['Avoid', 'APA']
+Rank 22 | Centroid: 'Form' | Score: 0.0003
+  Tokens: ['Form', 'Ex']
+Rank 23 | Centroid: 'Short' | Score: 0.0002
+  Tokens: ['Short']
 
 **Chosen Concept:** Rank 1

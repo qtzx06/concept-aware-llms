@@ -1,0 +1,132 @@
+--- Step 99 Log ---
+
+== Filtered Candidates ==
+Token: ' correct' (ID: 4396), Prob: 0.9883
+Token: ' form' (ID: 1352), Prob: 0.0059
+Token: ' format' (ID: 3561), Prob: 0.0025
+Token: ' paragraph' (ID: 14311), Prob: 0.0007
+Token: ' required' (ID: 2567), Prob: 0.0005
+Token: ' same' (ID: 1852), Prob: 0.0004
+Token: ' proper' (ID: 6169), Prob: 0.0002
+Token: ' following' (ID: 2701), Prob: 0.0001
+Token: ' first' (ID: 1156), Prob: 0.0001
+Token: ' answer' (ID: 4226), Prob: 0.0001
+Token: ' single' (ID: 3175), Prob: 0.0000
+Token: ' exact' (ID: 4734), Prob: 0.0000
+Token: ' requested' (ID: 11223), Prob: 0.0000
+Token: ' correctly' (ID: 12440), Prob: 0.0000
+Token: ' appropriate' (ID: 8311), Prob: 0.0000
+Token: ' paragraphs' (ID: 42643), Prob: 0.0000
+Token: ' final' (ID: 1590), Prob: 0.0000
+Token: ' only' (ID: 1172), Prob: 0.0000
+Token: ' response' (ID: 2033), Prob: 0.0000
+Token: ' corrected' (ID: 35965), Prob: 0.0000
+Token: ' preferred' (ID: 14890), Prob: 0.0000
+Token: ' style' (ID: 1707), Prob: 0.0000
+Token: ' standard' (ID: 5297), Prob: 0.0000
+Token: ' desired' (ID: 12685), Prob: 0.0000
+Token: ' incorrect' (ID: 15114), Prob: 0.0000
+Token: ' Correct' (ID: 39970), Prob: 0.0000
+Token: ' order' (ID: 1973), Prob: 0.0000
+Token: ' specified' (ID: 5189), Prob: 0.0000
+Token: ' short' (ID: 2805), Prob: 0.0000
+Token: ' complete' (ID: 4583), Prob: 0.0000
+Token: ' current' (ID: 1482), Prob: 0.0000
+Token: ' simple' (ID: 4285), Prob: 0.0000
+Token: ' formal' (ID: 15908), Prob: 0.0000
+Token: ' singular' (ID: 33944), Prob: 0.0000
+Token: ' sentence' (ID: 11652), Prob: 0.0000
+Token: ' selected' (ID: 4091), Prob: 0.0000
+Token: ' bold' (ID: 13939), Prob: 0.0000
+Token: ' right' (ID: 1290), Prob: 0.0000
+Token: ' text' (ID: 1467), Prob: 0.0000
+Token: ' prompt' (ID: 9934), Prob: 0.0000
+Token: ' direct' (ID: 2118), Prob: 0.0000
+Token: ' strict' (ID: 7304), Prob: 0.0000
+Token: ' most' (ID: 1429), Prob: 0.0000
+Token: ' full' (ID: 2480), Prob: 0.0000
+Token: ' allowed' (ID: 5420), Prob: 0.0000
+Token: ' present' (ID: 3042), Prob: 0.0000
+Token: ' original' (ID: 4024), Prob: 0.0000
+Token: ' context' (ID: 2266), Prob: 0.0000
+Token: ' five' (ID: 4236), Prob: 0.0000
+Token: ' request' (ID: 1681), Prob: 0.0000
+Token: ' expected' (ID: 3601), Prob: 0.0000
+Token: ' best' (ID: 1850), Prob: 0.0000
+Token: ' manner' (ID: 11566), Prob: 0.0000
+Token: ' acceptable' (ID: 21555), Prob: 0.0000
+Token: ' formatted' (ID: 23126), Prob: 0.0000
+Token: ' bullet' (ID: 17432), Prob: 0.0000
+Token: ' open' (ID: 1787), Prob: 0.0000
+Token: ' clear' (ID: 2797), Prob: 0.0000
+Token: ' language' (ID: 4128), Prob: 0.0000
+Token: ' sole' (ID: 13309), Prob: 0.0000
+Token: ' Paragraph' (ID: 49351), Prob: 0.0000
+Token: ' beginning' (ID: 7167), Prob: 0.0000
+Token: ' block' (ID: 2504), Prob: 0.0000
+Token: ' accurate' (ID: 13382), Prob: 0.0000
+Token: ' simplest' (ID: 44548), Prob: 0.0000
+Token: ' coherent' (ID: 55787), Prob: 0.0000
+Token: ' given' (ID: 2661), Prob: 0.0000
+Token: ' precise' (ID: 23560), Prob: 0.0000
+Token: ' above' (ID: 3403), Prob: 0.0000
+Token: ' one' (ID: 825), Prob: 0.0000
+Token: ' clean' (ID: 4240), Prob: 0.0000
+Token: ' consistent' (ID: 12966), Prob: 0.0000
+Token: ' markdown' (ID: 50494), Prob: 0.0000
+Token: ' document' (ID: 2197), Prob: 0.0000
+Token: ' specific' (ID: 3151), Prob: 0.0000
+Token: ' Form' (ID: 3377), Prob: 0.0000
+Token: ' fashion' (ID: 11153), Prob: 0.0000
+Token: ' accepted' (ID: 11666), Prob: 0.0000
+Token: ' last' (ID: 1537), Prob: 0.0000
+Token: ' three' (ID: 2326), Prob: 0.0000
+Token: ' positive' (ID: 6785), Prob: 0.0000
+Token: ' instruction' (ID: 7600), Prob: 0.0000
+Token: ' true' (ID: 830), Prob: 0.0000
+Token: ' par' (ID: 1346), Prob: 0.0000
+Token: ' four' (ID: 3040), Prob: 0.0000
+Token: ' concise' (ID: 63594), Prob: 0.0000
+Token: ' content' (ID: 2213), Prob: 0.0000
+
+== Ranked Concepts (Clusters) ==
+Rank 1 | Centroid: ' correct' | Score: 0.9883
+  Tokens: [' correct', ' proper', ' correctly', ' appropriate', ' corrected', ' incorrect', ' Correct', ' accurate']
+Rank 2 | Centroid: ' Form' | Score: 0.0084
+  Tokens: [' form', ' format', ' formal', ' formatted', ' Form']
+Rank 3 | Centroid: ' paragraph' | Score: 0.0007
+  Tokens: [' paragraph', ' paragraphs', ' sentence', ' bullet', ' Paragraph', ' markdown']
+Rank 4 | Centroid: ' desired' | Score: 0.0006
+  Tokens: [' required', ' requested', ' preferred', ' desired', ' specified', ' selected', ' allowed', ' expected', ' acceptable', ' accepted']
+Rank 5 | Centroid: ' following' | Score: 0.0005
+  Tokens: [' same', ' following', ' beginning', ' given', ' above']
+Rank 6 | Centroid: ' first' | Score: 0.0001
+  Tokens: [' first', ' only', ' most', ' best', ' last']
+Rank 7 | Centroid: ' text' | Score: 0.0001
+  Tokens: [' answer', ' response', ' text', ' block', ' document', ' content']
+Rank 8 | Centroid: ' singular' | Score: 0.0000
+  Tokens: [' single', ' short', ' singular', ' bold', ' positive']
+Rank 9 | Centroid: ' precise' | Score: 0.0000
+  Tokens: [' exact', ' strict', ' precise', ' specific']
+Rank 10 | Centroid: ' current' | Score: 0.0000
+  Tokens: [' final', ' current', ' present', ' original']
+Rank 11 | Centroid: ' manner' | Score: 0.0000
+  Tokens: [' style', ' order', ' context', ' manner', ' language', ' fashion']
+Rank 12 | Centroid: ' simple' | Score: 0.0000
+  Tokens: [' standard', ' simple', ' sole', ' simplest']
+Rank 13 | Centroid: ' full' | Score: 0.0000
+  Tokens: [' complete', ' direct', ' full', ' true']
+Rank 14 | Centroid: ' instruction' | Score: 0.0000
+  Tokens: [' prompt', ' request', ' instruction']
+Rank 15 | Centroid: ' four' | Score: 0.0000
+  Tokens: [' five', ' one', ' three', ' four']
+Rank 16 | Centroid: ' clean' | Score: 0.0000
+  Tokens: [' open', ' clear', ' clean']
+Rank 17 | Centroid: ' right' | Score: 0.0000
+  Tokens: [' right']
+Rank 18 | Centroid: ' coherent' | Score: 0.0000
+  Tokens: [' coherent', ' consistent', ' concise']
+Rank 19 | Centroid: ' par' | Score: 0.0000
+  Tokens: [' par']
+
+**Chosen Concept:** Rank 1

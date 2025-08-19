@@ -1,140 +1,155 @@
 --- Step 7 Log ---
 
 == Filtered Candidates ==
-Token: ' series' (ID: 4013), Prob: 0.8750
-Token: ' drama' (ID: 19584), Prob: 0.0635
-Token: ' film' (ID: 4531), Prob: 0.0076
-Token: ' min' (ID: 1308), Prob: 0.0046
-Token: ' episode' (ID: 9234), Prob: 0.0046
-Token: ' dramas' (ID: 87726), Prob: 0.0046
-Token: ' production' (ID: 5670), Prob: 0.0041
-Token: ' mini' (ID: 13420), Prob: 0.0036
-Token: ' adaptation' (ID: 33085), Prob: 0.0036
-Token: ' episodes' (ID: 17770), Prob: 0.0032
-Token: ' movie' (ID: 5700), Prob: 0.0028
-Token: ' show' (ID: 1473), Prob: 0.0025
-Token: ' serial' (ID: 6146), Prob: 0.0025
-Token: ' comedy' (ID: 22358), Prob: 0.0019
-Token: ' and' (ID: 323), Prob: 0.0012
-Token: ' films' (ID: 12351), Prob: 0.0012
-Token: ' productions' (ID: 53148), Prob: 0.0010
-Token: ' play' (ID: 1486), Prob: 0.0009
-Token: ' crime' (ID: 9778), Prob: 0.0009
-Token: ' programme' (ID: 18136), Prob: 0.0008
-Token: ' version' (ID: 2319), Prob: 0.0006
-Token: ' adaptations' (ID: 76665), Prob: 0.0005
-Token: ' sitcom' (ID: 80366), Prob: 0.0005
-Token: ' plays' (ID: 11088), Prob: 0.0005
-Token: ' dram' (ID: 13548), Prob: 0.0004
-Token: ' soap' (ID: 26785), Prob: 0.0004
-Token: ' documentary' (ID: 24954), Prob: 0.0003
-Token: ' programmes' (ID: 37637), Prob: 0.0003
-Token: ' shows' (ID: 4933), Prob: 0.0003
-Token: ' thriller' (ID: 53361), Prob: 0.0003
-Token: ' program' (ID: 2025), Prob: 0.0002
-Token: ' movies' (ID: 9508), Prob: 0.0002
-Token: ' role' (ID: 3476), Prob: 0.0002
-Token: ' pilot' (ID: 17708), Prob: 0.0001
-Token: ' anthology' (ID: 83008), Prob: 0.0001
-Token: ' programs' (ID: 7468), Prob: 0.0001
-Token: ' versions' (ID: 10795), Prob: 0.0001
-Token: ' documentaries' (ID: 87366), Prob: 0.0001
-Token: ' special' (ID: 3281), Prob: 0.0001
-Token: ' roles' (ID: 12783), Prob: 0.0001
-Token: ' broadcast' (ID: 12899), Prob: 0.0001
-Token: ' western' (ID: 18494), Prob: 0.0001
-Token: ' feature' (ID: 4565), Prob: 0.0001
-Token: ' medical' (ID: 6457), Prob: 0.0000
-Token: ' variety' (ID: 8045), Prob: 0.0000
-Token: ' detective' (ID: 44159), Prob: 0.0000
-Token: ' science' (ID: 8038), Prob: 0.0000
-Token: ' fantasy' (ID: 18378), Prob: 0.0000
-Token: ' courtroom' (ID: 58120), Prob: 0.0000
-Token: ' season' (ID: 3200), Prob: 0.0000
-Token: ' screen' (ID: 4171), Prob: 0.0000
-Token: ' Western' (ID: 10867), Prob: 0.0000
-Token: ' fiction' (ID: 16989), Prob: 0.0000
-Token: ' action' (ID: 1917), Prob: 0.0000
-Token: ' spin' (ID: 12616), Prob: 0.0000
-Token: ' serie' (ID: 32878), Prob: 0.0000
-Token: ' advertisements' (ID: 42649), Prob: 0.0000
-Token: ' doc' (ID: 4629), Prob: 0.0000
-Token: ' hit' (ID: 4201), Prob: 0.0000
-Token: ' appearances' (ID: 26255), Prob: 0.0000
-Token: ' short' (ID: 2805), Prob: 0.0000
-Token: ' police' (ID: 4282), Prob: 0.0000
-Token: ' remake' (ID: 58055), Prob: 0.0000
-Token: ' ad' (ID: 993), Prob: 0.0000
-Token: ' work' (ID: 975), Prob: 0.0000
-Token: ' stage' (ID: 6430), Prob: 0.0000
-Token: ' commercial' (ID: 8353), Prob: 0.0000
-Token: ' revival' (ID: 56005), Prob: 0.0000
-Token: ' dr' (ID: 1353), Prob: 0.0000
-Token: ' screens' (ID: 15310), Prob: 0.0000
-Token: ' premiere' (ID: 34852), Prob: 0.0000
-Token: ' specials' (ID: 59774), Prob: 0.0000
-Token: ' horror' (ID: 21452), Prob: 0.0000
-Token: ' produced' (ID: 8947), Prob: 0.0000
-Token: ' Christmas' (ID: 10074), Prob: 0.0000
-Token: ' mystery' (ID: 22531), Prob: 0.0000
-Token: ' television' (ID: 12425), Prob: 0.0000
-Token: ' spy' (ID: 21236), Prob: 0.0000
-Token: ' sequel' (ID: 34761), Prob: 0.0000
-Token: ' Series' (ID: 11131), Prob: 0.0000
-Token: ' adapted' (ID: 29364), Prob: 0.0000
-Token: ' advertisement' (ID: 32689), Prob: 0.0000
-Token: ' Drama' (ID: 46469), Prob: 0.0000
-Token: ' rights' (ID: 3188), Prob: 0.0000
-Token: ' appearance' (ID: 11094), Prob: 0.0000
-Token: ' novel' (ID: 11514), Prob: 0.0000
-Token: ' tie' (ID: 18131), Prob: 0.0000
-Token: '-series' (ID: 56332), Prob: 0.0000
-Token: ' commercials' (ID: 62495), Prob: 0.0000
+Token: ' line' (ID: 1555), Prob: 0.2715
+Token: ' letter' (ID: 6524), Prob: 0.2715
+Token: ' sentence' (ID: 11652), Prob: 0.0879
+Token: ' person' (ID: 1697), Prob: 0.0688
+Token: ' word' (ID: 3409), Prob: 0.0688
+Token: ' paragraph' (ID: 14311), Prob: 0.0366
+Token: ' book' (ID: 2311), Prob: 0.0222
+Token: ' part' (ID: 949), Prob: 0.0209
+Token: ' two' (ID: 1378), Prob: 0.0144
+Token: ' row' (ID: 2802), Prob: 0.0082
+Token: ' question' (ID: 3405), Prob: 0.0068
+Token: ' and' (ID: 323), Prob: 0.0064
+Token: ' half' (ID: 4279), Prob: 0.0064
+Token: ' three' (ID: 2326), Prob: 0.0056
+Token: ' blank' (ID: 10113), Prob: 0.0056
+Token: ' letters' (ID: 11931), Prob: 0.0050
+Token: ' chapter' (ID: 12453), Prob: 0.0044
+Token: ' name' (ID: 829), Prob: 0.0041
+Token: ' box' (ID: 3745), Prob: 0.0034
+Token: ' movie' (ID: 5700), Prob: 0.0027
+Token: ' lesson' (ID: 17755), Prob: 0.0022
+Token: ' four' (ID: 3040), Prob: 0.0019
+Token: ' instance' (ID: 2867), Prob: 0.0018
+Token: ' answer' (ID: 4226), Prob: 0.0017
+Token: ' child' (ID: 1682), Prob: 0.0016
+Token: ' story' (ID: 3364), Prob: 0.0016
+Token: ' place' (ID: 1992), Prob: 0.0015
+Token: ' month' (ID: 2254), Prob: 0.0015
+Token: ' hint' (ID: 13012), Prob: 0.0015
+Token: ' column' (ID: 3250), Prob: 0.0013
+Token: ' lines' (ID: 5128), Prob: 0.0013
+Token: ' mystery' (ID: 22531), Prob: 0.0013
+Token: ' step' (ID: 3019), Prob: 0.0013
+Token: ' of' (ID: 315), Prob: 0.0012
+Token: ' few' (ID: 2421), Prob: 0.0012
+Token: ' page' (ID: 2150), Prob: 0.0011
+Token: ' digit' (ID: 15723), Prob: 0.0011
+Token: ' alphabet' (ID: 27790), Prob: 0.0011
+Token: ' room' (ID: 3054), Prob: 0.0010
+Token: ' passage' (ID: 21085), Prob: 0.0010
+Token: ' house' (ID: 3753), Prob: 0.0009
+Token: ' language' (ID: 4128), Prob: 0.0009
+Token: ' vowel' (ID: 76181), Prob: 0.0009
+Token: ' one' (ID: 825), Prob: 0.0008
+Token: ' meeting' (ID: 6438), Prob: 0.0008
+Token: ' r' (ID: 435), Prob: 0.0007
+Token: ' clue' (ID: 29989), Prob: 0.0007
+Token: ' syll' (ID: 47604), Prob: 0.0007
+Token: ' character' (ID: 3668), Prob: 0.0007
+Token: ' missing' (ID: 7402), Prob: 0.0007
+Token: ' season' (ID: 3200), Prob: 0.0006
+Token: ' layer' (ID: 6193), Prob: 0.0005
+Token: ' occurrence' (ID: 31559), Prob: 0.0005
+Token: ' law' (ID: 2329), Prob: 0.0005
+Token: ' five' (ID: 4236), Prob: 0.0005
+Token: ' list' (ID: 1140), Prob: 0.0005
+Token: ' week' (ID: 2003), Prob: 0.0005
+Token: ' or' (ID: 476), Prob: 0.0004
+Token: ' act' (ID: 1160), Prob: 0.0004
+Token: ' statement' (ID: 5114), Prob: 0.0004
+Token: ' thing' (ID: 3166), Prob: 0.0004
+Token: ' words' (ID: 4244), Prob: 0.0004
+Token: ' woman' (ID: 5220), Prob: 0.0004
+Token: ' green' (ID: 6176), Prob: 0.0004
+Token: ' stanza' (ID: 95436), Prob: 0.0004
+Token: ' group' (ID: 1874), Prob: 0.0004
+Token: ' message' (ID: 1943), Prob: 0.0004
+Token: ' set' (ID: 738), Prob: 0.0003
+Token: ' number' (ID: 1372), Prob: 0.0003
+Token: ' day' (ID: 1899), Prob: 0.0003
+Token: ' article' (ID: 4549), Prob: 0.0003
+Token: ' quarter' (ID: 8338), Prob: 0.0003
+Token: ' rule' (ID: 5912), Prob: 0.0003
+Token: ' position' (ID: 2309), Prob: 0.0003
+Token: ' instruction' (ID: 7600), Prob: 0.0003
+Token: ' red' (ID: 2518), Prob: 0.0003
+Token: ' white' (ID: 4158), Prob: 0.0003
+Token: ' response' (ID: 2033), Prob: 0.0002
+Token: ' review' (ID: 3395), Prob: 0.0002
+Token: ' mention' (ID: 6286), Prob: 0.0002
+Token: ' keyword' (ID: 16174), Prob: 0.0002
+Token: ' parameter' (ID: 5733), Prob: 0.0002
+Token: ' palindrome' (ID: 73097), Prob: 0.0002
+Token: ' section' (ID: 3772), Prob: 0.0002
+Token: ' premise' (ID: 40202), Prob: 0.0002
+Token: ' quadrant' (ID: 93286), Prob: 0.0002
+Token: ' mentioned' (ID: 9733), Prob: 0.0002
+Token: ' unknown' (ID: 9788), Prob: 0.0002
+Token: ' hidden' (ID: 8177), Prob: 0.0002
+Token: ' quote' (ID: 12641), Prob: 0.0002
+Token: ' division' (ID: 12804), Prob: 0.0002
+Token: ' verse' (ID: 32387), Prob: 0.0002
+Token: ' example' (ID: 3110), Prob: 0.0002
+Token: ' puzzle' (ID: 24626), Prob: 0.0002
+Token: ' color' (ID: 1894), Prob: 0.0002
+Token: ' reference' (ID: 5785), Prob: 0.0002
+Token: ' segment' (ID: 10238), Prob: 0.0002
+Token: ' phrase' (ID: 17133), Prob: 0.0002
 
 == Ranked Concepts (Clusters) ==
-Rank 1 | Centroid: ' series' | Score: 0.8789
-  Tokens: [' series', ' serial', ' serie', ' Series', '-series']
-Rank 2 | Centroid: ' drama' | Score: 0.0703
-  Tokens: [' drama', ' dramas', ' comedy', ' dram', ' Drama']
-Rank 3 | Centroid: ' movie' | Score: 0.0127
-  Tokens: [' film', ' movie', ' films', ' sitcom', ' documentary', ' movies', ' documentaries', ' television']
-Rank 4 | Centroid: ' medical' | Score: 0.0085
-  Tokens: [' min', ' mini', ' special', ' medical', ' science', ' spin', ' doc', ' short', ' dr', ' tie']
-Rank 5 | Centroid: ' episode' | Score: 0.0078
-  Tokens: [' episode', ' episodes', ' season']
-Rank 6 | Centroid: ' production' | Score: 0.0051
-  Tokens: [' production', ' productions', ' produced']
-Rank 7 | Centroid: ' adaptation' | Score: 0.0042
-  Tokens: [' adaptation', ' adaptations', ' ad', ' adapted']
-Rank 8 | Centroid: ' shows' | Score: 0.0041
-  Tokens: [' show', ' and', ' shows', ' feature', ' action', ' hit', ' work', ' stage']
-Rank 9 | Centroid: ' plays' | Score: 0.0016
-  Tokens: [' play', ' plays', ' role', ' roles']
-Rank 10 | Centroid: ' programme' | Score: 0.0014
-  Tokens: [' programme', ' programmes', ' program', ' programs']
-Rank 11 | Centroid: ' thriller' | Score: 0.0014
-  Tokens: [' crime', ' thriller', ' detective', ' fantasy', ' courtroom', ' fiction', ' horror', ' mystery', ' spy']
-Rank 12 | Centroid: ' version' | Score: 0.0007
-  Tokens: [' version', ' versions']
-Rank 13 | Centroid: ' soap' | Score: 0.0004
-  Tokens: [' soap']
-Rank 14 | Centroid: ' remake' | Score: 0.0002
-  Tokens: [' anthology', ' remake', ' revival', ' premiere', ' sequel']
-Rank 15 | Centroid: ' western' | Score: 0.0002
-  Tokens: [' western', ' Western', ' police', ' commercial', ' Christmas']
-Rank 16 | Centroid: ' screen' | Score: 0.0002
-  Tokens: [' pilot', ' screen', ' screens']
-Rank 17 | Centroid: ' advertisements' | Score: 0.0001
-  Tokens: [' broadcast', ' advertisements', ' advertisement', ' commercials']
-Rank 18 | Centroid: ' variety' | Score: 0.0000
-  Tokens: [' variety']
-Rank 19 | Centroid: ' appearances' | Score: 0.0000
-  Tokens: [' appearances', ' appearance']
-Rank 20 | Centroid: ' specials' | Score: 0.0000
-  Tokens: [' specials']
-Rank 21 | Centroid: ' rights' | Score: 0.0000
-  Tokens: [' rights']
-Rank 22 | Centroid: ' novel' | Score: 0.0000
-  Tokens: [' novel']
+Rank 1 | Centroid: ' letter' | Score: 0.2793
+  Tokens: [' letter', ' letters', ' digit', ' alphabet', ' character']
+Rank 2 | Centroid: ' line' | Score: 0.2734
+  Tokens: [' line', ' lines']
+Rank 3 | Centroid: ' phrase' | Score: 0.1592
+  Tokens: [' sentence', ' word', ' language', ' statement', ' words', ' keyword', ' quote', ' phrase']
+Rank 4 | Centroid: ' woman' | Score: 0.0708
+  Tokens: [' person', ' child', ' woman']
+Rank 5 | Centroid: ' paragraph' | Score: 0.0383
+  Tokens: [' paragraph', ' passage', ' stanza', ' verse']
+Rank 6 | Centroid: ' three' | Score: 0.0308
+  Tokens: [' two', ' half', ' three', ' four', ' few', ' one', ' five']
+Rank 7 | Centroid: ' and' | Score: 0.0308
+  Tokens: [' part', ' and', ' of', ' r', ' list', ' or', ' group', ' set']
+Rank 8 | Centroid: ' movie' | Score: 0.0287
+  Tokens: [' book', ' movie', ' lesson', ' story']
+Rank 9 | Centroid: ' row' | Score: 0.0113
+  Tokens: [' row', ' column', ' step', ' layer']
+Rank 10 | Centroid: ' puzzle' | Score: 0.0104
+  Tokens: [' blank', ' hint', ' mystery', ' clue', ' missing', ' unknown', ' hidden', ' puzzle']
+Rank 11 | Centroid: ' question' | Score: 0.0089
+  Tokens: [' question', ' answer', ' message']
+Rank 12 | Centroid: ' position' | Score: 0.0063
+  Tokens: [' name', ' place', ' number', ' position']
+Rank 13 | Centroid: ' chapter' | Score: 0.0058
+  Tokens: [' chapter', ' page', ' article']
+Rank 14 | Centroid: ' house' | Score: 0.0053
+  Tokens: [' box', ' room', ' house']
+Rank 15 | Centroid: ' instance' | Score: 0.0035
+  Tokens: [' instance', ' meeting', ' occurrence', ' review', ' example']
+Rank 16 | Centroid: ' month' | Score: 0.0029
+  Tokens: [' month', ' season', ' week', ' day']
+Rank 17 | Centroid: ' vowel' | Score: 0.0018
+  Tokens: [' vowel', ' syll', ' palindrome']
+Rank 18 | Centroid: ' law' | Score: 0.0012
+  Tokens: [' law', ' act', ' rule']
+Rank 19 | Centroid: ' red' | Score: 0.0011
+  Tokens: [' green', ' red', ' white', ' color']
+Rank 20 | Centroid: ' thing' | Score: 0.0007
+  Tokens: [' thing', ' response']
+Rank 21 | Centroid: ' mention' | Score: 0.0006
+  Tokens: [' mention', ' mentioned', ' reference']
+Rank 22 | Centroid: ' quarter' | Score: 0.0005
+  Tokens: [' quarter', ' quadrant']
+Rank 23 | Centroid: ' instruction' | Score: 0.0005
+  Tokens: [' instruction', ' premise']
+Rank 24 | Centroid: ' parameter' | Score: 0.0004
+  Tokens: [' parameter', ' division']
+Rank 25 | Centroid: ' section' | Score: 0.0004
+  Tokens: [' section', ' segment']
 
 **Chosen Concept:** Rank 1

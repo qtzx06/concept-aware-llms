@@ -1,0 +1,120 @@
+--- Step 30 Log ---
+
+== Filtered Candidates ==
+Token: ' dates' (ID: 12713), Prob: 0.4707
+Token: ' date' (ID: 2400), Prob: 0.0928
+Token: ' years' (ID: 1635), Prob: 0.0820
+Token: ' year' (ID: 1042), Prob: 0.0723
+Token: ' details' (ID: 3565), Prob: 0.0087
+Token: ' information' (ID: 1995), Prob: 0.0036
+Token: ' and' (ID: 323), Prob: 0.0022
+Token: ' month' (ID: 2254), Prob: 0.0010
+Token: ' in' (ID: 304), Prob: 0.0008
+Token: ' months' (ID: 3951), Prob: 0.0008
+Token: ' as' (ID: 438), Prob: 0.0006
+Token: ' names' (ID: 5036), Prob: 0.0005
+Token: ' day' (ID: 1899), Prob: 0.0004
+Token: ' days' (ID: 2849), Prob: 0.0004
+Token: ' info' (ID: 3546), Prob: 0.0001
+Token: ' age' (ID: 4231), Prob: 0.0001
+Token: ' of' (ID: 315), Prob: 0.0001
+Token: ' to' (ID: 311), Prob: 0.0001
+Token: ' ages' (ID: 16639), Prob: 0.0001
+Token: ' facts' (ID: 13064), Prob: 0.0001
+Token: ' anniversary' (ID: 21582), Prob: 0.0001
+Token: ' on' (ID: 389), Prob: 0.0001
+Token: ' decades' (ID: 10793), Prob: 0.0001
+Token: 'date' (ID: 1028), Prob: 0.0001
+Token: ' centuries' (ID: 23631), Prob: 0.0001
+Token: ' into' (ID: 1119), Prob: 0.0000
+Token: ' places' (ID: 7482), Prob: 0.0000
+Token: ' by' (ID: 553), Prob: 0.0000
+Token: ' time' (ID: 882), Prob: 0.0000
+Token: ' place' (ID: 1992), Prob: 0.0000
+Token: ' data' (ID: 821), Prob: 0.0000
+Token: ' name' (ID: 829), Prob: 0.0000
+Token: ' rates' (ID: 7813), Prob: 0.0000
+Token: ' statements' (ID: 12239), Prob: 0.0000
+Token: ' both' (ID: 2176), Prob: 0.0000
+Token: ' Dates' (ID: 51624), Prob: 0.0000
+Token: ' from' (ID: 504), Prob: 0.0000
+Token: ' times' (ID: 3039), Prob: 0.0000
+Token: ' certificates' (ID: 34437), Prob: 0.0000
+Token: ' Date' (ID: 2631), Prob: 0.0000
+Token: ' ann' (ID: 2935), Prob: 0.0000
+Token: ' decade' (ID: 13212), Prob: 0.0000
+Token: ' when' (ID: 979), Prob: 0.0000
+Token: ' detail' (ID: 7716), Prob: 0.0000
+Token: ' century' (ID: 9294), Prob: 0.0000
+Token: ' respectively' (ID: 15576), Prob: 0.0000
+Token: ' values' (ID: 2750), Prob: 0.0000
+Token: ' for' (ID: 369), Prob: 0.0000
+Token: ' with' (ID: 448), Prob: 0.0000
+Token: ' positions' (ID: 9892), Prob: 0.0000
+Token: ' birth' (ID: 7194), Prob: 0.0000
+Token: ' at' (ID: 518), Prob: 0.0000
+Token: ' do' (ID: 653), Prob: 0.0000
+Token: ' titles' (ID: 15311), Prob: 0.0000
+Token: ' records' (ID: 7424), Prob: 0.0000
+Token: ' locations' (ID: 10468), Prob: 0.0000
+Token: '-year' (ID: 4666), Prob: 0.0000
+Token: 'dates' (ID: 6394), Prob: 0.0000
+Token: ' if' (ID: 421), Prob: 0.0000
+Token: ' are' (ID: 525), Prob: 0.0000
+Token: 'Date' (ID: 1916), Prob: 0.0000
+Token: ' roles' (ID: 12783), Prob: 0.0000
+Token: ' rate' (ID: 4379), Prob: 0.0000
+Token: 'year' (ID: 3157), Prob: 0.0000
+Token: ' Year' (ID: 9742), Prob: 0.0000
+Token: 'years' (ID: 41720), Prob: 0.0000
+Token: ' periods' (ID: 18346), Prob: 0.0000
+Token: ' within' (ID: 2878), Prob: 0.0000
+Token: ' marks' (ID: 15423), Prob: 0.0000
+Token: ' the' (ID: 279), Prob: 0.0000
+Token: ' status' (ID: 2639), Prob: 0.0000
+Token: ' statement' (ID: 5114), Prob: 0.0000
+Token: ' week' (ID: 2003), Prob: 0.0000
+Token: ' lists' (ID: 11469), Prob: 0.0000
+Token: ' sentence' (ID: 11652), Prob: 0.0000
+Token: ' events' (ID: 4357), Prob: 0.0000
+Token: ' centers' (ID: 18652), Prob: 0.0000
+Token: ' first' (ID: 1156), Prob: 0.0000
+Token: ' during' (ID: 2337), Prob: 0.0000
+Token: ' dated' (ID: 29005), Prob: 0.0000
+Token: ' is' (ID: 374), Prob: 0.0000
+Token: ' along' (ID: 3156), Prob: 0.0000
+Token: ' fields' (ID: 5043), Prob: 0.0000
+
+== Ranked Concepts (Clusters) ==
+Rank 1 | Centroid: ' date' | Score: 0.5625
+  Tokens: [' dates', ' date', 'date', ' Dates', ' Date', 'dates', 'Date', ' dated']
+Rank 2 | Centroid: ' decades' | Score: 0.0830
+  Tokens: [' years', ' months', ' decades', ' centuries', ' decade', ' century', 'years']
+Rank 3 | Centroid: ' year' | Score: 0.0737
+  Tokens: [' year', ' month', ' day', '-year', 'year', ' Year', ' week']
+Rank 4 | Centroid: ' information' | Score: 0.0125
+  Tokens: [' details', ' information', ' info', ' facts', ' data', ' detail']
+Rank 5 | Centroid: ' in' | Score: 0.0041
+  Tokens: [' and', ' in', ' as', ' of', ' to', ' on', ' into', ' by', ' both', ' from', ' when', ' for', ' with', ' at', ' do', ' if', ' are', ' within', ' the', ' first', ' during', ' is', ' along']
+Rank 6 | Centroid: ' names' | Score: 0.0005
+  Tokens: [' names', ' name', ' titles']
+Rank 7 | Centroid: ' days' | Score: 0.0004
+  Tokens: [' days', ' periods']
+Rank 8 | Centroid: ' age' | Score: 0.0002
+  Tokens: [' age', ' ages', ' birth']
+Rank 9 | Centroid: ' certificates' | Score: 0.0001
+  Tokens: [' anniversary', ' certificates', ' ann', ' respectively']
+Rank 10 | Centroid: ' places' | Score: 0.0001
+  Tokens: [' places', ' place', ' positions', ' locations', ' centers']
+Rank 11 | Centroid: ' values' | Score: 0.0001
+  Tokens: [' values', ' records', ' roles', ' marks', ' lists', ' events', ' fields']
+Rank 12 | Centroid: ' time' | Score: 0.0001
+  Tokens: [' time', ' times']
+Rank 13 | Centroid: ' statement' | Score: 0.0000
+  Tokens: [' statements', ' statement', ' sentence']
+Rank 14 | Centroid: ' rates' | Score: 0.0000
+  Tokens: [' rates', ' rate']
+Rank 15 | Centroid: ' status' | Score: 0.0000
+  Tokens: [' status']
+
+**Chosen Concept:** Rank 1
