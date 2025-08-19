@@ -1,0 +1,100 @@
+--- Step 74 Log ---
+
+== Filtered Candidates ==
+Token: ' immediately' (ID: 7069), Prob: 0.7891
+Token: ' earlier' (ID: 6788), Prob: 0.0056
+Token: ' two' (ID: 1378), Prob: 0.0053
+Token: ' later' (ID: 2937), Prob: 0.0032
+Token: ' directly' (ID: 5961), Prob: 0.0032
+Token: ' exactly' (ID: 6896), Prob: 0.0028
+Token: ' prior' (ID: 4867), Prob: 0.0022
+Token: ' next' (ID: 1790), Prob: 0.0018
+Token: ' one' (ID: 825), Prob: 0.0016
+Token: ' three' (ID: 2326), Prob: 0.0013
+Token: ' right' (ID: 1290), Prob: 0.0012
+Token: ' previously' (ID: 8597), Prob: 0.0011
+Token: ' within' (ID: 2878), Prob: 0.0006
+Token: ' currently' (ID: 5023), Prob: 0.0006
+Token: ' shortly' (ID: 19620), Prob: 0.0006
+Token: ' initially' (ID: 15102), Prob: 0.0005
+Token: ' yesterday' (ID: 13671), Prob: 0.0005
+Token: ' immediate' (ID: 13922), Prob: 0.0005
+Token: ' today' (ID: 3351), Prob: 0.0004
+Token: ' immedi' (ID: 5551), Prob: 0.0004
+Token: ' afterward' (ID: 47943), Prob: 0.0003
+Token: ' upon' (ID: 5193), Prob: 0.0003
+Token: ' instantly' (ID: 21818), Prob: 0.0003
+Token: ' previous' (ID: 3681), Prob: 0.0002
+Token: ' behind' (ID: 4815), Prob: 0.0002
+Token: ' Immediately' (ID: 68252), Prob: 0.0002
+Token: ' five' (ID: 4236), Prob: 0.0002
+Token: ' hours' (ID: 4115), Prob: 0.0002
+Token: ' subsequently' (ID: 27420), Prob: 0.0002
+Token: ' beyond' (ID: 7797), Prob: 0.0002
+Token: ' originally' (ID: 13214), Prob: 0.0002
+Token: ' minutes' (ID: 4420), Prob: 0.0001
+Token: ' soon' (ID: 5135), Prob: 0.0001
+Token: ' recently' (ID: 5926), Prob: 0.0001
+Token: ' several' (ID: 3807), Prob: 0.0001
+Token: ' tomorrow' (ID: 16577), Prob: 0.0001
+Token: ' simultaneously' (ID: 24303), Prob: 0.0001
+Token: ' following' (ID: 2701), Prob: 0.0001
+Token: ' seven' (ID: 8094), Prob: 0.0001
+Token: ' afterwards' (ID: 26807), Prob: 0.0001
+Token: ' beforehand' (ID: 51059), Prob: 0.0001
+Token: ' less' (ID: 2686), Prob: 0.0001
+Token: ' subsequent' (ID: 17420), Prob: 0.0001
+Token: ' adjacent' (ID: 23942), Prob: 0.0001
+Token: ' last' (ID: 1537), Prob: 0.0001
+Token: ' four' (ID: 3040), Prob: 0.0001
+Token: ' normally' (ID: 14279), Prob: 0.0001
+Token: ' seconds' (ID: 6486), Prob: 0.0001
+Token: ' sooner' (ID: 30273), Prob: 0.0001
+Token: ' current' (ID: 1482), Prob: 0.0001
+Token: ' either' (ID: 2987), Prob: 0.0001
+Token: ' twice' (ID: 10917), Prob: 0.0001
+Token: ' locally' (ID: 23490), Prob: 0.0001
+Token: 'Immediately' (ID: 95693), Prob: 0.0001
+Token: ' already' (ID: 2669), Prob: 0.0001
+Token: ' time' (ID: 882), Prob: 0.0001
+Token: ' preceding' (ID: 37746), Prob: 0.0001
+Token: ' first' (ID: 1156), Prob: 0.0001
+Token: ' ten' (ID: 5779), Prob: 0.0001
+
+== Ranked Concepts (Clusters) ==
+Rank 1 | Concept Score: 0.7891
+  Tokens: [' immediately', ' immediate', ' immedi', ' instantly', ' Immediately', 'Immediately']
+Rank 2 | Concept Score: 0.0081
+  Tokens: [' earlier', ' prior', ' previous', ' preceding']
+Rank 3 | Concept Score: 0.0073
+  Tokens: [' two', ' three', ' five', ' several', ' seven', ' four', ' twice', ' ten']
+Rank 4 | Concept Score: 0.0061
+  Tokens: [' directly', ' exactly', ' either']
+Rank 5 | Concept Score: 0.0039
+  Tokens: [' later', ' afterward', ' subsequently', ' afterwards', ' subsequent']
+Rank 6 | Concept Score: 0.0029
+  Tokens: [' one', ' right', ' less']
+Rank 7 | Concept Score: 0.0018
+  Tokens: [' previously', ' initially', ' originally', ' already']
+Rank 8 | Concept Score: 0.0018
+  Tokens: [' next']
+Rank 9 | Concept Score: 0.0012
+  Tokens: [' within', ' upon', ' behind', ' beyond']
+Rank 10 | Concept Score: 0.0010
+  Tokens: [' yesterday', ' today', ' tomorrow']
+Rank 11 | Concept Score: 0.0008
+  Tokens: [' shortly', ' soon', ' sooner']
+Rank 12 | Concept Score: 0.0008
+  Tokens: [' currently', ' recently', ' current']
+Rank 13 | Concept Score: 0.0004
+  Tokens: [' hours', ' minutes', ' seconds', ' time']
+Rank 14 | Concept Score: 0.0003
+  Tokens: [' simultaneously', ' normally', ' locally']
+Rank 15 | Concept Score: 0.0002
+  Tokens: [' following', ' adjacent']
+Rank 16 | Concept Score: 0.0001
+  Tokens: [' last', ' first']
+Rank 17 | Concept Score: 0.0001
+  Tokens: [' beforehand']
+
+**Chosen Concept:** Rank 1 with score 0.7891

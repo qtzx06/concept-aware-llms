@@ -1,0 +1,92 @@
+--- Step 73 Log ---
+
+== Filtered Candidates ==
+Token: ' fourteen' (ID: 62260), Prob: 0.9453
+Token: ' four' (ID: 3040), Prob: 0.0286
+Token: ' sixteen' (ID: 58039), Prob: 0.0105
+Token: ' thirteen' (ID: 60659), Prob: 0.0082
+Token: ' fifteen' (ID: 36655), Prob: 0.0049
+Token: ' twelve' (ID: 29235), Prob: 0.0021
+Token: ' eighteen' (ID: 62034), Prob: 0.0005
+Token: ' forty' (ID: 35398), Prob: 0.0003
+Token: ' seventeen' (ID: 81397), Prob: 0.0001
+Token: ' eleven' (ID: 44214), Prob: 0.0001
+Token: ' eight' (ID: 8063), Prob: 0.0001
+Token: ' twenty' (ID: 17073), Prob: 0.0001
+Token: ' nineteen' (ID: 93835), Prob: 0.0000
+Token: ' ten' (ID: 5779), Prob: 0.0000
+Token: ' fif' (ID: 11128), Prob: 0.0000
+Token: 'four' (ID: 34024), Prob: 0.0000
+Token: ' Four' (ID: 13322), Prob: 0.0000
+Token: ' XIV' (ID: 93415), Prob: 0.0000
+Token: ' one' (ID: 825), Prob: 0.0000
+Token: ' vier' (ID: 57093), Prob: 0.0000
+Token: ' quarter' (ID: 8338), Prob: 0.0000
+Token: 'irteen' (ID: 44904), Prob: 0.0000
+Token: ' number' (ID: 1372), Prob: 0.0000
+Token: '-four' (ID: 41017), Prob: 0.0000
+Token: ' ele' (ID: 10510), Prob: 0.0000
+Token: ' quatre' (ID: 98209), Prob: 0.0000
+Token: ' sevent' (ID: 21373), Prob: 0.0000
+Token: ' FOUR' (ID: 74091), Prob: 0.0000
+Token: ' player' (ID: 2781), Prob: 0.0000
+Token: ' six' (ID: 4743), Prob: 0.0000
+Token: ' cardinal' (ID: 55880), Prob: 0.0000
+Token: ' fourth' (ID: 11737), Prob: 0.0000
+Token: ' fours' (ID: 89620), Prob: 0.0000
+Token: ' nine' (ID: 11627), Prob: 0.0000
+Token: ' dozen' (ID: 20403), Prob: 0.0000
+Token: ' nineteenth' (ID: 64989), Prob: 0.0000
+Token: ' turn' (ID: 2484), Prob: 0.0000
+Token: ' five' (ID: 4236), Prob: 0.0000
+Token: ' quart' (ID: 40276), Prob: 0.0000
+Token: ' cuatro' (ID: 76008), Prob: 0.0000
+Token: ' market' (ID: 3081), Prob: 0.0000
+Token: ' customer' (ID: 6002), Prob: 0.0000
+Token: ' client' (ID: 2943), Prob: 0.0000
+Token: ' single' (ID: 3175), Prob: 0.0000
+Token: ' plus' (ID: 5519), Prob: 0.0000
+Token: ' court' (ID: 5473), Prob: 0.0000
+Token: 'Four' (ID: 26972), Prob: 0.0000
+Token: ' hundred' (ID: 7739), Prob: 0.0000
+Token: ' term' (ID: 4647), Prob: 0.0000
+Token: ' fou' (ID: 56525), Prob: 0.0000
+Token: ' following' (ID: 2701), Prob: 0.0000
+Token: ' seven' (ID: 8094), Prob: 0.0000
+Token: ' zero' (ID: 7168), Prob: 0.0000
+Token: ' man' (ID: 883), Prob: 0.0000
+Token: ' squ' (ID: 8167), Prob: 0.0000
+Token: ' sum' (ID: 2629), Prob: 0.0000
+Token: ' forth' (ID: 13241), Prob: 0.0000
+
+== Ranked Concepts (Clusters) ==
+Rank 1 | Concept Score: 0.9727
+  Tokens: [' fourteen', ' sixteen', ' thirteen', ' fifteen', ' twelve', ' eighteen', ' forty', ' seventeen', ' eleven', ' twenty', ' nineteen', ' ten']
+Rank 2 | Concept Score: 0.0286
+  Tokens: [' four', 'four', ' Four', ' vier', '-four', ' quatre', ' FOUR', ' fours', ' cuatro', 'Four']
+Rank 3 | Concept Score: 0.0001
+  Tokens: [' eight', ' six', ' nine', ' five', ' seven']
+Rank 4 | Concept Score: 0.0000
+  Tokens: [' fif', ' ele', ' sevent', ' nineteenth']
+Rank 5 | Concept Score: 0.0000
+  Tokens: [' one', ' single', ' following', ' zero', ' man']
+Rank 6 | Concept Score: 0.0000
+  Tokens: [' quarter', ' turn', ' quart', ' squ']
+Rank 7 | Concept Score: 0.0000
+  Tokens: [' XIV']
+Rank 8 | Concept Score: 0.0000
+  Tokens: [' number', ' cardinal', ' sum']
+Rank 9 | Concept Score: 0.0000
+  Tokens: ['irteen']
+Rank 10 | Concept Score: 0.0000
+  Tokens: [' player', ' market', ' customer', ' client']
+Rank 11 | Concept Score: 0.0000
+  Tokens: [' dozen', ' hundred']
+Rank 12 | Concept Score: 0.0000
+  Tokens: [' fourth', ' forth']
+Rank 13 | Concept Score: 0.0000
+  Tokens: [' plus', ' court', ' fou']
+Rank 14 | Concept Score: 0.0000
+  Tokens: [' term']
+
+**Chosen Concept:** Rank 1 with score 0.9727

@@ -1,0 +1,147 @@
+--- Step 18 Log ---
+
+== Filtered Candidates ==
+Token: ' destination' (ID: 9106), Prob: 0.2676
+Token: ' time' (ID: 882), Prob: 0.1050
+Token: ' location' (ID: 3728), Prob: 0.0767
+Token: ' point' (ID: 1459), Prob: 0.0635
+Token: ' friend' (ID: 4238), Prob: 0.0320
+Token: ' position' (ID: 2309), Prob: 0.0233
+Token: ' future' (ID: 3853), Prob: 0.0233
+Token: ' place' (ID: 1992), Prob: 0.0220
+Token: ' present' (ID: 3042), Prob: 0.0220
+Token: ' planet' (ID: 11580), Prob: 0.0133
+Token: ' moon' (ID: 17788), Prob: 0.0125
+Token: ' next' (ID: 1790), Prob: 0.0076
+Token: ' past' (ID: 3267), Prob: 0.0076
+Token: ' city' (ID: 3283), Prob: 0.0071
+Token: ' target' (ID: 2169), Prob: 0.0059
+Token: ' end' (ID: 835), Prob: 0.0056
+Token: ' first' (ID: 1156), Prob: 0.0056
+Token: ' nearest' (ID: 23480), Prob: 0.0052
+Token: ' date' (ID: 2400), Prob: 0.0049
+Token: ' correct' (ID: 4396), Prob: 0.0049
+Token: ' Moon' (ID: 17330), Prob: 0.0046
+Token: ' current' (ID: 1482), Prob: 0.0043
+Token: ' space' (ID: 3550), Prob: 0.0041
+Token: ' person' (ID: 1697), Prob: 0.0038
+Token: ' exact' (ID: 4734), Prob: 0.0036
+Token: ' desired' (ID: 12685), Prob: 0.0036
+Token: ' spot' (ID: 7702), Prob: 0.0030
+Token: ' day' (ID: 1899), Prob: 0.0028
+Token: ' spaceship' (ID: 84842), Prob: 0.0028
+Token: ' original' (ID: 4024), Prob: 0.0026
+Token: ' world' (ID: 1879), Prob: 0.0025
+Token: ' home' (ID: 2114), Prob: 0.0025
+Token: ' surface' (ID: 7329), Prob: 0.0025
+Token: ' Earth' (ID: 9237), Prob: 0.0025
+Token: ' one' (ID: 825), Prob: 0.0023
+Token: ' second' (ID: 2086), Prob: 0.0022
+Token: ' moment' (ID: 4445), Prob: 0.0020
+Token: ' meeting' (ID: 6438), Prob: 0.0020
+Token: ' star' (ID: 6774), Prob: 0.0020
+Token: ' given' (ID: 2661), Prob: 0.0019
+Token: ' far' (ID: 3041), Prob: 0.0019
+Token: ' room' (ID: 3054), Prob: 0.0019
+Token: ' front' (ID: 4065), Prob: 0.0019
+Token: ' hour' (ID: 6460), Prob: 0.0019
+Token: ' address' (ID: 2621), Prob: 0.0018
+Token: ' object' (ID: 1633), Prob: 0.0016
+Token: ' origin' (ID: 6238), Prob: 0.0016
+Token: ' opposite' (ID: 14002), Prob: 0.0016
+Token: ' arrival' (ID: 18647), Prob: 0.0016
+Token: ' specific' (ID: 3151), Prob: 0.0015
+Token: ' previous' (ID: 3681), Prob: 0.0015
+Token: ' lunch' (ID: 15786), Prob: 0.0015
+Token: ' recipient' (ID: 21713), Prob: 0.0015
+Token: ' town' (ID: 6290), Prob: 0.0014
+Token: ' plane' (ID: 11031), Prob: 0.0013
+Token: ' landing' (ID: 20327), Prob: 0.0013
+Token: ' specified' (ID: 5189), Prob: 0.0012
+Token: ' right' (ID: 1290), Prob: 0.0011
+Token: ' age' (ID: 4231), Prob: 0.0011
+Token: ' land' (ID: 4268), Prob: 0.0011
+Token: ' station' (ID: 8056), Prob: 0.0011
+Token: ' appropriate' (ID: 8311), Prob: 0.0011
+Token: ' corresponding' (ID: 12159), Prob: 0.0011
+Token: ' site' (ID: 2747), Prob: 0.0010
+Token: ' event' (ID: 1538), Prob: 0.0010
+Token: ' starting' (ID: 5916), Prob: 0.0010
+Token: ' coordinates' (ID: 13934), Prob: 0.0010
+Token: ' closest' (ID: 18093), Prob: 0.0010
+Token: ' following' (ID: 2701), Prob: 0.0009
+Token: ' area' (ID: 3082), Prob: 0.0009
+Token: ' ship' (ID: 8284), Prob: 0.0009
+Token: ' passenger' (ID: 23148), Prob: 0.0009
+Token: ' galaxy' (ID: 33161), Prob: 0.0009
+Token: ' new' (ID: 501), Prob: 0.0009
+Token: ' source' (ID: 2530), Prob: 0.0009
+Token: ' sun' (ID: 7015), Prob: 0.0009
+Token: ' universe' (ID: 15494), Prob: 0.0009
+Token: ' traveler' (ID: 62765), Prob: 0.0009
+Token: ' country' (ID: 3146), Prob: 0.0008
+Token: ' points' (ID: 3501), Prob: 0.0008
+Token: ' region' (ID: 5537), Prob: 0.0008
+Token: ' instant' (ID: 9690), Prob: 0.0008
+Token: ' final' (ID: 1590), Prob: 0.0008
+Token: ' restaurant' (ID: 10729), Prob: 0.0008
+Token: ' astronaut' (ID: 46633), Prob: 0.0008
+Token: ' house' (ID: 3753), Prob: 0.0007
+Token: ' seat' (ID: 10723), Prob: 0.0007
+Token: ' floor' (ID: 6422), Prob: 0.0007
+Token: ' chosen' (ID: 11882), Prob: 0.0007
+Token: ' terminal' (ID: 15022), Prob: 0.0007
+Token: ' airport' (ID: 16733), Prob: 0.0007
+Token: ' alien' (ID: 19594), Prob: 0.0007
+Token: ' distant' (ID: 28727), Prob: 0.0007
+Token: ' start' (ID: 1191), Prob: 0.0006
+Token: ' last' (ID: 1537), Prob: 0.0006
+Token: ' node' (ID: 2436), Prob: 0.0006
+
+== Ranked Concepts (Clusters) ==
+Rank 1 | Concept Score: 0.2793
+  Tokens: [' destination', ' target', ' original', ' origin', ' source']
+Rank 2 | Concept Score: 0.1245
+  Tokens: [' location', ' position', ' place', ' site', ' area', ' region']
+Rank 3 | Concept Score: 0.1128
+  Tokens: [' time', ' date', ' address', ' age']
+Rank 4 | Concept Score: 0.0674
+  Tokens: [' point', ' spot', ' points']
+Rank 5 | Concept Score: 0.0596
+  Tokens: [' future', ' present', ' past', ' current', ' previous', ' following']
+Rank 6 | Concept Score: 0.0403
+  Tokens: [' friend', ' spaceship', ' ship', ' passenger', ' traveler', ' restaurant', ' astronaut', ' airport', ' alien']
+Rank 7 | Concept Score: 0.0376
+  Tokens: [' planet', ' moon', ' Moon', ' Earth', ' star', ' galaxy', ' sun', ' universe']
+Rank 8 | Concept Score: 0.0195
+  Tokens: [' correct', ' exact', ' desired', ' given', ' specific', ' specified', ' appropriate', ' corresponding', ' chosen']
+Rank 9 | Concept Score: 0.0178
+  Tokens: [' next', ' first', ' second', ' front', ' last']
+Rank 10 | Concept Score: 0.0118
+  Tokens: [' city', ' world', ' town', ' country']
+Rank 11 | Concept Score: 0.0104
+  Tokens: [' nearest', ' far', ' opposite', ' closest', ' distant']
+Rank 12 | Concept Score: 0.0089
+  Tokens: [' space', ' surface', ' landing', ' land']
+Rank 13 | Concept Score: 0.0079
+  Tokens: [' end', ' starting', ' final', ' start']
+Rank 14 | Concept Score: 0.0076
+  Tokens: [' day', ' moment', ' hour', ' instant']
+Rank 15 | Concept Score: 0.0057
+  Tokens: [' home', ' room', ' house', ' floor']
+Rank 16 | Concept Score: 0.0055
+  Tokens: [' person', ' station', ' node']
+Rank 17 | Concept Score: 0.0043
+  Tokens: [' one', ' right', ' new']
+Rank 18 | Concept Score: 0.0038
+  Tokens: [' arrival', ' recipient', ' terminal']
+Rank 19 | Concept Score: 0.0035
+  Tokens: [' meeting', ' lunch']
+Rank 20 | Concept Score: 0.0025
+  Tokens: [' object', ' event']
+Rank 21 | Concept Score: 0.0020
+  Tokens: [' plane', ' seat']
+Rank 22 | Concept Score: 0.0010
+  Tokens: [' coordinates']
+
+**Chosen Concept:** Rank 1 with score 0.2793

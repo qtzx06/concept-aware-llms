@@ -1,0 +1,121 @@
+--- Step 145 Log ---
+
+== Filtered Candidates ==
+Token: ' following' (ID: 2701), Prob: 0.8594
+Token: ' question' (ID: 3405), Prob: 0.1318
+Token: ' questions' (ID: 4755), Prob: 0.0040
+Token: ' Following' (ID: 22713), Prob: 0.0008
+Token: ' follow' (ID: 1795), Prob: 0.0003
+Token: ' given' (ID: 2661), Prob: 0.0002
+Token: 'following' (ID: 42918), Prob: 0.0001
+Token: ' prompt' (ID: 9934), Prob: 0.0001
+Token: ' problem' (ID: 3491), Prob: 0.0001
+Token: ' statement' (ID: 5114), Prob: 0.0001
+Token: ' sentence' (ID: 11652), Prob: 0.0001
+Token: ' main' (ID: 1887), Prob: 0.0000
+Token: ' follows' (ID: 11017), Prob: 0.0000
+Token: ' Question' (ID: 15846), Prob: 0.0000
+Token: ' query' (ID: 3239), Prob: 0.0000
+Token: ' answer' (ID: 4226), Prob: 0.0000
+Token: ' fact' (ID: 2097), Prob: 0.0000
+Token: ' Questions' (ID: 23382), Prob: 0.0000
+Token: ' two' (ID: 1378), Prob: 0.0000
+Token: ' next' (ID: 1790), Prob: 0.0000
+Token: ' final' (ID: 1590), Prob: 0.0000
+Token: ' opening' (ID: 8568), Prob: 0.0000
+Token: ' statements' (ID: 12239), Prob: 0.0000
+Token: ' passage' (ID: 21085), Prob: 0.0000
+Token: ' table' (ID: 1965), Prob: 0.0000
+Token: ' truth' (ID: 8046), Prob: 0.0000
+Token: ' three' (ID: 2326), Prob: 0.0000
+Token: ' foll' (ID: 51406), Prob: 0.0000
+Token: ' first' (ID: 1156), Prob: 0.0000
+Token: 'question' (ID: 7841), Prob: 0.0000
+Token: ' subsequent' (ID: 17420), Prob: 0.0000
+Token: ' scenario' (ID: 15048), Prob: 0.0000
+Token: ' conclusion' (ID: 16688), Prob: 0.0000
+Token: ' assistant' (ID: 17847), Prob: 0.0000
+Token: ' prompts' (ID: 50932), Prob: 0.0000
+Token: ' best' (ID: 1850), Prob: 0.0000
+Token: ' four' (ID: 3040), Prob: 0.0000
+Token: ' correct' (ID: 4396), Prob: 0.0000
+Token: ' multiple' (ID: 5248), Prob: 0.0000
+Token: ' ultimate' (ID: 16724), Prob: 0.0000
+Token: ' fol' (ID: 9443), Prob: 0.0000
+Token: ' second' (ID: 2086), Prob: 0.0000
+Token: ' paragraph' (ID: 14311), Prob: 0.0000
+Token: ' initial' (ID: 2856), Prob: 0.0000
+Token: ' provided' (ID: 3897), Prob: 0.0000
+Token: ' objective' (ID: 16538), Prob: 0.0000
+Token: ' sentences' (ID: 22870), Prob: 0.0000
+Token: '(question' (ID: 40057), Prob: 0.0000
+Token: ' original' (ID: 4024), Prob: 0.0000
+Token: ' issue' (ID: 4265), Prob: 0.0000
+Token: ' assumption' (ID: 24335), Prob: 0.0000
+Token: ' Open' (ID: 5264), Prob: 0.0000
+Token: ' questionnaire' (ID: 47864), Prob: 0.0000
+Token: ' number' (ID: 1372), Prob: 0.0000
+Token: ' situation' (ID: 6534), Prob: 0.0000
+Token: ' summary' (ID: 12126), Prob: 0.0000
+Token: ' five' (ID: 4236), Prob: 0.0000
+Token: ' appropriate' (ID: 8311), Prob: 0.0000
+Token: ' completion' (ID: 9755), Prob: 0.0000
+Token: ' bottom' (ID: 5622), Prob: 0.0000
+Token: ' closing' (ID: 15316), Prob: 0.0000
+Token: ' siguientes' (ID: 85861), Prob: 0.0000
+Token: ' one' (ID: 825), Prob: 0.0000
+Token: ' research' (ID: 3412), Prob: 0.0000
+Token: ' accompanying' (ID: 23534), Prob: 0.0000
+Token: ' premise' (ID: 40202), Prob: 0.0000
+Token: ' comprehension' (ID: 61094), Prob: 0.0000
+Token: ' key' (ID: 1376), Prob: 0.0000
+Token: ' net' (ID: 4179), Prob: 0.0000
+Token: ' Given' (ID: 16246), Prob: 0.0000
+Token: ' true' (ID: 830), Prob: 0.0000
+Token: ' open' (ID: 1787), Prob: 0.0000
+Token: ' goal' (ID: 5795), Prob: 0.0000
+Token: ' phrase' (ID: 17133), Prob: 0.0000
+Token: ' assertion' (ID: 27419), Prob: 0.0000
+Token: ' inference' (ID: 44378), Prob: 0.0000
+Token: ' article' (ID: 4549), Prob: 0.0000
+Token: ' reasoning' (ID: 32711), Prob: 0.0000
+
+== Ranked Concepts (Clusters) ==
+Rank 1 | Concept Score: 0.8594
+  Tokens: [' following', ' Following', ' follow', 'following', ' follows', ' foll', ' fol', ' siguientes']
+Rank 2 | Concept Score: 0.1357
+  Tokens: [' question', ' questions', ' Question', ' answer', ' Questions', 'question', '(question', ' questionnaire']
+Rank 3 | Concept Score: 0.0002
+  Tokens: [' given', ' provided', ' Given']
+Rank 4 | Concept Score: 0.0001
+  Tokens: [' statement', ' sentence', ' statements', ' paragraph', ' sentences', ' phrase', ' article']
+Rank 5 | Concept Score: 0.0001
+  Tokens: [' prompt', ' prompts']
+Rank 6 | Concept Score: 0.0001
+  Tokens: [' problem', ' scenario', ' issue', ' situation']
+Rank 7 | Concept Score: 0.0001
+  Tokens: [' main', ' next', ' table', ' first', ' best', ' second', ' number', ' bottom', ' key', ' net']
+Rank 8 | Concept Score: 0.0000
+  Tokens: [' two', ' three', ' four', ' multiple', ' five', ' one']
+Rank 9 | Concept Score: 0.0000
+  Tokens: [' fact', ' truth', ' correct', ' true']
+Rank 10 | Concept Score: 0.0000
+  Tokens: [' passage', ' conclusion', ' assistant', ' assumption', ' completion', ' premise', ' comprehension', ' assertion', ' inference', ' reasoning']
+Rank 11 | Concept Score: 0.0000
+  Tokens: [' query']
+Rank 12 | Concept Score: 0.0000
+  Tokens: [' final', ' ultimate', ' initial', ' original']
+Rank 13 | Concept Score: 0.0000
+  Tokens: [' opening', ' Open', ' closing', ' open']
+Rank 14 | Concept Score: 0.0000
+  Tokens: [' subsequent', ' accompanying']
+Rank 15 | Concept Score: 0.0000
+  Tokens: [' objective', ' goal']
+Rank 16 | Concept Score: 0.0000
+  Tokens: [' summary']
+Rank 17 | Concept Score: 0.0000
+  Tokens: [' appropriate']
+Rank 18 | Concept Score: 0.0000
+  Tokens: [' research']
+
+**Chosen Concept:** Rank 1 with score 0.8594

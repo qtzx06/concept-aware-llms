@@ -1,0 +1,61 @@
+--- Step 85 Log ---
+
+== Filtered Candidates ==
+Token: ' Let' (ID: 6771), Prob: 0.2412
+Token: ' Also' (ID: 7281), Prob: 0.0164
+Token: ' Maybe' (ID: 10696), Prob: 0.0078
+Token: ' Based' (ID: 20205), Prob: 0.0042
+Token: ' However' (ID: 4354), Prob: 0.0039
+Token: ' Perhaps' (ID: 18765), Prob: 0.0037
+Token: ' Therefore' (ID: 15277), Prob: 0.0030
+Token: ' Another' (ID: 13293), Prob: 0.0024
+Token: ' Please' (ID: 5209), Prob: 0.0022
+Token: ' According' (ID: 10548), Prob: 0.0022
+Token: ' Stockholm' (ID: 52082), Prob: 0.0022
+Token: ' One' (ID: 3776), Prob: 0.0015
+Token: ' Source' (ID: 8748), Prob: 0.0014
+Token: ' Learning' (ID: 20909), Prob: 0.0014
+Token: ' Still' (ID: 16377), Prob: 0.0013
+Token: ' Since' (ID: 8704), Prob: 0.0011
+Token: ' See' (ID: 3496), Prob: 0.0010
+Token: ' Using' (ID: 12091), Prob: 0.0010
+Token: ' Hence' (ID: 31040), Prob: 0.0010
+Token: ' Different' (ID: 33396), Prob: 0.0010
+Token: ' Even' (ID: 7418), Prob: 0.0009
+Token: ' Think' (ID: 21149), Prob: 0.0009
+Token: ' Additionally' (ID: 22406), Prob: 0.0009
+Token: ' Could' (ID: 16503), Prob: 0.0009
+Token: ' Learn' (ID: 14934), Prob: 0.0008
+Token: ' Thus' (ID: 14301), Prob: 0.0008
+
+== Ranked Concepts (Clusters) ==
+Rank 1 | Concept Score: 0.2422
+  Tokens: [' Let', ' Since']
+Rank 2 | Concept Score: 0.0211
+  Tokens: [' Also', ' However', ' Additionally']
+Rank 3 | Concept Score: 0.0123
+  Tokens: [' Maybe', ' Perhaps', ' Could']
+Rank 4 | Concept Score: 0.0074
+  Tokens: [' Based', ' According', ' Using']
+Rank 5 | Concept Score: 0.0048
+  Tokens: [' Therefore', ' Hence', ' Thus']
+Rank 6 | Concept Score: 0.0039
+  Tokens: [' Another', ' One']
+Rank 7 | Concept Score: 0.0023
+  Tokens: [' Learning', ' Learn']
+Rank 8 | Concept Score: 0.0022
+  Tokens: [' Stockholm']
+Rank 9 | Concept Score: 0.0022
+  Tokens: [' Please']
+Rank 10 | Concept Score: 0.0020
+  Tokens: [' See', ' Think']
+Rank 11 | Concept Score: 0.0014
+  Tokens: [' Source']
+Rank 12 | Concept Score: 0.0013
+  Tokens: [' Still']
+Rank 13 | Concept Score: 0.0010
+  Tokens: [' Different']
+Rank 14 | Concept Score: 0.0009
+  Tokens: [' Even']
+
+**Chosen Concept:** Rank 1 with score 0.2422

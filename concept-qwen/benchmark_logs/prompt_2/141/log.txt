@@ -1,0 +1,92 @@
+--- Step 141 Log ---
+
+== Filtered Candidates ==
+Token: ' given' (ID: 2661), Prob: 0.3418
+Token: ' provided' (ID: 3897), Prob: 0.2656
+Token: ' presented' (ID: 10449), Prob: 0.0281
+Token: ' described' (ID: 7481), Prob: 0.0017
+Token: ' available' (ID: 2500), Prob: 0.0015
+Token: ' contained' (ID: 12985), Prob: 0.0007
+Token: ' present' (ID: 3042), Prob: 0.0004
+Token: ' mentioned' (ID: 9733), Prob: 0.0004
+Token: ' listed' (ID: 10007), Prob: 0.0003
+Token: ' stated' (ID: 10982), Prob: 0.0002
+Token: ' shown' (ID: 6839), Prob: 0.0002
+Token: ' regarding' (ID: 8826), Prob: 0.0002
+Token: ' gathered' (ID: 20190), Prob: 0.0001
+Token: ' within' (ID: 2878), Prob: 0.0001
+Token: ' collected' (ID: 14548), Prob: 0.0001
+Token: ' supplied' (ID: 17221), Prob: 0.0001
+Token: ' found' (ID: 1730), Prob: 0.0001
+Token: ' discussed' (ID: 14078), Prob: 0.0001
+Token: ' thus' (ID: 8450), Prob: 0.0001
+Token: ' received' (ID: 3949), Prob: 0.0001
+Token: ' currently' (ID: 5023), Prob: 0.0001
+Token: ' retrieved' (ID: 30403), Prob: 0.0001
+Token: ' information' (ID: 1995), Prob: 0.0001
+Token: ' according' (ID: 4092), Prob: 0.0001
+Token: ' cited' (ID: 21870), Prob: 0.0001
+Token: ' Given' (ID: 16246), Prob: 0.0001
+Token: ' already' (ID: 2669), Prob: 0.0001
+Token: ' today' (ID: 3351), Prob: 0.0001
+Token: ' give' (ID: 2968), Prob: 0.0001
+Token: ' inside' (ID: 4766), Prob: 0.0001
+Token: ' released' (ID: 5880), Prob: 0.0001
+Token: ' obtained' (ID: 12180), Prob: 0.0001
+Token: ' quoted' (ID: 23237), Prob: 0.0001
+Token: ' shared' (ID: 6094), Prob: 0.0000
+Token: ' reported' (ID: 4961), Prob: 0.0000
+Token: ' summarized' (ID: 68629), Prob: 0.0000
+Token: ' conveyed' (ID: 72797), Prob: 0.0000
+Token: ' flow' (ID: 6396), Prob: 0.0000
+Token: ' provide' (ID: 3410), Prob: 0.0000
+Token: ' added' (ID: 3694), Prob: 0.0000
+Token: ' related' (ID: 5435), Prob: 0.0000
+Token: ' passed' (ID: 5823), Prob: 0.0000
+Token: ' gives' (ID: 6696), Prob: 0.0000
+Token: ' outlined' (ID: 32640), Prob: 0.0000
+Token: ' set' (ID: 738), Prob: 0.0000
+Token: ' written' (ID: 5326), Prob: 0.0000
+Token: ' alone' (ID: 7484), Prob: 0.0000
+Token: ' offered' (ID: 8900), Prob: 0.0000
+Token: ' displayed' (ID: 12596), Prob: 0.0000
+
+== Ranked Concepts (Clusters) ==
+Rank 1 | Concept Score: 0.3418
+  Tokens: [' given', ' Given', ' give', ' gives']
+Rank 2 | Concept Score: 0.2656
+  Tokens: [' provided', ' supplied', ' provide', ' offered']
+Rank 3 | Concept Score: 0.0284
+  Tokens: [' presented', ' present']
+Rank 4 | Concept Score: 0.0030
+  Tokens: [' described', ' mentioned', ' listed', ' stated', ' discussed', ' cited', ' quoted', ' reported', ' summarized', ' outlined']
+Rank 5 | Concept Score: 0.0015
+  Tokens: [' available']
+Rank 6 | Concept Score: 0.0009
+  Tokens: [' contained', ' within', ' inside']
+Rank 7 | Concept Score: 0.0006
+  Tokens: [' gathered', ' collected', ' received', ' retrieved', ' obtained']
+Rank 8 | Concept Score: 0.0004
+  Tokens: [' regarding', ' information', ' according', ' related']
+Rank 9 | Concept Score: 0.0002
+  Tokens: [' shown', ' displayed']
+Rank 10 | Concept Score: 0.0002
+  Tokens: [' currently', ' today']
+Rank 11 | Concept Score: 0.0002
+  Tokens: [' thus', ' flow']
+Rank 12 | Concept Score: 0.0001
+  Tokens: [' found']
+Rank 13 | Concept Score: 0.0001
+  Tokens: [' shared', ' added', ' written']
+Rank 14 | Concept Score: 0.0001
+  Tokens: [' released', ' conveyed']
+Rank 15 | Concept Score: 0.0001
+  Tokens: [' already']
+Rank 16 | Concept Score: 0.0000
+  Tokens: [' passed']
+Rank 17 | Concept Score: 0.0000
+  Tokens: [' alone']
+Rank 18 | Concept Score: 0.0000
+  Tokens: [' set']
+
+**Chosen Concept:** Rank 1 with score 0.3418

@@ -1,0 +1,102 @@
+--- Step 21 Log ---
+
+== Filtered Candidates ==
+Token: ' way' (ID: 1616), Prob: 0.0003
+Token: ' case' (ID: 1142), Prob: 0.0002
+Token: ' original' (ID: 4024), Prob: 0.0000
+Token: ' sam' (ID: 9962), Prob: 0.0000
+Token: ' exact' (ID: 4734), Prob: 0.0000
+Token: ' like' (ID: 1075), Prob: 0.0000
+Token: ' status' (ID: 2639), Prob: 0.0000
+Token: ' normal' (ID: 4622), Prob: 0.0000
+Token: ' old' (ID: 2310), Prob: 0.0000
+Token: ' right' (ID: 1290), Prob: 0.0000
+Token: ' natural' (ID: 5810), Prob: 0.0000
+Token: ' default' (ID: 1638), Prob: 0.0000
+Token: ' usual' (ID: 13475), Prob: 0.0000
+Token: ' trade' (ID: 6559), Prob: 0.0000
+Token: ' mismo' (ID: 35894), Prob: 0.0000
+Token: '.same' (ID: 97503), Prob: 0.0000
+Token: ' market' (ID: 3081), Prob: 0.0000
+Token: ' situation' (ID: 6534), Prob: 0.0000
+Token: ' one' (ID: 825), Prob: 0.0000
+Token: ' constant' (ID: 6783), Prob: 0.0000
+Token: ' norm' (ID: 7465), Prob: 0.0000
+Token: ' standard' (ID: 5297), Prob: 0.0000
+Token: ' ways' (ID: 5510), Prob: 0.0000
+Token: ' last' (ID: 1537), Prob: 0.0000
+Token: ' current' (ID: 1482), Prob: 0.0000
+Token: '_same' (ID: 33574), Prob: 0.0000
+Token: ' mesmo' (ID: 40249), Prob: 0.0000
+Token: ' cash' (ID: 8350), Prob: 0.0000
+Token: ' price' (ID: 3349), Prob: 0.0000
+Token: ' cases' (ID: 5048), Prob: 0.0000
+Token: ' promise' (ID: 11222), Prob: 0.0000
+Token: ' first' (ID: 1156), Prob: 0.0000
+Token: ' real' (ID: 1931), Prob: 0.0000
+Token: ' samo' (ID: 82378), Prob: 0.0000
+Token: ' new' (ID: 501), Prob: 0.0000
+Token: ' past' (ID: 3267), Prob: 0.0000
+Token: ' traditional' (ID: 8606), Prob: 0.0000
+Token: ' true' (ID: 830), Prob: 0.0000
+Token: ' best' (ID: 1850), Prob: 0.0000
+Token: ' permanent' (ID: 15330), Prob: 0.0000
+Token: ' condition' (ID: 2971), Prob: 0.0000
+Token: ' state' (ID: 1584), Prob: 0.0000
+Token: ' identical' (ID: 19516), Prob: 0.0000
+Token: ' fact' (ID: 2097), Prob: 0.0000
+Token: ' equal' (ID: 6144), Prob: 0.0000
+Token: ' initial' (ID: 2856), Prob: 0.0000
+Token: ' actual' (ID: 5042), Prob: 0.0000
+Token: ' identity' (ID: 9569), Prob: 0.0000
+Token: ' sama' (ID: 66623), Prob: 0.0000
+Token: ' untouched' (ID: 67522), Prob: 0.0000
+Token: ' given' (ID: 2661), Prob: 0.0000
+Token: ' place' (ID: 1992), Prob: 0.0000
+Token: ' money' (ID: 3220), Prob: 0.0000
+Token: ' balance' (ID: 8172), Prob: 0.0000
+Token: ' unchanged' (ID: 34857), Prob: 0.0000
+Token: ' ordinary' (ID: 19119), Prob: 0.0000
+Token: ' free' (ID: 1910), Prob: 0.0000
+Token: ' following' (ID: 2701), Prob: 0.0000
+Token: ' present' (ID: 3042), Prob: 0.0000
+Token: ' cost' (ID: 2783), Prob: 0.0000
+Token: ' ones' (ID: 6174), Prob: 0.0000
+
+== Ranked Concepts (Clusters) ==
+Rank 1 | Concept Score: 0.0003
+  Tokens: [' way', ' ways']
+Rank 2 | Concept Score: 0.0002
+  Tokens: [' case', ' cases']
+Rank 3 | Concept Score: 0.0000
+  Tokens: [' sam', ' mismo', '.same', '_same', ' mesmo', ' samo', ' sama']
+Rank 4 | Concept Score: 0.0000
+  Tokens: [' original', ' new', ' initial']
+Rank 5 | Concept Score: 0.0000
+  Tokens: [' normal', ' default', ' usual', ' norm', ' standard', ' traditional', ' ordinary']
+Rank 6 | Concept Score: 0.0000
+  Tokens: [' exact', ' real', ' true', ' actual']
+Rank 7 | Concept Score: 0.0000
+  Tokens: [' trade', ' market', ' cash', ' price', ' promise', ' money', ' balance', ' cost']
+Rank 8 | Concept Score: 0.0000
+  Tokens: [' right', ' last', ' first', ' best', ' given', ' free', ' following']
+Rank 9 | Concept Score: 0.0000
+  Tokens: [' status', ' situation', ' condition', ' state']
+Rank 10 | Concept Score: 0.0000
+  Tokens: [' like', ' one', ' ones']
+Rank 11 | Concept Score: 0.0000
+  Tokens: [' old', ' current', ' past', ' present']
+Rank 12 | Concept Score: 0.0000
+  Tokens: [' natural']
+Rank 13 | Concept Score: 0.0000
+  Tokens: [' constant', ' equal']
+Rank 14 | Concept Score: 0.0000
+  Tokens: [' identical', ' untouched', ' unchanged']
+Rank 15 | Concept Score: 0.0000
+  Tokens: [' permanent', ' identity']
+Rank 16 | Concept Score: 0.0000
+  Tokens: [' fact']
+Rank 17 | Concept Score: 0.0000
+  Tokens: [' place']
+
+**Chosen Concept:** Rank 1 with score 0.0003

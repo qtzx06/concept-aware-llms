@@ -1,0 +1,61 @@
+--- Step 63 Log ---
+
+== Filtered Candidates ==
+Token: ' instead' (ID: 4518), Prob: 0.9883
+Token: ' rather' (ID: 4751), Prob: 0.0012
+Token: ' Instead' (ID: 12090), Prob: 0.0001
+Token: 'instead' (ID: 64837), Prob: 0.0000
+Token: ' first' (ID: 1156), Prob: 0.0000
+Token: ' without' (ID: 2041), Prob: 0.0000
+Token: ' anyway' (ID: 13657), Prob: 0.0000
+Token: ' either' (ID: 2987), Prob: 0.0000
+Token: ' except' (ID: 3650), Prob: 0.0000
+Token: 'Instead' (ID: 30787), Prob: 0.0000
+Token: ' another' (ID: 2441), Prob: 0.0000
+Token: ' otherwise' (ID: 5937), Prob: 0.0000
+Token: ' replace' (ID: 8290), Prob: 0.0000
+Token: ' yet' (ID: 3602), Prob: 0.0000
+Token: ' next' (ID: 1790), Prob: 0.0000
+Token: ' among' (ID: 4221), Prob: 0.0000
+Token: ' also' (ID: 1083), Prob: 0.0000
+Token: ' still' (ID: 2058), Prob: 0.0000
+Token: ' regardless' (ID: 15484), Prob: 0.0000
+Token: ' less' (ID: 2686), Prob: 0.0000
+Token: ' somehow' (ID: 16925), Prob: 0.0000
+Token: ' despite' (ID: 8818), Prob: 0.0000
+
+== Ranked Concepts (Clusters) ==
+Rank 1 | Concept Score: 0.9883
+  Tokens: [' instead', ' rather', ' Instead', 'instead', 'Instead']
+Rank 2 | Concept Score: 0.0000
+  Tokens: [' first']
+Rank 3 | Concept Score: 0.0000
+  Tokens: [' without']
+Rank 4 | Concept Score: 0.0000
+  Tokens: [' anyway']
+Rank 5 | Concept Score: 0.0000
+  Tokens: [' either']
+Rank 6 | Concept Score: 0.0000
+  Tokens: [' except']
+Rank 7 | Concept Score: 0.0000
+  Tokens: [' also', ' still']
+Rank 8 | Concept Score: 0.0000
+  Tokens: [' regardless', ' despite']
+Rank 9 | Concept Score: 0.0000
+  Tokens: [' another']
+Rank 10 | Concept Score: 0.0000
+  Tokens: [' otherwise']
+Rank 11 | Concept Score: 0.0000
+  Tokens: [' replace']
+Rank 12 | Concept Score: 0.0000
+  Tokens: [' yet']
+Rank 13 | Concept Score: 0.0000
+  Tokens: [' next']
+Rank 14 | Concept Score: 0.0000
+  Tokens: [' among']
+Rank 15 | Concept Score: 0.0000
+  Tokens: [' less']
+Rank 16 | Concept Score: 0.0000
+  Tokens: [' somehow']
+
+**Chosen Concept:** Rank 1 with score 0.9883

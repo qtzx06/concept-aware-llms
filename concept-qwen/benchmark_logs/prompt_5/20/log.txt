@@ -1,0 +1,97 @@
+--- Step 20 Log ---
+
+== Filtered Candidates ==
+Token: ' zone' (ID: 10143), Prob: 0.2910
+Token: ' period' (ID: 4168), Prob: 0.0447
+Token: ' region' (ID: 5537), Prob: 0.0225
+Token: ' location' (ID: 3728), Prob: 0.0106
+Token: ' frame' (ID: 4034), Prob: 0.0069
+Token: ' slot' (ID: 9446), Prob: 0.0069
+Token: ' travel' (ID: 5821), Prob: 0.0064
+Token: ' station' (ID: 8056), Prob: 0.0053
+Token: ' according' (ID: 4092), Prob: 0.0042
+Token: ' machine' (ID: 5662), Prob: 0.0037
+Token: ' using' (ID: 1667), Prob: 0.0034
+Token: ' point' (ID: 1459), Prob: 0.0027
+Token: ' domain' (ID: 7947), Prob: 0.0025
+Token: ' plane' (ID: 11031), Prob: 0.0024
+Token: ' based' (ID: 3118), Prob: 0.0022
+Token: ' place' (ID: 1992), Prob: 0.0021
+Token: ' era' (ID: 11385), Prob: 0.0020
+Token: ' traveler' (ID: 62765), Prob: 0.0018
+Token: ' space' (ID: 3550), Prob: 0.0017
+Token: ' state' (ID: 1584), Prob: 0.0015
+Token: ' destination' (ID: 9106), Prob: 0.0014
+Token: ' time' (ID: 882), Prob: 0.0012
+Token: ' segment' (ID: 10238), Prob: 0.0012
+Token: ' planet' (ID: 11580), Prob: 0.0011
+Token: ' corridor' (ID: 45879), Prob: 0.0011
+Token: ' step' (ID: 3019), Prob: 0.0010
+Token: ' line' (ID: 1555), Prob: 0.0009
+Token: ' ship' (ID: 8284), Prob: 0.0009
+Token: ' via' (ID: 4566), Prob: 0.0009
+Token: ' within' (ID: 2878), Prob: 0.0008
+Token: ' instead' (ID: 4518), Prob: 0.0008
+Token: ' interval' (ID: 9873), Prob: 0.0008
+Token: ' depending' (ID: 11649), Prob: 0.0008
+Token: ' moment' (ID: 4445), Prob: 0.0008
+Token: ' site' (ID: 2747), Prob: 0.0007
+Token: ' shift' (ID: 6407), Prob: 0.0006
+Token: ' unit' (ID: 4982), Prob: 0.0006
+Token: ' loop' (ID: 6337), Prob: 0.0006
+Token: ' spot' (ID: 7702), Prob: 0.0006
+Token: ' without' (ID: 2041), Prob: 0.0005
+Token: ' port' (ID: 2635), Prob: 0.0005
+Token: ' reference' (ID: 5785), Prob: 0.0005
+Token: ' located' (ID: 7407), Prob: 0.0005
+Token: ' instant' (ID: 9690), Prob: 0.0005
+Token: ' window' (ID: 3241), Prob: 0.0004
+Token: ' rather' (ID: 4751), Prob: 0.0004
+Token: ' block' (ID: 2504), Prob: 0.0004
+Token: ' country' (ID: 3146), Prob: 0.0004
+Token: ' city' (ID: 3283), Prob: 0.0004
+Token: ' slice' (ID: 15983), Prob: 0.0004
+
+== Ranked Concepts (Clusters) ==
+Rank 1 | Concept Score: 0.3164
+  Tokens: [' zone', ' region', ' domain']
+Rank 2 | Concept Score: 0.0479
+  Tokens: [' period', ' era', ' time']
+Rank 3 | Concept Score: 0.0129
+  Tokens: [' according', ' using', ' based', ' via', ' within', ' depending', ' without']
+Rank 4 | Concept Score: 0.0125
+  Tokens: [' location', ' destination', ' located']
+Rank 5 | Concept Score: 0.0083
+  Tokens: [' travel', ' traveler']
+Rank 6 | Concept Score: 0.0077
+  Tokens: [' frame', ' window', ' slice']
+Rank 7 | Concept Score: 0.0070
+  Tokens: [' machine', ' plane', ' ship']
+Rank 8 | Concept Score: 0.0069
+  Tokens: [' slot']
+Rank 9 | Concept Score: 0.0053
+  Tokens: [' station']
+Rank 10 | Concept Score: 0.0033
+  Tokens: [' place', ' site', ' spot']
+Rank 11 | Concept Score: 0.0029
+  Tokens: [' step', ' line', ' unit', ' block']
+Rank 12 | Concept Score: 0.0027
+  Tokens: [' point']
+Rank 13 | Concept Score: 0.0024
+  Tokens: [' planet', ' port', ' country', ' city']
+Rank 14 | Concept Score: 0.0024
+  Tokens: [' space', ' shift']
+Rank 15 | Concept Score: 0.0020
+  Tokens: [' segment', ' interval']
+Rank 16 | Concept Score: 0.0017
+  Tokens: [' corridor', ' loop']
+Rank 17 | Concept Score: 0.0015
+  Tokens: [' state']
+Rank 18 | Concept Score: 0.0013
+  Tokens: [' instead', ' rather']
+Rank 19 | Concept Score: 0.0012
+  Tokens: [' moment', ' instant']
+Rank 20 | Concept Score: 0.0005
+  Tokens: [' reference']
+
+**Chosen Concept:** Rank 1 with score 0.3164

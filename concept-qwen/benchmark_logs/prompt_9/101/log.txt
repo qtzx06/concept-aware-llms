@@ -1,0 +1,66 @@
+--- Step 101 Log ---
+
+== Filtered Candidates ==
+Token: ' Two' (ID: 9043), Prob: 0.9883
+Token: ' two' (ID: 1378), Prob: 0.0008
+Token: ' Three' (ID: 14513), Prob: 0.0005
+Token: ' One' (ID: 3776), Prob: 0.0003
+Token: 'Two' (ID: 11613), Prob: 0.0003
+Token: ' Twenty' (ID: 43856), Prob: 0.0002
+Token: ' Let' (ID: 6771), Prob: 0.0001
+Token: ' Together' (ID: 31155), Prob: 0.0001
+Token: ' Six' (ID: 18680), Prob: 0.0001
+Token: ' Four' (ID: 13322), Prob: 0.0000
+Token: ' TWO' (ID: 46258), Prob: 0.0000
+Token: ' etc' (ID: 4992), Prob: 0.0000
+Token: ' Wait' (ID: 13824), Prob: 0.0000
+Token: ' Five' (ID: 20924), Prob: 0.0000
+Token: ' Twice' (ID: 93566), Prob: 0.0000
+Token: ' Therefore' (ID: 15277), Prob: 0.0000
+Token: ' Second' (ID: 10440), Prob: 0.0000
+Token: ' Double' (ID: 7093), Prob: 0.0000
+Token: ' Total' (ID: 10657), Prob: 0.0000
+Token: ' Also' (ID: 7281), Prob: 0.0000
+Token: ' Yes' (ID: 7414), Prob: 0.0000
+Token: ' Multiple' (ID: 28811), Prob: 0.0000
+Token: '_two' (ID: 23241), Prob: 0.0000
+Token: ' Twelve' (ID: 69232), Prob: 0.0000
+Token: ' Top' (ID: 6909), Prob: 0.0000
+Token: ' Maybe' (ID: 10696), Prob: 0.0000
+Token: ' According' (ID: 10548), Prob: 0.0000
+Token: ' Hmm' (ID: 88190), Prob: 0.0000
+Token: ' Many' (ID: 8999), Prob: 0.0000
+Token: ' Still' (ID: 16377), Prob: 0.0000
+Token: ' Today' (ID: 11201), Prob: 0.0000
+
+== Ranked Concepts (Clusters) ==
+Rank 1 | Concept Score: 0.9883
+  Tokens: [' Two', ' two', 'Two', ' TWO', '_two']
+Rank 2 | Concept Score: 0.0009
+  Tokens: [' Three', ' Twenty', ' Six', ' Four', ' Five', ' Twelve']
+Rank 3 | Concept Score: 0.0003
+  Tokens: [' One']
+Rank 4 | Concept Score: 0.0001
+  Tokens: [' Let', ' Wait']
+Rank 5 | Concept Score: 0.0001
+  Tokens: [' Together', ' Today']
+Rank 6 | Concept Score: 0.0000
+  Tokens: [' etc']
+Rank 7 | Concept Score: 0.0000
+  Tokens: [' Yes', ' Maybe', ' Hmm']
+Rank 8 | Concept Score: 0.0000
+  Tokens: [' Therefore', ' According']
+Rank 9 | Concept Score: 0.0000
+  Tokens: [' Total', ' Top']
+Rank 10 | Concept Score: 0.0000
+  Tokens: [' Also', ' Still']
+Rank 11 | Concept Score: 0.0000
+  Tokens: [' Twice']
+Rank 12 | Concept Score: 0.0000
+  Tokens: [' Multiple', ' Many']
+Rank 13 | Concept Score: 0.0000
+  Tokens: [' Second']
+Rank 14 | Concept Score: 0.0000
+  Tokens: [' Double']
+
+**Chosen Concept:** Rank 1 with score 0.9883

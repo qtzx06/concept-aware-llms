@@ -1,0 +1,109 @@
+--- Step 4 Log ---
+
+== Filtered Candidates ==
+Token: ' Learn' (ID: 14934), Prob: 0.0510
+Token: ' Know' (ID: 14187), Prob: 0.0449
+Token: ' Choose' (ID: 22201), Prob: 0.0352
+Token: ' Play' (ID: 7054), Prob: 0.0188
+Token: ' Take' (ID: 11778), Prob: 0.0188
+Token: ' Grow' (ID: 46560), Prob: 0.0146
+Token: ' know' (ID: 1414), Prob: 0.0121
+Token: ' Make' (ID: 7405), Prob: 0.0107
+Token: ' Walk' (ID: 12554), Prob: 0.0107
+Token: ' Name' (ID: 3988), Prob: 0.0101
+Token: ' Understand' (ID: 70894), Prob: 0.0083
+Token: ' Read' (ID: 4457), Prob: 0.0078
+Token: ' Develop' (ID: 7843), Prob: 0.0078
+Token: ' See' (ID: 3496), Prob: 0.0074
+Token: ' Create' (ID: 4230), Prob: 0.0061
+Token: ' Build' (ID: 7854), Prob: 0.0061
+Token: ' Beh' (ID: 14612), Prob: 0.0057
+Token: ' Decide' (ID: 98881), Prob: 0.0057
+Token: ' Come' (ID: 15565), Prob: 0.0054
+Token: ' Act' (ID: 3218), Prob: 0.0050
+Token: ' Feel' (ID: 31733), Prob: 0.0045
+Token: ' Use' (ID: 5443), Prob: 0.0037
+Token: ' First' (ID: 5512), Prob: 0.0035
+Token: ' Explore' (ID: 44052), Prob: 0.0035
+Token: ' choose' (ID: 5157), Prob: 0.0033
+Token: ' Experience' (ID: 20796), Prob: 0.0033
+Token: ' Bear' (ID: 23985), Prob: 0.0031
+Token: ' Eat' (ID: 44514), Prob: 0.0031
+Token: ' learn' (ID: 3960), Prob: 0.0029
+Token: ' Like' (ID: 8909), Prob: 0.0029
+Token: ' Care' (ID: 10627), Prob: 0.0029
+Token: ' Determine' (ID: 29901), Prob: 0.0029
+Token: ' Lead' (ID: 29882), Prob: 0.0027
+Token: ' Named' (ID: 40459), Prob: 0.0025
+Token: ' Con' (ID: 1200), Prob: 0.0024
+Token: ' Get' (ID: 2126), Prob: 0.0024
+Token: ' Find' (ID: 7379), Prob: 0.0022
+Token: ' Say' (ID: 24917), Prob: 0.0022
+Token: ' Write' (ID: 9645), Prob: 0.0021
+Token: ' Keep' (ID: 13655), Prob: 0.0021
+Token: ' Cry' (ID: 42705), Prob: 0.0020
+Token: ' Become' (ID: 50278), Prob: 0.0020
+Token: ' Run' (ID: 6452), Prob: 0.0019
+Token: ' take' (ID: 1896), Prob: 0.0017
+Token: ' Live' (ID: 11158), Prob: 0.0017
+Token: ' grow' (ID: 3063), Prob: 0.0016
+Token: ' Sleep' (ID: 23774), Prob: 0.0016
+Token: ' Describe' (ID: 60785), Prob: 0.0016
+Token: ' Speak' (ID: 67201), Prob: 0.0016
+Token: ' Start' (ID: 5145), Prob: 0.0015
+Token: ' Stay' (ID: 28737), Prob: 0.0015
+Token: ' Help' (ID: 11479), Prob: 0.0014
+Token: ' Bring' (ID: 39124), Prob: 0.0014
+Token: ' Enjoy' (ID: 22656), Prob: 0.0014
+Token: ' Pay' (ID: 11471), Prob: 0.0013
+Token: ' Rule' (ID: 18100), Prob: 0.0013
+Token: ' Remember' (ID: 19881), Prob: 0.0013
+Token: ' Think' (ID: 21149), Prob: 0.0013
+Token: ' name' (ID: 829), Prob: 0.0012
+Token: ' feel' (ID: 2666), Prob: 0.0012
+
+== Ranked Concepts (Clusters) ==
+Rank 1 | Concept Score: 0.0654
+  Tokens: [' Know', ' know', ' Understand']
+Rank 2 | Concept Score: 0.0540
+  Tokens: [' Learn', ' learn']
+Rank 3 | Concept Score: 0.0391
+  Tokens: [' Play', ' Walk', ' Eat', ' Cry', ' Sleep', ' Speak', ' Pay']
+Rank 4 | Concept Score: 0.0383
+  Tokens: [' Choose', ' choose']
+Rank 5 | Concept Score: 0.0234
+  Tokens: [' Develop', ' Create', ' Build', ' Explore']
+Rank 6 | Concept Score: 0.0205
+  Tokens: [' Take', ' take']
+Rank 7 | Concept Score: 0.0162
+  Tokens: [' Grow', ' grow']
+Rank 8 | Concept Score: 0.0145
+  Tokens: [' Read', ' Get', ' Find', ' Write']
+Rank 9 | Concept Score: 0.0144
+  Tokens: [' Make', ' Use']
+Rank 10 | Concept Score: 0.0138
+  Tokens: [' Name', ' Named', ' name']
+Rank 11 | Concept Score: 0.0136
+  Tokens: [' Act', ' First', ' Con', ' Help', ' Rule']
+Rank 12 | Concept Score: 0.0115
+  Tokens: [' Beh', ' Bear', ' Lead']
+Rank 13 | Concept Score: 0.0109
+  Tokens: [' See', ' Say', ' Think']
+Rank 14 | Concept Score: 0.0105
+  Tokens: [' Come', ' Keep', ' Stay', ' Bring']
+Rank 15 | Concept Score: 0.0103
+  Tokens: [' Feel', ' Experience', ' Enjoy', ' feel']
+Rank 16 | Concept Score: 0.0103
+  Tokens: [' Decide', ' Determine', ' Describe']
+Rank 17 | Concept Score: 0.0042
+  Tokens: [' Like', ' Remember']
+Rank 18 | Concept Score: 0.0034
+  Tokens: [' Run', ' Start']
+Rank 19 | Concept Score: 0.0029
+  Tokens: [' Care']
+Rank 20 | Concept Score: 0.0020
+  Tokens: [' Become']
+Rank 21 | Concept Score: 0.0017
+  Tokens: [' Live']
+
+**Chosen Concept:** Rank 1 with score 0.0654

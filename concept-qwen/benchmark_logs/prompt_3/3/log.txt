@@ -1,0 +1,49 @@
+--- Step 3 Log ---
+
+== Filtered Candidates ==
+Token: ' something' (ID: 2494), Prob: 0.0080
+Token: ' one' (ID: 825), Prob: 0.0028
+Token: ' someone' (ID: 4325), Prob: 0.0022
+Token: ' today' (ID: 3351), Prob: 0.0010
+Token: ' two' (ID: 1378), Prob: 0.0010
+Token: 'ings' (ID: 819), Prob: 0.0009
+Token: ' nothing' (ID: 4302), Prob: 0.0009
+Token: ' say' (ID: 1977), Prob: 0.0008
+Token: ' first' (ID: 1156), Prob: 0.0007
+Token: ' instead' (ID: 4518), Prob: 0.0006
+Token: ' back' (ID: 1182), Prob: 0.0006
+Token: ' three' (ID: 2326), Prob: 0.0004
+Token: ' whatever' (ID: 8820), Prob: 0.0004
+Token: ' maybe' (ID: 7196), Prob: 0.0004
+Token: ' yes' (ID: 9834), Prob: 0.0004
+Token: ' right' (ID: 1290), Prob: 0.0004
+
+== Ranked Concepts (Clusters) ==
+Rank 1 | Concept Score: 0.0101
+  Tokens: [' something', ' someone']
+Rank 2 | Concept Score: 0.0028
+  Tokens: [' one']
+Rank 3 | Concept Score: 0.0014
+  Tokens: [' two', ' three']
+Rank 4 | Concept Score: 0.0013
+  Tokens: [' nothing', ' whatever']
+Rank 5 | Concept Score: 0.0010
+  Tokens: [' today']
+Rank 6 | Concept Score: 0.0009
+  Tokens: ['ings']
+Rank 7 | Concept Score: 0.0008
+  Tokens: [' say']
+Rank 8 | Concept Score: 0.0007
+  Tokens: [' first']
+Rank 9 | Concept Score: 0.0006
+  Tokens: [' instead']
+Rank 10 | Concept Score: 0.0006
+  Tokens: [' back']
+Rank 11 | Concept Score: 0.0004
+  Tokens: [' yes']
+Rank 12 | Concept Score: 0.0004
+  Tokens: [' maybe']
+Rank 13 | Concept Score: 0.0004
+  Tokens: [' right']
+
+**Chosen Concept:** Rank 1 with score 0.0101

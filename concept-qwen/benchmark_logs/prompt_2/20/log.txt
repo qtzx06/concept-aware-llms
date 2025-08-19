@@ -1,0 +1,91 @@
+--- Step 20 Log ---
+
+== Filtered Candidates ==
+Token: ' called' (ID: 2598), Prob: 0.0201
+Token: ' growing' (ID: 7826), Prob: 0.0115
+Token: ' found' (ID: 1730), Prob: 0.0089
+Token: ' used' (ID: 1483), Prob: 0.0045
+Token: ' known' (ID: 3881), Prob: 0.0029
+Token: ' inside' (ID: 4766), Prob: 0.0024
+Token: ' growth' (ID: 6513), Prob: 0.0021
+Token: ' species' (ID: 9419), Prob: 0.0018
+Token: ' similar' (ID: 4428), Prob: 0.0012
+Token: ' grown' (ID: 14700), Prob: 0.0011
+Token: ' located' (ID: 7407), Prob: 0.0010
+Token: ' embedded' (ID: 22864), Prob: 0.0010
+Token: ' named' (ID: 6941), Prob: 0.0009
+Token: ' within' (ID: 2878), Prob: 0.0007
+Token: ' mold' (ID: 28461), Prob: 0.0007
+Token: ' cultivated' (ID: 66066), Prob: 0.0007
+Token: ' living' (ID: 5382), Prob: 0.0005
+Token: ' naturally' (ID: 17712), Prob: 0.0005
+Token: ' planted' (ID: 38341), Prob: 0.0005
+Token: ' like' (ID: 1075), Prob: 0.0005
+Token: ' attached' (ID: 12392), Prob: 0.0005
+Token: '-like' (ID: 12681), Prob: 0.0005
+Token: ' capable' (ID: 12875), Prob: 0.0005
+Token: ' present' (ID: 3042), Prob: 0.0004
+Token: ' plant' (ID: 6008), Prob: 0.0004
+Token: ' associated' (ID: 5815), Prob: 0.0004
+Token: ' spreading' (ID: 30035), Prob: 0.0004
+Token: ' resembling' (ID: 70607), Prob: 0.0003
+Token: ' grow' (ID: 3063), Prob: 0.0003
+Token: ' causing' (ID: 14381), Prob: 0.0003
+Token: ' produced' (ID: 8947), Prob: 0.0003
+Token: ' surrounding' (ID: 14590), Prob: 0.0003
+Token: ' spread' (ID: 8865), Prob: 0.0002
+Token: ' seed' (ID: 10320), Prob: 0.0002
+Token: ' instead' (ID: 4518), Prob: 0.0002
+Token: ' hidden' (ID: 8177), Prob: 0.0002
+Token: ' released' (ID: 5880), Prob: 0.0002
+Token: ' plants' (ID: 10779), Prob: 0.0002
+Token: ' underground' (ID: 25260), Prob: 0.0002
+Token: ' colony' (ID: 40936), Prob: 0.0002
+Token: ' containing' (ID: 8482), Prob: 0.0002
+Token: ' fungus' (ID: 78802), Prob: 0.0002
+Token: ' spr' (ID: 8151), Prob: 0.0002
+Token: ' producing' (ID: 17387), Prob: 0.0002
+Token: ' bacteria' (ID: 23157), Prob: 0.0002
+Token: ' bloom' (ID: 51454), Prob: 0.0002
+Token: ' indoors' (ID: 54054), Prob: 0.0002
+Token: ' bed' (ID: 4845), Prob: 0.0002
+Token: ' beneath' (ID: 23969), Prob: 0.0002
+Token: ' cultivating' (ID: 98039), Prob: 0.0002
+
+== Ranked Concepts (Clusters) ==
+Rank 1 | Concept Score: 0.0239
+  Tokens: [' called', ' known', ' named']
+Rank 2 | Concept Score: 0.0150
+  Tokens: [' growing', ' growth', ' grown', ' grow']
+Rank 3 | Concept Score: 0.0144
+  Tokens: [' found', ' used', ' located']
+Rank 4 | Concept Score: 0.0037
+  Tokens: [' inside', ' within', ' underground', ' indoors', ' beneath']
+Rank 5 | Concept Score: 0.0025
+  Tokens: [' similar', ' like', '-like', ' resembling']
+Rank 6 | Concept Score: 0.0024
+  Tokens: [' species', ' capable', ' bed']
+Rank 7 | Concept Score: 0.0023
+  Tokens: [' embedded', ' attached', ' associated', ' surrounding', ' hidden']
+Rank 8 | Concept Score: 0.0018
+  Tokens: [' mold', ' naturally', ' colony', ' fungus', ' bacteria']
+Rank 9 | Concept Score: 0.0014
+  Tokens: [' planted', ' plant', ' seed', ' plants']
+Rank 10 | Concept Score: 0.0009
+  Tokens: [' cultivated', ' cultivating']
+Rank 11 | Concept Score: 0.0008
+  Tokens: [' spreading', ' spread', ' spr']
+Rank 12 | Concept Score: 0.0007
+  Tokens: [' causing', ' containing', ' producing']
+Rank 13 | Concept Score: 0.0005
+  Tokens: [' living']
+Rank 14 | Concept Score: 0.0005
+  Tokens: [' produced', ' released']
+Rank 15 | Concept Score: 0.0004
+  Tokens: [' present']
+Rank 16 | Concept Score: 0.0002
+  Tokens: [' instead']
+Rank 17 | Concept Score: 0.0002
+  Tokens: [' bloom']
+
+**Chosen Concept:** Rank 1 with score 0.0239

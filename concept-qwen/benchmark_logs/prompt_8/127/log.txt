@@ -1,0 +1,78 @@
+--- Step 127 Log ---
+
+== Filtered Candidates ==
+Token: 'Let' (ID: 10061), Prob: 0.0449
+Token: 'Okay' (ID: 32313), Prob: 0.0309
+Token: 'Answer' (ID: 16141), Prob: 0.0199
+Token: 'Translate' (ID: 27473), Prob: 0.0100
+Token: 'Maybe' (ID: 21390), Prob: 0.0074
+Token: 'Based' (ID: 28715), Prob: 0.0074
+Token: 'Wait' (ID: 14190), Prob: 0.0061
+Token: 'Yes' (ID: 9454), Prob: 0.0050
+Token: 'First' (ID: 5338), Prob: 0.0047
+Token: 'Source' (ID: 3608), Prob: 0.0042
+Token: 'Alright' (ID: 71486), Prob: 0.0033
+Token: 'Actually' (ID: 52592), Prob: 0.0031
+Token: 'Hmm' (ID: 80022), Prob: 0.0031
+Token: 'Question' (ID: 14582), Prob: 0.0029
+Token: 'Finally' (ID: 23949), Prob: 0.0029
+Token: 'Please' (ID: 5501), Prob: 0.0025
+Token: 'Assistant' (ID: 71703), Prob: 0.0025
+Token: 'Word' (ID: 10879), Prob: 0.0024
+Token: 'However' (ID: 11209), Prob: 0.0024
+Token: 'Another' (ID: 14037), Prob: 0.0022
+Token: 'Looking' (ID: 22464), Prob: 0.0021
+Token: 'Also' (ID: 13394), Prob: 0.0020
+Token: 'Would' (ID: 27989), Prob: 0.0020
+Token: 'Original' (ID: 18395), Prob: 0.0017
+Token: 'Therefore' (ID: 54815), Prob: 0.0016
+Token: 'Could' (ID: 12895), Prob: 0.0015
+Token: 'Perhaps' (ID: 31476), Prob: 0.0015
+Token: 'Update' (ID: 4289), Prob: 0.0014
+Token: 'According' (ID: 11190), Prob: 0.0014
+Token: 'Translation' (ID: 24412), Prob: 0.0014
+Token: 'Since' (ID: 12549), Prob: 0.0013
+Token: 'Note' (ID: 9112), Prob: 0.0012
+Token: 'Even' (ID: 13159), Prob: 0.0012
+Token: 'Generate' (ID: 31115), Prob: 0.0011
+Token: 'Final' (ID: 19357), Prob: 0.0011
+Token: 'Thus' (ID: 44500), Prob: 0.0010
+Token: 'Additionally' (ID: 49574), Prob: 0.0009
+Token: 'Possible' (ID: 65222), Prob: 0.0009
+Token: 'Dialogue' (ID: 82890), Prob: 0.0009
+
+== Ranked Concepts (Clusters) ==
+Rank 1 | Concept Score: 0.0449
+  Tokens: ['Let']
+Rank 2 | Concept Score: 0.0422
+  Tokens: ['Okay', 'Yes', 'Alright', 'Hmm']
+Rank 3 | Concept Score: 0.0237
+  Tokens: ['Answer', 'Question', 'Dialogue']
+Rank 4 | Concept Score: 0.0125
+  Tokens: ['Translate', 'Translation', 'Generate']
+Rank 5 | Concept Score: 0.0108
+  Tokens: ['Based', 'Looking', 'According']
+Rank 6 | Concept Score: 0.0098
+  Tokens: ['Maybe', 'Perhaps', 'Possible']
+Rank 7 | Concept Score: 0.0074
+  Tokens: ['Wait', 'Update']
+Rank 8 | Concept Score: 0.0063
+  Tokens: ['However', 'Therefore', 'Since', 'Thus']
+Rank 9 | Concept Score: 0.0060
+  Tokens: ['Please', 'Would', 'Could']
+Rank 10 | Concept Score: 0.0059
+  Tokens: ['Source', 'Original']
+Rank 11 | Concept Score: 0.0059
+  Tokens: ['First', 'Even']
+Rank 12 | Concept Score: 0.0052
+  Tokens: ['Another', 'Also', 'Additionally']
+Rank 13 | Concept Score: 0.0039
+  Tokens: ['Finally', 'Final']
+Rank 14 | Concept Score: 0.0036
+  Tokens: ['Word', 'Note']
+Rank 15 | Concept Score: 0.0031
+  Tokens: ['Actually']
+Rank 16 | Concept Score: 0.0025
+  Tokens: ['Assistant']
+
+**Chosen Concept:** Rank 1 with score 0.0449

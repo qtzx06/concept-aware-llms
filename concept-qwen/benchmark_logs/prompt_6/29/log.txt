@@ -1,0 +1,87 @@
+--- Step 29 Log ---
+
+== Filtered Candidates ==
+Token: ' may' (ID: 1231), Prob: 0.4688
+Token: ' must' (ID: 1969), Prob: 0.0206
+Token: ' could' (ID: 1410), Prob: 0.0056
+Token: ' might' (ID: 2578), Prob: 0.0046
+Token: ' kills' (ID: 28810), Prob: 0.0041
+Token: ' cannot' (ID: 4157), Prob: 0.0032
+Token: ' alive' (ID: 13675), Prob: 0.0030
+Token: ' knows' (ID: 8788), Prob: 0.0028
+Token: ' living' (ID: 5382), Prob: 0.0019
+Token: ' wants' (ID: 6801), Prob: 0.0018
+Token: ' killed' (ID: 7425), Prob: 0.0015
+Token: ' dies' (ID: 8725), Prob: 0.0014
+Token: ' would' (ID: 1035), Prob: 0.0013
+Token: ' except' (ID: 3650), Prob: 0.0013
+Token: ' needs' (ID: 3880), Prob: 0.0013
+Token: ' within' (ID: 2878), Prob: 0.0012
+Token: ' also' (ID: 1083), Prob: 0.0009
+Token: ' killing' (ID: 13118), Prob: 0.0009
+Token: ' every' (ID: 1449), Prob: 0.0008
+Token: ' always' (ID: 2677), Prob: 0.0006
+Token: ' kill' (ID: 5505), Prob: 0.0006
+Token: ' without' (ID: 2041), Prob: 0.0005
+Token: ' makes' (ID: 3643), Prob: 0.0005
+Token: ' takes' (ID: 4990), Prob: 0.0005
+Token: ' requires' (ID: 7460), Prob: 0.0004
+Token: ' born' (ID: 9223), Prob: 0.0004
+Token: ' either' (ID: 2987), Prob: 0.0004
+Token: ' still' (ID: 2058), Prob: 0.0003
+Token: ' starts' (ID: 8471), Prob: 0.0003
+Token: ' decides' (ID: 27627), Prob: 0.0003
+Token: ' lives' (ID: 6305), Prob: 0.0003
+Token: ' younger' (ID: 14650), Prob: 0.0003
+Token: ' acts' (ID: 14056), Prob: 0.0002
+Token: ' die' (ID: 2746), Prob: 0.0002
+Token: ' whose' (ID: 6693), Prob: 0.0002
+Token: ' meets' (ID: 20027), Prob: 0.0002
+Token: ' today' (ID: 3351), Prob: 0.0002
+Token: ' gives' (ID: 6696), Prob: 0.0002
+Token: ' becomes' (ID: 9044), Prob: 0.0002
+Token: ' possibly' (ID: 10767), Prob: 0.0002
+Token: ' already' (ID: 2669), Prob: 0.0002
+Token: ' among' (ID: 4221), Prob: 0.0002
+Token: ' male' (ID: 8593), Prob: 0.0002
+Token: ' allows' (ID: 6147), Prob: 0.0002
+Token: ' survives' (ID: 82317), Prob: 0.0002
+Token: ' dead' (ID: 5593), Prob: 0.0002
+Token: ' remains' (ID: 8458), Prob: 0.0002
+Token: ' shoots' (ID: 43627), Prob: 0.0002
+Token: ' present' (ID: 3042), Prob: 0.0002
+Token: ' else' (ID: 770), Prob: 0.0002
+Token: ' holds' (ID: 9982), Prob: 0.0002
+Token: ' regardless' (ID: 15484), Prob: 0.0002
+
+== Ranked Concepts (Clusters) ==
+Rank 1 | Concept Score: 0.5039
+  Tokens: [' may', ' must', ' could', ' might', ' cannot', ' would']
+Rank 2 | Concept Score: 0.0070
+  Tokens: [' kills', ' killed', ' killing', ' kill']
+Rank 3 | Concept Score: 0.0052
+  Tokens: [' alive', ' living', ' lives']
+Rank 4 | Concept Score: 0.0050
+  Tokens: [' knows', ' makes', ' takes', ' starts', ' decides', ' meets', ' gives', ' allows']
+Rank 5 | Concept Score: 0.0036
+  Tokens: [' except', ' within', ' without', ' whose', ' among', ' regardless']
+Rank 6 | Concept Score: 0.0035
+  Tokens: [' wants', ' needs', ' requires']
+Rank 7 | Concept Score: 0.0022
+  Tokens: [' dies', ' born', ' die', ' dead']
+Rank 8 | Concept Score: 0.0020
+  Tokens: [' also', ' always', ' still', ' already']
+Rank 9 | Concept Score: 0.0008
+  Tokens: [' younger', ' today', ' male', ' present']
+Rank 10 | Concept Score: 0.0008
+  Tokens: [' every']
+Rank 11 | Concept Score: 0.0007
+  Tokens: [' becomes', ' survives', ' remains', ' holds']
+Rank 12 | Concept Score: 0.0006
+  Tokens: [' either', ' possibly']
+Rank 13 | Concept Score: 0.0004
+  Tokens: [' acts', ' shoots']
+Rank 14 | Concept Score: 0.0002
+  Tokens: [' else']
+
+**Chosen Concept:** Rank 1 with score 0.5039

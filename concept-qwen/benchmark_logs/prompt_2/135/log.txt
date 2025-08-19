@@ -1,0 +1,106 @@
+--- Step 135 Log ---
+
+== Filtered Candidates ==
+Token: ' effect' (ID: 2456), Prob: 0.9844
+Token: ' effects' (ID: 6239), Prob: 0.0075
+Token: 'effect' (ID: 26061), Prob: 0.0040
+Token: '-effect' (ID: 23067), Prob: 0.0031
+Token: ' Effect' (ID: 13449), Prob: 0.0005
+Token: 'Effect' (ID: 7738), Prob: 0.0002
+Token: ' efect' (ID: 42946), Prob: 0.0002
+Token: ' problem' (ID: 3491), Prob: 0.0002
+Token: ' affect' (ID: 7802), Prob: 0.0002
+Token: '_effect' (ID: 27125), Prob: 0.0002
+Token: ' outcome' (ID: 15274), Prob: 0.0002
+Token: ' issue' (ID: 4265), Prob: 0.0001
+Token: ' situation' (ID: 6534), Prob: 0.0000
+Token: '	effect' (ID: 88070), Prob: 0.0000
+Token: ' event' (ID: 1538), Prob: 0.0000
+Token: 'ffect' (ID: 1705), Prob: 0.0000
+Token: ' treatment' (ID: 6380), Prob: 0.0000
+Token: ' affects' (ID: 21501), Prob: 0.0000
+Token: ' result' (ID: 1102), Prob: 0.0000
+Token: ' effectiveness' (ID: 26279), Prob: 0.0000
+Token: ' affecting' (ID: 27887), Prob: 0.0000
+Token: '.effect' (ID: 63534), Prob: 0.0000
+Token: ' Effects' (ID: 29146), Prob: 0.0000
+Token: '(effect' (ID: 91779), Prob: 0.0000
+Token: ' thing' (ID: 3166), Prob: 0.0000
+Token: ' condition' (ID: 2971), Prob: 0.0000
+Token: ' impact' (ID: 5421), Prob: 0.0000
+Token: ' consequence' (ID: 28674), Prob: 0.0000
+Token: ' attack' (ID: 3359), Prob: 0.0000
+Token: ' case' (ID: 1142), Prob: 0.0000
+Token: ' treat' (ID: 4228), Prob: 0.0000
+Token: ' use' (ID: 990), Prob: 0.0000
+Token: 'effects' (ID: 80424), Prob: 0.0000
+Token: ' threat' (ID: 5899), Prob: 0.0000
+Token: ' goal' (ID: 5795), Prob: 0.0000
+Token: ' effective' (ID: 7373), Prob: 0.0000
+Token: ' effet' (ID: 66681), Prob: 0.0000
+Token: '-effects' (ID: 74788), Prob: 0.0000
+Token: ' state' (ID: 1584), Prob: 0.0000
+Token: ' eff' (ID: 3289), Prob: 0.0000
+Token: ' outbreak' (ID: 30088), Prob: 0.0000
+Token: ' ability' (ID: 5726), Prob: 0.0000
+Token: ' symptom' (ID: 48548), Prob: 0.0000
+Token: ' reaction' (ID: 12720), Prob: 0.0000
+Token: ' benefit' (ID: 8760), Prob: 0.0000
+Token: ' crisis' (ID: 11251), Prob: 0.0000
+Token: ' disease' (ID: 8457), Prob: 0.0000
+Token: ' change' (ID: 2297), Prob: 0.0000
+Token: 'ffects' (ID: 39927), Prob: 0.0000
+Token: ' success' (ID: 2393), Prob: 0.0000
+Token: ' affair' (ID: 29917), Prob: 0.0000
+Token: ' example' (ID: 3110), Prob: 0.0000
+Token: ' failure' (ID: 7901), Prob: 0.0000
+Token: ' phenomenon' (ID: 24844), Prob: 0.0000
+Token: ' trait' (ID: 17567), Prob: 0.0000
+Token: ' using' (ID: 1667), Prob: 0.0000
+Token: ' scenario' (ID: 15048), Prob: 0.0000
+Token: ' illness' (ID: 17125), Prob: 0.0000
+Token: ' product' (ID: 1985), Prob: 0.0000
+Token: '_EFFECT' (ID: 55634), Prob: 0.0000
+Token: ' health' (ID: 2820), Prob: 0.0000
+Token: 'fect' (ID: 3751), Prob: 0.0000
+Token: ' possibility' (ID: 13038), Prob: 0.0000
+Token: ' process' (ID: 1882), Prob: 0.0000
+Token: ' defect' (ID: 22219), Prob: 0.0000
+
+== Ranked Concepts (Clusters) ==
+Rank 1 | Concept Score: 1.0000
+  Tokens: [' effect', ' effects', 'effect', '-effect', ' Effect', 'Effect', ' efect', '_effect', '\teffect', '.effect', ' Effects', '(effect', 'effects', ' effet', '-effects', '_EFFECT']
+Rank 2 | Concept Score: 0.0003
+  Tokens: [' problem', ' issue', ' process']
+Rank 3 | Concept Score: 0.0002
+  Tokens: [' affect', ' affects', ' affecting', ' impact']
+Rank 4 | Concept Score: 0.0002
+  Tokens: [' outcome', ' result', ' consequence']
+Rank 5 | Concept Score: 0.0001
+  Tokens: [' situation', ' event', ' case', ' example', ' phenomenon', ' scenario', ' possibility']
+Rank 6 | Concept Score: 0.0000
+  Tokens: [' treatment', ' treat']
+Rank 7 | Concept Score: 0.0000
+  Tokens: [' effectiveness', ' effective', ' eff']
+Rank 8 | Concept Score: 0.0000
+  Tokens: ['ffect', 'ffects']
+Rank 9 | Concept Score: 0.0000
+  Tokens: [' attack', ' threat', ' outbreak', ' symptom', ' crisis', ' disease', ' illness', ' health', ' defect']
+Rank 10 | Concept Score: 0.0000
+  Tokens: [' condition', ' state']
+Rank 11 | Concept Score: 0.0000
+  Tokens: [' thing', ' affair']
+Rank 12 | Concept Score: 0.0000
+  Tokens: [' ability', ' success', ' failure']
+Rank 13 | Concept Score: 0.0000
+  Tokens: [' goal', ' benefit']
+Rank 14 | Concept Score: 0.0000
+  Tokens: [' use', ' using']
+Rank 15 | Concept Score: 0.0000
+  Tokens: [' reaction', ' trait']
+Rank 16 | Concept Score: 0.0000
+  Tokens: [' change', ' product']
+Rank 17 | Concept Score: 0.0000
+  Tokens: ['fect']
+
+**Chosen Concept:** Rank 1 with score 1.0000

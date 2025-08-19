@@ -1,0 +1,74 @@
+--- Step 77 Log ---
+
+== Filtered Candidates ==
+Token: ' though' (ID: 3498), Prob: 0.9883
+Token: ' although' (ID: 7892), Prob: 0.0012
+Token: ' however' (ID: 4764), Prob: 0.0001
+Token: ' Though' (ID: 17594), Prob: 0.0001
+Token: ' despite' (ID: 8818), Prob: 0.0001
+Token: ' since' (ID: 2474), Prob: 0.0001
+Token: ' even' (ID: 1496), Prob: 0.0000
+Token: ' snow' (ID: 11794), Prob: 0.0000
+Token: 'though' (ID: 4535), Prob: 0.0000
+Token: ' thought' (ID: 3381), Prob: 0.0000
+Token: ' whether' (ID: 3425), Prob: 0.0000
+Token: ' whereas' (ID: 19853), Prob: 0.0000
+Token: ' like' (ID: 1075), Prob: 0.0000
+Token: ' still' (ID: 2058), Prob: 0.0000
+Token: 'Though' (ID: 26733), Prob: 0.0000
+Token: ' weather' (ID: 9104), Prob: 0.0000
+Token: ' worse' (ID: 10960), Prob: 0.0000
+Token: ' thou' (ID: 33123), Prob: 0.0000
+Token: ' tho' (ID: 39325), Prob: 0.0000
+Token: ' Although' (ID: 10328), Prob: 0.0000
+Token: ' without' (ID: 2041), Prob: 0.0000
+Token: ' today' (ID: 3351), Prob: 0.0000
+Token: ' throughout' (ID: 6814), Prob: 0.0000
+Token: ' wind' (ID: 9956), Prob: 0.0000
+Token: ' thus' (ID: 8450), Prob: 0.0000
+Token: ' yet' (ID: 3602), Prob: 0.0000
+Token: ' given' (ID: 2661), Prob: 0.0000
+Token: ' things' (ID: 2513), Prob: 0.0000
+Token: ' Snow' (ID: 18901), Prob: 0.0000
+Token: ' especially' (ID: 5310), Prob: 0.0000
+Token: ' thinking' (ID: 7274), Prob: 0.0000
+Token: ' aunque' (ID: 58366), Prob: 0.0000
+Token: ' whilst' (ID: 23856), Prob: 0.0000
+Token: ' considering' (ID: 12831), Prob: 0.0000
+Token: ' little' (ID: 2632), Prob: 0.0000
+Token: ' better' (ID: 2664), Prob: 0.0000
+Token: 'Although' (ID: 15802), Prob: 0.0000
+
+== Ranked Concepts (Clusters) ==
+Rank 1 | Concept Score: 0.9883
+  Tokens: [' though', ' however', 'though']
+Rank 2 | Concept Score: 0.0013
+  Tokens: [' although', ' Though', 'Though', ' Although', ' aunque', 'Although']
+Rank 3 | Concept Score: 0.0001
+  Tokens: [' despite', ' even']
+Rank 4 | Concept Score: 0.0001
+  Tokens: [' since', ' without', ' throughout']
+Rank 5 | Concept Score: 0.0001
+  Tokens: [' snow', ' weather', ' wind', ' Snow']
+Rank 6 | Concept Score: 0.0000
+  Tokens: [' thought', ' thinking']
+Rank 7 | Concept Score: 0.0000
+  Tokens: [' whether', ' especially']
+Rank 8 | Concept Score: 0.0000
+  Tokens: [' whereas', ' whilst']
+Rank 9 | Concept Score: 0.0000
+  Tokens: [' like', ' things', ' little']
+Rank 10 | Concept Score: 0.0000
+  Tokens: [' thou', ' tho']
+Rank 11 | Concept Score: 0.0000
+  Tokens: [' still', ' yet']
+Rank 12 | Concept Score: 0.0000
+  Tokens: [' worse', ' better']
+Rank 13 | Concept Score: 0.0000
+  Tokens: [' given', ' considering']
+Rank 14 | Concept Score: 0.0000
+  Tokens: [' today']
+Rank 15 | Concept Score: 0.0000
+  Tokens: [' thus']
+
+**Chosen Concept:** Rank 1 with score 0.9883

@@ -1,0 +1,124 @@
+--- Step 8 Log ---
+
+== Filtered Candidates ==
+Token: ' spreads' (ID: 42553), Prob: 0.0396
+Token: ' causes' (ID: 11137), Prob: 0.0212
+Token: ' works' (ID: 4278), Prob: 0.0199
+Token: ' starts' (ID: 8471), Prob: 0.0199
+Token: ' requires' (ID: 7460), Prob: 0.0146
+Token: ' makes' (ID: 3643), Prob: 0.0107
+Token: ' affects' (ID: 21501), Prob: 0.0107
+Token: ' appears' (ID: 7952), Prob: 0.0100
+Token: ' manifests' (ID: 83232), Prob: 0.0100
+Token: ' begins' (ID: 12033), Prob: 0.0073
+Token: ' occurs' (ID: 13666), Prob: 0.0061
+Token: ' takes' (ID: 4990), Prob: 0.0057
+Token: ' comes' (ID: 4041), Prob: 0.0054
+Token: ' must' (ID: 1969), Prob: 0.0050
+Token: ' seems' (ID: 4977), Prob: 0.0050
+Token: ' allows' (ID: 6147), Prob: 0.0050
+Token: ' shows' (ID: 4933), Prob: 0.0031
+Token: ' leads' (ID: 11508), Prob: 0.0029
+Token: ' could' (ID: 1410), Prob: 0.0025
+Token: ' attacks' (ID: 8776), Prob: 0.0025
+Token: ' resembles' (ID: 52191), Prob: 0.0024
+Token: ' progresses' (ID: 67611), Prob: 0.0024
+Token: ' involves' (ID: 17601), Prob: 0.0021
+Token: ' caused' (ID: 8881), Prob: 0.0020
+Token: ' acts' (ID: 14056), Prob: 0.0020
+Token: ' brings' (ID: 12434), Prob: 0.0017
+Token: ' process' (ID: 1882), Prob: 0.0016
+Token: ' started' (ID: 3855), Prob: 0.0016
+Token: ' cannot' (ID: 4157), Prob: 0.0016
+Token: ' presents' (ID: 18404), Prob: 0.0016
+Token: ' develops' (ID: 38571), Prob: 0.0016
+Token: ' spread' (ID: 8865), Prob: 0.0015
+Token: ' would' (ID: 1035), Prob: 0.0014
+Token: ' may' (ID: 1231), Prob: 0.0014
+Token: ' stems' (ID: 43714), Prob: 0.0014
+Token: ' gives' (ID: 6696), Prob: 0.0014
+Token: ' removes' (ID: 28160), Prob: 0.0014
+Token: ' leaves' (ID: 10901), Prob: 0.0013
+Token: ' originated' (ID: 43753), Prob: 0.0013
+Token: ' results' (ID: 3059), Prob: 0.0011
+Token: ' needs' (ID: 3880), Prob: 0.0011
+Token: ' turns' (ID: 10577), Prob: 0.0011
+Token: ' produces' (ID: 18644), Prob: 0.0011
+Token: ' alters' (ID: 87587), Prob: 0.0011
+Token: ' began' (ID: 6009), Prob: 0.0011
+Token: ' originates' (ID: 98870), Prob: 0.0011
+Token: ' exists' (ID: 6724), Prob: 0.0010
+Token: ' tends' (ID: 27236), Prob: 0.0010
+Token: ' triggers' (ID: 30754), Prob: 0.0010
+Token: ' creates' (ID: 11450), Prob: 0.0009
+Token: ' goes' (ID: 5780), Prob: 0.0009
+Token: ' looks' (ID: 5868), Prob: 0.0009
+Token: ' kills' (ID: 28810), Prob: 0.0009
+Token: ' restores' (ID: 87755), Prob: 0.0009
+Token: ' becomes' (ID: 9044), Prob: 0.0008
+Token: ' reduces' (ID: 25271), Prob: 0.0008
+Token: ' acceler' (ID: 14177), Prob: 0.0008
+Token: ' mim' (ID: 26905), Prob: 0.0007
+Token: ' heals' (ID: 86984), Prob: 0.0007
+Token: ' changes' (ID: 4344), Prob: 0.0007
+Token: ' provides' (ID: 5707), Prob: 0.0007
+Token: ' plants' (ID: 10779), Prob: 0.0007
+Token: ' wors' (ID: 46193), Prob: 0.0007
+Token: ' actually' (ID: 3520), Prob: 0.0006
+Token: ' runs' (ID: 8473), Prob: 0.0006
+Token: ' reveals' (ID: 20992), Prob: 0.0006
+Token: ' renders' (ID: 44282), Prob: 0.0006
+Token: ' activates' (ID: 73942), Prob: 0.0006
+Token: ' remains' (ID: 8458), Prob: 0.0006
+Token: ' operates' (ID: 26057), Prob: 0.0006
+Token: ' uses' (ID: 5711), Prob: 0.0006
+Token: ' follows' (ID: 11017), Prob: 0.0006
+Token: ' might' (ID: 2578), Prob: 0.0005
+Token: ' symptoms' (ID: 13495), Prob: 0.0005
+Token: ' evolves' (ID: 91954), Prob: 0.0005
+Token: ' initially' (ID: 15102), Prob: 0.0005
+Token: ' naturally' (ID: 17712), Prob: 0.0005
+Token: ' processes' (ID: 11364), Prob: 0.0005
+Token: ' prevents' (ID: 27934), Prob: 0.0005
+
+== Ranked Concepts (Clusters) ==
+Rank 1 | Concept Score: 0.0410
+  Tokens: [' spreads', ' spread']
+Rank 2 | Concept Score: 0.0349
+  Tokens: [' causes', ' affects', ' caused', ' triggers']
+Rank 3 | Concept Score: 0.0299
+  Tokens: [' starts', ' begins', ' started', ' began']
+Rank 4 | Concept Score: 0.0298
+  Tokens: [' makes', ' allows', ' shows', ' leads', ' brings', ' presents', ' gives', ' produces', ' creates', ' provides', ' reveals']
+Rank 5 | Concept Score: 0.0287
+  Tokens: [' appears', ' occurs', ' comes', ' seems', ' exists', ' operates', ' follows']
+Rank 6 | Concept Score: 0.0243
+  Tokens: [' works', ' acts', ' turns', ' changes', ' runs']
+Rank 7 | Concept Score: 0.0167
+  Tokens: [' requires', ' involves']
+Rank 8 | Concept Score: 0.0126
+  Tokens: [' must', ' could', ' cannot', ' would', ' may', ' might']
+Rank 9 | Concept Score: 0.0106
+  Tokens: [' manifests', ' renders']
+Rank 10 | Concept Score: 0.0074
+  Tokens: [' takes', ' needs', ' uses']
+Rank 11 | Concept Score: 0.0069
+  Tokens: [' removes', ' alters', ' kills', ' restores', ' reduces', ' heals', ' activates', ' prevents']
+Rank 12 | Concept Score: 0.0052
+  Tokens: [' attacks', ' acceler', ' mim', ' wors', ' symptoms']
+Rank 13 | Concept Score: 0.0045
+  Tokens: [' progresses', ' develops', ' evolves']
+Rank 14 | Concept Score: 0.0045
+  Tokens: [' stems', ' leaves', ' results', ' plants']
+Rank 15 | Concept Score: 0.0042
+  Tokens: [' tends', ' goes', ' looks', ' becomes', ' remains']
+Rank 16 | Concept Score: 0.0024
+  Tokens: [' resembles']
+Rank 17 | Concept Score: 0.0023
+  Tokens: [' originated', ' originates']
+Rank 18 | Concept Score: 0.0021
+  Tokens: [' process', ' processes']
+Rank 19 | Concept Score: 0.0016
+  Tokens: [' actually', ' initially', ' naturally']
+
+**Chosen Concept:** Rank 1 with score 0.0410

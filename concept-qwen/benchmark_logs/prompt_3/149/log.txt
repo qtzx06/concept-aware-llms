@@ -1,0 +1,101 @@
+--- Step 149 Log ---
+
+== Filtered Candidates ==
+Token: ' remains' (ID: 8458), Prob: 1.0000
+Token: ' remain' (ID: 7146), Prob: 0.0002
+Token: ' remained' (ID: 14616), Prob: 0.0001
+Token: ' still' (ID: 2058), Prob: 0.0000
+Token: ' remaining' (ID: 9664), Prob: 0.0000
+Token: ' continues' (ID: 9539), Prob: 0.0000
+Token: ' seems' (ID: 4977), Prob: 0.0000
+Token: ' stays' (ID: 26558), Prob: 0.0000
+Token: ' returns' (ID: 4675), Prob: 0.0000
+Token: ' Rem' (ID: 4926), Prob: 0.0000
+Token: ' stands' (ID: 13352), Prob: 0.0000
+Token: ' rem' (ID: 1299), Prob: 0.0000
+Token: ' assumes' (ID: 21484), Prob: 0.0000
+Token: ' appears' (ID: 7952), Prob: 0.0000
+Token: ' retains' (ID: 51844), Prob: 0.0000
+Token: ' maintains' (ID: 31995), Prob: 0.0000
+Token: ' proceeds' (ID: 33455), Prob: 0.0000
+Token: ' represents' (ID: 10868), Prob: 0.0000
+Token: ' depends' (ID: 13798), Prob: 0.0000
+Token: ' means' (ID: 3363), Prob: 0.0000
+Token: ' becomes' (ID: 9044), Prob: 0.0000
+Token: ' removes' (ID: 28160), Prob: 0.0000
+Token: 'rem' (ID: 1826), Prob: 0.0000
+Token: ' keeps' (ID: 13598), Prob: 0.0000
+Token: ' falls' (ID: 17066), Prob: 0.0000
+Token: ' relates' (ID: 35616), Prob: 0.0000
+Token: ' rests' (ID: 53231), Prob: 0.0000
+Token: ' lasts' (ID: 39658), Prob: 0.0000
+Token: ' res' (ID: 592), Prob: 0.0000
+Token: ' may' (ID: 1231), Prob: 0.0000
+Token: ' considers' (ID: 31138), Prob: 0.0000
+Token: ' ensures' (ID: 25351), Prob: 0.0000
+Token: ' must' (ID: 1969), Prob: 0.0000
+Token: ' consists' (ID: 17167), Prob: 0.0000
+Token: ' meanwhile' (ID: 36218), Prob: 0.0000
+Token: ' revers' (ID: 17431), Prob: 0.0000
+Token: ' uses' (ID: 5711), Prob: 0.0000
+Token: ' looks' (ID: 5868), Prob: 0.0000
+Token: ' goes' (ID: 5780), Prob: 0.0000
+Token: ' belongs' (ID: 17180), Prob: 0.0000
+Token: ' changes' (ID: 4344), Prob: 0.0000
+Token: ' requires' (ID: 7460), Prob: 0.0000
+Token: ' relies' (ID: 33644), Prob: 0.0000
+Token: ' something' (ID: 2494), Prob: 0.0000
+Token: ' lies' (ID: 15448), Prob: 0.0000
+Token: ' follows' (ID: 11017), Prob: 0.0000
+Token: ' remembers' (ID: 42357), Prob: 0.0000
+Token: ' makes' (ID: 3643), Prob: 0.0000
+Token: ' ren' (ID: 5672), Prob: 0.0000
+Token: ' disappears' (ID: 60270), Prob: 0.0000
+Token: ' persists' (ID: 66045), Prob: 0.0000
+Token: ' also' (ID: 1083), Prob: 0.0000
+
+== Ranked Concepts (Clusters) ==
+Rank 1 | Concept Score: 1.0000
+  Tokens: [' remains', ' remain', ' remained', ' remaining', ' stays']
+Rank 2 | Concept Score: 0.0000
+  Tokens: [' still', ' also']
+Rank 3 | Concept Score: 0.0000
+  Tokens: [' seems', ' appears', ' becomes', ' disappears']
+Rank 4 | Concept Score: 0.0000
+  Tokens: [' continues']
+Rank 5 | Concept Score: 0.0000
+  Tokens: [' Rem', ' rem', 'rem']
+Rank 6 | Concept Score: 0.0000
+  Tokens: [' returns', ' revers', ' changes']
+Rank 7 | Concept Score: 0.0000
+  Tokens: [' assumes', ' depends', ' relates', ' consists', ' requires', ' relies']
+Rank 8 | Concept Score: 0.0000
+  Tokens: [' retains', ' maintains', ' keeps']
+Rank 9 | Concept Score: 0.0000
+  Tokens: [' stands']
+Rank 10 | Concept Score: 0.0000
+  Tokens: [' falls', ' rests', ' belongs', ' lies']
+Rank 11 | Concept Score: 0.0000
+  Tokens: [' removes', ' considers', ' remembers']
+Rank 12 | Concept Score: 0.0000
+  Tokens: [' represents', ' looks']
+Rank 13 | Concept Score: 0.0000
+  Tokens: [' means', ' ensures', ' makes']
+Rank 14 | Concept Score: 0.0000
+  Tokens: [' proceeds']
+Rank 15 | Concept Score: 0.0000
+  Tokens: [' may', ' must']
+Rank 16 | Concept Score: 0.0000
+  Tokens: [' lasts', ' persists']
+Rank 17 | Concept Score: 0.0000
+  Tokens: [' res', ' ren']
+Rank 18 | Concept Score: 0.0000
+  Tokens: [' goes', ' follows']
+Rank 19 | Concept Score: 0.0000
+  Tokens: [' meanwhile']
+Rank 20 | Concept Score: 0.0000
+  Tokens: [' uses']
+Rank 21 | Concept Score: 0.0000
+  Tokens: [' something']
+
+**Chosen Concept:** Rank 1 with score 1.0000

@@ -1,0 +1,108 @@
+--- Step 100 Log ---
+
+== Filtered Candidates ==
+Token: ' could' (ID: 1410), Prob: 0.0134
+Token: ' cannot' (ID: 4157), Prob: 0.0134
+Token: ' found' (ID: 1730), Prob: 0.0092
+Token: ' must' (ID: 1969), Prob: 0.0087
+Token: ' present' (ID: 3042), Prob: 0.0049
+Token: ' appears' (ID: 7952), Prob: 0.0041
+Token: ' requires' (ID: 7460), Prob: 0.0025
+Token: ' may' (ID: 1231), Prob: 0.0023
+Token: ' protein' (ID: 12833), Prob: 0.0023
+Token: ' enzyme' (ID: 48142), Prob: 0.0023
+Token: ' exists' (ID: 6724), Prob: 0.0018
+Token: ' remains' (ID: 8458), Prob: 0.0014
+Token: ' seems' (ID: 4977), Prob: 0.0013
+Token: ' gene' (ID: 14862), Prob: 0.0013
+Token: ' required' (ID: 2567), Prob: 0.0013
+Token: ' needs' (ID: 3880), Prob: 0.0012
+Token: ' used' (ID: 1483), Prob: 0.0010
+Token: ' lacks' (ID: 36756), Prob: 0.0010
+Token: ' produced' (ID: 8947), Prob: 0.0009
+Token: ' might' (ID: 2578), Prob: 0.0008
+Token: ' levels' (ID: 5866), Prob: 0.0007
+Token: ' appeared' (ID: 9723), Prob: 0.0007
+Token: ' concentration' (ID: 19950), Prob: 0.0006
+Token: ' never' (ID: 2581), Prob: 0.0005
+Token: ' test' (ID: 1273), Prob: 0.0005
+Token: ' level' (ID: 2188), Prob: 0.0005
+Token: ' discovered' (ID: 11105), Prob: 0.0005
+Token: ' occurs' (ID: 13666), Prob: 0.0005
+Token: ' would' (ID: 1035), Prob: 0.0004
+Token: ' comes' (ID: 4041), Prob: 0.0004
+Token: ' disappeared' (ID: 28396), Prob: 0.0004
+Token: ' also' (ID: 1083), Prob: 0.0004
+Token: ' activity' (ID: 5702), Prob: 0.0004
+Token: ' shows' (ID: 4933), Prob: 0.0004
+Token: ' detected' (ID: 16507), Prob: 0.0004
+Token: ' varies' (ID: 34227), Prob: 0.0004
+Token: ' deficiency' (ID: 47194), Prob: 0.0004
+Token: ' available' (ID: 2500), Prob: 0.0003
+Token: ' currently' (ID: 5023), Prob: 0.0003
+Token: ' contained' (ID: 12985), Prob: 0.0003
+Token: ' within' (ID: 2878), Prob: 0.0003
+Token: ' alone' (ID: 7484), Prob: 0.0003
+Token: ' molecule' (ID: 41930), Prob: 0.0003
+Token: ' still' (ID: 2058), Prob: 0.0003
+Token: ' content' (ID: 2213), Prob: 0.0003
+Token: ' belongs' (ID: 17180), Prob: 0.0003
+Token: ' showed' (ID: 8542), Prob: 0.0002
+Token: ' beta' (ID: 13440), Prob: 0.0002
+Token: ' tested' (ID: 12510), Prob: 0.0002
+Token: ' depends' (ID: 13798), Prob: 0.0002
+Token: ' inside' (ID: 4766), Prob: 0.0002
+Token: ' production' (ID: 5670), Prob: 0.0002
+Token: ' dosage' (ID: 45940), Prob: 0.0002
+Token: ' came' (ID: 3697), Prob: 0.0002
+Token: ' needed' (ID: 4362), Prob: 0.0002
+Token: ' contains' (ID: 5610), Prob: 0.0002
+Token: ' type' (ID: 943), Prob: 0.0002
+Token: ' missing' (ID: 7402), Prob: 0.0002
+Token: ' variant' (ID: 11424), Prob: 0.0002
+Token: ' presents' (ID: 18404), Prob: 0.0002
+Token: ' differs' (ID: 43542), Prob: 0.0002
+Token: ' responsible' (ID: 8480), Prob: 0.0001
+Token: ' dose' (ID: 19115), Prob: 0.0001
+
+== Ranked Concepts (Clusters) ==
+Rank 1 | Concept Score: 0.0391
+  Tokens: [' could', ' cannot', ' must', ' may', ' might', ' would']
+Rank 2 | Concept Score: 0.0114
+  Tokens: [' appears', ' exists', ' remains', ' seems', ' lacks', ' occurs', ' varies', ' belongs', ' depends', ' contains', ' differs']
+Rank 3 | Concept Score: 0.0111
+  Tokens: [' found', ' used', ' discovered', ' detected']
+Rank 4 | Concept Score: 0.0065
+  Tokens: [' protein', ' enzyme', ' gene', ' molecule', ' beta']
+Rank 5 | Concept Score: 0.0051
+  Tokens: [' requires', ' required', ' needs', ' needed']
+Rank 6 | Concept Score: 0.0051
+  Tokens: [' present', ' presents']
+Rank 7 | Concept Score: 0.0015
+  Tokens: [' never', ' also', ' currently', ' still']
+Rank 8 | Concept Score: 0.0013
+  Tokens: [' contained', ' within', ' content', ' inside', ' responsible']
+Rank 9 | Concept Score: 0.0012
+  Tokens: [' levels', ' level']
+Rank 10 | Concept Score: 0.0011
+  Tokens: [' appeared', ' disappeared']
+Rank 11 | Concept Score: 0.0011
+  Tokens: [' produced', ' production']
+Rank 12 | Concept Score: 0.0010
+  Tokens: [' concentration', ' dosage', ' dose']
+Rank 13 | Concept Score: 0.0007
+  Tokens: [' activity', ' alone']
+Rank 14 | Concept Score: 0.0007
+  Tokens: [' test', ' tested']
+Rank 15 | Concept Score: 0.0006
+  Tokens: [' shows', ' showed']
+Rank 16 | Concept Score: 0.0006
+  Tokens: [' comes', ' came']
+Rank 17 | Concept Score: 0.0005
+  Tokens: [' deficiency', ' missing']
+Rank 18 | Concept Score: 0.0003
+  Tokens: [' available']
+Rank 19 | Concept Score: 0.0003
+  Tokens: [' type', ' variant']
+
+**Chosen Concept:** Rank 1 with score 0.0391

@@ -1,0 +1,156 @@
+--- Step 85 Log ---
+
+== Filtered Candidates ==
+Token: ' contain' (ID: 6644), Prob: 0.0112
+Token: ' exist' (ID: 3000), Prob: 0.0028
+Token: ' also' (ID: 1083), Prob: 0.0019
+Token: ' play' (ID: 1486), Prob: 0.0017
+Token: ' act' (ID: 1160), Prob: 0.0013
+Token: ' cause' (ID: 5240), Prob: 0.0010
+Token: ' belong' (ID: 9173), Prob: 0.0010
+Token: ' somehow' (ID: 16925), Prob: 0.0008
+Token: ' possess' (ID: 15218), Prob: 0.0007
+Token: ' work' (ID: 975), Prob: 0.0007
+Token: ' come' (ID: 2525), Prob: 0.0007
+Token: ' require' (ID: 1373), Prob: 0.0005
+Token: ' carry' (ID: 6777), Prob: 0.0005
+Token: ' develop' (ID: 2225), Prob: 0.0005
+Token: ' produce' (ID: 8193), Prob: 0.0005
+Token: ' help' (ID: 1492), Prob: 0.0004
+Token: ' provide' (ID: 3410), Prob: 0.0004
+Token: ' grow' (ID: 3063), Prob: 0.0004
+Token: ' interact' (ID: 16282), Prob: 0.0004
+Token: ' still' (ID: 2058), Prob: 0.0003
+Token: ' live' (ID: 3887), Prob: 0.0003
+Token: ' eventually' (ID: 9583), Prob: 0.0003
+Token: ' lie' (ID: 10246), Prob: 0.0003
+Token: ' allow' (ID: 2138), Prob: 0.0003
+Token: ' lead' (ID: 2990), Prob: 0.0003
+Token: ' bind' (ID: 10719), Prob: 0.0003
+Token: ' appear' (ID: 4994), Prob: 0.0002
+Token: ' undergo' (ID: 36671), Prob: 0.0002
+Token: ' perform' (ID: 2736), Prob: 0.0002
+Token: ' first' (ID: 1156), Prob: 0.0002
+Token: ' support' (ID: 1824), Prob: 0.0002
+Token: ' hold' (ID: 3331), Prob: 0.0002
+Token: ' host' (ID: 3468), Prob: 0.0002
+Token: ' release' (ID: 4879), Prob: 0.0002
+Token: ' affect' (ID: 7802), Prob: 0.0002
+Token: ' trigger' (ID: 8183), Prob: 0.0002
+Token: ' survive' (ID: 17697), Prob: 0.0002
+Token: ' include' (ID: 2924), Prob: 0.0002
+Token: ' remain' (ID: 7146), Prob: 0.0002
+Token: ' serve' (ID: 8683), Prob: 0.0002
+Token: ' reside' (ID: 47283), Prob: 0.0002
+Token: ' contribute' (ID: 16792), Prob: 0.0002
+Token: ' consist' (ID: 6685), Prob: 0.0002
+Token: ' behave' (ID: 35692), Prob: 0.0002
+Token: ' function' (ID: 729), Prob: 0.0002
+Token: ' take' (ID: 1896), Prob: 0.0002
+Token: ' originate' (ID: 81216), Prob: 0.0002
+Token: ' find' (ID: 1477), Prob: 0.0001
+Token: ' change' (ID: 2297), Prob: 0.0001
+Token: ' account' (ID: 2692), Prob: 0.0001
+Token: ' show' (ID: 1473), Prob: 0.0001
+Token: ' already' (ID: 2669), Prob: 0.0001
+Token: ' present' (ID: 3042), Prob: 0.0001
+Token: ' become' (ID: 3635), Prob: 0.0001
+Token: ' control' (ID: 2524), Prob: 0.0001
+Token: ' either' (ID: 2987), Prob: 0.0001
+Token: ' respond' (ID: 5889), Prob: 0.0001
+Token: ' kill' (ID: 5505), Prob: 0.0001
+Token: ' need' (ID: 1184), Prob: 0.0001
+Token: ' create' (ID: 1855), Prob: 0.0001
+Token: ' initially' (ID: 15102), Prob: 0.0001
+Token: ' lack' (ID: 6853), Prob: 0.0001
+Token: ' spread' (ID: 8865), Prob: 0.0001
+Token: ' actually' (ID: 3520), Prob: 0.0001
+Token: ' involve' (ID: 21058), Prob: 0.0001
+Token: ' infect' (ID: 33427), Prob: 0.0001
+Token: ' break' (ID: 1438), Prob: 0.0001
+Token: ' share' (ID: 4332), Prob: 0.0001
+Token: ' increase' (ID: 5263), Prob: 0.0001
+Token: ' explain' (ID: 10339), Prob: 0.0001
+Token: ' satisfy' (ID: 26553), Prob: 0.0001
+Token: ' exhibit' (ID: 30224), Prob: 0.0001
+Token: ' mean' (ID: 3076), Prob: 0.0001
+Token: ' enter' (ID: 3725), Prob: 0.0001
+Token: ' originally' (ID: 13214), Prob: 0.0001
+Token: ' operate' (ID: 14476), Prob: 0.0001
+Token: ' absorb' (ID: 34306), Prob: 0.0001
+Token: ' evolve' (ID: 37580), Prob: 0.0001
+Token: ' occur' (ID: 12170), Prob: 0.0001
+Token: ' emit' (ID: 16691), Prob: 0.0001
+Token: ' transmit' (ID: 29282), Prob: 0.0001
+Token: ' give' (ID: 2968), Prob: 0.0001
+Token: ' fall' (ID: 4399), Prob: 0.0001
+Token: ' influence' (ID: 10173), Prob: 0.0001
+Token: ' pose' (ID: 17040), Prob: 0.0001
+Token: ' use' (ID: 990), Prob: 0.0001
+Token: ' start' (ID: 1191), Prob: 0.0001
+
+== Ranked Concepts (Clusters) ==
+Rank 1 | Concept Score: 0.0124
+  Tokens: [' contain', ' require', ' allow', ' include', ' consist', ' involve']
+Rank 2 | Concept Score: 0.0039
+  Tokens: [' play', ' act', ' work', ' function']
+Rank 3 | Concept Score: 0.0038
+  Tokens: [' also', ' somehow', ' still', ' eventually', ' already', ' initially', ' actually', ' originally']
+Rank 4 | Concept Score: 0.0036
+  Tokens: [' exist', ' possess']
+Rank 5 | Concept Score: 0.0018
+  Tokens: [' develop', ' produce', ' provide', ' contribute', ' create', ' explain', ' give']
+Rank 6 | Concept Score: 0.0015
+  Tokens: [' belong', ' lie', ' reside']
+Rank 7 | Concept Score: 0.0015
+  Tokens: [' cause', ' affect', ' trigger', ' influence']
+Rank 8 | Concept Score: 0.0013
+  Tokens: [' carry', ' bind', ' hold', ' host', ' kill']
+Rank 9 | Concept Score: 0.0009
+  Tokens: [' interact', ' undergo', ' behave', ' respond', ' operate']
+Rank 10 | Concept Score: 0.0008
+  Tokens: [' come', ' become']
+Rank 11 | Concept Score: 0.0007
+  Tokens: [' help', ' support', ' control']
+Rank 12 | Concept Score: 0.0005
+  Tokens: [' first', ' take', ' break', ' start']
+Rank 13 | Concept Score: 0.0005
+  Tokens: [' appear', ' originate', ' occur']
+Rank 14 | Concept Score: 0.0004
+  Tokens: [' grow', ' evolve']
+Rank 15 | Concept Score: 0.0004
+  Tokens: [' survive', ' remain']
+Rank 16 | Concept Score: 0.0004
+  Tokens: [' lead', ' mean']
+Rank 17 | Concept Score: 0.0003
+  Tokens: [' perform', ' exhibit']
+Rank 18 | Concept Score: 0.0003
+  Tokens: [' live']
+Rank 19 | Concept Score: 0.0003
+  Tokens: [' release', ' spread']
+Rank 20 | Concept Score: 0.0003
+  Tokens: [' infect', ' absorb', ' emit', ' transmit']
+Rank 21 | Concept Score: 0.0003
+  Tokens: [' find', ' show']
+Rank 22 | Concept Score: 0.0002
+  Tokens: [' need', ' lack', ' use']
+Rank 23 | Concept Score: 0.0002
+  Tokens: [' change', ' increase']
+Rank 24 | Concept Score: 0.0002
+  Tokens: [' serve']
+Rank 25 | Concept Score: 0.0002
+  Tokens: [' present', ' pose']
+Rank 26 | Concept Score: 0.0001
+  Tokens: [' account']
+Rank 27 | Concept Score: 0.0001
+  Tokens: [' either']
+Rank 28 | Concept Score: 0.0001
+  Tokens: [' share']
+Rank 29 | Concept Score: 0.0001
+  Tokens: [' satisfy']
+Rank 30 | Concept Score: 0.0001
+  Tokens: [' enter']
+Rank 31 | Concept Score: 0.0001
+  Tokens: [' fall']
+
+**Chosen Concept:** Rank 1 with score 0.0124

@@ -1,0 +1,54 @@
+--- Step 9 Log ---
+
+== Filtered Candidates ==
+Token: ' except' (ID: 3650), Prob: 0.0095
+Token: ' unless' (ID: 7241), Prob: 0.0020
+Token: ' due' (ID: 4152), Prob: 0.0014
+Token: ' even' (ID: 1496), Prob: 0.0013
+Token: ' around' (ID: 2163), Prob: 0.0009
+Token: ' especially' (ID: 5310), Prob: 0.0009
+Token: ' since' (ID: 2474), Prob: 0.0008
+Token: ' including' (ID: 2670), Prob: 0.0007
+Token: ' without' (ID: 2041), Prob: 0.0004
+Token: ' today' (ID: 3351), Prob: 0.0004
+Token: ' compared' (ID: 7707), Prob: 0.0004
+Token: ' yet' (ID: 3602), Prob: 0.0003
+Token: ' like' (ID: 1075), Prob: 0.0003
+Token: ' instead' (ID: 4518), Prob: 0.0003
+Token: ' despite' (ID: 8818), Prob: 0.0002
+Token: ' enough' (ID: 3322), Prob: 0.0002
+Token: ' right' (ID: 1290), Prob: 0.0002
+Token: ' throughout' (ID: 6814), Prob: 0.0002
+Token: ' regarding' (ID: 8826), Prob: 0.0002
+
+== Ranked Concepts (Clusters) ==
+Rank 1 | Concept Score: 0.0115
+  Tokens: [' except', ' unless']
+Rank 2 | Concept Score: 0.0021
+  Tokens: [' due', ' since']
+Rank 3 | Concept Score: 0.0016
+  Tokens: [' especially', ' including']
+Rank 4 | Concept Score: 0.0015
+  Tokens: [' even', ' despite']
+Rank 5 | Concept Score: 0.0011
+  Tokens: [' around', ' throughout']
+Rank 6 | Concept Score: 0.0004
+  Tokens: [' without']
+Rank 7 | Concept Score: 0.0004
+  Tokens: [' today']
+Rank 8 | Concept Score: 0.0004
+  Tokens: [' compared']
+Rank 9 | Concept Score: 0.0003
+  Tokens: [' yet']
+Rank 10 | Concept Score: 0.0003
+  Tokens: [' like']
+Rank 11 | Concept Score: 0.0003
+  Tokens: [' instead']
+Rank 12 | Concept Score: 0.0002
+  Tokens: [' enough']
+Rank 13 | Concept Score: 0.0002
+  Tokens: [' right']
+Rank 14 | Concept Score: 0.0002
+  Tokens: [' regarding']
+
+**Chosen Concept:** Rank 1 with score 0.0115

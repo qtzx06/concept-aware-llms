@@ -1,0 +1,142 @@
+--- Step 120 Log ---
+
+== Filtered Candidates ==
+Token: ' fungus' (ID: 78802), Prob: 0.9141
+Token: ' enzyme' (ID: 48142), Prob: 0.0586
+Token: ' disease' (ID: 8457), Prob: 0.0070
+Token: ' fungal' (ID: 94347), Prob: 0.0035
+Token: ' virus' (ID: 16770), Prob: 0.0020
+Token: ' fungi' (ID: 80440), Prob: 0.0018
+Token: ' organism' (ID: 46020), Prob: 0.0008
+Token: ' type' (ID: 943), Prob: 0.0004
+Token: ' infection' (ID: 18873), Prob: 0.0003
+Token: ' species' (ID: 9419), Prob: 0.0003
+Token: ' protein' (ID: 12833), Prob: 0.0003
+Token: ' mutation' (ID: 26374), Prob: 0.0002
+Token: ' environment' (ID: 4573), Prob: 0.0002
+Token: ' kind' (ID: 3093), Prob: 0.0002
+Token: ' enemy' (ID: 9175), Prob: 0.0002
+Token: ' alpha' (ID: 8287), Prob: 0.0001
+Token: ' animal' (ID: 9864), Prob: 0.0001
+Token: ' mushroom' (ID: 57366), Prob: 0.0001
+Token: ' gene' (ID: 14862), Prob: 0.0001
+Token: ' illness' (ID: 17125), Prob: 0.0001
+Token: ' human' (ID: 3738), Prob: 0.0001
+Token: ' substance' (ID: 19699), Prob: 0.0001
+Token: ' bacteria' (ID: 23157), Prob: 0.0001
+Token: ' path' (ID: 1815), Prob: 0.0001
+Token: ' combination' (ID: 10601), Prob: 0.0001
+Token: ' function' (ID: 729), Prob: 0.0001
+Token: ' similar' (ID: 4428), Prob: 0.0001
+Token: ' plant' (ID: 6008), Prob: 0.0001
+Token: ' condition' (ID: 2971), Prob: 0.0001
+Token: ' toxin' (ID: 97434), Prob: 0.0001
+Token: ' life' (ID: 2272), Prob: 0.0001
+Token: ' fish' (ID: 7640), Prob: 0.0001
+Token: ' enzym' (ID: 30911), Prob: 0.0001
+Token: ' variant' (ID: 11424), Prob: 0.0001
+Token: ' creature' (ID: 17218), Prob: 0.0001
+Token: ' strain' (ID: 25716), Prob: 0.0001
+Token: ' tumor' (ID: 35154), Prob: 0.0001
+Token: ' algae' (ID: 67851), Prob: 0.0001
+Token: ' structure' (ID: 5944), Prob: 0.0001
+Token: ' genome' (ID: 32769), Prob: 0.0001
+Token: ' cancer' (ID: 9387), Prob: 0.0000
+Token: ' alien' (ID: 19594), Prob: 0.0000
+Token: ' molecule' (ID: 41930), Prob: 0.0000
+Token: ' micro' (ID: 8003), Prob: 0.0000
+Token: ' insect' (ID: 25989), Prob: 0.0000
+Token: ' planet' (ID: 11580), Prob: 0.0000
+Token: ' beta' (ID: 13440), Prob: 0.0000
+Token: ' genetic' (ID: 18929), Prob: 0.0000
+Token: ' amino' (ID: 41400), Prob: 0.0000
+Token: ' situation' (ID: 6534), Prob: 0.0000
+Token: ' medicine' (ID: 15712), Prob: 0.0000
+Token: ' poison' (ID: 20476), Prob: 0.0000
+Token: ' energy' (ID: 4802), Prob: 0.0000
+Token: ' dangerous' (ID: 11406), Prob: 0.0000
+Token: ' ecosystem' (ID: 24982), Prob: 0.0000
+Token: ' living' (ID: 5382), Prob: 0.0000
+Token: ' spirit' (ID: 8913), Prob: 0.0000
+Token: ' chemical' (ID: 11483), Prob: 0.0000
+Token: ' fruit' (ID: 13779), Prob: 0.0000
+Token: ' DNA' (ID: 15552), Prob: 0.0000
+Token: ' case' (ID: 1142), Prob: 0.0000
+Token: ' compound' (ID: 23628), Prob: 0.0000
+Token: ' mixture' (ID: 20980), Prob: 0.0000
+Token: ' kinase' (ID: 81060), Prob: 0.0000
+Token: ' two' (ID: 1378), Prob: 0.0000
+Token: ' island' (ID: 12922), Prob: 0.0000
+Token: ' fung' (ID: 33598), Prob: 0.0000
+Token: ' worm' (ID: 34211), Prob: 0.0000
+Token: ' brain' (ID: 8109), Prob: 0.0000
+Token: ' reaction' (ID: 12720), Prob: 0.0000
+Token: ' engineered' (ID: 44936), Prob: 0.0000
+Token: ' allergy' (ID: 59654), Prob: 0.0000
+Token: ' parasite' (ID: 84473), Prob: 0.0000
+Token: ' element' (ID: 2392), Prob: 0.0000
+Token: ' problem' (ID: 3491), Prob: 0.0000
+Token: ' immune' (ID: 22077), Prob: 0.0000
+Token: ' enzymes' (ID: 54967), Prob: 0.0000
+Token: ' system' (ID: 1849), Prob: 0.0000
+Token: ' ability' (ID: 5726), Prob: 0.0000
+Token: ' fertilizer' (ID: 64291), Prob: 0.0000
+Token: ' engine' (ID: 4712), Prob: 0.0000
+Token: ' drug' (ID: 5506), Prob: 0.0000
+Token: ' dise' (ID: 6621), Prob: 0.0000
+Token: ' bug' (ID: 9876), Prob: 0.0000
+Token: ' bio' (ID: 16905), Prob: 0.0000
+
+== Ranked Concepts (Clusters) ==
+Rank 1 | Concept Score: 0.9180
+  Tokens: [' fungus', ' fungal', ' fungi', ' mushroom', ' bacteria', ' algae', ' insect', ' fung', ' worm']
+Rank 2 | Concept Score: 0.0588
+  Tokens: [' enzyme', ' enzym', ' amino', ' kinase', ' enzymes']
+Rank 3 | Concept Score: 0.0073
+  Tokens: [' disease', ' illness', ' tumor', ' cancer', ' medicine', ' dangerous', ' dise']
+Rank 4 | Concept Score: 0.0024
+  Tokens: [' virus', ' infection', ' allergy', ' parasite']
+Rank 5 | Concept Score: 0.0014
+  Tokens: [' organism', ' species', ' animal', ' plant', ' creature']
+Rank 6 | Concept Score: 0.0008
+  Tokens: [' type', ' kind', ' similar', ' variant']
+Rank 7 | Concept Score: 0.0005
+  Tokens: [' mutation', ' gene', ' genome', ' genetic', ' DNA']
+Rank 8 | Concept Score: 0.0004
+  Tokens: [' path', ' condition', ' structure', ' situation', ' spirit', ' case', ' problem', ' system']
+Rank 9 | Concept Score: 0.0003
+  Tokens: [' protein', ' chemical', ' drug']
+Rank 10 | Concept Score: 0.0002
+  Tokens: [' enemy', ' alien', ' island']
+Rank 11 | Concept Score: 0.0002
+  Tokens: [' environment', ' ecosystem']
+Rank 12 | Concept Score: 0.0002
+  Tokens: [' substance', ' molecule', ' compound']
+Rank 13 | Concept Score: 0.0002
+  Tokens: [' alpha', ' beta']
+Rank 14 | Concept Score: 0.0002
+  Tokens: [' human', ' energy', ' brain']
+Rank 15 | Concept Score: 0.0002
+  Tokens: [' function', ' micro', ' two']
+Rank 16 | Concept Score: 0.0002
+  Tokens: [' combination', ' mixture', ' reaction']
+Rank 17 | Concept Score: 0.0001
+  Tokens: [' toxin', ' poison', ' fertilizer']
+Rank 18 | Concept Score: 0.0001
+  Tokens: [' fish', ' fruit']
+Rank 19 | Concept Score: 0.0001
+  Tokens: [' life', ' living']
+Rank 20 | Concept Score: 0.0001
+  Tokens: [' engineered', ' ability', ' engine']
+Rank 21 | Concept Score: 0.0001
+  Tokens: [' strain']
+Rank 22 | Concept Score: 0.0001
+  Tokens: [' planet', ' element']
+Rank 23 | Concept Score: 0.0000
+  Tokens: [' immune']
+Rank 24 | Concept Score: 0.0000
+  Tokens: [' bug']
+Rank 25 | Concept Score: 0.0000
+  Tokens: [' bio']
+
+**Chosen Concept:** Rank 1 with score 0.9180

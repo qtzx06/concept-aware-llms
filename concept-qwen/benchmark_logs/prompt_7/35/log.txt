@@ -1,0 +1,80 @@
+--- Step 35 Log ---
+
+== Filtered Candidates ==
+Token: ' Even' (ID: 7418), Prob: 0.0194
+Token: ' Let' (ID: 6771), Prob: 0.0118
+Token: ' Maybe' (ID: 10696), Prob: 0.0118
+Token: ' Whether' (ID: 13139), Prob: 0.0092
+Token: ' Please' (ID: 5209), Prob: 0.0063
+Token: ' Every' (ID: 7209), Prob: 0.0059
+Token: ' Also' (ID: 7281), Prob: 0.0059
+Token: ' Therefore' (ID: 15277), Prob: 0.0046
+Token: ' Today' (ID: 11201), Prob: 0.0034
+Token: ' Perhaps' (ID: 18765), Prob: 0.0034
+Token: ' Keep' (ID: 13655), Prob: 0.0032
+Token: ' Snow' (ID: 18901), Prob: 0.0032
+Token: ' Enjoy' (ID: 22656), Prob: 0.0026
+Token: ' Still' (ID: 16377), Prob: 0.0025
+Token: ' Read' (ID: 4457), Prob: 0.0022
+Token: ' Despite' (ID: 17715), Prob: 0.0022
+Token: ' Use' (ID: 5443), Prob: 0.0020
+Token: ' Make' (ID: 7405), Prob: 0.0020
+Token: ' Remember' (ID: 19881), Prob: 0.0020
+Token: ' Yes' (ID: 7414), Prob: 0.0019
+Token: ' Write' (ID: 9645), Prob: 0.0019
+Token: ' However' (ID: 4354), Prob: 0.0018
+Token: ' Imagine' (ID: 37791), Prob: 0.0018
+Token: ' One' (ID: 3776), Prob: 0.0017
+Token: ' Take' (ID: 11778), Prob: 0.0017
+Token: ' Thank' (ID: 9731), Prob: 0.0016
+Token: ' Think' (ID: 21149), Prob: 0.0016
+Token: ' Find' (ID: 7379), Prob: 0.0015
+Token: ' Create' (ID: 4230), Prob: 0.0014
+Token: ' Try' (ID: 9735), Prob: 0.0013
+Token: ' Magic' (ID: 15485), Prob: 0.0013
+Token: ' Since' (ID: 8704), Prob: 0.0012
+Token: ' Although' (ID: 10328), Prob: 0.0011
+Token: ' Thus' (ID: 14301), Prob: 0.0011
+Token: ' Whatever' (ID: 32639), Prob: 0.0011
+Token: ' Everyone' (ID: 21455), Prob: 0.0010
+Token: ' Little' (ID: 14671), Prob: 0.0010
+Token: ' Get' (ID: 2126), Prob: 0.0009
+Token: ' Like' (ID: 8909), Prob: 0.0009
+
+== Ranked Concepts (Clusters) ==
+Rank 1 | Concept Score: 0.0227
+  Tokens: [' Even', ' Despite', ' Although']
+Rank 2 | Concept Score: 0.0151
+  Tokens: [' Maybe', ' Perhaps']
+Rank 3 | Concept Score: 0.0120
+  Tokens: [' Read', ' Use', ' Make', ' Write', ' Find', ' Create', ' Get']
+Rank 4 | Concept Score: 0.0118
+  Tokens: [' Let']
+Rank 5 | Concept Score: 0.0092
+  Tokens: [' Whether']
+Rank 6 | Concept Score: 0.0087
+  Tokens: [' Therefore', ' However', ' Since', ' Thus']
+Rank 7 | Concept Score: 0.0084
+  Tokens: [' Also', ' Still']
+Rank 8 | Concept Score: 0.0079
+  Tokens: [' Please', ' Thank']
+Rank 9 | Concept Score: 0.0070
+  Tokens: [' Every', ' Everyone']
+Rank 10 | Concept Score: 0.0062
+  Tokens: [' Keep', ' Take', ' Try']
+Rank 11 | Concept Score: 0.0055
+  Tokens: [' Snow', ' Magic', ' Little']
+Rank 12 | Concept Score: 0.0047
+  Tokens: [' Enjoy', ' Remember']
+Rank 13 | Concept Score: 0.0034
+  Tokens: [' Imagine', ' Think']
+Rank 14 | Concept Score: 0.0034
+  Tokens: [' Today']
+Rank 15 | Concept Score: 0.0026
+  Tokens: [' One', ' Like']
+Rank 16 | Concept Score: 0.0019
+  Tokens: [' Yes']
+Rank 17 | Concept Score: 0.0011
+  Tokens: [' Whatever']
+
+**Chosen Concept:** Rank 1 with score 0.0227

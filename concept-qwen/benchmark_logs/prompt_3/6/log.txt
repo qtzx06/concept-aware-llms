@@ -1,0 +1,147 @@
+--- Step 6 Log ---
+
+== Filtered Candidates ==
+Token: ' come' (ID: 2525), Prob: 0.0471
+Token: ' take' (ID: 1896), Prob: 0.0391
+Token: ' get' (ID: 633), Prob: 0.0197
+Token: ' replace' (ID: 8290), Prob: 0.0144
+Token: ' find' (ID: 1477), Prob: 0.0119
+Token: ' say' (ID: 1977), Prob: 0.0119
+Token: ' also' (ID: 1083), Prob: 0.0105
+Token: ' want' (ID: 1366), Prob: 0.0105
+Token: ' know' (ID: 1414), Prob: 0.0105
+Token: ' help' (ID: 1492), Prob: 0.0099
+Token: ' join' (ID: 5138), Prob: 0.0072
+Token: ' think' (ID: 1744), Prob: 0.0060
+Token: ' buy' (ID: 3695), Prob: 0.0053
+Token: ' ask' (ID: 2548), Prob: 0.0050
+Token: ' need' (ID: 1184), Prob: 0.0047
+Token: ' become' (ID: 3635), Prob: 0.0044
+Token: ' choose' (ID: 5157), Prob: 0.0044
+Token: ' make' (ID: 1281), Prob: 0.0041
+Token: ' still' (ID: 2058), Prob: 0.0041
+Token: ' trade' (ID: 6559), Prob: 0.0032
+Token: ' call' (ID: 1618), Prob: 0.0028
+Token: ' feel' (ID: 2666), Prob: 0.0028
+Token: ' decide' (ID: 10279), Prob: 0.0028
+Token: ' try' (ID: 1430), Prob: 0.0027
+Token: ' offer' (ID: 3010), Prob: 0.0023
+Token: ' work' (ID: 975), Prob: 0.0022
+Token: ' enter' (ID: 3725), Prob: 0.0022
+Token: ' understand' (ID: 3535), Prob: 0.0021
+Token: ' use' (ID: 990), Prob: 0.0019
+Token: ' see' (ID: 1490), Prob: 0.0019
+Token: ' hold' (ID: 3331), Prob: 0.0018
+Token: ' give' (ID: 2968), Prob: 0.0017
+Token: ' argue' (ID: 17585), Prob: 0.0016
+Token: ' pay' (ID: 2291), Prob: 0.0015
+Token: ' consider' (ID: 2908), Prob: 0.0014
+Token: ' happen' (ID: 3537), Prob: 0.0014
+Token: ' act' (ID: 1160), Prob: 0.0013
+Token: ' actually' (ID: 3520), Prob: 0.0013
+Token: ' bring' (ID: 4446), Prob: 0.0013
+Token: ' look' (ID: 1401), Prob: 0.0013
+Token: ' play' (ID: 1486), Prob: 0.0013
+Token: ' believe' (ID: 4411), Prob: 0.0013
+Token: ' like' (ID: 1075), Prob: 0.0012
+Token: ' benefit' (ID: 8760), Prob: 0.0012
+Token: ' interfere' (ID: 39878), Prob: 0.0011
+Token: ' already' (ID: 2669), Prob: 0.0010
+Token: ' share' (ID: 4332), Prob: 0.0010
+Token: ' question' (ID: 3405), Prob: 0.0010
+Token: ' stay' (ID: 4717), Prob: 0.0010
+Token: ' receive' (ID: 5258), Prob: 0.0010
+Token: ' challenge' (ID: 8645), Prob: 0.0010
+Token: ' meet' (ID: 3367), Prob: 0.0009
+Token: ' lose' (ID: 9052), Prob: 0.0009
+Token: ' inherit' (ID: 23749), Prob: 0.0009
+Token: ' change' (ID: 2297), Prob: 0.0009
+Token: ' provide' (ID: 3410), Prob: 0.0009
+Token: ' read' (ID: 1349), Prob: 0.0008
+Token: ' respond' (ID: 5889), Prob: 0.0008
+Token: ' arrive' (ID: 17331), Prob: 0.0008
+Token: ' end' (ID: 835), Prob: 0.0008
+Token: ' talk' (ID: 3061), Prob: 0.0008
+Token: ' tell' (ID: 3291), Prob: 0.0008
+Token: ' appear' (ID: 4994), Prob: 0.0008
+Token: ' notice' (ID: 5293), Prob: 0.0008
+Token: ' manage' (ID: 10091), Prob: 0.0008
+Token: ' live' (ID: 3887), Prob: 0.0007
+Token: ' exchange' (ID: 9289), Prob: 0.0007
+Token: ' exist' (ID: 3000), Prob: 0.0007
+Token: ' face' (ID: 3579), Prob: 0.0007
+Token: ' handle' (ID: 3705), Prob: 0.0007
+Token: ' watch' (ID: 3736), Prob: 0.0007
+Token: ' learn' (ID: 3960), Prob: 0.0007
+Token: ' substitute' (ID: 27679), Prob: 0.0007
+Token: ' disagree' (ID: 28295), Prob: 0.0007
+Token: ' die' (ID: 2746), Prob: 0.0006
+Token: ' win' (ID: 3164), Prob: 0.0006
+Token: ' speak' (ID: 6468), Prob: 0.0006
+Token: ' carry' (ID: 6777), Prob: 0.0006
+Token: ' intervene' (ID: 54479), Prob: 0.0006
+Token: ' start' (ID: 1191), Prob: 0.0006
+Token: ' object' (ID: 1633), Prob: 0.0006
+Token: ' keep' (ID: 2506), Prob: 0.0006
+
+== Ranked Concepts (Clusters) ==
+Rank 1 | Concept Score: 0.0771
+  Tokens: [' take', ' get', ' find', ' make', ' try']
+Rank 2 | Concept Score: 0.0574
+  Tokens: [' come', ' become', ' enter', ' receive', ' meet', ' lose', ' arrive']
+Rank 3 | Concept Score: 0.0232
+  Tokens: [' replace', ' join', ' change', ' substitute']
+Rank 4 | Concept Score: 0.0199
+  Tokens: [' know', ' think', ' see', ' consider']
+Rank 5 | Concept Score: 0.0170
+  Tokens: [' also', ' still', ' actually', ' already']
+Rank 6 | Concept Score: 0.0151
+  Tokens: [' want', ' need']
+Rank 7 | Concept Score: 0.0140
+  Tokens: [' say', ' talk', ' tell', ' speak']
+Rank 8 | Concept Score: 0.0122
+  Tokens: [' help', ' offer']
+Rank 9 | Concept Score: 0.0083
+  Tokens: [' buy', ' pay', ' read', ' watch']
+Rank 10 | Concept Score: 0.0080
+  Tokens: [' choose', ' decide', ' manage']
+Rank 11 | Concept Score: 0.0059
+  Tokens: [' trade', ' share', ' inherit', ' exchange']
+Rank 12 | Concept Score: 0.0055
+  Tokens: [' work', ' play', ' end', ' live', ' start']
+Rank 13 | Concept Score: 0.0050
+  Tokens: [' ask']
+Rank 14 | Concept Score: 0.0041
+  Tokens: [' feel', ' believe']
+Rank 15 | Concept Score: 0.0040
+  Tokens: [' hold', ' stay', ' carry', ' keep']
+Rank 16 | Concept Score: 0.0039
+  Tokens: [' give', ' bring', ' provide']
+Rank 17 | Concept Score: 0.0031
+  Tokens: [' benefit', ' question', ' challenge']
+Rank 18 | Concept Score: 0.0029
+  Tokens: [' happen', ' appear', ' exist']
+Rank 19 | Concept Score: 0.0028
+  Tokens: [' call']
+Rank 20 | Concept Score: 0.0027
+  Tokens: [' understand', ' learn']
+Rank 21 | Concept Score: 0.0025
+  Tokens: [' interfere', ' respond', ' intervene']
+Rank 22 | Concept Score: 0.0023
+  Tokens: [' argue', ' disagree']
+Rank 23 | Concept Score: 0.0020
+  Tokens: [' act', ' handle']
+Rank 24 | Concept Score: 0.0019
+  Tokens: [' use']
+Rank 25 | Concept Score: 0.0018
+  Tokens: [' like', ' object']
+Rank 26 | Concept Score: 0.0013
+  Tokens: [' face', ' die']
+Rank 27 | Concept Score: 0.0013
+  Tokens: [' look']
+Rank 28 | Concept Score: 0.0008
+  Tokens: [' notice']
+Rank 29 | Concept Score: 0.0006
+  Tokens: [' win']
+
+**Chosen Concept:** Rank 1 with score 0.0771

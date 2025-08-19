@@ -1,0 +1,52 @@
+--- Step 148 Log ---
+
+== Filtered Candidates ==
+Token: ' according' (ID: 4092), Prob: 0.0122
+Token: ' based' (ID: 3118), Prob: 0.0019
+Token: ' logically' (ID: 73045), Prob: 0.0014
+Token: ' using' (ID: 1667), Prob: 0.0012
+Token: ' Answer' (ID: 21806), Prob: 0.0006
+Token: ' answering' (ID: 35764), Prob: 0.0004
+Token: ' answer' (ID: 4226), Prob: 0.0004
+Token: ' without' (ID: 2041), Prob: 0.0003
+Token: ' within' (ID: 2878), Prob: 0.0002
+Token: ' one' (ID: 825), Prob: 0.0002
+Token: ' regarding' (ID: 8826), Prob: 0.0002
+Token: ' answered' (ID: 18577), Prob: 0.0001
+Token: ' depending' (ID: 11649), Prob: 0.0001
+Token: ' via' (ID: 4566), Prob: 0.0001
+Token: 'Answer' (ID: 16141), Prob: 0.0001
+Token: ' considering' (ID: 12831), Prob: 0.0001
+Token: ' According' (ID: 10548), Prob: 0.0000
+Token: ' per' (ID: 817), Prob: 0.0000
+Token: ' assuming' (ID: 25538), Prob: 0.0000
+Token: ' formulated' (ID: 59294), Prob: 0.0000
+Token: ' related' (ID: 5435), Prob: 0.0000
+Token: ' step' (ID: 3019), Prob: 0.0000
+Token: ' explained' (ID: 11247), Prob: 0.0000
+
+== Ranked Concepts (Clusters) ==
+Rank 1 | Concept Score: 0.0142
+  Tokens: [' according', ' based', ' depending', ' According']
+Rank 2 | Concept Score: 0.0015
+  Tokens: [' Answer', ' answering', ' answer', ' answered', 'Answer']
+Rank 3 | Concept Score: 0.0014
+  Tokens: [' logically']
+Rank 4 | Concept Score: 0.0013
+  Tokens: [' using', ' via']
+Rank 5 | Concept Score: 0.0005
+  Tokens: [' without', ' within']
+Rank 6 | Concept Score: 0.0002
+  Tokens: [' regarding', ' related']
+Rank 7 | Concept Score: 0.0002
+  Tokens: [' one']
+Rank 8 | Concept Score: 0.0001
+  Tokens: [' considering', ' assuming']
+Rank 9 | Concept Score: 0.0001
+  Tokens: [' formulated', ' explained']
+Rank 10 | Concept Score: 0.0000
+  Tokens: [' per']
+Rank 11 | Concept Score: 0.0000
+  Tokens: [' step']
+
+**Chosen Concept:** Rank 1 with score 0.0142

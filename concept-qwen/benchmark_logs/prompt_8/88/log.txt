@@ -1,0 +1,137 @@
+--- Step 88 Log ---
+
+== Filtered Candidates ==
+Token: ' person' (ID: 1697), Prob: 0.9883
+Token: ' people' (ID: 1251), Prob: 0.0010
+Token: ' patient' (ID: 8720), Prob: 0.0007
+Token: ' stranger' (ID: 33958), Prob: 0.0003
+Token: ' personal' (ID: 4345), Prob: 0.0003
+Token: ' persons' (ID: 11186), Prob: 0.0002
+Token: ' individual' (ID: 3842), Prob: 0.0001
+Token: ' relationship' (ID: 5025), Prob: 0.0001
+Token: ' human' (ID: 3738), Prob: 0.0001
+Token: ' partner' (ID: 8263), Prob: 0.0001
+Token: ' one' (ID: 825), Prob: 0.0001
+Token: ' woman' (ID: 5220), Prob: 0.0001
+Token: ' child' (ID: 1682), Prob: 0.0001
+Token: ' someone' (ID: 4325), Prob: 0.0001
+Token: ' situation' (ID: 6534), Prob: 0.0001
+Token: ' victim' (ID: 11734), Prob: 0.0001
+Token: ' friend' (ID: 4238), Prob: 0.0001
+Token: ' body' (ID: 2487), Prob: 0.0001
+Token: ' participant' (ID: 24880), Prob: 0.0001
+Token: ' man' (ID: 883), Prob: 0.0000
+Token: ' customer' (ID: 6002), Prob: 0.0000
+Token: ' client' (ID: 2943), Prob: 0.0000
+Token: ' different' (ID: 2155), Prob: 0.0000
+Token: ' help' (ID: 1492), Prob: 0.0000
+Token: ' care' (ID: 2453), Prob: 0.0000
+Token: ' outsider' (ID: 74583), Prob: 0.0000
+Token: ' new' (ID: 501), Prob: 0.0000
+Token: ' thing' (ID: 3166), Prob: 0.0000
+Token: ' social' (ID: 3590), Prob: 0.0000
+Token: ' subject' (ID: 3832), Prob: 0.0000
+Token: ' present' (ID: 3042), Prob: 0.0000
+Token: ' mother' (ID: 6554), Prob: 0.0000
+Token: ' baby' (ID: 8770), Prob: 0.0000
+Token: ' empath' (ID: 35581), Prob: 0.0000
+Token: ' prisoner' (ID: 41850), Prob: 0.0000
+Token: ' Person' (ID: 7357), Prob: 0.0000
+Token: ' recipient' (ID: 21713), Prob: 0.0000
+Token: ' first' (ID: 1156), Prob: 0.0000
+Token: ' two' (ID: 1378), Prob: 0.0000
+Token: ' student' (ID: 5458), Prob: 0.0000
+Token: ' animal' (ID: 9864), Prob: 0.0000
+Token: ' observer' (ID: 22067), Prob: 0.0000
+Token: ' nurse' (ID: 28098), Prob: 0.0000
+Token: ' athlete' (ID: 33780), Prob: 0.0000
+Token: ' survivor' (ID: 48648), Prob: 0.0000
+Token: ' information' (ID: 1995), Prob: 0.0000
+Token: ' particular' (ID: 3953), Prob: 0.0000
+Token: ' user' (ID: 1196), Prob: 0.0000
+Token: ' see' (ID: 1490), Prob: 0.0000
+Token: ' group' (ID: 1874), Prob: 0.0000
+Token: ' environment' (ID: 4573), Prob: 0.0000
+Token: ' adult' (ID: 6683), Prob: 0.0000
+Token: ' audience' (ID: 10650), Prob: 0.0000
+Token: ' emotional' (ID: 14269), Prob: 0.0000
+Token: ' part' (ID: 949), Prob: 0.0000
+Token: ' place' (ID: 1992), Prob: 0.0000
+Token: ' specific' (ID: 3151), Prob: 0.0000
+Token: ' guy' (ID: 7412), Prob: 0.0000
+Token: ' speaker' (ID: 18601), Prob: 0.0000
+Token: ' personne' (ID: 53513), Prob: 0.0000
+Token: ' old' (ID: 2310), Prob: 0.0000
+Token: ' young' (ID: 3908), Prob: 0.0000
+Token: ' companion' (ID: 21741), Prob: 0.0000
+Token: ' killer' (ID: 24518), Prob: 0.0000
+Token: ' elderly' (ID: 28820), Prob: 0.0000
+Token: ' foster' (ID: 29987), Prob: 0.0000
+Token: ' self' (ID: 656), Prob: 0.0000
+Token: ' know' (ID: 1414), Prob: 0.0000
+Token: ' host' (ID: 3468), Prob: 0.0000
+Token: ' heart' (ID: 4746), Prob: 0.0000
+Token: ' scene' (ID: 6109), Prob: 0.0000
+Token: ' persona' (ID: 27955), Prob: 0.0000
+Token: ' something' (ID: 2494), Prob: 0.0000
+Token: ' matter' (ID: 4925), Prob: 0.0000
+Token: ' public' (ID: 584), Prob: 0.0000
+Token: ' story' (ID: 3364), Prob: 0.0000
+Token: ' owner' (ID: 6372), Prob: 0.0000
+Token: ' guard' (ID: 7616), Prob: 0.0000
+Token: ' infant' (ID: 30283), Prob: 0.0000
+Token: ' support' (ID: 1824), Prob: 0.0000
+Token: ' close' (ID: 3265), Prob: 0.0000
+Token: ' others' (ID: 3800), Prob: 0.0000
+Token: ' older' (ID: 9014), Prob: 0.0000
+Token: ' perspective' (ID: 13057), Prob: 0.0000
+
+== Ranked Concepts (Clusters) ==
+Rank 1 | Concept Score: 0.9883
+  Tokens: [' person', ' people', ' persons', ' Person', ' personne', ' persona']
+Rank 2 | Concept Score: 0.0008
+  Tokens: [' patient', ' customer', ' client', ' student', ' user']
+Rank 3 | Concept Score: 0.0004
+  Tokens: [' personal', ' individual']
+Rank 4 | Concept Score: 0.0004
+  Tokens: [' stranger', ' outsider', ' survivor', ' killer']
+Rank 5 | Concept Score: 0.0002
+  Tokens: [' relationship', ' situation', ' environment', ' scene', ' perspective']
+Rank 6 | Concept Score: 0.0002
+  Tokens: [' partner', ' friend', ' companion', ' host', ' owner']
+Rank 7 | Concept Score: 0.0002
+  Tokens: [' victim', ' participant', ' prisoner', ' recipient', ' observer', ' speaker']
+Rank 8 | Concept Score: 0.0002
+  Tokens: [' child', ' mother', ' baby', ' animal', ' adult', ' infant']
+Rank 9 | Concept Score: 0.0002
+  Tokens: [' one', ' new', ' first', ' two', ' close']
+Rank 10 | Concept Score: 0.0002
+  Tokens: [' help', ' care', ' information', ' see', ' foster', ' know', ' heart', ' guard', ' support']
+Rank 11 | Concept Score: 0.0002
+  Tokens: [' woman', ' man', ' guy']
+Rank 12 | Concept Score: 0.0001
+  Tokens: [' body', ' social', ' group', ' self', ' public']
+Rank 13 | Concept Score: 0.0001
+  Tokens: [' human']
+Rank 14 | Concept Score: 0.0001
+  Tokens: [' someone', ' others']
+Rank 15 | Concept Score: 0.0001
+  Tokens: [' different', ' particular', ' specific']
+Rank 16 | Concept Score: 0.0001
+  Tokens: [' subject', ' part', ' place']
+Rank 17 | Concept Score: 0.0001
+  Tokens: [' old', ' young', ' elderly', ' older']
+Rank 18 | Concept Score: 0.0000
+  Tokens: [' empath', ' emotional']
+Rank 19 | Concept Score: 0.0000
+  Tokens: [' athlete', ' audience']
+Rank 20 | Concept Score: 0.0000
+  Tokens: [' thing', ' something']
+Rank 21 | Concept Score: 0.0000
+  Tokens: [' present']
+Rank 22 | Concept Score: 0.0000
+  Tokens: [' matter', ' story']
+Rank 23 | Concept Score: 0.0000
+  Tokens: [' nurse']
+
+**Chosen Concept:** Rank 1 with score 0.9883

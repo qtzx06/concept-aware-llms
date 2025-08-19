@@ -1,0 +1,73 @@
+--- Step 7 Log ---
+
+== Filtered Candidates ==
+Token: ' nothing' (ID: 4302), Prob: 0.0114
+Token: ' something' (ID: 2494), Prob: 0.0035
+Token: ' well' (ID: 1632), Prob: 0.0019
+Token: ' everything' (ID: 4297), Prob: 0.0014
+Token: ' exactly' (ID: 6896), Prob: 0.0014
+Token: ' perfectly' (ID: 13942), Prob: 0.0006
+Token: ' neither' (ID: 13866), Prob: 0.0005
+Token: ' full' (ID: 2480), Prob: 0.0005
+Token: ' none' (ID: 6857), Prob: 0.0004
+Token: ' enough' (ID: 3322), Prob: 0.0003
+Token: ' deeply' (ID: 17247), Prob: 0.0003
+Token: ' God' (ID: 4264), Prob: 0.0002
+Token: ' many' (ID: 1657), Prob: 0.0002
+Token: ' better' (ID: 2664), Prob: 0.0002
+Token: ' one' (ID: 825), Prob: 0.0002
+Token: ' clearly' (ID: 9355), Prob: 0.0002
+Token: ' every' (ID: 1449), Prob: 0.0002
+Token: ' much' (ID: 1753), Prob: 0.0002
+Token: ' completely' (ID: 6587), Prob: 0.0002
+Token: ' also' (ID: 1083), Prob: 0.0001
+Token: ' fully' (ID: 7225), Prob: 0.0001
+Token: ' another' (ID: 2441), Prob: 0.0001
+Token: ' already' (ID: 2669), Prob: 0.0001
+Token: ' whether' (ID: 3425), Prob: 0.0001
+Token: ' two' (ID: 1378), Prob: 0.0001
+Token: ' truth' (ID: 8046), Prob: 0.0001
+Token: ' best' (ID: 1850), Prob: 0.0001
+Token: ' immediately' (ID: 7069), Prob: 0.0001
+Token: ' little' (ID: 2632), Prob: 0.0001
+Token: ' Jesus' (ID: 10588), Prob: 0.0001
+Token: ' quite' (ID: 5008), Prob: 0.0001
+Token: ' infinitely' (ID: 71500), Prob: 0.0001
+
+== Ranked Concepts (Clusters) ==
+Rank 1 | Concept Score: 0.0161
+  Tokens: [' nothing', ' something', ' everything']
+Rank 2 | Concept Score: 0.0021
+  Tokens: [' exactly', ' perfectly', ' completely']
+Rank 3 | Concept Score: 0.0019
+  Tokens: [' well']
+Rank 4 | Concept Score: 0.0009
+  Tokens: [' neither', ' none']
+Rank 5 | Concept Score: 0.0006
+  Tokens: [' full', ' fully']
+Rank 6 | Concept Score: 0.0004
+  Tokens: [' many', ' much', ' quite']
+Rank 7 | Concept Score: 0.0004
+  Tokens: [' deeply', ' clearly']
+Rank 8 | Concept Score: 0.0004
+  Tokens: [' one', ' another', ' two']
+Rank 9 | Concept Score: 0.0003
+  Tokens: [' enough']
+Rank 10 | Concept Score: 0.0003
+  Tokens: [' God', ' Jesus']
+Rank 11 | Concept Score: 0.0003
+  Tokens: [' better', ' best']
+Rank 12 | Concept Score: 0.0003
+  Tokens: [' also', ' already']
+Rank 13 | Concept Score: 0.0002
+  Tokens: [' whether', ' truth']
+Rank 14 | Concept Score: 0.0002
+  Tokens: [' every']
+Rank 15 | Concept Score: 0.0001
+  Tokens: [' immediately']
+Rank 16 | Concept Score: 0.0001
+  Tokens: [' little']
+Rank 17 | Concept Score: 0.0001
+  Tokens: [' infinitely']
+
+**Chosen Concept:** Rank 1 with score 0.0161

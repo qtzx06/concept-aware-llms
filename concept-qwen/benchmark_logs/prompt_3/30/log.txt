@@ -1,0 +1,86 @@
+--- Step 30 Log ---
+
+== Filtered Candidates ==
+Token: ' else' (ID: 770), Prob: 0.7734
+Token: ' may' (ID: 1231), Prob: 0.0219
+Token: ' could' (ID: 1410), Prob: 0.0110
+Token: ' wants' (ID: 6801), Prob: 0.0092
+Token: ' might' (ID: 2578), Prob: 0.0049
+Token: ' tries' (ID: 16297), Prob: 0.0038
+Token: ' comes' (ID: 4041), Prob: 0.0034
+Token: ' like' (ID: 1075), Prob: 0.0032
+Token: ' would' (ID: 1035), Prob: 0.0030
+Token: ' gets' (ID: 5221), Prob: 0.0017
+Token: ' knows' (ID: 8788), Prob: 0.0015
+Token: ' takes' (ID: 4990), Prob: 0.0014
+Token: ' needs' (ID: 3880), Prob: 0.0011
+Token: ' tried' (ID: 6679), Prob: 0.0011
+Token: ' new' (ID: 501), Prob: 0.0010
+Token: ' named' (ID: 6941), Prob: 0.0007
+Token: ' asks' (ID: 17064), Prob: 0.0007
+Token: ' says' (ID: 2727), Prob: 0.0007
+Token: ' goes' (ID: 5780), Prob: 0.0006
+Token: ' offers' (ID: 6081), Prob: 0.0006
+Token: ' try' (ID: 1430), Prob: 0.0005
+Token: ' also' (ID: 1083), Prob: 0.0005
+Token: ' must' (ID: 1969), Prob: 0.0005
+Token: ' starts' (ID: 8471), Prob: 0.0005
+Token: ' gives' (ID: 6696), Prob: 0.0005
+Token: ' maybe' (ID: 7196), Prob: 0.0004
+Token: ' chooses' (ID: 39911), Prob: 0.0004
+Token: ' different' (ID: 2155), Prob: 0.0004
+Token: ' trying' (ID: 4460), Prob: 0.0004
+Token: ' person' (ID: 1697), Prob: 0.0004
+Token: ' already' (ID: 2669), Prob: 0.0004
+Token: ' come' (ID: 2525), Prob: 0.0003
+Token: ' came' (ID: 3697), Prob: 0.0003
+Token: ' uses' (ID: 5711), Prob: 0.0003
+Token: ' decides' (ID: 27627), Prob: 0.0003
+Token: ' makes' (ID: 3643), Prob: 0.0003
+Token: ' outside' (ID: 4889), Prob: 0.0003
+Token: ' someone' (ID: 4325), Prob: 0.0003
+Token: ' helps' (ID: 8609), Prob: 0.0003
+Token: ' older' (ID: 9014), Prob: 0.0003
+Token: ' wanting' (ID: 19211), Prob: 0.0003
+Token: ' another' (ID: 2441), Prob: 0.0002
+Token: ' becomes' (ID: 9044), Prob: 0.0002
+Token: ' pays' (ID: 21241), Prob: 0.0002
+Token: ' enters' (ID: 28833), Prob: 0.0002
+Token: ' arrives' (ID: 29682), Prob: 0.0002
+Token: ' still' (ID: 2058), Prob: 0.0002
+Token: ' say' (ID: 1977), Prob: 0.0002
+Token: ' called' (ID: 2598), Prob: 0.0002
+Token: ' looks' (ID: 5868), Prob: 0.0002
+Token: ' replaces' (ID: 40700), Prob: 0.0002
+Token: ' similar' (ID: 4428), Prob: 0.0002
+Token: ' otherwise' (ID: 5937), Prob: 0.0002
+Token: ' want' (ID: 1366), Prob: 0.0002
+Token: ' plans' (ID: 6649), Prob: 0.0002
+
+== Ranked Concepts (Clusters) ==
+Rank 1 | Concept Score: 0.7734
+  Tokens: [' else', ' otherwise']
+Rank 2 | Concept Score: 0.0415
+  Tokens: [' may', ' could', ' might', ' would', ' must', ' maybe']
+Rank 3 | Concept Score: 0.0109
+  Tokens: [' wants', ' needs', ' wanting', ' want', ' plans']
+Rank 4 | Concept Score: 0.0072
+  Tokens: [' gets', ' takes', ' goes', ' offers', ' starts', ' gives', ' uses', ' makes', ' helps', ' becomes', ' pays', ' enters', ' looks', ' replaces']
+Rank 5 | Concept Score: 0.0058
+  Tokens: [' tries', ' tried', ' try', ' trying']
+Rank 6 | Concept Score: 0.0053
+  Tokens: [' like', ' new', ' different', ' outside', ' older', ' similar']
+Rank 7 | Concept Score: 0.0042
+  Tokens: [' comes', ' come', ' came', ' arrives']
+Rank 8 | Concept Score: 0.0029
+  Tokens: [' knows', ' asks', ' chooses', ' decides']
+Rank 9 | Concept Score: 0.0011
+  Tokens: [' also', ' already', ' still']
+Rank 10 | Concept Score: 0.0009
+  Tokens: [' named', ' called']
+Rank 11 | Concept Score: 0.0009
+  Tokens: [' person', ' someone', ' another']
+Rank 12 | Concept Score: 0.0009
+  Tokens: [' says', ' say']
+
+**Chosen Concept:** Rank 1 with score 0.7734

@@ -1,0 +1,115 @@
+--- Step 148 Log ---
+
+== Filtered Candidates ==
+Token: ' fly' (ID: 11466), Prob: 1.0000
+Token: ' travel' (ID: 5821), Prob: 0.0001
+Token: ' flight' (ID: 10971), Prob: 0.0001
+Token: ' flying' (ID: 16307), Prob: 0.0001
+Token: ' wait' (ID: 3783), Prob: 0.0000
+Token: ' Fly' (ID: 20182), Prob: 0.0000
+Token: ' take' (ID: 1896), Prob: 0.0000
+Token: 'fly' (ID: 21642), Prob: 0.0000
+Token: ' stay' (ID: 4717), Prob: 0.0000
+Token: ' always' (ID: 2677), Prob: 0.0000
+Token: ' make' (ID: 1281), Prob: 0.0000
+Token: ' flew' (ID: 31022), Prob: 0.0000
+Token: ' also' (ID: 1083), Prob: 0.0000
+Token: ' find' (ID: 1477), Prob: 0.0000
+Token: ' choose' (ID: 5157), Prob: 0.0000
+Token: ' follow' (ID: 1795), Prob: 0.0000
+Token: ' flies' (ID: 37104), Prob: 0.0000
+Token: ' pay' (ID: 2291), Prob: 0.0000
+Token: ' leave' (ID: 5274), Prob: 0.0000
+Token: ' spend' (ID: 8329), Prob: 0.0000
+Token: ' fill' (ID: 5155), Prob: 0.0000
+Token: ' arrive' (ID: 17331), Prob: 0.0000
+Token: ' lie' (ID: 10246), Prob: 0.0000
+Token: ' drive' (ID: 6541), Prob: 0.0000
+Token: ' rely' (ID: 17188), Prob: 0.0000
+Token: ' float' (ID: 2224), Prob: 0.0000
+Token: ' fall' (ID: 4399), Prob: 0.0000
+Token: ' exactly' (ID: 6896), Prob: 0.0000
+Token: ' face' (ID: 3579), Prob: 0.0000
+Token: ' land' (ID: 4268), Prob: 0.0000
+Token: ' align' (ID: 5285), Prob: 0.0000
+Token: ' use' (ID: 990), Prob: 0.0000
+Token: ' perform' (ID: 2736), Prob: 0.0000
+Token: ' flip' (ID: 18287), Prob: 0.0000
+Token: ' directly' (ID: 5961), Prob: 0.0000
+Token: ' immediately' (ID: 7069), Prob: 0.0000
+Token: ' return' (ID: 470), Prob: 0.0000
+Token: ' feed' (ID: 5395), Prob: 0.0000
+Token: ' finally' (ID: 5499), Prob: 0.0000
+Token: ' ride' (ID: 11877), Prob: 0.0000
+Token: ' walk' (ID: 4227), Prob: 0.0000
+Token: ' carry' (ID: 6777), Prob: 0.0000
+Token: ' add' (ID: 912), Prob: 0.0000
+Token: ' run' (ID: 1598), Prob: 0.0000
+Token: ' meet' (ID: 3367), Prob: 0.0000
+Token: ' complete' (ID: 4583), Prob: 0.0000
+Token: ' jump' (ID: 7784), Prob: 0.0000
+Token: ' lay' (ID: 10962), Prob: 0.0000
+Token: ' ensure' (ID: 5978), Prob: 0.0000
+Token: ' flee' (ID: 27400), Prob: 0.0000
+Token: ' move' (ID: 3271), Prob: 0.0000
+Token: ' fulfill' (ID: 20423), Prob: 0.0000
+Token: ' fetch' (ID: 7807), Prob: 0.0000
+Token: ' ask' (ID: 2548), Prob: 0.0000
+Token: ' fix' (ID: 5046), Prob: 0.0000
+Token: ' remain' (ID: 7146), Prob: 0.0000
+Token: ' adjust' (ID: 7500), Prob: 0.0000
+Token: ' create' (ID: 1855), Prob: 0.0000
+Token: ' send' (ID: 3624), Prob: 0.0000
+Token: ' connect' (ID: 4564), Prob: 0.0000
+Token: ' specify' (ID: 13837), Prob: 0.0000
+Token: ' get' (ID: 633), Prob: 0.0000
+
+== Ranked Concepts (Clusters) ==
+Rank 1 | Concept Score: 1.0000
+  Tokens: [' fly', ' flight', ' flying', ' Fly', 'fly', ' flew', ' flies']
+Rank 2 | Concept Score: 0.0001
+  Tokens: [' take', ' make', ' find', ' use', ' create', ' get']
+Rank 3 | Concept Score: 0.0001
+  Tokens: [' travel', ' drive', ' ride', ' walk', ' jump']
+Rank 4 | Concept Score: 0.0001
+  Tokens: [' stay', ' leave', ' spend', ' remain']
+Rank 5 | Concept Score: 0.0001
+  Tokens: [' wait', ' follow']
+Rank 6 | Concept Score: 0.0000
+  Tokens: [' always', ' also', ' finally']
+Rank 7 | Concept Score: 0.0000
+  Tokens: [' choose', ' ensure', ' ask', ' adjust', ' specify']
+Rank 8 | Concept Score: 0.0000
+  Tokens: [' pay', ' feed', ' carry', ' send']
+Rank 9 | Concept Score: 0.0000
+  Tokens: [' lie', ' fall', ' lay']
+Rank 10 | Concept Score: 0.0000
+  Tokens: [' exactly', ' directly', ' immediately']
+Rank 11 | Concept Score: 0.0000
+  Tokens: [' fill', ' fetch', ' fix']
+Rank 12 | Concept Score: 0.0000
+  Tokens: [' perform', ' add', ' connect']
+Rank 13 | Concept Score: 0.0000
+  Tokens: [' float', ' flip']
+Rank 14 | Concept Score: 0.0000
+  Tokens: [' arrive']
+Rank 15 | Concept Score: 0.0000
+  Tokens: [' run', ' move']
+Rank 16 | Concept Score: 0.0000
+  Tokens: [' rely']
+Rank 17 | Concept Score: 0.0000
+  Tokens: [' meet', ' fulfill']
+Rank 18 | Concept Score: 0.0000
+  Tokens: [' face']
+Rank 19 | Concept Score: 0.0000
+  Tokens: [' land']
+Rank 20 | Concept Score: 0.0000
+  Tokens: [' align']
+Rank 21 | Concept Score: 0.0000
+  Tokens: [' return']
+Rank 22 | Concept Score: 0.0000
+  Tokens: [' complete']
+Rank 23 | Concept Score: 0.0000
+  Tokens: [' flee']
+
+**Chosen Concept:** Rank 1 with score 1.0000

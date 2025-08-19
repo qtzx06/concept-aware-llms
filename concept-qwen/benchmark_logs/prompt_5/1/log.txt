@@ -1,0 +1,55 @@
+--- Step 1 Log ---
+
+== Filtered Candidates ==
+Token: ' According' (ID: 10548), Prob: 0.0030
+Token: ' One' (ID: 3776), Prob: 0.0019
+Token: ' Let' (ID: 6771), Prob: 0.0017
+Token: ' Since' (ID: 8704), Prob: 0.0016
+Token: ' Together' (ID: 31155), Prob: 0.0012
+Token: ' Describe' (ID: 60785), Prob: 0.0012
+Token: ' However' (ID: 4354), Prob: 0.0009
+Token: ' Today' (ID: 11201), Prob: 0.0009
+Token: ' Time' (ID: 4120), Prob: 0.0008
+Token: ' Later' (ID: 24885), Prob: 0.0007
+Token: ' Two' (ID: 9043), Prob: 0.0006
+Token: ' Tomorrow' (ID: 54996), Prob: 0.0006
+Token: ' Discuss' (ID: 65279), Prob: 0.0006
+Token: ' Upon' (ID: 29438), Prob: 0.0005
+Token: ' Please' (ID: 5209), Prob: 0.0005
+Token: ' Although' (ID: 10328), Prob: 0.0005
+Token: ' Using' (ID: 12091), Prob: 0.0005
+Token: ' Based' (ID: 20205), Prob: 0.0005
+Token: ' Meanwhile' (ID: 25894), Prob: 0.0005
+Token: ' Despite' (ID: 17715), Prob: 0.0004
+Token: ' Initially' (ID: 58556), Prob: 0.0004
+Token: ' Friend' (ID: 11587), Prob: 0.0003
+
+== Ranked Concepts (Clusters) ==
+Rank 1 | Concept Score: 0.0039
+  Tokens: [' According', ' Using', ' Based']
+Rank 2 | Concept Score: 0.0033
+  Tokens: [' Since', ' However', ' Although', ' Despite']
+Rank 3 | Concept Score: 0.0025
+  Tokens: [' One', ' Two']
+Rank 4 | Concept Score: 0.0022
+  Tokens: [' Let', ' Please']
+Rank 5 | Concept Score: 0.0017
+  Tokens: [' Describe', ' Discuss']
+Rank 6 | Concept Score: 0.0014
+  Tokens: [' Today', ' Tomorrow']
+Rank 7 | Concept Score: 0.0012
+  Tokens: [' Together']
+Rank 8 | Concept Score: 0.0008
+  Tokens: [' Time']
+Rank 9 | Concept Score: 0.0007
+  Tokens: [' Later']
+Rank 10 | Concept Score: 0.0005
+  Tokens: [' Upon']
+Rank 11 | Concept Score: 0.0005
+  Tokens: [' Meanwhile']
+Rank 12 | Concept Score: 0.0004
+  Tokens: [' Initially']
+Rank 13 | Concept Score: 0.0003
+  Tokens: [' Friend']
+
+**Chosen Concept:** Rank 1 with score 0.0039

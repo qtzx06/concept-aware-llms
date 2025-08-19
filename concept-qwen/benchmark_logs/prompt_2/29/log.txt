@@ -1,0 +1,96 @@
+--- Step 29 Log ---
+
+== Filtered Candidates ==
+Token: ' may' (ID: 1231), Prob: 0.0618
+Token: ' could' (ID: 1410), Prob: 0.0544
+Token: ' soil' (ID: 17171), Prob: 0.0292
+Token: ' might' (ID: 2578), Prob: 0.0227
+Token: ' must' (ID: 1969), Prob: 0.0089
+Token: ' already' (ID: 2669), Prob: 0.0042
+Token: ' Earth' (ID: 9237), Prob: 0.0037
+Token: ' needs' (ID: 3880), Prob: 0.0024
+Token: ' contains' (ID: 5610), Prob: 0.0024
+Token: ' land' (ID: 4268), Prob: 0.0016
+Token: ' cannot' (ID: 4157), Prob: 0.0009
+Token: ' Soil' (ID: 75519), Prob: 0.0009
+Token: ' would' (ID: 1035), Prob: 0.0008
+Token: ' holds' (ID: 9982), Prob: 0.0008
+Token: ' provides' (ID: 5707), Prob: 0.0007
+Token: ' lacks' (ID: 36756), Prob: 0.0007
+Token: ' probably' (ID: 4658), Prob: 0.0007
+Token: ' surface' (ID: 7329), Prob: 0.0007
+Token: ' scientists' (ID: 13923), Prob: 0.0006
+Token: ' still' (ID: 2058), Prob: 0.0006
+Token: ' environment' (ID: 4573), Prob: 0.0006
+Token: ' orbit' (ID: 26507), Prob: 0.0006
+Token: ' carries' (ID: 23377), Prob: 0.0005
+Token: ' one' (ID: 825), Prob: 0.0004
+Token: ' currently' (ID: 5023), Prob: 0.0004
+Token: ' plants' (ID: 10779), Prob: 0.0004
+Token: ' colonization' (ID: 95453), Prob: 0.0004
+Token: ' belongs' (ID: 17180), Prob: 0.0004
+Token: ' ground' (ID: 4910), Prob: 0.0003
+Token: '-based' (ID: 5980), Prob: 0.0003
+Token: ' likely' (ID: 4363), Prob: 0.0003
+Token: ' Prime' (ID: 12518), Prob: 0.0003
+Token: ' possesses' (ID: 49226), Prob: 0.0003
+Token: ' planet' (ID: 11580), Prob: 0.0003
+Token: ' dust' (ID: 15797), Prob: 0.0003
+Token: ' Mars' (ID: 21048), Prob: 0.0003
+Token: ' requires' (ID: 7460), Prob: 0.0003
+Token: ' lands' (ID: 11835), Prob: 0.0003
+Token: ' passes' (ID: 16211), Prob: 0.0003
+Token: ' terra' (ID: 59561), Prob: 0.0003
+Token: ' atmosphere' (ID: 16566), Prob: 0.0002
+Token: ' produces' (ID: 18644), Prob: 0.0002
+Token: ' orbits' (ID: 85128), Prob: 0.0002
+Token: ' One' (ID: 3776), Prob: 0.0002
+Token: ' resembles' (ID: 52191), Prob: 0.0002
+Token: ' soils' (ID: 68461), Prob: 0.0002
+Token: ' conditions' (ID: 4682), Prob: 0.0002
+Token: ' offers' (ID: 6081), Prob: 0.0002
+Token: ' atmospheric' (ID: 44375), Prob: 0.0002
+Token: ' life' (ID: 2272), Prob: 0.0002
+Token: ' comes' (ID: 4041), Prob: 0.0002
+Token: ' makes' (ID: 3643), Prob: 0.0002
+Token: ' weather' (ID: 9104), Prob: 0.0002
+Token: 'ian' (ID: 1103), Prob: 0.0002
+Token: ' goes' (ID: 5780), Prob: 0.0002
+
+== Ranked Concepts (Clusters) ==
+Rank 1 | Concept Score: 0.1396
+  Tokens: [' may', ' could', ' might', ' would']
+Rank 2 | Concept Score: 0.0306
+  Tokens: [' soil', ' Soil', ' terra', ' soils']
+Rank 3 | Concept Score: 0.0125
+  Tokens: [' must', ' needs', ' cannot', ' requires']
+Rank 4 | Concept Score: 0.0073
+  Tokens: [' contains', ' holds', ' provides', ' lacks', ' carries', ' belongs', ' possesses', ' passes', ' produces', ' resembles', ' offers', ' comes', ' makes', ' goes']
+Rank 5 | Concept Score: 0.0052
+  Tokens: [' already', ' still', ' currently']
+Rank 6 | Concept Score: 0.0051
+  Tokens: [' Earth', ' orbit', ' planet', ' Mars', ' orbits']
+Rank 7 | Concept Score: 0.0019
+  Tokens: [' land', ' lands']
+Rank 8 | Concept Score: 0.0012
+  Tokens: [' environment', ' atmosphere', ' atmospheric', ' weather']
+Rank 9 | Concept Score: 0.0010
+  Tokens: [' scientists', ' plants']
+Rank 10 | Concept Score: 0.0010
+  Tokens: [' probably', ' likely']
+Rank 11 | Concept Score: 0.0009
+  Tokens: [' surface', ' life']
+Rank 12 | Concept Score: 0.0006
+  Tokens: [' one', ' One']
+Rank 13 | Concept Score: 0.0006
+  Tokens: [' Prime', ' dust']
+Rank 14 | Concept Score: 0.0005
+  Tokens: ['-based', 'ian']
+Rank 15 | Concept Score: 0.0004
+  Tokens: [' colonization']
+Rank 16 | Concept Score: 0.0003
+  Tokens: [' ground']
+Rank 17 | Concept Score: 0.0002
+  Tokens: [' conditions']
+
+**Chosen Concept:** Rank 1 with score 0.1396

@@ -1,0 +1,126 @@
+--- Step 67 Log ---
+
+== Filtered Candidates ==
+Token: ' lead' (ID: 2990), Prob: 0.9648
+Token: ' also' (ID: 1083), Prob: 0.0121
+Token: ' help' (ID: 1492), Prob: 0.0045
+Token: ' allow' (ID: 2138), Prob: 0.0015
+Token: ' let' (ID: 1077), Prob: 0.0008
+Token: ' result' (ID: 1102), Prob: 0.0005
+Token: ' make' (ID: 1281), Prob: 0.0004
+Token: ' create' (ID: 1855), Prob: 0.0003
+Token: ' leave' (ID: 5274), Prob: 0.0003
+Token: ' develop' (ID: 2225), Prob: 0.0002
+Token: ' work' (ID: 975), Prob: 0.0002
+Token: 'lead' (ID: 26060), Prob: 0.0002
+Token: ' encourage' (ID: 14907), Prob: 0.0002
+Token: ' give' (ID: 2968), Prob: 0.0002
+Token: ' actually' (ID: 3520), Prob: 0.0001
+Token: ' mean' (ID: 3076), Prob: 0.0001
+Token: ' involve' (ID: 21058), Prob: 0.0001
+Token: ' foster' (ID: 29987), Prob: 0.0001
+Token: ' promote' (ID: 11926), Prob: 0.0001
+Token: ' provide' (ID: 3410), Prob: 0.0001
+Token: ' bring' (ID: 4446), Prob: 0.0001
+Token: ' led' (ID: 6069), Prob: 0.0001
+Token: ' leading' (ID: 6388), Prob: 0.0001
+Token: ' include' (ID: 2924), Prob: 0.0001
+Token: ' cause' (ID: 5240), Prob: 0.0001
+Token: ' enhance' (ID: 18379), Prob: 0.0001
+Token: ' relate' (ID: 28143), Prob: 0.0001
+Token: ' better' (ID: 2664), Prob: 0.0001
+Token: ' offer' (ID: 3010), Prob: 0.0001
+Token: ' leads' (ID: 11508), Prob: 0.0001
+Token: ' reveal' (ID: 16400), Prob: 0.0001
+Token: ' explain' (ID: 10339), Prob: 0.0001
+Token: ' reduce' (ID: 7949), Prob: 0.0001
+Token: ' benefit' (ID: 8760), Prob: 0.0001
+Token: ' contribute' (ID: 16792), Prob: 0.0001
+Token: ' prevent' (ID: 5358), Prob: 0.0001
+Token: ' potentially' (ID: 13581), Prob: 0.0001
+Token: ' show' (ID: 1473), Prob: 0.0001
+Token: ' link' (ID: 2656), Prob: 0.0001
+Token: ' serve' (ID: 8683), Prob: 0.0001
+Token: ' enable' (ID: 7283), Prob: 0.0001
+Token: ' build' (ID: 1936), Prob: 0.0000
+Token: ' guide' (ID: 8474), Prob: 0.0000
+Token: ' facilitate' (ID: 27596), Prob: 0.0000
+Token: ' take' (ID: 1896), Prob: 0.0000
+Token: ' learn' (ID: 3960), Prob: 0.0000
+Token: ' get' (ID: 633), Prob: 0.0000
+Token: ' produce' (ID: 8193), Prob: 0.0000
+Token: ' end' (ID: 835), Prob: 0.0000
+Token: ' increase' (ID: 5263), Prob: 0.0000
+Token: ' influence' (ID: 10173), Prob: 0.0000
+Token: ' still' (ID: 2058), Prob: 0.0000
+Token: ' become' (ID: 3635), Prob: 0.0000
+Token: ' indicate' (ID: 13216), Prob: 0.0000
+Token: ' imply' (ID: 33508), Prob: 0.0000
+Token: ' even' (ID: 1496), Prob: 0.0000
+Token: ' affect' (ID: 7802), Prob: 0.0000
+Token: ' heal' (ID: 26563), Prob: 0.0000
+Token: ' possibly' (ID: 10767), Prob: 0.0000
+Token: ' achieve' (ID: 11075), Prob: 0.0000
+Token: ' change' (ID: 2297), Prob: 0.0000
+Token: ' feel' (ID: 2666), Prob: 0.0000
+Token: ' improve' (ID: 7269), Prob: 0.0000
+Token: ' trigger' (ID: 8183), Prob: 0.0000
+Token: ' look' (ID: 1401), Prob: 0.0000
+Token: ' directly' (ID: 5961), Prob: 0.0000
+Token: ' ensure' (ID: 5978), Prob: 0.0000
+Token: ' avoid' (ID: 5648), Prob: 0.0000
+Token: ' generate' (ID: 6923), Prob: 0.0000
+Token: ' either' (ID: 2987), Prob: 0.0000
+Token: ' lose' (ID: 9052), Prob: 0.0000
+Token: ' ultimately' (ID: 13653), Prob: 0.0000
+Token: ' evoke' (ID: 94163), Prob: 0.0000
+Token: ' support' (ID: 1824), Prob: 0.0000
+Token: ' come' (ID: 2525), Prob: 0.0000
+
+== Ranked Concepts (Clusters) ==
+Rank 1 | Concept Score: 0.9648
+  Tokens: [' lead', 'lead', ' led', ' leading', ' leads']
+Rank 2 | Concept Score: 0.0124
+  Tokens: [' also', ' actually', ' still', ' even', ' ultimately']
+Rank 3 | Concept Score: 0.0045
+  Tokens: [' help', ' guide', ' support']
+Rank 4 | Concept Score: 0.0017
+  Tokens: [' allow', ' prevent', ' enable', ' ensure', ' avoid']
+Rank 5 | Concept Score: 0.0008
+  Tokens: [' let']
+Rank 6 | Concept Score: 0.0008
+  Tokens: [' make', ' leave', ' take', ' get']
+Rank 7 | Concept Score: 0.0007
+  Tokens: [' result', ' work', ' end']
+Rank 8 | Concept Score: 0.0007
+  Tokens: [' create', ' develop', ' build', ' produce', ' generate']
+Rank 9 | Concept Score: 0.0005
+  Tokens: [' involve', ' relate', ' reveal', ' explain', ' indicate', ' imply', ' evoke']
+Rank 10 | Concept Score: 0.0005
+  Tokens: [' encourage', ' foster', ' promote', ' facilitate']
+Rank 11 | Concept Score: 0.0004
+  Tokens: [' give', ' provide', ' offer', ' serve']
+Rank 12 | Concept Score: 0.0003
+  Tokens: [' enhance', ' reduce', ' increase', ' achieve', ' improve']
+Rank 13 | Concept Score: 0.0002
+  Tokens: [' cause', ' influence', ' affect', ' change']
+Rank 14 | Concept Score: 0.0002
+  Tokens: [' better', ' benefit']
+Rank 15 | Concept Score: 0.0002
+  Tokens: [' include', ' show']
+Rank 16 | Concept Score: 0.0002
+  Tokens: [' bring', ' become', ' come']
+Rank 17 | Concept Score: 0.0001
+  Tokens: [' mean']
+Rank 18 | Concept Score: 0.0001
+  Tokens: [' potentially', ' possibly', ' directly', ' either']
+Rank 19 | Concept Score: 0.0001
+  Tokens: [' learn', ' feel', ' look', ' lose']
+Rank 20 | Concept Score: 0.0001
+  Tokens: [' link', ' trigger']
+Rank 21 | Concept Score: 0.0001
+  Tokens: [' contribute']
+Rank 22 | Concept Score: 0.0000
+  Tokens: [' heal']
+
+**Chosen Concept:** Rank 1 with score 0.9648

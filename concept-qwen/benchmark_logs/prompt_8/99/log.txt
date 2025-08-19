@@ -1,0 +1,106 @@
+--- Step 99 Log ---
+
+== Filtered Candidates ==
+Token: ' thoughts' (ID: 11303), Prob: 1.0000
+Token: ' thought' (ID: 3381), Prob: 0.0002
+Token: ' thinking' (ID: 7274), Prob: 0.0000
+Token: ' etc' (ID: 4992), Prob: 0.0000
+Token: ' feelings' (ID: 15650), Prob: 0.0000
+Token: ' ideas' (ID: 6708), Prob: 0.0000
+Token: ' Thoughts' (ID: 60299), Prob: 0.0000
+Token: ' think' (ID: 1744), Prob: 0.0000
+Token: ' things' (ID: 2513), Prob: 0.0000
+Token: ' thinks' (ID: 15482), Prob: 0.0000
+Token: ' opinions' (ID: 17979), Prob: 0.0000
+Token: 'thought' (ID: 60565), Prob: 0.0000
+Token: ' emotions' (ID: 21261), Prob: 0.0000
+Token: ' attitudes' (ID: 32626), Prob: 0.0000
+Token: ' messages' (ID: 6605), Prob: 0.0000
+Token: ' words' (ID: 4244), Prob: 0.0000
+Token: ' actions' (ID: 6168), Prob: 0.0000
+Token: ' expressions' (ID: 23393), Prob: 0.0000
+Token: ' beliefs' (ID: 20799), Prob: 0.0000
+Token: ' comments' (ID: 6042), Prob: 0.0000
+Token: ' views' (ID: 6194), Prob: 0.0000
+Token: ' sounds' (ID: 10362), Prob: 0.0000
+Token: ' statements' (ID: 12239), Prob: 0.0000
+Token: ' sentiments' (ID: 57114), Prob: 0.0000
+Token: ' memories' (ID: 18923), Prob: 0.0000
+Token: ' though' (ID: 3498), Prob: 0.0000
+Token: ' notes' (ID: 8388), Prob: 0.0000
+Token: ' types' (ID: 4494), Prob: 0.0000
+Token: ' insights' (ID: 25709), Prob: 0.0000
+Token: ' photos' (ID: 7249), Prob: 0.0000
+Token: ' responses' (ID: 14507), Prob: 0.0000
+Token: ' tips' (ID: 10414), Prob: 0.0000
+Token: ' reflections' (ID: 62751), Prob: 0.0000
+Token: ' effects' (ID: 6239), Prob: 0.0000
+Token: ' discussions' (ID: 20333), Prob: 0.0000
+Token: ' relationships' (ID: 11871), Prob: 0.0000
+Token: ' points' (ID: 3501), Prob: 0.0000
+Token: ' steps' (ID: 7354), Prob: 0.0000
+Token: ' without' (ID: 2041), Prob: 0.0000
+Token: ' decisions' (ID: 11181), Prob: 0.0000
+Token: ' values' (ID: 2750), Prob: 0.0000
+Token: ' three' (ID: 2326), Prob: 0.0000
+Token: ' stories' (ID: 7343), Prob: 0.0000
+Token: ' perhaps' (ID: 8365), Prob: 0.0000
+Token: ' facts' (ID: 13064), Prob: 0.0000
+Token: ' skills' (ID: 7361), Prob: 0.0000
+Token: ' yes' (ID: 9834), Prob: 0.0000
+Token: ' lessons' (ID: 18366), Prob: 0.0000
+Token: ' speeches' (ID: 43340), Prob: 0.0000
+Token: ' thanks' (ID: 9339), Prob: 0.0000
+Token: ' impressions' (ID: 49991), Prob: 0.0000
+Token: ' something' (ID: 2494), Prob: 0.0000
+Token: ' friends' (ID: 4780), Prob: 0.0000
+Token: ' activities' (ID: 7488), Prob: 0.0000
+Token: ' pictures' (ID: 9185), Prob: 0.0000
+
+== Ranked Concepts (Clusters) ==
+Rank 1 | Concept Score: 1.0000
+  Tokens: [' thoughts', ' thought', ' thinking', ' ideas', ' Thoughts', ' think', ' thinks', 'thought']
+Rank 2 | Concept Score: 0.0000
+  Tokens: [' etc', ' perhaps']
+Rank 3 | Concept Score: 0.0000
+  Tokens: [' feelings', ' emotions', ' sentiments', ' memories']
+Rank 4 | Concept Score: 0.0000
+  Tokens: [' opinions', ' attitudes', ' beliefs', ' views']
+Rank 5 | Concept Score: 0.0000
+  Tokens: [' things', ' something']
+Rank 6 | Concept Score: 0.0000
+  Tokens: [' messages', ' words']
+Rank 7 | Concept Score: 0.0000
+  Tokens: [' expressions', ' statements', ' speeches']
+Rank 8 | Concept Score: 0.0000
+  Tokens: [' actions', ' steps', ' activities']
+Rank 9 | Concept Score: 0.0000
+  Tokens: [' comments']
+Rank 10 | Concept Score: 0.0000
+  Tokens: [' sounds', ' friends']
+Rank 11 | Concept Score: 0.0000
+  Tokens: [' insights', ' tips', ' lessons']
+Rank 12 | Concept Score: 0.0000
+  Tokens: [' though', ' thanks']
+Rank 13 | Concept Score: 0.0000
+  Tokens: [' photos', ' stories', ' pictures']
+Rank 14 | Concept Score: 0.0000
+  Tokens: [' notes', ' points']
+Rank 15 | Concept Score: 0.0000
+  Tokens: [' types', ' values']
+Rank 16 | Concept Score: 0.0000
+  Tokens: [' responses', ' reflections']
+Rank 17 | Concept Score: 0.0000
+  Tokens: [' effects', ' relationships']
+Rank 18 | Concept Score: 0.0000
+  Tokens: [' discussions', ' decisions']
+Rank 19 | Concept Score: 0.0000
+  Tokens: [' without', ' three']
+Rank 20 | Concept Score: 0.0000
+  Tokens: [' facts', ' skills']
+Rank 21 | Concept Score: 0.0000
+  Tokens: [' yes']
+Rank 22 | Concept Score: 0.0000
+  Tokens: [' impressions']
+
+**Chosen Concept:** Rank 1 with score 1.0000

@@ -1,0 +1,79 @@
+--- Step 127 Log ---
+
+== Filtered Candidates ==
+Token: ' used' (ID: 1483), Prob: 1.0000
+Token: ' went' (ID: 3937), Prob: 0.0000
+Token: ' got' (ID: 2684), Prob: 0.0000
+Token: ' use' (ID: 990), Prob: 0.0000
+Token: ' would' (ID: 1035), Prob: 0.0000
+Token: 'used' (ID: 2591), Prob: 0.0000
+Token: ' Used' (ID: 12199), Prob: 0.0000
+Token: ' worked' (ID: 6439), Prob: 0.0000
+Token: '_used' (ID: 27803), Prob: 0.0000
+Token: '-used' (ID: 68521), Prob: 0.0000
+Token: '.used' (ID: 83202), Prob: 0.0000
+Token: ' always' (ID: 2677), Prob: 0.0000
+Token: ' started' (ID: 3855), Prob: 0.0000
+Token: ' uses' (ID: 5711), Prob: 0.0000
+Token: ' stayed' (ID: 19613), Prob: 0.0000
+Token: ' done' (ID: 2814), Prob: 0.0000
+Token: ' kept' (ID: 8604), Prob: 0.0000
+Token: ' utilized' (ID: 33616), Prob: 0.0000
+Token: ' things' (ID: 2513), Prob: 0.0000
+Token: ' became' (ID: 6116), Prob: 0.0000
+Token: ' already' (ID: 2669), Prob: 0.0000
+Token: ' assumed' (ID: 19110), Prob: 0.0000
+Token: ' using' (ID: 1667), Prob: 0.0000
+Token: ' remained' (ID: 14616), Prob: 0.0000
+Token: ' happened' (ID: 6932), Prob: 0.0000
+Token: ' originally' (ID: 13214), Prob: 0.0000
+Token: ' understood' (ID: 15985), Prob: 0.0000
+Token: ' uso' (ID: 33910), Prob: 0.0000
+Token: ' like' (ID: 1075), Prob: 0.0000
+Token: ' previously' (ID: 8597), Prob: 0.0000
+Token: ' gone' (ID: 8048), Prob: 0.0000
+Token: ' considered' (ID: 6509), Prob: 0.0000
+Token: ' ways' (ID: 5510), Prob: 0.0000
+Token: ' said' (ID: 1053), Prob: 0.0000
+Token: ' usually' (ID: 5990), Prob: 0.0000
+Token: ' began' (ID: 6009), Prob: 0.0000
+Token: 'Used' (ID: 22743), Prob: 0.0000
+Token: ' stood' (ID: 14638), Prob: 0.0000
+Token: ' liked' (ID: 14915), Prob: 0.0000
+Token: ' initially' (ID: 15102), Prob: 0.0000
+Token: ' USED' (ID: 65217), Prob: 0.0000
+Token: ' made' (ID: 1865), Prob: 0.0000
+Token: ' changed' (ID: 5497), Prob: 0.0000
+Token: ' people' (ID: 1251), Prob: 0.0000
+Token: ' could' (ID: 1410), Prob: 0.0000
+Token: ' still' (ID: 2058), Prob: 0.0000
+Token: ' might' (ID: 2578), Prob: 0.0000
+Token: ' looked' (ID: 6966), Prob: 0.0000
+
+== Ranked Concepts (Clusters) ==
+Rank 1 | Concept Score: 1.0000
+  Tokens: [' used', 'used', ' Used', '_used', '-used', '.used', ' utilized', 'Used', ' USED']
+Rank 2 | Concept Score: 0.0000
+  Tokens: [' went', ' gone']
+Rank 3 | Concept Score: 0.0000
+  Tokens: [' got', ' worked', ' started', ' happened', ' began', ' changed']
+Rank 4 | Concept Score: 0.0000
+  Tokens: [' use', ' uses', ' using', ' uso']
+Rank 5 | Concept Score: 0.0000
+  Tokens: [' would', ' could', ' might']
+Rank 6 | Concept Score: 0.0000
+  Tokens: [' stayed', ' kept', ' became', ' remained', ' stood']
+Rank 7 | Concept Score: 0.0000
+  Tokens: [' already', ' originally', ' previously', ' usually', ' initially']
+Rank 8 | Concept Score: 0.0000
+  Tokens: [' assumed', ' understood', ' considered', ' said', ' looked']
+Rank 9 | Concept Score: 0.0000
+  Tokens: [' always', ' still']
+Rank 10 | Concept Score: 0.0000
+  Tokens: [' things', ' ways', ' people']
+Rank 11 | Concept Score: 0.0000
+  Tokens: [' done', ' made']
+Rank 12 | Concept Score: 0.0000
+  Tokens: [' like', ' liked']
+
+**Chosen Concept:** Rank 1 with score 1.0000

@@ -1,0 +1,80 @@
+--- Step 120 Log ---
+
+== Filtered Candidates ==
+Token: ' Assume' (ID: 62197), Prob: 0.9609
+Token: ' Assuming' (ID: 63964), Prob: 0.0078
+Token: ' Let' (ID: 6771), Prob: 0.0035
+Token: ' Ass' (ID: 2688), Prob: 0.0007
+Token: ' Suppose' (ID: 82610), Prob: 0.0006
+Token: ' Based' (ID: 20205), Prob: 0.0006
+Token: ' Imagine' (ID: 37791), Prob: 0.0004
+Token: ' Keep' (ID: 13655), Prob: 0.0003
+Token: ' Answer' (ID: 21806), Prob: 0.0003
+Token: ' assume' (ID: 9658), Prob: 0.0003
+Token: ' Maybe' (ID: 10696), Prob: 0.0003
+Token: ' Also' (ID: 7281), Prob: 0.0002
+Token: ' Use' (ID: 5443), Prob: 0.0001
+Token: ' Adjust' (ID: 27196), Prob: 0.0001
+Token: ' Please' (ID: 5209), Prob: 0.0001
+Token: ' Wait' (ID: 13824), Prob: 0.0001
+Token: ' Ask' (ID: 20437), Prob: 0.0001
+Token: ' Make' (ID: 7405), Prob: 0.0001
+Token: ' According' (ID: 10548), Prob: 0.0001
+Token: ' Explain' (ID: 81917), Prob: 0.0001
+Token: ' Hmm' (ID: 88190), Prob: 0.0001
+Token: ' Think' (ID: 21149), Prob: 0.0001
+Token: ' Ensure' (ID: 29279), Prob: 0.0000
+Token: 'Ass' (ID: 5615), Prob: 0.0000
+Token: ' Yes' (ID: 7414), Prob: 0.0000
+Token: ' Buy' (ID: 11292), Prob: 0.0000
+Token: ' Choose' (ID: 22201), Prob: 0.0000
+Token: ' Analy' (ID: 37427), Prob: 0.0000
+Token: ' Take' (ID: 11778), Prob: 0.0000
+Token: ' Therefore' (ID: 15277), Prob: 0.0000
+Token: ' Apply' (ID: 20552), Prob: 0.0000
+Token: ' Say' (ID: 24917), Prob: 0.0000
+Token: ' Finally' (ID: 17375), Prob: 0.0000
+Token: ' Continue' (ID: 15003), Prob: 0.0000
+Token: ' Assign' (ID: 31639), Prob: 0.0000
+Token: ' However' (ID: 4354), Prob: 0.0000
+Token: ' Since' (ID: 8704), Prob: 0.0000
+Token: ' Consider' (ID: 21144), Prob: 0.0000
+Token: ' Discuss' (ID: 65279), Prob: 0.0000
+Token: ' Assess' (ID: 81835), Prob: 0.0000
+Token: ' Note' (ID: 7036), Prob: 0.0000
+
+== Ranked Concepts (Clusters) ==
+Rank 1 | Concept Score: 0.9688
+  Tokens: [' Assume', ' Assuming', ' Ass', ' assume', 'Ass']
+Rank 2 | Concept Score: 0.0041
+  Tokens: [' Let', ' Suppose']
+Rank 3 | Concept Score: 0.0007
+  Tokens: [' Based', ' According']
+Rank 4 | Concept Score: 0.0005
+  Tokens: [' Maybe', ' Wait', ' Hmm', ' Yes']
+Rank 5 | Concept Score: 0.0004
+  Tokens: [' Imagine', ' Think', ' Consider']
+Rank 6 | Concept Score: 0.0003
+  Tokens: [' Also', ' Therefore', ' Finally', ' However', ' Since']
+Rank 7 | Concept Score: 0.0003
+  Tokens: [' Keep', ' Continue']
+Rank 8 | Concept Score: 0.0003
+  Tokens: [' Answer']
+Rank 9 | Concept Score: 0.0002
+  Tokens: [' Use', ' Make', ' Choose', ' Apply']
+Rank 10 | Concept Score: 0.0002
+  Tokens: [' Adjust', ' Analy', ' Assign', ' Assess']
+Rank 11 | Concept Score: 0.0002
+  Tokens: [' Ask', ' Buy', ' Say']
+Rank 12 | Concept Score: 0.0001
+  Tokens: [' Explain', ' Discuss']
+Rank 13 | Concept Score: 0.0001
+  Tokens: [' Please']
+Rank 14 | Concept Score: 0.0000
+  Tokens: [' Ensure']
+Rank 15 | Concept Score: 0.0000
+  Tokens: [' Take']
+Rank 16 | Concept Score: 0.0000
+  Tokens: [' Note']
+
+**Chosen Concept:** Rank 1 with score 0.9688

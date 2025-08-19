@@ -1,0 +1,168 @@
+--- Step 14 Log ---
+
+== Filtered Candidates ==
+Token: ' travel' (ID: 5821), Prob: 0.0500
+Token: ' choose' (ID: 5157), Prob: 0.0471
+Token: ' use' (ID: 990), Prob: 0.0344
+Token: ' make' (ID: 1281), Prob: 0.0286
+Token: ' take' (ID: 1896), Prob: 0.0251
+Token: ' leave' (ID: 5274), Prob: 0.0153
+Token: ' wait' (ID: 3783), Prob: 0.0112
+Token: ' survive' (ID: 17697), Prob: 0.0112
+Token: ' pay' (ID: 2291), Prob: 0.0105
+Token: ' meet' (ID: 3367), Prob: 0.0105
+Token: ' pass' (ID: 1494), Prob: 0.0093
+Token: ' spend' (ID: 8329), Prob: 0.0093
+Token: ' perform' (ID: 2736), Prob: 0.0082
+Token: ' stay' (ID: 4717), Prob: 0.0082
+Token: ' complete' (ID: 4583), Prob: 0.0072
+Token: ' arrive' (ID: 17331), Prob: 0.0072
+Token: ' enter' (ID: 3725), Prob: 0.0068
+Token: ' obey' (ID: 40601), Prob: 0.0068
+Token: ' keep' (ID: 2506), Prob: 0.0064
+Token: ' move' (ID: 3271), Prob: 0.0060
+Token: ' follow' (ID: 1795), Prob: 0.0056
+Token: ' find' (ID: 1477), Prob: 0.0053
+Token: ' select' (ID: 3293), Prob: 0.0053
+Token: ' carry' (ID: 6777), Prob: 0.0053
+Token: ' remain' (ID: 7146), Prob: 0.0050
+Token: ' consume' (ID: 24057), Prob: 0.0047
+Token: ' know' (ID: 1414), Prob: 0.0044
+Token: ' create' (ID: 1855), Prob: 0.0044
+Token: ' walk' (ID: 4227), Prob: 0.0044
+Token: ' satisfy' (ID: 26553), Prob: 0.0044
+Token: ' visit' (ID: 3947), Prob: 0.0039
+Token: ' always' (ID: 2677), Prob: 0.0036
+Token: ' give' (ID: 2968), Prob: 0.0036
+Token: ' get' (ID: 633), Prob: 0.0034
+Token: ' start' (ID: 1191), Prob: 0.0034
+Token: ' provide' (ID: 3410), Prob: 0.0034
+Token: ' undergo' (ID: 36671), Prob: 0.0034
+Token: ' return' (ID: 470), Prob: 0.0032
+Token: ' apply' (ID: 3796), Prob: 0.0032
+Token: ' eat' (ID: 8180), Prob: 0.0032
+Token: ' fly' (ID: 11466), Prob: 0.0032
+Token: ' send' (ID: 3624), Prob: 0.0030
+Token: ' ensure' (ID: 5978), Prob: 0.0030
+Token: ' first' (ID: 1156), Prob: 0.0028
+Token: ' hold' (ID: 3331), Prob: 0.0027
+Token: ' receive' (ID: 5258), Prob: 0.0027
+Token: ' balance' (ID: 8172), Prob: 0.0027
+Token: ' maintain' (ID: 10306), Prob: 0.0025
+Token: ' change' (ID: 2297), Prob: 0.0023
+Token: ' begin' (ID: 3161), Prob: 0.0023
+Token: ' live' (ID: 3887), Prob: 0.0023
+Token: ' decide' (ID: 10279), Prob: 0.0022
+Token: ' control' (ID: 2524), Prob: 0.0019
+Token: ' write' (ID: 3270), Prob: 0.0018
+Token: ' fill' (ID: 5155), Prob: 0.0018
+Token: ' set' (ID: 738), Prob: 0.0017
+Token: ' come' (ID: 2525), Prob: 0.0017
+Token: ' pick' (ID: 3735), Prob: 0.0017
+Token: ' reach' (ID: 5545), Prob: 0.0017
+Token: ' avoid' (ID: 5648), Prob: 0.0017
+Token: ' submit' (ID: 9318), Prob: 0.0017
+Token: ' emit' (ID: 16691), Prob: 0.0017
+Token: ' time' (ID: 882), Prob: 0.0016
+Token: ' account' (ID: 2692), Prob: 0.0016
+Token: ' transport' (ID: 7557), Prob: 0.0016
+Token: ' produce' (ID: 8193), Prob: 0.0016
+Token: ' prepare' (ID: 10549), Prob: 0.0016
+Token: ' possess' (ID: 15218), Prob: 0.0016
+Token: ' turn' (ID: 2484), Prob: 0.0015
+Token: ' bring' (ID: 4446), Prob: 0.0015
+Token: ' experience' (ID: 3139), Prob: 0.0014
+Token: ' ask' (ID: 2548), Prob: 0.0013
+Token: ' conduct' (ID: 6786), Prob: 0.0013
+Token: ' supply' (ID: 8149), Prob: 0.0013
+Token: ' wear' (ID: 9850), Prob: 0.0013
+Token: ' depart' (ID: 11515), Prob: 0.0013
+Token: ' solve' (ID: 11625), Prob: 0.0013
+Token: ' escape' (ID: 12449), Prob: 0.0013
+Token: ' abide' (ID: 57199), Prob: 0.0013
+Token: ' read' (ID: 1349), Prob: 0.0013
+Token: ' place' (ID: 1992), Prob: 0.0013
+Token: ' accept' (ID: 4193), Prob: 0.0013
+Token: ' immediately' (ID: 7069), Prob: 0.0013
+Token: ' delay' (ID: 7626), Prob: 0.0013
+Token: ' exist' (ID: 3000), Prob: 0.0012
+Token: ' appear' (ID: 4994), Prob: 0.0012
+Token: ' contain' (ID: 6644), Prob: 0.0012
+Token: ' generate' (ID: 6923), Prob: 0.0012
+Token: ' agree' (ID: 7503), Prob: 0.0012
+Token: ' conform' (ID: 25879), Prob: 0.0012
+Token: ' adhere' (ID: 48453), Prob: 0.0012
+
+== Ranked Concepts (Clusters) ==
+Rank 1 | Concept Score: 0.0688
+  Tokens: [' travel', ' move', ' walk', ' visit', ' fly', ' escape']
+Rank 2 | Concept Score: 0.0564
+  Tokens: [' choose', ' select', ' decide', ' pick']
+Rank 3 | Concept Score: 0.0479
+  Tokens: [' use', ' complete', ' first', ' set', ' time']
+Rank 4 | Concept Score: 0.0442
+  Tokens: [' make', ' create', ' give', ' provide', ' prepare', ' bring', ' generate']
+Rank 5 | Concept Score: 0.0339
+  Tokens: [' take', ' find', ' get']
+Rank 6 | Concept Score: 0.0280
+  Tokens: [' spend', ' perform', ' consume', ' eat', ' receive']
+Rank 7 | Concept Score: 0.0220
+  Tokens: [' stay', ' keep', ' remain', ' maintain']
+Rank 8 | Concept Score: 0.0206
+  Tokens: [' pay', ' carry', ' send', ' fill']
+Rank 9 | Concept Score: 0.0153
+  Tokens: [' pass', ' return', ' turn', ' place']
+Rank 10 | Concept Score: 0.0153
+  Tokens: [' leave']
+Rank 11 | Concept Score: 0.0149
+  Tokens: [' meet', ' satisfy']
+Rank 12 | Concept Score: 0.0135
+  Tokens: [' wait', ' live']
+Rank 13 | Concept Score: 0.0135
+  Tokens: [' survive', ' exist', ' appear']
+Rank 14 | Concept Score: 0.0117
+  Tokens: [' obey', ' abide', ' agree', ' conform', ' adhere']
+Rank 15 | Concept Score: 0.0106
+  Tokens: [' arrive', ' come', ' reach']
+Rank 16 | Concept Score: 0.0081
+  Tokens: [' enter', ' depart']
+Rank 17 | Concept Score: 0.0062
+  Tokens: [' balance', ' control', ' account']
+Rank 18 | Concept Score: 0.0057
+  Tokens: [' start', ' begin']
+Rank 19 | Concept Score: 0.0056
+  Tokens: [' follow']
+Rank 20 | Concept Score: 0.0049
+  Tokens: [' always', ' immediately']
+Rank 21 | Concept Score: 0.0048
+  Tokens: [' undergo', ' experience']
+Rank 22 | Concept Score: 0.0047
+  Tokens: [' ensure', ' avoid']
+Rank 23 | Concept Score: 0.0045
+  Tokens: [' apply', ' ask']
+Rank 24 | Concept Score: 0.0044
+  Tokens: [' know']
+Rank 25 | Concept Score: 0.0033
+  Tokens: [' emit', ' produce']
+Rank 26 | Concept Score: 0.0031
+  Tokens: [' write', ' read']
+Rank 27 | Concept Score: 0.0029
+  Tokens: [' transport', ' supply']
+Rank 28 | Concept Score: 0.0028
+  Tokens: [' possess', ' contain']
+Rank 29 | Concept Score: 0.0027
+  Tokens: [' conduct', ' wear']
+Rank 30 | Concept Score: 0.0027
+  Tokens: [' hold']
+Rank 31 | Concept Score: 0.0023
+  Tokens: [' change']
+Rank 32 | Concept Score: 0.0017
+  Tokens: [' submit']
+Rank 33 | Concept Score: 0.0013
+  Tokens: [' solve']
+Rank 34 | Concept Score: 0.0013
+  Tokens: [' accept']
+Rank 35 | Concept Score: 0.0013
+  Tokens: [' delay']
+
+**Chosen Concept:** Rank 1 with score 0.0688

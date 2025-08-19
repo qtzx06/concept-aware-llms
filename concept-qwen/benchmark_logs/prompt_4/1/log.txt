@@ -1,0 +1,57 @@
+--- Step 1 Log ---
+
+== Filtered Candidates ==
+Token: ' Let' (ID: 6771), Prob: 0.0262
+Token: ' Please' (ID: 5209), Prob: 0.0132
+Token: ' Children' (ID: 15044), Prob: 0.0036
+Token: ' Born' (ID: 37816), Prob: 0.0033
+Token: ' Read' (ID: 4457), Prob: 0.0031
+Token: ' Also' (ID: 7281), Prob: 0.0031
+Token: ' Maybe' (ID: 10696), Prob: 0.0031
+Token: ' One' (ID: 3776), Prob: 0.0026
+Token: ' May' (ID: 3217), Prob: 0.0024
+Token: ' Since' (ID: 8704), Prob: 0.0024
+Token: ' Brave' (ID: 69208), Prob: 0.0023
+Token: ' Would' (ID: 18885), Prob: 0.0022
+Token: ' Based' (ID: 20205), Prob: 0.0022
+Token: ' Yes' (ID: 7414), Prob: 0.0017
+Token: ' However' (ID: 4354), Prob: 0.0016
+Token: ' Therefore' (ID: 15277), Prob: 0.0016
+Token: ' According' (ID: 10548), Prob: 0.0015
+Token: ' Despite' (ID: 17715), Prob: 0.0015
+Token: ' Well' (ID: 8325), Prob: 0.0014
+Token: ' born' (ID: 9223), Prob: 0.0014
+Token: ' Make' (ID: 7405), Prob: 0.0013
+Token: ' Describe' (ID: 60785), Prob: 0.0012
+
+== Ranked Concepts (Clusters) ==
+Rank 1 | Concept Score: 0.0396
+  Tokens: [' Let', ' Please']
+Rank 2 | Concept Score: 0.0071
+  Tokens: [' Since', ' However', ' Therefore', ' Despite']
+Rank 3 | Concept Score: 0.0056
+  Tokens: [' Maybe', ' May']
+Rank 4 | Concept Score: 0.0047
+  Tokens: [' Born', ' born']
+Rank 5 | Concept Score: 0.0036
+  Tokens: [' Based', ' According']
+Rank 6 | Concept Score: 0.0036
+  Tokens: [' Children']
+Rank 7 | Concept Score: 0.0031
+  Tokens: [' Read']
+Rank 8 | Concept Score: 0.0031
+  Tokens: [' Also']
+Rank 9 | Concept Score: 0.0026
+  Tokens: [' One']
+Rank 10 | Concept Score: 0.0025
+  Tokens: [' Make', ' Describe']
+Rank 11 | Concept Score: 0.0023
+  Tokens: [' Brave']
+Rank 12 | Concept Score: 0.0022
+  Tokens: [' Would']
+Rank 13 | Concept Score: 0.0017
+  Tokens: [' Yes']
+Rank 14 | Concept Score: 0.0014
+  Tokens: [' Well']
+
+**Chosen Concept:** Rank 1 with score 0.0396

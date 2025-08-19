@@ -1,0 +1,71 @@
+--- Step 35 Log ---
+
+== Filtered Candidates ==
+Token: ' one' (ID: 825), Prob: 0.0747
+Token: ' two' (ID: 1378), Prob: 0.0200
+Token: ' twice' (ID: 10917), Prob: 0.0188
+Token: ' every' (ID: 1449), Prob: 0.0147
+Token: ' three' (ID: 2326), Prob: 0.0147
+Token: ' within' (ID: 2878), Prob: 0.0042
+Token: ' five' (ID: 4236), Prob: 0.0042
+Token: ' according' (ID: 4092), Prob: 0.0039
+Token: ' four' (ID: 3040), Prob: 0.0024
+Token: ' halfway' (ID: 41336), Prob: 0.0024
+Token: ' directly' (ID: 5961), Prob: 0.0016
+Token: ' immediately' (ID: 7069), Prob: 0.0016
+Token: ' half' (ID: 4279), Prob: 0.0015
+Token: ' seven' (ID: 8094), Prob: 0.0014
+Token: ' behind' (ID: 4815), Prob: 0.0013
+Token: ' exactly' (ID: 6896), Prob: 0.0011
+Token: ' based' (ID: 3118), Prob: 0.0010
+Token: ' six' (ID: 4743), Prob: 0.0010
+Token: ' midnight' (ID: 32333), Prob: 0.0010
+Token: ' right' (ID: 1290), Prob: 0.0009
+Token: ' twenty' (ID: 17073), Prob: 0.0008
+Token: ' across' (ID: 3941), Prob: 0.0007
+Token: ' ten' (ID: 5779), Prob: 0.0007
+Token: ' straight' (ID: 7678), Prob: 0.0007
+Token: ' either' (ID: 2987), Prob: 0.0007
+Token: ' via' (ID: 4566), Prob: 0.0007
+Token: ' whenever' (ID: 15356), Prob: 0.0007
+Token: ' enough' (ID: 3322), Prob: 0.0006
+Token: ' due' (ID: 4152), Prob: 0.0006
+Token: ' noon' (ID: 37145), Prob: 0.0006
+Token: ' minutes' (ID: 4420), Prob: 0.0005
+Token: ' using' (ID: 1667), Prob: 0.0005
+Token: ' equal' (ID: 6144), Prob: 0.0004
+Token: ' eight' (ID: 8063), Prob: 0.0004
+Token: ' depending' (ID: 11649), Prob: 0.0004
+Token: ' opposite' (ID: 14002), Prob: 0.0004
+
+== Ranked Concepts (Clusters) ==
+Rank 1 | Concept Score: 0.0947
+  Tokens: [' one', ' two']
+Rank 2 | Concept Score: 0.0256
+  Tokens: [' three', ' five', ' four', ' seven', ' six', ' twenty', ' ten', ' eight']
+Rank 3 | Concept Score: 0.0227
+  Tokens: [' twice', ' halfway', ' half']
+Rank 4 | Concept Score: 0.0154
+  Tokens: [' every', ' whenever']
+Rank 5 | Concept Score: 0.0062
+  Tokens: [' within', ' behind', ' across']
+Rank 6 | Concept Score: 0.0060
+  Tokens: [' according', ' based', ' due', ' depending']
+Rank 7 | Concept Score: 0.0044
+  Tokens: [' directly', ' immediately', ' exactly']
+Rank 8 | Concept Score: 0.0021
+  Tokens: [' midnight', ' noon', ' minutes']
+Rank 9 | Concept Score: 0.0016
+  Tokens: [' right', ' straight']
+Rank 10 | Concept Score: 0.0012
+  Tokens: [' via', ' using']
+Rank 11 | Concept Score: 0.0007
+  Tokens: [' either']
+Rank 12 | Concept Score: 0.0006
+  Tokens: [' enough']
+Rank 13 | Concept Score: 0.0004
+  Tokens: [' equal']
+Rank 14 | Concept Score: 0.0004
+  Tokens: [' opposite']
+
+**Chosen Concept:** Rank 1 with score 0.0947

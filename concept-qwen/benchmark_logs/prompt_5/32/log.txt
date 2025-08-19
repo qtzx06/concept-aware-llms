@@ -1,0 +1,97 @@
+--- Step 32 Log ---
+
+== Filtered Candidates ==
+Token: ' time' (ID: 882), Prob: 0.8125
+Token: ' zone' (ID: 10143), Prob: 0.1245
+Token: ' region' (ID: 5537), Prob: 0.0048
+Token: ' location' (ID: 3728), Prob: 0.0033
+Token: ' timezone' (ID: 33957), Prob: 0.0031
+Token: ' city' (ID: 3283), Prob: 0.0026
+Token: ' destination' (ID: 9106), Prob: 0.0018
+Token: ' date' (ID: 2400), Prob: 0.0016
+Token: ' point' (ID: 1459), Prob: 0.0007
+Token: ' area' (ID: 3082), Prob: 0.0004
+Token: ' via' (ID: 4566), Prob: 0.0004
+Token: ' hour' (ID: 6460), Prob: 0.0004
+Token: ' using' (ID: 1667), Prob: 0.0004
+Token: ' state' (ID: 1584), Prob: 0.0003
+Token: ' country' (ID: 3146), Prob: 0.0003
+Token: ' longitude' (ID: 20515), Prob: 0.0003
+Token: ' Zone' (ID: 22178), Prob: 0.0003
+Token: ' floor' (ID: 6422), Prob: 0.0003
+Token: ' clock' (ID: 8866), Prob: 0.0003
+Token: ' due' (ID: 4152), Prob: 0.0002
+Token: ' directly' (ID: 5961), Prob: 0.0002
+Token: ' zones' (ID: 25395), Prob: 0.0002
+Token: ' without' (ID: 2041), Prob: 0.0002
+Token: ' position' (ID: 2309), Prob: 0.0002
+Token: ' day' (ID: 1899), Prob: 0.0002
+Token: ' within' (ID: 2878), Prob: 0.0002
+Token: ' room' (ID: 3054), Prob: 0.0002
+Token: ' planet' (ID: 11580), Prob: 0.0002
+Token: ' station' (ID: 8056), Prob: 0.0002
+Token: ' flight' (ID: 10971), Prob: 0.0002
+Token: ' times' (ID: 3039), Prob: 0.0001
+Token: ' airport' (ID: 16733), Prob: 0.0001
+Token: ' continent' (ID: 31743), Prob: 0.0001
+Token: ' space' (ID: 3550), Prob: 0.0001
+Token: ' land' (ID: 4268), Prob: 0.0001
+Token: ' moment' (ID: 4445), Prob: 0.0001
+Token: ' port' (ID: 2635), Prob: 0.0001
+Token: ' town' (ID: 6290), Prob: 0.0001
+Token: ' slot' (ID: 9446), Prob: 0.0001
+Token: ' one' (ID: 825), Prob: 0.0001
+Token: ' period' (ID: 4168), Prob: 0.0001
+Token: ' ground' (ID: 4910), Prob: 0.0001
+Token: ' universe' (ID: 15494), Prob: 0.0001
+Token: ' territory' (ID: 17971), Prob: 0.0001
+Token: ' address' (ID: 2621), Prob: 0.0001
+Token: ' based' (ID: 3118), Prob: 0.0001
+Token: ' according' (ID: 4092), Prob: 0.0001
+Token: ' immediately' (ID: 7069), Prob: 0.0001
+Token: ' side' (ID: 3108), Prob: 0.0001
+Token: ' instead' (ID: 4518), Prob: 0.0001
+Token: ' plane' (ID: 11031), Prob: 0.0001
+Token: ' locale' (ID: 18565), Prob: 0.0001
+Token: ' speed' (ID: 4628), Prob: 0.0001
+Token: ' direction' (ID: 5106), Prob: 0.0001
+
+== Ranked Concepts (Clusters) ==
+Rank 1 | Concept Score: 0.8125
+  Tokens: [' time', ' times']
+Rank 2 | Concept Score: 0.1299
+  Tokens: [' zone', ' region', ' area', ' Zone', ' zones']
+Rank 3 | Concept Score: 0.0054
+  Tokens: [' location', ' destination', ' position', ' direction']
+Rank 4 | Concept Score: 0.0035
+  Tokens: [' timezone', ' longitude']
+Rank 5 | Concept Score: 0.0034
+  Tokens: [' city', ' country', ' planet', ' continent', ' town']
+Rank 6 | Concept Score: 0.0023
+  Tokens: [' date', ' hour', ' clock']
+Rank 7 | Concept Score: 0.0018
+  Tokens: [' via', ' using', ' due', ' without', ' within', ' one', ' based', ' according']
+Rank 8 | Concept Score: 0.0010
+  Tokens: [' point', ' state']
+Rank 9 | Concept Score: 0.0008
+  Tokens: [' station', ' flight', ' airport', ' port', ' slot', ' plane']
+Rank 10 | Concept Score: 0.0005
+  Tokens: [' floor', ' room']
+Rank 11 | Concept Score: 0.0004
+  Tokens: [' day', ' moment', ' period']
+Rank 12 | Concept Score: 0.0004
+  Tokens: [' directly', ' immediately', ' instead']
+Rank 13 | Concept Score: 0.0003
+  Tokens: [' universe', ' territory', ' locale']
+Rank 14 | Concept Score: 0.0002
+  Tokens: [' land', ' ground']
+Rank 15 | Concept Score: 0.0001
+  Tokens: [' space']
+Rank 16 | Concept Score: 0.0001
+  Tokens: [' address']
+Rank 17 | Concept Score: 0.0001
+  Tokens: [' side']
+Rank 18 | Concept Score: 0.0001
+  Tokens: [' speed']
+
+**Chosen Concept:** Rank 1 with score 0.8125

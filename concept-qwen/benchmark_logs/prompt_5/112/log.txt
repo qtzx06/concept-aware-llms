@@ -1,0 +1,70 @@
+--- Step 112 Log ---
+
+== Filtered Candidates ==
+Token: ' Therefore' (ID: 15277), Prob: 0.0649
+Token: ' However' (ID: 4354), Prob: 0.0393
+Token: ' Wait' (ID: 13824), Prob: 0.0393
+Token: ' Additionally' (ID: 22406), Prob: 0.0154
+Token: ' Also' (ID: 7281), Prob: 0.0113
+Token: ' Thus' (ID: 14301), Prob: 0.0088
+Token: ' Hence' (ID: 31040), Prob: 0.0078
+Token: ' Let' (ID: 6771), Prob: 0.0068
+Token: ' According' (ID: 10548), Prob: 0.0064
+Token: ' Finally' (ID: 17375), Prob: 0.0044
+Token: ' Please' (ID: 5209), Prob: 0.0037
+Token: ' Since' (ID: 8704), Prob: 0.0034
+Token: ' Based' (ID: 20205), Prob: 0.0027
+Token: ' Given' (ID: 16246), Prob: 0.0021
+Token: ' Determine' (ID: 29901), Prob: 0.0014
+Token: ' Similarly' (ID: 34239), Prob: 0.0014
+Token: ' Hmm' (ID: 88190), Prob: 0.0014
+Token: ' Furthermore' (ID: 23405), Prob: 0.0013
+Token: ' Answer' (ID: 21806), Prob: 0.0012
+Token: ' Explain' (ID: 81917), Prob: 0.0011
+Token: ' Still' (ID: 16377), Prob: 0.0009
+Token: ' Assume' (ID: 62197), Prob: 0.0008
+Token: ' Due' (ID: 23662), Prob: 0.0008
+Token: ' Assuming' (ID: 63964), Prob: 0.0007
+Token: ' One' (ID: 3776), Prob: 0.0006
+Token: ' Meanwhile' (ID: 25894), Prob: 0.0006
+Token: ' Time' (ID: 4120), Prob: 0.0006
+Token: ' Could' (ID: 16503), Prob: 0.0006
+Token: ' Find' (ID: 7379), Prob: 0.0006
+Token: ' Moreover' (ID: 22827), Prob: 0.0006
+Token: ' Suppose' (ID: 82610), Prob: 0.0006
+Token: ' Despite' (ID: 17715), Prob: 0.0005
+Token: ' Note' (ID: 7036), Prob: 0.0005
+
+== Ranked Concepts (Clusters) ==
+Rank 1 | Concept Score: 0.0815
+  Tokens: [' Therefore', ' Thus', ' Hence']
+Rank 2 | Concept Score: 0.0408
+  Tokens: [' Wait', ' Hmm']
+Rank 3 | Concept Score: 0.0393
+  Tokens: [' However']
+Rank 4 | Concept Score: 0.0286
+  Tokens: [' Additionally', ' Also', ' Furthermore', ' Moreover']
+Rank 5 | Concept Score: 0.0092
+  Tokens: [' According', ' Based']
+Rank 6 | Concept Score: 0.0068
+  Tokens: [' Let']
+Rank 7 | Concept Score: 0.0064
+  Tokens: [' Finally', ' Similarly', ' Meanwhile']
+Rank 8 | Concept Score: 0.0063
+  Tokens: [' Since', ' Given', ' Due']
+Rank 9 | Concept Score: 0.0043
+  Tokens: [' Please', ' Could']
+Rank 10 | Concept Score: 0.0031
+  Tokens: [' Determine', ' Explain', ' Find']
+Rank 11 | Concept Score: 0.0021
+  Tokens: [' Assume', ' Assuming', ' Suppose']
+Rank 12 | Concept Score: 0.0014
+  Tokens: [' Still', ' Despite']
+Rank 13 | Concept Score: 0.0012
+  Tokens: [' One', ' Time']
+Rank 14 | Concept Score: 0.0012
+  Tokens: [' Answer']
+Rank 15 | Concept Score: 0.0005
+  Tokens: [' Note']
+
+**Chosen Concept:** Rank 1 with score 0.0815

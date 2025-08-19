@@ -1,0 +1,143 @@
+--- Step 8 Log ---
+
+== Filtered Candidates ==
+Token: ' travel' (ID: 5821), Prob: 0.5938
+Token: ' traveler' (ID: 62765), Prob: 0.2812
+Token: ' machine' (ID: 5662), Prob: 0.0713
+Token: ' traveling' (ID: 20971), Prob: 0.0066
+Token: ' travelers' (ID: 39286), Prob: 0.0066
+Token: '-tr' (ID: 10188), Prob: 0.0055
+Token: ' portal' (ID: 23132), Prob: 0.0035
+Token: ' loop' (ID: 6337), Prob: 0.0015
+Token: ' zone' (ID: 10143), Prob: 0.0012
+Token: ' experiment' (ID: 9342), Prob: 0.0008
+Token: ' clock' (ID: 8866), Prob: 0.0007
+Token: ' machines' (ID: 12645), Prob: 0.0004
+Token: ' travels' (ID: 34192), Prob: 0.0004
+Token: ' simulator' (ID: 41891), Prob: 0.0004
+Token: ' ship' (ID: 8284), Prob: 0.0004
+Token: ' magic' (ID: 10963), Prob: 0.0004
+Token: ' Travel' (ID: 18097), Prob: 0.0004
+Token: ' travelling' (ID: 30729), Prob: 0.0004
+Token: ' paradox' (ID: 51213), Prob: 0.0003
+Token: ' war' (ID: 4116), Prob: 0.0003
+Token: ' trip' (ID: 8411), Prob: 0.0003
+Token: ' teleport' (ID: 49489), Prob: 0.0003
+Token: ' walking' (ID: 11435), Prob: 0.0002
+Token: ' tele' (ID: 7963), Prob: 0.0002
+Token: ' universe' (ID: 15494), Prob: 0.0002
+Token: ' continuum' (ID: 85801), Prob: 0.0002
+Token: ' transport' (ID: 7557), Prob: 0.0002
+Token: ' technology' (ID: 5440), Prob: 0.0002
+Token: ' flight' (ID: 10971), Prob: 0.0002
+Token: ' traveled' (ID: 30696), Prob: 0.0002
+Token: ' traveller' (ID: 85194), Prob: 0.0002
+Token: ' going' (ID: 2087), Prob: 0.0002
+Token: ' department' (ID: 9292), Prob: 0.0002
+Token: ' book' (ID: 2311), Prob: 0.0002
+Token: ' journey' (ID: 11618), Prob: 0.0002
+Token: ' walk' (ID: 4227), Prob: 0.0001
+Token: ' fiction' (ID: 16989), Prob: 0.0001
+Token: ' mechanics' (ID: 29026), Prob: 0.0001
+Token: ' fabric' (ID: 13055), Prob: 0.0001
+Token: ' device' (ID: 3671), Prob: 0.0001
+Token: ' festival' (ID: 18780), Prob: 0.0001
+Token: ' simulation' (ID: 19038), Prob: 0.0001
+Token: ' setting' (ID: 6243), Prob: 0.0001
+Token: ' lab' (ID: 10072), Prob: 0.0001
+Token: ' protocol' (ID: 11507), Prob: 0.0001
+Token: ' transportation' (ID: 17903), Prob: 0.0001
+Token: ' wizard' (ID: 33968), Prob: 0.0001
+Token: ' voyage' (ID: 44540), Prob: 0.0001
+Token: ' period' (ID: 4168), Prob: 0.0001
+Token: ' concept' (ID: 7286), Prob: 0.0001
+Token: ' plane' (ID: 11031), Prob: 0.0001
+Token: ' flying' (ID: 16307), Prob: 0.0001
+Token: ' domain' (ID: 7947), Prob: 0.0001
+Token: ' hotel' (ID: 9500), Prob: 0.0001
+Token: ' zones' (ID: 25395), Prob: 0.0001
+Token: ' function' (ID: 729), Prob: 0.0001
+Token: ' mechanism' (ID: 16953), Prob: 0.0001
+Token: ' adventure' (ID: 17943), Prob: 0.0001
+Token: ' passage' (ID: 21085), Prob: 0.0001
+Token: ' religion' (ID: 13587), Prob: 0.0001
+Token: ' architecture' (ID: 17646), Prob: 0.0001
+Token: ' worm' (ID: 34211), Prob: 0.0001
+Token: 'travel' (ID: 48510), Prob: 0.0001
+Token: ' place' (ID: 1992), Prob: 0.0001
+Token: ' agency' (ID: 9088), Prob: 0.0001
+Token: ' chamber' (ID: 24220), Prob: 0.0001
+Token: ' agent' (ID: 8315), Prob: 0.0001
+Token: ' planet' (ID: 11580), Prob: 0.0001
+Token: ' facility' (ID: 12481), Prob: 0.0001
+Token: ' show' (ID: 1473), Prob: 0.0001
+Token: ' element' (ID: 2392), Prob: 0.0001
+Token: ' station' (ID: 8056), Prob: 0.0001
+Token: ' mechanic' (ID: 44139), Prob: 0.0001
+Token: ' accelerator' (ID: 64356), Prob: 0.0001
+Token: ' dilation' (ID: 74278), Prob: 0.0001
+Token: ' region' (ID: 5537), Prob: 0.0001
+Token: ' laboratory' (ID: 26594), Prob: 0.0001
+Token: '/time' (ID: 35263), Prob: 0.0001
+Token: ' bridge' (ID: 14164), Prob: 0.0001
+Token: ' location' (ID: 3728), Prob: 0.0001
+Token: ' limit' (ID: 3930), Prob: 0.0001
+Token: ' computer' (ID: 6366), Prob: 0.0001
+
+== Ranked Concepts (Clusters) ==
+Rank 1 | Concept Score: 0.8906
+  Tokens: [' travel', ' traveler', ' traveling', ' travelers', ' travels', ' Travel', ' travelling', ' traveled', ' traveller', 'travel']
+Rank 2 | Concept Score: 0.0718
+  Tokens: [' machine', ' machines', ' device', ' computer']
+Rank 3 | Concept Score: 0.0055
+  Tokens: ['-tr']
+Rank 4 | Concept Score: 0.0036
+  Tokens: [' portal', ' planet']
+Rank 5 | Concept Score: 0.0016
+  Tokens: [' loop', ' period']
+Rank 6 | Concept Score: 0.0015
+  Tokens: [' zone', ' domain', ' zones', ' chamber', ' region']
+Rank 7 | Concept Score: 0.0012
+  Tokens: [' clock', ' war', ' book', ' show', ' bridge']
+Rank 8 | Concept Score: 0.0011
+  Tokens: [' magic', ' universe', ' continuum', ' wizard', ' religion', ' worm']
+Rank 9 | Concept Score: 0.0010
+  Tokens: [' experiment', ' lab', ' laboratory']
+Rank 10 | Concept Score: 0.0008
+  Tokens: [' teleport', ' tele', ' transport', ' transportation']
+Rank 11 | Concept Score: 0.0008
+  Tokens: [' simulator', ' fiction', ' simulation', ' dilation']
+Rank 12 | Concept Score: 0.0006
+  Tokens: [' trip', ' journey', ' voyage', ' adventure']
+Rank 13 | Concept Score: 0.0006
+  Tokens: [' walking', ' going', ' walk']
+Rank 14 | Concept Score: 0.0004
+  Tokens: [' ship']
+Rank 15 | Concept Score: 0.0004
+  Tokens: [' flight', ' flying', ' passage']
+Rank 16 | Concept Score: 0.0003
+  Tokens: [' paradox']
+Rank 17 | Concept Score: 0.0003
+  Tokens: [' concept', ' function', ' element', ' limit']
+Rank 18 | Concept Score: 0.0003
+  Tokens: [' mechanics', ' mechanism', ' mechanic']
+Rank 19 | Concept Score: 0.0003
+  Tokens: [' department', ' facility', ' station']
+Rank 20 | Concept Score: 0.0003
+  Tokens: [' technology', ' architecture']
+Rank 21 | Concept Score: 0.0003
+  Tokens: [' fabric', ' protocol']
+Rank 22 | Concept Score: 0.0002
+  Tokens: [' setting', ' place', ' location']
+Rank 23 | Concept Score: 0.0002
+  Tokens: [' festival', ' hotel']
+Rank 24 | Concept Score: 0.0001
+  Tokens: [' agency', ' agent']
+Rank 25 | Concept Score: 0.0001
+  Tokens: [' plane']
+Rank 26 | Concept Score: 0.0001
+  Tokens: [' accelerator']
+Rank 27 | Concept Score: 0.0001
+  Tokens: ['/time']
+
+**Chosen Concept:** Rank 1 with score 0.8906

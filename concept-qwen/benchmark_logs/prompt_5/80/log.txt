@@ -1,0 +1,116 @@
+--- Step 80 Log ---
+
+== Filtered Candidates ==
+Token: ' zone' (ID: 10143), Prob: 1.0000
+Token: ' Zone' (ID: 22178), Prob: 0.0000
+Token: ' zones' (ID: 25395), Prob: 0.0000
+Token: 'zone' (ID: 8684), Prob: 0.0000
+Token: '.zone' (ID: 57808), Prob: 0.0000
+Token: ' region' (ID: 5537), Prob: 0.0000
+Token: ' time' (ID: 882), Prob: 0.0000
+Token: ' period' (ID: 4168), Prob: 0.0000
+Token: '-zone' (ID: 77763), Prob: 0.0000
+Token: '(zone' (ID: 74228), Prob: 0.0000
+Token: 'Zone' (ID: 15363), Prob: 0.0000
+Token: ' clock' (ID: 8866), Prob: 0.0000
+Token: ' timezone' (ID: 33957), Prob: 0.0000
+Token: ' tone' (ID: 16232), Prob: 0.0000
+Token: '_zone' (ID: 28692), Prob: 0.0000
+Token: ' state' (ID: 1584), Prob: 0.0000
+Token: ' difference' (ID: 6672), Prob: 0.0000
+Token: ' zero' (ID: 7168), Prob: 0.0000
+Token: ' transition' (ID: 9142), Prob: 0.0000
+Token: ' center' (ID: 4126), Prob: 0.0000
+Token: ' zona' (ID: 44012), Prob: 0.0000
+Token: ' format' (ID: 3561), Prob: 0.0000
+Token: ' offset' (ID: 4347), Prob: 0.0000
+Token: ' transfer' (ID: 8317), Prob: 0.0000
+Token: ' constraint' (ID: 21568), Prob: 0.0000
+Token: ' slot' (ID: 9446), Prob: 0.0000
+Token: '_ZONE' (ID: 60742), Prob: 0.0000
+Token: ' longitude' (ID: 20515), Prob: 0.0000
+Token: ' point' (ID: 1459), Prob: 0.0000
+Token: ' date' (ID: 2400), Prob: 0.0000
+Token: ' base' (ID: 2331), Prob: 0.0000
+Token: ' duration' (ID: 8090), Prob: 0.0000
+Token: ' location' (ID: 3728), Prob: 0.0000
+Token: ' due' (ID: 4152), Prob: 0.0000
+Token: ' moment' (ID: 4445), Prob: 0.0000
+Token: ' zoning' (ID: 64978), Prob: 0.0000
+Token: ' frame' (ID: 4034), Prob: 0.0000
+Token: ' tunnel' (ID: 25629), Prob: 0.0000
+Token: ' district' (ID: 9290), Prob: 0.0000
+Token: ' relation' (ID: 12687), Prob: 0.0000
+Token: ' window' (ID: 3241), Prob: 0.0000
+Token: ' east' (ID: 10984), Prob: 0.0000
+Token: ' interval' (ID: 9873), Prob: 0.0000
+Token: ' plane' (ID: 11031), Prob: 0.0000
+Token: ' area' (ID: 3082), Prob: 0.0000
+Token: ' hour' (ID: 6460), Prob: 0.0000
+Token: ' constant' (ID: 6783), Prob: 0.0000
+Token: ' change' (ID: 2297), Prob: 0.0000
+Token: ' station' (ID: 8056), Prob: 0.0000
+Token: ' province' (ID: 16847), Prob: 0.0000
+Token: 'ZONE' (ID: 56502), Prob: 0.0000
+Token: ' node' (ID: 2436), Prob: 0.0000
+Token: ' according' (ID: 4092), Prob: 0.0000
+Token: ' today' (ID: 3351), Prob: 0.0000
+Token: ' focus' (ID: 5244), Prob: 0.0000
+Token: ' zip' (ID: 10308), Prob: 0.0000
+Token: ' one' (ID: 825), Prob: 0.0000
+Token: ' box' (ID: 3745), Prob: 0.0000
+Token: ' band' (ID: 7055), Prob: 0.0000
+Token: ' instant' (ID: 9690), Prob: 0.0000
+Token: ' city' (ID: 3283), Prob: 0.0000
+Token: ' border' (ID: 3886), Prob: 0.0000
+Token: ' standard' (ID: 5297), Prob: 0.0000
+Token: ' shift' (ID: 6407), Prob: 0.0000
+Token: ' ion' (ID: 27672), Prob: 0.0000
+Token: ' block' (ID: 2504), Prob: 0.0000
+Token: ' ratio' (ID: 11341), Prob: 0.0000
+
+== Ranked Concepts (Clusters) ==
+Rank 1 | Concept Score: 1.0000
+  Tokens: [' zone', ' Zone', ' zones', 'zone', '.zone', '-zone', '(zone', 'Zone', '_zone', ' zona', '_ZONE', ' zoning', 'ZONE']
+Rank 2 | Concept Score: 0.0000
+  Tokens: [' time', ' clock', ' timezone', ' date', ' hour']
+Rank 3 | Concept Score: 0.0000
+  Tokens: [' region', ' area']
+Rank 4 | Concept Score: 0.0000
+  Tokens: [' period', ' duration', ' interval']
+Rank 5 | Concept Score: 0.0000
+  Tokens: [' tone', ' format', ' constraint']
+Rank 6 | Concept Score: 0.0000
+  Tokens: [' zero', ' due', ' constant', ' according', ' today', ' one', ' standard']
+Rank 7 | Concept Score: 0.0000
+  Tokens: [' transition', ' transfer', ' change', ' shift']
+Rank 8 | Concept Score: 0.0000
+  Tokens: [' difference', ' relation', ' ratio']
+Rank 9 | Concept Score: 0.0000
+  Tokens: [' slot', ' frame', ' window', ' box', ' block']
+Rank 10 | Concept Score: 0.0000
+  Tokens: [' state']
+Rank 11 | Concept Score: 0.0000
+  Tokens: [' center']
+Rank 12 | Concept Score: 0.0000
+  Tokens: [' longitude', ' east']
+Rank 13 | Concept Score: 0.0000
+  Tokens: [' offset']
+Rank 14 | Concept Score: 0.0000
+  Tokens: [' point', ' node']
+Rank 15 | Concept Score: 0.0000
+  Tokens: [' tunnel', ' station', ' ion']
+Rank 16 | Concept Score: 0.0000
+  Tokens: [' district', ' province', ' city']
+Rank 17 | Concept Score: 0.0000
+  Tokens: [' base', ' border']
+Rank 18 | Concept Score: 0.0000
+  Tokens: [' location', ' focus']
+Rank 19 | Concept Score: 0.0000
+  Tokens: [' moment', ' instant']
+Rank 20 | Concept Score: 0.0000
+  Tokens: [' plane', ' band']
+Rank 21 | Concept Score: 0.0000
+  Tokens: [' zip']
+
+**Chosen Concept:** Rank 1 with score 1.0000

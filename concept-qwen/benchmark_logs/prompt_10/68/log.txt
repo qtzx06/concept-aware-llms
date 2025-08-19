@@ -1,0 +1,95 @@
+--- Step 68 Log ---
+
+== Filtered Candidates ==
+Token: ' thirteen' (ID: 60659), Prob: 0.8789
+Token: ' twelve' (ID: 29235), Prob: 0.0266
+Token: ' eleven' (ID: 44214), Prob: 0.0183
+Token: ' fifteen' (ID: 36655), Prob: 0.0059
+Token: ' fourteen' (ID: 62260), Prob: 0.0052
+Token: ' ele' (ID: 10510), Prob: 0.0019
+Token: ' three' (ID: 2326), Prob: 0.0013
+Token: ' seventeen' (ID: 81397), Prob: 0.0005
+Token: ' sixteen' (ID: 58039), Prob: 0.0003
+Token: ' eighteen' (ID: 62034), Prob: 0.0002
+Token: ' twenty' (ID: 17073), Prob: 0.0002
+Token: ' thirty' (ID: 26127), Prob: 0.0002
+Token: ' ten' (ID: 5779), Prob: 0.0001
+Token: ' one' (ID: 825), Prob: 0.0001
+Token: ' nine' (ID: 11627), Prob: 0.0001
+Token: ' dozen' (ID: 20403), Prob: 0.0000
+Token: ' nineteen' (ID: 93835), Prob: 0.0000
+Token: ' eight' (ID: 8063), Prob: 0.0000
+Token: ' four' (ID: 3040), Prob: 0.0000
+Token: ' fif' (ID: 11128), Prob: 0.0000
+Token: ' term' (ID: 4647), Prob: 0.0000
+Token: ' single' (ID: 3175), Prob: 0.0000
+Token: ' thr' (ID: 8807), Prob: 0.0000
+Token: ' number' (ID: 1372), Prob: 0.0000
+Token: ' player' (ID: 2781), Prob: 0.0000
+Token: ' man' (ID: 883), Prob: 0.0000
+Token: ' plus' (ID: 5519), Prob: 0.0000
+Token: ' six' (ID: 4743), Prob: 0.0000
+Token: ' seven' (ID: 8094), Prob: 0.0000
+Token: 'ele' (ID: 10068), Prob: 0.0000
+Token: ' elf' (ID: 40745), Prob: 0.0000
+Token: ' Eleven' (ID: 81393), Prob: 0.0000
+Token: ' chair' (ID: 10496), Prob: 0.0000
+Token: ' XIII' (ID: 95760), Prob: 0.0000
+Token: ' dollar' (ID: 17692), Prob: 0.0000
+Token: ' woman' (ID: 5220), Prob: 0.0000
+Token: ' sevent' (ID: 21373), Prob: 0.0000
+Token: ' Twelve' (ID: 69232), Prob: 0.0000
+Token: ' five' (ID: 4236), Prob: 0.0000
+Token: ' triangle' (ID: 21495), Prob: 0.0000
+Token: ' thousand' (ID: 16183), Prob: 0.0000
+Token: ' unity' (ID: 30326), Prob: 0.0000
+Token: ' odd' (ID: 10322), Prob: 0.0000
+Token: ' lady' (ID: 16820), Prob: 0.0000
+Token: ' hundred' (ID: 7739), Prob: 0.0000
+Token: ' thee' (ID: 39244), Prob: 0.0000
+Token: '_th' (ID: 5854), Prob: 0.0000
+Token: ' male' (ID: 8593), Prob: 0.0000
+Token: ' Ele' (ID: 25949), Prob: 0.0000
+Token: ' court' (ID: 5473), Prob: 0.0000
+Token: ' last' (ID: 1537), Prob: 0.0000
+Token: ' mean' (ID: 3076), Prob: 0.0000
+Token: ' battery' (ID: 11602), Prob: 0.0000
+Token: ' tre' (ID: 4258), Prob: 0.0000
+Token: ' quarter' (ID: 8338), Prob: 0.0000
+Token: ' doctor' (ID: 10668), Prob: 0.0000
+Token: ' thou' (ID: 33123), Prob: 0.0000
+Token: ' onze' (ID: 55805), Prob: 0.0000
+Token: ' nineteenth' (ID: 64989), Prob: 0.0000
+Token: ' child' (ID: 1682), Prob: 0.0000
+Token: ' turn' (ID: 2484), Prob: 0.0000
+Token: ' whole' (ID: 4361), Prob: 0.0000
+
+== Ranked Concepts (Clusters) ==
+Rank 1 | Concept Score: 0.9375
+  Tokens: [' thirteen', ' twelve', ' eleven', ' fifteen', ' fourteen', ' seventeen', ' sixteen', ' eighteen', ' twenty', ' thirty', ' ten', ' nineteen', ' Eleven', ' Twelve']
+Rank 2 | Concept Score: 0.0019
+  Tokens: [' ele', 'ele', ' Ele']
+Rank 3 | Concept Score: 0.0015
+  Tokens: [' three', ' nine', ' eight', ' four', ' six', ' seven', ' five']
+Rank 4 | Concept Score: 0.0001
+  Tokens: [' one', ' single', ' number', ' plus', ' unity', ' odd', ' last', ' mean', ' whole']
+Rank 5 | Concept Score: 0.0001
+  Tokens: [' dozen', ' thousand', ' hundred']
+Rank 6 | Concept Score: 0.0000
+  Tokens: [' fif', ' sevent', ' nineteenth']
+Rank 7 | Concept Score: 0.0000
+  Tokens: [' elf', ' chair', ' dollar', ' court', ' battery', ' doctor']
+Rank 8 | Concept Score: 0.0000
+  Tokens: [' thr', ' thee', '_th', ' thou']
+Rank 9 | Concept Score: 0.0000
+  Tokens: [' man', ' woman', ' lady', ' male']
+Rank 10 | Concept Score: 0.0000
+  Tokens: [' term', ' turn']
+Rank 11 | Concept Score: 0.0000
+  Tokens: [' player', ' child']
+Rank 12 | Concept Score: 0.0000
+  Tokens: [' XIII', ' onze']
+Rank 13 | Concept Score: 0.0000
+  Tokens: [' triangle', ' tre', ' quarter']
+
+**Chosen Concept:** Rank 1 with score 0.9375

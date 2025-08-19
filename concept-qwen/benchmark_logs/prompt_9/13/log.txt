@@ -1,0 +1,128 @@
+--- Step 13 Log ---
+
+== Filtered Candidates ==
+Token: ' married' (ID: 12224), Prob: 0.1021
+Token: ' involved' (ID: 6398), Prob: 0.0122
+Token: ' together' (ID: 3786), Prob: 0.0061
+Token: ' divorced' (ID: 49492), Prob: 0.0042
+Token: ' back' (ID: 1182), Prob: 0.0040
+Token: ' dad' (ID: 17760), Prob: 0.0020
+Token: ' two' (ID: 1378), Prob: 0.0009
+Token: ' pregnant' (ID: 20280), Prob: 0.0009
+Token: ' older' (ID: 9014), Prob: 0.0008
+Token: ' paid' (ID: 7171), Prob: 0.0008
+Token: ' drunk' (ID: 28750), Prob: 0.0008
+Token: ' one' (ID: 825), Prob: 0.0007
+Token: ' kids' (ID: 6837), Prob: 0.0006
+Token: ' angry' (ID: 18514), Prob: 0.0006
+Token: ' another' (ID: 2441), Prob: 0.0006
+Token: ' fired' (ID: 13895), Prob: 0.0005
+Token: ' separated' (ID: 18663), Prob: 0.0005
+Token: ' old' (ID: 2310), Prob: 0.0005
+Token: ' three' (ID: 2326), Prob: 0.0005
+Token: ' killed' (ID: 7425), Prob: 0.0005
+Token: ' away' (ID: 3123), Prob: 0.0004
+Token: ' stuck' (ID: 15700), Prob: 0.0004
+Token: ' parents' (ID: 6562), Prob: 0.0004
+Token: ' rich' (ID: 9080), Prob: 0.0004
+Token: ' arrested' (ID: 12517), Prob: 0.0004
+Token: ' home' (ID: 2114), Prob: 0.0004
+Token: ' started' (ID: 3855), Prob: 0.0004
+Token: ' born' (ID: 9223), Prob: 0.0003
+Token: ' engaged' (ID: 16634), Prob: 0.0003
+Token: ' wed' (ID: 10840), Prob: 0.0003
+Token: ' retired' (ID: 21583), Prob: 0.0003
+Token: ' joined' (ID: 10859), Prob: 0.0003
+Token: ' promoted' (ID: 28926), Prob: 0.0003
+Token: ' money' (ID: 3220), Prob: 0.0003
+Token: ' buried' (ID: 26918), Prob: 0.0003
+Token: ' locked' (ID: 16061), Prob: 0.0003
+Token: ' rid' (ID: 9279), Prob: 0.0003
+Token: ' ready' (ID: 5527), Prob: 0.0002
+Token: ' kicked' (ID: 27120), Prob: 0.0002
+Token: ' help' (ID: 1492), Prob: 0.0002
+Token: ' put' (ID: 2182), Prob: 0.0002
+Token: ' turned' (ID: 6519), Prob: 0.0002
+Token: ' jobs' (ID: 6887), Prob: 0.0002
+Token: ' caught' (ID: 10568), Prob: 0.0002
+Token: ' wives' (ID: 38620), Prob: 0.0002
+Token: ' jealous' (ID: 40590), Prob: 0.0002
+Token: ' sued' (ID: 41084), Prob: 0.0002
+Token: ' dads' (ID: 88761), Prob: 0.0002
+Token: ' lost' (ID: 5558), Prob: 0.0002
+Token: ' mixed' (ID: 9519), Prob: 0.0002
+Token: ' fathers' (ID: 39217), Prob: 0.0002
+Token: ' raised' (ID: 9226), Prob: 0.0002
+Token: ' mad' (ID: 12796), Prob: 0.0002
+Token: ' invited' (ID: 18218), Prob: 0.0002
+Token: ' confused' (ID: 21815), Prob: 0.0002
+Token: ' fed' (ID: 22313), Prob: 0.0002
+Token: ' along' (ID: 3156), Prob: 0.0002
+Token: ' related' (ID: 5435), Prob: 0.0002
+Token: ' father' (ID: 6981), Prob: 0.0002
+Token: ' driven' (ID: 16227), Prob: 0.0002
+Token: ' hired' (ID: 21446), Prob: 0.0002
+Token: ' invested' (ID: 27991), Prob: 0.0002
+Token: ' part' (ID: 949), Prob: 0.0002
+Token: ' used' (ID: 1483), Prob: 0.0002
+Token: ' even' (ID: 1496), Prob: 0.0002
+Token: ' tired' (ID: 19227), Prob: 0.0002
+Token: ' upset' (ID: 22459), Prob: 0.0002
+
+== Ranked Concepts (Clusters) ==
+Rank 1 | Concept Score: 0.1074
+  Tokens: [' married', ' divorced', ' pregnant']
+Rank 2 | Concept Score: 0.0128
+  Tokens: [' involved', ' engaged', ' invested']
+Rank 3 | Concept Score: 0.0063
+  Tokens: [' together', ' along']
+Rank 4 | Concept Score: 0.0054
+  Tokens: [' back', ' away', ' rich', ' home', ' ready']
+Rank 5 | Concept Score: 0.0036
+  Tokens: [' dad', ' kids', ' parents', ' dads', ' fathers', ' father']
+Rank 6 | Concept Score: 0.0027
+  Tokens: [' paid', ' fired', ' killed', ' born', ' promoted', ' kicked']
+Rank 7 | Concept Score: 0.0027
+  Tokens: [' two', ' one', ' another', ' three']
+Rank 8 | Concept Score: 0.0019
+  Tokens: [' drunk', ' angry', ' jealous', ' tired', ' upset']
+Rank 9 | Concept Score: 0.0016
+  Tokens: [' stuck', ' buried', ' locked', ' caught', ' lost', ' raised']
+Rank 10 | Concept Score: 0.0013
+  Tokens: [' older', ' old']
+Rank 11 | Concept Score: 0.0007
+  Tokens: [' separated', ' mixed']
+Rank 12 | Concept Score: 0.0006
+  Tokens: [' started', ' turned']
+Rank 13 | Concept Score: 0.0006
+  Tokens: [' sued', ' invited', ' hired']
+Rank 14 | Concept Score: 0.0005
+  Tokens: [' related', ' part', ' used']
+Rank 15 | Concept Score: 0.0004
+  Tokens: [' help', ' put']
+Rank 16 | Concept Score: 0.0004
+  Tokens: [' arrested']
+Rank 17 | Concept Score: 0.0004
+  Tokens: [' fed', ' driven']
+Rank 18 | Concept Score: 0.0003
+  Tokens: [' wed']
+Rank 19 | Concept Score: 0.0003
+  Tokens: [' retired']
+Rank 20 | Concept Score: 0.0003
+  Tokens: [' joined']
+Rank 21 | Concept Score: 0.0003
+  Tokens: [' money']
+Rank 22 | Concept Score: 0.0003
+  Tokens: [' rid']
+Rank 23 | Concept Score: 0.0002
+  Tokens: [' jobs']
+Rank 24 | Concept Score: 0.0002
+  Tokens: [' wives']
+Rank 25 | Concept Score: 0.0002
+  Tokens: [' mad']
+Rank 26 | Concept Score: 0.0002
+  Tokens: [' confused']
+Rank 27 | Concept Score: 0.0002
+  Tokens: [' even']
+
+**Chosen Concept:** Rank 1 with score 0.1074

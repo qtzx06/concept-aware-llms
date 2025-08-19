@@ -1,0 +1,71 @@
+--- Step 62 Log ---
+
+== Filtered Candidates ==
+Token: ' back' (ID: 1182), Prob: 0.9961
+Token: ' return' (ID: 470), Prob: 0.0012
+Token: '.back' (ID: 7335), Prob: 0.0001
+Token: ' returned' (ID: 5927), Prob: 0.0001
+Token: ' backed' (ID: 21411), Prob: 0.0000
+Token: 'back' (ID: 1419), Prob: 0.0000
+Token: ' Back' (ID: 6841), Prob: 0.0000
+Token: ' money' (ID: 3220), Prob: 0.0000
+Token: ' returns' (ID: 4675), Prob: 0.0000
+Token: ' home' (ID: 2114), Prob: 0.0000
+Token: ' right' (ID: 1290), Prob: 0.0000
+Token: '_back' (ID: 3895), Prob: 0.0000
+Token: '-back' (ID: 15461), Prob: 0.0000
+Token: ' BACK' (ID: 32082), Prob: 0.0000
+Token: '/back' (ID: 59948), Prob: 0.0000
+Token: ' refund' (ID: 20965), Prob: 0.0000
+Token: '	back' (ID: 77446), Prob: 0.0000
+Token: 'Back' (ID: 3707), Prob: 0.0000
+Token: ' returning' (ID: 13451), Prob: 0.0000
+Token: ' later' (ID: 2937), Prob: 0.0000
+Token: ' ahead' (ID: 8305), Prob: 0.0000
+Token: ' backup' (ID: 15725), Prob: 0.0000
+Token: ' straight' (ID: 7678), Prob: 0.0000
+Token: ' buy' (ID: 3695), Prob: 0.0000
+Token: ' bank' (ID: 6073), Prob: 0.0000
+Token: '(back' (ID: 58092), Prob: 0.0000
+Token: ' round' (ID: 4778), Prob: 0.0000
+Token: ' backs' (ID: 27578), Prob: 0.0000
+Token: ' Return' (ID: 3411), Prob: 0.0000
+Token: ' cash' (ID: 8350), Prob: 0.0000
+Token: ' get' (ID: 633), Prob: 0.0000
+Token: ' hand' (ID: 1424), Prob: 0.0000
+Token: ' backing' (ID: 24668), Prob: 0.0000
+Token: '=back' (ID: 92372), Prob: 0.0000
+Token: ' away' (ID: 3123), Prob: 0.0000
+Token: ' zurück' (ID: 49503), Prob: 0.0000
+Token: ' change' (ID: 2297), Prob: 0.0000
+Token: ' bar' (ID: 3619), Prob: 0.0000
+
+== Ranked Concepts (Clusters) ==
+Rank 1 | Concept Score: 0.9961
+  Tokens: [' back', '.back', 'back', ' Back', '_back', '-back', ' BACK', '/back', '\tback', 'Back', '(back', ' backs']
+Rank 2 | Concept Score: 0.0013
+  Tokens: [' return', ' returned', ' returns', ' returning', ' Return']
+Rank 3 | Concept Score: 0.0000
+  Tokens: [' backed', ' backup', ' backing']
+Rank 4 | Concept Score: 0.0000
+  Tokens: [' money', ' refund', ' bank', ' cash']
+Rank 5 | Concept Score: 0.0000
+  Tokens: [' right', ' straight']
+Rank 6 | Concept Score: 0.0000
+  Tokens: [' home']
+Rank 7 | Concept Score: 0.0000
+  Tokens: [' buy', ' get', ' change', ' bar']
+Rank 8 | Concept Score: 0.0000
+  Tokens: [' ahead', ' away']
+Rank 9 | Concept Score: 0.0000
+  Tokens: [' later']
+Rank 10 | Concept Score: 0.0000
+  Tokens: [' round']
+Rank 11 | Concept Score: 0.0000
+  Tokens: [' hand']
+Rank 12 | Concept Score: 0.0000
+  Tokens: ['=back']
+Rank 13 | Concept Score: 0.0000
+  Tokens: [' zurück']
+
+**Chosen Concept:** Rank 1 with score 0.9961

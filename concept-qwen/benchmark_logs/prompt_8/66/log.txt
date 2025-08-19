@@ -1,0 +1,52 @@
+--- Step 66 Log ---
+
+== Filtered Candidates ==
+Token: ' could' (ID: 1410), Prob: 0.9375
+Token: ' might' (ID: 2578), Prob: 0.0018
+Token: ' would' (ID: 1035), Prob: 0.0012
+Token: ' may' (ID: 1231), Prob: 0.0012
+Token: ' Could' (ID: 16503), Prob: 0.0006
+Token: 'could' (ID: 28077), Prob: 0.0001
+Token: ' maybe' (ID: 7196), Prob: 0.0001
+Token: ' also' (ID: 1083), Prob: 0.0001
+Token: ' without' (ID: 2041), Prob: 0.0001
+Token: 'Could' (ID: 12895), Prob: 0.0001
+Token: ' instead' (ID: 4518), Prob: 0.0001
+Token: ' possibly' (ID: 10767), Prob: 0.0001
+Token: ' helps' (ID: 8609), Prob: 0.0001
+Token: ' creates' (ID: 11450), Prob: 0.0001
+Token: ' gives' (ID: 6696), Prob: 0.0001
+Token: ' perhaps' (ID: 8365), Prob: 0.0001
+Token: ' like' (ID: 1075), Prob: 0.0000
+Token: ' since' (ID: 2474), Prob: 0.0000
+Token: ' seems' (ID: 4977), Prob: 0.0000
+Token: ' allows' (ID: 6147), Prob: 0.0000
+Token: ' leads' (ID: 11508), Prob: 0.0000
+Token: ' rather' (ID: 4751), Prob: 0.0000
+Token: ' makes' (ID: 3643), Prob: 0.0000
+
+== Ranked Concepts (Clusters) ==
+Rank 1 | Concept Score: 0.9375
+  Tokens: [' could', ' Could', 'could', 'Could']
+Rank 2 | Concept Score: 0.0042
+  Tokens: [' might', ' would', ' may']
+Rank 3 | Concept Score: 0.0002
+  Tokens: [' maybe', ' possibly', ' perhaps']
+Rank 4 | Concept Score: 0.0002
+  Tokens: [' helps', ' creates', ' gives', ' allows', ' makes']
+Rank 5 | Concept Score: 0.0001
+  Tokens: [' instead', ' rather']
+Rank 6 | Concept Score: 0.0001
+  Tokens: [' without']
+Rank 7 | Concept Score: 0.0001
+  Tokens: [' also']
+Rank 8 | Concept Score: 0.0000
+  Tokens: [' like']
+Rank 9 | Concept Score: 0.0000
+  Tokens: [' since']
+Rank 10 | Concept Score: 0.0000
+  Tokens: [' seems']
+Rank 11 | Concept Score: 0.0000
+  Tokens: [' leads']
+
+**Chosen Concept:** Rank 1 with score 0.9375

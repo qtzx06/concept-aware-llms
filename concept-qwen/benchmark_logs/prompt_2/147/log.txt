@@ -1,0 +1,56 @@
+--- Step 147 Log ---
+
+== Filtered Candidates ==
+Token: ' correctly' (ID: 12440), Prob: 0.0006
+Token: ' clearly' (ID: 9355), Prob: 0.0003
+Token: ' according' (ID: 4092), Prob: 0.0003
+Token: ' logically' (ID: 73045), Prob: 0.0002
+Token: ' accurately' (ID: 29257), Prob: 0.0002
+Token: ' regarding' (ID: 8826), Prob: 0.0002
+Token: ' properly' (ID: 10277), Prob: 0.0002
+Token: ' carefully' (ID: 15516), Prob: 0.0001
+Token: ' using' (ID: 1667), Prob: 0.0001
+Token: ' based' (ID: 3118), Prob: 0.0001
+Token: ' related' (ID: 5435), Prob: 0.0000
+Token: ' appropriately' (ID: 34901), Prob: 0.0000
+Token: ' posed' (ID: 36160), Prob: 0.0000
+Token: ' explicitly' (ID: 20975), Prob: 0.0000
+Token: ' statement' (ID: 5114), Prob: 0.0000
+Token: ' precisely' (ID: 23638), Prob: 0.0000
+Token: ' one' (ID: 825), Prob: 0.0000
+Token: ' directly' (ID: 5961), Prob: 0.0000
+Token: ' exactly' (ID: 6896), Prob: 0.0000
+Token: ' accordingly' (ID: 27079), Prob: 0.0000
+Token: ' first' (ID: 1156), Prob: 0.0000
+Token: ' like' (ID: 1075), Prob: 0.0000
+Token: ' asked' (ID: 4588), Prob: 0.0000
+Token: ' thoroughly' (ID: 26364), Prob: 0.0000
+Token: ' objectively' (ID: 84021), Prob: 0.0000
+
+== Ranked Concepts (Clusters) ==
+Rank 1 | Concept Score: 0.0009
+  Tokens: [' correctly', ' accurately', ' properly']
+Rank 2 | Concept Score: 0.0004
+  Tokens: [' clearly', ' carefully', ' thoroughly']
+Rank 3 | Concept Score: 0.0004
+  Tokens: [' according', ' using', ' based']
+Rank 4 | Concept Score: 0.0003
+  Tokens: [' logically', ' objectively']
+Rank 5 | Concept Score: 0.0002
+  Tokens: [' regarding', ' related']
+Rank 6 | Concept Score: 0.0001
+  Tokens: [' appropriately', ' accordingly']
+Rank 7 | Concept Score: 0.0001
+  Tokens: [' explicitly', ' directly']
+Rank 8 | Concept Score: 0.0001
+  Tokens: [' posed', ' asked']
+Rank 9 | Concept Score: 0.0000
+  Tokens: [' precisely', ' exactly']
+Rank 10 | Concept Score: 0.0000
+  Tokens: [' one', ' first']
+Rank 11 | Concept Score: 0.0000
+  Tokens: [' statement']
+Rank 12 | Concept Score: 0.0000
+  Tokens: [' like']
+
+**Chosen Concept:** Rank 1 with score 0.0009

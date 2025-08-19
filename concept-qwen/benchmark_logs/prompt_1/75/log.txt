@@ -1,0 +1,103 @@
+--- Step 75 Log ---
+
+== Filtered Candidates ==
+Token: ' cry' (ID: 15729), Prob: 0.9844
+Token: ' crying' (ID: 30199), Prob: 0.0067
+Token: ' cried' (ID: 38069), Prob: 0.0011
+Token: ' etc' (ID: 4992), Prob: 0.0002
+Token: ' cries' (ID: 57745), Prob: 0.0001
+Token: ' Cry' (ID: 42705), Prob: 0.0001
+Token: ' try' (ID: 1430), Prob: 0.0001
+Token: 'cry' (ID: 61138), Prob: 0.0001
+Token: ' love' (ID: 2948), Prob: 0.0000
+Token: ' wait' (ID: 3783), Prob: 0.0000
+Token: ' write' (ID: 3270), Prob: 0.0000
+Token: ' repeat' (ID: 13153), Prob: 0.0000
+Token: ' cro' (ID: 14093), Prob: 0.0000
+Token: ' scream' (ID: 45689), Prob: 0.0000
+Token: ' please' (ID: 4486), Prob: 0.0000
+Token: ' sorry' (ID: 14589), Prob: 0.0000
+Token: ' thank' (ID: 9702), Prob: 0.0000
+Token: ' break' (ID: 1438), Prob: 0.0000
+Token: ' tears' (ID: 23139), Prob: 0.0000
+Token: ' catch' (ID: 2287), Prob: 0.0000
+Token: ' create' (ID: 1855), Prob: 0.0000
+Token: ' lie' (ID: 10246), Prob: 0.0000
+Token: ' tear' (ID: 17576), Prob: 0.0000
+Token: ' yeah' (ID: 21639), Prob: 0.0000
+Token: ' drip' (ID: 72499), Prob: 0.0000
+Token: ' fall' (ID: 4399), Prob: 0.0000
+Token: ' cow' (ID: 19362), Prob: 0.0000
+Token: ' sigh' (ID: 30138), Prob: 0.0000
+Token: ' cough' (ID: 39600), Prob: 0.0000
+Token: ' die' (ID: 2746), Prob: 0.0000
+Token: ' end' (ID: 835), Prob: 0.0000
+Token: ' count' (ID: 1760), Prob: 0.0000
+Token: ' ask' (ID: 2548), Prob: 0.0000
+Token: ' sing' (ID: 7780), Prob: 0.0000
+Token: ' yes' (ID: 9834), Prob: 0.0000
+Token: ' sad' (ID: 12421), Prob: 0.0000
+Token: ' feel' (ID: 2666), Prob: 0.0000
+Token: ' let' (ID: 1077), Prob: 0.0000
+Token: ' pain' (ID: 6646), Prob: 0.0000
+Token: ' maybe' (ID: 7196), Prob: 0.0000
+Token: ' dry' (ID: 9058), Prob: 0.0000
+Token: ' climax' (ID: 70195), Prob: 0.0000
+Token: ' add' (ID: 912), Prob: 0.0000
+Token: ' cheer' (ID: 25032), Prob: 0.0000
+Token: ' cri' (ID: 27558), Prob: 0.0000
+Token: ' baby' (ID: 8770), Prob: 0.0000
+Token: ' tie' (ID: 18131), Prob: 0.0000
+Token: ' joy' (ID: 15888), Prob: 0.0000
+Token: ' goodbye' (ID: 46455), Prob: 0.0000
+Token: ' awe' (ID: 50417), Prob: 0.0000
+Token: ' make' (ID: 1281), Prob: 0.0000
+Token: ' one' (ID: 825), Prob: 0.0000
+Token: ' run' (ID: 1598), Prob: 0.0000
+Token: ' care' (ID: 2453), Prob: 0.0000
+
+== Ranked Concepts (Clusters) ==
+Rank 1 | Concept Score: 0.9922
+  Tokens: [' cry', ' crying', ' cried', ' cries', ' Cry', 'cry', ' cri']
+Rank 2 | Concept Score: 0.0002
+  Tokens: [' etc']
+Rank 3 | Concept Score: 0.0001
+  Tokens: [' try', ' write', ' create', ' ask', ' let', ' add', ' make']
+Rank 4 | Concept Score: 0.0001
+  Tokens: [' love', ' care']
+Rank 5 | Concept Score: 0.0000
+  Tokens: [' please', ' sorry', ' thank', ' goodbye']
+Rank 6 | Concept Score: 0.0000
+  Tokens: [' wait', ' feel']
+Rank 7 | Concept Score: 0.0000
+  Tokens: [' repeat', ' break']
+Rank 8 | Concept Score: 0.0000
+  Tokens: [' cro', ' cow', ' dry']
+Rank 9 | Concept Score: 0.0000
+  Tokens: [' lie', ' fall', ' die', ' tie']
+Rank 10 | Concept Score: 0.0000
+  Tokens: [' scream', ' sigh']
+Rank 11 | Concept Score: 0.0000
+  Tokens: [' yeah', ' yes', ' maybe']
+Rank 12 | Concept Score: 0.0000
+  Tokens: [' pain', ' cheer', ' joy', ' awe']
+Rank 13 | Concept Score: 0.0000
+  Tokens: [' tears', ' tear']
+Rank 14 | Concept Score: 0.0000
+  Tokens: [' end', ' one', ' run']
+Rank 15 | Concept Score: 0.0000
+  Tokens: [' cough', ' climax']
+Rank 16 | Concept Score: 0.0000
+  Tokens: [' catch']
+Rank 17 | Concept Score: 0.0000
+  Tokens: [' drip']
+Rank 18 | Concept Score: 0.0000
+  Tokens: [' count']
+Rank 19 | Concept Score: 0.0000
+  Tokens: [' sing']
+Rank 20 | Concept Score: 0.0000
+  Tokens: [' sad']
+Rank 21 | Concept Score: 0.0000
+  Tokens: [' baby']
+
+**Chosen Concept:** Rank 1 with score 0.9922

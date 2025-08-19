@@ -1,0 +1,107 @@
+--- Step 67 Log ---
+
+== Filtered Candidates ==
+Token: ' later' (ID: 2937), Prob: 0.7305
+Token: ' earlier' (ID: 6788), Prob: 0.1270
+Token: ' ahead' (ID: 8305), Prob: 0.0076
+Token: ' prior' (ID: 4867), Prob: 0.0025
+Token: ' immediately' (ID: 7069), Prob: 0.0012
+Token: ' behind' (ID: 4815), Prob: 0.0009
+Token: ' late' (ID: 3309), Prob: 0.0007
+Token: ' sooner' (ID: 30273), Prob: 0.0005
+Token: ' early' (ID: 4124), Prob: 0.0004
+Token: ' ago' (ID: 4134), Prob: 0.0004
+Token: ' forward' (ID: 4637), Prob: 0.0003
+Token: ' away' (ID: 3123), Prob: 0.0002
+Token: ' closer' (ID: 12128), Prob: 0.0002
+Token: ' past' (ID: 3267), Prob: 0.0002
+Token: ' less' (ID: 2686), Prob: 0.0002
+Token: ' one' (ID: 825), Prob: 0.0002
+Token: ' following' (ID: 2701), Prob: 0.0002
+Token: ' exactly' (ID: 6896), Prob: 0.0002
+Token: ' older' (ID: 9014), Prob: 0.0001
+Token: ' faster' (ID: 10596), Prob: 0.0001
+Token: ' afterward' (ID: 47943), Prob: 0.0001
+Token: ' previous' (ID: 3681), Prob: 0.0001
+Token: ' within' (ID: 2878), Prob: 0.0001
+Token: ' longer' (ID: 5021), Prob: 0.0001
+Token: ' difference' (ID: 6672), Prob: 0.0001
+Token: ' subsequent' (ID: 17420), Prob: 0.0001
+Token: ' afterwards' (ID: 26807), Prob: 0.0001
+Token: ' beyond' (ID: 7797), Prob: 0.0001
+Token: ' latter' (ID: 15271), Prob: 0.0001
+Token: ' back' (ID: 1182), Prob: 0.0001
+Token: ' apart' (ID: 10747), Prob: 0.0001
+Token: ' newer' (ID: 25546), Prob: 0.0001
+Token: ' directly' (ID: 5961), Prob: 0.0001
+Token: ' advanced' (ID: 10847), Prob: 0.0000
+Token: ' younger' (ID: 14650), Prob: 0.0000
+Token: ' soon' (ID: 5135), Prob: 0.0000
+Token: ' Later' (ID: 24885), Prob: 0.0000
+Token: ' farther' (ID: 42626), Prob: 0.0000
+Token: ' aft' (ID: 59701), Prob: 0.0000
+Token: ' greater' (ID: 7046), Prob: 0.0000
+Token: ' strictly' (ID: 25470), Prob: 0.0000
+Token: ' straight' (ID: 7678), Prob: 0.0000
+Token: ' slower' (ID: 28393), Prob: 0.0000
+Token: ' beforehand' (ID: 51059), Prob: 0.0000
+Token: 'later' (ID: 67576), Prob: 0.0000
+Token: ' previously' (ID: 8597), Prob: 0.0000
+Token: ' shorter' (ID: 23327), Prob: 0.0000
+Token: ' even' (ID: 1496), Prob: 0.0000
+Token: ' either' (ID: 2987), Prob: 0.0000
+Token: ' higher' (ID: 5080), Prob: 0.0000
+Token: ' tomorrow' (ID: 16577), Prob: 0.0000
+Token: ' lighter' (ID: 29573), Prob: 0.0000
+Token: ' different' (ID: 2155), Prob: 0.0000
+Token: ' upon' (ID: 5193), Prob: 0.0000
+Token: ' fewer' (ID: 16745), Prob: 0.0000
+Token: ' according' (ID: 4092), Prob: 0.0000
+Token: ' clock' (ID: 8866), Prob: 0.0000
+Token: ' deeper' (ID: 19117), Prob: 0.0000
+
+== Ranked Concepts (Clusters) ==
+Rank 1 | Concept Score: 0.7305
+  Tokens: [' later', ' subsequent', ' latter', ' Later', 'later']
+Rank 2 | Concept Score: 0.1299
+  Tokens: [' earlier', ' prior', ' previous', ' previously']
+Rank 3 | Concept Score: 0.0080
+  Tokens: [' ahead', ' forward', ' back']
+Rank 4 | Concept Score: 0.0014
+  Tokens: [' immediately', ' exactly', ' directly', ' strictly', ' straight']
+Rank 5 | Concept Score: 0.0011
+  Tokens: [' late', ' early']
+Rank 6 | Concept Score: 0.0011
+  Tokens: [' behind', ' within', ' beyond', ' upon']
+Rank 7 | Concept Score: 0.0005
+  Tokens: [' sooner', ' soon']
+Rank 8 | Concept Score: 0.0005
+  Tokens: [' less', ' faster', ' longer', ' slower', ' shorter', ' lighter', ' fewer']
+Rank 9 | Concept Score: 0.0004
+  Tokens: [' ago']
+Rank 10 | Concept Score: 0.0003
+  Tokens: [' closer', ' farther', ' greater', ' higher', ' deeper']
+Rank 11 | Concept Score: 0.0003
+  Tokens: [' away', ' apart']
+Rank 12 | Concept Score: 0.0002
+  Tokens: [' older', ' newer', ' younger']
+Rank 13 | Concept Score: 0.0002
+  Tokens: [' afterward', ' afterwards', ' beforehand']
+Rank 14 | Concept Score: 0.0002
+  Tokens: [' past']
+Rank 15 | Concept Score: 0.0002
+  Tokens: [' one', ' even', ' according']
+Rank 16 | Concept Score: 0.0002
+  Tokens: [' following']
+Rank 17 | Concept Score: 0.0001
+  Tokens: [' difference', ' different']
+Rank 18 | Concept Score: 0.0000
+  Tokens: [' advanced']
+Rank 19 | Concept Score: 0.0000
+  Tokens: [' either', ' clock']
+Rank 20 | Concept Score: 0.0000
+  Tokens: [' aft']
+Rank 21 | Concept Score: 0.0000
+  Tokens: [' tomorrow']
+
+**Chosen Concept:** Rank 1 with score 0.7305

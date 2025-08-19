@@ -1,0 +1,95 @@
+--- Step 33 Log ---
+
+== Filtered Candidates ==
+Token: ' zone' (ID: 10143), Prob: 0.9961
+Token: ' zones' (ID: 25395), Prob: 0.0005
+Token: 'zone' (ID: 8684), Prob: 0.0003
+Token: ' region' (ID: 5537), Prob: 0.0003
+Token: ' Zone' (ID: 22178), Prob: 0.0002
+Token: ' period' (ID: 4168), Prob: 0.0002
+Token: ' slot' (ID: 9446), Prob: 0.0001
+Token: '-zone' (ID: 77763), Prob: 0.0001
+Token: ' time' (ID: 882), Prob: 0.0000
+Token: ' timezone' (ID: 33957), Prob: 0.0000
+Token: '_zone' (ID: 28692), Prob: 0.0000
+Token: '.zone' (ID: 57808), Prob: 0.0000
+Token: ' longitude' (ID: 20515), Prob: 0.0000
+Token: ' frame' (ID: 4034), Prob: 0.0000
+Token: ' state' (ID: 1584), Prob: 0.0000
+Token: ' station' (ID: 8056), Prob: 0.0000
+Token: ' shift' (ID: 6407), Prob: 0.0000
+Token: ' location' (ID: 3728), Prob: 0.0000
+Token: ' due' (ID: 4152), Prob: 0.0000
+Token: ' offset' (ID: 4347), Prob: 0.0000
+Token: ' clock' (ID: 8866), Prob: 0.0000
+Token: ' using' (ID: 1667), Prob: 0.0000
+Token: ' district' (ID: 9290), Prob: 0.0000
+Token: 'Zone' (ID: 15363), Prob: 0.0000
+Token: ' according' (ID: 4092), Prob: 0.0000
+Token: ' base' (ID: 2331), Prob: 0.0000
+Token: ' lane' (ID: 21272), Prob: 0.0000
+Token: ' interval' (ID: 9873), Prob: 0.0000
+Token: ' area' (ID: 3082), Prob: 0.0000
+Token: ' based' (ID: 3118), Prob: 0.0000
+Token: ' via' (ID: 4566), Prob: 0.0000
+Token: ' difference' (ID: 6672), Prob: 0.0000
+Token: ' block' (ID: 2504), Prob: 0.0000
+Token: ' plane' (ID: 11031), Prob: 0.0000
+Token: '(zone' (ID: 74228), Prob: 0.0000
+Token: ' band' (ID: 7055), Prob: 0.0000
+Token: ' one' (ID: 825), Prob: 0.0000
+Token: ' box' (ID: 3745), Prob: 0.0000
+Token: ' hour' (ID: 6460), Prob: 0.0000
+Token: ' destination' (ID: 9106), Prob: 0.0000
+Token: ' province' (ID: 16847), Prob: 0.0000
+Token: ' point' (ID: 1459), Prob: 0.0000
+Token: ' without' (ID: 2041), Prob: 0.0000
+Token: ' transfer' (ID: 8317), Prob: 0.0000
+Token: ' sector' (ID: 10486), Prob: 0.0000
+Token: ' within' (ID: 2878), Prob: 0.0000
+Token: ' window' (ID: 3241), Prob: 0.0000
+Token: ' format' (ID: 3561), Prob: 0.0000
+Token: ' machine' (ID: 5662), Prob: 0.0000
+Token: ' loop' (ID: 6337), Prob: 0.0000
+Token: ' exactly' (ID: 6896), Prob: 0.0000
+Token: ' tone' (ID: 16232), Prob: 0.0000
+Token: ' zona' (ID: 44012), Prob: 0.0000
+Token: '_ZONE' (ID: 60742), Prob: 0.0000
+
+== Ranked Concepts (Clusters) ==
+Rank 1 | Concept Score: 0.9961
+  Tokens: [' zone', ' zones', 'zone', ' Zone', '-zone', '_zone', '.zone', 'Zone', '(zone', ' zona', '_ZONE']
+Rank 2 | Concept Score: 0.0003
+  Tokens: [' region', ' area']
+Rank 3 | Concept Score: 0.0002
+  Tokens: [' period', ' interval', ' sector']
+Rank 4 | Concept Score: 0.0001
+  Tokens: [' slot', ' frame']
+Rank 5 | Concept Score: 0.0001
+  Tokens: [' time', ' timezone', ' clock', ' hour']
+Rank 6 | Concept Score: 0.0001
+  Tokens: [' due', ' using', ' according', ' via', ' without', ' within']
+Rank 7 | Concept Score: 0.0001
+  Tokens: [' longitude', ' station', ' lane']
+Rank 8 | Concept Score: 0.0001
+  Tokens: [' shift', ' offset', ' difference', ' transfer']
+Rank 9 | Concept Score: 0.0000
+  Tokens: [' block', ' box', ' window', ' loop']
+Rank 10 | Concept Score: 0.0000
+  Tokens: [' plane', ' band', ' format', ' tone']
+Rank 11 | Concept Score: 0.0000
+  Tokens: [' state']
+Rank 12 | Concept Score: 0.0000
+  Tokens: [' location', ' destination']
+Rank 13 | Concept Score: 0.0000
+  Tokens: [' base', ' based']
+Rank 14 | Concept Score: 0.0000
+  Tokens: [' district', ' province']
+Rank 15 | Concept Score: 0.0000
+  Tokens: [' one', ' point']
+Rank 16 | Concept Score: 0.0000
+  Tokens: [' machine']
+Rank 17 | Concept Score: 0.0000
+  Tokens: [' exactly']
+
+**Chosen Concept:** Rank 1 with score 0.9961

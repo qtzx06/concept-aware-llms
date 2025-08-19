@@ -1,0 +1,22 @@
+--- Step 11 Log ---
+
+== Filtered Candidates ==
+Token: ' Today' (ID: 11201), Prob: 0.0009
+Token: ' Even' (ID: 7418), Prob: 0.0005
+Token: ' Whether' (ID: 13139), Prob: 0.0004
+Token: ' Based' (ID: 20205), Prob: 0.0004
+Token: ' Alone' (ID: 69308), Prob: 0.0003
+
+== Ranked Concepts (Clusters) ==
+Rank 1 | Concept Score: 0.0009
+  Tokens: [' Today']
+Rank 2 | Concept Score: 0.0005
+  Tokens: [' Even']
+Rank 3 | Concept Score: 0.0004
+  Tokens: [' Whether']
+Rank 4 | Concept Score: 0.0004
+  Tokens: [' Based']
+Rank 5 | Concept Score: 0.0003
+  Tokens: [' Alone']
+
+**Chosen Concept:** Rank 1 with score 0.0009

@@ -1,0 +1,70 @@
+--- Step 65 Log ---
+
+== Filtered Candidates ==
+Token: ' one' (ID: 825), Prob: 0.9414
+Token: ' two' (ID: 1378), Prob: 0.0221
+Token: ' three' (ID: 2326), Prob: 0.0049
+Token: ' five' (ID: 4236), Prob: 0.0010
+Token: ' four' (ID: 3040), Prob: 0.0008
+Token: ' six' (ID: 4743), Prob: 0.0004
+Token: ' seven' (ID: 8094), Prob: 0.0004
+Token: ' opposite' (ID: 14002), Prob: 0.0003
+Token: ' midnight' (ID: 32333), Prob: 0.0003
+Token: ' twice' (ID: 10917), Prob: 0.0002
+Token: ' exactly' (ID: 6896), Prob: 0.0002
+Token: ' immediately' (ID: 7069), Prob: 0.0002
+Token: ' ten' (ID: 5779), Prob: 0.0001
+Token: ' behind' (ID: 4815), Prob: 0.0001
+Token: ' another' (ID: 2441), Prob: 0.0001
+Token: ' half' (ID: 4279), Prob: 0.0001
+Token: ' zero' (ID: 7168), Prob: 0.0001
+Token: ' twenty' (ID: 17073), Prob: 0.0001
+Token: ' twelve' (ID: 29235), Prob: 0.0001
+Token: ' eight' (ID: 8063), Prob: 0.0001
+Token: ' ONE' (ID: 24038), Prob: 0.0001
+Token: ' One' (ID: 3776), Prob: 0.0001
+Token: ' nine' (ID: 11627), Prob: 0.0001
+Token: 'one' (ID: 603), Prob: 0.0001
+Token: ' within' (ID: 2878), Prob: 0.0000
+Token: ' directly' (ID: 5961), Prob: 0.0000
+Token: ' eleven' (ID: 44214), Prob: 0.0000
+Token: ' across' (ID: 3941), Prob: 0.0000
+Token: ' minutes' (ID: 4420), Prob: 0.0000
+Token: ' equal' (ID: 6144), Prob: 0.0000
+Token: ' every' (ID: 1449), Prob: 0.0000
+Token: ' back' (ID: 1182), Prob: 0.0000
+Token: ' thirty' (ID: 26127), Prob: 0.0000
+Token: ' halfway' (ID: 41336), Prob: 0.0000
+Token: ' fifteen' (ID: 36655), Prob: 0.0000
+Token: ' noon' (ID: 37145), Prob: 0.0000
+Token: ' several' (ID: 3807), Prob: 0.0000
+Token: ' earlier' (ID: 6788), Prob: 0.0000
+Token: ' time' (ID: 882), Prob: 0.0000
+
+== Ranked Concepts (Clusters) ==
+Rank 1 | Concept Score: 0.9414
+  Tokens: [' one', ' ONE', ' One', 'one']
+Rank 2 | Concept Score: 0.0298
+  Tokens: [' two', ' three', ' five', ' four', ' six', ' seven', ' eight', ' nine']
+Rank 3 | Concept Score: 0.0005
+  Tokens: [' ten', ' twenty', ' twelve', ' eleven', ' thirty', ' fifteen']
+Rank 4 | Concept Score: 0.0005
+  Tokens: [' opposite', ' another', ' every', ' earlier']
+Rank 5 | Concept Score: 0.0004
+  Tokens: [' exactly', ' immediately', ' directly']
+Rank 6 | Concept Score: 0.0004
+  Tokens: [' twice', ' half', ' halfway']
+Rank 7 | Concept Score: 0.0003
+  Tokens: [' midnight', ' noon']
+Rank 8 | Concept Score: 0.0002
+  Tokens: [' behind', ' within', ' across']
+Rank 9 | Concept Score: 0.0002
+  Tokens: [' zero', ' equal']
+Rank 10 | Concept Score: 0.0001
+  Tokens: [' minutes', ' time']
+Rank 11 | Concept Score: 0.0000
+  Tokens: [' back']
+Rank 12 | Concept Score: 0.0000
+  Tokens: [' several']
+
+**Chosen Concept:** Rank 1 with score 0.9414

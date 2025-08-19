@@ -1,0 +1,94 @@
+--- Step 38 Log ---
+
+== Filtered Candidates ==
+Token: ' seven' (ID: 8094), Prob: 0.9922
+Token: ' eight' (ID: 8063), Prob: 0.0028
+Token: ' seventh' (ID: 30387), Prob: 0.0009
+Token: ' Seven' (ID: 29948), Prob: 0.0005
+Token: ' ten' (ID: 5779), Prob: 0.0003
+Token: ' six' (ID: 4743), Prob: 0.0003
+Token: ' two' (ID: 1378), Prob: 0.0002
+Token: ' nine' (ID: 11627), Prob: 0.0002
+Token: 'seven' (ID: 80185), Prob: 0.0001
+Token: ' seventy' (ID: 69949), Prob: 0.0001
+Token: ' twelve' (ID: 29235), Prob: 0.0001
+Token: ' seventeen' (ID: 81397), Prob: 0.0001
+Token: ' sevent' (ID: 21373), Prob: 0.0001
+Token: ' one' (ID: 825), Prob: 0.0001
+Token: ' three' (ID: 2326), Prob: 0.0001
+Token: ' four' (ID: 3040), Prob: 0.0001
+Token: ' five' (ID: 4236), Prob: 0.0001
+Token: 'Seven' (ID: 59528), Prob: 0.0000
+Token: ' eleven' (ID: 44214), Prob: 0.0000
+Token: ' following' (ID: 2701), Prob: 0.0000
+Token: ' twenty' (ID: 17073), Prob: 0.0000
+Token: '-seven' (ID: 78025), Prob: 0.0000
+Token: ' several' (ID: 3807), Prob: 0.0000
+Token: ' Eight' (ID: 35844), Prob: 0.0000
+Token: ' total' (ID: 2790), Prob: 0.0000
+Token: ' number' (ID: 1372), Prob: 0.0000
+Token: ' many' (ID: 1657), Prob: 0.0000
+Token: ' man' (ID: 883), Prob: 0.0000
+Token: ' hundred' (ID: 7739), Prob: 0.0000
+Token: ' first' (ID: 1156), Prob: 0.0000
+Token: ' sept' (ID: 34329), Prob: 0.0000
+Token: ' eighth' (ID: 36377), Prob: 0.0000
+Token: ' thirteen' (ID: 60659), Prob: 0.0000
+Token: ' zero' (ID: 7168), Prob: 0.0000
+Token: ' prime' (ID: 10250), Prob: 0.0000
+Token: ' group' (ID: 1874), Prob: 0.0000
+Token: ' day' (ID: 1899), Prob: 0.0000
+Token: ' multiple' (ID: 5248), Prob: 0.0000
+Token: ' infinity' (ID: 54910), Prob: 0.0000
+Token: ' fourteen' (ID: 62260), Prob: 0.0000
+Token: ' July' (ID: 5768), Prob: 0.0000
+Token: ' year' (ID: 1042), Prob: 0.0000
+Token: ' infinite' (ID: 23809), Prob: 0.0000
+Token: ' eighteen' (ID: 62034), Prob: 0.0000
+Token: ' sum' (ID: 2629), Prob: 0.0000
+Token: ' single' (ID: 3175), Prob: 0.0000
+Token: ' equal' (ID: 6144), Prob: 0.0000
+Token: ' Seventh' (ID: 74625), Prob: 0.0000
+Token: ' letter' (ID: 6524), Prob: 0.0000
+Token: ' whole' (ID: 4361), Prob: 0.0000
+Token: ' Sunday' (ID: 7270), Prob: 0.0000
+Token: ' latter' (ID: 15271), Prob: 0.0000
+Token: ' set' (ID: 738), Prob: 0.0000
+Token: ' etc' (ID: 4992), Prob: 0.0000
+Token: ' goal' (ID: 5795), Prob: 0.0000
+Token: ' plant' (ID: 6008), Prob: 0.0000
+Token: ' week' (ID: 2003), Prob: 0.0000
+
+== Ranked Concepts (Clusters) ==
+Rank 1 | Concept Score: 0.9961
+  Tokens: [' seven', ' eight', ' Seven', ' nine', 'seven', 'Seven', '-seven', ' Eight']
+Rank 2 | Concept Score: 0.0010
+  Tokens: [' seventh', ' sevent', ' eighth', ' Seventh']
+Rank 3 | Concept Score: 0.0007
+  Tokens: [' six', ' two', ' three', ' four', ' five']
+Rank 4 | Concept Score: 0.0007
+  Tokens: [' ten', ' seventy', ' twelve', ' seventeen', ' eleven', ' twenty', ' thirteen', ' fourteen', ' eighteen']
+Rank 5 | Concept Score: 0.0001
+  Tokens: [' one', ' first']
+Rank 6 | Concept Score: 0.0000
+  Tokens: [' following', ' equal', ' latter', ' etc']
+Rank 7 | Concept Score: 0.0000
+  Tokens: [' several', ' many', ' multiple']
+Rank 8 | Concept Score: 0.0000
+  Tokens: [' number', ' man', ' group', ' set']
+Rank 9 | Concept Score: 0.0000
+  Tokens: [' total', ' sum', ' goal']
+Rank 10 | Concept Score: 0.0000
+  Tokens: [' zero', ' infinity', ' infinite']
+Rank 11 | Concept Score: 0.0000
+  Tokens: [' sept', ' July', ' Sunday']
+Rank 12 | Concept Score: 0.0000
+  Tokens: [' day', ' year', ' week']
+Rank 13 | Concept Score: 0.0000
+  Tokens: [' prime', ' letter', ' plant']
+Rank 14 | Concept Score: 0.0000
+  Tokens: [' hundred']
+Rank 15 | Concept Score: 0.0000
+  Tokens: [' single', ' whole']
+
+**Chosen Concept:** Rank 1 with score 0.9961

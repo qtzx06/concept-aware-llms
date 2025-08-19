@@ -1,0 +1,90 @@
+--- Step 49 Log ---
+
+== Filtered Candidates ==
+Token: ' gender' (ID: 9825), Prob: 0.9961
+Token: ' sex' (ID: 1839), Prob: 0.0005
+Token: ' group' (ID: 1874), Prob: 0.0002
+Token: ' genders' (ID: 81328), Prob: 0.0000
+Token: 'gender' (ID: 12968), Prob: 0.0000
+Token: ' person' (ID: 1697), Prob: 0.0000
+Token: ' side' (ID: 3108), Prob: 0.0000
+Token: ' female' (ID: 8778), Prob: 0.0000
+Token: ' Gender' (ID: 28217), Prob: 0.0000
+Token: ' age' (ID: 4231), Prob: 0.0000
+Token: ' genre' (ID: 17328), Prob: 0.0000
+Token: ' generation' (ID: 9471), Prob: 0.0000
+Token: '.gender' (ID: 48337), Prob: 0.0000
+Token: ' category' (ID: 5582), Prob: 0.0000
+Token: ' gener' (ID: 1766), Prob: 0.0000
+Token: ' direction' (ID: 5106), Prob: 0.0000
+Token: ' enemy' (ID: 9175), Prob: 0.0000
+Token: ' transgender' (ID: 27208), Prob: 0.0000
+Token: ' male' (ID: 8593), Prob: 0.0000
+Token: ' identity' (ID: 9569), Prob: 0.0000
+Token: ' half' (ID: 4279), Prob: 0.0000
+Token: ' government' (ID: 3033), Prob: 0.0000
+Token: ' nature' (ID: 6993), Prob: 0.0000
+Token: ' street' (ID: 8592), Prob: 0.0000
+Token: 'Gender' (ID: 28914), Prob: 0.0000
+Token: ' brother' (ID: 10641), Prob: 0.0000
+Token: ' background' (ID: 4004), Prob: 0.0000
+Token: ' spouse' (ID: 30980), Prob: 0.0000
+Token: ' every' (ID: 1449), Prob: 0.0000
+Token: ' opposite' (ID: 14002), Prob: 0.0000
+Token: ' country' (ID: 3146), Prob: 0.0000
+Token: ' among' (ID: 4221), Prob: 0.0000
+Token: ' race' (ID: 6957), Prob: 0.0000
+Token: ' angle' (ID: 9210), Prob: 0.0000
+Token: ' grade' (ID: 11972), Prob: 0.0000
+Token: ' dimension' (ID: 12871), Prob: 0.0000
+Token: ' human' (ID: 3738), Prob: 0.0000
+Token: ' ratio' (ID: 11341), Prob: 0.0000
+Token: ' depending' (ID: 11649), Prob: 0.0000
+Token: ' world' (ID: 1879), Prob: 0.0000
+Token: ' woman' (ID: 5220), Prob: 0.0000
+Token: ' adult' (ID: 6683), Prob: 0.0000
+Token: ' subject' (ID: 3832), Prob: 0.0000
+Token: ' border' (ID: 3886), Prob: 0.0000
+Token: ' territory' (ID: 17971), Prob: 0.0000
+
+== Ranked Concepts (Clusters) ==
+Rank 1 | Concept Score: 0.9961
+  Tokens: [' gender', ' sex', ' genders', 'gender', ' female', ' Gender', '.gender', ' transgender', ' male', 'Gender']
+Rank 2 | Concept Score: 0.0002
+  Tokens: [' group', ' government', ' country', ' world']
+Rank 3 | Concept Score: 0.0000
+  Tokens: [' side', ' half', ' opposite']
+Rank 4 | Concept Score: 0.0000
+  Tokens: [' person', ' human', ' woman']
+Rank 5 | Concept Score: 0.0000
+  Tokens: [' genre', ' category']
+Rank 6 | Concept Score: 0.0000
+  Tokens: [' generation', ' gener']
+Rank 7 | Concept Score: 0.0000
+  Tokens: [' age', ' grade']
+Rank 8 | Concept Score: 0.0000
+  Tokens: [' enemy', ' brother']
+Rank 9 | Concept Score: 0.0000
+  Tokens: [' direction', ' dimension']
+Rank 10 | Concept Score: 0.0000
+  Tokens: [' identity', ' ratio']
+Rank 11 | Concept Score: 0.0000
+  Tokens: [' every', ' among', ' depending']
+Rank 12 | Concept Score: 0.0000
+  Tokens: [' street', ' spouse']
+Rank 13 | Concept Score: 0.0000
+  Tokens: [' background', ' border']
+Rank 14 | Concept Score: 0.0000
+  Tokens: [' nature']
+Rank 15 | Concept Score: 0.0000
+  Tokens: [' angle']
+Rank 16 | Concept Score: 0.0000
+  Tokens: [' race']
+Rank 17 | Concept Score: 0.0000
+  Tokens: [' adult']
+Rank 18 | Concept Score: 0.0000
+  Tokens: [' territory']
+Rank 19 | Concept Score: 0.0000
+  Tokens: [' subject']
+
+**Chosen Concept:** Rank 1 with score 0.9961

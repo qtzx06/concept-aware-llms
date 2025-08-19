@@ -1,0 +1,59 @@
+--- Step 29 Log ---
+
+== Filtered Candidates ==
+Token: ' someone' (ID: 4325), Prob: 0.0557
+Token: ' something' (ID: 2494), Prob: 0.0140
+Token: ' one' (ID: 825), Prob: 0.0033
+Token: ' maybe' (ID: 7196), Prob: 0.0024
+Token: ' another' (ID: 2441), Prob: 0.0022
+Token: ' people' (ID: 1251), Prob: 0.0019
+Token: ' nothing' (ID: 4302), Prob: 0.0018
+Token: ' today' (ID: 3351), Prob: 0.0016
+Token: ' person' (ID: 1697), Prob: 0.0013
+Token: ' everyone' (ID: 5019), Prob: 0.0012
+Token: ' possible' (ID: 3204), Prob: 0.0011
+Token: ' everything' (ID: 4297), Prob: 0.0011
+Token: ' instead' (ID: 4518), Prob: 0.0009
+Token: ' two' (ID: 1378), Prob: 0.0008
+Token: ' money' (ID: 3220), Prob: 0.0008
+Token: ' also' (ID: 1083), Prob: 0.0007
+Token: ' whatever' (ID: 8820), Prob: 0.0007
+Token: ' perhaps' (ID: 8365), Prob: 0.0007
+Token: ' three' (ID: 2326), Prob: 0.0006
+Token: ' first' (ID: 1156), Prob: 0.0005
+Token: ' every' (ID: 1449), Prob: 0.0005
+Token: ' things' (ID: 2513), Prob: 0.0004
+Token: ' others' (ID: 3800), Prob: 0.0004
+Token: ' John' (ID: 3757), Prob: 0.0004
+Token: ' yes' (ID: 9834), Prob: 0.0003
+Token: ' somewhere' (ID: 14696), Prob: 0.0003
+
+== Ranked Concepts (Clusters) ==
+Rank 1 | Concept Score: 0.0588
+  Tokens: [' someone', ' people', ' person']
+Rank 2 | Concept Score: 0.0151
+  Tokens: [' something', ' whatever', ' somewhere']
+Rank 3 | Concept Score: 0.0048
+  Tokens: [' one', ' two', ' three']
+Rank 4 | Concept Score: 0.0042
+  Tokens: [' maybe', ' possible', ' perhaps']
+Rank 5 | Concept Score: 0.0033
+  Tokens: [' nothing', ' everything', ' things']
+Rank 6 | Concept Score: 0.0025
+  Tokens: [' another', ' others']
+Rank 7 | Concept Score: 0.0017
+  Tokens: [' everyone', ' every']
+Rank 8 | Concept Score: 0.0016
+  Tokens: [' today']
+Rank 9 | Concept Score: 0.0012
+  Tokens: [' money', ' John']
+Rank 10 | Concept Score: 0.0009
+  Tokens: [' instead']
+Rank 11 | Concept Score: 0.0007
+  Tokens: [' also']
+Rank 12 | Concept Score: 0.0005
+  Tokens: [' first']
+Rank 13 | Concept Score: 0.0003
+  Tokens: [' yes']
+
+**Chosen Concept:** Rank 1 with score 0.0588

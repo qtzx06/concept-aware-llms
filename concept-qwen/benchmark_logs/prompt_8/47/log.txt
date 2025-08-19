@@ -1,0 +1,110 @@
+--- Step 47 Log ---
+
+== Filtered Candidates ==
+Token: ' know' (ID: 1414), Prob: 0.8672
+Token: ' feel' (ID: 2666), Prob: 0.0116
+Token: ' knows' (ID: 8788), Prob: 0.0026
+Token: ' tell' (ID: 3291), Prob: 0.0016
+Token: ' understand' (ID: 3535), Prob: 0.0015
+Token: ' share' (ID: 4332), Prob: 0.0014
+Token: ' take' (ID: 1896), Prob: 0.0013
+Token: ' see' (ID: 1490), Prob: 0.0012
+Token: ' express' (ID: 3158), Prob: 0.0012
+Token: ' experience' (ID: 3139), Prob: 0.0010
+Token: ' get' (ID: 633), Prob: 0.0007
+Token: ' choose' (ID: 5157), Prob: 0.0007
+Token: ' notice' (ID: 5293), Prob: 0.0007
+Token: ' say' (ID: 1977), Prob: 0.0006
+Token: ' develop' (ID: 2225), Prob: 0.0006
+Token: ' something' (ID: 2494), Prob: 0.0006
+Token: ' lead' (ID: 2990), Prob: 0.0006
+Token: ' known' (ID: 3881), Prob: 0.0006
+Token: ' hear' (ID: 6723), Prob: 0.0005
+Token: ' stay' (ID: 4717), Prob: 0.0005
+Token: ' use' (ID: 990), Prob: 0.0005
+Token: ' show' (ID: 1473), Prob: 0.0005
+Token: ' talk' (ID: 3061), Prob: 0.0004
+Token: ' learn' (ID: 3960), Prob: 0.0004
+Token: ' also' (ID: 1083), Prob: 0.0004
+Token: ' think' (ID: 1744), Prob: 0.0004
+Token: ' live' (ID: 3887), Prob: 0.0004
+Token: ' handle' (ID: 3705), Prob: 0.0004
+Token: ' directly' (ID: 5961), Prob: 0.0004
+Token: ' close' (ID: 3265), Prob: 0.0003
+Token: ' communicate' (ID: 19032), Prob: 0.0003
+Token: ' ask' (ID: 2548), Prob: 0.0003
+Token: ' receive' (ID: 5258), Prob: 0.0003
+Token: ' self' (ID: 656), Prob: 0.0003
+Token: ' make' (ID: 1281), Prob: 0.0003
+Token: ' put' (ID: 2182), Prob: 0.0003
+Token: ' speak' (ID: 6468), Prob: 0.0003
+Token: ' back' (ID: 1182), Prob: 0.0002
+Token: ' respond' (ID: 5889), Prob: 0.0002
+Token: ' knowing' (ID: 14063), Prob: 0.0002
+Token: ' already' (ID: 2669), Prob: 0.0002
+Token: ' focus' (ID: 5244), Prob: 0.0002
+Token: ' explain' (ID: 10339), Prob: 0.0002
+Token: ' help' (ID: 1492), Prob: 0.0002
+Token: ' decide' (ID: 10279), Prob: 0.0002
+Token: ' care' (ID: 2453), Prob: 0.0002
+Token: ' give' (ID: 2968), Prob: 0.0002
+Token: ' connect' (ID: 4564), Prob: 0.0002
+Token: ' keep' (ID: 2506), Prob: 0.0002
+Token: ' knew' (ID: 6876), Prob: 0.0002
+Token: ' relate' (ID: 28143), Prob: 0.0002
+Token: ' create' (ID: 1855), Prob: 0.0002
+Token: ' come' (ID: 2525), Prob: 0.0002
+Token: ' become' (ID: 3635), Prob: 0.0002
+Token: ' interact' (ID: 16282), Prob: 0.0002
+Token: ' deal' (ID: 3484), Prob: 0.0002
+Token: ' leave' (ID: 5274), Prob: 0.0002
+Token: ' engage' (ID: 16579), Prob: 0.0002
+Token: ' find' (ID: 1477), Prob: 0.0001
+Token: ' realize' (ID: 13083), Prob: 0.0001
+Token: ' open' (ID: 1787), Prob: 0.0001
+Token: ' face' (ID: 3579), Prob: 0.0001
+Token: ' lie' (ID: 10246), Prob: 0.0001
+
+== Ranked Concepts (Clusters) ==
+Rank 1 | Concept Score: 0.8711
+  Tokens: [' know', ' knows', ' known', ' knowing', ' knew']
+Rank 2 | Concept Score: 0.0143
+  Tokens: [' feel', ' see', ' notice', ' hear', ' think']
+Rank 3 | Concept Score: 0.0033
+  Tokens: [' take', ' get', ' show', ' make', ' put', ' give', ' find']
+Rank 4 | Concept Score: 0.0032
+  Tokens: [' tell', ' say', ' talk', ' ask', ' speak']
+Rank 5 | Concept Score: 0.0018
+  Tokens: [' share', ' live']
+Rank 6 | Concept Score: 0.0016
+  Tokens: [' understand', ' realize']
+Rank 7 | Concept Score: 0.0015
+  Tokens: [' something', ' also', ' directly', ' already']
+Rank 8 | Concept Score: 0.0014
+  Tokens: [' express', ' explain']
+Rank 9 | Concept Score: 0.0013
+  Tokens: [' communicate', ' respond', ' connect', ' relate', ' interact', ' engage']
+Rank 10 | Concept Score: 0.0012
+  Tokens: [' lead', ' use', ' help']
+Rank 11 | Concept Score: 0.0010
+  Tokens: [' experience']
+Rank 12 | Concept Score: 0.0009
+  Tokens: [' stay', ' keep', ' leave', ' lie']
+Rank 13 | Concept Score: 0.0009
+  Tokens: [' choose', ' decide']
+Rank 14 | Concept Score: 0.0008
+  Tokens: [' develop', ' create']
+Rank 15 | Concept Score: 0.0007
+  Tokens: [' close', ' back', ' open']
+Rank 16 | Concept Score: 0.0007
+  Tokens: [' learn', ' receive']
+Rank 17 | Concept Score: 0.0005
+  Tokens: [' handle', ' deal']
+Rank 18 | Concept Score: 0.0004
+  Tokens: [' focus', ' care']
+Rank 19 | Concept Score: 0.0004
+  Tokens: [' self', ' face']
+Rank 20 | Concept Score: 0.0003
+  Tokens: [' come', ' become']
+
+**Chosen Concept:** Rank 1 with score 0.8711

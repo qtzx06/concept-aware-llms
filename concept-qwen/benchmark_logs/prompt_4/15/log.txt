@@ -1,0 +1,39 @@
+--- Step 15 Log ---
+
+== Filtered Candidates ==
+Token: ' Today' (ID: 11201), Prob: 0.4023
+Token: ' today' (ID: 3351), Prob: 0.0101
+Token: 'Today' (ID: 15364), Prob: 0.0022
+Token: ' Tomorrow' (ID: 54996), Prob: 0.0016
+Token: ' TODAY' (ID: 40262), Prob: 0.0012
+Token: ' Please' (ID: 5209), Prob: 0.0011
+Token: '.Today' (ID: 72672), Prob: 0.0011
+Token: ' Children' (ID: 15044), Prob: 0.0008
+Token: ' Together' (ID: 31155), Prob: 0.0006
+Token: ' Let' (ID: 6771), Prob: 0.0006
+Token: ' Also' (ID: 7281), Prob: 0.0006
+Token: ' Maybe' (ID: 10696), Prob: 0.0005
+
+== Ranked Concepts (Clusters) ==
+Rank 1 | Concept Score: 0.4141
+  Tokens: [' Today', ' today', 'Today']
+Rank 2 | Concept Score: 0.0016
+  Tokens: [' Tomorrow']
+Rank 3 | Concept Score: 0.0012
+  Tokens: [' TODAY']
+Rank 4 | Concept Score: 0.0011
+  Tokens: ['.Today']
+Rank 5 | Concept Score: 0.0011
+  Tokens: [' Please']
+Rank 6 | Concept Score: 0.0008
+  Tokens: [' Children']
+Rank 7 | Concept Score: 0.0006
+  Tokens: [' Together']
+Rank 8 | Concept Score: 0.0006
+  Tokens: [' Also']
+Rank 9 | Concept Score: 0.0006
+  Tokens: [' Let']
+Rank 10 | Concept Score: 0.0005
+  Tokens: [' Maybe']
+
+**Chosen Concept:** Rank 1 with score 0.4141

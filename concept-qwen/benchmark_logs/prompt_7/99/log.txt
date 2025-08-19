@@ -1,0 +1,136 @@
+--- Step 99 Log ---
+
+== Filtered Candidates ==
+Token: ' magic' (ID: 10963), Prob: 1.0000
+Token: ' magical' (ID: 23702), Prob: 0.0000
+Token: ' Magic' (ID: 15485), Prob: 0.0000
+Token: ' mag' (ID: 4878), Prob: 0.0000
+Token: ' snow' (ID: 11794), Prob: 0.0000
+Token: ' spell' (ID: 12845), Prob: 0.0000
+Token: ' charm' (ID: 31253), Prob: 0.0000
+Token: ' message' (ID: 1943), Prob: 0.0000
+Token: ' music' (ID: 4627), Prob: 0.0000
+Token: ' power' (ID: 2355), Prob: 0.0000
+Token: ' love' (ID: 2948), Prob: 0.0000
+Token: ' story' (ID: 3364), Prob: 0.0000
+Token: ' beauty' (ID: 13143), Prob: 0.0000
+Token: ' answer' (ID: 4226), Prob: 0.0000
+Token: ' spirit' (ID: 8913), Prob: 0.0000
+Token: ' friendship' (ID: 26509), Prob: 0.0000
+Token: ' miracle' (ID: 44025), Prob: 0.0000
+Token: ' magician' (ID: 89341), Prob: 0.0000
+Token: ' magically' (ID: 77725), Prob: 0.0000
+Token: ' true' (ID: 830), Prob: 0.0000
+Token: ' remaining' (ID: 9664), Prob: 0.0000
+Token: ' mystery' (ID: 22531), Prob: 0.0000
+Token: ' truth' (ID: 8046), Prob: 0.0000
+Token: ' trick' (ID: 14068), Prob: 0.0000
+Token: ' magnetic' (ID: 23970), Prob: 0.0000
+Token: ' wizard' (ID: 33968), Prob: 0.0000
+Token: ' enchant' (ID: 46925), Prob: 0.0000
+Token: ' mac' (ID: 8978), Prob: 0.0000
+Token: ' matter' (ID: 4925), Prob: 0.0000
+Token: ' magn' (ID: 8455), Prob: 0.0000
+Token: ' fairy' (ID: 44486), Prob: 0.0000
+Token: ' remains' (ID: 8458), Prob: 0.0000
+Token: ' world' (ID: 1879), Prob: 0.0000
+Token: ' art' (ID: 1947), Prob: 0.0000
+Token: ' memory' (ID: 4938), Prob: 0.0000
+Token: ' moment' (ID: 4445), Prob: 0.0000
+Token: 'magic' (ID: 37451), Prob: 0.0000
+Token: ' map' (ID: 2415), Prob: 0.0000
+Token: ' rest' (ID: 2732), Prob: 0.0000
+Token: ' ability' (ID: 5726), Prob: 0.0000
+Token: ' magnitude' (ID: 25621), Prob: 0.0000
+Token: ' magnet' (ID: 32197), Prob: 0.0000
+Token: ' joy' (ID: 15888), Prob: 0.0000
+Token: ' mirror' (ID: 17846), Prob: 0.0000
+Token: ' dragon' (ID: 25105), Prob: 0.0000
+Token: ' meaning' (ID: 7290), Prob: 0.0000
+Token: ' best' (ID: 1850), Prob: 0.0000
+Token: ' gift' (ID: 8189), Prob: 0.0000
+Token: ' legacy' (ID: 19588), Prob: 0.0000
+Token: ' mana' (ID: 30131), Prob: 0.0000
+Token: ' sparkle' (ID: 95070), Prob: 0.0000
+Token: ' secret' (ID: 6234), Prob: 0.0000
+Token: ' mage' (ID: 51803), Prob: 0.0000
+Token: ' legend' (ID: 13016), Prob: 0.0000
+Token: ' sugar' (ID: 13163), Prob: 0.0000
+Token: ' belief' (ID: 16396), Prob: 0.0000
+Token: ' fact' (ID: 2097), Prob: 0.0000
+Token: ' final' (ID: 1590), Prob: 0.0000
+Token: ' smile' (ID: 15289), Prob: 0.0000
+Token: ' maple' (ID: 54380), Prob: 0.0000
+Token: ' word' (ID: 3409), Prob: 0.0000
+Token: ' peace' (ID: 8919), Prob: 0.0000
+Token: ' presence' (ID: 9362), Prob: 0.0000
+Token: ' promise' (ID: 11222), Prob: 0.0000
+Token: ' beginning' (ID: 7167), Prob: 0.0000
+Token: ' winter' (ID: 12406), Prob: 0.0000
+Token: ' spark' (ID: 15186), Prob: 0.0000
+Token: ' grace' (ID: 20839), Prob: 0.0000
+Token: ' myth' (ID: 21163), Prob: 0.0000
+Token: ' game' (ID: 1809), Prob: 0.0000
+Token: ' money' (ID: 3220), Prob: 0.0000
+Token: ' lie' (ID: 10246), Prob: 0.0000
+Token: ' hope' (ID: 3900), Prob: 0.0000
+
+== Ranked Concepts (Clusters) ==
+Rank 1 | Concept Score: 1.0000
+  Tokens: [' magic', ' magical', ' Magic', ' miracle', ' magician', ' magically', 'magic', ' mage']
+Rank 2 | Concept Score: 0.0000
+  Tokens: [' mag', ' magnetic', ' magn', ' magnitude', ' magnet']
+Rank 3 | Concept Score: 0.0000
+  Tokens: [' snow', ' sugar', ' maple', ' winter']
+Rank 4 | Concept Score: 0.0000
+  Tokens: [' spell', ' sparkle', ' spark']
+Rank 5 | Concept Score: 0.0000
+  Tokens: [' charm', ' enchant']
+Rank 6 | Concept Score: 0.0000
+  Tokens: [' message', ' story']
+Rank 7 | Concept Score: 0.0000
+  Tokens: [' love', ' beauty', ' joy', ' gift', ' peace', ' grace']
+Rank 8 | Concept Score: 0.0000
+  Tokens: [' music', ' art']
+Rank 9 | Concept Score: 0.0000
+  Tokens: [' power', ' ability']
+Rank 10 | Concept Score: 0.0000
+  Tokens: [' answer', ' world', ' word', ' game']
+Rank 11 | Concept Score: 0.0000
+  Tokens: [' true', ' truth', ' secret']
+Rank 12 | Concept Score: 0.0000
+  Tokens: [' remaining', ' remains', ' rest']
+Rank 13 | Concept Score: 0.0000
+  Tokens: [' wizard', ' fairy', ' dragon']
+Rank 14 | Concept Score: 0.0000
+  Tokens: [' spirit', ' presence']
+Rank 15 | Concept Score: 0.0000
+  Tokens: [' friendship', ' smile']
+Rank 16 | Concept Score: 0.0000
+  Tokens: [' mac', ' map']
+Rank 17 | Concept Score: 0.0000
+  Tokens: [' moment', ' meaning', ' beginning']
+Rank 18 | Concept Score: 0.0000
+  Tokens: [' mystery', ' myth']
+Rank 19 | Concept Score: 0.0000
+  Tokens: [' trick']
+Rank 20 | Concept Score: 0.0000
+  Tokens: [' belief', ' promise', ' hope']
+Rank 21 | Concept Score: 0.0000
+  Tokens: [' legacy', ' legend']
+Rank 22 | Concept Score: 0.0000
+  Tokens: [' matter']
+Rank 23 | Concept Score: 0.0000
+  Tokens: [' best', ' final']
+Rank 24 | Concept Score: 0.0000
+  Tokens: [' mirror', ' money']
+Rank 25 | Concept Score: 0.0000
+  Tokens: [' memory']
+Rank 26 | Concept Score: 0.0000
+  Tokens: [' mana']
+Rank 27 | Concept Score: 0.0000
+  Tokens: [' fact']
+Rank 28 | Concept Score: 0.0000
+  Tokens: [' lie']
+
+**Chosen Concept:** Rank 1 with score 1.0000

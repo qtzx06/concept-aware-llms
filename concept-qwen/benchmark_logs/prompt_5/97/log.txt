@@ -1,0 +1,92 @@
+--- Step 97 Log ---
+
+== Filtered Candidates ==
+Token: ' earlier' (ID: 6788), Prob: 0.4395
+Token: ' later' (ID: 2937), Prob: 0.0674
+Token: ' ahead' (ID: 8305), Prob: 0.0264
+Token: ' prior' (ID: 4867), Prob: 0.0248
+Token: ' early' (ID: 4124), Prob: 0.0041
+Token: ' away' (ID: 3123), Prob: 0.0036
+Token: ' forward' (ID: 4637), Prob: 0.0022
+Token: ' behind' (ID: 4815), Prob: 0.0022
+Token: ' either' (ID: 2987), Prob: 0.0020
+Token: ' less' (ID: 2686), Prob: 0.0018
+Token: ' apart' (ID: 10747), Prob: 0.0016
+Token: ' back' (ID: 1182), Prob: 0.0012
+Token: ' late' (ID: 3309), Prob: 0.0011
+Token: ' ago' (ID: 4134), Prob: 0.0010
+Token: ' past' (ID: 3267), Prob: 0.0008
+Token: ' previous' (ID: 3681), Prob: 0.0007
+Token: ' difference' (ID: 6672), Prob: 0.0007
+Token: ' time' (ID: 882), Prob: 0.0005
+Token: ' different' (ID: 2155), Prob: 0.0005
+Token: ' immediately' (ID: 7069), Prob: 0.0005
+Token: ' within' (ID: 2878), Prob: 0.0004
+Token: ' closer' (ID: 12128), Prob: 0.0004
+Token: ' sooner' (ID: 30273), Prob: 0.0004
+Token: ' one' (ID: 825), Prob: 0.0004
+Token: ' even' (ID: 1496), Prob: 0.0003
+Token: ' exactly' (ID: 6896), Prob: 0.0003
+Token: ' older' (ID: 9014), Prob: 0.0003
+Token: ' previously' (ID: 8597), Prob: 0.0002
+Token: ' beyond' (ID: 7797), Prob: 0.0002
+Token: ' every' (ID: 1449), Prob: 0.0002
+Token: ' regardless' (ID: 15484), Prob: 0.0002
+Token: ' compared' (ID: 7707), Prob: 0.0002
+Token: ' east' (ID: 10984), Prob: 0.0002
+Token: ' beforehand' (ID: 51059), Prob: 0.0002
+Token: ' according' (ID: 4092), Prob: 0.0001
+Token: ' per' (ID: 817), Prob: 0.0001
+Token: ' advanced' (ID: 10847), Prob: 0.0001
+Token: ' shorter' (ID: 23327), Prob: 0.0001
+Token: ' left' (ID: 2115), Prob: 0.0001
+Token: ' across' (ID: 3941), Prob: 0.0001
+Token: ' outside' (ID: 4889), Prob: 0.0001
+Token: ' passed' (ID: 5823), Prob: 0.0001
+Token: ' toward' (ID: 8841), Prob: 0.0001
+Token: ' backward' (ID: 27555), Prob: 0.0001
+Token: ' first' (ID: 1156), Prob: 0.0001
+
+== Ranked Concepts (Clusters) ==
+Rank 1 | Concept Score: 0.4648
+  Tokens: [' earlier', ' prior', ' previous', ' previously', ' beforehand']
+Rank 2 | Concept Score: 0.0728
+  Tokens: [' later', ' early', ' late']
+Rank 3 | Concept Score: 0.0286
+  Tokens: [' ahead', ' behind']
+Rank 4 | Concept Score: 0.0052
+  Tokens: [' away', ' apart']
+Rank 5 | Concept Score: 0.0034
+  Tokens: [' forward', ' back', ' backward']
+Rank 6 | Concept Score: 0.0026
+  Tokens: [' less', ' closer', ' older', ' shorter']
+Rank 7 | Concept Score: 0.0023
+  Tokens: [' either', ' exactly']
+Rank 8 | Concept Score: 0.0013
+  Tokens: [' difference', ' different', ' compared']
+Rank 9 | Concept Score: 0.0010
+  Tokens: [' ago']
+Rank 10 | Concept Score: 0.0010
+  Tokens: [' past', ' passed']
+Rank 11 | Concept Score: 0.0010
+  Tokens: [' time', ' one', ' per']
+Rank 12 | Concept Score: 0.0008
+  Tokens: [' within', ' beyond', ' across', ' outside']
+Rank 13 | Concept Score: 0.0005
+  Tokens: [' immediately']
+Rank 14 | Concept Score: 0.0004
+  Tokens: [' even', ' regardless']
+Rank 15 | Concept Score: 0.0004
+  Tokens: [' sooner']
+Rank 16 | Concept Score: 0.0003
+  Tokens: [' every', ' according']
+Rank 17 | Concept Score: 0.0003
+  Tokens: [' east', ' advanced']
+Rank 18 | Concept Score: 0.0001
+  Tokens: [' toward']
+Rank 19 | Concept Score: 0.0001
+  Tokens: [' left']
+Rank 20 | Concept Score: 0.0001
+  Tokens: [' first']
+
+**Chosen Concept:** Rank 1 with score 0.4648

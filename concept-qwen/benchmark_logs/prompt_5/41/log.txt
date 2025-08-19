@@ -1,0 +1,138 @@
+--- Step 41 Log ---
+
+== Filtered Candidates ==
+Token: ' time' (ID: 882), Prob: 0.2168
+Token: ' current' (ID: 1482), Prob: 0.1689
+Token: ' original' (ID: 4024), Prob: 0.1162
+Token: ' actual' (ID: 5042), Prob: 0.0903
+Token: ' destination' (ID: 9106), Prob: 0.0903
+Token: ' arrival' (ID: 18647), Prob: 0.0354
+Token: ' present' (ID: 3042), Prob: 0.0228
+Token: ' scheduled' (ID: 13537), Prob: 0.0148
+Token: ' date' (ID: 2400), Prob: 0.0115
+Token: ' real' (ID: 1931), Prob: 0.0090
+Token: ' start' (ID: 1191), Prob: 0.0079
+Token: ' departure' (ID: 24915), Prob: 0.0074
+Token: ' moment' (ID: 4445), Prob: 0.0070
+Token: ' meeting' (ID: 6438), Prob: 0.0066
+Token: ' flight' (ID: 10971), Prob: 0.0062
+Token: ' intended' (ID: 10602), Prob: 0.0058
+Token: ' source' (ID: 2530), Prob: 0.0051
+Token: ' target' (ID: 2169), Prob: 0.0048
+Token: ' previous' (ID: 3681), Prob: 0.0045
+Token: ' origin' (ID: 6238), Prob: 0.0045
+Token: ' day' (ID: 1899), Prob: 0.0042
+Token: ' local' (ID: 2205), Prob: 0.0040
+Token: ' travel' (ID: 5821), Prob: 0.0033
+Token: ' starting' (ID: 5916), Prob: 0.0029
+Token: ' exact' (ID: 4734), Prob: 0.0027
+Token: ' desired' (ID: 12685), Prob: 0.0027
+Token: ' one' (ID: 825), Prob: 0.0026
+Token: ' expected' (ID: 3601), Prob: 0.0026
+Token: ' normal' (ID: 4622), Prob: 0.0024
+Token: ' hour' (ID: 6460), Prob: 0.0024
+Token: ' schedule' (ID: 9700), Prob: 0.0020
+Token: ' planned' (ID: 12909), Prob: 0.0019
+Token: ' correct' (ID: 4396), Prob: 0.0018
+Token: ' given' (ID: 2661), Prob: 0.0016
+Token: ' landing' (ID: 20327), Prob: 0.0016
+Token: ' initial' (ID: 2856), Prob: 0.0015
+Token: ' location' (ID: 3728), Prob: 0.0015
+Token: ' reference' (ID: 5785), Prob: 0.0015
+Token: ' traveler' (ID: 62765), Prob: 0.0015
+Token: ' standard' (ID: 5297), Prob: 0.0014
+Token: ' lunch' (ID: 15786), Prob: 0.0014
+Token: ' beginning' (ID: 7167), Prob: 0.0013
+Token: ' morning' (ID: 6556), Prob: 0.0012
+Token: ' event' (ID: 1538), Prob: 0.0011
+Token: ' past' (ID: 3267), Prob: 0.0011
+Token: ' friend' (ID: 4238), Prob: 0.0009
+Token: ' deadline' (ID: 21428), Prob: 0.0009
+Token: ' existing' (ID: 6350), Prob: 0.0009
+Token: ' trip' (ID: 8411), Prob: 0.0009
+Token: ' noon' (ID: 37145), Prob: 0.0009
+Token: ' base' (ID: 2331), Prob: 0.0008
+Token: ' usual' (ID: 13475), Prob: 0.0008
+Token: ' transfer' (ID: 8317), Prob: 0.0008
+Token: ' passenger' (ID: 23148), Prob: 0.0008
+Token: ' next' (ID: 1790), Prob: 0.0007
+Token: ' future' (ID: 3853), Prob: 0.0007
+Token: ' sunrise' (ID: 63819), Prob: 0.0006
+Token: ' clock' (ID: 8866), Prob: 0.0006
+Token: ' originating' (ID: 70273), Prob: 0.0006
+Token: ' true' (ID: 830), Prob: 0.0006
+Token: ' first' (ID: 1156), Prob: 0.0006
+Token: ' calendar' (ID: 13168), Prob: 0.0006
+Token: ' timeline' (ID: 24808), Prob: 0.0006
+Token: ' old' (ID: 2310), Prob: 0.0005
+Token: ' available' (ID: 2500), Prob: 0.0005
+Token: ' plan' (ID: 3119), Prob: 0.0005
+Token: ' specified' (ID: 5189), Prob: 0.0005
+Token: ' mission' (ID: 8954), Prob: 0.0005
+Token: ' two' (ID: 1378), Prob: 0.0005
+Token: ' times' (ID: 3039), Prob: 0.0005
+Token: ' city' (ID: 3283), Prob: 0.0005
+Token: ' required' (ID: 2567), Prob: 0.0005
+Token: ' purpose' (ID: 7428), Prob: 0.0005
+Token: ' arriving' (ID: 32011), Prob: 0.0005
+Token: ' currently' (ID: 5023), Prob: 0.0004
+Token: ' immediate' (ID: 13922), Prob: 0.0004
+Token: ' incoming' (ID: 19393), Prob: 0.0004
+Token: ' designated' (ID: 23195), Prob: 0.0004
+Token: ' official' (ID: 3946), Prob: 0.0004
+Token: ' requested' (ID: 11223), Prob: 0.0004
+Token: ' corresponding' (ID: 12159), Prob: 0.0004
+Token: ' point' (ID: 1459), Prob: 0.0004
+Token: ' default' (ID: 1638), Prob: 0.0004
+Token: ' known' (ID: 3881), Prob: 0.0004
+Token: ' natural' (ID: 5810), Prob: 0.0004
+Token: ' ship' (ID: 8284), Prob: 0.0004
+Token: ' passing' (ID: 12299), Prob: 0.0004
+Token: ' new' (ID: 501), Prob: 0.0004
+Token: ' end' (ID: 835), Prob: 0.0004
+Token: ' plane' (ID: 11031), Prob: 0.0004
+Token: ' transportation' (ID: 17903), Prob: 0.0004
+Token: ' UTC' (ID: 27403), Prob: 0.0004
+Token: ' launch' (ID: 7050), Prob: 0.0003
+Token: ' last' (ID: 1537), Prob: 0.0003
+Token: ' message' (ID: 1943), Prob: 0.0003
+Token: ' night' (ID: 3729), Prob: 0.0003
+Token: ' regular' (ID: 5792), Prob: 0.0003
+
+== Ranked Concepts (Clusters) ==
+Rank 1 | Concept Score: 0.2354
+  Tokens: [' time', ' date', ' moment', ' times']
+Rank 2 | Concept Score: 0.1992
+  Tokens: [' current', ' present', ' previous', ' past', ' existing', ' future', ' currently']
+Rank 3 | Concept Score: 0.1270
+  Tokens: [' original', ' local', ' normal', ' standard', ' usual', ' old', ' official', ' natural', ' regular']
+Rank 4 | Concept Score: 0.1050
+  Tokens: [' actual', ' real', ' exact', ' correct', ' true', ' immediate']
+Rank 5 | Concept Score: 0.1045
+  Tokens: [' destination', ' source', ' target', ' location', ' event', ' mission', ' purpose', ' point', ' message']
+Rank 6 | Concept Score: 0.0525
+  Tokens: [' arrival', ' departure', ' meeting', ' landing', ' arriving', ' incoming', ' passing', ' launch']
+Rank 7 | Concept Score: 0.0195
+  Tokens: [' scheduled', ' schedule', ' deadline', ' clock', ' calendar', ' timeline']
+Rank 8 | Concept Score: 0.0153
+  Tokens: [' intended', ' desired', ' expected', ' given', ' specified', ' required', ' designated', ' requested', ' corresponding', ' known']
+Rank 9 | Concept Score: 0.0151
+  Tokens: [' flight', ' travel', ' traveler', ' friend', ' trip', ' transfer', ' passenger', ' ship', ' transportation']
+Rank 10 | Concept Score: 0.0140
+  Tokens: [' start', ' starting', ' initial', ' beginning', ' end']
+Rank 11 | Concept Score: 0.0115
+  Tokens: [' day', ' hour', ' lunch', ' morning', ' noon', ' sunrise', ' UTC', ' night']
+Rank 12 | Concept Score: 0.0051
+  Tokens: [' origin', ' originating']
+Rank 13 | Concept Score: 0.0051
+  Tokens: [' one', ' next', ' first', ' two', ' new', ' last']
+Rank 14 | Concept Score: 0.0028
+  Tokens: [' planned', ' plan', ' plane']
+Rank 15 | Concept Score: 0.0027
+  Tokens: [' reference', ' base', ' default']
+Rank 16 | Concept Score: 0.0005
+  Tokens: [' available']
+Rank 17 | Concept Score: 0.0005
+  Tokens: [' city']
+
+**Chosen Concept:** Rank 1 with score 0.2354

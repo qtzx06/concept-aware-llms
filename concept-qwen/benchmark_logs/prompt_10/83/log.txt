@@ -1,0 +1,99 @@
+--- Step 83 Log ---
+
+== Filtered Candidates ==
+Token: ' sixteen' (ID: 58039), Prob: 0.9727
+Token: ' six' (ID: 4743), Prob: 0.0084
+Token: ' eighteen' (ID: 62034), Prob: 0.0065
+Token: ' seventeen' (ID: 81397), Prob: 0.0051
+Token: ' fifteen' (ID: 36655), Prob: 0.0045
+Token: ' fourteen' (ID: 62260), Prob: 0.0019
+Token: ' nineteen' (ID: 93835), Prob: 0.0006
+Token: ' twenty' (ID: 17073), Prob: 0.0005
+Token: ' twelve' (ID: 29235), Prob: 0.0005
+Token: ' thirteen' (ID: 60659), Prob: 0.0002
+Token: ' eleven' (ID: 44214), Prob: 0.0000
+Token: ' Six' (ID: 18680), Prob: 0.0000
+Token: ' fif' (ID: 11128), Prob: 0.0000
+Token: ' one' (ID: 825), Prob: 0.0000
+Token: ' sevent' (ID: 21373), Prob: 0.0000
+Token: ' sixty' (ID: 52374), Prob: 0.0000
+Token: ' eight' (ID: 8063), Prob: 0.0000
+Token: ' ten' (ID: 5779), Prob: 0.0000
+Token: ' thirty' (ID: 26127), Prob: 0.0000
+Token: ' hundred' (ID: 7739), Prob: 0.0000
+Token: ' XVI' (ID: 93837), Prob: 0.0000
+Token: ' five' (ID: 4236), Prob: 0.0000
+Token: ' single' (ID: 3175), Prob: 0.0000
+Token: ' seven' (ID: 8094), Prob: 0.0000
+Token: 'irteen' (ID: 44904), Prob: 0.0000
+Token: ' fifty' (ID: 32417), Prob: 0.0000
+Token: ' two' (ID: 1378), Prob: 0.0000
+Token: ' pair' (ID: 6716), Prob: 0.0000
+Token: ' four' (ID: 3040), Prob: 0.0000
+Token: ' hexadecimal' (ID: 69722), Prob: 0.0000
+Token: ' player' (ID: 2781), Prob: 0.0000
+Token: ' forty' (ID: 35398), Prob: 0.0000
+Token: ' Fif' (ID: 18502), Prob: 0.0000
+Token: ' nineteenth' (ID: 64989), Prob: 0.0000
+Token: ' number' (ID: 1372), Prob: 0.0000
+Token: ' game' (ID: 1809), Prob: 0.0000
+Token: ' sum' (ID: 2629), Prob: 0.0000
+Token: ' male' (ID: 8593), Prob: 0.0000
+Token: ' Sevent' (ID: 77218), Prob: 0.0000
+Token: ' ele' (ID: 10510), Prob: 0.0000
+Token: ' dozen' (ID: 20403), Prob: 0.0000
+Token: 'six' (ID: 50364), Prob: 0.0000
+Token: ' client' (ID: 2943), Prob: 0.0000
+Token: ' series' (ID: 4013), Prob: 0.0000
+Token: ' SIX' (ID: 97638), Prob: 0.0000
+Token: ' turn' (ID: 2484), Prob: 0.0000
+Token: ' nine' (ID: 11627), Prob: 0.0000
+Token: ' Twenty' (ID: 43856), Prob: 0.0000
+Token: ' twentieth' (ID: 61420), Prob: 0.0000
+Token: ' several' (ID: 3807), Prob: 0.0000
+Token: ' plus' (ID: 5519), Prob: 0.0000
+Token: ' say' (ID: 1977), Prob: 0.0000
+Token: ' three' (ID: 2326), Prob: 0.0000
+Token: ' service' (ID: 2473), Prob: 0.0000
+Token: ' exclusive' (ID: 13761), Prob: 0.0000
+Token: ' singleton' (ID: 36903), Prob: 0.0000
+
+== Ranked Concepts (Clusters) ==
+Rank 1 | Concept Score: 0.9922
+  Tokens: [' sixteen', ' eighteen', ' seventeen', ' fifteen', ' fourteen', ' nineteen', ' twelve', ' thirteen', ' eleven']
+Rank 2 | Concept Score: 0.0084
+  Tokens: [' six', ' Six', 'six', ' SIX']
+Rank 3 | Concept Score: 0.0005
+  Tokens: [' twenty', ' sixty', ' thirty', ' fifty', ' forty', ' Twenty']
+Rank 4 | Concept Score: 0.0000
+  Tokens: [' fif', ' Fif', ' Sevent']
+Rank 5 | Concept Score: 0.0000
+  Tokens: [' one']
+Rank 6 | Concept Score: 0.0000
+  Tokens: [' sevent', ' nineteenth', ' twentieth']
+Rank 7 | Concept Score: 0.0000
+  Tokens: [' eight', ' five', ' seven', ' two', ' four', ' nine', ' three']
+Rank 8 | Concept Score: 0.0000
+  Tokens: [' ten']
+Rank 9 | Concept Score: 0.0000
+  Tokens: [' hundred', ' dozen']
+Rank 10 | Concept Score: 0.0000
+  Tokens: [' XVI', ' hexadecimal']
+Rank 11 | Concept Score: 0.0000
+  Tokens: [' single', ' plus', ' exclusive', ' singleton']
+Rank 12 | Concept Score: 0.0000
+  Tokens: ['irteen']
+Rank 13 | Concept Score: 0.0000
+  Tokens: [' player', ' game', ' client']
+Rank 14 | Concept Score: 0.0000
+  Tokens: [' pair']
+Rank 15 | Concept Score: 0.0000
+  Tokens: [' sum', ' series', ' service']
+Rank 16 | Concept Score: 0.0000
+  Tokens: [' male', ' turn', ' say']
+Rank 17 | Concept Score: 0.0000
+  Tokens: [' number', ' several']
+Rank 18 | Concept Score: 0.0000
+  Tokens: [' ele']
+
+**Chosen Concept:** Rank 1 with score 0.9922

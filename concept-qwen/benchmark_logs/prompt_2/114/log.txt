@@ -1,0 +1,86 @@
+--- Step 114 Log ---
+
+== Filtered Candidates ==
+Token: ' may' (ID: 1231), Prob: 0.8086
+Token: ' must' (ID: 1969), Prob: 0.0752
+Token: ' could' (ID: 1410), Prob: 0.0167
+Token: ' might' (ID: 2578), Prob: 0.0115
+Token: ' cannot' (ID: 4157), Prob: 0.0048
+Token: ' contains' (ID: 5610), Prob: 0.0040
+Token: ' Earth' (ID: 9237), Prob: 0.0013
+Token: ' likely' (ID: 4363), Prob: 0.0011
+Token: ' probably' (ID: 4658), Prob: 0.0007
+Token: ' lacks' (ID: 36756), Prob: 0.0004
+Token: ' environment' (ID: 4573), Prob: 0.0003
+Token: ' possibly' (ID: 10767), Prob: 0.0003
+Token: ' needs' (ID: 3880), Prob: 0.0003
+Token: ' May' (ID: 3217), Prob: 0.0002
+Token: ' perhaps' (ID: 8365), Prob: 0.0002
+Token: ' would' (ID: 1035), Prob: 0.0002
+Token: ' still' (ID: 2058), Prob: 0.0002
+Token: ' soil' (ID: 17171), Prob: 0.0002
+Token: ' maybe' (ID: 7196), Prob: 0.0001
+Token: ' also' (ID: 1083), Prob: 0.0001
+Token: ' requires' (ID: 7460), Prob: 0.0001
+Token: ' planet' (ID: 11580), Prob: 0.0001
+Token: ' currently' (ID: 5023), Prob: 0.0001
+Token: ' contain' (ID: 6644), Prob: 0.0001
+Token: ' definitely' (ID: 8491), Prob: 0.0001
+Token: ' holds' (ID: 9982), Prob: 0.0001
+Token: ' scientists' (ID: 13923), Prob: 0.0001
+Token: ' Mars' (ID: 21048), Prob: 0.0001
+Token: ' carries' (ID: 23377), Prob: 0.0000
+Token: ' possesses' (ID: 49226), Prob: 0.0000
+Token: ' either' (ID: 2987), Prob: 0.0000
+Token: ' actually' (ID: 3520), Prob: 0.0000
+Token: ' exists' (ID: 6724), Prob: 0.0000
+Token: ' provides' (ID: 5707), Prob: 0.0000
+Token: ' supports' (ID: 11554), Prob: 0.0000
+Token: ' alone' (ID: 7484), Prob: 0.0000
+Token: ' somehow' (ID: 16925), Prob: 0.0000
+Token: ' ecosystem' (ID: 24982), Prob: 0.0000
+Token: ' already' (ID: 2669), Prob: 0.0000
+Token: ' today' (ID: 3351), Prob: 0.0000
+Token: ' conditions' (ID: 4682), Prob: 0.0000
+Token: ' Environment' (ID: 11586), Prob: 0.0000
+Token: ' potentially' (ID: 13581), Prob: 0.0000
+Token: ' hosts' (ID: 18432), Prob: 0.0000
+Token: ' surface' (ID: 7329), Prob: 0.0000
+Token: ' disease' (ID: 8457), Prob: 0.0000
+Token: ' atmosphere' (ID: 16566), Prob: 0.0000
+Token: ' land' (ID: 4268), Prob: 0.0000
+Token: ' earth' (ID: 9393), Prob: 0.0000
+
+== Ranked Concepts (Clusters) ==
+Rank 1 | Concept Score: 0.8203
+  Tokens: [' may', ' might', ' May']
+Rank 2 | Concept Score: 0.0967
+  Tokens: [' must', ' could', ' cannot', ' would']
+Rank 3 | Concept Score: 0.0041
+  Tokens: [' contains', ' contain']
+Rank 4 | Concept Score: 0.0025
+  Tokens: [' likely', ' probably', ' possibly', ' perhaps', ' maybe', ' potentially']
+Rank 5 | Concept Score: 0.0015
+  Tokens: [' Earth', ' planet', ' Mars', ' earth']
+Rank 6 | Concept Score: 0.0007
+  Tokens: [' lacks', ' holds', ' carries', ' possesses', ' exists', ' provides', ' supports']
+Rank 7 | Concept Score: 0.0004
+  Tokens: [' still', ' also', ' definitely', ' actually', ' already']
+Rank 8 | Concept Score: 0.0004
+  Tokens: [' environment', ' ecosystem', ' Environment', ' atmosphere']
+Rank 9 | Concept Score: 0.0004
+  Tokens: [' needs', ' requires']
+Rank 10 | Concept Score: 0.0002
+  Tokens: [' soil', ' surface', ' land']
+Rank 11 | Concept Score: 0.0001
+  Tokens: [' currently', ' today']
+Rank 12 | Concept Score: 0.0001
+  Tokens: [' scientists', ' conditions', ' disease']
+Rank 13 | Concept Score: 0.0001
+  Tokens: [' either', ' somehow']
+Rank 14 | Concept Score: 0.0000
+  Tokens: [' alone']
+Rank 15 | Concept Score: 0.0000
+  Tokens: [' hosts']
+
+**Chosen Concept:** Rank 1 with score 0.8203

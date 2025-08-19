@@ -1,0 +1,100 @@
+--- Step 46 Log ---
+
+== Filtered Candidates ==
+Token: ' remains' (ID: 8458), Prob: 0.9531
+Token: ' still' (ID: 2058), Prob: 0.0120
+Token: ' stays' (ID: 26558), Prob: 0.0027
+Token: ' stands' (ID: 13352), Prob: 0.0015
+Token: ' remained' (ID: 14616), Prob: 0.0010
+Token: ' remain' (ID: 7146), Prob: 0.0009
+Token: ' continues' (ID: 9539), Prob: 0.0007
+Token: ' shines' (ID: 64780), Prob: 0.0004
+Token: ' lives' (ID: 6305), Prob: 0.0002
+Token: ' also' (ID: 1083), Prob: 0.0002
+Token: ' comes' (ID: 4041), Prob: 0.0002
+Token: ' may' (ID: 1231), Prob: 0.0001
+Token: ' always' (ID: 2677), Prob: 0.0001
+Token: ' lies' (ID: 15448), Prob: 0.0001
+Token: ' persists' (ID: 66045), Prob: 0.0001
+Token: ' could' (ID: 1410), Prob: 0.0001
+Token: ' exists' (ID: 6724), Prob: 0.0001
+Token: ' keeps' (ID: 13598), Prob: 0.0001
+Token: ' becomes' (ID: 9044), Prob: 0.0001
+Token: ' lasts' (ID: 39658), Prob: 0.0001
+Token: ' survives' (ID: 82317), Prob: 0.0001
+Token: ' seems' (ID: 4977), Prob: 0.0001
+Token: ' appears' (ID: 7952), Prob: 0.0001
+Token: ' returns' (ID: 4675), Prob: 0.0001
+Token: ' never' (ID: 2581), Prob: 0.0001
+Token: ' must' (ID: 1969), Prob: 0.0001
+Token: ' would' (ID: 1035), Prob: 0.0001
+Token: ' remembers' (ID: 42357), Prob: 0.0001
+Token: ' helps' (ID: 8609), Prob: 0.0001
+Token: ' thr' (ID: 8807), Prob: 0.0001
+Token: ' takes' (ID: 4990), Prob: 0.0001
+Token: ' remaining' (ID: 9664), Prob: 0.0001
+Token: ' holds' (ID: 9982), Prob: 0.0001
+Token: ' makes' (ID: 3643), Prob: 0.0000
+Token: ' Rem' (ID: 4926), Prob: 0.0000
+Token: ' means' (ID: 3363), Prob: 0.0000
+Token: ' ends' (ID: 10335), Prob: 0.0000
+Token: ' grows' (ID: 27715), Prob: 0.0000
+Token: ' needs' (ID: 3880), Prob: 0.0000
+Token: ' wins' (ID: 14816), Prob: 0.0000
+Token: ' goes' (ID: 5780), Prob: 0.0000
+Token: ' rests' (ID: 53231), Prob: 0.0000
+Token: ' leaves' (ID: 10901), Prob: 0.0000
+Token: ' deserves' (ID: 29575), Prob: 0.0000
+Token: ' might' (ID: 2578), Prob: 0.0000
+Token: ' cannot' (ID: 4157), Prob: 0.0000
+Token: ' allows' (ID: 6147), Prob: 0.0000
+Token: ' knows' (ID: 8788), Prob: 0.0000
+Token: ' moves' (ID: 10797), Prob: 0.0000
+Token: ' begins' (ID: 12033), Prob: 0.0000
+Token: ' ensures' (ID: 25351), Prob: 0.0000
+Token: ' reminds' (ID: 34610), Prob: 0.0000
+Token: ' waits' (ID: 46936), Prob: 0.0000
+Token: ' feels' (ID: 11074), Prob: 0.0000
+Token: ' depends' (ID: 13798), Prob: 0.0000
+
+== Ranked Concepts (Clusters) ==
+Rank 1 | Concept Score: 0.9570
+  Tokens: [' remains', ' remained', ' remain', ' remaining', ' Rem']
+Rank 2 | Concept Score: 0.0122
+  Tokens: [' still', ' also']
+Rank 3 | Concept Score: 0.0028
+  Tokens: [' stays', ' keeps']
+Rank 4 | Concept Score: 0.0016
+  Tokens: [' stands', ' holds']
+Rank 5 | Concept Score: 0.0009
+  Tokens: [' continues', ' persists', ' lasts']
+Rank 6 | Concept Score: 0.0006
+  Tokens: [' shines', ' remembers', ' deserves', ' knows', ' reminds', ' feels']
+Rank 7 | Concept Score: 0.0005
+  Tokens: [' may', ' could', ' must', ' would', ' might', ' cannot']
+Rank 8 | Concept Score: 0.0004
+  Tokens: [' comes', ' becomes', ' goes', ' begins']
+Rank 9 | Concept Score: 0.0002
+  Tokens: [' seems', ' appears', ' depends']
+Rank 10 | Concept Score: 0.0002
+  Tokens: [' always', ' never']
+Rank 11 | Concept Score: 0.0002
+  Tokens: [' returns', ' ends', ' wins', ' leaves', ' moves']
+Rank 12 | Concept Score: 0.0002
+  Tokens: [' lives', ' waits']
+Rank 13 | Concept Score: 0.0002
+  Tokens: [' helps', ' takes', ' makes', ' allows', ' ensures']
+Rank 14 | Concept Score: 0.0002
+  Tokens: [' lies', ' rests']
+Rank 15 | Concept Score: 0.0002
+  Tokens: [' survives', ' grows']
+Rank 16 | Concept Score: 0.0001
+  Tokens: [' exists']
+Rank 17 | Concept Score: 0.0001
+  Tokens: [' thr']
+Rank 18 | Concept Score: 0.0000
+  Tokens: [' means']
+Rank 19 | Concept Score: 0.0000
+  Tokens: [' needs']
+
+**Chosen Concept:** Rank 1 with score 0.9570

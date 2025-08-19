@@ -1,0 +1,69 @@
+--- Step 57 Log ---
+
+== Filtered Candidates ==
+Token: ' one' (ID: 825), Prob: 0.9883
+Token: ' someone' (ID: 4325), Prob: 0.0012
+Token: ' two' (ID: 1378), Prob: 0.0005
+Token: ' three' (ID: 2326), Prob: 0.0004
+Token: ' another' (ID: 2441), Prob: 0.0003
+Token: ' multiple' (ID: 5248), Prob: 0.0002
+Token: ' exactly' (ID: 6896), Prob: 0.0001
+Token: ' anyone' (ID: 5489), Prob: 0.0001
+Token: ' five' (ID: 4236), Prob: 0.0000
+Token: ' either' (ID: 2987), Prob: 0.0000
+Token: ' person' (ID: 1697), Prob: 0.0000
+Token: ' four' (ID: 3040), Prob: 0.0000
+Token: ' every' (ID: 1449), Prob: 0.0000
+Token: ' even' (ID: 1496), Prob: 0.0000
+Token: ' oneself' (ID: 56569), Prob: 0.0000
+Token: '-one' (ID: 18589), Prob: 0.0000
+Token: ' One' (ID: 3776), Prob: 0.0000
+Token: ' several' (ID: 3807), Prob: 0.0000
+Token: ' ONE' (ID: 24038), Prob: 0.0000
+Token: ' different' (ID: 2155), Prob: 0.0000
+Token: ' human' (ID: 3738), Prob: 0.0000
+Token: ' also' (ID: 1083), Prob: 0.0000
+Token: ' many' (ID: 1657), Prob: 0.0000
+Token: ' everyone' (ID: 5019), Prob: 0.0000
+Token: ' something' (ID: 2494), Prob: 0.0000
+Token: ' none' (ID: 6857), Prob: 0.0000
+Token: ' people' (ID: 1251), Prob: 0.0000
+Token: ' six' (ID: 4743), Prob: 0.0000
+Token: '.one' (ID: 30973), Prob: 0.0000
+Token: ' whatever' (ID: 8820), Prob: 0.0000
+Token: '_one' (ID: 11667), Prob: 0.0000
+Token: 'one' (ID: 603), Prob: 0.0000
+
+== Ranked Concepts (Clusters) ==
+Rank 1 | Concept Score: 0.9883
+  Tokens: [' one', '-one', ' One', ' ONE', '.one', '_one', 'one']
+Rank 2 | Concept Score: 0.0012
+  Tokens: [' someone']
+Rank 3 | Concept Score: 0.0010
+  Tokens: [' two', ' three', ' five', ' four', ' six']
+Rank 4 | Concept Score: 0.0003
+  Tokens: [' another']
+Rank 5 | Concept Score: 0.0002
+  Tokens: [' multiple', ' several', ' many']
+Rank 6 | Concept Score: 0.0001
+  Tokens: [' anyone', ' every', ' everyone']
+Rank 7 | Concept Score: 0.0001
+  Tokens: [' exactly']
+Rank 8 | Concept Score: 0.0001
+  Tokens: [' person', ' human', ' people']
+Rank 9 | Concept Score: 0.0000
+  Tokens: [' either']
+Rank 10 | Concept Score: 0.0000
+  Tokens: [' even']
+Rank 11 | Concept Score: 0.0000
+  Tokens: [' oneself']
+Rank 12 | Concept Score: 0.0000
+  Tokens: [' different']
+Rank 13 | Concept Score: 0.0000
+  Tokens: [' something', ' whatever']
+Rank 14 | Concept Score: 0.0000
+  Tokens: [' also']
+Rank 15 | Concept Score: 0.0000
+  Tokens: [' none']
+
+**Chosen Concept:** Rank 1 with score 0.9883

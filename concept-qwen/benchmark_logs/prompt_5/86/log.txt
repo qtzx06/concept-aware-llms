@@ -1,0 +1,120 @@
+--- Step 86 Log ---
+
+== Filtered Candidates ==
+Token: ' traveler' (ID: 62765), Prob: 0.9219
+Token: ' zone' (ID: 10143), Prob: 0.0520
+Token: ' zones' (ID: 25395), Prob: 0.0116
+Token: ' travel' (ID: 5821), Prob: 0.0062
+Token: ' travelers' (ID: 39286), Prob: 0.0024
+Token: ' traveled' (ID: 30696), Prob: 0.0005
+Token: ' traveling' (ID: 20971), Prob: 0.0003
+Token: ' difference' (ID: 6672), Prob: 0.0003
+Token: ' trip' (ID: 8411), Prob: 0.0002
+Token: '-tr' (ID: 10188), Prob: 0.0002
+Token: ' period' (ID: 4168), Prob: 0.0002
+Token: ' region' (ID: 5537), Prob: 0.0002
+Token: ' machine' (ID: 5662), Prob: 0.0001
+Token: '-zone' (ID: 77763), Prob: 0.0001
+Token: ' worker' (ID: 11864), Prob: 0.0001
+Token: ' transfer' (ID: 8317), Prob: 0.0001
+Token: ' shown' (ID: 6839), Prob: 0.0001
+Token: ' destination' (ID: 9106), Prob: 0.0001
+Token: ' two' (ID: 1378), Prob: 0.0000
+Token: ' travels' (ID: 34192), Prob: 0.0000
+Token: ' traveller' (ID: 85194), Prob: 0.0000
+Token: ' journey' (ID: 11618), Prob: 0.0000
+Token: ' passenger' (ID: 23148), Prob: 0.0000
+Token: ' zero' (ID: 7168), Prob: 0.0000
+Token: ' tele' (ID: 7963), Prob: 0.0000
+Token: ' transition' (ID: 9142), Prob: 0.0000
+Token: ' delay' (ID: 7626), Prob: 0.0000
+Token: ' interval' (ID: 9873), Prob: 0.0000
+Token: ' frame' (ID: 4034), Prob: 0.0000
+Token: ' plane' (ID: 11031), Prob: 0.0000
+Token: ' dilation' (ID: 74278), Prob: 0.0000
+Token: ' manager' (ID: 6645), Prob: 0.0000
+Token: ' flight' (ID: 10971), Prob: 0.0000
+Token: ' operator' (ID: 5675), Prob: 0.0000
+Token: ' loop' (ID: 6337), Prob: 0.0000
+Token: ' triangle' (ID: 21495), Prob: 0.0000
+Token: ' display' (ID: 3037), Prob: 0.0000
+Token: ' regions' (ID: 13604), Prob: 0.0000
+Token: ' trader' (ID: 44365), Prob: 0.0000
+Token: ' taken' (ID: 4429), Prob: 0.0000
+Token: ' Zone' (ID: 22178), Prob: 0.0000
+Token: ' must' (ID: 1969), Prob: 0.0000
+Token: ' gap' (ID: 12929), Prob: 0.0000
+Token: ' tunnel' (ID: 25629), Prob: 0.0000
+Token: ' location' (ID: 3728), Prob: 0.0000
+Token: ' distance' (ID: 6010), Prob: 0.0000
+Token: ' shift' (ID: 6407), Prob: 0.0000
+Token: 'zone' (ID: 8684), Prob: 0.0000
+Token: ' total' (ID: 2790), Prob: 0.0000
+Token: ' periods' (ID: 18346), Prob: 0.0000
+Token: ' required' (ID: 2567), Prob: 0.0000
+Token: ' clock' (ID: 8866), Prob: 0.0000
+Token: ' window' (ID: 3241), Prob: 0.0000
+Token: ' series' (ID: 4013), Prob: 0.0000
+Token: ' saved' (ID: 6781), Prob: 0.0000
+Token: ' skip' (ID: 10706), Prob: 0.0000
+Token: ' discrepancy' (ID: 78005), Prob: 0.0000
+Token: ' line' (ID: 1555), Prob: 0.0000
+Token: ' spent' (ID: 7391), Prob: 0.0000
+Token: ' elapsed' (ID: 25333), Prob: 0.0000
+Token: ' would' (ID: 1035), Prob: 0.0000
+Token: ' fly' (ID: 11466), Prob: 0.0000
+Token: ' arrival' (ID: 18647), Prob: 0.0000
+Token: ' change' (ID: 2297), Prob: 0.0000
+Token: ' sequence' (ID: 8500), Prob: 0.0000
+Token: ' teleport' (ID: 49489), Prob: 0.0000
+Token: ' problem' (ID: 3491), Prob: 0.0000
+Token: ' displayed' (ID: 12596), Prob: 0.0000
+Token: ' bridge' (ID: 14164), Prob: 0.0000
+Token: ' dial' (ID: 27860), Prob: 0.0000
+Token: ' function' (ID: 729), Prob: 0.0000
+Token: ' one' (ID: 825), Prob: 0.0000
+Token: ' device' (ID: 3671), Prob: 0.0000
+Token: ' passed' (ID: 5823), Prob: 0.0000
+Token: ' leader' (ID: 7653), Prob: 0.0000
+
+== Ranked Concepts (Clusters) ==
+Rank 1 | Concept Score: 0.9336
+  Tokens: [' traveler', ' travel', ' travelers', ' traveled', ' traveling', ' trip', ' travels', ' traveller', ' journey', ' passenger']
+Rank 2 | Concept Score: 0.0640
+  Tokens: [' zone', ' zones', '-zone', ' Zone', 'zone']
+Rank 3 | Concept Score: 0.0003
+  Tokens: [' difference', ' gap', ' discrepancy']
+Rank 4 | Concept Score: 0.0002
+  Tokens: [' period', ' interval', ' periods']
+Rank 5 | Concept Score: 0.0002
+  Tokens: ['-tr']
+Rank 6 | Concept Score: 0.0002
+  Tokens: [' region', ' regions']
+Rank 7 | Concept Score: 0.0002
+  Tokens: [' two', ' zero', ' must', ' total', ' required', ' would', ' problem', ' one']
+Rank 8 | Concept Score: 0.0001
+  Tokens: [' machine', ' device']
+Rank 9 | Concept Score: 0.0001
+  Tokens: [' worker', ' manager', ' operator', ' trader', ' leader']
+Rank 10 | Concept Score: 0.0001
+  Tokens: [' transfer', ' transition', ' shift', ' change']
+Rank 11 | Concept Score: 0.0001
+  Tokens: [' frame', ' loop', ' triangle', ' window', ' series', ' line', ' sequence', ' function']
+Rank 12 | Concept Score: 0.0001
+  Tokens: [' delay', ' dilation', ' distance', ' skip', ' elapsed']
+Rank 13 | Concept Score: 0.0001
+  Tokens: [' shown', ' display', ' displayed']
+Rank 14 | Concept Score: 0.0001
+  Tokens: [' destination', ' location']
+Rank 15 | Concept Score: 0.0001
+  Tokens: [' tele', ' arrival', ' teleport', ' dial']
+Rank 16 | Concept Score: 0.0001
+  Tokens: [' plane', ' flight', ' fly']
+Rank 17 | Concept Score: 0.0000
+  Tokens: [' taken', ' saved', ' spent', ' passed']
+Rank 18 | Concept Score: 0.0000
+  Tokens: [' tunnel', ' bridge']
+Rank 19 | Concept Score: 0.0000
+  Tokens: [' clock']
+
+**Chosen Concept:** Rank 1 with score 0.9336

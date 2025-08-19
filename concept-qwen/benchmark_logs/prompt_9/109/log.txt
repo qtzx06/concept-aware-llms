@@ -1,0 +1,120 @@
+--- Step 109 Log ---
+
+== Filtered Candidates ==
+Token: ' dads' (ID: 88761), Prob: 0.9961
+Token: ' fathers' (ID: 39217), Prob: 0.0015
+Token: ' dad' (ID: 17760), Prob: 0.0008
+Token: ' moms' (ID: 46734), Prob: 0.0005
+Token: ' parents' (ID: 6562), Prob: 0.0002
+Token: ' dams' (ID: 82525), Prob: 0.0002
+Token: ' dogs' (ID: 12590), Prob: 0.0001
+Token: ' boys' (ID: 13007), Prob: 0.0000
+Token: ' daughters' (ID: 29868), Prob: 0.0000
+Token: ' Dad' (ID: 32521), Prob: 0.0000
+Token: ' guys' (ID: 7598), Prob: 0.0000
+Token: ' males' (ID: 24037), Prob: 0.0000
+Token: ' mothers' (ID: 26600), Prob: 0.0000
+Token: ' kids' (ID: 6837), Prob: 0.0000
+Token: ' families' (ID: 8521), Prob: 0.0000
+Token: ' sons' (ID: 25350), Prob: 0.0000
+Token: ' men' (ID: 2953), Prob: 0.0000
+Token: ' wives' (ID: 38620), Prob: 0.0000
+Token: ' girls' (ID: 7571), Prob: 0.0000
+Token: ' days' (ID: 2849), Prob: 0.0000
+Token: ' dfs' (ID: 25792), Prob: 0.0000
+Token: ' farmers' (ID: 20336), Prob: 0.0000
+Token: ' adults' (ID: 12598), Prob: 0.0000
+Token: ' folks' (ID: 15327), Prob: 0.0000
+Token: ' couples' (ID: 21264), Prob: 0.0000
+Token: ' females' (ID: 27485), Prob: 0.0000
+Token: ' elders' (ID: 60676), Prob: 0.0000
+Token: ' husbands' (ID: 60854), Prob: 0.0000
+Token: ' guns' (ID: 16362), Prob: 0.0000
+Token: ' Fathers' (ID: 75905), Prob: 0.0000
+Token: ' times' (ID: 3039), Prob: 0.0000
+Token: ' dat' (ID: 3258), Prob: 0.0000
+Token: ' diam' (ID: 12757), Prob: 0.0000
+Token: ' dam' (ID: 3739), Prob: 0.0000
+Token: ' ladies' (ID: 22786), Prob: 0.0000
+Token: ' gays' (ID: 56477), Prob: 0.0000
+Token: ' cops' (ID: 34217), Prob: 0.0000
+Token: ' Moms' (ID: 83295), Prob: 0.0000
+Token: ' dicks' (ID: 95498), Prob: 0.0000
+Token: ' das' (ID: 6616), Prob: 0.0000
+Token: ' bosses' (ID: 41747), Prob: 0.0000
+Token: ' deputies' (ID: 52828), Prob: 0.0000
+Token: ' diffs' (ID: 86947), Prob: 0.0000
+Token: ' doctors' (ID: 16026), Prob: 0.0000
+Token: ' babies' (ID: 23920), Prob: 0.0000
+Token: ' docs' (ID: 26340), Prob: 0.0000
+Token: ' women' (ID: 3198), Prob: 0.0000
+Token: ' dos' (ID: 8750), Prob: 0.0000
+Token: ' decades' (ID: 10793), Prob: 0.0000
+Token: ' tops' (ID: 32422), Prob: 0.0000
+Token: ' pigs' (ID: 48810), Prob: 0.0000
+Token: ' grands' (ID: 93427), Prob: 0.0000
+Token: ' lawyers' (ID: 21177), Prob: 0.0000
+Token: ' dresses' (ID: 36762), Prob: 0.0000
+Token: ' damp' (ID: 40269), Prob: 0.0000
+Token: ' grads' (ID: 69481), Prob: 0.0000
+Token: ' pairs' (ID: 13530), Prob: 0.0000
+Token: ' radios' (ID: 70069), Prob: 0.0000
+Token: ' years' (ID: 1635), Prob: 0.0000
+Token: ' hands' (ID: 6078), Prob: 0.0000
+Token: ' emails' (ID: 14298), Prob: 0.0000
+Token: ' finals' (ID: 40302), Prob: 0.0000
+Token: ' cows' (ID: 45166), Prob: 0.0000
+Token: ' olds' (ID: 78473), Prob: 0.0000
+Token: ' fours' (ID: 89620), Prob: 0.0000
+Token: ' fans' (ID: 7211), Prob: 0.0000
+Token: ' father' (ID: 6981), Prob: 0.0000
+Token: ' dies' (ID: 8725), Prob: 0.0000
+Token: ' youths' (ID: 63962), Prob: 0.0000
+Token: ' thirds' (ID: 93137), Prob: 0.0000
+Token: ' brothers' (ID: 20208), Prob: 0.0000
+
+== Ranked Concepts (Clusters) ==
+Rank 1 | Concept Score: 1.0000
+  Tokens: [' dads', ' fathers', ' dad', ' Dad', ' Fathers', ' father']
+Rank 2 | Concept Score: 0.0006
+  Tokens: [' moms', ' Moms']
+Rank 3 | Concept Score: 0.0003
+  Tokens: [' parents', ' mothers', ' families']
+Rank 4 | Concept Score: 0.0002
+  Tokens: [' dams', ' dam', ' damp']
+Rank 5 | Concept Score: 0.0001
+  Tokens: [' dogs', ' farmers', ' doctors', ' pigs', ' lawyers', ' cows', ' fans']
+Rank 6 | Concept Score: 0.0001
+  Tokens: [' boys', ' men']
+Rank 7 | Concept Score: 0.0000
+  Tokens: [' daughters', ' sons', ' brothers']
+Rank 8 | Concept Score: 0.0000
+  Tokens: [' males', ' girls', ' females', ' ladies', ' women']
+Rank 9 | Concept Score: 0.0000
+  Tokens: [' guys', ' folks', ' docs']
+Rank 10 | Concept Score: 0.0000
+  Tokens: [' dfs', ' dat', ' diam', ' das', ' dos', ' dies']
+Rank 11 | Concept Score: 0.0000
+  Tokens: [' kids', ' babies', ' youths']
+Rank 12 | Concept Score: 0.0000
+  Tokens: [' days', ' times', ' decades', ' years']
+Rank 13 | Concept Score: 0.0000
+  Tokens: [' wives', ' husbands']
+Rank 14 | Concept Score: 0.0000
+  Tokens: [' adults', ' elders']
+Rank 15 | Concept Score: 0.0000
+  Tokens: [' gays', ' dicks', ' fours', ' thirds']
+Rank 16 | Concept Score: 0.0000
+  Tokens: [' guns', ' dresses', ' radios', ' emails']
+Rank 17 | Concept Score: 0.0000
+  Tokens: [' couples', ' pairs', ' hands']
+Rank 18 | Concept Score: 0.0000
+  Tokens: [' diffs', ' tops', ' grads']
+Rank 19 | Concept Score: 0.0000
+  Tokens: [' cops', ' bosses']
+Rank 20 | Concept Score: 0.0000
+  Tokens: [' grands', ' finals', ' olds']
+Rank 21 | Concept Score: 0.0000
+  Tokens: [' deputies']
+
+**Chosen Concept:** Rank 1 with score 1.0000

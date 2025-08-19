@@ -1,0 +1,117 @@
+--- Step 121 Log ---
+
+== Filtered Candidates ==
+Token: ' snow' (ID: 11794), Prob: 1.0000
+Token: ' weather' (ID: 9104), Prob: 0.0001
+Token: ' sun' (ID: 7015), Prob: 0.0000
+Token: ' rain' (ID: 11174), Prob: 0.0000
+Token: ' snowy' (ID: 89773), Prob: 0.0000
+Token: ' winter' (ID: 12406), Prob: 0.0000
+Token: ' storm' (ID: 13458), Prob: 0.0000
+Token: 'snow' (ID: 74478), Prob: 0.0000
+Token: ' season' (ID: 3200), Prob: 0.0000
+Token: ' wind' (ID: 9956), Prob: 0.0000
+Token: ' Snow' (ID: 18901), Prob: 0.0000
+Token: ' magic' (ID: 10963), Prob: 0.0000
+Token: ' mountain' (ID: 16301), Prob: 0.0000
+Token: ' night' (ID: 3729), Prob: 0.0000
+Token: ' cold' (ID: 9255), Prob: 0.0000
+Token: ' noise' (ID: 11980), Prob: 0.0000
+Token: ' south' (ID: 9806), Prob: 0.0000
+Token: ' north' (ID: 10200), Prob: 0.0000
+Token: ' next' (ID: 1790), Prob: 0.0000
+Token: ' ice' (ID: 9853), Prob: 0.0000
+Token: ' sound' (ID: 5112), Prob: 0.0000
+Token: ' first' (ID: 1156), Prob: 0.0000
+Token: ' mess' (ID: 9435), Prob: 0.0000
+Token: ' snap' (ID: 10658), Prob: 0.0000
+Token: ' sno' (ID: 65084), Prob: 0.0000
+Token: ' one' (ID: 825), Prob: 0.0000
+Token: ' following' (ID: 2701), Prob: 0.0000
+Token: ' last' (ID: 1537), Prob: 0.0000
+Token: ' frost' (ID: 44734), Prob: 0.0000
+Token: ' world' (ID: 1879), Prob: 0.0000
+Token: ' story' (ID: 3364), Prob: 0.0000
+Token: ' slope' (ID: 30232), Prob: 0.0000
+Token: ' seasons' (ID: 15584), Prob: 0.0000
+Token: ' scroll' (ID: 9059), Prob: 0.0000
+Token: ' sand' (ID: 9278), Prob: 0.0000
+Token: ' holiday' (ID: 13257), Prob: 0.0000
+Token: ' new' (ID: 501), Prob: 0.0000
+Token: ' sentence' (ID: 11652), Prob: 0.0000
+Token: ' two' (ID: 1378), Prob: 0.0000
+Token: ' stand' (ID: 2498), Prob: 0.0000
+Token: ' music' (ID: 4627), Prob: 0.0000
+Token: ' small' (ID: 2613), Prob: 0.0000
+Token: ' news' (ID: 3669), Prob: 0.0000
+Token: ' spring' (ID: 10464), Prob: 0.0000
+Token: ' ski' (ID: 28679), Prob: 0.0000
+Token: ' rest' (ID: 2732), Prob: 0.0000
+Token: ' sleep' (ID: 6084), Prob: 0.0000
+Token: ' snake' (ID: 25265), Prob: 0.0000
+Token: ' schn' (ID: 41130), Prob: 0.0000
+Token: ' fun' (ID: 2464), Prob: 0.0000
+Token: ' situation' (ID: 6534), Prob: 0.0000
+Token: ' rust' (ID: 23071), Prob: 0.0000
+Token: ' song' (ID: 5492), Prob: 0.0000
+Token: ' scene' (ID: 6109), Prob: 0.0000
+Token: ' message' (ID: 1943), Prob: 0.0000
+Token: ' reason' (ID: 2874), Prob: 0.0000
+Token: ' answer' (ID: 4226), Prob: 0.0000
+Token: ' moon' (ID: 17788), Prob: 0.0000
+Token: ' sch' (ID: 5699), Prob: 0.0000
+Token: ' scenery' (ID: 50231), Prob: 0.0000
+Token: ' three' (ID: 2326), Prob: 0.0000
+Token: ' problem' (ID: 3491), Prob: 0.0000
+Token: ' mystery' (ID: 22531), Prob: 0.0000
+Token: ' narrator' (ID: 64171), Prob: 0.0000
+Token: ' great' (ID: 2244), Prob: 0.0000
+Token: ' sea' (ID: 9396), Prob: 0.0000
+
+== Ranked Concepts (Clusters) ==
+Rank 1 | Concept Score: 1.0000
+  Tokens: [' snow', ' snowy', 'snow', ' Snow', ' cold', ' ice', ' frost', ' ski']
+Rank 2 | Concept Score: 0.0002
+  Tokens: [' weather', ' sun', ' rain', ' storm', ' wind', ' moon', ' sea']
+Rank 3 | Concept Score: 0.0000
+  Tokens: [' winter', ' season', ' seasons', ' holiday', ' spring']
+Rank 4 | Concept Score: 0.0000
+  Tokens: [' next', ' first', ' following', ' last', ' new']
+Rank 5 | Concept Score: 0.0000
+  Tokens: [' noise', ' sound', ' music', ' song']
+Rank 6 | Concept Score: 0.0000
+  Tokens: [' south', ' north']
+Rank 7 | Concept Score: 0.0000
+  Tokens: [' snap', ' sno', ' snake', ' schn', ' sch']
+Rank 8 | Concept Score: 0.0000
+  Tokens: [' magic', ' mystery', ' narrator']
+Rank 9 | Concept Score: 0.0000
+  Tokens: [' night', ' sleep']
+Rank 10 | Concept Score: 0.0000
+  Tokens: [' mountain']
+Rank 11 | Concept Score: 0.0000
+  Tokens: [' story', ' sentence', ' situation', ' scene', ' scenery']
+Rank 12 | Concept Score: 0.0000
+  Tokens: [' mess', ' news', ' message', ' answer']
+Rank 13 | Concept Score: 0.0000
+  Tokens: [' one', ' two', ' small', ' three']
+Rank 14 | Concept Score: 0.0000
+  Tokens: [' slope', ' scroll']
+Rank 15 | Concept Score: 0.0000
+  Tokens: [' world', ' problem']
+Rank 16 | Concept Score: 0.0000
+  Tokens: [' sand']
+Rank 17 | Concept Score: 0.0000
+  Tokens: [' stand']
+Rank 18 | Concept Score: 0.0000
+  Tokens: [' rest']
+Rank 19 | Concept Score: 0.0000
+  Tokens: [' fun']
+Rank 20 | Concept Score: 0.0000
+  Tokens: [' rust']
+Rank 21 | Concept Score: 0.0000
+  Tokens: [' reason']
+Rank 22 | Concept Score: 0.0000
+  Tokens: [' great']
+
+**Chosen Concept:** Rank 1 with score 1.0000

@@ -1,0 +1,71 @@
+--- Step 40 Log ---
+
+== Filtered Candidates ==
+Token: ' one' (ID: 825), Prob: 0.6484
+Token: ' etc' (ID: 4992), Prob: 0.0039
+Token: ' eight' (ID: 8063), Prob: 0.0013
+Token: ' ten' (ID: 5779), Prob: 0.0012
+Token: ' two' (ID: 1378), Prob: 0.0011
+Token: ' seven' (ID: 8094), Prob: 0.0011
+Token: ' either' (ID: 2987), Prob: 0.0006
+Token: ' six' (ID: 4743), Prob: 0.0005
+Token: ' five' (ID: 4236), Prob: 0.0005
+Token: ' maybe' (ID: 7196), Prob: 0.0003
+Token: ' perhaps' (ID: 8365), Prob: 0.0003
+Token: ' eleven' (ID: 44214), Prob: 0.0003
+Token: ' three' (ID: 2326), Prob: 0.0003
+Token: ' One' (ID: 3776), Prob: 0.0003
+Token: ' nine' (ID: 11627), Prob: 0.0003
+Token: ' none' (ID: 6857), Prob: 0.0002
+Token: ' four' (ID: 3040), Prob: 0.0002
+Token: ' plus' (ID: 5519), Prob: 0.0002
+Token: ' something' (ID: 2494), Prob: 0.0002
+Token: ' twelve' (ID: 29235), Prob: 0.0002
+Token: ' another' (ID: 2441), Prob: 0.0001
+Token: 'one' (ID: 603), Prob: 0.0001
+Token: ' since' (ID: 2474), Prob: 0.0001
+Token: ' possibly' (ID: 10767), Prob: 0.0001
+Token: ' whichever' (ID: 53684), Prob: 0.0001
+Token: ' even' (ID: 1496), Prob: 0.0001
+Token: ' still' (ID: 2058), Prob: 0.0001
+Token: ' unless' (ID: 7241), Prob: 0.0001
+Token: ' also' (ID: 1083), Prob: 0.0001
+Token: ' say' (ID: 1977), Prob: 0.0001
+Token: ' twenty' (ID: 17073), Prob: 0.0001
+Token: ' right' (ID: 1290), Prob: 0.0001
+Token: ' among' (ID: 4221), Prob: 0.0001
+Token: ' however' (ID: 4764), Prob: 0.0001
+Token: ' ONE' (ID: 24038), Prob: 0.0001
+Token: ' without' (ID: 2041), Prob: 0.0001
+Token: ' let' (ID: 1077), Prob: 0.0001
+Token: ' wait' (ID: 3783), Prob: 0.0001
+
+== Ranked Concepts (Clusters) ==
+Rank 1 | Concept Score: 0.6484
+  Tokens: [' one', ' One', 'one', ' ONE']
+Rank 2 | Concept Score: 0.0053
+  Tokens: [' eight', ' ten', ' seven', ' six', ' five', ' eleven', ' nine', ' twelve', ' twenty']
+Rank 3 | Concept Score: 0.0043
+  Tokens: [' etc', ' none', ' plus', ' among']
+Rank 4 | Concept Score: 0.0016
+  Tokens: [' two', ' three', ' four']
+Rank 5 | Concept Score: 0.0008
+  Tokens: [' maybe', ' perhaps', ' possibly']
+Rank 6 | Concept Score: 0.0007
+  Tokens: [' either', ' whichever']
+Rank 7 | Concept Score: 0.0003
+  Tokens: [' something', ' another']
+Rank 8 | Concept Score: 0.0002
+  Tokens: [' since', ' unless', ' without']
+Rank 9 | Concept Score: 0.0002
+  Tokens: [' say', ' let', ' wait']
+Rank 10 | Concept Score: 0.0002
+  Tokens: [' still', ' also']
+Rank 11 | Concept Score: 0.0001
+  Tokens: [' even']
+Rank 12 | Concept Score: 0.0001
+  Tokens: [' right']
+Rank 13 | Concept Score: 0.0001
+  Tokens: [' however']
+
+**Chosen Concept:** Rank 1 with score 0.6484

@@ -1,0 +1,91 @@
+--- Step 122 Log ---
+
+== Filtered Candidates ==
+Token: ' time' (ID: 882), Prob: 0.9961
+Token: ' zone' (ID: 10143), Prob: 0.0012
+Token: ' timezone' (ID: 33957), Prob: 0.0001
+Token: ' hour' (ID: 6460), Prob: 0.0000
+Token: ' city' (ID: 3283), Prob: 0.0000
+Token: ' region' (ID: 5537), Prob: 0.0000
+Token: ' location' (ID: 3728), Prob: 0.0000
+Token: ' times' (ID: 3039), Prob: 0.0000
+Token: ' area' (ID: 3082), Prob: 0.0000
+Token: ' date' (ID: 2400), Prob: 0.0000
+Token: ' state' (ID: 1584), Prob: 0.0000
+Token: '(time' (ID: 9730), Prob: 0.0000
+Token: ' destination' (ID: 9106), Prob: 0.0000
+Token: '_time' (ID: 3009), Prob: 0.0000
+Token: ' tim' (ID: 6792), Prob: 0.0000
+Token: ' Time' (ID: 4120), Prob: 0.0000
+Token: ' one' (ID: 825), Prob: 0.0000
+Token: ' moment' (ID: 4445), Prob: 0.0000
+Token: '-time' (ID: 7246), Prob: 0.0000
+Token: ' clock' (ID: 8866), Prob: 0.0000
+Token: ' position' (ID: 2309), Prob: 0.0000
+Token: '.time' (ID: 6378), Prob: 0.0000
+Token: ' timed' (ID: 25182), Prob: 0.0000
+Token: ' air' (ID: 3720), Prob: 0.0000
+Token: ' day' (ID: 1899), Prob: 0.0000
+Token: ' point' (ID: 1459), Prob: 0.0000
+Token: ' age' (ID: 4231), Prob: 0.0000
+Token: ' Zeit' (ID: 28831), Prob: 0.0000
+Token: ' year' (ID: 1042), Prob: 0.0000
+Token: ' room' (ID: 3054), Prob: 0.0000
+Token: ' floor' (ID: 6422), Prob: 0.0000
+Token: ' timing' (ID: 18405), Prob: 0.0000
+Token: 'time' (ID: 1678), Prob: 0.0000
+Token: ' immediately' (ID: 7069), Prob: 0.0000
+Token: ' system' (ID: 1849), Prob: 0.0000
+Token: ' flight' (ID: 10971), Prob: 0.0000
+Token: ' timeline' (ID: 24808), Prob: 0.0000
+Token: '/time' (ID: 35263), Prob: 0.0000
+Token: ' space' (ID: 3550), Prob: 0.0000
+Token: ' universe' (ID: 15494), Prob: 0.0000
+Token: ' future' (ID: 3853), Prob: 0.0000
+Token: ' round' (ID: 4778), Prob: 0.0000
+Token: ' era' (ID: 11385), Prob: 0.0000
+Token: '"time' (ID: 32139), Prob: 0.0000
+Token: ' period' (ID: 4168), Prob: 0.0000
+Token: ' address' (ID: 2621), Prob: 0.0000
+Token: ' night' (ID: 3729), Prob: 0.0000
+Token: ' east' (ID: 10984), Prob: 0.0000
+Token: ' timestamp' (ID: 11441), Prob: 0.0000
+Token: ' territory' (ID: 17971), Prob: 0.0000
+Token: ' experience' (ID: 3139), Prob: 0.0000
+Token: ' country' (ID: 3146), Prob: 0.0000
+Token: ' airport' (ID: 16733), Prob: 0.0000
+Token: '	time' (ID: 21957), Prob: 0.0000
+
+== Ranked Concepts (Clusters) ==
+Rank 1 | Concept Score: 0.9961
+  Tokens: [' time', ' times', '(time', '_time', ' Time', '-time', '.time', ' Zeit', 'time', '/time', '"time', '\ttime']
+Rank 2 | Concept Score: 0.0012
+  Tokens: [' zone', ' region', ' area', ' territory']
+Rank 3 | Concept Score: 0.0001
+  Tokens: [' timezone']
+Rank 4 | Concept Score: 0.0001
+  Tokens: [' hour', ' day', ' year', ' night']
+Rank 5 | Concept Score: 0.0001
+  Tokens: [' city', ' state', ' country']
+Rank 6 | Concept Score: 0.0000
+  Tokens: [' location', ' destination', ' position', ' point']
+Rank 7 | Concept Score: 0.0000
+  Tokens: [' tim', ' clock', ' timed', ' timing', ' timeline', ' timestamp']
+Rank 8 | Concept Score: 0.0000
+  Tokens: [' one', ' moment', ' immediately', ' experience']
+Rank 9 | Concept Score: 0.0000
+  Tokens: [' date']
+Rank 10 | Concept Score: 0.0000
+  Tokens: [' air', ' flight', ' east', ' airport']
+Rank 11 | Concept Score: 0.0000
+  Tokens: [' room', ' floor', ' round']
+Rank 12 | Concept Score: 0.0000
+  Tokens: [' system', ' universe', ' future']
+Rank 13 | Concept Score: 0.0000
+  Tokens: [' age', ' address']
+Rank 14 | Concept Score: 0.0000
+  Tokens: [' era', ' period']
+Rank 15 | Concept Score: 0.0000
+  Tokens: [' space']
+
+**Chosen Concept:** Rank 1 with score 0.9961

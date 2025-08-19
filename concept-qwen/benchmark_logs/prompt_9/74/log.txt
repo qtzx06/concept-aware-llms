@@ -1,0 +1,127 @@
+--- Step 74 Log ---
+
+== Filtered Candidates ==
+Token: ' moms' (ID: 46734), Prob: 0.9961
+Token: ' mothers' (ID: 26600), Prob: 0.0013
+Token: ' Moms' (ID: 83295), Prob: 0.0007
+Token: ' mom' (ID: 3368), Prob: 0.0004
+Token: ' women' (ID: 3198), Prob: 0.0001
+Token: ' dams' (ID: 82525), Prob: 0.0001
+Token: ' dads' (ID: 88761), Prob: 0.0001
+Token: ' parents' (ID: 6562), Prob: 0.0000
+Token: ' daughters' (ID: 29868), Prob: 0.0000
+Token: ' girls' (ID: 7571), Prob: 0.0000
+Token: ' moons' (ID: 80160), Prob: 0.0000
+Token: ' ladies' (ID: 22786), Prob: 0.0000
+Token: ' sons' (ID: 25350), Prob: 0.0000
+Token: ' wives' (ID: 38620), Prob: 0.0000
+Token: ' mods' (ID: 28254), Prob: 0.0000
+Token: ' homes' (ID: 10415), Prob: 0.0000
+Token: ' kids' (ID: 6837), Prob: 0.0000
+Token: ' meds' (ID: 83807), Prob: 0.0000
+Token: ' thirds' (ID: 93137), Prob: 0.0000
+Token: ' cows' (ID: 45166), Prob: 0.0000
+Token: ' mother' (ID: 6554), Prob: 0.0000
+Token: ' mouths' (ID: 64509), Prob: 0.0000
+Token: ' Mom' (ID: 22180), Prob: 0.0000
+Token: ' maternal' (ID: 49050), Prob: 0.0000
+Token: ' females' (ID: 27485), Prob: 0.0000
+Token: ' times' (ID: 3039), Prob: 0.0000
+Token: ' mats' (ID: 61056), Prob: 0.0000
+Token: ' teachers' (ID: 13336), Prob: 0.0000
+Token: ' husbands' (ID: 60854), Prob: 0.0000
+Token: ' families' (ID: 8521), Prob: 0.0000
+Token: ' boys' (ID: 13007), Prob: 0.0000
+Token: ' males' (ID: 24037), Prob: 0.0000
+Token: ' mins' (ID: 24835), Prob: 0.0000
+Token: ' dogs' (ID: 12590), Prob: 0.0000
+Token: ' dolls' (ID: 63781), Prob: 0.0000
+Token: ' morals' (ID: 80336), Prob: 0.0000
+Token: ' womens' (ID: 87361), Prob: 0.0000
+Token: ' new' (ID: 501), Prob: 0.0000
+Token: ' children' (ID: 2841), Prob: 0.0000
+Token: ' mama' (ID: 56164), Prob: 0.0000
+Token: ' masses' (ID: 31638), Prob: 0.0000
+Token: ' cops' (ID: 34217), Prob: 0.0000
+Token: ' nurses' (ID: 36365), Prob: 0.0000
+Token: ' men' (ID: 2953), Prob: 0.0000
+Token: ' pots' (ID: 50031), Prob: 0.0000
+Token: ' mornings' (ID: 57202), Prob: 0.0000
+Token: ' nights' (ID: 21461), Prob: 0.0000
+Token: ' wars' (ID: 24936), Prob: 0.0000
+Token: ' majors' (ID: 55233), Prob: 0.0000
+Token: ' mills' (ID: 31908), Prob: 0.0000
+Token: ' marriages' (ID: 46351), Prob: 0.0000
+Token: ' malls' (ID: 83368), Prob: 0.0000
+Token: ' million' (ID: 3526), Prob: 0.0000
+Token: ' ways' (ID: 5510), Prob: 0.0000
+Token: ' adults' (ID: 12598), Prob: 0.0000
+Token: ' folks' (ID: 15327), Prob: 0.0000
+Token: ' meters' (ID: 20044), Prob: 0.0000
+Token: ' babies' (ID: 23920), Prob: 0.0000
+Token: ' dresses' (ID: 36762), Prob: 0.0000
+Token: ' members' (ID: 3613), Prob: 0.0000
+Token: ' banks' (ID: 13959), Prob: 0.0000
+Token: ' cats' (ID: 19423), Prob: 0.0000
+Token: ' generations' (ID: 21787), Prob: 0.0000
+Token: ' moments' (ID: 13943), Prob: 0.0000
+Token: ' days' (ID: 2849), Prob: 0.0000
+Token: ' downs' (ID: 39191), Prob: 0.0000
+Token: ' fathers' (ID: 39217), Prob: 0.0000
+Token: ' young' (ID: 3908), Prob: 0.0000
+Token: ' odds' (ID: 20785), Prob: 0.0000
+Token: ' bosses' (ID: 41747), Prob: 0.0000
+Token: ' mobs' (ID: 72392), Prob: 0.0000
+Token: ' docs' (ID: 26340), Prob: 0.0000
+
+== Ranked Concepts (Clusters) ==
+Rank 1 | Concept Score: 1.0000
+  Tokens: [' moms', ' mothers', ' Moms', ' mom', ' parents', ' mother', ' Mom', ' maternal', ' mama']
+Rank 2 | Concept Score: 0.0001
+  Tokens: [' women', ' girls', ' ladies', ' females', ' womens']
+Rank 3 | Concept Score: 0.0001
+  Tokens: [' dams', ' mats', ' dolls', ' pots']
+Rank 4 | Concept Score: 0.0001
+  Tokens: [' dads', ' fathers']
+Rank 5 | Concept Score: 0.0000
+  Tokens: [' daughters', ' sons']
+Rank 6 | Concept Score: 0.0000
+  Tokens: [' moons', ' mouths']
+Rank 7 | Concept Score: 0.0000
+  Tokens: [' mods', ' meds', ' mins', ' morals']
+Rank 8 | Concept Score: 0.0000
+  Tokens: [' wives', ' husbands', ' marriages']
+Rank 9 | Concept Score: 0.0000
+  Tokens: [' kids', ' children', ' adults', ' babies']
+Rank 10 | Concept Score: 0.0000
+  Tokens: [' homes', ' wars', ' dresses']
+Rank 11 | Concept Score: 0.0000
+  Tokens: [' cows', ' dogs', ' cats']
+Rank 12 | Concept Score: 0.0000
+  Tokens: [' boys', ' males', ' men']
+Rank 13 | Concept Score: 0.0000
+  Tokens: [' teachers', ' nurses', ' banks']
+Rank 14 | Concept Score: 0.0000
+  Tokens: [' thirds']
+Rank 15 | Concept Score: 0.0000
+  Tokens: [' times', ' ways', ' moments']
+Rank 16 | Concept Score: 0.0000
+  Tokens: [' cops', ' malls', ' bosses', ' mobs']
+Rank 17 | Concept Score: 0.0000
+  Tokens: [' mills', ' million', ' meters', ' odds']
+Rank 18 | Concept Score: 0.0000
+  Tokens: [' mornings', ' nights', ' days']
+Rank 19 | Concept Score: 0.0000
+  Tokens: [' new', ' members', ' young']
+Rank 20 | Concept Score: 0.0000
+  Tokens: [' masses', ' majors']
+Rank 21 | Concept Score: 0.0000
+  Tokens: [' families']
+Rank 22 | Concept Score: 0.0000
+  Tokens: [' folks', ' docs']
+Rank 23 | Concept Score: 0.0000
+  Tokens: [' generations']
+Rank 24 | Concept Score: 0.0000
+  Tokens: [' downs']
+
+**Chosen Concept:** Rank 1 with score 1.0000

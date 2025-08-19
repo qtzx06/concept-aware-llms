@@ -1,0 +1,128 @@
+--- Step 18 Log ---
+
+== Filtered Candidates ==
+Token: ' moms' (ID: 46734), Prob: 0.6836
+Token: ' dads' (ID: 88761), Prob: 0.0928
+Token: ' mothers' (ID: 26600), Prob: 0.0266
+Token: ' girls' (ID: 7571), Prob: 0.0183
+Token: ' women' (ID: 3198), Prob: 0.0118
+Token: ' daughters' (ID: 29868), Prob: 0.0104
+Token: ' mom' (ID: 3368), Prob: 0.0086
+Token: ' kids' (ID: 6837), Prob: 0.0086
+Token: ' Moms' (ID: 83295), Prob: 0.0076
+Token: ' parents' (ID: 6562), Prob: 0.0071
+Token: ' wives' (ID: 38620), Prob: 0.0063
+Token: ' sons' (ID: 25350), Prob: 0.0049
+Token: ' dad' (ID: 17760), Prob: 0.0046
+Token: ' boys' (ID: 13007), Prob: 0.0036
+Token: ' ladies' (ID: 22786), Prob: 0.0032
+Token: ' fathers' (ID: 39217), Prob: 0.0026
+Token: ' men' (ID: 2953), Prob: 0.0020
+Token: ' husbands' (ID: 60854), Prob: 0.0019
+Token: ' dams' (ID: 82525), Prob: 0.0019
+Token: ' couples' (ID: 21264), Prob: 0.0017
+Token: ' new' (ID: 501), Prob: 0.0012
+Token: ' families' (ID: 8521), Prob: 0.0011
+Token: ' females' (ID: 27485), Prob: 0.0011
+Token: ' dogs' (ID: 12590), Prob: 0.0010
+Token: ' children' (ID: 2841), Prob: 0.0010
+Token: ' guys' (ID: 7598), Prob: 0.0010
+Token: ' cows' (ID: 45166), Prob: 0.0009
+Token: ' males' (ID: 24037), Prob: 0.0008
+Token: ' cops' (ID: 34217), Prob: 0.0008
+Token: ' grand' (ID: 6662), Prob: 0.0007
+Token: ' times' (ID: 3039), Prob: 0.0007
+Token: ' cats' (ID: 19423), Prob: 0.0006
+Token: ' people' (ID: 1251), Prob: 0.0006
+Token: ' sets' (ID: 7289), Prob: 0.0006
+Token: ' nurses' (ID: 36365), Prob: 0.0006
+Token: ' adults' (ID: 12598), Prob: 0.0005
+Token: ' sisters' (ID: 29293), Prob: 0.0005
+Token: ' young' (ID: 3908), Prob: 0.0005
+Token: ' brothers' (ID: 20208), Prob: 0.0005
+Token: ' marriages' (ID: 46351), Prob: 0.0005
+Token: ' toddlers' (ID: 78835), Prob: 0.0005
+Token: ' different' (ID: 2155), Prob: 0.0005
+Token: ' babies' (ID: 23920), Prob: 0.0005
+Token: ' Dad' (ID: 32521), Prob: 0.0005
+Token: ' dolls' (ID: 63781), Prob: 0.0005
+Token: ' moons' (ID: 80160), Prob: 0.0005
+Token: ' sides' (ID: 11067), Prob: 0.0004
+Token: ' mins' (ID: 24835), Prob: 0.0004
+Token: ' grandparents' (ID: 55335), Prob: 0.0004
+Token: ' homes' (ID: 10415), Prob: 0.0004
+Token: ' guns' (ID: 16362), Prob: 0.0004
+Token: ' teens' (ID: 26202), Prob: 0.0004
+Token: ' doctors' (ID: 16026), Prob: 0.0003
+Token: ' pigs' (ID: 48810), Prob: 0.0003
+Token: ' thirds' (ID: 93137), Prob: 0.0003
+Token: ' ways' (ID: 5510), Prob: 0.0003
+Token: ' pairs' (ID: 13530), Prob: 0.0003
+Token: ' elders' (ID: 60676), Prob: 0.0003
+Token: ' mother' (ID: 6554), Prob: 0.0002
+Token: ' full' (ID: 2480), Prob: 0.0002
+Token: ' womens' (ID: 87361), Prob: 0.0002
+Token: ' old' (ID: 2310), Prob: 0.0002
+Token: ' folks' (ID: 15327), Prob: 0.0002
+Token: ' dow' (ID: 56487), Prob: 0.0002
+Token: ' brides' (ID: 60265), Prob: 0.0002
+Token: ' lawyers' (ID: 21177), Prob: 0.0002
+Token: ' teachers' (ID: 13336), Prob: 0.0002
+Token: ' odds' (ID: 20785), Prob: 0.0002
+Token: ' Mom' (ID: 22180), Prob: 0.0002
+Token: ' grads' (ID: 69481), Prob: 0.0002
+Token: ' million' (ID: 3526), Prob: 0.0002
+Token: ' bosses' (ID: 41747), Prob: 0.0002
+Token: ' weddings' (ID: 54244), Prob: 0.0002
+Token: ' friends' (ID: 4780), Prob: 0.0002
+Token: ' lives' (ID: 6305), Prob: 0.0002
+Token: ' older' (ID: 9014), Prob: 0.0002
+Token: ' churches' (ID: 29912), Prob: 0.0002
+Token: ' dresses' (ID: 36762), Prob: 0.0002
+Token: ' little' (ID: 2632), Prob: 0.0002
+Token: ' days' (ID: 2849), Prob: 0.0002
+Token: ' others' (ID: 3800), Prob: 0.0002
+
+== Ranked Concepts (Clusters) ==
+Rank 1 | Concept Score: 0.7344
+  Tokens: [' moms', ' mothers', ' mom', ' Moms', ' parents', ' mother', ' Mom']
+Rank 2 | Concept Score: 0.1006
+  Tokens: [' dads', ' dad', ' fathers', ' Dad']
+Rank 3 | Concept Score: 0.0347
+  Tokens: [' girls', ' women', ' ladies', ' females', ' womens']
+Rank 4 | Concept Score: 0.0164
+  Tokens: [' daughters', ' sons', ' sisters', ' brothers']
+Rank 5 | Concept Score: 0.0109
+  Tokens: [' kids', ' children', ' toddlers', ' babies', ' teens']
+Rank 6 | Concept Score: 0.0108
+  Tokens: [' wives', ' husbands', ' couples', ' marriages', ' brides', ' weddings']
+Rank 7 | Concept Score: 0.0064
+  Tokens: [' boys', ' men', ' males']
+Rank 8 | Concept Score: 0.0032
+  Tokens: [' new', ' grand', ' different', ' full', ' old', ' older', ' little']
+Rank 9 | Concept Score: 0.0032
+  Tokens: [' dogs', ' cows', ' cats', ' guns', ' pigs']
+Rank 10 | Concept Score: 0.0030
+  Tokens: [' times', ' sets', ' sides', ' homes', ' ways', ' pairs', ' million', ' lives', ' days']
+Rank 11 | Concept Score: 0.0023
+  Tokens: [' dams', ' dow', ' dresses']
+Rank 12 | Concept Score: 0.0018
+  Tokens: [' guys', ' people', ' folks']
+Rank 13 | Concept Score: 0.0015
+  Tokens: [' nurses', ' doctors', ' lawyers', ' teachers', ' churches']
+Rank 14 | Concept Score: 0.0012
+  Tokens: [' cops', ' grads', ' bosses']
+Rank 15 | Concept Score: 0.0011
+  Tokens: [' families']
+Rank 16 | Concept Score: 0.0010
+  Tokens: [' adults', ' young']
+Rank 17 | Concept Score: 0.0009
+  Tokens: [' dolls', ' moons']
+Rank 18 | Concept Score: 0.0009
+  Tokens: [' mins', ' thirds', ' odds']
+Rank 19 | Concept Score: 0.0006
+  Tokens: [' grandparents', ' elders']
+Rank 20 | Concept Score: 0.0003
+  Tokens: [' friends', ' others']
+
+**Chosen Concept:** Rank 1 with score 0.7344

@@ -1,0 +1,103 @@
+--- Step 59 Log ---
+
+== Filtered Candidates ==
+Token: ' friendship' (ID: 26509), Prob: 1.0000
+Token: ' friends' (ID: 4780), Prob: 0.0002
+Token: ' friend' (ID: 4238), Prob: 0.0001
+Token: ' friendships' (ID: 61981), Prob: 0.0001
+Token: ' Friendship' (ID: 72069), Prob: 0.0001
+Token: ' freedom' (ID: 11290), Prob: 0.0000
+Token: ' magic' (ID: 10963), Prob: 0.0000
+Token: ' life' (ID: 2272), Prob: 0.0000
+Token: ' kindness' (ID: 44872), Prob: 0.0000
+Token: ' loneliness' (ID: 73940), Prob: 0.0000
+Token: ' friendly' (ID: 11657), Prob: 0.0000
+Token: ' happiness' (ID: 23009), Prob: 0.0000
+Token: ' good' (ID: 1661), Prob: 0.0000
+Token: ' Christmas' (ID: 10074), Prob: 0.0000
+Token: ' music' (ID: 4627), Prob: 0.0000
+Token: ' celebration' (ID: 24916), Prob: 0.0000
+Token: ' every' (ID: 1449), Prob: 0.0000
+Token: ' something' (ID: 2494), Prob: 0.0000
+Token: ' snow' (ID: 11794), Prob: 0.0000
+Token: ' fellowship' (ID: 62249), Prob: 0.0000
+Token: ' FRIEND' (ID: 79343), Prob: 0.0000
+Token: ' partnership' (ID: 15305), Prob: 0.0000
+Token: ' companions' (ID: 40857), Prob: 0.0000
+Token: ' forgiveness' (ID: 52050), Prob: 0.0000
+Token: ' comedy' (ID: 22358), Prob: 0.0000
+Token: ' love' (ID: 2948), Prob: 0.0000
+Token: ' truth' (ID: 8046), Prob: 0.0000
+Token: ' trust' (ID: 6950), Prob: 0.0000
+Token: ' communication' (ID: 10535), Prob: 0.0000
+Token: ' joy' (ID: 15888), Prob: 0.0000
+Token: ' goodwill' (ID: 81646), Prob: 0.0000
+Token: ' community' (ID: 3942), Prob: 0.0000
+Token: ' harmony' (ID: 25281), Prob: 0.0000
+Token: ' teamwork' (ID: 83533), Prob: 0.0000
+Token: ' adventure' (ID: 17943), Prob: 0.0000
+Token: ' friction' (ID: 38576), Prob: 0.0000
+Token: ' reunion' (ID: 57284), Prob: 0.0000
+Token: ' memory' (ID: 4938), Prob: 0.0000
+Token: ' goodness' (ID: 38426), Prob: 0.0000
+Token: ' liberty' (ID: 30120), Prob: 0.0000
+Token: ' connection' (ID: 3633), Prob: 0.0000
+Token: ' hope' (ID: 3900), Prob: 0.0000
+Token: ' nothing' (ID: 4302), Prob: 0.0000
+Token: ' choice' (ID: 5754), Prob: 0.0000
+Token: ' opportunity' (ID: 6638), Prob: 0.0000
+Token: ' peace' (ID: 8919), Prob: 0.0000
+Token: ' camar' (ID: 96586), Prob: 0.0000
+Token: ' existence' (ID: 13885), Prob: 0.0000
+Token: ' simplicity' (ID: 38975), Prob: 0.0000
+Token: ' gratitude' (ID: 45035), Prob: 0.0000
+Token: ' one' (ID: 825), Prob: 0.0000
+Token: ' spring' (ID: 10464), Prob: 0.0000
+Token: ' mischief' (ID: 93946), Prob: 0.0000
+Token: ' pride' (ID: 21770), Prob: 0.0000
+
+== Ranked Concepts (Clusters) ==
+Rank 1 | Concept Score: 1.0000
+  Tokens: [' friendship', ' friendships', ' Friendship', ' companions', ' camar']
+Rank 2 | Concept Score: 0.0004
+  Tokens: [' friends', ' friend', ' friendly', ' FRIEND']
+Rank 3 | Concept Score: 0.0000
+  Tokens: [' freedom', ' liberty']
+Rank 4 | Concept Score: 0.0000
+  Tokens: [' magic', ' music', ' comedy', ' memory']
+Rank 5 | Concept Score: 0.0000
+  Tokens: [' loneliness', ' happiness']
+Rank 6 | Concept Score: 0.0000
+  Tokens: [' life', ' existence']
+Rank 7 | Concept Score: 0.0000
+  Tokens: [' kindness', ' goodwill']
+Rank 8 | Concept Score: 0.0000
+  Tokens: [' fellowship', ' partnership', ' teamwork']
+Rank 9 | Concept Score: 0.0000
+  Tokens: [' Christmas', ' snow', ' spring']
+Rank 10 | Concept Score: 0.0000
+  Tokens: [' love', ' joy', ' hope', ' pride']
+Rank 11 | Concept Score: 0.0000
+  Tokens: [' good', ' goodness']
+Rank 12 | Concept Score: 0.0000
+  Tokens: [' forgiveness', ' harmony', ' gratitude']
+Rank 13 | Concept Score: 0.0000
+  Tokens: [' truth', ' trust', ' peace']
+Rank 14 | Concept Score: 0.0000
+  Tokens: [' communication', ' community', ' connection']
+Rank 15 | Concept Score: 0.0000
+  Tokens: [' celebration', ' reunion']
+Rank 16 | Concept Score: 0.0000
+  Tokens: [' something', ' nothing']
+Rank 17 | Concept Score: 0.0000
+  Tokens: [' every', ' one']
+Rank 18 | Concept Score: 0.0000
+  Tokens: [' adventure', ' mischief']
+Rank 19 | Concept Score: 0.0000
+  Tokens: [' choice', ' opportunity']
+Rank 20 | Concept Score: 0.0000
+  Tokens: [' friction']
+Rank 21 | Concept Score: 0.0000
+  Tokens: [' simplicity']
+
+**Chosen Concept:** Rank 1 with score 1.0000

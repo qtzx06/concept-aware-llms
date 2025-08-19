@@ -1,0 +1,73 @@
+--- Step 44 Log ---
+
+== Filtered Candidates ==
+Token: ' else' (ID: 770), Prob: 0.9922
+Token: ' remains' (ID: 8458), Prob: 0.0022
+Token: ' except' (ID: 3650), Prob: 0.0003
+Token: ' stays' (ID: 26558), Prob: 0.0002
+Token: ' otherwise' (ID: 5937), Prob: 0.0001
+Token: ' Else' (ID: 18804), Prob: 0.0001
+Token: ' remaining' (ID: 9664), Prob: 0.0001
+Token: ' still' (ID: 2058), Prob: 0.0001
+Token: ' everything' (ID: 4297), Prob: 0.0000
+Token: ' etc' (ID: 4992), Prob: 0.0000
+Token: ' must' (ID: 1969), Prob: 0.0000
+Token: ' remain' (ID: 7146), Prob: 0.0000
+Token: '	else' (ID: 2466), Prob: 0.0000
+Token: ' remained' (ID: 14616), Prob: 0.0000
+Token: ' things' (ID: 2513), Prob: 0.0000
+Token: ' ELSE' (ID: 52926), Prob: 0.0000
+Token: ' something' (ID: 2494), Prob: 0.0000
+Token: ' nothing' (ID: 4302), Prob: 0.0000
+Token: ' elif' (ID: 4409), Prob: 0.0000
+Token: ' goes' (ID: 5780), Prob: 0.0000
+Token: ' seems' (ID: 4977), Prob: 0.0000
+Token: ' others' (ID: 3800), Prob: 0.0000
+Token: ' elsewhere' (ID: 17920), Prob: 0.0000
+Token: 'else' (ID: 1503), Prob: 0.0000
+Token: ' another' (ID: 2441), Prob: 0.0000
+Token: ' changes' (ID: 4344), Prob: 0.0000
+Token: ' related' (ID: 5435), Prob: 0.0000
+Token: ' gets' (ID: 5221), Prob: 0.0000
+Token: ' together' (ID: 3786), Prob: 0.0000
+Token: ' plus' (ID: 5519), Prob: 0.0000
+Token: ' stayed' (ID: 19613), Prob: 0.0000
+Token: ' less' (ID: 2686), Prob: 0.0000
+Token: ' equal' (ID: 6144), Prob: 0.0000
+Token: ' equals' (ID: 16819), Prob: 0.0000
+Token: ' like' (ID: 1075), Prob: 0.0000
+Token: ' rest' (ID: 2732), Prob: 0.0000
+Token: ' thing' (ID: 3166), Prob: 0.0000
+Token: ' els' (ID: 20712), Prob: 0.0000
+
+== Ranked Concepts (Clusters) ==
+Rank 1 | Concept Score: 0.9922
+  Tokens: [' else', ' otherwise', ' Else', '\telse', ' ELSE', ' elif', 'else']
+Rank 2 | Concept Score: 0.0025
+  Tokens: [' remains', ' stays', ' remaining', ' remain', ' remained', ' stayed']
+Rank 3 | Concept Score: 0.0003
+  Tokens: [' except', ' plus']
+Rank 4 | Concept Score: 0.0001
+  Tokens: [' everything', ' things', ' something', ' nothing', ' thing']
+Rank 5 | Concept Score: 0.0001
+  Tokens: [' still', ' less']
+Rank 6 | Concept Score: 0.0000
+  Tokens: [' goes', ' seems', ' changes', ' gets']
+Rank 7 | Concept Score: 0.0000
+  Tokens: [' etc']
+Rank 8 | Concept Score: 0.0000
+  Tokens: [' must']
+Rank 9 | Concept Score: 0.0000
+  Tokens: [' others', ' elsewhere', ' another']
+Rank 10 | Concept Score: 0.0000
+  Tokens: [' related', ' like']
+Rank 11 | Concept Score: 0.0000
+  Tokens: [' equal', ' equals']
+Rank 12 | Concept Score: 0.0000
+  Tokens: [' together']
+Rank 13 | Concept Score: 0.0000
+  Tokens: [' els']
+Rank 14 | Concept Score: 0.0000
+  Tokens: [' rest']
+
+**Chosen Concept:** Rank 1 with score 0.9922

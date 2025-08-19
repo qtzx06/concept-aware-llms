@@ -1,0 +1,88 @@
+--- Step 52 Log ---
+
+== Filtered Candidates ==
+Token: ' could' (ID: 1410), Prob: 0.9805
+Token: ' weather' (ID: 9104), Prob: 0.0031
+Token: ' may' (ID: 1231), Prob: 0.0024
+Token: ' might' (ID: 2578), Prob: 0.0023
+Token: ' seems' (ID: 4977), Prob: 0.0002
+Token: ' gets' (ID: 5221), Prob: 0.0001
+Token: ' maybe' (ID: 7196), Prob: 0.0001
+Token: ' would' (ID: 1035), Prob: 0.0001
+Token: ' falls' (ID: 17066), Prob: 0.0001
+Token: ' feels' (ID: 11074), Prob: 0.0001
+Token: ' possibly' (ID: 10767), Prob: 0.0001
+Token: ' got' (ID: 2684), Prob: 0.0001
+Token: ' makes' (ID: 3643), Prob: 0.0001
+Token: ' seemed' (ID: 9324), Prob: 0.0001
+Token: 'could' (ID: 28077), Prob: 0.0001
+Token: ' fell' (ID: 11052), Prob: 0.0000
+Token: 'fall' (ID: 13464), Prob: 0.0000
+Token: ' color' (ID: 1894), Prob: 0.0000
+Token: ' still' (ID: 2058), Prob: 0.0000
+Token: ' season' (ID: 3200), Prob: 0.0000
+Token: ' comes' (ID: 4041), Prob: 0.0000
+Token: ' sometimes' (ID: 7025), Prob: 0.0000
+Token: ' storm' (ID: 13458), Prob: 0.0000
+Token: ' began' (ID: 6009), Prob: 0.0000
+Token: ' becomes' (ID: 9044), Prob: 0.0000
+Token: ' made' (ID: 1865), Prob: 0.0000
+Token: ' possible' (ID: 3204), Prob: 0.0000
+Token: ' storms' (ID: 43483), Prob: 0.0000
+Token: ' looks' (ID: 5868), Prob: 0.0000
+Token: ' sounds' (ID: 10362), Prob: 0.0000
+Token: ' covers' (ID: 14521), Prob: 0.0000
+Token: ' Could' (ID: 16503), Prob: 0.0000
+Token: ' crack' (ID: 17486), Prob: 0.0000
+Token: ' climate' (ID: 9977), Prob: 0.0000
+Token: 'storms' (ID: 82009), Prob: 0.0000
+Token: ' covered' (ID: 9761), Prob: 0.0000
+Token: 'storm' (ID: 26413), Prob: 0.0000
+Token: ' days' (ID: 2849), Prob: 0.0000
+Token: ' perhaps' (ID: 8365), Prob: 0.0000
+Token: ' occasionally' (ID: 22930), Prob: 0.0000
+Token: '.weather' (ID: 45627), Prob: 0.0000
+Token: ' today' (ID: 3351), Prob: 0.0000
+Token: ' snow' (ID: 11794), Prob: 0.0000
+Token: ' begins' (ID: 12033), Prob: 0.0000
+Token: ' ever' (ID: 3512), Prob: 0.0000
+Token: ' changes' (ID: 4344), Prob: 0.0000
+Token: ' fall' (ID: 4399), Prob: 0.0000
+Token: ' contains' (ID: 5610), Prob: 0.0000
+Token: ' must' (ID: 1969), Prob: 0.0000
+Token: ' scene' (ID: 6109), Prob: 0.0000
+Token: ' threatens' (ID: 47826), Prob: 0.0000
+Token: ' started' (ID: 3855), Prob: 0.0000
+Token: ' goes' (ID: 5780), Prob: 0.0000
+Token: ' colors' (ID: 7987), Prob: 0.0000
+Token: ' conditions' (ID: 4682), Prob: 0.0000
+Token: ' starts' (ID: 8471), Prob: 0.0000
+Token: ' cannot' (ID: 4157), Prob: 0.0000
+
+== Ranked Concepts (Clusters) ==
+Rank 1 | Concept Score: 0.9844
+  Tokens: [' could', ' may', ' might', ' would', 'could', ' Could', ' must', ' cannot']
+Rank 2 | Concept Score: 0.0032
+  Tokens: [' weather', ' season', ' crack', ' climate', '.weather', ' snow', ' scene']
+Rank 3 | Concept Score: 0.0004
+  Tokens: [' seems', ' feels', ' seemed', ' looks', ' sounds', ' threatens']
+Rank 4 | Concept Score: 0.0003
+  Tokens: [' gets', ' makes', ' comes', ' becomes', ' contains', ' goes']
+Rank 5 | Concept Score: 0.0002
+  Tokens: [' maybe', ' possibly', ' possible', ' perhaps']
+Rank 6 | Concept Score: 0.0002
+  Tokens: [' falls', ' fell', 'fall', ' fall']
+Rank 7 | Concept Score: 0.0001
+  Tokens: [' still', ' sometimes', ' occasionally', ' today', ' ever']
+Rank 8 | Concept Score: 0.0001
+  Tokens: [' got', ' made']
+Rank 9 | Concept Score: 0.0001
+  Tokens: [' storm', ' storms', 'storms', 'storm']
+Rank 10 | Concept Score: 0.0001
+  Tokens: [' color', ' days', ' changes', ' colors', ' conditions']
+Rank 11 | Concept Score: 0.0001
+  Tokens: [' began', ' begins', ' started', ' starts']
+Rank 12 | Concept Score: 0.0000
+  Tokens: [' covers', ' covered']
+
+**Chosen Concept:** Rank 1 with score 0.9844

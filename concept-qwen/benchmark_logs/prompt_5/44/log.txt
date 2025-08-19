@@ -1,0 +1,87 @@
+--- Step 44 Log ---
+
+== Filtered Candidates ==
+Token: ' today' (ID: 3351), Prob: 0.0003
+Token: ' outside' (ID: 4889), Prob: 0.0003
+Token: ' earlier' (ID: 6788), Prob: 0.0003
+Token: ' immediately' (ID: 7069), Prob: 0.0003
+Token: ' according' (ID: 4092), Prob: 0.0002
+Token: ' locally' (ID: 23490), Prob: 0.0002
+Token: ' upon' (ID: 5193), Prob: 0.0002
+Token: ' directly' (ID: 5961), Prob: 0.0002
+Token: ' within' (ID: 2878), Prob: 0.0001
+Token: ' currently' (ID: 5023), Prob: 0.0001
+Token: ' behind' (ID: 4815), Prob: 0.0001
+Token: ' time' (ID: 882), Prob: 0.0001
+Token: ' showing' (ID: 9027), Prob: 0.0001
+Token: ' yesterday' (ID: 13671), Prob: 0.0001
+Token: ' inside' (ID: 4766), Prob: 0.0001
+Token: ' display' (ID: 3037), Prob: 0.0001
+Token: ' publicly' (ID: 17424), Prob: 0.0001
+Token: ' online' (ID: 2860), Prob: 0.0001
+Token: ' across' (ID: 3941), Prob: 0.0000
+Token: ' exactly' (ID: 6896), Prob: 0.0000
+Token: ' ahead' (ID: 8305), Prob: 0.0000
+Token: ' displayed' (ID: 12596), Prob: 0.0000
+Token: ' either' (ID: 2987), Prob: 0.0000
+Token: ' via' (ID: 4566), Prob: 0.0000
+Token: ' aboard' (ID: 36506), Prob: 0.0000
+Token: ' using' (ID: 1667), Prob: 0.0000
+Token: ' previously' (ID: 8597), Prob: 0.0000
+Token: ' next' (ID: 1790), Prob: 0.0000
+Token: ' onto' (ID: 8630), Prob: 0.0000
+Token: ' correctly' (ID: 12440), Prob: 0.0000
+Token: ' current' (ID: 1482), Prob: 0.0000
+Token: ' originally' (ID: 13214), Prob: 0.0000
+Token: ' elsewhere' (ID: 17920), Prob: 0.0000
+Token: ' onboard' (ID: 55058), Prob: 0.0000
+Token: ' normally' (ID: 14279), Prob: 0.0000
+Token: ' near' (ID: 3143), Prob: 0.0000
+Token: ' around' (ID: 2163), Prob: 0.0000
+Token: ' shown' (ID: 6839), Prob: 0.0000
+Token: ' initially' (ID: 15102), Prob: 0.0000
+Token: ' date' (ID: 2400), Prob: 0.0000
+Token: ' later' (ID: 2937), Prob: 0.0000
+Token: ' front' (ID: 4065), Prob: 0.0000
+Token: ' displaying' (ID: 27940), Prob: 0.0000
+Token: ' local' (ID: 2205), Prob: 0.0000
+Token: ' along' (ID: 3156), Prob: 0.0000
+Token: ' one' (ID: 825), Prob: 0.0000
+
+== Ranked Concepts (Clusters) ==
+Rank 1 | Concept Score: 0.0006
+  Tokens: [' immediately', ' directly', ' exactly', ' either', ' correctly']
+Rank 2 | Concept Score: 0.0004
+  Tokens: [' outside', ' inside', ' elsewhere']
+Rank 3 | Concept Score: 0.0004
+  Tokens: [' today', ' yesterday']
+Rank 4 | Concept Score: 0.0003
+  Tokens: [' according', ' via', ' using']
+Rank 5 | Concept Score: 0.0003
+  Tokens: [' earlier', ' later']
+Rank 6 | Concept Score: 0.0002
+  Tokens: [' upon', ' onto']
+Rank 7 | Concept Score: 0.0002
+  Tokens: [' locally', ' local']
+Rank 8 | Concept Score: 0.0002
+  Tokens: [' within', ' across', ' near', ' around', ' along']
+Rank 9 | Concept Score: 0.0002
+  Tokens: [' showing', ' display', ' displayed', ' shown', ' displaying']
+Rank 10 | Concept Score: 0.0002
+  Tokens: [' behind', ' ahead', ' front']
+Rank 11 | Concept Score: 0.0001
+  Tokens: [' currently', ' current']
+Rank 12 | Concept Score: 0.0001
+  Tokens: [' previously', ' originally', ' normally', ' initially']
+Rank 13 | Concept Score: 0.0001
+  Tokens: [' publicly', ' online']
+Rank 14 | Concept Score: 0.0001
+  Tokens: [' time', ' date']
+Rank 15 | Concept Score: 0.0001
+  Tokens: [' aboard', ' onboard']
+Rank 16 | Concept Score: 0.0000
+  Tokens: [' next']
+Rank 17 | Concept Score: 0.0000
+  Tokens: [' one']
+
+**Chosen Concept:** Rank 1 with score 0.0006

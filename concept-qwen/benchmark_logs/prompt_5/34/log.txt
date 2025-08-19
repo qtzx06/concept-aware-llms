@@ -1,0 +1,80 @@
+--- Step 34 Log ---
+
+== Filtered Candidates ==
+Token: ' directly' (ID: 5961), Prob: 0.0256
+Token: ' either' (ID: 2987), Prob: 0.0074
+Token: ' exactly' (ID: 6896), Prob: 0.0074
+Token: ' without' (ID: 2041), Prob: 0.0061
+Token: ' within' (ID: 2878), Prob: 0.0057
+Token: ' first' (ID: 1156), Prob: 0.0051
+Token: ' based' (ID: 3118), Prob: 0.0051
+Token: ' using' (ID: 1667), Prob: 0.0045
+Token: ' according' (ID: 4092), Prob: 0.0045
+Token: ' immediately' (ID: 7069), Prob: 0.0045
+Token: ' via' (ID: 4566), Prob: 0.0029
+Token: ' regardless' (ID: 15484), Prob: 0.0027
+Token: ' every' (ID: 1449), Prob: 0.0022
+Token: ' prior' (ID: 4867), Prob: 0.0019
+Token: ' simultaneously' (ID: 24303), Prob: 0.0016
+Token: ' even' (ID: 1496), Prob: 0.0015
+Token: ' twice' (ID: 10917), Prob: 0.0015
+Token: ' three' (ID: 2326), Prob: 0.0014
+Token: ' one' (ID: 825), Prob: 0.0014
+Token: ' located' (ID: 7407), Prob: 0.0012
+Token: ' whenever' (ID: 15356), Prob: 0.0012
+Token: ' time' (ID: 882), Prob: 0.0010
+Token: ' two' (ID: 1378), Prob: 0.0010
+Token: ' earlier' (ID: 6788), Prob: 0.0008
+Token: ' ahead' (ID: 8305), Prob: 0.0007
+Token: ' depending' (ID: 11649), Prob: 0.0005
+Token: ' instead' (ID: 4518), Prob: 0.0005
+Token: ' right' (ID: 1290), Prob: 0.0004
+Token: ' across' (ID: 3941), Prob: 0.0004
+Token: ' behind' (ID: 4815), Prob: 0.0004
+Token: ' straight' (ID: 7678), Prob: 0.0004
+Token: ' starting' (ID: 5916), Prob: 0.0004
+Token: ' unless' (ID: 7241), Prob: 0.0004
+Token: ' somewhere' (ID: 14696), Prob: 0.0004
+Token: ' five' (ID: 4236), Prob: 0.0004
+Token: ' faster' (ID: 10596), Prob: 0.0003
+Token: ' strictly' (ID: 25470), Prob: 0.0003
+Token: ' whether' (ID: 3425), Prob: 0.0003
+Token: ' due' (ID: 4152), Prob: 0.0003
+Token: ' given' (ID: 2661), Prob: 0.0003
+Token: ' near' (ID: 3143), Prob: 0.0003
+
+== Ranked Concepts (Clusters) ==
+Rank 1 | Concept Score: 0.0396
+  Tokens: [' directly', ' exactly', ' immediately', ' simultaneously', ' strictly']
+Rank 2 | Concept Score: 0.0103
+  Tokens: [' based', ' according', ' depending', ' given']
+Rank 3 | Concept Score: 0.0084
+  Tokens: [' first', ' prior', ' earlier', ' starting', ' faster']
+Rank 4 | Concept Score: 0.0077
+  Tokens: [' either', ' whether']
+Rank 5 | Concept Score: 0.0077
+  Tokens: [' using', ' via', ' due']
+Rank 6 | Concept Score: 0.0066
+  Tokens: [' without', ' instead']
+Rank 7 | Concept Score: 0.0062
+  Tokens: [' within', ' across']
+Rank 8 | Concept Score: 0.0042
+  Tokens: [' three', ' one', ' two', ' five']
+Rank 9 | Concept Score: 0.0034
+  Tokens: [' every', ' whenever']
+Rank 10 | Concept Score: 0.0031
+  Tokens: [' regardless', ' unless']
+Rank 11 | Concept Score: 0.0016
+  Tokens: [' located', ' somewhere']
+Rank 12 | Concept Score: 0.0015
+  Tokens: [' even']
+Rank 13 | Concept Score: 0.0015
+  Tokens: [' twice']
+Rank 14 | Concept Score: 0.0013
+  Tokens: [' time', ' near']
+Rank 15 | Concept Score: 0.0011
+  Tokens: [' ahead', ' behind']
+Rank 16 | Concept Score: 0.0009
+  Tokens: [' right', ' straight']
+
+**Chosen Concept:** Rank 1 with score 0.0396

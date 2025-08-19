@@ -1,0 +1,114 @@
+--- Step 27 Log ---
+
+== Filtered Candidates ==
+Token: ' must' (ID: 1969), Prob: 0.1040
+Token: ' cannot' (ID: 4157), Prob: 0.0204
+Token: ' wants' (ID: 6801), Prob: 0.0204
+Token: ' needs' (ID: 3880), Prob: 0.0159
+Token: ' may' (ID: 1231), Prob: 0.0150
+Token: ' arrives' (ID: 29682), Prob: 0.0103
+Token: ' also' (ID: 1083), Prob: 0.0080
+Token: ' always' (ID: 2677), Prob: 0.0070
+Token: ' could' (ID: 1410), Prob: 0.0066
+Token: ' uses' (ID: 5711), Prob: 0.0052
+Token: ' decides' (ID: 27627), Prob: 0.0049
+Token: ' might' (ID: 2578), Prob: 0.0038
+Token: ' knows' (ID: 8788), Prob: 0.0038
+Token: ' starts' (ID: 8471), Prob: 0.0033
+Token: ' meets' (ID: 20027), Prob: 0.0033
+Token: ' chooses' (ID: 39911), Prob: 0.0033
+Token: ' believes' (ID: 13605), Prob: 0.0031
+Token: ' wishes' (ID: 24240), Prob: 0.0029
+Token: ' receives' (ID: 21189), Prob: 0.0028
+Token: ' travels' (ID: 34192), Prob: 0.0028
+Token: ' would' (ID: 1035), Prob: 0.0026
+Token: ' never' (ID: 2581), Prob: 0.0024
+Token: ' usually' (ID: 5990), Prob: 0.0024
+Token: ' experiences' (ID: 11449), Prob: 0.0024
+Token: ' flies' (ID: 37104), Prob: 0.0023
+Token: ' begins' (ID: 12033), Prob: 0.0022
+Token: ' sees' (ID: 15634), Prob: 0.0022
+Token: ' finds' (ID: 13719), Prob: 0.0020
+Token: ' encounters' (ID: 33906), Prob: 0.0020
+Token: ' walks' (ID: 22479), Prob: 0.0019
+Token: ' feels' (ID: 11074), Prob: 0.0016
+Token: ' faces' (ID: 12300), Prob: 0.0015
+Token: ' prefers' (ID: 53964), Prob: 0.0015
+Token: ' notices' (ID: 34771), Prob: 0.0014
+Token: ' loses' (ID: 32191), Prob: 0.0013
+Token: ' takes' (ID: 4990), Prob: 0.0012
+Token: ' discovers' (ID: 51014), Prob: 0.0012
+Token: ' plans' (ID: 6649), Prob: 0.0011
+Token: ' leaves' (ID: 10901), Prob: 0.0011
+Token: ' refuses' (ID: 40616), Prob: 0.0011
+Token: ' already' (ID: 2669), Prob: 0.0010
+Token: ' makes' (ID: 3643), Prob: 0.0010
+Token: ' initially' (ID: 15102), Prob: 0.0010
+Token: ' realizes' (ID: 51594), Prob: 0.0010
+Token: ' often' (ID: 3545), Prob: 0.0009
+Token: ' accidentally' (ID: 32384), Prob: 0.0009
+Token: ' says' (ID: 2727), Prob: 0.0008
+Token: ' requires' (ID: 7460), Prob: 0.0008
+Token: ' sometimes' (ID: 7025), Prob: 0.0008
+Token: ' forget' (ID: 10667), Prob: 0.0007
+Token: ' hears' (ID: 52059), Prob: 0.0007
+Token: ' gets' (ID: 5221), Prob: 0.0007
+Token: ' noticed' (ID: 13686), Prob: 0.0007
+Token: ' enjoys' (ID: 31738), Prob: 0.0007
+Token: ' observes' (ID: 80199), Prob: 0.0007
+Token: ' spends' (ID: 37102), Prob: 0.0006
+Token: ' appears' (ID: 7952), Prob: 0.0006
+Token: ' tries' (ID: 16297), Prob: 0.0006
+Token: ' controls' (ID: 11574), Prob: 0.0005
+Token: ' normally' (ID: 14279), Prob: 0.0005
+Token: ' carries' (ID: 23377), Prob: 0.0005
+Token: ' actually' (ID: 3520), Prob: 0.0005
+Token: ' ends' (ID: 10335), Prob: 0.0005
+Token: ' consumes' (ID: 59506), Prob: 0.0005
+Token: ' decided' (ID: 6635), Prob: 0.0005
+Token: ' attempts' (ID: 13553), Prob: 0.0005
+Token: ' keeps' (ID: 13598), Prob: 0.0005
+Token: ' pays' (ID: 21241), Prob: 0.0005
+Token: ' still' (ID: 2058), Prob: 0.0005
+Token: ' comes' (ID: 4041), Prob: 0.0005
+Token: ' currently' (ID: 5023), Prob: 0.0005
+
+== Ranked Concepts (Clusters) ==
+Rank 1 | Concept Score: 0.1523
+  Tokens: [' must', ' cannot', ' may', ' could', ' might', ' would']
+Rank 2 | Concept Score: 0.0233
+  Tokens: [' wants', ' wishes']
+Rank 3 | Concept Score: 0.0219
+  Tokens: [' needs', ' uses', ' requires']
+Rank 4 | Concept Score: 0.0181
+  Tokens: [' arrives', ' meets', ' takes', ' makes', ' gets', ' appears', ' keeps', ' comes']
+Rank 5 | Concept Score: 0.0114
+  Tokens: [' also', ' already', ' initially', ' actually', ' still', ' currently']
+Rank 6 | Concept Score: 0.0106
+  Tokens: [' knows', ' believes', ' feels', ' prefers', ' enjoys']
+Rank 7 | Concept Score: 0.0103
+  Tokens: [' always', ' never', ' forget']
+Rank 8 | Concept Score: 0.0098
+  Tokens: [' decides', ' chooses', ' refuses', ' decided']
+Rank 9 | Concept Score: 0.0097
+  Tokens: [' sees', ' finds', ' notices', ' discovers', ' realizes', ' hears', ' noticed', ' observes']
+Rank 10 | Concept Score: 0.0092
+  Tokens: [' travels', ' experiences', ' encounters', ' walks']
+Rank 11 | Concept Score: 0.0062
+  Tokens: [' receives', ' loses', ' spends', ' carries', ' consumes', ' pays']
+Rank 12 | Concept Score: 0.0060
+  Tokens: [' starts', ' begins', ' ends']
+Rank 13 | Concept Score: 0.0049
+  Tokens: [' flies', ' faces', ' leaves']
+Rank 14 | Concept Score: 0.0047
+  Tokens: [' usually', ' often', ' sometimes', ' normally']
+Rank 15 | Concept Score: 0.0016
+  Tokens: [' plans', ' controls']
+Rank 16 | Concept Score: 0.0011
+  Tokens: [' tries', ' attempts']
+Rank 17 | Concept Score: 0.0009
+  Tokens: [' accidentally']
+Rank 18 | Concept Score: 0.0008
+  Tokens: [' says']
+
+**Chosen Concept:** Rank 1 with score 0.1523

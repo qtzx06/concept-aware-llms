@@ -1,0 +1,85 @@
+--- Step 125 Log ---
+
+== Filtered Candidates ==
+Token: ' different' (ID: 2155), Prob: 0.9961
+Token: ' differently' (ID: 21303), Prob: 0.0015
+Token: ' else' (ID: 770), Prob: 0.0008
+Token: ' new' (ID: 501), Prob: 0.0001
+Token: 'different' (ID: 63650), Prob: 0.0000
+Token: ' similar' (ID: 4428), Prob: 0.0000
+Token: ' something' (ID: 2494), Prob: 0.0000
+Token: ' Different' (ID: 33396), Prob: 0.0000
+Token: ' negative' (ID: 8225), Prob: 0.0000
+Token: ' strange' (ID: 14888), Prob: 0.0000
+Token: ' better' (ID: 2664), Prob: 0.0000
+Token: ' even' (ID: 1496), Prob: 0.0000
+Token: ' diferente' (ID: 77173), Prob: 0.0000
+Token: ' différent' (ID: 50099), Prob: 0.0000
+Token: ' less' (ID: 2686), Prob: 0.0000
+Token: ' distinct' (ID: 12460), Prob: 0.0000
+Token: 'Different' (ID: 69123), Prob: 0.0000
+Token: '_different' (ID: 82741), Prob: 0.0000
+Token: ' differ' (ID: 1745), Prob: 0.0000
+Token: ' specific' (ID: 3151), Prob: 0.0000
+Token: ' diff' (ID: 3638), Prob: 0.0000
+Token: ' otherwise' (ID: 5937), Prob: 0.0000
+Token: ' slightly' (ID: 10078), Prob: 0.0000
+Token: ' unique' (ID: 4911), Prob: 0.0000
+Token: ' special' (ID: 3281), Prob: 0.0000
+Token: 'ifferent' (ID: 18277), Prob: 0.0000
+Token: ' deeper' (ID: 19117), Prob: 0.0000
+Token: ' differing' (ID: 60369), Prob: 0.0000
+Token: ' difer' (ID: 26929), Prob: 0.0000
+Token: ' completely' (ID: 6587), Prob: 0.0000
+Token: ' difference' (ID: 6672), Prob: 0.0000
+Token: ' totally' (ID: 12473), Prob: 0.0000
+Token: ' like' (ID: 1075), Prob: 0.0000
+Token: ' khác' (ID: 128354), Prob: 0.0000
+Token: ' positive' (ID: 6785), Prob: 0.0000
+Token: ' diferentes' (ID: 45318), Prob: 0.0000
+Token: ' particular' (ID: 3953), Prob: 0.0000
+Token: ' related' (ID: 5435), Prob: 0.0000
+Token: ' deeply' (ID: 17247), Prob: 0.0000
+Token: ' deep' (ID: 5538), Prob: 0.0000
+Token: ' differs' (ID: 43542), Prob: 0.0000
+Token: ' really' (ID: 2167), Prob: 0.0000
+Token: ' another' (ID: 2441), Prob: 0.0000
+Token: ' separate' (ID: 8651), Prob: 0.0000
+Token: ' worse' (ID: 10960), Prob: 0.0000
+Token: ' odd' (ID: 10322), Prob: 0.0000
+Token: ' greater' (ID: 7046), Prob: 0.0000
+Token: ' alike' (ID: 25992), Prob: 0.0000
+
+== Ranked Concepts (Clusters) ==
+Rank 1 | Concept Score: 0.9961
+  Tokens: [' different', ' differently', 'different', ' Different', ' diferente', ' différent', 'Different', '_different', 'ifferent', ' diferentes']
+Rank 2 | Concept Score: 0.0008
+  Tokens: [' else', ' otherwise']
+Rank 3 | Concept Score: 0.0001
+  Tokens: [' new', ' distinct', ' unique']
+Rank 4 | Concept Score: 0.0000
+  Tokens: [' similar', ' like', ' related']
+Rank 5 | Concept Score: 0.0000
+  Tokens: [' something', ' another']
+Rank 6 | Concept Score: 0.0000
+  Tokens: [' strange', ' even', ' odd']
+Rank 7 | Concept Score: 0.0000
+  Tokens: [' better', ' less', ' worse', ' greater']
+Rank 8 | Concept Score: 0.0000
+  Tokens: [' differ', ' diff', ' differing', ' difer', ' difference', ' differs']
+Rank 9 | Concept Score: 0.0000
+  Tokens: [' negative', ' positive']
+Rank 10 | Concept Score: 0.0000
+  Tokens: [' specific', ' special', ' particular']
+Rank 11 | Concept Score: 0.0000
+  Tokens: [' slightly', ' completely', ' totally', ' really']
+Rank 12 | Concept Score: 0.0000
+  Tokens: [' deeper', ' deeply', ' deep']
+Rank 13 | Concept Score: 0.0000
+  Tokens: [' khác']
+Rank 14 | Concept Score: 0.0000
+  Tokens: [' separate']
+Rank 15 | Concept Score: 0.0000
+  Tokens: [' alike']
+
+**Chosen Concept:** Rank 1 with score 0.9961

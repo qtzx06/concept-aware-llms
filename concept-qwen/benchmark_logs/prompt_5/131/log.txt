@@ -1,0 +1,121 @@
+--- Step 131 Log ---
+
+== Filtered Candidates ==
+Token: ' time' (ID: 882), Prob: 0.9844
+Token: ' destination' (ID: 9106), Prob: 0.0033
+Token: ' previous' (ID: 3681), Prob: 0.0013
+Token: ' current' (ID: 1482), Prob: 0.0010
+Token: ' original' (ID: 4024), Prob: 0.0004
+Token: ' immediate' (ID: 13922), Prob: 0.0004
+Token: ' next' (ID: 1790), Prob: 0.0003
+Token: ' displayed' (ID: 12596), Prob: 0.0003
+Token: ' immediately' (ID: 7069), Prob: 0.0002
+Token: ' display' (ID: 3037), Prob: 0.0002
+Token: ' source' (ID: 2530), Prob: 0.0001
+Token: ' first' (ID: 1156), Prob: 0.0001
+Token: ' initial' (ID: 2856), Prob: 0.0001
+Token: ' target' (ID: 2169), Prob: 0.0001
+Token: ' present' (ID: 3042), Prob: 0.0001
+Token: ' prior' (ID: 4867), Prob: 0.0001
+Token: ' times' (ID: 3039), Prob: 0.0001
+Token: ' actual' (ID: 5042), Prob: 0.0001
+Token: ' arrival' (ID: 18647), Prob: 0.0001
+Token: ' hour' (ID: 6460), Prob: 0.0000
+Token: '(time' (ID: 9730), Prob: 0.0000
+Token: ' existing' (ID: 6350), Prob: 0.0000
+Token: ' purpose' (ID: 7428), Prob: 0.0000
+Token: ' zone' (ID: 10143), Prob: 0.0000
+Token: ' moment' (ID: 4445), Prob: 0.0000
+Token: ' earlier' (ID: 6788), Prob: 0.0000
+Token: ' intended' (ID: 10602), Prob: 0.0000
+Token: ' total' (ID: 2790), Prob: 0.0000
+Token: ' one' (ID: 825), Prob: 0.0000
+Token: ' date' (ID: 2400), Prob: 0.0000
+Token: ' following' (ID: 2701), Prob: 0.0000
+Token: ' entire' (ID: 4453), Prob: 0.0000
+Token: ' origin' (ID: 6238), Prob: 0.0000
+Token: ' beginning' (ID: 7167), Prob: 0.0000
+Token: ' previously' (ID: 8597), Prob: 0.0000
+Token: ' clock' (ID: 8866), Prob: 0.0000
+Token: ' timeline' (ID: 24808), Prob: 0.0000
+Token: ' two' (ID: 1378), Prob: 0.0000
+Token: ' start' (ID: 1191), Prob: 0.0000
+Token: ' base' (ID: 2331), Prob: 0.0000
+Token: ' location' (ID: 3728), Prob: 0.0000
+Token: ' exact' (ID: 4734), Prob: 0.0000
+Token: ' second' (ID: 2086), Prob: 0.0000
+Token: ' future' (ID: 3853), Prob: 0.0000
+Token: ' age' (ID: 4231), Prob: 0.0000
+Token: ' local' (ID: 2205), Prob: 0.0000
+Token: ' preceding' (ID: 37746), Prob: 0.0000
+Token: ' starting' (ID: 5916), Prob: 0.0000
+Token: ' new' (ID: 501), Prob: 0.0000
+Token: ' past' (ID: 3267), Prob: 0.0000
+Token: ' period' (ID: 4168), Prob: 0.0000
+Token: ' tim' (ID: 6792), Prob: 0.0000
+Token: ' last' (ID: 1537), Prob: 0.0000
+Token: ' place' (ID: 1992), Prob: 0.0000
+Token: ' region' (ID: 5537), Prob: 0.0000
+Token: ' instant' (ID: 9690), Prob: 0.0000
+Token: ' home' (ID: 2114), Prob: 0.0000
+Token: ' travel' (ID: 5821), Prob: 0.0000
+Token: ' departure' (ID: 24915), Prob: 0.0000
+Token: ' pre' (ID: 855), Prob: 0.0000
+Token: ' real' (ID: 1931), Prob: 0.0000
+Token: ' given' (ID: 2661), Prob: 0.0000
+Token: '.time' (ID: 6378), Prob: 0.0000
+Token: ' incoming' (ID: 19393), Prob: 0.0000
+Token: ' timestamp' (ID: 11441), Prob: 0.0000
+Token: ' desired' (ID: 12685), Prob: 0.0000
+Token: ' intention' (ID: 14602), Prob: 0.0000
+Token: ' adjacent' (ID: 23942), Prob: 0.0000
+Token: ' true' (ID: 830), Prob: 0.0000
+Token: ' Time' (ID: 4120), Prob: 0.0000
+Token: ' respective' (ID: 19511), Prob: 0.0000
+Token: ' nearest' (ID: 23480), Prob: 0.0000
+
+== Ranked Concepts (Clusters) ==
+Rank 1 | Concept Score: 0.9844
+  Tokens: [' time', ' times', ' hour', '(time', ' date', ' clock', ' timeline', ' age', ' tim', '.time', ' timestamp', ' Time']
+Rank 2 | Concept Score: 0.0035
+  Tokens: [' destination', ' target', ' purpose', ' intended', ' desired', ' intention']
+Rank 3 | Concept Score: 0.0015
+  Tokens: [' previous', ' prior', ' earlier', ' previously', ' preceding']
+Rank 4 | Concept Score: 0.0011
+  Tokens: [' current', ' present', ' future', ' past']
+Rank 5 | Concept Score: 0.0006
+  Tokens: [' immediate', ' immediately', ' instant']
+Rank 6 | Concept Score: 0.0005
+  Tokens: [' original', ' initial']
+Rank 7 | Concept Score: 0.0004
+  Tokens: [' displayed', ' display']
+Rank 8 | Concept Score: 0.0004
+  Tokens: [' next', ' following']
+Rank 9 | Concept Score: 0.0002
+  Tokens: [' first', ' one', ' two', ' second', ' last']
+Rank 10 | Concept Score: 0.0002
+  Tokens: [' source', ' origin']
+Rank 11 | Concept Score: 0.0001
+  Tokens: [' zone', ' location', ' local', ' place', ' region']
+Rank 12 | Concept Score: 0.0001
+  Tokens: [' actual', ' entire', ' exact']
+Rank 13 | Concept Score: 0.0001
+  Tokens: [' arrival', ' travel', ' departure']
+Rank 14 | Concept Score: 0.0001
+  Tokens: [' total', ' new', ' real', ' true']
+Rank 15 | Concept Score: 0.0001
+  Tokens: [' beginning', ' start', ' starting']
+Rank 16 | Concept Score: 0.0001
+  Tokens: [' existing', ' incoming']
+Rank 17 | Concept Score: 0.0001
+  Tokens: [' moment', ' period']
+Rank 18 | Concept Score: 0.0000
+  Tokens: [' base', ' home']
+Rank 19 | Concept Score: 0.0000
+  Tokens: [' adjacent', ' respective', ' nearest']
+Rank 20 | Concept Score: 0.0000
+  Tokens: [' pre']
+Rank 21 | Concept Score: 0.0000
+  Tokens: [' given']
+
+**Chosen Concept:** Rank 1 with score 0.9844

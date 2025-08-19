@@ -1,0 +1,91 @@
+--- Step 23 Log ---
+
+== Filtered Candidates ==
+Token: ' used' (ID: 1483), Prob: 0.0206
+Token: ' went' (ID: 3937), Prob: 0.0067
+Token: ' stood' (ID: 14638), Prob: 0.0009
+Token: ' would' (ID: 1035), Prob: 0.0009
+Token: ' could' (ID: 1410), Prob: 0.0007
+Token: ' remain' (ID: 7146), Prob: 0.0007
+Token: ' got' (ID: 2684), Prob: 0.0006
+Token: ' stayed' (ID: 19613), Prob: 0.0006
+Token: ' came' (ID: 3697), Prob: 0.0005
+Token: ' originally' (ID: 13214), Prob: 0.0005
+Token: ' started' (ID: 3855), Prob: 0.0004
+Token: ' might' (ID: 2578), Prob: 0.0004
+Token: ' may' (ID: 1231), Prob: 0.0003
+Token: ' stand' (ID: 2498), Prob: 0.0003
+Token: ' previously' (ID: 8597), Prob: 0.0003
+Token: ' currently' (ID: 5023), Prob: 0.0002
+Token: ' stay' (ID: 4717), Prob: 0.0002
+Token: ' always' (ID: 2677), Prob: 0.0002
+Token: ' already' (ID: 2669), Prob: 0.0002
+Token: ' otherwise' (ID: 5937), Prob: 0.0001
+Token: ' began' (ID: 6009), Prob: 0.0001
+Token: ' remained' (ID: 14616), Prob: 0.0001
+Token: ' look' (ID: 1401), Prob: 0.0001
+Token: ' usually' (ID: 5990), Prob: 0.0001
+Token: ' formerly' (ID: 33733), Prob: 0.0001
+Token: ' fell' (ID: 11052), Prob: 0.0001
+Token: ' get' (ID: 633), Prob: 0.0001
+Token: ' seem' (ID: 2803), Prob: 0.0001
+Token: ' normally' (ID: 14279), Prob: 0.0001
+Token: ' ran' (ID: 10613), Prob: 0.0001
+Token: ' else' (ID: 770), Prob: 0.0001
+Token: ' left' (ID: 2115), Prob: 0.0001
+Token: ' say' (ID: 1977), Prob: 0.0001
+Token: ' ever' (ID: 3512), Prob: 0.0001
+Token: ' fall' (ID: 4399), Prob: 0.0001
+Token: ' still' (ID: 2058), Prob: 0.0001
+Token: ' come' (ID: 2525), Prob: 0.0001
+Token: ' goes' (ID: 5780), Prob: 0.0001
+Token: ' worked' (ID: 6439), Prob: 0.0001
+Token: ' looked' (ID: 6966), Prob: 0.0000
+Token: ' need' (ID: 1184), Prob: 0.0000
+Token: ' ended' (ID: 9482), Prob: 0.0000
+Token: ' way' (ID: 1616), Prob: 0.0000
+Token: ' stands' (ID: 13352), Prob: 0.0000
+Token: ' turned' (ID: 6519), Prob: 0.0000
+Token: ' initially' (ID: 15102), Prob: 0.0000
+Token: ' like' (ID: 1075), Prob: 0.0000
+Token: ' happened' (ID: 6932), Prob: 0.0000
+Token: ' must' (ID: 1969), Prob: 0.0000
+Token: ' never' (ID: 2581), Prob: 0.0000
+Token: ' today' (ID: 3351), Prob: 0.0000
+Token: ' please' (ID: 4486), Prob: 0.0000
+Token: ' usual' (ID: 13475), Prob: 0.0000
+Token: ' Used' (ID: 12199), Prob: 0.0000
+
+== Ranked Concepts (Clusters) ==
+Rank 1 | Concept Score: 0.0206
+  Tokens: [' used', ' Used']
+Rank 2 | Concept Score: 0.0074
+  Tokens: [' went', ' started', ' began', ' ran', ' worked', ' ended', ' turned', ' happened']
+Rank 3 | Concept Score: 0.0022
+  Tokens: [' would', ' could', ' might', ' may', ' must']
+Rank 4 | Concept Score: 0.0016
+  Tokens: [' remain', ' stayed', ' stay', ' remained']
+Rank 5 | Concept Score: 0.0012
+  Tokens: [' originally', ' previously', ' currently', ' already', ' formerly', ' initially']
+Rank 6 | Concept Score: 0.0012
+  Tokens: [' stood', ' stand', ' stands']
+Rank 7 | Concept Score: 0.0012
+  Tokens: [' got', ' came', ' come']
+Rank 8 | Concept Score: 0.0003
+  Tokens: [' get', ' left', ' say', ' need', ' way', ' like']
+Rank 9 | Concept Score: 0.0003
+  Tokens: [' look', ' seem', ' looked']
+Rank 10 | Concept Score: 0.0003
+  Tokens: [' always', ' ever', ' never']
+Rank 11 | Concept Score: 0.0002
+  Tokens: [' otherwise', ' else']
+Rank 12 | Concept Score: 0.0002
+  Tokens: [' usually', ' normally', ' usual']
+Rank 13 | Concept Score: 0.0002
+  Tokens: [' fell', ' fall', ' goes']
+Rank 14 | Concept Score: 0.0001
+  Tokens: [' still', ' today']
+Rank 15 | Concept Score: 0.0000
+  Tokens: [' please']
+
+**Chosen Concept:** Rank 1 with score 0.0206

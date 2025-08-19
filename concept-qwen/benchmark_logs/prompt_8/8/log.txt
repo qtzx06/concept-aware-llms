@@ -1,0 +1,60 @@
+--- Step 8 Log ---
+
+== Filtered Candidates ==
+Token: ' thing' (ID: 3166), Prob: 0.0062
+Token: ' something' (ID: 2494), Prob: 0.0058
+Token: ' could' (ID: 1410), Prob: 0.0045
+Token: ' information' (ID: 1995), Prob: 0.0040
+Token: ' without' (ID: 2041), Prob: 0.0040
+Token: ' even' (ID: 1496), Prob: 0.0037
+Token: ' happens' (ID: 8573), Prob: 0.0031
+Token: ' inside' (ID: 4766), Prob: 0.0027
+Token: ' might' (ID: 2578), Prob: 0.0026
+Token: ' happened' (ID: 6932), Prob: 0.0017
+Token: ' things' (ID: 2513), Prob: 0.0015
+Token: ' may' (ID: 1231), Prob: 0.0014
+Token: ' within' (ID: 2878), Prob: 0.0014
+Token: ' goes' (ID: 5780), Prob: 0.0012
+Token: ' comes' (ID: 4041), Prob: 0.0011
+Token: ' back' (ID: 1182), Prob: 0.0010
+Token: ' event' (ID: 1538), Prob: 0.0010
+Token: ' would' (ID: 1035), Prob: 0.0009
+Token: ' like' (ID: 1075), Prob: 0.0009
+Token: ' enough' (ID: 3322), Prob: 0.0009
+Token: ' personal' (ID: 4345), Prob: 0.0009
+Token: ' details' (ID: 3565), Prob: 0.0008
+Token: ' maybe' (ID: 7196), Prob: 0.0007
+Token: ' detail' (ID: 7716), Prob: 0.0007
+Token: ' related' (ID: 5435), Prob: 0.0006
+Token: ' going' (ID: 2087), Prob: 0.0006
+Token: ' fact' (ID: 2097), Prob: 0.0006
+Token: ' people' (ID: 1251), Prob: 0.0005
+Token: ' behind' (ID: 4815), Prob: 0.0005
+
+== Ranked Concepts (Clusters) ==
+Rank 1 | Concept Score: 0.0134
+  Tokens: [' thing', ' something', ' things']
+Rank 2 | Concept Score: 0.0101
+  Tokens: [' could', ' might', ' may', ' would', ' maybe']
+Rank 3 | Concept Score: 0.0081
+  Tokens: [' without', ' inside', ' within']
+Rank 4 | Concept Score: 0.0055
+  Tokens: [' information', ' details', ' detail']
+Rank 5 | Concept Score: 0.0048
+  Tokens: [' even', ' event']
+Rank 6 | Concept Score: 0.0048
+  Tokens: [' happens', ' happened']
+Rank 7 | Concept Score: 0.0029
+  Tokens: [' goes', ' comes', ' going']
+Rank 8 | Concept Score: 0.0016
+  Tokens: [' like', ' related']
+Rank 9 | Concept Score: 0.0015
+  Tokens: [' back', ' behind']
+Rank 10 | Concept Score: 0.0015
+  Tokens: [' personal', ' people']
+Rank 11 | Concept Score: 0.0009
+  Tokens: [' enough']
+Rank 12 | Concept Score: 0.0006
+  Tokens: [' fact']
+
+**Chosen Concept:** Rank 1 with score 0.0134

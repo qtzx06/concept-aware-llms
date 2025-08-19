@@ -1,0 +1,102 @@
+--- Step 103 Log ---
+
+== Filtered Candidates ==
+Token: ' twenty' (ID: 17073), Prob: 0.9922
+Token: ' two' (ID: 1378), Prob: 0.0041
+Token: ' twentieth' (ID: 61420), Prob: 0.0032
+Token: ' ten' (ID: 5779), Prob: 0.0003
+Token: ' Twenty' (ID: 43856), Prob: 0.0001
+Token: ' twenties' (ID: 96596), Prob: 0.0000
+Token: ' eighteen' (ID: 62034), Prob: 0.0000
+Token: ' twelve' (ID: 29235), Prob: 0.0000
+Token: ' nineteen' (ID: 93835), Prob: 0.0000
+Token: 'twenty' (ID: 93965), Prob: 0.0000
+Token: ' seventeen' (ID: 81397), Prob: 0.0000
+Token: ' hundred' (ID: 7739), Prob: 0.0000
+Token: ' sixteen' (ID: 58039), Prob: 0.0000
+Token: ' thirty' (ID: 26127), Prob: 0.0000
+Token: ' eight' (ID: 8063), Prob: 0.0000
+Token: ' forty' (ID: 35398), Prob: 0.0000
+Token: ' zero' (ID: 7168), Prob: 0.0000
+Token: ' number' (ID: 1372), Prob: 0.0000
+Token: ' dozen' (ID: 20403), Prob: 0.0000
+Token: ' fifty' (ID: 32417), Prob: 0.0000
+Token: ' even' (ID: 1496), Prob: 0.0000
+Token: ' second' (ID: 2086), Prob: 0.0000
+Token: 'Twenty' (ID: 75796), Prob: 0.0000
+Token: ' tens' (ID: 22008), Prob: 0.0000
+Token: ' thousand' (ID: 16183), Prob: 0.0000
+Token: ' many' (ID: 1657), Prob: 0.0000
+Token: ' deux' (ID: 25552), Prob: 0.0000
+Token: ' dua' (ID: 96821), Prob: 0.0000
+Token: ' part' (ID: 949), Prob: 0.0000
+Token: ' fifteen' (ID: 36655), Prob: 0.0000
+Token: ' twice' (ID: 10917), Prob: 0.0000
+Token: ' fourteen' (ID: 62260), Prob: 0.0000
+Token: ' seven' (ID: 8094), Prob: 0.0000
+Token: ' several' (ID: 3807), Prob: 0.0000
+Token: ' fort' (ID: 11845), Prob: 0.0000
+Token: ' decimal' (ID: 12122), Prob: 0.0000
+Token: ' footnote' (ID: 86810), Prob: 0.0000
+Token: ' twin' (ID: 27397), Prob: 0.0000
+Token: ' till' (ID: 11956), Prob: 0.0000
+Token: ' nineteenth' (ID: 64989), Prob: 0.0000
+Token: ' eleven' (ID: 44214), Prob: 0.0000
+Token: '-two' (ID: 37402), Prob: 0.0000
+Token: ' seventy' (ID: 69949), Prob: 0.0000
+Token: ' continuum' (ID: 85801), Prob: 0.0000
+Token: ' double' (ID: 1990), Prob: 0.0000
+Token: ' office' (ID: 5163), Prob: 0.0000
+Token: ' loop' (ID: 6337), Prob: 0.0000
+Token: ' beginning' (ID: 7167), Prob: 0.0000
+Token: ' twe' (ID: 14545), Prob: 0.0000
+Token: ' list' (ID: 1140), Prob: 0.0000
+Token: ' decade' (ID: 13212), Prob: 0.0000
+Token: ' sixty' (ID: 52374), Prob: 0.0000
+Token: ' six' (ID: 4743), Prob: 0.0000
+Token: ' hai' (ID: 46051), Prob: 0.0000
+Token: ' dozens' (ID: 21935), Prob: 0.0000
+Token: ' three' (ID: 2326), Prob: 0.0000
+Token: ' four' (ID: 3040), Prob: 0.0000
+
+== Ranked Concepts (Clusters) ==
+Rank 1 | Concept Score: 0.9922
+  Tokens: [' twenty', ' Twenty', 'twenty', ' thirty', ' forty', ' fifty', 'Twenty', ' seventy', ' sixty']
+Rank 2 | Concept Score: 0.0041
+  Tokens: [' two', ' deux', ' dua', '-two', ' hai']
+Rank 3 | Concept Score: 0.0032
+  Tokens: [' twentieth', ' twenties', ' nineteenth']
+Rank 4 | Concept Score: 0.0003
+  Tokens: [' ten']
+Rank 5 | Concept Score: 0.0001
+  Tokens: [' eighteen', ' twelve', ' nineteen', ' seventeen', ' sixteen', ' fifteen', ' fourteen', ' eleven']
+Rank 6 | Concept Score: 0.0000
+  Tokens: [' hundred', ' dozen', ' thousand', ' dozens']
+Rank 7 | Concept Score: 0.0000
+  Tokens: [' eight', ' seven', ' six', ' three', ' four']
+Rank 8 | Concept Score: 0.0000
+  Tokens: [' number', ' part', ' list']
+Rank 9 | Concept Score: 0.0000
+  Tokens: [' zero', ' loop']
+Rank 10 | Concept Score: 0.0000
+  Tokens: [' fort', ' footnote', ' till', ' beginning']
+Rank 11 | Concept Score: 0.0000
+  Tokens: [' many', ' several']
+Rank 12 | Concept Score: 0.0000
+  Tokens: [' even']
+Rank 13 | Concept Score: 0.0000
+  Tokens: [' second']
+Rank 14 | Concept Score: 0.0000
+  Tokens: [' tens']
+Rank 15 | Concept Score: 0.0000
+  Tokens: [' twice', ' double']
+Rank 16 | Concept Score: 0.0000
+  Tokens: [' decimal', ' decade']
+Rank 17 | Concept Score: 0.0000
+  Tokens: [' twin', ' twe']
+Rank 18 | Concept Score: 0.0000
+  Tokens: [' continuum']
+Rank 19 | Concept Score: 0.0000
+  Tokens: [' office']
+
+**Chosen Concept:** Rank 1 with score 0.9922

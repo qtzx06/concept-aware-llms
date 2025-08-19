@@ -1,0 +1,89 @@
+--- Step 120 Log ---
+
+== Filtered Candidates ==
+Token: ' twenty' (ID: 17073), Prob: 1.0000
+Token: ' Twenty' (ID: 43856), Prob: 0.0003
+Token: ' two' (ID: 1378), Prob: 0.0003
+Token: 'twenty' (ID: 93965), Prob: 0.0002
+Token: ' thirty' (ID: 26127), Prob: 0.0002
+Token: ' nineteen' (ID: 93835), Prob: 0.0001
+Token: ' eighteen' (ID: 62034), Prob: 0.0000
+Token: ' seventeen' (ID: 81397), Prob: 0.0000
+Token: ' twelve' (ID: 29235), Prob: 0.0000
+Token: ' twentieth' (ID: 61420), Prob: 0.0000
+Token: ' sixteen' (ID: 58039), Prob: 0.0000
+Token: ' twenties' (ID: 96596), Prob: 0.0000
+Token: 'Twenty' (ID: 75796), Prob: 0.0000
+Token: ' ten' (ID: 5779), Prob: 0.0000
+Token: ' forty' (ID: 35398), Prob: 0.0000
+Token: ' fifty' (ID: 32417), Prob: 0.0000
+Token: ' thirteen' (ID: 60659), Prob: 0.0000
+Token: ' number' (ID: 1372), Prob: 0.0000
+Token: ' hundred' (ID: 7739), Prob: 0.0000
+Token: ' fifteen' (ID: 36655), Prob: 0.0000
+Token: ' sixty' (ID: 52374), Prob: 0.0000
+Token: ' second' (ID: 2086), Prob: 0.0000
+Token: ' seventy' (ID: 69949), Prob: 0.0000
+Token: ' fourteen' (ID: 62260), Prob: 0.0000
+Token: ' nineteenth' (ID: 64989), Prob: 0.0000
+Token: ' dozen' (ID: 20403), Prob: 0.0000
+Token: ' three' (ID: 2326), Prob: 0.0000
+Token: ' zero' (ID: 7168), Prob: 0.0000
+Token: ' twice' (ID: 10917), Prob: 0.0000
+Token: ' thousand' (ID: 16183), Prob: 0.0000
+Token: ' woman' (ID: 5220), Prob: 0.0000
+Token: ' plus' (ID: 5519), Prob: 0.0000
+Token: ' eight' (ID: 8063), Prob: 0.0000
+Token: ' latter' (ID: 15271), Prob: 0.0000
+Token: ' hai' (ID: 46051), Prob: 0.0000
+Token: ' binary' (ID: 7868), Prob: 0.0000
+Token: ' eighty' (ID: 79579), Prob: 0.0000
+Token: ' ninety' (ID: 77876), Prob: 0.0000
+Token: ' one' (ID: 825), Prob: 0.0000
+Token: ' beginning' (ID: 7167), Prob: 0.0000
+Token: ' conse' (ID: 29925), Prob: 0.0000
+Token: ' Thirty' (ID: 66620), Prob: 0.0000
+Token: ' many' (ID: 1657), Prob: 0.0000
+Token: ' proverb' (ID: 78438), Prob: 0.0000
+Token: ' even' (ID: 1496), Prob: 0.0000
+Token: ' wonder' (ID: 5775), Prob: 0.0000
+Token: ' dozens' (ID: 21935), Prob: 0.0000
+Token: ' total' (ID: 2790), Prob: 0.0000
+Token: ' following' (ID: 2701), Prob: 0.0000
+Token: ' mean' (ID: 3076), Prob: 0.0000
+Token: ' twin' (ID: 27397), Prob: 0.0000
+Token: ' man' (ID: 883), Prob: 0.0000
+
+== Ranked Concepts (Clusters) ==
+Rank 1 | Concept Score: 1.0000
+  Tokens: [' twenty', ' Twenty', 'twenty', 'Twenty', ' Thirty']
+Rank 2 | Concept Score: 0.0003
+  Tokens: [' two', ' three', ' twice', ' hai']
+Rank 3 | Concept Score: 0.0002
+  Tokens: [' nineteen', ' eighteen', ' seventeen', ' twelve', ' sixteen', ' ten', ' thirteen', ' fifteen', ' fourteen', ' eight']
+Rank 4 | Concept Score: 0.0002
+  Tokens: [' thirty', ' forty', ' fifty', ' sixty', ' seventy', ' eighty', ' ninety']
+Rank 5 | Concept Score: 0.0000
+  Tokens: [' twentieth', ' twenties', ' nineteenth']
+Rank 6 | Concept Score: 0.0000
+  Tokens: [' number', ' total', ' mean']
+Rank 7 | Concept Score: 0.0000
+  Tokens: [' hundred', ' dozen', ' thousand', ' dozens']
+Rank 8 | Concept Score: 0.0000
+  Tokens: [' second', ' latter']
+Rank 9 | Concept Score: 0.0000
+  Tokens: [' zero', ' plus', ' one']
+Rank 10 | Concept Score: 0.0000
+  Tokens: [' conse', ' proverb', ' wonder']
+Rank 11 | Concept Score: 0.0000
+  Tokens: [' woman', ' man']
+Rank 12 | Concept Score: 0.0000
+  Tokens: [' binary', ' twin']
+Rank 13 | Concept Score: 0.0000
+  Tokens: [' beginning', ' following']
+Rank 14 | Concept Score: 0.0000
+  Tokens: [' many']
+Rank 15 | Concept Score: 0.0000
+  Tokens: [' even']
+
+**Chosen Concept:** Rank 1 with score 1.0000

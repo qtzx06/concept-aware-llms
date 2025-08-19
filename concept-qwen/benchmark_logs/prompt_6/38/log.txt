@@ -1,0 +1,75 @@
+--- Step 38 Log ---
+
+== Filtered Candidates ==
+Token: ' Also' (ID: 7281), Prob: 0.0850
+Token: ' However' (ID: 4354), Prob: 0.0549
+Token: ' Additionally' (ID: 22406), Prob: 0.0108
+Token: ' Every' (ID: 7209), Prob: 0.0079
+Token: ' Please' (ID: 5209), Prob: 0.0070
+Token: ' Everyone' (ID: 21455), Prob: 0.0062
+Token: ' Wait' (ID: 13824), Prob: 0.0051
+Token: ' Therefore' (ID: 15277), Prob: 0.0048
+Token: ' Furthermore' (ID: 23405), Prob: 0.0042
+Token: ' Let' (ID: 6771), Prob: 0.0027
+Token: ' One' (ID: 3776), Prob: 0.0023
+Token: ' Even' (ID: 7418), Prob: 0.0021
+Token: ' Thus' (ID: 14301), Prob: 0.0021
+Token: ' Finally' (ID: 17375), Prob: 0.0020
+Token: ' Still' (ID: 16377), Prob: 0.0017
+Token: ' Moreover' (ID: 22827), Prob: 0.0016
+Token: ' Since' (ID: 8704), Prob: 0.0015
+Token: ' Note' (ID: 7036), Prob: 0.0013
+Token: ' Could' (ID: 16503), Prob: 0.0013
+Token: ' Whenever' (ID: 42533), Prob: 0.0013
+Token: ' Except' (ID: 37167), Prob: 0.0011
+Token: ' Suppose' (ID: 82610), Prob: 0.0011
+Token: ' People' (ID: 8853), Prob: 0.0011
+Token: ' etc' (ID: 4992), Prob: 0.0009
+Token: ' Maybe' (ID: 10696), Prob: 0.0009
+Token: ' Someone' (ID: 34172), Prob: 0.0009
+Token: ' Perhaps' (ID: 18765), Prob: 0.0008
+Token: ' According' (ID: 10548), Prob: 0.0008
+Token: ' Unless' (ID: 10878), Prob: 0.0008
+Token: ' Despite' (ID: 17715), Prob: 0.0007
+Token: ' Determine' (ID: 29901), Prob: 0.0007
+Token: 'Also' (ID: 13394), Prob: 0.0007
+Token: ' Yet' (ID: 14626), Prob: 0.0007
+Token: ' Eventually' (ID: 37174), Prob: 0.0007
+Token: ' Assume' (ID: 62197), Prob: 0.0006
+Token: ' Similarly' (ID: 34239), Prob: 0.0006
+
+== Ranked Concepts (Clusters) ==
+Rank 1 | Concept Score: 0.1030
+  Tokens: [' Also', ' Additionally', ' Furthermore', ' Moreover', 'Also', ' Similarly']
+Rank 2 | Concept Score: 0.0618
+  Tokens: [' However', ' Therefore', ' Thus']
+Rank 3 | Concept Score: 0.0092
+  Tokens: [' Every', ' Whenever']
+Rank 4 | Concept Score: 0.0082
+  Tokens: [' Everyone', ' People', ' Someone']
+Rank 5 | Concept Score: 0.0070
+  Tokens: [' Please']
+Rank 6 | Concept Score: 0.0051
+  Tokens: [' Wait']
+Rank 7 | Concept Score: 0.0040
+  Tokens: [' Let', ' Note']
+Rank 8 | Concept Score: 0.0031
+  Tokens: [' Could', ' Maybe', ' Perhaps']
+Rank 9 | Concept Score: 0.0029
+  Tokens: [' Even', ' Despite']
+Rank 10 | Concept Score: 0.0027
+  Tokens: [' Finally', ' Eventually']
+Rank 11 | Concept Score: 0.0025
+  Tokens: [' Suppose', ' Determine', ' Assume']
+Rank 12 | Concept Score: 0.0023
+  Tokens: [' Still', ' Yet']
+Rank 13 | Concept Score: 0.0023
+  Tokens: [' One']
+Rank 14 | Concept Score: 0.0022
+  Tokens: [' Since', ' According']
+Rank 15 | Concept Score: 0.0019
+  Tokens: [' Except', ' Unless']
+Rank 16 | Concept Score: 0.0009
+  Tokens: [' etc']
+
+**Chosen Concept:** Rank 1 with score 0.1030

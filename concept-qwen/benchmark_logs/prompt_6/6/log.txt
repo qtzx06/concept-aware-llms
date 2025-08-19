@@ -1,0 +1,90 @@
+--- Step 6 Log ---
+
+== Filtered Candidates ==
+Token: ' person' (ID: 1697), Prob: 0.5352
+Token: ' child' (ID: 1682), Prob: 0.0036
+Token: ' another' (ID: 2441), Prob: 0.0022
+Token: ' human' (ID: 3738), Prob: 0.0017
+Token: ' randomly' (ID: 26618), Prob: 0.0016
+Token: ' without' (ID: 2041), Prob: 0.0014
+Token: ' individual' (ID: 3842), Prob: 0.0012
+Token: ' enemy' (ID: 9175), Prob: 0.0012
+Token: ' friend' (ID: 4238), Prob: 0.0008
+Token: ' woman' (ID: 5220), Prob: 0.0007
+Token: ' less' (ID: 2686), Prob: 0.0006
+Token: ' random' (ID: 4194), Prob: 0.0006
+Token: ' member' (ID: 4462), Prob: 0.0006
+Token: ' victim' (ID: 11734), Prob: 0.0006
+Token: ' opponent' (ID: 14704), Prob: 0.0006
+Token: ' citizen' (ID: 21860), Prob: 0.0006
+Token: ' per' (ID: 817), Prob: 0.0005
+Token: ' someone' (ID: 4325), Prob: 0.0005
+Token: ' family' (ID: 2997), Prob: 0.0005
+Token: ' civilian' (ID: 28928), Prob: 0.0005
+Token: ' adult' (ID: 6683), Prob: 0.0004
+Token: ' sibling' (ID: 44223), Prob: 0.0004
+Token: ' innocent' (ID: 24243), Prob: 0.0004
+Token: ' every' (ID: 1449), Prob: 0.0004
+Token: ' non' (ID: 2477), Prob: 0.0003
+Token: ' death' (ID: 4545), Prob: 0.0003
+Token: ' female' (ID: 8778), Prob: 0.0003
+Token: ' different' (ID: 2155), Prob: 0.0002
+Token: ' alien' (ID: 19594), Prob: 0.0002
+Token: ' free' (ID: 1910), Prob: 0.0002
+Token: ' life' (ID: 2272), Prob: 0.0002
+Token: ' others' (ID: 3800), Prob: 0.0002
+Token: ' alive' (ID: 13675), Prob: 0.0002
+Token: ' stranger' (ID: 33958), Prob: 0.0002
+Token: ' personal' (ID: 4345), Prob: 0.0002
+Token: ' spouse' (ID: 30980), Prob: 0.0002
+Token: ' neighbor' (ID: 9565), Prob: 0.0002
+Token: ' third' (ID: 4843), Prob: 0.0002
+Token: ' thousand' (ID: 16183), Prob: 0.0002
+Token: ' single' (ID: 3175), Prob: 0.0001
+Token: ' lover' (ID: 30557), Prob: 0.0001
+Token: ' also' (ID: 1083), Prob: 0.0001
+Token: ' depending' (ID: 11649), Prob: 0.0001
+Token: ' either' (ID: 2987), Prob: 0.0001
+Token: ' according' (ID: 4092), Prob: 0.0001
+Token: ' additional' (ID: 5107), Prob: 0.0001
+Token: ' living' (ID: 5382), Prob: 0.0001
+
+== Ranked Concepts (Clusters) ==
+Rank 1 | Concept Score: 0.5352
+  Tokens: [' person', ' human']
+Rank 2 | Concept Score: 0.0045
+  Tokens: [' child', ' family', ' sibling']
+Rank 3 | Concept Score: 0.0026
+  Tokens: [' without', ' per', ' every', ' depending', ' according']
+Rank 4 | Concept Score: 0.0025
+  Tokens: [' enemy', ' victim', ' opponent', ' stranger']
+Rank 5 | Concept Score: 0.0025
+  Tokens: [' another', ' others', ' also']
+Rank 6 | Concept Score: 0.0022
+  Tokens: [' randomly', ' random']
+Rank 7 | Concept Score: 0.0015
+  Tokens: [' individual', ' personal', ' single']
+Rank 8 | Concept Score: 0.0014
+  Tokens: [' citizen', ' civilian', ' adult']
+Rank 9 | Concept Score: 0.0013
+  Tokens: [' friend', ' spouse', ' neighbor', ' lover']
+Rank 10 | Concept Score: 0.0012
+  Tokens: [' less', ' non', ' free', ' third']
+Rank 11 | Concept Score: 0.0009
+  Tokens: [' woman', ' female']
+Rank 12 | Concept Score: 0.0008
+  Tokens: [' death', ' life', ' alive', ' living']
+Rank 13 | Concept Score: 0.0006
+  Tokens: [' innocent', ' alien']
+Rank 14 | Concept Score: 0.0006
+  Tokens: [' member']
+Rank 15 | Concept Score: 0.0005
+  Tokens: [' someone']
+Rank 16 | Concept Score: 0.0003
+  Tokens: [' different', ' additional']
+Rank 17 | Concept Score: 0.0002
+  Tokens: [' thousand']
+Rank 18 | Concept Score: 0.0001
+  Tokens: [' either']
+
+**Chosen Concept:** Rank 1 with score 0.5352

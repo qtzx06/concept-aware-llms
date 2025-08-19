@@ -1,0 +1,143 @@
+--- Step 53 Log ---
+
+== Filtered Candidates ==
+Token: ' person' (ID: 1697), Prob: 0.9805
+Token: ' feelings' (ID: 15650), Prob: 0.0015
+Token: ' people' (ID: 1251), Prob: 0.0010
+Token: ' personal' (ID: 4345), Prob: 0.0010
+Token: ' persons' (ID: 11186), Prob: 0.0003
+Token: ' feeling' (ID: 8266), Prob: 0.0003
+Token: ' individual' (ID: 3842), Prob: 0.0002
+Token: ' emotions' (ID: 21261), Prob: 0.0002
+Token: ' fact' (ID: 2097), Prob: 0.0002
+Token: ' actual' (ID: 5042), Prob: 0.0002
+Token: ' personality' (ID: 17294), Prob: 0.0002
+Token: ' pain' (ID: 6646), Prob: 0.0001
+Token: ' man' (ID: 883), Prob: 0.0001
+Token: ' owner' (ID: 6372), Prob: 0.0001
+Token: ' things' (ID: 2513), Prob: 0.0001
+Token: ' patient' (ID: 8720), Prob: 0.0001
+Token: ' human' (ID: 3738), Prob: 0.0001
+Token: ' situation' (ID: 6534), Prob: 0.0001
+Token: ' relationship' (ID: 5025), Prob: 0.0001
+Token: ' place' (ID: 1992), Prob: 0.0001
+Token: ' emotional' (ID: 14269), Prob: 0.0001
+Token: ' way' (ID: 1616), Prob: 0.0001
+Token: ' environment' (ID: 4573), Prob: 0.0001
+Token: ' one' (ID: 825), Prob: 0.0001
+Token: ' purpose' (ID: 7428), Prob: 0.0001
+Token: ' like' (ID: 1075), Prob: 0.0001
+Token: ' color' (ID: 1894), Prob: 0.0001
+Token: ' real' (ID: 1931), Prob: 0.0001
+Token: ' body' (ID: 2487), Prob: 0.0001
+Token: ' following' (ID: 2701), Prob: 0.0001
+Token: ' woman' (ID: 5220), Prob: 0.0001
+Token: ' life' (ID: 2272), Prob: 0.0001
+Token: ' friend' (ID: 4238), Prob: 0.0001
+Token: ' death' (ID: 4545), Prob: 0.0001
+Token: ' company' (ID: 2813), Prob: 0.0001
+Token: ' partner' (ID: 8263), Prob: 0.0001
+Token: ' thing' (ID: 3166), Prob: 0.0001
+Token: ' past' (ID: 3267), Prob: 0.0001
+Token: ' emotion' (ID: 19772), Prob: 0.0001
+Token: ' presence' (ID: 9362), Prob: 0.0001
+Token: ' value' (ID: 897), Prob: 0.0001
+Token: ' date' (ID: 2400), Prob: 0.0001
+Token: ' love' (ID: 2948), Prob: 0.0001
+Token: ' possible' (ID: 3204), Prob: 0.0001
+Token: ' amount' (ID: 3311), Prob: 0.0001
+Token: ' social' (ID: 3590), Prob: 0.0001
+Token: ' time' (ID: 882), Prob: 0.0000
+Token: ' information' (ID: 1995), Prob: 0.0000
+Token: ' character' (ID: 3668), Prob: 0.0000
+Token: ' price' (ID: 3349), Prob: 0.0000
+Token: ' physical' (ID: 6961), Prob: 0.0000
+Token: ' part' (ID: 949), Prob: 0.0000
+Token: ' sense' (ID: 5530), Prob: 0.0000
+Token: ' weather' (ID: 9104), Prob: 0.0000
+Token: ' name' (ID: 829), Prob: 0.0000
+Token: ' reason' (ID: 2874), Prob: 0.0000
+Token: ' heart' (ID: 4746), Prob: 0.0000
+Token: ' age' (ID: 4231), Prob: 0.0000
+Token: ' likes' (ID: 13151), Prob: 0.0000
+Token: ' child' (ID: 1682), Prob: 0.0000
+Token: ' day' (ID: 1899), Prob: 0.0000
+Token: ' kind' (ID: 3093), Prob: 0.0000
+Token: ' animal' (ID: 9864), Prob: 0.0000
+Token: ' victim' (ID: 11734), Prob: 0.0000
+Token: ' speaker' (ID: 18601), Prob: 0.0000
+Token: ' user' (ID: 1196), Prob: 0.0000
+Token: ' feel' (ID: 2666), Prob: 0.0000
+Token: ' plant' (ID: 6008), Prob: 0.0000
+Token: ' self' (ID: 656), Prob: 0.0000
+Token: ' type' (ID: 943), Prob: 0.0000
+Token: ' parent' (ID: 2681), Prob: 0.0000
+Token: ' important' (ID: 2989), Prob: 0.0000
+Token: ' mother' (ID: 6554), Prob: 0.0000
+Token: ' nature' (ID: 6993), Prob: 0.0000
+Token: ' importance' (ID: 12650), Prob: 0.0000
+Token: ' number' (ID: 1372), Prob: 0.0000
+Token: ' health' (ID: 2820), Prob: 0.0000
+Token: ' specific' (ID: 3151), Prob: 0.0000
+Token: ' family' (ID: 2997), Prob: 0.0000
+Token: ' fear' (ID: 8679), Prob: 0.0000
+Token: ' identity' (ID: 9569), Prob: 0.0000
+Token: ' present' (ID: 3042), Prob: 0.0000
+Token: ' first' (ID: 1156), Prob: 0.0000
+Token: ' object' (ID: 1633), Prob: 0.0000
+Token: ' world' (ID: 1879), Prob: 0.0000
+Token: ' job' (ID: 2618), Prob: 0.0000
+Token: ' client' (ID: 2943), Prob: 0.0000
+Token: ' general' (ID: 4586), Prob: 0.0000
+
+== Ranked Concepts (Clusters) ==
+Rank 1 | Concept Score: 0.9805
+  Tokens: [' person', ' people', ' persons', ' man', ' woman']
+Rank 2 | Concept Score: 0.0020
+  Tokens: [' feelings', ' feeling', ' pain', ' sense', ' feel', ' fear']
+Rank 3 | Concept Score: 0.0012
+  Tokens: [' personal', ' individual', ' human']
+Rank 4 | Concept Score: 0.0004
+  Tokens: [' owner', ' patient', ' company', ' victim', ' speaker', ' user', ' client']
+Rank 5 | Concept Score: 0.0004
+  Tokens: [' actual', ' one', ' real', ' possible', ' specific', ' first']
+Rank 6 | Concept Score: 0.0004
+  Tokens: [' fact', ' place', ' way', ' part']
+Rank 7 | Concept Score: 0.0003
+  Tokens: [' emotions', ' emotional', ' emotion']
+Rank 8 | Concept Score: 0.0003
+  Tokens: [' situation', ' relationship', ' environment']
+Rank 9 | Concept Score: 0.0003
+  Tokens: [' color', ' date', ' time', ' price', ' age', ' day']
+Rank 10 | Concept Score: 0.0003
+  Tokens: [' friend', ' partner', ' child', ' parent', ' mother', ' family']
+Rank 11 | Concept Score: 0.0002
+  Tokens: [' life', ' death', ' heart', ' health', ' world']
+Rank 12 | Concept Score: 0.0002
+  Tokens: [' personality', ' character', ' identity']
+Rank 13 | Concept Score: 0.0002
+  Tokens: [' things', ' thing']
+Rank 14 | Concept Score: 0.0002
+  Tokens: [' purpose', ' presence', ' reason']
+Rank 15 | Concept Score: 0.0002
+  Tokens: [' value', ' amount', ' name', ' number']
+Rank 16 | Concept Score: 0.0002
+  Tokens: [' like', ' love', ' likes']
+Rank 17 | Concept Score: 0.0002
+  Tokens: [' following', ' past', ' present']
+Rank 18 | Concept Score: 0.0001
+  Tokens: [' information', ' important', ' importance', ' object']
+Rank 19 | Concept Score: 0.0001
+  Tokens: [' social', ' physical', ' general']
+Rank 20 | Concept Score: 0.0001
+  Tokens: [' body', ' self']
+Rank 21 | Concept Score: 0.0001
+  Tokens: [' kind', ' type', ' nature']
+Rank 22 | Concept Score: 0.0001
+  Tokens: [' weather', ' animal']
+Rank 23 | Concept Score: 0.0000
+  Tokens: [' plant']
+Rank 24 | Concept Score: 0.0000
+  Tokens: [' job']
+
+**Chosen Concept:** Rank 1 with score 0.9805

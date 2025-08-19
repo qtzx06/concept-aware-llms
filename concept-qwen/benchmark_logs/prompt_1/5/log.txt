@@ -1,0 +1,71 @@
+--- Step 5 Log ---
+
+== Filtered Candidates ==
+Token: ' cry' (ID: 15729), Prob: 0.0143
+Token: ' love' (ID: 2948), Prob: 0.0072
+Token: ' crying' (ID: 30199), Prob: 0.0060
+Token: ' tears' (ID: 23139), Prob: 0.0023
+Token: ' emotion' (ID: 19772), Prob: 0.0021
+Token: ' like' (ID: 1075), Prob: 0.0018
+Token: ' LOVE' (ID: 39735), Prob: 0.0012
+Token: ' pain' (ID: 6646), Prob: 0.0011
+Token: ' dream' (ID: 7904), Prob: 0.0011
+Token: ' heart' (ID: 4746), Prob: 0.0010
+Token: ' cried' (ID: 38069), Prob: 0.0010
+Token: ' rainbow' (ID: 47613), Prob: 0.0010
+Token: ' tear' (ID: 17576), Prob: 0.0008
+Token: ' emotional' (ID: 14269), Prob: 0.0007
+Token: ' soul' (ID: 13527), Prob: 0.0007
+Token: ' inside' (ID: 4766), Prob: 0.0006
+Token: ' cow' (ID: 19362), Prob: 0.0006
+Token: ' Cry' (ID: 42705), Prob: 0.0006
+Token: ' eyes' (ID: 6414), Prob: 0.0006
+Token: ' eye' (ID: 7912), Prob: 0.0006
+Token: ' play' (ID: 1486), Prob: 0.0005
+Token: ' scream' (ID: 45689), Prob: 0.0005
+Token: ' anger' (ID: 19234), Prob: 0.0004
+Token: ' sorrow' (ID: 57496), Prob: 0.0004
+Token: ' empathy' (ID: 47351), Prob: 0.0004
+Token: ' come' (ID: 2525), Prob: 0.0004
+Token: ' fall' (ID: 4399), Prob: 0.0004
+Token: ' rain' (ID: 11174), Prob: 0.0004
+Token: ' sad' (ID: 12421), Prob: 0.0004
+Token: ' grief' (ID: 37284), Prob: 0.0004
+Token: ' feel' (ID: 2666), Prob: 0.0004
+Token: ' words' (ID: 4244), Prob: 0.0004
+Token: ' please' (ID: 4486), Prob: 0.0003
+Token: ' baby' (ID: 8770), Prob: 0.0003
+Token: ' Love' (ID: 10689), Prob: 0.0003
+Token: ' emotions' (ID: 21261), Prob: 0.0003
+
+== Ranked Concepts (Clusters) ==
+Rank 1 | Concept Score: 0.0225
+  Tokens: [' cry', ' crying', ' cried', ' Cry', ' scream']
+Rank 2 | Concept Score: 0.0087
+  Tokens: [' love', ' LOVE', ' Love']
+Rank 3 | Concept Score: 0.0035
+  Tokens: [' emotion', ' emotional', ' empathy', ' emotions']
+Rank 4 | Concept Score: 0.0032
+  Tokens: [' tears', ' tear']
+Rank 5 | Concept Score: 0.0028
+  Tokens: [' like', ' inside', ' please']
+Rank 6 | Concept Score: 0.0027
+  Tokens: [' pain', ' anger', ' sorrow', ' sad', ' grief']
+Rank 7 | Concept Score: 0.0020
+  Tokens: [' dream', ' cow', ' baby']
+Rank 8 | Concept Score: 0.0017
+  Tokens: [' heart', ' soul']
+Rank 9 | Concept Score: 0.0014
+  Tokens: [' rainbow', ' rain']
+Rank 10 | Concept Score: 0.0011
+  Tokens: [' eyes', ' eye']
+Rank 11 | Concept Score: 0.0008
+  Tokens: [' come', ' fall']
+Rank 12 | Concept Score: 0.0005
+  Tokens: [' play']
+Rank 13 | Concept Score: 0.0004
+  Tokens: [' feel']
+Rank 14 | Concept Score: 0.0004
+  Tokens: [' words']
+
+**Chosen Concept:** Rank 1 with score 0.0225

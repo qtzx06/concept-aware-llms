@@ -1,0 +1,79 @@
+--- Step 108 Log ---
+
+== Filtered Candidates ==
+Token: ' Therefore' (ID: 15277), Prob: 0.0508
+Token: ' Researchers' (ID: 58150), Prob: 0.0308
+Token: ' Scientists' (ID: 56016), Prob: 0.0165
+Token: ' Based' (ID: 20205), Prob: 0.0155
+Token: ' According' (ID: 10548), Prob: 0.0114
+Token: ' Research' (ID: 8319), Prob: 0.0083
+Token: ' Thus' (ID: 14301), Prob: 0.0083
+Token: ' Since' (ID: 8704), Prob: 0.0078
+Token: ' Despite' (ID: 17715), Prob: 0.0073
+Token: ' However' (ID: 4354), Prob: 0.0069
+Token: ' Also' (ID: 7281), Prob: 0.0057
+Token: ' Given' (ID: 16246), Prob: 0.0039
+Token: ' Hence' (ID: 31040), Prob: 0.0039
+Token: ' Let' (ID: 6771), Prob: 0.0027
+Token: ' Due' (ID: 23662), Prob: 0.0021
+Token: ' Even' (ID: 7418), Prob: 0.0020
+Token: ' Suppose' (ID: 82610), Prob: 0.0020
+Token: ' Additionally' (ID: 22406), Prob: 0.0014
+Token: ' Still' (ID: 16377), Prob: 0.0012
+Token: ' One' (ID: 3776), Prob: 0.0011
+Token: ' Furthermore' (ID: 23405), Prob: 0.0011
+Token: ' Find' (ID: 7379), Prob: 0.0010
+Token: ' Today' (ID: 11201), Prob: 0.0009
+Token: ' Whether' (ID: 13139), Prob: 0.0009
+Token: ' Using' (ID: 12091), Prob: 0.0008
+Token: ' Please' (ID: 5209), Prob: 0.0008
+Token: ' Assuming' (ID: 63964), Prob: 0.0008
+Token: ' Explain' (ID: 81917), Prob: 0.0008
+Token: ' Currently' (ID: 24150), Prob: 0.0006
+Token: ' researchers' (ID: 11811), Prob: 0.0006
+Token: ' Meanwhile' (ID: 25894), Prob: 0.0006
+Token: ' Unfortunately' (ID: 18656), Prob: 0.0006
+Token: ' Determine' (ID: 29901), Prob: 0.0006
+Token: ' Without' (ID: 17147), Prob: 0.0005
+Token: ' Moreover' (ID: 22827), Prob: 0.0005
+Token: ' Team' (ID: 7909), Prob: 0.0005
+Token: ' Could' (ID: 16503), Prob: 0.0005
+Token: ' Current' (ID: 9125), Prob: 0.0004
+Token: ' Yet' (ID: 14626), Prob: 0.0004
+Token: ' Experts' (ID: 50759), Prob: 0.0004
+
+== Ranked Concepts (Clusters) ==
+Rank 1 | Concept Score: 0.0630
+  Tokens: [' Therefore', ' Thus', ' Hence']
+Rank 2 | Concept Score: 0.0562
+  Tokens: [' Researchers', ' Scientists', ' Research', ' researchers']
+Rank 3 | Concept Score: 0.0277
+  Tokens: [' Based', ' According', ' Using']
+Rank 4 | Concept Score: 0.0138
+  Tokens: [' Since', ' Given', ' Due']
+Rank 5 | Concept Score: 0.0093
+  Tokens: [' Despite', ' Even']
+Rank 6 | Concept Score: 0.0086
+  Tokens: [' Also', ' Additionally', ' Furthermore', ' Moreover']
+Rank 7 | Concept Score: 0.0081
+  Tokens: [' However', ' Meanwhile', ' Unfortunately']
+Rank 8 | Concept Score: 0.0059
+  Tokens: [' Let', ' Suppose', ' Assuming', ' Without']
+Rank 9 | Concept Score: 0.0023
+  Tokens: [' Find', ' Explain', ' Determine']
+Rank 10 | Concept Score: 0.0020
+  Tokens: [' Today', ' Currently', ' Current']
+Rank 11 | Concept Score: 0.0016
+  Tokens: [' Still', ' Yet']
+Rank 12 | Concept Score: 0.0012
+  Tokens: [' Please', ' Could']
+Rank 13 | Concept Score: 0.0011
+  Tokens: [' One']
+Rank 14 | Concept Score: 0.0009
+  Tokens: [' Whether']
+Rank 15 | Concept Score: 0.0005
+  Tokens: [' Team']
+Rank 16 | Concept Score: 0.0004
+  Tokens: [' Experts']
+
+**Chosen Concept:** Rank 1 with score 0.0630

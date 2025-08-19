@@ -1,0 +1,111 @@
+--- Step 13 Log ---
+
+== Filtered Candidates ==
+Token: ' renew' (ID: 13873), Prob: 0.0299
+Token: ' paying' (ID: 12515), Prob: 0.0264
+Token: ' taking' (ID: 4633), Prob: 0.0248
+Token: ' going' (ID: 2087), Prob: 0.0219
+Token: ' getting' (ID: 3709), Prob: 0.0219
+Token: ' trading' (ID: 11133), Prob: 0.0117
+Token: ' giving' (ID: 7086), Prob: 0.0103
+Token: ' buying' (ID: 11833), Prob: 0.0103
+Token: ' using' (ID: 1667), Prob: 0.0081
+Token: ' continuing' (ID: 14354), Prob: 0.0076
+Token: ' replacing' (ID: 24891), Prob: 0.0076
+Token: ' keeping' (ID: 10282), Prob: 0.0071
+Token: ' letting' (ID: 20194), Prob: 0.0071
+Token: ' helping' (ID: 10476), Prob: 0.0067
+Token: ' selling' (ID: 11236), Prob: 0.0063
+Token: ' trying' (ID: 4460), Prob: 0.0055
+Token: ' working' (ID: 3238), Prob: 0.0052
+Token: ' making' (ID: 3259), Prob: 0.0052
+Token: ' leaving' (ID: 9380), Prob: 0.0052
+Token: ' staying' (ID: 19429), Prob: 0.0052
+Token: ' losing' (ID: 13188), Prob: 0.0041
+Token: ' something' (ID: 2494), Prob: 0.0034
+Token: ' waiting' (ID: 8580), Prob: 0.0034
+Token: ' returning' (ID: 13451), Prob: 0.0032
+Token: ' spending' (ID: 10164), Prob: 0.0028
+Token: ' joining' (ID: 18169), Prob: 0.0028
+Token: ' another' (ID: 2441), Prob: 0.0025
+Token: ' asking' (ID: 10161), Prob: 0.0022
+Token: ' someone' (ID: 4325), Prob: 0.0020
+Token: ' coming' (ID: 5001), Prob: 0.0019
+Token: ' starting' (ID: 5916), Prob: 0.0019
+Token: ' allowing' (ID: 10693), Prob: 0.0019
+Token: ' trade' (ID: 6559), Prob: 0.0018
+Token: ' maybe' (ID: 7196), Prob: 0.0018
+Token: ' switching' (ID: 27765), Prob: 0.0017
+Token: ' dealing' (ID: 14550), Prob: 0.0015
+Token: ' playing' (ID: 5619), Prob: 0.0014
+Token: ' sending' (ID: 11628), Prob: 0.0014
+Token: ' purchasing' (ID: 22577), Prob: 0.0014
+Token: ' proceeding' (ID: 38447), Prob: 0.0013
+Token: ' relying' (ID: 38561), Prob: 0.0013
+Token: ' money' (ID: 3220), Prob: 0.0012
+Token: ' receiving' (ID: 12308), Prob: 0.0012
+Token: ' needing' (ID: 32821), Prob: 0.0012
+Token: ' stealing' (ID: 37998), Prob: 0.0012
+Token: ' exchanging' (ID: 78431), Prob: 0.0012
+Token: ' living' (ID: 5382), Prob: 0.0012
+Token: ' following' (ID: 2701), Prob: 0.0011
+Token: ' looking' (ID: 3330), Prob: 0.0011
+Token: ' moving' (ID: 7218), Prob: 0.0011
+Token: ' putting' (ID: 10687), Prob: 0.0011
+Token: ' repairing' (ID: 67237), Prob: 0.0011
+Token: ' let' (ID: 1077), Prob: 0.0010
+Token: ' pay' (ID: 2291), Prob: 0.0010
+Token: ' running' (ID: 4303), Prob: 0.0010
+Token: ' renting' (ID: 52227), Prob: 0.0010
+Token: ' changing' (ID: 10018), Prob: 0.0010
+Token: ' pursuing' (ID: 33018), Prob: 0.0010
+Token: ' becoming' (ID: 10454), Prob: 0.0009
+Token: ' passing' (ID: 12299), Prob: 0.0009
+Token: ' quitting' (ID: 68084), Prob: 0.0009
+Token: ' calling' (ID: 8098), Prob: 0.0009
+Token: ' competing' (ID: 26168), Prob: 0.0009
+Token: ' renewal' (ID: 42801), Prob: 0.0009
+Token: ' swapping' (ID: 63719), Prob: 0.0009
+Token: ' still' (ID: 2058), Prob: 0.0008
+
+== Ranked Concepts (Clusters) ==
+Rank 1 | Concept Score: 0.0356
+  Tokens: [' giving', ' keeping', ' helping', ' making', ' leaving', ' putting']
+Rank 2 | Concept Score: 0.0320
+  Tokens: [' getting', ' staying', ' losing', ' becoming']
+Rank 3 | Concept Score: 0.0317
+  Tokens: [' renew', ' repairing', ' renewal']
+Rank 4 | Concept Score: 0.0286
+  Tokens: [' paying', ' money', ' pay']
+Rank 5 | Concept Score: 0.0277
+  Tokens: [' going', ' coming', ' starting', ' moving', ' passing']
+Rank 6 | Concept Score: 0.0275
+  Tokens: [' taking', ' sending', ' receiving']
+Rank 7 | Concept Score: 0.0231
+  Tokens: [' buying', ' selling', ' spending', ' purchasing', ' stealing', ' renting']
+Rank 8 | Concept Score: 0.0227
+  Tokens: [' using', ' trying', ' asking', ' dealing', ' relying', ' needing', ' looking', ' pursuing', ' calling']
+Rank 9 | Concept Score: 0.0135
+  Tokens: [' trading', ' trade']
+Rank 10 | Concept Score: 0.0123
+  Tokens: [' replacing', ' switching', ' exchanging', ' changing', ' swapping']
+Rank 11 | Concept Score: 0.0121
+  Tokens: [' working', ' waiting', ' playing', ' living', ' running']
+Rank 12 | Concept Score: 0.0101
+  Tokens: [' letting', ' allowing', ' let']
+Rank 13 | Concept Score: 0.0096
+  Tokens: [' something', ' another', ' someone', ' maybe']
+Rank 14 | Concept Score: 0.0089
+  Tokens: [' continuing', ' proceeding']
+Rank 15 | Concept Score: 0.0037
+  Tokens: [' joining', ' quitting']
+Rank 16 | Concept Score: 0.0032
+  Tokens: [' returning']
+Rank 17 | Concept Score: 0.0011
+  Tokens: [' following']
+Rank 18 | Concept Score: 0.0009
+  Tokens: [' competing']
+Rank 19 | Concept Score: 0.0008
+  Tokens: [' still']
+
+**Chosen Concept:** Rank 1 with score 0.0356

@@ -1,0 +1,100 @@
+--- Step 129 Log ---
+
+== Filtered Candidates ==
+Token: ' may' (ID: 1231), Prob: 0.7266
+Token: ' causes' (ID: 11137), Prob: 0.0596
+Token: ' could' (ID: 1410), Prob: 0.0320
+Token: ' might' (ID: 2578), Prob: 0.0104
+Token: ' also' (ID: 1083), Prob: 0.0063
+Token: ' would' (ID: 1035), Prob: 0.0025
+Token: ' must' (ID: 1969), Prob: 0.0023
+Token: ' poses' (ID: 33003), Prob: 0.0019
+Token: ' leads' (ID: 11508), Prob: 0.0016
+Token: ' caused' (ID: 8881), Prob: 0.0015
+Token: ' presents' (ID: 18404), Prob: 0.0008
+Token: ' carries' (ID: 23377), Prob: 0.0007
+Token: ' cannot' (ID: 4157), Prob: 0.0005
+Token: ' cause' (ID: 5240), Prob: 0.0005
+Token: ' alone' (ID: 7484), Prob: 0.0005
+Token: ' produces' (ID: 18644), Prob: 0.0005
+Token: ' causing' (ID: 14381), Prob: 0.0004
+Token: ' provides' (ID: 5707), Prob: 0.0004
+Token: ' appears' (ID: 7952), Prob: 0.0003
+Token: ' contains' (ID: 5610), Prob: 0.0003
+Token: ' acts' (ID: 14056), Prob: 0.0003
+Token: ' plays' (ID: 11088), Prob: 0.0002
+Token: ' results' (ID: 3059), Prob: 0.0002
+Token: ' affects' (ID: 21501), Prob: 0.0002
+Token: ' side' (ID: 3108), Prob: 0.0002
+Token: ' shows' (ID: 4933), Prob: 0.0002
+Token: ' possibly' (ID: 10767), Prob: 0.0002
+Token: ' creates' (ID: 11450), Prob: 0.0002
+Token: ' still' (ID: 2058), Prob: 0.0001
+Token: ' seems' (ID: 4977), Prob: 0.0001
+Token: ' brings' (ID: 12434), Prob: 0.0001
+Token: ' induces' (ID: 89874), Prob: 0.0001
+Token: ' contributes' (ID: 42972), Prob: 0.0001
+Token: ' makes' (ID: 3643), Prob: 0.0001
+Token: ' exists' (ID: 6724), Prob: 0.0001
+Token: ' requires' (ID: 7460), Prob: 0.0001
+Token: ' kills' (ID: 28810), Prob: 0.0001
+Token: ' potentially' (ID: 13581), Prob: 0.0001
+Token: ' comes' (ID: 4041), Prob: 0.0001
+Token: ' somehow' (ID: 16925), Prob: 0.0001
+Token: ' needs' (ID: 3880), Prob: 0.0001
+Token: ' maybe' (ID: 7196), Prob: 0.0001
+Token: ' present' (ID: 3042), Prob: 0.0001
+Token: ' works' (ID: 4278), Prob: 0.0001
+Token: ' gives' (ID: 6696), Prob: 0.0001
+Token: ' adds' (ID: 11367), Prob: 0.0001
+Token: ' increases' (ID: 12703), Prob: 0.0001
+Token: ' actually' (ID: 3520), Prob: 0.0000
+Token: ' sometimes' (ID: 7025), Prob: 0.0000
+Token: ' raises' (ID: 24886), Prob: 0.0000
+Token: ' damages' (ID: 25129), Prob: 0.0000
+Token: ' introduces' (ID: 38919), Prob: 0.0000
+Token: ' serves' (ID: 17045), Prob: 0.0000
+Token: ' harms' (ID: 83396), Prob: 0.0000
+Token: ' currently' (ID: 5023), Prob: 0.0000
+Token: ' usually' (ID: 5990), Prob: 0.0000
+Token: ' attacks' (ID: 8776), Prob: 0.0000
+Token: ' prevents' (ID: 27934), Prob: 0.0000
+Token: ' toxicity' (ID: 56911), Prob: 0.0000
+Token: ' likely' (ID: 4363), Prob: 0.0000
+Token: ' takes' (ID: 4990), Prob: 0.0000
+Token: ' allows' (ID: 6147), Prob: 0.0000
+Token: ' helps' (ID: 8609), Prob: 0.0000
+
+== Ranked Concepts (Clusters) ==
+Rank 1 | Concept Score: 0.7734
+  Tokens: [' may', ' could', ' might', ' would', ' must', ' cannot']
+Rank 2 | Concept Score: 0.0620
+  Tokens: [' causes', ' caused', ' cause', ' causing']
+Rank 3 | Concept Score: 0.0065
+  Tokens: [' also', ' still', ' actually', ' currently']
+Rank 4 | Concept Score: 0.0040
+  Tokens: [' leads', ' carries', ' produces', ' provides', ' creates', ' brings', ' contributes', ' makes', ' gives', ' adds', ' increases', ' raises', ' introduces', ' prevents', ' allows', ' helps']
+Rank 5 | Concept Score: 0.0027
+  Tokens: [' poses', ' presents', ' present']
+Rank 6 | Concept Score: 0.0009
+  Tokens: [' appears', ' contains', ' seems', ' exists', ' comes']
+Rank 7 | Concept Score: 0.0006
+  Tokens: [' acts', ' plays', ' works', ' serves']
+Rank 8 | Concept Score: 0.0005
+  Tokens: [' alone']
+Rank 9 | Concept Score: 0.0004
+  Tokens: [' results', ' side']
+Rank 10 | Concept Score: 0.0004
+  Tokens: [' possibly', ' potentially', ' maybe', ' likely']
+Rank 11 | Concept Score: 0.0003
+  Tokens: [' affects', ' induces']
+Rank 12 | Concept Score: 0.0003
+  Tokens: [' kills', ' damages', ' harms', ' attacks', ' toxicity']
+Rank 13 | Concept Score: 0.0002
+  Tokens: [' shows', ' takes']
+Rank 14 | Concept Score: 0.0002
+  Tokens: [' requires', ' needs']
+Rank 15 | Concept Score: 0.0002
+  Tokens: [' somehow', ' sometimes', ' usually']
+
+**Chosen Concept:** Rank 1 with score 0.7734

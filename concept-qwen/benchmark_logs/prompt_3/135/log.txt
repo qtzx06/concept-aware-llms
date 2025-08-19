@@ -1,0 +1,54 @@
+--- Step 135 Log ---
+
+== Filtered Candidates ==
+Token: ' may' (ID: 1231), Prob: 1.0000
+Token: ' May' (ID: 3217), Prob: 0.0003
+Token: ' might' (ID: 2578), Prob: 0.0002
+Token: 'may' (ID: 18358), Prob: 0.0000
+Token: ' MAY' (ID: 39230), Prob: 0.0000
+Token: ' maybe' (ID: 7196), Prob: 0.0000
+Token: ' mail' (ID: 8072), Prob: 0.0000
+Token: 'May' (ID: 11109), Prob: 0.0000
+Token: ' could' (ID: 1410), Prob: 0.0000
+Token: ' would' (ID: 1035), Prob: 0.0000
+Token: ' perhaps' (ID: 8365), Prob: 0.0000
+Token: ' possibly' (ID: 10767), Prob: 0.0000
+Token: ' must' (ID: 1969), Prob: 0.0000
+Token: ' male' (ID: 8593), Prob: 0.0000
+Token: ' wants' (ID: 6801), Prob: 0.0000
+Token: ' still' (ID: 2058), Prob: 0.0000
+Token: ' possible' (ID: 3204), Prob: 0.0000
+Token: ' goes' (ID: 5780), Prob: 0.0000
+Token: ' group' (ID: 1874), Prob: 0.0000
+Token: ' also' (ID: 1083), Prob: 0.0000
+Token: ' per' (ID: 817), Prob: 0.0000
+Token: ' seems' (ID: 4977), Prob: 0.0000
+Token: ' mar' (ID: 3594), Prob: 0.0000
+
+== Ranked Concepts (Clusters) ==
+Rank 1 | Concept Score: 1.0000
+  Tokens: [' may', ' May', 'may', ' MAY', 'May']
+Rank 2 | Concept Score: 0.0002
+  Tokens: [' might', ' could', ' would']
+Rank 3 | Concept Score: 0.0000
+  Tokens: [' maybe', ' perhaps', ' possibly', ' possible']
+Rank 4 | Concept Score: 0.0000
+  Tokens: [' mail']
+Rank 5 | Concept Score: 0.0000
+  Tokens: [' must']
+Rank 6 | Concept Score: 0.0000
+  Tokens: [' male']
+Rank 7 | Concept Score: 0.0000
+  Tokens: [' still', ' also']
+Rank 8 | Concept Score: 0.0000
+  Tokens: [' goes', ' seems']
+Rank 9 | Concept Score: 0.0000
+  Tokens: [' wants']
+Rank 10 | Concept Score: 0.0000
+  Tokens: [' group']
+Rank 11 | Concept Score: 0.0000
+  Tokens: [' per']
+Rank 12 | Concept Score: 0.0000
+  Tokens: [' mar']
+
+**Chosen Concept:** Rank 1 with score 1.0000

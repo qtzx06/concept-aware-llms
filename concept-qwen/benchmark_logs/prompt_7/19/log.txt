@@ -1,0 +1,125 @@
+--- Step 19 Log ---
+
+== Filtered Candidates ==
+Token: ' friendship' (ID: 26509), Prob: 0.7539
+Token: ' snow' (ID: 11794), Prob: 0.0214
+Token: ' friends' (ID: 4780), Prob: 0.0095
+Token: ' magic' (ID: 10963), Prob: 0.0089
+Token: ' sharing' (ID: 11560), Prob: 0.0039
+Token: ' kindness' (ID: 44872), Prob: 0.0039
+Token: ' reading' (ID: 5290), Prob: 0.0024
+Token: ' music' (ID: 4627), Prob: 0.0022
+Token: ' helping' (ID: 10476), Prob: 0.0022
+Token: ' small' (ID: 2613), Prob: 0.0021
+Token: ' love' (ID: 2948), Prob: 0.0021
+Token: ' making' (ID: 3259), Prob: 0.0018
+Token: ' giving' (ID: 7086), Prob: 0.0016
+Token: ' friend' (ID: 4238), Prob: 0.0014
+Token: ' companions' (ID: 40857), Prob: 0.0013
+Token: ' teamwork' (ID: 83533), Prob: 0.0013
+Token: ' writing' (ID: 4378), Prob: 0.0012
+Token: ' good' (ID: 1661), Prob: 0.0011
+Token: ' freedom' (ID: 11290), Prob: 0.0011
+Token: ' ice' (ID: 9853), Prob: 0.0011
+Token: ' playing' (ID: 5619), Prob: 0.0010
+Token: ' free' (ID: 1910), Prob: 0.0009
+Token: ' dancing' (ID: 27966), Prob: 0.0009
+Token: ' food' (ID: 3607), Prob: 0.0009
+Token: ' Christmas' (ID: 10074), Prob: 0.0009
+Token: ' chocolate' (ID: 17931), Prob: 0.0009
+Token: ' friendships' (ID: 61981), Prob: 0.0009
+Token: ' Disney' (ID: 16390), Prob: 0.0008
+Token: ' smiling' (ID: 36063), Prob: 0.0008
+Token: ' something' (ID: 2494), Prob: 0.0008
+Token: ' laughter' (ID: 42114), Prob: 0.0008
+Token: ' storytelling' (ID: 47829), Prob: 0.0007
+Token: ' trust' (ID: 6950), Prob: 0.0007
+Token: ' tea' (ID: 15243), Prob: 0.0007
+Token: ' friendly' (ID: 11657), Prob: 0.0006
+Token: ' imagination' (ID: 27799), Prob: 0.0006
+Token: ' forgiveness' (ID: 52050), Prob: 0.0006
+Token: ' hope' (ID: 3900), Prob: 0.0006
+Token: ' taking' (ID: 4633), Prob: 0.0006
+Token: ' light' (ID: 3100), Prob: 0.0006
+Token: ' singing' (ID: 25083), Prob: 0.0006
+Token: ' one' (ID: 825), Prob: 0.0005
+Token: ' time' (ID: 882), Prob: 0.0005
+Token: ' joy' (ID: 15888), Prob: 0.0005
+Token: ' smiles' (ID: 42532), Prob: 0.0005
+Token: ' creating' (ID: 6825), Prob: 0.0005
+Token: ' knitting' (ID: 71799), Prob: 0.0005
+Token: ' patience' (ID: 29301), Prob: 0.0005
+Token: ' life' (ID: 2272), Prob: 0.0004
+Token: ' pure' (ID: 10526), Prob: 0.0004
+Token: ' putting' (ID: 10687), Prob: 0.0004
+Token: ' sending' (ID: 11628), Prob: 0.0004
+Token: ' healing' (ID: 21052), Prob: 0.0004
+Token: ' fairy' (ID: 44486), Prob: 0.0004
+Token: ' true' (ID: 830), Prob: 0.0004
+Token: ' getting' (ID: 3709), Prob: 0.0004
+Token: ' watching' (ID: 10099), Prob: 0.0004
+Token: ' spring' (ID: 10464), Prob: 0.0004
+Token: ' communication' (ID: 10535), Prob: 0.0003
+Token: ' letting' (ID: 20194), Prob: 0.0003
+Token: ' fun' (ID: 2464), Prob: 0.0003
+Token: ' building' (ID: 4752), Prob: 0.0003
+Token: ' shared' (ID: 6094), Prob: 0.0003
+Token: ' spending' (ID: 10164), Prob: 0.0003
+Token: ' happiness' (ID: 23009), Prob: 0.0003
+Token: ' cooperation' (ID: 23046), Prob: 0.0003
+Token: ' spreading' (ID: 30035), Prob: 0.0003
+Token: ' family' (ID: 2997), Prob: 0.0003
+Token: ' talking' (ID: 7404), Prob: 0.0003
+Token: ' knowing' (ID: 14063), Prob: 0.0003
+Token: ' flying' (ID: 16307), Prob: 0.0003
+Token: ' connecting' (ID: 20913), Prob: 0.0003
+Token: ' creativity' (ID: 27597), Prob: 0.0003
+Token: ' Friendship' (ID: 72069), Prob: 0.0003
+Token: ' art' (ID: 1947), Prob: 0.0003
+Token: ' simple' (ID: 4285), Prob: 0.0003
+Token: ' peace' (ID: 8919), Prob: 0.0003
+Token: ' seeing' (ID: 9120), Prob: 0.0003
+Token: ' everyday' (ID: 17778), Prob: 0.0003
+Token: ' melting' (ID: 49584), Prob: 0.0003
+
+== Ranked Concepts (Clusters) ==
+Rank 1 | Concept Score: 0.7695
+  Tokens: [' friendship', ' friends', ' friend', ' companions', ' friendships', ' friendly', ' Friendship']
+Rank 2 | Concept Score: 0.0248
+  Tokens: [' snow', ' ice', ' Christmas', ' chocolate', ' spring', ' melting']
+Rank 3 | Concept Score: 0.0104
+  Tokens: [' magic', ' Disney', ' fairy', ' everyday']
+Rank 4 | Concept Score: 0.0095
+  Tokens: [' helping', ' making', ' giving', ' taking', ' creating', ' putting', ' sending', ' getting', ' letting', ' spreading', ' knowing', ' connecting', ' seeing']
+Rank 5 | Concept Score: 0.0059
+  Tokens: [' small', ' good', ' something', ' one', ' pure', ' true', ' fun', ' simple']
+Rank 6 | Concept Score: 0.0056
+  Tokens: [' reading', ' writing', ' playing', ' watching', ' building', ' talking']
+Rank 7 | Concept Score: 0.0054
+  Tokens: [' kindness', ' forgiveness', ' patience', ' happiness']
+Rank 8 | Concept Score: 0.0043
+  Tokens: [' sharing', ' shared']
+Rank 9 | Concept Score: 0.0042
+  Tokens: [' love', ' trust', ' hope', ' joy', ' peace']
+Rank 10 | Concept Score: 0.0041
+  Tokens: [' music', ' food', ' tea', ' art']
+Rank 11 | Concept Score: 0.0033
+  Tokens: [' teamwork', ' storytelling', ' imagination', ' cooperation', ' creativity']
+Rank 12 | Concept Score: 0.0021
+  Tokens: [' smiling', ' laughter', ' smiles']
+Rank 13 | Concept Score: 0.0021
+  Tokens: [' freedom', ' free']
+Rank 14 | Concept Score: 0.0018
+  Tokens: [' dancing', ' singing', ' flying']
+Rank 15 | Concept Score: 0.0018
+  Tokens: [' light', ' time', ' life', ' family']
+Rank 16 | Concept Score: 0.0005
+  Tokens: [' knitting']
+Rank 17 | Concept Score: 0.0004
+  Tokens: [' healing']
+Rank 18 | Concept Score: 0.0003
+  Tokens: [' communication']
+Rank 19 | Concept Score: 0.0003
+  Tokens: [' spending']
+
+**Chosen Concept:** Rank 1 with score 0.7695

@@ -1,0 +1,31 @@
+--- Step 12 Log ---
+
+== Filtered Candidates ==
+Token: ' Today' (ID: 11201), Prob: 0.0161
+Token: ' Children' (ID: 15044), Prob: 0.0059
+Token: ' today' (ID: 3351), Prob: 0.0046
+Token: ' Child' (ID: 9391), Prob: 0.0022
+Token: ' makes' (ID: 3643), Prob: 0.0016
+Token: ' children' (ID: 2841), Prob: 0.0013
+Token: ' Parents' (ID: 42926), Prob: 0.0012
+Token: ' comes' (ID: 4041), Prob: 0.0011
+Token: ' would' (ID: 1035), Prob: 0.0009
+Token: ' may' (ID: 1231), Prob: 0.0008
+
+== Ranked Concepts (Clusters) ==
+Rank 1 | Concept Score: 0.0208
+  Tokens: [' Today', ' today']
+Rank 2 | Concept Score: 0.0094
+  Tokens: [' Children', ' Child', ' children']
+Rank 3 | Concept Score: 0.0016
+  Tokens: [' makes']
+Rank 4 | Concept Score: 0.0012
+  Tokens: [' Parents']
+Rank 5 | Concept Score: 0.0011
+  Tokens: [' comes']
+Rank 6 | Concept Score: 0.0009
+  Tokens: [' would']
+Rank 7 | Concept Score: 0.0008
+  Tokens: [' may']
+
+**Chosen Concept:** Rank 1 with score 0.0208

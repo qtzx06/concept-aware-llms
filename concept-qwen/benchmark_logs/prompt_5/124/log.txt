@@ -1,0 +1,56 @@
+--- Step 124 Log ---
+
+== Filtered Candidates ==
+Token: ' exactly' (ID: 6896), Prob: 0.9492
+Token: ' one' (ID: 825), Prob: 0.0056
+Token: ' immediately' (ID: 7069), Prob: 0.0023
+Token: ' directly' (ID: 5961), Prob: 0.0006
+Token: ' precisely' (ID: 23638), Prob: 0.0004
+Token: ' either' (ID: 2987), Prob: 0.0003
+Token: ' Exactly' (ID: 68490), Prob: 0.0002
+Token: ' even' (ID: 1496), Prob: 0.0002
+Token: ' two' (ID: 1378), Prob: 0.0002
+Token: ' exact' (ID: 4734), Prob: 0.0002
+Token: ' according' (ID: 4092), Prob: 0.0001
+Token: ' three' (ID: 2326), Prob: 0.0001
+Token: ' twice' (ID: 10917), Prob: 0.0001
+Token: ' instantly' (ID: 21818), Prob: 0.0001
+Token: ' approximately' (ID: 13187), Prob: 0.0001
+Token: ' slightly' (ID: 10078), Prob: 0.0001
+Token: ' strictly' (ID: 25470), Prob: 0.0001
+Token: ' every' (ID: 1449), Prob: 0.0001
+Token: ' located' (ID: 7407), Prob: 0.0001
+Token: ' within' (ID: 2878), Prob: 0.0000
+Token: ' based' (ID: 3118), Prob: 0.0000
+Token: ' except' (ID: 3650), Prob: 0.0000
+Token: ' right' (ID: 1290), Prob: 0.0000
+
+== Ranked Concepts (Clusters) ==
+Rank 1 | Concept Score: 0.9492
+  Tokens: [' exactly', ' precisely', ' Exactly', ' exact']
+Rank 2 | Concept Score: 0.0059
+  Tokens: [' one', ' two', ' three']
+Rank 3 | Concept Score: 0.0031
+  Tokens: [' immediately', ' directly', ' instantly']
+Rank 4 | Concept Score: 0.0003
+  Tokens: [' either']
+Rank 5 | Concept Score: 0.0002
+  Tokens: [' even']
+Rank 6 | Concept Score: 0.0002
+  Tokens: [' according', ' based']
+Rank 7 | Concept Score: 0.0001
+  Tokens: [' approximately', ' located']
+Rank 8 | Concept Score: 0.0001
+  Tokens: [' slightly', ' strictly']
+Rank 9 | Concept Score: 0.0001
+  Tokens: [' twice']
+Rank 10 | Concept Score: 0.0001
+  Tokens: [' every']
+Rank 11 | Concept Score: 0.0000
+  Tokens: [' within']
+Rank 12 | Concept Score: 0.0000
+  Tokens: [' except']
+Rank 13 | Concept Score: 0.0000
+  Tokens: [' right']
+
+**Chosen Concept:** Rank 1 with score 0.9492

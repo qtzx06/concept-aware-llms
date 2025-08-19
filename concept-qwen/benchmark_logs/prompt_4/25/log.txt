@@ -1,0 +1,40 @@
+--- Step 25 Log ---
+
+== Filtered Candidates ==
+Token: ' today' (ID: 3351), Prob: 0.1816
+Token: ' Today' (ID: 11201), Prob: 0.1816
+Token: '.Today' (ID: 72672), Prob: 0.0038
+Token: 'Today' (ID: 15364), Prob: 0.0024
+Token: ' tomorrow' (ID: 16577), Prob: 0.0017
+Token: ' Tomorrow' (ID: 54996), Prob: 0.0012
+Token: ' day' (ID: 1899), Prob: 0.0007
+Token: ' children' (ID: 2841), Prob: 0.0005
+Token: ' Please' (ID: 5209), Prob: 0.0005
+Token: ' even' (ID: 1496), Prob: 0.0005
+Token: ' Friday' (ID: 6602), Prob: 0.0005
+Token: ' TODAY' (ID: 40262), Prob: 0.0005
+Token: ' Children' (ID: 15044), Prob: 0.0004
+
+== Ranked Concepts (Clusters) ==
+Rank 1 | Concept Score: 0.3652
+  Tokens: [' today', ' Today', 'Today']
+Rank 2 | Concept Score: 0.0038
+  Tokens: ['.Today']
+Rank 3 | Concept Score: 0.0017
+  Tokens: [' tomorrow']
+Rank 4 | Concept Score: 0.0012
+  Tokens: [' Tomorrow']
+Rank 5 | Concept Score: 0.0010
+  Tokens: [' children', ' Children']
+Rank 6 | Concept Score: 0.0007
+  Tokens: [' day']
+Rank 7 | Concept Score: 0.0005
+  Tokens: [' Please']
+Rank 8 | Concept Score: 0.0005
+  Tokens: [' TODAY']
+Rank 9 | Concept Score: 0.0005
+  Tokens: [' Friday']
+Rank 10 | Concept Score: 0.0005
+  Tokens: [' even']
+
+**Chosen Concept:** Rank 1 with score 0.3652

@@ -1,0 +1,145 @@
+--- Step 56 Log ---
+
+== Filtered Candidates ==
+Token: ' fungus' (ID: 78802), Prob: 0.9414
+Token: ' disease' (ID: 8457), Prob: 0.0118
+Token: ' fungi' (ID: 80440), Prob: 0.0072
+Token: ' fungal' (ID: 94347), Prob: 0.0067
+Token: ' virus' (ID: 16770), Prob: 0.0060
+Token: ' organism' (ID: 46020), Prob: 0.0034
+Token: ' path' (ID: 1815), Prob: 0.0019
+Token: ' infection' (ID: 18873), Prob: 0.0015
+Token: ' bacteria' (ID: 23157), Prob: 0.0014
+Token: ' species' (ID: 9419), Prob: 0.0006
+Token: ' illness' (ID: 17125), Prob: 0.0006
+Token: ' micro' (ID: 8003), Prob: 0.0005
+Token: ' medicine' (ID: 15712), Prob: 0.0004
+Token: ' plant' (ID: 6008), Prob: 0.0003
+Token: ' cancer' (ID: 9387), Prob: 0.0003
+Token: ' environment' (ID: 4573), Prob: 0.0003
+Token: ' tumor' (ID: 35154), Prob: 0.0002
+Token: ' parasite' (ID: 84473), Prob: 0.0002
+Token: ' strain' (ID: 25716), Prob: 0.0002
+Token: ' microbial' (ID: 74318), Prob: 0.0002
+Token: ' type' (ID: 943), Prob: 0.0002
+Token: ' human' (ID: 3738), Prob: 0.0002
+Token: ' airborne' (ID: 69763), Prob: 0.0002
+Token: ' mold' (ID: 28461), Prob: 0.0002
+Token: ' mutation' (ID: 26374), Prob: 0.0002
+Token: ' mushroom' (ID: 57366), Prob: 0.0002
+Token: ' toxin' (ID: 97434), Prob: 0.0002
+Token: ' life' (ID: 2272), Prob: 0.0001
+Token: ' nem' (ID: 23645), Prob: 0.0001
+Token: ' creature' (ID: 17218), Prob: 0.0001
+Token: ' insect' (ID: 25989), Prob: 0.0001
+Token: ' living' (ID: 5382), Prob: 0.0001
+Token: ' substance' (ID: 19699), Prob: 0.0001
+Token: ' biological' (ID: 23275), Prob: 0.0001
+Token: ' enzyme' (ID: 48142), Prob: 0.0001
+Token: ' protein' (ID: 12833), Prob: 0.0001
+Token: ' gene' (ID: 14862), Prob: 0.0001
+Token: ' bacter' (ID: 17398), Prob: 0.0001
+Token: ' antibiotic' (ID: 59495), Prob: 0.0001
+Token: ' host' (ID: 3468), Prob: 0.0001
+Token: ' drug' (ID: 5506), Prob: 0.0001
+Token: ' soil' (ID: 17171), Prob: 0.0001
+Token: ' sickness' (ID: 53850), Prob: 0.0001
+Token: ' bio' (ID: 16905), Prob: 0.0001
+Token: ' ant' (ID: 3196), Prob: 0.0001
+Token: ' genetic' (ID: 18929), Prob: 0.0001
+Token: ' structure' (ID: 5944), Prob: 0.0001
+Token: ' neuro' (ID: 17773), Prob: 0.0001
+Token: ' ecosystem' (ID: 24982), Prob: 0.0001
+Token: ' immune' (ID: 22077), Prob: 0.0001
+Token: ' cure' (ID: 26116), Prob: 0.0001
+Token: ' bacterial' (ID: 44864), Prob: 0.0001
+Token: ' infectious' (ID: 49500), Prob: 0.0001
+Token: ' animal' (ID: 9864), Prob: 0.0001
+Token: ' germ' (ID: 81886), Prob: 0.0001
+Token: ' climate' (ID: 9977), Prob: 0.0001
+Token: ' enemy' (ID: 9175), Prob: 0.0001
+Token: ' vaccine' (ID: 24467), Prob: 0.0001
+Token: ' immunity' (ID: 39268), Prob: 0.0001
+Token: ' organisms' (ID: 43204), Prob: 0.0001
+Token: ' agent' (ID: 8315), Prob: 0.0001
+Token: ' algae' (ID: 67851), Prob: 0.0001
+Token: ' treatment' (ID: 6380), Prob: 0.0001
+Token: ' medical' (ID: 6457), Prob: 0.0001
+Token: ' culture' (ID: 7674), Prob: 0.0001
+Token: ' alien' (ID: 19594), Prob: 0.0001
+Token: ' paras' (ID: 32303), Prob: 0.0001
+Token: ' fung' (ID: 33598), Prob: 0.0001
+Token: ' worm' (ID: 34211), Prob: 0.0001
+Token: ' kind' (ID: 3093), Prob: 0.0001
+Token: ' bug' (ID: 9876), Prob: 0.0001
+Token: ' genome' (ID: 32769), Prob: 0.0001
+Token: ' microbes' (ID: 79627), Prob: 0.0001
+Token: ' lung' (ID: 20622), Prob: 0.0000
+Token: ' similar' (ID: 4428), Prob: 0.0000
+Token: ' growth' (ID: 6513), Prob: 0.0000
+Token: ' planet' (ID: 11580), Prob: 0.0000
+Token: ' environmental' (ID: 12158), Prob: 0.0000
+Token: ' poison' (ID: 20476), Prob: 0.0000
+Token: ' pest' (ID: 43785), Prob: 0.0000
+Token: ' something' (ID: 2494), Prob: 0.0000
+Token: ' health' (ID: 2820), Prob: 0.0000
+Token: ' variant' (ID: 11424), Prob: 0.0000
+Token: ' chemical' (ID: 11483), Prob: 0.0000
+Token: ' nutrient' (ID: 49023), Prob: 0.0000
+Token: ' biology' (ID: 33358), Prob: 0.0000
+
+== Ranked Concepts (Clusters) ==
+Rank 1 | Concept Score: 0.9570
+  Tokens: [' fungus', ' fungi', ' fungal', ' mushroom', ' algae', ' fung']
+Rank 2 | Concept Score: 0.0135
+  Tokens: [' disease', ' illness', ' medicine', ' cancer', ' tumor', ' sickness', ' medical', ' health']
+Rank 3 | Concept Score: 0.0077
+  Tokens: [' virus', ' infection', ' antibiotic', ' infectious', ' vaccine']
+Rank 4 | Concept Score: 0.0042
+  Tokens: [' organism', ' species', ' creature', ' organisms']
+Rank 5 | Concept Score: 0.0020
+  Tokens: [' path', ' host']
+Rank 6 | Concept Score: 0.0019
+  Tokens: [' bacteria', ' microbial', ' bacter', ' bacterial', ' microbes']
+Rank 7 | Concept Score: 0.0007
+  Tokens: [' parasite', ' insect', ' enemy', ' paras', ' worm', ' bug', ' pest']
+Rank 8 | Concept Score: 0.0005
+  Tokens: [' environment', ' ecosystem', ' climate', ' environmental']
+Rank 9 | Concept Score: 0.0005
+  Tokens: [' micro']
+Rank 10 | Concept Score: 0.0005
+  Tokens: [' plant', ' soil', ' planet']
+Rank 11 | Concept Score: 0.0004
+  Tokens: [' toxin', ' substance', ' drug', ' poison']
+Rank 12 | Concept Score: 0.0004
+  Tokens: [' mutation', ' gene', ' genetic', ' genome']
+Rank 13 | Concept Score: 0.0004
+  Tokens: [' human', ' animal', ' agent', ' alien']
+Rank 14 | Concept Score: 0.0003
+  Tokens: [' airborne', ' nem']
+Rank 15 | Concept Score: 0.0003
+  Tokens: [' enzyme', ' protein', ' chemical', ' nutrient']
+Rank 16 | Concept Score: 0.0003
+  Tokens: [' type', ' kind', ' variant']
+Rank 17 | Concept Score: 0.0003
+  Tokens: [' life', ' living']
+Rank 18 | Concept Score: 0.0003
+  Tokens: [' biological', ' bio', ' biology']
+Rank 19 | Concept Score: 0.0003
+  Tokens: [' strain', ' culture']
+Rank 20 | Concept Score: 0.0002
+  Tokens: [' structure', ' similar', ' growth', ' something']
+Rank 21 | Concept Score: 0.0002
+  Tokens: [' mold']
+Rank 22 | Concept Score: 0.0002
+  Tokens: [' immune', ' immunity']
+Rank 23 | Concept Score: 0.0001
+  Tokens: [' cure', ' treatment']
+Rank 24 | Concept Score: 0.0001
+  Tokens: [' neuro', ' lung']
+Rank 25 | Concept Score: 0.0001
+  Tokens: [' ant']
+Rank 26 | Concept Score: 0.0001
+  Tokens: [' germ']
+
+**Chosen Concept:** Rank 1 with score 0.9570

@@ -1,0 +1,95 @@
+--- Step 138 Log ---
+
+== Filtered Candidates ==
+Token: ' get' (ID: 633), Prob: 1.0000
+Token: ' got' (ID: 2684), Prob: 0.0004
+Token: ' gets' (ID: 5221), Prob: 0.0001
+Token: '.get' (ID: 670), Prob: 0.0000
+Token: ' getting' (ID: 3709), Prob: 0.0000
+Token: ' married' (ID: 12224), Prob: 0.0000
+Token: 'get' (ID: 455), Prob: 0.0000
+Token: ' meet' (ID: 3367), Prob: 0.0000
+Token: ' become' (ID: 3635), Prob: 0.0000
+Token: ' make' (ID: 1281), Prob: 0.0000
+Token: ' come' (ID: 2525), Prob: 0.0000
+Token: ' marry' (ID: 31818), Prob: 0.0000
+Token: ' find' (ID: 1477), Prob: 0.0000
+Token: ' give' (ID: 2968), Prob: 0.0000
+Token: ' set' (ID: 738), Prob: 0.0000
+Token: ' see' (ID: 1490), Prob: 0.0000
+Token: ' gotten' (ID: 17019), Prob: 0.0000
+Token: ' end' (ID: 835), Prob: 0.0000
+Token: ' receive' (ID: 5258), Prob: 0.0000
+Token: ' Get' (ID: 2126), Prob: 0.0000
+Token: ' enter' (ID: 3725), Prob: 0.0000
+Token: ' want' (ID: 1366), Prob: 0.0000
+Token: ' fit' (ID: 4946), Prob: 0.0000
+Token: ' put' (ID: 2182), Prob: 0.0000
+Token: ' start' (ID: 1191), Prob: 0.0000
+Token: ' try' (ID: 1430), Prob: 0.0000
+Token: '/get' (ID: 23302), Prob: 0.0000
+Token: ' take' (ID: 1896), Prob: 0.0000
+Token: ' love' (ID: 2948), Prob: 0.0000
+Token: '	get' (ID: 10366), Prob: 0.0000
+Token: ' add' (ID: 912), Prob: 0.0000
+Token: ' mar' (ID: 3594), Prob: 0.0000
+Token: ' join' (ID: 5138), Prob: 0.0000
+Token: '(get' (ID: 5433), Prob: 0.0000
+Token: ' also' (ID: 1083), Prob: 0.0000
+Token: ' keep' (ID: 2506), Prob: 0.0000
+Token: ' gain' (ID: 8722), Prob: 0.0000
+Token: ' might' (ID: 2578), Prob: 0.0000
+Token: ' wait' (ID: 3783), Prob: 0.0000
+Token: ' leave' (ID: 5274), Prob: 0.0000
+Token: ' return' (ID: 470), Prob: 0.0000
+Token: ' stand' (ID: 2498), Prob: 0.0000
+Token: ' die' (ID: 2746), Prob: 0.0000
+Token: ' understand' (ID: 3535), Prob: 0.0000
+Token: ' earn' (ID: 7232), Prob: 0.0000
+Token: ' drive' (ID: 6541), Prob: 0.0000
+Token: ' let' (ID: 1077), Prob: 0.0000
+Token: ' must' (ID: 1969), Prob: 0.0000
+Token: '-get' (ID: 22491), Prob: 0.0000
+Token: ' check' (ID: 1779), Prob: 0.0000
+Token: ' stay' (ID: 4717), Prob: 0.0000
+Token: ' still' (ID: 2058), Prob: 0.0000
+Token: ' bring' (ID: 4446), Prob: 0.0000
+Token: ' obtain' (ID: 6851), Prob: 0.0000
+
+== Ranked Concepts (Clusters) ==
+Rank 1 | Concept Score: 1.0000
+  Tokens: [' get', ' got', ' gets', '.get', ' getting', 'get', ' gotten', ' Get', '/get', '\tget', '(get', '-get']
+Rank 2 | Concept Score: 0.0000
+  Tokens: [' married', ' marry', ' mar']
+Rank 3 | Concept Score: 0.0000
+  Tokens: [' make', ' give', ' take', ' bring']
+Rank 4 | Concept Score: 0.0000
+  Tokens: [' become', ' come']
+Rank 5 | Concept Score: 0.0000
+  Tokens: [' meet', ' fit']
+Rank 6 | Concept Score: 0.0000
+  Tokens: [' find', ' see', ' understand']
+Rank 7 | Concept Score: 0.0000
+  Tokens: [' set', ' put', ' add']
+Rank 8 | Concept Score: 0.0000
+  Tokens: [' receive', ' gain', ' earn', ' obtain']
+Rank 9 | Concept Score: 0.0000
+  Tokens: [' end', ' start', ' return']
+Rank 10 | Concept Score: 0.0000
+  Tokens: [' also', ' might', ' must', ' still']
+Rank 11 | Concept Score: 0.0000
+  Tokens: [' enter', ' join']
+Rank 12 | Concept Score: 0.0000
+  Tokens: [' want', ' love']
+Rank 13 | Concept Score: 0.0000
+  Tokens: [' keep', ' leave', ' stay']
+Rank 14 | Concept Score: 0.0000
+  Tokens: [' stand', ' die', ' drive']
+Rank 15 | Concept Score: 0.0000
+  Tokens: [' try', ' check']
+Rank 16 | Concept Score: 0.0000
+  Tokens: [' wait']
+Rank 17 | Concept Score: 0.0000
+  Tokens: [' let']
+
+**Chosen Concept:** Rank 1 with score 1.0000

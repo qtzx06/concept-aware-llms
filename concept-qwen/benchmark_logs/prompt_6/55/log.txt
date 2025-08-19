@@ -1,0 +1,77 @@
+--- Step 55 Log ---
+
+== Filtered Candidates ==
+Token: ' may' (ID: 1231), Prob: 0.9766
+Token: ' must' (ID: 1969), Prob: 0.0027
+Token: ' might' (ID: 2578), Prob: 0.0017
+Token: ' could' (ID: 1410), Prob: 0.0004
+Token: ' May' (ID: 3217), Prob: 0.0002
+Token: 'may' (ID: 18358), Prob: 0.0002
+Token: ' kills' (ID: 28810), Prob: 0.0002
+Token: ' would' (ID: 1035), Prob: 0.0001
+Token: ' cannot' (ID: 4157), Prob: 0.0001
+Token: ' wants' (ID: 6801), Prob: 0.0001
+Token: ' maybe' (ID: 7196), Prob: 0.0001
+Token: ' every' (ID: 1449), Prob: 0.0001
+Token: ' dies' (ID: 8725), Prob: 0.0001
+Token: ' also' (ID: 1083), Prob: 0.0001
+Token: ' male' (ID: 8593), Prob: 0.0001
+Token: ' possibly' (ID: 10767), Prob: 0.0001
+Token: ' knows' (ID: 8788), Prob: 0.0000
+Token: ' except' (ID: 3650), Prob: 0.0000
+Token: ' needs' (ID: 3880), Prob: 0.0000
+Token: ' still' (ID: 2058), Prob: 0.0000
+Token: ' kill' (ID: 5505), Prob: 0.0000
+Token: ' MAY' (ID: 39230), Prob: 0.0000
+Token: ' always' (ID: 2677), Prob: 0.0000
+Token: ' makes' (ID: 3643), Prob: 0.0000
+Token: 'May' (ID: 11109), Prob: 0.0000
+Token: ' die' (ID: 2746), Prob: 0.0000
+Token: ' remains' (ID: 8458), Prob: 0.0000
+Token: ' within' (ID: 2878), Prob: 0.0000
+Token: ' killed' (ID: 7425), Prob: 0.0000
+Token: ' killing' (ID: 13118), Prob: 0.0000
+Token: ' seems' (ID: 4977), Prob: 0.0000
+Token: ' allows' (ID: 6147), Prob: 0.0000
+Token: ' meets' (ID: 20027), Prob: 0.0000
+Token: ' requires' (ID: 7460), Prob: 0.0000
+Token: ' randomly' (ID: 26618), Prob: 0.0000
+Token: ' since' (ID: 2474), Prob: 0.0000
+Token: ' either' (ID: 2987), Prob: 0.0000
+Token: ' shall' (ID: 4880), Prob: 0.0000
+Token: ' takes' (ID: 4990), Prob: 0.0000
+Token: ' exactly' (ID: 6896), Prob: 0.0000
+Token: ' alive' (ID: 13675), Prob: 0.0000
+Token: ' perhaps' (ID: 8365), Prob: 0.0000
+Token: ' potentially' (ID: 13581), Prob: 0.0000
+Token: ' per' (ID: 817), Prob: 0.0000
+
+== Ranked Concepts (Clusters) ==
+Rank 1 | Concept Score: 0.9805
+  Tokens: [' may', ' might', ' May', 'may', ' MAY', 'May']
+Rank 2 | Concept Score: 0.0034
+  Tokens: [' must', ' could', ' would', ' cannot', ' shall']
+Rank 3 | Concept Score: 0.0003
+  Tokens: [' wants', ' knows', ' needs', ' makes', ' seems', ' allows', ' meets', ' requires', ' takes']
+Rank 4 | Concept Score: 0.0002
+  Tokens: [' kills', ' kill', ' killed', ' killing']
+Rank 5 | Concept Score: 0.0002
+  Tokens: [' maybe', ' possibly', ' perhaps', ' potentially']
+Rank 6 | Concept Score: 0.0001
+  Tokens: [' also', ' still', ' always']
+Rank 7 | Concept Score: 0.0001
+  Tokens: [' dies', ' die']
+Rank 8 | Concept Score: 0.0001
+  Tokens: [' every', ' per']
+Rank 9 | Concept Score: 0.0001
+  Tokens: [' except', ' within', ' since']
+Rank 10 | Concept Score: 0.0001
+  Tokens: [' male', ' alive']
+Rank 11 | Concept Score: 0.0000
+  Tokens: [' either', ' exactly']
+Rank 12 | Concept Score: 0.0000
+  Tokens: [' remains']
+Rank 13 | Concept Score: 0.0000
+  Tokens: [' randomly']
+
+**Chosen Concept:** Rank 1 with score 0.9805

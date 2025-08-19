@@ -1,0 +1,77 @@
+--- Step 129 Log ---
+
+== Filtered Candidates ==
+Token: ' get' (ID: 633), Prob: 1.0000
+Token: 'get' (ID: 455), Prob: 0.0000
+Token: ' got' (ID: 2684), Prob: 0.0000
+Token: ' getting' (ID: 3709), Prob: 0.0000
+Token: ' gets' (ID: 5221), Prob: 0.0000
+Token: '.get' (ID: 670), Prob: 0.0000
+Token: ' Get' (ID: 2126), Prob: 0.0000
+Token: ' gotten' (ID: 17019), Prob: 0.0000
+Token: ' grow' (ID: 3063), Prob: 0.0000
+Token: ' keep' (ID: 2506), Prob: 0.0000
+Token: ' look' (ID: 1401), Prob: 0.0000
+Token: ' become' (ID: 3635), Prob: 0.0000
+Token: ' stay' (ID: 4717), Prob: 0.0000
+Token: ' gain' (ID: 8722), Prob: 0.0000
+Token: ' work' (ID: 975), Prob: 0.0000
+Token: ' come' (ID: 2525), Prob: 0.0000
+Token: '(get' (ID: 5433), Prob: 0.0000
+Token: '-get' (ID: 22491), Prob: 0.0000
+Token: ' stand' (ID: 2498), Prob: 0.0000
+Token: ' receive' (ID: 5258), Prob: 0.0000
+Token: ' things' (ID: 2513), Prob: 0.0000
+Token: '_get' (ID: 3062), Prob: 0.0000
+Token: '/get' (ID: 23302), Prob: 0.0000
+Token: ' make' (ID: 1281), Prob: 0.0000
+Token: '	get' (ID: 10366), Prob: 0.0000
+Token: ' happen' (ID: 3537), Prob: 0.0000
+Token: ' remain' (ID: 7146), Prob: 0.0000
+Token: ' give' (ID: 2968), Prob: 0.0000
+Token: ' see' (ID: 1490), Prob: 0.0000
+Token: ' let' (ID: 1077), Prob: 0.0000
+Token: ',get' (ID: 94107), Prob: 0.0000
+Token: ' know' (ID: 1414), Prob: 0.0000
+Token: ' something' (ID: 2494), Prob: 0.0000
+Token: '=get' (ID: 28280), Prob: 0.0000
+Token: ' put' (ID: 2182), Prob: 0.0000
+Token: ' obtain' (ID: 6851), Prob: 0.0000
+Token: ' start' (ID: 1191), Prob: 0.0000
+Token: ' GET' (ID: 7890), Prob: 0.0000
+Token: '$get' (ID: 89433), Prob: 0.0000
+Token: ' feel' (ID: 2666), Prob: 0.0000
+Token: ' bring' (ID: 4446), Prob: 0.0000
+Token: ' acquire' (ID: 21256), Prob: 0.0000
+Token: ' exist' (ID: 3000), Prob: 0.0000
+Token: ' continue' (ID: 3060), Prob: 0.0000
+Token: ':get' (ID: 24907), Prob: 0.0000
+Token: ' use' (ID: 990), Prob: 0.0000
+
+== Ranked Concepts (Clusters) ==
+Rank 1 | Concept Score: 1.0000
+  Tokens: [' get', 'get', ' getting', ' gets', '.get', ' Get', '(get', '-get', '_get', '/get', '\tget', ',get', '=get', ' GET', '$get', ':get']
+Rank 2 | Concept Score: 0.0000
+  Tokens: [' got', ' gotten']
+Rank 3 | Concept Score: 0.0000
+  Tokens: [' keep', ' stay', ' remain', ' continue']
+Rank 4 | Concept Score: 0.0000
+  Tokens: [' become', ' come']
+Rank 5 | Concept Score: 0.0000
+  Tokens: [' gain', ' receive', ' obtain', ' acquire']
+Rank 6 | Concept Score: 0.0000
+  Tokens: [' grow', ' start']
+Rank 7 | Concept Score: 0.0000
+  Tokens: [' look', ' see', ' know', ' feel']
+Rank 8 | Concept Score: 0.0000
+  Tokens: [' make', ' give', ' let', ' put', ' bring']
+Rank 9 | Concept Score: 0.0000
+  Tokens: [' work', ' use']
+Rank 10 | Concept Score: 0.0000
+  Tokens: [' things', ' something']
+Rank 11 | Concept Score: 0.0000
+  Tokens: [' stand']
+Rank 12 | Concept Score: 0.0000
+  Tokens: [' happen', ' exist']
+
+**Chosen Concept:** Rank 1 with score 1.0000

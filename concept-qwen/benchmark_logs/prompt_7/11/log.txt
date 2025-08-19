@@ -1,0 +1,54 @@
+--- Step 11 Log ---
+
+== Filtered Candidates ==
+Token: ' one' (ID: 825), Prob: 0.0098
+Token: ' something' (ID: 2494), Prob: 0.0043
+Token: ' snow' (ID: 11794), Prob: 0.0015
+Token: ' magic' (ID: 10963), Prob: 0.0008
+Token: ' two' (ID: 1378), Prob: 0.0007
+Token: ' somewhere' (ID: 14696), Prob: 0.0005
+Token: ' within' (ID: 2878), Prob: 0.0004
+Token: ' today' (ID: 3351), Prob: 0.0003
+Token: ' Snow' (ID: 18901), Prob: 0.0003
+Token: ' around' (ID: 2163), Prob: 0.0003
+Token: ' things' (ID: 2513), Prob: 0.0003
+Token: ' Christmas' (ID: 10074), Prob: 0.0003
+Token: ' three' (ID: 2326), Prob: 0.0003
+Token: ' among' (ID: 4221), Prob: 0.0003
+Token: ' using' (ID: 1667), Prob: 0.0002
+Token: ' small' (ID: 2613), Prob: 0.0002
+Token: ' friends' (ID: 4780), Prob: 0.0002
+Token: ' Disney' (ID: 16390), Prob: 0.0002
+Token: ' friendship' (ID: 26509), Prob: 0.0002
+Token: ' certain' (ID: 3654), Prob: 0.0002
+Token: ' someone' (ID: 4325), Prob: 0.0002
+Token: ' another' (ID: 2441), Prob: 0.0002
+Token: ' outside' (ID: 4889), Prob: 0.0002
+Token: ' ones' (ID: 6174), Prob: 0.0002
+Token: ' even' (ID: 1496), Prob: 0.0001
+
+== Ranked Concepts (Clusters) ==
+Rank 1 | Concept Score: 0.0099
+  Tokens: [' one', ' ones']
+Rank 2 | Concept Score: 0.0046
+  Tokens: [' something', ' things']
+Rank 3 | Concept Score: 0.0018
+  Tokens: [' snow', ' Snow']
+Rank 4 | Concept Score: 0.0013
+  Tokens: [' magic', ' Christmas', ' Disney']
+Rank 5 | Concept Score: 0.0011
+  Tokens: [' within', ' around', ' among', ' outside']
+Rank 6 | Concept Score: 0.0010
+  Tokens: [' two', ' three']
+Rank 7 | Concept Score: 0.0008
+  Tokens: [' somewhere', ' someone', ' another']
+Rank 8 | Concept Score: 0.0007
+  Tokens: [' using', ' small', ' certain']
+Rank 9 | Concept Score: 0.0004
+  Tokens: [' friends', ' friendship']
+Rank 10 | Concept Score: 0.0003
+  Tokens: [' today']
+Rank 11 | Concept Score: 0.0001
+  Tokens: [' even']
+
+**Chosen Concept:** Rank 1 with score 0.0099

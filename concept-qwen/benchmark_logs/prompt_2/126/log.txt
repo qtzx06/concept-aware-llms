@@ -1,0 +1,72 @@
+--- Step 126 Log ---
+
+== Filtered Candidates ==
+Token: ' though' (ID: 3498), Prob: 0.7500
+Token: ' despite' (ID: 8818), Prob: 0.0014
+Token: ' although' (ID: 7892), Prob: 0.0004
+Token: ' without' (ID: 2041), Prob: 0.0002
+Token: ' considering' (ID: 12831), Prob: 0.0002
+Token: ' Though' (ID: 17594), Prob: 0.0001
+Token: ' today' (ID: 3351), Prob: 0.0000
+Token: ' amidst' (ID: 64804), Prob: 0.0000
+Token: ' thought' (ID: 3381), Prob: 0.0000
+Token: ' given' (ID: 2661), Prob: 0.0000
+Token: ' tho' (ID: 39325), Prob: 0.0000
+Token: ' amid' (ID: 22617), Prob: 0.0000
+Token: ' beyond' (ID: 7797), Prob: 0.0000
+Token: ' even' (ID: 1496), Prob: 0.0000
+Token: ' within' (ID: 2878), Prob: 0.0000
+Token: ' among' (ID: 4221), Prob: 0.0000
+Token: ' assuming' (ID: 25538), Prob: 0.0000
+Token: ' due' (ID: 4152), Prob: 0.0000
+Token: ' aside' (ID: 15663), Prob: 0.0000
+Token: 'though' (ID: 4535), Prob: 0.0000
+Token: ' knowing' (ID: 14063), Prob: 0.0000
+Token: ' including' (ID: 2670), Prob: 0.0000
+Token: ' allowing' (ID: 10693), Prob: 0.0000
+Token: ' containing' (ID: 8482), Prob: 0.0000
+Token: ' may' (ID: 1231), Prob: 0.0000
+Token: ' consider' (ID: 2908), Prob: 0.0000
+Token: ' according' (ID: 4092), Prob: 0.0000
+Token: ' however' (ID: 4764), Prob: 0.0000
+Token: ' ignoring' (ID: 30903), Prob: 0.0000
+Token: ' outside' (ID: 4889), Prob: 0.0000
+Token: ' possibly' (ID: 10767), Prob: 0.0000
+Token: ' across' (ID: 3941), Prob: 0.0000
+Token: ' albeit' (ID: 42069), Prob: 0.0000
+Token: ' leading' (ID: 6388), Prob: 0.0000
+Token: ' one' (ID: 825), Prob: 0.0000
+Token: ' using' (ID: 1667), Prob: 0.0000
+Token: ' suggesting' (ID: 22561), Prob: 0.0000
+
+== Ranked Concepts (Clusters) ==
+Rank 1 | Concept Score: 0.7500
+  Tokens: [' though', ' although', ' Though', 'though', ' however', ' albeit']
+Rank 2 | Concept Score: 0.0015
+  Tokens: [' despite', ' even']
+Rank 3 | Concept Score: 0.0002
+  Tokens: [' considering', ' consider']
+Rank 4 | Concept Score: 0.0002
+  Tokens: [' without']
+Rank 5 | Concept Score: 0.0001
+  Tokens: [' amidst', ' amid', ' among']
+Rank 6 | Concept Score: 0.0000
+  Tokens: [' thought', ' tho']
+Rank 7 | Concept Score: 0.0000
+  Tokens: [' assuming', ' knowing', ' including', ' containing', ' ignoring', ' using']
+Rank 8 | Concept Score: 0.0000
+  Tokens: [' given', ' due', ' according']
+Rank 9 | Concept Score: 0.0000
+  Tokens: [' beyond', ' within', ' outside', ' across']
+Rank 10 | Concept Score: 0.0000
+  Tokens: [' today']
+Rank 11 | Concept Score: 0.0000
+  Tokens: [' allowing', ' leading', ' suggesting']
+Rank 12 | Concept Score: 0.0000
+  Tokens: [' aside']
+Rank 13 | Concept Score: 0.0000
+  Tokens: [' may', ' possibly']
+Rank 14 | Concept Score: 0.0000
+  Tokens: [' one']
+
+**Chosen Concept:** Rank 1 with score 0.7500

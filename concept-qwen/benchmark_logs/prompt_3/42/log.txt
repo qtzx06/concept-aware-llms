@@ -1,0 +1,78 @@
+--- Step 42 Log ---
+
+== Filtered Candidates ==
+Token: ' Assume' (ID: 62197), Prob: 0.2451
+Token: ' Let' (ID: 6771), Prob: 0.1680
+Token: ' Assuming' (ID: 63964), Prob: 0.0167
+Token: ' Maybe' (ID: 10696), Prob: 0.0101
+Token: ' Also' (ID: 7281), Prob: 0.0065
+Token: ' Please' (ID: 5209), Prob: 0.0051
+Token: ' Based' (ID: 20205), Prob: 0.0051
+Token: ' Suppose' (ID: 82610), Prob: 0.0042
+Token: ' Keep' (ID: 13655), Prob: 0.0021
+Token: ' However' (ID: 4354), Prob: 0.0019
+Token: ' Ass' (ID: 2688), Prob: 0.0016
+Token: ' Take' (ID: 11778), Prob: 0.0015
+Token: ' Answer' (ID: 21806), Prob: 0.0015
+Token: ' Given' (ID: 16246), Prob: 0.0014
+Token: ' Still' (ID: 16377), Prob: 0.0013
+Token: ' Perhaps' (ID: 18765), Prob: 0.0013
+Token: ' Hmm' (ID: 88190), Prob: 0.0013
+Token: ' Use' (ID: 5443), Prob: 0.0012
+Token: ' Wait' (ID: 13824), Prob: 0.0012
+Token: ' Therefore' (ID: 15277), Prob: 0.0012
+Token: ' Determine' (ID: 29901), Prob: 0.0012
+Token: ' Explain' (ID: 81917), Prob: 0.0012
+Token: ' Could' (ID: 16503), Prob: 0.0011
+Token: ' Make' (ID: 7405), Prob: 0.0011
+Token: ' According' (ID: 10548), Prob: 0.0011
+Token: ' Say' (ID: 24917), Prob: 0.0011
+Token: ' Imagine' (ID: 37791), Prob: 0.0011
+Token: ' Okay' (ID: 35439), Prob: 0.0008
+Token: ' Find' (ID: 7379), Prob: 0.0007
+Token: ' Give' (ID: 20678), Prob: 0.0007
+Token: ' Write' (ID: 9645), Prob: 0.0006
+Token: ' assume' (ID: 9658), Prob: 0.0006
+Token: ' Would' (ID: 18885), Prob: 0.0006
+Token: ' let' (ID: 1077), Prob: 0.0006
+Token: ' One' (ID: 3776), Prob: 0.0006
+Token: ' Help' (ID: 11479), Prob: 0.0006
+Token: ' Instead' (ID: 12090), Prob: 0.0006
+
+== Ranked Concepts (Clusters) ==
+Rank 1 | Concept Score: 0.2637
+  Tokens: [' Assume', ' Assuming', ' Ass', ' assume']
+Rank 2 | Concept Score: 0.1689
+  Tokens: [' Let', ' let']
+Rank 3 | Concept Score: 0.0114
+  Tokens: [' Maybe', ' Perhaps']
+Rank 4 | Concept Score: 0.0078
+  Tokens: [' Also', ' Still']
+Rank 5 | Concept Score: 0.0062
+  Tokens: [' Based', ' According']
+Rank 6 | Concept Score: 0.0057
+  Tokens: [' Please', ' One']
+Rank 7 | Concept Score: 0.0053
+  Tokens: [' Suppose', ' Imagine']
+Rank 8 | Concept Score: 0.0042
+  Tokens: [' Use', ' Determine', ' Make', ' Find']
+Rank 9 | Concept Score: 0.0037
+  Tokens: [' However', ' Therefore', ' Instead']
+Rank 10 | Concept Score: 0.0037
+  Tokens: [' Keep', ' Take']
+Rank 11 | Concept Score: 0.0021
+  Tokens: [' Answer', ' Help']
+Rank 12 | Concept Score: 0.0021
+  Tokens: [' Hmm', ' Okay']
+Rank 13 | Concept Score: 0.0020
+  Tokens: [' Given', ' Give']
+Rank 14 | Concept Score: 0.0018
+  Tokens: [' Explain', ' Write']
+Rank 15 | Concept Score: 0.0018
+  Tokens: [' Could', ' Would']
+Rank 16 | Concept Score: 0.0012
+  Tokens: [' Wait']
+Rank 17 | Concept Score: 0.0011
+  Tokens: [' Say']
+
+**Chosen Concept:** Rank 1 with score 0.2637

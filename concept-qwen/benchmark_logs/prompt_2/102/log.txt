@@ -1,0 +1,170 @@
+--- Step 102 Log ---
+
+== Filtered Candidates ==
+Token: ' contain' (ID: 6644), Prob: 0.0250
+Token: ' cause' (ID: 5240), Prob: 0.0221
+Token: ' act' (ID: 1160), Prob: 0.0134
+Token: ' exist' (ID: 3000), Prob: 0.0104
+Token: ' produce' (ID: 8193), Prob: 0.0081
+Token: ' affect' (ID: 7802), Prob: 0.0072
+Token: ' lead' (ID: 2990), Prob: 0.0046
+Token: ' react' (ID: 13767), Prob: 0.0044
+Token: ' play' (ID: 1486), Prob: 0.0041
+Token: ' work' (ID: 975), Prob: 0.0032
+Token: ' trigger' (ID: 8183), Prob: 0.0030
+Token: ' kill' (ID: 5505), Prob: 0.0028
+Token: ' damage' (ID: 5557), Prob: 0.0026
+Token: ' serve' (ID: 8683), Prob: 0.0026
+Token: ' interact' (ID: 16282), Prob: 0.0026
+Token: ' contribute' (ID: 16792), Prob: 0.0025
+Token: ' inhibit' (ID: 67933), Prob: 0.0025
+Token: ' interfere' (ID: 39878), Prob: 0.0022
+Token: ' create' (ID: 1855), Prob: 0.0017
+Token: ' come' (ID: 2525), Prob: 0.0017
+Token: ' destroy' (ID: 6921), Prob: 0.0017
+Token: ' function' (ID: 729), Prob: 0.0015
+Token: ' activate' (ID: 20276), Prob: 0.0015
+Token: ' include' (ID: 2924), Prob: 0.0014
+Token: ' bind' (ID: 10719), Prob: 0.0014
+Token: ' require' (ID: 1373), Prob: 0.0012
+Token: ' disrupt' (ID: 23973), Prob: 0.0012
+Token: ' induce' (ID: 48753), Prob: 0.0010
+Token: ' carry' (ID: 6777), Prob: 0.0009
+Token: ' occur' (ID: 12170), Prob: 0.0009
+Token: ' decrease' (ID: 18472), Prob: 0.0009
+Token: ' help' (ID: 1492), Prob: 0.0008
+Token: ' harm' (ID: 11428), Prob: 0.0008
+Token: ' present' (ID: 3042), Prob: 0.0008
+Token: ' break' (ID: 1438), Prob: 0.0007
+Token: ' develop' (ID: 2225), Prob: 0.0007
+Token: ' provide' (ID: 3410), Prob: 0.0007
+Token: ' become' (ID: 3635), Prob: 0.0007
+Token: ' belong' (ID: 9173), Prob: 0.0007
+Token: ' result' (ID: 1102), Prob: 0.0006
+Token: ' pose' (ID: 17040), Prob: 0.0006
+Token: ' increase' (ID: 5263), Prob: 0.0006
+Token: ' generate' (ID: 6923), Prob: 0.0006
+Token: ' reduce' (ID: 7949), Prob: 0.0006
+Token: ' appear' (ID: 4994), Prob: 0.0005
+Token: ' attack' (ID: 3359), Prob: 0.0005
+Token: ' promote' (ID: 11926), Prob: 0.0005
+Token: ' release' (ID: 4879), Prob: 0.0004
+Token: ' stimulate' (ID: 49977), Prob: 0.0004
+Token: ' cont' (ID: 683), Prob: 0.0004
+Token: ' influence' (ID: 10173), Prob: 0.0004
+Token: ' turn' (ID: 2484), Prob: 0.0004
+Token: ' possess' (ID: 15218), Prob: 0.0004
+Token: ' catal' (ID: 33354), Prob: 0.0004
+Token: ' protect' (ID: 6016), Prob: 0.0004
+Token: ' infect' (ID: 33427), Prob: 0.0004
+Token: ' convert' (ID: 5508), Prob: 0.0003
+Token: ' participate' (ID: 15759), Prob: 0.0003
+Token: ' behave' (ID: 35692), Prob: 0.0003
+Token: ' change' (ID: 2297), Prob: 0.0003
+Token: ' degrade' (ID: 95530), Prob: 0.0003
+Token: ' form' (ID: 1352), Prob: 0.0003
+Token: ' block' (ID: 2504), Prob: 0.0003
+Token: ' prevent' (ID: 5358), Prob: 0.0003
+Token: ' impact' (ID: 5421), Prob: 0.0003
+Token: ' exhibit' (ID: 30224), Prob: 0.0003
+Token: ' undergo' (ID: 36671), Prob: 0.0003
+Token: ' start' (ID: 1191), Prob: 0.0003
+Token: ' vary' (ID: 13289), Prob: 0.0003
+Token: ' enhance' (ID: 18379), Prob: 0.0003
+Token: ' introduce' (ID: 19131), Prob: 0.0003
+Token: ' negatively' (ID: 47191), Prob: 0.0003
+Token: ' deactivate' (ID: 66245), Prob: 0.0003
+Token: ' originate' (ID: 81216), Prob: 0.0003
+Token: ' host' (ID: 3468), Prob: 0.0002
+Token: ' allow' (ID: 2138), Prob: 0.0002
+Token: ' modify' (ID: 5602), Prob: 0.0002
+Token: ' absorb' (ID: 34306), Prob: 0.0002
+Token: ' show' (ID: 1473), Prob: 0.0002
+Token: ' remain' (ID: 7146), Prob: 0.0002
+Token: ' control' (ID: 2524), Prob: 0.0002
+Token: ' potentially' (ID: 13581), Prob: 0.0002
+Token: ' perform' (ID: 2736), Prob: 0.0002
+Token: ' respond' (ID: 5889), Prob: 0.0002
+Token: ' alter' (ID: 11596), Prob: 0.0002
+Token: ' involve' (ID: 21058), Prob: 0.0002
+Token: ' get' (ID: 633), Prob: 0.0002
+Token: ' enter' (ID: 3725), Prob: 0.0002
+Token: ' represent' (ID: 4009), Prob: 0.0002
+Token: ' decay' (ID: 30715), Prob: 0.0002
+Token: ' give' (ID: 2968), Prob: 0.0002
+Token: ' refer' (ID: 8300), Prob: 0.0002
+Token: ' indicate' (ID: 13216), Prob: 0.0002
+Token: ' poison' (ID: 20476), Prob: 0.0002
+Token: ' support' (ID: 1824), Prob: 0.0001
+
+== Ranked Concepts (Clusters) ==
+Rank 1 | Concept Score: 0.0298
+  Tokens: [' cause', ' lead', ' trigger']
+Rank 2 | Concept Score: 0.0280
+  Tokens: [' contain', ' occur', ' belong', ' appear', ' vary', ' originate', ' remain', ' involve']
+Rank 3 | Concept Score: 0.0178
+  Tokens: [' act', ' react']
+Rank 4 | Concept Score: 0.0108
+  Tokens: [' exist', ' possess']
+Rank 5 | Concept Score: 0.0106
+  Tokens: [' produce', ' create', ' generate', ' introduce']
+Rank 6 | Concept Score: 0.0101
+  Tokens: [' affect', ' interfere', ' influence', ' impact']
+Rank 7 | Concept Score: 0.0073
+  Tokens: [' play', ' work']
+Rank 8 | Concept Score: 0.0057
+  Tokens: [' kill', ' destroy', ' attack', ' release', ' decay', ' poison']
+Rank 9 | Concept Score: 0.0057
+  Tokens: [' inhibit', ' activate', ' induce', ' stimulate', ' deactivate']
+Rank 10 | Concept Score: 0.0037
+  Tokens: [' damage', ' harm', ' negatively']
+Rank 11 | Concept Score: 0.0035
+  Tokens: [' interact', ' participate', ' behave', ' respond']
+Rank 12 | Concept Score: 0.0031
+  Tokens: [' function', ' present', ' result', ' form']
+Rank 13 | Concept Score: 0.0031
+  Tokens: [' include', ' require', ' allow', ' indicate']
+Rank 14 | Concept Score: 0.0026
+  Tokens: [' serve']
+Rank 15 | Concept Score: 0.0025
+  Tokens: [' contribute']
+Rank 16 | Concept Score: 0.0024
+  Tokens: [' come', ' become']
+Rank 17 | Concept Score: 0.0023
+  Tokens: [' decrease', ' increase', ' reduce', ' change']
+Rank 18 | Concept Score: 0.0018
+  Tokens: [' bind', ' catal']
+Rank 19 | Concept Score: 0.0015
+  Tokens: [' disrupt', ' infect']
+Rank 20 | Concept Score: 0.0014
+  Tokens: [' break', ' turn', ' start']
+Rank 21 | Concept Score: 0.0014
+  Tokens: [' carry', ' undergo', ' potentially']
+Rank 22 | Concept Score: 0.0012
+  Tokens: [' cont', ' block', ' host', ' control']
+Rank 23 | Concept Score: 0.0011
+  Tokens: [' provide', ' show', ' give']
+Rank 24 | Concept Score: 0.0010
+  Tokens: [' help', ' support']
+Rank 25 | Concept Score: 0.0009
+  Tokens: [' develop', ' get']
+Rank 26 | Concept Score: 0.0009
+  Tokens: [' pose', ' exhibit']
+Rank 27 | Concept Score: 0.0007
+  Tokens: [' promote', ' enhance']
+Rank 28 | Concept Score: 0.0007
+  Tokens: [' protect', ' prevent']
+Rank 29 | Concept Score: 0.0005
+  Tokens: [' convert', ' enter']
+Rank 30 | Concept Score: 0.0004
+  Tokens: [' modify', ' alter']
+Rank 31 | Concept Score: 0.0003
+  Tokens: [' represent', ' refer']
+Rank 32 | Concept Score: 0.0003
+  Tokens: [' degrade']
+Rank 33 | Concept Score: 0.0002
+  Tokens: [' absorb']
+Rank 34 | Concept Score: 0.0002
+  Tokens: [' perform']
+
+**Chosen Concept:** Rank 1 with score 0.0298

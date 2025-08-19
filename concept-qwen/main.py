@@ -2,7 +2,14 @@
 import torch
 import os
 import pandas as pd
+import warnings
+import re
+from pathlib import Path
 from transformers import AutoModelForCausalLM, AutoTokenizer
+
+# Suppress the specific hipBLASLt warning
+warnings.filterwarnings("ignore", message="Attempting to use hipBLASLt on an unsupported architecture!")
+
 from datasets import load_dataset
 from sentence_transformers import SentenceTransformer, util
 from concept_decoder import ConceptDecoder
@@ -53,9 +60,74 @@ def run_baseline(prompt, model, tokenizer, config):
     print(output)
     return output[len(prompt):].strip()
 
-def run_benchmark(model, tokenizer, device):
-    # (Benchmark function remains the same as before)
-    pass
+def run_benchmark(model, tokenizer, device, benchmark_config):
+    """Runs a benchmark on the WritingPrompts dataset."""
+    print("\n--- Starting Automatic Benchmark ---")
+    print("Loading benchmark dataset (euclaise/writingprompts)...")
+    # Use the 'test' split for a fair evaluation on unseen data.
+    # Using a small, random sample for quick testing. Increase 'range' for a full benchmark.
+    dataset = load_dataset("euclaise/writingprompts", split="test").shuffle(seed=42).select(range(10))
+    
+    print("Loading semantic similarity model (all-MiniLM-L6-v2)...")
+
+    similarity_model = SentenceTransformer('all-MiniLM-L6-v2').to(device)
+
+    results = []
+    # Use default 'sampling' for both decoders for a fair comparison
+    baseline_config = {'strategy': 'sampling', 'max_new_tokens': 150}
+    
+    # --- Prepare Concept Decoder with Benchmark Config ---
+    concept_config = {'strategy': 'sampling', 'max_new_tokens': 150}
+    concept_config.update(benchmark_config) # Add logging settings
+    if benchmark_config.get('logging_enabled', False):
+        # FIX: Create an absolute path for the benchmark logs directory
+        script_dir = Path(__file__).parent.resolve()
+        concept_config['log_dir_base'] = script_dir / 'benchmark_logs'
+    
+    concept_decoder = ConceptDecoder(model, tokenizer, concept_config)
+
+    for i, item in enumerate(dataset):
+        prompt_raw = item['prompt']
+        # More robustly clean the prompt to remove any [tag] style instructions from the start.
+        prompt = re.sub(r'^[[.*?]]\s*', '', prompt_raw).strip()
+        
+        if benchmark_config.get('logging_enabled', False):
+            concept_decoder.set_log_prompt_id(i + 1) # Tell decoder which prompt it's on
+
+        reference_story = item['story']
+        print(f"\n--- Benchmarking Prompt {i+1}/{len(dataset)} ---")
+        print(f"Prompt: {prompt[:100]}...")
+
+        # Generate with both methods
+        baseline_gen = run_baseline(prompt, model, tokenizer, baseline_config)
+        concept_gen = concept_decoder.generate(prompt)
+
+        # Calculate semantic similarity
+        ref_embedding = similarity_model.encode(reference_story, convert_to_tensor=True)
+        base_embedding = similarity_model.encode(baseline_gen, convert_to_tensor=True)
+        concept_embedding = similarity_model.encode(concept_gen, convert_to_tensor=True)
+
+        score_base = util.pytorch_cos_sim(ref_embedding, base_embedding).item()
+        score_concept = util.pytorch_cos_sim(ref_embedding, concept_embedding).item()
+        
+        results.append({
+            "prompt": prompt,
+            "reference_story": reference_story,
+            "baseline_generation": baseline_gen,
+            "concept_generation": concept_gen,
+            "similarity_score_baseline": score_base,
+            "similarity_score_concept": score_concept,
+        })
+
+    results_df = pd.DataFrame(results)
+    results_df.to_csv("benchmark_results.csv", index=False)
+    print("\n--- Benchmark Complete ---")
+    print("Results saved to benchmark_results.csv")
+    
+    # Print summary statistics
+    print("\n--- Summary Statistics ---")
+    print(results_df[['similarity_score_baseline', 'similarity_score_concept']].describe())
+
 
 def main():
     device = "cuda" if torch.cuda.is_available() else "cpu"
@@ -68,7 +140,15 @@ def main():
 
     print("\n--- Configuration ---")
     if get_user_input("Run automatic benchmark?", 'n') == 'y':
-        run_benchmark(model, tokenizer, device)
+        benchmark_config = {}
+        benchmark_config['logging_enabled'] = get_user_input("Enable benchmark logging?", 'n') == 'y'
+        if benchmark_config['logging_enabled']:
+            benchmark_config['log_mode'] = get_user_choice(
+                "Benchmark log mode",
+                ['logs', 'visuals', 'both'],
+                'both'
+            )
+        run_benchmark(model, tokenizer, device, benchmark_config)
         return
 
     # --- Interactive Mode ---
@@ -99,7 +179,13 @@ def main():
     concept_config['top_k'] = get_user_input("Enter top-k for candidate selection", 100, int)
     concept_config['distance_threshold'] = get_user_input("Enter distance threshold for clustering", 0.45, float)
     
-    prompt = "The ancient library was filled with books, their pages smelling of dust and"
+    ################################
+    ####### MANUAL PROMPTING #######
+    ################################
+    
+    prompt_raw = "The moon is actually a giant egg , and it has just started to hatch ."
+    # More robustly clean the prompt to remove any [tag] style instructions from the start.
+    prompt = re.sub(r'^\[.*?\]\s*', '', prompt_raw).strip()
     
     run_baseline(prompt, model, tokenizer, baseline_config)
     

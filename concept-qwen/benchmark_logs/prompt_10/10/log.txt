@@ -1,0 +1,78 @@
+--- Step 10 Log ---
+
+== Filtered Candidates ==
+Token: ' something' (ID: 2494), Prob: 0.0165
+Token: ' namely' (ID: 31025), Prob: 0.0100
+Token: ' even' (ID: 1496), Prob: 0.0042
+Token: ' perhaps' (ID: 8365), Prob: 0.0033
+Token: ' like' (ID: 1075), Prob: 0.0029
+Token: ' says' (ID: 2727), Prob: 0.0025
+Token: ' yet' (ID: 3602), Prob: 0.0016
+Token: ' maybe' (ID: 7196), Prob: 0.0014
+Token: ' knowing' (ID: 14063), Prob: 0.0014
+Token: ' knows' (ID: 8788), Prob: 0.0014
+Token: ' besides' (ID: 27758), Prob: 0.0012
+Token: ' one' (ID: 825), Prob: 0.0011
+Token: ' since' (ID: 2474), Prob: 0.0010
+Token: ' including' (ID: 2670), Prob: 0.0010
+Token: ' another' (ID: 2441), Prob: 0.0009
+Token: ' meaning' (ID: 7290), Prob: 0.0008
+Token: ' according' (ID: 4092), Prob: 0.0007
+Token: ' say' (ID: 1977), Prob: 0.0006
+Token: ' saying' (ID: 5488), Prob: 0.0006
+Token: ' despite' (ID: 8818), Prob: 0.0006
+Token: ' especially' (ID: 5310), Prob: 0.0006
+Token: ' though' (ID: 3498), Prob: 0.0006
+Token: ' right' (ID: 1290), Prob: 0.0004
+Token: ' whether' (ID: 3425), Prob: 0.0004
+Token: ' possibly' (ID: 10767), Prob: 0.0004
+Token: ' nothing' (ID: 4302), Prob: 0.0004
+Token: ' although' (ID: 7892), Prob: 0.0004
+Token: ' someone' (ID: 4325), Prob: 0.0004
+Token: ' tells' (ID: 10742), Prob: 0.0004
+Token: ' called' (ID: 2598), Prob: 0.0003
+Token: ' however' (ID: 4764), Prob: 0.0003
+Token: ' specifically' (ID: 11689), Prob: 0.0003
+Token: ' making' (ID: 3259), Prob: 0.0003
+Token: ' telling' (ID: 11629), Prob: 0.0003
+Token: ' believing' (ID: 33990), Prob: 0.0003
+Token: ' never' (ID: 2581), Prob: 0.0002
+Token: ' beyond' (ID: 7797), Prob: 0.0002
+
+== Ranked Concepts (Clusters) ==
+Rank 1 | Concept Score: 0.0189
+  Tokens: [' something', ' one', ' another', ' someone']
+Rank 2 | Concept Score: 0.0109
+  Tokens: [' namely', ' especially', ' specifically']
+Rank 3 | Concept Score: 0.0051
+  Tokens: [' perhaps', ' maybe', ' possibly']
+Rank 4 | Concept Score: 0.0048
+  Tokens: [' even', ' despite']
+Rank 5 | Concept Score: 0.0045
+  Tokens: [' like', ' since', ' according']
+Rank 6 | Concept Score: 0.0038
+  Tokens: [' says', ' say', ' saying']
+Rank 7 | Concept Score: 0.0031
+  Tokens: [' knowing', ' knows', ' believing']
+Rank 8 | Concept Score: 0.0016
+  Tokens: [' yet']
+Rank 9 | Concept Score: 0.0014
+  Tokens: [' besides', ' beyond']
+Rank 10 | Concept Score: 0.0013
+  Tokens: [' though', ' although', ' however']
+Rank 11 | Concept Score: 0.0010
+  Tokens: [' meaning', ' making']
+Rank 12 | Concept Score: 0.0010
+  Tokens: [' including']
+Rank 13 | Concept Score: 0.0007
+  Tokens: [' nothing', ' never']
+Rank 14 | Concept Score: 0.0006
+  Tokens: [' tells', ' telling']
+Rank 15 | Concept Score: 0.0004
+  Tokens: [' right']
+Rank 16 | Concept Score: 0.0004
+  Tokens: [' whether']
+Rank 17 | Concept Score: 0.0003
+  Tokens: [' called']
+
+**Chosen Concept:** Rank 1 with score 0.0189

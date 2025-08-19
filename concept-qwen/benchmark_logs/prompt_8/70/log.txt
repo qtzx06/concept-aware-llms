@@ -1,0 +1,105 @@
+--- Step 70 Log ---
+
+== Filtered Candidates ==
+Token: ' better' (ID: 2664), Prob: 0.9961
+Token: ' different' (ID: 2155), Prob: 0.0004
+Token: ' greater' (ID: 7046), Prob: 0.0004
+Token: ' stronger' (ID: 16245), Prob: 0.0003
+Token: ' deeper' (ID: 19117), Prob: 0.0002
+Token: ' worse' (ID: 10960), Prob: 0.0001
+Token: ' good' (ID: 1661), Prob: 0.0001
+Token: ' broader' (ID: 26829), Prob: 0.0001
+Token: ' higher' (ID: 5080), Prob: 0.0001
+Token: ' closer' (ID: 12128), Prob: 0.0000
+Token: ' Better' (ID: 23434), Prob: 0.0000
+Token: ' healthier' (ID: 38245), Prob: 0.0000
+Token: ' best' (ID: 1850), Prob: 0.0000
+Token: 'better' (ID: 57134), Prob: 0.0000
+Token: ' similar' (ID: 4428), Prob: 0.0000
+Token: ' much' (ID: 1753), Prob: 0.0000
+Token: ' faster' (ID: 10596), Prob: 0.0000
+Token: ' bigger' (ID: 11243), Prob: 0.0000
+Token: ' clearer' (ID: 48379), Prob: 0.0000
+Token: ' longer' (ID: 5021), Prob: 0.0000
+Token: ' less' (ID: 2686), Prob: 0.0000
+Token: ' great' (ID: 2244), Prob: 0.0000
+Token: ' besser' (ID: 70336), Prob: 0.0000
+Token: ' darker' (ID: 39030), Prob: 0.0000
+Token: ' lesser' (ID: 31315), Prob: 0.0000
+Token: ' negative' (ID: 8225), Prob: 0.0000
+Token: ' wider' (ID: 21864), Prob: 0.0000
+Token: ' well' (ID: 1632), Prob: 0.0000
+Token: ' positive' (ID: 6785), Prob: 0.0000
+Token: ' weaker' (ID: 42283), Prob: 0.0000
+Token: ' brighter' (ID: 52557), Prob: 0.0000
+Token: ' bit' (ID: 2699), Prob: 0.0000
+Token: ' lower' (ID: 4722), Prob: 0.0000
+Token: ' new' (ID: 501), Prob: 0.0000
+Token: ' larger' (ID: 8131), Prob: 0.0000
+Token: ' direct' (ID: 2118), Prob: 0.0000
+Token: ' certain' (ID: 3654), Prob: 0.0000
+Token: ' quicker' (ID: 38292), Prob: 0.0000
+Token: ' feeling' (ID: 8266), Prob: 0.0000
+Token: ' safer' (ID: 29449), Prob: 0.0000
+Token: ' richer' (ID: 58674), Prob: 0.0000
+Token: ' bad' (ID: 3873), Prob: 0.0000
+Token: ' relationship' (ID: 5025), Prob: 0.0000
+Token: ' shorter' (ID: 23327), Prob: 0.0000
+Token: ' tighter' (ID: 62962), Prob: 0.0000
+Token: ' possible' (ID: 3204), Prob: 0.0000
+Token: ' potential' (ID: 4650), Prob: 0.0000
+Token: ' benefit' (ID: 8760), Prob: 0.0000
+Token: ' separate' (ID: 8651), Prob: 0.0000
+Token: ' happier' (ID: 43367), Prob: 0.0000
+Token: ' poorer' (ID: 65181), Prob: 0.0000
+Token: ' way' (ID: 1616), Prob: 0.0000
+Token: ' behavior' (ID: 7709), Prob: 0.0000
+Token: ' friend' (ID: 4238), Prob: 0.0000
+Token: ' smarter' (ID: 46478), Prob: 0.0000
+Token: ' third' (ID: 4843), Prob: 0.0000
+Token: ' basic' (ID: 6770), Prob: 0.0000
+Token: ' potentially' (ID: 13581), Prob: 0.0000
+Token: ' second' (ID: 2086), Prob: 0.0000
+Token: ' difference' (ID: 6672), Prob: 0.0000
+Token: ' harder' (ID: 15750), Prob: 0.0000
+Token: ' situation' (ID: 6534), Prob: 0.0000
+Token: ' successful' (ID: 6849), Prob: 0.0000
+Token: ' little' (ID: 2632), Prob: 0.0000
+Token: ' fuller' (ID: 86918), Prob: 0.0000
+Token: ' really' (ID: 2167), Prob: 0.0000
+
+== Ranked Concepts (Clusters) ==
+Rank 1 | Concept Score: 0.9961
+  Tokens: [' better', ' Better', 'better', ' besser']
+Rank 2 | Concept Score: 0.0007
+  Tokens: [' greater', ' deeper', ' broader', ' higher', ' bigger', ' longer', ' wider', ' larger']
+Rank 3 | Concept Score: 0.0005
+  Tokens: [' different', ' similar', ' certain', ' separate', ' difference']
+Rank 4 | Concept Score: 0.0004
+  Tokens: [' stronger', ' healthier', ' clearer', ' darker', ' weaker', ' brighter', ' safer', ' richer', ' tighter', ' happier', ' smarter', ' harder']
+Rank 5 | Concept Score: 0.0001
+  Tokens: [' worse', ' poorer']
+Rank 6 | Concept Score: 0.0001
+  Tokens: [' good', ' best', ' well', ' bad']
+Rank 7 | Concept Score: 0.0001
+  Tokens: [' closer', ' faster', ' quicker', ' shorter']
+Rank 8 | Concept Score: 0.0000
+  Tokens: [' much', ' great', ' bit', ' little', ' really']
+Rank 9 | Concept Score: 0.0000
+  Tokens: [' less', ' lesser', ' lower']
+Rank 10 | Concept Score: 0.0000
+  Tokens: [' feeling', ' relationship', ' way', ' behavior', ' friend', ' situation']
+Rank 11 | Concept Score: 0.0000
+  Tokens: [' negative', ' positive']
+Rank 12 | Concept Score: 0.0000
+  Tokens: [' new', ' direct', ' basic']
+Rank 13 | Concept Score: 0.0000
+  Tokens: [' possible', ' potential', ' potentially']
+Rank 14 | Concept Score: 0.0000
+  Tokens: [' benefit', ' successful']
+Rank 15 | Concept Score: 0.0000
+  Tokens: [' third', ' second']
+Rank 16 | Concept Score: 0.0000
+  Tokens: [' fuller']
+
+**Chosen Concept:** Rank 1 with score 0.9961

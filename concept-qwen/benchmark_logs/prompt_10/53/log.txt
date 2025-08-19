@@ -1,0 +1,97 @@
+--- Step 53 Log ---
+
+== Filtered Candidates ==
+Token: ' ten' (ID: 5779), Prob: 0.9922
+Token: ' tenth' (ID: 55666), Prob: 0.0032
+Token: ' one' (ID: 825), Prob: 0.0005
+Token: ' eleven' (ID: 44214), Prob: 0.0004
+Token: ' twelve' (ID: 29235), Prob: 0.0003
+Token: ' Ten' (ID: 17695), Prob: 0.0003
+Token: ' hundred' (ID: 7739), Prob: 0.0001
+Token: ' nine' (ID: 11627), Prob: 0.0001
+Token: ' eight' (ID: 8063), Prob: 0.0001
+Token: ' twenty' (ID: 17073), Prob: 0.0001
+Token: ' tens' (ID: 22008), Prob: 0.0001
+Token: ' two' (ID: 1378), Prob: 0.0001
+Token: ' seven' (ID: 8094), Prob: 0.0000
+Token: ' thousand' (ID: 16183), Prob: 0.0000
+Token: ' three' (ID: 2326), Prob: 0.0000
+Token: ' decade' (ID: 13212), Prob: 0.0000
+Token: ' four' (ID: 3040), Prob: 0.0000
+Token: ' first' (ID: 1156), Prob: 0.0000
+Token: ' thirteen' (ID: 60659), Prob: 0.0000
+Token: ' tent' (ID: 15632), Prob: 0.0000
+Token: ' five' (ID: 4236), Prob: 0.0000
+Token: ' zero' (ID: 7168), Prob: 0.0000
+Token: ' dozen' (ID: 20403), Prob: 0.0000
+Token: ' tiger' (ID: 51735), Prob: 0.0000
+Token: ' six' (ID: 4743), Prob: 0.0000
+Token: ' decimal' (ID: 12122), Prob: 0.0000
+Token: ' oct' (ID: 18491), Prob: 0.0000
+Token: ' fourteen' (ID: 62260), Prob: 0.0000
+Token: ' fifteen' (ID: 36655), Prob: 0.0000
+Token: ' ele' (ID: 10510), Prob: 0.0000
+Token: ' number' (ID: 1372), Prob: 0.0000
+Token: ' die' (ID: 2746), Prob: 0.0000
+Token: 'ten' (ID: 1960), Prob: 0.0000
+Token: ' last' (ID: 1537), Prob: 0.0000
+Token: ' thirty' (ID: 26127), Prob: 0.0000
+Token: ' total' (ID: 2790), Prob: 0.0000
+Token: ' October' (ID: 6527), Prob: 0.0000
+Token: ' unit' (ID: 4982), Prob: 0.0000
+Token: ' king' (ID: 11477), Prob: 0.0000
+Token: 'Ten' (ID: 32687), Prob: 0.0000
+Token: ' single' (ID: 3175), Prob: 0.0000
+Token: ' TEN' (ID: 74266), Prob: 0.0000
+Token: ' month' (ID: 2254), Prob: 0.0000
+Token: ' board' (ID: 4479), Prob: 0.0000
+Token: ' tele' (ID: 7963), Prob: 0.0000
+Token: ' odd' (ID: 10322), Prob: 0.0000
+Token: ' kingdom' (ID: 25079), Prob: 0.0000
+Token: ' sixteen' (ID: 58039), Prob: 0.0000
+Token: ' eighteen' (ID: 62034), Prob: 0.0000
+Token: ' twentieth' (ID: 61420), Prob: 0.0000
+Token: ' dime' (ID: 73853), Prob: 0.0000
+Token: '_ten' (ID: 75827), Prob: 0.0000
+Token: ' seventeen' (ID: 81397), Prob: 0.0000
+Token: ' hour' (ID: 6460), Prob: 0.0000
+Token: ' tower' (ID: 21271), Prob: 0.0000
+Token: ' letter' (ID: 6524), Prob: 0.0000
+
+== Ranked Concepts (Clusters) ==
+Rank 1 | Concept Score: 0.9922
+  Tokens: [' ten', ' Ten', 'ten', 'Ten', ' TEN', '_ten']
+Rank 2 | Concept Score: 0.0032
+  Tokens: [' tenth', ' twentieth']
+Rank 3 | Concept Score: 0.0008
+  Tokens: [' eleven', ' twelve', ' twenty', ' thirteen', ' fourteen', ' fifteen', ' thirty', ' sixteen', ' eighteen', ' seventeen']
+Rank 4 | Concept Score: 0.0005
+  Tokens: [' one', ' two']
+Rank 5 | Concept Score: 0.0003
+  Tokens: [' nine', ' eight', ' seven', ' three', ' four', ' five', ' six']
+Rank 6 | Concept Score: 0.0002
+  Tokens: [' hundred', ' thousand', ' dozen']
+Rank 7 | Concept Score: 0.0001
+  Tokens: [' tens', ' tent']
+Rank 8 | Concept Score: 0.0000
+  Tokens: [' zero', ' number', ' total', ' unit', ' single']
+Rank 9 | Concept Score: 0.0000
+  Tokens: [' decade', ' month', ' hour']
+Rank 10 | Concept Score: 0.0000
+  Tokens: [' first', ' last']
+Rank 11 | Concept Score: 0.0000
+  Tokens: [' decimal', ' oct', ' October']
+Rank 12 | Concept Score: 0.0000
+  Tokens: [' tiger', ' king', ' kingdom', ' tower']
+Rank 13 | Concept Score: 0.0000
+  Tokens: [' ele', ' tele']
+Rank 14 | Concept Score: 0.0000
+  Tokens: [' die']
+Rank 15 | Concept Score: 0.0000
+  Tokens: [' odd', ' letter']
+Rank 16 | Concept Score: 0.0000
+  Tokens: [' board']
+Rank 17 | Concept Score: 0.0000
+  Tokens: [' dime']
+
+**Chosen Concept:** Rank 1 with score 0.9922

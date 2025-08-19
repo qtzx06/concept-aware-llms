@@ -1,0 +1,112 @@
+--- Step 116 Log ---
+
+== Filtered Candidates ==
+Token: ' person' (ID: 1697), Prob: 1.0000
+Token: ' persons' (ID: 11186), Prob: 0.0000
+Token: ' people' (ID: 1251), Prob: 0.0000
+Token: ' human' (ID: 3738), Prob: 0.0000
+Token: ' personal' (ID: 4345), Prob: 0.0000
+Token: ' individual' (ID: 3842), Prob: 0.0000
+Token: ' patient' (ID: 8720), Prob: 0.0000
+Token: ' persona' (ID: 27955), Prob: 0.0000
+Token: ' Person' (ID: 7357), Prob: 0.0000
+Token: ' plant' (ID: 6008), Prob: 0.0000
+Token: ' personality' (ID: 17294), Prob: 0.0000
+Token: ' man' (ID: 883), Prob: 0.0000
+Token: ' per' (ID: 817), Prob: 0.0000
+Token: '	person' (ID: 98805), Prob: 0.0000
+Token: ' woman' (ID: 5220), Prob: 0.0000
+Token: ' personne' (ID: 53513), Prob: 0.0000
+Token: 'person' (ID: 8987), Prob: 0.0000
+Token: ' relationship' (ID: 5025), Prob: 0.0000
+Token: ' partner' (ID: 8263), Prob: 0.0000
+Token: ' part' (ID: 949), Prob: 0.0000
+Token: ' present' (ID: 3042), Prob: 0.0000
+Token: ' purpose' (ID: 7428), Prob: 0.0000
+Token: ' self' (ID: 656), Prob: 0.0000
+Token: ' subject' (ID: 3832), Prob: 0.0000
+Token: ' one' (ID: 825), Prob: 0.0000
+Token: ' user' (ID: 1196), Prob: 0.0000
+Token: ' body' (ID: 2487), Prob: 0.0000
+Token: ' participant' (ID: 24880), Prob: 0.0000
+Token: ' someone' (ID: 4325), Prob: 0.0000
+Token: ' whole' (ID: 4361), Prob: 0.0000
+Token: '(person' (ID: 29766), Prob: 0.0000
+Token: ' process' (ID: 1882), Prob: 0.0000
+Token: ' player' (ID: 2781), Prob: 0.0000
+Token: ' possible' (ID: 3204), Prob: 0.0000
+Token: ' place' (ID: 1992), Prob: 0.0000
+Token: ' thing' (ID: 3166), Prob: 0.0000
+Token: ' object' (ID: 1633), Prob: 0.0000
+Token: ' problem' (ID: 3491), Prob: 0.0000
+Token: ' situation' (ID: 6534), Prob: 0.0000
+Token: ' following' (ID: 2701), Prob: 0.0000
+Token: ' persone' (ID: 60688), Prob: 0.0000
+Token: ' character' (ID: 3668), Prob: 0.0000
+Token: '.person' (ID: 30870), Prob: 0.0000
+Token: ' reason' (ID: 2874), Prob: 0.0000
+Token: ' animal' (ID: 9864), Prob: 0.0000
+Token: ' party' (ID: 4614), Prob: 0.0000
+Token: '-person' (ID: 28045), Prob: 0.0000
+Token: ' speaker' (ID: 18601), Prob: 0.0000
+Token: ' parent' (ID: 2681), Prob: 0.0000
+Token: ' client' (ID: 2943), Prob: 0.0000
+Token: ' actual' (ID: 5042), Prob: 0.0000
+Token: ' planet' (ID: 11580), Prob: 0.0000
+Token: ' perspective' (ID: 13057), Prob: 0.0000
+Token: ' company' (ID: 2813), Prob: 0.0000
+Token: ' owner' (ID: 6372), Prob: 0.0000
+Token: ' organism' (ID: 46020), Prob: 0.0000
+Token: ' member' (ID: 4462), Prob: 0.0000
+Token: ' potential' (ID: 4650), Prob: 0.0000
+Token: ' personnel' (ID: 16849), Prob: 0.0000
+Token: ' pessoa' (ID: 56630), Prob: 0.0000
+Token: ' wearer' (ID: 84602), Prob: 0.0000
+Token: ' pain' (ID: 6646), Prob: 0.0000
+Token: ' pet' (ID: 6753), Prob: 0.0000
+Token: '_person' (ID: 23417), Prob: 0.0000
+Token: ' like' (ID: 1075), Prob: 0.0000
+
+== Ranked Concepts (Clusters) ==
+Rank 1 | Concept Score: 1.0000
+  Tokens: [' person', ' persons', ' persona', ' Person', '\tperson', ' personne', 'person', '(person', ' persone', '.person', '-person', ' personnel', ' pessoa', '_person']
+Rank 2 | Concept Score: 0.0000
+  Tokens: [' people', ' someone']
+Rank 3 | Concept Score: 0.0000
+  Tokens: [' personal', ' individual', ' self']
+Rank 4 | Concept Score: 0.0000
+  Tokens: [' human', ' man', ' woman']
+Rank 5 | Concept Score: 0.0000
+  Tokens: [' patient', ' user', ' player', ' speaker', ' client', ' owner', ' wearer']
+Rank 6 | Concept Score: 0.0000
+  Tokens: [' plant', ' animal', ' planet', ' organism', ' pet']
+Rank 7 | Concept Score: 0.0000
+  Tokens: [' personality']
+Rank 8 | Concept Score: 0.0000
+  Tokens: [' relationship', ' character', ' perspective']
+Rank 9 | Concept Score: 0.0000
+  Tokens: [' present', ' possible', ' actual', ' potential']
+Rank 10 | Concept Score: 0.0000
+  Tokens: [' part', ' participant', ' party']
+Rank 11 | Concept Score: 0.0000
+  Tokens: [' per']
+Rank 12 | Concept Score: 0.0000
+  Tokens: [' one', ' whole', ' following', ' like']
+Rank 13 | Concept Score: 0.0000
+  Tokens: [' process', ' problem', ' situation']
+Rank 14 | Concept Score: 0.0000
+  Tokens: [' partner', ' member']
+Rank 15 | Concept Score: 0.0000
+  Tokens: [' purpose', ' reason']
+Rank 16 | Concept Score: 0.0000
+  Tokens: [' subject', ' object']
+Rank 17 | Concept Score: 0.0000
+  Tokens: [' place', ' thing']
+Rank 18 | Concept Score: 0.0000
+  Tokens: [' body']
+Rank 19 | Concept Score: 0.0000
+  Tokens: [' parent', ' pain']
+Rank 20 | Concept Score: 0.0000
+  Tokens: [' company']
+
+**Chosen Concept:** Rank 1 with score 1.0000

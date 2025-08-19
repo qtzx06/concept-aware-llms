@@ -1,0 +1,65 @@
+--- Step 86 Log ---
+
+== Filtered Candidates ==
+Token: 'ting' (ID: 1280), Prob: 0.9023
+Token: 'ten' (ID: 1960), Prob: 0.0001
+Token: 'tings' (ID: 2065), Prob: 0.0001
+Token: 'ing' (ID: 287), Prob: 0.0001
+Token: 'TING' (ID: 25043), Prob: 0.0000
+Token: ' getting' (ID: 3709), Prob: 0.0000
+Token: ' trying' (ID: 4460), Prob: 0.0000
+Token: ' alone' (ID: 7484), Prob: 0.0000
+Token: ' another' (ID: 2441), Prob: 0.0000
+Token: ' ting' (ID: 42227), Prob: 0.0000
+Token: ' something' (ID: 2494), Prob: 0.0000
+Token: ' talking' (ID: 7404), Prob: 0.0000
+Token: ' changing' (ID: 10018), Prob: 0.0000
+Token: ' using' (ID: 1667), Prob: 0.0000
+Token: ' adding' (ID: 7842), Prob: 0.0000
+Token: ' total' (ID: 2790), Prob: 0.0000
+Token: ' thinking' (ID: 7274), Prob: 0.0000
+Token: ' telling' (ID: 11629), Prob: 0.0000
+Token: ' taking' (ID: 4633), Prob: 0.0000
+Token: ' time' (ID: 882), Prob: 0.0000
+Token: ' translate' (ID: 14683), Prob: 0.0000
+Token: ' letting' (ID: 20194), Prob: 0.0000
+Token: ' translating' (ID: 66271), Prob: 0.0000
+Token: 'zing' (ID: 20371), Prob: 0.0000
+Token: ' others' (ID: 3800), Prob: 0.0000
+Token: ' someone' (ID: 4325), Prob: 0.0000
+Token: ' two' (ID: 1378), Prob: 0.0000
+Token: ' knowing' (ID: 14063), Prob: 0.0000
+Token: ' term' (ID: 4647), Prob: 0.0000
+Token: ' understanding' (ID: 8660), Prob: 0.0000
+
+== Ranked Concepts (Clusters) ==
+Rank 1 | Concept Score: 0.9023
+  Tokens: ['ting', 'tings', 'TING']
+Rank 2 | Concept Score: 0.0002
+  Tokens: [' getting', ' trying', ' changing', ' using', ' adding', ' taking', ' letting']
+Rank 3 | Concept Score: 0.0001
+  Tokens: ['ten']
+Rank 4 | Concept Score: 0.0001
+  Tokens: [' another', ' something', ' others', ' someone']
+Rank 5 | Concept Score: 0.0001
+  Tokens: ['ing']
+Rank 6 | Concept Score: 0.0000
+  Tokens: [' talking', ' telling']
+Rank 7 | Concept Score: 0.0000
+  Tokens: [' alone']
+Rank 8 | Concept Score: 0.0000
+  Tokens: [' ting']
+Rank 9 | Concept Score: 0.0000
+  Tokens: [' thinking', ' knowing', ' understanding']
+Rank 10 | Concept Score: 0.0000
+  Tokens: [' total', ' time']
+Rank 11 | Concept Score: 0.0000
+  Tokens: [' translate', ' translating']
+Rank 12 | Concept Score: 0.0000
+  Tokens: ['zing']
+Rank 13 | Concept Score: 0.0000
+  Tokens: [' two']
+Rank 14 | Concept Score: 0.0000
+  Tokens: [' term']
+
+**Chosen Concept:** Rank 1 with score 0.9023

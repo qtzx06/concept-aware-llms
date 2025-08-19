@@ -1,0 +1,88 @@
+--- Step 146 Log ---
+
+== Filtered Candidates ==
+Token: ' question' (ID: 3405), Prob: 0.5352
+Token: ' questions' (ID: 4755), Prob: 0.1963
+Token: ' two' (ID: 1378), Prob: 0.0021
+Token: ' query' (ID: 3239), Prob: 0.0009
+Token: ' statement' (ID: 5114), Prob: 0.0006
+Token: ' sentence' (ID: 11652), Prob: 0.0006
+Token: ' prompt' (ID: 9934), Prob: 0.0004
+Token: ' statements' (ID: 12239), Prob: 0.0004
+Token: ' Question' (ID: 15846), Prob: 0.0003
+Token: ' sentences' (ID: 22870), Prob: 0.0003
+Token: ' paragraph' (ID: 14311), Prob: 0.0002
+Token: ' Questions' (ID: 23382), Prob: 0.0002
+Token: ' problem' (ID: 3491), Prob: 0.0002
+Token: ' queries' (ID: 19556), Prob: 0.0002
+Token: ' three' (ID: 2326), Prob: 0.0001
+Token: ' passage' (ID: 21085), Prob: 0.0001
+Token: ' open' (ID: 1787), Prob: 0.0001
+Token: ' possible' (ID: 3204), Prob: 0.0001
+Token: ' multiple' (ID: 5248), Prob: 0.0001
+Token: ' rhetorical' (ID: 85968), Prob: 0.0001
+Token: ' logical' (ID: 19819), Prob: 0.0001
+Token: ' fact' (ID: 2097), Prob: 0.0001
+Token: ' based' (ID: 3118), Prob: 0.0001
+Token: ' prompts' (ID: 50932), Prob: 0.0001
+Token: ' scientific' (ID: 12344), Prob: 0.0001
+Token: ' answer' (ID: 4226), Prob: 0.0000
+Token: ' comprehension' (ID: 61094), Prob: 0.0000
+Token: ' facts' (ID: 13064), Prob: 0.0000
+Token: ' research' (ID: 3412), Prob: 0.0000
+Token: ' according' (ID: 4092), Prob: 0.0000
+Token: ' inference' (ID: 44378), Prob: 0.0000
+Token: ' scenario' (ID: 15048), Prob: 0.0000
+Token: 'question' (ID: 7841), Prob: 0.0000
+Token: ' conclusion' (ID: 16688), Prob: 0.0000
+Token: ' Open' (ID: 5264), Prob: 0.0000
+Token: ' final' (ID: 1590), Prob: 0.0000
+Token: ' points' (ID: 3501), Prob: 0.0000
+Token: ' related' (ID: 5435), Prob: 0.0000
+Token: ' yes' (ID: 9834), Prob: 0.0000
+Token: ' factual' (ID: 59901), Prob: 0.0000
+Token: ' new' (ID: 501), Prob: 0.0000
+Token: ' opening' (ID: 8568), Prob: 0.0000
+Token: ' reasoning' (ID: 32711), Prob: 0.0000
+Token: ' hypothetical' (ID: 58059), Prob: 0.0000
+Token: ' truth' (ID: 8046), Prob: 0.0000
+Token: ' well' (ID: 1632), Prob: 0.0000
+Token: ' four' (ID: 3040), Prob: 0.0000
+Token: ' five' (ID: 4236), Prob: 0.0000
+Token: ' logic' (ID: 12218), Prob: 0.0000
+
+== Ranked Concepts (Clusters) ==
+Rank 1 | Concept Score: 0.7305
+  Tokens: [' question', ' questions', ' Question', ' Questions', 'question']
+Rank 2 | Concept Score: 0.0023
+  Tokens: [' two', ' three', ' multiple', ' four', ' five']
+Rank 3 | Concept Score: 0.0011
+  Tokens: [' query', ' queries']
+Rank 4 | Concept Score: 0.0011
+  Tokens: [' sentence', ' sentences', ' paragraph']
+Rank 5 | Concept Score: 0.0010
+  Tokens: [' statement', ' statements']
+Rank 6 | Concept Score: 0.0006
+  Tokens: [' prompt', ' passage', ' prompts']
+Rank 7 | Concept Score: 0.0003
+  Tokens: [' possible', ' based', ' according', ' related', ' new', ' well']
+Rank 8 | Concept Score: 0.0002
+  Tokens: [' problem', ' answer']
+Rank 9 | Concept Score: 0.0002
+  Tokens: [' open', ' Open', ' opening']
+Rank 10 | Concept Score: 0.0002
+  Tokens: [' rhetorical', ' comprehension', ' inference']
+Rank 11 | Concept Score: 0.0002
+  Tokens: [' fact', ' facts', ' factual', ' truth']
+Rank 12 | Concept Score: 0.0001
+  Tokens: [' logical', ' reasoning', ' logic']
+Rank 13 | Concept Score: 0.0001
+  Tokens: [' scientific', ' research', ' hypothetical']
+Rank 14 | Concept Score: 0.0001
+  Tokens: [' scenario', ' conclusion', ' final']
+Rank 15 | Concept Score: 0.0000
+  Tokens: [' points']
+Rank 16 | Concept Score: 0.0000
+  Tokens: [' yes']
+
+**Chosen Concept:** Rank 1 with score 0.7305

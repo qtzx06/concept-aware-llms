@@ -99,7 +99,10 @@ def visualize_clusters(embeddings, cluster_labels, token_ids, tokenizer, log_pat
     scatter = plt.scatter(reduced_embeddings_2d[:, 0], reduced_embeddings_2d[:, 1], c=cluster_labels, cmap='viridis', alpha=0.7)
     
     for i, token_id in enumerate(token_ids):
-        plt.annotate(tokenizer.decode(token_id), (reduced_embeddings_2d[i, 0], reduced_embeddings_2d[i, 1]), fontsize=8)
+        decoded_token = tokenizer.decode(token_id)
+        # Sanitize the token to remove non-printable characters before plotting
+        cleaned_token = re.sub(r'[\x00-\x1f\x7f-\x9f]', '', decoded_token)
+        plt.annotate(cleaned_token, (reduced_embeddings_2d[i, 0], reduced_embeddings_2d[i, 1]), fontsize=8)
         
     plt.title(f'Token Clusters (Step saved in {log_path.name})')
     plt.xlabel('t-SNE Component 1')

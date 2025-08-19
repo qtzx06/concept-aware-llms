@@ -1,0 +1,111 @@
+--- Step 138 Log ---
+
+== Filtered Candidates ==
+Token: ' get' (ID: 633), Prob: 1.0000
+Token: ' take' (ID: 1896), Prob: 0.0000
+Token: ' gain' (ID: 8722), Prob: 0.0000
+Token: ' buy' (ID: 3695), Prob: 0.0000
+Token: ' gets' (ID: 5221), Prob: 0.0000
+Token: ' obtain' (ID: 6851), Prob: 0.0000
+Token: ' make' (ID: 1281), Prob: 0.0000
+Token: ' find' (ID: 1477), Prob: 0.0000
+Token: ' give' (ID: 2968), Prob: 0.0000
+Token: ' got' (ID: 2684), Prob: 0.0000
+Token: ' retrieve' (ID: 17179), Prob: 0.0000
+Token: ' return' (ID: 470), Prob: 0.0000
+Token: ' replace' (ID: 8290), Prob: 0.0000
+Token: ' use' (ID: 990), Prob: 0.0000
+Token: ' regain' (ID: 48555), Prob: 0.0000
+Token: ' catch' (ID: 2287), Prob: 0.0000
+Token: ' getting' (ID: 3709), Prob: 0.0000
+Token: ' Get' (ID: 2126), Prob: 0.0000
+Token: ' keep' (ID: 2506), Prob: 0.0000
+Token: '/get' (ID: 23302), Prob: 0.0000
+Token: '.get' (ID: 670), Prob: 0.0000
+Token: 'get' (ID: 455), Prob: 0.0000
+Token: ' see' (ID: 1490), Prob: 0.0000
+Token: ' earn' (ID: 7232), Prob: 0.0000
+Token: ' steal' (ID: 26571), Prob: 0.0000
+Token: ' receive' (ID: 5258), Prob: 0.0000
+Token: ' put' (ID: 2182), Prob: 0.0000
+Token: ' pay' (ID: 2291), Prob: 0.0000
+Token: ' recover' (ID: 11731), Prob: 0.0000
+Token: ' acquire' (ID: 21256), Prob: 0.0000
+Token: ' let' (ID: 1077), Prob: 0.0000
+Token: ' come' (ID: 2525), Prob: 0.0000
+Token: ' set' (ID: 738), Prob: 0.0000
+Token: '	get' (ID: 10366), Prob: 0.0000
+Token: ' fix' (ID: 5046), Prob: 0.0000
+Token: ' achieve' (ID: 11075), Prob: 0.0000
+Token: ' break' (ID: 1438), Prob: 0.0000
+Token: ' ask' (ID: 2548), Prob: 0.0000
+Token: ' enter' (ID: 3725), Prob: 0.0000
+Token: ' collect' (ID: 6530), Prob: 0.0000
+Token: ' try' (ID: 1430), Prob: 0.0000
+Token: ' say' (ID: 1977), Prob: 0.0000
+Token: '(get' (ID: 5433), Prob: 0.0000
+Token: ' GET' (ID: 7890), Prob: 0.0000
+Token: ' grab' (ID: 11633), Prob: 0.0000
+Token: '-get' (ID: 22491), Prob: 0.0000
+Token: ' learn' (ID: 3960), Prob: 0.0000
+Token: ' trade' (ID: 6559), Prob: 0.0000
+Token: ' extract' (ID: 8649), Prob: 0.0000
+Token: ' restore' (ID: 14952), Prob: 0.0000
+Token: '_get' (ID: 3062), Prob: 0.0000
+Token: ' look' (ID: 1401), Prob: 0.0000
+Token: ' become' (ID: 3635), Prob: 0.0000
+Token: ' track' (ID: 3754), Prob: 0.0000
+Token: ' reach' (ID: 5545), Prob: 0.0000
+Token: ' gather' (ID: 9567), Prob: 0.0000
+Token: ' gotten' (ID: 17019), Prob: 0.0000
+Token: ' start' (ID: 1191), Prob: 0.0000
+Token: ' change' (ID: 2297), Prob: 0.0000
+Token: ' execute' (ID: 9026), Prob: 0.0000
+Token: ' swap' (ID: 14291), Prob: 0.0000
+Token: '$get' (ID: 89433), Prob: 0.0000
+
+== Ranked Concepts (Clusters) ==
+Rank 1 | Concept Score: 1.0000
+  Tokens: [' get', ' gets', ' got', ' getting', ' Get', '/get', '.get', 'get', '\tget', '(get', ' GET', '-get', '_get', ' gotten', '$get']
+Rank 2 | Concept Score: 0.0000
+  Tokens: [' take', ' make', ' find', ' use', ' keep', ' see', ' try', ' look']
+Rank 3 | Concept Score: 0.0000
+  Tokens: [' gain']
+Rank 4 | Concept Score: 0.0000
+  Tokens: [' obtain', ' earn', ' receive', ' acquire', ' learn']
+Rank 5 | Concept Score: 0.0000
+  Tokens: [' buy', ' pay']
+Rank 6 | Concept Score: 0.0000
+  Tokens: [' give']
+Rank 7 | Concept Score: 0.0000
+  Tokens: [' retrieve', ' grab', ' extract']
+Rank 8 | Concept Score: 0.0000
+  Tokens: [' regain', ' recover', ' restore']
+Rank 9 | Concept Score: 0.0000
+  Tokens: [' return', ' break', ' start']
+Rank 10 | Concept Score: 0.0000
+  Tokens: [' replace', ' fix']
+Rank 11 | Concept Score: 0.0000
+  Tokens: [' catch']
+Rank 12 | Concept Score: 0.0000
+  Tokens: [' put', ' set']
+Rank 13 | Concept Score: 0.0000
+  Tokens: [' let', ' ask', ' say']
+Rank 14 | Concept Score: 0.0000
+  Tokens: [' steal']
+Rank 15 | Concept Score: 0.0000
+  Tokens: [' come', ' become']
+Rank 16 | Concept Score: 0.0000
+  Tokens: [' achieve', ' reach']
+Rank 17 | Concept Score: 0.0000
+  Tokens: [' enter', ' execute']
+Rank 18 | Concept Score: 0.0000
+  Tokens: [' collect', ' gather']
+Rank 19 | Concept Score: 0.0000
+  Tokens: [' trade', ' swap']
+Rank 20 | Concept Score: 0.0000
+  Tokens: [' track']
+Rank 21 | Concept Score: 0.0000
+  Tokens: [' change']
+
+**Chosen Concept:** Rank 1 with score 1.0000

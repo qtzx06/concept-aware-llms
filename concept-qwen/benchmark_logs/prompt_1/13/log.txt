@@ -1,0 +1,110 @@
+--- Step 13 Log ---
+
+== Filtered Candidates ==
+Token: ' cry' (ID: 15729), Prob: 0.5117
+Token: ' crying' (ID: 30199), Prob: 0.0289
+Token: ' cried' (ID: 38069), Prob: 0.0128
+Token: ' etc' (ID: 4992), Prob: 0.0094
+Token: ' scream' (ID: 45689), Prob: 0.0088
+Token: ' love' (ID: 2948), Prob: 0.0053
+Token: ' tears' (ID: 23139), Prob: 0.0053
+Token: ' feel' (ID: 2666), Prob: 0.0037
+Token: ' tear' (ID: 17576), Prob: 0.0025
+Token: ' fall' (ID: 4399), Prob: 0.0022
+Token: ' break' (ID: 1438), Prob: 0.0018
+Token: ' pain' (ID: 6646), Prob: 0.0018
+Token: ' please' (ID: 4486), Prob: 0.0014
+Token: ' make' (ID: 1281), Prob: 0.0013
+Token: ' cries' (ID: 57745), Prob: 0.0013
+Token: ' sorrow' (ID: 57496), Prob: 0.0012
+Token: ' emotion' (ID: 19772), Prob: 0.0011
+Token: ' thank' (ID: 9702), Prob: 0.0009
+Token: ' joy' (ID: 15888), Prob: 0.0009
+Token: ' repeat' (ID: 13153), Prob: 0.0009
+Token: ' try' (ID: 1430), Prob: 0.0008
+Token: ' heart' (ID: 4746), Prob: 0.0008
+Token: ' laugh' (ID: 12550), Prob: 0.0008
+Token: ' maybe' (ID: 7196), Prob: 0.0008
+Token: ' come' (ID: 2525), Prob: 0.0007
+Token: ' lose' (ID: 9052), Prob: 0.0006
+Token: ' sing' (ID: 7780), Prob: 0.0006
+Token: ' look' (ID: 1401), Prob: 0.0006
+Token: ' run' (ID: 1598), Prob: 0.0006
+Token: ' sad' (ID: 12421), Prob: 0.0006
+Token: ' let' (ID: 1077), Prob: 0.0005
+Token: ' smile' (ID: 15289), Prob: 0.0005
+Token: ' grief' (ID: 37284), Prob: 0.0005
+Token: ' bleed' (ID: 66006), Prob: 0.0005
+Token: ' catch' (ID: 2287), Prob: 0.0005
+Token: ' share' (ID: 4332), Prob: 0.0005
+Token: ' feeling' (ID: 8266), Prob: 0.0005
+Token: ' see' (ID: 1490), Prob: 0.0004
+Token: ' get' (ID: 633), Prob: 0.0004
+Token: ' dream' (ID: 7904), Prob: 0.0004
+Token: ' angry' (ID: 18514), Prob: 0.0004
+Token: ' create' (ID: 1855), Prob: 0.0004
+Token: ' express' (ID: 3158), Prob: 0.0004
+Token: ' fear' (ID: 8679), Prob: 0.0004
+Token: ' sorry' (ID: 14589), Prob: 0.0004
+Token: ' mourn' (ID: 59134), Prob: 0.0004
+Token: ' one' (ID: 825), Prob: 0.0003
+Token: ' want' (ID: 1366), Prob: 0.0003
+Token: ' give' (ID: 2968), Prob: 0.0003
+Token: ' write' (ID: 3270), Prob: 0.0003
+Token: ' cow' (ID: 19362), Prob: 0.0003
+Token: ' call' (ID: 1618), Prob: 0.0003
+Token: ' happy' (ID: 6247), Prob: 0.0003
+Token: ' despair' (ID: 45896), Prob: 0.0003
+Token: ' fill' (ID: 5155), Prob: 0.0003
+Token: ' kiss' (ID: 21057), Prob: 0.0003
+Token: ' yeah' (ID: 21639), Prob: 0.0003
+Token: ' cough' (ID: 39600), Prob: 0.0003
+Token: ' ache' (ID: 77731), Prob: 0.0003
+Token: ' eye' (ID: 7912), Prob: 0.0003
+Token: ' sigh' (ID: 30138), Prob: 0.0003
+
+== Ranked Concepts (Clusters) ==
+Rank 1 | Concept Score: 0.5625
+  Tokens: [' cry', ' crying', ' cried', ' scream', ' cries']
+Rank 2 | Concept Score: 0.0111
+  Tokens: [' etc', ' try', ' let', ' one']
+Rank 3 | Concept Score: 0.0096
+  Tokens: [' love', ' pain', ' emotion', ' joy', ' fear']
+Rank 4 | Concept Score: 0.0079
+  Tokens: [' tears', ' tear']
+Rank 5 | Concept Score: 0.0042
+  Tokens: [' feel', ' feeling']
+Rank 6 | Concept Score: 0.0036
+  Tokens: [' fall', ' run', ' catch', ' call']
+Rank 7 | Concept Score: 0.0033
+  Tokens: [' make', ' look', ' see', ' get', ' create', ' give']
+Rank 8 | Concept Score: 0.0026
+  Tokens: [' please', ' thank', ' sorry']
+Rank 9 | Concept Score: 0.0024
+  Tokens: [' sorrow', ' grief', ' mourn', ' despair']
+Rank 10 | Concept Score: 0.0020
+  Tokens: [' repeat', ' share', ' write', ' fill']
+Rank 11 | Concept Score: 0.0019
+  Tokens: [' laugh', ' smile', ' kiss', ' sigh']
+Rank 12 | Concept Score: 0.0018
+  Tokens: [' break']
+Rank 13 | Concept Score: 0.0018
+  Tokens: [' heart', ' dream', ' cow', ' eye']
+Rank 14 | Concept Score: 0.0013
+  Tokens: [' come', ' lose']
+Rank 15 | Concept Score: 0.0013
+  Tokens: [' sad', ' angry', ' happy']
+Rank 16 | Concept Score: 0.0011
+  Tokens: [' maybe', ' yeah']
+Rank 17 | Concept Score: 0.0008
+  Tokens: [' bleed', ' ache']
+Rank 18 | Concept Score: 0.0006
+  Tokens: [' sing']
+Rank 19 | Concept Score: 0.0004
+  Tokens: [' express']
+Rank 20 | Concept Score: 0.0003
+  Tokens: [' want']
+Rank 21 | Concept Score: 0.0003
+  Tokens: [' cough']
+
+**Chosen Concept:** Rank 1 with score 0.5625

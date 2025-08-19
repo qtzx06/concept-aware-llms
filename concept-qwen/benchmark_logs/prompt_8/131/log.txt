@@ -1,0 +1,94 @@
+--- Step 131 Log ---
+
+== Filtered Candidates ==
+Token: ' know' (ID: 1414), Prob: 0.9922
+Token: ' known' (ID: 3881), Prob: 0.0012
+Token: ' knows' (ID: 8788), Prob: 0.0009
+Token: ' knowing' (ID: 14063), Prob: 0.0002
+Token: ' tell' (ID: 3291), Prob: 0.0001
+Token: ' feel' (ID: 2666), Prob: 0.0001
+Token: ' show' (ID: 1473), Prob: 0.0001
+Token: ' knew' (ID: 6876), Prob: 0.0001
+Token: ' Know' (ID: 14187), Prob: 0.0001
+Token: ' share' (ID: 4332), Prob: 0.0001
+Token: ' say' (ID: 1977), Prob: 0.0001
+Token: ' notice' (ID: 5293), Prob: 0.0000
+Token: ' knowledge' (ID: 6540), Prob: 0.0000
+Token: ' understand' (ID: 3535), Prob: 0.0000
+Token: ' express' (ID: 3158), Prob: 0.0000
+Token: ' see' (ID: 1490), Prob: 0.0000
+Token: ' learn' (ID: 3960), Prob: 0.0000
+Token: ' get' (ID: 633), Prob: 0.0000
+Token: ' take' (ID: 1896), Prob: 0.0000
+Token: ' ask' (ID: 2548), Prob: 0.0000
+Token: ' something' (ID: 2494), Prob: 0.0000
+Token: ' recognize' (ID: 15282), Prob: 0.0000
+Token: ' aware' (ID: 7853), Prob: 0.0000
+Token: ' receive' (ID: 5258), Prob: 0.0000
+Token: ' also' (ID: 1083), Prob: 0.0000
+Token: ' help' (ID: 1492), Prob: 0.0000
+Token: ' stay' (ID: 4717), Prob: 0.0000
+Token: ' hear' (ID: 6723), Prob: 0.0000
+Token: ' experience' (ID: 3139), Prob: 0.0000
+Token: ' matter' (ID: 4925), Prob: 0.0000
+Token: ' inform' (ID: 6051), Prob: 0.0000
+Token: ' develop' (ID: 2225), Prob: 0.0000
+Token: ' give' (ID: 2968), Prob: 0.0000
+Token: ' choose' (ID: 5157), Prob: 0.0000
+Token: ' remember' (ID: 6099), Prob: 0.0000
+Token: ' make' (ID: 1281), Prob: 0.0000
+Token: ' speak' (ID: 6468), Prob: 0.0000
+Token: 'know' (ID: 32034), Prob: 0.0000
+Token: ' communicate' (ID: 19032), Prob: 0.0000
+Token: ' keep' (ID: 2506), Prob: 0.0000
+Token: ' love' (ID: 2948), Prob: 0.0000
+Token: ' respond' (ID: 5889), Prob: 0.0000
+Token: ' use' (ID: 990), Prob: 0.0000
+Token: ' already' (ID: 2669), Prob: 0.0000
+Token: ' knowingly' (ID: 67013), Prob: 0.0000
+Token: ' think' (ID: 1744), Prob: 0.0000
+Token: ' engage' (ID: 16579), Prob: 0.0000
+Token: ' become' (ID: 3635), Prob: 0.0000
+Token: ' even' (ID: 1496), Prob: 0.0000
+
+== Ranked Concepts (Clusters) ==
+Rank 1 | Concept Score: 0.9961
+  Tokens: [' know', ' known', ' knows', ' knowing', ' knew', ' Know', ' knowledge', 'know']
+Rank 2 | Concept Score: 0.0002
+  Tokens: [' tell', ' say', ' ask', ' speak']
+Rank 3 | Concept Score: 0.0002
+  Tokens: [' show', ' get', ' take', ' help', ' give', ' choose', ' make', ' use']
+Rank 4 | Concept Score: 0.0002
+  Tokens: [' feel', ' see', ' hear']
+Rank 5 | Concept Score: 0.0001
+  Tokens: [' share', ' become']
+Rank 6 | Concept Score: 0.0001
+  Tokens: [' learn', ' receive', ' develop']
+Rank 7 | Concept Score: 0.0001
+  Tokens: [' understand', ' recognize']
+Rank 8 | Concept Score: 0.0000
+  Tokens: [' notice']
+Rank 9 | Concept Score: 0.0000
+  Tokens: [' express']
+Rank 10 | Concept Score: 0.0000
+  Tokens: [' something', ' even']
+Rank 11 | Concept Score: 0.0000
+  Tokens: [' aware', ' knowingly']
+Rank 12 | Concept Score: 0.0000
+  Tokens: [' stay', ' keep']
+Rank 13 | Concept Score: 0.0000
+  Tokens: [' communicate', ' respond', ' engage']
+Rank 14 | Concept Score: 0.0000
+  Tokens: [' also', ' already']
+Rank 15 | Concept Score: 0.0000
+  Tokens: [' remember', ' think']
+Rank 16 | Concept Score: 0.0000
+  Tokens: [' experience']
+Rank 17 | Concept Score: 0.0000
+  Tokens: [' inform']
+Rank 18 | Concept Score: 0.0000
+  Tokens: [' matter']
+Rank 19 | Concept Score: 0.0000
+  Tokens: [' love']
+
+**Chosen Concept:** Rank 1 with score 0.9961

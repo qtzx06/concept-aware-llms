@@ -1,0 +1,84 @@
+--- Step 127 Log ---
+
+== Filtered Candidates ==
+Token: ' enzyme' (ID: 48142), Prob: 0.0518
+Token: ' one' (ID: 825), Prob: 0.0012
+Token: ' alpha' (ID: 8287), Prob: 0.0008
+Token: ' containing' (ID: 8482), Prob: 0.0004
+Token: ' due' (ID: 4152), Prob: 0.0004
+Token: ' causing' (ID: 14381), Prob: 0.0004
+Token: ' enzymes' (ID: 54967), Prob: 0.0004
+Token: ' maybe' (ID: 7196), Prob: 0.0003
+Token: ' perhaps' (ID: 8365), Prob: 0.0002
+Token: ' another' (ID: 2441), Prob: 0.0002
+Token: ' scientists' (ID: 13923), Prob: 0.0002
+Token: ' certain' (ID: 3654), Prob: 0.0002
+Token: ' dangerous' (ID: 11406), Prob: 0.0002
+Token: ' something' (ID: 2494), Prob: 0.0001
+Token: ' side' (ID: 3108), Prob: 0.0001
+Token: ' possibly' (ID: 10767), Prob: 0.0001
+Token: ' beta' (ID: 13440), Prob: 0.0001
+Token: ' possible' (ID: 3204), Prob: 0.0001
+Token: ' carrying' (ID: 15331), Prob: 0.0001
+Token: ' life' (ID: 2272), Prob: 0.0001
+Token: ' animal' (ID: 9864), Prob: 0.0001
+Token: ' researchers' (ID: 11811), Prob: 0.0001
+Token: ' potentially' (ID: 13581), Prob: 0.0001
+Token: ' using' (ID: 1667), Prob: 0.0001
+Token: ' eating' (ID: 12182), Prob: 0.0001
+Token: ' taking' (ID: 4633), Prob: 0.0001
+Token: ' facing' (ID: 12880), Prob: 0.0001
+Token: ' potential' (ID: 4650), Prob: 0.0001
+Token: ' otherwise' (ID: 5937), Prob: 0.0001
+Token: ' cancer' (ID: 9387), Prob: 0.0001
+Token: ' experiencing' (ID: 24084), Prob: 0.0001
+Token: ' including' (ID: 2670), Prob: 0.0001
+Token: ' adding' (ID: 7842), Prob: 0.0001
+Token: ' despite' (ID: 8818), Prob: 0.0001
+Token: ' health' (ID: 2820), Prob: 0.0001
+Token: ' disease' (ID: 8457), Prob: 0.0001
+Token: ' enemy' (ID: 9175), Prob: 0.0001
+Token: ' may' (ID: 1231), Prob: 0.0001
+Token: ' engine' (ID: 4712), Prob: 0.0001
+Token: ' considering' (ID: 12831), Prob: 0.0001
+Token: ' similar' (ID: 4428), Prob: 0.0001
+Token: ' current' (ID: 1482), Prob: 0.0000
+Token: ' danger' (ID: 7978), Prob: 0.0000
+Token: ' producing' (ID: 17387), Prob: 0.0000
+Token: ' enzym' (ID: 30911), Prob: 0.0000
+Token: ' caused' (ID: 8881), Prob: 0.0000
+Token: ' consuming' (ID: 34108), Prob: 0.0000
+Token: ' two' (ID: 1378), Prob: 0.0000
+Token: ' even' (ID: 1496), Prob: 0.0000
+
+== Ranked Concepts (Clusters) ==
+Rank 1 | Concept Score: 0.0525
+  Tokens: [' enzyme', ' enzymes', ' animal', ' enemy', ' engine', ' enzym']
+Rank 2 | Concept Score: 0.0018
+  Tokens: [' one', ' another', ' certain', ' something', ' similar', ' two']
+Rank 3 | Concept Score: 0.0010
+  Tokens: [' alpha', ' beta']
+Rank 4 | Concept Score: 0.0009
+  Tokens: [' maybe', ' perhaps', ' possibly', ' possible', ' potentially', ' potential', ' may']
+Rank 5 | Concept Score: 0.0008
+  Tokens: [' due', ' causing', ' caused']
+Rank 6 | Concept Score: 0.0006
+  Tokens: [' containing', ' using', ' including', ' considering']
+Rank 7 | Concept Score: 0.0005
+  Tokens: [' carrying', ' eating', ' taking', ' experiencing', ' adding', ' producing', ' consuming']
+Rank 8 | Concept Score: 0.0004
+  Tokens: [' dangerous', ' cancer', ' health', ' disease', ' danger']
+Rank 9 | Concept Score: 0.0003
+  Tokens: [' scientists', ' researchers']
+Rank 10 | Concept Score: 0.0002
+  Tokens: [' side', ' life']
+Rank 11 | Concept Score: 0.0001
+  Tokens: [' despite', ' even']
+Rank 12 | Concept Score: 0.0001
+  Tokens: [' facing']
+Rank 13 | Concept Score: 0.0001
+  Tokens: [' otherwise']
+Rank 14 | Concept Score: 0.0000
+  Tokens: [' current']
+
+**Chosen Concept:** Rank 1 with score 0.0525

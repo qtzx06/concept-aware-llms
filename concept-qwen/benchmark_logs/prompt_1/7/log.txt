@@ -1,0 +1,114 @@
+--- Step 7 Log ---
+
+== Filtered Candidates ==
+Token: ' cry' (ID: 15729), Prob: 0.1631
+Token: ' tears' (ID: 23139), Prob: 0.1533
+Token: ' crying' (ID: 30199), Prob: 0.0322
+Token: ' heart' (ID: 4746), Prob: 0.0236
+Token: ' cried' (ID: 38069), Prob: 0.0236
+Token: ' feel' (ID: 2666), Prob: 0.0134
+Token: ' tear' (ID: 17576), Prob: 0.0134
+Token: ' scream' (ID: 45689), Prob: 0.0118
+Token: ' love' (ID: 2948), Prob: 0.0104
+Token: ' eyes' (ID: 6414), Prob: 0.0104
+Token: ' pain' (ID: 6646), Prob: 0.0098
+Token: ' emotion' (ID: 19772), Prob: 0.0092
+Token: ' fall' (ID: 4399), Prob: 0.0081
+Token: ' sadness' (ID: 50878), Prob: 0.0072
+Token: ' sorrow' (ID: 57496), Prob: 0.0072
+Token: ' feeling' (ID: 8266), Prob: 0.0067
+Token: ' break' (ID: 1438), Prob: 0.0056
+Token: ' eye' (ID: 7912), Prob: 0.0044
+Token: ' sad' (ID: 12421), Prob: 0.0041
+Token: ' make' (ID: 1281), Prob: 0.0034
+Token: ' ache' (ID: 77731), Prob: 0.0034
+Token: ' grief' (ID: 37284), Prob: 0.0032
+Token: ' flow' (ID: 6396), Prob: 0.0030
+Token: ' lose' (ID: 9052), Prob: 0.0030
+Token: ' emotional' (ID: 14269), Prob: 0.0028
+Token: ' joy' (ID: 15888), Prob: 0.0028
+Token: ' smile' (ID: 15289), Prob: 0.0026
+Token: ' cries' (ID: 57745), Prob: 0.0026
+Token: ' laugh' (ID: 12550), Prob: 0.0025
+Token: ' shed' (ID: 24354), Prob: 0.0025
+Token: ' emotions' (ID: 21261), Prob: 0.0023
+Token: ' lost' (ID: 5558), Prob: 0.0022
+Token: ' broken' (ID: 10865), Prob: 0.0022
+Token: ' feelings' (ID: 15650), Prob: 0.0021
+Token: ' let' (ID: 1077), Prob: 0.0018
+Token: ' rainbow' (ID: 47613), Prob: 0.0018
+Token: ' crush' (ID: 5030), Prob: 0.0017
+Token: ' beat' (ID: 9382), Prob: 0.0017
+Token: ' soft' (ID: 8413), Prob: 0.0016
+Token: ' look' (ID: 1401), Prob: 0.0015
+Token: ' broke' (ID: 14422), Prob: 0.0015
+Token: ' angry' (ID: 18514), Prob: 0.0015
+Token: ' mother' (ID: 6554), Prob: 0.0014
+Token: ' sob' (ID: 11493), Prob: 0.0013
+Token: ' soul' (ID: 13527), Prob: 0.0013
+Token: ' despair' (ID: 45896), Prob: 0.0013
+Token: ' run' (ID: 1598), Prob: 0.0012
+Token: ' express' (ID: 3158), Prob: 0.0012
+Token: ' touch' (ID: 5796), Prob: 0.0012
+Token: ' happy' (ID: 6247), Prob: 0.0012
+Token: ' lament' (ID: 50372), Prob: 0.0012
+Token: ' bleed' (ID: 66006), Prob: 0.0012
+Token: ' loss' (ID: 4709), Prob: 0.0012
+Token: ' hurt' (ID: 12898), Prob: 0.0012
+Token: ' anger' (ID: 19234), Prob: 0.0012
+Token: ' regret' (ID: 22231), Prob: 0.0012
+Token: ' longing' (ID: 78322), Prob: 0.0012
+Token: ' stream' (ID: 4269), Prob: 0.0011
+Token: ' felt' (ID: 6476), Prob: 0.0011
+Token: ' rain' (ID: 11174), Prob: 0.0011
+Token: ' show' (ID: 1473), Prob: 0.0010
+Token: ' passion' (ID: 11677), Prob: 0.0010
+Token: ' trembling' (ID: 91988), Prob: 0.0010
+Token: ' laughter' (ID: 42114), Prob: 0.0010
+Token: ' please' (ID: 4486), Prob: 0.0009
+Token: ' maybe' (ID: 7196), Prob: 0.0009
+Token: ' breaking' (ID: 14719), Prob: 0.0009
+Token: ' upset' (ID: 22459), Prob: 0.0009
+Token: ' hearts' (ID: 22662), Prob: 0.0009
+Token: ' mourn' (ID: 59134), Prob: 0.0009
+Token: ' get' (ID: 633), Prob: 0.0009
+
+== Ranked Concepts (Clusters) ==
+Rank 1 | Concept Score: 0.2344
+  Tokens: [' cry', ' crying', ' cried', ' scream', ' cries', ' trembling']
+Rank 2 | Concept Score: 0.1680
+  Tokens: [' tears', ' tear', ' crush']
+Rank 3 | Concept Score: 0.0405
+  Tokens: [' heart', ' eyes', ' eye', ' soul', ' hearts']
+Rank 4 | Concept Score: 0.0275
+  Tokens: [' sadness', ' sorrow', ' sad', ' grief', ' despair', ' lament', ' regret', ' longing', ' mourn']
+Rank 5 | Concept Score: 0.0233
+  Tokens: [' feel', ' feeling', ' feelings', ' felt']
+Rank 6 | Concept Score: 0.0155
+  Tokens: [' love', ' joy', ' happy', ' passion']
+Rank 7 | Concept Score: 0.0144
+  Tokens: [' pain', ' ache', ' hurt']
+Rank 8 | Concept Score: 0.0143
+  Tokens: [' emotion', ' emotional', ' emotions']
+Rank 9 | Concept Score: 0.0117
+  Tokens: [' make', ' let', ' look', ' express', ' show', ' please', ' maybe', ' get']
+Rank 10 | Concept Score: 0.0102
+  Tokens: [' break', ' broken', ' broke', ' breaking']
+Rank 11 | Concept Score: 0.0093
+  Tokens: [' fall', ' run']
+Rank 12 | Concept Score: 0.0084
+  Tokens: [' flow', ' rainbow', ' mother', ' stream', ' rain']
+Rank 13 | Concept Score: 0.0063
+  Tokens: [' lose', ' lost', ' loss']
+Rank 14 | Concept Score: 0.0061
+  Tokens: [' smile', ' laugh', ' laughter']
+Rank 15 | Concept Score: 0.0058
+  Tokens: [' shed', ' beat', ' soft']
+Rank 16 | Concept Score: 0.0036
+  Tokens: [' angry', ' anger', ' upset']
+Rank 17 | Concept Score: 0.0026
+  Tokens: [' sob', ' bleed']
+Rank 18 | Concept Score: 0.0012
+  Tokens: [' touch']
+
+**Chosen Concept:** Rank 1 with score 0.2344

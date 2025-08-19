@@ -1,0 +1,73 @@
+--- Step 92 Log ---
+
+== Filtered Candidates ==
+Token: ' enzyme' (ID: 48142), Prob: 0.0496
+Token: ' phosph' (ID: 31988), Prob: 0.0133
+Token: ' beta' (ID: 13440), Prob: 0.0086
+Token: ' hex' (ID: 12371), Prob: 0.0081
+Token: ' catal' (ID: 33354), Prob: 0.0076
+Token: ' alpha' (ID: 8287), Prob: 0.0067
+Token: ' protein' (ID: 12833), Prob: 0.0049
+Token: ' luc' (ID: 25927), Prob: 0.0046
+Token: ' DNA' (ID: 15552), Prob: 0.0043
+Token: ' ATP' (ID: 66556), Prob: 0.0041
+Token: ' something' (ID: 2494), Prob: 0.0036
+Token: ' prote' (ID: 5425), Prob: 0.0032
+Token: ' gamma' (ID: 21619), Prob: 0.0032
+Token: ' Beta' (ID: 34243), Prob: 0.0030
+Token: ' fungal' (ID: 94347), Prob: 0.0026
+Token: ' enzymes' (ID: 54967), Prob: 0.0025
+Token: ' amino' (ID: 41400), Prob: 0.0022
+Token: ' nucle' (ID: 30384), Prob: 0.0020
+Token: ' End' (ID: 3972), Prob: 0.0019
+Token: ' glucose' (ID: 33223), Prob: 0.0019
+Token: ' poly' (ID: 9861), Prob: 0.0018
+Token: ' Alpha' (ID: 24708), Prob: 0.0018
+Token: ' fungus' (ID: 78802), Prob: 0.0018
+Token: ' ACE' (ID: 40806), Prob: 0.0017
+Token: ' Hex' (ID: 27228), Prob: 0.0016
+Token: ' enzym' (ID: 30911), Prob: 0.0016
+Token: ' cycl' (ID: 31243), Prob: 0.0015
+Token: ' gene' (ID: 14862), Prob: 0.0014
+Token: ' hydrogen' (ID: 34684), Prob: 0.0013
+Token: ' Factor' (ID: 37729), Prob: 0.0013
+Token: ' methyl' (ID: 78474), Prob: 0.0013
+Token: ' RNA' (ID: 40114), Prob: 0.0012
+Token: ' cyc' (ID: 43348), Prob: 0.0012
+Token: ' Gamma' (ID: 57682), Prob: 0.0012
+
+== Ranked Concepts (Clusters) ==
+Rank 1 | Concept Score: 0.0537
+  Tokens: [' enzyme', ' enzymes', ' enzym']
+Rank 2 | Concept Score: 0.0244
+  Tokens: [' beta', ' alpha', ' gamma', ' Beta', ' Alpha', ' Gamma']
+Rank 3 | Concept Score: 0.0160
+  Tokens: [' phosph', ' hydrogen', ' methyl']
+Rank 4 | Concept Score: 0.0102
+  Tokens: [' protein', ' prote', ' amino']
+Rank 5 | Concept Score: 0.0096
+  Tokens: [' hex', ' Hex']
+Rank 6 | Concept Score: 0.0076
+  Tokens: [' DNA', ' nucle', ' RNA']
+Rank 7 | Concept Score: 0.0076
+  Tokens: [' catal']
+Rank 8 | Concept Score: 0.0072
+  Tokens: [' something', ' End', ' ACE']
+Rank 9 | Concept Score: 0.0046
+  Tokens: [' luc']
+Rank 10 | Concept Score: 0.0044
+  Tokens: [' fungal', ' fungus']
+Rank 11 | Concept Score: 0.0041
+  Tokens: [' ATP']
+Rank 12 | Concept Score: 0.0027
+  Tokens: [' cycl', ' cyc']
+Rank 13 | Concept Score: 0.0019
+  Tokens: [' glucose']
+Rank 14 | Concept Score: 0.0018
+  Tokens: [' poly']
+Rank 15 | Concept Score: 0.0014
+  Tokens: [' gene']
+Rank 16 | Concept Score: 0.0013
+  Tokens: [' Factor']
+
+**Chosen Concept:** Rank 1 with score 0.0537

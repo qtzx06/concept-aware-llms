@@ -1,0 +1,93 @@
+--- Step 43 Log ---
+
+== Filtered Candidates ==
+Token: ' eight' (ID: 8063), Prob: 0.9961
+Token: ' nine' (ID: 11627), Prob: 0.0012
+Token: ' eighth' (ID: 36377), Prob: 0.0010
+Token: ' Eight' (ID: 35844), Prob: 0.0008
+Token: ' ten' (ID: 5779), Prob: 0.0002
+Token: ' seven' (ID: 8094), Prob: 0.0001
+Token: ' two' (ID: 1378), Prob: 0.0001
+Token: ' one' (ID: 825), Prob: 0.0001
+Token: ' six' (ID: 4743), Prob: 0.0000
+Token: ' three' (ID: 2326), Prob: 0.0000
+Token: ' twelve' (ID: 29235), Prob: 0.0000
+Token: ' group' (ID: 1874), Prob: 0.0000
+Token: ' oct' (ID: 18491), Prob: 0.0000
+Token: ' pair' (ID: 6716), Prob: 0.0000
+Token: ' eighteen' (ID: 62034), Prob: 0.0000
+Token: 'eight' (ID: 67532), Prob: 0.0000
+Token: ' five' (ID: 4236), Prob: 0.0000
+Token: ' four' (ID: 3040), Prob: 0.0000
+Token: ' August' (ID: 6156), Prob: 0.0000
+Token: '-eight' (ID: 69715), Prob: 0.0000
+Token: ' eighty' (ID: 79579), Prob: 0.0000
+Token: ' number' (ID: 1372), Prob: 0.0000
+Token: ' man' (ID: 883), Prob: 0.0000
+Token: ' infinity' (ID: 54910), Prob: 0.0000
+Token: ' goal' (ID: 5795), Prob: 0.0000
+Token: ' first' (ID: 1156), Prob: 0.0000
+Token: ' eleven' (ID: 44214), Prob: 0.0000
+Token: ' twenty' (ID: 17073), Prob: 0.0000
+Token: ' hundred' (ID: 7739), Prob: 0.0000
+Token: ' day' (ID: 1899), Prob: 0.0000
+Token: ' total' (ID: 2790), Prob: 0.0000
+Token: 'Eight' (ID: 59085), Prob: 0.0000
+Token: ' king' (ID: 11477), Prob: 0.0000
+Token: ' single' (ID: 3175), Prob: 0.0000
+Token: ' whole' (ID: 4361), Prob: 0.0000
+Token: ' multiple' (ID: 5248), Prob: 0.0000
+Token: ' zero' (ID: 7168), Prob: 0.0000
+Token: ' plus' (ID: 5519), Prob: 0.0000
+Token: ' month' (ID: 2254), Prob: 0.0000
+Token: ' life' (ID: 2272), Prob: 0.0000
+Token: ' story' (ID: 3364), Prob: 0.0000
+Token: ' several' (ID: 3807), Prob: 0.0000
+Token: ' many' (ID: 1657), Prob: 0.0000
+Token: ' following' (ID: 2701), Prob: 0.0000
+Token: ' morning' (ID: 6556), Prob: 0.0000
+Token: ' problem' (ID: 3491), Prob: 0.0000
+Token: ' ele' (ID: 10510), Prob: 0.0000
+Token: ' thirteen' (ID: 60659), Prob: 0.0000
+Token: ' Eighth' (ID: 96488), Prob: 0.0000
+Token: ' set' (ID: 738), Prob: 0.0000
+Token: ' sem' (ID: 5234), Prob: 0.0000
+Token: ' octave' (ID: 73932), Prob: 0.0000
+
+== Ranked Concepts (Clusters) ==
+Rank 1 | Concept Score: 0.9961
+  Tokens: [' eight', ' Eight', 'eight', '-eight', 'Eight']
+Rank 2 | Concept Score: 0.0015
+  Tokens: [' nine', ' seven', ' two', ' six', ' three', ' five', ' four']
+Rank 3 | Concept Score: 0.0010
+  Tokens: [' eighth', ' Eighth']
+Rank 4 | Concept Score: 0.0003
+  Tokens: [' ten', ' twelve', ' eighteen', ' eighty', ' eleven', ' twenty', ' thirteen']
+Rank 5 | Concept Score: 0.0001
+  Tokens: [' one', ' first']
+Rank 6 | Concept Score: 0.0000
+  Tokens: [' group', ' pair', ' set']
+Rank 7 | Concept Score: 0.0000
+  Tokens: [' oct', ' August', ' octave']
+Rank 8 | Concept Score: 0.0000
+  Tokens: [' number', ' total', ' zero', ' plus', ' following']
+Rank 9 | Concept Score: 0.0000
+  Tokens: [' man', ' king']
+Rank 10 | Concept Score: 0.0000
+  Tokens: [' goal', ' story', ' problem']
+Rank 11 | Concept Score: 0.0000
+  Tokens: [' infinity']
+Rank 12 | Concept Score: 0.0000
+  Tokens: [' day', ' month', ' morning']
+Rank 13 | Concept Score: 0.0000
+  Tokens: [' multiple', ' several', ' many']
+Rank 14 | Concept Score: 0.0000
+  Tokens: [' single', ' whole']
+Rank 15 | Concept Score: 0.0000
+  Tokens: [' hundred']
+Rank 16 | Concept Score: 0.0000
+  Tokens: [' ele', ' sem']
+Rank 17 | Concept Score: 0.0000
+  Tokens: [' life']
+
+**Chosen Concept:** Rank 1 with score 0.9961

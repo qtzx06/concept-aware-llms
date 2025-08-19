@@ -1,0 +1,73 @@
+--- Step 1 Log ---
+
+== Filtered Candidates ==
+Token: ' Let' (ID: 6771), Prob: 0.0109
+Token: ' However' (ID: 4354), Prob: 0.0085
+Token: ' Please' (ID: 5209), Prob: 0.0085
+Token: ' One' (ID: 3776), Prob: 0.0052
+Token: ' Even' (ID: 7418), Prob: 0.0052
+Token: ' Maybe' (ID: 10696), Prob: 0.0049
+Token: ' Today' (ID: 11201), Prob: 0.0049
+Token: ' Despite' (ID: 17715), Prob: 0.0049
+Token: ' Describe' (ID: 60785), Prob: 0.0049
+Token: ' Every' (ID: 7209), Prob: 0.0045
+Token: ' Snow' (ID: 18901), Prob: 0.0036
+Token: ' Also' (ID: 7281), Prob: 0.0031
+Token: ' Make' (ID: 7405), Prob: 0.0028
+Token: ' Since' (ID: 8704), Prob: 0.0028
+Token: ' Little' (ID: 14671), Prob: 0.0028
+Token: ' Use' (ID: 5443), Prob: 0.0026
+Token: ' Write' (ID: 9645), Prob: 0.0026
+Token: ' Yet' (ID: 14626), Prob: 0.0024
+Token: ' Therefore' (ID: 15277), Prob: 0.0023
+Token: ' Unfortunately' (ID: 18656), Prob: 0.0023
+Token: ' Although' (ID: 10328), Prob: 0.0022
+Token: ' According' (ID: 10548), Prob: 0.0022
+Token: ' Still' (ID: 16377), Prob: 0.0020
+Token: ' Help' (ID: 11479), Prob: 0.0019
+Token: ' Read' (ID: 4457), Prob: 0.0018
+Token: ' Based' (ID: 20205), Prob: 0.0018
+Token: ' Find' (ID: 7379), Prob: 0.0016
+Token: ' Keep' (ID: 13655), Prob: 0.0015
+Token: ' Recently' (ID: 40996), Prob: 0.0015
+Token: ' Whenever' (ID: 42533), Prob: 0.0015
+Token: ' Imagine' (ID: 37791), Prob: 0.0012
+Token: ' Explain' (ID: 81917), Prob: 0.0012
+
+== Ranked Concepts (Clusters) ==
+Rank 1 | Concept Score: 0.0159
+  Tokens: [' However', ' Since', ' Therefore', ' Unfortunately']
+Rank 2 | Concept Score: 0.0137
+  Tokens: [' Let', ' Make']
+Rank 3 | Concept Score: 0.0121
+  Tokens: [' Even', ' Despite', ' Although']
+Rank 4 | Concept Score: 0.0085
+  Tokens: [' Use', ' Write', ' Read', ' Find']
+Rank 5 | Concept Score: 0.0085
+  Tokens: [' Please']
+Rank 6 | Concept Score: 0.0063
+  Tokens: [' Today', ' Recently']
+Rank 7 | Concept Score: 0.0063
+  Tokens: [' Snow', ' Little']
+Rank 8 | Concept Score: 0.0061
+  Tokens: [' Describe', ' Explain']
+Rank 9 | Concept Score: 0.0060
+  Tokens: [' Every', ' Whenever']
+Rank 10 | Concept Score: 0.0052
+  Tokens: [' One']
+Rank 11 | Concept Score: 0.0049
+  Tokens: [' Maybe']
+Rank 12 | Concept Score: 0.0045
+  Tokens: [' Yet', ' Still']
+Rank 13 | Concept Score: 0.0039
+  Tokens: [' According', ' Based']
+Rank 14 | Concept Score: 0.0031
+  Tokens: [' Also']
+Rank 15 | Concept Score: 0.0019
+  Tokens: [' Help']
+Rank 16 | Concept Score: 0.0015
+  Tokens: [' Keep']
+Rank 17 | Concept Score: 0.0012
+  Tokens: [' Imagine']
+
+**Chosen Concept:** Rank 1 with score 0.0159

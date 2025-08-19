@@ -1,0 +1,66 @@
+--- Step 95 Log ---
+
+== Filtered Candidates ==
+Token: ' one' (ID: 825), Prob: 0.7969
+Token: ' two' (ID: 1378), Prob: 0.0349
+Token: ' three' (ID: 2326), Prob: 0.0045
+Token: ' twice' (ID: 10917), Prob: 0.0020
+Token: ' four' (ID: 3040), Prob: 0.0010
+Token: ' five' (ID: 4236), Prob: 0.0009
+Token: ' immediately' (ID: 7069), Prob: 0.0008
+Token: ' exactly' (ID: 6896), Prob: 0.0007
+Token: ' midnight' (ID: 32333), Prob: 0.0006
+Token: ' halfway' (ID: 41336), Prob: 0.0005
+Token: ' ahead' (ID: 8305), Prob: 0.0005
+Token: ' six' (ID: 4743), Prob: 0.0004
+Token: ' across' (ID: 3941), Prob: 0.0004
+Token: ' half' (ID: 4279), Prob: 0.0004
+Token: ' opposite' (ID: 14002), Prob: 0.0004
+Token: ' seven' (ID: 8094), Prob: 0.0004
+Token: ' earlier' (ID: 6788), Prob: 0.0004
+Token: ' directly' (ID: 5961), Prob: 0.0003
+Token: ' behind' (ID: 4815), Prob: 0.0003
+Token: ' ONE' (ID: 24038), Prob: 0.0003
+Token: ' every' (ID: 1449), Prob: 0.0003
+Token: ' within' (ID: 2878), Prob: 0.0003
+Token: ' One' (ID: 3776), Prob: 0.0002
+Token: ' either' (ID: 2987), Prob: 0.0002
+Token: ' hours' (ID: 4115), Prob: 0.0002
+Token: ' according' (ID: 4092), Prob: 0.0002
+Token: ' equal' (ID: 6144), Prob: 0.0002
+Token: ' noon' (ID: 37145), Prob: 0.0002
+Token: ' hour' (ID: 6460), Prob: 0.0002
+Token: ' forward' (ID: 4637), Prob: 0.0002
+Token: ' prior' (ID: 4867), Prob: 0.0002
+Token: ' time' (ID: 882), Prob: 0.0001
+Token: ' around' (ID: 2163), Prob: 0.0001
+Token: ' straight' (ID: 7678), Prob: 0.0001
+Token: ' twelve' (ID: 29235), Prob: 0.0001
+
+== Ranked Concepts (Clusters) ==
+Rank 1 | Concept Score: 0.7969
+  Tokens: [' one', ' ONE', ' One']
+Rank 2 | Concept Score: 0.0422
+  Tokens: [' two', ' three', ' four', ' five', ' six', ' seven', ' twelve']
+Rank 3 | Concept Score: 0.0029
+  Tokens: [' twice', ' halfway', ' half']
+Rank 4 | Concept Score: 0.0020
+  Tokens: [' immediately', ' exactly', ' directly', ' straight']
+Rank 5 | Concept Score: 0.0011
+  Tokens: [' across', ' behind', ' within', ' around']
+Rank 6 | Concept Score: 0.0007
+  Tokens: [' midnight', ' noon']
+Rank 7 | Concept Score: 0.0007
+  Tokens: [' ahead', ' forward']
+Rank 8 | Concept Score: 0.0006
+  Tokens: [' opposite', ' equal']
+Rank 9 | Concept Score: 0.0005
+  Tokens: [' earlier', ' prior']
+Rank 10 | Concept Score: 0.0005
+  Tokens: [' hours', ' hour', ' time']
+Rank 11 | Concept Score: 0.0005
+  Tokens: [' every', ' according']
+Rank 12 | Concept Score: 0.0002
+  Tokens: [' either']
+
+**Chosen Concept:** Rank 1 with score 0.7969

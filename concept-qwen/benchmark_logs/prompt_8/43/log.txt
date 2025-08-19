@@ -1,0 +1,76 @@
+--- Step 43 Log ---
+
+== Filtered Candidates ==
+Token: ' Let' (ID: 6771), Prob: 0.0308
+Token: ' However' (ID: 4354), Prob: 0.0176
+Token: ' Also' (ID: 7281), Prob: 0.0165
+Token: ' Maybe' (ID: 10696), Prob: 0.0137
+Token: ' Perhaps' (ID: 18765), Prob: 0.0069
+Token: ' Therefore' (ID: 15277), Prob: 0.0053
+Token: ' Even' (ID: 7418), Prob: 0.0032
+Token: ' According' (ID: 10548), Prob: 0.0027
+Token: ' One' (ID: 3776), Prob: 0.0025
+Token: ' Since' (ID: 8704), Prob: 0.0025
+Token: ' Based' (ID: 20205), Prob: 0.0025
+Token: ' People' (ID: 8853), Prob: 0.0020
+Token: ' Like' (ID: 8909), Prob: 0.0018
+Token: ' Although' (ID: 10328), Prob: 0.0017
+Token: ' Whether' (ID: 13139), Prob: 0.0017
+Token: ' Still' (ID: 16377), Prob: 0.0017
+Token: ' Hence' (ID: 31040), Prob: 0.0017
+Token: ' Thus' (ID: 14301), Prob: 0.0015
+Token: ' Could' (ID: 16503), Prob: 0.0015
+Token: ' Different' (ID: 33396), Prob: 0.0014
+Token: ' Whereas' (ID: 60595), Prob: 0.0014
+Token: ' Research' (ID: 8319), Prob: 0.0012
+Token: ' Instead' (ID: 12090), Prob: 0.0011
+Token: ' Another' (ID: 13293), Prob: 0.0011
+Token: ' Taking' (ID: 35825), Prob: 0.0011
+Token: ' Psychology' (ID: 35573), Prob: 0.0010
+Token: ' Though' (ID: 17594), Prob: 0.0009
+Token: ' Think' (ID: 21149), Prob: 0.0009
+Token: ' Please' (ID: 5209), Prob: 0.0008
+Token: ' Despite' (ID: 17715), Prob: 0.0008
+Token: ' Examples' (ID: 25311), Prob: 0.0008
+
+== Ranked Concepts (Clusters) ==
+Rank 1 | Concept Score: 0.0308
+  Tokens: [' Let']
+Rank 2 | Concept Score: 0.0210
+  Tokens: [' However', ' Although', ' Though', ' Despite']
+Rank 3 | Concept Score: 0.0205
+  Tokens: [' Maybe', ' Perhaps']
+Rank 4 | Concept Score: 0.0182
+  Tokens: [' Also', ' Still']
+Rank 5 | Concept Score: 0.0086
+  Tokens: [' Therefore', ' Hence', ' Thus']
+Rank 6 | Concept Score: 0.0077
+  Tokens: [' According', ' Since', ' Based']
+Rank 7 | Concept Score: 0.0036
+  Tokens: [' One', ' Another']
+Rank 8 | Concept Score: 0.0032
+  Tokens: [' Even']
+Rank 9 | Concept Score: 0.0023
+  Tokens: [' Could', ' Please']
+Rank 10 | Concept Score: 0.0022
+  Tokens: [' Research', ' Psychology']
+Rank 11 | Concept Score: 0.0020
+  Tokens: [' People']
+Rank 12 | Concept Score: 0.0018
+  Tokens: [' Like']
+Rank 13 | Concept Score: 0.0017
+  Tokens: [' Whether']
+Rank 14 | Concept Score: 0.0014
+  Tokens: [' Different']
+Rank 15 | Concept Score: 0.0014
+  Tokens: [' Whereas']
+Rank 16 | Concept Score: 0.0011
+  Tokens: [' Instead']
+Rank 17 | Concept Score: 0.0011
+  Tokens: [' Taking']
+Rank 18 | Concept Score: 0.0009
+  Tokens: [' Think']
+Rank 19 | Concept Score: 0.0008
+  Tokens: [' Examples']
+
+**Chosen Concept:** Rank 1 with score 0.0308

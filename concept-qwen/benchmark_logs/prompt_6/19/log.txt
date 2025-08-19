@@ -1,0 +1,108 @@
+--- Step 19 Log ---
+
+== Filtered Candidates ==
+Token: ' person' (ID: 1697), Prob: 0.8242
+Token: ' human' (ID: 3738), Prob: 0.0018
+Token: ' child' (ID: 1682), Prob: 0.0017
+Token: ' enemy' (ID: 9175), Prob: 0.0009
+Token: ' individual' (ID: 3842), Prob: 0.0008
+Token: ' innocent' (ID: 24243), Prob: 0.0005
+Token: ' opponent' (ID: 14704), Prob: 0.0005
+Token: ' additional' (ID: 5107), Prob: 0.0004
+Token: ' single' (ID: 3175), Prob: 0.0004
+Token: ' third' (ID: 4843), Prob: 0.0004
+Token: ' death' (ID: 4545), Prob: 0.0003
+Token: ' woman' (ID: 5220), Prob: 0.0003
+Token: ' randomly' (ID: 26618), Prob: 0.0003
+Token: ' random' (ID: 4194), Prob: 0.0003
+Token: ' friend' (ID: 4238), Prob: 0.0003
+Token: ' victim' (ID: 11734), Prob: 0.0002
+Token: ' another' (ID: 2441), Prob: 0.0002
+Token: ' non' (ID: 2477), Prob: 0.0002
+Token: ' personal' (ID: 4345), Prob: 0.0001
+Token: ' adult' (ID: 6683), Prob: 0.0001
+Token: ' someone' (ID: 4325), Prob: 0.0001
+Token: ' different' (ID: 2155), Prob: 0.0001
+Token: ' less' (ID: 2686), Prob: 0.0001
+Token: ' opposite' (ID: 14002), Prob: 0.0001
+Token: ' thousand' (ID: 16183), Prob: 0.0001
+Token: ' citizen' (ID: 21860), Prob: 0.0001
+Token: ' sibling' (ID: 44223), Prob: 0.0001
+Token: ' family' (ID: 2997), Prob: 0.0001
+Token: ' particular' (ID: 3953), Prob: 0.0001
+Token: ' self' (ID: 656), Prob: 0.0001
+Token: ' die' (ID: 2746), Prob: 0.0001
+Token: ' dead' (ID: 5593), Prob: 0.0001
+Token: ' second' (ID: 2086), Prob: 0.0001
+Token: ' alien' (ID: 19594), Prob: 0.0001
+Token: ' civilian' (ID: 28928), Prob: 0.0001
+Token: ' man' (ID: 883), Prob: 0.0001
+Token: ' stranger' (ID: 33958), Prob: 0.0001
+Token: ' day' (ID: 1899), Prob: 0.0001
+Token: ' terrorist' (ID: 19740), Prob: 0.0001
+Token: ' per' (ID: 817), Prob: 0.0001
+Token: ' target' (ID: 2169), Prob: 0.0001
+Token: ' member' (ID: 4462), Prob: 0.0001
+Token: ' spouse' (ID: 30980), Prob: 0.0001
+Token: ' without' (ID: 2041), Prob: 0.0001
+Token: ' million' (ID: 3526), Prob: 0.0001
+Token: ' female' (ID: 8778), Prob: 0.0001
+Token: '-third' (ID: 29177), Prob: 0.0001
+Token: ' also' (ID: 1083), Prob: 0.0001
+Token: ' life' (ID: 2272), Prob: 0.0001
+Token: ' alive' (ID: 13675), Prob: 0.0001
+Token: ' opposing' (ID: 30222), Prob: 0.0001
+Token: ' parent' (ID: 2681), Prob: 0.0001
+Token: ' kill' (ID: 5505), Prob: 0.0001
+Token: ' partner' (ID: 8263), Prob: 0.0001
+Token: ' fewer' (ID: 16745), Prob: 0.0001
+Token: ' multiple' (ID: 5248), Prob: 0.0001
+Token: ' male' (ID: 8593), Prob: 0.0001
+Token: ' one' (ID: 825), Prob: 0.0000
+Token: ' specific' (ID: 3151), Prob: 0.0000
+Token: ' prisoner' (ID: 41850), Prob: 0.0000
+Token: ' new' (ID: 501), Prob: 0.0000
+Token: ' either' (ID: 2987), Prob: 0.0000
+Token: ' neighbor' (ID: 9565), Prob: 0.0000
+Token: ' persons' (ID: 11186), Prob: 0.0000
+Token: ' arbitrary' (ID: 24168), Prob: 0.0000
+
+== Ranked Concepts (Clusters) ==
+Rank 1 | Concept Score: 0.8242
+  Tokens: [' person', ' human', ' man', ' persons']
+Rank 2 | Concept Score: 0.0025
+  Tokens: [' child', ' friend', ' sibling', ' family', ' member', ' spouse', ' parent', ' partner', ' neighbor']
+Rank 3 | Concept Score: 0.0016
+  Tokens: [' enemy', ' opponent', ' opposite', ' opposing']
+Rank 4 | Concept Score: 0.0015
+  Tokens: [' individual', ' single', ' personal', ' particular', ' specific']
+Rank 5 | Concept Score: 0.0012
+  Tokens: [' innocent', ' victim', ' citizen', ' alien', ' civilian', ' terrorist', ' prisoner']
+Rank 6 | Concept Score: 0.0007
+  Tokens: [' death', ' die', ' dead', ' life', ' alive', ' kill']
+Rank 7 | Concept Score: 0.0006
+  Tokens: [' randomly', ' random', ' arbitrary']
+Rank 8 | Concept Score: 0.0006
+  Tokens: [' another', ' non', ' also', ' one', ' new', ' either']
+Rank 9 | Concept Score: 0.0006
+  Tokens: [' additional', ' different', ' multiple']
+Rank 10 | Concept Score: 0.0006
+  Tokens: [' woman', ' adult', ' female', ' male']
+Rank 11 | Concept Score: 0.0005
+  Tokens: [' third', ' second', '-third']
+Rank 12 | Concept Score: 0.0003
+  Tokens: [' less', ' without', ' fewer']
+Rank 13 | Concept Score: 0.0002
+  Tokens: [' thousand', ' million']
+Rank 14 | Concept Score: 0.0002
+  Tokens: [' day', ' per']
+Rank 15 | Concept Score: 0.0001
+  Tokens: [' someone']
+Rank 16 | Concept Score: 0.0001
+  Tokens: [' self']
+Rank 17 | Concept Score: 0.0001
+  Tokens: [' stranger']
+Rank 18 | Concept Score: 0.0001
+  Tokens: [' target']
+
+**Chosen Concept:** Rank 1 with score 0.8242

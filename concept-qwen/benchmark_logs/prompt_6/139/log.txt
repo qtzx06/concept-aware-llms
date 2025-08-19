@@ -1,0 +1,104 @@
+--- Step 139 Log ---
+
+== Filtered Candidates ==
+Token: ' opposite' (ID: 14002), Prob: 0.9961
+Token: ' opposition' (ID: 13758), Prob: 0.0006
+Token: ' opponent' (ID: 14704), Prob: 0.0001
+Token: ' oppos' (ID: 7922), Prob: 0.0001
+Token: ' Opp' (ID: 28610), Prob: 0.0001
+Token: ' opposing' (ID: 30222), Prob: 0.0000
+Token: ' oppose' (ID: 33034), Prob: 0.0000
+Token: ' alternate' (ID: 24609), Prob: 0.0000
+Token: ' contrary' (ID: 25047), Prob: 0.0000
+Token: ' different' (ID: 2155), Prob: 0.0000
+Token: ' outside' (ID: 4889), Prob: 0.0000
+Token: ' opp' (ID: 3995), Prob: 0.0000
+Token: ' opposed' (ID: 16087), Prob: 0.0000
+Token: 'Opp' (ID: 55751), Prob: 0.0000
+Token: ' wrong' (ID: 4969), Prob: 0.0000
+Token: ' first' (ID: 1156), Prob: 0.0000
+Token: ' previous' (ID: 3681), Prob: 0.0000
+Token: ' second' (ID: 2086), Prob: 0.0000
+Token: ' unknown' (ID: 9788), Prob: 0.0000
+Token: ' third' (ID: 4843), Prob: 0.0000
+Token: ' odd' (ID: 10322), Prob: 0.0000
+Token: ' inverse' (ID: 27949), Prob: 0.0000
+Token: ' gender' (ID: 9825), Prob: 0.0000
+Token: ' oppressed' (ID: 66416), Prob: 0.0000
+Token: ' twentieth' (ID: 61420), Prob: 0.0000
+Token: ' last' (ID: 1537), Prob: 0.0000
+Token: ' following' (ID: 2701), Prob: 0.0000
+Token: ' antagonist' (ID: 81059), Prob: 0.0000
+Token: ' oppress' (ID: 89738), Prob: 0.0000
+Token: ' next' (ID: 1790), Prob: 0.0000
+Token: ' north' (ID: 10200), Prob: 0.0000
+Token: ' worse' (ID: 10960), Prob: 0.0000
+Token: ' contrad' (ID: 22296), Prob: 0.0000
+Token: ' dominant' (ID: 24456), Prob: 0.0000
+Token: ' order' (ID: 1973), Prob: 0.0000
+Token: ' negative' (ID: 8225), Prob: 0.0000
+Token: ' alternative' (ID: 10555), Prob: 0.0000
+Token: ' impossible' (ID: 11997), Prob: 0.0000
+Token: ' option' (ID: 2999), Prob: 0.0000
+Token: ' opinion' (ID: 9459), Prob: 0.0000
+Token: ' ninth' (ID: 42541), Prob: 0.0000
+Token: ' contrast' (ID: 12872), Prob: 0.0000
+Token: ' enemy' (ID: 9175), Prob: 0.0000
+Token: ' fourth' (ID: 11737), Prob: 0.0000
+Token: ' little' (ID: 2632), Prob: 0.0000
+Token: ' vice' (ID: 16774), Prob: 0.0000
+Token: ' identical' (ID: 19516), Prob: 0.0000
+Token: ' world' (ID: 1879), Prob: 0.0000
+Token: ' inside' (ID: 4766), Prob: 0.0000
+Token: ' counter' (ID: 5546), Prob: 0.0000
+Token: ' opportunity' (ID: 6638), Prob: 0.0000
+Token: ' positive' (ID: 6785), Prob: 0.0000
+Token: ' equivalent' (ID: 13578), Prob: 0.0000
+Token: ' worst' (ID: 11785), Prob: 0.0000
+Token: ' whole' (ID: 4361), Prob: 0.0000
+Token: ' altern' (ID: 6919), Prob: 0.0000
+Token: ' reverse' (ID: 9931), Prob: 0.0000
+Token: ' oppressive' (ID: 77512), Prob: 0.0000
+Token: ' top' (ID: 1909), Prob: 0.0000
+Token: ' ant' (ID: 3196), Prob: 0.0000
+Token: ' upside' (ID: 35841), Prob: 0.0000
+Token: ' group' (ID: 1874), Prob: 0.0000
+Token: ' offensive' (ID: 15183), Prob: 0.0000
+
+== Ranked Concepts (Clusters) ==
+Rank 1 | Concept Score: 0.9961
+  Tokens: [' opposite', ' opposition', ' oppos', ' Opp', ' opposing', ' oppose', ' opp', ' opposed', 'Opp']
+Rank 2 | Concept Score: 0.0001
+  Tokens: [' opponent', ' oppressed', ' antagonist', ' oppress', ' enemy', ' oppressive', ' offensive']
+Rank 3 | Concept Score: 0.0000
+  Tokens: [' alternate', ' alternative', ' altern']
+Rank 4 | Concept Score: 0.0000
+  Tokens: [' contrary', ' contrad', ' contrast', ' counter']
+Rank 5 | Concept Score: 0.0000
+  Tokens: [' outside', ' north', ' little', ' inside', ' whole']
+Rank 6 | Concept Score: 0.0000
+  Tokens: [' different']
+Rank 7 | Concept Score: 0.0000
+  Tokens: [' first', ' previous', ' last', ' following', ' next']
+Rank 8 | Concept Score: 0.0000
+  Tokens: [' second', ' third', ' twentieth', ' ninth', ' fourth']
+Rank 9 | Concept Score: 0.0000
+  Tokens: [' wrong', ' worse', ' worst']
+Rank 10 | Concept Score: 0.0000
+  Tokens: [' unknown', ' impossible', ' identical', ' equivalent']
+Rank 11 | Concept Score: 0.0000
+  Tokens: [' gender', ' order', ' world', ' top', ' group']
+Rank 12 | Concept Score: 0.0000
+  Tokens: [' inverse', ' vice', ' reverse', ' upside']
+Rank 13 | Concept Score: 0.0000
+  Tokens: [' option', ' opinion', ' opportunity']
+Rank 14 | Concept Score: 0.0000
+  Tokens: [' odd']
+Rank 15 | Concept Score: 0.0000
+  Tokens: [' negative', ' positive']
+Rank 16 | Concept Score: 0.0000
+  Tokens: [' dominant']
+Rank 17 | Concept Score: 0.0000
+  Tokens: [' ant']
+
+**Chosen Concept:** Rank 1 with score 0.9961

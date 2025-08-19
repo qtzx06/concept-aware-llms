@@ -1,0 +1,113 @@
+--- Step 106 Log ---
+
+== Filtered Candidates ==
+Token: ' effect' (ID: 2456), Prob: 0.9375
+Token: '-effect' (ID: 23067), Prob: 0.0527
+Token: ' effects' (ID: 6239), Prob: 0.0043
+Token: ' reaction' (ID: 12720), Prob: 0.0030
+Token: ' consequence' (ID: 28674), Prob: 0.0007
+Token: 'effect' (ID: 26061), Prob: 0.0005
+Token: ' issue' (ID: 4265), Prob: 0.0002
+Token: '-effects' (ID: 74788), Prob: 0.0002
+Token: ' side' (ID: 3108), Prob: 0.0001
+Token: ' result' (ID: 1102), Prob: 0.0001
+Token: ' outcome' (ID: 15274), Prob: 0.0001
+Token: ' affect' (ID: 7802), Prob: 0.0001
+Token: ' product' (ID: 1985), Prob: 0.0001
+Token: ' problem' (ID: 3491), Prob: 0.0001
+Token: '_effect' (ID: 27125), Prob: 0.0001
+Token: ' impact' (ID: 5421), Prob: 0.0001
+Token: ' Effect' (ID: 13449), Prob: 0.0001
+Token: ' efect' (ID: 42946), Prob: 0.0001
+Token: ' eff' (ID: 3289), Prob: 0.0000
+Token: ' effet' (ID: 66681), Prob: 0.0000
+Token: ' condition' (ID: 2971), Prob: 0.0000
+Token: '-off' (ID: 12462), Prob: 0.0000
+Token: 'Effect' (ID: 7738), Prob: 0.0000
+Token: ' negative' (ID: 8225), Prob: 0.0000
+Token: ' chain' (ID: 8781), Prob: 0.0000
+Token: ' benefit' (ID: 8760), Prob: 0.0000
+Token: ' risk' (ID: 5214), Prob: 0.0000
+Token: ' react' (ID: 13767), Prob: 0.0000
+Token: ' long' (ID: 1293), Prob: 0.0000
+Token: ' affects' (ID: 21501), Prob: 0.0000
+Token: '-side' (ID: 24067), Prob: 0.0000
+Token: ' action' (ID: 1917), Prob: 0.0000
+Token: ' note' (ID: 5185), Prob: 0.0000
+Token: ' affecting' (ID: 27887), Prob: 0.0000
+Token: '-re' (ID: 5504), Prob: 0.0000
+Token: ' drawback' (ID: 87520), Prob: 0.0000
+Token: ' event' (ID: 1538), Prob: 0.0000
+Token: ' symptom' (ID: 48548), Prob: 0.0000
+Token: ' reactions' (ID: 24473), Prob: 0.0000
+Token: ' adverse' (ID: 30859), Prob: 0.0000
+Token: '-product' (ID: 28645), Prob: 0.0000
+Token: ' consequences' (ID: 15917), Prob: 0.0000
+Token: '-eff' (ID: 52365), Prob: 0.0000
+Token: ' harm' (ID: 11428), Prob: 0.0000
+Token: ' allergic' (ID: 56496), Prob: 0.0000
+Token: ' influence' (ID: 10173), Prob: 0.0000
+Token: '_EFFECT' (ID: 55634), Prob: 0.0000
+Token: '.effect' (ID: 63534), Prob: 0.0000
+Token: ' disease' (ID: 8457), Prob: 0.0000
+Token: ' situation' (ID: 6534), Prob: 0.0000
+Token: 'reaction' (ID: 59207), Prob: 0.0000
+Token: '-negative' (ID: 60935), Prob: 0.0000
+Token: ' complication' (ID: 85819), Prob: 0.0000
+Token: ' damage' (ID: 5557), Prob: 0.0000
+Token: '-out' (ID: 9794), Prob: 0.0000
+Token: '	effect' (ID: 88070), Prob: 0.0000
+Token: ' concern' (ID: 4643), Prob: 0.0000
+Token: ' phenomenon' (ID: 24844), Prob: 0.0000
+Token: '-result' (ID: 53838), Prob: 0.0000
+Token: ' dose' (ID: 19115), Prob: 0.0000
+Token: ' application' (ID: 3766), Prob: 0.0000
+Token: ' EFFECT' (ID: 62053), Prob: 0.0000
+Token: ' health' (ID: 2820), Prob: 0.0000
+Token: ' population' (ID: 7042), Prob: 0.0000
+Token: '-con' (ID: 14859), Prob: 0.0000
+Token: ' positive' (ID: 6785), Prob: 0.0000
+Token: ' conflict' (ID: 12055), Prob: 0.0000
+Token: ' effectiveness' (ID: 26279), Prob: 0.0000
+Token: ' mutation' (ID: 26374), Prob: 0.0000
+Token: '-over' (ID: 28252), Prob: 0.0000
+Token: ' short' (ID: 2805), Prob: 0.0000
+Token: '-chain' (ID: 65186), Prob: 0.0000
+Token: ' process' (ID: 1882), Prob: 0.0000
+Token: ' reason' (ID: 2874), Prob: 0.0000
+
+== Ranked Concepts (Clusters) ==
+Rank 1 | Concept Score: 0.9961
+  Tokens: [' effect', '-effect', ' effects', 'effect', '-effects', '_effect', ' Effect', ' efect', ' effet', 'Effect', '_EFFECT', '.effect', '\teffect', ' EFFECT', ' effectiveness']
+Rank 2 | Concept Score: 0.0030
+  Tokens: [' reaction', ' react', ' reactions', 'reaction']
+Rank 3 | Concept Score: 0.0009
+  Tokens: [' consequence', ' result', ' outcome', ' consequences', '-result']
+Rank 4 | Concept Score: 0.0003
+  Tokens: [' issue', ' problem', ' condition', ' event', ' situation', ' phenomenon', ' application', ' population', ' process']
+Rank 5 | Concept Score: 0.0002
+  Tokens: [' affect', ' impact', ' affects', ' affecting', ' influence']
+Rank 6 | Concept Score: 0.0001
+  Tokens: [' side', '-side']
+Rank 7 | Concept Score: 0.0001
+  Tokens: [' product', '-product']
+Rank 8 | Concept Score: 0.0000
+  Tokens: [' eff', '-eff']
+Rank 9 | Concept Score: 0.0000
+  Tokens: ['-off', '-re', '-out', '-con', '-over']
+Rank 10 | Concept Score: 0.0000
+  Tokens: [' benefit', ' risk', ' drawback', ' harm', ' complication', ' damage', ' concern', ' conflict']
+Rank 11 | Concept Score: 0.0000
+  Tokens: [' negative', ' adverse', '-negative', ' positive']
+Rank 12 | Concept Score: 0.0000
+  Tokens: [' long', ' action', ' note', ' short']
+Rank 13 | Concept Score: 0.0000
+  Tokens: [' chain', '-chain']
+Rank 14 | Concept Score: 0.0000
+  Tokens: [' symptom', ' disease', ' dose', ' health', ' mutation']
+Rank 15 | Concept Score: 0.0000
+  Tokens: [' allergic']
+Rank 16 | Concept Score: 0.0000
+  Tokens: [' reason']
+
+**Chosen Concept:** Rank 1 with score 0.9961

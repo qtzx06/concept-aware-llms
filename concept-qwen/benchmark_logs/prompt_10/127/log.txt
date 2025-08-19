@@ -1,0 +1,95 @@
+--- Step 127 Log ---
+
+== Filtered Candidates ==
+Token: '-four' (ID: 41017), Prob: 0.9961
+Token: ' four' (ID: 3040), Prob: 0.0025
+Token: 'four' (ID: 34024), Prob: 0.0004
+Token: '-five' (ID: 35299), Prob: 0.0003
+Token: '-three' (ID: 48393), Prob: 0.0000
+Token: '-six' (ID: 54441), Prob: 0.0000
+Token: '-seven' (ID: 78025), Prob: 0.0000
+Token: ' Four' (ID: 13322), Prob: 0.0000
+Token: '_four' (ID: 56142), Prob: 0.0000
+Token: '-two' (ID: 37402), Prob: 0.0000
+Token: '-nine' (ID: 85603), Prob: 0.0000
+Token: '-eight' (ID: 69715), Prob: 0.0000
+Token: 'Four' (ID: 26972), Prob: 0.0000
+Token: ' fours' (ID: 89620), Prob: 0.0000
+Token: ' forty' (ID: 35398), Prob: 0.0000
+Token: '-one' (ID: 18589), Prob: 0.0000
+Token: '-th' (ID: 7563), Prob: 0.0000
+Token: '-quarter' (ID: 57314), Prob: 0.0000
+Token: ' fourth' (ID: 11737), Prob: 0.0000
+Token: '-se' (ID: 7806), Prob: 0.0000
+Token: ' FOUR' (ID: 74091), Prob: 0.0000
+Token: ' cuatro' (ID: 76008), Prob: 0.0000
+Token: '-up' (ID: 5239), Prob: 0.0000
+Token: '-fi' (ID: 36631), Prob: 0.0000
+Token: '-first' (ID: 36943), Prob: 0.0000
+Token: ' quatre' (ID: 98209), Prob: 0.0000
+Token: '-quarters' (ID: 82541), Prob: 0.0000
+Token: '-zero' (ID: 36929), Prob: 0.0000
+Token: ' fourteen' (ID: 62260), Prob: 0.0000
+Token: ' forth' (ID: 13241), Prob: 0.0000
+Token: '-and' (ID: 9777), Prob: 0.0000
+Token: '-even' (ID: 91531), Prob: 0.0000
+Token: ' vier' (ID: 57093), Prob: 0.0000
+Token: '-in' (ID: 3419), Prob: 0.0000
+Token: '-time' (ID: 7246), Prob: 0.0000
+Token: '-of' (ID: 8668), Prob: 0.0000
+Token: '-forward' (ID: 44804), Prob: 0.0000
+Token: ' five' (ID: 4236), Prob: 0.0000
+Token: '-to' (ID: 4686), Prob: 0.0000
+Token: '-re' (ID: 5504), Prob: 0.0000
+Token: '-year' (ID: 4666), Prob: 0.0000
+Token: '-for' (ID: 15193), Prob: 0.0000
+Token: '-third' (ID: 29177), Prob: 0.0000
+Token: '-Apr' (ID: 66148), Prob: 0.0000
+Token: '-qu' (ID: 73701), Prob: 0.0000
+Token: '-all' (ID: 22346), Prob: 0.0000
+Token: '-at' (ID: 28783), Prob: 0.0000
+Token: '-foot' (ID: 20483), Prob: 0.0000
+Token: 'forth' (ID: 70527), Prob: 0.0000
+Token: '-is' (ID: 30430), Prob: 0.0000
+Token: '-half' (ID: 33802), Prob: 0.0000
+Token: '-nil' (ID: 83248), Prob: 0.0000
+Token: '-element' (ID: 28452), Prob: 0.0000
+Token: '-case' (ID: 38485), Prob: 0.0000
+Token: '-fr' (ID: 50378), Prob: 0.0000
+Token: 'five' (ID: 52670), Prob: 0.0000
+Token: '-over' (ID: 28252), Prob: 0.0000
+Token: '-square' (ID: 32947), Prob: 0.0000
+Token: '-et' (ID: 96010), Prob: 0.0000
+Token: '-line' (ID: 8447), Prob: 0.0000
+
+== Ranked Concepts (Clusters) ==
+Rank 1 | Concept Score: 0.9961
+  Tokens: ['-four', '-five', '-three', '-six', '-seven', '-two', '-nine', '-eight', '-one']
+Rank 2 | Concept Score: 0.0029
+  Tokens: [' four', 'four', ' Four', '_four', 'Four', ' fours', ' forty', ' FOUR', ' cuatro', ' quatre', ' fourteen', ' vier', ' five', 'five']
+Rank 3 | Concept Score: 0.0000
+  Tokens: ['-th']
+Rank 4 | Concept Score: 0.0000
+  Tokens: ['-quarter', '-quarters', '-half']
+Rank 5 | Concept Score: 0.0000
+  Tokens: ['-up', '-and', '-in', '-of', '-to', '-for', '-all', '-at', '-over']
+Rank 6 | Concept Score: 0.0000
+  Tokens: ['-se', '-re', '-qu', '-is', '-element']
+Rank 7 | Concept Score: 0.0000
+  Tokens: [' fourth']
+Rank 8 | Concept Score: 0.0000
+  Tokens: ['-fi', '-foot', '-fr', '-et']
+Rank 9 | Concept Score: 0.0000
+  Tokens: ['-first', '-third']
+Rank 10 | Concept Score: 0.0000
+  Tokens: ['-zero', '-nil']
+Rank 11 | Concept Score: 0.0000
+  Tokens: ['-time', '-year', '-case', '-line']
+Rank 12 | Concept Score: 0.0000
+  Tokens: [' forth', 'forth']
+Rank 13 | Concept Score: 0.0000
+  Tokens: ['-even', '-Apr', '-square']
+Rank 14 | Concept Score: 0.0000
+  Tokens: ['-forward']
+
+**Chosen Concept:** Rank 1 with score 0.9961

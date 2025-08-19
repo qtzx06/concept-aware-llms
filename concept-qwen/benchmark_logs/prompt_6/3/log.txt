@@ -1,0 +1,96 @@
+--- Step 3 Log ---
+
+== Filtered Candidates ==
+Token: ' dies' (ID: 8725), Prob: 0.0194
+Token: ' gets' (ID: 5221), Prob: 0.0171
+Token: ' would' (ID: 1035), Prob: 0.0092
+Token: ' must' (ID: 1969), Prob: 0.0086
+Token: ' remains' (ID: 8458), Prob: 0.0049
+Token: ' lives' (ID: 6305), Prob: 0.0038
+Token: ' cannot' (ID: 4157), Prob: 0.0034
+Token: ' stays' (ID: 26558), Prob: 0.0034
+Token: ' die' (ID: 2746), Prob: 0.0030
+Token: ' could' (ID: 1410), Prob: 0.0028
+Token: ' goes' (ID: 5780), Prob: 0.0026
+Token: ' becomes' (ID: 9044), Prob: 0.0025
+Token: ' else' (ID: 770), Prob: 0.0023
+Token: ' may' (ID: 1231), Prob: 0.0023
+Token: ' loses' (ID: 32191), Prob: 0.0016
+Token: ' takes' (ID: 4990), Prob: 0.0015
+Token: ' get' (ID: 633), Prob: 0.0014
+Token: ' needs' (ID: 3880), Prob: 0.0012
+Token: ' disappears' (ID: 60270), Prob: 0.0012
+Token: ' either' (ID: 2987), Prob: 0.0011
+Token: ' seems' (ID: 4977), Prob: 0.0011
+Token: ' gives' (ID: 6696), Prob: 0.0011
+Token: ' alive' (ID: 13675), Prob: 0.0011
+Token: ' feels' (ID: 11074), Prob: 0.0010
+Token: ' falls' (ID: 17066), Prob: 0.0010
+Token: ' receives' (ID: 21189), Prob: 0.0010
+Token: ' suffers' (ID: 46421), Prob: 0.0010
+Token: ' leaves' (ID: 10901), Prob: 0.0009
+Token: ' survives' (ID: 82317), Prob: 0.0009
+Token: ' might' (ID: 2578), Prob: 0.0009
+Token: ' living' (ID: 5382), Prob: 0.0009
+Token: ' automatically' (ID: 9463), Prob: 0.0009
+Token: ' live' (ID: 3887), Prob: 0.0008
+Token: ' dead' (ID: 5593), Prob: 0.0008
+Token: ' knows' (ID: 8788), Prob: 0.0008
+Token: ' still' (ID: 2058), Prob: 0.0007
+Token: ' wants' (ID: 6801), Prob: 0.0007
+Token: ' follows' (ID: 11017), Prob: 0.0007
+Token: ' simply' (ID: 4936), Prob: 0.0007
+Token: ' looks' (ID: 5868), Prob: 0.0007
+Token: ' belongs' (ID: 17180), Prob: 0.0007
+Token: ' one' (ID: 825), Prob: 0.0006
+Token: ' also' (ID: 1083), Prob: 0.0006
+Token: ' around' (ID: 2163), Prob: 0.0006
+Token: ' died' (ID: 8469), Prob: 0.0006
+Token: ' child' (ID: 1682), Prob: 0.0005
+Token: ' makes' (ID: 3643), Prob: 0.0005
+Token: ' walks' (ID: 22479), Prob: 0.0005
+Token: ' within' (ID: 2878), Prob: 0.0005
+Token: ' joins' (ID: 28682), Prob: 0.0005
+Token: ' works' (ID: 4278), Prob: 0.0004
+
+== Ranked Concepts (Clusters) ==
+Rank 1 | Concept Score: 0.0271
+  Tokens: [' would', ' must', ' cannot', ' could', ' may', ' might']
+Rank 2 | Concept Score: 0.0253
+  Tokens: [' gets', ' goes', ' becomes', ' takes', ' gives', ' makes']
+Rank 3 | Concept Score: 0.0238
+  Tokens: [' dies', ' die', ' dead', ' died']
+Rank 4 | Concept Score: 0.0083
+  Tokens: [' remains', ' stays']
+Rank 5 | Concept Score: 0.0066
+  Tokens: [' lives', ' alive', ' living', ' live']
+Rank 6 | Concept Score: 0.0035
+  Tokens: [' loses', ' receives', ' suffers']
+Rank 7 | Concept Score: 0.0028
+  Tokens: [' seems', ' feels', ' looks']
+Rank 8 | Concept Score: 0.0027
+  Tokens: [' needs', ' knows', ' wants']
+Rank 9 | Concept Score: 0.0023
+  Tokens: [' falls', ' follows', ' belongs']
+Rank 10 | Concept Score: 0.0023
+  Tokens: [' else']
+Rank 11 | Concept Score: 0.0021
+  Tokens: [' disappears', ' survives']
+Rank 12 | Concept Score: 0.0021
+  Tokens: [' automatically', ' simply', ' also']
+Rank 13 | Concept Score: 0.0019
+  Tokens: [' leaves', ' walks', ' joins']
+Rank 14 | Concept Score: 0.0017
+  Tokens: [' one', ' around', ' within']
+Rank 15 | Concept Score: 0.0014
+  Tokens: [' get']
+Rank 16 | Concept Score: 0.0011
+  Tokens: [' either']
+Rank 17 | Concept Score: 0.0007
+  Tokens: [' still']
+Rank 18 | Concept Score: 0.0005
+  Tokens: [' child']
+Rank 19 | Concept Score: 0.0004
+  Tokens: [' works']
+
+**Chosen Concept:** Rank 1 with score 0.0271

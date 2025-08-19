@@ -1,0 +1,114 @@
+--- Step 115 Log ---
+
+== Filtered Candidates ==
+Token: ' contain' (ID: 6644), Prob: 0.5273
+Token: ' still' (ID: 2058), Prob: 0.0075
+Token: ' also' (ID: 1083), Prob: 0.0059
+Token: ' actually' (ID: 3520), Prob: 0.0049
+Token: ' hold' (ID: 3331), Prob: 0.0031
+Token: ' indeed' (ID: 12824), Prob: 0.0029
+Token: ' host' (ID: 3468), Prob: 0.0020
+Token: ' lack' (ID: 6853), Prob: 0.0017
+Token: ' exist' (ID: 3000), Prob: 0.0010
+Token: ' harbor' (ID: 56411), Prob: 0.0010
+Token: ' possess' (ID: 15218), Prob: 0.0010
+Token: ' require' (ID: 1373), Prob: 0.0009
+Token: ' carry' (ID: 6777), Prob: 0.0006
+Token: ' already' (ID: 2669), Prob: 0.0005
+Token: ' support' (ID: 1824), Prob: 0.0004
+Token: ' possibly' (ID: 10767), Prob: 0.0004
+Token: ' contains' (ID: 5610), Prob: 0.0003
+Token: ' currently' (ID: 5023), Prob: 0.0003
+Token: ' yet' (ID: 3602), Prob: 0.0002
+Token: ' lie' (ID: 10246), Prob: 0.0002
+Token: ' live' (ID: 3887), Prob: 0.0002
+Token: ' never' (ID: 2581), Prob: 0.0002
+Token: ' need' (ID: 1184), Prob: 0.0002
+Token: ' include' (ID: 2924), Prob: 0.0002
+Token: ' either' (ID: 2987), Prob: 0.0002
+Token: ' potentially' (ID: 13581), Prob: 0.0002
+Token: ' experience' (ID: 3139), Prob: 0.0001
+Token: ' truly' (ID: 9428), Prob: 0.0001
+Token: ' consist' (ID: 6685), Prob: 0.0001
+Token: ' suffer' (ID: 7676), Prob: 0.0001
+Token: ' use' (ID: 990), Prob: 0.0001
+Token: ' one' (ID: 825), Prob: 0.0001
+Token: ' may' (ID: 1231), Prob: 0.0001
+Token: ' allow' (ID: 2138), Prob: 0.0001
+Token: ' provide' (ID: 3410), Prob: 0.0001
+Token: ' eventually' (ID: 9583), Prob: 0.0001
+Token: ' involve' (ID: 21058), Prob: 0.0001
+Token: ' offer' (ID: 3010), Prob: 0.0001
+Token: ' hide' (ID: 10265), Prob: 0.0001
+Token: ' present' (ID: 3042), Prob: 0.0001
+Token: ' share' (ID: 4332), Prob: 0.0001
+Token: ' likely' (ID: 4363), Prob: 0.0001
+Token: ' therefore' (ID: 8916), Prob: 0.0001
+Token: ' even' (ID: 1496), Prob: 0.0001
+Token: ' lead' (ID: 2990), Prob: 0.0001
+Token: ' develop' (ID: 2225), Prob: 0.0001
+Token: ' perhaps' (ID: 8365), Prob: 0.0001
+Token: ' definitely' (ID: 8491), Prob: 0.0001
+Token: ' undergo' (ID: 36671), Prob: 0.0001
+Token: ' appear' (ID: 4994), Prob: 0.0001
+Token: ' somehow' (ID: 16925), Prob: 0.0001
+Token: ' continue' (ID: 3060), Prob: 0.0001
+Token: ' conce' (ID: 19669), Prob: 0.0001
+Token: ' house' (ID: 3753), Prob: 0.0000
+Token: ' bear' (ID: 11722), Prob: 0.0000
+Token: ' pose' (ID: 17040), Prob: 0.0000
+Token: 'contain' (ID: 52095), Prob: 0.0000
+Token: ' avoid' (ID: 5648), Prob: 0.0000
+Token: ' contained' (ID: 12985), Prob: 0.0000
+Token: ' survive' (ID: 17697), Prob: 0.0000
+Token: ' differ' (ID: 1745), Prob: 0.0000
+Token: ' belong' (ID: 9173), Prob: 0.0000
+Token: ' accommodate' (ID: 28276), Prob: 0.0000
+Token: ' certainly' (ID: 7838), Prob: 0.0000
+Token: ' act' (ID: 1160), Prob: 0.0000
+Token: ' someday' (ID: 53008), Prob: 0.0000
+Token: ' cont' (ID: 683), Prob: 0.0000
+
+== Ranked Concepts (Clusters) ==
+Rank 1 | Concept Score: 0.5273
+  Tokens: [' contain', ' contains', 'contain', ' contained', ' cont']
+Rank 2 | Concept Score: 0.0085
+  Tokens: [' still', ' already', ' currently', ' yet']
+Rank 3 | Concept Score: 0.0081
+  Tokens: [' actually', ' indeed', ' truly', ' definitely', ' certainly']
+Rank 4 | Concept Score: 0.0061
+  Tokens: [' also', ' never']
+Rank 5 | Concept Score: 0.0048
+  Tokens: [' hold', ' harbor', ' carry', ' bear']
+Rank 6 | Concept Score: 0.0022
+  Tokens: [' host', ' hide', ' conce', ' house']
+Rank 7 | Concept Score: 0.0022
+  Tokens: [' lack', ' support', ' share']
+Rank 8 | Concept Score: 0.0015
+  Tokens: [' require', ' include', ' consist', ' allow', ' involve', ' develop', ' avoid', ' accommodate']
+Rank 9 | Concept Score: 0.0012
+  Tokens: [' exist', ' appear', ' survive', ' differ', ' belong']
+Rank 10 | Concept Score: 0.0010
+  Tokens: [' possess']
+Rank 11 | Concept Score: 0.0008
+  Tokens: [' possibly', ' potentially', ' may', ' likely', ' perhaps']
+Rank 12 | Concept Score: 0.0005
+  Tokens: [' need', ' use', ' provide', ' offer']
+Rank 13 | Concept Score: 0.0004
+  Tokens: [' lie', ' present', ' pose', ' act']
+Rank 14 | Concept Score: 0.0003
+  Tokens: [' experience', ' suffer', ' undergo']
+Rank 15 | Concept Score: 0.0003
+  Tokens: [' live', ' lead']
+Rank 16 | Concept Score: 0.0003
+  Tokens: [' either', ' one']
+Rank 17 | Concept Score: 0.0002
+  Tokens: [' eventually', ' somehow', ' someday']
+Rank 18 | Concept Score: 0.0001
+  Tokens: [' therefore']
+Rank 19 | Concept Score: 0.0001
+  Tokens: [' even']
+Rank 20 | Concept Score: 0.0001
+  Tokens: [' continue']
+
+**Chosen Concept:** Rank 1 with score 0.5273

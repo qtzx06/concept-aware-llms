@@ -1,0 +1,113 @@
+--- Step 41 Log ---
+
+== Filtered Candidates ==
+Token: ' person' (ID: 1697), Prob: 0.9922
+Token: ' individual' (ID: 3842), Prob: 0.0008
+Token: ' one' (ID: 825), Prob: 0.0005
+Token: ' day' (ID: 1899), Prob: 0.0003
+Token: ' man' (ID: 883), Prob: 0.0003
+Token: ' human' (ID: 3738), Prob: 0.0002
+Token: ' year' (ID: 1042), Prob: 0.0002
+Token: ' single' (ID: 3175), Prob: 0.0002
+Token: ' woman' (ID: 5220), Prob: 0.0002
+Token: ' time' (ID: 882), Prob: 0.0001
+Token: ' member' (ID: 4462), Prob: 0.0001
+Token: ' persons' (ID: 11186), Prob: 0.0001
+Token: ' child' (ID: 1682), Prob: 0.0001
+Token: ' possible' (ID: 3204), Prob: 0.0001
+Token: ' personal' (ID: 4345), Prob: 0.0001
+Token: ' three' (ID: 2326), Prob: 0.0000
+Token: ' people' (ID: 1251), Prob: 0.0000
+Token: ' adult' (ID: 6683), Prob: 0.0000
+Token: ' citizen' (ID: 21860), Prob: 0.0000
+Token: 'person' (ID: 8987), Prob: 0.0000
+Token: ' two' (ID: 1378), Prob: 0.0000
+Token: ' night' (ID: 3729), Prob: 0.0000
+Token: ' third' (ID: 4843), Prob: 0.0000
+Token: ' month' (ID: 2254), Prob: 0.0000
+Token: ' Person' (ID: 7357), Prob: 0.0000
+Token: ' second' (ID: 2086), Prob: 0.0000
+Token: ' player' (ID: 2781), Prob: 0.0000
+Token: ' girl' (ID: 3743), Prob: 0.0000
+Token: ' group' (ID: 1874), Prob: 0.0000
+Token: ' female' (ID: 8778), Prob: 0.0000
+Token: ' death' (ID: 4545), Prob: 0.0000
+Token: ' life' (ID: 2272), Prob: 0.0000
+Token: ' male' (ID: 8593), Prob: 0.0000
+Token: ' new' (ID: 501), Prob: 0.0000
+Token: ' employee' (ID: 9364), Prob: 0.0000
+Token: ' part' (ID: 949), Prob: 0.0000
+Token: ' family' (ID: 2997), Prob: 0.0000
+Token: ' pair' (ID: 6716), Prob: 0.0000
+Token: ' user' (ID: 1196), Prob: 0.0000
+Token: ' mother' (ID: 6554), Prob: 0.0000
+Token: ' die' (ID: 2746), Prob: 0.0000
+Token: ' minute' (ID: 9383), Prob: 0.0000
+Token: ' week' (ID: 2003), Prob: 0.0000
+Token: ' kill' (ID: 5505), Prob: 0.0000
+Token: ' enemy' (ID: 9175), Prob: 0.0000
+Token: ' public' (ID: 584), Prob: 0.0000
+Token: ' five' (ID: 4236), Prob: 0.0000
+Token: ' may' (ID: 1231), Prob: 0.0000
+Token: ' even' (ID: 1496), Prob: 0.0000
+Token: ' random' (ID: 4194), Prob: 0.0000
+Token: ' living' (ID: 5382), Prob: 0.0000
+Token: ' someone' (ID: 4325), Prob: 0.0000
+Token: ' hour' (ID: 6460), Prob: 0.0000
+Token: ' four' (ID: 3040), Prob: 0.0000
+Token: ' piece' (ID: 6573), Prob: 0.0000
+Token: ' friend' (ID: 4238), Prob: 0.0000
+Token: ' fight' (ID: 4367), Prob: 0.0000
+Token: ' parent' (ID: 2681), Prob: 0.0000
+Token: ' step' (ID: 3019), Prob: 0.0000
+Token: ' self' (ID: 656), Prob: 0.0000
+Token: ' boy' (ID: 8171), Prob: 0.0000
+Token: ' worker' (ID: 11864), Prob: 0.0000
+Token: ' personality' (ID: 17294), Prob: 0.0000
+Token: ' body' (ID: 2487), Prob: 0.0000
+Token: ' period' (ID: 4168), Prob: 0.0000
+Token: ' organization' (ID: 7321), Prob: 0.0000
+Token: ' participant' (ID: 24880), Prob: 0.0000
+Token: ' young' (ID: 3908), Prob: 0.0000
+Token: ' present' (ID: 3042), Prob: 0.0000
+Token: ' house' (ID: 3753), Prob: 0.0000
+
+== Ranked Concepts (Clusters) ==
+Rank 1 | Concept Score: 0.9922
+  Tokens: [' person', ' persons', ' people', 'person', ' Person', ' someone']
+Rank 2 | Concept Score: 0.0009
+  Tokens: [' individual', ' personal', ' personality']
+Rank 3 | Concept Score: 0.0006
+  Tokens: [' one', ' three', ' two', ' five', ' four']
+Rank 4 | Concept Score: 0.0006
+  Tokens: [' day', ' year', ' night', ' month', ' minute', ' week', ' hour', ' period']
+Rank 5 | Concept Score: 0.0005
+  Tokens: [' man', ' woman', ' girl', ' boy']
+Rank 6 | Concept Score: 0.0002
+  Tokens: [' time', ' possible', ' new', ' may', ' even']
+Rank 7 | Concept Score: 0.0002
+  Tokens: [' single', ' public', ' random', ' self']
+Rank 8 | Concept Score: 0.0002
+  Tokens: [' human']
+Rank 9 | Concept Score: 0.0002
+  Tokens: [' member', ' citizen', ' player', ' employee', ' user', ' enemy', ' friend', ' worker', ' participant']
+Rank 10 | Concept Score: 0.0001
+  Tokens: [' child', ' family', ' mother', ' parent']
+Rank 11 | Concept Score: 0.0001
+  Tokens: [' adult', ' female', ' male']
+Rank 12 | Concept Score: 0.0001
+  Tokens: [' third', ' second']
+Rank 13 | Concept Score: 0.0000
+  Tokens: [' group', ' pair', ' piece', ' body']
+Rank 14 | Concept Score: 0.0000
+  Tokens: [' death', ' die', ' kill', ' fight']
+Rank 15 | Concept Score: 0.0000
+  Tokens: [' life', ' living', ' house']
+Rank 16 | Concept Score: 0.0000
+  Tokens: [' part', ' step', ' present']
+Rank 17 | Concept Score: 0.0000
+  Tokens: [' organization']
+Rank 18 | Concept Score: 0.0000
+  Tokens: [' young']
+
+**Chosen Concept:** Rank 1 with score 0.9922

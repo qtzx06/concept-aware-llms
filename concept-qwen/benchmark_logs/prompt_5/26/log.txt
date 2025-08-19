@@ -1,0 +1,103 @@
+--- Step 26 Log ---
+
+== Filtered Candidates ==
+Token: ' traveler' (ID: 62765), Prob: 0.4199
+Token: ' zone' (ID: 10143), Prob: 0.2891
+Token: ' zones' (ID: 25395), Prob: 0.1367
+Token: ' difference' (ID: 6672), Prob: 0.0325
+Token: ' travel' (ID: 5821), Prob: 0.0184
+Token: ' travelers' (ID: 39286), Prob: 0.0053
+Token: ' shown' (ID: 6839), Prob: 0.0041
+Token: ' transfer' (ID: 8317), Prob: 0.0019
+Token: ' traveled' (ID: 30696), Prob: 0.0013
+Token: ' region' (ID: 5537), Prob: 0.0013
+Token: ' machine' (ID: 5662), Prob: 0.0013
+Token: ' differences' (ID: 11799), Prob: 0.0011
+Token: ' traveling' (ID: 20971), Prob: 0.0009
+Token: ' dilation' (ID: 74278), Prob: 0.0007
+Token: ' worker' (ID: 11864), Prob: 0.0006
+Token: ' discrepancy' (ID: 78005), Prob: 0.0006
+Token: ' change' (ID: 2297), Prob: 0.0006
+Token: ' displayed' (ID: 12596), Prob: 0.0006
+Token: ' display' (ID: 3037), Prob: 0.0005
+Token: 'zone' (ID: 8684), Prob: 0.0005
+Token: ' shift' (ID: 6407), Prob: 0.0005
+Token: ' transition' (ID: 9142), Prob: 0.0004
+Token: ' Zone' (ID: 22178), Prob: 0.0004
+Token: ' device' (ID: 3671), Prob: 0.0003
+Token: ' regions' (ID: 13604), Prob: 0.0003
+Token: ' travels' (ID: 34192), Prob: 0.0003
+Token: ' show' (ID: 1473), Prob: 0.0003
+Token: ' taken' (ID: 4429), Prob: 0.0003
+Token: ' delay' (ID: 7626), Prob: 0.0002
+Token: ' clock' (ID: 8866), Prob: 0.0002
+Token: ' passed' (ID: 5823), Prob: 0.0002
+Token: ' trip' (ID: 8411), Prob: 0.0002
+Token: ' differs' (ID: 43542), Prob: 0.0002
+Token: ' trader' (ID: 44365), Prob: 0.0002
+Token: ' period' (ID: 4168), Prob: 0.0002
+Token: ' passenger' (ID: 23148), Prob: 0.0002
+Token: ' loop' (ID: 6337), Prob: 0.0002
+Token: ' function' (ID: 729), Prob: 0.0002
+Token: ' outside' (ID: 4889), Prob: 0.0002
+Token: ' traveller' (ID: 85194), Prob: 0.0002
+Token: ' across' (ID: 3941), Prob: 0.0002
+Token: ' offset' (ID: 4347), Prob: 0.0002
+Token: 'zones' (ID: 67534), Prob: 0.0002
+Token: ' shows' (ID: 4933), Prob: 0.0001
+Token: ' leader' (ID: 7653), Prob: 0.0001
+Token: ' skip' (ID: 10706), Prob: 0.0001
+Token: ' timezone' (ID: 33957), Prob: 0.0001
+Token: ' given' (ID: 2661), Prob: 0.0001
+Token: ' passing' (ID: 12299), Prob: 0.0001
+Token: '-zone' (ID: 77763), Prob: 0.0001
+Token: ' differ' (ID: 1745), Prob: 0.0001
+Token: ' seen' (ID: 3884), Prob: 0.0001
+Token: ' tele' (ID: 7963), Prob: 0.0001
+Token: ' ahead' (ID: 8305), Prob: 0.0001
+Token: ' departure' (ID: 24915), Prob: 0.0001
+Token: ' tunnel' (ID: 25629), Prob: 0.0001
+Token: ' arrival' (ID: 18647), Prob: 0.0001
+Token: ' observer' (ID: 22067), Prob: 0.0001
+Token: ' deviation' (ID: 37564), Prob: 0.0001
+Token: ' must' (ID: 1969), Prob: 0.0001
+Token: ' required' (ID: 2567), Prob: 0.0001
+Token: ' variable' (ID: 3890), Prob: 0.0001
+Token: ' behind' (ID: 4815), Prob: 0.0001
+Token: ' settings' (ID: 5003), Prob: 0.0001
+Token: ' passage' (ID: 21085), Prob: 0.0001
+Token: ' crossing' (ID: 26638), Prob: 0.0001
+
+== Ranked Concepts (Clusters) ==
+Rank 1 | Concept Score: 0.4473
+  Tokens: [' traveler', ' travel', ' travelers', ' traveled', ' traveling', ' travels', ' trip', ' passenger', ' traveller']
+Rank 2 | Concept Score: 0.4277
+  Tokens: [' zone', ' zones', 'zone', ' Zone', 'zones', '-zone']
+Rank 3 | Concept Score: 0.0347
+  Tokens: [' difference', ' differences', ' discrepancy', ' differs', ' differ', ' deviation']
+Rank 4 | Concept Score: 0.0056
+  Tokens: [' shown', ' displayed', ' display', ' show', ' shows']
+Rank 5 | Concept Score: 0.0040
+  Tokens: [' transfer', ' change', ' shift', ' transition', ' delay', ' offset', ' skip']
+Rank 6 | Concept Score: 0.0025
+  Tokens: [' machine', ' device', ' clock', ' loop', ' function', ' must', ' variable', ' settings']
+Rank 7 | Concept Score: 0.0018
+  Tokens: [' region', ' regions', ' period']
+Rank 8 | Concept Score: 0.0011
+  Tokens: [' worker', ' trader', ' leader', ' observer']
+Rank 9 | Concept Score: 0.0009
+  Tokens: [' dilation', ' timezone']
+Rank 10 | Concept Score: 0.0006
+  Tokens: [' taken', ' given', ' seen', ' required']
+Rank 11 | Concept Score: 0.0006
+  Tokens: [' passed', ' passing', ' passage', ' crossing']
+Rank 12 | Concept Score: 0.0006
+  Tokens: [' outside', ' across', ' ahead', ' behind']
+Rank 13 | Concept Score: 0.0003
+  Tokens: [' departure', ' arrival']
+Rank 14 | Concept Score: 0.0001
+  Tokens: [' tele']
+Rank 15 | Concept Score: 0.0001
+  Tokens: [' tunnel']
+
+**Chosen Concept:** Rank 1 with score 0.4473

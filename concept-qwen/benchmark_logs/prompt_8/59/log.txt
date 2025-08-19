@@ -1,0 +1,100 @@
+--- Step 59 Log ---
+
+== Filtered Candidates ==
+Token: ' etc' (ID: 4992), Prob: 0.9609
+Token: ' thoughts' (ID: 11303), Prob: 0.0009
+Token: ' feelings' (ID: 15650), Prob: 0.0004
+Token: ' emotions' (ID: 21261), Prob: 0.0003
+Token: ' actions' (ID: 6168), Prob: 0.0002
+Token: ' like' (ID: 1075), Prob: 0.0001
+Token: ' ideas' (ID: 6708), Prob: 0.0001
+Token: ' even' (ID: 1496), Prob: 0.0001
+Token: ' relationships' (ID: 11871), Prob: 0.0001
+Token: ' expressions' (ID: 23393), Prob: 0.0001
+Token: ' behaviors' (ID: 27099), Prob: 0.0000
+Token: ' words' (ID: 4244), Prob: 0.0000
+Token: 'etc' (ID: 12107), Prob: 0.0000
+Token: ' beliefs' (ID: 20799), Prob: 0.0000
+Token: ' notes' (ID: 8388), Prob: 0.0000
+Token: ' perhaps' (ID: 8365), Prob: 0.0000
+Token: ' maybe' (ID: 7196), Prob: 0.0000
+Token: ' yes' (ID: 9834), Prob: 0.0000
+Token: ' opinions' (ID: 17979), Prob: 0.0000
+Token: ' sounds' (ID: 10362), Prob: 0.0000
+Token: ' others' (ID: 3800), Prob: 0.0000
+Token: ' needs' (ID: 3880), Prob: 0.0000
+Token: ' relations' (ID: 4300), Prob: 0.0000
+Token: ' events' (ID: 4357), Prob: 0.0000
+Token: ' love' (ID: 2948), Prob: 0.0000
+Token: ' emails' (ID: 14298), Prob: 0.0000
+Token: ' expectations' (ID: 16665), Prob: 0.0000
+Token: ' dreams' (ID: 18707), Prob: 0.0000
+Token: ' memories' (ID: 18923), Prob: 0.0000
+Token: ' plans' (ID: 6649), Prob: 0.0000
+Token: ' responses' (ID: 14507), Prob: 0.0000
+Token: ' information' (ID: 1995), Prob: 0.0000
+Token: ' messages' (ID: 6605), Prob: 0.0000
+Token: ' sometimes' (ID: 7025), Prob: 0.0000
+Token: ' people' (ID: 1251), Prob: 0.0000
+Token: ' likes' (ID: 13151), Prob: 0.0000
+Token: ' activities' (ID: 7488), Prob: 0.0000
+Token: ' reactions' (ID: 24473), Prob: 0.0000
+Token: ' things' (ID: 2513), Prob: 0.0000
+Token: ' values' (ID: 2750), Prob: 0.0000
+Token: ' especially' (ID: 5310), Prob: 0.0000
+Token: ' discussions' (ID: 20333), Prob: 0.0000
+Token: ' attitudes' (ID: 32626), Prob: 0.0000
+Token: ' preferences' (ID: 19322), Prob: 0.0000
+Token: ' desires' (ID: 30997), Prob: 0.0000
+Token: ' sensations' (ID: 71497), Prob: 0.0000
+Token: ' well' (ID: 1632), Prob: 0.0000
+Token: ' often' (ID: 3545), Prob: 0.0000
+Token: ' parts' (ID: 5479), Prob: 0.0000
+Token: ' examples' (ID: 10295), Prob: 0.0000
+Token: ' including' (ID: 2670), Prob: 0.0000
+Token: ' experiences' (ID: 11449), Prob: 0.0000
+Token: ' songs' (ID: 11674), Prob: 0.0000
+Token: ' facts' (ID: 13064), Prob: 0.0000
+Token: ' intentions' (ID: 33234), Prob: 0.0000
+
+== Ranked Concepts (Clusters) ==
+Rank 1 | Concept Score: 0.9609
+  Tokens: [' etc', 'etc', ' others']
+Rank 2 | Concept Score: 0.0010
+  Tokens: [' thoughts', ' ideas', ' opinions']
+Rank 3 | Concept Score: 0.0007
+  Tokens: [' feelings', ' emotions', ' memories', ' sensations']
+Rank 4 | Concept Score: 0.0003
+  Tokens: [' actions', ' behaviors', ' events', ' activities']
+Rank 5 | Concept Score: 0.0001
+  Tokens: [' like', ' love', ' likes']
+Rank 6 | Concept Score: 0.0001
+  Tokens: [' beliefs', ' expectations', ' attitudes', ' preferences', ' desires', ' intentions']
+Rank 7 | Concept Score: 0.0001
+  Tokens: [' expressions', ' responses', ' reactions', ' discussions']
+Rank 8 | Concept Score: 0.0001
+  Tokens: [' even', ' especially', ' including']
+Rank 9 | Concept Score: 0.0001
+  Tokens: [' perhaps', ' maybe', ' sometimes', ' often']
+Rank 10 | Concept Score: 0.0001
+  Tokens: [' notes', ' emails', ' messages', ' songs']
+Rank 11 | Concept Score: 0.0001
+  Tokens: [' information', ' people', ' things', ' values', ' parts', ' facts']
+Rank 12 | Concept Score: 0.0001
+  Tokens: [' relationships', ' relations']
+Rank 13 | Concept Score: 0.0001
+  Tokens: [' yes', ' sounds', ' well']
+Rank 14 | Concept Score: 0.0000
+  Tokens: [' words']
+Rank 15 | Concept Score: 0.0000
+  Tokens: [' needs']
+Rank 16 | Concept Score: 0.0000
+  Tokens: [' dreams']
+Rank 17 | Concept Score: 0.0000
+  Tokens: [' plans']
+Rank 18 | Concept Score: 0.0000
+  Tokens: [' examples']
+Rank 19 | Concept Score: 0.0000
+  Tokens: [' experiences']
+
+**Chosen Concept:** Rank 1 with score 0.9609

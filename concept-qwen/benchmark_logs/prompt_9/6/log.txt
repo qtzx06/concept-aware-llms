@@ -1,0 +1,102 @@
+--- Step 6 Log ---
+
+== Filtered Candidates ==
+Token: ' involved' (ID: 6398), Prob: 0.0013
+Token: ' married' (ID: 12224), Prob: 0.0013
+Token: ' together' (ID: 3786), Prob: 0.0005
+Token: ' back' (ID: 1182), Prob: 0.0003
+Token: ' another' (ID: 2441), Prob: 0.0002
+Token: ' dad' (ID: 17760), Prob: 0.0002
+Token: ' pregnant' (ID: 20280), Prob: 0.0002
+Token: ' angry' (ID: 18514), Prob: 0.0001
+Token: ' two' (ID: 1378), Prob: 0.0001
+Token: ' one' (ID: 825), Prob: 0.0001
+Token: ' divorced' (ID: 49492), Prob: 0.0001
+Token: ' around' (ID: 2163), Prob: 0.0001
+Token: ' tired' (ID: 19227), Prob: 0.0001
+Token: ' enter' (ID: 3725), Prob: 0.0001
+Token: ' put' (ID: 2182), Prob: 0.0001
+Token: ' started' (ID: 3855), Prob: 0.0001
+Token: ' stuck' (ID: 15700), Prob: 0.0001
+Token: ' jealous' (ID: 40590), Prob: 0.0001
+Token: ' paid' (ID: 7171), Prob: 0.0001
+Token: ' mixed' (ID: 9519), Prob: 0.0001
+Token: ' entered' (ID: 10636), Prob: 0.0001
+Token: ' fed' (ID: 22313), Prob: 0.0001
+Token: ' inside' (ID: 4766), Prob: 0.0001
+Token: ' ent' (ID: 1197), Prob: 0.0000
+Token: ' money' (ID: 3220), Prob: 0.0000
+Token: ' ready' (ID: 5527), Prob: 0.0000
+Token: ' parents' (ID: 6562), Prob: 0.0000
+Token: ' confused' (ID: 21815), Prob: 0.0000
+Token: ' drunk' (ID: 28750), Prob: 0.0000
+Token: ' mad' (ID: 12796), Prob: 0.0000
+Token: ' bored' (ID: 33286), Prob: 0.0000
+Token: ' home' (ID: 2114), Prob: 0.0000
+Token: '_into' (ID: 45514), Prob: 0.0000
+Token: ' even' (ID: 1496), Prob: 0.0000
+Token: ' older' (ID: 9014), Prob: 0.0000
+Token: ' upset' (ID: 22459), Prob: 0.0000
+Token: ' called' (ID: 2598), Prob: 0.0000
+Token: ' onto' (ID: 8630), Prob: 0.0000
+Token: ' rich' (ID: 9080), Prob: 0.0000
+Token: ' invested' (ID: 27991), Prob: 0.0000
+Token: ' love' (ID: 2948), Prob: 0.0000
+Token: ' kids' (ID: 6837), Prob: 0.0000
+Token: ' old' (ID: 2310), Prob: 0.0000
+Token: ' mom' (ID: 3368), Prob: 0.0000
+Token: ' rid' (ID: 9279), Prob: 0.0000
+Token: ' introduced' (ID: 11523), Prob: 0.0000
+Token: ' milk' (ID: 14074), Prob: 0.0000
+Token: ' deeply' (ID: 17247), Prob: 0.0000
+Token: ' invited' (ID: 18218), Prob: 0.0000
+Token: ' addicted' (ID: 56627), Prob: 0.0000
+Token: ' caught' (ID: 10568), Prob: 0.0000
+Token: ' pushed' (ID: 15391), Prob: 0.0000
+Token: ' three' (ID: 2326), Prob: 0.0000
+Token: ' away' (ID: 3123), Prob: 0.0000
+Token: ' help' (ID: 1492), Prob: 0.0000
+Token: ' pulled' (ID: 13238), Prob: 0.0000
+Token: ' left' (ID: 2115), Prob: 0.0000
+
+== Ranked Concepts (Clusters) ==
+Rank 1 | Concept Score: 0.0016
+  Tokens: [' married', ' pregnant', ' divorced', ' drunk', ' addicted']
+Rank 2 | Concept Score: 0.0013
+  Tokens: [' involved']
+Rank 3 | Concept Score: 0.0006
+  Tokens: [' together', ' around', ' inside']
+Rank 4 | Concept Score: 0.0004
+  Tokens: [' another', ' two', ' one', ' three']
+Rank 5 | Concept Score: 0.0004
+  Tokens: [' angry', ' tired', ' jealous', ' confused', ' bored', ' upset']
+Rank 6 | Concept Score: 0.0003
+  Tokens: [' back', ' home', ' away']
+Rank 7 | Concept Score: 0.0003
+  Tokens: [' dad', ' parents', ' kids', ' mom']
+Rank 8 | Concept Score: 0.0002
+  Tokens: [' money', ' mad', ' rich', ' love', ' milk', ' help']
+Rank 9 | Concept Score: 0.0002
+  Tokens: [' enter', ' entered', ' ent']
+Rank 10 | Concept Score: 0.0002
+  Tokens: [' started', ' invested', ' introduced', ' invited']
+Rank 11 | Concept Score: 0.0001
+  Tokens: [' stuck', ' caught', ' pushed', ' pulled']
+Rank 12 | Concept Score: 0.0001
+  Tokens: [' paid', ' fed']
+Rank 13 | Concept Score: 0.0001
+  Tokens: [' mixed', ' even']
+Rank 14 | Concept Score: 0.0001
+  Tokens: [' ready', ' rid']
+Rank 15 | Concept Score: 0.0001
+  Tokens: ['_into', ' onto']
+Rank 16 | Concept Score: 0.0001
+  Tokens: [' older', ' old']
+Rank 17 | Concept Score: 0.0001
+  Tokens: [' put']
+Rank 18 | Concept Score: 0.0001
+  Tokens: [' called', ' left']
+Rank 19 | Concept Score: 0.0000
+  Tokens: [' deeply']
+
+**Chosen Concept:** Rank 1 with score 0.0016

@@ -1,0 +1,83 @@
+--- Step 7 Log ---
+
+== Filtered Candidates ==
+Token: ' important' (ID: 2989), Prob: 0.0300
+Token: ' personal' (ID: 4345), Prob: 0.0194
+Token: ' happens' (ID: 8573), Prob: 0.0081
+Token: ' new' (ID: 501), Prob: 0.0056
+Token: ' inside' (ID: 4766), Prob: 0.0052
+Token: ' else' (ID: 770), Prob: 0.0041
+Token: ' like' (ID: 1075), Prob: 0.0038
+Token: ' small' (ID: 2613), Prob: 0.0038
+Token: ' could' (ID: 1410), Prob: 0.0030
+Token: ' happened' (ID: 6932), Prob: 0.0030
+Token: ' unexpected' (ID: 16500), Prob: 0.0028
+Token: ' might' (ID: 2578), Prob: 0.0026
+Token: ' goes' (ID: 5780), Prob: 0.0025
+Token: ' hidden' (ID: 8177), Prob: 0.0025
+Token: ' negative' (ID: 8225), Prob: 0.0025
+Token: ' private' (ID: 869), Prob: 0.0023
+Token: ' may' (ID: 1231), Prob: 0.0023
+Token: ' emotional' (ID: 14269), Prob: 0.0022
+Token: ' specific' (ID: 3151), Prob: 0.0020
+Token: ' bad' (ID: 3873), Prob: 0.0020
+Token: ' wrong' (ID: 4969), Prob: 0.0020
+Token: ' something' (ID: 2494), Prob: 0.0019
+Token: ' subtle' (ID: 26447), Prob: 0.0019
+Token: ' special' (ID: 3281), Prob: 0.0018
+Token: ' strange' (ID: 14888), Prob: 0.0018
+Token: ' positive' (ID: 6785), Prob: 0.0016
+Token: ' without' (ID: 2041), Prob: 0.0015
+Token: ' really' (ID: 2167), Prob: 0.0014
+Token: ' needs' (ID: 3880), Prob: 0.0014
+Token: ' different' (ID: 2155), Prob: 0.0012
+Token: ' even' (ID: 1496), Prob: 0.0012
+Token: ' must' (ID: 1969), Prob: 0.0010
+Token: ' simple' (ID: 4285), Prob: 0.0010
+Token: ' people' (ID: 1251), Prob: 0.0010
+Token: ' big' (ID: 2409), Prob: 0.0010
+Token: ' outside' (ID: 4889), Prob: 0.0010
+Token: ' odd' (ID: 10322), Prob: 0.0010
+Token: ' going' (ID: 2087), Prob: 0.0009
+Token: ' someone' (ID: 4325), Prob: 0.0009
+Token: ' true' (ID: 830), Prob: 0.0009
+Token: ' behind' (ID: 4815), Prob: 0.0009
+Token: ' feels' (ID: 11074), Prob: 0.0009
+
+== Ranked Concepts (Clusters) ==
+Rank 1 | Concept Score: 0.0408
+  Tokens: [' important', ' new', ' specific', ' special', ' different']
+Rank 2 | Concept Score: 0.0217
+  Tokens: [' personal', ' private']
+Rank 3 | Concept Score: 0.0111
+  Tokens: [' happens', ' happened']
+Rank 4 | Concept Score: 0.0104
+  Tokens: [' could', ' might', ' may', ' needs', ' must']
+Rank 5 | Concept Score: 0.0070
+  Tokens: [' inside', ' outside', ' behind']
+Rank 6 | Concept Score: 0.0058
+  Tokens: [' small', ' simple', ' big']
+Rank 7 | Concept Score: 0.0053
+  Tokens: [' like', ' without']
+Rank 8 | Concept Score: 0.0046
+  Tokens: [' unexpected', ' strange']
+Rank 9 | Concept Score: 0.0044
+  Tokens: [' hidden', ' subtle']
+Rank 10 | Concept Score: 0.0041
+  Tokens: [' bad', ' wrong']
+Rank 11 | Concept Score: 0.0041
+  Tokens: [' negative', ' positive']
+Rank 12 | Concept Score: 0.0041
+  Tokens: [' else']
+Rank 13 | Concept Score: 0.0038
+  Tokens: [' something', ' people', ' someone']
+Rank 14 | Concept Score: 0.0034
+  Tokens: [' goes', ' going']
+Rank 15 | Concept Score: 0.0030
+  Tokens: [' emotional', ' feels']
+Rank 16 | Concept Score: 0.0023
+  Tokens: [' really', ' true']
+Rank 17 | Concept Score: 0.0021
+  Tokens: [' even', ' odd']
+
+**Chosen Concept:** Rank 1 with score 0.0408

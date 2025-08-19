@@ -1,0 +1,101 @@
+--- Step 50 Log ---
+
+== Filtered Candidates ==
+Token: ' may' (ID: 1231), Prob: 0.4297
+Token: ' could' (ID: 1410), Prob: 0.0957
+Token: ' might' (ID: 2578), Prob: 0.0398
+Token: ' must' (ID: 1969), Prob: 0.0101
+Token: ' Earth' (ID: 9237), Prob: 0.0024
+Token: ' needs' (ID: 3880), Prob: 0.0015
+Token: ' contains' (ID: 5610), Prob: 0.0015
+Token: ' would' (ID: 1035), Prob: 0.0012
+Token: ' already' (ID: 2669), Prob: 0.0008
+Token: ' soil' (ID: 17171), Prob: 0.0007
+Token: ' holds' (ID: 9982), Prob: 0.0005
+Token: ' cannot' (ID: 4157), Prob: 0.0004
+Token: ' probably' (ID: 4658), Prob: 0.0004
+Token: ' likely' (ID: 4363), Prob: 0.0004
+Token: ' lacks' (ID: 36756), Prob: 0.0003
+Token: ' environment' (ID: 4573), Prob: 0.0003
+Token: ' Mars' (ID: 21048), Prob: 0.0002
+Token: ' requires' (ID: 7460), Prob: 0.0002
+Token: ' offers' (ID: 6081), Prob: 0.0002
+Token: ' surface' (ID: 7329), Prob: 0.0002
+Token: ' still' (ID: 2058), Prob: 0.0002
+Token: ' provides' (ID: 5707), Prob: 0.0002
+Token: ' supports' (ID: 11554), Prob: 0.0002
+Token: ' presents' (ID: 18404), Prob: 0.0002
+Token: ' carries' (ID: 23377), Prob: 0.0002
+Token: ' soon' (ID: 5135), Prob: 0.0002
+Token: ' planet' (ID: 11580), Prob: 0.0001
+Token: ' May' (ID: 3217), Prob: 0.0001
+Token: ' possibly' (ID: 10767), Prob: 0.0001
+Token: ' harb' (ID: 68466), Prob: 0.0001
+Token: ' perhaps' (ID: 8365), Prob: 0.0001
+Token: ' colonization' (ID: 95453), Prob: 0.0001
+Token: ' land' (ID: 4268), Prob: 0.0001
+Token: ' one' (ID: 825), Prob: 0.0001
+Token: ' conditions' (ID: 4682), Prob: 0.0001
+Token: ' possesses' (ID: 49226), Prob: 0.0001
+Token: ' eventually' (ID: 9583), Prob: 0.0001
+Token: ' scientists' (ID: 13923), Prob: 0.0001
+Token: ' also' (ID: 1083), Prob: 0.0001
+Token: ' maybe' (ID: 7196), Prob: 0.0001
+Token: ' poses' (ID: 33003), Prob: 0.0001
+Token: ' currently' (ID: 5023), Prob: 0.0001
+Token: ' hosts' (ID: 18432), Prob: 0.0001
+Token: ' belongs' (ID: 17180), Prob: 0.0001
+Token: ' Environment' (ID: 11586), Prob: 0.0001
+Token: ' continues' (ID: 9539), Prob: 0.0001
+Token: ' ecosystem' (ID: 24982), Prob: 0.0001
+Token: ' agriculture' (ID: 28929), Prob: 0.0001
+Token: ' Colony' (ID: 81846), Prob: 0.0001
+Token: ' science' (ID: 8038), Prob: 0.0000
+Token: ' life' (ID: 2272), Prob: 0.0000
+Token: ' stands' (ID: 13352), Prob: 0.0000
+Token: ' orbit' (ID: 26507), Prob: 0.0000
+Token: ' war' (ID: 4116), Prob: 0.0000
+Token: ' climate' (ID: 9977), Prob: 0.0000
+Token: ' Prime' (ID: 12518), Prob: 0.0000
+Token: ' atmosphere' (ID: 16566), Prob: 0.0000
+Token: ' plans' (ID: 6649), Prob: 0.0000
+Token: ' Soil' (ID: 75519), Prob: 0.0000
+Token: ' today' (ID: 3351), Prob: 0.0000
+
+== Ranked Concepts (Clusters) ==
+Rank 1 | Concept Score: 0.5781
+  Tokens: [' may', ' could', ' might', ' must', ' would', ' cannot', ' May']
+Rank 2 | Concept Score: 0.0036
+  Tokens: [' contains', ' holds', ' lacks', ' offers', ' provides', ' supports', ' presents', ' carries', ' possesses', ' poses', ' belongs', ' continues', ' stands']
+Rank 3 | Concept Score: 0.0028
+  Tokens: [' Earth', ' Mars', ' planet', ' orbit']
+Rank 4 | Concept Score: 0.0017
+  Tokens: [' needs', ' requires']
+Rank 5 | Concept Score: 0.0012
+  Tokens: [' already', ' still', ' also', ' currently']
+Rank 6 | Concept Score: 0.0011
+  Tokens: [' probably', ' likely', ' possibly', ' perhaps', ' maybe']
+Rank 7 | Concept Score: 0.0009
+  Tokens: [' soil', ' land', ' agriculture', ' Soil']
+Rank 8 | Concept Score: 0.0005
+  Tokens: [' environment', ' Environment', ' ecosystem', ' climate', ' atmosphere']
+Rank 9 | Concept Score: 0.0004
+  Tokens: [' surface', ' one', ' life', ' war']
+Rank 10 | Concept Score: 0.0002
+  Tokens: [' soon', ' eventually']
+Rank 11 | Concept Score: 0.0002
+  Tokens: [' harb', ' hosts']
+Rank 12 | Concept Score: 0.0002
+  Tokens: [' colonization', ' Colony']
+Rank 13 | Concept Score: 0.0001
+  Tokens: [' scientists', ' science']
+Rank 14 | Concept Score: 0.0001
+  Tokens: [' conditions']
+Rank 15 | Concept Score: 0.0000
+  Tokens: [' Prime']
+Rank 16 | Concept Score: 0.0000
+  Tokens: [' plans']
+Rank 17 | Concept Score: 0.0000
+  Tokens: [' today']
+
+**Chosen Concept:** Rank 1 with score 0.5781

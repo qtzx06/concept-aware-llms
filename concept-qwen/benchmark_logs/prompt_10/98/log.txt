@@ -1,0 +1,97 @@
+--- Step 98 Log ---
+
+== Filtered Candidates ==
+Token: ' nineteen' (ID: 93835), Prob: 0.9453
+Token: ' eighteen' (ID: 62034), Prob: 0.0251
+Token: ' sixteen' (ID: 58039), Prob: 0.0082
+Token: ' nineteenth' (ID: 64989), Prob: 0.0056
+Token: ' seventeen' (ID: 81397), Prob: 0.0056
+Token: ' nine' (ID: 11627), Prob: 0.0049
+Token: ' fifteen' (ID: 36655), Prob: 0.0010
+Token: ' twenty' (ID: 17073), Prob: 0.0009
+Token: ' fourteen' (ID: 62260), Prob: 0.0004
+Token: ' ninete' (ID: 48742), Prob: 0.0004
+Token: ' thirteen' (ID: 60659), Prob: 0.0001
+Token: ' ninety' (ID: 77876), Prob: 0.0001
+Token: ' twelve' (ID: 29235), Prob: 0.0001
+Token: ' sevent' (ID: 21373), Prob: 0.0000
+Token: ' eleven' (ID: 44214), Prob: 0.0000
+Token: ' eight' (ID: 8063), Prob: 0.0000
+Token: ' fif' (ID: 11128), Prob: 0.0000
+Token: ' Nin' (ID: 26727), Prob: 0.0000
+Token: ' hundred' (ID: 7739), Prob: 0.0000
+Token: ' ten' (ID: 5779), Prob: 0.0000
+Token: ' two' (ID: 1378), Prob: 0.0000
+Token: ' singular' (ID: 33944), Prob: 0.0000
+Token: ' number' (ID: 1372), Prob: 0.0000
+Token: ' ninth' (ID: 42541), Prob: 0.0000
+Token: ' forty' (ID: 35398), Prob: 0.0000
+Token: ' thirty' (ID: 26127), Prob: 0.0000
+Token: ' twentieth' (ID: 61420), Prob: 0.0000
+Token: ' one' (ID: 825), Prob: 0.0000
+Token: ' ele' (ID: 10510), Prob: 0.0000
+Token: ' single' (ID: 3175), Prob: 0.0000
+Token: ' September' (ID: 6122), Prob: 0.0000
+Token: ' twenties' (ID: 96596), Prob: 0.0000
+Token: ' following' (ID: 2701), Prob: 0.0000
+Token: ' nin' (ID: 19550), Prob: 0.0000
+Token: ' negative' (ID: 8225), Prob: 0.0000
+Token: ' database' (ID: 4625), Prob: 0.0000
+Token: ' squ' (ID: 8167), Prob: 0.0000
+Token: ' fifty' (ID: 32417), Prob: 0.0000
+Token: ' feminine' (ID: 45184), Prob: 0.0000
+Token: ' market' (ID: 3081), Prob: 0.0000
+Token: ' Nine' (ID: 37066), Prob: 0.0000
+Token: ' squared' (ID: 52263), Prob: 0.0000
+Token: ' individual' (ID: 3842), Prob: 0.0000
+Token: ' four' (ID: 3040), Prob: 0.0000
+Token: ' variable' (ID: 3890), Prob: 0.0000
+Token: ' sum' (ID: 2629), Prob: 0.0000
+Token: ' several' (ID: 3807), Prob: 0.0000
+Token: 'nin' (ID: 78460), Prob: 0.0000
+Token: ' male' (ID: 8593), Prob: 0.0000
+Token: ' news' (ID: 3669), Prob: 0.0000
+Token: ' binary' (ID: 7868), Prob: 0.0000
+Token: '-nine' (ID: 85603), Prob: 0.0000
+Token: ' first' (ID: 1156), Prob: 0.0000
+Token: ' female' (ID: 8778), Prob: 0.0000
+Token: ' however' (ID: 4764), Prob: 0.0000
+Token: ' numbers' (ID: 5109), Prob: 0.0000
+Token: ' seven' (ID: 8094), Prob: 0.0000
+Token: ' seize' (ID: 49985), Prob: 0.0000
+
+== Ranked Concepts (Clusters) ==
+Rank 1 | Concept Score: 0.9844
+  Tokens: [' nineteen', ' eighteen', ' sixteen', ' seventeen', ' fifteen', ' fourteen', ' thirteen', ' twelve', ' eleven']
+Rank 2 | Concept Score: 0.0060
+  Tokens: [' nineteenth', ' ninete', ' sevent', ' fif', ' twentieth', ' twenties']
+Rank 3 | Concept Score: 0.0049
+  Tokens: [' nine', ' Nine', '-nine']
+Rank 4 | Concept Score: 0.0009
+  Tokens: [' twenty', ' ninety', ' hundred', ' ten', ' forty', ' thirty', ' fifty']
+Rank 5 | Concept Score: 0.0000
+  Tokens: [' eight', ' four', ' seven']
+Rank 6 | Concept Score: 0.0000
+  Tokens: [' Nin', ' nin', 'nin']
+Rank 7 | Concept Score: 0.0000
+  Tokens: [' two', ' one', ' following', ' sum', ' several']
+Rank 8 | Concept Score: 0.0000
+  Tokens: [' singular', ' single', ' individual']
+Rank 9 | Concept Score: 0.0000
+  Tokens: [' number', ' numbers']
+Rank 10 | Concept Score: 0.0000
+  Tokens: [' negative', ' database', ' market', ' variable', ' news', ' binary']
+Rank 11 | Concept Score: 0.0000
+  Tokens: [' ninth']
+Rank 12 | Concept Score: 0.0000
+  Tokens: [' ele', ' first']
+Rank 13 | Concept Score: 0.0000
+  Tokens: [' feminine', ' male', ' female']
+Rank 14 | Concept Score: 0.0000
+  Tokens: [' squ', ' squared']
+Rank 15 | Concept Score: 0.0000
+  Tokens: [' September']
+Rank 16 | Concept Score: 0.0000
+  Tokens: [' however', ' seize']
+
+**Chosen Concept:** Rank 1 with score 0.9844

@@ -1,0 +1,85 @@
+--- Step 133 Log ---
+
+== Filtered Candidates ==
+Token: ' displayed' (ID: 12596), Prob: 0.9922
+Token: ' shown' (ID: 6839), Prob: 0.0015
+Token: ' display' (ID: 3037), Prob: 0.0008
+Token: ' displaying' (ID: 27940), Prob: 0.0005
+Token: ' immediately' (ID: 7069), Prob: 0.0003
+Token: ' currently' (ID: 5023), Prob: 0.0001
+Token: ' represented' (ID: 15251), Prob: 0.0001
+Token: ' expressed' (ID: 13302), Prob: 0.0001
+Token: ' stored' (ID: 9768), Prob: 0.0001
+Token: ' already' (ID: 2669), Prob: 0.0000
+Token: ' listed' (ID: 10007), Prob: 0.0000
+Token: ' Display' (ID: 10623), Prob: 0.0000
+Token: ' directly' (ID: 5961), Prob: 0.0000
+Token: ' displaced' (ID: 48146), Prob: 0.0000
+Token: ' presented' (ID: 10449), Prob: 0.0000
+Token: ' initially' (ID: 15102), Prob: 0.0000
+Token: 'Displayed' (ID: 56447), Prob: 0.0000
+Token: ' spoken' (ID: 21355), Prob: 0.0000
+Token: ' calculated' (ID: 16588), Prob: 0.0000
+Token: ' displays' (ID: 18689), Prob: 0.0000
+Token: ' exhibited' (ID: 50613), Prob: 0.0000
+Token: ' visible' (ID: 9434), Prob: 0.0000
+Token: ' previously' (ID: 8597), Prob: 0.0000
+Token: ' printed' (ID: 16709), Prob: 0.0000
+Token: ' plotted' (ID: 67583), Prob: 0.0000
+Token: ' played' (ID: 6342), Prob: 0.0000
+Token: ' described' (ID: 7481), Prob: 0.0000
+Token: ' stated' (ID: 10982), Prob: 0.0000
+Token: ' labeled' (ID: 29829), Prob: 0.0000
+Token: ' drawn' (ID: 14764), Prob: 0.0000
+Token: ' depicted' (ID: 43794), Prob: 0.0000
+Token: '(display' (ID: 35199), Prob: 0.0000
+Token: ' illustrated' (ID: 35662), Prob: 0.0000
+Token: ' computed' (ID: 24182), Prob: 0.0000
+Token: ' written' (ID: 5326), Prob: 0.0000
+Token: ' located' (ID: 7407), Prob: 0.0000
+Token: ' diagram' (ID: 13549), Prob: 0.0000
+Token: ' otherwise' (ID: 5937), Prob: 0.0000
+Token: ' advertised' (ID: 45741), Prob: 0.0000
+Token: ' corresponding' (ID: 12159), Prob: 0.0000
+Token: ';display' (ID: 85565), Prob: 0.0000
+Token: ' read' (ID: 1349), Prob: 0.0000
+Token: ' viewed' (ID: 19334), Prob: 0.0000
+Token: ' time' (ID: 882), Prob: 0.0000
+
+== Ranked Concepts (Clusters) ==
+Rank 1 | Concept Score: 0.9922
+  Tokens: [' displayed', ' display', ' displaying', ' Display', 'Displayed', ' displays', ' exhibited', '(display']
+Rank 2 | Concept Score: 0.0015
+  Tokens: [' shown', ' depicted', ' illustrated']
+Rank 3 | Concept Score: 0.0003
+  Tokens: [' immediately', ' directly']
+Rank 4 | Concept Score: 0.0002
+  Tokens: [' currently', ' already', ' initially', ' previously']
+Rank 5 | Concept Score: 0.0001
+  Tokens: [' expressed', ' stored']
+Rank 6 | Concept Score: 0.0001
+  Tokens: [' represented', ' presented']
+Rank 7 | Concept Score: 0.0001
+  Tokens: [' listed', ' described', ' stated', ' advertised']
+Rank 8 | Concept Score: 0.0001
+  Tokens: [' spoken', ' printed', ' written']
+Rank 9 | Concept Score: 0.0000
+  Tokens: [' displaced', ';display']
+Rank 10 | Concept Score: 0.0000
+  Tokens: [' plotted', ' drawn', ' diagram']
+Rank 11 | Concept Score: 0.0000
+  Tokens: [' calculated', ' computed']
+Rank 12 | Concept Score: 0.0000
+  Tokens: [' played', ' viewed']
+Rank 13 | Concept Score: 0.0000
+  Tokens: [' visible']
+Rank 14 | Concept Score: 0.0000
+  Tokens: [' located', ' corresponding']
+Rank 15 | Concept Score: 0.0000
+  Tokens: [' read', ' time']
+Rank 16 | Concept Score: 0.0000
+  Tokens: [' labeled']
+Rank 17 | Concept Score: 0.0000
+  Tokens: [' otherwise']
+
+**Chosen Concept:** Rank 1 with score 0.9922

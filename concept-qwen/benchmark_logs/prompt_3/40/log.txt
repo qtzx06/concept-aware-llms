@@ -1,0 +1,96 @@
+--- Step 40 Log ---
+
+== Filtered Candidates ==
+Token: ' payments' (ID: 14173), Prob: 0.9844
+Token: ' payment' (ID: 8160), Prob: 0.0012
+Token: ' money' (ID: 3220), Prob: 0.0005
+Token: ' sure' (ID: 2704), Prob: 0.0003
+Token: ' full' (ID: 2480), Prob: 0.0003
+Token: ' regular' (ID: 5792), Prob: 0.0002
+Token: ' monthly' (ID: 15088), Prob: 0.0001
+Token: ' paid' (ID: 7171), Prob: 0.0001
+Token: 'payments' (ID: 63043), Prob: 0.0001
+Token: ' pay' (ID: 2291), Prob: 0.0001
+Token: ' certain' (ID: 3654), Prob: 0.0001
+Token: ' Payments' (ID: 57876), Prob: 0.0001
+Token: ' partial' (ID: 7130), Prob: 0.0001
+Token: ' cash' (ID: 8350), Prob: 0.0001
+Token: ' repay' (ID: 53338), Prob: 0.0000
+Token: ' direct' (ID: 2118), Prob: 0.0000
+Token: ' withdrawals' (ID: 85204), Prob: 0.0000
+Token: ' purchases' (ID: 23491), Prob: 0.0000
+Token: ' new' (ID: 501), Prob: 0.0000
+Token: ' calls' (ID: 6738), Prob: 0.0000
+Token: ' weekly' (ID: 17059), Prob: 0.0000
+Token: ' payouts' (ID: 89529), Prob: 0.0000
+Token: ' future' (ID: 3853), Prob: 0.0000
+Token: ' higher' (ID: 5080), Prob: 0.0000
+Token: ' larger' (ID: 8131), Prob: 0.0000
+Token: ' paying' (ID: 12515), Prob: 0.0000
+Token: ' transactions' (ID: 14131), Prob: 0.0000
+Token: ' part' (ID: 949), Prob: 0.0000
+Token: ' possible' (ID: 3204), Prob: 0.0000
+Token: ' changes' (ID: 4344), Prob: 0.0000
+Token: ' financial' (ID: 5896), Prob: 0.0000
+Token: ' repairs' (ID: 30186), Prob: 0.0000
+Token: ' parts' (ID: 5479), Prob: 0.0000
+Token: 'Payments' (ID: 87646), Prob: 0.0000
+Token: ' additional' (ID: 5107), Prob: 0.0000
+Token: ' adjustments' (ID: 32974), Prob: 0.0000
+Token: ' people' (ID: 1251), Prob: 0.0000
+Token: ' current' (ID: 1482), Prob: 0.0000
+Token: ' voluntary' (ID: 35979), Prob: 0.0000
+Token: ' real' (ID: 1931), Prob: 0.0000
+Token: ' daily' (ID: 7298), Prob: 0.0000
+Token: ' annual' (ID: 9775), Prob: 0.0000
+Token: ' contributions' (ID: 19026), Prob: 0.0000
+Token: ' another' (ID: 2441), Prob: 0.0000
+Token: ' something' (ID: 2494), Prob: 0.0000
+Token: ' actual' (ID: 5042), Prob: 0.0000
+Token: ' funds' (ID: 10514), Prob: 0.0000
+Token: ' deposits' (ID: 33651), Prob: 0.0000
+Token: ' emissions' (ID: 20143), Prob: 0.0000
+Token: ' straight' (ID: 7678), Prob: 0.0000
+Token: ' continued' (ID: 8570), Prob: 0.0000
+Token: ' periodic' (ID: 38345), Prob: 0.0000
+Token: ' quarterly' (ID: 50434), Prob: 0.0000
+Token: ' replacements' (ID: 53055), Prob: 0.0000
+Token: ' terms' (ID: 3793), Prob: 0.0000
+
+== Ranked Concepts (Clusters) ==
+Rank 1 | Concept Score: 0.9844
+  Tokens: [' payments', ' payment', ' paid', 'payments', ' pay', ' Payments', ' repay', ' payouts', ' paying', 'Payments']
+Rank 2 | Concept Score: 0.0006
+  Tokens: [' money', ' cash', ' financial', ' funds']
+Rank 3 | Concept Score: 0.0004
+  Tokens: [' regular', ' monthly', ' weekly', ' daily', ' annual', ' periodic', ' quarterly']
+Rank 4 | Concept Score: 0.0003
+  Tokens: [' sure', ' certain']
+Rank 5 | Concept Score: 0.0003
+  Tokens: [' full', ' partial']
+Rank 6 | Concept Score: 0.0001
+  Tokens: [' withdrawals', ' purchases', ' transactions', ' repairs', ' deposits']
+Rank 7 | Concept Score: 0.0001
+  Tokens: [' calls', ' changes', ' adjustments', ' contributions', ' emissions', ' replacements']
+Rank 8 | Concept Score: 0.0001
+  Tokens: [' new', ' future', ' current']
+Rank 9 | Concept Score: 0.0001
+  Tokens: [' higher', ' larger']
+Rank 10 | Concept Score: 0.0001
+  Tokens: [' direct', ' straight']
+Rank 11 | Concept Score: 0.0000
+  Tokens: [' part', ' parts']
+Rank 12 | Concept Score: 0.0000
+  Tokens: [' possible', ' people']
+Rank 13 | Concept Score: 0.0000
+  Tokens: [' additional', ' continued']
+Rank 14 | Concept Score: 0.0000
+  Tokens: [' real', ' actual']
+Rank 15 | Concept Score: 0.0000
+  Tokens: [' another', ' something']
+Rank 16 | Concept Score: 0.0000
+  Tokens: [' voluntary']
+Rank 17 | Concept Score: 0.0000
+  Tokens: [' terms']
+
+**Chosen Concept:** Rank 1 with score 0.9844

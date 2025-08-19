@@ -1,0 +1,99 @@
+--- Step 5 Log ---
+
+== Filtered Candidates ==
+Token: 'storm' (ID: 26413), Prob: 0.0127
+Token: ' begins' (ID: 12033), Prob: 0.0099
+Token: ' may' (ID: 1231), Prob: 0.0077
+Token: ' might' (ID: 2578), Prob: 0.0068
+Token: ' began' (ID: 6009), Prob: 0.0068
+Token: ' comes' (ID: 4041), Prob: 0.0060
+Token: 'ing' (ID: 287), Prob: 0.0056
+Token: 'ball' (ID: 3959), Prob: 0.0047
+Token: ' melts' (ID: 98091), Prob: 0.0044
+Token: ' storm' (ID: 13458), Prob: 0.0041
+Token: ' falls' (ID: 17066), Prob: 0.0041
+Token: 'storms' (ID: 82009), Prob: 0.0041
+Token: ' continues' (ID: 9539), Prob: 0.0036
+Token: 'fall' (ID: 13464), Prob: 0.0034
+Token: ' starts' (ID: 8471), Prob: 0.0032
+Token: ' season' (ID: 3200), Prob: 0.0030
+Token: ' seems' (ID: 4977), Prob: 0.0030
+Token: ' days' (ID: 2849), Prob: 0.0028
+Token: ' effects' (ID: 6239), Prob: 0.0027
+Token: ' could' (ID: 1410), Prob: 0.0025
+Token: 'man' (ID: 1515), Prob: 0.0025
+Token: ' must' (ID: 1969), Prob: 0.0023
+Token: ' gets' (ID: 5221), Prob: 0.0023
+Token: ' makes' (ID: 3643), Prob: 0.0022
+Token: ' needs' (ID: 3880), Prob: 0.0022
+Token: ' started' (ID: 3855), Prob: 0.0021
+Token: ' storms' (ID: 43483), Prob: 0.0021
+Token: ' came' (ID: 3697), Prob: 0.0017
+Token: ' really' (ID: 2167), Prob: 0.0015
+Token: ' suddenly' (ID: 14843), Prob: 0.0015
+Token: ' becomes' (ID: 9044), Prob: 0.0014
+Token: ' still' (ID: 2058), Prob: 0.0013
+Token: ' eventually' (ID: 9583), Prob: 0.0012
+Token: 'balls' (ID: 45518), Prob: 0.0012
+Token: ' fell' (ID: 11052), Prob: 0.0011
+Token: ' flurry' (ID: 87463), Prob: 0.0011
+Token: ' cannot' (ID: 4157), Prob: 0.0010
+Token: ' weather' (ID: 9104), Prob: 0.0010
+Token: ' game' (ID: 1809), Prob: 0.0010
+Token: ' outside' (ID: 4889), Prob: 0.0010
+Token: ' magic' (ID: 10963), Prob: 0.0010
+Token: ' continued' (ID: 8570), Prob: 0.0009
+Token: ' never' (ID: 2581), Prob: 0.0009
+Token: ' day' (ID: 1899), Prob: 0.0008
+Token: 'men' (ID: 5676), Prob: 0.0008
+Token: ' wants' (ID: 6801), Prob: 0.0008
+Token: ' keeps' (ID: 13598), Prob: 0.0008
+Token: ' feels' (ID: 11074), Prob: 0.0008
+Token: ' brings' (ID: 12434), Prob: 0.0007
+Token: ' covers' (ID: 14521), Prob: 0.0007
+Token: ' got' (ID: 2684), Prob: 0.0006
+Token: ' soon' (ID: 5135), Prob: 0.0006
+Token: 'pack' (ID: 4748), Prob: 0.0006
+Token: 'bound' (ID: 10891), Prob: 0.0006
+Token: ' events' (ID: 4357), Prob: 0.0006
+Token: ' coming' (ID: 5001), Prob: 0.0006
+Token: ' stopped' (ID: 10497), Prob: 0.0006
+Token: ' would' (ID: 1035), Prob: 0.0005
+Token: ' man' (ID: 883), Prob: 0.0005
+Token: ' effect' (ID: 2456), Prob: 0.0005
+Token: ' cover' (ID: 3421), Prob: 0.0005
+Token: ' quickly' (ID: 6157), Prob: 0.0005
+Token: ' fall' (ID: 4399), Prob: 0.0004
+Token: ' recently' (ID: 5926), Prob: 0.0004
+
+== Ranked Concepts (Clusters) ==
+Rank 1 | Concept Score: 0.0282
+  Tokens: ['storm', ' storm', 'storms', ' season', ' storms', ' flurry', ' weather']
+Rank 2 | Concept Score: 0.0225
+  Tokens: [' begins', ' began', ' starts', ' started', ' stopped']
+Rank 3 | Concept Score: 0.0209
+  Tokens: [' may', ' might', ' could', ' must', ' cannot', ' would']
+Rank 4 | Concept Score: 0.0143
+  Tokens: [' seems', ' gets', ' makes', ' needs', ' becomes', ' wants', ' keeps', ' feels', ' brings']
+Rank 5 | Concept Score: 0.0112
+  Tokens: ['ing', ' days', ' game', ' outside', ' day']
+Rank 6 | Concept Score: 0.0090
+  Tokens: [' falls', 'fall', ' fell', ' fall']
+Rank 7 | Concept Score: 0.0089
+  Tokens: [' comes', ' came', ' got', ' coming']
+Rank 8 | Concept Score: 0.0070
+  Tokens: ['ball', 'balls', 'pack', 'bound']
+Rank 9 | Concept Score: 0.0066
+  Tokens: [' really', ' suddenly', ' eventually', ' never', ' soon', ' quickly', ' recently']
+Rank 10 | Concept Score: 0.0059
+  Tokens: [' continues', ' still', ' continued']
+Rank 11 | Concept Score: 0.0046
+  Tokens: [' effects', ' magic', ' events', ' effect']
+Rank 12 | Concept Score: 0.0044
+  Tokens: [' melts']
+Rank 13 | Concept Score: 0.0038
+  Tokens: ['man', 'men', ' man']
+Rank 14 | Concept Score: 0.0011
+  Tokens: [' covers', ' cover']
+
+**Chosen Concept:** Rank 1 with score 0.0282

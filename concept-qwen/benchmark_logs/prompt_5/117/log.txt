@@ -1,0 +1,85 @@
+--- Step 117 Log ---
+
+== Filtered Candidates ==
+Token: ' must' (ID: 1969), Prob: 0.9531
+Token: ' needs' (ID: 3880), Prob: 0.0022
+Token: ' cannot' (ID: 4157), Prob: 0.0022
+Token: ' flies' (ID: 37104), Prob: 0.0014
+Token: ' arrives' (ID: 29682), Prob: 0.0006
+Token: ' would' (ID: 1035), Prob: 0.0004
+Token: ' may' (ID: 1231), Prob: 0.0004
+Token: ' could' (ID: 1410), Prob: 0.0004
+Token: ' meets' (ID: 20027), Prob: 0.0002
+Token: ' never' (ID: 2581), Prob: 0.0002
+Token: ' travels' (ID: 34192), Prob: 0.0001
+Token: ' always' (ID: 2677), Prob: 0.0001
+Token: ' immediately' (ID: 7069), Prob: 0.0001
+Token: ' moves' (ID: 10797), Prob: 0.0001
+Token: ' receives' (ID: 21189), Prob: 0.0001
+Token: ' ends' (ID: 10335), Prob: 0.0001
+Token: ' leaves' (ID: 10901), Prob: 0.0001
+Token: ' makes' (ID: 3643), Prob: 0.0001
+Token: ' knows' (ID: 8788), Prob: 0.0001
+Token: ' might' (ID: 2578), Prob: 0.0001
+Token: ' begins' (ID: 12033), Prob: 0.0001
+Token: ' faces' (ID: 12300), Prob: 0.0001
+Token: ' wants' (ID: 6801), Prob: 0.0001
+Token: ' returns' (ID: 4675), Prob: 0.0001
+Token: ' fly' (ID: 11466), Prob: 0.0001
+Token: ' takes' (ID: 4990), Prob: 0.0001
+Token: ' goes' (ID: 5780), Prob: 0.0001
+Token: ' uses' (ID: 5711), Prob: 0.0001
+Token: ' therefore' (ID: 8916), Prob: 0.0001
+Token: ' decides' (ID: 27627), Prob: 0.0001
+Token: ' also' (ID: 1083), Prob: 0.0000
+Token: ' finally' (ID: 5499), Prob: 0.0000
+Token: ' spends' (ID: 37102), Prob: 0.0000
+Token: ' stays' (ID: 26558), Prob: 0.0000
+Token: ' exactly' (ID: 6896), Prob: 0.0000
+Token: ' flying' (ID: 16307), Prob: 0.0000
+Token: ' requires' (ID: 7460), Prob: 0.0000
+Token: ' becomes' (ID: 9044), Prob: 0.0000
+Token: ' flew' (ID: 31022), Prob: 0.0000
+Token: ' follows' (ID: 11017), Prob: 0.0000
+Token: ' lands' (ID: 11835), Prob: 0.0000
+Token: ' flights' (ID: 24908), Prob: 0.0000
+Token: ' comes' (ID: 4041), Prob: 0.0000
+Token: ' gets' (ID: 5221), Prob: 0.0000
+Token: ' flight' (ID: 10971), Prob: 0.0000
+Token: ' assumes' (ID: 21484), Prob: 0.0000
+Token: ' thus' (ID: 8450), Prob: 0.0000
+Token: ' starts' (ID: 8471), Prob: 0.0000
+Token: ' remains' (ID: 8458), Prob: 0.0000
+Token: ' realizes' (ID: 51594), Prob: 0.0000
+
+== Ranked Concepts (Clusters) ==
+Rank 1 | Concept Score: 0.9570
+  Tokens: [' must', ' cannot', ' would', ' may', ' could', ' might']
+Rank 2 | Concept Score: 0.0024
+  Tokens: [' needs', ' wants', ' uses', ' requires']
+Rank 3 | Concept Score: 0.0016
+  Tokens: [' flies', ' fly', ' flying', ' flew', ' flights', ' flight']
+Rank 4 | Concept Score: 0.0008
+  Tokens: [' arrives', ' receives', ' takes', ' gets', ' assumes']
+Rank 5 | Concept Score: 0.0004
+  Tokens: [' never', ' always', ' also', ' finally']
+Rank 6 | Concept Score: 0.0003
+  Tokens: [' meets', ' returns']
+Rank 7 | Concept Score: 0.0003
+  Tokens: [' travels', ' moves']
+Rank 8 | Concept Score: 0.0002
+  Tokens: [' makes', ' goes', ' becomes', ' follows', ' comes']
+Rank 9 | Concept Score: 0.0002
+  Tokens: [' knows', ' decides', ' spends', ' realizes']
+Rank 10 | Concept Score: 0.0002
+  Tokens: [' leaves', ' faces', ' lands']
+Rank 11 | Concept Score: 0.0002
+  Tokens: [' ends', ' begins', ' starts']
+Rank 12 | Concept Score: 0.0002
+  Tokens: [' immediately', ' exactly']
+Rank 13 | Concept Score: 0.0001
+  Tokens: [' therefore', ' thus']
+Rank 14 | Concept Score: 0.0001
+  Tokens: [' stays', ' remains']
+
+**Chosen Concept:** Rank 1 with score 0.9570

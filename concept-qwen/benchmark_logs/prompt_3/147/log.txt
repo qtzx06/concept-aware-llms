@@ -1,0 +1,78 @@
+--- Step 147 Log ---
+
+== Filtered Candidates ==
+Token: ' everything' (ID: 4297), Prob: 1.0000
+Token: ' everyone' (ID: 5019), Prob: 0.0002
+Token: 'everything' (ID: 72726), Prob: 0.0001
+Token: ' Everything' (ID: 20094), Prob: 0.0001
+Token: ' things' (ID: 2513), Prob: 0.0000
+Token: ' nothing' (ID: 4302), Prob: 0.0000
+Token: ' every' (ID: 1449), Prob: 0.0000
+Token: ' something' (ID: 2494), Prob: 0.0000
+Token: ' everywhere' (ID: 16852), Prob: 0.0000
+Token: 'Everything' (ID: 34964), Prob: 0.0000
+Token: ' anything' (ID: 4113), Prob: 0.0000
+Token: ' otherwise' (ID: 5937), Prob: 0.0000
+Token: ' throughout' (ID: 6814), Prob: 0.0000
+Token: ' tudo' (ID: 55696), Prob: 0.0000
+Token: ' completely' (ID: 6587), Prob: 0.0000
+Token: ' etc' (ID: 4992), Prob: 0.0000
+Token: ' everybody' (ID: 16083), Prob: 0.0000
+Token: ' absolutely' (ID: 10875), Prob: 0.0000
+Token: ' alles' (ID: 35951), Prob: 0.0000
+Token: ' except' (ID: 3650), Prob: 0.0000
+Token: ' exactly' (ID: 6896), Prob: 0.0000
+Token: ' entirely' (ID: 11368), Prob: 0.0000
+Token: ' whatever' (ID: 8820), Prob: 0.0000
+Token: ' EVERY' (ID: 44874), Prob: 0.0000
+Token: ' unless' (ID: 7241), Prob: 0.0000
+Token: ' overall' (ID: 8084), Prob: 0.0000
+Token: ' entire' (ID: 4453), Prob: 0.0000
+Token: ' altogether' (ID: 30055), Prob: 0.0000
+Token: ' also' (ID: 1083), Prob: 0.0000
+Token: ' however' (ID: 4764), Prob: 0.0000
+Token: ' whenever' (ID: 15356), Prob: 0.0000
+Token: ' everyday' (ID: 17778), Prob: 0.0000
+Token: ' according' (ID: 4092), Prob: 0.0000
+Token: ' without' (ID: 2041), Prob: 0.0000
+Token: ' ever' (ID: 3512), Prob: 0.0000
+Token: 'everyone' (ID: 91957), Prob: 0.0000
+Token: ' always' (ID: 2677), Prob: 0.0000
+
+== Ranked Concepts (Clusters) ==
+Rank 1 | Concept Score: 1.0000
+  Tokens: [' everything', 'everything', ' Everything', 'Everything', ' tudo', ' alles']
+Rank 2 | Concept Score: 0.0002
+  Tokens: [' everyone', ' everybody', 'everyone']
+Rank 3 | Concept Score: 0.0001
+  Tokens: [' things', ' nothing', ' something', ' anything', ' whatever']
+Rank 4 | Concept Score: 0.0000
+  Tokens: [' every', ' everywhere', ' EVERY']
+Rank 5 | Concept Score: 0.0000
+  Tokens: [' otherwise']
+Rank 6 | Concept Score: 0.0000
+  Tokens: [' completely', ' entirely', ' altogether']
+Rank 7 | Concept Score: 0.0000
+  Tokens: [' throughout']
+Rank 8 | Concept Score: 0.0000
+  Tokens: [' absolutely', ' exactly']
+Rank 9 | Concept Score: 0.0000
+  Tokens: [' etc']
+Rank 10 | Concept Score: 0.0000
+  Tokens: [' except', ' unless']
+Rank 11 | Concept Score: 0.0000
+  Tokens: [' overall', ' entire']
+Rank 12 | Concept Score: 0.0000
+  Tokens: [' according', ' without']
+Rank 13 | Concept Score: 0.0000
+  Tokens: [' ever', ' always']
+Rank 14 | Concept Score: 0.0000
+  Tokens: [' also']
+Rank 15 | Concept Score: 0.0000
+  Tokens: [' however']
+Rank 16 | Concept Score: 0.0000
+  Tokens: [' whenever']
+Rank 17 | Concept Score: 0.0000
+  Tokens: [' everyday']
+
+**Chosen Concept:** Rank 1 with score 1.0000

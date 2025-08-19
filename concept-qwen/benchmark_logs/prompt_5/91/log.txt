@@ -1,0 +1,131 @@
+--- Step 91 Log ---
+
+== Filtered Candidates ==
+Token: ' destination' (ID: 9106), Prob: 0.9609
+Token: ' time' (ID: 882), Prob: 0.0107
+Token: ' next' (ID: 1790), Prob: 0.0024
+Token: ' location' (ID: 3728), Prob: 0.0013
+Token: ' exact' (ID: 4734), Prob: 0.0008
+Token: ' correct' (ID: 4396), Prob: 0.0006
+Token: ' following' (ID: 2701), Prob: 0.0006
+Token: ' current' (ID: 1482), Prob: 0.0005
+Token: ' original' (ID: 4024), Prob: 0.0003
+Token: ' new' (ID: 501), Prob: 0.0003
+Token: ' one' (ID: 825), Prob: 0.0003
+Token: ' first' (ID: 1156), Prob: 0.0002
+Token: ' point' (ID: 1459), Prob: 0.0002
+Token: ' place' (ID: 1992), Prob: 0.0002
+Token: ' target' (ID: 2169), Prob: 0.0002
+Token: ' previous' (ID: 3681), Prob: 0.0002
+Token: ' source' (ID: 2530), Prob: 0.0002
+Token: ' origin' (ID: 6238), Prob: 0.0002
+Token: ' position' (ID: 2309), Prob: 0.0002
+Token: ' date' (ID: 2400), Prob: 0.0002
+Token: ' zone' (ID: 10143), Prob: 0.0002
+Token: ' end' (ID: 835), Prob: 0.0002
+Token: ' desired' (ID: 12685), Prob: 0.0002
+Token: ' purpose' (ID: 7428), Prob: 0.0002
+Token: ' immediate' (ID: 13922), Prob: 0.0001
+Token: ' nearest' (ID: 23480), Prob: 0.0001
+Token: ' second' (ID: 2086), Prob: 0.0001
+Token: ' final' (ID: 1590), Prob: 0.0001
+Token: ' hour' (ID: 6460), Prob: 0.0001
+Token: ' future' (ID: 3853), Prob: 0.0001
+Token: ' arrival' (ID: 18647), Prob: 0.0001
+Token: ' opposite' (ID: 14002), Prob: 0.0001
+Token: ' two' (ID: 1378), Prob: 0.0001
+Token: ' city' (ID: 3283), Prob: 0.0001
+Token: ' region' (ID: 5537), Prob: 0.0001
+Token: 'destination' (ID: 17997), Prob: 0.0001
+Token: ' direct' (ID: 2118), Prob: 0.0001
+Token: ' present' (ID: 3042), Prob: 0.0001
+Token: ' dest' (ID: 3201), Prob: 0.0001
+Token: ' airport' (ID: 16733), Prob: 0.0001
+Token: ' destinations' (ID: 33105), Prob: 0.0001
+Token: '(destination' (ID: 48076), Prob: 0.0001
+Token: ' actual' (ID: 5042), Prob: 0.0001
+Token: ' beginning' (ID: 7167), Prob: 0.0001
+Token: ' intended' (ID: 10602), Prob: 0.0001
+Token: ' specific' (ID: 3151), Prob: 0.0001
+Token: ' home' (ID: 2114), Prob: 0.0000
+Token: ' direction' (ID: 5106), Prob: 0.0000
+Token: ' landing' (ID: 20327), Prob: 0.0000
+Token: ' closest' (ID: 18093), Prob: 0.0000
+Token: ' starting' (ID: 5916), Prob: 0.0000
+Token: ' flight' (ID: 10971), Prob: 0.0000
+Token: ' corresponding' (ID: 12159), Prob: 0.0000
+Token: ' center' (ID: 4126), Prob: 0.0000
+Token: ' start' (ID: 1191), Prob: 0.0000
+Token: ' last' (ID: 1537), Prob: 0.0000
+Token: ' latest' (ID: 5535), Prob: 0.0000
+Token: ' distance' (ID: 6010), Prob: 0.0000
+Token: ' clock' (ID: 8866), Prob: 0.0000
+Token: ' timezone' (ID: 33957), Prob: 0.0000
+Token: ' Destination' (ID: 41728), Prob: 0.0000
+Token: ' third' (ID: 4843), Prob: 0.0000
+Token: ' appropriate' (ID: 8311), Prob: 0.0000
+Token: ' front' (ID: 4065), Prob: 0.0000
+Token: ' existing' (ID: 6350), Prob: 0.0000
+Token: ' adjacent' (ID: 23942), Prob: 0.0000
+Token: ' departure' (ID: 24915), Prob: 0.0000
+Token: ' neighboring' (ID: 41517), Prob: 0.0000
+Token: ' moment' (ID: 4445), Prob: 0.0000
+Token: ' exactly' (ID: 6896), Prob: 0.0000
+Token: ' respective' (ID: 19511), Prob: 0.0000
+Token: ' right' (ID: 1290), Prob: 0.0000
+Token: ' earliest' (ID: 29658), Prob: 0.0000
+Token: ' destiny' (ID: 46076), Prob: 0.0000
+Token: ' three' (ID: 2326), Prob: 0.0000
+Token: ' different' (ID: 2155), Prob: 0.0000
+Token: ' past' (ID: 3267), Prob: 0.0000
+Token: ' designated' (ID: 23195), Prob: 0.0000
+Token: ' instant' (ID: 9690), Prob: 0.0000
+Token: ' destin' (ID: 50987), Prob: 0.0000
+Token: ' goal' (ID: 5795), Prob: 0.0000
+Token: ' directly' (ID: 5961), Prob: 0.0000
+Token: ' maximum' (ID: 7192), Prob: 0.0000
+Token: ' station' (ID: 8056), Prob: 0.0000
+Token: '.destination' (ID: 35018), Prob: 0.0000
+Token: ' immediately' (ID: 7069), Prob: 0.0000
+Token: ' east' (ID: 10984), Prob: 0.0000
+Token: ' entire' (ID: 4453), Prob: 0.0000
+
+== Ranked Concepts (Clusters) ==
+Rank 1 | Concept Score: 0.9609
+  Tokens: [' destination', 'destination', ' dest', ' destinations', '(destination', ' Destination', ' destiny', ' destin', '.destination']
+Rank 2 | Concept Score: 0.0110
+  Tokens: [' time', ' date', ' hour', ' clock', ' timezone', ' moment']
+Rank 3 | Concept Score: 0.0024
+  Tokens: [' next', ' front']
+Rank 4 | Concept Score: 0.0022
+  Tokens: [' location', ' point', ' place', ' position', ' region', ' home', ' direction', ' center', ' distance']
+Rank 5 | Concept Score: 0.0012
+  Tokens: [' current', ' new', ' previous', ' future', ' present', ' existing', ' past']
+Rank 6 | Concept Score: 0.0011
+  Tokens: [' exact', ' immediate', ' direct', ' exactly', ' instant', ' directly', ' immediately']
+Rank 7 | Concept Score: 0.0008
+  Tokens: [' correct', ' corresponding', ' appropriate', ' respective', ' different', ' designated']
+Rank 8 | Concept Score: 0.0008
+  Tokens: [' one', ' first', ' second', ' two', ' third', ' three']
+Rank 9 | Concept Score: 0.0006
+  Tokens: [' target', ' desired', ' purpose', ' intended', ' goal']
+Rank 10 | Concept Score: 0.0006
+  Tokens: [' following', ' right']
+Rank 11 | Concept Score: 0.0004
+  Tokens: [' original', ' actual', ' specific', ' entire']
+Rank 12 | Concept Score: 0.0004
+  Tokens: [' source', ' origin']
+Rank 13 | Concept Score: 0.0003
+  Tokens: [' zone', ' city', ' station', ' east']
+Rank 14 | Concept Score: 0.0003
+  Tokens: [' end', ' beginning', ' starting', ' start']
+Rank 15 | Concept Score: 0.0003
+  Tokens: [' arrival', ' airport', ' landing', ' flight', ' departure']
+Rank 16 | Concept Score: 0.0003
+  Tokens: [' nearest', ' closest', ' latest', ' earliest', ' maximum']
+Rank 17 | Concept Score: 0.0001
+  Tokens: [' opposite', ' adjacent', ' neighboring']
+Rank 18 | Concept Score: 0.0001
+  Tokens: [' final', ' last']
+
+**Chosen Concept:** Rank 1 with score 0.9609

@@ -1,0 +1,126 @@
+--- Step 81 Log ---
+
+== Filtered Candidates ==
+Token: ' feel' (ID: 2666), Prob: 0.9961
+Token: ' feeling' (ID: 8266), Prob: 0.0003
+Token: ' find' (ID: 1477), Prob: 0.0002
+Token: ' feelings' (ID: 15650), Prob: 0.0001
+Token: ' sense' (ID: 5530), Prob: 0.0001
+Token: ' felt' (ID: 6476), Prob: 0.0001
+Token: ' experience' (ID: 3139), Prob: 0.0001
+Token: ' feels' (ID: 11074), Prob: 0.0001
+Token: ' also' (ID: 1083), Prob: 0.0001
+Token: ' get' (ID: 633), Prob: 0.0000
+Token: ' even' (ID: 1496), Prob: 0.0000
+Token: ' seem' (ID: 2803), Prob: 0.0000
+Token: ' still' (ID: 2058), Prob: 0.0000
+Token: ' develop' (ID: 2225), Prob: 0.0000
+Token: ' Feel' (ID: 31733), Prob: 0.0000
+Token: ' express' (ID: 3158), Prob: 0.0000
+Token: ' respond' (ID: 5889), Prob: 0.0000
+Token: ' need' (ID: 1184), Prob: 0.0000
+Token: 'feel' (ID: 56576), Prob: 0.0000
+Token: ' sometimes' (ID: 7025), Prob: 0.0000
+Token: ' show' (ID: 1473), Prob: 0.0000
+Token: ' see' (ID: 1490), Prob: 0.0000
+Token: ' take' (ID: 1896), Prob: 0.0000
+Token: ' start' (ID: 1191), Prob: 0.0000
+Token: ' perceive' (ID: 44393), Prob: 0.0000
+Token: ' behave' (ID: 35692), Prob: 0.0000
+Token: ' face' (ID: 3579), Prob: 0.0000
+Token: ' learn' (ID: 3960), Prob: 0.0000
+Token: ' end' (ID: 835), Prob: 0.0000
+Token: ' say' (ID: 1977), Prob: 0.0000
+Token: ' affect' (ID: 7802), Prob: 0.0000
+Token: ' make' (ID: 1281), Prob: 0.0000
+Token: ' send' (ID: 3624), Prob: 0.0000
+Token: ' leave' (ID: 5274), Prob: 0.0000
+Token: ' feed' (ID: 5395), Prob: 0.0000
+Token: ' let' (ID: 1077), Prob: 0.0000
+Token: ' think' (ID: 1744), Prob: 0.0000
+Token: ' actually' (ID: 3520), Prob: 0.0000
+Token: ' fall' (ID: 4399), Prob: 0.0000
+Token: ' become' (ID: 3635), Prob: 0.0000
+Token: ' fire' (ID: 3940), Prob: 0.0000
+Token: ' share' (ID: 4332), Prob: 0.0000
+Token: ' know' (ID: 1414), Prob: 0.0000
+Token: ' hear' (ID: 6723), Prob: 0.0000
+Token: ' form' (ID: 1352), Prob: 0.0000
+Token: ' fear' (ID: 8679), Prob: 0.0000
+Token: ' prefer' (ID: 10702), Prob: 0.0000
+Token: ' relate' (ID: 28143), Prob: 0.0000
+Token: ' react' (ID: 13767), Prob: 0.0000
+Token: ' feedback' (ID: 11055), Prob: 0.0000
+Token: ' help' (ID: 1492), Prob: 0.0000
+Token: ' identify' (ID: 10542), Prob: 0.0000
+Token: ' want' (ID: 1366), Prob: 0.0000
+Token: ' mean' (ID: 3076), Prob: 0.0000
+Token: ' realize' (ID: 13083), Prob: 0.0000
+Token: ' never' (ID: 2581), Prob: 0.0000
+Token: ' fail' (ID: 3690), Prob: 0.0000
+Token: ' lose' (ID: 9052), Prob: 0.0000
+Token: ' notice' (ID: 5293), Prob: 0.0000
+Token: ' flow' (ID: 6396), Prob: 0.0000
+Token: ' gain' (ID: 8722), Prob: 0.0000
+Token: ' change' (ID: 2297), Prob: 0.0000
+Token: ' come' (ID: 2525), Prob: 0.0000
+Token: ' always' (ID: 2677), Prob: 0.0000
+Token: ' give' (ID: 2968), Prob: 0.0000
+Token: ' reflect' (ID: 8708), Prob: 0.0000
+Token: ' recognize' (ID: 15282), Prob: 0.0000
+Token: ' satisfy' (ID: 26553), Prob: 0.0000
+Token: ' use' (ID: 990), Prob: 0.0000
+Token: ' differ' (ID: 1745), Prob: 0.0000
+Token: ' love' (ID: 2948), Prob: 0.0000
+
+== Ranked Concepts (Clusters) ==
+Rank 1 | Concept Score: 0.9961
+  Tokens: [' feel', ' feeling', ' feelings', ' felt', ' feels', ' Feel', 'feel']
+Rank 2 | Concept Score: 0.0002
+  Tokens: [' find', ' get', ' show', ' take', ' make', ' send', ' leave', ' give']
+Rank 3 | Concept Score: 0.0001
+  Tokens: [' also', ' even', ' still', ' sometimes', ' actually', ' never', ' always']
+Rank 4 | Concept Score: 0.0001
+  Tokens: [' sense']
+Rank 5 | Concept Score: 0.0001
+  Tokens: [' experience']
+Rank 6 | Concept Score: 0.0000
+  Tokens: [' need', ' fear', ' prefer', ' want', ' love']
+Rank 7 | Concept Score: 0.0000
+  Tokens: [' seem']
+Rank 8 | Concept Score: 0.0000
+  Tokens: [' develop']
+Rank 9 | Concept Score: 0.0000
+  Tokens: [' respond', ' react', ' reflect']
+Rank 10 | Concept Score: 0.0000
+  Tokens: [' behave', ' affect', ' relate', ' satisfy', ' differ']
+Rank 11 | Concept Score: 0.0000
+  Tokens: [' express', ' share']
+Rank 12 | Concept Score: 0.0000
+  Tokens: [' perceive', ' identify', ' realize', ' notice', ' recognize']
+Rank 13 | Concept Score: 0.0000
+  Tokens: [' see', ' think', ' know']
+Rank 14 | Concept Score: 0.0000
+  Tokens: [' start', ' end']
+Rank 15 | Concept Score: 0.0000
+  Tokens: [' learn', ' lose', ' gain']
+Rank 16 | Concept Score: 0.0000
+  Tokens: [' face', ' fire']
+Rank 17 | Concept Score: 0.0000
+  Tokens: [' say', ' let']
+Rank 18 | Concept Score: 0.0000
+  Tokens: [' feed', ' feedback']
+Rank 19 | Concept Score: 0.0000
+  Tokens: [' fall', ' fail']
+Rank 20 | Concept Score: 0.0000
+  Tokens: [' help', ' change', ' use']
+Rank 21 | Concept Score: 0.0000
+  Tokens: [' become', ' come']
+Rank 22 | Concept Score: 0.0000
+  Tokens: [' form', ' flow']
+Rank 23 | Concept Score: 0.0000
+  Tokens: [' hear']
+Rank 24 | Concept Score: 0.0000
+  Tokens: [' mean']
+
+**Chosen Concept:** Rank 1 with score 0.9961

@@ -1,0 +1,118 @@
+--- Step 6 Log ---
+
+== Filtered Candidates ==
+Token: ' makes' (ID: 3643), Prob: 0.0649
+Token: ' keeps' (ID: 13598), Prob: 0.0198
+Token: ' brings' (ID: 12434), Prob: 0.0186
+Token: ' also' (ID: 1083), Prob: 0.0136
+Token: ' seems' (ID: 4977), Prob: 0.0099
+Token: ' may' (ID: 1231), Prob: 0.0073
+Token: ' might' (ID: 2578), Prob: 0.0068
+Token: ' causes' (ID: 11137), Prob: 0.0064
+Token: ' comes' (ID: 4041), Prob: 0.0060
+Token: ' could' (ID: 1410), Prob: 0.0053
+Token: ' gets' (ID: 5221), Prob: 0.0053
+Token: ' takes' (ID: 4990), Prob: 0.0050
+Token: ' becomes' (ID: 9044), Prob: 0.0037
+Token: ' continues' (ID: 9539), Prob: 0.0030
+Token: ' turns' (ID: 10577), Prob: 0.0030
+Token: ' still' (ID: 2058), Prob: 0.0029
+Token: ' actually' (ID: 3520), Prob: 0.0027
+Token: ' often' (ID: 3545), Prob: 0.0027
+Token: ' starts' (ID: 8471), Prob: 0.0025
+Token: ' caused' (ID: 8881), Prob: 0.0025
+Token: ' leads' (ID: 11508), Prob: 0.0025
+Token: ' prevents' (ID: 27934), Prob: 0.0025
+Token: ' allows' (ID: 6147), Prob: 0.0024
+Token: ' begins' (ID: 12033), Prob: 0.0024
+Token: ' stops' (ID: 17933), Prob: 0.0024
+Token: ' finally' (ID: 5499), Prob: 0.0022
+Token: ' affects' (ID: 21501), Prob: 0.0022
+Token: ' made' (ID: 1865), Prob: 0.0021
+Token: ' creates' (ID: 11450), Prob: 0.0021
+Token: ' must' (ID: 1969), Prob: 0.0018
+Token: ' means' (ID: 3363), Prob: 0.0017
+Token: ' blocks' (ID: 10010), Prob: 0.0017
+Token: ' would' (ID: 1035), Prob: 0.0015
+Token: ' usually' (ID: 5990), Prob: 0.0015
+Token: ' eventually' (ID: 9583), Prob: 0.0015
+Token: ' changes' (ID: 4344), Prob: 0.0014
+Token: ' forces' (ID: 8437), Prob: 0.0014
+Token: ' holds' (ID: 9982), Prob: 0.0014
+Token: ' decides' (ID: 27627), Prob: 0.0014
+Token: ' began' (ID: 6009), Prob: 0.0013
+Token: ' gives' (ID: 6696), Prob: 0.0013
+Token: ' helps' (ID: 8609), Prob: 0.0012
+Token: ' delays' (ID: 31074), Prob: 0.0012
+Token: ' suddenly' (ID: 14843), Prob: 0.0011
+Token: ' interfer' (ID: 40205), Prob: 0.0011
+Token: ' soon' (ID: 5135), Prob: 0.0010
+Token: ' sometimes' (ID: 7025), Prob: 0.0010
+Token: ' appears' (ID: 7952), Prob: 0.0010
+Token: ' somehow' (ID: 16925), Prob: 0.0010
+Token: ' really' (ID: 2167), Prob: 0.0009
+Token: ' goes' (ID: 5780), Prob: 0.0009
+Token: ' lets' (ID: 15354), Prob: 0.0009
+Token: ' proves' (ID: 35762), Prob: 0.0009
+Token: ' threatens' (ID: 47826), Prob: 0.0009
+Token: ' needs' (ID: 3880), Prob: 0.0009
+Token: ' ends' (ID: 10335), Prob: 0.0009
+Token: ' adds' (ID: 11367), Prob: 0.0009
+Token: ' results' (ID: 3059), Prob: 0.0008
+Token: ' calls' (ID: 6738), Prob: 0.0008
+Token: ' wreak' (ID: 82575), Prob: 0.0008
+Token: ' requires' (ID: 7460), Prob: 0.0007
+Token: ' occasionally' (ID: 22930), Prob: 0.0007
+Token: ' always' (ID: 2677), Prob: 0.0006
+Token: ' conditions' (ID: 4682), Prob: 0.0006
+Token: ' kept' (ID: 8604), Prob: 0.0006
+Token: ' limits' (ID: 13388), Prob: 0.0006
+Token: ' poses' (ID: 33003), Prob: 0.0006
+Token: ' never' (ID: 2581), Prob: 0.0006
+Token: ' condition' (ID: 2971), Prob: 0.0006
+Token: ' came' (ID: 3697), Prob: 0.0006
+Token: ' outside' (ID: 4889), Prob: 0.0006
+Token: ' feels' (ID: 11074), Prob: 0.0006
+Token: ' acts' (ID: 14056), Prob: 0.0006
+
+== Ranked Concepts (Clusters) ==
+Rank 1 | Concept Score: 0.1089
+  Tokens: [' makes', ' brings', ' gets', ' takes', ' becomes', ' leads', ' allows', ' creates', ' gives', ' helps', ' goes', ' adds']
+Rank 2 | Concept Score: 0.0234
+  Tokens: [' keeps', ' continues', ' kept']
+Rank 3 | Concept Score: 0.0228
+  Tokens: [' may', ' might', ' could', ' must', ' would']
+Rank 4 | Concept Score: 0.0212
+  Tokens: [' also', ' still', ' actually', ' really', ' always', ' never']
+Rank 5 | Concept Score: 0.0148
+  Tokens: [' seems', ' decides', ' appears', ' proves', ' threatens', ' feels']
+Rank 6 | Concept Score: 0.0108
+  Tokens: [' causes', ' caused', ' interfer', ' wreak']
+Rank 7 | Concept Score: 0.0085
+  Tokens: [' blocks', ' changes', ' forces', ' delays', ' results', ' calls', ' limits', ' acts']
+Rank 8 | Concept Score: 0.0069
+  Tokens: [' finally', ' eventually', ' suddenly', ' soon', ' somehow']
+Rank 9 | Concept Score: 0.0066
+  Tokens: [' comes', ' came']
+Rank 10 | Concept Score: 0.0063
+  Tokens: [' turns', ' stops', ' ends']
+Rank 11 | Concept Score: 0.0062
+  Tokens: [' starts', ' begins', ' began']
+Rank 12 | Concept Score: 0.0060
+  Tokens: [' often', ' usually', ' sometimes', ' occasionally']
+Rank 13 | Concept Score: 0.0034
+  Tokens: [' prevents', ' lets']
+Rank 14 | Concept Score: 0.0033
+  Tokens: [' means', ' needs', ' requires']
+Rank 15 | Concept Score: 0.0029
+  Tokens: [' affects', ' poses']
+Rank 16 | Concept Score: 0.0021
+  Tokens: [' made']
+Rank 17 | Concept Score: 0.0014
+  Tokens: [' holds']
+Rank 18 | Concept Score: 0.0012
+  Tokens: [' conditions', ' condition']
+Rank 19 | Concept Score: 0.0006
+  Tokens: [' outside']
+
+**Chosen Concept:** Rank 1 with score 0.1089

@@ -1,0 +1,82 @@
+--- Step 134 Log ---
+
+== Filtered Candidates ==
+Token: ' things' (ID: 2513), Prob: 0.9961
+Token: ' matters' (ID: 12850), Prob: 0.0003
+Token: ' thing' (ID: 3166), Prob: 0.0002
+Token: ' thoughts' (ID: 11303), Prob: 0.0001
+Token: ' something' (ID: 2494), Prob: 0.0001
+Token: ' like' (ID: 1075), Prob: 0.0001
+Token: 'things' (ID: 57074), Prob: 0.0001
+Token: ' events' (ID: 4357), Prob: 0.0001
+Token: ' Things' (ID: 20093), Prob: 0.0000
+Token: ' facts' (ID: 13064), Prob: 0.0000
+Token: ' aspects' (ID: 13566), Prob: 0.0000
+Token: ' information' (ID: 1995), Prob: 0.0000
+Token: ' situations' (ID: 14740), Prob: 0.0000
+Token: ' stuff' (ID: 6259), Prob: 0.0000
+Token: ' parts' (ID: 5479), Prob: 0.0000
+Token: ' times' (ID: 3039), Prob: 0.0000
+Token: ' ways' (ID: 5510), Prob: 0.0000
+Token: 'Things' (ID: 41475), Prob: 0.0000
+Token: ' issues' (ID: 4714), Prob: 0.0000
+Token: ' messages' (ID: 6605), Prob: 0.0000
+Token: ' ideas' (ID: 6708), Prob: 0.0000
+Token: ' items' (ID: 3589), Prob: 0.0000
+Token: ' experiences' (ID: 11449), Prob: 0.0000
+Token: ' questions' (ID: 4755), Prob: 0.0000
+Token: ' details' (ID: 3565), Prob: 0.0000
+Token: ' types' (ID: 4494), Prob: 0.0000
+Token: ' related' (ID: 5435), Prob: 0.0000
+Token: ' pieces' (ID: 9666), Prob: 0.0000
+Token: ' people' (ID: 1251), Prob: 0.0000
+Token: ' important' (ID: 2989), Prob: 0.0000
+Token: ' anything' (ID: 4113), Prob: 0.0000
+Token: ' truths' (ID: 52119), Prob: 0.0000
+Token: ' concepts' (ID: 18940), Prob: 0.0000
+Token: ' regarding' (ID: 8826), Prob: 0.0000
+Token: ' feelings' (ID: 15650), Prob: 0.0000
+Token: ' tasks' (ID: 9079), Prob: 0.0000
+Token: ' everything' (ID: 4297), Prob: 0.0000
+Token: ' topics' (ID: 13347), Prob: 0.0000
+Token: ' tips' (ID: 10414), Prob: 0.0000
+
+== Ranked Concepts (Clusters) ==
+Rank 1 | Concept Score: 0.9961
+  Tokens: [' things', ' thing', 'things', ' Things', 'Things']
+Rank 2 | Concept Score: 0.0003
+  Tokens: [' matters']
+Rank 3 | Concept Score: 0.0002
+  Tokens: [' thoughts', ' ideas', ' concepts']
+Rank 4 | Concept Score: 0.0001
+  Tokens: [' something', ' stuff', ' anything', ' everything']
+Rank 5 | Concept Score: 0.0001
+  Tokens: [' like']
+Rank 6 | Concept Score: 0.0001
+  Tokens: [' events', ' tasks']
+Rank 7 | Concept Score: 0.0000
+  Tokens: [' facts', ' truths']
+Rank 8 | Concept Score: 0.0000
+  Tokens: [' aspects']
+Rank 9 | Concept Score: 0.0000
+  Tokens: [' information', ' details']
+Rank 10 | Concept Score: 0.0000
+  Tokens: [' parts', ' items', ' pieces']
+Rank 11 | Concept Score: 0.0000
+  Tokens: [' situations', ' experiences']
+Rank 12 | Concept Score: 0.0000
+  Tokens: [' issues', ' questions', ' topics']
+Rank 13 | Concept Score: 0.0000
+  Tokens: [' ways', ' types']
+Rank 14 | Concept Score: 0.0000
+  Tokens: [' times', ' people']
+Rank 15 | Concept Score: 0.0000
+  Tokens: [' related', ' important', ' regarding']
+Rank 16 | Concept Score: 0.0000
+  Tokens: [' messages']
+Rank 17 | Concept Score: 0.0000
+  Tokens: [' feelings']
+Rank 18 | Concept Score: 0.0000
+  Tokens: [' tips']
+
+**Chosen Concept:** Rank 1 with score 0.9961

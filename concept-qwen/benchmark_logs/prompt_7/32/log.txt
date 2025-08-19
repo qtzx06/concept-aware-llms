@@ -1,0 +1,97 @@
+--- Step 32 Log ---
+
+== Filtered Candidates ==
+Token: ' friendship' (ID: 26509), Prob: 0.9492
+Token: ' friends' (ID: 4780), Prob: 0.0064
+Token: ' friend' (ID: 4238), Prob: 0.0017
+Token: ' kindness' (ID: 44872), Prob: 0.0011
+Token: ' magic' (ID: 10963), Prob: 0.0009
+Token: ' friendships' (ID: 61981), Prob: 0.0009
+Token: ' love' (ID: 2948), Prob: 0.0005
+Token: ' helping' (ID: 10476), Prob: 0.0005
+Token: ' sharing' (ID: 11560), Prob: 0.0005
+Token: ' good' (ID: 1661), Prob: 0.0003
+Token: ' one' (ID: 825), Prob: 0.0003
+Token: ' snow' (ID: 11794), Prob: 0.0003
+Token: ' companions' (ID: 40857), Prob: 0.0002
+Token: ' giving' (ID: 7086), Prob: 0.0002
+Token: ' Friendship' (ID: 72069), Prob: 0.0002
+Token: ' friendly' (ID: 11657), Prob: 0.0002
+Token: ' true' (ID: 830), Prob: 0.0002
+Token: ' trust' (ID: 6950), Prob: 0.0002
+Token: ' freedom' (ID: 11290), Prob: 0.0002
+Token: ' Disney' (ID: 16390), Prob: 0.0001
+Token: ' teamwork' (ID: 83533), Prob: 0.0001
+Token: ' something' (ID: 2494), Prob: 0.0001
+Token: ' joy' (ID: 15888), Prob: 0.0001
+Token: ' making' (ID: 3259), Prob: 0.0001
+Token: ' spreading' (ID: 30035), Prob: 0.0001
+Token: ' connection' (ID: 3633), Prob: 0.0001
+Token: ' hope' (ID: 3900), Prob: 0.0001
+Token: ' happiness' (ID: 23009), Prob: 0.0001
+Token: ' two' (ID: 1378), Prob: 0.0001
+Token: ' human' (ID: 3738), Prob: 0.0001
+Token: ' forgiveness' (ID: 52050), Prob: 0.0001
+Token: ' life' (ID: 2272), Prob: 0.0001
+Token: ' pure' (ID: 10526), Prob: 0.0001
+Token: ' loneliness' (ID: 73940), Prob: 0.0001
+Token: ' unity' (ID: 30326), Prob: 0.0001
+Token: ' smiling' (ID: 36063), Prob: 0.0001
+Token: ' Christmas' (ID: 10074), Prob: 0.0001
+Token: ' every' (ID: 1449), Prob: 0.0001
+Token: ' three' (ID: 2326), Prob: 0.0001
+Token: ' music' (ID: 4627), Prob: 0.0001
+Token: ' free' (ID: 1910), Prob: 0.0000
+Token: ' small' (ID: 2613), Prob: 0.0000
+Token: ' getting' (ID: 3709), Prob: 0.0000
+Token: ' someone' (ID: 4325), Prob: 0.0000
+Token: ' sending' (ID: 11628), Prob: 0.0000
+Token: ' shared' (ID: 6094), Prob: 0.0000
+Token: ' harmony' (ID: 25281), Prob: 0.0000
+Token: ' goodness' (ID: 38426), Prob: 0.0000
+Token: ' connecting' (ID: 20913), Prob: 0.0000
+Token: ' bonding' (ID: 63086), Prob: 0.0000
+Token: ' time' (ID: 882), Prob: 0.0000
+Token: ' family' (ID: 2997), Prob: 0.0000
+Token: ' peace' (ID: 8919), Prob: 0.0000
+Token: ' patience' (ID: 29301), Prob: 0.0000
+Token: ' community' (ID: 3942), Prob: 0.0000
+Token: ' showing' (ID: 9027), Prob: 0.0000
+Token: ' dancing' (ID: 27966), Prob: 0.0000
+Token: ' heart' (ID: 4746), Prob: 0.0000
+Token: ' keeping' (ID: 10282), Prob: 0.0000
+Token: ' FRIEND' (ID: 79343), Prob: 0.0000
+
+== Ranked Concepts (Clusters) ==
+Rank 1 | Concept Score: 0.9570
+  Tokens: [' friendship', ' friends', ' friend', ' friendships', ' companions', ' Friendship', ' friendly', ' FRIEND']
+Rank 2 | Concept Score: 0.0015
+  Tokens: [' kindness', ' joy', ' happiness', ' forgiveness', ' loneliness', ' peace', ' patience']
+Rank 3 | Concept Score: 0.0015
+  Tokens: [' magic', ' snow', ' Disney', ' smiling', ' Christmas', ' music', ' dancing']
+Rank 4 | Concept Score: 0.0010
+  Tokens: [' helping', ' giving', ' making', ' spreading', ' getting', ' sending', ' showing', ' keeping']
+Rank 5 | Concept Score: 0.0008
+  Tokens: [' love', ' trust', ' hope']
+Rank 6 | Concept Score: 0.0005
+  Tokens: [' sharing', ' shared']
+Rank 7 | Concept Score: 0.0004
+  Tokens: [' one', ' two', ' three']
+Rank 8 | Concept Score: 0.0004
+  Tokens: [' good', ' goodness']
+Rank 9 | Concept Score: 0.0003
+  Tokens: [' human', ' life', ' time', ' family', ' community', ' heart']
+Rank 10 | Concept Score: 0.0003
+  Tokens: [' true', ' pure', ' small']
+Rank 11 | Concept Score: 0.0002
+  Tokens: [' freedom', ' free']
+Rank 12 | Concept Score: 0.0002
+  Tokens: [' something', ' every', ' someone']
+Rank 13 | Concept Score: 0.0002
+  Tokens: [' connection', ' connecting', ' bonding']
+Rank 14 | Concept Score: 0.0001
+  Tokens: [' teamwork']
+Rank 15 | Concept Score: 0.0001
+  Tokens: [' unity', ' harmony']
+
+**Chosen Concept:** Rank 1 with score 0.9570

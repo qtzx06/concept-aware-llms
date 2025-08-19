@@ -1,0 +1,106 @@
+--- Step 74 Log ---
+
+== Filtered Candidates ==
+Token: ' opposite' (ID: 14002), Prob: 0.9922
+Token: ' opposition' (ID: 13758), Prob: 0.0005
+Token: ' opponent' (ID: 14704), Prob: 0.0001
+Token: ' opposing' (ID: 30222), Prob: 0.0001
+Token: ' alternate' (ID: 24609), Prob: 0.0001
+Token: ' Opp' (ID: 28610), Prob: 0.0001
+Token: ' oppose' (ID: 33034), Prob: 0.0000
+Token: ' different' (ID: 2155), Prob: 0.0000
+Token: ' oppos' (ID: 7922), Prob: 0.0000
+Token: ' contrary' (ID: 25047), Prob: 0.0000
+Token: ' third' (ID: 4843), Prob: 0.0000
+Token: ' first' (ID: 1156), Prob: 0.0000
+Token: ' second' (ID: 2086), Prob: 0.0000
+Token: ' outside' (ID: 4889), Prob: 0.0000
+Token: ' wrong' (ID: 4969), Prob: 0.0000
+Token: ' opp' (ID: 3995), Prob: 0.0000
+Token: 'Opp' (ID: 55751), Prob: 0.0000
+Token: ' opposed' (ID: 16087), Prob: 0.0000
+Token: ' previous' (ID: 3681), Prob: 0.0000
+Token: ' unknown' (ID: 9788), Prob: 0.0000
+Token: ' gender' (ID: 9825), Prob: 0.0000
+Token: ' last' (ID: 1537), Prob: 0.0000
+Token: ' odd' (ID: 10322), Prob: 0.0000
+Token: ' next' (ID: 1790), Prob: 0.0000
+Token: ' inverse' (ID: 27949), Prob: 0.0000
+Token: ' negative' (ID: 8225), Prob: 0.0000
+Token: ' twentieth' (ID: 61420), Prob: 0.0000
+Token: ' dominant' (ID: 24456), Prob: 0.0000
+Token: ' ninth' (ID: 42541), Prob: 0.0000
+Token: ' alternative' (ID: 10555), Prob: 0.0000
+Token: ' fourth' (ID: 11737), Prob: 0.0000
+Token: ' order' (ID: 1973), Prob: 0.0000
+Token: ' antagonist' (ID: 81059), Prob: 0.0000
+Token: ' north' (ID: 10200), Prob: 0.0000
+Token: ' oppressed' (ID: 66416), Prob: 0.0000
+Token: ' worse' (ID: 10960), Prob: 0.0000
+Token: ' positive' (ID: 6785), Prob: 0.0000
+Token: ' reverse' (ID: 9931), Prob: 0.0000
+Token: ' enemy' (ID: 9175), Prob: 0.0000
+Token: ' opinion' (ID: 9459), Prob: 0.0000
+Token: ' impossible' (ID: 11997), Prob: 0.0000
+Token: ' world' (ID: 1879), Prob: 0.0000
+Token: ' another' (ID: 2441), Prob: 0.0000
+Token: ' group' (ID: 1874), Prob: 0.0000
+Token: ' following' (ID: 2701), Prob: 0.0000
+Token: ' male' (ID: 8593), Prob: 0.0000
+Token: ' whole' (ID: 4361), Prob: 0.0000
+Token: ' worst' (ID: 11785), Prob: 0.0000
+Token: ' vice' (ID: 16774), Prob: 0.0000
+Token: ' side' (ID: 3108), Prob: 0.0000
+Token: ' oppress' (ID: 89738), Prob: 0.0000
+Token: ' entire' (ID: 4453), Prob: 0.0000
+Token: ' top' (ID: 1909), Prob: 0.0000
+Token: ' dark' (ID: 6319), Prob: 0.0000
+Token: ' fifth' (ID: 17702), Prob: 0.0000
+Token: ' one' (ID: 825), Prob: 0.0000
+Token: ' kind' (ID: 3093), Prob: 0.0000
+Token: ' inside' (ID: 4766), Prob: 0.0000
+Token: ' older' (ID: 9014), Prob: 0.0000
+Token: ' contrast' (ID: 12872), Prob: 0.0000
+Token: ' nth' (ID: 55129), Prob: 0.0000
+Token: ' person' (ID: 1697), Prob: 0.0000
+Token: ' society' (ID: 8232), Prob: 0.0000
+
+== Ranked Concepts (Clusters) ==
+Rank 1 | Concept Score: 0.9922
+  Tokens: [' opposite', ' opposition', ' opponent', ' opposing', ' Opp', ' oppose', ' oppos', ' opp', 'Opp', ' opposed', ' opinion']
+Rank 2 | Concept Score: 0.0001
+  Tokens: [' alternate', ' alternative', ' another']
+Rank 3 | Concept Score: 0.0000
+  Tokens: [' different', ' one']
+Rank 4 | Concept Score: 0.0000
+  Tokens: [' third', ' second', ' twentieth', ' ninth', ' fourth', ' fifth', ' nth']
+Rank 5 | Concept Score: 0.0000
+  Tokens: [' first', ' previous', ' last', ' next', ' following']
+Rank 6 | Concept Score: 0.0000
+  Tokens: [' contrary', ' contrast']
+Rank 7 | Concept Score: 0.0000
+  Tokens: [' outside', ' north', ' inside']
+Rank 8 | Concept Score: 0.0000
+  Tokens: [' unknown', ' odd', ' impossible']
+Rank 9 | Concept Score: 0.0000
+  Tokens: [' wrong', ' worse', ' worst']
+Rank 10 | Concept Score: 0.0000
+  Tokens: [' gender', ' group', ' male', ' person']
+Rank 11 | Concept Score: 0.0000
+  Tokens: [' antagonist', ' oppressed', ' enemy', ' oppress']
+Rank 12 | Concept Score: 0.0000
+  Tokens: [' inverse', ' reverse', ' vice']
+Rank 13 | Concept Score: 0.0000
+  Tokens: [' order', ' world', ' side', ' kind', ' society']
+Rank 14 | Concept Score: 0.0000
+  Tokens: [' negative', ' positive']
+Rank 15 | Concept Score: 0.0000
+  Tokens: [' dominant', ' older']
+Rank 16 | Concept Score: 0.0000
+  Tokens: [' whole', ' entire']
+Rank 17 | Concept Score: 0.0000
+  Tokens: [' top']
+Rank 18 | Concept Score: 0.0000
+  Tokens: [' dark']
+
+**Chosen Concept:** Rank 1 with score 0.9922

@@ -1,0 +1,73 @@
+--- Step 20 Log ---
+
+== Filtered Candidates ==
+Token: ' one' (ID: 825), Prob: 0.1387
+Token: ' etc' (ID: 4992), Prob: 0.0188
+Token: ' two' (ID: 1378), Prob: 0.0074
+Token: ' four' (ID: 3040), Prob: 0.0057
+Token: ' something' (ID: 2494), Prob: 0.0029
+Token: ' perhaps' (ID: 8365), Prob: 0.0024
+Token: ' maybe' (ID: 7196), Prob: 0.0022
+Token: ' either' (ID: 2987), Prob: 0.0017
+Token: ' three' (ID: 2326), Prob: 0.0013
+Token: ' among' (ID: 4221), Prob: 0.0009
+Token: ' possibly' (ID: 10767), Prob: 0.0008
+Token: ' even' (ID: 1496), Prob: 0.0007
+Token: ' five' (ID: 4236), Prob: 0.0007
+Token: ' another' (ID: 2441), Prob: 0.0004
+Token: ' depending' (ID: 11649), Prob: 0.0003
+Token: ' whatever' (ID: 8820), Prob: 0.0003
+Token: ' possible' (ID: 3204), Prob: 0.0002
+Token: ' none' (ID: 6857), Prob: 0.0002
+Token: ' could' (ID: 1410), Prob: 0.0002
+Token: ' say' (ID: 1977), Prob: 0.0002
+Token: ' always' (ID: 2677), Prob: 0.0002
+Token: ' whichever' (ID: 53684), Prob: 0.0002
+Token: ' plus' (ID: 5519), Prob: 0.0002
+Token: ' respectively' (ID: 15576), Prob: 0.0002
+Token: ' also' (ID: 1083), Prob: 0.0002
+Token: ' still' (ID: 2058), Prob: 0.0002
+Token: ' may' (ID: 1231), Prob: 0.0002
+Token: ' whether' (ID: 3425), Prob: 0.0002
+Token: ' others' (ID: 3800), Prob: 0.0002
+Token: ' nothing' (ID: 4302), Prob: 0.0002
+Token: ' ones' (ID: 6174), Prob: 0.0002
+Token: ' depends' (ID: 13798), Prob: 0.0002
+Token: ' must' (ID: 1969), Prob: 0.0002
+Token: ' anything' (ID: 4113), Prob: 0.0002
+Token: ' someone' (ID: 4325), Prob: 0.0001
+Token: ' unknown' (ID: 9788), Prob: 0.0001
+
+== Ranked Concepts (Clusters) ==
+Rank 1 | Concept Score: 0.1387
+  Tokens: [' one', ' ones']
+Rank 2 | Concept Score: 0.0198
+  Tokens: [' etc', ' among']
+Rank 3 | Concept Score: 0.0150
+  Tokens: [' two', ' four', ' three', ' five']
+Rank 4 | Concept Score: 0.0057
+  Tokens: [' perhaps', ' maybe', ' possibly', ' possible']
+Rank 5 | Concept Score: 0.0032
+  Tokens: [' something', ' nothing', ' anything']
+Rank 6 | Concept Score: 0.0019
+  Tokens: [' either', ' whether']
+Rank 7 | Concept Score: 0.0007
+  Tokens: [' another', ' others', ' someone']
+Rank 8 | Concept Score: 0.0007
+  Tokens: [' even']
+Rank 9 | Concept Score: 0.0006
+  Tokens: [' always', ' also', ' still']
+Rank 10 | Concept Score: 0.0005
+  Tokens: [' whatever', ' whichever']
+Rank 11 | Concept Score: 0.0005
+  Tokens: [' could', ' may', ' must']
+Rank 12 | Concept Score: 0.0005
+  Tokens: [' depending', ' depends']
+Rank 13 | Concept Score: 0.0004
+  Tokens: [' say', ' plus']
+Rank 14 | Concept Score: 0.0004
+  Tokens: [' none', ' unknown']
+Rank 15 | Concept Score: 0.0002
+  Tokens: [' respectively']
+
+**Chosen Concept:** Rank 1 with score 0.1387

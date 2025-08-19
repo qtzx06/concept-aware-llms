@@ -1,0 +1,131 @@
+--- Step 22 Log ---
+
+== Filtered Candidates ==
+Token: ' opposite' (ID: 14002), Prob: 0.0688
+Token: ' third' (ID: 4843), Prob: 0.0093
+Token: ' gender' (ID: 9825), Prob: 0.0050
+Token: ' first' (ID: 1156), Prob: 0.0012
+Token: ' different' (ID: 2155), Prob: 0.0012
+Token: ' person' (ID: 1697), Prob: 0.0009
+Token: ' opposing' (ID: 30222), Prob: 0.0008
+Token: ' male' (ID: 8593), Prob: 0.0007
+Token: ' non' (ID: 2477), Prob: 0.0006
+Token: ' wrong' (ID: 4969), Prob: 0.0006
+Token: ' next' (ID: 1790), Prob: 0.0006
+Token: ' previous' (ID: 3681), Prob: 0.0003
+Token: ' unknown' (ID: 9788), Prob: 0.0003
+Token: ' three' (ID: 2326), Prob: 0.0003
+Token: ' enemy' (ID: 9175), Prob: 0.0003
+Token: ' alternate' (ID: 24609), Prob: 0.0003
+Token: ' neutral' (ID: 20628), Prob: 0.0002
+Token: ' second' (ID: 2086), Prob: 0.0002
+Token: ' desired' (ID: 12685), Prob: 0.0002
+Token: ' current' (ID: 1482), Prob: 0.0002
+Token: ' group' (ID: 1874), Prob: 0.0002
+Token: ' fourth' (ID: 11737), Prob: 0.0002
+Token: ' exact' (ID: 4734), Prob: 0.0002
+Token: ' last' (ID: 1537), Prob: 0.0002
+Token: ' female' (ID: 8778), Prob: 0.0002
+Token: ' dominant' (ID: 24456), Prob: 0.0002
+Token: ' age' (ID: 4231), Prob: 0.0001
+Token: ' correct' (ID: 4396), Prob: 0.0001
+Token: ' opponent' (ID: 14704), Prob: 0.0001
+Token: ' sex' (ID: 1839), Prob: 0.0001
+Token: ' day' (ID: 1899), Prob: 0.0001
+Token: ' another' (ID: 2441), Prob: 0.0001
+Token: ' chosen' (ID: 11882), Prob: 0.0001
+Token: ' human' (ID: 3738), Prob: 0.0001
+Token: ' fifth' (ID: 17702), Prob: 0.0001
+Token: ' negative' (ID: 8225), Prob: 0.0001
+Token: ' remaining' (ID: 9664), Prob: 0.0001
+Token: ' others' (ID: 3800), Prob: 0.0001
+Token: ' majority' (ID: 8686), Prob: 0.0001
+Token: ' reverse' (ID: 9931), Prob: 0.0001
+Token: ' contrary' (ID: 25047), Prob: 0.0001
+Token: ' child' (ID: 1682), Prob: 0.0001
+Token: ' entire' (ID: 4453), Prob: 0.0001
+Token: ' general' (ID: 4586), Prob: 0.0001
+Token: ' one' (ID: 825), Prob: 0.0001
+Token: ' two' (ID: 1378), Prob: 0.0001
+Token: ' future' (ID: 3853), Prob: 0.0001
+Token: ' alternative' (ID: 10555), Prob: 0.0001
+Token: ' original' (ID: 4024), Prob: 0.0001
+Token: ' arbitrary' (ID: 24168), Prob: 0.0001
+Token: ' positive' (ID: 6785), Prob: 0.0001
+Token: ' opposition' (ID: 13758), Prob: 0.0001
+Token: ' alien' (ID: 19594), Prob: 0.0001
+Token: ' society' (ID: 8232), Prob: 0.0001
+Token: ' unspecified' (ID: 54311), Prob: 0.0001
+Token: ' genders' (ID: 81328), Prob: 0.0001
+Token: ' following' (ID: 2701), Prob: 0.0000
+Token: ' least' (ID: 3245), Prob: 0.0000
+Token: ' nearest' (ID: 23480), Prob: 0.0000
+Token: ' order' (ID: 1973), Prob: 0.0000
+Token: ' neither' (ID: 13866), Prob: 0.0000
+Token: ' stranger' (ID: 33958), Prob: 0.0000
+Token: ' world' (ID: 1879), Prob: 0.0000
+Token: ' family' (ID: 2997), Prob: 0.0000
+Token: ' random' (ID: 4194), Prob: 0.0000
+Token: ' normal' (ID: 4622), Prob: 0.0000
+Token: ' cross' (ID: 5312), Prob: 0.0000
+Token: ' self' (ID: 656), Prob: 0.0000
+Token: ' type' (ID: 943), Prob: 0.0000
+Token: ' people' (ID: 1251), Prob: 0.0000
+Token: ' highest' (ID: 8426), Prob: 0.0000
+Token: ' nationality' (ID: 58243), Prob: 0.0000
+Token: ' far' (ID: 3041), Prob: 0.0000
+Token: ' specific' (ID: 3151), Prob: 0.0000
+Token: ' friend' (ID: 4238), Prob: 0.0000
+Token: ' identity' (ID: 9569), Prob: 0.0000
+Token: ' respective' (ID: 19511), Prob: 0.0000
+Token: ' sixth' (ID: 25031), Prob: 0.0000
+Token: ' higher' (ID: 5080), Prob: 0.0000
+Token: ' species' (ID: 9419), Prob: 0.0000
+
+== Ranked Concepts (Clusters) ==
+Rank 1 | Concept Score: 0.0698
+  Tokens: [' opposite', ' opposing', ' reverse', ' contrary', ' opposition']
+Rank 2 | Concept Score: 0.0099
+  Tokens: [' third', ' second', ' fourth', ' fifth', ' sixth']
+Rank 3 | Concept Score: 0.0060
+  Tokens: [' gender', ' male', ' female', ' sex', ' genders']
+Rank 4 | Concept Score: 0.0016
+  Tokens: [' different', ' three', ' one', ' two']
+Rank 5 | Concept Score: 0.0014
+  Tokens: [' first', ' last']
+Rank 6 | Concept Score: 0.0013
+  Tokens: [' next', ' previous', ' current', ' remaining', ' future', ' following']
+Rank 7 | Concept Score: 0.0011
+  Tokens: [' person', ' human', ' child', ' people']
+Rank 8 | Concept Score: 0.0007
+  Tokens: [' group', ' age', ' day', ' society', ' order', ' world', ' family', ' type', ' identity', ' species']
+Rank 9 | Concept Score: 0.0007
+  Tokens: [' wrong', ' correct']
+Rank 10 | Concept Score: 0.0007
+  Tokens: [' non', ' cross', ' self']
+Rank 11 | Concept Score: 0.0006
+  Tokens: [' desired', ' exact', ' chosen', ' entire', ' respective']
+Rank 12 | Concept Score: 0.0005
+  Tokens: [' enemy', ' opponent', ' stranger', ' friend']
+Rank 13 | Concept Score: 0.0005
+  Tokens: [' unknown', ' arbitrary', ' alien', ' unspecified']
+Rank 14 | Concept Score: 0.0004
+  Tokens: [' neutral', ' negative', ' positive']
+Rank 15 | Concept Score: 0.0004
+  Tokens: [' alternate', ' alternative']
+Rank 16 | Concept Score: 0.0002
+  Tokens: [' dominant', ' majority']
+Rank 17 | Concept Score: 0.0002
+  Tokens: [' general', ' original', ' random', ' specific']
+Rank 18 | Concept Score: 0.0002
+  Tokens: [' least', ' nearest', ' highest', ' far', ' higher']
+Rank 19 | Concept Score: 0.0002
+  Tokens: [' another', ' others']
+Rank 20 | Concept Score: 0.0000
+  Tokens: [' neither']
+Rank 21 | Concept Score: 0.0000
+  Tokens: [' normal']
+Rank 22 | Concept Score: 0.0000
+  Tokens: [' nationality']
+
+**Chosen Concept:** Rank 1 with score 0.0698

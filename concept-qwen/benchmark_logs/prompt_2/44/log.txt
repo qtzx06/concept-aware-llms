@@ -1,0 +1,103 @@
+--- Step 44 Log ---
+
+== Filtered Candidates ==
+Token: ' rapidly' (ID: 18512), Prob: 0.5156
+Token: ' quickly' (ID: 6157), Prob: 0.1152
+Token: ' fast' (ID: 4937), Prob: 0.0084
+Token: ' faster' (ID: 10596), Prob: 0.0074
+Token: ' via' (ID: 4566), Prob: 0.0057
+Token: ' across' (ID: 3941), Prob: 0.0051
+Token: ' widely' (ID: 13570), Prob: 0.0051
+Token: ' slowly' (ID: 13970), Prob: 0.0048
+Token: ' easily' (ID: 6707), Prob: 0.0045
+Token: ' fastest' (ID: 25648), Prob: 0.0033
+Token: ' like' (ID: 1075), Prob: 0.0031
+Token: ' due' (ID: 4152), Prob: 0.0031
+Token: ' mainly' (ID: 14576), Prob: 0.0025
+Token: ' extremely' (ID: 9016), Prob: 0.0024
+Token: ' along' (ID: 3156), Prob: 0.0020
+Token: ' primarily' (ID: 15503), Prob: 0.0019
+Token: ' efficiently' (ID: 29720), Prob: 0.0019
+Token: ' throughout' (ID: 6814), Prob: 0.0018
+Token: ' exponentially' (ID: 74151), Prob: 0.0018
+Token: ' well' (ID: 1632), Prob: 0.0015
+Token: ' within' (ID: 2878), Prob: 0.0014
+Token: ' readily' (ID: 30268), Prob: 0.0012
+Token: ' even' (ID: 1496), Prob: 0.0011
+Token: ' without' (ID: 2041), Prob: 0.0011
+Token: ' immediately' (ID: 7069), Prob: 0.0010
+Token: ' everywhere' (ID: 16852), Prob: 0.0008
+Token: ' almost' (ID: 4558), Prob: 0.0007
+Token: ' evenly' (ID: 41047), Prob: 0.0007
+Token: ' swiftly' (ID: 55551), Prob: 0.0007
+Token: ' according' (ID: 4092), Prob: 0.0006
+Token: ' continuously' (ID: 30878), Prob: 0.0006
+Token: ' differently' (ID: 21303), Prob: 0.0006
+Token: ' quite' (ID: 5008), Prob: 0.0005
+Token: ' gradually' (ID: 26024), Prob: 0.0005
+Token: ' around' (ID: 2163), Prob: 0.0005
+Token: ' among' (ID: 4221), Prob: 0.0005
+Token: ' naturally' (ID: 17712), Prob: 0.0005
+Token: ' similarly' (ID: 29193), Prob: 0.0004
+Token: ' much' (ID: 1753), Prob: 0.0004
+Token: ' dramatically' (ID: 27957), Prob: 0.0004
+Token: ' extensively' (ID: 41717), Prob: 0.0004
+Token: ' directly' (ID: 5961), Prob: 0.0004
+Token: ' despite' (ID: 8818), Prob: 0.0004
+Token: ' mostly' (ID: 10008), Prob: 0.0004
+Token: ' rapid' (ID: 11048), Prob: 0.0003
+Token: ' relatively' (ID: 12040), Prob: 0.0003
+Token: ' normally' (ID: 14279), Prob: 0.0003
+Token: ' globally' (ID: 30450), Prob: 0.0003
+Token: ' quicker' (ID: 38292), Prob: 0.0003
+Token: ' particularly' (ID: 7945), Prob: 0.0003
+Token: ' initially' (ID: 15102), Prob: 0.0003
+Token: ' instantly' (ID: 21818), Prob: 0.0003
+Token: ' based' (ID: 3118), Prob: 0.0003
+Token: ' especially' (ID: 5310), Prob: 0.0003
+Token: ' far' (ID: 3041), Prob: 0.0003
+Token: ' upon' (ID: 5193), Prob: 0.0003
+Token: ' highly' (ID: 7548), Prob: 0.0003
+Token: ' successfully' (ID: 7790), Prob: 0.0003
+Token: ' poorly' (ID: 30455), Prob: 0.0003
+Token: ' unpredict' (ID: 43596), Prob: 0.0003
+
+== Ranked Concepts (Clusters) ==
+Rank 1 | Concept Score: 0.6523
+  Tokens: [' rapidly', ' quickly', ' fast', ' faster', ' fastest', ' swiftly', ' rapid', ' quicker']
+Rank 2 | Concept Score: 0.0141
+  Tokens: [' via', ' like', ' due', ' without', ' according', ' based', ' upon']
+Rank 3 | Concept Score: 0.0112
+  Tokens: [' across', ' along', ' throughout', ' within', ' around', ' among']
+Rank 4 | Concept Score: 0.0074
+  Tokens: [' easily', ' readily', ' immediately', ' directly', ' instantly']
+Rank 5 | Concept Score: 0.0055
+  Tokens: [' widely', ' extensively']
+Rank 6 | Concept Score: 0.0053
+  Tokens: [' slowly', ' gradually']
+Rank 7 | Concept Score: 0.0048
+  Tokens: [' mainly', ' primarily', ' mostly']
+Rank 8 | Concept Score: 0.0042
+  Tokens: [' extremely', ' quite', ' much', ' relatively', ' far', ' highly']
+Rank 9 | Concept Score: 0.0028
+  Tokens: [' efficiently', ' evenly', ' successfully']
+Rank 10 | Concept Score: 0.0028
+  Tokens: [' exponentially', ' continuously', ' dramatically']
+Rank 11 | Concept Score: 0.0018
+  Tokens: [' well', ' poorly']
+Rank 12 | Concept Score: 0.0015
+  Tokens: [' even', ' despite']
+Rank 13 | Concept Score: 0.0011
+  Tokens: [' everywhere', ' globally']
+Rank 14 | Concept Score: 0.0011
+  Tokens: [' naturally', ' normally', ' initially']
+Rank 15 | Concept Score: 0.0010
+  Tokens: [' differently', ' similarly']
+Rank 16 | Concept Score: 0.0007
+  Tokens: [' almost']
+Rank 17 | Concept Score: 0.0006
+  Tokens: [' particularly', ' especially']
+Rank 18 | Concept Score: 0.0003
+  Tokens: [' unpredict']
+
+**Chosen Concept:** Rank 1 with score 0.6523

@@ -1,0 +1,108 @@
+--- Step 137 Log ---
+
+== Filtered Candidates ==
+Token: ' get' (ID: 633), Prob: 1.0000
+Token: ' make' (ID: 1281), Prob: 0.0000
+Token: ' gets' (ID: 5221), Prob: 0.0000
+Token: ' block' (ID: 2504), Prob: 0.0000
+Token: 'get' (ID: 455), Prob: 0.0000
+Token: ' become' (ID: 3635), Prob: 0.0000
+Token: ' got' (ID: 2684), Prob: 0.0000
+Token: ' give' (ID: 2968), Prob: 0.0000
+Token: ' getting' (ID: 3709), Prob: 0.0000
+Token: ' maybe' (ID: 7196), Prob: 0.0000
+Token: ' take' (ID: 1896), Prob: 0.0000
+Token: ' Get' (ID: 2126), Prob: 0.0000
+Token: ' keep' (ID: 2506), Prob: 0.0000
+Token: ' still' (ID: 2058), Prob: 0.0000
+Token: ' start' (ID: 1191), Prob: 0.0000
+Token: ' look' (ID: 1401), Prob: 0.0000
+Token: ' find' (ID: 1477), Prob: 0.0000
+Token: ' potentially' (ID: 13581), Prob: 0.0000
+Token: ' see' (ID: 1490), Prob: 0.0000
+Token: ' really' (ID: 2167), Prob: 0.0000
+Token: ' feel' (ID: 2666), Prob: 0.0000
+Token: ' break' (ID: 1438), Prob: 0.0000
+Token: ' mess' (ID: 9435), Prob: 0.0000
+Token: ' melt' (ID: 28999), Prob: 0.0000
+Token: ' easily' (ID: 6707), Prob: 0.0000
+Token: ' possibly' (ID: 10767), Prob: 0.0000
+Token: ' seem' (ID: 2803), Prob: 0.0000
+Token: ' somehow' (ID: 16925), Prob: 0.0000
+Token: ' gotten' (ID: 17019), Prob: 0.0000
+Token: ' perhaps' (ID: 8365), Prob: 0.0000
+Token: ' stand' (ID: 2498), Prob: 0.0000
+Token: ' come' (ID: 2525), Prob: 0.0000
+Token: ' even' (ID: 1496), Prob: 0.0000
+Token: ' let' (ID: 1077), Prob: 0.0000
+Token: ' add' (ID: 912), Prob: 0.0000
+Token: '.get' (ID: 670), Prob: 0.0000
+Token: ' also' (ID: 1083), Prob: 0.0000
+Token: ' definitely' (ID: 8491), Prob: 0.0000
+Token: ' happen' (ID: 3537), Prob: 0.0000
+Token: ' work' (ID: 975), Prob: 0.0000
+Token: ' try' (ID: 1430), Prob: 0.0000
+Token: '_get' (ID: 3062), Prob: 0.0000
+Token: ' grow' (ID: 3063), Prob: 0.0000
+Token: ' eventually' (ID: 9583), Prob: 0.0000
+Token: ' snow' (ID: 11794), Prob: 0.0000
+Token: ' put' (ID: 2182), Prob: 0.0000
+Token: ' prevent' (ID: 5358), Prob: 0.0000
+Token: ' finally' (ID: 5499), Prob: 0.0000
+Token: ' set' (ID: 738), Prob: 0.0000
+Token: ' could' (ID: 1410), Prob: 0.0000
+Token: ' gain' (ID: 8722), Prob: 0.0000
+Token: ' cut' (ID: 3931), Prob: 0.0000
+Token: ' catch' (ID: 2287), Prob: 0.0000
+Token: ' yet' (ID: 3602), Prob: 0.0000
+Token: '	get' (ID: 10366), Prob: 0.0000
+Token: '/get' (ID: 23302), Prob: 0.0000
+Token: ' bit' (ID: 2699), Prob: 0.0000
+Token: ' drive' (ID: 6541), Prob: 0.0000
+Token: ' use' (ID: 990), Prob: 0.0000
+Token: ' create' (ID: 1855), Prob: 0.0000
+Token: 'Get' (ID: 1949), Prob: 0.0000
+Token: ' wait' (ID: 3783), Prob: 0.0000
+Token: ' end' (ID: 835), Prob: 0.0000
+Token: ' bring' (ID: 4446), Prob: 0.0000
+Token: ' ground' (ID: 4910), Prob: 0.0000
+
+== Ranked Concepts (Clusters) ==
+Rank 1 | Concept Score: 1.0000
+  Tokens: [' get', ' gets', 'get', ' got', ' getting', ' Get', ' gotten', '.get', '_get', '\tget', '/get', 'Get']
+Rank 2 | Concept Score: 0.0000
+  Tokens: [' make', ' give', ' take', ' find', ' add', ' prevent', ' create', ' bring']
+Rank 3 | Concept Score: 0.0000
+  Tokens: [' block', ' snow', ' catch', ' drive']
+Rank 4 | Concept Score: 0.0000
+  Tokens: [' become', ' come', ' grow']
+Rank 5 | Concept Score: 0.0000
+  Tokens: [' maybe', ' potentially', ' possibly', ' perhaps', ' could']
+Rank 6 | Concept Score: 0.0000
+  Tokens: [' look', ' see', ' feel', ' try']
+Rank 7 | Concept Score: 0.0000
+  Tokens: [' still', ' even', ' also', ' yet']
+Rank 8 | Concept Score: 0.0000
+  Tokens: [' break', ' mess', ' melt']
+Rank 9 | Concept Score: 0.0000
+  Tokens: [' keep', ' wait']
+Rank 10 | Concept Score: 0.0000
+  Tokens: [' really', ' somehow', ' definitely']
+Rank 11 | Concept Score: 0.0000
+  Tokens: [' start', ' work', ' use', ' end']
+Rank 12 | Concept Score: 0.0000
+  Tokens: [' let', ' put', ' set', ' cut']
+Rank 13 | Concept Score: 0.0000
+  Tokens: [' seem', ' happen']
+Rank 14 | Concept Score: 0.0000
+  Tokens: [' easily']
+Rank 15 | Concept Score: 0.0000
+  Tokens: [' stand', ' ground']
+Rank 16 | Concept Score: 0.0000
+  Tokens: [' eventually', ' finally']
+Rank 17 | Concept Score: 0.0000
+  Tokens: [' gain']
+Rank 18 | Concept Score: 0.0000
+  Tokens: [' bit']
+
+**Chosen Concept:** Rank 1 with score 1.0000

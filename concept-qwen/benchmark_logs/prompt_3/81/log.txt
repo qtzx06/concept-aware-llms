@@ -1,0 +1,68 @@
+--- Step 81 Log ---
+
+== Filtered Candidates ==
+Token: ' someone' (ID: 4325), Prob: 1.0000
+Token: ' something' (ID: 2494), Prob: 0.0004
+Token: ' somewhere' (ID: 14696), Prob: 0.0001
+Token: ' Someone' (ID: 34172), Prob: 0.0001
+Token: ' another' (ID: 2441), Prob: 0.0001
+Token: 'someone' (ID: 89479), Prob: 0.0000
+Token: ' somebody' (ID: 18079), Prob: 0.0000
+Token: ' one' (ID: 825), Prob: 0.0000
+Token: ' maybe' (ID: 7196), Prob: 0.0000
+Token: ' somehow' (ID: 16925), Prob: 0.0000
+Token: ' whoever' (ID: 38271), Prob: 0.0000
+Token: ' person' (ID: 1697), Prob: 0.0000
+Token: 'Someone' (ID: 54511), Prob: 0.0000
+Token: ' yes' (ID: 9834), Prob: 0.0000
+Token: ' everyone' (ID: 5019), Prob: 0.0000
+Token: ' anyone' (ID: 5489), Prob: 0.0000
+Token: ' sure' (ID: 2704), Prob: 0.0000
+Token: ' nobody' (ID: 18581), Prob: 0.0000
+Token: ' otherwise' (ID: 5937), Prob: 0.0000
+Token: ' people' (ID: 1251), Prob: 0.0000
+Token: ' certain' (ID: 3654), Prob: 0.0000
+Token: ' jemand' (ID: 77016), Prob: 0.0000
+Token: ' also' (ID: 1083), Prob: 0.0000
+Token: ' eventually' (ID: 9583), Prob: 0.0000
+Token: ' however' (ID: 4764), Prob: 0.0000
+Token: ' say' (ID: 1977), Prob: 0.0000
+Token: ' nothing' (ID: 4302), Prob: 0.0000
+Token: ' perhaps' (ID: 8365), Prob: 0.0000
+Token: ' alguém' (ID: 140031), Prob: 0.0000
+Token: ' still' (ID: 2058), Prob: 0.0000
+Token: ' either' (ID: 2987), Prob: 0.0000
+
+== Ranked Concepts (Clusters) ==
+Rank 1 | Concept Score: 1.0000
+  Tokens: [' someone', ' Someone', 'someone', ' somebody', 'Someone', ' jemand', ' alguém']
+Rank 2 | Concept Score: 0.0004
+  Tokens: [' something', ' nothing']
+Rank 3 | Concept Score: 0.0001
+  Tokens: [' somewhere', ' somehow']
+Rank 4 | Concept Score: 0.0001
+  Tokens: [' another', ' one']
+Rank 5 | Concept Score: 0.0000
+  Tokens: [' whoever', ' anyone']
+Rank 6 | Concept Score: 0.0000
+  Tokens: [' maybe', ' perhaps']
+Rank 7 | Concept Score: 0.0000
+  Tokens: [' yes', ' sure']
+Rank 8 | Concept Score: 0.0000
+  Tokens: [' person', ' people']
+Rank 9 | Concept Score: 0.0000
+  Tokens: [' everyone', ' nobody']
+Rank 10 | Concept Score: 0.0000
+  Tokens: [' certain', ' say']
+Rank 11 | Concept Score: 0.0000
+  Tokens: [' otherwise']
+Rank 12 | Concept Score: 0.0000
+  Tokens: [' also', ' still']
+Rank 13 | Concept Score: 0.0000
+  Tokens: [' eventually']
+Rank 14 | Concept Score: 0.0000
+  Tokens: [' however']
+Rank 15 | Concept Score: 0.0000
+  Tokens: [' either']
+
+**Chosen Concept:** Rank 1 with score 1.0000

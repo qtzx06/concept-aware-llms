@@ -1,0 +1,75 @@
+--- Step 34 Log ---
+
+== Filtered Candidates ==
+Token: ' Also' (ID: 7281), Prob: 0.0195
+Token: ' However' (ID: 4354), Prob: 0.0183
+Token: ' Let' (ID: 6771), Prob: 0.0152
+Token: ' Maybe' (ID: 10696), Prob: 0.0072
+Token: ' Therefore' (ID: 15277), Prob: 0.0067
+Token: ' Perhaps' (ID: 18765), Prob: 0.0052
+Token: ' According' (ID: 10548), Prob: 0.0049
+Token: ' One' (ID: 3776), Prob: 0.0044
+Token: ' Since' (ID: 8704), Prob: 0.0028
+Token: ' Even' (ID: 7418), Prob: 0.0026
+Token: ' Instead' (ID: 12090), Prob: 0.0025
+Token: ' Hence' (ID: 31040), Prob: 0.0025
+Token: ' Based' (ID: 20205), Prob: 0.0023
+Token: ' Like' (ID: 8909), Prob: 0.0022
+Token: ' Another' (ID: 13293), Prob: 0.0017
+Token: ' Thus' (ID: 14301), Prob: 0.0017
+Token: ' Whether' (ID: 13139), Prob: 0.0016
+Token: ' Whereas' (ID: 60595), Prob: 0.0016
+Token: ' Although' (ID: 10328), Prob: 0.0015
+Token: ' Still' (ID: 16377), Prob: 0.0015
+Token: ' Similarly' (ID: 34239), Prob: 0.0014
+Token: ' Using' (ID: 12091), Prob: 0.0013
+Token: ' People' (ID: 8853), Prob: 0.0012
+Token: ' Please' (ID: 5209), Prob: 0.0012
+Token: ' Research' (ID: 8319), Prob: 0.0011
+Token: ' Taking' (ID: 35825), Prob: 0.0011
+Token: ' Yet' (ID: 14626), Prob: 0.0010
+Token: ' Could' (ID: 16503), Prob: 0.0010
+Token: ' Rather' (ID: 25764), Prob: 0.0010
+Token: ' Different' (ID: 33396), Prob: 0.0010
+Token: ' Social' (ID: 9784), Prob: 0.0009
+Token: ' Unlike' (ID: 26048), Prob: 0.0009
+Token: ' Understanding' (ID: 45451), Prob: 0.0009
+Token: ' First' (ID: 5512), Prob: 0.0009
+
+== Ranked Concepts (Clusters) ==
+Rank 1 | Concept Score: 0.0227
+  Tokens: [' Also', ' Another', ' Similarly']
+Rank 2 | Concept Score: 0.0183
+  Tokens: [' However']
+Rank 3 | Concept Score: 0.0152
+  Tokens: [' Let']
+Rank 4 | Concept Score: 0.0125
+  Tokens: [' Maybe', ' Perhaps']
+Rank 5 | Concept Score: 0.0109
+  Tokens: [' Therefore', ' Hence', ' Thus']
+Rank 6 | Concept Score: 0.0101
+  Tokens: [' According', ' Since', ' Based']
+Rank 7 | Concept Score: 0.0057
+  Tokens: [' Even', ' Whether', ' Although']
+Rank 8 | Concept Score: 0.0052
+  Tokens: [' One', ' First']
+Rank 9 | Concept Score: 0.0035
+  Tokens: [' Instead', ' Rather']
+Rank 10 | Concept Score: 0.0031
+  Tokens: [' Like', ' Unlike']
+Rank 11 | Concept Score: 0.0025
+  Tokens: [' Still', ' Yet']
+Rank 12 | Concept Score: 0.0024
+  Tokens: [' Using', ' Taking']
+Rank 13 | Concept Score: 0.0022
+  Tokens: [' Please', ' Could']
+Rank 14 | Concept Score: 0.0022
+  Tokens: [' People', ' Social']
+Rank 15 | Concept Score: 0.0019
+  Tokens: [' Different', ' Understanding']
+Rank 16 | Concept Score: 0.0016
+  Tokens: [' Whereas']
+Rank 17 | Concept Score: 0.0011
+  Tokens: [' Research']
+
+**Chosen Concept:** Rank 1 with score 0.0227

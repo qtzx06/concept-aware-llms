@@ -1,0 +1,102 @@
+--- Step 110 Log ---
+
+== Filtered Candidates ==
+Token: ' try' (ID: 1430), Prob: 1.0000
+Token: ' get' (ID: 633), Prob: 0.0002
+Token: ' trying' (ID: 4460), Prob: 0.0000
+Token: ' attempt' (ID: 4774), Prob: 0.0000
+Token: ' take' (ID: 1896), Prob: 0.0000
+Token: ' ask' (ID: 2548), Prob: 0.0000
+Token: ' trade' (ID: 6559), Prob: 0.0000
+Token: ' want' (ID: 1366), Prob: 0.0000
+Token: ' think' (ID: 1744), Prob: 0.0000
+Token: ' tried' (ID: 6679), Prob: 0.0000
+Token: ' tries' (ID: 16297), Prob: 0.0000
+Token: ' give' (ID: 2968), Prob: 0.0000
+Token: ' tri' (ID: 2406), Prob: 0.0000
+Token: ' return' (ID: 470), Prob: 0.0000
+Token: ' make' (ID: 1281), Prob: 0.0000
+Token: ' cry' (ID: 15729), Prob: 0.0000
+Token: ' also' (ID: 1083), Prob: 0.0000
+Token: ' throw' (ID: 2510), Prob: 0.0000
+Token: ' Try' (ID: 9735), Prob: 0.0000
+Token: ' find' (ID: 1477), Prob: 0.0000
+Token: ' choose' (ID: 5157), Prob: 0.0000
+Token: ' still' (ID: 2058), Prob: 0.0000
+Token: ' put' (ID: 2182), Prob: 0.0000
+Token: ' trial' (ID: 9091), Prob: 0.0000
+Token: ' request' (ID: 1681), Prob: 0.0000
+Token: ' buy' (ID: 3695), Prob: 0.0000
+Token: ' claim' (ID: 3717), Prob: 0.0000
+Token: ' say' (ID: 1977), Prob: 0.0000
+Token: ' consider' (ID: 2908), Prob: 0.0000
+Token: ' use' (ID: 990), Prob: 0.0000
+Token: ' respond' (ID: 5889), Prob: 0.0000
+Token: '	try' (ID: 6799), Prob: 0.0000
+Token: '.try' (ID: 48779), Prob: 0.0000
+Token: ' need' (ID: 1184), Prob: 0.0000
+Token: ' start' (ID: 1191), Prob: 0.0000
+Token: ' three' (ID: 2326), Prob: 0.0000
+Token: ' tell' (ID: 3291), Prob: 0.0000
+Token: ' strive' (ID: 36006), Prob: 0.0000
+Token: ' see' (ID: 1490), Prob: 0.0000
+Token: ' help' (ID: 1492), Prob: 0.0000
+Token: ' test' (ID: 1273), Prob: 0.0000
+Token: ' catch' (ID: 2287), Prob: 0.0000
+Token: ' trip' (ID: 8411), Prob: 0.0000
+Token: 'try' (ID: 1539), Prob: 0.0000
+Token: ' come' (ID: 2525), Prob: 0.0000
+Token: ' apply' (ID: 3796), Prob: 0.0000
+Token: ' retry' (ID: 22683), Prob: 0.0000
+Token: ' TRY' (ID: 78481), Prob: 0.0000
+Token: ' check' (ID: 1779), Prob: 0.0000
+Token: ' pay' (ID: 2291), Prob: 0.0000
+Token: ' replace' (ID: 8290), Prob: 0.0000
+Token: ' tend' (ID: 8376), Prob: 0.0000
+Token: ' wait' (ID: 3783), Prob: 0.0000
+Token: ' right' (ID: 1290), Prob: 0.0000
+Token: ' please' (ID: 4486), Prob: 0.0000
+
+== Ranked Concepts (Clusters) ==
+Rank 1 | Concept Score: 1.0000
+  Tokens: [' try', ' trying', ' attempt', ' tried', ' tries', ' Try', '\ttry', '.try', 'try', ' TRY']
+Rank 2 | Concept Score: 0.0002
+  Tokens: [' get', ' take', ' make', ' find']
+Rank 3 | Concept Score: 0.0000
+  Tokens: [' ask', ' request', ' claim']
+Rank 4 | Concept Score: 0.0000
+  Tokens: [' trade', ' buy', ' pay']
+Rank 5 | Concept Score: 0.0000
+  Tokens: [' want', ' need', ' tend']
+Rank 6 | Concept Score: 0.0000
+  Tokens: [' think', ' consider', ' see']
+Rank 7 | Concept Score: 0.0000
+  Tokens: [' give', ' put', ' help', ' come']
+Rank 8 | Concept Score: 0.0000
+  Tokens: [' return', ' throw', ' catch']
+Rank 9 | Concept Score: 0.0000
+  Tokens: [' tri', ' three', ' trip']
+Rank 10 | Concept Score: 0.0000
+  Tokens: [' choose', ' respond', ' apply', ' replace']
+Rank 11 | Concept Score: 0.0000
+  Tokens: [' also', ' still']
+Rank 12 | Concept Score: 0.0000
+  Tokens: [' trial', ' test', ' check']
+Rank 13 | Concept Score: 0.0000
+  Tokens: [' cry']
+Rank 14 | Concept Score: 0.0000
+  Tokens: [' use', ' start']
+Rank 15 | Concept Score: 0.0000
+  Tokens: [' say', ' tell']
+Rank 16 | Concept Score: 0.0000
+  Tokens: [' strive']
+Rank 17 | Concept Score: 0.0000
+  Tokens: [' retry']
+Rank 18 | Concept Score: 0.0000
+  Tokens: [' wait']
+Rank 19 | Concept Score: 0.0000
+  Tokens: [' right']
+Rank 20 | Concept Score: 0.0000
+  Tokens: [' please']
+
+**Chosen Concept:** Rank 1 with score 1.0000

@@ -1,0 +1,99 @@
+--- Step 116 Log ---
+
+== Filtered Candidates ==
+Token: ' traveler' (ID: 62765), Prob: 1.0000
+Token: ' travel' (ID: 5821), Prob: 0.0005
+Token: ' travelers' (ID: 39286), Prob: 0.0003
+Token: ' must' (ID: 1969), Prob: 0.0001
+Token: '-tr' (ID: 10188), Prob: 0.0000
+Token: ' traveling' (ID: 20971), Prob: 0.0000
+Token: ' travels' (ID: 34192), Prob: 0.0000
+Token: ' traveled' (ID: 30696), Prob: 0.0000
+Token: ' worker' (ID: 11864), Prob: 0.0000
+Token: ' zone' (ID: 10143), Prob: 0.0000
+Token: ' tele' (ID: 7963), Prob: 0.0000
+Token: ' traveller' (ID: 85194), Prob: 0.0000
+Token: ' trader' (ID: 44365), Prob: 0.0000
+Token: ' would' (ID: 1035), Prob: 0.0000
+Token: ' machine' (ID: 5662), Prob: 0.0000
+Token: ' trip' (ID: 8411), Prob: 0.0000
+Token: ' passenger' (ID: 23148), Prob: 0.0000
+Token: ' operator' (ID: 5675), Prob: 0.0000
+Token: ' trainer' (ID: 28894), Prob: 0.0000
+Token: ' journey' (ID: 11618), Prob: 0.0000
+Token: ' Travel' (ID: 18097), Prob: 0.0000
+Token: ' cannot' (ID: 4157), Prob: 0.0000
+Token: ' visitor' (ID: 20181), Prob: 0.0000
+Token: ' needs' (ID: 3880), Prob: 0.0000
+Token: ' transfer' (ID: 8317), Prob: 0.0000
+Token: ' zero' (ID: 7168), Prob: 0.0000
+Token: ' plane' (ID: 11031), Prob: 0.0000
+Token: ' maker' (ID: 24232), Prob: 0.0000
+Token: ' leader' (ID: 7653), Prob: 0.0000
+Token: ' flight' (ID: 10971), Prob: 0.0000
+Token: ' tourist' (ID: 29970), Prob: 0.0000
+Token: ' investor' (ID: 29593), Prob: 0.0000
+Token: ' lover' (ID: 30557), Prob: 0.0000
+Token: ' diplomat' (ID: 67950), Prob: 0.0000
+Token: ' flyer' (ID: 74906), Prob: 0.0000
+Token: ' spent' (ID: 7391), Prob: 0.0000
+Token: ' therapist' (ID: 41763), Prob: 0.0000
+Token: ' teleport' (ID: 49489), Prob: 0.0000
+Token: ' closer' (ID: 12128), Prob: 0.0000
+Token: ' one' (ID: 825), Prob: 0.0000
+Token: ' two' (ID: 1378), Prob: 0.0000
+Token: ' driver' (ID: 5579), Prob: 0.0000
+Token: ' manager' (ID: 6645), Prob: 0.0000
+Token: ' farmer' (ID: 36400), Prob: 0.0000
+Token: ' away' (ID: 3123), Prob: 0.0000
+Token: ' problem' (ID: 3491), Prob: 0.0000
+Token: ' shall' (ID: 4880), Prob: 0.0000
+Token: ' delay' (ID: 7626), Prob: 0.0000
+Token: ' skip' (ID: 10706), Prob: 0.0000
+Token: ' viewer' (ID: 25708), Prob: 0.0000
+Token: ' athlete' (ID: 33780), Prob: 0.0000
+Token: ' explorer' (ID: 52967), Prob: 0.0000
+Token: ' exporter' (ID: 57378), Prob: 0.0000
+Token: ' user' (ID: 1196), Prob: 0.0000
+
+== Ranked Concepts (Clusters) ==
+Rank 1 | Concept Score: 1.0000
+  Tokens: [' traveler', ' travel', ' travelers', ' traveling', ' travels', ' traveled', ' traveller', ' Travel']
+Rank 2 | Concept Score: 0.0001
+  Tokens: [' must', ' would', ' cannot', ' needs', ' shall']
+Rank 3 | Concept Score: 0.0000
+  Tokens: ['-tr']
+Rank 4 | Concept Score: 0.0000
+  Tokens: [' worker', ' operator', ' driver']
+Rank 5 | Concept Score: 0.0000
+  Tokens: [' zone', ' zero', ' one', ' two']
+Rank 6 | Concept Score: 0.0000
+  Tokens: [' trader', ' trainer', ' diplomat', ' therapist', ' exporter']
+Rank 7 | Concept Score: 0.0000
+  Tokens: [' tele', ' teleport']
+Rank 8 | Concept Score: 0.0000
+  Tokens: [' trip', ' journey']
+Rank 9 | Concept Score: 0.0000
+  Tokens: [' passenger', ' tourist']
+Rank 10 | Concept Score: 0.0000
+  Tokens: [' visitor', ' investor', ' farmer', ' viewer', ' athlete']
+Rank 11 | Concept Score: 0.0000
+  Tokens: [' machine']
+Rank 12 | Concept Score: 0.0000
+  Tokens: [' transfer', ' spent', ' delay', ' skip']
+Rank 13 | Concept Score: 0.0000
+  Tokens: [' plane', ' flight', ' flyer']
+Rank 14 | Concept Score: 0.0000
+  Tokens: [' maker', ' leader', ' manager']
+Rank 15 | Concept Score: 0.0000
+  Tokens: [' lover', ' explorer']
+Rank 16 | Concept Score: 0.0000
+  Tokens: [' closer']
+Rank 17 | Concept Score: 0.0000
+  Tokens: [' away']
+Rank 18 | Concept Score: 0.0000
+  Tokens: [' problem']
+Rank 19 | Concept Score: 0.0000
+  Tokens: [' user']
+
+**Chosen Concept:** Rank 1 with score 1.0000

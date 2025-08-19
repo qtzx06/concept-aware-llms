@@ -1,0 +1,96 @@
+--- Step 99 Log ---
+
+== Filtered Candidates ==
+Token: ' way' (ID: 1616), Prob: 0.9844
+Token: ' ways' (ID: 5510), Prob: 0.0001
+Token: ' Way' (ID: 12149), Prob: 0.0000
+Token: ' manner' (ID: 11566), Prob: 0.0000
+Token: ' like' (ID: 1075), Prob: 0.0000
+Token: 'way' (ID: 3117), Prob: 0.0000
+Token: ' following' (ID: 2701), Prob: 0.0000
+Token: ' WAY' (ID: 24400), Prob: 0.0000
+Token: '-way' (ID: 26798), Prob: 0.0000
+Token: '.way' (ID: 90888), Prob: 0.0000
+Token: '_way' (ID: 48936), Prob: 0.0000
+Token: ' right' (ID: 1290), Prob: 0.0000
+Token: ' day' (ID: 1899), Prob: 0.0000
+Token: 'Way' (ID: 35054), Prob: 0.0000
+Token: ' thing' (ID: 3166), Prob: 0.0000
+Token: ' kind' (ID: 3093), Prob: 0.0000
+Token: ' year' (ID: 1042), Prob: 0.0000
+Token: ' original' (ID: 4024), Prob: 0.0000
+Token: ' say' (ID: 1977), Prob: 0.0000
+Token: ' whole' (ID: 4361), Prob: 0.0000
+Token: ' case' (ID: 1142), Prob: 0.0000
+Token: ' week' (ID: 2003), Prob: 0.0000
+Token: ' road' (ID: 5636), Prob: 0.0000
+Token: ' matter' (ID: 4925), Prob: 0.0000
+Token: ' money' (ID: 3220), Prob: 0.0000
+Token: ' usual' (ID: 13475), Prob: 0.0000
+Token: ' new' (ID: 501), Prob: 0.0000
+Token: ' water' (ID: 3015), Prob: 0.0000
+Token: ' fashion' (ID: 11153), Prob: 0.0000
+Token: ' said' (ID: 1053), Prob: 0.0000
+Token: ' war' (ID: 4116), Prob: 0.0000
+Token: ' situation' (ID: 6534), Prob: 0.0000
+Token: ' worst' (ID: 11785), Prob: 0.0000
+Token: ' better' (ID: 2664), Prob: 0.0000
+Token: ' path' (ID: 1815), Prob: 0.0000
+Token: ' similar' (ID: 4428), Prob: 0.0000
+Token: ' work' (ID: 975), Prob: 0.0000
+Token: ' first' (ID: 1156), Prob: 0.0000
+Token: ' method' (ID: 1714), Prob: 0.0000
+Token: ' one' (ID: 825), Prob: 0.0000
+Token: ' web' (ID: 3482), Prob: 0.0000
+Token: ' trade' (ID: 6559), Prob: 0.0000
+Token: ' façon' (ID: 75307), Prob: 0.0000
+Token: ' previous' (ID: 3681), Prob: 0.0000
+Token: ' good' (ID: 1661), Prob: 0.0000
+Token: ' reason' (ID: 2874), Prob: 0.0000
+Token: ' away' (ID: 3123), Prob: 0.0000
+Token: ' weight' (ID: 4680), Prob: 0.0000
+Token: ' worse' (ID: 10960), Prob: 0.0000
+Token: ' place' (ID: 1992), Prob: 0.0000
+Token: ' price' (ID: 3349), Prob: 0.0000
+
+== Ranked Concepts (Clusters) ==
+Rank 1 | Concept Score: 0.9844
+  Tokens: [' way', ' ways', ' Way', 'way', ' WAY', '-way', '.way', '_way', 'Way']
+Rank 2 | Concept Score: 0.0000
+  Tokens: [' manner', ' fashion', ' façon']
+Rank 3 | Concept Score: 0.0000
+  Tokens: [' like', ' similar']
+Rank 4 | Concept Score: 0.0000
+  Tokens: [' following', ' original', ' usual', ' previous']
+Rank 5 | Concept Score: 0.0000
+  Tokens: [' day', ' year', ' week']
+Rank 6 | Concept Score: 0.0000
+  Tokens: [' money', ' water', ' war', ' work', ' web', ' trade', ' weight', ' price']
+Rank 7 | Concept Score: 0.0000
+  Tokens: [' right']
+Rank 8 | Concept Score: 0.0000
+  Tokens: [' thing']
+Rank 9 | Concept Score: 0.0000
+  Tokens: [' kind', ' reason']
+Rank 10 | Concept Score: 0.0000
+  Tokens: [' say', ' said']
+Rank 11 | Concept Score: 0.0000
+  Tokens: [' worst', ' better', ' good', ' worse']
+Rank 12 | Concept Score: 0.0000
+  Tokens: [' case', ' situation']
+Rank 13 | Concept Score: 0.0000
+  Tokens: [' new', ' first', ' one']
+Rank 14 | Concept Score: 0.0000
+  Tokens: [' road', ' path']
+Rank 15 | Concept Score: 0.0000
+  Tokens: [' whole']
+Rank 16 | Concept Score: 0.0000
+  Tokens: [' matter']
+Rank 17 | Concept Score: 0.0000
+  Tokens: [' method']
+Rank 18 | Concept Score: 0.0000
+  Tokens: [' away']
+Rank 19 | Concept Score: 0.0000
+  Tokens: [' place']
+
+**Chosen Concept:** Rank 1 with score 0.9844

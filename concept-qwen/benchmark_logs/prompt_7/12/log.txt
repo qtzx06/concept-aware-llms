@@ -1,0 +1,122 @@
+--- Step 12 Log ---
+
+== Filtered Candidates ==
+Token: ' thing' (ID: 3166), Prob: 0.7930
+Token: ' item' (ID: 1509), Prob: 0.0327
+Token: ' small' (ID: 2613), Prob: 0.0155
+Token: ' part' (ID: 949), Prob: 0.0061
+Token: ' little' (ID: 2632), Prob: 0.0050
+Token: ' day' (ID: 1899), Prob: 0.0044
+Token: ' particular' (ID: 3953), Prob: 0.0042
+Token: ' event' (ID: 1538), Prob: 0.0029
+Token: ' single' (ID: 3175), Prob: 0.0029
+Token: ' character' (ID: 3668), Prob: 0.0029
+Token: ' person' (ID: 1697), Prob: 0.0025
+Token: ' detail' (ID: 7716), Prob: 0.0025
+Token: ' place' (ID: 1992), Prob: 0.0024
+Token: ' scene' (ID: 6109), Prob: 0.0024
+Token: ' element' (ID: 2392), Prob: 0.0022
+Token: ' way' (ID: 1616), Prob: 0.0020
+Token: ' piece' (ID: 6573), Prob: 0.0018
+Token: ' aspect' (ID: 12893), Prob: 0.0017
+Token: ' object' (ID: 1633), Prob: 0.0016
+Token: ' special' (ID: 3281), Prob: 0.0016
+Token: ' moment' (ID: 4445), Prob: 0.0016
+Token: ' snow' (ID: 11794), Prob: 0.0015
+Token: ' things' (ID: 2513), Prob: 0.0014
+Token: ' area' (ID: 3082), Prob: 0.0014
+Token: ' line' (ID: 1555), Prob: 0.0011
+Token: ' action' (ID: 1917), Prob: 0.0011
+Token: ' time' (ID: 882), Prob: 0.0010
+Token: ' bit' (ID: 2699), Prob: 0.0010
+Token: ' feature' (ID: 4565), Prob: 0.0010
+Token: ' movie' (ID: 5700), Prob: 0.0010
+Token: ' key' (ID: 1376), Prob: 0.0009
+Token: ' story' (ID: 3364), Prob: 0.0009
+Token: ' tiny' (ID: 13673), Prob: 0.0009
+Token: ' simple' (ID: 4285), Prob: 0.0008
+Token: ' toy' (ID: 21357), Prob: 0.0008
+Token: ' magical' (ID: 23702), Prob: 0.0007
+Token: ' something' (ID: 2494), Prob: 0.0006
+Token: ' trick' (ID: 14068), Prob: 0.0006
+Token: ' night' (ID: 3729), Prob: 0.0006
+Token: ' gift' (ID: 8189), Prob: 0.0006
+Token: ' game' (ID: 1809), Prob: 0.0006
+Token: ' side' (ID: 3108), Prob: 0.0006
+Token: ' task' (ID: 3383), Prob: 0.0006
+Token: ' friend' (ID: 4238), Prob: 0.0006
+Token: ' important' (ID: 2989), Prob: 0.0005
+Token: ' good' (ID: 1661), Prob: 0.0005
+Token: ' child' (ID: 1682), Prob: 0.0005
+Token: ' spot' (ID: 7702), Prob: 0.0005
+Token: ' room' (ID: 3054), Prob: 0.0005
+Token: ' goal' (ID: 5795), Prob: 0.0005
+Token: ' step' (ID: 3019), Prob: 0.0004
+Token: ' favorite' (ID: 6930), Prob: 0.0004
+Token: ' magic' (ID: 10963), Prob: 0.0004
+Token: ' specific' (ID: 3151), Prob: 0.0004
+Token: ' activity' (ID: 5702), Prob: 0.0004
+Token: ' pair' (ID: 6716), Prob: 0.0004
+Token: ' problem' (ID: 3491), Prob: 0.0003
+Token: ' minute' (ID: 9383), Prob: 0.0003
+Token: ' point' (ID: 1459), Prob: 0.0003
+Token: ' issue' (ID: 4265), Prob: 0.0003
+Token: ' wish' (ID: 6426), Prob: 0.0003
+Token: ' situation' (ID: 6534), Prob: 0.0003
+Token: ' act' (ID: 1160), Prob: 0.0003
+Token: ' minor' (ID: 8922), Prob: 0.0003
+Token: ' holiday' (ID: 13257), Prob: 0.0003
+Token: ' Disney' (ID: 16390), Prob: 0.0003
+Token: ' twist' (ID: 26646), Prob: 0.0003
+Token: ' snack' (ID: 39359), Prob: 0.0003
+Token: ' less' (ID: 2686), Prob: 0.0003
+Token: ' chore' (ID: 49571), Prob: 0.0003
+Token: ' project' (ID: 2390), Prob: 0.0002
+Token: ' word' (ID: 3409), Prob: 0.0002
+Token: ' challenge' (ID: 8645), Prob: 0.0002
+Token: ' big' (ID: 2409), Prob: 0.0002
+Token: ' member' (ID: 4462), Prob: 0.0002
+
+== Ranked Concepts (Clusters) ==
+Rank 1 | Concept Score: 0.7969
+  Tokens: [' thing', ' things', ' something']
+Rank 2 | Concept Score: 0.0420
+  Tokens: [' item', ' character', ' person', ' element', ' object']
+Rank 3 | Concept Score: 0.0229
+  Tokens: [' small', ' little', ' tiny', ' simple', ' minor', ' less', ' big']
+Rank 4 | Concept Score: 0.0096
+  Tokens: [' particular', ' single', ' special', ' important', ' specific']
+Rank 5 | Concept Score: 0.0080
+  Tokens: [' day', ' moment', ' time', ' night', ' minute']
+Rank 6 | Concept Score: 0.0069
+  Tokens: [' snow', ' movie', ' toy', ' magical', ' gift', ' friend', ' favorite', ' magic', ' holiday', ' Disney', ' snack']
+Rank 7 | Concept Score: 0.0068
+  Tokens: [' part', ' step', ' point']
+Rank 8 | Concept Score: 0.0052
+  Tokens: [' detail', ' aspect', ' feature']
+Rank 9 | Concept Score: 0.0048
+  Tokens: [' place', ' area', ' side', ' spot']
+Rank 10 | Concept Score: 0.0046
+  Tokens: [' event', ' action', ' activity', ' act']
+Rank 11 | Concept Score: 0.0028
+  Tokens: [' piece', ' bit']
+Rank 12 | Concept Score: 0.0027
+  Tokens: [' scene', ' situation']
+Rank 13 | Concept Score: 0.0021
+  Tokens: [' task', ' goal', ' problem', ' issue', ' project', ' challenge']
+Rank 14 | Concept Score: 0.0020
+  Tokens: [' way']
+Rank 15 | Concept Score: 0.0019
+  Tokens: [' story', ' game', ' room']
+Rank 16 | Concept Score: 0.0014
+  Tokens: [' key', ' good']
+Rank 17 | Concept Score: 0.0014
+  Tokens: [' line', ' word']
+Rank 18 | Concept Score: 0.0011
+  Tokens: [' child', ' pair', ' member']
+Rank 19 | Concept Score: 0.0009
+  Tokens: [' wish', ' twist', ' chore']
+Rank 20 | Concept Score: 0.0006
+  Tokens: [' trick']
+
+**Chosen Concept:** Rank 1 with score 0.7969

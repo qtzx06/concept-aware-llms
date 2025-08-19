@@ -1,0 +1,118 @@
+--- Step 27 Log ---
+
+== Filtered Candidates ==
+Token: ' believe' (ID: 4411), Prob: 0.0337
+Token: ' say' (ID: 1977), Prob: 0.0125
+Token: ' try' (ID: 1430), Prob: 0.0103
+Token: ' find' (ID: 1477), Prob: 0.0097
+Token: ' discover' (ID: 6997), Prob: 0.0097
+Token: ' want' (ID: 1366), Prob: 0.0085
+Token: ' begin' (ID: 3161), Prob: 0.0067
+Token: ' suggest' (ID: 4190), Prob: 0.0063
+Token: ' initially' (ID: 15102), Prob: 0.0059
+Token: ' need' (ID: 1184), Prob: 0.0055
+Token: ' investigate' (ID: 19314), Prob: 0.0052
+Token: ' plan' (ID: 3119), Prob: 0.0049
+Token: ' start' (ID: 1191), Prob: 0.0046
+Token: ' speculate' (ID: 63501), Prob: 0.0046
+Token: ' also' (ID: 1083), Prob: 0.0040
+Token: ' must' (ID: 1969), Prob: 0.0040
+Token: ' think' (ID: 1744), Prob: 0.0038
+Token: ' study' (ID: 3920), Prob: 0.0038
+Token: ' discovered' (ID: 11105), Prob: 0.0036
+Token: ' use' (ID: 990), Prob: 0.0033
+Token: ' look' (ID: 1401), Prob: 0.0030
+Token: ' develop' (ID: 2225), Prob: 0.0030
+Token: ' began' (ID: 6009), Prob: 0.0030
+Token: ' predict' (ID: 7023), Prob: 0.0030
+Token: ' analyze' (ID: 23643), Prob: 0.0028
+Token: ' started' (ID: 3855), Prob: 0.0024
+Token: ' agree' (ID: 7503), Prob: 0.0023
+Token: ' first' (ID: 1156), Prob: 0.0022
+Token: ' found' (ID: 1730), Prob: 0.0020
+Token: ' suspect' (ID: 15207), Prob: 0.0020
+Token: ' explore' (ID: 13186), Prob: 0.0019
+Token: ' determine' (ID: 8253), Prob: 0.0017
+Token: ' would' (ID: 1035), Prob: 0.0016
+Token: ' decide' (ID: 10279), Prob: 0.0014
+Token: ' report' (ID: 1895), Prob: 0.0013
+Token: ' attempt' (ID: 4774), Prob: 0.0013
+Token: ' tried' (ID: 6679), Prob: 0.0013
+Token: ' hope' (ID: 3900), Prob: 0.0012
+Token: ' could' (ID: 1410), Prob: 0.0012
+Token: ' team' (ID: 2083), Prob: 0.0012
+Token: ' claim' (ID: 3717), Prob: 0.0012
+Token: ' detect' (ID: 11140), Prob: 0.0012
+Token: ' set' (ID: 738), Prob: 0.0011
+Token: ' test' (ID: 1273), Prob: 0.0011
+Token: ' continue' (ID: 3060), Prob: 0.0011
+Token: ' soon' (ID: 5135), Prob: 0.0011
+Token: ' tested' (ID: 12510), Prob: 0.0011
+Token: ' work' (ID: 975), Prob: 0.0010
+Token: ' expect' (ID: 1720), Prob: 0.0010
+Token: ' immediately' (ID: 7069), Prob: 0.0010
+Token: ' hypo' (ID: 21845), Prob: 0.0009
+Token: ' propose' (ID: 29614), Prob: 0.0009
+Token: ' may' (ID: 1231), Prob: 0.0008
+Token: ' working' (ID: 3238), Prob: 0.0008
+Token: ' developed' (ID: 7881), Prob: 0.0008
+Token: ' studying' (ID: 20956), Prob: 0.0008
+Token: ' already' (ID: 2669), Prob: 0.0008
+Token: ' trying' (ID: 4460), Prob: 0.0008
+Token: ' currently' (ID: 5023), Prob: 0.0008
+Token: ' today' (ID: 3351), Prob: 0.0007
+Token: ' previously' (ID: 8597), Prob: 0.0007
+Token: ' assume' (ID: 9658), Prob: 0.0007
+Token: ' manage' (ID: 10091), Prob: 0.0007
+Token: ' call' (ID: 1618), Prob: 0.0007
+Token: ' still' (ID: 2058), Prob: 0.0007
+Token: ' note' (ID: 5185), Prob: 0.0007
+Token: ' warn' (ID: 8809), Prob: 0.0007
+Token: ' aim' (ID: 9213), Prob: 0.0007
+Token: ' realize' (ID: 13083), Prob: 0.0007
+Token: ' involved' (ID: 6398), Prob: 0.0006
+Token: ' decided' (ID: 6635), Prob: 0.0006
+Token: ' scientists' (ID: 13923), Prob: 0.0006
+Token: ' conclude' (ID: 31094), Prob: 0.0006
+Token: ' onboard' (ID: 55058), Prob: 0.0006
+Token: ' recommend' (ID: 6934), Prob: 0.0005
+
+== Ranked Concepts (Clusters) ==
+Rank 1 | Concept Score: 0.0518
+  Tokens: [' believe', ' suggest', ' speculate', ' think', ' propose', ' assume', ' realize', ' conclude', ' recommend']
+Rank 2 | Concept Score: 0.0261
+  Tokens: [' find', ' discover', ' discovered', ' found', ' detect']
+Rank 3 | Concept Score: 0.0166
+  Tokens: [' begin', ' start', ' began', ' started']
+Rank 4 | Concept Score: 0.0156
+  Tokens: [' initially', ' also', ' soon', ' immediately', ' already', ' currently', ' today', ' previously', ' still']
+Rank 5 | Concept Score: 0.0151
+  Tokens: [' investigate', ' study', ' analyze', ' explore', ' studying', ' scientists']
+Rank 6 | Concept Score: 0.0151
+  Tokens: [' say', ' report', ' call', ' note']
+Rank 7 | Concept Score: 0.0137
+  Tokens: [' try', ' attempt', ' tried', ' trying']
+Rank 8 | Concept Score: 0.0118
+  Tokens: [' need', ' use', ' look']
+Rank 9 | Concept Score: 0.0092
+  Tokens: [' want', ' aim']
+Rank 10 | Concept Score: 0.0090
+  Tokens: [' predict', ' suspect', ' hope', ' claim', ' expect', ' warn']
+Rank 11 | Concept Score: 0.0082
+  Tokens: [' plan', ' team', ' test', ' tested']
+Rank 12 | Concept Score: 0.0076
+  Tokens: [' must', ' would', ' could', ' may']
+Rank 13 | Concept Score: 0.0067
+  Tokens: [' agree', ' determine', ' decide', ' manage', ' decided']
+Rank 14 | Concept Score: 0.0044
+  Tokens: [' develop', ' developed', ' involved']
+Rank 15 | Concept Score: 0.0033
+  Tokens: [' first', ' set']
+Rank 16 | Concept Score: 0.0018
+  Tokens: [' work', ' working']
+Rank 17 | Concept Score: 0.0015
+  Tokens: [' hypo', ' onboard']
+Rank 18 | Concept Score: 0.0011
+  Tokens: [' continue']
+
+**Chosen Concept:** Rank 1 with score 0.0518

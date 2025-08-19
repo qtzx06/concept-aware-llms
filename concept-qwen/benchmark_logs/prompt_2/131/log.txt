@@ -1,0 +1,135 @@
+--- Step 131 Log ---
+
+== Filtered Candidates ==
+Token: ' cause' (ID: 5240), Prob: 0.9023
+Token: ' lead' (ID: 2990), Prob: 0.0054
+Token: ' produce' (ID: 8193), Prob: 0.0014
+Token: ' result' (ID: 1102), Prob: 0.0012
+Token: ' create' (ID: 1855), Prob: 0.0011
+Token: ' pose' (ID: 17040), Prob: 0.0010
+Token: ' present' (ID: 3042), Prob: 0.0009
+Token: ' contain' (ID: 6644), Prob: 0.0006
+Token: ' act' (ID: 1160), Prob: 0.0005
+Token: ' trigger' (ID: 8183), Prob: 0.0005
+Token: ' kill' (ID: 5505), Prob: 0.0004
+Token: ' affect' (ID: 7802), Prob: 0.0004
+Token: ' causes' (ID: 11137), Prob: 0.0004
+Token: ' carry' (ID: 6777), Prob: 0.0003
+Token: ' damage' (ID: 5557), Prob: 0.0002
+Token: ' bring' (ID: 4446), Prob: 0.0002
+Token: ' caused' (ID: 8881), Prob: 0.0002
+Token: ' contribute' (ID: 16792), Prob: 0.0002
+Token: ' causing' (ID: 14381), Prob: 0.0002
+Token: ' induce' (ID: 48753), Prob: 0.0002
+Token: ' make' (ID: 1281), Prob: 0.0002
+Token: ' potentially' (ID: 13581), Prob: 0.0002
+Token: ' harm' (ID: 11428), Prob: 0.0001
+Token: ' provide' (ID: 3410), Prob: 0.0001
+Token: ' destroy' (ID: 6921), Prob: 0.0001
+Token: ' possibly' (ID: 10767), Prob: 0.0001
+Token: ' work' (ID: 975), Prob: 0.0001
+Token: ' show' (ID: 1473), Prob: 0.0001
+Token: ' also' (ID: 1083), Prob: 0.0001
+Token: ' play' (ID: 1486), Prob: 0.0001
+Token: ' appear' (ID: 4994), Prob: 0.0001
+Token: ' serve' (ID: 8683), Prob: 0.0001
+Token: ' give' (ID: 2968), Prob: 0.0001
+Token: ' reduce' (ID: 7949), Prob: 0.0001
+Token: ' require' (ID: 1373), Prob: 0.0001
+Token: ' include' (ID: 2924), Prob: 0.0001
+Token: ' become' (ID: 3635), Prob: 0.0001
+Token: ' introduce' (ID: 19131), Prob: 0.0000
+Token: ' allow' (ID: 2138), Prob: 0.0000
+Token: ' come' (ID: 2525), Prob: 0.0000
+Token: ' develop' (ID: 2225), Prob: 0.0000
+Token: ' take' (ID: 1896), Prob: 0.0000
+Token: ' exist' (ID: 3000), Prob: 0.0000
+Token: ' increase' (ID: 5263), Prob: 0.0000
+Token: ' negatively' (ID: 47191), Prob: 0.0000
+Token: ' sometimes' (ID: 7025), Prob: 0.0000
+Token: ' activate' (ID: 20276), Prob: 0.0000
+Token: 'cause' (ID: 1563), Prob: 0.0000
+Token: ' fail' (ID: 3690), Prob: 0.0000
+Token: ' interfere' (ID: 39878), Prob: 0.0000
+Token: ' may' (ID: 1231), Prob: 0.0000
+Token: ' generate' (ID: 6923), Prob: 0.0000
+Token: ' help' (ID: 1492), Prob: 0.0000
+Token: ' attack' (ID: 3359), Prob: 0.0000
+Token: ' prevent' (ID: 5358), Prob: 0.0000
+Token: ' impact' (ID: 5421), Prob: 0.0000
+Token: ' possess' (ID: 15218), Prob: 0.0000
+Token: ' caus' (ID: 24524), Prob: 0.0000
+Token: ' accidentally' (ID: 32384), Prob: 0.0000
+Token: ' prove' (ID: 12118), Prob: 0.0000
+Token: ' behave' (ID: 35692), Prob: 0.0000
+Token: ' function' (ID: 729), Prob: 0.0000
+Token: ' suffer' (ID: 7676), Prob: 0.0000
+Token: ' promote' (ID: 11926), Prob: 0.0000
+Token: ' adversely' (ID: 68114), Prob: 0.0000
+Token: ' raise' (ID: 4828), Prob: 0.0000
+Token: ' poison' (ID: 20476), Prob: 0.0000
+Token: ' exhibit' (ID: 30224), Prob: 0.0000
+Token: ' add' (ID: 912), Prob: 0.0000
+Token: ' threaten' (ID: 39150), Prob: 0.0000
+Token: ' start' (ID: 1191), Prob: 0.0000
+Token: ' offer' (ID: 3010), Prob: 0.0000
+Token: ' endanger' (ID: 36937), Prob: 0.0000
+Token: ' interact' (ID: 16282), Prob: 0.0000
+Token: ' decrease' (ID: 18472), Prob: 0.0000
+Token: ' need' (ID: 1184), Prob: 0.0000
+Token: ' cost' (ID: 2783), Prob: 0.0000
+Token: ' turn' (ID: 2484), Prob: 0.0000
+Token: ' impair' (ID: 37874), Prob: 0.0000
+Token: ' conflict' (ID: 12055), Prob: 0.0000
+Token: ' occur' (ID: 12170), Prob: 0.0000
+Token: ' cut' (ID: 3931), Prob: 0.0000
+Token: ' represent' (ID: 4009), Prob: 0.0000
+Token: ' risk' (ID: 5214), Prob: 0.0000
+
+== Ranked Concepts (Clusters) ==
+Rank 1 | Concept Score: 0.9023
+  Tokens: [' cause', ' causes', ' caused', ' causing', 'cause', ' caus']
+Rank 2 | Concept Score: 0.0054
+  Tokens: [' lead', ' help']
+Rank 3 | Concept Score: 0.0034
+  Tokens: [' produce', ' create', ' bring', ' contribute', ' make', ' provide', ' give', ' introduce', ' develop', ' generate', ' add']
+Rank 4 | Concept Score: 0.0020
+  Tokens: [' pose', ' present', ' show', ' possess', ' exhibit', ' offer', ' represent']
+Rank 5 | Concept Score: 0.0016
+  Tokens: [' result', ' affect', ' impact']
+Rank 6 | Concept Score: 0.0008
+  Tokens: [' contain', ' require', ' include', ' allow', ' prove']
+Rank 7 | Concept Score: 0.0006
+  Tokens: [' kill', ' destroy', ' attack', ' poison']
+Rank 8 | Concept Score: 0.0005
+  Tokens: [' act', ' serve']
+Rank 9 | Concept Score: 0.0005
+  Tokens: [' trigger']
+Rank 10 | Concept Score: 0.0004
+  Tokens: [' potentially', ' possibly', ' also', ' sometimes', ' may']
+Rank 11 | Concept Score: 0.0004
+  Tokens: [' carry', ' take', ' start', ' turn', ' cut']
+Rank 12 | Concept Score: 0.0004
+  Tokens: [' damage', ' harm', ' conflict']
+Rank 13 | Concept Score: 0.0003
+  Tokens: [' induce', ' activate', ' prevent', ' promote']
+Rank 14 | Concept Score: 0.0002
+  Tokens: [' work', ' play', ' function']
+Rank 15 | Concept Score: 0.0001
+  Tokens: [' reduce', ' increase', ' raise', ' decrease']
+Rank 16 | Concept Score: 0.0001
+  Tokens: [' appear', ' exist', ' occur']
+Rank 17 | Concept Score: 0.0001
+  Tokens: [' become', ' come']
+Rank 18 | Concept Score: 0.0001
+  Tokens: [' negatively', ' accidentally', ' adversely']
+Rank 19 | Concept Score: 0.0001
+  Tokens: [' interfere', ' threaten', ' endanger', ' impair']
+Rank 20 | Concept Score: 0.0001
+  Tokens: [' fail', ' suffer']
+Rank 21 | Concept Score: 0.0000
+  Tokens: [' behave', ' interact']
+Rank 22 | Concept Score: 0.0000
+  Tokens: [' need', ' cost', ' risk']
+
+**Chosen Concept:** Rank 1 with score 0.9023

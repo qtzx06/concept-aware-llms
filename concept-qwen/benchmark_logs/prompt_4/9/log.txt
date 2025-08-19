@@ -1,0 +1,41 @@
+--- Step 9 Log ---
+
+== Filtered Candidates ==
+Token: ' Made' (ID: 18802), Prob: 0.0027
+Token: ' Choices' (ID: 78191), Prob: 0.0018
+Token: ' Makes' (ID: 36870), Prob: 0.0015
+Token: ' Make' (ID: 7405), Prob: 0.0013
+Token: ' Without' (ID: 17147), Prob: 0.0009
+Token: ' Based' (ID: 20205), Prob: 0.0007
+Token: ' Today' (ID: 11201), Prob: 0.0006
+Token: ' made' (ID: 1865), Prob: 0.0006
+Token: ' Whether' (ID: 13139), Prob: 0.0005
+Token: ' Making' (ID: 24288), Prob: 0.0005
+Token: ' Would' (ID: 18885), Prob: 0.0004
+Token: ' Choose' (ID: 22201), Prob: 0.0004
+
+== Ranked Concepts (Clusters) ==
+Rank 1 | Concept Score: 0.0027
+  Tokens: [' Made']
+Rank 2 | Concept Score: 0.0018
+  Tokens: [' Choices']
+Rank 3 | Concept Score: 0.0017
+  Tokens: [' Make', ' Making']
+Rank 4 | Concept Score: 0.0015
+  Tokens: [' Makes']
+Rank 5 | Concept Score: 0.0009
+  Tokens: [' Without']
+Rank 6 | Concept Score: 0.0007
+  Tokens: [' Based']
+Rank 7 | Concept Score: 0.0006
+  Tokens: [' Today']
+Rank 8 | Concept Score: 0.0006
+  Tokens: [' made']
+Rank 9 | Concept Score: 0.0005
+  Tokens: [' Whether']
+Rank 10 | Concept Score: 0.0004
+  Tokens: [' Would']
+Rank 11 | Concept Score: 0.0004
+  Tokens: [' Choose']
+
+**Chosen Concept:** Rank 1 with score 0.0027

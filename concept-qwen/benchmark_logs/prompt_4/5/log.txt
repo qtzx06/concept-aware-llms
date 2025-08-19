@@ -1,0 +1,44 @@
+--- Step 5 Log ---
+
+== Filtered Candidates ==
+Token: ' Secrets' (ID: 52079), Prob: 0.0022
+Token: ' Whether' (ID: 13139), Prob: 0.0021
+Token: ' First' (ID: 5512), Prob: 0.0011
+Token: ' Good' (ID: 7684), Prob: 0.0011
+Token: ' Something' (ID: 24656), Prob: 0.0011
+Token: ' One' (ID: 3776), Prob: 0.0009
+Token: ' Love' (ID: 10689), Prob: 0.0009
+Token: ' Things' (ID: 20093), Prob: 0.0008
+Token: ' True' (ID: 3007), Prob: 0.0007
+Token: ' Every' (ID: 7209), Prob: 0.0007
+Token: ' Life' (ID: 9414), Prob: 0.0006
+Token: ' Right' (ID: 10083), Prob: 0.0006
+Token: ' Everything' (ID: 20094), Prob: 0.0006
+Token: ' Emp' (ID: 13409), Prob: 0.0005
+Token: ' Better' (ID: 23434), Prob: 0.0005
+
+== Ranked Concepts (Clusters) ==
+Rank 1 | Concept Score: 0.0022
+  Tokens: [' Secrets']
+Rank 2 | Concept Score: 0.0021
+  Tokens: [' Whether']
+Rank 3 | Concept Score: 0.0020
+  Tokens: [' First', ' One']
+Rank 4 | Concept Score: 0.0019
+  Tokens: [' Something', ' Things']
+Rank 5 | Concept Score: 0.0016
+  Tokens: [' Good', ' Better']
+Rank 6 | Concept Score: 0.0013
+  Tokens: [' Every', ' Everything']
+Rank 7 | Concept Score: 0.0009
+  Tokens: [' Love']
+Rank 8 | Concept Score: 0.0007
+  Tokens: [' True']
+Rank 9 | Concept Score: 0.0006
+  Tokens: [' Right']
+Rank 10 | Concept Score: 0.0006
+  Tokens: [' Life']
+Rank 11 | Concept Score: 0.0005
+  Tokens: [' Emp']
+
+**Chosen Concept:** Rank 1 with score 0.0022

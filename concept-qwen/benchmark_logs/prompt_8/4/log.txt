@@ -1,0 +1,136 @@
+--- Step 4 Log ---
+
+== Filtered Candidates ==
+Token: ' person' (ID: 1697), Prob: 0.0271
+Token: ' user' (ID: 1196), Prob: 0.0199
+Token: ' victim' (ID: 11734), Prob: 0.0199
+Token: ' patient' (ID: 8720), Prob: 0.0165
+Token: ' customer' (ID: 6002), Prob: 0.0154
+Token: ' people' (ID: 1251), Prob: 0.0113
+Token: ' reader' (ID: 6604), Prob: 0.0113
+Token: ' right' (ID: 1290), Prob: 0.0088
+Token: ' others' (ID: 3800), Prob: 0.0088
+Token: ' child' (ID: 1682), Prob: 0.0078
+Token: ' elderly' (ID: 28820), Prob: 0.0069
+Token: ' audience' (ID: 10650), Prob: 0.0064
+Token: ' client' (ID: 2943), Prob: 0.0060
+Token: ' past' (ID: 3267), Prob: 0.0060
+Token: ' victims' (ID: 12415), Prob: 0.0060
+Token: ' world' (ID: 1879), Prob: 0.0047
+Token: ' environment' (ID: 4573), Prob: 0.0047
+Token: ' old' (ID: 2310), Prob: 0.0042
+Token: ' system' (ID: 1849), Prob: 0.0037
+Token: ' individual' (ID: 3842), Prob: 0.0037
+Token: ' body' (ID: 2487), Prob: 0.0032
+Token: ' human' (ID: 3738), Prob: 0.0032
+Token: ' patients' (ID: 6835), Prob: 0.0032
+Token: ' baby' (ID: 8770), Prob: 0.0032
+Token: ' man' (ID: 883), Prob: 0.0030
+Token: ' host' (ID: 3468), Prob: 0.0030
+Token: ' heart' (ID: 4746), Prob: 0.0030
+Token: ' woman' (ID: 5220), Prob: 0.0030
+Token: ' poor' (ID: 7852), Prob: 0.0029
+Token: ' older' (ID: 9014), Prob: 0.0029
+Token: ' one' (ID: 825), Prob: 0.0027
+Token: ' customers' (ID: 6310), Prob: 0.0027
+Token: ' mother' (ID: 6554), Prob: 0.0027
+Token: ' self' (ID: 656), Prob: 0.0025
+Token: ' story' (ID: 3364), Prob: 0.0025
+Token: ' brain' (ID: 8109), Prob: 0.0025
+Token: ' first' (ID: 1156), Prob: 0.0024
+Token: ' kids' (ID: 6837), Prob: 0.0024
+Token: ' enemy' (ID: 9175), Prob: 0.0024
+Token: ' subject' (ID: 3832), Prob: 0.0022
+Token: ' pain' (ID: 6646), Prob: 0.0022
+Token: ' viewer' (ID: 25708), Prob: 0.0022
+Token: ' left' (ID: 2115), Prob: 0.0020
+Token: ' company' (ID: 2813), Prob: 0.0020
+Token: ' dog' (ID: 5562), Prob: 0.0020
+Token: ' consumer' (ID: 11502), Prob: 0.0020
+Token: ' children' (ID: 2841), Prob: 0.0018
+Token: ' wrong' (ID: 4969), Prob: 0.0018
+Token: ' emotional' (ID: 14269), Prob: 0.0018
+Token: ' group' (ID: 1874), Prob: 0.0017
+Token: ' clients' (ID: 8239), Prob: 0.0017
+Token: ' prisoner' (ID: 41850), Prob: 0.0017
+Token: ' girl' (ID: 3743), Prob: 0.0016
+Token: ' users' (ID: 3847), Prob: 0.0016
+Token: ' boy' (ID: 8171), Prob: 0.0016
+Token: ' recipient' (ID: 21713), Prob: 0.0016
+Token: ' wounded' (ID: 27493), Prob: 0.0016
+Token: ' characters' (ID: 5766), Prob: 0.0015
+Token: ' situation' (ID: 6534), Prob: 0.0015
+Token: ' narrator' (ID: 64171), Prob: 0.0015
+Token: ' car' (ID: 1803), Prob: 0.0014
+Token: ' process' (ID: 1882), Prob: 0.0014
+Token: ' present' (ID: 3042), Prob: 0.0014
+Token: ' young' (ID: 3908), Prob: 0.0014
+Token: ' ship' (ID: 8284), Prob: 0.0014
+Token: ' kid' (ID: 10369), Prob: 0.0014
+Token: ' player' (ID: 2781), Prob: 0.0014
+Token: ' partner' (ID: 8263), Prob: 0.0014
+Token: ' younger' (ID: 14650), Prob: 0.0014
+Token: ' injured' (ID: 15532), Prob: 0.0014
+Token: ' protagonist' (ID: 45584), Prob: 0.0014
+Token: ' end' (ID: 835), Prob: 0.0013
+Token: ' eyes' (ID: 6414), Prob: 0.0013
+Token: ' cards' (ID: 7411), Prob: 0.0013
+Token: ' nurse' (ID: 28098), Prob: 0.0013
+Token: ' core' (ID: 6200), Prob: 0.0012
+Token: ' soldier' (ID: 26110), Prob: 0.0012
+Token: ' hand' (ID: 1424), Prob: 0.0011
+Token: ' family' (ID: 2997), Prob: 0.0011
+Token: ' mind' (ID: 3971), Prob: 0.0011
+Token: ' World' (ID: 4337), Prob: 0.0011
+Token: ' cat' (ID: 8251), Prob: 0.0011
+Token: ' feelings' (ID: 15650), Prob: 0.0011
+Token: ' stranger' (ID: 33958), Prob: 0.0011
+Token: ' new' (ID: 501), Prob: 0.0011
+Token: ' power' (ID: 2355), Prob: 0.0011
+Token: ' non' (ID: 2477), Prob: 0.0011
+Token: ' women' (ID: 3198), Prob: 0.0011
+Token: ' whole' (ID: 4361), Prob: 0.0011
+
+== Ranked Concepts (Clusters) ==
+Rank 1 | Concept Score: 0.0532
+  Tokens: [' person', ' user', ' human', ' man']
+Rank 2 | Concept Score: 0.0413
+  Tokens: [' patient', ' customer', ' client', ' consumer', ' player']
+Rank 3 | Concept Score: 0.0354
+  Tokens: [' victim', ' victims', ' enemy', ' prisoner', ' wounded', ' injured', ' nurse', ' soldier']
+Rank 4 | Concept Score: 0.0200
+  Tokens: [' reader', ' audience', ' viewer']
+Rank 5 | Concept Score: 0.0195
+  Tokens: [' past', ' one', ' self', ' first', ' present', ' end', ' new', ' power', ' non']
+Rank 6 | Concept Score: 0.0168
+  Tokens: [' system', ' individual', ' subject', ' company', ' group', ' process', ' family', ' whole']
+Rank 7 | Concept Score: 0.0166
+  Tokens: [' child', ' baby', ' kids', ' children', ' kid']
+Rank 8 | Concept Score: 0.0166
+  Tokens: [' elderly', ' old', ' older', ' young', ' younger']
+Rank 9 | Concept Score: 0.0146
+  Tokens: [' world', ' environment', ' story', ' situation', ' World']
+Rank 10 | Concept Score: 0.0134
+  Tokens: [' body', ' host', ' dog', ' car', ' ship', ' core', ' cat']
+Rank 11 | Concept Score: 0.0129
+  Tokens: [' people', ' users']
+Rank 12 | Concept Score: 0.0126
+  Tokens: [' heart', ' brain', ' pain', ' eyes', ' cards', ' hand', ' mind']
+Rank 13 | Concept Score: 0.0126
+  Tokens: [' right', ' left', ' wrong']
+Rank 14 | Concept Score: 0.0103
+  Tokens: [' others', ' characters']
+Rank 15 | Concept Score: 0.0100
+  Tokens: [' woman', ' mother', ' girl', ' boy', ' women']
+Rank 16 | Concept Score: 0.0077
+  Tokens: [' patients', ' customers', ' clients']
+Rank 17 | Concept Score: 0.0056
+  Tokens: [' recipient', ' narrator', ' protagonist', ' stranger']
+Rank 18 | Concept Score: 0.0030
+  Tokens: [' emotional', ' feelings']
+Rank 19 | Concept Score: 0.0029
+  Tokens: [' poor']
+Rank 20 | Concept Score: 0.0014
+  Tokens: [' partner']
+
+**Chosen Concept:** Rank 1 with score 0.0532

@@ -1,0 +1,102 @@
+--- Step 37 Log ---
+
+== Filtered Candidates ==
+Token: ' Earth' (ID: 9237), Prob: 0.5977
+Token: ' fungi' (ID: 80440), Prob: 0.0085
+Token: ' earth' (ID: 9393), Prob: 0.0033
+Token: ' human' (ID: 3738), Prob: 0.0028
+Token: ' one' (ID: 825), Prob: 0.0026
+Token: ' humans' (ID: 12677), Prob: 0.0026
+Token: ' something' (ID: 2494), Prob: 0.0024
+Token: ' bacteria' (ID: 23157), Prob: 0.0013
+Token: ' plants' (ID: 10779), Prob: 0.0012
+Token: ' soil' (ID: 17171), Prob: 0.0012
+Token: ' terrestrial' (ID: 79392), Prob: 0.0012
+Token: ' certain' (ID: 3654), Prob: 0.0010
+Token: ' ancient' (ID: 13833), Prob: 0.0010
+Token: ' Antarctica' (ID: 71687), Prob: 0.0010
+Token: ' another' (ID: 2441), Prob: 0.0007
+Token: ' Asia' (ID: 13622), Prob: 0.0007
+Token: ' land' (ID: 4268), Prob: 0.0006
+Token: ' Ter' (ID: 10127), Prob: 0.0005
+Token: ' Venus' (ID: 48976), Prob: 0.0005
+Token: ' find' (ID: 1477), Prob: 0.0005
+Token: ' Europe' (ID: 4505), Prob: 0.0005
+Token: ' Japan' (ID: 6323), Prob: 0.0004
+Token: ' native' (ID: 9867), Prob: 0.0004
+Token: ' humanity' (ID: 21941), Prob: 0.0004
+Token: ' organisms' (ID: 43204), Prob: 0.0004
+Token: ' similar' (ID: 4428), Prob: 0.0004
+Token: ' Death' (ID: 15911), Prob: 0.0004
+Token: ' fungus' (ID: 78802), Prob: 0.0003
+Token: ' life' (ID: 2272), Prob: 0.0003
+Token: ' today' (ID: 3351), Prob: 0.0003
+Token: ' cancer' (ID: 9387), Prob: 0.0003
+Token: ' North' (ID: 4787), Prob: 0.0003
+Token: ' nature' (ID: 6993), Prob: 0.0003
+Token: ' fungal' (ID: 94347), Prob: 0.0003
+Token: ' DNA' (ID: 15552), Prob: 0.0003
+Token: ' NASA' (ID: 21431), Prob: 0.0002
+Token: ' existing' (ID: 6350), Prob: 0.0002
+Token: ' mold' (ID: 28461), Prob: 0.0002
+Token: ' early' (ID: 4124), Prob: 0.0002
+Token: ' ground' (ID: 4910), Prob: 0.0002
+Token: ' disease' (ID: 8457), Prob: 0.0002
+Token: ' plant' (ID: 6008), Prob: 0.0002
+Token: ' species' (ID: 9419), Prob: 0.0002
+Token: ' microbes' (ID: 79627), Prob: 0.0002
+Token: ' live' (ID: 3887), Prob: 0.0002
+Token: ' Homo' (ID: 83397), Prob: 0.0002
+Token: ' Jupiter' (ID: 49689), Prob: 0.0002
+Token: ' man' (ID: 883), Prob: 0.0001
+Token: ' underground' (ID: 25260), Prob: 0.0001
+Token: ' present' (ID: 3042), Prob: 0.0001
+Token: ' tropical' (ID: 34048), Prob: 0.0001
+Token: 'Earth' (ID: 43824), Prob: 0.0001
+Token: ' current' (ID: 1482), Prob: 0.0001
+Token: ' many' (ID: 1657), Prob: 0.0001
+Token: ' living' (ID: 5382), Prob: 0.0001
+Token: ' China' (ID: 5616), Prob: 0.0001
+Token: ' surface' (ID: 7329), Prob: 0.0001
+Token: ' domestic' (ID: 12728), Prob: 0.0001
+Token: ' New' (ID: 1532), Prob: 0.0001
+
+== Ranked Concepts (Clusters) ==
+Rank 1 | Concept Score: 0.6016
+  Tokens: [' Earth', ' earth', 'Earth']
+Rank 2 | Concept Score: 0.0110
+  Tokens: [' fungi', ' bacteria', ' organisms', ' fungus', ' fungal', ' microbes']
+Rank 3 | Concept Score: 0.0073
+  Tokens: [' one', ' something', ' certain', ' another', ' similar', ' many']
+Rank 4 | Concept Score: 0.0059
+  Tokens: [' human', ' humans', ' humanity', ' Homo']
+Rank 5 | Concept Score: 0.0020
+  Tokens: [' Asia', ' Europe', ' Japan', ' North', ' China']
+Rank 6 | Concept Score: 0.0020
+  Tokens: [' terrestrial', ' Ter', ' underground', ' tropical']
+Rank 7 | Concept Score: 0.0020
+  Tokens: [' soil', ' land', ' ground']
+Rank 8 | Concept Score: 0.0019
+  Tokens: [' Antarctica', ' Venus', ' NASA', ' Jupiter']
+Rank 9 | Concept Score: 0.0018
+  Tokens: [' ancient', ' native', ' nature', ' early']
+Rank 10 | Concept Score: 0.0014
+  Tokens: [' plants', ' plant']
+Rank 11 | Concept Score: 0.0010
+  Tokens: [' cancer', ' DNA', ' mold', ' disease']
+Rank 12 | Concept Score: 0.0010
+  Tokens: [' Death', ' life', ' live', ' living']
+Rank 13 | Concept Score: 0.0008
+  Tokens: [' today', ' existing', ' present', ' current']
+Rank 14 | Concept Score: 0.0006
+  Tokens: [' find', ' New']
+Rank 15 | Concept Score: 0.0002
+  Tokens: [' species']
+Rank 16 | Concept Score: 0.0001
+  Tokens: [' man']
+Rank 17 | Concept Score: 0.0001
+  Tokens: [' domestic']
+Rank 18 | Concept Score: 0.0001
+  Tokens: [' surface']
+
+**Chosen Concept:** Rank 1 with score 0.6016

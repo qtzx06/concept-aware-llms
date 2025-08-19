@@ -1,0 +1,52 @@
+--- Step 10 Log ---
+
+== Filtered Candidates ==
+Token: ' Today' (ID: 11201), Prob: 0.0042
+Token: ' Earlier' (ID: 46893), Prob: 0.0023
+Token: ' Choices' (ID: 78191), Prob: 0.0020
+Token: ' Later' (ID: 24885), Prob: 0.0012
+Token: ' Within' (ID: 24236), Prob: 0.0011
+Token: ' Behind' (ID: 42374), Prob: 0.0009
+Token: ' Often' (ID: 34916), Prob: 0.0009
+Token: ' Since' (ID: 8704), Prob: 0.0007
+Token: ' Without' (ID: 17147), Prob: 0.0007
+Token: ' Right' (ID: 10083), Prob: 0.0006
+Token: ' Recently' (ID: 40996), Prob: 0.0005
+Token: ' Every' (ID: 7209), Prob: 0.0005
+Token: ' Around' (ID: 32816), Prob: 0.0005
+Token: ' Dec' (ID: 3714), Prob: 0.0004
+Token: ' Soon' (ID: 31762), Prob: 0.0004
+Token: ' Prior' (ID: 31399), Prob: 0.0004
+Token: ' Outside' (ID: 41151), Prob: 0.0004
+Token: ' Throughout' (ID: 45882), Prob: 0.0004
+Token: ' Ahead' (ID: 76444), Prob: 0.0004
+
+== Ranked Concepts (Clusters) ==
+Rank 1 | Concept Score: 0.0048
+  Tokens: [' Today', ' Recently']
+Rank 2 | Concept Score: 0.0035
+  Tokens: [' Earlier', ' Later']
+Rank 3 | Concept Score: 0.0020
+  Tokens: [' Choices']
+Rank 4 | Concept Score: 0.0019
+  Tokens: [' Within', ' Around', ' Outside']
+Rank 5 | Concept Score: 0.0014
+  Tokens: [' Since', ' Without']
+Rank 6 | Concept Score: 0.0009
+  Tokens: [' Behind']
+Rank 7 | Concept Score: 0.0009
+  Tokens: [' Often']
+Rank 8 | Concept Score: 0.0009
+  Tokens: [' Every', ' Throughout']
+Rank 9 | Concept Score: 0.0006
+  Tokens: [' Right']
+Rank 10 | Concept Score: 0.0004
+  Tokens: [' Dec']
+Rank 11 | Concept Score: 0.0004
+  Tokens: [' Soon']
+Rank 12 | Concept Score: 0.0004
+  Tokens: [' Ahead']
+Rank 13 | Concept Score: 0.0004
+  Tokens: [' Prior']
+
+**Chosen Concept:** Rank 1 with score 0.0048

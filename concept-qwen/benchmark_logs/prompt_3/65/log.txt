@@ -1,0 +1,102 @@
+--- Step 65 Log ---
+
+== Filtered Candidates ==
+Token: ' making' (ID: 3259), Prob: 0.9961
+Token: ' paying' (ID: 12515), Prob: 0.0032
+Token: ' make' (ID: 1281), Prob: 0.0004
+Token: ' payments' (ID: 14173), Prob: 0.0002
+Token: ' taking' (ID: 4633), Prob: 0.0000
+Token: ' makes' (ID: 3643), Prob: 0.0000
+Token: ' Making' (ID: 24288), Prob: 0.0000
+Token: ' getting' (ID: 3709), Prob: 0.0000
+Token: ' money' (ID: 3220), Prob: 0.0000
+Token: ' buying' (ID: 11833), Prob: 0.0000
+Token: ' replacing' (ID: 24891), Prob: 0.0000
+Token: ' maybe' (ID: 7196), Prob: 0.0000
+Token: ' made' (ID: 1865), Prob: 0.0000
+Token: ' becoming' (ID: 10454), Prob: 0.0000
+Token: ' going' (ID: 2087), Prob: 0.0000
+Token: ' working' (ID: 3238), Prob: 0.0000
+Token: ' giving' (ID: 7086), Prob: 0.0000
+Token: ' payment' (ID: 8160), Prob: 0.0000
+Token: ' remaining' (ID: 9664), Prob: 0.0000
+Token: ' mak' (ID: 50916), Prob: 0.0000
+Token: ' keeping' (ID: 10282), Prob: 0.0000
+Token: ' continuing' (ID: 14354), Prob: 0.0000
+Token: ' leaving' (ID: 9380), Prob: 0.0000
+Token: ' dealing' (ID: 14550), Prob: 0.0000
+Token: ' moving' (ID: 7218), Prob: 0.0000
+Token: ' calling' (ID: 8098), Prob: 0.0000
+Token: ' receiving' (ID: 12308), Prob: 0.0000
+Token: ' using' (ID: 1667), Prob: 0.0000
+Token: ' writing' (ID: 4378), Prob: 0.0000
+Token: ' letting' (ID: 20194), Prob: 0.0000
+Token: ' spending' (ID: 10164), Prob: 0.0000
+Token: ' breaking' (ID: 14719), Prob: 0.0000
+Token: ' monthly' (ID: 15088), Prob: 0.0000
+Token: ' maintaining' (ID: 20337), Prob: 0.0000
+Token: ' asking' (ID: 10161), Prob: 0.0000
+Token: ' trying' (ID: 4460), Prob: 0.0000
+Token: ' starting' (ID: 5916), Prob: 0.0000
+Token: ' bringing' (ID: 12678), Prob: 0.0000
+Token: ' pay' (ID: 2291), Prob: 0.0000
+Token: ' earning' (ID: 27644), Prob: 0.0000
+Token: ' managing' (ID: 18150), Prob: 0.0000
+Token: ' missing' (ID: 7402), Prob: 0.0000
+Token: ' adding' (ID: 7842), Prob: 0.0000
+Token: ' putting' (ID: 10687), Prob: 0.0000
+Token: ' coming' (ID: 5001), Prob: 0.0000
+Token: ' changing' (ID: 10018), Prob: 0.0000
+Token: ' purchasing' (ID: 22577), Prob: 0.0000
+Token: 'making' (ID: 27836), Prob: 0.0000
+Token: ' facing' (ID: 12880), Prob: 0.0000
+Token: ' staying' (ID: 19429), Prob: 0.0000
+Token: ' still' (ID: 2058), Prob: 0.0000
+Token: ' watching' (ID: 10099), Prob: 0.0000
+Token: ' selling' (ID: 11236), Prob: 0.0000
+Token: ' causing' (ID: 14381), Prob: 0.0000
+Token: 'Making' (ID: 42246), Prob: 0.0000
+Token: ' creating' (ID: 6825), Prob: 0.0000
+Token: ' adjusting' (ID: 42368), Prob: 0.0000
+
+== Ranked Concepts (Clusters) ==
+Rank 1 | Concept Score: 0.9961
+  Tokens: [' making', ' make', ' makes', ' Making', ' made', ' mak', 'making', 'Making']
+Rank 2 | Concept Score: 0.0034
+  Tokens: [' paying', ' payments', ' money', ' payment', ' pay']
+Rank 3 | Concept Score: 0.0000
+  Tokens: [' taking', ' putting']
+Rank 4 | Concept Score: 0.0000
+  Tokens: [' getting', ' becoming', ' going', ' coming']
+Rank 5 | Concept Score: 0.0000
+  Tokens: [' buying', ' spending', ' purchasing', ' selling']
+Rank 6 | Concept Score: 0.0000
+  Tokens: [' replacing', ' breaking', ' adding']
+Rank 7 | Concept Score: 0.0000
+  Tokens: [' giving', ' letting', ' bringing', ' causing', ' creating']
+Rank 8 | Concept Score: 0.0000
+  Tokens: [' calling', ' using', ' asking', ' trying']
+Rank 9 | Concept Score: 0.0000
+  Tokens: [' remaining', ' continuing', ' still']
+Rank 10 | Concept Score: 0.0000
+  Tokens: [' keeping', ' maintaining', ' staying']
+Rank 11 | Concept Score: 0.0000
+  Tokens: [' maybe']
+Rank 12 | Concept Score: 0.0000
+  Tokens: [' working', ' starting']
+Rank 13 | Concept Score: 0.0000
+  Tokens: [' dealing', ' facing', ' watching']
+Rank 14 | Concept Score: 0.0000
+  Tokens: [' receiving', ' earning']
+Rank 15 | Concept Score: 0.0000
+  Tokens: [' moving', ' changing']
+Rank 16 | Concept Score: 0.0000
+  Tokens: [' monthly', ' missing']
+Rank 17 | Concept Score: 0.0000
+  Tokens: [' leaving']
+Rank 18 | Concept Score: 0.0000
+  Tokens: [' managing', ' adjusting']
+Rank 19 | Concept Score: 0.0000
+  Tokens: [' writing']
+
+**Chosen Concept:** Rank 1 with score 0.9961

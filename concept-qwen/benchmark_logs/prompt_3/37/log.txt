@@ -1,0 +1,53 @@
+--- Step 37 Log ---
+
+== Filtered Candidates ==
+Token: ' instead' (ID: 4518), Prob: 0.8125
+Token: ' rather' (ID: 4751), Prob: 0.0070
+Token: ' without' (ID: 2041), Prob: 0.0014
+Token: ' first' (ID: 1156), Prob: 0.0006
+Token: ' anyway' (ID: 13657), Prob: 0.0003
+Token: ' either' (ID: 2987), Prob: 0.0003
+Token: ' Instead' (ID: 12090), Prob: 0.0003
+Token: ' yet' (ID: 3602), Prob: 0.0002
+Token: ' money' (ID: 3220), Prob: 0.0002
+Token: ' like' (ID: 1075), Prob: 0.0002
+Token: ' maybe' (ID: 7196), Prob: 0.0002
+Token: ' another' (ID: 2441), Prob: 0.0002
+Token: ' despite' (ID: 8818), Prob: 0.0001
+Token: ' also' (ID: 1083), Prob: 0.0001
+Token: ' except' (ID: 3650), Prob: 0.0001
+Token: 'instead' (ID: 64837), Prob: 0.0001
+Token: ' according' (ID: 4092), Prob: 0.0001
+Token: ' replace' (ID: 8290), Prob: 0.0001
+Token: ' somehow' (ID: 16925), Prob: 0.0001
+Token: ' even' (ID: 1496), Prob: 0.0001
+
+== Ranked Concepts (Clusters) ==
+Rank 1 | Concept Score: 0.8203
+  Tokens: [' instead', ' rather', ' Instead', 'instead']
+Rank 2 | Concept Score: 0.0015
+  Tokens: [' without', ' according']
+Rank 3 | Concept Score: 0.0006
+  Tokens: [' first']
+Rank 4 | Concept Score: 0.0003
+  Tokens: [' anyway']
+Rank 5 | Concept Score: 0.0003
+  Tokens: [' either']
+Rank 6 | Concept Score: 0.0003
+  Tokens: [' another', ' also']
+Rank 7 | Concept Score: 0.0003
+  Tokens: [' maybe', ' somehow']
+Rank 8 | Concept Score: 0.0002
+  Tokens: [' yet']
+Rank 9 | Concept Score: 0.0002
+  Tokens: [' despite', ' even']
+Rank 10 | Concept Score: 0.0002
+  Tokens: [' money']
+Rank 11 | Concept Score: 0.0002
+  Tokens: [' like']
+Rank 12 | Concept Score: 0.0001
+  Tokens: [' except']
+Rank 13 | Concept Score: 0.0001
+  Tokens: [' replace']
+
+**Chosen Concept:** Rank 1 with score 0.8203

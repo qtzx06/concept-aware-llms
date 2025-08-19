@@ -1,0 +1,80 @@
+--- Step 49 Log ---
+
+== Filtered Candidates ==
+Token: ' used' (ID: 1483), Prob: 0.9688
+Token: ' got' (ID: 2684), Prob: 0.0027
+Token: ' would' (ID: 1035), Prob: 0.0021
+Token: ' went' (ID: 3937), Prob: 0.0021
+Token: ' else' (ID: 770), Prob: 0.0009
+Token: ' things' (ID: 2513), Prob: 0.0006
+Token: ' otherwise' (ID: 5937), Prob: 0.0004
+Token: ' always' (ID: 2677), Prob: 0.0002
+Token: ' worked' (ID: 6439), Prob: 0.0002
+Token: ' except' (ID: 3650), Prob: 0.0001
+Token: ' like' (ID: 1075), Prob: 0.0001
+Token: ' get' (ID: 633), Prob: 0.0001
+Token: ' usually' (ID: 5990), Prob: 0.0001
+Token: 'used' (ID: 2591), Prob: 0.0001
+Token: ' happened' (ID: 6932), Prob: 0.0001
+Token: ' became' (ID: 6116), Prob: 0.0001
+Token: ' originally' (ID: 13214), Prob: 0.0001
+Token: ' use' (ID: 990), Prob: 0.0001
+Token: ' everything' (ID: 4297), Prob: 0.0001
+Token: ' ways' (ID: 5510), Prob: 0.0001
+Token: ' stayed' (ID: 19613), Prob: 0.0001
+Token: ' previously' (ID: 8597), Prob: 0.0000
+Token: ' remained' (ID: 14616), Prob: 0.0000
+Token: ' Used' (ID: 12199), Prob: 0.0000
+Token: ' started' (ID: 3855), Prob: 0.0000
+Token: ' way' (ID: 1616), Prob: 0.0000
+Token: ' could' (ID: 1410), Prob: 0.0000
+Token: ' normally' (ID: 14279), Prob: 0.0000
+Token: ' already' (ID: 2669), Prob: 0.0000
+Token: ' usual' (ID: 13475), Prob: 0.0000
+Token: ' currently' (ID: 5023), Prob: 0.0000
+Token: ' looked' (ID: 6966), Prob: 0.0000
+Token: ' gets' (ID: 5221), Prob: 0.0000
+Token: ' stood' (ID: 14638), Prob: 0.0000
+Token: ' formerly' (ID: 33733), Prob: 0.0000
+Token: ' must' (ID: 1969), Prob: 0.0000
+Token: ' began' (ID: 6009), Prob: 0.0000
+Token: ' ended' (ID: 9482), Prob: 0.0000
+Token: ' might' (ID: 2578), Prob: 0.0000
+Token: ' goes' (ID: 5780), Prob: 0.0000
+Token: ' gone' (ID: 8048), Prob: 0.0000
+Token: ' supposed' (ID: 9966), Prob: 0.0000
+Token: ' gotten' (ID: 17019), Prob: 0.0000
+Token: ' done' (ID: 2814), Prob: 0.0000
+Token: ' ever' (ID: 3512), Prob: 0.0000
+Token: ' something' (ID: 2494), Prob: 0.0000
+Token: ' kept' (ID: 8604), Prob: 0.0000
+
+== Ranked Concepts (Clusters) ==
+Rank 1 | Concept Score: 0.9688
+  Tokens: [' used', 'used', ' use', ' Used']
+Rank 2 | Concept Score: 0.0028
+  Tokens: [' got', ' get', ' gets', ' gotten']
+Rank 3 | Concept Score: 0.0022
+  Tokens: [' would', ' could', ' must', ' might']
+Rank 4 | Concept Score: 0.0022
+  Tokens: [' went', ' goes', ' gone']
+Rank 5 | Concept Score: 0.0013
+  Tokens: [' else', ' otherwise', ' except']
+Rank 6 | Concept Score: 0.0007
+  Tokens: [' things', ' everything', ' something']
+Rank 7 | Concept Score: 0.0005
+  Tokens: [' worked', ' happened', ' became', ' stayed', ' remained', ' started', ' looked', ' stood', ' began', ' ended', ' kept']
+Rank 8 | Concept Score: 0.0002
+  Tokens: [' always', ' ever']
+Rank 9 | Concept Score: 0.0002
+  Tokens: [' originally', ' previously', ' already', ' currently', ' formerly']
+Rank 10 | Concept Score: 0.0001
+  Tokens: [' usually', ' normally', ' usual', ' supposed']
+Rank 11 | Concept Score: 0.0001
+  Tokens: [' ways', ' way']
+Rank 12 | Concept Score: 0.0001
+  Tokens: [' like']
+Rank 13 | Concept Score: 0.0000
+  Tokens: [' done']
+
+**Chosen Concept:** Rank 1 with score 0.9688

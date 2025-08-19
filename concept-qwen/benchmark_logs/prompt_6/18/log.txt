@@ -1,0 +1,83 @@
+--- Step 18 Log ---
+
+== Filtered Candidates ==
+Token: ' one' (ID: 825), Prob: 0.4434
+Token: ' someone' (ID: 4325), Prob: 0.1123
+Token: ' two' (ID: 1378), Prob: 0.0302
+Token: ' three' (ID: 2326), Prob: 0.0250
+Token: ' anyone' (ID: 5489), Prob: 0.0195
+Token: ' another' (ID: 2441), Prob: 0.0143
+Token: ' multiple' (ID: 5248), Prob: 0.0143
+Token: ' either' (ID: 2987), Prob: 0.0087
+Token: ' exactly' (ID: 6896), Prob: 0.0087
+Token: ' every' (ID: 1449), Prob: 0.0026
+Token: ' others' (ID: 3800), Prob: 0.0015
+Token: ' four' (ID: 3040), Prob: 0.0014
+Token: ' twice' (ID: 10917), Prob: 0.0012
+Token: ' five' (ID: 4236), Prob: 0.0012
+Token: ' people' (ID: 1251), Prob: 0.0010
+Token: ' several' (ID: 3807), Prob: 0.0010
+Token: ' everyone' (ID: 5019), Prob: 0.0010
+Token: ' many' (ID: 1657), Prob: 0.0008
+Token: ' person' (ID: 1697), Prob: 0.0008
+Token: ' randomly' (ID: 26618), Prob: 0.0007
+Token: ' also' (ID: 1083), Prob: 0.0006
+Token: ' oneself' (ID: 56569), Prob: 0.0006
+Token: ' different' (ID: 2155), Prob: 0.0005
+Token: ' nobody' (ID: 18581), Prob: 0.0005
+Token: ' zero' (ID: 7168), Prob: 0.0005
+Token: ' less' (ID: 2686), Prob: 0.0004
+Token: ' even' (ID: 1496), Prob: 0.0004
+Token: ' none' (ID: 6857), Prob: 0.0004
+Token: ' whoever' (ID: 38271), Prob: 0.0003
+Token: ' six' (ID: 4743), Prob: 0.0003
+Token: ' anywhere' (ID: 12379), Prob: 0.0003
+Token: ' fewer' (ID: 16745), Prob: 0.0002
+Token: ' simultaneously' (ID: 24303), Prob: 0.0002
+Token: ' however' (ID: 4764), Prob: 0.0002
+Token: ' ten' (ID: 5779), Prob: 0.0002
+Token: ' neither' (ID: 13866), Prob: 0.0002
+Token: ' persons' (ID: 11186), Prob: 0.0002
+Token: ' dead' (ID: 5593), Prob: 0.0002
+Token: ' human' (ID: 3738), Prob: 0.0002
+Token: ' whichever' (ID: 53684), Prob: 0.0001
+
+== Ranked Concepts (Clusters) ==
+Rank 1 | Concept Score: 0.4434
+  Tokens: [' one']
+Rank 2 | Concept Score: 0.1328
+  Tokens: [' someone', ' anyone', ' everyone']
+Rank 3 | Concept Score: 0.0583
+  Tokens: [' two', ' three', ' four', ' five', ' six', ' ten']
+Rank 4 | Concept Score: 0.0160
+  Tokens: [' multiple', ' several', ' many']
+Rank 5 | Concept Score: 0.0157
+  Tokens: [' another', ' others']
+Rank 6 | Concept Score: 0.0108
+  Tokens: [' exactly', ' twice', ' randomly', ' simultaneously']
+Rank 7 | Concept Score: 0.0087
+  Tokens: [' either']
+Rank 8 | Concept Score: 0.0026
+  Tokens: [' every']
+Rank 9 | Concept Score: 0.0021
+  Tokens: [' people', ' person', ' persons', ' human']
+Rank 10 | Concept Score: 0.0013
+  Tokens: [' zero', ' less', ' fewer', ' dead']
+Rank 11 | Concept Score: 0.0008
+  Tokens: [' whoever', ' anywhere', ' whichever']
+Rank 12 | Concept Score: 0.0006
+  Tokens: [' none', ' neither']
+Rank 13 | Concept Score: 0.0006
+  Tokens: [' oneself']
+Rank 14 | Concept Score: 0.0006
+  Tokens: [' also']
+Rank 15 | Concept Score: 0.0005
+  Tokens: [' different']
+Rank 16 | Concept Score: 0.0005
+  Tokens: [' nobody']
+Rank 17 | Concept Score: 0.0004
+  Tokens: [' even']
+Rank 18 | Concept Score: 0.0002
+  Tokens: [' however']
+
+**Chosen Concept:** Rank 1 with score 0.4434

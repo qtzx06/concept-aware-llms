@@ -1,0 +1,64 @@
+--- Step 84 Log ---
+
+== Filtered Candidates ==
+Token: ' today' (ID: 3351), Prob: 0.9883
+Token: ' Today' (ID: 11201), Prob: 0.0059
+Token: 'today' (ID: 30113), Prob: 0.0004
+Token: '(today' (ID: 75693), Prob: 0.0003
+Token: 'Today' (ID: 15364), Prob: 0.0002
+Token: ' tomorrow' (ID: 16577), Prob: 0.0001
+Token: '.Today' (ID: 72672), Prob: 0.0001
+Token: ' day' (ID: 1899), Prob: 0.0001
+Token: ' tonight' (ID: 17913), Prob: 0.0001
+Token: ' TODAY' (ID: 40262), Prob: 0.0001
+Token: '_today' (ID: 68717), Prob: 0.0001
+Token: ' daily' (ID: 7298), Prob: 0.0000
+Token: ' yesterday' (ID: 13671), Prob: 0.0000
+Token: ' aujourd' (ID: 74704), Prob: 0.0000
+Token: ' yes' (ID: 9834), Prob: 0.0000
+Token: '.today' (ID: 37787), Prob: 0.0000
+Token: ' everyday' (ID: 17778), Prob: 0.0000
+Token: ' Tuesday' (ID: 7589), Prob: 0.0000
+Token: ' days' (ID: 2849), Prob: 0.0000
+Token: ' currently' (ID: 5023), Prob: 0.0000
+Token: ' tod' (ID: 11530), Prob: 0.0000
+Token: ' hoy' (ID: 48741), Prob: 0.0000
+Token: ' current' (ID: 1482), Prob: 0.0000
+Token: ' present' (ID: 3042), Prob: 0.0000
+Token: 'oday' (ID: 6289), Prob: 0.0000
+Token: ' topic' (ID: 8544), Prob: 0.0000
+Token: ' since' (ID: 2474), Prob: 0.0000
+Token: ' ten' (ID: 5779), Prob: 0.0000
+Token: ' Thursday' (ID: 7794), Prob: 0.0000
+
+== Ranked Concepts (Clusters) ==
+Rank 1 | Concept Score: 0.9961
+  Tokens: [' today', ' Today', 'today', '(today', 'Today', '.Today', ' TODAY', '_today', '.today']
+Rank 2 | Concept Score: 0.0002
+  Tokens: [' tomorrow', ' tonight', ' yesterday']
+Rank 3 | Concept Score: 0.0001
+  Tokens: [' day', ' days']
+Rank 4 | Concept Score: 0.0000
+  Tokens: [' daily', ' everyday']
+Rank 5 | Concept Score: 0.0000
+  Tokens: [' aujourd', ' hoy']
+Rank 6 | Concept Score: 0.0000
+  Tokens: [' yes']
+Rank 7 | Concept Score: 0.0000
+  Tokens: [' currently', ' current']
+Rank 8 | Concept Score: 0.0000
+  Tokens: [' Tuesday', ' Thursday']
+Rank 9 | Concept Score: 0.0000
+  Tokens: [' tod']
+Rank 10 | Concept Score: 0.0000
+  Tokens: [' present']
+Rank 11 | Concept Score: 0.0000
+  Tokens: ['oday']
+Rank 12 | Concept Score: 0.0000
+  Tokens: [' topic']
+Rank 13 | Concept Score: 0.0000
+  Tokens: [' ten']
+Rank 14 | Concept Score: 0.0000
+  Tokens: [' since']
+
+**Chosen Concept:** Rank 1 with score 0.9961

@@ -1,0 +1,92 @@
+--- Step 66 Log ---
+
+== Filtered Candidates ==
+Token: ' rapidly' (ID: 18512), Prob: 0.0659
+Token: ' quickly' (ID: 6157), Prob: 0.0215
+Token: ' rate' (ID: 4379), Prob: 0.0157
+Token: ' could' (ID: 1410), Prob: 0.0095
+Token: ' due' (ID: 4152), Prob: 0.0095
+Token: ' may' (ID: 1231), Prob: 0.0074
+Token: ' also' (ID: 1083), Prob: 0.0065
+Token: ' cannot' (ID: 4157), Prob: 0.0054
+Token: ' across' (ID: 3941), Prob: 0.0048
+Token: ' seems' (ID: 4977), Prob: 0.0040
+Token: ' within' (ID: 2878), Prob: 0.0037
+Token: ' must' (ID: 1969), Prob: 0.0035
+Token: ' would' (ID: 1035), Prob: 0.0031
+Token: ' spreads' (ID: 42553), Prob: 0.0031
+Token: ' begins' (ID: 12033), Prob: 0.0029
+Token: ' might' (ID: 2578), Prob: 0.0027
+Token: ' requires' (ID: 7460), Prob: 0.0027
+Token: ' appears' (ID: 7952), Prob: 0.0026
+Token: ' via' (ID: 4566), Prob: 0.0024
+Token: ' speed' (ID: 4628), Prob: 0.0024
+Token: ' remains' (ID: 8458), Prob: 0.0024
+Token: ' causes' (ID: 11137), Prob: 0.0021
+Token: ' slowly' (ID: 13970), Prob: 0.0021
+Token: ' rates' (ID: 7813), Prob: 0.0020
+Token: ' continues' (ID: 9539), Prob: 0.0020
+Token: ' initially' (ID: 15102), Prob: 0.0020
+Token: ' extremely' (ID: 9016), Prob: 0.0019
+Token: ' faster' (ID: 10596), Prob: 0.0019
+Token: ' occurs' (ID: 13666), Prob: 0.0018
+Token: ' follows' (ID: 11017), Prob: 0.0017
+Token: ' primarily' (ID: 15503), Prob: 0.0016
+Token: ' caused' (ID: 8881), Prob: 0.0015
+Token: ' significantly' (ID: 11941), Prob: 0.0014
+Token: ' along' (ID: 3156), Prob: 0.0012
+Token: ' fast' (ID: 4937), Prob: 0.0012
+Token: ' depends' (ID: 13798), Prob: 0.0012
+Token: ' becomes' (ID: 9044), Prob: 0.0011
+Token: ' needs' (ID: 3880), Prob: 0.0011
+Token: ' dramatically' (ID: 27957), Prob: 0.0011
+Token: ' rapid' (ID: 11048), Prob: 0.0010
+Token: ' increases' (ID: 12703), Prob: 0.0010
+Token: ' mainly' (ID: 14576), Prob: 0.0010
+Token: ' starts' (ID: 8471), Prob: 0.0009
+Token: ' shows' (ID: 4933), Prob: 0.0009
+Token: ' exponentially' (ID: 74151), Prob: 0.0009
+Token: ' upon' (ID: 5193), Prob: 0.0008
+Token: ' immediately' (ID: 7069), Prob: 0.0008
+Token: ' still' (ID: 2058), Prob: 0.0007
+Token: ' according' (ID: 4092), Prob: 0.0007
+Token: ' beyond' (ID: 7797), Prob: 0.0007
+Token: ' first' (ID: 1156), Prob: 0.0007
+Token: ' reaches' (ID: 24491), Prob: 0.0007
+Token: ' tends' (ID: 27236), Prob: 0.0007
+Token: ' relies' (ID: 33644), Prob: 0.0007
+Token: ' even' (ID: 1496), Prob: 0.0006
+Token: ' already' (ID: 2669), Prob: 0.0006
+Token: ' throughout' (ID: 6814), Prob: 0.0006
+
+== Ranked Concepts (Clusters) ==
+Rank 1 | Concept Score: 0.0962
+  Tokens: [' rapidly', ' quickly', ' speed', ' slowly', ' faster', ' fast', ' rapid']
+Rank 2 | Concept Score: 0.0317
+  Tokens: [' could', ' may', ' cannot', ' must', ' would', ' might']
+Rank 3 | Concept Score: 0.0177
+  Tokens: [' rate', ' rates']
+Rank 4 | Concept Score: 0.0171
+  Tokens: [' seems', ' appears', ' remains', ' continues', ' occurs', ' becomes', ' increases', ' shows', ' reaches', ' tends']
+Rank 5 | Concept Score: 0.0150
+  Tokens: [' across', ' within', ' via', ' along', ' upon', ' according', ' beyond', ' throughout']
+Rank 6 | Concept Score: 0.0131
+  Tokens: [' due', ' causes', ' caused']
+Rank 7 | Concept Score: 0.0079
+  Tokens: [' also', ' still', ' already']
+Rank 8 | Concept Score: 0.0074
+  Tokens: [' requires', ' follows', ' depends', ' needs', ' relies']
+Rank 9 | Concept Score: 0.0052
+  Tokens: [' extremely', ' significantly', ' dramatically', ' exponentially']
+Rank 10 | Concept Score: 0.0038
+  Tokens: [' begins', ' starts']
+Rank 11 | Concept Score: 0.0035
+  Tokens: [' initially', ' immediately', ' first']
+Rank 12 | Concept Score: 0.0031
+  Tokens: [' spreads']
+Rank 13 | Concept Score: 0.0026
+  Tokens: [' primarily', ' mainly']
+Rank 14 | Concept Score: 0.0006
+  Tokens: [' even']
+
+**Chosen Concept:** Rank 1 with score 0.0962

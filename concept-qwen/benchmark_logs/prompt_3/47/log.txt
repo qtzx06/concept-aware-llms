@@ -1,0 +1,121 @@
+--- Step 47 Log ---
+
+== Filtered Candidates ==
+Token: ' way' (ID: 1616), Prob: 0.6484
+Token: ' ways' (ID: 5510), Prob: 0.0002
+Token: ' like' (ID: 1075), Prob: 0.0002
+Token: ' manner' (ID: 11566), Prob: 0.0001
+Token: ' situation' (ID: 6534), Prob: 0.0001
+Token: ' Way' (ID: 12149), Prob: 0.0001
+Token: ' case' (ID: 1142), Prob: 0.0000
+Token: ' current' (ID: 1482), Prob: 0.0000
+Token: ' right' (ID: 1290), Prob: 0.0000
+Token: ' original' (ID: 4024), Prob: 0.0000
+Token: ' new' (ID: 501), Prob: 0.0000
+Token: ' following' (ID: 2701), Prob: 0.0000
+Token: ' kind' (ID: 3093), Prob: 0.0000
+Token: ' status' (ID: 2639), Prob: 0.0000
+Token: ' usual' (ID: 13475), Prob: 0.0000
+Token: ' thing' (ID: 3166), Prob: 0.0000
+Token: ' trade' (ID: 6559), Prob: 0.0000
+Token: ' old' (ID: 2310), Prob: 0.0000
+Token: ' say' (ID: 1977), Prob: 0.0000
+Token: ' place' (ID: 1992), Prob: 0.0000
+Token: ' exact' (ID: 4734), Prob: 0.0000
+Token: ' day' (ID: 1899), Prob: 0.0000
+Token: ' year' (ID: 1042), Prob: 0.0000
+Token: 'way' (ID: 3117), Prob: 0.0000
+Token: ' one' (ID: 825), Prob: 0.0000
+Token: ' relationship' (ID: 5025), Prob: 0.0000
+Token: ' fashion' (ID: 11153), Prob: 0.0000
+Token: ' similar' (ID: 4428), Prob: 0.0000
+Token: ' condition' (ID: 2971), Prob: 0.0000
+Token: ' road' (ID: 5636), Prob: 0.0000
+Token: ' nature' (ID: 6993), Prob: 0.0000
+Token: ' WAY' (ID: 24400), Prob: 0.0000
+Token: ' said' (ID: 1053), Prob: 0.0000
+Token: ' position' (ID: 2309), Prob: 0.0000
+Token: ' default' (ID: 1638), Prob: 0.0000
+Token: ' week' (ID: 2003), Prob: 0.0000
+Token: ' money' (ID: 3220), Prob: 0.0000
+Token: ' past' (ID: 3267), Prob: 0.0000
+Token: ' whole' (ID: 4361), Prob: 0.0000
+Token: ' traditional' (ID: 8606), Prob: 0.0000
+Token: 'Way' (ID: 35054), Prob: 0.0000
+Token: '_way' (ID: 48936), Prob: 0.0000
+Token: ' real' (ID: 1931), Prob: 0.0000
+Token: ' standard' (ID: 5297), Prob: 0.0000
+Token: ' scenario' (ID: 15048), Prob: 0.0000
+Token: ' fact' (ID: 2097), Prob: 0.0000
+Token: ' law' (ID: 2329), Prob: 0.0000
+Token: ' previous' (ID: 3681), Prob: 0.0000
+Token: '-way' (ID: 26798), Prob: 0.0000
+Token: ' relation' (ID: 12687), Prob: 0.0000
+Token: ' system' (ID: 1849), Prob: 0.0000
+Token: ' reason' (ID: 2874), Prob: 0.0000
+Token: ' sam' (ID: 9962), Prob: 0.0000
+Token: ' key' (ID: 1376), Prob: 0.0000
+Token: ' given' (ID: 2661), Prob: 0.0000
+Token: ' price' (ID: 3349), Prob: 0.0000
+Token: ' matter' (ID: 4925), Prob: 0.0000
+Token: ' constant' (ID: 6783), Prob: 0.0000
+Token: ' cash' (ID: 8350), Prob: 0.0000
+Token: ' present' (ID: 3042), Prob: 0.0000
+Token: ' problem' (ID: 3491), Prob: 0.0000
+Token: ' worse' (ID: 10960), Prob: 0.0000
+Token: ' game' (ID: 1809), Prob: 0.0000
+Token: ' straight' (ID: 7678), Prob: 0.0000
+Token: ' part' (ID: 949), Prob: 0.0000
+Token: ' method' (ID: 1714), Prob: 0.0000
+Token: ' path' (ID: 1815), Prob: 0.0000
+Token: ' future' (ID: 3853), Prob: 0.0000
+Token: ' work' (ID: 975), Prob: 0.0000
+Token: ' state' (ID: 1584), Prob: 0.0000
+
+== Ranked Concepts (Clusters) ==
+Rank 1 | Concept Score: 0.6484
+  Tokens: [' way', ' ways', ' Way', 'way', ' WAY', 'Way', '_way', '-way']
+Rank 2 | Concept Score: 0.0002
+  Tokens: [' like', ' similar', ' sam']
+Rank 3 | Concept Score: 0.0001
+  Tokens: [' situation', ' case', ' condition', ' scenario', ' problem']
+Rank 4 | Concept Score: 0.0001
+  Tokens: [' manner', ' fashion', ' nature']
+Rank 5 | Concept Score: 0.0000
+  Tokens: [' original', ' usual', ' old', ' default', ' traditional', ' standard']
+Rank 6 | Concept Score: 0.0000
+  Tokens: [' right', ' kind', ' one', ' part']
+Rank 7 | Concept Score: 0.0000
+  Tokens: [' current', ' past', ' previous', ' present', ' future']
+Rank 8 | Concept Score: 0.0000
+  Tokens: [' new', ' real', ' key', ' constant']
+Rank 9 | Concept Score: 0.0000
+  Tokens: [' day', ' year', ' week', ' price']
+Rank 10 | Concept Score: 0.0000
+  Tokens: [' following', ' given']
+Rank 11 | Concept Score: 0.0000
+  Tokens: [' thing', ' fact', ' reason']
+Rank 12 | Concept Score: 0.0000
+  Tokens: [' trade', ' law', ' game', ' work']
+Rank 13 | Concept Score: 0.0000
+  Tokens: [' status', ' state']
+Rank 14 | Concept Score: 0.0000
+  Tokens: [' exact', ' whole', ' straight']
+Rank 15 | Concept Score: 0.0000
+  Tokens: [' say', ' said']
+Rank 16 | Concept Score: 0.0000
+  Tokens: [' place', ' position']
+Rank 17 | Concept Score: 0.0000
+  Tokens: [' relationship', ' relation']
+Rank 18 | Concept Score: 0.0000
+  Tokens: [' money', ' matter', ' cash']
+Rank 19 | Concept Score: 0.0000
+  Tokens: [' road']
+Rank 20 | Concept Score: 0.0000
+  Tokens: [' system', ' method']
+Rank 21 | Concept Score: 0.0000
+  Tokens: [' worse']
+Rank 22 | Concept Score: 0.0000
+  Tokens: [' path']
+
+**Chosen Concept:** Rank 1 with score 0.6484

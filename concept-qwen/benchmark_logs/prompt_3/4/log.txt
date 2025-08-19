@@ -1,0 +1,102 @@
+--- Step 4 Log ---
+
+== Filtered Candidates ==
+Token: ' else' (ID: 770), Prob: 0.1660
+Token: ' wants' (ID: 6801), Prob: 0.0239
+Token: ' says' (ID: 2727), Prob: 0.0198
+Token: ' comes' (ID: 4041), Prob: 0.0165
+Token: ' say' (ID: 1977), Prob: 0.0145
+Token: ' like' (ID: 1075), Prob: 0.0120
+Token: ' goes' (ID: 5780), Prob: 0.0078
+Token: ' come' (ID: 2525), Prob: 0.0073
+Token: ' could' (ID: 1410), Prob: 0.0068
+Token: ' knows' (ID: 8788), Prob: 0.0068
+Token: ' would' (ID: 1035), Prob: 0.0053
+Token: ' asks' (ID: 17064), Prob: 0.0044
+Token: ' gets' (ID: 5221), Prob: 0.0039
+Token: ' gives' (ID: 6696), Prob: 0.0039
+Token: ' takes' (ID: 4990), Prob: 0.0037
+Token: ' named' (ID: 6941), Prob: 0.0037
+Token: ' might' (ID: 2578), Prob: 0.0029
+Token: ' needs' (ID: 3880), Prob: 0.0029
+Token: ' tells' (ID: 10742), Prob: 0.0029
+Token: ' said' (ID: 1053), Prob: 0.0027
+Token: ' know' (ID: 1414), Prob: 0.0027
+Token: ' ask' (ID: 2548), Prob: 0.0022
+Token: ' came' (ID: 3697), Prob: 0.0022
+Token: ' enters' (ID: 28833), Prob: 0.0021
+Token: ' walks' (ID: 22479), Prob: 0.0020
+Token: ' get' (ID: 633), Prob: 0.0018
+Token: ' want' (ID: 1366), Prob: 0.0017
+Token: ' makes' (ID: 3643), Prob: 0.0017
+Token: ' may' (ID: 1231), Prob: 0.0016
+Token: ' calls' (ID: 6738), Prob: 0.0014
+Token: ' helps' (ID: 8609), Prob: 0.0014
+Token: ' called' (ID: 2598), Prob: 0.0014
+Token: ' already' (ID: 2669), Prob: 0.0014
+Token: ' buys' (ID: 49531), Prob: 0.0014
+Token: ' new' (ID: 501), Prob: 0.0013
+Token: ' dies' (ID: 8725), Prob: 0.0013
+Token: ' decides' (ID: 27627), Prob: 0.0013
+Token: ' starts' (ID: 8471), Prob: 0.0012
+Token: ' chooses' (ID: 39911), Prob: 0.0012
+Token: ' hears' (ID: 52059), Prob: 0.0012
+Token: ' give' (ID: 2968), Prob: 0.0011
+Token: ' uses' (ID: 5711), Prob: 0.0011
+Token: ' meets' (ID: 20027), Prob: 0.0011
+Token: ' arrives' (ID: 29682), Prob: 0.0011
+Token: ' take' (ID: 1896), Prob: 0.0011
+Token: ' tell' (ID: 3291), Prob: 0.0011
+Token: ' tries' (ID: 16297), Prob: 0.0010
+Token: ' receives' (ID: 21189), Prob: 0.0010
+Token: ' choose' (ID: 5157), Prob: 0.0009
+Token: ' whose' (ID: 6693), Prob: 0.0009
+Token: ' call' (ID: 1618), Prob: 0.0009
+Token: ' visits' (ID: 21051), Prob: 0.0009
+Token: ' must' (ID: 1969), Prob: 0.0008
+Token: ' buy' (ID: 3695), Prob: 0.0008
+Token: ' went' (ID: 3937), Prob: 0.0008
+Token: ' find' (ID: 1477), Prob: 0.0008
+Token: ' invest' (ID: 2725), Prob: 0.0008
+
+== Ranked Concepts (Clusters) ==
+Rank 1 | Concept Score: 0.1816
+  Tokens: [' else', ' like', ' already', ' new', ' whose']
+Rank 2 | Concept Score: 0.0369
+  Tokens: [' says', ' say', ' said']
+Rank 3 | Concept Score: 0.0286
+  Tokens: [' wants', ' needs', ' want']
+Rank 4 | Concept Score: 0.0260
+  Tokens: [' comes', ' come', ' came']
+Rank 5 | Concept Score: 0.0175
+  Tokens: [' could', ' would', ' might', ' may', ' must']
+Rank 6 | Concept Score: 0.0095
+  Tokens: [' knows', ' know']
+Rank 7 | Concept Score: 0.0093
+  Tokens: [' gets', ' starts', ' uses', ' meets', ' tries', ' receives']
+Rank 8 | Concept Score: 0.0085
+  Tokens: [' goes', ' went']
+Rank 9 | Concept Score: 0.0073
+  Tokens: [' named', ' calls', ' called', ' call']
+Rank 10 | Concept Score: 0.0071
+  Tokens: [' gives', ' makes', ' helps']
+Rank 11 | Concept Score: 0.0067
+  Tokens: [' asks', ' ask']
+Rank 12 | Concept Score: 0.0047
+  Tokens: [' takes', ' take']
+Rank 13 | Concept Score: 0.0039
+  Tokens: [' tells', ' tell']
+Rank 14 | Concept Score: 0.0037
+  Tokens: [' get', ' give', ' find']
+Rank 15 | Concept Score: 0.0034
+  Tokens: [' decides', ' chooses', ' choose']
+Rank 16 | Concept Score: 0.0032
+  Tokens: [' enters', ' arrives']
+Rank 17 | Concept Score: 0.0029
+  Tokens: [' buys', ' buy', ' invest']
+Rank 18 | Concept Score: 0.0028
+  Tokens: [' walks', ' visits']
+Rank 19 | Concept Score: 0.0025
+  Tokens: [' dies', ' hears']
+
+**Chosen Concept:** Rank 1 with score 0.1816

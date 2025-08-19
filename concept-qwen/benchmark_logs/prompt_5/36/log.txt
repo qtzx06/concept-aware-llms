@@ -1,0 +1,117 @@
+--- Step 36 Log ---
+
+== Filtered Candidates ==
+Token: ' hour' (ID: 6460), Prob: 0.4082
+Token: ' day' (ID: 1899), Prob: 0.1699
+Token: ' time' (ID: 882), Prob: 0.0913
+Token: ' minute' (ID: 9383), Prob: 0.0708
+Token: ' way' (ID: 1616), Prob: 0.0216
+Token: ' week' (ID: 2003), Prob: 0.0179
+Token: ' month' (ID: 2254), Prob: 0.0140
+Token: ' mile' (ID: 14587), Prob: 0.0123
+Token: ' year' (ID: 1042), Prob: 0.0116
+Token: ' second' (ID: 2086), Prob: 0.0109
+Token: ' step' (ID: 3019), Prob: 0.0085
+Token: ' thousand' (ID: 16183), Prob: 0.0045
+Token: ' night' (ID: 3729), Prob: 0.0043
+Token: ' million' (ID: 3526), Prob: 0.0031
+Token: ' hundred' (ID: 7739), Prob: 0.0029
+Token: '-third' (ID: 29177), Prob: 0.0027
+Token: ' third' (ID: 4843), Prob: 0.0024
+Token: ' kil' (ID: 15045), Prob: 0.0024
+Token: ' half' (ID: 4279), Prob: 0.0020
+Token: ' location' (ID: 3728), Prob: 0.0018
+Token: '-half' (ID: 33802), Prob: 0.0018
+Token: ' city' (ID: 3283), Prob: 0.0015
+Token: ' quarter' (ID: 8338), Prob: 0.0013
+Token: ' block' (ID: 2504), Prob: 0.0012
+Token: ' flight' (ID: 10971), Prob: 0.0012
+Token: ' unit' (ID: 4982), Prob: 0.0011
+Token: ' round' (ID: 4778), Prob: 0.0011
+Token: ' zone' (ID: 10143), Prob: 0.0009
+Token: ' clock' (ID: 8866), Prob: 0.0009
+Token: ' trip' (ID: 8411), Prob: 0.0008
+Token: ' afternoon' (ID: 13354), Prob: 0.0008
+Token: ' meter' (ID: 22962), Prob: 0.0008
+Token: ' full' (ID: 2480), Prob: 0.0007
+Token: ' less' (ID: 2686), Prob: 0.0007
+Token: ' calendar' (ID: 13168), Prob: 0.0007
+Token: ' moment' (ID: 4445), Prob: 0.0006
+Token: ' town' (ID: 6290), Prob: 0.0006
+Token: ' morning' (ID: 6556), Prob: 0.0006
+Token: '-four' (ID: 41017), Prob: 0.0006
+Token: ' room' (ID: 3054), Prob: 0.0005
+Token: ' evening' (ID: 11458), Prob: 0.0005
+Token: ' planet' (ID: 11580), Prob: 0.0005
+Token: ' direction' (ID: 5106), Prob: 0.0005
+Token: ' floor' (ID: 6422), Prob: 0.0005
+Token: ' place' (ID: 1992), Prob: 0.0005
+Token: ' plane' (ID: 11031), Prob: 0.0005
+Token: ' fifth' (ID: 17702), Prob: 0.0005
+Token: ' point' (ID: 1459), Prob: 0.0004
+Token: ' single' (ID: 3175), Prob: 0.0004
+Token: ' away' (ID: 3123), Prob: 0.0004
+Token: ' fourth' (ID: 11737), Prob: 0.0004
+Token: ' instant' (ID: 9690), Prob: 0.0004
+Token: ' destination' (ID: 9106), Prob: 0.0003
+Token: ' century' (ID: 9294), Prob: 0.0003
+Token: '-way' (ID: 26798), Prob: 0.0003
+Token: ' light' (ID: 3100), Prob: 0.0003
+Token: ' dollar' (ID: 17692), Prob: 0.0003
+Token: ' region' (ID: 5537), Prob: 0.0003
+Token: ' segment' (ID: 10238), Prob: 0.0003
+Token: ' tunnel' (ID: 25629), Prob: 0.0003
+Token: ' action' (ID: 1917), Prob: 0.0003
+Token: ' level' (ID: 2188), Prob: 0.0003
+Token: ' window' (ID: 3241), Prob: 0.0003
+Token: ' standard' (ID: 5297), Prob: 0.0003
+Token: ' billion' (ID: 7094), Prob: 0.0003
+Token: ' decade' (ID: 13212), Prob: 0.0003
+Token: ' person' (ID: 1697), Prob: 0.0003
+Token: ' midnight' (ID: 32333), Prob: 0.0003
+Token: ' mill' (ID: 2544), Prob: 0.0002
+Token: ' hop' (ID: 7446), Prob: 0.0002
+Token: ' lane' (ID: 21272), Prob: 0.0002
+Token: ' every' (ID: 1449), Prob: 0.0002
+
+== Ranked Concepts (Clusters) ==
+Rank 1 | Concept Score: 0.4785
+  Tokens: [' hour', ' minute']
+Rank 2 | Concept Score: 0.2139
+  Tokens: [' day', ' week', ' month', ' year']
+Rank 3 | Concept Score: 0.0918
+  Tokens: [' time', ' person']
+Rank 4 | Concept Score: 0.0220
+  Tokens: [' way', '-way']
+Rank 5 | Concept Score: 0.0175
+  Tokens: [' second', '-third', ' third', '-four', ' fifth', ' fourth']
+Rank 6 | Concept Score: 0.0140
+  Tokens: [' mile', ' meter', ' century', ' dollar', ' decade']
+Rank 7 | Concept Score: 0.0135
+  Tokens: [' thousand', ' million', ' hundred', ' kil', ' billion', ' mill']
+Rank 8 | Concept Score: 0.0103
+  Tokens: [' step', ' unit', ' segment', ' window']
+Rank 9 | Concept Score: 0.0065
+  Tokens: [' night', ' afternoon', ' morning', ' evening', ' midnight']
+Rank 10 | Concept Score: 0.0051
+  Tokens: [' half', '-half', ' quarter']
+Rank 11 | Concept Score: 0.0038
+  Tokens: [' city', ' zone', ' town', ' planet', ' region']
+Rank 12 | Concept Score: 0.0035
+  Tokens: [' location', ' direction', ' place', ' point', ' destination']
+Rank 13 | Concept Score: 0.0033
+  Tokens: [' flight', ' trip', ' plane', ' tunnel', ' hop', ' lane']
+Rank 14 | Concept Score: 0.0028
+  Tokens: [' full', ' less', ' single', ' light', ' action', ' standard', ' every']
+Rank 15 | Concept Score: 0.0021
+  Tokens: [' round', ' room', ' floor']
+Rank 16 | Concept Score: 0.0015
+  Tokens: [' clock', ' calendar']
+Rank 17 | Concept Score: 0.0015
+  Tokens: [' block', ' level']
+Rank 18 | Concept Score: 0.0010
+  Tokens: [' moment', ' instant']
+Rank 19 | Concept Score: 0.0004
+  Tokens: [' away']
+
+**Chosen Concept:** Rank 1 with score 0.4785

@@ -1,0 +1,87 @@
+--- Step 108 Log ---
+
+== Filtered Candidates ==
+Token: ' twenty' (ID: 17073), Prob: 0.9922
+Token: ' thirty' (ID: 26127), Prob: 0.0032
+Token: ' two' (ID: 1378), Prob: 0.0025
+Token: ' Twenty' (ID: 43856), Prob: 0.0005
+Token: ' hundred' (ID: 7739), Prob: 0.0002
+Token: ' nineteen' (ID: 93835), Prob: 0.0002
+Token: ' three' (ID: 2326), Prob: 0.0001
+Token: ' ten' (ID: 5779), Prob: 0.0001
+Token: ' eighteen' (ID: 62034), Prob: 0.0001
+Token: ' seventeen' (ID: 81397), Prob: 0.0001
+Token: ' twentieth' (ID: 61420), Prob: 0.0001
+Token: ' thousand' (ID: 16183), Prob: 0.0001
+Token: ' thirteen' (ID: 60659), Prob: 0.0000
+Token: 'twenty' (ID: 93965), Prob: 0.0000
+Token: ' forty' (ID: 35398), Prob: 0.0000
+Token: ' twelve' (ID: 29235), Prob: 0.0000
+Token: ' fifty' (ID: 32417), Prob: 0.0000
+Token: ' sixteen' (ID: 58039), Prob: 0.0000
+Token: ' one' (ID: 825), Prob: 0.0000
+Token: ' zero' (ID: 7168), Prob: 0.0000
+Token: ' binary' (ID: 7868), Prob: 0.0000
+Token: 'Twenty' (ID: 75796), Prob: 0.0000
+Token: ' twenties' (ID: 96596), Prob: 0.0000
+Token: ' number' (ID: 1372), Prob: 0.0000
+Token: ' fifteen' (ID: 36655), Prob: 0.0000
+Token: ' eleven' (ID: 44214), Prob: 0.0000
+Token: ' seventy' (ID: 69949), Prob: 0.0000
+Token: ' sixty' (ID: 52374), Prob: 0.0000
+Token: ' Thirty' (ID: 66620), Prob: 0.0000
+Token: ' dozen' (ID: 20403), Prob: 0.0000
+Token: ' eight' (ID: 8063), Prob: 0.0000
+Token: ' fourteen' (ID: 62260), Prob: 0.0000
+Token: ' even' (ID: 1496), Prob: 0.0000
+Token: ' seven' (ID: 8094), Prob: 0.0000
+Token: ' second' (ID: 2086), Prob: 0.0000
+Token: ' Two' (ID: 9043), Prob: 0.0000
+Token: ' many' (ID: 1657), Prob: 0.0000
+Token: ' six' (ID: 4743), Prob: 0.0000
+Token: ' plus' (ID: 5519), Prob: 0.0000
+Token: ' unknown' (ID: 9788), Prob: 0.0000
+Token: ' thr' (ID: 8807), Prob: 0.0000
+Token: ' variable' (ID: 3890), Prob: 0.0000
+Token: ' hundreds' (ID: 11499), Prob: 0.0000
+Token: ' twin' (ID: 27397), Prob: 0.0000
+Token: ' whole' (ID: 4361), Prob: 0.0000
+Token: ' thee' (ID: 39244), Prob: 0.0000
+Token: ' four' (ID: 3040), Prob: 0.0000
+Token: ' thousands' (ID: 9037), Prob: 0.0000
+Token: ' trial' (ID: 9091), Prob: 0.0000
+Token: ' ninety' (ID: 77876), Prob: 0.0000
+Token: ' nine' (ID: 11627), Prob: 0.0000
+Token: ' tens' (ID: 22008), Prob: 0.0000
+
+== Ranked Concepts (Clusters) ==
+Rank 1 | Concept Score: 0.9922
+  Tokens: [' twenty', ' Twenty', 'twenty', 'Twenty', ' Thirty']
+Rank 2 | Concept Score: 0.0032
+  Tokens: [' thirty', ' forty', ' fifty', ' seventy', ' sixty', ' ninety']
+Rank 3 | Concept Score: 0.0025
+  Tokens: [' two', ' Two']
+Rank 4 | Concept Score: 0.0004
+  Tokens: [' nineteen', ' eighteen', ' seventeen', ' thirteen', ' twelve', ' sixteen', ' fifteen', ' eleven', ' fourteen']
+Rank 5 | Concept Score: 0.0002
+  Tokens: [' hundred', ' thousand', ' dozen', ' hundreds', ' thousands', ' tens']
+Rank 6 | Concept Score: 0.0001
+  Tokens: [' three', ' eight', ' seven', ' six', ' four', ' nine']
+Rank 7 | Concept Score: 0.0001
+  Tokens: [' ten']
+Rank 8 | Concept Score: 0.0001
+  Tokens: [' twentieth', ' twenties']
+Rank 9 | Concept Score: 0.0000
+  Tokens: [' zero', ' binary', ' twin', ' trial']
+Rank 10 | Concept Score: 0.0000
+  Tokens: [' one', ' second']
+Rank 11 | Concept Score: 0.0000
+  Tokens: [' number', ' many', ' unknown', ' variable']
+Rank 12 | Concept Score: 0.0000
+  Tokens: [' even', ' plus']
+Rank 13 | Concept Score: 0.0000
+  Tokens: [' thr', ' thee']
+Rank 14 | Concept Score: 0.0000
+  Tokens: [' whole']
+
+**Chosen Concept:** Rank 1 with score 0.9922

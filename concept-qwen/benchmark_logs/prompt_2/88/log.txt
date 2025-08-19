@@ -1,0 +1,148 @@
+--- Step 88 Log ---
+
+== Filtered Candidates ==
+Token: ' type' (ID: 943), Prob: 0.3672
+Token: ' kind' (ID: 3093), Prob: 0.1196
+Token: ' chemical' (ID: 11483), Prob: 0.0723
+Token: ' element' (ID: 2392), Prob: 0.0302
+Token: ' amount' (ID: 3311), Prob: 0.0302
+Token: ' protein' (ID: 12833), Prob: 0.0302
+Token: ' gene' (ID: 14862), Prob: 0.0236
+Token: ' number' (ID: 1372), Prob: 0.0208
+Token: ' genetic' (ID: 18929), Prob: 0.0195
+Token: ' level' (ID: 2188), Prob: 0.0172
+Token: ' enzyme' (ID: 48142), Prob: 0.0172
+Token: ' structure' (ID: 5944), Prob: 0.0098
+Token: ' biological' (ID: 23275), Prob: 0.0098
+Token: ' mutation' (ID: 26374), Prob: 0.0098
+Token: ' property' (ID: 3343), Prob: 0.0092
+Token: ' compound' (ID: 23628), Prob: 0.0076
+Token: ' toxin' (ID: 97434), Prob: 0.0072
+Token: ' component' (ID: 3692), Prob: 0.0067
+Token: ' feature' (ID: 4565), Prob: 0.0063
+Token: ' specific' (ID: 3151), Prob: 0.0056
+Token: ' amino' (ID: 41400), Prob: 0.0056
+Token: ' part' (ID: 949), Prob: 0.0052
+Token: ' molecule' (ID: 41930), Prob: 0.0052
+Token: ' biochemical' (ID: 92432), Prob: 0.0052
+Token: ' DNA' (ID: 15552), Prob: 0.0044
+Token: ' nutrient' (ID: 49023), Prob: 0.0044
+Token: ' special' (ID: 3281), Prob: 0.0038
+Token: ' characteristic' (ID: 28583), Prob: 0.0038
+Token: ' mechanism' (ID: 16953), Prob: 0.0034
+Token: ' ability' (ID: 5726), Prob: 0.0030
+Token: ' molecular' (ID: 30106), Prob: 0.0028
+Token: ' key' (ID: 1376), Prob: 0.0025
+Token: ' percentage' (ID: 11414), Prob: 0.0025
+Token: ' trait' (ID: 17567), Prob: 0.0023
+Token: ' virus' (ID: 16770), Prob: 0.0022
+Token: ' factor' (ID: 8168), Prob: 0.0021
+Token: ' ingredient' (ID: 24763), Prob: 0.0021
+Token: ' metabolic' (ID: 40761), Prob: 0.0019
+Token: ' sequence' (ID: 8500), Prob: 0.0017
+Token: ' substance' (ID: 19699), Prob: 0.0017
+Token: ' antibiotic' (ID: 59495), Prob: 0.0017
+Token: ' combination' (ID: 10601), Prob: 0.0014
+Token: ' species' (ID: 9419), Prob: 0.0013
+Token: ' aspect' (ID: 12893), Prob: 0.0013
+Token: ' requirement' (ID: 16287), Prob: 0.0013
+Token: ' set' (ID: 738), Prob: 0.0012
+Token: ' modification' (ID: 17030), Prob: 0.0012
+Token: ' mineral' (ID: 24136), Prob: 0.0012
+Token: ' form' (ID: 1352), Prob: 0.0011
+Token: ' attribute' (ID: 7035), Prob: 0.0011
+Token: ' temperature' (ID: 9315), Prob: 0.0011
+Token: ' bacterial' (ID: 44864), Prob: 0.0011
+Token: ' receptor' (ID: 34168), Prob: 0.0010
+Token: ' particular' (ID: 3953), Prob: 0.0010
+Token: ' essential' (ID: 7565), Prob: 0.0010
+Token: ' organic' (ID: 17356), Prob: 0.0010
+Token: ' hormone' (ID: 35808), Prob: 0.0010
+Token: ' composition' (ID: 18037), Prob: 0.0009
+Token: ' structural' (ID: 23759), Prob: 0.0009
+Token: ' strain' (ID: 25716), Prob: 0.0009
+Token: ' active' (ID: 4541), Prob: 0.0009
+Token: ' bio' (ID: 16905), Prob: 0.0009
+Token: ' way' (ID: 1616), Prob: 0.0008
+Token: ' unique' (ID: 4911), Prob: 0.0008
+Token: ' complex' (ID: 6351), Prob: 0.0008
+Token: ' condition' (ID: 2971), Prob: 0.0008
+Token: ' portion' (ID: 13348), Prob: 0.0008
+Token: ' sugar' (ID: 13163), Prob: 0.0007
+Token: ' concentration' (ID: 19950), Prob: 0.0007
+Token: ' bacteria' (ID: 23157), Prob: 0.0007
+Token: ' bacter' (ID: 17398), Prob: 0.0006
+Token: ' residue' (ID: 48132), Prob: 0.0006
+Token: ' vitamin' (ID: 27071), Prob: 0.0006
+Token: ' certain' (ID: 3654), Prob: 0.0006
+Token: ' degree' (ID: 8381), Prob: 0.0006
+Token: ' toxic' (ID: 20836), Prob: 0.0006
+Token: ' cell' (ID: 2779), Prob: 0.0005
+Token: ' immunity' (ID: 39268), Prob: 0.0005
+Token: ' bios' (ID: 48454), Prob: 0.0005
+Token: ' genotype' (ID: 79185), Prob: 0.0005
+Token: ' drug' (ID: 5506), Prob: 0.0005
+Token: ' capacity' (ID: 8654), Prob: 0.0005
+Token: ' path' (ID: 1815), Prob: 0.0005
+Token: ' pattern' (ID: 5383), Prob: 0.0005
+Token: ' trigger' (ID: 8183), Prob: 0.0005
+Token: ' cycle' (ID: 10775), Prob: 0.0005
+Token: ' restriction' (ID: 19455), Prob: 0.0005
+Token: ' ion' (ID: 27672), Prob: 0.0005
+Token: ' piece' (ID: 6573), Prob: 0.0004
+Token: ' crystal' (ID: 25055), Prob: 0.0004
+Token: ' critical' (ID: 9023), Prob: 0.0004
+Token: ' metal' (ID: 9317), Prob: 0.0004
+Token: ' functional' (ID: 15629), Prob: 0.0004
+Token: ' proportion' (ID: 21117), Prob: 0.0004
+Token: ' cellular' (ID: 34593), Prob: 0.0004
+Token: ' microbial' (ID: 74318), Prob: 0.0004
+Token: ' function' (ID: 729), Prob: 0.0004
+
+== Ranked Concepts (Clusters) ==
+Rank 1 | Concept Score: 0.4922
+  Tokens: [' type', ' kind', ' set', ' form', ' way', ' path', ' pattern', ' trigger', ' cycle', ' function']
+Rank 2 | Concept Score: 0.0918
+  Tokens: [' chemical', ' biological', ' biochemical', ' metabolic', ' organic', ' bio', ' bios']
+Rank 3 | Concept Score: 0.0718
+  Tokens: [' amount', ' number', ' level', ' percentage', ' degree', ' proportion']
+Rank 4 | Concept Score: 0.0708
+  Tokens: [' protein', ' enzyme', ' toxin', ' amino', ' nutrient', ' mineral', ' receptor', ' hormone', ' sugar', ' vitamin', ' toxic', ' drug', ' ion', ' metal']
+Rank 5 | Concept Score: 0.0579
+  Tokens: [' gene', ' genetic', ' mutation', ' DNA', ' genotype']
+Rank 6 | Concept Score: 0.0342
+  Tokens: [' element', ' factor', ' ingredient']
+Rank 7 | Concept Score: 0.0228
+  Tokens: [' property', ' feature', ' characteristic', ' trait', ' attribute']
+Rank 8 | Concept Score: 0.0172
+  Tokens: [' structure', ' mechanism', ' sequence', ' combination', ' composition']
+Rank 9 | Concept Score: 0.0145
+  Tokens: [' component', ' part', ' aspect', ' portion', ' piece']
+Rank 10 | Concept Score: 0.0126
+  Tokens: [' specific', ' special', ' particular', ' unique', ' complex', ' certain']
+Rank 11 | Concept Score: 0.0093
+  Tokens: [' compound', ' substance']
+Rank 12 | Concept Score: 0.0081
+  Tokens: [' molecule', ' molecular']
+Rank 13 | Concept Score: 0.0067
+  Tokens: [' virus', ' antibiotic', ' bacterial', ' bacteria', ' bacter', ' microbial']
+Rank 14 | Concept Score: 0.0047
+  Tokens: [' key', ' essential', ' active', ' critical']
+Rank 15 | Concept Score: 0.0040
+  Tokens: [' ability', ' immunity', ' capacity']
+Rank 16 | Concept Score: 0.0038
+  Tokens: [' requirement', ' modification', ' condition', ' restriction']
+Rank 17 | Concept Score: 0.0024
+  Tokens: [' temperature', ' concentration', ' residue']
+Rank 18 | Concept Score: 0.0013
+  Tokens: [' species']
+Rank 19 | Concept Score: 0.0013
+  Tokens: [' structural', ' functional']
+Rank 20 | Concept Score: 0.0009
+  Tokens: [' cell', ' cellular']
+Rank 21 | Concept Score: 0.0009
+  Tokens: [' strain']
+Rank 22 | Concept Score: 0.0004
+  Tokens: [' crystal']
+
+**Chosen Concept:** Rank 1 with score 0.4922

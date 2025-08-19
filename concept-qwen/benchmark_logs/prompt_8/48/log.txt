@@ -1,0 +1,64 @@
+--- Step 48 Log ---
+
+== Filtered Candidates ==
+Token: ' something' (ID: 2494), Prob: 0.2812
+Token: ' things' (ID: 2513), Prob: 0.0245
+Token: ' information' (ID: 1995), Prob: 0.0055
+Token: ' someone' (ID: 4325), Prob: 0.0029
+Token: ' one' (ID: 825), Prob: 0.0019
+Token: ' certain' (ID: 3654), Prob: 0.0015
+Token: ' important' (ID: 2989), Prob: 0.0014
+Token: ' even' (ID: 1496), Prob: 0.0012
+Token: ' anything' (ID: 4113), Prob: 0.0012
+Token: ' nothing' (ID: 4302), Prob: 0.0011
+Token: ' details' (ID: 3565), Prob: 0.0009
+Token: ' without' (ID: 2041), Prob: 0.0008
+Token: ' everything' (ID: 4297), Prob: 0.0008
+Token: ' different' (ID: 2155), Prob: 0.0007
+Token: ' people' (ID: 1251), Prob: 0.0007
+Token: ' whether' (ID: 3425), Prob: 0.0007
+Token: ' instead' (ID: 4518), Prob: 0.0005
+Token: ' specific' (ID: 3151), Prob: 0.0005
+Token: ' feelings' (ID: 15650), Prob: 0.0005
+Token: ' emotions' (ID: 21261), Prob: 0.0005
+Token: ' maybe' (ID: 7196), Prob: 0.0004
+Token: ' exactly' (ID: 6896), Prob: 0.0004
+Token: ' whatever' (ID: 8820), Prob: 0.0004
+Token: ' emotionally' (ID: 37583), Prob: 0.0004
+Token: ' also' (ID: 1083), Prob: 0.0004
+Token: ' less' (ID: 2686), Prob: 0.0004
+Token: ' personal' (ID: 4345), Prob: 0.0004
+Token: ' stuff' (ID: 6259), Prob: 0.0004
+Token: ' negative' (ID: 8225), Prob: 0.0004
+Token: ' early' (ID: 4124), Prob: 0.0003
+Token: ' clearly' (ID: 9355), Prob: 0.0003
+Token: ' directly' (ID: 5961), Prob: 0.0003
+Token: ' secrets' (ID: 23594), Prob: 0.0003
+
+== Ranked Concepts (Clusters) ==
+Rank 1 | Concept Score: 0.3086
+  Tokens: [' something', ' things', ' anything', ' nothing', ' everything', ' stuff']
+Rank 2 | Concept Score: 0.0067
+  Tokens: [' information', ' details', ' secrets']
+Rank 3 | Concept Score: 0.0055
+  Tokens: [' someone', ' one', ' people']
+Rank 4 | Concept Score: 0.0041
+  Tokens: [' certain', ' important', ' different', ' specific']
+Rank 5 | Concept Score: 0.0016
+  Tokens: [' even', ' also']
+Rank 6 | Concept Score: 0.0014
+  Tokens: [' without', ' instead']
+Rank 7 | Concept Score: 0.0013
+  Tokens: [' feelings', ' emotions', ' emotionally']
+Rank 8 | Concept Score: 0.0011
+  Tokens: [' whether', ' whatever']
+Rank 9 | Concept Score: 0.0010
+  Tokens: [' exactly', ' clearly', ' directly']
+Rank 10 | Concept Score: 0.0007
+  Tokens: [' less', ' negative']
+Rank 11 | Concept Score: 0.0007
+  Tokens: [' personal', ' early']
+Rank 12 | Concept Score: 0.0004
+  Tokens: [' maybe']
+
+**Chosen Concept:** Rank 1 with score 0.3086

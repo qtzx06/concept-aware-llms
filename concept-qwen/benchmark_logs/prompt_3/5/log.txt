@@ -1,0 +1,78 @@
+--- Step 5 Log ---
+
+== Filtered Candidates ==
+Token: ' could' (ID: 1410), Prob: 0.0243
+Token: ' would' (ID: 1035), Prob: 0.0139
+Token: ' comes' (ID: 4041), Prob: 0.0122
+Token: ' takes' (ID: 4990), Prob: 0.0115
+Token: ' wants' (ID: 6801), Prob: 0.0101
+Token: ' goes' (ID: 5780), Prob: 0.0084
+Token: ' else' (ID: 770), Prob: 0.0070
+Token: ' might' (ID: 2578), Prob: 0.0066
+Token: ' may' (ID: 1231), Prob: 0.0062
+Token: ' come' (ID: 2525), Prob: 0.0051
+Token: ' gets' (ID: 5221), Prob: 0.0051
+Token: ' knows' (ID: 8788), Prob: 0.0051
+Token: ' like' (ID: 1075), Prob: 0.0033
+Token: ' makes' (ID: 3643), Prob: 0.0033
+Token: ' decides' (ID: 27627), Prob: 0.0029
+Token: ' buys' (ID: 49531), Prob: 0.0027
+Token: ' needs' (ID: 3880), Prob: 0.0026
+Token: ' took' (ID: 3867), Prob: 0.0024
+Token: ' take' (ID: 1896), Prob: 0.0023
+Token: ' says' (ID: 2727), Prob: 0.0021
+Token: ' came' (ID: 3697), Prob: 0.0021
+Token: ' named' (ID: 6941), Prob: 0.0019
+Token: ' owns' (ID: 24256), Prob: 0.0017
+Token: ' get' (ID: 633), Prob: 0.0016
+Token: ' gives' (ID: 6696), Prob: 0.0016
+Token: ' helps' (ID: 8609), Prob: 0.0016
+Token: ' must' (ID: 1969), Prob: 0.0015
+Token: ' buy' (ID: 3695), Prob: 0.0014
+Token: ' know' (ID: 1414), Prob: 0.0013
+Token: ' becomes' (ID: 9044), Prob: 0.0012
+Token: ' joins' (ID: 28682), Prob: 0.0012
+Token: ' went' (ID: 3937), Prob: 0.0011
+Token: ' uses' (ID: 5711), Prob: 0.0011
+Token: ' say' (ID: 1977), Prob: 0.0011
+Token: ' decided' (ID: 6635), Prob: 0.0011
+Token: ' instead' (ID: 4518), Prob: 0.0010
+Token: ' dies' (ID: 8725), Prob: 0.0010
+Token: ' decide' (ID: 10279), Prob: 0.0010
+Token: ' already' (ID: 2669), Prob: 0.0009
+Token: ' got' (ID: 2684), Prob: 0.0009
+Token: ' replaces' (ID: 40700), Prob: 0.0009
+
+== Ranked Concepts (Clusters) ==
+Rank 1 | Concept Score: 0.0522
+  Tokens: [' could', ' would', ' might', ' may', ' must']
+Rank 2 | Concept Score: 0.0194
+  Tokens: [' comes', ' come', ' came']
+Rank 3 | Concept Score: 0.0161
+  Tokens: [' takes', ' took', ' take']
+Rank 4 | Concept Score: 0.0139
+  Tokens: [' wants', ' needs', ' uses']
+Rank 5 | Concept Score: 0.0131
+  Tokens: [' else', ' like', ' named', ' already']
+Rank 6 | Concept Score: 0.0096
+  Tokens: [' goes', ' went']
+Rank 7 | Concept Score: 0.0076
+  Tokens: [' makes', ' gives', ' helps', ' becomes']
+Rank 8 | Concept Score: 0.0076
+  Tokens: [' gets', ' get', ' got']
+Rank 9 | Concept Score: 0.0064
+  Tokens: [' knows', ' know']
+Rank 10 | Concept Score: 0.0050
+  Tokens: [' decides', ' decided', ' decide']
+Rank 11 | Concept Score: 0.0041
+  Tokens: [' buys', ' buy']
+Rank 12 | Concept Score: 0.0032
+  Tokens: [' says', ' say']
+Rank 13 | Concept Score: 0.0032
+  Tokens: [' joins', ' dies', ' replaces']
+Rank 14 | Concept Score: 0.0017
+  Tokens: [' owns']
+Rank 15 | Concept Score: 0.0010
+  Tokens: [' instead']
+
+**Chosen Concept:** Rank 1 with score 0.0522

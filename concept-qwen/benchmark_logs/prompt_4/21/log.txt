@@ -1,0 +1,56 @@
+--- Step 21 Log ---
+
+== Filtered Candidates ==
+Token: ' Today' (ID: 11201), Prob: 0.8477
+Token: ' today' (ID: 3351), Prob: 0.0065
+Token: 'Today' (ID: 15364), Prob: 0.0021
+Token: '.Today' (ID: 72672), Prob: 0.0017
+Token: ' TODAY' (ID: 40262), Prob: 0.0014
+Token: ' Tomorrow' (ID: 54996), Prob: 0.0007
+Token: ' Together' (ID: 31155), Prob: 0.0005
+Token: ' Tonight' (ID: 54214), Prob: 0.0004
+Token: ' Yesterday' (ID: 60033), Prob: 0.0004
+Token: ' Please' (ID: 5209), Prob: 0.0003
+Token: ' Also' (ID: 7281), Prob: 0.0003
+Token: ' Topics' (ID: 40894), Prob: 0.0003
+Token: ' Children' (ID: 15044), Prob: 0.0002
+Token: ' Tod' (ID: 58583), Prob: 0.0002
+Token: ' Day' (ID: 6059), Prob: 0.0002
+Token: ' Daily' (ID: 13385), Prob: 0.0002
+Token: ' Recently' (ID: 40996), Prob: 0.0002
+Token: ' People' (ID: 8853), Prob: 0.0002
+Token: ' Dreams' (ID: 52618), Prob: 0.0002
+Token: ' Everyone' (ID: 21455), Prob: 0.0002
+Token: ' Let' (ID: 6771), Prob: 0.0002
+Token: ' Yes' (ID: 7414), Prob: 0.0002
+Token: ' Later' (ID: 24885), Prob: 0.0002
+
+== Ranked Concepts (Clusters) ==
+Rank 1 | Concept Score: 0.8594
+  Tokens: [' Today', ' today', 'Today', '.Today', ' TODAY']
+Rank 2 | Concept Score: 0.0011
+  Tokens: [' Tomorrow', ' Tonight']
+Rank 3 | Concept Score: 0.0008
+  Tokens: [' Please', ' Also', ' Let']
+Rank 4 | Concept Score: 0.0005
+  Tokens: [' Yesterday', ' Recently']
+Rank 5 | Concept Score: 0.0005
+  Tokens: [' Together']
+Rank 6 | Concept Score: 0.0004
+  Tokens: [' Day', ' Daily']
+Rank 7 | Concept Score: 0.0003
+  Tokens: [' People', ' Everyone']
+Rank 8 | Concept Score: 0.0003
+  Tokens: [' Topics']
+Rank 9 | Concept Score: 0.0002
+  Tokens: [' Tod']
+Rank 10 | Concept Score: 0.0002
+  Tokens: [' Children']
+Rank 11 | Concept Score: 0.0002
+  Tokens: [' Dreams']
+Rank 12 | Concept Score: 0.0002
+  Tokens: [' Yes']
+Rank 13 | Concept Score: 0.0002
+  Tokens: [' Later']
+
+**Chosen Concept:** Rank 1 with score 0.8594

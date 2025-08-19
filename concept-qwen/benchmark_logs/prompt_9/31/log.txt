@@ -1,0 +1,70 @@
+--- Step 31 Log ---
+
+== Filtered Candidates ==
+Token: ' Two' (ID: 9043), Prob: 0.8203
+Token: ' two' (ID: 1378), Prob: 0.0091
+Token: ' etc' (ID: 4992), Prob: 0.0038
+Token: ' Three' (ID: 14513), Prob: 0.0024
+Token: ' One' (ID: 3776), Prob: 0.0023
+Token: ' Let' (ID: 6771), Prob: 0.0018
+Token: ' Wait' (ID: 13824), Prob: 0.0017
+Token: 'Two' (ID: 11613), Prob: 0.0011
+Token: ' Twenty' (ID: 43856), Prob: 0.0008
+Token: ' Maybe' (ID: 10696), Prob: 0.0007
+Token: ' Together' (ID: 31155), Prob: 0.0006
+Token: ' Hmm' (ID: 88190), Prob: 0.0006
+Token: ' Also' (ID: 7281), Prob: 0.0005
+Token: ' Four' (ID: 13322), Prob: 0.0005
+Token: ' Six' (ID: 18680), Prob: 0.0005
+Token: ' Total' (ID: 10657), Prob: 0.0004
+Token: ' Well' (ID: 8325), Prob: 0.0003
+Token: ' Still' (ID: 16377), Prob: 0.0003
+Token: ' Five' (ID: 20924), Prob: 0.0003
+Token: ' Answer' (ID: 21806), Prob: 0.0003
+Token: ' Twice' (ID: 93566), Prob: 0.0002
+Token: ' Another' (ID: 13293), Prob: 0.0002
+Token: ' Therefore' (ID: 15277), Prob: 0.0002
+Token: ' Yes' (ID: 7414), Prob: 0.0002
+Token: ' According' (ID: 10548), Prob: 0.0002
+Token: ' Please' (ID: 5209), Prob: 0.0002
+Token: ' TWO' (ID: 46258), Prob: 0.0002
+Token: ' End' (ID: 3972), Prob: 0.0002
+Token: ' Today' (ID: 11201), Prob: 0.0002
+Token: ' Mother' (ID: 21043), Prob: 0.0002
+Token: ' Time' (ID: 4120), Prob: 0.0001
+
+== Ranked Concepts (Clusters) ==
+Rank 1 | Concept Score: 0.8320
+  Tokens: [' Two', ' two', 'Two', ' TWO']
+Rank 2 | Concept Score: 0.0045
+  Tokens: [' Three', ' Twenty', ' Four', ' Six', ' Five']
+Rank 3 | Concept Score: 0.0038
+  Tokens: [' etc']
+Rank 4 | Concept Score: 0.0024
+  Tokens: [' Let', ' Therefore', ' According', ' Please']
+Rank 5 | Concept Score: 0.0023
+  Tokens: [' One']
+Rank 6 | Concept Score: 0.0020
+  Tokens: [' Wait', ' Well']
+Rank 7 | Concept Score: 0.0014
+  Tokens: [' Maybe', ' Hmm', ' Yes']
+Rank 8 | Concept Score: 0.0009
+  Tokens: [' Also', ' Still']
+Rank 9 | Concept Score: 0.0006
+  Tokens: [' Together']
+Rank 10 | Concept Score: 0.0005
+  Tokens: [' Total', ' Time']
+Rank 11 | Concept Score: 0.0003
+  Tokens: [' Answer']
+Rank 12 | Concept Score: 0.0002
+  Tokens: [' Twice']
+Rank 13 | Concept Score: 0.0002
+  Tokens: [' Another']
+Rank 14 | Concept Score: 0.0002
+  Tokens: [' End']
+Rank 15 | Concept Score: 0.0002
+  Tokens: [' Today']
+Rank 16 | Concept Score: 0.0002
+  Tokens: [' Mother']
+
+**Chosen Concept:** Rank 1 with score 0.8320

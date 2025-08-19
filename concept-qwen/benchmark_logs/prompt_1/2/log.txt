@@ -1,0 +1,98 @@
+--- Step 2 Log ---
+
+== Filtered Candidates ==
+Token: ' using' (ID: 1667), Prob: 0.0679
+Token: ' without' (ID: 2041), Prob: 0.0182
+Token: ' describing' (ID: 22692), Prob: 0.0142
+Token: ' making' (ID: 3259), Prob: 0.0092
+Token: ' use' (ID: 990), Prob: 0.0086
+Token: ' describe' (ID: 7512), Prob: 0.0076
+Token: ' including' (ID: 2670), Prob: 0.0071
+Token: ' focusing' (ID: 21080), Prob: 0.0071
+Token: ' like' (ID: 1075), Prob: 0.0063
+Token: ' full' (ID: 2480), Prob: 0.0052
+Token: ' starting' (ID: 5916), Prob: 0.0049
+Token: ' covering' (ID: 18202), Prob: 0.0046
+Token: ' something' (ID: 2494), Prob: 0.0038
+Token: ' maybe' (ID: 7196), Prob: 0.0038
+Token: ' make' (ID: 1281), Prob: 0.0034
+Token: ' ending' (ID: 13391), Prob: 0.0034
+Token: ' keeping' (ID: 10282), Prob: 0.0032
+Token: ' complete' (ID: 4583), Prob: 0.0030
+Token: ' please' (ID: 4486), Prob: 0.0028
+Token: ' every' (ID: 1449), Prob: 0.0025
+Token: ' even' (ID: 1496), Prob: 0.0025
+Token: ' avoiding' (ID: 30426), Prob: 0.0023
+Token: ' first' (ID: 1156), Prob: 0.0022
+Token: ' keep' (ID: 2506), Prob: 0.0022
+Token: ' one' (ID: 825), Prob: 0.0020
+Token: ' perhaps' (ID: 8365), Prob: 0.0020
+Token: ' feeling' (ID: 8266), Prob: 0.0019
+Token: ' start' (ID: 1191), Prob: 0.0017
+Token: ' within' (ID: 2878), Prob: 0.0017
+Token: ' showing' (ID: 9027), Prob: 0.0017
+Token: ' similar' (ID: 4428), Prob: 0.0016
+Token: ' fully' (ID: 7225), Prob: 0.0016
+Token: ' highlighting' (ID: 38586), Prob: 0.0016
+Token: ' vivid' (ID: 42020), Prob: 0.0016
+Token: ' write' (ID: 3270), Prob: 0.0015
+Token: ' written' (ID: 5326), Prob: 0.0014
+Token: ' beginning' (ID: 7167), Prob: 0.0014
+Token: ' containing' (ID: 8482), Prob: 0.0014
+Token: ' rich' (ID: 9080), Prob: 0.0014
+Token: ' filled' (ID: 10199), Prob: 0.0014
+Token: ' let' (ID: 1077), Prob: 0.0012
+Token: ' include' (ID: 2924), Prob: 0.0012
+Token: ' trying' (ID: 4460), Prob: 0.0012
+Token: ' avoid' (ID: 5648), Prob: 0.0012
+Token: ' capturing' (ID: 39780), Prob: 0.0012
+Token: ' focus' (ID: 5244), Prob: 0.0012
+Token: ' two' (ID: 1378), Prob: 0.0011
+Token: ' except' (ID: 3650), Prob: 0.0011
+Token: ' perfect' (ID: 4727), Prob: 0.0010
+Token: ' explain' (ID: 10339), Prob: 0.0010
+Token: ' ensuring' (ID: 22573), Prob: 0.0010
+Token: ' explaining' (ID: 25021), Prob: 0.0010
+Token: ' short' (ID: 2805), Prob: 0.0010
+Token: ' completely' (ID: 6587), Prob: 0.0010
+Token: ' meaning' (ID: 7290), Prob: 0.0010
+
+== Ranked Concepts (Clusters) ==
+Rank 1 | Concept Score: 0.0693
+  Tokens: [' using', ' containing']
+Rank 2 | Concept Score: 0.0248
+  Tokens: [' without', ' every', ' even', ' within']
+Rank 3 | Concept Score: 0.0238
+  Tokens: [' describing', ' describe', ' explain', ' explaining']
+Rank 4 | Concept Score: 0.0132
+  Tokens: [' full', ' complete', ' fully', ' filled', ' perfect', ' completely']
+Rank 5 | Concept Score: 0.0125
+  Tokens: [' making', ' make']
+Rank 6 | Concept Score: 0.0114
+  Tokens: [' covering', ' showing', ' highlighting', ' trying', ' capturing', ' ensuring']
+Rank 7 | Concept Score: 0.0114
+  Tokens: [' starting', ' ending', ' start', ' beginning']
+Rank 8 | Concept Score: 0.0098
+  Tokens: [' use', ' let']
+Rank 9 | Concept Score: 0.0096
+  Tokens: [' something', ' maybe', ' perhaps']
+Rank 10 | Concept Score: 0.0095
+  Tokens: [' including', ' include', ' except']
+Rank 11 | Concept Score: 0.0089
+  Tokens: [' keeping', ' avoiding', ' keep', ' avoid']
+Rank 12 | Concept Score: 0.0083
+  Tokens: [' focusing', ' focus']
+Rank 13 | Concept Score: 0.0079
+  Tokens: [' like', ' similar']
+Rank 14 | Concept Score: 0.0077
+  Tokens: [' first', ' one', ' rich', ' two', ' short']
+Rank 15 | Concept Score: 0.0029
+  Tokens: [' write', ' written']
+Rank 16 | Concept Score: 0.0029
+  Tokens: [' feeling', ' meaning']
+Rank 17 | Concept Score: 0.0028
+  Tokens: [' please']
+Rank 18 | Concept Score: 0.0016
+  Tokens: [' vivid']
+
+**Chosen Concept:** Rank 1 with score 0.0693

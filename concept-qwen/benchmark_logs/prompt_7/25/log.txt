@@ -1,0 +1,111 @@
+--- Step 25 Log ---
+
+== Filtered Candidates ==
+Token: ' might' (ID: 2578), Prob: 0.0228
+Token: ' makes' (ID: 3643), Prob: 0.0139
+Token: ' may' (ID: 1231), Prob: 0.0131
+Token: ' seems' (ID: 4977), Prob: 0.0123
+Token: ' covers' (ID: 14521), Prob: 0.0074
+Token: ' could' (ID: 1410), Prob: 0.0045
+Token: ' looks' (ID: 5868), Prob: 0.0042
+Token: ' falls' (ID: 17066), Prob: 0.0042
+Token: ' feels' (ID: 11074), Prob: 0.0027
+Token: 'fall' (ID: 13464), Prob: 0.0023
+Token: ' melts' (ID: 98091), Prob: 0.0023
+Token: ' fell' (ID: 11052), Prob: 0.0020
+Token: ' keeps' (ID: 13598), Prob: 0.0019
+Token: ' gets' (ID: 5221), Prob: 0.0016
+Token: ' blankets' (ID: 64612), Prob: 0.0012
+Token: ' comes' (ID: 4041), Prob: 0.0011
+Token: 'storm' (ID: 26413), Prob: 0.0011
+Token: ' begins' (ID: 12033), Prob: 0.0010
+Token: ' covered' (ID: 9761), Prob: 0.0009
+Token: 'storms' (ID: 82009), Prob: 0.0009
+Token: 'ball' (ID: 3959), Prob: 0.0009
+Token: ' starts' (ID: 8471), Prob: 0.0009
+Token: ' really' (ID: 2167), Prob: 0.0008
+Token: ' cover' (ID: 3421), Prob: 0.0008
+Token: ' hits' (ID: 12983), Prob: 0.0008
+Token: ' would' (ID: 1035), Prob: 0.0008
+Token: ' needs' (ID: 3880), Prob: 0.0008
+Token: ' weather' (ID: 9104), Prob: 0.0008
+Token: ' seemed' (ID: 9324), Prob: 0.0008
+Token: ' lasts' (ID: 39658), Prob: 0.0008
+Token: ' storms' (ID: 43483), Prob: 0.0008
+Token: ' threatens' (ID: 47826), Prob: 0.0007
+Token: ' made' (ID: 1865), Prob: 0.0006
+Token: 'pack' (ID: 4748), Prob: 0.0006
+Token: ' began' (ID: 6009), Prob: 0.0006
+Token: ' continues' (ID: 9539), Prob: 0.0006
+Token: ' storm' (ID: 13458), Prob: 0.0006
+Token: ' got' (ID: 2684), Prob: 0.0006
+Token: ' sometimes' (ID: 7025), Prob: 0.0006
+Token: ' still' (ID: 2058), Prob: 0.0005
+Token: ' season' (ID: 3200), Prob: 0.0005
+Token: ' gives' (ID: 6696), Prob: 0.0005
+Token: ' appears' (ID: 7952), Prob: 0.0005
+Token: ' acts' (ID: 14056), Prob: 0.0005
+Token: ' maybe' (ID: 7196), Prob: 0.0005
+Token: ' brings' (ID: 12434), Prob: 0.0005
+Token: ' often' (ID: 3545), Prob: 0.0005
+Token: ' sounds' (ID: 10362), Prob: 0.0005
+Token: ' snow' (ID: 11794), Prob: 0.0005
+Token: ' blocks' (ID: 10010), Prob: 0.0004
+Token: ' flurry' (ID: 87463), Prob: 0.0004
+Token: ' came' (ID: 3697), Prob: 0.0004
+Token: ' started' (ID: 3855), Prob: 0.0004
+Token: ' adds' (ID: 11367), Prob: 0.0004
+Token: ' becomes' (ID: 9044), Prob: 0.0004
+Token: ' obsc' (ID: 25647), Prob: 0.0004
+Token: ' occasionally' (ID: 22930), Prob: 0.0004
+Token: ' patches' (ID: 28660), Prob: 0.0004
+Token: ' fills' (ID: 40587), Prob: 0.0004
+Token: '-covered' (ID: 83308), Prob: 0.0004
+Token: ' never' (ID: 2581), Prob: 0.0003
+Token: ' cannot' (ID: 4157), Prob: 0.0003
+Token: ' affects' (ID: 21501), Prob: 0.0003
+Token: ' persists' (ID: 66045), Prob: 0.0003
+Token: ' causes' (ID: 11137), Prob: 0.0003
+Token: ' outside' (ID: 4889), Prob: 0.0003
+Token: ' sticks' (ID: 33140), Prob: 0.0003
+Token: ' means' (ID: 3363), Prob: 0.0003
+Token: ' wants' (ID: 6801), Prob: 0.0003
+Token: ' likes' (ID: 13151), Prob: 0.0003
+Token: ' piles' (ID: 58772), Prob: 0.0003
+Token: ' plays' (ID: 11088), Prob: 0.0003
+Token: ' clouds' (ID: 29514), Prob: 0.0003
+Token: ' blanket' (ID: 38039), Prob: 0.0003
+
+== Ranked Concepts (Clusters) ==
+Rank 1 | Concept Score: 0.0420
+  Tokens: [' might', ' may', ' could', ' would', ' maybe', ' cannot']
+Rank 2 | Concept Score: 0.0210
+  Tokens: [' seems', ' looks', ' feels', ' seemed', ' appears', ' sounds']
+Rank 3 | Concept Score: 0.0194
+  Tokens: [' makes', ' keeps', ' gets', ' gives', ' brings', ' adds', ' becomes', ' means']
+Rank 4 | Concept Score: 0.0096
+  Tokens: [' covers', ' covered', ' cover', '-covered']
+Rank 5 | Concept Score: 0.0085
+  Tokens: [' falls', 'fall', ' fell']
+Rank 6 | Concept Score: 0.0063
+  Tokens: [' melts', ' blankets', ' blocks', ' flurry', ' obsc', ' patches', ' sticks', ' piles', ' clouds', ' blanket']
+Rank 7 | Concept Score: 0.0053
+  Tokens: ['storm', 'storms', ' weather', ' storms', ' storm', ' season', ' snow']
+Rank 8 | Concept Score: 0.0030
+  Tokens: [' begins', ' starts', ' began', ' started']
+Rank 9 | Concept Score: 0.0027
+  Tokens: [' hits', ' acts', ' fills', ' affects', ' causes', ' plays']
+Rank 10 | Concept Score: 0.0027
+  Tokens: ['ball', ' really', 'pack', ' outside']
+Rank 11 | Concept Score: 0.0025
+  Tokens: [' lasts', ' threatens', ' continues', ' persists']
+Rank 12 | Concept Score: 0.0023
+  Tokens: [' sometimes', ' still', ' often', ' occasionally', ' never']
+Rank 13 | Concept Score: 0.0016
+  Tokens: [' comes', ' came']
+Rank 14 | Concept Score: 0.0014
+  Tokens: [' needs', ' wants', ' likes']
+Rank 15 | Concept Score: 0.0012
+  Tokens: [' made', ' got']
+
+**Chosen Concept:** Rank 1 with score 0.0420

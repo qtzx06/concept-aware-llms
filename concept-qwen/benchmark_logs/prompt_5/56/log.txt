@@ -1,0 +1,122 @@
+--- Step 56 Log ---
+
+== Filtered Candidates ==
+Token: ' traveler' (ID: 62765), Prob: 0.9922
+Token: ' travel' (ID: 5821), Prob: 0.0017
+Token: ' travelers' (ID: 39286), Prob: 0.0015
+Token: ' zone' (ID: 10143), Prob: 0.0013
+Token: ' zones' (ID: 25395), Prob: 0.0008
+Token: ' machine' (ID: 5662), Prob: 0.0002
+Token: ' traveling' (ID: 20971), Prob: 0.0001
+Token: ' worker' (ID: 11864), Prob: 0.0001
+Token: ' travels' (ID: 34192), Prob: 0.0001
+Token: ' traveled' (ID: 30696), Prob: 0.0000
+Token: '-tr' (ID: 10188), Prob: 0.0000
+Token: ' passenger' (ID: 23148), Prob: 0.0000
+Token: ' tele' (ID: 7963), Prob: 0.0000
+Token: ' manager' (ID: 6645), Prob: 0.0000
+Token: ' traveller' (ID: 85194), Prob: 0.0000
+Token: ' region' (ID: 5537), Prob: 0.0000
+Token: ' transfer' (ID: 8317), Prob: 0.0000
+Token: ' trip' (ID: 8411), Prob: 0.0000
+Token: ' leader' (ID: 7653), Prob: 0.0000
+Token: ' keeper' (ID: 53416), Prob: 0.0000
+Token: ' must' (ID: 1969), Prob: 0.0000
+Token: ' friend' (ID: 4238), Prob: 0.0000
+Token: ' teleport' (ID: 49489), Prob: 0.0000
+Token: ' two' (ID: 1378), Prob: 0.0000
+Token: ' plane' (ID: 11031), Prob: 0.0000
+Token: ' period' (ID: 4168), Prob: 0.0000
+Token: ' agent' (ID: 8315), Prob: 0.0000
+Token: ' lover' (ID: 30557), Prob: 0.0000
+Token: ' operator' (ID: 5675), Prob: 0.0000
+Token: ' journey' (ID: 11618), Prob: 0.0000
+Token: ' zero' (ID: 7168), Prob: 0.0000
+Token: ' clock' (ID: 8866), Prob: 0.0000
+Token: ' tunnel' (ID: 25629), Prob: 0.0000
+Token: ' trader' (ID: 44365), Prob: 0.0000
+Token: ' would' (ID: 1035), Prob: 0.0000
+Token: ' stop' (ID: 2936), Prob: 0.0000
+Token: ' visitor' (ID: 20181), Prob: 0.0000
+Token: ' explorer' (ID: 52967), Prob: 0.0000
+Token: ' phone' (ID: 4540), Prob: 0.0000
+Token: ' airline' (ID: 32475), Prob: 0.0000
+Token: ' hotel' (ID: 9500), Prob: 0.0000
+Token: ' regions' (ID: 13604), Prob: 0.0000
+Token: ' driver' (ID: 5579), Prob: 0.0000
+Token: ' user' (ID: 1196), Prob: 0.0000
+Token: ' destination' (ID: 9106), Prob: 0.0000
+Token: ' trainer' (ID: 28894), Prob: 0.0000
+Token: ' diplomat' (ID: 67950), Prob: 0.0000
+Token: ' vessel' (ID: 26182), Prob: 0.0000
+Token: ' container' (ID: 5476), Prob: 0.0000
+Token: ' warrior' (ID: 37390), Prob: 0.0000
+Token: ' location' (ID: 3728), Prob: 0.0000
+Token: ' transition' (ID: 9142), Prob: 0.0000
+Token: ' flight' (ID: 10971), Prob: 0.0000
+Token: ' alien' (ID: 19594), Prob: 0.0000
+Token: ' tourist' (ID: 29970), Prob: 0.0000
+Token: ' wearer' (ID: 84602), Prob: 0.0000
+Token: ' space' (ID: 3550), Prob: 0.0000
+Token: ' partner' (ID: 8263), Prob: 0.0000
+Token: ' hero' (ID: 11821), Prob: 0.0000
+Token: ' ship' (ID: 8284), Prob: 0.0000
+Token: ' walker' (ID: 62524), Prob: 0.0000
+Token: '-zone' (ID: 77763), Prob: 0.0000
+Token: ' device' (ID: 3671), Prob: 0.0000
+Token: ' loop' (ID: 6337), Prob: 0.0000
+Token: ' Travel' (ID: 18097), Prob: 0.0000
+Token: ' twin' (ID: 27397), Prob: 0.0000
+Token: ' donor' (ID: 34458), Prob: 0.0000
+Token: ' immigrant' (ID: 36550), Prob: 0.0000
+Token: ' mechanic' (ID: 44139), Prob: 0.0000
+Token: ' computer' (ID: 6366), Prob: 0.0000
+Token: ' difference' (ID: 6672), Prob: 0.0000
+Token: ' shown' (ID: 6839), Prob: 0.0000
+Token: ' skip' (ID: 10706), Prob: 0.0000
+
+== Ranked Concepts (Clusters) ==
+Rank 1 | Concept Score: 0.9961
+  Tokens: [' traveler', ' travel', ' travelers', ' traveling', ' travels', ' traveled', ' traveller', ' trip', ' journey', ' Travel']
+Rank 2 | Concept Score: 0.0021
+  Tokens: [' zone', ' zones', '-zone']
+Rank 3 | Concept Score: 0.0002
+  Tokens: [' machine', ' device', ' computer']
+Rank 4 | Concept Score: 0.0001
+  Tokens: [' worker']
+Rank 5 | Concept Score: 0.0001
+  Tokens: [' manager', ' leader', ' agent', ' operator', ' driver', ' mechanic']
+Rank 6 | Concept Score: 0.0001
+  Tokens: [' transfer', ' must', ' two', ' zero', ' would', ' transition', ' difference']
+Rank 7 | Concept Score: 0.0000
+  Tokens: [' keeper', ' lover', ' trader', ' explorer', ' trainer', ' diplomat', ' walker']
+Rank 8 | Concept Score: 0.0000
+  Tokens: [' tele', ' teleport', ' phone']
+Rank 9 | Concept Score: 0.0000
+  Tokens: [' passenger', ' visitor', ' tourist', ' immigrant']
+Rank 10 | Concept Score: 0.0000
+  Tokens: ['-tr']
+Rank 11 | Concept Score: 0.0000
+  Tokens: [' region', ' period', ' regions', ' location']
+Rank 12 | Concept Score: 0.0000
+  Tokens: [' plane', ' airline', ' hotel', ' flight', ' alien']
+Rank 13 | Concept Score: 0.0000
+  Tokens: [' clock', ' stop', ' loop', ' shown', ' skip']
+Rank 14 | Concept Score: 0.0000
+  Tokens: [' friend', ' partner', ' donor']
+Rank 15 | Concept Score: 0.0000
+  Tokens: [' vessel', ' container', ' ship']
+Rank 16 | Concept Score: 0.0000
+  Tokens: [' tunnel', ' twin']
+Rank 17 | Concept Score: 0.0000
+  Tokens: [' warrior', ' wearer']
+Rank 18 | Concept Score: 0.0000
+  Tokens: [' user']
+Rank 19 | Concept Score: 0.0000
+  Tokens: [' destination']
+Rank 20 | Concept Score: 0.0000
+  Tokens: [' space']
+Rank 21 | Concept Score: 0.0000
+  Tokens: [' hero']
+
+**Chosen Concept:** Rank 1 with score 0.9961

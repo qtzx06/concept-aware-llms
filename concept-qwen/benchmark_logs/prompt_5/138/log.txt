@@ -1,0 +1,119 @@
+--- Step 138 Log ---
+
+== Filtered Candidates ==
+Token: ' destination' (ID: 9106), Prob: 1.0000
+Token: ' time' (ID: 882), Prob: 0.0009
+Token: 'destination' (ID: 17997), Prob: 0.0000
+Token: ' date' (ID: 2400), Prob: 0.0000
+Token: ' location' (ID: 3728), Prob: 0.0000
+Token: ' source' (ID: 2530), Prob: 0.0000
+Token: '(destination' (ID: 48076), Prob: 0.0000
+Token: ' zone' (ID: 10143), Prob: 0.0000
+Token: ' arrival' (ID: 18647), Prob: 0.0000
+Token: ' target' (ID: 2169), Prob: 0.0000
+Token: ' departure' (ID: 24915), Prob: 0.0000
+Token: ' origin' (ID: 6238), Prob: 0.0000
+Token: ' purpose' (ID: 7428), Prob: 0.0000
+Token: ' next' (ID: 1790), Prob: 0.0000
+Token: ' dest' (ID: 3201), Prob: 0.0000
+Token: ' current' (ID: 1482), Prob: 0.0000
+Token: ' Destination' (ID: 41728), Prob: 0.0000
+Token: '.destination' (ID: 35018), Prob: 0.0000
+Token: ' intention' (ID: 14602), Prob: 0.0000
+Token: ' original' (ID: 4024), Prob: 0.0000
+Token: ' following' (ID: 2701), Prob: 0.0000
+Token: ' direction' (ID: 5106), Prob: 0.0000
+Token: ' destinations' (ID: 33105), Prob: 0.0000
+Token: ' beginning' (ID: 7167), Prob: 0.0000
+Token: ' one' (ID: 825), Prob: 0.0000
+Token: ' previous' (ID: 3681), Prob: 0.0000
+Token: ' goal' (ID: 5795), Prob: 0.0000
+Token: ' presence' (ID: 9362), Prob: 0.0000
+Token: ' end' (ID: 835), Prob: 0.0000
+Token: ' default' (ID: 1638), Prob: 0.0000
+Token: ' door' (ID: 6006), Prob: 0.0000
+Token: ' duration' (ID: 8090), Prob: 0.0000
+Token: ' place' (ID: 1992), Prob: 0.0000
+Token: ' region' (ID: 5537), Prob: 0.0000
+Token: ' clock' (ID: 8866), Prob: 0.0000
+Token: ' flight' (ID: 10971), Prob: 0.0000
+Token: ' day' (ID: 1899), Prob: 0.0000
+Token: ' question' (ID: 3405), Prob: 0.0000
+Token: ' distance' (ID: 6010), Prob: 0.0000
+Token: ' two' (ID: 1378), Prob: 0.0000
+Token: ' decision' (ID: 5480), Prob: 0.0000
+Token: ' intent' (ID: 7385), Prob: 0.0000
+Token: ' deadline' (ID: 21428), Prob: 0.0000
+Token: '_destination' (ID: 56344), Prob: 0.0000
+Token: ' travel' (ID: 5821), Prob: 0.0000
+Token: ' danger' (ID: 7978), Prob: 0.0000
+Token: ' intended' (ID: 10602), Prob: 0.0000
+Token: ' conclusion' (ID: 16688), Prob: 0.0000
+Token: 'Destination' (ID: 33605), Prob: 0.0000
+Token: ' destin' (ID: 50987), Prob: 0.0000
+Token: ' start' (ID: 1191), Prob: 0.0000
+Token: ' connection' (ID: 3633), Prob: 0.0000
+Token: ' point' (ID: 1459), Prob: 0.0000
+Token: ' schedule' (ID: 9700), Prob: 0.0000
+Token: ' journey' (ID: 11618), Prob: 0.0000
+Token: ' landing' (ID: 20327), Prob: 0.0000
+Token: ' latest' (ID: 5535), Prob: 0.0000
+Token: ' destruction' (ID: 19258), Prob: 0.0000
+Token: ' desired' (ID: 12685), Prob: 0.0000
+Token: ' message' (ID: 1943), Prob: 0.0000
+Token: ' total' (ID: 2790), Prob: 0.0000
+Token: ' moment' (ID: 4445), Prob: 0.0000
+Token: ' new' (ID: 501), Prob: 0.0000
+Token: ' present' (ID: 3042), Prob: 0.0000
+Token: ' transition' (ID: 9142), Prob: 0.0000
+Token: ' dst' (ID: 10648), Prob: 0.0000
+Token: ' rest' (ID: 2732), Prob: 0.0000
+Token: ' contact' (ID: 3645), Prob: 0.0000
+Token: ' future' (ID: 3853), Prob: 0.0000
+Token: ' period' (ID: 4168), Prob: 0.0000
+Token: ' destiny' (ID: 46076), Prob: 0.0000
+Token: ' first' (ID: 1156), Prob: 0.0000
+Token: ' final' (ID: 1590), Prob: 0.0000
+Token: ' second' (ID: 2086), Prob: 0.0000
+
+== Ranked Concepts (Clusters) ==
+Rank 1 | Concept Score: 1.0000
+  Tokens: [' destination', 'destination', '(destination', ' dest', ' Destination', '.destination', ' destinations', '_destination', 'Destination', ' dst']
+Rank 2 | Concept Score: 0.0009
+  Tokens: [' time', ' date', ' duration', ' day', ' moment', ' period']
+Rank 3 | Concept Score: 0.0000
+  Tokens: [' arrival', ' departure', ' flight', ' travel', ' danger', ' journey', ' landing', ' destruction']
+Rank 4 | Concept Score: 0.0000
+  Tokens: [' source', ' origin', ' original']
+Rank 5 | Concept Score: 0.0000
+  Tokens: [' location', ' place', ' point']
+Rank 6 | Concept Score: 0.0000
+  Tokens: [' next', ' current', ' following', ' previous', ' latest', ' new', ' future']
+Rank 7 | Concept Score: 0.0000
+  Tokens: [' zone', ' direction', ' region']
+Rank 8 | Concept Score: 0.0000
+  Tokens: [' purpose', ' intention', ' goal', ' intent', ' intended', ' desired']
+Rank 9 | Concept Score: 0.0000
+  Tokens: [' target']
+Rank 10 | Concept Score: 0.0000
+  Tokens: [' one', ' default', ' two', ' total', ' first', ' second']
+Rank 11 | Concept Score: 0.0000
+  Tokens: [' door', ' question', ' decision', ' conclusion', ' message']
+Rank 12 | Concept Score: 0.0000
+  Tokens: [' beginning', ' end', ' start']
+Rank 13 | Concept Score: 0.0000
+  Tokens: [' clock', ' deadline', ' schedule']
+Rank 14 | Concept Score: 0.0000
+  Tokens: [' presence', ' present']
+Rank 15 | Concept Score: 0.0000
+  Tokens: [' connection', ' transition', ' contact']
+Rank 16 | Concept Score: 0.0000
+  Tokens: [' destin', ' destiny']
+Rank 17 | Concept Score: 0.0000
+  Tokens: [' distance']
+Rank 18 | Concept Score: 0.0000
+  Tokens: [' rest']
+Rank 19 | Concept Score: 0.0000
+  Tokens: [' final']
+
+**Chosen Concept:** Rank 1 with score 1.0000

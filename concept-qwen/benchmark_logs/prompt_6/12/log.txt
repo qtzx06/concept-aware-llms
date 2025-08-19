@@ -1,0 +1,71 @@
+--- Step 12 Log ---
+
+== Filtered Candidates ==
+Token: ' However' (ID: 4354), Prob: 0.0157
+Token: ' One' (ID: 3776), Prob: 0.0070
+Token: ' Also' (ID: 7281), Prob: 0.0066
+Token: ' Everyone' (ID: 21455), Prob: 0.0042
+Token: ' Suppose' (ID: 82610), Prob: 0.0035
+Token: ' Please' (ID: 5209), Prob: 0.0033
+Token: ' Every' (ID: 7209), Prob: 0.0027
+Token: ' Let' (ID: 6771), Prob: 0.0026
+Token: ' Someone' (ID: 34172), Prob: 0.0026
+Token: ' Therefore' (ID: 15277), Prob: 0.0024
+Token: ' Since' (ID: 8704), Prob: 0.0017
+Token: ' Choose' (ID: 22201), Prob: 0.0017
+Token: ' Determine' (ID: 29901), Prob: 0.0017
+Token: ' Whoever' (ID: 90295), Prob: 0.0017
+Token: ' According' (ID: 10548), Prob: 0.0016
+Token: ' Either' (ID: 20988), Prob: 0.0016
+Token: ' Explain' (ID: 81917), Prob: 0.0015
+Token: ' Even' (ID: 7418), Prob: 0.0013
+Token: ' People' (ID: 8853), Prob: 0.0012
+Token: ' Thus' (ID: 14301), Prob: 0.0012
+Token: ' Assume' (ID: 62197), Prob: 0.0012
+Token: ' Say' (ID: 24917), Prob: 0.0011
+Token: ' Find' (ID: 7379), Prob: 0.0010
+Token: ' Give' (ID: 20678), Prob: 0.0010
+Token: ' Additionally' (ID: 22406), Prob: 0.0009
+Token: ' Two' (ID: 9043), Prob: 0.0009
+Token: ' Neither' (ID: 24233), Prob: 0.0009
+Token: ' Make' (ID: 7405), Prob: 0.0008
+Token: ' Yet' (ID: 14626), Prob: 0.0008
+Token: ' Tell' (ID: 24647), Prob: 0.0007
+Token: ' Describe' (ID: 60785), Prob: 0.0007
+Token: ' Unless' (ID: 10878), Prob: 0.0007
+Token: ' Based' (ID: 20205), Prob: 0.0006
+Token: ' Opp' (ID: 28610), Prob: 0.0006
+
+== Ranked Concepts (Clusters) ==
+Rank 1 | Concept Score: 0.0194
+  Tokens: [' However', ' Therefore', ' Thus']
+Rank 2 | Concept Score: 0.0096
+  Tokens: [' Everyone', ' Someone', ' Whoever', ' People']
+Rank 3 | Concept Score: 0.0079
+  Tokens: [' One', ' Two']
+Rank 4 | Concept Score: 0.0075
+  Tokens: [' Also', ' Additionally']
+Rank 5 | Concept Score: 0.0058
+  Tokens: [' Suppose', ' Assume', ' Say']
+Rank 6 | Concept Score: 0.0055
+  Tokens: [' Choose', ' Determine', ' Explain', ' Describe']
+Rank 7 | Concept Score: 0.0040
+  Tokens: [' Every', ' Even']
+Rank 8 | Concept Score: 0.0039
+  Tokens: [' Since', ' According', ' Based']
+Rank 9 | Concept Score: 0.0035
+  Tokens: [' Find', ' Give', ' Make', ' Tell']
+Rank 10 | Concept Score: 0.0033
+  Tokens: [' Please']
+Rank 11 | Concept Score: 0.0026
+  Tokens: [' Let']
+Rank 12 | Concept Score: 0.0024
+  Tokens: [' Either', ' Neither']
+Rank 13 | Concept Score: 0.0008
+  Tokens: [' Yet']
+Rank 14 | Concept Score: 0.0007
+  Tokens: [' Unless']
+Rank 15 | Concept Score: 0.0006
+  Tokens: [' Opp']
+
+**Chosen Concept:** Rank 1 with score 0.0194

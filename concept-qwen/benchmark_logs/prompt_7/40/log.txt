@@ -1,0 +1,127 @@
+--- Step 40 Log ---
+
+== Filtered Candidates ==
+Token: ' messy' (ID: 45846), Prob: 0.1250
+Token: ' cold' (ID: 9255), Prob: 0.1104
+Token: ' muddy' (ID: 79473), Prob: 0.0217
+Token: ' really' (ID: 2167), Prob: 0.0204
+Token: ' heavy' (ID: 8811), Prob: 0.0192
+Token: ' stuck' (ID: 15700), Prob: 0.0150
+Token: ' difficult' (ID: 5000), Prob: 0.0132
+Token: ' ugly' (ID: 27261), Prob: 0.0116
+Token: ' hard' (ID: 2588), Prob: 0.0103
+Token: ' snow' (ID: 11794), Prob: 0.0103
+Token: ' icy' (ID: 65904), Prob: 0.0096
+Token: ' wet' (ID: 14401), Prob: 0.0090
+Token: ' snowy' (ID: 89773), Prob: 0.0080
+Token: ' dangerous' (ID: 11406), Prob: 0.0066
+Token: ' complicated' (ID: 16965), Prob: 0.0062
+Token: ' harsh' (ID: 24939), Prob: 0.0062
+Token: ' dark' (ID: 6319), Prob: 0.0059
+Token: ' dirty' (ID: 18595), Prob: 0.0059
+Token: ' sticky' (ID: 27402), Prob: 0.0055
+Token: ' lonely' (ID: 39566), Prob: 0.0055
+Token: ' worse' (ID: 10960), Prob: 0.0052
+Token: ' tough' (ID: 11045), Prob: 0.0052
+Token: ' rainy' (ID: 62757), Prob: 0.0052
+Token: ' bitter' (ID: 25180), Prob: 0.0049
+Token: ' tricky' (ID: 33453), Prob: 0.0049
+Token: ' chilly' (ID: 80875), Prob: 0.0049
+Token: ' even' (ID: 1496), Prob: 0.0045
+Token: ' quite' (ID: 5008), Prob: 0.0045
+Token: ' thick' (ID: 12045), Prob: 0.0045
+Token: ' rough' (ID: 11165), Prob: 0.0043
+Token: ' lost' (ID: 5558), Prob: 0.0035
+Token: ' soft' (ID: 8413), Prob: 0.0035
+Token: ' harder' (ID: 15750), Prob: 0.0035
+Token: ' annoying' (ID: 29831), Prob: 0.0035
+Token: ' mess' (ID: 9435), Prob: 0.0033
+Token: ' soaked' (ID: 68875), Prob: 0.0033
+Token: ' colder' (ID: 75114), Prob: 0.0033
+Token: ' scattered' (ID: 36967), Prob: 0.0031
+Token: ' something' (ID: 2494), Prob: 0.0029
+Token: ' deep' (ID: 5538), Prob: 0.0029
+Token: ' broken' (ID: 10865), Prob: 0.0029
+Token: ' frustrating' (ID: 34611), Prob: 0.0029
+Token: ' angry' (ID: 18514), Prob: 0.0028
+Token: ' slippery' (ID: 70572), Prob: 0.0028
+Token: ' warm' (ID: 8205), Prob: 0.0026
+Token: ' chaotic' (ID: 51987), Prob: 0.0026
+Token: ' bad' (ID: 3873), Prob: 0.0024
+Token: ' busy' (ID: 13028), Prob: 0.0024
+Token: ' loud' (ID: 17361), Prob: 0.0024
+Token: ' dusty' (ID: 76873), Prob: 0.0023
+Token: ' sad' (ID: 12421), Prob: 0.0022
+Token: ' quiet' (ID: 11340), Prob: 0.0019
+Token: ' pretty' (ID: 5020), Prob: 0.0018
+Token: ' tangled' (ID: 92841), Prob: 0.0018
+Token: ' expensive' (ID: 11392), Prob: 0.0017
+Token: ' scary' (ID: 28465), Prob: 0.0017
+Token: ' confusing' (ID: 30615), Prob: 0.0017
+Token: ' dry' (ID: 9058), Prob: 0.0016
+Token: ' challenging' (ID: 17003), Prob: 0.0016
+Token: ' blocked' (ID: 19299), Prob: 0.0016
+Token: ' sog' (ID: 44842), Prob: 0.0016
+Token: ' cloudy' (ID: 73549), Prob: 0.0016
+Token: ' beautiful' (ID: 6233), Prob: 0.0015
+Token: ' wild' (ID: 8380), Prob: 0.0015
+Token: ' mixed' (ID: 9519), Prob: 0.0015
+Token: ' everywhere' (ID: 16852), Prob: 0.0015
+Token: ' darker' (ID: 39030), Prob: 0.0015
+Token: ' tired' (ID: 19227), Prob: 0.0014
+Token: ' frozen' (ID: 19690), Prob: 0.0014
+Token: ' ice' (ID: 9853), Prob: 0.0013
+Token: ' windy' (ID: 92921), Prob: 0.0013
+Token: ' covered' (ID: 9761), Prob: 0.0012
+Token: ' freezing' (ID: 42218), Prob: 0.0012
+Token: ' unpredictable' (ID: 49135), Prob: 0.0012
+
+== Ranked Concepts (Clusters) ==
+Rank 1 | Concept Score: 0.1289
+  Tokens: [' messy', ' chaotic', ' unpredictable']
+Rank 2 | Concept Score: 0.1211
+  Tokens: [' cold', ' chilly', ' colder', ' warm']
+Rank 3 | Concept Score: 0.0378
+  Tokens: [' muddy', ' dirty', ' rainy', ' dusty', ' cloudy', ' windy']
+Rank 4 | Concept Score: 0.0374
+  Tokens: [' ugly', ' dangerous', ' complicated', ' annoying', ' frustrating', ' expensive', ' scary', ' confusing', ' beautiful']
+Rank 5 | Concept Score: 0.0356
+  Tokens: [' really', ' even', ' quite', ' something', ' pretty', ' everywhere']
+Rank 6 | Concept Score: 0.0317
+  Tokens: [' snow', ' icy', ' snowy', ' frozen', ' ice', ' freezing']
+Rank 7 | Concept Score: 0.0266
+  Tokens: [' heavy', ' thick', ' deep']
+Rank 8 | Concept Score: 0.0243
+  Tokens: [' stuck', ' lost', ' broken', ' blocked', ' covered']
+Rank 9 | Concept Score: 0.0225
+  Tokens: [' hard', ' tough', ' soft', ' harder']
+Rank 10 | Concept Score: 0.0197
+  Tokens: [' difficult', ' tricky', ' challenging']
+Rank 11 | Concept Score: 0.0112
+  Tokens: [' bitter', ' angry', ' sad', ' tired']
+Rank 12 | Concept Score: 0.0106
+  Tokens: [' wet', ' dry']
+Rank 13 | Concept Score: 0.0082
+  Tokens: [' sticky', ' slippery']
+Rank 14 | Concept Score: 0.0079
+  Tokens: [' lonely', ' busy']
+Rank 15 | Concept Score: 0.0073
+  Tokens: [' dark', ' darker']
+Rank 16 | Concept Score: 0.0064
+  Tokens: [' scattered', ' tangled', ' mixed']
+Rank 17 | Concept Score: 0.0062
+  Tokens: [' harsh']
+Rank 18 | Concept Score: 0.0057
+  Tokens: [' rough', ' wild']
+Rank 19 | Concept Score: 0.0052
+  Tokens: [' worse']
+Rank 20 | Concept Score: 0.0049
+  Tokens: [' soaked', ' sog']
+Rank 21 | Concept Score: 0.0043
+  Tokens: [' loud', ' quiet']
+Rank 22 | Concept Score: 0.0033
+  Tokens: [' mess']
+Rank 23 | Concept Score: 0.0024
+  Tokens: [' bad']
+
+**Chosen Concept:** Rank 1 with score 0.1289

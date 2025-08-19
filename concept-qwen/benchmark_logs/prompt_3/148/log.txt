@@ -1,0 +1,84 @@
+--- Step 148 Log ---
+
+== Filtered Candidates ==
+Token: ' else' (ID: 770), Prob: 1.0000
+Token: ' remains' (ID: 8458), Prob: 0.0002
+Token: ' except' (ID: 3650), Prob: 0.0000
+Token: ' Else' (ID: 18804), Prob: 0.0000
+Token: ' stays' (ID: 26558), Prob: 0.0000
+Token: ' etc' (ID: 4992), Prob: 0.0000
+Token: '	else' (ID: 2466), Prob: 0.0000
+Token: ' everything' (ID: 4297), Prob: 0.0000
+Token: ' otherwise' (ID: 5937), Prob: 0.0000
+Token: ' remaining' (ID: 9664), Prob: 0.0000
+Token: ' ever' (ID: 3512), Prob: 0.0000
+Token: ' even' (ID: 1496), Prob: 0.0000
+Token: ' things' (ID: 2513), Prob: 0.0000
+Token: ' still' (ID: 2058), Prob: 0.0000
+Token: ' remain' (ID: 7146), Prob: 0.0000
+Token: ' something' (ID: 2494), Prob: 0.0000
+Token: ' elif' (ID: 4409), Prob: 0.0000
+Token: 'else' (ID: 1503), Prob: 0.0000
+Token: ' another' (ID: 2441), Prob: 0.0000
+Token: ' ELSE' (ID: 52926), Prob: 0.0000
+Token: ' nothing' (ID: 4302), Prob: 0.0000
+Token: ' others' (ID: 3800), Prob: 0.0000
+Token: ' els' (ID: 20712), Prob: 0.0000
+Token: ' remained' (ID: 14616), Prob: 0.0000
+Token: ' must' (ID: 1969), Prob: 0.0000
+Token: '_else' (ID: 62628), Prob: 0.0000
+Token: ' thing' (ID: 3166), Prob: 0.0000
+Token: 'Else' (ID: 22971), Prob: 0.0000
+Token: ' essential' (ID: 7565), Prob: 0.0000
+Token: ' elsewhere' (ID: 17920), Prob: 0.0000
+Token: ' stay' (ID: 4717), Prob: 0.0000
+Token: ' seems' (ID: 4977), Prob: 0.0000
+Token: ' exactly' (ID: 6896), Prob: 0.0000
+Token: ' absolutely' (ID: 10875), Prob: 0.0000
+Token: ' changes' (ID: 4344), Prob: 0.0000
+Token: ' factor' (ID: 8168), Prob: 0.0000
+Token: ' equal' (ID: 6144), Prob: 0.0000
+Token: ' always' (ID: 2677), Prob: 0.0000
+Token: ' alike' (ID: 25992), Prob: 0.0000
+Token: ' retains' (ID: 51844), Prob: 0.0000
+Token: ' rest' (ID: 2732), Prob: 0.0000
+Token: ' gets' (ID: 5221), Prob: 0.0000
+Token: ' plus' (ID: 5519), Prob: 0.0000
+Token: ' eventually' (ID: 9583), Prob: 0.0000
+Token: ' minus' (ID: 27283), Prob: 0.0000
+
+== Ranked Concepts (Clusters) ==
+Rank 1 | Concept Score: 1.0000
+  Tokens: [' else', ' Else', '\telse', ' otherwise', ' elif', 'else', ' ELSE', '_else', 'Else']
+Rank 2 | Concept Score: 0.0002
+  Tokens: [' remains', ' stays', ' remaining', ' remain', ' remained', ' stay']
+Rank 3 | Concept Score: 0.0000
+  Tokens: [' except', ' plus', ' minus']
+Rank 4 | Concept Score: 0.0000
+  Tokens: [' everything', ' things', ' something', ' nothing', ' thing']
+Rank 5 | Concept Score: 0.0000
+  Tokens: [' etc']
+Rank 6 | Concept Score: 0.0000
+  Tokens: [' ever', ' always', ' eventually']
+Rank 7 | Concept Score: 0.0000
+  Tokens: [' even']
+Rank 8 | Concept Score: 0.0000
+  Tokens: [' another', ' others', ' elsewhere']
+Rank 9 | Concept Score: 0.0000
+  Tokens: [' still']
+Rank 10 | Concept Score: 0.0000
+  Tokens: [' must', ' essential', ' changes', ' factor']
+Rank 11 | Concept Score: 0.0000
+  Tokens: [' els']
+Rank 12 | Concept Score: 0.0000
+  Tokens: [' seems', ' retains', ' gets']
+Rank 13 | Concept Score: 0.0000
+  Tokens: [' exactly', ' absolutely']
+Rank 14 | Concept Score: 0.0000
+  Tokens: [' equal']
+Rank 15 | Concept Score: 0.0000
+  Tokens: [' alike']
+Rank 16 | Concept Score: 0.0000
+  Tokens: [' rest']
+
+**Chosen Concept:** Rank 1 with score 1.0000

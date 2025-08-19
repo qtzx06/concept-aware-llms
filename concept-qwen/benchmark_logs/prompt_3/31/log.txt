@@ -1,0 +1,90 @@
+--- Step 31 Log ---
+
+== Filtered Candidates ==
+Token: ' may' (ID: 1231), Prob: 0.5273
+Token: ' could' (ID: 1410), Prob: 0.0298
+Token: ' wants' (ID: 6801), Prob: 0.0181
+Token: ' might' (ID: 2578), Prob: 0.0170
+Token: ' tries' (ID: 16297), Prob: 0.0117
+Token: ' would' (ID: 1035), Prob: 0.0067
+Token: ' comes' (ID: 4041), Prob: 0.0063
+Token: ' gets' (ID: 5221), Prob: 0.0049
+Token: ' also' (ID: 1083), Prob: 0.0040
+Token: ' takes' (ID: 4990), Prob: 0.0038
+Token: ' goes' (ID: 5780), Prob: 0.0038
+Token: ' tried' (ID: 6679), Prob: 0.0026
+Token: ' knows' (ID: 8788), Prob: 0.0024
+Token: ' maybe' (ID: 7196), Prob: 0.0019
+Token: ' must' (ID: 1969), Prob: 0.0018
+Token: ' needs' (ID: 3880), Prob: 0.0018
+Token: ' else' (ID: 770), Prob: 0.0014
+Token: ' makes' (ID: 3643), Prob: 0.0014
+Token: ' May' (ID: 3217), Prob: 0.0013
+Token: ' uses' (ID: 5711), Prob: 0.0011
+Token: ' try' (ID: 1430), Prob: 0.0009
+Token: ' starts' (ID: 8471), Prob: 0.0008
+Token: ' trying' (ID: 4460), Prob: 0.0008
+Token: ' attempts' (ID: 13553), Prob: 0.0008
+Token: ' chooses' (ID: 39911), Prob: 0.0007
+Token: ' perhaps' (ID: 8365), Prob: 0.0007
+Token: ' buys' (ID: 49531), Prob: 0.0007
+Token: ' possibly' (ID: 10767), Prob: 0.0006
+Token: ' decides' (ID: 27627), Prob: 0.0006
+Token: ' person' (ID: 1697), Prob: 0.0006
+Token: ' came' (ID: 3697), Prob: 0.0006
+Token: ' like' (ID: 1075), Prob: 0.0005
+Token: ' asks' (ID: 17064), Prob: 0.0005
+Token: ' cannot' (ID: 4157), Prob: 0.0005
+Token: ' named' (ID: 6941), Prob: 0.0005
+Token: ' replaces' (ID: 40700), Prob: 0.0005
+Token: ' still' (ID: 2058), Prob: 0.0005
+Token: ' says' (ID: 2727), Prob: 0.0005
+Token: ' company' (ID: 2813), Prob: 0.0005
+Token: ' owns' (ID: 24256), Prob: 0.0005
+Token: ' took' (ID: 3867), Prob: 0.0004
+Token: ' gives' (ID: 6696), Prob: 0.0004
+Token: ' leaves' (ID: 10901), Prob: 0.0004
+Token: ' get' (ID: 633), Prob: 0.0004
+Token: ' works' (ID: 4278), Prob: 0.0004
+Token: ' becomes' (ID: 9044), Prob: 0.0004
+Token: ' joins' (ID: 28682), Prob: 0.0004
+Token: ' come' (ID: 2525), Prob: 0.0004
+Token: ' brings' (ID: 12434), Prob: 0.0003
+Token: ' pays' (ID: 21241), Prob: 0.0003
+Token: ' actually' (ID: 3520), Prob: 0.0003
+
+== Ranked Concepts (Clusters) ==
+Rank 1 | Concept Score: 0.5469
+  Tokens: [' may', ' might', ' maybe', ' May', ' perhaps', ' possibly']
+Rank 2 | Concept Score: 0.0388
+  Tokens: [' could', ' would', ' must', ' cannot']
+Rank 3 | Concept Score: 0.0250
+  Tokens: [' wants', ' knows', ' uses', ' chooses', ' buys', ' decides', ' asks', ' says', ' owns']
+Rank 4 | Concept Score: 0.0167
+  Tokens: [' tries', ' tried', ' try', ' trying', ' attempts']
+Rank 5 | Concept Score: 0.0072
+  Tokens: [' comes', ' came', ' come']
+Rank 6 | Concept Score: 0.0072
+  Tokens: [' goes', ' makes', ' starts', ' gives', ' becomes', ' brings']
+Rank 7 | Concept Score: 0.0052
+  Tokens: [' gets', ' get']
+Rank 8 | Concept Score: 0.0048
+  Tokens: [' also', ' still', ' actually']
+Rank 9 | Concept Score: 0.0042
+  Tokens: [' takes', ' took']
+Rank 10 | Concept Score: 0.0018
+  Tokens: [' needs']
+Rank 11 | Concept Score: 0.0016
+  Tokens: [' person', ' like', ' named']
+Rank 12 | Concept Score: 0.0014
+  Tokens: [' else']
+Rank 13 | Concept Score: 0.0012
+  Tokens: [' replaces', ' joins', ' pays']
+Rank 14 | Concept Score: 0.0005
+  Tokens: [' company']
+Rank 15 | Concept Score: 0.0004
+  Tokens: [' leaves']
+Rank 16 | Concept Score: 0.0004
+  Tokens: [' works']
+
+**Chosen Concept:** Rank 1 with score 0.5469

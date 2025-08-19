@@ -1,0 +1,132 @@
+--- Step 40 Log ---
+
+== Filtered Candidates ==
+Token: ' something' (ID: 2494), Prob: 0.0530
+Token: ' like' (ID: 1075), Prob: 0.0266
+Token: ' better' (ID: 2664), Prob: 0.0250
+Token: ' less' (ID: 2686), Prob: 0.0208
+Token: ' safe' (ID: 6092), Prob: 0.0152
+Token: ' comfortable' (ID: 10655), Prob: 0.0143
+Token: ' uncomfortable' (ID: 28113), Prob: 0.0118
+Token: ' emotionally' (ID: 37583), Prob: 0.0104
+Token: ' good' (ID: 1661), Prob: 0.0076
+Token: ' safer' (ID: 29449), Prob: 0.0076
+Token: ' happy' (ID: 6247), Prob: 0.0060
+Token: ' emotional' (ID: 14269), Prob: 0.0052
+Token: ' comfort' (ID: 6838), Prob: 0.0049
+Token: ' differently' (ID: 21303), Prob: 0.0046
+Token: ' different' (ID: 2155), Prob: 0.0043
+Token: ' free' (ID: 1910), Prob: 0.0041
+Token: ' empathy' (ID: 47351), Prob: 0.0041
+Token: ' connected' (ID: 8433), Prob: 0.0034
+Token: ' confused' (ID: 21815), Prob: 0.0030
+Token: ' supported' (ID: 7248), Prob: 0.0026
+Token: ' closer' (ID: 12128), Prob: 0.0025
+Token: ' things' (ID: 2513), Prob: 0.0023
+Token: ' accepted' (ID: 11666), Prob: 0.0023
+Token: ' emotions' (ID: 21261), Prob: 0.0023
+Token: ' much' (ID: 1753), Prob: 0.0022
+Token: ' secure' (ID: 9767), Prob: 0.0022
+Token: ' empowered' (ID: 61835), Prob: 0.0022
+Token: ' positive' (ID: 6785), Prob: 0.0019
+Token: ' satisfied' (ID: 19527), Prob: 0.0019
+Token: ' validated' (ID: 32332), Prob: 0.0019
+Token: ' relieved' (ID: 50412), Prob: 0.0018
+Token: ' protected' (ID: 2617), Prob: 0.0017
+Token: ' seen' (ID: 3884), Prob: 0.0017
+Token: ' heard' (ID: 6617), Prob: 0.0017
+Token: ' empath' (ID: 35581), Prob: 0.0017
+Token: ' conflic' (ID: 9159), Prob: 0.0016
+Token: ' anxious' (ID: 37000), Prob: 0.0016
+Token: ' guilty' (ID: 16007), Prob: 0.0015
+Token: ' motivated' (ID: 26664), Prob: 0.0015
+Token: ' lonely' (ID: 39566), Prob: 0.0015
+Token: ' noticed' (ID: 13686), Prob: 0.0014
+Token: ' appreciated' (ID: 25808), Prob: 0.0014
+Token: ' relaxed' (ID: 30367), Prob: 0.0014
+Token: ' reass' (ID: 31734), Prob: 0.0014
+Token: ' lost' (ID: 5558), Prob: 0.0013
+Token: ' happier' (ID: 43367), Prob: 0.0013
+Token: ' uneasy' (ID: 82272), Prob: 0.0013
+Token: ' loved' (ID: 10245), Prob: 0.0012
+Token: ' confident' (ID: 16506), Prob: 0.0012
+Token: ' vulnerable' (ID: 19563), Prob: 0.0012
+Token: ' grateful' (ID: 25195), Prob: 0.0012
+Token: ' proud' (ID: 12409), Prob: 0.0012
+Token: ' responsible' (ID: 8480), Prob: 0.0011
+Token: ' genuine' (ID: 22011), Prob: 0.0011
+Token: ' completely' (ID: 6587), Prob: 0.0010
+Token: ' surprised' (ID: 14453), Prob: 0.0010
+Token: ' misunderstood' (ID: 72856), Prob: 0.0010
+Token: ' left' (ID: 2115), Prob: 0.0010
+Token: ' personally' (ID: 15726), Prob: 0.0010
+Token: ' respected' (ID: 30287), Prob: 0.0010
+Token: ' overwhelmed' (ID: 42106), Prob: 0.0010
+Token: ' understood' (ID: 15985), Prob: 0.0009
+Token: ' sad' (ID: 12421), Prob: 0.0009
+Token: ' relief' (ID: 15957), Prob: 0.0009
+Token: ' superior' (ID: 16353), Prob: 0.0009
+Token: ' guilt' (ID: 33851), Prob: 0.0009
+Token: ' positively' (ID: 39546), Prob: 0.0009
+Token: ' cared' (ID: 41677), Prob: 0.0009
+Token: ' sympathy' (ID: 45984), Prob: 0.0009
+Token: ' valued' (ID: 32547), Prob: 0.0008
+Token: ' part' (ID: 949), Prob: 0.0008
+Token: ' even' (ID: 1496), Prob: 0.0008
+Token: ' able' (ID: 2952), Prob: 0.0008
+Token: ' hurt' (ID: 12898), Prob: 0.0008
+Token: ' deeply' (ID: 17247), Prob: 0.0008
+Token: ' psychologically' (ID: 95555), Prob: 0.0008
+Token: ' bad' (ID: 3873), Prob: 0.0007
+
+== Ranked Concepts (Clusters) ==
+Rank 1 | Concept Score: 0.0554
+  Tokens: [' something', ' things']
+Rank 2 | Concept Score: 0.0513
+  Tokens: [' better', ' less', ' closer', ' much', ' superior']
+Rank 3 | Concept Score: 0.0332
+  Tokens: [' like', ' free', ' left', ' part', ' even']
+Rank 4 | Concept Score: 0.0325
+  Tokens: [' comfortable', ' uncomfortable', ' comfort', ' uneasy']
+Rank 5 | Concept Score: 0.0250
+  Tokens: [' safe', ' safer', ' secure']
+Rank 6 | Concept Score: 0.0142
+  Tokens: [' emotional', ' empathy', ' emotions', ' empath', ' sympathy']
+Rank 7 | Concept Score: 0.0134
+  Tokens: [' connected', ' supported', ' empowered', ' validated', ' protected', ' motivated']
+Rank 8 | Concept Score: 0.0129
+  Tokens: [' emotionally', ' personally', ' deeply', ' psychologically']
+Rank 9 | Concept Score: 0.0100
+  Tokens: [' differently', ' different', ' completely']
+Rank 10 | Concept Score: 0.0097
+  Tokens: [' confused', ' conflic', ' anxious', ' lonely', ' surprised', ' overwhelmed']
+Rank 11 | Concept Score: 0.0091
+  Tokens: [' accepted', ' seen', ' heard', ' noticed', ' misunderstood', ' understood']
+Rank 12 | Concept Score: 0.0084
+  Tokens: [' good', ' bad']
+Rank 13 | Concept Score: 0.0068
+  Tokens: [' happy', ' sad']
+Rank 14 | Concept Score: 0.0055
+  Tokens: [' relieved', ' relaxed', ' reass', ' relief']
+Rank 15 | Concept Score: 0.0053
+  Tokens: [' appreciated', ' loved', ' respected', ' cared', ' valued']
+Rank 16 | Concept Score: 0.0043
+  Tokens: [' satisfied', ' grateful', ' proud']
+Rank 17 | Concept Score: 0.0028
+  Tokens: [' positive', ' positively']
+Rank 18 | Concept Score: 0.0023
+  Tokens: [' guilty', ' guilt']
+Rank 19 | Concept Score: 0.0022
+  Tokens: [' responsible', ' genuine']
+Rank 20 | Concept Score: 0.0021
+  Tokens: [' lost', ' hurt']
+Rank 21 | Concept Score: 0.0013
+  Tokens: [' happier']
+Rank 22 | Concept Score: 0.0012
+  Tokens: [' vulnerable']
+Rank 23 | Concept Score: 0.0012
+  Tokens: [' confident']
+Rank 24 | Concept Score: 0.0008
+  Tokens: [' able']
+
+**Chosen Concept:** Rank 1 with score 0.0554

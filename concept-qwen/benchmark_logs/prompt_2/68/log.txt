@@ -1,0 +1,107 @@
+--- Step 68 Log ---
+
+== Filtered Candidates ==
+Token: ' leading' (ID: 6388), Prob: 0.0479
+Token: ' causing' (ID: 14381), Prob: 0.0330
+Token: ' yet' (ID: 3602), Prob: 0.0065
+Token: ' resulting' (ID: 12942), Prob: 0.0061
+Token: ' making' (ID: 3259), Prob: 0.0048
+Token: ' leaving' (ID: 9380), Prob: 0.0048
+Token: ' even' (ID: 1496), Prob: 0.0037
+Token: ' meaning' (ID: 7290), Prob: 0.0037
+Token: ' indicating' (ID: 18860), Prob: 0.0035
+Token: ' suggesting' (ID: 22561), Prob: 0.0027
+Token: ' killing' (ID: 13118), Prob: 0.0016
+Token: ' however' (ID: 4764), Prob: 0.0015
+Token: ' especially' (ID: 5310), Prob: 0.0014
+Token: ' despite' (ID: 8818), Prob: 0.0014
+Token: ' creating' (ID: 6825), Prob: 0.0013
+Token: ' perhaps' (ID: 8365), Prob: 0.0011
+Token: ' reaching' (ID: 18739), Prob: 0.0011
+Token: ' allowing' (ID: 10693), Prob: 0.0010
+Token: ' implying' (ID: 72867), Prob: 0.0009
+Token: ' triggering' (ID: 51505), Prob: 0.0008
+Token: ' thus' (ID: 8450), Prob: 0.0008
+Token: ' though' (ID: 3498), Prob: 0.0007
+Token: ' possibly' (ID: 10767), Prob: 0.0007
+Token: ' therefore' (ID: 8916), Prob: 0.0006
+Token: ' forcing' (ID: 24913), Prob: 0.0006
+Token: ' requiring' (ID: 22703), Prob: 0.0006
+Token: ' due' (ID: 4152), Prob: 0.0005
+Token: ' caused' (ID: 8881), Prob: 0.0005
+Token: ' showing' (ID: 9027), Prob: 0.0005
+Token: ' according' (ID: 4092), Prob: 0.0005
+Token: ' bringing' (ID: 12678), Prob: 0.0005
+Token: ' giving' (ID: 7086), Prob: 0.0004
+Token: ' prompting' (ID: 49645), Prob: 0.0004
+Token: ' although' (ID: 7892), Prob: 0.0003
+Token: ' followed' (ID: 8110), Prob: 0.0003
+Token: ' destroying' (ID: 32712), Prob: 0.0003
+Token: ' eventually' (ID: 9583), Prob: 0.0003
+Token: ' hence' (ID: 16085), Prob: 0.0003
+Token: ' affecting' (ID: 27887), Prob: 0.0003
+Token: ' soon' (ID: 5135), Prob: 0.0003
+Token: ' raising' (ID: 18545), Prob: 0.0003
+Token: ' taking' (ID: 4633), Prob: 0.0003
+Token: ' spreading' (ID: 30035), Prob: 0.0003
+Token: ' almost' (ID: 4558), Prob: 0.0002
+Token: ' quickly' (ID: 6157), Prob: 0.0002
+Token: ' revealing' (ID: 30620), Prob: 0.0002
+Token: ' including' (ID: 2670), Prob: 0.0002
+Token: ' increasing' (ID: 7703), Prob: 0.0002
+Token: ' maybe' (ID: 7196), Prob: 0.0002
+Token: ' thereby' (ID: 27492), Prob: 0.0002
+Token: ' damaging' (ID: 33346), Prob: 0.0002
+Token: ' preventing' (ID: 26160), Prob: 0.0002
+Token: ' proving' (ID: 38758), Prob: 0.0002
+Token: ' following' (ID: 2701), Prob: 0.0002
+Token: ' becoming' (ID: 10454), Prob: 0.0002
+Token: ' producing' (ID: 17387), Prob: 0.0002
+Token: ' unlike' (ID: 19836), Prob: 0.0002
+Token: ' putting' (ID: 10687), Prob: 0.0002
+Token: ' threatening' (ID: 26805), Prob: 0.0002
+Token: ' infect' (ID: 33427), Prob: 0.0002
+Token: ' many' (ID: 1657), Prob: 0.0002
+Token: ' particularly' (ID: 7945), Prob: 0.0002
+Token: ' already' (ID: 2669), Prob: 0.0001
+Token: ' rapidly' (ID: 18512), Prob: 0.0001
+Token: ' whereas' (ID: 19853), Prob: 0.0001
+Token: ' without' (ID: 2041), Prob: 0.0001
+Token: ' posing' (ID: 51904), Prob: 0.0001
+Token: ' disrupting' (ID: 86743), Prob: 0.0001
+
+== Ranked Concepts (Clusters) ==
+Rank 1 | Concept Score: 0.0879
+  Tokens: [' leading', ' causing', ' resulting', ' due', ' caused']
+Rank 2 | Concept Score: 0.0139
+  Tokens: [' making', ' leaving', ' creating', ' reaching', ' bringing', ' giving', ' raising', ' taking', ' becoming', ' producing', ' putting']
+Rank 3 | Concept Score: 0.0097
+  Tokens: [' indicating', ' suggesting', ' allowing', ' implying', ' requiring', ' showing', ' revealing', ' proving', ' posing']
+Rank 4 | Concept Score: 0.0069
+  Tokens: [' yet', ' almost', ' already']
+Rank 5 | Concept Score: 0.0051
+  Tokens: [' even', ' despite']
+Rank 6 | Concept Score: 0.0037
+  Tokens: [' meaning']
+Rank 7 | Concept Score: 0.0026
+  Tokens: [' killing', ' destroying', ' damaging', ' threatening', ' infect', ' disrupting']
+Rank 8 | Concept Score: 0.0026
+  Tokens: [' however', ' though', ' although']
+Rank 9 | Concept Score: 0.0023
+  Tokens: [' triggering', ' forcing', ' prompting', ' affecting', ' preventing']
+Rank 10 | Concept Score: 0.0020
+  Tokens: [' perhaps', ' possibly', ' maybe']
+Rank 11 | Concept Score: 0.0019
+  Tokens: [' thus', ' therefore', ' hence', ' thereby']
+Rank 12 | Concept Score: 0.0017
+  Tokens: [' especially', ' including', ' particularly']
+Rank 13 | Concept Score: 0.0012
+  Tokens: [' eventually', ' soon', ' quickly', ' many', ' rapidly']
+Rank 14 | Concept Score: 0.0011
+  Tokens: [' according', ' followed', ' following', ' without']
+Rank 15 | Concept Score: 0.0005
+  Tokens: [' spreading', ' increasing']
+Rank 16 | Concept Score: 0.0003
+  Tokens: [' unlike', ' whereas']
+
+**Chosen Concept:** Rank 1 with score 0.0879

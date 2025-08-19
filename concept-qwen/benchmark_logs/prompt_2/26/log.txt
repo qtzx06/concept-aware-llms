@@ -1,0 +1,67 @@
+--- Step 26 Log ---
+
+== Filtered Candidates ==
+Token: ' However' (ID: 4354), Prob: 0.0190
+Token: ' Scientists' (ID: 56016), Prob: 0.0179
+Token: ' Also' (ID: 7281), Prob: 0.0139
+Token: ' According' (ID: 10548), Prob: 0.0027
+Token: ' Researchers' (ID: 58150), Prob: 0.0026
+Token: ' Additionally' (ID: 22406), Prob: 0.0021
+Token: ' Therefore' (ID: 15277), Prob: 0.0019
+Token: ' Research' (ID: 8319), Prob: 0.0017
+Token: ' Based' (ID: 20205), Prob: 0.0017
+Token: ' Since' (ID: 8704), Prob: 0.0015
+Token: ' Thus' (ID: 14301), Prob: 0.0012
+Token: ' Mars' (ID: 21048), Prob: 0.0011
+Token: ' Inside' (ID: 27368), Prob: 0.0011
+Token: ' NASA' (ID: 21431), Prob: 0.0010
+Token: ' Furthermore' (ID: 23405), Prob: 0.0010
+Token: ' Even' (ID: 7418), Prob: 0.0009
+Token: ' Describe' (ID: 60785), Prob: 0.0009
+Token: ' One' (ID: 3776), Prob: 0.0008
+Token: ' Using' (ID: 12091), Prob: 0.0008
+Token: ' Despite' (ID: 17715), Prob: 0.0008
+Token: ' Moreover' (ID: 22827), Prob: 0.0008
+Token: ' Due' (ID: 23662), Prob: 0.0008
+Token: ' Let' (ID: 6771), Prob: 0.0007
+Token: ' Meanwhile' (ID: 25894), Prob: 0.0007
+Token: ' Hence' (ID: 31040), Prob: 0.0007
+Token: ' Although' (ID: 10328), Prob: 0.0006
+Token: ' Though' (ID: 17594), Prob: 0.0006
+Token: ' Humans' (ID: 64994), Prob: 0.0006
+Token: ' People' (ID: 8853), Prob: 0.0005
+Token: ' Recently' (ID: 40996), Prob: 0.0005
+Token: ' Plants' (ID: 49198), Prob: 0.0005
+Token: ' Analysis' (ID: 18320), Prob: 0.0005
+Token: ' Within' (ID: 24236), Prob: 0.0005
+Token: ' Certain' (ID: 34111), Prob: 0.0005
+
+== Ranked Concepts (Clusters) ==
+Rank 1 | Concept Score: 0.0222
+  Tokens: [' Scientists', ' Researchers', ' Research']
+Rank 2 | Concept Score: 0.0220
+  Tokens: [' However', ' Even', ' Despite', ' Although', ' Though']
+Rank 3 | Concept Score: 0.0179
+  Tokens: [' Also', ' Additionally', ' Furthermore', ' Moreover']
+Rank 4 | Concept Score: 0.0052
+  Tokens: [' According', ' Based', ' Using']
+Rank 5 | Concept Score: 0.0038
+  Tokens: [' Therefore', ' Thus', ' Hence']
+Rank 6 | Concept Score: 0.0022
+  Tokens: [' Since', ' Let']
+Rank 7 | Concept Score: 0.0021
+  Tokens: [' Mars', ' NASA']
+Rank 8 | Concept Score: 0.0017
+  Tokens: [' One', ' Due']
+Rank 9 | Concept Score: 0.0017
+  Tokens: [' Humans', ' People', ' Plants']
+Rank 10 | Concept Score: 0.0016
+  Tokens: [' Inside', ' Within']
+Rank 11 | Concept Score: 0.0014
+  Tokens: [' Describe', ' Analysis']
+Rank 12 | Concept Score: 0.0011
+  Tokens: [' Recently', ' Certain']
+Rank 13 | Concept Score: 0.0007
+  Tokens: [' Meanwhile']
+
+**Chosen Concept:** Rank 1 with score 0.0222

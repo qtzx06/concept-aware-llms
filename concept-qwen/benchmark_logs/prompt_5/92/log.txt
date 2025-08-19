@@ -1,0 +1,108 @@
+--- Step 92 Log ---
+
+== Filtered Candidates ==
+Token: ' time' (ID: 882), Prob: 0.9531
+Token: ' zone' (ID: 10143), Prob: 0.0369
+Token: ' region' (ID: 5537), Prob: 0.0008
+Token: ' location' (ID: 3728), Prob: 0.0008
+Token: ' timezone' (ID: 33957), Prob: 0.0007
+Token: ' hour' (ID: 6460), Prob: 0.0006
+Token: ' city' (ID: 3283), Prob: 0.0005
+Token: ' destination' (ID: 9106), Prob: 0.0004
+Token: ' date' (ID: 2400), Prob: 0.0002
+Token: ' state' (ID: 1584), Prob: 0.0001
+Token: ' area' (ID: 3082), Prob: 0.0001
+Token: ' one' (ID: 825), Prob: 0.0001
+Token: ' point' (ID: 1459), Prob: 0.0001
+Token: ' position' (ID: 2309), Prob: 0.0001
+Token: ' times' (ID: 3039), Prob: 0.0000
+Token: ' immediately' (ID: 7069), Prob: 0.0000
+Token: ' clock' (ID: 8866), Prob: 0.0000
+Token: ' floor' (ID: 6422), Prob: 0.0000
+Token: ' day' (ID: 1899), Prob: 0.0000
+Token: ' zones' (ID: 25395), Prob: 0.0000
+Token: ' directly' (ID: 5961), Prob: 0.0000
+Token: ' flight' (ID: 10971), Prob: 0.0000
+Token: ' room' (ID: 3054), Prob: 0.0000
+Token: ' longitude' (ID: 20515), Prob: 0.0000
+Token: ' space' (ID: 3550), Prob: 0.0000
+Token: ' air' (ID: 3720), Prob: 0.0000
+Token: ' airport' (ID: 16733), Prob: 0.0000
+Token: ' moment' (ID: 4445), Prob: 0.0000
+Token: ' town' (ID: 6290), Prob: 0.0000
+Token: ' instant' (ID: 9690), Prob: 0.0000
+Token: ' period' (ID: 4168), Prob: 0.0000
+Token: ' two' (ID: 1378), Prob: 0.0000
+Token: ' country' (ID: 3146), Prob: 0.0000
+Token: ' port' (ID: 2635), Prob: 0.0000
+Token: ' timed' (ID: 25182), Prob: 0.0000
+Token: ' continent' (ID: 31743), Prob: 0.0000
+Token: ' address' (ID: 2621), Prob: 0.0000
+Token: ' due' (ID: 4152), Prob: 0.0000
+Token: '-time' (ID: 7246), Prob: 0.0000
+Token: ' future' (ID: 3853), Prob: 0.0000
+Token: ' round' (ID: 4778), Prob: 0.0000
+Token: ' exactly' (ID: 6896), Prob: 0.0000
+Token: ' locale' (ID: 18565), Prob: 0.0000
+Token: ' timeline' (ID: 24808), Prob: 0.0000
+Token: ' place' (ID: 1992), Prob: 0.0000
+Token: ' node' (ID: 2436), Prob: 0.0000
+Token: ' ground' (ID: 4910), Prob: 0.0000
+Token: ' minute' (ID: 9383), Prob: 0.0000
+Token: ' east' (ID: 10984), Prob: 0.0000
+Token: ' side' (ID: 3108), Prob: 0.0000
+Token: ' station' (ID: 8056), Prob: 0.0000
+Token: ' territory' (ID: 17971), Prob: 0.0000
+Token: ' timing' (ID: 18405), Prob: 0.0000
+Token: ' tunnel' (ID: 25629), Prob: 0.0000
+Token: ' year' (ID: 1042), Prob: 0.0000
+Token: ' Time' (ID: 4120), Prob: 0.0000
+Token: ' Zone' (ID: 22178), Prob: 0.0000
+Token: ' via' (ID: 4566), Prob: 0.0000
+Token: ' universe' (ID: 15494), Prob: 0.0000
+
+== Ranked Concepts (Clusters) ==
+Rank 1 | Concept Score: 0.9531
+  Tokens: [' time', ' times', '-time', ' Time']
+Rank 2 | Concept Score: 0.0378
+  Tokens: [' zone', ' region', ' area', ' zones', ' Zone']
+Rank 3 | Concept Score: 0.0013
+  Tokens: [' location', ' destination', ' position', ' locale', ' place']
+Rank 4 | Concept Score: 0.0007
+  Tokens: [' timezone', ' longitude']
+Rank 5 | Concept Score: 0.0007
+  Tokens: [' hour', ' day', ' period', ' minute', ' year']
+Rank 6 | Concept Score: 0.0005
+  Tokens: [' city', ' town', ' country', ' continent']
+Rank 7 | Concept Score: 0.0002
+  Tokens: [' date']
+Rank 8 | Concept Score: 0.0001
+  Tokens: [' one', ' two', ' due', ' future', ' via']
+Rank 9 | Concept Score: 0.0001
+  Tokens: [' state']
+Rank 10 | Concept Score: 0.0001
+  Tokens: [' immediately', ' directly', ' exactly']
+Rank 11 | Concept Score: 0.0001
+  Tokens: [' clock', ' timed', ' timeline', ' timing']
+Rank 12 | Concept Score: 0.0001
+  Tokens: [' floor', ' room', ' ground']
+Rank 13 | Concept Score: 0.0001
+  Tokens: [' flight', ' air', ' tunnel']
+Rank 14 | Concept Score: 0.0001
+  Tokens: [' point', ' node']
+Rank 15 | Concept Score: 0.0001
+  Tokens: [' airport', ' port', ' station']
+Rank 16 | Concept Score: 0.0000
+  Tokens: [' moment', ' instant']
+Rank 17 | Concept Score: 0.0000
+  Tokens: [' round', ' side']
+Rank 18 | Concept Score: 0.0000
+  Tokens: [' space']
+Rank 19 | Concept Score: 0.0000
+  Tokens: [' territory', ' universe']
+Rank 20 | Concept Score: 0.0000
+  Tokens: [' address']
+Rank 21 | Concept Score: 0.0000
+  Tokens: [' east']
+
+**Chosen Concept:** Rank 1 with score 0.9531

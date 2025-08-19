@@ -1,0 +1,87 @@
+--- Step 37 Log ---
+
+== Filtered Candidates ==
+Token: ' earlier' (ID: 6788), Prob: 0.0547
+Token: ' ahead' (ID: 8305), Prob: 0.0481
+Token: ' later' (ID: 2937), Prob: 0.0122
+Token: ' prior' (ID: 4867), Prob: 0.0107
+Token: ' away' (ID: 3123), Prob: 0.0033
+Token: ' behind' (ID: 4815), Prob: 0.0012
+Token: ' forward' (ID: 4637), Prob: 0.0011
+Token: ' less' (ID: 2686), Prob: 0.0009
+Token: ' back' (ID: 1182), Prob: 0.0006
+Token: ' per' (ID: 817), Prob: 0.0006
+Token: ' apart' (ID: 10747), Prob: 0.0006
+Token: ' early' (ID: 4124), Prob: 0.0006
+Token: ' late' (ID: 3309), Prob: 0.0005
+Token: ' either' (ID: 2987), Prob: 0.0005
+Token: ' past' (ID: 3267), Prob: 0.0005
+Token: ' ago' (ID: 4134), Prob: 0.0005
+Token: ' east' (ID: 10984), Prob: 0.0004
+Token: ' within' (ID: 2878), Prob: 0.0003
+Token: ' faster' (ID: 10596), Prob: 0.0002
+Token: ' regardless' (ID: 15484), Prob: 0.0002
+Token: ' sooner' (ID: 30273), Prob: 0.0002
+Token: ' north' (ID: 10200), Prob: 0.0002
+Token: ' every' (ID: 1449), Prob: 0.0002
+Token: ' different' (ID: 2155), Prob: 0.0002
+Token: ' directly' (ID: 5961), Prob: 0.0002
+Token: ' west' (ID: 9710), Prob: 0.0002
+Token: ' straight' (ID: 7678), Prob: 0.0001
+Token: ' beyond' (ID: 7797), Prob: 0.0001
+Token: ' difference' (ID: 6672), Prob: 0.0001
+Token: ' according' (ID: 4092), Prob: 0.0001
+Token: ' without' (ID: 2041), Prob: 0.0001
+Token: ' immediately' (ID: 7069), Prob: 0.0001
+Token: ' time' (ID: 882), Prob: 0.0001
+Token: ' inside' (ID: 4766), Prob: 0.0001
+Token: ' outside' (ID: 4889), Prob: 0.0001
+Token: ' one' (ID: 825), Prob: 0.0001
+Token: ' even' (ID: 1496), Prob: 0.0001
+Token: ' instead' (ID: 4518), Prob: 0.0001
+Token: ' beforehand' (ID: 51059), Prob: 0.0001
+Token: ' closer' (ID: 12128), Prob: 0.0001
+Token: ' depending' (ID: 11649), Prob: 0.0001
+Token: ' using' (ID: 1667), Prob: 0.0001
+Token: ' front' (ID: 4065), Prob: 0.0001
+Token: ' south' (ID: 9806), Prob: 0.0001
+Token: ' following' (ID: 2701), Prob: 0.0001
+Token: ' previous' (ID: 3681), Prob: 0.0001
+Token: ' travel' (ID: 5821), Prob: 0.0001
+Token: ' exactly' (ID: 6896), Prob: 0.0001
+Token: ' differently' (ID: 21303), Prob: 0.0001
+Token: ' since' (ID: 2474), Prob: 0.0000
+
+== Ranked Concepts (Clusters) ==
+Rank 1 | Concept Score: 0.0679
+  Tokens: [' earlier', ' later', ' early', ' late']
+Rank 2 | Concept Score: 0.0493
+  Tokens: [' ahead', ' behind']
+Rank 3 | Concept Score: 0.0113
+  Tokens: [' prior', ' past', ' previous']
+Rank 4 | Concept Score: 0.0044
+  Tokens: [' away', ' apart', ' ago']
+Rank 5 | Concept Score: 0.0018
+  Tokens: [' forward', ' back', ' front']
+Rank 6 | Concept Score: 0.0014
+  Tokens: [' less', ' faster', ' sooner', ' closer']
+Rank 7 | Concept Score: 0.0010
+  Tokens: [' per', ' every', ' one', ' using', ' following']
+Rank 8 | Concept Score: 0.0009
+  Tokens: [' east', ' north', ' west', ' south']
+Rank 9 | Concept Score: 0.0008
+  Tokens: [' regardless', ' according', ' without', ' even', ' instead', ' depending', ' since']
+Rank 10 | Concept Score: 0.0007
+  Tokens: [' within', ' beyond', ' inside', ' outside']
+Rank 11 | Concept Score: 0.0005
+  Tokens: [' directly', ' straight', ' immediately', ' exactly']
+Rank 12 | Concept Score: 0.0005
+  Tokens: [' either']
+Rank 13 | Concept Score: 0.0004
+  Tokens: [' different', ' difference', ' differently']
+Rank 14 | Concept Score: 0.0002
+  Tokens: [' time', ' travel']
+Rank 15 | Concept Score: 0.0001
+  Tokens: [' beforehand']
+
+**Chosen Concept:** Rank 1 with score 0.0679

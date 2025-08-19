@@ -1,0 +1,101 @@
+--- Step 110 Log ---
+
+== Filtered Candidates ==
+Token: ' zone' (ID: 10143), Prob: 1.0000
+Token: 'zone' (ID: 8684), Prob: 0.0001
+Token: ' zones' (ID: 25395), Prob: 0.0001
+Token: ' Zone' (ID: 22178), Prob: 0.0000
+Token: '.zone' (ID: 57808), Prob: 0.0000
+Token: ' time' (ID: 882), Prob: 0.0000
+Token: ' timezone' (ID: 33957), Prob: 0.0000
+Token: '(zone' (ID: 74228), Prob: 0.0000
+Token: ' period' (ID: 4168), Prob: 0.0000
+Token: ' region' (ID: 5537), Prob: 0.0000
+Token: ' state' (ID: 1584), Prob: 0.0000
+Token: '_zone' (ID: 28692), Prob: 0.0000
+Token: '-zone' (ID: 77763), Prob: 0.0000
+Token: ' center' (ID: 4126), Prob: 0.0000
+Token: 'Zone' (ID: 15363), Prob: 0.0000
+Token: ' constraint' (ID: 21568), Prob: 0.0000
+Token: ' tone' (ID: 16232), Prob: 0.0000
+Token: ' zero' (ID: 7168), Prob: 0.0000
+Token: ' location' (ID: 3728), Prob: 0.0000
+Token: ' transition' (ID: 9142), Prob: 0.0000
+Token: '_ZONE' (ID: 60742), Prob: 0.0000
+Token: ' focus' (ID: 5244), Prob: 0.0000
+Token: ' base' (ID: 2331), Prob: 0.0000
+Token: ' clock' (ID: 8866), Prob: 0.0000
+Token: ' province' (ID: 16847), Prob: 0.0000
+Token: ' transfer' (ID: 8317), Prob: 0.0000
+Token: ' area' (ID: 3082), Prob: 0.0000
+Token: ' zoning' (ID: 64978), Prob: 0.0000
+Token: 'ZONE' (ID: 56502), Prob: 0.0000
+Token: ' zona' (ID: 44012), Prob: 0.0000
+Token: ' date' (ID: 2400), Prob: 0.0000
+Token: ' condition' (ID: 2971), Prob: 0.0000
+Token: ' constant' (ID: 6783), Prob: 0.0000
+Token: ' point' (ID: 1459), Prob: 0.0000
+Token: ' tunnel' (ID: 25629), Prob: 0.0000
+Token: ' offset' (ID: 4347), Prob: 0.0000
+Token: ' district' (ID: 9290), Prob: 0.0000
+Token: ' slot' (ID: 9446), Prob: 0.0000
+Token: ' one' (ID: 825), Prob: 0.0000
+Token: ' band' (ID: 7055), Prob: 0.0000
+Token: ' format' (ID: 3561), Prob: 0.0000
+Token: ' difference' (ID: 6672), Prob: 0.0000
+Token: ' zoom' (ID: 15562), Prob: 0.0000
+Token: ' moment' (ID: 4445), Prob: 0.0000
+Token: ' change' (ID: 2297), Prob: 0.0000
+Token: ' destination' (ID: 9106), Prob: 0.0000
+Token: ' box' (ID: 3745), Prob: 0.0000
+Token: ' due' (ID: 4152), Prob: 0.0000
+Token: ' duration' (ID: 8090), Prob: 0.0000
+Token: ' longitude' (ID: 20515), Prob: 0.0000
+Token: ' node' (ID: 2436), Prob: 0.0000
+Token: ' triangle' (ID: 21495), Prob: 0.0000
+Token: ' two' (ID: 1378), Prob: 0.0000
+Token: ' interval' (ID: 9873), Prob: 0.0000
+Token: ' front' (ID: 4065), Prob: 0.0000
+Token: ' station' (ID: 8056), Prob: 0.0000
+Token: ' window' (ID: 3241), Prob: 0.0000
+Token: ' function' (ID: 729), Prob: 0.0000
+Token: ' east' (ID: 10984), Prob: 0.0000
+Token: ' ion' (ID: 27672), Prob: 0.0000
+
+== Ranked Concepts (Clusters) ==
+Rank 1 | Concept Score: 1.0000
+  Tokens: [' zone', 'zone', ' zones', ' Zone', '.zone', '(zone', '_zone', '-zone', 'Zone', '_ZONE', ' zoning', 'ZONE', ' zona']
+Rank 2 | Concept Score: 0.0000
+  Tokens: [' time', ' timezone', ' clock', ' date']
+Rank 3 | Concept Score: 0.0000
+  Tokens: [' region', ' province', ' area', ' district']
+Rank 4 | Concept Score: 0.0000
+  Tokens: [' center', ' tone', ' focus', ' format']
+Rank 5 | Concept Score: 0.0000
+  Tokens: [' period', ' duration', ' interval']
+Rank 6 | Concept Score: 0.0000
+  Tokens: [' state']
+Rank 7 | Concept Score: 0.0000
+  Tokens: [' zero', ' constant', ' one', ' due', ' two']
+Rank 8 | Concept Score: 0.0000
+  Tokens: [' constraint', ' condition', ' function']
+Rank 9 | Concept Score: 0.0000
+  Tokens: [' transition', ' transfer', ' difference', ' change']
+Rank 10 | Concept Score: 0.0000
+  Tokens: [' location', ' destination']
+Rank 11 | Concept Score: 0.0000
+  Tokens: [' tunnel', ' offset', ' triangle', ' ion']
+Rank 12 | Concept Score: 0.0000
+  Tokens: [' slot', ' band', ' box', ' window']
+Rank 13 | Concept Score: 0.0000
+  Tokens: [' base', ' front']
+Rank 14 | Concept Score: 0.0000
+  Tokens: [' point', ' node', ' station']
+Rank 15 | Concept Score: 0.0000
+  Tokens: [' longitude', ' east']
+Rank 16 | Concept Score: 0.0000
+  Tokens: [' zoom']
+Rank 17 | Concept Score: 0.0000
+  Tokens: [' moment']
+
+**Chosen Concept:** Rank 1 with score 1.0000

@@ -1,0 +1,60 @@
+--- Step 21 Log ---
+
+== Filtered Candidates ==
+Token: ' inside' (ID: 4766), Prob: 0.0003
+Token: ' locally' (ID: 23490), Prob: 0.0001
+Token: ' within' (ID: 2878), Prob: 0.0001
+Token: ' scientifically' (ID: 73547), Prob: 0.0000
+Token: ' called' (ID: 2598), Prob: 0.0000
+Token: ' among' (ID: 4221), Prob: 0.0000
+Token: ' commonly' (ID: 16626), Prob: 0.0000
+Token: ' als' (ID: 10712), Prob: 0.0000
+Token: ' throughout' (ID: 6814), Prob: 0.0000
+Token: ' originally' (ID: 13214), Prob: 0.0000
+Token: ' internally' (ID: 33067), Prob: 0.0000
+Token: ' simply' (ID: 4936), Prob: 0.0000
+Token: ' underground' (ID: 25260), Prob: 0.0000
+Token: ' also' (ID: 1083), Prob: 0.0000
+Token: ' collectively' (ID: 44825), Prob: 0.0000
+Token: ' collo' (ID: 80948), Prob: 0.0000
+Token: ' outside' (ID: 4889), Prob: 0.0000
+Token: ' species' (ID: 9419), Prob: 0.0000
+Token: ' since' (ID: 2474), Prob: 0.0000
+Token: ' medically' (ID: 77169), Prob: 0.0000
+Token: ' initially' (ID: 15102), Prob: 0.0000
+Token: ' sebagai' (ID: 58622), Prob: 0.0000
+Token: ' gener' (ID: 1766), Prob: 0.0000
+Token: ' today' (ID: 3351), Prob: 0.0000
+Token: ' technically' (ID: 31554), Prob: 0.0000
+Token: ' synth' (ID: 42898), Prob: 0.0000
+Token: ' merely' (ID: 16234), Prob: 0.0000
+
+== Ranked Concepts (Clusters) ==
+Rank 1 | Concept Score: 0.0003
+  Tokens: [' inside', ' underground', ' outside']
+Rank 2 | Concept Score: 0.0002
+  Tokens: [' within', ' among', ' throughout']
+Rank 3 | Concept Score: 0.0001
+  Tokens: [' locally', ' internally']
+Rank 4 | Concept Score: 0.0001
+  Tokens: [' scientifically', ' medically', ' technically']
+Rank 5 | Concept Score: 0.0001
+  Tokens: [' commonly', ' collectively', ' collo']
+Rank 6 | Concept Score: 0.0000
+  Tokens: [' called', ' also']
+Rank 7 | Concept Score: 0.0000
+  Tokens: [' als', ' sebagai']
+Rank 8 | Concept Score: 0.0000
+  Tokens: [' originally', ' initially']
+Rank 9 | Concept Score: 0.0000
+  Tokens: [' simply', ' merely']
+Rank 10 | Concept Score: 0.0000
+  Tokens: [' since', ' today']
+Rank 11 | Concept Score: 0.0000
+  Tokens: [' species']
+Rank 12 | Concept Score: 0.0000
+  Tokens: [' gener']
+Rank 13 | Concept Score: 0.0000
+  Tokens: [' synth']
+
+**Chosen Concept:** Rank 1 with score 0.0003

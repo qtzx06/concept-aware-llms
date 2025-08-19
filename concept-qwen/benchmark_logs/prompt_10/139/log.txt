@@ -1,0 +1,102 @@
+--- Step 139 Log ---
+
+== Filtered Candidates ==
+Token: '-six' (ID: 54441), Prob: 1.0000
+Token: ' six' (ID: 4743), Prob: 0.0017
+Token: '-five' (ID: 35299), Prob: 0.0001
+Token: '-seven' (ID: 78025), Prob: 0.0000
+Token: '-nine' (ID: 85603), Prob: 0.0000
+Token: '-eight' (ID: 69715), Prob: 0.0000
+Token: ' Six' (ID: 18680), Prob: 0.0000
+Token: '-four' (ID: 41017), Prob: 0.0000
+Token: 'six' (ID: 50364), Prob: 0.0000
+Token: ' sixty' (ID: 52374), Prob: 0.0000
+Token: '-se' (ID: 7806), Prob: 0.0000
+Token: '-two' (ID: 37402), Prob: 0.0000
+Token: 'Six' (ID: 41460), Prob: 0.0000
+Token: '-one' (ID: 18589), Prob: 0.0000
+Token: ' sixth' (ID: 25031), Prob: 0.0000
+Token: ' seis' (ID: 86412), Prob: 0.0000
+Token: '-th' (ID: 7563), Prob: 0.0000
+Token: '-three' (ID: 48393), Prob: 0.0000
+Token: ' SIX' (ID: 97638), Prob: 0.0000
+Token: '-of' (ID: 8668), Prob: 0.0000
+Token: '-point' (ID: 16574), Prob: 0.0000
+Token: '-re' (ID: 5504), Prob: 0.0000
+Token: '-score' (ID: 75174), Prob: 0.0000
+Token: '-up' (ID: 5239), Prob: 0.0000
+Token: '-and' (ID: 9777), Prob: 0.0000
+Token: '-is' (ID: 30430), Prob: 0.0000
+Token: '-first' (ID: 36943), Prob: 0.0000
+Token: '-to' (ID: 4686), Prob: 0.0000
+Token: '-sided' (ID: 49758), Prob: 0.0000
+Token: '-en' (ID: 20767), Prob: 0.0000
+Token: '-zero' (ID: 36929), Prob: 0.0000
+Token: '-line' (ID: 8447), Prob: 0.0000
+Token: '-element' (ID: 28452), Prob: 0.0000
+Token: '-kind' (ID: 59706), Prob: 0.0000
+Token: '-child' (ID: 23484), Prob: 0.0000
+Token: '-sex' (ID: 26028), Prob: 0.0000
+Token: '-tw' (ID: 97562), Prob: 0.0000
+Token: '-time' (ID: 7246), Prob: 0.0000
+Token: '-sh' (ID: 7514), Prob: 0.0000
+Token: '-piece' (ID: 55864), Prob: 0.0000
+Token: ' seven' (ID: 8094), Prob: 0.0000
+Token: '-so' (ID: 33019), Prob: 0.0000
+Token: '-house' (ID: 35902), Prob: 0.0000
+Token: '-group' (ID: 4351), Prob: 0.0000
+Token: '-gr' (ID: 24321), Prob: 0.0000
+Token: '-life' (ID: 25843), Prob: 0.0000
+Token: '-or' (ID: 26511), Prob: 0.0000
+Token: '-base' (ID: 30013), Prob: 0.0000
+Token: ' sixteen' (ID: 58039), Prob: 0.0000
+Token: '-in' (ID: 3419), Prob: 0.0000
+Token: '-hour' (ID: 21231), Prob: 0.0000
+Token: '-being' (ID: 32751), Prob: 0.0000
+Token: '-year' (ID: 4666), Prob: 0.0000
+Token: '-unit' (ID: 60575), Prob: 0.0000
+Token: '-equ' (ID: 62259), Prob: 0.0000
+Token: ' five' (ID: 4236), Prob: 0.0000
+Token: '-day' (ID: 11228), Prob: 0.0000
+Token: '-off' (ID: 12462), Prob: 0.0000
+Token: '-game' (ID: 19395), Prob: 0.0000
+Token: '-enter' (ID: 48215), Prob: 0.0000
+Token: ' eight' (ID: 8063), Prob: 0.0000
+
+== Ranked Concepts (Clusters) ==
+Rank 1 | Concept Score: 1.0000
+  Tokens: ['-six', '-five', '-seven', '-nine', '-eight', '-four', '-two', '-one', '-three']
+Rank 2 | Concept Score: 0.0017
+  Tokens: [' six', ' Six', 'six', ' sixty', 'Six', ' sixth', ' seis', ' SIX', ' seven', ' sixteen', ' five', ' eight']
+Rank 3 | Concept Score: 0.0000
+  Tokens: ['-se', '-re', '-en', '-sh', '-gr']
+Rank 4 | Concept Score: 0.0000
+  Tokens: ['-th', '-tw']
+Rank 5 | Concept Score: 0.0000
+  Tokens: ['-of', '-up', '-to', '-in', '-off']
+Rank 6 | Concept Score: 0.0000
+  Tokens: ['-point', '-score']
+Rank 7 | Concept Score: 0.0000
+  Tokens: ['-and', '-is', '-so', '-or']
+Rank 8 | Concept Score: 0.0000
+  Tokens: ['-first', '-zero']
+Rank 9 | Concept Score: 0.0000
+  Tokens: ['-line', '-element', '-piece']
+Rank 10 | Concept Score: 0.0000
+  Tokens: ['-kind', '-child', '-base']
+Rank 11 | Concept Score: 0.0000
+  Tokens: ['-time', '-hour', '-year', '-day']
+Rank 12 | Concept Score: 0.0000
+  Tokens: ['-sided']
+Rank 13 | Concept Score: 0.0000
+  Tokens: ['-life', '-being', '-game']
+Rank 14 | Concept Score: 0.0000
+  Tokens: ['-house', '-unit']
+Rank 15 | Concept Score: 0.0000
+  Tokens: ['-group', '-enter']
+Rank 16 | Concept Score: 0.0000
+  Tokens: ['-sex']
+Rank 17 | Concept Score: 0.0000
+  Tokens: ['-equ']
+
+**Chosen Concept:** Rank 1 with score 1.0000

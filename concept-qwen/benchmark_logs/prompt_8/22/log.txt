@@ -1,0 +1,83 @@
+--- Step 22 Log ---
+
+== Filtered Candidates ==
+Token: ' different' (ID: 2155), Prob: 0.0030
+Token: ' similar' (ID: 4428), Prob: 0.0012
+Token: ' people' (ID: 1251), Prob: 0.0006
+Token: ' without' (ID: 2041), Prob: 0.0003
+Token: ' unique' (ID: 4911), Prob: 0.0002
+Token: ' designed' (ID: 6188), Prob: 0.0002
+Token: ' like' (ID: 1075), Prob: 0.0002
+Token: ' something' (ID: 2494), Prob: 0.0002
+Token: ' contrary' (ID: 25047), Prob: 0.0002
+Token: ' opposite' (ID: 14002), Prob: 0.0002
+Token: ' someone' (ID: 4325), Prob: 0.0002
+Token: ' others' (ID: 3800), Prob: 0.0001
+Token: ' outside' (ID: 4889), Prob: 0.0001
+Token: ' beyond' (ID: 7797), Prob: 0.0001
+Token: ' appropriate' (ID: 8311), Prob: 0.0001
+Token: ' way' (ID: 1616), Prob: 0.0001
+Token: ' suitable' (ID: 14452), Prob: 0.0001
+Token: ' unrelated' (ID: 45205), Prob: 0.0001
+Token: ' perhaps' (ID: 8365), Prob: 0.0001
+Token: ' consistent' (ID: 12966), Prob: 0.0001
+Token: ' less' (ID: 2686), Prob: 0.0001
+Token: ' maybe' (ID: 7196), Prob: 0.0001
+Token: ' one' (ID: 825), Prob: 0.0001
+Token: ' back' (ID: 1182), Prob: 0.0001
+Token: ' done' (ID: 2814), Prob: 0.0001
+Token: ' unlike' (ID: 19836), Prob: 0.0001
+Token: ' related' (ID: 5435), Prob: 0.0001
+Token: ' directly' (ID: 5961), Prob: 0.0001
+Token: ' hidden' (ID: 8177), Prob: 0.0001
+Token: ' unexpected' (ID: 16500), Prob: 0.0001
+Token: ' much' (ID: 1753), Prob: 0.0001
+Token: ' another' (ID: 2441), Prob: 0.0001
+Token: ' rather' (ID: 4751), Prob: 0.0000
+Token: ' completely' (ID: 6587), Prob: 0.0000
+Token: ' even' (ID: 1496), Prob: 0.0000
+Token: ' parallel' (ID: 15279), Prob: 0.0000
+Token: ' also' (ID: 1083), Prob: 0.0000
+Token: ' unknown' (ID: 9788), Prob: 0.0000
+
+== Ranked Concepts (Clusters) ==
+Rank 1 | Concept Score: 0.0032
+  Tokens: [' different', ' unique']
+Rank 2 | Concept Score: 0.0012
+  Tokens: [' similar']
+Rank 3 | Concept Score: 0.0010
+  Tokens: [' people', ' something', ' someone']
+Rank 4 | Concept Score: 0.0005
+  Tokens: [' without', ' outside', ' beyond']
+Rank 5 | Concept Score: 0.0004
+  Tokens: [' contrary', ' opposite']
+Rank 6 | Concept Score: 0.0003
+  Tokens: [' appropriate', ' suitable', ' consistent']
+Rank 7 | Concept Score: 0.0003
+  Tokens: [' like', ' unlike']
+Rank 8 | Concept Score: 0.0002
+  Tokens: [' designed']
+Rank 9 | Concept Score: 0.0002
+  Tokens: [' others', ' another']
+Rank 10 | Concept Score: 0.0002
+  Tokens: [' way', ' done']
+Rank 11 | Concept Score: 0.0001
+  Tokens: [' hidden', ' unexpected', ' unknown']
+Rank 12 | Concept Score: 0.0001
+  Tokens: [' directly', ' completely', ' parallel']
+Rank 13 | Concept Score: 0.0001
+  Tokens: [' unrelated', ' related']
+Rank 14 | Concept Score: 0.0001
+  Tokens: [' perhaps', ' maybe']
+Rank 15 | Concept Score: 0.0001
+  Tokens: [' less', ' much']
+Rank 16 | Concept Score: 0.0001
+  Tokens: [' even', ' also']
+Rank 17 | Concept Score: 0.0001
+  Tokens: [' back']
+Rank 18 | Concept Score: 0.0001
+  Tokens: [' one']
+Rank 19 | Concept Score: 0.0000
+  Tokens: [' rather']
+
+**Chosen Concept:** Rank 1 with score 0.0032

@@ -1,0 +1,101 @@
+--- Step 33 Log ---
+
+== Filtered Candidates ==
+Token: ' six' (ID: 4743), Prob: 0.9883
+Token: ' seven' (ID: 8094), Prob: 0.0059
+Token: ' five' (ID: 4236), Prob: 0.0009
+Token: ' ten' (ID: 5779), Prob: 0.0008
+Token: ' eight' (ID: 8063), Prob: 0.0008
+Token: ' two' (ID: 1378), Prob: 0.0006
+Token: ' sixth' (ID: 25031), Prob: 0.0006
+Token: ' sixty' (ID: 52374), Prob: 0.0003
+Token: ' Six' (ID: 18680), Prob: 0.0002
+Token: ' nine' (ID: 11627), Prob: 0.0002
+Token: ' one' (ID: 825), Prob: 0.0001
+Token: ' four' (ID: 3040), Prob: 0.0001
+Token: ' pair' (ID: 6716), Prob: 0.0001
+Token: ' three' (ID: 2326), Prob: 0.0001
+Token: ' twelve' (ID: 29235), Prob: 0.0001
+Token: ' sixteen' (ID: 58039), Prob: 0.0001
+Token: ' hundred' (ID: 7739), Prob: 0.0001
+Token: ' twenty' (ID: 17073), Prob: 0.0001
+Token: 'six' (ID: 50364), Prob: 0.0000
+Token: ' eleven' (ID: 44214), Prob: 0.0000
+Token: ' zero' (ID: 7168), Prob: 0.0000
+Token: ' number' (ID: 1372), Prob: 0.0000
+Token: ' many' (ID: 1657), Prob: 0.0000
+Token: ' total' (ID: 2790), Prob: 0.0000
+Token: ' hex' (ID: 12371), Prob: 0.0000
+Token: ' day' (ID: 1899), Prob: 0.0000
+Token: ' group' (ID: 1874), Prob: 0.0000
+Token: ' sum' (ID: 2629), Prob: 0.0000
+Token: ' die' (ID: 2746), Prob: 0.0000
+Token: ' present' (ID: 3042), Prob: 0.0000
+Token: ' seventh' (ID: 30387), Prob: 0.0000
+Token: ' following' (ID: 2701), Prob: 0.0000
+Token: ' infinity' (ID: 54910), Prob: 0.0000
+Token: ' infinite' (ID: 23809), Prob: 0.0000
+Token: ' several' (ID: 3807), Prob: 0.0000
+Token: ' June' (ID: 5534), Prob: 0.0000
+Token: ' thousand' (ID: 16183), Prob: 0.0000
+Token: ' single' (ID: 3175), Prob: 0.0000
+Token: '-six' (ID: 54441), Prob: 0.0000
+Token: ' half' (ID: 4279), Prob: 0.0000
+Token: ' goal' (ID: 5795), Prob: 0.0000
+Token: ' seventeen' (ID: 81397), Prob: 0.0000
+Token: ' man' (ID: 883), Prob: 0.0000
+Token: ' line' (ID: 1555), Prob: 0.0000
+Token: ' greater' (ID: 7046), Prob: 0.0000
+Token: ' compound' (ID: 23628), Prob: 0.0000
+Token: ' seis' (ID: 86412), Prob: 0.0000
+Token: ' sphere' (ID: 25366), Prob: 0.0000
+Token: 'Six' (ID: 41460), Prob: 0.0000
+Token: ' possible' (ID: 3204), Prob: 0.0000
+Token: ' whole' (ID: 4361), Prob: 0.0000
+Token: ' grand' (ID: 6662), Prob: 0.0000
+Token: ' Seven' (ID: 29948), Prob: 0.0000
+Token: ' full' (ID: 2480), Prob: 0.0000
+Token: ' letter' (ID: 6524), Prob: 0.0000
+Token: ' SIX' (ID: 97638), Prob: 0.0000
+Token: ' next' (ID: 1790), Prob: 0.0000
+Token: ' plant' (ID: 6008), Prob: 0.0000
+Token: ' hour' (ID: 6460), Prob: 0.0000
+Token: ' unit' (ID: 4982), Prob: 0.0000
+Token: ' moon' (ID: 17788), Prob: 0.0000
+Token: ' Eight' (ID: 35844), Prob: 0.0000
+Token: ' problem' (ID: 3491), Prob: 0.0000
+Token: ' sevent' (ID: 21373), Prob: 0.0000
+
+== Ranked Concepts (Clusters) ==
+Rank 1 | Concept Score: 0.9883
+  Tokens: [' six', ' Six', 'six', '-six', ' seis', 'Six', ' SIX']
+Rank 2 | Concept Score: 0.0081
+  Tokens: [' seven', ' ten', ' eight', ' sixty', ' nine', ' twelve', ' sixteen', ' twenty', ' eleven', ' seventeen', ' Seven', ' Eight']
+Rank 3 | Concept Score: 0.0017
+  Tokens: [' five', ' two', ' four', ' three']
+Rank 4 | Concept Score: 0.0006
+  Tokens: [' sixth', ' seventh', ' sevent']
+Rank 5 | Concept Score: 0.0002
+  Tokens: [' one', ' following', ' next']
+Rank 6 | Concept Score: 0.0001
+  Tokens: [' pair', ' group', ' line', ' unit']
+Rank 7 | Concept Score: 0.0001
+  Tokens: [' hundred', ' thousand']
+Rank 8 | Concept Score: 0.0000
+  Tokens: [' number', ' die', ' man', ' compound', ' plant']
+Rank 9 | Concept Score: 0.0000
+  Tokens: [' zero', ' infinity', ' infinite']
+Rank 10 | Concept Score: 0.0000
+  Tokens: [' total', ' sum', ' goal', ' problem']
+Rank 11 | Concept Score: 0.0000
+  Tokens: [' day', ' sphere', ' letter', ' hour', ' moon']
+Rank 12 | Concept Score: 0.0000
+  Tokens: [' present', ' greater', ' possible', ' grand']
+Rank 13 | Concept Score: 0.0000
+  Tokens: [' single', ' half', ' whole', ' full']
+Rank 14 | Concept Score: 0.0000
+  Tokens: [' many', ' several']
+Rank 15 | Concept Score: 0.0000
+  Tokens: [' hex', ' June']
+
+**Chosen Concept:** Rank 1 with score 0.9883

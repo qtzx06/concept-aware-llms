@@ -1,0 +1,67 @@
+--- Step 94 Log ---
+
+== Filtered Candidates ==
+Token: ' exactly' (ID: 6896), Prob: 0.2578
+Token: ' one' (ID: 825), Prob: 0.0371
+Token: ' either' (ID: 2987), Prob: 0.0176
+Token: ' directly' (ID: 5961), Prob: 0.0145
+Token: ' two' (ID: 1378), Prob: 0.0061
+Token: ' immediately' (ID: 7069), Prob: 0.0044
+Token: ' located' (ID: 7407), Prob: 0.0024
+Token: ' according' (ID: 4092), Prob: 0.0022
+Token: ' precisely' (ID: 23638), Prob: 0.0022
+Token: ' three' (ID: 2326), Prob: 0.0018
+Token: ' twice' (ID: 10917), Prob: 0.0018
+Token: ' based' (ID: 3118), Prob: 0.0016
+Token: ' via' (ID: 4566), Prob: 0.0014
+Token: ' across' (ID: 3941), Prob: 0.0013
+Token: ' somewhere' (ID: 14696), Prob: 0.0013
+Token: ' approximately' (ID: 13187), Prob: 0.0012
+Token: ' within' (ID: 2878), Prob: 0.0009
+Token: ' simultaneously' (ID: 24303), Prob: 0.0008
+Token: ' every' (ID: 1449), Prob: 0.0007
+Token: ' straight' (ID: 7678), Prob: 0.0007
+Token: ' instantly' (ID: 21818), Prob: 0.0007
+Token: ' earlier' (ID: 6788), Prob: 0.0006
+Token: ' time' (ID: 882), Prob: 0.0005
+Token: ' without' (ID: 2041), Prob: 0.0005
+Token: ' first' (ID: 1156), Prob: 0.0005
+Token: ' even' (ID: 1496), Prob: 0.0005
+Token: ' using' (ID: 1667), Prob: 0.0005
+Token: ' ahead' (ID: 8305), Prob: 0.0004
+Token: ' regardless' (ID: 15484), Prob: 0.0004
+Token: ' right' (ID: 1290), Prob: 0.0004
+
+== Ranked Concepts (Clusters) ==
+Rank 1 | Concept Score: 0.2617
+  Tokens: [' exactly', ' precisely', ' approximately']
+Rank 2 | Concept Score: 0.0371
+  Tokens: [' one']
+Rank 3 | Concept Score: 0.0176
+  Tokens: [' either']
+Rank 4 | Concept Score: 0.0145
+  Tokens: [' directly']
+Rank 5 | Concept Score: 0.0098
+  Tokens: [' two', ' three', ' twice']
+Rank 6 | Concept Score: 0.0059
+  Tokens: [' immediately', ' simultaneously', ' instantly']
+Rank 7 | Concept Score: 0.0058
+  Tokens: [' according', ' based', ' via', ' using']
+Rank 8 | Concept Score: 0.0036
+  Tokens: [' located', ' somewhere']
+Rank 9 | Concept Score: 0.0027
+  Tokens: [' across', ' within', ' without']
+Rank 10 | Concept Score: 0.0011
+  Tokens: [' straight', ' right']
+Rank 11 | Concept Score: 0.0010
+  Tokens: [' earlier', ' first']
+Rank 12 | Concept Score: 0.0009
+  Tokens: [' even', ' regardless']
+Rank 13 | Concept Score: 0.0007
+  Tokens: [' every']
+Rank 14 | Concept Score: 0.0005
+  Tokens: [' time']
+Rank 15 | Concept Score: 0.0004
+  Tokens: [' ahead']
+
+**Chosen Concept:** Rank 1 with score 0.2617

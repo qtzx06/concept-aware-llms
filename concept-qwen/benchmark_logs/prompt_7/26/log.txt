@@ -1,0 +1,148 @@
+--- Step 26 Log ---
+
+== Filtered Candidates ==
+Token: ' make' (ID: 1281), Prob: 0.1670
+Token: ' get' (ID: 633), Prob: 0.0309
+Token: ' take' (ID: 1896), Prob: 0.0101
+Token: ' seem' (ID: 2803), Prob: 0.0078
+Token: ' stop' (ID: 2936), Prob: 0.0074
+Token: ' keep' (ID: 2506), Prob: 0.0061
+Token: ' easily' (ID: 6707), Prob: 0.0045
+Token: ' damage' (ID: 5557), Prob: 0.0042
+Token: ' destroy' (ID: 6921), Prob: 0.0039
+Token: ' mask' (ID: 6911), Prob: 0.0037
+Token: ' potentially' (ID: 13581), Prob: 0.0037
+Token: ' mean' (ID: 3076), Prob: 0.0033
+Token: ' cover' (ID: 3421), Prob: 0.0033
+Token: ' bring' (ID: 4446), Prob: 0.0033
+Token: ' melt' (ID: 28999), Prob: 0.0033
+Token: ' cause' (ID: 5240), Prob: 0.0031
+Token: ' turn' (ID: 2484), Prob: 0.0029
+Token: ' block' (ID: 2504), Prob: 0.0029
+Token: ' hide' (ID: 10265), Prob: 0.0029
+Token: ' possibly' (ID: 10767), Prob: 0.0029
+Token: ' break' (ID: 1438), Prob: 0.0025
+Token: ' prevent' (ID: 5358), Prob: 0.0025
+Token: ' mess' (ID: 9435), Prob: 0.0025
+Token: ' tear' (ID: 17576), Prob: 0.0025
+Token: ' somehow' (ID: 16925), Prob: 0.0024
+Token: ' sometimes' (ID: 7025), Prob: 0.0021
+Token: ' try' (ID: 1430), Prob: 0.0020
+Token: ' conce' (ID: 19669), Prob: 0.0019
+Token: ' distract' (ID: 63817), Prob: 0.0019
+Token: ' wreak' (ID: 82575), Prob: 0.0017
+Token: ' obscure' (ID: 39534), Prob: 0.0016
+Token: ' silence' (ID: 21162), Prob: 0.0014
+Token: ' ruin' (ID: 37239), Prob: 0.0014
+Token: ' perhaps' (ID: 8365), Prob: 0.0013
+Token: ' wash' (ID: 11369), Prob: 0.0013
+Token: ' hold' (ID: 3331), Prob: 0.0012
+Token: ' maybe' (ID: 7196), Prob: 0.0012
+Token: ' look' (ID: 1401), Prob: 0.0011
+Token: ' fall' (ID: 4399), Prob: 0.0011
+Token: ' disrupt' (ID: 23973), Prob: 0.0011
+Token: ' last' (ID: 1537), Prob: 0.0011
+Token: ' reduce' (ID: 7949), Prob: 0.0011
+Token: ' come' (ID: 2525), Prob: 0.0010
+Token: ' give' (ID: 2968), Prob: 0.0010
+Token: ' lower' (ID: 4722), Prob: 0.0010
+Token: ' fill' (ID: 5155), Prob: 0.0010
+Token: ' kill' (ID: 5505), Prob: 0.0010
+Token: ' drive' (ID: 6541), Prob: 0.0010
+Token: ' spell' (ID: 12845), Prob: 0.0010
+Token: ' weigh' (ID: 17529), Prob: 0.0010
+Token: ' really' (ID: 2167), Prob: 0.0009
+Token: ''ve' (ID: 3003), Prob: 0.0009
+Token: ' otherwise' (ID: 5937), Prob: 0.0009
+Token: ' still' (ID: 2058), Prob: 0.0008
+Token: ' mar' (ID: 3594), Prob: 0.0008
+Token: ' add' (ID: 912), Prob: 0.0008
+Token: ' hurt' (ID: 12898), Prob: 0.0008
+Token: ' freeze' (ID: 29930), Prob: 0.0008
+Token: ' bury' (ID: 55344), Prob: 0.0008
+Token: ' hinder' (ID: 56680), Prob: 0.0008
+Token: ' affect' (ID: 7802), Prob: 0.0007
+Token: ' snow' (ID: 11794), Prob: 0.0007
+Token: ' threaten' (ID: 39150), Prob: 0.0007
+Token: ' scare' (ID: 42930), Prob: 0.0007
+Token: ' test' (ID: 1273), Prob: 0.0007
+Token: ' never' (ID: 2581), Prob: 0.0007
+Token: ' weather' (ID: 9104), Prob: 0.0007
+Token: ' trap' (ID: 22862), Prob: 0.0006
+Token: ' chill' (ID: 36301), Prob: 0.0006
+Token: ' probably' (ID: 4658), Prob: 0.0006
+Token: ' divide' (ID: 21749), Prob: 0.0006
+Token: ' erase' (ID: 35988), Prob: 0.0006
+Token: ' become' (ID: 3635), Prob: 0.0006
+Token: ' help' (ID: 1492), Prob: 0.0005
+Token: ' rain' (ID: 11174), Prob: 0.0005
+Token: ' normally' (ID: 14279), Prob: 0.0005
+Token: ' cut' (ID: 3931), Prob: 0.0005
+Token: ' appear' (ID: 4994), Prob: 0.0005
+Token: ' wipe' (ID: 39094), Prob: 0.0005
+Token: ' lead' (ID: 2990), Prob: 0.0005
+Token: ' slow' (ID: 6301), Prob: 0.0005
+Token: ' technically' (ID: 31554), Prob: 0.0005
+Token: ' create' (ID: 1855), Prob: 0.0004
+Token: ' hit' (ID: 4201), Prob: 0.0004
+Token: ' crush' (ID: 5030), Prob: 0.0004
+Token: ' carry' (ID: 6777), Prob: 0.0004
+Token: ' steal' (ID: 26571), Prob: 0.0004
+Token: ' presumably' (ID: 35448), Prob: 0.0004
+Token: ' swallow' (ID: 41176), Prob: 0.0004
+
+== Ranked Concepts (Clusters) ==
+Rank 1 | Concept Score: 0.2227
+  Tokens: [' make', ' get', ' take', ' keep', ' bring', ' try', ' reduce', ' give', ' add', ' help', ' create']
+Rank 2 | Concept Score: 0.0146
+  Tokens: [' potentially', ' possibly', ' somehow', ' sometimes', ' perhaps', ' maybe', ' probably', ' presumably']
+Rank 3 | Concept Score: 0.0114
+  Tokens: [' mask', ' hide', ' conce', ' obscure', ' silence']
+Rank 4 | Concept Score: 0.0110
+  Tokens: [' seem', ' look', ' come', ' become', ' appear']
+Rank 5 | Concept Score: 0.0081
+  Tokens: [' damage', ' wreak', ' ruin', ' hurt']
+Rank 6 | Concept Score: 0.0081
+  Tokens: [' stop', ' test']
+Rank 7 | Concept Score: 0.0070
+  Tokens: [' melt', ' wash', ' freeze', ' chill', ' erase', ' wipe']
+Rank 8 | Concept Score: 0.0069
+  Tokens: [' destroy', ' distract', ' disrupt']
+Rank 9 | Concept Score: 0.0065
+  Tokens: [' turn', ' break', ' fall']
+Rank 10 | Concept Score: 0.0063
+  Tokens: [' easily', ' otherwise', ' normally', ' technically']
+Rank 11 | Concept Score: 0.0063
+  Tokens: [' cause', ' prevent', ' affect']
+Rank 12 | Concept Score: 0.0062
+  Tokens: [' block', ' last', ' lower', ' mar', ' slow']
+Rank 13 | Concept Score: 0.0042
+  Tokens: [' mean', "'ve"]
+Rank 14 | Concept Score: 0.0037
+  Tokens: [' cover', ' lead']
+Rank 15 | Concept Score: 0.0036
+  Tokens: [' hold', ' fill', ' drive', ' carry']
+Rank 16 | Concept Score: 0.0033
+  Tokens: [' mess', ' hinder']
+Rank 17 | Concept Score: 0.0030
+  Tokens: [' tear', ' crush']
+Rank 18 | Concept Score: 0.0024
+  Tokens: [' really', ' still', ' never']
+Rank 19 | Concept Score: 0.0019
+  Tokens: [' snow', ' weather', ' rain']
+Rank 20 | Concept Score: 0.0016
+  Tokens: [' spell', ' trap']
+Rank 21 | Concept Score: 0.0015
+  Tokens: [' threaten', ' scare']
+Rank 22 | Concept Score: 0.0014
+  Tokens: [' kill', ' steal']
+Rank 23 | Concept Score: 0.0012
+  Tokens: [' bury', ' swallow']
+Rank 24 | Concept Score: 0.0010
+  Tokens: [' weigh']
+Rank 25 | Concept Score: 0.0009
+  Tokens: [' cut', ' hit']
+Rank 26 | Concept Score: 0.0006
+  Tokens: [' divide']
+
+**Chosen Concept:** Rank 1 with score 0.2227

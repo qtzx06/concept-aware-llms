@@ -1,0 +1,34 @@
+--- Step 2 Log ---
+
+== Filtered Candidates ==
+Token: 'ting' (ID: 1280), Prob: 0.0002
+Token: ' alone' (ID: 7484), Prob: 0.0001
+Token: ' say' (ID: 1977), Prob: 0.0001
+Token: ' today' (ID: 3351), Prob: 0.0001
+Token: ' two' (ID: 1378), Prob: 0.0001
+Token: 'zte' (ID: 89282), Prob: 0.0000
+Token: '_me' (ID: 16612), Prob: 0.0000
+Token: ' user' (ID: 1196), Prob: 0.0000
+Token: ' author' (ID: 3150), Prob: 0.0000
+
+== Ranked Concepts (Clusters) ==
+Rank 1 | Concept Score: 0.0002
+  Tokens: ['ting']
+Rank 2 | Concept Score: 0.0001
+  Tokens: [' alone']
+Rank 3 | Concept Score: 0.0001
+  Tokens: [' say']
+Rank 4 | Concept Score: 0.0001
+  Tokens: [' today']
+Rank 5 | Concept Score: 0.0001
+  Tokens: [' two']
+Rank 6 | Concept Score: 0.0000
+  Tokens: ['zte']
+Rank 7 | Concept Score: 0.0000
+  Tokens: ['_me']
+Rank 8 | Concept Score: 0.0000
+  Tokens: [' author']
+Rank 9 | Concept Score: 0.0000
+  Tokens: [' user']
+
+**Chosen Concept:** Rank 1 with score 0.0002
