@@ -1,0 +1,14 @@
+Metadata-Version: 2.4
+Name: concept-qwen
+Version: 0.1.0
+Summary: Concept-aware decoding for the Qwen model.
+Requires-Python: >=3.9
+Requires-Dist: torch>=2.0
+Requires-Dist: transformers>=4.40
+Requires-Dist: scikit-learn>=1.4
+Requires-Dist: numpy>=1.26
+Requires-Dist: nltk>=3.8
+Requires-Dist: datasets>=2.19
+Requires-Dist: sentence-transformers>=2.7
+Requires-Dist: matplotlib>=3.8
+Requires-Dist: pandas>=2.2
