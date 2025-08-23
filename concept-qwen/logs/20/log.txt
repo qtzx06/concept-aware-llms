@@ -1,154 +1,60 @@
 --- Step 20 Log ---
 
 == Filtered Candidates ==
-Token: ' froze' (ID: 89009), Prob: 0.2129
-Token: ''s' (ID: 594), Prob: 0.1289
-Token: '’s' (ID: 748), Prob: 0.0537
-Token: ' didn' (ID: 3207), Prob: 0.0417
-Token: ' watched' (ID: 15384), Prob: 0.0417
-Token: ' paused' (ID: 34495), Prob: 0.0288
-Token: ' had' (ID: 1030), Prob: 0.0254
-Token: ' felt' (ID: 6476), Prob: 0.0254
-Token: ' hes' (ID: 19779), Prob: 0.0210
-Token: ' blinked' (ID: 99032), Prob: 0.0210
-Token: ' stared' (ID: 44035), Prob: 0.0164
-Token: ' thought' (ID: 3381), Prob: 0.0120
-Token: ' knew' (ID: 6876), Prob: 0.0120
-Token: ' noticed' (ID: 13686), Prob: 0.0120
-Token: ' could' (ID: 1410), Prob: 0.0093
-Token: ' looked' (ID: 6966), Prob: 0.0093
-Token: ' stopped' (ID: 10497), Prob: 0.0093
-Token: ' did' (ID: 1521), Prob: 0.0088
-Token: ' couldn' (ID: 7691), Prob: 0.0088
-Token: ' stood' (ID: 14638), Prob: 0.0088
-Token: ' breathed' (ID: 91166), Prob: 0.0082
-Token: ' stepped' (ID: 24326), Prob: 0.0068
-Token: ' frowned' (ID: 76359), Prob: 0.0064
-Token: ' tried' (ID: 6679), Prob: 0.0060
-Token: ' was' (ID: 572), Prob: 0.0057
-Token: ' turned' (ID: 6519), Prob: 0.0053
-Token: ' raised' (ID: 9226), Prob: 0.0050
-Token: ' whispered' (ID: 57266), Prob: 0.0050
-Token: ' took' (ID: 3867), Prob: 0.0047
-Token: ' held' (ID: 5644), Prob: 0.0042
-Token: ' recognized' (ID: 14975), Prob: 0.0034
-Token: ' approached' (ID: 24706), Prob: 0.0030
-Token: ' pressed' (ID: 17320), Prob: 0.0029
-Token: ' tightened' (ID: 84720), Prob: 0.0025
-Token: ' pulled' (ID: 13238), Prob: 0.0024
-Token: ' narrowed' (ID: 72935), Prob: 0.0022
-Token: ' caught' (ID: 10568), Prob: 0.0020
-Token: ' slowly' (ID: 13970), Prob: 0.0020
-Token: ' stiff' (ID: 30061), Prob: 0.0020
-Token: ' leaned' (ID: 54839), Prob: 0.0018
-Token: ' gri' (ID: 22993), Prob: 0.0017
-Token: ' remembered' (ID: 26471), Prob: 0.0017
-Token: ' began' (ID: 6009), Prob: 0.0016
-Token: ' glanced' (ID: 64557), Prob: 0.0016
-Token: ' sensed' (ID: 88442), Prob: 0.0016
-Token: ' reached' (ID: 8643), Prob: 0.0014
-Token: ' tens' (ID: 22008), Prob: 0.0014
-Token: ' grew' (ID: 13938), Prob: 0.0013
-Token: ' ex' (ID: 505), Prob: 0.0012
-Token: ' saw' (ID: 5485), Prob: 0.0012
-Token: ' gas' (ID: 6819), Prob: 0.0012
-Token: ' drew' (ID: 23554), Prob: 0.0012
-Token: ' strained' (ID: 72679), Prob: 0.0011
-Token: ' called' (ID: 2598), Prob: 0.0010
-Token: ' hadn' (ID: 18604), Prob: 0.0010
-Token: ' lowered' (ID: 38820), Prob: 0.0010
-Token: ' sh' (ID: 557), Prob: 0.0010
-Token: ' wasn' (ID: 5710), Prob: 0.0010
-Token: ' realized' (ID: 15043), Prob: 0.0010
-Token: ' instinct' (ID: 30555), Prob: 0.0010
-Token: ' stirred' (ID: 74840), Prob: 0.0010
-Token: ' trem' (ID: 18162), Prob: 0.0009
-Token: ' c' (ID: 272), Prob: 0.0009
-Token: ' pe' (ID: 1051), Prob: 0.0009
-Token: ' heard' (ID: 6617), Prob: 0.0009
-Token: ' sighed' (ID: 52814), Prob: 0.0009
-Token: ' moved' (ID: 7726), Prob: 0.0008
-Token: ' kept' (ID: 8604), Prob: 0.0008
-Token: ' squ' (ID: 8167), Prob: 0.0007
-Token: ' shook' (ID: 34914), Prob: 0.0006
-Token: ' dropped' (ID: 12226), Prob: 0.0006
-Token: ' adjusted' (ID: 23368), Prob: 0.0006
-Token: ' initially' (ID: 15102), Prob: 0.0006
-Token: ' wiped' (ID: 48166), Prob: 0.0006
-Token: ' found' (ID: 1730), Prob: 0.0005
-Token: ' cl' (ID: 1185), Prob: 0.0005
-Token: ' made' (ID: 1865), Prob: 0.0005
-Token: ' feared' (ID: 37469), Prob: 0.0005
-Token: ' closed' (ID: 7877), Prob: 0.0005
-Token: ' noted' (ID: 10342), Prob: 0.0005
-Token: ' remained' (ID: 14616), Prob: 0.0005
-Token: ' startled' (ID: 88715), Prob: 0.0005
-Token: ' believed' (ID: 11585), Prob: 0.0004
-Token: ' waited' (ID: 29215), Prob: 0.0004
-Token: ' first' (ID: 1156), Prob: 0.0004
-Token: ' stayed' (ID: 19613), Prob: 0.0004
-Token: ' carefully' (ID: 15516), Prob: 0.0004
-Token: ' cautiously' (ID: 91385), Prob: 0.0004
-Token: ' sat' (ID: 7578), Prob: 0.0004
-Token: ' snapped' (ID: 47010), Prob: 0.0004
-Token: ' checked' (ID: 10067), Prob: 0.0003
-Token: ' observed' (ID: 13166), Prob: 0.0003
-Token: ' slowed' (ID: 47846), Prob: 0.0003
-Token: ' clen' (ID: 84934), Prob: 0.0003
-Token: ' quietly' (ID: 29566), Prob: 0.0003
-Token: ' quickly' (ID: 6157), Prob: 0.0003
-Token: ' eyed' (ID: 90672), Prob: 0.0003
-Token: ' st' (ID: 357), Prob: 0.0003
-Token: ' nearly' (ID: 7009), Prob: 0.0003
+Token: ' water' (ID: 3015), Prob: 0.7578
+Token: ' weather' (ID: 9104), Prob: 0.1162
+Token: ' rain' (ID: 11174), Prob: 0.0115
+Token: ' temperature' (ID: 9315), Prob: 0.0115
+Token: ' wind' (ID: 9956), Prob: 0.0090
+Token: ' waters' (ID: 20520), Prob: 0.0040
+Token: ' cold' (ID: 9255), Prob: 0.0035
+Token: ' storm' (ID: 13458), Prob: 0.0031
+Token: ' night' (ID: 3729), Prob: 0.0031
+Token: ' music' (ID: 4627), Prob: 0.0027
+Token: ' air' (ID: 3720), Prob: 0.0026
+Token: ' sky' (ID: 12884), Prob: 0.0014
+Token: ' sun' (ID: 7015), Prob: 0.0014
+Token: ' ocean' (ID: 17951), Prob: 0.0013
+Token: ' snow' (ID: 11794), Prob: 0.0013
+Token: ' conditions' (ID: 4682), Prob: 0.0011
+Token: ' ice' (ID: 9853), Prob: 0.0011
+Token: ' river' (ID: 14796), Prob: 0.0009
+Token: ' atmosphere' (ID: 16566), Prob: 0.0009
+Token: ' sea' (ID: 9396), Prob: 0.0009
+Token: ' people' (ID: 1251), Prob: 0.0008
+Token: ' heat' (ID: 8628), Prob: 0.0007
+Token: ' temperatures' (ID: 19879), Prob: 0.0007
+Token: ' kids' (ID: 6837), Prob: 0.0007
+Token: ' world' (ID: 1879), Prob: 0.0006
 
 == Ranked Concepts (Clusters) ==
-Rank 1 | Centroid: ' took' | Score: 0.2217
-  Tokens: [' froze', ' took', ' began', ' grew', ' drew']
-Rank 2 | Centroid: ''s' | Score: 0.1826
-  Tokens: ["'s", '’s']
-Rank 3 | Centroid: ' didn' | Score: 0.1138
-  Tokens: [' didn', ' had', ' knew', ' could', ' did', ' couldn', ' was', ' hadn', ' wasn']
-Rank 4 | Centroid: ' glanced' | Score: 0.0483
-  Tokens: [' blinked', ' stared', ' frowned', ' leaned', ' glanced', ' sighed', ' eyed']
-Rank 5 | Centroid: ' checked' | Score: 0.0481
-  Tokens: [' watched', ' tried', ' checked']
-Rank 6 | Centroid: ' stopped' | Score: 0.0454
-  Tokens: [' paused', ' stopped', ' stepped', ' slowed']
-Rank 7 | Centroid: ' believed' | Score: 0.0400
-  Tokens: [' felt', ' thought', ' remembered', ' feared', ' believed']
-Rank 8 | Centroid: ' hes' | Score: 0.0210
-  Tokens: [' hes']
-Rank 9 | Centroid: ' noticed' | Score: 0.0209
-  Tokens: [' noticed', ' recognized', ' sensed', ' saw', ' realized', ' heard', ' noted', ' observed']
-Rank 10 | Centroid: ' moved' | Score: 0.0141
-  Tokens: [' turned', ' raised', ' pulled', ' moved', ' dropped']
-Rank 11 | Centroid: ' looked' | Score: 0.0124
-  Tokens: [' looked', ' approached']
-Rank 12 | Centroid: ' shook' | Score: 0.0099
-  Tokens: [' breathed', ' stirred', ' shook']
-Rank 13 | Centroid: ' stood' | Score: 0.0092
-  Tokens: [' stood', ' sat']
-Rank 14 | Centroid: ' tightened' | Score: 0.0068
-  Tokens: [' tightened', ' narrowed', ' lowered', ' adjusted', ' closed']
-Rank 15 | Centroid: ' strained' | Score: 0.0066
-  Tokens: [' stiff', ' gri', ' tens', ' strained', ' clen']
-Rank 16 | Centroid: ' whispered' | Score: 0.0065
-  Tokens: [' whispered', ' instinct', ' startled']
-Rank 17 | Centroid: ' c' | Score: 0.0058
-  Tokens: [' ex', ' sh', ' c', ' pe', ' squ', ' cl', ' first', ' st']
-Rank 18 | Centroid: ' held' | Score: 0.0049
-  Tokens: [' held', ' kept']
-Rank 19 | Centroid: ' pressed' | Score: 0.0048
-  Tokens: [' pressed', ' caught']
-Rank 20 | Centroid: ' cautiously' | Score: 0.0042
-  Tokens: [' slowly', ' initially', ' carefully', ' cautiously', ' quietly', ' quickly', ' nearly']
-Rank 21 | Centroid: ' made' | Score: 0.0035
-  Tokens: [' reached', ' called', ' found', ' made']
-Rank 22 | Centroid: ' gas' | Score: 0.0021
-  Tokens: [' gas', ' trem']
-Rank 23 | Centroid: ' stayed' | Score: 0.0013
-  Tokens: [' remained', ' waited', ' stayed']
-Rank 24 | Centroid: ' wiped' | Score: 0.0009
-  Tokens: [' wiped', ' snapped']
+Rank 1 | Centroid: ' water' | Score: 0.7617
+  Tokens: [' water', ' waters']
+Rank 2 | Centroid: ' rain' | Score: 0.1309
+  Tokens: [' weather', ' rain', ' storm']
+Rank 3 | Centroid: ' temperature' | Score: 0.0130
+  Tokens: [' temperature', ' heat', ' temperatures']
+Rank 4 | Centroid: ' wind' | Score: 0.0090
+  Tokens: [' wind']
+Rank 5 | Centroid: ' ice' | Score: 0.0059
+  Tokens: [' cold', ' snow', ' ice']
+Rank 6 | Centroid: ' people' | Score: 0.0042
+  Tokens: [' music', ' people', ' kids']
+Rank 7 | Centroid: ' ocean' | Score: 0.0031
+  Tokens: [' ocean', ' river', ' sea']
+Rank 8 | Centroid: ' night' | Score: 0.0031
+  Tokens: [' night']
+Rank 9 | Centroid: ' air' | Score: 0.0026
+  Tokens: [' air']
+Rank 10 | Centroid: ' sky' | Score: 0.0014
+  Tokens: [' sky']
+Rank 11 | Centroid: ' sun' | Score: 0.0014
+  Tokens: [' sun']
+Rank 12 | Centroid: ' conditions' | Score: 0.0011
+  Tokens: [' conditions']
+Rank 13 | Centroid: ' atmosphere' | Score: 0.0009
+  Tokens: [' atmosphere']
+Rank 14 | Centroid: ' world' | Score: 0.0006
+  Tokens: [' world']
 
 **Chosen Concept:** Rank 1

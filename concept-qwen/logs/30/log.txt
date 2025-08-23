@@ -1,155 +1,60 @@
 --- Step 30 Log ---
 
 == Filtered Candidates ==
-Token: ' figure' (ID: 7071), Prob: 0.9453
-Token: ' fog' (ID: 30249), Prob: 0.0222
-Token: ' beam' (ID: 23418), Prob: 0.0093
-Token: ' light' (ID: 3100), Prob: 0.0056
-Token: ' creature' (ID: 17218), Prob: 0.0034
-Token: ' shape' (ID: 6083), Prob: 0.0027
-Token: ' wind' (ID: 9956), Prob: 0.0021
-Token: ' man' (ID: 883), Prob: 0.0010
-Token: ' shadow' (ID: 12455), Prob: 0.0009
-Token: ' thing' (ID: 3166), Prob: 0.0008
-Token: ' silhouette' (ID: 56727), Prob: 0.0008
-Token: ' sea' (ID: 9396), Prob: 0.0006
-Token: ' form' (ID: 1352), Prob: 0.0004
-Token: ' presence' (ID: 9362), Prob: 0.0004
-Token: ' silence' (ID: 21162), Prob: 0.0003
-Token: ' ghost' (ID: 19866), Prob: 0.0003
-Token: ' stranger' (ID: 33958), Prob: 0.0003
-Token: ' image' (ID: 2168), Prob: 0.0003
-Token: ' entity' (ID: 5387), Prob: 0.0003
-Token: ' cold' (ID: 9255), Prob: 0.0003
-Token: ' air' (ID: 3720), Prob: 0.0002
-Token: ' mist' (ID: 8600), Prob: 0.0002
-Token: ' being' (ID: 1660), Prob: 0.0002
-Token: ' sound' (ID: 5112), Prob: 0.0002
-Token: ' movement' (ID: 7203), Prob: 0.0002
-Token: ' glow' (ID: 35966), Prob: 0.0002
-Token: ' only' (ID: 1172), Prob: 0.0001
-Token: ' lights' (ID: 12711), Prob: 0.0001
-Token: ' moment' (ID: 4445), Prob: 0.0001
-Token: ' pattern' (ID: 5383), Prob: 0.0001
-Token: ' outline' (ID: 21101), Prob: 0.0001
-Token: ' object' (ID: 1633), Prob: 0.0001
-Token: ' w' (ID: 289), Prob: 0.0001
-Token: ' first' (ID: 1156), Prob: 0.0001
-Token: ' darkness' (ID: 26298), Prob: 0.0001
-Token: ' shadows' (ID: 34512), Prob: 0.0001
-Token: ' last' (ID: 1537), Prob: 0.0000
-Token: ' voice' (ID: 7743), Prob: 0.0000
-Token: ' strange' (ID: 14888), Prob: 0.0000
-Token: ' figures' (ID: 12396), Prob: 0.0000
-Token: ' l' (ID: 326), Prob: 0.0000
-Token: ' signal' (ID: 8286), Prob: 0.0000
-Token: ' next' (ID: 1790), Prob: 0.0000
-Token: ' ship' (ID: 8284), Prob: 0.0000
-Token: ' sight' (ID: 13929), Prob: 0.0000
-Token: ' rhythm' (ID: 36290), Prob: 0.0000
-Token: ' lantern' (ID: 73165), Prob: 0.0000
-Token: ' world' (ID: 1879), Prob: 0.0000
-Token: ' motion' (ID: 11379), Prob: 0.0000
-Token: ' wave' (ID: 12060), Prob: 0.0000
-Token: ' boat' (ID: 15328), Prob: 0.0000
-Token: ' waves' (ID: 16876), Prob: 0.0000
-Token: ' whisper' (ID: 34855), Prob: 0.0000
-Token: ' g' (ID: 342), Prob: 0.0000
-Token: ' appar' (ID: 33288), Prob: 0.0000
-Token: ' faint' (ID: 37578), Prob: 0.0000
-Token: ' same' (ID: 1852), Prob: 0.0000
-Token: ' dark' (ID: 6319), Prob: 0.0000
-Token: ' vision' (ID: 11129), Prob: 0.0000
-Token: ' night' (ID: 3729), Prob: 0.0000
-Token: ' temperature' (ID: 9315), Prob: 0.0000
-Token: ' hand' (ID: 1424), Prob: 0.0000
-Token: ' vessel' (ID: 26182), Prob: 0.0000
-Token: ' unknown' (ID: 9788), Prob: 0.0000
-Token: ' frequency' (ID: 11639), Prob: 0.0000
-Token: ' lamp' (ID: 27962), Prob: 0.0000
-Token: ' h' (ID: 305), Prob: 0.0000
-Token: ' tide' (ID: 41938), Prob: 0.0000
-Token: ' face' (ID: 3579), Prob: 0.0000
-Token: ' moon' (ID: 17788), Prob: 0.0000
-Token: ' distant' (ID: 28727), Prob: 0.0000
-Token: ' beacon' (ID: 51302), Prob: 0.0000
-Token: ' f' (ID: 282), Prob: 0.0000
-Token: ' reflection' (ID: 21844), Prob: 0.0000
-Token: ' rhyth' (ID: 28071), Prob: 0.0000
-Token: ' beast' (ID: 31136), Prob: 0.0000
-Token: ' eyes' (ID: 6414), Prob: 0.0000
-Token: ' storm' (ID: 13458), Prob: 0.0000
-Token: ' phantom' (ID: 69708), Prob: 0.0000
-Token: ' mystery' (ID: 22531), Prob: 0.0000
-Token: ' flick' (ID: 28347), Prob: 0.0000
-Token: ' beams' (ID: 49945), Prob: 0.0000
-Token: ' flashlight' (ID: 78415), Prob: 0.0000
-Token: ' water' (ID: 3015), Prob: 0.0000
-Token: ' human' (ID: 3738), Prob: 0.0000
-Token: ' coast' (ID: 13648), Prob: 0.0000
-Token: ' ocean' (ID: 17951), Prob: 0.0000
-Token: ' sil' (ID: 5437), Prob: 0.0000
-Token: ' structure' (ID: 5944), Prob: 0.0000
-Token: ' breath' (ID: 11486), Prob: 0.0000
-Token: ' breeze' (ID: 45285), Prob: 0.0000
-Token: ' footsteps' (ID: 59702), Prob: 0.0000
-Token: ' spect' (ID: 9431), Prob: 0.0000
-Token: ' tall' (ID: 16217), Prob: 0.0000
-Token: ' thought' (ID: 3381), Prob: 0.0000
-Token: ' woman' (ID: 5220), Prob: 0.0000
-Token: ' tower' (ID: 21271), Prob: 0.0000
-Token: ' spectral' (ID: 55977), Prob: 0.0000
-Token: ' r' (ID: 435), Prob: 0.0000
-Token: ' person' (ID: 1697), Prob: 0.0000
+Token: ' water' (ID: 3015), Prob: 0.9844
+Token: ' temperature' (ID: 9315), Prob: 0.0011
+Token: ' cold' (ID: 9255), Prob: 0.0008
+Token: ' weather' (ID: 9104), Prob: 0.0007
+Token: ' wind' (ID: 9956), Prob: 0.0006
+Token: ' waters' (ID: 20520), Prob: 0.0005
+Token: ' storm' (ID: 13458), Prob: 0.0005
+Token: ' rain' (ID: 11174), Prob: 0.0004
+Token: ' air' (ID: 3720), Prob: 0.0004
+Token: ' drugs' (ID: 10975), Prob: 0.0003
+Token: ' music' (ID: 4627), Prob: 0.0003
+Token: ' river' (ID: 14796), Prob: 0.0002
+Token: ' snow' (ID: 11794), Prob: 0.0002
+Token: ' drug' (ID: 5506), Prob: 0.0002
+Token: ' environment' (ID: 4573), Prob: 0.0002
+Token: ' ice' (ID: 9853), Prob: 0.0002
+Token: ' climate' (ID: 9977), Prob: 0.0001
+Token: ' ocean' (ID: 17951), Prob: 0.0001
+Token: ' atmosphere' (ID: 16566), Prob: 0.0001
+Token: ' night' (ID: 3729), Prob: 0.0001
+Token: ' conditions' (ID: 4682), Prob: 0.0001
+Token: ' chemicals' (ID: 25266), Prob: 0.0001
+Token: ' sea' (ID: 9396), Prob: 0.0001
+Token: ' drink' (ID: 7027), Prob: 0.0001
+Token: ' man' (ID: 883), Prob: 0.0001
 
 == Ranked Concepts (Clusters) ==
-Rank 1 | Centroid: ' figure' | Score: 0.9453
-  Tokens: [' figure', ' figures']
-Rank 2 | Centroid: ' fog' | Score: 0.0225
-  Tokens: [' fog', ' mist', ' faint', ' flick']
-Rank 3 | Centroid: ' beam' | Score: 0.0093
-  Tokens: [' beam', ' beacon', ' beams']
-Rank 4 | Centroid: ' lights' | Score: 0.0060
-  Tokens: [' light', ' glow', ' lights', ' lantern', ' lamp', ' flashlight']
-Rank 5 | Centroid: ' creature' | Score: 0.0045
-  Tokens: [' creature', ' thing', ' entity', ' object', ' beast', ' woman', ' person']
-Rank 6 | Centroid: ' shape' | Score: 0.0034
-  Tokens: [' shape', ' form', ' image', ' pattern', ' structure']
-Rank 7 | Centroid: ' wind' | Score: 0.0023
-  Tokens: [' wind', ' air', ' tide', ' storm', ' water', ' breeze']
-Rank 8 | Centroid: ' r' | Score: 0.0017
-  Tokens: [' man', ' being', ' only', ' w', ' first', ' last', ' l', ' next', ' world', ' g', ' same', ' hand', ' h', ' f', ' human', ' r']
-Rank 9 | Centroid: ' shadow' | Score: 0.0012
-  Tokens: [' shadow', ' ghost', ' shadows', ' phantom']
-Rank 10 | Centroid: ' silence' | Score: 0.0011
-  Tokens: [' silhouette', ' silence', ' whisper', ' sil']
-Rank 11 | Centroid: ' boat' | Score: 0.0007
-  Tokens: [' sea', ' ship', ' boat', ' vessel', ' coast', ' ocean']
-Rank 12 | Centroid: ' eyes' | Score: 0.0005
-  Tokens: [' presence', ' sight', ' vision', ' face', ' eyes', ' thought']
-Rank 13 | Centroid: ' strange' | Score: 0.0004
-  Tokens: [' stranger', ' strange', ' unknown', ' distant', ' mystery']
-Rank 14 | Centroid: ' movement' | Score: 0.0003
-  Tokens: [' movement', ' moment', ' motion']
-Rank 15 | Centroid: ' sound' | Score: 0.0003
-  Tokens: [' sound', ' voice', ' signal']
-Rank 16 | Centroid: ' cold' | Score: 0.0003
+Rank 1 | Centroid: ' water' | Score: 0.9844
+  Tokens: [' water', ' waters']
+Rank 2 | Centroid: ' weather' | Score: 0.0014
+  Tokens: [' weather', ' wind']
+Rank 3 | Centroid: ' temperature' | Score: 0.0012
+  Tokens: [' temperature', ' climate']
+Rank 4 | Centroid: ' storm' | Score: 0.0009
+  Tokens: [' storm', ' rain']
+Rank 5 | Centroid: ' cold' | Score: 0.0008
   Tokens: [' cold']
-Rank 17 | Centroid: ' darkness' | Score: 0.0001
-  Tokens: [' darkness', ' dark', ' night', ' moon']
-Rank 18 | Centroid: ' outline' | Score: 0.0001
-  Tokens: [' outline', ' reflection']
-Rank 19 | Centroid: ' rhyth' | Score: 0.0001
-  Tokens: [' rhythm', ' rhyth', ' breath', ' footsteps']
-Rank 20 | Centroid: ' wave' | Score: 0.0001
-  Tokens: [' wave', ' waves']
-Rank 21 | Centroid: ' spectral' | Score: 0.0001
-  Tokens: [' appar', ' frequency', ' spect', ' spectral']
-Rank 22 | Centroid: ' temperature' | Score: 0.0000
-  Tokens: [' temperature']
-Rank 23 | Centroid: ' tall' | Score: 0.0000
-  Tokens: [' tall']
-Rank 24 | Centroid: ' tower' | Score: 0.0000
-  Tokens: [' tower']
+Rank 6 | Centroid: ' air' | Score: 0.0007
+  Tokens: [' air', ' music']
+Rank 7 | Centroid: ' drugs' | Score: 0.0006
+  Tokens: [' drugs', ' drug', ' chemicals']
+Rank 8 | Centroid: ' ocean' | Score: 0.0004
+  Tokens: [' river', ' ocean', ' sea']
+Rank 9 | Centroid: ' snow' | Score: 0.0003
+  Tokens: [' snow', ' ice']
+Rank 10 | Centroid: ' environment' | Score: 0.0003
+  Tokens: [' environment', ' atmosphere']
+Rank 11 | Centroid: ' night' | Score: 0.0001
+  Tokens: [' night']
+Rank 12 | Centroid: ' conditions' | Score: 0.0001
+  Tokens: [' conditions']
+Rank 13 | Centroid: ' drink' | Score: 0.0001
+  Tokens: [' drink']
+Rank 14 | Centroid: ' man' | Score: 0.0001
+  Tokens: [' man']
 
 **Chosen Concept:** Rank 1

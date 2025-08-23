@@ -1,0 +1,17 @@
+# Virtual Environment
+.venv/
+
+# Environment Variables
+.env
+*.env.*
+
+# IDE / Editor specific
+.vscode/
+.idea/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# linting
+.ruff_cache

@@ -1,0 +1,59 @@
+--- Step 5 Log ---
+
+== Filtered Candidates ==
+Token: ' bad' (ID: 3873), Prob: 0.1357
+Token: ' so' (ID: 773), Prob: 0.0684
+Token: ' a' (ID: 264), Prob: 0.0564
+Token: ' terrible' (ID: 17478), Prob: 0.0303
+Token: ' cold' (ID: 9255), Prob: 0.0284
+Token: ' not' (ID: 537), Prob: 0.0195
+Token: ' the' (ID: 279), Prob: 0.0183
+Token: ' really' (ID: 2167), Prob: 0.0162
+Token: ' all' (ID: 678), Prob: 0.0126
+Token: ' getting' (ID: 3709), Prob: 0.0126
+Token: ' very' (ID: 1602), Prob: 0.0118
+Token: ' storm' (ID: 13458), Prob: 0.0118
+Token: ' just' (ID: 1101), Prob: 0.0118
+Token: ' like' (ID: 1075), Prob: 0.0118
+Token: ' in' (ID: 304), Prob: 0.0118
+Token: ' such' (ID: 1741), Prob: 0.0111
+Token: ' on' (ID: 389), Prob: 0.0092
+Token: ' still' (ID: 2058), Prob: 0.0072
+Token: ' described' (ID: 7481), Prob: 0.0067
+Token: ' too' (ID: 2238), Prob: 0.0063
+Token: ' going' (ID: 2087), Prob: 0.0063
+Token: ' worse' (ID: 10960), Prob: 0.0063
+Token: ' dark' (ID: 6319), Prob: 0.0060
+Token: ' clear' (ID: 2797), Prob: 0.0056
+
+== Ranked Concepts (Clusters) ==
+Rank 1 | Centroid: ' terrible' | Score: 0.1719
+  Tokens: [' bad', ' terrible', ' worse']
+Rank 2 | Centroid: ' the' | Score: 0.1084
+  Tokens: [' a', ' the', ' all', ' in', ' on']
+Rank 3 | Centroid: ' so' | Score: 0.0684
+  Tokens: [' so']
+Rank 4 | Centroid: ' cold' | Score: 0.0344
+  Tokens: [' cold', ' dark']
+Rank 5 | Centroid: ' really' | Score: 0.0281
+  Tokens: [' really', ' very']
+Rank 6 | Centroid: ' like' | Score: 0.0229
+  Tokens: [' like', ' such']
+Rank 7 | Centroid: ' not' | Score: 0.0195
+  Tokens: [' not']
+Rank 8 | Centroid: ' getting' | Score: 0.0190
+  Tokens: [' getting', ' going']
+Rank 9 | Centroid: ' storm' | Score: 0.0118
+  Tokens: [' storm']
+Rank 10 | Centroid: ' just' | Score: 0.0118
+  Tokens: [' just']
+Rank 11 | Centroid: ' still' | Score: 0.0072
+  Tokens: [' still']
+Rank 12 | Centroid: ' described' | Score: 0.0067
+  Tokens: [' described']
+Rank 13 | Centroid: ' too' | Score: 0.0063
+  Tokens: [' too']
+Rank 14 | Centroid: ' clear' | Score: 0.0056
+  Tokens: [' clear']
+
+**Chosen Concept:** Rank 1

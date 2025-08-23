@@ -265,7 +265,7 @@ def main():
     ####### MANUAL PROMPTING #######
     ################################
     
-    prompt = "The old lighthouse keeper stood on the catwalk, the beam of light cutting through the thick fog. He had manned this post for thirty years, and tonight, for the first time, he saw something in the mist that wasn't the sea."
+    prompt = "It was stormy and the water was cold cocaine drugs bad stuff"
     
     run_baseline(prompt, model, tokenizer, baseline_config)
     

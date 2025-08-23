@@ -1,0 +1,60 @@
+--- Step 2 Log ---
+
+== Filtered Candidates ==
+Token: ' The' (ID: 576), Prob: 0.1855
+Token: ' I' (ID: 358), Prob: 0.0825
+Token: ' What' (ID: 3555), Prob: 0.0776
+Token: ' So' (ID: 2055), Prob: 0.0500
+Token: ' It' (ID: 1084), Prob: 0.0284
+Token: ' But' (ID: 1988), Prob: 0.0267
+Token: ' That' (ID: 2938), Prob: 0.0236
+Token: ' They' (ID: 2379), Prob: 0.0162
+Token: ' Maybe' (ID: 10696), Prob: 0.0153
+Token: ' He' (ID: 1260), Prob: 0.0134
+Token: ' Then' (ID: 5005), Prob: 0.0126
+Token: ' A' (ID: 362), Prob: 0.0126
+Token: ' This' (ID: 1096), Prob: 0.0112
+Token: ' You' (ID: 1446), Prob: 0.0105
+Token: ' And' (ID: 1597), Prob: 0.0105
+Token: ' How' (ID: 2585), Prob: 0.0098
+Token: ' She' (ID: 2932), Prob: 0.0092
+Token: ' All' (ID: 2009), Prob: 0.0077
+Token: ' Let' (ID: 6771), Prob: 0.0072
+Token: ' the' (ID: 279), Prob: 0.0063
+Token: ' There' (ID: 2619), Prob: 0.0063
+Token: ' In' (ID: 758), Prob: 0.0056
+Token: ' Now' (ID: 4695), Prob: 0.0053
+
+== Ranked Concepts (Clusters) ==
+Rank 1 | Centroid: ' The' | Score: 0.1914
+  Tokens: [' The', ' the']
+Rank 2 | Centroid: ' I' | Score: 0.0952
+  Tokens: [' I', ' A']
+Rank 3 | Centroid: ' What' | Score: 0.0874
+  Tokens: [' What', ' How']
+Rank 4 | Centroid: ' So' | Score: 0.0500
+  Tokens: [' So']
+Rank 5 | Centroid: ' This' | Score: 0.0459
+  Tokens: [' It', ' This', ' There']
+Rank 6 | Centroid: ' But' | Score: 0.0371
+  Tokens: [' But', ' And']
+Rank 7 | Centroid: ' They' | Score: 0.0267
+  Tokens: [' They', ' You']
+Rank 8 | Centroid: ' That' | Score: 0.0236
+  Tokens: [' That']
+Rank 9 | Centroid: ' He' | Score: 0.0227
+  Tokens: [' He', ' She']
+Rank 10 | Centroid: ' Maybe' | Score: 0.0153
+  Tokens: [' Maybe']
+Rank 11 | Centroid: ' Then' | Score: 0.0126
+  Tokens: [' Then']
+Rank 12 | Centroid: ' All' | Score: 0.0077
+  Tokens: [' All']
+Rank 13 | Centroid: ' Let' | Score: 0.0072
+  Tokens: [' Let']
+Rank 14 | Centroid: ' In' | Score: 0.0056
+  Tokens: [' In']
+Rank 15 | Centroid: ' Now' | Score: 0.0053
+  Tokens: [' Now']
+
+**Chosen Concept:** Rank 1

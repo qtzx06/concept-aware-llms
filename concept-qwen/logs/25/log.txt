@@ -1,0 +1,60 @@
+--- Step 25 Log ---
+
+== Filtered Candidates ==
+Token: ' weather' (ID: 9104), Prob: 0.4785
+Token: ' water' (ID: 3015), Prob: 0.0942
+Token: ' storm' (ID: 13458), Prob: 0.0186
+Token: ' sentence' (ID: 11652), Prob: 0.0145
+Token: ' temperature' (ID: 9315), Prob: 0.0128
+Token: ' first' (ID: 1156), Prob: 0.0088
+Token: ' person' (ID: 1697), Prob: 0.0082
+Token: ' rain' (ID: 11174), Prob: 0.0077
+Token: ' scene' (ID: 6109), Prob: 0.0073
+Token: ' user' (ID: 1196), Prob: 0.0068
+Token: ' situation' (ID: 6534), Prob: 0.0060
+Token: ' problem' (ID: 3491), Prob: 0.0053
+Token: ' wind' (ID: 9956), Prob: 0.0050
+Token: ' answer' (ID: 4226), Prob: 0.0047
+Token: ' man' (ID: 883), Prob: 0.0047
+Token: ' narrator' (ID: 64171), Prob: 0.0044
+Token: ' statement' (ID: 5114), Prob: 0.0044
+Token: ' only' (ID: 1172), Prob: 0.0044
+Token: ' text' (ID: 1467), Prob: 0.0042
+Token: ' words' (ID: 4244), Prob: 0.0042
+Token: ' sentences' (ID: 22870), Prob: 0.0042
+Token: ' sky' (ID: 12884), Prob: 0.0042
+Token: ' description' (ID: 4008), Prob: 0.0039
+Token: ' story' (ID: 3364), Prob: 0.0039
+Token: ' speaker' (ID: 18601), Prob: 0.0036
+
+== Ranked Concepts (Clusters) ==
+Rank 1 | Centroid: ' rain' | Score: 0.5117
+  Tokens: [' weather', ' storm', ' rain', ' wind']
+Rank 2 | Centroid: ' water' | Score: 0.1011
+  Tokens: [' water', ' user']
+Rank 3 | Centroid: ' sentences' | Score: 0.0227
+  Tokens: [' sentence', ' words', ' sentences']
+Rank 4 | Centroid: ' scene' | Score: 0.0133
+  Tokens: [' scene', ' situation']
+Rank 5 | Centroid: ' first' | Score: 0.0132
+  Tokens: [' first', ' only']
+Rank 6 | Centroid: ' person' | Score: 0.0129
+  Tokens: [' person', ' man']
+Rank 7 | Centroid: ' temperature' | Score: 0.0128
+  Tokens: [' temperature']
+Rank 8 | Centroid: ' statement' | Score: 0.0083
+  Tokens: [' statement', ' description']
+Rank 9 | Centroid: ' narrator' | Score: 0.0081
+  Tokens: [' narrator', ' speaker']
+Rank 10 | Centroid: ' problem' | Score: 0.0053
+  Tokens: [' problem']
+Rank 11 | Centroid: ' answer' | Score: 0.0047
+  Tokens: [' answer']
+Rank 12 | Centroid: ' text' | Score: 0.0042
+  Tokens: [' text']
+Rank 13 | Centroid: ' sky' | Score: 0.0042
+  Tokens: [' sky']
+Rank 14 | Centroid: ' story' | Score: 0.0039
+  Tokens: [' story']
+
+**Chosen Concept:** Rank 1

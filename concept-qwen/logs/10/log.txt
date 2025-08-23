@@ -1,149 +1,57 @@
 --- Step 10 Log ---
 
 == Filtered Candidates ==
-Token: ' moving' (ID: 7218), Prob: 0.5391
-Token: ' standing' (ID: 11259), Prob: 0.2256
-Token: ' clo' (ID: 5292), Prob: 0.0347
-Token: ' dressed' (ID: 25365), Prob: 0.0305
-Token: ' wearing' (ID: 12233), Prob: 0.0210
-Token: ' walking' (ID: 11435), Prob: 0.0186
-Token: ' with' (ID: 448), Prob: 0.0127
-Token: ' almost' (ID: 4558), Prob: 0.0127
-Token: ' wrapped' (ID: 19472), Prob: 0.0127
-Token: ' sil' (ID: 5437), Prob: 0.0112
-Token: ' like' (ID: 1075), Prob: 0.0068
-Token: ' shaped' (ID: 26271), Prob: 0.0068
-Token: ' drifting' (ID: 84253), Prob: 0.0050
-Token: ' draped' (ID: 89880), Prob: 0.0050
-Token: ' sh' (ID: 557), Prob: 0.0039
-Token: ' motion' (ID: 11379), Prob: 0.0034
-Token: ' seemingly' (ID: 22660), Prob: 0.0027
-Token: ' outlined' (ID: 32640), Prob: 0.0021
-Token: ' stepping' (ID: 35467), Prob: 0.0018
-Token: ' barely' (ID: 19460), Prob: 0.0017
-Token: ' half' (ID: 4279), Prob: 0.0014
-Token: ' in' (ID: 304), Prob: 0.0013
-Token: ' just' (ID: 1101), Prob: 0.0013
-Token: ' watching' (ID: 10099), Prob: 0.0013
-Token: ' gl' (ID: 2770), Prob: 0.0012
-Token: ' shimmer' (ID: 75361), Prob: 0.0012
-Token: ' and' (ID: 323), Prob: 0.0011
-Token: ' made' (ID: 1865), Prob: 0.0010
-Token: ' cloth' (ID: 27292), Prob: 0.0010
-Token: ' pacing' (ID: 82140), Prob: 0.0010
-Token: ' frozen' (ID: 19690), Prob: 0.0009
-Token: ' clad' (ID: 82758), Prob: 0.0009
-Token: ' perhaps' (ID: 8365), Prob: 0.0008
-Token: ' slowly' (ID: 13970), Prob: 0.0008
-Token: ' partially' (ID: 25244), Prob: 0.0008
-Token: ' floating' (ID: 19057), Prob: 0.0007
-Token: ' nearly' (ID: 7009), Prob: 0.0007
-Token: ' advancing' (ID: 43069), Prob: 0.0007
-Token: ' h' (ID: 305), Prob: 0.0005
-Token: ' not' (ID: 537), Prob: 0.0005
-Token: ' silent' (ID: 21059), Prob: 0.0005
-Token: ' emerging' (ID: 23206), Prob: 0.0005
-Token: ' flick' (ID: 28347), Prob: 0.0005
-Token: ' leaning' (ID: 48348), Prob: 0.0005
-Token: ' that' (ID: 429), Prob: 0.0005
-Token: ' its' (ID: 1181), Prob: 0.0004
-Token: ' g' (ID: 342), Prob: 0.0004
-Token: ' c' (ID: 272), Prob: 0.0004
-Token: ' holding' (ID: 9963), Prob: 0.0004
-Token: ' clearly' (ID: 9355), Prob: 0.0003
-Token: ' silently' (ID: 49394), Prob: 0.0003
-Token: ' woven' (ID: 55774), Prob: 0.0003
-Token: ' illuminated' (ID: 74548), Prob: 0.0003
-Token: ' ve' (ID: 5208), Prob: 0.0003
-Token: ' sw' (ID: 2021), Prob: 0.0003
-Token: ' carved' (ID: 48167), Prob: 0.0003
-Token: ' yet' (ID: 3602), Prob: 0.0003
-Token: ' marching' (ID: 61098), Prob: 0.0003
-Token: ' but' (ID: 714), Prob: 0.0003
-Token: ' appearing' (ID: 25377), Prob: 0.0003
-Token: ' glowing' (ID: 48492), Prob: 0.0003
-Token: ' shadow' (ID: 12455), Prob: 0.0002
-Token: ' somehow' (ID: 16925), Prob: 0.0002
-Token: ' as' (ID: 438), Prob: 0.0002
-Token: ' perfectly' (ID: 13942), Prob: 0.0002
-Token: ' a' (ID: 264), Prob: 0.0002
-Token: ' slightly' (ID: 10078), Prob: 0.0002
-Token: ' marked' (ID: 12864), Prob: 0.0002
-Token: ' slipping' (ID: 63702), Prob: 0.0002
-Token: ' still' (ID: 2058), Prob: 0.0002
-Token: ' resembling' (ID: 70607), Prob: 0.0002
-Token: ' seeming' (ID: 75695), Prob: 0.0002
-Token: ' weaving' (ID: 83609), Prob: 0.0002
-Token: ' movement' (ID: 7203), Prob: 0.0002
-Token: ' something' (ID: 2494), Prob: 0.0002
-Token: ' shape' (ID: 6083), Prob: 0.0002
-Token: ' blending' (ID: 55841), Prob: 0.0002
-Token: ' one' (ID: 825), Prob: 0.0002
-Token: ' making' (ID: 3259), Prob: 0.0002
-Token: ' moved' (ID: 7726), Prob: 0.0002
-Token: ' im' (ID: 732), Prob: 0.0001
-Token: ' shifting' (ID: 31831), Prob: 0.0001
-Token: ' unmistak' (ID: 95107), Prob: 0.0001
-Token: ' sitting' (ID: 11699), Prob: 0.0001
-Token: ' kneeling' (ID: 99015), Prob: 0.0001
-Token: ' rising' (ID: 16062), Prob: 0.0001
-Token: ' tall' (ID: 16217), Prob: 0.0001
-Token: ' pale' (ID: 27539), Prob: 0.0001
-Token: ' shaping' (ID: 45520), Prob: 0.0001
-Token: ' framed' (ID: 45993), Prob: 0.0001
-Token: ' bare' (ID: 12461), Prob: 0.0001
-Token: ' waving' (ID: 63111), Prob: 0.0001
-Token: ' coming' (ID: 5001), Prob: 0.0001
-Token: ' caught' (ID: 10568), Prob: 0.0001
-Token: ' carrying' (ID: 15331), Prob: 0.0001
-Token: ' bending' (ID: 57118), Prob: 0.0001
-Token: ' part' (ID: 949), Prob: 0.0001
-Token: ' following' (ID: 2701), Prob: 0.0001
-Token: ' partly' (ID: 27037), Prob: 0.0001
-Token: ' wandering' (ID: 53963), Prob: 0.0001
+Token: ' cold' (ID: 9255), Prob: 0.7266
+Token: ' icy' (ID: 65904), Prob: 0.0193
+Token: ' still' (ID: 2058), Prob: 0.0160
+Token: ' freezing' (ID: 42218), Prob: 0.0151
+Token: ' bad' (ID: 3873), Prob: 0.0142
+Token: ' so' (ID: 773), Prob: 0.0133
+Token: ' very' (ID: 1602), Prob: 0.0092
+Token: ' ice' (ID: 9853), Prob: 0.0059
+Token: ' also' (ID: 1083), Prob: 0.0046
+Token: ' warm' (ID: 8205), Prob: 0.0046
+Token: ' cool' (ID: 7010), Prob: 0.0043
+Token: ' a' (ID: 264), Prob: 0.0041
+Token: ' clean' (ID: 4240), Prob: 0.0036
+Token: ' not' (ID: 537), Prob: 0.0036
+Token: ' too' (ID: 2238), Prob: 0.0030
+Token: ' rough' (ID: 11165), Prob: 0.0028
+Token: ' dangerous' (ID: 11406), Prob: 0.0028
+Token: ' the' (ID: 279), Prob: 0.0028
+Token: ' on' (ID: 389), Prob: 0.0026
+Token: ' clear' (ID: 2797), Prob: 0.0026
+Token: ' frozen' (ID: 19690), Prob: 0.0026
+Token: ' calm' (ID: 19300), Prob: 0.0025
+Token: ' hot' (ID: 4017), Prob: 0.0023
+Token: ' really' (ID: 2167), Prob: 0.0023
 
 == Ranked Concepts (Clusters) ==
-Rank 1 | Centroid: ' moved' | Score: 0.5430
-  Tokens: [' moving', ' motion', ' movement', ' moved']
-Rank 2 | Centroid: ' wearing' | Score: 0.2480
-  Tokens: [' standing', ' wearing', ' watching', ' holding', ' sitting', ' carrying']
-Rank 3 | Centroid: ' cloth' | Score: 0.0669
-  Tokens: [' clo', ' dressed', ' cloth', ' clad', ' bare']
-Rank 4 | Centroid: ' in' | Score: 0.0322
-  Tokens: [' with', ' like', ' sh', ' in', ' just', ' and', ' made', ' h', ' not', ' that', ' its', ' g', ' c', ' but', ' as', ' a', ' still', ' one', ' making', ' im']
-Rank 5 | Centroid: ' wandering' | Score: 0.0281
-  Tokens: [' walking', ' drifting', ' stepping', ' floating', ' advancing', ' emerging', ' marching', ' slipping', ' shifting', ' rising', ' wandering']
-Rank 6 | Centroid: ' nearly' | Score: 0.0187
-  Tokens: [' almost', ' barely', ' half', ' slowly', ' partially', ' nearly', ' perfectly', ' slightly', ' partly']
-Rank 7 | Centroid: ' woven' | Score: 0.0186
-  Tokens: [' wrapped', ' draped', ' woven', ' carved', ' weaving', ' framed']
-Rank 8 | Centroid: ' silent' | Score: 0.0121
-  Tokens: [' sil', ' silent', ' silently']
-Rank 9 | Centroid: ' shaped' | Score: 0.0071
-  Tokens: [' shaped', ' shape', ' shaping']
-Rank 10 | Centroid: ' seeming' | Score: 0.0033
-  Tokens: [' seemingly', ' appearing', ' resembling', ' seeming']
-Rank 11 | Centroid: ' glowing' | Score: 0.0033
-  Tokens: [' shimmer', ' frozen', ' flick', ' illuminated', ' glowing', ' unmistak']
-Rank 12 | Centroid: ' outlined' | Score: 0.0023
-  Tokens: [' outlined', ' shadow']
-Rank 13 | Centroid: ' bending' | Score: 0.0020
-  Tokens: [' pacing', ' leaning', ' blending', ' kneeling', ' waving', ' bending']
-Rank 14 | Centroid: ' something' | Score: 0.0016
-  Tokens: [' perhaps', ' yet', ' somehow', ' something', ' caught']
-Rank 15 | Centroid: ' gl' | Score: 0.0015
-  Tokens: [' gl', ' sw']
-Rank 16 | Centroid: ' clearly' | Score: 0.0005
-  Tokens: [' clearly', ' marked']
-Rank 17 | Centroid: ' ve' | Score: 0.0003
-  Tokens: [' ve']
-Rank 18 | Centroid: ' coming' | Score: 0.0002
-  Tokens: [' coming', ' following']
-Rank 19 | Centroid: ' tall' | Score: 0.0001
-  Tokens: [' tall']
-Rank 20 | Centroid: ' pale' | Score: 0.0001
-  Tokens: [' pale']
-Rank 21 | Centroid: ' part' | Score: 0.0001
-  Tokens: [' part']
+Rank 1 | Centroid: ' cold' | Score: 0.7383
+  Tokens: [' cold', ' warm', ' cool', ' hot']
+Rank 2 | Centroid: ' icy' | Score: 0.0251
+  Tokens: [' icy', ' ice']
+Rank 3 | Centroid: ' still' | Score: 0.0205
+  Tokens: [' still', ' also']
+Rank 4 | Centroid: ' freezing' | Score: 0.0177
+  Tokens: [' freezing', ' frozen']
+Rank 5 | Centroid: ' bad' | Score: 0.0142
+  Tokens: [' bad']
+Rank 6 | Centroid: ' so' | Score: 0.0133
+  Tokens: [' so']
+Rank 7 | Centroid: ' very' | Score: 0.0115
+  Tokens: [' very', ' really']
+Rank 8 | Centroid: ' the' | Score: 0.0095
+  Tokens: [' a', ' the', ' on']
+Rank 9 | Centroid: ' clean' | Score: 0.0062
+  Tokens: [' clean', ' clear']
+Rank 10 | Centroid: ' rough' | Score: 0.0056
+  Tokens: [' rough', ' dangerous']
+Rank 11 | Centroid: ' not' | Score: 0.0036
+  Tokens: [' not']
+Rank 12 | Centroid: ' too' | Score: 0.0030
+  Tokens: [' too']
+Rank 13 | Centroid: ' calm' | Score: 0.0025
+  Tokens: [' calm']
 
 **Chosen Concept:** Rank 1

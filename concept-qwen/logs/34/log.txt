@@ -1,0 +1,62 @@
+--- Step 34 Log ---
+
+== Filtered Candidates ==
+Token: ' The' (ID: 576), Prob: 0.2695
+Token: ' It' (ID: 1084), Prob: 0.1855
+Token: ' I' (ID: 358), Prob: 0.0771
+Token: ' So' (ID: 2055), Prob: 0.0728
+Token: ' What' (ID: 3555), Prob: 0.0469
+Token: ' Now' (ID: 4695), Prob: 0.0162
+Token: ' And' (ID: 1597), Prob: 0.0152
+Token: ' But' (ID: 1988), Prob: 0.0152
+Token: ' This' (ID: 1096), Prob: 0.0134
+Token: ' Maybe' (ID: 10696), Prob: 0.0118
+Token: ' They' (ID: 2379), Prob: 0.0087
+Token: ' How' (ID: 2585), Prob: 0.0077
+Token: ' All' (ID: 2009), Prob: 0.0072
+Token: ' You' (ID: 1446), Prob: 0.0067
+Token: ' He' (ID: 1260), Prob: 0.0067
+Token: ' That' (ID: 2938), Prob: 0.0056
+Token: ' Which' (ID: 15920), Prob: 0.0052
+Token: ' A' (ID: 362), Prob: 0.0052
+Token: ' Let' (ID: 6771), Prob: 0.0049
+Token: ' There' (ID: 2619), Prob: 0.0044
+Token: ' These' (ID: 4220), Prob: 0.0044
+Token: ' Also' (ID: 7281), Prob: 0.0032
+Token: ' In' (ID: 758), Prob: 0.0032
+
+== Ranked Concepts (Clusters) ==
+Rank 1 | Centroid: ' This' | Score: 0.2871
+  Tokens: [' The', ' This', ' These']
+Rank 2 | Centroid: ' It' | Score: 0.1982
+  Tokens: [' It', ' They', ' There']
+Rank 3 | Centroid: ' I' | Score: 0.0771
+  Tokens: [' I']
+Rank 4 | Centroid: ' So' | Score: 0.0728
+  Tokens: [' So']
+Rank 5 | Centroid: ' What' | Score: 0.0544
+  Tokens: [' What', ' How']
+Rank 6 | Centroid: ' And' | Score: 0.0304
+  Tokens: [' And', ' But']
+Rank 7 | Centroid: ' Now' | Score: 0.0162
+  Tokens: [' Now']
+Rank 8 | Centroid: ' Maybe' | Score: 0.0118
+  Tokens: [' Maybe']
+Rank 9 | Centroid: ' That' | Score: 0.0109
+  Tokens: [' That', ' Which']
+Rank 10 | Centroid: ' All' | Score: 0.0072
+  Tokens: [' All']
+Rank 11 | Centroid: ' You' | Score: 0.0067
+  Tokens: [' You']
+Rank 12 | Centroid: ' He' | Score: 0.0067
+  Tokens: [' He']
+Rank 13 | Centroid: ' A' | Score: 0.0052
+  Tokens: [' A']
+Rank 14 | Centroid: ' Let' | Score: 0.0049
+  Tokens: [' Let']
+Rank 15 | Centroid: ' In' | Score: 0.0032
+  Tokens: [' In']
+Rank 16 | Centroid: ' Also' | Score: 0.0032
+  Tokens: [' Also']
+
+**Chosen Concept:** Rank 1

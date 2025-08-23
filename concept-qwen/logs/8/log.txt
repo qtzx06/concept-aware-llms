@@ -1,159 +1,60 @@
 --- Step 8 Log ---
 
 == Filtered Candidates ==
-Token: ' still' (ID: 2058), Prob: 0.1992
-Token: ' thin' (ID: 15430), Prob: 0.1211
-Token: ' dark' (ID: 6319), Prob: 0.1069
-Token: ' slender' (ID: 72242), Prob: 0.1069
-Token: ' silent' (ID: 21059), Prob: 0.0571
-Token: ' pale' (ID: 27539), Prob: 0.0571
-Token: ' shadow' (ID: 12455), Prob: 0.0505
-Token: ' sil' (ID: 5437), Prob: 0.0444
-Token: ' clo' (ID: 5292), Prob: 0.0210
-Token: ' motion' (ID: 11379), Prob: 0.0210
-Token: ' h' (ID: 305), Prob: 0.0186
-Token: ' moving' (ID: 7218), Prob: 0.0164
-Token: ' narrow' (ID: 15026), Prob: 0.0106
-Token: ' sh' (ID: 557), Prob: 0.0082
-Token: ' slow' (ID: 6301), Prob: 0.0082
-Token: ' ga' (ID: 13510), Prob: 0.0073
-Token: ' black' (ID: 3691), Prob: 0.0064
-Token: ' form' (ID: 1352), Prob: 0.0060
-Token: ' shape' (ID: 6083), Prob: 0.0060
-Token: ' humanoid' (ID: 92109), Prob: 0.0057
-Token: ' human' (ID: 3738), Prob: 0.0042
-Token: ' outlined' (ID: 32640), Prob: 0.0042
-Token: ' ind' (ID: 1257), Prob: 0.0037
-Token: ' quiet' (ID: 11340), Prob: 0.0037
-Token: ' angular' (ID: 20314), Prob: 0.0034
-Token: ' upright' (ID: 48585), Prob: 0.0032
-Token: ' strange' (ID: 14888), Prob: 0.0029
-Token: ' lean' (ID: 15651), Prob: 0.0027
-Token: ' tall' (ID: 16217), Prob: 0.0025
-Token: ' standing' (ID: 11259), Prob: 0.0024
-Token: ' im' (ID: 732), Prob: 0.0022
-Token: ' solemn' (ID: 63602), Prob: 0.0022
-Token: ' draped' (ID: 89880), Prob: 0.0018
-Token: ' silver' (ID: 14961), Prob: 0.0017
-Token: ' steady' (ID: 24020), Prob: 0.0017
-Token: ' strangely' (ID: 69606), Prob: 0.0017
-Token: ' deliberate' (ID: 44972), Prob: 0.0016
-Token: ' blurred' (ID: 72400), Prob: 0.0015
-Token: ' bare' (ID: 12461), Prob: 0.0014
-Token: ' ghost' (ID: 19866), Prob: 0.0014
-Token: ' broad' (ID: 7205), Prob: 0.0013
-Token: ' rigid' (ID: 32856), Prob: 0.0013
-Token: ' unmistak' (ID: 95107), Prob: 0.0013
-Token: ' slightly' (ID: 10078), Prob: 0.0013
-Token: ' faint' (ID: 37578), Prob: 0.0012
-Token: ' silhouette' (ID: 56727), Prob: 0.0012
-Token: ' solitary' (ID: 57129), Prob: 0.0011
-Token: ' oddly' (ID: 73444), Prob: 0.0011
-Token: ' shimmer' (ID: 75361), Prob: 0.0011
-Token: ' graceful' (ID: 77362), Prob: 0.0011
-Token: ' clear' (ID: 2797), Prob: 0.0010
-Token: ' long' (ID: 1293), Prob: 0.0010
-Token: ' sharp' (ID: 17232), Prob: 0.0010
-Token: ' slim' (ID: 29353), Prob: 0.0010
-Token: ' spectral' (ID: 55977), Prob: 0.0010
-Token: ' solid' (ID: 6437), Prob: 0.0009
-Token: ' cold' (ID: 9255), Prob: 0.0009
-Token: ' distinct' (ID: 12460), Prob: 0.0009
-Token: ' eer' (ID: 43272), Prob: 0.0009
-Token: ' un' (ID: 650), Prob: 0.0008
-Token: ' ins' (ID: 1640), Prob: 0.0008
-Token: ' lit' (ID: 13020), Prob: 0.0008
-Token: ' wrapped' (ID: 19472), Prob: 0.0008
-Token: ' almost' (ID: 4558), Prob: 0.0008
-Token: ' straight' (ID: 7678), Prob: 0.0008
-Token: ' stark' (ID: 37146), Prob: 0.0008
-Token: ' sw' (ID: 2021), Prob: 0.0007
-Token: ' wearing' (ID: 12233), Prob: 0.0007
-Token: ' unm' (ID: 37431), Prob: 0.0007
-Token: ' defined' (ID: 4512), Prob: 0.0007
-Token: ' elegant' (ID: 25777), Prob: 0.0007
-Token: ' shaped' (ID: 26271), Prob: 0.0007
-Token: ' elong' (ID: 73495), Prob: 0.0007
-Token: ' distant' (ID: 28727), Prob: 0.0006
-Token: ' sin' (ID: 7437), Prob: 0.0006
-Token: ' slight' (ID: 8112), Prob: 0.0006
-Token: ' looming' (ID: 64464), Prob: 0.0006
-Token: ' dressed' (ID: 25365), Prob: 0.0006
-Token: ' movement' (ID: 7203), Prob: 0.0005
-Token: ' cloth' (ID: 27292), Prob: 0.0005
-Token: ' distorted' (ID: 61136), Prob: 0.0005
-Token: ' drifting' (ID: 84253), Prob: 0.0005
-Token: ' gray' (ID: 17545), Prob: 0.0005
-Token: ' isolated' (ID: 24203), Prob: 0.0005
-Token: ' delicate' (ID: 35201), Prob: 0.0005
-Token: ' hollow' (ID: 41802), Prob: 0.0005
-Token: ' leaning' (ID: 48348), Prob: 0.0005
-Token: ' unfamiliar' (ID: 49283), Prob: 0.0005
-Token: ' lone' (ID: 46666), Prob: 0.0004
-Token: ' wide' (ID: 6884), Prob: 0.0004
-Token: ' unn' (ID: 16950), Prob: 0.0004
-Token: ' w' (ID: 289), Prob: 0.0004
-Token: ' figure' (ID: 7071), Prob: 0.0004
-Token: ' mysterious' (ID: 25382), Prob: 0.0004
-Token: ' hood' (ID: 27215), Prob: 0.0004
-Token: ' sp' (ID: 978), Prob: 0.0004
-Token: ' white' (ID: 4158), Prob: 0.0004
-Token: ' ve' (ID: 5208), Prob: 0.0004
-Token: ' bent' (ID: 29180), Prob: 0.0004
-Token: ' g' (ID: 342), Prob: 0.0003
+Token: ' water' (ID: 3015), Prob: 0.3086
+Token: ' people' (ID: 1251), Prob: 0.0238
+Token: ' temperature' (ID: 9315), Prob: 0.0210
+Token: ' music' (ID: 4627), Prob: 0.0197
+Token: ' air' (ID: 3720), Prob: 0.0186
+Token: ' kids' (ID: 6837), Prob: 0.0173
+Token: ' weather' (ID: 9104), Prob: 0.0127
+Token: ' rain' (ID: 11174), Prob: 0.0120
+Token: ' environment' (ID: 4573), Prob: 0.0106
+Token: ' street' (ID: 8592), Prob: 0.0093
+Token: ' mood' (ID: 19671), Prob: 0.0093
+Token: ' night' (ID: 3729), Prob: 0.0087
+Token: ' situation' (ID: 6534), Prob: 0.0082
+Token: ' atmosphere' (ID: 16566), Prob: 0.0082
+Token: ' drugs' (ID: 10975), Prob: 0.0077
+Token: ' police' (ID: 4282), Prob: 0.0064
+Token: ' man' (ID: 883), Prob: 0.0060
+Token: ' heat' (ID: 8628), Prob: 0.0056
+Token: ' person' (ID: 1697), Prob: 0.0053
+Token: ' place' (ID: 1992), Prob: 0.0053
+Token: ' cold' (ID: 9255), Prob: 0.0053
+Token: ' storm' (ID: 13458), Prob: 0.0050
+Token: ' conditions' (ID: 4682), Prob: 0.0050
+Token: ' time' (ID: 882), Prob: 0.0050
+Token: ' city' (ID: 3283), Prob: 0.0050
 
 == Ranked Concepts (Clusters) ==
-Rank 1 | Centroid: ' slender' | Score: 0.2305
-  Tokens: [' thin', ' slender', ' bare', ' slim', ' hollow']
-Rank 2 | Centroid: ' slightly' | Score: 0.2021
-  Tokens: [' still', ' slightly', ' almost', ' slight']
-Rank 3 | Centroid: ' black' | Score: 0.1719
-  Tokens: [' dark', ' pale', ' black', ' cold', ' gray', ' white']
-Rank 4 | Centroid: ' silent' | Score: 0.1079
-  Tokens: [' silent', ' sil', ' quiet', ' silver', ' silhouette']
-Rank 5 | Centroid: ' ghost' | Score: 0.0540
-  Tokens: [' shadow', ' ghost', ' shimmer', ' spectral']
-Rank 6 | Centroid: ' un' | Score: 0.0503
-  Tokens: [' h', ' sh', ' ga', ' form', ' ind', ' im', ' un', ' ins', ' sw', ' sin', ' w', ' sp', ' ve', ' g']
-Rank 7 | Centroid: ' movement' | Score: 0.0378
-  Tokens: [' motion', ' moving', ' movement']
-Rank 8 | Centroid: ' dressed' | Score: 0.0255
-  Tokens: [' clo', ' draped', ' wrapped', ' wearing', ' dressed', ' cloth']
-Rank 9 | Centroid: ' wide' | Score: 0.0231
-  Tokens: [' narrow', ' slow', ' tall', ' broad', ' wide']
-Rank 10 | Centroid: ' shape' | Score: 0.0112
-  Tokens: [' shape', ' outlined', ' shaped', ' figure']
-Rank 11 | Centroid: ' leaning' | Score: 0.0091
-  Tokens: [' upright', ' lean', ' standing', ' leaning', ' bent']
-Rank 12 | Centroid: ' strangely' | Score: 0.0078
-  Tokens: [' strange', ' strangely', ' oddly', ' eer', ' unfamiliar', ' unn', ' mysterious']
-Rank 13 | Centroid: ' human' | Score: 0.0076
-  Tokens: [' human', ' angular']
-Rank 14 | Centroid: ' elegant' | Score: 0.0074
-  Tokens: [' solemn', ' deliberate', ' unmistak', ' graceful', ' elegant', ' delicate']
-Rank 15 | Centroid: ' looming' | Score: 0.0074
-  Tokens: [' humanoid', ' elong', ' looming', ' drifting']
-Rank 16 | Centroid: ' clear' | Score: 0.0039
-  Tokens: [' clear', ' long', ' sharp', ' solid']
-Rank 17 | Centroid: ' steady' | Score: 0.0025
-  Tokens: [' steady', ' straight']
-Rank 18 | Centroid: ' stark' | Score: 0.0023
-  Tokens: [' distinct', ' stark', ' distant']
-Rank 19 | Centroid: ' blurred' | Score: 0.0020
-  Tokens: [' blurred', ' distorted']
-Rank 20 | Centroid: ' solitary' | Score: 0.0020
-  Tokens: [' solitary', ' isolated', ' lone']
-Rank 21 | Centroid: ' rigid' | Score: 0.0013
-  Tokens: [' rigid']
-Rank 22 | Centroid: ' faint' | Score: 0.0012
-  Tokens: [' faint']
-Rank 23 | Centroid: ' lit' | Score: 0.0008
-  Tokens: [' lit']
-Rank 24 | Centroid: ' unm' | Score: 0.0007
-  Tokens: [' unm']
-Rank 25 | Centroid: ' defined' | Score: 0.0007
-  Tokens: [' defined']
-Rank 26 | Centroid: ' hood' | Score: 0.0004
-  Tokens: [' hood']
+Rank 1 | Centroid: ' water' | Score: 0.3281
+  Tokens: [' water', ' air']
+Rank 2 | Centroid: ' temperature' | Score: 0.0320
+  Tokens: [' temperature', ' heat', ' cold']
+Rank 3 | Centroid: ' rain' | Score: 0.0297
+  Tokens: [' weather', ' rain', ' storm']
+Rank 4 | Centroid: ' people' | Score: 0.0291
+  Tokens: [' people', ' person']
+Rank 5 | Centroid: ' music' | Score: 0.0273
+  Tokens: [' music', ' drugs']
+Rank 6 | Centroid: ' street' | Score: 0.0206
+  Tokens: [' street', ' police', ' city']
+Rank 7 | Centroid: ' environment' | Score: 0.0188
+  Tokens: [' environment', ' atmosphere']
+Rank 8 | Centroid: ' kids' | Score: 0.0173
+  Tokens: [' kids']
+Rank 9 | Centroid: ' situation' | Score: 0.0132
+  Tokens: [' situation', ' conditions']
+Rank 10 | Centroid: ' mood' | Score: 0.0093
+  Tokens: [' mood']
+Rank 11 | Centroid: ' night' | Score: 0.0087
+  Tokens: [' night']
+Rank 12 | Centroid: ' man' | Score: 0.0060
+  Tokens: [' man']
+Rank 13 | Centroid: ' place' | Score: 0.0053
+  Tokens: [' place']
+Rank 14 | Centroid: ' time' | Score: 0.0050
+  Tokens: [' time']
 
 **Chosen Concept:** Rank 1

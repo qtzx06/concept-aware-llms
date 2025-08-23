@@ -1,0 +1,58 @@
+--- Step 57 Log ---
+
+== Filtered Candidates ==
+Token: ' bad' (ID: 3873), Prob: 0.9180
+Token: ' storm' (ID: 13458), Prob: 0.0096
+Token: ' a' (ID: 264), Prob: 0.0062
+Token: ' good' (ID: 1661), Prob: 0.0043
+Token: ' terrible' (ID: 17478), Prob: 0.0029
+Token: ' cold' (ID: 9255), Prob: 0.0021
+Token: ' worse' (ID: 10960), Prob: 0.0019
+Token: ' the' (ID: 279), Prob: 0.0017
+Token: ' still' (ID: 2058), Prob: 0.0016
+Token: ' not' (ID: 537), Prob: 0.0014
+Token: ' very' (ID: 1602), Prob: 0.0014
+Token: ' going' (ID: 2087), Prob: 0.0013
+Token: ' on' (ID: 389), Prob: 0.0012
+Token: ' in' (ID: 304), Prob: 0.0012
+Token: ' dark' (ID: 6319), Prob: 0.0012
+Token: ' just' (ID: 1101), Prob: 0.0012
+Token: ' strong' (ID: 3746), Prob: 0.0012
+Token: ' and' (ID: 323), Prob: 0.0011
+Token: ' raining' (ID: 83253), Prob: 0.0011
+Token: ' heavy' (ID: 8811), Prob: 0.0008
+Token: ' raging' (ID: 69417), Prob: 0.0008
+Token: ' poor' (ID: 7852), Prob: 0.0008
+Token: ' out' (ID: 700), Prob: 0.0007
+Token: ' badly' (ID: 24569), Prob: 0.0007
+Token: ' also' (ID: 1083), Prob: 0.0007
+
+== Ranked Concepts (Clusters) ==
+Rank 1 | Centroid: ' bad' | Score: 0.9219
+  Tokens: [' bad', ' good', ' poor']
+Rank 2 | Centroid: ' the' | Score: 0.0128
+  Tokens: [' a', ' the', ' not', ' on', ' in', ' and']
+Rank 3 | Centroid: ' storm' | Score: 0.0096
+  Tokens: [' storm']
+Rank 4 | Centroid: ' terrible' | Score: 0.0055
+  Tokens: [' terrible', ' worse', ' badly']
+Rank 5 | Centroid: ' still' | Score: 0.0022
+  Tokens: [' still', ' also']
+Rank 6 | Centroid: ' cold' | Score: 0.0021
+  Tokens: [' cold']
+Rank 7 | Centroid: ' strong' | Score: 0.0021
+  Tokens: [' strong', ' heavy']
+Rank 8 | Centroid: ' raining' | Score: 0.0019
+  Tokens: [' raining', ' raging']
+Rank 9 | Centroid: ' very' | Score: 0.0014
+  Tokens: [' very']
+Rank 10 | Centroid: ' going' | Score: 0.0013
+  Tokens: [' going']
+Rank 11 | Centroid: ' dark' | Score: 0.0012
+  Tokens: [' dark']
+Rank 12 | Centroid: ' just' | Score: 0.0012
+  Tokens: [' just']
+Rank 13 | Centroid: ' out' | Score: 0.0007
+  Tokens: [' out']
+
+**Chosen Concept:** Rank 1

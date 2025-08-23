@@ -1,0 +1,58 @@
+--- Step 40 Log ---
+
+== Filtered Candidates ==
+Token: ' water' (ID: 3015), Prob: 0.9062
+Token: ' weather' (ID: 9104), Prob: 0.0659
+Token: ' temperature' (ID: 9315), Prob: 0.0039
+Token: ' waters' (ID: 20520), Prob: 0.0029
+Token: ' rain' (ID: 11174), Prob: 0.0027
+Token: ' cold' (ID: 9255), Prob: 0.0020
+Token: ' wind' (ID: 9956), Prob: 0.0019
+Token: ' storm' (ID: 13458), Prob: 0.0007
+Token: ' air' (ID: 3720), Prob: 0.0005
+Token: ' ice' (ID: 9853), Prob: 0.0004
+Token: ' ocean' (ID: 17951), Prob: 0.0004
+Token: ' conditions' (ID: 4682), Prob: 0.0004
+Token: ' sea' (ID: 9396), Prob: 0.0003
+Token: ' river' (ID: 14796), Prob: 0.0003
+Token: ' snow' (ID: 11794), Prob: 0.0003
+Token: ' environment' (ID: 4573), Prob: 0.0002
+Token: ' night' (ID: 3729), Prob: 0.0002
+Token: ' climate' (ID: 9977), Prob: 0.0002
+Token: ' heat' (ID: 8628), Prob: 0.0002
+Token: ' temperatures' (ID: 19879), Prob: 0.0001
+Token: ' atmosphere' (ID: 16566), Prob: 0.0001
+Token: ' drink' (ID: 7027), Prob: 0.0001
+Token: ' day' (ID: 1899), Prob: 0.0001
+Token: ' lake' (ID: 21800), Prob: 0.0001
+Token: ' world' (ID: 1879), Prob: 0.0001
+
+== Ranked Concepts (Clusters) ==
+Rank 1 | Centroid: ' water' | Score: 0.9102
+  Tokens: [' water', ' waters']
+Rank 2 | Centroid: ' rain' | Score: 0.0693
+  Tokens: [' weather', ' rain', ' storm']
+Rank 3 | Centroid: ' temperature' | Score: 0.0042
+  Tokens: [' temperature', ' heat', ' temperatures']
+Rank 4 | Centroid: ' ice' | Score: 0.0027
+  Tokens: [' cold', ' ice', ' snow']
+Rank 5 | Centroid: ' wind' | Score: 0.0019
+  Tokens: [' wind']
+Rank 6 | Centroid: ' ocean' | Score: 0.0011
+  Tokens: [' ocean', ' sea', ' river', ' lake']
+Rank 7 | Centroid: ' air' | Score: 0.0005
+  Tokens: [' air']
+Rank 8 | Centroid: ' conditions' | Score: 0.0004
+  Tokens: [' conditions']
+Rank 9 | Centroid: ' environment' | Score: 0.0003
+  Tokens: [' environment', ' atmosphere']
+Rank 10 | Centroid: ' night' | Score: 0.0003
+  Tokens: [' night', ' day']
+Rank 11 | Centroid: ' climate' | Score: 0.0002
+  Tokens: [' climate']
+Rank 12 | Centroid: ' drink' | Score: 0.0001
+  Tokens: [' drink']
+Rank 13 | Centroid: ' world' | Score: 0.0001
+  Tokens: [' world']
+
+**Chosen Concept:** Rank 1

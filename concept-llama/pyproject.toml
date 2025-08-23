@@ -1,0 +1,20 @@
+# concept-llama/pyproject.toml
+[project]
+name = "concept-llama"
+version = "0.1.0"
+description = "Concept-aware decoding using a Llama 3.1 8B model with vLLM."
+requires-python = ">=3.9"
+dependencies = [
+    "requests",
+    "torch",
+    "scikit-learn",
+    "numpy",
+    "sentence-transformers",
+    "matplotlib",
+]
+
+[tool.setuptools]
+py-modules = ["main"]
+
+[tool.ruff]
+line-length = 88

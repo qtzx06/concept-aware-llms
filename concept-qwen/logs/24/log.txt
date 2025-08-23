@@ -1,149 +1,60 @@
 --- Step 24 Log ---
 
 == Filtered Candidates ==
-Token: ' catching' (ID: 33068), Prob: 0.8281
-Token: ' caught' (ID: 10568), Prob: 0.1436
-Token: ' held' (ID: 5644), Prob: 0.0072
-Token: ' fog' (ID: 30249), Prob: 0.0043
-Token: ' shallow' (ID: 25600), Prob: 0.0038
-Token: ' hitch' (ID: 58107), Prob: 0.0023
-Token: ' visible' (ID: 9434), Prob: 0.0012
-Token: ' mist' (ID: 8600), Prob: 0.0009
-Token: ' turning' (ID: 13054), Prob: 0.0008
-Token: ' sharp' (ID: 17232), Prob: 0.0005
-Token: ' steady' (ID: 24020), Prob: 0.0005
-Token: ' hal' (ID: 14761), Prob: 0.0004
-Token: ' freezing' (ID: 42218), Prob: 0.0004
-Token: ' tightening' (ID: 76780), Prob: 0.0004
-Token: ' quick' (ID: 3974), Prob: 0.0003
-Token: ' holding' (ID: 9963), Prob: 0.0003
-Token: ' coming' (ID: 5001), Prob: 0.0003
-Token: ' a' (ID: 264), Prob: 0.0002
-Token: ' stolen' (ID: 22329), Prob: 0.0002
-Token: ' st' (ID: 357), Prob: 0.0002
-Token: ' still' (ID: 2058), Prob: 0.0002
-Token: ' rag' (ID: 20475), Prob: 0.0002
-Token: ' momentarily' (ID: 98397), Prob: 0.0002
-Token: ' f' (ID: 282), Prob: 0.0001
-Token: ' catch' (ID: 2287), Prob: 0.0001
-Token: ' tight' (ID: 10296), Prob: 0.0001
-Token: ' hanging' (ID: 20704), Prob: 0.0001
-Token: ' slowing' (ID: 47308), Prob: 0.0001
-Token: ' puff' (ID: 62072), Prob: 0.0001
-Token: ' trembling' (ID: 91988), Prob: 0.0001
-Token: ' forming' (ID: 29064), Prob: 0.0001
-Token: ' echoing' (ID: 93724), Prob: 0.0001
-Token: ' short' (ID: 2805), Prob: 0.0001
-Token: ' suspended' (ID: 21612), Prob: 0.0001
-Token: ' stealing' (ID: 37998), Prob: 0.0001
-Token: ' suddenly' (ID: 14843), Prob: 0.0001
-Token: ' stead' (ID: 16845), Prob: 0.0001
-Token: ' frozen' (ID: 19690), Prob: 0.0001
-Token: ' drawn' (ID: 14764), Prob: 0.0001
-Token: ' clinging' (ID: 96358), Prob: 0.0001
-Token: ' ste' (ID: 4087), Prob: 0.0001
-Token: ' heavy' (ID: 8811), Prob: 0.0001
-Token: ' stopping' (ID: 22535), Prob: 0.0001
-Token: 's' (ID: 82), Prob: 0.0001
-Token: ' barely' (ID: 19460), Prob: 0.0001
-Token: ' growing' (ID: 7826), Prob: 0.0000
-Token: ' sharpen' (ID: 56363), Prob: 0.0000
-Token: ' trapped' (ID: 30591), Prob: 0.0000
-Token: ' frosting' (ID: 98181), Prob: 0.0000
-Token: ' h' (ID: 305), Prob: 0.0000
-Token: ' cloud' (ID: 9437), Prob: 0.0000
-Token: ' pa' (ID: 7106), Prob: 0.0000
-Token: ' stirring' (ID: 53954), Prob: 0.0000
-Token: ' shaky' (ID: 83413), Prob: 0.0000
-Token: ' cond' (ID: 9756), Prob: 0.0000
-Token: ' slow' (ID: 6301), Prob: 0.0000
-Token: ' curl' (ID: 13957), Prob: 0.0000
-Token: ' audible' (ID: 79315), Prob: 0.0000
-Token: ' captured' (ID: 17006), Prob: 0.0000
-Token: ' silent' (ID: 21059), Prob: 0.0000
-Token: ' deep' (ID: 5538), Prob: 0.0000
-Token: ' stiff' (ID: 30061), Prob: 0.0000
-Token: ' whisper' (ID: 34855), Prob: 0.0000
-Token: ' sticking' (ID: 36972), Prob: 0.0000
-Token: ' fal' (ID: 25484), Prob: 0.0000
-Token: ' mir' (ID: 8652), Prob: 0.0000
-Token: ' cold' (ID: 9255), Prob: 0.0000
-Token: 'less' (ID: 1717), Prob: 0.0000
-Token: ' thick' (ID: 12045), Prob: 0.0000
-Token: ' frost' (ID: 44734), Prob: 0.0000
-Token: ' rising' (ID: 16062), Prob: 0.0000
-Token: ' locking' (ID: 37855), Prob: 0.0000
-Token: ' controlled' (ID: 14071), Prob: 0.0000
-Token: ' syncing' (ID: 96145), Prob: 0.0000
-Token: ' less' (ID: 2686), Prob: 0.0000
-Token: ' gust' (ID: 29814), Prob: 0.0000
-Token: ' escaping' (ID: 52654), Prob: 0.0000
-Token: ' almost' (ID: 4558), Prob: 0.0000
-Token: ' ratt' (ID: 56545), Prob: 0.0000
-Token: ' sh' (ID: 557), Prob: 0.0000
-Token: ' thin' (ID: 15430), Prob: 0.0000
-Token: ' racing' (ID: 21313), Prob: 0.0000
-Token: ' in' (ID: 304), Prob: 0.0000
-Token: ' sudden' (ID: 10968), Prob: 0.0000
-Token: ' ghost' (ID: 19866), Prob: 0.0000
-Token: ' cooling' (ID: 26917), Prob: 0.0000
-Token: ' becoming' (ID: 10454), Prob: 0.0000
-Token: ' quiet' (ID: 11340), Prob: 0.0000
-Token: 'catch' (ID: 7173), Prob: 0.0000
-Token: ' rushing' (ID: 37017), Prob: 0.0000
-Token: ' capturing' (ID: 39780), Prob: 0.0000
-Token: ' halted' (ID: 60095), Prob: 0.0000
-Token: ' lingering' (ID: 63510), Prob: 0.0000
-Token: ' flutter' (ID: 73783), Prob: 0.0000
-Token: ' rust' (ID: 23071), Prob: 0.0000
-Token: ' hovering' (ID: 68607), Prob: 0.0000
-Token: ' gone' (ID: 8048), Prob: 0.0000
-Token: ' leaving' (ID: 9380), Prob: 0.0000
-Token: ' arrested' (ID: 12517), Prob: 0.0000
-Token: ' locked' (ID: 16061), Prob: 0.0000
+Token: ' The' (ID: 576), Prob: 0.3047
+Token: ' So' (ID: 2055), Prob: 0.0928
+Token: ' What' (ID: 3555), Prob: 0.0723
+Token: ' I' (ID: 358), Prob: 0.0679
+Token: ' It' (ID: 1084), Prob: 0.0530
+Token: ' But' (ID: 1988), Prob: 0.0221
+Token: ' Maybe' (ID: 10696), Prob: 0.0151
+Token: ' Now' (ID: 4695), Prob: 0.0134
+Token: ' And' (ID: 1597), Prob: 0.0111
+Token: ' They' (ID: 2379), Prob: 0.0104
+Token: ' You' (ID: 1446), Prob: 0.0104
+Token: ' This' (ID: 1096), Prob: 0.0104
+Token: ' He' (ID: 1260), Prob: 0.0092
+Token: ' That' (ID: 2938), Prob: 0.0087
+Token: ' All' (ID: 2009), Prob: 0.0087
+Token: ' How' (ID: 2585), Prob: 0.0087
+Token: ' A' (ID: 362), Prob: 0.0081
+Token: ' Which' (ID: 15920), Prob: 0.0060
+Token: ' Let' (ID: 6771), Prob: 0.0060
+Token: ' There' (ID: 2619), Prob: 0.0056
+Token: ' She' (ID: 2932), Prob: 0.0052
+Token: ' Then' (ID: 5005), Prob: 0.0049
+Token: ' Also' (ID: 7281), Prob: 0.0046
 
 == Ranked Concepts (Clusters) ==
-Rank 1 | Centroid: ' catching' | Score: 0.9727
-  Tokens: [' catching', ' caught', ' catch', ' captured', 'catch', ' capturing']
-Rank 2 | Centroid: ' held' | Score: 0.0077
-  Tokens: [' held', ' holding', ' hanging', ' suspended', ' drawn']
-Rank 3 | Centroid: ' fog' | Score: 0.0052
-  Tokens: [' fog', ' mist', ' cloud', ' cond']
-Rank 4 | Centroid: ' thick' | Score: 0.0044
-  Tokens: [' shallow', ' quick', ' short', ' heavy', ' deep', ' thick', ' thin']
-Rank 5 | Centroid: ' flutter' | Score: 0.0027
-  Tokens: [' hitch', ' rag', ' puff', ' curl', ' gust', ' ratt', ' flutter', ' rust']
-Rank 6 | Centroid: ' echoing' | Score: 0.0014
-  Tokens: [' visible', ' echoing', ' audible', ' whisper', ' mir', ' ghost']
-Rank 7 | Centroid: ' becoming' | Score: 0.0012
-  Tokens: [' turning', ' coming', ' forming', ' growing', ' rising', ' becoming', ' leaving']
-Rank 8 | Centroid: ' tightening' | Score: 0.0010
-  Tokens: [' sharp', ' tightening', ' tight', ' sharpen', ' stiff']
-Rank 9 | Centroid: ' stealing' | Score: 0.0009
-  Tokens: [' steady', ' stolen', ' stealing', ' stead', ' ste']
-Rank 10 | Centroid: ' in' | Score: 0.0007
-  Tokens: [' a', ' st', ' f', 's', ' h', ' sh', ' in']
-Rank 11 | Centroid: ' freezing' | Score: 0.0005
-  Tokens: [' freezing', ' frozen', ' frosting', ' cold', ' frost', ' cooling']
-Rank 12 | Centroid: ' halted' | Score: 0.0005
-  Tokens: [' hal', ' pa', ' fal', ' halted']
-Rank 13 | Centroid: ' less' | Score: 0.0003
-  Tokens: [' still', ' barely', 'less', ' less', ' almost', ' gone']
-Rank 14 | Centroid: ' suddenly' | Score: 0.0002
-  Tokens: [' momentarily', ' suddenly', ' sudden']
-Rank 15 | Centroid: ' slowing' | Score: 0.0002
-  Tokens: [' slowing', ' stopping', ' slow']
-Rank 16 | Centroid: ' trembling' | Score: 0.0002
-  Tokens: [' trembling', ' stirring', ' shaky']
-Rank 17 | Centroid: ' clinging' | Score: 0.0001
-  Tokens: [' clinging', ' sticking', ' lingering', ' hovering']
-Rank 18 | Centroid: ' locked' | Score: 0.0001
-  Tokens: [' trapped', ' locking', ' arrested', ' locked']
-Rank 19 | Centroid: ' rushing' | Score: 0.0001
-  Tokens: [' syncing', ' escaping', ' racing', ' rushing']
-Rank 20 | Centroid: ' silent' | Score: 0.0000
-  Tokens: [' silent', ' quiet']
-Rank 21 | Centroid: ' controlled' | Score: 0.0000
-  Tokens: [' controlled']
+Rank 1 | Centroid: ' This' | Score: 0.3730
+  Tokens: [' The', ' It', ' This', ' There']
+Rank 2 | Centroid: ' But' | Score: 0.1260
+  Tokens: [' So', ' But', ' And']
+Rank 3 | Centroid: ' What' | Score: 0.0811
+  Tokens: [' What', ' How']
+Rank 4 | Centroid: ' I' | Score: 0.0679
+  Tokens: [' I']
+Rank 5 | Centroid: ' Maybe' | Score: 0.0151
+  Tokens: [' Maybe']
+Rank 6 | Centroid: ' That' | Score: 0.0146
+  Tokens: [' That', ' Which']
+Rank 7 | Centroid: ' He' | Score: 0.0145
+  Tokens: [' He', ' She']
+Rank 8 | Centroid: ' Now' | Score: 0.0134
+  Tokens: [' Now']
+Rank 9 | Centroid: ' You' | Score: 0.0104
+  Tokens: [' You']
+Rank 10 | Centroid: ' They' | Score: 0.0104
+  Tokens: [' They']
+Rank 11 | Centroid: ' All' | Score: 0.0087
+  Tokens: [' All']
+Rank 12 | Centroid: ' A' | Score: 0.0081
+  Tokens: [' A']
+Rank 13 | Centroid: ' Let' | Score: 0.0060
+  Tokens: [' Let']
+Rank 14 | Centroid: ' Then' | Score: 0.0049
+  Tokens: [' Then']
+Rank 15 | Centroid: ' Also' | Score: 0.0046
+  Tokens: [' Also']
 
 **Chosen Concept:** Rank 1

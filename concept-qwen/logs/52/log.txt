@@ -1,155 +1,52 @@
 --- Step 52 Log ---
 
 == Filtered Candidates ==
-Token: ' reached' (ID: 8643), Prob: 0.3633
-Token: ' stepped' (ID: 24326), Prob: 0.1040
-Token: ' turned' (ID: 6519), Prob: 0.0630
-Token: ' took' (ID: 3867), Prob: 0.0593
-Token: ' had' (ID: 1030), Prob: 0.0383
-Token: ' didn' (ID: 3207), Prob: 0.0359
-Token: ' tried' (ID: 6679), Prob: 0.0359
-Token: ' raised' (ID: 9226), Prob: 0.0219
-Token: ' could' (ID: 1410), Prob: 0.0193
-Token: ' slowly' (ID: 13970), Prob: 0.0193
-Token: ' knew' (ID: 6876), Prob: 0.0170
-Token: ' whispered' (ID: 57266), Prob: 0.0150
-Token: ' looked' (ID: 6966), Prob: 0.0141
-Token: ' pulled' (ID: 13238), Prob: 0.0141
-Token: ' dropped' (ID: 12226), Prob: 0.0097
-Token: ' called' (ID: 2598), Prob: 0.0091
-Token: ' blinked' (ID: 99032), Prob: 0.0091
-Token: ' thought' (ID: 3381), Prob: 0.0085
-Token: ' felt' (ID: 6476), Prob: 0.0071
-Token: ' couldn' (ID: 7691), Prob: 0.0071
-Token: ' picked' (ID: 12771), Prob: 0.0055
-Token: ' lowered' (ID: 38820), Prob: 0.0055
-Token: ' tightened' (ID: 84720), Prob: 0.0052
-Token: ' quickly' (ID: 6157), Prob: 0.0049
-Token: ' stared' (ID: 44035), Prob: 0.0049
-Token: ' held' (ID: 5644), Prob: 0.0040
-Token: ' backed' (ID: 21411), Prob: 0.0040
-Token: ' remembered' (ID: 26471), Prob: 0.0038
-Token: ' f' (ID: 282), Prob: 0.0036
-Token: ' gri' (ID: 22993), Prob: 0.0036
-Token: ' hadn' (ID: 18604), Prob: 0.0031
-Token: ' grabbed' (ID: 29318), Prob: 0.0031
-Token: ' leaned' (ID: 54839), Prob: 0.0029
-Token: ' glanced' (ID: 64557), Prob: 0.0029
-Token: ' began' (ID: 6009), Prob: 0.0024
-Token: ' drew' (ID: 23554), Prob: 0.0022
-Token: ' did' (ID: 1521), Prob: 0.0020
-Token: ' heard' (ID: 6617), Prob: 0.0020
-Token: ' lit' (ID: 13020), Prob: 0.0020
-Token: ' pressed' (ID: 17320), Prob: 0.0019
-Token: ' stumbled' (ID: 49057), Prob: 0.0019
-Token: ' opened' (ID: 8930), Prob: 0.0018
-Token: ' clen' (ID: 84934), Prob: 0.0017
-Token: ' recognized' (ID: 14975), Prob: 0.0016
-Token: ' adjusted' (ID: 23368), Prob: 0.0016
-Token: ' saw' (ID: 5485), Prob: 0.0014
-Token: ' cl' (ID: 1185), Prob: 0.0013
-Token: ' wanted' (ID: 4829), Prob: 0.0012
-Token: ' realized' (ID: 15043), Prob: 0.0010
-Token: ' moved' (ID: 7726), Prob: 0.0010
-Token: ' wiped' (ID: 48166), Prob: 0.0010
-Token: ' made' (ID: 1865), Prob: 0.0008
-Token: ''d' (ID: 4172), Prob: 0.0008
-Token: ' checked' (ID: 10067), Prob: 0.0008
-Token: ' watched' (ID: 15384), Prob: 0.0008
-Token: ' hes' (ID: 19779), Prob: 0.0008
-Token: ' strained' (ID: 72679), Prob: 0.0008
-Token: ' muttered' (ID: 86594), Prob: 0.0008
-Token: ' stood' (ID: 14638), Prob: 0.0008
-Token: ' swallowed' (ID: 63337), Prob: 0.0007
-Token: ' carefully' (ID: 15516), Prob: 0.0007
-Token: ' dared' (ID: 74935), Prob: 0.0007
-Token: ' approached' (ID: 24706), Prob: 0.0006
-Token: ' shifted' (ID: 28973), Prob: 0.0006
-Token: ' shook' (ID: 34914), Prob: 0.0006
-Token: ' slipped' (ID: 42478), Prob: 0.0006
-Token: ' c' (ID: 272), Prob: 0.0006
-Token: ' wasn' (ID: 5710), Prob: 0.0006
-Token: ' closed' (ID: 7877), Prob: 0.0006
-Token: ' squ' (ID: 8167), Prob: 0.0006
-Token: ' walked' (ID: 14858), Prob: 0.0006
-Token: ' let' (ID: 1077), Prob: 0.0005
-Token: ' must' (ID: 1969), Prob: 0.0005
-Token: ' snapped' (ID: 47010), Prob: 0.0005
-Token: ' waved' (ID: 64582), Prob: 0.0005
-Token: ' pe' (ID: 1051), Prob: 0.0005
-Token: ' never' (ID: 2581), Prob: 0.0005
-Token: ' activated' (ID: 21985), Prob: 0.0005
-Token: ' was' (ID: 572), Prob: 0.0004
-Token: ' put' (ID: 2182), Prob: 0.0004
-Token: ' instinct' (ID: 30555), Prob: 0.0004
-Token: ' dipped' (ID: 72207), Prob: 0.0004
-Token: ' wh' (ID: 420), Prob: 0.0004
-Token: ' cre' (ID: 1884), Prob: 0.0004
-Token: ' immediately' (ID: 7069), Prob: 0.0004
-Token: ' kept' (ID: 8604), Prob: 0.0004
-Token: ' radio' (ID: 8887), Prob: 0.0004
-Token: ' scanned' (ID: 47448), Prob: 0.0004
-Token: ' rubbed' (ID: 66754), Prob: 0.0004
-Token: ' cautiously' (ID: 91385), Prob: 0.0004
-Token: ' started' (ID: 3855), Prob: 0.0003
-Token: ' studied' (ID: 19476), Prob: 0.0003
-Token: ' cursed' (ID: 62871), Prob: 0.0003
-Token: ' swore' (ID: 91207), Prob: 0.0003
-Token: ' sh' (ID: 557), Prob: 0.0003
-Token: ' clicked' (ID: 19910), Prob: 0.0003
-Token: ' st' (ID: 357), Prob: 0.0003
-Token: ' broke' (ID: 14422), Prob: 0.0003
-Token: ' recalled' (ID: 31130), Prob: 0.0003
-Token: '’d' (ID: 6925), Prob: 0.0003
+Token: ' cold' (ID: 9255), Prob: 0.9844
+Token: ' bad' (ID: 3873), Prob: 0.0022
+Token: ' still' (ID: 2058), Prob: 0.0011
+Token: ' cool' (ID: 7010), Prob: 0.0009
+Token: ' very' (ID: 1602), Prob: 0.0007
+Token: ' icy' (ID: 65904), Prob: 0.0007
+Token: ' warm' (ID: 8205), Prob: 0.0005
+Token: ' not' (ID: 537), Prob: 0.0004
+Token: ' hot' (ID: 4017), Prob: 0.0003
+Token: ' good' (ID: 1661), Prob: 0.0003
+Token: ' a' (ID: 264), Prob: 0.0002
+Token: ' freezing' (ID: 42218), Prob: 0.0002
+Token: ' the' (ID: 279), Prob: 0.0002
+Token: ' chilly' (ID: 80875), Prob: 0.0002
+Token: ' storm' (ID: 13458), Prob: 0.0002
+Token: ' calm' (ID: 19300), Prob: 0.0002
+Token: ' low' (ID: 3347), Prob: 0.0001
+Token: ' just' (ID: 1101), Prob: 0.0001
+Token: ' clean' (ID: 4240), Prob: 0.0001
+Token: ' so' (ID: 773), Prob: 0.0001
+Token: ' dry' (ID: 9058), Prob: 0.0001
+Token: ' colder' (ID: 75114), Prob: 0.0001
+Token: ' really' (ID: 2167), Prob: 0.0001
 
 == Ranked Concepts (Clusters) ==
-Rank 1 | Centroid: ' reached' | Score: 0.3652
-  Tokens: [' reached', ' opened', ' approached']
-Rank 2 | Centroid: ' glanced' | Score: 0.1260
-  Tokens: [' stepped', ' blinked', ' stared', ' leaned', ' glanced', ' stumbled']
-Rank 3 | Centroid: ' didn' | Score: 0.1069
-  Tokens: [' had', ' didn', ' could', ' couldn', ' hadn', ' did', ' wasn', ' was']
-Rank 4 | Centroid: ' moved' | Score: 0.1055
-  Tokens: [' turned', ' raised', ' dropped', ' lowered', ' backed', ' moved', ' shifted']
-Rank 5 | Centroid: ' began' | Score: 0.0645
-  Tokens: [' took', ' began', ' drew', ' started', ' broke']
-Rank 6 | Centroid: ' checked' | Score: 0.0371
-  Tokens: [' tried', ' checked', ' studied']
-Rank 7 | Centroid: ' cautiously' | Score: 0.0260
-  Tokens: [' slowly', ' quickly', ' carefully', ' instinct', ' immediately', ' cautiously']
-Rank 8 | Centroid: ' kept' | Score: 0.0240
-  Tokens: [' pulled', ' picked', ' held', ' kept']
-Rank 9 | Centroid: ' knew' | Score: 0.0183
-  Tokens: [' knew', ' saw']
-Rank 10 | Centroid: ' muttered' | Score: 0.0172
-  Tokens: [' whispered', ' muttered', ' dared', ' cursed', ' swore']
-Rank 11 | Centroid: ' wanted' | Score: 0.0168
-  Tokens: [' thought', ' felt', ' wanted']
-Rank 12 | Centroid: ' looked' | Score: 0.0155
-  Tokens: [' looked', ' watched', ' walked']
-Rank 13 | Centroid: ' made' | Score: 0.0114
-  Tokens: [' called', ' made', ' let', ' must', ' put']
-Rank 14 | Centroid: ' remembered' | Score: 0.0087
-  Tokens: [' remembered', ' heard', ' recognized', ' realized', ' recalled']
-Rank 15 | Centroid: ' adjusted' | Score: 0.0078
-  Tokens: [' tightened', ' adjusted', ' closed', ' activated']
-Rank 16 | Centroid: ' c' | Score: 0.0075
-  Tokens: [' f', ' cl', ' c', ' squ', ' pe', ' wh', ' sh', ' st']
-Rank 17 | Centroid: ' grabbed' | Score: 0.0073
-  Tokens: [' grabbed', ' wiped', ' swallowed', ' slipped', ' snapped', ' waved', ' dipped', ' rubbed']
-Rank 18 | Centroid: ' radio' | Score: 0.0063
-  Tokens: [' gri', ' lit', ' cre', ' radio']
-Rank 19 | Centroid: ' clicked' | Score: 0.0026
-  Tokens: [' pressed', ' scanned', ' clicked']
-Rank 20 | Centroid: ' clen' | Score: 0.0025
-  Tokens: [' clen', ' strained']
-Rank 21 | Centroid: ' stood' | Score: 0.0014
-  Tokens: [' stood', ' shook']
-Rank 22 | Centroid: ''d' | Score: 0.0011
-  Tokens: ["'d", '’d']
-Rank 23 | Centroid: ' hes' | Score: 0.0008
-  Tokens: [' hes']
-Rank 24 | Centroid: ' never' | Score: 0.0005
-  Tokens: [' never']
+Rank 1 | Centroid: ' cold' | Score: 0.9844
+  Tokens: [' cold', ' icy', ' freezing', ' chilly', ' colder']
+Rank 2 | Centroid: ' bad' | Score: 0.0024
+  Tokens: [' bad', ' good']
+Rank 3 | Centroid: ' warm' | Score: 0.0018
+  Tokens: [' cool', ' warm', ' hot']
+Rank 4 | Centroid: ' still' | Score: 0.0011
+  Tokens: [' still']
+Rank 5 | Centroid: ' the' | Score: 0.0008
+  Tokens: [' not', ' a', ' the']
+Rank 6 | Centroid: ' very' | Score: 0.0008
+  Tokens: [' very', ' really']
+Rank 7 | Centroid: ' clean' | Score: 0.0004
+  Tokens: [' calm', ' clean', ' dry']
+Rank 8 | Centroid: ' storm' | Score: 0.0002
+  Tokens: [' storm']
+Rank 9 | Centroid: ' low' | Score: 0.0001
+  Tokens: [' low']
+Rank 10 | Centroid: ' just' | Score: 0.0001
+  Tokens: [' just']
+Rank 11 | Centroid: ' so' | Score: 0.0001
+  Tokens: [' so']
 
 **Chosen Concept:** Rank 1

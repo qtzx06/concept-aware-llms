@@ -1,0 +1,57 @@
+--- Step 44 Log ---
+
+== Filtered Candidates ==
+Token: ' The' (ID: 576), Prob: 0.4336
+Token: ' It' (ID: 1084), Prob: 0.1406
+Token: ' I' (ID: 358), Prob: 0.0518
+Token: ' So' (ID: 2055), Prob: 0.0403
+Token: ' What' (ID: 3555), Prob: 0.0378
+Token: ' Now' (ID: 4695), Prob: 0.0139
+Token: ' But' (ID: 1988), Prob: 0.0115
+Token: ' This' (ID: 1096), Prob: 0.0096
+Token: ' All' (ID: 2009), Prob: 0.0096
+Token: ' And' (ID: 1597), Prob: 0.0084
+Token: ' Maybe' (ID: 10696), Prob: 0.0084
+Token: ' They' (ID: 2379), Prob: 0.0074
+Token: ' How' (ID: 2585), Prob: 0.0062
+Token: ' You' (ID: 1446), Prob: 0.0051
+Token: ' These' (ID: 4220), Prob: 0.0045
+Token: ' He' (ID: 1260), Prob: 0.0045
+Token: ' Let' (ID: 6771), Prob: 0.0042
+Token: ' There' (ID: 2619), Prob: 0.0035
+Token: ' Which' (ID: 15920), Prob: 0.0033
+Token: ' A' (ID: 362), Prob: 0.0033
+Token: ' That' (ID: 2938), Prob: 0.0029
+Token: ' After' (ID: 4636), Prob: 0.0027
+
+== Ranked Concepts (Clusters) ==
+Rank 1 | Centroid: ' The' | Score: 0.4336
+  Tokens: [' The']
+Rank 2 | Centroid: ' It' | Score: 0.1494
+  Tokens: [' It', ' You', ' There']
+Rank 3 | Centroid: ' But' | Score: 0.0603
+  Tokens: [' So', ' But', ' And']
+Rank 4 | Centroid: ' I' | Score: 0.0518
+  Tokens: [' I']
+Rank 5 | Centroid: ' What' | Score: 0.0439
+  Tokens: [' What', ' How']
+Rank 6 | Centroid: ' These' | Score: 0.0215
+  Tokens: [' This', ' They', ' These']
+Rank 7 | Centroid: ' Now' | Score: 0.0139
+  Tokens: [' Now']
+Rank 8 | Centroid: ' All' | Score: 0.0096
+  Tokens: [' All']
+Rank 9 | Centroid: ' Maybe' | Score: 0.0084
+  Tokens: [' Maybe']
+Rank 10 | Centroid: ' Which' | Score: 0.0062
+  Tokens: [' Which', ' That']
+Rank 11 | Centroid: ' He' | Score: 0.0045
+  Tokens: [' He']
+Rank 12 | Centroid: ' Let' | Score: 0.0042
+  Tokens: [' Let']
+Rank 13 | Centroid: ' A' | Score: 0.0033
+  Tokens: [' A']
+Rank 14 | Centroid: ' After' | Score: 0.0027
+  Tokens: [' After']
+
+**Chosen Concept:** Rank 1

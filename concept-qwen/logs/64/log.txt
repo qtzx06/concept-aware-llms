@@ -1,161 +1,58 @@
 --- Step 64 Log ---
 
 == Filtered Candidates ==
-Token: ' beam' (ID: 23418), Prob: 0.4648
-Token: ' light' (ID: 3100), Prob: 0.1943
-Token: ' figure' (ID: 7071), Prob: 0.1177
-Token: ' fog' (ID: 30249), Prob: 0.1040
-Token: ' wind' (ID: 9956), Prob: 0.0491
-Token: ' silence' (ID: 21162), Prob: 0.0085
-Token: ' shadow' (ID: 12455), Prob: 0.0075
-Token: ' cold' (ID: 9255), Prob: 0.0066
-Token: ' sea' (ID: 9396), Prob: 0.0059
-Token: ' air' (ID: 3720), Prob: 0.0045
-Token: ' creature' (ID: 17218), Prob: 0.0031
-Token: ' shadows' (ID: 34512), Prob: 0.0028
-Token: ' darkness' (ID: 26298), Prob: 0.0023
-Token: ' moment' (ID: 4445), Prob: 0.0020
-Token: ' next' (ID: 1790), Prob: 0.0017
-Token: ' lights' (ID: 12711), Prob: 0.0016
-Token: ' lantern' (ID: 73165), Prob: 0.0015
-Token: ' voice' (ID: 7743), Prob: 0.0013
-Token: ' glow' (ID: 35966), Prob: 0.0013
-Token: ' thing' (ID: 3166), Prob: 0.0012
-Token: ' l' (ID: 326), Prob: 0.0011
-Token: ' last' (ID: 1537), Prob: 0.0008
-Token: ' only' (ID: 1172), Prob: 0.0007
-Token: ' sound' (ID: 5112), Prob: 0.0007
-Token: ' mist' (ID: 8600), Prob: 0.0007
-Token: ' ghost' (ID: 19866), Prob: 0.0005
-Token: ' first' (ID: 1156), Prob: 0.0004
-Token: ' image' (ID: 2168), Prob: 0.0004
-Token: ' old' (ID: 2310), Prob: 0.0004
-Token: ' waves' (ID: 16876), Prob: 0.0004
-Token: ' beams' (ID: 49945), Prob: 0.0003
-Token: ' dark' (ID: 6319), Prob: 0.0003
-Token: ' lamp' (ID: 27962), Prob: 0.0003
-Token: ' flashlight' (ID: 78415), Prob: 0.0003
-Token: ' entity' (ID: 5387), Prob: 0.0003
-Token: ' whisper' (ID: 34855), Prob: 0.0003
-Token: ' shape' (ID: 6083), Prob: 0.0002
-Token: ' weight' (ID: 4680), Prob: 0.0002
-Token: ' presence' (ID: 9362), Prob: 0.0002
-Token: ' words' (ID: 4244), Prob: 0.0002
-Token: ' temperature' (ID: 9315), Prob: 0.0002
-Token: ' silhouette' (ID: 56727), Prob: 0.0002
-Token: ' fire' (ID: 3940), Prob: 0.0002
-Token: ' beast' (ID: 31136), Prob: 0.0002
-Token: ' world' (ID: 1879), Prob: 0.0002
-Token: ' storm' (ID: 13458), Prob: 0.0002
-Token: ' flame' (ID: 34578), Prob: 0.0002
-Token: ' faint' (ID: 37578), Prob: 0.0001
-Token: ' beacon' (ID: 51302), Prob: 0.0001
-Token: ' more' (ID: 803), Prob: 0.0001
-Token: ' night' (ID: 3729), Prob: 0.0001
-Token: ' figures' (ID: 12396), Prob: 0.0001
-Token: ' strange' (ID: 14888), Prob: 0.0001
-Token: ' keeper' (ID: 53416), Prob: 0.0001
-Token: ' glass' (ID: 8991), Prob: 0.0001
-Token: ' reflection' (ID: 21844), Prob: 0.0001
-Token: ' rhythm' (ID: 36290), Prob: 0.0001
-Token: ' w' (ID: 289), Prob: 0.0001
-Token: ' door' (ID: 6006), Prob: 0.0001
-Token: ' distance' (ID: 6010), Prob: 0.0001
-Token: ' signal' (ID: 8286), Prob: 0.0001
-Token: ' tower' (ID: 21271), Prob: 0.0001
-Token: ' man' (ID: 883), Prob: 0.0001
-Token: ' ocean' (ID: 17951), Prob: 0.0001
-Token: ' fear' (ID: 8679), Prob: 0.0001
-Token: ' salt' (ID: 12021), Prob: 0.0001
-Token: ' flick' (ID: 28347), Prob: 0.0001
-Token: ' thought' (ID: 3381), Prob: 0.0001
-Token: ' eyes' (ID: 6414), Prob: 0.0001
-Token: ' wave' (ID: 12060), Prob: 0.0001
-Token: ' moon' (ID: 17788), Prob: 0.0001
-Token: ' tide' (ID: 41938), Prob: 0.0001
-Token: ' whispers' (ID: 88148), Prob: 0.0001
-Token: ' truth' (ID: 8046), Prob: 0.0001
-Token: ' ship' (ID: 8284), Prob: 0.0001
-Token: ' boat' (ID: 15328), Prob: 0.0001
-Token: ' deeper' (ID: 19117), Prob: 0.0001
-Token: ' stranger' (ID: 33958), Prob: 0.0001
-Token: ' candle' (ID: 37799), Prob: 0.0001
-Token: ' footsteps' (ID: 59702), Prob: 0.0001
-Token: ' ground' (ID: 4910), Prob: 0.0001
-Token: ' distant' (ID: 28727), Prob: 0.0001
-Token: ' f' (ID: 282), Prob: 0.0001
-Token: ' movement' (ID: 7203), Prob: 0.0001
-Token: ' closer' (ID: 12128), Prob: 0.0001
-Token: ' tip' (ID: 11552), Prob: 0.0001
-Token: ' ancient' (ID: 13833), Prob: 0.0001
-Token: ' same' (ID: 1852), Prob: 0.0001
-Token: ' seconds' (ID: 6486), Prob: 0.0001
-Token: ' noise' (ID: 11980), Prob: 0.0001
-Token: ' glowing' (ID: 48492), Prob: 0.0001
-Token: ' power' (ID: 2355), Prob: 0.0000
-Token: ' water' (ID: 3015), Prob: 0.0000
-Token: ' clock' (ID: 8866), Prob: 0.0000
-Token: ' coast' (ID: 13648), Prob: 0.0000
-Token: ' g' (ID: 342), Prob: 0.0000
-Token: ' machine' (ID: 5662), Prob: 0.0000
-Token: ' soft' (ID: 8413), Prob: 0.0000
-Token: ' radio' (ID: 8887), Prob: 0.0000
-Token: ' device' (ID: 3671), Prob: 0.0000
+Token: ' The' (ID: 576), Prob: 0.5469
+Token: ' It' (ID: 1084), Prob: 0.1074
+Token: ' I' (ID: 358), Prob: 0.0508
+Token: ' So' (ID: 2055), Prob: 0.0327
+Token: ' What' (ID: 3555), Prob: 0.0211
+Token: ' Now' (ID: 4695), Prob: 0.0176
+Token: ' This' (ID: 1096), Prob: 0.0114
+Token: ' And' (ID: 1597), Prob: 0.0106
+Token: ' But' (ID: 1988), Prob: 0.0061
+Token: ' Maybe' (ID: 10696), Prob: 0.0050
+Token: ' All' (ID: 2009), Prob: 0.0047
+Token: ' How' (ID: 2585), Prob: 0.0042
+Token: ' These' (ID: 4220), Prob: 0.0042
+Token: ' You' (ID: 1446), Prob: 0.0037
+Token: ' Let' (ID: 6771), Prob: 0.0034
+Token: ' They' (ID: 2379), Prob: 0.0031
+Token: ' He' (ID: 1260), Prob: 0.0029
+Token: ' Please' (ID: 5209), Prob: 0.0021
+Token: ' Okay' (ID: 35439), Prob: 0.0021
+Token: ' After' (ID: 4636), Prob: 0.0020
+Token: ' We' (ID: 1205), Prob: 0.0018
 
 == Ranked Concepts (Clusters) ==
-Rank 1 | Centroid: ' beam' | Score: 0.4648
-  Tokens: [' beam', ' beams', ' beacon', ' radio']
-Rank 2 | Centroid: ' lamp' | Score: 0.1992
-  Tokens: [' light', ' lights', ' lantern', ' glow', ' lamp', ' flashlight', ' candle', ' glowing']
-Rank 3 | Centroid: ' figure' | Score: 0.1177
-  Tokens: [' figure', ' figures']
-Rank 4 | Centroid: ' fog' | Score: 0.1050
-  Tokens: [' fog', ' mist', ' tip']
-Rank 5 | Centroid: ' water' | Score: 0.0540
-  Tokens: [' wind', ' air', ' temperature', ' water']
-Rank 6 | Centroid: ' shadow' | Score: 0.0108
-  Tokens: [' shadow', ' shadows', ' ghost']
-Rank 7 | Centroid: ' whispers' | Score: 0.0093
-  Tokens: [' silence', ' whisper', ' silhouette', ' rhythm', ' whispers', ' footsteps']
-Rank 8 | Centroid: ' cold' | Score: 0.0066
-  Tokens: [' cold']
-Rank 9 | Centroid: ' ocean' | Score: 0.0065
-  Tokens: [' sea', ' storm', ' ocean', ' salt', ' moon', ' tide', ' ship', ' boat', ' coast']
-Rank 10 | Centroid: ' first' | Score: 0.0056
-  Tokens: [' next', ' l', ' last', ' only', ' first', ' old', ' more', ' w', ' man', ' f', ' same', ' power', ' g']
-Rank 11 | Centroid: ' creature' | Score: 0.0051
-  Tokens: [' creature', ' thing', ' entity', ' beast', ' keeper', ' tower', ' machine', ' device']
-Rank 12 | Centroid: ' darkness' | Score: 0.0026
-  Tokens: [' darkness', ' dark']
-Rank 13 | Centroid: ' noise' | Score: 0.0024
-  Tokens: [' voice', ' sound', ' weight', ' signal', ' noise']
-Rank 14 | Centroid: ' seconds' | Score: 0.0024
-  Tokens: [' moment', ' presence', ' thought', ' seconds']
-Rank 15 | Centroid: ' image' | Score: 0.0007
-  Tokens: [' image', ' shape', ' movement']
-Rank 16 | Centroid: ' strange' | Score: 0.0005
-  Tokens: [' strange', ' distance', ' deeper', ' stranger', ' distant', ' closer', ' ancient']
-Rank 17 | Centroid: ' flame' | Score: 0.0004
-  Tokens: [' fire', ' flame', ' flick']
-Rank 18 | Centroid: ' waves' | Score: 0.0004
-  Tokens: [' waves', ' wave']
-Rank 19 | Centroid: ' words' | Score: 0.0003
-  Tokens: [' words', ' eyes']
-Rank 20 | Centroid: ' world' | Score: 0.0003
-  Tokens: [' world', ' door']
-Rank 21 | Centroid: ' truth' | Score: 0.0002
-  Tokens: [' truth', ' ground', ' clock']
-Rank 22 | Centroid: ' faint' | Score: 0.0001
-  Tokens: [' faint']
-Rank 23 | Centroid: ' night' | Score: 0.0001
-  Tokens: [' night']
-Rank 24 | Centroid: ' glass' | Score: 0.0001
-  Tokens: [' glass']
-Rank 25 | Centroid: ' reflection' | Score: 0.0001
-  Tokens: [' reflection']
-Rank 26 | Centroid: ' fear' | Score: 0.0001
-  Tokens: [' fear']
-Rank 27 | Centroid: ' soft' | Score: 0.0000
-  Tokens: [' soft']
+Rank 1 | Centroid: ' The' | Score: 0.6562
+  Tokens: [' The', ' It']
+Rank 2 | Centroid: ' I' | Score: 0.0508
+  Tokens: [' I']
+Rank 3 | Centroid: ' So' | Score: 0.0327
+  Tokens: [' So']
+Rank 4 | Centroid: ' What' | Score: 0.0253
+  Tokens: [' What', ' How']
+Rank 5 | Centroid: ' These' | Score: 0.0186
+  Tokens: [' This', ' These', ' They']
+Rank 6 | Centroid: ' Now' | Score: 0.0176
+  Tokens: [' Now']
+Rank 7 | Centroid: ' And' | Score: 0.0167
+  Tokens: [' And', ' But']
+Rank 8 | Centroid: ' You' | Score: 0.0055
+  Tokens: [' You', ' We']
+Rank 9 | Centroid: ' Maybe' | Score: 0.0050
+  Tokens: [' Maybe']
+Rank 10 | Centroid: ' All' | Score: 0.0047
+  Tokens: [' All']
+Rank 11 | Centroid: ' Let' | Score: 0.0034
+  Tokens: [' Let']
+Rank 12 | Centroid: ' He' | Score: 0.0029
+  Tokens: [' He']
+Rank 13 | Centroid: ' Please' | Score: 0.0021
+  Tokens: [' Please']
+Rank 14 | Centroid: ' Okay' | Score: 0.0021
+  Tokens: [' Okay']
+Rank 15 | Centroid: ' After' | Score: 0.0020
+  Tokens: [' After']
 
 **Chosen Concept:** Rank 1
