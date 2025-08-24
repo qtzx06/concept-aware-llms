@@ -1,0 +1,130 @@
+--- Step 85 Log ---
+
+== Filtered Candidates ==
+Token: ' He' (ID: 1260), Prob: 0.4180
+Token: ' The' (ID: 576), Prob: 0.1973
+Token: ' But' (ID: 1988), Prob: 0.0267
+Token: ' And' (ID: 1597), Prob: 0.0251
+Token: ' What' (ID: 3555), Prob: 0.0251
+Token: ' His' (ID: 5301), Prob: 0.0152
+Token: ' It' (ID: 1084), Prob: 0.0111
+Token: ' Now' (ID: 4695), Prob: 0.0111
+Token: ' A' (ID: 362), Prob: 0.0098
+Token: ' This' (ID: 1096), Prob: 0.0072
+Token: ' So' (ID: 2055), Prob: 0.0063
+Token: ' I' (ID: 358), Prob: 0.0060
+Token: ' Wait' (ID: 13824), Prob: 0.0049
+Token: ' Something' (ID: 24656), Prob: 0.0049
+Token: ' Oh' (ID: 8670), Prob: 0.0044
+Token: ' There' (ID: 2619), Prob: 0.0038
+Token: ' As' (ID: 1634), Prob: 0.0038
+Token: ' She' (ID: 2932), Prob: 0.0026
+Token: ' That' (ID: 2938), Prob: 0.0026
+Token: ' No' (ID: 2308), Prob: 0.0025
+Token: ' With' (ID: 3085), Prob: 0.0022
+Token: ' If' (ID: 1416), Prob: 0.0021
+Token: ' Maybe' (ID: 10696), Prob: 0.0021
+Token: ' All' (ID: 2009), Prob: 0.0019
+Token: ' Finally' (ID: 17375), Prob: 0.0018
+Token: ' Just' (ID: 4599), Prob: 0.0017
+Token: ' At' (ID: 2411), Prob: 0.0017
+Token: ' Then' (ID: 5005), Prob: 0.0016
+Token: ' Who' (ID: 10479), Prob: 0.0016
+Token: ' Every' (ID: 7209), Prob: 0.0014
+Token: ' How' (ID: 2585), Prob: 0.0014
+Token: ' Why' (ID: 8429), Prob: 0.0013
+Token: ' Was' (ID: 14804), Prob: 0.0013
+Token: ' In' (ID: 758), Prob: 0.0013
+Token: ' When' (ID: 3197), Prob: 0.0012
+Token: ' One' (ID: 3776), Prob: 0.0011
+Token: ' For' (ID: 1752), Prob: 0.0011
+Token: ' They' (ID: 2379), Prob: 0.0010
+Token: ' Each' (ID: 8886), Prob: 0.0010
+Token: ' Tonight' (ID: 54214), Prob: 0.0009
+Token: ' Let' (ID: 6771), Prob: 0.0009
+Token: ' Did' (ID: 14568), Prob: 0.0008
+Token: ' Still' (ID: 16377), Prob: 0.0008
+Token: ' Because' (ID: 9211), Prob: 0.0008
+Token: ' Could' (ID: 16503), Prob: 0.0007
+Token: ' Okay' (ID: 35439), Prob: 0.0007
+Token: ' Even' (ID: 7418), Prob: 0.0007
+Token: ' These' (ID: 4220), Prob: 0.0006
+Token: ' After' (ID: 4636), Prob: 0.0006
+Token: ' To' (ID: 2014), Prob: 0.0006
+Token: ' Suddenly' (ID: 57701), Prob: 0.0006
+Token: ' Which' (ID: 15920), Prob: 0.0005
+Token: ' Ah' (ID: 16366), Prob: 0.0005
+Token: ' Hmm' (ID: 88190), Prob: 0.0004
+Token: ' Please' (ID: 5209), Prob: 0.0004
+Token: ' Som' (ID: 17564), Prob: 0.0004
+Token: ' Not' (ID: 2806), Prob: 0.0004
+Token: ' Time' (ID: 4120), Prob: 0.0004
+Token: ' Little' (ID: 14671), Prob: 0.0004
+Token: ' Whatever' (ID: 32639), Prob: 0.0004
+Token: ' An' (ID: 1527), Prob: 0.0004
+Token: ' Can' (ID: 2980), Prob: 0.0003
+Token: ' You' (ID: 1446), Prob: 0.0003
+Token: ' Perhaps' (ID: 18765), Prob: 0.0003
+Token: ' On' (ID: 1913), Prob: 0.0003
+Token: ' Slow' (ID: 38147), Prob: 0.0003
+Token: ' Only' (ID: 8278), Prob: 0.0003
+Token: ' Night' (ID: 12826), Prob: 0.0003
+Token: ' Describe' (ID: 60785), Prob: 0.0003
+Token: ' From' (ID: 5542), Prob: 0.0003
+Token: ' Without' (ID: 17147), Prob: 0.0003
+Token: ' Once' (ID: 9646), Prob: 0.0003
+Token: ' Yes' (ID: 7414), Prob: 0.0003
+Token: ' Too' (ID: 24599), Prob: 0.0003
+Token: ' More' (ID: 4398), Prob: 0.0003
+Token: ' Had' (ID: 23864), Prob: 0.0003
+Token: ' According' (ID: 10548), Prob: 0.0003
+Token: ' Is' (ID: 2160), Prob: 0.0002
+Token: ' Someone' (ID: 34172), Prob: 0.0002
+Token: ' Keep' (ID: 13655), Prob: 0.0002
+Token: ' Before' (ID: 13235), Prob: 0.0002
+Token: ' Both' (ID: 11733), Prob: 0.0002
+Token: ' Ten' (ID: 17695), Prob: 0.0002
+
+== Ranked Concepts (Clusters) ==
+Rank 1 | Centroid: ' He' | Score: 0.4355
+  Tokens: [' He', ' His', ' She']
+Rank 2 | Centroid: ' This' | Score: 0.2236
+  Tokens: [' The', ' It', ' This', ' There', ' That', ' They', ' These', ' You']
+Rank 3 | Centroid: ' But' | Score: 0.0581
+  Tokens: [' But', ' And', ' So']
+Rank 4 | Centroid: ' What' | Score: 0.0303
+  Tokens: [' What', ' Who', ' How', ' Why', ' Which', ' Describe']
+Rank 5 | Centroid: ' As' | Score: 0.0232
+  Tokens: [' A', ' I', ' As', ' At', ' In', ' An', ' On']
+Rank 6 | Centroid: ' Now' | Score: 0.0148
+  Tokens: [' Now', ' Finally', ' Then', ' Once']
+Rank 7 | Centroid: ' For' | Score: 0.0071
+  Tokens: [' With', ' If', ' For', ' Let', ' To', ' From']
+Rank 8 | Centroid: ' Keep' | Score: 0.0063
+  Tokens: [' Wait', ' Still', ' Too', ' Keep']
+Rank 9 | Centroid: ' Oh' | Score: 0.0062
+  Tokens: [' Oh', ' Okay', ' Ah', ' Hmm', ' Yes']
+Rank 10 | Centroid: ' Something' | Score: 0.0060
+  Tokens: [' Something', ' Som', ' Whatever', ' Someone']
+Rank 11 | Centroid: ' Not' | Score: 0.0051
+  Tokens: [' No', ' Just', ' Not', ' Only', ' More']
+Rank 12 | Centroid: ' Was' | Score: 0.0036
+  Tokens: [' Was', ' Did', ' Could', ' Can', ' Had', ' Is']
+Rank 13 | Centroid: ' Every' | Score: 0.0033
+  Tokens: [' Every', ' Each', ' Even', ' Both']
+Rank 14 | Centroid: ' When' | Score: 0.0033
+  Tokens: [' When', ' Because', ' After', ' Without', ' According', ' Before']
+Rank 15 | Centroid: ' All' | Score: 0.0031
+  Tokens: [' All', ' One']
+Rank 16 | Centroid: ' Maybe' | Score: 0.0023
+  Tokens: [' Maybe', ' Perhaps']
+Rank 17 | Centroid: ' Tonight' | Score: 0.0015
+  Tokens: [' Tonight', ' Suddenly']
+Rank 18 | Centroid: ' Slow' | Score: 0.0013
+  Tokens: [' Time', ' Little', ' Slow', ' Night']
+Rank 19 | Centroid: ' Please' | Score: 0.0004
+  Tokens: [' Please']
+Rank 20 | Centroid: ' Ten' | Score: 0.0002
+  Tokens: [' Ten']
+
+**Chosen Concept:** Rank 1

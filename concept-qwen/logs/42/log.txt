@@ -1,0 +1,155 @@
+--- Step 42 Log ---
+
+== Filtered Candidates ==
+Token: ' ship' (ID: 8284), Prob: 0.2227
+Token: ' sea' (ID: 9396), Prob: 0.1191
+Token: ' storm' (ID: 13458), Prob: 0.0815
+Token: ' fog' (ID: 30249), Prob: 0.0598
+Token: ' signal' (ID: 8286), Prob: 0.0598
+Token: ' wind' (ID: 9956), Prob: 0.0496
+Token: ' crew' (ID: 13627), Prob: 0.0300
+Token: ' forecast' (ID: 17595), Prob: 0.0161
+Token: ' night' (ID: 3729), Prob: 0.0125
+Token: ' moon' (ID: 17788), Prob: 0.0125
+Token: ' tide' (ID: 41938), Prob: 0.0118
+Token: ' weather' (ID: 9104), Prob: 0.0110
+Token: ' light' (ID: 3100), Prob: 0.0104
+Token: ' captain' (ID: 23915), Prob: 0.0081
+Token: ' l' (ID: 326), Prob: 0.0081
+Token: ' enemy' (ID: 9175), Prob: 0.0067
+Token: ' warning' (ID: 9958), Prob: 0.0059
+Token: ' approaching' (ID: 29947), Prob: 0.0056
+Token: ' danger' (ID: 7978), Prob: 0.0052
+Token: ' watch' (ID: 3736), Prob: 0.0052
+Token: ' lights' (ID: 12711), Prob: 0.0043
+Token: ' alarm' (ID: 16624), Prob: 0.0043
+Token: ' lookout' (ID: 70915), Prob: 0.0043
+Token: ' old' (ID: 2310), Prob: 0.0041
+Token: ' sun' (ID: 7015), Prob: 0.0038
+Token: ' other' (ID: 1008), Prob: 0.0038
+Token: ' sky' (ID: 12884), Prob: 0.0038
+Token: ' time' (ID: 882), Prob: 0.0038
+Token: ' signals' (ID: 17289), Prob: 0.0034
+Token: ' radio' (ID: 8887), Prob: 0.0034
+Token: ' ships' (ID: 17727), Prob: 0.0034
+Token: ' waves' (ID: 16876), Prob: 0.0032
+Token: ' morning' (ID: 6556), Prob: 0.0032
+Token: ' mist' (ID: 8600), Prob: 0.0032
+Token: ' ocean' (ID: 17951), Prob: 0.0030
+Token: ' beam' (ID: 23418), Prob: 0.0030
+Token: ' keeper' (ID: 53416), Prob: 0.0026
+Token: ' fire' (ID: 3940), Prob: 0.0026
+Token: ' next' (ID: 1790), Prob: 0.0026
+Token: ' winds' (ID: 28492), Prob: 0.0025
+Token: ' mast' (ID: 18700), Prob: 0.0025
+Token: ' coast' (ID: 13648), Prob: 0.0022
+Token: ' coming' (ID: 5001), Prob: 0.0022
+Token: ' people' (ID: 1251), Prob: 0.0022
+Token: ' shore' (ID: 30184), Prob: 0.0020
+Token: ' current' (ID: 1482), Prob: 0.0020
+Token: ' boat' (ID: 15328), Prob: 0.0019
+Token: ' clock' (ID: 8866), Prob: 0.0019
+Token: ' noise' (ID: 11980), Prob: 0.0019
+Token: ' whole' (ID: 4361), Prob: 0.0019
+Token: ' day' (ID: 1899), Prob: 0.0019
+Token: ' man' (ID: 883), Prob: 0.0018
+Token: ' tower' (ID: 21271), Prob: 0.0016
+Token: ' mo' (ID: 4544), Prob: 0.0016
+Token: ' island' (ID: 12922), Prob: 0.0015
+Token: ' son' (ID: 4438), Prob: 0.0015
+Token: ' news' (ID: 3669), Prob: 0.0015
+Token: ' engine' (ID: 4712), Prob: 0.0015
+Token: ' report' (ID: 1895), Prob: 0.0015
+Token: ' water' (ID: 3015), Prob: 0.0014
+Token: ' incoming' (ID: 19393), Prob: 0.0014
+Token: ' harbor' (ID: 56411), Prob: 0.0014
+Token: ' last' (ID: 1537), Prob: 0.0013
+Token: ' battle' (ID: 8049), Prob: 0.0013
+Token: ' sound' (ID: 5112), Prob: 0.0012
+Token: ' power' (ID: 2355), Prob: 0.0012
+Token: ' pilot' (ID: 17708), Prob: 0.0012
+Token: ' rest' (ID: 2732), Prob: 0.0012
+Token: ' only' (ID: 1172), Prob: 0.0012
+Token: ' beacon' (ID: 51302), Prob: 0.0011
+Token: ' first' (ID: 1156), Prob: 0.0011
+Token: ' hour' (ID: 6460), Prob: 0.0010
+Token: ' stars' (ID: 9759), Prob: 0.0010
+Token: ' others' (ID: 3800), Prob: 0.0010
+Token: ' usual' (ID: 13475), Prob: 0.0010
+Token: ' sailor' (ID: 92537), Prob: 0.0010
+Token: ' men' (ID: 2953), Prob: 0.0010
+Token: ' past' (ID: 3267), Prob: 0.0009
+Token: ' approach' (ID: 5486), Prob: 0.0009
+Token: ' vessel' (ID: 26182), Prob: 0.0009
+Token: ' whale' (ID: 50019), Prob: 0.0009
+Token: ' threat' (ID: 5899), Prob: 0.0008
+Token: ' message' (ID: 1943), Prob: 0.0008
+Token: ' storms' (ID: 43483), Prob: 0.0008
+Token: ' call' (ID: 1618), Prob: 0.0008
+Token: ' angle' (ID: 9210), Prob: 0.0007
+Token: ' breeze' (ID: 45285), Prob: 0.0007
+Token: ' star' (ID: 6774), Prob: 0.0007
+Token: ' previous' (ID: 3681), Prob: 0.0007
+Token: ' bridge' (ID: 14164), Prob: 0.0007
+Token: ' s' (ID: 274), Prob: 0.0007
+Token: ' dark' (ID: 6319), Prob: 0.0007
+Token: ' two' (ID: 1378), Prob: 0.0007
+Token: ' war' (ID: 4116), Prob: 0.0007
+Token: ' silence' (ID: 21162), Prob: 0.0007
+Token: ' sailors' (ID: 68838), Prob: 0.0006
+Token: ' movement' (ID: 7203), Prob: 0.0006
+Token: ' t' (ID: 259), Prob: 0.0006
+Token: ' warnings' (ID: 18993), Prob: 0.0006
+Token: ' main' (ID: 1887), Prob: 0.0006
+
+== Ranked Concepts (Clusters) ==
+Rank 1 | Centroid: ' ship' | Score: 0.2695
+  Tokens: [' ship', ' crew', ' captain', ' ships', ' boat', ' pilot', ' sailor', ' vessel', ' sailors']
+Rank 2 | Centroid: ' storms' | Score: 0.1455
+  Tokens: [' storm', ' wind', ' weather', ' winds', ' storms']
+Rank 3 | Centroid: ' ocean' | Score: 0.1416
+  Tokens: [' sea', ' tide', ' ocean', ' coast', ' shore', ' island', ' harbor', ' whale']
+Rank 4 | Centroid: ' signals' | Score: 0.0664
+  Tokens: [' signal', ' signals', ' radio']
+Rank 5 | Centroid: ' fog' | Score: 0.0635
+  Tokens: [' fog', ' mist', ' breeze']
+Rank 6 | Centroid: ' warning' | Score: 0.0284
+  Tokens: [' forecast', ' warning', ' alarm', ' news', ' warnings']
+Rank 7 | Centroid: ' stars' | Score: 0.0219
+  Tokens: [' moon', ' sun', ' sky', ' stars', ' star']
+Rank 8 | Centroid: ' night' | Score: 0.0205
+  Tokens: [' night', ' morning', ' clock', ' day', ' hour']
+Rank 9 | Centroid: ' t' | Score: 0.0170
+  Tokens: [' l', ' time', ' power', ' only', ' s', ' two', ' t', ' main']
+Rank 10 | Centroid: ' light' | Score: 0.0154
+  Tokens: [' light', ' lights', ' dark']
+Rank 11 | Centroid: ' threat' | Score: 0.0140
+  Tokens: [' enemy', ' danger', ' battle', ' threat']
+Rank 12 | Centroid: ' previous' | Score: 0.0128
+  Tokens: [' old', ' next', ' current', ' last', ' first', ' past', ' previous']
+Rank 13 | Centroid: ' approaching' | Score: 0.0100
+  Tokens: [' approaching', ' coming', ' incoming', ' approach']
+Rank 14 | Centroid: ' beacon' | Score: 0.0089
+  Tokens: [' beam', ' keeper', ' tower', ' beacon', ' movement']
+Rank 15 | Centroid: ' other' | Score: 0.0089
+  Tokens: [' other', ' whole', ' rest', ' others', ' usual']
+Rank 16 | Centroid: ' report' | Score: 0.0082
+  Tokens: [' watch', ' report', ' message', ' call']
+Rank 17 | Centroid: ' men' | Score: 0.0081
+  Tokens: [' people', ' man', ' mo', ' son', ' men']
+Rank 18 | Centroid: ' lookout' | Score: 0.0043
+  Tokens: [' lookout']
+Rank 19 | Centroid: ' noise' | Score: 0.0038
+  Tokens: [' noise', ' sound', ' silence']
+Rank 20 | Centroid: ' waves' | Score: 0.0032
+  Tokens: [' waves']
+Rank 21 | Centroid: ' bridge' | Score: 0.0029
+  Tokens: [' engine', ' angle', ' bridge']
+Rank 22 | Centroid: ' fire' | Score: 0.0026
+  Tokens: [' fire']
+Rank 23 | Centroid: ' mast' | Score: 0.0025
+  Tokens: [' mast']
+Rank 24 | Centroid: ' water' | Score: 0.0021
+  Tokens: [' water', ' war']
+
+**Chosen Concept:** Rank 1

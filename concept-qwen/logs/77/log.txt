@@ -1,0 +1,119 @@
+--- Step 77 Log ---
+
+== Filtered Candidates ==
+Token: ' now' (ID: 1431), Prob: 0.9961
+Token: ' right' (ID: 1290), Prob: 0.0005
+Token: ' again' (ID: 1549), Prob: 0.0002
+Token: ' because' (ID: 1576), Prob: 0.0002
+Token: ' at' (ID: 518), Prob: 0.0001
+Token: ' NOW' (ID: 22407), Prob: 0.0001
+Token: ' for' (ID: 369), Prob: 0.0001
+Token: ' tonight' (ID: 17913), Prob: 0.0000
+Token: ' immediately' (ID: 7069), Prob: 0.0000
+Token: ' before' (ID: 1573), Prob: 0.0000
+Token: ' once' (ID: 3055), Prob: 0.0000
+Token: ' on' (ID: 389), Prob: 0.0000
+Token: ' Now' (ID: 4695), Prob: 0.0000
+Token: ' to' (ID: 311), Prob: 0.0000
+Token: ' then' (ID: 1221), Prob: 0.0000
+Token: ' soon' (ID: 5135), Prob: 0.0000
+Token: ' in' (ID: 304), Prob: 0.0000
+Token: ' here' (ID: 1588), Prob: 0.0000
+Token: ' and' (ID: 323), Prob: 0.0000
+Token: ' every' (ID: 1449), Prob: 0.0000
+Token: ' all' (ID: 678), Prob: 0.0000
+Token: ' this' (ID: 419), Prob: 0.0000
+Token: ' very' (ID: 1602), Prob: 0.0000
+Token: 'now' (ID: 3328), Prob: 0.0000
+Token: ' as' (ID: 438), Prob: 0.0000
+Token: ' when' (ID: 979), Prob: 0.0000
+Token: ' today' (ID: 3351), Prob: 0.0000
+Token: ' until' (ID: 3080), Prob: 0.0000
+Token: ' with' (ID: 448), Prob: 0.0000
+Token: ' anyway' (ID: 13657), Prob: 0.0000
+Token: ' so' (ID: 773), Prob: 0.0000
+Token: ' after' (ID: 1283), Prob: 0.0000
+Token: ' quickly' (ID: 6157), Prob: 0.0000
+Token: ' jetzt' (ID: 37699), Prob: 0.0000
+Token: ' next' (ID: 1790), Prob: 0.0000
+Token: ' suddenly' (ID: 14843), Prob: 0.0000
+Token: ' still' (ID: 2058), Prob: 0.0000
+Token: ' the' (ID: 279), Prob: 0.0000
+Token: ' down' (ID: 1495), Prob: 0.0000
+Token: ' too' (ID: 2238), Prob: 0.0000
+Token: ' even' (ID: 1496), Prob: 0.0000
+Token: ' alone' (ID: 7484), Prob: 0.0000
+Token: ' finally' (ID: 5499), Prob: 0.0000
+Token: ' only' (ID: 1172), Prob: 0.0000
+Token: ' just' (ID: 1101), Prob: 0.0000
+Token: ' since' (ID: 2474), Prob: 0.0000
+Token: ' any' (ID: 894), Prob: 0.0000
+Token: ' by' (ID: 553), Prob: 0.0000
+Token: ' fast' (ID: 4937), Prob: 0.0000
+Token: 'Now' (ID: 7039), Prob: 0.0000
+Token: ' during' (ID: 2337), Prob: 0.0000
+Token: ' already' (ID: 2669), Prob: 0.0000
+Token: ' from' (ID: 504), Prob: 0.0000
+Token: ' if' (ID: 421), Prob: 0.0000
+Token: '-now' (ID: 90963), Prob: 0.0000
+Token: '[now' (ID: 81283), Prob: 0.0000
+Token: ' one' (ID: 825), Prob: 0.0000
+Token: '(now' (ID: 32263), Prob: 0.0000
+Token: ' anymore' (ID: 14584), Prob: 0.0000
+Token: ' no' (ID: 902), Prob: 0.0000
+Token: ' maintenant' (ID: 73599), Prob: 0.0000
+Token: '.now' (ID: 10700), Prob: 0.0000
+Token: ' each' (ID: 1817), Prob: 0.0000
+Token: ' somehow' (ID: 16925), Prob: 0.0000
+Token: ' that' (ID: 429), Prob: 0.0000
+Token: ' yet' (ID: 3602), Prob: 0.0000
+Token: ' currently' (ID: 5023), Prob: 0.0000
+Token: ' there' (ID: 1052), Prob: 0.0000
+
+== Ranked Concepts (Clusters) ==
+Rank 1 | Centroid: ' Now' | Score: 0.9961
+  Tokens: [' now', ' NOW', ' Now', 'now', ' jetzt', 'Now', '-now', '[now', '(now', ' maintenant', '.now']
+Rank 2 | Centroid: ' very' | Score: 0.0005
+  Tokens: [' right', ' very', ' fast']
+Rank 3 | Centroid: ' in' | Score: 0.0003
+  Tokens: [' at', ' for', ' on', ' to', ' in', ' and', ' as', ' with', ' the', ' by', ' from', ' if', ' that']
+Rank 4 | Centroid: ' again' | Score: 0.0002
+  Tokens: [' again']
+Rank 5 | Centroid: ' because' | Score: 0.0002
+  Tokens: [' because', ' since']
+Rank 6 | Centroid: ' quickly' | Score: 0.0001
+  Tokens: [' immediately', ' soon', ' quickly']
+Rank 7 | Centroid: ' during' | Score: 0.0000
+  Tokens: [' before', ' when', ' until', ' after', ' during']
+Rank 8 | Centroid: ' tonight' | Score: 0.0000
+  Tokens: [' tonight', ' today']
+Rank 9 | Centroid: ' this' | Score: 0.0000
+  Tokens: [' here', ' this', ' there']
+Rank 10 | Centroid: ' once' | Score: 0.0000
+  Tokens: [' once']
+Rank 11 | Centroid: ' then' | Score: 0.0000
+  Tokens: [' then']
+Rank 12 | Centroid: ' every' | Score: 0.0000
+  Tokens: [' every', ' any', ' each']
+Rank 13 | Centroid: ' one' | Score: 0.0000
+  Tokens: [' all', ' one', ' no']
+Rank 14 | Centroid: ' so' | Score: 0.0000
+  Tokens: [' so', ' too']
+Rank 15 | Centroid: ' only' | Score: 0.0000
+  Tokens: [' alone', ' only', ' just']
+Rank 16 | Centroid: ' suddenly' | Score: 0.0000
+  Tokens: [' suddenly', ' finally', ' somehow']
+Rank 17 | Centroid: ' anyway' | Score: 0.0000
+  Tokens: [' anyway', ' anymore']
+Rank 18 | Centroid: ' still' | Score: 0.0000
+  Tokens: [' still', ' yet']
+Rank 19 | Centroid: ' next' | Score: 0.0000
+  Tokens: [' next']
+Rank 20 | Centroid: ' down' | Score: 0.0000
+  Tokens: [' down']
+Rank 21 | Centroid: ' even' | Score: 0.0000
+  Tokens: [' even']
+Rank 22 | Centroid: ' already' | Score: 0.0000
+  Tokens: [' already', ' currently']
+
+**Chosen Concept:** Rank 1

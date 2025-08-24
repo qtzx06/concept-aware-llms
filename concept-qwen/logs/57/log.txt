@@ -1,0 +1,143 @@
+--- Step 57 Log ---
+
+== Filtered Candidates ==
+Token: ' coming' (ID: 5001), Prob: 0.9336
+Token: ' approaching' (ID: 29947), Prob: 0.0361
+Token: ' going' (ID: 2087), Prob: 0.0026
+Token: ' moving' (ID: 7218), Prob: 0.0025
+Token: ' not' (ID: 537), Prob: 0.0025
+Token: ' on' (ID: 389), Prob: 0.0018
+Token: ' close' (ID: 3265), Prob: 0.0012
+Token: ' arriving' (ID: 32011), Prob: 0.0010
+Token: ' near' (ID: 3143), Prob: 0.0010
+Token: ' closing' (ID: 15316), Prob: 0.0009
+Token: ' here' (ID: 1588), Prob: 0.0008
+Token: ' getting' (ID: 3709), Prob: 0.0008
+Token: ' in' (ID: 304), Prob: 0.0006
+Token: ' a' (ID: 264), Prob: 0.0004
+Token: ' about' (ID: 911), Prob: 0.0004
+Token: ' closer' (ID: 12128), Prob: 0.0004
+Token: ' there' (ID: 1052), Prob: 0.0003
+Token: ' heading' (ID: 14496), Prob: 0.0002
+Token: ' threatening' (ID: 26805), Prob: 0.0002
+Token: ' right' (ID: 1290), Prob: 0.0002
+Token: ' sailing' (ID: 50029), Prob: 0.0002
+Token: ' nearing' (ID: 82299), Prob: 0.0002
+Token: ' already' (ID: 2669), Prob: 0.0002
+Token: ' making' (ID: 3259), Prob: 0.0002
+Token: ' the' (ID: 279), Prob: 0.0002
+Token: ' just' (ID: 1101), Prob: 0.0002
+Token: ' breaking' (ID: 14719), Prob: 0.0002
+Token: ' come' (ID: 2525), Prob: 0.0002
+Token: ' passing' (ID: 12299), Prob: 0.0002
+Token: ' leaving' (ID: 9380), Prob: 0.0002
+Token: ' waiting' (ID: 8580), Prob: 0.0001
+Token: ' beginning' (ID: 7167), Prob: 0.0001
+Token: ' at' (ID: 518), Prob: 0.0001
+Token: ' attacking' (ID: 22818), Prob: 0.0001
+Token: ' striking' (ID: 21239), Prob: 0.0001
+Token: ' reaching' (ID: 18739), Prob: 0.0001
+Token: ' still' (ID: 2058), Prob: 0.0001
+Token: ' almost' (ID: 4558), Prob: 0.0001
+Token: ' crashing' (ID: 45474), Prob: 0.0001
+Token: ' cir' (ID: 29470), Prob: 0.0001
+Token: ' only' (ID: 1172), Prob: 0.0001
+Token: ' drawing' (ID: 13330), Prob: 0.0001
+Token: ' rising' (ID: 16062), Prob: 0.0001
+Token: ' turning' (ID: 13054), Prob: 0.0001
+Token: ' cutting' (ID: 14376), Prob: 0.0001
+Token: ' doing' (ID: 3730), Prob: 0.0001
+Token: ' running' (ID: 4303), Prob: 0.0001
+Token: ' actually' (ID: 3520), Prob: 0.0001
+Token: ' starting' (ID: 5916), Prob: 0.0001
+Token: ' looming' (ID: 64464), Prob: 0.0001
+Token: ' entering' (ID: 16262), Prob: 0.0001
+Token: ' taking' (ID: 4633), Prob: 0.0001
+Token: ' preparing' (ID: 20045), Prob: 0.0001
+Token: ' disappearing' (ID: 66403), Prob: 0.0001
+Token: ' no' (ID: 902), Prob: 0.0001
+Token: ' so' (ID: 773), Prob: 0.0001
+Token: ' dying' (ID: 22273), Prob: 0.0001
+Token: 'coming' (ID: 4959), Prob: 0.0001
+Token: ' showing' (ID: 9027), Prob: 0.0001
+Token: ' ready' (ID: 5527), Prob: 0.0001
+Token: ' too' (ID: 2238), Prob: 0.0000
+Token: ' trying' (ID: 4460), Prob: 0.0000
+Token: ' advancing' (ID: 43069), Prob: 0.0000
+Token: ' changing' (ID: 10018), Prob: 0.0000
+Token: ' nearby' (ID: 14046), Prob: 0.0000
+Token: ' to' (ID: 311), Prob: 0.0000
+Token: ' an' (ID: 458), Prob: 0.0000
+Token: ' looking' (ID: 3330), Prob: 0.0000
+Token: ' somewhere' (ID: 14696), Prob: 0.0000
+Token: ' watching' (ID: 10099), Prob: 0.0000
+Token: ' next' (ID: 1790), Prob: 0.0000
+Token: ' falling' (ID: 15679), Prob: 0.0000
+Token: ' dangerous' (ID: 11406), Prob: 0.0000
+Token: ' sinking' (ID: 61093), Prob: 0.0000
+Token: ' upon' (ID: 5193), Prob: 0.0000
+Token: ' very' (ID: 1602), Prob: 0.0000
+Token: ' bringing' (ID: 12678), Prob: 0.0000
+Token: ' growing' (ID: 7826), Prob: 0.0000
+Token: ' due' (ID: 4152), Prob: 0.0000
+Token: ' beyond' (ID: 7797), Prob: 0.0000
+Token: ' hurt' (ID: 12898), Prob: 0.0000
+Token: ' chasing' (ID: 42831), Prob: 0.0000
+Token: ' landing' (ID: 20327), Prob: 0.0000
+Token: ' through' (ID: 1526), Prob: 0.0000
+Token: ' supposed' (ID: 9966), Prob: 0.0000
+Token: ' nearly' (ID: 7009), Prob: 0.0000
+Token: ' really' (ID: 2167), Prob: 0.0000
+Token: ' destroying' (ID: 32712), Prob: 0.0000
+Token: ' his' (ID: 806), Prob: 0.0000
+Token: ' endanger' (ID: 36937), Prob: 0.0000
+
+== Ranked Concepts (Clusters) ==
+Rank 1 | Centroid: ' coming' | Score: 0.9336
+  Tokens: [' coming', ' come', 'coming']
+Rank 2 | Centroid: ' approaching' | Score: 0.0364
+  Tokens: [' approaching', ' nearing']
+Rank 3 | Centroid: ' going' | Score: 0.0054
+  Tokens: [' going', ' moving', ' passing', ' turning', ' running']
+Rank 4 | Centroid: ' the' | Score: 0.0038
+  Tokens: [' on', ' in', ' a', ' about', ' the', ' at', ' no', ' so', ' to', ' an', ' his']
+Rank 5 | Centroid: ' very' | Score: 0.0028
+  Tokens: [' not', ' just', ' only', ' too', ' very']
+Rank 6 | Centroid: ' close' | Score: 0.0025
+  Tokens: [' close', ' closing', ' closer']
+Rank 7 | Centroid: ' arriving' | Score: 0.0013
+  Tokens: [' arriving', ' leaving', ' reaching', ' entering', ' bringing']
+Rank 8 | Centroid: ' getting' | Score: 0.0013
+  Tokens: [' getting', ' making', ' doing', ' taking', ' showing', ' trying', ' looking']
+Rank 9 | Centroid: ' through' | Score: 0.0012
+  Tokens: [' here', ' there', ' upon', ' due', ' beyond', ' through']
+Rank 10 | Centroid: ' near' | Score: 0.0010
+  Tokens: [' near', ' nearby']
+Rank 11 | Centroid: ' sailing' | Score: 0.0006
+  Tokens: [' heading', ' sailing', ' sinking', ' landing']
+Rank 12 | Centroid: ' actually' | Score: 0.0004
+  Tokens: [' already', ' still', ' actually', ' supposed', ' really']
+Rank 13 | Centroid: ' breaking' | Score: 0.0004
+  Tokens: [' breaking', ' striking', ' crashing', ' cutting']
+Rank 14 | Centroid: ' dangerous' | Score: 0.0004
+  Tokens: [' threatening', ' cir', ' dangerous', ' hurt', ' endanger']
+Rank 15 | Centroid: ' rising' | Score: 0.0004
+  Tokens: [' rising', ' disappearing', ' dying', ' advancing', ' changing', ' falling', ' growing']
+Rank 16 | Centroid: ' preparing' | Score: 0.0003
+  Tokens: [' waiting', ' preparing', ' ready', ' watching']
+Rank 17 | Centroid: ' right' | Score: 0.0003
+  Tokens: [' right', ' next']
+Rank 18 | Centroid: ' beginning' | Score: 0.0002
+  Tokens: [' beginning', ' starting']
+Rank 19 | Centroid: ' attacking' | Score: 0.0002
+  Tokens: [' attacking', ' chasing', ' destroying']
+Rank 20 | Centroid: ' almost' | Score: 0.0001
+  Tokens: [' almost', ' nearly']
+Rank 21 | Centroid: ' drawing' | Score: 0.0001
+  Tokens: [' drawing']
+Rank 22 | Centroid: ' looming' | Score: 0.0001
+  Tokens: [' looming']
+Rank 23 | Centroid: ' somewhere' | Score: 0.0000
+  Tokens: [' somewhere']
+
+**Chosen Concept:** Rank 1

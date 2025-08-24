@@ -1,0 +1,132 @@
+--- Step 81 Log ---
+
+== Filtered Candidates ==
+Token: ' ship' (ID: 8284), Prob: 1.0000
+Token: ' sea' (ID: 9396), Prob: 0.0003
+Token: ' wind' (ID: 9956), Prob: 0.0001
+Token: ' crew' (ID: 13627), Prob: 0.0000
+Token: ' ships' (ID: 17727), Prob: 0.0000
+Token: ' boat' (ID: 15328), Prob: 0.0000
+Token: ' ocean' (ID: 17951), Prob: 0.0000
+Token: ' son' (ID: 4438), Prob: 0.0000
+Token: ' storm' (ID: 13458), Prob: 0.0000
+Token: ' arrival' (ID: 18647), Prob: 0.0000
+Token: ' story' (ID: 3364), Prob: 0.0000
+Token: ' coming' (ID: 5001), Prob: 0.0000
+Token: ' tide' (ID: 41938), Prob: 0.0000
+Token: ' speech' (ID: 8806), Prob: 0.0000
+Token: ' first' (ID: 1156), Prob: 0.0000
+Token: ' mission' (ID: 8954), Prob: 0.0000
+Token: ' next' (ID: 1790), Prob: 0.0000
+Token: ' night' (ID: 3729), Prob: 0.0000
+Token: ' sh' (ID: 557), Prob: 0.0000
+Token: ' shore' (ID: 30184), Prob: 0.0000
+Token: ' vessel' (ID: 26182), Prob: 0.0000
+Token: ' Ship' (ID: 26803), Prob: 0.0000
+Token: ' whole' (ID: 4361), Prob: 0.0000
+Token: ' war' (ID: 4116), Prob: 0.0000
+Token: ' second' (ID: 2086), Prob: 0.0000
+Token: ' thing' (ID: 3166), Prob: 0.0000
+Token: ' bird' (ID: 11958), Prob: 0.0000
+Token: ' fleet' (ID: 25099), Prob: 0.0000
+Token: ' sight' (ID: 13929), Prob: 0.0000
+Token: ' spaceship' (ID: 84842), Prob: 0.0000
+Token: ' thought' (ID: 3381), Prob: 0.0000
+Token: ' shipping' (ID: 11601), Prob: 0.0000
+Token: ' message' (ID: 1943), Prob: 0.0000
+Token: ' reason' (ID: 2874), Prob: 0.0000
+Token: ' same' (ID: 1852), Prob: 0.0000
+Token: ' journey' (ID: 11618), Prob: 0.0000
+Token: ' very' (ID: 1602), Prob: 0.0000
+Token: ' sky' (ID: 12884), Prob: 0.0000
+Token: ' light' (ID: 3100), Prob: 0.0000
+Token: ' signal' (ID: 8286), Prob: 0.0000
+Token: ' big' (ID: 2409), Prob: 0.0000
+Token: ' narrative' (ID: 19221), Prob: 0.0000
+Token: ' last' (ID: 1537), Prob: 0.0000
+Token: ' person' (ID: 1697), Prob: 0.0000
+Token: ' heart' (ID: 4746), Prob: 0.0000
+Token: ' shift' (ID: 6407), Prob: 0.0000
+Token: 'ship' (ID: 5270), Prob: 0.0000
+Token: ' battle' (ID: 8049), Prob: 0.0000
+Token: ' word' (ID: 3409), Prob: 0.0000
+Token: ' little' (ID: 2632), Prob: 0.0000
+Token: ' whale' (ID: 50019), Prob: 0.0000
+Token: ' voyage' (ID: 44540), Prob: 0.0000
+Token: ' approaching' (ID: 29947), Prob: 0.0000
+Token: '(ship' (ID: 91399), Prob: 0.0000
+Token: ' fog' (ID: 30249), Prob: 0.0000
+Token: ' water' (ID: 3015), Prob: 0.0000
+Token: ' ghost' (ID: 19866), Prob: 0.0000
+Token: ' map' (ID: 2415), Prob: 0.0000
+Token: ' weather' (ID: 9104), Prob: 0.0000
+Token: ' life' (ID: 2272), Prob: 0.0000
+Token: ' movement' (ID: 7203), Prob: 0.0000
+Token: ' report' (ID: 1895), Prob: 0.0000
+Token: ' island' (ID: 12922), Prob: 0.0000
+Token: ' sun' (ID: 7015), Prob: 0.0000
+Token: ' entire' (ID: 4453), Prob: 0.0000
+Token: ' cabin' (ID: 13386), Prob: 0.0000
+Token: ' sailor' (ID: 92537), Prob: 0.0000
+Token: ' salt' (ID: 12021), Prob: 0.0000
+Token: ' scene' (ID: 6109), Prob: 0.0000
+Token: ' picture' (ID: 6802), Prob: 0.0000
+Token: ' coast' (ID: 13648), Prob: 0.0000
+Token: ' rain' (ID: 11174), Prob: 0.0000
+Token: ' captain' (ID: 23915), Prob: 0.0000
+Token: ' following' (ID: 2701), Prob: 0.0000
+Token: ' fire' (ID: 3940), Prob: 0.0000
+Token: ' presence' (ID: 9362), Prob: 0.0000
+Token: ' pilot' (ID: 17708), Prob: 0.0000
+Token: ' forecast' (ID: 17595), Prob: 0.0000
+Token: ' warning' (ID: 9958), Prob: 0.0000
+Token: ' trip' (ID: 8411), Prob: 0.0000
+Token: ' man' (ID: 883), Prob: 0.0000
+Token: ' pirate' (ID: 53966), Prob: 0.0000
+Token: ' answer' (ID: 4226), Prob: 0.0000
+Token: ' mist' (ID: 8600), Prob: 0.0000
+Token: ' morning' (ID: 6556), Prob: 0.0000
+
+== Ranked Concepts (Clusters) ==
+Rank 1 | Centroid: ' ship' | Score: 1.0000
+  Tokens: [' ship', ' ships', ' vessel', ' Ship', ' spaceship', ' shipping', 'ship', '(ship']
+Rank 2 | Centroid: ' ocean' | Score: 0.0004
+  Tokens: [' sea', ' ocean', ' tide', ' shore', ' whale', ' island', ' salt', ' coast']
+Rank 3 | Centroid: ' rain' | Score: 0.0001
+  Tokens: [' wind', ' storm', ' sky', ' fog', ' weather', ' sun', ' rain', ' mist']
+Rank 4 | Centroid: ' boat' | Score: 0.0001
+  Tokens: [' crew', ' boat', ' fleet', ' cabin', ' sailor', ' captain', ' pirate']
+Rank 5 | Centroid: ' first' | Score: 0.0000
+  Tokens: [' first', ' next', ' second', ' same', ' last', ' following']
+Rank 6 | Centroid: ' arrival' | Score: 0.0000
+  Tokens: [' arrival', ' coming', ' approaching', ' presence']
+Rank 7 | Centroid: ' journey' | Score: 0.0000
+  Tokens: [' mission', ' journey', ' shift', ' battle', ' voyage', ' movement', ' trip']
+Rank 8 | Centroid: ' person' | Score: 0.0000
+  Tokens: [' son', ' person', ' man']
+Rank 9 | Centroid: ' narrative' | Score: 0.0000
+  Tokens: [' story', ' narrative', ' scene', ' picture']
+Rank 10 | Centroid: ' speech' | Score: 0.0000
+  Tokens: [' speech', ' thought', ' word']
+Rank 11 | Centroid: ' war' | Score: 0.0000
+  Tokens: [' sh', ' war', ' life']
+Rank 12 | Centroid: ' warning' | Score: 0.0000
+  Tokens: [' message', ' signal', ' report', ' forecast', ' warning', ' answer']
+Rank 13 | Centroid: ' night' | Score: 0.0000
+  Tokens: [' night', ' ghost', ' morning']
+Rank 14 | Centroid: ' water' | Score: 0.0000
+  Tokens: [' light', ' heart', ' water', ' fire']
+Rank 15 | Centroid: ' thing' | Score: 0.0000
+  Tokens: [' thing', ' reason']
+Rank 16 | Centroid: ' little' | Score: 0.0000
+  Tokens: [' very', ' big', ' little']
+Rank 17 | Centroid: ' whole' | Score: 0.0000
+  Tokens: [' whole', ' entire']
+Rank 18 | Centroid: ' bird' | Score: 0.0000
+  Tokens: [' bird', ' pilot']
+Rank 19 | Centroid: ' sight' | Score: 0.0000
+  Tokens: [' sight']
+Rank 20 | Centroid: ' map' | Score: 0.0000
+  Tokens: [' map']
+
+**Chosen Concept:** Rank 1

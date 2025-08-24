@@ -1,0 +1,35 @@
+{
+  "prompt": "Name something parents would criticize their children for having.",
+  "baseline": {
+    "output": "<think>\nOkay, the user is asking, \"Name something parents would criticize their children for having.\"",
+    "best_f1": 0.32751286029815674,
+    "avg_f1": 0.2967474341392517,
+    "best_precision": 0.29348331689834595,
+    "best_recall": 0.37092888355255127
+  },
+  "concept_decoder": {
+    "output": "<think>\nOkay, the user is asking me to name something parents would criticize their children for. I",
+    "best_f1": 0.3397417962551117,
+    "avg_f1": 0.3161297678947449,
+    "best_precision": 0.29901960492134094,
+    "best_recall": 0.4404234290122986
+  },
+  "improvement": {
+    "f1_improvement": 0.012228935956954956,
+    "precision_improvement": 0.005536288022994995,
+    "recall_improvement": 0.06949454545974731
+  },
+  "human_references": [
+    "messy room",
+    "bad grades",
+    "lazy attitude",
+    "disrespectful behavior",
+    "spending too much time on phone",
+    "not doing homework",
+    "talking back",
+    "being late",
+    "not cleaning up",
+    "wasting money"
+  ],
+  "timestamp": "2025-08-21T14:59:28.802386"
+}

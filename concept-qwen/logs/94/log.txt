@@ -1,159 +1,124 @@
 --- Step 94 Log ---
 
 == Filtered Candidates ==
-Token: ' heard' (ID: 6617), Prob: 0.3789
-Token: ' seen' (ID: 3884), Prob: 0.2949
-Token: ' never' (ID: 2581), Prob: 0.1230
-Token: ' always' (ID: 2677), Prob: 0.1089
-Token: ' read' (ID: 1349), Prob: 0.0214
-Token: ' no' (ID: 902), Prob: 0.0147
-Token: ' spent' (ID: 7391), Prob: 0.0147
-Token: ' lived' (ID: 12163), Prob: 0.0130
-Token: ' been' (ID: 1012), Prob: 0.0048
-Token: ' only' (ID: 1172), Prob: 0.0031
-Token: ' not' (ID: 537), Prob: 0.0029
-Token: ' faced' (ID: 16601), Prob: 0.0029
-Token: ' known' (ID: 3881), Prob: 0.0026
-Token: ' to' (ID: 311), Prob: 0.0016
-Token: ' once' (ID: 3055), Prob: 0.0015
-Token: ' studied' (ID: 19476), Prob: 0.0015
-Token: ' a' (ID: 264), Prob: 0.0007
-Token: ' long' (ID: 1293), Prob: 0.0007
-Token: ' tried' (ID: 6679), Prob: 0.0004
-Token: ' come' (ID: 2525), Prob: 0.0004
-Token: ' told' (ID: 3229), Prob: 0.0003
-Token: ' learned' (ID: 9498), Prob: 0.0003
-Token: ' warned' (ID: 18683), Prob: 0.0003
-Token: ' believed' (ID: 11585), Prob: 0.0003
-Token: ' trained' (ID: 16176), Prob: 0.0003
-Token: ' dismissed' (ID: 26200), Prob: 0.0003
-Token: ' fought' (ID: 20463), Prob: 0.0002
-Token: ' stood' (ID: 14638), Prob: 0.0002
-Token: ' grown' (ID: 14700), Prob: 0.0002
-Token: ' often' (ID: 3545), Prob: 0.0002
-Token: ' expected' (ID: 3601), Prob: 0.0002
-Token: ' felt' (ID: 6476), Prob: 0.0002
-Token: ' encountered' (ID: 23057), Prob: 0.0002
-Token: ' thought' (ID: 3381), Prob: 0.0001
-Token: ' dealt' (ID: 25934), Prob: 0.0001
-Token: ' done' (ID: 2814), Prob: 0.0001
-Token: ' watched' (ID: 15384), Prob: 0.0001
-Token: ' taken' (ID: 4429), Prob: 0.0001
-Token: ' prepared' (ID: 10030), Prob: 0.0001
-Token: ' served' (ID: 10223), Prob: 0.0001
-Token: ' found' (ID: 1730), Prob: 0.0001
-Token: ' many' (ID: 1657), Prob: 0.0001
-Token: ' hoped' (ID: 25189), Prob: 0.0001
-Token: ' survived' (ID: 25882), Prob: 0.0001
-Token: ' kept' (ID: 8604), Prob: 0.0001
-Token: ' the' (ID: 279), Prob: 0.0001
-Token: ' built' (ID: 5798), Prob: 0.0001
-Token: ' made' (ID: 1865), Prob: 0.0001
-Token: ' stories' (ID: 7343), Prob: 0.0001
-Token: ' searched' (ID: 26502), Prob: 0.0001
-Token: ' nothing' (ID: 4302), Prob: 0.0000
-Token: ' lost' (ID: 5558), Prob: 0.0000
-Token: ' passed' (ID: 5823), Prob: 0.0000
-Token: ' forgotten' (ID: 24547), Prob: 0.0000
-Token: ' written' (ID: 5326), Prob: 0.0000
-Token: ' witnessed' (ID: 31026), Prob: 0.0000
-Token: ' worked' (ID: 6439), Prob: 0.0000
-Token: ' gone' (ID: 8048), Prob: 0.0000
-Token: ' looked' (ID: 6966), Prob: 0.0000
-Token: ' waited' (ID: 29215), Prob: 0.0000
-Token: ' sworn' (ID: 50648), Prob: 0.0000
-Token: ' weather' (ID: 9104), Prob: 0.0000
-Token: ' walked' (ID: 14858), Prob: 0.0000
-Token: ' received' (ID: 3949), Prob: 0.0000
-Token: ' feared' (ID: 37469), Prob: 0.0000
-Token: ' dreamed' (ID: 56536), Prob: 0.0000
-Token: ' refused' (ID: 16051), Prob: 0.0000
-Token: ' ruled' (ID: 21286), Prob: 0.0000
-Token: ' one' (ID: 825), Prob: 0.0000
-Token: ' already' (ID: 2669), Prob: 0.0000
-Token: ' spoken' (ID: 21355), Prob: 0.0000
-Token: ' experienced' (ID: 10321), Prob: 0.0000
-Token: ' crossed' (ID: 27031), Prob: 0.0000
-Token: ' just' (ID: 1101), Prob: 0.0000
-Token: ' researched' (ID: 55998), Prob: 0.0000
-Token: ' every' (ID: 1449), Prob: 0.0000
-Token: ' left' (ID: 2115), Prob: 0.0000
-Token: ' imagined' (ID: 34606), Prob: 0.0000
-Token: ' checked' (ID: 10067), Prob: 0.0000
-Token: ' sensed' (ID: 88442), Prob: 0.0000
-Token: ' stopped' (ID: 10497), Prob: 0.0000
-Token: ' noticed' (ID: 13686), Prob: 0.0000
-Token: ' turned' (ID: 6519), Prob: 0.0000
-Token: ' given' (ID: 2661), Prob: 0.0000
-Token: ' inherited' (ID: 26990), Prob: 0.0000
-Token: ' devoted' (ID: 28229), Prob: 0.0000
-Token: ' his' (ID: 806), Prob: 0.0000
-Token: ' taught' (ID: 15599), Prob: 0.0000
-Token: ' scanned' (ID: 47448), Prob: 0.0000
-Token: ' become' (ID: 3635), Prob: 0.0000
-Token: ' stayed' (ID: 19613), Prob: 0.0000
-Token: ' called' (ID: 2598), Prob: 0.0000
-Token: ' almost' (ID: 4558), Prob: 0.0000
-Token: ' reported' (ID: 4961), Prob: 0.0000
-Token: ' an' (ID: 458), Prob: 0.0000
-Token: ' suspected' (ID: 23804), Prob: 0.0000
-Token: ' moved' (ID: 7726), Prob: 0.0000
-Token: ' trusted' (ID: 21789), Prob: 0.0000
-Token: ' documented' (ID: 26372), Prob: 0.0000
-Token: ' nightmares' (ID: 74262), Prob: 0.0000
+Token: ' ship' (ID: 8284), Prob: 1.0000
+Token: ' sea' (ID: 9396), Prob: 0.0002
+Token: ' ships' (ID: 17727), Prob: 0.0001
+Token: ' wind' (ID: 9956), Prob: 0.0001
+Token: ' coming' (ID: 5001), Prob: 0.0001
+Token: ' boat' (ID: 15328), Prob: 0.0000
+Token: ' approaching' (ID: 29947), Prob: 0.0000
+Token: ' crew' (ID: 13627), Prob: 0.0000
+Token: ' arrival' (ID: 18647), Prob: 0.0000
+Token: ' storm' (ID: 13458), Prob: 0.0000
+Token: ' ocean' (ID: 17951), Prob: 0.0000
+Token: ' next' (ID: 1790), Prob: 0.0000
+Token: ' first' (ID: 1156), Prob: 0.0000
+Token: ' night' (ID: 3729), Prob: 0.0000
+Token: ' war' (ID: 4116), Prob: 0.0000
+Token: ' bird' (ID: 11958), Prob: 0.0000
+Token: ' tide' (ID: 41938), Prob: 0.0000
+Token: ' sh' (ID: 557), Prob: 0.0000
+Token: ' son' (ID: 4438), Prob: 0.0000
+Token: ' approach' (ID: 5486), Prob: 0.0000
+Token: ' vessel' (ID: 26182), Prob: 0.0000
+Token: ' big' (ID: 2409), Prob: 0.0000
+Token: ' sun' (ID: 7015), Prob: 0.0000
+Token: ' Ship' (ID: 26803), Prob: 0.0000
+Token: ' shore' (ID: 30184), Prob: 0.0000
+Token: ' light' (ID: 3100), Prob: 0.0000
+Token: ' mission' (ID: 8954), Prob: 0.0000
+Token: ' enemy' (ID: 9175), Prob: 0.0000
+Token: ' shipping' (ID: 11601), Prob: 0.0000
+Token: ' second' (ID: 2086), Prob: 0.0000
+Token: ' very' (ID: 1602), Prob: 0.0000
+Token: ' sky' (ID: 12884), Prob: 0.0000
+Token: ' signal' (ID: 8286), Prob: 0.0000
+Token: ' the' (ID: 279), Prob: 0.0000
+Token: ' battle' (ID: 8049), Prob: 0.0000
+Token: ' came' (ID: 3697), Prob: 0.0000
+Token: ' spaceship' (ID: 84842), Prob: 0.0000
+Token: ' sight' (ID: 13929), Prob: 0.0000
+Token: ' whole' (ID: 4361), Prob: 0.0000
+Token: ' whale' (ID: 50019), Prob: 0.0000
+Token: ' fleet' (ID: 25099), Prob: 0.0000
+Token: ' star' (ID: 6774), Prob: 0.0000
+Token: ' last' (ID: 1537), Prob: 0.0000
+Token: ' moon' (ID: 17788), Prob: 0.0000
+Token: ' shift' (ID: 6407), Prob: 0.0000
+Token: ' pirate' (ID: 53966), Prob: 0.0000
+Token: ' great' (ID: 2244), Prob: 0.0000
+Token: ' thing' (ID: 3166), Prob: 0.0000
+Token: ' pilot' (ID: 17708), Prob: 0.0000
+Token: ' s' (ID: 274), Prob: 0.0000
+Token: ' same' (ID: 1852), Prob: 0.0000
+Token: ' speech' (ID: 8806), Prob: 0.0000
+Token: ' other' (ID: 1008), Prob: 0.0000
+Token: ' captain' (ID: 23915), Prob: 0.0000
+Token: ' alarm' (ID: 16624), Prob: 0.0000
+Token: ' thought' (ID: 3381), Prob: 0.0000
+Token: ' come' (ID: 2525), Prob: 0.0000
+Token: ' ghost' (ID: 19866), Prob: 0.0000
+Token: ' entire' (ID: 4453), Prob: 0.0000
+Token: ' rain' (ID: 11174), Prob: 0.0000
+Token: ' final' (ID: 1590), Prob: 0.0000
+Token: ' l' (ID: 326), Prob: 0.0000
+Token: ' attack' (ID: 3359), Prob: 0.0000
+Token: ' fog' (ID: 30249), Prob: 0.0000
+Token: ' man' (ID: 883), Prob: 0.0000
+Token: 'ship' (ID: 5270), Prob: 0.0000
+Token: ' trip' (ID: 8411), Prob: 0.0000
+Token: ' movement' (ID: 7203), Prob: 0.0000
+Token: ' distance' (ID: 6010), Prob: 0.0000
+Token: ' incoming' (ID: 19393), Prob: 0.0000
+Token: ' threat' (ID: 5899), Prob: 0.0000
+Token: ' new' (ID: 501), Prob: 0.0000
+Token: '(ship' (ID: 91399), Prob: 0.0000
+Token: ' warning' (ID: 9958), Prob: 0.0000
+Token: ' sound' (ID: 5112), Prob: 0.0000
+Token: ' third' (ID: 4843), Prob: 0.0000
+Token: ' water' (ID: 3015), Prob: 0.0000
+Token: ' fire' (ID: 3940), Prob: 0.0000
+Token: ' coast' (ID: 13648), Prob: 0.0000
 
 == Ranked Concepts (Clusters) ==
-Rank 1 | Centroid: ' heard' | Score: 0.3789
-  Tokens: [' heard', ' encountered', ' witnessed', ' sensed', ' noticed']
-Rank 2 | Centroid: ' seen' | Score: 0.2949
-  Tokens: [' seen', ' found']
-Rank 3 | Centroid: ' never' | Score: 0.2324
-  Tokens: [' never', ' always', ' often', ' nothing']
-Rank 4 | Centroid: ' the' | Score: 0.0469
-  Tokens: [' read', ' no', ' only', ' not', ' to', ' once', ' a', ' long', ' many', ' the', ' one', ' just', ' every', ' his', ' almost', ' an']
-Rank 5 | Centroid: ' worked' | Score: 0.0280
-  Tokens: [' spent', ' lived', ' fought', ' worked']
-Rank 6 | Centroid: ' been' | Score: 0.0054
-  Tokens: [' been', ' come', ' done', ' taken', ' gone', ' become']
-Rank 7 | Centroid: ' experienced' | Score: 0.0031
-  Tokens: [' faced', ' felt', ' experienced']
-Rank 8 | Centroid: ' known' | Score: 0.0026
-  Tokens: [' known', ' given']
-Rank 9 | Centroid: ' studied' | Score: 0.0022
-  Tokens: [' studied', ' tried', ' watched', ' searched', ' looked', ' researched', ' checked', ' scanned']
-Rank 10 | Centroid: ' believed' | Score: 0.0007
-  Tokens: [' believed', ' expected', ' thought', ' hoped', ' feared', ' imagined', ' suspected', ' trusted']
-Rank 11 | Centroid: ' told' | Score: 0.0007
-  Tokens: [' told', ' warned', ' called']
-Rank 12 | Centroid: ' walked' | Score: 0.0005
-  Tokens: [' stood', ' dealt', ' served', ' waited', ' walked', ' stayed']
-Rank 13 | Centroid: ' trained' | Score: 0.0004
-  Tokens: [' trained', ' prepared', ' built', ' taught']
-Rank 14 | Centroid: ' received' | Score: 0.0004
-  Tokens: [' learned', ' received', ' inherited']
-Rank 15 | Centroid: ' refused' | Score: 0.0003
-  Tokens: [' dismissed', ' refused', ' stopped']
-Rank 16 | Centroid: ' spoken' | Score: 0.0003
-  Tokens: [' grown', ' written', ' spoken']
-Rank 17 | Centroid: ' moved' | Score: 0.0001
-  Tokens: [' kept', ' passed', ' turned', ' moved']
-Rank 18 | Centroid: ' stories' | Score: 0.0001
-  Tokens: [' stories', ' sworn', ' devoted']
-Rank 19 | Centroid: ' lost' | Score: 0.0001
-  Tokens: [' lost', ' forgotten']
-Rank 20 | Centroid: ' survived' | Score: 0.0001
-  Tokens: [' survived']
-Rank 21 | Centroid: ' ruled' | Score: 0.0001
-  Tokens: [' weather', ' ruled', ' crossed']
-Rank 22 | Centroid: ' made' | Score: 0.0001
-  Tokens: [' made']
-Rank 23 | Centroid: ' dreamed' | Score: 0.0000
-  Tokens: [' dreamed', ' nightmares']
-Rank 24 | Centroid: ' already' | Score: 0.0000
-  Tokens: [' already']
-Rank 25 | Centroid: ' reported' | Score: 0.0000
-  Tokens: [' reported', ' documented']
-Rank 26 | Centroid: ' left' | Score: 0.0000
-  Tokens: [' left']
+Rank 1 | Centroid: ' ship' | Score: 1.0000
+  Tokens: [' ship', ' ships', ' boat', ' crew', ' vessel', ' Ship', ' shipping', ' spaceship', ' fleet', ' pirate', ' captain', 'ship', '(ship']
+Rank 2 | Centroid: ' ocean' | Score: 0.0002
+  Tokens: [' sea', ' ocean', ' tide', ' shore', ' whale', ' coast']
+Rank 3 | Centroid: ' rain' | Score: 0.0001
+  Tokens: [' wind', ' storm', ' night', ' sun', ' sky', ' moon', ' rain', ' fog']
+Rank 4 | Centroid: ' coming' | Score: 0.0001
+  Tokens: [' coming', ' arrival', ' came', ' come', ' incoming']
+Rank 5 | Centroid: ' approaching' | Score: 0.0001
+  Tokens: [' approaching', ' approach']
+Rank 6 | Centroid: ' second' | Score: 0.0000
+  Tokens: [' next', ' first', ' second', ' last', ' final', ' third']
+Rank 7 | Centroid: ' the' | Score: 0.0000
+  Tokens: [' big', ' very', ' the', ' great', ' same', ' other', ' new']
+Rank 8 | Centroid: ' battle' | Score: 0.0000
+  Tokens: [' war', ' enemy', ' battle', ' attack', ' threat']
+Rank 9 | Centroid: ' s' | Score: 0.0000
+  Tokens: [' sh', ' shift', ' s', ' l', ' man']
+Rank 10 | Centroid: ' bird' | Score: 0.0000
+  Tokens: [' bird', ' star', ' pilot', ' ghost']
+Rank 11 | Centroid: ' alarm' | Score: 0.0000
+  Tokens: [' signal', ' speech', ' alarm', ' warning', ' sound']
+Rank 12 | Centroid: ' movement' | Score: 0.0000
+  Tokens: [' sight', ' thought', ' movement', ' distance']
+Rank 13 | Centroid: ' son' | Score: 0.0000
+  Tokens: [' son']
+Rank 14 | Centroid: ' mission' | Score: 0.0000
+  Tokens: [' mission', ' trip']
+Rank 15 | Centroid: ' light' | Score: 0.0000
+  Tokens: [' light']
+Rank 16 | Centroid: ' whole' | Score: 0.0000
+  Tokens: [' whole', ' entire']
+Rank 17 | Centroid: ' thing' | Score: 0.0000
+  Tokens: [' thing']
+Rank 18 | Centroid: ' water' | Score: 0.0000
+  Tokens: [' water']
+Rank 19 | Centroid: ' fire' | Score: 0.0000
+  Tokens: [' fire']
 
 **Chosen Concept:** Rank 1

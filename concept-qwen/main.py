@@ -12,7 +12,7 @@ from transformers import AutoModelForCausalLM, AutoTokenizer
 # Ensure the NLTK sentence tokenizer is available
 try:
     nltk.data.find('tokenizers/punkt')
-except nltk.downloader.DownloadError:
+except LookupError:
     print("Downloading NLTK's 'punkt' tokenizer...")
     nltk.download('punkt')
 

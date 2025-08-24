@@ -1,0 +1,35 @@
+{
+  "prompt": "Name something parents would criticize their children for having.",
+  "baseline": {
+    "output": "lazy attitude and not doing homework",
+    "best_f1": 0.7394702434539795,
+    "avg_f1": 0.5030093550682068,
+    "best_precision": 0.669441819190979,
+    "best_recall": 0.8258613348007202
+  },
+  "concept_decoder": {
+    "output": "messy room and bad grades",
+    "best_f1": 0.7291010022163391,
+    "avg_f1": 0.4800767689943314,
+    "best_precision": 0.6314343214035034,
+    "best_recall": 0.86250901222229
+  },
+  "improvement": {
+    "f1_improvement": -0.01036924123764038,
+    "precision_improvement": -0.038007497787475586,
+    "recall_improvement": 0.036647677421569824
+  },
+  "human_references": [
+    "messy room",
+    "bad grades",
+    "lazy attitude",
+    "disrespectful behavior",
+    "spending too much time on phone",
+    "not doing homework",
+    "talking back",
+    "being late",
+    "not cleaning up",
+    "wasting money"
+  ],
+  "timestamp": "2025-08-21T15:05:05.164267"
+}

@@ -1,154 +1,127 @@
 --- Step 66 Log ---
 
 == Filtered Candidates ==
-Token: ' light' (ID: 3100), Prob: 0.9883
-Token: ' the' (ID: 279), Prob: 0.0085
-Token: ' his' (ID: 806), Prob: 0.0028
-Token: ' its' (ID: 1181), Prob: 0.0007
-Token: ' white' (ID: 4158), Prob: 0.0000
-Token: ' red' (ID: 2518), Prob: 0.0000
-Token: ' fire' (ID: 3940), Prob: 0.0000
-Token: ' that' (ID: 429), Prob: 0.0000
-Token: ' yellow' (ID: 13753), Prob: 0.0000
-Token: ' darkness' (ID: 26298), Prob: 0.0000
-Token: ' cold' (ID: 9255), Prob: 0.0000
-Token: ' sunlight' (ID: 39020), Prob: 0.0000
-Token: ' it' (ID: 432), Prob: 0.0000
-Token: ' moon' (ID: 17788), Prob: 0.0000
-Token: ' bright' (ID: 9906), Prob: 0.0000
-Token: ' silver' (ID: 14961), Prob: 0.0000
-Token: ' artificial' (ID: 20443), Prob: 0.0000
-Token: ' her' (ID: 1059), Prob: 0.0000
-Token: ' gold' (ID: 6623), Prob: 0.0000
-Token: ' orange' (ID: 18575), Prob: 0.0000
-Token: ' blue' (ID: 6303), Prob: 0.0000
-Token: ' warm' (ID: 8205), Prob: 0.0000
-Token: ' warmth' (ID: 40363), Prob: 0.0000
-Token: ' green' (ID: 6176), Prob: 0.0000
-Token: ' hope' (ID: 3900), Prob: 0.0000
-Token: ' flick' (ID: 28347), Prob: 0.0000
-Token: ' a' (ID: 264), Prob: 0.0000
-Token: ' reflected' (ID: 25911), Prob: 0.0000
-Token: ' their' (ID: 862), Prob: 0.0000
-Token: ' lantern' (ID: 73165), Prob: 0.0000
-Token: ' glass' (ID: 8991), Prob: 0.0000
-Token: ' golden' (ID: 20748), Prob: 0.0000
-Token: ' safety' (ID: 7149), Prob: 0.0000
-Token: ' candle' (ID: 37799), Prob: 0.0000
-Token: ' fog' (ID: 30249), Prob: 0.0000
-Token: ' un' (ID: 650), Prob: 0.0000
-Token: ' pale' (ID: 27539), Prob: 0.0000
-Token: ' dark' (ID: 6319), Prob: 0.0000
-Token: ' metal' (ID: 9317), Prob: 0.0000
-Token: ' this' (ID: 419), Prob: 0.0000
-Token: ' flame' (ID: 34578), Prob: 0.0000
-Token: ' daylight' (ID: 52021), Prob: 0.0000
-Token: ' my' (ID: 847), Prob: 0.0000
-Token: ' old' (ID: 2310), Prob: 0.0000
-Token: ' soft' (ID: 8413), Prob: 0.0000
-Token: ' glowing' (ID: 48492), Prob: 0.0000
-Token: ' electricity' (ID: 17728), Prob: 0.0000
-Token: ' illumination' (ID: 75952), Prob: 0.0000
-Token: ' heat' (ID: 8628), Prob: 0.0000
-Token: ' still' (ID: 2058), Prob: 0.0000
-Token: ' familiar' (ID: 11285), Prob: 0.0000
-Token: ' emergency' (ID: 12851), Prob: 0.0000
-Token: ' brightness' (ID: 32206), Prob: 0.0000
-Token: ' stolen' (ID: 22329), Prob: 0.0000
-Token: ' visible' (ID: 9434), Prob: 0.0000
-Token: ' sight' (ID: 13929), Prob: 0.0000
-Token: ' torch' (ID: 7834), Prob: 0.0000
-Token: ' lam' (ID: 31603), Prob: 0.0000
-Token: ' fading' (ID: 58517), Prob: 0.0000
-Token: ' wood' (ID: 7579), Prob: 0.0000
-Token: ' protection' (ID: 9135), Prob: 0.0000
-Token: ' steel' (ID: 9509), Prob: 0.0000
-Token: ' power' (ID: 2355), Prob: 0.0000
-Token: ' copper' (ID: 23285), Prob: 0.0000
-Token: ' already' (ID: 2669), Prob: 0.0000
-Token: ' borrowed' (ID: 45564), Prob: 0.0000
-Token: ' crimson' (ID: 96019), Prob: 0.0000
-Token: ' your' (ID: 697), Prob: 0.0000
-Token: ' life' (ID: 2272), Prob: 0.0000
-Token: ' star' (ID: 6774), Prob: 0.0000
-Token: ' wax' (ID: 36023), Prob: 0.0000
-Token: ' duty' (ID: 14189), Prob: 0.0000
-Token: ' silence' (ID: 21162), Prob: 0.0000
-Token: ' shifting' (ID: 31831), Prob: 0.0000
-Token: ' flashlight' (ID: 78415), Prob: 0.0000
-Token: ' what' (ID: 1128), Prob: 0.0000
-Token: ' weak' (ID: 7469), Prob: 0.0000
-Token: ' hot' (ID: 4017), Prob: 0.0000
-Token: ' pure' (ID: 10526), Prob: 0.0000
-Token: ' shadow' (ID: 12455), Prob: 0.0000
-Token: ' lights' (ID: 12711), Prob: 0.0000
-Token: ' lamp' (ID: 27962), Prob: 0.0000
-Token: ' amber' (ID: 67605), Prob: 0.0000
+Token: ' because' (ID: 1576), Prob: 0.9961
+Token: ' for' (ID: 369), Prob: 0.0007
+Token: ' and' (ID: 323), Prob: 0.0006
+Token: ' but' (ID: 714), Prob: 0.0002
+Token: ' the' (ID: 279), Prob: 0.0001
+Token: ' why' (ID: 3170), Prob: 0.0001
+Token: ' so' (ID: 773), Prob: 0.0001
 Token: ' even' (ID: 1496), Prob: 0.0000
-Token: ' fear' (ID: 8679), Prob: 0.0000
-Token: ' warning' (ID: 9958), Prob: 0.0000
-Token: ' beam' (ID: 23418), Prob: 0.0000
-Token: ' w' (ID: 289), Prob: 0.0000
-Token: ' search' (ID: 2711), Prob: 0.0000
-Token: ' steady' (ID: 24020), Prob: 0.0000
-Token: ' sun' (ID: 7015), Prob: 0.0000
-Token: ' relief' (ID: 15957), Prob: 0.0000
-Token: ' motion' (ID: 11379), Prob: 0.0000
-Token: ' renewed' (ID: 35546), Prob: 0.0000
-Token: ' frost' (ID: 44734), Prob: 0.0000
-Token: ' shining' (ID: 47925), Prob: 0.0000
-Token: ' l' (ID: 326), Prob: 0.0000
-Token: ' such' (ID: 1741), Prob: 0.0000
-Token: ' early' (ID: 4124), Prob: 0.0000
+Token: ' he' (ID: 566), Prob: 0.0000
+Token: 'because' (ID: 27653), Prob: 0.0000
+Token: ' Because' (ID: 9211), Prob: 0.0000
+Token: ' to' (ID: 311), Prob: 0.0000
+Token: ' once' (ID: 3055), Prob: 0.0000
+Token: ' since' (ID: 2474), Prob: 0.0000
+Token: ' regardless' (ID: 15484), Prob: 0.0000
+Token: ' maybe' (ID: 7196), Prob: 0.0000
+Token: ' that' (ID: 429), Prob: 0.0000
+Token: ' as' (ID: 438), Prob: 0.0000
+Token: ' or' (ID: 476), Prob: 0.0000
+Token: ' in' (ID: 304), Prob: 0.0000
+Token: ' I' (ID: 358), Prob: 0.0000
+Token: ' whatever' (ID: 8820), Prob: 0.0000
+Token: ' no' (ID: 902), Prob: 0.0000
+Token: ' it' (ID: 432), Prob: 0.0000
+Token: ' porque' (ID: 27795), Prob: 0.0000
+Token: ' now' (ID: 1431), Prob: 0.0000
+Token: ' every' (ID: 1449), Prob: 0.0000
+Token: ' with' (ID: 448), Prob: 0.0000
+Token: ' which' (ID: 892), Prob: 0.0000
+Token: ' what' (ID: 1128), Prob: 0.0000
+Token: ' perhaps' (ID: 8365), Prob: 0.0000
+Token: ' despite' (ID: 8818), Prob: 0.0000
+Token: ' this' (ID: 419), Prob: 0.0000
+Token: ' ever' (ID: 3512), Prob: 0.0000
+Token: ' at' (ID: 518), Prob: 0.0000
+Token: ' right' (ID: 1290), Prob: 0.0000
+Token: ' after' (ID: 1283), Prob: 0.0000
+Token: ' again' (ID: 1549), Prob: 0.0000
+Token: ' come' (ID: 2525), Prob: 0.0000
+Token: ' she' (ID: 1340), Prob: 0.0000
+Token: ' though' (ID: 3498), Prob: 0.0000
+Token: ' anyway' (ID: 13657), Prob: 0.0000
+Token: ' due' (ID: 4152), Prob: 0.0000
+Token: ' a' (ID: 264), Prob: 0.0000
+Token: ' his' (ID: 806), Prob: 0.0000
+Token: ' not' (ID: 537), Prob: 0.0000
+Token: ' all' (ID: 678), Prob: 0.0000
+Token: ' whether' (ID: 3425), Prob: 0.0000
+Token: ' until' (ID: 3080), Prob: 0.0000
+Token: ' reason' (ID: 2874), Prob: 0.0000
+Token: ' be' (ID: 387), Prob: 0.0000
+Token: ' like' (ID: 1075), Prob: 0.0000
+Token: ' on' (ID: 389), Prob: 0.0000
+Token: ' tonight' (ID: 17913), Prob: 0.0000
+Token: ' only' (ID: 1172), Prob: 0.0000
+Token: ' never' (ID: 2581), Prob: 0.0000
+Token: ' some' (ID: 1045), Prob: 0.0000
+Token: 'ecause' (ID: 6631), Prob: 0.0000
+Token: ' if' (ID: 421), Prob: 0.0000
+Token: ' something' (ID: 2494), Prob: 0.0000
+Token: ' car' (ID: 1803), Prob: 0.0000
+Token: ' either' (ID: 2987), Prob: 0.0000
+Token: ' otherwise' (ID: 5937), Prob: 0.0000
+Token: ' cause' (ID: 5240), Prob: 0.0000
+Token: ' according' (ID: 4092), Prob: 0.0000
+Token: ' when' (ID: 979), Prob: 0.0000
+Token: ' there' (ID: 1052), Prob: 0.0000
+Token: ' any' (ID: 894), Prob: 0.0000
+Token: ' from' (ID: 504), Prob: 0.0000
+Token: ' wherever' (ID: 27478), Prob: 0.0000
+Token: ' just' (ID: 1101), Prob: 0.0000
+Token: ' here' (ID: 1588), Prob: 0.0000
+Token: 'Because' (ID: 17949), Prob: 0.0000
+Token: ' therefore' (ID: 8916), Prob: 0.0000
+Token: ' both' (ID: 2176), Prob: 0.0000
+Token: ' especially' (ID: 5310), Prob: 0.0000
+Token: ' then' (ID: 1221), Prob: 0.0000
+Token: ' today' (ID: 3351), Prob: 0.0000
 
 == Ranked Concepts (Clusters) ==
-Rank 1 | Centroid: ' light' | Score: 0.9883
-  Tokens: [' light', ' lights']
-Rank 2 | Centroid: ' the' | Score: 0.0120
-  Tokens: [' the', ' his', ' its', ' that', ' it', ' her', ' a', ' their', ' this', ' my', ' your', ' what', ' such']
-Rank 3 | Centroid: ' yellow' | Score: 0.0001
-  Tokens: [' white', ' red', ' yellow', ' orange', ' blue', ' green', ' pale', ' crimson', ' amber']
-Rank 4 | Centroid: ' flame' | Score: 0.0000
-  Tokens: [' fire', ' flick', ' flame', ' torch']
-Rank 5 | Centroid: ' warm' | Score: 0.0000
-  Tokens: [' cold', ' warm', ' warmth', ' heat', ' hot']
-Rank 6 | Centroid: ' darkness' | Score: 0.0000
-  Tokens: [' darkness', ' dark', ' shadow']
-Rank 7 | Centroid: ' gold' | Score: 0.0000
-  Tokens: [' silver', ' gold', ' glass', ' golden', ' metal', ' wood', ' steel', ' copper']
-Rank 8 | Centroid: ' sunlight' | Score: 0.0000
-  Tokens: [' sunlight', ' daylight', ' sun']
-Rank 9 | Centroid: ' emergency' | Score: 0.0000
-  Tokens: [' artificial', ' hope', ' reflected', ' safety', ' emergency', ' protection', ' duty', ' shifting', ' fear', ' warning', ' relief']
-Rank 10 | Centroid: ' moon' | Score: 0.0000
-  Tokens: [' moon']
-Rank 11 | Centroid: ' brightness' | Score: 0.0000
-  Tokens: [' bright', ' glowing', ' brightness', ' shining']
-Rank 12 | Centroid: ' lamp' | Score: 0.0000
-  Tokens: [' lantern', ' candle', ' illumination', ' lam', ' flashlight', ' lamp']
-Rank 13 | Centroid: ' un' | Score: 0.0000
-  Tokens: [' un', ' old', ' even', ' w', ' search', ' l', ' early']
-Rank 14 | Centroid: ' fog' | Score: 0.0000
-  Tokens: [' fog', ' frost']
-Rank 15 | Centroid: ' already' | Score: 0.0000
-  Tokens: [' still', ' familiar', ' already']
-Rank 16 | Centroid: ' stolen' | Score: 0.0000
-  Tokens: [' stolen', ' fading', ' borrowed', ' renewed']
-Rank 17 | Centroid: ' weak' | Score: 0.0000
-  Tokens: [' soft', ' weak', ' pure']
-Rank 18 | Centroid: ' electricity' | Score: 0.0000
-  Tokens: [' electricity', ' silence']
-Rank 19 | Centroid: ' visible' | Score: 0.0000
-  Tokens: [' visible', ' sight']
-Rank 20 | Centroid: ' power' | Score: 0.0000
-  Tokens: [' power', ' life']
-Rank 21 | Centroid: ' beam' | Score: 0.0000
-  Tokens: [' beam', ' steady']
-Rank 22 | Centroid: ' wax' | Score: 0.0000
-  Tokens: [' wax']
-Rank 23 | Centroid: ' star' | Score: 0.0000
-  Tokens: [' star']
-Rank 24 | Centroid: ' motion' | Score: 0.0000
-  Tokens: [' motion']
+Rank 1 | Centroid: ' because' | Score: 0.9961
+  Tokens: [' because', 'because', ' Because', ' since', ' porque', ' due', 'ecause', 'Because']
+Rank 2 | Centroid: ' in' | Score: 0.0014
+  Tokens: [' for', ' and', ' to', ' as', ' or', ' in', ' with', ' at', ' like', ' on', ' from']
+Rank 3 | Centroid: ' but' | Score: 0.0002
+  Tokens: [' but']
+Rank 4 | Centroid: ' the' | Score: 0.0001
+  Tokens: [' the', ' it', ' this', ' a', ' all']
+Rank 5 | Centroid: ' not' | Score: 0.0001
+  Tokens: [' so', ' I', ' no', ' not', ' be']
+Rank 6 | Centroid: ' reason' | Score: 0.0001
+  Tokens: [' why', ' reason', ' cause']
+Rank 7 | Centroid: ' despite' | Score: 0.0001
+  Tokens: [' even', ' regardless', ' despite', ' though', ' anyway', ' especially']
+Rank 8 | Centroid: ' he' | Score: 0.0000
+  Tokens: [' he', ' she', ' his', ' there']
+Rank 9 | Centroid: ' perhaps' | Score: 0.0000
+  Tokens: [' maybe', ' perhaps', ' some', ' something']
+Rank 10 | Centroid: ' once' | Score: 0.0000
+  Tokens: [' once', ' again']
+Rank 11 | Centroid: ' that' | Score: 0.0000
+  Tokens: [' that', ' which']
+Rank 12 | Centroid: ' whatever' | Score: 0.0000
+  Tokens: [' whatever', ' every', ' any', ' wherever']
+Rank 13 | Centroid: ' when' | Score: 0.0000
+  Tokens: [' after', ' until', ' if', ' according', ' when']
+Rank 14 | Centroid: ' today' | Score: 0.0000
+  Tokens: [' now', ' tonight', ' here', ' today']
+Rank 15 | Centroid: ' what' | Score: 0.0000
+  Tokens: [' what', ' whether']
+Rank 16 | Centroid: ' ever' | Score: 0.0000
+  Tokens: [' ever', ' never']
+Rank 17 | Centroid: ' come' | Score: 0.0000
+  Tokens: [' come', ' car']
+Rank 18 | Centroid: ' right' | Score: 0.0000
+  Tokens: [' right']
+Rank 19 | Centroid: ' then' | Score: 0.0000
+  Tokens: [' otherwise', ' therefore', ' then']
+Rank 20 | Centroid: ' only' | Score: 0.0000
+  Tokens: [' only', ' just']
+Rank 21 | Centroid: ' either' | Score: 0.0000
+  Tokens: [' either', ' both']
 
 **Chosen Concept:** Rank 1

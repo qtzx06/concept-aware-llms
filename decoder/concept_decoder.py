@@ -77,7 +77,7 @@ def generate_with_concept_decoder(
     dim_reduction_components: int, concept_ranking_method: str, min_token_prob: float,
     logger: logging.Logger
 ) -> str:
-    device = model.device
+    device = model.device if hasattr(model, 'device') else next(model.parameters()).device
     think_end_token_id = 151668
 
     messages = [{"role": "system", "content": "Name something parents would criticize their children for having."}, {"role": "user", "content": prompt}]

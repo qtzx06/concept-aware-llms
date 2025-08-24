@@ -1,0 +1,118 @@
+--- Step 70 Log ---
+
+== Filtered Candidates ==
+Token: ' coming' (ID: 5001), Prob: 0.9961
+Token: ' approaching' (ID: 29947), Prob: 0.0019
+Token: ' going' (ID: 2087), Prob: 0.0001
+Token: ' moving' (ID: 7218), Prob: 0.0001
+Token: ' come' (ID: 2525), Prob: 0.0001
+Token: 'coming' (ID: 4959), Prob: 0.0000
+Token: ' arriving' (ID: 32011), Prob: 0.0000
+Token: ' not' (ID: 537), Prob: 0.0000
+Token: ' here' (ID: 1588), Prob: 0.0000
+Token: ' in' (ID: 304), Prob: 0.0000
+Token: ' on' (ID: 389), Prob: 0.0000
+Token: ' closing' (ID: 15316), Prob: 0.0000
+Token: ' Coming' (ID: 39891), Prob: 0.0000
+Token: ' near' (ID: 3143), Prob: 0.0000
+Token: ' there' (ID: 1052), Prob: 0.0000
+Token: ' beginning' (ID: 7167), Prob: 0.0000
+Token: ' getting' (ID: 3709), Prob: 0.0000
+Token: ' the' (ID: 279), Prob: 0.0000
+Token: ' sailing' (ID: 50029), Prob: 0.0000
+Token: ' making' (ID: 3259), Prob: 0.0000
+Token: ' a' (ID: 264), Prob: 0.0000
+Token: ' heading' (ID: 14496), Prob: 0.0000
+Token: ' leaving' (ID: 9380), Prob: 0.0000
+Token: ' already' (ID: 2669), Prob: 0.0000
+Token: ' waiting' (ID: 8580), Prob: 0.0000
+Token: ' nearing' (ID: 82299), Prob: 0.0000
+Token: ' close' (ID: 3265), Prob: 0.0000
+Token: ' crashing' (ID: 45474), Prob: 0.0000
+Token: ' passing' (ID: 12299), Prob: 0.0000
+Token: ' about' (ID: 911), Prob: 0.0000
+Token: ' still' (ID: 2058), Prob: 0.0000
+Token: ' bringing' (ID: 12678), Prob: 0.0000
+Token: 'Coming' (ID: 56689), Prob: 0.0000
+Token: ' doing' (ID: 3730), Prob: 0.0000
+Token: ' running' (ID: 4303), Prob: 0.0000
+Token: ' turning' (ID: 13054), Prob: 0.0000
+Token: ' looking' (ID: 3330), Prob: 0.0000
+Token: ' to' (ID: 311), Prob: 0.0000
+Token: ' starting' (ID: 5916), Prob: 0.0000
+Token: ' from' (ID: 504), Prob: 0.0000
+Token: ' taking' (ID: 4633), Prob: 0.0000
+Token: ' flying' (ID: 16307), Prob: 0.0000
+Token: ' looming' (ID: 64464), Prob: 0.0000
+Token: ' falling' (ID: 15679), Prob: 0.0000
+Token: ' cir' (ID: 29470), Prob: 0.0000
+Token: ' at' (ID: 518), Prob: 0.0000
+Token: ' breaking' (ID: 14719), Prob: 0.0000
+Token: ' right' (ID: 1290), Prob: 0.0000
+Token: ' threatening' (ID: 26805), Prob: 0.0000
+Token: ' rising' (ID: 16062), Prob: 0.0000
+Token: ' all' (ID: 678), Prob: 0.0000
+Token: ' closer' (ID: 12128), Prob: 0.0000
+Token: ' came' (ID: 3697), Prob: 0.0000
+Token: ' dying' (ID: 22273), Prob: 0.0000
+Token: ' almost' (ID: 4558), Prob: 0.0000
+Token: ' disappearing' (ID: 66403), Prob: 0.0000
+Token: ' now' (ID: 1431), Prob: 0.0000
+Token: ' comes' (ID: 4041), Prob: 0.0000
+Token: ' cutting' (ID: 14376), Prob: 0.0000
+Token: ' watching' (ID: 10099), Prob: 0.0000
+Token: ' emerging' (ID: 23206), Prob: 0.0000
+Token: ' just' (ID: 1101), Prob: 0.0000
+Token: ' attacking' (ID: 22818), Prob: 0.0000
+Token: ' calling' (ID: 8098), Prob: 0.0000
+Token: ' returning' (ID: 13451), Prob: 0.0000
+Token: ' away' (ID: 3123), Prob: 0.0000
+Token: ' ready' (ID: 5527), Prob: 0.0000
+Token: ' saying' (ID: 5488), Prob: 0.0000
+Token: ' trying' (ID: 4460), Prob: 0.0000
+Token: ' so' (ID: 773), Prob: 0.0000
+Token: ' because' (ID: 1576), Prob: 0.0000
+Token: ' being' (ID: 1660), Prob: 0.0000
+Token: ' reaching' (ID: 18739), Prob: 0.0000
+Token: ' somewhere' (ID: 14696), Prob: 0.0000
+Token: ' preparing' (ID: 20045), Prob: 0.0000
+Token: ' COM' (ID: 7682), Prob: 0.0000
+Token: ' showing' (ID: 9027), Prob: 0.0000
+
+== Ranked Concepts (Clusters) ==
+Rank 1 | Centroid: ' coming' | Score: 0.9961
+  Tokens: [' coming', ' come', 'coming', ' Coming', 'Coming', ' came', ' comes', ' COM']
+Rank 2 | Centroid: ' approaching' | Score: 0.0020
+  Tokens: [' approaching', ' arriving', ' nearing', ' returning', ' reaching']
+Rank 3 | Centroid: ' going' | Score: 0.0003
+  Tokens: [' going', ' moving', ' heading', ' running']
+Rank 4 | Centroid: ' the' | Score: 0.0001
+  Tokens: [' not', ' in', ' on', ' the', ' a', ' to', ' from', ' at', ' right', ' all', ' so']
+Rank 5 | Centroid: ' because' | Score: 0.0000
+  Tokens: [' here', ' there', ' about', ' away', ' because', ' somewhere']
+Rank 6 | Centroid: ' close' | Score: 0.0000
+  Tokens: [' closing', ' near', ' close', ' closer']
+Rank 7 | Centroid: ' getting' | Score: 0.0000
+  Tokens: [' getting', ' making', ' leaving', ' bringing', ' taking', ' being']
+Rank 8 | Centroid: ' still' | Score: 0.0000
+  Tokens: [' already', ' still', ' now', ' just']
+Rank 9 | Centroid: ' doing' | Score: 0.0000
+  Tokens: [' doing', ' looking', ' calling', ' saying', ' trying', ' showing']
+Rank 10 | Centroid: ' flying' | Score: 0.0000
+  Tokens: [' sailing', ' flying', ' cir']
+Rank 11 | Centroid: ' attacking' | Score: 0.0000
+  Tokens: [' crashing', ' threatening', ' dying', ' disappearing', ' attacking']
+Rank 12 | Centroid: ' beginning' | Score: 0.0000
+  Tokens: [' beginning', ' starting']
+Rank 13 | Centroid: ' preparing' | Score: 0.0000
+  Tokens: [' waiting', ' watching', ' ready', ' preparing']
+Rank 14 | Centroid: ' breaking' | Score: 0.0000
+  Tokens: [' turning', ' breaking', ' cutting']
+Rank 15 | Centroid: ' passing' | Score: 0.0000
+  Tokens: [' passing', ' falling']
+Rank 16 | Centroid: ' emerging' | Score: 0.0000
+  Tokens: [' looming', ' rising', ' emerging']
+Rank 17 | Centroid: ' almost' | Score: 0.0000
+  Tokens: [' almost']
+
+**Chosen Concept:** Rank 1

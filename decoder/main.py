@@ -2,6 +2,7 @@ import time
 import torch
 from transformers import AutoModelForCausalLM, AutoTokenizer
 from concept_decoder import generate_with_concept_decoder, setup_logger
+from bertscore_evaluator import BERTScoreEvaluator, get_human_references_for_prompt
 import argparse
 import sys
 import os
@@ -56,6 +57,18 @@ def get_user_config(parser):
     if ranking_input:
         args.concept_ranking_method = ranking_input
 
+    print("\n--- BERTScore Evaluation Settings ---")
+    
+    bertscore_input = input(f"Enable BERTScore evaluation? (yes/no) [default: {'yes' if args.enable_bertscore and not args.disable_bertscore else 'no'}]: ").lower()
+    if bertscore_input:
+        args.enable_bertscore = bertscore_input in ["yes", "y"]
+        args.disable_bertscore = bertscore_input not in ["yes", "y"]
+    
+    if args.enable_bertscore:
+        model_input = input(f"BERTScore model [default: {args.bertscore_model}]: ")
+        if model_input:
+            args.bertscore_model = model_input
+
     print("\n" + "-"*64 + "\n")
     return args
 
@@ -74,6 +87,9 @@ def main():
     parser.add_argument("--use_dim_reduction", type=bool, default=False)
     parser.add_argument("--dim_reduction_components", type=int, default=32)
     parser.add_argument("--concept_ranking_method", type=str, default="sum", choices=['sum', 'max'])
+    parser.add_argument("--enable_bertscore", action="store_true", default=True, help="Enable BERTScore evaluation")
+    parser.add_argument("--disable_bertscore", action="store_true", help="Disable BERTScore evaluation")
+    parser.add_argument("--bertscore_model", type=str, default="bert-base-uncased", help="BERT model for scoring")
 
     is_interactive = '--non_interactive' not in sys.argv
     
@@ -82,7 +98,7 @@ def main():
     else:
         args = parser.parse_args()
 
-    device = "cuda" if torch.cuda.is_available() else "cpu"
+    device = "cuda" if torch.cuda.is_available() else "mps" if torch.backends.mps.is_available() else "cpu"
     
     print(f"Loading model and tokenizer: {args.model_name}...")
     model = AutoModelForCausalLM.from_pretrained(args.model_name, device_map="auto", torch_dtype="auto")
@@ -97,10 +113,11 @@ def main():
     
     messages = [{"role": "system", "content": "Output one word responses to the question."}, {"role": "user", "content": args.prompt}]
     text = tokenizer.apply_chat_template(messages, tokenize=False, add_generation_prompt=True, enable_thinking=args.enable_thinking)
-    model_inputs = tokenizer([text], return_tensors="pt").to(device)
+    model_inputs = tokenizer([text], return_tensors="pt")
+    model_inputs = {k: v.to(device) for k, v in model_inputs.items()}
 
     generated_ids = model.generate(**model_inputs, max_new_tokens=args.max_new_tokens, temperature=0.7, top_p=0.8)
-    output_ids = generated_ids[0][len(model_inputs.input_ids[0]):].tolist()
+    output_ids = generated_ids[0][len(model_inputs['input_ids'][0]):].tolist()
     
     baseline_output = tokenizer.decode(output_ids, skip_special_tokens=True)
     end_time = time.time()
@@ -112,7 +129,7 @@ def main():
     logger = setup_logger()
     start_time = time.time()
     
-    generate_with_concept_decoder(
+    concept_output = generate_with_concept_decoder(
         model, tokenizer, args.prompt, args.max_new_tokens, args.k, 
         args.distance_threshold, args.enable_thinking, args.clustering_algo, 
         args.eps, args.use_dim_reduction, args.dim_reduction_components,
@@ -126,6 +143,38 @@ def main():
     script_dir = os.path.dirname(os.path.abspath(__file__))
     log_file_path = os.path.join(script_dir, 'concept_decoder.log')
     os.system(f"tail -n 10 {log_file_path}")
+
+    # BERTScore Evaluation
+    if args.enable_bertscore and not args.disable_bertscore:
+        print("\n[3] BERTScore Evaluation")
+        print("="*50)
+        
+        try:
+            # Initialize BERTScore evaluator
+            evaluator = BERTScoreEvaluator(model_type=args.bertscore_model, device=device)
+            
+            # Get human reference responses
+            human_references = get_human_references_for_prompt(args.prompt)
+            print(f"Using {len(human_references)} human reference responses for evaluation")
+            
+            # Perform comparison
+            comparison = evaluator.compare_decoding_methods(
+                baseline_output=baseline_output.strip(),
+                concept_output=concept_output.strip(),
+                references=human_references,
+                prompt=args.prompt
+            )
+            
+            # Print results
+            evaluator.print_comparison_summary(comparison)
+            
+            # Save results
+            results_file = evaluator.save_evaluation_results(comparison)
+            print(f"\nDetailed results saved to: {results_file}")
+            
+        except Exception as e:
+            print(f"BERTScore evaluation failed: {e}")
+            print("Continuing without evaluation...")
 
 
 if __name__ == "__main__":
