@@ -1,0 +1,35 @@
+{
+  "prompt": "Name something parents would criticize their children for having.",
+  "baseline": {
+    "output": "<think>\nOkay, the user is asking, \"Name something parents would criticize their children for having.\" Let me think about this. First, I need to recall common things parents might find problematic. Common issues could be academic failures, like poor grades. Or maybe something like a messy room, which is a common issue parents face. Another possibility is a lack of discipline, or maybe something like a bad habit. But the question is asking for something specific. Let me think of the most common ones.",
+    "best_f1": 0.37251192331314087,
+    "avg_f1": 0.32405915260314944,
+    "best_precision": 0.28080660104751587,
+    "best_recall": 0.6586629748344421
+  },
+  "concept_decoder": {
+    "output": "<think>\nOkay, the user is asking for names of things parents might criticize their children. Let me start by thinking about common issues parents face. Maybe things like poor behavior, academic failures, or not completing homework. Or maybe something like being unreliable,</think>\n\nCertainly! Here are some common things parents might criticize their children for:\n\n1. **Poor Academic Performance** \u2013 Especially in subjects like math, science, or language arts.\n2. **Unhealthy Habits** \u2013 Such as smoking, drug",
+    "best_f1": 0.4030403792858124,
+    "avg_f1": 0.3363455951213837,
+    "best_precision": 0.29933661222457886,
+    "best_recall": 0.6414697170257568
+  },
+  "improvement": {
+    "f1_improvement": 0.03052845597267151,
+    "precision_improvement": 0.01853001117706299,
+    "recall_improvement": -0.017193257808685303
+  },
+  "human_references": [
+    "messy room",
+    "bad grades",
+    "lazy attitude",
+    "disrespectful behavior",
+    "spending too much time on phone",
+    "not doing homework",
+    "talking back",
+    "being late",
+    "not cleaning up",
+    "wasting money"
+  ],
+  "timestamp": "2025-08-26T00:13:00.169887"
+}
