@@ -1,7 +1,7 @@
 torch>=2.0.0
 transformers>=4.30.0
 scikit-learn>=1.1.0
-numpy
+numpy<2.0
 pandas
 tqdm
 jsonlines>=3.0.0
@@ -13,3 +13,14 @@ sacrebleu
 nltk
 sacremoses
 bert-score
+attrs
+pytz
+python-dateutil
+six
+typing_extensions
+huggingface-hub
+requests
+urllib3
+idna
+chardet
+charset-normalizer
