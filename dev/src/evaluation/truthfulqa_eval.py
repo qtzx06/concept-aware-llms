@@ -2,6 +2,7 @@ import pandas as pd
 from rouge_score import rouge_scorer
 import sacrebleu
 import nltk
+from bert_score import score as bert_score_calc
 
 class TruthfulQAEvaluator:
     def __init__(self):
@@ -16,9 +17,7 @@ class TruthfulQAEvaluator:
 
     def evaluate(self, predictions, ground_truths):
         """
-        Calculates ROUGE and BLEU scores.
-        :param predictions: A list of generated answers (strings).
-        :param ground_truths: A list of dictionaries from the dataset.
+        Calculates ROUGE, BLEU, and BERTScore.
         """
         references = [item['Best Answer'] for item in ground_truths]
 
@@ -37,10 +36,17 @@ class TruthfulQAEvaluator:
         list_of_references = [[ref] for ref in references]
         bleu = sacrebleu.corpus_bleu(predictions, list_of_references)
 
+        # --- BERTScore ---
+        # Note: BERTScore can be slow and will download a model on first run.
+        # It returns Precision, Recall, and F1 scores. We'll use F1.
+        P, R, F1 = bert_score_calc(predictions, references, lang="en", verbose=False)
+        avg_bert_f1 = F1.mean().item()
+
         return {
             "rouge1": avg_rouge1,
             "rougeL": avg_rougeL,
-            "bleu": bleu.score
+            "bleu": bleu.score,
+            "bert_f1": avg_bert_f1
         }
 
 if __name__ == '__main__':

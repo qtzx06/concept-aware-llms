@@ -49,7 +49,8 @@ class ConceptAwareExperiment:
             decoding_strategy=self.decoding_strategy,
             entropy_threshold=self.config.get('concept_processing', {}).get('entropy_threshold', 2.5),
             temperature=self.config.get('temperature', 0.7),
-            top_p=self.config.get('top_p', 0.95)
+            top_p=self.config.get('top_p', 0.95),
+            alpha=self.config.get('concept_processing', {}).get('alpha', 0.7)
         )
 
         print(f"Generating concept-aware answers for {len(prompts)} examples...")
