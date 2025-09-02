@@ -1,0 +1,13 @@
+# Virtual Environment
+.venv/
+
+# Cloned Data Repositories
+/TruthfulQA/
+/FOLIO/
+
+# Results
+/results/
+
+# Python cache
+__pycache__/
+*.pyc

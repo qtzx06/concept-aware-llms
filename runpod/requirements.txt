@@ -1,0 +1,13 @@
+transformers>=4.30.0
+scikit-learn>=1.1.0
+numpy
+pandas
+tqdm
+jsonlines>=3.0.0
+pyyaml>=6.0
+accelerate
+datasets
+rouge_score
+sacrebleu
+nltk
+sacremoses

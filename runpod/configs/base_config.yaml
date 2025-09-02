@@ -1,0 +1,12 @@
+model_name: "Qwen/Qwen2.5-0.5B-Instruct"
+device: "auto"
+
+# --- Generation Parameters ---
+# Set temperature to 0 for deterministic, reproducible testing
+temperature: 0.0
+top_p: 0.95
+
+# --- Concept-Aware Parameters ---
+concept_processing:
+  top_k: 100
+  entropy_threshold: 2.5
