@@ -2,11 +2,11 @@ model_name: "Qwen/Qwen2.5-3B-Instruct"
 device: "auto"
 
 # --- Generation Parameters ---
-temperature: 0.0
+temperature: 0.8
 top_p: 0.95
 
 # --- Concept-Aware Parameters ---
 concept_processing:
   top_k: 100
-  entropy_threshold: 2.5
-  alpha: 0.7 # Weight for the new scoring formula
+  entropy_threshold: 1.8
+  alpha: 0.7 # Weight for the scoring formula
