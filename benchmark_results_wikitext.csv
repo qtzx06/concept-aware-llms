@@ -1,0 +1,219 @@
+prompt,reference_story,baseline_generation,concept_generation,similarity_score_baseline,similarity_score_concept
+"Instruction: When did Virgin Australia start operating?
+
+Context: Virgin Australia, the trading name of Virgin Australia Airlines Pty Ltd, is an Australian-based airline. It is the largest airline by fleet size to use the Virgin brand. It commenced services on 31 August 2000 as Virgin Blue, with two aircraft on a single route. It suddenly found itself as a major airline in Australia's domestic market after the collapse of Ansett Australia in September 2001. The airline has since grown to directly serve 32 cities in Australia, from hubs in Brisbane, Melbourne and Sydney.
+
+Response:","Virgin Australia commenced services on 31 August 2000 as Virgin Blue, with two aircraft on a single route.","A. A. 31 August 2000
+
+B. A. 31 August 2001
+
+C. A. 31 August 20","Instruction: When did Virgin Australia start operating?
+
+Context: Virgin Australia, the trading name of Virgin Australia Airlines Pty Ltd, is an Australian-based airline. It is the largest airline by fleet size to use the Virgin brand. It commenced services on 31 August 2000 as Virgin Blue, with two aircraft on a single route. It suddenly found itself as a major airline in Australia's domestic market after the collapse of Ansett Australia in September 2001. The airline has since grown to directly serve 32 cities in Australia, from hubs in Brisbane, Melbourne and Sydney.
+
+Response: The answer is August of the year which is the start date of Virgin Australia's operations.
+
+But the answer is August of the year which is the start date of Virgin Australia's operations.
+
+But the",0.26452434062957764,0.8073670864105225
+"Instruction: Which is a species of fish? Tope or Rope
+
+Response:",Tope,"Tope is a species of fish, and Rope is a species","Instruction: Which is a species of fish? Tope or Rope
+
+Response: The answer is Rope. Rope is a type of fish. But",0.5101288557052612,0.326384961605072
+"Instruction: Why can camels survive for long without water?
+
+Response:",Camels use the fat in their humps to keep them filled with energy and hydration for long periods of time.,"Camels can survive for long without water because of their ability to store water in their bodies. This is called a water storage system.
+
+Answer: A water storage system is the main","Instruction: Why can camels survive for long without water?
+
+Response: Camels are adapted to live in a desert environment. Their bodies are designed to withstand extreme temperatures, and they have a specialized system of urine excretion. They can survive for long",0.6217782497406006,0.598801851272583
+"Instruction: Alice's parents have three daughters: Amy, Jessy, and what’s the name of the third daughter?
+
+Response:",The name of the third daughter is Alice,"A. Amy
+B. Jessy
+C. Alice
+
+The correct answer is C.","Instruction: Alice's parents have three daughters: Amy, Jessy, and what’s the name of the third daughter?
+
+Response: The answer is in the first line of the response. To find the answer, you need to",0.5409629344940186,0.7646374702453613
+"Instruction: When was Tomoaki Komorida born?
+
+Context: Komorida was born in Kumamoto Prefecture on July 10, 1981. After graduating from high school, he joined the J1 League club Avispa Fukuoka in 2000. Although he debuted as a midfielder in 2001, he did not play much and the club was relegated to the J2 League at the end of the 2001 season. In 2002, he moved to the J2 club Oita Trinita. He became a regular player as a defensive midfielder and the club won the championship in 2002 and was promoted in 2003. He played many matches until 2005. In September 2005, he moved to the J2 club Montedio Yamagata. In 2006, he moved to the J2 club Vissel Kobe. Although he became a regular player as a defensive midfielder, his gradually was played less during the summer. In 2007, he moved to the Japan Football League club Rosso Kumamoto (later Roasso Kumamoto) based in his local region. He played as a regular player and the club was promoted to J2 in 2008. Although he did not play as much, he still played in many matches. In 2010, he moved to Indonesia and joined Persela Lamongan. In July 2010, he returned to Japan and joined the J2 club Giravanz Kitakyushu. He played often as a defensive midfielder and center back until 2012 when he retired.
+
+Response:","Tomoaki Komorida was born on July 10,1981.","The answer is 1981. The response is correct.
+The answer is 1981.
+The answer is 198","Instruction: When was Tomoaki Komorida born?
+
+Context: Komorida was born in Kumamoto Prefecture on July 10, 1981. After graduating from high school, he joined the J1 League club Avispa Fukuoka in 2000. Although he debuted as a midfielder in 2001, he did not play much and the club was relegated to the J2 League at the end of the 2001 season. In 2002, he moved to the J2 club Oita Trinita. He became a regular player as a defensive midfielder and the club won the championship in 2002 and was promoted in 2003. He played many matches until 2005. In September 2005, he moved to the J2 club Montedio Yamagata. In 2006, he moved to the J2 club Vissel Kobe. Although he became a regular player as a defensive midfielder, his gradually was played less during the summer. In 2007, he moved to the Japan Football League club Rosso Kumamoto (later Roasso Kumamoto) based in his local region. He played as a regular player and the club was promoted to J2 in 2008. Although he did not play as much, he still played in many matches. In 2010, he moved to Indonesia and joined Persela Lamongan. In July 2010, he returned to Japan and joined the J2 club Giravanz Kitakyushu. He played often as a defensive midfielder and center back until 2012 when he retired.
+
+Response: The answer is July the tenth, twenty-one. The answer is July the tenth, twenty-one. The answer is July the tenth, twenty-one.
+",0.2521810531616211,0.5505366921424866
+"Instruction: If I have more pieces at the time of stalemate, have I won?
+
+Context: Stalemate is a situation in chess where the player whose turn it is to move is not in check and has no legal move. Stalemate results in a draw. During the endgame, stalemate is a resource that can enable the player with the inferior position to draw the game rather than lose. In more complex positions, stalemate is much rarer, usually taking the form of a swindle that succeeds only if the superior side is inattentive.[citation needed] Stalemate is also a common theme in endgame studies and other chess problems.
+
+The outcome of a stalemate was standardized as a draw in the 19th century. Before this standardization, its treatment varied widely, including being deemed a win for the stalemating player, a half-win for that player, or a loss for that player; not being permitted; and resulting in the stalemated player missing a turn. Stalemate rules vary in other games of the chess family.
+
+Response:","No. 
+Stalemate is a drawn position. It doesn't matter who has captured more pieces or is in a winning position","The response should be in a single sentence.
+
+The answer is:
+A single sentence that explains why a stalemate is considered a draw.
+The answer is:
+A single sentence that explains why a stale","Instruction: If I have more pieces at the time of stalemate, have I won?
+
+Context: Stalemate is a situation in chess where the player whose turn it is to move is not in check and has no legal move. Stalemate results in a draw. During the endgame, stalemate is a resource that can enable the player with the inferior position to draw the game rather than lose. In more complex positions, stalemate is much rarer, usually taking the form of a swindle that succeeds only if the superior side is inattentive.[citation needed] Stalemate is also a common theme in endgame studies and other chess problems.
+
+The outcome of a stalemate was standardized as a draw in the 19th century. Before this standardization, its treatment varied widely, including being deemed a win for the stalemating player, a half-win for that player, or a loss for that player; not being permitted; and resulting in the stalemated player missing a turn. Stalemate rules vary in other games of the chess family.
+
+Response: The answer is no.
+Answer is no.
+The answer is no.
+The answer is no.
+The answer is no.
+The answer is no.
+The answer is no.
+",0.4318232834339142,0.6434601545333862
+"Instruction: Given a reference text about Lollapalooza, where does it take place, who started it and what is it?
+
+Context: Lollapalooza /ˌlɒləpəˈluːzə/ (Lolla) is an annual American four-day music festival held in Grant Park in Chicago. It originally started as a touring event in 1991, but several years later, Chicago became its permanent location. Music genres include but are not limited to alternative rock, heavy metal, punk rock, hip hop, and electronic dance music. Lollapalooza has also featured visual arts, nonprofit organizations, and political organizations. The festival, held in Grant Park, hosts an estimated 400,000 people each July and sells out annually. Lollapalooza is one of the largest and most iconic music festivals in the world and one of the longest-running in the United States.
+
+Lollapalooza was conceived and created in 1991 as a farewell tour by Perry Farrell, singer of the group Jane's Addiction.
+
+Response:","Lollapalooze is an annual musical festival held in Grant Park in Chicago, Illinois. It was started in 1991 as a farewell tour by Perry Farrell, singe of the group Jane's Addiction. The festival includes an array of musical genres including alternative rock, heavy metal, punk rock, hip hop, and electronic dance music. The festivals welcomes an estimated 400,000 people each year and sells out annually. Some notable headliners include: the Red Hot Chili Peppers, Chance the Rapper, Metallica, and Lady Gage. Lollapalooza is one of the largest and most iconic festivals in the world and a staple of Chicago.","The festival takes place in Chicago, and it started as a touring event in 1991. The event started as a farewell tour by Perry Farrell.
+Answer:
+A
+B
+C
+D
+
+Choices:
+A. Chicago
+B. Seattle
+C. Grant Park
+D. 1991
+
+Choices:
+A. A
+B. B
+C. C
+D. D
+
+Choices:
+A. A
+B. B
+C. C
+D. D
+
+Choices:
+A. A
+B. B
+C. C
+D. D
+
+Choices:
+A. A
+B. B
+C. C
+D. D
+
+Choices:
+A. A
+B. B
+C. C
+D. D
+
+Choices:
+A. A
+B. B
+C. C","Instruction: Given a reference text about Lollapalooza, where does it take place, who started it and what is it?
+
+Context: Lollapalooza /ˌlɒləpəˈluːzə/ (Lolla) is an annual American four-day music festival held in Grant Park in Chicago. It originally started as a touring event in 1991, but several years later, Chicago became its permanent location. Music genres include but are not limited to alternative rock, heavy metal, punk rock, hip hop, and electronic dance music. Lollapalooza has also featured visual arts, nonprofit organizations, and political organizations. The festival, held in Grant Park, hosts an estimated 400,000 people each July and sells out annually. Lollapalooza is one of the largest and most iconic music festivals in the world and one of the longest-running in the United States.
+
+Lollapalooza was conceived and created in 1991 as a farewell tour by Perry Farrell, singer of the group Jane's Addiction.
+
+Response: The festival takes place in Chicago, and it was started by Perry Farrell.
+Answer is A. Chicago, Perry Farrell and the festival is the largest and most iconic music festival in the world.
+Answer is B. Chicago, Perry Farrell and the festival is the largest and most iconic music festival in the world.
+Answer is C. Chicago, Perry Farrell and the festival is the largest and most iconic music festival in the world.
+Answer is D. Chicago, Perry Farrell and the festival is the largest and most iconic music festival in the world.
+Answer is E. Chicago, Perry Farrell and the festival is the largest and most iconic music festival in the world.
+Answer is F. Chicago, Perry Farrell and the festival is the largest and most iconic music festival in the world.
+Answer is G. Chicago, Perry Farrell and the festival is the largest and most",0.4508141875267029,0.9146381616592407
+"Instruction: Who gave the UN the land in NY to build their HQ
+
+Response:",John D Rockerfeller,The answer is the answer is the answer is the answer is the answer is the answer,"Instruction: Who gave the UN the land in NY to build their HQ
+
+Response: The answer is the United States. The United States gave the land in NY to build",0.04936341196298599,0.10249823331832886
+"Instruction: Why mobile is bad for human
+
+Response:",We are always engaged one phone which is not good.,The main reason why mobile is bad for human is that it is not as safe as it seems. Mobile phones,"Instruction: Why mobile is bad for human
+
+Response: The mobile phone is a device that has been around for a long time. It has been used for communication, entertainment",0.35349202156066895,0.38513344526290894
+"Instruction: Who was John Moses Browning?
+
+Context: John Moses Browning (January 23, 1855 – November 26, 1926) was an American firearm designer who developed many varieties of military and civilian firearms, cartridges, and gun mechanisms – many of which are still in use around the world. He made his first firearm at age 13 in his father's gun shop and was awarded the first of his 128 firearm patents on October 7, 1879, at the age of 24. He is regarded as one of the most successful firearms designers of the 19th and 20th centuries and pioneered the development of modern repeating, semi-automatic, and automatic firearms.
+
+Browning influenced nearly all categories of firearms design, especially the autoloading of ammunition. He invented, or made significant improvements to, single-shot, lever-action, and pump-action rifles and shotguns. He developed the first reliable and compact autoloading pistols by inventing the telescoping bolt, then integrating the bolt and barrel shroud into what is known as the pistol slide. Browning's telescoping bolt design is now found on nearly every modern semi-automatic pistol, as well as several modern fully automatic weapons. He also developed the first gas-operated firearm, the Colt–Browning Model 1895 machine gun – a system that surpassed mechanical recoil operation to become the standard for most high-power self-loading firearm designs worldwide. He also made significant contributions to automatic cannon development.
+
+Browning's most successful designs include the M1911 pistol, the water-cooled M1917, the air-cooled M1919, and heavy M2 machine guns, the M1918 Browning Automatic Rifle, and the Browning Auto-5 – the first semi-automatic shotgun. Some of these arms are still manufactured, often with only minor changes in detail and cosmetics to those assembled by Browning or his licensees. The Browning-designed M1911 and Hi-Power are some of the most copied firearms in the world.
+
+Response:","John Moses Browning is one of the most well-known designer of modern firearms.  He started building firearms in his father's shop at the age of 13, and was awarded his first patent when he was 24.
+
+He  designed the first reliable automatic pistol, and the first gas-operated firearm, as well inventing or improving single-shot, lever-action, and pump-action rifles and shotguns.
+
+Today, he is most well-known for the M1911 pistol, the Browning Automatic Rifle, and the Auto-5 shotgun, all of which are in still in current production in either their original design, or with minor changes.  His M1911 and Hi-Power pistols designs are some of the most reproduced firearms in the world today.","The answer is: \boxed{Browning}
+Answer:
+The answer is: \boxed{Browning}
+The answer is: \boxed{Browning}
+The answer is: \boxed{Browning}
+The answer is: \boxed{Browning}
+The answer is: \boxed{Browning}
+The answer is: \boxed{Browning}
+
+The answer is: \boxed{Browning}
+The answer is: \boxed{Browning}
+The answer is: \boxed{Browning}
+The answer is: \boxed{Browning}
+The answer is: \boxed{Browning}
+
+The answer is: \boxed{Browning}
+The answer is: \boxed{Browning}
+The answer is: \boxed{Browning}
+The answer is: \boxed{Browning}
+The answer is: \boxed{Browning}
+
+The answer is: \boxed{Browning}
+The answer","Instruction: Who was John Moses Browning?
+
+Context: John Moses Browning (January 23, 1855 – November 26, 1926) was an American firearm designer who developed many varieties of military and civilian firearms, cartridges, and gun mechanisms – many of which are still in use around the world. He made his first firearm at age 13 in his father's gun shop and was awarded the first of his 128 firearm patents on October 7, 1879, at the age of 24. He is regarded as one of the most successful firearms designers of the 19th and 20th centuries and pioneered the development of modern repeating, semi-automatic, and automatic firearms.
+
+Browning influenced nearly all categories of firearms design, especially the autoloading of ammunition. He invented, or made significant improvements to, single-shot, lever-action, and pump-action rifles and shotguns. He developed the first reliable and compact autoloading pistols by inventing the telescoping bolt, then integrating the bolt and barrel shroud into what is known as the pistol slide. Browning's telescoping bolt design is now found on nearly every modern semi-automatic pistol, as well as several modern fully automatic weapons. He also developed the first gas-operated firearm, the Colt–Browning Model 1895 machine gun – a system that surpassed mechanical recoil operation to become the standard for most high-power self-loading firearm designs worldwide. He also made significant contributions to automatic cannon development.
+
+Browning's most successful designs include the M1911 pistol, the water-cooled M1917, the air-cooled M1919, and heavy M2 machine guns, the M1918 Browning Automatic Rifle, and the Browning Auto-5 – the first semi-automatic shotgun. Some of these arms are still manufactured, often with only minor changes in detail and cosmetics to those assembled by Browning or his licensees. The Browning-designed M1911 and Hi-Power are some of the most copied firearms in the world.
+
+Response: The answer is John Moses Browning.
+The response is correct.
+The answer is John Moses Browning.
+The answer is John Moses Browning.
+The answer is John Moses Browning.
+The answer is John Moses Browning.
+The answer is John Moses Browning.
+The answer is John Moses Browning.
+The answer is John Moses Browning.
+The answer is John Moses Browning.
+The answer is John Moses Browning.
+The answer is John Moses Browning.
+The answer is John Moses Browning.
+The answer is John Moses Browning.
+The answer is John Moses Browning.
+The answer is John Moses Browning.
+The answer is John Moses Browning.
+The answer is John Moses Browning.
+The answer is John Moses Browning.
+The answer is John Moses Browning.
+The answer is John Moses Browning.
+The answer is John Moses Browning.
+The answer is John Moses Browning.
+The answer is",0.15046921372413635,0.8462095260620117
