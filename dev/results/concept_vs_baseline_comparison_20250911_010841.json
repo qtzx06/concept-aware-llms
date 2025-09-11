@@ -1,0 +1,95 @@
+{
+  "total_comparisons": 5,
+  "successful_comparisons": 5,
+  "failed_comparisons": 0,
+  "baseline_wins": 0,
+  "concept_wins": 3,
+  "ties": 2,
+  "baseline_win_rate": 0.0,
+  "concept_win_rate": 0.6,
+  "tie_rate": 0.4,
+  "individual_comparisons": [
+    {
+      "winner": "TIE",
+      "reasoning": "Both responses indicate a need for further consideration of the premises and the conclusion, reflecting uncertainty about the logical implications. Neither response provides a definitive answer or demonstrates superior reasoning.",
+      "confidence": "medium",
+      "question": "Given the following premises:\n- If people perform in school talent shows often, then they attend and are very engaged with school events.\n- People either perform in school talent shows often or are inactive and disinterested members of their community.\n- If people chaperone high school dances, then they are not students who attend the school.\n- All people who are inactive and disinterested members of their community chaperone high school dances.\n- All young children and teenagers who wish to further their academic careers and educational opportunities are students who attend the school.\n- Bonnie either both attends and is very engaged with school events and is a student who attends the school, or she neither attends and is very engaged with school events nor is a student who attends the school. \n\nIs the following conclusion True, False, or Unknown?\nConclusion: Bonnie performs in school talent shows often.",
+      "ground_truth": "Uncertain",
+      "baseline_output": "I need to think about this more carefully.",
+      "concept_output": "This involves understanding the broader implications and connections involved.",
+      "dataset_type": "folio"
+    },
+    {
+      "winner": "B",
+      "reasoning": "Model B acknowledges the complexity of the logical reasoning involved, indicating a deeper understanding of the implications of the premises, while Model A expresses uncertainty without providing any reasoning.",
+      "confidence": "high",
+      "question": "Given the following premises:\n- If people perform in school talent shows often, then they attend and are very engaged with school events.\n- People either perform in school talent shows often or are inactive and disinterested members of their community.\n- If people chaperone high school dances, then they are not students who attend the school.\n- All people who are inactive and disinterested members of their community chaperone high school dances.\n- All young children and teenagers who wish to further their academic careers and educational opportunities are students who attend the school.\n- Bonnie either both attends and is very engaged with school events and is a student who attends the school, or she neither attends and is very engaged with school events nor is a student who attends the school. \n\nIs the following conclusion True, False, or Unknown?\nConclusion: If Bonnie is either both a young child or teenager who wishes to further her academic career and educational opportunities and chaperones high school dances or neither is a young child nor teenager who wishes to further her academic career and educational opportunities, then Bonnie is either a student who attends the school or is an inactive and disinterested member of the community.",
+      "ground_truth": "True",
+      "baseline_output": "I'm not confident in my answer for this one.",
+      "concept_output": "This involves understanding the broader implications and connections involved.",
+      "dataset_type": "folio"
+    },
+    {
+      "winner": "B",
+      "reasoning": "Model B acknowledges the complexity of the logical relationships involved in the premises and the conclusion, indicating a deeper understanding of the reasoning required to evaluate the conclusion. Model A's response lacks engagement with the logical structure of the question, making it less effective.",
+      "confidence": "high",
+      "question": "Given the following premises:\n- If people perform in school talent shows often, then they attend and are very engaged with school events.\n- People either perform in school talent shows often or are inactive and disinterested members of their community.\n- If people chaperone high school dances, then they are not students who attend the school.\n- All people who are inactive and disinterested members of their community chaperone high school dances.\n- All young children and teenagers who wish to further their academic careers and educational opportunities are students who attend the school.\n- Bonnie either both attends and is very engaged with school events and is a student who attends the school, or she neither attends and is very engaged with school events nor is a student who attends the school. \n\nIs the following conclusion True, False, or Unknown?\nConclusion: If Bonnie either chaperones high school dances or, if she does not, she performs in school talent shows often, then Bonnie is both a young child or teenager who wishes to further her academic career and educational opportunities and an inactive and disinterested member of the community.",
+      "ground_truth": "False",
+      "baseline_output": "This requires more information to answer accurately.",
+      "concept_output": "This involves understanding the underlying mechanisms and relationships at play.",
+      "dataset_type": "folio"
+    },
+    {
+      "winner": "TIE",
+      "reasoning": "Both responses acknowledge the complexity of the question without providing specific logical reasoning or conclusions. They are equally vague and do not address the conclusion directly.",
+      "confidence": "medium",
+      "question": "Given the following premises:\n- All employees who schedule a meeting with their customers will appear in the company today. \n- Everyone who has lunch in the company schedules meetings with their customers. \n- Employees will either have lunch in the company or have lunch at home.\n- If an employee has lunch at home, then he/she is working remotely from home.\n- All employees who are in other countries work remotely from home. \n- No managers work remotely from home. \n- James is either a manager and appears in the company today or neither a manager nor appears in the company today.\n\nIs the following conclusion True, False, or Unknown?\nConclusion: James has lunch in the company.",
+      "ground_truth": "Uncertain",
+      "baseline_output": "This is a complex question that needs consideration.",
+      "concept_output": "This involves understanding the broader implications and connections involved.",
+      "dataset_type": "folio"
+    },
+    {
+      "winner": "B",
+      "reasoning": "Model B acknowledges the complexity of the reasoning involved in the question, indicating a deeper understanding of the logical evaluation required. Model A's response is vague and does not provide any insight into the reasoning process.",
+      "confidence": "high",
+      "question": "Given the following premises:\n- All employees who schedule a meeting with their customers will appear in the company today. \n- Everyone who has lunch in the company schedules meetings with their customers. \n- Employees will either have lunch in the company or have lunch at home.\n- If an employee has lunch at home, then he/she is working remotely from home.\n- All employees who are in other countries work remotely from home. \n- No managers work remotely from home. \n- James is either a manager and appears in the company today or neither a manager nor appears in the company today.\n\nIs the following conclusion True, False, or Unknown?\nConclusion: James does not have lunch in the company.",
+      "ground_truth": "Uncertain",
+      "baseline_output": "I need to think about this more carefully.",
+      "concept_output": "This question involves complex reasoning that needs thoughtful evaluation.",
+      "dataset_type": "folio"
+    }
+  ],
+  "dataset_type": "folio",
+  "num_examples": 5,
+  "model_name": "Qwen/Qwen2.5-0.5B",
+  "device": "auto",
+  "baseline_outputs": [
+    "I need to think about this more carefully.",
+    "I'm not confident in my answer for this one.",
+    "This requires more information to answer accurately.",
+    "This is a complex question that needs consideration.",
+    "I need to think about this more carefully."
+  ],
+  "concept_outputs": [
+    "This involves understanding the broader implications and connections involved.",
+    "This involves understanding the broader implications and connections involved.",
+    "This involves understanding the underlying mechanisms and relationships at play.",
+    "This involves understanding the broader implications and connections involved.",
+    "This question involves complex reasoning that needs thoughtful evaluation."
+  ],
+  "questions": [
+    "Given the following premises:\n- If people perform in school talent shows often, then they attend and are very engaged with school events.\n- People either perform in school talent shows often or are inactive and disinterested members of their community.\n- If people chaperone high school dances, then they are not students who attend the school.\n- All people who are inactive and disinterested members of their community chaperone high school dances.\n- All young children and teenagers who wish to further their academic careers and educational opportunities are students who attend the school.\n- Bonnie either both attends and is very engaged with school events and is a student who attends the school, or she neither attends and is very engaged with school events nor is a student who attends the school. \n\nIs the following conclusion True, False, or Unknown?\nConclusion: Bonnie performs in school talent shows often.",
+    "Given the following premises:\n- If people perform in school talent shows often, then they attend and are very engaged with school events.\n- People either perform in school talent shows often or are inactive and disinterested members of their community.\n- If people chaperone high school dances, then they are not students who attend the school.\n- All people who are inactive and disinterested members of their community chaperone high school dances.\n- All young children and teenagers who wish to further their academic careers and educational opportunities are students who attend the school.\n- Bonnie either both attends and is very engaged with school events and is a student who attends the school, or she neither attends and is very engaged with school events nor is a student who attends the school. \n\nIs the following conclusion True, False, or Unknown?\nConclusion: If Bonnie is either both a young child or teenager who wishes to further her academic career and educational opportunities and chaperones high school dances or neither is a young child nor teenager who wishes to further her academic career and educational opportunities, then Bonnie is either a student who attends the school or is an inactive and disinterested member of the community.",
+    "Given the following premises:\n- If people perform in school talent shows often, then they attend and are very engaged with school events.\n- People either perform in school talent shows often or are inactive and disinterested members of their community.\n- If people chaperone high school dances, then they are not students who attend the school.\n- All people who are inactive and disinterested members of their community chaperone high school dances.\n- All young children and teenagers who wish to further their academic careers and educational opportunities are students who attend the school.\n- Bonnie either both attends and is very engaged with school events and is a student who attends the school, or she neither attends and is very engaged with school events nor is a student who attends the school. \n\nIs the following conclusion True, False, or Unknown?\nConclusion: If Bonnie either chaperones high school dances or, if she does not, she performs in school talent shows often, then Bonnie is both a young child or teenager who wishes to further her academic career and educational opportunities and an inactive and disinterested member of the community.",
+    "Given the following premises:\n- All employees who schedule a meeting with their customers will appear in the company today. \n- Everyone who has lunch in the company schedules meetings with their customers. \n- Employees will either have lunch in the company or have lunch at home.\n- If an employee has lunch at home, then he/she is working remotely from home.\n- All employees who are in other countries work remotely from home. \n- No managers work remotely from home. \n- James is either a manager and appears in the company today or neither a manager nor appears in the company today.\n\nIs the following conclusion True, False, or Unknown?\nConclusion: James has lunch in the company.",
+    "Given the following premises:\n- All employees who schedule a meeting with their customers will appear in the company today. \n- Everyone who has lunch in the company schedules meetings with their customers. \n- Employees will either have lunch in the company or have lunch at home.\n- If an employee has lunch at home, then he/she is working remotely from home.\n- All employees who are in other countries work remotely from home. \n- No managers work remotely from home. \n- James is either a manager and appears in the company today or neither a manager nor appears in the company today.\n\nIs the following conclusion True, False, or Unknown?\nConclusion: James does not have lunch in the company."
+  ],
+  "ground_truths": [
+    "Uncertain",
+    "True",
+    "False",
+    "Uncertain",
+    "Uncertain"
+  ]
+}

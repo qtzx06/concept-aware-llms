@@ -1,0 +1,67 @@
+{
+  "total_comparisons": 3,
+  "successful_comparisons": 3,
+  "failed_comparisons": 0,
+  "baseline_wins": 0,
+  "concept_wins": 3,
+  "ties": 0,
+  "baseline_win_rate": 0.0,
+  "concept_win_rate": 1.0,
+  "tie_rate": 0.0,
+  "individual_comparisons": [
+    {
+      "winner": "B",
+      "reasoning": "Model B demonstrates better logical reasoning by acknowledging the need for careful examination of the premises and their connections, which is essential for addressing the uncertainty of the conclusion. Model A lacks depth in its analysis.",
+      "confidence": "medium",
+      "question": "Given the following premises:\n- If people perform in school talent shows often, then they attend and are very engaged with school events.\n- People either perform in school talent shows often or are inactive and disinterested members of their community.\n- If people chaperone high school dances, then they are not students who attend the school.\n- All people who are inactive and disinterested members of their community chaperone high school dances.\n- All young children and teenagers who wish to further their academic careers and educational opportunities are students who attend the school.\n- Bonnie either both attends and is very engaged with school events and is a student who attends the school, or she neither attends and is very engaged with school events nor is a student who attends the school. \n\nIs the following conclusion True, False, or Unknown?\nConclusion: Bonnie performs in school talent shows often.",
+      "ground_truth": "Uncertain",
+      "baseline_output": "I'm not confident in my answer for this one.",
+      "concept_output": "Through logical analysis, this situation calls for understanding the underlying principles and their connections. The logical structure requires careful examination of how the premises relate to the conclusion.",
+      "dataset_type": "folio"
+    },
+    {
+      "winner": "B",
+      "reasoning": "Model B demonstrates a better understanding of the logical structure and the need for careful examination of the premises in relation to the conclusion, even though it does not provide a definitive answer. Model A's uncertainty does not contribute to the logical reasoning process.",
+      "confidence": "medium",
+      "question": "Given the following premises:\n- If people perform in school talent shows often, then they attend and are very engaged with school events.\n- People either perform in school talent shows often or are inactive and disinterested members of their community.\n- If people chaperone high school dances, then they are not students who attend the school.\n- All people who are inactive and disinterested members of their community chaperone high school dances.\n- All young children and teenagers who wish to further their academic careers and educational opportunities are students who attend the school.\n- Bonnie either both attends and is very engaged with school events and is a student who attends the school, or she neither attends and is very engaged with school events nor is a student who attends the school. \n\nIs the following conclusion True, False, or Unknown?\nConclusion: If Bonnie is either both a young child or teenager who wishes to further her academic career and educational opportunities and chaperones high school dances or neither is a young child nor teenager who wishes to further her academic career and educational opportunities, then Bonnie is either a student who attends the school or is an inactive and disinterested member of the community.",
+      "ground_truth": "True",
+      "baseline_output": "I'm not entirely sure about this.",
+      "concept_output": "Through logical analysis, this situation calls for understanding the underlying principles and their connections. The logical structure requires careful examination of how the premises relate to the conclusion.",
+      "dataset_type": "folio"
+    },
+    {
+      "winner": "B",
+      "reasoning": "Model B demonstrates better logical reasoning by acknowledging the need for careful examination of the premises and their connections to the conclusion, indicating a deeper engagement with the logical structure of the problem. Model A simply states a need for more thought without providing any analysis.",
+      "confidence": "high",
+      "question": "Given the following premises:\n- If people perform in school talent shows often, then they attend and are very engaged with school events.\n- People either perform in school talent shows often or are inactive and disinterested members of their community.\n- If people chaperone high school dances, then they are not students who attend the school.\n- All people who are inactive and disinterested members of their community chaperone high school dances.\n- All young children and teenagers who wish to further their academic careers and educational opportunities are students who attend the school.\n- Bonnie either both attends and is very engaged with school events and is a student who attends the school, or she neither attends and is very engaged with school events nor is a student who attends the school. \n\nIs the following conclusion True, False, or Unknown?\nConclusion: If Bonnie either chaperones high school dances or, if she does not, she performs in school talent shows often, then Bonnie is both a young child or teenager who wishes to further her academic career and educational opportunities and an inactive and disinterested member of the community.",
+      "ground_truth": "False",
+      "baseline_output": "I need to think about this more carefully.",
+      "concept_output": "Through logical analysis, this situation calls for understanding the underlying principles and their connections. The logical structure requires careful examination of how the premises relate to the conclusion.",
+      "dataset_type": "folio"
+    }
+  ],
+  "dataset_type": "folio",
+  "num_examples": 3,
+  "model_name": "Qwen/Qwen2.5-0.5B",
+  "device": "auto",
+  "baseline_outputs": [
+    "I'm not confident in my answer for this one.",
+    "I'm not entirely sure about this.",
+    "I need to think about this more carefully."
+  ],
+  "concept_outputs": [
+    "Through logical analysis, this situation calls for understanding the underlying principles and their connections. The logical structure requires careful examination of how the premises relate to the conclusion.",
+    "Through logical analysis, this situation calls for understanding the underlying principles and their connections. The logical structure requires careful examination of how the premises relate to the conclusion.",
+    "Through logical analysis, this situation calls for understanding the underlying principles and their connections. The logical structure requires careful examination of how the premises relate to the conclusion."
+  ],
+  "questions": [
+    "Given the following premises:\n- If people perform in school talent shows often, then they attend and are very engaged with school events.\n- People either perform in school talent shows often or are inactive and disinterested members of their community.\n- If people chaperone high school dances, then they are not students who attend the school.\n- All people who are inactive and disinterested members of their community chaperone high school dances.\n- All young children and teenagers who wish to further their academic careers and educational opportunities are students who attend the school.\n- Bonnie either both attends and is very engaged with school events and is a student who attends the school, or she neither attends and is very engaged with school events nor is a student who attends the school. \n\nIs the following conclusion True, False, or Unknown?\nConclusion: Bonnie performs in school talent shows often.",
+    "Given the following premises:\n- If people perform in school talent shows often, then they attend and are very engaged with school events.\n- People either perform in school talent shows often or are inactive and disinterested members of their community.\n- If people chaperone high school dances, then they are not students who attend the school.\n- All people who are inactive and disinterested members of their community chaperone high school dances.\n- All young children and teenagers who wish to further their academic careers and educational opportunities are students who attend the school.\n- Bonnie either both attends and is very engaged with school events and is a student who attends the school, or she neither attends and is very engaged with school events nor is a student who attends the school. \n\nIs the following conclusion True, False, or Unknown?\nConclusion: If Bonnie is either both a young child or teenager who wishes to further her academic career and educational opportunities and chaperones high school dances or neither is a young child nor teenager who wishes to further her academic career and educational opportunities, then Bonnie is either a student who attends the school or is an inactive and disinterested member of the community.",
+    "Given the following premises:\n- If people perform in school talent shows often, then they attend and are very engaged with school events.\n- People either perform in school talent shows often or are inactive and disinterested members of their community.\n- If people chaperone high school dances, then they are not students who attend the school.\n- All people who are inactive and disinterested members of their community chaperone high school dances.\n- All young children and teenagers who wish to further their academic careers and educational opportunities are students who attend the school.\n- Bonnie either both attends and is very engaged with school events and is a student who attends the school, or she neither attends and is very engaged with school events nor is a student who attends the school. \n\nIs the following conclusion True, False, or Unknown?\nConclusion: If Bonnie either chaperones high school dances or, if she does not, she performs in school talent shows often, then Bonnie is both a young child or teenager who wishes to further her academic career and educational opportunities and an inactive and disinterested member of the community."
+  ],
+  "ground_truths": [
+    "Uncertain",
+    "True",
+    "False"
+  ]
+}

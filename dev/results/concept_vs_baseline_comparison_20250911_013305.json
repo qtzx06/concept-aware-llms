@@ -1,0 +1,115 @@
+{
+  "total_comparisons": 3,
+  "successful_comparisons": 3,
+  "failed_comparisons": 0,
+  "baseline_wins": 3,
+  "concept_wins": 0,
+  "ties": 0,
+  "baseline_win_rate": 1.0,
+  "concept_win_rate": 0.0,
+  "tie_rate": 0.0,
+  "individual_comparisons": [
+    {
+      "winner": "A",
+      "reasoning": "Model A provides a more detailed approach to analyzing the premises, indicating a step-by-step reasoning process, while Model B lacks specific content and clarity in its response.",
+      "confidence": "high",
+      "question": "Given the following premises:\n- If people perform in school talent shows often, then they attend and are very engaged with school events.\n- People either perform in school talent shows often or are inactive and disinterested members of their community.\n- If people chaperone high school dances, then they are not students who attend the school.\n- All people who are inactive and disinterested members of their community chaperone high school dances.\n- All young children and teenagers who wish to further their academic careers and educational opportunities are students who attend the school.\n- Bonnie either both attends and is very engaged with school events and is a student who attends the school, or she neither attends and is very engaged with school events nor is a student who attends the school. \n\nIs the following conclusion True, False, or Unknown?\nConclusion: Bonnie performs in school talent shows often.",
+      "ground_truth": "Uncertain",
+      "baseline_output": "To determine whether the conclusion \"Bonnie performs\" in the given premises can be concluded from the premises provided, we need to analyze each premise step by",
+      "concept_output": {
+        "prediction": "To determine if the conclusion \"Bonnie performs\" is true, false, unknown, we need to analyze the given premises step by step.\n\n1.",
+        "concepts": [],
+        "generation_log": [
+          {
+            "decision": "robust_generation"
+          }
+        ]
+      },
+      "dataset_type": "folio"
+    },
+    {
+      "winner": "A",
+      "reasoning": "Model A correctly identifies the conclusion as Unknown, which aligns with the logical analysis required based on the premises. Model B lacks a definitive answer and does not adequately address the conclusion's truth value.",
+      "confidence": "high",
+      "question": "Given the following premises:\n- If people perform in school talent shows often, then they attend and are very engaged with school events.\n- People either perform in school talent shows often or are inactive and disinterested members of their community.\n- If people chaperone high school dances, then they are not students who attend the school.\n- All people who are inactive and disinterested members of their community chaperone high school dances.\n- All young children and teenagers who wish to further their academic careers and educational opportunities are students who attend the school.\n- Bonnie either both attends and is very engaged with school events and is a student who attends the school, or she neither attends and is very engaged with school events nor is a student who attends the school. \n\nIs the following conclusion True, False, or Unknown?\nConclusion: If Bonnie is either both a young child or teenager who wishes to further her academic career and educational opportunities and chaperones high school dances or neither is a young child nor teenager who wishes to further her academic career and educational opportunities, then Bonnie is either a student who attends the school or is an inactive and disinterested member of the community.",
+      "ground_truth": "True",
+      "baseline_output": "The answer is Unknown.\n\nTo determine if the conclusion is true, false, unknown, we need to analyze each premise and the given information step by step",
+      "concept_output": {
+        "prediction": "The conclusion that if Bonnie's actions (choosing to be a member or non-member) match those of a specific group can be inferred from these premises",
+        "concepts": [],
+        "generation_log": [
+          {
+            "decision": "robust_generation"
+          }
+        ]
+      },
+      "dataset_type": "folio"
+    },
+    {
+      "winner": "A",
+      "reasoning": "Model A correctly identifies the conclusion as 'Unknown', which aligns with the ground truth of 'False' since the conclusion cannot be definitively determined based on the premises. Model B does not provide a clear answer and lacks a definitive conclusion.",
+      "confidence": "high",
+      "question": "Given the following premises:\n- If people perform in school talent shows often, then they attend and are very engaged with school events.\n- People either perform in school talent shows often or are inactive and disinterested members of their community.\n- If people chaperone high school dances, then they are not students who attend the school.\n- All people who are inactive and disinterested members of their community chaperone high school dances.\n- All young children and teenagers who wish to further their academic careers and educational opportunities are students who attend the school.\n- Bonnie either both attends and is very engaged with school events and is a student who attends the school, or she neither attends and is very engaged with school events nor is a student who attends the school. \n\nIs the following conclusion True, False, or Unknown?\nConclusion: If Bonnie either chaperones high school dances or, if she does not, she performs in school talent shows often, then Bonnie is both a young child or teenager who wishes to further her academic career and educational opportunities and an inactive and disinterested member of the community.",
+      "ground_truth": "False",
+      "baseline_output": "The answer is Unknown.\n\nThis conclusion is unknown because it depends on the specific information provided about Bonnie's attendance at high schools, whether she participates in the",
+      "concept_output": {
+        "prediction": "To determine whether the given conclusion is true, false, unknown, we will analyze the premises step by step.\n\n1. **Premise 1:**",
+        "concepts": [],
+        "generation_log": [
+          {
+            "decision": "robust_generation"
+          }
+        ]
+      },
+      "dataset_type": "folio"
+    }
+  ],
+  "dataset_type": "folio",
+  "num_examples": 3,
+  "model_name": "Qwen/Qwen2.5-0.5B",
+  "device": "auto",
+  "baseline_outputs": [
+    "To determine whether the conclusion \"Bonnie performs\" in the given premises can be concluded from the premises provided, we need to analyze each premise step by",
+    "The answer is Unknown.\n\nTo determine if the conclusion is true, false, unknown, we need to analyze each premise and the given information step by step",
+    "The answer is Unknown.\n\nThis conclusion is unknown because it depends on the specific information provided about Bonnie's attendance at high schools, whether she participates in the"
+  ],
+  "concept_outputs": [
+    {
+      "prediction": "To determine if the conclusion \"Bonnie performs\" is true, false, unknown, we need to analyze the given premises step by step.\n\n1.",
+      "concepts": [],
+      "generation_log": [
+        {
+          "decision": "robust_generation"
+        }
+      ]
+    },
+    {
+      "prediction": "The conclusion that if Bonnie's actions (choosing to be a member or non-member) match those of a specific group can be inferred from these premises",
+      "concepts": [],
+      "generation_log": [
+        {
+          "decision": "robust_generation"
+        }
+      ]
+    },
+    {
+      "prediction": "To determine whether the given conclusion is true, false, unknown, we will analyze the premises step by step.\n\n1. **Premise 1:**",
+      "concepts": [],
+      "generation_log": [
+        {
+          "decision": "robust_generation"
+        }
+      ]
+    }
+  ],
+  "questions": [
+    "Given the following premises:\n- If people perform in school talent shows often, then they attend and are very engaged with school events.\n- People either perform in school talent shows often or are inactive and disinterested members of their community.\n- If people chaperone high school dances, then they are not students who attend the school.\n- All people who are inactive and disinterested members of their community chaperone high school dances.\n- All young children and teenagers who wish to further their academic careers and educational opportunities are students who attend the school.\n- Bonnie either both attends and is very engaged with school events and is a student who attends the school, or she neither attends and is very engaged with school events nor is a student who attends the school. \n\nIs the following conclusion True, False, or Unknown?\nConclusion: Bonnie performs in school talent shows often.",
+    "Given the following premises:\n- If people perform in school talent shows often, then they attend and are very engaged with school events.\n- People either perform in school talent shows often or are inactive and disinterested members of their community.\n- If people chaperone high school dances, then they are not students who attend the school.\n- All people who are inactive and disinterested members of their community chaperone high school dances.\n- All young children and teenagers who wish to further their academic careers and educational opportunities are students who attend the school.\n- Bonnie either both attends and is very engaged with school events and is a student who attends the school, or she neither attends and is very engaged with school events nor is a student who attends the school. \n\nIs the following conclusion True, False, or Unknown?\nConclusion: If Bonnie is either both a young child or teenager who wishes to further her academic career and educational opportunities and chaperones high school dances or neither is a young child nor teenager who wishes to further her academic career and educational opportunities, then Bonnie is either a student who attends the school or is an inactive and disinterested member of the community.",
+    "Given the following premises:\n- If people perform in school talent shows often, then they attend and are very engaged with school events.\n- People either perform in school talent shows often or are inactive and disinterested members of their community.\n- If people chaperone high school dances, then they are not students who attend the school.\n- All people who are inactive and disinterested members of their community chaperone high school dances.\n- All young children and teenagers who wish to further their academic careers and educational opportunities are students who attend the school.\n- Bonnie either both attends and is very engaged with school events and is a student who attends the school, or she neither attends and is very engaged with school events nor is a student who attends the school. \n\nIs the following conclusion True, False, or Unknown?\nConclusion: If Bonnie either chaperones high school dances or, if she does not, she performs in school talent shows often, then Bonnie is both a young child or teenager who wishes to further her academic career and educational opportunities and an inactive and disinterested member of the community."
+  ],
+  "ground_truths": [
+    "Uncertain",
+    "True",
+    "False"
+  ]
+}

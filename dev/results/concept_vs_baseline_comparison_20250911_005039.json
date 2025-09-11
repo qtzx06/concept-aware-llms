@@ -1,0 +1,53 @@
+{
+  "total_comparisons": 2,
+  "successful_comparisons": 2,
+  "failed_comparisons": 0,
+  "baseline_wins": 1,
+  "concept_wins": 0,
+  "ties": 1,
+  "baseline_win_rate": 0.5,
+  "concept_win_rate": 0.0,
+  "tie_rate": 0.5,
+  "individual_comparisons": [
+    {
+      "winner": "TIE",
+      "reasoning": "Both responses provide the same accurate answer and examples, demonstrating equal correctness, logical reasoning, clarity, and completeness.",
+      "confidence": "high",
+      "question": "Is the following statement true or false: All birds can fly.",
+      "ground_truth": "False",
+      "baseline_output": "False. Penguins and ostriches are examples of birds that cannot fly.",
+      "concept_output": "False. Penguins and ostriches are examples of birds that cannot fly.",
+      "dataset_type": "folio"
+    },
+    {
+      "winner": "A",
+      "reasoning": "Model A directly states that the ground is wet because it is raining, which aligns perfectly with the logical implication given in the question. Model B, while correct, is slightly less direct and does not explicitly connect the premise to the conclusion as clearly as Model A.",
+      "confidence": "high",
+      "question": "If it's raining, then the ground is wet. It's raining. Is the ground wet?",
+      "ground_truth": "True",
+      "baseline_output": "Yes, the ground is wet because it's raining.",
+      "concept_output": "Yes. If it's raining, then the ground gets wet.",
+      "dataset_type": "folio"
+    }
+  ],
+  "dataset_type": "folio",
+  "num_examples": 100,
+  "model_name": "Qwen/Qwen2.5-0.5B",
+  "device": "auto",
+  "baseline_outputs": [
+    "False. Penguins and ostriches are examples of birds that cannot fly.",
+    "Yes, the ground is wet because it's raining."
+  ],
+  "concept_outputs": [
+    "False. Penguins and ostriches are examples of birds that cannot fly.",
+    "Yes. If it's raining, then the ground gets wet."
+  ],
+  "questions": [
+    "Is the following statement true or false: All birds can fly.",
+    "If it's raining, then the ground is wet. It's raining. Is the ground wet?"
+  ],
+  "ground_truths": [
+    "False",
+    "True"
+  ]
+}

@@ -1,0 +1,168 @@
+{
+  "gemini_judge_score": 9.785714285714286,
+  "total_evaluations": 16,
+  "successful_evaluations": 14,
+  "failed_evaluations": 2,
+  "score_distribution": {
+    "excellent (9-10)": 13,
+    "good (7-8)": 1,
+    "acceptable (5-6)": 0,
+    "poor (3-4)": 0,
+    "very_poor (0-2)": 0
+  },
+  "individual_evaluations": [
+    {
+      "score": 10.0,
+      "reasoning": "The model correctly identifies the statement as false and provides valid counter-examples (penguins and ostriches) to support its reasoning.  The explanation is clear, concise, and demonstrates sound logical reasoning.",
+      "correctness": "correct",
+      "question": "Is the following statement true or false: All birds can fly.",
+      "ground_truth": "False",
+      "prediction": "False, not all birds can fly. For example, penguins and ostriches cannot fly.",
+      "dataset_type": "folio"
+    },
+    {
+      "score": 8.0,
+      "reasoning": "The model correctly deduces that the ground is wet based on the given conditional statement and the fact that it is raining.  The explanation is also clear and concise.  A minor deduction for not explicitly stating the logical rule of Modus Ponens being used.",
+      "correctness": "correct",
+      "question": "If it's raining, then the ground is wet. It's raining. Is the ground wet?",
+      "ground_truth": "True",
+      "prediction": "Yes, the ground is wet because it's raining.",
+      "dataset_type": "folio"
+    },
+    {
+      "score": 10.0,
+      "reasoning": "The model correctly identifies the conclusion as true and provides a clear and accurate explanation using deductive reasoning based on the premises.",
+      "correctness": "correct",
+      "question": "All cats are animals. Fluffy is a cat. Is Fluffy an animal?",
+      "ground_truth": "True",
+      "prediction": "Yes, Fluffy is an animal because all cats are animals and Fluffy is a cat.",
+      "dataset_type": "folio"
+    },
+    {
+      "score": 9.0,
+      "reasoning": "The model correctly identifies that 8 is divisible by 2.  The reasoning is sound, applying the given conditional statement correctly. The explanation could be slightly more concise, but it's clear and accurate.",
+      "correctness": "correct",
+      "question": "If a number is even, then it's divisible by 2. 8 is even. Is 8 divisible by 2?",
+      "ground_truth": "True",
+      "prediction": "Yes, 8 is divisible by 2 because it's an even number.",
+      "dataset_type": "folio"
+    },
+    {
+      "score": 10.0,
+      "reasoning": "The model correctly identifies that x > 3 because it correctly applies the given conditional statement and the value of x.  The reasoning is clear, concise, and logically sound.",
+      "correctness": "correct",
+      "question": "If x > 5, then x > 3. x = 7. Is x > 3?",
+      "ground_truth": "True",
+      "prediction": "Yes, since x = 7 and 7 > 5, and if x > 5 then x > 3, therefore x > 3.",
+      "dataset_type": "folio"
+    },
+    {
+      "score": 10.0,
+      "reasoning": "The model correctly applies deductive reasoning.  The premise states a sufficient condition for a triangle to be equilateral. The second statement asserts that the condition is met. Therefore, the conclusion that the triangle is equilateral is logically sound.",
+      "correctness": "correct",
+      "question": "If a triangle has three equal sides, then it's equilateral. This triangle has three equal sides. Is it equilateral?",
+      "ground_truth": "True",
+      "prediction": "Yes, this triangle is equilateral because it has three equal sides.",
+      "dataset_type": "folio"
+    },
+    {
+      "score": 10.0,
+      "reasoning": "The model correctly applies deductive reasoning.  The premise 'All roses are flowers' and the statement 'This is a rose' logically necessitate the conclusion 'This is a flower'. The explanation is clear and concise.",
+      "correctness": "correct",
+      "question": "All roses are flowers. This is a rose. Is this a flower?",
+      "ground_truth": "True",
+      "prediction": "Yes, this is a flower because all roses are flowers.",
+      "dataset_type": "folio"
+    },
+    {
+      "score": 10.0,
+      "reasoning": "The model correctly deduces that John studies based on the given premise.  The explanation clearly and logically applies the universal statement to the specific case of John.",
+      "correctness": "correct",
+      "question": "All students study. John is a student. Does John study?",
+      "ground_truth": "True",
+      "prediction": "Yes, John studies because all students study and John is a student.",
+      "dataset_type": "folio"
+    },
+    {
+      "score": 10.0,
+      "reasoning": "The model correctly deduces that Rover is a mammal using a valid syllogistic argument.  The explanation clearly shows understanding of the premises and the conclusion.",
+      "correctness": "correct",
+      "question": "All dogs are mammals. Rover is a dog. Is Rover a mammal?",
+      "ground_truth": "True",
+      "prediction": "Yes, Rover is a mammal because all dogs are mammals and Rover is a dog.",
+      "dataset_type": "folio"
+    },
+    {
+      "score": 10.0,
+      "reasoning": "The model correctly applies modus tollens.  The premise establishes a conditional statement. The negation of the consequent allows for the negation of the antecedent. The explanation clearly and correctly articulates this logical process.",
+      "correctness": "correct",
+      "question": "If it's snowing, then it's cold. It's not cold. Is it snowing?",
+      "ground_truth": "False",
+      "prediction": "No, it's not snowing because if it were snowing, it would be cold, but it's not cold.",
+      "dataset_type": "folio"
+    },
+    {
+      "score": 10.0,
+      "reasoning": "The model correctly identifies the answer as 'no' and provides a clear and logically sound explanation based on the premise and the contrapositive of the conditional statement.",
+      "correctness": "correct",
+      "question": "If the sun is shining, then it's daytime. It's nighttime. Is the sun shining?",
+      "ground_truth": "False",
+      "prediction": "No, the sun is not shining because if it were shining, it would be daytime, but it's nighttime.",
+      "dataset_type": "folio"
+    },
+    {
+      "score": 10.0,
+      "reasoning": "The model correctly identifies the statement as false and provides a clear and logically sound explanation based on the definition of a quadrilateral.  It directly addresses the premise and the contradictory evidence.",
+      "correctness": "correct",
+      "question": "If a shape has four sides, then it's a quadrilateral. This shape has three sides. Is it a quadrilateral?",
+      "ground_truth": "False",
+      "prediction": "No, this shape is not a quadrilateral because quadrilaterals have four sides, but this shape has three sides.",
+      "dataset_type": "folio"
+    },
+    {
+      "score": 10.0,
+      "reasoning": "The model correctly identifies that C is true and provides a clear and logically sound explanation using the rules of inference (modus ponens).  The explanation is complete and well-structured.",
+      "correctness": "correct",
+      "question": "If A implies B, and B implies C, and A is true, then C is true. A implies B. B implies C. A is true. Is C true?",
+      "ground_truth": "True",
+      "prediction": "Yes, C is true. Since A is true and A implies B, then B is true. Since B is true and B implies C, then C is true.",
+      "dataset_type": "folio"
+    },
+    {
+      "score": 0.0,
+      "reasoning": "Evaluation failed: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {\n  quota_metric: \"generativelanguage.googleapis.com/generate_content_free_tier_requests\"\n  quota_id: \"GenerateRequestsPerMinutePerProjectPerModel-FreeTier\"\n  quota_dimensions {\n    key: \"model\"\n    value: \"gemini-1.5-flash\"\n  }\n  quota_dimensions {\n    key: \"location\"\n    value: \"global\"\n  }\n  quota_value: 15\n}\n, links {\n  description: \"Learn more about Gemini API quotas\"\n  url: \"https://ai.google.dev/gemini-api/docs/rate-limits\"\n}\n, retry_delay {\n  seconds: 33\n}\n]",
+      "error": "429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {\n  quota_metric: \"generativelanguage.googleapis.com/generate_content_free_tier_requests\"\n  quota_id: \"GenerateRequestsPerMinutePerProjectPerModel-FreeTier\"\n  quota_dimensions {\n    key: \"model\"\n    value: \"gemini-1.5-flash\"\n  }\n  quota_dimensions {\n    key: \"location\"\n    value: \"global\"\n  }\n  quota_value: 15\n}\n, links {\n  description: \"Learn more about Gemini API quotas\"\n  url: \"https://ai.google.dev/gemini-api/docs/rate-limits\"\n}\n, retry_delay {\n  seconds: 33\n}\n]",
+      "question": "If it's Monday, then I have work. If I have work, then I wake up early. It's Monday. Do I wake up early?",
+      "ground_truth": "True",
+      "prediction": "Yes, I wake up early. Since it's Monday and if it's Monday then I have work, I have work. Since I have work and if I have work then I wake up early, I wake up early.",
+      "dataset_type": "folio"
+    },
+    {
+      "score": 10.0,
+      "reasoning": "The model correctly identifies that P cannot be true given the premise.  Its explanation clearly and correctly applies Modus Tollens to reach the conclusion. ",
+      "correctness": "correct",
+      "question": "If P is true, then Q is true. Q is false. Is P true?",
+      "ground_truth": "False",
+      "prediction": "No, P is not true. If P were true, then Q would be true, but Q is false, so P must be false.",
+      "dataset_type": "folio"
+    },
+    {
+      "score": 0.0,
+      "reasoning": "Evaluation failed: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {\n  quota_metric: \"generativelanguage.googleapis.com/generate_content_free_tier_requests\"\n  quota_id: \"GenerateRequestsPerMinutePerProjectPerModel-FreeTier\"\n  quota_dimensions {\n    key: \"model\"\n    value: \"gemini-1.5-flash\"\n  }\n  quota_dimensions {\n    key: \"location\"\n    value: \"global\"\n  }\n  quota_value: 15\n}\n, links {\n  description: \"Learn more about Gemini API quotas\"\n  url: \"https://ai.google.dev/gemini-api/docs/rate-limits\"\n}\n, retry_delay {\n  seconds: 32\n}\n]",
+      "error": "429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {\n  quota_metric: \"generativelanguage.googleapis.com/generate_content_free_tier_requests\"\n  quota_id: \"GenerateRequestsPerMinutePerProjectPerModel-FreeTier\"\n  quota_dimensions {\n    key: \"model\"\n    value: \"gemini-1.5-flash\"\n  }\n  quota_dimensions {\n    key: \"location\"\n    value: \"global\"\n  }\n  quota_value: 15\n}\n, links {\n  description: \"Learn more about Gemini API quotas\"\n  url: \"https://ai.google.dev/gemini-api/docs/rate-limits\"\n}\n, retry_delay {\n  seconds: 32\n}\n]",
+      "question": "All A are B. Some C are not B. Are some C not A?",
+      "ground_truth": "True",
+      "prediction": "Yes, some C are not A. If all A are B, then anything that is not B cannot be A. Since some C are not B, those C cannot be A.",
+      "dataset_type": "folio"
+    }
+  ],
+  "metadata": {
+    "dataset": "folio",
+    "num_examples": 100,
+    "runpod_api_key": "rpa_9K4MS3X2NRP92G5I...",
+    "total_time_seconds": 15.765750169754028,
+    "average_time_per_evaluation": 0.9853593856096268,
+    "timestamp": "20250904_192027",
+    "environment": "local"
+  }
+}

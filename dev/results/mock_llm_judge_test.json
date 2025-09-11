@@ -1,0 +1,39 @@
+{
+  "test_type": "mock_llm_judge",
+  "total_comparisons": 3,
+  "baseline_wins": 0,
+  "concept_wins": 3,
+  "ties": 0,
+  "results": [
+    {
+      "winner": "B",
+      "reasoning": "Model B provides a correct answer and enhances the response by giving specific examples of birds that cannot fly, which demonstrates better logical reasoning and completeness.",
+      "confidence": "high",
+      "question": "Is the following statement true or false: All birds can fly.",
+      "ground_truth": "False",
+      "baseline_output": "False, not all birds can fly.",
+      "concept_output": "False, not all birds can fly. For example, penguins and ostriches cannot fly.",
+      "dataset_type": "folio"
+    },
+    {
+      "winner": "B",
+      "reasoning": "Model B provides the correct answer and additional context about the location of Paris, enhancing its helpfulness without sacrificing factual accuracy.",
+      "confidence": "high",
+      "question": "What is the capital of France?",
+      "ground_truth": "Paris",
+      "baseline_output": "The capital of France is Paris.",
+      "concept_output": "The capital of France is Paris, which is located in the north-central part of the country.",
+      "dataset_type": "truthfulqa"
+    },
+    {
+      "winner": "B",
+      "reasoning": "Model B provides the correct answer and adds context by explaining that it is basic arithmetic addition, enhancing understanding.",
+      "confidence": "high",
+      "question": "What is 2 + 2?",
+      "ground_truth": "4",
+      "baseline_output": "2 + 2 = 4",
+      "concept_output": "2 + 2 equals 4. This is basic arithmetic addition.",
+      "dataset_type": "general"
+    }
+  ]
+}

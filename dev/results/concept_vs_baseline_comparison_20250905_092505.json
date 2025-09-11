@@ -1,0 +1,149 @@
+{
+  "metadata": {
+    "dataset": "folio",
+    "num_questions": 5,
+    "model_name": "Qwen/Qwen2.5-0.5B",
+    "baseline_model": {
+      "model_name": "Qwen/Qwen2.5-0.5B",
+      "model_available": true,
+      "device": "auto",
+      "model_type": "Realistic Qwen 0.5B Simulation"
+    },
+    "concept_decoder_available": true,
+    "timestamp": "20250905_092505"
+  },
+  "baseline": {
+    "predictions": [
+      "False, not all birds can fly.",
+      "Yes, the ground is wet because it's raining.",
+      "Yes. All cats are animals.",
+      "Yes. Even numbers are divisible by 2.",
+      "Yes, this is a flower because roses are flowers."
+    ],
+    "gemini_judge_score": 8.666666666666666,
+    "score_distribution": {
+      "excellent (9-10)": 1,
+      "good (7-8)": 2,
+      "acceptable (5-6)": 0,
+      "poor (3-4)": 0,
+      "very_poor (0-2)": 0
+    },
+    "individual_evaluations": [
+      {
+        "score": 10.0,
+        "reasoning": "The model correctly identifies the statement as false and provides a concise and accurate explanation.  It demonstrates understanding of the logical flaw in the original statement.",
+        "correctness": "correct",
+        "question": "Is the following statement true or false: All birds can fly.",
+        "ground_truth": "False",
+        "prediction": "False, not all birds can fly.",
+        "dataset_type": "folio"
+      },
+      {
+        "score": 8.0,
+        "reasoning": "The model correctly deduces that the ground is wet based on the given conditional statement and the fact that it is raining.  The explanation is also clear and concise.  A minor deduction for not explicitly stating the logical inference (Modus Ponens) but the reasoning is clearly present.",
+        "correctness": "correct",
+        "question": "If it's raining, then the ground is wet. It's raining. Is the ground wet?",
+        "ground_truth": "True",
+        "prediction": "Yes, the ground is wet because it's raining.",
+        "dataset_type": "folio"
+      },
+      {
+        "score": 8.0,
+        "reasoning": "The model correctly deduces that Fluffy is an animal based on the premises.  The answer 'Yes' is correct, and the justification is included, although it could be more concisely stated as a direct conclusion rather than a reiteration of the premise.",
+        "correctness": "correct",
+        "question": "All cats are animals. Fluffy is a cat. Is Fluffy an animal?",
+        "ground_truth": "True",
+        "prediction": "Yes. All cats are animals.",
+        "dataset_type": "folio"
+      },
+      {
+        "score": 0.0,
+        "reasoning": "Evaluation failed: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {\n  quota_metric: \"generativelanguage.googleapis.com/generate_content_free_tier_requests\"\n  quota_id: \"GenerateRequestsPerDayPerProjectPerModel-FreeTier\"\n  quota_dimensions {\n    key: \"model\"\n    value: \"gemini-1.5-flash\"\n  }\n  quota_dimensions {\n    key: \"location\"\n    value: \"global\"\n  }\n  quota_value: 50\n}\n, links {\n  description: \"Learn more about Gemini API quotas\"\n  url: \"https://ai.google.dev/gemini-api/docs/rate-limits\"\n}\n, retry_delay {\n  seconds: 58\n}\n]",
+        "error": "429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {\n  quota_metric: \"generativelanguage.googleapis.com/generate_content_free_tier_requests\"\n  quota_id: \"GenerateRequestsPerDayPerProjectPerModel-FreeTier\"\n  quota_dimensions {\n    key: \"model\"\n    value: \"gemini-1.5-flash\"\n  }\n  quota_dimensions {\n    key: \"location\"\n    value: \"global\"\n  }\n  quota_value: 50\n}\n, links {\n  description: \"Learn more about Gemini API quotas\"\n  url: \"https://ai.google.dev/gemini-api/docs/rate-limits\"\n}\n, retry_delay {\n  seconds: 58\n}\n]",
+        "question": "If a number is even, then it's divisible by 2. 8 is even. Is 8 divisible by 2?",
+        "ground_truth": "True",
+        "prediction": "Yes. Even numbers are divisible by 2.",
+        "dataset_type": "folio"
+      },
+      {
+        "score": 0.0,
+        "reasoning": "Evaluation failed: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {\n  quota_metric: \"generativelanguage.googleapis.com/generate_content_free_tier_requests\"\n  quota_id: \"GenerateRequestsPerDayPerProjectPerModel-FreeTier\"\n  quota_dimensions {\n    key: \"model\"\n    value: \"gemini-1.5-flash\"\n  }\n  quota_dimensions {\n    key: \"location\"\n    value: \"global\"\n  }\n  quota_value: 50\n}\n, links {\n  description: \"Learn more about Gemini API quotas\"\n  url: \"https://ai.google.dev/gemini-api/docs/rate-limits\"\n}\n, retry_delay {\n  seconds: 57\n}\n]",
+        "error": "429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {\n  quota_metric: \"generativelanguage.googleapis.com/generate_content_free_tier_requests\"\n  quota_id: \"GenerateRequestsPerDayPerProjectPerModel-FreeTier\"\n  quota_dimensions {\n    key: \"model\"\n    value: \"gemini-1.5-flash\"\n  }\n  quota_dimensions {\n    key: \"location\"\n    value: \"global\"\n  }\n  quota_value: 50\n}\n, links {\n  description: \"Learn more about Gemini API quotas\"\n  url: \"https://ai.google.dev/gemini-api/docs/rate-limits\"\n}\n, retry_delay {\n  seconds: 57\n}\n]",
+        "question": "All roses are flowers. This is a rose. Is this a flower?",
+        "ground_truth": "True",
+        "prediction": "Yes, this is a flower because roses are flowers.",
+        "dataset_type": "folio"
+      }
+    ]
+  },
+  "concept_aware": {
+    "predictions": [
+      "False, not all birds can fly. For example, penguins and ostriches cannot fly.",
+      "Yes, the ground is wet because it's raining. This follows from the given conditional statement.",
+      "Yes, Fluffy is an animal because all cats are animals, and Fluffy is a cat.",
+      "Yes, 8 is divisible by 2 because it's an even number, and all even numbers are divisible by 2.",
+      "Yes, this is a flower because all roses are flowers, and this is a rose."
+    ],
+    "gemini_judge_score": 0.0,
+    "score_distribution": {
+      "excellent (9-10)": 0,
+      "good (7-8)": 0,
+      "acceptable (5-6)": 0,
+      "poor (3-4)": 0,
+      "very_poor (0-2)": 0
+    },
+    "individual_evaluations": [
+      {
+        "score": 0.0,
+        "reasoning": "Evaluation failed: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {\n  quota_metric: \"generativelanguage.googleapis.com/generate_content_free_tier_requests\"\n  quota_id: \"GenerateRequestsPerDayPerProjectPerModel-FreeTier\"\n  quota_dimensions {\n    key: \"model\"\n    value: \"gemini-1.5-flash\"\n  }\n  quota_dimensions {\n    key: \"location\"\n    value: \"global\"\n  }\n  quota_value: 50\n}\n, links {\n  description: \"Learn more about Gemini API quotas\"\n  url: \"https://ai.google.dev/gemini-api/docs/rate-limits\"\n}\n, retry_delay {\n  seconds: 57\n}\n]",
+        "error": "429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {\n  quota_metric: \"generativelanguage.googleapis.com/generate_content_free_tier_requests\"\n  quota_id: \"GenerateRequestsPerDayPerProjectPerModel-FreeTier\"\n  quota_dimensions {\n    key: \"model\"\n    value: \"gemini-1.5-flash\"\n  }\n  quota_dimensions {\n    key: \"location\"\n    value: \"global\"\n  }\n  quota_value: 50\n}\n, links {\n  description: \"Learn more about Gemini API quotas\"\n  url: \"https://ai.google.dev/gemini-api/docs/rate-limits\"\n}\n, retry_delay {\n  seconds: 57\n}\n]",
+        "question": "Is the following statement true or false: All birds can fly.",
+        "ground_truth": "False",
+        "prediction": "False, not all birds can fly. For example, penguins and ostriches cannot fly.",
+        "dataset_type": "folio"
+      },
+      {
+        "score": 0.0,
+        "reasoning": "Evaluation failed: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {\n  quota_metric: \"generativelanguage.googleapis.com/generate_content_free_tier_requests\"\n  quota_id: \"GenerateRequestsPerDayPerProjectPerModel-FreeTier\"\n  quota_dimensions {\n    key: \"model\"\n    value: \"gemini-1.5-flash\"\n  }\n  quota_dimensions {\n    key: \"location\"\n    value: \"global\"\n  }\n  quota_value: 50\n}\n, links {\n  description: \"Learn more about Gemini API quotas\"\n  url: \"https://ai.google.dev/gemini-api/docs/rate-limits\"\n}\n, retry_delay {\n  seconds: 56\n}\n]",
+        "error": "429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {\n  quota_metric: \"generativelanguage.googleapis.com/generate_content_free_tier_requests\"\n  quota_id: \"GenerateRequestsPerDayPerProjectPerModel-FreeTier\"\n  quota_dimensions {\n    key: \"model\"\n    value: \"gemini-1.5-flash\"\n  }\n  quota_dimensions {\n    key: \"location\"\n    value: \"global\"\n  }\n  quota_value: 50\n}\n, links {\n  description: \"Learn more about Gemini API quotas\"\n  url: \"https://ai.google.dev/gemini-api/docs/rate-limits\"\n}\n, retry_delay {\n  seconds: 56\n}\n]",
+        "question": "If it's raining, then the ground is wet. It's raining. Is the ground wet?",
+        "ground_truth": "True",
+        "prediction": "Yes, the ground is wet because it's raining. This follows from the given conditional statement.",
+        "dataset_type": "folio"
+      },
+      {
+        "score": 0.0,
+        "reasoning": "Evaluation failed: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {\n  quota_metric: \"generativelanguage.googleapis.com/generate_content_free_tier_requests\"\n  quota_id: \"GenerateRequestsPerDayPerProjectPerModel-FreeTier\"\n  quota_dimensions {\n    key: \"model\"\n    value: \"gemini-1.5-flash\"\n  }\n  quota_dimensions {\n    key: \"location\"\n    value: \"global\"\n  }\n  quota_value: 50\n}\n, links {\n  description: \"Learn more about Gemini API quotas\"\n  url: \"https://ai.google.dev/gemini-api/docs/rate-limits\"\n}\n, retry_delay {\n  seconds: 55\n}\n]",
+        "error": "429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {\n  quota_metric: \"generativelanguage.googleapis.com/generate_content_free_tier_requests\"\n  quota_id: \"GenerateRequestsPerDayPerProjectPerModel-FreeTier\"\n  quota_dimensions {\n    key: \"model\"\n    value: \"gemini-1.5-flash\"\n  }\n  quota_dimensions {\n    key: \"location\"\n    value: \"global\"\n  }\n  quota_value: 50\n}\n, links {\n  description: \"Learn more about Gemini API quotas\"\n  url: \"https://ai.google.dev/gemini-api/docs/rate-limits\"\n}\n, retry_delay {\n  seconds: 55\n}\n]",
+        "question": "All cats are animals. Fluffy is a cat. Is Fluffy an animal?",
+        "ground_truth": "True",
+        "prediction": "Yes, Fluffy is an animal because all cats are animals, and Fluffy is a cat.",
+        "dataset_type": "folio"
+      },
+      {
+        "score": 0.0,
+        "reasoning": "Evaluation failed: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {\n  quota_metric: \"generativelanguage.googleapis.com/generate_content_free_tier_requests\"\n  quota_id: \"GenerateRequestsPerDayPerProjectPerModel-FreeTier\"\n  quota_dimensions {\n    key: \"model\"\n    value: \"gemini-1.5-flash\"\n  }\n  quota_dimensions {\n    key: \"location\"\n    value: \"global\"\n  }\n  quota_value: 50\n}\n, links {\n  description: \"Learn more about Gemini API quotas\"\n  url: \"https://ai.google.dev/gemini-api/docs/rate-limits\"\n}\n, retry_delay {\n  seconds: 55\n}\n]",
+        "error": "429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {\n  quota_metric: \"generativelanguage.googleapis.com/generate_content_free_tier_requests\"\n  quota_id: \"GenerateRequestsPerDayPerProjectPerModel-FreeTier\"\n  quota_dimensions {\n    key: \"model\"\n    value: \"gemini-1.5-flash\"\n  }\n  quota_dimensions {\n    key: \"location\"\n    value: \"global\"\n  }\n  quota_value: 50\n}\n, links {\n  description: \"Learn more about Gemini API quotas\"\n  url: \"https://ai.google.dev/gemini-api/docs/rate-limits\"\n}\n, retry_delay {\n  seconds: 55\n}\n]",
+        "question": "If a number is even, then it's divisible by 2. 8 is even. Is 8 divisible by 2?",
+        "ground_truth": "True",
+        "prediction": "Yes, 8 is divisible by 2 because it's an even number, and all even numbers are divisible by 2.",
+        "dataset_type": "folio"
+      },
+      {
+        "score": 0.0,
+        "reasoning": "Evaluation failed: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {\n  quota_metric: \"generativelanguage.googleapis.com/generate_content_free_tier_requests\"\n  quota_id: \"GenerateRequestsPerDayPerProjectPerModel-FreeTier\"\n  quota_dimensions {\n    key: \"model\"\n    value: \"gemini-1.5-flash\"\n  }\n  quota_dimensions {\n    key: \"location\"\n    value: \"global\"\n  }\n  quota_value: 50\n}\n, links {\n  description: \"Learn more about Gemini API quotas\"\n  url: \"https://ai.google.dev/gemini-api/docs/rate-limits\"\n}\n, retry_delay {\n  seconds: 54\n}\n]",
+        "error": "429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {\n  quota_metric: \"generativelanguage.googleapis.com/generate_content_free_tier_requests\"\n  quota_id: \"GenerateRequestsPerDayPerProjectPerModel-FreeTier\"\n  quota_dimensions {\n    key: \"model\"\n    value: \"gemini-1.5-flash\"\n  }\n  quota_dimensions {\n    key: \"location\"\n    value: \"global\"\n  }\n  quota_value: 50\n}\n, links {\n  description: \"Learn more about Gemini API quotas\"\n  url: \"https://ai.google.dev/gemini-api/docs/rate-limits\"\n}\n, retry_delay {\n  seconds: 54\n}\n]",
+        "question": "All roses are flowers. This is a rose. Is this a flower?",
+        "ground_truth": "True",
+        "prediction": "Yes, this is a flower because all roses are flowers, and this is a rose.",
+        "dataset_type": "folio"
+      }
+    ]
+  },
+  "comparison": {
+    "score_improvement": -8.666666666666666,
+    "percentage_improvement": -100.0,
+    "baseline_avg_score": 8.666666666666666,
+    "concept_avg_score": 0.0
+  }
+}

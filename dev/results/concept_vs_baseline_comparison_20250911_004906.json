@@ -1,0 +1,53 @@
+{
+  "total_comparisons": 2,
+  "successful_comparisons": 2,
+  "failed_comparisons": 0,
+  "baseline_wins": 0,
+  "concept_wins": 1,
+  "ties": 1,
+  "baseline_win_rate": 0.0,
+  "concept_win_rate": 0.5,
+  "tie_rate": 0.5,
+  "individual_comparisons": [
+    {
+      "winner": "TIE",
+      "reasoning": "Both responses correctly identify the statement as false and provide examples of flightless birds, demonstrating accurate reasoning and clarity.",
+      "confidence": "high",
+      "question": "Is the following statement true or false: All birds can fly.",
+      "ground_truth": "False",
+      "baseline_output": "False. Some birds like penguins cannot fly.",
+      "concept_output": "False, there are flightless birds.",
+      "dataset_type": "folio"
+    },
+    {
+      "winner": "B",
+      "reasoning": "Model B provides a direct connection between the premise and conclusion, clearly stating that the ground is wet because it is raining, which enhances understanding of the logical relationship.",
+      "confidence": "high",
+      "question": "If it's raining, then the ground is wet. It's raining. Is the ground wet?",
+      "ground_truth": "True",
+      "baseline_output": "Yes. If it's raining, then the ground gets wet.",
+      "concept_output": "Yes, the ground is wet because it's raining.",
+      "dataset_type": "folio"
+    }
+  ],
+  "dataset_type": "folio",
+  "num_examples": 3,
+  "model_name": "Qwen/Qwen2.5-0.5B",
+  "device": "auto",
+  "baseline_outputs": [
+    "False. Some birds like penguins cannot fly.",
+    "Yes. If it's raining, then the ground gets wet."
+  ],
+  "concept_outputs": [
+    "False, there are flightless birds.",
+    "Yes, the ground is wet because it's raining."
+  ],
+  "questions": [
+    "Is the following statement true or false: All birds can fly.",
+    "If it's raining, then the ground is wet. It's raining. Is the ground wet?"
+  ],
+  "ground_truths": [
+    "False",
+    "True"
+  ]
+}

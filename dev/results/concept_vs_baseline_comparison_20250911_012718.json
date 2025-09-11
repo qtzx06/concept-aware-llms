@@ -1,0 +1,325 @@
+{
+  "total_comparisons": 10,
+  "successful_comparisons": 10,
+  "failed_comparisons": 0,
+  "baseline_wins": 4,
+  "concept_wins": 6,
+  "ties": 0,
+  "baseline_win_rate": 0.4,
+  "concept_win_rate": 0.6,
+  "tie_rate": 0.0,
+  "individual_comparisons": [
+    {
+      "winner": "B",
+      "reasoning": "Model B provides a clear indication that the conclusion is 'Unknown' and elaborates on the reasoning process, which demonstrates better logical reasoning and clarity compared to Model A's vague response.",
+      "confidence": "high",
+      "question": "Given the following premises:\n- If people perform in school talent shows often, then they attend and are very engaged with school events.\n- People either perform in school talent shows often or are inactive and disinterested members of their community.\n- If people chaperone high school dances, then they are not students who attend the school.\n- All people who are inactive and disinterested members of their community chaperone high school dances.\n- All young children and teenagers who wish to further their academic careers and educational opportunities are students who attend the school.\n- Bonnie either both attends and is very engaged with school events and is a student who attends the school, or she neither attends and is very engaged with school events nor is a student who attends the school. \n\nIs the following conclusion True, False, or Unknown?\nConclusion: Bonnie performs in school talent shows often.",
+      "ground_truth": "Uncertain",
+      "baseline_output": "This requires more information to answer accurately.",
+      "concept_output": {
+        "prediction": "The conclusion \"Bonnie performs [in] school talents shows frequently\" is **Unknown** based on the given premises.\n\nTo elaborate, let's analyze",
+        "concepts": [],
+        "generation_log": [
+          {
+            "decision": "robust_generation"
+          }
+        ]
+      },
+      "dataset_type": "folio"
+    },
+    {
+      "winner": "B",
+      "reasoning": "Model B provides a structured response indicating the possible answers (True, False, Unknown) and acknowledges the complexity of the question, which is more informative than Model A's vague statement. However, it lacks a definitive conclusion, which slightly affects its completeness.",
+      "confidence": "medium",
+      "question": "Given the following premises:\n- If people perform in school talent shows often, then they attend and are very engaged with school events.\n- People either perform in school talent shows often or are inactive and disinterested members of their community.\n- If people chaperone high school dances, then they are not students who attend the school.\n- All people who are inactive and disinterested members of their community chaperone high school dances.\n- All young children and teenagers who wish to further their academic careers and educational opportunities are students who attend the school.\n- Bonnie either both attends and is very engaged with school events and is a student who attends the school, or she neither attends and is very engaged with school events nor is a student who attends the school. \n\nIs the following conclusion True, False, or Unknown?\nConclusion: If Bonnie is either both a young child or teenager who wishes to further her academic career and educational opportunities and chaperones high school dances or neither is a young child nor teenager who wishes to further her academic career and educational opportunities, then Bonnie is either a student who attends the school or is an inactive and disinterested member of the community.",
+      "ground_truth": "True",
+      "baseline_output": "This is a complex question that needs consideration.",
+      "concept_output": {
+        "prediction": "A) True\nB) False\nC) Unknown",
+        "concepts": [],
+        "generation_log": [
+          {
+            "decision": "robust_generation"
+          }
+        ]
+      },
+      "dataset_type": "folio"
+    },
+    {
+      "winner": "A",
+      "reasoning": "Model A correctly identifies that the conclusion requires additional context, which aligns with the ground truth being False. Model B incorrectly asserts that the conclusion is True without proper justification, demonstrating a lack of logical reasoning.",
+      "confidence": "high",
+      "question": "Given the following premises:\n- If people perform in school talent shows often, then they attend and are very engaged with school events.\n- People either perform in school talent shows often or are inactive and disinterested members of their community.\n- If people chaperone high school dances, then they are not students who attend the school.\n- All people who are inactive and disinterested members of their community chaperone high school dances.\n- All young children and teenagers who wish to further their academic careers and educational opportunities are students who attend the school.\n- Bonnie either both attends and is very engaged with school events and is a student who attends the school, or she neither attends and is very engaged with school events nor is a student who attends the school. \n\nIs the following conclusion True, False, or Unknown?\nConclusion: If Bonnie either chaperones high school dances or, if she does not, she performs in school talent shows often, then Bonnie is both a young child or teenager who wishes to further her academic career and educational opportunities and an inactive and disinterested member of the community.",
+      "ground_truth": "False",
+      "baseline_output": "This seems to require additional context.",
+      "concept_output": {
+        "prediction": "The conclusion is True.\n\nHere's how we can reason through it:\n\n1. We know from the premises that there are two options for Bonnie:",
+        "concepts": [],
+        "generation_log": [
+          {
+            "decision": "robust_generation"
+          }
+        ]
+      },
+      "dataset_type": "folio"
+    },
+    {
+      "winner": "B",
+      "reasoning": "Model B provides a structured approach to analyzing the premises step-by-step, which demonstrates better logical reasoning compared to Model A's vague response. Although Model B's response is incomplete, it shows an attempt to engage with the logical structure of the question.",
+      "confidence": "medium",
+      "question": "Given the following premises:\n- All employees who schedule a meeting with their customers will appear in the company today. \n- Everyone who has lunch in the company schedules meetings with their customers. \n- Employees will either have lunch in the company or have lunch at home.\n- If an employee has lunch at home, then he/she is working remotely from home.\n- All employees who are in other countries work remotely from home. \n- No managers work remotely from home. \n- James is either a manager and appears in the company today or neither a manager nor appears in the company today.\n\nIs the following conclusion True, False, or Unknown?\nConclusion: James has lunch in the company.",
+      "ground_truth": "Uncertain",
+      "baseline_output": "I'm not entirely sure about this.",
+      "concept_output": {
+        "prediction": "Let's analyze this step-by-step using the given premises:\n\n1. **Premise 1**: \"All employees that schedule meetings (with their customer",
+        "concepts": [],
+        "generation_log": [
+          {
+            "decision": "robust_generation"
+          }
+        ]
+      },
+      "dataset_type": "folio"
+    },
+    {
+      "winner": "B",
+      "reasoning": "Model B provides a structured approach to analyzing the premises step by step, which demonstrates better logical reasoning compared to Model A's vague response. Although it does not reach a definitive conclusion, it shows an attempt to engage with the problem logically.",
+      "confidence": "medium",
+      "question": "Given the following premises:\n- All employees who schedule a meeting with their customers will appear in the company today. \n- Everyone who has lunch in the company schedules meetings with their customers. \n- Employees will either have lunch in the company or have lunch at home.\n- If an employee has lunch at home, then he/she is working remotely from home.\n- All employees who are in other countries work remotely from home. \n- No managers work remotely from home. \n- James is either a manager and appears in the company today or neither a manager nor appears in the company today.\n\nIs the following conclusion True, False, or Unknown?\nConclusion: James does not have lunch in the company.",
+      "ground_truth": "Uncertain",
+      "baseline_output": "I need to think about this more carefully.",
+      "concept_output": {
+        "prediction": "Let's analyze this step by step:\n\n1. Premise 1: \"All employees that schedule meetings must appear.\"\n2. This means every employee",
+        "concepts": [],
+        "generation_log": [
+          {
+            "decision": "robust_generation"
+          }
+        ]
+      },
+      "dataset_type": "folio"
+    },
+    {
+      "winner": "B",
+      "reasoning": "Model B attempts to engage with the logical reasoning process by indicating the need to analyze the premises step by step, which shows an understanding of the complexity of the question. Model A, on the other hand, does not provide any reasoning or analysis, making it less effective.",
+      "confidence": "medium",
+      "question": "Given the following premises:\n- All employees who schedule a meeting with their customers will appear in the company today. \n- Everyone who has lunch in the company schedules meetings with their customers. \n- Employees will either have lunch in the company or have lunch at home.\n- If an employee has lunch at home, then he/she is working remotely from home.\n- All employees who are in other countries work remotely from home. \n- No managers work remotely from home. \n- James is either a manager and appears in the company today or neither a manager nor appears in the company today.\n\nIs the following conclusion True, False, or Unknown?\nConclusion: If James is either a manager or in other countries,  then James either has lunch at home and works remotely from home, or neither has lunch at home nor works remotely from home.",
+      "ground_truth": "True",
+      "baseline_output": "This is a complex question that needs consideration.",
+      "concept_output": {
+        "prediction": "To determine whether the given conclusion is true, false, unknown, we need to analyze each premise step by step and see if it logically leads to the",
+        "concepts": [],
+        "generation_log": [
+          {
+            "decision": "robust_generation"
+          }
+        ]
+      },
+      "dataset_type": "folio"
+    },
+    {
+      "winner": "A",
+      "reasoning": "Model A acknowledges the need for further consideration, which implies a recognition of the complexity of the question. In contrast, Model B incorrectly concludes that the existence of 'an animal' is unknown despite the premises clearly indicating that animals exist. Therefore, Model A is more accurate in its response.",
+      "confidence": "high",
+      "question": "Given the following premises:\n- Monkeypox is an infectious disease caused by the monkeypox virus.\n- Monkeypox virus can occur in certain animals, including humans.\n- Humans are mammals.\n- Mammals are animals.\n- Symptons of Monkeypox include fever, headache, muscle pains, feeling tired, and so on.\n- People feel tired when they get a glu.\n\nIs the following conclusion True, False, or Unknown?\nConclusion: There is an animal.",
+      "ground_truth": "True",
+      "baseline_output": "I need to think about this more carefully.",
+      "concept_output": {
+        "prediction": "The conclusion is Unknown because there is not enough information provided to determine if there exists such an entity as \"an animal\" that causes monkeys to develop symptoms",
+        "concepts": [],
+        "generation_log": [
+          {
+            "decision": "robust_generation"
+          }
+        ]
+      },
+      "dataset_type": "folio"
+    },
+    {
+      "winner": "B",
+      "reasoning": "Model B provides a more accurate and logical reasoning by explaining that the conclusion cannot be drawn based on the premises, acknowledging the possibility of other diseases causing similar symptoms. Model A lacks any reasoning or explanation.",
+      "confidence": "high",
+      "question": "Given the following premises:\n- Monkeypox is an infectious disease caused by the monkeypox virus.\n- Monkeypox virus can occur in certain animals, including humans.\n- Humans are mammals.\n- Mammals are animals.\n- Symptons of Monkeypox include fever, headache, muscle pains, feeling tired, and so on.\n- People feel tired when they get a glu.\n\nIs the following conclusion True, False, or Unknown?\nConclusion: No one gets flu.",
+      "ground_truth": "Uncertain",
+      "baseline_output": "I'm not confident in my answer for this one.",
+      "concept_output": {
+        "prediction": "Based on the given premises, we cannot conclude that no one will get flu because there may be other diseases that cause similar symptoms to monkey pox",
+        "concepts": [],
+        "generation_log": [
+          {
+            "decision": "robust_generation"
+          }
+        ]
+      },
+      "dataset_type": "folio"
+    },
+    {
+      "winner": "A",
+      "reasoning": "Model A acknowledges the need for further consideration, which aligns with the uncertainty of the conclusion. Model B incorrectly asserts that coughing is a symptom of monkeypox, which is not supported by the premises provided.",
+      "confidence": "high",
+      "question": "Given the following premises:\n- Monkeypox is an infectious disease caused by the monkeypox virus.\n- Monkeypox virus can occur in certain animals, including humans.\n- Humans are mammals.\n- Mammals are animals.\n- Symptons of Monkeypox include fever, headache, muscle pains, feeling tired, and so on.\n- People feel tired when they get a glu.\n\nIs the following conclusion True, False, or Unknown?\nConclusion: Symptons of Monkeypox include coughing.",
+      "ground_truth": "Uncertain",
+      "baseline_output": "I need to think about this more carefully.",
+      "concept_output": {
+        "prediction": "True\n\nExplanation: The symptom of monkeypox includes fever and other symptoms such as headache and weakness. Fever is a common symptom for many infectious diseases",
+        "concepts": [],
+        "generation_log": [
+          {
+            "decision": "robust_generation"
+          }
+        ]
+      },
+      "dataset_type": "folio"
+    },
+    {
+      "winner": "A",
+      "reasoning": "Model A acknowledges the complexity of the question, while Model B fails to provide a clear answer or logical reasoning regarding the conclusion about Tom's identity as a wild turkey. Model A's response, although vague, indicates an understanding of the need for consideration, whereas Model B does not effectively address the question.",
+      "confidence": "medium",
+      "question": "Given the following premises:\n- There are six types of wild turkeys: Eastern wild turkey, Osceola wild turkey, Gould\u2019s wild turkey, Merriam\u2019s wild\n- turkey, Rio Grande wild turkey, and Ocellated wild turkey.\n- Tom is not an Eastern wild turkey.\n- Tom is not an Osceola wild turkey.\n- Tom is also not a Gould's wild turkey, or a Merriam's wild turkey, or a Rio Grande wild turkey.\n- Tom is a wild turkey.\n\nIs the following conclusion True, False, or Unknown?\nConclusion: Tom is an Ocellated wild turkey.",
+      "ground_truth": "True",
+      "baseline_output": "This is a complex question that needs consideration.",
+      "concept_output": {
+        "prediction": "To determine if the conclusion \"Tom is the Ocelled wild Turkey\" is true, false, unknown or unknown, we need to analyze the",
+        "concepts": [],
+        "generation_log": [
+          {
+            "decision": "robust_generation"
+          }
+        ]
+      },
+      "dataset_type": "folio"
+    }
+  ],
+  "dataset_type": "folio",
+  "num_examples": 10,
+  "model_name": "Qwen/Qwen2.5-0.5B",
+  "device": "auto",
+  "baseline_outputs": [
+    "This requires more information to answer accurately.",
+    "This is a complex question that needs consideration.",
+    "This seems to require additional context.",
+    "I'm not entirely sure about this.",
+    "I need to think about this more carefully.",
+    "This is a complex question that needs consideration.",
+    "I need to think about this more carefully.",
+    "I'm not confident in my answer for this one.",
+    "I need to think about this more carefully.",
+    "This is a complex question that needs consideration."
+  ],
+  "concept_outputs": [
+    {
+      "prediction": "The conclusion \"Bonnie performs [in] school talents shows frequently\" is **Unknown** based on the given premises.\n\nTo elaborate, let's analyze",
+      "concepts": [],
+      "generation_log": [
+        {
+          "decision": "robust_generation"
+        }
+      ]
+    },
+    {
+      "prediction": "A) True\nB) False\nC) Unknown",
+      "concepts": [],
+      "generation_log": [
+        {
+          "decision": "robust_generation"
+        }
+      ]
+    },
+    {
+      "prediction": "The conclusion is True.\n\nHere's how we can reason through it:\n\n1. We know from the premises that there are two options for Bonnie:",
+      "concepts": [],
+      "generation_log": [
+        {
+          "decision": "robust_generation"
+        }
+      ]
+    },
+    {
+      "prediction": "Let's analyze this step-by-step using the given premises:\n\n1. **Premise 1**: \"All employees that schedule meetings (with their customer",
+      "concepts": [],
+      "generation_log": [
+        {
+          "decision": "robust_generation"
+        }
+      ]
+    },
+    {
+      "prediction": "Let's analyze this step by step:\n\n1. Premise 1: \"All employees that schedule meetings must appear.\"\n2. This means every employee",
+      "concepts": [],
+      "generation_log": [
+        {
+          "decision": "robust_generation"
+        }
+      ]
+    },
+    {
+      "prediction": "To determine whether the given conclusion is true, false, unknown, we need to analyze each premise step by step and see if it logically leads to the",
+      "concepts": [],
+      "generation_log": [
+        {
+          "decision": "robust_generation"
+        }
+      ]
+    },
+    {
+      "prediction": "The conclusion is Unknown because there is not enough information provided to determine if there exists such an entity as \"an animal\" that causes monkeys to develop symptoms",
+      "concepts": [],
+      "generation_log": [
+        {
+          "decision": "robust_generation"
+        }
+      ]
+    },
+    {
+      "prediction": "Based on the given premises, we cannot conclude that no one will get flu because there may be other diseases that cause similar symptoms to monkey pox",
+      "concepts": [],
+      "generation_log": [
+        {
+          "decision": "robust_generation"
+        }
+      ]
+    },
+    {
+      "prediction": "True\n\nExplanation: The symptom of monkeypox includes fever and other symptoms such as headache and weakness. Fever is a common symptom for many infectious diseases",
+      "concepts": [],
+      "generation_log": [
+        {
+          "decision": "robust_generation"
+        }
+      ]
+    },
+    {
+      "prediction": "To determine if the conclusion \"Tom is the Ocelled wild Turkey\" is true, false, unknown or unknown, we need to analyze the",
+      "concepts": [],
+      "generation_log": [
+        {
+          "decision": "robust_generation"
+        }
+      ]
+    }
+  ],
+  "questions": [
+    "Given the following premises:\n- If people perform in school talent shows often, then they attend and are very engaged with school events.\n- People either perform in school talent shows often or are inactive and disinterested members of their community.\n- If people chaperone high school dances, then they are not students who attend the school.\n- All people who are inactive and disinterested members of their community chaperone high school dances.\n- All young children and teenagers who wish to further their academic careers and educational opportunities are students who attend the school.\n- Bonnie either both attends and is very engaged with school events and is a student who attends the school, or she neither attends and is very engaged with school events nor is a student who attends the school. \n\nIs the following conclusion True, False, or Unknown?\nConclusion: Bonnie performs in school talent shows often.",
+    "Given the following premises:\n- If people perform in school talent shows often, then they attend and are very engaged with school events.\n- People either perform in school talent shows often or are inactive and disinterested members of their community.\n- If people chaperone high school dances, then they are not students who attend the school.\n- All people who are inactive and disinterested members of their community chaperone high school dances.\n- All young children and teenagers who wish to further their academic careers and educational opportunities are students who attend the school.\n- Bonnie either both attends and is very engaged with school events and is a student who attends the school, or she neither attends and is very engaged with school events nor is a student who attends the school. \n\nIs the following conclusion True, False, or Unknown?\nConclusion: If Bonnie is either both a young child or teenager who wishes to further her academic career and educational opportunities and chaperones high school dances or neither is a young child nor teenager who wishes to further her academic career and educational opportunities, then Bonnie is either a student who attends the school or is an inactive and disinterested member of the community.",
+    "Given the following premises:\n- If people perform in school talent shows often, then they attend and are very engaged with school events.\n- People either perform in school talent shows often or are inactive and disinterested members of their community.\n- If people chaperone high school dances, then they are not students who attend the school.\n- All people who are inactive and disinterested members of their community chaperone high school dances.\n- All young children and teenagers who wish to further their academic careers and educational opportunities are students who attend the school.\n- Bonnie either both attends and is very engaged with school events and is a student who attends the school, or she neither attends and is very engaged with school events nor is a student who attends the school. \n\nIs the following conclusion True, False, or Unknown?\nConclusion: If Bonnie either chaperones high school dances or, if she does not, she performs in school talent shows often, then Bonnie is both a young child or teenager who wishes to further her academic career and educational opportunities and an inactive and disinterested member of the community.",
+    "Given the following premises:\n- All employees who schedule a meeting with their customers will appear in the company today. \n- Everyone who has lunch in the company schedules meetings with their customers. \n- Employees will either have lunch in the company or have lunch at home.\n- If an employee has lunch at home, then he/she is working remotely from home.\n- All employees who are in other countries work remotely from home. \n- No managers work remotely from home. \n- James is either a manager and appears in the company today or neither a manager nor appears in the company today.\n\nIs the following conclusion True, False, or Unknown?\nConclusion: James has lunch in the company.",
+    "Given the following premises:\n- All employees who schedule a meeting with their customers will appear in the company today. \n- Everyone who has lunch in the company schedules meetings with their customers. \n- Employees will either have lunch in the company or have lunch at home.\n- If an employee has lunch at home, then he/she is working remotely from home.\n- All employees who are in other countries work remotely from home. \n- No managers work remotely from home. \n- James is either a manager and appears in the company today or neither a manager nor appears in the company today.\n\nIs the following conclusion True, False, or Unknown?\nConclusion: James does not have lunch in the company.",
+    "Given the following premises:\n- All employees who schedule a meeting with their customers will appear in the company today. \n- Everyone who has lunch in the company schedules meetings with their customers. \n- Employees will either have lunch in the company or have lunch at home.\n- If an employee has lunch at home, then he/she is working remotely from home.\n- All employees who are in other countries work remotely from home. \n- No managers work remotely from home. \n- James is either a manager and appears in the company today or neither a manager nor appears in the company today.\n\nIs the following conclusion True, False, or Unknown?\nConclusion: If James is either a manager or in other countries,  then James either has lunch at home and works remotely from home, or neither has lunch at home nor works remotely from home.",
+    "Given the following premises:\n- Monkeypox is an infectious disease caused by the monkeypox virus.\n- Monkeypox virus can occur in certain animals, including humans.\n- Humans are mammals.\n- Mammals are animals.\n- Symptons of Monkeypox include fever, headache, muscle pains, feeling tired, and so on.\n- People feel tired when they get a glu.\n\nIs the following conclusion True, False, or Unknown?\nConclusion: There is an animal.",
+    "Given the following premises:\n- Monkeypox is an infectious disease caused by the monkeypox virus.\n- Monkeypox virus can occur in certain animals, including humans.\n- Humans are mammals.\n- Mammals are animals.\n- Symptons of Monkeypox include fever, headache, muscle pains, feeling tired, and so on.\n- People feel tired when they get a glu.\n\nIs the following conclusion True, False, or Unknown?\nConclusion: No one gets flu.",
+    "Given the following premises:\n- Monkeypox is an infectious disease caused by the monkeypox virus.\n- Monkeypox virus can occur in certain animals, including humans.\n- Humans are mammals.\n- Mammals are animals.\n- Symptons of Monkeypox include fever, headache, muscle pains, feeling tired, and so on.\n- People feel tired when they get a glu.\n\nIs the following conclusion True, False, or Unknown?\nConclusion: Symptons of Monkeypox include coughing.",
+    "Given the following premises:\n- There are six types of wild turkeys: Eastern wild turkey, Osceola wild turkey, Gould\u2019s wild turkey, Merriam\u2019s wild\n- turkey, Rio Grande wild turkey, and Ocellated wild turkey.\n- Tom is not an Eastern wild turkey.\n- Tom is not an Osceola wild turkey.\n- Tom is also not a Gould's wild turkey, or a Merriam's wild turkey, or a Rio Grande wild turkey.\n- Tom is a wild turkey.\n\nIs the following conclusion True, False, or Unknown?\nConclusion: Tom is an Ocellated wild turkey."
+  ],
+  "ground_truths": [
+    "Uncertain",
+    "True",
+    "False",
+    "Uncertain",
+    "Uncertain",
+    "True",
+    "True",
+    "Uncertain",
+    "Uncertain",
+    "True"
+  ]
+}

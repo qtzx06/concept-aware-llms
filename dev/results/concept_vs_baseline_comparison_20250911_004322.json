@@ -1,0 +1,95 @@
+{
+  "total_comparisons": 5,
+  "successful_comparisons": 5,
+  "failed_comparisons": 0,
+  "baseline_wins": 0,
+  "concept_wins": 0,
+  "ties": 5,
+  "baseline_win_rate": 0.0,
+  "concept_win_rate": 0.0,
+  "tie_rate": 1.0,
+  "individual_comparisons": [
+    {
+      "winner": "TIE",
+      "reasoning": "Both responses failed to provide an answer due to an error in generating output, making them equally inadequate.",
+      "confidence": "high",
+      "question": "Is the following statement true or false: All birds can fly.",
+      "ground_truth": "False",
+      "baseline_output": "Error generating baseline output: 'RealisticQwenBaseline' object has no attribute 'generate_answer'",
+      "concept_output": "Error generating baseline output: 'RealisticQwenBaseline' object has no attribute 'generate_answer'",
+      "dataset_type": "folio"
+    },
+    {
+      "winner": "TIE",
+      "reasoning": "Both responses encountered the same error and did not provide an answer to the logical reasoning question, making them equally inadequate.",
+      "confidence": "high",
+      "question": "If it's raining, then the ground is wet. It's raining. Is the ground wet?",
+      "ground_truth": "True",
+      "baseline_output": "Error generating baseline output: 'RealisticQwenBaseline' object has no attribute 'generate_answer'",
+      "concept_output": "Error generating baseline output: 'RealisticQwenBaseline' object has no attribute 'generate_answer'",
+      "dataset_type": "folio"
+    },
+    {
+      "winner": "TIE",
+      "reasoning": "Both responses failed to provide an answer due to an error, making them equally inadequate in addressing the logical reasoning question.",
+      "confidence": "high",
+      "question": "All cats are animals. Fluffy is a cat. Is Fluffy an animal?",
+      "ground_truth": "True",
+      "baseline_output": "Error generating baseline output: 'RealisticQwenBaseline' object has no attribute 'generate_answer'",
+      "concept_output": "Error generating baseline output: 'RealisticQwenBaseline' object has no attribute 'generate_answer'",
+      "dataset_type": "folio"
+    },
+    {
+      "winner": "TIE",
+      "reasoning": "Both responses failed to provide an answer due to an error in generating output, making them equally inadequate.",
+      "confidence": "high",
+      "question": "If a number is even, then it's divisible by 2. 8 is even. Is 8 divisible by 2?",
+      "ground_truth": "True",
+      "baseline_output": "Error generating baseline output: 'RealisticQwenBaseline' object has no attribute 'generate_answer'",
+      "concept_output": "Error generating baseline output: 'RealisticQwenBaseline' object has no attribute 'generate_answer'",
+      "dataset_type": "folio"
+    },
+    {
+      "winner": "TIE",
+      "reasoning": "Both responses failed to generate an answer due to an error, making them equally inadequate in addressing the logical reasoning question.",
+      "confidence": "high",
+      "question": "All roses are flowers. This is a rose. Is this a flower?",
+      "ground_truth": "True",
+      "baseline_output": "Error generating baseline output: 'RealisticQwenBaseline' object has no attribute 'generate_answer'",
+      "concept_output": "Error generating baseline output: 'RealisticQwenBaseline' object has no attribute 'generate_answer'",
+      "dataset_type": "folio"
+    }
+  ],
+  "dataset_type": "folio",
+  "num_examples": 5,
+  "model_name": "Qwen/Qwen2.5-0.5B",
+  "device": "auto",
+  "baseline_outputs": [
+    "Error generating baseline output: 'RealisticQwenBaseline' object has no attribute 'generate_answer'",
+    "Error generating baseline output: 'RealisticQwenBaseline' object has no attribute 'generate_answer'",
+    "Error generating baseline output: 'RealisticQwenBaseline' object has no attribute 'generate_answer'",
+    "Error generating baseline output: 'RealisticQwenBaseline' object has no attribute 'generate_answer'",
+    "Error generating baseline output: 'RealisticQwenBaseline' object has no attribute 'generate_answer'"
+  ],
+  "concept_outputs": [
+    "Error generating baseline output: 'RealisticQwenBaseline' object has no attribute 'generate_answer'",
+    "Error generating baseline output: 'RealisticQwenBaseline' object has no attribute 'generate_answer'",
+    "Error generating baseline output: 'RealisticQwenBaseline' object has no attribute 'generate_answer'",
+    "Error generating baseline output: 'RealisticQwenBaseline' object has no attribute 'generate_answer'",
+    "Error generating baseline output: 'RealisticQwenBaseline' object has no attribute 'generate_answer'"
+  ],
+  "questions": [
+    "Is the following statement true or false: All birds can fly.",
+    "If it's raining, then the ground is wet. It's raining. Is the ground wet?",
+    "All cats are animals. Fluffy is a cat. Is Fluffy an animal?",
+    "If a number is even, then it's divisible by 2. 8 is even. Is 8 divisible by 2?",
+    "All roses are flowers. This is a rose. Is this a flower?"
+  ],
+  "ground_truths": [
+    "False",
+    "True",
+    "True",
+    "True",
+    "True"
+  ]
+}

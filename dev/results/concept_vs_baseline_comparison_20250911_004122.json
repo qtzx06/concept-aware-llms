@@ -1,0 +1,100 @@
+{
+  "total_comparisons": 5,
+  "successful_comparisons": 0,
+  "failed_comparisons": 5,
+  "baseline_wins": 0,
+  "concept_wins": 0,
+  "ties": 0,
+  "baseline_win_rate": 0,
+  "concept_win_rate": 0,
+  "tie_rate": 0,
+  "individual_comparisons": [
+    {
+      "winner": "TIE",
+      "reasoning": "Comparison failed: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}",
+      "confidence": "low",
+      "error": "Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}",
+      "question": "Is the following statement true or false: All birds can fly.",
+      "ground_truth": "False",
+      "baseline_output": "Error generating baseline output: 'RealisticQwenBaseline' object has no attribute 'generate_answer'",
+      "concept_output": "Error generating baseline output: 'RealisticQwenBaseline' object has no attribute 'generate_answer'",
+      "dataset_type": "folio"
+    },
+    {
+      "winner": "TIE",
+      "reasoning": "Comparison failed: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}",
+      "confidence": "low",
+      "error": "Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}",
+      "question": "If it's raining, then the ground is wet. It's raining. Is the ground wet?",
+      "ground_truth": "True",
+      "baseline_output": "Error generating baseline output: 'RealisticQwenBaseline' object has no attribute 'generate_answer'",
+      "concept_output": "Error generating baseline output: 'RealisticQwenBaseline' object has no attribute 'generate_answer'",
+      "dataset_type": "folio"
+    },
+    {
+      "winner": "TIE",
+      "reasoning": "Comparison failed: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}",
+      "confidence": "low",
+      "error": "Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}",
+      "question": "All cats are animals. Fluffy is a cat. Is Fluffy an animal?",
+      "ground_truth": "True",
+      "baseline_output": "Error generating baseline output: 'RealisticQwenBaseline' object has no attribute 'generate_answer'",
+      "concept_output": "Error generating baseline output: 'RealisticQwenBaseline' object has no attribute 'generate_answer'",
+      "dataset_type": "folio"
+    },
+    {
+      "winner": "TIE",
+      "reasoning": "Comparison failed: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}",
+      "confidence": "low",
+      "error": "Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}",
+      "question": "If a number is even, then it's divisible by 2. 8 is even. Is 8 divisible by 2?",
+      "ground_truth": "True",
+      "baseline_output": "Error generating baseline output: 'RealisticQwenBaseline' object has no attribute 'generate_answer'",
+      "concept_output": "Error generating baseline output: 'RealisticQwenBaseline' object has no attribute 'generate_answer'",
+      "dataset_type": "folio"
+    },
+    {
+      "winner": "TIE",
+      "reasoning": "Comparison failed: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}",
+      "confidence": "low",
+      "error": "Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}",
+      "question": "All roses are flowers. This is a rose. Is this a flower?",
+      "ground_truth": "True",
+      "baseline_output": "Error generating baseline output: 'RealisticQwenBaseline' object has no attribute 'generate_answer'",
+      "concept_output": "Error generating baseline output: 'RealisticQwenBaseline' object has no attribute 'generate_answer'",
+      "dataset_type": "folio"
+    }
+  ],
+  "dataset_type": "folio",
+  "num_examples": 5,
+  "model_name": "Qwen/Qwen2.5-0.5B",
+  "device": "auto",
+  "baseline_outputs": [
+    "Error generating baseline output: 'RealisticQwenBaseline' object has no attribute 'generate_answer'",
+    "Error generating baseline output: 'RealisticQwenBaseline' object has no attribute 'generate_answer'",
+    "Error generating baseline output: 'RealisticQwenBaseline' object has no attribute 'generate_answer'",
+    "Error generating baseline output: 'RealisticQwenBaseline' object has no attribute 'generate_answer'",
+    "Error generating baseline output: 'RealisticQwenBaseline' object has no attribute 'generate_answer'"
+  ],
+  "concept_outputs": [
+    "Error generating baseline output: 'RealisticQwenBaseline' object has no attribute 'generate_answer'",
+    "Error generating baseline output: 'RealisticQwenBaseline' object has no attribute 'generate_answer'",
+    "Error generating baseline output: 'RealisticQwenBaseline' object has no attribute 'generate_answer'",
+    "Error generating baseline output: 'RealisticQwenBaseline' object has no attribute 'generate_answer'",
+    "Error generating baseline output: 'RealisticQwenBaseline' object has no attribute 'generate_answer'"
+  ],
+  "questions": [
+    "Is the following statement true or false: All birds can fly.",
+    "If it's raining, then the ground is wet. It's raining. Is the ground wet?",
+    "All cats are animals. Fluffy is a cat. Is Fluffy an animal?",
+    "If a number is even, then it's divisible by 2. 8 is even. Is 8 divisible by 2?",
+    "All roses are flowers. This is a rose. Is this a flower?"
+  ],
+  "ground_truths": [
+    "False",
+    "True",
+    "True",
+    "True",
+    "True"
+  ]
+}
