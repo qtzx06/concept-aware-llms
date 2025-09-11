@@ -1,0 +1,61 @@
+
+==================== Step 1/100 ====================
+
+--- Top 29 Token Candidates (after prob filter) ---
+Token: 'Parents' (ID: 61769), Prob: 0.5670
+Token: 'A' (ID: 32), Prob: 0.1310
+Token: 'One' (ID: 3966), Prob: 0.0431
+Token: 'Some' (ID: 8373), Prob: 0.0389
+Token: 'Certainly' (ID: 95456), Prob: 0.0346
+Token: 'Common' (ID: 10839), Prob: 0.0311
+Token: 'Sure' (ID: 39814), Prob: 0.0255
+Token: 'There' (ID: 3862), Prob: 0.0225
+Token: 'Here' (ID: 8420), Prob: 0.0140
+Token: 'Parent' (ID: 8387), Prob: 0.0105
+Token: 'Many' (ID: 8441), Prob: 0.0093
+Token: 'Well' (ID: 11395), Prob: 0.0078
+Token: 'It' (ID: 2132), Prob: 0.0046
+Token: '-' (ID: 12), Prob: 0.0039
+Token: 'Yes' (ID: 9454), Prob: 0.0039
+Token: 'When' (ID: 4498), Prob: 0.0038
+Token: 'The' (ID: 785), Prob: 0.0031
+Token: '1' (ID: 16), Prob: 0.0029
+Token: 'Sometimes' (ID: 31048), Prob: 0.0024
+Token: 'While' (ID: 7983), Prob: 0.0019
+Token: 'An' (ID: 2082), Prob: 0.0019
+Token: 'Of' (ID: 2124), Prob: 0.0018
+Token: 'Great' (ID: 21396), Prob: 0.0015
+Token: 'Examples' (ID: 40381), Prob: 0.0015
+Token: 'In' (ID: 641), Prob: 0.0014
+Token: 'Several' (ID: 34762), Prob: 0.0013
+Token: 'Something' (ID: 23087), Prob: 0.0012
+Token: 'Absolutely' (ID: 77045), Prob: 0.0011
+Token: '"' (ID: 1), Prob: 0.0011
+
+--- Word Grouping Results ---
+Grouped 29 tokens into 25 words:
+Word 0: 'ParentsA' (tokens: 2, prob: 0.0743)
+Word 1: 'One' (tokens: 1, prob: 0.0431)
+Word 2: 'Some' (tokens: 1, prob: 0.0389)
+Word 3: 'Certainly' (tokens: 1, prob: 0.0346)
+Word 4: 'Common' (tokens: 1, prob: 0.0311)
+Word 5: 'Sure' (tokens: 1, prob: 0.0255)
+Word 6: 'There' (tokens: 1, prob: 0.0225)
+Word 7: 'Here' (tokens: 1, prob: 0.0140)
+Word 8: 'Parent' (tokens: 1, prob: 0.0105)
+Word 9: 'Many' (tokens: 1, prob: 0.0093)
+Word 10: 'Well' (tokens: 1, prob: 0.0078)
+Word 11: 'It-' (tokens: 2, prob: 0.0000)
+Word 12: 'Yes' (tokens: 1, prob: 0.0039)
+Word 13: 'When' (tokens: 1, prob: 0.0038)
+Word 14: 'The1' (tokens: 2, prob: 0.0000)
+Word 15: 'Sometimes' (tokens: 1, prob: 0.0024)
+Word 16: 'While' (tokens: 1, prob: 0.0019)
+Word 17: 'An' (tokens: 1, prob: 0.0019)
+Word 18: 'Of' (tokens: 1, prob: 0.0018)
+Word 19: 'Great' (tokens: 1, prob: 0.0015)
+Word 20: 'Examples' (tokens: 1, prob: 0.0015)
+Word 21: 'In' (tokens: 1, prob: 0.0014)
+Word 22: 'Several' (tokens: 1, prob: 0.0013)
+Word 23: 'Something' (tokens: 1, prob: 0.0012)
+Word 24: 'Absolutely"' (tokens: 2, prob: 0.0000)
