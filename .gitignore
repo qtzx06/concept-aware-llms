@@ -7,3 +7,8 @@ pycache/
 results/
 *.log
 .cache/
+.env.local.env
+.env.*
+*.env
+*.env.*
+
