@@ -1,6 +1,0 @@
-python protoqa_benchmark.py \
-  --backend runpod \
-  --protoqa_dir "./protoqa-data/data" \
-  --split dev \
-  --out protoqa_results.csv
-

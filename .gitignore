@@ -1,5 +1,9 @@
 /conceptEnv/
 benchmark_results_wikitext.csv/
-/concept-qwen/logs
-/concept-qwen/protoqa_results.csv
-/concept-qwen/benchmark_results_wikitext.csv
+/__pycache__/
+/concept-decoder_protoqa/protoqa_decoder_dev.csv
+pycache/
+*.pyc
+results/
+*.log
+.cache/
